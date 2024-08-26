@@ -1,6 +1,6 @@
 {
   "startTime": 1724689640506,
-  "endTime": 1724689640506,
+  "endTime": 1724690533653,
   "band_list": [
     {
       "raw_hot": 4028084,
@@ -91,12 +91,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 613744,
+      "num": 523121,
+      "word": "穆祉丞脱衣",
+      "onboard_time": 1724677042,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 588824,
       "num": 588824,
       "word": "郑钦文VS阿尼西莫娃",
       "onboard_time": 1724684124,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 520236,
+      "num": 520236,
+      "word": "朱志鑫脱了",
+      "onboard_time": 1724687786,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 506625,
@@ -140,27 +156,11 @@
     },
     {
       "raw_hot": 376147,
-      "num": 376147,
+      "num": 583450,
       "word": "中专生军训中暑身亡家属发声",
       "onboard_time": 1724682863,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 365622,
-      "num": 365622,
-      "word": "朱志鑫脱了",
-      "onboard_time": 1724687786,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 323332,
-      "num": 323332,
-      "word": "穆祉丞脱衣",
-      "onboard_time": 1724677042,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 323115,
@@ -219,20 +219,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222133,
+      "num": 627076,
+      "word": "支持教师积极管教学生",
+      "onboard_time": 1724678062,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217297,
+      "num": 217297,
+      "word": "方便面为什么不好卖了",
+      "onboard_time": 1724684483,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209365,
       "num": 209365,
       "word": "种地吧",
       "onboard_time": 1724684302,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209113,
-      "num": 209113,
-      "word": "方便面为什么不好卖了",
-      "onboard_time": 1724684483,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207198,
@@ -257,6 +265,14 @@
       "onboard_time": 1724665102,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195047,
+      "num": 195047,
+      "word": "马龙说官宣前2小时才知道是奥运旗手",
+      "onboard_time": 1724688326,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 193962,
@@ -289,14 +305,6 @@
       "onboard_time": 1724685743,
       "rank": 37,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 178607,
-      "num": 193131,
-      "word": "马龙说官宣前2小时才知道是奥运旗手",
-      "onboard_time": 1724688326,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 175262,
@@ -339,12 +347,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142947,
-      "num": 627076,
-      "word": "支持教师积极管教学生",
-      "onboard_time": 1724678062,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 153476,
+      "num": 193072,
+      "word": "奥恰洛夫发文感谢中国粉丝",
+      "onboard_time": 1724688086,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 135670,
@@ -353,14 +361,6 @@
       "onboard_time": 1724682923,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 134051,
-      "num": 193072,
-      "word": "奥恰洛夫发文感谢中国粉丝",
-      "onboard_time": 1724688086,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 131966,
@@ -395,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113665,
+      "num": 140025,
+      "word": "俄打击乌军工综合体和关键能源设施",
+      "onboard_time": 1724664081,
+      "rank": 47,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 67148,
       "num": 3061010,
       "word": "雨天出门千万要注意的小事",
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#习近平总书记高度重视统一战线工作#"
+    },
+    {
+      "word": "#学习新语#"
     }
   ]
 }

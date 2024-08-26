@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724689640506,
+  "endTime": 1724690533653,
   "band_list": [
     {
       "raw_hot": 14208627,
@@ -1347,6 +1347,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 613744,
+      "num": 523121,
+      "word": "穆祉丞脱衣",
+      "onboard_time": 1724677042,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 613329,
       "num": 613329,
       "word": "10年来结婚登记数腰斩",
@@ -1545,6 +1553,14 @@
       "onboard_time": 1724560399,
       "rank": 28,
       "category": "网红,互联网"
+    },
+    {
+      "raw_hot": 520236,
+      "num": 520236,
+      "word": "朱志鑫脱了",
+      "onboard_time": 1724687786,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 517845,
@@ -2060,7 +2076,7 @@
     },
     {
       "raw_hot": 376147,
-      "num": 376147,
+      "num": 583450,
       "word": "中专生军训中暑身亡家属发声",
       "onboard_time": 1724682863,
       "rank": 45,
@@ -2129,14 +2145,6 @@
       "onboard_time": 1724511323,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 365622,
-      "num": 365622,
-      "word": "朱志鑫脱了",
-      "onboard_time": 1724687786,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 357050,
@@ -2329,14 +2337,6 @@
       "onboard_time": 1724560639,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 323332,
-      "num": 323332,
-      "word": "穆祉丞脱衣",
-      "onboard_time": 1724677042,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 319037,
@@ -3467,6 +3467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 217297,
+      "num": 217297,
+      "word": "方便面为什么不好卖了",
+      "onboard_time": 1724684483,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217017,
       "num": 217017,
       "word": "全球多地暴发西尼罗河病毒疫情",
@@ -3617,14 +3625,6 @@
       "onboard_time": 1724563759,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 210405,
-      "num": 210405,
-      "word": "方便面为什么不好卖了",
-      "onboard_time": 1724684483,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210306,
@@ -4067,6 +4067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195047,
+      "num": 195047,
+      "word": "马龙说官宣前2小时才知道是奥运旗手",
+      "onboard_time": 1724688326,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195023,
       "num": 251973,
       "word": "赵露思修剪发际线vlog",
@@ -4456,14 +4464,6 @@
       "word": "孙杨赛前检录仍是满背膏药",
       "onboard_time": 1724656040,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 178607,
-      "num": 193131,
-      "word": "马龙说官宣前2小时才知道是奥运旗手",
-      "onboard_time": 1724688326,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -5099,6 +5099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153476,
+      "num": 193072,
+      "word": "奥恰洛夫发文感谢中国粉丝",
+      "onboard_time": 1724688086,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153083,
       "num": 153083,
       "word": "黄宗泽回应与蔡洁绯闻",
@@ -5488,14 +5496,6 @@
       "word": "王哲林分享活该",
       "onboard_time": 1724628077,
       "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 134051,
-      "num": 193072,
-      "word": "奥恰洛夫发文感谢中国粉丝",
-      "onboard_time": 1724688086,
-      "rank": 45,
       "category": "体育"
     },
     {
