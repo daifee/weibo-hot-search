@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724681992687,
+  "endTime": 1724683037778,
   "band_list": [
     {
       "raw_hot": 14208627,
@@ -179,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1936327,
+      "num": 1936327,
+      "word": "三代出道战",
+      "onboard_time": 1724680822,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1843143,
       "num": 618330,
       "word": "黄子韬少看点番茄小说吧",
@@ -339,20 +347,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1571680,
+      "num": 567243,
+      "word": "女子吃冰箱剩西瓜引发脑脓肿",
+      "onboard_time": 1724677341,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1561975,
       "num": 1561975,
       "word": "孙杨晋级决赛",
       "onboard_time": 1724555600,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1546721,
-      "num": 567243,
-      "word": "女子吃冰箱剩西瓜引发脑脓肿",
-      "onboard_time": 1724677341,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1517879,
@@ -428,7 +436,7 @@
     },
     {
       "raw_hot": 1349634,
-      "num": 502939,
+      "num": 551104,
       "word": "隔日断食15天瘦了18斤",
       "onboard_time": 1724667680,
       "rank": 20,
@@ -561,6 +569,14 @@
       "onboard_time": 1724513601,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1143444,
+      "num": 1143444,
+      "word": "吉祥航空通报儿童被关厕所教育",
+      "onboard_time": 1724676381,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1135213,
@@ -731,14 +747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 958783,
-      "num": 916408,
-      "word": "三代出道战",
-      "onboard_time": 1724680822,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 951141,
       "num": 951141,
       "word": "超65万人预约观看孙杨复出战",
@@ -857,14 +865,6 @@
       "onboard_time": 1724667801,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 862255,
-      "num": 862255,
-      "word": "吉祥航空通报儿童被关厕所教育",
-      "onboard_time": 1724676381,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 850891,
@@ -1179,6 +1179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 670633,
+      "num": 670633,
+      "word": "南派三叔回应吴邪选角",
+      "onboard_time": 1724680523,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 665955,
       "num": 905927,
       "word": "王一博爱豆素养",
@@ -1219,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 639241,
+      "num": 639241,
+      "word": "比俺叫焦恩俊还有杀伤力",
+      "onboard_time": 1724680042,
+      "rank": 25,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 635427,
       "num": 635427,
       "word": "历史老师玩黑神话投入到手抖",
@@ -1233,6 +1249,14 @@
       "onboard_time": 1724572341,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 625033,
+      "num": 625033,
+      "word": "连云港一河道旁发现无名女尸",
+      "onboard_time": 1724680822,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 614744,
@@ -1339,12 +1363,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 576855,
-      "num": 576855,
-      "word": "南派三叔回应吴邪选角",
-      "onboard_time": 1724680523,
-      "rank": 16,
-      "category": "剧集"
+      "raw_hot": 577366,
+      "num": 577366,
+      "word": "居民医保个人缴费标准增20元",
+      "onboard_time": 1724679022,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 572273,
@@ -1675,6 +1699,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 453325,
+      "num": 453325,
+      "word": "支持教师积极管教学生",
+      "onboard_time": 1724678062,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 452042,
       "num": 626947,
       "word": "2024年居民医保最新缴费标准",
@@ -1787,6 +1819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 427251,
+      "num": 740934,
+      "word": "郑钦文转身立马进入状态",
+      "onboard_time": 1724682445,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 422528,
       "num": 422528,
       "word": "马龙空降超话",
@@ -1841,22 +1881,6 @@
       "onboard_time": 1724550978,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 403189,
-      "num": 403189,
-      "word": "支持教师积极管教学生",
-      "onboard_time": 1724678062,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 400545,
-      "num": 400545,
-      "word": "比俺叫焦恩俊还有杀伤力",
-      "onboard_time": 1724680042,
-      "rank": 25,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 399016,
@@ -1947,6 +1971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 375032,
+      "num": 375032,
+      "word": "邱贻可直播",
+      "onboard_time": 1724682083,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 371505,
       "num": 371505,
       "word": "大学生人均一两百把宿舍改成家",
@@ -1971,12 +2003,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 370371,
+      "num": 370371,
+      "word": "吉祥航空",
+      "onboard_time": 1724680103,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370326,
       "num": 370326,
       "word": "十年前的大学生是什么样的",
       "onboard_time": 1724675181,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 370208,
+      "num": 576449,
+      "word": "朱志鑫苏新皓last night舞台",
+      "onboard_time": 1724681603,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 369007,
@@ -2017,14 +2065,6 @@
       "onboard_time": 1724568440,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 353313,
-      "num": 353313,
-      "word": "吉祥航空",
-      "onboard_time": 1724680103,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 352045,
@@ -2091,8 +2131,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 339284,
-      "num": 339284,
+      "raw_hot": 340249,
+      "num": 340249,
       "word": "山东一中专生被曝军训中暑身亡",
       "onboard_time": 1724678602,
       "rank": 41,
@@ -2113,6 +2153,14 @@
       "onboard_time": 1724669121,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335043,
+      "num": 458187,
+      "word": "刘端端段奥娟没有了舞台直拍",
+      "onboard_time": 1724677822,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 333408,
@@ -2152,14 +2200,6 @@
       "word": "90后爸爸只吃黄瓜暴瘦30斤割肝救女",
       "onboard_time": 1724644641,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 330317,
-      "num": 354517,
-      "word": "居民医保个人缴费标准增20元",
-      "onboard_time": 1724679022,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2347,6 +2387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 296335,
+      "num": 454546,
+      "word": "苏朱",
+      "onboard_time": 1724681603,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 295933,
       "num": 380016,
       "word": "心动的信号7艺人阵容官宣",
@@ -2443,14 +2491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284908,
-      "num": 353790,
-      "word": "刘端端段奥娟没有了舞台直拍",
-      "onboard_time": 1724677822,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 284291,
       "num": 284291,
       "word": "剑网3刘宇坤双向奔赴",
@@ -2481,6 +2521,14 @@
       "onboard_time": 1724578579,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 276975,
+      "num": 276975,
+      "word": "棍铲",
+      "onboard_time": 1724682023,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 275000,
@@ -2521,6 +2569,14 @@
       "onboard_time": 1724596103,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 271882,
+      "num": 308048,
+      "word": "宋亚轩帮刘耀文比心",
+      "onboard_time": 1724681122,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 271747,
@@ -2779,14 +2835,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 248167,
-      "num": 308048,
-      "word": "宋亚轩帮刘耀文比心",
-      "onboard_time": 1724681122,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 247270,
       "num": 247270,
       "word": "表兄妹结婚10年育一女被判婚姻无效",
@@ -2875,6 +2923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241170,
+      "num": 241170,
+      "word": "中专生军训中暑身亡家属发声",
+      "onboard_time": 1724682863,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240395,
       "num": 240395,
       "word": "东部战区运油20歼16夜间空中加油",
@@ -2923,14 +2979,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 236698,
-      "num": 548489,
-      "word": "连云港一河道旁发现无名女尸",
-      "onboard_time": 1724680822,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235825,
       "num": 235825,
       "word": "郑钦文登美网官方海报",
@@ -2977,6 +3025,14 @@
       "onboard_time": 1724569579,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 233277,
+      "num": 233277,
+      "word": "华策 家业",
+      "onboard_time": 1724681963,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 233134,
@@ -3289,14 +3345,6 @@
       "onboard_time": 1724502381,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 216786,
-      "num": 216786,
-      "word": "苏朱",
-      "onboard_time": 1724681603,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 214990,
@@ -3683,14 +3731,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 200361,
-      "num": 200361,
-      "word": "朱志鑫苏新皓last night舞台",
-      "onboard_time": 1724681603,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 200352,
       "num": 305444,
       "word": "电影刺猬",
@@ -4067,14 +4107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184908,
-      "num": 184908,
-      "word": "华策 家业",
-      "onboard_time": 1724681963,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 184892,
       "num": 184892,
       "word": "孙杨说已经很久没有这种感觉了",
@@ -4177,6 +4209,14 @@
       "onboard_time": 1724642121,
       "rank": 43,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 181865,
+      "num": 847019,
+      "word": "警方辟谣浏览境外色情网站被罚款",
+      "onboard_time": 1724681603,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181065,
@@ -5035,6 +5075,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148243,
+      "num": 632483,
+      "word": "专家建议婚前培训考试合格后再结婚",
+      "onboard_time": 1724680943,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148041,
       "num": 148041,
       "word": "张志杰亲友致悼词",
@@ -5113,14 +5161,6 @@
       "onboard_time": 1724667980,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 142756,
-      "num": 847019,
-      "word": "警方辟谣浏览境外色情网站被罚款",
-      "onboard_time": 1724681603,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142644,
@@ -5443,6 +5483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121304,
+      "num": 853788,
+      "word": "住建部权威解读房屋养老金",
+      "onboard_time": 1724681122,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119245,
       "num": 119245,
       "word": "乐华 业务能力",
@@ -5523,18 +5571,18 @@
       "category": "美食"
     },
     {
-      "raw_hot": 105298,
-      "num": 1152717,
-      "word": "2024暑期档电影票房超110亿",
-      "onboard_time": 1724563699,
+      "raw_hot": 107240,
+      "num": 1263533,
+      "word": "雨天出门千万要注意的小事",
+      "onboard_time": 1724677582,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 103332,
-      "num": 1263533,
-      "word": "雨天出门千万要注意的小事",
-      "onboard_time": 1724677582,
+      "raw_hot": 105298,
+      "num": 1152717,
+      "word": "2024暑期档电影票房超110亿",
+      "onboard_time": 1724563699,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -5643,14 +5691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 75966,
-      "num": 853788,
-      "word": "住建部权威解读房屋养老金",
-      "onboard_time": 1724681122,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75379,
       "num": 438328,
       "word": "现在的烟台像春运",
@@ -5681,14 +5721,6 @@
       "onboard_time": 1724606594,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 73159,
-      "num": 632483,
-      "word": "专家建议婚前培训考试合格后再结婚",
-      "onboard_time": 1724680943,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73015,
@@ -5865,6 +5897,14 @@
       "onboard_time": 1724555180,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 61279,
+      "num": 796557,
+      "word": "2024美网",
+      "onboard_time": 1724682563,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 61215,
@@ -6553,6 +6593,14 @@
       "onboard_time": 1724681902,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6499,
+      "num": 789530,
+      "word": "郑钦文迎2024美网首战",
+      "onboard_time": 1724682982,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 4031,
