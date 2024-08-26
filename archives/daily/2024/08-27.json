@@ -1,6 +1,6 @@
 {
   "startTime": 1724689640506,
-  "endTime": 1724714458732,
+  "endTime": 1724715305459,
   "band_list": [
     {
       "raw_hot": 4028084,
@@ -67,20 +67,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1051924,
+      "num": 1051924,
+      "word": "居民医保个人缴费标准增20元",
+      "onboard_time": 1724679022,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1004534,
       "num": 603916,
       "word": "登陆计划",
       "onboard_time": 1724670080,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 951198,
-      "num": 951198,
-      "word": "居民医保个人缴费标准增20元",
-      "onboard_time": 1724679022,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 905262,
@@ -107,12 +107,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 715399,
+      "num": 504278,
+      "word": "恋与深空发声明要求派克特道歉",
+      "onboard_time": 1724714357,
+      "rank": 5,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 669613,
       "num": 354570,
       "word": "吉祥航空通报儿童被关厕所教育",
       "onboard_time": 1724676381,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 626364,
+      "num": 355150,
+      "word": "当10岁105斤的女儿生病求抱抱",
+      "onboard_time": 1724690958,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 611812,
+      "num": 469160,
+      "word": "黄子韬想的插兜吻vs现实",
+      "onboard_time": 1724708953,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 588824,
@@ -123,12 +147,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 568587,
-      "num": 355150,
-      "word": "当10岁105斤的女儿生病求抱抱",
-      "onboard_time": 1724690958,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 541989,
+      "num": 541989,
+      "word": "Steam一夜遭28万次攻击",
+      "onboard_time": 1724694736,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 520236,
@@ -147,36 +171,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 498461,
-      "num": 430282,
-      "word": "黄子韬想的插兜吻vs现实",
-      "onboard_time": 1724708953,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 477225,
-      "num": 477225,
-      "word": "Steam一夜遭28万次攻击",
-      "onboard_time": 1724694736,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 470407,
       "num": 470407,
       "word": "左邓",
       "onboard_time": 1724685324,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 456061,
-      "num": 456061,
-      "word": "恋与深空发声明要求派克特道歉",
-      "onboard_time": 1724714357,
-      "rank": 5,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 441435,
@@ -195,7 +195,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 398427,
+      "raw_hot": 406090,
       "num": 583450,
       "word": "中专生军训中暑身亡家属发声",
       "onboard_time": 1724682863,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 341909,
-      "num": 121012,
+      "num": 132205,
       "word": "余宇涵成功出道",
       "onboard_time": 1724694316,
       "rank": 21,
@@ -251,8 +251,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 270607,
-      "num": 270607,
+      "raw_hot": 283428,
+      "num": 283428,
       "word": "俄罗斯与乌克兰互相发动大规模空袭",
       "onboard_time": 1724678241,
       "rank": 35,
@@ -265,6 +265,14 @@
       "onboard_time": 1724687125,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268127,
+      "num": 330469,
+      "word": "方便面为什么不好卖了",
+      "onboard_time": 1724684483,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266633,
@@ -281,14 +289,6 @@
       "onboard_time": 1724676740,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 236692,
-      "num": 330469,
-      "word": "方便面为什么不好卖了",
-      "onboard_time": 1724684483,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235563,
@@ -491,20 +491,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129278,
+      "num": 133208,
+      "word": "陶喆人老了偷偷睡觉",
+      "onboard_time": 1724712674,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 129107,
+      "num": 132896,
+      "word": "霉霉好明显的人情世故",
+      "onboard_time": 1724709982,
+      "rank": 34,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 124284,
       "num": 258125,
       "word": "山东一中专生被曝军训中暑身亡",
       "onboard_time": 1724678602,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123426,
-      "num": 123426,
-      "word": "霉霉好明显的人情世故",
-      "onboard_time": 1724709982,
-      "rank": 34,
-      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 121368,
@@ -523,36 +531,60 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 97156,
-      "num": 97156,
+      "raw_hot": 112698,
+      "num": 112698,
       "word": "泡泡玛特盲盒新品出现错别字",
       "onboard_time": 1724701571,
       "rank": 19,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 86588,
-      "num": 86588,
-      "word": "陶喆人老了偷偷睡觉",
-      "onboard_time": 1724712674,
-      "rank": 35,
-      "category": "演出"
+      "raw_hot": 109557,
+      "num": 109557,
+      "word": "朱志鑫听爸爸留言哭了",
+      "onboard_time": 1724714598,
+      "rank": 33,
+      "category": "综艺"
     },
     {
-      "raw_hot": 81378,
-      "num": 81378,
+      "raw_hot": 96842,
+      "num": 96842,
+      "word": "中介公司回应员工把孩子关厕所教育",
+      "onboard_time": 1724713516,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96672,
+      "num": 96672,
       "word": "派克特力挺乃万",
       "onboard_time": 1724599282,
       "rank": 37,
       "category": "艺人"
     },
     {
+      "raw_hot": 88291,
+      "num": 96654,
+      "word": "登陆少年不恋爱不私联",
+      "onboard_time": 1724714838,
+      "rank": 38,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 78913,
-      "num": 78913,
+      "num": 96335,
       "word": "2024美网",
       "onboard_time": 1724682563,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76715,
+      "num": 96516,
+      "word": "边水往事郭立民彻底疯魔",
+      "onboard_time": 1724713817,
+      "rank": 46,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 75122,
@@ -563,8 +595,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73531,
+      "num": 96475,
+      "word": "轻断食轻轻的把某种事物吃断货了",
+      "onboard_time": 1724714236,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 70391,
-      "num": 78912,
+      "num": 96274,
       "word": "澳大利亚新法下班有权不接工作电话",
       "onboard_time": 1724704452,
       "rank": 46,
@@ -587,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 61497,
-      "num": 78911,
-      "word": "中介公司回应员工把孩子关厕所教育",
-      "onboard_time": 1724713516,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 57399,
       "num": 73987,
       "word": "浪一夏线上音乐节",
@@ -603,12 +635,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 54534,
-      "num": 78907,
-      "word": "边水往事郭立民彻底疯魔",
-      "onboard_time": 1724713817,
-      "rank": 46,
-      "category": "作品衍生,艺人"
+      "raw_hot": 53372,
+      "num": 96180,
+      "word": "恐怖片对儿童及青少年有何影响",
+      "onboard_time": 1724702772,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52569,
@@ -627,20 +659,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 51100,
-      "num": 78907,
-      "word": "恐怖片对儿童及青少年有何影响",
-      "onboard_time": 1724702772,
-      "rank": 39,
+      "raw_hot": 49552,
+      "num": 929773,
+      "word": "三代列车同框见证中国速度",
+      "onboard_time": 1724675961,
+      "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49823,
-      "num": 78906,
-      "word": "轻断食轻轻的把某种事物吃断货了",
-      "onboard_time": 1724714236,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 48469,
@@ -672,14 +696,6 @@
       "word": "青岛官方回应网传一公司代孕",
       "onboard_time": 1724699712,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29709,
-      "num": 912108,
-      "word": "三代列车同框见证中国速度",
-      "onboard_time": 1724675961,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -723,7 +739,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10560,
+      "raw_hot": 13895,
       "num": 111583,
       "word": "快递小哥解锁新身份",
       "onboard_time": 1724709071,
