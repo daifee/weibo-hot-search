@@ -1,0 +1,410 @@
+{
+  "runTime": 1724636955804,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3239838,
+        "num": 3239838,
+        "word": "今年中秋放假3天需调休",
+        "onboard_time": 1724632701,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1179232,
+        "num": 1179232,
+        "word": "孙杨成绩距本人奥运纪录差了近10秒",
+        "onboard_time": 1724631079,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18719,
+        "num": 1068957,
+        "word": "整个三星堆独一无二的金杖",
+        "onboard_time": 1724591542,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1014042,
+        "num": 1014042,
+        "word": "只要北京人的血是热的这家店就不会凉",
+        "onboard_time": 1724612053,
+        "rank": 3,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 935277,
+        "num": 935277,
+        "word": "黄景瑜 你粉蹭我衣服上了",
+        "onboard_time": 1724629938,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 766666,
+        "num": 766666,
+        "word": "下月或停产的10款苹果产品",
+        "onboard_time": 1724631859,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 616893,
+        "num": 616893,
+        "word": "孙颖莎说奥运闭幕式的时候释怀了",
+        "onboard_time": 1724630417,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 536495,
+        "num": 536495,
+        "word": "杭州警方回应一小区2人坠楼",
+        "onboard_time": 1724629877,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482070,
+        "num": 482070,
+        "word": "庞博文 立规矩",
+        "onboard_time": 1724631859,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 528506,
+        "num": 482008,
+        "word": "天津暴雨",
+        "onboard_time": 1724631802,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604614,
+        "num": 480155,
+        "word": "黄一鸣回应想让女儿当网红",
+        "onboard_time": 1724607914,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 470649,
+        "num": 470649,
+        "word": "在泰国被辱骂中国女子拒绝和解",
+        "onboard_time": 1724593101,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467819,
+        "num": 467819,
+        "word": "吴宣仪孟美岐程潇十年的友情",
+        "onboard_time": 1724632220,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 460465,
+        "num": 460465,
+        "word": "北京暴雨",
+        "onboard_time": 1724633541,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459822,
+        "num": 459822,
+        "word": "阎鹤祥 现挂",
+        "onboard_time": 1724632280,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449364,
+        "num": 449364,
+        "word": "唯一演遍四大名著的女演员",
+        "onboard_time": 1724594242,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 389713,
+        "num": 389713,
+        "word": "特朗普说马上战胜拜登时哈里斯登场",
+        "onboard_time": 1724611814,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 347825,
+        "num": 347825,
+        "word": "边水往事 吓人",
+        "onboard_time": 1724588480,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304085,
+        "num": 304085,
+        "word": "京津冀大到暴雨",
+        "onboard_time": 1724633119,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293787,
+        "num": 293787,
+        "word": "看邓紫棋演唱会旁边是鹿晗",
+        "onboard_time": 1724631319,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 388361,
+        "num": 288548,
+        "word": "以为很舒服实则很伤身体的行为",
+        "onboard_time": 1724630239,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 282615,
+        "num": 282615,
+        "word": "女子产后掉发1个月掉出1把马尾",
+        "onboard_time": 1724588121,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280541,
+        "num": 280541,
+        "word": "男子偷21座佛像放家中供奉",
+        "onboard_time": 1724609953,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248560,
+        "num": 248560,
+        "word": "一年一度的渐变秋天正悄悄发生",
+        "onboard_time": 1724633060,
+        "rank": 23,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 243061,
+        "num": 243061,
+        "word": "孙杨成绩能在杭州亚运会拿第5",
+        "onboard_time": 1724599161,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234619,
+        "num": 234619,
+        "word": "男子凌晨骚扰独居女生爬窗拔监控",
+        "onboard_time": 1724633961,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215031,
+        "num": 215031,
+        "word": "孙颖莎回应王楚钦看自己脸色",
+        "onboard_time": 1724595743,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213063,
+        "num": 213063,
+        "word": "边水往事沈星开始飘了",
+        "onboard_time": 1724635039,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147986,
+        "num": 210616,
+        "word": "追的爱豆是自己的舅舅",
+        "onboard_time": 1724597723,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17814,
+        "num": 209213,
+        "word": "也门一学校发生战争遗留物爆炸事件",
+        "onboard_time": 1724636419,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209068,
+        "num": 209068,
+        "word": "中央气象台4预警连发",
+        "onboard_time": 1724633301,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204879,
+        "num": 204879,
+        "word": "男人最好的聘礼是一生的包容",
+        "onboard_time": 1724629339,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201954,
+        "num": 201954,
+        "word": "大叔欠债200万在上海送外卖还清",
+        "onboard_time": 1724593041,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194423,
+        "num": 194423,
+        "word": "牺牲民警让被救女孩好好活着",
+        "onboard_time": 1724587640,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189700,
+        "num": 189700,
+        "word": "孙颖莎回应为何输陈梦",
+        "onboard_time": 1724595323,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172231,
+        "num": 172231,
+        "word": "解放军南部战区在边境一线巡逻警巡",
+        "onboard_time": 1724635340,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169094,
+        "num": 169094,
+        "word": "N1成绩",
+        "onboard_time": 1724636478,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 168816,
+        "num": 168816,
+        "word": "以为正常其实是长期缺爱的表现",
+        "onboard_time": 1724633541,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163494,
+        "num": 163494,
+        "word": "上海已叫停房贷返点",
+        "onboard_time": 1724629098,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162370,
+        "num": 162370,
+        "word": "被我猫找到了躲避相亲的我",
+        "onboard_time": 1724634320,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160870,
+        "num": 160870,
+        "word": "孙杨说未来会带着热爱坚定前行",
+        "onboard_time": 1724636359,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157433,
+        "num": 157433,
+        "word": "设立房屋养老金需找准利益平衡点",
+        "onboard_time": 1724635880,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152863,
+        "num": 152863,
+        "word": "爷爷卖南瓜饼1元1个被顾客劝涨价",
+        "onboard_time": 1724635701,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150843,
+        "num": 150843,
+        "word": "孩子的假期作业到底是留给谁的",
+        "onboard_time": 1724635279,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145530,
+        "num": 145530,
+        "word": "杭州多起半夜骑行党相撞事故",
+        "onboard_time": 1724603418,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141932,
+        "num": 141932,
+        "word": "如果高压线掉你身边千万别跑",
+        "onboard_time": 1724636779,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 151500,
+        "num": 141643,
+        "word": "妈妈的偶像辉煌 我的偶像危房",
+        "onboard_time": 1724631259,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140701,
+        "num": 140701,
+        "word": "张颖颖曝张兰带球上位",
+        "onboard_time": 1724597243,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140332,
+        "num": 140332,
+        "word": "奶奶这是过来人的真实感受吧",
+        "onboard_time": 1724635279,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135886,
+        "num": 135886,
+        "word": "EDG全球冠军赛夺冠",
+        "onboard_time": 1724588663,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习新语#"
+    }
+  }
+}

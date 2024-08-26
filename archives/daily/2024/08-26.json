@@ -1,7 +1,15 @@
 {
   "startTime": 1724603016158,
-  "endTime": 1724635595780,
+  "endTime": 1724636955804,
   "band_list": [
+    {
+      "raw_hot": 3239838,
+      "num": 3239838,
+      "word": "今年中秋放假3天需调休",
+      "onboard_time": 1724632701,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1733397,
       "num": 1733397,
@@ -11,20 +19,20 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 1700775,
-      "num": 1700775,
-      "word": "今年中秋放假3天需调休",
-      "onboard_time": 1724632701,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1227438,
       "num": 1227438,
       "word": "黄景瑜 你粉蹭我衣服上了",
       "onboard_time": 1724629938,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1179232,
+      "num": 1179232,
+      "word": "孙杨成绩距本人奥运纪录差了近10秒",
+      "onboard_time": 1724631079,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1135213,
@@ -147,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 528506,
+      "num": 482008,
+      "word": "天津暴雨",
+      "onboard_time": 1724631802,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 524458,
       "num": 524458,
       "word": "登陆计划出道人数",
@@ -179,12 +195,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 482070,
+      "num": 482070,
+      "word": "庞博文 立规矩",
+      "onboard_time": 1724631859,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 473032,
       "num": 473032,
       "word": "国务院食安办通报油罐车事件",
       "onboard_time": 1724587700,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 467819,
+      "num": 467819,
+      "word": "吴宣仪孟美岐程潇十年的友情",
+      "onboard_time": 1724632220,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 462343,
@@ -211,12 +243,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 450551,
-      "num": 450551,
-      "word": "庞博文 立规矩",
-      "onboard_time": 1724631859,
-      "rank": 14,
-      "category": "网红"
+      "raw_hot": 460465,
+      "num": 460465,
+      "word": "北京暴雨",
+      "onboard_time": 1724633541,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 393427,
@@ -225,6 +257,14 @@
       "onboard_time": 1724599041,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 388361,
+      "num": 306364,
+      "word": "以为很舒服实则很伤身体的行为",
+      "onboard_time": 1724630239,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 387563,
@@ -267,22 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 334506,
-      "num": 306364,
-      "word": "以为很舒服实则很伤身体的行为",
-      "onboard_time": 1724630239,
-      "rank": 20,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 331861,
-      "num": 331861,
-      "word": "吴宣仪孟美岐程潇十年的友情",
-      "onboard_time": 1724632220,
-      "rank": 16,
-      "category": "演出"
-    },
-    {
       "raw_hot": 325739,
       "num": 325739,
       "word": "看邓紫棋演唱会旁边是鹿晗",
@@ -307,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 304085,
+      "num": 304085,
+      "word": "京津冀大到暴雨",
+      "onboard_time": 1724633119,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295655,
       "num": 295655,
       "word": "上海已叫停房贷返点",
@@ -323,28 +355,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 277782,
-      "num": 277782,
-      "word": "京津冀大到暴雨",
-      "onboard_time": 1724633119,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273407,
-      "num": 273407,
-      "word": "北京暴雨",
-      "onboard_time": 1724633541,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272100,
-      "num": 272100,
-      "word": "天津暴雨",
-      "onboard_time": 1724631802,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 248560,
+      "num": 573123,
+      "word": "一年一度的渐变秋天正悄悄发生",
+      "onboard_time": 1724633060,
+      "rank": 9,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 245145,
@@ -361,6 +377,14 @@
       "onboard_time": 1724589144,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 234619,
+      "num": 234619,
+      "word": "男子凌晨骚扰独居女生爬窗拔监控",
+      "onboard_time": 1724633961,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227575,
@@ -387,12 +411,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213063,
+      "num": 213063,
+      "word": "边水往事沈星开始飘了",
+      "onboard_time": 1724635039,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209323,
       "num": 320252,
       "word": "孙杨教练一开始只盼他能达标",
       "onboard_time": 1724595143,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209068,
+      "num": 209068,
+      "word": "中央气象台4预警连发",
+      "onboard_time": 1724633301,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206202,
@@ -411,14 +451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201771,
-      "num": 201771,
-      "word": "男子凌晨骚扰独居女生爬窗拔监控",
-      "onboard_time": 1724633961,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197404,
       "num": 197404,
       "word": "在泰国遭辱骂女子透露事件最新进展",
@@ -435,14 +467,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 194448,
-      "num": 194448,
-      "word": "中央气象台4预警连发",
-      "onboard_time": 1724633301,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185766,
       "num": 185766,
       "word": "被救女孩称警察叔叔把我推到救生绳",
@@ -457,14 +481,6 @@
       "onboard_time": 1724598443,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 182421,
-      "num": 573123,
-      "word": "一年一度的渐变秋天正悄悄发生",
-      "onboard_time": 1724633060,
-      "rank": 9,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 180805,
@@ -507,11 +523,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172231,
+      "num": 172231,
+      "word": "解放军南部战区在边境一线巡逻警巡",
+      "onboard_time": 1724635340,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171327,
       "num": 171327,
       "word": "面对面",
       "onboard_time": 1724593941,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 169094,
+      "num": 169094,
+      "word": "N1成绩",
+      "onboard_time": 1724636478,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 160870,
+      "num": 160870,
+      "word": "孙杨说未来会带着热爱坚定前行",
+      "onboard_time": 1724636359,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -547,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157433,
+      "num": 157433,
+      "word": "设立房屋养老金需找准利益平衡点",
+      "onboard_time": 1724635880,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155495,
       "num": 155495,
       "word": "朱志鑫solo舞台",
@@ -579,19 +627,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151939,
-      "num": 151939,
-      "word": "边水往事沈星开始飘了",
-      "onboard_time": 1724635039,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 151662,
-      "num": 151662,
-      "word": "解放军南部战区在边境一线巡逻警巡",
-      "onboard_time": 1724635340,
-      "rank": 45,
+      "raw_hot": 152863,
+      "num": 152863,
+      "word": "爷爷卖南瓜饼1元1个被顾客劝涨价",
+      "onboard_time": 1724635701,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -641,6 +681,14 @@
       "onboard_time": 1724635580,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 141932,
+      "num": 141932,
+      "word": "如果高压线掉你身边千万别跑",
+      "onboard_time": 1724636779,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 141919,
@@ -913,6 +961,14 @@
       "onboard_time": 1724620450,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 17814,
+      "num": 209213,
+      "word": "也门一学校发生战争遗留物爆炸事件",
+      "onboard_time": 1724636419,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16299,
