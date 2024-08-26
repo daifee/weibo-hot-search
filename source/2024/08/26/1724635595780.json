@@ -1,0 +1,410 @@
+{
+  "runTime": 1724635595780,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1700775,
+        "num": 1700775,
+        "word": "今年中秋放假3天需调休",
+        "onboard_time": 1724632701,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1276695,
+        "num": 1276695,
+        "word": "只要北京人的血是热的这家店就不会凉",
+        "onboard_time": 1724612053,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 22778,
+        "num": 1247136,
+        "word": "整个三星堆独一无二的金杖",
+        "onboard_time": 1724591542,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1227438,
+        "num": 1227438,
+        "word": "黄景瑜 你粉蹭我衣服上了",
+        "onboard_time": 1724629938,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1135213,
+        "num": 1135213,
+        "word": "孙杨夺冠成绩在国际上还缺乏竞争力",
+        "onboard_time": 1724631079,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 795820,
+        "num": 795820,
+        "word": "下月或停产的10款苹果产品",
+        "onboard_time": 1724631859,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 777994,
+        "num": 777994,
+        "word": "孙颖莎说奥运闭幕式的时候释怀了",
+        "onboard_time": 1724630417,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 714244,
+        "num": 714244,
+        "word": "杭州警方回应一小区2人坠楼",
+        "onboard_time": 1724629877,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604193,
+        "num": 604193,
+        "word": "唯一演遍四大名著的女演员",
+        "onboard_time": 1724594242,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182421,
+        "num": 573123,
+        "word": "一年一度的渐变秋天正悄悄发生",
+        "onboard_time": 1724633060,
+        "rank": 9,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 646449,
+        "num": 565969,
+        "word": "黄一鸣回应想让女儿当网红",
+        "onboard_time": 1724607914,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 552922,
+        "num": 552922,
+        "word": "在泰国被辱骂中国女子拒绝和解",
+        "onboard_time": 1724593101,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484414,
+        "num": 484414,
+        "word": "特朗普说马上战胜拜登时哈里斯登场",
+        "onboard_time": 1724611814,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 462343,
+        "num": 462343,
+        "word": "阎鹤祥 现挂",
+        "onboard_time": 1724632280,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 450551,
+        "num": 450551,
+        "word": "庞博文 立规矩",
+        "onboard_time": 1724631859,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 406690,
+        "num": 406690,
+        "word": "边水往事 吓人",
+        "onboard_time": 1724588480,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331861,
+        "num": 331861,
+        "word": "吴宣仪孟美岐程潇十年的友情",
+        "onboard_time": 1724632220,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 325739,
+        "num": 325739,
+        "word": "看邓紫棋演唱会旁边是鹿晗",
+        "onboard_time": 1724631319,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 309320,
+        "num": 309320,
+        "word": "孙杨成绩能在杭州亚运会拿第5",
+        "onboard_time": 1724599161,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307320,
+        "num": 307320,
+        "word": "男子偷21座佛像放家中供奉",
+        "onboard_time": 1724609953,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334506,
+        "num": 306364,
+        "word": "以为很舒服实则很伤身体的行为",
+        "onboard_time": 1724630239,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 324898,
+        "num": 305007,
+        "word": "女子产后掉发1个月掉出1把马尾",
+        "onboard_time": 1724588121,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295655,
+        "num": 295655,
+        "word": "上海已叫停房贷返点",
+        "onboard_time": 1724629098,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294257,
+        "num": 294257,
+        "word": "孙颖莎回应王楚钦看自己脸色",
+        "onboard_time": 1724595743,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277782,
+        "num": 277782,
+        "word": "京津冀大到暴雨",
+        "onboard_time": 1724633119,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277237,
+        "num": 277237,
+        "word": "大叔欠债200万在上海送外卖还清",
+        "onboard_time": 1724593041,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273407,
+        "num": 273407,
+        "word": "北京暴雨",
+        "onboard_time": 1724633541,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272100,
+        "num": 272100,
+        "word": "天津暴雨",
+        "onboard_time": 1724631802,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195686,
+        "num": 245687,
+        "word": "妈妈的偶像辉煌 我的偶像危房",
+        "onboard_time": 1724631259,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192324,
+        "num": 236628,
+        "word": "追的爱豆是自己的舅舅",
+        "onboard_time": 1724597723,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229771,
+        "num": 229771,
+        "word": "杭州多起半夜骑行党相撞事故",
+        "onboard_time": 1724603418,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227575,
+        "num": 227575,
+        "word": "男人最好的聘礼是一生的包容",
+        "onboard_time": 1724629339,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206178,
+        "num": 206178,
+        "word": "牺牲民警让被救女孩好好活着",
+        "onboard_time": 1724587640,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202980,
+        "num": 202980,
+        "word": "孙颖莎回应为何输陈梦",
+        "onboard_time": 1724595323,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201771,
+        "num": 201771,
+        "word": "男子凌晨骚扰独居女生爬窗拔监控",
+        "onboard_time": 1724633961,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194448,
+        "num": 194448,
+        "word": "中央气象台4预警连发",
+        "onboard_time": 1724633301,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179857,
+        "num": 179857,
+        "word": "以为正常其实是长期缺爱的表现",
+        "onboard_time": 1724633541,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176269,
+        "num": 176269,
+        "word": "被我猫找到了躲避相亲的我",
+        "onboard_time": 1724634320,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172434,
+        "num": 172434,
+        "word": "张颖颖曝张兰带球上位",
+        "onboard_time": 1724597243,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171129,
+        "num": 171129,
+        "word": "曝黄一鸣的别墅是租的",
+        "onboard_time": 1724584522,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 160875,
+        "num": 160875,
+        "word": "美国宇航员将乘龙飞船返回地球",
+        "onboard_time": 1724590942,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158906,
+        "num": 158906,
+        "word": "EDG全球冠军赛夺冠",
+        "onboard_time": 1724588663,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154164,
+        "num": 154164,
+        "word": "海外玩家因黑神话开始读西游记原著",
+        "onboard_time": 1724633840,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152918,
+        "num": 152918,
+        "word": "孩子的假期作业到底是留给谁的",
+        "onboard_time": 1724635279,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151939,
+        "num": 151939,
+        "word": "边水往事沈星开始飘了",
+        "onboard_time": 1724635039,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151662,
+        "num": 151662,
+        "word": "解放军南部战区在边境一线巡逻警巡",
+        "onboard_time": 1724635340,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147094,
+        "num": 147094,
+        "word": "弃婴里大部分是残障儿童或女婴",
+        "onboard_time": 1724626935,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143679,
+        "num": 143679,
+        "word": "奶奶这是过来人的真实感受吧",
+        "onboard_time": 1724635279,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142644,
+        "num": 142644,
+        "word": "警惕包治百病的吸氢养生骗局",
+        "onboard_time": 1724635580,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142444,
+        "num": 142444,
+        "word": "刘亦菲37岁庆生照",
+        "onboard_time": 1724591302,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习新语#"
+    }
+  }
+}
