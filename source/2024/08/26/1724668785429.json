@@ -1,0 +1,410 @@
+{
+  "runTime": 1724668785429,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3049707,
+        "num": 3049707,
+        "word": "三甲医院医生非法代孕被发现直呼完了",
+        "onboard_time": 1724665102,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 910899,
+        "num": 910899,
+        "word": "女性结婚意愿远低于男性",
+        "onboard_time": 1724662161,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50100,
+        "num": 895079,
+        "word": "你只需要带着录取通知书去大学",
+        "onboard_time": 1724661260,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 890289,
+        "num": 890289,
+        "word": "徐艺洋晒了好多未公开的秀恩爱画面",
+        "onboard_time": 1724656522,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 578541,
+        "num": 578541,
+        "word": "游客吐槽山西一面馆一碗面两个价",
+        "onboard_time": 1724666361,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 812773,
+        "num": 547009,
+        "word": "樊振东 不上班是最好的医美",
+        "onboard_time": 1724662221,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 515463,
+        "num": 515463,
+        "word": "大熊猫戴立去世",
+        "onboard_time": 1724667080,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421074,
+        "num": 421074,
+        "word": "刘端端你个大漏勺",
+        "onboard_time": 1724666481,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87453,
+        "num": 379785,
+        "word": "大同一刀削面馆阴阳价被立案调查",
+        "onboard_time": 1724667741,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372930,
+        "num": 372930,
+        "word": "还我妈生吴邪",
+        "onboard_time": 1724651541,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2033400,
+        "num": 360747,
+        "word": "上海电信",
+        "onboard_time": 1724666780,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 897337,
+        "num": 352446,
+        "word": "吉祥航空回应两女子把孩子关厕所教育",
+        "onboard_time": 1724664441,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319848,
+        "num": 319848,
+        "word": "乌克兰",
+        "onboard_time": 1724664081,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 45289,
+        "num": 319049,
+        "word": "保安冒充消防支队长进行骗财骗色",
+        "onboard_time": 1724667200,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52720,
+        "num": 318255,
+        "word": "直到我来到了烟台",
+        "onboard_time": 1724666420,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 824678,
+        "num": 315788,
+        "word": "陈奕迅女儿恋情曝光",
+        "onboard_time": 1724667980,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 778378,
+        "num": 315194,
+        "word": "飞机上两女子强行带孩子进厕所里教育",
+        "onboard_time": 1724658081,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1582080,
+        "num": 314348,
+        "word": "黄子韬求婚徐艺洋",
+        "onboard_time": 1724645721,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 447112,
+        "num": 312861,
+        "word": "黄子韬kiss徐艺洋小鸡啄米",
+        "onboard_time": 1724660421,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47709,
+        "num": 310513,
+        "word": "男子用虫子1小时敲诈两餐厅",
+        "onboard_time": 1724668102,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1219700,
+        "num": 309381,
+        "word": "隔日断食15天瘦了18斤",
+        "onboard_time": 1724667680,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 697019,
+        "num": 308423,
+        "word": "年轻女孩消耗身体赚钱卖卵十几次",
+        "onboard_time": 1724656341,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517233,
+        "num": 307089,
+        "word": "13岁男孩血尿医生取出20多颗磁力珠",
+        "onboard_time": 1724658742,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401742,
+        "num": 306149,
+        "word": "我敢娶你 你敢答应我吗",
+        "onboard_time": 1724646263,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257601,
+        "num": 304088,
+        "word": "那英听到黄子韬要求婚的反应",
+        "onboard_time": 1724651840,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32565,
+        "num": 302711,
+        "word": "智界R7搭载华为旗舰黑科技",
+        "onboard_time": 1724664020,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 244314,
+        "num": 301378,
+        "word": "派克特发歌帮乃万diss乙游",
+        "onboard_time": 1724667801,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147629,
+        "num": 299559,
+        "word": "骄阳似我95生配00花",
+        "onboard_time": 1724666661,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142566,
+        "num": 298523,
+        "word": "慕胥辞将开机",
+        "onboard_time": 1724665461,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55124,
+        "num": 296837,
+        "word": "问界新M7Pro标配华为智驾25万起",
+        "onboard_time": 1724664020,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 344175,
+        "num": 296367,
+        "word": "警方回应小孩被陌生女子关厕所教育",
+        "onboard_time": 1724666301,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295231,
+        "num": 295231,
+        "word": "樊振东等23人拟记大功",
+        "onboard_time": 1724663904,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286261,
+        "num": 286261,
+        "word": "一天花掉一万五中产家长的迪士尼苦旅",
+        "onboard_time": 1724649803,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286089,
+        "num": 286089,
+        "word": "陈梦回应佩戴定制首饰参赛",
+        "onboard_time": 1724657120,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271747,
+        "num": 271747,
+        "word": "潘展乐樊振东互关",
+        "onboard_time": 1724666720,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267086,
+        "num": 267086,
+        "word": "教练 我想走文化了",
+        "onboard_time": 1724658980,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262521,
+        "num": 262521,
+        "word": "这下确认潘展乐是i人了",
+        "onboard_time": 1724665220,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221932,
+        "num": 221932,
+        "word": "徐嘉余潘展乐被小朋友追着要签名",
+        "onboard_time": 1724662161,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218629,
+        "num": 218629,
+        "word": "留学生淘宝反向代购月入过万",
+        "onboard_time": 1724656162,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199142,
+        "num": 199142,
+        "word": "WTT票价",
+        "onboard_time": 1724660600,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193523,
+        "num": 193523,
+        "word": "没票的时候就去12306撒撒娇",
+        "onboard_time": 1724652801,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183943,
+        "num": 183943,
+        "word": "山东一女生军训时死亡疑中暑导致",
+        "onboard_time": 1724665520,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153331,
+        "num": 153331,
+        "word": "我学不了跳舞果然是有原因的",
+        "onboard_time": 1724668220,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152390,
+        "num": 152390,
+        "word": "黑神话里的黄风岭是华科大",
+        "onboard_time": 1724661801,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151879,
+        "num": 151879,
+        "word": "男子每天1斤炸花生米配可乐引发脑梗死",
+        "onboard_time": 1724651901,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143340,
+        "num": 143340,
+        "word": "闭店歇业2天大头娃娃还没打过",
+        "onboard_time": 1724667980,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138489,
+        "num": 138489,
+        "word": "山东一职业中专新生军训多人中暑",
+        "onboard_time": 1724664980,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133284,
+        "num": 133284,
+        "word": "萧敬腾回应办婚礼",
+        "onboard_time": 1724667680,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133065,
+        "num": 133065,
+        "word": "WTT中国大满贯",
+        "onboard_time": 1724662221,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128848,
+        "num": 128848,
+        "word": "10年来结婚登记数腰斩",
+        "onboard_time": 1724657303,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视统一战线工作#"
+    }
+  }
+}
