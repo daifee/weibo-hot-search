@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724686534060,
+  "endTime": 1724689640506,
   "band_list": [
     {
       "raw_hot": 14208627,
@@ -51,6 +51,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 4028084,
+      "num": 865162,
+      "word": "登陆计划出道名单",
+      "onboard_time": 1724684964,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 3764088,
       "num": 4028177,
       "word": "国务院食安办通报油罐车事件",
@@ -75,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3625367,
+      "num": 3625367,
+      "word": "余宇涵哭了",
+      "onboard_time": 1724676321,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 3239838,
       "num": 3239838,
       "word": "今年中秋放假3天需调休",
@@ -91,20 +107,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3003041,
+      "num": 3003041,
+      "word": "派克特",
+      "onboard_time": 1724687786,
+      "rank": 3,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 2977975,
       "num": 2977975,
       "word": "EDG总决赛对阵TH",
       "onboard_time": 1724569759,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 2634832,
-      "num": 865162,
-      "word": "登陆计划出道名单",
-      "onboard_time": 1724684964,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 2449036,
@@ -465,6 +481,14 @@
       "onboard_time": 1724667980,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1358109,
+      "num": 826560,
+      "word": "张峻豪TimeToHeal舞台",
+      "onboard_time": 1724687786,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1349634,
@@ -835,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 905262,
+      "num": 905262,
+      "word": "警方辟谣浏览境外色情网站被罚款",
+      "onboard_time": 1724681603,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 897337,
       "num": 639571,
       "word": "吉祥航空回应两女子把孩子关厕所教育",
@@ -913,14 +945,6 @@
       "onboard_time": 1724667801,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 860198,
-      "num": 860198,
-      "word": "警方辟谣浏览境外色情网站被罚款",
-      "onboard_time": 1724681603,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 850891,
@@ -1275,14 +1299,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 663253,
-      "num": 663253,
-      "word": "余宇涵哭了",
-      "onboard_time": 1724676321,
-      "rank": 9,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 646449,
       "num": 565969,
       "word": "黄一鸣回应想让女儿当网红",
@@ -1385,6 +1401,14 @@
       "onboard_time": 1724637739,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 588824,
+      "num": 588824,
+      "word": "郑钦文VS阿尼西莫娃",
+      "onboard_time": 1724684124,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 588698,
@@ -1764,7 +1788,7 @@
     },
     {
       "raw_hot": 453325,
-      "num": 453325,
+      "num": 627076,
       "word": "支持教师积极管教学生",
       "onboard_time": 1724678062,
       "rank": 39,
@@ -2035,6 +2059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 376147,
+      "num": 376147,
+      "word": "中专生军训中暑身亡家属发声",
+      "onboard_time": 1724682863,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 371505,
       "num": 371505,
       "word": "大学生人均一两百把宿舍改成家",
@@ -2097,6 +2129,14 @@
       "onboard_time": 1724511323,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 365622,
+      "num": 365622,
+      "word": "朱志鑫脱了",
+      "onboard_time": 1724687786,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 357050,
@@ -2283,20 +2323,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 324640,
-      "num": 324640,
-      "word": "中专生军训中暑身亡家属发声",
-      "onboard_time": 1724682863,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 323462,
       "num": 689101,
       "word": "惠英红 刘亦菲限定版调香师",
       "onboard_time": 1724560639,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 323332,
+      "num": 323332,
+      "word": "穆祉丞脱衣",
+      "onboard_time": 1724677042,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 319037,
@@ -2313,14 +2353,6 @@
       "onboard_time": 1724609953,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 316433,
-      "num": 475266,
-      "word": "郑钦文VS阿尼西莫娃",
-      "onboard_time": 1724684124,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 316431,
@@ -2563,6 +2595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284845,
+      "num": 284845,
+      "word": "王俊凯 我们仨爆改我们朋友",
+      "onboard_time": 1724686164,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 284291,
       "num": 284291,
       "word": "剑网3刘宇坤双向奔赴",
@@ -2673,6 +2713,14 @@
       "onboard_time": 1724505383,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269158,
+      "num": 269158,
+      "word": "朱志鑫 这是我可以看的吗",
+      "onboard_time": 1724687125,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 268579,
@@ -3195,14 +3243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228315,
-      "num": 265551,
-      "word": "穆祉丞脱衣",
-      "onboard_time": 1724677042,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 228067,
       "num": 228067,
       "word": "KSG锁定年总大师组",
@@ -3273,14 +3313,6 @@
       "onboard_time": 1724568859,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 225554,
-      "num": 225554,
-      "word": "王俊凯 我们仨爆改我们朋友",
-      "onboard_time": 1724686164,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 225478,
@@ -4427,6 +4459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178607,
+      "num": 193131,
+      "word": "马龙说官宣前2小时才知道是奥运旗手",
+      "onboard_time": 1724688326,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178470,
       "num": 178470,
       "word": "运20歼10将飞越埃及金字塔",
@@ -5451,6 +5491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134051,
+      "num": 193072,
+      "word": "奥恰洛夫发文感谢中国粉丝",
+      "onboard_time": 1724688086,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133622,
       "num": 133622,
       "word": "马凡舒被郁可唯唱到暴哭",
@@ -5603,6 +5651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121368,
+      "num": 193033,
+      "word": "小S悼念造型师Enzo",
+      "onboard_time": 1724687004,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121304,
       "num": 853788,
       "word": "住建部权威解读房屋养老金",
@@ -5692,7 +5748,7 @@
     },
     {
       "raw_hot": 107240,
-      "num": 1632885,
+      "num": 3061010,
       "word": "雨天出门千万要注意的小事",
       "onboard_time": 1724677582,
       "rank": 2,
