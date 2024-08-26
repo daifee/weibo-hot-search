@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724640026229,
+  "endTime": 1724640611361,
   "band_list": [
     {
       "raw_hot": 14208627,
@@ -203,6 +203,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1465553,
+      "num": 1179232,
+      "word": "孙杨成绩距本人奥运纪录差了近10秒",
+      "onboard_time": 1724631079,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1431286,
       "num": 1431286,
       "word": "孙颖莎回应为何输陈梦",
@@ -224,14 +232,6 @@
       "word": "孙杨回应复出首冠",
       "onboard_time": 1724587939,
       "rank": 10,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1379562,
-      "num": 1179232,
-      "word": "孙杨成绩距本人奥运纪录差了近10秒",
-      "onboard_time": 1724631079,
-      "rank": 1,
       "category": "体育"
     },
     {
@@ -595,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 777330,
+      "num": 777330,
+      "word": "全红婵喝饮料网友告状陈若琳",
+      "onboard_time": 1724639299,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 771914,
       "num": 771914,
       "word": "孙杨重返国家队难度不小",
@@ -803,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 590878,
+      "num": 590878,
+      "word": "居民称2名空调安装工10楼坠落",
+      "onboard_time": 1724637739,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 588577,
       "num": 588577,
       "word": "王一博 绿海",
@@ -832,6 +848,14 @@
       "word": "杭州多起半夜骑行党相撞事故",
       "onboard_time": 1724603418,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 563578,
+      "num": 563578,
+      "word": "爷爷卖南瓜饼1元1个被顾客劝涨价",
+      "onboard_time": 1724635701,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -940,7 +964,7 @@
     },
     {
       "raw_hot": 496461,
-      "num": 496461,
+      "num": 553413,
       "word": "吴宣仪孟美岐程潇十年的友情",
       "onboard_time": 1724632220,
       "rank": 16,
@@ -1179,20 +1203,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 399112,
+      "num": 338339,
+      "word": "国漫对韩漫贴脸开大",
+      "onboard_time": 1724640199,
+      "rank": 20,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 399016,
       "num": 405066,
       "word": "苏新皓清唱",
       "onboard_time": 1724583139,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 397768,
-      "num": 397768,
-      "word": "居民称2名空调安装工10楼坠落",
-      "onboard_time": 1724637739,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 396980,
@@ -1243,14 +1267,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 373361,
-      "num": 373361,
-      "word": "全红婵喝饮料网友告状陈若琳",
-      "onboard_time": 1724639299,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 371001,
       "num": 371001,
       "word": "CPA经济法",
@@ -1273,14 +1289,6 @@
       "onboard_time": 1724511323,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 357456,
-      "num": 357456,
-      "word": "爷爷卖南瓜饼1元1个被顾客劝涨价",
-      "onboard_time": 1724635701,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 357050,
@@ -1419,6 +1427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 318956,
+      "num": 318956,
+      "word": "设立房屋养老金需找准利益平衡点",
+      "onboard_time": 1724635880,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318653,
       "num": 318653,
       "word": "男子偷21座佛像放家中供奉",
@@ -1472,14 +1488,6 @@
       "word": "京津冀大到暴雨",
       "onboard_time": 1724633119,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 303210,
-      "num": 303210,
-      "word": "设立房屋养老金需找准利益平衡点",
-      "onboard_time": 1724635880,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1971,12 +1979,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 227232,
+      "num": 227232,
+      "word": "郑钦文登美网官方海报",
+      "onboard_time": 1724638638,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227051,
       "num": 227051,
       "word": "以色列称不寻求全面战争",
       "onboard_time": 1724565499,
       "rank": 36,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 226877,
+      "num": 226877,
+      "word": "以前觉得谈个帅哥就老实了",
+      "onboard_time": 1724640139,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 226633,
@@ -1993,6 +2017,14 @@
       "onboard_time": 1724578579,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 226142,
+      "num": 226142,
+      "word": "女兵练出6块腹肌笑得好开心",
+      "onboard_time": 1724637859,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226108,
@@ -2097,14 +2129,6 @@
       "onboard_time": 1724542275,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 218411,
-      "num": 218411,
-      "word": "女兵练出6块腹肌笑得好开心",
-      "onboard_time": 1724637859,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217017,
@@ -2235,6 +2259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207706,
+      "num": 227027,
+      "word": "藏海花开播",
+      "onboard_time": 1724640019,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207307,
       "num": 311948,
       "word": "肖战披肩毛衣白衬衫",
@@ -2305,6 +2337,14 @@
       "onboard_time": 1724573599,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204610,
+      "num": 204610,
+      "word": "孙杨下一个赛场或在明年全运会",
+      "onboard_time": 1724639418,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 203914,
@@ -2492,7 +2532,7 @@
     },
     {
       "raw_hot": 193092,
-      "num": 400211,
+      "num": 549071,
       "word": "房屋养老金要不要老百姓直接出钱",
       "onboard_time": 1724638219,
       "rank": 9,
@@ -2659,12 +2699,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181882,
+      "num": 203147,
+      "word": "张颖颖晒回山东老家日常vlog",
+      "onboard_time": 1724640199,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 181065,
       "num": 398289,
       "word": "民警救人牺牲事发地摆满鲜花蜡烛",
       "onboard_time": 1724577800,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180894,
+      "num": 180894,
+      "word": "如果高压线掉你身边千万别跑",
+      "onboard_time": 1724636779,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 180812,
@@ -2728,6 +2784,14 @@
       "word": "民警将剪角身份证返还亡者女儿留念",
       "onboard_time": 1724562920,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176460,
+      "num": 176460,
+      "word": "中秋假期火车票9月1日开售",
+      "onboard_time": 1724640319,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -2923,14 +2987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167439,
-      "num": 167439,
-      "word": "如果高压线掉你身边千万别跑",
-      "onboard_time": 1724636779,
-      "rank": 45,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 167135,
       "num": 167135,
       "word": "张昊唯和伪造聊天记录发小已和解",
@@ -3043,19 +3099,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160593,
+      "num": 160593,
+      "word": "房屋养老金是什么",
+      "onboard_time": 1724639599,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159801,
       "num": 159801,
       "word": "孙颖莎称初衷都是为国而战",
       "onboard_time": 1724601079,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 159734,
-      "num": 159734,
-      "word": "郑钦文登美网官方海报",
-      "onboard_time": 1724638638,
-      "rank": 37,
       "category": "体育"
     },
     {
@@ -3211,14 +3267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150185,
-      "num": 150185,
-      "word": "孙杨下一个赛场或在明年全运会",
-      "onboard_time": 1724639418,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 150144,
       "num": 150144,
       "word": "4年裸辞8次的女孩渴望工位",
@@ -3299,20 +3347,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 146062,
-      "num": 146062,
-      "word": "房屋养老金是什么",
-      "onboard_time": 1724639599,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144383,
       "num": 144383,
       "word": "求神不如球神",
       "onboard_time": 1724577380,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 143911,
+      "num": 388541,
+      "word": "相亲100次是什么体验",
+      "onboard_time": 1724639120,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143679,
@@ -3401,6 +3449,14 @@
       "onboard_time": 1724500040,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 136465,
+      "num": 136465,
+      "word": "我的邻居是掌管减肥的神",
+      "onboard_time": 1724640139,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 136298,
@@ -3747,14 +3803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74359,
-      "num": 388541,
-      "word": "相亲100次是什么体验",
-      "onboard_time": 1724639120,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 74015,
       "num": 74015,
       "word": "孙颖莎早操比别人早1小时",
@@ -3897,6 +3945,14 @@
       "onboard_time": 1724628738,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58917,
+      "num": 360899,
+      "word": "高价月饼礼盒卖不动了",
+      "onboard_time": 1724639120,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58136,
@@ -4099,6 +4155,14 @@
       "category": "社会新闻,国外时政"
     },
     {
+      "raw_hot": 36971,
+      "num": 421783,
+      "word": "黎真主党领导人视频讲话",
+      "onboard_time": 1724640019,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 35232,
       "num": 267905,
       "word": "深蓝华为联合推进全民智驾",
@@ -4113,14 +4177,6 @@
       "onboard_time": 1724612292,
       "rank": 46,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 33703,
-      "num": 360899,
-      "word": "高价月饼礼盒卖不动了",
-      "onboard_time": 1724639120,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30582,
@@ -4169,6 +4225,14 @@
       "onboard_time": 1724590821,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 26071,
+      "num": 235648,
+      "word": "遭迫害的美国科学家打算来华工作",
+      "onboard_time": 1724639959,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25949,
@@ -4280,14 +4344,6 @@
       "word": "铸牢共同体中华一家亲",
       "onboard_time": 1724503281,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6397,
-      "num": 235648,
-      "word": "遭迫害的美国科学家打算来华工作",
-      "onboard_time": 1724639959,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
