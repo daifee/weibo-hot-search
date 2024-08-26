@@ -1,6 +1,6 @@
 {
   "startTime": 1724689640506,
-  "endTime": 1724697615713,
+  "endTime": 1724699843099,
   "band_list": [
     {
       "raw_hot": 4028084,
@@ -355,6 +355,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 182672,
+      "num": 127844,
+      "word": "Steam一夜遭28万次攻击",
+      "onboard_time": 1724694736,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181782,
       "num": 193152,
       "word": "比俺叫焦恩俊还有杀伤力",
@@ -459,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127844,
-      "num": 127844,
-      "word": "Steam一夜遭28万次攻击",
-      "onboard_time": 1724694736,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 124284,
       "num": 258125,
       "word": "山东一中专生被曝军训中暑身亡",
@@ -561,6 +561,14 @@
       "onboard_time": 1724697314,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24454,
+      "num": 69676,
+      "word": "青岛官方回应网传一公司代孕",
+      "onboard_time": 1724699712,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16477,

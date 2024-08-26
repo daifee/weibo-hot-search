@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1724697615713,
+  "endTime": 1724699843099,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -59171,6 +59171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182672,
+      "num": 127844,
+      "word": "Steam一夜遭28万次攻击",
+      "onboard_time": 1724694736,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182620,
       "num": 182620,
       "word": "王楚钦奥运会发球直接得分合辑",
@@ -68017,14 +68025,6 @@
       "onboard_time": 1723530622,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127844,
-      "num": 127844,
-      "word": "Steam一夜遭28万次攻击",
-      "onboard_time": 1724694736,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 127714,
@@ -79168,6 +79168,14 @@
       "word": "多地建骑手友好社区",
       "onboard_time": 1723847953,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24454,
+      "num": 69676,
+      "word": "青岛官方回应网传一公司代孕",
+      "onboard_time": 1724699712,
+      "rank": 25,
       "category": "社会新闻"
     },
     {

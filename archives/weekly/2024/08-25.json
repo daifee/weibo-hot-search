@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724697615713,
+  "endTime": 1724699843099,
   "band_list": [
     {
       "raw_hot": 14208627,
@@ -4435,6 +4435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182672,
+      "num": 127844,
+      "word": "Steam一夜遭28万次攻击",
+      "onboard_time": 1724694736,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181975,
       "num": 181975,
       "word": "梅德韦杰夫谈Telegram创始人被捕",
@@ -5651,14 +5659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127844,
-      "num": 127844,
-      "word": "Steam一夜遭28万次攻击",
-      "onboard_time": 1724694736,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 127629,
       "num": 127629,
       "word": "张镇麟发博",
@@ -6777,6 +6777,14 @@
       "onboard_time": 1724604857,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24454,
+      "num": 69676,
+      "word": "青岛官方回应网传一公司代孕",
+      "onboard_time": 1724699712,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24180,
