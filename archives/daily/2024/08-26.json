@@ -1,6 +1,6 @@
 {
   "startTime": 1724603016158,
-  "endTime": 1724650644199,
+  "endTime": 1724653786664,
   "band_list": [
     {
       "raw_hot": 9998740,
@@ -25,6 +25,14 @@
       "onboard_time": 1724632701,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2086735,
+      "num": 695907,
+      "word": "那英听到黄子韬要求婚的反应",
+      "onboard_time": 1724651840,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 2011693,
@@ -155,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 929833,
+      "num": 929833,
+      "word": "全红婵卖力给大乌龟擦背",
+      "onboard_time": 1724650641,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 928538,
       "num": 928538,
       "word": "网贷60万做榜1大哥后送外卖还债",
@@ -235,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 677603,
+      "num": 677603,
+      "word": "一天花掉一万五中产家长的迪士尼苦旅",
+      "onboard_time": 1724649803,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 676278,
       "num": 676278,
       "word": "特朗普说马上战胜拜登时哈里斯登场",
@@ -273,6 +297,14 @@
       "onboard_time": 1724594242,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 593447,
+      "num": 413116,
+      "word": "女子被榴莲咬脚杀伤力满级",
+      "onboard_time": 1724650641,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 590878,
@@ -379,6 +411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 492482,
+      "num": 360534,
+      "word": "爸爸养的猫已经25岁了",
+      "onboard_time": 1724648363,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 482070,
       "num": 482070,
       "word": "庞博文 立规矩",
@@ -443,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 431745,
+      "num": 431745,
+      "word": "曹璐自己掏钱让组合回归",
+      "onboard_time": 1724649563,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 405638,
       "num": 549071,
       "word": "房屋养老金要不要老百姓直接出钱",
@@ -499,12 +547,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 357729,
-      "num": 357729,
-      "word": "曹璐自己掏钱让组合回归",
-      "onboard_time": 1724649563,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 364612,
+      "num": 364612,
+      "word": "内蒙古一男子房内自缢身亡",
+      "onboard_time": 1724648963,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 362507,
+      "num": 362507,
+      "word": "还我妈生吴邪",
+      "onboard_time": 1724651541,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 355590,
@@ -539,20 +595,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 335238,
-      "num": 335238,
-      "word": "一天花掉一万五中产家长的迪士尼苦旅",
-      "onboard_time": 1724649803,
-      "rank": 23,
+      "raw_hot": 333152,
+      "num": 362577,
+      "word": "记者暗访号称北方最大地下代孕实验室",
+      "onboard_time": 1724651961,
+      "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 333710,
-      "num": 333710,
-      "word": "爸爸养的猫已经25岁了",
-      "onboard_time": 1724648363,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 330956,
@@ -569,14 +617,6 @@
       "onboard_time": 1724631319,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 319050,
-      "num": 319050,
-      "word": "内蒙古一男子房内自缢身亡",
-      "onboard_time": 1724648963,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 318653,
@@ -707,6 +747,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 245628,
+      "num": 245628,
+      "word": "没票的时候就去12306撒撒娇",
+      "onboard_time": 1724652801,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 245145,
       "num": 245145,
       "word": "媒体反映的罐车运输食用油乱象查处通报",
@@ -763,12 +811,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 232565,
+      "num": 213597,
+      "word": "哥哥每个月抱弟弟合拍一次",
+      "onboard_time": 1724652801,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 232066,
       "num": 593988,
       "word": "孩子的假期作业到底是留给谁的",
       "onboard_time": 1724635279,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231838,
+      "num": 213541,
+      "word": "她去旅游是真的可以打出租车的",
+      "onboard_time": 1724652260,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 227575,
@@ -819,6 +883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 214011,
+      "num": 214011,
+      "word": "他都醋成这样了还嘴硬呢",
+      "onboard_time": 1724653221,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213593,
       "num": 436197,
       "word": "口水战从庆余年吵到了四方馆",
@@ -833,6 +905,14 @@
       "onboard_time": 1724635039,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212866,
+      "num": 212866,
+      "word": "鞠婧祎精彩OK封面",
+      "onboard_time": 1724652621,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 210306,
@@ -864,6 +944,14 @@
       "word": "中秋假期火车票9月1日开售",
       "onboard_time": 1724640319,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208160,
+      "num": 208160,
+      "word": "网传成都高温限电不实",
+      "onboard_time": 1724648306,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -947,6 +1035,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196164,
+      "num": 196164,
+      "word": "美国发现致命东方马脑炎病例",
+      "onboard_time": 1724653460,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195686,
       "num": 245687,
       "word": "妈妈的偶像辉煌 我的偶像危房",
@@ -977,6 +1073,14 @@
       "onboard_time": 1724642541,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186362,
+      "num": 186362,
+      "word": "240斤男生5个月减百斤颜值逆袭",
+      "onboard_time": 1724649803,
+      "rank": 41,
+      "category": "运动健身"
     },
     {
       "raw_hot": 185766,
@@ -1091,19 +1195,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174464,
+      "num": 174464,
+      "word": "教师其实是一个多工种职业",
+      "onboard_time": 1724651421,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 174360,
+      "num": 174360,
+      "word": "小狗不知道什么是失恋",
+      "onboard_time": 1724652441,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172231,
       "num": 172231,
       "word": "解放军南部战区在边境一线巡逻警巡",
       "onboard_time": 1724635340,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172148,
-      "num": 172148,
-      "word": "网传成都高温限电不实",
-      "onboard_time": 1724648306,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1113,6 +1225,14 @@
       "onboard_time": 1724593941,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170820,
+      "num": 255551,
+      "word": "男子每天1斤炸花生米配可乐引发脑梗死",
+      "onboard_time": 1724651901,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169094,
@@ -1379,6 +1499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 127788,
+      "num": 362523,
+      "word": "吴建豪是真一点儿不占粉丝便宜",
+      "onboard_time": 1724652981,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124655,
       "num": 124655,
       "word": "ZmjjKK获全球冠军赛FMVP",
@@ -1627,6 +1755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46489,
+      "num": 602283,
+      "word": "人间至味是烟台",
+      "onboard_time": 1724648783,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45711,
       "num": 59231,
       "word": "迪丽热巴高马尾比耶",
@@ -1699,14 +1835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31992,
-      "num": 602283,
-      "word": "人间至味是烟台",
-      "onboard_time": 1724648783,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 26071,
       "num": 235648,
       "word": "遭迫害的美国科学家打算来华工作",
@@ -1761,6 +1889,14 @@
       "onboard_time": 1724620450,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 20368,
+      "num": 378601,
+      "word": "石家庄危废处置关口层层失守",
+      "onboard_time": 1724653281,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17814,
