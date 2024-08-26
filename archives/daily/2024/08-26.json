@@ -1,6 +1,6 @@
 {
   "startTime": 1724603016158,
-  "endTime": 1724657734959,
+  "endTime": 1724660833427,
   "band_list": [
     {
       "raw_hot": 9998740,
@@ -24,6 +24,14 @@
       "word": "今年中秋放假3天需调休",
       "onboard_time": 1724632701,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2091887,
+      "num": 2091887,
+      "word": "年轻女孩消耗身体赚钱卖卵十几次",
+      "onboard_time": 1724656341,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -73,6 +81,14 @@
       "onboard_time": 1724642900,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1686270,
+      "num": 1686270,
+      "word": "陈梦回应佩戴定制首饰参赛",
+      "onboard_time": 1724657120,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 1676289,
@@ -163,6 +179,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1062388,
+      "num": 1062388,
+      "word": "13岁男孩血尿医生取出20多颗磁力珠",
+      "onboard_time": 1724658742,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1024413,
+      "num": 462454,
+      "word": "黄子韬kiss徐艺洋小鸡啄米",
+      "onboard_time": 1724660421,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1021221,
       "num": 1021221,
       "word": "藏海花开播",
@@ -185,6 +217,14 @@
       "onboard_time": 1724597723,
       "rank": 3,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 979863,
+      "num": 453190,
+      "word": "飞机上两女子强行带孩子进厕所里教育",
+      "onboard_time": 1724658081,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 970685,
@@ -360,14 +400,6 @@
       "word": "居民称2名空调安装工10楼坠落",
       "onboard_time": 1724637739,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 590377,
-      "num": 461087,
-      "word": "年轻女孩消耗身体赚钱卖卵十几次",
-      "onboard_time": 1724656341,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -555,6 +587,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 439007,
+      "num": 461933,
+      "word": "乌克兰全境实施紧急停电",
+      "onboard_time": 1724654660,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 436951,
+      "num": 261695,
+      "word": "教练 我想走文化了",
+      "onboard_time": 1724658980,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 431745,
       "num": 431745,
       "word": "曹璐自己掏钱让组合回归",
@@ -659,12 +707,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 329255,
+      "num": 329255,
+      "word": "国家一级演员王霙逝世",
+      "onboard_time": 1724655440,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 327880,
+      "num": 327880,
+      "word": "陈梦说腰伤期间开会都要申请站着",
+      "onboard_time": 1724658861,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 325739,
       "num": 325739,
       "word": "看邓紫棋演唱会旁边是鹿晗",
       "onboard_time": 1724631319,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 321729,
+      "num": 450961,
+      "word": "10年来结婚登记数腰斩",
+      "onboard_time": 1724657303,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 318653,
@@ -756,7 +828,7 @@
     },
     {
       "raw_hot": 283279,
-      "num": 283279,
+      "num": 468475,
       "word": "乌克兰全境多地发生爆炸",
       "onboard_time": 1724656104,
       "rank": 26,
@@ -801,6 +873,14 @@
       "onboard_time": 1724652260,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 262997,
+      "num": 262997,
+      "word": "留学生淘宝反向代购月入过万",
+      "onboard_time": 1724656162,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262605,
@@ -859,12 +939,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 241180,
-      "num": 241180,
-      "word": "陈梦回应佩戴定制首饰参赛",
-      "onboard_time": 1724657120,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 239240,
+      "num": 239240,
+      "word": "难哄OST官宣",
+      "onboard_time": 1724659702,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 235825,
@@ -905,6 +985,14 @@
       "onboard_time": 1724635279,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231272,
+      "num": 241850,
+      "word": "田曦薇蛋黄过敏",
+      "onboard_time": 1724657183,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 231014,
@@ -963,14 +1051,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 216835,
-      "num": 461933,
-      "word": "乌克兰全境实施紧急停电",
-      "onboard_time": 1724654660,
-      "rank": 37,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 214011,
       "num": 214011,
       "word": "他都醋成这样了还嘴硬呢",
@@ -993,6 +1073,14 @@
       "onboard_time": 1724635039,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213040,
+      "num": 213040,
+      "word": "银牌小伙和偶像孙杨合影后秒换头像",
+      "onboard_time": 1724659762,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 212866,
@@ -1139,6 +1227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196210,
+      "num": 196210,
+      "word": "WTT票价",
+      "onboard_time": 1724660600,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195686,
       "num": 245687,
       "word": "妈妈的偶像辉煌 我的偶像危房",
@@ -1147,12 +1243,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 195448,
-      "num": 241850,
-      "word": "田曦薇蛋黄过敏",
-      "onboard_time": 1724657183,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 195630,
+      "num": 195630,
+      "word": "王楚钦新头型",
+      "onboard_time": 1724660121,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 195372,
@@ -1163,12 +1259,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 194382,
-      "num": 282001,
-      "word": "国家一级演员王霙逝世",
-      "onboard_time": 1724655440,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 190857,
+      "num": 190857,
+      "word": "头鱼 困长",
+      "onboard_time": 1724657362,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 188326,
@@ -1188,7 +1284,7 @@
     },
     {
       "raw_hot": 186554,
-      "num": 186554,
+      "num": 216627,
       "word": "蕾哈娜关注了王鹤棣",
       "onboard_time": 1724656040,
       "rank": 40,
@@ -1209,6 +1305,14 @@
       "onboard_time": 1724580379,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185129,
+      "num": 185129,
+      "word": "陈梦回应奥运卫冕女单冠军",
+      "onboard_time": 1724659343,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 184477,
@@ -1283,6 +1387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 178630,
+      "num": 178630,
+      "word": "孙杨赛前检录仍是满背膏药",
+      "onboard_time": 1724656040,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177276,
       "num": 177276,
       "word": "巴黎残奥会开幕式",
@@ -1297,6 +1409,14 @@
       "onboard_time": 1724645240,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176642,
+      "num": 176642,
+      "word": "新生没开学快递先到了",
+      "onboard_time": 1724660241,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176269,
@@ -1379,6 +1499,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 167852,
+      "num": 417659,
+      "word": "驴友徒步玉龙雪山失联9天遇难",
+      "onboard_time": 1724657600,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164422,
       "num": 164422,
       "word": "我的邻居是掌管减肥的神",
@@ -1401,6 +1529,14 @@
       "onboard_time": 1724644880,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 162657,
+      "num": 162656,
+      "word": "俄对乌全境多地发动导弹袭击",
+      "onboard_time": 1724660182,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 161707,
@@ -1459,14 +1595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157013,
-      "num": 157013,
-      "word": "孙杨赛前检录仍是满背膏药",
-      "onboard_time": 1724656040,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 155495,
       "num": 155495,
       "word": "朱志鑫solo舞台",
@@ -1507,6 +1635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150477,
+      "num": 162657,
+      "word": "TF三代今天成团",
+      "onboard_time": 1724658980,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150014,
       "num": 150014,
       "word": "罗拉带王能能回老家",
@@ -1520,14 +1656,6 @@
       "word": "160斤女生当模特全身散发着自信",
       "onboard_time": 1724602998,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147354,
-      "num": 147354,
-      "word": "留学生淘宝反向代购月入过万",
-      "onboard_time": 1724656162,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1883,11 +2011,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52135,
+      "num": 162672,
+      "word": "余承东发布华为主视觉智驾",
+      "onboard_time": 1724660721,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 50458,
       "num": 692977,
       "word": "律师就要坚持难而正确的事",
       "onboard_time": 1724644101,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50281,
+      "num": 1867930,
+      "word": "暴雨天气防范指南",
+      "onboard_time": 1724659221,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1913,6 +2057,14 @@
       "onboard_time": 1724655681,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47624,
+      "num": 219858,
+      "word": "问界新M7Pro标配CDC减振系统",
+      "onboard_time": 1724659401,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 47428,
@@ -1945,14 +2097,6 @@
       "onboard_time": 1724609593,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 41490,
-      "num": 417659,
-      "word": "驴友徒步玉龙雪山失联9天遇难",
-      "onboard_time": 1724657600,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41339,
@@ -2024,14 +2168,6 @@
       "word": "2024开始启动渐变色模式",
       "onboard_time": 1724641579,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27329,
-      "num": 450961,
-      "word": "10年来结婚登记数腰斩",
-      "onboard_time": 1724657303,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -2126,6 +2262,9 @@
   "hotgov_list": [
     {
       "word": "#学习新语#"
+    },
+    {
+      "word": "#习近平总书记高度重视统一战线工作#"
     }
   ]
 }
