@@ -1,6 +1,6 @@
 {
   "startTime": 1724689640506,
-  "endTime": 1724703776718,
+  "endTime": 1724704536527,
   "band_list": [
     {
       "raw_hot": 4028084,
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81012,
+      "num": 81012,
+      "word": "泡泡玛特盲盒新品出现错别字",
+      "onboard_time": 1724701571,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75122,
       "num": 75122,
       "word": "TOP",
@@ -563,15 +571,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 45466,
-      "num": 45466,
-      "word": "泡泡玛特盲盒新品出现错别字",
-      "onboard_time": 1724701571,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29388,
+      "raw_hot": 30028,
       "num": 34822,
       "word": "恐怖片对儿童及青少年有何影响",
       "onboard_time": 1724702772,
@@ -579,20 +579,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27525,
-      "num": 34807,
-      "word": "周深唱小美满和少管我",
-      "onboard_time": 1724701571,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 26977,
+      "raw_hot": 29241,
       "num": 95678,
       "word": "青岛官方回应网传一公司代孕",
       "onboard_time": 1724699712,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28438,
+      "num": 34807,
+      "word": "周深唱小美满和少管我",
+      "onboard_time": 1724701571,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 16477,
@@ -601,6 +601,14 @@
       "onboard_time": 1724677221,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15269,
+      "num": 68881,
+      "word": "青岛大嫚陈梦要学青岛话",
+      "onboard_time": 1724704032,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 13077,
