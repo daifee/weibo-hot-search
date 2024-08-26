@@ -1,0 +1,410 @@
+{
+  "runTime": 1724656778569,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3807653,
+        "num": 3807653,
+        "word": "黄子韬求婚徐艺洋",
+        "onboard_time": 1724645721,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1641256,
+        "num": 1641256,
+        "word": "男子每天1斤炸花生米配可乐引发脑梗死",
+        "onboard_time": 1724651901,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20301,
+        "num": 1291800,
+        "word": "2024开始启动渐变色模式",
+        "onboard_time": 1724641579,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1268987,
+        "num": 1268987,
+        "word": "王楚钦 穿搭博主",
+        "onboard_time": 1724655261,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1097735,
+        "num": 1097735,
+        "word": "记者暗访号称北方最大地下代孕实验室",
+        "onboard_time": 1724651961,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1093527,
+        "num": 1093527,
+        "word": "全红婵卖力给大乌龟擦背",
+        "onboard_time": 1724650641,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 888637,
+        "num": 888637,
+        "word": "一天花掉一万五中产家长的迪士尼苦旅",
+        "onboard_time": 1724649803,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697319,
+        "num": 697319,
+        "word": "女子被榴莲咬脚杀伤力满级",
+        "onboard_time": 1724650641,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609003,
+        "num": 609003,
+        "word": "还我妈生吴邪",
+        "onboard_time": 1724651541,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47734,
+        "num": 552221,
+        "word": "长沙一男子下班后猝死公司园区",
+        "onboard_time": 1724655681,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1843143,
+        "num": 533702,
+        "word": "黄子韬少看点番茄小说吧",
+        "onboard_time": 1724655201,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514654,
+        "num": 514654,
+        "word": "张豆豆牵走哭泣的孙杨",
+        "onboard_time": 1724644159,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1143206,
+        "num": 513441,
+        "word": "我敢娶你 你敢答应我吗",
+        "onboard_time": 1724646263,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442719,
+        "num": 442719,
+        "word": "男子杀害2人逃亡32年后自缢身亡",
+        "onboard_time": 1724647044,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66459,
+        "num": 426779,
+        "word": "朝鲜无人机性能试验",
+        "onboard_time": 1724656461,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1495457,
+        "num": 425892,
+        "word": "那英听到黄子韬要求婚的反应",
+        "onboard_time": 1724651840,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416911,
+        "num": 416911,
+        "word": "专家称鼓励生育问题还是得问年轻人",
+        "onboard_time": 1724646383,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373966,
+        "num": 373966,
+        "word": "内蒙古一男子房内自缢身亡",
+        "onboard_time": 1724648963,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370254,
+        "num": 370254,
+        "word": "孙杨原本计划明年复出",
+        "onboard_time": 1724654001,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229419,
+        "num": 338414,
+        "word": "曹璐自己掏钱让组合回归",
+        "onboard_time": 1724649563,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 598170,
+        "num": 332892,
+        "word": "没票的时候就去12306撒撒娇",
+        "onboard_time": 1724652801,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 426667,
+        "num": 331467,
+        "word": "爸爸养的猫已经25岁了",
+        "onboard_time": 1724648363,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 326604,
+        "num": 326604,
+        "word": "罗永浩真还传一共还了8.24亿",
+        "onboard_time": 1724644040,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 284190,
+        "num": 284190,
+        "word": "哥哥每个月抱弟弟合拍一次",
+        "onboard_time": 1724652801,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275000,
+        "num": 275000,
+        "word": "中医建议放下这些气血就恢复80%了",
+        "onboard_time": 1724655261,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47428,
+        "num": 250062,
+        "word": "你在职场被压榨过吗",
+        "onboard_time": 1724655922,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231892,
+        "num": 231892,
+        "word": "乌克兰全境多地发生爆炸",
+        "onboard_time": 1724656104,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 200431,
+        "num": 231189,
+        "word": "藏海花开播",
+        "onboard_time": 1724640019,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193375,
+        "num": 231060,
+        "word": "赵丽颖剪短发plog",
+        "onboard_time": 1724641938,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191995,
+        "num": 231023,
+        "word": "国家一级演员王霙逝世",
+        "onboard_time": 1724655440,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231014,
+        "num": 231014,
+        "word": "240斤男生5个月减百斤颜值逆袭",
+        "onboard_time": 1724649803,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 227772,
+        "num": 227772,
+        "word": "美国发现致命东方马脑炎病例",
+        "onboard_time": 1724653460,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225544,
+        "num": 225544,
+        "word": "她去旅游是真的可以打出租车的",
+        "onboard_time": 1724652260,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215912,
+        "num": 215912,
+        "word": "年轻女孩消耗身体赚钱卖卵十几次",
+        "onboard_time": 1724656341,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213966,
+        "num": 213966,
+        "word": "2024年居民医保最新缴费标准",
+        "onboard_time": 1724644580,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208339,
+        "num": 208339,
+        "word": "莫迪首次回应女实习医生遭奸杀案",
+        "onboard_time": 1724640980,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 189138,
+        "num": 203545,
+        "word": "马雪阳求婚谭咏雯",
+        "onboard_time": 1724644820,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200475,
+        "num": 200475,
+        "word": "乌克兰全境实施紧急停电",
+        "onboard_time": 1724654660,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 198322,
+        "num": 198322,
+        "word": "90后爸爸只吃黄瓜暴瘦30斤割肝救女",
+        "onboard_time": 1724644641,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174602,
+        "num": 174602,
+        "word": "小狗不知道什么是失恋",
+        "onboard_time": 1724652441,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167718,
+        "num": 167718,
+        "word": "蕾哈娜关注了王鹤棣",
+        "onboard_time": 1724656040,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166194,
+        "num": 166194,
+        "word": "国漫对韩漫贴脸开大",
+        "onboard_time": 1724640199,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 165274,
+        "num": 165274,
+        "word": "鞠婧祎精彩OK封面",
+        "onboard_time": 1724652621,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 160526,
+        "num": 160526,
+        "word": "网传成都高温限电不实",
+        "onboard_time": 1724648306,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157837,
+        "num": 157837,
+        "word": "他都醋成这样了还嘴硬呢",
+        "onboard_time": 1724653221,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157586,
+        "num": 157586,
+        "word": "孙杨成绩距本人奥运纪录差了近10秒",
+        "onboard_time": 1724631079,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156372,
+        "num": 156372,
+        "word": "难怪打工那么多年遇不到藏族人",
+        "onboard_time": 1724644221,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152345,
+        "num": 152345,
+        "word": "网贷60万做榜1大哥后送外卖还债",
+        "onboard_time": 1724640800,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147354,
+        "num": 147354,
+        "word": "留学生淘宝反向代购月入过万",
+        "onboard_time": 1724656162,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146853,
+        "num": 146853,
+        "word": "陈楚生是苏醒一生过不去的坎",
+        "onboard_time": 1724649803,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习新语#"
+    }
+  }
+}
