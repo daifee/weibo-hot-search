@@ -1,6 +1,6 @@
 {
   "startTime": 1724603016158,
-  "endTime": 1724642705430,
+  "endTime": 1724643517768,
   "band_list": [
     {
       "raw_hot": 3239838,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1946564,
-      "num": 1946564,
+      "raw_hot": 2011693,
+      "num": 2011693,
       "word": "全红婵喝饮料网友告状陈若琳",
       "onboard_time": 1724639299,
       "rank": 15,
@@ -27,8 +27,8 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 1594137,
-      "num": 1594137,
+      "raw_hot": 1605712,
+      "num": 1605712,
       "word": "国漫对韩漫贴脸开大",
       "onboard_time": 1724640199,
       "rank": 20,
@@ -41,6 +41,14 @@
       "onboard_time": 1724631079,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1322576,
+      "num": 1322576,
+      "word": "莫迪首次回应女实习医生遭奸杀案",
+      "onboard_time": 1724640980,
+      "rank": 3,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1227438,
@@ -59,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1021221,
+      "num": 1021221,
+      "word": "藏海花开播",
+      "onboard_time": 1724640019,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1016869,
       "num": 469513,
       "word": "孙颖莎回应王楚钦看自己脸色",
@@ -75,28 +91,12 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 995842,
-      "num": 995842,
-      "word": "莫迪首次回应女实习医生遭奸杀案",
-      "onboard_time": 1724640980,
-      "rank": 3,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 947283,
       "num": 969082,
       "word": "孙杨成绩能在杭州亚运会拿第5",
       "onboard_time": 1724599161,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 838396,
-      "num": 838396,
-      "word": "藏海花开播",
-      "onboard_time": 1724640019,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 826274,
@@ -121,6 +121,14 @@
       "onboard_time": 1724630417,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 742162,
+      "num": 742162,
+      "word": "网贷60万做榜1大哥后送外卖还债",
+      "onboard_time": 1724640800,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 741366,
@@ -219,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 527514,
+      "num": 527514,
+      "word": "赵丽颖剪短发plog",
+      "onboard_time": 1724641938,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 524458,
       "num": 524458,
       "word": "登陆计划出道人数",
@@ -315,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 435888,
-      "num": 435888,
-      "word": "网贷60万做榜1大哥后送外卖还债",
-      "onboard_time": 1724640800,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 405638,
       "num": 549071,
       "word": "房屋养老金要不要老百姓直接出钱",
@@ -361,6 +369,22 @@
       "onboard_time": 1724596823,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 355590,
+      "num": 380673,
+      "word": "张颖颖晒回山东老家日常vlog",
+      "onboard_time": 1724640199,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 346192,
+      "num": 346192,
+      "word": "双胞胎一个S码一个XXXL码",
+      "onboard_time": 1724642900,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 345310,
@@ -403,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308297,
+      "num": 308297,
+      "word": "东北县城女孩卖鸵鸟年入百万",
+      "onboard_time": 1724637739,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 306644,
       "num": 306644,
       "word": "孙颖莎和教练父女版斗嘴",
@@ -419,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302907,
+      "num": 310549,
+      "word": "肖战花田骑车",
+      "onboard_time": 1724642659,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300912,
       "num": 300912,
       "word": "女兵练出6块腹肌笑得好开心",
@@ -427,20 +467,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295933,
+      "num": 380016,
+      "word": "心动的信号7艺人阵容官宣",
+      "onboard_time": 1724640800,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 295655,
       "num": 295655,
       "word": "上海已叫停房贷返点",
       "onboard_time": 1724629098,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 291544,
-      "num": 339203,
-      "word": "张颖颖晒回山东老家日常vlog",
-      "onboard_time": 1724640199,
-      "rank": 34,
-      "category": "网红"
     },
     {
       "raw_hot": 281150,
@@ -456,14 +496,6 @@
       "word": "孔令美崇拜章子怡",
       "onboard_time": 1724640918,
       "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 271385,
-      "num": 271385,
-      "word": "心动的信号7艺人阵容官宣",
-      "onboard_time": 1724640800,
-      "rank": 29,
       "category": "综艺"
     },
     {
@@ -507,20 +539,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 235647,
-      "num": 235647,
-      "word": "东北县城女孩卖鸵鸟年入百万",
-      "onboard_time": 1724637739,
-      "rank": 30,
+      "raw_hot": 232066,
+      "num": 593988,
+      "word": "孩子的假期作业到底是留给谁的",
+      "onboard_time": 1724635279,
+      "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235514,
-      "num": 235514,
-      "word": "肖战花田骑车",
-      "onboard_time": 1724642659,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 227575,
@@ -539,20 +563,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 219799,
+      "num": 524883,
+      "word": "把空奶盒当作业苦了学生还是家长",
+      "onboard_time": 1724641220,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219509,
       "num": 219509,
       "word": "卢昱晓出妆前后生图",
       "onboard_time": 1724593221,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 214708,
-      "num": 214708,
-      "word": "赵丽颖剪短发plog",
-      "onboard_time": 1724641938,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 213063,
@@ -611,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203058,
+      "num": 203058,
+      "word": "张杰遗珠歌曲上桌",
+      "onboard_time": 1724643381,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197404,
       "num": 197404,
       "word": "在泰国遭辱骂女子透露事件最新进展",
@@ -625,6 +657,14 @@
       "onboard_time": 1724631259,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188059,
+      "num": 188059,
+      "word": "官媒发声称房屋养老金不是房地产税",
+      "onboard_time": 1724642541,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185766,
@@ -723,11 +763,19 @@
       "category": "教育"
     },
     {
-      "raw_hot": 167405,
-      "num": 167405,
-      "word": "官媒发声称房屋养老金不是房地产税",
-      "onboard_time": 1724642541,
-      "rank": 44,
+      "raw_hot": 164422,
+      "num": 164422,
+      "word": "我的邻居是掌管减肥的神",
+      "onboard_time": 1724640139,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 163511,
+      "num": 388541,
+      "word": "相亲100次是什么体验",
+      "onboard_time": 1724639120,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -787,28 +835,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157349,
-      "num": 388541,
-      "word": "相亲100次是什么体验",
-      "onboard_time": 1724639120,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155495,
       "num": 155495,
       "word": "朱志鑫solo舞台",
       "onboard_time": 1724595921,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 155147,
-      "num": 155147,
-      "word": "我的邻居是掌管减肥的神",
-      "onboard_time": 1724640139,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 154841,
@@ -841,14 +873,6 @@
       "onboard_time": 1724641340,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152918,
-      "num": 593988,
-      "word": "孩子的假期作业到底是留给谁的",
-      "onboard_time": 1724635279,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150014,
@@ -971,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132945,
+      "num": 132945,
+      "word": "医保财政补助标准增加30元",
+      "onboard_time": 1724643500,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132735,
       "num": 132735,
       "word": "薛之谦音乐节",
@@ -1008,14 +1040,6 @@
       "word": "沙地塌陷埋压2孩童众人刨沙施救",
       "onboard_time": 1724599041,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110011,
-      "num": 524883,
-      "word": "把空奶盒当作业苦了学生还是家长",
-      "onboard_time": 1724641220,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1092,7 +1116,7 @@
     },
     {
       "raw_hot": 69472,
-      "num": 1114169,
+      "num": 1417429,
       "word": "八桂大地展新颜",
       "onboard_time": 1724641820,
       "rank": 2,
@@ -1204,7 +1228,7 @@
     },
     {
       "raw_hot": 35461,
-      "num": 417232,
+      "num": 530218,
       "word": "有一种海边人生是青岛啤酒相伴",
       "onboard_time": 1724641458,
       "rank": 18,
@@ -1289,6 +1313,14 @@
       "onboard_time": 1724617391,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 15299,
+      "num": 533443,
+      "word": "河北重大气象灾害暴雨应急响应Ⅲ级",
+      "onboard_time": 1724643199,
+      "rank": 9,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
