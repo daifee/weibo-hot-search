@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1724692759748,
+  "endTime": 1724693751313,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -6419,6 +6419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1832148,
+      "num": 669224,
+      "word": "穆祉丞脱衣",
+      "onboard_time": 1724677042,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1831380,
       "num": 1831380,
       "word": "举重男子61公斤级决赛",
@@ -6745,14 +6753,6 @@
       "onboard_time": 1723189824,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1778510,
-      "num": 669224,
-      "word": "穆祉丞脱衣",
-      "onboard_time": 1724677042,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 1777587,
@@ -10465,6 +10465,14 @@
       "onboard_time": 1724464997,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1294556,
+      "num": 271377,
+      "word": "穆祉丞救护车",
+      "onboard_time": 1724692997,
+      "rank": 11,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 1293085,
@@ -19203,6 +19211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 708802,
+      "num": 708802,
+      "word": "TOP登陆少年",
+      "onboard_time": 1724693177,
+      "rank": 3,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 708334,
       "num": 696945,
       "word": "石宇奇说没打好很难受",
@@ -27793,6 +27809,14 @@
       "onboard_time": 1722696342,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 441435,
+      "num": 270716,
+      "word": "登陆少年团",
+      "onboard_time": 1724693177,
+      "rank": 14,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 441342,
@@ -46387,6 +46411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235563,
+      "num": 235563,
+      "word": "左航",
+      "onboard_time": 1724692997,
+      "rank": 16,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 235541,
       "num": 235541,
       "word": "瑶荣耀典藏",
@@ -51075,6 +51107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211474,
+      "num": 187871,
+      "word": "黄朔紫发",
+      "onboard_time": 1724693358,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211342,
       "num": 211342,
       "word": "每天约有1000人到全红婵老家打卡",
@@ -54203,6 +54243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200406,
+      "num": 187842,
+      "word": "巴特福来",
+      "onboard_time": 1724693177,
+      "rank": 23,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 200351,
       "num": 200351,
       "word": "学校在通知书里寄的银行卡被我注销了",
@@ -54377,6 +54425,14 @@
       "onboard_time": 1724138122,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199792,
+      "num": 187823,
+      "word": "登陆少年",
+      "onboard_time": 1724693177,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 199762,
@@ -59660,7 +59716,7 @@
     },
     {
       "raw_hot": 180475,
-      "num": 180475,
+      "num": 187736,
       "word": "穆祉丞个人舞台3D",
       "onboard_time": 1724590163,
       "rank": 44,
@@ -79707,6 +79763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16477,
+      "num": 764742,
+      "word": "大学新生入学报到一站式清单",
+      "onboard_time": 1724677221,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16353,
       "num": 203740,
       "word": "快乐会传染的出片秘诀",
@@ -79921,14 +79985,6 @@
       "onboard_time": 1723144032,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 12862,
-      "num": 699919,
-      "word": "大学新生入学报到一站式清单",
-      "onboard_time": 1724677221,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12840,

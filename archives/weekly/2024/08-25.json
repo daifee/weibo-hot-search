@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724692759748,
+  "endTime": 1724693751313,
   "band_list": [
     {
       "raw_hot": 14208627,
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1832148,
+      "num": 669224,
+      "word": "穆祉丞脱衣",
+      "onboard_time": 1724677042,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1821067,
       "num": 1821067,
       "word": "在泰国被辱骂中国女子拒绝和解",
@@ -249,14 +257,6 @@
       "onboard_time": 1724595743,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1778510,
-      "num": 669224,
-      "word": "穆祉丞脱衣",
-      "onboard_time": 1724677042,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 1766050,
@@ -521,6 +521,14 @@
       "onboard_time": 1724547799,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1294556,
+      "num": 271377,
+      "word": "穆祉丞救护车",
+      "onboard_time": 1724692997,
+      "rank": 11,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 1293085,
@@ -1185,6 +1193,14 @@
       "onboard_time": 1724629877,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 708802,
+      "num": 708802,
+      "word": "TOP登陆少年",
+      "onboard_time": 1724693177,
+      "rank": 3,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 705293,
@@ -1857,6 +1873,14 @@
       "onboard_time": 1724635880,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 441435,
+      "num": 270716,
+      "word": "登陆少年团",
+      "onboard_time": 1724693177,
+      "rank": 14,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 441262,
@@ -3131,6 +3155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235563,
+      "num": 235563,
+      "word": "左航",
+      "onboard_time": 1724692997,
+      "rank": 16,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 235033,
       "num": 235033,
       "word": "闪耀暖暖",
@@ -3595,6 +3627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211474,
+      "num": 187871,
+      "word": "黄朔紫发",
+      "onboard_time": 1724693358,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211234,
       "num": 211234,
       "word": "乐华家族演唱会",
@@ -3899,6 +3939,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 200406,
+      "num": 187842,
+      "word": "巴特福来",
+      "onboard_time": 1724693177,
+      "rank": 23,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 200352,
       "num": 305444,
       "word": "电影刺猬",
@@ -3929,6 +3977,14 @@
       "onboard_time": 1724646864,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 199792,
+      "num": 187823,
+      "word": "登陆少年",
+      "onboard_time": 1724693177,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 199177,
@@ -4428,7 +4484,7 @@
     },
     {
       "raw_hot": 180475,
-      "num": 180475,
+      "num": 187736,
       "word": "穆祉丞个人舞台3D",
       "onboard_time": 1724590163,
       "rank": 44,
@@ -6739,6 +6795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16477,
+      "num": 764742,
+      "word": "大学新生入学报到一站式清单",
+      "onboard_time": 1724677221,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16299,
       "num": 53295,
       "word": "萌二听懂游客说话呲牙掰竹子",
@@ -6768,14 +6832,6 @@
       "word": "河北重大气象灾害暴雨应急响应Ⅲ级",
       "onboard_time": 1724643199,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12862,
-      "num": 699919,
-      "word": "大学新生入学报到一站式清单",
-      "onboard_time": 1724677221,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

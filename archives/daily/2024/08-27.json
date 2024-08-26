@@ -1,6 +1,6 @@
 {
   "startTime": 1724689640506,
-  "endTime": 1724692759748,
+  "endTime": 1724693751313,
   "band_list": [
     {
       "raw_hot": 4028084,
@@ -35,7 +35,7 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 1778510,
+      "raw_hot": 1832148,
       "num": 669224,
       "word": "穆祉丞脱衣",
       "onboard_time": 1724677042,
@@ -49,6 +49,14 @@
       "onboard_time": 1724687786,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1294556,
+      "num": 271377,
+      "word": "穆祉丞救护车",
+      "onboard_time": 1724692997,
+      "rank": 11,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 1275860,
@@ -91,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 708802,
+      "num": 708802,
+      "word": "TOP登陆少年",
+      "onboard_time": 1724693177,
+      "rank": 3,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 669613,
       "num": 354570,
       "word": "吉祥航空通报儿童被关厕所教育",
@@ -129,6 +145,14 @@
       "onboard_time": 1724685324,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 441435,
+      "num": 270716,
+      "word": "登陆少年团",
+      "onboard_time": 1724693177,
+      "rank": 14,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 417526,
@@ -219,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235563,
+      "num": 235563,
+      "word": "左航",
+      "onboard_time": 1724692997,
+      "rank": 16,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 231143,
       "num": 259554,
       "word": "马龙说官宣前2小时才知道是奥运旗手",
@@ -241,6 +273,14 @@
       "onboard_time": 1724678062,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211474,
+      "num": 187871,
+      "word": "黄朔紫发",
+      "onboard_time": 1724693358,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 209365,
@@ -273,6 +313,22 @@
       "onboard_time": 1724665102,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200406,
+      "num": 187842,
+      "word": "巴特福来",
+      "onboard_time": 1724693177,
+      "rank": 23,
+      "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 199792,
+      "num": 187823,
+      "word": "登陆少年",
+      "onboard_time": 1724693177,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 193962,
@@ -363,6 +419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135316,
+      "num": 187736,
+      "word": "穆祉丞个人舞台3D",
+      "onboard_time": 1724590163,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131966,
       "num": 257988,
       "word": "苏新皓 我得救了",
@@ -427,8 +491,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12862,
-      "num": 699919,
+      "raw_hot": 16477,
+      "num": 764742,
       "word": "大学新生入学报到一站式清单",
       "onboard_time": 1724677221,
       "rank": 2,
