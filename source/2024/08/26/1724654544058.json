@@ -1,0 +1,410 @@
+{
+  "runTime": 1724654544058,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4273958,
+        "num": 4273958,
+        "word": "黄子韬求婚徐艺洋",
+        "onboard_time": 1724645721,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1242562,
+        "num": 1242562,
+        "word": "全红婵卖力给大乌龟擦背",
+        "onboard_time": 1724650641,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7620,
+        "num": 1054827,
+        "word": "八桂大地展新颜",
+        "onboard_time": 1724641820,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 970685,
+        "num": 970685,
+        "word": "一天花掉一万五中产家长的迪士尼苦旅",
+        "onboard_time": 1724649803,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 689454,
+        "num": 689454,
+        "word": "张豆豆牵走哭泣的孙杨",
+        "onboard_time": 1724644159,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 664875,
+        "num": 664875,
+        "word": "男子杀害2人逃亡32年后自缢身亡",
+        "onboard_time": 1724647044,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612221,
+        "num": 612221,
+        "word": "记者暗访号称北方最大地下代孕实验室",
+        "onboard_time": 1724651961,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548561,
+        "num": 548561,
+        "word": "女子被榴莲咬脚杀伤力满级",
+        "onboard_time": 1724650641,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508966,
+        "num": 508966,
+        "word": "还我妈生吴邪",
+        "onboard_time": 1724651541,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 438966,
+        "num": 477496,
+        "word": "专家称鼓励生育问题还是得问年轻人",
+        "onboard_time": 1724646383,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1952002,
+        "num": 471407,
+        "word": "那英听到黄子韬要求婚的反应",
+        "onboard_time": 1724651840,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 461537,
+        "num": 461537,
+        "word": "内蒙古一男子房内自缢身亡",
+        "onboard_time": 1724648963,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1519623,
+        "num": 459425,
+        "word": "我敢娶你 你敢答应我吗",
+        "onboard_time": 1724646263,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30305,
+        "num": 423604,
+        "word": "石家庄危废处置关口层层失守",
+        "onboard_time": 1724653281,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395177,
+        "num": 395177,
+        "word": "罗永浩真还传一共还了8.24亿",
+        "onboard_time": 1724644040,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 710976,
+        "num": 391808,
+        "word": "黄子韬求婚哭了",
+        "onboard_time": 1724646984,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380041,
+        "num": 380041,
+        "word": "曹璐自己掏钱让组合回归",
+        "onboard_time": 1724649563,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313434,
+        "num": 313434,
+        "word": "男子每天1斤炸花生米配可乐引发脑梗死",
+        "onboard_time": 1724651901,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309423,
+        "num": 309423,
+        "word": "莫迪首次回应女实习医生遭奸杀案",
+        "onboard_time": 1724640980,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 101397,
+        "num": 303711,
+        "word": "蒋奇明演技",
+        "onboard_time": 1724650222,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 553469,
+        "num": 302450,
+        "word": "爸爸养的猫已经25岁了",
+        "onboard_time": 1724648363,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 320517,
+        "num": 302050,
+        "word": "没票的时候就去12306撒撒娇",
+        "onboard_time": 1724652801,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 298514,
+        "num": 298514,
+        "word": "马雪阳求婚谭咏雯",
+        "onboard_time": 1724644820,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291673,
+        "num": 291673,
+        "word": "2024年居民医保最新缴费标准",
+        "onboard_time": 1724644580,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290903,
+        "num": 290903,
+        "word": "国漫对韩漫贴脸开大",
+        "onboard_time": 1724640199,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 236083,
+        "num": 236083,
+        "word": "难怪打工那么多年遇不到藏族人",
+        "onboard_time": 1724644221,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227552,
+        "num": 227552,
+        "word": "藏海花开播",
+        "onboard_time": 1724640019,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207413,
+        "num": 207413,
+        "word": "美国发现致命东方马脑炎病例",
+        "onboard_time": 1724653460,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202631,
+        "num": 202631,
+        "word": "孙杨成绩距本人奥运纪录差了近10秒",
+        "onboard_time": 1724631079,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197862,
+        "num": 197862,
+        "word": "网传成都高温限电不实",
+        "onboard_time": 1724648306,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183128,
+        "num": 196523,
+        "word": "吴建豪是真一点儿不占粉丝便宜",
+        "onboard_time": 1724652981,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264227,
+        "num": 194603,
+        "word": "哥哥每个月抱弟弟合拍一次",
+        "onboard_time": 1724652801,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231422,
+        "num": 193757,
+        "word": "孙杨原本计划明年复出",
+        "onboard_time": 1724654001,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207386,
+        "num": 190051,
+        "word": "她去旅游是真的可以打出租车的",
+        "onboard_time": 1724652260,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189699,
+        "num": 189699,
+        "word": "他都醋成这样了还嘴硬呢",
+        "onboard_time": 1724653221,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186245,
+        "num": 186245,
+        "word": "小狗不知道什么是失恋",
+        "onboard_time": 1724652441,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184907,
+        "num": 184907,
+        "word": "网贷60万做榜1大哥后送外卖还债",
+        "onboard_time": 1724640800,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183675,
+        "num": 183675,
+        "word": "90后爸爸只吃黄瓜暴瘦30斤割肝救女",
+        "onboard_time": 1724644641,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183056,
+        "num": 183056,
+        "word": "240斤男生5个月减百斤颜值逆袭",
+        "onboard_time": 1724649803,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 181895,
+        "num": 181895,
+        "word": "鞠婧祎精彩OK封面",
+        "onboard_time": 1724652621,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 178108,
+        "num": 178108,
+        "word": "赵丽颖剪短发plog",
+        "onboard_time": 1724641938,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171986,
+        "num": 171986,
+        "word": "下一战歌手主持阵容官宣",
+        "onboard_time": 1724654361,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171113,
+        "num": 171113,
+        "word": "米卡25岁正是喜欢老头衫的年纪",
+        "onboard_time": 1724653820,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49332,
+        "num": 169922,
+        "word": "人间至味是烟台",
+        "onboard_time": 1724648783,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169286,
+        "num": 169286,
+        "word": "陈楚生是苏醒一生过不去的坎",
+        "onboard_time": 1724649803,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166692,
+        "num": 166692,
+        "word": "第九代张起灵来了",
+        "onboard_time": 1724645782,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160572,
+        "num": 160572,
+        "word": "北京全市已达暴雨级别",
+        "onboard_time": 1724645361,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160369,
+        "num": 160369,
+        "word": "今年中秋放假3天需调休",
+        "onboard_time": 1724632701,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150008,
+        "num": 150008,
+        "word": "终极笔记",
+        "onboard_time": 1724650103,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149196,
+        "num": 149196,
+        "word": "赛前张豆豆给孙杨存了一句话",
+        "onboard_time": 1724645601,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习新语#"
+    }
+  }
+}
