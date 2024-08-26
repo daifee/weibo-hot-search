@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1724699843099,
+  "endTime": 1724700899593,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -52827,6 +52827,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 205092,
+      "num": 127844,
+      "word": "Steam一夜遭28万次攻击",
+      "onboard_time": 1724694736,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 205082,
       "num": 205082,
       "word": "物业称禁止外卖上楼获租户认可",
@@ -59169,14 +59177,6 @@
       "onboard_time": 1724324481,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 182672,
-      "num": 127844,
-      "word": "Steam一夜遭28万次攻击",
-      "onboard_time": 1724694736,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 182620,
@@ -79172,7 +79172,7 @@
     },
     {
       "raw_hot": 24454,
-      "num": 69676,
+      "num": 95678,
       "word": "青岛官方回应网传一公司代孕",
       "onboard_time": 1724699712,
       "rank": 25,

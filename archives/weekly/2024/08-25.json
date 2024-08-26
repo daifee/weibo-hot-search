@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724699843099,
+  "endTime": 1724700899593,
   "band_list": [
     {
       "raw_hot": 14208627,
@@ -3819,6 +3819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205092,
+      "num": 127844,
+      "word": "Steam一夜遭28万次攻击",
+      "onboard_time": 1724694736,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204725,
       "num": 204725,
       "word": "刘耀文出发新疆进组",
@@ -4433,14 +4441,6 @@
       "onboard_time": 1724549119,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 182672,
-      "num": 127844,
-      "word": "Steam一夜遭28万次攻击",
-      "onboard_time": 1724694736,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 181975,
@@ -6780,7 +6780,7 @@
     },
     {
       "raw_hot": 24454,
-      "num": 69676,
+      "num": 95678,
       "word": "青岛官方回应网传一公司代孕",
       "onboard_time": 1724699712,
       "rank": 25,

@@ -1,6 +1,6 @@
 {
   "startTime": 1724689640506,
-  "endTime": 1724699843099,
+  "endTime": 1724700899593,
   "band_list": [
     {
       "raw_hot": 4028084,
@@ -307,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205092,
+      "num": 127844,
+      "word": "Steam一夜遭28万次攻击",
+      "onboard_time": 1724694736,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 205055,
       "num": 259211,
       "word": "警方回应小孩被陌生女子关厕所教育",
@@ -353,14 +361,6 @@
       "onboard_time": 1724678241,
       "rank": 35,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 182672,
-      "num": 127844,
-      "word": "Steam一夜遭28万次攻击",
-      "onboard_time": 1724694736,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 181782,
@@ -564,7 +564,7 @@
     },
     {
       "raw_hot": 24454,
-      "num": 69676,
+      "num": 95678,
       "word": "青岛官方回应网传一公司代孕",
       "onboard_time": 1724699712,
       "rank": 25,
