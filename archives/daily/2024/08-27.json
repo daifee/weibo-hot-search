@@ -1,6 +1,6 @@
 {
   "startTime": 1724689640506,
-  "endTime": 1724708109750,
+  "endTime": 1724710804236,
   "band_list": [
     {
       "raw_hot": 4028084,
@@ -235,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258225,
+      "num": 127844,
+      "word": "Steam一夜遭28万次攻击",
+      "onboard_time": 1724694736,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 249533,
       "num": 259119,
       "word": "蒋奇明 上桌",
@@ -307,14 +315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205092,
-      "num": 127844,
-      "word": "Steam一夜遭28万次攻击",
-      "onboard_time": 1724694736,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 205055,
       "num": 259211,
       "word": "警方回应小孩被陌生女子关厕所教育",
@@ -371,6 +371,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 179587,
+      "num": 130533,
+      "word": "黄子韬想的插兜吻vs现实",
+      "onboard_time": 1724708953,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178816,
       "num": 258326,
       "word": "拼多多股价",
@@ -392,6 +400,14 @@
       "word": "杭州这家奶茶代购炒到300元一杯",
       "onboard_time": 1724680943,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168055,
+      "num": 258506,
+      "word": "当10岁105斤的女儿生病求抱抱",
+      "onboard_time": 1724690958,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -491,14 +507,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 93224,
-      "num": 258506,
-      "word": "当10岁105斤的女儿生病求抱抱",
-      "onboard_time": 1724690958,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 81012,
       "num": 81012,
       "word": "泡泡玛特盲盒新品出现错别字",
@@ -571,20 +579,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 30028,
-      "num": 34822,
-      "word": "恐怖片对儿童及青少年有何影响",
-      "onboard_time": 1724702772,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 45975,
+      "num": 45975,
+      "word": "2024美网",
+      "onboard_time": 1724682563,
+      "rank": 32,
+      "category": "体育"
     },
     {
-      "raw_hot": 29846,
-      "num": 32614,
+      "raw_hot": 44697,
+      "num": 44697,
+      "word": "霉霉好明显的人情世故",
+      "onboard_time": 1724709982,
+      "rank": 34,
+      "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 31745,
+      "num": 44612,
       "word": "澳大利亚新法下班有权不接工作电话",
       "onboard_time": 1724704452,
       "rank": 46,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 30028,
+      "num": 44601,
+      "word": "恐怖片对儿童及青少年有何影响",
+      "onboard_time": 1724702772,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29241,
@@ -631,6 +655,14 @@
       "num": 67572,
       "word": "古人的漫画印在瓶子上",
       "onboard_time": 1724706851,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10560,
+      "num": 111583,
+      "word": "快递小哥解锁新身份",
+      "onboard_time": 1724709071,
       "rank": 9,
       "category": "社会新闻"
     }

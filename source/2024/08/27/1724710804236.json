@@ -1,0 +1,410 @@
+{
+  "runTime": 1724710804236,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 492995,
+        "num": 492995,
+        "word": "派克特",
+        "onboard_time": 1724687786,
+        "rank": 0,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 383178,
+        "num": 383178,
+        "word": "居民医保个人缴费标准增20元",
+        "onboard_time": 1724679022,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3342,
+        "num": 372991,
+        "word": "大学新生入学报到一站式清单",
+        "onboard_time": 1724677221,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365314,
+        "num": 365314,
+        "word": "TOP登陆少年",
+        "onboard_time": 1724693177,
+        "rank": 3,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 204660,
+        "num": 204660,
+        "word": "中专生军训中暑身亡家属发声",
+        "onboard_time": 1724682863,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133225,
+        "num": 133225,
+        "word": "俄罗斯与乌克兰互相发动大规模空袭",
+        "onboard_time": 1724678241,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 179587,
+        "num": 130533,
+        "word": "黄子韬想的插兜吻vs现实",
+        "onboard_time": 1724708953,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127524,
+        "num": 127524,
+        "word": "恋与深空",
+        "onboard_time": 1724669541,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111621,
+        "num": 111621,
+        "word": "警方辟谣浏览境外色情网站被罚款",
+        "onboard_time": 1724681603,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10560,
+        "num": 111583,
+        "word": "快递小哥解锁新身份",
+        "onboard_time": 1724709071,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258225,
+        "num": 111386,
+        "word": "Steam一夜遭28万次攻击",
+        "onboard_time": 1724694736,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168055,
+        "num": 111338,
+        "word": "当10岁105斤的女儿生病求抱抱",
+        "onboard_time": 1724690958,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119377,
+        "num": 111116,
+        "word": "穆祉丞脱衣",
+        "onboard_time": 1724677042,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111109,
+        "num": 111109,
+        "word": "乳腺和甲状腺结节真是气出来的吗",
+        "onboard_time": 1724669660,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108289,
+        "num": 108289,
+        "word": "方便面为什么不好卖了",
+        "onboard_time": 1724684483,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99074,
+        "num": 99074,
+        "word": "登陆计划出道名单",
+        "onboard_time": 1724684964,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85088,
+        "num": 85088,
+        "word": "连云港一河道旁发现无名女尸",
+        "onboard_time": 1724680822,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79294,
+        "num": 79294,
+        "word": "余宇涵哭了",
+        "onboard_time": 1724676321,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66574,
+        "num": 66574,
+        "word": "左航",
+        "onboard_time": 1724692997,
+        "rank": 18,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 62357,
+        "num": 62357,
+        "word": "邱贻可直播",
+        "onboard_time": 1724682083,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224574,
+        "num": 62128,
+        "word": "穆祉丞救护车",
+        "onboard_time": 1724692997,
+        "rank": 20,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 81006,
+        "num": 61777,
+        "word": "吉祥航空通报儿童被关厕所教育",
+        "onboard_time": 1724676381,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66942,
+        "num": 61497,
+        "word": "女子吃冰箱剩西瓜引发脑脓肿",
+        "onboard_time": 1724677341,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66325,
+        "num": 61084,
+        "word": "余宇涵成功出道",
+        "onboard_time": 1724694316,
+        "rank": 23,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 61008,
+        "num": 61008,
+        "word": "警方称两女子哄小孩经家长同意",
+        "onboard_time": 1724672120,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57790,
+        "num": 57790,
+        "word": "马龙说官宣前2小时才知道是奥运旗手",
+        "onboard_time": 1724688326,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55554,
+        "num": 55554,
+        "word": "张紫宁上恋综了",
+        "onboard_time": 1724684604,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54137,
+        "num": 54137,
+        "word": "支持教师积极管教学生",
+        "onboard_time": 1724678062,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52326,
+        "num": 52326,
+        "word": "成都下的是霰不是冰雹",
+        "onboard_time": 1724684124,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45682,
+        "num": 51815,
+        "word": "张峻豪TimeToHeal舞台",
+        "onboard_time": 1724687786,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51757,
+        "num": 51757,
+        "word": "山东一中专生被曝军训中暑身亡",
+        "onboard_time": 1724678602,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46180,
+        "num": 46180,
+        "word": "郑钦文VS阿尼西莫娃",
+        "onboard_time": 1724684124,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45975,
+        "num": 45975,
+        "word": "2024美网",
+        "onboard_time": 1724682563,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45273,
+        "num": 45273,
+        "word": "隔日断食15天瘦了18斤",
+        "onboard_time": 1724667680,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44697,
+        "num": 44697,
+        "word": "霉霉好明显的人情世故",
+        "onboard_time": 1724709982,
+        "rank": 34,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 41877,
+        "num": 44693,
+        "word": "泡泡玛特盲盒新品出现错别字",
+        "onboard_time": 1724701571,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41784,
+        "num": 44690,
+        "word": "警方回应小孩被陌生女子关厕所教育",
+        "onboard_time": 1724666301,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41219,
+        "num": 44684,
+        "word": "三甲医院医生非法代孕被发现直呼完了",
+        "onboard_time": 1724665102,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40827,
+        "num": 44676,
+        "word": "登陆计划",
+        "onboard_time": 1724670080,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37126,
+        "num": 44668,
+        "word": "俄打击乌军工综合体和关键能源设施",
+        "onboard_time": 1724664081,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 36680,
+        "num": 44659,
+        "word": "陈奕迅女儿恋情曝光",
+        "onboard_time": 1724667980,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36381,
+        "num": 44657,
+        "word": "杭州这家奶茶代购炒到300元一杯",
+        "onboard_time": 1724680943,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36222,
+        "num": 44650,
+        "word": "蒋奇明 上桌",
+        "onboard_time": 1724676740,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36129,
+        "num": 44641,
+        "word": "黄朔紫发",
+        "onboard_time": 1724693358,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34265,
+        "num": 44637,
+        "word": "种地吧",
+        "onboard_time": 1724684302,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33402,
+        "num": 44632,
+        "word": "三代出道战",
+        "onboard_time": 1724680822,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32757,
+        "num": 44624,
+        "word": "我妈都舍不得放这么多",
+        "onboard_time": 1724683403,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31745,
+        "num": 44612,
+        "word": "澳大利亚新法下班有权不接工作电话",
+        "onboard_time": 1724704452,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 29759,
+        "num": 44606,
+        "word": "左邓",
+        "onboard_time": 1724685324,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29283,
+        "num": 44601,
+        "word": "恐怖片对儿童及青少年有何影响",
+        "onboard_time": 1724702772,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习新语#"
+    }
+  }
+}
