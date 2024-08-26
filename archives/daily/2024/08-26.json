@@ -1,6 +1,6 @@
 {
   "startTime": 1724603016158,
-  "endTime": 1724675941356,
+  "endTime": 1724676914801,
   "band_list": [
     {
       "raw_hot": 9998740,
@@ -155,6 +155,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1552212,
+      "num": 1552212,
+      "word": "警方称两女子哄小孩经家长同意",
+      "onboard_time": 1724672120,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1517879,
       "num": 1517879,
       "word": "大熊猫戴立去世",
@@ -283,14 +291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1070550,
-      "num": 1070550,
-      "word": "警方称两女子哄小孩经家长同意",
-      "onboard_time": 1724672120,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1021221,
       "num": 1021221,
       "word": "藏海花开播",
@@ -385,6 +385,14 @@
       "onboard_time": 1724593101,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 806981,
+      "num": 806981,
+      "word": "出道战唱狂妄",
+      "onboard_time": 1724675181,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 798328,
@@ -595,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 571179,
-      "num": 571179,
-      "word": "出道战唱狂妄",
-      "onboard_time": 1724675181,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 563578,
       "num": 563578,
       "word": "爷爷卖南瓜饼1元1个被顾客劝涨价",
@@ -707,12 +707,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 484950,
+      "num": 388445,
+      "word": "女子试用期刚过宣布怀孕被解聘",
+      "onboard_time": 1724675360,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 482070,
       "num": 482070,
       "word": "庞博文 立规矩",
       "onboard_time": 1724631859,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 481823,
+      "num": 481823,
+      "word": "余宇涵哭了",
+      "onboard_time": 1724676321,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 473032,
@@ -875,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 382273,
+      "num": 382273,
+      "word": "潘展乐徐嘉余故意没跑过小孩",
+      "onboard_time": 1724675121,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 374757,
       "num": 374757,
       "word": "孙颖莎的时间表",
@@ -905,6 +929,14 @@
       "onboard_time": 1724640199,
       "rank": 34,
       "category": "网红"
+    },
+    {
+      "raw_hot": 354827,
+      "num": 354827,
+      "word": "马龙空降超话",
+      "onboard_time": 1724676075,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 346998,
@@ -1083,6 +1115,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 283291,
+      "num": 399098,
+      "word": "张子墨主持",
+      "onboard_time": 1724675602,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283279,
       "num": 468475,
       "word": "乌克兰全境多地发生爆炸",
@@ -1219,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243371,
+      "num": 230802,
+      "word": "白羊座把占有欲藏起来了",
+      "onboard_time": 1724675840,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 243274,
       "num": 243274,
       "word": "发现一个很微妙的感情定律",
@@ -1307,22 +1355,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 230802,
-      "num": 230802,
-      "word": "白羊座把占有欲藏起来了",
-      "onboard_time": 1724675840,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 229263,
-      "num": 229263,
-      "word": "潘展乐徐嘉余故意没跑过小孩",
-      "onboard_time": 1724675121,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 227575,
       "num": 227575,
       "word": "男人最好的聘礼是一生的包容",
@@ -1345,6 +1377,14 @@
       "onboard_time": 1724662703,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222034,
+      "num": 222034,
+      "word": "姥姥什么都知道 姥姥什么都不说",
+      "onboard_time": 1724675781,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 221342,
@@ -1379,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218003,
+      "num": 218003,
+      "word": "十年前的大学生是什么样的",
+      "onboard_time": 1724675181,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 217810,
       "num": 217810,
       "word": "张雨绮蕾丝球衣叠穿",
@@ -1392,6 +1440,14 @@
       "word": "山东一女生军训时死亡疑中暑导致",
       "onboard_time": 1724665520,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214070,
+      "num": 214070,
+      "word": "医院默许代孕女子冒用身份住院生产",
+      "onboard_time": 1724675662,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1467,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210039,
+      "num": 210039,
+      "word": "极禹",
+      "onboard_time": 1724676441,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209323,
       "num": 320252,
       "word": "孙杨教练一开始只盼他能达标",
@@ -1496,14 +1560,6 @@
       "word": "网传成都高温限电不实",
       "onboard_time": 1724648306,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206582,
-      "num": 206582,
-      "word": "女子试用期刚过宣布怀孕被解聘",
-      "onboard_time": 1724675360,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1619,6 +1675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 195491,
+      "num": 531688,
+      "word": "上海电信道歉",
+      "onboard_time": 1724674702,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195372,
       "num": 195372,
       "word": "剑网3",
@@ -1721,14 +1785,6 @@
       "onboard_time": 1724659343,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 185014,
-      "num": 185014,
-      "word": "张子墨主持",
-      "onboard_time": 1724675602,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 184592,
@@ -1899,14 +1955,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 173223,
-      "num": 173223,
-      "word": "十年前的大学生是什么样的",
-      "onboard_time": 1724675181,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 172478,
       "num": 296080,
       "word": "薛之谦别休息了先把新歌发了",
@@ -1971,6 +2019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 165590,
+      "num": 210074,
+      "word": "王源北京预售",
+      "onboard_time": 1724675602,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 164422,
       "num": 164422,
       "word": "我的邻居是掌管减肥的神",
@@ -2009,14 +2065,6 @@
       "onboard_time": 1724638819,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 161320,
-      "num": 161320,
-      "word": "王源北京预售",
-      "onboard_time": 1724675602,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 160870,
@@ -2155,6 +2203,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151656,
+      "num": 151656,
+      "word": "陈天润手受伤",
+      "onboard_time": 1724676681,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 150668,
+      "num": 150668,
+      "word": "又多了一个不去考清华的理由",
+      "onboard_time": 1724676740,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150477,
       "num": 162657,
       "word": "TF三代今天成团",
@@ -2195,12 +2259,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145972,
+      "num": 145972,
+      "word": "蒋奇明 上桌",
+      "onboard_time": 1724676740,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145746,
       "num": 145746,
       "word": "日本上班族连拉面都快吃不起了",
       "onboard_time": 1724670321,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 145618,
+      "num": 145618,
+      "word": "黑神话悟空",
+      "onboard_time": 1724676260,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 145234,
@@ -2233,6 +2313,14 @@
       "onboard_time": 1724635580,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 142548,
+      "num": 142548,
+      "word": "外国人应该看不懂金池长老背景",
+      "onboard_time": 1724676801,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 141919,
@@ -2363,15 +2451,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117949,
-      "num": 117949,
-      "word": "沙地塌陷埋压2孩童众人刨沙施救",
-      "onboard_time": 1724599041,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117890,
+      "raw_hot": 121762,
       "num": 516350,
       "word": "烟台海肠捞饭门前有多火",
       "onboard_time": 1724672181,
@@ -2379,11 +2459,11 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 116669,
-      "num": 531688,
-      "word": "上海电信道歉",
-      "onboard_time": 1724674702,
-      "rank": 9,
+      "raw_hot": 117949,
+      "num": 117949,
+      "word": "沙地塌陷埋压2孩童众人刨沙施救",
+      "onboard_time": 1724599041,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2435,6 +2515,14 @@
       "category": "社会新闻,电影"
     },
     {
+      "raw_hot": 86997,
+      "num": 487239,
+      "word": "吉祥航空通报儿童被关厕所教育",
+      "onboard_time": 1724676381,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77615,
       "num": 77615,
       "word": "小S女儿绘画作品参展",
@@ -2457,6 +2545,14 @@
       "onboard_time": 1724628437,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75379,
+      "num": 438328,
+      "word": "现在的烟台像春运",
+      "onboard_time": 1724673620,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 75031,
@@ -2513,14 +2609,6 @@
       "onboard_time": 1724646263,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67589,
-      "num": 438328,
-      "word": "现在的烟台像春运",
-      "onboard_time": 1724673620,
-      "rank": 14,
-      "category": "旅游"
     },
     {
       "raw_hot": 66988,
@@ -2656,6 +2744,14 @@
       "word": "女子称整形后眼睛不能完全闭合",
       "onboard_time": 1724648363,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51872,
+      "num": 841045,
+      "word": "三代列车同框见证中国速度",
+      "onboard_time": 1724675961,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2811,20 +2907,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38610,
+      "num": 288808,
+      "word": "何小鹏在北京陪MONA用户试驾",
+      "onboard_time": 1724672420,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 36971,
       "num": 421783,
       "word": "黎真主党领导人视频讲话",
       "onboard_time": 1724640019,
       "rank": 14,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 36341,
-      "num": 288808,
-      "word": "何小鹏在北京陪MONA用户试驾",
-      "onboard_time": 1724672420,
-      "rank": 26,
-      "category": "汽车"
     },
     {
       "raw_hot": 35461,

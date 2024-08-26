@@ -1,0 +1,410 @@
+{
+  "runTime": 1724676914801,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1552212,
+        "num": 1552212,
+        "word": "警方称两女子哄小孩经家长同意",
+        "onboard_time": 1724672120,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1219223,
+        "num": 1219223,
+        "word": "乳腺和甲状腺结节真是气出来的吗",
+        "onboard_time": 1724669660,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 51872,
+        "num": 841045,
+        "word": "三代列车同框见证中国速度",
+        "onboard_time": 1724675961,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 806981,
+        "num": 806981,
+        "word": "出道战唱狂妄",
+        "onboard_time": 1724675181,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 709361,
+        "num": 709361,
+        "word": "乌克兰15个州遭俄军大规模袭击",
+        "onboard_time": 1724669420,
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 664720,
+        "num": 664720,
+        "word": "警方回应小孩被陌生女子关厕所教育",
+        "onboard_time": 1724666301,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573954,
+        "num": 573954,
+        "word": "登陆计划",
+        "onboard_time": 1724670080,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 493026,
+        "num": 493026,
+        "word": "大熊猫戴立去世",
+        "onboard_time": 1724667080,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86997,
+        "num": 487239,
+        "word": "吉祥航空通报儿童被关厕所教育",
+        "onboard_time": 1724676381,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481823,
+        "num": 481823,
+        "word": "余宇涵哭了",
+        "onboard_time": 1724676321,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1037765,
+        "num": 471442,
+        "word": "陈奕迅女儿恋情曝光",
+        "onboard_time": 1724667980,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293640,
+        "num": 463222,
+        "word": "吉祥航空回应两女子把孩子关厕所教育",
+        "onboard_time": 1724664441,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121762,
+        "num": 454664,
+        "word": "烟台海肠捞饭门前有多火",
+        "onboard_time": 1724672181,
+        "rank": 12,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 978316,
+        "num": 435744,
+        "word": "三甲医院医生非法代孕被发现直呼完了",
+        "onboard_time": 1724665102,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75379,
+        "num": 423585,
+        "word": "现在的烟台像春运",
+        "onboard_time": 1724673620,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 521481,
+        "num": 416774,
+        "word": "年轻女孩消耗身体赚钱卖卵十几次",
+        "onboard_time": 1724656341,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405726,
+        "num": 405726,
+        "word": "上海电信回应",
+        "onboard_time": 1724666780,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313035,
+        "num": 402713,
+        "word": "东方风云榜",
+        "onboard_time": 1724671522,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283291,
+        "num": 399098,
+        "word": "张子墨主持",
+        "onboard_time": 1724675602,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210796,
+        "num": 397222,
+        "word": "费翔回应大熊猫戴立离世",
+        "onboard_time": 1724669001,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 920872,
+        "num": 394471,
+        "word": "黄子韬求婚徐艺洋",
+        "onboard_time": 1724645721,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 843407,
+        "num": 391524,
+        "word": "隔日断食15天瘦了18斤",
+        "onboard_time": 1724667680,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 484950,
+        "num": 388445,
+        "word": "女子试用期刚过宣布怀孕被解聘",
+        "onboard_time": 1724675360,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437007,
+        "num": 385159,
+        "word": "樊振东 不上班是最好的医美",
+        "onboard_time": 1724662221,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 382273,
+        "num": 382273,
+        "word": "潘展乐徐嘉余故意没跑过小孩",
+        "onboard_time": 1724675121,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 354827,
+        "num": 354827,
+        "word": "马龙空降超话",
+        "onboard_time": 1724676075,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339957,
+        "num": 339957,
+        "word": "俄打击乌军工综合体和关键能源设施",
+        "onboard_time": 1724664081,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 310023,
+        "num": 310023,
+        "word": "13岁男孩血尿医生取出20多颗磁力珠",
+        "onboard_time": 1724658742,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267387,
+        "num": 267387,
+        "word": "恋与深空",
+        "onboard_time": 1724669541,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222034,
+        "num": 222034,
+        "word": "姥姥什么都知道 姥姥什么都不说",
+        "onboard_time": 1724675781,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 243371,
+        "num": 221312,
+        "word": "白羊座把占有欲藏起来了",
+        "onboard_time": 1724675840,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218003,
+        "num": 218003,
+        "word": "十年前的大学生是什么样的",
+        "onboard_time": 1724675181,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216029,
+        "num": 216029,
+        "word": "一天花掉一万五中产家长的迪士尼苦旅",
+        "onboard_time": 1724649803,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214070,
+        "num": 214070,
+        "word": "医院默许代孕女子冒用身份住院生产",
+        "onboard_time": 1724675662,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176871,
+        "num": 210202,
+        "word": "赵露思修剪发际线vlog",
+        "onboard_time": 1724671942,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165590,
+        "num": 210074,
+        "word": "王源北京预售",
+        "onboard_time": 1724675602,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38610,
+        "num": 210043,
+        "word": "何小鹏在北京陪MONA用户试驾",
+        "onboard_time": 1724672420,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 210039,
+        "num": 210039,
+        "word": "极禹",
+        "onboard_time": 1724676441,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204744,
+        "num": 204744,
+        "word": "fate吧批评黑神话悟空不尊重原著",
+        "onboard_time": 1724670021,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195491,
+        "num": 195491,
+        "word": "上海电信道歉",
+        "onboard_time": 1724674702,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175858,
+        "num": 175858,
+        "word": "上班不内耗不生气就不会刺激结节",
+        "onboard_time": 1724675181,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 174079,
+        "num": 174079,
+        "word": "运20歼10将飞越埃及金字塔",
+        "onboard_time": 1724672300,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159409,
+        "num": 159409,
+        "word": "男子厨房宰杀澳龙却被澳龙反绞",
+        "onboard_time": 1724668881,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151656,
+        "num": 151656,
+        "word": "陈天润手受伤",
+        "onboard_time": 1724676681,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150929,
+        "num": 150929,
+        "word": "山东一女生军训时死亡疑中暑导致",
+        "onboard_time": 1724665520,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150668,
+        "num": 150668,
+        "word": "又多了一个不去考清华的理由",
+        "onboard_time": 1724676740,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148455,
+        "num": 148455,
+        "word": "这下确认潘展乐是i人了",
+        "onboard_time": 1724665220,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145972,
+        "num": 145972,
+        "word": "蒋奇明 上桌",
+        "onboard_time": 1724676740,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145618,
+        "num": 145618,
+        "word": "黑神话悟空",
+        "onboard_time": 1724676260,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142548,
+        "num": 142548,
+        "word": "外国人应该看不懂金池长老背景",
+        "onboard_time": 1724676801,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视统一战线工作#"
+    }
+  }
+}
