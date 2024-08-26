@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724678770858,
+  "endTime": 1724679449828,
   "band_list": [
     {
       "raw_hot": 14208627,
@@ -171,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1984391,
+      "num": 1753834,
+      "word": "女子试用期刚过宣布怀孕被解聘",
+      "onboard_time": 1724675360,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1843143,
       "num": 618330,
       "word": "黄子韬少看点番茄小说吧",
@@ -201,14 +209,6 @@
       "onboard_time": 1724550619,
       "rank": 22,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1753834,
-      "num": 1753834,
-      "word": "女子试用期刚过宣布怀孕被解聘",
-      "onboard_time": 1724675360,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1750153,
@@ -667,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 984153,
+      "num": 984153,
+      "word": "谁教黄子韬求婚亲嘴插兜的",
+      "onboard_time": 1724670261,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 982501,
       "num": 982501,
       "word": "张峻豪舞台鞠躬道歉",
@@ -809,14 +817,6 @@
       "onboard_time": 1724583501,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 871655,
-      "num": 871655,
-      "word": "谁教黄子韬求婚亲嘴插兜的",
-      "onboard_time": 1724670261,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 863734,
@@ -1195,6 +1195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 624084,
+      "num": 624084,
+      "word": "蒋奇明 上桌",
+      "onboard_time": 1724676740,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 614744,
       "num": 614744,
       "word": "黑神话悟空杨戬演员回应撞脸张翰",
@@ -1305,14 +1313,6 @@
       "onboard_time": 1724603418,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 567294,
-      "num": 567294,
-      "word": "蒋奇明 上桌",
-      "onboard_time": 1724676740,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 563578,
@@ -1851,6 +1851,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 387194,
+      "num": 387194,
+      "word": "苏新皓舞蹈solo破碎感",
+      "onboard_time": 1724678062,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 381960,
       "num": 381960,
       "word": "袁启聪直播",
@@ -1921,6 +1929,14 @@
       "onboard_time": 1724640199,
       "rank": 34,
       "category": "网红"
+    },
+    {
+      "raw_hot": 353989,
+      "num": 353989,
+      "word": "十年前的大学生是什么样的",
+      "onboard_time": 1724675181,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 353563,
@@ -2073,14 +2089,6 @@
       "onboard_time": 1724560639,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 319244,
-      "num": 319244,
-      "word": "十年前的大学生是什么样的",
-      "onboard_time": 1724675181,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 319037,
@@ -2251,6 +2259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295648,
+      "num": 295648,
+      "word": "2女子把孩子关厕所教育起因经过",
+      "onboard_time": 1724678662,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293476,
       "num": 812350,
       "word": "以军战机空袭黎巴嫩",
@@ -2265,6 +2281,14 @@
       "onboard_time": 1724568379,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291811,
+      "num": 570225,
+      "word": "俄罗斯与乌克兰互相发动大规模空袭",
+      "onboard_time": 1724678241,
+      "rank": 38,
+      "category": "国外时政"
     },
     {
       "raw_hot": 290466,
@@ -2459,6 +2483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 263401,
+      "num": 295685,
+      "word": "若想念飞行",
+      "onboard_time": 1724678121,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262751,
       "num": 262751,
       "word": "这下确认潘展乐是i人了",
@@ -2473,6 +2505,14 @@
       "onboard_time": 1724653460,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262084,
+      "num": 262084,
+      "word": "师范生看到两眼一黑的程度",
+      "onboard_time": 1724678482,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 261556,
@@ -2497,6 +2537,14 @@
       "onboard_time": 1724668220,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 260443,
+      "num": 260443,
+      "word": "山东一中专生被曝军训中暑身亡",
+      "onboard_time": 1724678602,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260315,
@@ -2729,14 +2777,6 @@
       "onboard_time": 1724591183,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 240932,
-      "num": 267751,
-      "word": "苏新皓舞蹈solo破碎感",
-      "onboard_time": 1724678062,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 240395,
@@ -3163,14 +3203,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 214773,
-      "num": 214773,
-      "word": "若想念飞行",
-      "onboard_time": 1724678121,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 214011,
       "num": 214011,
       "word": "他都醋成这样了还嘴硬呢",
@@ -3315,6 +3347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209274,
+      "num": 567243,
+      "word": "女子吃冰箱剩西瓜引发脑脓肿",
+      "onboard_time": 1724677341,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209068,
       "num": 209068,
       "word": "中央气象台4预警连发",
@@ -3379,6 +3419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 206577,
+      "num": 206577,
+      "word": "支持教师积极管教学生",
+      "onboard_time": 1724678062,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206514,
       "num": 309923,
       "word": "王一博的三次乐华红毯",
@@ -3424,14 +3472,6 @@
       "word": "入职第一天就发现这个公司来对了",
       "onboard_time": 1724560459,
       "rank": 45,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 205066,
-      "num": 205066,
-      "word": "师范生看到两眼一黑的程度",
-      "onboard_time": 1724678482,
-      "rank": 37,
       "category": "幽默"
     },
     {
@@ -3585,14 +3625,6 @@
       "onboard_time": 1724600121,
       "rank": 48,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 199176,
-      "num": 199176,
-      "word": "俄罗斯与乌克兰互相发动大规模空袭",
-      "onboard_time": 1724678241,
-      "rank": 38,
-      "category": "国外时政"
     },
     {
       "raw_hot": 199084,
@@ -3779,6 +3811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191873,
+      "num": 191873,
+      "word": "头鱼直播",
+      "onboard_time": 1724678001,
+      "rank": 42,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 190857,
       "num": 190857,
       "word": "头鱼 困长",
@@ -3841,14 +3881,6 @@
       "onboard_time": 1724644820,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 188174,
-      "num": 188174,
-      "word": "山东一中专生被曝军训中暑身亡",
-      "onboard_time": 1724678602,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188059,
@@ -4001,14 +4033,6 @@
       "onboard_time": 1724579301,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 183421,
-      "num": 183421,
-      "word": "头鱼直播",
-      "onboard_time": 1724678001,
-      "rank": 42,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 183308,
@@ -4249,14 +4273,6 @@
       "onboard_time": 1724570298,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 174996,
-      "num": 174996,
-      "word": "2女子把孩子关厕所教育起因经过",
-      "onboard_time": 1724678662,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174958,
@@ -4811,6 +4827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152744,
+      "num": 150401,
+      "word": "东方风云榜节目单",
+      "onboard_time": 1724679382,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152163,
       "num": 152163,
       "word": "原来这是焦虑我以为是我太馋了",
@@ -5243,14 +5267,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 126416,
-      "num": 567243,
-      "word": "女子吃冰箱剩西瓜引发脑脓肿",
-      "onboard_time": 1724677341,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125952,
       "num": 125952,
       "word": "薛飞王晓彤混双亚军",
@@ -5379,7 +5395,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 108329,
+      "raw_hot": 109076,
       "num": 563275,
       "word": "烟台海肠捞饭",
       "onboard_time": 1724677221,
@@ -5505,6 +5521,14 @@
       "onboard_time": 1724673620,
       "rank": 14,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 75081,
+      "num": 1263533,
+      "word": "雨天出门千万要注意的小事",
+      "onboard_time": 1724677582,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74015,
@@ -5648,14 +5672,6 @@
       "word": "普通人在西安参观兵马俑也能租轮椅",
       "onboard_time": 1724673921,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63974,
-      "num": 1263533,
-      "word": "雨天出门千万要注意的小事",
-      "onboard_time": 1724677582,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -6232,6 +6248,14 @@
       "word": "2024开始启动渐变色模式",
       "onboard_time": 1724641579,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27336,
+      "num": 354517,
+      "word": "居民医保个人缴费标准增20元",
+      "onboard_time": 1724679022,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
