@@ -1,6 +1,6 @@
 {
   "startTime": 1724689640506,
-  "endTime": 1724696849087,
+  "endTime": 1724697615713,
   "band_list": [
     {
       "raw_hot": 4028084,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 211474,
-      "num": 187871,
+      "num": 198482,
       "word": "黄朔紫发",
       "onboard_time": 1724693358,
       "rank": 22,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127844,
+      "num": 127844,
+      "word": "Steam一夜遭28万次攻击",
+      "onboard_time": 1724694736,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 124284,
       "num": 258125,
       "word": "山东一中专生被曝军训中暑身亡",
@@ -473,14 +481,6 @@
       "onboard_time": 1724687004,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 119738,
-      "num": 119738,
-      "word": "Steam一夜遭28万次攻击",
-      "onboard_time": 1724694736,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 113665,
@@ -544,6 +544,22 @@
       "word": "苏新皓舞蹈solo破碎感",
       "onboard_time": 1724678062,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 48453,
+      "num": 71084,
+      "word": "TF三代登陆时刻演唱会转换时间",
+      "onboard_time": 1724697253,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 46709,
+      "num": 70980,
+      "word": "超新星运动会",
+      "onboard_time": 1724697314,
+      "rank": 46,
       "category": "综艺"
     },
     {

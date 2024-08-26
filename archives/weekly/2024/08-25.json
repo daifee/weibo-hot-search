@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724696849087,
+  "endTime": 1724697615713,
   "band_list": [
     {
       "raw_hot": 14208627,
@@ -3636,7 +3636,7 @@
     },
     {
       "raw_hot": 211474,
-      "num": 187871,
+      "num": 198482,
       "word": "黄朔紫发",
       "onboard_time": 1724693358,
       "rank": 22,
@@ -5651,6 +5651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127844,
+      "num": 127844,
+      "word": "Steam一夜遭28万次攻击",
+      "onboard_time": 1724694736,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 127629,
       "num": 127629,
       "word": "张镇麟发博",
@@ -5737,14 +5745,6 @@
       "onboard_time": 1724681122,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 119738,
-      "num": 119738,
-      "word": "Steam一夜遭28万次攻击",
-      "onboard_time": 1724694736,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 119245,
@@ -6387,6 +6387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48453,
+      "num": 71084,
+      "word": "TF三代登陆时刻演唱会转换时间",
+      "onboard_time": 1724697253,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 48021,
       "num": 84403,
       "word": "坐高铁1个多小时穿越中国南北",
@@ -6433,6 +6441,14 @@
       "onboard_time": 1724604796,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46709,
+      "num": 70980,
+      "word": "超新星运动会",
+      "onboard_time": 1724697314,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 45711,

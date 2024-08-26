@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1724696849087,
+  "endTime": 1724697615713,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -51116,7 +51116,7 @@
     },
     {
       "raw_hot": 211474,
-      "num": 187871,
+      "num": 198482,
       "word": "黄朔紫发",
       "onboard_time": 1724693358,
       "rank": 22,
@@ -68019,6 +68019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127844,
+      "num": 127844,
+      "word": "Steam一夜遭28万次攻击",
+      "onboard_time": 1724694736,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 127714,
       "num": 127714,
       "word": "张雨霏奥运奖牌超过孙杨",
@@ -68649,14 +68657,6 @@
       "onboard_time": 1724081541,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 119738,
-      "num": 119738,
-      "word": "Steam一夜遭28万次攻击",
-      "onboard_time": 1724694736,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 119629,
@@ -75683,6 +75683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48453,
+      "num": 71084,
+      "word": "TF三代登陆时刻演唱会转换时间",
+      "onboard_time": 1724697253,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 48450,
       "num": 3603299,
       "word": "中国健儿获奖高光时刻",
@@ -75977,6 +75985,14 @@
       "onboard_time": 1722813561,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 46709,
+      "num": 70980,
+      "word": "超新星运动会",
+      "onboard_time": 1724697314,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 46646,
