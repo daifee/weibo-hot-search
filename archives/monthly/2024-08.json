@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1724672148630,
+  "endTime": 1724675941356,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -12971,6 +12971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1070550,
+      "num": 1070550,
+      "word": "警方称两女子哄小孩经家长同意",
+      "onboard_time": 1724672120,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1070261,
       "num": 1070261,
       "word": "黑神话悟空杨戬演员回应撞脸张翰",
@@ -18331,6 +18339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 741681,
+      "num": 741681,
+      "word": "乌克兰15个州遭俄军大规模袭击",
+      "onboard_time": 1724669420,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 741204,
       "num": 1124798,
       "word": "文旅局回应女子在景区被闺蜜按在水里",
@@ -20403,19 +20419,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 651100,
+      "num": 755978,
+      "word": "登陆计划",
+      "onboard_time": 1723274300,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 650598,
       "num": 932593,
       "word": "海清七岁熬夜八岁喝咖啡",
       "onboard_time": 1723427360,
       "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 650436,
-      "num": 755978,
-      "word": "登陆计划",
-      "onboard_time": 1723274300,
-      "rank": 29,
       "category": "综艺"
     },
     {
@@ -22547,6 +22563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 582164,
+      "num": 582164,
+      "word": "谁教黄子韬求婚亲嘴插兜的",
+      "onboard_time": 1724670261,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 582156,
       "num": 582156,
       "word": "时代峰峻发声明",
@@ -22833,6 +22857,14 @@
       "onboard_time": 1723713861,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 571179,
+      "num": 571179,
+      "word": "出道战唱狂妄",
+      "onboard_time": 1724675181,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 569045,
@@ -33235,6 +33267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 346998,
+      "num": 409305,
+      "word": "东方风云榜",
+      "onboard_time": 1724671522,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 346864,
       "num": 346864,
       "word": "资深骑手谈男童骑行摔倒遭碾压",
@@ -35876,7 +35916,7 @@
     },
     {
       "raw_hot": 314879,
-      "num": 314879,
+      "num": 404011,
       "word": "费翔回应大熊猫戴立离世",
       "onboard_time": 1724669001,
       "rank": 30,
@@ -40803,14 +40843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 272645,
-      "num": 640069,
-      "word": "乌克兰15个州遭俄军大规模袭击",
-      "onboard_time": 1724669420,
-      "rank": 34,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 272623,
       "num": 272623,
       "word": "小莫要求国王更改航班看自己决赛",
@@ -41321,14 +41353,6 @@
       "onboard_time": 1724519418,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268524,
-      "num": 268524,
-      "word": "东方风云榜",
-      "onboard_time": 1724671522,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 268514,
@@ -46771,6 +46795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 230802,
+      "num": 230802,
+      "word": "白羊座把占有欲藏起来了",
+      "onboard_time": 1724675840,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 230775,
       "num": 230775,
       "word": "村干部回应谢瑜家夺金后一夜翻新",
@@ -47048,6 +47080,14 @@
       "word": "爸爸喊王楚钦回家吃锅包肉",
       "onboard_time": 1723538781,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 229263,
+      "num": 229263,
+      "word": "潘展乐徐嘉余故意没跑过小孩",
+      "onboard_time": 1724675121,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -51731,6 +51771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 206582,
+      "num": 206582,
+      "word": "女子试用期刚过宣布怀孕被解聘",
+      "onboard_time": 1724675360,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206556,
       "num": 206556,
       "word": "aespa东京巨蛋演唱会",
@@ -54339,6 +54387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198374,
+      "num": 198374,
+      "word": "上班不内耗不生气就不会刺激结节",
+      "onboard_time": 1724675181,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 198353,
       "num": 198353,
       "word": "杨洋开机应援",
@@ -55265,6 +55321,14 @@
       "onboard_time": 1723885882,
       "rank": 28,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 195023,
+      "num": 251973,
+      "word": "赵露思修剪发际线vlog",
+      "onboard_time": 1724671942,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 195020,
@@ -57267,6 +57331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187851,
+      "num": 251565,
+      "word": "长乐曲",
+      "onboard_time": 1724330901,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187810,
       "num": 216267,
       "word": "冯彬带伤夺银",
@@ -57921,6 +57993,14 @@
       "onboard_time": 1724317580,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 185014,
+      "num": 185014,
+      "word": "张子墨主持",
+      "onboard_time": 1724675602,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 184993,
@@ -59467,6 +59547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178470,
+      "num": 178470,
+      "word": "运20歼10将飞越埃及金字塔",
+      "onboard_time": 1724672300,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 178412,
       "num": 751855,
       "word": "汝州通报疾控中心工作人员遭清退",
@@ -60547,6 +60635,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 173223,
+      "num": 173223,
+      "word": "十年前的大学生是什么样的",
+      "onboard_time": 1724675181,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 173184,
       "num": 173184,
       "word": "阳了的人又多了张文宏发声",
@@ -61531,6 +61627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168318,
+      "num": 168318,
+      "word": "张泽禹wewillrockyou好燃",
+      "onboard_time": 1724675121,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 168278,
       "num": 198764,
       "word": "北京暴雨交通已严重拥堵",
@@ -61697,14 +61801,6 @@
       "onboard_time": 1723000103,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167358,
-      "num": 167358,
-      "word": "长乐曲",
-      "onboard_time": 1724330901,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 167292,
@@ -62665,6 +62761,14 @@
       "onboard_time": 1723967660,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 161320,
+      "num": 161320,
+      "word": "王源北京预售",
+      "onboard_time": 1724675602,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 161298,
@@ -64323,6 +64427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 151975,
+      "num": 151975,
+      "word": "原神希诺宁",
+      "onboard_time": 1724674400,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 151968,
       "num": 151968,
       "word": "贵州中元节",
@@ -64801,14 +64913,6 @@
       "onboard_time": 1724490679,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 148841,
-      "num": 148841,
-      "word": "赵露思修剪发际线vlog",
-      "onboard_time": 1724671942,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 148808,
@@ -65383,6 +65487,14 @@
       "num": 153439,
       "word": "檀健次从i到e",
       "onboard_time": 1724033119,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 145234,
+      "num": 145234,
+      "word": "朱志鑫扭到我心里了",
+      "onboard_time": 1724675420,
       "rank": 49,
       "category": "综艺"
     },
@@ -68067,6 +68179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117890,
+      "num": 516350,
+      "word": "烟台海肠捞饭门前有多火",
+      "onboard_time": 1724672181,
+      "rank": 11,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 117782,
       "num": 117782,
       "word": "中国队第19金",
@@ -68121,6 +68241,14 @@
       "onboard_time": 1723887741,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 116669,
+      "num": 531688,
+      "word": "上海电信道歉",
+      "onboard_time": 1724674702,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116535,
@@ -71907,6 +72035,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 69751,
+      "num": 400484,
+      "word": "1900元的黄金吊坠戴到家就断裂",
+      "onboard_time": 1724674641,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69720,
       "num": 97394,
       "word": "得得 十天之后回到现实",
@@ -72113,6 +72249,14 @@
       "onboard_time": 1724076262,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67589,
+      "num": 438328,
+      "word": "现在的烟台像春运",
+      "onboard_time": 1724673620,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 67489,
@@ -72593,6 +72737,14 @@
       "onboard_time": 1723669930,
       "rank": 47,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 64041,
+      "num": 190179,
+      "word": "普通人在西安参观兵马俑也能租轮椅",
+      "onboard_time": 1724673921,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63870,
@@ -76667,6 +76819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36341,
+      "num": 288808,
+      "word": "何小鹏在北京陪MONA用户试驾",
+      "onboard_time": 1724672420,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 36200,
       "num": 445462,
       "word": "奥运热潮下100多元泳衣卖断货",
@@ -78928,14 +79088,6 @@
       "word": "第一视角夜探亚马孙雨林",
       "onboard_time": 1724181072,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17513,
-      "num": 644192,
-      "word": "警方称两女子哄小孩经家长同意",
-      "onboard_time": 1724672120,
-      "rank": 7,
       "category": "社会新闻"
     },
     {

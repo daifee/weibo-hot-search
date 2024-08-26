@@ -1,6 +1,6 @@
 {
   "startTime": 1724603016158,
-  "endTime": 1724672148630,
+  "endTime": 1724675941356,
   "band_list": [
     {
       "raw_hot": 9998740,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1070550,
+      "num": 1070550,
+      "word": "警方称两女子哄小孩经家长同意",
+      "onboard_time": 1724672120,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1021221,
       "num": 1021221,
       "word": "藏海花开播",
@@ -411,6 +419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 741681,
+      "num": 741681,
+      "word": "乌克兰15个州遭俄军大规模袭击",
+      "onboard_time": 1724669420,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 741366,
       "num": 465760,
       "word": "张颖颖曝张兰带球上位",
@@ -483,8 +499,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 650436,
-      "num": 650436,
+      "raw_hot": 651100,
+      "num": 651100,
       "word": "登陆计划",
       "onboard_time": 1724670080,
       "rank": 13,
@@ -563,12 +579,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 582164,
+      "num": 582164,
+      "word": "谁教黄子韬求婚亲嘴插兜的",
+      "onboard_time": 1724670261,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 572273,
       "num": 572273,
       "word": "杭州多起半夜骑行党相撞事故",
       "onboard_time": 1724603418,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 571179,
+      "num": 571179,
+      "word": "出道战唱狂妄",
+      "onboard_time": 1724675181,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 563578,
@@ -875,6 +907,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 346998,
+      "num": 409305,
+      "word": "东方风云榜",
+      "onboard_time": 1724671522,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 345310,
       "num": 351922,
       "word": "美国宇航员将乘龙飞船返回地球",
@@ -948,7 +988,7 @@
     },
     {
       "raw_hot": 314879,
-      "num": 314879,
+      "num": 404011,
       "word": "费翔回应大熊猫戴立离世",
       "onboard_time": 1724669001,
       "rank": 30,
@@ -1083,14 +1123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 272645,
-      "num": 640069,
-      "word": "乌克兰15个州遭俄军大规模袭击",
-      "onboard_time": 1724669420,
-      "rank": 34,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 272529,
       "num": 508850,
       "word": "男子仅退款被拒后起诉网店被驳回",
@@ -1105,14 +1137,6 @@
       "onboard_time": 1724666720,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 268524,
-      "num": 268524,
-      "word": "东方风云榜",
-      "onboard_time": 1724671522,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 264775,
@@ -1281,6 +1305,22 @@
       "onboard_time": 1724649803,
       "rank": 41,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 230802,
+      "num": 230802,
+      "word": "白羊座把占有欲藏起来了",
+      "onboard_time": 1724675840,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 229263,
+      "num": 229263,
+      "word": "潘展乐徐嘉余故意没跑过小孩",
+      "onboard_time": 1724675121,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 227575,
@@ -1459,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206582,
+      "num": 206582,
+      "word": "女子试用期刚过宣布怀孕被解聘",
+      "onboard_time": 1724675360,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206202,
       "num": 206202,
       "word": "第一次见男女主都是小苦瓜的",
@@ -1539,6 +1587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198374,
+      "num": 198374,
+      "word": "上班不内耗不生气就不会刺激结节",
+      "onboard_time": 1724675181,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 197404,
       "num": 197404,
       "word": "在泰国遭辱骂女子透露事件最新进展",
@@ -1571,6 +1627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195023,
+      "num": 251973,
+      "word": "赵露思修剪发际线vlog",
+      "onboard_time": 1724671942,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190857,
       "num": 190857,
       "word": "头鱼 困长",
@@ -1601,6 +1665,14 @@
       "onboard_time": 1724642541,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187851,
+      "num": 251565,
+      "word": "长乐曲",
+      "onboard_time": 1724674761,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 186554,
@@ -1649,6 +1721,14 @@
       "onboard_time": 1724659343,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185014,
+      "num": 185014,
+      "word": "张子墨主持",
+      "onboard_time": 1724675602,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 184592,
@@ -1747,6 +1827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178470,
+      "num": 178470,
+      "word": "运20歼10将飞越埃及金字塔",
+      "onboard_time": 1724672300,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 177276,
       "num": 177276,
       "word": "巴黎残奥会开幕式",
@@ -1811,6 +1899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173223,
+      "num": 173223,
+      "word": "十年前的大学生是什么样的",
+      "onboard_time": 1724675181,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172478,
       "num": 296080,
       "word": "薛之谦别休息了先把新歌发了",
@@ -1867,6 +1963,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 168318,
+      "num": 168318,
+      "word": "张泽禹wewillrockyou好燃",
+      "onboard_time": 1724675121,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 164422,
       "num": 164422,
       "word": "我的邻居是掌管减肥的神",
@@ -1905,6 +2009,14 @@
       "onboard_time": 1724638819,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161320,
+      "num": 161320,
+      "word": "王源北京预售",
+      "onboard_time": 1724675602,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 160870,
@@ -2035,6 +2147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151975,
+      "num": 151975,
+      "word": "原神希诺宁",
+      "onboard_time": 1724674400,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150477,
       "num": 162657,
       "word": "TF三代今天成团",
@@ -2048,14 +2168,6 @@
       "word": "罗拉带王能能回老家",
       "onboard_time": 1724584460,
       "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 148841,
-      "num": 148841,
-      "word": "赵露思修剪发际线vlog",
-      "onboard_time": 1724671942,
-      "rank": 45,
       "category": "艺人"
     },
     {
@@ -2089,6 +2201,14 @@
       "onboard_time": 1724670321,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 145234,
+      "num": 145234,
+      "word": "朱志鑫扭到我心里了",
+      "onboard_time": 1724675420,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 143679,
@@ -2251,6 +2371,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117890,
+      "num": 516350,
+      "word": "烟台海肠捞饭门前有多火",
+      "onboard_time": 1724672181,
+      "rank": 11,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 116669,
+      "num": 531688,
+      "word": "上海电信道歉",
+      "onboard_time": 1724674702,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110000,
       "num": 110000,
       "word": "边水往事",
@@ -2355,6 +2491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69751,
+      "num": 400484,
+      "word": "1900元的黄金吊坠戴到家就断裂",
+      "onboard_time": 1724674641,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69472,
       "num": 1426822,
       "word": "八桂大地展新颜",
@@ -2369,6 +2513,14 @@
       "onboard_time": 1724646263,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67589,
+      "num": 438328,
+      "word": "现在的烟台像春运",
+      "onboard_time": 1724673620,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 66988,
@@ -2400,6 +2552,14 @@
       "word": "直击辽宁葫芦岛抢险救援",
       "onboard_time": 1724640678,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64041,
+      "num": 190179,
+      "word": "普通人在西安参观兵马俑也能租轮椅",
+      "onboard_time": 1724673921,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -2659,6 +2819,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 36341,
+      "num": 288808,
+      "word": "何小鹏在北京陪MONA用户试驾",
+      "onboard_time": 1724672420,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 35461,
       "num": 736934,
       "word": "有一种海边人生是青岛啤酒相伴",
@@ -2792,14 +2960,6 @@
       "word": "也门一学校发生战争遗留物爆炸事件",
       "onboard_time": 1724636419,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17513,
-      "num": 644192,
-      "word": "警方称两女子哄小孩经家长同意",
-      "onboard_time": 1724672120,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
