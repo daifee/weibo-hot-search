@@ -1,0 +1,410 @@
+{
+  "runTime": 1724647210024,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9399409,
+        "num": 9399409,
+        "word": "黄子韬求婚徐艺洋",
+        "onboard_time": 1724645721,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1455630,
+        "num": 1455630,
+        "word": "莫迪首次回应女实习医生遭奸杀案",
+        "onboard_time": 1724640980,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 33561,
+        "num": 1426822,
+        "word": "八桂大地展新颜",
+        "onboard_time": 1724641820,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1424676,
+        "num": 1424676,
+        "word": "我敢娶你 你敢答应我吗",
+        "onboard_time": 1724646263,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 854232,
+        "num": 854232,
+        "word": "双胞胎一个S码一个XXXL码",
+        "onboard_time": 1724642900,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 809151,
+        "num": 809151,
+        "word": "网贷60万做榜1大哥后送外卖还债",
+        "onboard_time": 1724640800,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1154490,
+        "num": 782949,
+        "word": "马雪阳求婚谭咏雯",
+        "onboard_time": 1724644820,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 999273,
+        "num": 778090,
+        "word": "黄子韬求婚哭了",
+        "onboard_time": 1724646984,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123974,
+        "num": 741278,
+        "word": "男子杀害2人逃亡32年后自缢身亡",
+        "onboard_time": 1724647044,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723825,
+        "num": 723825,
+        "word": "罗永浩真还传一共还了8.24亿",
+        "onboard_time": 1724644040,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1139549,
+        "num": 720002,
+        "word": "张豆豆牵走哭泣的孙杨",
+        "onboard_time": 1724644159,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 762791,
+        "num": 718107,
+        "word": "孙杨成绩距本人奥运纪录差了近10秒",
+        "onboard_time": 1724631079,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 702645,
+        "num": 702645,
+        "word": "国漫对韩漫贴脸开大",
+        "onboard_time": 1724640199,
+        "rank": 12,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 613267,
+        "num": 613267,
+        "word": "藏海花开播",
+        "onboard_time": 1724640019,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61622,
+        "num": 610542,
+        "word": "我们的榴莲自由是怎么来的",
+        "onboard_time": 1724645721,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92406,
+        "num": 604977,
+        "word": "北京全市已达暴雨级别",
+        "onboard_time": 1724645361,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180562,
+        "num": 591783,
+        "word": "张真源好会饭撒",
+        "onboard_time": 1724646082,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 423807,
+        "num": 582992,
+        "word": "今年中秋放假3天需调休",
+        "onboard_time": 1724632701,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66988,
+        "num": 579889,
+        "word": "被暑期迪士尼收割的中产家长",
+        "onboard_time": 1724646263,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67788,
+        "num": 570524,
+        "word": "申请过劳动仲裁公司是怎么知道的",
+        "onboard_time": 1724646263,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50458,
+        "num": 561466,
+        "word": "律师就要坚持难而正确的事",
+        "onboard_time": 1724644101,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 740280,
+        "num": 552576,
+        "word": "难怪打工那么多年遇不到藏族人",
+        "onboard_time": 1724644221,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 547508,
+        "num": 547508,
+        "word": "赛前张豆豆给孙杨存了一句话",
+        "onboard_time": 1724645601,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 492279,
+        "num": 492279,
+        "word": "全红婵喝饮料网友告状陈若琳",
+        "onboard_time": 1724639299,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 455217,
+        "num": 455217,
+        "word": "赵丽颖剪短发plog",
+        "onboard_time": 1724641938,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423940,
+        "num": 423940,
+        "word": "2024年居民医保最新缴费标准",
+        "onboard_time": 1724644580,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403486,
+        "num": 403486,
+        "word": "黄子韬徐艺洋包场请大家看求婚",
+        "onboard_time": 1724646864,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354541,
+        "num": 354541,
+        "word": "黄景瑜 你粉蹭我衣服上了",
+        "onboard_time": 1724629938,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330956,
+        "num": 330956,
+        "word": "90后爸爸只吃黄瓜暴瘦30斤割肝救女",
+        "onboard_time": 1724644641,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324518,
+        "num": 324518,
+        "word": "爷爷卖南瓜饼1元1个被顾客劝涨价",
+        "onboard_time": 1724635701,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320575,
+        "num": 320575,
+        "word": "专家称鼓励生育问题还是得问年轻人",
+        "onboard_time": 1724646383,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317836,
+        "num": 317836,
+        "word": "只要北京人的血是热的这家店就不会凉",
+        "onboard_time": 1724612053,
+        "rank": 31,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 309882,
+        "num": 309882,
+        "word": "第九代张起灵来了",
+        "onboard_time": 1724645782,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284291,
+        "num": 284291,
+        "word": "剑网3刘宇坤双向奔赴",
+        "onboard_time": 1724646804,
+        "rank": 33,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 273271,
+        "num": 273271,
+        "word": "大学生人均一两百把宿舍改成家",
+        "onboard_time": 1724646263,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249603,
+        "num": 249603,
+        "word": "肖战花田骑车",
+        "onboard_time": 1724642659,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54967,
+        "num": 248805,
+        "word": "氢氧机生产厂商坦言氢医疗是噱头",
+        "onboard_time": 1724645180,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248149,
+        "num": 248149,
+        "word": "北京暴雨",
+        "onboard_time": 1724633541,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247645,
+        "num": 247645,
+        "word": "孙颖莎说奥运闭幕式的时候释怀了",
+        "onboard_time": 1724630417,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243274,
+        "num": 243274,
+        "word": "发现一个很微妙的感情定律",
+        "onboard_time": 1724646562,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242443,
+        "num": 242443,
+        "word": "房屋养老金要不要老百姓直接出钱",
+        "onboard_time": 1724638219,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229970,
+        "num": 229970,
+        "word": "男子仅退款被拒后起诉网店被驳回",
+        "onboard_time": 1724642600,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229737,
+        "num": 229737,
+        "word": "东北县城女孩卖鸵鸟年入百万",
+        "onboard_time": 1724637739,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11291,
+        "num": 219596,
+        "word": "有一种海边人生是青岛啤酒相伴",
+        "onboard_time": 1724641458,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 211598,
+        "num": 211598,
+        "word": "设立房屋养老金需找准利益平衡点",
+        "onboard_time": 1724635880,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204353,
+        "num": 204353,
+        "word": "张鲁一演吴邪",
+        "onboard_time": 1724647044,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203657,
+        "num": 203657,
+        "word": "天津暴雨",
+        "onboard_time": 1724631802,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200824,
+        "num": 200824,
+        "word": "长乐曲今日开播",
+        "onboard_time": 1724644101,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200083,
+        "num": 200083,
+        "word": "罗永浩发布真还传第二季",
+        "onboard_time": 1724646864,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 199084,
+        "num": 199084,
+        "word": "曾黎47岁正是迷死人的年纪",
+        "onboard_time": 1724646562,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习新语#"
+    }
+  }
+}

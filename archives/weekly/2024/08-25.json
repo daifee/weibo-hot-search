@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724646325910,
+  "endTime": 1724647210024,
   "band_list": [
     {
       "raw_hot": 14208627,
@@ -17,6 +17,14 @@
       "onboard_time": 1724580200,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9399409,
+      "num": 9399409,
+      "word": "黄子韬求婚徐艺洋",
+      "onboard_time": 1724645721,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 9253853,
@@ -49,14 +57,6 @@
       "onboard_time": 1724587700,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3531378,
-      "num": 3531378,
-      "word": "黄子韬求婚徐艺洋",
-      "onboard_time": 1724645721,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 3239838,
@@ -259,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1424676,
+      "num": 1424676,
+      "word": "我敢娶你 你敢答应我吗",
+      "onboard_time": 1724646263,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1421431,
       "num": 1421431,
       "word": "刘亦菲37岁庆生照",
@@ -363,6 +371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1139549,
+      "num": 731631,
+      "word": "张豆豆牵走哭泣的孙杨",
+      "onboard_time": 1724644159,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1135213,
       "num": 1135213,
       "word": "孙杨夺冠成绩在国际上还缺乏竞争力",
@@ -441,6 +457,14 @@
       "onboard_time": 1724588480,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 999273,
+      "num": 778090,
+      "word": "黄子韬求婚哭了",
+      "onboard_time": 1724646984,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 998750,
@@ -707,14 +731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 731631,
-      "num": 731631,
-      "word": "张豆豆牵走哭泣的孙杨",
-      "onboard_time": 1724644159,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 726162,
       "num": 726162,
       "word": "孙杨曾说希望和潘展乐一起游接力",
@@ -953,6 +969,14 @@
       "onboard_time": 1724570899,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 547508,
+      "num": 547508,
+      "word": "赛前张豆豆给孙杨存了一句话",
+      "onboard_time": 1724645601,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 547127,
@@ -1267,6 +1291,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 423940,
+      "num": 423940,
+      "word": "2024年居民医保最新缴费标准",
+      "onboard_time": 1724644580,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417549,
       "num": 417549,
       "word": "卢昱晓出妆前后生图",
@@ -1305,6 +1337,14 @@
       "onboard_time": 1724550978,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 403486,
+      "num": 403486,
+      "word": "黄子韬徐艺洋包场请大家看求婚",
+      "onboard_time": 1724646864,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 399016,
@@ -1499,11 +1539,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 329051,
-      "num": 329051,
-      "word": "2024年居民医保最新缴费标准",
-      "onboard_time": 1724644580,
-      "rank": 26,
+      "raw_hot": 330956,
+      "num": 330956,
+      "word": "90后爸爸只吃黄瓜暴瘦30斤割肝救女",
+      "onboard_time": 1724644641,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1529,6 +1569,14 @@
       "onboard_time": 1724560639,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320575,
+      "num": 320575,
+      "word": "专家称鼓励生育问题还是得问年轻人",
+      "onboard_time": 1724646383,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319037,
@@ -1569,6 +1617,14 @@
       "onboard_time": 1724576119,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 309882,
+      "num": 309882,
+      "word": "第九代张起灵来了",
+      "onboard_time": 1724645782,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 308297,
@@ -1723,12 +1779,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 279644,
-      "num": 279644,
-      "word": "我敢娶你 你敢答应我吗",
-      "onboard_time": 1724646263,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 284291,
+      "num": 284291,
+      "word": "剑网3刘宇坤双向奔赴",
+      "onboard_time": 1724646804,
+      "rank": 33,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 278775,
@@ -1737,6 +1793,14 @@
       "onboard_time": 1724578579,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 273271,
+      "num": 273271,
+      "word": "大学生人均一两百把宿舍改成家",
+      "onboard_time": 1724646263,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 272959,
@@ -1801,14 +1865,6 @@
       "onboard_time": 1724573178,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 263157,
-      "num": 263157,
-      "word": "90后爸爸只吃黄瓜暴瘦30斤割肝救女",
-      "onboard_time": 1724644641,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261556,
@@ -1995,6 +2051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 243274,
+      "num": 243274,
+      "word": "发现一个很微妙的感情定律",
+      "onboard_time": 1724646562,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 242473,
       "num": 242473,
       "word": "切尔西 抽象",
@@ -2040,14 +2104,6 @@
       "word": "徐海博",
       "onboard_time": 1724585001,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 237678,
-      "num": 237678,
-      "word": "赛前张豆豆给孙杨存了一句话",
-      "onboard_time": 1724645601,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -2531,6 +2587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204353,
+      "num": 204353,
+      "word": "张鲁一演吴邪",
+      "onboard_time": 1724647044,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203914,
       "num": 203914,
       "word": "许嵩演唱会抢票",
@@ -2611,14 +2675,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 200335,
-      "num": 200335,
-      "word": "第九代张起灵来了",
-      "onboard_time": 1724645782,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200116,
       "num": 200116,
       "word": "门腔 招不到人就招个实习生",
@@ -2627,12 +2683,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200083,
+      "num": 200083,
+      "word": "罗永浩发布真还传第二季",
+      "onboard_time": 1724646864,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 199177,
       "num": 199177,
       "word": "享界S9",
       "onboard_time": 1724600121,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 199084,
+      "num": 199084,
+      "word": "曾黎47岁正是迷死人的年纪",
+      "onboard_time": 1724646562,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 198928,
@@ -2827,14 +2899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185890,
-      "num": 185890,
-      "word": "大学生人均一两百把宿舍改成家",
-      "onboard_time": 1724646263,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 185611,
       "num": 293549,
       "word": "徐志胜 中国电影差点在我手里栽了",
@@ -2945,6 +3009,14 @@
       "onboard_time": 1724588603,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180562,
+      "num": 700749,
+      "word": "张真源好会饭撒",
+      "onboard_time": 1724646082,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 180559,
@@ -3579,14 +3651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147301,
-      "num": 700749,
-      "word": "张真源好会饭撒",
-      "onboard_time": 1724646082,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 147224,
       "num": 147224,
       "word": "代号鸢",
@@ -3875,6 +3939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123974,
+      "num": 741278,
+      "word": "男子杀害2人逃亡32年后自缢身亡",
+      "onboard_time": 1724647044,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122317,
       "num": 122317,
       "word": "花八千培训养老护理师求职时成废纸",
@@ -3987,6 +4059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92406,
+      "num": 817882,
+      "word": "北京全市已达暴雨级别",
+      "onboard_time": 1724645361,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92135,
       "num": 295779,
       "word": "儿科看病为什么这么难",
@@ -4092,10 +4172,26 @@
     },
     {
       "raw_hot": 69472,
-      "num": 1417429,
+      "num": 1426822,
       "word": "八桂大地展新颜",
       "onboard_time": 1724641820,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67788,
+      "num": 697353,
+      "word": "申请过劳动仲裁公司是怎么知道的",
+      "onboard_time": 1724646263,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66988,
+      "num": 697974,
+      "word": "被暑期迪士尼收割的中产家长",
+      "onboard_time": 1724646263,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -4187,6 +4283,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 61622,
+      "num": 703337,
+      "word": "我们的榴莲自由是怎么来的",
+      "onboard_time": 1724645721,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61588,
       "num": 534875,
       "word": "倪妮美出新高度",
@@ -4201,14 +4305,6 @@
       "onboard_time": 1724540774,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 60679,
-      "num": 817882,
-      "word": "北京全市已达暴雨级别",
-      "onboard_time": 1724645361,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59053,
@@ -4267,19 +4363,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 55222,
-      "num": 697974,
-      "word": "被暑期迪士尼收割的中产家长",
-      "onboard_time": 1724646263,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 54994,
       "num": 135024,
       "word": "帅小伙回农村帮外婆收稻谷好温馨",
       "onboard_time": 1724548339,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54967,
+      "num": 827075,
+      "word": "氢氧机生产厂商坦言氢医疗是噱头",
+      "onboard_time": 1724645180,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -4299,7 +4395,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49876,
+      "raw_hot": 50458,
       "num": 692977,
       "word": "律师就要坚持难而正确的事",
       "onboard_time": 1724644101,
@@ -4499,14 +4595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30000,
-      "num": 827075,
-      "word": "氢氧机生产厂商坦言氢医疗是噱头",
-      "onboard_time": 1724645180,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 29655,
       "num": 411983,
       "word": "揭秘王天一买棋卖棋背后原因",
@@ -4603,14 +4691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21691,
-      "num": 703337,
-      "word": "我们的榴莲自由是怎么来的",
-      "onboard_time": 1724645721,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 21558,
       "num": 767879,
       "word": "落水救援有哪些注意事项",
@@ -4672,14 +4752,6 @@
       "word": "铸牢共同体中华一家亲",
       "onboard_time": 1724503281,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6118,
-      "num": 697353,
-      "word": "申请过劳动仲裁公司是怎么知道的",
-      "onboard_time": 1724646263,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
