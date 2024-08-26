@@ -1,6 +1,6 @@
 {
   "startTime": 1724603016158,
-  "endTime": 1724685685001,
+  "endTime": 1724686534060,
   "band_list": [
     {
       "raw_hot": 9998740,
@@ -9,6 +9,14 @@
       "onboard_time": 1724645721,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3684665,
+      "num": 3684665,
+      "word": "恋与深空",
+      "onboard_time": 1724669541,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 3680271,
@@ -35,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2634832,
+      "num": 865162,
+      "word": "登陆计划出道名单",
+      "onboard_time": 1724684964,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2449036,
       "num": 2449036,
       "word": "上海电信",
@@ -43,8 +59,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2187079,
-      "num": 2187079,
+      "raw_hot": 2296268,
+      "num": 2296268,
       "word": "居民医保个人缴费标准增20元",
       "onboard_time": 1724679022,
       "rank": 19,
@@ -251,14 +267,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1267866,
-      "num": 1267866,
-      "word": "恋与深空",
-      "onboard_time": 1724669541,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 1265750,
       "num": 1265750,
       "word": "女性结婚意愿远低于男性",
@@ -329,14 +337,6 @@
       "onboard_time": 1724676381,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1138428,
-      "num": 766282,
-      "word": "登陆计划出道名单",
-      "onboard_time": 1724684964,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1135213,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 910207,
+      "num": 910207,
+      "word": "邱贻可直播",
+      "onboard_time": 1724682083,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 897337,
       "num": 639571,
       "word": "吉祥航空回应两女子把孩子关厕所教育",
@@ -467,12 +475,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 853968,
-      "num": 853968,
-      "word": "邱贻可直播",
-      "onboard_time": 1724682083,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 860198,
+      "num": 860198,
+      "word": "警方辟谣浏览境外色情网站被罚款",
+      "onboard_time": 1724681603,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 846865,
@@ -595,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 688188,
+      "num": 688188,
+      "word": "左邓",
+      "onboard_time": 1724685324,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 687869,
       "num": 687869,
       "word": "游客吐槽山西一面馆一碗面两个价",
@@ -665,6 +681,14 @@
       "onboard_time": 1724646383,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 637208,
+      "num": 418570,
+      "word": "我妈都舍不得放这么多",
+      "onboard_time": 1724683403,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 613329,
@@ -779,14 +803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 524624,
-      "num": 847019,
-      "word": "警方辟谣浏览境外色情网站被罚款",
-      "onboard_time": 1724681603,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 524458,
       "num": 524458,
       "word": "登陆计划出道人数",
@@ -851,14 +867,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 484663,
-      "num": 368010,
-      "word": "我妈都舍不得放这么多",
-      "onboard_time": 1724683403,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 482070,
       "num": 482070,
       "word": "庞博文 立规矩",
@@ -876,7 +884,7 @@
     },
     {
       "raw_hot": 472649,
-      "num": 360057,
+      "num": 389083,
       "word": "张紫宁上恋综了",
       "onboard_time": 1724684604,
       "rank": 24,
@@ -1219,12 +1227,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 324640,
+      "num": 324640,
+      "word": "中专生军训中暑身亡家属发声",
+      "onboard_time": 1724682863,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318653,
       "num": 318653,
       "word": "男子偷21座佛像放家中供奉",
       "onboard_time": 1724609953,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316433,
+      "num": 475266,
+      "word": "郑钦文VS阿尼西莫娃",
+      "onboard_time": 1724684124,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 314879,
@@ -1323,20 +1347,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291539,
+      "num": 324683,
+      "word": "薛宝钗 好风凭借力送我上青云",
+      "onboard_time": 1724682923,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 289166,
       "num": 390137,
       "word": "全世界来看这段黄子韬kiss徐艺洋",
       "onboard_time": 1724658620,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 288067,
-      "num": 288067,
-      "word": "左邓",
-      "onboard_time": 1724685324,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 286300,
@@ -1347,28 +1371,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 286300,
-      "num": 318101,
-      "word": "薛宝钗 好风凭借力送我上青云",
-      "onboard_time": 1724682923,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 284291,
       "num": 284291,
       "word": "剑网3刘宇坤双向奔赴",
       "onboard_time": 1724646804,
       "rank": 33,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 283525,
-      "num": 283525,
-      "word": "中专生军训中暑身亡家属发声",
-      "onboard_time": 1724682863,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 283291,
@@ -1507,6 +1515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 257115,
+      "num": 257115,
+      "word": "狸花猫 猫咪中的猫咪",
+      "onboard_time": 1724684604,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 253930,
       "num": 253930,
       "word": "以前觉得谈个帅哥就老实了",
@@ -1537,14 +1553,6 @@
       "onboard_time": 1724661140,
       "rank": 31,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 245425,
-      "num": 245425,
-      "word": "狸花猫 猫咪中的猫咪",
-      "onboard_time": 1724684604,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 245145,
@@ -1699,6 +1707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225554,
+      "num": 225554,
+      "word": "王俊凯 我们仨爆改我们朋友",
+      "onboard_time": 1724686164,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 222412,
       "num": 222412,
       "word": "俺叫焦恩俊",
@@ -1737,6 +1753,14 @@
       "onboard_time": 1724584522,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 219813,
+      "num": 219813,
+      "word": "拼多多股价",
+      "onboard_time": 1724685743,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 219799,
@@ -1827,6 +1851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210405,
+      "num": 210405,
+      "word": "方便面为什么不好卖了",
+      "onboard_time": 1724684483,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210306,
       "num": 254438,
       "word": "长乐曲今日开播",
@@ -1891,27 +1923,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205507,
-      "num": 205507,
-      "word": "方便面为什么不好卖了",
-      "onboard_time": 1724684483,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205085,
       "num": 205085,
       "word": "孙杨400自决赛",
       "onboard_time": 1724580200,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 205001,
-      "num": 355091,
-      "word": "郑钦文VS阿尼西莫娃",
-      "onboard_time": 1724684124,
-      "rank": 26,
       "category": "体育"
     },
     {
@@ -3019,6 +3035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67340,
+      "num": 769198,
+      "word": "起底青岛涉代孕生物科技公司",
+      "onboard_time": 1724684423,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66988,
       "num": 697974,
       "word": "被暑期迪士尼收割的中产家长",
@@ -3305,14 +3329,6 @@
       "onboard_time": 1724610192,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 39697,
-      "num": 769198,
-      "word": "起底青岛涉代孕生物科技公司",
-      "onboard_time": 1724684423,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38799,

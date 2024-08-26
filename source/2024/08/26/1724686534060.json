@@ -1,0 +1,410 @@
+{
+  "runTime": 1724686534060,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3684665,
+        "num": 3684665,
+        "word": "恋与深空",
+        "onboard_time": 1724669541,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2296268,
+        "num": 2296268,
+        "word": "居民医保个人缴费标准增20元",
+        "onboard_time": 1724679022,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75704,
+        "num": 1431110,
+        "word": "雨天出门千万要注意的小事",
+        "onboard_time": 1724677582,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1279039,
+        "num": 1279039,
+        "word": "三代出道战",
+        "onboard_time": 1724680822,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1210026,
+        "num": 1210026,
+        "word": "连云港一河道旁发现无名女尸",
+        "onboard_time": 1724680822,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1016992,
+        "num": 1016992,
+        "word": "怀孕员工试用期结束被辞公司被判违法",
+        "onboard_time": 1724675360,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 951257,
+        "num": 951257,
+        "word": "吉祥航空通报儿童被关厕所教育",
+        "onboard_time": 1724676381,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 910207,
+        "num": 910207,
+        "word": "邱贻可直播",
+        "onboard_time": 1724682083,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 605682,
+        "num": 873411,
+        "word": "谁教黄子韬求婚亲嘴插兜的",
+        "onboard_time": 1724670261,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 670325,
+        "num": 865606,
+        "word": "乳腺和甲状腺结节真是气出来的吗",
+        "onboard_time": 1724669660,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 2634832,
+        "num": 865162,
+        "word": "登陆计划出道名单",
+        "onboard_time": 1724684964,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 860198,
+        "num": 860198,
+        "word": "警方辟谣浏览境外色情网站被罚款",
+        "onboard_time": 1724681603,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688188,
+        "num": 688188,
+        "word": "左邓",
+        "onboard_time": 1724685324,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 669933,
+        "num": 669933,
+        "word": "陈奕迅女儿恋情曝光",
+        "onboard_time": 1724667980,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534570,
+        "num": 534570,
+        "word": "比俺叫焦恩俊还有杀伤力",
+        "onboard_time": 1724680042,
+        "rank": 14,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 316433,
+        "num": 475266,
+        "word": "郑钦文VS阿尼西莫娃",
+        "onboard_time": 1724684124,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 462088,
+        "num": 462088,
+        "word": "南派三叔回应吴邪选角",
+        "onboard_time": 1724680523,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 430540,
+        "num": 430540,
+        "word": "蒋奇明 上桌",
+        "onboard_time": 1724676740,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 420437,
+        "num": 420437,
+        "word": "三甲医院医生非法代孕被发现直呼完了",
+        "onboard_time": 1724665102,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335863,
+        "num": 420330,
+        "word": "余宇涵哭了",
+        "onboard_time": 1724676321,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 637208,
+        "num": 418570,
+        "word": "我妈都舍不得放这么多",
+        "onboard_time": 1724683403,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 605435,
+        "num": 416557,
+        "word": "隔日断食15天瘦了18斤",
+        "onboard_time": 1724667680,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 509233,
+        "num": 414835,
+        "word": "女子吃冰箱剩西瓜引发脑脓肿",
+        "onboard_time": 1724677341,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413350,
+        "num": 413350,
+        "word": "警方回应小孩被陌生女子关厕所教育",
+        "onboard_time": 1724666301,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405703,
+        "num": 405703,
+        "word": "登陆计划",
+        "onboard_time": 1724670080,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408864,
+        "num": 389083,
+        "word": "张紫宁上恋综了",
+        "onboard_time": 1724684604,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329699,
+        "num": 329699,
+        "word": "警方称两女子哄小孩经家长同意",
+        "onboard_time": 1724672120,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318311,
+        "num": 325569,
+        "word": "支持教师积极管教学生",
+        "onboard_time": 1724678062,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291539,
+        "num": 324683,
+        "word": "薛宝钗 好风凭借力送我上青云",
+        "onboard_time": 1724682923,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 276707,
+        "num": 324661,
+        "word": "苏新皓 我得救了",
+        "onboard_time": 1724679563,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 324640,
+        "num": 324640,
+        "word": "中专生军训中暑身亡家属发声",
+        "onboard_time": 1724682863,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286520,
+        "num": 286520,
+        "word": "杭州这家奶茶代购炒到300元一杯",
+        "onboard_time": 1724680943,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271671,
+        "num": 271671,
+        "word": "俄罗斯与乌克兰互相发动大规模空袭",
+        "onboard_time": 1724678241,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 257115,
+        "num": 257115,
+        "word": "狸花猫 猫咪中的猫咪",
+        "onboard_time": 1724684604,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242384,
+        "num": 242384,
+        "word": "吉祥航空",
+        "onboard_time": 1724680103,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67340,
+        "num": 240411,
+        "word": "起底青岛涉代孕生物科技公司",
+        "onboard_time": 1724684423,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240322,
+        "num": 240322,
+        "word": "十年前的大学生是什么样的",
+        "onboard_time": 1724675181,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230124,
+        "num": 230124,
+        "word": "山东一中专生被曝军训中暑身亡",
+        "onboard_time": 1724678602,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225554,
+        "num": 225554,
+        "word": "王俊凯 我们仨爆改我们朋友",
+        "onboard_time": 1724686164,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221488,
+        "num": 221488,
+        "word": "俺叫焦恩俊",
+        "onboard_time": 1724684302,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219813,
+        "num": 219813,
+        "word": "拼多多股价",
+        "onboard_time": 1724685743,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 210405,
+        "num": 210405,
+        "word": "方便面为什么不好卖了",
+        "onboard_time": 1724684483,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210289,
+        "num": 210289,
+        "word": "郑钦文转身立马进入状态",
+        "onboard_time": 1724682445,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207849,
+        "num": 207849,
+        "word": "苏新皓舞蹈solo破碎感",
+        "onboard_time": 1724678062,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195139,
+        "num": 195139,
+        "word": "孙杨称一个人游得快不叫快",
+        "onboard_time": 1724685144,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195052,
+        "num": 195052,
+        "word": "种地吧",
+        "onboard_time": 1724684302,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194514,
+        "num": 194514,
+        "word": "马龙空降超话",
+        "onboard_time": 1724676075,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186300,
+        "num": 186300,
+        "word": "朱志鑫苏新皓last night舞台",
+        "onboard_time": 1724681603,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180243,
+        "num": 180243,
+        "word": "师范生看到两眼一黑的程度",
+        "onboard_time": 1724678482,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174428,
+        "num": 174428,
+        "word": "成都下的是霰不是冰雹",
+        "onboard_time": 1724684124,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视统一战线工作#"
+    }
+  }
+}
