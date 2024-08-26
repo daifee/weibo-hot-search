@@ -1,6 +1,6 @@
 {
   "startTime": 1724689640506,
-  "endTime": 1724707161197,
+  "endTime": 1724708109750,
   "band_list": [
     {
       "raw_hot": 4028084,
@@ -579,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29846,
+      "num": 32614,
+      "word": "澳大利亚新法下班有权不接工作电话",
+      "onboard_time": 1724704452,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 29241,
       "num": 95678,
       "word": "青岛官方回应网传一公司代孕",
@@ -587,7 +595,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28482,
+      "raw_hot": 29161,
       "num": 34807,
       "word": "周深唱小美满和少管我",
       "onboard_time": 1724701571,
@@ -595,15 +603,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 27895,
-      "num": 29457,
-      "word": "澳大利亚新法下班有权不接工作电话",
-      "onboard_time": 1724704452,
-      "rank": 46,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 17534,
+      "raw_hot": 28056,
       "num": 66675,
       "word": "斩断回流药黑色产业链守好救命钱",
       "onboard_time": 1724703432,
@@ -625,6 +625,14 @@
       "onboard_time": 1724704032,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14967,
+      "num": 67572,
+      "word": "古人的漫画印在瓶子上",
+      "onboard_time": 1724706851,
+      "rank": 9,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
