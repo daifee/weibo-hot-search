@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724711867953,
+  "endTime": 1724714458732,
   "band_list": [
     {
       "raw_hot": 14208627,
@@ -939,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 874232,
+      "num": 874232,
+      "word": "TOP登陆少年",
+      "onboard_time": 1724693177,
+      "rank": 3,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 874203,
       "num": 874203,
       "word": "孙杨抵达赛场",
@@ -1193,14 +1201,6 @@
       "onboard_time": 1724629877,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 708802,
-      "num": 708802,
-      "word": "TOP登陆少年",
-      "onboard_time": 1724693177,
-      "rank": 3,
-      "category": "艺人,综艺"
     },
     {
       "raw_hot": 705293,
@@ -1483,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 568587,
+      "num": 355150,
+      "word": "当10岁105斤的女儿生病求抱抱",
+      "onboard_time": 1724690958,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 563578,
       "num": 563578,
       "word": "爷爷卖南瓜饼1元1个被顾客劝涨价",
@@ -1635,6 +1643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 498461,
+      "num": 430282,
+      "word": "黄子韬想的插兜吻vs现实",
+      "onboard_time": 1724708953,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 496461,
       "num": 553413,
       "word": "吴宣仪孟美岐程潇十年的友情",
@@ -1697,6 +1713,14 @@
       "onboard_time": 1724550018,
       "rank": 32,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 477225,
+      "num": 477225,
+      "word": "Steam一夜遭28万次攻击",
+      "onboard_time": 1724694736,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 476735,
@@ -1801,6 +1825,14 @@
       "onboard_time": 1724574619,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 456061,
+      "num": 456061,
+      "word": "恋与深空发声明要求派克特道歉",
+      "onboard_time": 1724714357,
+      "rank": 5,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 453915,
@@ -2019,6 +2051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 398427,
+      "num": 583450,
+      "word": "中专生军训中暑身亡家属发声",
+      "onboard_time": 1724682863,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396980,
       "num": 396980,
       "word": "张钧甯与男友葡萄牙逛街",
@@ -2097,14 +2137,6 @@
       "onboard_time": 1724558718,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 376147,
-      "num": 583450,
-      "word": "中专生军训中暑身亡家属发声",
-      "onboard_time": 1724682863,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 371505,
@@ -2260,7 +2292,7 @@
     },
     {
       "raw_hot": 341909,
-      "num": 119921,
+      "num": 121012,
       "word": "余宇涵成功出道",
       "onboard_time": 1724694316,
       "rank": 21,
@@ -2395,14 +2427,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 315668,
-      "num": 146487,
-      "word": "Steam一夜遭28万次攻击",
-      "onboard_time": 1724694736,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 315588,
       "num": 315588,
       "word": "Angelababy带小海绵游玩迪士尼",
@@ -2521,14 +2545,6 @@
       "onboard_time": 1724554400,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 298028,
-      "num": 258506,
-      "word": "当10岁105斤的女儿生病求抱抱",
-      "onboard_time": 1724690958,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 296335,
@@ -2673,14 +2689,6 @@
       "onboard_time": 1724656104,
       "rank": 26,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 279925,
-      "num": 175803,
-      "word": "黄子韬想的插兜吻vs现实",
-      "onboard_time": 1724708953,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 278775,
@@ -3155,7 +3163,7 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 235946,
+      "raw_hot": 236692,
       "num": 330469,
       "word": "方便面为什么不好卖了",
       "onboard_time": 1724684483,
@@ -5715,6 +5723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123426,
+      "num": 123426,
+      "word": "霉霉好明显的人情世故",
+      "onboard_time": 1724709982,
+      "rank": 34,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 122317,
       "num": 122317,
       "word": "花八千培训养老护理师求职时成废纸",
@@ -5875,12 +5891,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 94974,
-      "num": 63272,
-      "word": "霉霉好明显的人情世故",
-      "onboard_time": 1724709982,
-      "rank": 34,
-      "category": "作品衍生,艺人"
+      "raw_hot": 97156,
+      "num": 97156,
+      "word": "泡泡玛特盲盒新品出现错别字",
+      "onboard_time": 1724701571,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94305,
@@ -5915,6 +5931,14 @@
       "category": "社会新闻,电影"
     },
     {
+      "raw_hot": 86588,
+      "num": 86588,
+      "word": "陶喆人老了偷偷睡觉",
+      "onboard_time": 1724712674,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 86314,
       "num": 569113,
       "word": "电报创始人在法国被逮捕",
@@ -5931,12 +5955,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 81012,
-      "num": 81012,
-      "word": "泡泡玛特盲盒新品出现错别字",
-      "onboard_time": 1724701571,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 78913,
+      "num": 796557,
+      "word": "2024美网",
+      "onboard_time": 1724682563,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 77685,
@@ -6033,6 +6057,14 @@
       "onboard_time": 1724569220,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70391,
+      "num": 78912,
+      "word": "澳大利亚新法下班有权不接工作电话",
+      "onboard_time": 1724704452,
+      "rank": 46,
+      "category": "国外时政"
     },
     {
       "raw_hot": 69971,
@@ -6211,12 +6243,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 61279,
-      "num": 796557,
-      "word": "2024美网",
-      "onboard_time": 1724682563,
-      "rank": 7,
-      "category": "体育"
+      "raw_hot": 61497,
+      "num": 78911,
+      "word": "中介公司回应员工把孩子关厕所教育",
+      "onboard_time": 1724713516,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61215,
@@ -6331,6 +6363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54534,
+      "num": 78907,
+      "word": "边水往事郭立民彻底疯魔",
+      "onboard_time": 1724713817,
+      "rank": 46,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 52720,
       "num": 612491,
       "word": "直到我来到了烟台",
@@ -6364,7 +6404,7 @@
     },
     {
       "raw_hot": 51872,
-      "num": 841045,
+      "num": 912108,
       "word": "三代列车同框见证中国速度",
       "onboard_time": 1724675961,
       "rank": 2,
@@ -6376,6 +6416,14 @@
       "word": "IBM要用AI取代近8千个岗位",
       "onboard_time": 1724670501,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51100,
+      "num": 78907,
+      "word": "恐怖片对儿童及青少年有何影响",
+      "onboard_time": 1724702772,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -6403,11 +6451,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49823,
+      "num": 78906,
+      "word": "轻断食轻轻的把某种事物吃断货了",
+      "onboard_time": 1724714236,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 49332,
       "num": 602283,
       "word": "人间至味是烟台",
       "onboard_time": 1724648783,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48469,
+      "num": 146547,
+      "word": "多地发文揭批新形象工程",
+      "onboard_time": 1724710933,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -6643,14 +6707,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 37479,
-      "num": 44984,
-      "word": "恐怖片对儿童及青少年有何影响",
-      "onboard_time": 1724702772,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36971,
       "num": 421783,
       "word": "黎真主党领导人视频讲话",
@@ -6695,14 +6751,6 @@
       "num": 42343,
       "word": "以色列北部拉响密集防空警报",
       "onboard_time": 1724612292,
-      "rank": 46,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 33395,
-      "num": 44942,
-      "word": "澳大利亚新法下班有权不接工作电话",
-      "onboard_time": 1724704452,
       "rank": 46,
       "category": "国外时政"
     },
@@ -6937,14 +6985,6 @@
       "onboard_time": 1724608093,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 15909,
-      "num": 146547,
-      "word": "多地发文揭批新形象工程",
-      "onboard_time": 1724710933,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15728,
