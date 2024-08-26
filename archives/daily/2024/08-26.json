@@ -1,13 +1,21 @@
 {
   "startTime": 1724603016158,
-  "endTime": 1724647210024,
+  "endTime": 1724649602523,
   "band_list": [
     {
-      "raw_hot": 9399409,
-      "num": 9399409,
+      "raw_hot": 9998740,
+      "num": 9998740,
       "word": "黄子韬求婚徐艺洋",
       "onboard_time": 1724645721,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3680271,
+      "num": 1424676,
+      "word": "我敢娶你 你敢答应我吗",
+      "onboard_time": 1724646263,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -33,6 +41,14 @@
       "onboard_time": 1724612053,
       "rank": 46,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 1708979,
+      "num": 778090,
+      "word": "黄子韬求婚哭了",
+      "onboard_time": 1724646984,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1705358,
@@ -67,12 +83,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1424676,
-      "num": 1424676,
-      "word": "我敢娶你 你敢答应我吗",
-      "onboard_time": 1724646263,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 1380870,
+      "num": 1380870,
+      "word": "张豆豆牵走哭泣的孙杨",
+      "onboard_time": 1724644159,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 1241821,
@@ -89,14 +105,6 @@
       "onboard_time": 1724629938,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1139549,
-      "num": 731631,
-      "word": "张豆豆牵走哭泣的孙杨",
-      "onboard_time": 1724644159,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 1135213,
@@ -129,14 +137,6 @@
       "onboard_time": 1724597723,
       "rank": 3,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 999273,
-      "num": 778090,
-      "word": "黄子韬求婚哭了",
-      "onboard_time": 1724646984,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 947283,
@@ -195,12 +195,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 758897,
+      "num": 758897,
+      "word": "男子杀害2人逃亡32年后自缢身亡",
+      "onboard_time": 1724647044,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 741366,
       "num": 465760,
       "word": "张颖颖曝张兰带球上位",
       "onboard_time": 1724597243,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 740785,
+      "num": 568541,
+      "word": "黄子韬徐艺洋包场请大家看求婚",
+      "onboard_time": 1724646864,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 714700,
@@ -289,6 +305,14 @@
       "onboard_time": 1724645601,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 536185,
+      "num": 536185,
+      "word": "专家称鼓励生育问题还是得问年轻人",
+      "onboard_time": 1724646383,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 528506,
@@ -395,19 +419,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 451302,
+      "num": 451302,
+      "word": "2024年居民医保最新缴费标准",
+      "onboard_time": 1724644580,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 443537,
       "num": 547049,
       "word": "设立房屋养老金需找准利益平衡点",
       "onboard_time": 1724635880,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 423940,
-      "num": 423940,
-      "word": "2024年居民医保最新缴费标准",
-      "onboard_time": 1724644580,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -419,12 +443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 403486,
-      "num": 403486,
-      "word": "黄子韬徐艺洋包场请大家看求婚",
-      "onboard_time": 1724646864,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 394463,
+      "num": 394463,
+      "word": "第九代张起灵来了",
+      "onboard_time": 1724645782,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 393427,
@@ -457,6 +481,14 @@
       "onboard_time": 1724596823,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 371505,
+      "num": 371505,
+      "word": "大学生人均一两百把宿舍改成家",
+      "onboard_time": 1724646263,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 355590,
@@ -507,28 +539,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 320575,
-      "num": 320575,
-      "word": "专家称鼓励生育问题还是得问年轻人",
-      "onboard_time": 1724646383,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 318653,
       "num": 318653,
       "word": "男子偷21座佛像放家中供奉",
       "onboard_time": 1724609953,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 309882,
-      "num": 309882,
-      "word": "第九代张起灵来了",
-      "onboard_time": 1724645782,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 308297,
@@ -603,11 +619,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 273271,
-      "num": 273271,
-      "word": "大学生人均一两百把宿舍改成家",
-      "onboard_time": 1724646263,
-      "rank": 45,
+      "raw_hot": 274916,
+      "num": 274916,
+      "word": "爸爸养的猫已经25岁了",
+      "onboard_time": 1724648363,
+      "rank": 29,
       "category": "幽默"
     },
     {
@@ -624,6 +640,14 @@
       "word": "男子仅退款被拒后起诉网店被驳回",
       "onboard_time": 1724642600,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266731,
+      "num": 817882,
+      "word": "北京全市已达暴雨级别",
+      "onboard_time": 1724645361,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -675,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235033,
+      "num": 235033,
+      "word": "闪耀暖暖",
+      "onboard_time": 1724647584,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 232066,
       "num": 593988,
       "word": "孩子的假期作业到底是留给谁的",
@@ -689,6 +721,14 @@
       "onboard_time": 1724629339,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 221342,
+      "num": 221342,
+      "word": "张鲁一演吴邪",
+      "onboard_time": 1724647044,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 220777,
@@ -739,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209069,
+      "num": 209069,
+      "word": "秋瓷炫带儿子去迪拜",
+      "onboard_time": 1724648963,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209068,
       "num": 209068,
       "word": "中央气象台4预警连发",
@@ -751,6 +799,14 @@
       "num": 208987,
       "word": "中秋假期火车票9月1日开售",
       "onboard_time": 1724640319,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208520,
+      "num": 208520,
+      "word": "内蒙古一男子房内自缢身亡",
+      "onboard_time": 1724648963,
       "rank": 39,
       "category": "社会新闻"
     },
@@ -779,20 +835,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204353,
-      "num": 204353,
-      "word": "张鲁一演吴邪",
-      "onboard_time": 1724647044,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 203058,
       "num": 203058,
       "word": "张杰遗珠歌曲上桌",
       "onboard_time": 1724643381,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201962,
+      "num": 436197,
+      "word": "口水战从庆余年吵到了四方馆",
+      "onboard_time": 1724649144,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 200083,
@@ -819,11 +875,43 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196906,
+      "num": 196906,
+      "word": "时差五小时",
+      "onboard_time": 1724648603,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195686,
       "num": 245687,
       "word": "妈妈的偶像辉煌 我的偶像危房",
       "onboard_time": 1724631259,
       "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 195372,
+      "num": 195372,
+      "word": "剑网3",
+      "onboard_time": 1724647584,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 194676,
+      "num": 194676,
+      "word": "曹璐自己掏钱让组合回归",
+      "onboard_time": 1724649563,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192612,
+      "num": 192612,
+      "word": "迪丽热巴皇冠皮短裙",
+      "onboard_time": 1724649442,
+      "rank": 44,
       "category": "作品衍生"
     },
     {
@@ -899,6 +987,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178641,
+      "num": 178641,
+      "word": "解放军将位中缅边境实兵实弹演习",
+      "onboard_time": 1724647404,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 177921,
+      "num": 177921,
+      "word": "张雨绮蕾丝球衣叠穿",
+      "onboard_time": 1724649442,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 176950,
       "num": 176950,
       "word": "徐明浩加盟心动的信号7",
@@ -929,6 +1033,14 @@
       "onboard_time": 1724590521,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175190,
+      "num": 175190,
+      "word": "终于轮到KTV被90后抛弃了",
+      "onboard_time": 1724647284,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172231,
@@ -1219,14 +1331,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 123974,
-      "num": 741278,
-      "word": "男子杀害2人逃亡32年后自缢身亡",
-      "onboard_time": 1724647044,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123965,
       "num": 193990,
       "word": "韩国博主在印度搭便车遭绑架",
@@ -1265,14 +1369,6 @@
       "onboard_time": 1724591302,
       "rank": 29,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 92406,
-      "num": 817882,
-      "word": "北京全市已达暴雨级别",
-      "onboard_time": 1724645361,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77615,
@@ -1363,6 +1459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63729,
+      "num": 227188,
+      "word": "就这么水灵灵地拥有了理想皮肤",
+      "onboard_time": 1724648663,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 61767,
       "num": 66963,
       "word": "邓为费加罗暗夜鎏金大片",
@@ -1403,11 +1507,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55377,
+      "num": 208652,
+      "word": "2024年医保财政补助标准上调30元",
+      "onboard_time": 1724647645,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54967,
       "num": 827075,
       "word": "氢氧机生产厂商坦言氢医疗是噱头",
       "onboard_time": 1724645180,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52229,
+      "num": 628567,
+      "word": "女子称整形后眼睛不能完全闭合",
+      "onboard_time": 1724648363,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1491,6 +1611,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 29761,
+      "num": 220413,
+      "word": "人间至味是烟台",
+      "onboard_time": 1724648783,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26071,
       "num": 235648,
       "word": "遭迫害的美国科学家打算来华工作",
@@ -1513,6 +1641,14 @@
       "onboard_time": 1724604857,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24180,
+      "num": 672361,
+      "word": "暴雨大风强对流多预警齐发",
+      "onboard_time": 1724649261,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23110,
@@ -1568,6 +1704,14 @@
       "word": "河北重大气象灾害暴雨应急响应Ⅲ级",
       "onboard_time": 1724643199,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12689,
+      "num": 395460,
+      "word": "女性走进心理咨询室未必是病了",
+      "onboard_time": 1724649261,
+      "rank": 19,
       "category": "社会新闻"
     }
   ],

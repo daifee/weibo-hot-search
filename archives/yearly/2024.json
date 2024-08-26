@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1724647210024,
+  "endTime": 1724649602523,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -1155,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 9998740,
+      "num": 9998740,
+      "word": "黄子韬求婚徐艺洋",
+      "onboard_time": 1724645721,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 9951334,
       "num": 11117879,
       "word": "中国台湾省",
@@ -1345,14 +1353,6 @@
       "onboard_time": 1722388283,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 9399409,
-      "num": 9399409,
-      "word": "黄子韬求婚徐艺洋",
-      "onboard_time": 1724645721,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 9384116,
