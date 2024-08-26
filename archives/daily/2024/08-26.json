@@ -1,6 +1,6 @@
 {
   "startTime": 1724603016158,
-  "endTime": 1724671085955,
+  "endTime": 1724672148630,
   "band_list": [
     {
       "raw_hot": 9998740,
@@ -147,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1585687,
+      "num": 1585687,
+      "word": "乳腺和甲状腺结节真是气出来的吗",
+      "onboard_time": 1724669660,
+      "rank": 1,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1517879,
       "num": 1517879,
       "word": "大熊猫戴立去世",
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 1363397,
-      "num": 491156,
+      "num": 555880,
       "word": "陈奕迅女儿恋情曝光",
       "onboard_time": 1724667980,
       "rank": 15,
@@ -193,14 +201,6 @@
       "onboard_time": 1724667680,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1301546,
-      "num": 1301546,
-      "word": "乳腺和甲状腺结节真是气出来的吗",
-      "onboard_time": 1724669660,
-      "rank": 1,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1265750,
@@ -265,6 +265,14 @@
       "onboard_time": 1724631079,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1122959,
+      "num": 1122959,
+      "word": "警方回应小孩被陌生女子关厕所教育",
+      "onboard_time": 1724666301,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1097735,
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 897337,
-      "num": 491130,
+      "num": 639571,
       "word": "吉祥航空回应两女子把孩子关厕所教育",
       "onboard_time": 1724664441,
       "rank": 38,
@@ -345,6 +353,14 @@
       "onboard_time": 1724656522,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 863734,
+      "num": 863734,
+      "word": "派克特发歌帮乃万diss乙游",
+      "onboard_time": 1724667801,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 844135,
@@ -467,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 650436,
+      "num": 650436,
+      "word": "登陆计划",
+      "onboard_time": 1724670080,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 646449,
       "num": 565969,
       "word": "黄一鸣回应想让女儿当网红",
@@ -497,14 +521,6 @@
       "onboard_time": 1724651541,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 606453,
-      "num": 606453,
-      "word": "派克特发歌帮乃万diss乙游",
-      "onboard_time": 1724667801,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 604193,
@@ -619,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 514985,
+      "num": 514985,
+      "word": "俄打击乌军工综合体和关键能源设施",
+      "onboard_time": 1724664081,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 508922,
       "num": 337185,
       "word": "医生让我别穿洞洞鞋",
@@ -641,14 +665,6 @@
       "onboard_time": 1724632220,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 492142,
-      "num": 492142,
-      "word": "警方回应小孩被陌生女子关厕所教育",
-      "onboard_time": 1724666301,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 490946,
@@ -859,14 +875,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 347721,
-      "num": 490826,
-      "word": "登陆计划",
-      "onboard_time": 1724670080,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 345310,
       "num": 351922,
       "word": "美国宇航员将乘龙飞船返回地球",
@@ -1019,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289166,
+      "num": 390137,
+      "word": "全世界来看这段黄子韬kiss徐艺洋",
+      "onboard_time": 1724658620,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284291,
       "num": 284291,
       "word": "剑网3刘宇坤双向奔赴",
@@ -1068,7 +1084,7 @@
     },
     {
       "raw_hot": 272645,
-      "num": 272645,
+      "num": 640069,
       "word": "乌克兰15个州遭俄军大规模袭击",
       "onboard_time": 1724669420,
       "rank": 34,
@@ -1089,6 +1105,14 @@
       "onboard_time": 1724666720,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 268524,
+      "num": 268524,
+      "word": "东方风云榜",
+      "onboard_time": 1724671522,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 264775,
@@ -1121,6 +1145,14 @@
       "onboard_time": 1724653460,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260843,
+      "num": 259305,
+      "word": "我学不了跳舞果然是有原因的",
+      "onboard_time": 1724668220,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 253930,
@@ -1539,14 +1571,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 193783,
-      "num": 193783,
-      "word": "我学不了跳舞果然是有原因的",
-      "onboard_time": 1724668220,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 190857,
       "num": 190857,
       "word": "头鱼 困长",
@@ -1625,6 +1649,14 @@
       "onboard_time": 1724659343,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184592,
+      "num": 316306,
+      "word": "王爷 夫人要跟别人成亲了",
+      "onboard_time": 1724670802,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 184477,
@@ -1819,20 +1851,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170604,
+      "num": 170604,
+      "word": "周深演唱会家庭团建",
+      "onboard_time": 1724671641,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 169094,
       "num": 169094,
       "word": "N1成绩",
       "onboard_time": 1724636478,
       "rank": 36,
       "category": "教育"
-    },
-    {
-      "raw_hot": 165409,
-      "num": 316306,
-      "word": "王爷 夫人要跟别人成亲了",
-      "onboard_time": 1724670802,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 164422,
@@ -1923,6 +1955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158268,
+      "num": 158268,
+      "word": "中国共产党始终把统一战线摆在重要位置",
+      "onboard_time": 1724671522,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 155495,
       "num": 155495,
       "word": "朱志鑫solo舞台",
@@ -2008,6 +2048,14 @@
       "word": "罗拉带王能能回老家",
       "onboard_time": 1724584460,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148841,
+      "num": 148841,
+      "word": "赵露思修剪发际线vlog",
+      "onboard_time": 1724671942,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -2113,6 +2161,14 @@
       "onboard_time": 1724669300,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 135938,
+      "num": 135938,
+      "word": "边水往事 貘",
+      "onboard_time": 1724671100,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 135681,
@@ -2443,6 +2499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51645,
+      "num": 489589,
+      "word": "IBM要用AI取代近8千个岗位",
+      "onboard_time": 1724670501,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50458,
       "num": 692977,
       "word": "律师就要坚持难而正确的事",
@@ -2603,6 +2667,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 34820,
+      "num": 491249,
+      "word": "IBM中国研发部门关闭波及上千人",
+      "onboard_time": 1724647944,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34450,
       "num": 437120,
       "word": "求职者因星座冲突被拒绝录用",
@@ -2635,14 +2707,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 30754,
-      "num": 489589,
-      "word": "IBM要用AI取代近8千个岗位",
-      "onboard_time": 1724670501,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30305,
       "num": 423604,
       "word": "石家庄危废处置关口层层失守",
@@ -2664,14 +2728,6 @@
       "word": "有骑友平地速度超过40码",
       "onboard_time": 1724663241,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26079,
-      "num": 491249,
-      "word": "IBM中国研发部门关闭波及上千人",
-      "onboard_time": 1724647944,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2739,6 +2795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17513,
+      "num": 644192,
+      "word": "警方称两女子哄小孩经家长同意",
+      "onboard_time": 1724672120,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16299,
       "num": 53295,
       "word": "萌二听懂游客说话呲牙掰竹子",
@@ -2761,6 +2825,14 @@
       "onboard_time": 1724643199,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10729,
+      "num": 143251,
+      "word": "喜人cp在烟台红人节合体了",
+      "onboard_time": 1724671399,
+      "rank": 47,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
