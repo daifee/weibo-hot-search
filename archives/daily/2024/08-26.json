@@ -1,6 +1,6 @@
 {
   "startTime": 1724603016158,
-  "endTime": 1724683037778,
+  "endTime": 1724685685001,
   "band_list": [
     {
       "raw_hot": 9998740,
@@ -40,6 +40,14 @@
       "word": "上海电信",
       "onboard_time": 1724666780,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2187079,
+      "num": 2187079,
+      "word": "居民医保个人缴费标准增20元",
+      "onboard_time": 1724679022,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -171,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1587493,
+      "num": 1587493,
+      "word": "怀孕员工试用期结束被辞公司被判违法",
+      "onboard_time": 1724675360,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1585687,
       "num": 1585687,
       "word": "乳腺和甲状腺结节真是气出来的吗",
@@ -235,6 +251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1267866,
+      "num": 1267866,
+      "word": "恋与深空",
+      "onboard_time": 1724669541,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1265750,
       "num": 1265750,
       "word": "女性结婚意愿远低于男性",
@@ -248,6 +272,14 @@
       "word": "13岁男孩血尿医生取出20多颗磁力珠",
       "onboard_time": 1724658742,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1260696,
+      "num": 1260696,
+      "word": "连云港一河道旁发现无名女尸",
+      "onboard_time": 1724680822,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -297,6 +329,14 @@
       "onboard_time": 1724676381,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1138428,
+      "num": 766282,
+      "word": "登陆计划出道名单",
+      "onboard_time": 1724684964,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1135213,
@@ -427,6 +467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 853968,
+      "num": 853968,
+      "word": "邱贻可直播",
+      "onboard_time": 1724682083,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 846865,
       "num": 846865,
       "word": "蒋奇明 上桌",
@@ -555,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 684869,
+      "num": 684869,
+      "word": "比俺叫焦恩俊还有杀伤力",
+      "onboard_time": 1724680042,
+      "rank": 25,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 676278,
       "num": 676278,
       "word": "特朗普说马上战胜拜登时哈里斯登场",
@@ -608,22 +664,6 @@
       "word": "专家称鼓励生育问题还是得问年轻人",
       "onboard_time": 1724646383,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 639241,
-      "num": 639241,
-      "word": "比俺叫焦恩俊还有杀伤力",
-      "onboard_time": 1724680042,
-      "rank": 25,
-      "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 625033,
-      "num": 625033,
-      "word": "连云港一河道旁发现无名女尸",
-      "onboard_time": 1724680822,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -683,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 577366,
-      "num": 577366,
-      "word": "居民医保个人缴费标准增20元",
-      "onboard_time": 1724679022,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 572273,
       "num": 572273,
       "word": "杭州多起半夜骑行党相撞事故",
@@ -745,6 +777,14 @@
       "onboard_time": 1724641938,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 524624,
+      "num": 847019,
+      "word": "警方辟谣浏览境外色情网站被罚款",
+      "onboard_time": 1724681603,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 524458,
@@ -811,6 +851,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 484663,
+      "num": 368010,
+      "word": "我妈都舍不得放这么多",
+      "onboard_time": 1724683403,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 482070,
       "num": 482070,
       "word": "庞博文 立规矩",
@@ -825,6 +873,14 @@
       "onboard_time": 1724587700,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 472649,
+      "num": 360057,
+      "word": "张紫宁上恋综了",
+      "onboard_time": 1724684604,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 462596,
@@ -1019,14 +1075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 375032,
-      "num": 375032,
-      "word": "邱贻可直播",
-      "onboard_time": 1724682083,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 374757,
       "num": 374757,
       "word": "孙颖莎的时间表",
@@ -1179,14 +1227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 316778,
-      "num": 316778,
-      "word": "恋与深空",
-      "onboard_time": 1724669541,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 314879,
       "num": 404011,
       "word": "费翔回应大熊猫戴立离世",
@@ -1291,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288067,
+      "num": 288067,
+      "word": "左邓",
+      "onboard_time": 1724685324,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 286300,
       "num": 286300,
       "word": "面对观众席休息的孙颖莎像一个大将军",
@@ -1299,12 +1347,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 286300,
+      "num": 318101,
+      "word": "薛宝钗 好风凭借力送我上青云",
+      "onboard_time": 1724682923,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 284291,
       "num": 284291,
       "word": "剑网3刘宇坤双向奔赴",
       "onboard_time": 1724646804,
       "rank": 33,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 283525,
+      "num": 283525,
+      "word": "中专生军训中暑身亡家属发声",
+      "onboard_time": 1724682863,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283291,
@@ -1475,6 +1539,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 245425,
+      "num": 245425,
+      "word": "狸花猫 猫咪中的猫咪",
+      "onboard_time": 1724684604,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 245145,
       "num": 245145,
       "word": "媒体反映的罐车运输食用油乱象查处通报",
@@ -1505,14 +1577,6 @@
       "onboard_time": 1724589144,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 241170,
-      "num": 241170,
-      "word": "中专生军训中暑身亡家属发声",
-      "onboard_time": 1724682863,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239240,
@@ -1595,6 +1659,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 230186,
+      "num": 230186,
+      "word": "孙杨称一个人游得快不叫快",
+      "onboard_time": 1724685144,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 228315,
       "num": 265551,
       "word": "穆祉丞脱衣",
@@ -1627,12 +1699,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222412,
+      "num": 222412,
+      "word": "俺叫焦恩俊",
+      "onboard_time": 1724684302,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222034,
       "num": 222034,
       "word": "姥姥什么都知道 姥姥什么都不说",
       "onboard_time": 1724675781,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 221755,
+      "num": 221755,
+      "word": "种地吧",
+      "onboard_time": 1724684302,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 221342,
@@ -1803,11 +1891,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205507,
+      "num": 205507,
+      "word": "方便面为什么不好卖了",
+      "onboard_time": 1724684483,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205085,
       "num": 205085,
       "word": "孙杨400自决赛",
       "onboard_time": 1724580200,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 205001,
+      "num": 355091,
+      "word": "郑钦文VS阿尼西莫娃",
+      "onboard_time": 1724684124,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -1833,6 +1937,14 @@
       "onboard_time": 1724649622,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 203521,
+      "num": 203521,
+      "word": "成都下的是霰不是冰雹",
+      "onboard_time": 1724684124,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203058,
@@ -2089,14 +2201,6 @@
       "onboard_time": 1724642121,
       "rank": 43,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 181865,
-      "num": 847019,
-      "word": "警方辟谣浏览境外色情网站被罚款",
-      "onboard_time": 1724681603,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180949,
@@ -2788,7 +2892,7 @@
     },
     {
       "raw_hot": 107240,
-      "num": 1263533,
+      "num": 1632885,
       "word": "雨天出门千万要注意的小事",
       "onboard_time": 1724677582,
       "rank": 2,
@@ -3201,6 +3305,14 @@
       "onboard_time": 1724610192,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 39697,
+      "num": 769198,
+      "word": "起底青岛涉代孕生物科技公司",
+      "onboard_time": 1724684423,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38799,
