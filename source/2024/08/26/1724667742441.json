@@ -1,0 +1,410 @@
+{
+  "runTime": 1724667742441,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3085079,
+        "num": 3085079,
+        "word": "三甲医院医生非法代孕被发现直呼完了",
+        "onboard_time": 1724665102,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2449036,
+        "num": 2449036,
+        "word": "上海电信",
+        "onboard_time": 1724666780,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146564,
+        "num": 2011286,
+        "word": "你只需要带着录取通知书去大学",
+        "onboard_time": 1724661260,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1672757,
+        "num": 1672757,
+        "word": "黄子韬求婚徐艺洋",
+        "onboard_time": 1724645721,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1265750,
+        "num": 1265750,
+        "word": "女性结婚意愿远低于男性",
+        "onboard_time": 1724662161,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1031363,
+        "num": 1031363,
+        "word": "樊振东 不上班是最好的医美",
+        "onboard_time": 1724662221,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 687869,
+        "num": 687869,
+        "word": "游客吐槽山西一面馆一碗面两个价",
+        "onboard_time": 1724666361,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 635395,
+        "num": 635395,
+        "word": "13岁男孩血尿医生取出20多颗磁力珠",
+        "onboard_time": 1724658742,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481722,
+        "num": 635266,
+        "word": "还我妈生吴邪",
+        "onboard_time": 1724651541,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45000,
+        "num": 631015,
+        "word": "这才是房屋养老金的正解",
+        "onboard_time": 1724666240,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1067667,
+        "num": 627373,
+        "word": "飞机上两女子强行带孩子进厕所里教育",
+        "onboard_time": 1724658081,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 849294,
+        "num": 624149,
+        "word": "徐艺洋晒了好多未公开的秀恩爱画面",
+        "onboard_time": 1724656522,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 801773,
+        "num": 619270,
+        "word": "年轻女孩消耗身体赚钱卖卵十几次",
+        "onboard_time": 1724656341,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30212,
+        "num": 617258,
+        "word": "保安冒充消防支队长进行骗财骗色",
+        "onboard_time": 1724667200,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43763,
+        "num": 612491,
+        "word": "直到我来到了烟台",
+        "onboard_time": 1724666420,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 37754,
+        "num": 607892,
+        "word": "智界R7搭载华为旗舰黑科技",
+        "onboard_time": 1724664020,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 48057,
+        "num": 604360,
+        "word": "问界新M7Pro标配华为智驾25万起",
+        "onboard_time": 1724664020,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 603855,
+        "num": 603855,
+        "word": "我敢娶你 你敢答应我吗",
+        "onboard_time": 1724646263,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 518047,
+        "num": 518047,
+        "word": "黄子韬kiss徐艺洋小鸡啄米",
+        "onboard_time": 1724660421,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286697,
+        "num": 442036,
+        "word": "刘端端你个大漏勺",
+        "onboard_time": 1724666481,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1349634,
+        "num": 437625,
+        "word": "隔日断食15天瘦了18斤",
+        "onboard_time": 1724667680,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 608972,
+        "num": 434952,
+        "word": "吉祥航空回应两女子把孩子关厕所教育",
+        "onboard_time": 1724664441,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410596,
+        "num": 410596,
+        "word": "樊振东等23人拟记大功",
+        "onboard_time": 1724663904,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 396833,
+        "num": 396833,
+        "word": "陈梦回应佩戴定制首饰参赛",
+        "onboard_time": 1724657120,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375423,
+        "num": 375423,
+        "word": "教练 我想走文化了",
+        "onboard_time": 1724658980,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 322416,
+        "num": 322416,
+        "word": "一天花掉一万五中产家长的迪士尼苦旅",
+        "onboard_time": 1724649803,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297713,
+        "num": 297713,
+        "word": "WTT票价",
+        "onboard_time": 1724660600,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257475,
+        "num": 296230,
+        "word": "黄子韬求婚哭了",
+        "onboard_time": 1724646984,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202007,
+        "num": 296120,
+        "word": "慕胥辞将开机",
+        "onboard_time": 1724665461,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172478,
+        "num": 296080,
+        "word": "薛之谦别休息了先把新歌发了",
+        "onboard_time": 1724667020,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296080,
+        "num": 296079,
+        "word": "徐嘉余潘展乐被小朋友追着要签名",
+        "onboard_time": 1724662161,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292648,
+        "num": 292648,
+        "word": "警方回应小孩被陌生女子关厕所教育",
+        "onboard_time": 1724666301,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283235,
+        "num": 283235,
+        "word": "乌克兰",
+        "onboard_time": 1724664081,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 259527,
+        "num": 259527,
+        "word": "留学生淘宝反向代购月入过万",
+        "onboard_time": 1724656162,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244172,
+        "num": 244172,
+        "word": "这下确认潘展乐是i人了",
+        "onboard_time": 1724665220,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240001,
+        "num": 240001,
+        "word": "没票的时候就去12306撒撒娇",
+        "onboard_time": 1724652801,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227205,
+        "num": 227205,
+        "word": "灌汤包1000年前就上了开封美食榜",
+        "onboard_time": 1724666361,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 219539,
+        "num": 219539,
+        "word": "潘展乐樊振东互关",
+        "onboard_time": 1724666720,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218783,
+        "num": 218783,
+        "word": "大熊猫戴立去世",
+        "onboard_time": 1724667080,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216928,
+        "num": 216928,
+        "word": "山东一女生军训时死亡疑中暑导致",
+        "onboard_time": 1724665520,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178193,
+        "num": 178193,
+        "word": "青岛卫健委回应当地公司开展代孕",
+        "onboard_time": 1724662703,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173942,
+        "num": 173942,
+        "word": "10年来结婚登记数腰斩",
+        "onboard_time": 1724657303,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166974,
+        "num": 166974,
+        "word": "WTT中国大满贯",
+        "onboard_time": 1724662221,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166111,
+        "num": 166111,
+        "word": "男子每天1斤炸花生米配可乐引发脑梗死",
+        "onboard_time": 1724651901,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163372,
+        "num": 163372,
+        "word": "骄阳似我95生配00花",
+        "onboard_time": 1724666661,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157849,
+        "num": 157849,
+        "word": "黑神话里的黄风岭是华科大",
+        "onboard_time": 1724661801,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155912,
+        "num": 155912,
+        "word": "爸爸养的猫已经25岁了",
+        "onboard_time": 1724648363,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154569,
+        "num": 154569,
+        "word": "萧敬腾回应办婚礼",
+        "onboard_time": 1724667680,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153081,
+        "num": 153081,
+        "word": "官方通报甘肃多名女中学生遭欺凌",
+        "onboard_time": 1724667620,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152565,
+        "num": 152565,
+        "word": "藏海花",
+        "onboard_time": 1724662280,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习新语#"
+    }
+  }
+}
