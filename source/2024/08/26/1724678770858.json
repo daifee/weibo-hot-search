@@ -1,0 +1,410 @@
+{
+  "runTime": 1724678770858,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1753834,
+        "num": 1753834,
+        "word": "女子试用期刚过宣布怀孕被解聘",
+        "onboard_time": 1724675360,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1688266,
+        "num": 1688266,
+        "word": "警方称两女子哄小孩经家长同意",
+        "onboard_time": 1724672120,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63974,
+        "num": 1263533,
+        "word": "雨天出门千万要注意的小事",
+        "onboard_time": 1724677582,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1003542,
+        "num": 1003542,
+        "word": "乳腺和甲状腺结节真是气出来的吗",
+        "onboard_time": 1724669660,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 871655,
+        "num": 871655,
+        "word": "谁教黄子韬求婚亲嘴插兜的",
+        "onboard_time": 1724670261,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 665001,
+        "num": 665001,
+        "word": "潘展乐徐嘉余故意没跑过小孩",
+        "onboard_time": 1724675121,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 663253,
+        "num": 663253,
+        "word": "余宇涵哭了",
+        "onboard_time": 1724676321,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 601272,
+        "num": 601272,
+        "word": "乌克兰15个州遭俄军大规模袭击",
+        "onboard_time": 1724669420,
+        "rank": 7,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 567294,
+        "num": 567294,
+        "word": "蒋奇明 上桌",
+        "onboard_time": 1724676740,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126416,
+        "num": 567243,
+        "word": "女子吃冰箱剩西瓜引发脑脓肿",
+        "onboard_time": 1724677341,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 916550,
+        "num": 566189,
+        "word": "陈奕迅女儿恋情曝光",
+        "onboard_time": 1724667980,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 837282,
+        "num": 565591,
+        "word": "三甲医院医生非法代孕被发现直呼完了",
+        "onboard_time": 1724665102,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 781327,
+        "num": 564852,
+        "word": "登陆计划",
+        "onboard_time": 1724670080,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73015,
+        "num": 564313,
+        "word": "广东一地1862人入选终身班主任",
+        "onboard_time": 1724677042,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108329,
+        "num": 563275,
+        "word": "烟台海肠捞饭",
+        "onboard_time": 1724677221,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 563160,
+        "num": 563160,
+        "word": "警方回应小孩被陌生女子关厕所教育",
+        "onboard_time": 1724666301,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527214,
+        "num": 527214,
+        "word": "年轻女孩消耗身体赚钱卖卵十几次",
+        "onboard_time": 1724656341,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453805,
+        "num": 453805,
+        "word": "大熊猫戴立去世",
+        "onboard_time": 1724667080,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269145,
+        "num": 423193,
+        "word": "东方风云榜",
+        "onboard_time": 1724671522,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259608,
+        "num": 422669,
+        "word": "张子墨主持",
+        "onboard_time": 1724675602,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 674980,
+        "num": 422651,
+        "word": "隔日断食15天瘦了18斤",
+        "onboard_time": 1724667680,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 422528,
+        "num": 422528,
+        "word": "马龙空降超话",
+        "onboard_time": 1724676075,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 380953,
+        "num": 380953,
+        "word": "出道战唱狂妄",
+        "onboard_time": 1724675181,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 369669,
+        "num": 369669,
+        "word": "俄打击乌军工综合体和关键能源设施",
+        "onboard_time": 1724664081,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 319244,
+        "num": 319244,
+        "word": "十年前的大学生是什么样的",
+        "onboard_time": 1724675181,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267982,
+        "num": 267982,
+        "word": "医院默许代孕女子冒用身份住院生产",
+        "onboard_time": 1724675662,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240932,
+        "num": 267751,
+        "word": "苏新皓舞蹈solo破碎感",
+        "onboard_time": 1724678062,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240107,
+        "num": 266897,
+        "word": "刘端端段奥娟没有了舞台直拍",
+        "onboard_time": 1724677822,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228315,
+        "num": 265551,
+        "word": "穆祉丞脱衣",
+        "onboard_time": 1724677042,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216010,
+        "num": 264805,
+        "word": "费翔回应大熊猫戴立离世",
+        "onboard_time": 1724669001,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264491,
+        "num": 264491,
+        "word": "恋与深空",
+        "onboard_time": 1724669541,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 259903,
+        "num": 259903,
+        "word": "吉祥航空回应两女子把孩子关厕所教育",
+        "onboard_time": 1724664441,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250179,
+        "num": 250179,
+        "word": "吉祥航空通报儿童被关厕所教育",
+        "onboard_time": 1724676381,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248888,
+        "num": 248888,
+        "word": "13岁男孩血尿医生取出20多颗磁力珠",
+        "onboard_time": 1724658742,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234076,
+        "num": 234076,
+        "word": "上海电信回应",
+        "onboard_time": 1724666780,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223091,
+        "num": 223091,
+        "word": "一天花掉一万五中产家长的迪士尼苦旅",
+        "onboard_time": 1724649803,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214773,
+        "num": 214773,
+        "word": "若想念飞行",
+        "onboard_time": 1724678121,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205066,
+        "num": 205066,
+        "word": "师范生看到两眼一黑的程度",
+        "onboard_time": 1724678482,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199176,
+        "num": 199176,
+        "word": "俄罗斯与乌克兰互相发动大规模空袭",
+        "onboard_time": 1724678241,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 196971,
+        "num": 196971,
+        "word": "1900元的黄金吊坠戴到家就断裂",
+        "onboard_time": 1724674641,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190544,
+        "num": 190544,
+        "word": "康师傅方便面上半年少卖一个多亿",
+        "onboard_time": 1724678302,
+        "rank": 40,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 188174,
+        "num": 188174,
+        "word": "山东一中专生被曝军训中暑身亡",
+        "onboard_time": 1724678602,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183421,
+        "num": 183421,
+        "word": "头鱼直播",
+        "onboard_time": 1724678001,
+        "rank": 42,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 179085,
+        "num": 179085,
+        "word": "白羊座把占有欲藏起来了",
+        "onboard_time": 1724675840,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177974,
+        "num": 177974,
+        "word": "陈天润手受伤",
+        "onboard_time": 1724676681,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174996,
+        "num": 174996,
+        "word": "2女子把孩子关厕所教育起因经过",
+        "onboard_time": 1724678662,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172653,
+        "num": 172653,
+        "word": "上班不内耗不生气就不会刺激结节",
+        "onboard_time": 1724675181,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170663,
+        "num": 170663,
+        "word": "时代少年团亚洲杰出组合",
+        "onboard_time": 1724677402,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170831,
+        "num": 166636,
+        "word": "fate吧批评黑神话悟空不尊重原著",
+        "onboard_time": 1724670021,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 334955,
+        "num": 165327,
+        "word": "樊振东 不上班是最好的医美",
+        "onboard_time": 1724662221,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习新语#"
+    }
+  }
+}
