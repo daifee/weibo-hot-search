@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724679449828,
+  "endTime": 1724681992687,
   "band_list": [
     {
       "raw_hot": 14208627,
@@ -147,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2059299,
+      "num": 1753834,
+      "word": "女子试用期刚过宣布怀孕被解聘",
+      "onboard_time": 1724675360,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2055167,
       "num": 1304886,
       "word": "印度五名医生被指涉奸杀女医生案",
@@ -169,14 +177,6 @@
       "onboard_time": 1724639299,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1984391,
-      "num": 1753834,
-      "word": "女子试用期刚过宣布怀孕被解聘",
-      "onboard_time": 1724675360,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1843143,
@@ -347,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1546721,
+      "num": 567243,
+      "word": "女子吃冰箱剩西瓜引发脑脓肿",
+      "onboard_time": 1724677341,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1517879,
       "num": 1517879,
       "word": "大熊猫戴立去世",
@@ -412,7 +420,7 @@
     },
     {
       "raw_hot": 1363397,
-      "num": 566189,
+      "num": 821547,
       "word": "陈奕迅女儿恋情曝光",
       "onboard_time": 1724667980,
       "rank": 15,
@@ -420,7 +428,7 @@
     },
     {
       "raw_hot": 1349634,
-      "num": 437625,
+      "num": 502939,
       "word": "隔日断食15天瘦了18斤",
       "onboard_time": 1724667680,
       "rank": 20,
@@ -563,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1126316,
+      "num": 1180210,
+      "word": "苏新皓 我得救了",
+      "onboard_time": 1724679563,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1122959,
       "num": 1122959,
       "word": "警方回应小孩被陌生女子关厕所教育",
@@ -608,6 +624,14 @@
       "word": "沈梦辰家族群有71个人",
       "onboard_time": 1724570178,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1050282,
+      "num": 846982,
+      "word": "登陆计划",
+      "onboard_time": 1724670080,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -705,6 +729,14 @@
       "onboard_time": 1724647044,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 958783,
+      "num": 916408,
+      "word": "三代出道战",
+      "onboard_time": 1724680822,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 951141,
@@ -827,6 +859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 862255,
+      "num": 862255,
+      "word": "吉祥航空通报儿童被关厕所教育",
+      "onboard_time": 1724676381,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 850891,
       "num": 850891,
       "word": "杨紫工作室 审美",
@@ -841,6 +881,14 @@
       "onboard_time": 1724559199,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 846865,
+      "num": 846865,
+      "word": "蒋奇明 上桌",
+      "onboard_time": 1724676740,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 844135,
@@ -931,14 +979,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 781327,
-      "num": 651100,
-      "word": "登陆计划",
-      "onboard_time": 1724670080,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 777994,
       "num": 777994,
       "word": "孙颖莎说奥运闭幕式的时候释怀了",
@@ -1001,6 +1041,14 @@
       "onboard_time": 1724646864,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 732857,
+      "num": 732857,
+      "word": "潘展乐徐嘉余故意没跑过小孩",
+      "onboard_time": 1724675121,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 726162,
@@ -1139,14 +1187,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 665001,
-      "num": 665001,
-      "word": "潘展乐徐嘉余故意没跑过小孩",
-      "onboard_time": 1724675121,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 664671,
       "num": 664671,
       "word": "以色列遭数百枚火箭弹袭击现场",
@@ -1193,14 +1233,6 @@
       "onboard_time": 1724572341,
       "rank": 9,
       "category": "演出"
-    },
-    {
-      "raw_hot": 624084,
-      "num": 624084,
-      "word": "蒋奇明 上桌",
-      "onboard_time": 1724676740,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 614744,
@@ -1305,6 +1337,14 @@
       "onboard_time": 1724556319,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 576855,
+      "num": 576855,
+      "word": "南派三叔回应吴邪选角",
+      "onboard_time": 1724680523,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 572273,
@@ -1481,6 +1521,14 @@
       "onboard_time": 1724571199,
       "rank": 11,
       "category": "教育"
+    },
+    {
+      "raw_hot": 491806,
+      "num": 570225,
+      "word": "俄罗斯与乌克兰互相发动大规模空袭",
+      "onboard_time": 1724678241,
+      "rank": 38,
+      "category": "国外时政"
     },
     {
       "raw_hot": 490946,
@@ -1795,6 +1843,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 403189,
+      "num": 403189,
+      "word": "支持教师积极管教学生",
+      "onboard_time": 1724678062,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400545,
+      "num": 400545,
+      "word": "比俺叫焦恩俊还有杀伤力",
+      "onboard_time": 1724680042,
+      "rank": 25,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 399016,
       "num": 405066,
       "word": "苏新皓清唱",
@@ -1825,6 +1889,14 @@
       "onboard_time": 1724645782,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 393515,
+      "num": 393515,
+      "word": "师范生看到两眼一黑的程度",
+      "onboard_time": 1724678482,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 393007,
@@ -1899,6 +1971,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 370326,
+      "num": 370326,
+      "word": "十年前的大学生是什么样的",
+      "onboard_time": 1724675181,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 369007,
       "num": 369007,
       "word": "女子坐拥87套房被查封待拍卖",
@@ -1931,20 +2011,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 353989,
-      "num": 353989,
-      "word": "十年前的大学生是什么样的",
-      "onboard_time": 1724675181,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 353563,
       "num": 353563,
       "word": "张凌赫是真没把我们当外人",
       "onboard_time": 1724568440,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 353313,
+      "num": 353313,
+      "word": "吉祥航空",
+      "onboard_time": 1724680103,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352045,
@@ -2011,6 +2091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 339284,
+      "num": 339284,
+      "word": "山东一中专生被曝军训中暑身亡",
+      "onboard_time": 1724678602,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338463,
       "num": 338463,
       "word": "TF三代演唱会灯牌",
@@ -2051,11 +2139,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 330997,
+      "num": 330997,
+      "word": "杭州这家奶茶代购炒到300元一杯",
+      "onboard_time": 1724680943,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330956,
       "num": 330956,
       "word": "90后爸爸只吃黄瓜暴瘦30斤割肝救女",
       "onboard_time": 1724644641,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 330317,
+      "num": 354517,
+      "word": "居民医保个人缴费标准增20元",
+      "onboard_time": 1724679022,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2283,14 +2387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 291811,
-      "num": 570225,
-      "word": "俄罗斯与乌克兰互相发动大规模空袭",
-      "onboard_time": 1724678241,
-      "rank": 38,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 290466,
       "num": 478310,
       "word": "温州14岁女孩失联8天家属发声",
@@ -2331,12 +2427,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286300,
+      "num": 286300,
+      "word": "面对观众席休息的孙颖莎像一个大将军",
+      "onboard_time": 1724681483,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 285109,
       "num": 285109,
       "word": "南京体育学院回应张某某不当言论",
       "onboard_time": 1724566999,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284908,
+      "num": 353790,
+      "word": "刘端端段奥娟没有了舞台直拍",
+      "onboard_time": 1724677822,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 284291,
@@ -2484,7 +2596,7 @@
     },
     {
       "raw_hot": 263401,
-      "num": 295685,
+      "num": 296679,
       "word": "若想念飞行",
       "onboard_time": 1724678121,
       "rank": 36,
@@ -2505,14 +2617,6 @@
       "onboard_time": 1724653460,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262084,
-      "num": 262084,
-      "word": "师范生看到两眼一黑的程度",
-      "onboard_time": 1724678482,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 261556,
@@ -2537,14 +2641,6 @@
       "onboard_time": 1724668220,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 260443,
-      "num": 260443,
-      "word": "山东一中专生被曝军训中暑身亡",
-      "onboard_time": 1724678602,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 260315,
@@ -2659,14 +2755,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 250179,
-      "num": 487239,
-      "word": "吉祥航空通报儿童被关厕所教育",
-      "onboard_time": 1724676381,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 249873,
       "num": 249873,
       "word": "夫妻离婚争13只乌龟抚养权",
@@ -2689,6 +2777,14 @@
       "onboard_time": 1724633060,
       "rank": 9,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 248167,
+      "num": 308048,
+      "word": "宋亚轩帮刘耀文比心",
+      "onboard_time": 1724681122,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 247270,
@@ -2795,14 +2891,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 240107,
-      "num": 266897,
-      "word": "刘端端段奥娟没有了舞台直拍",
-      "onboard_time": 1724677822,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 239240,
       "num": 398648,
       "word": "难哄OST官宣",
@@ -2833,6 +2921,14 @@
       "onboard_time": 1724660182,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 236698,
+      "num": 548489,
+      "word": "连云港一河道旁发现无名女尸",
+      "onboard_time": 1724680822,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235825,
@@ -3195,6 +3291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 216786,
+      "num": 216786,
+      "word": "苏朱",
+      "onboard_time": 1724681603,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 214990,
       "num": 214990,
       "word": "张泽禹飞吻饭撒",
@@ -3347,14 +3451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 209274,
-      "num": 567243,
-      "word": "女子吃冰箱剩西瓜引发脑脓肿",
-      "onboard_time": 1724677341,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209068,
       "num": 209068,
       "word": "中央气象台4预警连发",
@@ -3417,14 +3513,6 @@
       "onboard_time": 1724584581,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 206577,
-      "num": 206577,
-      "word": "支持教师积极管教学生",
-      "onboard_time": 1724678062,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206514,
@@ -3595,12 +3683,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 200361,
+      "num": 200361,
+      "word": "朱志鑫苏新皓last night舞台",
+      "onboard_time": 1724681603,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200352,
       "num": 305444,
       "word": "电影刺猬",
       "onboard_time": 1724566879,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 200279,
+      "num": 200279,
+      "word": "时代少年团梦电视首秀",
+      "onboard_time": 1724681003,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 200116,
@@ -3961,6 +4065,14 @@
       "onboard_time": 1724659343,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184908,
+      "num": 184908,
+      "word": "华策 家业",
+      "onboard_time": 1724681963,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 184892,
@@ -5003,6 +5115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142756,
+      "num": 847019,
+      "word": "警方辟谣浏览境外色情网站被罚款",
+      "onboard_time": 1724681603,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142644,
       "num": 142644,
       "word": "警惕包治百病的吸氢养生骗局",
@@ -5411,6 +5531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103332,
+      "num": 1263533,
+      "word": "雨天出门千万要注意的小事",
+      "onboard_time": 1724677582,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102708,
       "num": 309738,
       "word": "柳眠棠嘴硬心软",
@@ -5515,20 +5643,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75966,
+      "num": 853788,
+      "word": "住建部权威解读房屋养老金",
+      "onboard_time": 1724681122,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75379,
       "num": 438328,
       "word": "现在的烟台像春运",
       "onboard_time": 1724673620,
       "rank": 14,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 75081,
-      "num": 1263533,
-      "word": "雨天出门千万要注意的小事",
-      "onboard_time": 1724677582,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74015,
@@ -5553,6 +5681,14 @@
       "onboard_time": 1724606594,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73159,
+      "num": 632483,
+      "word": "专家建议婚前培训考试合格后再结婚",
+      "onboard_time": 1724680943,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73015,
@@ -6251,14 +6387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27336,
-      "num": 354517,
-      "word": "居民医保个人缴费标准增20元",
-      "onboard_time": 1724679022,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27132,
       "num": 652124,
       "word": "有骑友平地速度超过40码",
@@ -6417,6 +6545,14 @@
       "onboard_time": 1724671399,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 8970,
+      "num": 554024,
+      "word": "现在的盖饭为什么越来越难吃了",
+      "onboard_time": 1724681902,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4031,
