@@ -1,6 +1,6 @@
 {
   "startTime": 1724603016158,
-  "endTime": 1724668785429,
+  "endTime": 1724671085955,
   "band_list": [
     {
       "raw_hot": 9998740,
@@ -147,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1517879,
+      "num": 1517879,
+      "word": "大熊猫戴立去世",
+      "onboard_time": 1724667080,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1465553,
       "num": 1179232,
       "word": "孙杨成绩距本人奥运纪录差了近10秒",
@@ -171,12 +179,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1363397,
+      "num": 491156,
+      "word": "陈奕迅女儿恋情曝光",
+      "onboard_time": 1724667980,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1349634,
       "num": 437625,
       "word": "隔日断食15天瘦了18斤",
       "onboard_time": 1724667680,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1301546,
+      "num": 1301546,
+      "word": "乳腺和甲状腺结节真是气出来的吗",
+      "onboard_time": 1724669660,
+      "rank": 1,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1265750,
@@ -217,6 +241,14 @@
       "onboard_time": 1724644820,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1235105,
+      "num": 1235105,
+      "word": "上海电信回应",
+      "onboard_time": 1724666780,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1227438,
@@ -300,7 +332,7 @@
     },
     {
       "raw_hot": 897337,
-      "num": 434952,
+      "num": 491130,
       "word": "吉祥航空回应两女子把孩子关厕所教育",
       "onboard_time": 1724664441,
       "rank": 38,
@@ -329,14 +361,6 @@
       "onboard_time": 1724593101,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 824678,
-      "num": 315788,
-      "word": "陈奕迅女儿恋情曝光",
-      "onboard_time": 1724667980,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 798328,
@@ -475,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 606453,
+      "num": 606453,
+      "word": "派克特发歌帮乃万diss乙游",
+      "onboard_time": 1724667801,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 604193,
       "num": 604193,
       "word": "唯一演遍四大名著的女演员",
@@ -579,14 +611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 515463,
-      "num": 515463,
-      "word": "大熊猫戴立去世",
-      "onboard_time": 1724667080,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 515179,
       "num": 515179,
       "word": "边水往事 吓人",
@@ -617,6 +641,22 @@
       "onboard_time": 1724632220,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 492142,
+      "num": 492142,
+      "word": "警方回应小孩被陌生女子关厕所教育",
+      "onboard_time": 1724666301,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 490946,
+      "num": 490946,
+      "word": "乌克兰",
+      "onboard_time": 1724664081,
+      "rank": 40,
+      "category": "国外时政"
     },
     {
       "raw_hot": 482070,
@@ -732,7 +772,7 @@
     },
     {
       "raw_hot": 421074,
-      "num": 442036,
+      "num": 489363,
       "word": "刘端端你个大漏勺",
       "onboard_time": 1724666481,
       "rank": 19,
@@ -819,19 +859,19 @@
       "category": "网红"
     },
     {
+      "raw_hot": 347721,
+      "num": 490826,
+      "word": "登陆计划",
+      "onboard_time": 1724670080,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 345310,
       "num": 351922,
       "word": "美国宇航员将乘龙飞船返回地球",
       "onboard_time": 1724590942,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 344175,
-      "num": 296367,
-      "word": "警方回应小孩被陌生女子关厕所教育",
-      "onboard_time": 1724666301,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -848,6 +888,14 @@
       "word": "女子产后掉发1个月掉出1把马尾",
       "onboard_time": 1724588121,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335386,
+      "num": 335386,
+      "word": "吉祥航空崩了",
+      "onboard_time": 1724669121,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -875,19 +923,27 @@
       "category": "演出"
     },
     {
-      "raw_hot": 320299,
-      "num": 320299,
-      "word": "乌克兰",
-      "onboard_time": 1724664081,
-      "rank": 40,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 318653,
       "num": 318653,
       "word": "男子偷21座佛像放家中供奉",
       "onboard_time": 1724609953,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316778,
+      "num": 316778,
+      "word": "恋与深空",
+      "onboard_time": 1724669541,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 314879,
+      "num": 314879,
+      "word": "费翔回应大熊猫戴立离世",
+      "onboard_time": 1724669001,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -995,12 +1051,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 273657,
+      "num": 273657,
+      "word": "男子厨房宰杀澳龙却被澳龙反绞",
+      "onboard_time": 1724668881,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272959,
       "num": 339454,
       "word": "孔令美崇拜章子怡",
       "onboard_time": 1724640918,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272645,
+      "num": 272645,
+      "word": "乌克兰15个州遭俄军大规模袭击",
+      "onboard_time": 1724669420,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 272529,
@@ -1027,20 +1099,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 263735,
+      "num": 263735,
+      "word": "fate吧批评黑神话悟空不尊重原著",
+      "onboard_time": 1724670021,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 262751,
+      "num": 262751,
+      "word": "这下确认潘展乐是i人了",
+      "onboard_time": 1724665220,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 262605,
       "num": 262605,
       "word": "美国发现致命东方马脑炎病例",
       "onboard_time": 1724653460,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262521,
-      "num": 262521,
-      "word": "这下确认潘展乐是i人了",
-      "onboard_time": 1724665220,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 253930,
@@ -1081,14 +1161,6 @@
       "onboard_time": 1724588001,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 244314,
-      "num": 301378,
-      "word": "派克特发歌帮乃万diss乙游",
-      "onboard_time": 1724667801,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 243274,
@@ -1467,6 +1539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193783,
+      "num": 193783,
+      "word": "我学不了跳舞果然是有原因的",
+      "onboard_time": 1724668220,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190857,
       "num": 190857,
       "word": "头鱼 困长",
@@ -1577,6 +1657,14 @@
       "onboard_time": 1724642121,
       "rank": 43,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 180949,
+      "num": 180949,
+      "word": "山东一职业中专新生军训多人中暑",
+      "onboard_time": 1724664980,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180894,
@@ -1739,6 +1827,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 165409,
+      "num": 316306,
+      "word": "王爷 夫人要跟别人成亲了",
+      "onboard_time": 1724670802,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164422,
       "num": 164422,
       "word": "我的邻居是掌管减肥的神",
@@ -1756,7 +1852,7 @@
     },
     {
       "raw_hot": 163372,
-      "num": 299559,
+      "num": 316093,
       "word": "骄阳似我95生配00花",
       "onboard_time": 1724666661,
       "rank": 44,
@@ -1883,19 +1979,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153331,
-      "num": 153331,
-      "word": "我学不了跳舞果然是有原因的",
-      "onboard_time": 1724668220,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 153081,
       "num": 153081,
       "word": "官方通报甘肃多名女中学生遭欺凌",
       "onboard_time": 1724667620,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152828,
+      "num": 379785,
+      "word": "大同一刀削面馆阴阳价被立案调查",
+      "onboard_time": 1724667741,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1937,6 +2033,14 @@
       "onboard_time": 1724595983,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145746,
+      "num": 145746,
+      "word": "日本上班族连拉面都快吃不起了",
+      "onboard_time": 1724670321,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 143679,
@@ -1995,20 +2099,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138489,
-      "num": 138489,
-      "word": "山东一职业中专新生军训多人中暑",
-      "onboard_time": 1724664980,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137329,
       "num": 137329,
       "word": "在张杰演唱会听上西游记了",
       "onboard_time": 1724599460,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 136359,
+      "num": 315429,
+      "word": "张真源贺峻霖可以谐门不能邪门",
+      "onboard_time": 1724669300,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 135681,
@@ -2137,14 +2241,6 @@
       "onboard_time": 1724663000,
       "rank": 13,
       "category": "社会新闻,电影"
-    },
-    {
-      "raw_hot": 87453,
-      "num": 379785,
-      "word": "大同一刀削面馆阴阳价被立案调查",
-      "onboard_time": 1724667741,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77615,
@@ -2475,6 +2571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 38799,
+      "num": 450620,
+      "word": "村民拦路索要清洁费或涉嫌违法",
+      "onboard_time": 1724670860,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38676,
       "num": 614477,
       "word": "男子坐自制泡沫浮板海钓漂流1天1夜",
@@ -2523,6 +2627,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31536,
+      "num": 315140,
+      "word": "特朗普回应邀马斯克入阁",
+      "onboard_time": 1724670860,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 30754,
+      "num": 489589,
+      "word": "IBM要用AI取代近8千个岗位",
+      "onboard_time": 1724670501,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30305,
       "num": 423604,
       "word": "石家庄危废处置关口层层失守",
@@ -2544,6 +2664,14 @@
       "word": "有骑友平地速度超过40码",
       "onboard_time": 1724663241,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26079,
+      "num": 491249,
+      "word": "IBM中国研发部门关闭波及上千人",
+      "onboard_time": 1724647944,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
