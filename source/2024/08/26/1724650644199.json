@@ -1,0 +1,410 @@
+{
+  "runTime": 1724650644199,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8274557,
+        "num": 8274557,
+        "word": "黄子韬求婚徐艺洋",
+        "onboard_time": 1724645721,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1234909,
+        "num": 1234909,
+        "word": "张豆豆牵走哭泣的孙杨",
+        "onboard_time": 1724644159,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13389,
+        "num": 1076845,
+        "word": "八桂大地展新颜",
+        "onboard_time": 1724641820,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3341752,
+        "num": 1073655,
+        "word": "我敢娶你 你敢答应我吗",
+        "onboard_time": 1724646263,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 959943,
+        "num": 959943,
+        "word": "男子杀害2人逃亡32年后自缢身亡",
+        "onboard_time": 1724647044,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640652,
+        "num": 640652,
+        "word": "专家称鼓励生育问题还是得问年轻人",
+        "onboard_time": 1724646383,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1357035,
+        "num": 639646,
+        "word": "黄子韬求婚哭了",
+        "onboard_time": 1724646984,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 726441,
+        "num": 634564,
+        "word": "马雪阳求婚谭咏雯",
+        "onboard_time": 1724644820,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23233,
+        "num": 631817,
+        "word": "暴雨大风强对流多预警齐发",
+        "onboard_time": 1724649261,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452042,
+        "num": 626947,
+        "word": "2024年居民医保最新缴费标准",
+        "onboard_time": 1724644580,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626601,
+        "num": 626601,
+        "word": "莫迪首次回应女实习医生遭奸杀案",
+        "onboard_time": 1724640980,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 31992,
+        "num": 602283,
+        "word": "人间至味是烟台",
+        "onboard_time": 1724648783,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583270,
+        "num": 583270,
+        "word": "徐艺洋回应黄子韬求婚",
+        "onboard_time": 1724650583,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490281,
+        "num": 490281,
+        "word": "罗永浩真还传一共还了8.24亿",
+        "onboard_time": 1724644040,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 34450,
+        "num": 437120,
+        "word": "求职者因星座冲突被拒绝录用",
+        "onboard_time": 1724649742,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385913,
+        "num": 385913,
+        "word": "孙杨成绩距本人奥运纪录差了近10秒",
+        "onboard_time": 1724631079,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 377078,
+        "num": 377078,
+        "word": "赛前张豆豆给孙杨存了一句话",
+        "onboard_time": 1724645601,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51795,
+        "num": 365346,
+        "word": "就这么水灵灵地拥有了理想皮肤",
+        "onboard_time": 1724648663,
+        "rank": 17,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 357729,
+        "num": 357729,
+        "word": "曹璐自己掏钱让组合回归",
+        "onboard_time": 1724649563,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33164,
+        "num": 341070,
+        "word": "女性走进心理咨询室未必是病了",
+        "onboard_time": 1724649261,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511810,
+        "num": 340594,
+        "word": "难怪打工那么多年遇不到藏族人",
+        "onboard_time": 1724644221,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 375662,
+        "num": 339844,
+        "word": "双胞胎一个S码一个XXXL码",
+        "onboard_time": 1724642900,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 337025,
+        "num": 337025,
+        "word": "赵丽颖剪短发plog",
+        "onboard_time": 1724641938,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335238,
+        "num": 335238,
+        "word": "一天花掉一万五中产家长的迪士尼苦旅",
+        "onboard_time": 1724649803,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94305,
+        "num": 334377,
+        "word": "四方馆一集下线一个人",
+        "onboard_time": 1724650521,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333710,
+        "num": 333710,
+        "word": "爸爸养的猫已经25岁了",
+        "onboard_time": 1724648363,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 332950,
+        "num": 332950,
+        "word": "第九代张起灵来了",
+        "onboard_time": 1724645782,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325503,
+        "num": 325503,
+        "word": "网贷60万做榜1大哥后送外卖还债",
+        "onboard_time": 1724640800,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319050,
+        "num": 319050,
+        "word": "内蒙古一男子房内自缢身亡",
+        "onboard_time": 1724648963,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309113,
+        "num": 309113,
+        "word": "藏海花开播",
+        "onboard_time": 1724640019,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307948,
+        "num": 307948,
+        "word": "北京全市已达暴雨级别",
+        "onboard_time": 1724645361,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306105,
+        "num": 306105,
+        "word": "大学生人均一两百把宿舍改成家",
+        "onboard_time": 1724646263,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 279738,
+        "num": 279738,
+        "word": "90后爸爸只吃黄瓜暴瘦30斤割肝救女",
+        "onboard_time": 1724644641,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253265,
+        "num": 253265,
+        "word": "迪丽热巴皇冠皮短裙",
+        "onboard_time": 1724649442,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249897,
+        "num": 249897,
+        "word": "国漫对韩漫贴脸开大",
+        "onboard_time": 1724640199,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 240801,
+        "num": 240801,
+        "word": "今年中秋放假3天需调休",
+        "onboard_time": 1724632701,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213593,
+        "num": 238233,
+        "word": "口水战从庆余年吵到了四方馆",
+        "onboard_time": 1724649144,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235815,
+        "num": 235815,
+        "word": "陈楚生是苏醒一生过不去的坎",
+        "onboard_time": 1724649803,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235573,
+        "num": 235573,
+        "word": "秋瓷炫带儿子去迪拜",
+        "onboard_time": 1724648963,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224504,
+        "num": 224504,
+        "word": "黄景瑜 你粉蹭我衣服上了",
+        "onboard_time": 1724629938,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217810,
+        "num": 217810,
+        "word": "张雨绮蕾丝球衣叠穿",
+        "onboard_time": 1724649442,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92139,
+        "num": 204452,
+        "word": "蒋奇明演技",
+        "onboard_time": 1724650222,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203921,
+        "num": 203921,
+        "word": "终极笔记",
+        "onboard_time": 1724650103,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203757,
+        "num": 203757,
+        "word": "无畏好实在的自我介绍",
+        "onboard_time": 1724649622,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190688,
+        "num": 190688,
+        "word": "张鲁一演吴邪",
+        "onboard_time": 1724647044,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188104,
+        "num": 188104,
+        "word": "孙颖莎说奥运闭幕式的时候释怀了",
+        "onboard_time": 1724630417,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184477,
+        "num": 184477,
+        "word": "王一博技能点持续更新",
+        "onboard_time": 1724649920,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177945,
+        "num": 177945,
+        "word": "发现一个很微妙的感情定律",
+        "onboard_time": 1724646562,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175387,
+        "num": 175387,
+        "word": "爷爷卖南瓜饼1元1个被顾客劝涨价",
+        "onboard_time": 1724635701,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172148,
+        "num": 172148,
+        "word": "网传成都高温限电不实",
+        "onboard_time": 1724648306,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习新语#"
+    }
+  }
+}
