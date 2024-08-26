@@ -1,7 +1,15 @@
 {
   "startTime": 1724603016158,
-  "endTime": 1724643517768,
+  "endTime": 1724646325910,
   "band_list": [
+    {
+      "raw_hot": 3531378,
+      "num": 3531378,
+      "word": "黄子韬求婚徐艺洋",
+      "onboard_time": 1724645721,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 3239838,
       "num": 3239838,
@@ -27,6 +35,22 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 1705358,
+      "num": 1404026,
+      "word": "双胞胎一个S码一个XXXL码",
+      "onboard_time": 1724642900,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1676289,
+      "num": 1676289,
+      "word": "莫迪首次回应女实习医生遭奸杀案",
+      "onboard_time": 1724640980,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1605712,
       "num": 1605712,
       "word": "国漫对韩漫贴脸开大",
@@ -43,12 +67,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1322576,
-      "num": 1322576,
-      "word": "莫迪首次回应女实习医生遭奸杀案",
-      "onboard_time": 1724640980,
-      "rank": 3,
-      "category": "国外时政"
+      "raw_hot": 1241821,
+      "num": 1241821,
+      "word": "马雪阳求婚谭咏雯",
+      "onboard_time": 1724644820,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1227438,
@@ -99,6 +123,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 928538,
+      "num": 928538,
+      "word": "网贷60万做榜1大哥后送外卖还债",
+      "onboard_time": 1724640800,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 844135,
+      "num": 844135,
+      "word": "罗永浩真还传一共还了8.24亿",
+      "onboard_time": 1724644040,
+      "rank": 7,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 826274,
       "num": 826274,
       "word": "在泰国被辱骂中国女子拒绝和解",
@@ -123,12 +163,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 742162,
-      "num": 742162,
-      "word": "网贷60万做榜1大哥后送外卖还债",
-      "onboard_time": 1724640800,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 777543,
+      "num": 668523,
+      "word": "难怪打工那么多年遇不到藏族人",
+      "onboard_time": 1724644221,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 741366,
@@ -137,6 +177,14 @@
       "onboard_time": 1724597243,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 731631,
+      "num": 731631,
+      "word": "张豆豆牵走哭泣的孙杨",
+      "onboard_time": 1724644159,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 714700,
@@ -228,7 +276,7 @@
     },
     {
       "raw_hot": 527514,
-      "num": 527514,
+      "num": 705504,
       "word": "赵丽颖剪短发plog",
       "onboard_time": 1724641938,
       "rank": 37,
@@ -379,14 +427,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 346192,
-      "num": 346192,
-      "word": "双胞胎一个S码一个XXXL码",
-      "onboard_time": 1724642900,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 345310,
       "num": 351922,
       "word": "美国宇航员将乘龙飞船返回地球",
@@ -408,6 +448,14 @@
       "word": "女子产后掉发1个月掉出1把马尾",
       "onboard_time": 1724588121,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329051,
+      "num": 329051,
+      "word": "2024年居民医保最新缴费标准",
+      "onboard_time": 1724644580,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -491,12 +539,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279644,
+      "num": 279644,
+      "word": "我敢娶你 你敢答应我吗",
+      "onboard_time": 1724646263,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272959,
       "num": 339454,
       "word": "孔令美崇拜章子怡",
       "onboard_time": 1724640918,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272529,
+      "num": 508850,
+      "word": "男子仅退款被拒后起诉网店被驳回",
+      "onboard_time": 1724642600,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263157,
+      "num": 263157,
+      "word": "90后爸爸只吃黄瓜暴瘦30斤割肝救女",
+      "onboard_time": 1724644641,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253930,
@@ -529,6 +601,14 @@
       "onboard_time": 1724589144,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 237678,
+      "num": 237678,
+      "word": "赛前张豆豆给孙杨存了一句话",
+      "onboard_time": 1724645601,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 235825,
@@ -584,6 +664,14 @@
       "word": "边水往事沈星开始飘了",
       "onboard_time": 1724635039,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 210306,
+      "num": 254438,
+      "word": "长乐曲今日开播",
+      "onboard_time": 1724644101,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -643,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200335,
+      "num": 200335,
+      "word": "第九代张起灵来了",
+      "onboard_time": 1724645782,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197404,
       "num": 197404,
       "word": "在泰国遭辱骂女子透露事件最新进展",
@@ -659,12 +755,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188326,
+      "num": 188326,
+      "word": "张博恒科目一学得怎么样",
+      "onboard_time": 1724644820,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188059,
       "num": 188059,
       "word": "官媒发声称房屋养老金不是房地产税",
       "onboard_time": 1724642541,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185890,
+      "num": 185890,
+      "word": "大学生人均一两百把宿舍改成家",
+      "onboard_time": 1724646263,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 185766,
@@ -713,6 +825,14 @@
       "onboard_time": 1724633541,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 176950,
+      "num": 176950,
+      "word": "徐明浩加盟心动的信号7",
+      "onboard_time": 1724645240,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 176269,
@@ -777,6 +897,14 @@
       "onboard_time": 1724639120,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163335,
+      "num": 200400,
+      "word": "尤长靖在暴雨中唱昨日青空",
+      "onboard_time": 1724644880,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 161707,
@@ -889,6 +1017,14 @@
       "onboard_time": 1724602998,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147301,
+      "num": 700749,
+      "word": "张真源好会饭撒",
+      "onboard_time": 1724646082,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 147094,
@@ -1009,14 +1145,6 @@
       "onboard_time": 1724598682,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 124869,
-      "num": 508850,
-      "word": "男子仅退款被拒后起诉网店被驳回",
-      "onboard_time": 1724642600,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124655,
@@ -1147,6 +1275,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 60679,
+      "num": 817882,
+      "word": "北京全市已达暴雨级别",
+      "onboard_time": 1724645361,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59053,
       "num": 66956,
       "word": "莎莎一如既往地沉稳",
@@ -1168,6 +1304,22 @@
       "word": "整个三星堆独一无二的金杖",
       "onboard_time": 1724591542,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55222,
+      "num": 697974,
+      "word": "被暑期迪士尼收割的中产家长",
+      "onboard_time": 1724646263,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49876,
+      "num": 692977,
+      "word": "律师就要坚持难而正确的事",
+      "onboard_time": 1724644101,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -1228,7 +1380,7 @@
     },
     {
       "raw_hot": 35461,
-      "num": 530218,
+      "num": 736934,
       "word": "有一种海边人生是青岛啤酒相伴",
       "onboard_time": 1724641458,
       "rank": 18,
@@ -1241,6 +1393,14 @@
       "onboard_time": 1724612292,
       "rank": 46,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 30000,
+      "num": 827075,
+      "word": "氢氧机生产厂商坦言氢医疗是噱头",
+      "onboard_time": 1724645180,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26071,
@@ -1283,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21691,
+      "num": 703337,
+      "word": "我们的榴莲自由是怎么来的",
+      "onboard_time": 1724645721,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20381,
       "num": 24598,
       "word": "养成系情侣的回忆录",
@@ -1320,6 +1488,14 @@
       "word": "河北重大气象灾害暴雨应急响应Ⅲ级",
       "onboard_time": 1724643199,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6118,
+      "num": 697353,
+      "word": "申请过劳动仲裁公司是怎么知道的",
+      "onboard_time": 1724646263,
+      "rank": 19,
       "category": "社会新闻"
     }
   ],
