@@ -1,6 +1,6 @@
 {
   "startTime": 1724603016158,
-  "endTime": 1724664133357,
+  "endTime": 1724664933860,
   "band_list": [
     {
       "raw_hot": 9998740,
@@ -139,19 +139,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1406034,
+      "num": 1406034,
+      "word": "樊振东 不上班是最好的医美",
+      "onboard_time": 1724662221,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1380870,
       "num": 1380870,
       "word": "张豆豆牵走哭泣的孙杨",
       "onboard_time": 1724644159,
       "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1302933,
-      "num": 1302933,
-      "word": "樊振东 不上班是最好的医美",
-      "onboard_time": 1724662221,
-      "rank": 1,
       "category": "体育"
     },
     {
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 905949,
+      "num": 905949,
+      "word": "女性结婚意愿远低于男性",
+      "onboard_time": 1724662161,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 844135,
       "num": 844135,
       "word": "罗永浩真还传一共还了8.24亿",
@@ -313,6 +321,14 @@
       "onboard_time": 1724644221,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 745849,
+      "num": 624702,
+      "word": "徐艺洋晒了好多未公开的秀恩爱画面",
+      "onboard_time": 1724656522,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 741366,
@@ -363,28 +379,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 671350,
+      "num": 555971,
+      "word": "教练 我想走文化了",
+      "onboard_time": 1724658980,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 670774,
       "num": 670774,
       "word": "孙杨提前伸脖子等待金牌",
       "onboard_time": 1724587280,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 669120,
-      "num": 669120,
-      "word": "女性结婚意愿远低于男性",
-      "onboard_time": 1724662161,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 650266,
-      "num": 551705,
-      "word": "教练 我想走文化了",
-      "onboard_time": 1724658980,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 646449,
@@ -441,6 +449,14 @@
       "onboard_time": 1724637739,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 588698,
+      "num": 588698,
+      "word": "WTT票价",
+      "onboard_time": 1724660600,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 583270,
@@ -563,20 +579,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 467170,
-      "num": 467170,
-      "word": "WTT票价",
-      "onboard_time": 1724660600,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 463491,
-      "num": 624702,
-      "word": "徐艺洋晒了好多未公开的秀恩爱画面",
-      "onboard_time": 1724656522,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 462596,
+      "num": 462596,
+      "word": "留学生淘宝反向代购月入过万",
+      "onboard_time": 1724656162,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 462343,
@@ -619,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 457731,
-      "num": 457731,
-      "word": "留学生淘宝反向代购月入过万",
-      "onboard_time": 1724656162,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 452042,
       "num": 626947,
       "word": "2024年居民医保最新缴费标准",
@@ -641,6 +641,14 @@
       "onboard_time": 1724635880,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 441262,
+      "num": 441262,
+      "word": "樊振东等23人拟记大功",
+      "onboard_time": 1724663904,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 440703,
@@ -731,6 +739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 371042,
+      "num": 371042,
+      "word": "徐嘉余潘展乐被小朋友追着要签名",
+      "onboard_time": 1724662161,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 355590,
       "num": 380673,
       "word": "张颖颖晒回山东老家日常vlog",
@@ -772,7 +788,7 @@
     },
     {
       "raw_hot": 329255,
-      "num": 332454,
+      "num": 384118,
       "word": "国家一级演员王霙逝世",
       "onboard_time": 1724655440,
       "rank": 29,
@@ -785,6 +801,14 @@
       "onboard_time": 1724631319,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 320299,
+      "num": 320299,
+      "word": "乌克兰",
+      "onboard_time": 1724664081,
+      "rank": 40,
+      "category": "国外时政"
     },
     {
       "raw_hot": 318653,
@@ -833,14 +857,6 @@
       "onboard_time": 1724633119,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 303186,
-      "num": 303186,
-      "word": "樊振东等23人拟记大功",
-      "onboard_time": 1724663904,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 302907,
@@ -996,7 +1012,7 @@
     },
     {
       "raw_hot": 239240,
-      "num": 287270,
+      "num": 398648,
       "word": "难哄OST官宣",
       "onboard_time": 1724659702,
       "rank": 26,
@@ -1073,14 +1089,6 @@
       "onboard_time": 1724629339,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 227450,
-      "num": 227450,
-      "word": "徐嘉余潘展乐被小朋友追着要签名",
-      "onboard_time": 1724662161,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 226854,
@@ -1291,12 +1299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201862,
-      "num": 201862,
-      "word": "乌克兰",
-      "onboard_time": 1724664081,
-      "rank": 40,
-      "category": "国外时政"
+      "raw_hot": 202231,
+      "num": 202231,
+      "word": "吉祥航空回应两女子把孩子关厕所教育",
+      "onboard_time": 1724664441,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200083,
@@ -1355,6 +1363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 188512,
+      "num": 188512,
+      "word": "英雄联盟13周年",
+      "onboard_time": 1724664382,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188326,
       "num": 188326,
       "word": "张博恒科目一学得怎么样",
@@ -1396,7 +1412,7 @@
     },
     {
       "raw_hot": 185389,
-      "num": 272557,
+      "num": 390997,
       "word": "藏海花",
       "onboard_time": 1724662280,
       "rank": 28,
@@ -1691,6 +1707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154915,
+      "num": 1760588,
+      "word": "你只需要带着录取通知书去大学",
+      "onboard_time": 1724661260,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154841,
       "num": 154841,
       "word": "颁奖时徐海博一直在准备与孙杨合照",
@@ -1875,14 +1899,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 128759,
-      "num": 1760588,
-      "word": "你只需要带着录取通知书去大学",
-      "onboard_time": 1724661260,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124655,
       "num": 124655,
       "word": "ZmjjKK获全球冠军赛FMVP",
@@ -1947,12 +1963,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88448,
+      "num": 654658,
+      "word": "专家谈异形吓坏8岁孩子家长投诉",
+      "onboard_time": 1724663000,
+      "rank": 13,
+      "category": "社会新闻,电影"
+    },
+    {
       "raw_hot": 77615,
       "num": 77615,
       "word": "小S女儿绘画作品参展",
       "onboard_time": 1724617751,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77562,
+      "num": 664866,
+      "word": "男子偷盗女友名牌包和金饰被刑拘",
+      "onboard_time": 1724663480,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77468,
@@ -2083,12 +2115,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56185,
-      "num": 664866,
-      "word": "男子偷盗女友名牌包和金饰被刑拘",
-      "onboard_time": 1724663480,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 56089,
+      "num": 658250,
+      "word": "余承东发布华为主视觉智驾",
+      "onboard_time": 1724660721,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 55562,
@@ -2115,28 +2147,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53000,
-      "num": 654658,
-      "word": "专家谈异形吓坏8岁孩子家长投诉",
-      "onboard_time": 1724663000,
-      "rank": 13,
-      "category": "社会新闻,电影"
-    },
-    {
       "raw_hot": 52229,
       "num": 628567,
       "word": "女子称整形后眼睛不能完全闭合",
       "onboard_time": 1724648363,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52135,
-      "num": 658250,
-      "word": "余承东发布华为主视觉智驾",
-      "onboard_time": 1724660721,
-      "rank": 47,
-      "category": "汽车"
     },
     {
       "raw_hot": 50458,
@@ -2212,7 +2228,7 @@
     },
     {
       "raw_hot": 45242,
-      "num": 168173,
+      "num": 565487,
       "word": "智界R7搭载华为旗舰黑科技",
       "onboard_time": 1724664020,
       "rank": 48,
@@ -2241,6 +2257,14 @@
       "onboard_time": 1724610192,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 38676,
+      "num": 614477,
+      "word": "男子坐自制泡沫浮板海钓漂流1天1夜",
+      "onboard_time": 1724663181,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36971,
@@ -2284,7 +2308,7 @@
     },
     {
       "raw_hot": 30669,
-      "num": 180124,
+      "num": 451241,
       "word": "问界新M7Pro标配华为智驾25万起",
       "onboard_time": 1724664020,
       "rank": 44,
@@ -2304,6 +2328,14 @@
       "word": "2024开始启动渐变色模式",
       "onboard_time": 1724641579,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27132,
+      "num": 652124,
+      "word": "有骑友平地速度超过40码",
+      "onboard_time": 1724663241,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2331,14 +2363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 24936,
-      "num": 614477,
-      "word": "男子坐自制泡沫浮板海钓漂流1天1夜",
-      "onboard_time": 1724663181,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24180,
       "num": 672361,
       "word": "暴雨大风强对流多预警齐发",
@@ -2360,14 +2384,6 @@
       "word": "一根琴弦的无限种可能",
       "onboard_time": 1724615532,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21937,
-      "num": 652124,
-      "word": "有骑友平地速度超过40码",
-      "onboard_time": 1724663241,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

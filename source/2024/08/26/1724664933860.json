@@ -1,0 +1,410 @@
+{
+  "runTime": 1724664933860,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2258455,
+        "num": 2258455,
+        "word": "黄子韬求婚徐艺洋",
+        "onboard_time": 1724645721,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1406034,
+        "num": 1406034,
+        "word": "樊振东 不上班是最好的医美",
+        "onboard_time": 1724662221,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154915,
+        "num": 1163895,
+        "word": "你只需要带着录取通知书去大学",
+        "onboard_time": 1724661260,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1125153,
+        "num": 1125153,
+        "word": "13岁男孩血尿医生取出20多颗磁力珠",
+        "onboard_time": 1724658742,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 905949,
+        "num": 905949,
+        "word": "女性结婚意愿远低于男性",
+        "onboard_time": 1724662161,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 835877,
+        "num": 835877,
+        "word": "陈梦回应佩戴定制首饰参赛",
+        "onboard_time": 1724657120,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 588698,
+        "num": 588698,
+        "word": "WTT票价",
+        "onboard_time": 1724660600,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 463817,
+        "num": 587653,
+        "word": "还我妈生吴邪",
+        "onboard_time": 1724651541,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77562,
+        "num": 584303,
+        "word": "男子偷盗女友名牌包和金饰被刑拘",
+        "onboard_time": 1724663480,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164782,
+        "num": 582508,
+        "word": "青岛卫健委回应当地公司开展代孕",
+        "onboard_time": 1724662703,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1535844,
+        "num": 580462,
+        "word": "飞机上两女子强行带孩子进厕所里教育",
+        "onboard_time": 1724658081,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56089,
+        "num": 578285,
+        "word": "余承东发布华为主视觉智驾",
+        "onboard_time": 1724660721,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 756972,
+        "num": 575663,
+        "word": "黄子韬kiss徐艺洋小鸡啄米",
+        "onboard_time": 1724660421,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 753067,
+        "num": 572487,
+        "word": "年轻女孩消耗身体赚钱卖卵十几次",
+        "onboard_time": 1724656341,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27132,
+        "num": 571591,
+        "word": "有骑友平地速度超过40码",
+        "onboard_time": 1724663241,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745849,
+        "num": 568645,
+        "word": "徐艺洋晒了好多未公开的秀恩爱画面",
+        "onboard_time": 1724656522,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38282,
+        "num": 565487,
+        "word": "智界R7搭载华为旗舰黑科技",
+        "onboard_time": 1724664020,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 637351,
+        "num": 562842,
+        "word": "我敢娶你 你敢答应我吗",
+        "onboard_time": 1724646263,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332519,
+        "num": 559756,
+        "word": "黄子韬求婚哭了",
+        "onboard_time": 1724646984,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38676,
+        "num": 559251,
+        "word": "男子坐自制泡沫浮板海钓漂流1天1夜",
+        "onboard_time": 1724663181,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 671350,
+        "num": 555971,
+        "word": "教练 我想走文化了",
+        "onboard_time": 1724658980,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 554599,
+        "num": 554599,
+        "word": "一天花掉一万五中产家长的迪士尼苦旅",
+        "onboard_time": 1724649803,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464349,
+        "num": 464349,
+        "word": "10年来结婚登记数腰斩",
+        "onboard_time": 1724657303,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462596,
+        "num": 462596,
+        "word": "留学生淘宝反向代购月入过万",
+        "onboard_time": 1724656162,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30504,
+        "num": 451241,
+        "word": "问界新M7Pro标配华为智驾25万起",
+        "onboard_time": 1724664020,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 441262,
+        "num": 441262,
+        "word": "樊振东等23人拟记大功",
+        "onboard_time": 1724663904,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 399368,
+        "num": 399368,
+        "word": "没票的时候就去12306撒撒娇",
+        "onboard_time": 1724652801,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217430,
+        "num": 398648,
+        "word": "难哄OST官宣",
+        "onboard_time": 1724659702,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169337,
+        "num": 390997,
+        "word": "藏海花",
+        "onboard_time": 1724662280,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162149,
+        "num": 384118,
+        "word": "国家一级演员王霙逝世",
+        "onboard_time": 1724655440,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88448,
+        "num": 376252,
+        "word": "专家谈异形吓坏8岁孩子家长投诉",
+        "onboard_time": 1724663000,
+        "rank": 30,
+        "category": "社会新闻,电影"
+      },
+      {
+        "raw_hot": 371042,
+        "num": 371042,
+        "word": "徐嘉余潘展乐被小朋友追着要签名",
+        "onboard_time": 1724662161,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 342226,
+        "num": 342226,
+        "word": "全红婵卖力给大乌龟擦背",
+        "onboard_time": 1724650641,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320299,
+        "num": 320299,
+        "word": "乌克兰",
+        "onboard_time": 1724664081,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 241012,
+        "num": 241012,
+        "word": "男子每天1斤炸花生米配可乐引发脑梗死",
+        "onboard_time": 1724651901,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220900,
+        "num": 220900,
+        "word": "俄对乌全境多地发动导弹袭击",
+        "onboard_time": 1724660182,
+        "rank": 35,
+        "category": "社会新闻,国外时政"
+      },
+      {
+        "raw_hot": 206797,
+        "num": 206797,
+        "word": "银牌小伙和偶像孙杨合影后秒换头像",
+        "onboard_time": 1724659762,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202957,
+        "num": 202957,
+        "word": "陈梦说腰伤期间开会都要申请站着",
+        "onboard_time": 1724658861,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202231,
+        "num": 202231,
+        "word": "吉祥航空回应两女子把孩子关厕所教育",
+        "onboard_time": 1724664441,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197991,
+        "num": 197991,
+        "word": "记者暗访号称北方最大地下代孕实验室",
+        "onboard_time": 1724651961,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196164,
+        "num": 196164,
+        "word": "乌克兰全境实施紧急停电",
+        "onboard_time": 1724654660,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 191983,
+        "num": 191983,
+        "word": "女子被榴莲咬脚杀伤力满级",
+        "onboard_time": 1724650641,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190776,
+        "num": 190776,
+        "word": "黑神话里的黄风岭是华科大",
+        "onboard_time": 1724661801,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188986,
+        "num": 188986,
+        "word": "爸爸养的猫已经25岁了",
+        "onboard_time": 1724648363,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188512,
+        "num": 188512,
+        "word": "英雄联盟13周年",
+        "onboard_time": 1724664382,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169165,
+        "num": 169165,
+        "word": "罗永浩真还传一共还了8.24亿",
+        "onboard_time": 1724644040,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 168682,
+        "num": 168682,
+        "word": "中医建议放下这些气血就恢复80%了",
+        "onboard_time": 1724655261,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142944,
+        "num": 153716,
+        "word": "曹璐自己掏钱让组合回归",
+        "onboard_time": 1724649563,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152553,
+        "num": 152553,
+        "word": "头鱼 困长",
+        "onboard_time": 1724657362,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150206,
+        "num": 150206,
+        "word": "华为发布智界R7",
+        "onboard_time": 1724661140,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习新语#"
+    }
+  }
+}
