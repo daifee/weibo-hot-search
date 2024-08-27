@@ -1,6 +1,6 @@
 {
   "startTime": 1724689640506,
-  "endTime": 1724736009480,
+  "endTime": 1724737016289,
   "band_list": [
     {
       "raw_hot": 4028084,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1366877,
+      "num": 1366877,
+      "word": "于正曝一线女演员接了一部超烂的戏",
+      "onboard_time": 1724733922,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1358109,
       "num": 826560,
       "word": "张峻豪TimeToHeal舞台",
@@ -195,12 +203,12 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 1224611,
-      "num": 1224611,
-      "word": "于正曝一线女演员接了一部超烂的戏",
-      "onboard_time": 1724733922,
-      "rank": 5,
-      "category": "剧集"
+      "raw_hot": 1181707,
+      "num": 1181707,
+      "word": "iPhone16相比15最大变化",
+      "onboard_time": 1724734404,
+      "rank": 10,
+      "category": "数码"
     },
     {
       "raw_hot": 1166975,
@@ -275,14 +283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 817193,
-      "num": 640075,
-      "word": "iPhone16相比15最大变化",
-      "onboard_time": 1724734404,
-      "rank": 10,
-      "category": "数码"
-    },
-    {
       "raw_hot": 787279,
       "num": 787279,
       "word": "当10岁105斤的女儿生病求抱抱",
@@ -305,6 +305,14 @@
       "onboard_time": 1724718019,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 722683,
+      "num": 722683,
+      "word": "雷军晒黑神话悟空实体版",
+      "onboard_time": 1724733863,
+      "rank": 12,
+      "category": "游戏,互联网"
     },
     {
       "raw_hot": 717308,
@@ -377,14 +385,6 @@
       "onboard_time": 1724716700,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 602319,
-      "num": 602319,
-      "word": "雷军晒黑神话悟空实体版",
-      "onboard_time": 1724733863,
-      "rank": 12,
-      "category": "游戏,互联网"
     },
     {
       "raw_hot": 595818,
@@ -523,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396995,
+      "num": 396995,
+      "word": "多闲鱼用户挂售霉菌引研究生破防",
+      "onboard_time": 1724734463,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393008,
       "num": 393008,
       "word": "iPhone16或涨价",
@@ -595,12 +603,12 @@
       "category": "综艺,综艺"
     },
     {
-      "raw_hot": 336525,
-      "num": 336525,
-      "word": "多闲鱼用户挂售霉菌引研究生破防",
-      "onboard_time": 1724734463,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 337230,
+      "num": 337230,
+      "word": "电影院座椅为什么普遍是红色的",
+      "onboard_time": 1724732963,
+      "rank": 42,
+      "category": "科学科普"
     },
     {
       "raw_hot": 325799,
@@ -643,12 +651,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 308667,
+      "num": 400130,
+      "word": "年轻版吴邪好像吴邪啊",
+      "onboard_time": 1724735302,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298550,
       "num": 298550,
       "word": "尔康 还我妈生伞",
       "onboard_time": 1724730982,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 290092,
+      "num": 290092,
+      "word": "崩坏星穹铁道新角色",
+      "onboard_time": 1724735364,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 290077,
@@ -675,14 +699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284848,
-      "num": 284848,
-      "word": "崩坏星穹铁道新角色",
-      "onboard_time": 1724735364,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 284845,
       "num": 284845,
       "word": "王俊凯 我们仨爆改我们朋友",
@@ -699,12 +715,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 280300,
-      "num": 280300,
-      "word": "电影院座椅为什么普遍是红色的",
-      "onboard_time": 1724732963,
-      "rank": 42,
-      "category": "科学科普"
+      "raw_hot": 283090,
+      "num": 283090,
+      "word": "韩高官称韩国人先辈是日本籍",
+      "onboard_time": 1724736681,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 271559,
@@ -811,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245653,
+      "num": 245653,
+      "word": "时代峰峻大合照站位",
+      "onboard_time": 1724736800,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245420,
       "num": 245420,
       "word": "官方介入调查6岁男童输液后身亡",
@@ -897,6 +921,14 @@
       "onboard_time": 1724716580,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 218338,
+      "num": 218338,
+      "word": "绯色回响",
+      "onboard_time": 1724735721,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 218221,
@@ -1009,14 +1041,6 @@
       "onboard_time": 1724665102,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 200672,
-      "num": 200672,
-      "word": "年轻版吴邪好像吴邪啊",
-      "onboard_time": 1724735302,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 200406,
@@ -1363,12 +1387,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 70580,
+      "num": 242448,
+      "word": "美特斯邦威是国外品牌吗",
+      "onboard_time": 1724736442,
+      "rank": 39,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 70391,
       "num": 96274,
       "word": "澳大利亚新法下班有权不接工作电话",
       "onboard_time": 1724704452,
       "rank": 46,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 69926,
+      "num": 390471,
+      "word": "胖东来三文鱼事件不存在内外勾结情况",
+      "onboard_time": 1724735123,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69382,
@@ -1416,6 +1456,14 @@
       "word": "全国新设立外商投资企业超3万家",
       "onboard_time": 1724728221,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55447,
+      "num": 796679,
+      "word": "博物馆免费门票为何能被炒出高价",
+      "onboard_time": 1724735483,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1475,11 +1523,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 44633,
-      "num": 390471,
-      "word": "胖东来三文鱼事件不存在内外勾结情况",
-      "onboard_time": 1724735123,
-      "rank": 19,
+      "raw_hot": 42410,
+      "num": 800455,
+      "word": "山东临沂短时强对流天气致3死7伤",
+      "onboard_time": 1724736201,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1499,11 +1547,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33524,
-      "num": 640467,
-      "word": "博物馆免费门票为何能被炒出高价",
-      "onboard_time": 1724735483,
-      "rank": 9,
+      "raw_hot": 32607,
+      "num": 300473,
+      "word": "这还是你认识的美特斯邦威么",
+      "onboard_time": 1724736500,
+      "rank": 31,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 30329,
+      "num": 577711,
+      "word": "山东东营罕见强降雨刷新极值",
+      "onboard_time": 1724736442,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1529,6 +1585,14 @@
       "onboard_time": 1724701571,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 28427,
+      "num": 556633,
+      "word": "代预约门票违法吗",
+      "onboard_time": 1724736141,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28056,
