@@ -1,6 +1,6 @@
 {
   "startTime": 1724775939795,
-  "endTime": 1724780130246,
+  "endTime": 1724783258258,
   "band_list": [
     {
       "raw_hot": 4036285,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224254,
+      "num": 177799,
+      "word": "工作人员清理散发臭味的爱豆待机室",
+      "onboard_time": 1724776877,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223697,
       "num": 223697,
       "word": "孙颖莎这张照片硬控我30秒",
@@ -203,12 +211,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177799,
-      "num": 177799,
-      "word": "工作人员清理散发臭味的爱豆待机室",
-      "onboard_time": 1724776877,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 184018,
+      "num": 122190,
+      "word": "代入徐艺洋视角后笑不出来",
+      "onboard_time": 1724781735,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 177202,
@@ -273,6 +281,14 @@
       "onboard_time": 1724759002,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149718,
+      "num": 149718,
+      "word": "广东夫妻生完2娃又喜提4胞胎",
+      "onboard_time": 1724780055,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140226,
@@ -347,14 +363,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 117650,
-      "num": 117650,
-      "word": "广东夫妻生完2娃又喜提4胞胎",
-      "onboard_time": 1724780055,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115779,
       "num": 115779,
       "word": "警方通报网红铁头被抓详情",
@@ -424,6 +432,30 @@
       "word": "官方通报男子献血8次不能优先用血",
       "onboard_time": 1724757502,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54038,
+      "num": 54038,
+      "word": "阴阳师八周年免费70抽",
+      "onboard_time": 1724782993,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 44777,
+      "num": 49959,
+      "word": "ENHYPEN首部网剧成员们的出场",
+      "onboard_time": 1724781135,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 29255,
+      "num": 124734,
+      "word": "调休没增加假期总量收假后还得还债",
+      "onboard_time": 1724781615,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
