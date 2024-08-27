@@ -1,6 +1,6 @@
 {
   "startTime": 1724689640506,
-  "endTime": 1724732835931,
+  "endTime": 1724733619258,
   "band_list": [
     {
       "raw_hot": 4028084,
@@ -131,10 +131,26 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1489198,
+      "num": 1489198,
+      "word": "周大福门店回应2米金箍棒售价180万",
+      "onboard_time": 1724731402,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1358109,
       "num": 826560,
       "word": "张峻豪TimeToHeal舞台",
       "onboard_time": 1724687786,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1341049,
+      "num": 1341049,
+      "word": "于贞 rapper塌男不塌女",
+      "onboard_time": 1724731103,
       "rank": 6,
       "category": "综艺"
     },
@@ -153,14 +169,6 @@
       "onboard_time": 1724719281,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1251467,
-      "num": 520981,
-      "word": "于贞 rapper塌男不塌女",
-      "onboard_time": 1724731103,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 1238646,
@@ -200,6 +208,14 @@
       "word": "4岁女孩随父母露营走失落水离世",
       "onboard_time": 1724716760,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1037964,
+      "num": 1037964,
+      "word": "爷爷沉迷手机孙子去河边洗玩具溺亡",
+      "onboard_time": 1724732002,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -299,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 661801,
+      "num": 850102,
+      "word": "TFBOYS祝TF三代成团快乐",
+      "onboard_time": 1724731161,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 647268,
       "num": 647268,
       "word": "边水往事 还我妈生清纯男大",
@@ -324,7 +348,7 @@
     },
     {
       "raw_hot": 595818,
-      "num": 747469,
+      "num": 841829,
       "word": "俄军再次空袭基辅",
       "onboard_time": 1724729240,
       "rank": 8,
@@ -339,20 +363,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 582616,
+      "num": 752930,
+      "word": "山西一血浆站被指引导学生多次捐血",
+      "onboard_time": 1724726001,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 566232,
+      "num": 566232,
+      "word": "这才是乙游玩家听的歌",
+      "onboard_time": 1724732362,
+      "rank": 34,
+      "category": "游戏,音乐"
+    },
+    {
       "raw_hot": 541989,
       "num": 541989,
       "word": "Steam一夜遭28万次攻击",
       "onboard_time": 1724694736,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 531693,
-      "num": 473947,
-      "word": "周大福门店回应2米金箍棒售价180万",
-      "onboard_time": 1724731402,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 521557,
@@ -379,35 +411,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 505923,
-      "num": 472616,
-      "word": "TFBOYS祝TF三代成团快乐",
-      "onboard_time": 1724731161,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 502713,
-      "num": 471589,
-      "word": "爷爷沉迷手机孙子去河边洗玩具溺亡",
-      "onboard_time": 1724732002,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 500495,
       "num": 500495,
       "word": "方便面为什么不好卖了",
       "onboard_time": 1724684483,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 476966,
-      "num": 752930,
-      "word": "山西一血浆站被指引导学生多次捐血",
-      "onboard_time": 1724726001,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -467,6 +475,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 397493,
+      "num": 473352,
+      "word": "科学分析调休为什么让人痛苦",
+      "onboard_time": 1724731103,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397201,
+      "num": 397201,
+      "word": "调休让三周双休变单休",
+      "onboard_time": 1724731223,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393008,
       "num": 393008,
       "word": "iPhone16或涨价",
@@ -499,14 +523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 386960,
-      "num": 356702,
-      "word": "这才是乙游玩家听的歌",
-      "onboard_time": 1724732362,
-      "rank": 34,
-      "category": "游戏,音乐"
-    },
-    {
       "raw_hot": 383660,
       "num": 383660,
       "word": "陈奕迅女儿恋情曝光",
@@ -523,20 +539,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367258,
+      "num": 367258,
+      "word": "儿子冒充父亲与母亲签字离婚",
+      "onboard_time": 1724733084,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356104,
       "num": 356104,
       "word": "王鹤润一下子就把张大大的嘴撮住了",
       "onboard_time": 1724731343,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 351308,
-      "num": 351308,
-      "word": "调休让三周双休变单休",
-      "onboard_time": 1724731223,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 344058,
@@ -595,12 +611,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 298550,
+      "num": 298550,
+      "word": "尔康 还我妈生伞",
+      "onboard_time": 1724730982,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 290077,
       "num": 290077,
       "word": "时代峰峻",
       "onboard_time": 1724724740,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 288271,
+      "num": 708966,
+      "word": "泰国坠机遇难者为两家好友",
+      "onboard_time": 1724728640,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285195,
@@ -625,6 +657,14 @@
       "onboard_time": 1724678241,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 271559,
+      "num": 271559,
+      "word": "郑钦文白鲸回击",
+      "onboard_time": 1724730563,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 269158,
@@ -707,12 +747,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 246144,
-      "num": 246144,
-      "word": "郑钦文白鲸回击",
-      "onboard_time": 1724730563,
-      "rank": 41,
-      "category": "体育"
+      "raw_hot": 246448,
+      "num": 473399,
+      "word": "坠落星夜定了吴谨言王星越",
+      "onboard_time": 1724729060,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 245420,
@@ -723,12 +763,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 243240,
-      "num": 243240,
-      "word": "尔康 还我妈生伞",
-      "onboard_time": 1724730982,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 244516,
+      "num": 244516,
+      "word": "电影院座椅为什么普遍是红色的",
+      "onboard_time": 1724732963,
+      "rank": 42,
+      "category": "科学科普"
     },
     {
       "raw_hot": 243152,
@@ -755,14 +795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 241601,
-      "num": 473399,
-      "word": "坠落星夜定了吴谨言王星越",
-      "onboard_time": 1724729060,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 238815,
       "num": 238815,
       "word": "朱志鑫听爸爸留言哭了",
@@ -771,16 +803,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 237410,
-      "num": 708966,
-      "word": "泰国坠机遇难者为两家好友",
-      "onboard_time": 1724728640,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 236819,
-      "num": 362329,
+      "num": 397206,
       "word": "清水英男在日本举行记者会",
       "onboard_time": 1724723422,
       "rank": 29,
@@ -907,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204840,
+      "num": 204840,
+      "word": "王俊凯听葛优说不相信奥特曼的反应",
+      "onboard_time": 1724732902,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201691,
       "num": 258812,
       "word": "三甲医院医生非法代孕被发现直呼完了",
@@ -945,6 +977,14 @@
       "onboard_time": 1724672120,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190200,
+      "num": 190200,
+      "word": "林依轮我爸的年纪我的穿搭",
+      "onboard_time": 1724733563,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 181782,
@@ -1123,6 +1163,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 109639,
+      "num": 474798,
+      "word": "博物馆生僻字能不能标上拼音",
+      "onboard_time": 1724731464,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107081,
+      "num": 824534,
+      "word": "网站高管开发追剧app非法获利近4亿",
+      "onboard_time": 1724732181,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96842,
       "num": 96842,
       "word": "中介公司回应员工把孩子关厕所教育",
@@ -1155,19 +1211,19 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 84775,
-      "num": 473352,
-      "word": "科学分析调休为什么让人痛苦",
-      "onboard_time": 1724731103,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 82980,
       "num": 247212,
       "word": "22城市试点房屋养老金等三项制度",
       "onboard_time": 1724730802,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80066,
+      "num": 664447,
+      "word": "烟台海肠捞饭月售万份",
+      "onboard_time": 1724730321,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1180,7 +1236,7 @@
     },
     {
       "raw_hot": 78465,
-      "num": 360819,
+      "num": 570875,
       "word": "四方馆镜头诡学",
       "onboard_time": 1724731522,
       "rank": 30,
@@ -1209,14 +1265,6 @@
       "onboard_time": 1724714236,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 72492,
-      "num": 474798,
-      "word": "博物馆生僻字能不能标上拼音",
-      "onboard_time": 1724731464,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71678,
@@ -1251,14 +1299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 64717,
-      "num": 475586,
-      "word": "烟台海肠捞饭月售万份",
-      "onboard_time": 1724730321,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 61025,
       "num": 357362,
       "word": "携号转网意外发现不知情合约",
@@ -1284,18 +1324,10 @@
     },
     {
       "raw_hot": 56897,
-      "num": 936015,
+      "num": 1373598,
       "word": "全国新设立外商投资企业超3万家",
       "onboard_time": 1724728221,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55125,
-      "num": 476244,
-      "word": "网站高管开发追剧app非法获利近4亿",
-      "onboard_time": 1724732181,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1355,19 +1387,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35582,
+      "num": 546357,
+      "word": "游客质疑普通人在兵马俑租轮椅免排队",
+      "onboard_time": 1724732543,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35282,
       "num": 332195,
       "word": "澳洲立法下班后工作公司罚款63000美元",
       "onboard_time": 1724726781,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30702,
-      "num": 472204,
-      "word": "游客质疑普通人在兵马俑租轮椅免排队",
-      "onboard_time": 1724732543,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1400,6 +1432,14 @@
       "word": "斩断回流药黑色产业链守好救命钱",
       "onboard_time": 1724703432,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27220,
+      "num": 656019,
+      "word": "卧底招转培机构揭秘骗局内幕",
+      "onboard_time": 1724733143,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
