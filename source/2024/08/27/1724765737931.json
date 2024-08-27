@@ -1,0 +1,410 @@
+{
+  "runTime": 1724765737931,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11712103,
+        "num": 11712103,
+        "word": "宋祖儿工作室声明",
+        "onboard_time": 1724761283,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 836061,
+        "num": 836061,
+        "word": "樊振东陈梦退出WTT中国大满贯",
+        "onboard_time": 1724758582,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48462,
+        "num": 812946,
+        "word": "中国网络文明大会未来之夜",
+        "onboard_time": 1724763385,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2214016,
+        "num": 812918,
+        "word": "折腰速抬",
+        "onboard_time": 1724763444,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 812647,
+        "num": 812647,
+        "word": "大妈狂买1斤黄金不挑款店员报警",
+        "onboard_time": 1724739621,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471362,
+        "num": 471362,
+        "word": "官方通报男子献血8次不能优先用血",
+        "onboard_time": 1724757502,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688222,
+        "num": 468760,
+        "word": "男rapper 有点东西",
+        "onboard_time": 1724763745,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 465348,
+        "num": 465348,
+        "word": "许昕收藏了马龙的签名拍",
+        "onboard_time": 1724764884,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53240,
+        "num": 463680,
+        "word": "建议改进调休凑假模式",
+        "onboard_time": 1724765544,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60005,
+        "num": 458605,
+        "word": "中美在北京开始举行新一轮战略沟通",
+        "onboard_time": 1724765485,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2717800,
+        "num": 455835,
+        "word": "凌晨出道 下午塌房",
+        "onboard_time": 1724758040,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45783,
+        "num": 451638,
+        "word": "烟台海肠捞饭到底是啥味",
+        "onboard_time": 1724763863,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1811743,
+        "num": 443160,
+        "word": "上6休3上3休2上5休1上2休7再上5休1",
+        "onboard_time": 1724745621,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34881,
+        "num": 439453,
+        "word": "济南女子称从银行取到3万元练功钞",
+        "onboard_time": 1724765424,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60192,
+        "num": 434836,
+        "word": "B太说去烟台吃了海肠捞饭",
+        "onboard_time": 1724763624,
+        "rank": 14,
+        "category": "网红,美食"
+      },
+      {
+        "raw_hot": 433671,
+        "num": 433671,
+        "word": "于正 杨蓉在享受生活",
+        "onboard_time": 1724762124,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464240,
+        "num": 429959,
+        "word": "上海侦破33年前杀人案",
+        "onboard_time": 1724760323,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400537,
+        "num": 400537,
+        "word": "王楚钦这是采访啊",
+        "onboard_time": 1724753483,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 365722,
+        "num": 365722,
+        "word": "无忧渡",
+        "onboard_time": 1724764705,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 362221,
+        "num": 362221,
+        "word": "痞老板 乙游",
+        "onboard_time": 1724765305,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 650841,
+        "num": 361086,
+        "word": "建议女生洗完头不要包头发",
+        "onboard_time": 1724756720,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 605231,
+        "num": 360429,
+        "word": "黄子韬守孝三年不公布喜事",
+        "onboard_time": 1724750602,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358176,
+        "num": 358176,
+        "word": "警方通报网红铁头被抓详情",
+        "onboard_time": 1724761764,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 346026,
+        "num": 346026,
+        "word": "女子患痔疮中医从嘴里治疗",
+        "onboard_time": 1724745501,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308777,
+        "num": 308777,
+        "word": "13岁男孩凌晨在家摔成脾破裂",
+        "onboard_time": 1724762243,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308426,
+        "num": 308426,
+        "word": "网红铁头涉嫌敲诈勒索罪",
+        "onboard_time": 1724758221,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 305268,
+        "num": 305268,
+        "word": "王楚钦逛吃逛吃",
+        "onboard_time": 1724764884,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304296,
+        "num": 304296,
+        "word": "穆祉丞 被关麦",
+        "onboard_time": 1724748081,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296054,
+        "num": 296054,
+        "word": "原来流浪猫的凶都是装出来的",
+        "onboard_time": 1724761584,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 271783,
+        "num": 271783,
+        "word": "守护于贞",
+        "onboard_time": 1724763863,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266780,
+        "num": 266780,
+        "word": "山东烟台科技学院回应宿舍甲醛超标",
+        "onboard_time": 1724760983,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261443,
+        "num": 261443,
+        "word": "孙颖莎这张照片硬控我30秒",
+        "onboard_time": 1724764585,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300923,
+        "num": 259273,
+        "word": "穆祉丞 没有热爱了",
+        "onboard_time": 1724759002,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252584,
+        "num": 252584,
+        "word": "但拓差点救活貌巴",
+        "onboard_time": 1724752640,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249385,
+        "num": 249385,
+        "word": "妈妈想陪抑郁症儿子换个活法再来一次",
+        "onboard_time": 1724764884,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237282,
+        "num": 237282,
+        "word": "孙颖莎上台演讲",
+        "onboard_time": 1724755221,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222763,
+        "num": 222763,
+        "word": "老人自己摔倒诬陷殴打扶人少年被拘",
+        "onboard_time": 1724765485,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221537,
+        "num": 221537,
+        "word": "女子商场试鞋脚部真菌感染",
+        "onboard_time": 1724763624,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217127,
+        "num": 217127,
+        "word": "上班不许吃同事",
+        "onboard_time": 1724764825,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204256,
+        "num": 204256,
+        "word": "韩网友竟称西游记作者是韩国人",
+        "onboard_time": 1724741782,
+        "rank": 39,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 33104,
+        "num": 201333,
+        "word": "全新电动MINIACEMAN上市",
+        "onboard_time": 1724764945,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 200725,
+        "num": 200725,
+        "word": "周鸿祎称新能源出海沾西游记的光",
+        "onboard_time": 1724764884,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 200147,
+        "num": 200147,
+        "word": "李乃文 我不抽烟的",
+        "onboard_time": 1724756602,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199732,
+        "num": 199732,
+        "word": "姚润昊硬气了",
+        "onboard_time": 1724754261,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195430,
+        "num": 195430,
+        "word": "没挣24小时工资就不该全天待命",
+        "onboard_time": 1724763564,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115697,
+        "num": 194241,
+        "word": "多名学生反映宿舍甲醛超标身体不适",
+        "onboard_time": 1724763624,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194066,
+        "num": 194066,
+        "word": "戴向宇呼吁不要过于妖魔化娱乐圈",
+        "onboard_time": 1724760143,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191374,
+        "num": 191374,
+        "word": "黑神话悟空 最高级的文宣",
+        "onboard_time": 1724765305,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190755,
+        "num": 190755,
+        "word": "何超莲晒化妆前后对比图",
+        "onboard_time": 1724763325,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186952,
+        "num": 186952,
+        "word": "京城大师赛",
+        "onboard_time": 1724765725,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同建设网上精神家园习近平这样强调#"
+    }
+  }
+}
