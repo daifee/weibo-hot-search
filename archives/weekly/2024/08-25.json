@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724737016289,
+  "endTime": 1724740136379,
   "band_list": [
     {
       "raw_hot": 14208627,
@@ -137,6 +137,14 @@
       "onboard_time": 1724715618,
       "rank": 0,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 2489785,
+      "num": 2489785,
+      "word": "奶奶全程允许陌生女子厕所教育孙女",
+      "onboard_time": 1724737041,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2449036,
@@ -297,6 +305,14 @@
       "onboard_time": 1724692997,
       "rank": 11,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 1833056,
+      "num": 1833056,
+      "word": "黄磊孙莉送黄多多美国留学",
+      "onboard_time": 1724737521,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1832148,
@@ -1035,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 916157,
+      "num": 916157,
+      "word": "韩高官称韩国人先辈是日本籍",
+      "onboard_time": 1724736681,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 910207,
       "num": 910207,
       "word": "邱贻可直播",
@@ -1443,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 694292,
+      "num": 694292,
+      "word": "边水往事 删减",
+      "onboard_time": 1724738240,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 693676,
       "num": 693676,
       "word": "游客闯进全红婵爷爷家被微笑劝退",
@@ -1651,12 +1683,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 611692,
+      "num": 888737,
+      "word": "多闲鱼用户挂售霉菌引研究生破防",
+      "onboard_time": 1724734463,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 611073,
       "num": 611073,
       "word": "孙杨教练一开始只盼他能达标",
       "onboard_time": 1724595143,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 610910,
+      "num": 610910,
+      "word": "梁源回应要起诉乙游粉丝",
+      "onboard_time": 1724738722,
+      "rank": 15,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 609003,
@@ -1705,6 +1753,14 @@
       "onboard_time": 1724637739,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 588905,
+      "num": 588905,
+      "word": "登陆计划回应传闻",
+      "onboard_time": 1724737701,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 588824,
@@ -2011,6 +2067,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 478874,
+      "num": 478874,
+      "word": "男子7天无理由退货半年退手机77次",
+      "onboard_time": 1724738961,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 476735,
       "num": 476735,
       "word": "孙杨泪洒决赛",
@@ -2057,6 +2121,14 @@
       "onboard_time": 1724589380,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 464243,
+      "num": 464243,
+      "word": "带77万现金买房被抢第二天才报警",
+      "onboard_time": 1724738722,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 464176,
@@ -2121,6 +2193,14 @@
       "onboard_time": 1724574619,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 455868,
+      "num": 880877,
+      "word": "男子住酒店醒来发现整层楼都被拆了",
+      "onboard_time": 1724738001,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 453915,
@@ -2339,6 +2419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 404325,
+      "num": 404325,
+      "word": "赵丽颖带儿子想想逛商场",
+      "onboard_time": 1724738001,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 403585,
       "num": 403585,
       "word": "允载允荷明年结婚",
@@ -2376,14 +2464,6 @@
       "word": "调休让三周双休变单休",
       "onboard_time": 1724731223,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 396995,
-      "num": 396995,
-      "word": "多闲鱼用户挂售霉菌引研究生破防",
-      "onboard_time": 1724734463,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -2563,6 +2643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 365847,
+      "num": 365847,
+      "word": "TOP登陆少年或将录制hi6",
+      "onboard_time": 1724738481,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357050,
       "num": 357050,
       "word": "CPA会计",
@@ -2601,6 +2689,14 @@
       "onboard_time": 1724594362,
       "rank": 37,
       "category": "网红"
+    },
+    {
+      "raw_hot": 351787,
+      "num": 615856,
+      "word": "大妈狂买1斤黄金不挑款店员报警",
+      "onboard_time": 1724739621,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 350051,
@@ -2867,6 +2963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 309607,
+      "num": 309607,
+      "word": "我家那闺女",
+      "onboard_time": 1724738542,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 308667,
       "num": 400130,
       "word": "年轻版吴邪好像吴邪啊",
@@ -2953,6 +3057,14 @@
       "onboard_time": 1724637859,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300865,
+      "num": 300865,
+      "word": "时代峰峻大合照站位",
+      "onboard_time": 1724736800,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 300850,
@@ -3144,14 +3256,6 @@
       "word": "乌克兰全境多地发生爆炸",
       "onboard_time": 1724656104,
       "rank": 26,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 283090,
-      "num": 283090,
-      "word": "韩高官称韩国人先辈是日本籍",
-      "onboard_time": 1724736681,
-      "rank": 35,
       "category": "国外时政"
     },
     {
@@ -3387,6 +3491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259898,
+      "num": 259898,
+      "word": "剑网3回应被指骗方案",
+      "onboard_time": 1724738363,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 258212,
       "num": 258212,
       "word": "唐僧 最早的二手烟受害者",
@@ -3585,14 +3697,6 @@
       "onboard_time": 1724729060,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 245653,
-      "num": 245653,
-      "word": "时代峰峻大合照站位",
-      "onboard_time": 1724736800,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 245420,
@@ -4243,6 +4347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 213640,
+      "num": 213640,
+      "word": "网传杨紫刘宇宁出演家业",
+      "onboard_time": 1724739381,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213593,
       "num": 436197,
       "word": "口水战从庆余年吵到了四方馆",
@@ -4627,6 +4739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201895,
+      "num": 201895,
+      "word": "WTT 开盲盒",
+      "onboard_time": 1724739561,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201852,
       "num": 257389,
       "word": "陪哭的含金量只有女生能懂",
@@ -4673,6 +4793,14 @@
       "onboard_time": 1724681003,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200271,
+      "num": 200271,
+      "word": "周琦和北京首钢完成签约",
+      "onboard_time": 1724740100,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 200116,
@@ -6267,6 +6395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138932,
+      "num": 575535,
+      "word": "细狗回应没文化物质遗产",
+      "onboard_time": 1724738902,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138459,
       "num": 702149,
       "word": "曲江文旅上半年亏1.87亿",
@@ -6619,6 +6755,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 107668,
+      "num": 852156,
+      "word": "美特斯邦威是国外品牌吗",
+      "onboard_time": 1724736442,
+      "rank": 39,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 107240,
       "num": 3061010,
       "word": "雨天出门千万要注意的小事",
@@ -6648,6 +6792,14 @@
       "word": "柳眠棠嘴硬心软",
       "onboard_time": 1724564242,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 102557,
+      "num": 289501,
+      "word": "檀健次元莫大男主光环",
+      "onboard_time": 1724738663,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -6699,6 +6851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 88634,
+      "num": 470454,
+      "word": "这还是你认识的美特斯邦威么",
+      "onboard_time": 1724736500,
+      "rank": 31,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 88448,
       "num": 654658,
       "word": "专家谈异形吓坏8岁孩子家长投诉",
@@ -6728,6 +6888,14 @@
       "word": "出伏后秋老虎和瞌睡虫都要来了",
       "onboard_time": 1724517499,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83361,
+      "num": 360486,
+      "word": "部分青少年滥用镇咳药成瘾",
+      "onboard_time": 1724738182,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -6873,14 +7041,6 @@
       "onboard_time": 1724569220,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 70580,
-      "num": 242448,
-      "word": "美特斯邦威是国外品牌吗",
-      "onboard_time": 1724736442,
-      "rank": 39,
-      "category": "时尚"
     },
     {
       "raw_hot": 70391,
@@ -7379,6 +7539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 46420,
+      "num": 532444,
+      "word": "2040年近8成房屋进入中老年",
+      "onboard_time": 1724738663,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45711,
       "num": 59231,
       "word": "迪丽热巴高马尾比耶",
@@ -7619,20 +7787,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 34024,
+      "num": 360937,
+      "word": "比亚迪华为联合开发方程豹智驾方案",
+      "onboard_time": 1724737701,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 33164,
       "num": 395460,
       "word": "女性走进心理咨询室未必是病了",
       "onboard_time": 1724649261,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32607,
-      "num": 300473,
-      "word": "这还是你认识的美特斯邦威么",
-      "onboard_time": 1724736500,
-      "rank": 31,
-      "category": "时尚"
     },
     {
       "raw_hot": 31536,
