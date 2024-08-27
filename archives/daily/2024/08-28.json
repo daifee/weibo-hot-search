@@ -1,6 +1,6 @@
 {
   "startTime": 1724775939795,
-  "endTime": 1724797312577,
+  "endTime": 1724798355630,
   "band_list": [
     {
       "raw_hot": 4036285,
@@ -75,19 +75,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 618942,
+      "num": 618942,
+      "word": "男子献血8次不能优先用血多人被处分",
+      "onboard_time": 1724786713,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 471048,
       "num": 471048,
       "word": "取得这些职业资格证书可享个税扣除",
       "onboard_time": 1724770824,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 452587,
-      "num": 452587,
-      "word": "男子献血8次不能优先用血多人被处分",
-      "onboard_time": 1724786713,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325185,
+      "num": 325185,
+      "word": "广东夫妻生完2娃又喜提4胞胎",
+      "onboard_time": 1724780055,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323719,
       "num": 323719,
       "word": "恋与制作人",
@@ -175,14 +183,6 @@
       "num": 231672,
       "word": "教体局回应生3胎选调教师可加分",
       "onboard_time": 1724772324,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231167,
-      "num": 231167,
-      "word": "广东夫妻生完2娃又喜提4胞胎",
-      "onboard_time": 1724780055,
       "rank": 24,
       "category": "社会新闻"
     },
@@ -225,6 +225,14 @@
       "onboard_time": 1724768185,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196356,
+      "num": 166235,
+      "word": "警方通报网红铁头被抓详情",
+      "onboard_time": 1724761764,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 189915,
@@ -289,14 +297,6 @@
       "onboard_time": 1724768785,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 153301,
-      "num": 115837,
-      "word": "警方通报网红铁头被抓详情",
-      "onboard_time": 1724761764,
-      "rank": 45,
-      "category": "网红"
     },
     {
       "raw_hot": 152582,
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62208,
+      "num": 125723,
+      "word": "官方回应高校学生称新宿舍气味刺鼻",
+      "onboard_time": 1724794811,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58152,
       "num": 126350,
       "word": "调休没增加假期总量收假后还得还债",
@@ -475,28 +483,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 33835,
-      "num": 35976,
+      "raw_hot": 39569,
+      "num": 45948,
+      "word": "业主投诉大量公租房闲置10多年",
+      "onboard_time": 1724792832,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38441,
+      "num": 45943,
       "word": "外交部驳斥菲律宾无端指责",
       "onboard_time": 1724793491,
       "rank": 49,
       "category": "国内时政"
     },
     {
-      "raw_hot": 30636,
-      "num": 45030,
+      "raw_hot": 32610,
+      "num": 55900,
       "word": "菜菜 我是来赚经费的",
       "onboard_time": 1724768665,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 28814,
-      "num": 35976,
-      "word": "业主投诉大量公租房闲置10多年",
-      "onboard_time": 1724792832,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27518,
@@ -505,6 +513,14 @@
       "onboard_time": 1724789411,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25475,
+      "num": 45864,
+      "word": "吃饭偶遇张予曦",
+      "onboard_time": 1724797634,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 20349,
@@ -516,23 +532,15 @@
     },
     {
       "raw_hot": 19204,
-      "num": 377638,
+      "num": 558284,
       "word": "现实版的黄河之水天上来",
       "onboard_time": 1724762724,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17980,
-      "num": 125723,
-      "word": "官方回应高校学生称新宿舍气味刺鼻",
-      "onboard_time": 1724794811,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12590,
-      "num": 26641,
+      "raw_hot": 12754,
+      "num": 174701,
       "word": "在浙江看病主打一个全程免费陪伴",
       "onboard_time": 1724792291,
       "rank": 39,
