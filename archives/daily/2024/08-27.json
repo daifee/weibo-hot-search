@@ -1,6 +1,6 @@
 {
   "startTime": 1724689640506,
-  "endTime": 1724728969108,
+  "endTime": 1724729824763,
   "band_list": [
     {
       "raw_hot": 4028084,
@@ -107,8 +107,8 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 1400708,
-      "num": 1400708,
+      "raw_hot": 1501311,
+      "num": 1501311,
       "word": "新疆塔克拉玛干沙漠发洪水",
       "onboard_time": 1724725280,
       "rank": 18,
@@ -153,6 +153,14 @@
       "onboard_time": 1724716760,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1159616,
+      "num": 734856,
+      "word": "乙游尺度",
+      "onboard_time": 1724727441,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 1144483,
@@ -227,14 +235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 734856,
-      "num": 734856,
-      "word": "乙游尺度",
-      "onboard_time": 1724727441,
-      "rank": 12,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 734249,
       "num": 734249,
       "word": "连云港一河道旁发现无名女尸",
@@ -249,6 +249,14 @@
       "onboard_time": 1724718019,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 717308,
+      "num": 717308,
+      "word": "哈圈 没腰硬撑",
+      "onboard_time": 1724727802,
+      "rank": 23,
+      "category": "音乐,游戏"
     },
     {
       "raw_hot": 691350,
@@ -307,14 +315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 542849,
-      "num": 542849,
-      "word": "哈圈 没腰硬撑",
-      "onboard_time": 1724727802,
-      "rank": 23,
-      "category": "音乐,游戏"
-    },
-    {
       "raw_hot": 541989,
       "num": 541989,
       "word": "Steam一夜遭28万次攻击",
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 471236,
+      "num": 471236,
+      "word": "黄子韬身上纹了徐艺洋名字和生日",
+      "onboard_time": 1724729301,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 470407,
       "num": 470407,
       "word": "左邓",
@@ -369,6 +377,14 @@
       "onboard_time": 1724720722,
       "rank": 26,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 467730,
+      "num": 752930,
+      "word": "山西一血浆站被指引导学生多次捐血",
+      "onboard_time": 1724726001,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 441435,
@@ -411,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 393008,
+      "num": 393008,
+      "word": "iPhone16或涨价",
+      "onboard_time": 1724725941,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 391338,
       "num": 332189,
       "word": "穆祉丞崩溃",
@@ -451,28 +475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 367402,
-      "num": 752930,
-      "word": "山西一血浆站被指引导学生多次捐血",
-      "onboard_time": 1724726001,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 344058,
       "num": 344058,
       "word": "调休",
       "onboard_time": 1724723121,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 342706,
-      "num": 342706,
-      "word": "iPhone16或涨价",
-      "onboard_time": 1724725941,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 341909,
@@ -603,6 +611,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 257333,
+      "num": 257333,
+      "word": "郑钦文回应逆转晋级",
+      "onboard_time": 1724729181,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249533,
       "num": 259119,
       "word": "蒋奇明 上桌",
@@ -681,6 +697,14 @@
       "onboard_time": 1724688326,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226934,
+      "num": 226934,
+      "word": "坠落星夜定了吴谨言王星越",
+      "onboard_time": 1724729060,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 225702,
@@ -939,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132448,
+      "num": 743176,
+      "word": "6万境外游学团孩子们坐路边玩手机",
+      "onboard_time": 1724728281,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131966,
       "num": 257988,
       "word": "苏新皓 我得救了",
@@ -1001,14 +1033,6 @@
       "onboard_time": 1724599282,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 95238,
-      "num": 743176,
-      "word": "6万境外游学团孩子们坐路边玩手机",
-      "onboard_time": 1724728281,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91935,
@@ -1092,7 +1116,7 @@
     },
     {
       "raw_hot": 63303,
-      "num": 606502,
+      "num": 708966,
       "word": "泰国坠机遇难者为两家好友",
       "onboard_time": 1724728640,
       "rank": 13,
@@ -1113,6 +1137,14 @@
       "onboard_time": 1724696234,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 54927,
+      "num": 705165,
+      "word": "烟台海肠捞饭吃到上头",
+      "onboard_time": 1724727620,
+      "rank": 14,
+      "category": "美食"
     },
     {
       "raw_hot": 53372,
@@ -1139,6 +1171,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50002,
+      "num": 936015,
+      "word": "全国新设立外商投资企业超3万家",
+      "onboard_time": 1724728221,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48696,
+      "num": 747469,
+      "word": "俄军再次空袭基辅",
+      "onboard_time": 1724729240,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 48469,
       "num": 146547,
       "word": "多地发文揭批新形象工程",
@@ -1161,22 +1209,6 @@
       "onboard_time": 1724697314,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 36608,
-      "num": 936015,
-      "word": "全国新设立外商投资企业超3万家",
-      "onboard_time": 1724728221,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35609,
-      "num": 584699,
-      "word": "烟台海肠捞饭吃到上头",
-      "onboard_time": 1724727620,
-      "rank": 14,
-      "category": "美食"
     },
     {
       "raw_hot": 35282,
