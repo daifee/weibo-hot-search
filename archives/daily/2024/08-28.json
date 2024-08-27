@@ -1,0 +1,411 @@
+{
+  "startTime": 1724775939795,
+  "endTime": 1724775939795,
+  "band_list": [
+    {
+      "raw_hot": 4036285,
+      "num": 4036285,
+      "word": "宋祖儿工作室声明",
+      "onboard_time": 1724761283,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1559456,
+      "num": 1559456,
+      "word": "女子172cm100斤确诊营养不良型肥胖",
+      "onboard_time": 1724770224,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1257105,
+      "num": 411394,
+      "word": "凌晨出道 下午塌房",
+      "onboard_time": 1724758040,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1232794,
+      "num": 1232794,
+      "word": "雪梨",
+      "onboard_time": 1724774780,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 1036204,
+      "num": 296635,
+      "word": "痞老板 乙游",
+      "onboard_time": 1724765305,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 942739,
+      "num": 422570,
+      "word": "折腰速抬",
+      "onboard_time": 1724763444,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 731120,
+      "num": 408011,
+      "word": "落地成盒",
+      "onboard_time": 1724773883,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 696966,
+      "num": 419110,
+      "word": "宋祖儿 喜天",
+      "onboard_time": 1724766383,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 695179,
+      "num": 405111,
+      "word": "上6休3上3休2上5休1上2休7再上5休1",
+      "onboard_time": 1724745621,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 471048,
+      "num": 471048,
+      "word": "取得这些职业资格证书可享个税扣除",
+      "onboard_time": 1724770824,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 423430,
+      "num": 423430,
+      "word": "大妈狂买1斤黄金不挑款店员报警",
+      "onboard_time": 1724739621,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415089,
+      "num": 415089,
+      "word": "妈妈想陪抑郁症儿子换个活法再来一次",
+      "onboard_time": 1724764884,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402249,
+      "num": 402249,
+      "word": "WTT中国大满贯宣传片内容引争议",
+      "onboard_time": 1724770464,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 384604,
+      "num": 295418,
+      "word": "建议女生洗完头不要包头发",
+      "onboard_time": 1724756720,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 340378,
+      "num": 340378,
+      "word": "警方介入网贷60万打赏后送外卖还债",
+      "onboard_time": 1724770584,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323719,
+      "num": 323719,
+      "word": "恋与制作人",
+      "onboard_time": 1724767706,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 319331,
+      "num": 319331,
+      "word": "戒尺还给老师才是真正对孩子负责",
+      "onboard_time": 1724771246,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313863,
+      "num": 313863,
+      "word": "初中女生举报被男教师骚扰引诱",
+      "onboard_time": 1724769023,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290500,
+      "num": 290500,
+      "word": "黄子韬守孝三年不公布喜事",
+      "onboard_time": 1724750602,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 273883,
+      "num": 273883,
+      "word": "男rapper 有点东西",
+      "onboard_time": 1724763745,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 231672,
+      "num": 231672,
+      "word": "教体局回应生3胎选调教师可加分",
+      "onboard_time": 1724772324,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223697,
+      "num": 223697,
+      "word": "孙颖莎这张照片硬控我30秒",
+      "onboard_time": 1724764585,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 221574,
+      "num": 221574,
+      "word": "第一次见四人栋的宿舍",
+      "onboard_time": 1724772144,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 216237,
+      "num": 310469,
+      "word": "于贞 女王",
+      "onboard_time": 1724768185,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 177202,
+      "num": 177202,
+      "word": "樊振东陈梦退出WTT中国大满贯",
+      "onboard_time": 1724758582,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 167640,
+      "num": 167640,
+      "word": "黑神话悟空 最高级的文宣",
+      "onboard_time": 1724765305,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 166253,
+      "num": 166253,
+      "word": "丑衣服别扔留着上班穿",
+      "onboard_time": 1724772083,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 165843,
+      "num": 165843,
+      "word": "女子商场试鞋脚部真菌感染",
+      "onboard_time": 1724763624,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162709,
+      "num": 304869,
+      "word": "守护于贞",
+      "onboard_time": 1724763863,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 159574,
+      "num": 159574,
+      "word": "警方通报网传两名外国人打中国人",
+      "onboard_time": 1724768365,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159553,
+      "num": 171015,
+      "word": "王栎鑫这伞有点暧昧了",
+      "onboard_time": 1724768785,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 157793,
+      "num": 413671,
+      "word": "老人自己摔倒诬陷殴打扶人少年被拘",
+      "onboard_time": 1724765485,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152582,
+      "num": 152582,
+      "word": "穆祉丞 没有热爱了",
+      "onboard_time": 1724759002,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 137813,
+      "num": 169149,
+      "word": "柳舟记剧粉从前vs现在",
+      "onboard_time": 1724773522,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 133406,
+      "num": 133406,
+      "word": "济南女子称从银行取到3万元练功钞",
+      "onboard_time": 1724765424,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132913,
+      "num": 132913,
+      "word": "上海侦破33年前杀人案",
+      "onboard_time": 1724760323,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131909,
+      "num": 131909,
+      "word": "派克特删除diss",
+      "onboard_time": 1724715618,
+      "rank": 37,
+      "category": "音乐,游戏"
+    },
+    {
+      "raw_hot": 131321,
+      "num": 131321,
+      "word": "许昕收藏了马龙的签名拍",
+      "onboard_time": 1724764884,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 123310,
+      "num": 123310,
+      "word": "穆祉丞 被关麦",
+      "onboard_time": 1724748081,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 120359,
+      "num": 120359,
+      "word": "但拓差点救活貌巴",
+      "onboard_time": 1724752640,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 119282,
+      "num": 119282,
+      "word": "茶叶蛋也是有壳的",
+      "onboard_time": 1724751442,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 118116,
+      "num": 118116,
+      "word": "姚润昊硬气了",
+      "onboard_time": 1724754261,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 113220,
+      "num": 113220,
+      "word": "朱志鑫从原生家庭的疼痛中挣脱",
+      "onboard_time": 1724769384,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 112422,
+      "num": 112422,
+      "word": "谈恋爱一定要筛选掉极端自私的人",
+      "onboard_time": 1724770946,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 105548,
+      "num": 105548,
+      "word": "警方通报网红铁头被抓详情",
+      "onboard_time": 1724761764,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 100912,
+      "num": 100912,
+      "word": "抑郁孩子手臂上留下大大小小的刀疤",
+      "onboard_time": 1724764884,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100754,
+      "num": 100754,
+      "word": "警方通报看守所内酿酒引发爆炸",
+      "onboard_time": 1724765906,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98001,
+      "num": 98001,
+      "word": "庆怜 那时候年轻不懂事",
+      "onboard_time": 1724775261,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 97365,
+      "num": 97365,
+      "word": "到安徽泾县感受国风魅力",
+      "onboard_time": 1724766145,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 5572,
+      "num": 1372810,
+      "word": "中国网络文明大会未来之夜",
+      "onboard_time": 1724763385,
+      "rank": 2,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#共同建设网上精神家园习近平这样强调#"
+    }
+  ]
+}
