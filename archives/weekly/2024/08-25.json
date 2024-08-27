@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724747206252,
+  "endTime": 1724747996866,
   "band_list": [
     {
       "raw_hot": 14208627,
@@ -41,6 +41,14 @@
       "onboard_time": 1724588663,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 5746139,
+      "num": 5746139,
+      "word": "上6休3上3休2上5休1上2休7再上5休1",
+      "onboard_time": 1724745621,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4377269,
@@ -103,14 +111,6 @@
       "num": 3239838,
       "word": "今年中秋放假3天需调休",
       "onboard_time": 1724632701,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3178589,
-      "num": 3178589,
-      "word": "上6休3上3休2上5休1上2休7再上5休1",
-      "onboard_time": 1724745621,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -1659,6 +1659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 665029,
+      "num": 665029,
+      "word": "女子患痔疮中医从嘴里治疗",
+      "onboard_time": 1724745501,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 664671,
       "num": 664671,
       "word": "以色列遭数百枚火箭弹袭击现场",
@@ -1787,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 601829,
+      "num": 601829,
+      "word": "杨幂伞上都是橙子",
+      "onboard_time": 1724745561,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 595818,
       "num": 841829,
       "word": "俄军再次空袭基辅",
@@ -1912,14 +1928,6 @@
       "word": "三里屯偶遇贾玲",
       "onboard_time": 1724570899,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 547861,
-      "num": 547861,
-      "word": "杨幂伞上都是橙子",
-      "onboard_time": 1724745561,
-      "rank": 8,
       "category": "艺人"
     },
     {
@@ -2283,6 +2291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 450478,
+      "num": 450478,
+      "word": "TF三代马来西亚出发回国",
+      "onboard_time": 1724745799,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 448877,
       "num": 448877,
       "word": "泳帝",
@@ -2305,14 +2321,6 @@
       "onboard_time": 1724547078,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 447163,
-      "num": 447163,
-      "word": "TF三代马来西亚出发回国",
-      "onboard_time": 1724745799,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 444691,
@@ -2401,6 +2409,14 @@
       "onboard_time": 1724649563,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 427375,
+      "num": 427375,
+      "word": "最后的厂牌",
+      "onboard_time": 1724745440,
+      "rank": 23,
+      "category": "游戏,作品衍生"
     },
     {
       "raw_hot": 427251,
@@ -2587,20 +2603,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 391815,
-      "num": 391815,
-      "word": "最后的厂牌",
-      "onboard_time": 1724745440,
-      "rank": 23,
-      "category": "游戏,作品衍生"
-    },
-    {
       "raw_hot": 391338,
       "num": 332189,
       "word": "穆祉丞崩溃",
       "onboard_time": 1724724381,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 390605,
+      "num": 390605,
+      "word": "前日媒中国籍播音员发博报平安",
+      "onboard_time": 1724745501,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 388855,
@@ -3003,14 +3019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 317845,
-      "num": 317845,
-      "word": "前日媒中国籍播音员发博报平安",
-      "onboard_time": 1724745501,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 316431,
       "num": 316431,
       "word": "AG超玩会",
@@ -3185,14 +3193,6 @@
       "onboard_time": 1724730982,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 297017,
-      "num": 297017,
-      "word": "女子患痔疮中医从嘴里治疗",
-      "onboard_time": 1724745501,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 296335,
@@ -3507,6 +3507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267476,
+      "num": 267476,
+      "word": "中秋国庆的调休比凑单还难算",
+      "onboard_time": 1724747361,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266329,
       "num": 266329,
       "word": "DRG教练",
@@ -3739,6 +3747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251371,
+      "num": 251371,
+      "word": "上海暴雨",
+      "onboard_time": 1724746282,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251071,
       "num": 251071,
       "word": "成为像孙颖莎一样的人",
@@ -3865,14 +3881,6 @@
       "onboard_time": 1724675840,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 243281,
-      "num": 243281,
-      "word": "上海暴雨",
-      "onboard_time": 1724746282,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 243274,
@@ -4355,6 +4363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220025,
+      "num": 220025,
+      "word": "当猴子吃到了榴莲味的苹果",
+      "onboard_time": 1724746942,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 219813,
       "num": 258326,
       "word": "拼多多股价",
@@ -4505,6 +4521,14 @@
       "onboard_time": 1724581041,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 214090,
+      "num": 214090,
+      "word": "周雨彤花儿与少年官宣海报",
+      "onboard_time": 1724747722,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 214011,
@@ -5259,14 +5283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191104,
-      "num": 191104,
-      "word": "当猴子吃到了榴莲味的苹果",
-      "onboard_time": 1724746942,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 190857,
       "num": 190857,
       "word": "头鱼 困长",
@@ -5384,6 +5400,14 @@
       "word": "蕾哈娜关注了王鹤棣",
       "onboard_time": 1724656040,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 186327,
+      "num": 219811,
+      "word": "闵熙珍卸任ADOR代表",
+      "onboard_time": 1724747301,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -5523,12 +5547,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183275,
+      "num": 183275,
+      "word": "兰波 易烊千玺室友",
+      "onboard_time": 1724747962,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183128,
       "num": 362523,
       "word": "吴建豪是真一点儿不占粉丝便宜",
       "onboard_time": 1724652981,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182987,
+      "num": 182987,
+      "word": "专家称调休只是拆东墙补西墙",
+      "onboard_time": 1724747542,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182908,
@@ -5812,7 +5852,7 @@
     },
     {
       "raw_hot": 173484,
-      "num": 173484,
+      "num": 559377,
       "word": "给女童立规矩是厌童症还是责任心",
       "onboard_time": 1724743881,
       "rank": 47,
@@ -5825,6 +5865,14 @@
       "onboard_time": 1724505200,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 173140,
+      "num": 173140,
+      "word": "乌斯吐自然保护区林海日出美如画",
+      "onboard_time": 1724747962,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 172478,
@@ -5947,6 +5995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 169742,
+      "num": 169742,
+      "word": "凉哈皮不鸽解说",
+      "onboard_time": 1724747181,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 169094,
       "num": 169094,
       "word": "N1成绩",
@@ -6065,14 +6121,6 @@
       "onboard_time": 1724558179,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163750,
-      "num": 163750,
-      "word": "凉哈皮不鸽解说",
-      "onboard_time": 1724747181,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 163511,
@@ -7091,6 +7139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100136,
+      "num": 501129,
+      "word": "公租房建设19年仍未交付",
+      "onboard_time": 1724745799,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96842,
       "num": 96842,
       "word": "中介公司回应员工把孩子关厕所教育",
@@ -7460,7 +7516,7 @@
     },
     {
       "raw_hot": 65111,
-      "num": 244696,
+      "num": 352062,
       "word": "极氪7X内饰曝光",
       "onboard_time": 1724746521,
       "rank": 35,
@@ -7608,14 +7664,6 @@
       "word": "高价月饼礼盒卖不动了",
       "onboard_time": 1724639120,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 58908,
-      "num": 501129,
-      "word": "公租房建设19年仍未交付",
-      "onboard_time": 1724745799,
-      "rank": 9,
       "category": "社会新闻"
     },
     {

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/08/01 00:24:58 ~ 2024/08/27 16:26:46
+本榜单时间：2024/08/01 00:24:58 ~ 2024/08/27 16:39:56
 </p>
 </blockquote>
 <p>
@@ -845,6 +845,12 @@ EDG全球冠军赛夺冠（热度：7188725）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TFBOYS%E5%87%BA%E9%81%93%E5%8D%81%E4%B8%80%E5%91%A8%E5%B9%B4%23" target="weibo">
 TFBOYS出道十一周年（热度：5783219）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A6%E4%BC%913%E4%B8%8A3%E4%BC%912%E4%B8%8A5%E4%BC%911%E4%B8%8A2%E4%BC%917%E5%86%8D%E4%B8%8A5%E4%BC%911%23" target="weibo">
+上6休3上3休2上5休1上2休7再上5休1（热度：5746139）
 </a>
 </li>
 
@@ -1907,12 +1913,6 @@ TFBOYS出道十一周年（热度：5783219）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%B3%B3%E6%94%B6%E5%AE%98%E4%B9%8B%E5%A4%9C%23" target="weibo">
 游泳收官之夜（热度：3180737）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A6%E4%BC%913%E4%B8%8A3%E4%BC%912%E4%B8%8A5%E4%BC%911%E4%B8%8A2%E4%BC%917%E5%86%8D%E4%B8%8A5%E4%BC%911%23" target="weibo">
-上6休3上3休2上5休1上2休7再上5休1（热度：3178589）
 </a>
 </li>
 

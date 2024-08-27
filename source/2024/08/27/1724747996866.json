@@ -1,0 +1,410 @@
+{
+  "runTime": 1724747996866,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5746139,
+        "num": 5746139,
+        "word": "上6休3上3休2上5休1上2休7再上5休1",
+        "onboard_time": 1724745621,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2387299,
+        "num": 2387299,
+        "word": "大妈狂买1斤黄金不挑款店员报警",
+        "onboard_time": 1724739621,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33713,
+        "num": 1442994,
+        "word": "锦绣智造传奇",
+        "onboard_time": 1724745680,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1290571,
+        "num": 1290571,
+        "word": "孙杨 短信",
+        "onboard_time": 1724744481,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1233045,
+        "num": 1233045,
+        "word": "韩网友竟称西游记作者是韩国人",
+        "onboard_time": 1724741782,
+        "rank": 4,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 881917,
+        "num": 881917,
+        "word": "黄磊孙莉送黄多多美国留学",
+        "onboard_time": 1724737521,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 665029,
+        "num": 665029,
+        "word": "女子患痔疮中医从嘴里治疗",
+        "onboard_time": 1724745501,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601829,
+        "num": 601829,
+        "word": "杨幂伞上都是橙子",
+        "onboard_time": 1724745561,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580814,
+        "num": 580814,
+        "word": "iPhone16相比15最大变化",
+        "onboard_time": 1724734404,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 92820,
+        "num": 559377,
+        "word": "给女童立规矩是厌童症还是责任心",
+        "onboard_time": 1724743881,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659843,
+        "num": 559056,
+        "word": "梁源回应要起诉乙游粉丝",
+        "onboard_time": 1724738722,
+        "rank": 10,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 558269,
+        "num": 558269,
+        "word": "黄子韬身上纹了徐艺洋名字和生日",
+        "onboard_time": 1724729301,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 527270,
+        "num": 527270,
+        "word": "于正曝一线女演员接了一部超烂的戏",
+        "onboard_time": 1724733922,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 477243,
+        "num": 477243,
+        "word": "爷爷沉迷手机孙子去河边洗玩具溺亡",
+        "onboard_time": 1724732002,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450478,
+        "num": 450478,
+        "word": "TF三代马来西亚出发回国",
+        "onboard_time": 1724745799,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427375,
+        "num": 427375,
+        "word": "最后的厂牌",
+        "onboard_time": 1724745440,
+        "rank": 15,
+        "category": "游戏,作品衍生"
+      },
+      {
+        "raw_hot": 418290,
+        "num": 418290,
+        "word": "男子住酒店醒来发现整层楼都被拆了",
+        "onboard_time": 1724738001,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390605,
+        "num": 390605,
+        "word": "前日媒中国籍播音员发博报平安",
+        "onboard_time": 1724745501,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373180,
+        "num": 373180,
+        "word": "带77万现金买房被抢第二天才报警",
+        "onboard_time": 1724738722,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262883,
+        "num": 370122,
+        "word": "杨迪曝刘诗诗非常爱做攻略",
+        "onboard_time": 1724741962,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 846003,
+        "num": 360356,
+        "word": "奶奶全程允许陌生女子厕所教育孙女",
+        "onboard_time": 1724737041,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50764,
+        "num": 352062,
+        "word": "极氪7X内饰曝光",
+        "onboard_time": 1724746521,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 788297,
+        "num": 343929,
+        "word": "派克特删除diss",
+        "onboard_time": 1724715618,
+        "rank": 22,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 343708,
+        "num": 343708,
+        "word": "周大福门店回应2米金箍棒售价180万",
+        "onboard_time": 1724731402,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206534,
+        "num": 316030,
+        "word": "赵丽颖带儿子想想逛商场",
+        "onboard_time": 1724738001,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309581,
+        "num": 309581,
+        "word": "男子7天无理由退货半年退手机77次",
+        "onboard_time": 1724738961,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300881,
+        "num": 300881,
+        "word": "儿子冒充父亲与母亲签字离婚",
+        "onboard_time": 1724733084,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 698427,
+        "num": 299857,
+        "word": "恋与深空发声明要求派克特道歉",
+        "onboard_time": 1724714357,
+        "rank": 27,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 267476,
+        "num": 267476,
+        "word": "中秋国庆的调休比凑单还难算",
+        "onboard_time": 1724747361,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197305,
+        "num": 266811,
+        "word": "坏了藏海花看进去了",
+        "onboard_time": 1724744601,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266214,
+        "num": 266214,
+        "word": "吉祥航空",
+        "onboard_time": 1724742500,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260383,
+        "num": 260383,
+        "word": "韩高官称韩国人先辈是日本籍",
+        "onboard_time": 1724736681,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 251371,
+        "num": 251371,
+        "word": "上海暴雨",
+        "onboard_time": 1724746282,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220025,
+        "num": 220025,
+        "word": "当猴子吃到了榴莲味的苹果",
+        "onboard_time": 1724746942,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186327,
+        "num": 219811,
+        "word": "闵熙珍卸任ADOR代表",
+        "onboard_time": 1724747301,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219740,
+        "num": 219740,
+        "word": "沙利文抵达北京",
+        "onboard_time": 1724741421,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216867,
+        "num": 216867,
+        "word": "邱贻可闭幕式才知孙颖莎是亚洲代表",
+        "onboard_time": 1724744062,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215342,
+        "num": 215342,
+        "word": "梁源要起诉乙游粉丝",
+        "onboard_time": 1724718501,
+        "rank": 37,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 214090,
+        "num": 214090,
+        "word": "周雨彤花儿与少年官宣海报",
+        "onboard_time": 1724747722,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210153,
+        "num": 210153,
+        "word": "莎头说英文",
+        "onboard_time": 1724742080,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210123,
+        "num": 210123,
+        "word": "女童被关厕所教育吉祥航空致歉",
+        "onboard_time": 1724742260,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189037,
+        "num": 189037,
+        "word": "美国总统国家安全事务助理沙利文访华",
+        "onboard_time": 1724742981,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 184674,
+        "num": 184674,
+        "word": "派克特",
+        "onboard_time": 1724687786,
+        "rank": 42,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 183275,
+        "num": 183275,
+        "word": "兰波 易烊千玺室友",
+        "onboard_time": 1724747962,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182987,
+        "num": 182987,
+        "word": "专家称调休只是拆东墙补西墙",
+        "onboard_time": 1724747542,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100136,
+        "num": 181146,
+        "word": "公租房建设19年仍未交付",
+        "onboard_time": 1724745799,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180019,
+        "num": 180019,
+        "word": "于贞 rapper塌男不塌女",
+        "onboard_time": 1724731103,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173140,
+        "num": 173140,
+        "word": "乌斯吐自然保护区林海日出美如画",
+        "onboard_time": 1724747962,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 171954,
+        "num": 171954,
+        "word": "乙游尺度",
+        "onboard_time": 1724727441,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169742,
+        "num": 169742,
+        "word": "凉哈皮不鸽解说",
+        "onboard_time": 1724747181,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂习近平总书记关于体育的重要论述#"
+    }
+  }
+}
