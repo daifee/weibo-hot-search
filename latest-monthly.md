@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/08/01 00:24:58 ~ 2024/08/27 14:28:56
+本榜单时间：2024/08/01 00:24:58 ~ 2024/08/27 14:41:44
 </p>
 </blockquote>
 <p>
@@ -2823,6 +2823,12 @@ EDG总决赛对阵TH（热度：2977975）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E5%85%A8%E7%A8%8B%E5%85%81%E8%AE%B8%E9%99%8C%E7%94%9F%E5%A5%B3%E5%AD%90%E5%8E%95%E6%89%80%E6%95%99%E8%82%B2%E5%AD%99%E5%A5%B3%23" target="weibo">
+奶奶全程允许陌生女子厕所教育孙女（热度：2557058）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%B0%86%E7%94%B3%E5%8A%9E2036%E5%B9%B4%E5%A4%8F%E5%AD%A3%E5%A5%A5%E8%BF%90%E4%BC%9A%23" target="weibo">
 韩国将申办2036年夏季奥运会（热度：2556233）
 </a>
@@ -2927,12 +2933,6 @@ EDG总决赛对阵TH（热度：2977975）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%90%83%E5%A5%B3%E5%8D%95%E5%86%B3%E8%B5%9B%23" target="weibo">
 网球女单决赛（热度：2492394）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E5%85%A8%E7%A8%8B%E5%85%81%E8%AE%B8%E9%99%8C%E7%94%9F%E5%A5%B3%E5%AD%90%E5%8E%95%E6%89%80%E6%95%99%E8%82%B2%E5%AD%99%E5%A5%B3%23" target="weibo">
-奶奶全程允许陌生女子厕所教育孙女（热度：2489785）
 </a>
 </li>
 
