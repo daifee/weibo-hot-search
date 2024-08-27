@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724727020373,
+  "endTime": 1724728969108,
   "band_list": [
     {
       "raw_hot": 14208627,
@@ -529,6 +529,14 @@
       "onboard_time": 1724662221,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1400708,
+      "num": 1400708,
+      "word": "新疆塔克拉玛干沙漠发洪水",
+      "onboard_time": 1724725280,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1384068,
@@ -1243,14 +1251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 755903,
-      "num": 755903,
-      "word": "新疆塔克拉玛干沙漠发洪水",
-      "onboard_time": 1724725280,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 748873,
       "num": 661963,
       "word": "男子闹市区一盒盒放生蟑螂",
@@ -1273,6 +1273,14 @@
       "onboard_time": 1724646864,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 734856,
+      "num": 734856,
+      "word": "乙游尺度",
+      "onboard_time": 1724727441,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 732857,
@@ -1707,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 542849,
+      "num": 542849,
+      "word": "哈圈 没腰硬撑",
+      "onboard_time": 1724727802,
+      "rank": 23,
+      "category": "音乐,游戏"
+    },
+    {
       "raw_hot": 541989,
       "num": 541989,
       "word": "Steam一夜遭28万次攻击",
@@ -1745,6 +1761,14 @@
       "onboard_time": 1724510962,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 521557,
+      "num": 521557,
+      "word": "难哄国宴级更新",
+      "onboard_time": 1724726601,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 521027,
@@ -2195,6 +2219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 408500,
+      "num": 408500,
+      "word": "孙颖莎9000分保持世排第一",
+      "onboard_time": 1724726720,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 406090,
       "num": 583450,
       "word": "中专生军训中暑身亡家属发声",
@@ -2395,6 +2427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367402,
+      "num": 752930,
+      "word": "山西一血浆站被指引导学生多次捐血",
+      "onboard_time": 1724726001,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366712,
       "num": 366712,
       "word": "WBG战胜TES",
@@ -2475,6 +2515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 344058,
+      "num": 344058,
+      "word": "调休",
+      "onboard_time": 1724723121,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343126,
       "num": 343126,
       "word": "老孙头 余生请多游泳",
@@ -2491,6 +2539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 342706,
+      "num": 342706,
+      "word": "iPhone16或涨价",
+      "onboard_time": 1724725941,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 341909,
       "num": 132205,
       "word": "余宇涵成功出道",
@@ -2505,14 +2561,6 @@
       "onboard_time": 1724678602,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 339823,
-      "num": 339823,
-      "word": "iPhone16或涨价",
-      "onboard_time": 1724725941,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 338463,
@@ -3051,6 +3099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267609,
+      "num": 267609,
+      "word": "东出昌大官宣再婚",
+      "onboard_time": 1724726241,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266329,
       "num": 266329,
       "word": "DRG教练",
@@ -3067,12 +3123,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 265907,
-      "num": 265907,
-      "word": "东出昌大官宣再婚",
-      "onboard_time": 1724726241,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 265441,
+      "num": 265441,
+      "word": "罗永浩回应接婚丧嫁娶主持业务",
+      "onboard_time": 1724727741,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 264775,
@@ -3153,6 +3209,22 @@
       "onboard_time": 1724578280,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 257988,
+      "num": 710760,
+      "word": "奶茶店员用个人收款码侵占公司数万元",
+      "onboard_time": 1724726361,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257561,
+      "num": 257561,
+      "word": "iPhone16配置爆料汇总",
+      "onboard_time": 1724727020,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 257547,
@@ -3307,6 +3379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245420,
+      "num": 245420,
+      "word": "官方介入调查6岁男童输液后身亡",
+      "onboard_time": 1724724081,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245340,
       "num": 245340,
       "word": "王一博腋下管理",
@@ -3371,6 +3451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242447,
+      "num": 242447,
+      "word": "吴迪公布旗下艺人名单",
+      "onboard_time": 1724725220,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242361,
       "num": 535473,
       "word": "非遗厨师把家乡风景做成了菜",
@@ -3393,22 +3481,6 @@
       "onboard_time": 1724591183,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241244,
-      "num": 241244,
-      "word": "吴迪公布旗下艺人名单",
-      "onboard_time": 1724725220,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 240792,
-      "num": 240792,
-      "word": "难哄国宴级更新",
-      "onboard_time": 1724726601,
-      "rank": 35,
-      "category": "动漫"
     },
     {
       "raw_hot": 240395,
@@ -3859,11 +3931,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 218207,
-      "num": 218207,
-      "word": "孙颖莎9000分保持世排第一",
-      "onboard_time": 1724726720,
-      "rank": 42,
+      "raw_hot": 218221,
+      "num": 745183,
+      "word": "巴黎残奥会开幕式彩排",
+      "onboard_time": 1724728281,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -3913,14 +3985,6 @@
       "onboard_time": 1724581041,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 214072,
-      "num": 214072,
-      "word": "官方介入调查6岁男童输液后身亡",
-      "onboard_time": 1724724081,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 214011,
@@ -4249,14 +4313,6 @@
       "onboard_time": 1724649622,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 203617,
-      "num": 203617,
-      "word": "调休",
-      "onboard_time": 1724723121,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203521,
@@ -6267,14 +6323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106157,
-      "num": 752930,
-      "word": "山西一血浆站被指引导学生多次捐血",
-      "onboard_time": 1724726001,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 105298,
       "num": 1152717,
       "word": "2024暑期档电影票房超110亿",
@@ -6304,6 +6352,14 @@
       "word": "中介公司回应员工把孩子关厕所教育",
       "onboard_time": 1724713516,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95238,
+      "num": 743176,
+      "word": "6万境外游学团孩子们坐路边玩手机",
+      "onboard_time": 1724728281,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -6483,12 +6539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 71789,
-      "num": 710760,
-      "word": "奶茶店员用个人收款码侵占公司数万元",
-      "onboard_time": 1724726361,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 71678,
+      "num": 409451,
+      "word": "华为novaFlip与QQ梦幻联动",
+      "onboard_time": 1724727920,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 70774,
@@ -6643,6 +6699,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 63303,
+      "num": 606502,
+      "word": "泰国坠机遇难者为两家好友",
+      "onboard_time": 1724728640,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62099,
       "num": 62099,
       "word": "原来小猫还不会盖被子",
@@ -6689,6 +6753,14 @@
       "onboard_time": 1724540774,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 60573,
+      "num": 549914,
+      "word": "怎么识别幽灵外卖",
+      "onboard_time": 1724728881,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59053,
@@ -7121,6 +7193,22 @@
       "onboard_time": 1724640019,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 36608,
+      "num": 936015,
+      "word": "全国新设立外商投资企业超3万家",
+      "onboard_time": 1724728221,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35609,
+      "num": 584699,
+      "word": "烟台海肠捞饭吃到上头",
+      "onboard_time": 1724727620,
+      "rank": 14,
+      "category": "美食"
     },
     {
       "raw_hot": 35461,

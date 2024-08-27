@@ -1,6 +1,6 @@
 {
   "startTime": 1724689640506,
-  "endTime": 1724727020373,
+  "endTime": 1724728969108,
   "band_list": [
     {
       "raw_hot": 4028084,
@@ -105,6 +105,14 @@
       "onboard_time": 1724718501,
       "rank": 6,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 1400708,
+      "num": 1400708,
+      "word": "新疆塔克拉玛干沙漠发洪水",
+      "onboard_time": 1724725280,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1358109,
@@ -219,12 +227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 755903,
-      "num": 755903,
-      "word": "新疆塔克拉玛干沙漠发洪水",
-      "onboard_time": 1724725280,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 734856,
+      "num": 734856,
+      "word": "乙游尺度",
+      "onboard_time": 1724727441,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 734249,
@@ -299,12 +307,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 542849,
+      "num": 542849,
+      "word": "哈圈 没腰硬撑",
+      "onboard_time": 1724727802,
+      "rank": 23,
+      "category": "音乐,游戏"
+    },
+    {
       "raw_hot": 541989,
       "num": 541989,
       "word": "Steam一夜遭28万次攻击",
       "onboard_time": 1724694736,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 521557,
+      "num": 521557,
+      "word": "难哄国宴级更新",
+      "onboard_time": 1724726601,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 520236,
@@ -371,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 408500,
+      "num": 408500,
+      "word": "孙颖莎9000分保持世排第一",
+      "onboard_time": 1724726720,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 406090,
       "num": 583450,
       "word": "中专生军训中暑身亡家属发声",
@@ -419,20 +451,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367402,
+      "num": 752930,
+      "word": "山西一血浆站被指引导学生多次捐血",
+      "onboard_time": 1724726001,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344058,
+      "num": 344058,
+      "word": "调休",
+      "onboard_time": 1724723121,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 342706,
+      "num": 342706,
+      "word": "iPhone16或涨价",
+      "onboard_time": 1724725941,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 341909,
       "num": 132205,
       "word": "余宇涵成功出道",
       "onboard_time": 1724694316,
       "rank": 21,
       "category": "综艺,综艺"
-    },
-    {
-      "raw_hot": 339823,
-      "num": 339823,
-      "word": "iPhone16或涨价",
-      "onboard_time": 1724725941,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 325799,
@@ -507,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267609,
+      "num": 267609,
+      "word": "东出昌大官宣再婚",
+      "onboard_time": 1724726241,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266633,
       "num": 266633,
       "word": "南派三叔回应吴邪选角",
@@ -523,12 +579,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 265907,
-      "num": 265907,
-      "word": "东出昌大官宣再婚",
-      "onboard_time": 1724726241,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 265441,
+      "num": 265441,
+      "word": "罗永浩回应接婚丧嫁娶主持业务",
+      "onboard_time": 1724727741,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 257988,
+      "num": 710760,
+      "word": "奶茶店员用个人收款码侵占公司数万元",
+      "onboard_time": 1724726361,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257561,
+      "num": 257561,
+      "word": "iPhone16配置爆料汇总",
+      "onboard_time": 1724727020,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 249533,
@@ -547,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245420,
+      "num": 245420,
+      "word": "官方介入调查6岁男童输液后身亡",
+      "onboard_time": 1724724081,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243152,
       "num": 243152,
       "word": "突然看见十几年前妈妈的QQ空间",
@@ -555,28 +635,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 242076,
-      "num": 242076,
-      "word": "杨天真拉黑杨笠后首次同台",
-      "onboard_time": 1724717961,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 241244,
-      "num": 241244,
+      "raw_hot": 242447,
+      "num": 242447,
       "word": "吴迪公布旗下艺人名单",
       "onboard_time": 1724725220,
       "rank": 35,
       "category": "艺人"
     },
     {
-      "raw_hot": 240792,
-      "num": 240792,
-      "word": "难哄国宴级更新",
-      "onboard_time": 1724726601,
+      "raw_hot": 242076,
+      "num": 242076,
+      "word": "杨天真拉黑杨笠后首次同台",
+      "onboard_time": 1724717961,
       "rank": 35,
-      "category": "动漫"
+      "category": "综艺"
     },
     {
       "raw_hot": 238815,
@@ -635,11 +707,11 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 218207,
-      "num": 218207,
-      "word": "孙颖莎9000分保持世排第一",
-      "onboard_time": 1724726720,
-      "rank": 42,
+      "raw_hot": 218221,
+      "num": 745183,
+      "word": "巴黎残奥会开幕式彩排",
+      "onboard_time": 1724728281,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -648,14 +720,6 @@
       "word": "黄文秀事迹写入新版语文教材",
       "onboard_time": 1724725941,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214072,
-      "num": 214072,
-      "word": "官方介入调查6岁男童输液后身亡",
-      "onboard_time": 1724724081,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -704,14 +768,6 @@
       "word": "警方回应小孩被陌生女子关厕所教育",
       "onboard_time": 1724666301,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203617,
-      "num": 203617,
-      "word": "调休",
-      "onboard_time": 1724723121,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -931,14 +987,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 106157,
-      "num": 752930,
-      "word": "山西一血浆站被指引导学生多次捐血",
-      "onboard_time": 1724726001,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 96842,
       "num": 96842,
       "word": "中介公司回应员工把孩子关厕所教育",
@@ -953,6 +1001,14 @@
       "onboard_time": 1724599282,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95238,
+      "num": 743176,
+      "word": "6万境外游学团孩子们坐路边玩手机",
+      "onboard_time": 1724728281,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91935,
@@ -1003,12 +1059,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 71789,
-      "num": 710760,
-      "word": "奶茶店员用个人收款码侵占公司数万元",
-      "onboard_time": 1724726361,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 71678,
+      "num": 409451,
+      "word": "华为novaFlip与QQ梦幻联动",
+      "onboard_time": 1724727920,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 70391,
@@ -1032,6 +1088,22 @@
       "word": "雨天出门千万要注意的小事",
       "onboard_time": 1724677582,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63303,
+      "num": 606502,
+      "word": "泰国坠机遇难者为两家好友",
+      "onboard_time": 1724728640,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60573,
+      "num": 549914,
+      "word": "怎么识别幽灵外卖",
+      "onboard_time": 1724728881,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1089,6 +1161,22 @@
       "onboard_time": 1724697314,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 36608,
+      "num": 936015,
+      "word": "全国新设立外商投资企业超3万家",
+      "onboard_time": 1724728221,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35609,
+      "num": 584699,
+      "word": "烟台海肠捞饭吃到上头",
+      "onboard_time": 1724727620,
+      "rank": 14,
+      "category": "美食"
     },
     {
       "raw_hot": 35282,
