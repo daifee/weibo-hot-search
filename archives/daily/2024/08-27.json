@@ -1,6 +1,6 @@
 {
   "startTime": 1724689640506,
-  "endTime": 1724769495865,
+  "endTime": 1724772144263,
   "band_list": [
     {
       "raw_hot": 15299764,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 3121010,
-      "num": 910247,
+      "num": 984870,
       "word": "折腰速抬",
       "onboard_time": 1724763444,
       "rank": 3,
@@ -235,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1587815,
+      "num": 774175,
+      "word": "痞老板 乙游",
+      "onboard_time": 1724765305,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1574263,
       "num": 796534,
       "word": "宋祖儿 喜天",
@@ -281,14 +289,6 @@
       "onboard_time": 1724733922,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1362802,
-      "num": 774175,
-      "word": "痞老板 乙游",
-      "onboard_time": 1724765305,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 1358109,
@@ -377,6 +377,14 @@
       "onboard_time": 1724724321,
       "rank": 11,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 1071582,
+      "num": 1071582,
+      "word": "女子172cm100斤确诊营养不良型肥胖",
+      "onboard_time": 1724770224,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1051924,
@@ -1259,12 +1267,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 302551,
+      "num": 302551,
+      "word": "WTT中国大满贯宣传片内容引争议",
+      "onboard_time": 1724770464,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 300865,
       "num": 300865,
       "word": "时代峰峻大合照站位",
       "onboard_time": 1724736800,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300065,
+      "num": 312562,
+      "word": "于贞 女王",
+      "onboard_time": 1724768185,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 298550,
@@ -1363,14 +1387,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 279825,
-      "num": 312562,
-      "word": "于贞 女王",
-      "onboard_time": 1724768185,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 275431,
       "num": 242391,
       "word": "我发现infj四个恐怖的天赋",
@@ -1436,10 +1452,18 @@
     },
     {
       "raw_hot": 265410,
-      "num": 265410,
+      "num": 478893,
       "word": "初中女生举报被男教师骚扰引诱",
       "onboard_time": 1724769023,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262497,
+      "num": 262497,
+      "word": "警方介入网贷60万打赏后送外卖还债",
+      "onboard_time": 1724770584,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1651,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236655,
+      "num": 236655,
+      "word": "取得这些职业资格证书可享个税扣除",
+      "onboard_time": 1724770824,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235563,
       "num": 235563,
       "word": "左航",
@@ -1665,6 +1697,14 @@
       "onboard_time": 1724751021,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 233200,
+      "num": 489273,
+      "word": "抑郁孩子手臂上留下大大小小的刀疤",
+      "onboard_time": 1724764884,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231855,
@@ -1696,6 +1736,14 @@
       "word": "孙颖莎寄语开学的你",
       "onboard_time": 1724749282,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 228572,
+      "num": 228572,
+      "word": "央视专访孙颖莎",
+      "onboard_time": 1724771486,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -1788,7 +1836,7 @@
     },
     {
       "raw_hot": 219213,
-      "num": 219213,
+      "num": 240554,
       "word": "王栎鑫这伞有点暧昧了",
       "onboard_time": 1724768785,
       "rank": 42,
@@ -1972,11 +2020,19 @@
     },
     {
       "raw_hot": 206542,
-      "num": 206542,
+      "num": 238103,
       "word": "菜菜 我是来赚经费的",
       "onboard_time": 1724768665,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206336,
+      "num": 206336,
+      "word": "2000多年前的痔疮手术有多小众",
+      "onboard_time": 1724771486,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 205984,
@@ -2115,6 +2171,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 197449,
+      "num": 474140,
+      "word": "警方通报网传两名外国人打中国人",
+      "onboard_time": 1724768365,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197386,
       "num": 322140,
       "word": "陈梦回应为何被叫梦姐",
@@ -2185,6 +2249,22 @@
       "onboard_time": 1724733563,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191424,
+      "num": 193126,
+      "word": "贺峻霖的谧境上央视了",
+      "onboard_time": 1724771486,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 190973,
+      "num": 190973,
+      "word": "朱志鑫从原生家庭的疼痛中挣脱",
+      "onboard_time": 1724769384,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 190755,
@@ -2275,20 +2355,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 184709,
+      "num": 184709,
+      "word": "丑衣服别扔留着上班穿",
+      "onboard_time": 1724772083,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 184527,
       "num": 184527,
       "word": "孙杨回应复出夺冠后见到妻子泪崩",
       "onboard_time": 1724735902,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 184215,
-      "num": 489273,
-      "word": "抑郁孩子手臂上留下大大小小的刀疤",
-      "onboard_time": 1724764884,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183791,
@@ -2345,6 +2425,14 @@
       "onboard_time": 1724720662,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180590,
+      "num": 180590,
+      "word": "任天堂独立游戏直面会",
+      "onboard_time": 1724772025,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 180478,
@@ -2763,6 +2851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102185,
+      "num": 406350,
+      "word": "小鹏MONA售价11.98万元起",
+      "onboard_time": 1724769144,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 100136,
       "num": 501129,
       "word": "公租房建设19年仍未交付",
@@ -2808,14 +2904,6 @@
       "word": "三代列车同框见证中国速度",
       "onboard_time": 1724675961,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89176,
-      "num": 474140,
-      "word": "警方通报网传两名外国人打中国人",
-      "onboard_time": 1724768365,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -2915,6 +3003,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 71031,
+      "num": 328777,
+      "word": "戒尺还给老师才是真正对孩子负责",
+      "onboard_time": 1724771246,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70391,
       "num": 96274,
       "word": "澳大利亚新法下班有权不接工作电话",
@@ -2959,14 +3055,6 @@
       "num": 492599,
       "word": "极氪7X内饰曝光",
       "onboard_time": 1724746521,
-      "rank": 35,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 63747,
-      "num": 247381,
-      "word": "小鹏MONA售价11.98万元起",
-      "onboard_time": 1724769144,
       "rank": 35,
       "category": "汽车"
     },
