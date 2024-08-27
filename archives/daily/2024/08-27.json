@@ -1,6 +1,6 @@
 {
   "startTime": 1724689640506,
-  "endTime": 1724765737931,
+  "endTime": 1724768362920,
   "band_list": [
     {
       "raw_hot": 15299764,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 4040016,
-      "num": 455835,
+      "num": 683659,
       "word": "凌晨出道 下午塌房",
       "onboard_time": 1724758040,
       "rank": 13,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 3121010,
-      "num": 817692,
+      "num": 910247,
       "word": "折腰速抬",
       "onboard_time": 1724763444,
       "rank": 3,
@@ -235,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1574263,
+      "num": 796534,
+      "word": "宋祖儿 喜天",
+      "onboard_time": 1724766383,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1550115,
       "num": 1550115,
       "word": "孙杨 短信",
@@ -273,6 +281,14 @@
       "onboard_time": 1724733922,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1362802,
+      "num": 774175,
+      "word": "痞老板 乙游",
+      "onboard_time": 1724765305,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 1358109,
@@ -395,12 +411,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 922743,
+      "num": 922743,
+      "word": "妈妈想陪抑郁症儿子换个活法再来一次",
+      "onboard_time": 1724764884,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 916157,
       "num": 916157,
       "word": "韩高官称韩国人先辈是日本籍",
       "onboard_time": 1724736681,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 907840,
+      "num": 907840,
+      "word": "许昕收藏了马龙的签名拍",
+      "onboard_time": 1724764884,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 905262,
@@ -452,7 +484,7 @@
     },
     {
       "raw_hot": 823578,
-      "num": 361086,
+      "num": 458900,
       "word": "建议女生洗完头不要包头发",
       "onboard_time": 1724756720,
       "rank": 39,
@@ -580,7 +612,7 @@
     },
     {
       "raw_hot": 688222,
-      "num": 486519,
+      "num": 570659,
       "word": "男rapper 有点东西",
       "onboard_time": 1724763745,
       "rank": 6,
@@ -803,14 +835,6 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 465348,
-      "num": 465348,
-      "word": "许昕收藏了马龙的签名拍",
-      "onboard_time": 1724764884,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 456966,
       "num": 456966,
       "word": "于正 杨蓉在享受生活",
@@ -825,6 +849,14 @@
       "onboard_time": 1724745799,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 446510,
+      "num": 446510,
+      "word": "老人自己摔倒诬陷殴打扶人少年被拘",
+      "onboard_time": 1724765485,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 441435,
@@ -867,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 414096,
+      "num": 414096,
+      "word": "孙颖莎这张照片硬控我30秒",
+      "onboard_time": 1724764585,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 411960,
       "num": 652235,
       "word": "沙利文抵达北京",
@@ -897,6 +937,14 @@
       "onboard_time": 1724738001,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 402472,
+      "num": 402472,
+      "word": "女子商场试鞋脚部真菌感染",
+      "onboard_time": 1724763624,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 397493,
@@ -1012,19 +1060,11 @@
     },
     {
       "raw_hot": 365722,
-      "num": 365722,
+      "num": 459395,
       "word": "无忧渡",
       "onboard_time": 1724764705,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 362221,
-      "num": 362221,
-      "word": "痞老板 乙游",
-      "onboard_time": 1724765305,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 358176,
@@ -1131,6 +1171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 316822,
+      "num": 316822,
+      "word": "上班不许吃同事",
+      "onboard_time": 1724764825,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 316219,
       "num": 316219,
       "word": "隔日断食15天瘦了18斤",
@@ -1195,6 +1243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 301308,
+      "num": 301308,
+      "word": "恋与制作人",
+      "onboard_time": 1724767706,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 300865,
       "num": 300865,
       "word": "时代峰峻大合照站位",
@@ -1235,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286672,
+      "num": 313640,
+      "word": "守护于贞",
+      "onboard_time": 1724763863,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285195,
       "num": 285195,
       "word": "孩子被关厕所教育家长同意就行吗",
@@ -1267,20 +1331,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 276727,
+      "num": 276727,
+      "word": "黑神话悟空 最高级的文宣",
+      "onboard_time": 1724765305,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 275431,
       "num": 242391,
       "word": "我发现infj四个恐怖的天赋",
       "onboard_time": 1724758763,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 271783,
-      "num": 271783,
-      "word": "守护于贞",
-      "onboard_time": 1724763863,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 271559,
@@ -1345,14 +1409,6 @@
       "onboard_time": 1724752339,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 261443,
-      "num": 261443,
-      "word": "孙颖莎这张照片硬控我30秒",
-      "onboard_time": 1724764585,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 260990,
@@ -1451,20 +1507,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 249385,
-      "num": 264773,
-      "word": "妈妈想陪抑郁症儿子换个活法再来一次",
-      "onboard_time": 1724764884,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 249375,
       "num": 249375,
       "word": "MEOVV第四名成员公开",
       "onboard_time": 1724751502,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248448,
+      "num": 312562,
+      "word": "于贞 女王",
+      "onboard_time": 1724768185,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 247099,
@@ -1603,12 +1659,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228086,
+      "num": 439453,
+      "word": "济南女子称从银行取到3万元练功钞",
+      "onboard_time": 1724765424,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226989,
       "num": 220403,
       "word": "庞博 周围没有一个企鹅朋友",
       "onboard_time": 1724761043,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225881,
+      "num": 225881,
+      "word": "没挣24小时工资就不该全天待命",
+      "onboard_time": 1724763564,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225765,
@@ -1633,14 +1705,6 @@
       "onboard_time": 1724746942,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 222763,
-      "num": 222763,
-      "word": "老人自己摔倒诬陷殴打扶人少年被拘",
-      "onboard_time": 1724765485,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222291,
@@ -1673,14 +1737,6 @@
       "onboard_time": 1724754923,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 221537,
-      "num": 350458,
-      "word": "女子商场试鞋脚部真菌感染",
-      "onboard_time": 1724763624,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 221248,
@@ -1739,20 +1795,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 217127,
-      "num": 217127,
-      "word": "上班不许吃同事",
-      "onboard_time": 1724764825,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 217090,
       "num": 217090,
       "word": "张籽沐签约泰洋川禾",
       "onboard_time": 1724740340,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216971,
+      "num": 463680,
+      "word": "建议改进调休凑假模式",
+      "onboard_time": 1724765544,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216399,
@@ -1867,12 +1923,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205984,
+      "num": 732690,
+      "word": "到安徽泾县感受国风魅力",
+      "onboard_time": 1724766145,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 205971,
       "num": 205971,
       "word": "永夜星河过审",
       "onboard_time": 1724735542,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205748,
+      "num": 205748,
+      "word": "马龙认证许昕太全面了",
+      "onboard_time": 1724768245,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 205600,
@@ -1907,14 +1979,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 203686,
-      "num": 203686,
-      "word": "没挣24小时工资就不该全天待命",
-      "onboard_time": 1724763564,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203108,
       "num": 203108,
       "word": "孙颖莎采访最打动我的一点",
@@ -1945,6 +2009,14 @@
       "onboard_time": 1724665102,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201578,
+      "num": 201578,
+      "word": "鲁豫谈月经羞耻",
+      "onboard_time": 1724766024,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 200725,
@@ -2067,14 +2139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191374,
-      "num": 191374,
-      "word": "黑神话悟空 最高级的文宣",
-      "onboard_time": 1724765305,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 190755,
       "num": 190755,
       "word": "何超莲晒化妆前后对比图",
@@ -2163,6 +2227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 185342,
+      "num": 185342,
+      "word": "马伊琍袁泉时隔七年再同框",
+      "onboard_time": 1724768304,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184527,
       "num": 184527,
       "word": "孙杨回应复出夺冠后见到妻子泪崩",
@@ -2187,6 +2259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 183331,
+      "num": 183331,
+      "word": "林依晨 异地不可怕同床异梦才可怕",
+      "onboard_time": 1724766325,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183069,
       "num": 183069,
       "word": "何同学把工作室爆改游戏厅",
@@ -2201,6 +2281,14 @@
       "onboard_time": 1724680042,
       "rank": 36,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 181685,
+      "num": 647119,
+      "word": "警方通报看守所内酿酒引发爆炸",
+      "onboard_time": 1724765906,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181466,
@@ -2635,6 +2723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99197,
+      "num": 717379,
+      "word": "烟台海肠捞饭到底是啥味",
+      "onboard_time": 1724763863,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 96842,
       "num": 96842,
       "word": "中介公司回应员工把孩子关厕所教育",
@@ -2795,6 +2891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67830,
+      "num": 747644,
+      "word": "李建平二审维持死刑判决",
+      "onboard_time": 1724767224,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67148,
       "num": 3061010,
       "word": "雨天出门千万要注意的小事",
@@ -2883,6 +2987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59284,
+      "num": 670191,
+      "word": "小鹏MONA真香",
+      "onboard_time": 1724766024,
+      "rank": 12,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 58948,
       "num": 852782,
       "word": "带娃出门成了当代父母的地狱模式",
@@ -2897,6 +3009,14 @@
       "onboard_time": 1724696234,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 57047,
+      "num": 618116,
+      "word": "新入职会计被骗致公司损失10多万元",
+      "onboard_time": 1724767224,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56897,
@@ -2931,16 +3051,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53240,
-      "num": 463680,
-      "word": "建议改进调休凑假模式",
-      "onboard_time": 1724765544,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 53139,
-      "num": 826270,
+      "num": 910639,
       "word": "中国网络文明大会未来之夜",
       "onboard_time": 1724763385,
       "rank": 2,
@@ -3011,14 +3123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45783,
-      "num": 451638,
-      "word": "烟台海肠捞饭到底是啥味",
-      "onboard_time": 1724763863,
-      "rank": 21,
-      "category": "美食"
-    },
-    {
       "raw_hot": 45056,
       "num": 397748,
       "word": "郑州多位法官成诈骗案被害人",
@@ -3049,6 +3153,14 @@
       "onboard_time": 1724757141,
       "rank": 19,
       "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 40194,
+      "num": 594953,
+      "word": "全新电动MINIACEMAN上市",
+      "onboard_time": 1724764945,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 39740,
@@ -3091,14 +3203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34881,
-      "num": 439453,
-      "word": "济南女子称从银行取到3万元练功钞",
-      "onboard_time": 1724765424,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 34880,
       "num": 326713,
       "word": "中国游客讲述普吉岛暴雨逃生经历",
@@ -3113,14 +3217,6 @@
       "onboard_time": 1724762724,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33104,
-      "num": 201333,
-      "word": "全新电动MINIACEMAN上市",
-      "onboard_time": 1724764945,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 32659,
