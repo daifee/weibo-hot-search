@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/08/28 00:25:39 ~ 2024/08/28 03:16:50
+本榜单时间：2024/08/28 00:25:39 ~ 2024/08/28 03:36:18
 </p>
 </blockquote>
 <p>
@@ -339,6 +339,12 @@ WTT中国大满贯宣传片内容引争议（热度：402249）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%83%9F%E5%8F%B0%E4%B8%80%E9%AB%98%E6%A0%A1%E5%AE%BF%E8%88%8D%E7%94%B2%E9%86%9B%E8%B6%85%E6%A0%87%E5%A4%9A%E4%BA%BA%E7%94%9F%E7%97%85%23" target="weibo">
+烟台一高校宿舍甲醛超标多人生病（热度：68024）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%83%E4%BC%91%E6%B2%A1%E5%A2%9E%E5%8A%A0%E5%81%87%E6%9C%9F%E6%80%BB%E9%87%8F%E6%94%B6%E5%81%87%E5%90%8E%E8%BF%98%E5%BE%97%E8%BF%98%E5%80%BA%23" target="weibo">
 调休没增加假期总量收假后还得还债（热度：58152）
 </a>
@@ -358,13 +364,13 @@ ENHYPEN首部网剧成员们的出场（热度：44777）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8F%9C%E8%8F%9C%20%E6%88%91%E6%98%AF%E6%9D%A5%E8%B5%9A%E7%BB%8F%E8%B4%B9%E7%9A%84%23" target="weibo">
-菜菜 我是来赚经费的（热度：28286）
+菜菜 我是来赚经费的（热度：29449）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%83%9F%E5%8F%B0%E4%B8%80%E9%AB%98%E6%A0%A1%E5%AE%BF%E8%88%8D%E7%94%B2%E9%86%9B%E8%B6%85%E6%A0%87%E5%A4%9A%E4%BA%BA%E7%94%9F%E7%97%85%23" target="weibo">
-烟台一高校宿舍甲醛超标多人生病（热度：21180）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%8C%AE%E8%A1%808%E6%AC%A1%E4%B8%8D%E8%83%BD%E4%BC%98%E5%85%88%E7%94%A8%E8%A1%80%E5%A4%9A%E4%BA%BA%E8%A2%AB%E5%A4%84%E5%88%86%23" target="weibo">
+男子献血8次不能优先用血多人被处分（热度：19548）
 </a>
 </li>
 
