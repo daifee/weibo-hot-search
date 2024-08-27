@@ -1,0 +1,410 @@
+{
+  "runTime": 1724772981922,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8015296,
+        "num": 8015296,
+        "word": "宋祖儿工作室声明",
+        "onboard_time": 1724761283,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1970576,
+        "num": 1970576,
+        "word": "女子172cm100斤确诊营养不良型肥胖",
+        "onboard_time": 1724770224,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23541,
+        "num": 1426925,
+        "word": "中国网络文明大会未来之夜",
+        "onboard_time": 1724763385,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1210921,
+        "num": 1210921,
+        "word": "折腰速抬",
+        "onboard_time": 1724763444,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 757899,
+        "num": 757899,
+        "word": "妈妈想陪抑郁症儿子换个活法再来一次",
+        "onboard_time": 1724764884,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611011,
+        "num": 611011,
+        "word": "大妈狂买1斤黄金不挑款店员报警",
+        "onboard_time": 1724739621,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1148762,
+        "num": 561285,
+        "word": "宋祖儿 喜天",
+        "onboard_time": 1724766383,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508832,
+        "num": 508832,
+        "word": "老人自己摔倒诬陷殴打扶人少年被拘",
+        "onboard_time": 1724765485,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474953,
+        "num": 474953,
+        "word": "恋与制作人",
+        "onboard_time": 1724767706,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 82554,
+        "num": 474754,
+        "word": "教体局回应生3胎选调教师可加分",
+        "onboard_time": 1724772324,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1653043,
+        "num": 474424,
+        "word": "凌晨出道 下午塌房",
+        "onboard_time": 1724758040,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136528,
+        "num": 473984,
+        "word": "小鹏MONA售价11.98万元起",
+        "onboard_time": 1724769144,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1306410,
+        "num": 473628,
+        "word": "上6休3上3休2上5休1上2休7再上5休1",
+        "onboard_time": 1724745621,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473628,
+        "num": 473627,
+        "word": "初中女生举报被男教师骚扰引诱",
+        "onboard_time": 1724769023,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131068,
+        "num": 391760,
+        "word": "戒尺还给老师才是真正对孩子负责",
+        "onboard_time": 1724771246,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381303,
+        "num": 381303,
+        "word": "于贞 女王",
+        "onboard_time": 1724768185,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360392,
+        "num": 360392,
+        "word": "WTT中国大满贯宣传片内容引争议",
+        "onboard_time": 1724770464,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303912,
+        "num": 303912,
+        "word": "许昕收藏了马龙的签名拍",
+        "onboard_time": 1724764884,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289699,
+        "num": 289699,
+        "word": "取得这些职业资格证书可享个税扣除",
+        "onboard_time": 1724770824,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229834,
+        "num": 289675,
+        "word": "守护于贞",
+        "onboard_time": 1724763863,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1473472,
+        "num": 289212,
+        "word": "痞老板 乙游",
+        "onboard_time": 1724765305,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 528927,
+        "num": 288851,
+        "word": "建议女生洗完头不要包头发",
+        "onboard_time": 1724756720,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 367055,
+        "num": 288684,
+        "word": "男rapper 有点东西",
+        "onboard_time": 1724763745,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352599,
+        "num": 288241,
+        "word": "黄子韬守孝三年不公布喜事",
+        "onboard_time": 1724750602,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 288073,
+        "num": 288073,
+        "word": "孙颖莎这张照片硬控我30秒",
+        "onboard_time": 1724764585,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264992,
+        "num": 264992,
+        "word": "黑神话悟空 最高级的文宣",
+        "onboard_time": 1724765305,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 257349,
+        "num": 257349,
+        "word": "警方介入网贷60万打赏后送外卖还债",
+        "onboard_time": 1724770584,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252665,
+        "num": 252665,
+        "word": "女子商场试鞋脚部真菌感染",
+        "onboard_time": 1724763624,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188690,
+        "num": 249111,
+        "word": "朱志鑫从原生家庭的疼痛中挣脱",
+        "onboard_time": 1724769384,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186345,
+        "num": 248595,
+        "word": "王栎鑫这伞有点暧昧了",
+        "onboard_time": 1724768785,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248585,
+        "num": 248585,
+        "word": "樊振东陈梦退出WTT中国大满贯",
+        "onboard_time": 1724758582,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222813,
+        "num": 222813,
+        "word": "警方通报网传两名外国人打中国人",
+        "onboard_time": 1724768365,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220147,
+        "num": 220147,
+        "word": "穆祉丞 没有热爱了",
+        "onboard_time": 1724759002,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200330,
+        "num": 200330,
+        "word": "济南女子称从银行取到3万元练功钞",
+        "onboard_time": 1724765424,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181659,
+        "num": 194902,
+        "word": "王源回忆十年前写的歌",
+        "onboard_time": 1724772744,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171279,
+        "num": 193152,
+        "word": "但拓差点救活貌巴",
+        "onboard_time": 1724752640,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193071,
+        "num": 193071,
+        "word": "抑郁孩子手臂上留下大大小小的刀疤",
+        "onboard_time": 1724764884,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192890,
+        "num": 192890,
+        "word": "丑衣服别扔留着上班穿",
+        "onboard_time": 1724772083,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189466,
+        "num": 189466,
+        "word": "谈恋爱一定要筛选掉极端自私的人",
+        "onboard_time": 1724770946,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174692,
+        "num": 174692,
+        "word": "穆祉丞 被关麦",
+        "onboard_time": 1724748081,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174501,
+        "num": 174501,
+        "word": "上海侦破33年前杀人案",
+        "onboard_time": 1724760323,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171551,
+        "num": 171551,
+        "word": "第一次见四人栋的宿舍",
+        "onboard_time": 1724772144,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168720,
+        "num": 168720,
+        "word": "姚润昊硬气了",
+        "onboard_time": 1724754261,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162877,
+        "num": 162877,
+        "word": "央视专访孙颖莎",
+        "onboard_time": 1724771486,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162656,
+        "num": 162656,
+        "word": "马龙认证许昕太全面了",
+        "onboard_time": 1724768245,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160334,
+        "num": 160334,
+        "word": "警方通报看守所内酿酒引发爆炸",
+        "onboard_time": 1724765906,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156922,
+        "num": 156922,
+        "word": "任天堂独立游戏直面会",
+        "onboard_time": 1724772025,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156366,
+        "num": 156366,
+        "word": "女子患痔疮中医从嘴里治疗",
+        "onboard_time": 1724745501,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153366,
+        "num": 153366,
+        "word": "菜菜 我是来赚经费的",
+        "onboard_time": 1724768665,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152517,
+        "num": 152517,
+        "word": "派克特删除diss",
+        "onboard_time": 1724715618,
+        "rank": 49,
+        "category": "音乐,游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同建设网上精神家园习近平这样强调#"
+    }
+  }
+}
