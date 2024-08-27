@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1724747996866,
+  "endTime": 1724750515702,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -353,6 +353,14 @@
       "onboard_time": 1722527558,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15299764,
+      "num": 15299764,
+      "word": "上6休3上3休2上5休1上2休7再上5休1",
+      "onboard_time": 1724745621,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15271756,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1722344015,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 6964861,
-      "num": 6964861,
-      "word": "河北燕郊爆炸已致1死22伤",
-      "onboard_time": 1710298234,
-      "rank": 0,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

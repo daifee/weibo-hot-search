@@ -1,0 +1,410 @@
+{
+  "runTime": 1724750515702,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 15299764,
+        "num": 15299764,
+        "word": "上6休3上3休2上5休1上2休7再上5休1",
+        "onboard_time": 1724745621,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1014341,
+        "num": 1014341,
+        "word": "孙杨 短信",
+        "onboard_time": 1724744481,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22570,
+        "num": 838624,
+        "word": "锦绣智造传奇",
+        "onboard_time": 1724745680,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1355607,
+        "num": 830205,
+        "word": "大妈狂买1斤黄金不挑款店员报警",
+        "onboard_time": 1724739621,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 751359,
+        "num": 751359,
+        "word": "韩网友竟称西游记作者是韩国人",
+        "onboard_time": 1724741782,
+        "rank": 4,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 729409,
+        "num": 729409,
+        "word": "黄磊孙莉送黄多多美国留学",
+        "onboard_time": 1724737521,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 472955,
+        "num": 472955,
+        "word": "中秋国庆的调休比凑单还难算",
+        "onboard_time": 1724747361,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472051,
+        "num": 472051,
+        "word": "穆祉丞 被关麦",
+        "onboard_time": 1724748081,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452653,
+        "num": 452653,
+        "word": "兰波 易烊千玺室友",
+        "onboard_time": 1724747962,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86185,
+        "num": 443644,
+        "word": "媒体谈诬陷搀扶者的老人被拘",
+        "onboard_time": 1724750422,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471259,
+        "num": 442992,
+        "word": "杨幂伞上都是橙子",
+        "onboard_time": 1724745561,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50481,
+        "num": 441872,
+        "word": "极氪7X内饰曝光",
+        "onboard_time": 1724746521,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 441706,
+        "num": 441706,
+        "word": "iPhone16相比15最大变化",
+        "onboard_time": 1724734404,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 422670,
+        "num": 422670,
+        "word": "黄子韬身上纹了徐艺洋名字和生日",
+        "onboard_time": 1724729301,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415646,
+        "num": 415646,
+        "word": "于正曝一线女演员接了一部超烂的戏",
+        "onboard_time": 1724733922,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 415527,
+        "num": 415527,
+        "word": "前日媒中国籍播音员发博报平安",
+        "onboard_time": 1724745501,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385401,
+        "num": 385401,
+        "word": "新说唱巡演取消",
+        "onboard_time": 1724749640,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 380029,
+        "num": 380029,
+        "word": "最后的厂牌",
+        "onboard_time": 1724745440,
+        "rank": 17,
+        "category": "游戏,作品衍生"
+      },
+      {
+        "raw_hot": 329938,
+        "num": 329938,
+        "word": "爷爷沉迷手机孙子去河边洗玩具溺亡",
+        "onboard_time": 1724732002,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34880,
+        "num": 326713,
+        "word": "中国游客讲述普吉岛暴雨逃生经历",
+        "onboard_time": 1724748863,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1862169,
+        "num": 324147,
+        "word": "女子患痔疮中医从嘴里治疗",
+        "onboard_time": 1724745501,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 736291,
+        "num": 317812,
+        "word": "奶奶全程允许陌生女子厕所教育孙女",
+        "onboard_time": 1724737041,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619746,
+        "num": 308882,
+        "word": "派克特删除diss",
+        "onboard_time": 1724715618,
+        "rank": 22,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 308652,
+        "num": 308652,
+        "word": "吉祥航空",
+        "onboard_time": 1724742500,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520936,
+        "num": 307669,
+        "word": "梁源回应要起诉乙游粉丝",
+        "onboard_time": 1724738722,
+        "rank": 24,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 302588,
+        "num": 302588,
+        "word": "专家称调休只是拆东墙补西墙",
+        "onboard_time": 1724747542,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258349,
+        "num": 258349,
+        "word": "TF三代马来西亚出发回国",
+        "onboard_time": 1724745799,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 592912,
+        "num": 258332,
+        "word": "恋与深空发声明要求派克特道歉",
+        "onboard_time": 1724714357,
+        "rank": 27,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 254012,
+        "num": 258249,
+        "word": "宁艺卓VERSACE广告大片",
+        "onboard_time": 1724748202,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238880,
+        "num": 258243,
+        "word": "网红铁头惩恶扬善已被抓",
+        "onboard_time": 1724750302,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 258242,
+        "num": 258242,
+        "word": "男子住酒店醒来发现整层楼都被拆了",
+        "onboard_time": 1724738001,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255052,
+        "num": 255052,
+        "word": "带77万现金买房被抢第二天才报警",
+        "onboard_time": 1724738722,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250793,
+        "num": 250793,
+        "word": "苹果押宝iPhone16Pro系列",
+        "onboard_time": 1724749342,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 250526,
+        "num": 250526,
+        "word": "给女童立规矩是厌童症还是责任心",
+        "onboard_time": 1724743881,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224240,
+        "num": 224240,
+        "word": "当猴子吃到了榴莲味的苹果",
+        "onboard_time": 1724746942,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223838,
+        "num": 223838,
+        "word": "调休 数学题",
+        "onboard_time": 1724749763,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222227,
+        "num": 222227,
+        "word": "中医说爱长结节的人有个特点",
+        "onboard_time": 1724746880,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 42421,
+        "num": 222142,
+        "word": "好像被我发现腿精女孩的秘密了",
+        "onboard_time": 1724749522,
+        "rank": 37,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 222138,
+        "num": 222138,
+        "word": "孙颖莎寄语开学的你",
+        "onboard_time": 1724749282,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210499,
+        "num": 210499,
+        "word": "华晨宇真成火星人了",
+        "onboard_time": 1724749822,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204176,
+        "num": 204176,
+        "word": "王一博小香衬衫",
+        "onboard_time": 1724749880,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200481,
+        "num": 200481,
+        "word": "儿子冒充父亲与母亲签字离婚",
+        "onboard_time": 1724733084,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197625,
+        "num": 197625,
+        "word": "周大福门店回应2米金箍棒售价180万",
+        "onboard_time": 1724731402,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188432,
+        "num": 188432,
+        "word": "邱贻可闭幕式才知孙颖莎是亚洲代表",
+        "onboard_time": 1724744062,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182840,
+        "num": 182840,
+        "word": "沙利文抵达北京",
+        "onboard_time": 1724741421,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175750,
+        "num": 175750,
+        "word": "邹小樱 剑网3",
+        "onboard_time": 1724750061,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125832,
+        "num": 173926,
+        "word": "吉祥航空股价跌跌不休",
+        "onboard_time": 1724748383,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173889,
+        "num": 173889,
+        "word": "韩高官称韩国人先辈是日本籍",
+        "onboard_time": 1724736681,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 172534,
+        "num": 172534,
+        "word": "科学家发现地球转的越来越慢了",
+        "onboard_time": 1724748863,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 172082,
+        "num": 172082,
+        "word": "男子7天无理由退货半年退手机77次",
+        "onboard_time": 1724738961,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂习近平总书记关于体育的重要论述#"
+    }
+  }
+}

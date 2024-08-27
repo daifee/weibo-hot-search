@@ -1,7 +1,15 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724747996866,
+  "endTime": 1724750515702,
   "band_list": [
+    {
+      "raw_hot": 15299764,
+      "num": 15299764,
+      "word": "上6休3上3休2上5休1上2休7再上5休1",
+      "onboard_time": 1724745621,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 14208627,
       "num": 15458627,
@@ -41,14 +49,6 @@
       "onboard_time": 1724588663,
       "rank": 1,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 5746139,
-      "num": 5746139,
-      "word": "上6休3上3休2上5休1上2休7再上5休1",
-      "onboard_time": 1724745621,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 4377269,
@@ -297,6 +297,14 @@
       "onboard_time": 1724721621,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1862169,
+      "num": 665029,
+      "word": "女子患痔疮中医从嘴里治疗",
+      "onboard_time": 1724745501,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1843143,
@@ -1659,14 +1667,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 665029,
-      "num": 665029,
-      "word": "女子患痔疮中医从嘴里治疗",
-      "onboard_time": 1724745501,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 664671,
       "num": 664671,
       "word": "以色列遭数百枚火箭弹袭击现场",
@@ -2155,11 +2155,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 472955,
+      "num": 472955,
+      "word": "中秋国庆的调休比凑单还难算",
+      "onboard_time": 1724747361,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472649,
       "num": 389083,
       "word": "张紫宁上恋综了",
       "onboard_time": 1724684604,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 472051,
+      "num": 472051,
+      "word": "穆祉丞 被关麦",
+      "onboard_time": 1724748081,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -2281,6 +2297,14 @@
       "onboard_time": 1724678062,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452653,
+      "num": 452653,
+      "word": "兰波 易烊千玺室友",
+      "onboard_time": 1724747962,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 452042,
@@ -2459,6 +2483,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 415527,
+      "num": 415527,
+      "word": "前日媒中国籍播音员发博报平安",
+      "onboard_time": 1724745501,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414419,
       "num": 414419,
       "word": "美国一女子当众杀猫后吃猫肉被捕",
@@ -2611,14 +2643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 390605,
-      "num": 390605,
-      "word": "前日媒中国籍播音员发博报平安",
-      "onboard_time": 1724745501,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 388855,
       "num": 388855,
       "word": "陈梦说腰伤期间开会都要申请站着",
@@ -2649,6 +2673,14 @@
       "onboard_time": 1724678062,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 385401,
+      "num": 385401,
+      "word": "新说唱巡演取消",
+      "onboard_time": 1724749640,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 383574,
@@ -3139,6 +3171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 302588,
+      "num": 302588,
+      "word": "专家称调休只是拆东墙补西墙",
+      "onboard_time": 1724747542,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302568,
       "num": 302568,
       "word": "孙杨透露未来发展",
@@ -3507,14 +3547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 267476,
-      "num": 267476,
-      "word": "中秋国庆的调休比凑单还难算",
-      "onboard_time": 1724747361,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 266329,
       "num": 266329,
       "word": "DRG教练",
@@ -3699,6 +3731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254012,
+      "num": 258249,
+      "word": "宁艺卓VERSACE广告大片",
+      "onboard_time": 1724748202,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 253930,
       "num": 253930,
       "word": "以前觉得谈个帅哥就老实了",
@@ -3769,6 +3809,22 @@
       "onboard_time": 1724598204,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 250793,
+      "num": 250793,
+      "word": "苹果押宝iPhone16Pro系列",
+      "onboard_time": 1724749342,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 250526,
+      "num": 559377,
+      "word": "给女童立规矩是厌童症还是责任心",
+      "onboard_time": 1724743881,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249873,
@@ -3969,6 +4025,14 @@
       "onboard_time": 1724659702,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238880,
+      "num": 258243,
+      "word": "网红铁头惩恶扬善已被抓",
+      "onboard_time": 1724750302,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 238815,
@@ -4283,6 +4347,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224240,
+      "num": 224240,
+      "word": "当猴子吃到了榴莲味的苹果",
+      "onboard_time": 1724746942,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 223838,
+      "num": 223838,
+      "word": "调休 数学题",
+      "onboard_time": 1724749763,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222962,
       "num": 222962,
       "word": "刘金辞去中国银行行长等职务",
@@ -4297,6 +4377,22 @@
       "onboard_time": 1724684302,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222227,
+      "num": 222227,
+      "word": "中医说爱长结节的人有个特点",
+      "onboard_time": 1724746880,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 222138,
+      "num": 222138,
+      "word": "孙颖莎寄语开学的你",
+      "onboard_time": 1724749282,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 222034,
@@ -4361,14 +4457,6 @@
       "onboard_time": 1724552240,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 220025,
-      "num": 220025,
-      "word": "当猴子吃到了榴莲味的苹果",
-      "onboard_time": 1724746942,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 219813,
@@ -4667,6 +4755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210499,
+      "num": 210499,
+      "word": "华晨宇真成火星人了",
+      "onboard_time": 1724749822,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 210306,
       "num": 254438,
       "word": "长乐曲今日开播",
@@ -4873,6 +4969,14 @@
       "onboard_time": 1724639418,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204176,
+      "num": 204176,
+      "word": "王一博小香衬衫",
+      "onboard_time": 1724749880,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 203921,
@@ -5547,28 +5651,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183275,
-      "num": 183275,
-      "word": "兰波 易烊千玺室友",
-      "onboard_time": 1724747962,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 183128,
       "num": 362523,
       "word": "吴建豪是真一点儿不占粉丝便宜",
       "onboard_time": 1724652981,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 182987,
-      "num": 182987,
-      "word": "专家称调休只是拆东墙补西墙",
-      "onboard_time": 1724747542,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182908,
@@ -5811,6 +5899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175750,
+      "num": 175750,
+      "word": "邹小樱 剑网3",
+      "onboard_time": 1724750061,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 175370,
       "num": 175370,
       "word": "全国夏季游泳锦标赛",
@@ -5851,14 +5947,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 173484,
-      "num": 559377,
-      "word": "给女童立规矩是厌童症还是责任心",
-      "onboard_time": 1724743881,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173444,
       "num": 173444,
       "word": "断骨增高的人没有一天不后悔",
@@ -5875,20 +5963,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 172534,
+      "num": 172534,
+      "word": "科学家发现地球转的越来越慢了",
+      "onboard_time": 1724748863,
+      "rank": 48,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 172478,
       "num": 296080,
       "word": "薛之谦别休息了先把新歌发了",
       "onboard_time": 1724667020,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 172364,
-      "num": 172364,
-      "word": "中医说爱长结节的人有个特点",
-      "onboard_time": 1724746880,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 172236,
@@ -6923,6 +7011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125832,
+      "num": 173926,
+      "word": "吉祥航空股价跌跌不休",
+      "onboard_time": 1724748383,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125083,
       "num": 3871730,
       "word": "外国小姐姐带你144小时逛游古都",
@@ -7227,6 +7323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86185,
+      "num": 443644,
+      "word": "媒体谈诬陷搀扶者的老人被拘",
+      "onboard_time": 1724750422,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85704,
       "num": 196685,
       "word": "出伏后秋老虎和瞌睡虫都要来了",
@@ -7516,7 +7620,7 @@
     },
     {
       "raw_hot": 65111,
-      "num": 352062,
+      "num": 441872,
       "word": "极氪7X内饰曝光",
       "onboard_time": 1724746521,
       "rank": 35,
@@ -8011,6 +8115,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 42421,
+      "num": 222142,
+      "word": "好像被我发现腿精女孩的秘密了",
+      "onboard_time": 1724749522,
+      "rank": 37,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 42410,
       "num": 800455,
       "word": "山东临沂短时强对流天气致3死7伤",
@@ -8177,6 +8289,14 @@
       "onboard_time": 1724579719,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 34880,
+      "num": 326713,
+      "word": "中国游客讲述普吉岛暴雨逃生经历",
+      "onboard_time": 1724748863,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34820,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/08/27 16:39:56
+本榜单时间：2024/01/01 00:21:05 ~ 2024/08/27 17:21:55
 </p>
 </blockquote>
 <p>
@@ -275,6 +275,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%99%8B%E7%BA%A7%E5%8D%95%E6%89%934%E5%BC%BA%23" target="weibo">
 樊振东晋级单打4强（热度：15324370）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A6%E4%BC%913%E4%B8%8A3%E4%BC%912%E4%B8%8A5%E4%BC%911%E4%B8%8A2%E4%BC%917%E5%86%8D%E4%B8%8A5%E4%BC%911%23" target="weibo">
+上6休3上3休2上5休1上2休7再上5休1（热度：15299764）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ EDG全球冠军赛夺冠（热度：7188725）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%8E%E5%A4%B4%E7%BB%84%E5%90%88%E5%A4%BA%E9%87%91%23" target="weibo">
 莎头组合夺金（热度：7008510）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B41%E6%AD%BB22%E4%BC%A4%23" target="weibo">
-河北燕郊爆炸已致1死22伤（热度：6964861）
 </a>
 </li>
 
