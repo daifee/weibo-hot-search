@@ -1,6 +1,6 @@
 {
   "startTime": 1724689640506,
-  "endTime": 1724740904883,
+  "endTime": 1724743174209,
   "band_list": [
     {
       "raw_hot": 4028084,
@@ -9,6 +9,14 @@
       "onboard_time": 1724684964,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 4002981,
+      "num": 4002981,
+      "word": "大妈狂买1斤黄金不挑款店员报警",
+      "onboard_time": 1724739621,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3625367,
@@ -163,14 +171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1383985,
-      "num": 1383985,
-      "word": "大妈狂买1斤黄金不挑款店员报警",
-      "onboard_time": 1724739621,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1366877,
       "num": 1366877,
       "word": "于正曝一线女演员接了一部超烂的戏",
@@ -307,8 +307,8 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 854217,
-      "num": 854217,
+      "raw_hot": 854639,
+      "num": 854639,
       "word": "梁源回应要起诉乙游粉丝",
       "onboard_time": 1724738722,
       "rank": 15,
@@ -331,11 +331,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 805858,
+      "num": 878391,
+      "word": "男子7天无理由退货半年退手机77次",
+      "onboard_time": 1724738961,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 787279,
       "num": 787279,
       "word": "当10岁105斤的女儿生病求抱抱",
       "onboard_time": 1724690958,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 784712,
+      "num": 880877,
+      "word": "男子住酒店醒来发现整层楼都被拆了",
+      "onboard_time": 1724738001,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 739187,
+      "num": 739187,
+      "word": "带77万现金买房被抢第二天才报警",
+      "onboard_time": 1724738722,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -499,22 +523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 512612,
-      "num": 512612,
-      "word": "带77万现金买房被抢第二天才报警",
-      "onboard_time": 1724738722,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 506851,
-      "num": 880877,
-      "word": "男子住酒店醒来发现整层楼都被拆了",
-      "onboard_time": 1724738001,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 506625,
       "num": 506625,
       "word": "乳腺和甲状腺结节真是气出来的吗",
@@ -531,12 +539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 478874,
-      "num": 878391,
-      "word": "男子7天无理由退货半年退手机77次",
-      "onboard_time": 1724738961,
+      "raw_hot": 480228,
+      "num": 480228,
+      "word": "韩网友竟称西游记作者是韩国人",
+      "onboard_time": 1724741782,
       "rank": 23,
-      "category": "社会新闻"
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 470407,
@@ -577,6 +585,14 @@
       "onboard_time": 1724721920,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411960,
+      "num": 411960,
+      "word": "沙利文抵达北京",
+      "onboard_time": 1724741421,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 408500,
@@ -707,6 +723,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 326260,
+      "num": 326260,
+      "word": "杨迪曝刘诗诗非常爱做攻略",
+      "onboard_time": 1724741962,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 325799,
       "num": 325799,
       "word": "时代峰峻全新音乐厂牌",
@@ -771,12 +795,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300673,
+      "num": 300673,
+      "word": "莎头说英文",
+      "onboard_time": 1724742080,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 298550,
       "num": 298550,
       "word": "尔康 还我妈生伞",
       "onboard_time": 1724730982,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 296591,
+      "num": 296591,
+      "word": "oasis重组",
+      "onboard_time": 1724742621,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 292841,
+      "num": 292841,
+      "word": "吉祥航空",
+      "onboard_time": 1724742500,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290092,
@@ -1107,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210616,
+      "num": 210616,
+      "word": "金晨花儿与少年官宣海报",
+      "onboard_time": 1724740762,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209365,
       "num": 258656,
       "word": "种地吧",
@@ -1136,6 +1192,14 @@
       "word": "张紫宁上恋综了",
       "onboard_time": 1724684604,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 206564,
+      "num": 726123,
+      "word": "黄子韬求婚有戒指",
+      "onboard_time": 1724740281,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -1195,14 +1259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199888,
-      "num": 199888,
-      "word": "金晨花儿与少年官宣海报",
-      "onboard_time": 1724740762,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 199792,
       "num": 187823,
       "word": "登陆少年",
@@ -1219,11 +1275,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198346,
+      "num": 282254,
+      "word": "WTT中国大满贯票价引热议",
+      "onboard_time": 1724741240,
+      "rank": 36,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 197386,
       "num": 322140,
       "word": "陈梦回应为何被叫梦姐",
       "onboard_time": 1724716760,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 196427,
+      "num": 196427,
+      "word": "陈梦回山东见到恩师乔云萍",
+      "onboard_time": 1724741062,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -1251,12 +1323,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189197,
+      "num": 189197,
+      "word": "王鹤棣换个皮肤",
+      "onboard_time": 1724742141,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188065,
       "num": 188065,
       "word": "徐明浩高质量输出",
       "onboard_time": 1724735902,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186836,
+      "num": 186836,
+      "word": "美国总统国家安全事务助理沙利文访华",
+      "onboard_time": 1724742981,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 184527,
@@ -1323,14 +1411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172238,
-      "num": 726123,
-      "word": "黄子韬求婚有戒指",
-      "onboard_time": 1724740281,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 167885,
       "num": 258470,
       "word": "十年前的大学生是什么样的",
@@ -1385,6 +1465,14 @@
       "onboard_time": 1724688086,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152676,
+      "num": 742000,
+      "word": "女童被关厕所教育吉祥航空致歉",
+      "onboard_time": 1724742260,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150828,
@@ -1491,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104189,
+      "num": 639112,
+      "word": "80后基金经理夫妻老鼠仓获利1566万",
+      "onboard_time": 1724741300,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102557,
       "num": 289501,
       "word": "檀健次元莫大男主光环",
@@ -1528,6 +1624,14 @@
       "word": "三代列车同框见证中国速度",
       "onboard_time": 1724675961,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88655,
+      "num": 656772,
+      "word": "山东1天下了6500个大明湖",
+      "onboard_time": 1724742741,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1635,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63291,
+      "num": 739331,
+      "word": "南非病患涌向中国医院船求医",
+      "onboard_time": 1724741660,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61694,
       "num": 880199,
       "word": "律师说被关飞机厕所孩子的意愿应被尊重",
@@ -1657,6 +1769,14 @@
       "onboard_time": 1724728881,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59900,
+      "num": 388951,
+      "word": "小鹏MONA排面",
+      "onboard_time": 1724742323,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 58948,
@@ -1755,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42491,
+      "num": 200868,
+      "word": "美特斯邦威给90后一点小小震撼",
+      "onboard_time": 1724740762,
+      "rank": 44,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 42410,
       "num": 800455,
       "word": "山东临沂短时强对流天气致3死7伤",
@@ -1811,14 +1939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29310,
-      "num": 200868,
-      "word": "美特斯邦威给90后一点小小震撼",
-      "onboard_time": 1724740762,
-      "rank": 44,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 29161,
       "num": 34807,
       "word": "周深唱小美满和少管我",
@@ -1848,6 +1968,14 @@
       "word": "卧底招转培机构揭秘骗局内幕",
       "onboard_time": 1724733143,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22328,
+      "num": 1078278,
+      "word": "同赏一路繁花共赴一路繁华",
+      "onboard_time": 1724728040,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
