@@ -1,6 +1,6 @@
 {
   "startTime": 1724689640506,
-  "endTime": 1724743174209,
+  "endTime": 1724744187302,
   "band_list": [
     {
       "raw_hot": 4028084,
@@ -11,8 +11,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 4002981,
-      "num": 4002981,
+      "raw_hot": 4009441,
+      "num": 4009441,
       "word": "大妈狂买1斤黄金不挑款店员报警",
       "onboard_time": 1724739621,
       "rank": 14,
@@ -227,6 +227,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 1192997,
+      "num": 1192997,
+      "word": "男子7天无理由退货半年退手机77次",
+      "onboard_time": 1724738961,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1181707,
       "num": 1181707,
       "word": "iPhone16相比15最大变化",
@@ -307,8 +315,8 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 854639,
-      "num": 854639,
+      "raw_hot": 868718,
+      "num": 868718,
       "word": "梁源回应要起诉乙游粉丝",
       "onboard_time": 1724738722,
       "rank": 15,
@@ -331,11 +339,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 805858,
-      "num": 878391,
-      "word": "男子7天无理由退货半年退手机77次",
-      "onboard_time": 1724738961,
+      "raw_hot": 826415,
+      "num": 480228,
+      "word": "韩网友竟称西游记作者是韩国人",
+      "onboard_time": 1724741782,
       "rank": 23,
+      "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 807157,
+      "num": 807157,
+      "word": "带77万现金买房被抢第二天才报警",
+      "onboard_time": 1724738722,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -352,14 +368,6 @@
       "word": "男子住酒店醒来发现整层楼都被拆了",
       "onboard_time": 1724738001,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 739187,
-      "num": 739187,
-      "word": "带77万现金买房被抢第二天才报警",
-      "onboard_time": 1724738722,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -539,12 +547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 480228,
-      "num": 480228,
-      "word": "韩网友竟称西游记作者是韩国人",
-      "onboard_time": 1724741782,
-      "rank": 23,
-      "category": "游戏,社会新闻"
+      "raw_hot": 474379,
+      "num": 474379,
+      "word": "吉祥航空",
+      "onboard_time": 1724742500,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 470407,
@@ -579,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 415953,
+      "num": 415953,
+      "word": "WTT中国大满贯票价引热议",
+      "onboard_time": 1724741240,
+      "rank": 36,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 414419,
       "num": 414419,
       "word": "美国一女子当众杀猫后吃猫肉被捕",
@@ -588,7 +604,7 @@
     },
     {
       "raw_hot": 411960,
-      "num": 411960,
+      "num": 652235,
       "word": "沙利文抵达北京",
       "onboard_time": 1724741421,
       "rank": 24,
@@ -612,7 +628,7 @@
     },
     {
       "raw_hot": 404325,
-      "num": 404325,
+      "num": 499622,
       "word": "赵丽颖带儿子想想逛商场",
       "onboard_time": 1724738001,
       "rank": 28,
@@ -675,12 +691,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 383574,
+      "num": 491724,
+      "word": "Oasis重组并公布巡演",
+      "onboard_time": 1724743521,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 378069,
       "num": 995400,
       "word": "孩子母亲对2女子哄孩子表示理解",
       "onboard_time": 1724720541,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369694,
+      "num": 422710,
+      "word": "oasis重组",
+      "onboard_time": 1724742621,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 369691,
@@ -721,6 +753,14 @@
       "onboard_time": 1724732963,
       "rank": 42,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 336106,
+      "num": 336106,
+      "word": "莎头说英文",
+      "onboard_time": 1724742080,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 326260,
@@ -795,36 +835,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 300673,
-      "num": 300673,
-      "word": "莎头说英文",
-      "onboard_time": 1724742080,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 298550,
       "num": 298550,
       "word": "尔康 还我妈生伞",
       "onboard_time": 1724730982,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 296591,
-      "num": 296591,
-      "word": "oasis重组",
-      "onboard_time": 1724742621,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 292841,
-      "num": 292841,
-      "word": "吉祥航空",
-      "onboard_time": 1724742500,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 290092,
@@ -1019,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242119,
+      "num": 742000,
+      "word": "女童被关厕所教育吉祥航空致歉",
+      "onboard_time": 1724742260,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242076,
       "num": 242076,
       "word": "杨天真拉黑杨笠后首次同台",
@@ -1049,6 +1073,14 @@
       "onboard_time": 1724692997,
       "rank": 16,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 231855,
+      "num": 231855,
+      "word": "美国总统国家安全事务助理沙利文访华",
+      "onboard_time": 1724742981,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 231143,
@@ -1097,6 +1129,14 @@
       "onboard_time": 1724728281,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217942,
+      "num": 217942,
+      "word": "金晨花儿与少年官宣海报",
+      "onboard_time": 1724740762,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 217599,
@@ -1152,14 +1192,6 @@
       "word": "黄朔紫发",
       "onboard_time": 1724693358,
       "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 210616,
-      "num": 210616,
-      "word": "金晨花儿与少年官宣海报",
-      "onboard_time": 1724740762,
-      "rank": 45,
       "category": "综艺"
     },
     {
@@ -1275,14 +1307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198346,
-      "num": 282254,
-      "word": "WTT中国大满贯票价引热议",
-      "onboard_time": 1724741240,
-      "rank": 36,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 197386,
       "num": 322140,
       "word": "陈梦回应为何被叫梦姐",
@@ -1339,14 +1363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 186836,
-      "num": 186836,
-      "word": "美国总统国家安全事务助理沙利文访华",
-      "onboard_time": 1724742981,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 184527,
       "num": 184527,
       "word": "孙杨回应复出夺冠后见到妻子泪崩",
@@ -1379,6 +1395,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179531,
+      "num": 179531,
+      "word": "邱贻可闭幕式才知孙颖莎是亚洲代表",
+      "onboard_time": 1724744062,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 179181,
+      "num": 179181,
+      "word": "FIESTAR合体发歌",
+      "onboard_time": 1724743342,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 178816,
       "num": 258326,
       "word": "拼多多股价",
@@ -1408,6 +1440,14 @@
       "word": "杭州这家奶茶代购炒到300元一杯",
       "onboard_time": 1724680943,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173484,
+      "num": 173484,
+      "word": "给女童立规矩是厌童症还是责任心",
+      "onboard_time": 1724743881,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1465,14 +1505,6 @@
       "onboard_time": 1724688086,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152676,
-      "num": 742000,
-      "word": "女童被关厕所教育吉祥航空致歉",
-      "onboard_time": 1724742260,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150828,
@@ -1555,6 +1587,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 111097,
+      "num": 639112,
+      "word": "80后基金经理夫妻老鼠仓获利1566万",
+      "onboard_time": 1724741300,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109639,
       "num": 474798,
       "word": "博物馆生僻字能不能标上拼音",
@@ -1576,14 +1616,6 @@
       "word": "烟台海肠捞饭月售万份",
       "onboard_time": 1724730321,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104189,
-      "num": 639112,
-      "word": "80后基金经理夫妻老鼠仓获利1566万",
-      "onboard_time": 1724741300,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1619,19 +1651,19 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 94580,
+      "num": 656772,
+      "word": "山东1天下了6500个大明湖",
+      "onboard_time": 1724742741,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91935,
       "num": 1766463,
       "word": "三代列车同框见证中国速度",
       "onboard_time": 1724675961,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 88655,
-      "num": 656772,
-      "word": "山东1天下了6500个大明湖",
-      "onboard_time": 1724742741,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1772,7 +1804,7 @@
     },
     {
       "raw_hot": 59900,
-      "num": 388951,
+      "num": 539223,
       "word": "小鹏MONA排面",
       "onboard_time": 1724742323,
       "rank": 25,
@@ -1915,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31548,
+      "num": 1078278,
+      "word": "同赏一路繁花共赴一路繁华",
+      "onboard_time": 1724728040,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30329,
       "num": 577711,
       "word": "山东东营罕见强降雨刷新极值",
@@ -1971,10 +2011,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22328,
-      "num": 1078278,
-      "word": "同赏一路繁花共赴一路繁华",
-      "onboard_time": 1724728040,
+      "raw_hot": 20458,
+      "num": 1238095,
+      "word": "麋鹿在湿地上跑出一幅水墨画",
+      "onboard_time": 1724744120,
       "rank": 2,
       "category": "社会新闻"
     },

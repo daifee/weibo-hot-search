@@ -1,0 +1,410 @@
+{
+  "runTime": 1724744187302,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4009441,
+        "num": 4009441,
+        "word": "大妈狂买1斤黄金不挑款店员报警",
+        "onboard_time": 1724739621,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1312330,
+        "num": 1312330,
+        "word": "黄磊孙莉送黄多多美国留学",
+        "onboard_time": 1724737521,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20458,
+        "num": 1238095,
+        "word": "麋鹿在湿地上跑出一幅水墨画",
+        "onboard_time": 1724744120,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1192997,
+        "num": 1192997,
+        "word": "男子7天无理由退货半年退手机77次",
+        "onboard_time": 1724738961,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 868718,
+        "num": 868718,
+        "word": "梁源回应要起诉乙游粉丝",
+        "onboard_time": 1724738722,
+        "rank": 4,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 807157,
+        "num": 807157,
+        "word": "带77万现金买房被抢第二天才报警",
+        "onboard_time": 1724738722,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753248,
+        "num": 753248,
+        "word": "iPhone16相比15最大变化",
+        "onboard_time": 1724734404,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 691793,
+        "num": 691793,
+        "word": "男子住酒店醒来发现整层楼都被拆了",
+        "onboard_time": 1724738001,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31548,
+        "num": 662890,
+        "word": "同赏一路繁花共赴一路繁华",
+        "onboard_time": 1724728040,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238093,
+        "num": 652235,
+        "word": "沙利文抵达北京",
+        "onboard_time": 1724741421,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 757851,
+        "num": 651061,
+        "word": "黄子韬身上纹了徐艺洋名字和生日",
+        "onboard_time": 1724729301,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 648336,
+        "num": 648336,
+        "word": "边水往事 删减",
+        "onboard_time": 1724738240,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 643097,
+        "num": 643097,
+        "word": "于正曝一线女演员接了一部超烂的戏",
+        "onboard_time": 1724733922,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94580,
+        "num": 586924,
+        "word": "山东1天下了6500个大明湖",
+        "onboard_time": 1724742741,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577499,
+        "num": 577499,
+        "word": "韩高官称韩国人先辈是日本籍",
+        "onboard_time": 1724736681,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 34235,
+        "num": 539223,
+        "word": "小鹏MONA排面",
+        "onboard_time": 1724742323,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 508066,
+        "num": 508066,
+        "word": "周大福门店回应2米金箍棒售价180万",
+        "onboard_time": 1724731402,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499827,
+        "num": 499827,
+        "word": "爷爷沉迷手机孙子去河边洗玩具溺亡",
+        "onboard_time": 1724732002,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385641,
+        "num": 499622,
+        "word": "赵丽颖带儿子想想逛商场",
+        "onboard_time": 1724738001,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383574,
+        "num": 491724,
+        "word": "Oasis重组并公布巡演",
+        "onboard_time": 1724743521,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 242119,
+        "num": 489444,
+        "word": "女童被关厕所教育吉祥航空致歉",
+        "onboard_time": 1724742260,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1614804,
+        "num": 484836,
+        "word": "奶奶全程允许陌生女子厕所教育孙女",
+        "onboard_time": 1724737041,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 978218,
+        "num": 479308,
+        "word": "派克特删除diss",
+        "onboard_time": 1724715618,
+        "rank": 22,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 826415,
+        "num": 478382,
+        "word": "韩网友竟称西游记作者是韩国人",
+        "onboard_time": 1724741782,
+        "rank": 23,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 474379,
+        "num": 474379,
+        "word": "吉祥航空",
+        "onboard_time": 1724742500,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442531,
+        "num": 442531,
+        "word": "儿子冒充父亲与母亲签字离婚",
+        "onboard_time": 1724733084,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111097,
+        "num": 438379,
+        "word": "80后基金经理夫妻老鼠仓获利1566万",
+        "onboard_time": 1724741300,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 869988,
+        "num": 430883,
+        "word": "恋与深空发声明要求派克特道歉",
+        "onboard_time": 1724714357,
+        "rank": 27,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 369694,
+        "num": 422710,
+        "word": "oasis重组",
+        "onboard_time": 1724742621,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341064,
+        "num": 421109,
+        "word": "登陆计划回应传闻",
+        "onboard_time": 1724737701,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415953,
+        "num": 415953,
+        "word": "WTT中国大满贯票价引热议",
+        "onboard_time": 1724741240,
+        "rank": 30,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 336106,
+        "num": 336106,
+        "word": "莎头说英文",
+        "onboard_time": 1724742080,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331243,
+        "num": 331243,
+        "word": "鹿晗回应下次带关晓彤来",
+        "onboard_time": 1724721621,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 317746,
+        "num": 317746,
+        "word": "梁源要起诉乙游粉丝",
+        "onboard_time": 1724718501,
+        "rank": 33,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 278739,
+        "num": 278739,
+        "word": "杨迪曝刘诗诗非常爱做攻略",
+        "onboard_time": 1724741962,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264398,
+        "num": 264398,
+        "word": "于贞 rapper塌男不塌女",
+        "onboard_time": 1724731103,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251043,
+        "num": 251043,
+        "word": "TOP登陆少年或将录制hi6",
+        "onboard_time": 1724738481,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242095,
+        "num": 242095,
+        "word": "多闲鱼用户挂售霉菌引研究生破防",
+        "onboard_time": 1724734463,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231855,
+        "num": 231855,
+        "word": "美国总统国家安全事务助理沙利文访华",
+        "onboard_time": 1724742981,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 230453,
+        "num": 230453,
+        "word": "雷军晒黑神话悟空实体版",
+        "onboard_time": 1724733863,
+        "rank": 39,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 217942,
+        "num": 217942,
+        "word": "金晨花儿与少年官宣海报",
+        "onboard_time": 1724740762,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207892,
+        "num": 207892,
+        "word": "乙游尺度",
+        "onboard_time": 1724727441,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201595,
+        "num": 201595,
+        "word": "时代峰峻大合照站位",
+        "onboard_time": 1724736800,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194711,
+        "num": 194711,
+        "word": "哈圈大战乙女圈",
+        "onboard_time": 1724724321,
+        "rank": 43,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 179531,
+        "num": 179531,
+        "word": "邱贻可闭幕式才知孙颖莎是亚洲代表",
+        "onboard_time": 1724744062,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179181,
+        "num": 179181,
+        "word": "FIESTAR合体发歌",
+        "onboard_time": 1724743342,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177457,
+        "num": 177457,
+        "word": "黄子韬求婚有戒指",
+        "onboard_time": 1724740281,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173484,
+        "num": 173484,
+        "word": "给女童立规矩是厌童症还是责任心",
+        "onboard_time": 1724743881,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42207,
+        "num": 172874,
+        "word": "美特斯邦威给90后一点小小震撼",
+        "onboard_time": 1724740762,
+        "rank": 48,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 172380,
+        "num": 172380,
+        "word": "张籽沐签约泰洋川禾",
+        "onboard_time": 1724740340,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习新语#"
+    }
+  }
+}
