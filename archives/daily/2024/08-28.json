@@ -1,6 +1,6 @@
 {
   "startTime": 1724775939795,
-  "endTime": 1724793554901,
+  "endTime": 1724794505573,
   "band_list": [
     {
       "raw_hot": 4036285,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228539,
+      "num": 228539,
+      "word": "男子献血8次不能优先用血多人被处分",
+      "onboard_time": 1724786713,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226911,
       "num": 413671,
       "word": "老人自己摔倒诬陷殴打扶人少年被拘",
@@ -209,14 +217,6 @@
       "onboard_time": 1724768185,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204107,
-      "num": 204107,
-      "word": "男子献血8次不能优先用血多人被处分",
-      "onboard_time": 1724786713,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189915,
@@ -475,12 +475,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 30122,
+      "raw_hot": 30636,
       "num": 38038,
       "word": "菜菜 我是来赚经费的",
       "onboard_time": 1724768665,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 28605,
+      "num": 28605,
+      "word": "业主投诉大量公租房闲置10多年",
+      "onboard_time": 1724792832,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27518,
@@ -491,12 +499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22633,
-      "num": 23773,
-      "word": "业主投诉大量公租房闲置10多年",
-      "onboard_time": 1724792832,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 22713,
+      "num": 26606,
+      "word": "外交部驳斥菲律宾无端指责",
+      "onboard_time": 1724793491,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 20349,
@@ -507,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19390,
-      "num": 23769,
-      "word": "外交部驳斥菲律宾无端指责",
-      "onboard_time": 1724793491,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 19204,
       "num": 377638,
       "word": "现实版的黄河之水天上来",
@@ -523,7 +523,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 6807,
+      "raw_hot": 12590,
+      "num": 26641,
+      "word": "在浙江看病主打一个全程免费陪伴",
+      "onboard_time": 1724792291,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11036,
       "num": 77539,
       "word": "古人秋游活动也有划船",
       "onboard_time": 1724792471,
