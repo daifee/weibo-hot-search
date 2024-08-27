@@ -1,0 +1,410 @@
+{
+  "runTime": 1724763271843,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11643832,
+        "num": 11643832,
+        "word": "宋祖儿工作室声明",
+        "onboard_time": 1724761283,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1224902,
+        "num": 1224902,
+        "word": "樊振东陈梦退出WTT中国大满贯",
+        "onboard_time": 1724758582,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33711,
+        "num": 927713,
+        "word": "现实版的黄河之水天上来",
+        "onboard_time": 1724762724,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 888513,
+        "num": 888513,
+        "word": "大妈狂买1斤黄金不挑款店员报警",
+        "onboard_time": 1724739621,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664821,
+        "num": 664821,
+        "word": "官方通报男子献血8次不能优先用血",
+        "onboard_time": 1724757502,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604068,
+        "num": 604068,
+        "word": "王楚钦这是采访啊",
+        "onboard_time": 1724753483,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 391454,
+        "num": 391454,
+        "word": "网红铁头涉嫌敲诈勒索罪",
+        "onboard_time": 1724758221,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 381420,
+        "num": 381420,
+        "word": "穆祉丞 被关麦",
+        "onboard_time": 1724748081,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336679,
+        "num": 336679,
+        "word": "孙颖莎上台演讲",
+        "onboard_time": 1724755221,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115560,
+        "num": 335191,
+        "word": "警方通报网红铁头被抓详情",
+        "onboard_time": 1724761764,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 3682755,
+        "num": 333718,
+        "word": "凌晨出道 下午塌房",
+        "onboard_time": 1724758040,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1793378,
+        "num": 332501,
+        "word": "上6休3上3休2上5休1上2休7再上5休1",
+        "onboard_time": 1724745621,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408419,
+        "num": 331585,
+        "word": "上海侦破33年前杀人案",
+        "onboard_time": 1724760323,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376825,
+        "num": 328812,
+        "word": "李乃文 我不抽烟的",
+        "onboard_time": 1724756602,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76019,
+        "num": 327570,
+        "word": "烟台海肠捞饭会征服每一个外地人",
+        "onboard_time": 1724760022,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 350835,
+        "num": 325160,
+        "word": "于正 杨蓉在享受生活",
+        "onboard_time": 1724762124,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348496,
+        "num": 324385,
+        "word": "穆祉丞 没有热爱了",
+        "onboard_time": 1724759002,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323225,
+        "num": 323225,
+        "word": "戴向宇呼吁不要过于妖魔化娱乐圈",
+        "onboard_time": 1724760143,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249068,
+        "num": 249068,
+        "word": "韩网友竟称西游记作者是韩国人",
+        "onboard_time": 1724741782,
+        "rank": 18,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 221035,
+        "num": 248898,
+        "word": "13岁男孩凌晨在家摔成脾破裂",
+        "onboard_time": 1724762243,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 896292,
+        "num": 246179,
+        "word": "黄子韬守孝三年不公布喜事",
+        "onboard_time": 1724750602,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 822351,
+        "num": 245977,
+        "word": "建议女生洗完头不要包头发",
+        "onboard_time": 1724756720,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 432184,
+        "num": 243894,
+        "word": "女子患痔疮中医从嘴里治疗",
+        "onboard_time": 1724745501,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319535,
+        "num": 242820,
+        "word": "但拓差点救活貌巴",
+        "onboard_time": 1724752640,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252306,
+        "num": 239955,
+        "word": "我发现infj四个恐怖的天赋",
+        "onboard_time": 1724758763,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239945,
+        "num": 239945,
+        "word": "梁源回应要起诉乙游粉丝",
+        "onboard_time": 1724738722,
+        "rank": 25,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 225765,
+        "num": 225765,
+        "word": "李兰迪 高智长相演学霸的说服力",
+        "onboard_time": 1724759544,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208729,
+        "num": 208729,
+        "word": "姚润昊硬气了",
+        "onboard_time": 1724754261,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203223,
+        "num": 203223,
+        "word": "茶叶蛋也是有壳的",
+        "onboard_time": 1724751442,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159851,
+        "num": 197682,
+        "word": "体育强国根本的标志还在于体育风貌",
+        "onboard_time": 1724762604,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 249215,
+        "num": 197630,
+        "word": "原来流浪猫的凶都是装出来的",
+        "onboard_time": 1724761584,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210673,
+        "num": 197504,
+        "word": "我那全职炒股的老公",
+        "onboard_time": 1724762124,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197291,
+        "num": 197291,
+        "word": "李乃文回应直播悍匪",
+        "onboard_time": 1724762964,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192951,
+        "num": 192951,
+        "word": "山东烟台科技学院回应宿舍甲醛超标",
+        "onboard_time": 1724760983,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186259,
+        "num": 186259,
+        "word": "研究生开学军训好小众的词",
+        "onboard_time": 1724755642,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185607,
+        "num": 185607,
+        "word": "边伯贤红毯图",
+        "onboard_time": 1724759002,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183791,
+        "num": 183791,
+        "word": "大熊猫七仔模仿林黛玉喝药扭头哭",
+        "onboard_time": 1724759843,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183698,
+        "num": 183698,
+        "word": "庞博 周围没有一个企鹅朋友",
+        "onboard_time": 1724761043,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175687,
+        "num": 175687,
+        "word": "主人称小猫在宠物医院扎针时被吓死",
+        "onboard_time": 1724757621,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171294,
+        "num": 171294,
+        "word": "吴昕的刘海是一撇一捺",
+        "onboard_time": 1724762903,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166581,
+        "num": 166581,
+        "word": "派克特删除diss",
+        "onboard_time": 1724715618,
+        "rank": 40,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 165660,
+        "num": 165660,
+        "word": "徐梦洁自己淋雨也要把别人的伞撕掉",
+        "onboard_time": 1724754141,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162940,
+        "num": 162940,
+        "word": "何同学把工作室爆改游戏厅",
+        "onboard_time": 1724761764,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 155243,
+        "num": 155243,
+        "word": "白鹿向葫芦岛受灾地区捐款",
+        "onboard_time": 1724762665,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152204,
+        "num": 152204,
+        "word": "专家称调休只是拆东墙补西墙",
+        "onboard_time": 1724747542,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143026,
+        "num": 143026,
+        "word": "黄磊孙莉送黄多多美国留学",
+        "onboard_time": 1724737521,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140050,
+        "num": 140050,
+        "word": "宁夏一地招网格员零或低彩礼可加分",
+        "onboard_time": 1724760022,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139948,
+        "num": 139948,
+        "word": "历史教材新增中印边境自卫反击战等",
+        "onboard_time": 1724763084,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136535,
+        "num": 136535,
+        "word": "无偿献血证终身有效不存在过期",
+        "onboard_time": 1724763205,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135398,
+        "num": 135398,
+        "word": "杨幂伞上都是橙子",
+        "onboard_time": 1724745561,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同建设网上精神家园习近平这样强调#"
+    }
+  }
+}
