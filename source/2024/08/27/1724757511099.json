@@ -1,0 +1,410 @@
+{
+  "runTime": 1724757511099,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1415568,
+        "num": 1415568,
+        "word": "王楚钦这是采访啊",
+        "onboard_time": 1724753483,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 690132,
+        "num": 690132,
+        "word": "孙颖莎上台演讲",
+        "onboard_time": 1724755221,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4790,
+        "num": 584231,
+        "word": "锦绣智造传奇",
+        "onboard_time": 1724745680,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1037857,
+        "num": 556839,
+        "word": "大妈狂买1斤黄金不挑款店员报警",
+        "onboard_time": 1724739621,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526336,
+        "num": 526336,
+        "word": "韩网友竟称西游记作者是韩国人",
+        "onboard_time": 1724741782,
+        "rank": 4,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 487525,
+        "num": 487525,
+        "word": "姚润昊硬气了",
+        "onboard_time": 1724754261,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 485176,
+        "num": 485176,
+        "word": "徐梦洁自己淋雨也要把别人的伞撕掉",
+        "onboard_time": 1724754141,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480293,
+        "num": 480293,
+        "word": "孙悟空 林黛玉",
+        "onboard_time": 1724752461,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 353652,
+        "num": 353652,
+        "word": "新说唱巡演取消",
+        "onboard_time": 1724749640,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 49129,
+        "num": 349695,
+        "word": "关小黑屋式传统教育有两大问题",
+        "onboard_time": 1724757440,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5393070,
+        "num": 348325,
+        "word": "余宇涵 开黄腔",
+        "onboard_time": 1724754441,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2774919,
+        "num": 341957,
+        "word": "上6休3上3休2上5休1上2休7再上5休1",
+        "onboard_time": 1724745621,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 674087,
+        "num": 335660,
+        "word": "专家称调休只是拆东墙补西墙",
+        "onboard_time": 1724747542,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334852,
+        "num": 334852,
+        "word": "李乃文 我不抽烟的",
+        "onboard_time": 1724756602,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132075,
+        "num": 333034,
+        "word": "公共空间该如何接纳儿童值得深思",
+        "onboard_time": 1724755103,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3283054,
+        "num": 333017,
+        "word": "余宇涵 张元英",
+        "onboard_time": 1724754441,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332971,
+        "num": 332971,
+        "word": "茶叶蛋也是有壳的",
+        "onboard_time": 1724751442,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 317007,
+        "num": 317007,
+        "word": "黄磊孙莉送黄多多美国留学",
+        "onboard_time": 1724737521,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304755,
+        "num": 304755,
+        "word": "穆祉丞 被关麦",
+        "onboard_time": 1724748081,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30577,
+        "num": 303198,
+        "word": "男性接种HPV疫苗很有必要",
+        "onboard_time": 1724757141,
+        "rank": 19,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 330577,
+        "num": 301037,
+        "word": "中国游客讲述冰岛景点坍塌生死瞬间",
+        "onboard_time": 1724750542,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1793439,
+        "num": 300153,
+        "word": "黄子韬守孝三年不公布喜事",
+        "onboard_time": 1724750602,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 711344,
+        "num": 297228,
+        "word": "女子患痔疮中医从嘴里治疗",
+        "onboard_time": 1724745501,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634954,
+        "num": 294928,
+        "word": "余宇涵 昨天才宣誓",
+        "onboard_time": 1724755702,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398029,
+        "num": 293031,
+        "word": "派克特删除diss",
+        "onboard_time": 1724715618,
+        "rank": 24,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 291437,
+        "num": 291437,
+        "word": "但拓差点救活貌巴",
+        "onboard_time": 1724752640,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347081,
+        "num": 291299,
+        "word": "梁源回应要起诉乙游粉丝",
+        "onboard_time": 1724738722,
+        "rank": 26,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 291148,
+        "num": 291148,
+        "word": "中秋国庆的调休比凑单还难算",
+        "onboard_time": 1724747361,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230581,
+        "num": 268564,
+        "word": "兰波 易烊千玺室友",
+        "onboard_time": 1724747962,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218483,
+        "num": 268123,
+        "word": "杨幂伞上都是橙子",
+        "onboard_time": 1724745561,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267714,
+        "num": 267714,
+        "word": "研究生开学军训好小众的词",
+        "onboard_time": 1724755642,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19955,
+        "num": 247469,
+        "word": "杨幂把水果穿在身上",
+        "onboard_time": 1724756662,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 231043,
+        "num": 231043,
+        "word": "专家称个税按家庭征收将鼓励生育",
+        "onboard_time": 1724752640,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228823,
+        "num": 228823,
+        "word": "奶奶全程允许陌生女子厕所教育孙女",
+        "onboard_time": 1724737041,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217628,
+        "num": 217628,
+        "word": "前日媒中国籍播音员发博报平安",
+        "onboard_time": 1724745501,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69005,
+        "num": 213133,
+        "word": "男子为一双球鞋入室抢劫杀人",
+        "onboard_time": 1724755462,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209733,
+        "num": 209733,
+        "word": "花少6预告",
+        "onboard_time": 1724756541,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198675,
+        "num": 198675,
+        "word": "人民文娱评国漫出海",
+        "onboard_time": 1724756781,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 198327,
+        "num": 198327,
+        "word": "允许陌生人带走孩子是对风险的漠视",
+        "onboard_time": 1724751861,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189184,
+        "num": 189184,
+        "word": "建议女生洗完头不要包头发",
+        "onboard_time": 1724756720,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175274,
+        "num": 175274,
+        "word": "小鹿 女性视角",
+        "onboard_time": 1724754923,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174161,
+        "num": 174161,
+        "word": "iPhone16相比15最大变化",
+        "onboard_time": 1724734404,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 169251,
+        "num": 169251,
+        "word": "徐志胜聊原生家庭",
+        "onboard_time": 1724752339,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167972,
+        "num": 167972,
+        "word": "王源IP在马拉维",
+        "onboard_time": 1724756182,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161908,
+        "num": 161908,
+        "word": "怎么有狗能懒成这样",
+        "onboard_time": 1724755341,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158862,
+        "num": 158862,
+        "word": "赵露思分享变美小妙招",
+        "onboard_time": 1724757320,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156729,
+        "num": 156729,
+        "word": "边水往事刘金翠当街毁容",
+        "onboard_time": 1724754983,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153343,
+        "num": 153343,
+        "word": "恋与深空发声明要求派克特道歉",
+        "onboard_time": 1724714357,
+        "rank": 47,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 152551,
+        "num": 152551,
+        "word": "调休 数学题",
+        "onboard_time": 1724749763,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147779,
+        "num": 147779,
+        "word": "披荆斩棘4绝技之夜直播",
+        "onboard_time": 1724753003,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂习近平总书记关于体育的重要论述#"
+    }
+  }
+}

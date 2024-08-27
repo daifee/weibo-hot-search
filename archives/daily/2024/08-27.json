@@ -1,6 +1,6 @@
 {
   "startTime": 1724689640506,
-  "endTime": 1724755102242,
+  "endTime": 1724757511099,
   "band_list": [
     {
       "raw_hot": 15299764,
@@ -11,7 +11,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 4394294,
+      "raw_hot": 5393070,
       "num": 411486,
       "word": "余宇涵 开黄腔",
       "onboard_time": 1724754441,
@@ -41,6 +41,14 @@
       "onboard_time": 1724676321,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3283054,
+      "num": 333017,
+      "word": "余宇涵 张元英",
+      "onboard_time": 1724754441,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 3157309,
@@ -89,14 +97,6 @@
       "onboard_time": 1724737041,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2387811,
-      "num": 325813,
-      "word": "余宇涵 张元英",
-      "onboard_time": 1724754441,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 2272294,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1415568,
+      "num": 1415568,
+      "word": "王楚钦这是采访啊",
+      "onboard_time": 1724753483,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1366877,
       "num": 1366877,
       "word": "于正曝一线女演员接了一部超烂的戏",
@@ -345,14 +353,6 @@
       "onboard_time": 1724708953,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 957419,
-      "num": 957419,
-      "word": "王楚钦这是采访啊",
-      "onboard_time": 1724753483,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 926810,
@@ -515,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 690132,
+      "num": 690132,
+      "word": "孙颖莎上台演讲",
+      "onboard_time": 1724755221,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 669613,
       "num": 354570,
       "word": "吉祥航空通报儿童被关厕所教育",
@@ -537,6 +545,14 @@
       "onboard_time": 1724722161,
       "rank": 23,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 634954,
+      "num": 294928,
+      "word": "余宇涵 昨天才宣誓",
+      "onboard_time": 1724755702,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 614443,
@@ -665,6 +681,22 @@
       "onboard_time": 1724684483,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 487525,
+      "num": 487525,
+      "word": "姚润昊硬气了",
+      "onboard_time": 1724754261,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 485176,
+      "num": 485176,
+      "word": "徐梦洁自己淋雨也要把别人的伞撕掉",
+      "onboard_time": 1724754141,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 484398,
@@ -907,12 +939,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 326756,
-      "num": 326756,
-      "word": "姚润昊硬气了",
-      "onboard_time": 1724754261,
-      "rank": 14,
+      "raw_hot": 334852,
+      "num": 334852,
+      "word": "李乃文 我不抽烟的",
+      "onboard_time": 1724756602,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 332971,
+      "num": 332971,
+      "word": "茶叶蛋也是有壳的",
+      "onboard_time": 1724751442,
+      "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 330577,
+      "num": 486850,
+      "word": "中国游客讲述冰岛景点坍塌生死瞬间",
+      "onboard_time": 1724750542,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326260,
@@ -996,7 +1044,7 @@
     },
     {
       "raw_hot": 292258,
-      "num": 251786,
+      "num": 291437,
       "word": "但拓差点救活貌巴",
       "onboard_time": 1724752640,
       "rank": 31,
@@ -1024,14 +1072,6 @@
       "word": "泰国坠机遇难者为两家好友",
       "onboard_time": 1724728640,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 285970,
-      "num": 486850,
-      "word": "中国游客讲述冰岛景点坍塌生死瞬间",
-      "onboard_time": 1724750542,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1067,22 +1107,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 283255,
-      "num": 283255,
-      "word": "茶叶蛋也是有壳的",
-      "onboard_time": 1724751442,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 279133,
-      "num": 279133,
-      "word": "徐梦洁自己淋雨也要把别人的伞撕掉",
-      "onboard_time": 1724754141,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 271559,
       "num": 271559,
       "word": "郑钦文白鲸回击",
@@ -1097,6 +1121,14 @@
       "onboard_time": 1724687125,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267714,
+      "num": 267714,
+      "word": "研究生开学军训好小众的词",
+      "onboard_time": 1724755642,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 267609,
@@ -1515,6 +1547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209733,
+      "num": 209733,
+      "word": "花少6预告",
+      "onboard_time": 1724756541,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209365,
       "num": 258656,
       "word": "种地吧",
@@ -1667,6 +1707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198675,
+      "num": 198675,
+      "word": "人民文娱评国漫出海",
+      "onboard_time": 1724756781,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 197386,
       "num": 322140,
       "word": "陈梦回应为何被叫梦姐",
@@ -1713,6 +1761,14 @@
       "onboard_time": 1724742141,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189184,
+      "num": 189184,
+      "word": "建议女生洗完头不要包头发",
+      "onboard_time": 1724756720,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 188065,
@@ -1899,6 +1955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 167972,
+      "num": 167972,
+      "word": "王源IP在马拉维",
+      "onboard_time": 1724756182,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167885,
       "num": 258470,
       "word": "十年前的大学生是什么样的",
@@ -1931,6 +1995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 161908,
+      "num": 161908,
+      "word": "怎么有狗能懒成这样",
+      "onboard_time": 1724755341,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161713,
       "num": 161713,
       "word": "穆祉丞说姚昱辰我不可能忘记他",
@@ -1945,6 +2017,14 @@
       "onboard_time": 1724684604,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 158862,
+      "num": 158862,
+      "word": "赵露思分享变美小妙招",
+      "onboard_time": 1724757320,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 157824,
@@ -2001,6 +2081,14 @@
       "onboard_time": 1724590163,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132075,
+      "num": 333034,
+      "word": "公共空间该如何接纳儿童值得深思",
+      "onboard_time": 1724755103,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131966,
@@ -2251,6 +2339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69005,
+      "num": 213133,
+      "word": "男子为一双球鞋入室抢劫杀人",
+      "onboard_time": 1724755462,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67148,
       "num": 3061010,
       "word": "雨天出门千万要注意的小事",
@@ -2379,6 +2475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 49129,
+      "num": 349695,
+      "word": "关小黑屋式传统教育有两大问题",
+      "onboard_time": 1724757440,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48469,
       "num": 146547,
       "word": "多地发文揭批新形象工程",
@@ -2499,6 +2603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30577,
+      "num": 303198,
+      "word": "男性接种HPV疫苗很有必要",
+      "onboard_time": 1724757141,
+      "rank": 19,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 30329,
       "num": 577711,
       "word": "山东东营罕见强降雨刷新极值",
@@ -2561,6 +2673,14 @@
       "onboard_time": 1724744120,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19955,
+      "num": 247469,
+      "word": "杨幂把水果穿在身上",
+      "onboard_time": 1724756662,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 16477,
