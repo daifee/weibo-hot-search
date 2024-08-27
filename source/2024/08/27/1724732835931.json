@@ -1,0 +1,410 @@
+{
+  "runTime": 1724732835931,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2972900,
+        "num": 2972900,
+        "word": "黄子韬身上纹了徐艺洋名字和生日",
+        "onboard_time": 1724729301,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 973451,
+        "num": 973451,
+        "word": "新疆塔克拉玛干沙漠发洪水",
+        "onboard_time": 1724725280,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56897,
+        "num": 775074,
+        "word": "全国新设立外商投资企业超3万家",
+        "onboard_time": 1724728221,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1268229,
+        "num": 751185,
+        "word": "鹿晗回应下次带关晓彤来",
+        "onboard_time": 1724721621,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 595818,
+        "num": 595818,
+        "word": "俄军再次空袭基辅",
+        "onboard_time": 1724729240,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 537053,
+        "num": 537053,
+        "word": "张家界上半年亏损逾6000万",
+        "onboard_time": 1724720364,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1251467,
+        "num": 520981,
+        "word": "于贞 rapper塌男不塌女",
+        "onboard_time": 1724731103,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 476966,
+        "num": 476966,
+        "word": "山西一血浆站被指引导学生多次捐血",
+        "onboard_time": 1724726001,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 660176,
+        "num": 476899,
+        "word": "哈圈 没腰硬撑",
+        "onboard_time": 1724727802,
+        "rank": 8,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 55125,
+        "num": 476244,
+        "word": "网站高管开发追剧app非法获利近4亿",
+        "onboard_time": 1724732181,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 794086,
+        "num": 475853,
+        "word": "第一次见1000w销量不发十连的游戏",
+        "onboard_time": 1724719281,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 64717,
+        "num": 475586,
+        "word": "烟台海肠捞饭月售万份",
+        "onboard_time": 1724730321,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715328,
+        "num": 474996,
+        "word": "即将迎来5周调休",
+        "onboard_time": 1724717782,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72492,
+        "num": 474798,
+        "word": "博物馆生僻字能不能标上拼音",
+        "onboard_time": 1724731464,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642459,
+        "num": 474495,
+        "word": "张峻豪 心脏病",
+        "onboard_time": 1724719102,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 531693,
+        "num": 473947,
+        "word": "周大福门店回应2米金箍棒售价180万",
+        "onboard_time": 1724731402,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241601,
+        "num": 473399,
+        "word": "坠落星夜定了吴谨言王星越",
+        "onboard_time": 1724729060,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84775,
+        "num": 473352,
+        "word": "科学分析调休为什么让人痛苦",
+        "onboard_time": 1724731103,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505923,
+        "num": 472616,
+        "word": "TFBOYS祝TF三代成团快乐",
+        "onboard_time": 1724731161,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30702,
+        "num": 472204,
+        "word": "游客质疑普通人在兵马俑租轮椅免排队",
+        "onboard_time": 1724732543,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2480564,
+        "num": 471937,
+        "word": "派克特删除diss",
+        "onboard_time": 1724715618,
+        "rank": 20,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 502713,
+        "num": 471589,
+        "word": "爷爷沉迷手机孙子去河边洗玩具溺亡",
+        "onboard_time": 1724732002,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1692172,
+        "num": 471245,
+        "word": "乙游尺度",
+        "onboard_time": 1724727441,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 470966,
+        "num": 470966,
+        "word": "男孩暑假作业被一碗泡面烫没了",
+        "onboard_time": 1724718019,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1207601,
+        "num": 466627,
+        "word": "梁源要起诉乙游粉丝",
+        "onboard_time": 1724718501,
+        "rank": 24,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 419961,
+        "num": 419961,
+        "word": "穆祉丞说了什么",
+        "onboard_time": 1724722101,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1811363,
+        "num": 407377,
+        "word": "恋与深空发声明要求派克特道歉",
+        "onboard_time": 1724714357,
+        "rank": 26,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 364107,
+        "num": 364107,
+        "word": "孙颖莎9000分保持世排第一",
+        "onboard_time": 1724726720,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 687804,
+        "num": 363444,
+        "word": "乃万",
+        "onboard_time": 1724716760,
+        "rank": 28,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 176045,
+        "num": 362329,
+        "word": "清水英男在日本举行记者会",
+        "onboard_time": 1724723422,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78465,
+        "num": 360819,
+        "word": "四方馆镜头诡学",
+        "onboard_time": 1724731522,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 758965,
+        "num": 360585,
+        "word": "派克特",
+        "onboard_time": 1724687786,
+        "rank": 31,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 418171,
+        "num": 358685,
+        "word": "哈圈大战乙女圈",
+        "onboard_time": 1724724321,
+        "rank": 32,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 61025,
+        "num": 357362,
+        "word": "携号转网意外发现不知情合约",
+        "onboard_time": 1724730802,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386960,
+        "num": 356702,
+        "word": "这才是乙游玩家听的歌",
+        "onboard_time": 1724732362,
+        "rank": 34,
+        "category": "游戏,音乐"
+      },
+      {
+        "raw_hot": 356104,
+        "num": 356104,
+        "word": "王鹤润一下子就把张大大的嘴撮住了",
+        "onboard_time": 1724731343,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351308,
+        "num": 351308,
+        "word": "调休让三周双休变单休",
+        "onboard_time": 1724731223,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311805,
+        "num": 311805,
+        "word": "穆祉丞救护车",
+        "onboard_time": 1724692997,
+        "rank": 37,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 285195,
+        "num": 285195,
+        "word": "孩子被关厕所教育家长同意就行吗",
+        "onboard_time": 1724729842,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254006,
+        "num": 254006,
+        "word": "美国一女子当众杀猫后吃猫肉被捕",
+        "onboard_time": 1724721920,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82980,
+        "num": 247212,
+        "word": "22城市试点房屋养老金等三项制度",
+        "onboard_time": 1724730802,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246144,
+        "num": 246144,
+        "word": "郑钦文白鲸回击",
+        "onboard_time": 1724730563,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244784,
+        "num": 244784,
+        "word": "iPhone16或涨价",
+        "onboard_time": 1724725941,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 243240,
+        "num": 243240,
+        "word": "尔康 还我妈生伞",
+        "onboard_time": 1724730982,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237410,
+        "num": 237410,
+        "word": "泰国坠机遇难者为两家好友",
+        "onboard_time": 1724728640,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219206,
+        "num": 219206,
+        "word": "杨戬脸模演员游戏上线才发现是自己",
+        "onboard_time": 1724716760,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 47081,
+        "num": 218354,
+        "word": "华为novaFlip与QQ梦幻联动",
+        "onboard_time": 1724727920,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 217562,
+        "num": 217562,
+        "word": "明日方舟 迷宫饭呢",
+        "onboard_time": 1724731644,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217006,
+        "num": 217006,
+        "word": "罗永浩回应接婚丧嫁娶主持业务",
+        "onboard_time": 1724727741,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 208712,
+        "num": 208712,
+        "word": "6万境外游学团孩子们坐路边玩手机",
+        "onboard_time": 1724728281,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习新语#"
+    }
+  }
+}

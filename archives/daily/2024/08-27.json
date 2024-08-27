@@ -1,6 +1,6 @@
 {
   "startTime": 1724689640506,
-  "endTime": 1724729824763,
+  "endTime": 1724732835931,
   "band_list": [
     {
       "raw_hot": 4028084,
@@ -33,6 +33,14 @@
       "onboard_time": 1724687786,
       "rank": 3,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 2972900,
+      "num": 2972900,
+      "word": "黄子韬身上纹了徐艺洋名字和生日",
+      "onboard_time": 1724729301,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 2716739,
@@ -91,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1692172,
+      "num": 734856,
+      "word": "乙游尺度",
+      "onboard_time": 1724727441,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1671262,
       "num": 1671262,
       "word": "杨戬脸模演员游戏上线才发现是自己",
@@ -139,6 +155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1251467,
+      "num": 520981,
+      "word": "于贞 rapper塌男不塌女",
+      "onboard_time": 1724731103,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1238646,
       "num": 1071361,
       "word": "乃万",
@@ -153,14 +177,6 @@
       "onboard_time": 1724716760,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1159616,
-      "num": 734856,
-      "word": "乙游尺度",
-      "onboard_time": 1724727441,
-      "rank": 12,
-      "category": "游戏"
     },
     {
       "raw_hot": 1144483,
@@ -307,6 +323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 595818,
+      "num": 747469,
+      "word": "俄军再次空袭基辅",
+      "onboard_time": 1724729240,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 588824,
       "num": 588824,
       "word": "郑钦文VS阿尼西莫娃",
@@ -321,6 +345,14 @@
       "onboard_time": 1724694736,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 531693,
+      "num": 473947,
+      "word": "周大福门店回应2米金箍棒售价180万",
+      "onboard_time": 1724731402,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 521557,
@@ -347,6 +379,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 505923,
+      "num": 472616,
+      "word": "TFBOYS祝TF三代成团快乐",
+      "onboard_time": 1724731161,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 502713,
+      "num": 471589,
+      "word": "爷爷沉迷手机孙子去河边洗玩具溺亡",
+      "onboard_time": 1724732002,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 500495,
       "num": 500495,
       "word": "方便面为什么不好卖了",
@@ -355,12 +403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 471236,
-      "num": 471236,
-      "word": "黄子韬身上纹了徐艺洋名字和生日",
-      "onboard_time": 1724729301,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 476966,
+      "num": 752930,
+      "word": "山西一血浆站被指引导学生多次捐血",
+      "onboard_time": 1724726001,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 470407,
@@ -377,14 +425,6 @@
       "onboard_time": 1724720722,
       "rank": 26,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 467730,
-      "num": 752930,
-      "word": "山西一血浆站被指引导学生多次捐血",
-      "onboard_time": 1724726001,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 441435,
@@ -459,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 386960,
+      "num": 356702,
+      "word": "这才是乙游玩家听的歌",
+      "onboard_time": 1724732362,
+      "rank": 34,
+      "category": "游戏,音乐"
+    },
+    {
       "raw_hot": 383660,
       "num": 383660,
       "word": "陈奕迅女儿恋情曝光",
@@ -472,6 +520,22 @@
       "word": "孩子母亲对2女子哄孩子表示理解",
       "onboard_time": 1724720541,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356104,
+      "num": 356104,
+      "word": "王鹤润一下子就把张大大的嘴撮住了",
+      "onboard_time": 1724731343,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 351308,
+      "num": 351308,
+      "word": "调休让三周双休变单休",
+      "onboard_time": 1724731223,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -537,6 +601,14 @@
       "onboard_time": 1724724740,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 285195,
+      "num": 285195,
+      "word": "孩子被关厕所教育家长同意就行吗",
+      "onboard_time": 1724729842,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284845,
@@ -635,12 +707,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246144,
+      "num": 246144,
+      "word": "郑钦文白鲸回击",
+      "onboard_time": 1724730563,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245420,
       "num": 245420,
       "word": "官方介入调查6岁男童输液后身亡",
       "onboard_time": 1724724081,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243240,
+      "num": 243240,
+      "word": "尔康 还我妈生伞",
+      "onboard_time": 1724730982,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 243152,
@@ -667,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241601,
+      "num": 473399,
+      "word": "坠落星夜定了吴谨言王星越",
+      "onboard_time": 1724729060,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238815,
       "num": 238815,
       "word": "朱志鑫听爸爸留言哭了",
@@ -675,8 +771,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237410,
+      "num": 708966,
+      "word": "泰国坠机遇难者为两家好友",
+      "onboard_time": 1724728640,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236819,
-      "num": 332482,
+      "num": 362329,
       "word": "清水英男在日本举行记者会",
       "onboard_time": 1724723422,
       "rank": 29,
@@ -697,14 +801,6 @@
       "onboard_time": 1724688326,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 226934,
-      "num": 226934,
-      "word": "坠落星夜定了吴谨言王星越",
-      "onboard_time": 1724729060,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 225702,
@@ -747,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217562,
+      "num": 217562,
+      "word": "明日方舟 迷宫饭呢",
+      "onboard_time": 1724731644,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 212285,
       "num": 212285,
       "word": "他杀掉了一部分我 我带着他活着",
@@ -769,6 +873,14 @@
       "onboard_time": 1724684302,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208712,
+      "num": 743176,
+      "word": "6万境外游学团孩子们坐路边玩手机",
+      "onboard_time": 1724728281,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207800,
@@ -963,14 +1075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132448,
-      "num": 743176,
-      "word": "6万境外游学团孩子们坐路边玩手机",
-      "onboard_time": 1724728281,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131966,
       "num": 257988,
       "word": "苏新皓 我得救了",
@@ -1051,12 +1155,36 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 84775,
+      "num": 473352,
+      "word": "科学分析调休为什么让人痛苦",
+      "onboard_time": 1724731103,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82980,
+      "num": 247212,
+      "word": "22城市试点房屋养老金等三项制度",
+      "onboard_time": 1724730802,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78913,
       "num": 96335,
       "word": "2024美网",
       "onboard_time": 1724682563,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78465,
+      "num": 360819,
+      "word": "四方馆镜头诡学",
+      "onboard_time": 1724731522,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 76715,
@@ -1081,6 +1209,14 @@
       "onboard_time": 1724714236,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 72492,
+      "num": 474798,
+      "word": "博物馆生僻字能不能标上拼音",
+      "onboard_time": 1724731464,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71678,
@@ -1115,11 +1251,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 63303,
-      "num": 708966,
-      "word": "泰国坠机遇难者为两家好友",
-      "onboard_time": 1724728640,
-      "rank": 13,
+      "raw_hot": 64717,
+      "num": 475586,
+      "word": "烟台海肠捞饭月售万份",
+      "onboard_time": 1724730321,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61025,
+      "num": 357362,
+      "word": "携号转网意外发现不知情合约",
+      "onboard_time": 1724730802,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1137,6 +1281,22 @@
       "onboard_time": 1724696234,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 56897,
+      "num": 936015,
+      "word": "全国新设立外商投资企业超3万家",
+      "onboard_time": 1724728221,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55125,
+      "num": 476244,
+      "word": "网站高管开发追剧app非法获利近4亿",
+      "onboard_time": 1724732181,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 54927,
@@ -1171,22 +1331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 50002,
-      "num": 936015,
-      "word": "全国新设立外商投资企业超3万家",
-      "onboard_time": 1724728221,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48696,
-      "num": 747469,
-      "word": "俄军再次空袭基辅",
-      "onboard_time": 1724729240,
-      "rank": 8,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 48469,
       "num": 146547,
       "word": "多地发文揭批新形象工程",
@@ -1216,6 +1360,14 @@
       "word": "澳洲立法下班后工作公司罚款63000美元",
       "onboard_time": 1724726781,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30702,
+      "num": 472204,
+      "word": "游客质疑普通人在兵马俑租轮椅免排队",
+      "onboard_time": 1724732543,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
