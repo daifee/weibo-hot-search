@@ -1,6 +1,6 @@
 {
   "startTime": 1724689640506,
-  "endTime": 1724750515702,
+  "endTime": 1724751319193,
   "band_list": [
     {
       "raw_hot": 15299764,
@@ -315,12 +315,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 984678,
+      "num": 984678,
+      "word": "黄子韬守孝三年不公布喜事",
+      "onboard_time": 1724750602,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 978995,
       "num": 978995,
       "word": "黄子韬想的插兜吻vs现实",
       "onboard_time": 1724708953,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 926810,
+      "num": 926810,
+      "word": "网红铁头惩恶扬善已被抓",
+      "onboard_time": 1724750302,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 916157,
@@ -483,6 +499,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 638465,
+      "num": 638465,
+      "word": "新说唱巡演取消",
+      "onboard_time": 1724749640,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 612195,
       "num": 612195,
       "word": "郑钦文收获美网开门红",
@@ -515,6 +539,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 594007,
+      "num": 594007,
+      "word": "中秋国庆的调休比凑单还难算",
+      "onboard_time": 1724747361,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 588905,
       "num": 720361,
       "word": "登陆计划回应传闻",
@@ -536,6 +568,14 @@
       "word": "山西一血浆站被指引导学生多次捐血",
       "onboard_time": 1724726001,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 545925,
+      "num": 545925,
+      "word": "前日媒中国籍播音员发博报平安",
+      "onboard_time": 1724745501,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -563,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 516812,
+      "num": 516812,
+      "word": "兰波 易烊千玺室友",
+      "onboard_time": 1724747962,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 506625,
       "num": 506625,
       "word": "乳腺和甲状腺结节真是气出来的吗",
@@ -579,28 +627,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484398,
+      "num": 484398,
+      "word": "穆祉丞 被关麦",
+      "onboard_time": 1724748081,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 474379,
       "num": 474379,
       "word": "吉祥航空",
       "onboard_time": 1724742500,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 472955,
-      "num": 472955,
-      "word": "中秋国庆的调休比凑单还难算",
-      "onboard_time": 1724747361,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 472051,
-      "num": 472051,
-      "word": "穆祉丞 被关麦",
-      "onboard_time": 1724748081,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 470407,
@@ -617,14 +657,6 @@
       "onboard_time": 1724720722,
       "rank": 26,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 452653,
-      "num": 452653,
-      "word": "兰波 易烊千玺室友",
-      "onboard_time": 1724747962,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 450478,
@@ -665,14 +697,6 @@
       "onboard_time": 1724741240,
       "rank": 36,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 415527,
-      "num": 415527,
-      "word": "前日媒中国籍播音员发博报平安",
-      "onboard_time": 1724745501,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 414419,
@@ -763,14 +787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 385401,
-      "num": 385401,
-      "word": "新说唱巡演取消",
-      "onboard_time": 1724749640,
-      "rank": 16,
-      "category": "演出"
-    },
-    {
       "raw_hot": 383660,
       "num": 383660,
       "word": "陈奕迅女儿恋情曝光",
@@ -809,6 +825,14 @@
       "onboard_time": 1724738481,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 358993,
+      "num": 358993,
+      "word": "专家称调休只是拆东墙补西墙",
+      "onboard_time": 1724747542,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 356104,
@@ -915,14 +939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 302588,
-      "num": 302588,
-      "word": "专家称调休只是拆东墙补西墙",
-      "onboard_time": 1724747542,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 300865,
       "num": 300865,
       "word": "时代峰峻大合照站位",
@@ -977,6 +993,14 @@
       "onboard_time": 1724686164,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 283950,
+      "num": 283950,
+      "word": "调休 数学题",
+      "onboard_time": 1724749763,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283428,
@@ -1035,6 +1059,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 259961,
+      "num": 559377,
+      "word": "给女童立规矩是厌童症还是责任心",
+      "onboard_time": 1724743881,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259898,
       "num": 259898,
       "word": "剑网3回应被指骗方案",
@@ -1068,7 +1100,7 @@
     },
     {
       "raw_hot": 254012,
-      "num": 258249,
+      "num": 276977,
       "word": "宁艺卓VERSACE广告大片",
       "onboard_time": 1724748202,
       "rank": 28,
@@ -1097,14 +1129,6 @@
       "onboard_time": 1724749342,
       "rank": 32,
       "category": "数码"
-    },
-    {
-      "raw_hot": 250526,
-      "num": 559377,
-      "word": "给女童立规矩是厌童症还是责任心",
-      "onboard_time": 1724743881,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 249533,
@@ -1179,14 +1203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 238880,
-      "num": 258243,
-      "word": "网红铁头惩恶扬善已被抓",
-      "onboard_time": 1724750302,
-      "rank": 29,
-      "category": "网红"
-    },
-    {
       "raw_hot": 238815,
       "num": 238815,
       "word": "朱志鑫听爸爸留言哭了",
@@ -1209,6 +1225,14 @@
       "onboard_time": 1724692997,
       "rank": 16,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 233433,
+      "num": 233433,
+      "word": "阴阳师",
+      "onboard_time": 1724751021,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 231855,
@@ -1235,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229441,
+      "num": 229441,
+      "word": "孙颖莎寄语开学的你",
+      "onboard_time": 1724749282,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225702,
       "num": 258773,
       "word": "女子吃冰箱剩西瓜引发脑脓肿",
@@ -1251,28 +1283,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 223838,
-      "num": 223838,
-      "word": "调休 数学题",
-      "onboard_time": 1724749763,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 222227,
       "num": 222227,
       "word": "中医说爱长结节的人有个特点",
       "onboard_time": 1724746880,
       "rank": 45,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 222138,
-      "num": 222138,
-      "word": "孙颖莎寄语开学的你",
-      "onboard_time": 1724749282,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 222133,
@@ -1627,6 +1643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180478,
+      "num": 180478,
+      "word": "把陈都灵兔塑的真是个天才",
+      "onboard_time": 1724750661,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179181,
       "num": 179181,
       "word": "FIESTAR合体发歌",
@@ -1713,6 +1737,14 @@
       "onboard_time": 1724678482,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 161930,
+      "num": 161930,
+      "word": "白鹿拼图的时候眼睛花了",
+      "onboard_time": 1724751202,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 161713,
@@ -1940,7 +1972,7 @@
     },
     {
       "raw_hot": 86185,
-      "num": 443644,
+      "num": 555448,
       "word": "媒体谈诬陷搀扶者的老人被拘",
       "onboard_time": 1724750422,
       "rank": 9,
@@ -2044,7 +2076,7 @@
     },
     {
       "raw_hot": 65111,
-      "num": 441872,
+      "num": 492599,
       "word": "极氪7X内饰曝光",
       "onboard_time": 1724746521,
       "rank": 35,
@@ -2139,6 +2171,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 54886,
+      "num": 486850,
+      "word": "中国游客讲述冰岛景点坍塌生死瞬间",
+      "onboard_time": 1724750542,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53372,
       "num": 96180,
       "word": "恐怖片对儿童及青少年有何影响",
@@ -2179,6 +2219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47363,
+      "num": 229854,
+      "word": "好像被我发现腿精女孩的秘密了",
+      "onboard_time": 1724749522,
+      "rank": 37,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 46709,
       "num": 70980,
       "word": "超新星运动会",
@@ -2200,14 +2248,6 @@
       "word": "美特斯邦威给90后一点小小震撼",
       "onboard_time": 1724740762,
       "rank": 44,
-      "category": "时尚"
-    },
-    {
-      "raw_hot": 42421,
-      "num": 222142,
-      "word": "好像被我发现腿精女孩的秘密了",
-      "onboard_time": 1724749522,
-      "rank": 37,
       "category": "时尚"
     },
     {
