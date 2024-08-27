@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/08/27 19:35:07
+本榜单时间：2024/01/01 00:21:05 ~ 2024/08/27 20:38:47
 </p>
 </blockquote>
 <p>
@@ -1383,6 +1383,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E%23" target="weibo">
+宋祖儿工作室声明（热度：8257507）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%AF%E9%83%B8%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%9D%80%E5%AE%B3%E6%A1%88%E5%AB%8C%E7%96%91%E4%BA%BA%E5%85%A8%E9%83%A8%E6%8A%93%E8%8E%B7%23" target="weibo">
 邯郸初中生被杀害案嫌疑人全部抓获（热度：8220945）
 </a>
@@ -1805,12 +1811,6 @@ EDG全球冠军赛夺冠（热度：7188725）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%9F%E4%BB%B2%E6%96%87%E6%B6%89%E5%AB%8C%E4%B8%A5%E9%87%8D%E8%BF%9D%E7%BA%AA%E8%BF%9D%E6%B3%95%23" target="weibo">
 苟仲文涉嫌严重违纪违法（热度：7018945）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8E%8E%E5%A4%B4%E7%BB%84%E5%90%88%E5%A4%BA%E9%87%91%23" target="weibo">
-莎头组合夺金（热度：7008510）
 </a>
 </li>
 
