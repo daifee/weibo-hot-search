@@ -1,0 +1,410 @@
+{
+  "runTime": 1724727020373,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2716739,
+        "num": 2716739,
+        "word": "派克特删除diss",
+        "onboard_time": 1724715618,
+        "rank": 0,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 919373,
+        "num": 919373,
+        "word": "即将迎来5周调休",
+        "onboard_time": 1724717782,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40396,
+        "num": 803742,
+        "word": "三代列车同框见证中国速度",
+        "onboard_time": 1724675961,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1812054,
+        "num": 803170,
+        "word": "鹿晗回应下次带关晓彤来",
+        "onboard_time": 1724721621,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 800911,
+        "num": 800911,
+        "word": "张家界上半年亏损逾6000万",
+        "onboard_time": 1724720364,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2205600,
+        "num": 794740,
+        "word": "恋与深空发声明要求派克特道歉",
+        "onboard_time": 1724714357,
+        "rank": 5,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 1478658,
+        "num": 779473,
+        "word": "梁源要起诉乙游粉丝",
+        "onboard_time": 1724718501,
+        "rank": 6,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 935827,
+        "num": 778265,
+        "word": "张峻豪 心脏病",
+        "onboard_time": 1724719102,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 755903,
+        "num": 755903,
+        "word": "新疆塔克拉玛干沙漠发洪水",
+        "onboard_time": 1724725280,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106157,
+        "num": 752930,
+        "word": "山西一血浆站被指引导学生多次捐血",
+        "onboard_time": 1724726001,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1144483,
+        "num": 748065,
+        "word": "哈圈大战乙女圈",
+        "onboard_time": 1724724321,
+        "rank": 10,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 1142076,
+        "num": 738716,
+        "word": "第一次见1000w销量不发十连的游戏",
+        "onboard_time": 1724719281,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 862976,
+        "num": 731020,
+        "word": "派克特",
+        "onboard_time": 1724687786,
+        "rank": 12,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 778502,
+        "num": 724666,
+        "word": "乃万",
+        "onboard_time": 1724716760,
+        "rank": 13,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 71789,
+        "num": 710760,
+        "word": "奶茶店员用个人收款码侵占公司数万元",
+        "onboard_time": 1724726361,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710551,
+        "num": 710551,
+        "word": "男孩暑假作业被一碗泡面烫没了",
+        "onboard_time": 1724718019,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647268,
+        "num": 647268,
+        "word": "边水往事 还我妈生清纯男大",
+        "onboard_time": 1724722161,
+        "rank": 16,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 642983,
+        "num": 642983,
+        "word": "杨戬脸模演员游戏上线才发现是自己",
+        "onboard_time": 1724716760,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 631019,
+        "num": 631019,
+        "word": "穆祉丞说了什么",
+        "onboard_time": 1724722101,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29641,
+        "num": 547177,
+        "word": "离开孩子去留学她决定为自己活",
+        "onboard_time": 1724726540,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494532,
+        "num": 494532,
+        "word": "iPhone16发布会定档",
+        "onboard_time": 1724716099,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 471165,
+        "num": 471165,
+        "word": "黄子韬想的插兜吻vs现实",
+        "onboard_time": 1724708953,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438227,
+        "num": 438227,
+        "word": "枕头传来声响拆开一看有上百只虫",
+        "onboard_time": 1724720722,
+        "rank": 22,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 435308,
+        "num": 435308,
+        "word": "4岁女孩随父母露营走失落水离世",
+        "onboard_time": 1724716760,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414419,
+        "num": 414419,
+        "word": "美国一女子当众杀猫后吃猫肉被捕",
+        "onboard_time": 1724721920,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397003,
+        "num": 397003,
+        "word": "穆祉丞救护车",
+        "onboard_time": 1724692997,
+        "rank": 25,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 362477,
+        "num": 362477,
+        "word": "登陆少年首个舞台 没人唱",
+        "onboard_time": 1724716700,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339823,
+        "num": 339823,
+        "word": "iPhone16或涨价",
+        "onboard_time": 1724725941,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 236819,
+        "num": 332482,
+        "word": "清水英男在日本举行记者会",
+        "onboard_time": 1724723422,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35282,
+        "num": 332195,
+        "word": "澳洲立法下班后工作公司罚款63000美元",
+        "onboard_time": 1724726781,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391338,
+        "num": 332189,
+        "word": "穆祉丞崩溃",
+        "onboard_time": 1724724381,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332174,
+        "num": 332174,
+        "word": "当10岁105斤的女儿生病求抱抱",
+        "onboard_time": 1724690958,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304497,
+        "num": 304497,
+        "word": "孩子母亲对2女子哄孩子表示理解",
+        "onboard_time": 1724720541,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285694,
+        "num": 285694,
+        "word": "时代峰峻",
+        "onboard_time": 1724724740,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265907,
+        "num": 265907,
+        "word": "东出昌大官宣再婚",
+        "onboard_time": 1724726241,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240792,
+        "num": 240792,
+        "word": "难哄国宴级更新",
+        "onboard_time": 1724726601,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 238815,
+        "num": 238815,
+        "word": "朱志鑫听爸爸留言哭了",
+        "onboard_time": 1724714598,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238532,
+        "num": 238532,
+        "word": "突然看见十几年前妈妈的QQ空间",
+        "onboard_time": 1724724981,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236619,
+        "num": 236619,
+        "word": "吴迪公布旗下艺人名单",
+        "onboard_time": 1724725220,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235066,
+        "num": 235066,
+        "word": "郑钦文cue德约带奥运金牌",
+        "onboard_time": 1724724019,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231590,
+        "num": 231590,
+        "word": "丁程鑫 刺杀小说家2",
+        "onboard_time": 1724725401,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223665,
+        "num": 223665,
+        "word": "泰国可能同意中国建陆桥分流马六甲",
+        "onboard_time": 1724715919,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 218207,
+        "num": 218207,
+        "word": "孙颖莎9000分保持世排第一",
+        "onboard_time": 1724726720,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217599,
+        "num": 217599,
+        "word": "黄文秀事迹写入新版语文教材",
+        "onboard_time": 1724725941,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215290,
+        "num": 215290,
+        "word": "郑钦文收获美网开门红",
+        "onboard_time": 1724715919,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214250,
+        "num": 214250,
+        "word": "乙游",
+        "onboard_time": 1724721261,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 214072,
+        "num": 214072,
+        "word": "官方介入调查6岁男童输液后身亡",
+        "onboard_time": 1724724081,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212675,
+        "num": 212675,
+        "word": "TOP登陆少年",
+        "onboard_time": 1724693177,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199676,
+        "num": 199676,
+        "word": "他杀掉了一部分我 我带着他活着",
+        "onboard_time": 1724724621,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193489,
+        "num": 193489,
+        "word": "时代峰峻全新音乐厂牌",
+        "onboard_time": 1724720722,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视统一战线工作#"
+    }
+  }
+}

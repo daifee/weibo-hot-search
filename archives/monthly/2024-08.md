@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/08/01 00:24:58 ~ 2024/08/27 10:40:39
+本榜单时间：2024/08/01 00:24:58 ~ 2024/08/27 10:50:20
 </p>
 </blockquote>
 <p>
@@ -2583,6 +2583,12 @@ EDG总决赛对阵TH（热度：2977975）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B4%BE%E5%85%8B%E7%89%B9%E5%88%A0%E9%99%A4diss%23" target="weibo">
+派克特删除diss（热度：2716739）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%B7%B3%E6%B0%B43%E7%B1%B3%E6%9D%BF%E5%86%B3%E8%B5%9B%23" target="weibo">
 男子跳水3米板决赛（热度：2712771）
 </a>
@@ -2621,12 +2627,6 @@ EDG总决赛对阵TH（热度：2977975）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%BC%BA%E5%A5%B8%E6%A1%88%E7%BB%86%E8%8A%82%E5%A0%AA%E6%AF%94%E6%81%90%E6%80%96%E7%89%87%23" target="weibo">
 印度强奸案细节堪比恐怖片（热度：2679559）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B4%BE%E5%85%8B%E7%89%B9%E5%88%A0%E9%99%A4diss%23" target="weibo">
-派克特删除diss（热度：2677856）
 </a>
 </li>
 

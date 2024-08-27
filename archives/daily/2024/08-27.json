@@ -1,6 +1,6 @@
 {
   "startTime": 1724689640506,
-  "endTime": 1724726439016,
+  "endTime": 1724727020373,
   "band_list": [
     {
       "raw_hot": 4028084,
@@ -35,8 +35,8 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 2677856,
-      "num": 2677856,
+      "raw_hot": 2716739,
+      "num": 2716739,
       "word": "派克特删除diss",
       "onboard_time": 1724715618,
       "rank": 0,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1255784,
-      "num": 646124,
+      "num": 738716,
       "word": "第一次见1000w销量不发十连的游戏",
       "onboard_time": 1724719281,
       "rank": 24,
@@ -145,6 +145,14 @@
       "onboard_time": 1724716760,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1144483,
+      "num": 748065,
+      "word": "哈圈大战乙女圈",
+      "onboard_time": 1724724321,
+      "rank": 11,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 1051924,
@@ -169,14 +177,6 @@
       "onboard_time": 1724670080,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 997088,
-      "num": 640226,
-      "word": "哈圈大战乙女圈",
-      "onboard_time": 1724724321,
-      "rank": 11,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 978995,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 755903,
+      "num": 755903,
+      "word": "新疆塔克拉玛干沙漠发洪水",
+      "onboard_time": 1724725280,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 734249,
       "num": 734249,
       "word": "连云港一河道旁发现无名女尸",
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 730986,
-      "num": 594860,
+      "num": 710551,
       "word": "男孩暑假作业被一碗泡面烫没了",
       "onboard_time": 1724718019,
       "rank": 23,
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 690760,
-      "num": 586613,
+      "num": 631019,
       "word": "穆祉丞说了什么",
       "onboard_time": 1724722101,
       "rank": 26,
@@ -257,6 +265,14 @@
       "onboard_time": 1724676381,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 647268,
+      "num": 647268,
+      "word": "边水往事 还我妈生清纯男大",
+      "onboard_time": 1724722161,
+      "rank": 23,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 612195,
@@ -283,14 +299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 580537,
-      "num": 580537,
-      "word": "边水往事 还我妈生清纯男大",
-      "onboard_time": 1724722161,
-      "rank": 23,
-      "category": "作品衍生,艺人"
-    },
-    {
       "raw_hot": 541989,
       "num": 541989,
       "word": "Steam一夜遭28万次攻击",
@@ -313,14 +321,6 @@
       "onboard_time": 1724669660,
       "rank": 13,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 501202,
-      "num": 501202,
-      "word": "新疆塔克拉玛干沙漠发洪水",
-      "onboard_time": 1724725280,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 500495,
@@ -363,12 +363,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 414419,
+      "num": 414419,
+      "word": "美国一女子当众杀猫后吃猫肉被捕",
+      "onboard_time": 1724721920,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406090,
       "num": 583450,
       "word": "中专生军训中暑身亡家属发声",
       "onboard_time": 1724682863,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 391338,
+      "num": 332189,
+      "word": "穆祉丞崩溃",
+      "onboard_time": 1724724381,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 388409,
@@ -403,28 +419,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 361083,
-      "num": 361083,
-      "word": "美国一女子当众杀猫后吃猫肉被捕",
-      "onboard_time": 1724721920,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 358952,
-      "num": 317995,
-      "word": "穆祉丞崩溃",
-      "onboard_time": 1724724381,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 341909,
       "num": 132205,
       "word": "余宇涵成功出道",
       "onboard_time": 1724694316,
       "rank": 21,
       "category": "综艺,综艺"
+    },
+    {
+      "raw_hot": 339823,
+      "num": 339823,
+      "word": "iPhone16或涨价",
+      "onboard_time": 1724725941,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 325799,
@@ -515,6 +523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 265907,
+      "num": 265907,
+      "word": "东出昌大官宣再婚",
+      "onboard_time": 1724726241,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249533,
       "num": 259119,
       "word": "蒋奇明 上桌",
@@ -555,6 +571,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240792,
+      "num": 240792,
+      "word": "难哄国宴级更新",
+      "onboard_time": 1724726601,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 238815,
+      "num": 238815,
+      "word": "朱志鑫听爸爸留言哭了",
+      "onboard_time": 1724714598,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 236819,
+      "num": 332482,
+      "word": "清水英男在日本举行记者会",
+      "onboard_time": 1724723422,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235563,
       "num": 235563,
       "word": "左航",
@@ -571,28 +611,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 228343,
-      "num": 228343,
-      "word": "iPhone16或涨价",
-      "onboard_time": 1724725941,
-      "rank": 37,
-      "category": "数码"
-    },
-    {
       "raw_hot": 225702,
       "num": 258773,
       "word": "女子吃冰箱剩西瓜引发脑脓肿",
       "onboard_time": 1724677341,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223396,
-      "num": 223396,
-      "word": "朱志鑫听爸爸留言哭了",
-      "onboard_time": 1724714598,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 222133,
@@ -611,11 +635,27 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 214099,
-      "num": 298575,
-      "word": "清水英男在日本举行记者会",
-      "onboard_time": 1724723422,
-      "rank": 29,
+      "raw_hot": 218207,
+      "num": 218207,
+      "word": "孙颖莎9000分保持世排第一",
+      "onboard_time": 1724726720,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 217599,
+      "num": 217599,
+      "word": "黄文秀事迹写入新版语文教材",
+      "onboard_time": 1724725941,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214072,
+      "num": 214072,
+      "word": "官方介入调查6岁男童输液后身亡",
+      "onboard_time": 1724724081,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -641,14 +681,6 @@
       "onboard_time": 1724684302,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207819,
-      "num": 207819,
-      "word": "官方介入调查6岁男童输液后身亡",
-      "onboard_time": 1724724081,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207800,
@@ -707,14 +739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199464,
-      "num": 199464,
-      "word": "东出昌大官宣再婚",
-      "onboard_time": 1724726241,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 197386,
       "num": 322140,
       "word": "陈梦回应为何被叫梦姐",
@@ -728,14 +752,6 @@
       "word": "警方称两女子哄小孩经家长同意",
       "onboard_time": 1724672120,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 188425,
-      "num": 188425,
-      "word": "黄文秀事迹写入新版语文教材",
-      "onboard_time": 1724725941,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -915,6 +931,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 106157,
+      "num": 752930,
+      "word": "山西一血浆站被指引导学生多次捐血",
+      "onboard_time": 1724726001,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96842,
       "num": 96842,
       "word": "中介公司回应员工把孩子关厕所教育",
@@ -979,11 +1003,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 70805,
-      "num": 654434,
-      "word": "山西一血浆站被指引导学生多次捐血",
-      "onboard_time": 1724726001,
-      "rank": 9,
+      "raw_hot": 71789,
+      "num": 710760,
+      "word": "奶茶店员用个人收款码侵占公司数万元",
+      "onboard_time": 1724726361,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1067,11 +1091,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 40329,
-      "num": 603286,
-      "word": "奶茶店员用个人收款码侵占公司数万元",
-      "onboard_time": 1724726361,
-      "rank": 14,
+      "raw_hot": 35282,
+      "num": 332195,
+      "word": "澳洲立法下班后工作公司罚款63000美元",
+      "onboard_time": 1724726781,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1080,6 +1104,14 @@
       "word": "青岛官方回应网传一公司代孕",
       "onboard_time": 1724699712,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29641,
+      "num": 547177,
+      "word": "离开孩子去留学她决定为自己活",
+      "onboard_time": 1724726540,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
