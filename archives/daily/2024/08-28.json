@@ -1,6 +1,6 @@
 {
   "startTime": 1724775939795,
-  "endTime": 1724794505573,
+  "endTime": 1724797312577,
   "band_list": [
     {
       "raw_hot": 4036285,
@@ -80,6 +80,14 @@
       "word": "取得这些职业资格证书可享个税扣除",
       "onboard_time": 1724770824,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452587,
+      "num": 452587,
+      "word": "男子献血8次不能优先用血多人被处分",
+      "onboard_time": 1724786713,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -171,11 +179,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228539,
-      "num": 228539,
-      "word": "男子献血8次不能优先用血多人被处分",
-      "onboard_time": 1724786713,
-      "rank": 9,
+      "raw_hot": 231167,
+      "num": 231167,
+      "word": "广东夫妻生完2娃又喜提4胞胎",
+      "onboard_time": 1724780055,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -283,20 +291,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153301,
+      "num": 115837,
+      "word": "警方通报网红铁头被抓详情",
+      "onboard_time": 1724761764,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 152582,
       "num": 152582,
       "word": "穆祉丞 没有热爱了",
       "onboard_time": 1724759002,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 149718,
-      "num": 149718,
-      "word": "广东夫妻生完2娃又喜提4胞胎",
-      "onboard_time": 1724780055,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140226,
@@ -369,14 +377,6 @@
       "onboard_time": 1724754261,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 115779,
-      "num": 115779,
-      "word": "警方通报网红铁头被抓详情",
-      "onboard_time": 1724761764,
-      "rank": 45,
-      "category": "网红"
     },
     {
       "raw_hot": 113220,
@@ -475,16 +475,24 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33835,
+      "num": 35976,
+      "word": "外交部驳斥菲律宾无端指责",
+      "onboard_time": 1724793491,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30636,
-      "num": 38038,
+      "num": 45030,
       "word": "菜菜 我是来赚经费的",
       "onboard_time": 1724768665,
       "rank": 48,
       "category": "综艺"
     },
     {
-      "raw_hot": 28605,
-      "num": 28605,
+      "raw_hot": 28814,
+      "num": 35976,
       "word": "业主投诉大量公租房闲置10多年",
       "onboard_time": 1724792832,
       "rank": 47,
@@ -497,14 +505,6 @@
       "onboard_time": 1724789411,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22713,
-      "num": 26606,
-      "word": "外交部驳斥菲律宾无端指责",
-      "onboard_time": 1724793491,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 20349,
@@ -520,6 +520,14 @@
       "word": "现实版的黄河之水天上来",
       "onboard_time": 1724762724,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17980,
+      "num": 125723,
+      "word": "官方回应高校学生称新宿舍气味刺鼻",
+      "onboard_time": 1724794811,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
