@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/08/01 00:24:58 ~ 2024/08/27 17:35:19
+本榜单时间：2024/08/01 00:24:58 ~ 2024/08/27 18:21:15
 </p>
 </blockquote>
 <p>
@@ -2501,6 +2501,12 @@ EDG总决赛对阵TH（热度：2977975）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E9%97%AD%E5%B9%95%E5%BC%8F%E6%9C%89%E4%BA%92%E5%8A%A8%E7%8E%AF%E8%8A%82%23" target="weibo">
 孙颖莎闭幕式有互动环节（热度：2804026）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%AE%88%E5%AD%9D%E4%B8%89%E5%B9%B4%E4%B8%8D%E5%85%AC%E5%B8%83%E5%96%9C%E4%BA%8B%23" target="weibo">
+黄子韬守孝三年不公布喜事（热度：2802982）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ EDG晋级冠军赛总决赛（热度：1609694）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E8%87%AA%E7%94%B1%E4%BD%93%E6%93%8D%E9%93%9C%E7%89%8C%E8%A2%AB%E5%89%A5%E5%A4%BA%23" target="weibo">
 美国女子自由体操铜牌被剥夺（热度：1606801）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E7%A5%9D%E6%84%BF%E4%B8%A4%E4%BD%8D%E5%B0%8F%E5%A6%B9%E5%A6%B9%E5%AE%9E%E7%8E%B0%E6%A2%A6%E6%83%B3%23" target="weibo">
-陈梦祝愿两位小妹妹实现梦想（热度：1606463）
 </a>
 </li>
 
