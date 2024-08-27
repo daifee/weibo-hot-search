@@ -1,0 +1,410 @@
+{
+  "runTime": 1724801694803,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1493475,
+        "num": 1493475,
+        "word": "女子172cm100斤确诊营养不良型肥胖",
+        "onboard_time": 1724770224,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1452536,
+        "num": 1452536,
+        "word": "雪梨",
+        "onboard_time": 1724774780,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 10687,
+        "num": 1185034,
+        "word": "现实版的黄河之水天上来",
+        "onboard_time": 1724762724,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 937659,
+        "num": 937659,
+        "word": "宋祖儿 喜天",
+        "onboard_time": 1724766383,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 588973,
+        "num": 588973,
+        "word": "广东夫妻生完2娃又喜提4胞胎",
+        "onboard_time": 1724780055,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451951,
+        "num": 451951,
+        "word": "老人自己摔倒诬陷殴打扶人少年被拘",
+        "onboard_time": 1724765485,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524923,
+        "num": 411633,
+        "word": "折腰速抬",
+        "onboard_time": 1724763444,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348756,
+        "num": 348756,
+        "word": "妈妈想陪抑郁症儿子换个活法再来一次",
+        "onboard_time": 1724764884,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 689991,
+        "num": 346378,
+        "word": "宋祖儿工作室声明",
+        "onboard_time": 1724761283,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19659,
+        "num": 342410,
+        "word": "民警下班夜跑抓获两名嫌疑人",
+        "onboard_time": 1724799315,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624502,
+        "num": 335323,
+        "word": "上6休3上3休2上5休1上2休7再上5休1",
+        "onboard_time": 1724745621,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1627611,
+        "num": 332365,
+        "word": "男子献血8次不能优先用血多人被处分",
+        "onboard_time": 1724786713,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512809,
+        "num": 326166,
+        "word": "凌晨出道 下午塌房",
+        "onboard_time": 1724758040,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429518,
+        "num": 320817,
+        "word": "警方通报网红铁头被抓详情",
+        "onboard_time": 1724761764,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 378795,
+        "num": 312566,
+        "word": "代入徐艺洋视角后笑不出来",
+        "onboard_time": 1724781735,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312179,
+        "num": 312179,
+        "word": "初中女生举报被男教师骚扰引诱",
+        "onboard_time": 1724769023,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287827,
+        "num": 287827,
+        "word": "大妈狂买1斤黄金不挑款店员报警",
+        "onboard_time": 1724739621,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247581,
+        "num": 247581,
+        "word": "Candy要飞喊话雪梨",
+        "onboard_time": 1724800639,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 232836,
+        "num": 232836,
+        "word": "WTT中国大满贯宣传片内容引争议",
+        "onboard_time": 1724770464,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231009,
+        "num": 231009,
+        "word": "济南女子称从银行取到3万元练功钞",
+        "onboard_time": 1724765424,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202504,
+        "num": 202504,
+        "word": "警方介入网贷60万打赏后送外卖还债",
+        "onboard_time": 1724770584,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192741,
+        "num": 192741,
+        "word": "痞老板 乙游",
+        "onboard_time": 1724765305,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177161,
+        "num": 177161,
+        "word": "取得这些职业资格证书可享个税扣除",
+        "onboard_time": 1724770824,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159837,
+        "num": 159837,
+        "word": "痞老板",
+        "onboard_time": 1724800576,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133142,
+        "num": 133142,
+        "word": "张峻豪 聊天记录",
+        "onboard_time": 1724801357,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130292,
+        "num": 130292,
+        "word": "打针时主动撅起屁股的小狗",
+        "onboard_time": 1724798954,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127734,
+        "num": 127734,
+        "word": "警方通报网传两名外国人打中国人",
+        "onboard_time": 1724768365,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127252,
+        "num": 127252,
+        "word": "大胖橘对儿子和女儿的区别",
+        "onboard_time": 1724799735,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122130,
+        "num": 122130,
+        "word": "王鹤棣抱孩子",
+        "onboard_time": 1724799795,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117546,
+        "num": 117546,
+        "word": "烟台一高校宿舍甲醛超标多人生病",
+        "onboard_time": 1724784852,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118742,
+        "num": 117516,
+        "word": "当我开学报名背着一个尿素袋时",
+        "onboard_time": 1724800758,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117259,
+        "num": 117259,
+        "word": "调休没增加假期总量收假后还得还债",
+        "onboard_time": 1724781615,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114793,
+        "num": 114793,
+        "word": "黑神话悟空 最高级的文宣",
+        "onboard_time": 1724765305,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107160,
+        "num": 107160,
+        "word": "教体局回应生3胎选调教师可加分",
+        "onboard_time": 1724772324,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104929,
+        "num": 104929,
+        "word": "落地成盒",
+        "onboard_time": 1724773883,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100454,
+        "num": 100454,
+        "word": "建议女生洗完头不要包头发",
+        "onboard_time": 1724756720,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99764,
+        "num": 99764,
+        "word": "戒尺还给老师才是真正对孩子负责",
+        "onboard_time": 1724771246,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97631,
+        "num": 97631,
+        "word": "上海侦破33年前杀人案",
+        "onboard_time": 1724760323,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96870,
+        "num": 96870,
+        "word": "长了一张恶人脸却是顶级恋爱脑",
+        "onboard_time": 1724758943,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95058,
+        "num": 95058,
+        "word": "第一次见四人栋的宿舍",
+        "onboard_time": 1724772144,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93732,
+        "num": 93732,
+        "word": "女子商场试鞋脚部真菌感染",
+        "onboard_time": 1724763624,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86476,
+        "num": 86476,
+        "word": "警方通报看守所内酿酒引发爆炸",
+        "onboard_time": 1724765906,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85394,
+        "num": 85394,
+        "word": "转身这一刻偶像剧都弱爆了",
+        "onboard_time": 1724798474,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83727,
+        "num": 83727,
+        "word": "樊振东陈梦退出WTT中国大满贯",
+        "onboard_time": 1724758582,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79572,
+        "num": 79572,
+        "word": "7天无理由退货不等于无限制退货",
+        "onboard_time": 1724776160,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77590,
+        "num": 77590,
+        "word": "工作人员清理散发臭味的爱豆待机室",
+        "onboard_time": 1724776877,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73987,
+        "num": 77589,
+        "word": "孙颖莎这张照片硬控我30秒",
+        "onboard_time": 1724764585,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73131,
+        "num": 77587,
+        "word": "现实中没有断首的灵吉菩萨",
+        "onboard_time": 1724801419,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 70035,
+        "num": 77587,
+        "word": "吃饭偶遇张予曦",
+        "onboard_time": 1724797634,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68084,
+        "num": 77585,
+        "word": "90后女生出游20天全村手机都要瘫痪了",
+        "onboard_time": 1724801419,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同建设网上精神家园习近平这样强调#"
+    }
+  }
+}

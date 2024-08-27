@@ -1,6 +1,6 @@
 {
   "startTime": 1724775939795,
-  "endTime": 1724800837388,
+  "endTime": 1724801694803,
   "band_list": [
     {
       "raw_hot": 4036285,
@@ -19,19 +19,19 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1627611,
+      "num": 1314515,
+      "word": "男子献血8次不能优先用血多人被处分",
+      "onboard_time": 1724786713,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1559456,
       "num": 1559456,
       "word": "女子172cm100斤确诊营养不良型肥胖",
       "onboard_time": 1724770224,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1314515,
-      "num": 1314515,
-      "word": "男子献血8次不能优先用血多人被处分",
-      "onboard_time": 1724786713,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -67,8 +67,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 780973,
-      "num": 780973,
+      "raw_hot": 937659,
+      "num": 937659,
       "word": "宋祖儿 喜天",
       "onboard_time": 1724766383,
       "rank": 7,
@@ -99,20 +99,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 451951,
+      "num": 451951,
+      "word": "老人自己摔倒诬陷殴打扶人少年被拘",
+      "onboard_time": 1724765485,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429518,
+      "num": 320817,
+      "word": "警方通报网红铁头被抓详情",
+      "onboard_time": 1724761764,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 423430,
       "num": 423430,
       "word": "大妈狂买1斤黄金不挑款店员报警",
       "onboard_time": 1724739621,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 419238,
-      "num": 313877,
-      "word": "警方通报网红铁头被抓详情",
-      "onboard_time": 1724761764,
-      "rank": 45,
-      "category": "网红"
     },
     {
       "raw_hot": 415089,
@@ -147,12 +155,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 375541,
-      "num": 413671,
-      "word": "老人自己摔倒诬陷殴打扶人少年被拘",
-      "onboard_time": 1724765485,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 378795,
+      "num": 312566,
+      "word": "代入徐艺洋视角后笑不出来",
+      "onboard_time": 1724781735,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 342621,
@@ -179,14 +187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 295153,
-      "num": 295153,
-      "word": "代入徐艺洋视角后笑不出来",
-      "onboard_time": 1724781735,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 290500,
       "num": 290500,
       "word": "黄子韬守孝三年不公布喜事",
@@ -203,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247581,
+      "num": 247581,
+      "word": "Candy要飞喊话雪梨",
+      "onboard_time": 1724800639,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 231672,
       "num": 231672,
       "word": "教体局回应生3胎选调教师可加分",
@@ -211,8 +219,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226679,
-      "num": 226679,
+      "raw_hot": 231009,
+      "num": 231009,
       "word": "济南女子称从银行取到3万元练功钞",
       "onboard_time": 1724765424,
       "rank": 35,
@@ -291,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159837,
+      "num": 159837,
+      "word": "痞老板",
+      "onboard_time": 1724800576,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159574,
       "num": 159574,
       "word": "警方通报网传两名外国人打中国人",
@@ -331,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133142,
+      "num": 133142,
+      "word": "张峻豪 聊天记录",
+      "onboard_time": 1724801357,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132913,
       "num": 132913,
       "word": "上海侦破33年前杀人案",
@@ -347,12 +371,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126573,
-      "num": 126573,
+      "raw_hot": 130292,
+      "num": 130292,
       "word": "打针时主动撅起屁股的小狗",
       "onboard_time": 1724798954,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127252,
+      "num": 127252,
+      "word": "大胖橘对儿子和女儿的区别",
+      "onboard_time": 1724799735,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 123310,
@@ -361,6 +393,14 @@
       "onboard_time": 1724748081,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122130,
+      "num": 122130,
+      "word": "王鹤棣抱孩子",
+      "onboard_time": 1724799795,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 120359,
@@ -379,12 +419,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 118742,
+      "num": 117516,
+      "word": "当我开学报名背着一个尿素袋时",
+      "onboard_time": 1724800758,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 118116,
       "num": 118116,
       "word": "姚润昊硬气了",
       "onboard_time": 1724754261,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 117546,
+      "num": 117546,
+      "word": "烟台一高校宿舍甲醛超标多人生病",
+      "onboard_time": 1724784852,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117259,
+      "num": 126350,
+      "word": "调休没增加假期总量收假后还得还债",
+      "onboard_time": 1724781615,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113220,
@@ -403,14 +467,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 101524,
-      "num": 101524,
-      "word": "烟台一高校宿舍甲醛超标多人生病",
-      "onboard_time": 1724784852,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 100912,
       "num": 100912,
       "word": "抑郁孩子手臂上留下大大小小的刀疤",
@@ -424,14 +480,6 @@
       "word": "警方通报看守所内酿酒引发爆炸",
       "onboard_time": 1724765906,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98342,
-      "num": 126350,
-      "word": "调休没增加假期总量收假后还得还债",
-      "onboard_time": 1724781615,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -459,12 +507,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 90845,
-      "num": 97678,
-      "word": "王鹤棣抱孩子",
-      "onboard_time": 1724799795,
-      "rank": 28,
-      "category": "作品衍生"
+      "raw_hot": 96870,
+      "num": 96870,
+      "word": "长了一张恶人脸却是顶级恋爱脑",
+      "onboard_time": 1724758943,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 85394,
+      "num": 85394,
+      "word": "转身这一刻偶像剧都弱爆了",
+      "onboard_time": 1724798474,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 85155,
@@ -475,14 +531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83806,
-      "num": 83806,
-      "word": "当我开学报名背着一个尿素袋时",
-      "onboard_time": 1724800758,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 80237,
       "num": 97648,
       "word": "吃饭偶遇张予曦",
@@ -491,36 +539,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 78202,
-      "num": 78202,
-      "word": "痞老板",
-      "onboard_time": 1724800576,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 73131,
+      "num": 77587,
+      "word": "现实中没有断首的灵吉菩萨",
+      "onboard_time": 1724801419,
+      "rank": 47,
+      "category": "游戏"
     },
     {
-      "raw_hot": 76580,
-      "num": 76580,
-      "word": "大胖橘对儿子和女儿的区别",
-      "onboard_time": 1724799735,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 75849,
-      "num": 82912,
-      "word": "转身这一刻偶像剧都弱爆了",
-      "onboard_time": 1724798474,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 75134,
-      "num": 75134,
-      "word": "Candy要飞喊话雪梨",
-      "onboard_time": 1724800639,
-      "rank": 41,
-      "category": "网红"
+      "raw_hot": 68084,
+      "num": 77585,
+      "word": "90后女生出游20天全村手机都要瘫痪了",
+      "onboard_time": 1724801419,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62208,
@@ -587,19 +619,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19659,
+      "num": 349069,
+      "word": "民警下班夜跑抓获两名嫌疑人",
+      "onboard_time": 1724799315,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19204,
       "num": 1262517,
       "word": "现实版的黄河之水天上来",
       "onboard_time": 1724762724,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15222,
-      "num": 349069,
-      "word": "民警下班夜跑抓获两名嫌疑人",
-      "onboard_time": 1724799315,
-      "rank": 9,
       "category": "社会新闻"
     },
     {

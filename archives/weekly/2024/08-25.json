@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724800837388,
+  "endTime": 1724801694803,
   "band_list": [
     {
       "raw_hot": 15299764,
@@ -539,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1627611,
+      "num": 1314515,
+      "word": "男子献血8次不能优先用血多人被处分",
+      "onboard_time": 1724786713,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1625949,
       "num": 644238,
       "word": "医生让我别穿洞洞鞋",
@@ -620,7 +628,7 @@
     },
     {
       "raw_hot": 1574263,
-      "num": 796534,
+      "num": 937659,
       "word": "宋祖儿 喜天",
       "onboard_time": 1724766383,
       "rank": 6,
@@ -792,14 +800,6 @@
       "word": "孙杨冲击复出首冠",
       "onboard_time": 1724582961,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1314515,
-      "num": 1314515,
-      "word": "男子献血8次不能优先用血多人被处分",
-      "onboard_time": 1724786713,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2723,6 +2723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 429518,
+      "num": 378731,
+      "word": "警方通报网红铁头被抓详情",
+      "onboard_time": 1724761764,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 427375,
       "num": 427375,
       "word": "最后的厂牌",
@@ -2761,14 +2769,6 @@
       "onboard_time": 1724666481,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 419238,
-      "num": 378731,
-      "word": "警方通报网红铁头被抓详情",
-      "onboard_time": 1724761764,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 417549,
@@ -3025,6 +3025,14 @@
       "onboard_time": 1724770584,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 378795,
+      "num": 312566,
+      "word": "代入徐艺洋视角后笑不出来",
+      "onboard_time": 1724781735,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 378724,
@@ -3689,14 +3697,6 @@
       "onboard_time": 1724678662,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 295153,
-      "num": 295153,
-      "word": "代入徐艺洋视角后笑不出来",
-      "onboard_time": 1724781735,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 294369,
@@ -4377,6 +4377,14 @@
       "onboard_time": 1724765544,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247581,
+      "num": 247581,
+      "word": "Candy要飞喊话雪梨",
+      "onboard_time": 1724800639,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 247270,
@@ -7299,6 +7307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 159837,
+      "num": 159837,
+      "word": "痞老板",
+      "onboard_time": 1724800576,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159801,
       "num": 159801,
       "word": "孙颖莎称初衷都是为国而战",
@@ -7947,6 +7963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133142,
+      "num": 133142,
+      "word": "张峻豪 聊天记录",
+      "onboard_time": 1724801357,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133119,
       "num": 133119,
       "word": "张志杰追思会在杭州举行",
@@ -7995,6 +8019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130292,
+      "num": 130292,
+      "word": "打针时主动撅起屁股的小狗",
+      "onboard_time": 1724798954,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129278,
       "num": 133208,
       "word": "陶喆人老了偷偷睡觉",
@@ -8035,20 +8067,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127252,
+      "num": 127252,
+      "word": "大胖橘对儿子和女儿的区别",
+      "onboard_time": 1724799735,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127091,
       "num": 127091,
       "word": "早晨6点起床跟8点起床的区别",
       "onboard_time": 1724547739,
       "rank": 45,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 126573,
-      "num": 126573,
-      "word": "打针时主动撅起屁股的小狗",
-      "onboard_time": 1724798954,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 125952,
@@ -8107,6 +8139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122130,
+      "num": 122130,
+      "word": "王鹤棣抱孩子",
+      "onboard_time": 1724799795,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 121762,
       "num": 516350,
       "word": "烟台海肠捞饭门前有多火",
@@ -8147,6 +8187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118742,
+      "num": 117516,
+      "word": "当我开学报名背着一个尿素袋时",
+      "onboard_time": 1724800758,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 118084,
       "num": 395442,
       "word": "潘玮柏 男孩子的体重少打听",
@@ -8160,6 +8208,22 @@
       "word": "沙地塌陷埋压2孩童众人刨沙施救",
       "onboard_time": 1724599041,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117546,
+      "num": 117546,
+      "word": "烟台一高校宿舍甲醛超标多人生病",
+      "onboard_time": 1724784852,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117259,
+      "num": 126350,
+      "word": "调休没增加假期总量收假后还得还债",
+      "onboard_time": 1724781615,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -8299,14 +8363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101524,
-      "num": 101524,
-      "word": "烟台一高校宿舍甲醛超标多人生病",
-      "onboard_time": 1724784852,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101397,
       "num": 303711,
       "word": "蒋奇明演技",
@@ -8320,14 +8376,6 @@
       "word": "公租房建设19年仍未交付",
       "onboard_time": 1724745799,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98342,
-      "num": 126350,
-      "word": "调休没增加假期总量收假后还得还债",
-      "onboard_time": 1724781615,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -8395,14 +8443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 90845,
-      "num": 97678,
-      "word": "王鹤棣抱孩子",
-      "onboard_time": 1724799795,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 89584,
       "num": 89584,
       "word": "TF三代登陆时刻演唱会",
@@ -8443,12 +8483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83806,
-      "num": 83806,
-      "word": "当我开学报名背着一个尿素袋时",
-      "onboard_time": 1724800758,
-      "rank": 34,
-      "category": "情感"
+      "raw_hot": 85394,
+      "num": 85394,
+      "word": "转身这一刻偶像剧都弱爆了",
+      "onboard_time": 1724798474,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 83361,
@@ -8507,14 +8547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 78202,
-      "num": 78202,
-      "word": "痞老板",
-      "onboard_time": 1724800576,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 77685,
       "num": 77685,
       "word": "马立奥忘年交",
@@ -8555,14 +8587,6 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 76580,
-      "num": 76580,
-      "word": "大胖橘对儿子和女儿的区别",
-      "onboard_time": 1724799735,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 76159,
       "num": 76159,
       "word": "央视曝光的多家脏乱外卖停业整改",
@@ -8579,28 +8603,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 75849,
-      "num": 82912,
-      "word": "转身这一刻偶像剧都弱爆了",
-      "onboard_time": 1724798474,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 75379,
       "num": 438328,
       "word": "现在的烟台像春运",
       "onboard_time": 1724673620,
       "rank": 14,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 75134,
-      "num": 75134,
-      "word": "Candy要飞喊话雪梨",
-      "onboard_time": 1724800639,
-      "rank": 41,
-      "category": "网红"
     },
     {
       "raw_hot": 75122,
@@ -8641,6 +8649,14 @@
       "onboard_time": 1724606594,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73131,
+      "num": 77587,
+      "word": "现实中没有断首的灵吉菩萨",
+      "onboard_time": 1724801419,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 73015,
@@ -8712,6 +8728,14 @@
       "word": "男子为一双球鞋入室抢劫杀人",
       "onboard_time": 1724755462,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68084,
+      "num": 77585,
+      "word": "90后女生出游20天全村手机都要瘫痪了",
+      "onboard_time": 1724801419,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -9931,6 +9955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 19659,
+      "num": 349069,
+      "word": "民警下班夜跑抓获两名嫌疑人",
+      "onboard_time": 1724799315,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17814,
       "num": 209213,
       "word": "也门一学校发生战争遗留物爆炸事件",
@@ -9985,14 +10017,6 @@
       "onboard_time": 1724704032,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15222,
-      "num": 349069,
-      "word": "民警下班夜跑抓获两名嫌疑人",
-      "onboard_time": 1724799315,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14967,
