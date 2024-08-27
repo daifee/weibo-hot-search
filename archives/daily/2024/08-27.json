@@ -1,6 +1,6 @@
 {
   "startTime": 1724689640506,
-  "endTime": 1724763271843,
+  "endTime": 1724765035421,
   "band_list": [
     {
       "raw_hot": 15299764,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11643832,
-      "num": 11643832,
+      "raw_hot": 12527663,
+      "num": 12527663,
       "word": "宋祖儿工作室声明",
       "onboard_time": 1724761283,
       "rank": 0,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 4040016,
-      "num": 378720,
+      "num": 425613,
       "word": "凌晨出道 下午塌房",
       "onboard_time": 1724758040,
       "rank": 13,
@@ -73,6 +73,14 @@
       "onboard_time": 1724669541,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 3121010,
+      "num": 817692,
+      "word": "折腰速抬",
+      "onboard_time": 1724763444,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 3003041,
@@ -444,7 +452,7 @@
     },
     {
       "raw_hot": 823578,
-      "num": 303484,
+      "num": 337993,
       "word": "建议女生洗完头不要包头发",
       "onboard_time": 1724756720,
       "rank": 39,
@@ -731,6 +739,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 499620,
+      "num": 486519,
+      "word": "男rapper 有点东西",
+      "onboard_time": 1724763745,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 496643,
+      "num": 411060,
+      "word": "上海侦破33年前杀人案",
+      "onboard_time": 1724760323,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 490593,
       "num": 427060,
       "word": "李乃文 我不抽烟的",
@@ -777,6 +801,14 @@
       "onboard_time": 1724720722,
       "rank": 26,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 456966,
+      "num": 456966,
+      "word": "于正 杨蓉在享受生活",
+      "onboard_time": 1724762124,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 450478,
@@ -841,14 +873,6 @@
       "onboard_time": 1724726720,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 408419,
-      "num": 331585,
-      "word": "上海侦破33年前杀人案",
-      "onboard_time": 1724760323,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 406090,
@@ -940,7 +964,7 @@
     },
     {
       "raw_hot": 378724,
-      "num": 324385,
+      "num": 334914,
       "word": "穆祉丞 没有热爱了",
       "onboard_time": 1724759002,
       "rank": 15,
@@ -985,14 +1009,6 @@
       "onboard_time": 1724731343,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 350835,
-      "num": 325160,
-      "word": "于正 杨蓉在享受生活",
-      "onboard_time": 1724762124,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 344058,
@@ -1059,6 +1075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 323430,
+      "num": 264276,
+      "word": "王楚钦逛吃逛吃",
+      "onboard_time": 1724764884,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 323225,
       "num": 323225,
       "word": "戴向宇呼吁不要过于妖魔化娱乐圈",
@@ -1115,10 +1139,26 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 306293,
+      "num": 378731,
+      "word": "警方通报网红铁头被抓详情",
+      "onboard_time": 1724761764,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304762,
       "num": 267714,
       "word": "研究生开学军训好小众的词",
       "onboard_time": 1724755642,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 302925,
+      "num": 302925,
+      "word": "原来流浪猫的凶都是装出来的",
+      "onboard_time": 1724761584,
       "rank": 30,
       "category": "幽默"
     },
@@ -1163,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285672,
+      "num": 285672,
+      "word": "13岁男孩凌晨在家摔成脾破裂",
+      "onboard_time": 1724762243,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285195,
       "num": 285195,
       "word": "孩子被关厕所教育家长同意就行吗",
@@ -1201,6 +1249,14 @@
       "onboard_time": 1724758763,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 273197,
+      "num": 264128,
+      "word": "许昕收藏了马龙的签名拍",
+      "onboard_time": 1724764884,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 271559,
@@ -1363,14 +1419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 249215,
-      "num": 216841,
-      "word": "原来流浪猫的凶都是装出来的",
-      "onboard_time": 1724761584,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 247099,
       "num": 247099,
       "word": "郑钦文cue德约带奥运金牌",
@@ -1417,6 +1465,14 @@
       "onboard_time": 1724725220,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242263,
+      "num": 242263,
+      "word": "守护于贞",
+      "onboard_time": 1724763863,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 242119,
@@ -1508,7 +1564,7 @@
     },
     {
       "raw_hot": 226989,
-      "num": 216517,
+      "num": 220403,
       "word": "庞博 周围没有一个企鹅朋友",
       "onboard_time": 1724761043,
       "rank": 31,
@@ -1537,6 +1593,14 @@
       "onboard_time": 1724746942,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 224152,
+      "num": 264773,
+      "word": "妈妈想陪抑郁症儿子换个活法再来一次",
+      "onboard_time": 1724764884,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222291,
@@ -1577,14 +1641,6 @@
       "onboard_time": 1724716580,
       "rank": 40,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 221035,
-      "num": 248898,
-      "word": "13岁男孩凌晨在家摔成脾破裂",
-      "onboard_time": 1724762243,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218338,
@@ -1683,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211106,
+      "num": 426969,
+      "word": "山东烟台科技学院回应宿舍甲醛超标",
+      "onboard_time": 1724760983,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210673,
       "num": 199958,
       "word": "我那全职炒股的老公",
@@ -1739,6 +1803,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 207648,
+      "num": 207648,
+      "word": "孙颖莎这张照片硬控我30秒",
+      "onboard_time": 1724764585,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207198,
       "num": 258375,
       "word": "张紫宁上恋综了",
@@ -1793,6 +1865,22 @@
       "onboard_time": 1724749880,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203686,
+      "num": 203686,
+      "word": "没挣24小时工资就不该全天待命",
+      "onboard_time": 1724763564,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203108,
+      "num": 203108,
+      "word": "孙颖莎采访最打动我的一点",
+      "onboard_time": 1724764945,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 202016,
@@ -1859,6 +1947,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 197834,
+      "num": 197834,
+      "word": "周鸿祎称新能源出海沾西游记的光",
+      "onboard_time": 1724764884,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 197386,
       "num": 322140,
       "word": "陈梦回应为何被叫梦姐",
@@ -1872,6 +1968,14 @@
       "word": "李乃文回应直播悍匪",
       "onboard_time": 1724762964,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196500,
+      "num": 196500,
+      "word": "无忧渡",
+      "onboard_time": 1724764705,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -1907,19 +2011,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194004,
+      "num": 194004,
+      "word": "吴昕的刘海是一撇一捺",
+      "onboard_time": 1724762903,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 193962,
       "num": 259013,
       "word": "警方称两女子哄小孩经家长同意",
       "onboard_time": 1724672120,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192951,
-      "num": 192951,
-      "word": "山东烟台科技学院回应宿舍甲醛超标",
-      "onboard_time": 1724760983,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -2011,12 +2115,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184215,
+      "num": 184215,
+      "word": "抑郁孩子手臂上留下大大小小的刀疤",
+      "onboard_time": 1724764884,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183791,
       "num": 183791,
       "word": "大熊猫七仔模仿林黛玉喝药扭头哭",
       "onboard_time": 1724759843,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183629,
+      "num": 183629,
+      "word": "何超莲晒化妆前后对比图",
+      "onboard_time": 1724763325,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 183069,
@@ -2153,14 +2273,6 @@
       "onboard_time": 1724755341,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 171294,
-      "num": 171294,
-      "word": "吴昕的刘海是一撇一捺",
-      "onboard_time": 1724762903,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 169742,
@@ -2307,19 +2419,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152978,
-      "num": 378731,
-      "word": "警方通报网红铁头被抓详情",
-      "onboard_time": 1724761764,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150828,
       "num": 824534,
       "word": "网站高管开发追剧app非法获利近4亿",
       "onboard_time": 1724732181,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140956,
+      "num": 350458,
+      "word": "女子商场试鞋脚部真菌感染",
+      "onboard_time": 1724763624,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -2635,6 +2747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68193,
+      "num": 403144,
+      "word": "多名学生反映宿舍甲醛超标身体不适",
+      "onboard_time": 1724763624,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67148,
       "num": 3061010,
       "word": "雨天出门千万要注意的小事",
@@ -2699,6 +2819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59331,
+      "num": 346341,
+      "word": "城乡居民医保费为何要年年涨",
+      "onboard_time": 1724763624,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58948,
       "num": 852782,
       "word": "带娃出门成了当代父母的地狱模式",
@@ -2744,6 +2872,14 @@
       "word": "恐怖片对儿童及青少年有何影响",
       "onboard_time": 1724702772,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53139,
+      "num": 826270,
+      "word": "中国网络文明大会未来之夜",
+      "onboard_time": 1724763385,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2811,6 +2947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45579,
+      "num": 398372,
+      "word": "B太说去烟台吃了海肠捞饭",
+      "onboard_time": 1724763624,
+      "rank": 14,
+      "category": "网红,美食"
+    },
+    {
       "raw_hot": 45056,
       "num": 397748,
       "word": "郑州多位法官成诈骗案被害人",
@@ -2867,6 +3011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37280,
+      "num": 341009,
+      "word": "烟台海肠捞饭到底是啥味",
+      "onboard_time": 1724763863,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 35582,
       "num": 546357,
       "word": "游客质疑普通人在兵马俑租轮椅免排队",
@@ -2897,6 +3049,14 @@
       "onboard_time": 1724762724,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32775,
+      "num": 180660,
+      "word": "全新电动MINIACEMAN上市",
+      "onboard_time": 1724764945,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 32659,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/08/27 20:54:31
+本榜单时间：2024/01/01 00:21:05 ~ 2024/08/27 21:23:55
 </p>
 </blockquote>
 <p>
@@ -495,6 +495,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E%23" target="weibo">
+宋祖儿工作室声明（热度：12527663）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%AE%98%E5%8F%B7%E5%88%A0%E9%99%A4%E5%B7%B4%E9%BB%8E%E5%BC%80%E5%B9%95%E5%BC%8F%E8%A7%86%E9%A2%91%23" target="weibo">
 奥运会官号删除巴黎开幕式视频（热度：12476342）
 </a>
@@ -593,12 +599,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%85%E6%80%9D%E7%BB%84%E5%90%88vs%E9%87%91%E9%93%B6%E7%BB%84%E5%90%88%23" target="weibo">
 雅思组合vs金银组合（热度：11653386）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A3%B0%E6%98%8E%23" target="weibo">
-宋祖儿工作室声明（热度：11643832）
 </a>
 </li>
 
