@@ -1,6 +1,6 @@
 {
   "startTime": 1724689640506,
-  "endTime": 1724757511099,
+  "endTime": 1724758507565,
   "band_list": [
     {
       "raw_hot": 15299764,
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1013242,
+      "num": 321082,
+      "word": "凌晨出道 下午塌房",
+      "onboard_time": 1724758040,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1004534,
       "num": 603916,
       "word": "登陆计划",
@@ -427,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 792808,
+      "num": 309397,
+      "word": "余宇涵 昨天才宣誓",
+      "onboard_time": 1724755702,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 787279,
       "num": 787279,
       "word": "当10岁105斤的女儿生病求抱抱",
@@ -441,6 +457,14 @@
       "onboard_time": 1724738001,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 749690,
+      "num": 749690,
+      "word": "孙颖莎上台演讲",
+      "onboard_time": 1724755221,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 734249,
@@ -515,14 +539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 690132,
-      "num": 690132,
-      "word": "孙颖莎上台演讲",
-      "onboard_time": 1724755221,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 669613,
       "num": 354570,
       "word": "吉祥航空通报儿童被关厕所教育",
@@ -545,14 +561,6 @@
       "onboard_time": 1724722161,
       "rank": 23,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 634954,
-      "num": 294928,
-      "word": "余宇涵 昨天才宣誓",
-      "onboard_time": 1724755702,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 614443,
@@ -643,6 +651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 541070,
+      "num": 541070,
+      "word": "姚润昊硬气了",
+      "onboard_time": 1724754261,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 521557,
       "num": 521557,
       "word": "难哄国宴级更新",
@@ -683,12 +699,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 487525,
-      "num": 487525,
-      "word": "姚润昊硬气了",
-      "onboard_time": 1724754261,
-      "rank": 14,
-      "category": "游戏"
+      "raw_hot": 490593,
+      "num": 334852,
+      "word": "李乃文 我不抽烟的",
+      "onboard_time": 1724756602,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 485176,
@@ -753,6 +769,14 @@
       "onboard_time": 1724745440,
       "rank": 23,
       "category": "游戏,作品衍生"
+    },
+    {
+      "raw_hot": 419061,
+      "num": 303484,
+      "word": "建议女生洗完头不要包头发",
+      "onboard_time": 1724756720,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 417526,
@@ -883,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373855,
+      "num": 315629,
+      "word": "但拓差点救活貌巴",
+      "onboard_time": 1724752640,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 369694,
       "num": 422710,
       "word": "oasis重组",
@@ -937,14 +969,6 @@
       "onboard_time": 1724742080,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 334852,
-      "num": 334852,
-      "word": "李乃文 我不抽烟的",
-      "onboard_time": 1724756602,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 332971,
@@ -1027,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 304762,
+      "num": 267714,
+      "word": "研究生开学军训好小众的词",
+      "onboard_time": 1724755642,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 300865,
       "num": 300865,
       "word": "时代峰峻大合照站位",
@@ -1040,14 +1072,6 @@
       "word": "尔康 还我妈生伞",
       "onboard_time": 1724730982,
       "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 292258,
-      "num": 291437,
-      "word": "但拓差点救活貌巴",
-      "onboard_time": 1724752640,
-      "rank": 31,
       "category": "剧集"
     },
     {
@@ -1121,14 +1145,6 @@
       "onboard_time": 1724687125,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 267714,
-      "num": 267714,
-      "word": "研究生开学军训好小众的词",
-      "onboard_time": 1724755642,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 267609,
@@ -1216,6 +1232,14 @@
       "word": "专家称个税按家庭征收将鼓励生育",
       "onboard_time": 1724752640,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254867,
+      "num": 254867,
+      "word": "官方通报男子献血8次不能优先用血",
+      "onboard_time": 1724757502,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1395,6 +1419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228540,
+      "num": 422227,
+      "word": "允许陌生人带走孩子是对风险的漠视",
+      "onboard_time": 1724751861,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225702,
       "num": 258773,
       "word": "女子吃冰箱剩西瓜引发脑脓肿",
@@ -1411,6 +1443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 222291,
+      "num": 257908,
+      "word": "花少6预告",
+      "onboard_time": 1724756541,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222227,
       "num": 222227,
       "word": "中医说爱长结节的人有个特点",
@@ -1425,6 +1465,14 @@
       "onboard_time": 1724678062,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221748,
+      "num": 221748,
+      "word": "小鹿 女性视角",
+      "onboard_time": 1724754923,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 221248,
@@ -1547,14 +1595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209733,
-      "num": 209733,
-      "word": "花少6预告",
-      "onboard_time": 1724756541,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 209365,
       "num": 258656,
       "word": "种地吧",
@@ -1641,14 +1681,6 @@
       "onboard_time": 1724749880,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 203288,
-      "num": 422227,
-      "word": "允许陌生人带走孩子是对风险的漠视",
-      "onboard_time": 1724751861,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202016,
@@ -1763,14 +1795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189184,
-      "num": 189184,
-      "word": "建议女生洗完头不要包头发",
-      "onboard_time": 1724756720,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 188065,
       "num": 188065,
       "word": "徐明浩高质量输出",
@@ -1809,6 +1833,14 @@
       "onboard_time": 1724754621,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185663,
+      "num": 185663,
+      "word": "脱口秀的gap year",
+      "onboard_time": 1724757861,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 184527,
@@ -1857,14 +1889,6 @@
       "onboard_time": 1724750661,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 179432,
-      "num": 179432,
-      "word": "小鹿 女性视角",
-      "onboard_time": 1724754923,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 179181,
@@ -1947,6 +1971,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 171936,
+      "num": 171936,
+      "word": "怎么有狗能懒成这样",
+      "onboard_time": 1724755341,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 169742,
       "num": 169742,
       "word": "凉哈皮不鸽解说",
@@ -1979,6 +2011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163529,
+      "num": 333034,
+      "word": "公共空间该如何接纳儿童值得深思",
+      "onboard_time": 1724755103,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163395,
       "num": 258221,
       "word": "师范生看到两眼一黑的程度",
@@ -1995,20 +2035,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 161908,
-      "num": 161908,
-      "word": "怎么有狗能懒成这样",
-      "onboard_time": 1724755341,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 161713,
       "num": 161713,
       "word": "穆祉丞说姚昱辰我不可能忘记他",
       "onboard_time": 1724721860,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161114,
+      "num": 161114,
+      "word": "主人称小猫在宠物医院扎针时被吓死",
+      "onboard_time": 1724757621,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159451,
@@ -2027,12 +2067,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158404,
+      "num": 158404,
+      "word": "网红铁头涉嫌敲诈勒索罪",
+      "onboard_time": 1724758221,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157824,
       "num": 258195,
       "word": "马龙空降超话",
       "onboard_time": 1724676075,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156008,
+      "num": 156008,
+      "word": "A股再现老鼠仓",
+      "onboard_time": 1724758162,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 154725,
@@ -2081,14 +2137,6 @@
       "onboard_time": 1724590163,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132075,
-      "num": 333034,
-      "word": "公共空间该如何接纳儿童值得深思",
-      "onboard_time": 1724755103,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131966,
@@ -2547,6 +2595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40553,
+      "num": 314784,
+      "word": "男性接种HPV疫苗很有必要",
+      "onboard_time": 1724757141,
+      "rank": 19,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 39740,
       "num": 1615976,
       "word": "锦绣智造传奇",
@@ -2601,14 +2657,6 @@
       "onboard_time": 1724728040,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30577,
-      "num": 303198,
-      "word": "男性接种HPV疫苗很有必要",
-      "onboard_time": 1724757141,
-      "rank": 19,
-      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 30329,
@@ -2675,8 +2723,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19955,
-      "num": 247469,
+      "raw_hot": 20001,
+      "num": 322316,
       "word": "杨幂把水果穿在身上",
       "onboard_time": 1724756662,
       "rank": 31,
