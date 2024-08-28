@@ -1,0 +1,410 @@
+{
+  "runTime": 1724816273088,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2371842,
+        "num": 2371842,
+        "word": "雪梨否认吸毒",
+        "onboard_time": 1724811743,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1670266,
+        "num": 1670266,
+        "word": "爷爷偷偷把房子过户给孙子被判无效",
+        "onboard_time": 1724808320,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68532,
+        "num": 1443859,
+        "word": "太空视角看地球家园",
+        "onboard_time": 1724815462,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1314907,
+        "num": 1314907,
+        "word": "疑护士妻子出轨医生致丈夫自杀",
+        "onboard_time": 1724811502,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 707637,
+        "num": 707637,
+        "word": "宋祖儿工作室声明",
+        "onboard_time": 1724761283,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 561415,
+        "num": 561415,
+        "word": "7岁男孩每晚崩溃大哭想回国",
+        "onboard_time": 1724804062,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606739,
+        "num": 560808,
+        "word": "折腰速抬",
+        "onboard_time": 1724763444,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 558165,
+        "num": 558165,
+        "word": "加沙1公斤西红柿194元",
+        "onboard_time": 1724810241,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493254,
+        "num": 493254,
+        "word": "恋与深空回应派克特diss称法庭见",
+        "onboard_time": 1724808861,
+        "rank": 8,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 515026,
+        "num": 488589,
+        "word": "宋祖儿工作室回应高考争议",
+        "onboard_time": 1724801778,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2874939,
+        "num": 480635,
+        "word": "胡先煦李宛妲恋情",
+        "onboard_time": 1724811621,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 788251,
+        "num": 474110,
+        "word": "凌晨出道 下午塌房",
+        "onboard_time": 1724758040,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 638585,
+        "num": 472091,
+        "word": "女子172cm100斤确诊营养不良型肥胖",
+        "onboard_time": 1724770224,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118339,
+        "num": 462297,
+        "word": "烟台海肠捞饭真的火了",
+        "onboard_time": 1724811743,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 57071,
+        "num": 456661,
+        "word": "超30城支持存量房贷利率商转公",
+        "onboard_time": 1724814501,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215525,
+        "num": 450733,
+        "word": "广州成都深圳等8城设立市内免税店",
+        "onboard_time": 1724811863,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445743,
+        "num": 445743,
+        "word": "candy要飞回应雪梨",
+        "onboard_time": 1724814801,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 345370,
+        "num": 445469,
+        "word": "要不说刘美含能当黑魔仙",
+        "onboard_time": 1724804242,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407845,
+        "num": 445349,
+        "word": "雪梨",
+        "onboard_time": 1724774780,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 34806,
+        "num": 445282,
+        "word": "辞掉工作去合唱的年轻人",
+        "onboard_time": 1724810124,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445255,
+        "num": 445255,
+        "word": "男子献血8次不能优先用血多人被处分",
+        "onboard_time": 1724786713,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445241,
+        "num": 445241,
+        "word": "90后女生出游20天全村手机都要瘫痪了",
+        "onboard_time": 1724801419,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410794,
+        "num": 410794,
+        "word": "刘美含 张远理想型女儿",
+        "onboard_time": 1724815221,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327740,
+        "num": 327740,
+        "word": "Candy要飞喊话雪梨",
+        "onboard_time": 1724800639,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 318966,
+        "num": 318966,
+        "word": "人均两万五去八个国家玩了24天",
+        "onboard_time": 1724813242,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 326981,
+        "num": 313756,
+        "word": "感觉把男朋友好好养了一遍",
+        "onboard_time": 1724813302,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 305253,
+        "num": 305253,
+        "word": "孙颖莎 本身就是耀眼的光",
+        "onboard_time": 1724813302,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301551,
+        "num": 301551,
+        "word": "明日方舟",
+        "onboard_time": 1724815642,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 287197,
+        "num": 287197,
+        "word": "雪梨老公",
+        "onboard_time": 1724808022,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 284269,
+        "num": 284269,
+        "word": "凡人歌定档",
+        "onboard_time": 1724812703,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272726,
+        "num": 272726,
+        "word": "蒋奇明 性感",
+        "onboard_time": 1724814441,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99371,
+        "num": 257787,
+        "word": "吉祥航空称不允许多人一起进厕所",
+        "onboard_time": 1724814261,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246862,
+        "num": 246862,
+        "word": "雪梨报案",
+        "onboard_time": 1724814622,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 233913,
+        "num": 233913,
+        "word": "拼多多跌掉一个网易",
+        "onboard_time": 1724813122,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 233829,
+        "num": 233829,
+        "word": "广东夫妻生完2娃又喜提4胞胎",
+        "onboard_time": 1724780055,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227126,
+        "num": 227126,
+        "word": "上6休3上3休2上5休1上2休7再上5休1",
+        "onboard_time": 1724745621,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218459,
+        "num": 218459,
+        "word": "乌总统称将向美国提交胜利计划",
+        "onboard_time": 1724812343,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 210080,
+        "num": 210080,
+        "word": "与辉同行30天卖了7个亿",
+        "onboard_time": 1724805385,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 198917,
+        "num": 198917,
+        "word": "黑神话悟空全中文主线剧情电影",
+        "onboard_time": 1724807243,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 33221,
+        "num": 180623,
+        "word": "一口入魂的烟台海肠捞饭",
+        "onboard_time": 1724814023,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 171402,
+        "num": 171402,
+        "word": "剑网3",
+        "onboard_time": 1724814382,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169781,
+        "num": 169781,
+        "word": "妈妈告诉亲戚小孩我没有玩偶",
+        "onboard_time": 1724809943,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161863,
+        "num": 161863,
+        "word": "警方通报轿车与电动车相撞致2死",
+        "onboard_time": 1724814681,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159248,
+        "num": 159248,
+        "word": "孟宴臣的含金量还在上涨",
+        "onboard_time": 1724802619,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157507,
+        "num": 157507,
+        "word": "只怪自己报考时没观察学校的环境",
+        "onboard_time": 1724808623,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148958,
+        "num": 148958,
+        "word": "猫猫也会委屈吧",
+        "onboard_time": 1724815583,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145810,
+        "num": 145810,
+        "word": "痞老板 乙游",
+        "onboard_time": 1724765305,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144435,
+        "num": 144435,
+        "word": "黑神话悟空新补丁发布",
+        "onboard_time": 1724815762,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140239,
+        "num": 140239,
+        "word": "痞老板",
+        "onboard_time": 1724800576,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135240,
+        "num": 135240,
+        "word": "柳眠棠财务自由买房拒婚",
+        "onboard_time": 1724815523,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视网络文明建设#"
+    }
+  }
+}
