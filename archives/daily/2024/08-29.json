@@ -1,6 +1,6 @@
 {
   "startTime": 1724862385087,
-  "endTime": 1724866660074,
+  "endTime": 1724869648095,
   "band_list": [
     {
       "raw_hot": 16324978,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 473443,
+      "num": 473443,
+      "word": "郑钦文美网",
+      "onboard_time": 1724867954,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 351208,
       "num": 1070372,
       "word": "钓鱼佬在龙门石窟附近钓上一尊佛头",
@@ -152,6 +160,14 @@
       "word": "还原献血8次不能优先用血事件真相",
       "onboard_time": 1724857524,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270696,
+      "num": 371249,
+      "word": "重庆多地官宣延期开学",
+      "onboard_time": 1724865257,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -211,6 +227,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 198529,
+      "num": 461043,
+      "word": "巴黎残奥会开幕式",
+      "onboard_time": 1724864178,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182946,
       "num": 443618,
       "word": "宋祖儿前公司报案",
@@ -225,14 +249,6 @@
       "onboard_time": 1724853503,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175170,
-      "num": 461043,
-      "word": "巴黎残奥会开幕式",
-      "onboard_time": 1724864178,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 173614,
@@ -403,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96111,
+      "num": 96111,
+      "word": "嫌犯认出法官是老同学9年后再犯案",
+      "onboard_time": 1724867115,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91256,
       "num": 436571,
       "word": "长乐曲里肖燕太甜了",
@@ -435,12 +459,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50739,
-      "num": 371249,
-      "word": "重庆多地官宣延期开学",
-      "onboard_time": 1724865257,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 51429,
+      "num": 90851,
+      "word": "警方称雪梨事件会有通告发布",
+      "onboard_time": 1724830944,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 50558,
@@ -449,6 +473,14 @@
       "onboard_time": 1724865916,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47516,
+      "num": 90795,
+      "word": "杨幂 水灵灵的一双眼眸",
+      "onboard_time": 1724867775,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 43661,
@@ -467,12 +499,44 @@
       "category": "电影"
     },
     {
+      "raw_hot": 36232,
+      "num": 90617,
+      "word": "陕西历史博物馆回应被指涉嫌抄袭",
+      "onboard_time": 1724868195,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32702,
       "num": 440499,
       "word": "五菱星光S预售订单超10000台",
       "onboard_time": 1724860049,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 31307,
+      "num": 90463,
+      "word": "成龙传递巴黎残奥会火炬",
+      "onboard_time": 1724868913,
+      "rank": 45,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 30683,
+      "num": 90420,
+      "word": "重庆多地9月9日再开学",
+      "onboard_time": 1724845824,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29008,
+      "num": 90371,
+      "word": "原来电梯神图是这样出片的",
+      "onboard_time": 1724869454,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 6863,
