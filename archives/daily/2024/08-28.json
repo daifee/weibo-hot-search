@@ -1,21 +1,21 @@
 {
   "startTime": 1724775939795,
-  "endTime": 1724840477988,
+  "endTime": 1724841503363,
   "band_list": [
+    {
+      "raw_hot": 16760795,
+      "num": 16760795,
+      "word": "文泰一接受警方调查",
+      "onboard_time": 1724839522,
+      "rank": 5,
+      "category": "艺人"
+    },
     {
       "raw_hot": 16155694,
       "num": 16155694,
       "word": "文泰一退团",
       "onboard_time": 1724839583,
       "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 15594363,
-      "num": 1253061,
-      "word": "文泰一接受警方调查",
-      "onboard_time": 1724839522,
-      "rank": 5,
       "category": "艺人"
     },
     {
@@ -48,6 +48,14 @@
       "word": "胡先煦李宛妲恋情",
       "onboard_time": 1724811621,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2721808,
+      "num": 1252814,
+      "word": "NCT 无限缩减",
+      "onboard_time": 1724840064,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -241,14 +249,6 @@
       "onboard_time": 1724825481,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1282382,
-      "num": 1252814,
-      "word": "NCT 无限缩减",
-      "onboard_time": 1724840064,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 1277066,
@@ -539,6 +539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 509670,
+      "num": 375341,
+      "word": "终于懂了打网球为什么要穿裙子",
+      "onboard_time": 1724839583,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 481870,
       "num": 481870,
       "word": "海通证券副总经理姜诚君被遣返回国",
@@ -699,12 +707,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 347790,
+      "num": 347790,
+      "word": "王一博在岩壁上过夜",
+      "onboard_time": 1724837962,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 345420,
       "num": 345420,
       "word": "电脑都买不起还学别人开公司",
       "onboard_time": 1724817022,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 344660,
+      "num": 262015,
+      "word": "王一博有种",
+      "onboard_time": 1724839822,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 344095,
@@ -721,14 +745,6 @@
       "onboard_time": 1724771246,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 335739,
-      "num": 335739,
-      "word": "王一博在岩壁上过夜",
-      "onboard_time": 1724837962,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 332973,
@@ -851,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292236,
+      "num": 246943,
+      "word": "胡先煦 花少纯元",
+      "onboard_time": 1724840365,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 291286,
       "num": 291286,
       "word": "六小龄童拍西游记6年发了2000元",
@@ -963,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 263976,
+      "num": 263976,
+      "word": "樊振东三句话讲完一个爱情故事",
+      "onboard_time": 1724840607,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 262517,
       "num": 262517,
       "word": "医生建议美甲时不要去死皮",
@@ -1000,6 +1032,14 @@
       "word": "杨幂的第一条微博",
       "onboard_time": 1724834544,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 249170,
+      "num": 249170,
+      "word": "NCT prison",
+      "onboard_time": 1724841325,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -1065,6 +1105,14 @@
       "onboard_time": 1724836224,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235054,
+      "num": 491327,
+      "word": "温州14岁失联女孩已平安到家",
+      "onboard_time": 1724838562,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233120,
@@ -1195,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214704,
+      "num": 214704,
+      "word": "赵露思发量",
+      "onboard_time": 1724840846,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213805,
       "num": 213805,
       "word": "金晨18岁参演北京奥运会",
@@ -1235,12 +1291,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 205258,
-      "num": 205258,
-      "word": "王一博有种",
-      "onboard_time": 1724839822,
-      "rank": 34,
-      "category": "作品衍生"
+      "raw_hot": 206591,
+      "num": 206591,
+      "word": "看出来成毅粉丝真憋疯了",
+      "onboard_time": 1724840965,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204778,
+      "num": 204778,
+      "word": "披荆斩棘巅峰挑战直播赛",
+      "onboard_time": 1724841025,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 203611,
@@ -1313,14 +1377,6 @@
       "onboard_time": 1724821822,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 195348,
-      "num": 195348,
-      "word": "终于懂了打网球为什么要穿裙子",
-      "onboard_time": 1724839583,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 194127,
@@ -1684,7 +1740,7 @@
     },
     {
       "raw_hot": 156554,
-      "num": 156554,
+      "num": 184389,
       "word": "运营方回应WTT大满贯千元票价",
       "onboard_time": 1724838862,
       "rank": 46,
@@ -1731,14 +1787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149257,
-      "num": 149257,
-      "word": "胡先煦 花少纯元",
-      "onboard_time": 1724840365,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 149109,
       "num": 149109,
       "word": "内地奥运健儿明日访港",
@@ -1776,6 +1824,14 @@
       "word": "如果你要写山河就不能只写山河",
       "onboard_time": 1724810480,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143246,
+      "num": 753819,
+      "word": "市监局调查货车载烂苹果停果汁厂外",
+      "onboard_time": 1724838981,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1971,6 +2027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 109911,
+      "num": 1319450,
+      "word": "2024中国网络文明大会来了",
+      "onboard_time": 1724834422,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108597,
       "num": 108597,
       "word": "徐明浩 大大方方",
@@ -2059,14 +2123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 93768,
-      "num": 491327,
-      "word": "温州14岁失联女孩已平安到家",
-      "onboard_time": 1724838562,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 85394,
       "num": 85394,
       "word": "转身这一刻偶像剧都弱爆了",
@@ -2129,14 +2185,6 @@
       "onboard_time": 1724834483,
       "rank": 11,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 67020,
-      "num": 753819,
-      "word": "市监局调查货车载烂苹果停果汁厂外",
-      "onboard_time": 1724838981,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65183,
@@ -2204,7 +2252,7 @@
     },
     {
       "raw_hot": 57226,
-      "num": 194239,
+      "num": 237630,
       "word": "火神对战队长",
       "onboard_time": 1724840124,
       "rank": 38,
@@ -2257,14 +2305,6 @@
       "onboard_time": 1724782993,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 52465,
-      "num": 1319450,
-      "word": "2024中国网络文明大会来了",
-      "onboard_time": 1724834422,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51481,
@@ -2459,19 +2499,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13902,
+      "num": 1335779,
+      "word": "聚焦2024年数博会",
+      "onboard_time": 1724834183,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12754,
       "num": 174701,
       "word": "在浙江看病主打一个全程免费陪伴",
       "onboard_time": 1724792291,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12734,
-      "num": 1335779,
-      "word": "聚焦2024年数博会",
-      "onboard_time": 1724834183,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

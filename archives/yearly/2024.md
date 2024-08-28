@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/08/28 18:21:17
+本榜单时间：2024/01/01 00:21:05 ~ 2024/08/28 18:38:23
 </p>
 </blockquote>
 <p>
@@ -201,6 +201,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E6%B3%B0%E4%B8%80%E6%8E%A5%E5%8F%97%E8%AD%A6%E6%96%B9%E8%B0%83%E6%9F%A5%23" target="weibo">
+文泰一接受警方调查（热度：16760795）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%94%B7%E5%AD%904%C3%97100%E6%B7%B7%E6%8E%A5%E9%87%91%E7%89%8C%23" target="weibo">
 中国队男子4×100混接金牌（热度：16751358）
 </a>
@@ -269,12 +275,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%81%9C%E7%94%B5%23" target="weibo">
 巴黎停电（热度：15610430）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E6%B3%B0%E4%B8%80%E6%8E%A5%E5%8F%97%E8%AD%A6%E6%96%B9%E8%B0%83%E6%9F%A5%23" target="weibo">
-文泰一接受警方调查（热度：15594363）
 </a>
 </li>
 
