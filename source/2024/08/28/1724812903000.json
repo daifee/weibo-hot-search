@@ -1,0 +1,410 @@
+{
+  "runTime": 1724812903000,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3319420,
+        "num": 3319420,
+        "word": "雪梨否认吸毒",
+        "onboard_time": 1724811743,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 2318989,
+        "num": 2318989,
+        "word": "爷爷偷偷把房子过户给孙子被判无效",
+        "onboard_time": 1724808320,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15811,
+        "num": 825203,
+        "word": "现实版的黄河之水天上来",
+        "onboard_time": 1724762724,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 707295,
+        "num": 707295,
+        "word": "宋祖儿工作室声明",
+        "onboard_time": 1724761283,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 668291,
+        "num": 668291,
+        "word": "恋与深空回应派克特diss称法庭见",
+        "onboard_time": 1724808861,
+        "rank": 4,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 590626,
+        "num": 590626,
+        "word": "加沙1公斤西红柿194元",
+        "onboard_time": 1724810241,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565524,
+        "num": 565524,
+        "word": "折腰速抬",
+        "onboard_time": 1724763444,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 525304,
+        "num": 525304,
+        "word": "黑神话悟空全中文主线剧情电影",
+        "onboard_time": 1724807243,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 433996,
+        "num": 433996,
+        "word": "7岁男孩每晚崩溃大哭想回国",
+        "onboard_time": 1724804062,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138168,
+        "num": 433735,
+        "word": "疑护士妻子出轨医生致丈夫自杀",
+        "onboard_time": 1724811502,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3294347,
+        "num": 428794,
+        "word": "胡先煦李宛妲恋情",
+        "onboard_time": 1724811621,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1115613,
+        "num": 427524,
+        "word": "雪梨",
+        "onboard_time": 1724774780,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 836411,
+        "num": 423286,
+        "word": "凌晨出道 下午塌房",
+        "onboard_time": 1724758040,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 973437,
+        "num": 419301,
+        "word": "雪梨老公",
+        "onboard_time": 1724808022,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 58811,
+        "num": 414988,
+        "word": "惩恶扬善不能是个赚钱的名号",
+        "onboard_time": 1724811743,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53846,
+        "num": 411795,
+        "word": "烟台海肠捞饭真的火了",
+        "onboard_time": 1724811743,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 833324,
+        "num": 411026,
+        "word": "干巴大叔 骨癌",
+        "onboard_time": 1724811203,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 793670,
+        "num": 405189,
+        "word": "上6休3上3休2上5休1上2休7再上5休1",
+        "onboard_time": 1724745621,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637591,
+        "num": 403635,
+        "word": "女子172cm100斤确诊营养不良型肥胖",
+        "onboard_time": 1724770224,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41963,
+        "num": 399837,
+        "word": "河北美院卷入巨额民间借贷",
+        "onboard_time": 1724811682,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 940125,
+        "num": 395218,
+        "word": "男子献血8次不能优先用血多人被处分",
+        "onboard_time": 1724786713,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581421,
+        "num": 393509,
+        "word": "90后女生出游20天全村手机都要瘫痪了",
+        "onboard_time": 1724801419,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391951,
+        "num": 391951,
+        "word": "要不说刘美含能当黑魔仙",
+        "onboard_time": 1724804242,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348220,
+        "num": 348220,
+        "word": "Candy要飞喊话雪梨",
+        "onboard_time": 1724800639,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 334993,
+        "num": 334993,
+        "word": "宋祖儿工作室回应高考争议",
+        "onboard_time": 1724801778,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277115,
+        "num": 277115,
+        "word": "与辉同行30天卖了7个亿",
+        "onboard_time": 1724805385,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 265840,
+        "num": 265840,
+        "word": "老人自己摔倒诬陷殴打扶人少年被拘",
+        "onboard_time": 1724765485,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227473,
+        "num": 227473,
+        "word": "只怪自己报考时没观察学校的环境",
+        "onboard_time": 1724808623,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206008,
+        "num": 206008,
+        "word": "为什么说不要和父母开玩笑",
+        "onboard_time": 1724804842,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203754,
+        "num": 203754,
+        "word": "妈妈告诉亲戚小孩我没有玩偶",
+        "onboard_time": 1724809943,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198852,
+        "num": 198852,
+        "word": "痞老板 乙游",
+        "onboard_time": 1724765305,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192768,
+        "num": 192768,
+        "word": "凡人歌定档",
+        "onboard_time": 1724812703,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192611,
+        "num": 192611,
+        "word": "恋与深空",
+        "onboard_time": 1724801840,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182073,
+        "num": 182073,
+        "word": "乌总统称将向美国提交胜利计划",
+        "onboard_time": 1724812343,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 181769,
+        "num": 181769,
+        "word": "广州成都深圳等8城设立市内免税店",
+        "onboard_time": 1724811863,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177104,
+        "num": 177104,
+        "word": "取得这些职业资格证书可享个税扣除",
+        "onboard_time": 1724770824,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174078,
+        "num": 174078,
+        "word": "广东夫妻生完2娃又喜提4胞胎",
+        "onboard_time": 1724780055,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172381,
+        "num": 172381,
+        "word": "初中女生举报被男教师骚扰引诱",
+        "onboard_time": 1724769023,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172046,
+        "num": 172046,
+        "word": "宋祖儿 喜天",
+        "onboard_time": 1724766383,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159593,
+        "num": 159593,
+        "word": "A股",
+        "onboard_time": 1724812042,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 159234,
+        "num": 159234,
+        "word": "痞老板",
+        "onboard_time": 1724800576,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158311,
+        "num": 158311,
+        "word": "妈妈想陪抑郁症儿子换个活法再来一次",
+        "onboard_time": 1724764884,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152947,
+        "num": 152947,
+        "word": "孟宴臣的含金量还在上涨",
+        "onboard_time": 1724802619,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144876,
+        "num": 144876,
+        "word": "如果你要写山河就不能只写山河",
+        "onboard_time": 1724810480,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140487,
+        "num": 140487,
+        "word": "代入徐艺洋视角后笑不出来",
+        "onboard_time": 1724781735,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134587,
+        "num": 134587,
+        "word": "唐鹤德风波后首现身",
+        "onboard_time": 1724809641,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133113,
+        "num": 133113,
+        "word": "古人有自己的开学文具套装",
+        "onboard_time": 1724812521,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125582,
+        "num": 125582,
+        "word": "张子墨给余宇涵看手机",
+        "onboard_time": 1724802559,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124503,
+        "num": 124503,
+        "word": "当我开学报名背着一个尿素袋时",
+        "onboard_time": 1724800758,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119923,
+        "num": 119923,
+        "word": "调休没增加假期总量收假后还得还债",
+        "onboard_time": 1724781615,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同建设网上精神家园习近平这样强调#"
+    }
+  }
+}

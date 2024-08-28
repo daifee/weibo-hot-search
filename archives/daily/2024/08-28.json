@@ -1,6 +1,6 @@
 {
   "startTime": 1724775939795,
-  "endTime": 1724809845042,
+  "endTime": 1724812903000,
   "band_list": [
     {
       "raw_hot": 4036285,
@@ -11,12 +11,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3319420,
+      "num": 3319420,
+      "word": "雪梨否认吸毒",
+      "onboard_time": 1724811743,
+      "rank": 0,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 3294347,
+      "num": 428794,
+      "word": "胡先煦李宛妲恋情",
+      "onboard_time": 1724811621,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2385065,
       "num": 2141805,
       "word": "雪梨",
       "onboard_time": 1724774780,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2318989,
+      "num": 2318989,
+      "word": "爷爷偷偷把房子过户给孙子被判无效",
+      "onboard_time": 1724808320,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2253225,
@@ -108,7 +132,7 @@
     },
     {
       "raw_hot": 942739,
-      "num": 494179,
+      "num": 565524,
       "word": "折腰速抬",
       "onboard_time": 1724763444,
       "rank": 6,
@@ -131,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 833324,
+      "num": 411026,
+      "word": "干巴大叔 骨癌",
+      "onboard_time": 1724811203,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 773446,
       "num": 457005,
       "word": "宋祖儿工作室回应高考争议",
@@ -147,12 +179,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 623310,
-      "num": 402949,
-      "word": "爷爷偷偷把房子过户给孙子被判无效",
-      "onboard_time": 1724808320,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 668291,
+      "num": 668291,
+      "word": "恋与深空回应派克特diss称法庭见",
+      "onboard_time": 1724808861,
+      "rank": 27,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 605275,
@@ -161,6 +193,22 @@
       "onboard_time": 1724780055,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 590626,
+      "num": 590626,
+      "word": "加沙1公斤西红柿194元",
+      "onboard_time": 1724810241,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 525304,
+      "num": 525304,
+      "word": "黑神话悟空全中文主线剧情电影",
+      "onboard_time": 1724807243,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 471048,
@@ -259,14 +307,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 376876,
-      "num": 352391,
-      "word": "黑神话悟空全中文主线剧情电影",
-      "onboard_time": 1724807243,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 342621,
       "num": 342621,
       "word": "戒尺还给老师才是真正对孩子负责",
@@ -307,14 +347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 256048,
-      "num": 256048,
-      "word": "恋与深空回应派克特diss称法庭见",
-      "onboard_time": 1724808861,
-      "rank": 27,
-      "category": "游戏,艺人"
-    },
-    {
       "raw_hot": 240026,
       "num": 240026,
       "word": "孟宴臣的含金量还在上涨",
@@ -345,6 +377,14 @@
       "onboard_time": 1724765424,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227473,
+      "num": 227473,
+      "word": "只怪自己报考时没观察学校的环境",
+      "onboard_time": 1724808623,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 224254,
@@ -403,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203754,
+      "num": 203754,
+      "word": "妈妈告诉亲戚小孩我没有玩偶",
+      "onboard_time": 1724809943,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 197793,
       "num": 197793,
       "word": "王俊凯忘记周正女朋友名字",
@@ -411,11 +459,43 @@
       "category": "电影"
     },
     {
+      "raw_hot": 192768,
+      "num": 192768,
+      "word": "凡人歌定档",
+      "onboard_time": 1724812703,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 192611,
+      "num": 192611,
+      "word": "恋与深空",
+      "onboard_time": 1724801840,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182930,
       "num": 182930,
       "word": "新确认两位日军慰安妇制度受害幸存者",
       "onboard_time": 1724807661,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182073,
+      "num": 182073,
+      "word": "乌总统称将向美国提交胜利计划",
+      "onboard_time": 1724812343,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 181769,
+      "num": 181769,
+      "word": "广州成都深圳等8城设立市内免税店",
+      "onboard_time": 1724811863,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -475,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159593,
+      "num": 159593,
+      "word": "A股",
+      "onboard_time": 1724812042,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 159574,
       "num": 159574,
       "word": "警方通报网传两名外国人打中国人",
@@ -523,12 +611,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 145486,
-      "num": 145486,
-      "word": "恋与深空",
-      "onboard_time": 1724801840,
+      "raw_hot": 144876,
+      "num": 144876,
+      "word": "如果你要写山河就不能只写山河",
+      "onboard_time": 1724810480,
       "rank": 43,
-      "category": "游戏"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140226,
@@ -539,6 +627,14 @@
       "category": "音乐,游戏"
     },
     {
+      "raw_hot": 138168,
+      "num": 433735,
+      "word": "疑护士妻子出轨医生致丈夫自杀",
+      "onboard_time": 1724811502,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137813,
       "num": 169149,
       "word": "柳舟记剧粉从前vs现在",
@@ -547,12 +643,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134587,
+      "num": 134587,
+      "word": "唐鹤德风波后首现身",
+      "onboard_time": 1724809641,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134433,
       "num": 134433,
       "word": "三代成员下飞机",
       "onboard_time": 1724803040,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133113,
+      "num": 133113,
+      "word": "古人有自己的开学文具套装",
+      "onboard_time": 1724812521,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132913,
@@ -627,14 +739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 120323,
-      "num": 120323,
-      "word": "只怪自己报考时没观察学校的环境",
-      "onboard_time": 1724808623,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 119282,
       "num": 119282,
       "word": "茶叶蛋也是有壳的",
@@ -657,14 +761,6 @@
       "onboard_time": 1724784852,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117494,
-      "num": 117494,
-      "word": "唐鹤德风波后首现身",
-      "onboard_time": 1724809641,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 113220,
@@ -803,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58811,
+      "num": 414988,
+      "word": "惩恶扬善不能是个赚钱的名号",
+      "onboard_time": 1724811743,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55464,
       "num": 66339,
       "word": "业主投诉大量公租房闲置10多年",
@@ -819,12 +923,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 53846,
+      "num": 411795,
+      "word": "烟台海肠捞饭真的火了",
+      "onboard_time": 1724811743,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
       "raw_hot": 44777,
       "num": 49959,
       "word": "ENHYPEN首部网剧成员们的出场",
       "onboard_time": 1724781135,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41963,
+      "num": 399837,
+      "word": "河北美院卷入巨额民间借贷",
+      "onboard_time": 1724811682,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38441,

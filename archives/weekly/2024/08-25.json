@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724809845042,
+  "endTime": 1724812903000,
   "band_list": [
     {
       "raw_hot": 15299764,
@@ -131,6 +131,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 3319420,
+      "num": 3319420,
+      "word": "雪梨否认吸毒",
+      "onboard_time": 1724811743,
+      "rank": 0,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 3294347,
+      "num": 428794,
+      "word": "胡先煦李宛妲恋情",
+      "onboard_time": 1724811621,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3283054,
       "num": 333017,
       "word": "余宇涵 张元英",
@@ -241,6 +257,14 @@
       "onboard_time": 1724557701,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2318989,
+      "num": 2318989,
+      "word": "爷爷偷偷把房子过户给孙子被判无效",
+      "onboard_time": 1724808320,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2296268,
@@ -1483,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 833324,
+      "num": 411026,
+      "word": "干巴大叔 骨癌",
+      "onboard_time": 1724811203,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 831865,
       "num": 831865,
       "word": "大叔欠债200万在上海送外卖还清",
@@ -1915,6 +1947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 668291,
+      "num": 668291,
+      "word": "恋与深空回应派克特diss称法庭见",
+      "onboard_time": 1724808861,
+      "rank": 27,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 665955,
       "num": 905927,
       "word": "王一博爱豆素养",
@@ -1985,14 +2025,6 @@
       "onboard_time": 1724572341,
       "rank": 9,
       "category": "演出"
-    },
-    {
-      "raw_hot": 623310,
-      "num": 402949,
-      "word": "爷爷偷偷把房子过户给孙子被判无效",
-      "onboard_time": 1724808320,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 614744,
@@ -2112,6 +2144,14 @@
       "word": "居民称2名空调安装工10楼坠落",
       "onboard_time": 1724637739,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 590626,
+      "num": 590626,
+      "word": "加沙1公斤西红柿194元",
+      "onboard_time": 1724810241,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -2289,6 +2329,14 @@
       "onboard_time": 1724510962,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 525304,
+      "num": 525304,
+      "word": "黑神话悟空全中文主线剧情电影",
+      "onboard_time": 1724807243,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 521557,
@@ -3145,14 +3193,6 @@
       "onboard_time": 1724558718,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 376876,
-      "num": 352391,
-      "word": "黑神话悟空全中文主线剧情电影",
-      "onboard_time": 1724807243,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 373855,
@@ -4331,14 +4371,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 256048,
-      "num": 256048,
-      "word": "恋与深空回应派克特diss称法庭见",
-      "onboard_time": 1724808861,
-      "rank": 27,
-      "category": "游戏,艺人"
-    },
-    {
       "raw_hot": 255062,
       "num": 255062,
       "word": "专家称房屋养老金不需老百姓直接出钱",
@@ -4969,6 +5001,14 @@
       "onboard_time": 1724629339,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 227473,
+      "num": 227473,
+      "word": "只怪自己报考时没观察学校的环境",
+      "onboard_time": 1724808623,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 227205,
@@ -5843,6 +5883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 203754,
+      "num": 203754,
+      "word": "妈妈告诉亲戚小孩我没有玩偶",
+      "onboard_time": 1724809943,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 203521,
       "num": 257894,
       "word": "成都下的是霰不是冰雹",
@@ -6265,6 +6313,14 @@
       "onboard_time": 1724556140,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192768,
+      "num": 192768,
+      "word": "凡人歌定档",
+      "onboard_time": 1724812703,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 192558,
@@ -6699,12 +6755,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182073,
+      "num": 182073,
+      "word": "乌总统称将向美国提交胜利计划",
+      "onboard_time": 1724812343,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 181975,
       "num": 181975,
       "word": "梅德韦杰夫谈Telegram创始人被捕",
       "onboard_time": 1724642121,
       "rank": 43,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 181769,
+      "num": 181769,
+      "word": "广州成都深圳等8城设立市内免税店",
+      "onboard_time": 1724811863,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181659,
@@ -7491,6 +7563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159593,
+      "num": 159593,
+      "word": "A股",
+      "onboard_time": 1724812042,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 159589,
       "num": 159589,
       "word": "柳舟记 鹅了么订单",
@@ -7907,6 +7987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144876,
+      "num": 144876,
+      "word": "如果你要写山河就不能只写山河",
+      "onboard_time": 1724810480,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144383,
       "num": 144383,
       "word": "求神不如球神",
@@ -8043,6 +8131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138168,
+      "num": 433735,
+      "word": "疑护士妻子出轨医生致丈夫自杀",
+      "onboard_time": 1724811502,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137813,
       "num": 169149,
       "word": "柳舟记剧粉从前vs现在",
@@ -8139,6 +8235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134587,
+      "num": 134587,
+      "word": "唐鹤德风波后首现身",
+      "onboard_time": 1724809641,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134433,
       "num": 134433,
       "word": "三代成员下飞机",
@@ -8169,6 +8273,14 @@
       "onboard_time": 1724556800,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133113,
+      "num": 133113,
+      "word": "古人有自己的开学文具套装",
+      "onboard_time": 1724812521,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132945,
@@ -8387,14 +8499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 120323,
-      "num": 120323,
-      "word": "只怪自己报考时没观察学校的环境",
-      "onboard_time": 1724808623,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 119245,
       "num": 119245,
       "word": "乐华 业务能力",
@@ -8425,14 +8529,6 @@
       "onboard_time": 1724784852,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117494,
-      "num": 117494,
-      "word": "唐鹤德风波后首现身",
-      "onboard_time": 1724809641,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 115697,
@@ -9235,6 +9331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58811,
+      "num": 414988,
+      "word": "惩恶扬善不能是个赚钱的名号",
+      "onboard_time": 1724811743,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58136,
       "num": 438081,
       "word": "网约车司机为炫耀谎称猥亵醉酒女乘客",
@@ -9369,6 +9473,14 @@
       "onboard_time": 1724782993,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 53846,
+      "num": 411795,
+      "word": "烟台海肠捞饭真的火了",
+      "onboard_time": 1724811743,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 53372,
@@ -9656,6 +9768,14 @@
       "word": "一线城市平均房租为每月84.82元一平",
       "onboard_time": 1724560219,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41963,
+      "num": 399837,
+      "word": "河北美院卷入巨额民间借贷",
+      "onboard_time": 1724811682,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
