@@ -1,0 +1,410 @@
+{
+  "runTime": 1724819123462,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2008792,
+        "num": 2008792,
+        "word": "爷爷偷偷把房子过户给孙子被判无效",
+        "onboard_time": 1724808320,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1902136,
+        "num": 1902136,
+        "word": "雪梨否认吸毒",
+        "onboard_time": 1724811743,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 106821,
+        "num": 1067084,
+        "word": "太空视角看地球家园",
+        "onboard_time": 1724815462,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2171739,
+        "num": 1052716,
+        "word": "疑护士妻子出轨医生致丈夫自杀",
+        "onboard_time": 1724811502,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1033426,
+        "num": 1033426,
+        "word": "人均两万五去八个国家玩了24天",
+        "onboard_time": 1724813242,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 694239,
+        "num": 694239,
+        "word": "宋祖儿工作室回应高考争议",
+        "onboard_time": 1724801778,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 615849,
+        "num": 615849,
+        "word": "刘美含 张远理想型女儿",
+        "onboard_time": 1724815221,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 459412,
+        "num": 459412,
+        "word": "7岁男孩每晚崩溃大哭想回国",
+        "onboard_time": 1724804062,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352931,
+        "num": 352931,
+        "word": "恋与深空回应派克特diss称法庭见",
+        "onboard_time": 1724808861,
+        "rank": 8,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 71491,
+        "num": 352809,
+        "word": "一人吐槽一件旅游中最受不了的事",
+        "onboard_time": 1724811743,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1745539,
+        "num": 352659,
+        "word": "同学曝余宇涵耍大牌",
+        "onboard_time": 1724817322,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2579866,
+        "num": 352407,
+        "word": "胡先煦李宛妲恋情",
+        "onboard_time": 1724811621,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1092111,
+        "num": 352073,
+        "word": "陈艺文ins",
+        "onboard_time": 1724816601,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 839326,
+        "num": 351858,
+        "word": "candy要飞回应雪梨",
+        "onboard_time": 1724814801,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 38117,
+        "num": 351528,
+        "word": "为怒放的生命喝彩为不屈的灵魂加油",
+        "onboard_time": 1724817442,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726567,
+        "num": 351231,
+        "word": "凌晨出道 下午塌房",
+        "onboard_time": 1724758040,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 648555,
+        "num": 351083,
+        "word": "女子172cm100斤确诊营养不良型肥胖",
+        "onboard_time": 1724770224,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640745,
+        "num": 350775,
+        "word": "宋祖儿工作室声明",
+        "onboard_time": 1724761283,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541856,
+        "num": 350409,
+        "word": "雪梨",
+        "onboard_time": 1724774780,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 58312,
+        "num": 350100,
+        "word": "广州试点房屋保险制度",
+        "onboard_time": 1724817442,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350069,
+        "num": 350069,
+        "word": "吉祥航空称不允许多人一起进厕所",
+        "onboard_time": 1724814261,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499947,
+        "num": 349251,
+        "word": "折腰速抬",
+        "onboard_time": 1724763444,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 462701,
+        "num": 349001,
+        "word": "90后女生出游20天全村手机都要瘫痪了",
+        "onboard_time": 1724801419,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397911,
+        "num": 348182,
+        "word": "派克特",
+        "onboard_time": 1724818765,
+        "rank": 23,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 74014,
+        "num": 347024,
+        "word": "小鹏MONA卖爆了",
+        "onboard_time": 1724818104,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 40442,
+        "num": 345791,
+        "word": "四方馆非典型古装爽剧",
+        "onboard_time": 1724818884,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345420,
+        "num": 345420,
+        "word": "电脑都买不起还学别人开公司",
+        "onboard_time": 1724817022,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 328761,
+        "num": 328761,
+        "word": "男子献血8次不能优先用血多人被处分",
+        "onboard_time": 1724786713,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88186,
+        "num": 310440,
+        "word": "美特斯邦威要做始祖鸟平替",
+        "onboard_time": 1724818104,
+        "rank": 28,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 104013,
+        "num": 304960,
+        "word": "用公主小妹打开边水往事",
+        "onboard_time": 1724819064,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303631,
+        "num": 303631,
+        "word": "Candy要飞喊话雪梨",
+        "onboard_time": 1724800639,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 295240,
+        "num": 295240,
+        "word": "黑神话悟空新补丁发布",
+        "onboard_time": 1724815762,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 292951,
+        "num": 292951,
+        "word": "蒋奇明 性感",
+        "onboard_time": 1724814441,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292451,
+        "num": 292451,
+        "word": "加沙1公斤西红柿194元",
+        "onboard_time": 1724810241,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288460,
+        "num": 288460,
+        "word": "印度遭奸杀女医生父母回应",
+        "onboard_time": 1724816302,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283074,
+        "num": 283074,
+        "word": "吴谨言江疏影开机路透",
+        "onboard_time": 1724818223,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276464,
+        "num": 276464,
+        "word": "感觉把男朋友好好养了一遍",
+        "onboard_time": 1724813302,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275602,
+        "num": 275602,
+        "word": "越来越多学校点名爸爸来开家长会",
+        "onboard_time": 1724816902,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124756,
+        "num": 254015,
+        "word": "柳眠棠财务自由买房拒婚",
+        "onboard_time": 1724815523,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24154,
+        "num": 253746,
+        "word": "烟台海肠的诱惑很低调",
+        "onboard_time": 1724817624,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 253517,
+        "num": 253517,
+        "word": "中国女生一拳吓懵韩国小哥",
+        "onboard_time": 1724816302,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246856,
+        "num": 246856,
+        "word": "陈艺文辟谣",
+        "onboard_time": 1724818644,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239802,
+        "num": 239802,
+        "word": "雪梨老公",
+        "onboard_time": 1724808022,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 234652,
+        "num": 234652,
+        "word": "孙颖莎 本身就是耀眼的光",
+        "onboard_time": 1724813302,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231368,
+        "num": 231368,
+        "word": "下一战歌手标杆歌手阵容",
+        "onboard_time": 1724818945,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223753,
+        "num": 223753,
+        "word": "明日方舟",
+        "onboard_time": 1724815642,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218813,
+        "num": 218813,
+        "word": "明日方舟迷宫饭",
+        "onboard_time": 1724817322,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213785,
+        "num": 213785,
+        "word": "WTT单打决赛票5分钟售罄",
+        "onboard_time": 1724817022,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213159,
+        "num": 213159,
+        "word": "广东夫妻生完2娃又喜提4胞胎",
+        "onboard_time": 1724780055,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212446,
+        "num": 212446,
+        "word": "广州成都深圳等8城设立市内免税店",
+        "onboard_time": 1724811863,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视网络文明建设#"
+    }
+  }
+}

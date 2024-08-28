@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724816273088,
+  "endTime": 1724819123462,
   "band_list": [
     {
       "raw_hot": 15299764,
@@ -299,6 +299,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 2171739,
+      "num": 1314907,
+      "word": "疑护士妻子出轨医生致丈夫自杀",
+      "onboard_time": 1724811502,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2141711,
       "num": 2141711,
       "word": "樊振东退赛",
@@ -481,6 +489,14 @@
       "onboard_time": 1724657120,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1745539,
+      "num": 352659,
+      "word": "同学曝余宇涵耍大牌",
+      "onboard_time": 1724817322,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1733397,
@@ -843,14 +859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1314907,
-      "num": 1314907,
-      "word": "疑护士妻子出轨医生致丈夫自杀",
-      "onboard_time": 1724811502,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1295456,
       "num": 1295456,
       "word": "父亲送女儿上班溺亡前细节回放",
@@ -1099,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1092111,
+      "num": 352073,
+      "word": "陈艺文ins",
+      "onboard_time": 1724816601,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1078767,
       "num": 1078767,
       "word": "网红胡湾否认涉性交易",
@@ -1145,6 +1161,14 @@
       "onboard_time": 1724716760,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1033426,
+      "num": 1033426,
+      "word": "人均两万五去八个国家玩了24天",
+      "onboard_time": 1724813242,
+      "rank": 35,
+      "category": "旅游"
     },
     {
       "raw_hot": 1026420,
@@ -1515,6 +1539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 839326,
+      "num": 445743,
+      "word": "candy要飞回应雪梨",
+      "onboard_time": 1724814801,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 838919,
       "num": 838919,
       "word": "专家称调休只是拆东墙补西墙",
@@ -1644,7 +1676,7 @@
     },
     {
       "raw_hot": 773446,
-      "num": 488589,
+      "num": 694239,
       "word": "宋祖儿工作室回应高考争议",
       "onboard_time": 1724801778,
       "rank": 8,
@@ -2033,6 +2065,14 @@
       "onboard_time": 1724572341,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 615849,
+      "num": 615849,
+      "word": "刘美含 张远理想型女儿",
+      "onboard_time": 1724815221,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 614744,
@@ -2763,14 +2803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 445743,
-      "num": 445743,
-      "word": "candy要飞回应雪梨",
-      "onboard_time": 1724814801,
-      "rank": 32,
-      "category": "网红"
-    },
-    {
       "raw_hot": 444691,
       "num": 751486,
       "word": "假特警路边查车要钱遇上真警察",
@@ -2961,14 +2993,6 @@
       "onboard_time": 1724741421,
       "rank": 24,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 410794,
-      "num": 410794,
-      "word": "刘美含 张远理想型女儿",
-      "onboard_time": 1724815221,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 408500,
@@ -3347,6 +3371,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 350069,
+      "num": 378981,
+      "word": "吉祥航空称不允许多人一起进厕所",
+      "onboard_time": 1724814261,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 350051,
       "num": 350051,
       "word": "蒋奇明好帅",
@@ -3385,6 +3417,14 @@
       "onboard_time": 1724671522,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 345420,
+      "num": 345420,
+      "word": "电脑都买不起还学别人开公司",
+      "onboard_time": 1724817022,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 344058,
@@ -3617,14 +3657,6 @@
       "onboard_time": 1724562681,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 318966,
-      "num": 318966,
-      "word": "人均两万五去八个国家玩了24天",
-      "onboard_time": 1724813242,
-      "rank": 35,
-      "category": "旅游"
     },
     {
       "raw_hot": 318653,
@@ -3891,6 +3923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295240,
+      "num": 295240,
+      "word": "黑神话悟空新补丁发布",
+      "onboard_time": 1724815762,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 294369,
       "num": 294369,
       "word": "东北虎豹纪念币",
@@ -3913,6 +3953,14 @@
       "onboard_time": 1724568379,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292951,
+      "num": 292951,
+      "word": "蒋奇明 性感",
+      "onboard_time": 1724814441,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 291539,
@@ -3977,6 +4025,14 @@
       "onboard_time": 1724658620,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288460,
+      "num": 288460,
+      "word": "印度遭奸杀女医生父母回应",
+      "onboard_time": 1724816302,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288271,
@@ -4091,6 +4147,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 283074,
+      "num": 283074,
+      "word": "吴谨言江疏影开机路透",
+      "onboard_time": 1724818223,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 278775,
       "num": 278775,
       "word": "朱志鑫戴皇冠",
@@ -4105,6 +4169,14 @@
       "onboard_time": 1724682023,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 275602,
+      "num": 275602,
+      "word": "越来越多学校点名爸爸来开家长会",
+      "onboard_time": 1724816902,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 275431,
@@ -4137,14 +4209,6 @@
       "onboard_time": 1724640918,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 272726,
-      "num": 272726,
-      "word": "蒋奇明 性感",
-      "onboard_time": 1724814441,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 272529,
@@ -4499,6 +4563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253517,
+      "num": 253517,
+      "word": "中国女生一拳吓懵韩国小哥",
+      "onboard_time": 1724816302,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253265,
       "num": 253265,
       "word": "迪丽热巴皇冠皮短裙",
@@ -4633,6 +4705,14 @@
       "onboard_time": 1724814622,
       "rank": 37,
       "category": "网红"
+    },
+    {
+      "raw_hot": 246856,
+      "num": 246856,
+      "word": "陈艺文辟谣",
+      "onboard_time": 1724818644,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 246695,
@@ -5001,6 +5081,14 @@
       "onboard_time": 1724513122,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 231368,
+      "num": 231368,
+      "word": "下一战歌手标杆歌手阵容",
+      "onboard_time": 1724818945,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 231272,
@@ -5403,6 +5491,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 218813,
+      "num": 218813,
+      "word": "明日方舟迷宫饭",
+      "onboard_time": 1724817322,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 218734,
       "num": 218734,
       "word": "猫咪被锁喉后宝宝因抱不动大哭",
@@ -5561,6 +5657,14 @@
       "onboard_time": 1724661801,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 213785,
+      "num": 213785,
+      "word": "WTT单打决赛票5分钟售罄",
+      "onboard_time": 1724817022,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 213593,
@@ -8099,14 +8203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144435,
-      "num": 144435,
-      "word": "黑神话悟空新补丁发布",
-      "onboard_time": 1724815762,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 144383,
       "num": 144383,
       "word": "求神不如球神",
@@ -8308,7 +8404,7 @@
     },
     {
       "raw_hot": 135240,
-      "num": 135240,
+      "num": 254015,
       "word": "柳眠棠财务自由买房拒婚",
       "onboard_time": 1724815523,
       "rank": 49,
@@ -8763,6 +8859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106821,
+      "num": 1443859,
+      "word": "太空视角看地球家园",
+      "onboard_time": 1724815462,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106695,
       "num": 664447,
       "word": "烟台海肠捞饭月售万份",
@@ -8777,6 +8881,14 @@
       "onboard_time": 1724563699,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104013,
+      "num": 304960,
+      "word": "用公主小妹打开边水往事",
+      "onboard_time": 1724819064,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 102708,
@@ -8807,14 +8919,6 @@
       "num": 501129,
       "word": "公租房建设19年仍未交付",
       "onboard_time": 1724745799,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99371,
-      "num": 378981,
-      "word": "吉祥航空称不允许多人一起进厕所",
-      "onboard_time": 1724814261,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -8913,6 +9017,14 @@
       "onboard_time": 1724714838,
       "rank": 38,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 88186,
+      "num": 310440,
+      "word": "美特斯邦威要做始祖鸟平替",
+      "onboard_time": 1724818104,
+      "rank": 28,
+      "category": "时尚"
     },
     {
       "raw_hot": 86314,
@@ -9083,6 +9195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74014,
+      "num": 347024,
+      "word": "小鹏MONA卖爆了",
+      "onboard_time": 1724818104,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 73617,
       "num": 84019,
       "word": "胡可晒安吉近照",
@@ -9129,6 +9249,14 @@
       "onboard_time": 1724727920,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 71491,
+      "num": 352809,
+      "word": "一人吐槽一件旅游中最受不了的事",
+      "onboard_time": 1724811743,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70774,
@@ -9184,14 +9312,6 @@
       "word": "男子为一双球鞋入室抢劫杀人",
       "onboard_time": 1724755462,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 68532,
-      "num": 1443859,
-      "word": "太空视角看地球家园",
-      "onboard_time": 1724815462,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -9471,6 +9591,14 @@
       "num": 360899,
       "word": "高价月饼礼盒卖不动了",
       "onboard_time": 1724639120,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58312,
+      "num": 350100,
+      "word": "广州试点房屋保险制度",
+      "onboard_time": 1724817442,
       "rank": 19,
       "category": "社会新闻"
     },
@@ -9987,6 +10115,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 40442,
+      "num": 345791,
+      "word": "四方馆非典型古装爽剧",
+      "onboard_time": 1724818884,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 40194,
       "num": 594953,
       "word": "全新电动MINIACEMAN上市",
@@ -10064,6 +10200,14 @@
       "word": "黑灰产5元可AI脱衣20元可换脸",
       "onboard_time": 1724753901,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38117,
+      "num": 351528,
+      "word": "为怒放的生命喝彩为不屈的灵魂加油",
+      "onboard_time": 1724817442,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -10377,6 +10521,14 @@
       "onboard_time": 1724649261,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24154,
+      "num": 253746,
+      "word": "烟台海肠的诱惑很低调",
+      "onboard_time": 1724817624,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 23757,

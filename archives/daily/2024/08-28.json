@@ -1,6 +1,6 @@
 {
   "startTime": 1724775939795,
-  "endTime": 1724816273088,
+  "endTime": 1724819123462,
   "band_list": [
     {
       "raw_hot": 4036285,
@@ -51,6 +51,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2171739,
+      "num": 1314907,
+      "word": "疑护士妻子出轨医生致丈夫自杀",
+      "onboard_time": 1724811502,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1745539,
+      "num": 352659,
+      "word": "同学曝余宇涵耍大牌",
+      "onboard_time": 1724817322,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1690055,
       "num": 1690055,
       "word": "刘谦患肺腺癌",
@@ -72,14 +88,6 @@
       "word": "女子172cm100斤确诊营养不良型肥胖",
       "onboard_time": 1724770224,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1314907,
-      "num": 1314907,
-      "word": "疑护士妻子出轨医生致丈夫自杀",
-      "onboard_time": 1724811502,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -107,6 +115,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1092111,
+      "num": 352073,
+      "word": "陈艺文ins",
+      "onboard_time": 1724816601,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1076884,
       "num": 408011,
       "word": "落地成盒",
@@ -129,6 +145,14 @@
       "onboard_time": 1724765305,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1033426,
+      "num": 1033426,
+      "word": "人均两万五去八个国家玩了24天",
+      "onboard_time": 1724813242,
+      "rank": 35,
+      "category": "旅游"
     },
     {
       "raw_hot": 1014732,
@@ -171,8 +195,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 839326,
+      "num": 445743,
+      "word": "candy要飞回应雪梨",
+      "onboard_time": 1724814801,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 773446,
-      "num": 488589,
+      "num": 694239,
       "word": "宋祖儿工作室回应高考争议",
       "onboard_time": 1724801778,
       "rank": 8,
@@ -193,6 +225,14 @@
       "onboard_time": 1724808861,
       "rank": 27,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 615849,
+      "num": 615849,
+      "word": "刘美含 张远理想型女儿",
+      "onboard_time": 1724815221,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 605275,
@@ -251,14 +291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 445743,
-      "num": 445743,
-      "word": "candy要飞回应雪梨",
-      "onboard_time": 1724814801,
-      "rank": 32,
-      "category": "网红"
-    },
-    {
       "raw_hot": 436974,
       "num": 398586,
       "word": "与辉同行30天卖了7个亿",
@@ -283,20 +315,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 410794,
-      "num": 410794,
-      "word": "刘美含 张远理想型女儿",
-      "onboard_time": 1724815221,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 402249,
       "num": 402249,
       "word": "WTT中国大满贯宣传片内容引争议",
       "onboard_time": 1724770464,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 397911,
+      "num": 348182,
+      "word": "派克特",
+      "onboard_time": 1724818765,
+      "rank": 23,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 384604,
@@ -331,6 +363,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 350069,
+      "num": 378981,
+      "word": "吉祥航空称不允许多人一起进厕所",
+      "onboard_time": 1724814261,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345420,
+      "num": 345420,
+      "word": "电脑都买不起还学别人开公司",
+      "onboard_time": 1724817022,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 342621,
       "num": 342621,
       "word": "戒尺还给老师才是真正对孩子负责",
@@ -355,14 +403,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 318966,
-      "num": 318966,
-      "word": "人均两万五去八个国家玩了24天",
-      "onboard_time": 1724813242,
-      "rank": 35,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 305253,
       "num": 305253,
       "word": "孙颖莎 本身就是耀眼的光",
@@ -377,6 +417,22 @@
       "onboard_time": 1724815642,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 295240,
+      "num": 295240,
+      "word": "黑神话悟空新补丁发布",
+      "onboard_time": 1724815762,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 292951,
+      "num": 292951,
+      "word": "蒋奇明 性感",
+      "onboard_time": 1724814441,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 290500,
@@ -395,12 +451,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 288460,
+      "num": 288460,
+      "word": "印度遭奸杀女医生父母回应",
+      "onboard_time": 1724816302,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284269,
       "num": 284269,
       "word": "凡人歌定档",
       "onboard_time": 1724812703,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 283074,
+      "num": 283074,
+      "word": "吴谨言江疏影开机路透",
+      "onboard_time": 1724818223,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 275602,
+      "num": 275602,
+      "word": "越来越多学校点名爸爸来开家长会",
+      "onboard_time": 1724816902,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 273883,
@@ -411,14 +491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 272726,
-      "num": 272726,
-      "word": "蒋奇明 性感",
-      "onboard_time": 1724814441,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 257535,
       "num": 257535,
       "word": "只怪自己报考时没观察学校的环境",
@@ -427,12 +499,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 253517,
+      "num": 253517,
+      "word": "中国女生一拳吓懵韩国小哥",
+      "onboard_time": 1724816302,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246862,
       "num": 246862,
       "word": "雪梨报案",
       "onboard_time": 1724814622,
       "rank": 37,
       "category": "网红"
+    },
+    {
+      "raw_hot": 246856,
+      "num": 246856,
+      "word": "陈艺文辟谣",
+      "onboard_time": 1724818644,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 240773,
@@ -473,6 +561,14 @@
       "onboard_time": 1724772324,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231368,
+      "num": 231368,
+      "word": "下一战歌手标杆歌手阵容",
+      "onboard_time": 1724818945,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 231009,
@@ -523,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218813,
+      "num": 218813,
+      "word": "明日方舟迷宫饭",
+      "onboard_time": 1724817322,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 216237,
       "num": 310469,
       "word": "于贞 女王",
@@ -545,6 +649,14 @@
       "onboard_time": 1724811863,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213785,
+      "num": 213785,
+      "word": "WTT单打决赛票5分钟售罄",
+      "onboard_time": 1724817022,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 208757,
@@ -731,14 +843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144435,
-      "num": 144435,
-      "word": "黑神话悟空新补丁发布",
-      "onboard_time": 1724815762,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 140226,
       "num": 140226,
       "word": "派克特删除diss",
@@ -756,7 +860,7 @@
     },
     {
       "raw_hot": 135240,
-      "num": 135240,
+      "num": 254015,
       "word": "柳眠棠财务自由买房拒婚",
       "onboard_time": 1724815523,
       "rank": 49,
@@ -915,6 +1019,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 106821,
+      "num": 1443859,
+      "word": "太空视角看地球家园",
+      "onboard_time": 1724815462,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104013,
+      "num": 304960,
+      "word": "用公主小妹打开边水往事",
+      "onboard_time": 1724819064,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100912,
       "num": 100912,
       "word": "抑郁孩子手臂上留下大大小小的刀疤",
@@ -928,14 +1048,6 @@
       "word": "警方通报看守所内酿酒引发爆炸",
       "onboard_time": 1724765906,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99371,
-      "num": 378981,
-      "word": "吉祥航空称不允许多人一起进厕所",
-      "onboard_time": 1724814261,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -979,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88186,
+      "num": 310440,
+      "word": "美特斯邦威要做始祖鸟平替",
+      "onboard_time": 1724818104,
+      "rank": 28,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 85394,
       "num": 85394,
       "word": "转身这一刻偶像剧都弱爆了",
@@ -1011,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74014,
+      "num": 347024,
+      "word": "小鹏MONA卖爆了",
+      "onboard_time": 1724818104,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 73131,
       "num": 77587,
       "word": "现实中没有断首的灵吉菩萨",
@@ -1019,11 +1147,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 68532,
-      "num": 1443859,
-      "word": "太空视角看地球家园",
-      "onboard_time": 1724815462,
-      "rank": 2,
+      "raw_hot": 71491,
+      "num": 352809,
+      "word": "一人吐槽一件旅游中最受不了的事",
+      "onboard_time": 1724811743,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1049,6 +1177,14 @@
       "onboard_time": 1724768665,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 58312,
+      "num": 350100,
+      "word": "广州试点房屋保险制度",
+      "onboard_time": 1724817442,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57677,
@@ -1099,12 +1235,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40442,
+      "num": 345791,
+      "word": "四方馆非典型古装爽剧",
+      "onboard_time": 1724818884,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 38441,
       "num": 45943,
       "word": "外交部驳斥菲律宾无端指责",
       "onboard_time": 1724793491,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 38117,
+      "num": 351528,
+      "word": "为怒放的生命喝彩为不屈的灵魂加油",
+      "onboard_time": 1724817442,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34806,
@@ -1137,6 +1289,14 @@
       "onboard_time": 1724815042,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24154,
+      "num": 253746,
+      "word": "烟台海肠的诱惑很低调",
+      "onboard_time": 1724817624,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 23043,
