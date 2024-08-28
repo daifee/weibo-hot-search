@@ -1,6 +1,6 @@
 {
   "startTime": 1724775939795,
-  "endTime": 1724849742490,
+  "endTime": 1724851487271,
   "band_list": [
     {
       "raw_hot": 16760795,
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1172298,
+      "num": 654852,
+      "word": "印度3名小学生打死5岁同学",
+      "onboard_time": 1724848702,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1167711,
       "num": 1167711,
       "word": "男子相亲半天就定亲12万没了",
@@ -331,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1084939,
+      "num": 1440443,
+      "word": "被王一博抱着也不敢啊",
+      "onboard_time": 1724848044,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1076884,
       "num": 408011,
       "word": "落地成盒",
@@ -356,7 +372,7 @@
     },
     {
       "raw_hot": 1034001,
-      "num": 508317,
+      "num": 534672,
       "word": "生2女后又产下4胞胎父亲发声",
       "onboard_time": 1724844803,
       "rank": 19,
@@ -587,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 528562,
+      "num": 528562,
+      "word": "迪丽热巴若也直播",
+      "onboard_time": 1724848943,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 525304,
       "num": 525304,
       "word": "黑神话悟空全中文主线剧情电影",
@@ -633,22 +657,6 @@
       "onboard_time": 1724764884,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 460339,
-      "num": 648936,
-      "word": "印度3名小学生打死5岁同学",
-      "onboard_time": 1724848702,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 459442,
-      "num": 459442,
-      "word": "被王一博抱着也不敢啊",
-      "onboard_time": 1724848044,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 453656,
@@ -771,6 +779,30 @@
       "category": "网红"
     },
     {
+      "raw_hot": 380708,
+      "num": 454924,
+      "word": "10岁男孩给主播打赏14万平台拒退",
+      "onboard_time": 1724842463,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380328,
+      "num": 380328,
+      "word": "迪丽热巴绿野仙踪造型",
+      "onboard_time": 1724849662,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 371323,
+      "num": 371323,
+      "word": "胡夏 慢冷",
+      "onboard_time": 1724849002,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 365075,
       "num": 365075,
       "word": "王者新英雄影",
@@ -779,11 +811,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 362372,
-      "num": 454924,
-      "word": "10岁男孩给主播打赏14万平台拒退",
-      "onboard_time": 1724842463,
-      "rank": 13,
+      "raw_hot": 361327,
+      "num": 361327,
+      "word": "浙江村子墙里发现宋代青瓷",
+      "onboard_time": 1724850023,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -793,14 +825,6 @@
       "onboard_time": 1724831783,
       "rank": 24,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 348637,
-      "num": 348637,
-      "word": "迪丽热巴若也直播",
-      "onboard_time": 1724848943,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 347790,
@@ -833,6 +857,14 @@
       "onboard_time": 1724818945,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 343596,
+      "num": 343596,
+      "word": "黄朔语音",
+      "onboard_time": 1724850323,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 342621,
@@ -956,7 +988,7 @@
     },
     {
       "raw_hot": 304403,
-      "num": 287463,
+      "num": 291116,
       "word": "由于我不停的运动五个月后",
       "onboard_time": 1724844803,
       "rank": 49,
@@ -977,6 +1009,14 @@
       "onboard_time": 1724848643,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 295188,
+      "num": 295188,
+      "word": "我爸把家里装修成了大唐不夜城",
+      "onboard_time": 1724848103,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 295010,
@@ -1123,12 +1163,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 269422,
-      "num": 269422,
-      "word": "我爸把家里装修成了大唐不夜城",
-      "onboard_time": 1724848103,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 273562,
+      "num": 273562,
+      "word": "花少6成员一半都是山东人",
+      "onboard_time": 1724850143,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 270306,
+      "num": 270306,
+      "word": "重庆多地9月9日再开学",
+      "onboard_time": 1724845824,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267945,
@@ -1219,12 +1267,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 245534,
-      "num": 245534,
-      "word": "重庆多地9月9日再开学",
-      "onboard_time": 1724845824,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 245461,
+      "num": 245461,
+      "word": "沈某已娶妻就不去别人家了",
+      "onboard_time": 1724850922,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 240773,
@@ -1345,6 +1393,14 @@
       "onboard_time": 1724841985,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 226235,
+      "num": 516710,
+      "word": "重庆一学校要求学生饭卡千元起充",
+      "onboard_time": 1724848343,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225993,
@@ -1579,20 +1635,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200947,
+      "num": 200947,
+      "word": "柳舟记29集全员打脸",
+      "onboard_time": 1724850982,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200802,
       "num": 200802,
       "word": "少年回应搀扶老人反遭诬陷殴打",
       "onboard_time": 1724846063,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199981,
-      "num": 199981,
-      "word": "胡夏 慢冷",
-      "onboard_time": 1724849002,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 199274,
@@ -1681,6 +1737,14 @@
       "onboard_time": 1724832982,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190264,
+      "num": 190264,
+      "word": "黄景瑜关晓彤拥抱路透",
+      "onboard_time": 1724850683,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 190191,
@@ -1777,14 +1841,6 @@
       "onboard_time": 1724848463,
       "rank": 46,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 184061,
-      "num": 184061,
-      "word": "迪丽热巴绿野仙踪造型",
-      "onboard_time": 1724849662,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 183084,
@@ -1923,6 +1979,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 170126,
+      "num": 170126,
+      "word": "王铮亮戏腔版不凡2024",
+      "onboard_time": 1724851163,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170086,
       "num": 170086,
       "word": "一肥胖二近视三脊柱侧弯",
@@ -1953,6 +2017,14 @@
       "onboard_time": 1724765305,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 167392,
+      "num": 167392,
+      "word": "邓为美拉德皮衣造型",
+      "onboard_time": 1724851404,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 166253,
@@ -2451,16 +2523,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 91053,
-      "num": 516710,
-      "word": "重庆一学校要求学生饭卡千元起充",
-      "onboard_time": 1724848343,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86735,
-      "num": 492619,
+      "raw_hot": 90792,
+      "num": 529308,
       "word": "烟台海肠捞饭藏不住了",
       "onboard_time": 1724846784,
       "rank": 11,
@@ -2513,6 +2577,14 @@
       "onboard_time": 1724843184,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73597,
+      "num": 380991,
+      "word": "神雕CP圆梦合体",
+      "onboard_time": 1724850383,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 73131,
@@ -2683,6 +2755,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49710,
+      "num": 431764,
+      "word": "小学生急症死亡后学校被判失职",
+      "onboard_time": 1724850443,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49479,
+      "num": 274147,
+      "word": "美特斯邦威靠平替重回创业路",
+      "onboard_time": 1724848702,
+      "rank": 47,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 48791,
       "num": 346759,
       "word": "美特斯邦威老板痛批爆买爆退",
@@ -2763,6 +2851,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 39969,
+      "num": 538473,
+      "word": "男子25年前被冒名顶替至今仍受影响",
+      "onboard_time": 1724850503,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38951,
+      "num": 374438,
+      "word": "男子为骑行自由盗窃多辆自行车",
+      "onboard_time": 1724850383,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38441,
       "num": 45943,
       "word": "外交部驳斥菲律宾无端指责",
@@ -2819,14 +2923,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 32699,
-      "num": 268697,
-      "word": "美特斯邦威靠平替重回创业路",
-      "onboard_time": 1724848702,
-      "rank": 47,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 32172,
       "num": 280247,
       "word": "美特斯邦威30年前就是户外老玩家",
@@ -2841,6 +2937,14 @@
       "onboard_time": 1724833823,
       "rank": 28,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 29762,
+      "num": 381870,
+      "word": "坐庄操纵股市非法获利过亿判刑8年",
+      "onboard_time": 1724850143,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 27518,
@@ -2888,6 +2992,22 @@
       "word": "民警下班夜跑抓获两名嫌疑人",
       "onboard_time": 1724799315,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18194,
+      "num": 191866,
+      "word": "烟台烤海肠",
+      "onboard_time": 1724850023,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 14921,
+      "num": 658541,
+      "word": "1图帮你告别开学综合征",
+      "onboard_time": 1724851224,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
