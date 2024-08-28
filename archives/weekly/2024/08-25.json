@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724865486426,
+  "endTime": 1724866660074,
   "band_list": [
     {
       "raw_hot": 20756997,
@@ -11771,6 +11771,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50739,
+      "num": 371249,
+      "word": "重庆多地官宣延期开学",
+      "onboard_time": 1724865257,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50558,
+      "num": 225210,
+      "word": "朴灿烈正式solo出道",
+      "onboard_time": 1724865916,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 50458,
       "num": 692977,
       "word": "律师就要坚持难而正确的事",
@@ -12001,6 +12017,14 @@
       "onboard_time": 1724523972,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 43661,
+      "num": 225055,
+      "word": "威尼斯电影节",
+      "onboard_time": 1724866156,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 43619,
@@ -12377,14 +12401,6 @@
       "onboard_time": 1724860049,
       "rank": 34,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 32691,
-      "num": 371249,
-      "word": "重庆多地官宣延期开学",
-      "onboard_time": 1724865257,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32659,

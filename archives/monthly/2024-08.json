@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1724865486426,
+  "endTime": 1724866660074,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -80667,6 +80667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50739,
+      "num": 371249,
+      "word": "重庆多地官宣延期开学",
+      "onboard_time": 1724865257,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50720,
       "num": 393461,
       "word": "我靠户外徒步清班味儿",
@@ -80681,6 +80689,14 @@
       "onboard_time": 1724139020,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50558,
+      "num": 225210,
+      "word": "朴灿烈正式solo出道",
+      "onboard_time": 1724865916,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 50539,
@@ -81801,6 +81817,14 @@
       "onboard_time": 1724523972,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 43661,
+      "num": 225055,
+      "word": "威尼斯电影节",
+      "onboard_time": 1724866156,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 43638,
@@ -83681,14 +83705,6 @@
       "onboard_time": 1723033703,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 32691,
-      "num": 371249,
-      "word": "重庆多地官宣延期开学",
-      "onboard_time": 1724865257,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32659,
