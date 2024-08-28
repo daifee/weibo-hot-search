@@ -1,6 +1,6 @@
 {
   "startTime": 1724775939795,
-  "endTime": 1724813488932,
+  "endTime": 1724815414749,
   "band_list": [
     {
       "raw_hot": 4036285,
@@ -169,6 +169,14 @@
       "onboard_time": 1724801778,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 760144,
+      "num": 760144,
+      "word": "疑护士妻子出轨医生致丈夫自杀",
+      "onboard_time": 1724811502,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 716385,
@@ -363,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267222,
+      "num": 267222,
+      "word": "人均两万五去八个国家玩了24天",
+      "onboard_time": 1724813242,
+      "rank": 35,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 257535,
       "num": 257535,
       "word": "只怪自己报考时没观察学校的环境",
@@ -371,12 +387,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 253181,
-      "num": 433735,
-      "word": "疑护士妻子出轨医生致丈夫自杀",
-      "onboard_time": 1724811502,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 248016,
+      "num": 248016,
+      "word": "凡人歌定档",
+      "onboard_time": 1724812703,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 240773,
@@ -425,14 +441,6 @@
       "onboard_time": 1724765424,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227373,
-      "num": 246378,
-      "word": "凡人歌定档",
-      "onboard_time": 1724812703,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 225993,
@@ -491,12 +499,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 215910,
-      "num": 215910,
-      "word": "人均两万五去八个国家玩了24天",
-      "onboard_time": 1724813242,
-      "rank": 35,
-      "category": "旅游"
+      "raw_hot": 212953,
+      "num": 212953,
+      "word": "广州成都深圳等8城设立市内免税店",
+      "onboard_time": 1724811863,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211498,
+      "num": 211498,
+      "word": "candy要飞回应雪梨",
+      "onboard_time": 1724814801,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 208757,
@@ -507,12 +523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198544,
-      "num": 198544,
-      "word": "广州成都深圳等8城设立市内免税店",
-      "onboard_time": 1724811863,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 199632,
+      "num": 199632,
+      "word": "刘美含 张远理想型女儿",
+      "onboard_time": 1724815221,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 197793,
@@ -523,11 +539,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193659,
+      "num": 193659,
+      "word": "雪梨报案",
+      "onboard_time": 1724814622,
+      "rank": 37,
+      "category": "网红"
+    },
+    {
       "raw_hot": 192611,
       "num": 192611,
       "word": "恋与深空",
       "onboard_time": 1724801840,
       "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 186799,
+      "num": 186799,
+      "word": "剑网3",
+      "onboard_time": 1724814382,
+      "rank": 38,
       "category": "游戏"
     },
     {
@@ -553,6 +585,14 @@
       "onboard_time": 1724758582,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176403,
+      "num": 176403,
+      "word": "蒋奇明 性感",
+      "onboard_time": 1724814441,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 174746,
@@ -641,6 +681,14 @@
       "onboard_time": 1724806524,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149109,
+      "num": 149109,
+      "word": "内地奥运健儿明日访港",
+      "onboard_time": 1724814141,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 146414,
@@ -747,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126126,
+      "num": 126126,
+      "word": "警方通报轿车与电动车相撞致2死",
+      "onboard_time": 1724814681,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123310,
       "num": 123310,
       "word": "穆祉丞 被关麦",
@@ -817,6 +873,14 @@
       "onboard_time": 1724809823,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 104392,
+      "num": 411795,
+      "word": "烟台海肠捞饭真的火了",
+      "onboard_time": 1724811743,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 100912,
@@ -939,14 +1003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 60049,
-      "num": 411795,
-      "word": "烟台海肠捞饭真的火了",
-      "onboard_time": 1724811743,
-      "rank": 15,
-      "category": "美食"
-    },
-    {
       "raw_hot": 57677,
       "num": 399837,
       "word": "河北美院卷入巨额民间借贷",
@@ -963,12 +1019,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55043,
+      "num": 1009506,
+      "word": "蛟龙号潜航员第一视角探海底",
+      "onboard_time": 1724815221,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54038,
       "num": 54038,
       "word": "阴阳师八周年免费70抽",
       "onboard_time": 1724782993,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 52437,
+      "num": 378981,
+      "word": "吉祥航空称不允许多人一起进厕所",
+      "onboard_time": 1724814261,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44777,
@@ -987,6 +1059,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 36395,
+      "num": 359945,
+      "word": "超30城支持存量房贷利率商转公",
+      "onboard_time": 1724814501,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27518,
       "num": 74096,
       "word": "临近开学如何做好心理准备",
@@ -995,11 +1075,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27373,
+      "num": 261842,
+      "word": "滚滚洪水中的这一幕惊险又感动",
+      "onboard_time": 1724815042,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25212,
+      "num": 182508,
+      "word": "一口入魂的烟台海肠捞饭",
+      "onboard_time": 1724814023,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 23043,
       "num": 1381319,
       "word": "现实版的黄河之水天上来",
       "onboard_time": 1724762724,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22830,
+      "num": 297162,
+      "word": "辞掉工作去合唱的年轻人",
+      "onboard_time": 1724810124,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1046,6 +1150,9 @@
   "hotgov_list": [
     {
       "word": "#共同建设网上精神家园习近平这样强调#"
+    },
+    {
+      "word": "#习近平总书记高度重视网络文明建设#"
     }
   ]
 }
