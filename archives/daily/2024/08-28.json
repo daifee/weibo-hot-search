@@ -1,6 +1,6 @@
 {
   "startTime": 1724775939795,
-  "endTime": 1724855886868,
+  "endTime": 1724858541759,
   "band_list": [
     {
       "raw_hot": 16760795,
@@ -35,20 +35,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9159630,
+      "num": 9159630,
+      "word": "警方通报雪梨事件",
+      "onboard_time": 1724855125,
+      "rank": 0,
+      "category": "网红"
+    },
+    {
       "raw_hot": 4036285,
       "num": 4036285,
       "word": "宋祖儿工作室声明",
       "onboard_time": 1724761283,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3637666,
-      "num": 3637666,
-      "word": "警方通报雪梨事件",
-      "onboard_time": 1724855125,
-      "rank": 0,
-      "category": "网红"
     },
     {
       "raw_hot": 3319420,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1940436,
+      "num": 396027,
+      "word": "造谣雪梨涉毒人员被传唤",
+      "onboard_time": 1724856026,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1874694,
       "num": 1874694,
       "word": "综艺替身",
@@ -169,6 +177,14 @@
       "onboard_time": 1724822603,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1693653,
+      "num": 550759,
+      "word": "王楚钦",
+      "onboard_time": 1724853563,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 1690055,
@@ -249,14 +265,6 @@
       "onboard_time": 1724820145,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1368665,
-      "num": 550759,
-      "word": "王楚钦",
-      "onboard_time": 1724853563,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 1335808,
@@ -579,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 612376,
+      "num": 494057,
+      "word": "心疼儿媳公婆偷偷买了40克金手镯补偿",
+      "onboard_time": 1724853624,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 605275,
       "num": 605275,
       "word": "广东夫妻生完2娃又喜提4胞胎",
@@ -619,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 562505,
+      "num": 562505,
+      "word": "村民漫天要价镇政府强行打款后拆房",
+      "onboard_time": 1724854102,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 560004,
       "num": 460690,
       "word": "时代峰峻",
@@ -641,14 +665,6 @@
       "onboard_time": 1724807243,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 494057,
-      "num": 494057,
-      "word": "心疼儿媳公婆偷偷买了40克金手镯补偿",
-      "onboard_time": 1724853624,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 484543,
@@ -747,6 +763,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 430326,
+      "num": 380355,
+      "word": "雪梨未涉毒",
+      "onboard_time": 1724856144,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 429518,
       "num": 320817,
       "word": "警方通报网红铁头被抓详情",
@@ -785,6 +809,14 @@
       "onboard_time": 1724850323,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 411419,
+      "num": 630650,
+      "word": "钓鱼佬在龙门石窟附近钓上一尊佛头",
+      "onboard_time": 1724854885,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 409468,
@@ -867,20 +899,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 376922,
+      "num": 376922,
+      "word": "偶像练习生尤长靖回来了",
+      "onboard_time": 1724853503,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 367557,
+      "num": 322388,
+      "word": "赵晓卉淘汰感言",
+      "onboard_time": 1724852184,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 365075,
       "num": 365075,
       "word": "王者新英雄影",
       "onboard_time": 1724828961,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 360999,
-      "num": 360999,
-      "word": "偶像练习生尤长靖回来了",
-      "onboard_time": 1724853503,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 360578,
@@ -1003,14 +1043,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 322388,
-      "num": 322388,
-      "word": "赵晓卉淘汰感言",
-      "onboard_time": 1724852184,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 320694,
       "num": 300812,
       "word": "意外发现婆婆给的手镯是金包银的",
@@ -1089,14 +1121,6 @@
       "onboard_time": 1724848643,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 296242,
-      "num": 488588,
-      "word": "村民漫天要价镇政府强行打款后拆房",
-      "onboard_time": 1724854102,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 295188,
@@ -1211,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283033,
+      "num": 283033,
+      "word": "单身母亲带婴儿送外卖被质疑",
+      "onboard_time": 1724855005,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279772,
       "num": 338476,
       "word": "张扬对话十二行家",
@@ -1232,6 +1264,14 @@
       "word": "中石油原董事长王宜林被逮捕",
       "onboard_time": 1724831902,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276560,
+      "num": 276560,
+      "word": "青岛代孕",
+      "onboard_time": 1724858245,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -1257,6 +1297,14 @@
       "onboard_time": 1724850143,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273405,
+      "num": 273405,
+      "word": "成都到九寨沟动车来了",
+      "onboard_time": 1724857405,
+      "rank": 23,
+      "category": "旅游"
     },
     {
       "raw_hot": 270306,
@@ -1328,6 +1376,14 @@
       "word": "男孩反复肺炎竟因3年前误吸狗尾巴草",
       "onboard_time": 1724821944,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254620,
+      "num": 254620,
+      "word": "生下4胞胎父亲称对孩子性别没预期",
+      "onboard_time": 1724856026,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -1651,6 +1707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208192,
+      "num": 284888,
+      "word": "广东5岁小孩流感后确诊急性脑坏死",
+      "onboard_time": 1724854403,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207480,
       "num": 207480,
       "word": "王一博探索新境首映会直播",
@@ -1787,14 +1851,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 194504,
-      "num": 194504,
-      "word": "单身母亲带婴儿送外卖被质疑",
-      "onboard_time": 1724855005,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194127,
       "num": 194127,
       "word": "郎平说陈牧驰米卡是一流的",
@@ -1860,7 +1916,7 @@
     },
     {
       "raw_hot": 190421,
-      "num": 190421,
+      "num": 218001,
       "word": "派克特发歌帮乃万diss乙游",
       "onboard_time": 1724853864,
       "rank": 38,
@@ -1916,7 +1972,7 @@
     },
     {
       "raw_hot": 187296,
-      "num": 187296,
+      "num": 217991,
       "word": "章子怡威尼斯电影节生图",
       "onboard_time": 1724854524,
       "rank": 44,
@@ -1979,6 +2035,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 183288,
+      "num": 218010,
+      "word": "靳东出任中国煤矿文工团团长",
+      "onboard_time": 1724858004,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183084,
       "num": 475828,
       "word": "投重疾险后查出重病却遭拒赔",
@@ -2017,6 +2081,14 @@
       "onboard_time": 1724826982,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 180530,
+      "num": 218010,
+      "word": "莫雷加德说樊振东是奥林匹克的王",
+      "onboard_time": 1724858245,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 179418,
@@ -2188,7 +2260,7 @@
     },
     {
       "raw_hot": 165591,
-      "num": 165591,
+      "num": 217987,
       "word": "王俊凯考砸装睡被妈妈打醒",
       "onboard_time": 1724853925,
       "rank": 44,
@@ -2315,6 +2387,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 153112,
+      "num": 217994,
+      "word": "藏海花",
+      "onboard_time": 1724856505,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152582,
       "num": 152582,
       "word": "穆祉丞 没有热爱了",
@@ -2361,6 +2441,14 @@
       "onboard_time": 1724818104,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 148567,
+      "num": 217993,
+      "word": "猫咪为什么会给兔子舔毛",
+      "onboard_time": 1724856446,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 146414,
@@ -2563,6 +2651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115774,
+      "num": 405324,
+      "word": "五菱星光S上市9.98万元起",
+      "onboard_time": 1724854885,
+      "rank": 20,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 113220,
       "num": 113220,
       "word": "朱志鑫从原生家庭的疼痛中挣脱",
@@ -2577,14 +2673,6 @@
       "onboard_time": 1724770946,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 111330,
-      "num": 630650,
-      "word": "钓鱼佬在龙门石窟附近钓上一尊佛头",
-      "onboard_time": 1724854885,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109911,
@@ -2683,20 +2771,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95176,
+      "num": 410068,
+      "word": "还原献血8次不能优先用血事件真相",
+      "onboard_time": 1724857524,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91643,
       "num": 529308,
       "word": "烟台海肠捞饭藏不住了",
       "onboard_time": 1724846784,
       "rank": 11,
       "category": "美食"
-    },
-    {
-      "raw_hot": 86621,
-      "num": 284888,
-      "word": "广东5岁小孩流感后确诊急性脑坏死",
-      "onboard_time": 1724854403,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85394,
@@ -2761,14 +2849,6 @@
       "onboard_time": 1724801419,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 72441,
-      "num": 383941,
-      "word": "五菱星光S上市9.98万元起",
-      "onboard_time": 1724854885,
-      "rank": 20,
-      "category": "汽车"
     },
     {
       "raw_hot": 71491,

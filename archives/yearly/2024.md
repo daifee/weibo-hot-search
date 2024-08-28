@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/08/28 22:38:06
+本榜单时间：2024/01/01 00:21:05 ~ 2024/08/28 23:22:21
 </p>
 </blockquote>
 <p>
@@ -1125,6 +1125,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E9%9B%AA%E6%A2%A8%E4%BA%8B%E4%BB%B6%23" target="weibo">
+警方通报雪梨事件（热度：9159630）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E4%B8%BA%E8%A7%92%E8%89%B2%E5%A2%9E%E9%87%8D40%E6%96%A4%E5%86%8D%E5%87%8F%E9%87%8D100%E6%96%A4%23" target="weibo">
 贾玲为角色增重40斤再减重100斤（热度：9150566）
 </a>
@@ -1805,12 +1811,6 @@ EDG全球冠军赛夺冠（热度：7188725）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%A4%A7%E9%AB%98%E9%80%9F%E5%A1%8C%E6%96%B9%E5%B7%B2%E8%87%B448%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
 梅大高速塌方已致48人死亡（热度：7156334）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%20%E5%A4%A9%E5%90%8E%E5%9B%9E%E5%BD%92%23" target="weibo">
-那英 天后回归（热度：7152439）
 </a>
 </li>
 
