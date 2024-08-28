@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724819123462,
+  "endTime": 1724819963215,
   "band_list": [
     {
       "raw_hot": 15299764,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 3294347,
-      "num": 480635,
+      "num": 491082,
       "word": "胡先煦李宛妲恋情",
       "onboard_time": 1724811621,
       "rank": 10,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 2171739,
-      "num": 1314907,
+      "num": 1341934,
       "word": "疑护士妻子出轨医生致丈夫自杀",
       "onboard_time": 1724811502,
       "rank": 9,
@@ -707,6 +707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1555930,
+      "num": 483320,
+      "word": "陈艺文ins",
+      "onboard_time": 1724816601,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1550115,
       "num": 1550115,
       "word": "孙杨 短信",
@@ -1107,14 +1115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1092111,
-      "num": 352073,
-      "word": "陈艺文ins",
-      "onboard_time": 1724816601,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1078767,
       "num": 1078767,
       "word": "网红胡湾否认涉性交易",
@@ -1268,7 +1268,7 @@
     },
     {
       "raw_hot": 972767,
-      "num": 445241,
+      "num": 451893,
       "word": "90后女生出游20天全村手机都要瘫痪了",
       "onboard_time": 1724801419,
       "rank": 49,
@@ -1540,7 +1540,7 @@
     },
     {
       "raw_hot": 839326,
-      "num": 445743,
+      "num": 482210,
       "word": "candy要飞回应雪梨",
       "onboard_time": 1724814801,
       "rank": 32,
@@ -1744,6 +1744,14 @@
       "word": "黄子韬徐艺洋包场请大家看求婚",
       "onboard_time": 1724646864,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 735868,
+      "num": 735868,
+      "word": "刘美含 张远理想型女儿",
+      "onboard_time": 1724815221,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -2065,14 +2073,6 @@
       "onboard_time": 1724572341,
       "rank": 9,
       "category": "演出"
-    },
-    {
-      "raw_hot": 615849,
-      "num": 615849,
-      "word": "刘美含 张远理想型女儿",
-      "onboard_time": 1724815221,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 614744,
@@ -2497,6 +2497,14 @@
       "onboard_time": 1724632220,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 495897,
+      "num": 495897,
+      "word": "吉祥航空称不允许多人一起进厕所",
+      "onboard_time": 1724814261,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 495223,
@@ -3003,6 +3011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 408315,
+      "num": 408315,
+      "word": "陈艺文辟谣",
+      "onboard_time": 1724818644,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 406090,
       "num": 583450,
       "word": "中专生军训中暑身亡家属发声",
@@ -3371,14 +3387,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 350069,
-      "num": 378981,
-      "word": "吉祥航空称不允许多人一起进厕所",
-      "onboard_time": 1724814261,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 350051,
       "num": 350051,
       "word": "蒋奇明好帅",
@@ -3425,6 +3433,14 @@
       "onboard_time": 1724817022,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 344095,
+      "num": 344095,
+      "word": "下一战歌手标杆歌手阵容",
+      "onboard_time": 1724818945,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 344058,
@@ -3587,6 +3603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 326549,
+      "num": 326549,
+      "word": "盛李豪 我们项目很难切磋",
+      "onboard_time": 1724819785,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 326260,
       "num": 397950,
       "word": "杨迪曝刘诗诗非常爱做攻略",
@@ -3665,6 +3689,14 @@
       "onboard_time": 1724609953,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318329,
+      "num": 318329,
+      "word": "黑神话悟空新补丁发布",
+      "onboard_time": 1724815762,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 316822,
@@ -3923,12 +3955,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 295240,
-      "num": 295240,
-      "word": "黑神话悟空新补丁发布",
-      "onboard_time": 1724815762,
-      "rank": 47,
-      "category": "游戏"
+      "raw_hot": 295010,
+      "num": 295010,
+      "word": "蒋奇明 性感",
+      "onboard_time": 1724814441,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 294369,
@@ -3937,6 +3969,22 @@
       "onboard_time": 1724768545,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 294125,
+      "num": 294125,
+      "word": "未定事件簿罪与罚",
+      "onboard_time": 1724819724,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 293879,
+      "num": 293879,
+      "word": "中国女生一拳吓懵韩国小哥",
+      "onboard_time": 1724816302,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293476,
@@ -3953,14 +4001,6 @@
       "onboard_time": 1724568379,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 292951,
-      "num": 292951,
-      "word": "蒋奇明 性感",
-      "onboard_time": 1724814441,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 291539,
@@ -4057,6 +4097,14 @@
       "onboard_time": 1724763863,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 286407,
+      "num": 286407,
+      "word": "越来越多学校点名爸爸来开家长会",
+      "onboard_time": 1724816902,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286300,
@@ -4169,14 +4217,6 @@
       "onboard_time": 1724682023,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 275602,
-      "num": 275602,
-      "word": "越来越多学校点名爸爸来开家长会",
-      "onboard_time": 1724816902,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 275431,
@@ -4563,14 +4603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 253517,
-      "num": 253517,
-      "word": "中国女生一拳吓懵韩国小哥",
-      "onboard_time": 1724816302,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 253265,
       "num": 253265,
       "word": "迪丽热巴皇冠皮短裙",
@@ -4707,14 +4739,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 246856,
-      "num": 246856,
-      "word": "陈艺文辟谣",
-      "onboard_time": 1724818644,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 246695,
       "num": 246695,
       "word": "马龙认证许昕太全面了",
@@ -4737,6 +4761,14 @@
       "onboard_time": 1724739561,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 246018,
+      "num": 246018,
+      "word": "张子墨手机壁纸是朴成训",
+      "onboard_time": 1724819122,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 245420,
@@ -5081,14 +5113,6 @@
       "onboard_time": 1724513122,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 231368,
-      "num": 231368,
-      "word": "下一战歌手标杆歌手阵容",
-      "onboard_time": 1724818945,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 231272,
@@ -6819,6 +6843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185099,
+      "num": 185099,
+      "word": "詹姆斯不许布朗尼打球时喊爸爸",
+      "onboard_time": 1724817503,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184892,
       "num": 184892,
       "word": "孙杨说已经很久没有这种感觉了",
@@ -7241,6 +7273,14 @@
       "onboard_time": 1724753962,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175478,
+      "num": 175478,
+      "word": "泽连斯基称已有计划结束俄乌冲突",
+      "onboard_time": 1724819724,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 175370,
@@ -8347,6 +8387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137494,
+      "num": 460500,
+      "word": "用公主小妹打开边水往事",
+      "onboard_time": 1724819064,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137180,
       "num": 133123,
       "word": "朱正廷程潇 BG舞台",
@@ -8883,14 +8931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 104013,
-      "num": 304960,
-      "word": "用公主小妹打开边水往事",
-      "onboard_time": 1724819064,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 102708,
       "num": 309738,
       "word": "柳眠棠嘴硬心软",
@@ -9020,7 +9060,7 @@
     },
     {
       "raw_hot": 88186,
-      "num": 310440,
+      "num": 478205,
       "word": "美特斯邦威要做始祖鸟平替",
       "onboard_time": 1724818104,
       "rank": 28,
@@ -9065,6 +9105,14 @@
       "onboard_time": 1724730802,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82062,
+      "num": 347024,
+      "word": "小鹏MONA卖爆了",
+      "onboard_time": 1724818104,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 80237,
@@ -9193,14 +9241,6 @@
       "onboard_time": 1724628077,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 74014,
-      "num": 347024,
-      "word": "小鹏MONA卖爆了",
-      "onboard_time": 1724818104,
-      "rank": 24,
-      "category": "汽车"
     },
     {
       "raw_hot": 73617,
@@ -10019,6 +10059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 43619,
+      "num": 345791,
+      "word": "四方馆非典型古装爽剧",
+      "onboard_time": 1724818884,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43042,
       "num": 504916,
       "word": "酒店代订服务省钱背后都有啥风险",
@@ -10113,14 +10161,6 @@
       "onboard_time": 1724757141,
       "rank": 19,
       "category": "社会新闻,健康医疗"
-    },
-    {
-      "raw_hot": 40442,
-      "num": 345791,
-      "word": "四方馆非典型古装爽剧",
-      "onboard_time": 1724818884,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 40194,
@@ -10491,11 +10531,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26439,
+      "num": 253746,
+      "word": "烟台海肠的诱惑很低调",
+      "onboard_time": 1724817624,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 26071,
       "num": 235648,
       "word": "遭迫害的美国科学家打算来华工作",
       "onboard_time": 1724639959,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26043,
+      "num": 495809,
+      "word": "1岁女童被关厕所如此立规矩像话吗",
+      "onboard_time": 1724819604,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -10521,14 +10577,6 @@
       "onboard_time": 1724649261,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24154,
-      "num": 253746,
-      "word": "烟台海肠的诱惑很低调",
-      "onboard_time": 1724817624,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 23757,
