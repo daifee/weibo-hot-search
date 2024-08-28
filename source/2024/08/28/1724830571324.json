@@ -1,0 +1,410 @@
+{
+  "runTime": 1724830571324,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1259986,
+        "num": 1259986,
+        "word": "综艺替身",
+        "onboard_time": 1724828362,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1167711,
+        "num": 1167711,
+        "word": "男子相亲半天就定亲12万没了",
+        "onboard_time": 1724826201,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33508,
+        "num": 1001937,
+        "word": "滚滚洪水中的这一幕惊险又感动",
+        "onboard_time": 1724815042,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1636545,
+        "num": 966574,
+        "word": "女生喝下印度司机饮料后被性侵",
+        "onboard_time": 1724829022,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1258493,
+        "num": 962332,
+        "word": "网红雪梨被指涉毒警方回应",
+        "onboard_time": 1724820145,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 864346,
+        "num": 864346,
+        "word": "蔡少芬自曝弄丢过孩子",
+        "onboard_time": 1724825481,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 845087,
+        "num": 845087,
+        "word": "李纯马頔 公开爱情不公开爱称",
+        "onboard_time": 1724822603,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 548308,
+        "num": 548308,
+        "word": "爷爷偷偷把房子过户给孙子被判无效",
+        "onboard_time": 1724808320,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521439,
+        "num": 521439,
+        "word": "黑神话悟空雕塑建成一天就被游客踩坏",
+        "onboard_time": 1724828543,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512317,
+        "num": 512317,
+        "word": "公众要放假而不是假放",
+        "onboard_time": 1724829923,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1585525,
+        "num": 493481,
+        "word": "金巧巧于冬被曝已离婚三年",
+        "onboard_time": 1724826442,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 780604,
+        "num": 480571,
+        "word": "雪梨否认吸毒",
+        "onboard_time": 1724811743,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 740428,
+        "num": 466608,
+        "word": "胡先煦李宛妲恋情",
+        "onboard_time": 1724811621,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91552,
+        "num": 447789,
+        "word": "当地回应郑州一女子高楼撒钱后跳楼",
+        "onboard_time": 1724829862,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51481,
+        "num": 425537,
+        "word": "律师称网红铁头最高可处十年以上刑期",
+        "onboard_time": 1724829144,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412343,
+        "num": 412343,
+        "word": "具荷拉法正式通过",
+        "onboard_time": 1724829743,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380680,
+        "num": 380680,
+        "word": "陈艺文ins",
+        "onboard_time": 1724816601,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 378276,
+        "num": 378276,
+        "word": "女子172cm100斤确诊营养不良型肥胖",
+        "onboard_time": 1724770224,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29371,
+        "num": 370259,
+        "word": "如鸢放我进去",
+        "onboard_time": 1724829262,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 365075,
+        "num": 365075,
+        "word": "王者新英雄影",
+        "onboard_time": 1724828961,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1557370,
+        "num": 360587,
+        "word": "爸妈一次性给了我四年的生活费",
+        "onboard_time": 1724828062,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 427609,
+        "num": 360392,
+        "word": "黑神话悟空中发现了游客景区涂鸦",
+        "onboard_time": 1724827942,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 353360,
+        "num": 353360,
+        "word": "印度再发生医护学生遭性侵事件",
+        "onboard_time": 1724822481,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 311822,
+        "num": 311822,
+        "word": "儿媳妇房间的垃圾桶总是满的",
+        "onboard_time": 1724820744,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287925,
+        "num": 287925,
+        "word": "陈艺文辟谣",
+        "onboard_time": 1724818644,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267945,
+        "num": 267945,
+        "word": "内地奥运冠军获2800万港币奖金",
+        "onboard_time": 1724827042,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258048,
+        "num": 258048,
+        "word": "雪梨",
+        "onboard_time": 1724774780,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 254412,
+        "num": 254412,
+        "word": "派克特",
+        "onboard_time": 1724818765,
+        "rank": 27,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 149647,
+        "num": 250492,
+        "word": "手机支付已经进化到这种程度了",
+        "onboard_time": 1724825243,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247067,
+        "num": 247067,
+        "word": "四方馆 敢拍",
+        "onboard_time": 1724827942,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242500,
+        "num": 242500,
+        "word": "意外发现婆婆给的手镯是金包银的",
+        "onboard_time": 1724822363,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232852,
+        "num": 232852,
+        "word": "研一开学入住了完美宿舍",
+        "onboard_time": 1724823863,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219077,
+        "num": 219077,
+        "word": "医生建议美甲时不要去死皮",
+        "onboard_time": 1724824402,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 216747,
+        "num": 216747,
+        "word": "刘美含 张远理想型女儿",
+        "onboard_time": 1724815221,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209732,
+        "num": 209732,
+        "word": "男孩骑平衡车撞人致残父母赔16万",
+        "onboard_time": 1724829144,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206603,
+        "num": 206603,
+        "word": "六小龄童拍西游记6年发了2000元",
+        "onboard_time": 1724824103,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202724,
+        "num": 202724,
+        "word": "王者荣耀",
+        "onboard_time": 1724830042,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200004,
+        "num": 200004,
+        "word": "candy要飞回应雪梨",
+        "onboard_time": 1724814801,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 183084,
+        "num": 183084,
+        "word": "投重疾险后查出重病却遭拒赔",
+        "onboard_time": 1724826681,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180018,
+        "num": 180018,
+        "word": "折腰速抬",
+        "onboard_time": 1724763444,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177969,
+        "num": 177969,
+        "word": "理发师为顾客剪出逼真黑悟空发型",
+        "onboard_time": 1724829802,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 173279,
+        "num": 173279,
+        "word": "吴谨言一番女主",
+        "onboard_time": 1724827222,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171260,
+        "num": 171260,
+        "word": "麻辣烫里的鸡蛋是预制蛋吗",
+        "onboard_time": 1724826982,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 170693,
+        "num": 170693,
+        "word": "斩神一集一个新老公",
+        "onboard_time": 1724830403,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 168267,
+        "num": 168267,
+        "word": "边水往事超点",
+        "onboard_time": 1724826743,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161902,
+        "num": 161902,
+        "word": "金晨用纸巾撕出一张面膜",
+        "onboard_time": 1724829984,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155070,
+        "num": 155070,
+        "word": "乙游内核 爱自己",
+        "onboard_time": 1724830521,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154045,
+        "num": 154045,
+        "word": "男孩反复肺炎竟因3年前误吸狗尾巴草",
+        "onboard_time": 1724821944,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151565,
+        "num": 151565,
+        "word": "丁禹兮沈渡就贵了四集",
+        "onboard_time": 1724829262,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146093,
+        "num": 146093,
+        "word": "王珞丹比15年前胖了10公斤",
+        "onboard_time": 1724826323,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同建设网上精神家园习近平这样强调#"
+    }
+  }
+}
