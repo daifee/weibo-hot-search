@@ -1,6 +1,6 @@
 {
   "startTime": 1724775939795,
-  "endTime": 1724827307880,
+  "endTime": 1724829551811,
   "band_list": [
     {
       "raw_hot": 4036285,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1793459,
+      "num": 290268,
+      "word": "爸妈一次性给了我四年的生活费",
+      "onboard_time": 1724828062,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1745539,
       "num": 352659,
       "word": "同学曝余宇涵耍大牌",
@@ -80,6 +88,14 @@
       "word": "刘谦患肺腺癌",
       "onboard_time": 1724809161,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1674681,
+      "num": 605104,
+      "word": "金巧巧于冬被曝已离婚三年",
+      "onboard_time": 1724826442,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 1387326,
-      "num": 680653,
+      "num": 698221,
       "word": "网红雪梨被指涉毒警方回应",
       "onboard_time": 1724820145,
       "rank": 12,
@@ -120,6 +136,14 @@
       "word": "蔡少芬自曝丢过孩子",
       "onboard_time": 1724825481,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1311249,
+      "num": 1311249,
+      "word": "蔡少芬自曝弄丢过孩子",
+      "onboard_time": 1724825481,
+      "rank": 0,
       "category": "综艺"
     },
     {
@@ -227,6 +251,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 774865,
+      "num": 774865,
+      "word": "男子相亲半天就定亲12万没了",
+      "onboard_time": 1724826201,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 773446,
       "num": 694239,
       "word": "宋祖儿工作室回应高考争议",
@@ -291,20 +323,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 638591,
+      "num": 498693,
+      "word": "综艺替身",
+      "onboard_time": 1724828362,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 605275,
       "num": 605275,
       "word": "广东夫妻生完2娃又喜提4胞胎",
       "onboard_time": 1724780055,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 605104,
-      "num": 605104,
-      "word": "金巧巧于冬被曝已离婚三年",
-      "onboard_time": 1724826442,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 597190,
@@ -321,6 +353,14 @@
       "onboard_time": 1724807243,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 505002,
+      "num": 505002,
+      "word": "女生喝下印度司机饮料后被性侵",
+      "onboard_time": 1724829022,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 471048,
@@ -385,6 +425,14 @@
       "onboard_time": 1724739621,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 420792,
+      "num": 287524,
+      "word": "黑神话悟空中发现了游客景区涂鸦",
+      "onboard_time": 1724827942,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 402249,
@@ -499,6 +547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 317554,
+      "num": 284178,
+      "word": "研一开学入住了完美宿舍",
+      "onboard_time": 1724823863,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 310485,
       "num": 310485,
       "word": "如鸢",
@@ -579,12 +635,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286709,
+      "num": 283338,
+      "word": "四方馆 敢拍",
+      "onboard_time": 1724827942,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 286407,
       "num": 286407,
       "word": "越来越多学校点名爸爸来开家长会",
       "onboard_time": 1724816902,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285840,
+      "num": 285840,
+      "word": "王者新英雄影",
+      "onboard_time": 1724828961,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 284269,
@@ -603,12 +675,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 280929,
-      "num": 280929,
-      "word": "研一开学入住了完美宿舍",
-      "onboard_time": 1724823863,
-      "rank": 26,
-      "category": "情感"
+      "raw_hot": 279772,
+      "num": 338476,
+      "word": "张扬对话十二行家",
+      "onboard_time": 1724828782,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278914,
@@ -651,8 +723,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 247438,
-      "num": 239811,
+      "raw_hot": 250169,
+      "num": 250169,
       "word": "内地奥运冠军获2800万港币奖金",
       "onboard_time": 1724827042,
       "rank": 30,
@@ -721,14 +793,6 @@
       "onboard_time": 1724809943,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 232379,
-      "num": 631759,
-      "word": "男子相亲半天就定亲12万没了",
-      "onboard_time": 1724826201,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 231672,
@@ -851,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208003,
+      "num": 291030,
+      "word": "黑神话悟空雕塑建成一天就被游客踩坏",
+      "onboard_time": 1724828543,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201928,
       "num": 201928,
       "word": "赵宝儿结婚",
@@ -873,6 +945,14 @@
       "onboard_time": 1724826743,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198797,
+      "num": 198797,
+      "word": "中医提醒3类人不要早上洗头",
+      "onboard_time": 1724824642,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 197793,
@@ -947,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182942,
+      "num": 182942,
+      "word": "男孩骑平衡车撞人致残父母赔16万",
+      "onboard_time": 1724829144,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182930,
       "num": 182930,
       "word": "新确认两位日军慰安妇制度受害幸存者",
@@ -955,12 +1043,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181729,
-      "num": 181729,
-      "word": "中医提醒3类人不要早上洗头",
-      "onboard_time": 1724824642,
+      "raw_hot": 181596,
+      "num": 181596,
+      "word": "麻辣烫里的鸡蛋是预制蛋吗",
+      "onboard_time": 1724826982,
       "rank": 43,
-      "category": "健康医疗"
+      "category": "美食"
     },
     {
       "raw_hot": 177595,
@@ -979,12 +1067,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175273,
+      "num": 475828,
+      "word": "投重疾险后查出重病却遭拒赔",
+      "onboard_time": 1724826681,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174746,
       "num": 174746,
       "word": "美网张之臻因伤退赛",
       "onboard_time": 1724803100,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173629,
+      "num": 173629,
+      "word": "丁禹兮沈渡就贵了四集",
+      "onboard_time": 1724829262,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 171439,
@@ -1129,6 +1233,14 @@
       "onboard_time": 1724759002,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151722,
+      "num": 500684,
+      "word": "手机支付已经进化到这种程度了",
+      "onboard_time": 1724825243,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149947,
@@ -1459,14 +1571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 81061,
-      "num": 500684,
-      "word": "手机支付已经进化到这种程度了",
-      "onboard_time": 1724825243,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80237,
       "num": 97648,
       "word": "吃饭偶遇张予曦",
@@ -1611,14 +1715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 44776,
-      "num": 475828,
-      "word": "投重疾险后查出重病却遭拒赔",
-      "onboard_time": 1724826681,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43619,
       "num": 345791,
       "word": "四方馆非典型古装爽剧",
@@ -1683,6 +1779,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 31712,
+      "num": 318446,
+      "word": "律师称网红铁头最高可处十年以上刑期",
+      "onboard_time": 1724829144,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27518,
       "num": 74096,
       "word": "临近开学如何做好心理准备",
@@ -1692,7 +1796,7 @@
     },
     {
       "raw_hot": 27373,
-      "num": 261842,
+      "num": 714038,
       "word": "滚滚洪水中的这一幕惊险又感动",
       "onboard_time": 1724815042,
       "rank": 24,
@@ -1737,6 +1841,14 @@
       "onboard_time": 1724799315,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17224,
+      "num": 189397,
+      "word": "如鸢放我进去",
+      "onboard_time": 1724829262,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 12754,
