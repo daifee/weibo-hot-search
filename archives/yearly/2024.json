@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1724858541759,
+  "endTime": 1724859436388,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -163,12 +163,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 20756997,
+      "num": 20756997,
+      "word": "余宇涵退团",
+      "onboard_time": 1724858665,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 20745811,
       "num": 20745811,
       "word": "奥组委调查王楚钦球拍被踩事件",
       "onboard_time": 1722523890,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20510362,
+      "num": 844628,
+      "word": "时代峰峻声明",
+      "onboard_time": 1721567360,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 19712879,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1718979802,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 7173131,
-      "num": 7981415,
-      "word": "华中农大通报黄某某学术不端调查情况",
-      "onboard_time": 1707192210,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7156334,
-      "num": 8406334,
-      "word": "梅大高速塌方已致48人死亡",
-      "onboard_time": 1714635678,
-      "rank": 0,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
