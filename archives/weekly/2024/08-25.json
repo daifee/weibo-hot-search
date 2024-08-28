@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724848805613,
+  "endTime": 1724849742490,
   "band_list": [
     {
       "raw_hot": 16760795,
@@ -1371,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1034001,
+      "num": 508317,
+      "word": "生2女后又产下4胞胎父亲发声",
+      "onboard_time": 1724844803,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1033426,
       "num": 1033426,
       "word": "人均两万五去八个国家玩了24天",
@@ -1496,14 +1504,6 @@
       "word": "一天花掉一万五中产家长的迪士尼苦旅",
       "onboard_time": 1724649803,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 961604,
-      "num": 366860,
-      "word": "生2女后又产下4胞胎父亲发声",
-      "onboard_time": 1724844803,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2171,6 +2171,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 688569,
+      "num": 1120687,
+      "word": "前有黄旭熙 后有文泰一",
+      "onboard_time": 1724849002,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 688222,
       "num": 570659,
       "word": "男rapper 有点东西",
@@ -2601,6 +2609,14 @@
       "onboard_time": 1724635701,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 560004,
+      "num": 460690,
+      "word": "时代峰峻",
+      "onboard_time": 1724574799,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 553469,
@@ -3059,6 +3075,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 460339,
+      "num": 648936,
+      "word": "印度3名小学生打死5岁同学",
+      "onboard_time": 1724848702,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 459442,
+      "num": 459442,
+      "word": "被王一博抱着也不敢啊",
+      "onboard_time": 1724848044,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 456966,
       "num": 456966,
       "word": "于正 杨蓉在享受生活",
@@ -3188,7 +3220,7 @@
     },
     {
       "raw_hot": 438719,
-      "num": 496523,
+      "num": 534288,
       "word": "汪顺祝愿孙杨越来越好",
       "onboard_time": 1724838263,
       "rank": 25,
@@ -3715,6 +3747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 362372,
+      "num": 454924,
+      "word": "10岁男孩给主播打赏14万平台拒退",
+      "onboard_time": 1724842463,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357050,
       "num": 357050,
       "word": "CPA会计",
@@ -3785,6 +3825,14 @@
       "onboard_time": 1724831783,
       "rank": 24,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 348637,
+      "num": 348637,
+      "word": "迪丽热巴若也直播",
+      "onboard_time": 1724848943,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 347790,
@@ -4300,7 +4348,7 @@
     },
     {
       "raw_hot": 304403,
-      "num": 279950,
+      "num": 287463,
       "word": "由于我不停的运动五个月后",
       "onboard_time": 1724844803,
       "rank": 49,
@@ -4547,28 +4595,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 290077,
-      "num": 290077,
-      "word": "时代峰峻",
-      "onboard_time": 1724574799,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 289922,
       "num": 289922,
       "word": "Smoggy哭了",
       "onboard_time": 1724590643,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 289512,
-      "num": 454924,
-      "word": "10岁男孩给主播打赏14万平台拒退",
-      "onboard_time": 1724842463,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289166,
@@ -4851,6 +4883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 269422,
+      "num": 269422,
+      "word": "我爸把家里装修成了大唐不夜城",
+      "onboard_time": 1724848103,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 269320,
       "num": 269320,
       "word": "女子美甲致真菌感染治疗花费近万元",
@@ -5131,20 +5171,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 257038,
+      "num": 257038,
+      "word": "周深北京演唱会抢票",
+      "onboard_time": 1724848763,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 256861,
       "num": 734028,
       "word": "菲律宾船非法冲闯中国南沙群岛",
       "onboard_time": 1724567119,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 256467,
-      "num": 256467,
-      "word": "被王一博抱着也不敢啊",
-      "onboard_time": 1724848044,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 255062,
@@ -5385,6 +5425,14 @@
       "onboard_time": 1724819122,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245534,
+      "num": 245534,
+      "word": "重庆多地9月9日再开学",
+      "onboard_time": 1724845824,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 245420,
@@ -6203,6 +6251,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 219261,
+      "num": 219261,
+      "word": "黑猴首先是游戏不去蹭它是最好的",
+      "onboard_time": 1724845104,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 219213,
       "num": 248595,
       "word": "王栎鑫这伞有点暧昧了",
@@ -6361,6 +6417,14 @@
       "onboard_time": 1724581041,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 214749,
+      "num": 214749,
+      "word": "刺猬路演",
+      "onboard_time": 1724848824,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 214090,
@@ -6553,14 +6617,6 @@
       "onboard_time": 1724749822,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 210429,
-      "num": 210429,
-      "word": "黑猴首先是游戏不去蹭它是最好的",
-      "onboard_time": 1724845104,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 210306,
@@ -7107,6 +7163,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 199981,
+      "num": 199981,
+      "word": "胡夏 慢冷",
+      "onboard_time": 1724849002,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199792,
       "num": 187823,
       "word": "登陆少年",
@@ -7403,14 +7467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192623,
-      "num": 192623,
-      "word": "重庆多地9月9日再开学",
-      "onboard_time": 1724845824,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192558,
       "num": 192558,
       "word": "蒋敦豪巡演抢票",
@@ -7425,6 +7481,14 @@
       "onboard_time": 1724571199,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 192003,
+      "num": 197152,
+      "word": "退团公告来了 NCT的",
+      "onboard_time": 1724848882,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 191999,
@@ -7457,14 +7521,6 @@
       "onboard_time": 1724771486,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 191364,
-      "num": 191364,
-      "word": "周深北京演唱会抢票",
-      "onboard_time": 1724848763,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 190973,
@@ -7537,14 +7593,6 @@
       "onboard_time": 1724822001,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 190154,
-      "num": 190154,
-      "word": "印度3名小学生打死5岁同学",
-      "onboard_time": 1724848702,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189721,
@@ -7643,20 +7691,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187874,
-      "num": 187874,
-      "word": "我爸把家里装修成了大唐不夜城",
-      "onboard_time": 1724848103,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 187851,
       "num": 251565,
       "word": "长乐曲",
       "onboard_time": 1724674761,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187830,
+      "num": 187830,
+      "word": "黄山e人含量爆表",
+      "onboard_time": 1724849364,
+      "rank": 43,
+      "category": "旅游"
     },
     {
       "raw_hot": 187680,
@@ -7913,6 +7961,14 @@
       "onboard_time": 1724576419,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 184061,
+      "num": 184061,
+      "word": "迪丽热巴绿野仙踪造型",
+      "onboard_time": 1724849662,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 183791,
@@ -8240,6 +8296,14 @@
       "word": "孙杨有点忐忑有点紧张",
       "onboard_time": 1724566939,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 176645,
+      "num": 176645,
+      "word": "赵继伟回复郭艾伦",
+      "onboard_time": 1724845463,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -8961,6 +9025,14 @@
       "onboard_time": 1724599282,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159140,
+      "num": 159140,
+      "word": "二孩夫妻又生下4胞胎被20万难住",
+      "onboard_time": 1724849483,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158862,
@@ -10267,6 +10339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91053,
+      "num": 516710,
+      "word": "重庆一学校要求学生饭卡千元起充",
+      "onboard_time": 1724848343,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89584,
       "num": 89584,
       "word": "TF三代登陆时刻演唱会",
@@ -10289,6 +10369,14 @@
       "onboard_time": 1724714838,
       "rank": 38,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 86735,
+      "num": 492619,
+      "word": "烟台海肠捞饭藏不住了",
+      "onboard_time": 1724846784,
+      "rank": 11,
+      "category": "美食"
     },
     {
       "raw_hot": 86314,
@@ -10329,6 +10417,14 @@
       "onboard_time": 1724730802,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81662,
+      "num": 441681,
+      "word": "烟台海肠捞饭一吃一个不吱声",
+      "onboard_time": 1724846426,
+      "rank": 14,
+      "category": "美食"
     },
     {
       "raw_hot": 80237,
@@ -10803,14 +10899,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 61324,
-      "num": 326837,
-      "word": "烟台海肠捞饭藏不住了",
-      "onboard_time": 1724846784,
-      "rank": 11,
-      "category": "美食"
-    },
-    {
       "raw_hot": 61215,
       "num": 64424,
       "word": "张大仙说黑神话好玩到吐",
@@ -10857,14 +10945,6 @@
       "onboard_time": 1724742323,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 59779,
-      "num": 315349,
-      "word": "烟台海肠捞饭一吃一个不吱声",
-      "onboard_time": 1724846426,
-      "rank": 14,
-      "category": "美食"
     },
     {
       "raw_hot": 59445,
@@ -11739,14 +11819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33547,
-      "num": 329411,
-      "word": "重庆一学校要求学生饭卡千元起充",
-      "onboard_time": 1724848343,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 33275,
       "num": 648861,
       "word": "完善制度才能不让无偿献血者心凉",
@@ -11772,7 +11844,7 @@
     },
     {
       "raw_hot": 32699,
-      "num": 182016,
+      "num": 268697,
       "word": "美特斯邦威靠平替重回创业路",
       "onboard_time": 1724848702,
       "rank": 47,
