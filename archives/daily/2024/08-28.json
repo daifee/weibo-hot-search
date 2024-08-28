@@ -1,6 +1,6 @@
 {
   "startTime": 1724775939795,
-  "endTime": 1724844918581,
+  "endTime": 1724848805613,
   "band_list": [
     {
       "raw_hot": 16760795,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 961604,
+      "num": 366860,
+      "word": "生2女后又产下4胞胎父亲发声",
+      "onboard_time": 1724844803,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 942739,
       "num": 589981,
       "word": "折腰速抬",
@@ -731,14 +739,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 366860,
-      "num": 366860,
-      "word": "生2女后又产下4胞胎父亲发声",
-      "onboard_time": 1724844803,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 365075,
       "num": 365075,
       "word": "王者新英雄影",
@@ -795,12 +795,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342083,
+      "num": 295649,
+      "word": "李泰容退伍回来天塌了",
+      "onboard_time": 1724844204,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332973,
       "num": 332973,
       "word": "柳智敏 Prada",
       "onboard_time": 1724826383,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 332565,
+      "num": 332565,
+      "word": "剑网3新门派",
+      "onboard_time": 1724848044,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 331321,
@@ -825,6 +841,14 @@
       "onboard_time": 1724819785,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 325430,
+      "num": 325430,
+      "word": "剑网3",
+      "onboard_time": 1724814382,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 323719,
@@ -883,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 304403,
+      "num": 279950,
+      "word": "由于我不停的运动五个月后",
+      "onboard_time": 1724844803,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 301551,
       "num": 301551,
       "word": "明日方舟",
@@ -891,12 +923,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 295649,
-      "num": 295649,
-      "word": "李泰容退伍回来天塌了",
-      "onboard_time": 1724844204,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 298123,
+      "num": 235544,
+      "word": "这是奥运冠军的心声",
+      "onboard_time": 1724848643,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 295010,
@@ -937,6 +969,14 @@
       "onboard_time": 1724824103,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 291074,
+      "num": 278941,
+      "word": "郑在玹solo签售会延期",
+      "onboard_time": 1724847803,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 290500,
@@ -1081,6 +1121,14 @@
       "onboard_time": 1724808623,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 256467,
+      "num": 256467,
+      "word": "被王一博抱着也不敢啊",
+      "onboard_time": 1724848044,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 255046,
@@ -1355,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210429,
+      "num": 210429,
+      "word": "黑猴首先是游戏不去蹭它是最好的",
+      "onboard_time": 1724845104,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 209298,
       "num": 209298,
       "word": "狗狗叼石头为让人知道它不咬人",
@@ -1451,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200802,
+      "num": 200802,
+      "word": "少年回应搀扶老人反遭诬陷殴打",
+      "onboard_time": 1724846063,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199274,
       "num": 199274,
       "word": "边水往事超点",
@@ -1499,6 +1563,14 @@
       "category": "综艺,音乐"
     },
     {
+      "raw_hot": 192623,
+      "num": 192623,
+      "word": "重庆多地9月9日再开学",
+      "onboard_time": 1724845824,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192611,
       "num": 192611,
       "word": "恋与深空",
@@ -1507,12 +1579,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191364,
+      "num": 191364,
+      "word": "周深北京演唱会抢票",
+      "onboard_time": 1724848763,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 190804,
       "num": 255666,
       "word": "三边坡是一个巨大的染缸",
       "onboard_time": 1724825243,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190583,
+      "num": 190583,
+      "word": "汪峰的含金量还在上升",
+      "onboard_time": 1724845164,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 190500,
@@ -1539,6 +1627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190154,
+      "num": 190154,
+      "word": "印度3名小学生打死5岁同学",
+      "onboard_time": 1724848702,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189619,
       "num": 189619,
       "word": "王俊凯长春电影节红毯图",
@@ -1547,19 +1643,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 189459,
+      "num": 189459,
+      "word": "大闸蟹被卷到10块钱一只了",
+      "onboard_time": 1724845824,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 187874,
+      "num": 187874,
+      "word": "我爸把家里装修成了大唐不夜城",
+      "onboard_time": 1724848103,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187227,
       "num": 187227,
       "word": "黑神话悟空音乐会开票2分钟售罄",
       "onboard_time": 1724826323,
       "rank": 40,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 186799,
-      "num": 186799,
-      "word": "剑网3",
-      "onboard_time": 1724814382,
-      "rank": 38,
       "category": "游戏"
     },
     {
@@ -1603,6 +1707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184112,
+      "num": 184112,
+      "word": "宋茜陈好回复陈梦",
+      "onboard_time": 1724848463,
+      "rank": 46,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 183084,
       "num": 475828,
       "word": "投重疾险后查出重病却遭拒赔",
@@ -1625,6 +1737,14 @@
       "onboard_time": 1724807661,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182578,
+      "num": 180732,
+      "word": "樊振东送的球拍编号",
+      "onboard_time": 1724844744,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 181596,
@@ -1755,14 +1875,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 166443,
-      "num": 166443,
-      "word": "樊振东送的球拍编号",
-      "onboard_time": 1724844744,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 166253,
       "num": 166253,
       "word": "丑衣服别扔留着上班穿",
@@ -1777,14 +1889,6 @@
       "onboard_time": 1724763624,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164242,
-      "num": 164242,
-      "word": "由于我不停的运动五个月后",
-      "onboard_time": 1724844803,
-      "rank": 49,
-      "category": "运动健身"
     },
     {
       "raw_hot": 163465,
@@ -2363,12 +2467,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61324,
+      "num": 326837,
+      "word": "烟台海肠捞饭藏不住了",
+      "onboard_time": 1724846784,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
       "raw_hot": 60127,
       "num": 66360,
       "word": "菜菜 我是来赚经费的",
       "onboard_time": 1724768665,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 59779,
+      "num": 315349,
+      "word": "烟台海肠捞饭一吃一个不吱声",
+      "onboard_time": 1724846426,
+      "rank": 14,
+      "category": "美食"
     },
     {
       "raw_hot": 58312,
@@ -2539,6 +2659,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 40482,
+      "num": 369507,
+      "word": "谁懂美妆博主还要考试",
+      "onboard_time": 1724843724,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 38441,
       "num": 45943,
       "word": "外交部驳斥菲律宾无端指责",
@@ -2579,6 +2707,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 33547,
+      "num": 329411,
+      "word": "重庆一学校要求学生饭卡千元起充",
+      "onboard_time": 1724848343,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33275,
       "num": 648861,
       "word": "完善制度才能不让无偿献血者心凉",
@@ -2595,6 +2731,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 32699,
+      "num": 182016,
+      "word": "美特斯邦威靠平替重回创业路",
+      "onboard_time": 1724848702,
+      "rank": 47,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 32172,
       "num": 280247,
       "word": "美特斯邦威30年前就是户外老玩家",
@@ -2609,14 +2753,6 @@
       "onboard_time": 1724833823,
       "rank": 28,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 27553,
-      "num": 369507,
-      "word": "谁懂美妆博主还要考试",
-      "onboard_time": 1724843724,
-      "rank": 48,
-      "category": "美妆"
     },
     {
       "raw_hot": 27518,
