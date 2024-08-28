@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724852167264,
+  "endTime": 1724854769902,
   "band_list": [
     {
       "raw_hot": 16760795,
@@ -987,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1335808,
+      "num": 1440443,
+      "word": "被王一博抱着也不敢啊",
+      "onboard_time": 1724848044,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1332132,
       "num": 1332132,
       "word": "儿子冒充父亲与母亲签字离婚",
@@ -1028,7 +1036,7 @@
     },
     {
       "raw_hot": 1296402,
-      "num": 669614,
+      "num": 989870,
       "word": "印度3名小学生打死5岁同学",
       "onboard_time": 1724848702,
       "rank": 42,
@@ -1049,14 +1057,6 @@
       "onboard_time": 1724552780,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1289713,
-      "num": 1440443,
-      "word": "被王一博抱着也不敢啊",
-      "onboard_time": 1724848044,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1282513,
@@ -1088,6 +1088,14 @@
       "word": "已婚员工办公室接吻被举报后开除",
       "onboard_time": 1724830642,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1273687,
+      "num": 1273687,
+      "word": "深圳妇联回应4胞胎父亲收入微薄",
+      "onboard_time": 1724851583,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1993,6 +2001,14 @@
       "onboard_time": 1724559141,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 743634,
+      "num": 464836,
+      "word": "王楚钦",
+      "onboard_time": 1724853563,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 741681,
@@ -2955,6 +2971,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 477194,
+      "num": 477194,
+      "word": "胡夏 慢冷",
+      "onboard_time": 1724849002,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 476735,
       "num": 476735,
       "word": "孙杨泪洒决赛",
@@ -3097,14 +3121,6 @@
       "onboard_time": 1724574619,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 457927,
-      "num": 457927,
-      "word": "胡夏 慢冷",
-      "onboard_time": 1724849002,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 456966,
@@ -3355,6 +3371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 417915,
+      "num": 417915,
+      "word": "黄朔语音",
+      "onboard_time": 1724850323,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 417549,
       "num": 417549,
       "word": "卢昱晓出妆前后生图",
@@ -3571,14 +3595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 391325,
-      "num": 391325,
-      "word": "黄朔语音",
-      "onboard_time": 1724850323,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 388855,
       "num": 388855,
       "word": "陈梦说腰伤期间开会都要申请站着",
@@ -3601,6 +3617,14 @@
       "onboard_time": 1724630239,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 387581,
+      "num": 367565,
+      "word": "感觉天蝎座好像和谁都不深交",
+      "onboard_time": 1724851765,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 387560,
@@ -3788,11 +3812,19 @@
     },
     {
       "raw_hot": 361327,
-      "num": 361327,
+      "num": 476909,
       "word": "浙江村子墙里发现宋代青瓷",
       "onboard_time": 1724850023,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 360578,
+      "num": 360578,
+      "word": "沈某已娶妻就不去别人家了",
+      "onboard_time": 1724850922,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 357050,
@@ -3833,6 +3865,14 @@
       "onboard_time": 1724594362,
       "rank": 37,
       "category": "网红"
+    },
+    {
+      "raw_hot": 350817,
+      "num": 350817,
+      "word": "30岁运动了4年的样子",
+      "onboard_time": 1724852844,
+      "rank": 22,
+      "category": "运动健身"
     },
     {
       "raw_hot": 350051,
@@ -3897,14 +3937,6 @@
       "onboard_time": 1724817022,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 344818,
-      "num": 293311,
-      "word": "沈某已娶妻就不去别人家了",
-      "onboard_time": 1724850922,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 344660,
@@ -4235,6 +4267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 317339,
+      "num": 317339,
+      "word": "赵晓卉淘汰感言",
+      "onboard_time": 1724852184,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 316822,
       "num": 316822,
       "word": "上班不许吃同事",
@@ -4313,6 +4353,14 @@
       "onboard_time": 1724836402,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 309648,
+      "num": 309648,
+      "word": "心疼儿媳公婆偷偷买了40克金手镯补偿",
+      "onboard_time": 1724853624,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309607,
@@ -4425,6 +4473,14 @@
       "onboard_time": 1724595202,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 302146,
+      "num": 302146,
+      "word": "黄景瑜关晓彤拥抱路透",
+      "onboard_time": 1724850683,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 301858,
@@ -5403,14 +5459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 249346,
-      "num": 249346,
-      "word": "黄景瑜关晓彤拥抱路透",
-      "onboard_time": 1724850683,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 248560,
       "num": 573123,
       "word": "一年一度的渐变秋天正悄悄发生",
@@ -6243,6 +6291,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 220703,
+      "num": 220703,
+      "word": "藏海花不声不响就播了",
+      "onboard_time": 1724854044,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220646,
       "num": 220646,
       "word": "房屋养老金",
@@ -6787,6 +6843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208183,
+      "num": 208183,
+      "word": "偶像练习生尤长靖回来了",
+      "onboard_time": 1724853503,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208160,
       "num": 208160,
       "word": "网传成都高温限电不实",
@@ -6929,6 +6993,14 @@
       "onboard_time": 1724746581,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205549,
+      "num": 205549,
+      "word": "时代少年团一起放烟花了",
+      "onboard_time": 1724853563,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 205356,
@@ -7243,14 +7315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199570,
-      "num": 199570,
-      "word": "感觉天蝎座好像和谁都不深交",
-      "onboard_time": 1724851765,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 199274,
       "num": 199274,
       "word": "边水往事超点",
@@ -7499,6 +7563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194660,
+      "num": 194660,
+      "word": "村民漫天要价镇政府强行打款后拆房",
+      "onboard_time": 1724854102,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194549,
       "num": 194549,
       "word": "薛之谦两分钟八百个小节目",
@@ -7729,6 +7801,14 @@
       "onboard_time": 1724589080,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188880,
+      "num": 188880,
+      "word": "李若彤 29年后过儿回头",
+      "onboard_time": 1724847742,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 188638,
@@ -8305,14 +8385,6 @@
       "onboard_time": 1724656040,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178491,
-      "num": 178491,
-      "word": "深圳妇联回应4胞胎父亲收入微薄",
-      "onboard_time": 1724851583,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178470,
@@ -8899,6 +8971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163737,
+      "num": 163737,
+      "word": "章子怡威尼斯电影节生图",
+      "onboard_time": 1724854524,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 163529,
       "num": 333034,
       "word": "公共空间该如何接纳儿童值得深思",
@@ -9161,6 +9241,14 @@
       "onboard_time": 1724553320,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157383,
+      "num": 458504,
+      "word": "小学生急症死亡后学校被判失职",
+      "onboard_time": 1724850443,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157077,
@@ -10643,6 +10731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 74806,
+      "num": 266715,
+      "word": "广东5岁小孩流感后确诊急性脑坏死",
+      "onboard_time": 1724854403,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74015,
       "num": 74015,
       "word": "孙颖莎早操比别人早1小时",
@@ -11096,14 +11192,6 @@
       "word": "高价月饼礼盒卖不动了",
       "onboard_time": 1724639120,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 58753,
-      "num": 458504,
-      "word": "小学生急症死亡后学校被判失职",
-      "onboard_time": 1724850443,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -12035,12 +12123,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 31371,
+      "num": 371751,
+      "word": "如何看待教师选调三孩可加分的政策",
+      "onboard_time": 1724853683,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31287,
       "num": 323481,
       "word": "特朗普称9月10日将与哈里斯辩论",
       "onboard_time": 1724833823,
       "rank": 28,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 31152,
+      "num": 435482,
+      "word": "业内称职业打假人可月入5万",
+      "onboard_time": 1724854224,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31137,
@@ -12057,6 +12161,14 @@
       "onboard_time": 1724562018,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 30394,
+      "num": 420309,
+      "word": "宿舍矛盾是同学关系的最大杀手吗",
+      "onboard_time": 1724853204,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30329,
@@ -12193,6 +12305,14 @@
       "onboard_time": 1724817624,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 26166,
+      "num": 993211,
+      "word": "汇聚网络正能量",
+      "onboard_time": 1724836342,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26071,
