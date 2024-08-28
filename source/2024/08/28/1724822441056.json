@@ -1,0 +1,410 @@
+{
+  "runTime": 1724822441056,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1539495,
+        "num": 1539495,
+        "word": "爷爷偷偷把房子过户给孙子被判无效",
+        "onboard_time": 1724808320,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1518548,
+        "num": 1518548,
+        "word": "雪梨否认吸毒",
+        "onboard_time": 1724811743,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 64643,
+        "num": 1341444,
+        "word": "太空视角看地球家园",
+        "onboard_time": 1724815462,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1183501,
+        "num": 1183501,
+        "word": "疑护士妻子出轨医生致丈夫自杀",
+        "onboard_time": 1724811502,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 752858,
+        "num": 752858,
+        "word": "陈艺文辟谣",
+        "onboard_time": 1724818644,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 704770,
+        "num": 704770,
+        "word": "刘美含 张远理想型女儿",
+        "onboard_time": 1724815221,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 654632,
+        "num": 654632,
+        "word": "吉祥航空称不允许多人一起进厕所",
+        "onboard_time": 1724814261,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513941,
+        "num": 513941,
+        "word": "人均两万五去八个国家玩了24天",
+        "onboard_time": 1724813242,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 34921,
+        "num": 512967,
+        "word": "频繁惹事的菲律宾舰船是什么来头",
+        "onboard_time": 1724821402,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237076,
+        "num": 508846,
+        "word": "7岁男孩每晚崩溃大哭想回国",
+        "onboard_time": 1724804062,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2076700,
+        "num": 502204,
+        "word": "胡先煦李宛妲恋情",
+        "onboard_time": 1724811621,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1514703,
+        "num": 496046,
+        "word": "陈艺文ins",
+        "onboard_time": 1724816601,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1086898,
+        "num": 490718,
+        "word": "网红雪梨被指涉毒警方回应",
+        "onboard_time": 1724820145,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 139713,
+        "num": 490221,
+        "word": "美特斯邦威要做始祖鸟平替",
+        "onboard_time": 1724818104,
+        "rank": 13,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 44637,
+        "num": 481880,
+        "word": "中国有万亿级住宅专项维修资金",
+        "onboard_time": 1724821463,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699902,
+        "num": 477033,
+        "word": "女子172cm100斤确诊营养不良型肥胖",
+        "onboard_time": 1724770224,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476597,
+        "num": 476597,
+        "word": "candy要飞回应雪梨",
+        "onboard_time": 1724814801,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 125309,
+        "num": 470676,
+        "word": "这锁是崔行舟连夜挂的吧",
+        "onboard_time": 1724821583,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 465108,
+        "num": 465108,
+        "word": "凌晨出道 下午塌房",
+        "onboard_time": 1724758040,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375910,
+        "num": 375910,
+        "word": "宋祖儿工作室声明",
+        "onboard_time": 1724761283,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372616,
+        "num": 372616,
+        "word": "派克特",
+        "onboard_time": 1724818765,
+        "rank": 20,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 371883,
+        "num": 371883,
+        "word": "雪梨",
+        "onboard_time": 1724774780,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 148882,
+        "num": 367035,
+        "word": "小鹏MONA卖爆了",
+        "onboard_time": 1724818104,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 374781,
+        "num": 367028,
+        "word": "宋祖儿工作室回应高考争议",
+        "onboard_time": 1724801778,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366779,
+        "num": 366779,
+        "word": "90后女生出游20天全村手机都要瘫痪了",
+        "onboard_time": 1724801419,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329982,
+        "num": 329982,
+        "word": "电脑都买不起还学别人开公司",
+        "onboard_time": 1724817022,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 325350,
+        "num": 325350,
+        "word": "儿媳妇房间的垃圾桶总是满的",
+        "onboard_time": 1724820744,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 315668,
+        "num": 315668,
+        "word": "盛李豪 我们项目很难切磋",
+        "onboard_time": 1724819785,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313185,
+        "num": 313185,
+        "word": "折腰速抬",
+        "onboard_time": 1724763444,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310485,
+        "num": 310485,
+        "word": "如鸢",
+        "onboard_time": 1724820624,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 278914,
+        "num": 278914,
+        "word": "尤长靖这一招6年还没人能超越",
+        "onboard_time": 1724821222,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269316,
+        "num": 269316,
+        "word": "恋与深空回应派克特diss称法庭见",
+        "onboard_time": 1724808861,
+        "rank": 31,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 252793,
+        "num": 252793,
+        "word": "男子献血8次不能优先用血多人被处分",
+        "onboard_time": 1724786713,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232868,
+        "num": 232868,
+        "word": "雪梨老公",
+        "onboard_time": 1724808022,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 232038,
+        "num": 232038,
+        "word": "泽连斯基称已有计划结束俄乌冲突",
+        "onboard_time": 1724819724,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 230168,
+        "num": 230168,
+        "word": "黑神话悟空新补丁发布",
+        "onboard_time": 1724815762,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225506,
+        "num": 225506,
+        "word": "蒋奇明 性感",
+        "onboard_time": 1724814441,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225413,
+        "num": 225413,
+        "word": "吴谨言江疏影开机路透",
+        "onboard_time": 1724818223,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219292,
+        "num": 219292,
+        "word": "下一战歌手标杆歌手阵容",
+        "onboard_time": 1724818945,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216984,
+        "num": 216984,
+        "word": "印度遭奸杀女医生父母回应",
+        "onboard_time": 1724816302,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207760,
+        "num": 207760,
+        "word": "张子墨手机壁纸是朴成训",
+        "onboard_time": 1724819122,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201928,
+        "num": 201928,
+        "word": "赵宝儿结婚",
+        "onboard_time": 1724821703,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197694,
+        "num": 197694,
+        "word": "越来越多学校点名爸爸来开家长会",
+        "onboard_time": 1724816902,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196457,
+        "num": 196457,
+        "word": "农夫山泉暴跌12%",
+        "onboard_time": 1724821822,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 193450,
+        "num": 193450,
+        "word": "意外发现婆婆给的手镯是金包银的",
+        "onboard_time": 1724822363,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190159,
+        "num": 190159,
+        "word": "王一博会有无限个第一次",
+        "onboard_time": 1724822001,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188603,
+        "num": 188603,
+        "word": "Candy要飞喊话雪梨",
+        "onboard_time": 1724800639,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 183467,
+        "num": 183467,
+        "word": "感觉把男朋友好好养了一遍",
+        "onboard_time": 1724813302,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171439,
+        "num": 171439,
+        "word": "网红雪梨被指涉毒相关酒店回应",
+        "onboard_time": 1724820443,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 161848,
+        "num": 161848,
+        "word": "喜天影视老板周宴西报案",
+        "onboard_time": 1724822422,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视网络文明建设#"
+    }
+  }
+}

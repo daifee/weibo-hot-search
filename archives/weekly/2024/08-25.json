@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724819963215,
+  "endTime": 1724822441056,
   "band_list": [
     {
       "raw_hot": 15299764,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 3294347,
-      "num": 491082,
+      "num": 502204,
       "word": "胡先煦李宛妲恋情",
       "onboard_time": 1724811621,
       "rank": 10,
@@ -708,7 +708,7 @@
     },
     {
       "raw_hot": 1555930,
-      "num": 483320,
+      "num": 496046,
       "word": "陈艺文ins",
       "onboard_time": 1724816601,
       "rank": 12,
@@ -1113,6 +1113,14 @@
       "onboard_time": 1724651961,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1086898,
+      "num": 490718,
+      "word": "网红雪梨被指涉毒警方回应",
+      "onboard_time": 1724820145,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 1078767,
@@ -1715,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 752858,
+      "num": 752858,
+      "word": "陈艺文辟谣",
+      "onboard_time": 1724818644,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 749690,
       "num": 749690,
       "word": "孙颖莎上台演讲",
@@ -2025,6 +2041,14 @@
       "onboard_time": 1724731161,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 654632,
+      "num": 654632,
+      "word": "吉祥航空称不允许多人一起进厕所",
+      "onboard_time": 1724814261,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 647268,
@@ -2497,14 +2521,6 @@
       "onboard_time": 1724632220,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 495897,
-      "num": 495897,
-      "word": "吉祥航空称不允许多人一起进厕所",
-      "onboard_time": 1724814261,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 495223,
@@ -3008,14 +3024,6 @@
       "word": "孙颖莎9000分保持世排第一",
       "onboard_time": 1724726720,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 408315,
-      "num": 408315,
-      "word": "陈艺文辟谣",
-      "onboard_time": 1724818644,
-      "rank": 41,
       "category": "体育"
     },
     {
@@ -3635,6 +3643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 325350,
+      "num": 325350,
+      "word": "儿媳妇房间的垃圾桶总是满的",
+      "onboard_time": 1724820744,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 325196,
       "num": 325196,
       "word": "孙颖莎谈混双夺冠压力",
@@ -3753,6 +3769,14 @@
       "onboard_time": 1724652801,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 310485,
+      "num": 310485,
+      "word": "如鸢",
+      "onboard_time": 1724820624,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 310311,
@@ -4201,6 +4225,14 @@
       "onboard_time": 1724818223,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 278914,
+      "num": 278914,
+      "word": "尤长靖这一招6年还没人能超越",
+      "onboard_time": 1724821222,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 278775,
@@ -5081,6 +5113,14 @@
       "onboard_time": 1724635279,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232038,
+      "num": 232038,
+      "word": "泽连斯基称已有计划结束俄乌冲突",
+      "onboard_time": 1724819724,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 231855,
@@ -6187,6 +6227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201928,
+      "num": 201928,
+      "word": "赵宝儿结婚",
+      "onboard_time": 1724821703,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201888,
       "num": 201888,
       "word": "夏之光就是这么治病的吗",
@@ -6427,6 +6475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196457,
+      "num": 196457,
+      "word": "农夫山泉暴跌12%",
+      "onboard_time": 1724821822,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 196444,
       "num": 196444,
       "word": "柳舟记",
@@ -6531,6 +6587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 193450,
+      "num": 193450,
+      "word": "意外发现婆婆给的手镯是金包银的",
+      "onboard_time": 1724822363,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192890,
       "num": 192890,
       "word": "丑衣服别扔留着上班穿",
@@ -6625,6 +6689,14 @@
       "onboard_time": 1724678302,
       "rank": 40,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 190159,
+      "num": 190159,
+      "word": "王一博会有无限个第一次",
+      "onboard_time": 1724822001,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 189721,
@@ -7275,14 +7347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 175478,
-      "num": 175478,
-      "word": "泽连斯基称已有计划结束俄乌冲突",
-      "onboard_time": 1724819724,
-      "rank": 49,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 175370,
       "num": 175370,
       "word": "全国夏季游泳锦标赛",
@@ -7409,6 +7473,14 @@
       "onboard_time": 1724553078,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 171439,
+      "num": 171439,
+      "word": "网红雪梨被指涉毒相关酒店回应",
+      "onboard_time": 1724820443,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 171287,
@@ -7745,6 +7817,14 @@
       "onboard_time": 1724814681,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161848,
+      "num": 161848,
+      "word": "喜天影视老板周宴西报案",
+      "onboard_time": 1724822422,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 161713,
@@ -8139,6 +8219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148882,
+      "num": 367035,
+      "word": "小鹏MONA卖爆了",
+      "onboard_time": 1724818104,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 148566,
       "num": 148566,
       "word": "徐海乔的腰",
@@ -8345,6 +8433,14 @@
       "onboard_time": 1724763084,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 139713,
+      "num": 490221,
+      "word": "美特斯邦威要做始祖鸟平替",
+      "onboard_time": 1724818104,
+      "rank": 28,
+      "category": "时尚"
     },
     {
       "raw_hot": 139480,
@@ -8681,6 +8777,14 @@
       "onboard_time": 1724767224,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125309,
+      "num": 470676,
+      "word": "这锁是崔行舟连夜挂的吧",
+      "onboard_time": 1724821583,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 125083,
@@ -9059,14 +9163,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 88186,
-      "num": 478205,
-      "word": "美特斯邦威要做始祖鸟平替",
-      "onboard_time": 1724818104,
-      "rank": 28,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 86314,
       "num": 569113,
       "word": "电报创始人在法国被逮捕",
@@ -9105,14 +9201,6 @@
       "onboard_time": 1724730802,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82062,
-      "num": 347024,
-      "word": "小鹏MONA卖爆了",
-      "onboard_time": 1724818104,
-      "rank": 24,
-      "category": "汽车"
     },
     {
       "raw_hot": 80237,
@@ -10043,6 +10131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 44637,
+      "num": 481880,
+      "word": "中国有万亿级住宅专项维修资金",
+      "onboard_time": 1724821463,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43950,
       "num": 826002,
       "word": "NHK开始预先录制中文新闻",
@@ -10289,6 +10385,14 @@
       "onboard_time": 1724579719,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 34921,
+      "num": 512967,
+      "word": "频繁惹事的菲律宾舰船是什么来头",
+      "onboard_time": 1724821402,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34880,

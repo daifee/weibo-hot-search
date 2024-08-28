@@ -1,6 +1,6 @@
 {
   "startTime": 1724775939795,
-  "endTime": 1724819963215,
+  "endTime": 1724822441056,
   "band_list": [
     {
       "raw_hot": 4036285,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 3294347,
-      "num": 491082,
+      "num": 502204,
       "word": "胡先煦李宛妲恋情",
       "onboard_time": 1724811621,
       "rank": 10,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1555930,
-      "num": 483320,
+      "num": 496046,
       "word": "陈艺文ins",
       "onboard_time": 1724816601,
       "rank": 12,
@@ -120,6 +120,14 @@
       "word": "雪梨老公",
       "onboard_time": 1724808022,
       "rank": 19,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 1086898,
+      "num": 490718,
+      "word": "网红雪梨被指涉毒警方回应",
+      "onboard_time": 1724820145,
+      "rank": 12,
       "category": "网红"
     },
     {
@@ -211,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 752858,
+      "num": 752858,
+      "word": "陈艺文辟谣",
+      "onboard_time": 1724818644,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 735868,
       "num": 735868,
       "word": "刘美含 张远理想型女儿",
@@ -235,6 +251,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 654632,
+      "num": 654632,
+      "word": "吉祥航空称不允许多人一起进厕所",
+      "onboard_time": 1724814261,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 605275,
       "num": 605275,
       "word": "广东夫妻生完2娃又喜提4胞胎",
@@ -257,14 +281,6 @@
       "onboard_time": 1724807243,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 495897,
-      "num": 495897,
-      "word": "吉祥航空称不允许多人一起进厕所",
-      "onboard_time": 1724814261,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 471048,
@@ -329,14 +345,6 @@
       "onboard_time": 1724739621,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 408315,
-      "num": 408315,
-      "word": "陈艺文辟谣",
-      "onboard_time": 1724818644,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 402249,
@@ -419,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 325350,
+      "num": 325350,
+      "word": "儿媳妇房间的垃圾桶总是满的",
+      "onboard_time": 1724820744,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 323719,
       "num": 323719,
       "word": "恋与制作人",
@@ -432,6 +448,14 @@
       "word": "黑神话悟空新补丁发布",
       "onboard_time": 1724815762,
       "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 310485,
+      "num": 310485,
+      "word": "如鸢",
+      "onboard_time": 1724820624,
+      "rank": 29,
       "category": "游戏"
     },
     {
@@ -523,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 278914,
+      "num": 278914,
+      "word": "尤长靖这一招6年还没人能超越",
+      "onboard_time": 1724821222,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273883,
       "num": 273883,
       "word": "男rapper 有点东西",
@@ -585,6 +617,14 @@
       "onboard_time": 1724809943,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 232038,
+      "num": 232038,
+      "word": "泽连斯基称已有计划结束俄乌冲突",
+      "onboard_time": 1724819724,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 231672,
@@ -691,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201928,
+      "num": 201928,
+      "word": "赵宝儿结婚",
+      "onboard_time": 1724821703,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197793,
       "num": 197793,
       "word": "王俊凯忘记周正女朋友名字",
@@ -699,12 +747,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196457,
+      "num": 196457,
+      "word": "农夫山泉暴跌12%",
+      "onboard_time": 1724821822,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 193450,
+      "num": 193450,
+      "word": "意外发现婆婆给的手镯是金包银的",
+      "onboard_time": 1724822363,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192611,
       "num": 192611,
       "word": "恋与深空",
       "onboard_time": 1724801840,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 190159,
+      "num": 190159,
+      "word": "王一博会有无限个第一次",
+      "onboard_time": 1724822001,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 186799,
@@ -747,20 +819,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 175478,
-      "num": 175478,
-      "word": "泽连斯基称已有计划结束俄乌冲突",
-      "onboard_time": 1724819724,
-      "rank": 49,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 174746,
       "num": 174746,
       "word": "美网张之臻因伤退赛",
       "onboard_time": 1724803100,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171439,
+      "num": 171439,
+      "word": "网红雪梨被指涉毒相关酒店回应",
+      "onboard_time": 1724820443,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 167640,
@@ -801,6 +873,14 @@
       "onboard_time": 1724814681,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161848,
+      "num": 161848,
+      "word": "喜天影视老板周宴西报案",
+      "onboard_time": 1724822422,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 159593,
@@ -867,6 +947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148882,
+      "num": 367035,
+      "word": "小鹏MONA卖爆了",
+      "onboard_time": 1724818104,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 146414,
       "num": 146414,
       "word": "蒋奇明 出租屋文学",
@@ -889,6 +977,14 @@
       "onboard_time": 1724715618,
       "rank": 37,
       "category": "音乐,游戏"
+    },
+    {
+      "raw_hot": 139713,
+      "num": 490221,
+      "word": "美特斯邦威要做始祖鸟平替",
+      "onboard_time": 1724818104,
+      "rank": 28,
+      "category": "时尚"
     },
     {
       "raw_hot": 137813,
@@ -985,6 +1081,14 @@
       "onboard_time": 1724807243,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125309,
+      "num": 470676,
+      "word": "这锁是崔行舟连夜挂的吧",
+      "onboard_time": 1724821583,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 123310,
@@ -1131,14 +1235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88186,
-      "num": 478205,
-      "word": "美特斯邦威要做始祖鸟平替",
-      "onboard_time": 1724818104,
-      "rank": 28,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 85394,
       "num": 85394,
       "word": "转身这一刻偶像剧都弱爆了",
@@ -1153,14 +1249,6 @@
       "onboard_time": 1724757502,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82062,
-      "num": 347024,
-      "word": "小鹏MONA卖爆了",
-      "onboard_time": 1724818104,
-      "rank": 24,
-      "category": "汽车"
     },
     {
       "raw_hot": 80237,
@@ -1275,6 +1363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 44637,
+      "num": 481880,
+      "word": "中国有万亿级住宅专项维修资金",
+      "onboard_time": 1724821463,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43619,
       "num": 345791,
       "word": "四方馆非典型古装爽剧",
@@ -1296,6 +1392,14 @@
       "word": "为怒放的生命喝彩为不屈的灵魂加油",
       "onboard_time": 1724817442,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34921,
+      "num": 512967,
+      "word": "频繁惹事的菲律宾舰船是什么来头",
+      "onboard_time": 1724821402,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
