@@ -1,6 +1,6 @@
 {
   "startTime": 1724775939795,
-  "endTime": 1724841503363,
+  "endTime": 1724843861291,
   "band_list": [
     {
       "raw_hot": 16760795,
@@ -24,6 +24,14 @@
       "word": "文泰一 性犯罪",
       "onboard_time": 1724839946,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 9494959,
+      "num": 728990,
+      "word": "文泰一涉嫌强奸",
+      "onboard_time": 1724842524,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -347,6 +355,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 1025135,
+      "num": 448478,
+      "word": "NCT prison",
+      "onboard_time": 1724841325,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1014732,
       "num": 411026,
       "word": "干巴大叔 骨癌",
@@ -515,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 593645,
+      "num": 375341,
+      "word": "终于懂了打网球为什么要穿裙子",
+      "onboard_time": 1724839583,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 584252,
       "num": 584252,
       "word": "网传无忧渡全集空降",
@@ -537,14 +561,6 @@
       "onboard_time": 1724807243,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 509670,
-      "num": 375341,
-      "word": "终于懂了打网球为什么要穿裙子",
-      "onboard_time": 1724839583,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 481870,
@@ -596,7 +612,7 @@
     },
     {
       "raw_hot": 438719,
-      "num": 438719,
+      "num": 496523,
       "word": "汪顺祝愿孙杨越来越好",
       "onboard_time": 1724838263,
       "rank": 25,
@@ -632,6 +648,14 @@
       "word": "大妈狂买1斤黄金不挑款店员报警",
       "onboard_time": 1724739621,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418404,
+      "num": 491327,
+      "word": "温州14岁失联女孩已平安到家",
+      "onboard_time": 1724838562,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -689,6 +713,14 @@
       "onboard_time": 1724800639,
       "rank": 41,
       "category": "网红"
+    },
+    {
+      "raw_hot": 373850,
+      "num": 373850,
+      "word": "樊振东三句话讲完一个爱情故事",
+      "onboard_time": 1724840607,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 365075,
@@ -987,14 +1019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 263976,
-      "num": 263976,
-      "word": "樊振东三句话讲完一个爱情故事",
-      "onboard_time": 1724840607,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 262517,
       "num": 262517,
       "word": "医生建议美甲时不要去死皮",
@@ -1035,20 +1059,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 249170,
-      "num": 249170,
-      "word": "NCT prison",
-      "onboard_time": 1724841325,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 246862,
       "num": 246862,
       "word": "雪梨报案",
       "onboard_time": 1724814622,
       "rank": 37,
       "category": "网红"
+    },
+    {
+      "raw_hot": 246021,
+      "num": 246021,
+      "word": "为了不入伍咬咬牙入狱了",
+      "onboard_time": 1724842765,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 246018,
@@ -1099,20 +1123,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 235918,
+      "num": 235918,
+      "word": "剑网3十五周年",
+      "onboard_time": 1724842583,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 235619,
       "num": 235619,
       "word": "马龙说樊振东我兄弟",
       "onboard_time": 1724836224,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 235054,
-      "num": 491327,
-      "word": "温州14岁失联女孩已平安到家",
-      "onboard_time": 1724838562,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233120,
@@ -1163,12 +1187,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227008,
+      "num": 227008,
+      "word": "林俊杰直播",
+      "onboard_time": 1724841985,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 225993,
       "num": 225993,
       "word": "乌总统称将向美国提交胜利计划",
       "onboard_time": 1724812343,
       "rank": 33,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 225507,
+      "num": 225507,
+      "word": "赵露思发量",
+      "onboard_time": 1724840846,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 224254,
@@ -1201,6 +1241,14 @@
       "onboard_time": 1724800576,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219861,
+      "num": 219861,
+      "word": "猫咪是第一个发现我怀孕的",
+      "onboard_time": 1724841745,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 219681,
@@ -1243,12 +1291,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214704,
-      "num": 214704,
-      "word": "赵露思发量",
-      "onboard_time": 1724840846,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 213929,
+      "num": 213929,
+      "word": "豆得儿晒素颜视频",
+      "onboard_time": 1724843363,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 213805,
@@ -1283,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208709,
+      "num": 208709,
+      "word": "邓恩熙 什么年龄演什么戏",
+      "onboard_time": 1724842883,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207480,
       "num": 207480,
       "word": "王一博探索新境首映会直播",
@@ -1297,6 +1353,14 @@
       "onboard_time": 1724840965,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206197,
+      "num": 206197,
+      "word": "时代少年团小屋游戏time",
+      "onboard_time": 1724841504,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 204778,
@@ -1403,6 +1467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 190813,
+      "num": 190813,
+      "word": "王一博 从来没这么黑过",
+      "onboard_time": 1724843663,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 190804,
       "num": 255666,
       "word": "三边坡是一个巨大的染缸",
@@ -1433,6 +1505,14 @@
       "onboard_time": 1724822001,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189619,
+      "num": 189619,
+      "word": "王俊凯长春电影节红毯图",
+      "onboard_time": 1724843424,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 187227,
@@ -1473,6 +1553,14 @@
       "onboard_time": 1724827222,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185337,
+      "num": 185337,
+      "word": "桂林象山遇上霞光满天",
+      "onboard_time": 1724843483,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 185099,
@@ -1867,6 +1955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136759,
+      "num": 454924,
+      "word": "10岁男孩给主播打赏14万平台拒退",
+      "onboard_time": 1724842463,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135240,
       "num": 254015,
       "word": "柳眠棠财务自由买房拒婚",
@@ -2251,6 +2347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57253,
+      "num": 490930,
+      "word": "网店代做手抄报销量超20万单",
+      "onboard_time": 1724843184,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57226,
       "num": 237630,
       "word": "火神对战队长",
@@ -2265,6 +2369,14 @@
       "onboard_time": 1724814501,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55830,
+      "num": 298646,
+      "word": "龚俊许愿所有人都不脱发",
+      "onboard_time": 1724842704,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 55464,
@@ -2403,6 +2515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35197,
+      "num": 351101,
+      "word": "130万迈巴赫刚提就返修",
+      "onboard_time": 1724842945,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34806,
       "num": 445282,
       "word": "辞掉工作去合唱的年轻人",
@@ -2497,6 +2617,14 @@
       "onboard_time": 1724799315,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19119,
+      "num": 185601,
+      "word": "谁懂美妆博主还要考试",
+      "onboard_time": 1724843724,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 13902,
