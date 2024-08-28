@@ -1,6 +1,6 @@
 {
   "startTime": 1724775939795,
-  "endTime": 1724801694803,
+  "endTime": 1724808483005,
   "band_list": [
     {
       "raw_hot": 4036285,
@@ -19,6 +19,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2253225,
+      "num": 452205,
+      "word": "张峻豪 聊天记录",
+      "onboard_time": 1724801357,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1627611,
       "num": 1314515,
       "word": "男子献血8次不能优先用血多人被处分",
@@ -35,8 +43,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1277066,
+      "num": 1277066,
+      "word": "7岁男孩每晚崩溃大哭想回国",
+      "onboard_time": 1724804062,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1257105,
-      "num": 411394,
+      "num": 434696,
       "word": "凌晨出道 下午塌房",
       "onboard_time": 1724758040,
       "rank": 10,
@@ -51,12 +67,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1056953,
+      "num": 440993,
+      "word": "上6休3上3休2上5休1上2休7再上5休1",
+      "onboard_time": 1724745621,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1036204,
       "num": 296635,
       "word": "痞老板 乙游",
       "onboard_time": 1724765305,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 972767,
+      "num": 406353,
+      "word": "90后女生出游20天全村手机都要瘫痪了",
+      "onboard_time": 1724801419,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 942739,
@@ -75,11 +107,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 695179,
-      "num": 405111,
-      "word": "上6休3上3休2上5休1上2休7再上5休1",
-      "onboard_time": 1724745621,
-      "rank": 12,
+      "raw_hot": 811197,
+      "num": 465414,
+      "word": "要不说刘美含能当黑魔仙",
+      "onboard_time": 1724804242,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 773446,
+      "num": 457005,
+      "word": "宋祖儿工作室回应高考争议",
+      "onboard_time": 1724801778,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 716385,
+      "num": 716385,
+      "word": "老人自己摔倒诬陷殴打扶人少年被拘",
+      "onboard_time": 1724765485,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -91,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 479905,
+      "num": 402949,
+      "word": "爷爷偷偷把房子过户给孙子被判无效",
+      "onboard_time": 1724808320,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 471048,
       "num": 471048,
       "word": "取得这些职业资格证书可享个税扣除",
@@ -99,12 +155,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 451951,
-      "num": 451951,
-      "word": "老人自己摔倒诬陷殴打扶人少年被拘",
-      "onboard_time": 1724765485,
-      "rank": 9,
+      "raw_hot": 469577,
+      "num": 426063,
+      "word": "代入徐艺洋视角后笑不出来",
+      "onboard_time": 1724781735,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 466038,
+      "num": 466038,
+      "word": "初中女生举报被男教师骚扰引诱",
+      "onboard_time": 1724769023,
+      "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 460459,
+      "num": 460459,
+      "word": "妈妈想陪抑郁症儿子换个活法再来一次",
+      "onboard_time": 1724764884,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 436974,
+      "num": 398586,
+      "word": "与辉同行30天卖了7个亿",
+      "onboard_time": 1724805385,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 429518,
@@ -116,19 +196,19 @@
     },
     {
       "raw_hot": 423430,
-      "num": 423430,
+      "num": 455429,
       "word": "大妈狂买1斤黄金不挑款店员报警",
       "onboard_time": 1724739621,
       "rank": 5,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 415089,
-      "num": 415089,
-      "word": "妈妈想陪抑郁症儿子换个活法再来一次",
-      "onboard_time": 1724764884,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 420769,
+      "num": 420769,
+      "word": "雪梨老公",
+      "onboard_time": 1724808022,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 402249,
@@ -155,12 +235,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 378795,
-      "num": 312566,
-      "word": "代入徐艺洋视角后笑不出来",
-      "onboard_time": 1724781735,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 380859,
+      "num": 380859,
+      "word": "Candy要飞喊话雪梨",
+      "onboard_time": 1724800639,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 342621,
@@ -179,20 +259,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 313863,
-      "num": 313863,
-      "word": "初中女生举报被男教师骚扰引诱",
-      "onboard_time": 1724769023,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 290500,
       "num": 290500,
       "word": "黄子韬守孝三年不公布喜事",
       "onboard_time": 1724750602,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 290299,
+      "num": 290299,
+      "word": "为什么说不要和父母开玩笑",
+      "onboard_time": 1724804842,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 273883,
@@ -203,12 +283,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 247581,
-      "num": 247581,
-      "word": "Candy要飞喊话雪梨",
-      "onboard_time": 1724800639,
-      "rank": 41,
-      "category": "网红"
+      "raw_hot": 244148,
+      "num": 244148,
+      "word": "黑神话悟空全中文主线剧情电影",
+      "onboard_time": 1724807243,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 240026,
+      "num": 240026,
+      "word": "孟宴臣的含金量还在上涨",
+      "onboard_time": 1724802619,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 236262,
+      "num": 236262,
+      "word": "乌克兰宣布成功试射首枚国产弹道导弹",
+      "onboard_time": 1724804422,
+      "rank": 31,
+      "category": "国外时政"
     },
     {
       "raw_hot": 231672,
@@ -251,6 +347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 220210,
+      "num": 220210,
+      "word": "痞老板",
+      "onboard_time": 1724800576,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216237,
       "num": 310469,
       "word": "于贞 女王",
@@ -259,11 +363,51 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215959,
+      "num": 215959,
+      "word": "当我开学报名背着一个尿素袋时",
+      "onboard_time": 1724800758,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 208757,
+      "num": 208757,
+      "word": "张子墨给余宇涵看手机",
+      "onboard_time": 1724802559,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 197793,
+      "num": 197793,
+      "word": "王俊凯忘记周正女朋友名字",
+      "onboard_time": 1724804782,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 177595,
+      "num": 177595,
+      "word": "调休没增加假期总量收假后还得还债",
+      "onboard_time": 1724781615,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177202,
       "num": 177202,
       "word": "樊振东陈梦退出WTT中国大满贯",
       "onboard_time": 1724758582,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 174746,
+      "num": 174746,
+      "word": "美网张之臻因伤退赛",
+      "onboard_time": 1724803100,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -299,14 +443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159837,
-      "num": 159837,
-      "word": "痞老板",
-      "onboard_time": 1724800576,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159574,
       "num": 159574,
       "word": "警方通报网传两名外国人打中国人",
@@ -323,12 +459,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158310,
+      "num": 158310,
+      "word": "新确认两位日军慰安妇制度受害幸存者",
+      "onboard_time": 1724807661,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156591,
+      "num": 156591,
+      "word": "张帅单打23连败",
+      "onboard_time": 1724802199,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152582,
       "num": 152582,
       "word": "穆祉丞 没有热爱了",
       "onboard_time": 1724759002,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149947,
+      "num": 149947,
+      "word": "萝卜姐",
+      "onboard_time": 1724806524,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 145486,
+      "num": 145486,
+      "word": "恋与深空",
+      "onboard_time": 1724801840,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 140226,
@@ -339,6 +507,14 @@
       "category": "音乐,游戏"
     },
     {
+      "raw_hot": 138075,
+      "num": 138075,
+      "word": "蒋奇明 出租屋文学",
+      "onboard_time": 1724806461,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 137813,
       "num": 169149,
       "word": "柳舟记剧粉从前vs现在",
@@ -347,11 +523,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133142,
-      "num": 133142,
-      "word": "张峻豪 聊天记录",
-      "onboard_time": 1724801357,
-      "rank": 24,
+      "raw_hot": 134433,
+      "num": 134433,
+      "word": "三代成员下飞机",
+      "onboard_time": 1724803040,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -387,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127164,
+      "num": 127164,
+      "word": "中国4人晋级美网单打次轮",
+      "onboard_time": 1724807243,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123310,
       "num": 123310,
       "word": "穆祉丞 被关麦",
@@ -419,14 +603,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 118742,
-      "num": 117516,
-      "word": "当我开学报名背着一个尿素袋时",
-      "onboard_time": 1724800758,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 118116,
       "num": 118116,
       "word": "姚润昊硬气了",
@@ -440,14 +616,6 @@
       "word": "烟台一高校宿舍甲醛超标多人生病",
       "onboard_time": 1724784852,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117259,
-      "num": 126350,
-      "word": "调休没增加假期总量收假后还得还债",
-      "onboard_time": 1724781615,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -539,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79753,
+      "num": 240748,
+      "word": "大连路灯成海鸥停鸥位",
+      "onboard_time": 1724808441,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73131,
       "num": 77587,
       "word": "现实中没有断首的灵吉菩萨",
@@ -547,12 +723,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 68084,
-      "num": 77585,
-      "word": "90后女生出游20天全村手机都要瘫痪了",
-      "onboard_time": 1724801419,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 65183,
+      "num": 438391,
+      "word": "居然有人说四川没有辣椒",
+      "onboard_time": 1724805442,
+      "rank": 14,
+      "category": "美食"
     },
     {
       "raw_hot": 62208,
@@ -611,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23043,
+      "num": 1262517,
+      "word": "现实版的黄河之水天上来",
+      "onboard_time": 1724762724,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20349,
       "num": 39992,
       "word": "湖北的国潮彩蛋一眼惊艳",
@@ -624,14 +808,6 @@
       "word": "民警下班夜跑抓获两名嫌疑人",
       "onboard_time": 1724799315,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19204,
-      "num": 1262517,
-      "word": "现实版的黄河之水天上来",
-      "onboard_time": 1724762724,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
