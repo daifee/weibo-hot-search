@@ -1,0 +1,410 @@
+{
+  "runTime": 1724855886868,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3637666,
+        "num": 3637666,
+        "word": "警方通报雪梨事件",
+        "onboard_time": 1724855125,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1773540,
+        "num": 1773540,
+        "word": "深圳妇联回应4胞胎父亲收入微薄",
+        "onboard_time": 1724851583,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32428,
+        "num": 977006,
+        "word": "汇聚网络正能量",
+        "onboard_time": 1724836342,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3121701,
+        "num": 976819,
+        "word": "文泰一接受警方调查",
+        "onboard_time": 1724839522,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 975459,
+        "num": 975459,
+        "word": "女生喝下印度司机饮料后被性侵",
+        "onboard_time": 1724829022,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 801492,
+        "num": 801492,
+        "word": "印度3名小学生打死5岁同学",
+        "onboard_time": 1724848702,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1125764,
+        "num": 764427,
+        "word": "被王一博抱着也不敢啊",
+        "onboard_time": 1724848044,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 484543,
+        "num": 718476,
+        "word": "迪丽热巴绿野仙踪造型",
+        "onboard_time": 1724849662,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406908,
+        "num": 655496,
+        "word": "浙江村子墙里发现宋代青瓷",
+        "onboard_time": 1724850023,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111330,
+        "num": 630650,
+        "word": "钓鱼佬在龙门石窟附近钓上一尊佛头",
+        "onboard_time": 1724854885,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1368665,
+        "num": 550759,
+        "word": "王楚钦",
+        "onboard_time": 1724853563,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1058235,
+        "num": 506609,
+        "word": "警方称雪梨事件会有通告发布",
+        "onboard_time": 1724830944,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 494057,
+        "num": 494057,
+        "word": "心疼儿媳公婆偷偷买了40克金手镯补偿",
+        "onboard_time": 1724853624,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51487,
+        "num": 488887,
+        "word": "业内称职业打假人可月入5万",
+        "onboard_time": 1724854224,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296242,
+        "num": 488588,
+        "word": "村民漫天要价镇政府强行打款后拆房",
+        "onboard_time": 1724854102,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518560,
+        "num": 488527,
+        "word": "雪梨否认吸毒",
+        "onboard_time": 1724811743,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 488338,
+        "num": 488338,
+        "word": "调休3天代价是5周工作休息不正常",
+        "onboard_time": 1724834422,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449275,
+        "num": 449275,
+        "word": "生2女后又产下4胞胎父亲发声",
+        "onboard_time": 1724844803,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417503,
+        "num": 417503,
+        "word": "黄朔语音",
+        "onboard_time": 1724850323,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25116,
+        "num": 392471,
+        "word": "靠小马卡社交的小学生",
+        "onboard_time": 1724855485,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72441,
+        "num": 383941,
+        "word": "五菱星光S上市9.98万元起",
+        "onboard_time": 1724854885,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 447219,
+        "num": 383698,
+        "word": "30岁运动了4年的样子",
+        "onboard_time": 1724852844,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 381148,
+        "num": 381148,
+        "word": "感觉天蝎座好像和谁都不深交",
+        "onboard_time": 1724851765,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 374784,
+        "num": 374784,
+        "word": "樊振东也收到马龙签名拍了",
+        "onboard_time": 1724833642,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373710,
+        "num": 373710,
+        "word": "胡夏 慢冷",
+        "onboard_time": 1724849002,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360999,
+        "num": 360999,
+        "word": "偶像练习生尤长靖回来了",
+        "onboard_time": 1724853503,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322388,
+        "num": 322388,
+        "word": "赵晓卉淘汰感言",
+        "onboard_time": 1724852184,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310180,
+        "num": 310180,
+        "word": "陈梦聚会照P上了黄晓明",
+        "onboard_time": 1724835983,
+        "rank": 27,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 291987,
+        "num": 291987,
+        "word": "黄景瑜关晓彤拥抱路透",
+        "onboard_time": 1724850683,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86621,
+        "num": 284888,
+        "word": "广东5岁小孩流感后确诊急性脑坏死",
+        "onboard_time": 1724854403,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284550,
+        "num": 284550,
+        "word": "10岁男孩给主播打赏14万平台拒退",
+        "onboard_time": 1724842463,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280531,
+        "num": 280531,
+        "word": "由于我不停的运动五个月后",
+        "onboard_time": 1724844803,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 275252,
+        "num": 275252,
+        "word": "沈某已娶妻就不去别人家了",
+        "onboard_time": 1724850922,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265547,
+        "num": 265547,
+        "word": "金巧巧于冬被曝已离婚三年",
+        "onboard_time": 1724826442,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265427,
+        "num": 265427,
+        "word": "郭艾伦告别辽宁男篮",
+        "onboard_time": 1724836224,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251539,
+        "num": 251539,
+        "word": "网红雪梨被指涉毒警方回应",
+        "onboard_time": 1724820145,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 194504,
+        "num": 194504,
+        "word": "单身母亲带婴儿送外卖被质疑",
+        "onboard_time": 1724855005,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187296,
+        "num": 187296,
+        "word": "章子怡威尼斯电影节生图",
+        "onboard_time": 1724854524,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184028,
+        "num": 184028,
+        "word": "还我妈生内娱",
+        "onboard_time": 1724833403,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180189,
+        "num": 180189,
+        "word": "派克特发歌帮乃万diss乙游",
+        "onboard_time": 1724853864,
+        "rank": 39,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 179997,
+        "num": 179997,
+        "word": "藏海花不声不响就播了",
+        "onboard_time": 1724854044,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174376,
+        "num": 174376,
+        "word": "终于懂了打网球为什么要穿裙子",
+        "onboard_time": 1724839583,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170815,
+        "num": 170815,
+        "word": "豆豆复活",
+        "onboard_time": 1724854946,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169971,
+        "num": 169971,
+        "word": "小学生急症死亡后学校被判失职",
+        "onboard_time": 1724850443,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165591,
+        "num": 165591,
+        "word": "王俊凯考砸装睡被妈妈打醒",
+        "onboard_time": 1724853925,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158351,
+        "num": 158351,
+        "word": "迪丽热巴若也直播",
+        "onboard_time": 1724848943,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151991,
+        "num": 151991,
+        "word": "重庆多地9月9日再开学",
+        "onboard_time": 1724845824,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147991,
+        "num": 147991,
+        "word": "柳舟记29集全员打脸",
+        "onboard_time": 1724850982,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145245,
+        "num": 145245,
+        "word": "李若彤 29年后过儿回头",
+        "onboard_time": 1724847742,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138828,
+        "num": 138828,
+        "word": "时代少年团小屋游戏time",
+        "onboard_time": 1724841504,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习新语#"
+    }
+  }
+}
