@@ -1,0 +1,410 @@
+{
+  "runTime": 1724873716180,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1039395,
+        "num": 1039395,
+        "word": "余宇涵退团",
+        "onboard_time": 1724858665,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330390,
+        "num": 330390,
+        "word": "郑钦文美网",
+        "onboard_time": 1724867954,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2297,
+        "num": 129568,
+        "word": "汇聚网络正能量",
+        "onboard_time": 1724836342,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394149,
+        "num": 128827,
+        "word": "时代峰峻声明",
+        "onboard_time": 1724858665,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106985,
+        "num": 106985,
+        "word": "巴黎残奥会开幕式",
+        "onboard_time": 1724864178,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89422,
+        "num": 89422,
+        "word": "重庆多地官宣延期开学",
+        "onboard_time": 1724865257,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261715,
+        "num": 85687,
+        "word": "文泰一接受警方调查",
+        "onboard_time": 1724839522,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254174,
+        "num": 80908,
+        "word": "警方通报雪梨事件",
+        "onboard_time": 1724855125,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 75775,
+        "num": 75775,
+        "word": "女生喝下印度司机饮料后被性侵",
+        "onboard_time": 1724829022,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15081,
+        "num": 75562,
+        "word": "湖北一个地名就是一段传奇",
+        "onboard_time": 1724873113,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201357,
+        "num": 75255,
+        "word": "青岛代孕",
+        "onboard_time": 1724858245,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167327,
+        "num": 75228,
+        "word": "河南一女性在树林自缢身亡",
+        "onboard_time": 1724860946,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123880,
+        "num": 74830,
+        "word": "嫌犯认出法官是老同学9年后再犯案",
+        "onboard_time": 1724867115,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75945,
+        "num": 74571,
+        "word": "828退团日",
+        "onboard_time": 1724861186,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74450,
+        "num": 74450,
+        "word": "造谣雪梨涉毒人员被传唤",
+        "onboard_time": 1724856026,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 67779,
+        "num": 67779,
+        "word": "登陆少年将以5人团形式运营",
+        "onboard_time": 1724859389,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64621,
+        "num": 64621,
+        "word": "李飞圆梦五人团",
+        "onboard_time": 1724861126,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58493,
+        "num": 58493,
+        "word": "余宇涵 张元英",
+        "onboard_time": 1724754441,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52508,
+        "num": 52508,
+        "word": "还原献血8次不能优先用血事件真相",
+        "onboard_time": 1724857524,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52190,
+        "num": 52190,
+        "word": "陕西历史博物馆回应被指涉嫌抄袭",
+        "onboard_time": 1724868195,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50896,
+        "num": 50896,
+        "word": "派克特发歌帮乃万diss乙游",
+        "onboard_time": 1724853864,
+        "rank": 20,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 50770,
+        "num": 50770,
+        "word": "深圳妇联回应4胞胎父亲收入微薄",
+        "onboard_time": 1724851583,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45946,
+        "num": 45946,
+        "word": "小鬼节目里怼了梁源",
+        "onboard_time": 1724862801,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43175,
+        "num": 43175,
+        "word": "王楚钦",
+        "onboard_time": 1724853563,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40226,
+        "num": 40226,
+        "word": "原来电梯神图是这样出片的",
+        "onboard_time": 1724869454,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38545,
+        "num": 38545,
+        "word": "终于懂了打网球为什么要穿裙子",
+        "onboard_time": 1724839583,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38353,
+        "num": 38353,
+        "word": "村民漫天要价镇政府强行打款后拆房",
+        "onboard_time": 1724854102,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38242,
+        "num": 38242,
+        "word": "印度3名小学生打死5岁同学",
+        "onboard_time": 1724848702,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38238,
+        "num": 38238,
+        "word": "钓鱼佬在龙门石窟附近钓上一尊佛头",
+        "onboard_time": 1724854885,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38145,
+        "num": 38145,
+        "word": "生下4胞胎父亲称对孩子性别没预期",
+        "onboard_time": 1724856026,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35705,
+        "num": 38143,
+        "word": "余宇涵 出道一日体验卡",
+        "onboard_time": 1724859450,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34083,
+        "num": 38107,
+        "word": "偶像练习生尤长靖回来了",
+        "onboard_time": 1724853503,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32292,
+        "num": 38105,
+        "word": "警方称雪梨事件会有通告发布",
+        "onboard_time": 1724830944,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 32047,
+        "num": 38086,
+        "word": "杨幂 水灵灵的一双眼眸",
+        "onboard_time": 1724867775,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30930,
+        "num": 38067,
+        "word": "生2女后又产下4胞胎父亲发声",
+        "onboard_time": 1724844803,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30684,
+        "num": 38043,
+        "word": "心疼儿媳公婆偷偷买了40克金手镯补偿",
+        "onboard_time": 1724853624,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30322,
+        "num": 38028,
+        "word": "赵晓卉淘汰感言",
+        "onboard_time": 1724852184,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29469,
+        "num": 38006,
+        "word": "广东5岁小孩流感后确诊急性脑坏死",
+        "onboard_time": 1724854403,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29259,
+        "num": 37987,
+        "word": "单身母亲带婴儿送外卖被质疑",
+        "onboard_time": 1724855005,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25849,
+        "num": 37969,
+        "word": "感觉天蝎座好像和谁都不深交",
+        "onboard_time": 1724851765,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24780,
+        "num": 37946,
+        "word": "徐璐打夏之光 已老实求放过",
+        "onboard_time": 1724860529,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23897,
+        "num": 37916,
+        "word": "晓卉恋爱公式",
+        "onboard_time": 1724871433,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23604,
+        "num": 37913,
+        "word": "被王一博抱着也不敢啊",
+        "onboard_time": 1724848044,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23446,
+        "num": 37891,
+        "word": "女校长号召家长学生学习董宇辉",
+        "onboard_time": 1724872213,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23190,
+        "num": 37877,
+        "word": "陈牧驰三箭27环",
+        "onboard_time": 1724860467,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23024,
+        "num": 37840,
+        "word": "迪丽热巴绿野仙踪造型",
+        "onboard_time": 1724849662,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22578,
+        "num": 37829,
+        "word": "原来运动后皮肤真的能变好",
+        "onboard_time": 1724860110,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 22036,
+        "num": 37818,
+        "word": "金巧巧于冬被曝已离婚三年",
+        "onboard_time": 1724826442,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20723,
+        "num": 37793,
+        "word": "重庆多地9月9日再开学",
+        "onboard_time": 1724845824,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20665,
+        "num": 37774,
+        "word": "成龙传递巴黎残奥会火炬",
+        "onboard_time": 1724868913,
+        "rank": 49,
+        "category": "艺人,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习新语#"
+    }
+  }
+}
