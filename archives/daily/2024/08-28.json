@@ -1,6 +1,6 @@
 {
   "startTime": 1724775939795,
-  "endTime": 1724836949937,
+  "endTime": 1724837763265,
   "band_list": [
     {
       "raw_hot": 4036285,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1448309,
+      "num": 1167578,
+      "word": "还我妈生内娱",
+      "onboard_time": 1724833403,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1387326,
       "num": 962332,
       "word": "网红雪梨被指涉毒警方回应",
@@ -203,19 +211,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1287402,
-      "num": 1167578,
-      "word": "还我妈生内娱",
-      "onboard_time": 1724833403,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1277066,
       "num": 1277066,
       "word": "7岁男孩每晚崩溃大哭想回国",
       "onboard_time": 1724804062,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1276507,
+      "num": 1067256,
+      "word": "已婚员工办公室接吻被举报后开除",
+      "onboard_time": 1724830642,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -227,20 +235,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1228025,
-      "num": 1067256,
-      "word": "已婚员工办公室接吻被举报后开除",
-      "onboard_time": 1724830642,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1167711,
       "num": 1167711,
       "word": "男子相亲半天就定亲12万没了",
       "onboard_time": 1724826201,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1157426,
+      "num": 1157426,
+      "word": "郭艾伦告别辽宁男篮",
+      "onboard_time": 1724836224,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 1120797,
@@ -265,14 +273,6 @@
       "onboard_time": 1724773883,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1065011,
-      "num": 1065011,
-      "word": "郭艾伦告别辽宁男篮",
-      "onboard_time": 1724836224,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 1056953,
@@ -411,6 +411,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 675597,
+      "num": 675597,
+      "word": "贾乃亮甜馨10年前后合影对比",
+      "onboard_time": 1724835263,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 654632,
       "num": 654632,
       "word": "吉祥航空称不允许多人一起进厕所",
@@ -451,11 +459,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 536723,
-      "num": 536723,
-      "word": "贾乃亮甜馨10年前后合影对比",
-      "onboard_time": 1724835263,
-      "rank": 18,
+      "raw_hot": 586296,
+      "num": 586296,
+      "word": "陈梦聚会照P上了黄晓明",
+      "onboard_time": 1724835983,
+      "rank": 24,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 577222,
+      "num": 577222,
+      "word": "杨幂 微博老祖",
+      "onboard_time": 1724833883,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -491,28 +507,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 466202,
-      "num": 466202,
-      "word": "杨幂 微博老祖",
-      "onboard_time": 1724833883,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 466038,
       "num": 466038,
       "word": "初中女生举报被男教师骚扰引诱",
       "onboard_time": 1724769023,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 461593,
-      "num": 461593,
-      "word": "陈梦聚会照P上了黄晓明",
-      "onboard_time": 1724835983,
-      "rank": 24,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 460459,
@@ -571,12 +571,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 409468,
+      "num": 1132308,
+      "word": "家长吐槽高中宿舍一间住48人",
+      "onboard_time": 1724834904,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402249,
       "num": 402249,
       "word": "WTT中国大满贯宣传片内容引争议",
       "onboard_time": 1724770464,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 394917,
+      "num": 511915,
+      "word": "买3870万房子为逃200万税欲假离婚",
+      "onboard_time": 1724833523,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 384604,
@@ -651,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 342575,
-      "num": 511915,
-      "word": "买3870万房子为逃200万税欲假离婚",
-      "onboard_time": 1724833523,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 332973,
       "num": 332973,
       "word": "柳智敏 Prada",
@@ -729,6 +737,22 @@
       "onboard_time": 1724820624,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 310245,
+      "num": 325269,
+      "word": "朴灿烈直播",
+      "onboard_time": 1724836402,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 307945,
+      "num": 1068526,
+      "word": "教育局回应幼儿园女孩午睡离奇死亡",
+      "onboard_time": 1724835624,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305253,
@@ -835,14 +859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 281522,
-      "num": 1132308,
-      "word": "家长吐槽高中宿舍一间住48人",
-      "onboard_time": 1724834904,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 279772,
       "num": 338476,
       "word": "张扬对话十二行家",
@@ -881,22 +897,6 @@
       "onboard_time": 1724763745,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 271863,
-      "num": 271863,
-      "word": "朴灿烈直播",
-      "onboard_time": 1724836402,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 270773,
-      "num": 1068526,
-      "word": "教育局回应幼儿园女孩午睡离奇死亡",
-      "onboard_time": 1724835624,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 267945,
@@ -1003,6 +1003,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 235619,
+      "num": 235619,
+      "word": "马龙说樊振东我兄弟",
+      "onboard_time": 1724836224,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 233120,
       "num": 233120,
       "word": "妈妈告诉亲戚小孩我没有玩偶",
@@ -1091,12 +1099,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219174,
-      "num": 219174,
-      "word": "马龙说樊振东我兄弟",
-      "onboard_time": 1724836224,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 219681,
+      "num": 219681,
+      "word": "林依晨我是成都人",
+      "onboard_time": 1724836462,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 218813,
@@ -1171,6 +1179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 203611,
+      "num": 203611,
+      "word": "逆水寒6元JK",
+      "onboard_time": 1724837602,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202724,
       "num": 202724,
       "word": "王者荣耀",
@@ -1193,14 +1209,6 @@
       "onboard_time": 1724823143,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199425,
-      "num": 199425,
-      "word": "林依晨我是成都人",
-      "onboard_time": 1724836462,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 199274,
@@ -1299,6 +1307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 186228,
+      "num": 186228,
+      "word": "啥剧又有二搭又有二胎的",
+      "onboard_time": 1724836583,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185794,
       "num": 185794,
       "word": "陈好 我的万人迷姐姐",
@@ -1355,14 +1371,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 179141,
-      "num": 179141,
-      "word": "啥剧又有二搭又有二胎的",
-      "onboard_time": 1724836583,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 177969,
       "num": 177969,
       "word": "理发师为顾客剪出逼真黑悟空发型",
@@ -1385,6 +1393,14 @@
       "onboard_time": 1724758582,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175006,
+      "num": 960664,
+      "word": "大连一小型飞机在公路迫降险砸车",
+      "onboard_time": 1724834122,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174746,
@@ -1441,6 +1457,22 @@
       "onboard_time": 1724823923,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 169380,
+      "num": 169380,
+      "word": "长春电影节",
+      "onboard_time": 1724837543,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 168503,
+      "num": 168503,
+      "word": "王一博 岩壁吊帐",
+      "onboard_time": 1724837721,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 167640,
@@ -1835,6 +1867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102183,
+      "num": 676639,
+      "word": "拼多多竟然还能这么用",
+      "onboard_time": 1724834483,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 100912,
       "num": 100912,
       "word": "抑郁孩子手臂上留下大大小小的刀疤",
@@ -1848,6 +1888,14 @@
       "word": "警方通报看守所内酿酒引发爆炸",
       "onboard_time": 1724765906,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98189,
+      "num": 447581,
+      "word": "谁还在吃人均150元的小笼包",
+      "onboard_time": 1724837422,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1907,14 +1955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82466,
-      "num": 676639,
-      "word": "拼多多竟然还能这么用",
-      "onboard_time": 1724834483,
-      "rank": 15,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 80237,
       "num": 97648,
       "word": "吃饭偶遇张予曦",
@@ -1971,6 +2011,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 64786,
+      "num": 697541,
+      "word": "暑期有家教时薪或高达上千元",
+      "onboard_time": 1724835743,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62294,
       "num": 481880,
       "word": "中国有万亿级住宅专项维修资金",
@@ -1993,14 +2041,6 @@
       "onboard_time": 1724768665,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 58878,
-      "num": 960664,
-      "word": "大连一小型飞机在公路迫降险砸车",
-      "onboard_time": 1724834122,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58312,
@@ -2075,19 +2115,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 52465,
+      "num": 1172561,
+      "word": "2024中国网络文明大会来了",
+      "onboard_time": 1724834422,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51481,
       "num": 425537,
       "word": "律师称网红铁头最高可处十年以上刑期",
       "onboard_time": 1724829144,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49922,
-      "num": 1172561,
-      "word": "2024中国网络文明大会来了",
-      "onboard_time": 1724834422,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2131,14 +2171,6 @@
       "category": "社会新闻,健康医疗"
     },
     {
-      "raw_hot": 39042,
-      "num": 697541,
-      "word": "暑期有家教时薪或高达上千元",
-      "onboard_time": 1724835743,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 38441,
       "num": 45943,
       "word": "外交部驳斥菲律宾无端指责",
@@ -2169,6 +2201,14 @@
       "onboard_time": 1724810124,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34130,
+      "num": 376125,
+      "word": "五菱星光S是懂安全的",
+      "onboard_time": 1724834721,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 33275,
@@ -2203,12 +2243,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 31132,
-      "num": 376125,
-      "word": "五菱星光S是懂安全的",
-      "onboard_time": 1724834721,
-      "rank": 28,
-      "category": "汽车"
+      "raw_hot": 29854,
+      "num": 346759,
+      "word": "美特斯邦威老板痛批爆买爆退",
+      "onboard_time": 1724836041,
+      "rank": 31,
+      "category": "时尚"
     },
     {
       "raw_hot": 27518,
@@ -2241,14 +2281,6 @@
       "onboard_time": 1724762724,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20551,
-      "num": 346759,
-      "word": "美特斯邦威老板痛批爆买爆退",
-      "onboard_time": 1724836041,
-      "rank": 31,
-      "category": "时尚"
     },
     {
       "raw_hot": 20349,
