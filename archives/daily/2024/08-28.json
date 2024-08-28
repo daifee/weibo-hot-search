@@ -1,6 +1,6 @@
 {
   "startTime": 1724775939795,
-  "endTime": 1724834388322,
+  "endTime": 1724836949937,
   "band_list": [
     {
       "raw_hot": 4036285,
@@ -41,6 +41,14 @@
       "onboard_time": 1724774780,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2378745,
+      "num": 2378745,
+      "word": "樊振东也收到马龙签名拍了",
+      "onboard_time": 1724833642,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 2318989,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1793459,
-      "num": 510069,
+      "num": 533780,
       "word": "爸妈一次性给了我四年的生活费",
       "onboard_time": 1724828062,
       "rank": 20,
@@ -155,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1491645,
+      "num": 540950,
+      "word": "登陆少年 纪梵希代言",
+      "onboard_time": 1724834122,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1387326,
       "num": 962332,
       "word": "网红雪梨被指涉毒警方回应",
@@ -187,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1287402,
+      "num": 1167578,
+      "word": "还我妈生内娱",
+      "onboard_time": 1724833403,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1277066,
       "num": 1277066,
       "word": "7岁男孩每晚崩溃大哭想回国",
@@ -201,6 +225,14 @@
       "onboard_time": 1724758040,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1228025,
+      "num": 1067256,
+      "word": "已婚员工办公室接吻被举报后开除",
+      "onboard_time": 1724830642,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1167711,
@@ -235,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1065011,
+      "num": 1065011,
+      "word": "郭艾伦告别辽宁男篮",
+      "onboard_time": 1724836224,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1056953,
       "num": 440993,
       "word": "上6休3上3休2上5休1上2休7再上5休1",
@@ -265,14 +305,6 @@
       "onboard_time": 1724811203,
       "rank": 16,
       "category": "网红"
-    },
-    {
-      "raw_hot": 979569,
-      "num": 979569,
-      "word": "樊振东也收到马龙签名拍了",
-      "onboard_time": 1724833642,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 972767,
@@ -419,10 +451,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 540950,
-      "num": 540950,
-      "word": "登陆少年 纪梵希代言",
-      "onboard_time": 1724834122,
+      "raw_hot": 536723,
+      "num": 536723,
+      "word": "贾乃亮甜馨10年前后合影对比",
+      "onboard_time": 1724835263,
       "rank": 18,
       "category": "艺人"
     },
@@ -435,20 +467,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 494352,
-      "num": 494352,
-      "word": "已婚员工办公室接吻被举报后开除",
-      "onboard_time": 1724830642,
-      "rank": 17,
+      "raw_hot": 481870,
+      "num": 481870,
+      "word": "海通证券副总经理姜诚君被遣返回国",
+      "onboard_time": 1724833940,
+      "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 472995,
-      "num": 472995,
-      "word": "还我妈生内娱",
-      "onboard_time": 1724833403,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 471048,
@@ -467,12 +491,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 466202,
+      "num": 466202,
+      "word": "杨幂 微博老祖",
+      "onboard_time": 1724833883,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 466038,
       "num": 466038,
       "word": "初中女生举报被男教师骚扰引诱",
       "onboard_time": 1724769023,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 461593,
+      "num": 461593,
+      "word": "陈梦聚会照P上了黄晓明",
+      "onboard_time": 1724835983,
+      "rank": 24,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 460459,
@@ -520,6 +560,14 @@
       "word": "大妈狂买1斤黄金不挑款店员报警",
       "onboard_time": 1724739621,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411072,
+      "num": 411072,
+      "word": "调休3天代价是5周工作休息不正常",
+      "onboard_time": 1724834422,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -571,14 +619,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 355844,
-      "num": 355844,
-      "word": "海通证券副总经理姜诚君被遣返回国",
-      "onboard_time": 1724833940,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 349041,
       "num": 349041,
       "word": "运动减肥二十斤同一件衣服对比",
@@ -611,12 +651,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342575,
+      "num": 511915,
+      "word": "买3870万房子为逃200万税欲假离婚",
+      "onboard_time": 1724833523,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332973,
       "num": 332973,
       "word": "柳智敏 Prada",
       "onboard_time": 1724826383,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 331321,
+      "num": 331321,
+      "word": "陈梦宋茜陈好同框",
+      "onboard_time": 1724833940,
+      "rank": 29,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 326981,
@@ -641,14 +697,6 @@
       "onboard_time": 1724767706,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 322572,
-      "num": 322572,
-      "word": "陈梦宋茜陈好同框",
-      "onboard_time": 1724833940,
-      "rank": 29,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 320694,
@@ -681,14 +729,6 @@
       "onboard_time": 1724820624,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 306499,
-      "num": 306499,
-      "word": "杨幂 微博老祖",
-      "onboard_time": 1724833883,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 305253,
@@ -795,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 281522,
+      "num": 1132308,
+      "word": "家长吐槽高中宿舍一间住48人",
+      "onboard_time": 1724834904,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279772,
       "num": 338476,
       "word": "张扬对话十二行家",
@@ -835,6 +883,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271863,
+      "num": 271863,
+      "word": "朴灿烈直播",
+      "onboard_time": 1724836402,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 270773,
+      "num": 1068526,
+      "word": "教育局回应幼儿园女孩午睡离奇死亡",
+      "onboard_time": 1724835624,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267945,
       "num": 267945,
       "word": "内地奥运冠军获2800万港币奖金",
@@ -873,6 +937,14 @@
       "onboard_time": 1724821944,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254594,
+      "num": 254594,
+      "word": "杨幂的第一条微博",
+      "onboard_time": 1724834544,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 246862,
@@ -1019,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219174,
+      "num": 219174,
+      "word": "马龙说樊振东我兄弟",
+      "onboard_time": 1724836224,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218813,
       "num": 218813,
       "word": "明日方舟迷宫饭",
@@ -1051,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213805,
+      "num": 213805,
+      "word": "金晨18岁参演北京奥运会",
+      "onboard_time": 1724835503,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213785,
       "num": 213785,
       "word": "WTT单打决赛票5分钟售罄",
@@ -1075,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207480,
+      "num": 207480,
+      "word": "王一博探索新境首映会直播",
+      "onboard_time": 1724834961,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 202724,
       "num": 202724,
       "word": "王者荣耀",
@@ -1097,6 +1193,14 @@
       "onboard_time": 1724823143,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199425,
+      "num": 199425,
+      "word": "林依晨我是成都人",
+      "onboard_time": 1724836462,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 199274,
@@ -1153,6 +1257,14 @@
       "onboard_time": 1724825243,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190500,
+      "num": 959430,
+      "word": "人民网评献血8次被告知不能优先用血",
+      "onboard_time": 1724832982,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190191,
@@ -1219,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182976,
+      "num": 182976,
+      "word": "王俊凯是要照顾到多少人的机位",
+      "onboard_time": 1724836402,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 182930,
       "num": 182930,
       "word": "新确认两位日军慰安妇制度受害幸存者",
@@ -1233,6 +1353,14 @@
       "onboard_time": 1724826982,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 179141,
+      "num": 179141,
+      "word": "啥剧又有二搭又有二胎的",
+      "onboard_time": 1724836583,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 177969,
@@ -1699,14 +1827,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 106995,
-      "num": 959430,
-      "word": "人民网评献血8次被告知不能优先用血",
-      "onboard_time": 1724832982,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106821,
       "num": 1443859,
       "word": "太空视角看地球家园",
@@ -1771,14 +1891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87942,
-      "num": 511915,
-      "word": "买3870万房子为逃200万税欲假离婚",
-      "onboard_time": 1724833523,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 85394,
       "num": 85394,
       "word": "转身这一刻偶像剧都弱爆了",
@@ -1793,6 +1905,14 @@
       "onboard_time": 1724757502,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82466,
+      "num": 676639,
+      "word": "拼多多竟然还能这么用",
+      "onboard_time": 1724834483,
+      "rank": 15,
+      "category": "互联网"
     },
     {
       "raw_hot": 80237,
@@ -1833,6 +1953,14 @@
       "onboard_time": 1724824584,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 67779,
+      "num": 1066032,
+      "word": "美特斯邦威进军潮流户外",
+      "onboard_time": 1724834483,
+      "rank": 11,
+      "category": "时尚"
     },
     {
       "raw_hot": 65183,
@@ -1955,6 +2083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49922,
+      "num": 1172561,
+      "word": "2024中国网络文明大会来了",
+      "onboard_time": 1724834422,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46775,
       "num": 1566240,
       "word": "滚滚洪水中的这一幕惊险又感动",
@@ -1993,6 +2129,14 @@
       "onboard_time": 1724826442,
       "rank": 19,
       "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 39042,
+      "num": 697541,
+      "word": "暑期有家教时薪或高达上千元",
+      "onboard_time": 1724835743,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38441,
@@ -2043,12 +2187,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 32172,
+      "num": 280247,
+      "word": "美特斯邦威30年前就是户外老玩家",
+      "onboard_time": 1724832443,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 31287,
       "num": 323481,
       "word": "特朗普称9月10日将与哈里斯辩论",
       "onboard_time": 1724833823,
       "rank": 28,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 31132,
+      "num": 376125,
+      "word": "五菱星光S是懂安全的",
+      "onboard_time": 1724834721,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 27518,
@@ -2075,20 +2235,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25150,
-      "num": 280247,
-      "word": "美特斯邦威30年前就是户外老玩家",
-      "onboard_time": 1724832443,
-      "rank": 35,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 23043,
       "num": 1381319,
       "word": "现实版的黄河之水天上来",
       "onboard_time": 1724762724,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20551,
+      "num": 346759,
+      "word": "美特斯邦威老板痛批爆买爆退",
+      "onboard_time": 1724836041,
+      "rank": 31,
+      "category": "时尚"
     },
     {
       "raw_hot": 20349,
