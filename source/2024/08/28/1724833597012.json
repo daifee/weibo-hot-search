@@ -1,0 +1,410 @@
+{
+  "runTime": 1724833597012,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1765924,
+        "num": 1765924,
+        "word": "综艺替身",
+        "onboard_time": 1724828362,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2514228,
+        "num": 1702466,
+        "word": "公众要放假而不是假放",
+        "onboard_time": 1724829923,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39292,
+        "num": 1566240,
+        "word": "滚滚洪水中的这一幕惊险又感动",
+        "onboard_time": 1724815042,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2210865,
+        "num": 1560869,
+        "word": "女生喝下印度司机饮料后被性侵",
+        "onboard_time": 1724829022,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1532657,
+        "num": 1532657,
+        "word": "韩国41岁跑单王骑手出车祸去世",
+        "onboard_time": 1724831363,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1292845,
+        "num": 1292845,
+        "word": "警方称雪梨事件会有通告发布",
+        "onboard_time": 1724830944,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1089217,
+        "num": 1089217,
+        "word": "黑神话悟空雕塑建成一天就被游客踩坏",
+        "onboard_time": 1724828543,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 801062,
+        "num": 801062,
+        "word": "男子相亲半天就定亲12万没了",
+        "onboard_time": 1724826201,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652163,
+        "num": 652163,
+        "word": "张峻豪数据组 录音",
+        "onboard_time": 1724831002,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61201,
+        "num": 650733,
+        "word": "人民网评献血8次被告知不能优先用血",
+        "onboard_time": 1724832982,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1055506,
+        "num": 650677,
+        "word": "金巧巧于冬被曝已离婚三年",
+        "onboard_time": 1724826442,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 680741,
+        "num": 650646,
+        "word": "雪梨否认吸毒",
+        "onboard_time": 1724811743,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 650577,
+        "num": 650577,
+        "word": "具荷拉法正式通过",
+        "onboard_time": 1724829743,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 599093,
+        "num": 599093,
+        "word": "胡先煦李宛妲恋情",
+        "onboard_time": 1724811621,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25741,
+        "num": 576139,
+        "word": "完善制度才能不让无偿献血者心凉",
+        "onboard_time": 1724832683,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569783,
+        "num": 569783,
+        "word": "网红雪梨被指涉毒警方回应",
+        "onboard_time": 1724820145,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 548777,
+        "num": 548777,
+        "word": "当地回应郑州一女子高楼撒钱后跳楼",
+        "onboard_time": 1724829862,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486684,
+        "num": 486684,
+        "word": "已婚员工办公室接吻被举报后开除",
+        "onboard_time": 1724830642,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54147,
+        "num": 434553,
+        "word": "如鸢放我进去",
+        "onboard_time": 1724829262,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87942,
+        "num": 415647,
+        "word": "买3870万房子为逃200万税欲假离婚",
+        "onboard_time": 1724833523,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1128795,
+        "num": 412548,
+        "word": "爸妈一次性给了我四年的生活费",
+        "onboard_time": 1724828062,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 409239,
+        "num": 409239,
+        "word": "李纯马頔 公开爱情不公开爱称",
+        "onboard_time": 1724822603,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363199,
+        "num": 363199,
+        "word": "王者新英雄影",
+        "onboard_time": 1724828961,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 358717,
+        "num": 358717,
+        "word": "爷爷偷偷把房子过户给孙子被判无效",
+        "onboard_time": 1724808320,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349041,
+        "num": 349041,
+        "word": "运动减肥二十斤同一件衣服对比",
+        "onboard_time": 1724831783,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 305311,
+        "num": 305311,
+        "word": "蔡少芬自曝弄丢过孩子",
+        "onboard_time": 1724825481,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275430,
+        "num": 275430,
+        "word": "中石油原董事长王宜林被逮捕",
+        "onboard_time": 1724831902,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270600,
+        "num": 270600,
+        "word": "派克特",
+        "onboard_time": 1724818765,
+        "rank": 27,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 251514,
+        "num": 251514,
+        "word": "陈艺文ins",
+        "onboard_time": 1724816601,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244628,
+        "num": 244628,
+        "word": "男孩骑平衡车撞人致残父母赔16万",
+        "onboard_time": 1724829144,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234677,
+        "num": 234677,
+        "word": "全职高手",
+        "onboard_time": 1724832081,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 231796,
+        "num": 231796,
+        "word": "黑神话悟空中发现了游客景区涂鸦",
+        "onboard_time": 1724827942,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 231539,
+        "num": 231539,
+        "word": "儿媳妇房间的垃圾桶总是满的",
+        "onboard_time": 1724820744,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221146,
+        "num": 221146,
+        "word": "喝下超致死量20倍百草枯小伙获重生",
+        "onboard_time": 1724831121,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210383,
+        "num": 210383,
+        "word": "雪梨",
+        "onboard_time": 1724774780,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 17873,
+        "num": 209218,
+        "word": "美特斯邦威30年前就是户外老玩家",
+        "onboard_time": 1724832443,
+        "rank": 35,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 208692,
+        "num": 208692,
+        "word": "还我妈生内娱",
+        "onboard_time": 1724833403,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207497,
+        "num": 207497,
+        "word": "内地奥运冠军获2800万港币奖金",
+        "onboard_time": 1724827042,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204640,
+        "num": 204640,
+        "word": "狗狗叼石头为让人知道它不咬人",
+        "onboard_time": 1724830704,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202575,
+        "num": 202575,
+        "word": "意外发现婆婆给的手镯是金包银的",
+        "onboard_time": 1724822363,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196940,
+        "num": 196940,
+        "word": "四方馆 敢拍",
+        "onboard_time": 1724827942,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194537,
+        "num": 194537,
+        "word": "女子172cm100斤确诊营养不良型肥胖",
+        "onboard_time": 1724770224,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193870,
+        "num": 193870,
+        "word": "下一战歌手有陈昊宇",
+        "onboard_time": 1724831902,
+        "rank": 42,
+        "category": "综艺,音乐"
+      },
+      {
+        "raw_hot": 184512,
+        "num": 184512,
+        "word": "陈好 我的万人迷姐姐",
+        "onboard_time": 1724832861,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172770,
+        "num": 172770,
+        "word": "乙游内核 爱自己",
+        "onboard_time": 1724830521,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167513,
+        "num": 167513,
+        "word": "candy要飞回应雪梨",
+        "onboard_time": 1724814801,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 160517,
+        "num": 160517,
+        "word": "麻辣烫里的鸡蛋是预制蛋吗",
+        "onboard_time": 1724826982,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 154947,
+        "num": 154947,
+        "word": "王者荣耀",
+        "onboard_time": 1724830042,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154688,
+        "num": 154688,
+        "word": "陈艺文辟谣",
+        "onboard_time": 1724818644,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153253,
+        "num": 153253,
+        "word": "斩神一集一个新老公",
+        "onboard_time": 1724830403,
+        "rank": 49,
+        "category": "动漫,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视网络文明建设#"
+    }
+  }
+}
