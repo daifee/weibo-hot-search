@@ -1,7 +1,31 @@
 {
   "startTime": 1724775939795,
-  "endTime": 1724837763265,
+  "endTime": 1724840477988,
   "band_list": [
+    {
+      "raw_hot": 16155694,
+      "num": 16155694,
+      "word": "文泰一退团",
+      "onboard_time": 1724839583,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 15594363,
+      "num": 1253061,
+      "word": "文泰一接受警方调查",
+      "onboard_time": 1724839522,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 10438172,
+      "num": 753183,
+      "word": "文泰一 性犯罪",
+      "onboard_time": 1724839946,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 4036285,
       "num": 4036285,
@@ -163,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1530226,
+      "num": 1530226,
+      "word": "调休3天代价是5周工作休息不正常",
+      "onboard_time": 1724834422,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1491645,
       "num": 540950,
       "word": "登陆少年 纪梵希代言",
@@ -211,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1282382,
+      "num": 1252814,
+      "word": "NCT 无限缩减",
+      "onboard_time": 1724840064,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1277066,
       "num": 1277066,
       "word": "7岁男孩每晚崩溃大哭想回国",
@@ -233,6 +273,14 @@
       "onboard_time": 1724758040,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1209814,
+      "num": 1209814,
+      "word": "陈梦聚会照P上了黄晓明",
+      "onboard_time": 1724835983,
+      "rank": 24,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 1167711,
@@ -363,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 756737,
+      "num": 1068526,
+      "word": "教育局回应幼儿园女孩午睡离奇死亡",
+      "onboard_time": 1724835624,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 752858,
       "num": 752858,
       "word": "陈艺文辟谣",
@@ -459,12 +515,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 586296,
-      "num": 586296,
-      "word": "陈梦聚会照P上了黄晓明",
-      "onboard_time": 1724835983,
-      "rank": 24,
-      "category": "艺人,体育"
+      "raw_hot": 584252,
+      "num": 584252,
+      "word": "网传无忧渡全集空降",
+      "onboard_time": 1724839401,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 577222,
@@ -531,6 +587,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 438719,
+      "num": 438719,
+      "word": "汪顺祝愿孙杨越来越好",
+      "onboard_time": 1724838263,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 436974,
       "num": 398586,
       "word": "与辉同行30天卖了7个亿",
@@ -560,14 +624,6 @@
       "word": "大妈狂买1斤黄金不挑款店员报警",
       "onboard_time": 1724739621,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 411072,
-      "num": 411072,
-      "word": "调休3天代价是5周工作休息不正常",
-      "onboard_time": 1724834422,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -667,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335739,
+      "num": 335739,
+      "word": "王一博在岩壁上过夜",
+      "onboard_time": 1724837962,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 332973,
       "num": 332973,
       "word": "柳智敏 Prada",
@@ -745,14 +809,6 @@
       "onboard_time": 1724836402,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 307945,
-      "num": 1068526,
-      "word": "教育局回应幼儿园女孩午睡离奇死亡",
-      "onboard_time": 1724835624,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 305253,
@@ -1179,6 +1235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205258,
+      "num": 205258,
+      "word": "王一博有种",
+      "onboard_time": 1724839822,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 203611,
       "num": 203611,
       "word": "逆水寒6元JK",
@@ -1211,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201214,
+      "num": 201214,
+      "word": "郭艾伦曾说想在辽宁打一辈子",
+      "onboard_time": 1724840064,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199274,
       "num": 199274,
       "word": "边水往事超点",
@@ -1241,6 +1313,22 @@
       "onboard_time": 1724821822,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 195348,
+      "num": 195348,
+      "word": "终于懂了打网球为什么要穿裙子",
+      "onboard_time": 1724839583,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 194127,
+      "num": 194127,
+      "word": "郎平说陈牧驰米卡是一流的",
+      "onboard_time": 1724839401,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 193870,
@@ -1369,6 +1457,14 @@
       "onboard_time": 1724826982,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 179418,
+      "num": 179418,
+      "word": "朴灿烈solo出道MV",
+      "onboard_time": 1724839462,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 177969,
@@ -1547,6 +1643,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 160692,
+      "num": 160692,
+      "word": "杜兆才被控非法收受财物4341万余元",
+      "onboard_time": 1724839462,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159593,
       "num": 159593,
       "word": "A股",
@@ -1576,6 +1680,14 @@
       "word": "张帅单打23连败",
       "onboard_time": 1724802199,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 156554,
+      "num": 156554,
+      "word": "运营方回应WTT大满贯千元票价",
+      "onboard_time": 1724838862,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -1617,6 +1729,14 @@
       "onboard_time": 1724806524,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149257,
+      "num": 149257,
+      "word": "胡先煦 花少纯元",
+      "onboard_time": 1724840365,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 149109,
@@ -1939,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93768,
+      "num": 491327,
+      "word": "温州14岁失联女孩已平安到家",
+      "onboard_time": 1724838562,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85394,
       "num": 85394,
       "word": "转身这一刻偶像剧都弱爆了",
@@ -2001,6 +2129,14 @@
       "onboard_time": 1724834483,
       "rank": 11,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 67020,
+      "num": 753819,
+      "word": "市监局调查货车载烂苹果停果汁厂外",
+      "onboard_time": 1724838981,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65183,
@@ -2067,6 +2203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57226,
+      "num": 194239,
+      "word": "火神对战队长",
+      "onboard_time": 1724840124,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 57071,
       "num": 456661,
       "word": "超30城支持存量房贷利率商转公",
@@ -2116,7 +2260,7 @@
     },
     {
       "raw_hot": 52465,
-      "num": 1172561,
+      "num": 1319450,
       "word": "2024中国网络文明大会来了",
       "onboard_time": 1724834422,
       "rank": 2,
@@ -2131,11 +2275,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48791,
+      "num": 346759,
+      "word": "美特斯邦威老板痛批爆买爆退",
+      "onboard_time": 1724836041,
+      "rank": 31,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 46775,
       "num": 1566240,
       "word": "滚滚洪水中的这一幕惊险又感动",
       "onboard_time": 1724815042,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46311,
+      "num": 512021,
+      "word": "6人冒充高管招聘诈骗760余万",
+      "onboard_time": 1724840186,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45185,
+      "num": 693289,
+      "word": "车主吐槽2年没出险保费涨了上千元",
+      "onboard_time": 1724839042,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2241,14 +2409,6 @@
       "onboard_time": 1724833823,
       "rank": 28,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 29854,
-      "num": 346759,
-      "word": "美特斯邦威老板痛批爆买爆退",
-      "onboard_time": 1724836041,
-      "rank": 31,
-      "category": "时尚"
     },
     {
       "raw_hot": 27518,

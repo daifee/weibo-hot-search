@@ -1,0 +1,410 @@
+{
+  "runTime": 1724840477988,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 16155694,
+        "num": 16155694,
+        "word": "文泰一退团",
+        "onboard_time": 1724839583,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1530226,
+        "num": 1530226,
+        "word": "调休3天代价是5周工作休息不正常",
+        "onboard_time": 1724834422,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39287,
+        "num": 1319450,
+        "word": "2024中国网络文明大会来了",
+        "onboard_time": 1724834422,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1316538,
+        "num": 1316538,
+        "word": "女生喝下印度司机饮料后被性侵",
+        "onboard_time": 1724829022,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1269473,
+        "num": 1269473,
+        "word": "樊振东也收到马龙签名拍了",
+        "onboard_time": 1724833642,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15594363,
+        "num": 1253061,
+        "word": "文泰一接受警方调查",
+        "onboard_time": 1724839522,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1282382,
+        "num": 1252814,
+        "word": "NCT 无限缩减",
+        "onboard_time": 1724840064,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1209814,
+        "num": 1209814,
+        "word": "陈梦聚会照P上了黄晓明",
+        "onboard_time": 1724835983,
+        "rank": 7,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 756737,
+        "num": 756737,
+        "word": "教育局回应幼儿园女孩午睡离奇死亡",
+        "onboard_time": 1724835624,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67020,
+        "num": 753819,
+        "word": "市监局调查货车载烂苹果停果汁厂外",
+        "onboard_time": 1724838981,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10438172,
+        "num": 753183,
+        "word": "文泰一 性犯罪",
+        "onboard_time": 1724839946,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1127817,
+        "num": 752999,
+        "word": "还我妈生内娱",
+        "onboard_time": 1724833403,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 751195,
+        "num": 751195,
+        "word": "警方称雪梨事件会有通告发布",
+        "onboard_time": 1724830944,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 706604,
+        "num": 706604,
+        "word": "郭艾伦告别辽宁男篮",
+        "onboard_time": 1724836224,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45185,
+        "num": 693289,
+        "word": "车主吐槽2年没出险保费涨了上千元",
+        "onboard_time": 1724839042,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 686485,
+        "num": 686485,
+        "word": "已婚员工办公室接吻被举报后开除",
+        "onboard_time": 1724830642,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584252,
+        "num": 584252,
+        "word": "网传无忧渡全集空降",
+        "onboard_time": 1724839401,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 543175,
+        "num": 543175,
+        "word": "韩国41岁跑单王骑手出车祸去世",
+        "onboard_time": 1724831363,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521145,
+        "num": 521145,
+        "word": "公众要放假而不是假放",
+        "onboard_time": 1724829923,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46311,
+        "num": 512021,
+        "word": "6人冒充高管招聘诈骗760余万",
+        "onboard_time": 1724840186,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538018,
+        "num": 511417,
+        "word": "爸妈一次性给了我四年的生活费",
+        "onboard_time": 1724828062,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 505245,
+        "num": 505245,
+        "word": "杨幂 微博老祖",
+        "onboard_time": 1724833883,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93768,
+        "num": 491327,
+        "word": "温州14岁失联女孩已平安到家",
+        "onboard_time": 1724838562,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488162,
+        "num": 488162,
+        "word": "贾乃亮甜馨10年前后合影对比",
+        "onboard_time": 1724835263,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455414,
+        "num": 455414,
+        "word": "雪梨否认吸毒",
+        "onboard_time": 1724811743,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 438719,
+        "num": 438719,
+        "word": "汪顺祝愿孙杨越来越好",
+        "onboard_time": 1724838263,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 389660,
+        "num": 389660,
+        "word": "金巧巧于冬被曝已离婚三年",
+        "onboard_time": 1724826442,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335739,
+        "num": 335739,
+        "word": "王一博在岩壁上过夜",
+        "onboard_time": 1724837962,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 311578,
+        "num": 311578,
+        "word": "黑神话悟空雕塑建成一天就被游客踩坏",
+        "onboard_time": 1724828543,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 305775,
+        "num": 305775,
+        "word": "胡先煦李宛妲恋情",
+        "onboard_time": 1724811621,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269213,
+        "num": 269213,
+        "word": "买3870万房子为逃200万税欲假离婚",
+        "onboard_time": 1724833523,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260003,
+        "num": 260003,
+        "word": "综艺替身",
+        "onboard_time": 1724828362,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258984,
+        "num": 258984,
+        "word": "海通证券副总经理姜诚君被遣返回国",
+        "onboard_time": 1724833940,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213301,
+        "num": 213301,
+        "word": "男子相亲半天就定亲12万没了",
+        "onboard_time": 1724826201,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205258,
+        "num": 205258,
+        "word": "王一博有种",
+        "onboard_time": 1724839822,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201214,
+        "num": 201214,
+        "word": "郭艾伦曾说想在辽宁打一辈子",
+        "onboard_time": 1724840064,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196312,
+        "num": 196312,
+        "word": "家长吐槽高中宿舍一间住48人",
+        "onboard_time": 1724834904,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195348,
+        "num": 195348,
+        "word": "终于懂了打网球为什么要穿裙子",
+        "onboard_time": 1724839583,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57226,
+        "num": 194239,
+        "word": "火神对战队长",
+        "onboard_time": 1724840124,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194127,
+        "num": 194127,
+        "word": "郎平说陈牧驰米卡是一流的",
+        "onboard_time": 1724839401,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48791,
+        "num": 187729,
+        "word": "美特斯邦威老板痛批爆买爆退",
+        "onboard_time": 1724836041,
+        "rank": 40,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 187389,
+        "num": 187389,
+        "word": "当地回应郑州一女子高楼撒钱后跳楼",
+        "onboard_time": 1724829862,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179418,
+        "num": 179418,
+        "word": "朴灿烈solo出道MV",
+        "onboard_time": 1724839462,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162308,
+        "num": 162308,
+        "word": "网红雪梨被指涉毒警方回应",
+        "onboard_time": 1724820145,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 160692,
+        "num": 160692,
+        "word": "杜兆才被控非法收受财物4341万余元",
+        "onboard_time": 1724839462,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160196,
+        "num": 160196,
+        "word": "派克特",
+        "onboard_time": 1724818765,
+        "rank": 45,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 156554,
+        "num": 156554,
+        "word": "运营方回应WTT大满贯千元票价",
+        "onboard_time": 1724838862,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149257,
+        "num": 149257,
+        "word": "胡先煦 花少纯元",
+        "onboard_time": 1724840365,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147189,
+        "num": 147189,
+        "word": "朴灿烈直播",
+        "onboard_time": 1724836402,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142814,
+        "num": 142814,
+        "word": "具荷拉法正式通过",
+        "onboard_time": 1724829743,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#体育强国根本的标志还在于体育风貌#"
+    }
+  }
+}

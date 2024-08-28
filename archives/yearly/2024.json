@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1724837763265,
+  "endTime": 1724840477988,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -291,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 16155694,
+      "num": 16155694,
+      "word": "文泰一退团",
+      "onboard_time": 1724839583,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15865175,
       "num": 15865175,
       "word": "孙颖莎vs早田希娜",
@@ -337,6 +345,14 @@
       "onboard_time": 1722139881,
       "rank": 20,
       "category": "国外时政,体育"
+    },
+    {
+      "raw_hot": 15594363,
+      "num": 1253061,
+      "word": "文泰一接受警方调查",
+      "onboard_time": 1724839522,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 15346908,
@@ -1065,6 +1081,14 @@
       "onboard_time": 1707548914,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 10438172,
+      "num": 753183,
+      "word": "文泰一 性犯罪",
+      "onboard_time": 1724839946,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 10432398,
@@ -2377,30 +2401,6 @@
       "onboard_time": 1724057722,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 7076695,
-      "num": 6063040,
-      "word": "张昊唯报警",
-      "onboard_time": 1724062222,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 7067054,
-      "num": 7067054,
-      "word": "陈梦黄牌",
-      "onboard_time": 1722691353,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 7018945,
-      "num": 8268945,
-      "word": "苟仲文涉嫌严重违纪违法",
-      "onboard_time": 1717054997,
-      "rank": 0,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
