@@ -1,0 +1,410 @@
+{
+  "runTime": 1724863436572,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 13787881,
+        "num": 13787881,
+        "word": "余宇涵退团",
+        "onboard_time": 1724858665,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439831,
+        "num": 5744538,
+        "word": "深圳妇联回应4胞胎父亲收入微薄",
+        "onboard_time": 1724851583,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5277,
+        "num": 4399937,
+        "word": "汇聚网络正能量",
+        "onboard_time": 1724836342,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7627499,
+        "num": 3551082,
+        "word": "时代峰峻声明",
+        "onboard_time": 1724858665,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446795,
+        "num": 2937441,
+        "word": "女生喝下印度司机饮料后被性侵",
+        "onboard_time": 1724829022,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270868,
+        "num": 1823186,
+        "word": "还原献血8次不能优先用血事件真相",
+        "onboard_time": 1724857524,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1664310,
+        "num": 1664310,
+        "word": "警方通报雪梨事件",
+        "onboard_time": 1724855125,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1249939,
+        "num": 1249939,
+        "word": "文泰一接受警方调查",
+        "onboard_time": 1724839522,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267550,
+        "num": 1070372,
+        "word": "钓鱼佬在龙门石窟附近钓上一尊佛头",
+        "onboard_time": 1724854885,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156538,
+        "num": 1067282,
+        "word": "生下4胞胎父亲称对孩子性别没预期",
+        "onboard_time": 1724856026,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1065673,
+        "num": 1065673,
+        "word": "青岛代孕",
+        "onboard_time": 1724858245,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 845302,
+        "num": 845302,
+        "word": "登陆少年将以5人团形式运营",
+        "onboard_time": 1724859389,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 657061,
+        "num": 657061,
+        "word": "河南一女性在树林自缢身亡",
+        "onboard_time": 1724860946,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597718,
+        "num": 597718,
+        "word": "余宇涵 张元英",
+        "onboard_time": 1724754441,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478818,
+        "num": 478818,
+        "word": "李飞圆梦五人团",
+        "onboard_time": 1724861126,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445914,
+        "num": 445914,
+        "word": "造谣雪梨涉毒人员被传唤",
+        "onboard_time": 1724856026,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 366142,
+        "num": 445875,
+        "word": "王楚钦",
+        "onboard_time": 1724853563,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235027,
+        "num": 445552,
+        "word": "村民漫天要价镇政府强行打款后拆房",
+        "onboard_time": 1724854102,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512152,
+        "num": 445220,
+        "word": "余宇涵 出道一日体验卡",
+        "onboard_time": 1724859450,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182979,
+        "num": 444718,
+        "word": "心疼儿媳公婆偷偷买了40克金手镯补偿",
+        "onboard_time": 1724853624,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306531,
+        "num": 444624,
+        "word": "828退团日",
+        "onboard_time": 1724861186,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230203,
+        "num": 444265,
+        "word": "徐璐打夏之光 已老实求放过",
+        "onboard_time": 1724860529,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202440,
+        "num": 443982,
+        "word": "原来运动后皮肤真的能变好",
+        "onboard_time": 1724860110,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 182946,
+        "num": 443618,
+        "word": "宋祖儿前公司报案",
+        "onboard_time": 1724860290,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174261,
+        "num": 443341,
+        "word": "印度3名小学生打死5岁同学",
+        "onboard_time": 1724848702,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162359,
+        "num": 442798,
+        "word": "单身母亲带婴儿送外卖被质疑",
+        "onboard_time": 1724855005,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159424,
+        "num": 442650,
+        "word": "成都到九寨沟动车来了",
+        "onboard_time": 1724857405,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 147419,
+        "num": 442188,
+        "word": "赵晓卉淘汰感言",
+        "onboard_time": 1724852184,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144865,
+        "num": 442157,
+        "word": "小鬼节目里怼了梁源",
+        "onboard_time": 1724862801,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144359,
+        "num": 441847,
+        "word": "偶像练习生尤长靖回来了",
+        "onboard_time": 1724853503,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139587,
+        "num": 441286,
+        "word": "被王一博抱着也不敢啊",
+        "onboard_time": 1724848044,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138175,
+        "num": 440959,
+        "word": "终于懂了打网球为什么要穿裙子",
+        "onboard_time": 1724839583,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130353,
+        "num": 440859,
+        "word": "生2女后又产下4胞胎父亲发声",
+        "onboard_time": 1724844803,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30475,
+        "num": 440499,
+        "word": "五菱星光S预售订单超10000台",
+        "onboard_time": 1724860049,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 119054,
+        "num": 440095,
+        "word": "雪梨否认吸毒",
+        "onboard_time": 1724811743,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 112735,
+        "num": 439801,
+        "word": "派克特发歌帮乃万diss乙游",
+        "onboard_time": 1724853864,
+        "rank": 35,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 112457,
+        "num": 439622,
+        "word": "迪丽热巴绿野仙踪造型",
+        "onboard_time": 1724849662,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111752,
+        "num": 439253,
+        "word": "最佳减重运动第一名是跳绳",
+        "onboard_time": 1724856266,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 110567,
+        "num": 438800,
+        "word": "陈牧驰三箭27环",
+        "onboard_time": 1724860467,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109437,
+        "num": 438706,
+        "word": "雪梨未涉毒",
+        "onboard_time": 1724856144,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 107196,
+        "num": 438208,
+        "word": "广东5岁小孩流感后确诊急性脑坏死",
+        "onboard_time": 1724854403,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102544,
+        "num": 438067,
+        "word": "时代少年团小屋游戏time",
+        "onboard_time": 1724841504,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98620,
+        "num": 437562,
+        "word": "感觉天蝎座好像和谁都不深交",
+        "onboard_time": 1724851765,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97784,
+        "num": 437325,
+        "word": "莫雷加德说樊振东是奥林匹克的王",
+        "onboard_time": 1724858245,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91349,
+        "num": 437018,
+        "word": "金巧巧于冬被曝已离婚三年",
+        "onboard_time": 1724826442,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91256,
+        "num": 436571,
+        "word": "长乐曲里肖燕太甜了",
+        "onboard_time": 1724863101,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87442,
+        "num": 436273,
+        "word": "猫咪为什么会给兔子舔毛",
+        "onboard_time": 1724856446,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 85697,
+        "num": 436143,
+        "word": "郭艾伦告别辽宁男篮",
+        "onboard_time": 1724836224,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83742,
+        "num": 435626,
+        "word": "樊振东也收到马龙签名拍了",
+        "onboard_time": 1724833642,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80270,
+        "num": 435519,
+        "word": "沈某已娶妻就不去别人家了",
+        "onboard_time": 1724850922,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记格外重视亿万民众共同的精神家园#"
+    }
+  }
+}
