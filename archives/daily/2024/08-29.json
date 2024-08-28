@@ -1,6 +1,6 @@
 {
   "startTime": 1724862385087,
-  "endTime": 1724870432448,
+  "endTime": 1724872765930,
   "band_list": [
     {
       "raw_hot": 16324978,
@@ -483,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46947,
+      "num": 115897,
+      "word": "原来电梯神图是这样出片的",
+      "onboard_time": 1724869454,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43661,
       "num": 225055,
       "word": "威尼斯电影节",
@@ -507,14 +515,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 33419,
-      "num": 115897,
-      "word": "原来电梯神图是这样出片的",
-      "onboard_time": 1724869454,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 32702,
       "num": 440499,
       "word": "五菱星光S预售订单超10000台",
@@ -536,6 +536,22 @@
       "word": "重庆多地9月9日再开学",
       "onboard_time": 1724845824,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26069,
+      "num": 90725,
+      "word": "晓卉恋爱公式",
+      "onboard_time": 1724871433,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 21427,
+      "num": 90520,
+      "word": "女校长号召家长学生学习董宇辉",
+      "onboard_time": 1724872213,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
