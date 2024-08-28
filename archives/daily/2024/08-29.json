@@ -1,6 +1,6 @@
 {
   "startTime": 1724862385087,
-  "endTime": 1724887264239,
+  "endTime": 1724888147772,
   "band_list": [
     {
       "raw_hot": 16324978,
@@ -59,20 +59,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 922139,
+      "num": 277172,
+      "word": "马頔为李纯减重20斤",
+      "onboard_time": 1724886376,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 852511,
+      "num": 852511,
+      "word": "16岁学霸女生晚上离家出走后身亡",
+      "onboard_time": 1724886376,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 852247,
       "num": 852247,
       "word": "郑钦文美网",
       "onboard_time": 1724867954,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 813949,
-      "num": 169010,
-      "word": "马頔为李纯减重20斤",
-      "onboard_time": 1724886376,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 796215,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 691984,
-      "num": 167378,
+      "num": 257163,
       "word": "嫌犯认出法官是老同学9年后再犯案",
       "onboard_time": 1724867115,
       "rank": 18,
@@ -147,20 +155,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 472399,
-      "num": 163622,
-      "word": "16岁学霸女生晚上离家出走后身亡",
-      "onboard_time": 1724886376,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 406453,
+      "raw_hot": 472138,
       "num": 1823186,
       "word": "还原献血8次不能优先用血事件真相",
       "onboard_time": 1724857524,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353818,
+      "num": 353818,
+      "word": "文泰一涉嫌强奸",
+      "onboard_time": 1724842524,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 351208,
@@ -171,19 +179,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334450,
+      "num": 371249,
+      "word": "重庆多地官宣延期开学",
+      "onboard_time": 1724865257,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307758,
       "num": 732228,
       "word": "村民漫天要价镇政府强行打款后拆房",
       "onboard_time": 1724854102,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 303619,
-      "num": 371249,
-      "word": "重庆多地官宣延期开学",
-      "onboard_time": 1724865257,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -203,19 +211,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248804,
+      "num": 1067282,
+      "word": "生下4胞胎父亲称对孩子性别没预期",
+      "onboard_time": 1724856026,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215040,
       "num": 443341,
       "word": "印度3名小学生打死5岁同学",
       "onboard_time": 1724848702,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213104,
-      "num": 1067282,
-      "word": "生下4胞胎父亲称对孩子性别没预期",
-      "onboard_time": 1724856026,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 196702,
-      "num": 162202,
+      "num": 193829,
       "word": "郑钦文晋级美网32强",
       "onboard_time": 1724878571,
       "rank": 31,
@@ -339,6 +347,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 149707,
+      "num": 149707,
+      "word": "陕西历史博物馆回应被指涉嫌抄袭",
+      "onboard_time": 1724868195,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145270,
       "num": 440959,
       "word": "终于懂了打网球为什么要穿裙子",
@@ -353,14 +369,6 @@
       "onboard_time": 1724858245,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140998,
-      "num": 140998,
-      "word": "陕西历史博物馆回应被指涉嫌抄袭",
-      "onboard_time": 1724868195,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136041,
@@ -395,12 +403,36 @@
       "category": "音乐,游戏"
     },
     {
+      "raw_hot": 123752,
+      "num": 123752,
+      "word": "中国军机和埃及金字塔拍了游客照",
+      "onboard_time": 1724886797,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 123046,
       "num": 437562,
       "word": "感觉天蝎座好像和谁都不深交",
       "onboard_time": 1724851765,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 114790,
+      "num": 114790,
+      "word": "汪顺说潘展乐成绩媲美博尔特百米纪录",
+      "onboard_time": 1724886136,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114038,
+      "num": 114038,
+      "word": "英伟达公布2025财年第二季度财报",
+      "onboard_time": 1724887037,
+      "rank": 34,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 113089,
@@ -468,11 +500,19 @@
     },
     {
       "raw_hot": 103440,
-      "num": 107124,
+      "num": 108916,
       "word": "郑钦文vs安德列娃",
       "onboard_time": 1724874072,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100565,
+      "num": 159449,
+      "word": "原来电梯神图是这样出片的",
+      "onboard_time": 1724869454,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 100053,
@@ -483,12 +523,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97495,
-      "num": 107227,
-      "word": "英伟达公布2025财年第二季度财报",
-      "onboard_time": 1724887037,
-      "rank": 34,
-      "category": "互联网,财经"
+      "raw_hot": 96946,
+      "num": 109391,
+      "word": "月薪10万的人不想吃鼎泰丰了",
+      "onboard_time": 1724886677,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 91256,
@@ -499,12 +539,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 83636,
-      "num": 159449,
-      "word": "原来电梯神图是这样出片的",
-      "onboard_time": 1724869454,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 82413,
+      "num": 109296,
+      "word": "在我家那闺女里看到的女性困境",
+      "onboard_time": 1724886015,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 80270,
@@ -515,20 +555,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 72621,
-      "num": 107200,
+      "raw_hot": 77652,
+      "num": 109207,
       "word": "女校长号召家长学生学习董宇辉",
       "onboard_time": 1724872213,
       "rank": 49,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 66000,
-      "num": 107168,
-      "word": "月薪10万的人不想吃鼎泰丰了",
-      "onboard_time": 1724886677,
-      "rank": 39,
-      "category": "美食"
+      "raw_hot": 72542,
+      "num": 109110,
+      "word": "王安宇很懂导游也很懂金晨",
+      "onboard_time": 1724885896,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 67710,
+      "num": 109010,
+      "word": "迪丽热巴马上进组",
+      "onboard_time": 1724887279,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 65489,
@@ -547,12 +595,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 60042,
-      "num": 107138,
-      "word": "中国军机和埃及金字塔拍了游客照",
-      "onboard_time": 1724886797,
-      "rank": 41,
-      "category": "国内时政"
+      "raw_hot": 59451,
+      "num": 108880,
+      "word": "台湾花莲海域再发4.0级地震",
+      "onboard_time": 1724887579,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59189,
@@ -563,20 +611,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 57793,
-      "num": 107132,
-      "word": "王安宇很懂导游也很懂金晨",
-      "onboard_time": 1724885896,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 53746,
+      "num": 108795,
+      "word": "赵露思 我的互联网朋友",
+      "onboard_time": 1724886437,
+      "rank": 49,
+      "category": "艺人"
     },
     {
-      "raw_hot": 51774,
-      "num": 107096,
-      "word": "在我家那闺女里看到的女性困境",
-      "onboard_time": 1724886015,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 52370,
+      "num": 297376,
+      "word": "老人要取100万买黄金银行秒报警",
+      "onboard_time": 1724886737,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51429,
@@ -601,14 +649,6 @@
       "onboard_time": 1724867775,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 46516,
-      "num": 107068,
-      "word": "汪顺说潘展乐成绩媲美博尔特百米纪录",
-      "onboard_time": 1724886136,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 45018,
@@ -667,14 +707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30447,
-      "num": 171440,
-      "word": "老人要取100万买黄金银行秒报警",
-      "onboard_time": 1724886737,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 26069,
       "num": 90725,
       "word": "晓卉恋爱公式",
@@ -692,7 +724,7 @@
     },
     {
       "raw_hot": 11728,
-      "num": 500829,
+      "num": 756334,
       "word": "又一世界首座完成重要建设节点",
       "onboard_time": 1724852184,
       "rank": 2,
