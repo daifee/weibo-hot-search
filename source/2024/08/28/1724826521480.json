@@ -1,0 +1,410 @@
+{
+  "runTime": 1724826521480,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1739419,
+        "num": 1739419,
+        "word": "李纯马頔 公开爱情不公开爱称",
+        "onboard_time": 1724822603,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 780045,
+        "num": 780045,
+        "word": "爷爷偷偷把房子过户给孙子被判无效",
+        "onboard_time": 1724808320,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61327,
+        "num": 685009,
+        "word": "太空视角看地球家园",
+        "onboard_time": 1724815462,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1387326,
+        "num": 675640,
+        "word": "网红雪梨被指涉毒警方回应",
+        "onboard_time": 1724820145,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 651187,
+        "num": 651187,
+        "word": "印度再发生医护学生遭性侵事件",
+        "onboard_time": 1724822481,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 374844,
+        "num": 649467,
+        "word": "陈艺文辟谣",
+        "onboard_time": 1724818644,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 668792,
+        "num": 618481,
+        "word": "蔡少芬自曝丢过孩子",
+        "onboard_time": 1724825481,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414016,
+        "num": 613287,
+        "word": "刘美含 张远理想型女儿",
+        "onboard_time": 1724815221,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241350,
+        "num": 589270,
+        "word": "吉祥航空称不允许多人一起进厕所",
+        "onboard_time": 1724814261,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126362,
+        "num": 573750,
+        "word": "泽连斯基称已有计划结束俄乌冲突",
+        "onboard_time": 1724819724,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1179905,
+        "num": 552097,
+        "word": "胡先煦李宛妲恋情",
+        "onboard_time": 1724811621,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 959756,
+        "num": 532590,
+        "word": "雪梨否认吸毒",
+        "onboard_time": 1724811743,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 523396,
+        "num": 523396,
+        "word": "陈艺文ins",
+        "onboard_time": 1724816601,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 459779,
+        "num": 459779,
+        "word": "女子172cm100斤确诊营养不良型肥胖",
+        "onboard_time": 1724770224,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396893,
+        "num": 396893,
+        "word": "派克特",
+        "onboard_time": 1724818765,
+        "rank": 14,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 340940,
+        "num": 340940,
+        "word": "雪梨",
+        "onboard_time": 1724774780,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 315407,
+        "num": 315407,
+        "word": "宋祖儿工作室声明",
+        "onboard_time": 1724761283,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263788,
+        "num": 263788,
+        "word": "盛李豪 我们项目很难切磋",
+        "onboard_time": 1724819785,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235889,
+        "num": 263619,
+        "word": "7岁男孩每晚崩溃大哭想回国",
+        "onboard_time": 1724804062,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19951,
+        "num": 263555,
+        "word": "是时候重新认识一下蛋白粉了",
+        "onboard_time": 1724826442,
+        "rank": 19,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 703922,
+        "num": 263371,
+        "word": "儿媳妇房间的垃圾桶总是满的",
+        "onboard_time": 1724820744,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 320694,
+        "num": 263196,
+        "word": "意外发现婆婆给的手镯是金包银的",
+        "onboard_time": 1724822363,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81061,
+        "num": 262925,
+        "word": "手机支付已经进化到这种程度了",
+        "onboard_time": 1724825243,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282428,
+        "num": 262722,
+        "word": "六小龄童拍西游记6年发了2000元",
+        "onboard_time": 1724824103,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28358,
+        "num": 262633,
+        "word": "元莫 撑伞的人",
+        "onboard_time": 1724826442,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262517,
+        "num": 262517,
+        "word": "医生建议美甲时不要去死皮",
+        "onboard_time": 1724824402,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 259207,
+        "num": 259207,
+        "word": "研一开学入住了完美宿舍",
+        "onboard_time": 1724823863,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 42491,
+        "num": 255957,
+        "word": "这些品牌在京东服饰上新了",
+        "onboard_time": 1724824942,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 190804,
+        "num": 255666,
+        "word": "三边坡是一个巨大的染缸",
+        "onboard_time": 1724825243,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181081,
+        "num": 255494,
+        "word": "恋与深空回应派克特diss称法庭见",
+        "onboard_time": 1724808861,
+        "rank": 29,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 255439,
+        "num": 255439,
+        "word": "candy要飞回应雪梨",
+        "onboard_time": 1724814801,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 229914,
+        "num": 229914,
+        "word": "凌晨出道 下午塌房",
+        "onboard_time": 1724758040,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227468,
+        "num": 227468,
+        "word": "爱运动的年轻人为何偏爱跑步",
+        "onboard_time": 1724825782,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 227173,
+        "num": 227173,
+        "word": "王珞丹比15年前胖了10公斤",
+        "onboard_time": 1724826323,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221571,
+        "num": 221571,
+        "word": "男孩反复肺炎竟因3年前误吸狗尾巴草",
+        "onboard_time": 1724821944,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68698,
+        "num": 217838,
+        "word": "高校原神活动",
+        "onboard_time": 1724824584,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169856,
+        "num": 216883,
+        "word": "男子相亲半天就定亲12万没了",
+        "onboard_time": 1724826201,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216721,
+        "num": 216721,
+        "word": "雪梨老公",
+        "onboard_time": 1724808022,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 211132,
+        "num": 211132,
+        "word": "花少6开播",
+        "onboard_time": 1724825901,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210711,
+        "num": 210711,
+        "word": "折腰速抬",
+        "onboard_time": 1724763444,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187227,
+        "num": 187227,
+        "word": "黑神话悟空音乐会开票2分钟售罄",
+        "onboard_time": 1724826323,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181818,
+        "num": 181818,
+        "word": "金巧巧于冬被曝已离婚三年",
+        "onboard_time": 1724826442,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178839,
+        "num": 178839,
+        "word": "肖宇梁张康乐两代张起灵撞衫",
+        "onboard_time": 1724823143,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178137,
+        "num": 178137,
+        "word": "中医提醒3类人不要早上洗头",
+        "onboard_time": 1724824642,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 172951,
+        "num": 172951,
+        "word": "柳智敏 Prada",
+        "onboard_time": 1724826383,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164014,
+        "num": 164014,
+        "word": "宋祖儿工作室回应高考争议",
+        "onboard_time": 1724801778,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163465,
+        "num": 163465,
+        "word": "雅 40岁的年纪20岁的腰",
+        "onboard_time": 1724823682,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159237,
+        "num": 159237,
+        "word": "人均两万五去八个国家玩了24天",
+        "onboard_time": 1724813242,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 158336,
+        "num": 158336,
+        "word": "Candy要飞喊话雪梨",
+        "onboard_time": 1724800639,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 155299,
+        "num": 155299,
+        "word": "鞠婧祎 精彩OK",
+        "onboard_time": 1724824462,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同建设网上精神家园习近平这样强调#"
+    }
+  }
+}
