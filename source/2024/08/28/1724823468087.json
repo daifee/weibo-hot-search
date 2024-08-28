@@ -1,0 +1,410 @@
+{
+  "runTime": 1724823468087,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1423761,
+        "num": 1423761,
+        "word": "雪梨否认吸毒",
+        "onboard_time": 1724811743,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1195700,
+        "num": 1195700,
+        "word": "爷爷偷偷把房子过户给孙子被判无效",
+        "onboard_time": 1724808320,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55032,
+        "num": 992381,
+        "word": "太空视角看地球家园",
+        "onboard_time": 1724815462,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 947156,
+        "num": 947156,
+        "word": "疑护士妻子出轨医生致丈夫自杀",
+        "onboard_time": 1724811502,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640990,
+        "num": 640990,
+        "word": "陈艺文辟谣",
+        "onboard_time": 1724818644,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 590823,
+        "num": 590823,
+        "word": "刘美含 张远理想型女儿",
+        "onboard_time": 1724815221,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436405,
+        "num": 436405,
+        "word": "吉祥航空称不允许多人一起进厕所",
+        "onboard_time": 1724814261,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396596,
+        "num": 396596,
+        "word": "派克特",
+        "onboard_time": 1724818765,
+        "rank": 7,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 393531,
+        "num": 393531,
+        "word": "人均两万五去八个国家玩了24天",
+        "onboard_time": 1724813242,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 338674,
+        "num": 338674,
+        "word": "宋祖儿工作室声明",
+        "onboard_time": 1724761283,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1768438,
+        "num": 338434,
+        "word": "胡先煦李宛妲恋情",
+        "onboard_time": 1724811621,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1123114,
+        "num": 332055,
+        "word": "网红雪梨被指涉毒警方回应",
+        "onboard_time": 1724820145,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1099426,
+        "num": 328620,
+        "word": "陈艺文ins",
+        "onboard_time": 1724816601,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 611327,
+        "num": 323152,
+        "word": "女子172cm100斤确诊营养不良型肥胖",
+        "onboard_time": 1724770224,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421397,
+        "num": 317706,
+        "word": "雪梨",
+        "onboard_time": 1724774780,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 314516,
+        "num": 314516,
+        "word": "盛李豪 我们项目很难切磋",
+        "onboard_time": 1724819785,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 361751,
+        "num": 313098,
+        "word": "candy要飞回应雪梨",
+        "onboard_time": 1724814801,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 58267,
+        "num": 311235,
+        "word": "86版西游记海外观看量已近400万",
+        "onboard_time": 1724822841,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237804,
+        "num": 307608,
+        "word": "泽连斯基称已有计划结束俄乌冲突",
+        "onboard_time": 1724819724,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 221920,
+        "num": 305978,
+        "word": "7岁男孩每晚崩溃大哭想回国",
+        "onboard_time": 1724804062,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613418,
+        "num": 303152,
+        "word": "李纯马頔 公开爱情不公开爱称",
+        "onboard_time": 1724822603,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 494031,
+        "num": 299744,
+        "word": "儿媳妇房间的垃圾桶总是满的",
+        "onboard_time": 1724820744,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 342615,
+        "num": 298784,
+        "word": "凌晨出道 下午塌房",
+        "onboard_time": 1724758040,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235251,
+        "num": 294876,
+        "word": "恋与深空回应派克特diss称法庭见",
+        "onboard_time": 1724808861,
+        "rank": 23,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 294032,
+        "num": 294032,
+        "word": "90后女生出游20天全村手机都要瘫痪了",
+        "onboard_time": 1724801419,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282831,
+        "num": 282831,
+        "word": "宋祖儿工作室回应高考争议",
+        "onboard_time": 1724801778,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256950,
+        "num": 256950,
+        "word": "折腰速抬",
+        "onboard_time": 1724763444,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255029,
+        "num": 255029,
+        "word": "电脑都买不起还学别人开公司",
+        "onboard_time": 1724817022,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239939,
+        "num": 239939,
+        "word": "雪梨老公",
+        "onboard_time": 1724808022,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 229661,
+        "num": 229661,
+        "word": "印度再发生医护学生遭性侵事件",
+        "onboard_time": 1724822481,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 237096,
+        "num": 229068,
+        "word": "意外发现婆婆给的手镯是金包银的",
+        "onboard_time": 1724822363,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212491,
+        "num": 212491,
+        "word": "尤长靖这一招6年还没人能超越",
+        "onboard_time": 1724821222,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210278,
+        "num": 210278,
+        "word": "黑神话悟空新补丁发布",
+        "onboard_time": 1724815762,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201602,
+        "num": 201602,
+        "word": "肖宇梁张康乐两代张起灵撞衫",
+        "onboard_time": 1724823143,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62294,
+        "num": 194958,
+        "word": "中国有万亿级住宅专项维修资金",
+        "onboard_time": 1724821463,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54708,
+        "num": 194824,
+        "word": "频繁惹事的菲律宾舰船是什么来头",
+        "onboard_time": 1724821402,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194772,
+        "num": 194772,
+        "word": "男子献血8次不能优先用血多人被处分",
+        "onboard_time": 1724786713,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193776,
+        "num": 193776,
+        "word": "下一战歌手标杆歌手阵容",
+        "onboard_time": 1724818945,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193746,
+        "num": 193746,
+        "word": "吴谨言江疏影开机路透",
+        "onboard_time": 1724818223,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192416,
+        "num": 192416,
+        "word": "张子墨手机壁纸是朴成训",
+        "onboard_time": 1724819122,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189516,
+        "num": 189516,
+        "word": "蒋奇明 性感",
+        "onboard_time": 1724814441,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135051,
+        "num": 184581,
+        "word": "美特斯邦威要做始祖鸟平替",
+        "onboard_time": 1724818104,
+        "rank": 41,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 182701,
+        "num": 182701,
+        "word": "Candy要飞喊话雪梨",
+        "onboard_time": 1724800639,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 177315,
+        "num": 177315,
+        "word": "如鸢",
+        "onboard_time": 1724820624,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170665,
+        "num": 170665,
+        "word": "西北大学拟撤销7个本科专业",
+        "onboard_time": 1724823203,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166222,
+        "num": 166222,
+        "word": "农夫山泉暴跌12%",
+        "onboard_time": 1724821822,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 161626,
+        "num": 161626,
+        "word": "鞠婧祎杂志",
+        "onboard_time": 1724823383,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 160917,
+        "num": 160917,
+        "word": "赵宝儿结婚",
+        "onboard_time": 1724821703,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156891,
+        "num": 156891,
+        "word": "越来越多学校点名爸爸来开家长会",
+        "onboard_time": 1724816902,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155595,
+        "num": 155595,
+        "word": "男孩反复肺炎竟因3年前误吸狗尾巴草",
+        "onboard_time": 1724821944,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同建设网上精神家园习近平这样强调#"
+    }
+  }
+}
