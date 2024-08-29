@@ -1,0 +1,410 @@
+{
+  "runTime": 1724949732961,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7599111,
+        "num": 7599111,
+        "word": "绘旅人开战痞老板",
+        "onboard_time": 1724938523,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1494364,
+        "num": 1494364,
+        "word": "要所有居高临下傲慢之徒看仔细",
+        "onboard_time": 1724941344,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 11647,
+        "num": 1489613,
+        "word": "网络文明在我身边",
+        "onboard_time": 1724917341,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1488847,
+        "num": 1488847,
+        "word": "留给米哈游的时间不多了",
+        "onboard_time": 1724944166,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1126397,
+        "num": 1126397,
+        "word": "恋与制作人",
+        "onboard_time": 1724943325,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1123068,
+        "num": 1123068,
+        "word": "她的子宫不能是商品",
+        "onboard_time": 1724945663,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 993702,
+        "num": 993702,
+        "word": "余宇涵 失声",
+        "onboard_time": 1724944886,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 848817,
+        "num": 848817,
+        "word": "包贝尔 素人博主",
+        "onboard_time": 1724943746,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 598201,
+        "num": 598201,
+        "word": "腾讯视频 幸会嘻哈",
+        "onboard_time": 1724943625,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449049,
+        "num": 597227,
+        "word": "打击代孕应成为全社会共识",
+        "onboard_time": 1724946742,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1291019,
+        "num": 596793,
+        "word": "暗访地下代孕市场",
+        "onboard_time": 1724938044,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1238845,
+        "num": 595805,
+        "word": "痞老板",
+        "onboard_time": 1724938763,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 747018,
+        "num": 593873,
+        "word": "我爸在网易上班",
+        "onboard_time": 1724938463,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 593523,
+        "num": 593523,
+        "word": "乙游法务发回旋镖diss派克特",
+        "onboard_time": 1724941103,
+        "rank": 13,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 532270,
+        "num": 532270,
+        "word": "未定事件簿",
+        "onboard_time": 1724943025,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 500112,
+        "num": 500112,
+        "word": "光与夜之恋",
+        "onboard_time": 1724922140,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 457635,
+        "num": 457635,
+        "word": "俄罗斯前反恐部门负责人被肉噎死",
+        "onboard_time": 1724939184,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 436616,
+        "num": 436616,
+        "word": "幸会嘻哈延期",
+        "onboard_time": 1724942305,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422607,
+        "num": 422607,
+        "word": "腾讯游戏",
+        "onboard_time": 1724939485,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 397989,
+        "num": 397989,
+        "word": "N号房2.0",
+        "onboard_time": 1724947882,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352951,
+        "num": 352951,
+        "word": "绘旅人 嫡女",
+        "onboard_time": 1724936243,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 325824,
+        "num": 325824,
+        "word": "绘旅人站起来了",
+        "onboard_time": 1724935702,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 288798,
+        "num": 288798,
+        "word": "蒋奇明崔恩尔 势均力敌的爱情",
+        "onboard_time": 1724943265,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283372,
+        "num": 283372,
+        "word": "大一新生宿舍的第一次矛盾",
+        "onboard_time": 1724946863,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259695,
+        "num": 259695,
+        "word": "女性一生只能排出300多个卵子",
+        "onboard_time": 1724933541,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 253456,
+        "num": 253456,
+        "word": "还得是质子团",
+        "onboard_time": 1724947941,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251463,
+        "num": 251463,
+        "word": "TFBOYS祝福三代师弟成团快乐",
+        "onboard_time": 1724944644,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233444,
+        "num": 233444,
+        "word": "儿子跟妈妈摆摊10天收入10000元",
+        "onboard_time": 1724933903,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218298,
+        "num": 218298,
+        "word": "乙游",
+        "onboard_time": 1724941764,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209212,
+        "num": 209212,
+        "word": "刘彰男子50米游泳冠军",
+        "onboard_time": 1724946323,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204590,
+        "num": 204590,
+        "word": "海螺肉最有种的一集",
+        "onboard_time": 1724937323,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201854,
+        "num": 201854,
+        "word": "脑梗男子贷款60万打赏女主播当榜一",
+        "onboard_time": 1724940626,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192796,
+        "num": 192796,
+        "word": "马龙问李家超打直板还是横板",
+        "onboard_time": 1724946143,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190734,
+        "num": 190734,
+        "word": "一念永恒",
+        "onboard_time": 1724945185,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 190470,
+        "num": 190470,
+        "word": "老人走了 家就散了",
+        "onboard_time": 1724928982,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180550,
+        "num": 180550,
+        "word": "韩国 换脸",
+        "onboard_time": 1724919022,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180505,
+        "num": 180505,
+        "word": "徐嘉余晒合照拍到张雨霏打哈欠",
+        "onboard_time": 1724946323,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178890,
+        "num": 178890,
+        "word": "孙颖莎全红婵成香港新打卡点",
+        "onboard_time": 1724940204,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177943,
+        "num": 177943,
+        "word": "世界之外",
+        "onboard_time": 1724939725,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173295,
+        "num": 173295,
+        "word": "全红婵霍启刚热聊",
+        "onboard_time": 1724936182,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161115,
+        "num": 161115,
+        "word": "盖尔加朵曾被换脸色情片女主",
+        "onboard_time": 1724948840,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160958,
+        "num": 160958,
+        "word": "国防部用黑神话悟空回应美菲南海挑衅",
+        "onboard_time": 1724934861,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158422,
+        "num": 158422,
+        "word": "宣璐女子50米游泳冠军",
+        "onboard_time": 1724949140,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155076,
+        "num": 155076,
+        "word": "考编成功后在汝州疾控中心假装上班",
+        "onboard_time": 1724933061,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146704,
+        "num": 155068,
+        "word": "恋与深空",
+        "onboard_time": 1724926282,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140550,
+        "num": 155059,
+        "word": "余宇涵退团",
+        "onboard_time": 1724858665,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134575,
+        "num": 155049,
+        "word": "试管龙凤胎产后6个月却自怀了",
+        "onboard_time": 1724916800,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130069,
+        "num": 155037,
+        "word": "天蝎座的报复都是事出有因",
+        "onboard_time": 1724949019,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129494,
+        "num": 155029,
+        "word": "樊振东对晚宴每道菜都很期待",
+        "onboard_time": 1724942905,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123371,
+        "num": 155016,
+        "word": "女子花2万割双眼皮控诉成了悲伤蛙",
+        "onboard_time": 1724915001,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见沙利文#"
+    }
+  }
+}
