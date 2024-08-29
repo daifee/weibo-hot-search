@@ -1,0 +1,410 @@
+{
+  "runTime": 1724912968588,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7213570,
+        "num": 7213570,
+        "word": "青岛代孕实验室",
+        "onboard_time": 1724903001,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1869487,
+        "num": 1869487,
+        "word": "周杰伦败诉网易",
+        "onboard_time": 1724910022,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15694,
+        "num": 1653231,
+        "word": "巴黎再次飘起中国红",
+        "onboard_time": 1724888662,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1626287,
+        "num": 1626287,
+        "word": "余宇涵退团",
+        "onboard_time": 1724858665,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 722272,
+        "num": 722272,
+        "word": "官方责令学校立即停用48人一间宿舍",
+        "onboard_time": 1724902042,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609103,
+        "num": 609103,
+        "word": "孙颖莎陈梦站一起",
+        "onboard_time": 1724910442,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1239373,
+        "num": 607333,
+        "word": "黄子韬 艺洋OK",
+        "onboard_time": 1724908701,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 605415,
+        "num": 605415,
+        "word": "白鹿方 荒谬且无聊的事勿扰",
+        "onboard_time": 1724910082,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415034,
+        "num": 588873,
+        "word": "医生因目睹病人惨状不再做取卵手术",
+        "onboard_time": 1724911462,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78723,
+        "num": 579517,
+        "word": "有高校一下录进二十多个子涵",
+        "onboard_time": 1724912362,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577176,
+        "num": 577176,
+        "word": "全红婵站在潘展乐马龙中间",
+        "onboard_time": 1724908701,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 958627,
+        "num": 575923,
+        "word": "建议大家不要去吃自助小火锅",
+        "onboard_time": 1724904561,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 60234,
+        "num": 570000,
+        "word": "青岛代孕实验室捐卵麻药不是必需品",
+        "onboard_time": 1724911582,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 661191,
+        "num": 566048,
+        "word": "我终于知道月经是蓝色的了",
+        "onboard_time": 1724902761,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36283,
+        "num": 561897,
+        "word": "新华网评卡牌盲盒乱象",
+        "onboard_time": 1724912782,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638382,
+        "num": 556085,
+        "word": "警方通报山东高密街头杀人案",
+        "onboard_time": 1724903661,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 554125,
+        "num": 554125,
+        "word": "时代峰峻声明",
+        "onboard_time": 1724858665,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554062,
+        "num": 554062,
+        "word": "颜怡颜悦 男记者",
+        "onboard_time": 1724906365,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 504209,
+        "num": 504209,
+        "word": "边水往事 亡夫回忆录",
+        "onboard_time": 1724906966,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 428533,
+        "num": 428533,
+        "word": "潘展乐全红婵聊天好萌",
+        "onboard_time": 1724910563,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 656962,
+        "num": 428461,
+        "word": "婚礼当天睡过头了",
+        "onboard_time": 1724907505,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 476677,
+        "num": 422055,
+        "word": "曾黎家里有1500斤自制酵素",
+        "onboard_time": 1724912422,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 411302,
+        "num": 411302,
+        "word": "局长15年受贿200余万连猪肉都收",
+        "onboard_time": 1724898922,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411238,
+        "num": 411238,
+        "word": "男明星代言卫生巾 男明星流量大",
+        "onboard_time": 1724912062,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77758,
+        "num": 378291,
+        "word": "雅不愧是舞台魅魔",
+        "onboard_time": 1724912722,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27959,
+        "num": 374742,
+        "word": "美特斯邦威凭什么平替始祖鸟",
+        "onboard_time": 1724911704,
+        "rank": 25,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 329980,
+        "num": 373475,
+        "word": "生下4胞胎向社会求助有错吗",
+        "onboard_time": 1724909843,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372988,
+        "num": 372988,
+        "word": "印度学生称女生在强奸案里也有错",
+        "onboard_time": 1724908282,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367602,
+        "num": 367602,
+        "word": "山东高密当街发生命案警方回应",
+        "onboard_time": 1724900361,
+        "rank": 28,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 348723,
+        "num": 348723,
+        "word": "河南电视台暗访代孕",
+        "onboard_time": 1724906004,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341951,
+        "num": 341951,
+        "word": "但拓下线",
+        "onboard_time": 1724904921,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332092,
+        "num": 332092,
+        "word": "余宇涵修改微博认证",
+        "onboard_time": 1724910683,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318513,
+        "num": 318513,
+        "word": "猫丢了一个月饿成皮包骨了",
+        "onboard_time": 1724908701,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41738,
+        "num": 305563,
+        "word": "山东又一座城市正在出圈",
+        "onboard_time": 1724912303,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 293557,
+        "num": 293557,
+        "word": "大钱 前夫哥",
+        "onboard_time": 1724909663,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 44071,
+        "num": 276139,
+        "word": "张杰巡演抢妆间",
+        "onboard_time": 1724907083,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 268463,
+        "num": 268463,
+        "word": "SM回应文泰一性暴力案件",
+        "onboard_time": 1724907324,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255293,
+        "num": 255293,
+        "word": "奥运冠军教练称住处遭入侵搬空",
+        "onboard_time": 1724904742,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240881,
+        "num": 240881,
+        "word": "宿傩这就死了",
+        "onboard_time": 1724906125,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 233269,
+        "num": 233269,
+        "word": "三边坡上送沈星",
+        "onboard_time": 1724911892,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229928,
+        "num": 229928,
+        "word": "男rapper炮轰乙游为啥成了笑话",
+        "onboard_time": 1724906304,
+        "rank": 40,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 228155,
+        "num": 228155,
+        "word": "黎深生日PV",
+        "onboard_time": 1724901623,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 219040,
+        "num": 219040,
+        "word": "庞博文纹身",
+        "onboard_time": 1724900301,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213548,
+        "num": 213548,
+        "word": "金晨裸妆",
+        "onboard_time": 1724912842,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211558,
+        "num": 211558,
+        "word": "四川多地宣布延迟开学",
+        "onboard_time": 1724912602,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210838,
+        "num": 210838,
+        "word": "河南一女性在树林自缢身亡",
+        "onboard_time": 1724860946,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210483,
+        "num": 210483,
+        "word": "女子点单等1分钟吼哭店员被老板拉黑",
+        "onboard_time": 1724904441,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208982,
+        "num": 208982,
+        "word": "第一位出来的运动员马龙",
+        "onboard_time": 1724912062,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208820,
+        "num": 208820,
+        "word": "起底青岛涉代孕公司",
+        "onboard_time": 1724905764,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206429,
+        "num": 206429,
+        "word": "医生称三胎以上原则上建议减胎",
+        "onboard_time": 1724909182,
+        "rank": 49,
+        "category": "母婴育儿"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华文化是各民族文化的集大成#"
+    }
+  }
+}
