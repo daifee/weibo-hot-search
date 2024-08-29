@@ -1,0 +1,410 @@
+{
+  "runTime": 1724936130403,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3051310,
+        "num": 3051310,
+        "word": "多名韩女性在中国互联网求助",
+        "onboard_time": 1724931081,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1791692,
+        "num": 1791692,
+        "word": "小红书主页",
+        "onboard_time": 1724925921,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 16494,
+        "num": 1497095,
+        "word": "我国网民规模近11亿人",
+        "onboard_time": 1724897361,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1286709,
+        "num": 1286709,
+        "word": "绘旅人站起来了",
+        "onboard_time": 1724935702,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1138658,
+        "num": 1138658,
+        "word": "欧阳娣娣体操难度系数",
+        "onboard_time": 1724934682,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 888586,
+        "num": 888586,
+        "word": "韩国 换脸",
+        "onboard_time": 1724919022,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 820626,
+        "num": 820626,
+        "word": "老人走了 家就散了",
+        "onboard_time": 1724928982,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 798662,
+        "num": 798662,
+        "word": "WTT中国大满贯双打名单",
+        "onboard_time": 1724930540,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 776063,
+        "num": 776063,
+        "word": "孙颖莎真听劝",
+        "onboard_time": 1724922439,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356880,
+        "num": 729279,
+        "word": "警方回应中国美院教授被传强奸女生",
+        "onboard_time": 1724933600,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 961799,
+        "num": 729136,
+        "word": "莎头 大合照全过程",
+        "onboard_time": 1724933600,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 728126,
+        "num": 728126,
+        "word": "儿子跟妈妈摆摊10天收入10000元",
+        "onboard_time": 1724933903,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648326,
+        "num": 648326,
+        "word": "赵露思养狗人的条件反射",
+        "onboard_time": 1724932101,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 584827,
+        "num": 584827,
+        "word": "藏海花尺度",
+        "onboard_time": 1724926581,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 528794,
+        "num": 528794,
+        "word": "国防部用黑神话悟空回应美菲南海挑衅",
+        "onboard_time": 1724934861,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 488094,
+        "num": 488094,
+        "word": "中国美院回应教师涉嫌犯罪",
+        "onboard_time": 1724932822,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422708,
+        "num": 422708,
+        "word": "老农干活太猛致心脏起搏器跳出体外",
+        "onboard_time": 1724923282,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420217,
+        "num": 420217,
+        "word": "建议大家不要去吃自助小火锅",
+        "onboard_time": 1724904561,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 340353,
+        "num": 416928,
+        "word": "李纯说不会宣扬和马頔状态",
+        "onboard_time": 1724930360,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71808,
+        "num": 416142,
+        "word": "海景房遇冷的三个原因",
+        "onboard_time": 1724934923,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415489,
+        "num": 415489,
+        "word": "曾黎家里有1500斤自制酵素",
+        "onboard_time": 1724912422,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353379,
+        "num": 353379,
+        "word": "女子花2万割双眼皮控诉成了悲伤蛙",
+        "onboard_time": 1724915001,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342755,
+        "num": 342755,
+        "word": "考编成功后在汝州疾控中心假装上班",
+        "onboard_time": 1724933061,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338457,
+        "num": 338457,
+        "word": "中国美术学院",
+        "onboard_time": 1724934261,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338360,
+        "num": 338360,
+        "word": "女性一生只能排出300多个卵子",
+        "onboard_time": 1724933541,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 298028,
+        "num": 298028,
+        "word": "试管龙凤胎产后6个月却自怀了",
+        "onboard_time": 1724916800,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287501,
+        "num": 287501,
+        "word": "这个猫水碗有点辱猫了",
+        "onboard_time": 1724933303,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 264798,
+        "num": 264798,
+        "word": "刘亚仁涉嫌性侵同性接受警方调查",
+        "onboard_time": 1724924121,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250329,
+        "num": 263647,
+        "word": "韩国造型师给曾黎做的妆发",
+        "onboard_time": 1724934083,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233043,
+        "num": 263183,
+        "word": "时代峰峻报案了",
+        "onboard_time": 1724925799,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279500,
+        "num": 263141,
+        "word": "跟妈妈吐槽工作想辞职被整破防了",
+        "onboard_time": 1724930721,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263071,
+        "num": 263071,
+        "word": "奥运金牌团访港直播",
+        "onboard_time": 1724915421,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250510,
+        "num": 250510,
+        "word": "官方通报女子高楼撒现金后坠亡",
+        "onboard_time": 1724927241,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246870,
+        "num": 246870,
+        "word": "樊振东好意气风发",
+        "onboard_time": 1724931861,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47639,
+        "num": 235993,
+        "word": "考赛照有什么用",
+        "onboard_time": 1724932941,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 229924,
+        "num": 229924,
+        "word": "易烊千玺谈为何做演员",
+        "onboard_time": 1724933961,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223645,
+        "num": 223645,
+        "word": "韩国新型性暴力产品层出不穷",
+        "onboard_time": 1724926821,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221377,
+        "num": 221377,
+        "word": "香港学生见王楚钦孙颖莎前开心到失眠",
+        "onboard_time": 1724932403,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213834,
+        "num": 213834,
+        "word": "孙颖莎在国外不好意思说英语",
+        "onboard_time": 1724932941,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213057,
+        "num": 213057,
+        "word": "国防部警告台独",
+        "onboard_time": 1724930002,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 211102,
+        "num": 211102,
+        "word": "韩国总统尹锡悦就Deepfake发声",
+        "onboard_time": 1724931321,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207127,
+        "num": 207127,
+        "word": "长期关系的核心根本不是因为爱",
+        "onboard_time": 1724935221,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197142,
+        "num": 197142,
+        "word": "深度伪造犯罪令韩国社会恐慌",
+        "onboard_time": 1724924541,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194451,
+        "num": 194451,
+        "word": "嗑到了先婚后爱的帝后cp",
+        "onboard_time": 1724931621,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193384,
+        "num": 193384,
+        "word": "余宇涵退团",
+        "onboard_time": 1724858665,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186866,
+        "num": 186866,
+        "word": "lgdnbw",
+        "onboard_time": 1724935342,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184980,
+        "num": 184980,
+        "word": "在全国各地装孙子每次赚1000元",
+        "onboard_time": 1724932702,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171391,
+        "num": 171391,
+        "word": "TOP登陆少年宣誓不恋爱不私联",
+        "onboard_time": 1724936064,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169569,
+        "num": 169569,
+        "word": "网购方便面女款比男款面饼小一半",
+        "onboard_time": 1724929522,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167521,
+        "num": 167521,
+        "word": "全红婵就这么水灵灵地站起来了",
+        "onboard_time": 1724924602,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华文化是各民族文化的集大成#"
+    }
+  }
+}
