@@ -1,0 +1,410 @@
+{
+  "runTime": 1724920816699,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1984836,
+        "num": 1984836,
+        "word": "女子花2万割双眼皮控诉成了悲伤蛙",
+        "onboard_time": 1724915001,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1841994,
+        "num": 1841994,
+        "word": "韩国 换脸",
+        "onboard_time": 1724919022,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29351,
+        "num": 1645107,
+        "word": "网络文明在我身边",
+        "onboard_time": 1724917341,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1637623,
+        "num": 1637623,
+        "word": "曾黎家里有1500斤自制酵素",
+        "onboard_time": 1724912422,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1117521,
+        "num": 1117521,
+        "word": "生下4胞胎向社会求助有错吗",
+        "onboard_time": 1724909843,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1030247,
+        "num": 1030247,
+        "word": "奥运金牌团访港直播",
+        "onboard_time": 1724915421,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 913225,
+        "num": 913225,
+        "word": "余宇涵退团",
+        "onboard_time": 1724858665,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 824351,
+        "num": 824351,
+        "word": "周杰伦败诉网易",
+        "onboard_time": 1724910022,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 639197,
+        "num": 639197,
+        "word": "黄子韬 艺洋OK",
+        "onboard_time": 1724908701,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42833,
+        "num": 629511,
+        "word": "我们必须坚定反对代孕",
+        "onboard_time": 1724920581,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1254316,
+        "num": 587816,
+        "word": "青岛代孕实验室",
+        "onboard_time": 1724903001,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1065747,
+        "num": 567702,
+        "word": "建议大家不要去吃自助小火锅",
+        "onboard_time": 1724904561,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 770944,
+        "num": 544350,
+        "word": "警方通报山东高密街头杀人案",
+        "onboard_time": 1724903661,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 513635,
+        "num": 513635,
+        "word": "伯远 我在INTO1半年没工作",
+        "onboard_time": 1724917281,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44702,
+        "num": 482276,
+        "word": "取卵的过程是怎样的",
+        "onboard_time": 1724920220,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38142,
+        "num": 463074,
+        "word": "京东服饰和VOGUE联合搞事情",
+        "onboard_time": 1724919320,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 455057,
+        "num": 455057,
+        "word": "男明星代言卫生巾 男明星流量大",
+        "onboard_time": 1724912062,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400233,
+        "num": 400233,
+        "word": "Deepfake",
+        "onboard_time": 1724916862,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373843,
+        "num": 373843,
+        "word": "樊振东一路握手笑嘻嘻",
+        "onboard_time": 1724914282,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362640,
+        "num": 362640,
+        "word": "山东高密当街发生命案警方回应",
+        "onboard_time": 1724900361,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1088050,
+        "num": 361669,
+        "word": "试管龙凤胎产后6个月却自怀了",
+        "onboard_time": 1724916800,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 359752,
+        "num": 359752,
+        "word": "孙颖莎笑得好开心",
+        "onboard_time": 1724917941,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357063,
+        "num": 357063,
+        "word": "青岛卫健委调查代孕一事",
+        "onboard_time": 1724913141,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356967,
+        "num": 356967,
+        "word": "我国人均预期寿命达到78.6岁",
+        "onboard_time": 1724914221,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339926,
+        "num": 339926,
+        "word": "文泰一疑似使11岁女孩终生残疾",
+        "onboard_time": 1724915362,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309584,
+        "num": 309584,
+        "word": "高校向新生调查是否有过性行为",
+        "onboard_time": 1724915661,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285055,
+        "num": 285055,
+        "word": "边水往事 亡夫回忆录",
+        "onboard_time": 1724906966,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66936,
+        "num": 269403,
+        "word": "美特斯邦威冲锋衣厉害在哪",
+        "onboard_time": 1724916921,
+        "rank": 27,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 254141,
+        "num": 254141,
+        "word": "白鹿方 荒谬且无聊的事勿扰",
+        "onboard_time": 1724910082,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247243,
+        "num": 247243,
+        "word": "余宇涵修改微博认证",
+        "onboard_time": 1724910683,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232030,
+        "num": 232030,
+        "word": "我国从海上发射一箭6星",
+        "onboard_time": 1724914581,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 229332,
+        "num": 229332,
+        "word": "黄子韬曾发文想要龙凤胎",
+        "onboard_time": 1724916022,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225102,
+        "num": 225102,
+        "word": "原神5.0版本",
+        "onboard_time": 1724919380,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 223824,
+        "num": 223824,
+        "word": "潘展乐全红婵聊天好萌",
+        "onboard_time": 1724910563,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221419,
+        "num": 221419,
+        "word": "Deepfake到底有多可怕",
+        "onboard_time": 1724916982,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217036,
+        "num": 217036,
+        "word": "迪丽热巴十年前的微博",
+        "onboard_time": 1724919681,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215854,
+        "num": 215854,
+        "word": "黎深生日PV",
+        "onboard_time": 1724901623,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215677,
+        "num": 215677,
+        "word": "张家口一中学操场塌方致1死",
+        "onboard_time": 1724918061,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212052,
+        "num": 212052,
+        "word": "山东高密命案嫌疑人已被采取强制措施",
+        "onboard_time": 1724902521,
+        "rank": 38,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1048269,
+        "num": 211404,
+        "word": "痞老板 乙游Freestyle",
+        "onboard_time": 1724917341,
+        "rank": 39,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 210103,
+        "num": 210103,
+        "word": "时代峰峻声明",
+        "onboard_time": 1724858665,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206072,
+        "num": 206072,
+        "word": "我终于知道月经是蓝色的了",
+        "onboard_time": 1724902761,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205849,
+        "num": 205849,
+        "word": "怪不得小猫绝食了",
+        "onboard_time": 1724919982,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132879,
+        "num": 202034,
+        "word": "2024年还会有人买油车吗",
+        "onboard_time": 1724915300,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 200335,
+        "num": 200335,
+        "word": "月经羞耻 精彩绝伦八分钟",
+        "onboard_time": 1724919564,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195877,
+        "num": 195877,
+        "word": "婚礼当天睡过头了",
+        "onboard_time": 1724907505,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180189,
+        "num": 180189,
+        "word": "边水往事大结局收官礼",
+        "onboard_time": 1724904921,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177950,
+        "num": 177950,
+        "word": "不要成为除了工作什么都没有的人",
+        "onboard_time": 1724920771,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174787,
+        "num": 174787,
+        "word": "王一博捞拖鞋",
+        "onboard_time": 1724913501,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170320,
+        "num": 170320,
+        "word": "但拓下线",
+        "onboard_time": 1724904921,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华文化是各民族文化的集大成#"
+    }
+  }
+}

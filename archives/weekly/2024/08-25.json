@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724920020000,
+  "endTime": 1724920816699,
   "band_list": [
     {
       "raw_hot": 20756997,
@@ -577,6 +577,14 @@
       "onboard_time": 1724655201,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1841994,
+      "num": 1841994,
+      "word": "韩国 换脸",
+      "onboard_time": 1724919022,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1841233,
@@ -2275,14 +2283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 754345,
-      "num": 754345,
-      "word": "韩国 换脸",
-      "onboard_time": 1724919022,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 752858,
       "num": 752858,
       "word": "陈艺文辟谣",
@@ -3323,6 +3323,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 513635,
+      "num": 513635,
+      "word": "伯远 我在INTO1半年没工作",
+      "onboard_time": 1724917281,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 507713,
       "num": 507713,
       "word": "朱志鑫solo舞台",
@@ -3497,14 +3505,6 @@
       "onboard_time": 1724586380,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 475937,
-      "num": 475937,
-      "word": "伯远 我在INTO1半年没工作",
-      "onboard_time": 1724917281,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 474471,
@@ -4105,6 +4105,14 @@
       "onboard_time": 1724770464,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 400233,
+      "num": 400233,
+      "word": "Deepfake",
+      "onboard_time": 1724916862,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 399016,
@@ -5075,6 +5083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 309584,
+      "num": 309584,
+      "word": "高校向新生调查是否有过性行为",
+      "onboard_time": 1724915661,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308777,
       "num": 308777,
       "word": "13岁男孩凌晨在家摔成脾破裂",
@@ -5257,14 +5273,6 @@
       "onboard_time": 1724554400,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 299152,
-      "num": 299152,
-      "word": "高校向新生调查是否有过性行为",
-      "onboard_time": 1724915661,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 298550,
@@ -5953,14 +5961,6 @@
       "onboard_time": 1724652260,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 264752,
-      "num": 264752,
-      "word": "Deepfake",
-      "onboard_time": 1724916862,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 263735,
@@ -7571,6 +7571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217036,
+      "num": 217036,
+      "word": "迪丽热巴十年前的微博",
+      "onboard_time": 1724919681,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217017,
       "num": 217017,
       "word": "全球多地暴发西尼罗河病毒疫情",
@@ -8139,6 +8147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205849,
+      "num": 205849,
+      "word": "怪不得小猫绝食了",
+      "onboard_time": 1724919982,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205822,
       "num": 205822,
       "word": "在张杰演唱会听上西游记了",
@@ -8489,6 +8505,14 @@
       "onboard_time": 1724566879,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 200335,
+      "num": 200335,
+      "word": "月经羞耻 精彩绝伦八分钟",
+      "onboard_time": 1724919564,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 200279,
@@ -8969,14 +8993,6 @@
       "onboard_time": 1724678001,
       "rank": 42,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 191697,
-      "num": 191697,
-      "word": "迪丽热巴十年前的微博",
-      "onboard_time": 1724919681,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 191477,
@@ -9787,14 +9803,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 178292,
-      "num": 178292,
-      "word": "月经羞耻 精彩绝伦八分钟",
-      "onboard_time": 1724919564,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 177974,
       "num": 177974,
       "word": "陈天润手受伤",
@@ -9811,12 +9819,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 177958,
-      "num": 177958,
-      "word": "怪不得小猫绝食了",
-      "onboard_time": 1724919982,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 177950,
+      "num": 177950,
+      "word": "不要成为除了工作什么都没有的人",
+      "onboard_time": 1724920771,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 177595,
@@ -12972,7 +12980,7 @@
     },
     {
       "raw_hot": 60045,
-      "num": 230542,
+      "num": 463074,
       "word": "京东服饰和VOGUE联合搞事情",
       "onboard_time": 1724919320,
       "rank": 35,
@@ -13627,6 +13635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 44702,
+      "num": 482276,
+      "word": "取卵的过程是怎样的",
+      "onboard_time": 1724920220,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44071,
       "num": 276139,
       "word": "张杰巡演抢妆间",
@@ -13688,6 +13704,14 @@
       "word": "酒店代订服务省钱背后都有啥风险",
       "onboard_time": 1724598322,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42833,
+      "num": 629511,
+      "word": "我们必须坚定反对代孕",
+      "onboard_time": 1724920581,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -14108,7 +14132,7 @@
     },
     {
       "raw_hot": 32400,
-      "num": 1307080,
+      "num": 1645107,
       "word": "网络文明在我身边",
       "onboard_time": 1724917341,
       "rank": 2,

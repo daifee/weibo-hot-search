@@ -1,6 +1,6 @@
 {
   "startTime": 1724862385087,
-  "endTime": 1724920020000,
+  "endTime": 1724920816699,
   "band_list": [
     {
       "raw_hot": 16324978,
@@ -81,6 +81,14 @@
       "onboard_time": 1724903661,
       "rank": 11,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1841994,
+      "num": 1841994,
+      "word": "韩国 换脸",
+      "onboard_time": 1724919022,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1728894,
@@ -297,14 +305,6 @@
       "onboard_time": 1724895560,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 754345,
-      "num": 754345,
-      "word": "韩国 换脸",
-      "onboard_time": 1724919022,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 737207,
@@ -531,20 +531,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 513635,
+      "num": 513635,
+      "word": "伯远 我在INTO1半年没工作",
+      "onboard_time": 1724917281,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 478818,
       "num": 478818,
       "word": "李飞圆梦五人团",
       "onboard_time": 1724861126,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 475937,
-      "num": 475937,
-      "word": "伯远 我在INTO1半年没工作",
-      "onboard_time": 1724917281,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 474471,
@@ -609,6 +609,14 @@
       "onboard_time": 1724910683,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 400233,
+      "num": 400233,
+      "word": "Deepfake",
+      "onboard_time": 1724916862,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 386176,
@@ -731,6 +739,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 309584,
+      "num": 309584,
+      "word": "高校向新生调查是否有过性行为",
+      "onboard_time": 1724915661,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307758,
       "num": 732228,
       "word": "村民漫天要价镇政府强行打款后拆房",
@@ -761,14 +777,6 @@
       "onboard_time": 1724915183,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 299152,
-      "num": 299152,
-      "word": "高校向新生调查是否有过性行为",
-      "onboard_time": 1724915661,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297646,
@@ -873,14 +881,6 @@
       "onboard_time": 1724860110,
       "rank": 25,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 264752,
-      "num": 264752,
-      "word": "Deepfake",
-      "onboard_time": 1724916862,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 263493,
@@ -1115,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217036,
+      "num": 217036,
+      "word": "迪丽热巴十年前的微博",
+      "onboard_time": 1724919681,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216214,
       "num": 216214,
       "word": "乳糖不耐者的地狱",
@@ -1211,6 +1219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205849,
+      "num": 205849,
+      "word": "怪不得小猫绝食了",
+      "onboard_time": 1724919982,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 204919,
       "num": 204919,
       "word": "柳舟记今晚全是高能",
@@ -1257,6 +1273,14 @@
       "onboard_time": 1724888359,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200335,
+      "num": 200335,
+      "word": "月经羞耻 精彩绝伦八分钟",
+      "onboard_time": 1724919564,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 199067,
@@ -1355,14 +1379,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 191697,
-      "num": 191697,
-      "word": "迪丽热巴十年前的微博",
-      "onboard_time": 1724919681,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191184,
       "num": 191184,
       "word": "齐思钧还是没防住杜海涛",
@@ -1435,20 +1451,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 178292,
-      "num": 178292,
-      "word": "月经羞耻 精彩绝伦八分钟",
-      "onboard_time": 1724919564,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 177958,
-      "num": 177958,
-      "word": "怪不得小猫绝食了",
-      "onboard_time": 1724919982,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 177950,
+      "num": 177950,
+      "word": "不要成为除了工作什么都没有的人",
+      "onboard_time": 1724920771,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 176866,
@@ -2028,7 +2036,7 @@
     },
     {
       "raw_hot": 60045,
-      "num": 230542,
+      "num": 463074,
       "word": "京东服饰和VOGUE联合搞事情",
       "onboard_time": 1724919320,
       "rank": 35,
@@ -2115,6 +2123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44702,
+      "num": 482276,
+      "word": "取卵的过程是怎样的",
+      "onboard_time": 1724920220,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44071,
       "num": 276139,
       "word": "张杰巡演抢妆间",
@@ -2137,6 +2153,14 @@
       "onboard_time": 1724866156,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 42833,
+      "num": 629511,
+      "word": "我们必须坚定反对代孕",
+      "onboard_time": 1724920581,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41451,
@@ -2204,7 +2228,7 @@
     },
     {
       "raw_hot": 32400,
-      "num": 1307080,
+      "num": 1645107,
       "word": "网络文明在我身边",
       "onboard_time": 1724917341,
       "rank": 2,
