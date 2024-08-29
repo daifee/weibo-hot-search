@@ -1,6 +1,6 @@
 {
   "startTime": 1724862385087,
-  "endTime": 1724927986271,
+  "endTime": 1724930340448,
   "band_list": [
     {
       "raw_hot": 16324978,
@@ -33,6 +33,14 @@
       "onboard_time": 1724919022,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3647781,
+      "num": 3647781,
+      "word": "小红书主页",
+      "onboard_time": 1724925921,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 2581709,
@@ -97,14 +105,6 @@
       "onboard_time": 1724903661,
       "rank": 11,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1780031,
-      "num": 1780031,
-      "word": "小红书主页",
-      "onboard_time": 1724925921,
-      "rank": 17,
-      "category": "互联网"
     },
     {
       "raw_hot": 1728894,
@@ -299,6 +299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 824544,
+      "num": 824544,
+      "word": "藏海花尺度",
+      "onboard_time": 1724926581,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 821942,
       "num": 821942,
       "word": "青岛卫健委调查代孕一事",
@@ -347,6 +355,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 749392,
+      "num": 749392,
+      "word": "刘亚仁涉嫌性侵同性接受警方调查",
+      "onboard_time": 1724924121,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 737784,
+      "num": 737784,
+      "word": "老农干活太猛致心脏起搏器跳出体外",
+      "onboard_time": 1724923282,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 737207,
       "num": 603035,
       "word": "男明星代言卫生巾 男明星流量大",
@@ -361,14 +385,6 @@
       "onboard_time": 1724906004,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 714112,
-      "num": 714112,
-      "word": "刘亚仁涉嫌性侵同性接受警方调查",
-      "onboard_time": 1724924121,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 691984,
@@ -467,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 597542,
+      "num": 597542,
+      "word": "官方通报女子高楼撒现金后坠亡",
+      "onboard_time": 1724927241,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 594357,
       "num": 594357,
       "word": "边水往事 亡夫回忆录",
@@ -497,14 +521,6 @@
       "onboard_time": 1724914282,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 585653,
-      "num": 585653,
-      "word": "老农干活太猛致心脏起搏器跳出体外",
-      "onboard_time": 1724923282,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 580479,
@@ -619,12 +635,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 489634,
-      "num": 375448,
-      "word": "藏海花尺度",
-      "onboard_time": 1724926581,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 504376,
+      "num": 714567,
+      "word": "韩国新型性暴力产品层出不穷",
+      "onboard_time": 1724926821,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 478818,
@@ -795,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342885,
+      "num": 414083,
+      "word": "老人走了 家就散了",
+      "onboard_time": 1724928982,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 342124,
       "num": 342124,
       "word": "原来电梯神图是这样出片的",
@@ -841,6 +865,14 @@
       "onboard_time": 1724922863,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322469,
+      "num": 322469,
+      "word": "全红婵就这么水灵灵地站起来了",
+      "onboard_time": 1724924602,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 318513,
@@ -995,14 +1027,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 282270,
-      "num": 282270,
-      "word": "全红婵就这么水灵灵地站起来了",
-      "onboard_time": 1724924602,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 282088,
       "num": 282088,
       "word": "meovv全员公开",
@@ -1081,14 +1105,6 @@
       "onboard_time": 1724913501,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 258593,
-      "num": 258593,
-      "word": "官方通报女子高楼撒现金后坠亡",
-      "onboard_time": 1724927241,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 255279,
@@ -1507,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202615,
+      "num": 202615,
+      "word": "国防部警告台独",
+      "onboard_time": 1724930002,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 201622,
       "num": 201622,
       "word": "拓子哥死了 我的心也死了",
@@ -1555,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199826,
+      "num": 199826,
+      "word": "HLE对战T1",
+      "onboard_time": 1724928142,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 199067,
       "num": 199067,
       "word": "鹭卓射十环 不秀等于没射",
@@ -1569,6 +1601,14 @@
       "onboard_time": 1724864178,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197904,
+      "num": 197904,
+      "word": "KPL",
+      "onboard_time": 1724929101,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 197616,
@@ -1593,6 +1633,22 @@
       "onboard_time": 1724921721,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197231,
+      "num": 197231,
+      "word": "网购方便面女款比男款面饼小一半",
+      "onboard_time": 1724929522,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197186,
+      "num": 714279,
+      "word": "操场塌方校方回应记者跟您有什么关系",
+      "onboard_time": 1724925861,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196856,
@@ -1683,20 +1739,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188417,
+      "num": 197189,
+      "word": "时代少年团度假模式",
+      "onboard_time": 1724929581,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 185435,
       "num": 303215,
       "word": "微博音乐盛典五大推荐启动",
       "onboard_time": 1724905584,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 185225,
-      "num": 714567,
-      "word": "韩国新型性暴力产品层出不穷",
-      "onboard_time": 1724926821,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 185201,
@@ -1875,6 +1931,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167490,
+      "num": 167490,
+      "word": "狗狗交的新朋友是踏光而来的",
+      "onboard_time": 1724928864,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 166594,
+      "num": 166594,
+      "word": "LCK",
+      "onboard_time": 1724929941,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 166175,
       "num": 166175,
       "word": "被茶卡盐湖马卡龙色系晚霞美到了",
@@ -1883,12 +1955,28 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 163430,
-      "num": 714279,
-      "word": "操场塌方校方回应记者跟您有什么关系",
-      "onboard_time": 1724925861,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 164852,
+      "num": 164852,
+      "word": "怪盗基德的真实身份",
+      "onboard_time": 1724928622,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 164637,
+      "num": 164637,
+      "word": "2024LPL夏决",
+      "onboard_time": 1724928443,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 158688,
+      "num": 158688,
+      "word": "央行买入4000亿特别国债",
+      "onboard_time": 1724929461,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 157476,
@@ -2315,6 +2403,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 67923,
+      "num": 195940,
+      "word": "国风游戏就这么水灵灵地出现了",
+      "onboard_time": 1724929581,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 67710,
       "num": 109010,
       "word": "迪丽热巴马上进组",
@@ -2369,6 +2465,14 @@
       "onboard_time": 1724864419,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 62344,
+      "num": 677075,
+      "word": "什么是deepfake视频",
+      "onboard_time": 1724929461,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61204,
@@ -2499,6 +2603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44655,
+      "num": 506239,
+      "word": "律师解读收38万彩礼退婚不退钱",
+      "onboard_time": 1724929042,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44071,
       "num": 276139,
       "word": "张杰巡演抢妆间",
@@ -2544,6 +2656,14 @@
       "word": "人工智能自动驾驶法律责任怎么算",
       "onboard_time": 1724907982,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39772,
+      "num": 403745,
+      "word": "小区存在16年百米深坑已动工解决",
+      "onboard_time": 1724928681,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
