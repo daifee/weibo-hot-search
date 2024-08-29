@@ -1,6 +1,6 @@
 {
   "startTime": 1724862385087,
-  "endTime": 1724945006667,
+  "endTime": 1724945822602,
   "band_list": [
     {
       "raw_hot": 17944373,
@@ -227,12 +227,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1469204,
+      "num": 1342981,
+      "word": "暗访地下代孕市场",
+      "onboard_time": 1724938044,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1457710,
       "num": 1457710,
       "word": "医生因目睹病人惨状不再做取卵手术",
       "onboard_time": 1724911462,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1442453,
+      "num": 773569,
+      "word": "留给米哈游的时间不多了",
+      "onboard_time": 1724944166,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 1384692,
@@ -249,14 +265,6 @@
       "onboard_time": 1724901623,
       "rank": 3,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1342981,
-      "num": 1342981,
-      "word": "暗访地下代孕市场",
-      "onboard_time": 1724938044,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1342331,
@@ -419,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 928032,
+      "num": 928032,
+      "word": "包贝尔 素人博主",
+      "onboard_time": 1724943746,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 927638,
       "num": 927638,
       "word": "Deepfake",
@@ -491,6 +507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 860848,
+      "num": 611907,
+      "word": "余宇涵 失声",
+      "onboard_time": 1724944886,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 852247,
       "num": 852247,
       "word": "郑钦文美网",
@@ -536,14 +560,6 @@
       "word": "恋与制作人",
       "onboard_time": 1724943325,
       "rank": 9,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 773569,
-      "num": 773569,
-      "word": "留给米哈游的时间不多了",
-      "onboard_time": 1724944166,
-      "rank": 15,
       "category": "游戏"
     },
     {
@@ -609,14 +625,6 @@
       "onboard_time": 1724906004,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 711582,
-      "num": 711582,
-      "word": "包贝尔 素人博主",
-      "onboard_time": 1724943746,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 691984,
@@ -955,6 +963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 444070,
+      "num": 444070,
+      "word": "蒋奇明崔恩尔 势均力敌的爱情",
+      "onboard_time": 1724943265,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 443172,
       "num": 443172,
       "word": "女子点单等1分钟吼哭店员被老板拉黑",
@@ -969,14 +985,6 @@
       "onboard_time": 1724930360,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 436861,
-      "num": 436861,
-      "word": "蒋奇明崔恩尔 势均力敌的爱情",
-      "onboard_time": 1724943265,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 430118,
@@ -1041,6 +1049,14 @@
       "onboard_time": 1724941585,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 394990,
+      "num": 394990,
+      "word": "TFBOYS祝福三代师弟成团快乐",
+      "onboard_time": 1724944644,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 388221,
@@ -1315,22 +1331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 299046,
-      "num": 299046,
-      "word": "余宇涵 失声",
-      "onboard_time": 1724944886,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 298649,
-      "num": 298649,
-      "word": "TFBOYS祝福三代师弟成团快乐",
-      "onboard_time": 1724944644,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 297646,
       "num": 297646,
       "word": "心动的信号7素人官宣",
@@ -1475,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 275544,
+      "num": 275544,
+      "word": "一念永恒",
+      "onboard_time": 1724945185,
+      "rank": 40,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 271729,
       "num": 271729,
       "word": "香港为奥运健儿举行欢迎仪式",
@@ -1563,6 +1571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254804,
+      "num": 254804,
+      "word": "樊振东谈获得大满贯的心情",
+      "onboard_time": 1724945486,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254142,
       "num": 570433,
       "word": "起底青岛涉代孕公司",
@@ -1641,6 +1657,14 @@
       "onboard_time": 1724908403,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 247024,
+      "num": 247024,
+      "word": "绘旅人 爽文",
+      "onboard_time": 1724945063,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 246301,
@@ -1843,6 +1867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 226461,
+      "num": 538934,
+      "word": "她的子宫不能是商品",
+      "onboard_time": 1724945663,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226429,
       "num": 226429,
       "word": "第一个在飞机上度过爱豆生涯的人",
@@ -1873,6 +1905,14 @@
       "onboard_time": 1724903362,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 224251,
+      "num": 224251,
+      "word": "高考听力背后的男人找到了",
+      "onboard_time": 1724945784,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 221862,
@@ -2740,7 +2780,7 @@
     },
     {
       "raw_hot": 125103,
-      "num": 252563,
+      "num": 444167,
       "word": "汝州多数被清退者称没收到补发工资",
       "onboard_time": 1724940444,
       "rank": 46,
@@ -3259,8 +3299,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 45949,
-      "num": 448437,
+      "raw_hot": 46282,
+      "num": 449422,
       "word": "塔图姆联手东契奇",
       "onboard_time": 1724941945,
       "rank": 39,
