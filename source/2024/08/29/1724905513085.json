@@ -1,0 +1,410 @@
+{
+  "runTime": 1724905513085,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9796094,
+        "num": 9796094,
+        "word": "青岛代孕实验室",
+        "onboard_time": 1724903001,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2628115,
+        "num": 2628115,
+        "word": "余宇涵退团",
+        "onboard_time": 1724858665,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77665,
+        "num": 1807786,
+        "word": "巴黎再次飘起中国红",
+        "onboard_time": 1724888662,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1648893,
+        "num": 1648893,
+        "word": "局长15年受贿200余万连猪肉都收",
+        "onboard_time": 1724898922,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787453,
+        "num": 787453,
+        "word": "官方责令学校立即停用48人一间宿舍",
+        "onboard_time": 1724902042,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 661772,
+        "num": 661772,
+        "word": "生下4胞胎父亲回应质疑",
+        "onboard_time": 1724897121,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636938,
+        "num": 636938,
+        "word": "时代少年团 喝酒",
+        "onboard_time": 1724891365,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 631936,
+        "num": 631936,
+        "word": "黎深生日PV",
+        "onboard_time": 1724901623,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 432871,
+        "num": 432871,
+        "word": "孙颖莎樊振东潘展乐今日访港",
+        "onboard_time": 1724899100,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430734,
+        "num": 430734,
+        "word": "疑似文泰一受害女生发声",
+        "onboard_time": 1724895560,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2323621,
+        "num": 429991,
+        "word": "建议大家不要去吃自助小火锅",
+        "onboard_time": 1724904561,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1810010,
+        "num": 426329,
+        "word": "警方通报山东高密街头杀人案",
+        "onboard_time": 1724903661,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1217908,
+        "num": 423482,
+        "word": "我终于知道月经是蓝色的了",
+        "onboard_time": 1724902761,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1132373,
+        "num": 421601,
+        "word": "时代峰峻声明",
+        "onboard_time": 1724858665,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64112,
+        "num": 419917,
+        "word": "奥运冠军教练称住处遭入侵搬空",
+        "onboard_time": 1724904742,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66937,
+        "num": 416512,
+        "word": "男子酒后点燃3辆电动车获刑",
+        "onboard_time": 1724903661,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589729,
+        "num": 413177,
+        "word": "山东高密当街发生命案警方回应",
+        "onboard_time": 1724900361,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 522799,
+        "num": 409767,
+        "word": "山东高密命案嫌疑人已被采取强制措施",
+        "onboard_time": 1724902521,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 102622,
+        "num": 406807,
+        "word": "王俊凯 内娱带教老师",
+        "onboard_time": 1724905343,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24336,
+        "num": 405024,
+        "word": "有珠宝企业称曾被铁头碰瓷",
+        "onboard_time": 1724905403,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404144,
+        "num": 404144,
+        "word": "河南一女性在树林自缢身亡",
+        "onboard_time": 1724860946,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403766,
+        "num": 403766,
+        "word": "青岛代孕",
+        "onboard_time": 1724858245,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391673,
+        "num": 391673,
+        "word": "但拓下线",
+        "onboard_time": 1724904921,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369138,
+        "num": 369138,
+        "word": "销售每天打400个骚扰电话",
+        "onboard_time": 1724894361,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355138,
+        "num": 355138,
+        "word": "女子去印度旅游被一伙男子包围紧盯",
+        "onboard_time": 1724900001,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339929,
+        "num": 339929,
+        "word": "林诗栋上大学王楚钦神叮嘱",
+        "onboard_time": 1724901082,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332104,
+        "num": 332104,
+        "word": "晓卉能不能一直淘汰一直复活",
+        "onboard_time": 1724902400,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314182,
+        "num": 314182,
+        "word": "这三个事原来是同一天",
+        "onboard_time": 1724892204,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306806,
+        "num": 306806,
+        "word": "庞博文纹身",
+        "onboard_time": 1724900301,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175932,
+        "num": 306656,
+        "word": "给宠物看病比自己看病还贵",
+        "onboard_time": 1724903483,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170333,
+        "num": 306630,
+        "word": "海肠捞饭从默默无闻到全网爆火",
+        "onboard_time": 1724900060,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 306617,
+        "num": 306617,
+        "word": "直播65名内地奥运健儿访港",
+        "onboard_time": 1724901740,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302838,
+        "num": 302838,
+        "word": "黎深一往而深",
+        "onboard_time": 1724905466,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204687,
+        "num": 297725,
+        "word": "檀健次 你们就这么宣传我吗",
+        "onboard_time": 1724902161,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296777,
+        "num": 296777,
+        "word": "心动的信号7素人官宣",
+        "onboard_time": 1724902521,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291163,
+        "num": 291163,
+        "word": "咒术回战268话",
+        "onboard_time": 1724902400,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 282704,
+        "num": 282704,
+        "word": "刘耀文给宋亚轩挡酒",
+        "onboard_time": 1724898202,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282184,
+        "num": 282184,
+        "word": "女子点单等1分钟吼哭店员被老板拉黑",
+        "onboard_time": 1724904441,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271695,
+        "num": 271695,
+        "word": "南派三叔回应朱一龙不演吴邪",
+        "onboard_time": 1724894361,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269206,
+        "num": 269206,
+        "word": "边水往事大结局收官礼",
+        "onboard_time": 1724904921,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234897,
+        "num": 234897,
+        "word": "进一趟宠物医院两个月工资没了",
+        "onboard_time": 1724901440,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225213,
+        "num": 225213,
+        "word": "3成男性感染至少一种HPV",
+        "onboard_time": 1724903362,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 218095,
+        "num": 218095,
+        "word": "沙利文访华随行人员几乎都会说中文",
+        "onboard_time": 1724900060,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 217627,
+        "num": 217627,
+        "word": "刘端端二皇子拖鞋虽迟但到",
+        "onboard_time": 1724902101,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207726,
+        "num": 207726,
+        "word": "郭艾伦 下次别传球给我了",
+        "onboard_time": 1724889921,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203897,
+        "num": 203897,
+        "word": "豆得儿官宣分手",
+        "onboard_time": 1724890342,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 187608,
+        "num": 187608,
+        "word": "meovv全员公开",
+        "onboard_time": 1724900480,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186775,
+        "num": 186775,
+        "word": "乳糖不耐者的地狱",
+        "onboard_time": 1724899759,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 183652,
+        "num": 185790,
+        "word": "恋爱中的寄居蟹人格有多可怕",
+        "onboard_time": 1724904921,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185318,
+        "num": 185318,
+        "word": "还没开学就把班主任气离职了",
+        "onboard_time": 1724899042,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记格外重视亿万民众共同的精神家园#"
+    }
+  }
+}
