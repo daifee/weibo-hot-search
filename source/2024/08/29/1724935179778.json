@@ -1,0 +1,410 @@
+{
+  "runTime": 1724935179778,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2693875,
+        "num": 2693875,
+        "word": "多名韩女性在中国互联网求助",
+        "onboard_time": 1724931081,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2237355,
+        "num": 2237355,
+        "word": "小红书主页",
+        "onboard_time": 1724925921,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 18926,
+        "num": 927285,
+        "word": "我国网民规模近11亿人",
+        "onboard_time": 1724897361,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 905789,
+        "num": 905789,
+        "word": "WTT中国大满贯双打名单",
+        "onboard_time": 1724930540,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 890448,
+        "num": 890448,
+        "word": "韩国 换脸",
+        "onboard_time": 1724919022,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 873612,
+        "num": 873612,
+        "word": "老人走了 家就散了",
+        "onboard_time": 1724928982,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 873318,
+        "num": 873318,
+        "word": "孙颖莎真听劝",
+        "onboard_time": 1724922439,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 691793,
+        "num": 691793,
+        "word": "赵露思养狗人的条件反射",
+        "onboard_time": 1724932101,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 672972,
+        "num": 672972,
+        "word": "藏海花尺度",
+        "onboard_time": 1724926581,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 602086,
+        "num": 602086,
+        "word": "中国美院回应教师涉嫌犯罪",
+        "onboard_time": 1724932822,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 885786,
+        "num": 596997,
+        "word": "莎头 大合照全过程",
+        "onboard_time": 1724933600,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1103633,
+        "num": 567064,
+        "word": "青岛代孕实验室",
+        "onboard_time": 1724903001,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505368,
+        "num": 505368,
+        "word": "老农干活太猛致心脏起搏器跳出体外",
+        "onboard_time": 1724923282,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498530,
+        "num": 498530,
+        "word": "建议大家不要去吃自助小火锅",
+        "onboard_time": 1724904561,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 316711,
+        "num": 445782,
+        "word": "官方通报女子高楼撒现金后坠亡",
+        "onboard_time": 1724927241,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439395,
+        "num": 439395,
+        "word": "李纯说不会宣扬和马頔状态",
+        "onboard_time": 1724930360,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435367,
+        "num": 435367,
+        "word": "儿子跟妈妈摆摊10天收入10000元",
+        "onboard_time": 1724933903,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433091,
+        "num": 433091,
+        "word": "欧阳娣娣体操难度系数",
+        "onboard_time": 1724934682,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 423202,
+        "num": 423202,
+        "word": "曾黎家里有1500斤自制酵素",
+        "onboard_time": 1724912422,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60540,
+        "num": 380333,
+        "word": "海景房遇冷的三个原因",
+        "onboard_time": 1724934923,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372058,
+        "num": 372058,
+        "word": "女子花2万割双眼皮控诉成了悲伤蛙",
+        "onboard_time": 1724915001,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322696,
+        "num": 322696,
+        "word": "韩国新型性暴力产品层出不穷",
+        "onboard_time": 1724926821,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276072,
+        "num": 321132,
+        "word": "国防部警告台独",
+        "onboard_time": 1724930002,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 320824,
+        "num": 320824,
+        "word": "刘亚仁涉嫌性侵同性接受警方调查",
+        "onboard_time": 1724924121,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318148,
+        "num": 318148,
+        "word": "奥运金牌团访港直播",
+        "onboard_time": 1724915421,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317224,
+        "num": 317224,
+        "word": "试管龙凤胎产后6个月却自怀了",
+        "onboard_time": 1724916800,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 306784,
+        "num": 306784,
+        "word": "这个猫水碗有点辱猫了",
+        "onboard_time": 1724933303,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255608,
+        "num": 277425,
+        "word": "韩国造型师给曾黎做的妆发",
+        "onboard_time": 1724934083,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 251198,
+        "num": 276619,
+        "word": "易烊千玺谈为何做演员",
+        "onboard_time": 1724933961,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201959,
+        "num": 276201,
+        "word": "国防部用黑神话悟空回应美菲南海挑衅",
+        "onboard_time": 1724934861,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 276017,
+        "num": 276017,
+        "word": "樊振东好意气风发",
+        "onboard_time": 1724931861,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269619,
+        "num": 269619,
+        "word": "女性一生只能排出300多个卵子",
+        "onboard_time": 1724933541,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 253951,
+        "num": 253951,
+        "word": "中国美术学院",
+        "onboard_time": 1724934261,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240766,
+        "num": 240766,
+        "word": "韩国总统尹锡悦就Deepfake发声",
+        "onboard_time": 1724931321,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239373,
+        "num": 239373,
+        "word": "时代峰峻报案了",
+        "onboard_time": 1724925799,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41225,
+        "num": 238770,
+        "word": "考赛照有什么用",
+        "onboard_time": 1724932941,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 238469,
+        "num": 238469,
+        "word": "跟妈妈吐槽工作想辞职被整破防了",
+        "onboard_time": 1724930721,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100468,
+        "num": 238000,
+        "word": "国风游戏就这么水灵灵地出现了",
+        "onboard_time": 1724929581,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237550,
+        "num": 237550,
+        "word": "考编成功后在汝州疾控中心假装上班",
+        "onboard_time": 1724933061,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231823,
+        "num": 231823,
+        "word": "香港学生见王楚钦孙颖莎前开心到失眠",
+        "onboard_time": 1724932403,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229590,
+        "num": 229590,
+        "word": "网购方便面女款比男款面饼小一半",
+        "onboard_time": 1724929522,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229468,
+        "num": 229468,
+        "word": "孙颖莎在国外不好意思说英语",
+        "onboard_time": 1724932941,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220876,
+        "num": 220876,
+        "word": "嗑到了先婚后爱的帝后cp",
+        "onboard_time": 1724931621,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205134,
+        "num": 205134,
+        "word": "警方回应中国美院教授被传强奸女生",
+        "onboard_time": 1724933600,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198937,
+        "num": 198937,
+        "word": "于适参演电影镖人",
+        "onboard_time": 1724934501,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195248,
+        "num": 195248,
+        "word": "考古的风吹到了王一博",
+        "onboard_time": 1724933303,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194614,
+        "num": 194614,
+        "word": "全红婵就这么水灵灵地站起来了",
+        "onboard_time": 1724924602,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194093,
+        "num": 194093,
+        "word": "余宇涵退团",
+        "onboard_time": 1724858665,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58290,
+        "num": 191672,
+        "word": "黑神话悟空穿搭",
+        "onboard_time": 1724931681,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191363,
+        "num": 191363,
+        "word": "唯森单场MVP",
+        "onboard_time": 1724934562,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华文化是各民族文化的集大成#"
+    }
+  }
+}
