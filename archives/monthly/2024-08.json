@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1724938628332,
+  "endTime": 1724941261167,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -153,6 +153,14 @@
       "onboard_time": 1722685165,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17944373,
+      "num": 17944373,
+      "word": "绘旅人开战痞老板",
+      "onboard_time": 1724938523,
+      "rank": 0,
+      "category": "游戏"
     },
     {
       "raw_hot": 17137415,
@@ -1867,14 +1875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 4014442,
-      "num": 4014442,
-      "word": "绘旅人开战痞老板",
-      "onboard_time": 1724938523,
-      "rank": 0,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 4009441,
       "num": 4009441,
       "word": "大妈狂买1斤黄金不挑款店员报警",
@@ -3217,6 +3217,14 @@
       "onboard_time": 1723169121,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2927639,
+      "num": 2927639,
+      "word": "痞老板",
+      "onboard_time": 1724800576,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 2925049,
@@ -6825,6 +6833,14 @@
       "onboard_time": 1724692997,
       "rank": 11,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 1838523,
+      "num": 1838523,
+      "word": "我爸在网易上班",
+      "onboard_time": 1724938463,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 1833381,
@@ -11619,6 +11635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1258268,
+      "num": 681998,
+      "word": "腾讯游戏",
+      "onboard_time": 1724939485,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1257709,
       "num": 1257709,
       "word": "光与夜之恋七夕卡面",
@@ -15219,6 +15243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 990344,
+      "num": 990344,
+      "word": "俄罗斯前反恐部门负责人被肉噎死",
+      "onboard_time": 1724939184,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 989282,
       "num": 989282,
       "word": "张本智和 下次我打好了可能又要被说",
@@ -16433,6 +16465,14 @@
       "onboard_time": 1723900521,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 920805,
+      "num": 830888,
+      "word": "宣璐艺术体操冠军",
+      "onboard_time": 1724937444,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 920402,
@@ -18387,6 +18427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 808675,
+      "num": 808675,
+      "word": "全红婵霍启刚热聊",
+      "onboard_time": 1724936182,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 807157,
       "num": 807157,
       "word": "带77万现金买房被抢第二天才报警",
@@ -19329,14 +19377,6 @@
       "onboard_time": 1723813041,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 768510,
-      "num": 768510,
-      "word": "全红婵霍启刚热聊",
-      "onboard_time": 1724936182,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 768481,
@@ -21777,6 +21817,14 @@
       "onboard_time": 1722603627,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 664501,
+      "num": 664501,
+      "word": "光与夜之恋",
+      "onboard_time": 1722572844,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 664426,
@@ -25297,14 +25345,6 @@
       "onboard_time": 1723048818,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 556726,
-      "num": 830888,
-      "word": "宣璐艺术体操冠军",
-      "onboard_time": 1724937444,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 556243,
@@ -29089,6 +29129,14 @@
       "onboard_time": 1723886060,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 457996,
+      "num": 673201,
+      "word": "暗访地下代孕市场",
+      "onboard_time": 1724938044,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 457906,
@@ -33467,6 +33515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 383356,
+      "num": 436173,
+      "word": "乙游法务发回旋镖diss派克特",
+      "onboard_time": 1724941103,
+      "rank": 26,
+      "category": "音乐,游戏"
+    },
+    {
       "raw_hot": 383296,
       "num": 612332,
       "word": "易烊千玺主持晚会",
@@ -35675,6 +35731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 352428,
+      "num": 352428,
+      "word": "世界之外",
+      "onboard_time": 1722925945,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 352296,
       "num": 352296,
       "word": "八月狗屎运最旺的星座",
@@ -35937,6 +36001,14 @@
       "onboard_time": 1722480864,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 350324,
+      "num": 405914,
+      "word": "邢菲换风格了",
+      "onboard_time": 1724940925,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 350321,
@@ -36491,6 +36563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 343157,
+      "num": 1109195,
+      "word": "中国美术学院",
+      "onboard_time": 1724934261,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343126,
       "num": 343126,
       "word": "老孙头 余生请多游泳",
@@ -36913,14 +36993,6 @@
       "onboard_time": 1724581760,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 338457,
-      "num": 1109195,
-      "word": "中国美术学院",
-      "onboard_time": 1724934261,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 338302,
@@ -38083,6 +38155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 325896,
+      "num": 325896,
+      "word": "孙颖莎全红婵成香港新打卡点",
+      "onboard_time": 1724940204,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 325870,
       "num": 136710,
       "word": "李佩霞",
@@ -38409,6 +38489,14 @@
       "onboard_time": 1724303900,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 322884,
+      "num": 586883,
+      "word": "连云港一女子在公司参加酒局后身亡",
+      "onboard_time": 1724936542,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322638,
@@ -39032,6 +39120,14 @@
       "word": "邯郸两医生过度用呼吸机致患者死亡",
       "onboard_time": 1722742224,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316377,
+      "num": 316377,
+      "word": "脑梗男子贷款60万打赏女主播当榜一",
+      "onboard_time": 1724940626,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -41843,14 +41939,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 292919,
-      "num": 292919,
-      "word": "光与夜之恋",
-      "onboard_time": 1722572844,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 292903,
       "num": 542215,
       "word": "花小龙王老师官宣",
@@ -42545,14 +42633,6 @@
       "onboard_time": 1722920849,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 288216,
-      "num": 288216,
-      "word": "世界之外",
-      "onboard_time": 1722925945,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 288142,
@@ -43497,6 +43577,14 @@
       "onboard_time": 1722848724,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 282119,
+      "num": 380397,
+      "word": "吴彦姝否认担任黑神话悟空脸模",
+      "onboard_time": 1724938944,
+      "rank": 29,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 282118,
@@ -49363,6 +49451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241932,
+      "num": 241932,
+      "word": "双鱼座会周期性的疲倦",
+      "onboard_time": 1724940804,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 241928,
       "num": 241928,
       "word": "问界M7新车开到海滩结果被淹",
@@ -49505,6 +49601,14 @@
       "onboard_time": 1724427441,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 240910,
+      "num": 240910,
+      "word": "马龙到底说了什么",
+      "onboard_time": 1724940145,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 240858,
@@ -50731,14 +50835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 233921,
-      "num": 233921,
-      "word": "我爸在网易上班",
-      "onboard_time": 1724938463,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 233908,
       "num": 211859,
       "word": "代号鸢新密探",
@@ -51433,6 +51529,14 @@
       "onboard_time": 1722677721,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 230406,
+      "num": 230406,
+      "word": "印度女性自杀率激增",
+      "onboard_time": 1724939784,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230385,
@@ -53592,14 +53696,6 @@
       "word": "严浩翔回复生日祝福",
       "onboard_time": 1723808059,
       "rank": 45,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 220210,
-      "num": 220210,
-      "word": "痞老板",
-      "onboard_time": 1724800576,
-      "rank": 38,
       "category": "艺人"
     },
     {
@@ -63960,14 +64056,6 @@
       "word": "居民吐槽回家开门还得看广告",
       "onboard_time": 1723223179,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 185735,
-      "num": 586883,
-      "word": "连云港一女子在公司参加酒局后身亡",
-      "onboard_time": 1724936542,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -79715,6 +79803,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 71909,
+      "num": 670838,
+      "word": "高圆圆看展造型",
+      "onboard_time": 1724938404,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 71866,
       "num": 432893,
       "word": "哈马斯新领导人曾在以色列监狱度过23年",
@@ -82995,6 +83091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51635,
+      "num": 666899,
+      "word": "女子求复合找大师做法被骗7万",
+      "onboard_time": 1724940085,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51573,
       "num": 917667,
       "word": "英国女记者直播时车胎被抗议者扎破",
@@ -85571,6 +85675,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 36951,
+      "num": 328805,
+      "word": "谁说吗喽不是我们的精神外衣",
+      "onboard_time": 1724940384,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 36835,
       "num": 914139,
       "word": "李雪琴喊88VIP刷火箭上太空",
@@ -86131,6 +86243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33326,
+      "num": 229718,
+      "word": "熬夜玩黑神话的嘻嘻和不嘻嘻",
+      "onboard_time": 1724937624,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 33275,
       "num": 648861,
       "word": "完善制度才能不让无偿献血者心凉",
@@ -86600,6 +86720,14 @@
       "word": "全国秋粮面积稳中有增",
       "onboard_time": 1723207163,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30701,
+      "num": 664838,
+      "word": "开学季的车站是眼泪味的",
+      "onboard_time": 1724940266,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -87283,14 +87411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26534,
-      "num": 210730,
-      "word": "高圆圆看展造型",
-      "onboard_time": 1724938404,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 26476,
       "num": 39376,
       "word": "周深蹦苗迪就很家乡味",
@@ -87545,6 +87665,14 @@
       "onboard_time": 1722886272,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24529,
+      "num": 676309,
+      "word": "度假冲浪被摄影师直播给多人观看",
+      "onboard_time": 1724940744,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24513,
@@ -88041,14 +88169,6 @@
       "onboard_time": 1723276940,
       "rank": 44,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 19932,
-      "num": 210645,
-      "word": "熬夜玩黑神话的嘻嘻和不嘻嘻",
-      "onboard_time": 1724937624,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 19867,

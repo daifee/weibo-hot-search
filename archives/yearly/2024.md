@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/08/29 21:37:08
+本榜单时间：2024/01/01 00:21:05 ~ 2024/08/29 22:21:01
 </p>
 </blockquote>
 <p>
@@ -197,6 +197,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BA%A2%E8%AF%B7%E6%88%98%E6%AD%8C%E6%89%8B%23" target="weibo">
 韩红请战歌手（热度：17990162）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%98%E6%97%85%E4%BA%BA%E5%BC%80%E6%88%98%E7%97%9E%E8%80%81%E6%9D%BF%23" target="weibo">
+绘旅人开战痞老板（热度：17944373）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%93%E6%93%8D%E7%94%B7%E5%AD%90%E5%8F%8C%E6%9D%A0%E5%86%B3%E8%B5%9B%23" target="weibo">
 体操男子双杠决赛（热度：7193149）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23EDG%E5%85%A8%E7%90%83%E5%86%A0%E5%86%9B%E8%B5%9B%E5%A4%BA%E5%86%A0%23" target="weibo">
-EDG全球冠军赛夺冠（热度：7188725）
 </a>
 </li>
 
