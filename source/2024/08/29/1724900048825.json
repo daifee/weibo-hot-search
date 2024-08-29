@@ -1,0 +1,410 @@
+{
+  "runTime": 1724900048825,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2951819,
+        "num": 2951819,
+        "word": "余宇涵退团",
+        "onboard_time": 1724858665,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1126696,
+        "num": 1126696,
+        "word": "销售每天打400个骚扰电话",
+        "onboard_time": 1724894361,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28602,
+        "num": 1061604,
+        "word": "1图帮你告别开学综合征",
+        "onboard_time": 1724851224,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1052766,
+        "num": 1052766,
+        "word": "时代少年团 喝酒",
+        "onboard_time": 1724891365,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 938543,
+        "num": 938543,
+        "word": "生下4胞胎父亲回应质疑",
+        "onboard_time": 1724897121,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497322,
+        "num": 497322,
+        "word": "大学生买房贷款失败退2万定金被驳回",
+        "onboard_time": 1724888662,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 762237,
+        "num": 470500,
+        "word": "疑似文泰一受害女生发声",
+        "onboard_time": 1724895560,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 601227,
+        "num": 467207,
+        "word": "南派三叔回应朱一龙不演吴邪",
+        "onboard_time": 1724894361,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 413334,
+        "num": 413334,
+        "word": "孙颖莎樊振东潘展乐今日访港",
+        "onboard_time": 1724899100,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 378949,
+        "num": 378949,
+        "word": "局长15年受贿200余万连猪肉都收",
+        "onboard_time": 1724898922,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1446971,
+        "num": 378875,
+        "word": "时代峰峻声明",
+        "onboard_time": 1724858665,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 801920,
+        "num": 378693,
+        "word": "青岛代孕",
+        "onboard_time": 1724858245,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637057,
+        "num": 378372,
+        "word": "男方举牌声讨女方退还34万彩礼钱",
+        "onboard_time": 1724891845,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386176,
+        "num": 378233,
+        "word": "重庆多地官宣延期开学",
+        "onboard_time": 1724865257,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46450,
+        "num": 377999,
+        "word": "山东又一座城市因美食而出名",
+        "onboard_time": 1724896821,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 564929,
+        "num": 377788,
+        "word": "河南一女性在树林自缢身亡",
+        "onboard_time": 1724860946,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414657,
+        "num": 377478,
+        "word": "豆得儿官宣分手",
+        "onboard_time": 1724890342,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 377387,
+        "num": 377387,
+        "word": "还原献血8次不能优先用血事件真相",
+        "onboard_time": 1724857524,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367290,
+        "num": 367290,
+        "word": "郭艾伦 下次别传球给我了",
+        "onboard_time": 1724889921,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341590,
+        "num": 341590,
+        "word": "刘耀文给宋亚轩挡酒",
+        "onboard_time": 1724898202,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 584062,
+        "num": 335696,
+        "word": "这三个事原来是同一天",
+        "onboard_time": 1724892204,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348544,
+        "num": 326411,
+        "word": "工作人员从鹈鹕嘴里掏出同事",
+        "onboard_time": 1724895680,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241638,
+        "num": 241638,
+        "word": "马頔为李纯减重20斤",
+        "onboard_time": 1724886376,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230786,
+        "num": 230786,
+        "word": "雪迷宫定档",
+        "onboard_time": 1724895920,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228640,
+        "num": 228640,
+        "word": "原来电梯神图是这样出片的",
+        "onboard_time": 1724869454,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213760,
+        "num": 213760,
+        "word": "郑钦文一场比赛轰出20记Ace",
+        "onboard_time": 1724888179,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193929,
+        "num": 193929,
+        "word": "鹭卓射十环 不秀等于没射",
+        "onboard_time": 1724899100,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192223,
+        "num": 192223,
+        "word": "一次不戴头盔换来终生内向",
+        "onboard_time": 1724893105,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190958,
+        "num": 190958,
+        "word": "黑神话让游戏主播先富起来了",
+        "onboard_time": 1724897180,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 63580,
+        "num": 190579,
+        "word": "户外赛道是于适的统治区",
+        "onboard_time": 1724899221,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190287,
+        "num": 190287,
+        "word": "郑钦文美网",
+        "onboard_time": 1724867954,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166916,
+        "num": 188568,
+        "word": "冒充孙子诈骗团伙被端",
+        "onboard_time": 1724895085,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187554,
+        "num": 187554,
+        "word": "还没开学就把班主任气离职了",
+        "onboard_time": 1724899042,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180563,
+        "num": 180563,
+        "word": "登陆少年五人出道博文",
+        "onboard_time": 1724891123,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178947,
+        "num": 178947,
+        "word": "原来运动后皮肤真的能变好",
+        "onboard_time": 1724860110,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 176866,
+        "num": 176866,
+        "word": "官方通报医院要求患者消费达七千",
+        "onboard_time": 1724896881,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166175,
+        "num": 166175,
+        "word": "被茶卡盐湖马卡龙色系晚霞美到了",
+        "onboard_time": 1724894062,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 159213,
+        "num": 159213,
+        "word": "老人30万金饰存单藏米袋被子女扔掉",
+        "onboard_time": 1724892745,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156620,
+        "num": 156620,
+        "word": "黑脸的monkey banana",
+        "onboard_time": 1724897421,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156191,
+        "num": 156191,
+        "word": "代号鸢池子",
+        "onboard_time": 1724895801,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156007,
+        "num": 156007,
+        "word": "短短一年而已好像变了一个人",
+        "onboard_time": 1724889261,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152167,
+        "num": 152167,
+        "word": "女子去印度旅游被一伙男子包围紧盯",
+        "onboard_time": 1724900001,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151666,
+        "num": 151666,
+        "word": "中国的能源转型白皮书发布",
+        "onboard_time": 1724899100,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151226,
+        "num": 151226,
+        "word": "徐梦洁脏辫跳街舞好A",
+        "onboard_time": 1724898141,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150926,
+        "num": 150926,
+        "word": "828内韩娱事变",
+        "onboard_time": 1724891304,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147944,
+        "num": 147944,
+        "word": "乳糖不耐者的地狱",
+        "onboard_time": 1724899759,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 147320,
+        "num": 147320,
+        "word": "国家队运动员今日访港",
+        "onboard_time": 1724897361,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142523,
+        "num": 142523,
+        "word": "盲盒旅行局阵容官宣",
+        "onboard_time": 1724899941,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141853,
+        "num": 141853,
+        "word": "心疼儿媳公婆偷偷买了40克金手镯补偿",
+        "onboard_time": 1724853624,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141823,
+        "num": 141823,
+        "word": "莫雷加德晒与樊振东合影",
+        "onboard_time": 1724897841,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习新语#"
+    }
+  }
+}

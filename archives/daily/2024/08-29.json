@@ -1,6 +1,6 @@
 {
   "startTime": 1724862385087,
-  "endTime": 1724899407260,
+  "endTime": 1724900048825,
   "band_list": [
     {
       "raw_hot": 16324978,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1342331,
-      "num": 980633,
+      "num": 1052766,
       "word": "时代少年团 喝酒",
       "onboard_time": 1724891365,
       "rank": 3,
@@ -59,8 +59,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1040996,
-      "num": 1040996,
+      "raw_hot": 1126696,
+      "num": 1126696,
       "word": "销售每天打400个骚扰电话",
       "onboard_time": 1724894361,
       "rank": 36,
@@ -139,7 +139,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 715794,
+      "raw_hot": 762237,
       "num": 509597,
       "word": "疑似文泰一受害女生发声",
       "onboard_time": 1724895560,
@@ -164,11 +164,19 @@
     },
     {
       "raw_hot": 646240,
-      "num": 463400,
+      "num": 467207,
       "word": "南派三叔回应朱一龙不演吴邪",
       "onboard_time": 1724894361,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 637057,
+      "num": 532009,
+      "word": "男方举牌声讨女方退还34万彩礼钱",
+      "onboard_time": 1724891845,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 631243,
@@ -193,14 +201,6 @@
       "onboard_time": 1724895202,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 591002,
-      "num": 532009,
-      "word": "男方举牌声讨女方退还34万彩礼钱",
-      "onboard_time": 1724891845,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 588415,
@@ -267,7 +267,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 368189,
+      "raw_hot": 413334,
+      "num": 413334,
+      "word": "孙颖莎樊振东潘展乐今日访港",
+      "onboard_time": 1724899100,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 386176,
       "num": 563728,
       "word": "重庆多地官宣延期开学",
       "onboard_time": 1724865257,
@@ -275,8 +283,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 364548,
-      "num": 364548,
+      "raw_hot": 378949,
+      "num": 378949,
+      "word": "局长15年受贿200余万连猪肉都收",
+      "onboard_time": 1724898922,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367290,
+      "num": 367290,
       "word": "郭艾伦 下次别传球给我了",
       "onboard_time": 1724889921,
       "rank": 19,
@@ -291,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348544,
+      "num": 326411,
+      "word": "工作人员从鹈鹕嘴里掏出同事",
+      "onboard_time": 1724895680,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342124,
       "num": 342124,
       "word": "原来电梯神图是这样出片的",
@@ -299,12 +323,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 333342,
-      "num": 249191,
-      "word": "工作人员从鹈鹕嘴里掏出同事",
-      "onboard_time": 1724895680,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 341590,
+      "num": 341590,
+      "word": "刘耀文给宋亚轩挡酒",
+      "onboard_time": 1724898202,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 307758,
@@ -339,28 +363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 280641,
-      "num": 280641,
-      "word": "刘耀文给宋亚轩挡酒",
-      "onboard_time": 1724898202,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 265126,
       "num": 443982,
       "word": "原来运动后皮肤真的能变好",
       "onboard_time": 1724860110,
       "rank": 25,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 251525,
-      "num": 251525,
-      "word": "孙颖莎樊振东潘展乐今日访港",
-      "onboard_time": 1724899100,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 249880,
@@ -403,8 +411,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 225800,
-      "num": 225800,
+      "raw_hot": 230786,
+      "num": 230786,
       "word": "雪迷宫定档",
       "onboard_time": 1724895920,
       "rank": 37,
@@ -539,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187554,
+      "num": 187554,
+      "word": "还没开学就把班主任气离职了",
+      "onboard_time": 1724899042,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 183087,
       "num": 183087,
       "word": "上海街头的松弛感真的让人紧张",
@@ -555,11 +571,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 179231,
-      "num": 179231,
-      "word": "局长15年受贿200余万连猪肉都收",
-      "onboard_time": 1724898922,
-      "rank": 37,
+      "raw_hot": 176866,
+      "num": 176866,
+      "word": "官方通报医院要求患者消费达七千",
+      "onboard_time": 1724896881,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -603,14 +619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170714,
-      "num": 170714,
-      "word": "官方通报医院要求患者消费达七千",
-      "onboard_time": 1724896881,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170313,
       "num": 441286,
       "word": "被王一博抱着也不敢啊",
@@ -625,6 +633,22 @@
       "onboard_time": 1724895983,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166916,
+      "num": 246910,
+      "word": "冒充孙子诈骗团伙被端",
+      "onboard_time": 1724895085,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166175,
+      "num": 166175,
+      "word": "被茶卡盐湖马卡龙色系晚霞美到了",
+      "onboard_time": 1724894062,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 163370,
@@ -643,20 +667,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 156620,
+      "num": 156620,
+      "word": "黑脸的monkey banana",
+      "onboard_time": 1724897421,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155452,
       "num": 439253,
       "word": "最佳减重运动第一名是跳绳",
       "onboard_time": 1724856266,
       "rank": 30,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 155309,
-      "num": 155309,
-      "word": "被茶卡盐湖马卡龙色系晚霞美到了",
-      "onboard_time": 1724894062,
-      "rank": 48,
-      "category": "旅游"
     },
     {
       "raw_hot": 155016,
@@ -675,12 +699,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152110,
-      "num": 152110,
-      "word": "黑脸的monkey banana",
-      "onboard_time": 1724897421,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 152167,
+      "num": 152167,
+      "word": "女子去印度旅游被一伙男子包围紧盯",
+      "onboard_time": 1724900001,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151361,
@@ -699,12 +723,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148992,
-      "num": 246910,
-      "word": "冒充孙子诈骗团伙被端",
-      "onboard_time": 1724895085,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 147944,
+      "num": 147944,
+      "word": "乳糖不耐者的地狱",
+      "onboard_time": 1724899759,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 146212,
@@ -721,6 +745,14 @@
       "onboard_time": 1724839583,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142523,
+      "num": 142523,
+      "word": "盲盒旅行局阵容官宣",
+      "onboard_time": 1724899941,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 141853,
@@ -955,6 +987,14 @@
       "category": "国内时政,国外时政"
     },
     {
+      "raw_hot": 63580,
+      "num": 190579,
+      "word": "户外赛道是于适的统治区",
+      "onboard_time": 1724899221,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62603,
       "num": 313589,
       "word": "刘宇射箭镜头",
@@ -964,7 +1004,7 @@
     },
     {
       "raw_hot": 60305,
-      "num": 330976,
+      "num": 377999,
       "word": "山东又一座城市因美食而出名",
       "onboard_time": 1724896821,
       "rank": 14,
@@ -1027,14 +1067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43872,
-      "num": 153049,
-      "word": "户外赛道是于适的统治区",
-      "onboard_time": 1724899221,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 43661,
       "num": 225055,
       "word": "威尼斯电影节",
@@ -1084,7 +1116,7 @@
     },
     {
       "raw_hot": 30674,
-      "num": 982358,
+      "num": 1061604,
       "word": "1图帮你告别开学综合征",
       "onboard_time": 1724851224,
       "rank": 2,
