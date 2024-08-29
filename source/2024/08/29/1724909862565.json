@@ -1,0 +1,410 @@
+{
+  "runTime": 1724909862565,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9275136,
+        "num": 9275136,
+        "word": "青岛代孕实验室",
+        "onboard_time": 1724903001,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2077114,
+        "num": 2077114,
+        "word": "余宇涵退团",
+        "onboard_time": 1724858665,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34191,
+        "num": 1323137,
+        "word": "巴黎再次飘起中国红",
+        "onboard_time": 1724888662,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 968485,
+        "num": 968485,
+        "word": "黄子韬 艺洋OK",
+        "onboard_time": 1724908701,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 786792,
+        "num": 786792,
+        "word": "官方责令学校立即停用48人一间宿舍",
+        "onboard_time": 1724902042,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 721097,
+        "num": 721097,
+        "word": "河南电视台暗访代孕",
+        "onboard_time": 1724906004,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 964165,
+        "num": 690506,
+        "word": "颜怡颜悦 男记者",
+        "onboard_time": 1724906365,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 613607,
+        "num": 613607,
+        "word": "局长15年受贿200余万连猪肉都收",
+        "onboard_time": 1724898922,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101117,
+        "num": 603632,
+        "word": "官方回应男方声讨女方退还34万彩礼",
+        "onboard_time": 1724908403,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594357,
+        "num": 594357,
+        "word": "边水往事 亡夫回忆录",
+        "onboard_time": 1724906966,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1550978,
+        "num": 592505,
+        "word": "建议大家不要去吃自助小火锅",
+        "onboard_time": 1724904561,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 885022,
+        "num": 591450,
+        "word": "我终于知道月经是蓝色的了",
+        "onboard_time": 1724902761,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 460331,
+        "num": 589168,
+        "word": "奥运冠军教练称住处遭入侵搬空",
+        "onboard_time": 1724904742,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26846,
+        "num": 586892,
+        "word": "64岁老人与火锅店老板下河救人牺牲",
+        "onboard_time": 1724909002,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586877,
+        "num": 586877,
+        "word": "但拓下线",
+        "onboard_time": 1724904921,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 759157,
+        "num": 550889,
+        "word": "时代峰峻声明",
+        "onboard_time": 1724858665,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 741436,
+        "num": 527113,
+        "word": "警方通报山东高密街头杀人案",
+        "onboard_time": 1724903661,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 480895,
+        "num": 480895,
+        "word": "SM回应文泰一性暴力案件",
+        "onboard_time": 1724907324,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443172,
+        "num": 443172,
+        "word": "女子点单等1分钟吼哭店员被老板拉黑",
+        "onboard_time": 1724904441,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408905,
+        "num": 408905,
+        "word": "河南一女性在树林自缢身亡",
+        "onboard_time": 1724860946,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473214,
+        "num": 405767,
+        "word": "婚礼当天睡过头了",
+        "onboard_time": 1724907505,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 371212,
+        "num": 371212,
+        "word": "山东高密当街发生命案警方回应",
+        "onboard_time": 1724900361,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 52095,
+        "num": 369175,
+        "word": "马卡龙色系平板戳到谁了",
+        "onboard_time": 1724905584,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 315531,
+        "num": 365184,
+        "word": "生下4胞胎父亲回应质疑",
+        "onboard_time": 1724897121,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92657,
+        "num": 363436,
+        "word": "王俊凯 内娱带教老师",
+        "onboard_time": 1724905343,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 39825,
+        "num": 360687,
+        "word": "人工智能自动驾驶法律责任怎么算",
+        "onboard_time": 1724907982,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358260,
+        "num": 358260,
+        "word": "全红婵站在潘展乐马龙中间",
+        "onboard_time": 1724908701,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180667,
+        "num": 334886,
+        "word": "青岛涉代孕公司主营试管婴儿咨询",
+        "onboard_time": 1724906545,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334099,
+        "num": 334099,
+        "word": "男rapper炮轰乙游为啥成了笑话",
+        "onboard_time": 1724906304,
+        "rank": 28,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 331982,
+        "num": 331982,
+        "word": "印度学生称女生在强奸案里也有错",
+        "onboard_time": 1724908282,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72524,
+        "num": 328996,
+        "word": "Echo 无论牌多烂都能打",
+        "onboard_time": 1724909603,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327030,
+        "num": 327030,
+        "word": "边水往事大结局收官礼",
+        "onboard_time": 1724904921,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326396,
+        "num": 326396,
+        "word": "黄朔 清白有了面子没了",
+        "onboard_time": 1724908764,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316394,
+        "num": 316394,
+        "word": "黎深生日PV",
+        "onboard_time": 1724901623,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 315023,
+        "num": 315023,
+        "word": "宿傩这就死了",
+        "onboard_time": 1724906125,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 290924,
+        "num": 290924,
+        "word": "樊振东等65名运动员抵达香港",
+        "onboard_time": 1724905705,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289526,
+        "num": 289526,
+        "word": "医生称三胎以上原则上建议减胎",
+        "onboard_time": 1724909182,
+        "rank": 36,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 266018,
+        "num": 266018,
+        "word": "庞博文纹身",
+        "onboard_time": 1724900301,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265333,
+        "num": 265333,
+        "word": "时代少年团 喝酒",
+        "onboard_time": 1724891365,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248038,
+        "num": 262501,
+        "word": "南派三叔回应网友让王一博演盗墓笔记",
+        "onboard_time": 1724908403,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260845,
+        "num": 260845,
+        "word": "特朗普警告扎克伯格别再两面三刀",
+        "onboard_time": 1724906604,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 11557,
+        "num": 257355,
+        "word": "谁到山东都逃不过考试",
+        "onboard_time": 1724909303,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 256434,
+        "num": 256434,
+        "word": "猫丢了一个月饿成皮包骨了",
+        "onboard_time": 1724908701,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239783,
+        "num": 239783,
+        "word": "大钱 前夫哥",
+        "onboard_time": 1724909663,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 233993,
+        "num": 233993,
+        "word": "女子去印度旅游被一伙男子包围紧盯",
+        "onboard_time": 1724900001,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220573,
+        "num": 220573,
+        "word": "卢昱晓 清冷感",
+        "onboard_time": 1724909603,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210056,
+        "num": 210056,
+        "word": "孙颖莎樊振东潘展乐今日访港",
+        "onboard_time": 1724899100,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207056,
+        "num": 207056,
+        "word": "生下4胞胎向社会求助有错吗",
+        "onboard_time": 1724909843,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199920,
+        "num": 199920,
+        "word": "起底青岛涉代孕公司",
+        "onboard_time": 1724905764,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199731,
+        "num": 199731,
+        "word": "山东高密命案嫌疑人已被采取强制措施",
+        "onboard_time": 1724902521,
+        "rank": 49,
+        "category": "社会负面"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记格外重视亿万民众共同的精神家园#"
+    }
+  }
+}

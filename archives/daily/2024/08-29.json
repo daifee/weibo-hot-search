@@ -1,6 +1,6 @@
 {
   "startTime": 1724862385087,
-  "endTime": 1724908821214,
+  "endTime": 1724909862565,
   "band_list": [
     {
       "raw_hot": 16324978,
@@ -147,7 +147,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 962110,
+      "raw_hot": 968485,
+      "num": 968485,
+      "word": "黄子韬 艺洋OK",
+      "onboard_time": 1724908701,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 964165,
       "num": 962110,
       "word": "颜怡颜悦 男记者",
       "onboard_time": 1724906365,
@@ -219,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 721097,
+      "num": 721097,
+      "word": "河南电视台暗访代孕",
+      "onboard_time": 1724906004,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 691984,
       "num": 257163,
       "word": "嫌犯认出法官是老同学9年后再犯案",
@@ -275,20 +291,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 627207,
-      "num": 627207,
-      "word": "河南电视台暗访代孕",
-      "onboard_time": 1724906004,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 617029,
       "num": 445220,
       "word": "余宇涵 出道一日体验卡",
       "onboard_time": 1724859450,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 594357,
+      "num": 594357,
+      "word": "边水往事 亡夫回忆录",
+      "onboard_time": 1724906966,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 591079,
@@ -355,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 538722,
-      "num": 538722,
-      "word": "边水往事 亡夫回忆录",
-      "onboard_time": 1724906966,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 537511,
       "num": 537511,
       "word": "刘耀文给宋亚轩挡酒",
@@ -395,8 +403,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 446084,
-      "num": 550522,
+      "raw_hot": 473214,
+      "num": 405767,
+      "word": "婚礼当天睡过头了",
+      "onboard_time": 1724907505,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 460331,
+      "num": 589168,
       "word": "奥运冠军教练称住处遭入侵搬空",
       "onboard_time": 1724904742,
       "rank": 14,
@@ -409,6 +425,14 @@
       "onboard_time": 1724901740,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 443172,
+      "num": 443172,
+      "word": "女子点单等1分钟吼哭店员被老板拉黑",
+      "onboard_time": 1724904441,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 426504,
@@ -427,14 +451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 413195,
-      "num": 413195,
-      "word": "女子点单等1分钟吼哭店员被老板拉黑",
-      "onboard_time": 1724904441,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 386176,
       "num": 563728,
       "word": "重庆多地官宣延期开学",
@@ -451,14 +467,6 @@
       "category": "音乐,游戏"
     },
     {
-      "raw_hot": 372557,
-      "num": 372557,
-      "word": "婚礼当天睡过头了",
-      "onboard_time": 1724907505,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 367493,
       "num": 447615,
       "word": "边水往事大结局收官礼",
@@ -472,6 +480,14 @@
       "word": "郭艾伦 下次别传球给我了",
       "onboard_time": 1724889921,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 358260,
+      "num": 358260,
+      "word": "全红婵站在潘展乐马龙中间",
+      "onboard_time": 1724908701,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -515,6 +531,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 331982,
+      "num": 331982,
+      "word": "印度学生称女生在强奸案里也有错",
+      "onboard_time": 1724908282,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326396,
+      "num": 326396,
+      "word": "黄朔 清白有了面子没了",
+      "onboard_time": 1724908764,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 315906,
       "num": 361689,
       "word": "樊振东等65名运动员抵达香港",
@@ -523,8 +555,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 314081,
-      "num": 314081,
+      "raw_hot": 315023,
+      "num": 315023,
       "word": "宿傩这就死了",
       "onboard_time": 1724906125,
       "rank": 42,
@@ -595,20 +627,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 289526,
+      "num": 289526,
+      "word": "医生称三胎以上原则上建议减胎",
+      "onboard_time": 1724909182,
+      "rank": 36,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 282088,
       "num": 282088,
       "word": "meovv全员公开",
       "onboard_time": 1724900480,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 280028,
-      "num": 280028,
-      "word": "全红婵站在潘展乐马龙中间",
-      "onboard_time": 1724908701,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 265126,
@@ -625,6 +657,14 @@
       "onboard_time": 1724900060,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 256434,
+      "num": 256434,
+      "word": "猫丢了一个月饿成皮包骨了",
+      "onboard_time": 1724908701,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 254142,
@@ -659,12 +699,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 246433,
-      "num": 246433,
-      "word": "印度学生称女生在强奸案里也有错",
-      "onboard_time": 1724908282,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 248038,
+      "num": 476896,
+      "word": "南派三叔回应网友让王一博演盗墓笔记",
+      "onboard_time": 1724908403,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 246301,
@@ -681,6 +721,14 @@
       "onboard_time": 1724899042,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 239783,
+      "num": 239783,
+      "word": "大钱 前夫哥",
+      "onboard_time": 1724909663,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 234897,
@@ -755,12 +803,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 223601,
-      "num": 223601,
-      "word": "黄子韬 艺洋OK",
-      "onboard_time": 1724908701,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 220573,
+      "num": 220573,
+      "word": "卢昱晓 清冷感",
+      "onboard_time": 1724909603,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 217627,
@@ -785,14 +833,6 @@
       "onboard_time": 1724848702,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209613,
-      "num": 209613,
-      "word": "黄朔 清白有了面子没了",
-      "onboard_time": 1724908764,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 209443,
@@ -824,6 +864,14 @@
       "word": "单身母亲带婴儿送外卖被质疑",
       "onboard_time": 1724855005,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207056,
+      "num": 207056,
+      "word": "生下4胞胎向社会求助有错吗",
+      "onboard_time": 1724909843,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1107,14 +1155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166695,
-      "num": 476896,
-      "word": "南派三叔回应网友让王一博演盗墓笔记",
-      "onboard_time": 1724908403,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 166175,
       "num": 166175,
       "word": "被茶卡盐湖马卡龙色系晚霞美到了",
@@ -1379,6 +1419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 101117,
+      "num": 624878,
+      "word": "官方回应男方声讨女方退还34万彩礼",
+      "onboard_time": 1724908403,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100053,
       "num": 205425,
       "word": "檀健次工作室好city的宣发",
@@ -1464,6 +1512,14 @@
       "word": "王安宇很懂导游也很懂金晨",
       "onboard_time": 1724885896,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 72524,
+      "num": 328996,
+      "word": "Echo 无论牌多烂都能打",
+      "onboard_time": 1724909603,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -1595,20 +1651,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 41044,
-      "num": 624878,
-      "word": "官方回应男方声讨女方退还34万彩礼",
-      "onboard_time": 1724908403,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 40367,
       "num": 224874,
       "word": "电影刺猬",
       "onboard_time": 1724866455,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 39825,
+      "num": 560690,
+      "word": "人工智能自动驾驶法律责任怎么算",
+      "onboard_time": 1724907982,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37044,
@@ -1675,11 +1731,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27026,
-      "num": 560690,
-      "word": "人工智能自动驾驶法律责任怎么算",
-      "onboard_time": 1724907982,
-      "rank": 14,
+      "raw_hot": 26846,
+      "num": 586892,
+      "word": "64岁老人与火锅店老板下河救人牺牲",
+      "onboard_time": 1724909002,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1713,6 +1769,14 @@
       "onboard_time": 1724852184,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11557,
+      "num": 257355,
+      "word": "谁到山东都逃不过考试",
+      "onboard_time": 1724909303,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 10983,
