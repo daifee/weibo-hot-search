@@ -1,0 +1,410 @@
+{
+  "runTime": 1724902676080,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2648722,
+        "num": 2648722,
+        "word": "余宇涵退团",
+        "onboard_time": 1724858665,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1728894,
+        "num": 1728894,
+        "word": "局长15年受贿200余万连猪肉都收",
+        "onboard_time": 1724898922,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31364,
+        "num": 1399950,
+        "word": "网络文明e路同行",
+        "onboard_time": 1724902138,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1363341,
+        "num": 1363341,
+        "word": "黎深生日PV",
+        "onboard_time": 1724901623,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1360518,
+        "num": 1360518,
+        "word": "生下4胞胎父亲回应质疑",
+        "onboard_time": 1724897121,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 852573,
+        "num": 852573,
+        "word": "时代少年团 喝酒",
+        "onboard_time": 1724891365,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 670980,
+        "num": 670980,
+        "word": "销售每天打400个骚扰电话",
+        "onboard_time": 1724894361,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641140,
+        "num": 641140,
+        "word": "孙颖莎樊振东潘展乐今日访港",
+        "onboard_time": 1724899100,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204389,
+        "num": 632584,
+        "word": "官方责令学校立即停用48人一间宿舍",
+        "onboard_time": 1724902042,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101880,
+        "num": 620341,
+        "word": "进一趟宠物医院两个月工资没了",
+        "onboard_time": 1724901440,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1909964,
+        "num": 607924,
+        "word": "山东高密当街发生命案警方回应",
+        "onboard_time": 1724900361,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 78150,
+        "num": 597904,
+        "word": "海肠捞饭从默默无闻到全网爆火",
+        "onboard_time": 1724900060,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1235921,
+        "num": 590306,
+        "word": "时代峰峻声明",
+        "onboard_time": 1724858665,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109831,
+        "num": 570723,
+        "word": "官方通报医院要求患者消费达七千",
+        "onboard_time": 1724896881,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26209,
+        "num": 563494,
+        "word": "人间有至味那一定是烟台的样子",
+        "onboard_time": 1724900421,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 556384,
+        "num": 556384,
+        "word": "疑似文泰一受害女生发声",
+        "onboard_time": 1724895560,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 836477,
+        "num": 551638,
+        "word": "青岛代孕",
+        "onboard_time": 1724858245,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546892,
+        "num": 546892,
+        "word": "河南一女性在树林自缢身亡",
+        "onboard_time": 1724860946,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537511,
+        "num": 537511,
+        "word": "刘耀文给宋亚轩挡酒",
+        "onboard_time": 1724898202,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 439201,
+        "num": 502978,
+        "word": "南派三叔回应朱一龙不演吴邪",
+        "onboard_time": 1724894361,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 492956,
+        "num": 492956,
+        "word": "这三个事原来是同一天",
+        "onboard_time": 1724892204,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446032,
+        "num": 446032,
+        "word": "直播65名内地奥运健儿访港",
+        "onboard_time": 1724901740,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 423612,
+        "num": 423612,
+        "word": "林诗栋上大学王楚钦神叮嘱",
+        "onboard_time": 1724901082,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 386488,
+        "num": 386488,
+        "word": "女子去印度旅游被一伙男子包围紧盯",
+        "onboard_time": 1724900001,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351115,
+        "num": 351115,
+        "word": "山东高密命案嫌疑人已被采取强制措施",
+        "onboard_time": 1724902521,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 350388,
+        "num": 350388,
+        "word": "庞博文纹身",
+        "onboard_time": 1724900301,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334485,
+        "num": 334485,
+        "word": "大学生买房贷款失败退2万定金被驳回",
+        "onboard_time": 1724888662,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311268,
+        "num": 311268,
+        "word": "男方举牌声讨女方退还34万彩礼钱",
+        "onboard_time": 1724891845,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284664,
+        "num": 284664,
+        "word": "咒术回战268话",
+        "onboard_time": 1724902400,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 39404,
+        "num": 265771,
+        "word": "户外赛道是于适的统治区",
+        "onboard_time": 1724899221,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265571,
+        "num": 265571,
+        "word": "meovv全员公开",
+        "onboard_time": 1724900480,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254851,
+        "num": 254851,
+        "word": "郭艾伦 下次别传球给我了",
+        "onboard_time": 1724889921,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251129,
+        "num": 251129,
+        "word": "沙利文访华随行人员几乎都会说中文",
+        "onboard_time": 1724900060,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 245864,
+        "num": 245864,
+        "word": "马頔为李纯减重20斤",
+        "onboard_time": 1724886376,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239068,
+        "num": 239068,
+        "word": "还没开学就把班主任气离职了",
+        "onboard_time": 1724899042,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41451,
+        "num": 236915,
+        "word": "HelloKitty50周年了",
+        "onboard_time": 1724900060,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 236246,
+        "num": 236246,
+        "word": "晓卉能不能一直淘汰一直复活",
+        "onboard_time": 1724902400,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234563,
+        "num": 234563,
+        "word": "工作人员从鹈鹕嘴里掏出同事",
+        "onboard_time": 1724895680,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228471,
+        "num": 228471,
+        "word": "TOP登陆少年必备的要素",
+        "onboard_time": 1724901082,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32702,
+        "num": 228177,
+        "word": "没想到烟台海鲜也这么好吃",
+        "onboard_time": 1724900421,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 228153,
+        "num": 228153,
+        "word": "黎深生日卡好甜",
+        "onboard_time": 1724902400,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 223731,
+        "num": 223731,
+        "word": "豆得儿官宣分手",
+        "onboard_time": 1724890342,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 216492,
+        "num": 216492,
+        "word": "心动的信号7素人官宣",
+        "onboard_time": 1724902521,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216214,
+        "num": 216214,
+        "word": "乳糖不耐者的地狱",
+        "onboard_time": 1724899759,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 50632,
+        "num": 210427,
+        "word": "有券商从业者离职做家政还房贷",
+        "onboard_time": 1724900600,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209875,
+        "num": 209875,
+        "word": "刘端端二皇子拖鞋虽迟但到",
+        "onboard_time": 1724902101,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203445,
+        "num": 203445,
+        "word": "马龙许昕快乐乒乓",
+        "onboard_time": 1724901922,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203256,
+        "num": 203256,
+        "word": "刘浩存歪头捧花照",
+        "onboard_time": 1724900421,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202383,
+        "num": 202383,
+        "word": "重庆多地官宣延期开学",
+        "onboard_time": 1724865257,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191184,
+        "num": 191184,
+        "word": "齐思钧还是没防住杜海涛",
+        "onboard_time": 1724902641,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记格外重视亿万民众共同的精神家园#"
+    }
+  }
+}
