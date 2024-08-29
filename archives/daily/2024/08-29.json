@@ -1,6 +1,6 @@
 {
   "startTime": 1724862385087,
-  "endTime": 1724900048825,
+  "endTime": 1724901819362,
   "band_list": [
     {
       "raw_hot": 16324978,
@@ -35,6 +35,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1491838,
+      "num": 1491838,
+      "word": "生下4胞胎父亲回应质疑",
+      "onboard_time": 1724897121,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1432335,
+      "num": 616307,
+      "word": "山东高密当街发生命案警方回应",
+      "onboard_time": 1724900361,
+      "rank": 11,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1342331,
       "num": 1052766,
       "word": "时代少年团 喝酒",
@@ -67,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1021659,
+      "num": 1021659,
+      "word": "黎深生日PV",
+      "onboard_time": 1724901623,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1009088,
       "num": 1009088,
       "word": "16岁学霸女生晚上离家出走后身亡",
@@ -81,14 +105,6 @@
       "onboard_time": 1724859389,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 967042,
-      "num": 967042,
-      "word": "生下4胞胎父亲回应质疑",
-      "onboard_time": 1724897121,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 922139,
@@ -139,8 +155,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 789520,
+      "num": 789520,
+      "word": "局长15年受贿200余万连猪肉都收",
+      "onboard_time": 1724898922,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 762237,
-      "num": 509597,
+      "num": 645678,
       "word": "疑似文泰一受害女生发声",
       "onboard_time": 1724895560,
       "rank": 6,
@@ -163,8 +187,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 649803,
+      "num": 649803,
+      "word": "孙颖莎樊振东潘展乐今日访港",
+      "onboard_time": 1724899100,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 646240,
-      "num": 467207,
+      "num": 490205,
       "word": "南派三叔回应朱一龙不演吴邪",
       "onboard_time": 1724894361,
       "rank": 27,
@@ -251,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 530439,
+      "num": 530439,
+      "word": "刘耀文给宋亚轩挡酒",
+      "onboard_time": 1724898202,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 478818,
       "num": 478818,
       "word": "李飞圆梦五人团",
@@ -267,12 +307,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 413334,
-      "num": 413334,
-      "word": "孙颖莎樊振东潘展乐今日访港",
-      "onboard_time": 1724899100,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 426504,
+      "num": 426504,
+      "word": "女子去印度旅游被一伙男子包围紧盯",
+      "onboard_time": 1724900001,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 386176,
@@ -280,14 +320,6 @@
       "word": "重庆多地官宣延期开学",
       "onboard_time": 1724865257,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 378949,
-      "num": 378949,
-      "word": "局长15年受贿200余万连猪肉都收",
-      "onboard_time": 1724898922,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -323,14 +355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 341590,
-      "num": 341590,
-      "word": "刘耀文给宋亚轩挡酒",
-      "onboard_time": 1724898202,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 307758,
       "num": 732228,
       "word": "村民漫天要价镇政府强行打款后拆房",
@@ -363,12 +387,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287438,
+      "num": 287438,
+      "word": "林诗栋上大学王楚钦神叮嘱",
+      "onboard_time": 1724901082,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 282088,
+      "num": 282088,
+      "word": "meovv全员公开",
+      "onboard_time": 1724900480,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 278185,
+      "num": 278185,
+      "word": "庞博文纹身",
+      "onboard_time": 1724900301,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265126,
       "num": 443982,
       "word": "原来运动后皮肤真的能变好",
       "onboard_time": 1724860110,
       "rank": 25,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 261250,
+      "num": 261250,
+      "word": "沙利文访华随行人员几乎都会说中文",
+      "onboard_time": 1724900060,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 249880,
@@ -403,6 +459,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240858,
+      "num": 240858,
+      "word": "还没开学就把班主任气离职了",
+      "onboard_time": 1724899042,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 233447,
+      "num": 233447,
+      "word": "刘浩存歪头捧花照",
+      "onboard_time": 1724900421,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232355,
       "num": 232355,
       "word": "代号鸢池子",
@@ -419,12 +491,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226872,
+      "num": 226872,
+      "word": "TOP登陆少年必备的要素",
+      "onboard_time": 1724901082,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225773,
       "num": 225773,
       "word": "食物语维护",
       "onboard_time": 1724895320,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 218283,
+      "num": 218283,
+      "word": "直播65名内地奥运健儿访港",
+      "onboard_time": 1724901740,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 215040,
@@ -499,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198385,
+      "num": 198385,
+      "word": "乳糖不耐者的地狱",
+      "onboard_time": 1724899759,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 196856,
       "num": 196856,
       "word": "黑神话让游戏主播先富起来了",
@@ -521,6 +617,14 @@
       "onboard_time": 1724886677,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 192762,
+      "num": 192762,
+      "word": "陷入我们的热恋杀青",
+      "onboard_time": 1724900781,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 192667,
@@ -547,14 +651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187554,
-      "num": 187554,
-      "word": "还没开学就把班主任气离职了",
-      "onboard_time": 1724899042,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 183087,
       "num": 183087,
       "word": "上海街头的松弛感真的让人紧张",
@@ -572,10 +668,18 @@
     },
     {
       "raw_hot": 176866,
-      "num": 176866,
+      "num": 589835,
       "word": "官方通报医院要求患者消费达七千",
       "onboard_time": 1724896881,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176516,
+      "num": 246910,
+      "word": "冒充孙子诈骗团伙被端",
+      "onboard_time": 1724895085,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -585,6 +689,14 @@
       "onboard_time": 1724853503,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175308,
+      "num": 175308,
+      "word": "中国的能源转型白皮书发布",
+      "onboard_time": 1724899100,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 173614,
@@ -635,28 +747,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166916,
-      "num": 246910,
-      "word": "冒充孙子诈骗团伙被端",
-      "onboard_time": 1724895085,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166175,
       "num": 166175,
       "word": "被茶卡盐湖马卡龙色系晚霞美到了",
       "onboard_time": 1724894062,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 163370,
-      "num": 163370,
-      "word": "中国的能源转型白皮书发布",
-      "onboard_time": 1724899100,
-      "rank": 42,
-      "category": "国内时政"
     },
     {
       "raw_hot": 157476,
@@ -699,14 +795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152167,
-      "num": 152167,
-      "word": "女子去印度旅游被一伙男子包围紧盯",
-      "onboard_time": 1724900001,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151361,
       "num": 440095,
       "word": "雪梨否认吸毒",
@@ -721,14 +809,6 @@
       "onboard_time": 1724886737,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147944,
-      "num": 147944,
-      "word": "乳糖不耐者的地狱",
-      "onboard_time": 1724899759,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 146212,
@@ -939,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86444,
+      "num": 584258,
+      "word": "没家的女人去阜新买房",
+      "onboard_time": 1724900301,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82413,
       "num": 109296,
       "word": "在我家那闺女里看到的女性困境",
@@ -960,6 +1048,14 @@
       "word": "女校长号召家长学生学习董宇辉",
       "onboard_time": 1724872213,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74669,
+      "num": 244637,
+      "word": "智利一男子因为错过航班打砸机场",
+      "onboard_time": 1724900240,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -988,7 +1084,7 @@
     },
     {
       "raw_hot": 63580,
-      "num": 190579,
+      "num": 278592,
       "word": "户外赛道是于适的统治区",
       "onboard_time": 1724899221,
       "rank": 45,
@@ -1027,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57077,
+      "num": 636258,
+      "word": "进一趟宠物医院两个月工资没了",
+      "onboard_time": 1724901440,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53746,
       "num": 108795,
       "word": "赵露思 我的互联网朋友",
@@ -1041,6 +1145,14 @@
       "onboard_time": 1724830944,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 50857,
+      "num": 620830,
+      "word": "海肠捞饭从默默无闻到全网爆火",
+      "onboard_time": 1724900060,
+      "rank": 10,
+      "category": "美食"
     },
     {
       "raw_hot": 50558,
@@ -1083,12 +1195,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 37697,
+      "num": 241682,
+      "word": "HelloKitty50周年了",
+      "onboard_time": 1724900060,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 37044,
+      "num": 226096,
+      "word": "没想到烟台海鲜也这么好吃",
+      "onboard_time": 1724900421,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 35005,
       "num": 54198,
       "word": "残奥会开幕式 感动",
       "onboard_time": 1724874253,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33529,
+      "num": 444117,
+      "word": "有券商从业者离职做家政还房贷",
+      "onboard_time": 1724900600,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32702,
@@ -1116,7 +1252,7 @@
     },
     {
       "raw_hot": 30674,
-      "num": 1061604,
+      "num": 1193334,
       "word": "1图帮你告别开学综合征",
       "onboard_time": 1724851224,
       "rank": 2,
@@ -1129,6 +1265,14 @@
       "onboard_time": 1724871433,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25028,
+      "num": 560270,
+      "word": "人间有至味那一定是烟台的样子",
+      "onboard_time": 1724900421,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 24849,
@@ -1193,6 +1337,9 @@
     },
     {
       "word": "#学习新语#"
+    },
+    {
+      "word": "#中华文化是各民族文化的集大成#"
     }
   ]
 }
