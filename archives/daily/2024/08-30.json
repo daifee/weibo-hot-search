@@ -1,6 +1,6 @@
 {
   "startTime": 1724948777601,
-  "endTime": 1724959077730,
+  "endTime": 1724960146451,
   "band_list": [
     {
       "raw_hot": 8843262,
@@ -211,20 +211,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286010,
+      "num": 286010,
+      "word": "露头就秒",
+      "onboard_time": 1724953875,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 283372,
       "num": 283372,
       "word": "大一新生宿舍的第一次矛盾",
       "onboard_time": 1724946863,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 281152,
-      "num": 281152,
-      "word": "露头就秒",
-      "onboard_time": 1724953875,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 269394,
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29560,
+      "num": 159369,
+      "word": "中戏表演系主任谈演员被挑选",
+      "onboard_time": 1724958432,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29088,
       "num": 42202,
       "word": "郑钦文 逆转女王",
@@ -512,14 +520,6 @@
       "word": "一组数据透视中国能源转型",
       "onboard_time": 1724936843,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18720,
-      "num": 159369,
-      "word": "中戏表演系主任谈演员被挑选",
-      "onboard_time": 1724958432,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
