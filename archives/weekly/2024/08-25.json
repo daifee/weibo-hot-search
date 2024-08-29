@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724941261167,
+  "endTime": 1724942329959,
   "band_list": [
     {
       "raw_hot": 20756997,
@@ -185,6 +185,14 @@
       "onboard_time": 1724925921,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 3787767,
+      "num": 3787767,
+      "word": "要所有居高临下傲慢之徒看仔细",
+      "onboard_time": 1724941344,
+      "rank": 1,
+      "category": "游戏"
     },
     {
       "raw_hot": 3764088,
@@ -411,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2363694,
+      "num": 1838523,
+      "word": "我爸在网易上班",
+      "onboard_time": 1724938463,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 2330009,
       "num": 2330009,
       "word": "孙杨哭了",
@@ -611,6 +627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1877770,
+      "num": 782944,
+      "word": "光与夜之恋",
+      "onboard_time": 1724922140,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1874694,
       "num": 1874694,
       "word": "综艺替身",
@@ -657,14 +681,6 @@
       "onboard_time": 1724692997,
       "rank": 11,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 1838523,
-      "num": 1838523,
-      "word": "我爸在网易上班",
-      "onboard_time": 1724938463,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 1833056,
@@ -1139,6 +1155,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1384692,
+      "num": 780682,
+      "word": "腾讯游戏",
+      "onboard_time": 1724939485,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1384068,
       "num": 1384068,
       "word": "孙杨回应复出首冠",
@@ -1355,14 +1379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1258268,
-      "num": 681998,
-      "word": "腾讯游戏",
-      "onboard_time": 1724939485,
-      "rank": 12,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 1255784,
       "num": 738716,
       "word": "第一次见1000w销量不发十连的游戏",
@@ -1377,6 +1393,14 @@
       "onboard_time": 1724916800,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1245155,
+      "num": 776647,
+      "word": "乙游法务发回旋镖diss派克特",
+      "onboard_time": 1724941103,
+      "rank": 26,
+      "category": "音乐,游戏"
     },
     {
       "raw_hot": 1243285,
@@ -1481,6 +1505,14 @@
       "onboard_time": 1724844084,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1197347,
+      "num": 1197347,
+      "word": "俄罗斯前反恐部门负责人被肉噎死",
+      "onboard_time": 1724939184,
+      "rank": 5,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1192997,
@@ -1809,14 +1841,6 @@
       "onboard_time": 1724588121,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 990344,
-      "num": 990344,
-      "word": "俄罗斯前反恐部门负责人被肉噎死",
-      "onboard_time": 1724939184,
-      "rank": 5,
-      "category": "国外时政"
     },
     {
       "raw_hot": 987516,
@@ -2345,6 +2369,14 @@
       "onboard_time": 1724652801,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 796387,
+      "num": 796387,
+      "word": "暗访地下代孕市场",
+      "onboard_time": 1724938044,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 795820,
@@ -2881,14 +2913,6 @@
       "onboard_time": 1724571019,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 664501,
-      "num": 664501,
-      "word": "光与夜之恋",
-      "onboard_time": 1724922140,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 661801,
@@ -3955,14 +3979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 457996,
-      "num": 673201,
-      "word": "暗访地下代孕市场",
-      "onboard_time": 1724938044,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 456966,
       "num": 456966,
       "word": "于正 杨蓉在享受生活",
@@ -4187,6 +4203,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 430118,
+      "num": 430118,
+      "word": "孙颖莎全红婵成香港新打卡点",
+      "onboard_time": 1724940204,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 429518,
       "num": 378731,
       "word": "警方通报网红铁头被抓详情",
@@ -4241,6 +4265,14 @@
       "onboard_time": 1724900001,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 425259,
+      "num": 425259,
+      "word": "乙游",
+      "onboard_time": 1724721261,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 423612,
@@ -4435,6 +4467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 400844,
+      "num": 400844,
+      "word": "我们有自己的rap",
+      "onboard_time": 1724941585,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 399016,
       "num": 405066,
       "word": "苏新皓清唱",
@@ -4465,6 +4505,14 @@
       "onboard_time": 1724592562,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 396175,
+      "num": 396175,
+      "word": "脑梗男子贷款60万打赏女主播当榜一",
+      "onboard_time": 1724940626,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 394917,
@@ -4595,14 +4643,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 383356,
-      "num": 436173,
-      "word": "乙游法务发回旋镖diss派克特",
-      "onboard_time": 1724941103,
-      "rank": 26,
-      "category": "音乐,游戏"
-    },
-    {
       "raw_hot": 382608,
       "num": 138274,
       "word": "宋祖儿无偷逃税款行为",
@@ -4683,6 +4723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 376375,
+      "num": 376375,
+      "word": "世界之外",
+      "onboard_time": 1724939725,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 373855,
       "num": 315629,
       "word": "但拓差点救活貌巴",
@@ -4761,6 +4809,14 @@
       "onboard_time": 1724490020,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 368591,
+      "num": 412083,
+      "word": "邢菲换风格了",
+      "onboard_time": 1724940925,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 367557,
@@ -4859,14 +4915,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 352428,
-      "num": 352428,
-      "word": "世界之外",
-      "onboard_time": 1724939725,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 352045,
       "num": 352045,
       "word": "黄一鸣自曝座驾",
@@ -4881,14 +4929,6 @@
       "onboard_time": 1724900301,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 350324,
-      "num": 405914,
-      "word": "邢菲换风格了",
-      "onboard_time": 1724940925,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 350051,
@@ -5243,14 +5283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 325896,
-      "num": 325896,
-      "word": "孙颖莎全红婵成香港新打卡点",
-      "onboard_time": 1724940204,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 325799,
       "num": 325799,
       "word": "时代峰峻全新音乐厂牌",
@@ -5403,14 +5435,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 316377,
-      "num": 316377,
-      "word": "脑梗男子贷款60万打赏女主播当榜一",
-      "onboard_time": 1724940626,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 315906,
       "num": 361689,
       "word": "樊振东等65名运动员抵达香港",
@@ -5480,14 +5504,6 @@
       "word": "如鸢",
       "onboard_time": 1724820624,
       "rank": 29,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 310311,
-      "num": 310311,
-      "word": "乙游",
-      "onboard_time": 1724721261,
-      "rank": 33,
       "category": "游戏"
     },
     {
@@ -5851,6 +5867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292475,
+      "num": 292475,
+      "word": "孙佳俊香港plog",
+      "onboard_time": 1724941406,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 292236,
       "num": 246943,
       "word": "胡先煦 花少纯元",
@@ -6035,6 +6059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285432,
+      "num": 285432,
+      "word": "徐嘉余找了好多人合影",
+      "onboard_time": 1724941885,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 285195,
       "num": 285195,
       "word": "孩子被关厕所教育家长同意就行吗",
@@ -6073,6 +6105,22 @@
       "onboard_time": 1724812703,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 284141,
+      "num": 284141,
+      "word": "双鱼座会周期性的疲倦",
+      "onboard_time": 1724940804,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 284130,
+      "num": 284130,
+      "word": "幸会嘻哈延期",
+      "onboard_time": 1724942305,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 283950,
@@ -7113,14 +7161,6 @@
       "onboard_time": 1724717961,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 241932,
-      "num": 241932,
-      "word": "双鱼座会周期性的疲倦",
-      "onboard_time": 1724940804,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 241842,
@@ -13347,6 +13387,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 75214,
+      "num": 776038,
+      "word": "高圆圆看展造型",
+      "onboard_time": 1724938404,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 75122,
       "num": 75122,
       "word": "TOP",
@@ -13449,14 +13497,6 @@
       "onboard_time": 1724909603,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 71909,
-      "num": 670838,
-      "word": "高圆圆看展造型",
-      "onboard_time": 1724938404,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 71808,
@@ -13967,6 +14007,14 @@
       "num": 360899,
       "word": "高价月饼礼盒卖不动了",
       "onboard_time": 1724639120,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58587,
+      "num": 664838,
+      "word": "开学季的车站是眼泪味的",
+      "onboard_time": 1724940266,
       "rank": 19,
       "category": "社会新闻"
     },
@@ -14499,6 +14547,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45961,
+      "num": 774581,
+      "word": "谁说吗喽不是我们的精神外衣",
+      "onboard_time": 1724940384,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 45949,
+      "num": 315235,
+      "word": "塔图姆联手东契奇",
+      "onboard_time": 1724941945,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45938,
       "num": 459100,
       "word": "车主撞倒停车场塑料立柱被索赔900元",
@@ -14939,19 +15003,19 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 36951,
-      "num": 328805,
-      "word": "谁说吗喽不是我们的精神外衣",
-      "onboard_time": 1724940384,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 36283,
       "num": 595649,
       "word": "新华网评卡牌盲盒乱象",
       "onboard_time": 1724912782,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35784,
+      "num": 779699,
+      "word": "百万豪车宝马X7疑似自燃无人赔偿",
+      "onboard_time": 1724941945,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -15060,7 +15124,7 @@
     },
     {
       "raw_hot": 33326,
-      "num": 229718,
+      "num": 282038,
       "word": "熬夜玩黑神话的嘻嘻和不嘻嘻",
       "onboard_time": 1724937624,
       "rank": 43,
@@ -15116,7 +15180,7 @@
     },
     {
       "raw_hot": 32400,
-      "num": 2827896,
+      "num": 2896897,
       "word": "网络文明在我身边",
       "onboard_time": 1724917341,
       "rank": 2,
@@ -15184,14 +15248,6 @@
       "word": "好友辟谣在泰遇难中国乘客富二代传言",
       "onboard_time": 1724769023,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30701,
-      "num": 664838,
-      "word": "开学季的车站是眼泪味的",
-      "onboard_time": 1724940266,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -15315,6 +15371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27991,
+      "num": 778781,
+      "word": "度假冲浪被摄影师直播给多人观看",
+      "onboard_time": 1724940744,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27518,
       "num": 74096,
       "word": "临近开学如何做好心理准备",
@@ -15424,14 +15488,6 @@
       "word": "湖北一个地名就是一段传奇",
       "onboard_time": 1724873113,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24529,
-      "num": 676309,
-      "word": "度假冲浪被摄影师直播给多人观看",
-      "onboard_time": 1724940744,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -15728,6 +15784,14 @@
       "word": "现在的盖饭为什么越来越难吃了",
       "onboard_time": 1724681902,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8358,
+      "num": 402232,
+      "word": "以旧换新单件商品最高补2000元",
+      "onboard_time": 1724942244,
+      "rank": 29,
       "category": "社会新闻"
     },
     {

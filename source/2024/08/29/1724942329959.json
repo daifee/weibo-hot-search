@@ -1,0 +1,410 @@
+{
+  "runTime": 1724942329959,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 14731653,
+        "num": 14731653,
+        "word": "绘旅人开战痞老板",
+        "onboard_time": 1724938523,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 3787767,
+        "num": 3787767,
+        "word": "要所有居高临下傲慢之徒看仔细",
+        "onboard_time": 1724941344,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19458,
+        "num": 2896897,
+        "word": "网络文明在我身边",
+        "onboard_time": 1724917341,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2688332,
+        "num": 2688332,
+        "word": "痞老板",
+        "onboard_time": 1724938763,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1907152,
+        "num": 1907152,
+        "word": "多名韩女性在中国互联网求助",
+        "onboard_time": 1724931081,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1197347,
+        "num": 1197347,
+        "word": "俄罗斯前反恐部门负责人被肉噎死",
+        "onboard_time": 1724939184,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 897207,
+        "num": 897207,
+        "word": "欧阳娣娣体操难度系数",
+        "onboard_time": 1724934682,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 796387,
+        "num": 796387,
+        "word": "暗访地下代孕市场",
+        "onboard_time": 1724938044,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 785826,
+        "num": 785826,
+        "word": "宣璐艺术体操冠军",
+        "onboard_time": 1724937444,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480663,
+        "num": 785066,
+        "word": "国防部用黑神话悟空回应美菲南海挑衅",
+        "onboard_time": 1724934861,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2363694,
+        "num": 784307,
+        "word": "我爸在网易上班",
+        "onboard_time": 1724938463,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1877770,
+        "num": 782944,
+        "word": "光与夜之恋",
+        "onboard_time": 1724922140,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1384692,
+        "num": 780682,
+        "word": "腾讯游戏",
+        "onboard_time": 1724939485,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 35784,
+        "num": 779699,
+        "word": "百万豪车宝马X7疑似自燃无人赔偿",
+        "onboard_time": 1724941945,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27991,
+        "num": 778781,
+        "word": "度假冲浪被摄影师直播给多人观看",
+        "onboard_time": 1724940744,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1245155,
+        "num": 776647,
+        "word": "乙游法务发回旋镖diss派克特",
+        "onboard_time": 1724941103,
+        "rank": 15,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 75214,
+        "num": 776038,
+        "word": "高圆圆看展造型",
+        "onboard_time": 1724938404,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45961,
+        "num": 774581,
+        "word": "谁说吗喽不是我们的精神外衣",
+        "onboard_time": 1724940384,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 365729,
+        "num": 773949,
+        "word": "老人走了 家就散了",
+        "onboard_time": 1724928982,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 772650,
+        "num": 772650,
+        "word": "全红婵霍启刚热聊",
+        "onboard_time": 1724936182,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1070193,
+        "num": 764275,
+        "word": "绘旅人站起来了",
+        "onboard_time": 1724935702,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 933680,
+        "num": 671537,
+        "word": "绘旅人 嫡女",
+        "onboard_time": 1724936243,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 569661,
+        "num": 569661,
+        "word": "海螺肉最有种的一集",
+        "onboard_time": 1724937323,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 472146,
+        "num": 472146,
+        "word": "考编成功后在汝州疾控中心假装上班",
+        "onboard_time": 1724933061,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462128,
+        "num": 462128,
+        "word": "儿子跟妈妈摆摊10天收入10000元",
+        "onboard_time": 1724933903,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430118,
+        "num": 430118,
+        "word": "孙颖莎全红婵成香港新打卡点",
+        "onboard_time": 1724940204,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 425259,
+        "num": 425259,
+        "word": "乙游",
+        "onboard_time": 1724941764,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 368591,
+        "num": 412083,
+        "word": "邢菲换风格了",
+        "onboard_time": 1724940925,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 273086,
+        "num": 404036,
+        "word": "藏海花尺度",
+        "onboard_time": 1724926581,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8358,
+        "num": 402232,
+        "word": "以旧换新单件商品最高补2000元",
+        "onboard_time": 1724942244,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400844,
+        "num": 400844,
+        "word": "我们有自己的rap",
+        "onboard_time": 1724941585,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 397194,
+        "num": 397194,
+        "word": "小红书主页",
+        "onboard_time": 1724925921,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 396175,
+        "num": 396175,
+        "word": "脑梗男子贷款60万打赏女主播当榜一",
+        "onboard_time": 1724940626,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376375,
+        "num": 376375,
+        "word": "世界之外",
+        "onboard_time": 1724939725,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 263062,
+        "num": 355384,
+        "word": "赵露思养狗人的条件反射",
+        "onboard_time": 1724932101,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 351274,
+        "num": 351274,
+        "word": "孙颖莎真听劝",
+        "onboard_time": 1724922439,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 340675,
+        "num": 340675,
+        "word": "女子花2万割双眼皮控诉成了悲伤蛙",
+        "onboard_time": 1724915001,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339433,
+        "num": 339433,
+        "word": "莎头 大合照全过程",
+        "onboard_time": 1724933600,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 336378,
+        "num": 336378,
+        "word": "韩国 换脸",
+        "onboard_time": 1724919022,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45949,
+        "num": 315235,
+        "word": "塔图姆联手东契奇",
+        "onboard_time": 1724941945,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303250,
+        "num": 303250,
+        "word": "中国美术学院",
+        "onboard_time": 1724934261,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302385,
+        "num": 302385,
+        "word": "连云港一女子在公司参加酒局后身亡",
+        "onboard_time": 1724936542,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292475,
+        "num": 292475,
+        "word": "孙佳俊香港plog",
+        "onboard_time": 1724941406,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291331,
+        "num": 291331,
+        "word": "警方回应中国美院教授被传强奸女生",
+        "onboard_time": 1724933600,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285432,
+        "num": 285432,
+        "word": "徐嘉余找了好多人合影",
+        "onboard_time": 1724941885,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284141,
+        "num": 284141,
+        "word": "双鱼座会周期性的疲倦",
+        "onboard_time": 1724940804,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 284130,
+        "num": 284130,
+        "word": "幸会嘻哈延期",
+        "onboard_time": 1724942305,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58587,
+        "num": 283422,
+        "word": "开学季的车站是眼泪味的",
+        "onboard_time": 1724940266,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283322,
+        "num": 283322,
+        "word": "试管龙凤胎产后6个月却自怀了",
+        "onboard_time": 1724916800,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29374,
+        "num": 282038,
+        "word": "熬夜玩黑神话的嘻嘻和不嘻嘻",
+        "onboard_time": 1724937624,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央全面深改委员会第六次会议#"
+    }
+  }
+}

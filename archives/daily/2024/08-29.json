@@ -1,6 +1,6 @@
 {
   "startTime": 1724862385087,
-  "endTime": 1724941261167,
+  "endTime": 1724942329959,
   "band_list": [
     {
       "raw_hot": 17944373,
@@ -49,6 +49,14 @@
       "onboard_time": 1724925921,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 3787767,
+      "num": 3787767,
+      "word": "要所有居高临下傲慢之徒看仔细",
+      "onboard_time": 1724941344,
+      "rank": 1,
+      "category": "游戏"
     },
     {
       "raw_hot": 3687912,
@@ -107,6 +115,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2363694,
+      "num": 1838523,
+      "word": "我爸在网易上班",
+      "onboard_time": 1724938463,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 2032141,
       "num": 2032141,
       "word": "周杰伦败诉网易",
@@ -139,20 +155,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1877770,
+      "num": 782944,
+      "word": "光与夜之恋",
+      "onboard_time": 1724922140,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1845391,
       "num": 696338,
       "word": "警方通报山东高密街头杀人案",
       "onboard_time": 1724903661,
       "rank": 11,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1838523,
-      "num": 1838523,
-      "word": "我爸在网易上班",
-      "onboard_time": 1724938463,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 1740146,
@@ -195,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1384692,
+      "num": 780682,
+      "word": "腾讯游戏",
+      "onboard_time": 1724939485,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1363341,
       "num": 1363341,
       "word": "黎深生日PV",
@@ -219,20 +243,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1258268,
-      "num": 681998,
-      "word": "腾讯游戏",
-      "onboard_time": 1724939485,
-      "rank": 12,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 1253747,
       "num": 569450,
       "word": "试管龙凤胎产后6个月却自怀了",
       "onboard_time": 1724916800,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1245155,
+      "num": 776647,
+      "word": "乙游法务发回旋镖diss派克特",
+      "onboard_time": 1724941103,
+      "rank": 26,
+      "category": "音乐,游戏"
     },
     {
       "raw_hot": 1239373,
@@ -257,6 +281,14 @@
       "onboard_time": 1724937323,
       "rank": 11,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 1197347,
+      "num": 1197347,
+      "word": "俄罗斯前反恐部门负责人被肉噎死",
+      "onboard_time": 1724939184,
+      "rank": 5,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1188277,
@@ -321,14 +353,6 @@
       "onboard_time": 1724933600,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 990344,
-      "num": 990344,
-      "word": "俄罗斯前反恐部门负责人被肉噎死",
-      "onboard_time": 1724939184,
-      "rank": 5,
-      "category": "国外时政"
     },
     {
       "raw_hot": 987516,
@@ -467,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 796387,
+      "num": 796387,
+      "word": "暗访地下代孕市场",
+      "onboard_time": 1724938044,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 796215,
       "num": 597718,
       "word": "余宇涵 张元英",
@@ -569,14 +601,6 @@
       "onboard_time": 1724904921,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 664501,
-      "num": 664501,
-      "word": "光与夜之恋",
-      "onboard_time": 1724922140,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 656962,
@@ -859,14 +883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 457996,
-      "num": 673201,
-      "word": "暗访地下代孕市场",
-      "onboard_time": 1724938044,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 446032,
       "num": 446032,
       "word": "直播65名内地奥运健儿访港",
@@ -889,6 +905,14 @@
       "onboard_time": 1724930360,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 430118,
+      "num": 430118,
+      "word": "孙颖莎全红婵成香港新打卡点",
+      "onboard_time": 1724940204,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 429428,
@@ -915,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 425259,
+      "num": 425259,
+      "word": "乙游",
+      "onboard_time": 1724941764,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 423612,
       "num": 423612,
       "word": "林诗栋上大学王楚钦神叮嘱",
@@ -939,20 +971,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 400844,
+      "num": 400844,
+      "word": "我们有自己的rap",
+      "onboard_time": 1724941585,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 396175,
+      "num": 396175,
+      "word": "脑梗男子贷款60万打赏女主播当榜一",
+      "onboard_time": 1724940626,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386176,
       "num": 563728,
       "word": "重庆多地官宣延期开学",
       "onboard_time": 1724865257,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 383356,
-      "num": 436173,
-      "word": "乙游法务发回旋镖diss派克特",
-      "onboard_time": 1724941103,
-      "rank": 26,
-      "category": "音乐,游戏"
     },
     {
       "raw_hot": 380294,
@@ -963,12 +1003,28 @@
       "category": "音乐,游戏"
     },
     {
+      "raw_hot": 376375,
+      "num": 376375,
+      "word": "世界之外",
+      "onboard_time": 1724939725,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 372988,
       "num": 372988,
       "word": "印度学生称女生在强奸案里也有错",
       "onboard_time": 1724908282,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 368591,
+      "num": 412083,
+      "word": "邢菲换风格了",
+      "onboard_time": 1724940925,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 367493,
@@ -995,14 +1051,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 352428,
-      "num": 352428,
-      "word": "世界之外",
-      "onboard_time": 1724939725,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 351208,
       "num": 1070372,
       "word": "钓鱼佬在龙门石窟附近钓上一尊佛头",
@@ -1017,14 +1065,6 @@
       "onboard_time": 1724900301,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 350324,
-      "num": 405914,
-      "word": "邢菲换风格了",
-      "onboard_time": 1724940925,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 348544,
@@ -1091,14 +1131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 325896,
-      "num": 325896,
-      "word": "孙颖莎全红婵成香港新打卡点",
-      "onboard_time": 1724940204,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 324963,
       "num": 733492,
       "word": "男子3天吃5顿河豚十倍索赔被驳回",
@@ -1129,14 +1161,6 @@
       "onboard_time": 1724908701,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 316377,
-      "num": 316377,
-      "word": "脑梗男子贷款60万打赏女主播当榜一",
-      "onboard_time": 1724940626,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 315906,
@@ -1251,6 +1275,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 292475,
+      "num": 292475,
+      "word": "孙佳俊香港plog",
+      "onboard_time": 1724941406,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 292221,
       "num": 292221,
       "word": "光遇",
@@ -1289,6 +1321,30 @@
       "onboard_time": 1724909182,
       "rank": 36,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 285432,
+      "num": 285432,
+      "word": "徐嘉余找了好多人合影",
+      "onboard_time": 1724941885,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 284141,
+      "num": 284141,
+      "word": "双鱼座会周期性的疲倦",
+      "onboard_time": 1724940804,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 284130,
+      "num": 284130,
+      "word": "幸会嘻哈延期",
+      "onboard_time": 1724942305,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 282119,
@@ -1497,14 +1553,6 @@
       "onboard_time": 1724892745,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241932,
-      "num": 241932,
-      "word": "双鱼座会周期性的疲倦",
-      "onboard_time": 1724940804,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 240910,
@@ -2827,6 +2875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75214,
+      "num": 776038,
+      "word": "高圆圆看展造型",
+      "onboard_time": 1724938404,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 74669,
       "num": 244637,
       "word": "智利一男子因为错过航班打砸机场",
@@ -2865,14 +2921,6 @@
       "onboard_time": 1724909603,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 71909,
-      "num": 670838,
-      "word": "高圆圆看展造型",
-      "onboard_time": 1724938404,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 71808,
@@ -2995,6 +3043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58587,
+      "num": 664838,
+      "word": "开学季的车站是眼泪味的",
+      "onboard_time": 1724940266,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58290,
       "num": 191672,
       "word": "黑神话悟空穿搭",
@@ -3081,6 +3137,22 @@
       "onboard_time": 1724867775,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 45961,
+      "num": 774581,
+      "word": "谁说吗喽不是我们的精神外衣",
+      "onboard_time": 1724940384,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 45949,
+      "num": 315235,
+      "word": "塔图姆联手东契奇",
+      "onboard_time": 1724941945,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 45229,
@@ -3187,19 +3259,19 @@
       "category": "美食"
     },
     {
-      "raw_hot": 36951,
-      "num": 328805,
-      "word": "谁说吗喽不是我们的精神外衣",
-      "onboard_time": 1724940384,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 36283,
       "num": 595649,
       "word": "新华网评卡牌盲盒乱象",
       "onboard_time": 1724912782,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35784,
+      "num": 779699,
+      "word": "百万豪车宝马X7疑似自燃无人赔偿",
+      "onboard_time": 1724941945,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -3220,7 +3292,7 @@
     },
     {
       "raw_hot": 33326,
-      "num": 229718,
+      "num": 282038,
       "word": "熬夜玩黑神话的嘻嘻和不嘻嘻",
       "onboard_time": 1724937624,
       "rank": 43,
@@ -3236,7 +3308,7 @@
     },
     {
       "raw_hot": 32400,
-      "num": 2827896,
+      "num": 2896897,
       "word": "网络文明在我身边",
       "onboard_time": 1724917341,
       "rank": 2,
@@ -3259,14 +3331,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 30701,
-      "num": 664838,
-      "word": "开学季的车站是眼泪味的",
-      "onboard_time": 1724940266,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30683,
       "num": 115636,
       "word": "重庆多地9月9日再开学",
@@ -3280,6 +3344,14 @@
       "word": "1图帮你告别开学综合征",
       "onboard_time": 1724851224,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27991,
+      "num": 778781,
+      "word": "度假冲浪被摄影师直播给多人观看",
+      "onboard_time": 1724940744,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -3320,14 +3392,6 @@
       "word": "湖北一个地名就是一段传奇",
       "onboard_time": 1724873113,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24529,
-      "num": 676309,
-      "word": "度假冲浪被摄影师直播给多人观看",
-      "onboard_time": 1724940744,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -3392,6 +3456,14 @@
       "word": "浙江这所小学实现3秒午休躺平睡",
       "onboard_time": 1724874973,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8358,
+      "num": 402232,
+      "word": "以旧换新单件商品最高补2000元",
+      "onboard_time": 1724942244,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
