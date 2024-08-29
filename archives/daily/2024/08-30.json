@@ -1,6 +1,6 @@
 {
   "startTime": 1724948777601,
-  "endTime": 1724956889597,
+  "endTime": 1724959077730,
   "band_list": [
     {
       "raw_hot": 8843262,
@@ -219,6 +219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 281152,
+      "num": 281152,
+      "word": "露头就秒",
+      "onboard_time": 1724953875,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 269394,
       "num": 269394,
       "word": "乙游",
@@ -435,14 +443,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 137306,
-      "num": 137306,
-      "word": "露头就秒",
-      "onboard_time": 1724953875,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 130069,
       "num": 155037,
       "word": "天蝎座的报复都是事出有因",
@@ -475,11 +475,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 52781,
-      "num": 52781,
+      "raw_hot": 61427,
+      "num": 61427,
       "word": "代孕的黑色产业链必须消除",
       "onboard_time": 1724956393,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56993,
+      "num": 191837,
+      "word": "公司回应女子参加酒局后身亡",
+      "onboard_time": 1724956574,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -491,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29088,
+      "num": 42202,
+      "word": "郑钦文 逆转女王",
+      "onboard_time": 1724959033,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28938,
       "num": 993961,
       "word": "一组数据透视中国能源转型",
@@ -499,10 +515,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25499,
-      "num": 191837,
-      "word": "公司回应女子参加酒局后身亡",
-      "onboard_time": 1724956574,
+      "raw_hot": 18720,
+      "num": 159369,
+      "word": "中戏表演系主任谈演员被挑选",
+      "onboard_time": 1724958432,
       "rank": 9,
       "category": "社会新闻"
     },
