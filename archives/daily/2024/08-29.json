@@ -1,6 +1,6 @@
 {
   "startTime": 1724862385087,
-  "endTime": 1724913768166,
+  "endTime": 1724916018006,
   "band_list": [
     {
       "raw_hot": 16324978,
@@ -49,6 +49,14 @@
       "onboard_time": 1724910022,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1962250,
+      "num": 1962250,
+      "word": "曾黎家里有1500斤自制酵素",
+      "onboard_time": 1724912422,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 1909964,
@@ -115,12 +123,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1270086,
+      "num": 1270086,
+      "word": "医生因目睹病人惨状不再做取卵手术",
+      "onboard_time": 1724911462,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1239373,
       "num": 968485,
       "word": "黄子韬 艺洋OK",
       "onboard_time": 1724908701,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1203739,
+      "num": 1203739,
+      "word": "生下4胞胎向社会求助有错吗",
+      "onboard_time": 1724909843,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1168752,
@@ -227,28 +251,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 778424,
+      "num": 778424,
+      "word": "青岛卫健委调查代孕一事",
+      "onboard_time": 1724913141,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 762237,
       "num": 645678,
       "word": "疑似文泰一受害女生发声",
       "onboard_time": 1724895560,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 756194,
-      "num": 611226,
-      "word": "曾黎家里有1500斤自制酵素",
-      "onboard_time": 1724912422,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 751366,
-      "num": 751366,
-      "word": "医生因目睹病人惨状不再做取卵手术",
-      "onboard_time": 1724911462,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 721097,
@@ -281,6 +297,14 @@
       "onboard_time": 1724904921,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 667272,
+      "num": 603035,
+      "word": "男明星代言卫生巾 男明星流量大",
+      "onboard_time": 1724912062,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 656962,
@@ -347,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 603035,
-      "num": 603035,
-      "word": "男明星代言卫生巾 男明星流量大",
-      "onboard_time": 1724912062,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 594357,
       "num": 594357,
       "word": "边水往事 亡夫回忆录",
@@ -403,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 562943,
+      "num": 562943,
+      "word": "奥运金牌团访港直播",
+      "onboard_time": 1724915421,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 558818,
       "num": 558818,
       "word": "SM回应文泰一性暴力案件",
@@ -424,14 +448,6 @@
       "word": "深圳妇联回应4胞胎父亲收入微薄",
       "onboard_time": 1724851583,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 541953,
-      "num": 541953,
-      "word": "生下4胞胎向社会求助有错吗",
-      "onboard_time": 1724909843,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -457,6 +473,14 @@
       "onboard_time": 1724902521,
       "rank": 24,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 513294,
+      "num": 513294,
+      "word": "樊振东一路握手笑嘻嘻",
+      "onboard_time": 1724914282,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 508723,
@@ -489,6 +513,14 @@
       "onboard_time": 1724904742,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 454822,
+      "num": 503343,
+      "word": "文泰一疑似使11岁女孩终生残疾",
+      "onboard_time": 1724915362,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 446032,
@@ -529,6 +561,14 @@
       "onboard_time": 1724865257,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381507,
+      "num": 381507,
+      "word": "余宇涵修改微博认证",
+      "onboard_time": 1724910683,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 380294,
@@ -587,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 342485,
-      "num": 342485,
-      "word": "青岛卫健委调查代孕一事",
-      "onboard_time": 1724913141,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 342124,
       "num": 342124,
       "word": "原来电梯神图是这样出片的",
@@ -609,14 +641,6 @@
       "onboard_time": 1724902400,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 332092,
-      "num": 332092,
-      "word": "余宇涵修改微博认证",
-      "onboard_time": 1724910683,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 326396,
@@ -659,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305105,
+      "num": 305105,
+      "word": "我国从海上发射一箭6星",
+      "onboard_time": 1724914581,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 302838,
       "num": 302838,
       "word": "黎深一往而深",
@@ -699,6 +731,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 292221,
+      "num": 292221,
+      "word": "光遇",
+      "onboard_time": 1724915300,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 292111,
       "num": 444718,
       "word": "心疼儿媳公婆偷偷买了40克金手镯补偿",
@@ -731,12 +771,36 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 286089,
+      "num": 560738,
+      "word": "女子花2万割双眼皮控诉成了悲伤蛙",
+      "onboard_time": 1724915001,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284339,
+      "num": 284339,
+      "word": "奥运代表团港澳行",
+      "onboard_time": 1724915183,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 282088,
       "num": 282088,
       "word": "meovv全员公开",
       "onboard_time": 1724900480,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271729,
+      "num": 271729,
+      "word": "香港为奥运健儿举行欢迎仪式",
+      "onboard_time": 1724915543,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 265126,
@@ -747,12 +811,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 262444,
+      "num": 262444,
+      "word": "我国人均预期寿命达到78.6岁",
+      "onboard_time": 1724914221,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261250,
       "num": 261250,
       "word": "沙利文访华随行人员几乎都会说中文",
       "onboard_time": 1724900060,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 259746,
+      "num": 259746,
+      "word": "王一博捞拖鞋",
+      "onboard_time": 1724913501,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 254142,
@@ -776,6 +856,14 @@
       "word": "生下4胞胎父亲称对孩子性别没预期",
       "onboard_time": 1724856026,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249219,
+      "num": 616031,
+      "word": "有高校一下录进二十多个子涵",
+      "onboard_time": 1724912362,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -851,6 +939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 231970,
+      "num": 231970,
+      "word": "山西刀削面11嫌贵",
+      "onboard_time": 1724914103,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 230786,
       "num": 230786,
       "word": "雪迷宫定档",
@@ -873,6 +969,14 @@
       "onboard_time": 1724902400,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 226934,
+      "num": 226934,
+      "word": "郭艾伦直播预告",
+      "onboard_time": 1724915602,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 225773,
@@ -939,14 +1043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212252,
-      "num": 212252,
-      "word": "王一博捞拖鞋",
-      "onboard_time": 1724913501,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 211558,
       "num": 211558,
       "word": "四川多地宣布延迟开学",
@@ -1009,6 +1105,14 @@
       "onboard_time": 1724897361,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204919,
+      "num": 204919,
+      "word": "柳舟记今晚全是高能",
+      "onboard_time": 1724915902,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 204687,
@@ -1427,6 +1531,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 132007,
+      "num": 222189,
+      "word": "盲目促排卵有多危险",
+      "onboard_time": 1724913800,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130353,
       "num": 440859,
       "word": "生2女后又产下4胞胎父亲发声",
@@ -1457,14 +1569,6 @@
       "onboard_time": 1724851765,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 121740,
-      "num": 616031,
-      "word": "有高校一下录进二十多个子涵",
-      "onboard_time": 1724912362,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114790,
@@ -1603,6 +1707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85929,
+      "num": 494732,
+      "word": "女子发霉大米藏30万财物被孩子扔了",
+      "onboard_time": 1724914342,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82630,
       "num": 381867,
       "word": "马卡龙色系平板戳到谁了",
@@ -1651,6 +1763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73143,
+      "num": 581273,
+      "word": "山东又一座城市正在出圈",
+      "onboard_time": 1724912303,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 72874,
       "num": 201414,
       "word": "地图APP为黑家电维修指路",
@@ -1675,12 +1795,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 69931,
+      "num": 323295,
+      "word": "2024年还会有人买油车吗",
+      "onboard_time": 1724915300,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 67710,
       "num": 109010,
       "word": "迪丽热巴马上进组",
       "onboard_time": 1724887279,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 67541,
+      "num": 486921,
+      "word": "美特斯邦威凭什么平替始祖鸟",
+      "onboard_time": 1724911704,
+      "rank": 25,
+      "category": "时尚"
     },
     {
       "raw_hot": 66937,
@@ -1827,14 +1963,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 41738,
-      "num": 581273,
-      "word": "山东又一座城市正在出圈",
-      "onboard_time": 1724912303,
-      "rank": 33,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 41451,
       "num": 241682,
       "word": "HelloKitty50周年了",
@@ -1849,14 +1977,6 @@
       "onboard_time": 1724866455,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 40299,
-      "num": 486921,
-      "word": "美特斯邦威凭什么平替始祖鸟",
-      "onboard_time": 1724911704,
-      "rank": 25,
-      "category": "时尚"
     },
     {
       "raw_hot": 39825,
@@ -1939,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30009,
+      "num": 526203,
+      "word": "平台回应网友被网约车司机拉下车",
+      "onboard_time": 1724914762,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26846,
       "num": 586892,
       "word": "64岁老人与火锅店老板下河救人牺牲",
@@ -2017,6 +2145,14 @@
       "onboard_time": 1724874973,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7813,
+      "num": 323762,
+      "word": "英国首相访德讨论签订双边条约",
+      "onboard_time": 1724915841,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 6863,
