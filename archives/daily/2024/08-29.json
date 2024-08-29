@@ -1,6 +1,6 @@
 {
   "startTime": 1724862385087,
-  "endTime": 1724894918907,
+  "endTime": 1724896312575,
   "band_list": [
     {
       "raw_hot": 16324978,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1342331,
+      "num": 915537,
+      "word": "时代少年团 喝酒",
+      "onboard_time": 1724891365,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1168752,
       "num": 1065673,
       "word": "青岛代孕",
@@ -49,14 +57,6 @@
       "onboard_time": 1724860946,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1053531,
-      "num": 915537,
-      "word": "时代少年团 喝酒",
-      "onboard_time": 1724891365,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1009088,
@@ -83,7 +83,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 913828,
+      "raw_hot": 914740,
       "num": 572353,
       "word": "豆得儿官宣分手",
       "onboard_time": 1724890342,
@@ -155,8 +155,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 591079,
+      "num": 523858,
+      "word": "文泰一",
+      "onboard_time": 1724895202,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 588415,
-      "num": 252616,
+      "num": 256952,
       "word": "828内韩娱事变",
       "onboard_time": 1724891304,
       "rank": 20,
@@ -203,6 +211,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 532009,
+      "num": 532009,
+      "word": "男方举牌声讨女方退还34万彩礼钱",
+      "onboard_time": 1724891845,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 499544,
+      "num": 441616,
+      "word": "南派三叔回应朱一龙不演吴邪",
+      "onboard_time": 1724894361,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 478818,
       "num": 478818,
       "word": "李飞圆梦五人团",
@@ -219,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 368189,
+      "num": 563728,
+      "word": "重庆多地官宣延期开学",
+      "onboard_time": 1724865257,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351208,
       "num": 1070372,
       "word": "钓鱼佬在龙门石窟附近钓上一尊佛头",
@@ -227,12 +259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 334450,
-      "num": 563728,
-      "word": "重庆多地官宣延期开学",
-      "onboard_time": 1724865257,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 342124,
+      "num": 342124,
+      "word": "原来电梯神图是这样出片的",
+      "onboard_time": 1724869454,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 307758,
@@ -251,14 +283,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 297141,
-      "num": 297141,
-      "word": "原来电梯神图是这样出片的",
-      "onboard_time": 1724869454,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 293811,
       "num": 444265,
       "word": "徐璐打夏之光 已老实求放过",
@@ -275,20 +299,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 287063,
-      "num": 287063,
-      "word": "男方举牌声讨女方退还34万彩礼钱",
-      "onboard_time": 1724891845,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 265126,
       "num": 443982,
       "word": "原来运动后皮肤真的能变好",
       "onboard_time": 1724860110,
       "rank": 25,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 260069,
+      "num": 260069,
+      "word": "销售每天打400个骚扰电话",
+      "onboard_time": 1724894361,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253321,
@@ -299,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 249880,
+      "num": 249880,
+      "word": "一次不戴头盔换来终生内向",
+      "onboard_time": 1724893105,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 249594,
       "num": 1067282,
       "word": "生下4胞胎父亲称对孩子性别没预期",
@@ -307,28 +339,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231207,
-      "num": 231207,
-      "word": "一次不戴头盔换来终生内向",
-      "onboard_time": 1724893105,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 226906,
-      "num": 226906,
+      "raw_hot": 248468,
+      "num": 248468,
       "word": "登陆少年五人出道博文",
       "onboard_time": 1724891123,
       "rank": 26,
       "category": "综艺"
     },
     {
-      "raw_hot": 224108,
-      "num": 224108,
-      "word": "南派三叔回应朱一龙不演吴邪",
-      "onboard_time": 1724894361,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 246301,
+      "num": 246301,
+      "word": "老人30万金饰存单藏米袋被子女扔掉",
+      "onboard_time": 1724892745,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232355,
+      "num": 232355,
+      "word": "代号鸢池子",
+      "onboard_time": 1724895801,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 225773,
+      "num": 225773,
+      "word": "食物语维护",
+      "onboard_time": 1724895320,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 215040,
@@ -443,20 +483,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177882,
-      "num": 177882,
-      "word": "销售每天打400个骚扰电话",
-      "onboard_time": 1724894361,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176115,
       "num": 441847,
       "word": "偶像练习生尤长靖回来了",
       "onboard_time": 1724853503,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173931,
+      "num": 173931,
+      "word": "雪迷宫定档",
+      "onboard_time": 1724895920,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 173614,
@@ -481,6 +521,14 @@
       "onboard_time": 1724848044,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 168061,
+      "num": 168061,
+      "word": "深圳地铁",
+      "onboard_time": 1724895983,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157476,
@@ -523,11 +571,19 @@
       "category": "网红"
     },
     {
-      "raw_hot": 149242,
+      "raw_hot": 151295,
       "num": 297376,
       "word": "老人要取100万买黄金银行秒报警",
       "onboard_time": 1724886737,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148989,
+      "num": 148989,
+      "word": "工作人员从鹈鹕嘴里掏出同事",
+      "onboard_time": 1724895680,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -547,12 +603,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136616,
-      "num": 136616,
-      "word": "老人30万金饰存单藏米袋被子女扔掉",
-      "onboard_time": 1724892745,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 140818,
+      "num": 140818,
+      "word": "巴黎再次飘起中国红",
+      "onboard_time": 1724888662,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 136041,
@@ -569,14 +625,6 @@
       "onboard_time": 1724894602,
       "rank": 45,
       "category": "网红"
-    },
-    {
-      "raw_hot": 132291,
-      "num": 132291,
-      "word": "巴黎再次飘起中国红",
-      "onboard_time": 1724888662,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 130353,
@@ -771,6 +819,14 @@
       "category": "国内时政,国外时政"
     },
     {
+      "raw_hot": 63527,
+      "num": 474757,
+      "word": "孙女说要和奶奶睡奶奶反应让人泪目",
+      "onboard_time": 1724895262,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62603,
       "num": 313589,
       "word": "刘宇射箭镜头",
@@ -896,6 +952,14 @@
       "word": "湖北一个地名就是一段传奇",
       "onboard_time": 1724873113,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19446,
+      "num": 750855,
+      "word": "1图帮你告别开学综合征",
+      "onboard_time": 1724851224,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
