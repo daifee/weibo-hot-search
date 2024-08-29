@@ -1,6 +1,6 @@
 {
   "startTime": 1724862385087,
-  "endTime": 1724916018006,
+  "endTime": 1724916916898,
   "band_list": [
     {
       "raw_hot": 16324978,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1457710,
+      "num": 1457710,
+      "word": "医生因目睹病人惨状不再做取卵手术",
+      "onboard_time": 1724911462,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1363341,
       "num": 1363341,
       "word": "黎深生日PV",
@@ -121,14 +129,6 @@
       "onboard_time": 1724902761,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1270086,
-      "num": 1270086,
-      "word": "医生因目睹病人惨状不再做取卵手术",
-      "onboard_time": 1724911462,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1239373,
@@ -235,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 821942,
+      "num": 821942,
+      "word": "青岛卫健委调查代孕一事",
+      "onboard_time": 1724913141,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 805487,
       "num": 571453,
       "word": "这三个事原来是同一天",
@@ -251,20 +259,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 778424,
-      "num": 778424,
-      "word": "青岛卫健委调查代孕一事",
-      "onboard_time": 1724913141,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 762237,
       "num": 645678,
       "word": "疑似文泰一受害女生发声",
       "onboard_time": 1724895560,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 737207,
+      "num": 603035,
+      "word": "男明星代言卫生巾 男明星流量大",
+      "onboard_time": 1724912062,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 721097,
@@ -299,14 +307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 667272,
-      "num": 603035,
-      "word": "男明星代言卫生巾 男明星流量大",
-      "onboard_time": 1724912062,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 656962,
       "num": 548454,
       "word": "婚礼当天睡过头了",
@@ -321,6 +321,14 @@
       "onboard_time": 1724899100,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 648135,
+      "num": 569450,
+      "word": "试管龙凤胎产后6个月却自怀了",
+      "onboard_time": 1724916800,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 646240,
@@ -395,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 586842,
+      "num": 586842,
+      "word": "樊振东一路握手笑嘻嘻",
+      "onboard_time": 1724914282,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 577176,
       "num": 577176,
       "word": "全红婵站在潘展乐马龙中间",
@@ -409,6 +425,22 @@
       "onboard_time": 1724857524,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 569402,
+      "num": 569402,
+      "word": "潘展乐全红婵聊天好萌",
+      "onboard_time": 1724910563,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 565864,
+      "num": 574676,
+      "word": "文泰一疑似使11岁女孩终生残疾",
+      "onboard_time": 1724915362,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 565239,
@@ -475,22 +507,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 513294,
-      "num": 513294,
-      "word": "樊振东一路握手笑嘻嘻",
-      "onboard_time": 1724914282,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 508723,
-      "num": 508723,
-      "word": "潘展乐全红婵聊天好萌",
-      "onboard_time": 1724910563,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 478818,
       "num": 478818,
       "word": "李飞圆梦五人团",
@@ -513,14 +529,6 @@
       "onboard_time": 1724904742,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 454822,
-      "num": 503343,
-      "word": "文泰一疑似使11岁女孩终生残疾",
-      "onboard_time": 1724915362,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 446032,
@@ -555,20 +563,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 408380,
+      "num": 585066,
+      "word": "女子花2万割双眼皮控诉成了悲伤蛙",
+      "onboard_time": 1724915001,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406271,
+      "num": 571932,
+      "word": "余宇涵修改微博认证",
+      "onboard_time": 1724910683,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 386176,
       "num": 563728,
       "word": "重庆多地官宣延期开学",
       "onboard_time": 1724865257,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 381507,
-      "num": 381507,
-      "word": "余宇涵修改微博认证",
-      "onboard_time": 1724910683,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 380294,
@@ -684,7 +700,7 @@
     },
     {
       "raw_hot": 305105,
-      "num": 305105,
+      "num": 310529,
       "word": "我国从海上发射一箭6星",
       "onboard_time": 1724914581,
       "rank": 32,
@@ -697,6 +713,14 @@
       "onboard_time": 1724905466,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 301892,
+      "num": 301892,
+      "word": "奥运代表团港澳行",
+      "onboard_time": 1724915183,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 297646,
@@ -764,27 +788,11 @@
     },
     {
       "raw_hot": 289526,
-      "num": 289526,
+      "num": 585878,
       "word": "医生称三胎以上原则上建议减胎",
       "onboard_time": 1724909182,
       "rank": 36,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 286089,
-      "num": 560738,
-      "word": "女子花2万割双眼皮控诉成了悲伤蛙",
-      "onboard_time": 1724915001,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284339,
-      "num": 284339,
-      "word": "奥运代表团港澳行",
-      "onboard_time": 1724915183,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 282088,
@@ -793,6 +801,14 @@
       "onboard_time": 1724900480,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 275434,
+      "num": 275434,
+      "word": "我国人均预期寿命达到78.6岁",
+      "onboard_time": 1724914221,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271729,
@@ -811,12 +827,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 262444,
-      "num": 262444,
-      "word": "我国人均预期寿命达到78.6岁",
-      "onboard_time": 1724914221,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 263493,
+      "num": 263493,
+      "word": "黄子韬曾发文想要龙凤胎",
+      "onboard_time": 1724916022,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 261250,
@@ -912,6 +928,14 @@
       "word": "进一趟宠物医院两个月工资没了",
       "onboard_time": 1724901440,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234877,
+      "num": 234877,
+      "word": "高校向新生调查是否有过性行为",
+      "onboard_time": 1724915661,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1107,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206592,
+      "num": 206592,
+      "word": "宋亚轩染发vlog",
+      "onboard_time": 1724916441,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204919,
       "num": 204919,
       "word": "柳舟记今晚全是高能",
@@ -1121,6 +1153,14 @@
       "onboard_time": 1724902161,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204453,
+      "num": 204453,
+      "word": "Deepfake",
+      "onboard_time": 1724916862,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203445,
@@ -1699,6 +1739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90269,
+      "num": 581273,
+      "word": "山东又一座城市正在出圈",
+      "onboard_time": 1724912303,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 86444,
       "num": 584258,
       "word": "没家的女人去阜新买房",
@@ -1763,14 +1811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 73143,
-      "num": 581273,
-      "word": "山东又一座城市正在出圈",
-      "onboard_time": 1724912303,
-      "rank": 33,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 72874,
       "num": 201414,
       "word": "地图APP为黑家电维修指路",
@@ -1796,7 +1836,7 @@
     },
     {
       "raw_hot": 69931,
-      "num": 323295,
+      "num": 577395,
       "word": "2024年还会有人买油车吗",
       "onboard_time": 1724915300,
       "rank": 30,
@@ -1955,6 +1995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 44067,
+      "num": 526203,
+      "word": "平台回应网友被网约车司机拉下车",
+      "onboard_time": 1724914762,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43661,
       "num": 225055,
       "word": "威尼斯电影节",
@@ -2059,14 +2107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30009,
-      "num": 526203,
-      "word": "平台回应网友被网约车司机拉下车",
-      "onboard_time": 1724914762,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 26846,
       "num": 586892,
       "word": "64岁老人与火锅店老板下河救人牺牲",
@@ -2089,6 +2129,14 @@
       "onboard_time": 1724871433,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25508,
+      "num": 577479,
+      "word": "未成年人保护法不该沉默",
+      "onboard_time": 1724916741,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24849,
