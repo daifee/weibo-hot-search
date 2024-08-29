@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724926959235,
+  "endTime": 1724927986271,
   "band_list": [
     {
       "raw_hot": 20756997,
@@ -657,6 +657,14 @@
       "onboard_time": 1724828062,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1780031,
+      "num": 1780031,
+      "word": "小红书主页",
+      "onboard_time": 1724925921,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 1773540,
@@ -2891,6 +2899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 608982,
+      "num": 608982,
+      "word": "时代峰峻报案了",
+      "onboard_time": 1724925799,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 607665,
       "num": 607665,
       "word": "孙悟空 林黛玉",
@@ -3043,6 +3059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 585653,
+      "num": 585653,
+      "word": "老农干活太猛致心脏起搏器跳出体外",
+      "onboard_time": 1724923282,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 584252,
       "num": 584252,
       "word": "网传无忧渡全集空降",
@@ -3187,14 +3211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 555682,
-      "num": 555682,
-      "word": "时代峰峻报案了",
-      "onboard_time": 1724925799,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 553469,
       "num": 382770,
       "word": "爸爸养的猫已经25岁了",
@@ -3233,14 +3249,6 @@
       "onboard_time": 1724508922,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 546217,
-      "num": 546217,
-      "word": "小红书主页",
-      "onboard_time": 1724925921,
-      "rank": 17,
-      "category": "互联网"
     },
     {
       "raw_hot": 545925,
@@ -3499,6 +3507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 489634,
+      "num": 375448,
+      "word": "藏海花尺度",
+      "onboard_time": 1724926581,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 485586,
       "num": 485586,
       "word": "冯骥 离职是最好的医美",
@@ -3624,14 +3640,6 @@
       "word": "取得这些职业资格证书可享个税扣除",
       "onboard_time": 1724770824,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 470590,
-      "num": 470590,
-      "word": "老农干活太猛致心脏起搏器跳出体外",
-      "onboard_time": 1724923282,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -3968,6 +3976,14 @@
       "word": "警方通报网红铁头被抓详情",
       "onboard_time": 1724761764,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429428,
+      "num": 429428,
+      "word": "深度伪造犯罪令韩国社会恐慌",
+      "onboard_time": 1724924541,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -4777,14 +4793,6 @@
       "onboard_time": 1724694316,
       "rank": 21,
       "category": "综艺,综艺"
-    },
-    {
-      "raw_hot": 341608,
-      "num": 341608,
-      "word": "深度伪造犯罪令韩国社会恐慌",
-      "onboard_time": 1724924541,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 340249,
@@ -5811,6 +5819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 282270,
+      "num": 282270,
+      "word": "全红婵就这么水灵灵地站起来了",
+      "onboard_time": 1724924602,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 282088,
       "num": 282088,
       "word": "meovv全员公开",
@@ -6011,6 +6027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268466,
+      "num": 268466,
+      "word": "花花在直播间疯狂整活儿",
+      "onboard_time": 1724924660,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 268357,
       "num": 379704,
       "word": "张峻豪个人舞台原创新歌17",
@@ -6041,6 +6065,14 @@
       "onboard_time": 1724726241,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 267586,
+      "num": 272936,
+      "word": "孙颖莎发今天的太阳比昨天还大",
+      "onboard_time": 1724925441,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 266780,
@@ -6235,20 +6267,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 259809,
-      "num": 259809,
-      "word": "孙颖莎发今天的太阳比昨天还大",
-      "onboard_time": 1724925441,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 259746,
       "num": 259746,
       "word": "王一博捞拖鞋",
       "onboard_time": 1724913501,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 258593,
+      "num": 258593,
+      "word": "官方通报女子高楼撒现金后坠亡",
+      "onboard_time": 1724927241,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258212,
@@ -6385,14 +6417,6 @@
       "onboard_time": 1724834544,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 254519,
-      "num": 254519,
-      "word": "花花在直播间疯狂整活儿",
-      "onboard_time": 1724924660,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 254193,
@@ -6843,6 +6867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238675,
+      "num": 238675,
+      "word": "广州暴雨",
+      "onboard_time": 1724927721,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237804,
       "num": 573750,
       "word": "泽连斯基称已有计划结束俄乌冲突",
@@ -7179,6 +7211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229205,
+      "num": 229205,
+      "word": "镖人",
+      "onboard_time": 1724926821,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 229059,
       "num": 229059,
       "word": "喝下超致死量20倍百草枯小伙获重生",
@@ -7417,14 +7457,6 @@
       "onboard_time": 1724903362,
       "rank": 41,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 224797,
-      "num": 236404,
-      "word": "藏海花尺度",
-      "onboard_time": 1724926581,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 224338,
@@ -7705,14 +7737,6 @@
       "onboard_time": 1724542275,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 218557,
-      "num": 218557,
-      "word": "全红婵就这么水灵灵地站起来了",
-      "onboard_time": 1724924602,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 218338,
@@ -8475,6 +8499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204478,
+      "num": 204478,
+      "word": "李连杰参演电影镖人",
+      "onboard_time": 1724927422,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 204176,
       "num": 204176,
       "word": "王一博小香衬衫",
@@ -8865,14 +8897,6 @@
       "onboard_time": 1724600062,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198574,
-      "num": 198574,
-      "word": "镖人",
-      "onboard_time": 1724926821,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 198529,
@@ -9643,6 +9667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185225,
+      "num": 714567,
+      "word": "韩国新型性暴力产品层出不穷",
+      "onboard_time": 1724926821,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185201,
       "num": 197663,
       "word": "剑来君子不救名场面上线",
@@ -9745,14 +9777,6 @@
       "onboard_time": 1724576419,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 183993,
-      "num": 714567,
-      "word": "韩国新型性暴力产品层出不穷",
-      "onboard_time": 1724926821,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183879,
@@ -10793,6 +10817,14 @@
       "onboard_time": 1724823682,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163430,
+      "num": 714279,
+      "word": "操场塌方校方回应记者跟您有什么关系",
+      "onboard_time": 1724925861,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163372,
@@ -12592,14 +12624,6 @@
       "word": "被父母强行送入训练营的初中生",
       "onboard_time": 1724924902,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85005,
-      "num": 714279,
-      "word": "操场塌方校方回应记者跟您有什么关系",
-      "onboard_time": 1724925861,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -14460,7 +14484,7 @@
     },
     {
       "raw_hot": 32400,
-      "num": 1672573,
+      "num": 1836056,
       "word": "网络文明在我身边",
       "onboard_time": 1724917341,
       "rank": 2,
