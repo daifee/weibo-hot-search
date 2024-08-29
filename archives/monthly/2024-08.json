@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1724930340448,
+  "endTime": 1724931320376,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -1947,6 +1947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3848129,
+      "num": 3848129,
+      "word": "小红书主页",
+      "onboard_time": 1724925921,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 3842902,
       "num": 3842902,
       "word": "宁波港回应爆炸",
@@ -2185,14 +2193,6 @@
       "onboard_time": 1723192281,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 3647781,
-      "num": 3647781,
-      "word": "小红书主页",
-      "onboard_time": 1724925921,
-      "rank": 17,
-      "category": "互联网"
     },
     {
       "raw_hot": 3636971,
@@ -16251,6 +16251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 928666,
+      "num": 928666,
+      "word": "藏海花尺度",
+      "onboard_time": 1724926581,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 928538,
       "num": 928538,
       "word": "网贷60万做榜1大哥后送外卖还债",
@@ -18049,14 +18057,6 @@
       "onboard_time": 1724341522,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 824544,
-      "num": 824544,
-      "word": "藏海花尺度",
-      "onboard_time": 1724926581,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 824478,
@@ -20120,6 +20120,14 @@
       "word": "遭事业单位集体清退当事人再发声",
       "onboard_time": 1724036000,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 725378,
+      "num": 725378,
+      "word": "官方通报女子高楼撒现金后坠亡",
+      "onboard_time": 1724927241,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -23811,14 +23819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 597542,
-      "num": 597542,
-      "word": "官方通报女子高楼撒现金后坠亡",
-      "onboard_time": 1724927241,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 597190,
       "num": 597190,
       "word": "加沙1公斤西红柿194元",
@@ -23929,6 +23929,14 @@
       "onboard_time": 1722825142,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 594480,
+      "num": 714567,
+      "word": "韩国新型性暴力产品层出不穷",
+      "onboard_time": 1724926821,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 594391,
@@ -24795,6 +24803,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 567798,
+      "num": 567798,
+      "word": "老人走了 家就散了",
+      "onboard_time": 1724928982,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 567250,
       "num": 567250,
       "word": "BLACKPINK说很久没有四个人见面了",
@@ -25241,6 +25257,14 @@
       "onboard_time": 1724648363,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 553439,
+      "num": 553439,
+      "word": "樊振东巧妙地避开了美食问题",
+      "onboard_time": 1724925561,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 553299,
@@ -26897,14 +26921,6 @@
       "onboard_time": 1723263622,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 504376,
-      "num": 714567,
-      "word": "韩国新型性暴力产品层出不穷",
-      "onboard_time": 1724926821,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 503538,
@@ -28913,6 +28929,14 @@
       "onboard_time": 1723791741,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 459201,
+      "num": 459201,
+      "word": "WTT中国大满贯双打名单",
+      "onboard_time": 1724930540,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 459060,
@@ -31424,14 +31448,6 @@
       "word": "孙颖莎这张照片硬控我30秒",
       "onboard_time": 1724764585,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 413761,
-      "num": 413761,
-      "word": "樊振东巧妙地避开了美食问题",
-      "onboard_time": 1724925561,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -36371,14 +36387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 342885,
-      "num": 414083,
-      "word": "老人走了 家就散了",
-      "onboard_time": 1724928982,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 342844,
       "num": 342844,
       "word": "公孙离皮肤",
@@ -39281,6 +39289,14 @@
       "onboard_time": 1722941724,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 312354,
+      "num": 579883,
+      "word": "国防部警告台独",
+      "onboard_time": 1724930002,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 312315,
@@ -43064,6 +43080,14 @@
       "word": "请帮我告诉他你现在是第一名",
       "onboard_time": 1722702647,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 283705,
+      "num": 283705,
+      "word": "李纯说不会宣扬和马頔状态",
+      "onboard_time": 1724930360,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -47817,6 +47841,14 @@
       "onboard_time": 1724470218,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 249947,
+      "num": 249947,
+      "word": "网购方便面女款比男款面饼小一半",
+      "onboard_time": 1724929522,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249917,
@@ -54699,6 +54731,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 214094,
+      "num": 214094,
+      "word": "央行买入4000亿特别国债",
+      "onboard_time": 1724929461,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 214090,
       "num": 214090,
       "word": "周雨彤花儿与少年官宣海报",
@@ -58211,14 +58251,6 @@
       "category": "综艺,游戏"
     },
     {
-      "raw_hot": 202615,
-      "num": 202615,
-      "word": "国防部警告台独",
-      "onboard_time": 1724930002,
-      "rank": 33,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 202600,
       "num": 202600,
       "word": "Twins吴谨言 我的浪3白月光",
@@ -58361,6 +58393,14 @@
       "onboard_time": 1723166362,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202137,
+      "num": 202137,
+      "word": "金泰妍SamSmith合作曲",
+      "onboard_time": 1724930901,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 202123,
@@ -60057,14 +60097,6 @@
       "onboard_time": 1724042900,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 197231,
-      "num": 197231,
-      "word": "网购方便面女款比男款面饼小一半",
-      "onboard_time": 1724929522,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197219,
@@ -63089,6 +63121,14 @@
       "onboard_time": 1722899839,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187799,
+      "num": 187799,
+      "word": "跟妈妈吐槽工作想辞职被整破防了",
+      "onboard_time": 1724930721,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 187790,
@@ -69035,6 +69075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162163,
+      "num": 162163,
+      "word": "多名韩女性在中国互联网求助",
+      "onboard_time": 1724931081,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162156,
       "num": 162156,
       "word": "宋亚轩whatever甜妹舞",
@@ -69713,14 +69761,6 @@
       "onboard_time": 1724757320,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 158688,
-      "num": 158688,
-      "word": "央行买入4000亿特别国债",
-      "onboard_time": 1724929461,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 158653,
@@ -70905,6 +70945,14 @@
       "onboard_time": 1724552300,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152785,
+      "num": 152785,
+      "word": "HLE战胜T1",
+      "onboard_time": 1724930841,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 152744,
@@ -75363,6 +75411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 115088,
+      "num": 677075,
+      "word": "什么是deepfake视频",
+      "onboard_time": 1724929461,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115054,
       "num": 487989,
       "word": "短短60秒比我一天干的事儿都多",
@@ -79772,7 +79828,7 @@
     },
     {
       "raw_hot": 67923,
-      "num": 195940,
+      "num": 598226,
       "word": "国风游戏就这么水灵灵地出现了",
       "onboard_time": 1724929581,
       "rank": 40,
@@ -80673,14 +80729,6 @@
       "onboard_time": 1723360822,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 62344,
-      "num": 677075,
-      "word": "什么是deepfake视频",
-      "onboard_time": 1724929461,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62294,

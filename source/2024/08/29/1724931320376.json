@@ -1,0 +1,410 @@
+{
+  "runTime": 1724931320376,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3848129,
+        "num": 3848129,
+        "word": "小红书主页",
+        "onboard_time": 1724925921,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1386500,
+        "num": 1386500,
+        "word": "孙颖莎真听劝",
+        "onboard_time": 1724922439,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8682,
+        "num": 1154251,
+        "word": "网络文明在我身边",
+        "onboard_time": 1724917341,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1105871,
+        "num": 1105871,
+        "word": "韩国 换脸",
+        "onboard_time": 1724919022,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 928666,
+        "num": 928666,
+        "word": "藏海花尺度",
+        "onboard_time": 1724926581,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 725378,
+        "num": 725378,
+        "word": "官方通报女子高楼撒现金后坠亡",
+        "onboard_time": 1724927241,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692431,
+        "num": 692431,
+        "word": "老农干活太猛致心脏起搏器跳出体外",
+        "onboard_time": 1724923282,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630190,
+        "num": 630190,
+        "word": "刘亚仁涉嫌性侵同性接受警方调查",
+        "onboard_time": 1724924121,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 618913,
+        "num": 618913,
+        "word": "曾黎家里有1500斤自制酵素",
+        "onboard_time": 1724912422,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 611222,
+        "num": 611222,
+        "word": "奥运金牌团访港直播",
+        "onboard_time": 1724915421,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 980335,
+        "num": 609297,
+        "word": "青岛代孕实验室",
+        "onboard_time": 1724903001,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 621468,
+        "num": 603335,
+        "word": "建议大家不要去吃自助小火锅",
+        "onboard_time": 1724904561,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 65612,
+        "num": 598226,
+        "word": "国风游戏就这么水灵灵地出现了",
+        "onboard_time": 1724929581,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 594480,
+        "num": 594480,
+        "word": "韩国新型性暴力产品层出不穷",
+        "onboard_time": 1724926821,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312354,
+        "num": 579883,
+        "word": "国防部警告台独",
+        "onboard_time": 1724930002,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 567798,
+        "num": 567798,
+        "word": "老人走了 家就散了",
+        "onboard_time": 1724928982,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 558592,
+        "num": 558592,
+        "word": "女子花2万割双眼皮控诉成了悲伤蛙",
+        "onboard_time": 1724915001,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553439,
+        "num": 553439,
+        "word": "樊振东巧妙地避开了美食问题",
+        "onboard_time": 1724925561,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 406790,
+        "num": 505903,
+        "word": "时代峰峻报案了",
+        "onboard_time": 1724925799,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354275,
+        "num": 465910,
+        "word": "吴谨言 大张伟大",
+        "onboard_time": 1724922620,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115088,
+        "num": 460748,
+        "word": "什么是deepfake视频",
+        "onboard_time": 1724929461,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459885,
+        "num": 459885,
+        "word": "试管龙凤胎产后6个月却自怀了",
+        "onboard_time": 1724916800,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 459201,
+        "num": 459201,
+        "word": "WTT中国大满贯双打名单",
+        "onboard_time": 1724930540,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313141,
+        "num": 313141,
+        "word": "生下4胞胎向社会求助有错吗",
+        "onboard_time": 1724909843,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283705,
+        "num": 283705,
+        "word": "李纯说不会宣扬和马頔状态",
+        "onboard_time": 1724930360,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283398,
+        "num": 283398,
+        "word": "全红婵就这么水灵灵地站起来了",
+        "onboard_time": 1724924602,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249947,
+        "num": 249947,
+        "word": "网购方便面女款比男款面饼小一半",
+        "onboard_time": 1724929522,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237833,
+        "num": 237833,
+        "word": "马龙再回应退役",
+        "onboard_time": 1724922620,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226167,
+        "num": 226167,
+        "word": "男明星代言卫生巾 男明星流量大",
+        "onboard_time": 1724912062,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217783,
+        "num": 217783,
+        "word": "射手座真的是火象里最恐怖的",
+        "onboard_time": 1724925441,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214094,
+        "num": 214094,
+        "word": "央行买入4000亿特别国债",
+        "onboard_time": 1724929461,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 213612,
+        "num": 213612,
+        "word": "黄子韬 艺洋OK",
+        "onboard_time": 1724908701,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209872,
+        "num": 209872,
+        "word": "深度伪造犯罪令韩国社会恐慌",
+        "onboard_time": 1724924541,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203828,
+        "num": 203828,
+        "word": "时代峰峻律师维权声明",
+        "onboard_time": 1724925799,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202137,
+        "num": 202137,
+        "word": "金泰妍SamSmith合作曲",
+        "onboard_time": 1724930901,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202006,
+        "num": 202006,
+        "word": "余宇涵退团",
+        "onboard_time": 1724858665,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200333,
+        "num": 200333,
+        "word": "下一战歌手",
+        "onboard_time": 1724930601,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191403,
+        "num": 191403,
+        "word": "边水往事 亡夫回忆录",
+        "onboard_time": 1724906966,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190651,
+        "num": 190651,
+        "word": "广州暴雨",
+        "onboard_time": 1724927721,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189015,
+        "num": 189015,
+        "word": "我们必须坚定反对代孕",
+        "onboard_time": 1724920581,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187799,
+        "num": 187799,
+        "word": "跟妈妈吐槽工作想辞职被整破防了",
+        "onboard_time": 1724930721,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178460,
+        "num": 178460,
+        "word": "镖人",
+        "onboard_time": 1724926821,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174213,
+        "num": 174213,
+        "word": "操场塌方校方回应记者跟您有什么关系",
+        "onboard_time": 1724925861,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166988,
+        "num": 166988,
+        "word": "孙颖莎发今天的太阳比昨天还大",
+        "onboard_time": 1724925441,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165947,
+        "num": 165947,
+        "word": "HLE对战T1",
+        "onboard_time": 1724928142,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162199,
+        "num": 162199,
+        "word": "LCK",
+        "onboard_time": 1724929941,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162163,
+        "num": 162163,
+        "word": "多名韩女性在中国互联网求助",
+        "onboard_time": 1724931081,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152785,
+        "num": 152785,
+        "word": "HLE战胜T1",
+        "onboard_time": 1724930841,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152745,
+        "num": 152745,
+        "word": "狗狗交的新朋友是踏光而来的",
+        "onboard_time": 1724928864,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152467,
+        "num": 152467,
+        "word": "杨幂离场背影",
+        "onboard_time": 1724921541,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华文化是各民族文化的集大成#"
+    }
+  }
+}
