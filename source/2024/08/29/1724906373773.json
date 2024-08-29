@@ -1,0 +1,410 @@
+{
+  "runTime": 1724906373773,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 13240801,
+        "num": 13240801,
+        "word": "青岛代孕实验室",
+        "onboard_time": 1724903001,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2674644,
+        "num": 2674644,
+        "word": "余宇涵退团",
+        "onboard_time": 1724858665,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85644,
+        "num": 1767405,
+        "word": "巴黎再次飘起中国红",
+        "onboard_time": 1724888662,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1453973,
+        "num": 1453973,
+        "word": "局长15年受贿200余万连猪肉都收",
+        "onboard_time": 1724898922,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 889621,
+        "num": 889621,
+        "word": "官方责令学校立即停用48人一间宿舍",
+        "onboard_time": 1724902042,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679035,
+        "num": 679035,
+        "word": "但拓下线",
+        "onboard_time": 1724904921,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 617243,
+        "num": 617243,
+        "word": "时代少年团 喝酒",
+        "onboard_time": 1724891365,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 610771,
+        "num": 610771,
+        "word": "生下4胞胎父亲回应质疑",
+        "onboard_time": 1724897121,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572278,
+        "num": 572278,
+        "word": "黎深生日PV",
+        "onboard_time": 1724901623,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116675,
+        "num": 570433,
+        "word": "起底青岛涉代孕公司",
+        "onboard_time": 1724905764,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2504453,
+        "num": 565147,
+        "word": "建议大家不要去吃自助小火锅",
+        "onboard_time": 1724904561,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1845391,
+        "num": 560141,
+        "word": "警方通报山东高密街头杀人案",
+        "onboard_time": 1724903661,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1272032,
+        "num": 557023,
+        "word": "我终于知道月经是蓝色的了",
+        "onboard_time": 1724902761,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1102821,
+        "num": 551023,
+        "word": "时代峰峻声明",
+        "onboard_time": 1724858665,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134418,
+        "num": 550522,
+        "word": "奥运冠军教练称住处遭入侵搬空",
+        "onboard_time": 1724904742,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546491,
+        "num": 546491,
+        "word": "山东高密当街发生命案警方回应",
+        "onboard_time": 1724900361,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 448055,
+        "num": 448055,
+        "word": "河南一女性在树林自缢身亡",
+        "onboard_time": 1724860946,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323522,
+        "num": 447615,
+        "word": "边水往事大结局收官礼",
+        "onboard_time": 1724904921,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 447429,
+        "num": 447429,
+        "word": "疑似文泰一受害女生发声",
+        "onboard_time": 1724895560,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35066,
+        "num": 446036,
+        "word": "有珠宝企业称曾被铁头碰瓷",
+        "onboard_time": 1724905403,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442627,
+        "num": 445560,
+        "word": "山东高密命案嫌疑人已被采取强制措施",
+        "onboard_time": 1724902521,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 445297,
+        "num": 445297,
+        "word": "孙颖莎樊振东潘展乐今日访港",
+        "onboard_time": 1724899100,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362515,
+        "num": 362515,
+        "word": "女子点单等1分钟吼哭店员被老板拉黑",
+        "onboard_time": 1724904441,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346736,
+        "num": 346736,
+        "word": "女子去印度旅游被一伙男子包围紧盯",
+        "onboard_time": 1724900001,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337744,
+        "num": 337744,
+        "word": "销售每天打400个骚扰电话",
+        "onboard_time": 1724894361,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331979,
+        "num": 331979,
+        "word": "林诗栋上大学王楚钦神叮嘱",
+        "onboard_time": 1724901082,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82630,
+        "num": 323134,
+        "word": "马卡龙色系平板戳到谁了",
+        "onboard_time": 1724905584,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 319203,
+        "num": 319203,
+        "word": "男rapper炮轰乙游为啥成了笑话",
+        "onboard_time": 1724906304,
+        "rank": 27,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 314327,
+        "num": 314327,
+        "word": "庞博文纹身",
+        "onboard_time": 1724900301,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308555,
+        "num": 308555,
+        "word": "晓卉能不能一直淘汰一直复活",
+        "onboard_time": 1724902400,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307641,
+        "num": 307641,
+        "word": "青岛代孕",
+        "onboard_time": 1724858245,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185435,
+        "num": 303215,
+        "word": "微博音乐盛典五大推荐启动",
+        "onboard_time": 1724905584,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 303036,
+        "num": 303036,
+        "word": "直播65名内地奥运健儿访港",
+        "onboard_time": 1724901740,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297646,
+        "num": 297646,
+        "word": "心动的信号7素人官宣",
+        "onboard_time": 1724902521,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287653,
+        "num": 287653,
+        "word": "黎深一往而深",
+        "onboard_time": 1724905466,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 283162,
+        "num": 283162,
+        "word": "这三个事原来是同一天",
+        "onboard_time": 1724892204,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267934,
+        "num": 267934,
+        "word": "咒术回战268话",
+        "onboard_time": 1724902400,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 267028,
+        "num": 267028,
+        "word": "南派三叔回应朱一龙不演吴邪",
+        "onboard_time": 1724894361,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240214,
+        "num": 240214,
+        "word": "河南电视台暗访代孕",
+        "onboard_time": 1724906004,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226521,
+        "num": 226521,
+        "word": "刘耀文给宋亚轩挡酒",
+        "onboard_time": 1724898202,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220564,
+        "num": 220564,
+        "word": "边水往事",
+        "onboard_time": 1724905883,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207861,
+        "num": 207861,
+        "word": "沙利文访华随行人员几乎都会说中文",
+        "onboard_time": 1724900060,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 205966,
+        "num": 205966,
+        "word": "宿傩这就死了",
+        "onboard_time": 1724906125,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 205951,
+        "num": 205951,
+        "word": "进一趟宠物医院两个月工资没了",
+        "onboard_time": 1724901440,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203500,
+        "num": 203500,
+        "word": "檀健次 你们就这么宣传我吗",
+        "onboard_time": 1724902161,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202826,
+        "num": 202826,
+        "word": "郭艾伦 下次别传球给我了",
+        "onboard_time": 1724889921,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200882,
+        "num": 200882,
+        "word": "樊振东等65名运动员抵达香港",
+        "onboard_time": 1724905705,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197867,
+        "num": 197867,
+        "word": "3成男性感染至少一种HPV",
+        "onboard_time": 1724903362,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 185201,
+        "num": 197663,
+        "word": "剑来君子不救名场面上线",
+        "onboard_time": 1724906125,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 197616,
+        "num": 197616,
+        "word": "35岁女生独立买房不考虑结婚",
+        "onboard_time": 1724904082,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记格外重视亿万民众共同的精神家园#"
+    }
+  }
+}

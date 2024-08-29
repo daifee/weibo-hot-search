@@ -1,6 +1,6 @@
 {
   "startTime": 1724862385087,
-  "endTime": 1724905513085,
+  "endTime": 1724906373773,
   "band_list": [
     {
       "raw_hot": 16324978,
@@ -11,6 +11,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 13240801,
+      "num": 13240801,
+      "word": "青岛代孕实验室",
+      "onboard_time": 1724903001,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10525258,
       "num": 3759964,
       "word": "时代峰峻声明",
@@ -19,12 +27,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 9796094,
-      "num": 9796094,
-      "word": "青岛代孕实验室",
-      "onboard_time": 1724903001,
-      "rank": 0,
-      "category": "社会新闻"
+      "raw_hot": 2504453,
+      "num": 565147,
+      "word": "建议大家不要去吃自助小火锅",
+      "onboard_time": 1724904561,
+      "rank": 10,
+      "category": "美食"
     },
     {
       "raw_hot": 2465703,
@@ -35,14 +43,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 2323621,
-      "num": 429991,
-      "word": "建议大家不要去吃自助小火锅",
-      "onboard_time": 1724904561,
-      "rank": 10,
-      "category": "美食"
-    },
-    {
       "raw_hot": 1909964,
       "num": 616307,
       "word": "山东高密当街发生命案警方回应",
@@ -51,8 +51,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1810010,
-      "num": 426329,
+      "raw_hot": 1845391,
+      "num": 560141,
       "word": "警方通报山东高密街头杀人案",
       "onboard_time": 1724903661,
       "rank": 11,
@@ -99,8 +99,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1217908,
-      "num": 423482,
+      "raw_hot": 1272032,
+      "num": 557023,
       "word": "我终于知道月经是蓝色的了",
       "onboard_time": 1724902761,
       "rank": 12,
@@ -163,6 +163,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 889621,
+      "num": 889621,
+      "word": "官方责令学校立即停用48人一间宿舍",
+      "onboard_time": 1724902042,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 874651,
       "num": 874651,
       "word": "大学生买房贷款失败退2万定金被驳回",
@@ -195,14 +203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 787453,
-      "num": 787453,
-      "word": "官方责令学校立即停用48人一间宿舍",
-      "onboard_time": 1724902042,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 762237,
       "num": 645678,
       "word": "疑似文泰一受害女生发声",
@@ -225,6 +225,14 @@
       "onboard_time": 1724853563,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 679035,
+      "num": 679035,
+      "word": "但拓下线",
+      "onboard_time": 1724904921,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 649803,
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 522799,
-      "num": 409767,
+      "num": 445560,
       "word": "山东高密命案嫌疑人已被采取强制措施",
       "onboard_time": 1724902521,
       "rank": 24,
@@ -379,14 +387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 391673,
-      "num": 391673,
-      "word": "但拓下线",
-      "onboard_time": 1724904921,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 386176,
       "num": 563728,
       "word": "重庆多地官宣延期开学",
@@ -401,6 +401,14 @@
       "onboard_time": 1724889921,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 362515,
+      "num": 362515,
+      "word": "女子点单等1分钟吼哭店员被老板拉黑",
+      "onboard_time": 1724904441,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 351208,
@@ -443,6 +451,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 323522,
+      "num": 447615,
+      "word": "边水往事大结局收官礼",
+      "onboard_time": 1724904921,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 319203,
+      "num": 319203,
+      "word": "男rapper炮轰乙游为啥成了笑话",
+      "onboard_time": 1724906304,
+      "rank": 27,
+      "category": "音乐,游戏"
+    },
+    {
       "raw_hot": 307758,
       "num": 732228,
       "word": "村民漫天要价镇政府强行打款后拆房",
@@ -459,20 +483,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 297646,
+      "num": 297646,
+      "word": "心动的信号7素人官宣",
+      "onboard_time": 1724902521,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297540,
       "num": 251998,
       "word": "短短一年而已好像变了一个人",
       "onboard_time": 1724889261,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 296777,
-      "num": 296777,
-      "word": "心动的信号7素人官宣",
-      "onboard_time": 1724902521,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 293811,
@@ -499,28 +523,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 282184,
-      "num": 282184,
-      "word": "女子点单等1分钟吼哭店员被老板拉黑",
-      "onboard_time": 1724904441,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 282088,
       "num": 282088,
       "word": "meovv全员公开",
       "onboard_time": 1724900480,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 269206,
-      "num": 269206,
-      "word": "边水往事大结局收官礼",
-      "onboard_time": 1724904921,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 265126,
@@ -577,6 +585,14 @@
       "onboard_time": 1724899042,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 240214,
+      "num": 240214,
+      "word": "河南电视台暗访代孕",
+      "onboard_time": 1724906004,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234897,
@@ -643,6 +659,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 220564,
+      "num": 220564,
+      "word": "边水往事",
+      "onboard_time": 1724905883,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217627,
       "num": 217627,
       "word": "刘端端二皇子拖鞋虽迟但到",
@@ -707,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205966,
+      "num": 205966,
+      "word": "宿傩这就死了",
+      "onboard_time": 1724906125,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 204687,
       "num": 297725,
       "word": "檀健次 你们就这么宣传我吗",
@@ -731,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200882,
+      "num": 200882,
+      "word": "樊振东等65名运动员抵达香港",
+      "onboard_time": 1724905705,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199067,
       "num": 199067,
       "word": "鹭卓射十环 不秀等于没射",
@@ -745,6 +785,14 @@
       "onboard_time": 1724864178,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197616,
+      "num": 197616,
+      "word": "35岁女生独立买房不考虑结婚",
+      "onboard_time": 1724904082,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 196856,
@@ -809,6 +857,22 @@
       "onboard_time": 1724893523,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185435,
+      "num": 303215,
+      "word": "微博音乐盛典五大推荐启动",
+      "onboard_time": 1724905584,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 185201,
+      "num": 197663,
+      "word": "剑来君子不救名场面上线",
+      "onboard_time": 1724906125,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 183652,
@@ -1051,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134418,
+      "num": 550522,
+      "word": "奥运冠军教练称住处遭入侵搬空",
+      "onboard_time": 1724904742,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133451,
       "num": 133451,
       "word": "庞博文直播",
@@ -1089,6 +1161,14 @@
       "onboard_time": 1724851765,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 116675,
+      "num": 570433,
+      "word": "起底青岛涉代孕公司",
+      "onboard_time": 1724905764,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114790,
@@ -1219,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82630,
+      "num": 323134,
+      "word": "马卡龙色系平板戳到谁了",
+      "onboard_time": 1724905584,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 82413,
       "num": 109296,
       "word": "在我家那闺女里看到的女性困境",
@@ -1281,14 +1369,6 @@
       "onboard_time": 1724878571,
       "rank": 40,
       "category": "国内时政,国外时政"
-    },
-    {
-      "raw_hot": 64112,
-      "num": 419917,
-      "word": "奥运冠军教练称住处遭入侵搬空",
-      "onboard_time": 1724904742,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 63580,
@@ -1411,6 +1491,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 35066,
+      "num": 446036,
+      "word": "有珠宝企业称曾被铁头碰瓷",
+      "onboard_time": 1724905403,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35005,
       "num": 54198,
       "word": "残奥会开幕式 感动",
@@ -1480,14 +1568,6 @@
       "word": "湖北一个地名就是一段传奇",
       "onboard_time": 1724873113,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24336,
-      "num": 405024,
-      "word": "有珠宝企业称曾被铁头碰瓷",
-      "onboard_time": 1724905403,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
