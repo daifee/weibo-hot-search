@@ -1,6 +1,6 @@
 {
   "startTime": 1724862385087,
-  "endTime": 1724888147772,
+  "endTime": 1724894918907,
   "band_list": [
     {
       "raw_hot": 16324978,
@@ -51,6 +51,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1053531,
+      "num": 915537,
+      "word": "时代少年团 喝酒",
+      "onboard_time": 1724891365,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1009088,
+      "num": 1009088,
+      "word": "16岁学霸女生晚上离家出走后身亡",
+      "onboard_time": 1724886376,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 987516,
       "num": 845302,
       "word": "登陆少年将以5人团形式运营",
@@ -60,18 +76,26 @@
     },
     {
       "raw_hot": 922139,
-      "num": 277172,
+      "num": 463085,
       "word": "马頔为李纯减重20斤",
       "onboard_time": 1724886376,
       "rank": 11,
       "category": "综艺"
     },
     {
-      "raw_hot": 852511,
-      "num": 852511,
-      "word": "16岁学霸女生晚上离家出走后身亡",
-      "onboard_time": 1724886376,
-      "rank": 15,
+      "raw_hot": 913828,
+      "num": 572353,
+      "word": "豆得儿官宣分手",
+      "onboard_time": 1724890342,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 874651,
+      "num": 874651,
+      "word": "大学生买房贷款失败退2万定金被驳回",
+      "onboard_time": 1724888662,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -81,6 +105,14 @@
       "onboard_time": 1724867954,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 805487,
+      "num": 571453,
+      "word": "这三个事原来是同一天",
+      "onboard_time": 1724892204,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 796215,
@@ -123,6 +155,38 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 588415,
+      "num": 252616,
+      "word": "828内韩娱事变",
+      "onboard_time": 1724891304,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 576650,
+      "num": 1823186,
+      "word": "还原献血8次不能优先用血事件真相",
+      "onboard_time": 1724857524,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 565239,
+      "num": 565239,
+      "word": "郑钦文一场比赛轰出20记Ace",
+      "onboard_time": 1724888179,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 557602,
+      "num": 353818,
+      "word": "文泰一涉嫌强奸",
+      "onboard_time": 1724842524,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 552663,
       "num": 5744538,
       "word": "深圳妇联回应4胞胎父亲收入微薄",
@@ -155,22 +219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 472138,
-      "num": 1823186,
-      "word": "还原献血8次不能优先用血事件真相",
-      "onboard_time": 1724857524,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 353818,
-      "num": 353818,
-      "word": "文泰一涉嫌强奸",
-      "onboard_time": 1724842524,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 351208,
       "num": 1070372,
       "word": "钓鱼佬在龙门石窟附近钓上一尊佛头",
@@ -180,7 +228,7 @@
     },
     {
       "raw_hot": 334450,
-      "num": 371249,
+      "num": 563728,
       "word": "重庆多地官宣延期开学",
       "onboard_time": 1724865257,
       "rank": 16,
@@ -195,6 +243,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297540,
+      "num": 251998,
+      "word": "短短一年而已好像变了一个人",
+      "onboard_time": 1724889261,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 297141,
+      "num": 297141,
+      "word": "原来电梯神图是这样出片的",
+      "onboard_time": 1724869454,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 293811,
       "num": 444265,
       "word": "徐璐打夏之光 已老实求放过",
@@ -203,7 +267,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256139,
+      "raw_hot": 292111,
       "num": 444718,
       "word": "心疼儿媳公婆偷偷买了40克金手镯补偿",
       "onboard_time": 1724853624,
@@ -211,12 +275,60 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 248804,
+      "raw_hot": 287063,
+      "num": 287063,
+      "word": "男方举牌声讨女方退还34万彩礼钱",
+      "onboard_time": 1724891845,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265126,
+      "num": 443982,
+      "word": "原来运动后皮肤真的能变好",
+      "onboard_time": 1724860110,
+      "rank": 25,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 253321,
+      "num": 253321,
+      "word": "郭艾伦 下次别传球给我了",
+      "onboard_time": 1724889921,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 249594,
       "num": 1067282,
       "word": "生下4胞胎父亲称对孩子性别没预期",
       "onboard_time": 1724856026,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231207,
+      "num": 231207,
+      "word": "一次不戴头盔换来终生内向",
+      "onboard_time": 1724893105,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 226906,
+      "num": 226906,
+      "word": "登陆少年五人出道博文",
+      "onboard_time": 1724891123,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 224108,
+      "num": 224108,
+      "word": "南派三叔回应朱一龙不演吴邪",
+      "onboard_time": 1724894361,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 215040,
@@ -259,12 +371,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202440,
-      "num": 443982,
-      "word": "原来运动后皮肤真的能变好",
-      "onboard_time": 1724860110,
-      "rank": 25,
-      "category": "运动健身"
+      "raw_hot": 201051,
+      "num": 201051,
+      "word": "余宇涵删除出道微博",
+      "onboard_time": 1724888359,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 198529,
@@ -283,12 +395,60 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194241,
+      "num": 194241,
+      "word": "月薪10万的人不想吃鼎泰丰了",
+      "onboard_time": 1724886677,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 192667,
+      "num": 192667,
+      "word": "郑钦文将再度迎战尼迈尔",
+      "onboard_time": 1724890943,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192401,
+      "num": 192401,
+      "word": "中国军机和埃及金字塔拍了游客照",
+      "onboard_time": 1724886797,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 188702,
+      "num": 188702,
+      "word": "郑钦文谈美网女单第三轮",
+      "onboard_time": 1724893523,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 183087,
+      "num": 183087,
+      "word": "上海街头的松弛感真的让人紧张",
+      "onboard_time": 1724890703,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 182946,
       "num": 443618,
       "word": "宋祖儿前公司报案",
       "onboard_time": 1724860290,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177882,
+      "num": 177882,
+      "word": "销售每天打400个骚扰电话",
+      "onboard_time": 1724894361,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176115,
@@ -305,6 +465,14 @@
       "onboard_time": 1724852184,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172486,
+      "num": 172486,
+      "word": "陕西历史博物馆回应被指涉嫌抄袭",
+      "onboard_time": 1724868195,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170313,
@@ -331,6 +499,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 155016,
+      "num": 155016,
+      "word": "章子怡阿玛尼高定",
+      "onboard_time": 1724892863,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 152311,
       "num": 439622,
       "word": "迪丽热巴绿野仙踪造型",
@@ -347,11 +523,11 @@
       "category": "网红"
     },
     {
-      "raw_hot": 149707,
-      "num": 149707,
-      "word": "陕西历史博物馆回应被指涉嫌抄袭",
-      "onboard_time": 1724868195,
-      "rank": 39,
+      "raw_hot": 149242,
+      "num": 297376,
+      "word": "老人要取100万买黄金银行秒报警",
+      "onboard_time": 1724886737,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -371,12 +547,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136616,
+      "num": 136616,
+      "word": "老人30万金饰存单藏米袋被子女扔掉",
+      "onboard_time": 1724892745,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136041,
       "num": 438208,
       "word": "广东5岁小孩流感后确诊急性脑坏死",
       "onboard_time": 1724854403,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133451,
+      "num": 133451,
+      "word": "庞博文直播",
+      "onboard_time": 1724894602,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 132291,
+      "num": 132291,
+      "word": "巴黎再次飘起中国红",
+      "onboard_time": 1724888662,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 130353,
@@ -403,12 +603,12 @@
       "category": "音乐,游戏"
     },
     {
-      "raw_hot": 123752,
-      "num": 123752,
-      "word": "中国军机和埃及金字塔拍了游客照",
-      "onboard_time": 1724886797,
-      "rank": 41,
-      "category": "国内时政"
+      "raw_hot": 124100,
+      "num": 124100,
+      "word": "被茶卡盐湖马卡龙色系晚霞美到了",
+      "onboard_time": 1724894062,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 123046,
@@ -507,28 +707,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100565,
-      "num": 159449,
-      "word": "原来电梯神图是这样出片的",
-      "onboard_time": 1724869454,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 100053,
       "num": 205425,
       "word": "檀健次工作室好city的宣发",
       "onboard_time": 1724861664,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 96946,
-      "num": 109391,
-      "word": "月薪10万的人不想吃鼎泰丰了",
-      "onboard_time": 1724886677,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 91256,
@@ -617,14 +801,6 @@
       "onboard_time": 1724886437,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 52370,
-      "num": 297376,
-      "word": "老人要取100万买黄金银行秒报警",
-      "onboard_time": 1724886737,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51429,
@@ -723,8 +899,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11728,
-      "num": 756334,
+      "raw_hot": 16810,
+      "num": 916045,
       "word": "又一世界首座完成重要建设节点",
       "onboard_time": 1724852184,
       "rank": 2,
