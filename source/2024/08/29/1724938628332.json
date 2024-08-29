@@ -1,0 +1,410 @@
+{
+  "runTime": 1724938628332,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4014442,
+        "num": 4014442,
+        "word": "绘旅人开战痞老板",
+        "onboard_time": 1724938523,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 3863915,
+        "num": 3863915,
+        "word": "绘旅人站起来了",
+        "onboard_time": 1724935702,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 5412,
+        "num": 2643027,
+        "word": "网络文明在我身边",
+        "onboard_time": 1724917341,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2589850,
+        "num": 2589850,
+        "word": "多名韩女性在中国互联网求助",
+        "onboard_time": 1724931081,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2331155,
+        "num": 2331155,
+        "word": "绘旅人 嫡女",
+        "onboard_time": 1724936243,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1584679,
+        "num": 1584679,
+        "word": "国防部用黑神话悟空回应美菲南海挑衅",
+        "onboard_time": 1724934861,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1211345,
+        "num": 1211345,
+        "word": "海螺肉最有种的一集",
+        "onboard_time": 1724937323,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1187609,
+        "num": 1187609,
+        "word": "欧阳娣娣体操难度系数",
+        "onboard_time": 1724934682,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 588157,
+        "num": 1134460,
+        "word": "老人走了 家就散了",
+        "onboard_time": 1724928982,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209338,
+        "num": 1109195,
+        "word": "中国美术学院",
+        "onboard_time": 1724934261,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1089550,
+        "num": 1089550,
+        "word": "小红书主页",
+        "onboard_time": 1724925921,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 957453,
+        "num": 957453,
+        "word": "考编成功后在汝州疾控中心假装上班",
+        "onboard_time": 1724933061,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 891290,
+        "num": 891290,
+        "word": "儿子跟妈妈摆摊10天收入10000元",
+        "onboard_time": 1724933903,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14762,
+        "num": 853616,
+        "word": "献血助学背后的血浆生意",
+        "onboard_time": 1724938283,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40954,
+        "num": 843496,
+        "word": "网友上问政四川平台要求地铁拒绝coser",
+        "onboard_time": 1724938102,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 839228,
+        "num": 839228,
+        "word": "莎头 大合照全过程",
+        "onboard_time": 1724933600,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 556726,
+        "num": 830888,
+        "word": "宣璐艺术体操冠军",
+        "onboard_time": 1724937444,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411803,
+        "num": 812861,
+        "word": "藏海花尺度",
+        "onboard_time": 1724926581,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 411447,
+        "num": 793276,
+        "word": "赵露思养狗人的条件反射",
+        "onboard_time": 1724932101,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 51374,
+        "num": 773660,
+        "word": "湖南武冈一施工路段挖出巨型石龟",
+        "onboard_time": 1724938463,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 768510,
+        "num": 768510,
+        "word": "全红婵霍启刚热聊",
+        "onboard_time": 1724936182,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 632186,
+        "num": 632186,
+        "word": "警方回应中国美院教授被传强奸女生",
+        "onboard_time": 1724933600,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565137,
+        "num": 565137,
+        "word": "韩国 换脸",
+        "onboard_time": 1724919022,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529068,
+        "num": 529068,
+        "word": "孙颖莎真听劝",
+        "onboard_time": 1724922439,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 403689,
+        "num": 403689,
+        "word": "WTT中国大满贯双打名单",
+        "onboard_time": 1724930540,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 389344,
+        "num": 389344,
+        "word": "建议大家不要去吃自助小火锅",
+        "onboard_time": 1724904561,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 366075,
+        "num": 366075,
+        "word": "曾黎家里有1500斤自制酵素",
+        "onboard_time": 1724912422,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300998,
+        "num": 336664,
+        "word": "佳偶天成",
+        "onboard_time": 1724937144,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253866,
+        "num": 328205,
+        "word": "刘亚仁涉嫌性侵同性接受警方调查",
+        "onboard_time": 1724924121,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233612,
+        "num": 324885,
+        "word": "赵粤艺术体操表情管理",
+        "onboard_time": 1724937804,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322022,
+        "num": 322022,
+        "word": "女性一生只能排出300多个卵子",
+        "onboard_time": 1724933541,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 301959,
+        "num": 301959,
+        "word": "这个猫水碗有点辱猫了",
+        "onboard_time": 1724933303,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256756,
+        "num": 256756,
+        "word": "试管龙凤胎产后6个月却自怀了",
+        "onboard_time": 1724916800,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248806,
+        "num": 248806,
+        "word": "长期关系的核心根本不是因为爱",
+        "onboard_time": 1724935221,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242712,
+        "num": 242712,
+        "word": "女子花2万割双眼皮控诉成了悲伤蛙",
+        "onboard_time": 1724915001,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240156,
+        "num": 240156,
+        "word": "老农干活太猛致心脏起搏器跳出体外",
+        "onboard_time": 1724923282,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233921,
+        "num": 233921,
+        "word": "我爸在网易上班",
+        "onboard_time": 1724938463,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220498,
+        "num": 220498,
+        "word": "中国美院回应教师涉嫌犯罪",
+        "onboard_time": 1724932822,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219674,
+        "num": 219674,
+        "word": "霍启刚现身内地奥运健儿欢迎晚宴",
+        "onboard_time": 1724936843,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217391,
+        "num": 217391,
+        "word": "第一个在飞机上度过爱豆生涯的人",
+        "onboard_time": 1724937023,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26534,
+        "num": 210730,
+        "word": "高圆圆看展造型",
+        "onboard_time": 1724938404,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19932,
+        "num": 210645,
+        "word": "熬夜玩黑神话的嘻嘻和不嘻嘻",
+        "onboard_time": 1724937624,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210613,
+        "num": 210613,
+        "word": "易烊千玺谈为何做演员",
+        "onboard_time": 1724933961,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207451,
+        "num": 207451,
+        "word": "樊振东好意气风发",
+        "onboard_time": 1724931861,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203204,
+        "num": 203204,
+        "word": "跟妈妈吐槽工作想辞职被整破防了",
+        "onboard_time": 1724930721,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185735,
+        "num": 201625,
+        "word": "连云港一女子在公司参加酒局后身亡",
+        "onboard_time": 1724936542,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201599,
+        "num": 201599,
+        "word": "李纯说不会宣扬和马頔状态",
+        "onboard_time": 1724930360,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193077,
+        "num": 193077,
+        "word": "余宇涵退团",
+        "onboard_time": 1724858665,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183977,
+        "num": 183977,
+        "word": "lgdnbw",
+        "onboard_time": 1724935342,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 178659,
+        "num": 178659,
+        "word": "韩国造型师给曾黎做的妆发",
+        "onboard_time": 1724934083,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见沙利文#"
+    }
+  }
+}
