@@ -1,6 +1,6 @@
 {
   "startTime": 1724948777601,
-  "endTime": 1724973645410,
+  "endTime": 1724974556196,
   "band_list": [
     {
       "raw_hot": 8843262,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1004649,
+      "num": 1004649,
+      "word": "黄子韬还得徐艺洋来治",
+      "onboard_time": 1724973016,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 965838,
       "num": 965838,
       "word": "包贝尔 素人博主",
@@ -99,6 +107,14 @@
       "category": "音乐,游戏"
     },
     {
+      "raw_hot": 738507,
+      "num": 738507,
+      "word": "恋与制作人 跳梁小丑不足为惧",
+      "onboard_time": 1724973016,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 701064,
       "num": 960756,
       "word": "幸会嘻哈延期",
@@ -120,14 +136,6 @@
       "word": "腾讯视频 幸会嘻哈",
       "onboard_time": 1724943625,
       "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 644113,
-      "num": 644113,
-      "word": "黄子韬还得徐艺洋来治",
-      "onboard_time": 1724973016,
-      "rank": 1,
       "category": "综艺"
     },
     {
@@ -163,27 +171,27 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 416352,
-      "num": 416352,
-      "word": "绘旅人 嫡女",
-      "onboard_time": 1724936243,
-      "rank": 20,
-      "category": "游戏"
+      "raw_hot": 467434,
+      "num": 467434,
+      "word": "痞老板发投降书",
+      "onboard_time": 1724974036,
+      "rank": 6,
+      "category": "游戏,艺人"
     },
     {
-      "raw_hot": 393371,
-      "num": 393371,
+      "raw_hot": 422565,
+      "num": 422565,
       "word": "考编成功后在汝州疾控中心假装上班",
       "onboard_time": 1724933061,
       "rank": 37,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 389451,
-      "num": 389451,
-      "word": "恋与制作人 跳梁小丑不足为惧",
-      "onboard_time": 1724973016,
-      "rank": 7,
+      "raw_hot": 416352,
+      "num": 416352,
+      "word": "绘旅人 嫡女",
+      "onboard_time": 1724936243,
+      "rank": 20,
       "category": "游戏"
     },
     {
@@ -211,8 +219,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 345531,
-      "num": 324930,
+      "raw_hot": 346500,
+      "num": 346500,
       "word": "脑梗男子贷款60万打赏女主播当榜一",
       "onboard_time": 1724940626,
       "rank": 28,
@@ -275,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252226,
+      "num": 252226,
+      "word": "涉代孕公司法人关联一试管婴儿公司",
+      "onboard_time": 1724952855,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235733,
       "num": 228290,
       "word": "海螺肉最有种的一集",
@@ -305,14 +321,6 @@
       "onboard_time": 1724940204,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 221815,
-      "num": 221815,
-      "word": "涉代孕公司法人关联一试管婴儿公司",
-      "onboard_time": 1724952855,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220262,
@@ -363,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187939,
+      "num": 191837,
+      "word": "公司回应女子参加酒局后身亡",
+      "onboard_time": 1724956574,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184599,
       "num": 184599,
       "word": "世界之外",
@@ -401,14 +417,6 @@
       "onboard_time": 1724942905,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167204,
-      "num": 191837,
-      "word": "公司回应女子参加酒局后身亡",
-      "onboard_time": 1724956574,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166362,
@@ -467,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141549,
+      "num": 141549,
+      "word": "让该休可休变成必休",
+      "onboard_time": 1724969052,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140984,
       "num": 140984,
       "word": "我们有自己的rap",
@@ -483,20 +499,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 126689,
-      "num": 136103,
-      "word": "让该休可休变成必休",
-      "onboard_time": 1724969052,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120504,
       "num": 120504,
       "word": "小潘正是爱炫耀的年纪",
       "onboard_time": 1724970553,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109613,
+      "num": 109613,
+      "word": "只有派克特一个人信了",
+      "onboard_time": 1724974158,
+      "rank": 33,
+      "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 104738,
+      "num": 104738,
+      "word": "阿如那的偶像是蒋奇明",
+      "onboard_time": 1724973258,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 98716,
@@ -515,28 +539,52 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 78034,
-      "num": 78034,
-      "word": "求王一博韩语返场教程",
-      "onboard_time": 1724969293,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 73875,
-      "num": 83721,
+      "raw_hot": 81807,
+      "num": 84205,
       "word": "娜扎说做过最丢脸的事情是穷哈",
       "onboard_time": 1724952436,
       "rank": 49,
       "category": "综艺"
     },
     {
-      "raw_hot": 66729,
-      "num": 77430,
+      "raw_hot": 78938,
+      "num": 84193,
+      "word": "求王一博韩语返场教程",
+      "onboard_time": 1724969293,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 78276,
+      "num": 84179,
+      "word": "路虎女司机逆行插队追尾还打人",
+      "onboard_time": 1724974098,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75043,
+      "num": 84171,
+      "word": "微博音乐盛典线上推荐",
+      "onboard_time": 1724974519,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 74146,
+      "num": 84167,
       "word": "黑神话悟空脸模背后的故事",
       "onboard_time": 1724972414,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 69502,
+      "num": 84147,
+      "word": "全红婵手上又多了一个公仔",
+      "onboard_time": 1724974519,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 64775,
@@ -563,12 +611,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54913,
-      "num": 77266,
-      "word": "阿如那的偶像是蒋奇明",
-      "onboard_time": 1724973258,
-      "rank": 47,
-      "category": "作品衍生"
+      "raw_hot": 61232,
+      "num": 370354,
+      "word": "为了让小朋友乘车静音家长都拼了",
+      "onboard_time": 1724966711,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44782,
@@ -579,15 +627,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44556,
-      "num": 324947,
-      "word": "为了让小朋友乘车静音家长都拼了",
-      "onboard_time": 1724966711,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33736,
+      "raw_hot": 37278,
       "num": 993961,
       "word": "一组数据透视中国能源转型",
       "onboard_time": 1724936843,

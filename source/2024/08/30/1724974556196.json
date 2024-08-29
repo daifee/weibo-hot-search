@@ -1,0 +1,410 @@
+{
+  "runTime": 1724974556196,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1004649,
+        "num": 1004649,
+        "word": "黄子韬还得徐艺洋来治",
+        "onboard_time": 1724973016,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 950746,
+        "num": 950746,
+        "word": "绘旅人开战痞老板",
+        "onboard_time": 1724938523,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 37278,
+        "num": 798462,
+        "word": "一组数据透视中国能源转型",
+        "onboard_time": 1724936843,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 738507,
+        "num": 738507,
+        "word": "恋与制作人 跳梁小丑不足为惧",
+        "onboard_time": 1724973016,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 600371,
+        "num": 600371,
+        "word": "俄罗斯前反恐部门负责人被肉噎死",
+        "onboard_time": 1724939184,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 529366,
+        "num": 529366,
+        "word": "包贝尔 素人博主",
+        "onboard_time": 1724943746,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467434,
+        "num": 467434,
+        "word": "痞老板发投降书",
+        "onboard_time": 1724974036,
+        "rank": 6,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 422565,
+        "num": 422565,
+        "word": "考编成功后在汝州疾控中心假装上班",
+        "onboard_time": 1724933061,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419922,
+        "num": 419922,
+        "word": "打击代孕应成为全社会共识",
+        "onboard_time": 1724946742,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61232,
+        "num": 370354,
+        "word": "为了让小朋友乘车静音家长都拼了",
+        "onboard_time": 1724966711,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366827,
+        "num": 366827,
+        "word": "N号房2.0",
+        "onboard_time": 1724947882,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346500,
+        "num": 346500,
+        "word": "脑梗男子贷款60万打赏女主播当榜一",
+        "onboard_time": 1724940626,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336315,
+        "num": 336315,
+        "word": "留给米哈游的时间不多了",
+        "onboard_time": 1724944166,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 329735,
+        "num": 329735,
+        "word": "女性一生只能排出300多个卵子",
+        "onboard_time": 1724933541,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 308395,
+        "num": 308395,
+        "word": "痞老板",
+        "onboard_time": 1724938763,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269371,
+        "num": 269371,
+        "word": "儿子跟妈妈摆摊10天收入10000元",
+        "onboard_time": 1724933903,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252226,
+        "num": 252226,
+        "word": "涉代孕公司法人关联一试管婴儿公司",
+        "onboard_time": 1724952855,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216213,
+        "num": 216213,
+        "word": "张博洋 我没有走我一直都在这",
+        "onboard_time": 1724968572,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197566,
+        "num": 197566,
+        "word": "蒋奇明崔恩尔 势均力敌的爱情",
+        "onboard_time": 1724943265,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162093,
+        "num": 189519,
+        "word": "老人走了 家就散了",
+        "onboard_time": 1724928982,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233000,
+        "num": 189401,
+        "word": "绘旅人 嫡女",
+        "onboard_time": 1724936243,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187939,
+        "num": 187939,
+        "word": "公司回应女子参加酒局后身亡",
+        "onboard_time": 1724956574,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158399,
+        "num": 158399,
+        "word": "绘旅人站起来了",
+        "onboard_time": 1724935702,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158045,
+        "num": 158045,
+        "word": "我爸在网易上班",
+        "onboard_time": 1724938463,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150999,
+        "num": 150999,
+        "word": "国防部用黑神话悟空回应美菲南海挑衅",
+        "onboard_time": 1724934861,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 147975,
+        "num": 147975,
+        "word": "要所有居高临下傲慢之徒看仔细",
+        "onboard_time": 1724941344,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141549,
+        "num": 141549,
+        "word": "让该休可休变成必休",
+        "onboard_time": 1724969052,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135184,
+        "num": 135184,
+        "word": "余宇涵 失声",
+        "onboard_time": 1724944886,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129544,
+        "num": 129544,
+        "word": "腾讯视频 幸会嘻哈",
+        "onboard_time": 1724943625,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119819,
+        "num": 119819,
+        "word": "宣璐女子50米游泳冠军",
+        "onboard_time": 1724949140,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140262,
+        "num": 117588,
+        "word": "大一新生宿舍的第一次矛盾",
+        "onboard_time": 1724946863,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136859,
+        "num": 117378,
+        "word": "孙颖莎全红婵成香港新打卡点",
+        "onboard_time": 1724940204,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114424,
+        "num": 114424,
+        "word": "全红婵霍启刚热聊",
+        "onboard_time": 1724936182,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109613,
+        "num": 109613,
+        "word": "只有派克特一个人信了",
+        "onboard_time": 1724974158,
+        "rank": 33,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 109467,
+        "num": 109467,
+        "word": "代孕几乎每个环节都涉嫌违法",
+        "onboard_time": 1724949918,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105682,
+        "num": 105682,
+        "word": "小潘正是爱炫耀的年纪",
+        "onboard_time": 1724970553,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104738,
+        "num": 104738,
+        "word": "阿如那的偶像是蒋奇明",
+        "onboard_time": 1724973258,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97864,
+        "num": 97864,
+        "word": "欧冠抽签",
+        "onboard_time": 1724951357,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96530,
+        "num": 96530,
+        "word": "未定事件簿",
+        "onboard_time": 1724943025,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 91262,
+        "num": 91262,
+        "word": "盖尔加朵曾被换脸色情片女主",
+        "onboard_time": 1724948840,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84208,
+        "num": 84208,
+        "word": "徐嘉余晒合照拍到张雨霏打哈欠",
+        "onboard_time": 1724946323,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81807,
+        "num": 84205,
+        "word": "娜扎说做过最丢脸的事情是穷哈",
+        "onboard_time": 1724952436,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81438,
+        "num": 84194,
+        "word": "恋与制作人",
+        "onboard_time": 1724943325,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 78938,
+        "num": 84193,
+        "word": "求王一博韩语返场教程",
+        "onboard_time": 1724969293,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 81035,
+        "num": 84185,
+        "word": "乙游",
+        "onboard_time": 1724941764,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 78276,
+        "num": 84179,
+        "word": "路虎女司机逆行插队追尾还打人",
+        "onboard_time": 1724974098,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75043,
+        "num": 84171,
+        "word": "微博音乐盛典线上推荐",
+        "onboard_time": 1724974519,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 74146,
+        "num": 84167,
+        "word": "黑神话悟空脸模背后的故事",
+        "onboard_time": 1724972414,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 71879,
+        "num": 84155,
+        "word": "被六小龄童猴戏表演硬控",
+        "onboard_time": 1724950398,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69502,
+        "num": 84147,
+        "word": "全红婵手上又多了一个公仔",
+        "onboard_time": 1724974519,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见沙利文#"
+    }
+  }
+}
