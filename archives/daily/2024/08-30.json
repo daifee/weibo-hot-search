@@ -1,6 +1,6 @@
 {
   "startTime": 1724948777601,
-  "endTime": 1724960146451,
+  "endTime": 1724962920662,
   "band_list": [
     {
       "raw_hot": 8843262,
@@ -475,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 63962,
+      "num": 159369,
+      "word": "中戏表演系主任谈演员被挑选",
+      "onboard_time": 1724958432,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61427,
       "num": 61427,
       "word": "代孕的黑色产业链必须消除",
@@ -499,14 +507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29560,
-      "num": 159369,
-      "word": "中戏表演系主任谈演员被挑选",
-      "onboard_time": 1724958432,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 29088,
       "num": 42202,
       "word": "郑钦文 逆转女王",
@@ -523,11 +523,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27737,
+      "num": 27737,
+      "word": "未来一周四川重庆仍是高温控场",
+      "onboard_time": 1724960291,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17156,
+      "num": 84814,
+      "word": "高温下川渝两地如何应对",
+      "onboard_time": 1724962152,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12607,
       "num": 1601879,
       "word": "网络文明在我身边",
       "onboard_time": 1724917341,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11003,
+      "num": 35088,
+      "word": "古人用铁做了一副对联",
+      "onboard_time": 1724962811,
+      "rank": 34,
       "category": "社会新闻"
     }
   ],
