@@ -1,6 +1,6 @@
 {
   "startTime": 1724862385087,
-  "endTime": 1724916916898,
+  "endTime": 1724920020000,
   "band_list": [
     {
       "raw_hot": 16324978,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2504453,
-      "num": 615032,
+      "num": 718885,
       "word": "建议大家不要去吃自助小火锅",
       "onboard_time": 1724904561,
       "rank": 10,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2001569,
+      "num": 2001569,
+      "word": "女子花2万割双眼皮控诉成了悲伤蛙",
+      "onboard_time": 1724915001,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1962250,
       "num": 1962250,
       "word": "曾黎家里有1500斤自制酵素",
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1845391,
-      "num": 604742,
+      "num": 696338,
       "word": "警方通报山东高密街头杀人案",
       "onboard_time": 1724903661,
       "rank": 11,
@@ -131,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1253747,
+      "num": 569450,
+      "word": "试管龙凤胎产后6个月却自怀了",
+      "onboard_time": 1724916800,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1239373,
       "num": 968485,
       "word": "黄子韬 艺洋OK",
@@ -139,8 +155,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1203739,
-      "num": 1203739,
+      "raw_hot": 1232986,
+      "num": 1232986,
       "word": "生下4胞胎向社会求助有错吗",
       "onboard_time": 1724909843,
       "rank": 47,
@@ -169,6 +185,22 @@
       "onboard_time": 1724894361,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1081669,
+      "num": 1081669,
+      "word": "痞老板 乙游Freestyle",
+      "onboard_time": 1724917341,
+      "rank": 4,
+      "category": "音乐,游戏"
+    },
+    {
+      "raw_hot": 1078412,
+      "num": 1078412,
+      "word": "奥运金牌团访港直播",
+      "onboard_time": 1724915421,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 1009088,
@@ -267,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 754345,
+      "num": 754345,
+      "word": "韩国 换脸",
+      "onboard_time": 1724919022,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 737207,
       "num": 603035,
       "word": "男明星代言卫生巾 男明星流量大",
@@ -321,14 +361,6 @@
       "onboard_time": 1724899100,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 648135,
-      "num": 569450,
-      "word": "试管龙凤胎产后6个月却自怀了",
-      "onboard_time": 1724916800,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 646240,
@@ -451,14 +483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 562943,
-      "num": 562943,
-      "word": "奥运金牌团访港直播",
-      "onboard_time": 1724915421,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 558818,
       "num": 558818,
       "word": "SM回应文泰一性暴力案件",
@@ -515,12 +539,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 475937,
+      "num": 475937,
+      "word": "伯远 我在INTO1半年没工作",
+      "onboard_time": 1724917281,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 474471,
       "num": 474471,
       "word": "828退团日",
       "onboard_time": 1724861186,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 471071,
+      "num": 471071,
+      "word": "我国人均预期寿命达到78.6岁",
+      "onboard_time": 1724914221,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 460331,
@@ -563,14 +603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 408380,
-      "num": 585066,
-      "word": "女子花2万割双眼皮控诉成了悲伤蛙",
-      "onboard_time": 1724915001,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 406271,
       "num": 571932,
       "word": "余宇涵修改微博认证",
@@ -593,6 +625,14 @@
       "onboard_time": 1724906304,
       "rank": 27,
       "category": "音乐,游戏"
+    },
+    {
+      "raw_hot": 374878,
+      "num": 374878,
+      "word": "孙颖莎笑得好开心",
+      "onboard_time": 1724917941,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 372988,
@@ -700,7 +740,7 @@
     },
     {
       "raw_hot": 305105,
-      "num": 310529,
+      "num": 746019,
       "word": "我国从海上发射一箭6星",
       "onboard_time": 1724914581,
       "rank": 32,
@@ -723,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299152,
+      "num": 299152,
+      "word": "高校向新生调查是否有过性行为",
+      "onboard_time": 1724915661,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297646,
       "num": 297646,
       "word": "心动的信号7素人官宣",
@@ -737,6 +785,14 @@
       "onboard_time": 1724889261,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 296928,
+      "num": 296928,
+      "word": "原神5.0版本",
+      "onboard_time": 1724919380,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 293811,
@@ -803,14 +859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 275434,
-      "num": 275434,
-      "word": "我国人均预期寿命达到78.6岁",
-      "onboard_time": 1724914221,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 271729,
       "num": 271729,
       "word": "香港为奥运健儿举行欢迎仪式",
@@ -825,6 +873,14 @@
       "onboard_time": 1724860110,
       "rank": 25,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 264752,
+      "num": 264752,
+      "word": "Deepfake",
+      "onboard_time": 1724916862,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263493,
@@ -923,19 +979,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 238970,
+      "num": 238970,
+      "word": "Deepfake到底有多可怕",
+      "onboard_time": 1724916982,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234897,
       "num": 636258,
       "word": "进一趟宠物医院两个月工资没了",
       "onboard_time": 1724901440,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 234877,
-      "num": 234877,
-      "word": "高校向新生调查是否有过性行为",
-      "onboard_time": 1724915661,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -969,6 +1025,14 @@
       "onboard_time": 1724914103,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 231541,
+      "num": 231541,
+      "word": "奥运金牌团访港",
+      "onboard_time": 1724919201,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 230786,
@@ -1025,6 +1089,14 @@
       "onboard_time": 1724903362,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 221862,
+      "num": 221862,
+      "word": "张家口一中学操场塌方致1死",
+      "onboard_time": 1724918061,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220573,
@@ -1155,14 +1227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204453,
-      "num": 204453,
-      "word": "Deepfake",
-      "onboard_time": 1724916862,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203445,
       "num": 203445,
       "word": "马龙许昕快乐乒乓",
@@ -1251,6 +1315,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 193994,
+      "num": 193994,
+      "word": "三甲医生做一次代孕手术能拿1500元",
+      "onboard_time": 1724917161,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193483,
       "num": 448520,
       "word": "河北一中学女生入学须理运动短发",
@@ -1281,6 +1353,14 @@
       "onboard_time": 1724886797,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 191697,
+      "num": 191697,
+      "word": "迪丽热巴十年前的微博",
+      "onboard_time": 1724919681,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 191184,
@@ -1345,6 +1425,30 @@
       "onboard_time": 1724906545,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180658,
+      "num": 180658,
+      "word": "代号鸢",
+      "onboard_time": 1724918661,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 178292,
+      "num": 178292,
+      "word": "月经羞耻 精彩绝伦八分钟",
+      "onboard_time": 1724919564,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 177958,
+      "num": 177958,
+      "word": "怪不得小猫绝食了",
+      "onboard_time": 1724919982,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 176866,
@@ -1545,6 +1649,14 @@
       "onboard_time": 1724888662,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140548,
+      "num": 740063,
+      "word": "2024年还会有人买油车吗",
+      "onboard_time": 1724915300,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 136836,
@@ -1835,12 +1947,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 69931,
-      "num": 577395,
-      "word": "2024年还会有人买油车吗",
-      "onboard_time": 1724915300,
-      "rank": 30,
-      "category": "汽车"
+      "raw_hot": 70028,
+      "num": 297288,
+      "word": "美特斯邦威冲锋衣厉害在哪",
+      "onboard_time": 1724916921,
+      "rank": 26,
+      "category": "时尚"
     },
     {
       "raw_hot": 67710,
@@ -1915,6 +2027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60045,
+      "num": 230542,
+      "word": "京东服饰和VOGUE联合搞事情",
+      "onboard_time": 1724919320,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 59451,
       "num": 108880,
       "word": "台湾花莲海域再发4.0级地震",
@@ -1937,6 +2057,14 @@
       "onboard_time": 1724886437,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53063,
+      "num": 431063,
+      "word": "做家务才是中年男人最好的精神救赎",
+      "onboard_time": 1724918241,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51429,
@@ -2073,6 +2201,14 @@
       "onboard_time": 1724860049,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 32400,
+      "num": 1307080,
+      "word": "网络文明在我身边",
+      "onboard_time": 1724917341,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31364,
