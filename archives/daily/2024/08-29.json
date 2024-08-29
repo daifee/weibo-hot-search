@@ -1,6 +1,6 @@
 {
   "startTime": 1724862385087,
-  "endTime": 1724923412392,
+  "endTime": 1724924181545,
   "band_list": [
     {
       "raw_hot": 16324978,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 3687912,
-      "num": 1841994,
+      "num": 1970126,
       "word": "韩国 换脸",
       "onboard_time": 1724919022,
       "rank": 8,
@@ -49,6 +49,14 @@
       "onboard_time": 1724855125,
       "rank": 6,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2289885,
+      "num": 2289885,
+      "word": "孙颖莎真听劝",
+      "onboard_time": 1724922439,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 2032141,
@@ -235,6 +243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 927638,
+      "num": 927638,
+      "word": "Deepfake",
+      "onboard_time": 1724916862,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 922139,
       "num": 463085,
       "word": "马頔为李纯减重20斤",
@@ -299,20 +315,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 770463,
+      "num": 770463,
+      "word": "马龙再回应退役",
+      "onboard_time": 1724922620,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 762237,
       "num": 645678,
       "word": "疑似文泰一受害女生发声",
       "onboard_time": 1724895560,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 755118,
-      "num": 755118,
-      "word": "孙颖莎真听劝",
-      "onboard_time": 1724922439,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 737207,
@@ -353,14 +369,6 @@
       "onboard_time": 1724904921,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 669475,
-      "num": 669475,
-      "word": "Deepfake",
-      "onboard_time": 1724916862,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 656962,
@@ -409,6 +417,14 @@
       "onboard_time": 1724910442,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 622072,
+      "num": 622072,
+      "word": "吴谨言 大张伟大",
+      "onboard_time": 1724922620,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 617029,
@@ -465,6 +481,14 @@
       "onboard_time": 1724917941,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 579887,
+      "num": 629511,
+      "word": "我们必须坚定反对代孕",
+      "onboard_time": 1724920581,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 577176,
@@ -547,14 +571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 533358,
-      "num": 629511,
-      "word": "我们必须坚定反对代孕",
-      "onboard_time": 1724920581,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 522799,
       "num": 445560,
       "word": "山东高密命案嫌疑人已被采取强制措施",
@@ -619,12 +635,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 438926,
-      "num": 438926,
-      "word": "马龙再回应退役",
-      "onboard_time": 1724922620,
-      "rank": 22,
-      "category": "体育"
+      "raw_hot": 429170,
+      "num": 429170,
+      "word": "全力抓好改革任务的组织实施",
+      "onboard_time": 1724922981,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 426504,
@@ -643,12 +659,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 410653,
-      "num": 410653,
-      "word": "全力抓好改革任务的组织实施",
-      "onboard_time": 1724922981,
-      "rank": 23,
-      "category": "国内时政"
+      "raw_hot": 419170,
+      "num": 419170,
+      "word": "小胖其实看起来也没那么胖",
+      "onboard_time": 1724922320,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 406271,
@@ -673,14 +689,6 @@
       "onboard_time": 1724906304,
       "rank": 27,
       "category": "音乐,游戏"
-    },
-    {
-      "raw_hot": 374532,
-      "num": 551647,
-      "word": "吴谨言 大张伟大",
-      "onboard_time": 1724922620,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 372988,
@@ -907,16 +915,8 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 283847,
-      "num": 282663,
-      "word": "小胖其实看起来也没那么胖",
-      "onboard_time": 1724922320,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 282878,
-      "num": 282878,
+      "raw_hot": 287345,
+      "num": 287345,
       "word": "杨幂离场背影",
       "onboard_time": 1724921541,
       "rank": 27,
@@ -1251,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213503,
+      "num": 213503,
+      "word": "孙颖莎访港球迷尖叫声拉满",
+      "onboard_time": 1724924121,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211558,
       "num": 211558,
       "word": "四川多地宣布延迟开学",
@@ -1265,6 +1273,14 @@
       "onboard_time": 1724913081,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 209838,
+      "num": 209838,
+      "word": "不要成为除了工作什么都没有的人",
+      "onboard_time": 1724920771,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 209443,
@@ -1411,6 +1427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 197542,
+      "num": 197542,
+      "word": "对接否认余宇涵失踪",
+      "onboard_time": 1724921721,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196856,
       "num": 196856,
       "word": "黑神话让游戏主播先富起来了",
@@ -1491,14 +1515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190476,
-      "num": 190476,
-      "word": "对接否认余宇涵失踪",
-      "onboard_time": 1724921721,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 188702,
       "num": 188702,
       "word": "郑钦文谈美网女单第三轮",
@@ -1521,6 +1537,14 @@
       "onboard_time": 1724906125,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 183879,
+      "num": 186235,
+      "word": "必须闭嘴做的工作找到了",
+      "onboard_time": 1724923701,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 183652,
@@ -1547,11 +1571,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182613,
+      "num": 182613,
+      "word": "鹭卓就这么当弟弟的",
+      "onboard_time": 1724923521,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182444,
       "num": 612162,
       "word": "青岛涉代孕公司主营试管婴儿咨询",
       "onboard_time": 1724906545,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182162,
+      "num": 182162,
+      "word": "王楚然 山东话又增一员大将",
+      "onboard_time": 1724923521,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 180667,
+      "num": 482276,
+      "word": "取卵的过程是怎样的",
+      "onboard_time": 1724920220,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1563,12 +1611,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 177950,
-      "num": 177950,
-      "word": "不要成为除了工作什么都没有的人",
-      "onboard_time": 1724920771,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 180386,
+      "num": 180386,
+      "word": "刘亚仁涉嫌性侵同性接受警方调查",
+      "onboard_time": 1724924121,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 176866,
@@ -1584,14 +1632,6 @@
       "word": "冒充孙子诈骗团伙被端",
       "onboard_time": 1724895085,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176494,
-      "num": 482276,
-      "word": "取卵的过程是怎样的",
-      "onboard_time": 1724920220,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2059,6 +2099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72861,
+      "num": 733492,
+      "word": "男子3天吃5顿河豚十倍索赔被驳回",
+      "onboard_time": 1724922863,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72542,
       "num": 109110,
       "word": "王安宇很懂导游也很懂金晨",
@@ -2415,14 +2463,6 @@
       "num": 75562,
       "word": "湖北一个地名就是一段传奇",
       "onboard_time": 1724873113,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24252,
-      "num": 667478,
-      "word": "男子3天吃5顿河豚十倍索赔被驳回",
-      "onboard_time": 1724922863,
       "rank": 9,
       "category": "社会新闻"
     },
