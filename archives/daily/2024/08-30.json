@@ -1,6 +1,6 @@
 {
   "startTime": 1724948777601,
-  "endTime": 1724956072464,
+  "endTime": 1724956889597,
   "band_list": [
     {
       "raw_hot": 8843262,
@@ -323,8 +323,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187300,
-      "num": 187300,
+      "raw_hot": 191581,
+      "num": 191581,
       "word": "涉代孕公司法人关联一试管婴儿公司",
       "onboard_time": 1724952855,
       "rank": 25,
@@ -475,6 +475,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52781,
+      "num": 52781,
+      "word": "代孕的黑色产业链必须消除",
+      "onboard_time": 1724956393,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44782,
+      "num": 242074,
+      "word": "deepfake是一种换脸技术",
+      "onboard_time": 1724954714,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28938,
       "num": 993961,
       "word": "一组数据透视中国能源转型",
@@ -483,10 +499,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26135,
-      "num": 242074,
-      "word": "deepfake是一种换脸技术",
-      "onboard_time": 1724954714,
+      "raw_hot": 25499,
+      "num": 191837,
+      "word": "公司回应女子参加酒局后身亡",
+      "onboard_time": 1724956574,
       "rank": 9,
       "category": "社会新闻"
     },
