@@ -1,6 +1,6 @@
 {
   "startTime": 1724862385087,
-  "endTime": 1724920816699,
+  "endTime": 1724923412392,
   "band_list": [
     {
       "raw_hot": 16324978,
@@ -25,6 +25,14 @@
       "onboard_time": 1724858665,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3687912,
+      "num": 1841994,
+      "word": "韩国 换脸",
+      "onboard_time": 1724919022,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2504453,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1909964,
-      "num": 616307,
+      "num": 645350,
       "word": "山东高密当街发生命案警方回应",
       "onboard_time": 1724900361,
       "rank": 11,
@@ -81,14 +89,6 @@
       "onboard_time": 1724903661,
       "rank": 11,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1841994,
-      "num": 1841994,
-      "word": "韩国 换脸",
-      "onboard_time": 1724919022,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1728894,
@@ -307,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 755118,
+      "num": 755118,
+      "word": "孙颖莎真听劝",
+      "onboard_time": 1724922439,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 737207,
       "num": 603035,
       "word": "男明星代言卫生巾 男明星流量大",
@@ -345,6 +353,14 @@
       "onboard_time": 1724904921,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 669475,
+      "num": 669475,
+      "word": "Deepfake",
+      "onboard_time": 1724916862,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 656962,
@@ -443,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 580479,
+      "num": 580479,
+      "word": "孙颖莎笑得好开心",
+      "onboard_time": 1724917941,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 577176,
       "num": 577176,
       "word": "全红婵站在潘展乐马龙中间",
@@ -523,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 533358,
+      "num": 629511,
+      "word": "我们必须坚定反对代孕",
+      "onboard_time": 1724920581,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 522799,
       "num": 445560,
       "word": "山东高密命案嫌疑人已被采取强制措施",
@@ -532,7 +564,7 @@
     },
     {
       "raw_hot": 513635,
-      "num": 513635,
+      "num": 560171,
       "word": "伯远 我在INTO1半年没工作",
       "onboard_time": 1724917281,
       "rank": 15,
@@ -587,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 438926,
+      "num": 438926,
+      "word": "马龙再回应退役",
+      "onboard_time": 1724922620,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 426504,
       "num": 426504,
       "word": "女子去印度旅游被一伙男子包围紧盯",
@@ -603,20 +643,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 410653,
+      "num": 410653,
+      "word": "全力抓好改革任务的组织实施",
+      "onboard_time": 1724922981,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 406271,
       "num": 571932,
       "word": "余宇涵修改微博认证",
       "onboard_time": 1724910683,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 400233,
-      "num": 400233,
-      "word": "Deepfake",
-      "onboard_time": 1724916862,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 386176,
@@ -635,12 +675,12 @@
       "category": "音乐,游戏"
     },
     {
-      "raw_hot": 374878,
-      "num": 374878,
-      "word": "孙颖莎笑得好开心",
-      "onboard_time": 1724917941,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 374532,
+      "num": 551647,
+      "word": "吴谨言 大张伟大",
+      "onboard_time": 1724922620,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 372988,
@@ -705,6 +745,14 @@
       "onboard_time": 1724902400,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 330295,
+      "num": 330295,
+      "word": "老农干活太猛致心脏起搏器跳出体外",
+      "onboard_time": 1724923282,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326396,
@@ -859,6 +907,30 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 283847,
+      "num": 282663,
+      "word": "小胖其实看起来也没那么胖",
+      "onboard_time": 1724922320,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 282878,
+      "num": 282878,
+      "word": "杨幂离场背影",
+      "onboard_time": 1724921541,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 282663,
+      "num": 282662,
+      "word": "光与夜之恋",
+      "onboard_time": 1724922140,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 282088,
       "num": 282088,
       "word": "meovv全员公开",
@@ -905,6 +977,14 @@
       "onboard_time": 1724913501,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255279,
+      "num": 255279,
+      "word": "全红婵访港也要带小乌龟",
+      "onboard_time": 1724921421,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 254142,
@@ -984,6 +1064,14 @@
       "word": "Deepfake到底有多可怕",
       "onboard_time": 1724916982,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237519,
+      "num": 237519,
+      "word": "印度2女子被10男子围住性骚扰",
+      "onboard_time": 1724922683,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1067,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226600,
+      "num": 226600,
+      "word": "怪不得小猫绝食了",
+      "onboard_time": 1724919982,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 225773,
       "num": 225773,
       "word": "食物语维护",
@@ -1097,6 +1193,14 @@
       "onboard_time": 1724918061,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221150,
+      "num": 221150,
+      "word": "为什么一定要打击代孕",
+      "onboard_time": 1724921120,
+      "rank": 37,
+      "category": "科学科普"
     },
     {
       "raw_hot": 220573,
@@ -1219,14 +1323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205849,
-      "num": 205849,
-      "word": "怪不得小猫绝食了",
-      "onboard_time": 1724919982,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 204919,
       "num": 204919,
       "word": "柳舟记今晚全是高能",
@@ -1256,6 +1352,14 @@
       "word": "拓子哥死了 我的心也死了",
       "onboard_time": 1724907263,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 201467,
+      "num": 201467,
+      "word": "迪丽热巴陈飞宇慕胥辞试拍",
+      "onboard_time": 1724921182,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -1387,6 +1491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190476,
+      "num": 190476,
+      "word": "对接否认余宇涵失踪",
+      "onboard_time": 1724921721,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188702,
       "num": 188702,
       "word": "郑钦文谈美网女单第三轮",
@@ -1472,6 +1584,14 @@
       "word": "冒充孙子诈骗团伙被端",
       "onboard_time": 1724895085,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176494,
+      "num": 482276,
+      "word": "取卵的过程是怎样的",
+      "onboard_time": 1724920220,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2036,7 +2156,7 @@
     },
     {
       "raw_hot": 60045,
-      "num": 463074,
+      "num": 649207,
       "word": "京东服饰和VOGUE联合搞事情",
       "onboard_time": 1724919320,
       "rank": 35,
@@ -2107,6 +2227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45229,
+      "num": 650276,
+      "word": "药品比价神器打破买药信息差",
+      "onboard_time": 1724921902,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45018,
       "num": 107056,
       "word": "中国红",
@@ -2120,14 +2248,6 @@
       "word": "代孕对身心健康的威胁远远被低估了",
       "onboard_time": 1724913441,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44702,
-      "num": 482276,
-      "word": "取卵的过程是怎样的",
-      "onboard_time": 1724920220,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2153,14 +2273,6 @@
       "onboard_time": 1724866156,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 42833,
-      "num": 629511,
-      "word": "我们必须坚定反对代孕",
-      "onboard_time": 1724920581,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41451,
@@ -2303,6 +2415,14 @@
       "num": 75562,
       "word": "湖北一个地名就是一段传奇",
       "onboard_time": 1724873113,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24252,
+      "num": 667478,
+      "word": "男子3天吃5顿河豚十倍索赔被驳回",
+      "onboard_time": 1724922863,
       "rank": 9,
       "category": "社会新闻"
     },
