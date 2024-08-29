@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1724945822602,
+  "endTime": 1724948777601,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -9812,7 +9812,7 @@
     },
     {
       "raw_hot": 1442453,
-      "num": 773569,
+      "num": 868061,
       "word": "留给米哈游的时间不多了",
       "onboard_time": 1724944166,
       "rank": 15,
@@ -10857,6 +10857,14 @@
       "onboard_time": 1723172421,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1336512,
+      "num": 1336512,
+      "word": "余宇涵 失声",
+      "onboard_time": 1724944886,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 1335808,
@@ -13147,6 +13155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1146320,
+      "num": 1146320,
+      "word": "她的子宫不能是商品",
+      "onboard_time": 1724945663,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1145283,
       "num": 4690817,
       "word": "袁一琦蝉联第一",
@@ -13945,6 +13961,14 @@
       "onboard_time": 1723309160,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1086990,
+      "num": 1086990,
+      "word": "恋与制作人",
+      "onboard_time": 1722571163,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 1086784,
@@ -15731,6 +15755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 965838,
+      "num": 965838,
+      "word": "包贝尔 素人博主",
+      "onboard_time": 1724943746,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 965649,
       "num": 965649,
       "word": "张根硕自曝1年前患甲状腺癌",
@@ -16433,14 +16465,6 @@
       "onboard_time": 1724640800,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 928032,
-      "num": 928032,
-      "word": "包贝尔 素人博主",
-      "onboard_time": 1724943746,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 927777,
@@ -17673,14 +17697,6 @@
       "onboard_time": 1723731861,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 860848,
-      "num": 611907,
-      "word": "余宇涵 失声",
-      "onboard_time": 1724944886,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 860412,
@@ -19177,14 +19193,6 @@
       "onboard_time": 1723905502,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 779228,
-      "num": 779228,
-      "word": "恋与制作人",
-      "onboard_time": 1722571163,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 778847,
@@ -33651,6 +33659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 383194,
+      "num": 894964,
+      "word": "打击代孕应成为全社会共识",
+      "onboard_time": 1724946742,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 383147,
       "num": 662685,
       "word": "律师称骑行碾压事件监护人严重失职",
@@ -43435,6 +43451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283901,
+      "num": 283901,
+      "word": "N号房2.0",
+      "onboard_time": 1724947882,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283771,
       "num": 1039063,
       "word": "请帮我告诉他你现在是第一名",
@@ -43857,6 +43881,14 @@
       "onboard_time": 1722999383,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 280725,
+      "num": 280725,
+      "word": "大一新生宿舍的第一次矛盾",
+      "onboard_time": 1724946863,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 280675,
@@ -52011,6 +52043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228986,
+      "num": 228986,
+      "word": "刘彰男子50米游泳冠军",
+      "onboard_time": 1724946323,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228976,
       "num": 228976,
       "word": "张大仙玩黑神话悟空玩晕了",
@@ -52553,14 +52593,6 @@
       "onboard_time": 1724919982,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 226461,
-      "num": 538934,
-      "word": "她的子宫不能是商品",
-      "onboard_time": 1724945663,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 226456,
@@ -57787,6 +57819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 205371,
+      "num": 205371,
+      "word": "还得是质子团",
+      "onboard_time": 1724947941,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205369,
       "num": 239647,
       "word": "名侦探柯南新剧场版定档",
@@ -57817,6 +57857,14 @@
       "onboard_time": 1722844827,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205335,
+      "num": 205335,
+      "word": "马龙问李家超打直板还是横板",
+      "onboard_time": 1724946143,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 205319,
@@ -61057,6 +61105,14 @@
       "onboard_time": 1724120718,
       "rank": 39,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 195991,
+      "num": 195991,
+      "word": "徐嘉余晒合照拍到张雨霏打哈欠",
+      "onboard_time": 1724946323,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 195974,
@@ -72553,6 +72609,14 @@
       "onboard_time": 1723898420,
       "rank": 43,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 146673,
+      "num": 146673,
+      "word": "缺觉的人全身炎症水平都在升高",
+      "onboard_time": 1724947222,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 146622,
