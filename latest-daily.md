@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/08/31 00:24:04 ~ 2024/08/31 04:23:06
+本榜单时间：2024/08/31 00:24:04 ~ 2024/08/31 04:36:35
 </p>
 </blockquote>
 <p>
@@ -406,7 +406,13 @@ Kanye试听会官宣（热度：48185）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8B%E4%B8%80%E6%88%98%E6%AD%8C%E6%89%8B%23" target="weibo">
-下一战歌手（热度：18156）
+下一战歌手（热度：19131）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%AD%A6%E9%9F%B3%E4%B9%90%E4%BC%9A%E8%8D%89%E5%9D%AA%E9%95%BF%E6%BB%A1%E4%BA%86%E7%86%9F%E4%BA%BA%23" target="weibo">
+开学音乐会草坪长满了熟人（热度：18750）
 </a>
 </li>
 
@@ -431,12 +437,6 @@ Kanye试听会官宣（热度：48185）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%8D%9A%E7%89%A9%E9%99%A2%E6%96%87%E5%88%9B%E5%9B%A2%E9%98%9F%E5%B9%B3%E5%9D%8725%E5%B2%81%23" target="weibo">
 河南博物院文创团队平均25岁（热度：11045）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%AD%A6%E9%9F%B3%E4%B9%90%E4%BC%9A%E8%8D%89%E5%9D%AA%E9%95%BF%E6%BB%A1%E4%BA%86%E7%86%9F%E4%BA%BA%23" target="weibo">
-开学音乐会草坪长满了熟人（热度：8756）
 </a>
 </li>
 
