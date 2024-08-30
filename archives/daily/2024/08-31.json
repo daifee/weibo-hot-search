@@ -1,6 +1,6 @@
 {
   "startTime": 1725035044218,
-  "endTime": 1725056409614,
+  "endTime": 1725057467078,
   "band_list": [
     {
       "raw_hot": 3132358,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153818,
+      "num": 99234,
+      "word": "王雅繁晋级美网16强",
+      "onboard_time": 1725047592,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146877,
       "num": 146877,
       "word": "迪丽热巴吃着面包下班",
@@ -336,14 +344,6 @@
       "word": "樊振东潘展乐肤色差",
       "onboard_time": 1725020120,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 122867,
-      "num": 71120,
-      "word": "王雅繁晋级美网16强",
-      "onboard_time": 1725047592,
-      "rank": 10,
       "category": "体育"
     },
     {
@@ -459,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92384,
+      "num": 99274,
+      "word": "西游记中最善良的妖精",
+      "onboard_time": 1725053592,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 74731,
       "num": 74731,
       "word": "李诞在喜剧综艺里有多重要",
@@ -473,14 +481,6 @@
       "onboard_time": 1725039075,
       "rank": 47,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 48748,
-      "num": 48748,
-      "word": "西游记中最善良的妖精",
-      "onboard_time": 1725053592,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 48185,
@@ -523,6 +523,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 34246,
+      "num": 34246,
+      "word": "黄景瑜不愧是内娱服兵役标杆",
+      "onboard_time": 1725056354,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 32772,
+      "num": 33004,
+      "word": "韩女性深陷恐慌22万人被色情片AI换脸",
+      "onboard_time": 1725051432,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31907,
       "num": 104216,
       "word": "今后三天全国一半地方有雨",
@@ -531,12 +547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31533,
-      "num": 31533,
-      "word": "韩女性深陷恐慌22万人被色情片AI换脸",
-      "onboard_time": 1725051432,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 30656,
+      "num": 32991,
+      "word": "爱奇艺和腾讯为什么要争脱口秀",
+      "onboard_time": 1725038536,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 28748,
@@ -545,22 +561,6 @@
       "onboard_time": 1725042913,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 27322,
-      "num": 29511,
-      "word": "爱奇艺和腾讯为什么要争脱口秀",
-      "onboard_time": 1725038536,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 22241,
-      "num": 29505,
-      "word": "黄景瑜不愧是内娱服兵役标杆",
-      "onboard_time": 1725056354,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 19332,
@@ -579,8 +579,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16112,
-      "num": 29508,
+      "raw_hot": 16813,
+      "num": 99244,
       "word": "开颅手术前医护帮她设计发型",
       "onboard_time": 1725055992,
       "rank": 47,
