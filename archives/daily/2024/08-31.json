@@ -1,6 +1,6 @@
 {
   "startTime": 1725035044218,
-  "endTime": 1725038375669,
+  "endTime": 1725039407899,
   "band_list": [
     {
       "raw_hot": 3132358,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272596,
+      "num": 272596,
+      "word": "校方回应160人住一间宿舍",
+      "onboard_time": 1725034519,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261496,
       "num": 261496,
       "word": "董事长之子聚餐泄密5人被罚2300万",
@@ -171,8 +179,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 237326,
-      "num": 237326,
+      "raw_hot": 240307,
+      "num": 240307,
       "word": "美网",
       "onboard_time": 1725036079,
       "rank": 6,
@@ -289,14 +297,6 @@
       "onboard_time": 1725019880,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 145585,
-      "num": 145585,
-      "word": "校方回应160人住一间宿舍",
-      "onboard_time": 1725034519,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140191,
@@ -443,23 +443,39 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 60234,
-      "num": 63690,
+      "raw_hot": 74731,
+      "num": 74731,
       "word": "李诞在喜剧综艺里有多重要",
       "onboard_time": 1725037815,
       "rank": 45,
       "category": "综艺"
     },
     {
-      "raw_hot": 17531,
-      "num": 133345,
+      "raw_hot": 50448,
+      "num": 50448,
+      "word": "肖战ELLE金九花絮",
+      "onboard_time": 1725039075,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 48185,
+      "num": 48185,
+      "word": "Kanye试听会官宣",
+      "onboard_time": 1725039315,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 24013,
+      "num": 178457,
       "word": "deepfake被称为最邪恶的技术",
       "onboard_time": 1725038237,
       "rank": 20,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11712,
+      "raw_hot": 14466,
       "num": 519255,
       "word": "坐上动车畅游祖国大好河山",
       "onboard_time": 1725021200,

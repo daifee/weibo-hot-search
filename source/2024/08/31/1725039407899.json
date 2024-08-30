@@ -1,0 +1,410 @@
+{
+  "runTime": 1725039407899,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1176277,
+        "num": 1176277,
+        "word": "郑钦文",
+        "onboard_time": 1725033201,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 624387,
+        "num": 624387,
+        "word": "重庆3岁走失男童遗体被找到",
+        "onboard_time": 1725030021,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14466,
+        "num": 371707,
+        "word": "坐上动车畅游祖国大好河山",
+        "onboard_time": 1725021200,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318216,
+        "num": 318216,
+        "word": "西安火车站管委会致歉",
+        "onboard_time": 1725034639,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297040,
+        "num": 297040,
+        "word": "原来微信余额还可以被隐藏",
+        "onboard_time": 1725019040,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 272596,
+        "num": 272596,
+        "word": "校方回应160人住一间宿舍",
+        "onboard_time": 1725034519,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240307,
+        "num": 240307,
+        "word": "美网",
+        "onboard_time": 1725036079,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202784,
+        "num": 202784,
+        "word": "华晨宇打响内娱反黄牛第一枪",
+        "onboard_time": 1725014600,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186355,
+        "num": 186355,
+        "word": "杨幂 麻辣女教师",
+        "onboard_time": 1725020599,
+        "rank": 8,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 24013,
+        "num": 178457,
+        "word": "deepfake被称为最邪恶的技术",
+        "onboard_time": 1725038237,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174170,
+        "num": 174170,
+        "word": "马龙与王楚钦打羽毛球",
+        "onboard_time": 1725031942,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172595,
+        "num": 172595,
+        "word": "朱志鑫出道首发文",
+        "onboard_time": 1725027441,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165132,
+        "num": 165132,
+        "word": "活死人直播",
+        "onboard_time": 1725030922,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161215,
+        "num": 161215,
+        "word": "结婚更容易了结婚率会提高吗",
+        "onboard_time": 1725030201,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134975,
+        "num": 134975,
+        "word": "董事长之子聚餐泄密5人被罚2300万",
+        "onboard_time": 1725024741,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133784,
+        "num": 133784,
+        "word": "EXO月饼",
+        "onboard_time": 1725025280,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121269,
+        "num": 121269,
+        "word": "樊振东大小眼笑已回归",
+        "onboard_time": 1725029602,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120890,
+        "num": 120890,
+        "word": "郑钦文晋级美网16强",
+        "onboard_time": 1725036498,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119859,
+        "num": 119859,
+        "word": "全红婵偷拍樊振东睡觉",
+        "onboard_time": 1725019820,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97070,
+        "num": 119469,
+        "word": "韩安冉起诉亲妈",
+        "onboard_time": 1725025883,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 231495,
+        "num": 118467,
+        "word": "青岛逆行女司机至今未道歉赔偿",
+        "onboard_time": 1725022281,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136323,
+        "num": 118338,
+        "word": "打人女司机被拘10天网友为何不满",
+        "onboard_time": 1725026542,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134549,
+        "num": 117581,
+        "word": "马龙说买奶茶全红婵立马跟上",
+        "onboard_time": 1725028642,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117012,
+        "num": 117012,
+        "word": "郑钦文vs尼迈尔",
+        "onboard_time": 1725035058,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102633,
+        "num": 102633,
+        "word": "孙颖莎好像loopy",
+        "onboard_time": 1725028882,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86358,
+        "num": 86358,
+        "word": "边水往事 王玉雯姜珮瑶",
+        "onboard_time": 1725023300,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83650,
+        "num": 83650,
+        "word": "台检方清晨突击搜索柯文哲住处",
+        "onboard_time": 1725032363,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82618,
+        "num": 82618,
+        "word": "被逆行女司机打伤男司机是退伍军人",
+        "onboard_time": 1725018081,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77239,
+        "num": 77239,
+        "word": "第九代张起灵身材",
+        "onboard_time": 1725031161,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74731,
+        "num": 74731,
+        "word": "李诞在喜剧综艺里有多重要",
+        "onboard_time": 1725037815,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78268,
+        "num": 74475,
+        "word": "孙颖莎港澳行期还在抽空跑步",
+        "onboard_time": 1725026302,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73919,
+        "num": 73919,
+        "word": "易烊千玺维也纳路透",
+        "onboard_time": 1725035659,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72577,
+        "num": 72577,
+        "word": "王楚钦靠窗张嘴睡觉",
+        "onboard_time": 1725023121,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72347,
+        "num": 72347,
+        "word": "樊振东潘展乐肤色差",
+        "onboard_time": 1725020120,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70722,
+        "num": 70722,
+        "word": "北海偶遇左航",
+        "onboard_time": 1725029962,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70481,
+        "num": 70481,
+        "word": "迪丽热巴吃着面包下班",
+        "onboard_time": 1725019880,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 69573,
+        "num": 69573,
+        "word": "痞老板点名江奈生小丑subs",
+        "onboard_time": 1725005482,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67781,
+        "num": 67781,
+        "word": "国乒三打三",
+        "onboard_time": 1725024142,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64162,
+        "num": 64162,
+        "word": "穆祉丞出道战后首条微博",
+        "onboard_time": 1725027802,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63399,
+        "num": 63399,
+        "word": "JYP将对TWICEDeepfake采取法律行动",
+        "onboard_time": 1725027441,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62677,
+        "num": 62677,
+        "word": "果然大一跟大四一眼就能认出来",
+        "onboard_time": 1725026182,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60267,
+        "num": 60267,
+        "word": "大陆近期将恢复福建居民赴金门旅游",
+        "onboard_time": 1725022100,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57382,
+        "num": 57382,
+        "word": "虞书欣 一生要出片的中国女人",
+        "onboard_time": 1725017840,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56602,
+        "num": 56602,
+        "word": "TWICE公告",
+        "onboard_time": 1725030683,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53490,
+        "num": 53490,
+        "word": "徐嘉余问张雨霏照片可满意",
+        "onboard_time": 1725026121,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53075,
+        "num": 53075,
+        "word": "丝芙兰15年老员工被裁员",
+        "onboard_time": 1725030320,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51598,
+        "num": 51598,
+        "word": "赵小童在网吧剪vlog",
+        "onboard_time": 1725031341,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50448,
+        "num": 50448,
+        "word": "肖战ELLE金九花絮",
+        "onboard_time": 1725039075,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 48583,
+        "num": 48583,
+        "word": "郭艾伦直播",
+        "onboard_time": 1725024859,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48185,
+        "num": 48185,
+        "word": "Kanye试听会官宣",
+        "onboard_time": 1725039315,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信非洲学者#"
+    }
+  }
+}

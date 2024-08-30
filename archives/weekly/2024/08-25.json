@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1725038375669,
+  "endTime": 1725039407899,
   "band_list": [
     {
       "raw_hot": 20756997,
@@ -7651,6 +7651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272596,
+      "num": 272596,
+      "word": "校方回应160人住一间宿舍",
+      "onboard_time": 1725034519,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272529,
       "num": 508850,
       "word": "男子仅退款被拒后起诉网店被驳回",
@@ -8819,6 +8827,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 240307,
+      "num": 240307,
+      "word": "美网",
+      "onboard_time": 1725036079,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240178,
       "num": 240178,
       "word": "虎扑女神大赛16强",
@@ -8913,14 +8929,6 @@
       "onboard_time": 1724922683,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 237326,
-      "num": 237326,
-      "word": "美网",
-      "onboard_time": 1725036079,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 237225,
@@ -14659,14 +14667,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 145585,
-      "num": 145585,
-      "word": "校方回应160人住一间宿舍",
-      "onboard_time": 1725034519,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145234,
       "num": 145234,
       "word": "朱志鑫扭到我心里了",
@@ -16347,6 +16347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 74731,
+      "num": 74731,
+      "word": "李诞在喜剧综艺里有多重要",
+      "onboard_time": 1725037815,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 74669,
       "num": 244637,
       "word": "智利一男子因为错过航班打砸机场",
@@ -16987,14 +16995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60234,
-      "num": 63690,
-      "word": "李诞在喜剧综艺里有多重要",
-      "onboard_time": 1725037815,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 60192,
       "num": 434836,
       "word": "B太说去烟台吃了海肠捞饭",
@@ -17571,6 +17571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50448,
+      "num": 50448,
+      "word": "肖战ELLE金九花絮",
+      "onboard_time": 1725039075,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 50281,
       "num": 1867930,
       "word": "暴雨天气防范指南",
@@ -17625,6 +17633,14 @@
       "onboard_time": 1724697253,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 48185,
+      "num": 48185,
+      "word": "Kanye试听会官宣",
+      "onboard_time": 1725039315,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 48021,
@@ -18867,6 +18883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24013,
+      "num": 178457,
+      "word": "deepfake被称为最邪恶的技术",
+      "onboard_time": 1725038237,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23757,
       "num": 327591,
       "word": "王一博祝福新浪娱乐",
@@ -18992,14 +19016,6 @@
       "word": "也门一学校发生战争遗留物爆炸事件",
       "onboard_time": 1724636419,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17531,
-      "num": 133345,
-      "word": "deepfake被称为最邪恶的技术",
-      "onboard_time": 1725038237,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
