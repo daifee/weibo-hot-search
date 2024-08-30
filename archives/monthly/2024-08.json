@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1725014385271,
+  "endTime": 1725016764761,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -10691,6 +10691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1364868,
+      "num": 331574,
+      "word": "青岛涉代孕医生称职业生涯完了",
+      "onboard_time": 1725013219,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1364641,
       "num": 1364641,
       "word": "祝潘展乐生日快乐",
@@ -12876,7 +12884,7 @@
     },
     {
       "raw_hot": 1171499,
-      "num": 318485,
+      "num": 359882,
       "word": "李阳称黑神话悟空爆火是民族悲哀",
       "onboard_time": 1725010401,
       "rank": 24,
@@ -13268,7 +13276,7 @@
     },
     {
       "raw_hot": 1151768,
-      "num": 342905,
+      "num": 351660,
       "word": "110打119报警抓大蛇",
       "onboard_time": 1725007461,
       "rank": 20,
@@ -16987,6 +16995,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 914628,
+      "num": 914628,
+      "word": "郎平说徐梦洁腿部肌肉很漂亮",
+      "onboard_time": 1725009561,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 914380,
       "num": 584116,
       "word": "安洗莹炮轰韩国羽协",
@@ -17595,6 +17611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 875988,
+      "num": 875988,
+      "word": "市场监管总局督导阿里巴巴完成整改",
+      "onboard_time": 1725007221,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 875914,
       "num": 875914,
       "word": "美跳高选手回应拒绝共享金牌",
@@ -18025,14 +18049,6 @@
       "onboard_time": 1723290862,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 857462,
-      "num": 857462,
-      "word": "郎平说徐梦洁腿部肌肉很漂亮",
-      "onboard_time": 1725009561,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 857103,
@@ -18833,6 +18849,14 @@
       "onboard_time": 1724936182,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 808230,
+      "num": 808230,
+      "word": "谭瑞松被查",
+      "onboard_time": 1725010520,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 807157,
@@ -19641,14 +19665,6 @@
       "onboard_time": 1723278562,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 774994,
-      "num": 774994,
-      "word": "谭瑞松被查",
-      "onboard_time": 1725010520,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 774447,
@@ -25251,6 +25267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 577380,
+      "num": 577380,
+      "word": "BLG对战WBG",
+      "onboard_time": 1723895720,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 577222,
       "num": 577222,
       "word": "杨幂 微博老祖",
@@ -25649,6 +25673,14 @@
       "onboard_time": 1724635701,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 563188,
+      "num": 563188,
+      "word": "樊振东被当面叫咚咚大王",
+      "onboard_time": 1725011182,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 563057,
@@ -28219,6 +28251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 491321,
+      "num": 491321,
+      "word": "华晨宇打响内娱反黄牛第一枪",
+      "onboard_time": 1725014600,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 490946,
       "num": 490946,
       "word": "乌克兰",
@@ -29057,6 +29097,14 @@
       "onboard_time": 1723807580,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 471237,
+      "num": 471237,
+      "word": "被逆行路虎女司机打伤男司机发声",
+      "onboard_time": 1725015201,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 471071,
@@ -33051,6 +33099,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 402324,
+      "num": 402324,
+      "word": "BLG战胜WBG",
+      "onboard_time": 1725016040,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 402302,
+      "num": 402302,
+      "word": "BLG夺冠",
+      "onboard_time": 1725015859,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 402249,
       "num": 402249,
       "word": "WTT中国大满贯宣传片内容引争议",
@@ -36899,6 +36963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 348795,
+      "num": 348795,
+      "word": "谁家研究生宿舍是酒店啊",
+      "onboard_time": 1725012081,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 348675,
       "num": 348675,
       "word": "穿着清凉超市老板娘晒病历单",
@@ -37929,14 +38001,6 @@
       "onboard_time": 1724392041,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 336925,
-      "num": 336925,
-      "word": "BLG对战WBG",
-      "onboard_time": 1723895720,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 336672,
@@ -39809,14 +39873,6 @@
       "onboard_time": 1724142560,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 317642,
-      "num": 317642,
-      "word": "青岛涉代孕医生称职业生涯完了",
-      "onboard_time": 1725013219,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 317614,
@@ -42153,14 +42209,6 @@
       "onboard_time": 1723094242,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 297148,
-      "num": 297148,
-      "word": "樊振东被当面叫咚咚大王",
-      "onboard_time": 1725011182,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 297123,
@@ -46387,14 +46435,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 267467,
-      "num": 267467,
-      "word": "谁家研究生宿舍是酒店啊",
-      "onboard_time": 1725012081,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 267433,
       "num": 267433,
       "word": "孙颖莎童年练球珍贵影像",
@@ -46473,6 +46513,14 @@
       "onboard_time": 1722593549,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 266866,
+      "num": 366013,
+      "word": "性别暴力下女性面临的隐秘围猎",
+      "onboard_time": 1725011841,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266855,
@@ -47545,6 +47593,14 @@
       "onboard_time": 1724069781,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 260430,
+      "num": 260430,
+      "word": "盛李豪潘展乐回复樊振东收到",
+      "onboard_time": 1725013821,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 260328,
@@ -50265,6 +50321,14 @@
       "onboard_time": 1723198644,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243976,
+      "num": 243976,
+      "word": "BLG手握三个赛点",
+      "onboard_time": 1725012800,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 243941,
@@ -54307,6 +54371,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 223295,
+      "num": 223295,
+      "word": "苏新皓 重庆",
+      "onboard_time": 1725016340,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223271,
       "num": 223271,
       "word": "买超简介还是张嘉倪老公",
@@ -55513,6 +55585,14 @@
       "onboard_time": 1722587546,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218170,
+      "num": 202275,
+      "word": "陈牧驰身材",
+      "onboard_time": 1725015679,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 218071,
@@ -59459,14 +59539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 204226,
-      "num": 204226,
-      "word": "BLG手握三个赛点",
-      "onboard_time": 1725012800,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 204176,
       "num": 204176,
       "word": "浙江超市老板女儿巴黎奥运首战",
@@ -61355,6 +61427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198973,
+      "num": 198973,
+      "word": "Elk五杀",
+      "onboard_time": 1725016219,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 198960,
       "num": 331648,
       "word": "SNH48总选王奕第二",
@@ -62305,14 +62385,6 @@
       "onboard_time": 1723719800,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 196174,
-      "num": 196174,
-      "word": "盛李豪潘展乐回复樊振东收到",
-      "onboard_time": 1725013821,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 196160,
@@ -63419,14 +63491,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 192865,
-      "num": 366013,
-      "word": "性别暴力下女性面临的隐秘围猎",
-      "onboard_time": 1725011841,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192850,
       "num": 195210,
       "word": "GEN战胜T1",
@@ -64427,6 +64491,14 @@
       "category": "科学科普,美妆"
     },
     {
+      "raw_hot": 189828,
+      "num": 189828,
+      "word": "TES锁定S14二号种子",
+      "onboard_time": 1725016699,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 189790,
       "num": 189790,
       "word": "许嵩演唱会",
@@ -65193,6 +65265,14 @@
       "onboard_time": 1724373140,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187603,
+      "num": 187603,
+      "word": "乙女圈怎么突然被哈圈盯上了",
+      "onboard_time": 1725015080,
+      "rank": 43,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 187552,
@@ -70627,14 +70707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165509,
-      "num": 165509,
-      "word": "市场监管总局督导阿里巴巴完成整改",
-      "onboard_time": 1725007221,
-      "rank": 43,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 165486,
       "num": 237543,
       "word": "胡先煦成都叫观众不要走",
@@ -73387,6 +73459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150982,
+      "num": 150982,
+      "word": "猫猫把自己和宝宝都养的很好",
+      "onboard_time": 1725015440,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150899,
       "num": 150899,
       "word": "为啥奥运结束樊振东他们依然这么火",
@@ -74657,6 +74737,14 @@
       "onboard_time": 1724838981,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143183,
+      "num": 143183,
+      "word": "刘楚恬郭晶晶合照",
+      "onboard_time": 1725016399,
+      "rank": 48,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 143004,
@@ -85067,6 +85155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52987,
+      "num": 534397,
+      "word": "地铁扶梯左行右立已取消多年",
+      "onboard_time": 1725015743,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52930,
       "num": 4203761,
       "word": "证监会深圳监管局原局长陈小澎被查",
@@ -88308,7 +88404,7 @@
     },
     {
       "raw_hot": 34730,
-      "num": 232243,
+      "num": 249666,
       "word": "被一场海边live硬控",
       "onboard_time": 1725013101,
       "rank": 44,
@@ -90425,6 +90521,14 @@
       "onboard_time": 1722987080,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21233,
+      "num": 434049,
+      "word": "中方仙宾礁科考惊出美军机",
+      "onboard_time": 1725015679,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21102,
