@@ -1,6 +1,6 @@
 {
   "startTime": 1724948777601,
-  "endTime": 1724991943999,
+  "endTime": 1724992788072,
   "band_list": [
     {
       "raw_hot": 8843262,
@@ -9,6 +9,14 @@
       "onboard_time": 1724938523,
       "rank": 0,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 3345561,
+      "num": 3345561,
+      "word": "青岛代孕操刀医生身份",
+      "onboard_time": 1724991202,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3224887,
@@ -27,14 +35,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2469459,
-      "num": 2469459,
-      "word": "青岛代孕操刀医生身份",
-      "onboard_time": 1724991202,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 2376102,
       "num": 841576,
       "word": "痞老板道歉",
@@ -43,8 +43,8 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 1846401,
-      "num": 1846401,
+      "raw_hot": 1868052,
+      "num": 1868052,
       "word": "韩国女性感谢中国网友为她们发声",
       "onboard_time": 1724987180,
       "rank": 24,
@@ -139,12 +139,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1153311,
-      "num": 1153311,
+      "raw_hot": 1261862,
+      "num": 1261862,
       "word": "孙颖莎王楚钦一组玩游戏",
       "onboard_time": 1724989462,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1240736,
+      "num": 1240736,
+      "word": "清华1块钱一碗的白菜粉丝汤",
+      "onboard_time": 1724987542,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 1146320,
@@ -267,14 +275,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 718207,
-      "num": 718207,
-      "word": "清华1块钱一碗的白菜粉丝汤",
-      "onboard_time": 1724987542,
-      "rank": 45,
-      "category": "美食"
-    },
-    {
       "raw_hot": 701064,
       "num": 960756,
       "word": "幸会嘻哈延期",
@@ -355,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 566408,
+      "num": 1103151,
+      "word": "柳岩说陈丽君为浪姐多次妥协",
+      "onboard_time": 1724990302,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 538633,
       "num": 538633,
       "word": "腾讯游戏",
@@ -369,6 +377,22 @@
       "onboard_time": 1724984779,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 526597,
+      "num": 922029,
+      "word": "娜扎 我只是觉得你爱上我了",
+      "onboard_time": 1724990600,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 513924,
+      "num": 1079174,
+      "word": "真有艺人敢走粘鼠板红毯啊",
+      "onboard_time": 1724989402,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 513357,
@@ -387,20 +411,20 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 490470,
+      "num": 490470,
+      "word": "四大国乙",
+      "onboard_time": 1724990843,
+      "rank": 32,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 466843,
       "num": 953429,
       "word": "第一见王一博笑成typec",
       "onboard_time": 1724983820,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 462136,
-      "num": 1103151,
-      "word": "柳岩说陈丽君为浪姐多次妥协",
-      "onboard_time": 1724990302,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 436110,
@@ -435,36 +459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 391971,
-      "num": 391971,
-      "word": "四大国乙",
-      "onboard_time": 1724990843,
-      "rank": 32,
-      "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 391063,
-      "num": 922029,
-      "word": "娜扎 我只是觉得你爱上我了",
-      "onboard_time": 1724990600,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 385622,
       "num": 451371,
       "word": "儿子跟妈妈摆摊10天收入10000元",
       "onboard_time": 1724933903,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 377120,
-      "num": 1079174,
-      "word": "真有艺人敢走粘鼠板红毯啊",
-      "onboard_time": 1724989402,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 367398,
@@ -523,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333192,
+      "num": 333192,
+      "word": "河南警方悬赏10万元抓捕赵子龙",
+      "onboard_time": 1724991622,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325393,
       "num": 929312,
       "word": "女性安全不分国界",
@@ -547,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 296597,
+      "num": 938307,
+      "word": "学校回应饭卡充值至少1000元",
+      "onboard_time": 1724990183,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286010,
       "num": 286010,
       "word": "露头就秒",
@@ -568,6 +584,14 @@
       "word": "平遥古城老外穿日本旭日旗T恤",
       "onboard_time": 1724982742,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275354,
+      "num": 275354,
+      "word": "律师解读青岛代孕事件",
+      "onboard_time": 1724992163,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -601,6 +625,14 @@
       "onboard_time": 1724941764,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 266796,
+      "num": 266796,
+      "word": "CRAZY MV",
+      "onboard_time": 1724991861,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 265681,
@@ -715,6 +747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 229421,
+      "num": 229421,
+      "word": "上官正义追问多地代孕事件调查结果",
+      "onboard_time": 1724991563,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228986,
       "num": 228986,
       "word": "刘彰男子50米游泳冠军",
@@ -763,20 +803,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 220169,
+      "num": 220169,
+      "word": "米哈游创始人罕见发声",
+      "onboard_time": 1724992102,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 219629,
       "num": 219629,
       "word": "樊振东被叫小胖马龙憋笑",
       "onboard_time": 1724984420,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 217993,
-      "num": 217993,
-      "word": "河南警方悬赏10万元抓捕赵子龙",
-      "onboard_time": 1724991622,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216181,
@@ -787,19 +827,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215706,
-      "num": 215706,
-      "word": "上官正义追问多地代孕事件调查结果",
-      "onboard_time": 1724991563,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214686,
       "num": 214686,
       "word": "韩国deepfake",
       "onboard_time": 1724979741,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210480,
+      "num": 1050846,
+      "word": "高校向新生调查性行为是否有必要",
+      "onboard_time": 1724990482,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -809,6 +849,14 @@
       "onboard_time": 1724928982,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 205496,
+      "num": 760562,
+      "word": "喜剧之王单口季",
+      "onboard_time": 1724991622,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 205335,
@@ -851,12 +899,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195550,
-      "num": 195550,
-      "word": "CRAZY MV",
-      "onboard_time": 1724991861,
+      "raw_hot": 193215,
+      "num": 193215,
+      "word": "有家长怒砸小天才手表了",
+      "onboard_time": 1724992763,
       "rank": 49,
-      "category": "音乐"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191058,
@@ -905,14 +953,6 @@
       "onboard_time": 1724939725,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 184107,
-      "num": 742509,
-      "word": "喜剧之王单口季",
-      "onboard_time": 1724991622,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 180550,
@@ -1043,14 +1083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155791,
-      "num": 938307,
-      "word": "学校回应饭卡充值至少1000元",
-      "onboard_time": 1724990183,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155145,
       "num": 155145,
       "word": "种地DNA在游戏里觉醒了",
@@ -1171,14 +1203,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 99915,
-      "num": 1050846,
-      "word": "高校向新生调查性行为是否有必要",
-      "onboard_time": 1724990482,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98716,
       "num": 98716,
       "word": "被六小龄童猴戏表演硬控",
@@ -1201,6 +1225,14 @@
       "onboard_time": 1724987302,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84330,
+      "num": 1787519,
+      "word": "蛟龙号带回海参海绵等5种生物",
+      "onboard_time": 1724991803,
+      "rank": 2,
+      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 81807,
@@ -1235,6 +1267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 70230,
+      "num": 266842,
+      "word": "粉丝男友把王俊凯整不会了",
+      "onboard_time": 1724992402,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 69502,
       "num": 84147,
       "word": "全红婵手上又多了一个公仔",
@@ -1257,6 +1297,14 @@
       "onboard_time": 1724966111,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 64024,
+      "num": 223377,
+      "word": "极氪7X",
+      "onboard_time": 1724992582,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 63962,
@@ -1307,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52406,
+      "num": 490451,
+      "word": "隔着屏幕都能闻到亿点点臭味儿",
+      "onboard_time": 1724991023,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 45918,
       "num": 912565,
       "word": "途岳新锐售价7.99万起",
@@ -1329,14 +1385,6 @@
       "onboard_time": 1724936843,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37602,
-      "num": 490451,
-      "word": "隔着屏幕都能闻到亿点点臭味儿",
-      "onboard_time": 1724991023,
-      "rank": 28,
-      "category": "美食"
     },
     {
       "raw_hot": 35372,
@@ -1393,14 +1441,6 @@
       "onboard_time": 1724917341,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9418,
-      "num": 1787519,
-      "word": "蛟龙号带回海参海绵等5种生物",
-      "onboard_time": 1724991803,
-      "rank": 2,
-      "category": "社会新闻,科学科普"
     }
   ],
   "hotgov_list": [
