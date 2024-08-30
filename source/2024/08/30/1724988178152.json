@@ -1,0 +1,410 @@
+{
+  "runTime": 1724988178152,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2149523,
+        "num": 2149523,
+        "word": "芭莎拍了拍孙颖莎",
+        "onboard_time": 1724984241,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1247262,
+        "num": 1247262,
+        "word": "大学生每月平均生活费1282元",
+        "onboard_time": 1724984241,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7202,
+        "num": 1117427,
+        "word": "一组数据透视中国能源转型",
+        "onboard_time": 1724936843,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1652049,
+        "num": 1067444,
+        "word": "痞老板发投降书",
+        "onboard_time": 1724974036,
+        "rank": 3,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 997093,
+        "num": 997093,
+        "word": "韩国女性怒斥我们没有国家",
+        "onboard_time": 1724979381,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 986576,
+        "num": 986576,
+        "word": "地下非法代孕发展或超出以往认知",
+        "onboard_time": 1724986041,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466843,
+        "num": 953429,
+        "word": "第一见王一博笑成typec",
+        "onboard_time": 1724983820,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156013,
+        "num": 929312,
+        "word": "女性安全不分国界",
+        "onboard_time": 1724986581,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462507,
+        "num": 903367,
+        "word": "黄子韬还得徐艺洋来治",
+        "onboard_time": 1724973016,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45184,
+        "num": 865328,
+        "word": "网店宣称一天出审计报告数据随意编",
+        "onboard_time": 1724987601,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1063199,
+        "num": 806932,
+        "word": "小伙5年未清理耳屎患瘤",
+        "onboard_time": 1724982381,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1011234,
+        "num": 791131,
+        "word": "绘旅人开战痞老板",
+        "onboard_time": 1724938523,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 996976,
+        "num": 746500,
+        "word": "痞老板道歉",
+        "onboard_time": 1724976920,
+        "rank": 12,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 723470,
+        "num": 723470,
+        "word": "鲁BQP800",
+        "onboard_time": 1724976501,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679416,
+        "num": 679416,
+        "word": "代孕几乎每个环节都涉嫌违法",
+        "onboard_time": 1724949918,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419631,
+        "num": 662208,
+        "word": "只有派克特一个人信了",
+        "onboard_time": 1724974158,
+        "rank": 15,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 417321,
+        "num": 625411,
+        "word": "边水往事 吴镇宇后三集演技",
+        "onboard_time": 1724981601,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338997,
+        "num": 606300,
+        "word": "GAI 痞老板唱得实在太烂了",
+        "onboard_time": 1724980220,
+        "rank": 17,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 215915,
+        "num": 590084,
+        "word": "乃万",
+        "onboard_time": 1724980340,
+        "rank": 18,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 58517,
+        "num": 559206,
+        "word": "20元一节课穷鬼舞室挤满年轻人",
+        "onboard_time": 1724987302,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 794861,
+        "num": 516678,
+        "word": "上班一定要穿的成熟",
+        "onboard_time": 1724982260,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 503996,
+        "num": 503996,
+        "word": "陈梦等25人拟记大功",
+        "onboard_time": 1724982440,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 480121,
+        "num": 480121,
+        "word": "体育局回应奥运会冠军陈艺文被造谣",
+        "onboard_time": 1724984779,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 436110,
+        "num": 436110,
+        "word": "孙颖莎芭莎银十预告",
+        "onboard_time": 1724986281,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 380655,
+        "num": 380655,
+        "word": "韩国女性感谢中国网友为她们发声",
+        "onboard_time": 1724987180,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367398,
+        "num": 367398,
+        "word": "iPhone16开始印度量产",
+        "onboard_time": 1724984122,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 342189,
+        "num": 342189,
+        "word": "恋与制作人 跳梁小丑不足为惧",
+        "onboard_time": 1724973016,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 337854,
+        "num": 337854,
+        "word": "陈艺文曝被体育记者恶意造谣",
+        "onboard_time": 1724984420,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302483,
+        "num": 302483,
+        "word": "中秋假期火车票要开售了",
+        "onboard_time": 1724984960,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213695,
+        "num": 283236,
+        "word": "魏哲鸣 这波冲我来的",
+        "onboard_time": 1724986281,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279170,
+        "num": 279170,
+        "word": "平遥古城老外穿日本旭日旗T恤",
+        "onboard_time": 1724982742,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274827,
+        "num": 274827,
+        "word": "崂山城管局报警",
+        "onboard_time": 1724986219,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268407,
+        "num": 268407,
+        "word": "官方辟谣青岛打人女子是城管局人员",
+        "onboard_time": 1724983281,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245705,
+        "num": 245705,
+        "word": "乙游大团结",
+        "onboard_time": 1724975899,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203786,
+        "num": 242173,
+        "word": "易烊千玺说自己性格更适合幕后工作",
+        "onboard_time": 1724985619,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 241011,
+        "num": 241011,
+        "word": "丫丫胖出仓鼠脸",
+        "onboard_time": 1724986340,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232213,
+        "num": 232213,
+        "word": "留给米哈游的时间不多了",
+        "onboard_time": 1724944166,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225276,
+        "num": 225276,
+        "word": "紫菜蛋花兔怼痞老板",
+        "onboard_time": 1724986460,
+        "rank": 37,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 221791,
+        "num": 221791,
+        "word": "代孕机构如何打通医院环节",
+        "onboard_time": 1724986820,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24054,
+        "num": 220154,
+        "word": "护肤先理清底层逻辑",
+        "onboard_time": 1724986460,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 219629,
+        "num": 219629,
+        "word": "樊振东被叫小胖马龙憋笑",
+        "onboard_time": 1724984420,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214686,
+        "num": 214686,
+        "word": "韩国deepfake",
+        "onboard_time": 1724979741,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202299,
+        "num": 202299,
+        "word": "专四成绩",
+        "onboard_time": 1724987901,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 200538,
+        "num": 200538,
+        "word": "当地居民称11元刀削面并不贵",
+        "onboard_time": 1724985981,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193126,
+        "num": 197481,
+        "word": "梁源账号被禁言",
+        "onboard_time": 1724988020,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196006,
+        "num": 196006,
+        "word": "清华1块钱一碗的白菜粉丝汤",
+        "onboard_time": 1724987542,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 194194,
+        "num": 194194,
+        "word": "痞老板",
+        "onboard_time": 1724938763,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184660,
+        "num": 184660,
+        "word": "崔行舟柳眠棠半夜写婚书",
+        "onboard_time": 1724987302,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174533,
+        "num": 174533,
+        "word": "马龙回应背后击球练好了吗",
+        "onboard_time": 1724981002,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171793,
+        "num": 171793,
+        "word": "女方父亲疑收彩礼后转移他人名下",
+        "onboard_time": 1724985981,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见沙利文#"
+    }
+  }
+}
