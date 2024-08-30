@@ -1,0 +1,410 @@
+{
+  "runTime": 1725022523913,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1527603,
+        "num": 1527603,
+        "word": "原来微信余额还可以被隐藏",
+        "onboard_time": 1725019040,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1106394,
+        "num": 1106394,
+        "word": "华晨宇打响内娱反黄牛第一枪",
+        "onboard_time": 1725014600,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 3327,
+        "num": 933927,
+        "word": "河南博物院文创团队平均25岁",
+        "onboard_time": 1724982979,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 928507,
+        "num": 928507,
+        "word": "全红婵偷拍樊振东睡觉",
+        "onboard_time": 1725019820,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 903086,
+        "num": 903086,
+        "word": "微博香港直播",
+        "onboard_time": 1725020360,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 887666,
+        "num": 887666,
+        "word": "被逆行路虎女司机打伤男司机发声",
+        "onboard_time": 1725015201,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 776907,
+        "num": 776907,
+        "word": "被逆行女司机打伤男司机是退伍军人",
+        "onboard_time": 1725018081,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606644,
+        "num": 606644,
+        "word": "樊振东举着潘展乐的手打招呼",
+        "onboard_time": 1725008240,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 501238,
+        "num": 501238,
+        "word": "迪丽热巴吃着面包下班",
+        "onboard_time": 1725019880,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 496524,
+        "num": 496524,
+        "word": "下一战歌手直播",
+        "onboard_time": 1725019460,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419450,
+        "num": 419450,
+        "word": "杨幂 麻辣女教师",
+        "onboard_time": 1725020599,
+        "rank": 10,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 428382,
+        "num": 419333,
+        "word": "那英唱了相见不如怀念",
+        "onboard_time": 1725020780,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418457,
+        "num": 418457,
+        "word": "樊振东潘展乐肤色差",
+        "onboard_time": 1725020120,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349222,
+        "num": 349222,
+        "word": "痞老板点名江奈生小丑subs",
+        "onboard_time": 1725005482,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331028,
+        "num": 331028,
+        "word": "虞书欣 一生要出片的中国女人",
+        "onboard_time": 1725017840,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158682,
+        "num": 295919,
+        "word": "青岛逆行女司机至今未道歉赔偿",
+        "onboard_time": 1725022281,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286061,
+        "num": 286061,
+        "word": "郎平说徐梦洁腿部肌肉很漂亮",
+        "onboard_time": 1725009561,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273807,
+        "num": 273807,
+        "word": "韩国女性感谢中国网友为她们发声",
+        "onboard_time": 1724987180,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247227,
+        "num": 247227,
+        "word": "乙女圈怎么突然被哈圈盯上了",
+        "onboard_time": 1725015080,
+        "rank": 18,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 246899,
+        "num": 246899,
+        "word": "盛李豪潘展乐回复樊振东收到",
+        "onboard_time": 1725013821,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247234,
+        "num": 246809,
+        "word": "任运杰声明",
+        "onboard_time": 1725021200,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246376,
+        "num": 246376,
+        "word": "谢瑜vlog",
+        "onboard_time": 1725017600,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220781,
+        "num": 220781,
+        "word": "寄件人华晨宇",
+        "onboard_time": 1725020780,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 218278,
+        "num": 218278,
+        "word": "东南亚留学博士求职最先被筛掉了",
+        "onboard_time": 1725019400,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211461,
+        "num": 211461,
+        "word": "奥运健儿访港大汇演",
+        "onboard_time": 1725020301,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209643,
+        "num": 209643,
+        "word": "吴奇隆说十天勾心斗角负能量",
+        "onboard_time": 1725007400,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199353,
+        "num": 199353,
+        "word": "金晨腰臀比",
+        "onboard_time": 1725021441,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193005,
+        "num": 193005,
+        "word": "袁娅维认证宋亚轩舞台",
+        "onboard_time": 1725022100,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179054,
+        "num": 179054,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1725021080,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179008,
+        "num": 179008,
+        "word": "110打119报警抓大蛇",
+        "onboard_time": 1725007461,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154529,
+        "num": 177004,
+        "word": "印度女医护人员集体练武",
+        "onboard_time": 1725017540,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204089,
+        "num": 176830,
+        "word": "9月十二星座注意事项",
+        "onboard_time": 1725022219,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175741,
+        "num": 175741,
+        "word": "吴奇隆退赛",
+        "onboard_time": 1725003920,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173779,
+        "num": 173779,
+        "word": "谁家研究生宿舍是酒店啊",
+        "onboard_time": 1725012081,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170912,
+        "num": 170912,
+        "word": "肖战翻领牛仔",
+        "onboard_time": 1725021200,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171815,
+        "num": 170660,
+        "word": "全妹挽着马龙胳膊",
+        "onboard_time": 1725008480,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163619,
+        "num": 163619,
+        "word": "沈月李雪琴退赛",
+        "onboard_time": 1724999901,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162334,
+        "num": 162334,
+        "word": "世界之外一番赏",
+        "onboard_time": 1725020540,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160596,
+        "num": 160596,
+        "word": "痞老板发长文道歉",
+        "onboard_time": 1725003081,
+        "rank": 38,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 156936,
+        "num": 156936,
+        "word": "魏哲鸣好帅",
+        "onboard_time": 1725022342,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151058,
+        "num": 151058,
+        "word": "TES锁定S14二号种子",
+        "onboard_time": 1725016699,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146798,
+        "num": 146798,
+        "word": "刀郎线上演唱会",
+        "onboard_time": 1725020301,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145096,
+        "num": 145096,
+        "word": "下一战歌手",
+        "onboard_time": 1725018500,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144768,
+        "num": 144768,
+        "word": "大陆近期将恢复福建居民赴金门旅游",
+        "onboard_time": 1725022100,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144072,
+        "num": 144072,
+        "word": "RW对战KSG",
+        "onboard_time": 1725019221,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135467,
+        "num": 135467,
+        "word": "祝绪丹娱乐圈人缘",
+        "onboard_time": 1725017120,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134267,
+        "num": 134267,
+        "word": "李玖哲 好听",
+        "onboard_time": 1725022161,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35323,
+        "num": 133599,
+        "word": "坐上动车畅游祖国大好河山",
+        "onboard_time": 1725021200,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39276,
+        "num": 133461,
+        "word": "国人抗老已经nextlevel了",
+        "onboard_time": 1725022342,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 27330,
+        "num": 133445,
+        "word": "于适我先带走了",
+        "onboard_time": 1725018320,
+        "rank": 49,
+        "category": "作品衍生,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#9图了解2024中非合作论坛峰会#"
+    }
+  }
+}

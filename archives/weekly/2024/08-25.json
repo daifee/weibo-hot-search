@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1725021564337,
+  "endTime": 1725022523913,
   "band_list": [
     {
       "raw_hot": 20756997,
@@ -1187,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1527603,
+      "num": 1527603,
+      "word": "原来微信余额还可以被隐藏",
+      "onboard_time": 1725019040,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1517879,
       "num": 1517879,
       "word": "大熊猫戴立去世",
@@ -2323,6 +2331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 928507,
+      "num": 928507,
+      "word": "全红婵偷拍樊振东睡觉",
+      "onboard_time": 1725019820,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 927638,
       "num": 927638,
       "word": "Deepfake",
@@ -2337,14 +2353,6 @@
       "onboard_time": 1724750302,
       "rank": 29,
       "category": "网红"
-    },
-    {
-      "raw_hot": 923824,
-      "num": 923824,
-      "word": "全红婵偷拍樊振东睡觉",
-      "onboard_time": 1725019820,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 922139,
@@ -2459,6 +2467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 903086,
+      "num": 903086,
+      "word": "微博香港直播",
+      "onboard_time": 1725020360,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 897337,
       "num": 639571,
       "word": "吉祥航空回应两女子把孩子关厕所教育",
@@ -2497,14 +2513,6 @@
       "onboard_time": 1724548639,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 880536,
-      "num": 880536,
-      "word": "原来微信余额还可以被隐藏",
-      "onboard_time": 1725019040,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 878696,
@@ -2873,6 +2881,14 @@
       "onboard_time": 1724644221,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 776907,
+      "num": 776907,
+      "word": "被逆行女司机打伤男司机是退伍军人",
+      "onboard_time": 1725018081,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 773446,
@@ -3473,14 +3489,6 @@
       "onboard_time": 1724607914,
       "rank": 16,
       "category": "网红"
-    },
-    {
-      "raw_hot": 646285,
-      "num": 646285,
-      "word": "被逆行女司机打伤男司机是退伍军人",
-      "onboard_time": 1725018081,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 646240,
@@ -4955,6 +4963,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 428382,
+      "num": 419333,
+      "word": "那英唱了相见不如怀念",
+      "onboard_time": 1725020780,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 427609,
       "num": 360392,
       "word": "黑神话悟空中发现了游客景区涂鸦",
@@ -5043,11 +5059,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 419450,
+      "num": 419450,
+      "word": "杨幂 麻辣女教师",
+      "onboard_time": 1725020599,
+      "rank": 12,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 419170,
       "num": 419170,
       "word": "小胖其实看起来也没那么胖",
       "onboard_time": 1724922320,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 418457,
+      "num": 418457,
+      "word": "樊振东潘展乐肤色差",
+      "onboard_time": 1725020120,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -5707,14 +5739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 357851,
-      "num": 357851,
-      "word": "微博香港直播",
-      "onboard_time": 1725020360,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 357050,
       "num": 357050,
       "word": "CPA会计",
@@ -6027,14 +6051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 336336,
-      "num": 336336,
-      "word": "杨幂 麻辣女教师",
-      "onboard_time": 1725020599,
-      "rank": 12,
-      "category": "综艺,艺人"
-    },
-    {
       "raw_hot": 336106,
       "num": 336106,
       "word": "莎头说英文",
@@ -6264,14 +6280,6 @@
       "word": "王楚钦逛吃逛吃",
       "onboard_time": 1724764884,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 323399,
-      "num": 323399,
-      "word": "樊振东潘展乐肤色差",
-      "onboard_time": 1725020120,
-      "rank": 14,
       "category": "体育"
     },
     {
@@ -8147,14 +8155,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 250363,
-      "num": 250363,
-      "word": "那英唱了相见不如怀念",
-      "onboard_time": 1725020780,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 249947,
       "num": 249947,
       "word": "网购方便面女款比男款面饼小一半",
@@ -8273,6 +8273,14 @@
       "onboard_time": 1724584522,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247234,
+      "num": 246809,
+      "word": "任运杰声明",
+      "onboard_time": 1725021200,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 247141,
@@ -9515,6 +9523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220781,
+      "num": 220781,
+      "word": "寄件人华晨宇",
+      "onboard_time": 1725020780,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 220703,
       "num": 220703,
       "word": "藏海花不声不响就播了",
@@ -9681,6 +9697,14 @@
       "onboard_time": 1724735721,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 218278,
+      "num": 218278,
+      "word": "东南亚留学博士求职最先被筛掉了",
+      "onboard_time": 1725019400,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218221,
@@ -10587,6 +10611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 204089,
+      "num": 176830,
+      "word": "9月十二星座注意事项",
+      "onboard_time": 1725022219,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 203921,
       "num": 203921,
       "word": "终极笔记",
@@ -10961,6 +10993,14 @@
       "onboard_time": 1724693177,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199353,
+      "num": 199353,
+      "word": "金晨腰臀比",
+      "onboard_time": 1725021441,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 199274,
@@ -11435,6 +11475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193005,
+      "num": 193005,
+      "word": "袁娅维认证宋亚轩舞台",
+      "onboard_time": 1725022100,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192890,
       "num": 192890,
       "word": "丑衣服别扔留着上班穿",
@@ -11465,14 +11513,6 @@
       "onboard_time": 1724890943,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192624,
-      "num": 192624,
-      "word": "寄件人华晨宇",
-      "onboard_time": 1725020780,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 192570,
@@ -12507,6 +12547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 179054,
+      "num": 179054,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1725021080,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 178945,
       "num": 211773,
       "word": "盖尔加朵曾被换脸色情片女主",
@@ -12544,14 +12592,6 @@
       "word": "欧阳娜娜被曝恋情后首现身",
       "onboard_time": 1725006559,
       "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 178267,
-      "num": 178267,
-      "word": "任运杰声明",
-      "onboard_time": 1725021200,
-      "rank": 33,
       "category": "艺人"
     },
     {
@@ -13235,14 +13275,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 165782,
-      "num": 165782,
-      "word": "崩坏星穹铁道",
-      "onboard_time": 1725021080,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 165591,
       "num": 253356,
       "word": "王俊凯考砸装睡被妈妈打醒",
@@ -13603,6 +13635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 158682,
+      "num": 295919,
+      "word": "青岛逆行女司机至今未道歉赔偿",
+      "onboard_time": 1725022281,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158531,
       "num": 158531,
       "word": "宋亚轩 我们要一直见",
@@ -13641,6 +13681,14 @@
       "onboard_time": 1724559019,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156936,
+      "num": 156936,
+      "word": "魏哲鸣好帅",
+      "onboard_time": 1725022342,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 156885,
@@ -13825,6 +13873,14 @@
       "onboard_time": 1724667680,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154529,
+      "num": 323562,
+      "word": "印度女医护人员集体练武",
+      "onboard_time": 1725017540,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154164,
@@ -14171,6 +14227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144768,
+      "num": 144768,
+      "word": "大陆近期将恢复福建居民赴金门旅游",
+      "onboard_time": 1725022100,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144383,
       "num": 144383,
       "word": "求神不如球神",
@@ -14185,6 +14249,14 @@
       "onboard_time": 1725006681,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144072,
+      "num": 144072,
+      "word": "RW对战KSG",
+      "onboard_time": 1725019221,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 143679,
@@ -14539,6 +14611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134267,
+      "num": 134267,
+      "word": "李玖哲 好听",
+      "onboard_time": 1725022161,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134238,
       "num": 134238,
       "word": "王哲林分享活该",
@@ -14603,28 +14683,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132128,
-      "num": 173890,
-      "word": "东南亚留学博士求职最先被筛掉了",
-      "onboard_time": 1725019400,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132007,
       "num": 222189,
       "word": "盲目促排卵有多危险",
       "onboard_time": 1724913800,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131821,
-      "num": 131821,
-      "word": "金晨腰臀比",
-      "onboard_time": 1725021441,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 131740,
@@ -15153,14 +15217,6 @@
       "onboard_time": 1724973258,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 104659,
-      "num": 323562,
-      "word": "印度女医护人员集体练武",
-      "onboard_time": 1725017540,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 103440,
@@ -17483,6 +17539,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 39276,
+      "num": 133461,
+      "word": "国人抗老已经nextlevel了",
+      "onboard_time": 1725022342,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 39238,
       "num": 512075,
       "word": "以军称先发制人挫败黎真主党袭击",
@@ -17641,6 +17705,14 @@
       "onboard_time": 1724986460,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 35323,
+      "num": 899805,
+      "word": "坐上动车畅游祖国大好河山",
+      "onboard_time": 1725021200,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35282,
@@ -18067,20 +18139,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27330,
+      "num": 133445,
+      "word": "于适我先带走了",
+      "onboard_time": 1725018320,
+      "rank": 46,
+      "category": "作品衍生,作品衍生"
+    },
+    {
       "raw_hot": 27220,
       "num": 656019,
       "word": "卧底招转培机构揭秘骗局内幕",
       "onboard_time": 1724733143,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27149,
-      "num": 125775,
-      "word": "于适我先带走了",
-      "onboard_time": 1725018320,
-      "rank": 46,
-      "category": "作品衍生,作品衍生"
     },
     {
       "raw_hot": 27132,
@@ -18443,14 +18515,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 11091,
-      "num": 899805,
-      "word": "坐上动车畅游祖国大好河山",
-      "onboard_time": 1725021200,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 11036,
       "num": 77539,
       "word": "古人秋游活动也有划船",
@@ -18545,6 +18609,14 @@
       "onboard_time": 1724562018,
       "rank": 39,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 3327,
+      "num": 933927,
+      "word": "河南博物院文创团队平均25岁",
+      "onboard_time": 1724982979,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 665,
