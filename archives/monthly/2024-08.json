@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1725042494066,
+  "endTime": 1725043300394,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -78683,6 +78683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113389,
+      "num": 178457,
+      "word": "deepfake被称为最邪恶的技术",
+      "onboard_time": 1725038237,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113089,
       "num": 113089,
       "word": "中国残奥代表团亮相",
@@ -80041,14 +80049,6 @@
       "onboard_time": 1723140314,
       "rank": 35,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 98160,
-      "num": 178457,
-      "word": "deepfake被称为最邪恶的技术",
-      "onboard_time": 1725038237,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98136,
@@ -90497,6 +90497,14 @@
       "onboard_time": 1724999060,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 28457,
+      "num": 37802,
+      "word": "李耕耘回复王子奇我错了",
+      "onboard_time": 1725042913,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 28427,
