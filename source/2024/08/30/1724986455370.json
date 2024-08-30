@@ -1,0 +1,410 @@
+{
+  "runTime": 1724986455370,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2872014,
+        "num": 2872014,
+        "word": "芭莎拍了拍孙颖莎",
+        "onboard_time": 1724984241,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1003930,
+        "num": 1003930,
+        "word": "韩国女性怒斥我们没有国家",
+        "onboard_time": 1724979381,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8297,
+        "num": 874492,
+        "word": "一组数据透视中国能源转型",
+        "onboard_time": 1724936843,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1665088,
+        "num": 847627,
+        "word": "痞老板发投降书",
+        "onboard_time": 1724974036,
+        "rank": 3,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 795011,
+        "num": 795011,
+        "word": "鲁BQP800",
+        "onboard_time": 1724976501,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735287,
+        "num": 735287,
+        "word": "陈梦等25人拟记大功",
+        "onboard_time": 1724982440,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 597938,
+        "num": 729439,
+        "word": "黄子韬还得徐艺洋来治",
+        "onboard_time": 1724973016,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 568575,
+        "num": 723839,
+        "word": "边水往事 吴镇宇后三集演技",
+        "onboard_time": 1724981601,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182340,
+        "num": 714364,
+        "word": "地下非法代孕发展或超出以往认知",
+        "onboard_time": 1724986041,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20313,
+        "num": 706089,
+        "word": "女方父亲疑收彩礼后转移他人名下",
+        "onboard_time": 1724985981,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1359986,
+        "num": 689446,
+        "word": "小伙5年未清理耳屎患瘤",
+        "onboard_time": 1724982381,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1236446,
+        "num": 681889,
+        "word": "痞老板道歉",
+        "onboard_time": 1724976920,
+        "rank": 11,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 1077916,
+        "num": 675982,
+        "word": "绘旅人开战痞老板",
+        "onboard_time": 1724938523,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 777970,
+        "num": 659850,
+        "word": "代孕几乎每个环节都涉嫌违法",
+        "onboard_time": 1724949918,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21397,
+        "num": 655611,
+        "word": "当地居民称11元刀削面并不贵",
+        "onboard_time": 1724985981,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647745,
+        "num": 647745,
+        "word": "陈艺文曝被体育记者恶意造谣",
+        "onboard_time": 1724984420,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 454435,
+        "num": 643571,
+        "word": "乃万",
+        "onboard_time": 1724980340,
+        "rank": 16,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 441895,
+        "num": 619409,
+        "word": "GAI 痞老板唱得实在太烂了",
+        "onboard_time": 1724980220,
+        "rank": 17,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 422907,
+        "num": 599419,
+        "word": "第一见王一博笑成typec",
+        "onboard_time": 1724983820,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 379365,
+        "num": 564445,
+        "word": "只有派克特一个人信了",
+        "onboard_time": 1724974158,
+        "rank": 19,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 691271,
+        "num": 535634,
+        "word": "上班一定要穿的成熟",
+        "onboard_time": 1724982260,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 531627,
+        "num": 531627,
+        "word": "大学生每月平均生活费1282元",
+        "onboard_time": 1724984241,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527402,
+        "num": 527402,
+        "word": "体育局回应奥运会冠军陈艺文被造谣",
+        "onboard_time": 1724984779,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 410967,
+        "num": 410967,
+        "word": "恋与制作人 跳梁小丑不足为惧",
+        "onboard_time": 1724973016,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 339376,
+        "num": 339376,
+        "word": "官方辟谣青岛打人女子是城管局人员",
+        "onboard_time": 1724983281,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291794,
+        "num": 291794,
+        "word": "孙颖莎和郑思维坐一桌",
+        "onboard_time": 1724980161,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282060,
+        "num": 282060,
+        "word": "iPhone16开始印度量产",
+        "onboard_time": 1724984122,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 273483,
+        "num": 273483,
+        "word": "平遥古城老外穿日本旭日旗T恤",
+        "onboard_time": 1724982742,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265681,
+        "num": 265681,
+        "word": "周雨彤困得像个慈祥的老奶奶",
+        "onboard_time": 1724983581,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209702,
+        "num": 247521,
+        "word": "蒋奇明崔恩尔 势均力敌的爱情",
+        "onboard_time": 1724943265,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232610,
+        "num": 232610,
+        "word": "孙颖莎芭莎银十预告",
+        "onboard_time": 1724986281,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226037,
+        "num": 226037,
+        "word": "留给米哈游的时间不多了",
+        "onboard_time": 1724944166,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225896,
+        "num": 225896,
+        "word": "乙游大团结",
+        "onboard_time": 1724975899,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208785,
+        "num": 208785,
+        "word": "升学宴整成订婚宴了",
+        "onboard_time": 1724975599,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196954,
+        "num": 196954,
+        "word": "马龙回应背后击球练好了吗",
+        "onboard_time": 1724981002,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189873,
+        "num": 189873,
+        "word": "痞老板",
+        "onboard_time": 1724938763,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187761,
+        "num": 187761,
+        "word": "樊振东被叫小胖马龙憋笑",
+        "onboard_time": 1724984420,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173663,
+        "num": 173663,
+        "word": "易烊千玺说自己性格更适合幕后工作",
+        "onboard_time": 1724985619,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169955,
+        "num": 169955,
+        "word": "王一博 那不容易啊",
+        "onboard_time": 1724985259,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164382,
+        "num": 164382,
+        "word": "边水往事最狠的人是猜叔",
+        "onboard_time": 1724984660,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162586,
+        "num": 162586,
+        "word": "俄罗斯前反恐部门负责人被肉噎死",
+        "onboard_time": 1724939184,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 158903,
+        "num": 158903,
+        "word": "腾讯视频 幸会嘻哈",
+        "onboard_time": 1724943625,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154578,
+        "num": 154578,
+        "word": "张雨霏回复徐嘉余",
+        "onboard_time": 1724983101,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154435,
+        "num": 154435,
+        "word": "丫丫胖出仓鼠脸",
+        "onboard_time": 1724986340,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152522,
+        "num": 152522,
+        "word": "蒋奇明老婆是崔恩尔",
+        "onboard_time": 1724981601,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151337,
+        "num": 151337,
+        "word": "魏哲鸣 这波冲我来的",
+        "onboard_time": 1724986281,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148063,
+        "num": 148063,
+        "word": "i人和e人原来这么容易区别",
+        "onboard_time": 1724980758,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141811,
+        "num": 141811,
+        "word": "种地DNA在游戏里觉醒了",
+        "onboard_time": 1724985142,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141373,
+        "num": 141373,
+        "word": "崂山城管局报警",
+        "onboard_time": 1724986219,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137751,
+        "num": 137751,
+        "word": "公司回应女子参加酒局后身亡",
+        "onboard_time": 1724956574,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央全面深改委员会第六次会议#"
+    }
+  }
+}

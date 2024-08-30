@@ -1,6 +1,6 @@
 {
   "startTime": 1724948777601,
-  "endTime": 1724985860431,
+  "endTime": 1724986455370,
   "band_list": [
     {
       "raw_hot": 8843262,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2376102,
-      "num": 514923,
+      "num": 681889,
       "word": "痞老板道歉",
       "onboard_time": 1724976920,
       "rank": 10,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1359986,
+      "num": 689446,
+      "word": "小伙5年未清理耳屎患瘤",
+      "onboard_time": 1724982381,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1336512,
       "num": 1336512,
       "word": "余宇涵 失声",
@@ -88,14 +96,6 @@
       "word": "暗访地下代孕市场",
       "onboard_time": 1724938044,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1242104,
-      "num": 511080,
-      "word": "小伙5年未清理耳屎患瘤",
-      "onboard_time": 1724982381,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -211,6 +211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 691271,
+      "num": 535634,
+      "word": "上班一定要穿的成熟",
+      "onboard_time": 1724982260,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 688672,
       "num": 688672,
       "word": "腾讯视频 幸会嘻哈",
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 651248,
-      "num": 468538,
+      "num": 643571,
       "word": "乃万",
       "onboard_time": 1724980340,
       "rank": 16,
@@ -267,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 568575,
+      "num": 723839,
+      "word": "边水往事 吴镇宇后三集演技",
+      "onboard_time": 1724981601,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 538633,
       "num": 538633,
       "word": "腾讯游戏",
@@ -275,12 +291,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 528344,
-      "num": 528344,
-      "word": "边水往事 吴镇宇后三集演技",
-      "onboard_time": 1724981601,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 531627,
+      "num": 531627,
+      "word": "大学生每月平均生活费1282元",
+      "onboard_time": 1724984241,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 527402,
+      "num": 527402,
+      "word": "体育局回应奥运会冠军陈艺文被造谣",
+      "onboard_time": 1724984779,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 513357,
@@ -292,27 +316,19 @@
     },
     {
       "raw_hot": 490586,
-      "num": 490586,
+      "num": 619409,
       "word": "GAI 痞老板唱得实在太烂了",
       "onboard_time": 1724980220,
       "rank": 22,
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 455664,
-      "num": 366151,
-      "word": "上班一定要穿的成熟",
-      "onboard_time": 1724982260,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 426320,
-      "num": 426320,
-      "word": "体育局回应奥运会冠军陈艺文被造谣",
-      "onboard_time": 1724984779,
-      "rank": 17,
-      "category": "体育"
+      "raw_hot": 422907,
+      "num": 599419,
+      "word": "第一见王一博笑成typec",
+      "onboard_time": 1724983820,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 420776,
@@ -345,14 +361,6 @@
       "onboard_time": 1724933903,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 367700,
-      "num": 367700,
-      "word": "第一见王一博笑成typec",
-      "onboard_time": 1724983820,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 364018,
@@ -435,6 +443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 273483,
+      "num": 273483,
+      "word": "平遥古城老外穿日本旭日旗T恤",
+      "onboard_time": 1724982742,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271438,
       "num": 271438,
       "word": "嘉宾拿菜单找孙颖莎签名",
@@ -451,12 +467,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 266178,
-      "num": 266178,
-      "word": "平遥古城老外穿日本旭日旗T恤",
-      "onboard_time": 1724982742,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 265681,
+      "num": 265681,
+      "word": "周雨彤困得像个慈祥的老奶奶",
+      "onboard_time": 1724983581,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 262748,
@@ -465,14 +481,6 @@
       "onboard_time": 1724975899,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 258362,
-      "num": 524804,
-      "word": "大学生每月平均生活费1282元",
-      "onboard_time": 1724984241,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 257138,
@@ -507,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 250290,
-      "num": 250290,
-      "word": "周雨彤困得像个慈祥的老奶奶",
-      "onboard_time": 1724983581,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 242594,
       "num": 223559,
       "word": "宣璐女子50米游泳冠军",
@@ -529,6 +529,14 @@
       "onboard_time": 1724937323,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 232610,
+      "num": 232610,
+      "word": "孙颖莎芭莎银十预告",
+      "onboard_time": 1724986281,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 230592,
@@ -635,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187761,
+      "num": 187761,
+      "word": "樊振东被叫小胖马龙憋笑",
+      "onboard_time": 1724984420,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184854,
       "num": 184854,
       "word": "哈圈",
@@ -657,6 +673,14 @@
       "onboard_time": 1724939725,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 182340,
+      "num": 714364,
+      "word": "地下非法代孕发展或超出以往认知",
+      "onboard_time": 1724986041,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180550,
@@ -699,12 +723,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 173663,
+      "num": 173663,
+      "word": "易烊千玺说自己性格更适合幕后工作",
+      "onboard_time": 1724985619,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 171351,
       "num": 171351,
       "word": "尹锡悦称受害者和犯罪者多是未成年人",
       "onboard_time": 1724981182,
       "rank": 39,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 169955,
+      "num": 169955,
+      "word": "王一博 那不容易啊",
+      "onboard_time": 1724985259,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 168516,
@@ -720,14 +760,6 @@
       "word": "樊振东对晚宴每道菜都很期待",
       "onboard_time": 1724942905,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 167737,
-      "num": 167737,
-      "word": "樊振东被叫小胖马龙憋笑",
-      "onboard_time": 1724984420,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -787,6 +819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 154435,
+      "num": 154435,
+      "word": "丫丫胖出仓鼠脸",
+      "onboard_time": 1724986340,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154426,
       "num": 155016,
       "word": "女子花2万割双眼皮控诉成了悲伤蛙",
@@ -795,12 +835,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150321,
-      "num": 150321,
-      "word": "王一博 那不容易啊",
-      "onboard_time": 1724985259,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 151337,
+      "num": 151337,
+      "word": "魏哲鸣 这波冲我来的",
+      "onboard_time": 1724986281,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 146732,
@@ -851,20 +891,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141373,
+      "num": 141373,
+      "word": "崂山城管局报警",
+      "onboard_time": 1724986219,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140984,
       "num": 140984,
       "word": "我们有自己的rap",
       "onboard_time": 1724941585,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 139794,
-      "num": 139794,
-      "word": "易烊千玺说自己性格更适合幕后工作",
-      "onboard_time": 1724985619,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 134555,
@@ -1040,6 +1080,22 @@
       "word": "未来一周四川重庆仍是高温控场",
       "onboard_time": 1724960291,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21397,
+      "num": 655611,
+      "word": "当地居民称11元刀削面并不贵",
+      "onboard_time": 1724985981,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20313,
+      "num": 706089,
+      "word": "女方父亲疑收彩礼后转移他人名下",
+      "onboard_time": 1724985981,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
