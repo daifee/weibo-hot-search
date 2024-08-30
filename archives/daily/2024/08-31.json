@@ -1,6 +1,6 @@
 {
   "startTime": 1725035044218,
-  "endTime": 1725053731039,
+  "endTime": 1725056409614,
   "band_list": [
     {
       "raw_hot": 3132358,
@@ -339,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122867,
+      "num": 71120,
+      "word": "王雅繁晋级美网16强",
+      "onboard_time": 1725047592,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116925,
       "num": 143623,
       "word": "JYP将对TWICEDeepfake采取法律行动",
@@ -377,14 +385,6 @@
       "onboard_time": 1725030320,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 107150,
-      "num": 51385,
-      "word": "王雅繁晋级美网16强",
-      "onboard_time": 1725047592,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 106115,
@@ -475,12 +475,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 48748,
+      "num": 48748,
+      "word": "西游记中最善良的妖精",
+      "onboard_time": 1725053592,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 48185,
       "num": 48185,
       "word": "Kanye试听会官宣",
       "onboard_time": 1725039315,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 47498,
+      "num": 47498,
+      "word": "下一战歌手 尬聊",
+      "onboard_time": 1725050951,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 45614,
@@ -507,14 +523,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 34124,
-      "num": 34124,
-      "word": "下一战歌手 尬聊",
-      "onboard_time": 1725050951,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 31907,
       "num": 104216,
       "word": "今后三天全国一半地方有雨",
@@ -523,8 +531,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30043,
-      "num": 30043,
+      "raw_hot": 31533,
+      "num": 31533,
       "word": "韩女性深陷恐慌22万人被色情片AI换脸",
       "onboard_time": 1725051432,
       "rank": 35,
@@ -537,6 +545,22 @@
       "onboard_time": 1725042913,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27322,
+      "num": 29511,
+      "word": "爱奇艺和腾讯为什么要争脱口秀",
+      "onboard_time": 1725038536,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 22241,
+      "num": 29505,
+      "word": "黄景瑜不愧是内娱服兵役标杆",
+      "onboard_time": 1725056354,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 19332,
@@ -555,20 +579,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16123,
-      "num": 21840,
-      "word": "西游记中最善良的妖精",
-      "onboard_time": 1725053592,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 16112,
+      "num": 29508,
+      "word": "开颅手术前医护帮她设计发型",
+      "onboard_time": 1725055992,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 16028,
-      "num": 21836,
-      "word": "爱奇艺和腾讯为什么要争脱口秀",
-      "onboard_time": 1725038536,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 15644,
+      "num": 69449,
+      "word": "淬火英雄张劼说从未后悔",
+      "onboard_time": 1725055753,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15065,
