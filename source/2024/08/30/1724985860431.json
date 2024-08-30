@@ -1,0 +1,410 @@
+{
+  "runTime": 1724985860431,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3215117,
+        "num": 3215117,
+        "word": "芭莎拍了拍孙颖莎",
+        "onboard_time": 1724984241,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1110133,
+        "num": 1110133,
+        "word": "韩国女性怒斥我们没有国家",
+        "onboard_time": 1724979381,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8557,
+        "num": 932702,
+        "word": "一组数据透视中国能源转型",
+        "onboard_time": 1724936843,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1743376,
+        "num": 915387,
+        "word": "痞老板发投降书",
+        "onboard_time": 1724974036,
+        "rank": 3,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 889690,
+        "num": 889690,
+        "word": "鲁BQP800",
+        "onboard_time": 1724976501,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 862624,
+        "num": 862624,
+        "word": "陈梦等25人拟记大功",
+        "onboard_time": 1724982440,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 673018,
+        "num": 673018,
+        "word": "陈艺文曝被体育记者恶意造谣",
+        "onboard_time": 1724984420,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 597612,
+        "num": 597612,
+        "word": "黄子韬还得徐艺洋来治",
+        "onboard_time": 1724973016,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 528344,
+        "num": 528344,
+        "word": "边水往事 吴镇宇后三集演技",
+        "onboard_time": 1724981601,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258362,
+        "num": 524804,
+        "word": "大学生每月平均生活费1282元",
+        "onboard_time": 1724984241,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1347512,
+        "num": 514923,
+        "word": "痞老板道歉",
+        "onboard_time": 1724976920,
+        "rank": 10,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 1242104,
+        "num": 511080,
+        "word": "小伙5年未清理耳屎患瘤",
+        "onboard_time": 1724982381,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1159002,
+        "num": 504047,
+        "word": "绘旅人开战痞老板",
+        "onboard_time": 1724938523,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 744201,
+        "num": 496185,
+        "word": "代孕几乎每个环节都涉嫌违法",
+        "onboard_time": 1724949918,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490586,
+        "num": 490586,
+        "word": "GAI 痞老板唱得实在太烂了",
+        "onboard_time": 1724980220,
+        "rank": 14,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 468538,
+        "num": 468538,
+        "word": "乃万",
+        "onboard_time": 1724980340,
+        "rank": 15,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 457867,
+        "num": 457867,
+        "word": "恋与制作人 跳梁小丑不足为惧",
+        "onboard_time": 1724973016,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 426320,
+        "num": 426320,
+        "word": "体育局回应奥运会冠军陈艺文被造谣",
+        "onboard_time": 1724984779,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 371660,
+        "num": 371660,
+        "word": "只有派克特一个人信了",
+        "onboard_time": 1724974158,
+        "rank": 18,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 367700,
+        "num": 367700,
+        "word": "第一见王一博笑成typec",
+        "onboard_time": 1724983820,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 455664,
+        "num": 366151,
+        "word": "上班一定要穿的成熟",
+        "onboard_time": 1724982260,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 354318,
+        "num": 354318,
+        "word": "官方辟谣青岛打人女子是城管局人员",
+        "onboard_time": 1724983281,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351533,
+        "num": 351533,
+        "word": "孙颖莎和郑思维坐一桌",
+        "onboard_time": 1724980161,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290545,
+        "num": 290545,
+        "word": "iPhone16开始印度量产",
+        "onboard_time": 1724984122,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 266178,
+        "num": 266178,
+        "word": "平遥古城老外穿日本旭日旗T恤",
+        "onboard_time": 1724982742,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250290,
+        "num": 250290,
+        "word": "周雨彤困得像个慈祥的老奶奶",
+        "onboard_time": 1724983581,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233103,
+        "num": 233103,
+        "word": "升学宴整成订婚宴了",
+        "onboard_time": 1724975599,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226634,
+        "num": 226634,
+        "word": "留给米哈游的时间不多了",
+        "onboard_time": 1724944166,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 223693,
+        "num": 223693,
+        "word": "蒋奇明崔恩尔 势均力敌的爱情",
+        "onboard_time": 1724943265,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205241,
+        "num": 205241,
+        "word": "俄罗斯前反恐部门负责人被肉噎死",
+        "onboard_time": 1724939184,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 198823,
+        "num": 198823,
+        "word": "痞老板",
+        "onboard_time": 1724938763,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197992,
+        "num": 197992,
+        "word": "马龙回应背后击球练好了吗",
+        "onboard_time": 1724981002,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184782,
+        "num": 184782,
+        "word": "边水往事最狠的人是猜叔",
+        "onboard_time": 1724984660,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175282,
+        "num": 175282,
+        "word": "中秋假期火车票要开售了",
+        "onboard_time": 1724984960,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172306,
+        "num": 172306,
+        "word": "腾讯视频 幸会嘻哈",
+        "onboard_time": 1724943625,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170824,
+        "num": 170824,
+        "word": "蒋奇明老婆是崔恩尔",
+        "onboard_time": 1724981601,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167737,
+        "num": 167737,
+        "word": "樊振东被叫小胖马龙憋笑",
+        "onboard_time": 1724984420,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165204,
+        "num": 165204,
+        "word": "公司回应女子参加酒局后身亡",
+        "onboard_time": 1724956574,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160079,
+        "num": 160079,
+        "word": "乙游大团结",
+        "onboard_time": 1724975899,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156791,
+        "num": 156791,
+        "word": "张雨霏回复徐嘉余",
+        "onboard_time": 1724983101,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155145,
+        "num": 155145,
+        "word": "种地DNA在游戏里觉醒了",
+        "onboard_time": 1724985142,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153002,
+        "num": 153002,
+        "word": "i人和e人原来这么容易区别",
+        "onboard_time": 1724980758,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150321,
+        "num": 150321,
+        "word": "王一博 那不容易啊",
+        "onboard_time": 1724985259,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145683,
+        "num": 145683,
+        "word": "香港小孩哥要见全红婵整夜睡不着",
+        "onboard_time": 1724985560,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143607,
+        "num": 143607,
+        "word": "我爸在网易上班",
+        "onboard_time": 1724938463,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139794,
+        "num": 139794,
+        "word": "易烊千玺说自己性格更适合幕后工作",
+        "onboard_time": 1724985619,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136981,
+        "num": 136981,
+        "word": "N号房2.0",
+        "onboard_time": 1724947882,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135759,
+        "num": 135759,
+        "word": "大一新生宿舍的第一次矛盾",
+        "onboard_time": 1724946863,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134555,
+        "num": 134555,
+        "word": "刘宇 内娱饭撒的神",
+        "onboard_time": 1724985800,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133513,
+        "num": 133513,
+        "word": "王小梅巴黎残奥会夺冠",
+        "onboard_time": 1724985499,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见沙利文#"
+    }
+  }
+}
