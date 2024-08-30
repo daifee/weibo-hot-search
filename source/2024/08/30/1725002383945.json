@@ -1,0 +1,410 @@
+{
+  "runTime": 1725002383945,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1719964,
+        "num": 1719964,
+        "word": "沈月李雪琴退赛",
+        "onboard_time": 1724999901,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1360586,
+        "num": 1360586,
+        "word": "有家长怒砸小天才手表了",
+        "onboard_time": 1724992763,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119925,
+        "num": 1096888,
+        "word": "蛟龙号带回海参海绵等5种生物",
+        "onboard_time": 1724991803,
+        "rank": 2,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 1048025,
+        "num": 1048025,
+        "word": "如厕回来车丢了在1公里外撞稀烂",
+        "onboard_time": 1724999779,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756347,
+        "num": 756347,
+        "word": "上官正义称青岛代孕公司法人已被抓获",
+        "onboard_time": 1724999719,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679270,
+        "num": 679270,
+        "word": "潘展乐把樊振东逗笑了",
+        "onboard_time": 1725000381,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 629171,
+        "num": 629171,
+        "word": "韩国女性感谢中国网友为她们发声",
+        "onboard_time": 1724987180,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595087,
+        "num": 595087,
+        "word": "痞老板发投降书",
+        "onboard_time": 1724974036,
+        "rank": 7,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 90358,
+        "num": 570932,
+        "word": "现在的产品什么都要Pro",
+        "onboard_time": 1725001161,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26668,
+        "num": 564472,
+        "word": "斩断非法代孕链条难在哪",
+        "onboard_time": 1725002239,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561730,
+        "num": 561730,
+        "word": "清华1块钱一碗的白菜粉丝汤",
+        "onboard_time": 1724987542,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 33905,
+        "num": 462952,
+        "word": "匠步新行百年特展",
+        "onboard_time": 1724997860,
+        "rank": 11,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 1801426,
+        "num": 461027,
+        "word": "35厘米的取卵针",
+        "onboard_time": 1724998581,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437189,
+        "num": 437189,
+        "word": "恋与深空谷子",
+        "onboard_time": 1724994923,
+        "rank": 13,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 49417,
+        "num": 435668,
+        "word": "开学前杭州一学校通知作业清零",
+        "onboard_time": 1725001460,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35605,
+        "num": 433736,
+        "word": "途岳新锐实测油耗4.66L",
+        "onboard_time": 1724998042,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 342024,
+        "num": 433462,
+        "word": "阿如那西装暴徒",
+        "onboard_time": 1724996301,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274226,
+        "num": 431573,
+        "word": "傅首尔夹着尾巴做妈妈",
+        "onboard_time": 1724999660,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244745,
+        "num": 429736,
+        "word": "梁源账号被禁言",
+        "onboard_time": 1724988020,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223286,
+        "num": 427289,
+        "word": "付航辣评说唱圈",
+        "onboard_time": 1724994082,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 689053,
+        "num": 426221,
+        "word": "你知道子宫有多大吗",
+        "onboard_time": 1724996720,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 424754,
+        "num": 424754,
+        "word": "柯文哲被带走调查",
+        "onboard_time": 1724997741,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 448104,
+        "num": 424040,
+        "word": "代孕操刀医生之一无专业背景",
+        "onboard_time": 1724997741,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405044,
+        "num": 405044,
+        "word": "河南大姐从事新兴职业时薪700元",
+        "onboard_time": 1724994443,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199351,
+        "num": 374404,
+        "word": "CRAZY 难听",
+        "onboard_time": 1724999181,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198565,
+        "num": 370639,
+        "word": "密室大逃脱6收官上班路透",
+        "onboard_time": 1724994681,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192449,
+        "num": 368276,
+        "word": "十天之后回到现实",
+        "onboard_time": 1725001460,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367424,
+        "num": 367424,
+        "word": "刘国梁把进村名额让给了邱贻可",
+        "onboard_time": 1724994443,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10504,
+        "num": 349512,
+        "word": "乌军一架F16战机坠毁",
+        "onboard_time": 1725002120,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 41965,
+        "num": 340710,
+        "word": "年轻人的第一台保时捷",
+        "onboard_time": 1725001400,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 336672,
+        "num": 336672,
+        "word": "律师解读青岛代孕事件",
+        "onboard_time": 1724992163,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321314,
+        "num": 321314,
+        "word": "痞老板道歉",
+        "onboard_time": 1724976920,
+        "rank": 31,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 314536,
+        "num": 314536,
+        "word": "孙颖莎王楚钦一组玩游戏",
+        "onboard_time": 1724989462,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281678,
+        "num": 281678,
+        "word": "女子与老公吵架后狂吃火锅诱发带状疱疹",
+        "onboard_time": 1725000381,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271707,
+        "num": 271707,
+        "word": "芭莎拍了拍孙颖莎",
+        "onboard_time": 1724984241,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257003,
+        "num": 257003,
+        "word": "大学生每月平均生活费1282元",
+        "onboard_time": 1724984241,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243084,
+        "num": 243084,
+        "word": "王楚钦骑2公里说一点也不累",
+        "onboard_time": 1724997682,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234739,
+        "num": 234739,
+        "word": "绘旅人开战痞老板",
+        "onboard_time": 1724938523,
+        "rank": 37,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 229856,
+        "num": 229856,
+        "word": "张雨霏回应6块奖牌为何没带去香港",
+        "onboard_time": 1725000979,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200058,
+        "num": 200058,
+        "word": "陈梦手把手教全红婵打乒乓球",
+        "onboard_time": 1724996181,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185520,
+        "num": 185520,
+        "word": "米哈游创始人罕见发声",
+        "onboard_time": 1724992102,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185177,
+        "num": 185177,
+        "word": "蟹和蟹的命运怎么差别这么大",
+        "onboard_time": 1725002361,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184157,
+        "num": 184157,
+        "word": "欧阳娜娜替赵小棠接诈骗电话",
+        "onboard_time": 1724997981,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178404,
+        "num": 178404,
+        "word": "危害极大的非法代孕为何屡禁不止",
+        "onboard_time": 1724997741,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170873,
+        "num": 170873,
+        "word": "四大国乙",
+        "onboard_time": 1724990843,
+        "rank": 44,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 169118,
+        "num": 169118,
+        "word": "新疆一大批沙漠螃蟹上市了",
+        "onboard_time": 1725002361,
+        "rank": 45,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 168422,
+        "num": 168422,
+        "word": "张艺谋黄景瑜 热情的导演局促的他",
+        "onboard_time": 1724999541,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164742,
+        "num": 164742,
+        "word": "青岛代孕事件追踪",
+        "onboard_time": 1724999660,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162391,
+        "num": 162391,
+        "word": "相机漂流66天后回来开学啦",
+        "onboard_time": 1724997261,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24684,
+        "num": 160263,
+        "word": "双电机原地掉头破圈成都车展",
+        "onboard_time": 1725002300,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#9图了解2024中非合作论坛峰会#"
+    }
+  }
+}

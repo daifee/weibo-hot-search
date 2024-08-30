@@ -1,6 +1,6 @@
 {
   "startTime": 1724948777601,
-  "endTime": 1725000176881,
+  "endTime": 1725002383945,
   "band_list": [
     {
       "raw_hot": 8843262,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1801426,
+      "num": 1173053,
+      "word": "35厘米的取卵针",
+      "onboard_time": 1724998581,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1782697,
       "num": 1782697,
       "word": "青岛代孕",
@@ -73,6 +81,14 @@
       "onboard_time": 1724941344,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1719964,
+      "num": 1719964,
+      "word": "沈月李雪琴退赛",
+      "onboard_time": 1724999901,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 1639316,
@@ -163,14 +179,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1173053,
-      "num": 1173053,
-      "word": "35厘米的取卵针",
-      "onboard_time": 1724998581,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1146320,
       "num": 1146320,
       "word": "她的子宫不能是商品",
@@ -200,6 +208,14 @@
       "word": "N号房2.0",
       "onboard_time": 1724947882,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1048025,
+      "num": 1048025,
+      "word": "如厕回来车丢了在1公里外撞稀烂",
+      "onboard_time": 1724999779,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -315,6 +331,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 756347,
+      "num": 756347,
+      "word": "上官正义称青岛代孕公司法人已被抓获",
+      "onboard_time": 1724999719,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 738507,
       "num": 738507,
       "word": "恋与制作人 跳梁小丑不足为惧",
@@ -345,6 +369,14 @@
       "onboard_time": 1724943625,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 679270,
+      "num": 679270,
+      "word": "潘展乐把樊振东逗笑了",
+      "onboard_time": 1725000381,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 673018,
@@ -483,12 +515,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 448104,
+      "num": 539564,
+      "word": "代孕操刀医生之一无专业背景",
+      "onboard_time": 1724997741,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 436110,
       "num": 436110,
       "word": "孙颖莎芭莎银十预告",
       "onboard_time": 1724986281,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 424754,
+      "num": 430645,
+      "word": "柯文哲被带走调查",
+      "onboard_time": 1724997741,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 420776,
@@ -579,14 +627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 359941,
-      "num": 430645,
-      "word": "柯文哲被带走调查",
-      "onboard_time": 1724997741,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 357861,
       "num": 382858,
       "word": "杨幂黑长直学姐感",
@@ -627,15 +667,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 332542,
-      "num": 539564,
-      "word": "代孕操刀医生之一无专业背景",
-      "onboard_time": 1724997741,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 327795,
+      "raw_hot": 336672,
       "num": 670383,
       "word": "律师解读青岛代孕事件",
       "onboard_time": 1724992163,
@@ -665,22 +697,6 @@
       "onboard_time": 1724994681,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 314552,
-      "num": 351751,
-      "word": "沈月李雪琴退赛",
-      "onboard_time": 1724999901,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 305077,
-      "num": 305077,
-      "word": "上官正义称青岛代孕公司法人已被抓获",
-      "onboard_time": 1724999719,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 302483,
@@ -747,6 +763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 281678,
+      "num": 281678,
+      "word": "女子与老公吵架后狂吃火锅诱发带状疱疹",
+      "onboard_time": 1725000381,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281067,
       "num": 548095,
       "word": "危害极大的非法代孕为何屡禁不止",
@@ -769,6 +793,14 @@
       "onboard_time": 1724986219,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274226,
+      "num": 431573,
+      "word": "傅首尔夹着尾巴做妈妈",
+      "onboard_time": 1724999660,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 271438,
@@ -852,7 +884,7 @@
     },
     {
       "raw_hot": 256220,
-      "num": 329071,
+      "num": 374404,
       "word": "CRAZY 难听",
       "onboard_time": 1724999181,
       "rank": 46,
@@ -977,6 +1009,14 @@
       "onboard_time": 1724976740,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 229856,
+      "num": 229856,
+      "word": "张雨霏回应6块奖牌为何没带去香港",
+      "onboard_time": 1725000979,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 228986,
@@ -1187,12 +1227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193711,
-      "num": 389067,
-      "word": "如厕回来车丢了在1公里外撞稀烂",
-      "onboard_time": 1724999779,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 192449,
+      "num": 368276,
+      "word": "十天之后回到现实",
+      "onboard_time": 1725001460,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 191058,
@@ -1209,6 +1249,14 @@
       "onboard_time": 1724982440,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185177,
+      "num": 185177,
+      "word": "蟹和蟹的命运怎么差别这么大",
+      "onboard_time": 1725002361,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184854,
@@ -1305,6 +1353,14 @@
       "onboard_time": 1724985259,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169118,
+      "num": 169118,
+      "word": "新疆一大批沙漠螃蟹上市了",
+      "onboard_time": 1725002361,
+      "rank": 45,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 168516,
@@ -1555,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90358,
+      "num": 570932,
+      "word": "现在的产品什么都要Pro",
+      "onboard_time": 1725001161,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84556,
       "num": 603826,
       "word": "竟然在喜综吃到这么细的糠",
@@ -1584,14 +1648,6 @@
       "word": "糟糠之Q",
       "onboard_time": 1724998881,
       "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 79007,
-      "num": 379269,
-      "word": "傅首尔夹着尾巴做妈妈",
-      "onboard_time": 1724999660,
-      "rank": 20,
       "category": "综艺"
     },
     {
@@ -1763,6 +1819,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 49417,
+      "num": 435668,
+      "word": "开学前杭州一学校通知作业清零",
+      "onboard_time": 1725001460,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45918,
       "num": 912565,
       "word": "途岳新锐售价7.99万起",
@@ -1777,6 +1841,14 @@
       "onboard_time": 1724954714,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41965,
+      "num": 340710,
+      "word": "年轻人的第一台保时捷",
+      "onboard_time": 1725001400,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 39525,
@@ -1803,6 +1875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35605,
+      "num": 506907,
+      "word": "途岳新锐实测油耗4.66L",
+      "onboard_time": 1724998042,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 35372,
       "num": 220867,
       "word": "护肤先理清底层逻辑",
@@ -1817,14 +1897,6 @@
       "onboard_time": 1724995941,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33562,
-      "num": 506907,
-      "word": "途岳新锐实测油耗4.66L",
-      "onboard_time": 1724998042,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 32088,
@@ -1875,6 +1947,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26668,
+      "num": 564472,
+      "word": "斩断非法代孕链条难在哪",
+      "onboard_time": 1725002239,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24684,
+      "num": 160263,
+      "word": "双电机原地掉头破圈成都车展",
+      "onboard_time": 1725002300,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 19918,
       "num": 45299,
       "word": "古人用铁做了一副对联",
@@ -1889,6 +1977,14 @@
       "onboard_time": 1724917341,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10504,
+      "num": 349512,
+      "word": "乌军一架F16战机坠毁",
+      "onboard_time": 1725002120,
+      "rank": 28,
+      "category": "国外时政"
     }
   ],
   "hotgov_list": [
