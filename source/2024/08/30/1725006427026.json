@@ -1,0 +1,410 @@
+{
+  "runTime": 1725006427026,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1326218,
+        "num": 1326218,
+        "word": "沈月李雪琴退赛",
+        "onboard_time": 1724999901,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 750292,
+        "num": 750292,
+        "word": "潘展乐把樊振东逗笑了",
+        "onboard_time": 1725000381,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62657,
+        "num": 666575,
+        "word": "一组图给要开学的人回回血",
+        "onboard_time": 1725005240,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2685723,
+        "num": 665259,
+        "word": "痞老板点名江奈生小丑subs",
+        "onboard_time": 1725005482,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 654282,
+        "num": 654282,
+        "word": "女子与老公吵架后狂吃火锅诱发带状疱疹",
+        "onboard_time": 1725000381,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536460,
+        "num": 536460,
+        "word": "韩国女性感谢中国网友为她们发声",
+        "onboard_time": 1724987180,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1054335,
+        "num": 518711,
+        "word": "有家长怒砸小天才手表了",
+        "onboard_time": 1724992763,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469780,
+        "num": 469780,
+        "word": "清华1块钱一碗的白菜粉丝汤",
+        "onboard_time": 1724987542,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 384805,
+        "num": 384805,
+        "word": "恋与深空谷子",
+        "onboard_time": 1724994923,
+        "rank": 8,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 362597,
+        "num": 362597,
+        "word": "亚锦赛名单",
+        "onboard_time": 1725005240,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1374201,
+        "num": 361687,
+        "word": "痞老板发长文道歉",
+        "onboard_time": 1725003081,
+        "rank": 10,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 1303215,
+        "num": 353410,
+        "word": "英语专八范文 代孕",
+        "onboard_time": 1725003560,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 761828,
+        "num": 347989,
+        "word": "如厕回来车丢了在1公里外撞稀烂",
+        "onboard_time": 1724999779,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47487,
+        "num": 340992,
+        "word": "双电机原地掉头破圈成都车展",
+        "onboard_time": 1725002300,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 91140,
+        "num": 338249,
+        "word": "蛟龙出手就知有没有",
+        "onboard_time": 1725000202,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617023,
+        "num": 332435,
+        "word": "痞老板diss杀不死",
+        "onboard_time": 1725003380,
+        "rank": 15,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 567159,
+        "num": 326055,
+        "word": "吴奇隆退赛",
+        "onboard_time": 1725003920,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 557413,
+        "num": 322851,
+        "word": "痞老板发投降书",
+        "onboard_time": 1724974036,
+        "rank": 17,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 317365,
+        "num": 317365,
+        "word": "李佳琦上课成功 早安接收失败",
+        "onboard_time": 1725003560,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310718,
+        "num": 310718,
+        "word": "痞老板承认想蹭流量",
+        "onboard_time": 1725003680,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482499,
+        "num": 298073,
+        "word": "你知道子宫有多大吗",
+        "onboard_time": 1724996720,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 282976,
+        "num": 282976,
+        "word": "柯文哲被带走调查",
+        "onboard_time": 1724997741,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 261413,
+        "num": 261413,
+        "word": "绘旅人开战痞老板",
+        "onboard_time": 1724938523,
+        "rank": 22,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 261251,
+        "num": 261251,
+        "word": "叠纸心意",
+        "onboard_time": 1725004521,
+        "rank": 23,
+        "category": "游戏,作品衍生"
+      },
+      {
+        "raw_hot": 245552,
+        "num": 245552,
+        "word": "新疆一大批沙漠螃蟹上市了",
+        "onboard_time": 1725002361,
+        "rank": 24,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 228470,
+        "num": 228470,
+        "word": "傅首尔夹着尾巴做妈妈",
+        "onboard_time": 1724999660,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223006,
+        "num": 223006,
+        "word": "孙颖莎王楚钦一组玩游戏",
+        "onboard_time": 1724989462,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218079,
+        "num": 218079,
+        "word": "河南大姐从事新兴职业时薪700元",
+        "onboard_time": 1724994443,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37021,
+        "num": 216179,
+        "word": "一条微博告别夏天",
+        "onboard_time": 1725001161,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214622,
+        "num": 214622,
+        "word": "白色橄榄树",
+        "onboard_time": 1725005421,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246918,
+        "num": 212197,
+        "word": "黄镇廷晒合照",
+        "onboard_time": 1725003680,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49293,
+        "num": 209422,
+        "word": "我最怀念的听歌时代",
+        "onboard_time": 1725005120,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207643,
+        "num": 207643,
+        "word": "全红婵又水灵灵喜提乌龟",
+        "onboard_time": 1725005721,
+        "rank": 32,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 205368,
+        "num": 205368,
+        "word": "陈飞宇慕胥辞妆发路透",
+        "onboard_time": 1725003980,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201351,
+        "num": 201351,
+        "word": "我国育龄人口15%不孕不育",
+        "onboard_time": 1725004342,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194494,
+        "num": 194494,
+        "word": "BLG对战WBG",
+        "onboard_time": 1725004040,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187891,
+        "num": 187891,
+        "word": "郭晶晶霍启刚看黄雅琼打球好开心",
+        "onboard_time": 1725002420,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185458,
+        "num": 185458,
+        "word": "痞老板道歉",
+        "onboard_time": 1724976920,
+        "rank": 37,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 180426,
+        "num": 180426,
+        "word": "迪丽热巴坐粉色三轮车",
+        "onboard_time": 1725005002,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179923,
+        "num": 179923,
+        "word": "取卵后腹水卵巢应激",
+        "onboard_time": 1725006142,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174861,
+        "num": 174861,
+        "word": "明日方舟",
+        "onboard_time": 1725005302,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172724,
+        "num": 172724,
+        "word": "美国网红步道核辐射堪比切尔诺贝利",
+        "onboard_time": 1725003441,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 172674,
+        "num": 172674,
+        "word": "大学生每月平均生活费1282元",
+        "onboard_time": 1724984241,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157856,
+        "num": 157856,
+        "word": "张雨霏回应6块奖牌为何没带去香港",
+        "onboard_time": 1725000979,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157262,
+        "num": 157262,
+        "word": "刘国梁把进村名额让给了邱贻可",
+        "onboard_time": 1724994443,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155224,
+        "num": 155224,
+        "word": "阿如那西装暴徒",
+        "onboard_time": 1724996301,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152264,
+        "num": 152264,
+        "word": "中韩化妆师手艺对比",
+        "onboard_time": 1725005661,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 148857,
+        "num": 148857,
+        "word": "蟹和蟹的命运怎么差别这么大",
+        "onboard_time": 1725002361,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145450,
+        "num": 145450,
+        "word": "梁源账号被禁言",
+        "onboard_time": 1724988020,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141622,
+        "num": 141622,
+        "word": "黄薇给慕胥辞做的造型",
+        "onboard_time": 1725006381,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#9图了解2024中非合作论坛峰会#"
+    }
+  }
+}

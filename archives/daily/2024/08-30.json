@@ -1,6 +1,6 @@
 {
   "startTime": 1724948777601,
-  "endTime": 1725003315918,
+  "endTime": 1725006427026,
   "band_list": [
     {
       "raw_hot": 8843262,
@@ -33,6 +33,14 @@
       "onboard_time": 1724984241,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2685723,
+      "num": 665259,
+      "word": "痞老板点名江奈生小丑subs",
+      "onboard_time": 1725005482,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 2376102,
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1374201,
+      "num": 361687,
+      "word": "痞老板发长文道歉",
+      "onboard_time": 1725003081,
+      "rank": 39,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 1359986,
       "num": 806932,
       "word": "小伙5年未清理耳屎患瘤",
@@ -159,6 +175,14 @@
       "num": 792014,
       "word": "暗访地下代孕市场",
       "onboard_time": 1724938044,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1303215,
+      "num": 353410,
+      "word": "英语专八范文 代孕",
+      "onboard_time": 1725003560,
       "rank": 11,
       "category": "社会新闻"
     },
@@ -339,20 +363,20 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 750292,
+      "num": 750292,
+      "word": "潘展乐把樊振东逗笑了",
+      "onboard_time": 1725000381,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 738507,
       "num": 738507,
       "word": "恋与制作人 跳梁小丑不足为惧",
       "onboard_time": 1724973016,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 718701,
-      "num": 718701,
-      "word": "潘展乐把樊振东逗笑了",
-      "onboard_time": 1725000381,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 701064,
@@ -395,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 654282,
+      "num": 654282,
+      "word": "女子与老公吵架后狂吃火锅诱发带状疱疹",
+      "onboard_time": 1725000381,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 651248,
       "num": 696069,
       "word": "乃万",
@@ -419,6 +451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 617023,
+      "num": 332435,
+      "word": "痞老板diss杀不死",
+      "onboard_time": 1725003380,
+      "rank": 15,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 613803,
       "num": 952426,
       "word": "只有派克特一个人信了",
@@ -441,6 +481,14 @@
       "onboard_time": 1724981601,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 567159,
+      "num": 326055,
+      "word": "吴奇隆退赛",
+      "onboard_time": 1725003920,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 566408,
@@ -611,6 +659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 362597,
+      "num": 362597,
+      "word": "亚锦赛名单",
+      "onboard_time": 1725005240,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 361574,
       "num": 361574,
       "word": "王楚钦骑2公里说一点也不累",
@@ -699,12 +755,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 317365,
+      "num": 317365,
+      "word": "李佳琦上课成功 早安接收失败",
+      "onboard_time": 1725003560,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 316857,
       "num": 456963,
       "word": "密室大逃脱6收官上班路透",
       "onboard_time": 1724994681,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 310718,
+      "num": 310718,
+      "word": "痞老板承认想蹭流量",
+      "onboard_time": 1725003680,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 302483,
@@ -769,14 +841,6 @@
       "onboard_time": 1724946863,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 281678,
-      "num": 281678,
-      "word": "女子与老公吵架后狂吃火锅诱发带状疱疹",
-      "onboard_time": 1725000381,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 281067,
@@ -857,6 +921,14 @@
       "onboard_time": 1724987901,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 261251,
+      "num": 261251,
+      "word": "叠纸心意",
+      "onboard_time": 1725004521,
+      "rank": 23,
+      "category": "游戏,作品衍生"
     },
     {
       "raw_hot": 259039,
@@ -947,12 +1019,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246918,
+      "num": 212197,
+      "word": "黄镇廷晒合照",
+      "onboard_time": 1725003680,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245818,
       "num": 245818,
       "word": "邱贻可说23岁的孙颖莎不必完美",
       "onboard_time": 1724989462,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 245552,
+      "num": 245552,
+      "word": "新疆一大批沙漠螃蟹上市了",
+      "onboard_time": 1725002361,
+      "rank": 45,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 242594,
@@ -1123,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214622,
+      "num": 214622,
+      "word": "白色橄榄树",
+      "onboard_time": 1725005421,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213093,
       "num": 213093,
       "word": "张翰新剧加入老四阵营",
@@ -1163,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207643,
+      "num": 207643,
+      "word": "全红婵又水灵灵喜提乌龟",
+      "onboard_time": 1725005721,
+      "rank": 32,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 207408,
       "num": 207408,
       "word": "老人走了 家就散了",
@@ -1177,6 +1281,14 @@
       "onboard_time": 1724991622,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205368,
+      "num": 205368,
+      "word": "陈飞宇慕胥辞妆发路透",
+      "onboard_time": 1725003980,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 205335,
@@ -1219,6 +1331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201351,
+      "num": 201351,
+      "word": "我国育龄人口15%不孕不育",
+      "onboard_time": 1725004342,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197423,
       "num": 197423,
       "word": "易烊千玺看自己十岁演戏绷不住了",
@@ -1243,20 +1363,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194494,
+      "num": 194494,
+      "word": "BLG对战WBG",
+      "onboard_time": 1725004040,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 192449,
       "num": 368276,
       "word": "十天之后回到现实",
       "onboard_time": 1725001460,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192177,
-      "num": 192177,
-      "word": "新疆一大批沙漠螃蟹上市了",
-      "onboard_time": 1725002361,
-      "rank": 45,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 191058,
@@ -1323,6 +1443,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180426,
+      "num": 180426,
+      "word": "迪丽热巴坐粉色三轮车",
+      "onboard_time": 1725005002,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 179923,
+      "num": 179923,
+      "word": "取卵后腹水卵巢应激",
+      "onboard_time": 1725006142,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179292,
       "num": 179292,
       "word": "蒋奇明老婆是崔恩尔",
@@ -1339,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174861,
+      "num": 174861,
+      "word": "明日方舟",
+      "onboard_time": 1725005302,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 174790,
       "num": 174790,
       "word": "侯明昊卢昱晓 双V",
@@ -1347,12 +1491,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 173214,
-      "num": 210310,
-      "word": "痞老板发长文道歉",
-      "onboard_time": 1725003081,
-      "rank": 39,
-      "category": "艺人,游戏"
+      "raw_hot": 172724,
+      "num": 172724,
+      "word": "美国网红步道核辐射堪比切尔诺贝利",
+      "onboard_time": 1725003441,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 172355,
@@ -1475,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152264,
+      "num": 152264,
+      "word": "中韩化妆师手艺对比",
+      "onboard_time": 1725005661,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 146732,
       "num": 370354,
       "word": "为了让小朋友乘车静音家长都拼了",
@@ -1521,6 +1673,14 @@
       "onboard_time": 1724995823,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141622,
+      "num": 141622,
+      "word": "黄薇给慕胥辞做的造型",
+      "onboard_time": 1725006381,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 141549,
@@ -1631,6 +1791,14 @@
       "num": 669758,
       "word": "无偿献血者免费用血为何还需费用",
       "onboard_time": 1724994263,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91140,
+      "num": 338249,
+      "word": "蛟龙出手就知有没有",
+      "onboard_time": 1725000202,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -1795,6 +1963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62657,
+      "num": 666575,
+      "word": "一组图给要开学的人回回血",
+      "onboard_time": 1725005240,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61427,
       "num": 61427,
       "word": "代孕的黑色产业链必须消除",
@@ -1883,6 +2059,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 49293,
+      "num": 209422,
+      "word": "我最怀念的听歌时代",
+      "onboard_time": 1725005120,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 45918,
       "num": 912565,
       "word": "途岳新锐售价7.99万起",
@@ -1921,6 +2105,14 @@
       "onboard_time": 1724998281,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37021,
+      "num": 216179,
+      "word": "一条微博告别夏天",
+      "onboard_time": 1725001161,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 35605,
