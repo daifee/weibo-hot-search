@@ -1,0 +1,410 @@
+{
+  "runTime": 1724981767654,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3224887,
+        "num": 3224887,
+        "word": "痞老板发投降书",
+        "onboard_time": 1724974036,
+        "rank": 0,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 2058906,
+        "num": 2058906,
+        "word": "绘旅人开战痞老板",
+        "onboard_time": 1724938523,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 37836,
+        "num": 1597514,
+        "word": "一组数据透视中国能源转型",
+        "onboard_time": 1724936843,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1409210,
+        "num": 1409210,
+        "word": "鲁BQP800",
+        "onboard_time": 1724976501,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 866091,
+        "num": 866091,
+        "word": "黄子韬还得徐艺洋来治",
+        "onboard_time": 1724973016,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 729700,
+        "num": 729700,
+        "word": "代孕几乎每个环节都涉嫌违法",
+        "onboard_time": 1724949918,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 703076,
+        "num": 703076,
+        "word": "韩国女性怒斥我们没有国家",
+        "onboard_time": 1724979381,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 613803,
+        "num": 613803,
+        "word": "只有派克特一个人信了",
+        "onboard_time": 1724974158,
+        "rank": 7,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 572012,
+        "num": 572012,
+        "word": "俄罗斯前反恐部门负责人被肉噎死",
+        "onboard_time": 1724939184,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 59559,
+        "num": 510648,
+        "word": "无臂飞鱼郭金城创造新亚洲纪录",
+        "onboard_time": 1724980640,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2376102,
+        "num": 491983,
+        "word": "痞老板道歉",
+        "onboard_time": 1724976920,
+        "rank": 10,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 466263,
+        "num": 466263,
+        "word": "恋与制作人 跳梁小丑不足为惧",
+        "onboard_time": 1724973016,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 432683,
+        "num": 432683,
+        "word": "痞老板",
+        "onboard_time": 1724938763,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427275,
+        "num": 427275,
+        "word": "被黄晓明家的早餐惊呆了",
+        "onboard_time": 1724980220,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421883,
+        "num": 421883,
+        "word": "留给米哈游的时间不多了",
+        "onboard_time": 1724944166,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 413543,
+        "num": 413543,
+        "word": "公司回应女子参加酒局后身亡",
+        "onboard_time": 1724956574,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413144,
+        "num": 413144,
+        "word": "乃万",
+        "onboard_time": 1724980340,
+        "rank": 16,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 385622,
+        "num": 385622,
+        "word": "儿子跟妈妈摆摊10天收入10000元",
+        "onboard_time": 1724933903,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360827,
+        "num": 360827,
+        "word": "于正说是杨幂带他玩微博的",
+        "onboard_time": 1724976380,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358917,
+        "num": 358917,
+        "word": "孙颖莎和郑思维坐一桌",
+        "onboard_time": 1724980161,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 886450,
+        "num": 355683,
+        "word": "升学宴整成订婚宴了",
+        "onboard_time": 1724975599,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 513357,
+        "num": 354014,
+        "word": "考编成功后在汝州疾控中心假装上班",
+        "onboard_time": 1724933061,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351537,
+        "num": 351537,
+        "word": "GAI 痞老板唱得实在太烂了",
+        "onboard_time": 1724980220,
+        "rank": 22,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 340497,
+        "num": 340497,
+        "word": "包贝尔 素人博主",
+        "onboard_time": 1724943746,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293662,
+        "num": 293662,
+        "word": "蒋奇明崔恩尔 势均力敌的爱情",
+        "onboard_time": 1724943265,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271438,
+        "num": 271438,
+        "word": "嘉宾拿菜单找孙颖莎签名",
+        "onboard_time": 1724977461,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262748,
+        "num": 262748,
+        "word": "乙游大团结",
+        "onboard_time": 1724975899,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 254200,
+        "num": 254200,
+        "word": "谁给戴燕妮报的名",
+        "onboard_time": 1724977102,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230592,
+        "num": 230592,
+        "word": "腾讯网易联手了",
+        "onboard_time": 1724976740,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191058,
+        "num": 223735,
+        "word": "北京课间10分钟延长至15分钟",
+        "onboard_time": 1724979320,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 242594,
+        "num": 223559,
+        "word": "宣璐女子50米游泳冠军",
+        "onboard_time": 1724949140,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223278,
+        "num": 223278,
+        "word": "N号房2.0",
+        "onboard_time": 1724947882,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220245,
+        "num": 220245,
+        "word": "大一新生宿舍的第一次矛盾",
+        "onboard_time": 1724946863,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197423,
+        "num": 197423,
+        "word": "易烊千玺看自己十岁演戏绷不住了",
+        "onboard_time": 1724975779,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191210,
+        "num": 191210,
+        "word": "腾讯视频 幸会嘻哈",
+        "onboard_time": 1724943625,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184854,
+        "num": 184854,
+        "word": "哈圈",
+        "onboard_time": 1724977340,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176544,
+        "num": 176544,
+        "word": "i人和e人原来这么容易区别",
+        "onboard_time": 1724980758,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176120,
+        "num": 176120,
+        "word": "绘旅人 嫡女",
+        "onboard_time": 1724936243,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175931,
+        "num": 175931,
+        "word": "余宇涵 失声",
+        "onboard_time": 1724944886,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171351,
+        "num": 171351,
+        "word": "尹锡悦称受害者和犯罪者多是未成年人",
+        "onboard_time": 1724981182,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 169895,
+        "num": 169895,
+        "word": "侯明昊卢昱晓 双V",
+        "onboard_time": 1724980881,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168622,
+        "num": 168622,
+        "word": "我爸在网易上班",
+        "onboard_time": 1724938463,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164961,
+        "num": 164961,
+        "word": "马龙回应背后击球练好了吗",
+        "onboard_time": 1724981002,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162959,
+        "num": 162959,
+        "word": "残奥会",
+        "onboard_time": 1724980881,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161773,
+        "num": 161773,
+        "word": "边水往事 吴镇宇后三集演技",
+        "onboard_time": 1724981601,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156262,
+        "num": 156262,
+        "word": "路虎女司机逆行插队追尾还打人",
+        "onboard_time": 1724974098,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146732,
+        "num": 146732,
+        "word": "为了让小朋友乘车静音家长都拼了",
+        "onboard_time": 1724966711,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143839,
+        "num": 143839,
+        "word": "绘旅人站起来了",
+        "onboard_time": 1724935702,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140728,
+        "num": 140728,
+        "word": "要所有居高临下傲慢之徒看仔细",
+        "onboard_time": 1724941344,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138352,
+        "num": 138352,
+        "word": "蒋奇明老婆是崔恩尔",
+        "onboard_time": 1724981601,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见沙利文#"
+    }
+  }
+}
