@@ -1,6 +1,6 @@
 {
   "startTime": 1725035044218,
-  "endTime": 1725036060730,
+  "endTime": 1725038375669,
   "band_list": [
     {
       "raw_hot": 3132358,
@@ -41,6 +41,14 @@
       "onboard_time": 1725027441,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 413131,
+      "num": 413131,
+      "word": "西安火车站管委会致歉",
+      "onboard_time": 1725034639,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 399962,
@@ -163,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237326,
+      "num": 237326,
+      "word": "美网",
+      "onboard_time": 1725036079,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 233075,
       "num": 233075,
       "word": "边水往事 王玉雯姜珮瑶",
@@ -211,27 +227,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194975,
+      "num": 194975,
+      "word": "郑钦文vs尼迈尔",
+      "onboard_time": 1725035058,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192275,
       "num": 192275,
       "word": "孙颖莎港澳行期还在抽空跑步",
       "onboard_time": 1725026302,
       "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 191089,
-      "num": 318017,
-      "word": "西安火车站管委会致歉",
-      "onboard_time": 1725034639,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189494,
-      "num": 189494,
-      "word": "郑钦文vs尼迈尔",
-      "onboard_time": 1725035058,
-      "rank": 19,
       "category": "体育"
     },
     {
@@ -283,6 +291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 145585,
+      "num": 145585,
+      "word": "校方回应160人住一间宿舍",
+      "onboard_time": 1725034519,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140191,
       "num": 143859,
       "word": "第九代张起灵身材",
@@ -297,6 +313,14 @@
       "onboard_time": 1725031161,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133538,
+      "num": 133538,
+      "word": "郑钦文晋级美网16强",
+      "onboard_time": 1725036498,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 132903,
@@ -417,6 +441,30 @@
       "onboard_time": 1725032960,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 60234,
+      "num": 63690,
+      "word": "李诞在喜剧综艺里有多重要",
+      "onboard_time": 1725037815,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 17531,
+      "num": 133345,
+      "word": "deepfake被称为最邪恶的技术",
+      "onboard_time": 1725038237,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11712,
+      "num": 519255,
+      "word": "坐上动车畅游祖国大好河山",
+      "onboard_time": 1725021200,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11045,
