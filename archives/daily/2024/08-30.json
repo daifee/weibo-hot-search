@@ -1,6 +1,6 @@
 {
   "startTime": 1724948777601,
-  "endTime": 1725022523913,
+  "endTime": 1725024303342,
   "band_list": [
     {
       "raw_hot": 8843262,
@@ -57,6 +57,14 @@
       "onboard_time": 1724992763,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2033057,
+      "num": 2033057,
+      "word": "原来微信余额还可以被隐藏",
+      "onboard_time": 1725019040,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 1868052,
@@ -137,14 +145,6 @@
       "onboard_time": 1725003920,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1527603,
-      "num": 1527603,
-      "word": "原来微信余额还可以被隐藏",
-      "onboard_time": 1725019040,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 1488847,
@@ -467,8 +467,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 776907,
-      "num": 776907,
+      "raw_hot": 785380,
+      "num": 785380,
       "word": "被逆行女司机打伤男司机是退伍军人",
       "onboard_time": 1725018081,
       "rank": 7,
@@ -521,6 +521,14 @@
       "onboard_time": 1725019460,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 706807,
+      "num": 706807,
+      "word": "青岛逆行女司机至今未道歉赔偿",
+      "onboard_time": 1725022281,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 701064,
@@ -577,6 +585,14 @@
       "onboard_time": 1724980340,
       "rank": 16,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 634741,
+      "num": 634741,
+      "word": "杨幂 麻辣女教师",
+      "onboard_time": 1725020599,
+      "rank": 12,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 617158,
@@ -731,6 +747,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 501291,
+      "num": 501291,
+      "word": "戴荃 悟空",
+      "onboard_time": 1725022700,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 490586,
       "num": 619409,
       "word": "GAI 痞老板唱得实在太烂了",
@@ -803,6 +827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 437642,
+      "num": 437642,
+      "word": "樊振东潘展乐肤色差",
+      "onboard_time": 1725020120,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 436110,
       "num": 436110,
       "word": "孙颖莎芭莎银十预告",
@@ -840,22 +872,6 @@
       "word": "孙颖莎和郑思维坐一桌",
       "onboard_time": 1724980161,
       "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 419450,
-      "num": 419450,
-      "word": "杨幂 麻辣女教师",
-      "onboard_time": 1725020599,
-      "rank": 12,
-      "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 418457,
-      "num": 418457,
-      "word": "樊振东潘展乐肤色差",
-      "onboard_time": 1725020120,
-      "rank": 14,
       "category": "体育"
     },
     {
@@ -971,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357605,
+      "num": 357605,
+      "word": "任运杰声明",
+      "onboard_time": 1725021200,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 356490,
       "num": 356490,
       "word": "蒋奇明崔恩尔 势均力敌的爱情",
@@ -1067,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324614,
+      "num": 324614,
+      "word": "大陆近期将恢复福建居民赴金门旅游",
+      "onboard_time": 1725022100,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321093,
       "num": 431573,
       "word": "傅首尔夹着尾巴做妈妈",
@@ -1097,6 +1129,14 @@
       "onboard_time": 1724994681,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 314106,
+      "num": 314106,
+      "word": "王楚钦靠窗张嘴睡觉",
+      "onboard_time": 1725023121,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 310718,
@@ -1251,6 +1291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 267687,
+      "num": 323562,
+      "word": "印度女医护人员集体练武",
+      "onboard_time": 1725017540,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267175,
       "num": 267175,
       "word": "王楚钦一上台把台子给踩塌了",
@@ -1273,6 +1321,14 @@
       "onboard_time": 1724983581,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 265082,
+      "num": 265082,
+      "word": "边水往事 王玉雯姜珮瑶",
+      "onboard_time": 1725023300,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 264386,
@@ -1379,6 +1435,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 251246,
+      "num": 251246,
+      "word": "白举纲好牛",
+      "onboard_time": 1725023121,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249081,
       "num": 249081,
       "word": "米哈游创始人劝退游戏普通从业者",
@@ -1393,14 +1457,6 @@
       "onboard_time": 1724990242,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 247234,
-      "num": 246809,
-      "word": "任运杰声明",
-      "onboard_time": 1725021200,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 246918,
@@ -1619,6 +1675,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 219028,
+      "num": 219028,
+      "word": "青春碰头会",
+      "onboard_time": 1725023359,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218278,
       "num": 218278,
       "word": "东南亚留学博士求职最先被筛掉了",
@@ -1633,6 +1697,14 @@
       "onboard_time": 1725015679,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217151,
+      "num": 217151,
+      "word": "9月十二星座注意事项",
+      "onboard_time": 1725022219,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 216181,
@@ -1739,6 +1811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205290,
+      "num": 145656,
+      "word": "梁翘柏",
+      "onboard_time": 1725023600,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205214,
       "num": 261707,
       "word": "LESSERAFIM新歌",
@@ -1769,14 +1849,6 @@
       "onboard_time": 1724994744,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204089,
-      "num": 176830,
-      "word": "9月十二星座注意事项",
-      "onboard_time": 1725022219,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 203786,
@@ -2219,14 +2291,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 158682,
-      "num": 295919,
-      "word": "青岛逆行女司机至今未道歉赔偿",
-      "onboard_time": 1725022281,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156936,
       "num": 156936,
       "word": "魏哲鸣好帅",
@@ -2267,14 +2331,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 154529,
-      "num": 323562,
-      "word": "印度女医护人员集体练武",
-      "onboard_time": 1725017540,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154426,
       "num": 155016,
       "word": "女子花2万割双眼皮控诉成了悲伤蛙",
@@ -2289,6 +2345,14 @@
       "onboard_time": 1725005661,
       "rank": 46,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 149796,
+      "num": 149796,
+      "word": "黄镇廷疑深夜给王楚钦马龙送外卖",
+      "onboard_time": 1725024142,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 146732,
@@ -2323,14 +2387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144768,
-      "num": 144768,
-      "word": "大陆近期将恢复福建居民赴金门旅游",
-      "onboard_time": 1725022100,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144271,
       "num": 144271,
       "word": "我国育龄夫妇不孕不育者超5000万",
@@ -2353,6 +2409,14 @@
       "onboard_time": 1725017360,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 143356,
+      "num": 143356,
+      "word": "国乒三打三",
+      "onboard_time": 1725024142,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 143183,
@@ -2385,6 +2449,22 @@
       "onboard_time": 1724969052,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141471,
+      "num": 141471,
+      "word": "2024f1意大利大奖赛",
+      "onboard_time": 1725023481,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 141016,
+      "num": 141016,
+      "word": "谁家小猫坐姿这么端正",
+      "onboard_time": 1725023002,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 140984,
@@ -2691,6 +2771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65129,
+      "num": 506562,
+      "word": "已有超20所高校计划停撤超100个专业",
+      "onboard_time": 1725022941,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64775,
       "num": 77360,
       "word": "日遗化武仍毒害我国生态环境",
@@ -2731,6 +2819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60427,
+      "num": 419670,
+      "word": "国人抗老已经nextlevel了",
+      "onboard_time": 1725022342,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 59618,
       "num": 520337,
       "word": "上班后老板让你几点睡就得几点睡",
@@ -2769,6 +2865,14 @@
       "onboard_time": 1724991023,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 57158,
+      "num": 420700,
+      "word": "穿旭日旗T恤逛平遥古城老外道歉",
+      "onboard_time": 1725022700,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57015,
@@ -2843,20 +2947,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44013,
+      "num": 426644,
+      "word": "车主60万宝马车自燃索赔无果",
+      "onboard_time": 1725023060,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42061,
+      "num": 346006,
+      "word": "宝妈兼职背后竟是境外诈骗团伙",
+      "onboard_time": 1725022941,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39525,
       "num": 286958,
       "word": "喜人奇妙夜",
       "onboard_time": 1724992942,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 39276,
-      "num": 133461,
-      "word": "国人抗老已经nextlevel了",
-      "onboard_time": 1725022342,
-      "rank": 48,
-      "category": "美妆"
     },
     {
       "raw_hot": 37836,
@@ -3027,20 +3139,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 10946,
+      "num": 933927,
+      "word": "河南博物院文创团队平均25岁",
+      "onboard_time": 1724982979,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10504,
       "num": 349512,
       "word": "乌军一架F16战机坠毁",
       "onboard_time": 1725002120,
       "rank": 28,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 3327,
-      "num": 933927,
-      "word": "河南博物院文创团队平均25岁",
-      "onboard_time": 1724982979,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
