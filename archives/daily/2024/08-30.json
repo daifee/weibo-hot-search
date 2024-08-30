@@ -1,6 +1,6 @@
 {
   "startTime": 1724948777601,
-  "endTime": 1725007221717,
+  "endTime": 1725009785182,
   "band_list": [
     {
       "raw_hot": 8843262,
@@ -113,6 +113,22 @@
       "onboard_time": 1724980220,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1558564,
+      "num": 1558564,
+      "word": "吴奇隆说十天勾心斗角负能量",
+      "onboard_time": 1725007400,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1535281,
+      "num": 566327,
+      "word": "吴奇隆退赛",
+      "onboard_time": 1725003920,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 1488847,
@@ -251,14 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1007117,
-      "num": 566327,
-      "word": "吴奇隆退赛",
-      "onboard_time": 1725003920,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1004649,
       "num": 1004649,
       "word": "黄子韬还得徐艺洋来治",
@@ -393,6 +401,14 @@
       "onboard_time": 1724942305,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 698001,
+      "num": 334898,
+      "word": "110打119报警抓大蛇",
+      "onboard_time": 1725007461,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 695088,
@@ -555,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 505793,
+      "num": 505793,
+      "word": "阿里巴巴全面停止二选一垄断行为",
+      "onboard_time": 1725008060,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 505276,
       "num": 505276,
       "word": "柯文哲被带走调查",
@@ -643,12 +667,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407403,
+      "num": 386775,
+      "word": "Tarzan滑倒",
+      "onboard_time": 1725008001,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 396729,
       "num": 551904,
       "word": "阿如那西装暴徒",
       "onboard_time": 1724996301,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 386605,
+      "num": 386605,
+      "word": "新疆一大批沙漠螃蟹上市了",
+      "onboard_time": 1725002361,
+      "rank": 45,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 385622,
@@ -659,12 +699,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 384956,
+      "num": 384956,
+      "word": "全妹挽着马龙胳膊",
+      "onboard_time": 1725008480,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 380818,
       "num": 319316,
       "word": "米哈游创始人罕见发声",
       "onboard_time": 1724992102,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 371724,
+      "num": 332584,
+      "word": "大爷同居后觉得亏了偷女友财物找补",
+      "onboard_time": 1725007941,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 367398,
@@ -731,12 +787,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 346742,
+      "num": 346742,
+      "word": "陈牧驰把鞋扔给粉丝",
+      "onboard_time": 1725007581,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 346500,
       "num": 346500,
       "word": "脑梗男子贷款60万打赏女主播当榜一",
       "onboard_time": 1724940626,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337899,
+      "num": 337899,
+      "word": "樊振东举着潘展乐的手打招呼",
+      "onboard_time": 1725008240,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 336672,
@@ -785,6 +857,14 @@
       "onboard_time": 1725003680,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 305883,
+      "num": 305883,
+      "word": "王玉雯王子奇四搭来了吗",
+      "onboard_time": 1725009620,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 302483,
@@ -916,7 +996,7 @@
     },
     {
       "raw_hot": 264386,
-      "num": 237559,
+      "num": 238849,
       "word": "全红婵又水灵灵喜提乌龟",
       "onboard_time": 1725005721,
       "rank": 32,
@@ -945,14 +1025,6 @@
       "onboard_time": 1725004521,
       "rank": 23,
       "category": "游戏,作品衍生"
-    },
-    {
-      "raw_hot": 260798,
-      "num": 260798,
-      "word": "新疆一大批沙漠螃蟹上市了",
-      "onboard_time": 1725002361,
-      "rank": 45,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 259039,
@@ -1025,6 +1097,14 @@
       "onboard_time": 1724990121,
       "rank": 39,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 250978,
+      "num": 250978,
+      "word": "BLG对战WBG",
+      "onboard_time": 1725004040,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 249081,
@@ -1323,6 +1403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 204732,
+      "num": 204732,
+      "word": "Tarzan婕拉三杀",
+      "onboard_time": 1725008660,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204260,
       "num": 204260,
       "word": "王一博合照笑的好开心",
@@ -1355,6 +1443,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197684,
+      "num": 197684,
+      "word": "迪丽热巴坐粉色三轮车",
+      "onboard_time": 1725005002,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 197433,
+      "num": 197433,
+      "word": "2024乒乓球亚洲锦标赛",
+      "onboard_time": 1725009561,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197423,
       "num": 197423,
       "word": "易烊千玺看自己十岁演戏绷不住了",
@@ -1379,14 +1483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194494,
-      "num": 194494,
-      "word": "BLG对战WBG",
-      "onboard_time": 1725004040,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 192449,
       "num": 368276,
       "word": "十天之后回到现实",
@@ -1409,6 +1505,30 @@
       "onboard_time": 1724982440,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187923,
+      "num": 187923,
+      "word": "郎平说徐梦洁腿部肌肉很漂亮",
+      "onboard_time": 1725009561,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 187824,
+      "num": 187824,
+      "word": "黄薇给慕胥辞做的造型",
+      "onboard_time": 1725006381,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187652,
+      "num": 187652,
+      "word": "刘旸 这就是赢的感觉吗",
+      "onboard_time": 1725009021,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 187440,
@@ -1465,14 +1585,6 @@
       "onboard_time": 1724988383,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 180426,
-      "num": 180426,
-      "word": "迪丽热巴坐粉色三轮车",
-      "onboard_time": 1725005002,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 179923,
@@ -1555,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169632,
+      "num": 169632,
+      "word": "一个动作改善脖子前倾",
+      "onboard_time": 1725009080,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 168516,
       "num": 168516,
       "word": "国防部用黑神话悟空回应美菲南海挑衅",
@@ -1579,12 +1699,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 164144,
-      "num": 164144,
-      "word": "黄薇给慕胥辞做的造型",
-      "onboard_time": 1725006381,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 165509,
+      "num": 165509,
+      "word": "市场监管总局督导阿里巴巴完成整改",
+      "onboard_time": 1725007221,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 164086,
@@ -1649,6 +1769,14 @@
       "onboard_time": 1724915001,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152982,
+      "num": 152982,
+      "word": "姜贞羽云参与了艺术体操",
+      "onboard_time": 1725009741,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 152264,
@@ -2224,6 +2352,14 @@
       "word": "斩断非法代孕链条难在哪",
       "onboard_time": 1725002239,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22176,
+      "num": 386984,
+      "word": "泸沽湖景区拦截省道收费称防逃票",
+      "onboard_time": 1725008600,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
