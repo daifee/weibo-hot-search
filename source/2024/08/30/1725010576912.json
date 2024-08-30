@@ -1,0 +1,410 @@
+{
+  "runTime": 1725010576912,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1578063,
+        "num": 1578063,
+        "word": "吴奇隆说十天勾心斗角负能量",
+        "onboard_time": 1725007400,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 710912,
+        "num": 710912,
+        "word": "阿里巴巴全面停止二选一垄断行为",
+        "onboard_time": 1725008060,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 67674,
+        "num": 698199,
+        "word": "一组图给要开学的人回回血",
+        "onboard_time": 1725005240,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 689680,
+        "num": 689680,
+        "word": "全妹挽着马龙胳膊",
+        "onboard_time": 1725008480,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 522316,
+        "num": 522316,
+        "word": "韩国女性感谢中国网友为她们发声",
+        "onboard_time": 1724987180,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1408018,
+        "num": 487379,
+        "word": "吴奇隆退赛",
+        "onboard_time": 1725003920,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1123623,
+        "num": 481516,
+        "word": "痞老板点名江奈生小丑subs",
+        "onboard_time": 1725005482,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 889465,
+        "num": 457571,
+        "word": "沈月李雪琴退赛",
+        "onboard_time": 1724999901,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427113,
+        "num": 427113,
+        "word": "亚锦赛名单",
+        "onboard_time": 1725005240,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154446,
+        "num": 427037,
+        "word": "女子与老公吵架后狂吃火锅诱发带状疱疹",
+        "onboard_time": 1725000381,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 845655,
+        "num": 426556,
+        "word": "英语专八范文 代孕",
+        "onboard_time": 1725003560,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 671028,
+        "num": 426275,
+        "word": "樊振东举着潘展乐的手打招呼",
+        "onboard_time": 1725008240,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 563979,
+        "num": 425692,
+        "word": "痞老板发长文道歉",
+        "onboard_time": 1725003081,
+        "rank": 12,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 42343,
+        "num": 425273,
+        "word": "医院官网已无代孕操刀医生信息",
+        "onboard_time": 1725010340,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558841,
+        "num": 424949,
+        "word": "有家长怒砸小天才手表了",
+        "onboard_time": 1724992763,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460627,
+        "num": 424481,
+        "word": "陈牧驰把鞋扔给粉丝",
+        "onboard_time": 1725007581,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424205,
+        "num": 424205,
+        "word": "Tarzan滑倒",
+        "onboard_time": 1725008001,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 395543,
+        "num": 395543,
+        "word": "如厕回来车丢了在1公里外撞稀烂",
+        "onboard_time": 1724999779,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366671,
+        "num": 366671,
+        "word": "潘展乐把樊振东逗笑了",
+        "onboard_time": 1725000381,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 369604,
+        "num": 349585,
+        "word": "王玉雯王子奇四搭来了吗",
+        "onboard_time": 1725009620,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1151768,
+        "num": 342905,
+        "word": "110打119报警抓大蛇",
+        "onboard_time": 1725007461,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412047,
+        "num": 335261,
+        "word": "你知道子宫有多大吗",
+        "onboard_time": 1724996720,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 326959,
+        "num": 326959,
+        "word": "新疆一大批沙漠螃蟹上市了",
+        "onboard_time": 1725002361,
+        "rank": 22,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 325042,
+        "num": 325042,
+        "word": "大爷同居后觉得亏了偷女友财物找补",
+        "onboard_time": 1725007941,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316270,
+        "num": 316270,
+        "word": "李阳称黑神话悟空爆火是民族悲哀",
+        "onboard_time": 1725010401,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311006,
+        "num": 311006,
+        "word": "姜贞羽云参与了艺术体操",
+        "onboard_time": 1725009741,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295446,
+        "num": 295446,
+        "word": "郎平说徐梦洁腿部肌肉很漂亮",
+        "onboard_time": 1725009561,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282475,
+        "num": 282475,
+        "word": "恋与深空谷子",
+        "onboard_time": 1724994923,
+        "rank": 27,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 34493,
+        "num": 276758,
+        "word": "泸沽湖景区拦截省道收费称防逃票",
+        "onboard_time": 1725008600,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274051,
+        "num": 274051,
+        "word": "痞老板发投降书",
+        "onboard_time": 1724974036,
+        "rank": 29,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 257494,
+        "num": 257494,
+        "word": "全红婵又水灵灵喜提乌龟",
+        "onboard_time": 1725005721,
+        "rank": 30,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 236275,
+        "num": 236275,
+        "word": "白色橄榄树",
+        "onboard_time": 1725005421,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235316,
+        "num": 235316,
+        "word": "高校军训硬核得像军事大片",
+        "onboard_time": 1725006681,
+        "rank": 32,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 210186,
+        "num": 210186,
+        "word": "王楚钦一上台把台子给踩塌了",
+        "onboard_time": 1725008839,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206922,
+        "num": 206922,
+        "word": "迪丽热巴盘发抹胸黑裙",
+        "onboard_time": 1725010160,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202789,
+        "num": 202789,
+        "word": "BLG对战WBG",
+        "onboard_time": 1725004040,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200962,
+        "num": 200962,
+        "word": "痞老板diss杀不死",
+        "onboard_time": 1725003380,
+        "rank": 36,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 197616,
+        "num": 197616,
+        "word": "阿里巴巴回应完成整改",
+        "onboard_time": 1725009440,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 193023,
+        "num": 197355,
+        "word": "都去看边水往事 让它大爆特爆",
+        "onboard_time": 1725010221,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197271,
+        "num": 197271,
+        "word": "清华1块钱一碗的白菜粉丝汤",
+        "onboard_time": 1724987542,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 186682,
+        "num": 196349,
+        "word": "2024乒乓球亚洲锦标赛",
+        "onboard_time": 1725009561,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195572,
+        "num": 195572,
+        "word": "一个动作改善脖子前倾",
+        "onboard_time": 1725009080,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 190368,
+        "num": 190368,
+        "word": "黄薇给慕胥辞做的造型",
+        "onboard_time": 1725006381,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192355,
+        "num": 187594,
+        "word": "原来跳绳真的这么好瘦",
+        "onboard_time": 1725009981,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 184533,
+        "num": 184533,
+        "word": "迪丽热巴坐粉色三轮车",
+        "onboard_time": 1725005002,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178658,
+        "num": 178658,
+        "word": "孙颖莎王楚钦一组玩游戏",
+        "onboard_time": 1724989462,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174215,
+        "num": 174215,
+        "word": "樊振东潘展乐盛李豪同框",
+        "onboard_time": 1725010460,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172419,
+        "num": 172419,
+        "word": "李佳琦上课成功 早安接收失败",
+        "onboard_time": 1725003560,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152806,
+        "num": 152806,
+        "word": "谭瑞松被查",
+        "onboard_time": 1725010520,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152726,
+        "num": 152726,
+        "word": "我国育龄人口15%不孕不育",
+        "onboard_time": 1725004342,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#9图了解2024中非合作论坛峰会#"
+    }
+  }
+}
