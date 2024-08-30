@@ -1,6 +1,6 @@
 {
   "startTime": 1725035044218,
-  "endTime": 1725057467078,
+  "endTime": 1725060127539,
   "band_list": [
     {
       "raw_hot": 3132358,
@@ -33,6 +33,14 @@
       "onboard_time": 1725028642,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 481462,
+      "num": 481462,
+      "word": "董事长之子聚餐泄密5人被罚2300万",
+      "onboard_time": 1725024741,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 425217,
@@ -139,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 281648,
+      "num": 281648,
+      "word": "台检方清晨突击搜索柯文哲住处",
+      "onboard_time": 1725032363,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 276030,
       "num": 276030,
       "word": "EXO月饼",
@@ -155,12 +171,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 261496,
-      "num": 261496,
-      "word": "董事长之子聚餐泄密5人被罚2300万",
-      "onboard_time": 1725024741,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 271005,
+      "num": 271005,
+      "word": "西游记中最善良的妖精",
+      "onboard_time": 1725053592,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 255318,
@@ -195,20 +211,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 232452,
-      "num": 232452,
-      "word": "台检方清晨突击搜索柯文哲住处",
-      "onboard_time": 1725032363,
-      "rank": 23,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 227167,
       "num": 227167,
       "word": "穆祉丞出道战后首条微博",
       "onboard_time": 1725027802,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219600,
+      "num": 186087,
+      "word": "王雅繁晋级美网16强",
+      "onboard_time": 1725047592,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 205427,
@@ -251,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186078,
+      "num": 186078,
+      "word": "丝芙兰15年老员工被裁员",
+      "onboard_time": 1725030320,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171408,
       "num": 171408,
       "word": "韩安冉起诉亲妈",
@@ -291,14 +315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153818,
-      "num": 99234,
-      "word": "王雅繁晋级美网16强",
-      "onboard_time": 1725047592,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 146877,
       "num": 146877,
       "word": "迪丽热巴吃着面包下班",
@@ -315,20 +331,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140112,
+      "num": 140112,
+      "word": "郑钦文晋级美网16强",
+      "onboard_time": 1725036498,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 136083,
+      "num": 136083,
+      "word": "唐山地震",
+      "onboard_time": 1725059235,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134262,
       "num": 143569,
       "word": "宋雨琦 下次让张真源跳新女团舞",
       "onboard_time": 1725031161,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 133538,
-      "num": 133538,
-      "word": "郑钦文晋级美网16强",
-      "onboard_time": 1725036498,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 132903,
@@ -379,14 +403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 108331,
-      "num": 143672,
-      "word": "丝芙兰15年老员工被裁员",
-      "onboard_time": 1725030320,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106115,
       "num": 143697,
       "word": "杨千嬅来了",
@@ -409,6 +425,14 @@
       "onboard_time": 1725016340,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102035,
+      "num": 102035,
+      "word": "李诞在喜剧综艺里有多重要",
+      "onboard_time": 1725037815,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 99282,
@@ -435,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96935,
+      "num": 96935,
+      "word": "黄子韬恋爱前对粉丝说的话",
+      "onboard_time": 1725059416,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95288,
       "num": 143426,
       "word": "戴荃 悟空",
@@ -459,20 +491,44 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 92384,
-      "num": 99274,
-      "word": "西游记中最善良的妖精",
-      "onboard_time": 1725053592,
-      "rank": 48,
+      "raw_hot": 75553,
+      "num": 75553,
+      "word": "黄景瑜不愧是内娱服兵役标杆",
+      "onboard_time": 1725056354,
+      "rank": 49,
       "category": "剧集"
     },
     {
-      "raw_hot": 74731,
-      "num": 74731,
-      "word": "李诞在喜剧综艺里有多重要",
-      "onboard_time": 1725037815,
-      "rank": 45,
+      "raw_hot": 68167,
+      "num": 68167,
+      "word": "下一战歌手 尬聊",
+      "onboard_time": 1725050951,
+      "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 57933,
+      "num": 57933,
+      "word": "李耕耘回复王子奇我错了",
+      "onboard_time": 1725042913,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 52352,
+      "num": 57933,
+      "word": "爱奇艺和腾讯为什么要争脱口秀",
+      "onboard_time": 1725038536,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 51513,
+      "num": 57932,
+      "word": "宝马店门前来了一匹真宝马",
+      "onboard_time": 1725060075,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 50448,
@@ -491,12 +547,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 47498,
-      "num": 47498,
-      "word": "下一战歌手 尬聊",
-      "onboard_time": 1725050951,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 45743,
+      "num": 57930,
+      "word": "韩女性深陷恐慌22万人被色情片AI换脸",
+      "onboard_time": 1725051432,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45614,
@@ -505,6 +561,30 @@
       "onboard_time": 1725041593,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 41218,
+      "num": 57929,
+      "word": "郭艾伦曾把顶薪留给辽篮引援目标",
+      "onboard_time": 1725058874,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 40380,
+      "num": 99244,
+      "word": "开颅手术前医护帮她设计发型",
+      "onboard_time": 1725055992,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40256,
+      "num": 57928,
+      "word": "商竣程vs鲁德",
+      "onboard_time": 1725060017,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 39873,
@@ -523,22 +603,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 34246,
-      "num": 34246,
-      "word": "黄景瑜不愧是内娱服兵役标杆",
-      "onboard_time": 1725056354,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 32772,
-      "num": 33004,
-      "word": "韩女性深陷恐慌22万人被色情片AI换脸",
-      "onboard_time": 1725051432,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 31907,
       "num": 104216,
       "word": "今后三天全国一半地方有雨",
@@ -547,20 +611,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30656,
-      "num": 32991,
-      "word": "爱奇艺和腾讯为什么要争脱口秀",
-      "onboard_time": 1725038536,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 28748,
-      "num": 37802,
-      "word": "李耕耘回复王子奇我错了",
-      "onboard_time": 1725042913,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 21105,
+      "num": 186093,
+      "word": "教授爷爷地铁畅谈点亮萌娃人生理想",
+      "onboard_time": 1725058335,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19332,
@@ -576,14 +632,6 @@
       "word": "开学音乐会草坪长满了熟人",
       "onboard_time": 1725047532,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16813,
-      "num": 99244,
-      "word": "开颅手术前医护帮她设计发型",
-      "onboard_time": 1725055992,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
