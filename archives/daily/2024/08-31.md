@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/08/31 00:24:04 ~ 2024/08/31 04:36:35
+本榜单时间：2024/08/31 00:24:04 ~ 2024/08/31 05:21:16
 </p>
 </blockquote>
 <p>
@@ -405,8 +405,20 @@ Kanye试听会官宣（热度：48185）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8B%E4%B8%80%E6%88%98%E6%AD%8C%E6%89%8B%20%E5%B0%AC%E8%81%8A%23" target="weibo">
+下一战歌手 尬聊（热度：27573）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%A5%B3%E6%80%A7%E6%B7%B1%E9%99%B7%E6%81%90%E6%85%8C22%E4%B8%87%E4%BA%BA%E8%A2%AB%E8%89%B2%E6%83%85%E7%89%87AI%E6%8D%A2%E8%84%B8%23" target="weibo">
+韩女性深陷恐慌22万人被色情片AI换脸（热度：23211）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8B%E4%B8%80%E6%88%98%E6%AD%8C%E6%89%8B%23" target="weibo">
-下一战歌手（热度：19131）
+下一战歌手（热度：19332）
 </a>
 </li>
 

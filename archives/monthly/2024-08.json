@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1725050195351,
+  "endTime": 1725052876346,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -90659,6 +90659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 27573,
+      "num": 27573,
+      "word": "下一战歌手 尬聊",
+      "onboard_time": 1725050951,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27518,
       "num": 74096,
       "word": "临近开学如何做好心理准备",
@@ -91201,6 +91209,14 @@
       "onboard_time": 1723548321,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 23211,
+      "num": 23211,
+      "word": "韩女性深陷恐慌22万人被色情片AI换脸",
+      "onboard_time": 1725051432,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23201,
