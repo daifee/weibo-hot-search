@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/08/01 00:24:58 ~ 2024/08/30 19:35:15
+本榜单时间：2024/08/01 00:24:58 ~ 2024/08/30 20:39:24
 </p>
 </blockquote>
 <p>
@@ -6527,6 +6527,12 @@ F勒布伦谈球拍事件（热度：1954007）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%239%E5%9B%BE%E4%BA%86%E8%A7%A32024%E4%B8%AD%E9%9D%9E%E5%90%88%E4%BD%9C%E8%AE%BA%E5%9D%9B%E5%B3%B0%E4%BC%9A%23%23" target="weibo">
 #9图了解2024中非合作论坛峰会#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%A4%8D%E4%BF%A1%E9%9D%9E%E6%B4%B2%E5%AD%A6%E8%80%85%23%23" target="weibo">
+#习近平复信非洲学者#
 </a>
 </li>
 

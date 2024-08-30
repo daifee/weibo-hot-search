@@ -1,6 +1,6 @@
 {
   "startTime": 1724948777601,
-  "endTime": 1725017715328,
+  "endTime": 1725021564337,
   "band_list": [
     {
       "raw_hot": 8843262,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1269668,
+      "num": 1269668,
+      "word": "华晨宇打响内娱反黄牛第一枪",
+      "onboard_time": 1725014600,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1261862,
       "num": 1261862,
       "word": "孙颖莎王楚钦一组玩游戏",
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 979712,
-      "num": 471237,
+      "num": 895502,
       "word": "被逆行路虎女司机打伤男司机发声",
       "onboard_time": 1725015201,
       "rank": 13,
@@ -363,12 +371,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 933618,
-      "num": 933618,
-      "word": "华晨宇打响内娱反黄牛第一枪",
-      "onboard_time": 1725014600,
-      "rank": 11,
-      "category": "演出"
+      "raw_hot": 923824,
+      "num": 923824,
+      "word": "全红婵偷拍樊振东睡觉",
+      "onboard_time": 1725019820,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 915200,
@@ -385,6 +393,14 @@
       "onboard_time": 1725009561,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 880536,
+      "num": 880536,
+      "word": "原来微信余额还可以被隐藏",
+      "onboard_time": 1725019040,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 875988,
@@ -483,6 +499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 714135,
+      "num": 714135,
+      "word": "下一战歌手直播",
+      "onboard_time": 1725019460,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 701064,
       "num": 960756,
       "word": "幸会嘻哈延期",
@@ -537,6 +561,14 @@
       "onboard_time": 1724980340,
       "rank": 16,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 646285,
+      "num": 646285,
+      "word": "被逆行女司机打伤男司机是退伍军人",
+      "onboard_time": 1725018081,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 617158,
@@ -649,6 +681,14 @@
       "onboard_time": 1724994443,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 527714,
+      "num": 527714,
+      "word": "迪丽热巴吃着面包下班",
+      "onboard_time": 1725019880,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 527402,
@@ -899,12 +939,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357851,
+      "num": 357851,
+      "word": "微博香港直播",
+      "onboard_time": 1725020360,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 356490,
       "num": 356490,
       "word": "蒋奇明崔恩尔 势均力敌的爱情",
       "onboard_time": 1724943265,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 355407,
+      "num": 355407,
+      "word": "虞书欣 一生要出片的中国女人",
+      "onboard_time": 1725017840,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 354318,
@@ -971,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336336,
+      "num": 336336,
+      "word": "杨幂 麻辣女教师",
+      "onboard_time": 1725020599,
+      "rank": 12,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 328379,
       "num": 366013,
       "word": "性别暴力下女性面临的隐秘围猎",
@@ -987,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323399,
+      "num": 323399,
+      "word": "樊振东潘展乐肤色差",
+      "onboard_time": 1725020120,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 321093,
       "num": 431573,
       "word": "傅首尔夹着尾巴做妈妈",
@@ -1001,6 +1073,14 @@
       "onboard_time": 1724995283,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 317972,
+      "num": 317972,
+      "word": "盛李豪潘展乐回复樊振东收到",
+      "onboard_time": 1725013821,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 316857,
@@ -1035,14 +1115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 299946,
-      "num": 299946,
-      "word": "盛李豪潘展乐回复樊振东收到",
-      "onboard_time": 1725013821,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 299476,
       "num": 299476,
       "word": "TFBOYS祝福三代师弟成团快乐",
@@ -1075,11 +1147,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 291143,
+      "num": 352143,
+      "word": "乙女圈怎么突然被哈圈盯上了",
+      "onboard_time": 1725015080,
+      "rank": 43,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 290665,
       "num": 290665,
       "word": "全红婵偷吃葡萄",
       "onboard_time": 1724993062,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 287552,
+      "num": 287552,
+      "word": "谢瑜vlog",
+      "onboard_time": 1725017600,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -1283,6 +1371,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 250363,
+      "num": 250363,
+      "word": "那英唱了相见不如怀念",
+      "onboard_time": 1725020780,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249081,
       "num": 249081,
       "word": "米哈游创始人劝退游戏普通从业者",
@@ -1371,6 +1467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 234921,
+      "num": 234921,
+      "word": "奥运健儿访港大汇演",
+      "onboard_time": 1725020301,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 233042,
       "num": 233042,
       "word": "花少6陪看 怎么能困成这样",
@@ -1449,6 +1553,14 @@
       "onboard_time": 1724986820,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221781,
+      "num": 221781,
+      "word": "刀郎线上演唱会",
+      "onboard_time": 1725020301,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 220558,
@@ -1651,6 +1763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201379,
+      "num": 201379,
+      "word": "魏哲鸣播音腔",
+      "onboard_time": 1725020301,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201351,
       "num": 201351,
       "word": "我国育龄人口15%不孕不育",
@@ -1755,6 +1875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192624,
+      "num": 192624,
+      "word": "寄件人华晨宇",
+      "onboard_time": 1725020780,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 192570,
       "num": 192570,
       "word": "十天之后 张大大团队",
@@ -1809,14 +1937,6 @@
       "onboard_time": 1725009021,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187603,
-      "num": 352143,
-      "word": "乙女圈怎么突然被哈圈盯上了",
-      "onboard_time": 1725015080,
-      "rank": 43,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 187493,
@@ -1899,6 +2019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 179095,
+      "num": 179095,
+      "word": "肖战翻领牛仔",
+      "onboard_time": 1725021200,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 178945,
       "num": 211773,
       "word": "盖尔加朵曾被换脸色情片女主",
@@ -1912,6 +2040,14 @@
       "word": "欧阳娜娜被曝恋情后首现身",
       "onboard_time": 1725006559,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 178267,
+      "num": 178267,
+      "word": "任运杰声明",
+      "onboard_time": 1725021200,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -1929,6 +2065,14 @@
       "onboard_time": 1724980881,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 173036,
+      "num": 173036,
+      "word": "世界之外一番赏",
+      "onboard_time": 1725020540,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 172355,
@@ -1985,6 +2129,14 @@
       "onboard_time": 1724858665,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165782,
+      "num": 165782,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1725021080,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 164086,
@@ -2081,14 +2233,6 @@
       "onboard_time": 1725005661,
       "rank": 46,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 149393,
-      "num": 149393,
-      "word": "谢瑜vlog",
-      "onboard_time": 1725017600,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 146732,
@@ -2203,6 +2347,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132128,
+      "num": 173890,
+      "word": "东南亚留学博士求职最先被筛掉了",
+      "onboard_time": 1725019400,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131821,
+      "num": 131821,
+      "word": "金晨腰臀比",
+      "onboard_time": 1725021441,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 130069,
       "num": 155037,
       "word": "天蝎座的报复都是事出有因",
@@ -2211,12 +2371,44 @@
       "category": "情感"
     },
     {
+      "raw_hot": 129601,
+      "num": 129601,
+      "word": "电脑自己偷偷建群还拉黑了老板",
+      "onboard_time": 1725020780,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 129137,
+      "num": 129137,
+      "word": "长乐曲",
+      "onboard_time": 1725020720,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 128524,
+      "num": 128524,
+      "word": "下一战歌手",
+      "onboard_time": 1725018500,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125832,
       "num": 321642,
       "word": "回Q的诱惑",
       "onboard_time": 1724995521,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125697,
+      "num": 125697,
+      "word": "古偶护妻男团来了",
+      "onboard_time": 1725021140,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 120504,
@@ -2241,6 +2433,14 @@
       "onboard_time": 1724973258,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 104659,
+      "num": 323562,
+      "word": "印度女医护人员集体练武",
+      "onboard_time": 1725017540,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103130,
@@ -2353,14 +2553,6 @@
       "onboard_time": 1724969293,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 78650,
-      "num": 279305,
-      "word": "印度女医护人员集体练武",
-      "onboard_time": 1725017540,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78539,
@@ -2723,11 +2915,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27149,
+      "num": 125775,
+      "word": "于适我先带走了",
+      "onboard_time": 1725018320,
+      "rank": 46,
+      "category": "作品衍生,作品衍生"
+    },
+    {
       "raw_hot": 26668,
       "num": 564472,
       "word": "斩断非法代孕链条难在哪",
       "onboard_time": 1725002239,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26538,
+      "num": 173354,
+      "word": "中国桥梁技术稳步领跑",
+      "onboard_time": 1725005061,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -2743,6 +2951,14 @@
       "num": 1601879,
       "word": "网络文明在我身边",
       "onboard_time": 1724917341,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11091,
+      "num": 899805,
+      "word": "坐上动车畅游祖国大好河山",
+      "onboard_time": 1725021200,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -2767,6 +2983,9 @@
     },
     {
       "word": "#9图了解2024中非合作论坛峰会#"
+    },
+    {
+      "word": "#习近平复信非洲学者#"
     }
   ]
 }
