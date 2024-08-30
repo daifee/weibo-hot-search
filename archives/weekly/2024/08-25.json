@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724981767654,
+  "endTime": 1724982737731,
   "band_list": [
     {
       "raw_hot": 20756997,
@@ -1051,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1567066,
+      "num": 1567066,
+      "word": "被黄晓明家的早餐惊呆了",
+      "onboard_time": 1724980220,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1561975,
       "num": 1561975,
       "word": "孙杨晋级决赛",
@@ -2059,6 +2067,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 937268,
+      "num": 355683,
+      "word": "升学宴整成订婚宴了",
+      "onboard_time": 1724975599,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 928666,
       "num": 928666,
       "word": "藏海花尺度",
@@ -2219,14 +2235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 886450,
-      "num": 355683,
-      "word": "升学宴整成订婚宴了",
-      "onboard_time": 1724975599,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 885583,
       "num": 907260,
       "word": "黄晓明 追星成功",
@@ -2289,6 +2297,14 @@
       "onboard_time": 1724583501,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 871161,
+      "num": 729700,
+      "word": "代孕几乎每个环节都涉嫌违法",
+      "onboard_time": 1724949918,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 868718,
@@ -2595,6 +2611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 759230,
+      "num": 759230,
+      "word": "韩国女性怒斥我们没有国家",
+      "onboard_time": 1724979381,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 758297,
       "num": 1750364,
       "word": "罗拉带王能能回老家",
@@ -2712,14 +2736,6 @@
       "word": "男孩暑假作业被一碗泡面烫没了",
       "onboard_time": 1724718019,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 729700,
-      "num": 729700,
-      "word": "代孕几乎每个环节都涉嫌违法",
-      "onboard_time": 1724949918,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2841,14 +2857,6 @@
       "onboard_time": 1724820744,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 703076,
-      "num": 703076,
-      "word": "韩国女性怒斥我们没有国家",
-      "onboard_time": 1724979381,
-      "rank": 6,
-      "category": "国外时政"
     },
     {
       "raw_hot": 697319,
@@ -4171,6 +4179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 452882,
+      "num": 351537,
+      "word": "GAI 痞老板唱得实在太烂了",
+      "onboard_time": 1724980220,
+      "rank": 22,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 452042,
       "num": 626947,
       "word": "2024年居民医保最新缴费标准",
@@ -4419,14 +4435,6 @@
       "category": "游戏,作品衍生"
     },
     {
-      "raw_hot": 427275,
-      "num": 427275,
-      "word": "被黄晓明家的早餐惊呆了",
-      "onboard_time": 1724980220,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 427251,
       "num": 740934,
       "word": "郑钦文转身立马进入状态",
@@ -4473,6 +4481,14 @@
       "onboard_time": 1724666481,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 420776,
+      "num": 358917,
+      "word": "孙颖莎和郑思维坐一桌",
+      "onboard_time": 1724980161,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 419170,
@@ -5067,14 +5083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 358917,
-      "num": 358917,
-      "word": "孙颖莎和郑思维坐一桌",
-      "onboard_time": 1724980161,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 357050,
       "num": 357050,
       "word": "CPA会计",
@@ -5121,14 +5129,6 @@
       "onboard_time": 1724594362,
       "rank": 37,
       "category": "网红"
-    },
-    {
-      "raw_hot": 351537,
-      "num": 351537,
-      "word": "GAI 痞老板唱得实在太烂了",
-      "onboard_time": 1724980220,
-      "rank": 22,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 350388,
@@ -5841,6 +5841,14 @@
       "onboard_time": 1724633119,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303635,
+      "num": 303635,
+      "word": "边水往事 吴镇宇后三集演技",
+      "onboard_time": 1724981601,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 302925,
@@ -6953,6 +6961,14 @@
       "onboard_time": 1724752640,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257138,
+      "num": 257138,
+      "word": "马龙回应背后击球练好了吗",
+      "onboard_time": 1724981002,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 257115,
@@ -9379,6 +9395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203517,
+      "num": 203517,
+      "word": "i人和e人原来这么容易区别",
+      "onboard_time": 1724980758,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 203445,
       "num": 203445,
       "word": "马龙许昕快乐乒乓",
@@ -9851,6 +9875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197211,
+      "num": 197211,
+      "word": "上班一定要穿的成熟",
+      "onboard_time": 1724982260,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 197186,
       "num": 714279,
       "word": "操场塌方校方回应记者跟您有什么关系",
@@ -10188,7 +10220,7 @@
     },
     {
       "raw_hot": 191058,
-      "num": 223735,
+      "num": 226557,
       "word": "北京课间10分钟延长至15分钟",
       "onboard_time": 1724979320,
       "rank": 29,
@@ -10369,6 +10401,14 @@
       "onboard_time": 1724929581,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188363,
+      "num": 188363,
+      "word": "陈梦苏炜德等25人拟记大功",
+      "onboard_time": 1724982440,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 188326,
@@ -10867,6 +10907,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 181828,
+      "num": 181828,
+      "word": "小伙5年未清理耳屎患瘤",
+      "onboard_time": 1724982381,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181659,
       "num": 194902,
       "word": "王源回忆十年前写的歌",
@@ -11019,6 +11067,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 179292,
+      "num": 179292,
+      "word": "蒋奇明老婆是崔恩尔",
+      "onboard_time": 1724981601,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 179181,
       "num": 179181,
       "word": "FIESTAR合体发歌",
@@ -11147,14 +11203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176544,
-      "num": 176544,
-      "word": "i人和e人原来这么容易区别",
-      "onboard_time": 1724980758,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 176516,
       "num": 246910,
       "word": "冒充孙子诈骗团伙被端",
@@ -11273,6 +11321,14 @@
       "onboard_time": 1724574920,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174790,
+      "num": 174790,
+      "word": "侯明昊卢昱晓 双V",
+      "onboard_time": 1724980881,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 174746,
@@ -11547,14 +11603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169895,
-      "num": 169895,
-      "word": "侯明昊卢昱晓 双V",
-      "onboard_time": 1724980881,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 169742,
       "num": 169742,
       "word": "凉哈皮不鸽解说",
@@ -11729,14 +11777,6 @@
       "onboard_time": 1724675602,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 164961,
-      "num": 164961,
-      "word": "马龙回应背后击球练好了吗",
-      "onboard_time": 1724981002,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 164940,
@@ -11945,14 +11985,6 @@
       "onboard_time": 1724822422,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 161773,
-      "num": 161773,
-      "word": "边水往事 吴镇宇后三集演技",
-      "onboard_time": 1724981601,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 161713,
@@ -12777,14 +12809,6 @@
       "onboard_time": 1724553140,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138352,
-      "num": 138352,
-      "word": "蒋奇明老婆是崔恩尔",
-      "onboard_time": 1724981601,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 137813,

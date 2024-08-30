@@ -1,6 +1,6 @@
 {
   "startTime": 1724948777601,
-  "endTime": 1724981767654,
+  "endTime": 1724982737731,
   "band_list": [
     {
       "raw_hot": 8843262,
@@ -33,6 +33,14 @@
       "onboard_time": 1724941344,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1567066,
+      "num": 1567066,
+      "word": "被黄晓明家的早餐惊呆了",
+      "onboard_time": 1724980220,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1488847,
@@ -115,12 +123,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 886450,
+      "raw_hot": 937268,
       "num": 355683,
       "word": "升学宴整成订婚宴了",
       "onboard_time": 1724975599,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 871161,
+      "num": 729700,
+      "word": "代孕几乎每个环节都涉嫌违法",
+      "onboard_time": 1724949918,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 771958,
@@ -139,28 +155,20 @@
       "category": "音乐,游戏"
     },
     {
+      "raw_hot": 759230,
+      "num": 759230,
+      "word": "韩国女性怒斥我们没有国家",
+      "onboard_time": 1724979381,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 738507,
       "num": 738507,
       "word": "恋与制作人 跳梁小丑不足为惧",
       "onboard_time": 1724973016,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 729700,
-      "num": 729700,
-      "word": "代孕几乎每个环节都涉嫌违法",
-      "onboard_time": 1724949918,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 703076,
-      "num": 703076,
-      "word": "韩国女性怒斥我们没有国家",
-      "onboard_time": 1724979381,
-      "rank": 6,
-      "category": "国外时政"
     },
     {
       "raw_hot": 701064,
@@ -185,6 +193,14 @@
       "onboard_time": 1724943625,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 651248,
+      "num": 413144,
+      "word": "乃万",
+      "onboard_time": 1724980340,
+      "rank": 16,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 617158,
@@ -235,12 +251,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 427275,
-      "num": 427275,
-      "word": "被黄晓明家的早餐惊呆了",
+      "raw_hot": 452882,
+      "num": 351537,
+      "word": "GAI 痞老板唱得实在太烂了",
       "onboard_time": 1724980220,
-      "rank": 13,
-      "category": "艺人"
+      "rank": 22,
+      "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 420776,
+      "num": 358917,
+      "word": "孙颖莎和郑思维坐一桌",
+      "onboard_time": 1724980161,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 416352,
@@ -257,14 +281,6 @@
       "onboard_time": 1724956574,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 413144,
-      "num": 413144,
-      "word": "乃万",
-      "onboard_time": 1724980340,
-      "rank": 16,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 385622,
@@ -291,28 +307,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 358917,
-      "num": 358917,
-      "word": "孙颖莎和郑思维坐一桌",
-      "onboard_time": 1724980161,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 356490,
       "num": 356490,
       "word": "蒋奇明崔恩尔 势均力敌的爱情",
       "onboard_time": 1724943265,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 351537,
-      "num": 351537,
-      "word": "GAI 痞老板唱得实在太烂了",
-      "onboard_time": 1724980220,
-      "rank": 22,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 346960,
@@ -329,6 +329,14 @@
       "onboard_time": 1724940626,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303635,
+      "num": 303635,
+      "word": "边水往事 吴镇宇后三集演技",
+      "onboard_time": 1724981601,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 299476,
@@ -377,6 +385,14 @@
       "onboard_time": 1724975899,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 257138,
+      "num": 257138,
+      "word": "马龙回应背后击球练好了吗",
+      "onboard_time": 1724981002,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 254200,
@@ -483,12 +499,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203517,
+      "num": 203517,
+      "word": "i人和e人原来这么容易区别",
+      "onboard_time": 1724980758,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 197423,
       "num": 197423,
       "word": "易烊千玺看自己十岁演戏绷不住了",
       "onboard_time": 1724975779,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197211,
+      "num": 197211,
+      "word": "上班一定要穿的成熟",
+      "onboard_time": 1724982260,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 195991,
@@ -500,11 +532,19 @@
     },
     {
       "raw_hot": 191058,
-      "num": 223735,
+      "num": 226557,
       "word": "北京课间10分钟延长至15分钟",
       "onboard_time": 1724979320,
       "rank": 29,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 188363,
+      "num": 188363,
+      "word": "陈梦苏炜德等25人拟记大功",
+      "onboard_time": 1724982440,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 184854,
@@ -523,12 +563,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181828,
+      "num": 181828,
+      "word": "小伙5年未清理耳屎患瘤",
+      "onboard_time": 1724982381,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180550,
       "num": 180550,
       "word": "韩国 换脸",
       "onboard_time": 1724919022,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179292,
+      "num": 179292,
+      "word": "蒋奇明老婆是崔恩尔",
+      "onboard_time": 1724981601,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 178945,
@@ -539,12 +595,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 176544,
-      "num": 176544,
-      "word": "i人和e人原来这么容易区别",
-      "onboard_time": 1724980758,
-      "rank": 36,
-      "category": "情感"
+      "raw_hot": 174790,
+      "num": 174790,
+      "word": "侯明昊卢昱晓 双V",
+      "onboard_time": 1724980881,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 171351,
@@ -553,14 +609,6 @@
       "onboard_time": 1724981182,
       "rank": 39,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 169895,
-      "num": 169895,
-      "word": "侯明昊卢昱晓 双V",
-      "onboard_time": 1724980881,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 168516,
@@ -587,14 +635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 164961,
-      "num": 164961,
-      "word": "马龙回应背后击球练好了吗",
-      "onboard_time": 1724981002,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 163757,
       "num": 163757,
       "word": "试管龙凤胎产后6个月却自怀了",
@@ -617,14 +657,6 @@
       "onboard_time": 1724951357,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161773,
-      "num": 161773,
-      "word": "边水往事 吴镇宇后三集演技",
-      "onboard_time": 1724981601,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 156262,
@@ -689,14 +721,6 @@
       "onboard_time": 1724941585,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 138352,
-      "num": 138352,
-      "word": "蒋奇明老婆是崔恩尔",
-      "onboard_time": 1724981601,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 130069,
