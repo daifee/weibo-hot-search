@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1725027611878,
+  "endTime": 1725028682510,
   "band_list": [
     {
       "raw_hot": 20756997,
@@ -987,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1662688,
+      "num": 1662688,
+      "word": "国乒三打三",
+      "onboard_time": 1725024142,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1641256,
       "num": 1641256,
       "word": "男子每天1斤炸花生米配可乐引发脑梗死",
@@ -1264,14 +1272,6 @@
       "word": "孙杨成绩距本人奥运纪录差了近10秒",
       "onboard_time": 1724631079,
       "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1463064,
-      "num": 1463064,
-      "word": "国乒三打三",
-      "onboard_time": 1725024142,
-      "rank": 46,
       "category": "体育"
     },
     {
@@ -3875,6 +3875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 584265,
+      "num": 584265,
+      "word": "朱志鑫出道首发文",
+      "onboard_time": 1725027441,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 584252,
       "num": 584252,
       "word": "网传无忧渡全集空降",
@@ -4073,6 +4081,22 @@
       "onboard_time": 1724907324,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 556019,
+      "num": 556019,
+      "word": "孙颖莎港澳行期还在抽空跑步",
+      "onboard_time": 1725026302,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 555272,
+      "num": 555272,
+      "word": "边水往事 王玉雯姜珮瑶",
+      "onboard_time": 1725023300,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 553469,
@@ -4659,14 +4683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 461105,
-      "num": 461105,
-      "word": "边水往事 王玉雯姜珮瑶",
-      "onboard_time": 1725023300,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 460627,
       "num": 424481,
       "word": "陈牧驰把鞋扔给粉丝",
@@ -4763,6 +4779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 448405,
+      "num": 448405,
+      "word": "韩安冉起诉亲妈",
+      "onboard_time": 1725025883,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 448104,
       "num": 539564,
       "word": "代孕操刀医生之一无专业背景",
@@ -4793,14 +4817,6 @@
       "onboard_time": 1724547078,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 446523,
-      "num": 446523,
-      "word": "韩安冉起诉亲妈",
-      "onboard_time": 1725025883,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 446032,
@@ -4872,6 +4888,14 @@
       "word": "樊振东等23人拟记大功",
       "onboard_time": 1724663904,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 441257,
+      "num": 441257,
+      "word": "王祖蓝 主持",
+      "onboard_time": 1725025222,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -5113,6 +5137,14 @@
       "onboard_time": 1724676075,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 422140,
+      "num": 329768,
+      "word": "果然大一跟大四一眼就能认出来",
+      "onboard_time": 1725026182,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 421134,
@@ -5609,14 +5641,6 @@
       "onboard_time": 1724939725,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 375472,
-      "num": 375472,
-      "word": "孙颖莎港澳行期还在抽空跑步",
-      "onboard_time": 1725026302,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 373855,
@@ -6235,14 +6259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 331069,
-      "num": 331069,
-      "word": "王祖蓝 主持",
-      "onboard_time": 1725025222,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 330997,
       "num": 330997,
       "word": "杭州这家奶茶代购炒到300元一杯",
@@ -6667,6 +6683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 306029,
+      "num": 389707,
+      "word": "董事长之子聚餐泄密5人被罚2300万",
+      "onboard_time": 1725024741,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305253,
       "num": 305253,
       "word": "孙颖莎 本身就是耀眼的光",
@@ -6827,6 +6851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299945,
+      "num": 299945,
+      "word": "穆祉丞出道战后首条微博",
+      "onboard_time": 1725027802,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 298550,
       "num": 298550,
       "word": "尔康 还我妈生伞",
@@ -6976,6 +7008,14 @@
       "word": "韩国街头偶遇白敬亭",
       "onboard_time": 1724568379,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 292592,
+      "num": 292592,
+      "word": "JYP将对TWICEDeepfake采取法律行动",
+      "onboard_time": 1725027441,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -7161,6 +7201,14 @@
       "onboard_time": 1725017600,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 287054,
+      "num": 593878,
+      "word": "被逆行路虎女子打伤男子已住院",
+      "onboard_time": 1725025580,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286709,
@@ -7627,14 +7675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 268329,
-      "num": 268329,
-      "word": "果然大一跟大四一眼就能认出来",
-      "onboard_time": 1725026182,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 267982,
       "num": 267982,
       "word": "医院默许代孕女子冒用身份住院生产",
@@ -7809,14 +7849,6 @@
       "onboard_time": 1724975899,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 262689,
-      "num": 389707,
-      "word": "董事长之子聚餐泄密5人被罚2300万",
-      "onboard_time": 1725024741,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262605,
@@ -9001,14 +9033,6 @@
       "onboard_time": 1724994622,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 232486,
-      "num": 232486,
-      "word": "被逆行路虎女子打伤男子已住院",
-      "onboard_time": 1725025580,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232355,
@@ -11227,6 +11251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198803,
+      "num": 198803,
+      "word": "中餐厅",
+      "onboard_time": 1725027922,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198797,
       "num": 198797,
       "word": "中医提醒3类人不要早上洗头",
@@ -11273,6 +11305,14 @@
       "onboard_time": 1724552358,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198425,
+      "num": 198425,
+      "word": "任嘉伦 吃了蛋就不能吃我了",
+      "onboard_time": 1725027983,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 198374,
@@ -12507,14 +12547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182279,
-      "num": 182279,
-      "word": "JYP将对TWICEDeepfake采取法律行动",
-      "onboard_time": 1725027441,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 182162,
       "num": 182162,
       "word": "王楚然 山东话又增一员大将",
@@ -12947,6 +12979,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 175218,
+      "num": 175218,
+      "word": "李玖哲 好听",
+      "onboard_time": 1725022161,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175190,
       "num": 175190,
       "word": "终于轮到KTV被90后抛弃了",
@@ -13265,14 +13305,6 @@
       "onboard_time": 1724900060,
       "rank": 10,
       "category": "美食"
-    },
-    {
-      "raw_hot": 170161,
-      "num": 170161,
-      "word": "李玖哲 好听",
-      "onboard_time": 1725022161,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 170086,
@@ -13795,6 +13827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159519,
+      "num": 159519,
+      "word": "郭艾伦舍不得辽篮球迷",
+      "onboard_time": 1725028220,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159288,
       "num": 159288,
       "word": "派克特力挺乃万",
@@ -13809,14 +13849,6 @@
       "onboard_time": 1724849483,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158876,
-      "num": 158876,
-      "word": "朱志鑫出道首发文",
-      "onboard_time": 1725027441,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 158862,
@@ -13867,6 +13899,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157410,
+      "num": 157410,
+      "word": "马龙说买奶茶全红婵立马跟上",
+      "onboard_time": 1725028642,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 157247,
+      "num": 157247,
+      "word": "樊振东杨家玉合影",
+      "onboard_time": 1725028102,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157077,
       "num": 428780,
       "word": "檀健次贴脸开大杜淳初舞台",
@@ -13881,6 +13929,14 @@
       "onboard_time": 1725022342,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156928,
+      "num": 156928,
+      "word": "riize周边",
+      "onboard_time": 1725028521,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 156885,
@@ -14073,6 +14129,14 @@
       "onboard_time": 1724633840,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153989,
+      "num": 605051,
+      "word": "打人女司机被拘10天网友为何不满",
+      "onboard_time": 1725026542,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153861,
@@ -15555,6 +15619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97960,
+      "num": 443268,
+      "word": "不能让更多老师只管教书不敢育人",
+      "onboard_time": 1725026600,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97284,
       "num": 97284,
       "word": "7天无理由退货不等于无限制退货",
@@ -15736,14 +15808,6 @@
       "word": "女子发霉大米藏30万财物被孩子扔了",
       "onboard_time": 1724914342,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85857,
-      "num": 605051,
-      "word": "打人女司机被拘10天网友为何不满",
-      "onboard_time": 1725026542,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -17123,6 +17187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52765,
+      "num": 349632,
+      "word": "高分段学生为何集体放弃留学",
+      "onboard_time": 1725026720,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52725,
       "num": 274147,
       "word": "美特斯邦威靠平替重回创业路",
@@ -17624,14 +17696,6 @@
       "word": "山东临沂短时强对流天气致3死7伤",
       "onboard_time": 1724736201,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42145,
-      "num": 443268,
-      "word": "不能让更多老师只管教书不敢育人",
-      "onboard_time": 1725026600,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -18339,6 +18403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28918,
+      "num": 456213,
+      "word": "热门演唱会为何开票秒没",
+      "onboard_time": 1725028461,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28841,
       "num": 39749,
       "word": "雨天捡到的小奶狗原来有家长",
@@ -18392,14 +18464,6 @@
       "word": "度假冲浪被摄影师直播给多人观看",
       "onboard_time": 1724940744,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27864,
-      "num": 349632,
-      "word": "高分段学生为何集体放弃留学",
-      "onboard_time": 1725026720,
-      "rank": 18,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1724948777601,
-  "endTime": 1725027611878,
+  "endTime": 1725028682510,
   "band_list": [
     {
       "raw_hot": 8843262,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1662688,
+      "num": 1662688,
+      "word": "国乒三打三",
+      "onboard_time": 1725024142,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1639316,
       "num": 1639316,
       "word": "大学生每月平均生活费1282元",
@@ -161,14 +169,6 @@
       "onboard_time": 1724938763,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1463064,
-      "num": 1463064,
-      "word": "国乒三打三",
-      "onboard_time": 1725024142,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 1425399,
@@ -667,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 584265,
+      "num": 584265,
+      "word": "朱志鑫出道首发文",
+      "onboard_time": 1725027441,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 583103,
       "num": 894964,
       "word": "打击代孕应成为全社会共识",
@@ -713,6 +721,22 @@
       "onboard_time": 1725015859,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 556019,
+      "num": 556019,
+      "word": "孙颖莎港澳行期还在抽空跑步",
+      "onboard_time": 1725026302,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 555272,
+      "num": 555272,
+      "word": "边水往事 王玉雯姜珮瑶",
+      "onboard_time": 1725023300,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 553014,
@@ -795,14 +819,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 461105,
-      "num": 461105,
-      "word": "边水往事 王玉雯姜珮瑶",
-      "onboard_time": 1725023300,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 460627,
       "num": 424481,
       "word": "陈牧驰把鞋扔给粉丝",
@@ -819,20 +835,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 448405,
+      "num": 448405,
+      "word": "韩安冉起诉亲妈",
+      "onboard_time": 1725025883,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 448104,
       "num": 539564,
       "word": "代孕操刀医生之一无专业背景",
       "onboard_time": 1724997741,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 446523,
-      "num": 446523,
-      "word": "韩安冉起诉亲妈",
-      "onboard_time": 1725025883,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 444440,
@@ -849,6 +865,14 @@
       "onboard_time": 1725010520,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 441257,
+      "num": 441257,
+      "word": "王祖蓝 主持",
+      "onboard_time": 1725025222,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 441196,
@@ -915,6 +939,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 422140,
+      "num": 329768,
+      "word": "果然大一跟大四一眼就能认出来",
+      "onboard_time": 1725026182,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 420776,
       "num": 358917,
       "word": "孙颖莎和郑思维坐一桌",
@@ -977,14 +1009,6 @@
       "onboard_time": 1724992102,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 375472,
-      "num": 375472,
-      "word": "孙颖莎港澳行期还在抽空跑步",
-      "onboard_time": 1725026302,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 371724,
@@ -1139,14 +1163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 331069,
-      "num": 331069,
-      "word": "王祖蓝 主持",
-      "onboard_time": 1725025222,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 328379,
       "num": 366013,
       "word": "性别暴力下女性面临的隐秘围猎",
@@ -1203,6 +1219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 306029,
+      "num": 389707,
+      "word": "董事长之子聚餐泄密5人被罚2300万",
+      "onboard_time": 1725024741,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302483,
       "num": 302483,
       "word": "中秋假期火车票要开售了",
@@ -1219,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 299945,
+      "num": 299945,
+      "word": "穆祉丞出道战后首条微博",
+      "onboard_time": 1725027802,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 299476,
       "num": 299476,
       "word": "TFBOYS祝福三代师弟成团快乐",
@@ -1233,6 +1265,14 @@
       "onboard_time": 1724990183,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292592,
+      "num": 292592,
+      "word": "JYP将对TWICEDeepfake采取法律行动",
+      "onboard_time": 1725027441,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 292058,
@@ -1273,6 +1313,14 @@
       "onboard_time": 1725017600,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 287054,
+      "num": 593878,
+      "word": "被逆行路虎女子打伤男子已住院",
+      "onboard_time": 1725025580,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286010,
@@ -1355,14 +1403,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 268329,
-      "num": 268329,
-      "word": "果然大一跟大四一眼就能认出来",
-      "onboard_time": 1725026182,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 267687,
       "num": 323562,
       "word": "印度女医护人员集体练武",
@@ -1409,14 +1449,6 @@
       "onboard_time": 1724975899,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 262689,
-      "num": 389707,
-      "word": "董事长之子聚餐泄密5人被罚2300万",
-      "onboard_time": 1725024741,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261531,
@@ -1617,14 +1649,6 @@
       "onboard_time": 1724994622,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 232486,
-      "num": 232486,
-      "word": "被逆行路虎女子打伤男子已住院",
-      "onboard_time": 1725025580,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 231272,
@@ -1995,6 +2019,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 198803,
+      "num": 198803,
+      "word": "中餐厅",
+      "onboard_time": 1725027922,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 198425,
+      "num": 198425,
+      "word": "任嘉伦 吃了蛋就不能吃我了",
+      "onboard_time": 1725027983,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197684,
       "num": 197684,
       "word": "迪丽热巴坐粉色三轮车",
@@ -2195,14 +2235,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 182279,
-      "num": 182279,
-      "word": "JYP将对TWICEDeepfake采取法律行动",
-      "onboard_time": 1725027441,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 180550,
       "num": 180550,
       "word": "韩国 换脸",
@@ -2267,6 +2299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175218,
+      "num": 175218,
+      "word": "李玖哲 好听",
+      "onboard_time": 1725022161,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174861,
       "num": 174861,
       "word": "明日方舟",
@@ -2321,14 +2361,6 @@
       "onboard_time": 1724981182,
       "rank": 39,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 170161,
-      "num": 170161,
-      "word": "李玖哲 好听",
-      "onboard_time": 1725022161,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 169955,
@@ -2403,12 +2435,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158876,
-      "num": 158876,
-      "word": "朱志鑫出道首发文",
-      "onboard_time": 1725027441,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 159519,
+      "num": 159519,
+      "word": "郭艾伦舍不得辽篮球迷",
+      "onboard_time": 1725028220,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 158721,
@@ -2419,12 +2451,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157410,
+      "num": 157410,
+      "word": "马龙说买奶茶全红婵立马跟上",
+      "onboard_time": 1725028642,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 157247,
+      "num": 157247,
+      "word": "樊振东杨家玉合影",
+      "onboard_time": 1725028102,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156936,
       "num": 156936,
       "word": "魏哲鸣好帅",
       "onboard_time": 1725022342,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156928,
+      "num": 156928,
+      "word": "riize周边",
+      "onboard_time": 1725028521,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 156791,
@@ -2464,6 +2520,14 @@
       "word": "女子花2万割双眼皮控诉成了悲伤蛙",
       "onboard_time": 1724915001,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153989,
+      "num": 605051,
+      "word": "打人女司机被拘10天网友为何不满",
+      "onboard_time": 1725026542,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2739,6 +2803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97960,
+      "num": 443268,
+      "word": "不能让更多老师只管教书不敢育人",
+      "onboard_time": 1725026600,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95154,
       "num": 634881,
       "word": "蒲熠星上一秒还在唱跳下一秒呼呼大睡",
@@ -2785,14 +2857,6 @@
       "onboard_time": 1725001161,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 85857,
-      "num": 605051,
-      "word": "打人女司机被拘10天网友为何不满",
-      "onboard_time": 1725026542,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 84556,
@@ -3067,6 +3131,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 52765,
+      "num": 349632,
+      "word": "高分段学生为何集体放弃留学",
+      "onboard_time": 1725026720,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52513,
       "num": 340710,
       "word": "年轻人的第一台保时捷",
@@ -3104,14 +3176,6 @@
       "word": "deepfake是一种换脸技术",
       "onboard_time": 1724954714,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42145,
-      "num": 443268,
-      "word": "不能让更多老师只管教书不敢育人",
-      "onboard_time": 1725026600,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -3235,6 +3299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28918,
+      "num": 456213,
+      "word": "热门演唱会为何开票秒没",
+      "onboard_time": 1725028461,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28841,
       "num": 39749,
       "word": "雨天捡到的小奶狗原来有家长",
@@ -3249,14 +3321,6 @@
       "onboard_time": 1724999060,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 27864,
-      "num": 349632,
-      "word": "高分段学生为何集体放弃留学",
-      "onboard_time": 1725026720,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27737,
