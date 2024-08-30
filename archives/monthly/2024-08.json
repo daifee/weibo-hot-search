@@ -1,6 +1,6 @@
 {
   "startTime": 1722443098181,
-  "endTime": 1725039407899,
+  "endTime": 1725042494066,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -80043,6 +80043,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 98160,
+      "num": 178457,
+      "word": "deepfake被称为最邪恶的技术",
+      "onboard_time": 1725038237,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98136,
       "num": 98136,
       "word": "马尔尚 偷感",
@@ -87243,6 +87251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 45614,
+      "num": 45614,
+      "word": "华晨宇演唱会纪念惊喜礼物",
+      "onboard_time": 1725041593,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 45599,
       "num": 1064422,
       "word": "预拨5000万支持辽宁防汛救灾",
@@ -88320,6 +88336,14 @@
       "word": "在张杰演唱会看到了魏晨",
       "onboard_time": 1723437862,
       "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 39873,
+      "num": 39873,
+      "word": "檀健次多见一次巡回演唱会",
+      "onboard_time": 1725041473,
+      "rank": 42,
       "category": "演出"
     },
     {
@@ -91107,14 +91131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24013,
-      "num": 178457,
-      "word": "deepfake被称为最邪恶的技术",
-      "onboard_time": 1725038237,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 23777,
       "num": 58128,
       "word": "夜宿恐龙博物馆是啥体验",
@@ -92129,6 +92145,14 @@
       "onboard_time": 1722771089,
       "rank": 42,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 12265,
+      "num": 104216,
+      "word": "今后三天全国一半地方有雨",
+      "onboard_time": 1725041953,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12179,

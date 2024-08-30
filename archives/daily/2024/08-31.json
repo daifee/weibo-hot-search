@@ -1,6 +1,6 @@
 {
   "startTime": 1725035044218,
-  "endTime": 1725039407899,
+  "endTime": 1725042494066,
   "band_list": [
     {
       "raw_hot": 3132358,
@@ -419,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98160,
+      "num": 178457,
+      "word": "deepfake被称为最邪恶的技术",
+      "onboard_time": 1725038237,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95288,
       "num": 143426,
       "word": "戴荃 悟空",
@@ -467,12 +475,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 24013,
-      "num": 178457,
-      "word": "deepfake被称为最邪恶的技术",
-      "onboard_time": 1725038237,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 45614,
+      "num": 45614,
+      "word": "华晨宇演唱会纪念惊喜礼物",
+      "onboard_time": 1725041593,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 39873,
+      "num": 39873,
+      "word": "檀健次多见一次巡回演唱会",
+      "onboard_time": 1725041473,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 39387,
+      "num": 39387,
+      "word": "2024华晨宇火星演唱会",
+      "onboard_time": 1725041354,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 14466,
@@ -480,6 +504,14 @@
       "word": "坐上动车畅游祖国大好河山",
       "onboard_time": 1725021200,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12265,
+      "num": 104216,
+      "word": "今后三天全国一半地方有雨",
+      "onboard_time": 1725041953,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -494,6 +526,9 @@
   "hotgov_list": [
     {
       "word": "#习近平复信非洲学者#"
+    },
+    {
+      "word": "#巩固深化党纪学习教育成果#"
     }
   ]
 }
