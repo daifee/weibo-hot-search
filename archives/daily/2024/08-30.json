@@ -1,6 +1,6 @@
 {
   "startTime": 1724948777601,
-  "endTime": 1725025047147,
+  "endTime": 1725027611878,
   "band_list": [
     {
       "raw_hot": 8843262,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1463064,
+      "num": 1463064,
+      "word": "国乒三打三",
+      "onboard_time": 1725024142,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1425399,
       "num": 426556,
       "word": "英语专八范文 代孕",
@@ -249,6 +257,14 @@
       "onboard_time": 1724989462,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1260628,
+      "num": 1260628,
+      "word": "青岛逆行女司机至今未道歉赔偿",
+      "onboard_time": 1725022281,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1240736,
@@ -411,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 883036,
+      "num": 883036,
+      "word": "EXO月饼",
+      "onboard_time": 1725025280,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 875988,
       "num": 875988,
       "word": "市场监管总局督导阿里巴巴完成整改",
@@ -440,14 +464,6 @@
       "word": "上官正义称青岛代孕公司法人已被抓获",
       "onboard_time": 1724999719,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 830923,
-      "num": 830923,
-      "word": "青岛逆行女司机至今未道歉赔偿",
-      "onboard_time": 1725022281,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -523,6 +539,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 730154,
+      "num": 730154,
+      "word": "王楚钦靠窗张嘴睡觉",
+      "onboard_time": 1725023121,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 714898,
+      "num": 714898,
+      "word": "杨幂 麻辣女教师",
+      "onboard_time": 1725020599,
+      "rank": 12,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 714135,
       "num": 714135,
       "word": "下一战歌手直播",
@@ -585,14 +617,6 @@
       "onboard_time": 1724980340,
       "rank": 16,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 634741,
-      "num": 634741,
-      "word": "杨幂 麻辣女教师",
-      "onboard_time": 1725020599,
-      "rank": 12,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 617158,
@@ -771,6 +795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 461105,
+      "num": 461105,
+      "word": "边水往事 王玉雯姜珮瑶",
+      "onboard_time": 1725023300,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 460627,
       "num": 424481,
       "word": "陈牧驰把鞋扔给粉丝",
@@ -793,6 +825,14 @@
       "onboard_time": 1724997741,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446523,
+      "num": 446523,
+      "word": "韩安冉起诉亲妈",
+      "onboard_time": 1725025883,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 444440,
@@ -923,14 +963,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 385945,
-      "num": 385945,
-      "word": "王楚钦靠窗张嘴睡觉",
-      "onboard_time": 1725023121,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 385622,
       "num": 451371,
       "word": "儿子跟妈妈摆摊10天收入10000元",
@@ -945,6 +977,14 @@
       "onboard_time": 1724992102,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 375472,
+      "num": 375472,
+      "word": "孙颖莎港澳行期还在抽空跑步",
+      "onboard_time": 1725026302,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 371724,
@@ -993,6 +1033,14 @@
       "onboard_time": 1724976380,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 359303,
+      "num": 359303,
+      "word": "郭艾伦直播",
+      "onboard_time": 1725024859,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 357861,
@@ -1089,6 +1137,14 @@
       "onboard_time": 1724992163,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331069,
+      "num": 331069,
+      "word": "王祖蓝 主持",
+      "onboard_time": 1725025222,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 328379,
@@ -1299,6 +1355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 268329,
+      "num": 268329,
+      "word": "果然大一跟大四一眼就能认出来",
+      "onboard_time": 1725026182,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 267687,
       "num": 323562,
       "word": "印度女医护人员集体练武",
@@ -1331,14 +1395,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 265082,
-      "num": 265082,
-      "word": "边水往事 王玉雯姜珮瑶",
-      "onboard_time": 1725023300,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 264386,
       "num": 257494,
       "word": "全红婵又水灵灵喜提乌龟",
@@ -1355,6 +1411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 262689,
+      "num": 389707,
+      "word": "董事长之子聚餐泄密5人被罚2300万",
+      "onboard_time": 1725024741,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261531,
       "num": 261531,
       "word": "专四成绩",
@@ -1369,14 +1433,6 @@
       "onboard_time": 1725004521,
       "rank": 23,
       "category": "游戏,作品衍生"
-    },
-    {
-      "raw_hot": 260199,
-      "num": 260199,
-      "word": "国乒三打三",
-      "onboard_time": 1725024142,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 259039,
@@ -1433,6 +1489,14 @@
       "onboard_time": 1724995222,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 252425,
+      "num": 252425,
+      "word": "崔秀彬唱如果爱忘了",
+      "onboard_time": 1725025340,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 252226,
@@ -1555,6 +1619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232486,
+      "num": 232486,
+      "word": "被逆行路虎女子打伤男子已住院",
+      "onboard_time": 1725025580,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231272,
       "num": 231272,
       "word": "披荆斩棘4二公",
@@ -1648,14 +1720,6 @@
       "word": "郭晶晶霍启刚看黄雅琼打球好开心",
       "onboard_time": 1725002420,
       "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 220281,
-      "num": 220281,
-      "word": "郭艾伦直播",
-      "onboard_time": 1725024859,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -1785,6 +1849,14 @@
       "onboard_time": 1724990482,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208120,
+      "num": 208120,
+      "word": "白举纲那英组第一",
+      "onboard_time": 1725025821,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 207913,
@@ -1963,6 +2035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195720,
+      "num": 195720,
+      "word": "艾热舞台好燃",
+      "onboard_time": 1725026121,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195613,
       "num": 195613,
       "word": "恋与深空",
@@ -2115,6 +2195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 182279,
+      "num": 182279,
+      "word": "JYP将对TWICEDeepfake采取法律行动",
+      "onboard_time": 1725027441,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180550,
       "num": 180550,
       "word": "韩国 换脸",
@@ -2219,12 +2307,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171515,
+      "num": 171515,
+      "word": "黄镇廷疑深夜给王楚钦马龙送外卖",
+      "onboard_time": 1725024142,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171351,
       "num": 171351,
       "word": "尹锡悦称受害者和犯罪者多是未成年人",
       "onboard_time": 1724981182,
       "rank": 39,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 170161,
+      "num": 170161,
+      "word": "李玖哲 好听",
+      "onboard_time": 1725022161,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 169955,
@@ -2299,6 +2403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158876,
+      "num": 158876,
+      "word": "朱志鑫出道首发文",
+      "onboard_time": 1725027441,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158721,
       "num": 158721,
       "word": "BLG下路",
@@ -2363,12 +2475,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 149796,
-      "num": 149796,
-      "word": "黄镇廷疑深夜给王楚钦马龙送外卖",
-      "onboard_time": 1725024142,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 150651,
+      "num": 150651,
+      "word": "侯明昊直播",
+      "onboard_time": 1725025761,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 146732,
@@ -2483,6 +2595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 139938,
+      "num": 139938,
+      "word": "现在婚礼都这么超前了吗",
+      "onboard_time": 1725027382,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139180,
       "num": 1787519,
       "word": "蛟龙号带回海参海绵等5种生物",
@@ -2496,14 +2616,6 @@
       "word": "刘宇 内娱饭撒的神",
       "onboard_time": 1724985800,
       "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 134267,
-      "num": 134267,
-      "word": "李玖哲 好听",
-      "onboard_time": 1725022161,
-      "rank": 46,
       "category": "综艺"
     },
     {
@@ -2595,14 +2707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 105187,
-      "num": 389707,
-      "word": "董事长之子聚餐泄密5人被罚2300万",
-      "onboard_time": 1725024741,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104738,
       "num": 104738,
       "word": "阿如那的偶像是蒋奇明",
@@ -2681,6 +2785,14 @@
       "onboard_time": 1725001161,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85857,
+      "num": 605051,
+      "word": "打人女司机被拘10天网友为何不满",
+      "onboard_time": 1725026542,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84556,
@@ -2995,6 +3107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42145,
+      "num": 443268,
+      "word": "不能让更多老师只管教书不敢育人",
+      "onboard_time": 1725026600,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39525,
       "num": 286958,
       "word": "喜人奇妙夜",
@@ -3091,6 +3211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 31801,
+      "num": 347310,
+      "word": "新能源车泡水一个月后送修时起火",
+      "onboard_time": 1725026542,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29623,
       "num": 84814,
       "word": "高温下川渝两地如何应对",
@@ -3121,6 +3249,14 @@
       "onboard_time": 1724999060,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27864,
+      "num": 349632,
+      "word": "高分段学生为何集体放弃留学",
+      "onboard_time": 1725026720,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27737,
@@ -3163,8 +3299,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13126,
-      "num": 933927,
+      "raw_hot": 14743,
+      "num": 1329851,
       "word": "河南博物院文创团队平均25岁",
       "onboard_time": 1724982979,
       "rank": 2,
