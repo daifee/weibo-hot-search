@@ -1,6 +1,6 @@
 {
   "startTime": 1725035044218,
-  "endTime": 1725052876346,
+  "endTime": 1725053731039,
   "band_list": [
     {
       "raw_hot": 3132358,
@@ -507,11 +507,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 34124,
+      "num": 34124,
+      "word": "下一战歌手 尬聊",
+      "onboard_time": 1725050951,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 31907,
       "num": 104216,
       "word": "今后三天全国一半地方有雨",
       "onboard_time": 1725041953,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30043,
+      "num": 30043,
+      "word": "韩女性深陷恐慌22万人被色情片AI换脸",
+      "onboard_time": 1725051432,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -521,22 +537,6 @@
       "onboard_time": 1725042913,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 27573,
-      "num": 27573,
-      "word": "下一战歌手 尬聊",
-      "onboard_time": 1725050951,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 23211,
-      "num": 23211,
-      "word": "韩女性深陷恐慌22万人被色情片AI换脸",
-      "onboard_time": 1725051432,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19332,
@@ -553,6 +553,22 @@
       "onboard_time": 1725047532,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16123,
+      "num": 21840,
+      "word": "西游记中最善良的妖精",
+      "onboard_time": 1725053592,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 16028,
+      "num": 21836,
+      "word": "爱奇艺和腾讯为什么要争脱口秀",
+      "onboard_time": 1725038536,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 15065,
