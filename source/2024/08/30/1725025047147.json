@@ -1,0 +1,410 @@
+{
+  "runTime": 1725025047147,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1896362,
+        "num": 1896362,
+        "word": "原来微信余额还可以被隐藏",
+        "onboard_time": 1725019040,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 894595,
+        "num": 894595,
+        "word": "微博香港直播",
+        "onboard_time": 1725020360,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13126,
+        "num": 892261,
+        "word": "河南博物院文创团队平均25岁",
+        "onboard_time": 1724982979,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1031451,
+        "num": 892188,
+        "word": "被逆行路虎女司机打伤男司机发声",
+        "onboard_time": 1725015201,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 891504,
+        "num": 891504,
+        "word": "华晨宇打响内娱反黄牛第一枪",
+        "onboard_time": 1725014600,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 830923,
+        "num": 830923,
+        "word": "青岛逆行女司机至今未道歉赔偿",
+        "onboard_time": 1725022281,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 785927,
+        "num": 785927,
+        "word": "被逆行女司机打伤男司机是退伍军人",
+        "onboard_time": 1725018081,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 764562,
+        "num": 764562,
+        "word": "全红婵偷拍樊振东睡觉",
+        "onboard_time": 1725019820,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 615040,
+        "num": 615040,
+        "word": "杨幂 麻辣女教师",
+        "onboard_time": 1725020599,
+        "rank": 8,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 593954,
+        "num": 593954,
+        "word": "戴荃 悟空",
+        "onboard_time": 1725022700,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434883,
+        "num": 434883,
+        "word": "任运杰声明",
+        "onboard_time": 1725021200,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427303,
+        "num": 427303,
+        "word": "樊振东潘展乐肤色差",
+        "onboard_time": 1725020120,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 409973,
+        "num": 409973,
+        "word": "迪丽热巴吃着面包下班",
+        "onboard_time": 1725019880,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 396228,
+        "num": 396228,
+        "word": "樊振东举着潘展乐的手打招呼",
+        "onboard_time": 1725008240,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105187,
+        "num": 389707,
+        "word": "董事长之子聚餐泄密5人被罚2300万",
+        "onboard_time": 1725024741,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48780,
+        "num": 386892,
+        "word": "国人抗老已经nextlevel了",
+        "onboard_time": 1725022342,
+        "rank": 15,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 385945,
+        "num": 385945,
+        "word": "王楚钦靠窗张嘴睡觉",
+        "onboard_time": 1725023121,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 343592,
+        "num": 343592,
+        "word": "下一战歌手直播",
+        "onboard_time": 1725019460,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340895,
+        "num": 340895,
+        "word": "大陆近期将恢复福建居民赴金门旅游",
+        "onboard_time": 1725022100,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314590,
+        "num": 314590,
+        "word": "那英唱了相见不如怀念",
+        "onboard_time": 1725020780,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274142,
+        "num": 274142,
+        "word": "痞老板点名江奈生小丑subs",
+        "onboard_time": 1725005482,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269677,
+        "num": 269677,
+        "word": "白举纲好牛",
+        "onboard_time": 1725023121,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260199,
+        "num": 260199,
+        "word": "国乒三打三",
+        "onboard_time": 1725024142,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252751,
+        "num": 252751,
+        "word": "虞书欣 一生要出片的中国女人",
+        "onboard_time": 1725017840,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245959,
+        "num": 245959,
+        "word": "边水往事 王玉雯姜珮瑶",
+        "onboard_time": 1725023300,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220281,
+        "num": 220281,
+        "word": "郭艾伦直播",
+        "onboard_time": 1725024859,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199851,
+        "num": 212937,
+        "word": "青春碰头会",
+        "onboard_time": 1725023359,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209056,
+        "num": 209056,
+        "word": "印度女医护人员集体练武",
+        "onboard_time": 1725017540,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208225,
+        "num": 208225,
+        "word": "韩国女性感谢中国网友为她们发声",
+        "onboard_time": 1724987180,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62050,
+        "num": 208060,
+        "word": "车主60万宝马车自燃索赔无果",
+        "onboard_time": 1725023060,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207913,
+        "num": 207913,
+        "word": "梁翘柏",
+        "onboard_time": 1725023600,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197013,
+        "num": 197013,
+        "word": "郎平说徐梦洁腿部肌肉很漂亮",
+        "onboard_time": 1725009561,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191125,
+        "num": 191125,
+        "word": "9月十二星座注意事项",
+        "onboard_time": 1725022219,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183530,
+        "num": 183530,
+        "word": "寄件人华晨宇",
+        "onboard_time": 1725020780,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169615,
+        "num": 169615,
+        "word": "110打119报警抓大蛇",
+        "onboard_time": 1725007461,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166484,
+        "num": 166484,
+        "word": "吴奇隆说十天勾心斗角负能量",
+        "onboard_time": 1725007400,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163444,
+        "num": 163444,
+        "word": "全妹挽着马龙胳膊",
+        "onboard_time": 1725008480,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102690,
+        "num": 154218,
+        "word": "已有超20所高校计划停撤超100个专业",
+        "onboard_time": 1725022941,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153962,
+        "num": 153962,
+        "word": "东南亚留学博士求职最先被筛掉了",
+        "onboard_time": 1725019400,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150436,
+        "num": 150436,
+        "word": "谢瑜vlog",
+        "onboard_time": 1725017600,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148665,
+        "num": 148665,
+        "word": "谁家研究生宿舍是酒店啊",
+        "onboard_time": 1725012081,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146940,
+        "num": 146940,
+        "word": "乙女圈怎么突然被哈圈盯上了",
+        "onboard_time": 1725015080,
+        "rank": 41,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 145145,
+        "num": 145145,
+        "word": "吴奇隆退赛",
+        "onboard_time": 1725003920,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144368,
+        "num": 144368,
+        "word": "世界之外一番赏",
+        "onboard_time": 1725020540,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 68326,
+        "num": 138953,
+        "word": "宝妈兼职背后竟是境外诈骗团伙",
+        "onboard_time": 1725022941,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137268,
+        "num": 137268,
+        "word": "谁家小猫坐姿这么端正",
+        "onboard_time": 1725023002,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132485,
+        "num": 132485,
+        "word": "樊振东说粤语",
+        "onboard_time": 1725024620,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129398,
+        "num": 129398,
+        "word": "黄镇廷疑深夜给王楚钦马龙送外卖",
+        "onboard_time": 1725024142,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127912,
+        "num": 127912,
+        "word": "痞老板发长文道歉",
+        "onboard_time": 1725003081,
+        "rank": 48,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 127685,
+        "num": 127685,
+        "word": "这种便宜纸巾千万别用了",
+        "onboard_time": 1725021980,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#巩固深化党纪学习教育成果#"
+    }
+  }
+}
