@@ -1,6 +1,6 @@
 {
   "startTime": 1724948777601,
-  "endTime": 1725028682510,
+  "endTime": 1725031338221,
   "band_list": [
     {
       "raw_hot": 8843262,
@@ -467,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 842711,
+      "num": 463785,
+      "word": "重庆3岁走失男童遗体被找到",
+      "onboard_time": 1725030021,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 808230,
       "num": 808230,
       "word": "谭瑞松被查",
@@ -505,6 +513,14 @@
       "onboard_time": 1724938463,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 770431,
+      "num": 770431,
+      "word": "朱志鑫出道首发文",
+      "onboard_time": 1725027441,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 767167,
@@ -561,6 +577,14 @@
       "onboard_time": 1725019460,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 712727,
+      "num": 344557,
+      "word": "果然大一跟大四一眼就能认出来",
+      "onboard_time": 1725026182,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 701064,
@@ -667,14 +691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 584265,
-      "num": 584265,
-      "word": "朱志鑫出道首发文",
-      "onboard_time": 1725027441,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 583103,
       "num": 894964,
       "word": "打击代孕应成为全社会共识",
@@ -737,6 +753,14 @@
       "onboard_time": 1725023300,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 555111,
+      "num": 593878,
+      "word": "被逆行路虎女子打伤男子已住院",
+      "onboard_time": 1725025580,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 553014,
@@ -819,6 +843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 462821,
+      "num": 462821,
+      "word": "北海偶遇左航",
+      "onboard_time": 1725029962,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 460627,
       "num": 424481,
       "word": "陈牧驰把鞋扔给粉丝",
@@ -865,6 +897,14 @@
       "onboard_time": 1725010520,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 441630,
+      "num": 441630,
+      "word": "穆祉丞出道战后首条微博",
+      "onboard_time": 1725027802,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 441257,
@@ -939,14 +979,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 422140,
-      "num": 329768,
-      "word": "果然大一跟大四一眼就能认出来",
-      "onboard_time": 1725026182,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 420776,
       "num": 358917,
       "word": "孙颖莎和郑思维坐一桌",
@@ -985,6 +1017,14 @@
       "onboard_time": 1724996301,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 390793,
+      "num": 343106,
+      "word": "马龙说买奶茶全红婵立马跟上",
+      "onboard_time": 1725028642,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 386605,
@@ -1033,6 +1073,14 @@
       "onboard_time": 1724984122,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 366233,
+      "num": 366233,
+      "word": "樊振东大小眼笑已回归",
+      "onboard_time": 1725029602,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 364018,
@@ -1139,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345678,
+      "num": 389707,
+      "word": "董事长之子聚餐泄密5人被罚2300万",
+      "onboard_time": 1725024741,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 341821,
       "num": 425273,
       "word": "医院官网已无代孕操刀医生信息",
@@ -1148,7 +1204,7 @@
     },
     {
       "raw_hot": 340895,
-      "num": 340895,
+      "num": 464384,
       "word": "大陆近期将恢复福建居民赴金门旅游",
       "onboard_time": 1725022100,
       "rank": 43,
@@ -1219,12 +1275,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 306029,
-      "num": 389707,
-      "word": "董事长之子聚餐泄密5人被罚2300万",
-      "onboard_time": 1725024741,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 309129,
+      "num": 309129,
+      "word": "孙颖莎好像loopy",
+      "onboard_time": 1725028882,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 302483,
@@ -1241,14 +1297,6 @@
       "onboard_time": 1725013161,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 299945,
-      "num": 299945,
-      "word": "穆祉丞出道战后首条微博",
-      "onboard_time": 1725027802,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 299476,
@@ -1315,20 +1363,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 287054,
-      "num": 593878,
-      "word": "被逆行路虎女子打伤男子已住院",
-      "onboard_time": 1725025580,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 286010,
       "num": 286010,
       "word": "露头就秒",
       "onboard_time": 1724953875,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 284143,
+      "num": 605051,
+      "word": "打人女司机被拘10天网友为何不满",
+      "onboard_time": 1725026542,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283372,
@@ -1361,6 +1409,14 @@
       "onboard_time": 1724982742,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277041,
+      "num": 277041,
+      "word": "刀郎演唱会",
+      "onboard_time": 1725029242,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 274827,
@@ -1833,6 +1889,14 @@
       "onboard_time": 1724979741,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213855,
+      "num": 213855,
+      "word": "TWICE公告",
+      "onboard_time": 1725030683,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 213093,
@@ -2363,12 +2427,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 170099,
+      "num": 170099,
+      "word": "活死人直播",
+      "onboard_time": 1725030922,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 169955,
       "num": 169955,
       "word": "王一博 那不容易啊",
       "onboard_time": 1724985259,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168775,
+      "num": 168775,
+      "word": "现在婚礼都这么超前了吗",
+      "onboard_time": 1725027382,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 168516,
@@ -2427,6 +2507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162402,
+      "num": 162402,
+      "word": "宋雨琦 下次让张真源跳新女团舞",
+      "onboard_time": 1725031161,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161538,
       "num": 161538,
       "word": "祝绪丹娱乐圈人缘",
@@ -2449,14 +2537,6 @@
       "onboard_time": 1725012081,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 157410,
-      "num": 157410,
-      "word": "马龙说买奶茶全红婵立马跟上",
-      "onboard_time": 1725028642,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 157247,
@@ -2523,14 +2603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153989,
-      "num": 605051,
-      "word": "打人女司机被拘10天网友为何不满",
-      "onboard_time": 1725026542,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152264,
       "num": 152264,
       "word": "中韩化妆师手艺对比",
@@ -2539,12 +2611,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 151818,
+      "num": 151818,
+      "word": "徐嘉余问张雨霏照片可满意",
+      "onboard_time": 1725026121,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150651,
       "num": 150651,
       "word": "侯明昊直播",
       "onboard_time": 1725025761,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147111,
+      "num": 147111,
+      "word": "崔然竣说中文",
+      "onboard_time": 1725031221,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 146732,
@@ -2603,6 +2691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 143186,
+      "num": 143186,
+      "word": "雅一把拦腰抱起庆怜",
+      "onboard_time": 1725030262,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143183,
       "num": 143183,
       "word": "刘楚恬郭晶晶合照",
@@ -2625,6 +2721,14 @@
       "onboard_time": 1724995823,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142445,
+      "num": 142445,
+      "word": "第九代张起灵身材",
+      "onboard_time": 1725031161,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 141549,
@@ -2659,12 +2763,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 139938,
-      "num": 139938,
-      "word": "现在婚礼都这么超前了吗",
-      "onboard_time": 1725027382,
+      "raw_hot": 139267,
+      "num": 139267,
+      "word": "时代少年团战至巅峰收工下班",
+      "onboard_time": 1725030561,
       "rank": 49,
-      "category": "情感"
+      "category": "综艺"
     },
     {
       "raw_hot": 139180,
@@ -3179,6 +3283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42363,
+      "num": 345514,
+      "word": "结婚更容易了结婚率会提高吗",
+      "onboard_time": 1725030201,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39525,
       "num": 286958,
       "word": "喜人奇妙夜",
@@ -3201,6 +3313,14 @@
       "onboard_time": 1724998281,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37405,
+      "num": 372841,
+      "word": "丝芙兰15年老员工被裁员",
+      "onboard_time": 1725030320,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37021,
