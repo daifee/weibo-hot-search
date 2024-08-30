@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1724996258877,
+  "endTime": 1724999380171,
   "band_list": [
     {
       "raw_hot": 20756997,
@@ -2235,6 +2235,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 915200,
+      "num": 441364,
+      "word": "你知道子宫有多大吗",
+      "onboard_time": 1724996720,
+      "rank": 20,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 914740,
       "num": 572353,
       "word": "豆得儿官宣分手",
@@ -2641,6 +2649,14 @@
       "onboard_time": 1724755702,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 789146,
+      "num": 668163,
+      "word": "刘国梁把进村名额让给了邱贻可",
+      "onboard_time": 1724994443,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 788485,
@@ -3169,14 +3185,6 @@
       "onboard_time": 1724680523,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 668163,
-      "num": 668163,
-      "word": "刘国梁把进村名额让给了邱贻可",
-      "onboard_time": 1724994443,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 667251,
@@ -3747,6 +3755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 561092,
+      "num": 561092,
+      "word": "35厘米的取卵针",
+      "onboard_time": 1724998581,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 560004,
       "num": 460690,
       "word": "时代峰峻",
@@ -3777,6 +3793,14 @@
       "onboard_time": 1724925561,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 553014,
+      "num": 900149,
+      "word": "付航辣评说唱圈",
+      "onboard_time": 1724994082,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 549838,
@@ -3851,6 +3875,14 @@
       "category": "运动健身,健康医疗"
     },
     {
+      "raw_hot": 529702,
+      "num": 398290,
+      "word": "河南大姐从事新兴职业时薪700元",
+      "onboard_time": 1724994443,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 528562,
       "num": 528562,
       "word": "迪丽热巴若也直播",
@@ -3905,14 +3937,6 @@
       "onboard_time": 1724807243,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 523549,
-      "num": 900149,
-      "word": "付航辣评说唱圈",
-      "onboard_time": 1724994082,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 522799,
@@ -4907,6 +4931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 396729,
+      "num": 551904,
+      "word": "阿如那西装暴徒",
+      "onboard_time": 1724996301,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 394990,
       "num": 394990,
       "word": "TFBOYS祝福三代师弟成团快乐",
@@ -5203,14 +5235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 370092,
-      "num": 370092,
-      "word": "河南大姐从事新兴职业时薪700元",
-      "onboard_time": 1724994443,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 369694,
       "num": 422710,
       "word": "oasis重组",
@@ -5299,6 +5323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 361574,
+      "num": 361574,
+      "word": "王楚钦骑2公里说一点也不累",
+      "onboard_time": 1724997682,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 360827,
       "num": 360827,
       "word": "于正说是杨幂带他玩微博的",
@@ -5315,8 +5347,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 359941,
+      "num": 359941,
+      "word": "柯文哲被带走调查",
+      "onboard_time": 1724997741,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 357861,
-      "num": 357861,
+      "num": 382858,
       "word": "杨幂黑长直学姐感",
       "onboard_time": 1724994323,
       "rank": 27,
@@ -6580,7 +6620,7 @@
     },
     {
       "raw_hot": 286086,
-      "num": 286086,
+      "num": 456963,
       "word": "密室大逃脱6收官上班路透",
       "onboard_time": 1724994681,
       "rank": 45,
@@ -6625,6 +6665,14 @@
       "onboard_time": 1724566999,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284900,
+      "num": 284900,
+      "word": "陈梦手把手教全红婵打乒乓球",
+      "onboard_time": 1724996181,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 284845,
@@ -7249,6 +7297,14 @@
       "onboard_time": 1724913501,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259568,
+      "num": 539564,
+      "word": "代孕操刀医生之一无专业背景",
+      "onboard_time": 1724997741,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259136,
@@ -9083,6 +9139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217043,
+      "num": 373246,
+      "word": "欧阳娜娜替赵小棠接诈骗电话",
+      "onboard_time": 1724997981,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217036,
       "num": 217036,
       "word": "迪丽热巴十年前的微博",
@@ -9161,6 +9225,14 @@
       "onboard_time": 1724581041,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 214778,
+      "num": 369808,
+      "word": "王鹤棣偏偏你最争气",
+      "onboard_time": 1724998101,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 214749,
@@ -9777,6 +9849,14 @@
       "onboard_time": 1724946143,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205214,
+      "num": 261707,
+      "word": "LESSERAFIM新歌",
+      "onboard_time": 1724998522,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 205184,
@@ -10539,6 +10619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195327,
+      "num": 195327,
+      "word": "CRAZY 难听",
+      "onboard_time": 1724999181,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195248,
       "num": 195248,
       "word": "考古的风吹到了王一博",
@@ -10944,6 +11032,14 @@
       "word": "官媒发声称房屋养老金不是房地产税",
       "onboard_time": 1724642541,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188014,
+      "num": 188014,
+      "word": "相机漂流66天后回来开学啦",
+      "onboard_time": 1724997261,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -13859,6 +13955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121256,
+      "num": 548095,
+      "word": "危害极大的非法代孕为何屡禁不止",
+      "onboard_time": 1724997741,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120504,
       "num": 120504,
       "word": "小潘正是爱炫耀的年纪",
@@ -14451,6 +14555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82364,
+      "num": 368498,
+      "word": "喜人奇妙夜 爱赢才会拼",
+      "onboard_time": 1724998760,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 81807,
       "num": 84205,
       "word": "娜扎说做过最丢脸的事情是穷哈",
@@ -14465,6 +14577,14 @@
       "onboard_time": 1724846426,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 80515,
+      "num": 417742,
+      "word": "糟糠之Q",
+      "onboard_time": 1724998881,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 80237,
@@ -15467,6 +15587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57015,
+      "num": 544978,
+      "word": "匠步新行百年特展",
+      "onboard_time": 1724997860,
+      "rank": 11,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 56897,
       "num": 1837101,
       "word": "全国新设立外商投资企业超3万家",
@@ -15955,6 +16083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 45499,
+      "num": 535922,
+      "word": "花1300元租房搬走时被扣2100元押金",
+      "onboard_time": 1724998341,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45289,
       "num": 617258,
       "word": "保安冒充消防支队长进行骗财骗色",
@@ -16299,6 +16435,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 39525,
+      "num": 286958,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1724992942,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39433,
       "num": 362741,
       "word": "比亚迪华为联合开发方程豹智驾方案",
@@ -16377,6 +16521,14 @@
       "onboard_time": 1724936843,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37488,
+      "num": 380066,
+      "word": "四老友群口段子",
+      "onboard_time": 1724998281,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 37044,
@@ -16603,6 +16755,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 32088,
+      "num": 285086,
+      "word": "于适叠穿ootd",
+      "onboard_time": 1724995161,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 31548,
       "num": 1078278,
       "word": "同赏一路繁花共赴一路繁华",
@@ -16777,6 +16937,14 @@
       "onboard_time": 1724736141,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28370,
+      "num": 506907,
+      "word": "途岳新锐实测油耗4.66L",
+      "onboard_time": 1724998042,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 28172,
@@ -17059,6 +17227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18303,
+      "num": 286977,
+      "word": "尹子维 三边坡富商爆改东北英语老师",
+      "onboard_time": 1724999060,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 17814,
       "num": 209213,
       "word": "也门一学校发生战争遗留物爆炸事件",
@@ -17089,14 +17265,6 @@
       "onboard_time": 1724608093,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 16270,
-      "num": 285086,
-      "word": "于适叠穿ootd",
-      "onboard_time": 1724995161,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 15728,

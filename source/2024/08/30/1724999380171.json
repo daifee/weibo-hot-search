@@ -1,0 +1,410 @@
+{
+  "runTime": 1724999380171,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2063503,
+        "num": 2063503,
+        "word": "有家长怒砸小天才手表了",
+        "onboard_time": 1724992763,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 922771,
+        "num": 922771,
+        "word": "韩国女性感谢中国网友为她们发声",
+        "onboard_time": 1724987180,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114879,
+        "num": 712405,
+        "word": "蛟龙号带回海参海绵等5种生物",
+        "onboard_time": 1724991803,
+        "rank": 2,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 697414,
+        "num": 697414,
+        "word": "痞老板发投降书",
+        "onboard_time": 1724974036,
+        "rank": 3,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 645056,
+        "num": 645056,
+        "word": "恋与深空谷子",
+        "onboard_time": 1724994923,
+        "rank": 4,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 582308,
+        "num": 582308,
+        "word": "清华1块钱一碗的白菜粉丝汤",
+        "onboard_time": 1724987542,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 561092,
+        "num": 561092,
+        "word": "35厘米的取卵针",
+        "onboard_time": 1724998581,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553014,
+        "num": 553014,
+        "word": "付航辣评说唱圈",
+        "onboard_time": 1724994082,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396729,
+        "num": 551904,
+        "word": "阿如那西装暴徒",
+        "onboard_time": 1724996301,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121256,
+        "num": 548095,
+        "word": "危害极大的非法代孕为何屡禁不止",
+        "onboard_time": 1724997741,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2409729,
+        "num": 546899,
+        "word": "青岛代孕操刀医生身份",
+        "onboard_time": 1724991202,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57015,
+        "num": 544978,
+        "word": "匠步新行百年特展",
+        "onboard_time": 1724997860,
+        "rank": 11,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 789146,
+        "num": 540938,
+        "word": "刘国梁把进村名额让给了邱贻可",
+        "onboard_time": 1724994443,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259568,
+        "num": 539564,
+        "word": "代孕操刀医生之一无专业背景",
+        "onboard_time": 1724997741,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45499,
+        "num": 535922,
+        "word": "花1300元租房搬走时被扣2100元押金",
+        "onboard_time": 1724998341,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535133,
+        "num": 535133,
+        "word": "大学生每月平均生活费1282元",
+        "onboard_time": 1724984241,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529503,
+        "num": 529503,
+        "word": "孙颖莎王楚钦一组玩游戏",
+        "onboard_time": 1724989462,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28370,
+        "num": 506907,
+        "word": "途岳新锐实测油耗4.66L",
+        "onboard_time": 1724998042,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 323386,
+        "num": 499221,
+        "word": "梁源账号被禁言",
+        "onboard_time": 1724988020,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254677,
+        "num": 456963,
+        "word": "密室大逃脱6收官上班路透",
+        "onboard_time": 1724994681,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 915200,
+        "num": 441364,
+        "word": "你知道子宫有多大吗",
+        "onboard_time": 1724996720,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 80515,
+        "num": 417742,
+        "word": "糟糠之Q",
+        "onboard_time": 1724998881,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 529702,
+        "num": 398290,
+        "word": "河南大姐从事新兴职业时薪700元",
+        "onboard_time": 1724994443,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384249,
+        "num": 384249,
+        "word": "芭莎拍了拍孙颖莎",
+        "onboard_time": 1724984241,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206171,
+        "num": 382858,
+        "word": "杨幂黑长直学姐感",
+        "onboard_time": 1724994323,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37488,
+        "num": 380066,
+        "word": "四老友群口段子",
+        "onboard_time": 1724998281,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217043,
+        "num": 373246,
+        "word": "欧阳娜娜替赵小棠接诈骗电话",
+        "onboard_time": 1724997981,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214778,
+        "num": 369808,
+        "word": "王鹤棣偏偏你最争气",
+        "onboard_time": 1724998101,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82364,
+        "num": 368498,
+        "word": "喜人奇妙夜 爱赢才会拼",
+        "onboard_time": 1724998760,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54662,
+        "num": 363184,
+        "word": "阿维塔07全球首秀",
+        "onboard_time": 1724994202,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 361749,
+        "num": 361749,
+        "word": "痞老板道歉",
+        "onboard_time": 1724976920,
+        "rank": 30,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 361574,
+        "num": 361574,
+        "word": "王楚钦骑2公里说一点也不累",
+        "onboard_time": 1724997682,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 359941,
+        "num": 359941,
+        "word": "柯文哲被带走调查",
+        "onboard_time": 1724997741,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 305700,
+        "num": 305700,
+        "word": "四大国乙",
+        "onboard_time": 1724990843,
+        "rank": 33,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 18303,
+        "num": 286977,
+        "word": "尹子维 三边坡富商爆改东北英语老师",
+        "onboard_time": 1724999060,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39525,
+        "num": 286958,
+        "word": "喜人奇妙夜",
+        "onboard_time": 1724992942,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286956,
+        "num": 286956,
+        "word": "律师解读青岛代孕事件",
+        "onboard_time": 1724992163,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284900,
+        "num": 284900,
+        "word": "陈梦手把手教全红婵打乒乓球",
+        "onboard_time": 1724996181,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266472,
+        "num": 266472,
+        "word": "绘旅人开战痞老板",
+        "onboard_time": 1724938523,
+        "rank": 38,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 205214,
+        "num": 261707,
+        "word": "LESSERAFIM新歌",
+        "onboard_time": 1724998522,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 261050,
+        "num": 261050,
+        "word": "米哈游创始人罕见发声",
+        "onboard_time": 1724992102,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 32088,
+        "num": 240124,
+        "word": "于适叠穿ootd",
+        "onboard_time": 1724995161,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 221250,
+        "num": 221250,
+        "word": "马龙樊振东用锅盖锅铲和青少年对打",
+        "onboard_time": 1724995582,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206513,
+        "num": 206513,
+        "word": "河南警方悬赏10万元抓捕赵子龙",
+        "onboard_time": 1724991622,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197107,
+        "num": 197107,
+        "word": "真有艺人敢走粘鼠板红毯啊",
+        "onboard_time": 1724989402,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196372,
+        "num": 196372,
+        "word": "只有派克特一个人信了",
+        "onboard_time": 1724974158,
+        "rank": 45,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 195327,
+        "num": 195327,
+        "word": "CRAZY 难听",
+        "onboard_time": 1724999181,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189371,
+        "num": 189371,
+        "word": "娜扎 我只是觉得你爱上我了",
+        "onboard_time": 1724990600,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188345,
+        "num": 188345,
+        "word": "张翰新剧加入老四阵营",
+        "onboard_time": 1724996061,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188014,
+        "num": 188014,
+        "word": "相机漂流66天后回来开学啦",
+        "onboard_time": 1724997261,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记对留学人员工作高度重视#"
+    }
+  }
+}
