@@ -1,6 +1,6 @@
 {
   "startTime": 1724948777601,
-  "endTime": 1724988178152,
+  "endTime": 1724989068399,
   "band_list": [
     {
       "raw_hot": 8843262,
@@ -41,6 +41,14 @@
       "onboard_time": 1724941344,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1639316,
+      "num": 1639316,
+      "word": "大学生每月平均生活费1282元",
+      "onboard_time": 1724984241,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1567066,
@@ -99,14 +107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1247262,
-      "num": 1247262,
-      "word": "大学生每月平均生活费1282元",
-      "onboard_time": 1724984241,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1146320,
       "num": 1146320,
       "word": "她的子宫不能是商品",
@@ -139,20 +139,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1025817,
+      "num": 1025817,
+      "word": "地下非法代孕发展或超出以往认知",
+      "onboard_time": 1724986041,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1004649,
       "num": 1004649,
       "word": "黄子韬还得徐艺洋来治",
       "onboard_time": 1724973016,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 986576,
-      "num": 986576,
-      "word": "地下非法代孕发展或超出以往认知",
-      "onboard_time": 1724986041,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 965838,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 794861,
-      "num": 535634,
+      "num": 657337,
       "word": "上班一定要穿的成熟",
       "onboard_time": 1724982260,
       "rank": 35,
@@ -211,12 +211,28 @@
       "category": "音乐,游戏"
     },
     {
+      "raw_hot": 754182,
+      "num": 754182,
+      "word": "青岛代孕",
+      "onboard_time": 1724988441,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 738507,
       "num": 738507,
       "word": "恋与制作人 跳梁小丑不足为惧",
       "onboard_time": 1724973016,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 731311,
+      "num": 731311,
+      "word": "韩国女性感谢中国网友为她们发声",
+      "onboard_time": 1724987180,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 701064,
@@ -252,7 +268,7 @@
     },
     {
       "raw_hot": 651248,
-      "num": 643571,
+      "num": 696069,
       "word": "乃万",
       "onboard_time": 1724980340,
       "rank": 16,
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 613803,
-      "num": 662208,
+      "num": 727591,
       "word": "只有派克特一个人信了",
       "onboard_time": 1724974158,
       "rank": 33,
@@ -297,6 +313,14 @@
       "onboard_time": 1724981601,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 559120,
+      "num": 742588,
+      "word": "梁源账号被禁言",
+      "onboard_time": 1724988020,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 538633,
@@ -379,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 380655,
-      "num": 380655,
-      "word": "韩国女性感谢中国网友为她们发声",
-      "onboard_time": 1724987180,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 367398,
       "num": 367398,
       "word": "iPhone16开始印度量产",
@@ -427,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352887,
+      "num": 352887,
+      "word": "清华1块钱一碗的白菜粉丝汤",
+      "onboard_time": 1724987542,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 346960,
       "num": 346960,
       "word": "女性一生只能排出300多个卵子",
@@ -457,6 +481,14 @@
       "onboard_time": 1724944644,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292030,
+      "num": 655611,
+      "word": "当地居民称11元刀削面并不贵",
+      "onboard_time": 1724985981,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286010,
@@ -499,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 269707,
+      "num": 318014,
+      "word": "魏哲鸣 这波冲我来的",
+      "onboard_time": 1724986281,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269394,
       "num": 269394,
       "word": "乙游",
@@ -521,6 +561,14 @@
       "onboard_time": 1724975899,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 261531,
+      "num": 261531,
+      "word": "专四成绩",
+      "onboard_time": 1724987901,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 257138,
@@ -659,14 +707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213695,
-      "num": 283236,
-      "word": "魏哲鸣 这波冲我来的",
-      "onboard_time": 1724986281,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 207408,
       "num": 207408,
       "word": "老人走了 家就散了",
@@ -684,7 +724,7 @@
     },
     {
       "raw_hot": 203786,
-      "num": 242173,
+      "num": 312519,
       "word": "易烊千玺说自己性格更适合幕后工作",
       "onboard_time": 1724985619,
       "rank": 45,
@@ -699,22 +739,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 202299,
-      "num": 202299,
-      "word": "专四成绩",
-      "onboard_time": 1724987901,
-      "rank": 42,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 200538,
-      "num": 655611,
-      "word": "当地居民称11元刀削面并不贵",
-      "onboard_time": 1724985981,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197423,
       "num": 197423,
       "word": "易烊千玺看自己十岁演戏绷不住了",
@@ -723,12 +747,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196006,
-      "num": 196006,
-      "word": "清华1块钱一碗的白菜粉丝汤",
-      "onboard_time": 1724987542,
-      "rank": 45,
-      "category": "美食"
+      "raw_hot": 196936,
+      "num": 929312,
+      "word": "女性安全不分国界",
+      "onboard_time": 1724986581,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195991,
@@ -737,14 +761,6 @@
       "onboard_time": 1724946323,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 193126,
-      "num": 197481,
-      "word": "梁源账号被禁言",
-      "onboard_time": 1724988020,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 191058,
@@ -801,6 +817,14 @@
       "onboard_time": 1724919022,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180466,
+      "num": 180466,
+      "word": "内地奥运健儿访港直播",
+      "onboard_time": 1724988383,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 179292,
@@ -912,14 +936,6 @@
       "word": "路虎女司机逆行插队追尾还打人",
       "onboard_time": 1724974098,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156013,
-      "num": 929312,
-      "word": "女性安全不分国界",
-      "onboard_time": 1724986581,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -1051,6 +1067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 90543,
+      "num": 685370,
+      "word": "20元一节课穷鬼舞室挤满年轻人",
+      "onboard_time": 1724987302,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81807,
       "num": 84205,
       "word": "娜扎说做过最丢脸的事情是穷哈",
@@ -1091,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65705,
+      "num": 865328,
+      "word": "网店宣称一天出审计报告数据随意编",
+      "onboard_time": 1724987601,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64775,
       "num": 77360,
       "word": "日遗化武仍毒害我国生态环境",
@@ -1123,20 +1155,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 58517,
-      "num": 559206,
-      "word": "20元一节课穷鬼舞室挤满年轻人",
-      "onboard_time": 1724987302,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45184,
-      "num": 865328,
-      "word": "网店宣称一天出审计报告数据随意编",
-      "onboard_time": 1724987601,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 58721,
+      "num": 221606,
+      "word": "极氪7X售价23.99万元起",
+      "onboard_time": 1724988742,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 44782,
@@ -1148,11 +1172,19 @@
     },
     {
       "raw_hot": 37836,
-      "num": 1597514,
+      "num": 1615925,
       "word": "一组数据透视中国能源转型",
       "onboard_time": 1724936843,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35372,
+      "num": 220867,
+      "word": "护肤先理清底层逻辑",
+      "onboard_time": 1724986460,
+      "rank": 39,
+      "category": "美妆"
     },
     {
       "raw_hot": 29623,
@@ -1185,14 +1217,6 @@
       "onboard_time": 1724960291,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24054,
-      "num": 220154,
-      "word": "护肤先理清底层逻辑",
-      "onboard_time": 1724986460,
-      "rank": 39,
-      "category": "美妆"
     },
     {
       "raw_hot": 19918,
