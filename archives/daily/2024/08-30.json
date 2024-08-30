@@ -1,6 +1,6 @@
 {
   "startTime": 1724948777601,
-  "endTime": 1725006427026,
+  "endTime": 1725007221717,
   "band_list": [
     {
       "raw_hot": 8843262,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1425399,
+      "num": 420980,
+      "word": "英语专八范文 代孕",
+      "onboard_time": 1725003560,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1409210,
       "num": 1409210,
       "word": "鲁BQP800",
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 1374201,
-      "num": 361687,
+      "num": 417148,
       "word": "痞老板发长文道歉",
       "onboard_time": 1725003081,
       "rank": 39,
@@ -175,14 +183,6 @@
       "num": 792014,
       "word": "暗访地下代孕市场",
       "onboard_time": 1724938044,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1303215,
-      "num": 353410,
-      "word": "英语专八范文 代孕",
-      "onboard_time": 1725003560,
       "rank": 11,
       "category": "社会新闻"
     },
@@ -249,6 +249,14 @@
       "onboard_time": 1724986041,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1007117,
+      "num": 566327,
+      "word": "吴奇隆退赛",
+      "onboard_time": 1725003920,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 1004649,
@@ -452,11 +460,19 @@
     },
     {
       "raw_hot": 617023,
-      "num": 332435,
+      "num": 403277,
       "word": "痞老板diss杀不死",
       "onboard_time": 1725003380,
       "rank": 15,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 615451,
+      "num": 615451,
+      "word": "亚锦赛名单",
+      "onboard_time": 1725005240,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 613803,
@@ -481,14 +497,6 @@
       "onboard_time": 1724981601,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 567159,
-      "num": 326055,
-      "word": "吴奇隆退赛",
-      "onboard_time": 1725003920,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 566408,
@@ -579,12 +587,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 441196,
+      "num": 441196,
+      "word": "李佳琦上课成功 早安接收失败",
+      "onboard_time": 1725003560,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 436110,
       "num": 436110,
       "word": "孙颖莎芭莎银十预告",
       "onboard_time": 1724986281,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 424057,
+      "num": 424057,
+      "word": "高校军训硬核得像军事大片",
+      "onboard_time": 1725006681,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 420776,
@@ -657,14 +681,6 @@
       "onboard_time": 1724935702,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 362597,
-      "num": 362597,
-      "word": "亚锦赛名单",
-      "onboard_time": 1725005240,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 361574,
@@ -753,14 +769,6 @@
       "onboard_time": 1724995283,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 317365,
-      "num": 317365,
-      "word": "李佳琦上课成功 早安接收失败",
-      "onboard_time": 1725003560,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 316857,
@@ -907,6 +915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 264386,
+      "num": 237559,
+      "word": "全红婵又水灵灵喜提乌龟",
+      "onboard_time": 1725005721,
+      "rank": 32,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 262748,
       "num": 262748,
       "word": "乙游大团结",
@@ -929,6 +945,14 @@
       "onboard_time": 1725004521,
       "rank": 23,
       "category": "游戏,作品衍生"
+    },
+    {
+      "raw_hot": 260798,
+      "num": 260798,
+      "word": "新疆一大批沙漠螃蟹上市了",
+      "onboard_time": 1725002361,
+      "rank": 45,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 259039,
@@ -1035,14 +1059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 245552,
-      "num": 245552,
-      "word": "新疆一大批沙漠螃蟹上市了",
-      "onboard_time": 1725002361,
-      "rank": 45,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 242594,
       "num": 223559,
       "word": "宣璐女子50米游泳冠军",
@@ -1123,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227120,
+      "num": 227120,
+      "word": "白色橄榄树",
+      "onboard_time": 1725005421,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226730,
       "num": 373246,
       "word": "欧阳娜娜替赵小棠接诈骗电话",
@@ -1187,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219376,
+      "num": 219376,
+      "word": "美国网红步道核辐射堪比切尔诺贝利",
+      "onboard_time": 1725003441,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 216181,
       "num": 216181,
       "word": "全红婵霍启刚热聊",
@@ -1209,14 +1241,6 @@
       "onboard_time": 1724979741,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214622,
-      "num": 214622,
-      "word": "白色橄榄树",
-      "onboard_time": 1725005421,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 213093,
@@ -1257,14 +1281,6 @@
       "onboard_time": 1724990482,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207643,
-      "num": 207643,
-      "word": "全红婵又水灵灵喜提乌龟",
-      "onboard_time": 1725005721,
-      "rank": 32,
-      "category": "综艺,体育"
     },
     {
       "raw_hot": 207408,
@@ -1395,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187440,
+      "num": 191974,
+      "word": "华晨宇演唱会回家的诱惑",
+      "onboard_time": 1725006741,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 184854,
       "num": 184854,
       "word": "哈圈",
@@ -1475,6 +1499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178370,
+      "num": 178370,
+      "word": "欧阳娜娜被曝恋情后首现身",
+      "onboard_time": 1725006559,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174861,
       "num": 174861,
       "word": "明日方舟",
@@ -1489,14 +1521,6 @@
       "onboard_time": 1724980881,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 172724,
-      "num": 172724,
-      "word": "美国网红步道核辐射堪比切尔诺贝利",
-      "onboard_time": 1725003441,
-      "rank": 41,
-      "category": "科学科普"
     },
     {
       "raw_hot": 172355,
@@ -1553,6 +1577,14 @@
       "onboard_time": 1724858665,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164144,
+      "num": 164144,
+      "word": "黄薇给慕胥辞做的造型",
+      "onboard_time": 1725006381,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 164086,
@@ -1659,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144271,
+      "num": 144271,
+      "word": "我国育龄夫妇不孕不育者超5000万",
+      "onboard_time": 1725006681,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143101,
       "num": 143101,
       "word": "中国队残奥首金",
@@ -1673,14 +1713,6 @@
       "onboard_time": 1724995823,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141622,
-      "num": 141622,
-      "word": "黄薇给慕胥辞做的造型",
-      "onboard_time": 1725006381,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 141549,
@@ -1851,6 +1883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79416,
+      "num": 666575,
+      "word": "一组图给要开学的人回回血",
+      "onboard_time": 1725005240,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78938,
       "num": 84193,
       "word": "求王一博韩语返场教程",
@@ -1960,14 +2000,6 @@
       "word": "中戏表演系主任谈演员被挑选",
       "onboard_time": 1724958432,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62657,
-      "num": 666575,
-      "word": "一组图给要开学的人回回血",
-      "onboard_time": 1725005240,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
