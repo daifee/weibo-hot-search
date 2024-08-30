@@ -1,6 +1,6 @@
 {
   "startTime": 1725035044218,
-  "endTime": 1725060127539,
+  "endTime": 1725060896626,
   "band_list": [
     {
       "raw_hot": 3132358,
@@ -35,8 +35,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 481462,
-      "num": 481462,
+      "raw_hot": 511640,
+      "num": 511640,
       "word": "董事长之子聚餐泄密5人被罚2300万",
       "onboard_time": 1725024741,
       "rank": 16,
@@ -115,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 318111,
+      "num": 318111,
+      "word": "唐山地震",
+      "onboard_time": 1725059235,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316285,
       "num": 316285,
       "word": "华晨宇打响内娱反黄牛第一枪",
@@ -129,6 +137,22 @@
       "onboard_time": 1725015201,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293772,
+      "num": 293772,
+      "word": "西游记中最善良的妖精",
+      "onboard_time": 1725053592,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 292438,
+      "num": 292438,
+      "word": "台检方清晨突击搜索柯文哲住处",
+      "onboard_time": 1725032363,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 282804,
@@ -147,14 +171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 281648,
-      "num": 281648,
-      "word": "台检方清晨突击搜索柯文哲住处",
-      "onboard_time": 1725032363,
-      "rank": 23,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 276030,
       "num": 276030,
       "word": "EXO月饼",
@@ -169,14 +185,6 @@
       "onboard_time": 1725034519,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 271005,
-      "num": 271005,
-      "word": "西游记中最善良的妖精",
-      "onboard_time": 1725053592,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 255318,
@@ -220,11 +228,27 @@
     },
     {
       "raw_hot": 219600,
-      "num": 186087,
+      "num": 211873,
       "word": "王雅繁晋级美网16强",
       "onboard_time": 1725047592,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212301,
+      "num": 212301,
+      "word": "黄子韬恋爱前对粉丝说的话",
+      "onboard_time": 1725059416,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 212142,
+      "num": 200417,
+      "word": "打人女司机被拘10天网友为何不满",
+      "onboard_time": 1725026542,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205427,
@@ -233,14 +257,6 @@
       "onboard_time": 1725027382,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 200417,
-      "num": 200417,
-      "word": "打人女司机被拘10天网友为何不满",
-      "onboard_time": 1725026542,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197719,
@@ -259,20 +275,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192483,
+      "num": 192483,
+      "word": "丝芙兰15年老员工被裁员",
+      "onboard_time": 1725030320,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192275,
       "num": 192275,
       "word": "孙颖莎港澳行期还在抽空跑步",
       "onboard_time": 1725026302,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186078,
-      "num": 186078,
-      "word": "丝芙兰15年老员工被裁员",
-      "onboard_time": 1725030320,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171408,
@@ -337,14 +353,6 @@
       "onboard_time": 1725036498,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136083,
-      "num": 136083,
-      "word": "唐山地震",
-      "onboard_time": 1725059235,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134262,
@@ -428,7 +436,7 @@
     },
     {
       "raw_hot": 102035,
-      "num": 102035,
+      "num": 115716,
       "word": "李诞在喜剧综艺里有多重要",
       "onboard_time": 1725037815,
       "rank": 45,
@@ -459,14 +467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96935,
-      "num": 96935,
-      "word": "黄子韬恋爱前对粉丝说的话",
-      "onboard_time": 1725059416,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 95288,
       "num": 143426,
       "word": "戴荃 悟空",
@@ -481,6 +481,14 @@
       "onboard_time": 1725022100,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93793,
+      "num": 93793,
+      "word": "孙颖莎陈芋汐自拍合照",
+      "onboard_time": 1725060196,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 92435,
@@ -499,12 +507,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 68167,
-      "num": 68167,
+      "raw_hot": 73856,
+      "num": 80157,
       "word": "下一战歌手 尬聊",
       "onboard_time": 1725050951,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 71045,
+      "num": 71045,
+      "word": "郑钦文再战奥运决赛对手",
+      "onboard_time": 1725060256,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 61162,
+      "num": 61162,
+      "word": "商竣程vs鲁德",
+      "onboard_time": 1725060017,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 57933,
@@ -515,20 +539,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 52352,
-      "num": 57933,
-      "word": "爱奇艺和腾讯为什么要争脱口秀",
-      "onboard_time": 1725038536,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 56164,
+      "num": 57930,
+      "word": "韩女性深陷恐慌22万人被色情片AI换脸",
+      "onboard_time": 1725051432,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 51513,
+      "raw_hot": 55026,
       "num": 57932,
       "word": "宝马店门前来了一匹真宝马",
       "onboard_time": 1725060075,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 53607,
+      "num": 57933,
+      "word": "爱奇艺和腾讯为什么要争脱口秀",
+      "onboard_time": 1725038536,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 50448,
@@ -545,14 +577,6 @@
       "onboard_time": 1725039315,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 45743,
-      "num": 57930,
-      "word": "韩女性深陷恐慌22万人被色情片AI换脸",
-      "onboard_time": 1725051432,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 45614,
@@ -579,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40256,
-      "num": 57928,
-      "word": "商竣程vs鲁德",
-      "onboard_time": 1725060017,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 39873,
       "num": 39873,
       "word": "檀健次多见一次巡回演唱会",
@@ -601,6 +617,14 @@
       "onboard_time": 1725041354,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 34023,
+      "num": 212387,
+      "word": "全世界最可爱的大脸",
+      "onboard_time": 1725060196,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 31907,
