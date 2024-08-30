@@ -1,6 +1,6 @@
 {
   "startTime": 1724948777601,
-  "endTime": 1724999380171,
+  "endTime": 1725000176881,
   "band_list": [
     {
       "raw_hot": 8843262,
@@ -161,6 +161,14 @@
       "onboard_time": 1724987542,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1173053,
+      "num": 1173053,
+      "word": "35厘米的取卵针",
+      "onboard_time": 1724998581,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1146320,
@@ -411,14 +419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 561092,
-      "num": 561092,
-      "word": "35厘米的取卵针",
-      "onboard_time": 1724998581,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 553014,
       "num": 900149,
       "word": "付航辣评说唱圈",
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 529702,
-      "num": 398290,
+      "num": 428630,
       "word": "河南大姐从事新兴职业时薪700元",
       "onboard_time": 1724994443,
       "rank": 32,
@@ -580,7 +580,7 @@
     },
     {
       "raw_hot": 359941,
-      "num": 359941,
+      "num": 430645,
       "word": "柯文哲被带走调查",
       "onboard_time": 1724997741,
       "rank": 32,
@@ -627,6 +627,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332542,
+      "num": 539564,
+      "word": "代孕操刀医生之一无专业背景",
+      "onboard_time": 1724997741,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327795,
+      "num": 670383,
+      "word": "律师解读青岛代孕事件",
+      "onboard_time": 1724992163,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325393,
       "num": 929312,
       "word": "女性安全不分国界",
@@ -643,10 +659,26 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 314152,
-      "num": 670383,
-      "word": "律师解读青岛代孕事件",
-      "onboard_time": 1724992163,
+      "raw_hot": 316857,
+      "num": 456963,
+      "word": "密室大逃脱6收官上班路透",
+      "onboard_time": 1724994681,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 314552,
+      "num": 351751,
+      "word": "沈月李雪琴退赛",
+      "onboard_time": 1724999901,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 305077,
+      "num": 305077,
+      "word": "上官正义称青岛代孕公司法人已被抓获",
+      "onboard_time": 1724999719,
       "rank": 32,
       "category": "社会新闻"
     },
@@ -683,20 +715,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291607,
+      "num": 291607,
+      "word": "陈梦手把手教全红婵打乒乓球",
+      "onboard_time": 1724996181,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 290665,
       "num": 290665,
       "word": "全红婵偷吃葡萄",
       "onboard_time": 1724993062,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 286086,
-      "num": 456963,
-      "word": "密室大逃脱6收官上班路透",
-      "onboard_time": 1724994681,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 286010,
@@ -707,20 +739,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 284900,
-      "num": 284900,
-      "word": "陈梦手把手教全红婵打乒乓球",
-      "onboard_time": 1724996181,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 283372,
       "num": 283372,
       "word": "大一新生宿舍的第一次矛盾",
       "onboard_time": 1724946863,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 281067,
+      "num": 548095,
+      "word": "危害极大的非法代孕为何屡禁不止",
+      "onboard_time": 1724997741,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279170,
@@ -795,14 +827,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 259568,
-      "num": 539564,
-      "word": "代孕操刀医生之一无专业背景",
-      "onboard_time": 1724997741,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 259039,
       "num": 259039,
       "word": "马龙樊振东用锅盖锅铲和青少年对打",
@@ -825,6 +849,14 @@
       "onboard_time": 1724981002,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 256220,
+      "num": 329071,
+      "word": "CRAZY 难听",
+      "onboard_time": 1724999181,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 254200,
@@ -931,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230668,
+      "num": 230668,
+      "word": "青岛代孕事件追踪",
+      "onboard_time": 1724999660,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230592,
       "num": 230592,
       "word": "腾讯网易联手了",
@@ -952,6 +992,14 @@
       "word": "张博洋 我没有走我一直都在这",
       "onboard_time": 1724968572,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 226730,
+      "num": 373246,
+      "word": "欧阳娜娜替赵小棠接诈骗电话",
+      "onboard_time": 1724997981,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -987,20 +1035,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 219867,
+      "num": 219867,
+      "word": "张艺谋黄景瑜 热情的导演局促的他",
+      "onboard_time": 1724999541,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219629,
       "num": 219629,
       "word": "樊振东被叫小胖马龙憋笑",
       "onboard_time": 1724984420,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 217043,
-      "num": 373246,
-      "word": "欧阳娜娜替赵小棠接诈骗电话",
-      "onboard_time": 1724997981,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 216181,
@@ -1131,12 +1179,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195327,
-      "num": 195327,
-      "word": "CRAZY 难听",
-      "onboard_time": 1724999181,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 195544,
+      "num": 195544,
+      "word": "相机漂流66天后回来开学啦",
+      "onboard_time": 1724997261,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193711,
+      "num": 389067,
+      "word": "如厕回来车丢了在1公里外撞稀烂",
+      "onboard_time": 1724999779,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191058,
@@ -1153,14 +1209,6 @@
       "onboard_time": 1724982440,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 188014,
-      "num": 188014,
-      "word": "相机漂流66天后回来开学啦",
-      "onboard_time": 1724997261,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184854,
@@ -1443,14 +1491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 121256,
-      "num": 548095,
-      "word": "危害极大的非法代孕为何屡禁不止",
-      "onboard_time": 1724997741,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120504,
       "num": 120504,
       "word": "小潘正是爱炫耀的年纪",
@@ -1540,10 +1580,18 @@
     },
     {
       "raw_hot": 80515,
-      "num": 417742,
+      "num": 431939,
       "word": "糟糠之Q",
       "onboard_time": 1724998881,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 79007,
+      "num": 379269,
+      "word": "傅首尔夹着尾巴做妈妈",
+      "onboard_time": 1724999660,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -1601,6 +1649,14 @@
       "onboard_time": 1724974519,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66109,
+      "num": 535922,
+      "word": "花1300元租房搬走时被扣2100元押金",
+      "onboard_time": 1724998341,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65705,
@@ -1715,14 +1771,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 45499,
-      "num": 535922,
-      "word": "花1300元租房搬走时被扣2100元押金",
-      "onboard_time": 1724998341,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44782,
       "num": 242074,
       "word": "deepfake是一种换脸技术",
@@ -1771,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33562,
+      "num": 506907,
+      "word": "途岳新锐实测油耗4.66L",
+      "onboard_time": 1724998042,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 32088,
       "num": 285086,
       "word": "于适叠穿ootd",
@@ -1803,12 +1859,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 28370,
-      "num": 506907,
-      "word": "途岳新锐实测油耗4.66L",
-      "onboard_time": 1724998042,
-      "rank": 17,
-      "category": "汽车"
+      "raw_hot": 28479,
+      "num": 327911,
+      "word": "尹子维 三边坡富商爆改东北英语老师",
+      "onboard_time": 1724999060,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 27737,
@@ -1825,14 +1881,6 @@
       "onboard_time": 1724962811,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18303,
-      "num": 286977,
-      "word": "尹子维 三边坡富商爆改东北英语老师",
-      "onboard_time": 1724999060,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 12607,
