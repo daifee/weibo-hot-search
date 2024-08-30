@@ -1,6 +1,6 @@
 {
   "startTime": 1724948777601,
-  "endTime": 1725010576912,
+  "endTime": 1725013328855,
   "band_list": [
     {
       "raw_hot": 8843262,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2685723,
-      "num": 665259,
+      "num": 810215,
       "word": "痞老板点名江奈生小丑subs",
       "onboard_time": 1725005482,
       "rank": 3,
@@ -121,6 +121,14 @@
       "onboard_time": 1724980220,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1543412,
+      "num": 1543412,
+      "word": "樊振东举着潘展乐的手打招呼",
+      "onboard_time": 1725008240,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 1535281,
@@ -267,6 +275,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1047741,
+      "num": 1047741,
+      "word": "阿里巴巴全面停止二选一垄断行为",
+      "onboard_time": 1725008060,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 1033295,
+      "num": 318485,
+      "word": "李阳称黑神话悟空爆火是民族悲哀",
+      "onboard_time": 1725010401,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1025817,
       "num": 1025817,
       "word": "地下非法代孕发展或超出以往认知",
@@ -297,6 +321,14 @@
       "onboard_time": 1724943746,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 964893,
+      "num": 964893,
+      "word": "全妹挽着马龙胳膊",
+      "onboard_time": 1725008480,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 957401,
@@ -403,14 +435,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 710912,
-      "num": 710912,
-      "word": "阿里巴巴全面停止二选一垄断行为",
-      "onboard_time": 1725008060,
-      "rank": 3,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 701064,
       "num": 960756,
       "word": "幸会嘻哈延期",
@@ -425,14 +449,6 @@
       "onboard_time": 1724943025,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 689680,
-      "num": 689680,
-      "word": "全妹挽着马龙胳膊",
-      "onboard_time": 1725008480,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 688672,
@@ -451,19 +467,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 671028,
-      "num": 426275,
-      "word": "樊振东举着潘展乐的手打招呼",
-      "onboard_time": 1725008240,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 667251,
       "num": 1079174,
       "word": "真有艺人敢走粘鼠板红毯啊",
       "onboard_time": 1724989402,
       "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 655963,
+      "num": 655963,
+      "word": "郎平说徐梦洁腿部肌肉很漂亮",
+      "onboard_time": 1725009561,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -635,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 444440,
+      "num": 307623,
+      "word": "孙颖莎的新挥手方式",
+      "onboard_time": 1725010580,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 441196,
       "num": 441196,
       "word": "李佳琦上课成功 早安接收失败",
@@ -665,6 +689,14 @@
       "onboard_time": 1725006681,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 423725,
+      "num": 423725,
+      "word": "谭瑞松被查",
+      "onboard_time": 1725010520,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 420776,
@@ -819,12 +851,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336925,
+      "num": 336925,
+      "word": "BLG对战WBG",
+      "onboard_time": 1725004040,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 336672,
       "num": 670383,
       "word": "律师解读青岛代孕事件",
       "onboard_time": 1724992163,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328214,
+      "num": 328214,
+      "word": "姜贞羽云参与了艺术体操",
+      "onboard_time": 1725009741,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 325393,
@@ -859,22 +907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 316270,
-      "num": 316270,
-      "word": "李阳称黑神话悟空爆火是民族悲哀",
-      "onboard_time": 1725010401,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 311006,
-      "num": 311006,
-      "word": "姜贞羽云参与了艺术体操",
-      "onboard_time": 1725009741,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 310718,
       "num": 310718,
       "word": "痞老板承认想蹭流量",
@@ -891,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301644,
+      "num": 301644,
+      "word": "王子奇偶遇李耕耘",
+      "onboard_time": 1725013161,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 299476,
       "num": 299476,
       "word": "TFBOYS祝福三代师弟成团快乐",
@@ -899,20 +939,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297148,
+      "num": 297148,
+      "word": "樊振东被当面叫咚咚大王",
+      "onboard_time": 1725011182,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 296597,
       "num": 938307,
       "word": "学校回应饭卡充值至少1000元",
       "onboard_time": 1724990183,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 295446,
-      "num": 295446,
-      "word": "郎平说徐梦洁腿部肌肉很漂亮",
-      "onboard_time": 1725009561,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 292058,
@@ -1001,6 +1041,14 @@
       "onboard_time": 1724941764,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 267175,
+      "num": 267175,
+      "word": "王楚钦一上台把台子给踩塌了",
+      "onboard_time": 1725008839,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 266796,
@@ -1123,12 +1171,12 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 250978,
-      "num": 250978,
-      "word": "BLG对战WBG",
-      "onboard_time": 1725004040,
-      "rank": 35,
-      "category": "电竞"
+      "raw_hot": 249576,
+      "num": 249576,
+      "word": "谁家研究生宿舍是酒店啊",
+      "onboard_time": 1725012081,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 249081,
@@ -1193,6 +1241,14 @@
       "onboard_time": 1725005421,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235917,
+      "num": 235917,
+      "word": "全红婵孙颖莎等运动员太平山顶合影",
+      "onboard_time": 1725011000,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 235733,
@@ -1387,14 +1443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 210186,
-      "num": 210186,
-      "word": "王楚钦一上台把台子给踩塌了",
-      "onboard_time": 1725008839,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 207408,
       "num": 207408,
       "word": "老人走了 家就散了",
@@ -1443,6 +1491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 204902,
+      "num": 204902,
+      "word": "福宝吃东西耳朵也不闲着",
+      "onboard_time": 1725011241,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 204732,
       "num": 204732,
       "word": "Tarzan婕拉三杀",
@@ -1457,6 +1513,14 @@
       "onboard_time": 1724994744,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204226,
+      "num": 204226,
+      "word": "BLG手握三个赛点",
+      "onboard_time": 1725012800,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 203786,
@@ -1499,6 +1563,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 197542,
+      "num": 425273,
+      "word": "医院官网已无代孕操刀医生信息",
+      "onboard_time": 1725010340,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197433,
       "num": 197433,
       "word": "2024乒乓球亚洲锦标赛",
@@ -1520,6 +1592,14 @@
       "word": "徐嘉余晒合照拍到张雨霏打哈欠",
       "onboard_time": 1724946323,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 195611,
+      "num": 195611,
+      "word": "樊振东潘展乐盛李豪同框",
+      "onboard_time": 1725010460,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -1545,6 +1625,14 @@
       "onboard_time": 1725010221,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192570,
+      "num": 192570,
+      "word": "十天之后 张大大团队",
+      "onboard_time": 1725010881,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 192449,
@@ -1593,6 +1681,14 @@
       "onboard_time": 1725009021,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187493,
+      "num": 187493,
+      "word": "电视剧流光引开播",
+      "onboard_time": 1725012320,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 187440,
@@ -1699,14 +1795,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 174215,
-      "num": 174215,
-      "word": "樊振东潘展乐盛李豪同框",
-      "onboard_time": 1725010460,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 172355,
       "num": 172355,
       "word": "nobody近期明信片",
@@ -1771,6 +1859,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 164868,
+      "num": 164868,
+      "word": "青岛涉代孕医生称职业生涯完了",
+      "onboard_time": 1725013219,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164086,
       "num": 164086,
       "word": "迪丽热巴娇韵诗直播",
@@ -1803,6 +1899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158721,
+      "num": 158721,
+      "word": "BLG下路",
+      "onboard_time": 1725012081,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 156791,
       "num": 156791,
       "word": "张雨霏回复徐嘉余",
@@ -1832,14 +1936,6 @@
       "word": "女子花2万割双眼皮控诉成了悲伤蛙",
       "onboard_time": 1724915001,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152806,
-      "num": 152806,
-      "word": "谭瑞松被查",
-      "onboard_time": 1725010520,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -2076,7 +2172,7 @@
     },
     {
       "raw_hot": 79416,
-      "num": 698199,
+      "num": 1042606,
       "word": "一组图给要开学的人回回血",
       "onboard_time": 1725005240,
       "rank": 2,
@@ -2089,6 +2185,14 @@
       "onboard_time": 1724969293,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 78782,
+      "num": 366013,
+      "word": "性别暴力下女性面临的隐秘围猎",
+      "onboard_time": 1725011841,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78539,
@@ -2307,11 +2411,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42343,
-      "num": 425273,
-      "word": "医院官网已无代孕操刀医生信息",
-      "onboard_time": 1725010340,
-      "rank": 13,
+      "raw_hot": 39658,
+      "num": 413489,
+      "word": "AI换脸技术存在被滥用风险",
+      "onboard_time": 1725012741,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2363,6 +2467,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 34506,
+      "num": 165254,
+      "word": "被一场海边live硬控",
+      "onboard_time": 1725013101,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 34493,
       "num": 386984,
       "word": "泸沽湖景区拦截省道收费称防逃票",
@@ -2375,6 +2487,14 @@
       "num": 574381,
       "word": "八戒究竟是黑毛猪还是白毛猪",
       "onboard_time": 1724995941,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33411,
+      "num": 326556,
+      "word": "药物成瘾者中不少人只有十几岁",
+      "onboard_time": 1725012439,
       "rank": 19,
       "category": "社会新闻"
     },
