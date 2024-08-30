@@ -1,0 +1,410 @@
+{
+  "runTime": 1725014385271,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1422922,
+        "num": 1422922,
+        "word": "樊振东举着潘展乐的手打招呼",
+        "onboard_time": 1725008240,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1018088,
+        "num": 1018088,
+        "word": "阿里巴巴全面停止二选一垄断行为",
+        "onboard_time": 1725008060,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 31196,
+        "num": 934896,
+        "word": "一组图给要开学的人回回血",
+        "onboard_time": 1725005240,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 870869,
+        "num": 870869,
+        "word": "全妹挽着马龙胳膊",
+        "onboard_time": 1725008480,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 857462,
+        "num": 857462,
+        "word": "郎平说徐梦洁腿部肌肉很漂亮",
+        "onboard_time": 1725009561,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 821442,
+        "num": 821442,
+        "word": "吴奇隆说十天勾心斗角负能量",
+        "onboard_time": 1725007400,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 781567,
+        "num": 781567,
+        "word": "痞老板点名江奈生小丑subs",
+        "onboard_time": 1725005482,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 774994,
+        "num": 774994,
+        "word": "谭瑞松被查",
+        "onboard_time": 1725010520,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358489,
+        "num": 358489,
+        "word": "韩国女性感谢中国网友为她们发声",
+        "onboard_time": 1724987180,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58786,
+        "num": 357809,
+        "word": "AI换脸技术存在被滥用风险",
+        "onboard_time": 1725012741,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694228,
+        "num": 354660,
+        "word": "吴奇隆退赛",
+        "onboard_time": 1725003920,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 512846,
+        "num": 351311,
+        "word": "如厕回来车丢了在1公里外撞稀烂",
+        "onboard_time": 1724999779,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520125,
+        "num": 349115,
+        "word": "沈月李雪琴退赛",
+        "onboard_time": 1724999901,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425898,
+        "num": 345695,
+        "word": "痞老板发长文道歉",
+        "onboard_time": 1725003081,
+        "rank": 13,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 386076,
+        "num": 343089,
+        "word": "陈牧驰把鞋扔给粉丝",
+        "onboard_time": 1725007581,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341821,
+        "num": 341821,
+        "word": "医院官网已无代孕操刀医生信息",
+        "onboard_time": 1725010340,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349850,
+        "num": 338752,
+        "word": "姜贞羽云参与了艺术体操",
+        "onboard_time": 1725009741,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332332,
+        "num": 332332,
+        "word": "有家长怒砸小天才手表了",
+        "onboard_time": 1724992763,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317642,
+        "num": 317642,
+        "word": "青岛涉代孕医生称职业生涯完了",
+        "onboard_time": 1725013219,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289448,
+        "num": 289448,
+        "word": "樊振东被当面叫咚咚大王",
+        "onboard_time": 1725011182,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1171499,
+        "num": 287922,
+        "word": "李阳称黑神话悟空爆火是民族悲哀",
+        "onboard_time": 1725010401,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 655612,
+        "num": 285042,
+        "word": "110打119报警抓大蛇",
+        "onboard_time": 1725007461,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411744,
+        "num": 283343,
+        "word": "孙颖莎的新挥手方式",
+        "onboard_time": 1725010580,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296368,
+        "num": 280144,
+        "word": "大爷同居后觉得亏了偷女友财物找补",
+        "onboard_time": 1725007941,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277246,
+        "num": 277246,
+        "word": "王子奇偶遇李耕耘",
+        "onboard_time": 1725013161,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267467,
+        "num": 267467,
+        "word": "谁家研究生宿舍是酒店啊",
+        "onboard_time": 1725012081,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265847,
+        "num": 265847,
+        "word": "王楚钦一上台把台子给踩塌了",
+        "onboard_time": 1725008839,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246934,
+        "num": 246934,
+        "word": "BLG对战WBG",
+        "onboard_time": 1725004040,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 232690,
+        "num": 232690,
+        "word": "恋与深空谷子",
+        "onboard_time": 1724994923,
+        "rank": 28,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 34730,
+        "num": 232243,
+        "word": "被一场海边live硬控",
+        "onboard_time": 1725013101,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 232114,
+        "num": 232114,
+        "word": "全红婵孙颖莎等运动员太平山顶合影",
+        "onboard_time": 1725011000,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228212,
+        "num": 228212,
+        "word": "痞老板发投降书",
+        "onboard_time": 1724974036,
+        "rank": 31,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 202763,
+        "num": 202763,
+        "word": "福宝吃东西耳朵也不闲着",
+        "onboard_time": 1725011241,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199827,
+        "num": 199827,
+        "word": "奥运冠军们场下好阳光",
+        "onboard_time": 1725013581,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61474,
+        "num": 196940,
+        "word": "药物成瘾者中不少人只有十几岁",
+        "onboard_time": 1725012439,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196174,
+        "num": 196174,
+        "word": "盛李豪潘展乐回复樊振东收到",
+        "onboard_time": 1725013821,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192865,
+        "num": 192865,
+        "word": "性别暴力下女性面临的隐秘围猎",
+        "onboard_time": 1725011841,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179338,
+        "num": 179338,
+        "word": "你知道子宫有多大吗",
+        "onboard_time": 1724996720,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 178219,
+        "num": 178219,
+        "word": "十天之后 张大大团队",
+        "onboard_time": 1725010881,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168628,
+        "num": 168628,
+        "word": "BLG手握三个赛点",
+        "onboard_time": 1725012800,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156857,
+        "num": 156857,
+        "word": "痞老板diss杀不死",
+        "onboard_time": 1725003380,
+        "rank": 40,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 156014,
+        "num": 156014,
+        "word": "Tarzan滑倒",
+        "onboard_time": 1725008001,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154505,
+        "num": 154505,
+        "word": "新疆一大批沙漠螃蟹上市了",
+        "onboard_time": 1725002361,
+        "rank": 42,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 152975,
+        "num": 152975,
+        "word": "樊振东潘展乐盛李豪同框",
+        "onboard_time": 1725010460,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145337,
+        "num": 145337,
+        "word": "女子与老公吵架后狂吃火锅诱发带状疱疹",
+        "onboard_time": 1725000381,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135845,
+        "num": 135845,
+        "word": "痞老板承认想蹭流量",
+        "onboard_time": 1725003680,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133294,
+        "num": 133294,
+        "word": "全红婵小跑跟着马龙去买饮料",
+        "onboard_time": 1725013641,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131227,
+        "num": 131227,
+        "word": "原来跳绳真的这么好瘦",
+        "onboard_time": 1725009981,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 130492,
+        "num": 130492,
+        "word": "电视剧流光引开播",
+        "onboard_time": 1725012320,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129515,
+        "num": 129515,
+        "word": "都去看边水往事 让它大爆特爆",
+        "onboard_time": 1725010221,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#9图了解2024中非合作论坛峰会#"
+    }
+  }
+}
