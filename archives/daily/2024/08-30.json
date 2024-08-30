@@ -1,6 +1,6 @@
 {
   "startTime": 1724948777601,
-  "endTime": 1724995227050,
+  "endTime": 1724996258877,
   "band_list": [
     {
       "raw_hot": 8843262,
@@ -41,6 +41,14 @@
       "onboard_time": 1724976920,
       "rank": 10,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 2105840,
+      "num": 2105840,
+      "word": "有家长怒砸小天才手表了",
+      "onboard_time": 1724992763,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1868052,
@@ -139,14 +147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1302670,
-      "num": 1302670,
-      "word": "有家长怒砸小天才手表了",
-      "onboard_time": 1724992763,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1261862,
       "num": 1261862,
       "word": "孙颖莎王楚钦一组玩游戏",
@@ -211,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 972766,
+      "num": 972766,
+      "word": "恋与深空谷子",
+      "onboard_time": 1724994923,
+      "rank": 10,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 965838,
       "num": 965838,
       "word": "包贝尔 素人博主",
@@ -233,14 +241,6 @@
       "onboard_time": 1724975599,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 891600,
-      "num": 891600,
-      "word": "恋与深空谷子",
-      "onboard_time": 1724994923,
-      "rank": 10,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 871161,
@@ -328,6 +328,14 @@
       "word": "陈艺文曝被体育记者恶意造谣",
       "onboard_time": 1724984420,
       "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 668163,
+      "num": 668163,
+      "word": "刘国梁把进村名额让给了邱贻可",
+      "onboard_time": 1724994443,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -419,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 523549,
+      "num": 900149,
+      "word": "付航辣评说唱圈",
+      "onboard_time": 1724994082,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 513357,
       "num": 422565,
       "word": "考编成功后在汝州疾控中心假装上班",
@@ -483,19 +499,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 393090,
-      "num": 337807,
-      "word": "刘国梁把进村名额让给了邱贻可",
-      "onboard_time": 1724994443,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 385622,
       "num": 451371,
       "word": "儿子跟妈妈摆摊10天收入10000元",
       "onboard_time": 1724933903,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380818,
+      "num": 319316,
+      "word": "米哈游创始人罕见发声",
+      "onboard_time": 1724992102,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 370092,
+      "num": 370092,
+      "word": "河南大姐从事新兴职业时薪700元",
+      "onboard_time": 1724994443,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -563,14 +587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 337555,
-      "num": 337555,
-      "word": "河南大姐从事新兴职业时薪700元",
-      "onboard_time": 1724994443,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 325393,
       "num": 929312,
       "word": "女性安全不分国界",
@@ -579,8 +595,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318194,
+      "num": 318194,
+      "word": "米哈游",
+      "onboard_time": 1724995283,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 314152,
-      "num": 314152,
+      "num": 670383,
       "word": "律师解读青岛代孕事件",
       "onboard_time": 1724992163,
       "rank": 32,
@@ -611,12 +635,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 287773,
-      "num": 287773,
+      "raw_hot": 292058,
+      "num": 337813,
+      "word": "上官正义追问多地代孕事件调查结果",
+      "onboard_time": 1724991563,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290665,
+      "num": 290665,
       "word": "全红婵偷吃葡萄",
       "onboard_time": 1724993062,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 286086,
+      "num": 286086,
+      "word": "密室大逃脱6收官上班路透",
+      "onboard_time": 1724994681,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 286010,
@@ -643,28 +683,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 277055,
-      "num": 277055,
-      "word": "米哈游创始人罕见发声",
-      "onboard_time": 1724992102,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 274827,
       "num": 503151,
       "word": "崂山城管局报警",
       "onboard_time": 1724986219,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272411,
-      "num": 900149,
-      "word": "付航辣评说唱圈",
-      "onboard_time": 1724994082,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 271438,
@@ -723,6 +747,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 259039,
+      "num": 259039,
+      "word": "马龙樊振东用锅盖锅铲和青少年对打",
+      "onboard_time": 1724995582,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 257558,
+      "num": 257558,
+      "word": "郭德纲 很多人床头的男人",
+      "onboard_time": 1724994383,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257138,
       "num": 257138,
       "word": "马龙回应背后击球练好了吗",
@@ -747,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253250,
+      "num": 253250,
+      "word": "柳岩拍三天戏提名白玉兰女配",
+      "onboard_time": 1724995222,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 252226,
       "num": 252226,
       "word": "涉代孕公司法人关联一试管婴儿公司",
@@ -761,6 +809,14 @@
       "onboard_time": 1724990121,
       "rank": 39,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 249081,
+      "num": 249081,
+      "word": "米哈游创始人劝退游戏普通从业者",
+      "onboard_time": 1724995642,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 248427,
@@ -825,14 +881,6 @@
       "onboard_time": 1724976740,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 229421,
-      "num": 337813,
-      "word": "上官正义追问多地代孕事件调查结果",
-      "onboard_time": 1724991563,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228986,
@@ -907,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213093,
+      "num": 213093,
+      "word": "张翰新剧加入老四阵营",
+      "onboard_time": 1724996061,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212519,
       "num": 212519,
       "word": "崔永熙将签约篮网",
@@ -915,12 +971,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212249,
-      "num": 212249,
-      "word": "密室大逃脱6收官上班路透",
-      "onboard_time": 1724994681,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 211364,
+      "num": 211364,
+      "word": "鹿晗老舅合作新歌往往",
+      "onboard_time": 1724995041,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 210480,
@@ -937,14 +993,6 @@
       "onboard_time": 1724928982,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 205777,
-      "num": 205777,
-      "word": "郭德纲 很多人床头的男人",
-      "onboard_time": 1724994383,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 205496,
@@ -1235,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142736,
+      "num": 321848,
+      "word": "30秒跟潘展乐学自由泳",
+      "onboard_time": 1724995823,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141549,
       "num": 141549,
       "word": "让该休可休变成必休",
@@ -1281,6 +1337,14 @@
       "onboard_time": 1724949019,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 125832,
+      "num": 321642,
+      "word": "回Q的诱惑",
+      "onboard_time": 1724995521,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 120504,
@@ -1331,12 +1395,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 91709,
+      "num": 669758,
+      "word": "无偿献血者免费用血为何还需费用",
+      "onboard_time": 1724994263,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90543,
       "num": 685370,
       "word": "20元一节课穷鬼舞室挤满年轻人",
       "onboard_time": 1724987302,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84556,
+      "num": 603826,
+      "word": "竟然在喜综吃到这么细的糠",
+      "onboard_time": 1724995881,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 81807,
@@ -1411,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65370,
+      "num": 592272,
+      "word": "小鬼 真人版抓大鹅",
+      "onboard_time": 1724996061,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 64775,
       "num": 77360,
       "word": "日遗化武仍毒害我国生态环境",
@@ -1468,7 +1556,7 @@
     },
     {
       "raw_hot": 56705,
-      "num": 519787,
+      "num": 656629,
       "word": "阿维塔07全球首秀",
       "onboard_time": 1724994202,
       "rank": 22,
@@ -1489,14 +1577,6 @@
       "onboard_time": 1724991023,
       "rank": 28,
       "category": "美食"
-    },
-    {
-      "raw_hot": 51894,
-      "num": 669758,
-      "word": "无偿献血者免费用血为何还需费用",
-      "onboard_time": 1724994263,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 45918,
@@ -1529,6 +1609,14 @@
       "onboard_time": 1724986460,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 34126,
+      "num": 574381,
+      "word": "八戒究竟是黑毛猪还是白毛猪",
+      "onboard_time": 1724995941,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29623,
@@ -1571,20 +1659,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16270,
+      "num": 285086,
+      "word": "于适叠穿ootd",
+      "onboard_time": 1724995161,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 12607,
       "num": 1601879,
       "word": "网络文明在我身边",
       "onboard_time": 1724917341,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6255,
-      "num": 200862,
-      "word": "于适叠穿ootd",
-      "onboard_time": 1724995161,
-      "rank": 49,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/08/01 00:24:58 ~ 2024/08/30 13:20:27
+本榜单时间：2024/08/01 00:24:58 ~ 2024/08/30 13:37:38
 </p>
 </blockquote>
 <p>
@@ -4155,6 +4155,12 @@ LV推小乌龟挂件7400元一个（热度：2337946）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%AE%B6%E9%95%BF%E6%80%92%E7%A0%B8%E5%B0%8F%E5%A4%A9%E6%89%8D%E6%89%8B%E8%A1%A8%E4%BA%86%23" target="weibo">
+有家长怒砸小天才手表了（热度：2105840）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E6%8F%90%E9%86%92%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%8D%E9%A1%BA%E7%9A%84%E6%97%B6%E5%80%99%E5%88%AB%E4%B8%8A%E5%A4%B4%23" target="weibo">
 马龙提醒王楚钦不顺的时候别上头（热度：2105574）
 </a>
@@ -6005,12 +6011,6 @@ F勒布伦谈球拍事件（热度：1954007）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E8%BF%85%2050%E5%B2%81%E6%AD%A3%E6%98%AF%E8%BF%B7%E6%AD%BB%E4%BA%BA%E7%9A%84%E5%B9%B4%E7%BA%AA%23" target="weibo">
 周迅 50岁正是迷死人的年纪（热度：1679556）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%82%E5%BD%A2%E5%A4%AA%E5%90%93%E4%BA%BA%E4%BA%86%23" target="weibo">
-异形太吓人了（热度：1678954）
 </a>
 </li>
 
