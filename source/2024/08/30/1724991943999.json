@@ -1,0 +1,410 @@
+{
+  "runTime": 1724991943999,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2469459,
+        "num": 2469459,
+        "word": "青岛代孕操刀医生身份",
+        "onboard_time": 1724991202,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1846401,
+        "num": 1846401,
+        "word": "韩国女性感谢中国网友为她们发声",
+        "onboard_time": 1724987180,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9418,
+        "num": 1787519,
+        "word": "蛟龙号带回海参海绵等5种生物",
+        "onboard_time": 1724991803,
+        "rank": 2,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 1782697,
+        "num": 1782697,
+        "word": "青岛代孕",
+        "onboard_time": 1724988441,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1439386,
+        "num": 1439386,
+        "word": "痞老板发投降书",
+        "onboard_time": 1724974036,
+        "rank": 4,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 1153311,
+        "num": 1153311,
+        "word": "孙颖莎王楚钦一组玩游戏",
+        "onboard_time": 1724989462,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1131431,
+        "num": 1131431,
+        "word": "芭莎拍了拍孙颖莎",
+        "onboard_time": 1724984241,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 462136,
+        "num": 1103151,
+        "word": "柳岩说陈丽君为浪姐多次妥协",
+        "onboard_time": 1724990302,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377120,
+        "num": 1079174,
+        "word": "真有艺人敢走粘鼠板红毯啊",
+        "onboard_time": 1724989402,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99915,
+        "num": 1050846,
+        "word": "高校向新生调查性行为是否有必要",
+        "onboard_time": 1724990482,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1349119,
+        "num": 1001400,
+        "word": "梁源账号被禁言",
+        "onboard_time": 1724988020,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 998090,
+        "num": 998090,
+        "word": "大学生每月平均生活费1282元",
+        "onboard_time": 1724984241,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 957401,
+        "num": 957401,
+        "word": "当地居民称11元刀削面并不贵",
+        "onboard_time": 1724985981,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420748,
+        "num": 952426,
+        "word": "只有派克特一个人信了",
+        "onboard_time": 1724974158,
+        "rank": 13,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 155791,
+        "num": 938307,
+        "word": "学校回应饭卡充值至少1000元",
+        "onboard_time": 1724990183,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18576,
+        "num": 929542,
+        "word": "极氪7X售价23.99万元起",
+        "onboard_time": 1724988742,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 391063,
+        "num": 922029,
+        "word": "娜扎 我只是觉得你爱上我了",
+        "onboard_time": 1724990600,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45918,
+        "num": 912565,
+        "word": "途岳新锐售价7.99万起",
+        "onboard_time": 1724989882,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 58274,
+        "num": 893202,
+        "word": "于适波司登",
+        "onboard_time": 1724991023,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 890263,
+        "num": 890263,
+        "word": "绘旅人开战痞老板",
+        "onboard_time": 1724938523,
+        "rank": 19,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 847326,
+        "num": 847326,
+        "word": "地下非法代孕发展或超出以往认知",
+        "onboard_time": 1724986041,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 841576,
+        "num": 841576,
+        "word": "痞老板道歉",
+        "onboard_time": 1724976920,
+        "rank": 21,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 184107,
+        "num": 742509,
+        "word": "喜剧之王单口季",
+        "onboard_time": 1724991622,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 718207,
+        "num": 718207,
+        "word": "清华1块钱一碗的白菜粉丝汤",
+        "onboard_time": 1724987542,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 519003,
+        "num": 519003,
+        "word": "鲁BQP800",
+        "onboard_time": 1724976501,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329670,
+        "num": 517621,
+        "word": "第一见王一博笑成typec",
+        "onboard_time": 1724983820,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 288750,
+        "num": 509931,
+        "word": "边水往事 吴镇宇后三集演技",
+        "onboard_time": 1724981601,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194418,
+        "num": 503151,
+        "word": "崂山城管局报警",
+        "onboard_time": 1724986219,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37602,
+        "num": 490451,
+        "word": "隔着屏幕都能闻到亿点点臭味儿",
+        "onboard_time": 1724991023,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 111797,
+        "num": 485252,
+        "word": "檀健次口音",
+        "onboard_time": 1724990541,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55481,
+        "num": 478398,
+        "word": "奥运健儿版开学第一课",
+        "onboard_time": 1724990720,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471919,
+        "num": 471919,
+        "word": "上班一定要穿的成熟",
+        "onboard_time": 1724982260,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 391971,
+        "num": 391971,
+        "word": "四大国乙",
+        "onboard_time": 1724990843,
+        "rank": 32,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 390852,
+        "num": 390852,
+        "word": "小伙5年未清理耳屎患瘤",
+        "onboard_time": 1724982381,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364440,
+        "num": 364440,
+        "word": "韩国女性怒斥我们没有国家",
+        "onboard_time": 1724979381,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327516,
+        "num": 327516,
+        "word": "代孕几乎每个环节都涉嫌违法",
+        "onboard_time": 1724949918,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325393,
+        "num": 325393,
+        "word": "女性安全不分国界",
+        "onboard_time": 1724986581,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281152,
+        "num": 281152,
+        "word": "乃万",
+        "onboard_time": 1724980340,
+        "rank": 37,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 261476,
+        "num": 261476,
+        "word": "恋与制作人 跳梁小丑不足为惧",
+        "onboard_time": 1724973016,
+        "rank": 38,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 251611,
+        "num": 251611,
+        "word": "如何看待哈圈与乙游跨圈之争",
+        "onboard_time": 1724990121,
+        "rank": 39,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 248427,
+        "num": 248427,
+        "word": "阿尔卡拉斯美网出局",
+        "onboard_time": 1724990242,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245818,
+        "num": 245818,
+        "word": "邱贻可说23岁的孙颖莎不必完美",
+        "onboard_time": 1724989462,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234796,
+        "num": 234796,
+        "word": "黄子韬还得徐艺洋来治",
+        "onboard_time": 1724973016,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225542,
+        "num": 225542,
+        "word": "iPhone16开始印度量产",
+        "onboard_time": 1724984122,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 217993,
+        "num": 217993,
+        "word": "河南警方悬赏10万元抓捕赵子龙",
+        "onboard_time": 1724991622,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215706,
+        "num": 215706,
+        "word": "上官正义追问多地代孕事件调查结果",
+        "onboard_time": 1724991563,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200580,
+        "num": 200580,
+        "word": "孙颖莎芭莎银十预告",
+        "onboard_time": 1724986281,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198221,
+        "num": 198221,
+        "word": "丫丫胖出仓鼠脸",
+        "onboard_time": 1724986340,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196012,
+        "num": 196012,
+        "word": "魏哲鸣 这波冲我来的",
+        "onboard_time": 1724986281,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195550,
+        "num": 195550,
+        "word": "CRAZY MV",
+        "onboard_time": 1724991861,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记对留学人员工作高度重视#"
+    }
+  }
+}
