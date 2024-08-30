@@ -1,6 +1,6 @@
 {
   "startTime": 1724948777601,
-  "endTime": 1725016764761,
+  "endTime": 1725017715328,
   "band_list": [
     {
       "raw_hot": 8843262,
@@ -315,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 979712,
+      "num": 471237,
+      "word": "被逆行路虎女司机打伤男司机发声",
+      "onboard_time": 1725015201,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 972766,
       "num": 972766,
       "word": "恋与深空谷子",
@@ -353,6 +361,14 @@
       "onboard_time": 1724975599,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 933618,
+      "num": 933618,
+      "word": "华晨宇打响内娱反黄牛第一枪",
+      "onboard_time": 1725014600,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 915200,
@@ -603,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 559105,
+      "num": 559105,
+      "word": "BLG夺冠",
+      "onboard_time": 1725015859,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 553014,
       "num": 900149,
       "word": "付航辣评说唱圈",
@@ -659,28 +683,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 491321,
-      "num": 491321,
-      "word": "华晨宇打响内娱反黄牛第一枪",
-      "onboard_time": 1725014600,
-      "rank": 11,
-      "category": "演出"
-    },
-    {
       "raw_hot": 490586,
       "num": 619409,
       "word": "GAI 痞老板唱得实在太烂了",
       "onboard_time": 1724980220,
       "rank": 22,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 471237,
-      "num": 471237,
-      "word": "被逆行路虎女司机打伤男司机发声",
-      "onboard_time": 1725015201,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 466843,
@@ -699,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 455398,
+      "num": 441728,
+      "word": "TES锁定S14二号种子",
+      "onboard_time": 1725016699,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 448104,
       "num": 539564,
       "word": "代孕操刀医生之一无专业背景",
@@ -715,12 +731,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 442323,
+      "num": 442323,
+      "word": "航空工业原董事长谭瑞松被查",
+      "onboard_time": 1725010520,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441196,
       "num": 441196,
       "word": "李佳琦上课成功 早安接收失败",
       "onboard_time": 1725003560,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 441171,
+      "num": 441171,
+      "word": "BLG战胜WBG",
+      "onboard_time": 1725016040,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 436110,
@@ -777,22 +809,6 @@
       "onboard_time": 1724991622,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 402324,
-      "num": 402324,
-      "word": "BLG战胜WBG",
-      "onboard_time": 1725016040,
-      "rank": 16,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 402302,
-      "num": 402302,
-      "word": "BLG夺冠",
-      "onboard_time": 1725015859,
-      "rank": 17,
-      "category": "电竞"
     },
     {
       "raw_hot": 396729,
@@ -915,6 +931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 347454,
+      "num": 347454,
+      "word": "苏新皓 重庆",
+      "onboard_time": 1725016340,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 346960,
       "num": 346960,
       "word": "女性一生只能排出300多个卵子",
@@ -944,6 +968,14 @@
       "word": "律师解读青岛代孕事件",
       "onboard_time": 1724992163,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328379,
+      "num": 366013,
+      "word": "性别暴力下女性面临的隐秘围猎",
+      "onboard_time": 1725011841,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1001,6 +1033,14 @@
       "onboard_time": 1725013161,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 299946,
+      "num": 299946,
+      "word": "盛李豪潘展乐回复樊振东收到",
+      "onboard_time": 1725013821,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 299476,
@@ -1067,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279253,
+      "num": 279253,
+      "word": "BLG春夏双冠",
+      "onboard_time": 1725017660,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 279170,
       "num": 279170,
       "word": "平遥古城老外穿日本旭日旗T恤",
@@ -1115,14 +1163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 266866,
-      "num": 366013,
-      "word": "性别暴力下女性面临的隐秘围猎",
-      "onboard_time": 1725011841,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 266796,
       "num": 266796,
       "word": "CRAZY MV",
@@ -1169,14 +1209,6 @@
       "onboard_time": 1725004521,
       "rank": 23,
       "category": "游戏,作品衍生"
-    },
-    {
-      "raw_hot": 260430,
-      "num": 260430,
-      "word": "盛李豪潘展乐回复樊振东收到",
-      "onboard_time": 1725013821,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 259039,
@@ -1409,14 +1441,6 @@
       "onboard_time": 1724940204,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 223295,
-      "num": 223295,
-      "word": "苏新皓 重庆",
-      "onboard_time": 1725016340,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 221791,
@@ -1691,6 +1715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195613,
+      "num": 195613,
+      "word": "恋与深空",
+      "onboard_time": 1724926282,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 195611,
       "num": 195611,
       "word": "樊振东潘展乐盛李豪同框",
@@ -1763,14 +1795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189828,
-      "num": 189828,
-      "word": "TES锁定S14二号种子",
-      "onboard_time": 1725016699,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 188363,
       "num": 188363,
       "word": "陈梦苏炜德等25人拟记大功",
@@ -1788,7 +1812,7 @@
     },
     {
       "raw_hot": 187603,
-      "num": 187603,
+      "num": 352143,
       "word": "乙女圈怎么突然被哈圈盯上了",
       "onboard_time": 1725015080,
       "rank": 43,
@@ -1995,6 +2019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161538,
+      "num": 161538,
+      "word": "祝绪丹娱乐圈人缘",
+      "onboard_time": 1725017120,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158721,
       "num": 158721,
       "word": "BLG下路",
@@ -2017,6 +2049,14 @@
       "onboard_time": 1724974098,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155539,
+      "num": 155539,
+      "word": "猫猫把自己和宝宝都养的很好",
+      "onboard_time": 1725015440,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 155145,
@@ -2043,12 +2083,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 150982,
-      "num": 150982,
-      "word": "猫猫把自己和宝宝都养的很好",
-      "onboard_time": 1725015440,
+      "raw_hot": 149393,
+      "num": 149393,
+      "word": "谢瑜vlog",
+      "onboard_time": 1725017600,
       "rank": 46,
-      "category": "幽默"
+      "category": "体育"
     },
     {
       "raw_hot": 146732,
@@ -2057,14 +2097,6 @@
       "onboard_time": 1724966711,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146704,
-      "num": 155068,
-      "word": "恋与深空",
-      "onboard_time": 1724926282,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 146673,
@@ -2089,6 +2121,14 @@
       "onboard_time": 1725006681,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143608,
+      "num": 143608,
+      "word": "檀健次工作室",
+      "onboard_time": 1725017360,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 143183,
@@ -2203,6 +2243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 103130,
+      "num": 534397,
+      "word": "地铁扶梯左行右立已取消多年",
+      "onboard_time": 1725015743,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98716,
       "num": 98716,
       "word": "被六小龄童猴戏表演硬控",
@@ -2305,6 +2353,14 @@
       "onboard_time": 1724969293,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 78650,
+      "num": 279305,
+      "word": "印度女医护人员集体练武",
+      "onboard_time": 1725017540,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78539,
@@ -2499,14 +2555,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 52987,
-      "num": 534397,
-      "word": "地铁扶梯左行右立已取消多年",
-      "onboard_time": 1725015743,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 52513,
       "num": 340710,
       "word": "年轻人的第一台保时捷",
@@ -2577,6 +2625,14 @@
       "onboard_time": 1725001161,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 35892,
+      "num": 434049,
+      "word": "中方仙宾礁科考惊出美军机",
+      "onboard_time": 1725015679,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35605,
@@ -2672,14 +2728,6 @@
       "word": "斩断非法代孕链条难在哪",
       "onboard_time": 1725002239,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21233,
-      "num": 434049,
-      "word": "中方仙宾礁科考惊出美军机",
-      "onboard_time": 1725015679,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
