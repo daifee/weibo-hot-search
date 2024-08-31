@@ -1,6 +1,6 @@
 {
   "startTime": 1725035044218,
-  "endTime": 1725072820056,
+  "endTime": 1725074529013,
   "band_list": [
     {
       "raw_hot": 3132358,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1288242,
+      "num": 1288242,
+      "word": "三人合照原来是四个人",
+      "onboard_time": 1725068178,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 975412,
       "num": 975412,
       "word": "潘展乐抢陈芋汐手机",
@@ -43,14 +51,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 800198,
-      "num": 1128031,
-      "word": "三人合照原来是四个人",
-      "onboard_time": 1725068178,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 760914,
       "num": 760914,
       "word": "怀化市政协原主席印宇鹰被双开",
@@ -59,20 +59,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 724059,
+      "num": 253201,
+      "word": "头一次见千金大小狗",
+      "onboard_time": 1725071659,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 672708,
       "num": 672708,
       "word": "原来微信余额还可以被隐藏",
       "onboard_time": 1725019040,
       "rank": 3,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 649595,
-      "num": 253201,
-      "word": "头一次见千金大小狗",
-      "onboard_time": 1725071659,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 641344,
@@ -121,6 +121,38 @@
       "onboard_time": 1725070038,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 543689,
+      "num": 543689,
+      "word": "柯文哲被当庭逮捕",
+      "onboard_time": 1725071540,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 527477,
+      "num": 369027,
+      "word": "女主播与6旬大爷裸聊要打赏",
+      "onboard_time": 1725072379,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 519139,
+      "num": 519139,
+      "word": "孙颖莎说球衣上的国旗大于姓名",
+      "onboard_time": 1725072260,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 512130,
+      "num": 512130,
+      "word": "小伙拒绝加班被辞退与公司打官司全赢",
+      "onboard_time": 1725072679,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 511640,
@@ -219,6 +251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 367199,
+      "num": 367199,
+      "word": "吴尊陪NeiNei排队7小时看霉霉演唱会",
+      "onboard_time": 1725071659,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 360079,
       "num": 360079,
       "word": "父亲回应12岁儿子比肩同期苏炳添",
@@ -292,19 +332,11 @@
     },
     {
       "raw_hot": 313586,
-      "num": 313586,
+      "num": 369143,
       "word": "中金降职降薪传言属实",
       "onboard_time": 1725068178,
       "rank": 35,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 312780,
-      "num": 312780,
-      "word": "柯文哲被当庭逮捕",
-      "onboard_time": 1725071540,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 293772,
@@ -329,6 +361,14 @@
       "onboard_time": 1725059235,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290984,
+      "num": 290984,
+      "word": "马龙王楚钦拍立得合照",
+      "onboard_time": 1725071540,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 282804,
@@ -361,6 +401,14 @@
       "onboard_time": 1725034519,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270755,
+      "num": 270755,
+      "word": "陈妍希周柯宇路透",
+      "onboard_time": 1725070519,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 257751,
@@ -411,14 +459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 242695,
-      "num": 255039,
-      "word": "陈妍希周柯宇路透",
-      "onboard_time": 1725070519,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 240307,
       "num": 240307,
       "word": "美网",
@@ -433,14 +473,6 @@
       "onboard_time": 1725068479,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 235280,
-      "num": 235280,
-      "word": "马龙王楚钦拍立得合照",
-      "onboard_time": 1725071540,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 233075,
@@ -467,12 +499,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 221299,
-      "num": 249086,
-      "word": "吴尊陪NeiNei排队7小时看霉霉演唱会",
-      "onboard_time": 1725071659,
-      "rank": 28,
-      "category": "演出"
+      "raw_hot": 225050,
+      "num": 227366,
+      "word": "披荆的哥哥斩棘的齐思钧",
+      "onboard_time": 1725070639,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 220363,
@@ -491,20 +523,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217730,
+      "num": 217730,
+      "word": "你好星期六今晚夏日清凉派对",
+      "onboard_time": 1725073099,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 210373,
+      "num": 210373,
+      "word": "中戏动作表演专业",
+      "onboard_time": 1725071780,
+      "rank": 40,
+      "category": "教育,艺人"
+    },
+    {
       "raw_hot": 205427,
       "num": 205427,
       "word": "现在婚礼都这么超前了吗",
       "onboard_time": 1725027382,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 204001,
-      "num": 204001,
-      "word": "孙颖莎说球衣上的国旗大于姓名",
-      "onboard_time": 1725072260,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 197719,
@@ -529,14 +569,6 @@
       "onboard_time": 1725068718,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 195667,
-      "num": 227366,
-      "word": "披荆的哥哥斩棘的齐思钧",
-      "onboard_time": 1725070639,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 194975,
@@ -571,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186197,
+      "num": 186197,
+      "word": "章子怡香奈儿高定",
+      "onboard_time": 1725072858,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 185694,
       "num": 195373,
       "word": "第九代张起灵身材",
@@ -579,12 +619,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178497,
-      "num": 178497,
-      "word": "中戏动作表演专业",
-      "onboard_time": 1725071780,
-      "rank": 40,
-      "category": "教育,艺人"
+      "raw_hot": 182758,
+      "num": 182758,
+      "word": "迪丽热巴落跑甜心彩蛋",
+      "onboard_time": 1725074300,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 179835,
+      "num": 179835,
+      "word": "樊振东尴尬一分钟",
+      "onboard_time": 1725072318,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 174040,
@@ -609,6 +657,22 @@
       "onboard_time": 1725030683,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168427,
+      "num": 168427,
+      "word": "高考660多分她报考军校想当女舰长",
+      "onboard_time": 1725074119,
+      "rank": 34,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 168161,
+      "num": 168161,
+      "word": "原来猴哥情商这么高",
+      "onboard_time": 1725070578,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 167986,
@@ -667,14 +731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157478,
-      "num": 157478,
-      "word": "樊振东尴尬一分钟",
-      "onboard_time": 1725072318,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 156001,
       "num": 156001,
       "word": "直新闻",
@@ -691,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153657,
+      "num": 153657,
+      "word": "山西网友解释为什么矿工吃面少4块",
+      "onboard_time": 1725072919,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148923,
       "num": 148923,
       "word": "中方呼吁美方停止无聊的指责游戏",
@@ -699,27 +763,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148468,
-      "num": 148468,
-      "word": "女主播与6旬大爷裸聊要打赏",
-      "onboard_time": 1725072379,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146877,
       "num": 146877,
       "word": "迪丽热巴吃着面包下班",
       "onboard_time": 1725019880,
       "rank": 34,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 141751,
-      "num": 141751,
-      "word": "原来猴哥情商这么高",
-      "onboard_time": 1725070578,
-      "rank": 42,
       "category": "作品衍生"
     },
     {
@@ -745,6 +793,14 @@
       "onboard_time": 1725066258,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136025,
+      "num": 136025,
+      "word": "孙颖莎一直合影到最后才离场",
+      "onboard_time": 1725074300,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 134262,
@@ -779,12 +835,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125764,
-      "num": 125764,
-      "word": "小伙拒绝加班被辞退与公司打官司全赢",
-      "onboard_time": 1725072679,
+      "raw_hot": 128770,
+      "num": 128770,
+      "word": "郑钦文与维基奇争夺八强席位",
+      "onboard_time": 1725073639,
       "rank": 44,
-      "category": "社会新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 125110,
@@ -793,6 +849,22 @@
       "onboard_time": 1725020120,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124620,
+      "num": 124620,
+      "word": "四方馆 纯爱那年亲嘴最甜",
+      "onboard_time": 1725073881,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 124016,
+      "num": 124016,
+      "word": "遭逆行女子殴打者称已申请伤情鉴定",
+      "onboard_time": 1725074119,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120782,
@@ -808,6 +880,14 @@
       "word": "JYP将对TWICEDeepfake采取法律行动",
       "onboard_time": 1725027441,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 116438,
+      "num": 116438,
+      "word": "你永远可以相信李思思的主持能力",
+      "onboard_time": 1725074479,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -1099,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24667,
+      "num": 316638,
+      "word": "同一药店线上线下同药不同价",
+      "onboard_time": 1725073759,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21105,
       "num": 186093,
       "word": "教授爷爷地铁畅谈点亮萌娃人生理想",
@@ -1183,6 +1271,9 @@
     },
     {
       "word": "#9图了解2024中非合作论坛峰会#"
+    },
+    {
+      "word": "#中国和非洲从来都是命运共同体#"
     }
   ]
 }
