@@ -1,6 +1,6 @@
 {
   "startTime": 1725035044218,
-  "endTime": 1725100653782,
+  "endTime": 1725103062884,
   "band_list": [
     {
       "raw_hot": 3132358,
@@ -403,6 +403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 572163,
+      "num": 572163,
+      "word": "苏醒发长文支持王铮亮",
+      "onboard_time": 1725099920,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 569760,
       "num": 232903,
       "word": "马龙说买奶茶全红婵立马跟上",
@@ -459,6 +467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 526484,
+      "num": 526484,
+      "word": "李诞光头簪花",
+      "onboard_time": 1725102140,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 526132,
       "num": 526132,
       "word": "曹璐以FIESTAR成员回归",
@@ -475,12 +491,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 489010,
+      "num": 489010,
+      "word": "朱雨玲澳门冠军赛",
+      "onboard_time": 1725100400,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 487322,
       "num": 487322,
       "word": "吴尊陪NeiNei排队7小时看霉霉演唱会",
       "onboard_time": 1725071659,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 457220,
+      "num": 457220,
+      "word": "广州再次明确不发展共享电单车",
+      "onboard_time": 1725097100,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 450250,
@@ -537,6 +569,30 @@
       "onboard_time": 1725066019,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 410811,
+      "num": 410811,
+      "word": "生4胞胎夫妻月收入不到1万",
+      "onboard_time": 1725098900,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406314,
+      "num": 524665,
+      "word": "玩密室拼场拼到了朱志鑫",
+      "onboard_time": 1725099560,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 403611,
+      "num": 403611,
+      "word": "檀健次直播",
+      "onboard_time": 1725101659,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 402205,
@@ -643,6 +699,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 341805,
+      "num": 340604,
+      "word": "专家称女生游泳私密贴是智商税",
+      "onboard_time": 1725101480,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336493,
       "num": 232605,
       "word": "果然大一跟大四一眼就能认出来",
@@ -697,6 +761,14 @@
       "onboard_time": 1725068361,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318787,
+      "num": 318787,
+      "word": "王一博裤子全是汗",
+      "onboard_time": 1725100279,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 318111,
@@ -763,14 +835,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 294310,
-      "num": 356305,
-      "word": "广州再次明确不发展共享电单车",
-      "onboard_time": 1725097100,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 293772,
       "num": 293772,
       "word": "西游记中最善良的妖精",
@@ -803,12 +867,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284769,
-      "num": 227782,
-      "word": "朱雨玲澳门冠军赛",
-      "onboard_time": 1725100400,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 291045,
+      "num": 291045,
+      "word": "投诉刀削面阴阳价格博主再发声",
+      "onboard_time": 1725101059,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285742,
+      "num": 285742,
+      "word": "檀健次演唱会",
+      "onboard_time": 1725099260,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 283161,
@@ -883,12 +955,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 269990,
-      "num": 524665,
-      "word": "玩密室拼场拼到了朱志鑫",
-      "onboard_time": 1725099560,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 267762,
+      "num": 267762,
+      "word": "潘展乐晒与马龙合照",
+      "onboard_time": 1725098538,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 265705,
@@ -1075,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235617,
+      "num": 484956,
+      "word": "阴阳面馆重新开业11元刺痛了谁",
+      "onboard_time": 1725099860,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233075,
       "num": 233075,
       "word": "边水往事 王玉雯姜珮瑶",
@@ -1099,12 +1179,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 228634,
-      "num": 228634,
-      "word": "苏醒发长文支持王铮亮",
-      "onboard_time": 1725099920,
+      "raw_hot": 230019,
+      "num": 230019,
+      "word": "李楷灿千字小作文",
+      "onboard_time": 1725102321,
       "rank": 29,
-      "category": "综艺"
+      "category": "艺人"
     },
     {
       "raw_hot": 227738,
@@ -1171,26 +1251,18 @@
       "category": "体育"
     },
     {
-      "raw_hot": 216915,
-      "num": 216915,
-      "word": "王一博裤子全是汗",
-      "onboard_time": 1725100279,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 215369,
-      "num": 215369,
-      "word": "潘展乐晒与马龙合照",
-      "onboard_time": 1725098538,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 213626,
       "num": 213626,
       "word": "两代跳水女王罕见同框",
       "onboard_time": 1725076101,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 213049,
+      "num": 213049,
+      "word": "郭晶晶遇到伏明霞秒变小妹妹",
+      "onboard_time": 1725101480,
       "rank": 33,
       "category": "体育"
     },
@@ -1331,12 +1403,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192608,
-      "num": 192608,
-      "word": "生4胞胎夫妻月收入不到1万",
-      "onboard_time": 1725098900,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 193746,
+      "num": 193746,
+      "word": "王一博寸头素颜自拍",
+      "onboard_time": 1725102199,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 192483,
@@ -1419,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181375,
+      "num": 181375,
+      "word": "全球AI换脸色情人物超一半是韩国人",
+      "onboard_time": 1725096920,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181105,
       "num": 181105,
       "word": "华晨宇演唱会重庆站vlog",
@@ -1443,14 +1523,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 180198,
-      "num": 180198,
-      "word": "檀健次演唱会",
-      "onboard_time": 1725099260,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 179835,
       "num": 179835,
       "word": "樊振东尴尬一分钟",
@@ -1465,14 +1537,6 @@
       "onboard_time": 1725075020,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 179074,
-      "num": 179074,
-      "word": "全球AI换脸色情人物超一半是韩国人",
-      "onboard_time": 1725096920,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178194,
@@ -1539,12 +1603,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172271,
+      "num": 172271,
+      "word": "澳门市民举马龙王楚钦大头照迎接",
+      "onboard_time": 1725100879,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171408,
       "num": 171408,
       "word": "韩安冉起诉亲妈",
       "onboard_time": 1725025883,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 171338,
+      "num": 171338,
+      "word": "普京又要出国了",
+      "onboard_time": 1725101119,
+      "rank": 42,
+      "category": "国外时政"
     },
     {
       "raw_hot": 171123,
@@ -1641,6 +1721,14 @@
       "onboard_time": 1725067398,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162998,
+      "num": 162998,
+      "word": "奥运代表团港澳行",
+      "onboard_time": 1725102021,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 162981,
@@ -1787,6 +1875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150975,
+      "num": 150975,
+      "word": "柳眠棠 古偶丽人秀",
+      "onboard_time": 1725102920,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150205,
       "num": 150205,
       "word": "盛李豪底盘不稳樊振东底盘太稳",
@@ -1883,6 +1979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140198,
+      "num": 140198,
+      "word": "孟佳王霏霏为曹璐打call",
+      "onboard_time": 1725103039,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140112,
       "num": 140112,
       "word": "郑钦文晋级美网16强",
@@ -1937,6 +2041,14 @@
       "onboard_time": 1725097279,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136652,
+      "num": 136652,
+      "word": "室友吃芒果导致我过敏进了医院",
+      "onboard_time": 1725103039,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 136579,
@@ -2379,14 +2491,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 42704,
-      "num": 484956,
-      "word": "阴阳面馆重新开业11元刺痛了谁",
-      "onboard_time": 1725099860,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 41661,
       "num": 407797,
       "word": "车展新车多为何独看GL8",
@@ -2455,6 +2559,14 @@
       "num": 694178,
       "word": "圣博特训学校被举报后疑将学生转移",
       "onboard_time": 1725096680,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38155,
+      "num": 539602,
+      "word": "吴孟超院士生前珍贵画面",
+      "onboard_time": 1725102860,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -2529,6 +2641,14 @@
       "onboard_time": 1725091220,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 28811,
+      "num": 139946,
+      "word": "家用纯电SUV卷对了吗",
+      "onboard_time": 1725102801,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24075,
