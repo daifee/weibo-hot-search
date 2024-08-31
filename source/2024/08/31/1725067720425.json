@@ -1,0 +1,410 @@
+{
+  "runTime": 1725067720425,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1655821,
+        "num": 1655821,
+        "word": "11元刀削面的真相不应关停",
+        "onboard_time": 1725062358,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591449,
+        "num": 591449,
+        "word": "重庆3岁走失男童遗体被找到",
+        "onboard_time": 1725030021,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9240,
+        "num": 584360,
+        "word": "坐上动车畅游祖国大好河山",
+        "onboard_time": 1725021200,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577939,
+        "num": 577939,
+        "word": "林俊杰不要到处扣扣的含义",
+        "onboard_time": 1725061457,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 552145,
+        "num": 552145,
+        "word": "潘展乐抢陈芋汐手机",
+        "onboard_time": 1725067099,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 447180,
+        "num": 447180,
+        "word": "花3万6上小学临开学才知被骗",
+        "onboard_time": 1725064219,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391182,
+        "num": 391182,
+        "word": "郑钦文再战奥运决赛对手",
+        "onboard_time": 1725060256,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 340892,
+        "num": 340892,
+        "word": "董事长之子聚餐泄密5人被罚2300万",
+        "onboard_time": 1725024741,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330276,
+        "num": 330276,
+        "word": "这么多年塘主还是爱拒绝自己的女人",
+        "onboard_time": 1725066019,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315374,
+        "num": 315374,
+        "word": "四川重庆立秋后为啥这么热",
+        "onboard_time": 1725064578,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291415,
+        "num": 291415,
+        "word": "唐山3.2级地震",
+        "onboard_time": 1725059235,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265092,
+        "num": 265092,
+        "word": "刘涛 神性地母系赛道",
+        "onboard_time": 1725066139,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174040,
+        "num": 261423,
+        "word": "9月起这些新规开始施行",
+        "onboard_time": 1725066741,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 260735,
+        "num": 260735,
+        "word": "西安火车站管委会致歉",
+        "onboard_time": 1725034639,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257698,
+        "num": 257698,
+        "word": "孙颖莎陈芋汐自拍合照",
+        "onboard_time": 1725060196,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236358,
+        "num": 236358,
+        "word": "原来微信余额还可以被隐藏",
+        "onboard_time": 1725019040,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 215070,
+        "num": 215070,
+        "word": "艾热赢了凡希亚",
+        "onboard_time": 1725066439,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210634,
+        "num": 210634,
+        "word": "台检方清晨突击搜索柯文哲住处",
+        "onboard_time": 1725032363,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 196004,
+        "num": 196004,
+        "word": "入青云",
+        "onboard_time": 1725065960,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185694,
+        "num": 195234,
+        "word": "第九代张起灵身材",
+        "onboard_time": 1725031161,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 641344,
+        "num": 194486,
+        "word": "黄子韬恋爱前对粉丝说的话",
+        "onboard_time": 1725059416,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 395793,
+        "num": 193487,
+        "word": "青岛逆行女司机至今未道歉赔偿",
+        "onboard_time": 1725022281,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393939,
+        "num": 193298,
+        "word": "打人女司机被拘10天网友为何不满",
+        "onboard_time": 1725026542,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221603,
+        "num": 191935,
+        "word": "吃了一个月褪黑素后的真实感受",
+        "onboard_time": 1725065300,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 200573,
+        "num": 191574,
+        "word": "马龙说买奶茶全红婵立马跟上",
+        "onboard_time": 1725028642,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190966,
+        "num": 190966,
+        "word": "丝芙兰15年老员工被裁员",
+        "onboard_time": 1725030320,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186536,
+        "num": 186536,
+        "word": "樊振东被推出去大合唱说我不会啊",
+        "onboard_time": 1725065118,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167986,
+        "num": 180280,
+        "word": "陈赫说鹿晗老舅新歌太好听了",
+        "onboard_time": 1725064639,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159276,
+        "num": 177469,
+        "word": "西游记中最善良的妖精",
+        "onboard_time": 1725053592,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158614,
+        "num": 175722,
+        "word": "边水往事 王玉雯姜珮瑶",
+        "onboard_time": 1725023300,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175702,
+        "num": 175702,
+        "word": "没有人比义乌更懂特朗普",
+        "onboard_time": 1725065480,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 175236,
+        "num": 175236,
+        "word": "父亲回应12岁儿子比肩同期苏炳添",
+        "onboard_time": 1725066199,
+        "rank": 31,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 161605,
+        "num": 161605,
+        "word": "原神",
+        "onboard_time": 1725064038,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156234,
+        "num": 156234,
+        "word": "那英说当歌王天打五雷轰的",
+        "onboard_time": 1725067158,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151230,
+        "num": 151230,
+        "word": "2024只剩三分之一",
+        "onboard_time": 1725061699,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144520,
+        "num": 144520,
+        "word": "校方回应160人住一间宿舍",
+        "onboard_time": 1725034519,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137380,
+        "num": 137380,
+        "word": "果然大一跟大四一眼就能认出来",
+        "onboard_time": 1725026182,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132283,
+        "num": 132283,
+        "word": "斯特林租借阿森纳",
+        "onboard_time": 1725066741,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119588,
+        "num": 119588,
+        "word": "8岁孩子吃一年减脂餐有什么变化",
+        "onboard_time": 1725066258,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112204,
+        "num": 112204,
+        "word": "郑钦文上次输给尼迈尔哭了1小时",
+        "onboard_time": 1725062237,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110585,
+        "num": 110585,
+        "word": "商竣程vs鲁德",
+        "onboard_time": 1725060017,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109170,
+        "num": 109170,
+        "word": "全红婵王祖蓝蹦蹦跳跳离场",
+        "onboard_time": 1725066258,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106590,
+        "num": 106590,
+        "word": "微博香港直播",
+        "onboard_time": 1725067339,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103187,
+        "num": 103187,
+        "word": "华晨宇打响内娱反黄牛第一枪",
+        "onboard_time": 1725014600,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101225,
+        "num": 101225,
+        "word": "EXO月饼",
+        "onboard_time": 1725025280,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100700,
+        "num": 100700,
+        "word": "王雅繁晋级美网16强",
+        "onboard_time": 1725047592,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96423,
+        "num": 96423,
+        "word": "花花幼崽时期全身炸毛太可爱了",
+        "onboard_time": 1725065480,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93797,
+        "num": 93797,
+        "word": "4位战士坐火车3小时连救2人",
+        "onboard_time": 1725065539,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 89826,
+        "num": 89826,
+        "word": "登陆少年成员成团后首发博",
+        "onboard_time": 1725062839,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89333,
+        "num": 89333,
+        "word": "马龙与王楚钦打羽毛球",
+        "onboard_time": 1725031942,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#巩固深化党纪学习教育成果#"
+    }
+  }
+}

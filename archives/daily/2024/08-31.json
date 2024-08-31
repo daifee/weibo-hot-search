@@ -1,6 +1,6 @@
 {
   "startTime": 1725035044218,
-  "endTime": 1725060896626,
+  "endTime": 1725067720425,
   "band_list": [
     {
       "raw_hot": 3132358,
@@ -9,6 +9,14 @@
       "onboard_time": 1725033201,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1655821,
+      "num": 1655821,
+      "word": "11元刀削面的真相不应关停",
+      "onboard_time": 1725062358,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1526085,
@@ -27,6 +35,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 641344,
+      "num": 212301,
+      "word": "黄子韬恋爱前对粉丝说的话",
+      "onboard_time": 1725059416,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 577939,
+      "num": 577939,
+      "word": "林俊杰不要到处扣扣的含义",
+      "onboard_time": 1725061457,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 569760,
       "num": 232903,
       "word": "马龙说买奶茶全红婵立马跟上",
@@ -35,11 +59,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 552145,
+      "num": 552145,
+      "word": "潘展乐抢陈芋汐手机",
+      "onboard_time": 1725067099,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 511640,
       "num": 511640,
       "word": "董事长之子聚餐泄密5人被罚2300万",
       "onboard_time": 1725024741,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 447180,
+      "num": 447180,
+      "word": "花3万6上小学临开学才知被骗",
+      "onboard_time": 1725064219,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -67,11 +107,35 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 395793,
+      "num": 232710,
+      "word": "青岛逆行女司机至今未道歉赔偿",
+      "onboard_time": 1725022281,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394841,
       "num": 394841,
       "word": "樊振东大小眼笑已回归",
       "onboard_time": 1725029602,
       "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 393939,
+      "num": 200417,
+      "word": "打人女司机被拘10天网友为何不满",
+      "onboard_time": 1725026542,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 391182,
+      "num": 391182,
+      "word": "郑钦文再战奥运决赛对手",
+      "onboard_time": 1725060256,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -81,14 +145,6 @@
       "onboard_time": 1725031942,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 375089,
-      "num": 232710,
-      "word": "青岛逆行女司机至今未道歉赔偿",
-      "onboard_time": 1725022281,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 346141,
@@ -105,6 +161,14 @@
       "onboard_time": 1725026182,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 330276,
+      "num": 330276,
+      "word": "这么多年塘主还是爱拒绝自己的女人",
+      "onboard_time": 1725066019,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 320395,
@@ -131,6 +195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 315374,
+      "num": 315374,
+      "word": "四川重庆立秋后为啥这么热",
+      "onboard_time": 1725064578,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314605,
       "num": 314605,
       "word": "被逆行女司机打伤男司机发声",
@@ -153,6 +225,14 @@
       "onboard_time": 1725032363,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 291415,
+      "num": 291415,
+      "word": "唐山3.2级地震",
+      "onboard_time": 1725059235,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 282804,
@@ -185,6 +265,22 @@
       "onboard_time": 1725034519,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265092,
+      "num": 265092,
+      "word": "刘涛 神性地母系赛道",
+      "onboard_time": 1725066139,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 257698,
+      "num": 257698,
+      "word": "孙颖莎陈芋汐自拍合照",
+      "onboard_time": 1725060196,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 255318,
@@ -227,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221603,
+      "num": 191935,
+      "word": "吃了一个月褪黑素后的真实感受",
+      "onboard_time": 1725065300,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 219600,
       "num": 211873,
       "word": "王雅繁晋级美网16强",
@@ -235,20 +339,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212301,
-      "num": 212301,
-      "word": "黄子韬恋爱前对粉丝说的话",
-      "onboard_time": 1725059416,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 212142,
-      "num": 200417,
-      "word": "打人女司机被拘10天网友为何不满",
-      "onboard_time": 1725026542,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 215070,
+      "num": 215070,
+      "word": "艾热赢了凡希亚",
+      "onboard_time": 1725066439,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 205427,
@@ -265,6 +361,14 @@
       "onboard_time": 1725035659,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196004,
+      "num": 196004,
+      "word": "入青云",
+      "onboard_time": 1725065960,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 194975,
@@ -291,6 +395,46 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186536,
+      "num": 186536,
+      "word": "樊振东被推出去大合唱说我不会啊",
+      "onboard_time": 1725065118,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 185694,
+      "num": 195234,
+      "word": "第九代张起灵身材",
+      "onboard_time": 1725031161,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 175702,
+      "num": 175702,
+      "word": "没有人比义乌更懂特朗普",
+      "onboard_time": 1725065480,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 175236,
+      "num": 175236,
+      "word": "父亲回应12岁儿子比肩同期苏炳添",
+      "onboard_time": 1725066199,
+      "rank": 31,
+      "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 174040,
+      "num": 261423,
+      "word": "9月起这些新规开始施行",
+      "onboard_time": 1725066741,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 171408,
       "num": 171408,
       "word": "韩安冉起诉亲妈",
@@ -305,6 +449,14 @@
       "onboard_time": 1725030683,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167986,
+      "num": 180280,
+      "word": "陈赫说鹿晗老舅新歌太好听了",
+      "onboard_time": 1725064639,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 162177,
@@ -323,11 +475,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161605,
+      "num": 161605,
+      "word": "原神",
+      "onboard_time": 1725064038,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 160013,
       "num": 160013,
       "word": "被逆行女子打伤男子已住院",
       "onboard_time": 1725025580,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156234,
+      "num": 156234,
+      "word": "那英说当歌王天打五雷轰的",
+      "onboard_time": 1725067158,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 151230,
+      "num": 151230,
+      "word": "2024只剩三分之一",
+      "onboard_time": 1725061699,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -337,14 +513,6 @@
       "onboard_time": 1725019880,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 140191,
-      "num": 143859,
-      "word": "第九代张起灵身材",
-      "onboard_time": 1725031161,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 140112,
@@ -371,12 +539,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132283,
+      "num": 132283,
+      "word": "斯特林租借阿森纳",
+      "onboard_time": 1725066741,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125110,
       "num": 143830,
       "word": "樊振东潘展乐肤色差",
       "onboard_time": 1725020120,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119588,
+      "num": 119588,
+      "word": "8岁孩子吃一年减脂餐有什么变化",
+      "onboard_time": 1725066258,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 116925,
@@ -409,6 +593,38 @@
       "onboard_time": 1725005482,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112204,
+      "num": 112204,
+      "word": "郑钦文上次输给尼迈尔哭了1小时",
+      "onboard_time": 1725062237,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 110585,
+      "num": 110585,
+      "word": "商竣程vs鲁德",
+      "onboard_time": 1725060017,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109170,
+      "num": 109170,
+      "word": "全红婵王祖蓝蹦蹦跳跳离场",
+      "onboard_time": 1725066258,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 106590,
+      "num": 106590,
+      "word": "微博香港直播",
+      "onboard_time": 1725067339,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 106115,
@@ -467,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96423,
+      "num": 96423,
+      "word": "花花幼崽时期全身炸毛太可爱了",
+      "onboard_time": 1725065480,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95288,
       "num": 143426,
       "word": "戴荃 悟空",
@@ -483,12 +707,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 93793,
-      "num": 93793,
-      "word": "孙颖莎陈芋汐自拍合照",
-      "onboard_time": 1725060196,
-      "rank": 25,
-      "category": "体育"
+      "raw_hot": 93797,
+      "num": 93797,
+      "word": "4位战士坐火车3小时连救2人",
+      "onboard_time": 1725065539,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 92435,
@@ -497,6 +721,14 @@
       "onboard_time": 1725032960,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 89826,
+      "num": 89826,
+      "word": "登陆少年成员成团后首发博",
+      "onboard_time": 1725062839,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 75553,
@@ -513,22 +745,6 @@
       "onboard_time": 1725050951,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 71045,
-      "num": 71045,
-      "word": "郑钦文再战奥运决赛对手",
-      "onboard_time": 1725060256,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 61162,
-      "num": 61162,
-      "word": "商竣程vs鲁德",
-      "onboard_time": 1725060017,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 57933,
@@ -676,7 +892,7 @@
     },
     {
       "raw_hot": 14466,
-      "num": 519255,
+      "num": 584360,
       "word": "坐上动车畅游祖国大好河山",
       "onboard_time": 1725021200,
       "rank": 2,
