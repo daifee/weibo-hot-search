@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725143857749,
+  "endTime": 1725146387701,
   "band_list": [
     {
       "raw_hot": 1442203,
@@ -99,6 +99,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 486439,
+      "num": 162927,
+      "word": "迪丽热巴回到家一看手机天塌了",
+      "onboard_time": 1725145694,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 453225,
       "num": 453225,
       "word": "黄雨婷晒自拍合集",
@@ -187,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207202,
+      "num": 207202,
+      "word": "儿童电话手表别成了小坏蛋",
+      "onboard_time": 1725105681,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194211,
       "num": 194211,
       "word": "43岁陈冠希近照",
@@ -265,6 +281,14 @@
       "onboard_time": 1725115760,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136856,
+      "num": 136856,
+      "word": "9月你好",
+      "onboard_time": 1725146355,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128869,
@@ -435,12 +459,52 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68499,
+      "num": 68499,
+      "word": "包头地震",
+      "onboard_time": 1725146235,
+      "rank": 27,
+      "category": "国内时政,自然"
+    },
+    {
+      "raw_hot": 67441,
+      "num": 67441,
+      "word": "李钟硕给金宇彬秀智送咖啡车",
+      "onboard_time": 1725139090,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 66998,
+      "num": 66998,
+      "word": "赵奕欢上了郝蕾表演课",
+      "onboard_time": 1725136631,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63580,
       "num": 185595,
       "word": "这件文物把考古专家整迷糊了",
       "onboard_time": 1725122418,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63075,
+      "num": 63075,
+      "word": "全红婵贴脸开大干饭哥",
+      "onboard_time": 1725145694,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 56786,
+      "num": 56786,
+      "word": "内蒙古包头市3.8级地震",
+      "onboard_time": 1725146355,
+      "rank": 34,
+      "category": "国外时政,自然"
     },
     {
       "raw_hot": 53517,
@@ -451,6 +515,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50842,
+      "num": 52145,
+      "word": "赵露思侧麻花辫",
+      "onboard_time": 1725145694,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 50331,
+      "num": 52141,
+      "word": "肖战下班鞠躬感谢工作人员",
+      "onboard_time": 1725104839,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 43897,
+      "num": 52138,
+      "word": "樊振东现场教学张雨霏粤语虾饺",
+      "onboard_time": 1725144433,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41542,
       "num": 283228,
       "word": "警方采集DNA寻找高空抛物肇事者",
@@ -459,12 +547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40466,
-      "num": 40466,
-      "word": "赵奕欢上了郝蕾表演课",
-      "onboard_time": 1725136631,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 39325,
+      "num": 52121,
+      "word": "成毅水蓝色造型路透",
+      "onboard_time": 1725140832,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 37111,
@@ -483,19 +571,19 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 36645,
-      "num": 39144,
-      "word": "李钟硕给金宇彬秀智送咖啡车",
-      "onboard_time": 1725139090,
+      "raw_hot": 35640,
+      "num": 52113,
+      "word": "医生都自备这项技能吗",
+      "onboard_time": 1725136390,
       "rank": 49,
-      "category": "剧集"
+      "category": "健康医疗"
     },
     {
-      "raw_hot": 35177,
-      "num": 39132,
-      "word": "儿童电话手表别成了小坏蛋",
-      "onboard_time": 1725105681,
-      "rank": 30,
+      "raw_hot": 34459,
+      "num": 52106,
+      "word": "唐尚珺谈为何上岸",
+      "onboard_time": 1725137532,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -531,14 +619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27088,
-      "num": 39065,
-      "word": "医生都自备这项技能吗",
-      "onboard_time": 1725136390,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 25953,
       "num": 39044,
       "word": "收巧克力被开除园长将幼儿园告上法庭",
@@ -547,27 +627,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25016,
-      "num": 39038,
-      "word": "唐尚珺谈为何上岸",
-      "onboard_time": 1725137532,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24638,
       "num": 34913,
       "word": "南派三叔藏海花在线答疑",
       "onboard_time": 1725125895,
       "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 23254,
-      "num": 39015,
-      "word": "成毅水蓝色造型路透",
-      "onboard_time": 1725140832,
-      "rank": 41,
       "category": "剧集"
     },
     {
