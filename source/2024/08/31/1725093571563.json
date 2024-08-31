@@ -1,0 +1,410 @@
+{
+  "runTime": 1725093571563,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1510412,
+        "num": 1510412,
+        "word": "王楚钦 认识了很多新朋友",
+        "onboard_time": 1725087380,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1421670,
+        "num": 1421670,
+        "word": "人民日报评结婚登记数持续走低",
+        "onboard_time": 1725081620,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29149,
+        "num": 1348536,
+        "word": "用电影海报打开2024新学期",
+        "onboard_time": 1725091999,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1331064,
+        "num": 1331064,
+        "word": "孕妇被高空抛下玻璃瓶砸断脚趾",
+        "onboard_time": 1725089120,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 991929,
+        "num": 991929,
+        "word": "女子拿手机骑单车摔倒身亡",
+        "onboard_time": 1725082940,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 850214,
+        "num": 850214,
+        "word": "张元英出道6年归来才20岁",
+        "onboard_time": 1725088940,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 751457,
+        "num": 751457,
+        "word": "李雯雯 莎莎我爱你",
+        "onboard_time": 1725092299,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 667632,
+        "num": 667632,
+        "word": "孙颖莎带着小分队整活儿",
+        "onboard_time": 1725090319,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 612598,
+        "num": 612598,
+        "word": "马龙访港plog",
+        "onboard_time": 1725091099,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 510987,
+        "num": 510987,
+        "word": "迪丽热巴掉鞋名场面",
+        "onboard_time": 1725087621,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 552454,
+        "num": 507309,
+        "word": "女主播与6旬大爷裸聊要打赏",
+        "onboard_time": 1725072379,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503519,
+        "num": 503519,
+        "word": "菲9701号船故意冲撞我海警舰",
+        "onboard_time": 1725090680,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484276,
+        "num": 484276,
+        "word": "iPhone16Pro古铜色渲染图曝光",
+        "onboard_time": 1725081200,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 31151,
+        "num": 461753,
+        "word": "抢不到的门票都去哪儿了",
+        "onboard_time": 1725092719,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26488,
+        "num": 460586,
+        "word": "被饿了么免单提醒夏天结束了",
+        "onboard_time": 1725091220,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 460328,
+        "num": 460328,
+        "word": "金靖孕肚大片",
+        "onboard_time": 1725080601,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396092,
+        "num": 396092,
+        "word": "章子怡走红毯都带着女儿",
+        "onboard_time": 1725086779,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 322213,
+        "num": 322213,
+        "word": "杨幂上下身反差感穿搭",
+        "onboard_time": 1725089480,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 303033,
+        "num": 303033,
+        "word": "那英 那大姐叫什么来着",
+        "onboard_time": 1725091581,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46967,
+        "num": 302660,
+        "word": "全嘻嘻杨天真 睡前聊天",
+        "onboard_time": 1725093379,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313247,
+        "num": 302562,
+        "word": "两岁宝宝坐高铁被扇耳光",
+        "onboard_time": 1725076579,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262521,
+        "num": 302046,
+        "word": "男童走失后死亡两亲属有作案嫌疑",
+        "onboard_time": 1725093080,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41661,
+        "num": 301212,
+        "word": "车展新车多为何独看GL8",
+        "onboard_time": 1725089419,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 301191,
+        "num": 301191,
+        "word": "大同11元刀削面事件面馆重新开业",
+        "onboard_time": 1725083420,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301166,
+        "num": 301166,
+        "word": "马龙卖艺",
+        "onboard_time": 1725082700,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282684,
+        "num": 282684,
+        "word": "广东一地92名猴痘患者均为男性",
+        "onboard_time": 1725079579,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272909,
+        "num": 272909,
+        "word": "袁冰妍 落花时节又逢君",
+        "onboard_time": 1725077118,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269147,
+        "num": 269147,
+        "word": "宗馥莉接手娃哈哈集团公司股份",
+        "onboard_time": 1725084799,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268210,
+        "num": 268210,
+        "word": "余宇涵 重庆",
+        "onboard_time": 1725080480,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251581,
+        "num": 251581,
+        "word": "BE的E不发音是因为EXO",
+        "onboard_time": 1725088100,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238705,
+        "num": 238705,
+        "word": "入青云番位",
+        "onboard_time": 1725090980,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232137,
+        "num": 232137,
+        "word": "罗云熙晒腹肌",
+        "onboard_time": 1725090861,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227758,
+        "num": 227758,
+        "word": "全红婵与孙颖莎王楚钦合影",
+        "onboard_time": 1725084499,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226456,
+        "num": 226456,
+        "word": "咖啡店长被指已婚诱骗女孩致其自杀",
+        "onboard_time": 1725088158,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218763,
+        "num": 218763,
+        "word": "李雯雯公主抱孙颖莎",
+        "onboard_time": 1725077600,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215893,
+        "num": 215893,
+        "word": "杜海涛 难听",
+        "onboard_time": 1725086240,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212714,
+        "num": 212714,
+        "word": "女子称把房租给亲戚收房时崩溃了",
+        "onboard_time": 1725086600,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209460,
+        "num": 209460,
+        "word": "大学生真正的假期刚刚开始",
+        "onboard_time": 1725092420,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185190,
+        "num": 185190,
+        "word": "侯明昊卢昱晓妆造",
+        "onboard_time": 1725092840,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57738,
+        "num": 183542,
+        "word": "罗云熙plog告别八月",
+        "onboard_time": 1725091339,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182985,
+        "num": 182985,
+        "word": "盛李豪除了射击最爱羽毛球",
+        "onboard_time": 1725092299,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180118,
+        "num": 180118,
+        "word": "一条微博告别八月",
+        "onboard_time": 1725082219,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178408,
+        "num": 178408,
+        "word": "全妹说龙队买的果茶一般",
+        "onboard_time": 1725087019,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176905,
+        "num": 176905,
+        "word": "吃了一个月褪黑素后的真实感受",
+        "onboard_time": 1725065300,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 171123,
+        "num": 171123,
+        "word": "现在什么人都能当老师了",
+        "onboard_time": 1725093321,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170739,
+        "num": 170739,
+        "word": "樊振东 熊猫塑",
+        "onboard_time": 1725088639,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165237,
+        "num": 165237,
+        "word": "孙颖莎祝大家开心快乐度过每一天",
+        "onboard_time": 1725092899,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5535,
+        "num": 164573,
+        "word": "归龙潮开服送141抽",
+        "onboard_time": 1725088219,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164253,
+        "num": 164253,
+        "word": "樊振东跳舞跳成了广播体操",
+        "onboard_time": 1725092359,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160835,
+        "num": 160835,
+        "word": "樊振东看盛李豪打羽毛球",
+        "onboard_time": 1725092420,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视民族工作#"
+    }
+  }
+}

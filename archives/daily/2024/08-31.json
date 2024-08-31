@@ -1,6 +1,6 @@
 {
   "startTime": 1725035044218,
-  "endTime": 1725092781730,
+  "endTime": 1725093571563,
   "band_list": [
     {
       "raw_hot": 3132358,
@@ -75,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1331064,
+      "num": 1331064,
+      "word": "孕妇被高空抛下玻璃瓶砸断脚趾",
+      "onboard_time": 1725089120,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1322275,
       "num": 1322275,
       "word": "三人合照原来是四个人",
@@ -139,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 850214,
+      "num": 850214,
+      "word": "张元英出道6年归来才20岁",
+      "onboard_time": 1725088940,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 841684,
       "num": 841684,
       "word": "余宇涵 重庆",
@@ -161,14 +177,6 @@
       "onboard_time": 1725081200,
       "rank": 35,
       "category": "数码"
-    },
-    {
-      "raw_hot": 812992,
-      "num": 812992,
-      "word": "张元英出道6年归来才20岁",
-      "onboard_time": 1725088940,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 782304,
@@ -195,8 +203,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 751457,
+      "num": 751457,
+      "word": "李雯雯 莎莎我爱你",
+      "onboard_time": 1725092299,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 729207,
-      "num": 478845,
+      "num": 612598,
       "word": "马龙访港plog",
       "onboard_time": 1725091099,
       "rank": 10,
@@ -379,20 +395,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 503519,
+      "num": 503519,
+      "word": "菲9701号船故意冲撞我海警舰",
+      "onboard_time": 1725090680,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 487322,
       "num": 487322,
       "word": "吴尊陪NeiNei排队7小时看霉霉演唱会",
       "onboard_time": 1725071659,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 470142,
-      "num": 553710,
-      "word": "孕妇被高空抛下玻璃瓶砸断脚趾",
-      "onboard_time": 1725089120,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 450250,
@@ -425,14 +441,6 @@
       "onboard_time": 1725026542,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 415379,
-      "num": 398597,
-      "word": "李雯雯 莎莎我爱你",
-      "onboard_time": 1725092299,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 413131,
@@ -659,12 +667,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 302881,
-      "num": 486880,
-      "word": "菲9701号船故意冲撞我海警舰",
-      "onboard_time": 1725090680,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 303033,
+      "num": 303033,
+      "word": "那英 那大姐叫什么来着",
+      "onboard_time": 1725091581,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 302808,
@@ -785,6 +793,14 @@
       "onboard_time": 1725070519,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 262521,
+      "num": 302046,
+      "word": "男童走失后死亡两亲属有作案嫌疑",
+      "onboard_time": 1725093080,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260312,
@@ -923,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238705,
+      "num": 238705,
+      "word": "入青云番位",
+      "onboard_time": 1725090980,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238407,
       "num": 238407,
       "word": "女子称把房租给亲戚收房时崩溃了",
@@ -953,6 +977,14 @@
       "onboard_time": 1725023300,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 232137,
+      "num": 399876,
+      "word": "罗云熙晒腹肌",
+      "onboard_time": 1725090861,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 227738,
@@ -987,14 +1019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 222921,
-      "num": 222921,
-      "word": "入青云番位",
-      "onboard_time": 1725090980,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 220363,
       "num": 250529,
       "word": "那英说当歌王天打五雷轰的",
@@ -1019,14 +1043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 218741,
-      "num": 399876,
-      "word": "罗云熙晒腹肌",
-      "onboard_time": 1725090861,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213626,
       "num": 213626,
       "word": "两代跳水女王罕见同框",
@@ -1041,6 +1057,14 @@
       "onboard_time": 1725077541,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209460,
+      "num": 209460,
+      "word": "大学生真正的假期刚刚开始",
+      "onboard_time": 1725092420,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 208596,
@@ -1073,14 +1097,6 @@
       "onboard_time": 1725088639,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202054,
-      "num": 202054,
-      "word": "那英 那大姐叫什么来着",
-      "onboard_time": 1725091581,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 201535,
@@ -1227,6 +1243,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185190,
+      "num": 185190,
+      "word": "侯明昊卢昱晓妆造",
+      "onboard_time": 1725092840,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 182985,
+      "num": 182985,
+      "word": "盛李豪除了射击最爱羽毛球",
+      "onboard_time": 1725092299,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182621,
       "num": 182621,
       "word": "遭逆行女子殴打者称忍住了才没还手",
@@ -1283,14 +1315,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 175518,
-      "num": 175518,
-      "word": "盛李豪除了射击最爱羽毛球",
-      "onboard_time": 1725092299,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 175161,
       "num": 175161,
       "word": "许嵩一开口就开始疼痛了",
@@ -1321,6 +1345,14 @@
       "onboard_time": 1725025883,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 171123,
+      "num": 171123,
+      "word": "现在什么人都能当老师了",
+      "onboard_time": 1725093321,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 169540,
@@ -1369,6 +1401,14 @@
       "onboard_time": 1725061699,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165237,
+      "num": 165237,
+      "word": "孙颖莎祝大家开心快乐度过每一天",
+      "onboard_time": 1725092899,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 165078,
@@ -1435,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160835,
+      "num": 160835,
+      "word": "樊振东看盛李豪打羽毛球",
+      "onboard_time": 1725092420,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160315,
       "num": 160315,
       "word": "马龙水灵灵地犯规了",
@@ -1491,14 +1539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 153592,
-      "num": 153592,
-      "word": "大学生真正的假期刚刚开始",
-      "onboard_time": 1725092420,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 152492,
       "num": 152492,
       "word": "晋江西西特",
@@ -1512,14 +1552,6 @@
       "word": "林一巴黎奥运特辑就这样水灵灵地来了",
       "onboard_time": 1725088940,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 151421,
-      "num": 151421,
-      "word": "樊振东看盛李豪打羽毛球",
-      "onboard_time": 1725092420,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -2011,6 +2043,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 46967,
+      "num": 302660,
+      "word": "全嘻嘻杨天真 睡前聊天",
+      "onboard_time": 1725093379,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45973,
       "num": 413475,
       "word": "勿将暴力行为作为负面情绪发泄口",
@@ -2025,6 +2065,14 @@
       "onboard_time": 1725041593,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 41661,
+      "num": 407797,
+      "word": "车展新车多为何独看GL8",
+      "onboard_time": 1725089419,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 41218,
@@ -2075,14 +2123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 37681,
-      "num": 407797,
-      "word": "车展新车多为何独看GL8",
-      "onboard_time": 1725089419,
-      "rank": 40,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 34023,
       "num": 212387,
       "word": "全世界最可爱的大脸",
@@ -2123,12 +2163,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31151,
+      "num": 461753,
+      "word": "抢不到的门票都去哪儿了",
+      "onboard_time": 1725092719,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29873,
-      "num": 414506,
+      "num": 460586,
       "word": "被饿了么免单提醒夏天结束了",
       "onboard_time": 1725091220,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 29149,
+      "num": 1348536,
+      "word": "用电影海报打开2024新学期",
+      "onboard_time": 1725091999,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23917,
@@ -2168,14 +2224,6 @@
       "word": "开学音乐会草坪长满了熟人",
       "onboard_time": 1725047532,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18573,
-      "num": 1145460,
-      "word": "用电影海报打开2024新学期",
-      "onboard_time": 1725091999,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2233,14 +2281,6 @@
       "onboard_time": 1725082580,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9137,
-      "num": 437531,
-      "word": "抢不到的门票都去哪儿了",
-      "onboard_time": 1725092719,
-      "rank": 13,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -2261,6 +2301,9 @@
     },
     {
       "word": "#教育引导学生立鸿鹄志做奋斗者#"
+    },
+    {
+      "word": "#习近平总书记高度重视民族工作#"
     }
   ]
 }
