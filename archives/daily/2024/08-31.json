@@ -1,6 +1,6 @@
 {
   "startTime": 1725035044218,
-  "endTime": 1725103062884,
+  "endTime": 1725104183028,
   "band_list": [
     {
       "raw_hot": 3132358,
@@ -171,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 916458,
+      "num": 916458,
+      "word": "李诞光头簪花",
+      "onboard_time": 1725102140,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 890079,
       "num": 890079,
       "word": "广东一地92名猴痘患者均为男性",
@@ -315,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 688270,
+      "num": 688270,
+      "word": "生4胞胎夫妻月收入不到1万",
+      "onboard_time": 1725098900,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 687881,
       "num": 687881,
       "word": "全红婵与孙颖莎王楚钦合影",
@@ -411,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 570093,
+      "num": 521696,
+      "word": "专家称女生游泳私密贴是智商税",
+      "onboard_time": 1725101480,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 569760,
       "num": 232903,
       "word": "马龙说买奶茶全红婵立马跟上",
@@ -443,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 545400,
+      "num": 545400,
+      "word": "李楷灿千字小作文",
+      "onboard_time": 1725102321,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 543689,
       "num": 543689,
       "word": "柯文哲被当庭逮捕",
@@ -465,14 +497,6 @@
       "onboard_time": 1725086779,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 526484,
-      "num": 526484,
-      "word": "李诞光头簪花",
-      "onboard_time": 1725102140,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 526132,
@@ -507,6 +531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 471159,
+      "num": 471159,
+      "word": "WBG对战LNG",
+      "onboard_time": 1725094280,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 457220,
       "num": 457220,
       "word": "广州再次明确不发展共享电单车",
@@ -536,6 +568,14 @@
       "word": "朱志鑫出道首发文",
       "onboard_time": 1725027441,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 417983,
+      "num": 524665,
+      "word": "玩密室拼场拼到了朱志鑫",
+      "onboard_time": 1725099560,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -569,22 +609,6 @@
       "onboard_time": 1725066019,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 410811,
-      "num": 410811,
-      "word": "生4胞胎夫妻月收入不到1万",
-      "onboard_time": 1725098900,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 406314,
-      "num": 524665,
-      "word": "玩密室拼场拼到了朱志鑫",
-      "onboard_time": 1725099560,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 403611,
@@ -699,14 +723,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 341805,
-      "num": 340604,
-      "word": "专家称女生游泳私密贴是智商税",
-      "onboard_time": 1725101480,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 336493,
       "num": 232605,
       "word": "果然大一跟大四一眼就能认出来",
@@ -764,7 +780,7 @@
     },
     {
       "raw_hot": 318787,
-      "num": 318787,
+      "num": 453002,
       "word": "王一博裤子全是汗",
       "onboard_time": 1725100279,
       "rank": 32,
@@ -809,6 +825,14 @@
       "onboard_time": 1725068178,
       "rank": 35,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 313133,
+      "num": 313133,
+      "word": "投诉刀削面阴阳价格博主再发声",
+      "onboard_time": 1725101059,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305295,
@@ -867,20 +891,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 291045,
-      "num": 291045,
-      "word": "投诉刀削面阴阳价格博主再发声",
-      "onboard_time": 1725101059,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 285742,
       "num": 285742,
       "word": "檀健次演唱会",
       "onboard_time": 1725099260,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 285536,
+      "num": 484956,
+      "word": "阴阳面馆重新开业11元刺痛了谁",
+      "onboard_time": 1725099860,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283161,
@@ -929,6 +953,14 @@
       "onboard_time": 1725083420,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273250,
+      "num": 273250,
+      "word": "室友吃芒果导致我过敏进了医院",
+      "onboard_time": 1725103039,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 272596,
@@ -1147,20 +1179,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 235617,
-      "num": 484956,
-      "word": "阴阳面馆重新开业11元刺痛了谁",
-      "onboard_time": 1725099860,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 233075,
       "num": 233075,
       "word": "边水往事 王玉雯姜珮瑶",
       "onboard_time": 1725023300,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 233072,
+      "num": 233072,
+      "word": "孟佳王霏霏为曹璐打call",
+      "onboard_time": 1725103039,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 232137,
@@ -1177,14 +1209,6 @@
       "onboard_time": 1725092299,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 230019,
-      "num": 230019,
-      "word": "李楷灿千字小作文",
-      "onboard_time": 1725102321,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 227738,
@@ -1305,6 +1329,14 @@
       "onboard_time": 1725027382,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 205046,
+      "num": 205046,
+      "word": "王一博探索新境尺度好大",
+      "onboard_time": 1725103640,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 204114,
@@ -1467,6 +1499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185633,
+      "num": 185633,
+      "word": "LNG晋级S14",
+      "onboard_time": 1725104059,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 185380,
       "num": 185380,
       "word": "orm",
@@ -1563,6 +1603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 176926,
+      "num": 176926,
+      "word": "当事人不认同7元面是矿工的专属优惠",
+      "onboard_time": 1725101902,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176343,
       "num": 176343,
       "word": "王一博冰红茶见面会直播",
@@ -1571,20 +1619,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 176030,
-      "num": 176030,
-      "word": "WBG对战LNG",
-      "onboard_time": 1725094280,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 175161,
       "num": 175161,
       "word": "许嵩一开口就开始疼痛了",
       "onboard_time": 1725088520,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174375,
+      "num": 174375,
+      "word": "孙颖莎又双叒叕指导合影了",
+      "onboard_time": 1725103879,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 174040,
@@ -1979,14 +2027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140198,
-      "num": 140198,
-      "word": "孟佳王霏霏为曹璐打call",
-      "onboard_time": 1725103039,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 140112,
       "num": 140112,
       "word": "郑钦文晋级美网16强",
@@ -2041,14 +2081,6 @@
       "onboard_time": 1725097279,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136652,
-      "num": 136652,
-      "word": "室友吃芒果导致我过敏进了医院",
-      "onboard_time": 1725103039,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 136579,
@@ -2491,6 +2523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 44072,
+      "num": 539602,
+      "word": "吴孟超院士生前珍贵画面",
+      "onboard_time": 1725102860,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41661,
       "num": 407797,
       "word": "车展新车多为何独看GL8",
@@ -2559,14 +2599,6 @@
       "num": 694178,
       "word": "圣博特训学校被举报后疑将学生转移",
       "onboard_time": 1725096680,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38155,
-      "num": 539602,
-      "word": "吴孟超院士生前珍贵画面",
-      "onboard_time": 1725102860,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -2644,10 +2676,18 @@
     },
     {
       "raw_hot": 28811,
-      "num": 139946,
+      "num": 523178,
       "word": "家用纯电SUV卷对了吗",
       "onboard_time": 1725102801,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27769,
+      "num": 500414,
+      "word": "扫码用餐给三星半却被店家骚扰要五星",
+      "onboard_time": 1725103099,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2672,6 +2712,14 @@
       "word": "儿童友好城市距离我们还有多远",
       "onboard_time": 1725085460,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21860,
+      "num": 452344,
+      "word": "通信公司高管成为电诈团伙内鬼",
+      "onboard_time": 1725103281,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
