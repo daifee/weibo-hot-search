@@ -1,0 +1,410 @@
+{
+  "runTime": 1725072820056,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 800198,
+        "num": 1128031,
+        "word": "三人合照原来是四个人",
+        "onboard_time": 1725068178,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 773449,
+        "num": 773449,
+        "word": "马东紧急备降",
+        "onboard_time": 1725068118,
+        "rank": 1,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 100099,
+        "num": 773432,
+        "word": "9月起这些新规开始施行",
+        "onboard_time": 1725066741,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773423,
+        "num": 773423,
+        "word": "潘展乐抢陈芋汐手机",
+        "onboard_time": 1725067099,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 726985,
+        "num": 726985,
+        "word": "11元刀削面的真相不应关停",
+        "onboard_time": 1725062358,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544057,
+        "num": 544057,
+        "word": "怀化市政协原主席印宇鹰被双开",
+        "onboard_time": 1725068361,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20303,
+        "num": 513414,
+        "word": "带着满满的收获迎接新学期",
+        "onboard_time": 1725072318,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500541,
+        "num": 500541,
+        "word": "孙颖莎张雨霏在香港都会大学交流",
+        "onboard_time": 1725070038,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 440385,
+        "num": 440385,
+        "word": "刘涛 神性地母系赛道",
+        "onboard_time": 1725066139,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45973,
+        "num": 413475,
+        "word": "勿将暴力行为作为负面情绪发泄口",
+        "onboard_time": 1725071598,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403048,
+        "num": 403048,
+        "word": "林俊杰不要到处扣扣的含义",
+        "onboard_time": 1725061457,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 349701,
+        "num": 349701,
+        "word": "国乒打羽毛球 国羽打乒乓球",
+        "onboard_time": 1725069680,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331357,
+        "num": 331357,
+        "word": "父亲回应12岁儿子比肩同期苏炳添",
+        "onboard_time": 1725066199,
+        "rank": 12,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 312780,
+        "num": 312780,
+        "word": "柯文哲被当庭逮捕",
+        "onboard_time": 1725071540,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32913,
+        "num": 288235,
+        "word": "曝直播间所谓特供酒成本仅10元",
+        "onboard_time": 1725071598,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280297,
+        "num": 280297,
+        "word": "中金降职降薪传言属实",
+        "onboard_time": 1725068178,
+        "rank": 15,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 271041,
+        "num": 271041,
+        "word": "花3万6上小学临开学才知被骗",
+        "onboard_time": 1725064219,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255488,
+        "num": 255488,
+        "word": "孙颖莎竟然是e人",
+        "onboard_time": 1725069980,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242695,
+        "num": 255039,
+        "word": "陈妍希周柯宇路透",
+        "onboard_time": 1725070519,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225349,
+        "num": 254112,
+        "word": "卢昱晓入青云开机路透",
+        "onboard_time": 1725068479,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 649595,
+        "num": 253201,
+        "word": "头一次见千金大小狗",
+        "onboard_time": 1725071659,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 599608,
+        "num": 252510,
+        "word": "吃了一个月褪黑素后的真实感受",
+        "onboard_time": 1725065300,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 351702,
+        "num": 251105,
+        "word": "黄子韬恋爱前对粉丝说的话",
+        "onboard_time": 1725059416,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213008,
+        "num": 250529,
+        "word": "那英说当歌王天打五雷轰的",
+        "onboard_time": 1725067158,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221299,
+        "num": 249086,
+        "word": "吴尊陪NeiNei排队7小时看霉霉演唱会",
+        "onboard_time": 1725071659,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 330329,
+        "num": 248449,
+        "word": "打人女司机被拘10天网友为何不满",
+        "onboard_time": 1725026542,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248048,
+        "num": 248048,
+        "word": "没有人比义乌更懂特朗普",
+        "onboard_time": 1725065480,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 235280,
+        "num": 235280,
+        "word": "马龙王楚钦拍立得合照",
+        "onboard_time": 1725071540,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195667,
+        "num": 227366,
+        "word": "披荆的哥哥斩棘的齐思钧",
+        "onboard_time": 1725070639,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179299,
+        "num": 226271,
+        "word": "这么多年塘主还是爱拒绝自己的女人",
+        "onboard_time": 1725066019,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225301,
+        "num": 225301,
+        "word": "孙颖莎说有梦可追就是一种幸福",
+        "onboard_time": 1725071659,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219063,
+        "num": 219063,
+        "word": "青岛逆行女司机至今未道歉赔偿",
+        "onboard_time": 1725022281,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204001,
+        "num": 204001,
+        "word": "孙颖莎说球衣上的国旗大于姓名",
+        "onboard_time": 1725072260,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199295,
+        "num": 199295,
+        "word": "四川重庆立秋后为啥这么热",
+        "onboard_time": 1725064578,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178497,
+        "num": 178497,
+        "word": "中戏动作表演专业",
+        "onboard_time": 1725071780,
+        "rank": 34,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 170956,
+        "num": 170956,
+        "word": "郑钦文再战奥运决赛对手",
+        "onboard_time": 1725060256,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163953,
+        "num": 163953,
+        "word": "遭逆行女司机殴打者发声",
+        "onboard_time": 1725067398,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157478,
+        "num": 157478,
+        "word": "樊振东尴尬一分钟",
+        "onboard_time": 1725072318,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152166,
+        "num": 152166,
+        "word": "重庆3岁走失男童遗体被找到",
+        "onboard_time": 1725030021,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148923,
+        "num": 148923,
+        "word": "中方呼吁美方停止无聊的指责游戏",
+        "onboard_time": 1725070999,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148468,
+        "num": 148468,
+        "word": "女主播与6旬大爷裸聊要打赏",
+        "onboard_time": 1725072379,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141751,
+        "num": 141751,
+        "word": "原来猴哥情商这么高",
+        "onboard_time": 1725070578,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136183,
+        "num": 136183,
+        "word": "德约科维奇vs波佩林",
+        "onboard_time": 1725071901,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136107,
+        "num": 136107,
+        "word": "马龙说买奶茶全红婵立马跟上",
+        "onboard_time": 1725028642,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125764,
+        "num": 125764,
+        "word": "小伙拒绝加班被辞退与公司打官司全赢",
+        "onboard_time": 1725072679,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125149,
+        "num": 125149,
+        "word": "陈赫说鹿晗老舅新歌太好听了",
+        "onboard_time": 1725064639,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 123066,
+        "num": 123066,
+        "word": "台检方清晨突击搜索柯文哲住处",
+        "onboard_time": 1725032363,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122698,
+        "num": 122698,
+        "word": "艾热赢了凡希亚",
+        "onboard_time": 1725066439,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119884,
+        "num": 119884,
+        "word": "第九代张起灵身材",
+        "onboard_time": 1725031161,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114653,
+        "num": 114653,
+        "word": "8岁孩子吃一年减脂餐有什么变化",
+        "onboard_time": 1725066258,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信非洲学者#"
+    }
+  }
+}
