@@ -1,6 +1,6 @@
 {
   "startTime": 1725035044218,
-  "endTime": 1725093571563,
+  "endTime": 1725096059222,
   "band_list": [
     {
       "raw_hot": 3132358,
@@ -17,6 +17,14 @@
       "onboard_time": 1725087380,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2254664,
+      "num": 2254664,
+      "word": "孕妇被高空抛下玻璃瓶砸断脚趾",
+      "onboard_time": 1725089120,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1839817,
@@ -75,14 +83,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1331064,
-      "num": 1331064,
-      "word": "孕妇被高空抛下玻璃瓶砸断脚趾",
-      "onboard_time": 1725089120,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1322275,
       "num": 1322275,
       "word": "三人合照原来是四个人",
@@ -113,6 +113,14 @@
       "onboard_time": 1725080601,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1081910,
+      "num": 1081910,
+      "word": "男童走失后死亡两亲属有作案嫌疑",
+      "onboard_time": 1725093080,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1072003,
@@ -179,6 +187,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 804283,
+      "num": 804283,
+      "word": "李雯雯 莎莎我爱你",
+      "onboard_time": 1725092299,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 782304,
       "num": 782304,
       "word": "马龙卖艺",
@@ -203,12 +219,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 751457,
-      "num": 751457,
-      "word": "李雯雯 莎莎我爱你",
-      "onboard_time": 1725092299,
-      "rank": 21,
-      "category": "体育"
+      "raw_hot": 736572,
+      "num": 736572,
+      "word": "菲9701号船故意冲撞我海警舰",
+      "onboard_time": 1725090680,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 729207,
@@ -363,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 546900,
+      "num": 737073,
+      "word": "那英 那大姐叫什么来着",
+      "onboard_time": 1725091581,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 543689,
       "num": 543689,
       "word": "柯文哲被当庭逮捕",
@@ -379,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 527392,
+      "num": 527392,
+      "word": "章子怡走红毯都带着女儿",
+      "onboard_time": 1725086779,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 526132,
       "num": 526132,
       "word": "曹璐以FIESTAR成员回归",
@@ -392,14 +424,6 @@
       "word": "董事长之子聚餐泄密5人被罚2300万",
       "onboard_time": 1725024741,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 503519,
-      "num": 503519,
-      "word": "菲9701号船故意冲撞我海警舰",
-      "onboard_time": 1725090680,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -457,14 +481,6 @@
       "onboard_time": 1725066019,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 409096,
-      "num": 409096,
-      "word": "章子怡走红毯都带着女儿",
-      "onboard_time": 1725086779,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 402205,
@@ -537,6 +553,14 @@
       "onboard_time": 1725031942,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 376486,
+      "num": 376486,
+      "word": "菲律宾",
+      "onboard_time": 1725094640,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 365010,
@@ -667,14 +691,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 303033,
-      "num": 303033,
-      "word": "那英 那大姐叫什么来着",
-      "onboard_time": 1725091581,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 302808,
       "num": 302808,
       "word": "全红婵访港示范水花消失术",
@@ -793,14 +809,6 @@
       "onboard_time": 1725070519,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 262521,
-      "num": 302046,
-      "word": "男童走失后死亡两亲属有作案嫌疑",
-      "onboard_time": 1725093080,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 260312,
@@ -971,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236997,
+      "num": 236997,
+      "word": "王楚钦不理解但直接加入",
+      "onboard_time": 1725095659,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 233075,
       "num": 233075,
       "word": "边水往事 王玉雯姜珮瑶",
@@ -1099,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201918,
+      "num": 201918,
+      "word": "盛李豪除了射击最爱羽毛球",
+      "onboard_time": 1725092299,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201535,
       "num": 201535,
       "word": "孙颖莎一直合影到最后才离场",
@@ -1161,6 +1185,14 @@
       "onboard_time": 1725035058,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194274,
+      "num": 194274,
+      "word": "丁太升回应派克特diss乙游",
+      "onboard_time": 1725095538,
+      "rank": 31,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 193941,
@@ -1251,14 +1283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182985,
-      "num": 182985,
-      "word": "盛李豪除了射击最爱羽毛球",
-      "onboard_time": 1725092299,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 182621,
       "num": 182621,
       "word": "遭逆行女子殴打者称忍住了才没还手",
@@ -1307,12 +1331,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177832,
+      "num": 177832,
+      "word": "章若楠新剧刚开工就辞职",
+      "onboard_time": 1725094340,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177479,
       "num": 414898,
       "word": "赵露思官宣米兰时装周行程",
       "onboard_time": 1725080240,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176343,
+      "num": 176343,
+      "word": "王一博冰红茶见面会直播",
+      "onboard_time": 1725094100,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 175161,
@@ -1419,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165036,
+      "num": 165036,
+      "word": "想知道侯明昊在车里是啥姿势",
+      "onboard_time": 1725094699,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163953,
       "num": 163953,
       "word": "遭逆行女司机殴打者发声",
@@ -1435,6 +1483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162841,
+      "num": 162841,
+      "word": "杨洋好像个妙脆角",
+      "onboard_time": 1725095179,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 162177,
       "num": 162177,
       "word": "被逆行女司机打伤男司机是退伍军人",
@@ -1449,6 +1505,14 @@
       "onboard_time": 1725076999,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 161754,
+      "num": 736600,
+      "word": "唐尚珺前往华南师大报到",
+      "onboard_time": 1725094340,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161669,
@@ -1489,6 +1553,14 @@
       "onboard_time": 1725087559,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160015,
+      "num": 160015,
+      "word": "乌克兰要求蒙古国逮捕普京",
+      "onboard_time": 1725095659,
+      "rank": 41,
+      "category": "国外时政"
     },
     {
       "raw_hot": 160013,
@@ -1665,6 +1737,14 @@
       "onboard_time": 1725087740,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135575,
+      "num": 135575,
+      "word": "蔚来报警",
+      "onboard_time": 1725094219,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 134262,
@@ -2051,6 +2131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46910,
+      "num": 180088,
+      "word": "秋天的第一个报恩榴莲",
+      "onboard_time": 1725095300,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 45973,
       "num": 413475,
       "word": "勿将暴力行为作为负面情绪发泄口",
@@ -2123,6 +2211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 34643,
+      "num": 1348536,
+      "word": "用电影海报打开2024新学期",
+      "onboard_time": 1725091999,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34023,
       "num": 212387,
       "word": "全世界最可爱的大脸",
@@ -2179,11 +2275,11 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 29149,
-      "num": 1348536,
-      "word": "用电影海报打开2024新学期",
-      "onboard_time": 1725091999,
-      "rank": 2,
+      "raw_hot": 26246,
+      "num": 425795,
+      "word": "网民冒充被救女孩丑化牺牲民警被查处",
+      "onboard_time": 1725095119,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2273,6 +2369,14 @@
       "onboard_time": 1724982979,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10206,
+      "num": 400385,
+      "word": "Henry红色厚底鞋",
+      "onboard_time": 1725095719,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 9153,
