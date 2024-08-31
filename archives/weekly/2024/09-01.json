@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725136528328,
+  "endTime": 1725139173514,
   "band_list": [
     {
       "raw_hot": 1442203,
@@ -507,7 +507,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19303,
+      "raw_hot": 22873,
+      "num": 22873,
+      "word": "赵奕欢上了郝蕾表演课",
+      "onboard_time": 1725136631,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 20756,
       "num": 22394,
       "word": "收巧克力被开除园长将幼儿园告上法庭",
       "onboard_time": 1725134592,
@@ -523,7 +531,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 15832,
+      "raw_hot": 16290,
       "num": 21702,
       "word": "医生都自备这项技能吗",
       "onboard_time": 1725136390,
@@ -537,6 +545,14 @@
       "onboard_time": 1725107001,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 15434,
+      "num": 18916,
+      "word": "李钟硕给金宇彬秀智送咖啡车",
+      "onboard_time": 1725139090,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 10951,
