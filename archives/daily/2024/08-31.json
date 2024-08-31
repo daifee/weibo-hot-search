@@ -1,6 +1,6 @@
 {
   "startTime": 1725035044218,
-  "endTime": 1725085640707,
+  "endTime": 1725086425560,
   "band_list": [
     {
       "raw_hot": 3132358,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1668136,
-      "num": 1668136,
+      "raw_hot": 1723083,
+      "num": 1723083,
       "word": "收38万彩礼退婚不退钱男方母亲被行拘",
       "onboard_time": 1725079880,
       "rank": 9,
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 950628,
+      "num": 950628,
+      "word": "女子拿手机骑单车摔倒身亡",
+      "onboard_time": 1725082940,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 890079,
       "num": 890079,
       "word": "广东一地92名猴痘患者均为男性",
@@ -112,14 +120,6 @@
       "word": "马东紧急备降",
       "onboard_time": 1725068118,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 847598,
-      "num": 847598,
-      "word": "女子拿手机骑单车摔倒身亡",
-      "onboard_time": 1725082940,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -137,6 +137,14 @@
       "onboard_time": 1725078860,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 824393,
+      "num": 824393,
+      "word": "iPhone16Pro古铜色渲染图曝光",
+      "onboard_time": 1725081200,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 782304,
@@ -217,14 +225,6 @@
       "onboard_time": 1725072260,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 633964,
-      "num": 633964,
-      "word": "iPhone16Pro古铜色渲染图曝光",
-      "onboard_time": 1725081200,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 629926,
@@ -329,6 +329,14 @@
       "onboard_time": 1725066139,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 435538,
+      "num": 435538,
+      "word": "人民日报评结婚登记数持续走低",
+      "onboard_time": 1725081620,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 432554,
@@ -459,14 +467,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 343733,
-      "num": 343733,
-      "word": "人民日报评结婚登记数持续走低",
-      "onboard_time": 1725081620,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 336493,
       "num": 232605,
       "word": "果然大一跟大四一眼就能认出来",
@@ -553,6 +553,14 @@
       "onboard_time": 1725068178,
       "rank": 35,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 312168,
+      "num": 312168,
+      "word": "全红婵与孙颖莎王楚钦合影",
+      "onboard_time": 1725084499,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 302808,
@@ -643,14 +651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 274182,
-      "num": 274182,
-      "word": "全红婵与孙颖莎王楚钦合影",
-      "onboard_time": 1725084499,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 273952,
       "num": 273952,
       "word": "李诞小卖部",
@@ -731,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255289,
+      "num": 255289,
+      "word": "樊振东笑成一团了",
+      "onboard_time": 1725082340,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 253177,
       "num": 253177,
       "word": "世界之外",
@@ -755,14 +763,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 248899,
-      "num": 248899,
-      "word": "樊振东笑成一团了",
-      "onboard_time": 1725082340,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 248689,
       "num": 248689,
       "word": "国乒三打三",
@@ -777,6 +777,14 @@
       "onboard_time": 1725081680,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242948,
+      "num": 242948,
+      "word": "国王与乞丐 二公最佳",
+      "onboard_time": 1725084619,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 240307,
@@ -812,7 +820,7 @@
     },
     {
       "raw_hot": 230748,
-      "num": 230748,
+      "num": 556147,
       "word": "大同11元刀削面事件面馆重新开业",
       "onboard_time": 1725083420,
       "rank": 33,
@@ -875,14 +883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 214369,
-      "num": 214369,
-      "word": "国王与乞丐 二公最佳",
-      "onboard_time": 1725084619,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 213626,
       "num": 213626,
       "word": "两代跳水女王罕见同框",
@@ -937,6 +937,14 @@
       "onboard_time": 1725074659,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198644,
+      "num": 198644,
+      "word": "宗馥莉接手娃哈哈集团公司股份",
+      "onboard_time": 1725084799,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197719,
@@ -1147,6 +1155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 166375,
+      "num": 166375,
+      "word": "全红婵陈芋汐空中连续卷腹",
+      "onboard_time": 1725084799,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165748,
       "num": 165748,
       "word": "2024只剩三分之一",
@@ -1156,7 +1172,7 @@
     },
     {
       "raw_hot": 165078,
-      "num": 330734,
+      "num": 566128,
       "word": "凡人歌开播",
       "onboard_time": 1725077600,
       "rank": 41,
@@ -1219,14 +1235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159318,
-      "num": 159318,
-      "word": "全红婵陈芋汐空中连续卷腹",
-      "onboard_time": 1725084799,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 158132,
       "num": 158132,
       "word": "国乒看别人卖艺就是乐呵",
@@ -1267,19 +1275,19 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 149693,
-      "num": 149693,
-      "word": "宗馥莉接手娃哈哈集团公司股份",
-      "onboard_time": 1725084799,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148923,
       "num": 148923,
       "word": "中方呼吁美方停止无聊的指责游戏",
       "onboard_time": 1725070999,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148783,
+      "num": 148783,
+      "word": "90后家长为女儿开学备小卡",
+      "onboard_time": 1725084141,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1323,28 +1331,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139933,
+      "num": 139933,
+      "word": "王丽坤老公涉嫌诈骗案查封资产",
+      "onboard_time": 1725084859,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139860,
       "num": 139860,
       "word": "宋亚轩刘耀文互换水枪",
       "onboard_time": 1725079099,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 139468,
-      "num": 139468,
-      "word": "90后家长为女儿开学备小卡",
-      "onboard_time": 1725084141,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138565,
-      "num": 138565,
-      "word": "王丽坤老公涉嫌诈骗案查封资产",
-      "onboard_time": 1725084859,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 138280,
@@ -1361,6 +1361,14 @@
       "onboard_time": 1725066258,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135220,
+      "num": 135220,
+      "word": "杜海涛 难听",
+      "onboard_time": 1725086240,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 134262,
@@ -1473,6 +1481,14 @@
       "onboard_time": 1725062237,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109614,
+      "num": 612305,
+      "word": "翟佳宁 最烦当领导舔狗的人",
+      "onboard_time": 1725084200,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 109170,
@@ -1625,14 +1641,6 @@
       "onboard_time": 1725056354,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 74081,
-      "num": 612305,
-      "word": "翟佳宁 最烦当领导舔狗的人",
-      "onboard_time": 1725084200,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 73856,
@@ -1803,11 +1811,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32299,
+      "num": 406645,
+      "word": "新龙门客栈越剧电影",
+      "onboard_time": 1725086059,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 31907,
       "num": 104216,
       "word": "今后三天全国一半地方有雨",
       "onboard_time": 1725041953,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23289,
+      "num": 484706,
+      "word": "儿童友好城市距离我们还有多远",
+      "onboard_time": 1725085460,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1872,14 +1896,6 @@
       "word": "为替亡兄报恩他走进115户人家",
       "onboard_time": 1725043812,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12466,
-      "num": 484706,
-      "word": "儿童友好城市距离我们还有多远",
-      "onboard_time": 1725085460,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
