@@ -1,12 +1,20 @@
 {
   "startTime": 1725035044218,
-  "endTime": 1725086425560,
+  "endTime": 1725088703971,
   "band_list": [
     {
       "raw_hot": 3132358,
       "num": 3132358,
       "word": "郑钦文",
       "onboard_time": 1725033201,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2296751,
+      "num": 2296751,
+      "word": "王楚钦 认识了很多新朋友",
+      "onboard_time": 1725087380,
       "rank": 0,
       "category": "体育"
     },
@@ -32,6 +40,14 @@
       "word": "11元刀削面的真相不应关停",
       "onboard_time": 1725062358,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1618446,
+      "num": 1618446,
+      "word": "人民日报评结婚登记数持续走低",
+      "onboard_time": 1725081620,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -195,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 687881,
+      "num": 687881,
+      "word": "全红婵与孙颖莎王楚钦合影",
+      "onboard_time": 1725084499,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 672708,
       "num": 672708,
       "word": "原来微信余额还可以被隐藏",
@@ -307,6 +331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 521518,
+      "num": 556147,
+      "word": "大同11元刀削面事件面馆重新开业",
+      "onboard_time": 1725083420,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 511640,
       "num": 511640,
       "word": "董事长之子聚餐泄密5人被罚2300万",
@@ -329,14 +361,6 @@
       "onboard_time": 1725066139,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 435538,
-      "num": 435538,
-      "word": "人民日报评结婚登记数持续走低",
-      "onboard_time": 1725081620,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 432554,
@@ -499,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 320663,
+      "num": 320663,
+      "word": "迪丽热巴掉鞋名场面",
+      "onboard_time": 1725087621,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 320395,
       "num": 320395,
       "word": "全红婵偷拍樊振东睡觉",
@@ -555,12 +587,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 312168,
-      "num": 312168,
-      "word": "全红婵与孙颖莎王楚钦合影",
-      "onboard_time": 1725084499,
-      "rank": 26,
-      "category": "体育"
+      "raw_hot": 312598,
+      "num": 312598,
+      "word": "宗馥莉接手娃哈哈集团公司股份",
+      "onboard_time": 1725084799,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302808,
@@ -633,6 +665,14 @@
       "onboard_time": 1725028882,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 277997,
+      "num": 277997,
+      "word": "章子怡走红毯都带着女儿",
+      "onboard_time": 1725086779,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 276030,
@@ -763,6 +803,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 249349,
+      "num": 249349,
+      "word": "全妹说龙队买的果茶一般",
+      "onboard_time": 1725087019,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248689,
       "num": 248689,
       "word": "国乒三打三",
@@ -817,14 +865,6 @@
       "onboard_time": 1725023300,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 230748,
-      "num": 556147,
-      "word": "大同11元刀削面事件面馆重新开业",
-      "onboard_time": 1725083420,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227738,
@@ -923,6 +963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 204031,
+      "num": 391297,
+      "word": "BE的E不发音是因为EXO",
+      "onboard_time": 1725088100,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201535,
       "num": 201535,
       "word": "孙颖莎一直合影到最后才离场",
@@ -939,20 +987,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198644,
-      "num": 198644,
-      "word": "宗馥莉接手娃哈哈集团公司股份",
-      "onboard_time": 1725084799,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197719,
       "num": 197719,
       "word": "易烊千玺维也纳路透",
       "onboard_time": 1725035659,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196473,
+      "num": 196473,
+      "word": "全红婵陈芋汐空中连续卷腹",
+      "onboard_time": 1725084799,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 196004,
@@ -1019,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191468,
+      "num": 191468,
+      "word": "王楚钦 香港很好你们也很好",
+      "onboard_time": 1725088100,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190126,
       "num": 190126,
       "word": "樊振东被推出去大合唱说我不会啊",
@@ -1049,6 +1105,14 @@
       "onboard_time": 1725031161,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185380,
+      "num": 185380,
+      "word": "orm",
+      "onboard_time": 1725088100,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 182621,
@@ -1155,14 +1219,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 166375,
-      "num": 166375,
-      "word": "全红婵陈芋汐空中连续卷腹",
-      "onboard_time": 1725084799,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165748,
       "num": 165748,
       "word": "2024只剩三分之一",
@@ -1227,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160315,
+      "num": 160315,
+      "word": "马龙水灵灵地犯规了",
+      "onboard_time": 1725087559,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160013,
       "num": 160013,
       "word": "被逆行女子打伤男子已住院",
@@ -1235,12 +1299,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159633,
+      "num": 159633,
+      "word": "许嵩一开口就开始疼痛了",
+      "onboard_time": 1725088520,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158132,
       "num": 158132,
       "word": "国乒看别人卖艺就是乐呵",
       "onboard_time": 1725076940,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157138,
+      "num": 157138,
+      "word": "女子称把房租给亲戚收房时崩溃了",
+      "onboard_time": 1725086600,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156105,
@@ -1307,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143471,
+      "num": 143471,
+      "word": "原来拿锦旗追星这么好用",
+      "onboard_time": 1725086840,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 140863,
       "num": 140863,
       "word": "商竣程无缘美网16强",
@@ -1347,6 +1435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 139836,
+      "num": 139836,
+      "word": "樊振东 熊猫塑",
+      "onboard_time": 1725088639,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138280,
       "num": 133953,
       "word": "孙颖莎又上台演讲了",
@@ -1361,6 +1457,14 @@
       "onboard_time": 1725066258,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136271,
+      "num": 136271,
+      "word": "昌雅妮 我们都是第一次见面",
+      "onboard_time": 1725087740,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 135220,
@@ -1553,6 +1657,14 @@
       "onboard_time": 1725037815,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100514,
+      "num": 313699,
+      "word": "殷桃王骁新剧演破产夫妻",
+      "onboard_time": 1725087679,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 99282,
@@ -1763,6 +1875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40943,
+      "num": 229901,
+      "word": "归龙潮开服送141抽",
+      "onboard_time": 1725088219,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 40380,
       "num": 99244,
       "word": "开颅手术前医护帮她设计发型",
@@ -1803,6 +1923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 33165,
+      "num": 1178621,
+      "word": "带着满满的收获迎接新学期",
+      "onboard_time": 1725072318,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32913,
       "num": 288235,
       "word": "曝直播间所谓特供酒成本仅10元",
@@ -1840,14 +1968,6 @@
       "word": "教授爷爷地铁畅谈点亮萌娃人生理想",
       "onboard_time": 1725058335,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20303,
-      "num": 513414,
-      "word": "带着满满的收获迎接新学期",
-      "onboard_time": 1725072318,
-      "rank": 6,
       "category": "社会新闻"
     },
     {

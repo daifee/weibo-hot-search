@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1725086425560,
+  "endTime": 1725088703971,
   "band_list": [
     {
       "raw_hot": 20756997,
@@ -497,6 +497,14 @@
       "onboard_time": 1724808320,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2296751,
+      "num": 2296751,
+      "word": "王楚钦 认识了很多新朋友",
+      "onboard_time": 1725087380,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2296268,
@@ -1065,6 +1073,14 @@
       "onboard_time": 1724576359,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1618446,
+      "num": 1618446,
+      "word": "人民日报评结婚登记数持续走低",
+      "onboard_time": 1725081620,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1617170,
@@ -3539,6 +3555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 687881,
+      "num": 687881,
+      "word": "全红婵与孙颖莎王楚钦合影",
+      "onboard_time": 1725084499,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 687869,
       "num": 687869,
       "word": "游客吐槽山西一面馆一碗面两个价",
@@ -4603,6 +4627,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 521518,
+      "num": 556147,
+      "word": "大同11元刀削面事件面馆重新开业",
+      "onboard_time": 1725083420,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521027,
       "num": 820023,
       "word": "李娟一坨声明",
@@ -5353,14 +5385,6 @@
       "onboard_time": 1724573241,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 435538,
-      "num": 435538,
-      "word": "人民日报评结婚登记数持续走低",
-      "onboard_time": 1725081620,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 435332,
@@ -6915,6 +6939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 320663,
+      "num": 320663,
+      "word": "迪丽热巴掉鞋名场面",
+      "onboard_time": 1725087621,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 319777,
       "num": 319777,
       "word": "长期沉迷网络游戏正厅级干部被双开",
@@ -7083,20 +7115,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 312598,
+      "num": 312598,
+      "word": "宗馥莉接手娃哈哈集团公司股份",
+      "onboard_time": 1725084799,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312354,
       "num": 579883,
       "word": "国防部警告台独",
       "onboard_time": 1724930002,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 312168,
-      "num": 312168,
-      "word": "全红婵与孙颖莎王楚钦合影",
-      "onboard_time": 1725084499,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 311809,
@@ -8025,6 +8057,14 @@
       "onboard_time": 1724831902,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277997,
+      "num": 277997,
+      "word": "章子怡走红毯都带着女儿",
+      "onboard_time": 1725086779,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 277041,
@@ -9043,6 +9083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249349,
+      "num": 249349,
+      "word": "全妹说龙队买的果茶一般",
+      "onboard_time": 1725087019,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249219,
       "num": 616031,
       "word": "有高校一下录进二十多个子涵",
@@ -9873,14 +9921,6 @@
       "onboard_time": 1724895920,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 230748,
-      "num": 556147,
-      "word": "大同11元刀削面事件面馆重新开业",
-      "onboard_time": 1725083420,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 230668,
@@ -11619,6 +11659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 204031,
+      "num": 391297,
+      "word": "BE的E不发音是因为EXO",
+      "onboard_time": 1725088100,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203921,
       "num": 203921,
       "word": "终极笔记",
@@ -12115,14 +12163,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 198644,
-      "num": 198644,
-      "word": "宗馥莉接手娃哈哈集团公司股份",
-      "onboard_time": 1725084799,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198599,
       "num": 198599,
       "word": "狼队2比6切尔西",
@@ -12320,6 +12360,14 @@
       "word": "郑钦文晋级美网32强",
       "onboard_time": 1724878571,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 196473,
+      "num": 196473,
+      "word": "全红婵陈芋汐空中连续卷腹",
+      "onboard_time": 1725084799,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -12713,6 +12761,14 @@
       "onboard_time": 1724733563,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191468,
+      "num": 191468,
+      "word": "王楚钦 香港很好你们也很好",
+      "onboard_time": 1725088100,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 191424,
@@ -13193,6 +13249,14 @@
       "onboard_time": 1724662280,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185380,
+      "num": 185380,
+      "word": "orm",
+      "onboard_time": 1725088100,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 185337,
@@ -14523,14 +14587,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 166375,
-      "num": 166375,
-      "word": "全红婵陈芋汐空中连续卷腹",
-      "onboard_time": 1725084799,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 166313,
       "num": 904144,
       "word": "绍兴一医院眼科套取医保资金2000万",
@@ -14891,6 +14947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160315,
+      "num": 160315,
+      "word": "马龙水灵灵地犯规了",
+      "onboard_time": 1725087559,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160124,
       "num": 160124,
       "word": "赵雷现场",
@@ -14921,6 +14985,14 @@
       "onboard_time": 1724601079,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159633,
+      "num": 159633,
+      "word": "许嵩一开口就开始疼痛了",
+      "onboard_time": 1725088520,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 159593,
@@ -15025,6 +15097,14 @@
       "onboard_time": 1725028102,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157138,
+      "num": 157138,
+      "word": "女子称把房租给亲戚收房时崩溃了",
+      "onboard_time": 1725086600,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157077,
@@ -15691,6 +15771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 143471,
+      "num": 143471,
+      "word": "原来拿锦旗追星这么好用",
+      "onboard_time": 1725086840,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 143340,
       "num": 143340,
       "word": "闭店歇业2天大头娃娃还没打过",
@@ -15891,6 +15979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 139836,
+      "num": 139836,
+      "word": "樊振东 熊猫塑",
+      "onboard_time": 1725088639,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139713,
       "num": 490221,
       "word": "美特斯邦威要做始祖鸟平替",
@@ -16025,6 +16121,14 @@
       "onboard_time": 1724549000,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 136271,
+      "num": 136271,
+      "word": "昌雅妮 我们都是第一次见面",
+      "onboard_time": 1725087740,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 135938,
@@ -16913,6 +17017,14 @@
       "onboard_time": 1724908403,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100514,
+      "num": 313699,
+      "word": "殷桃王骁新剧演破产夫妻",
+      "onboard_time": 1725087679,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 100468,
@@ -19299,6 +19411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40943,
+      "num": 229901,
+      "word": "归龙潮开服送141抽",
+      "onboard_time": 1725088219,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 40685,
       "num": 53226,
       "word": "张杰未live巡回演唱会",
@@ -19729,6 +19849,14 @@
       "onboard_time": 1724814023,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 33165,
+      "num": 1178621,
+      "word": "带着满满的收获迎接新学期",
+      "onboard_time": 1725072318,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33164,
@@ -20296,14 +20424,6 @@
       "word": "湖北的国潮彩蛋一眼惊艳",
       "onboard_time": 1724788572,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20303,
-      "num": 513414,
-      "word": "带着满满的收获迎接新学期",
-      "onboard_time": 1725072318,
-      "rank": 6,
       "category": "社会新闻"
     },
     {

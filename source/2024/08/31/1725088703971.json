@@ -1,0 +1,410 @@
+{
+  "runTime": 1725088703971,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2296751,
+        "num": 2296751,
+        "word": "王楚钦 认识了很多新朋友",
+        "onboard_time": 1725087380,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1618446,
+        "num": 1618446,
+        "word": "人民日报评结婚登记数持续走低",
+        "onboard_time": 1725081620,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33165,
+        "num": 1178621,
+        "word": "带着满满的收获迎接新学期",
+        "onboard_time": 1725072318,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924776,
+        "num": 924776,
+        "word": "女子拿手机骑单车摔倒身亡",
+        "onboard_time": 1725082940,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 707883,
+        "num": 707883,
+        "word": "金靖孕肚大片",
+        "onboard_time": 1725080601,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 695203,
+        "num": 695203,
+        "word": "iPhone16Pro古铜色渲染图曝光",
+        "onboard_time": 1725081200,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 687881,
+        "num": 687881,
+        "word": "全红婵与孙颖莎王楚钦合影",
+        "onboard_time": 1725084499,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 626190,
+        "num": 626190,
+        "word": "马龙卖艺",
+        "onboard_time": 1725082700,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 470197,
+        "num": 604377,
+        "word": "袁冰妍 落花时节又逢君",
+        "onboard_time": 1725077118,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 588027,
+        "num": 588027,
+        "word": "广东一地92名猴痘患者均为男性",
+        "onboard_time": 1725079579,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1601765,
+        "num": 578143,
+        "word": "收38万彩礼退婚不退钱男方母亲被行拘",
+        "onboard_time": 1725079880,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566688,
+        "num": 566688,
+        "word": "女主播与6旬大爷裸聊要打赏",
+        "onboard_time": 1725072379,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521518,
+        "num": 521518,
+        "word": "大同11元刀削面事件面馆重新开业",
+        "onboard_time": 1725083420,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462214,
+        "num": 462214,
+        "word": "李雯雯公主抱孙颖莎",
+        "onboard_time": 1725077600,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204031,
+        "num": 391297,
+        "word": "BE的E不发音是因为EXO",
+        "onboard_time": 1725088100,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347239,
+        "num": 347239,
+        "word": "余宇涵 重庆",
+        "onboard_time": 1725080480,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320663,
+        "num": 320663,
+        "word": "迪丽热巴掉鞋名场面",
+        "onboard_time": 1725087621,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100514,
+        "num": 313699,
+        "word": "殷桃王骁新剧演破产夫妻",
+        "onboard_time": 1725087679,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 378232,
+        "num": 313396,
+        "word": "张元英直播",
+        "onboard_time": 1725079341,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312598,
+        "num": 312598,
+        "word": "宗馥莉接手娃哈哈集团公司股份",
+        "onboard_time": 1725084799,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419468,
+        "num": 310766,
+        "word": "两岁宝宝坐高铁被扇耳光",
+        "onboard_time": 1725076579,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302770,
+        "num": 302770,
+        "word": "徐海乔 疯批病娇",
+        "onboard_time": 1725080779,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281401,
+        "num": 281401,
+        "word": "小伙拒绝加班被辞退与公司打官司全赢",
+        "onboard_time": 1725072679,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277997,
+        "num": 277997,
+        "word": "章子怡走红毯都带着女儿",
+        "onboard_time": 1725086779,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249349,
+        "num": 249349,
+        "word": "全妹说龙队买的果茶一般",
+        "onboard_time": 1725087019,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40943,
+        "num": 229901,
+        "word": "归龙潮开服送141抽",
+        "onboard_time": 1725088219,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222240,
+        "num": 222240,
+        "word": "樊振东笑成一团了",
+        "onboard_time": 1725082340,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220192,
+        "num": 220192,
+        "word": "原来眉骨真的可以挡雨",
+        "onboard_time": 1725078740,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214931,
+        "num": 214931,
+        "word": "国王与乞丐 二公最佳",
+        "onboard_time": 1725084619,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207748,
+        "num": 207748,
+        "word": "吃了一个月褪黑素后的真实感受",
+        "onboard_time": 1725065300,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 204329,
+        "num": 204329,
+        "word": "曹璐以FIESTAR成员回归",
+        "onboard_time": 1725075979,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201472,
+        "num": 201472,
+        "word": "全红婵陈芋汐拿捏香港泳池",
+        "onboard_time": 1725079640,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196473,
+        "num": 196473,
+        "word": "全红婵陈芋汐空中连续卷腹",
+        "onboard_time": 1725084799,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193202,
+        "num": 193202,
+        "word": "张雨霏樊振东跳舞视频大放送",
+        "onboard_time": 1725078860,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191468,
+        "num": 191468,
+        "word": "王楚钦 香港很好你们也很好",
+        "onboard_time": 1725088100,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189651,
+        "num": 189651,
+        "word": "陈飞宇穿陈晓梦华录旧衣",
+        "onboard_time": 1725083359,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185380,
+        "num": 185380,
+        "word": "orm",
+        "onboard_time": 1725088100,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184302,
+        "num": 184302,
+        "word": "樊振东王楚钦男双打混双表演赛",
+        "onboard_time": 1725079579,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180395,
+        "num": 180395,
+        "word": "遭逆行女子殴打者称已申请伤情鉴定",
+        "onboard_time": 1725074119,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180121,
+        "num": 180121,
+        "word": "唐嫣新剧独身女人阵容官宣",
+        "onboard_time": 1725076639,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170913,
+        "num": 170913,
+        "word": "程晓玥晒照为老公庆生",
+        "onboard_time": 1725083720,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170705,
+        "num": 170705,
+        "word": "李诞小卖部",
+        "onboard_time": 1725083420,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161824,
+        "num": 161824,
+        "word": "樊振东盛李豪被拉去跳舞了",
+        "onboard_time": 1725083120,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160602,
+        "num": 160602,
+        "word": "一条微博告别八月",
+        "onboard_time": 1725082219,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160315,
+        "num": 160315,
+        "word": "马龙水灵灵地犯规了",
+        "onboard_time": 1725087559,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159633,
+        "num": 159633,
+        "word": "许嵩一开口就开始疼痛了",
+        "onboard_time": 1725088520,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157138,
+        "num": 157138,
+        "word": "女子称把房租给亲戚收房时崩溃了",
+        "onboard_time": 1725086600,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143471,
+        "num": 143471,
+        "word": "原来拿锦旗追星这么好用",
+        "onboard_time": 1725086840,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139836,
+        "num": 139836,
+        "word": "樊振东 熊猫塑",
+        "onboard_time": 1725088639,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136271,
+        "num": 136271,
+        "word": "昌雅妮 我们都是第一次见面",
+        "onboard_time": 1725087740,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国和非洲从来都是命运共同体#"
+    }
+  }
+}
