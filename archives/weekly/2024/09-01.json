@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725121538833,
+  "endTime": 1725122554973,
   "band_list": [
     {
       "raw_hot": 1442203,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 902762,
+      "num": 902762,
+      "word": "张雨霏大方回应择偶标准",
+      "onboard_time": 1725118821,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 857252,
       "num": 857252,
       "word": "网红医生擦边软色情",
@@ -41,14 +49,6 @@
       "onboard_time": 1725114622,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 760145,
-      "num": 760145,
-      "word": "张雨霏大方回应择偶标准",
-      "onboard_time": 1725118821,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 598386,
@@ -121,6 +121,14 @@
       "onboard_time": 1725109400,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 360277,
+      "num": 360277,
+      "word": "王靖雯淘汰",
+      "onboard_time": 1725121458,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 339028,
@@ -227,20 +235,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147427,
+      "num": 147427,
+      "word": "许嵩上海演唱会嘉宾是薛之谦",
+      "onboard_time": 1725107839,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 146176,
       "num": 146176,
       "word": "孙颖莎教陈清晨打球",
       "onboard_time": 1725115760,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134755,
-      "num": 134755,
-      "word": "许嵩上海演唱会嘉宾是薛之谦",
-      "onboard_time": 1725107839,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 128869,
@@ -291,6 +299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 117801,
+      "num": 120322,
+      "word": "开学",
+      "onboard_time": 1725117681,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 117710,
       "num": 120374,
       "word": "全红婵学跳街舞说绝对帅",
@@ -315,6 +331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 113696,
+      "num": 120352,
+      "word": "许嵩呼吸之野演唱会",
+      "onboard_time": 1725115881,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 107582,
       "num": 120355,
       "word": "十个勤天佛山演唱会",
@@ -323,16 +347,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 106745,
-      "num": 120352,
-      "word": "许嵩呼吸之野演唱会",
-      "onboard_time": 1725115881,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 105789,
-      "num": 151551,
+      "num": 180910,
       "word": "大同11元刀削面馆如今已明码标价",
       "onboard_time": 1725116542,
       "rank": 29,
@@ -345,22 +361,6 @@
       "onboard_time": 1725099560,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 104369,
-      "num": 120322,
-      "word": "开学",
-      "onboard_time": 1725117681,
-      "rank": 44,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 102356,
-      "num": 120308,
-      "word": "王靖雯淘汰",
-      "onboard_time": 1725121458,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 101657,
@@ -387,12 +387,36 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 94143,
+      "num": 105157,
+      "word": "檀健次舞台是也带表演的",
+      "onboard_time": 1725122476,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 91120,
       "num": 120267,
       "word": "檀健次演唱会",
       "onboard_time": 1725099260,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 27729,
+      "num": 185595,
+      "word": "这件文物把考古专家整迷糊了",
+      "onboard_time": 1725122418,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11795,
+      "num": 723358,
+      "word": "我国海上油气井钻探速度新纪录",
+      "onboard_time": 1725107001,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 3369,
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#总书记这样寄语莘莘学子#"
+    },
+    {
+      "word": "#教育引导学生立鸿鹄志做奋斗者#"
     }
   ]
 }
