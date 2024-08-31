@@ -1,6 +1,6 @@
 {
   "startTime": 1725035044218,
-  "endTime": 1725081571668,
+  "endTime": 1725082606307,
   "band_list": [
     {
       "raw_hot": 3132358,
@@ -67,12 +67,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1087260,
+      "num": 1087260,
+      "word": "金靖孕肚大片",
+      "onboard_time": 1725080601,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1072003,
+      "num": 602988,
+      "word": "王一博见面会禁带红色应援物",
+      "onboard_time": 1725081200,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 975412,
       "num": 975412,
       "word": "潘展乐抢陈芋汐手机",
       "onboard_time": 1725067099,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 890079,
+      "num": 890079,
+      "word": "广东一地92名猴痘患者均为男性",
+      "onboard_time": 1725079579,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 885011,
@@ -83,12 +107,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 849502,
-      "num": 849502,
-      "word": "广东一地92名猴痘患者均为男性",
-      "onboard_time": 1725079579,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 841684,
+      "num": 841684,
+      "word": "余宇涵 重庆",
+      "onboard_time": 1725080480,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 841681,
@@ -132,7 +156,7 @@
     },
     {
       "raw_hot": 707461,
-      "num": 363961,
+      "num": 538804,
       "word": "两岁宝宝坐高铁被扇耳光",
       "onboard_time": 1725076579,
       "rank": 20,
@@ -147,8 +171,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 661577,
-      "num": 366117,
+      "raw_hot": 671315,
+      "num": 539059,
       "word": "原来眉骨真的可以挡雨",
       "onboard_time": 1725078740,
       "rank": 32,
@@ -169,22 +193,6 @@
       "onboard_time": 1725072260,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 636414,
-      "num": 636414,
-      "word": "余宇涵 重庆",
-      "onboard_time": 1725080480,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 634284,
-      "num": 634284,
-      "word": "金靖孕肚大片",
-      "onboard_time": 1725080601,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 629926,
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 547816,
-      "num": 363336,
+      "num": 466488,
       "word": "遭逆行女子殴打者称已申请伤情鉴定",
       "onboard_time": 1725074119,
       "rank": 47,
@@ -249,6 +257,14 @@
       "onboard_time": 1725071540,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 543349,
+      "num": 543349,
+      "word": "徐海乔 疯批病娇",
+      "onboard_time": 1725080779,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 526132,
@@ -283,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 432554,
+      "num": 541500,
+      "word": "女子拒退38万彩礼男方母亲被行拘7日",
+      "onboard_time": 1725080779,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 425217,
       "num": 425217,
       "word": "朱志鑫出道首发文",
@@ -303,6 +327,14 @@
       "num": 413131,
       "word": "西安火车站管委会致歉",
       "onboard_time": 1725034639,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 412510,
+      "num": 639138,
+      "word": "收38万彩礼退婚不退钱男方母亲被行拘",
+      "onboard_time": 1725079880,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -361,14 +393,6 @@
       "onboard_time": 1725060256,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 390850,
-      "num": 390850,
-      "word": "王一博见面会禁带红色应援物",
-      "onboard_time": 1725081200,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 390125,
@@ -435,6 +459,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 321677,
+      "num": 321677,
+      "word": "熊梓淇淘汰",
+      "onboard_time": 1725080299,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 321473,
+      "num": 321473,
+      "word": "iPhone16Pro古铜色渲染图曝光",
+      "onboard_time": 1725081200,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 320395,
       "num": 320395,
       "word": "全红婵偷拍樊振东睡觉",
@@ -457,14 +497,6 @@
       "onboard_time": 1725059235,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 316361,
-      "num": 316361,
-      "word": "熊梓淇淘汰",
-      "onboard_time": 1725080299,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 316285,
@@ -595,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 265865,
+      "num": 265865,
+      "word": "全红婵陈芋汐拿捏香港泳池",
+      "onboard_time": 1725079640,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 260099,
       "num": 260099,
       "word": "美网德约科维奇出局",
@@ -667,11 +707,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246700,
+      "num": 246700,
+      "word": "慕胥辞",
+      "onboard_time": 1725081680,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240307,
       "num": 240307,
       "word": "美网",
       "onboard_time": 1725036079,
       "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 238037,
+      "num": 238037,
+      "word": "樊振东 又系广东话噶",
+      "onboard_time": 1725077838,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -689,30 +745,6 @@
       "onboard_time": 1725023300,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 230781,
-      "num": 230781,
-      "word": "樊振东 又系广东话噶",
-      "onboard_time": 1725077838,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 230434,
-      "num": 230434,
-      "word": "iPhone16Pro古铜色渲染图曝光",
-      "onboard_time": 1725081200,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 229759,
-      "num": 229759,
-      "word": "女子拒退38万彩礼男方母亲被行拘7日",
-      "onboard_time": 1725080779,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227738,
@@ -755,14 +787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 219829,
-      "num": 639138,
-      "word": "收38万彩礼退婚不退钱男方母亲被行拘",
-      "onboard_time": 1725079880,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 219600,
       "num": 211873,
       "word": "王雅繁晋级美网16强",
@@ -777,22 +801,6 @@
       "onboard_time": 1725078019,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 216180,
-      "num": 216180,
-      "word": "全红婵陈芋汐拿捏香港泳池",
-      "onboard_time": 1725079640,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 214252,
-      "num": 395265,
-      "word": "徐海乔 疯批病娇",
-      "onboard_time": 1725080779,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 213626,
@@ -819,12 +827,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207042,
+      "num": 207042,
+      "word": "刘烨戴着芒果工牌就来录花少了",
+      "onboard_time": 1725082219,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205427,
       "num": 205427,
       "word": "现在婚礼都这么超前了吗",
       "onboard_time": 1725027382,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 203410,
+      "num": 203410,
+      "word": "人民日报评结婚登记数持续走低",
+      "onboard_time": 1725081620,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201535,
@@ -867,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195143,
+      "num": 540345,
+      "word": "一条微博告别八月",
+      "onboard_time": 1725082219,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194975,
       "num": 194975,
       "word": "郑钦文vs尼迈尔",
@@ -907,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188391,
+      "num": 188391,
+      "word": "时代少年团打比赛内通外放",
+      "onboard_time": 1725081860,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186197,
       "num": 186197,
       "word": "章子怡香奈儿高定",
@@ -929,6 +969,14 @@
       "onboard_time": 1725081380,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180854,
+      "num": 180854,
+      "word": "樊振东笑成一团了",
+      "onboard_time": 1725082340,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 180622,
@@ -1020,7 +1068,7 @@
     },
     {
       "raw_hot": 165078,
-      "num": 165078,
+      "num": 330734,
       "word": "凡人歌开播",
       "onboard_time": 1725077600,
       "rank": 41,
@@ -1156,7 +1204,7 @@
     },
     {
       "raw_hot": 140250,
-      "num": 140250,
+      "num": 324654,
       "word": "喜剧之王单口季",
       "onboard_time": 1725079099,
       "rank": 47,
@@ -1339,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103348,
+      "num": 540801,
+      "word": "张艺兴十二年太不容易了",
+      "onboard_time": 1725080720,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 102694,
       "num": 102694,
       "word": "苏新皓 重庆",
@@ -1425,6 +1481,14 @@
       "onboard_time": 1725062839,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 78229,
+      "num": 542834,
+      "word": "女方退婚未及时退彩礼男方父亲发声",
+      "onboard_time": 1725081021,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76488,
@@ -1524,7 +1588,7 @@
     },
     {
       "raw_hot": 46459,
-      "num": 274506,
+      "num": 542695,
       "word": "smart敢在成都车展这么玩",
       "onboard_time": 1725080779,
       "rank": 30,
@@ -1579,6 +1643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 38450,
+      "num": 539986,
+      "word": "范志毅让付航跟他去踢足球",
+      "onboard_time": 1725082400,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 34023,
       "num": 212387,
       "word": "全世界最可爱的大脸",
@@ -1600,14 +1672,6 @@
       "word": "今后三天全国一半地方有雨",
       "onboard_time": 1725041953,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29524,
-      "num": 422826,
-      "word": "女方退婚未及时退彩礼男方父亲发声",
-      "onboard_time": 1725081021,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1680,6 +1744,14 @@
       "word": "河南博物院文创团队平均25岁",
       "onboard_time": 1724982979,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9153,
+      "num": 604681,
+      "word": "消息免打扰是打工人最后的倔强",
+      "onboard_time": 1725082580,
+      "rank": 9,
       "category": "社会新闻"
     }
   ],
