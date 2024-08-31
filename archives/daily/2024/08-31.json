@@ -1,6 +1,6 @@
 {
   "startTime": 1725035044218,
-  "endTime": 1725079219848,
+  "endTime": 1725081571668,
   "band_list": [
     {
       "raw_hot": 3132358,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1561152,
-      "num": 436604,
+      "num": 638946,
       "word": "女主播与6旬大爷裸聊要打赏",
       "onboard_time": 1725072379,
       "rank": 40,
@@ -83,12 +83,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 849502,
+      "num": 849502,
+      "word": "广东一地92名猴痘患者均为男性",
+      "onboard_time": 1725079579,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 841681,
+      "num": 841681,
+      "word": "张雨霏樊振东跳舞视频大放送",
+      "onboard_time": 1725078860,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 760914,
       "num": 760914,
       "word": "怀化市政协原主席印宇鹰被双开",
       "onboard_time": 1725068361,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 758748,
+      "num": 758748,
+      "word": "张元英直播",
+      "onboard_time": 1725079341,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 724059,
@@ -99,8 +123,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 722678,
+      "num": 722678,
+      "word": "樊振东王楚钦男双打混双表演赛",
+      "onboard_time": 1725079579,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 707461,
-      "num": 314854,
+      "num": 363961,
       "word": "两岁宝宝坐高铁被扇耳光",
       "onboard_time": 1725076579,
       "rank": 20,
@@ -113,6 +145,14 @@
       "onboard_time": 1725019040,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 661577,
+      "num": 366117,
+      "word": "原来眉骨真的可以挡雨",
+      "onboard_time": 1725078740,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 641344,
@@ -129,6 +169,22 @@
       "onboard_time": 1725072260,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 636414,
+      "num": 636414,
+      "word": "余宇涵 重庆",
+      "onboard_time": 1725080480,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 634284,
+      "num": 634284,
+      "word": "金靖孕肚大片",
+      "onboard_time": 1725080601,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 629926,
@@ -177,6 +233,14 @@
       "onboard_time": 1725070038,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 547816,
+      "num": 363336,
+      "word": "遭逆行女子殴打者称已申请伤情鉴定",
+      "onboard_time": 1725074119,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 543689,
@@ -299,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 390850,
+      "num": 390850,
+      "word": "王一博见面会禁带红色应援物",
+      "onboard_time": 1725081200,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 390125,
       "num": 390125,
       "word": "四川重庆立秋后为啥这么热",
@@ -313,14 +385,6 @@
       "onboard_time": 1725031942,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 364142,
-      "num": 298670,
-      "word": "遭逆行女子殴打者称已申请伤情鉴定",
-      "onboard_time": 1725074119,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 360079,
@@ -395,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316361,
+      "num": 316361,
+      "word": "熊梓淇淘汰",
+      "onboard_time": 1725080299,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 316285,
       "num": 316285,
       "word": "华晨宇打响内娱反黄牛第一枪",
@@ -425,6 +497,14 @@
       "onboard_time": 1725076339,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 295385,
+      "num": 295385,
+      "word": "恋与深空第二批",
+      "onboard_time": 1725078919,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 293772,
@@ -499,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271886,
+      "num": 271886,
+      "word": "盛李豪打羽毛球",
+      "onboard_time": 1725076101,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270755,
       "num": 270755,
       "word": "陈妍希周柯宇路透",
@@ -555,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253177,
+      "num": 253177,
+      "word": "世界之外",
+      "onboard_time": 1725080480,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 252181,
       "num": 252181,
       "word": "没有人比义乌更懂特朗普",
@@ -595,11 +691,35 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 229777,
-      "num": 229777,
-      "word": "盛李豪打羽毛球",
-      "onboard_time": 1725076101,
-      "rank": 30,
+      "raw_hot": 230781,
+      "num": 230781,
+      "word": "樊振东 又系广东话噶",
+      "onboard_time": 1725077838,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 230434,
+      "num": 230434,
+      "word": "iPhone16Pro古铜色渲染图曝光",
+      "onboard_time": 1725081200,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 229759,
+      "num": 229759,
+      "word": "女子拒退38万彩礼男方母亲被行拘7日",
+      "onboard_time": 1725080779,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227738,
+      "num": 227738,
+      "word": "孙颖莎也练上艺术体操了",
+      "onboard_time": 1725079579,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -627,20 +747,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 224505,
-      "num": 216826,
-      "word": "张雨霏樊振东跳舞视频大放送",
-      "onboard_time": 1725078860,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 220363,
       "num": 250529,
       "word": "那英说当歌王天打五雷轰的",
       "onboard_time": 1725067158,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219829,
+      "num": 639138,
+      "word": "收38万彩礼退婚不退钱男方母亲被行拘",
+      "onboard_time": 1725079880,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219600,
@@ -659,6 +779,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216180,
+      "num": 216180,
+      "word": "全红婵陈芋汐拿捏香港泳池",
+      "onboard_time": 1725079640,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 214252,
+      "num": 395265,
+      "word": "徐海乔 疯批病娇",
+      "onboard_time": 1725080779,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213626,
       "num": 213626,
       "word": "两代跳水女王罕见同框",
@@ -675,14 +811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209110,
-      "num": 209110,
-      "word": "原来眉骨真的可以挡雨",
-      "onboard_time": 1725078740,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 208596,
       "num": 208596,
       "word": "迪丽热巴落跑甜心彩蛋",
@@ -697,14 +825,6 @@
       "onboard_time": 1725027382,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 203354,
-      "num": 203354,
-      "word": "恋与深空第二批",
-      "onboard_time": 1725078919,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 201535,
@@ -755,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193941,
+      "num": 193941,
+      "word": "杨幂秋冬第一件夹克",
+      "onboard_time": 1725081200,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 192483,
       "num": 192483,
       "word": "丝芙兰15年老员工被裁员",
@@ -768,14 +896,6 @@
       "word": "孙颖莎港澳行期还在抽空跑步",
       "onboard_time": 1725026302,
       "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 192266,
-      "num": 192266,
-      "word": "樊振东 又系广东话噶",
-      "onboard_time": 1725077838,
-      "rank": 37,
       "category": "体育"
     },
     {
@@ -803,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182621,
+      "num": 182621,
+      "word": "遭逆行女子殴打者称忍住了才没还手",
+      "onboard_time": 1725081380,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180622,
       "num": 180622,
       "word": "檀健次多巴胺针织短袖",
@@ -827,6 +955,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 177479,
+      "num": 177479,
+      "word": "赵露思官宣米兰时装周行程",
+      "onboard_time": 1725080240,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 174040,
       "num": 1138330,
       "word": "9月起这些新规开始施行",
@@ -849,6 +985,14 @@
       "onboard_time": 1725030683,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169364,
+      "num": 169364,
+      "word": "郑思维香港第一天vlog",
+      "onboard_time": 1725079760,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 168161,
@@ -1203,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102579,
+      "num": 656454,
+      "word": "男生有多害怕被查手机",
+      "onboard_time": 1725080540,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102035,
       "num": 115716,
       "word": "李诞在喜剧综艺里有多重要",
@@ -1371,6 +1523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 46459,
+      "num": 274506,
+      "word": "smart敢在成都车展这么玩",
+      "onboard_time": 1725080779,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 45973,
       "num": 413475,
       "word": "勿将暴力行为作为负面情绪发泄口",
@@ -1440,6 +1600,14 @@
       "word": "今后三天全国一半地方有雨",
       "onboard_time": 1725041953,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29524,
+      "num": 422826,
+      "word": "女方退婚未及时退彩礼男方父亲发声",
+      "onboard_time": 1725081021,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

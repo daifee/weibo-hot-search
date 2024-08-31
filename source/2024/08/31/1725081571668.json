@@ -1,0 +1,410 @@
+{
+  "runTime": 1725081571668,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1423188,
+        "num": 1423188,
+        "word": "小伙拒绝加班被辞退与公司打官司全赢",
+        "onboard_time": 1725072679,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1153598,
+        "num": 1153598,
+        "word": "李雯雯公主抱孙颖莎",
+        "onboard_time": 1725077600,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19211,
+        "num": 977399,
+        "word": "9月起这些新规开始施行",
+        "onboard_time": 1725066741,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 954382,
+        "num": 954382,
+        "word": "袁冰妍 落花时节又逢君",
+        "onboard_time": 1725077118,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 849502,
+        "num": 849502,
+        "word": "广东一地92名猴痘患者均为男性",
+        "onboard_time": 1725079579,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 841681,
+        "num": 841681,
+        "word": "张雨霏樊振东跳舞视频大放送",
+        "onboard_time": 1725078860,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 758748,
+        "num": 758748,
+        "word": "张元英直播",
+        "onboard_time": 1725079341,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 722678,
+        "num": 722678,
+        "word": "樊振东王楚钦男双打混双表演赛",
+        "onboard_time": 1725079579,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102579,
+        "num": 656454,
+        "word": "男生有多害怕被查手机",
+        "onboard_time": 1725080540,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219829,
+        "num": 639138,
+        "word": "收38万彩礼退婚不退钱男方母亲被行拘",
+        "onboard_time": 1725079880,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1209989,
+        "num": 638946,
+        "word": "女主播与6旬大爷裸聊要打赏",
+        "onboard_time": 1725072379,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636414,
+        "num": 636414,
+        "word": "余宇涵 重庆",
+        "onboard_time": 1725080480,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 634284,
+        "num": 634284,
+        "word": "金靖孕肚大片",
+        "onboard_time": 1725080601,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517192,
+        "num": 517192,
+        "word": "三人合照原来是四个人",
+        "onboard_time": 1725068178,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29524,
+        "num": 422826,
+        "word": "女方退婚未及时退彩礼男方父亲发声",
+        "onboard_time": 1725081021,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414517,
+        "num": 414517,
+        "word": "高考660多分她报考军校想当女舰长",
+        "onboard_time": 1725074119,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 400918,
+        "num": 400918,
+        "word": "11元刀削面的真相不应关停",
+        "onboard_time": 1725062358,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214252,
+        "num": 395265,
+        "word": "徐海乔 疯批病娇",
+        "onboard_time": 1725080779,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390850,
+        "num": 390850,
+        "word": "王一博见面会禁带红色应援物",
+        "onboard_time": 1725081200,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367965,
+        "num": 367965,
+        "word": "潘展乐抢陈芋汐手机",
+        "onboard_time": 1725067099,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 661577,
+        "num": 366117,
+        "word": "原来眉骨真的可以挡雨",
+        "onboard_time": 1725078740,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 623406,
+        "num": 363961,
+        "word": "两岁宝宝坐高铁被扇耳光",
+        "onboard_time": 1725076579,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547816,
+        "num": 363336,
+        "word": "遭逆行女子殴打者称已申请伤情鉴定",
+        "onboard_time": 1725074119,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361637,
+        "num": 361637,
+        "word": "曹璐以FIESTAR成员回归",
+        "onboard_time": 1725075979,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 340345,
+        "num": 340345,
+        "word": "吴尊陪NeiNei排队7小时看霉霉演唱会",
+        "onboard_time": 1725071659,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 316361,
+        "num": 316361,
+        "word": "熊梓淇淘汰",
+        "onboard_time": 1725080299,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306246,
+        "num": 306246,
+        "word": "唐嫣新剧独身女人阵容官宣",
+        "onboard_time": 1725076639,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302721,
+        "num": 302721,
+        "word": "山西网友解释为什么矿工吃面少4块",
+        "onboard_time": 1725072919,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295385,
+        "num": 295385,
+        "word": "恋与深空第二批",
+        "onboard_time": 1725078919,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 286583,
+        "num": 286583,
+        "word": "林俊杰不要到处扣扣的含义",
+        "onboard_time": 1725061457,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 46459,
+        "num": 274506,
+        "word": "smart敢在成都车展这么玩",
+        "onboard_time": 1725080779,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 271886,
+        "num": 271886,
+        "word": "盛李豪打羽毛球",
+        "onboard_time": 1725076101,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253177,
+        "num": 253177,
+        "word": "世界之外",
+        "onboard_time": 1725080480,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 248734,
+        "num": 248734,
+        "word": "吃了一个月褪黑素后的真实感受",
+        "onboard_time": 1725065300,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 230781,
+        "num": 230781,
+        "word": "樊振东 又系广东话噶",
+        "onboard_time": 1725077838,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230434,
+        "num": 230434,
+        "word": "iPhone16Pro古铜色渲染图曝光",
+        "onboard_time": 1725081200,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 229759,
+        "num": 229759,
+        "word": "女子拒退38万彩礼男方母亲被行拘7日",
+        "onboard_time": 1725080779,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227738,
+        "num": 227738,
+        "word": "孙颖莎也练上艺术体操了",
+        "onboard_time": 1725079579,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219877,
+        "num": 219877,
+        "word": "全红婵访港示范水花消失术",
+        "onboard_time": 1725076339,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216180,
+        "num": 216180,
+        "word": "全红婵陈芋汐拿捏香港泳池",
+        "onboard_time": 1725079640,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193941,
+        "num": 193941,
+        "word": "杨幂秋冬第一件夹克",
+        "onboard_time": 1725081200,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193002,
+        "num": 193002,
+        "word": "柯文哲被当庭逮捕",
+        "onboard_time": 1725071540,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189550,
+        "num": 189550,
+        "word": "刘涛 神性地母系赛道",
+        "onboard_time": 1725066139,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188634,
+        "num": 188634,
+        "word": "两代跳水女王罕见同框",
+        "onboard_time": 1725076101,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182621,
+        "num": 182621,
+        "word": "遭逆行女子殴打者称忍住了才没还手",
+        "onboard_time": 1725081380,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178982,
+        "num": 178982,
+        "word": "头一次见千金大小狗",
+        "onboard_time": 1725071659,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177567,
+        "num": 177567,
+        "word": "美网德约科维奇出局",
+        "onboard_time": 1725077600,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177479,
+        "num": 177479,
+        "word": "赵露思官宣米兰时装周行程",
+        "onboard_time": 1725080240,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173621,
+        "num": 173621,
+        "word": "黄子韬恋爱前对粉丝说的话",
+        "onboard_time": 1725059416,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169364,
+        "num": 169364,
+        "word": "郑思维香港第一天vlog",
+        "onboard_time": 1725079760,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信非洲学者#"
+    }
+  }
+}
