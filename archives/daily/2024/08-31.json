@@ -1,6 +1,6 @@
 {
   "startTime": 1725035044218,
-  "endTime": 1725096059222,
+  "endTime": 1725096901925,
   "band_list": [
     {
       "raw_hot": 3132358,
@@ -91,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1247084,
+      "num": 1247084,
+      "word": "男童走失后死亡两亲属有作案嫌疑",
+      "onboard_time": 1725093080,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1163953,
       "num": 1163953,
       "word": "女子拿手机骑单车摔倒身亡",
@@ -113,14 +121,6 @@
       "onboard_time": 1725080601,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1081910,
-      "num": 1081910,
-      "word": "男童走失后死亡两亲属有作案嫌疑",
-      "onboard_time": 1725093080,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1072003,
@@ -177,6 +177,14 @@
       "onboard_time": 1725078860,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 832651,
+      "num": 832651,
+      "word": "菲律宾",
+      "onboard_time": 1725094640,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 824393,
@@ -347,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 583768,
+      "num": 583768,
+      "word": "王楚钦不理解但直接加入",
+      "onboard_time": 1725095659,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 583740,
       "num": 583740,
       "word": "林俊杰不要到处扣扣的含义",
@@ -369,6 +385,14 @@
       "onboard_time": 1725070038,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 556199,
+      "num": 556199,
+      "word": "网红医生擦边软色情",
+      "onboard_time": 1725096259,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 547816,
@@ -403,12 +427,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 527392,
-      "num": 527392,
+      "raw_hot": 533231,
+      "num": 694353,
       "word": "章子怡走红毯都带着女儿",
       "onboard_time": 1725086779,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 529231,
+      "num": 219015,
+      "word": "乌克兰要求蒙古国逮捕普京",
+      "onboard_time": 1725095659,
+      "rank": 41,
+      "category": "国外时政"
     },
     {
       "raw_hot": 526132,
@@ -555,14 +587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 376486,
-      "num": 376486,
-      "word": "菲律宾",
-      "onboard_time": 1725094640,
-      "rank": 20,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 365010,
       "num": 404397,
       "word": "杨幂上下身反差感穿搭",
@@ -691,6 +715,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 305295,
+      "num": 736600,
+      "word": "唐尚珺前往华南师大报到",
+      "onboard_time": 1725094340,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302808,
       "num": 302808,
       "word": "全红婵访港示范水花消失术",
@@ -761,6 +793,14 @@
       "onboard_time": 1725028882,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 280994,
+      "num": 238185,
+      "word": "丁太升回应派克特diss乙游",
+      "onboard_time": 1725095538,
+      "rank": 31,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 276030,
@@ -979,14 +1019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 236997,
-      "num": 236997,
-      "word": "王楚钦不理解但直接加入",
-      "onboard_time": 1725095659,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 233075,
       "num": 233075,
       "word": "边水往事 王玉雯姜珮瑶",
@@ -1001,6 +1033,14 @@
       "onboard_time": 1725090861,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230203,
+      "num": 218661,
+      "word": "盛李豪除了射击最爱羽毛球",
+      "onboard_time": 1725092299,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 227738,
@@ -1115,14 +1155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201918,
-      "num": 201918,
-      "word": "盛李豪除了射击最爱羽毛球",
-      "onboard_time": 1725092299,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 201535,
       "num": 201535,
       "word": "孙颖莎一直合影到最后才离场",
@@ -1185,14 +1217,6 @@
       "onboard_time": 1725035058,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 194274,
-      "num": 194274,
-      "word": "丁太升回应派克特diss乙游",
-      "onboard_time": 1725095538,
-      "rank": 31,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 193941,
@@ -1467,6 +1491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164055,
+      "num": 164055,
+      "word": "开始惜命的年轻人决定认真养生",
+      "onboard_time": 1725096140,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 163953,
       "num": 163953,
       "word": "遭逆行女司机殴打者发声",
@@ -1507,14 +1539,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 161754,
-      "num": 736600,
-      "word": "唐尚珺前往华南师大报到",
-      "onboard_time": 1725094340,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161669,
       "num": 161669,
       "word": "王楚钦靠窗张嘴睡觉",
@@ -1553,14 +1577,6 @@
       "onboard_time": 1725087559,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160015,
-      "num": 160015,
-      "word": "乌克兰要求蒙古国逮捕普京",
-      "onboard_time": 1725095659,
-      "rank": 41,
-      "category": "国外时政"
     },
     {
       "raw_hot": 160013,
@@ -1625,6 +1641,14 @@
       "onboard_time": 1725088940,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149010,
+      "num": 149010,
+      "word": "蔚来报警",
+      "onboard_time": 1725094219,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 148923,
@@ -1715,12 +1739,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138360,
+      "num": 138360,
+      "word": "藏海花藏不住了",
+      "onboard_time": 1725096619,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138280,
       "num": 133953,
       "word": "孙颖莎又上台演讲了",
       "onboard_time": 1725075200,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137677,
+      "num": 137677,
+      "word": "桂花开了",
+      "onboard_time": 1725095179,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 136579,
@@ -1737,14 +1777,6 @@
       "onboard_time": 1725087740,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135575,
-      "num": 135575,
-      "word": "蔚来报警",
-      "onboard_time": 1725094219,
-      "rank": 47,
-      "category": "汽车"
     },
     {
       "raw_hot": 134262,
@@ -2067,11 +2099,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 56728,
+      "num": 459201,
+      "word": "秋天的第一个报恩榴莲",
+      "onboard_time": 1725095300,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 56164,
       "num": 57930,
       "word": "韩女性深陷恐慌22万人被色情片AI换脸",
       "onboard_time": 1725051432,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55055,
+      "num": 425795,
+      "word": "网民冒充被救女孩丑化牺牲民警被查处",
+      "onboard_time": 1725095119,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2129,14 +2177,6 @@
       "onboard_time": 1725093379,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 46910,
-      "num": 180088,
-      "word": "秋天的第一个报恩榴莲",
-      "onboard_time": 1725095300,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 45973,
@@ -2211,6 +2251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38417,
+      "num": 694178,
+      "word": "圣博特训学校被举报后疑将学生转移",
+      "onboard_time": 1725096680,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34643,
       "num": 1348536,
       "word": "用电影海报打开2024新学期",
@@ -2267,6 +2315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30603,
+      "num": 445121,
+      "word": "Henry红色厚底鞋",
+      "onboard_time": 1725095719,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 29873,
       "num": 460586,
       "word": "被饿了么免单提醒夏天结束了",
@@ -2275,16 +2331,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 26246,
-      "num": 425795,
-      "word": "网民冒充被救女孩丑化牺牲民警被查处",
-      "onboard_time": 1725095119,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 23917,
-      "num": 163010,
+      "num": 192152,
       "word": "杨幂风格新旅六宫格",
       "onboard_time": 1725089059,
       "rank": 41,
@@ -2369,14 +2417,6 @@
       "onboard_time": 1724982979,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10206,
-      "num": 400385,
-      "word": "Henry红色厚底鞋",
-      "onboard_time": 1725095719,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 9153,

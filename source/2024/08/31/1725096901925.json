@@ -1,0 +1,410 @@
+{
+  "runTime": 1725096901925,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1945946,
+        "num": 1945946,
+        "word": "孕妇被高空抛下玻璃瓶砸断脚趾",
+        "onboard_time": 1725089120,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1247084,
+        "num": 1247084,
+        "word": "男童走失后死亡两亲属有作案嫌疑",
+        "onboard_time": 1725093080,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31084,
+        "num": 971075,
+        "word": "用电影海报打开2024新学期",
+        "onboard_time": 1725091999,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 960456,
+        "num": 960456,
+        "word": "王楚钦 认识了很多新朋友",
+        "onboard_time": 1725087380,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 832651,
+        "num": 832651,
+        "word": "菲律宾",
+        "onboard_time": 1725094640,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 735673,
+        "num": 735673,
+        "word": "李雯雯 莎莎我爱你",
+        "onboard_time": 1725092299,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 718268,
+        "num": 718268,
+        "word": "女子拿手机骑单车摔倒身亡",
+        "onboard_time": 1725082940,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579514,
+        "num": 696276,
+        "word": "张元英出道6年归来才20岁",
+        "onboard_time": 1725088940,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 533231,
+        "num": 694353,
+        "word": "章子怡走红毯都带着女儿",
+        "onboard_time": 1725086779,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38417,
+        "num": 694178,
+        "word": "圣博特训学校被举报后疑将学生转移",
+        "onboard_time": 1725096680,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694098,
+        "num": 694098,
+        "word": "人民日报评结婚登记数持续走低",
+        "onboard_time": 1725081620,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614173,
+        "num": 614173,
+        "word": "菲9701号船故意冲撞我海警舰",
+        "onboard_time": 1725090680,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583768,
+        "num": 583768,
+        "word": "王楚钦不理解但直接加入",
+        "onboard_time": 1725095659,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 556199,
+        "num": 556199,
+        "word": "网红医生擦边软色情",
+        "onboard_time": 1725096259,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491648,
+        "num": 491648,
+        "word": "那英 那大姐叫什么来着",
+        "onboard_time": 1725091581,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 460928,
+        "num": 460928,
+        "word": "孙颖莎带着小分队整活儿",
+        "onboard_time": 1725090319,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56728,
+        "num": 459201,
+        "word": "秋天的第一个报恩榴莲",
+        "onboard_time": 1725095300,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 30603,
+        "num": 445121,
+        "word": "Henry红色厚底鞋",
+        "onboard_time": 1725095719,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 331353,
+        "num": 428392,
+        "word": "金靖孕肚大片",
+        "onboard_time": 1725080601,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240473,
+        "num": 420656,
+        "word": "迪丽热巴掉鞋名场面",
+        "onboard_time": 1725087621,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 413168,
+        "num": 413168,
+        "word": "女主播与6旬大爷裸聊要打赏",
+        "onboard_time": 1725072379,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388659,
+        "num": 388659,
+        "word": "iPhone16Pro古铜色渲染图曝光",
+        "onboard_time": 1725081200,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 383478,
+        "num": 383478,
+        "word": "马龙访港plog",
+        "onboard_time": 1725091099,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305295,
+        "num": 305295,
+        "word": "唐尚珺前往华南师大报到",
+        "onboard_time": 1725094340,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238435,
+        "num": 238435,
+        "word": "袁冰妍 落花时节又逢君",
+        "onboard_time": 1725077118,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280994,
+        "num": 238185,
+        "word": "丁太升回应派克特diss乙游",
+        "onboard_time": 1725095538,
+        "rank": 25,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 55055,
+        "num": 237548,
+        "word": "网民冒充被救女孩丑化牺牲民警被查处",
+        "onboard_time": 1725095119,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237090,
+        "num": 237090,
+        "word": "马龙卖艺",
+        "onboard_time": 1725082700,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222774,
+        "num": 222774,
+        "word": "余宇涵 重庆",
+        "onboard_time": 1725080480,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207346,
+        "num": 219099,
+        "word": "罗云熙晒腹肌",
+        "onboard_time": 1725090861,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529231,
+        "num": 219015,
+        "word": "乌克兰要求蒙古国逮捕普京",
+        "onboard_time": 1725095659,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 230203,
+        "num": 218661,
+        "word": "盛李豪除了射击最爱羽毛球",
+        "onboard_time": 1725092299,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218019,
+        "num": 218019,
+        "word": "广东一地92名猴痘患者均为男性",
+        "onboard_time": 1725079579,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201111,
+        "num": 201111,
+        "word": "杨幂上下身反差感穿搭",
+        "onboard_time": 1725089480,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 199520,
+        "num": 199520,
+        "word": "大同11元刀削面事件面馆重新开业",
+        "onboard_time": 1725083420,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13484,
+        "num": 192152,
+        "word": "杨幂风格新旅六宫格",
+        "onboard_time": 1725089059,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191955,
+        "num": 191955,
+        "word": "杜海涛 难听",
+        "onboard_time": 1725086240,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164933,
+        "num": 164933,
+        "word": "两岁宝宝坐高铁被扇耳光",
+        "onboard_time": 1725076579,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164055,
+        "num": 164055,
+        "word": "开始惜命的年轻人决定认真养生",
+        "onboard_time": 1725096140,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162878,
+        "num": 162878,
+        "word": "大学生真正的假期刚刚开始",
+        "onboard_time": 1725092420,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159703,
+        "num": 159703,
+        "word": "章若楠新剧刚开工就辞职",
+        "onboard_time": 1725094340,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159532,
+        "num": 159532,
+        "word": "一条微博告别八月",
+        "onboard_time": 1725082219,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154088,
+        "num": 154088,
+        "word": "原来眉骨真的可以挡雨",
+        "onboard_time": 1725078740,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152625,
+        "num": 152625,
+        "word": "女子称把房租给亲戚收房时崩溃了",
+        "onboard_time": 1725086600,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149010,
+        "num": 149010,
+        "word": "蔚来报警",
+        "onboard_time": 1725094219,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 148840,
+        "num": 148840,
+        "word": "入青云番位",
+        "onboard_time": 1725090980,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140198,
+        "num": 140198,
+        "word": "吃了一个月褪黑素后的真实感受",
+        "onboard_time": 1725065300,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138919,
+        "num": 138919,
+        "word": "全红婵与孙颖莎王楚钦合影",
+        "onboard_time": 1725084499,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138360,
+        "num": 138360,
+        "word": "藏海花藏不住了",
+        "onboard_time": 1725096619,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137677,
+        "num": 137677,
+        "word": "桂花开了",
+        "onboard_time": 1725095179,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#教育引导学生立鸿鹄志做奋斗者#"
+    }
+  }
+}
