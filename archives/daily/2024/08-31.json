@@ -1,6 +1,6 @@
 {
   "startTime": 1725035044218,
-  "endTime": 1725108755789,
+  "endTime": 1725110521567,
   "band_list": [
     {
       "raw_hot": 3132358,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 825889,
-      "num": 274089,
+      "num": 280368,
       "word": "室友吃芒果导致我过敏进了医院",
       "onboard_time": 1725103039,
       "rank": 49,
@@ -281,6 +281,14 @@
       "onboard_time": 1725082700,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 763621,
+      "num": 763621,
+      "word": "43岁陈冠希近照",
+      "onboard_time": 1725105979,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 760914,
@@ -371,14 +379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 687361,
-      "num": 687361,
-      "word": "43岁陈冠希近照",
-      "onboard_time": 1725105979,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 672708,
       "num": 672708,
       "word": "原来微信余额还可以被隐藏",
@@ -393,6 +393,22 @@
       "onboard_time": 1725078740,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 653361,
+      "num": 653361,
+      "word": "五集就把祝绪丹给演爽了",
+      "onboard_time": 1725105618,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 641938,
+      "num": 641938,
+      "word": "王楚钦访港日vlog",
+      "onboard_time": 1725109400,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 641344,
@@ -435,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 597132,
+      "num": 279666,
+      "word": "被逆行女司机打伤男子若还手如何定性",
+      "onboard_time": 1725104481,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 591290,
       "num": 591290,
       "word": "迪丽热巴掉鞋名场面",
@@ -459,12 +483,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 578812,
-      "num": 578812,
-      "word": "五集就把祝绪丹给演爽了",
-      "onboard_time": 1725105618,
+      "raw_hot": 574382,
+      "num": 574382,
+      "word": "阚清子过不去的大海梗",
+      "onboard_time": 1725109038,
       "rank": 12,
-      "category": "剧集"
+      "category": "艺人"
     },
     {
       "raw_hot": 572163,
@@ -731,7 +755,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 365304,
+      "raw_hot": 368628,
       "num": 484956,
       "word": "阴阳面馆重新开业11元刺痛了谁",
       "onboard_time": 1725099860,
@@ -883,6 +907,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 312831,
+      "num": 312831,
+      "word": "郭晶晶霍震霆找全红婵合影留念",
+      "onboard_time": 1725108259,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 306819,
       "num": 306819,
       "word": "LNG战胜WBG",
@@ -955,6 +987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 284963,
+      "num": 284963,
+      "word": "许嵩上海演唱会嘉宾是薛之谦",
+      "onboard_time": 1725107839,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 283161,
       "num": 283161,
       "word": "你好星期六今晚夏日清凉派对",
@@ -1008,6 +1048,14 @@
       "word": "校方回应160人住一间宿舍",
       "onboard_time": 1725034519,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272395,
+      "num": 272395,
+      "word": "生下4胞胎父亲称好心人电话不断",
+      "onboard_time": 1725108080,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1147,14 +1195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 249036,
-      "num": 249036,
-      "word": "被逆行女司机打伤男子若还手如何定性",
-      "onboard_time": 1725104481,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 248689,
       "num": 248689,
       "word": "国乒三打三",
@@ -1193,14 +1233,6 @@
       "onboard_time": 1725036079,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 239476,
-      "num": 223180,
-      "word": "许嵩上海演唱会嘉宾是薛之谦",
-      "onboard_time": 1725107839,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 238705,
@@ -1347,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213485,
+      "num": 213485,
+      "word": "偶遇姚晨带孩子吃麻辣烫",
+      "onboard_time": 1725108440,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213049,
       "num": 213049,
       "word": "郭晶晶遇到伏明霞秒变小妹妹",
@@ -1451,14 +1491,6 @@
       "category": "教育,体育"
     },
     {
-      "raw_hot": 203075,
-      "num": 203075,
-      "word": "偶遇姚晨带孩子吃麻辣烫",
-      "onboard_time": 1725108440,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 202487,
       "num": 219046,
       "word": "华晨宇推荐的歌手是谁",
@@ -1539,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195078,
+      "num": 195078,
+      "word": "王一博抛绳子抛了一个小时",
+      "onboard_time": 1725109881,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194975,
       "num": 194975,
       "word": "郑钦文vs尼迈尔",
@@ -1603,12 +1643,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188715,
-      "num": 188715,
-      "word": "郭晶晶霍震霆找全红婵合影留念",
-      "onboard_time": 1725108259,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 188666,
+      "num": 184036,
+      "word": "王一博拔蚂蟥好吓人",
+      "onboard_time": 1725109639,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 188391,
@@ -1657,6 +1697,14 @@
       "onboard_time": 1725088100,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185374,
+      "num": 185374,
+      "word": "李耕耘金发",
+      "onboard_time": 1725110240,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 185190,
@@ -1731,6 +1779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178574,
+      "num": 178574,
+      "word": "迪丽热巴补妆姿势",
+      "onboard_time": 1725110180,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 178194,
       "num": 178194,
       "word": "樊振东盛李豪被拉去跳舞了",
@@ -1795,6 +1851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172594,
+      "num": 172594,
+      "word": "檀健次跳弗朗明戈",
+      "onboard_time": 1725109280,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 172279,
       "num": 360045,
       "word": "成年人被骗进特训学校遭暴力殴打",
@@ -1809,6 +1873,14 @@
       "onboard_time": 1725100879,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172179,
+      "num": 172179,
+      "word": "汪苏泷演唱会场馆变大漏勺",
+      "onboard_time": 1725110121,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 171408,
@@ -1905,6 +1977,14 @@
       "onboard_time": 1725094699,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164645,
+      "num": 164645,
+      "word": "赖斯红牌",
+      "onboard_time": 1725110180,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 164055,
@@ -2185,14 +2265,6 @@
       "onboard_time": 1725086840,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 141720,
-      "num": 203274,
-      "word": "生下4胞胎父亲称好心人电话不断",
-      "onboard_time": 1725108080,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140863,
@@ -2763,6 +2835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40088,
+      "num": 316126,
+      "word": "余承东尹同跃称在智界上全力以赴",
+      "onboard_time": 1725109580,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 39873,
       "num": 39873,
       "word": "檀健次多见一次巡回演唱会",
@@ -2935,6 +3015,14 @@
       "num": 186093,
       "word": "教授爷爷地铁畅谈点亮萌娃人生理想",
       "onboard_time": 1725058335,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19923,
+      "num": 628299,
+      "word": "多条国道路段恢复收费",
+      "onboard_time": 1725110121,
       "rank": 9,
       "category": "社会新闻"
     },
