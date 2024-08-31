@@ -1,0 +1,410 @@
+{
+  "runTime": 1725107835482,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2139513,
+        "num": 2139513,
+        "word": "金靖孩子随自己姓",
+        "onboard_time": 1725104900,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1516726,
+        "num": 1516726,
+        "word": "网红医生擦边软色情",
+        "onboard_time": 1725096259,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50542,
+        "num": 1366562,
+        "word": "中非共建一带一路亮点",
+        "onboard_time": 1725107541,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1233602,
+        "num": 1233602,
+        "word": "专家称女生游泳私密贴是智商税",
+        "onboard_time": 1725101480,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 901540,
+        "num": 901540,
+        "word": "盛李豪 死腿协调点别搞我",
+        "onboard_time": 1725097819,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 797375,
+        "num": 797375,
+        "word": "王一博被蚂蟥连咬三口",
+        "onboard_time": 1725098839,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 760823,
+        "num": 760823,
+        "word": "投诉刀削面阴阳价格博主再发声",
+        "onboard_time": 1725101059,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590250,
+        "num": 590250,
+        "word": "43岁陈冠希近照",
+        "onboard_time": 1725105979,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544453,
+        "num": 544453,
+        "word": "生4胞胎夫妻月收入不到1万",
+        "onboard_time": 1725098900,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331191,
+        "num": 508267,
+        "word": "女子拿手机骑单车摔倒身亡",
+        "onboard_time": 1725082940,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37646,
+        "num": 495429,
+        "word": "家用纯电SUV卷对了吗",
+        "onboard_time": 1725102801,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 762246,
+        "num": 495271,
+        "word": "乌克兰要求蒙古国逮捕普京",
+        "onboard_time": 1725095659,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 491782,
+        "num": 491782,
+        "word": "五集就把祝绪丹给演爽了",
+        "onboard_time": 1725105618,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 429681,
+        "num": 429681,
+        "word": "李诞光头簪花",
+        "onboard_time": 1725102140,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386431,
+        "num": 386431,
+        "word": "王楚钦不理解但直接加入",
+        "onboard_time": 1725095659,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 378423,
+        "num": 378423,
+        "word": "李楷灿千字小作文",
+        "onboard_time": 1725102321,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348033,
+        "num": 348033,
+        "word": "十个勤天佛山演唱会",
+        "onboard_time": 1725104781,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 306962,
+        "num": 306962,
+        "word": "阴阳面馆重新开业11元刺痛了谁",
+        "onboard_time": 1725099860,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306819,
+        "num": 306819,
+        "word": "LNG战胜WBG",
+        "onboard_time": 1725105079,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 276314,
+        "num": 276314,
+        "word": "玩密室拼场拼到了朱志鑫",
+        "onboard_time": 1725099560,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 653903,
+        "num": 274089,
+        "word": "室友吃芒果导致我过敏进了医院",
+        "onboard_time": 1725103039,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249036,
+        "num": 249036,
+        "word": "被逆行女司机打伤男子若还手如何定性",
+        "onboard_time": 1725104481,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246002,
+        "num": 246002,
+        "word": "孕妇被高空抛下玻璃瓶砸断脚趾",
+        "onboard_time": 1725089120,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242473,
+        "num": 242473,
+        "word": "苏醒发长文支持王铮亮",
+        "onboard_time": 1725099920,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237801,
+        "num": 237801,
+        "word": "王楚钦 认识了很多新朋友",
+        "onboard_time": 1725087380,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230691,
+        "num": 230691,
+        "word": "唐嫣短发开机照",
+        "onboard_time": 1725106580,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220230,
+        "num": 220230,
+        "word": "檀健次演唱会",
+        "onboard_time": 1725099260,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 206344,
+        "num": 206344,
+        "word": "粉丝问王一博还回来吗",
+        "onboard_time": 1725106879,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82905,
+        "num": 202731,
+        "word": "我国海上油气井钻探速度新纪录",
+        "onboard_time": 1725107001,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 200587,
+        "num": 200587,
+        "word": "李雯雯 莎莎我爱你",
+        "onboard_time": 1725092299,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211471,
+        "num": 199884,
+        "word": "唐嫣一番",
+        "onboard_time": 1725107300,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198609,
+        "num": 198609,
+        "word": "孙颖莎又双叒叕指导合影了",
+        "onboard_time": 1725103879,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205613,
+        "num": 195682,
+        "word": "王一博被咬后就地取材找解药",
+        "onboard_time": 1725107600,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191049,
+        "num": 191049,
+        "word": "檀健次直播",
+        "onboard_time": 1725101659,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188259,
+        "num": 188259,
+        "word": "郭晶晶遇到伏明霞秒变小妹妹",
+        "onboard_time": 1725101480,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188183,
+        "num": 188183,
+        "word": "肖战下班鞠躬感谢工作人员",
+        "onboard_time": 1725104839,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180710,
+        "num": 180710,
+        "word": "朱雨玲澳门冠军赛",
+        "onboard_time": 1725100400,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178765,
+        "num": 178765,
+        "word": "你好星期六",
+        "onboard_time": 1725105381,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177198,
+        "num": 177198,
+        "word": "开学第一课有潘展乐",
+        "onboard_time": 1725107420,
+        "rank": 38,
+        "category": "教育,体育"
+      },
+      {
+        "raw_hot": 173921,
+        "num": 173921,
+        "word": "林孝埈为残奥健儿加油",
+        "onboard_time": 1725107180,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172228,
+        "num": 172228,
+        "word": "菲律宾",
+        "onboard_time": 1725094640,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166117,
+        "num": 166117,
+        "word": "马龙访港plog",
+        "onboard_time": 1725091099,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163246,
+        "num": 163246,
+        "word": "人民日报评结婚登记数持续走低",
+        "onboard_time": 1725081620,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162627,
+        "num": 162627,
+        "word": "WBG对战LNG",
+        "onboard_time": 1725094280,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160032,
+        "num": 160032,
+        "word": "阿森纳vs布莱顿",
+        "onboard_time": 1725106940,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159501,
+        "num": 159501,
+        "word": "张元英出道6年归来才20岁",
+        "onboard_time": 1725088940,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150495,
+        "num": 150495,
+        "word": "郑思维 大家破冰嗨起来了",
+        "onboard_time": 1725106733,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150423,
+        "num": 150423,
+        "word": "男童走失后死亡两亲属有作案嫌疑",
+        "onboard_time": 1725093080,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145430,
+        "num": 145430,
+        "word": "孟佳王霏霏为曹璐打call",
+        "onboard_time": 1725103039,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144741,
+        "num": 144741,
+        "word": "马龙卖艺",
+        "onboard_time": 1725082700,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这样寄语莘莘学子#"
+    }
+  }
+}
