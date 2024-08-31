@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725122554973,
+  "endTime": 1725124698857,
   "band_list": [
     {
       "raw_hot": 1442203,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 544467,
+      "num": 544467,
+      "word": "王靖雯淘汰",
+      "onboard_time": 1725121458,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 527403,
       "num": 527403,
       "word": "金靖孩子随自己姓",
@@ -121,14 +129,6 @@
       "onboard_time": 1725109400,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 360277,
-      "num": 360277,
-      "word": "王靖雯淘汰",
-      "onboard_time": 1725121458,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 339028,
@@ -347,6 +347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 106599,
+      "num": 106599,
+      "word": "很难不中卢昱晓的美人计",
+      "onboard_time": 1725123438,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105789,
       "num": 180910,
       "word": "大同11元刀削面馆如今已明码标价",
@@ -379,6 +387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 97660,
+      "num": 97660,
+      "word": "看檀健次属于年轻人的锻炼方式",
+      "onboard_time": 1725123916,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 95403,
       "num": 120279,
       "word": "赵露思英伦针织衫",
@@ -403,7 +419,15 @@
       "category": "演出"
     },
     {
-      "raw_hot": 27729,
+      "raw_hot": 61317,
+      "num": 68082,
+      "word": "全球AI色情换脸受害者中一半是韩国人",
+      "onboard_time": 1725123797,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51681,
       "num": 185595,
       "word": "这件文物把考古专家整迷糊了",
       "onboard_time": 1725122418,
@@ -411,7 +435,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11795,
+      "raw_hot": 16385,
+      "num": 283228,
+      "word": "警方采集DNA寻找高空抛物肇事者",
+      "onboard_time": 1725124277,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15617,
       "num": 723358,
       "word": "我国海上油气井钻探速度新纪录",
       "onboard_time": 1725107001,
