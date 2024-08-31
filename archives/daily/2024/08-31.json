@@ -1,6 +1,6 @@
 {
   "startTime": 1725035044218,
-  "endTime": 1725111280415,
+  "endTime": 1725113868176,
   "band_list": [
     {
       "raw_hot": 3132358,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1115000,
+      "num": 1115000,
+      "word": "贾一凡vlog香港篇",
+      "onboard_time": 1725110901,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1098429,
       "num": 1098429,
       "word": "袁冰妍 落花时节又逢君",
@@ -179,20 +187,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 997184,
-      "num": 997184,
-      "word": "贾一凡vlog香港篇",
-      "onboard_time": 1725110901,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 975412,
       "num": 975412,
       "word": "潘展乐抢陈芋汐手机",
       "onboard_time": 1725067099,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 940450,
+      "num": 940450,
+      "word": "夫妻离婚都不要大女儿法院判不准离",
+      "onboard_time": 1725110901,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 916458,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 825889,
-      "num": 311308,
+      "num": 479139,
       "word": "室友吃芒果导致我过敏进了医院",
       "onboard_time": 1725103039,
       "rank": 49,
@@ -281,6 +289,14 @@
       "onboard_time": 1725092299,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 792069,
+      "num": 792069,
+      "word": "生下4胞胎父亲称好心人电话不断",
+      "onboard_time": 1725108080,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 782304,
@@ -363,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 709276,
+      "num": 709276,
+      "word": "刘亦菲去了张靓颖演唱会",
+      "onboard_time": 1725110660,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 707461,
       "num": 538804,
       "word": "两岁宝宝坐高铁被扇耳光",
@@ -419,6 +443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 660988,
+      "num": 660988,
+      "word": "檀健次直播",
+      "onboard_time": 1725101659,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 653361,
       "num": 653361,
       "word": "五集就把祝绪丹给演爽了",
@@ -467,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 606299,
+      "num": 606299,
+      "word": "郭晶晶霍震霆找全红婵合影留念",
+      "onboard_time": 1725108259,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 597132,
       "num": 279666,
       "word": "被逆行女司机打伤男子若还手如何定性",
@@ -513,6 +553,14 @@
       "onboard_time": 1725028642,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 558131,
+      "num": 494787,
+      "word": "杜淳老婆给杜淳发檀健次帅照",
+      "onboard_time": 1725112460,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 557812,
@@ -587,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 494171,
+      "num": 494171,
+      "word": "你好星期六运动员专场预告",
+      "onboard_time": 1725110780,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 489010,
       "num": 489010,
       "word": "朱雨玲澳门冠军赛",
@@ -601,14 +657,6 @@
       "onboard_time": 1725071659,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 483692,
-      "num": 483692,
-      "word": "郭晶晶霍震霆找全红婵合影留念",
-      "onboard_time": 1725108259,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 471159,
@@ -691,12 +739,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 403611,
-      "num": 403611,
-      "word": "檀健次直播",
-      "onboard_time": 1725101659,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 407907,
+      "num": 407907,
+      "word": "檀健次清唱京剧",
+      "onboard_time": 1725110660,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 402205,
@@ -721,14 +769,6 @@
       "onboard_time": 1725020599,
       "rank": 5,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 396660,
-      "num": 396660,
-      "word": "生下4胞胎父亲称好心人电话不断",
-      "onboard_time": 1725108080,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 396162,
@@ -769,6 +809,22 @@
       "onboard_time": 1725064578,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389775,
+      "num": 389775,
+      "word": "任敏工作室否认恋情",
+      "onboard_time": 1725112941,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 389292,
+      "num": 389292,
+      "word": "檀健次演唱会",
+      "onboard_time": 1725099260,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 388385,
@@ -825,14 +881,6 @@
       "onboard_time": 1725030922,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 339744,
-      "num": 339744,
-      "word": "刘亦菲去了张靓颖演唱会",
-      "onboard_time": 1725110660,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 336493,
@@ -939,6 +987,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 310267,
+      "num": 310267,
+      "word": "老人在足浴店消费超30万儿子发声",
+      "onboard_time": 1725112281,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 306819,
       "num": 306819,
       "word": "LNG战胜WBG",
@@ -953,6 +1009,14 @@
       "onboard_time": 1725094340,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304557,
+      "num": 304557,
+      "word": "迪丽热巴补妆姿势",
+      "onboard_time": 1725110180,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 302808,
@@ -1001,14 +1065,6 @@
       "onboard_time": 1725059235,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 285742,
-      "num": 285742,
-      "word": "檀健次演唱会",
-      "onboard_time": 1725099260,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 285226,
@@ -1107,14 +1163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 262952,
-      "num": 262952,
-      "word": "迪丽热巴补妆姿势",
-      "onboard_time": 1725110180,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 260312,
       "num": 260312,
       "word": "咖啡店长被指已婚诱骗女孩致其自杀",
@@ -1129,6 +1177,14 @@
       "onboard_time": 1725077600,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 258244,
+      "num": 660096,
+      "word": "暑假作业烂尾楼赶工名场面",
+      "onboard_time": 1725111140,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257751,
@@ -1243,6 +1299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242798,
+      "num": 242798,
+      "word": "狮子座开始冷淡的原因",
+      "onboard_time": 1725111682,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 242568,
       "num": 268507,
       "word": "杜海涛 难听",
@@ -1289,6 +1353,14 @@
       "onboard_time": 1725068479,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234159,
+      "num": 234159,
+      "word": "李耕耘金发",
+      "onboard_time": 1725110240,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 233075,
@@ -1363,14 +1435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 224636,
-      "num": 224636,
-      "word": "李耕耘金发",
-      "onboard_time": 1725110240,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 222900,
       "num": 222900,
       "word": "王楚钦在谢瑜合照里大头变小头",
@@ -1435,6 +1499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211317,
+      "num": 211317,
+      "word": "赵一博新造型",
+      "onboard_time": 1725112039,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 211222,
       "num": 211222,
       "word": "孙颖莎又双叒叕指导合影了",
@@ -1467,14 +1539,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 208201,
-      "num": 208201,
-      "word": "檀健次清唱京剧",
-      "onboard_time": 1725110660,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 207415,
       "num": 207415,
       "word": "柳舟记 大婚醉酒吻",
@@ -1505,14 +1569,6 @@
       "onboard_time": 1725107600,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205559,
-      "num": 205559,
-      "word": "你好星期六运动员专场预告",
-      "onboard_time": 1725110780,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 205427,
@@ -1665,14 +1721,6 @@
       "onboard_time": 1725085101,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 193828,
-      "num": 193828,
-      "word": "夫妻离婚都不要大女儿法院判不准离",
-      "onboard_time": 1725110901,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193746,
@@ -1979,6 +2027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170323,
+      "num": 170323,
+      "word": "徐海乔演技",
+      "onboard_time": 1725113362,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169540,
       "num": 169540,
       "word": "TWICE公告",
@@ -2107,6 +2163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162293,
+      "num": 162293,
+      "word": "eStar对战EDGM",
+      "onboard_time": 1725112760,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 162177,
       "num": 162177,
       "word": "被逆行女司机打伤男司机是退伍军人",
@@ -2121,6 +2185,14 @@
       "onboard_time": 1725076999,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 161960,
+      "num": 161960,
+      "word": "生4胞胎一家9口挤2间小卧室",
+      "onboard_time": 1725113419,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161669,
@@ -2219,6 +2291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155646,
+      "num": 155646,
+      "word": "虎扑女神大赛俞俐均夺冠",
+      "onboard_time": 1725113419,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 152492,
       "num": 152492,
       "word": "晋江西西特",
@@ -2265,6 +2345,14 @@
       "onboard_time": 1725096439,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150032,
+      "num": 150032,
+      "word": "姜妍拍照 越努力越心酸",
+      "onboard_time": 1725113662,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 149010,
@@ -2329,6 +2417,14 @@
       "onboard_time": 1725078620,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146173,
+      "num": 146173,
+      "word": "妈妈朋友的儿子更新",
+      "onboard_time": 1725113002,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 143471,
@@ -2739,14 +2835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 73548,
-      "num": 660096,
-      "word": "暑假作业烂尾楼赶工名场面",
-      "onboard_time": 1725111140,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 69608,
       "num": 441769,
       "word": "AI换脸为什么韩国最泛滥",
@@ -2924,7 +3012,7 @@
     },
     {
       "raw_hot": 40088,
-      "num": 404313,
+      "num": 495083,
       "word": "余承东尹同跃称在智界上全力以赴",
       "onboard_time": 1725109580,
       "rank": 16,
@@ -2976,6 +3064,14 @@
       "word": "家用纯电SUV卷对了吗",
       "onboard_time": 1725102801,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37479,
+      "num": 480825,
+      "word": "园长收学生6.16元巧克力被开除",
+      "onboard_time": 1725113539,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -3055,6 +3151,14 @@
       "num": 500414,
       "word": "扫码用餐给三星半却被店家骚扰要五星",
       "onboard_time": 1725103099,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26360,
+      "num": 497993,
+      "word": "警惕儿童电话手表里的这些坑",
+      "onboard_time": 1725112821,
       "rank": 14,
       "category": "社会新闻"
     },
