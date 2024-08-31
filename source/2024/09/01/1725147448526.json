@@ -1,0 +1,410 @@
+{
+  "runTime": 1725147448526,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 717646,
+        "num": 932340,
+        "word": "网红医生擦边软色情",
+        "onboard_time": 1725096259,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603295,
+        "num": 603295,
+        "word": "生4胞胎一家9口挤2间小卧室",
+        "onboard_time": 1725113419,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4443,
+        "num": 463330,
+        "word": "我国海上油气井钻探速度新纪录",
+        "onboard_time": 1725107001,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 391633,
+        "num": 391633,
+        "word": "园长收学生6.16元巧克力被开除",
+        "onboard_time": 1725113539,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365892,
+        "num": 365892,
+        "word": "儿童电话手表别成了小坏蛋",
+        "onboard_time": 1725105681,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337683,
+        "num": 337683,
+        "word": "王靖雯淘汰",
+        "onboard_time": 1725121458,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266697,
+        "num": 266697,
+        "word": "张雨霏大方回应择偶标准",
+        "onboard_time": 1725118821,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232786,
+        "num": 232786,
+        "word": "熬夜刷视频睡到中午为何伤身",
+        "onboard_time": 1725125417,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 175565,
+        "num": 232300,
+        "word": "王一博戴小骨头项链",
+        "onboard_time": 1725114682,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41002,
+        "num": 228338,
+        "word": "四胞胎出生后住保温箱还没见过母亲",
+        "onboard_time": 1725117141,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677686,
+        "num": 226815,
+        "word": "迪丽热巴回到家一看手机天塌了",
+        "onboard_time": 1725145694,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246424,
+        "num": 222293,
+        "word": "老人在足浴店消费超30万儿子发声",
+        "onboard_time": 1725112281,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222276,
+        "num": 222276,
+        "word": "专家称女生游泳私密贴是智商税",
+        "onboard_time": 1725101480,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187684,
+        "num": 187684,
+        "word": "9月你好",
+        "onboard_time": 1725146355,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182098,
+        "num": 182098,
+        "word": "包头地震",
+        "onboard_time": 1725146235,
+        "rank": 14,
+        "category": "国内时政,自然"
+      },
+      {
+        "raw_hot": 178367,
+        "num": 178367,
+        "word": "生下4胞胎父亲称好心人电话不断",
+        "onboard_time": 1725108080,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161680,
+        "num": 161680,
+        "word": "黄子韬徐艺洋衣服互穿",
+        "onboard_time": 1725114622,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157282,
+        "num": 157282,
+        "word": "金靖孩子随自己姓",
+        "onboard_time": 1725104900,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156714,
+        "num": 156714,
+        "word": "很难不中卢昱晓的美人计",
+        "onboard_time": 1725123438,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153457,
+        "num": 153457,
+        "word": "杜淳老婆给杜淳发檀健次帅照",
+        "onboard_time": 1725112460,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 291655,
+        "num": 152334,
+        "word": "150万安置费和每月稳定8200选哪个",
+        "onboard_time": 1725147015,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146837,
+        "num": 146837,
+        "word": "乌克兰要求蒙古国逮捕普京",
+        "onboard_time": 1725095659,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 128234,
+        "num": 128234,
+        "word": "李闽轩没穿军训服",
+        "onboard_time": 1725115822,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118438,
+        "num": 118438,
+        "word": "王楚钦访港日vlog",
+        "onboard_time": 1725109400,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116120,
+        "num": 116120,
+        "word": "全红婵贴脸开大干饭哥",
+        "onboard_time": 1725145694,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107308,
+        "num": 107308,
+        "word": "投诉刀削面阴阳价格博主再发声",
+        "onboard_time": 1725101059,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98636,
+        "num": 98636,
+        "word": "夫妻离婚都不要大女儿法院判不准离",
+        "onboard_time": 1725110901,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83139,
+        "num": 92970,
+        "word": "刘亦菲去了张靓颖演唱会",
+        "onboard_time": 1725110660,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 80364,
+        "num": 91870,
+        "word": "王一博拔蚂蟥好吓人",
+        "onboard_time": 1725109639,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73234,
+        "num": 91361,
+        "word": "赵露思侧麻花辫",
+        "onboard_time": 1725145694,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91015,
+        "num": 91015,
+        "word": "郭晶晶霍震霆找全红婵合影留念",
+        "onboard_time": 1725108259,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82182,
+        "num": 82182,
+        "word": "盛李豪 死腿协调点别搞我",
+        "onboard_time": 1725097819,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78661,
+        "num": 78661,
+        "word": "霍启刚晒与郭晶晶旧照",
+        "onboard_time": 1725147015,
+        "rank": 32,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 77290,
+        "num": 77290,
+        "word": "内蒙古包头市3.8级地震",
+        "onboard_time": 1725146355,
+        "rank": 33,
+        "category": "国外时政,自然"
+      },
+      {
+        "raw_hot": 71668,
+        "num": 71668,
+        "word": "五集就把祝绪丹给演爽了",
+        "onboard_time": 1725105618,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69463,
+        "num": 69463,
+        "word": "43岁陈冠希近照",
+        "onboard_time": 1725105979,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68636,
+        "num": 68636,
+        "word": "赵奕欢上了郝蕾表演课",
+        "onboard_time": 1725136631,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68396,
+        "num": 68396,
+        "word": "李钟硕给金宇彬秀智送咖啡车",
+        "onboard_time": 1725139090,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67383,
+        "num": 67383,
+        "word": "贾一凡vlog香港篇",
+        "onboard_time": 1725110901,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66431,
+        "num": 66431,
+        "word": "华晨宇说唢呐是乐器之王",
+        "onboard_time": 1725147015,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 63748,
+        "num": 63748,
+        "word": "菲律宾撞击我海警船现场态势图",
+        "onboard_time": 1725147015,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 59915,
+        "num": 59915,
+        "word": "开学",
+        "onboard_time": 1725117681,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 59064,
+        "num": 59064,
+        "word": "何广智 不会带团队只能自己干到死",
+        "onboard_time": 1725147377,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58991,
+        "num": 58991,
+        "word": "庞博文 求你们别走",
+        "onboard_time": 1725115462,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 57030,
+        "num": 57030,
+        "word": "室友吃芒果导致我过敏进了医院",
+        "onboard_time": 1725103039,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 56053,
+        "num": 56053,
+        "word": "肖战下班鞠躬感谢工作人员",
+        "onboard_time": 1725104839,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53033,
+        "num": 56045,
+        "word": "看檀健次属于年轻人的锻炼方式",
+        "onboard_time": 1725123916,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 49459,
+        "num": 56040,
+        "word": "迪丽热巴补妆姿势",
+        "onboard_time": 1725110180,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 47337,
+        "num": 56020,
+        "word": "孙颖莎说生活中要有松弛感",
+        "onboard_time": 1725111981,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47036,
+        "num": 56003,
+        "word": "男性梦到的人65%还是男性",
+        "onboard_time": 1725119479,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这样寄语莘莘学子#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725146387701,
+  "endTime": 1725147448526,
   "band_list": [
     {
       "raw_hot": 1442203,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 857252,
-      "num": 857252,
+      "num": 932340,
       "word": "网红医生擦边软色情",
       "onboard_time": 1725096259,
       "rank": 3,
@@ -48,6 +48,14 @@
       "word": "黄子韬徐艺洋衣服互穿",
       "onboard_time": 1725114622,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 677686,
+      "num": 226815,
+      "word": "迪丽热巴回到家一看手机天塌了",
+      "onboard_time": 1725145694,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -99,14 +107,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 486439,
-      "num": 162927,
-      "word": "迪丽热巴回到家一看手机天塌了",
-      "onboard_time": 1725145694,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 453225,
       "num": 453225,
       "word": "黄雨婷晒自拍合集",
@@ -147,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 365892,
+      "num": 365892,
+      "word": "儿童电话手表别成了小坏蛋",
+      "onboard_time": 1725105681,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339028,
       "num": 339028,
       "word": "乌克兰要求蒙古国逮捕普京",
@@ -179,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291655,
+      "num": 152334,
+      "word": "150万安置费和每月稳定8200选哪个",
+      "onboard_time": 1725147015,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 285554,
       "num": 285554,
       "word": "老人在足浴店消费超30万儿子发声",
@@ -193,14 +209,6 @@
       "onboard_time": 1725109639,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 207202,
-      "num": 207202,
-      "word": "儿童电话手表别成了小坏蛋",
-      "onboard_time": 1725105681,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194211,
@@ -219,12 +227,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 187684,
+      "num": 187684,
+      "word": "9月你好",
+      "onboard_time": 1725146355,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186075,
       "num": 186075,
       "word": "很难不中卢昱晓的美人计",
       "onboard_time": 1725123438,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182098,
+      "num": 182098,
+      "word": "包头地震",
+      "onboard_time": 1725146235,
+      "rank": 27,
+      "category": "国内时政,自然"
     },
     {
       "raw_hot": 178002,
@@ -281,14 +305,6 @@
       "onboard_time": 1725115760,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136856,
-      "num": 136856,
-      "word": "9月你好",
-      "onboard_time": 1725146355,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 128869,
@@ -361,6 +377,14 @@
       "onboard_time": 1725099920,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116120,
+      "num": 116120,
+      "word": "全红婵贴脸开大干饭哥",
+      "onboard_time": 1725145694,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 114030,
@@ -459,28 +483,60 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 68499,
-      "num": 68499,
-      "word": "包头地震",
-      "onboard_time": 1725146235,
-      "rank": 27,
-      "category": "国内时政,自然"
+      "raw_hot": 78661,
+      "num": 78661,
+      "word": "霍启刚晒与郭晶晶旧照",
+      "onboard_time": 1725147015,
+      "rank": 32,
+      "category": "体育,艺人"
     },
     {
-      "raw_hot": 67441,
-      "num": 67441,
+      "raw_hot": 77290,
+      "num": 77290,
+      "word": "内蒙古包头市3.8级地震",
+      "onboard_time": 1725146355,
+      "rank": 34,
+      "category": "国外时政,自然"
+    },
+    {
+      "raw_hot": 73234,
+      "num": 91361,
+      "word": "赵露思侧麻花辫",
+      "onboard_time": 1725145694,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 68636,
+      "num": 68636,
+      "word": "赵奕欢上了郝蕾表演课",
+      "onboard_time": 1725136631,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 68396,
+      "num": 68396,
       "word": "李钟硕给金宇彬秀智送咖啡车",
       "onboard_time": 1725139090,
       "rank": 49,
       "category": "剧集"
     },
     {
-      "raw_hot": 66998,
-      "num": 66998,
-      "word": "赵奕欢上了郝蕾表演课",
-      "onboard_time": 1725136631,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 66431,
+      "num": 66431,
+      "word": "华晨宇说唢呐是乐器之王",
+      "onboard_time": 1725147015,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 63748,
+      "num": 63748,
+      "word": "菲律宾撞击我海警船现场态势图",
+      "onboard_time": 1725147015,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 63580,
@@ -491,20 +547,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 63075,
-      "num": 63075,
-      "word": "全红婵贴脸开大干饭哥",
-      "onboard_time": 1725145694,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 59064,
+      "num": 59064,
+      "word": "何广智 不会带团队只能自己干到死",
+      "onboard_time": 1725147377,
+      "rank": 42,
+      "category": "综艺"
     },
     {
-      "raw_hot": 56786,
-      "num": 56786,
-      "word": "内蒙古包头市3.8级地震",
-      "onboard_time": 1725146355,
-      "rank": 34,
-      "category": "国外时政,自然"
+      "raw_hot": 56053,
+      "num": 56053,
+      "word": "肖战下班鞠躬感谢工作人员",
+      "onboard_time": 1725104839,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 53517,
@@ -515,20 +571,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 50842,
-      "num": 52145,
-      "word": "赵露思侧麻花辫",
-      "onboard_time": 1725145694,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 50331,
-      "num": 52141,
-      "word": "肖战下班鞠躬感谢工作人员",
-      "onboard_time": 1725104839,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 47337,
+      "num": 56020,
+      "word": "孙颖莎说生活中要有松弛感",
+      "onboard_time": 1725111981,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 43897,
@@ -609,14 +657,6 @@
       "onboard_time": 1725129432,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 29015,
-      "num": 39085,
-      "word": "孙颖莎说生活中要有松弛感",
-      "onboard_time": 1725111981,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 25953,
