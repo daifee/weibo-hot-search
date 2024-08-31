@@ -1,6 +1,6 @@
 {
   "startTime": 1725035044218,
-  "endTime": 1725110521567,
+  "endTime": 1725111280415,
   "band_list": [
     {
       "raw_hot": 3132358,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 997184,
+      "num": 997184,
+      "word": "贾一凡vlog香港篇",
+      "onboard_time": 1725110901,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 975412,
       "num": 975412,
       "word": "潘展乐抢陈芋汐手机",
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 825889,
-      "num": 280368,
+      "num": 311308,
       "word": "室友吃芒果导致我过敏进了医院",
       "onboard_time": 1725103039,
       "rank": 49,
@@ -280,6 +288,14 @@
       "word": "马龙卖艺",
       "onboard_time": 1725082700,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 772041,
+      "num": 772041,
+      "word": "王楚钦访港日vlog",
+      "onboard_time": 1725109400,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -363,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 693544,
+      "num": 693544,
+      "word": "阚清子过不去的大海梗",
+      "onboard_time": 1725109038,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 688270,
       "num": 688270,
       "word": "生4胞胎夫妻月收入不到1万",
@@ -401,14 +425,6 @@
       "onboard_time": 1725105618,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 641938,
-      "num": 641938,
-      "word": "王楚钦访港日vlog",
-      "onboard_time": 1725109400,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 641344,
@@ -481,14 +497,6 @@
       "onboard_time": 1725061457,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 574382,
-      "num": 574382,
-      "word": "阚清子过不去的大海梗",
-      "onboard_time": 1725109038,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 572163,
@@ -593,6 +601,14 @@
       "onboard_time": 1725071659,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 483692,
+      "num": 483692,
+      "word": "郭晶晶霍震霆找全红婵合影留念",
+      "onboard_time": 1725108259,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 471159,
@@ -707,6 +723,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 396660,
+      "num": 396660,
+      "word": "生下4胞胎父亲称好心人电话不断",
+      "onboard_time": 1725108080,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396162,
       "num": 396162,
       "word": "宗馥莉接手娃哈哈集团公司股份",
@@ -801,6 +825,14 @@
       "onboard_time": 1725030922,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 339744,
+      "num": 339744,
+      "word": "刘亦菲去了张靓颖演唱会",
+      "onboard_time": 1725110660,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 336493,
@@ -907,14 +939,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 312831,
-      "num": 312831,
-      "word": "郭晶晶霍震霆找全红婵合影留念",
-      "onboard_time": 1725108259,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 306819,
       "num": 306819,
       "word": "LNG战胜WBG",
@@ -987,8 +1011,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 284963,
-      "num": 284963,
+      "raw_hot": 285226,
+      "num": 285226,
       "word": "许嵩上海演唱会嘉宾是薛之谦",
       "onboard_time": 1725107839,
       "rank": 22,
@@ -1051,14 +1075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 272395,
-      "num": 272395,
-      "word": "生下4胞胎父亲称好心人电话不断",
-      "onboard_time": 1725108080,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 271886,
       "num": 271886,
       "word": "盛李豪打羽毛球",
@@ -1089,6 +1105,14 @@
       "onboard_time": 1725098479,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 262952,
+      "num": 262952,
+      "word": "迪丽热巴补妆姿势",
+      "onboard_time": 1725110180,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 260312,
@@ -1339,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224636,
+      "num": 224636,
+      "word": "李耕耘金发",
+      "onboard_time": 1725110240,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 222900,
       "num": 222900,
       "word": "王楚钦在谢瑜合照里大头变小头",
@@ -1435,6 +1467,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 208201,
+      "num": 208201,
+      "word": "檀健次清唱京剧",
+      "onboard_time": 1725110660,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 207415,
+      "num": 207415,
+      "word": "柳舟记 大婚醉酒吻",
+      "onboard_time": 1725110720,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207042,
       "num": 207042,
       "word": "刘烨戴着芒果工牌就来录花少了",
@@ -1457,6 +1505,14 @@
       "onboard_time": 1725107600,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205559,
+      "num": 205559,
+      "word": "你好星期六运动员专场预告",
+      "onboard_time": 1725110780,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 205427,
@@ -1523,6 +1579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199916,
+      "num": 199916,
+      "word": "王一博抛绳子抛了一个小时",
+      "onboard_time": 1725109881,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197719,
       "num": 197719,
       "word": "易烊千玺维也纳路透",
@@ -1571,20 +1635,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195078,
-      "num": 195078,
-      "word": "王一博抛绳子抛了一个小时",
-      "onboard_time": 1725109881,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 194975,
       "num": 194975,
       "word": "郑钦文vs尼迈尔",
       "onboard_time": 1725035058,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194057,
+      "num": 194057,
+      "word": "崔然竣唱想去海边",
+      "onboard_time": 1725111021,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 193941,
@@ -1601,6 +1665,14 @@
       "onboard_time": 1725085101,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193828,
+      "num": 193828,
+      "word": "夫妻离婚都不要大女儿法院判不准离",
+      "onboard_time": 1725110901,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193746,
@@ -1667,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186911,
+      "num": 186911,
+      "word": "王一博做胡辣汤",
+      "onboard_time": 1725111081,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186197,
       "num": 186197,
       "word": "章子怡香奈儿高定",
@@ -1699,20 +1779,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 185374,
-      "num": 185374,
-      "word": "李耕耘金发",
-      "onboard_time": 1725110240,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 185190,
       "num": 185190,
       "word": "侯明昊卢昱晓妆造",
       "onboard_time": 1725092840,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182622,
+      "num": 182622,
+      "word": "汪苏泷演唱会场馆变大漏勺",
+      "onboard_time": 1725110121,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 182621,
@@ -1779,14 +1859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178574,
-      "num": 178574,
-      "word": "迪丽热巴补妆姿势",
-      "onboard_time": 1725110180,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 178194,
       "num": 178194,
       "word": "樊振东盛李豪被拉去跳舞了",
@@ -1835,6 +1907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174385,
+      "num": 174385,
+      "word": "赖斯红牌",
+      "onboard_time": 1725110180,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174040,
       "num": 1138330,
       "word": "9月起这些新规开始施行",
@@ -1873,14 +1953,6 @@
       "onboard_time": 1725100879,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 172179,
-      "num": 172179,
-      "word": "汪苏泷演唱会场馆变大漏勺",
-      "onboard_time": 1725110121,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 171408,
@@ -1947,6 +2019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 167458,
+      "num": 167458,
+      "word": "宋茜收拾行李嘴最忙",
+      "onboard_time": 1725110842,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165748,
       "num": 165748,
       "word": "2024只剩三分之一",
@@ -1977,14 +2057,6 @@
       "onboard_time": 1725094699,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 164645,
-      "num": 164645,
-      "word": "赖斯红牌",
-      "onboard_time": 1725110180,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 164055,
@@ -2667,6 +2739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73548,
+      "num": 660096,
+      "word": "暑假作业烂尾楼赶工名场面",
+      "onboard_time": 1725111140,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69608,
       "num": 441769,
       "word": "AI换脸为什么韩国最泛滥",
@@ -2681,6 +2761,14 @@
       "onboard_time": 1725084320,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 59515,
+      "num": 628299,
+      "word": "多条国道路段恢复收费",
+      "onboard_time": 1725110121,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57933,
@@ -2836,7 +2924,7 @@
     },
     {
       "raw_hot": 40088,
-      "num": 316126,
+      "num": 404313,
       "word": "余承东尹同跃称在智界上全力以赴",
       "onboard_time": 1725109580,
       "rank": 16,
@@ -3015,14 +3103,6 @@
       "num": 186093,
       "word": "教授爷爷地铁畅谈点亮萌娃人生理想",
       "onboard_time": 1725058335,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19923,
-      "num": 628299,
-      "word": "多条国道路段恢复收费",
-      "onboard_time": 1725110121,
       "rank": 9,
       "category": "社会新闻"
     },

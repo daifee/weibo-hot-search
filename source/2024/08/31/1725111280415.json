@@ -1,0 +1,410 @@
+{
+  "runTime": 1725111280415,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1558387,
+        "num": 1558387,
+        "word": "金靖孩子随自己姓",
+        "onboard_time": 1725104900,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1297389,
+        "num": 1297389,
+        "word": "网红医生擦边软色情",
+        "onboard_time": 1725096259,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25139,
+        "num": 1002928,
+        "word": "中非共建一带一路亮点",
+        "onboard_time": 1725107541,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 997184,
+        "num": 997184,
+        "word": "贾一凡vlog香港篇",
+        "onboard_time": 1725110901,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 940902,
+        "num": 940902,
+        "word": "专家称女生游泳私密贴是智商税",
+        "onboard_time": 1725101480,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 772041,
+        "num": 772041,
+        "word": "王楚钦访港日vlog",
+        "onboard_time": 1725109400,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 751561,
+        "num": 751561,
+        "word": "盛李豪 死腿协调点别搞我",
+        "onboard_time": 1725097819,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 731092,
+        "num": 731092,
+        "word": "43岁陈冠希近照",
+        "onboard_time": 1725105979,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 693544,
+        "num": 693544,
+        "word": "阚清子过不去的大海梗",
+        "onboard_time": 1725109038,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73548,
+        "num": 660096,
+        "word": "暑假作业烂尾楼赶工名场面",
+        "onboard_time": 1725111140,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654146,
+        "num": 654146,
+        "word": "王一博被蚂蟥连咬三口",
+        "onboard_time": 1725098839,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 647559,
+        "num": 647559,
+        "word": "乌克兰要求蒙古国逮捕普京",
+        "onboard_time": 1725095659,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 565064,
+        "num": 565064,
+        "word": "投诉刀削面阴阳价格博主再发声",
+        "onboard_time": 1725101059,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526594,
+        "num": 526594,
+        "word": "五集就把祝绪丹给演爽了",
+        "onboard_time": 1725105618,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 483692,
+        "num": 483692,
+        "word": "郭晶晶霍震霆找全红婵合影留念",
+        "onboard_time": 1725108259,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23051,
+        "num": 404313,
+        "word": "余承东尹同跃称在智界上全力以赴",
+        "onboard_time": 1725109580,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 404312,
+        "num": 404312,
+        "word": "生4胞胎夫妻月收入不到1万",
+        "onboard_time": 1725098900,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396660,
+        "num": 396660,
+        "word": "生下4胞胎父亲称好心人电话不断",
+        "onboard_time": 1725108080,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339744,
+        "num": 339744,
+        "word": "刘亦菲去了张靓颖演唱会",
+        "onboard_time": 1725110660,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 312120,
+        "num": 312120,
+        "word": "阴阳面馆重新开业11元刺痛了谁",
+        "onboard_time": 1725099860,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606725,
+        "num": 311308,
+        "word": "室友吃芒果导致我过敏进了医院",
+        "onboard_time": 1725103039,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 298152,
+        "num": 298152,
+        "word": "王楚钦不理解但直接加入",
+        "onboard_time": 1725095659,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285226,
+        "num": 285226,
+        "word": "许嵩上海演唱会嘉宾是薛之谦",
+        "onboard_time": 1725107839,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 284309,
+        "num": 284309,
+        "word": "玩密室拼场拼到了朱志鑫",
+        "onboard_time": 1725099560,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262952,
+        "num": 262952,
+        "word": "迪丽热巴补妆姿势",
+        "onboard_time": 1725110180,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233258,
+        "num": 233258,
+        "word": "李楷灿千字小作文",
+        "onboard_time": 1725102321,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227767,
+        "num": 227767,
+        "word": "十个勤天佛山演唱会",
+        "onboard_time": 1725104781,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 224636,
+        "num": 224636,
+        "word": "李耕耘金发",
+        "onboard_time": 1725110240,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 211799,
+        "num": 211799,
+        "word": "偶遇姚晨带孩子吃麻辣烫",
+        "onboard_time": 1725108440,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209643,
+        "num": 209643,
+        "word": "孕妇被高空抛下玻璃瓶砸断脚趾",
+        "onboard_time": 1725089120,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59515,
+        "num": 208543,
+        "word": "多条国道路段恢复收费",
+        "onboard_time": 1725110121,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208201,
+        "num": 208201,
+        "word": "檀健次清唱京剧",
+        "onboard_time": 1725110660,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 207415,
+        "num": 207415,
+        "word": "柳舟记 大婚醉酒吻",
+        "onboard_time": 1725110720,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205559,
+        "num": 205559,
+        "word": "你好星期六运动员专场预告",
+        "onboard_time": 1725110780,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199916,
+        "num": 199916,
+        "word": "王一博抛绳子抛了一个小时",
+        "onboard_time": 1725109881,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197011,
+        "num": 197011,
+        "word": "苏醒发长文支持王铮亮",
+        "onboard_time": 1725099920,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194057,
+        "num": 194057,
+        "word": "崔然竣唱想去海边",
+        "onboard_time": 1725111021,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193828,
+        "num": 193828,
+        "word": "夫妻离婚都不要大女儿法院判不准离",
+        "onboard_time": 1725110901,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189529,
+        "num": 189529,
+        "word": "女子拿手机骑单车摔倒身亡",
+        "onboard_time": 1725082940,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186911,
+        "num": 186911,
+        "word": "王一博做胡辣汤",
+        "onboard_time": 1725111081,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182622,
+        "num": 182622,
+        "word": "汪苏泷演唱会场馆变大漏勺",
+        "onboard_time": 1725110121,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178574,
+        "num": 178574,
+        "word": "李诞光头簪花",
+        "onboard_time": 1725102140,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174385,
+        "num": 174385,
+        "word": "赖斯红牌",
+        "onboard_time": 1725110180,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167458,
+        "num": 167458,
+        "word": "宋茜收拾行李嘴最忙",
+        "onboard_time": 1725110842,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 525467,
+        "num": 166439,
+        "word": "被逆行女司机打伤男子若还手如何定性",
+        "onboard_time": 1725104481,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164999,
+        "num": 164999,
+        "word": "檀健次演唱会",
+        "onboard_time": 1725099260,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163019,
+        "num": 163019,
+        "word": "LNG战胜WBG",
+        "onboard_time": 1725105079,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153451,
+        "num": 153451,
+        "word": "孙颖莎又双叒叕指导合影了",
+        "onboard_time": 1725103879,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149882,
+        "num": 149882,
+        "word": "孟佳王霏霏为曹璐打call",
+        "onboard_time": 1725103039,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136969,
+        "num": 136969,
+        "word": "人民日报评结婚登记数持续走低",
+        "onboard_time": 1725081620,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视民族工作#"
+    }
+  }
+}
