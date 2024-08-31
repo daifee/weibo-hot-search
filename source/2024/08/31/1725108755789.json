@@ -1,0 +1,410 @@
+{
+  "runTime": 1725108755789,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2249605,
+        "num": 2249605,
+        "word": "金靖孩子随自己姓",
+        "onboard_time": 1725104900,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1367487,
+        "num": 1367487,
+        "word": "网红医生擦边软色情",
+        "onboard_time": 1725096259,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33491,
+        "num": 1149835,
+        "word": "中非共建一带一路亮点",
+        "onboard_time": 1725107541,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1056062,
+        "num": 1056062,
+        "word": "专家称女生游泳私密贴是智商税",
+        "onboard_time": 1725101480,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 777514,
+        "num": 777514,
+        "word": "盛李豪 死腿协调点别搞我",
+        "onboard_time": 1725097819,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 723206,
+        "num": 723206,
+        "word": "王一博被蚂蟥连咬三口",
+        "onboard_time": 1725098839,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 687361,
+        "num": 687361,
+        "word": "43岁陈冠希近照",
+        "onboard_time": 1725105979,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 649342,
+        "num": 649342,
+        "word": "投诉刀削面阴阳价格博主再发声",
+        "onboard_time": 1725101059,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578812,
+        "num": 578812,
+        "word": "五集就把祝绪丹给演爽了",
+        "onboard_time": 1725105618,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 492298,
+        "num": 492298,
+        "word": "生4胞胎夫妻月收入不到1万",
+        "onboard_time": 1725098900,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709088,
+        "num": 466104,
+        "word": "乌克兰要求蒙古国逮捕普京",
+        "onboard_time": 1725095659,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 383919,
+        "num": 383919,
+        "word": "王楚钦不理解但直接加入",
+        "onboard_time": 1725095659,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 365304,
+        "num": 365304,
+        "word": "阴阳面馆重新开业11元刺痛了谁",
+        "onboard_time": 1725099860,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345167,
+        "num": 345167,
+        "word": "十个勤天佛山演唱会",
+        "onboard_time": 1725104781,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17312,
+        "num": 325916,
+        "word": "多家医院为男性做妇科检查",
+        "onboard_time": 1725108199,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325462,
+        "num": 325462,
+        "word": "李诞光头簪花",
+        "onboard_time": 1725102140,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302492,
+        "num": 302492,
+        "word": "女子拿手机骑单车摔倒身亡",
+        "onboard_time": 1725082940,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297516,
+        "num": 297516,
+        "word": "李楷灿千字小作文",
+        "onboard_time": 1725102321,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293312,
+        "num": 293312,
+        "word": "玩密室拼场拼到了朱志鑫",
+        "onboard_time": 1725099560,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233843,
+        "num": 233843,
+        "word": "LNG战胜WBG",
+        "onboard_time": 1725105079,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 825889,
+        "num": 231265,
+        "word": "室友吃芒果导致我过敏进了医院",
+        "onboard_time": 1725103039,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247530,
+        "num": 223697,
+        "word": "被逆行女司机打伤男子若还手如何定性",
+        "onboard_time": 1725104481,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239476,
+        "num": 223180,
+        "word": "许嵩上海演唱会嘉宾是薛之谦",
+        "onboard_time": 1725107839,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135362,
+        "num": 213798,
+        "word": "男童走失后死亡两亲属有作案嫌疑",
+        "onboard_time": 1725093080,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212762,
+        "num": 212762,
+        "word": "苏醒发长文支持王铮亮",
+        "onboard_time": 1725099920,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211222,
+        "num": 211222,
+        "word": "孙颖莎又双叒叕指导合影了",
+        "onboard_time": 1725103879,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207946,
+        "num": 207946,
+        "word": "孕妇被高空抛下玻璃瓶砸断脚趾",
+        "onboard_time": 1725089120,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204818,
+        "num": 204818,
+        "word": "唐嫣一番",
+        "onboard_time": 1725107300,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204089,
+        "num": 204089,
+        "word": "开学第一课有潘展乐",
+        "onboard_time": 1725107420,
+        "rank": 28,
+        "category": "教育,体育"
+      },
+      {
+        "raw_hot": 141720,
+        "num": 203274,
+        "word": "生下4胞胎父亲称好心人电话不断",
+        "onboard_time": 1725108080,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203075,
+        "num": 203075,
+        "word": "偶遇姚晨带孩子吃麻辣烫",
+        "onboard_time": 1725108440,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201601,
+        "num": 201601,
+        "word": "王一博近距离观察毒蛇",
+        "onboard_time": 1725108199,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198507,
+        "num": 198507,
+        "word": "檀健次演唱会",
+        "onboard_time": 1725099260,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188715,
+        "num": 188715,
+        "word": "郭晶晶霍震霆找全红婵合影留念",
+        "onboard_time": 1725108259,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171373,
+        "num": 187846,
+        "word": "人民日报评结婚登记数持续走低",
+        "onboard_time": 1725081620,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91803,
+        "num": 187738,
+        "word": "广州再次明确不发展共享电单车",
+        "onboard_time": 1725097100,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197165,
+        "num": 187722,
+        "word": "王一博纪录片这一段",
+        "onboard_time": 1725108440,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187694,
+        "num": 187694,
+        "word": "李雯雯 莎莎我爱你",
+        "onboard_time": 1725092299,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185248,
+        "num": 185248,
+        "word": "唐嫣短发开机照",
+        "onboard_time": 1725106580,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175834,
+        "num": 175834,
+        "word": "王楚钦 认识了很多新朋友",
+        "onboard_time": 1725087380,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170222,
+        "num": 170222,
+        "word": "你好星期六",
+        "onboard_time": 1725105381,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169534,
+        "num": 169534,
+        "word": "张元英出道6年归来才20岁",
+        "onboard_time": 1725088940,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169502,
+        "num": 169502,
+        "word": "肖战下班鞠躬感谢工作人员",
+        "onboard_time": 1725104839,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29002,
+        "num": 162553,
+        "word": "家用纯电SUV卷对了吗",
+        "onboard_time": 1725102801,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162175,
+        "num": 162175,
+        "word": "郭晶晶遇到伏明霞秒变小妹妹",
+        "onboard_time": 1725101480,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162120,
+        "num": 162120,
+        "word": "菲律宾",
+        "onboard_time": 1725094640,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 154785,
+        "num": 154785,
+        "word": "孟佳王霏霏为曹璐打call",
+        "onboard_time": 1725103039,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154492,
+        "num": 154492,
+        "word": "马龙访港plog",
+        "onboard_time": 1725091099,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151676,
+        "num": 151676,
+        "word": "林俊杰JJ20太原站",
+        "onboard_time": 1725108080,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151484,
+        "num": 151484,
+        "word": "檀健次直播",
+        "onboard_time": 1725101659,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#教育引导学生立鸿鹄志做奋斗者#"
+    }
+  }
+}

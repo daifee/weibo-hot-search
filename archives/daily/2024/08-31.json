@@ -1,6 +1,6 @@
 {
   "startTime": 1725035044218,
-  "endTime": 1725107835482,
+  "endTime": 1725108755789,
   "band_list": [
     {
       "raw_hot": 3132358,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2139513,
-      "num": 2139513,
+      "raw_hot": 2249605,
+      "num": 2249605,
       "word": "金靖孩子随自己姓",
       "onboard_time": 1725104900,
       "rank": 0,
@@ -251,6 +251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 825889,
+      "num": 274089,
+      "word": "室友吃芒果导致我过敏进了医院",
+      "onboard_time": 1725103039,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 824393,
       "num": 824393,
       "word": "iPhone16Pro古铜色渲染图曝光",
@@ -363,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 687361,
+      "num": 687361,
+      "word": "43岁陈冠希近照",
+      "onboard_time": 1725105979,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 672708,
       "num": 672708,
       "word": "原来微信余额还可以被隐藏",
@@ -377,14 +393,6 @@
       "onboard_time": 1725078740,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 653903,
-      "num": 274089,
-      "word": "室友吃芒果导致我过敏进了医院",
-      "onboard_time": 1725103039,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 641344,
@@ -435,14 +443,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 590250,
-      "num": 590250,
-      "word": "43岁陈冠希近照",
-      "onboard_time": 1725105979,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 587440,
       "num": 587440,
       "word": "大同11元刀削面事件面馆重新开业",
@@ -457,6 +457,14 @@
       "onboard_time": 1725061457,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 578812,
+      "num": 578812,
+      "word": "五集就把祝绪丹给演爽了",
+      "onboard_time": 1725105618,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 572163,
@@ -545,14 +553,6 @@
       "onboard_time": 1725024741,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 491782,
-      "num": 491782,
-      "word": "五集就把祝绪丹给演爽了",
-      "onboard_time": 1725105618,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 489010,
@@ -731,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 365304,
+      "num": 484956,
+      "word": "阴阳面馆重新开业11元刺痛了谁",
+      "onboard_time": 1725099860,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365010,
       "num": 404397,
       "word": "杨幂上下身反差感穿搭",
@@ -873,14 +881,6 @@
       "onboard_time": 1725068178,
       "rank": 35,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 306962,
-      "num": 484956,
-      "word": "阴阳面馆重新开业11元刺痛了谁",
-      "onboard_time": 1725099860,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 306819,
@@ -1195,6 +1195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239476,
+      "num": 223180,
+      "word": "许嵩上海演唱会嘉宾是薛之谦",
+      "onboard_time": 1725107839,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 238705,
       "num": 238705,
       "word": "入青云番位",
@@ -1348,11 +1356,19 @@
     },
     {
       "raw_hot": 211471,
-      "num": 199884,
+      "num": 204818,
       "word": "唐嫣一番",
       "onboard_time": 1725107300,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211222,
+      "num": 211222,
+      "word": "孙颖莎又双叒叕指导合影了",
+      "onboard_time": 1725103879,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 210126,
@@ -1427,12 +1443,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204089,
+      "num": 204089,
+      "word": "开学第一课有潘展乐",
+      "onboard_time": 1725107420,
+      "rank": 38,
+      "category": "教育,体育"
+    },
+    {
+      "raw_hot": 203075,
+      "num": 203075,
+      "word": "偶遇姚晨带孩子吃麻辣烫",
+      "onboard_time": 1725108440,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202487,
       "num": 219046,
       "word": "华晨宇推荐的歌手是谁",
       "onboard_time": 1725098660,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201601,
+      "num": 201601,
+      "word": "王一博近距离观察毒蛇",
+      "onboard_time": 1725108199,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 201535,
@@ -1451,20 +1491,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198609,
-      "num": 198609,
-      "word": "孙颖莎又双叒叕指导合影了",
-      "onboard_time": 1725103879,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 197719,
       "num": 197719,
       "word": "易烊千玺维也纳路透",
       "onboard_time": 1725035659,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 197165,
+      "num": 187722,
+      "word": "王一博纪录片这一段",
+      "onboard_time": 1725108440,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 196473,
@@ -1560,6 +1600,14 @@
       "word": "樊振东被推出去大合唱说我不会啊",
       "onboard_time": 1725065118,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 188715,
+      "num": 188715,
+      "word": "郭晶晶霍震霆找全红婵合影留念",
+      "onboard_time": 1725108259,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -1705,14 +1753,6 @@
       "onboard_time": 1725080240,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 177198,
-      "num": 177198,
-      "word": "开学第一课有潘展乐",
-      "onboard_time": 1725107420,
-      "rank": 38,
-      "category": "教育,体育"
     },
     {
       "raw_hot": 176926,
@@ -2043,6 +2083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151676,
+      "num": 151676,
+      "word": "林俊杰JJ20太原站",
+      "onboard_time": 1725108080,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 150975,
       "num": 150975,
       "word": "柳眠棠 古偶丽人秀",
@@ -2137,6 +2185,14 @@
       "onboard_time": 1725086840,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 141720,
+      "num": 203274,
+      "word": "生下4胞胎父亲称好心人电话不断",
+      "onboard_time": 1725108080,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140863,
@@ -2904,6 +2960,14 @@
       "word": "网络执法推动优化营商环境",
       "onboard_time": 1725089360,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17312,
+      "num": 325916,
+      "word": "多家医院为男性做妇科检查",
+      "onboard_time": 1725108199,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
