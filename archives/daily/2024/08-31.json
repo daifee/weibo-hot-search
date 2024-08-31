@@ -1,6 +1,6 @@
 {
   "startTime": 1725035044218,
-  "endTime": 1725075414788,
+  "endTime": 1725078343547,
   "band_list": [
     {
       "raw_hot": 3132358,
@@ -11,11 +11,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1839817,
+      "num": 1839817,
+      "word": "小伙拒绝加班被辞退与公司打官司全赢",
+      "onboard_time": 1725072679,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1655821,
       "num": 1655821,
       "word": "11元刀削面的真相不应关停",
       "onboard_time": 1725062358,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1561152,
+      "num": 436604,
+      "word": "女主播与6旬大爷裸聊要打赏",
+      "onboard_time": 1725072379,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -27,28 +43,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1453801,
-      "num": 402224,
-      "word": "女主播与6旬大爷裸聊要打赏",
-      "onboard_time": 1725072379,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1322275,
       "num": 1322275,
       "word": "三人合照原来是四个人",
       "onboard_time": 1725068178,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1062864,
-      "num": 1062864,
-      "word": "小伙拒绝加班被辞退与公司打官司全赢",
-      "onboard_time": 1725072679,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 975412,
@@ -76,11 +76,27 @@
     },
     {
       "raw_hot": 724059,
-      "num": 253201,
+      "num": 314692,
       "word": "头一次见千金大小狗",
       "onboard_time": 1725071659,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 715099,
+      "num": 715099,
+      "word": "袁冰妍 落花时节又逢君",
+      "onboard_time": 1725077118,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 707461,
+      "num": 314854,
+      "word": "两岁宝宝坐高铁被扇耳光",
+      "onboard_time": 1725076579,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 672708,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 619664,
-      "num": 252510,
+      "num": 313749,
       "word": "吃了一个月褪黑素后的真实感受",
       "onboard_time": 1725065300,
       "rank": 23,
@@ -121,6 +137,14 @@
       "onboard_time": 1725064219,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 587616,
+      "num": 587616,
+      "word": "高考660多分她报考军校想当女舰长",
+      "onboard_time": 1725074119,
+      "rank": 34,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 583740,
@@ -163,12 +187,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 480048,
-      "num": 480048,
+      "raw_hot": 510463,
+      "num": 510463,
+      "word": "曹璐以FIESTAR成员回归",
+      "onboard_time": 1725075979,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 487322,
+      "num": 487322,
       "word": "吴尊陪NeiNei排队7小时看霉霉演唱会",
       "onboard_time": 1725071659,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 467318,
+      "num": 467318,
+      "word": "李雯雯公主抱孙颖莎",
+      "onboard_time": 1725077600,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 450250,
@@ -267,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 362228,
+      "num": 362228,
+      "word": "山西网友解释为什么矿工吃面少4块",
+      "onboard_time": 1725072919,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360079,
       "num": 360079,
       "word": "父亲回应12岁儿子比肩同期苏炳添",
@@ -345,6 +393,30 @@
       "onboard_time": 1725068178,
       "rank": 35,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 311915,
+      "num": 321346,
+      "word": "唐嫣新剧独身女人阵容官宣",
+      "onboard_time": 1725076639,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 302808,
+      "num": 302808,
+      "word": "全红婵访港示范水花消失术",
+      "onboard_time": 1725076339,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 298670,
+      "num": 298670,
+      "word": "遭逆行女子殴打者称已申请伤情鉴定",
+      "onboard_time": 1725074119,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293772,
@@ -443,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256020,
+      "num": 256020,
+      "word": "落花时节又逢君",
+      "onboard_time": 1725076459,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255488,
       "num": 255488,
       "word": "孙颖莎竟然是e人",
@@ -475,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242583,
+      "num": 242583,
+      "word": "恋与深空",
+      "onboard_time": 1725077541,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 240307,
       "num": 240307,
       "word": "美网",
@@ -499,20 +587,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232108,
+      "num": 232108,
+      "word": "美网德约科维奇出局",
+      "onboard_time": 1725077600,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 229777,
+      "num": 229777,
+      "word": "盛李豪打羽毛球",
+      "onboard_time": 1725076101,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227167,
       "num": 227167,
       "word": "穆祉丞出道战后首条微博",
       "onboard_time": 1725027802,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 226977,
-      "num": 226977,
-      "word": "高考660多分她报考军校想当女舰长",
-      "onboard_time": 1725074119,
-      "rank": 34,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 225301,
@@ -544,6 +640,30 @@
       "word": "王雅繁晋级美网16强",
       "onboard_time": 1725047592,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 219592,
+      "num": 219592,
+      "word": "李雯雯孙颖莎合影",
+      "onboard_time": 1725078019,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 213626,
+      "num": 213626,
+      "word": "两代跳水女王罕见同框",
+      "onboard_time": 1725076101,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 210126,
+      "num": 210126,
+      "word": "看樊振东是如何醒拍子的",
+      "onboard_time": 1725077541,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -627,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192266,
+      "num": 192266,
+      "word": "樊振东 又系广东话噶",
+      "onboard_time": 1725077838,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190126,
       "num": 190126,
       "word": "樊振东被推出去大合唱说我不会啊",
@@ -651,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180622,
+      "num": 180622,
+      "word": "檀健次多巴胺针织短袖",
+      "onboard_time": 1725077238,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 179835,
       "num": 179835,
       "word": "樊振东尴尬一分钟",
@@ -673,14 +809,6 @@
       "onboard_time": 1725066741,
       "rank": 12,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 173895,
-      "num": 173895,
-      "word": "山西网友解释为什么矿工吃面少4块",
-      "onboard_time": 1725072919,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171408,
@@ -723,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165078,
+      "num": 165078,
+      "word": "凡人歌开播",
+      "onboard_time": 1725077600,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163953,
       "num": 163953,
       "word": "遭逆行女司机殴打者发声",
@@ -737,6 +873,14 @@
       "onboard_time": 1725018081,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162121,
+      "num": 162121,
+      "word": "FIESTAR可怜MV",
+      "onboard_time": 1725076999,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 161669,
@@ -771,6 +915,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158132,
+      "num": 158132,
+      "word": "国乒看别人卖艺就是乐呵",
+      "onboard_time": 1725076940,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 156105,
+      "num": 156105,
+      "word": "偶遇张峻豪逛超市",
+      "onboard_time": 1725075858,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156001,
       "num": 156001,
       "word": "直新闻",
@@ -787,6 +947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152492,
+      "num": 152492,
+      "word": "晋江西西特",
+      "onboard_time": 1725075858,
+      "rank": 49,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 148923,
       "num": 148923,
       "word": "中方呼吁美方停止无聊的指责游戏",
@@ -801,14 +969,6 @@
       "onboard_time": 1725019880,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 143335,
-      "num": 143335,
-      "word": "遭逆行女子殴打者称已申请伤情鉴定",
-      "onboard_time": 1725074119,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140863,
@@ -884,7 +1044,7 @@
     },
     {
       "raw_hot": 124620,
-      "num": 124620,
+      "num": 331500,
       "word": "四方馆 纯爱那年亲嘴最甜",
       "onboard_time": 1725073881,
       "rank": 46,
@@ -1067,6 +1227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76488,
+      "num": 164342,
+      "word": "胡夏探班表白披哥后期花字",
+      "onboard_time": 1725076878,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 75553,
       "num": 75553,
       "word": "黄景瑜不愧是内娱服兵役标杆",
@@ -1137,6 +1305,14 @@
       "onboard_time": 1725039315,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 48006,
+      "num": 441769,
+      "word": "AI换脸为什么韩国最泛滥",
+      "onboard_time": 1725077838,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45973,
@@ -1233,6 +1409,14 @@
       "onboard_time": 1725018500,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18894,
+      "num": 360045,
+      "word": "成年人被骗进特训学校遭暴力殴打",
+      "onboard_time": 1725077901,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18750,
