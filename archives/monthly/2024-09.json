@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725124698857,
+  "endTime": 1725125684951,
   "band_list": [
     {
       "raw_hot": 1442203,
@@ -339,20 +339,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 110388,
+      "num": 110388,
+      "word": "很难不中卢昱晓的美人计",
+      "onboard_time": 1725123438,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107582,
       "num": 120355,
       "word": "十个勤天佛山演唱会",
       "onboard_time": 1725104781,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 106599,
-      "num": 106599,
-      "word": "很难不中卢昱晓的美人计",
-      "onboard_time": 1725123438,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 105789,
@@ -419,15 +419,15 @@
       "category": "演出"
     },
     {
-      "raw_hot": 61317,
-      "num": 68082,
+      "raw_hot": 90431,
+      "num": 90431,
       "word": "全球AI色情换脸受害者中一半是韩国人",
       "onboard_time": 1725123797,
       "rank": 47,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51681,
+      "raw_hot": 63580,
       "num": 185595,
       "word": "这件文物把考古专家整迷糊了",
       "onboard_time": 1725122418,
@@ -435,7 +435,23 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16385,
+      "raw_hot": 59642,
+      "num": 59642,
+      "word": "熬夜刷视频睡到中午为何伤身",
+      "onboard_time": 1725125417,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 53517,
+      "num": 57549,
+      "word": "易烊千玺严选",
+      "onboard_time": 1725125053,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 22976,
       "num": 283228,
       "word": "警方采集DNA寻找高空抛物肇事者",
       "onboard_time": 1725124277,
