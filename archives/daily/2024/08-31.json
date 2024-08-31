@@ -1,6 +1,6 @@
 {
   "startTime": 1725035044218,
-  "endTime": 1725082606307,
+  "endTime": 1725085640707,
   "band_list": [
     {
       "raw_hot": 3132358,
@@ -16,6 +16,14 @@
       "word": "小伙拒绝加班被辞退与公司打官司全赢",
       "onboard_time": 1725072679,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1668136,
+      "num": 1668136,
+      "word": "收38万彩礼退婚不退钱男方母亲被行拘",
+      "onboard_time": 1725079880,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -107,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 847598,
+      "num": 847598,
+      "word": "女子拿手机骑单车摔倒身亡",
+      "onboard_time": 1725082940,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 841684,
       "num": 841684,
       "word": "余宇涵 重庆",
@@ -120,6 +136,14 @@
       "word": "张雨霏樊振东跳舞视频大放送",
       "onboard_time": 1725078860,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 782304,
+      "num": 782304,
+      "word": "马龙卖艺",
+      "onboard_time": 1725082700,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -193,6 +217,14 @@
       "onboard_time": 1725072260,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 633964,
+      "num": 633964,
+      "word": "iPhone16Pro古铜色渲染图曝光",
+      "onboard_time": 1725081200,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 629926,
@@ -331,14 +363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 412510,
-      "num": 639138,
-      "word": "收38万彩礼退婚不退钱男方母亲被行拘",
-      "onboard_time": 1725079880,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 410862,
       "num": 410862,
       "word": "这么多年塘主还是爱拒绝自己的女人",
@@ -435,6 +459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 343733,
+      "num": 343733,
+      "word": "人民日报评结婚登记数持续走低",
+      "onboard_time": 1725081620,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336493,
       "num": 232605,
       "word": "果然大一跟大四一眼就能认出来",
@@ -467,14 +499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 321473,
-      "num": 321473,
-      "word": "iPhone16Pro古铜色渲染图曝光",
-      "onboard_time": 1725081200,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
       "raw_hot": 320395,
       "num": 320395,
       "word": "全红婵偷拍樊振东睡觉",
@@ -505,6 +529,14 @@
       "onboard_time": 1725014600,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 315732,
+      "num": 251578,
+      "word": "程晓玥晒照为老公庆生",
+      "onboard_time": 1725083720,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 314605,
@@ -603,6 +635,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 274553,
+      "num": 274553,
+      "word": "全红婵陈芋汐拿捏香港泳池",
+      "onboard_time": 1725079640,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 274182,
+      "num": 274182,
+      "word": "全红婵与孙颖莎王楚钦合影",
+      "onboard_time": 1725084499,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 273952,
+      "num": 273952,
+      "word": "李诞小卖部",
+      "onboard_time": 1725083420,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272596,
       "num": 272596,
       "word": "校方回应160人住一间宿舍",
@@ -625,14 +681,6 @@
       "onboard_time": 1725070519,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 265865,
-      "num": 265865,
-      "word": "全红婵陈芋汐拿捏香港泳池",
-      "onboard_time": 1725079640,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 260099,
@@ -691,12 +739,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 252744,
+      "num": 252744,
+      "word": "陈飞宇穿陈晓梦华录旧衣",
+      "onboard_time": 1725083359,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 252181,
       "num": 252181,
       "word": "没有人比义乌更懂特朗普",
       "onboard_time": 1725065480,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 248899,
+      "num": 248899,
+      "word": "樊振东笑成一团了",
+      "onboard_time": 1725082340,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 248689,
@@ -745,6 +809,14 @@
       "onboard_time": 1725023300,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230748,
+      "num": 230748,
+      "word": "大同11元刀削面事件面馆重新开业",
+      "onboard_time": 1725083420,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227738,
@@ -803,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214369,
+      "num": 214369,
+      "word": "国王与乞丐 二公最佳",
+      "onboard_time": 1725084619,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213626,
       "num": 213626,
       "word": "两代跳水女王罕见同框",
@@ -841,14 +921,6 @@
       "onboard_time": 1725027382,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 203410,
-      "num": 203410,
-      "word": "人民日报评结婚登记数持续走低",
-      "onboard_time": 1725081620,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201535,
@@ -892,7 +964,7 @@
     },
     {
       "raw_hot": 195143,
-      "num": 540345,
+      "num": 610179,
       "word": "一条微博告别八月",
       "onboard_time": 1725082219,
       "rank": 18,
@@ -913,6 +985,14 @@
       "onboard_time": 1725081200,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193900,
+      "num": 193900,
+      "word": "入青云官宣开机",
+      "onboard_time": 1725085101,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 192483,
@@ -971,14 +1051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180854,
-      "num": 180854,
-      "word": "樊振东笑成一团了",
-      "onboard_time": 1725082340,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 180622,
       "num": 180622,
       "word": "檀健次多巴胺针织短袖",
@@ -1001,6 +1073,14 @@
       "onboard_time": 1725075020,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 178194,
+      "num": 178194,
+      "word": "樊振东盛李豪被拉去跳舞了",
+      "onboard_time": 1725083120,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 177479,
@@ -1049,6 +1129,14 @@
       "onboard_time": 1725070578,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 168140,
+      "num": 168140,
+      "word": "柳岩 加油lulu",
+      "onboard_time": 1725085460,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 167986,
@@ -1131,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159318,
+      "num": 159318,
+      "word": "全红婵陈芋汐空中连续卷腹",
+      "onboard_time": 1725084799,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158132,
       "num": 158132,
       "word": "国乒看别人卖艺就是乐呵",
@@ -1169,6 +1265,14 @@
       "onboard_time": 1725075858,
       "rank": 49,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 149693,
+      "num": 149693,
+      "word": "宗馥莉接手娃哈哈集团公司股份",
+      "onboard_time": 1725084799,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148923,
@@ -1225,6 +1329,22 @@
       "onboard_time": 1725079099,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 139468,
+      "num": 139468,
+      "word": "90后家长为女儿开学备小卡",
+      "onboard_time": 1725084141,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138565,
+      "num": 138565,
+      "word": "王丽坤老公涉嫌诈骗案查封资产",
+      "onboard_time": 1725084859,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 138280,
@@ -1507,6 +1627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74081,
+      "num": 612305,
+      "word": "翟佳宁 最烦当领导舔狗的人",
+      "onboard_time": 1725084200,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73856,
       "num": 80157,
       "word": "下一战歌手 尬聊",
@@ -1521,6 +1649,14 @@
       "onboard_time": 1725077838,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67185,
+      "num": 410502,
+      "word": "柳眠棠脑子不是面团捏的",
+      "onboard_time": 1725084320,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 57933,
@@ -1579,20 +1715,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 49497,
+      "num": 542695,
+      "word": "smart敢在成都车展这么玩",
+      "onboard_time": 1725080779,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 48185,
       "num": 48185,
       "word": "Kanye试听会官宣",
       "onboard_time": 1725039315,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 46459,
-      "num": 542695,
-      "word": "smart敢在成都车展这么玩",
-      "onboard_time": 1725080779,
-      "rank": 30,
-      "category": "汽车"
     },
     {
       "raw_hot": 45973,
@@ -1736,6 +1872,14 @@
       "word": "为替亡兄报恩他走进115户人家",
       "onboard_time": 1725043812,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12466,
+      "num": 484706,
+      "word": "儿童友好城市距离我们还有多远",
+      "onboard_time": 1725085460,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

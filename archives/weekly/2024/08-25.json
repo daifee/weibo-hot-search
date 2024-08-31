@@ -1,6 +1,6 @@
 {
   "startTime": 1724516601503,
-  "endTime": 1725082606307,
+  "endTime": 1725085640707,
   "band_list": [
     {
       "raw_hot": 20756997,
@@ -1000,6 +1000,14 @@
       "word": "落水女孩被救后发声",
       "onboard_time": 1724578939,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1668136,
+      "num": 1668136,
+      "word": "收38万彩礼退婚不退钱男方母亲被行拘",
+      "onboard_time": 1725079880,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2779,6 +2787,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 847598,
+      "num": 847598,
+      "word": "女子拿手机骑单车摔倒身亡",
+      "onboard_time": 1725082940,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 846865,
       "num": 846865,
       "word": "蒋奇明 上桌",
@@ -3017,6 +3033,14 @@
       "onboard_time": 1724738001,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 782304,
+      "num": 782304,
+      "word": "马龙卖艺",
+      "onboard_time": 1725082700,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 777994,
@@ -3769,6 +3793,14 @@
       "onboard_time": 1724575158,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 633964,
+      "num": 633964,
+      "word": "iPhone16Pro古铜色渲染图曝光",
+      "onboard_time": 1725081200,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 632186,
@@ -5595,14 +5627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 412510,
-      "num": 639138,
-      "word": "收38万彩礼退婚不退钱男方母亲被行拘",
-      "onboard_time": 1725079880,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 411960,
       "num": 652235,
       "word": "沙利文抵达北京",
@@ -6467,6 +6491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 343733,
+      "num": 343733,
+      "word": "人民日报评结婚登记数持续走低",
+      "onboard_time": 1725081620,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343157,
       "num": 1109195,
       "word": "中国美术学院",
@@ -6867,14 +6899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 321473,
-      "num": 321473,
-      "word": "iPhone16Pro古铜色渲染图曝光",
-      "onboard_time": 1725081200,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
       "raw_hot": 321093,
       "num": 431573,
       "word": "傅首尔夹着尾巴做妈妈",
@@ -7001,6 +7025,14 @@
       "onboard_time": 1724905705,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 315732,
+      "num": 251578,
+      "word": "程晓玥晒照为老公庆生",
+      "onboard_time": 1725083720,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 315588,
@@ -8051,6 +8083,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274553,
+      "num": 274553,
+      "word": "全红婵陈芋汐拿捏香港泳池",
+      "onboard_time": 1725079640,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 274182,
+      "num": 274182,
+      "word": "全红婵与孙颖莎王楚钦合影",
+      "onboard_time": 1725084499,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 273952,
+      "num": 273952,
+      "word": "李诞小卖部",
+      "onboard_time": 1725083420,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273657,
       "num": 273657,
       "word": "男子厨房宰杀澳龙却被澳龙反绞",
@@ -8313,14 +8369,6 @@
       "onboard_time": 1724725401,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 265865,
-      "num": 265865,
-      "word": "全红婵陈芋汐拿捏香港泳池",
-      "onboard_time": 1725079640,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 265681,
@@ -8843,6 +8891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252744,
+      "num": 252744,
+      "word": "陈飞宇穿陈晓梦华录旧衣",
+      "onboard_time": 1725083359,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 252425,
       "num": 252425,
       "word": "崔秀彬唱如果爱忘了",
@@ -8993,6 +9049,14 @@
       "onboard_time": 1724995642,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 248899,
+      "num": 248899,
+      "word": "樊振东笑成一团了",
+      "onboard_time": 1725082340,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 248806,
@@ -9801,6 +9865,14 @@
       "onboard_time": 1724895920,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230748,
+      "num": 230748,
+      "word": "大同11元刀削面事件面馆重新开业",
+      "onboard_time": 1725083420,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230668,
@@ -10755,6 +10827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214369,
+      "num": 214369,
+      "word": "国王与乞丐 二公最佳",
+      "onboard_time": 1725084619,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214094,
       "num": 214094,
       "word": "央行买入4000亿特别国债",
@@ -11611,14 +11691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 203410,
-      "num": 203410,
-      "word": "人民日报评结婚登记数持续走低",
-      "onboard_time": 1725081620,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203108,
       "num": 203108,
       "word": "孙颖莎采访最打动我的一点",
@@ -12396,7 +12468,7 @@
     },
     {
       "raw_hot": 195143,
-      "num": 540345,
+      "num": 610179,
       "word": "一条微博告别八月",
       "onboard_time": 1725082219,
       "rank": 18,
@@ -12465,6 +12537,14 @@
       "onboard_time": 1725081200,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193900,
+      "num": 193900,
+      "word": "入青云官宣开机",
+      "onboard_time": 1725085101,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 193870,
@@ -13499,14 +13579,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 180854,
-      "num": 180854,
-      "word": "樊振东笑成一团了",
-      "onboard_time": 1725082340,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 180812,
       "num": 180812,
       "word": "张极舞台生图",
@@ -13705,6 +13777,14 @@
       "onboard_time": 1725006559,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178194,
+      "num": 178194,
+      "word": "樊振东盛李豪被拉去跳舞了",
+      "onboard_time": 1725083120,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 177974,
@@ -14363,6 +14443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 168140,
+      "num": 168140,
+      "word": "柳岩 加油lulu",
+      "onboard_time": 1725085460,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 168061,
       "num": 168061,
       "word": "深圳地铁",
@@ -14839,6 +14927,14 @@
       "num": 159519,
       "word": "郭艾伦舍不得辽篮球迷",
       "onboard_time": 1725028220,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 159318,
+      "num": 159318,
+      "word": "全红婵陈芋汐空中连续卷腹",
+      "onboard_time": 1725084799,
       "rank": 43,
       "category": "体育"
     },
@@ -15347,6 +15443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149693,
+      "num": 149693,
+      "word": "宗馥莉接手娃哈哈集团公司股份",
+      "onboard_time": 1725084799,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149380,
       "num": 149380,
       "word": "有没有发现早餐的成本越来越贵",
@@ -15787,6 +15891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139468,
+      "num": 139468,
+      "word": "90后家长为女儿开学备小卡",
+      "onboard_time": 1725084141,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139267,
       "num": 139267,
       "word": "时代少年团战至巅峰收工下班",
@@ -15817,6 +15929,14 @@
       "onboard_time": 1724738902,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138565,
+      "num": 138565,
+      "word": "王丽坤老公涉嫌诈骗案查封资产",
+      "onboard_time": 1725084859,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 138459,
@@ -17379,6 +17499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 74081,
+      "num": 612305,
+      "word": "翟佳宁 最烦当领导舔狗的人",
+      "onboard_time": 1725084200,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 74015,
       "num": 74015,
       "word": "孙颖莎早操比别人早1小时",
@@ -17649,6 +17777,14 @@
       "onboard_time": 1725001460,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67185,
+      "num": 410502,
+      "word": "柳眠棠脑子不是面团捏的",
+      "onboard_time": 1725084320,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 66988,
@@ -18659,6 +18795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49497,
+      "num": 542695,
+      "word": "smart敢在成都车展这么玩",
+      "onboard_time": 1725080779,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 49332,
       "num": 602283,
       "word": "人间至味是烟台",
@@ -18801,14 +18945,6 @@
       "onboard_time": 1724697314,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 46459,
-      "num": 542695,
-      "word": "smart敢在成都车展这么玩",
-      "onboard_time": 1725080779,
-      "rank": 30,
-      "category": "汽车"
     },
     {
       "raw_hot": 46420,
@@ -20320,6 +20456,14 @@
       "word": "在浙江看病主打一个全程免费陪伴",
       "onboard_time": 1724792291,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12466,
+      "num": 484706,
+      "word": "儿童友好城市距离我们还有多远",
+      "onboard_time": 1725085460,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
