@@ -1,6 +1,6 @@
 {
   "startTime": 1725035044218,
-  "endTime": 1725074529013,
+  "endTime": 1725075414788,
   "band_list": [
     {
       "raw_hot": 3132358,
@@ -27,12 +27,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1288242,
-      "num": 1288242,
+      "raw_hot": 1453801,
+      "num": 402224,
+      "word": "女主播与6旬大爷裸聊要打赏",
+      "onboard_time": 1725072379,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1322275,
+      "num": 1322275,
       "word": "三人合照原来是四个人",
       "onboard_time": 1725068178,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1062864,
+      "num": 1062864,
+      "word": "小伙拒绝加班被辞退与公司打官司全赢",
+      "onboard_time": 1725072679,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 975412,
@@ -83,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 636714,
+      "num": 636714,
+      "word": "孙颖莎说球衣上的国旗大于姓名",
+      "onboard_time": 1725072260,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 619664,
       "num": 252510,
       "word": "吃了一个月褪黑素后的真实感受",
@@ -131,36 +155,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 527477,
-      "num": 369027,
-      "word": "女主播与6旬大爷裸聊要打赏",
-      "onboard_time": 1725072379,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 519139,
-      "num": 519139,
-      "word": "孙颖莎说球衣上的国旗大于姓名",
-      "onboard_time": 1725072260,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 512130,
-      "num": 512130,
-      "word": "小伙拒绝加班被辞退与公司打官司全赢",
-      "onboard_time": 1725072679,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 511640,
       "num": 511640,
       "word": "董事长之子聚餐泄密5人被罚2300万",
       "onboard_time": 1725024741,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 480048,
+      "num": 480048,
+      "word": "吴尊陪NeiNei排队7小时看霉霉演唱会",
+      "onboard_time": 1725071659,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 450250,
@@ -201,6 +209,14 @@
       "onboard_time": 1725066019,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 402205,
+      "num": 402205,
+      "word": "马龙王楚钦拍立得合照",
+      "onboard_time": 1725071540,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 399962,
@@ -249,14 +265,6 @@
       "onboard_time": 1725031942,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 367199,
-      "num": 367199,
-      "word": "吴尊陪NeiNei排队7小时看霉霉演唱会",
-      "onboard_time": 1725071659,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 360079,
@@ -355,6 +363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 291864,
+      "num": 291864,
+      "word": "中戏动作表演专业",
+      "onboard_time": 1725071780,
+      "rank": 40,
+      "category": "教育,艺人"
+    },
+    {
       "raw_hot": 291415,
       "num": 291415,
       "word": "唐山3.2级地震",
@@ -363,12 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 290984,
-      "num": 290984,
-      "word": "马龙王楚钦拍立得合照",
-      "onboard_time": 1725071540,
-      "rank": 26,
-      "category": "体育"
+      "raw_hot": 283161,
+      "num": 283161,
+      "word": "你好星期六今晚夏日清凉派对",
+      "onboard_time": 1725073099,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 282804,
@@ -491,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226977,
+      "num": 226977,
+      "word": "高考660多分她报考军校想当女舰长",
+      "onboard_time": 1725074119,
+      "rank": 34,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 225301,
       "num": 225301,
       "word": "孙颖莎说有梦可追就是一种幸福",
@@ -523,20 +547,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 217730,
-      "num": 217730,
-      "word": "你好星期六今晚夏日清凉派对",
-      "onboard_time": 1725073099,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 210373,
-      "num": 210373,
-      "word": "中戏动作表演专业",
-      "onboard_time": 1725071780,
-      "rank": 40,
-      "category": "教育,艺人"
+      "raw_hot": 208596,
+      "num": 208596,
+      "word": "迪丽热巴落跑甜心彩蛋",
+      "onboard_time": 1725074300,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205427,
@@ -545,6 +561,22 @@
       "onboard_time": 1725027382,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 201535,
+      "num": 201535,
+      "word": "孙颖莎一直合影到最后才离场",
+      "onboard_time": 1725074300,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 200378,
+      "num": 200378,
+      "word": "檀健次hi6模仿孙悟空",
+      "onboard_time": 1725074659,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 197719,
@@ -619,14 +651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182758,
-      "num": 182758,
-      "word": "迪丽热巴落跑甜心彩蛋",
-      "onboard_time": 1725074300,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 179835,
       "num": 179835,
       "word": "樊振东尴尬一分钟",
@@ -635,12 +659,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179474,
+      "num": 179474,
+      "word": "可怜中文版",
+      "onboard_time": 1725075020,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 174040,
-      "num": 773432,
+      "num": 785968,
       "word": "9月起这些新规开始施行",
       "onboard_time": 1725066741,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 173895,
+      "num": 173895,
+      "word": "山西网友解释为什么矿工吃面少4块",
+      "onboard_time": 1725072919,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171408,
@@ -657,14 +697,6 @@
       "onboard_time": 1725030683,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168427,
-      "num": 168427,
-      "word": "高考660多分她报考军校想当女舰长",
-      "onboard_time": 1725074119,
-      "rank": 34,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 168161,
@@ -723,6 +755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 161532,
+      "num": 161532,
+      "word": "郑钦文与维基奇争夺八强席位",
+      "onboard_time": 1725073639,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160013,
       "num": 160013,
       "word": "被逆行女子打伤男子已住院",
@@ -747,14 +787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 153657,
-      "num": 153657,
-      "word": "山西网友解释为什么矿工吃面少4块",
-      "onboard_time": 1725072919,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148923,
       "num": 148923,
       "word": "中方呼吁美方停止无聊的指责游戏",
@@ -769,6 +801,14 @@
       "onboard_time": 1725019880,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 143335,
+      "num": 143335,
+      "word": "遭逆行女子殴打者称已申请伤情鉴定",
+      "onboard_time": 1725074119,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140863,
@@ -787,20 +827,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138280,
+      "num": 133953,
+      "word": "孙颖莎又上台演讲了",
+      "onboard_time": 1725075200,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136579,
       "num": 136579,
       "word": "8岁孩子吃一年减脂餐有什么变化",
       "onboard_time": 1725066258,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 136025,
-      "num": 136025,
-      "word": "孙颖莎一直合影到最后才离场",
-      "onboard_time": 1725074300,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 134262,
@@ -835,14 +875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128770,
-      "num": 128770,
-      "word": "郑钦文与维基奇争夺八强席位",
-      "onboard_time": 1725073639,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 125110,
       "num": 143830,
       "word": "樊振东潘展乐肤色差",
@@ -859,12 +891,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 124016,
-      "num": 124016,
-      "word": "遭逆行女子殴打者称已申请伤情鉴定",
-      "onboard_time": 1725074119,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 124448,
+      "num": 124448,
+      "word": "你永远可以相信李思思的主持能力",
+      "onboard_time": 1725074479,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 120782,
@@ -880,14 +912,6 @@
       "word": "JYP将对TWICEDeepfake采取法律行动",
       "onboard_time": 1725027441,
       "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 116438,
-      "num": 116438,
-      "word": "你永远可以相信李思思的主持能力",
-      "onboard_time": 1725074479,
-      "rank": 49,
       "category": "艺人"
     },
     {
@@ -1091,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51010,
+      "num": 316638,
+      "word": "同一药店线上线下同药不同价",
+      "onboard_time": 1725073759,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50448,
       "num": 50448,
       "word": "肖战ELLE金九花絮",
@@ -1176,14 +1208,6 @@
       "word": "今后三天全国一半地方有雨",
       "onboard_time": 1725041953,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24667,
-      "num": 316638,
-      "word": "同一药店线上线下同药不同价",
-      "onboard_time": 1725073759,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
