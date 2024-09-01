@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725179874643,
+  "endTime": 1725182476077,
   "band_list": [
     {
       "raw_hot": 1957251,
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1035871,
+      "num": 1035871,
+      "word": "余文乐老婆发文道歉",
+      "onboard_time": 1725179360,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1022491,
       "num": 528363,
       "word": "迪丽热巴回到家一看手机天塌了",
@@ -195,6 +203,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 813008,
+      "num": 813008,
+      "word": "徐嘉余 开炮",
+      "onboard_time": 1725178160,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 804393,
       "num": 804393,
       "word": "黄子韬徐艺洋衣服互穿",
@@ -217,6 +233,14 @@
       "onboard_time": 1725147015,
       "rank": 32,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 721295,
+      "num": 721295,
+      "word": "乒羽混双合照",
+      "onboard_time": 1725177679,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 709877,
@@ -251,6 +275,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 670638,
+      "num": 670638,
+      "word": "嗯哼牙齿矫正",
+      "onboard_time": 1725179479,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 628067,
+      "num": 485495,
+      "word": "张雨霏哽咽谈杨家玉李雯雯",
+      "onboard_time": 1725177200,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 619793,
       "num": 619793,
       "word": "菲律宾撞击我海警船现场态势图",
@@ -275,27 +315,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 588170,
-      "num": 520068,
-      "word": "徐嘉余 开炮",
-      "onboard_time": 1725178160,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 587250,
       "num": 587250,
       "word": "莎头组合终于合体了",
       "onboard_time": 1725174799,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 569074,
-      "num": 569074,
-      "word": "乒羽混双合照",
-      "onboard_time": 1725177679,
-      "rank": 19,
       "category": "体育"
     },
     {
@@ -323,11 +347,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 537888,
+      "num": 537888,
+      "word": "澳门果然是福地",
+      "onboard_time": 1725178040,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 527403,
       "num": 527403,
       "word": "金靖孩子随自己姓",
       "onboard_time": 1725104900,
       "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 526376,
+      "num": 526376,
+      "word": "刘亦菲打错英文单词",
+      "onboard_time": 1725181280,
+      "rank": 7,
       "category": "艺人"
     },
     {
@@ -377,14 +417,6 @@
       "onboard_time": 1725161298,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 485495,
-      "num": 485495,
-      "word": "张雨霏哽咽谈杨家玉李雯雯",
-      "onboard_time": 1725177200,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 477595,
@@ -603,14 +635,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 338017,
-      "num": 338017,
-      "word": "余文乐老婆发文道歉",
-      "onboard_time": 1725179360,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 330943,
       "num": 347685,
       "word": "赵丽颖九月行程",
@@ -707,14 +731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 278957,
-      "num": 278957,
-      "word": "嗯哼牙齿矫正",
-      "onboard_time": 1725179479,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 274368,
       "num": 329187,
       "word": "刘亦菲飞吻张靓颖",
@@ -724,7 +740,7 @@
     },
     {
       "raw_hot": 263334,
-      "num": 263334,
+      "num": 481595,
       "word": "王宜林",
       "onboard_time": 1725160999,
       "rank": 37,
@@ -737,6 +753,14 @@
       "onboard_time": 1725160218,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 258999,
+      "num": 528601,
+      "word": "俄称击落乌军158架无人机",
+      "onboard_time": 1725177318,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 254266,
@@ -795,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239953,
+      "num": 239953,
+      "word": "樊振东潘展乐坐着打羽毛球",
+      "onboard_time": 1725178518,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239676,
       "num": 304888,
       "word": "王一博拔蚂蟥好吓人",
@@ -811,28 +843,12 @@
       "category": "国内时政,自然"
     },
     {
-      "raw_hot": 238510,
-      "num": 238510,
-      "word": "澳门果然是福地",
-      "onboard_time": 1725178040,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 234457,
       "num": 234457,
       "word": "上海最孤独饭店突然爆火",
       "onboard_time": 1725172458,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221622,
-      "num": 528601,
-      "word": "俄称击落乌军158架无人机",
-      "onboard_time": 1725177318,
-      "rank": 8,
-      "category": "国外时政"
     },
     {
       "raw_hot": 218302,
@@ -849,6 +865,14 @@
       "onboard_time": 1725159019,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209054,
+      "num": 209054,
+      "word": "田曦薇婉拒王安宇",
+      "onboard_time": 1725181638,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 208226,
@@ -907,20 +931,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 203394,
-      "num": 203394,
-      "word": "樊振东潘展乐坐着打羽毛球",
-      "onboard_time": 1725178518,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 203334,
       "num": 282083,
       "word": "再被骄阳伴我暖一次吧",
       "onboard_time": 1725163218,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203256,
+      "num": 203256,
+      "word": "乒丝请放心 今日已练球",
+      "onboard_time": 1725180620,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 201574,
@@ -995,6 +1019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 191929,
+      "num": 203446,
+      "word": "王一博就这么水灵灵的游过去了",
+      "onboard_time": 1725182119,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191547,
       "num": 191547,
       "word": "DK对战T1",
@@ -1065,6 +1097,14 @@
       "onboard_time": 1725160038,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179952,
+      "num": 179952,
+      "word": "J人和P人做PPT的区别",
+      "onboard_time": 1725181939,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 179926,
@@ -1163,6 +1203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 173261,
+      "num": 528218,
+      "word": "女子花3980买的品牌鞋竟是假货",
+      "onboard_time": 1725179719,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171088,
       "num": 171088,
       "word": "檀健次吃肉粉丝吃菜",
@@ -1177,6 +1225,22 @@
       "onboard_time": 1725167119,
       "rank": 42,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 169326,
+      "num": 169326,
+      "word": "9岁男孩骑车腹部被车把手插入",
+      "onboard_time": 1725181400,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167353,
+      "num": 362957,
+      "word": "官方通报刘谦团队腹泻事件",
+      "onboard_time": 1725179840,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 162254,
@@ -1208,6 +1272,14 @@
       "word": "李雯雯摸到了孙颖莎的球拍",
       "onboard_time": 1725179059,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 158512,
+      "num": 158512,
+      "word": "他靠听声音跳远打破世界纪录夺金",
+      "onboard_time": 1725181758,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -1243,6 +1315,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 152034,
+      "num": 152034,
+      "word": "樊振东和潘展乐合体打羽毛球",
+      "onboard_time": 1725181880,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 150740,
+      "num": 150740,
+      "word": "柳舟记 高配得感爱情",
+      "onboard_time": 1725181161,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150661,
       "num": 169179,
       "word": "力量就是力量分什么男女",
@@ -1275,6 +1363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145581,
+      "num": 145581,
+      "word": "口吃亲历者评价王俊凯演的周正",
+      "onboard_time": 1725182239,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 145552,
       "num": 145552,
       "word": "柳舟记 婆媳相爱单杀",
@@ -1297,6 +1393,22 @@
       "onboard_time": 1725176118,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141100,
+      "num": 141100,
+      "word": "潘展乐贴脸开大记者",
+      "onboard_time": 1725180620,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 138974,
+      "num": 138974,
+      "word": "杨幂下班小节目",
+      "onboard_time": 1725181579,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 138536,
@@ -1675,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87666,
+      "num": 492568,
+      "word": "10元3堡还我妈生物价",
+      "onboard_time": 1725178098,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
       "raw_hot": 73234,
       "num": 91361,
       "word": "赵露思侧麻花辫",
@@ -1755,14 +1875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57527,
-      "num": 528218,
-      "word": "女子花3980买的品牌鞋竟是假货",
-      "onboard_time": 1725179719,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 56053,
       "num": 56053,
       "word": "肖战下班鞠躬感谢工作人员",
@@ -1772,19 +1884,11 @@
     },
     {
       "raw_hot": 54218,
-      "num": 787357,
+      "num": 894206,
       "word": "文物里的国潮",
       "onboard_time": 1725175639,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 53579,
-      "num": 492568,
-      "word": "10元3堡还我妈生物价",
-      "onboard_time": 1725178098,
-      "rank": 15,
-      "category": "美食"
     },
     {
       "raw_hot": 53517,
@@ -1851,20 +1955,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42468,
-      "num": 362957,
-      "word": "官方通报刘谦团队腹泻事件",
-      "onboard_time": 1725179840,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 41542,
       "num": 283228,
       "word": "警方采集DNA寻找高空抛物肇事者",
       "onboard_time": 1725124277,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41202,
+      "num": 333362,
+      "word": "陈少熙太喜欢付航了",
+      "onboard_time": 1725182119,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 39325,
@@ -2057,6 +2161,14 @@
       "onboard_time": 1725107001,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13941,
+      "num": 167506,
+      "word": "8倍pitera能有什么功效",
+      "onboard_time": 1725180438,
+      "rank": 38,
+      "category": "美妆"
     },
     {
       "raw_hot": 12738,
