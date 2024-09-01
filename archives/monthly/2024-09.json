@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725225541568,
+  "endTime": 1725226509895,
   "band_list": [
     {
       "raw_hot": 2103437,
@@ -2683,6 +2683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117927,
+      "num": 117927,
+      "word": "多地学校换上了可躺式课桌椅",
+      "onboard_time": 1725219911,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117801,
       "num": 120322,
       "word": "开学",
@@ -2881,14 +2889,6 @@
       "onboard_time": 1725155840,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95757,
-      "num": 95757,
-      "word": "多地学校换上了可躺式课桌椅",
-      "onboard_time": 1725219911,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95403,
@@ -3395,20 +3395,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23264,
+      "num": 29171,
+      "word": "全员瑕疵皮的国产剧来了",
+      "onboard_time": 1725217152,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22582,
       "num": 184598,
       "word": "烟台开海了吃货的天堂来了",
       "onboard_time": 1725166819,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 22437,
-      "num": 29171,
-      "word": "全员瑕疵皮的国产剧来了",
-      "onboard_time": 1725217152,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 20791,
@@ -3451,7 +3451,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16275,
+      "raw_hot": 18540,
       "num": 20219,
       "word": "头上冒出白头发千万别拔",
       "onboard_time": 1725223390,
@@ -3467,6 +3467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 15569,
+      "num": 20219,
+      "word": "全红婵收到澳门文创乌龟",
+      "onboard_time": 1725225490,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 15259,
       "num": 167506,
       "word": "8倍pitera能有什么功效",
@@ -3475,12 +3483,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 13017,
-      "num": 20219,
-      "word": "全红婵收到澳门文创乌龟",
-      "onboard_time": 1725225490,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 14892,
+      "num": 19485,
+      "word": "外国人也对这个词这么敏感",
+      "onboard_time": 1725224652,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 12738,

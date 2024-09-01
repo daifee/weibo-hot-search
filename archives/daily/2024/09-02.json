@@ -1,6 +1,6 @@
 {
   "startTime": 1725207925221,
-  "endTime": 1725225541568,
+  "endTime": 1725226509895,
   "band_list": [
     {
       "raw_hot": 1134403,
@@ -347,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117927,
+      "num": 117927,
+      "word": "多地学校换上了可躺式课桌椅",
+      "onboard_time": 1725219911,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115355,
       "num": 115355,
       "word": "有编制了应该躺平吗",
@@ -416,14 +424,6 @@
       "word": "北京晚霞",
       "onboard_time": 1725190518,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95757,
-      "num": 95757,
-      "word": "多地学校换上了可躺式课桌椅",
-      "onboard_time": 1725219911,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -507,7 +507,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22437,
+      "raw_hot": 23264,
       "num": 29171,
       "word": "全员瑕疵皮的国产剧来了",
       "onboard_time": 1725217152,
@@ -547,7 +547,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16275,
+      "raw_hot": 18540,
       "num": 20219,
       "word": "头上冒出白头发千万别拔",
       "onboard_time": 1725223390,
@@ -555,12 +555,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 13017,
+      "raw_hot": 18316,
+      "num": 19492,
+      "word": "AG锁定胜者组决赛",
+      "onboard_time": 1725204741,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 15569,
       "num": 20219,
       "word": "全红婵收到澳门文创乌龟",
       "onboard_time": 1725225490,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14892,
+      "num": 19485,
+      "word": "外国人也对这个词这么敏感",
+      "onboard_time": 1725224652,
+      "rank": 48,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
