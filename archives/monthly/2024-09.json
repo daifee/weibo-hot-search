@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725215994710,
+  "endTime": 1725218214246,
   "band_list": [
     {
       "raw_hot": 2103437,
@@ -3363,12 +3363,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 23676,
+      "num": 84280,
+      "word": "硫磺熏制枸杞现场气味刺鼻",
+      "onboard_time": 1725213974,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22582,
       "num": 184598,
       "word": "烟台开海了吃货的天堂来了",
       "onboard_time": 1725166819,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 21916,
+      "num": 29171,
+      "word": "全员瑕疵皮的国产剧来了",
+      "onboard_time": 1725217152,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 20791,
@@ -3411,11 +3427,19 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 14857,
-      "num": 84280,
-      "word": "硫磺熏制枸杞现场气味刺鼻",
-      "onboard_time": 1725213974,
-      "rank": 9,
+      "raw_hot": 14088,
+      "num": 33827,
+      "word": "广西军训刷到就会被硬控",
+      "onboard_time": 1725216673,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13359,
+      "num": 36305,
+      "word": "北京现金龙晚霞",
+      "onboard_time": 1725216073,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
