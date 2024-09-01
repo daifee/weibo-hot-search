@@ -1,6 +1,6 @@
 {
   "startTime": 1725207925221,
-  "endTime": 1725207925221,
+  "endTime": 1725208879458,
   "band_list": [
     {
       "raw_hot": 1134403,
@@ -11,20 +11,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 835201,
+      "num": 835201,
+      "word": "林俊杰cue谭松韵",
+      "onboard_time": 1725206000,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
       "raw_hot": 800810,
       "num": 938129,
       "word": "袁隆平儿子回应女儿入读中国农业大学",
       "onboard_time": 1725194061,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 773969,
-      "num": 773969,
-      "word": "林俊杰cue谭松韵",
-      "onboard_time": 1725206000,
-      "rank": 1,
-      "category": "演出"
     },
     {
       "raw_hot": 717738,
@@ -35,8 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 645610,
-      "num": 461202,
+      "raw_hot": 711968,
+      "num": 494548,
       "word": "28岁机车网红三毛子因车祸去世",
       "onboard_time": 1725205880,
       "rank": 6,
@@ -83,8 +83,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 433463,
-      "num": 433463,
+      "raw_hot": 450898,
+      "num": 450898,
       "word": "王楚钦名字带欠人也欠欠的",
       "onboard_time": 1725204260,
       "rank": 8,
@@ -187,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185826,
+      "num": 185826,
+      "word": "王雅繁vs巴多萨",
+      "onboard_time": 1725203361,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181804,
       "num": 181804,
       "word": "BIGBANG三成员同台",
@@ -219,14 +227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 173030,
-      "num": 173030,
-      "word": "王雅繁vs巴多萨",
-      "onboard_time": 1725203361,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 164381,
       "num": 164381,
       "word": "王一博被自己无语到了",
@@ -235,20 +235,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156930,
+      "num": 156930,
+      "word": "郑钦文美网赛程",
+      "onboard_time": 1725189260,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154124,
       "num": 154124,
       "word": "汪苏泷 我们",
       "onboard_time": 1725201741,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 148937,
-      "num": 148937,
-      "word": "郑钦文美网赛程",
-      "onboard_time": 1725189260,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 147477,
@@ -281,6 +281,14 @@
       "onboard_time": 1725205400,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137889,
+      "num": 137889,
+      "word": "解说怪咔",
+      "onboard_time": 1725208218,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 136293,
@@ -371,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103924,
+      "num": 103924,
+      "word": "国家博物馆偶遇张颂文马嘉祺",
+      "onboard_time": 1725208636,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103848,
       "num": 113444,
       "word": "迪丽热巴朦胧纱裙",
@@ -395,7 +411,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14397,
+      "raw_hot": 32495,
+      "num": 371788,
+      "word": "硫超标枸杞加工黑幕曝光",
+      "onboard_time": 1725208397,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14742,
       "num": 745778,
       "word": "神十八乘组的太空日常",
       "onboard_time": 1725194840,

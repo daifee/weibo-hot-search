@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725207925221,
+  "endTime": 1725208879458,
   "band_list": [
     {
       "raw_hot": 2103437,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 835201,
+      "num": 835201,
+      "word": "林俊杰cue谭松韵",
+      "onboard_time": 1725206000,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
       "raw_hot": 825593,
       "num": 825593,
       "word": "莫斯科",
@@ -355,14 +363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 773969,
-      "num": 773969,
-      "word": "林俊杰cue谭松韵",
-      "onboard_time": 1725206000,
-      "rank": 1,
-      "category": "演出"
-    },
-    {
       "raw_hot": 756085,
       "num": 756085,
       "word": "霍启刚晒与郭晶晶旧照",
@@ -385,6 +385,14 @@
       "onboard_time": 1725205041,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 711968,
+      "num": 494548,
+      "word": "28岁机车网红三毛子因车祸去世",
+      "onboard_time": 1725205880,
+      "rank": 6,
+      "category": "网红"
     },
     {
       "raw_hot": 711528,
@@ -473,14 +481,6 @@
       "onboard_time": 1725186618,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 645610,
-      "num": 461202,
-      "word": "28岁机车网红三毛子因车祸去世",
-      "onboard_time": 1725205880,
-      "rank": 6,
-      "category": "网红"
     },
     {
       "raw_hot": 636669,
@@ -811,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 450898,
+      "num": 450898,
+      "word": "王楚钦名字带欠人也欠欠的",
+      "onboard_time": 1725204260,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 445191,
       "num": 445191,
       "word": "马拉松参赛者半途纷纷去商店买水",
@@ -833,14 +841,6 @@
       "onboard_time": 1725169578,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 433463,
-      "num": 433463,
-      "word": "王楚钦名字带欠人也欠欠的",
-      "onboard_time": 1725204260,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 432051,
@@ -2419,6 +2419,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 137889,
+      "num": 137889,
+      "word": "解说怪咔",
+      "onboard_time": 1725208218,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 137440,
       "num": 137440,
       "word": "九月文案",
@@ -2783,6 +2791,14 @@
       "num": 120333,
       "word": "玩密室拼场拼到了朱志鑫",
       "onboard_time": 1725099560,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 103924,
+      "num": 103924,
+      "word": "国家博物馆偶遇张颂文马嘉祺",
+      "onboard_time": 1725208636,
       "rank": 43,
       "category": "艺人"
     },
@@ -3184,6 +3200,14 @@
       "word": "秋天的第一顿烟台海鲜",
       "onboard_time": 1725195619,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32495,
+      "num": 371788,
+      "word": "硫超标枸杞加工黑幕曝光",
+      "onboard_time": 1725208397,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
