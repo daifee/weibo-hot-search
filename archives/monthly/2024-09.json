@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725201325252,
+  "endTime": 1725204074571,
   "band_list": [
     {
       "raw_hot": 2103437,
@@ -17,6 +17,14 @@
       "onboard_time": 1725175639,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1939816,
+      "num": 705068,
+      "word": "莎头",
+      "onboard_time": 1725200780,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 1798685,
@@ -163,6 +171,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1033551,
+      "num": 886810,
+      "word": "邓为偷偷戴了脐钉",
+      "onboard_time": 1725200000,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1032055,
+      "num": 1032055,
+      "word": "许昕问王楚钦合照留空是谁提的",
+      "onboard_time": 1725201082,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1022491,
       "num": 528363,
       "word": "迪丽热巴回到家一看手机天塌了",
@@ -227,6 +251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 905691,
+      "num": 905691,
+      "word": "张雨霏 给澳门留点震撼",
+      "onboard_time": 1725200541,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 902762,
       "num": 902762,
       "word": "张雨霏大方回应择偶标准",
@@ -249,14 +281,6 @@
       "onboard_time": 1725197061,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 871967,
-      "num": 757356,
-      "word": "邓为偷偷戴了脐钉",
-      "onboard_time": 1725200000,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 857252,
@@ -329,6 +353,14 @@
       "onboard_time": 1725147015,
       "rank": 32,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 737191,
+      "num": 737191,
+      "word": "妈妈朋友的儿子杀青宴",
+      "onboard_time": 1725200000,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 721295,
@@ -456,6 +488,14 @@
       "word": "盛李豪父亲回应儿子打羽毛球",
       "onboard_time": 1725186078,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 613393,
+      "num": 613393,
+      "word": "覃海洋 实力唱将团下次还唱",
+      "onboard_time": 1725200661,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -651,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 497478,
+      "num": 497478,
+      "word": "AG对战狼队",
+      "onboard_time": 1725191119,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 495434,
       "num": 424101,
       "word": "每天吃2个鸡蛋身体会出问题吗",
@@ -787,14 +835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 417456,
-      "num": 417456,
-      "word": "妈妈朋友的儿子杀青宴",
-      "onboard_time": 1725200000,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 414416,
       "num": 414416,
       "word": "为什么出远门时要在冰箱放一枚硬币",
@@ -835,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 386376,
+      "num": 418021,
+      "word": "何秋亊 难受",
+      "onboard_time": 1725203242,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 382061,
       "num": 426659,
       "word": "俄称击落多架企图袭击莫斯科的无人机",
@@ -867,6 +915,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 367676,
+      "num": 367676,
+      "word": "王一博被自己无语到了",
+      "onboard_time": 1725200601,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 365892,
       "num": 365892,
       "word": "儿童电话手表别成了小坏蛋",
@@ -881,14 +937,6 @@
       "onboard_time": 1725167179,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 362286,
-      "num": 362286,
-      "word": "张雨霏 给澳门留点震撼",
-      "onboard_time": 1725200541,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 339058,
@@ -939,12 +987,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 323204,
-      "num": 255044,
-      "word": "覃海洋 实力唱将团下次还唱",
-      "onboard_time": 1725200661,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 320701,
+      "num": 320701,
+      "word": "徐锦江真的把徐菲养的很好",
+      "onboard_time": 1725200601,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 315147,
@@ -979,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303207,
+      "num": 303207,
+      "word": "汪苏泷 我们",
+      "onboard_time": 1725201741,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 300950,
       "num": 300950,
       "word": "龙道一rap",
@@ -993,14 +1049,6 @@
       "onboard_time": 1725178458,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 296972,
-      "num": 296972,
-      "word": "王一博被自己无语到了",
-      "onboard_time": 1725200601,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 294889,
@@ -1041,6 +1089,14 @@
       "onboard_time": 1725153558,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 286556,
+      "num": 286556,
+      "word": "葫芦岛暴雨",
+      "onboard_time": 1725199581,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285554,
@@ -1091,14 +1147,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 261178,
-      "num": 261178,
-      "word": "AG对战狼队",
-      "onboard_time": 1725191119,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 259971,
       "num": 329047,
       "word": "陈昊宇新剧",
@@ -1115,10 +1163,26 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 258792,
+      "num": 258792,
+      "word": "大爷拿走价值3千兔子问你能把我怎样",
+      "onboard_time": 1725202282,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258329,
       "num": 258329,
       "word": "樊振东唱歌前小声说欢呼一下",
       "onboard_time": 1725199041,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 258090,
+      "num": 258090,
+      "word": "王雅繁vs巴多萨",
+      "onboard_time": 1725203361,
       "rank": 30,
       "category": "体育"
     },
@@ -1169,14 +1233,6 @@
       "onboard_time": 1725165079,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 243452,
-      "num": 243452,
-      "word": "葫芦岛暴雨",
-      "onboard_time": 1725199581,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242708,
@@ -1275,14 +1331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 225034,
-      "num": 225034,
-      "word": "徐锦江真的把徐菲养的很好",
-      "onboard_time": 1725200601,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224663,
       "num": 224663,
       "word": "郑思维香港第二天vlog",
@@ -1292,7 +1340,7 @@
     },
     {
       "raw_hot": 221975,
-      "num": 221975,
+      "num": 631628,
       "word": "天舟八号第一批乘客官宣",
       "onboard_time": 1725199521,
       "rank": 34,
@@ -1331,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216857,
+      "num": 216857,
+      "word": "AG巅峰对决狼队",
+      "onboard_time": 1725203963,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 216298,
       "num": 216298,
       "word": "樊振东给盛李豪羽毛球拍应援",
@@ -1345,14 +1401,6 @@
       "onboard_time": 1725198202,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 210662,
-      "num": 210662,
-      "word": "许昕问王楚钦合照留空是谁提的",
-      "onboard_time": 1725201082,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 208226,
@@ -1419,14 +1467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205698,
-      "num": 205698,
-      "word": "莎头",
-      "onboard_time": 1725200780,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205641,
       "num": 511029,
       "word": "泰国遭辱骂女子事件后续",
@@ -1484,7 +1524,7 @@
     },
     {
       "raw_hot": 201838,
-      "num": 182922,
+      "num": 189678,
       "word": "郑钦文美网赛程",
       "onboard_time": 1725189260,
       "rank": 38,
@@ -1497,6 +1537,14 @@
       "onboard_time": 1725174859,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201254,
+      "num": 201254,
+      "word": "易小雅 红白配",
+      "onboard_time": 1725203003,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 201250,
@@ -1611,6 +1659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 192785,
+      "num": 192785,
+      "word": "有编制了应该躺平吗",
+      "onboard_time": 1725203661,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191547,
       "num": 191547,
       "word": "DK对战T1",
@@ -1625,6 +1681,14 @@
       "onboard_time": 1725194418,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190747,
+      "num": 190747,
+      "word": "周深舞台还是太全面了",
+      "onboard_time": 1725203361,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 190639,
@@ -1747,6 +1811,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180414,
+      "num": 180414,
+      "word": "迪丽热巴周也穿了同款",
+      "onboard_time": 1725203901,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 180045,
+      "num": 180045,
+      "word": "王俊凯邓为于适生图",
+      "onboard_time": 1725203963,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179926,
       "num": 179926,
       "word": "女生在外面上公厕一定要注意",
@@ -1763,6 +1843,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 179530,
+      "num": 179530,
+      "word": "吃到古偶帝后cp的细糠了",
+      "onboard_time": 1725202581,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178979,
       "num": 178979,
       "word": "车主误会了猫咪的好意",
@@ -1777,6 +1865,14 @@
       "onboard_time": 1725105618,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177932,
+      "num": 177932,
+      "word": "国乒给球拍签名根本签不完",
+      "onboard_time": 1725203302,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 177290,
@@ -1887,6 +1983,14 @@
       "num": 168657,
       "word": "全红婵给国乒男团拍合照",
       "onboard_time": 1725187039,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 168271,
+      "num": 168271,
+      "word": "勒克莱尔代表法拉利主场夺冠",
+      "onboard_time": 1725201440,
       "rank": 49,
       "category": "体育"
     },
@@ -2883,12 +2987,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40302,
+      "num": 411618,
+      "word": "武汉同济医院医患纠纷背后",
+      "onboard_time": 1725203181,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39325,
       "num": 52121,
       "word": "成毅水蓝色造型路透",
       "onboard_time": 1725140832,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 37595,
+      "num": 476734,
+      "word": "儿童手表胡说八道谁担责要查清",
+      "onboard_time": 1725202941,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37111,

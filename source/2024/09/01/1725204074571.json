@@ -1,0 +1,410 @@
+{
+  "runTime": 1725204074571,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1294804,
+        "num": 1294804,
+        "word": "袁隆平儿子回应女儿入读中国农业大学",
+        "onboard_time": 1725194061,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1075551,
+        "num": 1075551,
+        "word": "李庚希金鹿奖影后",
+        "onboard_time": 1725197241,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150584,
+        "num": 1041015,
+        "word": "开学第一课",
+        "onboard_time": 1725190280,
+        "rank": 2,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1032055,
+        "num": 1032055,
+        "word": "许昕问王楚钦合照留空是谁提的",
+        "onboard_time": 1725201082,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 905691,
+        "num": 905691,
+        "word": "张雨霏 给澳门留点震撼",
+        "onboard_time": 1725200541,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1033551,
+        "num": 886810,
+        "word": "邓为偷偷戴了脐钉",
+        "onboard_time": 1725200000,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 737191,
+        "num": 737191,
+        "word": "妈妈朋友的儿子杀青宴",
+        "onboard_time": 1725200000,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 707844,
+        "num": 707844,
+        "word": "家长火烧孩子估值好几万烟卡",
+        "onboard_time": 1725187459,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1939816,
+        "num": 705068,
+        "word": "莎头",
+        "onboard_time": 1725200780,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111316,
+        "num": 631628,
+        "word": "天舟八号第一批乘客官宣",
+        "onboard_time": 1725199521,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613595,
+        "num": 613595,
+        "word": "樊振东贴脸开大盛李豪",
+        "onboard_time": 1725195619,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 613393,
+        "num": 613393,
+        "word": "覃海洋 实力唱将团下次还唱",
+        "onboard_time": 1725200661,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 558570,
+        "num": 558570,
+        "word": "龙道一 全垫音",
+        "onboard_time": 1725197901,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 497478,
+        "num": 497478,
+        "word": "AG对战狼队",
+        "onboard_time": 1725191119,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 37595,
+        "num": 476734,
+        "word": "儿童手表胡说八道谁担责要查清",
+        "onboard_time": 1725202941,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457075,
+        "num": 457075,
+        "word": "高铁车厢里全是碎掉的大学生",
+        "onboard_time": 1725172458,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 443152,
+        "num": 443152,
+        "word": "彭昱畅金鹿奖影帝",
+        "onboard_time": 1725197061,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 427924,
+        "num": 427924,
+        "word": "月薪一万那叫卷十万就叫拼搏",
+        "onboard_time": 1725198920,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386376,
+        "num": 418021,
+        "word": "何秋亊 难受",
+        "onboard_time": 1725203242,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40302,
+        "num": 411618,
+        "word": "武汉同济医院医患纠纷背后",
+        "onboard_time": 1725203181,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410944,
+        "num": 410944,
+        "word": "樊振东清唱野孩子",
+        "onboard_time": 1725197301,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 404477,
+        "num": 404477,
+        "word": "外卖小哥讲述发现皮包骨婴儿细节",
+        "onboard_time": 1725183319,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367676,
+        "num": 367676,
+        "word": "王一博被自己无语到了",
+        "onboard_time": 1725200601,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338342,
+        "num": 338342,
+        "word": "马龙给全红婵买帽子",
+        "onboard_time": 1725189439,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330258,
+        "num": 330258,
+        "word": "BIGBANG三成员同台",
+        "onboard_time": 1725188779,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 320701,
+        "num": 320701,
+        "word": "徐锦江真的把徐菲养的很好",
+        "onboard_time": 1725200601,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303207,
+        "num": 303207,
+        "word": "汪苏泷 我们",
+        "onboard_time": 1725201741,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 286556,
+        "num": 286556,
+        "word": "葫芦岛暴雨",
+        "onboard_time": 1725199581,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258792,
+        "num": 258792,
+        "word": "大爷拿走价值3千兔子问你能把我怎样",
+        "onboard_time": 1725202282,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214652,
+        "num": 258285,
+        "word": "潘展乐解释自己的微博名",
+        "onboard_time": 1725193939,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258090,
+        "num": 258090,
+        "word": "王雅繁vs巴多萨",
+        "onboard_time": 1725203361,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228048,
+        "num": 228048,
+        "word": "王楚钦和大家合影耳朵红了",
+        "onboard_time": 1725200062,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224776,
+        "num": 224776,
+        "word": "游泳队 人鱼上岸嗓子换腿",
+        "onboard_time": 1725194720,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216857,
+        "num": 216857,
+        "word": "AG巅峰对决狼队",
+        "onboard_time": 1725203963,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 209276,
+        "num": 209276,
+        "word": "迪丽热巴朦胧纱裙",
+        "onboard_time": 1725191299,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206244,
+        "num": 206244,
+        "word": "樊振东给盛李豪羽毛球拍应援",
+        "onboard_time": 1725200301,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204828,
+        "num": 204828,
+        "word": "余文乐老婆发文道歉",
+        "onboard_time": 1725179360,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203628,
+        "num": 203628,
+        "word": "我爸的开心消消乐停在了8739关",
+        "onboard_time": 1725170000,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201254,
+        "num": 201254,
+        "word": "易小雅 红白配",
+        "onboard_time": 1725203003,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197578,
+        "num": 197578,
+        "word": "北京晚霞",
+        "onboard_time": 1725190518,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194778,
+        "num": 194778,
+        "word": "谭松韵看林俊杰演唱会",
+        "onboard_time": 1725197061,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192785,
+        "num": 192785,
+        "word": "有编制了应该躺平吗",
+        "onboard_time": 1725203661,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190903,
+        "num": 190903,
+        "word": "郑思维 e中e",
+        "onboard_time": 1725190699,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190747,
+        "num": 190747,
+        "word": "周深舞台还是太全面了",
+        "onboard_time": 1725203361,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189678,
+        "num": 189678,
+        "word": "郑钦文美网赛程",
+        "onboard_time": 1725189260,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180414,
+        "num": 180414,
+        "word": "迪丽热巴周也穿了同款",
+        "onboard_time": 1725203901,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180045,
+        "num": 180045,
+        "word": "王俊凯邓为于适生图",
+        "onboard_time": 1725203963,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179530,
+        "num": 179530,
+        "word": "吃到古偶帝后cp的细糠了",
+        "onboard_time": 1725202581,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177932,
+        "num": 177932,
+        "word": "国乒给球拍签名根本签不完",
+        "onboard_time": 1725203302,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168271,
+        "num": 168271,
+        "word": "勒克莱尔代表法拉利主场夺冠",
+        "onboard_time": 1725201440,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#每个学生都是独一无二的个体#"
+    }
+  }
+}
