@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725232802187,
+  "endTime": 1725233702666,
   "band_list": [
     {
       "raw_hot": 2103437,
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 792771,
-      "num": 814360,
+      "num": 915019,
       "word": "28岁机车网红三毛子因车祸去世",
       "onboard_time": 1725205880,
       "rank": 6,
@@ -483,6 +483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 641305,
+      "num": 641305,
+      "word": "多地学校换上了可躺式课桌椅",
+      "onboard_time": 1725219911,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 636669,
       "num": 636669,
       "word": "乒羽混双大魔王 向你开炮",
@@ -529,6 +537,14 @@
       "onboard_time": 1725193998,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 609581,
+      "num": 609581,
+      "word": "大爷拿走价值3千兔子问你能把我怎样",
+      "onboard_time": 1725202282,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 604547,
@@ -595,14 +611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 575867,
-      "num": 575867,
-      "word": "多地学校换上了可躺式课桌椅",
-      "onboard_time": 1725219911,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 573961,
       "num": 573961,
       "word": "安徽17岁男生退学摆摊10天收入万元",
@@ -643,14 +651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 546494,
-      "num": 546494,
-      "word": "大爷拿走价值3千兔子问你能把我怎样",
-      "onboard_time": 1725202282,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 544467,
       "num": 544467,
       "word": "王靖雯淘汰",
@@ -665,6 +665,14 @@
       "onboard_time": 1725178040,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 533617,
+      "num": 245077,
+      "word": "彭昱畅暴瘦是因为阑尾炎",
+      "onboard_time": 1725232878,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 527403,
@@ -835,6 +843,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 450649,
+      "num": 450649,
+      "word": "徐锦江真的把徐菲养的很好",
+      "onboard_time": 1725200601,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 449816,
+      "num": 449816,
+      "word": "退役军人安置条例今起施行",
+      "onboard_time": 1725212113,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 445191,
       "num": 445191,
       "word": "马拉松参赛者半途纷纷去商店买水",
@@ -875,14 +899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 424732,
-      "num": 424732,
-      "word": "退役军人安置条例今起施行",
-      "onboard_time": 1725212113,
-      "rank": 3,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 424684,
       "num": 424684,
       "word": "贾一凡vlog香港篇",
@@ -905,14 +921,6 @@
       "onboard_time": 1725158778,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 415970,
-      "num": 415970,
-      "word": "徐锦江真的把徐菲养的很好",
-      "onboard_time": 1725200601,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 414416,
@@ -1291,6 +1299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 244739,
+      "num": 244739,
+      "word": "陈奕迅邀请游泳队来演唱会一起唱",
+      "onboard_time": 1725232216,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 242708,
       "num": 242708,
       "word": "樊振东潘展乐坐着打羽毛球",
@@ -1305,6 +1321,14 @@
       "onboard_time": 1725157518,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 240415,
+      "num": 240415,
+      "word": "小天鹅被羊毛党一夜薅走7000万",
+      "onboard_time": 1725232816,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 239676,
@@ -1467,6 +1491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209907,
+      "num": 209907,
+      "word": "郑钦文美网赛程",
+      "onboard_time": 1725189260,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208226,
       "num": 326466,
       "word": "很难不中卢昱晓的美人计",
@@ -1585,14 +1617,6 @@
       "onboard_time": 1725195740,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 201838,
-      "num": 190537,
-      "word": "郑钦文美网赛程",
-      "onboard_time": 1725189260,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 201574,
@@ -2379,6 +2403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145521,
+      "num": 145521,
+      "word": "我15号的航班关你14号什么事",
+      "onboard_time": 1725210075,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145261,
       "num": 145261,
       "word": "周深留下其他出去",
@@ -2409,14 +2441,6 @@
       "onboard_time": 1725189678,
       "rank": 38,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 140415,
-      "num": 140415,
-      "word": "陈奕迅邀请游泳队来演唱会一起唱",
-      "onboard_time": 1725232216,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 139526,
@@ -2587,6 +2611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127191,
+      "num": 127191,
+      "word": "订婚后男朋友天天追求公平",
+      "onboard_time": 1725233059,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126074,
       "num": 165358,
       "word": "李克勤擦口红这段",
@@ -2731,14 +2763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117120,
-      "num": 117120,
-      "word": "我15号的航班关你14号什么事",
-      "onboard_time": 1725210075,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 116739,
       "num": 244120,
       "word": "林依轮儿子出道演话剧了",
@@ -2875,6 +2899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 100106,
+      "num": 100106,
+      "word": "姆巴佩梅开二度",
+      "onboard_time": 1725231976,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99887,
       "num": 99887,
       "word": "有一种不用脑子的轻松幸福感",
@@ -2897,6 +2929,14 @@
       "onboard_time": 1725171139,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99059,
+      "num": 99059,
+      "word": "当我凌晨两点想前男友了",
+      "onboard_time": 1725232757,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 97660,
@@ -2923,12 +2963,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 94523,
+      "num": 94523,
+      "word": "20岁本科毕业准备出国读研但意外怀孕",
+      "onboard_time": 1725233059,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 94143,
       "num": 105157,
       "word": "檀健次舞台是也带表演的",
       "onboard_time": 1725122476,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 91333,
+      "num": 91333,
+      "word": "相亲相到正常人反而害怕",
+      "onboard_time": 1725232516,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 91120,
@@ -2947,12 +3003,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88507,
+      "num": 88507,
+      "word": "清水英男自述731罪行",
+      "onboard_time": 1725233176,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 80547,
+      "num": 80547,
+      "word": "王楚钦台下爆笑孤勇者",
+      "onboard_time": 1725232396,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 80235,
+      "num": 80235,
+      "word": "覃海洋发孤勇者视频通知陈奕迅",
+      "onboard_time": 1725231736,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78534,
       "num": 78534,
       "word": "1米9的孙丞潇轻松下腰到1米1",
       "onboard_time": 1725229513,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76929,
+      "num": 76929,
+      "word": "头上冒出白头发千万别拔",
+      "onboard_time": 1725223390,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 76828,
@@ -2987,20 +3075,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69892,
+      "num": 69892,
+      "word": "全员瑕疵皮的国产剧来了",
+      "onboard_time": 1725217152,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 69321,
       "num": 135269,
       "word": "2024版铁路旅客运输规程",
       "onboard_time": 1725190398,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69319,
-      "num": 69319,
-      "word": "头上冒出白头发千万别拔",
-      "onboard_time": 1725223390,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 68636,
@@ -3059,14 +3147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 64860,
-      "num": 64860,
-      "word": "当我凌晨两点想前男友了",
-      "onboard_time": 1725232757,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 64359,
       "num": 391678,
       "word": "陈昊宇美到发光",
@@ -3081,6 +3161,14 @@
       "onboard_time": 1725122418,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63509,
+      "num": 63509,
+      "word": "皇马2比0贝蒂斯",
+      "onboard_time": 1725232696,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 63455,
@@ -3115,28 +3203,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 56436,
-      "num": 56436,
-      "word": "全员瑕疵皮的国产剧来了",
-      "onboard_time": 1725217152,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 56053,
       "num": 56053,
       "word": "肖战下班鞠躬感谢工作人员",
       "onboard_time": 1725104839,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 55887,
-      "num": 55887,
-      "word": "姆巴佩梅开二度",
-      "onboard_time": 1725231976,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 54218,
@@ -3155,14 +3227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 53049,
-      "num": 53049,
-      "word": "覃海洋发孤勇者视频通知陈奕迅",
-      "onboard_time": 1725231736,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 51547,
       "num": 591122,
       "word": "调研称孩子们都希望课间能到操场玩",
@@ -3179,12 +3243,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 50822,
-      "num": 50822,
-      "word": "王楚钦台下爆笑孤勇者",
-      "onboard_time": 1725232396,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 51147,
+      "num": 51147,
+      "word": "早晚揉腹有哪些好处",
+      "onboard_time": 1725233657,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 50368,
@@ -3193,22 +3257,6 @@
       "onboard_time": 1725176898,
       "rank": 29,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 49251,
-      "num": 49251,
-      "word": "相亲相到正常人反而害怕",
-      "onboard_time": 1725232516,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 48652,
-      "num": 48652,
-      "word": "皇马2比0贝蒂斯",
-      "onboard_time": 1725232696,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 47891,
