@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725187076116,
+  "endTime": 1725189475204,
   "band_list": [
     {
       "raw_hot": 1957251,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1732459,
-      "num": 1732459,
+      "raw_hot": 1778344,
+      "num": 1778344,
       "word": "外卖小哥讲述发现皮包骨婴儿细节",
       "onboard_time": 1725183319,
       "rank": 0,
@@ -259,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 719440,
+      "num": 719440,
+      "word": "家长火烧孩子估值好几万烟卡",
+      "onboard_time": 1725187459,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 711528,
       "num": 711528,
       "word": "刘亦菲打错英文单词",
@@ -315,6 +323,30 @@
       "category": "教育"
     },
     {
+      "raw_hot": 658948,
+      "num": 658948,
+      "word": "命案嫌犯致5死1伤后潜逃",
+      "onboard_time": 1725184998,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 651985,
+      "num": 651985,
+      "word": "权志龙太阳大声合体",
+      "onboard_time": 1725186618,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 636669,
+      "num": 636669,
+      "word": "乒羽混双大魔王 向你开炮",
+      "onboard_time": 1725186138,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 628067,
       "num": 485495,
       "word": "张雨霏哽咽谈杨家玉李雯雯",
@@ -329,6 +361,14 @@
       "onboard_time": 1725147015,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 618012,
+      "num": 217424,
+      "word": "盛李豪父亲回应儿子打羽毛球",
+      "onboard_time": 1725186078,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 604547,
@@ -473,6 +513,14 @@
       "onboard_time": 1725167240,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 465295,
+      "num": 465295,
+      "word": "田曦薇婉拒王安宇",
+      "onboard_time": 1725181638,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 463828,
@@ -715,14 +763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301544,
-      "num": 301544,
-      "word": "田曦薇婉拒王安宇",
-      "onboard_time": 1725181638,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 297247,
       "num": 415449,
       "word": "张韶涵成都新皮肤又开大了",
@@ -737,6 +777,14 @@
       "onboard_time": 1725149777,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 294616,
+      "num": 294616,
+      "word": "迪丽热巴九月行程图",
+      "onboard_time": 1725183680,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 291655,
@@ -771,20 +819,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 268433,
+      "num": 202530,
+      "word": "王楚钦和澳门市民自拍",
+      "onboard_time": 1725187578,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263334,
       "num": 481595,
       "word": "王宜林",
       "onboard_time": 1725160999,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 260451,
-      "num": 260451,
-      "word": "权志龙太阳大声合体",
-      "onboard_time": 1725186618,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 259971,
@@ -816,14 +864,6 @@
       "word": "樊振东 我跳舞有点天赋",
       "onboard_time": 1725163520,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 253032,
-      "num": 253032,
-      "word": "乒羽混双大魔王 向你开炮",
-      "onboard_time": 1725186138,
-      "rank": 16,
       "category": "体育"
     },
     {
@@ -899,20 +939,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230260,
+      "num": 230260,
+      "word": "泰国醉酒男葬礼上闹事被乱抢打死",
+      "onboard_time": 1725184339,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229218,
       "num": 245852,
       "word": "王一博就这么水灵灵的游过去了",
       "onboard_time": 1725182119,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 223989,
-      "num": 207016,
-      "word": "盛李豪父亲回应儿子打羽毛球",
-      "onboard_time": 1725186078,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 218302,
@@ -936,14 +976,6 @@
       "word": "9岁男孩骑车腹部被车把手插入",
       "onboard_time": 1725181400,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 215894,
-      "num": 215894,
-      "word": "命案嫌犯致5死1伤后潜逃",
-      "onboard_time": 1725184998,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -1043,6 +1075,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 199659,
+      "num": 199659,
+      "word": "权志龙作为嘉宾出席太阳演唱会",
+      "onboard_time": 1725188900,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199162,
       "num": 776443,
       "word": "从小学到大学要经历16次9月1日开学",
@@ -1131,12 +1171,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 189899,
-      "num": 189899,
-      "word": "迪丽热巴九月行程图",
-      "onboard_time": 1725183680,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 188090,
+      "num": 533939,
+      "word": "莫斯科炼油厂因乌无人机袭击起火",
+      "onboard_time": 1725183200,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 187605,
@@ -1145,6 +1185,14 @@
       "onboard_time": 1725171859,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186243,
+      "num": 186243,
+      "word": "曹璐恩静cha了可怜",
+      "onboard_time": 1725186319,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 185554,
@@ -1171,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182617,
+      "num": 182617,
+      "word": "俄初步确认失联直升机上22人全部遇难",
+      "onboard_time": 1725187158,
+      "rank": 27,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 182009,
       "num": 182009,
       "word": "网友奔现第1天女子要2万金手镯",
@@ -1185,6 +1241,14 @@
       "onboard_time": 1725134592,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180982,
+      "num": 167320,
+      "word": "马龙给全红婵买帽子",
+      "onboard_time": 1725189439,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 180683,
@@ -1209,14 +1273,6 @@
       "onboard_time": 1725172159,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 179364,
-      "num": 179364,
-      "word": "泰国醉酒男葬礼上闹事被乱抢打死",
-      "onboard_time": 1725184339,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178979,
@@ -1331,6 +1387,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 168305,
+      "num": 168305,
+      "word": "BIGBANG三成员同台",
+      "onboard_time": 1725188779,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167353,
       "num": 362957,
       "word": "官方通报刘谦团队腹泻事件",
@@ -1353,6 +1417,14 @@
       "onboard_time": 1725112941,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160945,
+      "num": 160945,
+      "word": "全红婵给国乒男团拍合照",
+      "onboard_time": 1725187039,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 159250,
@@ -1403,6 +1475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 156312,
+      "num": 156312,
+      "word": "王楚然Y2K到我了",
+      "onboard_time": 1725187578,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155206,
       "num": 215071,
       "word": "镖人",
@@ -1417,14 +1497,6 @@
       "onboard_time": 1725182958,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 152501,
-      "num": 311349,
-      "word": "莫斯科炼油厂因乌无人机袭击起火",
-      "onboard_time": 1725183200,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 152034,
@@ -1457,6 +1529,14 @@
       "onboard_time": 1725161600,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 147449,
+      "num": 355716,
+      "word": "园长收学生6元巧克力被开用力过猛了",
+      "onboard_time": 1725185238,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147427,
@@ -1531,6 +1611,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 138474,
+      "num": 138474,
+      "word": "郑钦文美网赛程",
+      "onboard_time": 1725189260,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137440,
       "num": 137440,
       "word": "九月文案",
@@ -1601,6 +1689,14 @@
       "onboard_time": 1725159138,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129294,
+      "num": 296353,
+      "word": "女子和丈夫吵架高空扔下锅碗瓢盆",
+      "onboard_time": 1725184998,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128869,
@@ -1771,14 +1867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115747,
-      "num": 115747,
-      "word": "曹璐恩静cha了可怜",
-      "onboard_time": 1725186319,
-      "rank": 46,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 115738,
       "num": 115738,
       "word": "亲人离开后很久才会痛哭",
@@ -1787,20 +1875,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 115429,
+      "num": 115429,
+      "word": "周深留下其他出去",
+      "onboard_time": 1725189260,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114030,
       "num": 120337,
       "word": "檀健次男菩萨含金量还在上升",
       "onboard_time": 1725119479,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 113785,
-      "num": 113785,
-      "word": "全红婵给国乒男团拍合照",
-      "onboard_time": 1725187039,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 113696,
@@ -1833,14 +1921,6 @@
       "onboard_time": 1725174799,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107791,
-      "num": 355716,
-      "word": "园长收学生6元巧克力被开用力过猛了",
-      "onboard_time": 1725185238,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107582,
@@ -1968,14 +2048,6 @@
       "word": "全球AI色情换脸受害者中一半是韩国人",
       "onboard_time": 1725123797,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 77362,
-      "num": 296353,
-      "word": "女子和丈夫吵架高空扔下锅碗瓢盆",
-      "onboard_time": 1725184998,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2264,6 +2336,14 @@
       "word": "湖南汛情受损学校绝大部分已修复",
       "onboard_time": 1725161778,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27139,
+      "num": 511029,
+      "word": "泰国遭辱骂女子事件后续",
+      "onboard_time": 1725189078,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
