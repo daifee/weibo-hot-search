@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725189475204,
+  "endTime": 1725190524301,
   "band_list": [
     {
       "raw_hot": 1957251,
@@ -56,6 +56,14 @@
       "word": "生4胞胎一家9口挤2间小卧室",
       "onboard_time": 1725113419,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1392876,
+      "num": 1392876,
+      "word": "家长火烧孩子估值好几万烟卡",
+      "onboard_time": 1725187459,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -257,14 +265,6 @@
       "onboard_time": 1725177679,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 719440,
-      "num": 719440,
-      "word": "家长火烧孩子估值好几万烟卡",
-      "onboard_time": 1725187459,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 711528,
@@ -795,6 +795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 289050,
+      "num": 289050,
+      "word": "马龙给全红婵买帽子",
+      "onboard_time": 1725189439,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 286672,
       "num": 464082,
       "word": "易烊千玺亮相威尼斯晚宴",
@@ -811,20 +819,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279996,
+      "num": 206819,
+      "word": "王楚钦和澳门市民自拍",
+      "onboard_time": 1725187578,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 274368,
       "num": 329187,
       "word": "刘亦菲飞吻张靓颖",
       "onboard_time": 1725152298,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 268433,
-      "num": 202530,
-      "word": "王楚钦和澳门市民自拍",
-      "onboard_time": 1725187578,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 263334,
@@ -955,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218709,
+      "num": 218709,
+      "word": "BIGBANG三成员同台",
+      "onboard_time": 1725188779,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218302,
       "num": 218302,
       "word": "原神5.0版本",
@@ -979,12 +995,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214686,
+      "num": 214686,
+      "word": "开学第一课",
+      "onboard_time": 1725190280,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208226,
       "num": 326466,
       "word": "很难不中卢昱晓的美人计",
       "onboard_time": 1725123438,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207671,
+      "num": 207671,
+      "word": "泰国醉酒男葬礼上闹事被乱枪打死",
+      "onboard_time": 1725184339,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207187,
@@ -1001,6 +1033,14 @@
       "onboard_time": 1725156738,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205974,
+      "num": 205974,
+      "word": "俄初步确认失联直升机上22人全部遇难",
+      "onboard_time": 1725187158,
+      "rank": 27,
+      "category": "国外时政"
     },
     {
       "raw_hot": 205774,
@@ -1048,6 +1088,14 @@
       "word": "乒丝请放心 今日已练球",
       "onboard_time": 1725180620,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 201838,
+      "num": 182922,
+      "word": "郑钦文美网赛程",
+      "onboard_time": 1725189260,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -1123,6 +1171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 195106,
+      "num": 195106,
+      "word": "林允裸背猫女郎",
+      "onboard_time": 1725190159,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194211,
       "num": 194211,
       "word": "43岁陈冠希近照",
@@ -1169,6 +1225,14 @@
       "onboard_time": 1725115462,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 188422,
+      "num": 188422,
+      "word": "左航北海plog",
+      "onboard_time": 1725189740,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 188090,
@@ -1219,14 +1283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182617,
-      "num": 182617,
-      "word": "俄初步确认失联直升机上22人全部遇难",
-      "onboard_time": 1725187158,
-      "rank": 27,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 182009,
       "num": 182009,
       "word": "网友奔现第1天女子要2万金手镯",
@@ -1241,14 +1297,6 @@
       "onboard_time": 1725134592,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180982,
-      "num": 167320,
-      "word": "马龙给全红婵买帽子",
-      "onboard_time": 1725189439,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 180683,
@@ -1387,12 +1435,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 168305,
-      "num": 168305,
-      "word": "BIGBANG三成员同台",
-      "onboard_time": 1725188779,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 168657,
+      "num": 168657,
+      "word": "全红婵给国乒男团拍合照",
+      "onboard_time": 1725187039,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 167353,
@@ -1400,6 +1448,14 @@
       "word": "官方通报刘谦团队腹泻事件",
       "onboard_time": 1725179840,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 165394,
+      "num": 165394,
+      "word": "王楚然Y2K到我了",
+      "onboard_time": 1725187578,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -1417,14 +1473,6 @@
       "onboard_time": 1725112941,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160945,
-      "num": 160945,
-      "word": "全红婵给国乒男团拍合照",
-      "onboard_time": 1725187039,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 159250,
@@ -1473,14 +1521,6 @@
       "onboard_time": 1725175578,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 156312,
-      "num": 156312,
-      "word": "王楚然Y2K到我了",
-      "onboard_time": 1725187578,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 155206,
@@ -1579,6 +1619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145261,
+      "num": 145261,
+      "word": "周深留下其他出去",
+      "onboard_time": 1725189260,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144843,
       "num": 144843,
       "word": "贺峻霖安慰严浩翔",
@@ -1595,6 +1643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140522,
+      "num": 140522,
+      "word": "仙逆",
+      "onboard_time": 1725189678,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 138974,
       "num": 138974,
       "word": "杨幂下班小节目",
@@ -1609,14 +1665,6 @@
       "onboard_time": 1725169819,
       "rank": 37,
       "category": "教育"
-    },
-    {
-      "raw_hot": 138474,
-      "num": 138474,
-      "word": "郑钦文美网赛程",
-      "onboard_time": 1725189260,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 137440,
@@ -1672,6 +1720,14 @@
       "word": "王鹤棣秦霄贤你俩过于暧昧了",
       "onboard_time": 1725154697,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 131432,
+      "num": 131432,
+      "word": "心动的信号 彭高孙乐言好嗑",
+      "onboard_time": 1725188600,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -1761,6 +1817,14 @@
       "onboard_time": 1725119479,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 122597,
+      "num": 122597,
+      "word": "奥运健儿澳门街头被疯狂投喂",
+      "onboard_time": 1725190101,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 122258,
@@ -1873,14 +1937,6 @@
       "onboard_time": 1725186918,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 115429,
-      "num": 115429,
-      "word": "周深留下其他出去",
-      "onboard_time": 1725189260,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 114030,
@@ -2067,6 +2123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69321,
+      "num": 135269,
+      "word": "2024版铁路旅客运输规程",
+      "onboard_time": 1725190398,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68636,
       "num": 68636,
       "word": "赵奕欢上了郝蕾表演课",
@@ -2148,7 +2212,7 @@
     },
     {
       "raw_hot": 54218,
-      "num": 896277,
+      "num": 1068598,
       "word": "文物里的国潮",
       "onboard_time": 1725175639,
       "rank": 2,
@@ -2169,6 +2233,14 @@
       "onboard_time": 1725176898,
       "rank": 29,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 49740,
+      "num": 511029,
+      "word": "泰国遭辱骂女子事件后续",
+      "onboard_time": 1725189078,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47891,
@@ -2336,14 +2408,6 @@
       "word": "湖南汛情受损学校绝大部分已修复",
       "onboard_time": 1725161778,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27139,
-      "num": 511029,
-      "word": "泰国遭辱骂女子事件后续",
-      "onboard_time": 1725189078,
-      "rank": 9,
       "category": "社会新闻"
     },
     {

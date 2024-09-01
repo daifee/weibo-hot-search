@@ -1,0 +1,410 @@
+{
+  "runTime": 1725190524301,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1491818,
+        "num": 1491818,
+        "word": "外卖小哥讲述发现皮包骨婴儿细节",
+        "onboard_time": 1725183319,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1392876,
+        "num": 1392876,
+        "word": "家长火烧孩子估值好几万烟卡",
+        "onboard_time": 1725187459,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6002,
+        "num": 1068598,
+        "word": "文物里的国潮",
+        "onboard_time": 1725175639,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 872013,
+        "num": 872013,
+        "word": "高铁车厢里全是碎掉的大学生",
+        "onboard_time": 1725172458,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 631433,
+        "num": 631433,
+        "word": "乒羽混双大魔王 向你开炮",
+        "onboard_time": 1725186138,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 600435,
+        "num": 600435,
+        "word": "命案嫌犯致5死1伤后潜逃",
+        "onboard_time": 1725184998,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589135,
+        "num": 589135,
+        "word": "权志龙太阳大声合体",
+        "onboard_time": 1725186618,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 587480,
+        "num": 587480,
+        "word": "余文乐老婆发文道歉",
+        "onboard_time": 1725179360,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158715,
+        "num": 514246,
+        "word": "莫斯科炼油厂因乌无人机袭击起火",
+        "onboard_time": 1725183200,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 49740,
+        "num": 467303,
+        "word": "泰国遭辱骂女子事件后续",
+        "onboard_time": 1725189078,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446001,
+        "num": 446001,
+        "word": "田曦薇婉拒王安宇",
+        "onboard_time": 1725181638,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438828,
+        "num": 438828,
+        "word": "两名黑人女子遭白人农场主枪杀喂猪",
+        "onboard_time": 1725177559,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363578,
+        "num": 363578,
+        "word": "我爸的开心消消乐停在了8739关",
+        "onboard_time": 1725170000,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 334085,
+        "num": 334085,
+        "word": "刘亦菲打错英文单词",
+        "onboard_time": 1725181280,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289050,
+        "num": 289050,
+        "word": "马龙给全红婵买帽子",
+        "onboard_time": 1725189439,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277745,
+        "num": 277745,
+        "word": "迪丽热巴九月行程图",
+        "onboard_time": 1725183680,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251709,
+        "num": 251709,
+        "word": "儿童手表AI否认南京大屠杀存在",
+        "onboard_time": 1725173658,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222537,
+        "num": 222537,
+        "word": "澳门果然是福地",
+        "onboard_time": 1725178040,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218709,
+        "num": 218709,
+        "word": "BIGBANG三成员同台",
+        "onboard_time": 1725188779,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 214686,
+        "num": 214686,
+        "word": "开学第一课",
+        "onboard_time": 1725190280,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 777950,
+        "num": 211535,
+        "word": "路虎女司机打退伍军人官方发声",
+        "onboard_time": 1725175639,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521058,
+        "num": 209830,
+        "word": "盛李豪父亲回应儿子打羽毛球",
+        "onboard_time": 1725186078,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207671,
+        "num": 207671,
+        "word": "泰国醉酒男葬礼上闹事被乱枪打死",
+        "onboard_time": 1725184339,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280338,
+        "num": 207337,
+        "word": "J人和P人做PPT的区别",
+        "onboard_time": 1725181939,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 279996,
+        "num": 206819,
+        "word": "王楚钦和澳门市民自拍",
+        "onboard_time": 1725187578,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205974,
+        "num": 205974,
+        "word": "俄初步确认失联直升机上22人全部遇难",
+        "onboard_time": 1725187158,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 195106,
+        "num": 195106,
+        "word": "林允裸背猫女郎",
+        "onboard_time": 1725190159,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189420,
+        "num": 189420,
+        "word": "嗯哼牙齿矫正",
+        "onboard_time": 1725179479,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188422,
+        "num": 188422,
+        "word": "左航北海plog",
+        "onboard_time": 1725189740,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183101,
+        "num": 183101,
+        "word": "曹璐恩静cha了可怜",
+        "onboard_time": 1725186319,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201838,
+        "num": 182922,
+        "word": "郑钦文美网赛程",
+        "onboard_time": 1725189260,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170951,
+        "num": 170951,
+        "word": "王安全穿名牌 不像真的",
+        "onboard_time": 1725173058,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168657,
+        "num": 168657,
+        "word": "全红婵给国乒男团拍合照",
+        "onboard_time": 1725187039,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165394,
+        "num": 165394,
+        "word": "王楚然Y2K到我了",
+        "onboard_time": 1725187578,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163965,
+        "num": 163965,
+        "word": "为什么大家坐高铁都不想选ABC座",
+        "onboard_time": 1725167240,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156218,
+        "num": 156218,
+        "word": "乒羽混双合照",
+        "onboard_time": 1725177679,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153764,
+        "num": 153764,
+        "word": "王一博就这么水灵灵的游过去了",
+        "onboard_time": 1725182119,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145261,
+        "num": 145261,
+        "word": "周深留下其他出去",
+        "onboard_time": 1725189260,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140522,
+        "num": 140522,
+        "word": "仙逆",
+        "onboard_time": 1725189678,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 69321,
+        "num": 135269,
+        "word": "2024版铁路旅客运输规程",
+        "onboard_time": 1725190398,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134108,
+        "num": 134108,
+        "word": "全红婵的玩具被没收了",
+        "onboard_time": 1725176240,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131982,
+        "num": 131982,
+        "word": "徐嘉余 开炮",
+        "onboard_time": 1725178160,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131432,
+        "num": 131432,
+        "word": "心动的信号 彭高孙乐言好嗑",
+        "onboard_time": 1725188600,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128606,
+        "num": 128606,
+        "word": "张雨霏哽咽谈杨家玉李雯雯",
+        "onboard_time": 1725177200,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124593,
+        "num": 124593,
+        "word": "权志龙作为嘉宾出席太阳演唱会",
+        "onboard_time": 1725188900,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122597,
+        "num": 122597,
+        "word": "奥运健儿澳门街头被疯狂投喂",
+        "onboard_time": 1725190101,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121373,
+        "num": 121373,
+        "word": "女子和丈夫吵架高空扔下锅碗瓢盆",
+        "onboard_time": 1725184998,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121108,
+        "num": 121108,
+        "word": "9岁男孩骑车腹部被车把手插入",
+        "onboard_time": 1725181400,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120608,
+        "num": 120608,
+        "word": "园长收学生6元巧克力被开用力过猛了",
+        "onboard_time": 1725185238,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119677,
+        "num": 119677,
+        "word": "唐尚珺大学报到称35岁耗不起了",
+        "onboard_time": 1725176000,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#在习近平的信中读懂中非命运共同体#"
+    }
+  }
+}
