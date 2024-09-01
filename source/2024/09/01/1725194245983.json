@@ -1,0 +1,410 @@
+{
+  "runTime": 1725194245983,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1721819,
+        "num": 1721819,
+        "word": "家长火烧孩子估值好几万烟卡",
+        "onboard_time": 1725187459,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1162610,
+        "num": 1162610,
+        "word": "马龙给全红婵买帽子",
+        "onboard_time": 1725189439,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5091,
+        "num": 958774,
+        "word": "文物里的国潮",
+        "onboard_time": 1725175639,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759656,
+        "num": 759656,
+        "word": "外卖小哥讲述发现皮包骨婴儿细节",
+        "onboard_time": 1725183319,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753121,
+        "num": 753121,
+        "word": "开学第一课",
+        "onboard_time": 1725190280,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675465,
+        "num": 675465,
+        "word": "高铁车厢里全是碎掉的大学生",
+        "onboard_time": 1725172458,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 668430,
+        "num": 674785,
+        "word": "BIGBANG三成员同台",
+        "onboard_time": 1725188779,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 507906,
+        "num": 673602,
+        "word": "余文乐老婆发文道歉",
+        "onboard_time": 1725179360,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272484,
+        "num": 672416,
+        "word": "5000年前相隔上千公里的龙撞脸了",
+        "onboard_time": 1725192559,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61004,
+        "num": 671395,
+        "word": "列车有权拒绝买短乘长旅客继续乘车",
+        "onboard_time": 1725192797,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670058,
+        "num": 670058,
+        "word": "郑思维 e中e",
+        "onboard_time": 1725190699,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 520144,
+        "num": 520144,
+        "word": "迪丽热巴朦胧纱裙",
+        "onboard_time": 1725191299,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518339,
+        "num": 518339,
+        "word": "北京晚霞",
+        "onboard_time": 1725190518,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516088,
+        "num": 516088,
+        "word": "内地奥运健儿代表团澳门联欢晚会",
+        "onboard_time": 1725190578,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 387175,
+        "num": 387175,
+        "word": "邓佳鑫 感谢你们还在",
+        "onboard_time": 1725193039,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367242,
+        "num": 367242,
+        "word": "我爸的开心消消乐停在了8739关",
+        "onboard_time": 1725170000,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57977,
+        "num": 363444,
+        "word": "抢占烟台开海的第一波海鲜",
+        "onboard_time": 1725192079,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 308969,
+        "num": 356184,
+        "word": "权志龙太阳大声合体",
+        "onboard_time": 1725186618,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 285980,
+        "num": 347224,
+        "word": "IU帮曹璐组合打歌",
+        "onboard_time": 1725193879,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 276285,
+        "num": 337614,
+        "word": "田曦薇婉拒王安宇",
+        "onboard_time": 1725181638,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 739131,
+        "num": 332996,
+        "word": "路虎女司机打退伍军人官方发声",
+        "onboard_time": 1725175639,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330040,
+        "num": 330040,
+        "word": "乒羽混双大魔王 向你开炮",
+        "onboard_time": 1725186138,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277244,
+        "num": 277244,
+        "word": "安徽17岁男生退学摆摊10天收入万元",
+        "onboard_time": 1725191299,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226191,
+        "num": 226191,
+        "word": "王俊凯深V黑西装",
+        "onboard_time": 1725192257,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223707,
+        "num": 223707,
+        "word": "游泳队合唱孤勇者",
+        "onboard_time": 1725193998,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221564,
+        "num": 221564,
+        "word": "央视频崩了",
+        "onboard_time": 1725193460,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 209858,
+        "num": 209858,
+        "word": "郑思维香港第二天vlog",
+        "onboard_time": 1725193398,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191190,
+        "num": 202842,
+        "word": "迪丽热巴九月行程图",
+        "onboard_time": 1725183680,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185099,
+        "num": 201758,
+        "word": "周也水光透感妆",
+        "onboard_time": 1725193519,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157686,
+        "num": 201737,
+        "word": "潘展乐解释自己的微博名",
+        "onboard_time": 1725193939,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201716,
+        "num": 201716,
+        "word": "盛李豪父亲回应儿子打羽毛球",
+        "onboard_time": 1725186078,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194439,
+        "num": 194439,
+        "word": "命案嫌犯致5死1伤后潜逃",
+        "onboard_time": 1725184998,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189426,
+        "num": 189426,
+        "word": "泰国遭辱骂女子事件后续",
+        "onboard_time": 1725189078,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168968,
+        "num": 168968,
+        "word": "嗯哼牙齿矫正",
+        "onboard_time": 1725179479,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176561,
+        "num": 165288,
+        "word": "原来爱情公寓的思想这么超前",
+        "onboard_time": 1725193158,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183526,
+        "num": 164807,
+        "word": "郑钦文美网赛程",
+        "onboard_time": 1725189260,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160840,
+        "num": 160840,
+        "word": "心动的信号 彭高孙乐言好嗑",
+        "onboard_time": 1725188600,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158367,
+        "num": 158367,
+        "word": "折腰",
+        "onboard_time": 1725194119,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152964,
+        "num": 152964,
+        "word": "澳门果然是福地",
+        "onboard_time": 1725178040,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150675,
+        "num": 150675,
+        "word": "俄初步确认失联直升机上22人全部遇难",
+        "onboard_time": 1725187158,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 144767,
+        "num": 144767,
+        "word": "J人和P人做PPT的区别",
+        "onboard_time": 1725181939,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142171,
+        "num": 142171,
+        "word": "王安全穿名牌 不像真的",
+        "onboard_time": 1725173058,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141291,
+        "num": 141291,
+        "word": "王一博就这么水灵灵的游过去了",
+        "onboard_time": 1725182119,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141053,
+        "num": 141053,
+        "word": "儿童手表AI否认南京大屠杀存在",
+        "onboard_time": 1725173658,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136653,
+        "num": 136653,
+        "word": "为什么大家坐高铁都不想选ABC座",
+        "onboard_time": 1725167240,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131406,
+        "num": 131406,
+        "word": "诚C秋季赛淘汰破百",
+        "onboard_time": 1725192978,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134310,
+        "num": 131267,
+        "word": "王楚钦和澳门市民自拍",
+        "onboard_time": 1725187578,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129587,
+        "num": 129587,
+        "word": "权志龙将于12月回归",
+        "onboard_time": 1725193998,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127781,
+        "num": 127781,
+        "word": "袁隆平儿子回应女儿入读中国农业大学",
+        "onboard_time": 1725194061,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125892,
+        "num": 125892,
+        "word": "莫斯科炼油厂因乌无人机袭击起火",
+        "onboard_time": 1725183200,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#立德树人#"
+    }
+  }
+}
