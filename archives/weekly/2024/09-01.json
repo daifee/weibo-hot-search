@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725194245983,
+  "endTime": 1725195276992,
   "band_list": [
     {
       "raw_hot": 1957251,
@@ -259,20 +259,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 776685,
+      "num": 776685,
+      "word": "开学第一课",
+      "onboard_time": 1725190280,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 764453,
+      "num": 764453,
+      "word": "折腰",
+      "onboard_time": 1725194119,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 756085,
       "num": 756085,
       "word": "霍启刚晒与郭晶晶旧照",
       "onboard_time": 1725147015,
       "rank": 32,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 753121,
-      "num": 753121,
-      "word": "开学第一课",
-      "onboard_time": 1725190280,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 721295,
@@ -403,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 611734,
+      "num": 611734,
+      "word": "游泳队合唱孤勇者",
+      "onboard_time": 1725193998,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 604547,
       "num": 604547,
       "word": "孙颖莎回应国乒与其他国家差距收窄",
@@ -425,6 +441,22 @@
       "onboard_time": 1725174799,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 582480,
+      "num": 612474,
+      "word": "北京晚霞",
+      "onboard_time": 1725190518,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 573961,
+      "num": 573961,
+      "word": "安徽17岁男生退学摆摊10天收入万元",
+      "onboard_time": 1725191299,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 558485,
@@ -475,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 518339,
-      "num": 518339,
-      "word": "北京晚霞",
-      "onboard_time": 1725190518,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 516088,
       "num": 516088,
       "word": "内地奥运健儿代表团澳门联欢晚会",
@@ -531,6 +555,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 498847,
+      "num": 498847,
+      "word": "邓佳鑫 感谢你们还在",
+      "onboard_time": 1725193039,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 495434,
       "num": 424101,
       "word": "每天吃2个鸡蛋身体会出问题吗",
@@ -545,6 +577,14 @@
       "onboard_time": 1725166459,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 475591,
+      "num": 475591,
+      "word": "IU帮曹璐组合打歌",
+      "onboard_time": 1725193879,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 475183,
@@ -683,20 +723,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 406655,
+      "num": 406655,
+      "word": "袁隆平儿子回应女儿入读中国农业大学",
+      "onboard_time": 1725194061,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 399674,
       "num": 399674,
       "word": "父亲回应婴儿出租屋饿到营养不良",
       "onboard_time": 1725173299,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 387175,
-      "num": 387175,
-      "word": "邓佳鑫 感谢你们还在",
-      "onboard_time": 1725193039,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 386747,
@@ -721,6 +761,14 @@
       "onboard_time": 1725147377,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 372203,
+      "num": 372203,
+      "word": "游泳队 人鱼上岸嗓子换腿",
+      "onboard_time": 1725194720,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 371355,
@@ -867,14 +915,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 285980,
-      "num": 347224,
-      "word": "IU帮曹璐组合打歌",
-      "onboard_time": 1725193879,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 285554,
       "num": 285554,
       "word": "老人在足浴店消费超30万儿子发声",
@@ -889,14 +929,6 @@
       "onboard_time": 1725187578,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 277244,
-      "num": 277244,
-      "word": "安徽17岁男生退学摆摊10天收入万元",
-      "onboard_time": 1725191299,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274368,
@@ -1019,12 +1051,28 @@
       "category": "国内时政,自然"
     },
     {
+      "raw_hot": 237086,
+      "num": 237086,
+      "word": "潘展乐解释自己的微博名",
+      "onboard_time": 1725193939,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234457,
       "num": 234457,
       "word": "上海最孤独饭店突然爆火",
       "onboard_time": 1725172458,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231053,
+      "num": 231053,
+      "word": "王俊凯刘宪华邓为红毯视频",
+      "onboard_time": 1725194240,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 230260,
@@ -1051,11 +1099,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223707,
-      "num": 223707,
-      "word": "游泳队合唱孤勇者",
-      "onboard_time": 1725193998,
-      "rank": 24,
+      "raw_hot": 224663,
+      "num": 224663,
+      "word": "郑思维香港第二天vlog",
+      "onboard_time": 1725193398,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -1089,14 +1137,6 @@
       "onboard_time": 1725181400,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209858,
-      "num": 209858,
-      "word": "郑思维香港第二天vlog",
-      "onboard_time": 1725193398,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 208226,
@@ -1153,6 +1193,22 @@
       "onboard_time": 1725158599,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205641,
+      "num": 511029,
+      "word": "泰国遭辱骂女子事件后续",
+      "onboard_time": 1725189078,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205575,
+      "num": 205575,
+      "word": "游泳队 全开麦",
+      "onboard_time": 1725194779,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 205253,
@@ -1307,6 +1363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 192310,
+      "num": 192310,
+      "word": "原来爱情公寓的思想这么超前",
+      "onboard_time": 1725193158,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191547,
       "num": 191547,
       "word": "DK对战T1",
@@ -1315,20 +1379,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 191113,
+      "num": 191113,
+      "word": "孤泳者",
+      "onboard_time": 1725194418,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190639,
       "num": 190639,
       "word": "庞博文 求你们别走",
       "onboard_time": 1725115462,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 189426,
-      "num": 511029,
-      "word": "泰国遭辱骂女子事件后续",
-      "onboard_time": 1725189078,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188422,
@@ -1353,6 +1417,14 @@
       "onboard_time": 1725171859,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187319,
+      "num": 187319,
+      "word": "权志龙将于12月回归",
+      "onboard_time": 1725193998,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 186243,
@@ -1385,6 +1457,14 @@
       "onboard_time": 1725193519,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 184205,
+      "num": 184205,
+      "word": "AG对战狼队",
+      "onboard_time": 1725191119,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 183689,
@@ -1457,14 +1537,6 @@
       "onboard_time": 1725174799,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 176561,
-      "num": 165288,
-      "word": "原来爱情公寓的思想这么超前",
-      "onboard_time": 1725193158,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 175377,
@@ -1635,22 +1707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158367,
-      "num": 158367,
-      "word": "折腰",
-      "onboard_time": 1725194119,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 157686,
-      "num": 201737,
-      "word": "潘展乐解释自己的微博名",
-      "onboard_time": 1725193939,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 157538,
       "num": 157538,
       "word": "家里有弟弟妹妹才懂这种感受",
@@ -1681,6 +1737,14 @@
       "onboard_time": 1725182958,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 153621,
+      "num": 153621,
+      "word": "好久没见过这么完整的古偶婚礼了",
+      "onboard_time": 1725194962,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 152034,
@@ -1843,6 +1907,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 134372,
+      "num": 671395,
+      "word": "列车有权拒绝买短乘长旅客继续乘车",
+      "onboard_time": 1725192797,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134040,
       "num": 134040,
       "word": "九月",
@@ -1883,14 +1955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129587,
-      "num": 129587,
-      "word": "权志龙将于12月回归",
-      "onboard_time": 1725193998,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129474,
       "num": 129474,
       "word": "王楚然凤冠霞帔妆造",
@@ -1923,20 +1987,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127781,
-      "num": 127781,
-      "word": "袁隆平儿子回应女儿入读中国农业大学",
-      "onboard_time": 1725194061,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127332,
       "num": 127332,
       "word": "蒋敦豪 太热了",
       "onboard_time": 1725183138,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127210,
+      "num": 127210,
+      "word": "柳舟记大结局",
+      "onboard_time": 1725195261,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 126074,
@@ -2227,6 +2291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 96255,
+      "num": 214763,
+      "word": "警方否认男婴被遗弃在出租屋",
+      "onboard_time": 1725194661,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96046,
       "num": 96046,
       "word": "樊振东学跳霹雳舞",
@@ -2355,14 +2427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 61004,
-      "num": 671395,
-      "word": "列车有权拒绝买短乘长旅客继续乘车",
-      "onboard_time": 1725192797,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 59729,
       "num": 468246,
       "word": "年近六十我妈沉迷于短视频创作",
@@ -2372,7 +2436,7 @@
     },
     {
       "raw_hot": 57977,
-      "num": 363444,
+      "num": 422503,
       "word": "抢占烟台开海的第一波海鲜",
       "onboard_time": 1725192079,
       "rank": 16,
@@ -2547,6 +2611,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 31761,
+      "num": 870341,
+      "word": "神十八乘组的太空日常",
+      "onboard_time": 1725194840,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30339,
       "num": 418742,
       "word": "塔图姆宠粉第一名",
@@ -2717,6 +2789,9 @@
     },
     {
       "word": "#在习近平的信中读懂中非命运共同体#"
+    },
+    {
+      "word": "#每个学生都是独一无二的个体#"
     }
   ]
 }
