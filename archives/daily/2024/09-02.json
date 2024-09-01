@@ -1,6 +1,6 @@
 {
   "startTime": 1725207925221,
-  "endTime": 1725208879458,
+  "endTime": 1725211039475,
   "band_list": [
     {
       "raw_hot": 1134403,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 711968,
-      "num": 494548,
+      "num": 561937,
       "word": "28岁机车网红三毛子因车祸去世",
       "onboard_time": 1725205880,
       "rank": 6,
@@ -283,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138380,
+      "num": 371788,
+      "word": "硫超标枸杞加工黑幕曝光",
+      "onboard_time": 1725208397,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137889,
       "num": 137889,
       "word": "解说怪咔",
@@ -403,6 +411,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79426,
+      "num": 79426,
+      "word": "樊振东唱歌前小声说欢呼一下",
+      "onboard_time": 1725199041,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 74720,
+      "num": 74720,
+      "word": "我15号的航班关你14号什么事",
+      "onboard_time": 1725210075,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 67726,
+      "num": 67726,
+      "word": "童禹坤方回应签约",
+      "onboard_time": 1725210315,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38130,
       "num": 432770,
       "word": "一路向前总会看到星光满天",
@@ -411,19 +443,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32495,
-      "num": 371788,
-      "word": "硫超标枸杞加工黑幕曝光",
-      "onboard_time": 1725208397,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14742,
+      "raw_hot": 18563,
       "num": 745778,
       "word": "神十八乘组的太空日常",
       "onboard_time": 1725194840,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14574,
+      "num": 199865,
+      "word": "武汉万物皆可热干",
+      "onboard_time": 1725210255,
+      "rank": 9,
       "category": "社会新闻"
     }
   ],
