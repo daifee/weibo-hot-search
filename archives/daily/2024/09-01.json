@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725165627466,
+  "endTime": 1725168094215,
   "band_list": [
     {
       "raw_hot": 1720220,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1555963,
-      "num": 1555963,
+      "raw_hot": 1681822,
+      "num": 1681822,
       "word": "刘谦团队集体食物中毒",
       "onboard_time": 1725163399,
       "rank": 6,
@@ -123,6 +123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 887081,
+      "num": 887081,
+      "word": "盛李豪他们都笑你",
+      "onboard_time": 1725165619,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 857252,
       "num": 932340,
       "word": "网红医生擦边软色情",
@@ -144,6 +152,14 @@
       "word": "黄子韬徐艺洋衣服互穿",
       "onboard_time": 1725114622,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 792230,
+      "num": 724859,
+      "word": "曾黎直播到一半灯塌了",
+      "onboard_time": 1725164360,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -227,6 +243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 495434,
+      "num": 424101,
+      "word": "每天吃2个鸡蛋身体会出问题吗",
+      "onboard_time": 1725161298,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 475183,
       "num": 475183,
       "word": "韩国女性回应在中国社交平台求助",
@@ -267,6 +291,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 433826,
+      "num": 433826,
+      "word": "孙颖莎回应国乒与其他国家差距收窄",
+      "onboard_time": 1725166100,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 432051,
       "num": 432051,
       "word": "杜淳老婆给杜淳发檀健次帅照",
@@ -299,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 419721,
+      "num": 430510,
+      "word": "刘学义劝纪凌尘找个路人缘好的",
+      "onboard_time": 1725166459,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 414416,
       "num": 414416,
       "word": "为什么出远门时要在冰箱放一枚硬币",
@@ -329,6 +369,14 @@
       "onboard_time": 1725147377,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 372626,
+      "num": 372626,
+      "word": "俄称击落多架企图袭击莫斯科的无人机",
+      "onboard_time": 1725167000,
+      "rank": 23,
+      "category": "国外时政"
     },
     {
       "raw_hot": 371355,
@@ -379,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 323530,
-      "num": 323530,
-      "word": "每天吃2个鸡蛋身体会出问题吗",
-      "onboard_time": 1725161298,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 315147,
       "num": 315147,
       "word": "徐海乔 有效出镜",
@@ -417,14 +457,6 @@
       "onboard_time": 1725117141,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 298776,
-      "num": 354440,
-      "word": "曾黎直播到一半灯塌了",
-      "onboard_time": 1725164360,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 294889,
@@ -515,6 +547,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 244893,
+      "num": 244893,
+      "word": "30岁当上奶奶是什么体验",
+      "onboard_time": 1725165079,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 240815,
       "num": 240815,
       "word": "孙颖莎说从来都不甘心失败",
@@ -547,12 +587,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215329,
+      "num": 425438,
+      "word": "藏海花1个人睡120000平",
+      "onboard_time": 1725167179,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208226,
       "num": 326466,
       "word": "很难不中卢昱晓的美人计",
       "onboard_time": 1725123438,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207883,
+      "num": 207883,
+      "word": "为什么大家坐高铁都不想选ABC座",
+      "onboard_time": 1725167240,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 206761,
@@ -571,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203825,
+      "num": 272359,
+      "word": "成毅打戏路透",
+      "onboard_time": 1725166880,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 203334,
       "num": 282083,
       "word": "再被骄阳伴我暖一次吧",
@@ -579,12 +643,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201250,
+      "num": 201250,
+      "word": "9种看似偷懒的行为其实巨健康",
+      "onboard_time": 1725155479,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 200766,
       "num": 200766,
       "word": "开学第一天",
       "onboard_time": 1725158778,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 199244,
+      "num": 270172,
+      "word": "王一博把刀砍断了",
+      "onboard_time": 1725166339,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 199162,
@@ -617,14 +697,6 @@
       "onboard_time": 1725105979,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192145,
-      "num": 192145,
-      "word": "9种看似偷懒的行为其实巨健康",
-      "onboard_time": 1725155479,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 190639,
@@ -715,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170543,
+      "num": 170543,
+      "word": "俄乌局势新进展",
+      "onboard_time": 1725167119,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 161740,
       "num": 161740,
       "word": "任敏工作室否认恋情",
@@ -729,6 +809,14 @@
       "onboard_time": 1725117800,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158416,
+      "num": 251897,
+      "word": "边水往事",
+      "onboard_time": 1725165802,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 155206,
@@ -779,12 +867,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142363,
+      "num": 142363,
+      "word": "家里有弟弟妹妹才懂这种感受",
+      "onboard_time": 1725167240,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137440,
       "num": 137440,
       "word": "九月文案",
       "onboard_time": 1725147855,
       "rank": 38,
       "category": "情感,读书作家"
+    },
+    {
+      "raw_hot": 137021,
+      "num": 137021,
+      "word": "返校发现宿舍已长出半人高的草",
+      "onboard_time": 1725168080,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 135483,
+      "num": 135483,
+      "word": "檀健次官宣时装周",
+      "onboard_time": 1725167659,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 134040,
@@ -809,14 +921,6 @@
       "onboard_time": 1725154697,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131588,
-      "num": 131588,
-      "word": "30岁当上奶奶是什么体验",
-      "onboard_time": 1725165079,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 130107,
@@ -1091,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60015,
+      "num": 587516,
+      "word": "四胞胎系外地户口上不了公立学校",
+      "onboard_time": 1725167479,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56053,
       "num": 56053,
       "word": "肖战下班鞠躬感谢工作人员",
@@ -1107,8 +1219,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47891,
+      "num": 426985,
+      "word": "谁懂SKII新品的含金量",
+      "onboard_time": 1725164659,
+      "rank": 48,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 47733,
-      "num": 351899,
+      "num": 432829,
       "word": "逆水寒请你吃雪糕",
       "onboard_time": 1725164602,
       "rank": 44,
@@ -1121,6 +1241,14 @@
       "onboard_time": 1725111981,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45886,
+      "num": 436889,
+      "word": "放空成了消费社会的奢侈品",
+      "onboard_time": 1725166940,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43897,
@@ -1203,14 +1331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 32688,
-      "num": 349445,
-      "word": "谁懂SKII新品的含金量",
-      "onboard_time": 1725164659,
-      "rank": 48,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 31904,
       "num": 345177,
       "word": "乐道智能系统首发主打10年好用",
@@ -1235,12 +1355,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 28701,
+      "num": 181440,
+      "word": "陈昊宇美到发光",
+      "onboard_time": 1725167600,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27452,
       "num": 491150,
       "word": "湖南汛情受损学校绝大部分已修复",
       "onboard_time": 1725161778,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27441,
+      "num": 207983,
+      "word": "易烊千玺王嘉尔阿玛尼活动",
+      "onboard_time": 1725164659,
+      "rank": 45,
+      "category": "电影,时尚"
     },
     {
       "raw_hot": 26597,
@@ -1267,12 +1403,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 24351,
-      "num": 176756,
-      "word": "易烊千玺王嘉尔阿玛尼活动",
-      "onboard_time": 1725164659,
-      "rank": 45,
-      "category": "电影,时尚"
+      "raw_hot": 21529,
+      "num": 184598,
+      "word": "烟台开海了吃货的天堂来了",
+      "onboard_time": 1725166819,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 15617,
