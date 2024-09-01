@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725159899673,
+  "endTime": 1725161261798,
   "band_list": [
     {
       "raw_hot": 1720220,
@@ -25,6 +25,14 @@
       "onboard_time": 1725155658,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1081737,
+      "num": 1081737,
+      "word": "福宝已进入假孕状态",
+      "onboard_time": 1725159559,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1022491,
@@ -67,8 +75,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 887141,
-      "num": 887141,
+      "raw_hot": 890680,
+      "num": 890680,
       "word": "明年6月到9月没有任何假期",
       "onboard_time": 1725154399,
       "rank": 29,
@@ -147,12 +155,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 508859,
+      "num": 508859,
+      "word": "王嘉尔易烊千玺生图",
+      "onboard_time": 1725157399,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 501884,
       "num": 501884,
       "word": "熬夜刷视频睡到中午为何伤身",
       "onboard_time": 1725125417,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 492506,
+      "num": 492506,
+      "word": "央媒探访阴阳价格面馆",
+      "onboard_time": 1725157399,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 475183,
@@ -187,8 +211,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 441359,
-      "num": 441359,
+      "raw_hot": 445191,
+      "num": 445191,
       "word": "马拉松参赛者半途纷纷去商店买水",
       "onboard_time": 1725154938,
       "rank": 43,
@@ -219,14 +243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 415559,
-      "num": 415559,
-      "word": "王嘉尔易烊千玺生图",
-      "onboard_time": 1725157399,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 414416,
       "num": 414416,
       "word": "为什么出远门时要在冰箱放一枚硬币",
@@ -241,6 +257,14 @@
       "onboard_time": 1725150558,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 389376,
+      "num": 389376,
+      "word": "王楚钦覃海洋擦肩而过",
+      "onboard_time": 1725158778,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 386747,
@@ -289,6 +313,14 @@
       "onboard_time": 1725095659,
       "rank": 17,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 329208,
+      "num": 399791,
+      "word": "第一批打司美格鲁肽的人已经后悔了",
+      "onboard_time": 1725160218,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 325608,
@@ -347,14 +379,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 291342,
-      "num": 291342,
-      "word": "王楚钦覃海洋擦肩而过",
-      "onboard_time": 1725158778,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 286672,
       "num": 464082,
       "word": "易烊千玺亮相威尼斯晚宴",
@@ -368,14 +392,6 @@
       "word": "老人在足浴店消费超30万儿子发声",
       "onboard_time": 1725112281,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 278174,
-      "num": 278174,
-      "word": "央媒探访阴阳价格面馆",
-      "onboard_time": 1725157399,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -395,6 +411,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250473,
+      "num": 250473,
+      "word": "大学生课表放微信置顶",
+      "onboard_time": 1725157877,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 240815,
+      "num": 240815,
+      "word": "孙颖莎说从来都不甘心失败",
+      "onboard_time": 1725157518,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239676,
       "num": 304888,
       "word": "王一博拔蚂蟥好吓人",
@@ -411,28 +443,20 @@
       "category": "国内时政,自然"
     },
     {
-      "raw_hot": 226177,
-      "num": 226177,
-      "word": "福宝已进入假孕状态",
-      "onboard_time": 1725159559,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217803,
-      "num": 217803,
-      "word": "孙颖莎说从来都不甘心失败",
-      "onboard_time": 1725157518,
-      "rank": 27,
+      "raw_hot": 218086,
+      "num": 218086,
+      "word": "王楚钦马龙互学对方发球",
+      "onboard_time": 1725159019,
+      "rank": 37,
       "category": "体育"
     },
     {
-      "raw_hot": 211756,
-      "num": 211756,
-      "word": "大学生课表放微信置顶",
-      "onboard_time": 1725157877,
-      "rank": 33,
-      "category": "教育"
+      "raw_hot": 214013,
+      "num": 276670,
+      "word": "陈昊宇新剧",
+      "onboard_time": 1725160218,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 208226,
@@ -448,14 +472,6 @@
       "word": "王楚钦的vlog没有王楚钦",
       "onboard_time": 1725156738,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 205100,
-      "num": 205100,
-      "word": "王楚钦马龙互学对方发球",
-      "onboard_time": 1725159019,
-      "rank": 37,
       "category": "体育"
     },
     {
@@ -499,6 +515,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 188948,
+      "num": 272109,
+      "word": "赵丽颖九月行程",
+      "onboard_time": 1725160759,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185100,
       "num": 185100,
       "word": "台风珊珊已致日本6死128伤",
@@ -512,6 +536,14 @@
       "word": "收巧克力被开除园长将幼儿园告上法庭",
       "onboard_time": 1725134592,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180842,
+      "num": 180842,
+      "word": "一针瘦20斤网红神药开始在县城流行",
+      "onboard_time": 1725160339,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -561,6 +593,14 @@
       "onboard_time": 1725153498,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164501,
+      "num": 219355,
+      "word": "沈月武艺往那一站就是俩手办",
+      "onboard_time": 1725160038,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 161740,
@@ -675,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127311,
+      "num": 127311,
+      "word": "中石油",
+      "onboard_time": 1725161058,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 125787,
       "num": 125787,
       "word": "王楚然凤冠霞帔妆造",
@@ -705,6 +753,14 @@
       "onboard_time": 1725119479,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 122756,
+      "num": 336995,
+      "word": "女子1个月在6家餐厅吃出毛发",
+      "onboard_time": 1725158599,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121112,
@@ -801,6 +857,14 @@
       "onboard_time": 1725099560,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104260,
+      "num": 104260,
+      "word": "9种看似偷懒的行为其实巨健康",
+      "onboard_time": 1725155479,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 101757,
@@ -931,14 +995,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 49567,
-      "num": 336995,
-      "word": "女子1个月在6家餐厅吃出毛发",
-      "onboard_time": 1725158599,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 47337,
       "num": 56020,
       "word": "孙颖莎说生活中要有松弛感",
@@ -953,6 +1009,14 @@
       "onboard_time": 1725144433,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42331,
+      "num": 1078685,
+      "word": "9月第一天",
+      "onboard_time": 1725161058,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41542,
@@ -1081,6 +1145,9 @@
     },
     {
       "word": "#教育引导学生立鸿鹄志做奋斗者#"
+    },
+    {
+      "word": "#系好人生的第一颗纽扣#"
     }
   ]
 }
