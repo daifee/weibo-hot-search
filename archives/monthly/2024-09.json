@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725230266097,
+  "endTime": 1725232802187,
   "band_list": [
     {
       "raw_hot": 2103437,
@@ -339,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 792771,
+      "num": 814360,
+      "word": "28岁机车网红三毛子因车祸去世",
+      "onboard_time": 1725205880,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 792230,
       "num": 776153,
       "word": "曾黎直播到一半灯塌了",
@@ -385,14 +393,6 @@
       "onboard_time": 1725205041,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 711968,
-      "num": 561937,
-      "word": "28岁机车网红三毛子因车祸去世",
-      "onboard_time": 1725205880,
-      "rank": 6,
-      "category": "网红"
     },
     {
       "raw_hot": 711528,
@@ -595,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 575867,
+      "num": 575867,
+      "word": "多地学校换上了可躺式课桌椅",
+      "onboard_time": 1725219911,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 573961,
       "num": 573961,
       "word": "安徽17岁男生退学摆摊10天收入万元",
@@ -632,6 +640,14 @@
       "word": "儿童手表AI否认南京大屠杀存在",
       "onboard_time": 1725173658,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 546494,
+      "num": 546494,
+      "word": "大爷拿走价值3千兔子问你能把我怎样",
+      "onboard_time": 1725202282,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -859,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424732,
+      "num": 424732,
+      "word": "退役军人安置条例今起施行",
+      "onboard_time": 1725212113,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 424684,
       "num": 424684,
       "word": "贾一凡vlog香港篇",
@@ -985,14 +1009,6 @@
       "onboard_time": 1725167179,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 341158,
-      "num": 341158,
-      "word": "多地学校换上了可躺式课桌椅",
-      "onboard_time": 1725219911,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 339058,
@@ -1129,14 +1145,6 @@
       "onboard_time": 1725147015,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 289293,
-      "num": 289293,
-      "word": "大爷拿走价值3千兔子问你能把我怎样",
-      "onboard_time": 1725202282,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 286672,
@@ -1371,14 +1379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 226792,
-      "num": 226792,
-      "word": "退役军人安置条例今起施行",
-      "onboard_time": 1725212113,
-      "rank": 3,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 226191,
       "num": 226191,
       "word": "王俊凯深V黑西装",
@@ -1588,7 +1588,7 @@
     },
     {
       "raw_hot": 201838,
-      "num": 189678,
+      "num": 190537,
       "word": "郑钦文美网赛程",
       "onboard_time": 1725189260,
       "rank": 38,
@@ -2411,6 +2411,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 140415,
+      "num": 140415,
+      "word": "陈奕迅邀请游泳队来演唱会一起唱",
+      "onboard_time": 1725232216,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 139526,
       "num": 139526,
       "word": "曼联vs利物浦",
@@ -2497,6 +2505,14 @@
       "onboard_time": 1725150137,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132149,
+      "num": 132149,
+      "word": "秋瓷炫带6岁儿子逛超市",
+      "onboard_time": 1725211455,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 131778,
@@ -2715,6 +2731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117120,
+      "num": 117120,
+      "word": "我15号的航班关你14号什么事",
+      "onboard_time": 1725210075,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 116739,
       "num": 244120,
       "word": "林依轮儿子出道演话剧了",
@@ -2737,14 +2761,6 @@
       "onboard_time": 1725185958,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115779,
-      "num": 115779,
-      "word": "秋瓷炫带6岁儿子逛超市",
-      "onboard_time": 1725211455,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 115738,
@@ -2931,12 +2947,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82238,
-      "num": 82238,
-      "word": "我15号的航班关你14号什么事",
-      "onboard_time": 1725210075,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 78534,
+      "num": 78534,
+      "word": "1米9的孙丞潇轻松下腰到1米1",
+      "onboard_time": 1725229513,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 76828,
@@ -2979,6 +2995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69319,
+      "num": 69319,
+      "word": "头上冒出白头发千万别拔",
+      "onboard_time": 1725223390,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 68636,
       "num": 68636,
       "word": "赵奕欢上了郝蕾表演课",
@@ -3003,6 +3027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 67423,
+      "num": 67423,
+      "word": "潘玮柏的演唱会被于洋取消了",
+      "onboard_time": 1725228252,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 66431,
       "num": 66431,
       "word": "华晨宇说唢呐是乐器之王",
@@ -3017,6 +3049,22 @@
       "onboard_time": 1725161058,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64880,
+      "num": 64880,
+      "word": "外国人也对这个词这么敏感",
+      "onboard_time": 1725224652,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 64860,
+      "num": 64860,
+      "word": "当我凌晨两点想前男友了",
+      "onboard_time": 1725232757,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 64359,
@@ -3051,6 +3099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58444,
+      "num": 58444,
+      "word": "曼联0比3利物浦",
+      "onboard_time": 1725219192,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57977,
       "num": 422503,
       "word": "抢占烟台开海的第一波海鲜",
@@ -3059,12 +3115,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 56436,
+      "num": 56436,
+      "word": "全员瑕疵皮的国产剧来了",
+      "onboard_time": 1725217152,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 56053,
       "num": 56053,
       "word": "肖战下班鞠躬感谢工作人员",
       "onboard_time": 1725104839,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55887,
+      "num": 55887,
+      "word": "姆巴佩梅开二度",
+      "onboard_time": 1725231976,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 54218,
@@ -3083,6 +3155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 53049,
+      "num": 53049,
+      "word": "覃海洋发孤勇者视频通知陈奕迅",
+      "onboard_time": 1725231736,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51547,
       "num": 591122,
       "word": "调研称孩子们都希望课间能到操场玩",
@@ -3099,12 +3179,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50822,
+      "num": 50822,
+      "word": "王楚钦台下爆笑孤勇者",
+      "onboard_time": 1725232396,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50368,
       "num": 401076,
       "word": "有被这瓶面霜的成分表惊到",
       "onboard_time": 1725176898,
       "rank": 29,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 49251,
+      "num": 49251,
+      "word": "相亲相到正常人反而害怕",
+      "onboard_time": 1725232516,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 48652,
+      "num": 48652,
+      "word": "皇马2比0贝蒂斯",
+      "onboard_time": 1725232696,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 47891,
@@ -3129,6 +3233,14 @@
       "onboard_time": 1725164602,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 47524,
+      "num": 47524,
+      "word": "全红婵收到澳门文创乌龟",
+      "onboard_time": 1725225490,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 47337,
@@ -3163,44 +3275,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 41740,
-      "num": 41740,
-      "word": "头上冒出白头发千万别拔",
-      "onboard_time": 1725223390,
-      "rank": 43,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 41542,
       "num": 283228,
       "word": "警方采集DNA寻找高空抛物肇事者",
       "onboard_time": 1725124277,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40975,
-      "num": 40975,
-      "word": "潘玮柏的演唱会被于洋取消了",
-      "onboard_time": 1725228252,
-      "rank": 43,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 40221,
-      "num": 40221,
-      "word": "曼联0比3利物浦",
-      "onboard_time": 1725219192,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 40009,
-      "num": 40009,
-      "word": "外国人也对这个词这么敏感",
-      "onboard_time": 1725224652,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 39325,
@@ -3257,14 +3337,6 @@
       "onboard_time": 1725136390,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 35129,
-      "num": 36665,
-      "word": "全红婵收到澳门文创乌龟",
-      "onboard_time": 1725225490,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 34651,
@@ -3331,14 +3403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31410,
-      "num": 36662,
-      "word": "全员瑕疵皮的国产剧来了",
-      "onboard_time": 1725217152,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 30339,
       "num": 418742,
       "word": "塔图姆宠粉第一名",
@@ -3385,14 +3449,6 @@
       "onboard_time": 1725199521,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24931,
-      "num": 31147,
-      "word": "1米9的孙丞潇轻松下腰到1米1",
-      "onboard_time": 1725229513,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 24852,
