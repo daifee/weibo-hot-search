@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725168094215,
+  "endTime": 1725169066829,
   "band_list": [
     {
       "raw_hot": 1720220,
@@ -57,6 +57,14 @@
       "onboard_time": 1725160218,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1048519,
+      "num": 1048519,
+      "word": "盛李豪他们都笑你",
+      "onboard_time": 1725165619,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1022491,
@@ -123,14 +131,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 887081,
-      "num": 887081,
-      "word": "盛李豪他们都笑你",
-      "onboard_time": 1725165619,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 857252,
       "num": 932340,
       "word": "网红医生擦边软色情",
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 792230,
-      "num": 724859,
+      "num": 776153,
       "word": "曾黎直播到一半灯塌了",
       "onboard_time": 1725164360,
       "rank": 38,
@@ -193,6 +193,14 @@
       "onboard_time": 1725114682,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 577269,
+      "num": 577269,
+      "word": "孙颖莎回应国乒与其他国家差距收窄",
+      "onboard_time": 1725166100,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 558485,
@@ -251,6 +259,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 477595,
+      "num": 477595,
+      "word": "刘学义劝纪凌尘找个路人缘好的",
+      "onboard_time": 1725166459,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 475183,
       "num": 475183,
       "word": "韩国女性回应在中国社交平台求助",
@@ -291,14 +307,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 433826,
-      "num": 433826,
-      "word": "孙颖莎回应国乒与其他国家差距收窄",
-      "onboard_time": 1725166100,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 432051,
       "num": 432051,
       "word": "杜淳老婆给杜淳发檀健次帅照",
@@ -331,14 +339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 419721,
-      "num": 430510,
-      "word": "刘学义劝纪凌尘找个路人缘好的",
-      "onboard_time": 1725166459,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 414416,
       "num": 414416,
       "word": "为什么出远门时要在冰箱放一枚硬币",
@@ -363,20 +363,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 382061,
+      "num": 382061,
+      "word": "俄称击落多架企图袭击莫斯科的无人机",
+      "onboard_time": 1725167000,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 381425,
       "num": 470832,
       "word": "何广智 不会带团队只能自己干到死",
       "onboard_time": 1725147377,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 372626,
-      "num": 372626,
-      "word": "俄称击落多架企图袭击莫斯科的无人机",
-      "onboard_time": 1725167000,
-      "rank": 23,
-      "category": "国外时政"
     },
     {
       "raw_hot": 371355,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318065,
+      "num": 425438,
+      "word": "藏海花1个人睡120000平",
+      "onboard_time": 1725167179,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 315147,
       "num": 315147,
       "word": "徐海乔 有效出镜",
@@ -457,6 +465,14 @@
       "onboard_time": 1725117141,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298478,
+      "num": 298478,
+      "word": "为什么大家坐高铁都不想选ABC座",
+      "onboard_time": 1725167240,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 294889,
@@ -587,12 +603,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215329,
-      "num": 425438,
-      "word": "藏海花1个人睡120000平",
-      "onboard_time": 1725167179,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 217620,
+      "num": 217620,
+      "word": "返校发现宿舍已长出半人高的草",
+      "onboard_time": 1725168080,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 208226,
@@ -601,14 +617,6 @@
       "onboard_time": 1725123438,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 207883,
-      "num": 207883,
-      "word": "为什么大家坐高铁都不想选ABC座",
-      "onboard_time": 1725167240,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 206761,
@@ -705,6 +713,14 @@
       "onboard_time": 1725115462,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 185554,
+      "num": 165338,
+      "word": "马龙只是看着乖",
+      "onboard_time": 1725168439,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 185100,
@@ -883,12 +899,12 @@
       "category": "情感,读书作家"
     },
     {
-      "raw_hot": 137021,
-      "num": 137021,
-      "word": "返校发现宿舍已长出半人高的草",
-      "onboard_time": 1725168080,
-      "rank": 48,
-      "category": "教育"
+      "raw_hot": 135561,
+      "num": 587516,
+      "word": "四胞胎系外地户口上不了公立学校",
+      "onboard_time": 1725167479,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135483,
@@ -1011,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117440,
+      "num": 117440,
+      "word": "潘展乐说想挑战男子100自极限",
+      "onboard_time": 1725168858,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116544,
       "num": 120368,
       "word": "苏醒发长文支持王铮亮",
@@ -1073,6 +1097,14 @@
       "onboard_time": 1725099560,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104343,
+      "num": 165358,
+      "word": "李克勤擦口红这段",
+      "onboard_time": 1725168258,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 101757,
@@ -1195,11 +1227,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60015,
-      "num": 587516,
-      "word": "四胞胎系外地户口上不了公立学校",
-      "onboard_time": 1725167479,
-      "rank": 9,
+      "raw_hot": 63455,
+      "num": 436889,
+      "word": "放空成了消费社会的奢侈品",
+      "onboard_time": 1725166940,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1241,14 +1273,6 @@
       "onboard_time": 1725111981,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 45886,
-      "num": 436889,
-      "word": "放空成了消费社会的奢侈品",
-      "onboard_time": 1725166940,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43897,
@@ -1307,6 +1331,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 34651,
+      "num": 207983,
+      "word": "易烊千玺王嘉尔阿玛尼活动",
+      "onboard_time": 1725164659,
+      "rank": 45,
+      "category": "电影,时尚"
+    },
+    {
       "raw_hot": 34599,
       "num": 394203,
       "word": "狂刷到预约结束也没抢到博物馆门票",
@@ -1347,6 +1379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 29864,
+      "num": 391678,
+      "word": "陈昊宇美到发光",
+      "onboard_time": 1725167600,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29778,
       "num": 45924,
       "word": "汪苏泷合肥演唱会罗曼城打卡镜头",
@@ -1355,28 +1395,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 28701,
-      "num": 181440,
-      "word": "陈昊宇美到发光",
-      "onboard_time": 1725167600,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 27452,
       "num": 491150,
       "word": "湖南汛情受损学校绝大部分已修复",
       "onboard_time": 1725161778,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27441,
-      "num": 207983,
-      "word": "易烊千玺王嘉尔阿玛尼活动",
-      "onboard_time": 1725164659,
-      "rank": 45,
-      "category": "电影,时尚"
     },
     {
       "raw_hot": 26597,
@@ -1403,7 +1427,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21529,
+      "raw_hot": 22582,
       "num": 184598,
       "word": "烟台开海了吃货的天堂来了",
       "onboard_time": 1725166819,
