@@ -1,21 +1,21 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725196986849,
+  "endTime": 1725197676228,
   "band_list": [
+    {
+      "raw_hot": 2103437,
+      "num": 2103437,
+      "word": "袁隆平儿子回应女儿入读中国农业大学",
+      "onboard_time": 1725194061,
+      "rank": 48,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1957251,
       "num": 429909,
       "word": "路虎女司机打退伍军人官方发声",
       "onboard_time": 1725175639,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1888923,
-      "num": 1888923,
-      "word": "袁隆平儿子回应女儿入读中国农业大学",
-      "onboard_time": 1725194061,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -67,20 +67,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1510516,
+      "num": 1510516,
+      "word": "樊振东贴脸开大盛李豪",
+      "onboard_time": 1725195619,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1491431,
+      "num": 1491431,
+      "word": "折腰",
+      "onboard_time": 1725194119,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1442203,
       "num": 1442203,
       "word": "生4胞胎一家9口挤2间小卧室",
       "onboard_time": 1725113419,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1396653,
-      "num": 1396653,
-      "word": "折腰",
-      "onboard_time": 1725194119,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 1370603,
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 776685,
-      "num": 1413721,
+      "num": 1493705,
       "word": "开学第一课",
       "onboard_time": 1725190280,
       "rank": 19,
@@ -296,14 +304,6 @@
       "word": "乒羽混双合照",
       "onboard_time": 1725177679,
       "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 712066,
-      "num": 712066,
-      "word": "樊振东贴脸开大盛李豪",
-      "onboard_time": 1725195619,
-      "rank": 5,
       "category": "体育"
     },
     {
@@ -459,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 593346,
+      "num": 607373,
+      "word": "潘展乐解释自己的微博名",
+      "onboard_time": 1725193939,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 587250,
       "num": 587250,
       "word": "莎头组合终于合体了",
@@ -505,14 +513,6 @@
       "onboard_time": 1725121458,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 539659,
-      "num": 607373,
-      "word": "潘展乐解释自己的微博名",
-      "onboard_time": 1725193939,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 537888,
@@ -763,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 398014,
+      "num": 398014,
+      "word": "李庚希金鹿奖影后",
+      "onboard_time": 1725197241,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 386747,
       "num": 386747,
       "word": "盛李豪 死腿协调点别搞我",
@@ -897,6 +905,14 @@
       "onboard_time": 1725117141,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300950,
+      "num": 300950,
+      "word": "龙道一rap",
+      "onboard_time": 1725196581,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 297247,
@@ -1083,6 +1099,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233701,
+      "num": 233701,
+      "word": "原来爱情公寓的思想这么超前",
+      "onboard_time": 1725193158,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 233311,
+      "num": 233311,
+      "word": "刘诗诗出发纽约时装周",
+      "onboard_time": 1725197121,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230260,
       "num": 230260,
       "word": "泰国醉酒男葬礼上闹事被乱抢打死",
@@ -1097,14 +1129,6 @@
       "onboard_time": 1725182119,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 226799,
-      "num": 226799,
-      "word": "原来爱情公寓的思想这么超前",
-      "onboard_time": 1725193158,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 226191,
@@ -1155,12 +1179,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 209423,
-      "num": 209423,
-      "word": "龙道一rap",
-      "onboard_time": 1725196581,
-      "rank": 22,
-      "category": "体育"
+      "raw_hot": 213974,
+      "num": 213974,
+      "word": "彭昱畅金鹿奖影帝",
+      "onboard_time": 1725197061,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 208226,
@@ -1307,6 +1331,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 200728,
+      "num": 200728,
+      "word": "谭松韵看林俊杰演唱会",
+      "onboard_time": 1725197061,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199659,
       "num": 199659,
       "word": "权志龙作为嘉宾出席太阳演唱会",
@@ -1321,6 +1353,14 @@
       "onboard_time": 1725151817,
       "rank": 49,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 198388,
+      "num": 198388,
+      "word": "樊振东清唱野孩子",
+      "onboard_time": 1725197301,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 197454,
@@ -1371,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194160,
+      "num": 194160,
+      "word": "柳舟记大结局",
+      "onboard_time": 1725195261,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193829,
       "num": 193829,
       "word": "花叶姐妹单飞不解散",
@@ -1411,8 +1459,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191073,
+      "num": 191073,
+      "word": "AG对战狼队",
+      "onboard_time": 1725191119,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 190975,
-      "num": 214763,
+      "num": 289086,
       "word": "警方否认男婴被遗弃在出租屋",
       "onboard_time": 1725194661,
       "rank": 28,
@@ -1491,14 +1547,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 184205,
-      "num": 184205,
-      "word": "AG对战狼队",
-      "onboard_time": 1725191119,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 183689,
       "num": 182901,
       "word": "盛李豪全红婵合体打羽毛球",
@@ -1513,6 +1561,14 @@
       "onboard_time": 1725195859,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182127,
+      "num": 182127,
+      "word": "佟丽娅腰间蝴蝶结好大",
+      "onboard_time": 1725197301,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 182009,
@@ -1635,14 +1691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173507,
-      "num": 173507,
-      "word": "柳舟记大结局",
-      "onboard_time": 1725195261,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 173432,
       "num": 173432,
       "word": "室友吃芒果导致我过敏进了医院",
@@ -1699,6 +1747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163778,
+      "num": 183288,
+      "word": "潘展乐把自己献给热爱的事",
+      "onboard_time": 1725197540,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162254,
       "num": 162254,
       "word": "澳门颁赠国家奥运健儿1600万元奖金",
@@ -1721,6 +1777,14 @@
       "onboard_time": 1725188600,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159428,
+      "num": 671395,
+      "word": "列车有权拒绝买短乘长旅客继续乘车",
+      "onboard_time": 1725192797,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159250,
@@ -1763,12 +1827,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157125,
+      "num": 157125,
+      "word": "游泳队各有各的精彩",
+      "onboard_time": 1725195379,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156765,
       "num": 156765,
       "word": "檀健次 老让我脱",
       "onboard_time": 1725175578,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 156677,
+      "num": 156677,
+      "word": "我们的歌",
+      "onboard_time": 1725196880,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 155206,
@@ -1915,14 +1995,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 140648,
-      "num": 671395,
-      "word": "列车有权拒绝买短乘长旅客继续乘车",
-      "onboard_time": 1725192797,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140522,
       "num": 140522,
       "word": "仙逆",
@@ -1971,28 +2043,12 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 135515,
-      "num": 135515,
-      "word": "游泳队各有各的精彩",
-      "onboard_time": 1725195379,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 135483,
       "num": 135483,
       "word": "檀健次官宣时装周",
       "onboard_time": 1725167659,
       "rank": 49,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 135159,
-      "num": 135159,
-      "word": "我们的歌",
-      "onboard_time": 1725196880,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 134040,
@@ -2211,6 +2267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117295,
+      "num": 604725,
+      "word": "南京溧水试点未成年人怀孕就诊强制弹窗提醒",
+      "onboard_time": 1725195740,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116739,
       "num": 244120,
       "word": "林依轮儿子出道演话剧了",
@@ -2408,14 +2472,6 @@
       "word": "全球AI色情换脸受害者中一半是韩国人",
       "onboard_time": 1725123797,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81108,
-      "num": 604725,
-      "word": "南京溧水试点未成年人怀孕就诊强制弹窗提醒",
-      "onboard_time": 1725195740,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2684,7 +2740,7 @@
     },
     {
       "raw_hot": 33359,
-      "num": 144063,
+      "num": 157534,
       "word": "秋天的第一顿烟台海鲜",
       "onboard_time": 1725195619,
       "rank": 39,
