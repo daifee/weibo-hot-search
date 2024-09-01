@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725147448526,
+  "endTime": 1725155329792,
   "band_list": [
     {
       "raw_hot": 1442203,
@@ -9,6 +9,14 @@
       "onboard_time": 1725113419,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 956117,
+      "num": 466744,
+      "word": "迪丽热巴回到家一看手机天塌了",
+      "onboard_time": 1725145694,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 938284,
@@ -43,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 811293,
+      "num": 811293,
+      "word": "潘展乐 3米我随便跳",
+      "onboard_time": 1725151158,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 804393,
       "num": 804393,
       "word": "黄子韬徐艺洋衣服互穿",
@@ -51,12 +67,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 677686,
-      "num": 226815,
-      "word": "迪丽热巴回到家一看手机天塌了",
-      "onboard_time": 1725145694,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 756085,
+      "num": 756085,
+      "word": "霍启刚晒与郭晶晶旧照",
+      "onboard_time": 1725147015,
+      "rank": 32,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 619793,
+      "num": 619793,
+      "word": "菲律宾撞击我海警船现场态势图",
+      "onboard_time": 1725147015,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 598386,
@@ -107,6 +131,30 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 475183,
+      "num": 475183,
+      "word": "韩国女性回应在中国社交平台求助",
+      "onboard_time": 1725149597,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 467792,
+      "num": 467792,
+      "word": "樊振东盛李豪 石狮子和气球人",
+      "onboard_time": 1725151337,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 463828,
+      "num": 463828,
+      "word": "9月你好",
+      "onboard_time": 1725146355,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453225,
       "num": 453225,
       "word": "黄雨婷晒自拍合集",
@@ -131,12 +179,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 393359,
+      "num": 393359,
+      "word": "为什么出远门时要在冰箱放一枚硬币",
+      "onboard_time": 1725148456,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 386747,
       "num": 386747,
       "word": "盛李豪 死腿协调点别搞我",
       "onboard_time": 1725097819,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 381425,
+      "num": 470832,
+      "word": "何广智 不会带团队只能自己干到死",
+      "onboard_time": 1725147377,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 371355,
@@ -187,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294889,
+      "num": 468109,
+      "word": "谭松韵侯明昊吻戏",
+      "onboard_time": 1725149777,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 291655,
       "num": 152334,
       "word": "150万安置费和每月稳定8200选哪个",
@@ -203,12 +275,76 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274368,
+      "num": 274368,
+      "word": "刘亦菲飞吻张靓颖",
+      "onboard_time": 1725152298,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 254266,
+      "num": 254266,
+      "word": "全红婵贴脸开大干饭哥",
+      "onboard_time": 1725145694,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 248551,
+      "num": 248551,
+      "word": "易烊千玺亮相威尼斯晚宴",
+      "onboard_time": 1725153558,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 239676,
       "num": 304888,
       "word": "王一博拔蚂蟥好吓人",
       "onboard_time": 1725109639,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238869,
+      "num": 238869,
+      "word": "包头地震",
+      "onboard_time": 1725146235,
+      "rank": 27,
+      "category": "国内时政,自然"
+    },
+    {
+      "raw_hot": 236527,
+      "num": 236527,
+      "word": "连续熬夜三年多的身体变化",
+      "onboard_time": 1725150558,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 208226,
+      "num": 243315,
+      "word": "很难不中卢昱晓的美人计",
+      "onboard_time": 1725123438,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 195428,
+      "num": 195428,
+      "word": "于适 镖人",
+      "onboard_time": 1725154158,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 194686,
+      "num": 194686,
+      "word": "你支持夫妻离婚不要孩子不准离吗",
+      "onboard_time": 1725153316,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194211,
@@ -227,36 +363,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 187684,
-      "num": 187684,
-      "word": "9月你好",
-      "onboard_time": 1725146355,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186075,
-      "num": 186075,
-      "word": "很难不中卢昱晓的美人计",
-      "onboard_time": 1725123438,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 182098,
-      "num": 182098,
-      "word": "包头地震",
-      "onboard_time": 1725146235,
-      "rank": 27,
-      "category": "国内时政,自然"
-    },
-    {
       "raw_hot": 178002,
       "num": 178002,
       "word": "五集就把祝绪丹给演爽了",
       "onboard_time": 1725105618,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174516,
+      "num": 174516,
+      "word": "时代少年团8月行程图",
+      "onboard_time": 1725153438,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 173822,
@@ -275,12 +395,52 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171674,
+      "num": 171674,
+      "word": "明年6月到9月没有任何假期",
+      "onboard_time": 1725154399,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 171169,
+      "num": 171169,
+      "word": "台风珊珊已致日本6死128伤",
+      "onboard_time": 1725152837,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171088,
+      "num": 171088,
+      "word": "檀健次吃肉粉丝吃菜",
+      "onboard_time": 1725153498,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 167531,
+      "num": 167531,
+      "word": "女生在外面上公厕一定要注意",
+      "onboard_time": 1725152117,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161740,
       "num": 161740,
       "word": "任敏工作室否认恋情",
       "onboard_time": 1725112941,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160782,
+      "num": 160782,
+      "word": "收巧克力被开除园长将幼儿园告上法庭",
+      "onboard_time": 1725134592,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159250,
@@ -305,6 +465,62 @@
       "onboard_time": 1725115760,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145552,
+      "num": 145552,
+      "word": "柳舟记 婆媳相爱单杀",
+      "onboard_time": 1725154697,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 143326,
+      "num": 143326,
+      "word": "镖人",
+      "onboard_time": 1725154999,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 140734,
+      "num": 140734,
+      "word": "我爸把家装修成了他理想中的样子",
+      "onboard_time": 1725154038,
+      "rank": 37,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 137440,
+      "num": 137440,
+      "word": "九月文案",
+      "onboard_time": 1725147855,
+      "rank": 38,
+      "category": "情感,读书作家"
+    },
+    {
+      "raw_hot": 134040,
+      "num": 134040,
+      "word": "九月",
+      "onboard_time": 1725152898,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 132254,
+      "num": 132254,
+      "word": "王铮亮想一晚上都不知道怎么回",
+      "onboard_time": 1725150137,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 130107,
+      "num": 130107,
+      "word": "张晚意这个摇头",
+      "onboard_time": 1725151277,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 128869,
@@ -347,6 +563,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 122196,
+      "num": 122196,
+      "word": "马拉松参赛者半途纷纷去商店买水",
+      "onboard_time": 1725154938,
+      "rank": 43,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 120384,
       "num": 120384,
       "word": "檀健次翻唱陶喆蝴蝶",
@@ -379,14 +603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116120,
-      "num": 116120,
-      "word": "全红婵贴脸开大干饭哥",
-      "onboard_time": 1725145694,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 114030,
       "num": 120337,
       "word": "檀健次男菩萨含金量还在上升",
@@ -403,12 +619,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 113206,
+      "num": 113206,
+      "word": "王鹤棣秦霄贤你俩过于暧昧了",
+      "onboard_time": 1725154697,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 109442,
+      "num": 109442,
+      "word": "内蒙古包头市3.8级地震",
+      "onboard_time": 1725146355,
+      "rank": 34,
+      "category": "国外时政,自然"
+    },
+    {
       "raw_hot": 107582,
       "num": 120355,
       "word": "十个勤天佛山演唱会",
       "onboard_time": 1725104781,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106551,
+      "num": 106551,
+      "word": "谢瑜vlog",
+      "onboard_time": 1725153258,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 105789,
@@ -425,6 +665,14 @@
       "onboard_time": 1725099560,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104615,
+      "num": 104615,
+      "word": "从小学到大学要经历16次9月1日开学",
+      "onboard_time": 1725151817,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 101657,
@@ -483,22 +731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78661,
-      "num": 78661,
-      "word": "霍启刚晒与郭晶晶旧照",
-      "onboard_time": 1725147015,
-      "rank": 32,
-      "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 77290,
-      "num": 77290,
-      "word": "内蒙古包头市3.8级地震",
-      "onboard_time": 1725146355,
-      "rank": 34,
-      "category": "国外时政,自然"
-    },
-    {
       "raw_hot": 73234,
       "num": 91361,
       "word": "赵露思侧麻花辫",
@@ -531,28 +763,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 63748,
-      "num": 63748,
-      "word": "菲律宾撞击我海警船现场态势图",
-      "onboard_time": 1725147015,
-      "rank": 40,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 63580,
       "num": 185595,
       "word": "这件文物把考古专家整迷糊了",
       "onboard_time": 1725122418,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59064,
-      "num": 59064,
-      "word": "何广智 不会带团队只能自己干到死",
-      "onboard_time": 1725147377,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 56053,
@@ -659,14 +875,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 25953,
-      "num": 39044,
-      "word": "收巧克力被开除园长将幼儿园告上法庭",
-      "onboard_time": 1725134592,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24638,
       "num": 34913,
       "word": "南派三叔藏海花在线答疑",
@@ -676,7 +884,7 @@
     },
     {
       "raw_hot": 15617,
-      "num": 723358,
+      "num": 766392,
       "word": "我国海上油气井钻探速度新纪录",
       "onboard_time": 1725107001,
       "rank": 2,
