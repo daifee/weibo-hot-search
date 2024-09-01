@@ -1,6 +1,6 @@
 {
   "startTime": 1725207925221,
-  "endTime": 1725222134494,
+  "endTime": 1725222890214,
   "band_list": [
     {
       "raw_hot": 1134403,
@@ -451,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40430,
+      "num": 40430,
+      "word": "多地学校换上了可躺式课桌椅",
+      "onboard_time": 1725219911,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38130,
       "num": 432770,
       "word": "一路向前总会看到星光满天",
@@ -480,14 +488,6 @@
       "word": "北京现金龙晚霞",
       "onboard_time": 1725216073,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28676,
-      "num": 28676,
-      "word": "多地学校换上了可躺式课桌椅",
-      "onboard_time": 1725219911,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -531,19 +531,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19037,
+      "num": 19657,
+      "word": "中国洋女婿是个长城迷",
+      "onboard_time": 1725219792,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18897,
       "num": 745778,
       "word": "神十八乘组的太空日常",
       "onboard_time": 1725194840,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15034,
-      "num": 19657,
-      "word": "中国洋女婿是个长城迷",
-      "onboard_time": 1725219792,
-      "rank": 46,
       "category": "社会新闻"
     }
   ],
