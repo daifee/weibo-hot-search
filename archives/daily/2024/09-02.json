@@ -1,6 +1,6 @@
 {
   "startTime": 1725207925221,
-  "endTime": 1725229254810,
+  "endTime": 1725230266097,
   "band_list": [
     {
       "raw_hot": 1134403,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 341158,
+      "num": 341158,
+      "word": "多地学校换上了可躺式课桌椅",
+      "onboard_time": 1725219911,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336362,
       "num": 336362,
       "word": "张雨霏 给澳门留点震撼",
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 277236,
-      "num": 201742,
+      "num": 247175,
       "word": "徐锦江真的把徐菲养的很好",
       "onboard_time": 1725200601,
       "rank": 20,
@@ -147,12 +155,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 240692,
-      "num": 240692,
-      "word": "多地学校换上了可躺式课桌椅",
-      "onboard_time": 1725219911,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 226792,
+      "num": 226792,
+      "word": "退役军人安置条例今起施行",
+      "onboard_time": 1725212113,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 209780,
@@ -233,14 +241,6 @@
       "onboard_time": 1725205521,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 164552,
-      "num": 164552,
-      "word": "退役军人安置条例今起施行",
-      "onboard_time": 1725212113,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 164381,
@@ -355,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115779,
+      "num": 115779,
+      "word": "秋瓷炫带6岁儿子逛超市",
+      "onboard_time": 1725211455,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115355,
       "num": 115355,
       "word": "有编制了应该躺平吗",
@@ -427,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 89676,
-      "num": 80006,
-      "word": "秋瓷炫带6岁儿子逛超市",
-      "onboard_time": 1725211455,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 82238,
       "num": 82238,
       "word": "我15号的航班关你14号什么事",
@@ -455,6 +455,38 @@
       "num": 76828,
       "word": "童禹坤方回应签约",
       "onboard_time": 1725210315,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 41740,
+      "num": 41740,
+      "word": "头上冒出白头发千万别拔",
+      "onboard_time": 1725223390,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 40975,
+      "num": 40975,
+      "word": "潘玮柏的演唱会被于洋取消了",
+      "onboard_time": 1725228252,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 40221,
+      "num": 40221,
+      "word": "曼联0比3利物浦",
+      "onboard_time": 1725219192,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 40009,
+      "num": 40009,
+      "word": "外国人也对这个词这么敏感",
+      "onboard_time": 1725224652,
       "rank": 48,
       "category": "艺人"
     },
@@ -483,39 +515,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 36708,
-      "num": 36708,
-      "word": "曼联0比3利物浦",
-      "onboard_time": 1725219192,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 32718,
-      "num": 36697,
-      "word": "头上冒出白头发千万别拔",
-      "onboard_time": 1725223390,
-      "rank": 43,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 30578,
-      "num": 36640,
-      "word": "北京现金龙晚霞",
-      "onboard_time": 1725216073,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30238,
-      "num": 36679,
-      "word": "外国人也对这个词这么敏感",
-      "onboard_time": 1725224652,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 29211,
+      "raw_hot": 35129,
       "num": 36665,
       "word": "全红婵收到澳门文创乌龟",
       "onboard_time": 1725225490,
@@ -523,7 +523,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 28869,
+      "raw_hot": 32026,
+      "num": 36640,
+      "word": "北京现金龙晚霞",
+      "onboard_time": 1725216073,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31410,
       "num": 36662,
       "word": "全员瑕疵皮的国产剧来了",
       "onboard_time": 1725217152,
@@ -531,12 +539,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25011,
-      "num": 36597,
-      "word": "潘玮柏的演唱会被于洋取消了",
-      "onboard_time": 1725228252,
-      "rank": 43,
-      "category": "演出"
+      "raw_hot": 24931,
+      "num": 31147,
+      "word": "1米9的孙丞潇轻松下腰到1米1",
+      "onboard_time": 1725229513,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 23880,
+      "num": 36572,
+      "word": "中国洋女婿是个长城迷",
+      "onboard_time": 1725219792,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23676,
@@ -544,14 +560,6 @@
       "word": "硫磺熏制枸杞现场气味刺鼻",
       "onboard_time": 1725213974,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21621,
-      "num": 36572,
-      "word": "中国洋女婿是个长城迷",
-      "onboard_time": 1725219792,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
