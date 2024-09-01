@@ -1,0 +1,410 @@
+{
+  "runTime": 1725175102226,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1362329,
+        "num": 1362329,
+        "word": "袁隆平孙女今年入读中国农业大学",
+        "onboard_time": 1725169159,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 958606,
+        "num": 958606,
+        "word": "允许这个演员找手替",
+        "onboard_time": 1725173779,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13259,
+        "num": 794649,
+        "word": "一句话存档2024年夏天",
+        "onboard_time": 1725155598,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 698621,
+        "num": 698621,
+        "word": "马龙和儿子一个名字了",
+        "onboard_time": 1725173359,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 604660,
+        "num": 604660,
+        "word": "王安全穿名牌 不像真的",
+        "onboard_time": 1725173058,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 551360,
+        "num": 551360,
+        "word": "高铁车厢里全是碎掉的大学生",
+        "onboard_time": 1725172458,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 486337,
+        "num": 486337,
+        "word": "返校发现宿舍已长出半人高的草",
+        "onboard_time": 1725168080,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 484010,
+        "num": 484010,
+        "word": "刘谦团队集体食物中毒",
+        "onboard_time": 1725163399,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404768,
+        "num": 404768,
+        "word": "四胞胎系外地户口上不了公立学校",
+        "onboard_time": 1725167479,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34983,
+        "num": 384186,
+        "word": "落马官员作秀式调研握手拍照就离开",
+        "onboard_time": 1725174079,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 997700,
+        "num": 382292,
+        "word": "我爸的开心消消乐停在了8739关",
+        "onboard_time": 1725170000,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 372003,
+        "num": 372003,
+        "word": "孙颖莎回应国乒与其他国家差距收窄",
+        "onboard_time": 1725166100,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358626,
+        "num": 358626,
+        "word": "刘亦菲提裙踮脚跑",
+        "onboard_time": 1725170419,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335294,
+        "num": 335294,
+        "word": "盛李豪他们都笑你",
+        "onboard_time": 1725165619,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17023,
+        "num": 332006,
+        "word": "体检被推荐加项多花近万元",
+        "onboard_time": 1725174319,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330529,
+        "num": 330529,
+        "word": "第一批打司美格鲁肽的人已经后悔了",
+        "onboard_time": 1725160218,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324785,
+        "num": 324785,
+        "word": "德云色解散",
+        "onboard_time": 1725155658,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91325,
+        "num": 308201,
+        "word": "易烊千玺威尼斯海边写真",
+        "onboard_time": 1725174799,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306598,
+        "num": 306598,
+        "word": "王祖蓝 终于送走了",
+        "onboard_time": 1725155479,
+        "rank": 18,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 289614,
+        "num": 289614,
+        "word": "福宝已进入假孕状态",
+        "onboard_time": 1725159559,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438627,
+        "num": 287114,
+        "word": "女子称上班1年胖了40斤果断离职",
+        "onboard_time": 1725169578,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344598,
+        "num": 286677,
+        "word": "为什么大家坐高铁都不想选ABC座",
+        "onboard_time": 1725167240,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 284390,
+        "num": 284390,
+        "word": "曾黎直播到一半灯塌了",
+        "onboard_time": 1725164360,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283495,
+        "num": 283495,
+        "word": "父亲回应婴儿出租屋饿到营养不良",
+        "onboard_time": 1725173299,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274613,
+        "num": 274613,
+        "word": "藏海花1个人睡120000平",
+        "onboard_time": 1725167179,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254622,
+        "num": 254622,
+        "word": "中医建议我不吃晚饭不喝牛奶",
+        "onboard_time": 1725172578,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 246373,
+        "num": 246373,
+        "word": "儿童手表AI否认南京大屠杀存在",
+        "onboard_time": 1725173658,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232280,
+        "num": 232280,
+        "word": "上海最孤独饭店突然爆火",
+        "onboard_time": 1725172458,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222051,
+        "num": 222051,
+        "word": "现在就出发录制",
+        "onboard_time": 1725173478,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205777,
+        "num": 205777,
+        "word": "一针瘦20斤网红神药开始在县城流行",
+        "onboard_time": 1725160339,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30339,
+        "num": 205485,
+        "word": "塔图姆宠粉第一名",
+        "onboard_time": 1725174319,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205277,
+        "num": 205277,
+        "word": "迪丽热巴回到家一看手机天塌了",
+        "onboard_time": 1725145694,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205253,
+        "num": 205253,
+        "word": "华晨宇演唱会三获缪斯设计奖",
+        "onboard_time": 1725174258,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201583,
+        "num": 201583,
+        "word": "李沁陈哲远都营业了",
+        "onboard_time": 1725174859,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201574,
+        "num": 201574,
+        "word": "宋亚轩 现在就出发2",
+        "onboard_time": 1725174859,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192795,
+        "num": 192795,
+        "word": "拼车拼到了一只小狗乘客",
+        "onboard_time": 1725170419,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191547,
+        "num": 191547,
+        "word": "DK对战T1",
+        "onboard_time": 1725174440,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187766,
+        "num": 187766,
+        "word": "刘学义劝纪凌尘找个路人缘好的",
+        "onboard_time": 1725166459,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177290,
+        "num": 177290,
+        "word": "林俊杰太原站",
+        "onboard_time": 1725174799,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173665,
+        "num": 173665,
+        "word": "博士生入职高校为何越来越难",
+        "onboard_time": 1725170539,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167009,
+        "num": 167009,
+        "word": "盛李豪全红婵合体打羽毛球",
+        "onboard_time": 1725170478,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81918,
+        "num": 161829,
+        "word": "林依轮儿子出道演话剧了",
+        "onboard_time": 1725174079,
+        "rank": 41,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 156728,
+        "num": 156728,
+        "word": "中石油",
+        "onboard_time": 1725161058,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155080,
+        "num": 155080,
+        "word": "莫斯科",
+        "onboard_time": 1725165379,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 149763,
+        "num": 149763,
+        "word": "9月你好",
+        "onboard_time": 1725146355,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147293,
+        "num": 147293,
+        "word": "俄称击落多架企图袭击莫斯科的无人机",
+        "onboard_time": 1725167000,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 141443,
+        "num": 141443,
+        "word": "王宜林",
+        "onboard_time": 1725160999,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141347,
+        "num": 141347,
+        "word": "莎头组合终于合体了",
+        "onboard_time": 1725174799,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136154,
+        "num": 136154,
+        "word": "下属变成上司是什么体验",
+        "onboard_time": 1725173058,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134288,
+        "num": 134288,
+        "word": "王一博把刀砍断了",
+        "onboard_time": 1725166339,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平写给非洲的信#"
+    }
+  }
+}
