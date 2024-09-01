@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725195276992,
+  "endTime": 1725196986849,
   "band_list": [
     {
       "raw_hot": 1957251,
@@ -8,6 +8,14 @@
       "word": "路虎女司机打退伍军人官方发声",
       "onboard_time": 1725175639,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1888923,
+      "num": 1888923,
+      "word": "袁隆平儿子回应女儿入读中国农业大学",
+      "onboard_time": 1725194061,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -65,6 +73,14 @@
       "onboard_time": 1725113419,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1396653,
+      "num": 1396653,
+      "word": "折腰",
+      "onboard_time": 1725194119,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 1370603,
@@ -260,19 +276,11 @@
     },
     {
       "raw_hot": 776685,
-      "num": 776685,
+      "num": 1413721,
       "word": "开学第一课",
       "onboard_time": 1725190280,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 764453,
-      "num": 764453,
-      "word": "折腰",
-      "onboard_time": 1725194119,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 756085,
@@ -288,6 +296,14 @@
       "word": "乒羽混双合照",
       "onboard_time": 1725177679,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 712066,
+      "num": 712066,
+      "word": "樊振东贴脸开大盛李豪",
+      "onboard_time": 1725195619,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -427,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 604335,
+      "num": 604335,
+      "word": "游泳队 人鱼上岸嗓子换腿",
+      "onboard_time": 1725194720,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 598386,
       "num": 598386,
       "word": "王一博戴小骨头项链",
@@ -481,6 +505,14 @@
       "onboard_time": 1725121458,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 539659,
+      "num": 607373,
+      "word": "潘展乐解释自己的微博名",
+      "onboard_time": 1725193939,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 537888,
@@ -723,14 +755,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 406655,
-      "num": 406655,
-      "word": "袁隆平儿子回应女儿入读中国农业大学",
-      "onboard_time": 1725194061,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 399674,
       "num": 399674,
       "word": "父亲回应婴儿出租屋饿到营养不良",
@@ -761,14 +785,6 @@
       "onboard_time": 1725147377,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 372203,
-      "num": 372203,
-      "word": "游泳队 人鱼上岸嗓子换腿",
-      "onboard_time": 1725194720,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 371355,
@@ -833,6 +849,14 @@
       "onboard_time": 1725176359,
       "rank": 13,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 328780,
+      "num": 328780,
+      "word": "王俊凯刘宪华邓为红毯视频",
+      "onboard_time": 1725194240,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 325608,
@@ -1051,28 +1075,12 @@
       "category": "国内时政,自然"
     },
     {
-      "raw_hot": 237086,
-      "num": 237086,
-      "word": "潘展乐解释自己的微博名",
-      "onboard_time": 1725193939,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 234457,
       "num": 234457,
       "word": "上海最孤独饭店突然爆火",
       "onboard_time": 1725172458,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231053,
-      "num": 231053,
-      "word": "王俊凯刘宪华邓为红毯视频",
-      "onboard_time": 1725194240,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 230260,
@@ -1089,6 +1097,14 @@
       "onboard_time": 1725182119,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 226799,
+      "num": 226799,
+      "word": "原来爱情公寓的思想这么超前",
+      "onboard_time": 1725193158,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 226191,
@@ -1139,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209423,
+      "num": 209423,
+      "word": "龙道一rap",
+      "onboard_time": 1725196581,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208226,
       "num": 326466,
       "word": "很难不中卢昱晓的美人计",
@@ -1169,6 +1193,14 @@
       "onboard_time": 1725156738,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206247,
+      "num": 206247,
+      "word": "NIP对战JDG",
+      "onboard_time": 1725183499,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 205974,
@@ -1363,14 +1395,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 192310,
-      "num": 192310,
-      "word": "原来爱情公寓的思想这么超前",
-      "onboard_time": 1725193158,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191547,
       "num": 191547,
       "word": "DK对战T1",
@@ -1385,6 +1409,14 @@
       "onboard_time": 1725194418,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190975,
+      "num": 214763,
+      "word": "警方否认男婴被遗弃在出租屋",
+      "onboard_time": 1725194661,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190639,
@@ -1473,6 +1505,14 @@
       "onboard_time": 1725170478,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183129,
+      "num": 191403,
+      "word": "现在就出发",
+      "onboard_time": 1725195859,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 182009,
@@ -1593,6 +1633,14 @@
       "onboard_time": 1725171139,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173507,
+      "num": 173507,
+      "word": "柳舟记大结局",
+      "onboard_time": 1725195261,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 173432,
@@ -1755,6 +1803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150767,
+      "num": 150767,
+      "word": "四方馆",
+      "onboard_time": 1725195680,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150740,
       "num": 150740,
       "word": "柳舟记 高配得感爱情",
@@ -1777,6 +1833,14 @@
       "onboard_time": 1725161600,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 148488,
+      "num": 148488,
+      "word": "邓佳鑫回应粉丝",
+      "onboard_time": 1725196340,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 147449,
@@ -1851,6 +1915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140648,
+      "num": 671395,
+      "word": "列车有权拒绝买短乘长旅客继续乘车",
+      "onboard_time": 1725192797,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140522,
       "num": 140522,
       "word": "仙逆",
@@ -1899,6 +1971,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 135515,
+      "num": 135515,
+      "word": "游泳队各有各的精彩",
+      "onboard_time": 1725195379,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135483,
       "num": 135483,
       "word": "檀健次官宣时装周",
@@ -1907,12 +1987,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 134372,
-      "num": 671395,
-      "word": "列车有权拒绝买短乘长旅客继续乘车",
-      "onboard_time": 1725192797,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 135159,
+      "num": 135159,
+      "word": "我们的歌",
+      "onboard_time": 1725196880,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 134040,
@@ -1995,14 +2075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127210,
-      "num": 127210,
-      "word": "柳舟记大结局",
-      "onboard_time": 1725195261,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 126074,
       "num": 165358,
       "word": "李克勤擦口红这段",
@@ -2041,6 +2113,14 @@
       "onboard_time": 1725119479,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 122951,
+      "num": 122951,
+      "word": "周日的LGD来了",
+      "onboard_time": 1725196820,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 122597,
@@ -2291,14 +2371,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 96255,
-      "num": 214763,
-      "word": "警方否认男婴被遗弃在出租屋",
-      "onboard_time": 1725194661,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 96046,
       "num": 96046,
       "word": "樊振东学跳霹雳舞",
@@ -2336,6 +2408,14 @@
       "word": "全球AI色情换脸受害者中一半是韩国人",
       "onboard_time": 1725123797,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81108,
+      "num": 604725,
+      "word": "南京溧水试点未成年人怀孕就诊强制弹窗提醒",
+      "onboard_time": 1725195740,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2601,6 +2681,14 @@
       "onboard_time": 1725128594,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33359,
+      "num": 144063,
+      "word": "秋天的第一顿烟台海鲜",
+      "onboard_time": 1725195619,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31904,
