@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725186039871,
+  "endTime": 1725187076116,
   "band_list": [
     {
       "raw_hot": 1957251,
@@ -15,6 +15,14 @@
       "num": 1798685,
       "word": "袁隆平孙女今年入读中国农业大学",
       "onboard_time": 1725169159,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1732459,
+      "num": 1732459,
+      "word": "外卖小哥讲述发现皮包骨婴儿细节",
+      "onboard_time": 1725183319,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -64,14 +72,6 @@
       "word": "福宝已进入假孕状态",
       "onboard_time": 1725159559,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1286679,
-      "num": 1286679,
-      "word": "外卖小哥讲述发现皮包骨婴儿细节",
-      "onboard_time": 1725183319,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -715,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301544,
+      "num": 301544,
+      "word": "田曦薇婉拒王安宇",
+      "onboard_time": 1725181638,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297247,
       "num": 415449,
       "word": "张韶涵成都新皮肤又开大了",
@@ -771,6 +779,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 260451,
+      "num": 260451,
+      "word": "权志龙太阳大声合体",
+      "onboard_time": 1725186618,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 259971,
       "num": 329047,
       "word": "陈昊宇新剧",
@@ -800,6 +816,14 @@
       "word": "樊振东 我跳舞有点天赋",
       "onboard_time": 1725163520,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 253032,
+      "num": 253032,
+      "word": "乒羽混双大魔王 向你开炮",
+      "onboard_time": 1725186138,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -883,12 +907,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221674,
-      "num": 245236,
-      "word": "田曦薇婉拒王安宇",
-      "onboard_time": 1725181638,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 223989,
+      "num": 207016,
+      "word": "盛李豪父亲回应儿子打羽毛球",
+      "onboard_time": 1725186078,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 218302,
@@ -912,6 +936,14 @@
       "word": "9岁男孩骑车腹部被车把手插入",
       "onboard_time": 1725181400,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215894,
+      "num": 215894,
+      "word": "命案嫌犯致5死1伤后潜逃",
+      "onboard_time": 1725184998,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -1027,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197026,
+      "num": 197026,
+      "word": "柳舟记",
+      "onboard_time": 1725186559,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195728,
       "num": 195728,
       "word": "我爸把家装修成了他理想中的样子",
@@ -1091,6 +1131,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 189899,
+      "num": 189899,
+      "word": "迪丽热巴九月行程图",
+      "onboard_time": 1725183680,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187605,
       "num": 187605,
       "word": "陈丽君首登央视中秋晚会",
@@ -1121,14 +1169,6 @@
       "onboard_time": 1725170478,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 183208,
-      "num": 183208,
-      "word": "迪丽热巴九月行程图",
-      "onboard_time": 1725183680,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 182009,
@@ -1177,6 +1217,14 @@
       "onboard_time": 1725184339,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178979,
+      "num": 178979,
+      "word": "车主误会了猫咪的好意",
+      "onboard_time": 1725182659,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 178002,
@@ -1371,6 +1419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 152501,
+      "num": 311349,
+      "word": "莫斯科炼油厂因乌无人机袭击起火",
+      "onboard_time": 1725183200,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 152034,
       "num": 152034,
       "word": "樊振东和潘展乐合体打羽毛球",
@@ -1401,14 +1457,6 @@
       "onboard_time": 1725161600,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 150257,
-      "num": 150257,
-      "word": "车主误会了猫咪的好意",
-      "onboard_time": 1725182659,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 147427,
@@ -1579,14 +1627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126697,
-      "num": 126697,
-      "word": "命案嫌犯致5死1伤后潜逃",
-      "onboard_time": 1725184998,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126074,
       "num": 165358,
       "word": "李克勤擦口红这段",
@@ -1625,6 +1665,14 @@
       "onboard_time": 1725119479,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 122258,
+      "num": 122258,
+      "word": "LCK季后赛",
+      "onboard_time": 1725185898,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 121562,
@@ -1715,14 +1763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116267,
-      "num": 116267,
-      "word": "LCK季后赛",
-      "onboard_time": 1725185898,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 116160,
       "num": 116160,
       "word": "李雯雯澳门晚宴vlog",
@@ -1731,12 +1771,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115747,
+      "num": 115747,
+      "word": "曹璐恩静cha了可怜",
+      "onboard_time": 1725186319,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 115738,
+      "num": 115738,
+      "word": "亲人离开后很久才会痛哭",
+      "onboard_time": 1725186918,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 114030,
       "num": 120337,
       "word": "檀健次男菩萨含金量还在上升",
       "onboard_time": 1725119479,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113785,
+      "num": 113785,
+      "word": "全红婵给国乒男团拍合照",
+      "onboard_time": 1725187039,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 113696,
@@ -1769,6 +1833,14 @@
       "onboard_time": 1725174799,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107791,
+      "num": 355716,
+      "word": "园长收学生6元巧克力被开用力过猛了",
+      "onboard_time": 1725185238,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107582,
@@ -1883,14 +1955,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 93919,
-      "num": 311349,
-      "word": "莫斯科炼油厂因乌无人机袭击起火",
-      "onboard_time": 1725183200,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 91120,
       "num": 120267,
       "word": "檀健次演唱会",
@@ -1904,6 +1968,14 @@
       "word": "全球AI色情换脸受害者中一半是韩国人",
       "onboard_time": 1725123797,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77362,
+      "num": 296353,
+      "word": "女子和丈夫吵架高空扔下锅碗瓢盆",
+      "onboard_time": 1725184998,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1945,14 +2017,6 @@
       "onboard_time": 1725139090,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 68266,
-      "num": 355716,
-      "word": "园长收学生6元巧克力被开用力过猛了",
-      "onboard_time": 1725185238,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66431,
@@ -2161,14 +2225,6 @@
       "onboard_time": 1725128594,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 32498,
-      "num": 296353,
-      "word": "女子和丈夫吵架高空扔下锅碗瓢盆",
-      "onboard_time": 1725184998,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31904,
