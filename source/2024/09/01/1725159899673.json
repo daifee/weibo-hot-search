@@ -1,0 +1,410 @@
+{
+  "runTime": 1725159899673,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1720110,
+        "num": 1720110,
+        "word": "王祖蓝 终于送走了",
+        "onboard_time": 1725155479,
+        "rank": 0,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 1212394,
+        "num": 1212394,
+        "word": "德云色解散",
+        "onboard_time": 1725155658,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 8164,
+        "num": 928760,
+        "word": "我国海上油气井钻探速度新纪录",
+        "onboard_time": 1725107001,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 887141,
+        "num": 887141,
+        "word": "明年6月到9月没有任何假期",
+        "onboard_time": 1725154399,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 559256,
+        "num": 559256,
+        "word": "潘展乐 3米我随便跳",
+        "onboard_time": 1725151158,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 449781,
+        "num": 449781,
+        "word": "霍启刚晒与郭晶晶旧照",
+        "onboard_time": 1725147015,
+        "rank": 5,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 441359,
+        "num": 441359,
+        "word": "马拉松参赛者半途纷纷去商店买水",
+        "onboard_time": 1725154938,
+        "rank": 6,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 420907,
+        "num": 420907,
+        "word": "你支持夫妻离婚不要孩子不准离吗",
+        "onboard_time": 1725153316,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415559,
+        "num": 415559,
+        "word": "王嘉尔易烊千玺生图",
+        "onboard_time": 1725157399,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 34599,
+        "num": 394203,
+        "word": "狂刷到预约结束也没抢到博物馆门票",
+        "onboard_time": 1725158840,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 762044,
+        "num": 392796,
+        "word": "迪丽热巴回到家一看手机天塌了",
+        "onboard_time": 1725145694,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384010,
+        "num": 384010,
+        "word": "9月你好",
+        "onboard_time": 1725146355,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351901,
+        "num": 351901,
+        "word": "网红医生擦边软色情",
+        "onboard_time": 1725096259,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340721,
+        "num": 340721,
+        "word": "韩国女性回应在中国社交平台求助",
+        "onboard_time": 1725149597,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49567,
+        "num": 336995,
+        "word": "女子1个月在6家餐厅吃出毛发",
+        "onboard_time": 1725158599,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334666,
+        "num": 334666,
+        "word": "为什么出远门时要在冰箱放一枚硬币",
+        "onboard_time": 1725148456,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 315147,
+        "num": 315147,
+        "word": "徐海乔 有效出镜",
+        "onboard_time": 1725156619,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314214,
+        "num": 314214,
+        "word": "朱志鑫 重庆",
+        "onboard_time": 1725158118,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191585,
+        "num": 310003,
+        "word": "刘亦菲飞吻张靓颖",
+        "onboard_time": 1725152298,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179735,
+        "num": 305469,
+        "word": "易烊千玺亮相威尼斯晚宴",
+        "onboard_time": 1725153558,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 410946,
+        "num": 297751,
+        "word": "连续熬夜三年多的身体变化",
+        "onboard_time": 1725150558,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 384337,
+        "num": 292470,
+        "word": "园长收学生6.16元巧克力被开除",
+        "onboard_time": 1725113539,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291342,
+        "num": 291342,
+        "word": "王楚钦覃海洋擦肩而过",
+        "onboard_time": 1725158778,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278174,
+        "num": 278174,
+        "word": "央媒探访阴阳价格面馆",
+        "onboard_time": 1725157399,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232746,
+        "num": 232746,
+        "word": "菲律宾撞击我海警船现场态势图",
+        "onboard_time": 1725147015,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 227360,
+        "num": 227360,
+        "word": "豆瓣崩了",
+        "onboard_time": 1725156198,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 226177,
+        "num": 226177,
+        "word": "福宝已进入假孕状态",
+        "onboard_time": 1725159559,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177255,
+        "num": 217882,
+        "word": "很难不中卢昱晓的美人计",
+        "onboard_time": 1725123438,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156345,
+        "num": 215311,
+        "word": "谭松韵侯明昊吻戏",
+        "onboard_time": 1725149777,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155206,
+        "num": 215071,
+        "word": "镖人",
+        "onboard_time": 1725154999,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214961,
+        "num": 214961,
+        "word": "樊振东盛李豪 石狮子和气球人",
+        "onboard_time": 1725151337,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211756,
+        "num": 211756,
+        "word": "大学生课表放微信置顶",
+        "onboard_time": 1725157877,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 211384,
+        "num": 211384,
+        "word": "孙颖莎说从来都不甘心失败",
+        "onboard_time": 1725157518,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205100,
+        "num": 205100,
+        "word": "王楚钦马龙互学对方发球",
+        "onboard_time": 1725159019,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196128,
+        "num": 196128,
+        "word": "王楚钦的vlog没有王楚钦",
+        "onboard_time": 1725156738,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195728,
+        "num": 195728,
+        "word": "我爸把家装修成了他理想中的样子",
+        "onboard_time": 1725154038,
+        "rank": 35,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 194163,
+        "num": 194163,
+        "word": "开学第一天",
+        "onboard_time": 1725158778,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 171735,
+        "num": 171735,
+        "word": "生下4胞胎父亲称好心人电话不断",
+        "onboard_time": 1725108080,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152446,
+        "num": 152446,
+        "word": "熬夜刷视频睡到中午为何伤身",
+        "onboard_time": 1725125417,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143644,
+        "num": 143644,
+        "word": "杜淳老婆给杜淳发檀健次帅照",
+        "onboard_time": 1725112460,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138994,
+        "num": 138994,
+        "word": "从小学到大学要经历16次9月1日开学",
+        "onboard_time": 1725151817,
+        "rank": 40,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 136302,
+        "num": 136302,
+        "word": "女生在外面上公厕一定要注意",
+        "onboard_time": 1725152117,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136011,
+        "num": 136011,
+        "word": "台风珊珊已致日本6死128伤",
+        "onboard_time": 1725152837,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124152,
+        "num": 124152,
+        "word": "柳舟记 婆媳相爱单杀",
+        "onboard_time": 1725154697,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120165,
+        "num": 120165,
+        "word": "黄子韬徐艺洋衣服互穿",
+        "onboard_time": 1725114622,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119331,
+        "num": 119331,
+        "word": "时代少年团8月行程图",
+        "onboard_time": 1725153438,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118214,
+        "num": 118214,
+        "word": "王楚然凤冠霞帔妆造",
+        "onboard_time": 1725159138,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116429,
+        "num": 116429,
+        "word": "包头地震",
+        "onboard_time": 1725146235,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113992,
+        "num": 113992,
+        "word": "李闽轩没穿军训服",
+        "onboard_time": 1725115822,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111001,
+        "num": 111001,
+        "word": "全红婵贴脸开大干饭哥",
+        "onboard_time": 1725145694,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这样寄语莘莘学子#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725159373632,
+  "endTime": 1725159899673,
   "band_list": [
     {
       "raw_hot": 1720220,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1199089,
-      "num": 1199089,
+      "raw_hot": 1212394,
+      "num": 1212394,
       "word": "德云色解散",
       "onboard_time": 1725155658,
       "rank": 21,
@@ -67,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 887141,
+      "num": 887141,
+      "word": "明年6月到9月没有任何假期",
+      "onboard_time": 1725154399,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 857252,
       "num": 932340,
       "word": "网红医生擦边软色情",
@@ -89,14 +97,6 @@
       "onboard_time": 1725147015,
       "rank": 32,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 720655,
-      "num": 720655,
-      "word": "明年6月到9月没有任何假期",
-      "onboard_time": 1725154399,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 619793,
@@ -187,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 441359,
+      "num": 441359,
+      "word": "马拉松参赛者半途纷纷去商店买水",
+      "onboard_time": 1725154938,
+      "rank": 43,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 432051,
       "num": 432051,
       "word": "杜淳老婆给杜淳发檀健次帅照",
@@ -203,6 +211,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 420907,
+      "num": 420907,
+      "word": "你支持夫妻离婚不要孩子不准离吗",
+      "onboard_time": 1725153316,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415559,
+      "num": 415559,
+      "word": "王嘉尔易烊千玺生图",
+      "onboard_time": 1725157399,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 414416,
       "num": 414416,
       "word": "为什么出远门时要在冰箱放一枚硬币",
@@ -211,12 +235,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 406927,
-      "num": 406927,
-      "word": "王嘉尔易烊千玺生图",
-      "onboard_time": 1725157399,
-      "rank": 6,
-      "category": "电影"
+      "raw_hot": 410946,
+      "num": 298007,
+      "word": "连续熬夜三年多的身体变化",
+      "onboard_time": 1725150558,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 386747,
@@ -227,28 +251,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 383959,
-      "num": 298007,
-      "word": "连续熬夜三年多的身体变化",
-      "onboard_time": 1725150558,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 381425,
       "num": 470832,
       "word": "何广智 不会带团队只能自己干到死",
       "onboard_time": 1725147377,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 374988,
-      "num": 374988,
-      "word": "你支持夫妻离婚不要孩子不准离吗",
-      "onboard_time": 1725153316,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 371355,
@@ -291,12 +299,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 323696,
-      "num": 323696,
-      "word": "马拉松参赛者半途纷纷去商店买水",
-      "onboard_time": 1725154938,
-      "rank": 43,
-      "category": "运动健身"
+      "raw_hot": 315147,
+      "num": 315147,
+      "word": "徐海乔 有效出镜",
+      "onboard_time": 1725156619,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 314214,
+      "num": 314214,
+      "word": "朱志鑫 重庆",
+      "onboard_time": 1725158118,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 305349,
@@ -331,12 +347,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 288192,
-      "num": 288192,
-      "word": "朱志鑫 重庆",
-      "onboard_time": 1725158118,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 291342,
+      "num": 291342,
+      "word": "王楚钦覃海洋擦肩而过",
+      "onboard_time": 1725158778,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 286672,
@@ -355,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278174,
+      "num": 278174,
+      "word": "央媒探访阴阳价格面馆",
+      "onboard_time": 1725157399,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274368,
       "num": 329187,
       "word": "刘亦菲飞吻张靓颖",
@@ -363,35 +387,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 271499,
-      "num": 271499,
-      "word": "徐海乔 有效出镜",
-      "onboard_time": 1725156619,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 254266,
       "num": 254266,
       "word": "全红婵贴脸开大干饭哥",
       "onboard_time": 1725145694,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 253975,
-      "num": 253975,
-      "word": "央媒探访阴阳价格面馆",
-      "onboard_time": 1725157399,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239817,
-      "num": 239817,
-      "word": "王楚钦覃海洋擦肩而过",
-      "onboard_time": 1725158778,
-      "rank": 26,
       "category": "体育"
     },
     {
@@ -411,12 +411,28 @@
       "category": "国内时政,自然"
     },
     {
+      "raw_hot": 226177,
+      "num": 226177,
+      "word": "福宝已进入假孕状态",
+      "onboard_time": 1725159559,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217803,
       "num": 217803,
       "word": "孙颖莎说从来都不甘心失败",
       "onboard_time": 1725157518,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211756,
+      "num": 211756,
+      "word": "大学生课表放微信置顶",
+      "onboard_time": 1725157877,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 208226,
@@ -435,12 +451,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205100,
+      "num": 205100,
+      "word": "王楚钦马龙互学对方发球",
+      "onboard_time": 1725159019,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200766,
       "num": 200766,
       "word": "开学第一天",
       "onboard_time": 1725158778,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 195728,
+      "num": 195728,
+      "word": "我爸把家装修成了他理想中的样子",
+      "onboard_time": 1725154038,
+      "rank": 37,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 195428,
@@ -467,14 +499,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 189683,
-      "num": 189683,
-      "word": "大学生课表放微信置顶",
-      "onboard_time": 1725157877,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
       "raw_hot": 185100,
       "num": 185100,
       "word": "台风珊珊已致日本6死128伤",
@@ -489,14 +513,6 @@
       "onboard_time": 1725134592,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180266,
-      "num": 180266,
-      "word": "我爸把家装修成了他理想中的样子",
-      "onboard_time": 1725154038,
-      "rank": 37,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 179926,
@@ -563,12 +579,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156368,
-      "num": 156368,
-      "word": "王楚钦马龙互学对方发球",
-      "onboard_time": 1725159019,
-      "rank": 37,
-      "category": "体育"
+      "raw_hot": 155206,
+      "num": 215071,
+      "word": "镖人",
+      "onboard_time": 1725154999,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 147427,
@@ -595,12 +611,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143326,
-      "num": 143326,
-      "word": "镖人",
-      "onboard_time": 1725154999,
-      "rank": 36,
-      "category": "电影"
+      "raw_hot": 138994,
+      "num": 138994,
+      "word": "从小学到大学要经历16次9月1日开学",
+      "onboard_time": 1725151817,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 137440,
@@ -787,14 +803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104615,
-      "num": 104615,
-      "word": "从小学到大学要经历16次9月1日开学",
-      "onboard_time": 1725151817,
-      "rank": 49,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 101757,
       "num": 101757,
       "word": "一句话存档2024年夏天",
@@ -923,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 49567,
+      "num": 336995,
+      "word": "女子1个月在6家餐厅吃出毛发",
+      "onboard_time": 1725158599,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47337,
       "num": 56020,
       "word": "孙颖莎说生活中要有松弛感",
@@ -979,6 +995,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 34599,
+      "num": 394203,
+      "word": "狂刷到预约结束也没抢到博物馆门票",
+      "onboard_time": 1725158840,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34459,
       "num": 52106,
       "word": "唐尚珺谈为何上岸",
@@ -1011,14 +1035,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 27016,
-      "num": 330556,
-      "word": "女子1个月在6家餐厅吃出毛发",
-      "onboard_time": 1725158599,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24638,
       "num": 34913,
       "word": "南派三叔藏海花在线答疑",
@@ -1027,16 +1043,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 20521,
-      "num": 364165,
-      "word": "狂刷到预约结束也没抢到博物馆门票",
-      "onboard_time": 1725158840,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 15617,
-      "num": 908940,
+      "num": 928760,
       "word": "我国海上油气井钻探速度新纪录",
       "onboard_time": 1725107001,
       "rank": 2,
