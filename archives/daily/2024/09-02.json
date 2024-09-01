@@ -1,6 +1,6 @@
 {
   "startTime": 1725207925221,
-  "endTime": 1725211039475,
+  "endTime": 1725212087668,
   "band_list": [
     {
       "raw_hot": 1134403,
@@ -411,6 +411,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89676,
+      "num": 80006,
+      "word": "秋瓷炫带6岁儿子逛超市",
+      "onboard_time": 1725211455,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 82238,
+      "num": 82238,
+      "word": "我15号的航班关你14号什么事",
+      "onboard_time": 1725210075,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 79426,
       "num": 79426,
       "word": "樊振东唱歌前小声说欢呼一下",
@@ -419,16 +435,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74720,
-      "num": 74720,
-      "word": "我15号的航班关你14号什么事",
-      "onboard_time": 1725210075,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 67726,
-      "num": 67726,
+      "raw_hot": 76828,
+      "num": 76828,
       "word": "童禹坤方回应签约",
       "onboard_time": 1725210315,
       "rank": 48,
@@ -443,19 +451,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18563,
-      "num": 745778,
-      "word": "神十八乘组的太空日常",
-      "onboard_time": 1725194840,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14574,
+      "raw_hot": 19793,
       "num": 199865,
       "word": "武汉万物皆可热干",
       "onboard_time": 1725210255,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18897,
+      "num": 745778,
+      "word": "神十八乘组的太空日常",
+      "onboard_time": 1725194840,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],
