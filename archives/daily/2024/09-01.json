@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725204074571,
+  "endTime": 1725204902979,
   "band_list": [
     {
       "raw_hot": 2103437,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2069241,
+      "num": 705068,
+      "word": "莎头",
+      "onboard_time": 1725200780,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1957251,
       "num": 429909,
       "word": "路虎女司机打退伍军人官方发声",
       "onboard_time": 1725175639,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1939816,
-      "num": 705068,
-      "word": "莎头",
-      "onboard_time": 1725200780,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 1798685,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1050965,
+      "num": 1050965,
+      "word": "许昕问王楚钦合照留空是谁提的",
+      "onboard_time": 1725201082,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1048519,
       "num": 1048519,
       "word": "盛李豪他们都笑你",
@@ -177,14 +185,6 @@
       "onboard_time": 1725200000,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1032055,
-      "num": 1032055,
-      "word": "许昕问王楚钦合照留空是谁提的",
-      "onboard_time": 1725201082,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 1022491,
@@ -339,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 790724,
+      "num": 790724,
+      "word": "妈妈朋友的儿子杀青宴",
+      "onboard_time": 1725200000,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 776685,
       "num": 1493705,
       "word": "开学第一课",
@@ -353,14 +361,6 @@
       "onboard_time": 1725147015,
       "rank": 32,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 737191,
-      "num": 737191,
-      "word": "妈妈朋友的儿子杀青宴",
-      "onboard_time": 1725200000,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 721295,
@@ -587,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 554687,
+      "num": 554687,
+      "word": "何秋亊 难受",
+      "onboard_time": 1725203242,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 552873,
       "num": 552873,
       "word": "儿童手表AI否认南京大屠杀存在",
@@ -811,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 425819,
+      "num": 425819,
+      "word": "迪丽热巴周也穿了同款",
+      "onboard_time": 1725203901,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 424684,
       "num": 424684,
       "word": "贾一凡vlog香港篇",
@@ -833,6 +849,14 @@
       "onboard_time": 1725158778,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 415970,
+      "num": 415970,
+      "word": "徐锦江真的把徐菲养的很好",
+      "onboard_time": 1725200601,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 414416,
@@ -873,14 +897,6 @@
       "onboard_time": 1725097819,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 386376,
-      "num": 418021,
-      "word": "何秋亊 难受",
-      "onboard_time": 1725203242,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 382061,
@@ -985,14 +1001,6 @@
       "onboard_time": 1725110901,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 320701,
-      "num": 320701,
-      "word": "徐锦江真的把徐菲养的很好",
-      "onboard_time": 1725200601,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 315147,
@@ -1115,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277791,
+      "num": 277791,
+      "word": "王雅繁vs巴多萨",
+      "onboard_time": 1725203361,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 274368,
       "num": 329187,
       "word": "刘亦菲飞吻张靓颖",
@@ -1179,14 +1195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 258090,
-      "num": 258090,
-      "word": "王雅繁vs巴多萨",
-      "onboard_time": 1725203361,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 254266,
       "num": 254266,
       "word": "全红婵贴脸开大干饭哥",
@@ -1224,6 +1232,14 @@
       "word": "全红婵的玩具被没收了",
       "onboard_time": 1725176240,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 247307,
+      "num": 247307,
+      "word": "王楚钦名字带欠人也欠欠的",
+      "onboard_time": 1725204260,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -1339,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222660,
+      "num": 222660,
+      "word": "AG巅峰对决狼队",
+      "onboard_time": 1725203963,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 221975,
       "num": 631628,
       "word": "天舟八号第一批乘客官宣",
@@ -1379,14 +1403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216857,
-      "num": 216857,
-      "word": "AG巅峰对决狼队",
-      "onboard_time": 1725203963,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 216298,
       "num": 216298,
       "word": "樊振东给盛李豪羽毛球拍应援",
@@ -1401,6 +1417,14 @@
       "onboard_time": 1725198202,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 212903,
+      "num": 212903,
+      "word": "王俊凯邓为于适生图",
+      "onboard_time": 1725203963,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 208226,
@@ -1571,6 +1595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 199629,
+      "num": 199629,
+      "word": "有编制了应该躺平吗",
+      "onboard_time": 1725203661,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199162,
       "num": 776443,
       "word": "从小学到大学要经历16次9月1日开学",
@@ -1659,14 +1691,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 192785,
-      "num": 192785,
-      "word": "有编制了应该躺平吗",
-      "onboard_time": 1725203661,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191547,
       "num": 191547,
       "word": "DK对战T1",
@@ -1697,6 +1721,14 @@
       "onboard_time": 1725115462,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 188810,
+      "num": 188810,
+      "word": "国乒给球拍签名根本签不完",
+      "onboard_time": 1725203302,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 188422,
@@ -1811,22 +1843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180414,
-      "num": 180414,
-      "word": "迪丽热巴周也穿了同款",
-      "onboard_time": 1725203901,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 180045,
-      "num": 180045,
-      "word": "王俊凯邓为于适生图",
-      "onboard_time": 1725203963,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 179926,
       "num": 179926,
       "word": "女生在外面上公厕一定要注意",
@@ -1867,20 +1883,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177932,
-      "num": 177932,
-      "word": "国乒给球拍签名根本签不完",
-      "onboard_time": 1725203302,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 177290,
       "num": 177290,
       "word": "林俊杰太原站",
       "onboard_time": 1725174799,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 176733,
+      "num": 176733,
+      "word": "AG锁定胜者组决赛",
+      "onboard_time": 1725204741,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 175377,
@@ -1955,6 +1971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172927,
+      "num": 555351,
+      "word": "我从追空投的小孩长成投空投的人",
+      "onboard_time": 1725204382,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171760,
       "num": 171760,
       "word": "金鹿奖获奖名单",
@@ -1985,6 +2009,14 @@
       "onboard_time": 1725187039,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168292,
+      "num": 168292,
+      "word": "巅峰对决",
+      "onboard_time": 1725204503,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 168271,
@@ -2795,6 +2827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73022,
+      "num": 476734,
+      "word": "儿童手表胡说八道谁担责要查清",
+      "onboard_time": 1725202941,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69321,
       "num": 135269,
       "word": "2024版铁路旅客运输规程",
@@ -2915,6 +2955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51458,
+      "num": 411618,
+      "word": "武汉同济医院医患纠纷背后",
+      "onboard_time": 1725203181,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50368,
       "num": 401076,
       "word": "有被这瓶面霜的成分表惊到",
@@ -2987,28 +3035,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40302,
-      "num": 411618,
-      "word": "武汉同济医院医患纠纷背后",
-      "onboard_time": 1725203181,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 39325,
       "num": 52121,
       "word": "成毅水蓝色造型路透",
       "onboard_time": 1725140832,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 37595,
-      "num": 476734,
-      "word": "儿童手表胡说八道谁担责要查清",
-      "onboard_time": 1725202941,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37111,
