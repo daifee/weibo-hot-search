@@ -1,0 +1,410 @@
+{
+  "runTime": 1725156631693,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1014083,
+        "num": 1162253,
+        "word": "生4胞胎一家9口挤2间小卧室",
+        "onboard_time": 1725113419,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 928447,
+        "num": 928447,
+        "word": "潘展乐 3米我随便跳",
+        "onboard_time": 1725151158,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9333,
+        "num": 712139,
+        "word": "我国海上油气井钻探速度新纪录",
+        "onboard_time": 1725107001,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 667818,
+        "num": 667818,
+        "word": "霍启刚晒与郭晶晶旧照",
+        "onboard_time": 1725147015,
+        "rank": 3,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 476762,
+        "num": 476762,
+        "word": "菲律宾撞击我海警船现场态势图",
+        "onboard_time": 1725147015,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 469915,
+        "num": 469915,
+        "word": "樊振东盛李豪 石狮子和气球人",
+        "onboard_time": 1725151337,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 468797,
+        "num": 468797,
+        "word": "韩国女性回应在中国社交平台求助",
+        "onboard_time": 1725149597,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290967,
+        "num": 465779,
+        "word": "何广智 不会带团队只能自己干到死",
+        "onboard_time": 1725147377,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286672,
+        "num": 464082,
+        "word": "易烊千玺亮相威尼斯晚宴",
+        "onboard_time": 1725153558,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 463099,
+        "num": 463099,
+        "word": "网红医生擦边软色情",
+        "onboard_time": 1725096259,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1022491,
+        "num": 452246,
+        "word": "迪丽热巴回到家一看手机天塌了",
+        "onboard_time": 1725145694,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 869963,
+        "num": 450604,
+        "word": "王祖蓝 终于送走了",
+        "onboard_time": 1725155479,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438174,
+        "num": 438174,
+        "word": "9月你好",
+        "onboard_time": 1725146355,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414416,
+        "num": 414416,
+        "word": "为什么出远门时要在冰箱放一枚硬币",
+        "onboard_time": 1725148456,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 370673,
+        "num": 370673,
+        "word": "豆瓣崩了",
+        "onboard_time": 1725156198,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 350382,
+        "num": 350382,
+        "word": "生下4胞胎父亲称好心人电话不断",
+        "onboard_time": 1725108080,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331445,
+        "num": 331445,
+        "word": "熬夜刷视频睡到中午为何伤身",
+        "onboard_time": 1725125417,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 250603,
+        "num": 330243,
+        "word": "谭松韵侯明昊吻戏",
+        "onboard_time": 1725149777,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236066,
+        "num": 329187,
+        "word": "刘亦菲飞吻张靓颖",
+        "onboard_time": 1725152298,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204130,
+        "num": 326466,
+        "word": "很难不中卢昱晓的美人计",
+        "onboard_time": 1725123438,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 541083,
+        "num": 324909,
+        "word": "园长收学生6.16元巧克力被开除",
+        "onboard_time": 1725113539,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324244,
+        "num": 324244,
+        "word": "德云色解散",
+        "onboard_time": 1725155658,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 298007,
+        "num": 298007,
+        "word": "连续熬夜三年多的身体变化",
+        "onboard_time": 1725150558,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 258964,
+        "num": 258964,
+        "word": "你支持夫妻离婚不要孩子不准离吗",
+        "onboard_time": 1725153316,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222016,
+        "num": 222016,
+        "word": "明年6月到9月没有任何假期",
+        "onboard_time": 1725154399,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207210,
+        "num": 207210,
+        "word": "全红婵贴脸开大干饭哥",
+        "onboard_time": 1725145694,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202768,
+        "num": 202768,
+        "word": "包头地震",
+        "onboard_time": 1725146235,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201767,
+        "num": 201767,
+        "word": "马拉松参赛者半途纷纷去商店买水",
+        "onboard_time": 1725154938,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 190592,
+        "num": 190592,
+        "word": "黄子韬徐艺洋衣服互穿",
+        "onboard_time": 1725114622,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174988,
+        "num": 186415,
+        "word": "杜淳老婆给杜淳发檀健次帅照",
+        "onboard_time": 1725112460,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185100,
+        "num": 185100,
+        "word": "台风珊珊已致日本6死128伤",
+        "onboard_time": 1725152837,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181452,
+        "num": 181452,
+        "word": "收巧克力被开除园长将幼儿园告上法庭",
+        "onboard_time": 1725134592,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179926,
+        "num": 179926,
+        "word": "女生在外面上公厕一定要注意",
+        "onboard_time": 1725152117,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174664,
+        "num": 174664,
+        "word": "我爸把家装修成了他理想中的样子",
+        "onboard_time": 1725154038,
+        "rank": 33,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 164104,
+        "num": 164104,
+        "word": "时代少年团8月行程图",
+        "onboard_time": 1725153438,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163856,
+        "num": 163856,
+        "word": "王一博戴小骨头项链",
+        "onboard_time": 1725114682,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156335,
+        "num": 156335,
+        "word": "王靖雯淘汰",
+        "onboard_time": 1725121458,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152253,
+        "num": 152253,
+        "word": "李闽轩没穿军训服",
+        "onboard_time": 1725115822,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146371,
+        "num": 146371,
+        "word": "檀健次吃肉粉丝吃菜",
+        "onboard_time": 1725153498,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136699,
+        "num": 136699,
+        "word": "镖人",
+        "onboard_time": 1725154999,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131778,
+        "num": 131778,
+        "word": "王鹤棣秦霄贤你俩过于暧昧了",
+        "onboard_time": 1725154697,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128020,
+        "num": 128020,
+        "word": "张晚意这个摇头",
+        "onboard_time": 1725151277,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124225,
+        "num": 124225,
+        "word": "于适 镖人",
+        "onboard_time": 1725154158,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120613,
+        "num": 120613,
+        "word": "柳舟记 婆媳相爱单杀",
+        "onboard_time": 1725154697,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118861,
+        "num": 118861,
+        "word": "九月文案",
+        "onboard_time": 1725147855,
+        "rank": 44,
+        "category": "情感,读书作家"
+      },
+      {
+        "raw_hot": 113679,
+        "num": 113679,
+        "word": "王铮亮想一晚上都不知道怎么回",
+        "onboard_time": 1725150137,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109583,
+        "num": 109583,
+        "word": "九月",
+        "onboard_time": 1725152898,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105601,
+        "num": 105601,
+        "word": "徐海乔 有效出镜",
+        "onboard_time": 1725156619,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101757,
+        "num": 101757,
+        "word": "一句话存档2024年夏天",
+        "onboard_time": 1725155598,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96046,
+        "num": 96046,
+        "word": "樊振东学跳霹雳舞",
+        "onboard_time": 1725155840,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这样寄语莘莘学子#"
+    }
+  }
+}
