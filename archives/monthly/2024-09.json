@@ -1,9 +1,9 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725179084139,
+  "endTime": 1725179874643,
   "band_list": [
     {
-      "raw_hot": 1865619,
+      "raw_hot": 1957251,
       "num": 429909,
       "word": "路虎女司机打退伍军人官方发声",
       "onboard_time": 1725175639,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1250130,
+      "num": 520849,
+      "word": "两名黑人女子遭白人农场主枪杀喂猪",
+      "onboard_time": 1725177559,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1212394,
       "num": 1212394,
       "word": "德云色解散",
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 998129,
-      "num": 446186,
+      "num": 452259,
       "word": "我爸的开心消消乐停在了8739关",
       "onboard_time": 1725170000,
       "rank": 10,
@@ -243,14 +251,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 651683,
-      "num": 457351,
-      "word": "两名黑人女子遭白人农场主枪杀喂猪",
-      "onboard_time": 1725177559,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 619793,
       "num": 619793,
       "word": "菲律宾撞击我海警船现场态势图",
@@ -275,11 +275,43 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 588170,
+      "num": 520068,
+      "word": "徐嘉余 开炮",
+      "onboard_time": 1725178160,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 587250,
+      "num": 587250,
+      "word": "莎头组合终于合体了",
+      "onboard_time": 1725174799,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 569074,
+      "num": 569074,
+      "word": "乒羽混双合照",
+      "onboard_time": 1725177679,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 558485,
       "num": 558485,
       "word": "专家称女生游泳私密贴是智商税",
       "onboard_time": 1725101480,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 552873,
+      "num": 552873,
+      "word": "儿童手表AI否认南京大屠杀存在",
+      "onboard_time": 1725173658,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -289,22 +321,6 @@
       "onboard_time": 1725121458,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 542474,
-      "num": 542474,
-      "word": "儿童手表AI否认南京大屠杀存在",
-      "onboard_time": 1725173658,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 535439,
-      "num": 535439,
-      "word": "莎头组合终于合体了",
-      "onboard_time": 1725174799,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 527403,
@@ -331,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 511279,
+      "num": 511279,
+      "word": "王楚钦全红婵账号互关了",
+      "onboard_time": 1725176479,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 508859,
       "num": 508859,
       "word": "王嘉尔易烊千玺生图",
@@ -355,11 +379,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 493132,
-      "num": 493132,
-      "word": "王楚钦全红婵账号互关了",
-      "onboard_time": 1725176479,
-      "rank": 6,
+      "raw_hot": 485495,
+      "num": 485495,
+      "word": "张雨霏哽咽谈杨家玉李雯雯",
+      "onboard_time": 1725177200,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -443,28 +467,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 430640,
-      "num": 430640,
-      "word": "乒羽混双合照",
-      "onboard_time": 1725177679,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 429048,
       "num": 429048,
       "word": "唐尚珺大学报到称35岁耗不起了",
       "onboard_time": 1725176000,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 425224,
-      "num": 425224,
-      "word": "张雨霏哽咽谈杨家玉李雯雯",
-      "onboard_time": 1725177200,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 424684,
@@ -500,7 +508,7 @@
     },
     {
       "raw_hot": 412224,
-      "num": 486046,
+      "num": 529420,
       "word": "刘亦菲提裙踮脚跑",
       "onboard_time": 1725170419,
       "rank": 23,
@@ -595,6 +603,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 338017,
+      "num": 338017,
+      "word": "余文乐老婆发文道歉",
+      "onboard_time": 1725179360,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 330943,
       "num": 347685,
       "word": "赵丽颖九月行程",
@@ -651,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297247,
+      "num": 415449,
+      "word": "张韶涵成都新皮肤又开大了",
+      "onboard_time": 1725178458,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 294889,
       "num": 468109,
       "word": "谭松韵侯明昊吻戏",
@@ -683,12 +707,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 282967,
-      "num": 282967,
-      "word": "徐嘉余 开炮",
-      "onboard_time": 1725178160,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 278957,
+      "num": 278957,
+      "word": "嗯哼牙齿矫正",
+      "onboard_time": 1725179479,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 274368,
@@ -747,6 +771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 249139,
+      "num": 249139,
+      "word": "全红婵的玩具被没收了",
+      "onboard_time": 1725176240,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 244893,
       "num": 244893,
       "word": "30岁当上奶奶是什么体验",
@@ -779,6 +811,14 @@
       "category": "国内时政,自然"
     },
     {
+      "raw_hot": 238510,
+      "num": 238510,
+      "word": "澳门果然是福地",
+      "onboard_time": 1725178040,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234457,
       "num": 234457,
       "word": "上海最孤独饭店突然爆火",
@@ -787,12 +827,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225542,
-      "num": 225542,
-      "word": "全红婵的玩具被没收了",
-      "onboard_time": 1725176240,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 221622,
+      "num": 528601,
+      "word": "俄称击落乌军158架无人机",
+      "onboard_time": 1725177318,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 218302,
@@ -832,14 +872,6 @@
       "word": "王楚钦的vlog没有王楚钦",
       "onboard_time": 1725156738,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 206718,
-      "num": 206718,
-      "word": "澳门果然是福地",
-      "onboard_time": 1725178040,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -923,14 +955,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 197056,
-      "num": 415449,
-      "word": "张韶涵成都新皮肤又开大了",
-      "onboard_time": 1725178458,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 195728,
       "num": 195728,
       "word": "我爸把家装修成了他理想中的样子",
@@ -969,14 +993,6 @@
       "onboard_time": 1725170419,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 192087,
-      "num": 478056,
-      "word": "俄称击落乌军158架无人机",
-      "onboard_time": 1725177318,
-      "rank": 8,
-      "category": "国外时政"
     },
     {
       "raw_hot": 191547,
@@ -1083,6 +1099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 175377,
+      "num": 333393,
+      "word": "武汉人如何做到边跑边吃热干面",
+      "onboard_time": 1725179420,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 175273,
       "num": 175273,
       "word": "莎头澳门首合体",
@@ -1153,6 +1177,14 @@
       "onboard_time": 1725167119,
       "rank": 42,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 162254,
+      "num": 162254,
+      "word": "澳门颁赠国家奥运健儿1600万元奖金",
+      "onboard_time": 1725179180,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 161740,
@@ -1289,6 +1321,14 @@
       "onboard_time": 1725173058,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135901,
+      "num": 431333,
+      "word": "荣梓杉晒成黑杉老幺",
+      "onboard_time": 1725178098,
+      "rank": 17,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 135483,
@@ -1707,12 +1747,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58782,
-      "num": 431333,
-      "word": "荣梓杉晒成黑杉老幺",
-      "onboard_time": 1725178098,
-      "rank": 17,
-      "category": "作品衍生,艺人"
+      "raw_hot": 59729,
+      "num": 468246,
+      "word": "年近六十我妈沉迷于短视频创作",
+      "onboard_time": 1725177980,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57527,
+      "num": 528218,
+      "word": "女子花3980买的品牌鞋竟是假货",
+      "onboard_time": 1725179719,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56053,
@@ -1729,6 +1777,14 @@
       "onboard_time": 1725175639,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53579,
+      "num": 492568,
+      "word": "10元3堡还我妈生物价",
+      "onboard_time": 1725178098,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 53517,
@@ -1779,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43996,
+      "num": 287432,
+      "word": "SKII新品成分表第一位",
+      "onboard_time": 1725177077,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 43897,
       "num": 52138,
       "word": "樊振东现场教学张雨霏粤语虾饺",
@@ -1787,34 +1851,18 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43229,
-      "num": 433156,
-      "word": "10元3堡还我妈生物价",
-      "onboard_time": 1725178098,
-      "rank": 15,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 42738,
-      "num": 232213,
-      "word": "SKII新品成分表第一位",
-      "onboard_time": 1725177077,
-      "rank": 35,
-      "category": "美妆"
+      "raw_hot": 42468,
+      "num": 362957,
+      "word": "官方通报刘谦团队腹泻事件",
+      "onboard_time": 1725179840,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 41542,
       "num": 283228,
       "word": "警方采集DNA寻找高空抛物肇事者",
       "onboard_time": 1725124277,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41499,
-      "num": 468246,
-      "word": "年近六十我妈沉迷于短视频创作",
-      "onboard_time": 1725177980,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -1955,6 +2003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24520,
+      "num": 433910,
+      "word": "新学期人设是自己给的",
+      "onboard_time": 1725178040,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24276,
       "num": 332006,
       "word": "体检被推荐加项多花近万元",
@@ -1963,7 +2019,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22677,
+      "raw_hot": 23721,
       "num": 186572,
       "word": "给老外一点东方震撼",
       "onboard_time": 1725178219,
@@ -1988,18 +2044,10 @@
     },
     {
       "raw_hot": 20563,
-      "num": 204550,
+      "num": 238633,
       "word": "刚开学就被张朝阳种草了量子力学",
       "onboard_time": 1725177739,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16295,
-      "num": 433910,
-      "word": "新学期人设是自己给的",
-      "onboard_time": 1725178040,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
