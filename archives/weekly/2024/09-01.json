@@ -1,10 +1,10 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725172172157,
+  "endTime": 1725172936571,
   "band_list": [
     {
-      "raw_hot": 1787706,
-      "num": 1787706,
+      "raw_hot": 1798685,
+      "num": 1798685,
       "word": "袁隆平孙女今年入读中国农业大学",
       "onboard_time": 1725169159,
       "rank": 0,
@@ -83,7 +83,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 979159,
+      "raw_hot": 998129,
       "num": 443373,
       "word": "我爸的开心消消乐停在了8739关",
       "onboard_time": 1725170000,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 676717,
+      "num": 676717,
+      "word": "返校发现宿舍已长出半人高的草",
+      "onboard_time": 1725168080,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 619793,
       "num": 619793,
       "word": "菲律宾撞击我海警船现场态势图",
@@ -241,14 +249,6 @@
       "onboard_time": 1725104900,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 518114,
-      "num": 518114,
-      "word": "返校发现宿舍已长出半人高的草",
-      "onboard_time": 1725168080,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 513365,
@@ -307,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 469317,
+      "num": 353014,
+      "word": "为什么大家坐高铁都不想选ABC座",
+      "onboard_time": 1725167240,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 463828,
       "num": 463828,
       "word": "9月你好",
@@ -329,6 +337,14 @@
       "onboard_time": 1725154938,
       "rank": 43,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 441593,
+      "num": 587516,
+      "word": "四胞胎系外地户口上不了公立学校",
+      "onboard_time": 1725167479,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 432051,
@@ -387,16 +403,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 384587,
-      "num": 587516,
-      "word": "四胞胎系外地户口上不了公立学校",
-      "onboard_time": 1725167479,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 382061,
-      "num": 382061,
+      "num": 426659,
       "word": "俄称击落多架企图袭击莫斯科的无人机",
       "onboard_time": 1725167000,
       "rank": 23,
@@ -435,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 365343,
-      "num": 353014,
-      "word": "为什么大家坐高铁都不想选ABC座",
-      "onboard_time": 1725167240,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 362456,
       "num": 425438,
       "word": "藏海花1个人睡120000平",
@@ -467,11 +467,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327390,
+      "num": 327390,
+      "word": "刘亦菲提裙踮脚跑",
+      "onboard_time": 1725170419,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 325608,
       "num": 398480,
       "word": "夫妻离婚都不要大女儿法院判不准离",
       "onboard_time": 1725110901,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316657,
+      "num": 301561,
+      "word": "女子称上班1年胖了40斤果断离职",
+      "onboard_time": 1725169578,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -504,14 +520,6 @@
       "word": "四胞胎出生后住保温箱还没见过母亲",
       "onboard_time": 1725117141,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 301561,
-      "num": 301561,
-      "word": "女子称上班1年胖了40斤果断离职",
-      "onboard_time": 1725169578,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -561,14 +569,6 @@
       "onboard_time": 1725160999,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 262642,
-      "num": 262642,
-      "word": "刘亦菲提裙踮脚跑",
-      "onboard_time": 1725170419,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 259971,
@@ -747,12 +747,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192572,
+      "num": 192572,
+      "word": "中医建议我不吃晚饭不喝牛奶",
+      "onboard_time": 1725172578,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 190639,
       "num": 190639,
       "word": "庞博文 求你们别走",
       "onboard_time": 1725115462,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 189962,
+      "num": 189962,
+      "word": "高铁车厢里全是碎掉的大学生",
+      "onboard_time": 1725172458,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 187605,
+      "num": 187605,
+      "word": "陈丽君首登央视中秋晚会",
+      "onboard_time": 1725171859,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 185554,
@@ -769,6 +793,22 @@
       "onboard_time": 1725152837,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184611,
+      "num": 184611,
+      "word": "拼车拼到了一只小狗乘客",
+      "onboard_time": 1725170419,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 183689,
+      "num": 182901,
+      "word": "盛李豪全红婵合体打羽毛球",
+      "onboard_time": 1725170478,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 181452,
@@ -795,12 +835,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 178660,
-      "num": 178660,
-      "word": "拼车拼到了一只小狗乘客",
-      "onboard_time": 1725170419,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 179690,
+      "num": 179690,
+      "word": "TXT澳门演唱会",
+      "onboard_time": 1725172159,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 178002,
@@ -867,12 +907,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 162604,
+      "num": 162604,
+      "word": "上海最孤独饭店突然爆火",
+      "onboard_time": 1725172458,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161740,
       "num": 161740,
       "word": "任敏工作室否认恋情",
       "onboard_time": 1725112941,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160327,
+      "num": 446970,
+      "word": "博士生入职高校为何越来越难",
+      "onboard_time": 1725170539,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159250,
@@ -923,14 +979,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 148249,
-      "num": 148249,
-      "word": "盛李豪全红婵合体打羽毛球",
-      "onboard_time": 1725170478,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 147427,
       "num": 147427,
       "word": "许嵩上海演唱会嘉宾是薛之谦",
@@ -953,6 +1001,14 @@
       "onboard_time": 1725154697,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144843,
+      "num": 144843,
+      "word": "贺峻霖安慰严浩翔",
+      "onboard_time": 1725172039,
+      "rank": 46,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 138536,
@@ -1035,14 +1091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127047,
-      "num": 127047,
-      "word": "陈丽君首登央视中秋晚会",
-      "onboard_time": 1725171859,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 126074,
       "num": 165358,
       "word": "李克勤擦口红这段",
@@ -1065,6 +1113,14 @@
       "onboard_time": 1725120919,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123490,
+      "num": 123490,
+      "word": "罗永浩再回应婚丧嫁娶主持业务",
+      "onboard_time": 1725172701,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 123318,
@@ -1105,6 +1161,14 @@
       "onboard_time": 1725169159,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119100,
+      "num": 119100,
+      "word": "潘展乐樊振东相互借手打招呼",
+      "onboard_time": 1725171740,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 117801,
@@ -1155,12 +1219,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 110120,
-      "num": 110120,
-      "word": "贺峻霖安慰严浩翔",
-      "onboard_time": 1725172039,
-      "rank": 46,
-      "category": "综艺,电竞"
+      "raw_hot": 111822,
+      "num": 111822,
+      "word": "用一小块羊肉做了六个菜",
+      "onboard_time": 1725172879,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 109442,
@@ -1219,14 +1283,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 101356,
-      "num": 101356,
-      "word": "TXT澳门演唱会",
-      "onboard_time": 1725172159,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
       "raw_hot": 100761,
       "num": 120287,
       "word": "狮子座开始冷淡的原因",
@@ -1243,12 +1299,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 98372,
-      "num": 98372,
-      "word": "潘展乐樊振东相互借手打招呼",
-      "onboard_time": 1725171740,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 99111,
+      "num": 362766,
+      "word": "边水往事细节刀",
+      "onboard_time": 1725171139,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 97660,
@@ -1299,22 +1355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 84314,
-      "num": 446970,
-      "word": "博士生入职高校为何越来越难",
-      "onboard_time": 1725170539,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 75632,
-      "num": 362766,
-      "word": "边水往事细节刀",
-      "onboard_time": 1725171139,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 73234,
       "num": 91361,
       "word": "赵露思侧麻花辫",
@@ -1355,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64359,
+      "num": 391678,
+      "word": "陈昊宇美到发光",
+      "onboard_time": 1725167600,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63580,
       "num": 185595,
       "word": "这件文物把考古专家整迷糊了",
@@ -1369,14 +1417,6 @@
       "onboard_time": 1725166940,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61660,
-      "num": 391678,
-      "word": "陈昊宇美到发光",
-      "onboard_time": 1725167600,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 56053,
