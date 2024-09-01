@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725182476077,
+  "endTime": 1725183304416,
   "band_list": [
     {
       "raw_hot": 1957251,
@@ -91,20 +91,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1109392,
+      "num": 1109392,
+      "word": "余文乐老婆发文道歉",
+      "onboard_time": 1725179360,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1048519,
       "num": 1048519,
       "word": "盛李豪他们都笑你",
       "onboard_time": 1725165619,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1035871,
-      "num": 1035871,
-      "word": "余文乐老婆发文道歉",
-      "onboard_time": 1725179360,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 1022491,
@@ -243,12 +243,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 711528,
+      "num": 711528,
+      "word": "刘亦菲打错英文单词",
+      "onboard_time": 1725181280,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 709877,
       "num": 709877,
       "word": "马龙和儿子一个名字了",
       "onboard_time": 1725173359,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 708530,
+      "num": 670638,
+      "word": "嗯哼牙齿矫正",
+      "onboard_time": 1725179479,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 705077,
@@ -273,14 +289,6 @@
       "onboard_time": 1725168080,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 670638,
-      "num": 670638,
-      "word": "嗯哼牙齿矫正",
-      "onboard_time": 1725179479,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 628067,
@@ -360,14 +368,6 @@
       "word": "金靖孩子随自己姓",
       "onboard_time": 1725104900,
       "rank": 8,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 526376,
-      "num": 526376,
-      "word": "刘亦菲打错英文单词",
-      "onboard_time": 1725181280,
-      "rank": 7,
       "category": "艺人"
     },
     {
@@ -723,6 +723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 285947,
+      "num": 226079,
+      "word": "J人和P人做PPT的区别",
+      "onboard_time": 1725181939,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 285554,
       "num": 285554,
       "word": "老人在足浴店消费超30万儿子发声",
@@ -867,8 +875,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209054,
-      "num": 209054,
+      "raw_hot": 213449,
+      "num": 213449,
       "word": "田曦薇婉拒王安宇",
       "onboard_time": 1725181638,
       "rank": 27,
@@ -931,6 +939,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 203704,
+      "num": 203704,
+      "word": "王一博就这么水灵灵的游过去了",
+      "onboard_time": 1725182119,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203334,
       "num": 282083,
       "word": "再被骄阳伴我暖一次吧",
@@ -971,12 +987,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 200669,
+      "num": 200669,
+      "word": "9岁男孩骑车腹部被车把手插入",
+      "onboard_time": 1725181400,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199162,
       "num": 776443,
       "word": "从小学到大学要经历16次9月1日开学",
       "onboard_time": 1725151817,
       "rank": 49,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 197454,
+      "num": 201597,
+      "word": "邓为 倾城之金",
+      "onboard_time": 1725182719,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 195728,
@@ -1017,14 +1049,6 @@
       "onboard_time": 1725170419,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 191929,
-      "num": 203446,
-      "word": "王一博就这么水灵灵的游过去了",
-      "onboard_time": 1725182119,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 191547,
@@ -1097,14 +1121,6 @@
       "onboard_time": 1725160038,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 179952,
-      "num": 179952,
-      "word": "J人和P人做PPT的区别",
-      "onboard_time": 1725181939,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 179926,
@@ -1225,14 +1241,6 @@
       "onboard_time": 1725167119,
       "rank": 42,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 169326,
-      "num": 169326,
-      "word": "9岁男孩骑车腹部被车把手插入",
-      "onboard_time": 1725181400,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167353,
@@ -1363,6 +1371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146025,
+      "num": 146025,
+      "word": "潘展乐贴脸开大记者",
+      "onboard_time": 1725180620,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145581,
       "num": 145581,
       "word": "口吃亲历者评价王俊凯演的周正",
@@ -1393,14 +1409,6 @@
       "onboard_time": 1725176118,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 141100,
-      "num": 141100,
-      "word": "潘展乐贴脸开大记者",
-      "onboard_time": 1725180620,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 138974,
@@ -1491,6 +1499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129208,
+      "num": 129208,
+      "word": "许嵩紧急撤回一个多余的妹妹",
+      "onboard_time": 1725182958,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 128869,
       "num": 128869,
       "word": "汪苏泷晒演唱会大合照",
@@ -1505,6 +1521,22 @@
       "onboard_time": 1725108259,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127332,
+      "num": 127332,
+      "word": "蒋敦豪 太热了",
+      "onboard_time": 1725183138,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 127090,
+      "num": 127090,
+      "word": "车主误会了猫咪的好意",
+      "onboard_time": 1725182659,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 126074,
@@ -1545,6 +1577,14 @@
       "onboard_time": 1725119479,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 121562,
+      "num": 121562,
+      "word": "徐嘉余晒访澳合照",
+      "onboard_time": 1725183080,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 121384,
@@ -1731,6 +1771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 99764,
+      "num": 492568,
+      "word": "10元3堡还我妈生物价",
+      "onboard_time": 1725178098,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
       "raw_hot": 99111,
       "num": 362766,
       "word": "边水往事细节刀",
@@ -1787,12 +1835,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87666,
-      "num": 492568,
-      "word": "10元3堡还我妈生物价",
-      "onboard_time": 1725178098,
-      "rank": 15,
-      "category": "美食"
+      "raw_hot": 74929,
+      "num": 333362,
+      "word": "陈少熙太喜欢付航了",
+      "onboard_time": 1725182119,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 73234,
@@ -1963,14 +2011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 41202,
-      "num": 333362,
-      "word": "陈少熙太喜欢付航了",
-      "onboard_time": 1725182119,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 39325,
       "num": 52121,
       "word": "成毅水蓝色造型路透",
@@ -2017,6 +2057,14 @@
       "onboard_time": 1725164659,
       "rank": 45,
       "category": "电影,时尚"
+    },
+    {
+      "raw_hot": 34639,
+      "num": 311349,
+      "word": "莫斯科炼油厂因乌无人机袭击起火",
+      "onboard_time": 1725183200,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 34599,
@@ -2163,7 +2211,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 13941,
+      "raw_hot": 15259,
       "num": 167506,
       "word": "8倍pitera能有什么功效",
       "onboard_time": 1725180438,
