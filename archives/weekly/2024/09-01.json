@@ -1,7 +1,15 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725169066829,
+  "endTime": 1725172172157,
   "band_list": [
+    {
+      "raw_hot": 1787706,
+      "num": 1787706,
+      "word": "袁隆平孙女今年入读中国农业大学",
+      "onboard_time": 1725169159,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1720220,
       "num": 1720220,
@@ -73,6 +81,14 @@
       "onboard_time": 1725145694,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 979159,
+      "num": 443373,
+      "word": "我爸的开心消消乐停在了8739关",
+      "onboard_time": 1725170000,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 938284,
@@ -187,20 +203,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 604547,
+      "num": 604547,
+      "word": "孙颖莎回应国乒与其他国家差距收窄",
+      "onboard_time": 1725166100,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 598386,
       "num": 598386,
       "word": "王一博戴小骨头项链",
       "onboard_time": 1725114682,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 577269,
-      "num": 577269,
-      "word": "孙颖莎回应国乒与其他国家差距收窄",
-      "onboard_time": 1725166100,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 558485,
@@ -225,6 +241,14 @@
       "onboard_time": 1725104900,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 518114,
+      "num": 518114,
+      "word": "返校发现宿舍已长出半人高的草",
+      "onboard_time": 1725168080,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 513365,
@@ -363,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 384587,
+      "num": 587516,
+      "word": "四胞胎系外地户口上不了公立学校",
+      "onboard_time": 1725167479,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 382061,
       "num": 382061,
       "word": "俄称击落多架企图袭击莫斯科的无人机",
@@ -403,6 +435,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 365343,
+      "num": 353014,
+      "word": "为什么大家坐高铁都不想选ABC座",
+      "onboard_time": 1725167240,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 362456,
+      "num": 425438,
+      "word": "藏海花1个人睡120000平",
+      "onboard_time": 1725167179,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 339028,
       "num": 339028,
       "word": "乌克兰要求蒙古国逮捕普京",
@@ -425,14 +473,6 @@
       "onboard_time": 1725110901,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 318065,
-      "num": 425438,
-      "word": "藏海花1个人睡120000平",
-      "onboard_time": 1725167179,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 315147,
@@ -467,12 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 298478,
-      "num": 298478,
-      "word": "为什么大家坐高铁都不想选ABC座",
-      "onboard_time": 1725167240,
-      "rank": 35,
-      "category": "情感"
+      "raw_hot": 301561,
+      "num": 301561,
+      "word": "女子称上班1年胖了40斤果断离职",
+      "onboard_time": 1725169578,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294889,
@@ -521,6 +561,14 @@
       "onboard_time": 1725160999,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 262642,
+      "num": 262642,
+      "word": "刘亦菲提裙踮脚跑",
+      "onboard_time": 1725170419,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 259971,
@@ -603,20 +651,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 217620,
-      "num": 217620,
-      "word": "返校发现宿舍已长出半人高的草",
-      "onboard_time": 1725168080,
-      "rank": 48,
-      "category": "教育"
-    },
-    {
       "raw_hot": 208226,
       "num": 326466,
       "word": "很难不中卢昱晓的美人计",
       "onboard_time": 1725123438,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207187,
+      "num": 270172,
+      "word": "王一博把刀砍断了",
+      "onboard_time": 1725166339,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 206761,
@@ -665,14 +713,6 @@
       "onboard_time": 1725158778,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 199244,
-      "num": 270172,
-      "word": "王一博把刀砍断了",
-      "onboard_time": 1725166339,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 199162,
@@ -755,6 +795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178660,
+      "num": 178660,
+      "word": "拼车拼到了一只小狗乘客",
+      "onboard_time": 1725170419,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 178002,
       "num": 178002,
       "word": "五集就把祝绪丹给演爽了",
@@ -785,6 +833,14 @@
       "onboard_time": 1725101059,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173557,
+      "num": 173557,
+      "word": "莎头与澳门运动员交流球技",
+      "onboard_time": 1725171139,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 173432,
@@ -835,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157538,
+      "num": 157538,
+      "word": "家里有弟弟妹妹才懂这种感受",
+      "onboard_time": 1725167240,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155206,
       "num": 215071,
       "word": "镖人",
@@ -857,6 +921,14 @@
       "onboard_time": 1725161600,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 148249,
+      "num": 148249,
+      "word": "盛李豪全红婵合体打羽毛球",
+      "onboard_time": 1725170478,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 147427,
@@ -883,12 +955,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142363,
-      "num": 142363,
-      "word": "家里有弟弟妹妹才懂这种感受",
-      "onboard_time": 1725167240,
-      "rank": 46,
-      "category": "情感"
+      "raw_hot": 138536,
+      "num": 138536,
+      "word": "开学到寒假一共91天课",
+      "onboard_time": 1725169819,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 137440,
@@ -897,14 +969,6 @@
       "onboard_time": 1725147855,
       "rank": 38,
       "category": "情感,读书作家"
-    },
-    {
-      "raw_hot": 135561,
-      "num": 587516,
-      "word": "四胞胎系外地户口上不了公立学校",
-      "onboard_time": 1725167479,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135483,
@@ -971,6 +1035,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127047,
+      "num": 127047,
+      "word": "陈丽君首登央视中秋晚会",
+      "onboard_time": 1725171859,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 126074,
+      "num": 165358,
+      "word": "李克勤擦口红这段",
+      "onboard_time": 1725168258,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124734,
       "num": 124734,
       "word": "徐海乔演技",
@@ -995,6 +1075,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 121384,
+      "num": 121384,
+      "word": "许昕 双开门",
+      "onboard_time": 1725170778,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121112,
       "num": 121112,
       "word": "不想开学",
@@ -1009,6 +1097,14 @@
       "onboard_time": 1725120859,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 119292,
+      "num": 119292,
+      "word": "心动的信号",
+      "onboard_time": 1725169159,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 117801,
@@ -1059,6 +1155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 110120,
+      "num": 110120,
+      "word": "贺峻霖安慰严浩翔",
+      "onboard_time": 1725172039,
+      "rank": 46,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 109442,
       "num": 109442,
       "word": "内蒙古包头市3.8级地震",
@@ -1099,14 +1203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104343,
-      "num": 165358,
-      "word": "李克勤擦口红这段",
-      "onboard_time": 1725168258,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 101757,
       "num": 1211190,
       "word": "一句话存档2024年夏天",
@@ -1123,12 +1219,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 101356,
+      "num": 101356,
+      "word": "TXT澳门演唱会",
+      "onboard_time": 1725172159,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 100761,
       "num": 120287,
       "word": "狮子座开始冷淡的原因",
       "onboard_time": 1725111682,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 99887,
+      "num": 99887,
+      "word": "有一种不用脑子的轻松幸福感",
+      "onboard_time": 1725171920,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 98372,
+      "num": 98372,
+      "word": "潘展乐樊振东相互借手打招呼",
+      "onboard_time": 1725171740,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 97660,
@@ -1177,6 +1297,22 @@
       "onboard_time": 1725123797,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84314,
+      "num": 446970,
+      "word": "博士生入职高校为何越来越难",
+      "onboard_time": 1725170539,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75632,
+      "num": 362766,
+      "word": "边水往事细节刀",
+      "onboard_time": 1725171139,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 73234,
@@ -1233,6 +1369,14 @@
       "onboard_time": 1725166940,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61660,
+      "num": 391678,
+      "word": "陈昊宇美到发光",
+      "onboard_time": 1725167600,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 56053,
@@ -1379,14 +1523,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 29864,
-      "num": 391678,
-      "word": "陈昊宇美到发光",
-      "onboard_time": 1725167600,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 29778,
       "num": 45924,
       "word": "汪苏泷合肥演唱会罗曼城打卡镜头",
@@ -1433,6 +1569,14 @@
       "onboard_time": 1725166819,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 20791,
+      "num": 370563,
+      "word": "发条微博为新学期加油",
+      "onboard_time": 1725170659,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15617,

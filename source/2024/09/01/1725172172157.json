@@ -1,0 +1,410 @@
+{
+  "runTime": 1725172172157,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1787706,
+        "num": 1787706,
+        "word": "袁隆平孙女今年入读中国农业大学",
+        "onboard_time": 1725169159,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 856054,
+        "num": 856054,
+        "word": "刘谦团队集体食物中毒",
+        "onboard_time": 1725163399,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28034,
+        "num": 764334,
+        "word": "一句话存档2024年夏天",
+        "onboard_time": 1725155598,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 716999,
+        "num": 716999,
+        "word": "盛李豪他们都笑你",
+        "onboard_time": 1725165619,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 604547,
+        "num": 604547,
+        "word": "孙颖莎回应国乒与其他国家差距收窄",
+        "onboard_time": 1725166100,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 521259,
+        "num": 521259,
+        "word": "王祖蓝 终于送走了",
+        "onboard_time": 1725155479,
+        "rank": 5,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 518114,
+        "num": 518114,
+        "word": "返校发现宿舍已长出半人高的草",
+        "onboard_time": 1725168080,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 493099,
+        "num": 493099,
+        "word": "曾黎直播到一半灯塌了",
+        "onboard_time": 1725164360,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455213,
+        "num": 455213,
+        "word": "第一批打司美格鲁肽的人已经后悔了",
+        "onboard_time": 1725160218,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84314,
+        "num": 446970,
+        "word": "博士生入职高校为何越来越难",
+        "onboard_time": 1725170539,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 979159,
+        "num": 443373,
+        "word": "我爸的开心消消乐停在了8739关",
+        "onboard_time": 1725170000,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 438937,
+        "num": 438937,
+        "word": "福宝已进入假孕状态",
+        "onboard_time": 1725159559,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384587,
+        "num": 384587,
+        "word": "四胞胎系外地户口上不了公立学校",
+        "onboard_time": 1725167479,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370772,
+        "num": 370772,
+        "word": "德云色解散",
+        "onboard_time": 1725155658,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20791,
+        "num": 370563,
+        "word": "发条微博为新学期加油",
+        "onboard_time": 1725170659,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370509,
+        "num": 370509,
+        "word": "刘学义劝纪凌尘找个路人缘好的",
+        "onboard_time": 1725166459,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61660,
+        "num": 364162,
+        "word": "陈昊宇美到发光",
+        "onboard_time": 1725167600,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75632,
+        "num": 362766,
+        "word": "边水往事细节刀",
+        "onboard_time": 1725171139,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 362456,
+        "num": 362456,
+        "word": "藏海花1个人睡120000平",
+        "onboard_time": 1725167179,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354732,
+        "num": 354732,
+        "word": "迪丽热巴回到家一看手机天塌了",
+        "onboard_time": 1725145694,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365343,
+        "num": 353014,
+        "word": "为什么大家坐高铁都不想选ABC座",
+        "onboard_time": 1725167240,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 333857,
+        "num": 333857,
+        "word": "一针瘦20斤网红神药开始在县城流行",
+        "onboard_time": 1725160339,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301561,
+        "num": 301561,
+        "word": "女子称上班1年胖了40斤果断离职",
+        "onboard_time": 1725169578,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262642,
+        "num": 262642,
+        "word": "刘亦菲提裙踮脚跑",
+        "onboard_time": 1725170419,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254764,
+        "num": 254764,
+        "word": "俄称击落多架企图袭击莫斯科的无人机",
+        "onboard_time": 1725167000,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 235397,
+        "num": 235397,
+        "word": "央媒探访阴阳价格面馆",
+        "onboard_time": 1725157399,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217329,
+        "num": 217329,
+        "word": "莫斯科",
+        "onboard_time": 1725165379,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 207187,
+        "num": 207187,
+        "word": "王一博把刀砍断了",
+        "onboard_time": 1725166339,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197513,
+        "num": 197513,
+        "word": "明年6月到9月没有任何假期",
+        "onboard_time": 1725154399,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182279,
+        "num": 182279,
+        "word": "中石油",
+        "onboard_time": 1725161058,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 178660,
+        "num": 178660,
+        "word": "拼车拼到了一只小狗乘客",
+        "onboard_time": 1725170419,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173557,
+        "num": 173557,
+        "word": "莎头与澳门运动员交流球技",
+        "onboard_time": 1725171139,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170309,
+        "num": 170309,
+        "word": "这是我们的国歌",
+        "onboard_time": 1725161358,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169902,
+        "num": 169902,
+        "word": "9月你好",
+        "onboard_time": 1725146355,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142468,
+        "num": 160746,
+        "word": "王嘉尔易烊千玺生图",
+        "onboard_time": 1725157399,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157538,
+        "num": 157538,
+        "word": "家里有弟弟妹妹才懂这种感受",
+        "onboard_time": 1725167240,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148249,
+        "num": 148249,
+        "word": "盛李豪全红婵合体打羽毛球",
+        "onboard_time": 1725170478,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138536,
+        "num": 138536,
+        "word": "开学到寒假一共91天课",
+        "onboard_time": 1725169819,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 135898,
+        "num": 135898,
+        "word": "樊振东 我跳舞有点天赋",
+        "onboard_time": 1725163520,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129470,
+        "num": 129470,
+        "word": "马龙只是看着乖",
+        "onboard_time": 1725168439,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127047,
+        "num": 127047,
+        "word": "陈丽君首登央视中秋晚会",
+        "onboard_time": 1725171859,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126074,
+        "num": 126074,
+        "word": "李克勤擦口红这段",
+        "onboard_time": 1725168258,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121384,
+        "num": 121384,
+        "word": "许昕 双开门",
+        "onboard_time": 1725170778,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121213,
+        "num": 121213,
+        "word": "赵丽颖九月行程",
+        "onboard_time": 1725160759,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119292,
+        "num": 119292,
+        "word": "心动的信号",
+        "onboard_time": 1725169159,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111394,
+        "num": 111394,
+        "word": "王宜林",
+        "onboard_time": 1725160999,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110120,
+        "num": 110120,
+        "word": "贺峻霖安慰严浩翔",
+        "onboard_time": 1725172039,
+        "rank": 46,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 101356,
+        "num": 101356,
+        "word": "TXT澳门演唱会",
+        "onboard_time": 1725172159,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99887,
+        "num": 99887,
+        "word": "有一种不用脑子的轻松幸福感",
+        "onboard_time": 1725171920,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98372,
+        "num": 98372,
+        "word": "潘展乐樊振东相互借手打招呼",
+        "onboard_time": 1725171740,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#系好人生的第一颗纽扣#"
+    }
+  }
+}
