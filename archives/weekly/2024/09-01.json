@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725204902979,
+  "endTime": 1725207925221,
   "band_list": [
     {
       "raw_hot": 2103437,
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 773969,
+      "num": 773969,
+      "word": "林俊杰cue谭松韵",
+      "onboard_time": 1725206000,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
       "raw_hot": 756085,
       "num": 756085,
       "word": "霍启刚晒与郭晶晶旧照",
@@ -369,6 +377,14 @@
       "onboard_time": 1725177679,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 717738,
+      "num": 717738,
+      "word": "SM英国男团成员身材",
+      "onboard_time": 1725205041,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 711528,
@@ -459,6 +475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 645610,
+      "num": 461202,
+      "word": "28岁机车网红三毛子因车祸去世",
+      "onboard_time": 1725205880,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 636669,
       "num": 636669,
       "word": "乒羽混双大魔王 向你开炮",
@@ -521,6 +545,14 @@
       "onboard_time": 1725194720,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 600751,
+      "num": 448010,
+      "word": "迪丽热巴周也穿了同款",
+      "onboard_time": 1725203901,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 598386,
@@ -803,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 433463,
+      "num": 433463,
+      "word": "王楚钦名字带欠人也欠欠的",
+      "onboard_time": 1725204260,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 432051,
       "num": 432051,
       "word": "杜淳老婆给杜淳发檀健次帅照",
@@ -817,14 +857,6 @@
       "onboard_time": 1725176000,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 425819,
-      "num": 425819,
-      "word": "迪丽热巴周也穿了同款",
-      "onboard_time": 1725203901,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 424684,
@@ -1091,6 +1123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 289293,
+      "num": 289293,
+      "word": "大爷拿走价值3千兔子问你能把我怎样",
+      "onboard_time": 1725202282,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286672,
       "num": 464082,
       "word": "易烊千玺亮相威尼斯晚宴",
@@ -1179,14 +1219,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 258792,
-      "num": 258792,
-      "word": "大爷拿走价值3千兔子问你能把我怎样",
-      "onboard_time": 1725202282,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 258329,
       "num": 258329,
       "word": "樊振东唱歌前小声说欢呼一下",
@@ -1232,14 +1264,6 @@
       "word": "全红婵的玩具被没收了",
       "onboard_time": 1725176240,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 247307,
-      "num": 247307,
-      "word": "王楚钦名字带欠人也欠欠的",
-      "onboard_time": 1725204260,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -1859,6 +1883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 179547,
+      "num": 179547,
+      "word": "王楚钦回应比赛中喊来走",
+      "onboard_time": 1725205939,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179530,
       "num": 179530,
       "word": "吃到古偶帝后cp的细糠了",
@@ -1897,6 +1929,14 @@
       "onboard_time": 1725204741,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 176731,
+      "num": 176731,
+      "word": "崔胜澈自拍",
+      "onboard_time": 1725205521,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 175377,
@@ -2164,7 +2204,7 @@
     },
     {
       "raw_hot": 156900,
-      "num": 156900,
+      "num": 432770,
       "word": "一路向前总会看到星光满天",
       "onboard_time": 1725201022,
       "rank": 47,
@@ -2283,6 +2323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 147413,
+      "num": 138829,
+      "word": "汪苏泷说自己又被蛐蛐了",
+      "onboard_time": 1725205279,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146176,
       "num": 146176,
       "word": "孙颖莎教陈清晨打球",
@@ -2345,6 +2393,14 @@
       "onboard_time": 1725189678,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 139526,
+      "num": 139526,
+      "word": "曼联vs利物浦",
+      "onboard_time": 1725205400,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 138974,
@@ -2417,6 +2473,14 @@
       "onboard_time": 1725154697,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131567,
+      "num": 131567,
+      "word": "全红婵说陈若琳很像母亲",
+      "onboard_time": 1725206299,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 131406,
@@ -2497,6 +2561,14 @@
       "onboard_time": 1725120919,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123611,
+      "num": 123611,
+      "word": "奥运群像",
+      "onboard_time": 1725207018,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 123490,
