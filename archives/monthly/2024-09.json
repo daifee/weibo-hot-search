@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725215177670,
+  "endTime": 1725215994710,
   "band_list": [
     {
       "raw_hot": 2103437,
@@ -2131,6 +2131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161874,
+      "num": 161874,
+      "word": "退役军人安置条例今起施行",
+      "onboard_time": 1725212113,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 161740,
       "num": 161740,
       "word": "任敏工作室否认恋情",
@@ -2169,14 +2177,6 @@
       "onboard_time": 1725179059,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158626,
-      "num": 158626,
-      "word": "退役军人安置条例今起施行",
-      "onboard_time": 1725212113,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 158512,
@@ -3193,6 +3193,14 @@
       "onboard_time": 1725127573,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 36864,
+      "num": 36864,
+      "word": "朱一龙连续三年提名金鹿奖最佳男演员",
+      "onboard_time": 1725215293,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 35932,

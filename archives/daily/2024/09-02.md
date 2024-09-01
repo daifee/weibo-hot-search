@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/02 00:25:25 ~ 2024/09/02 02:26:17
+本榜单时间：2024/09/02 00:25:25 ~ 2024/09/02 02:39:54
 </p>
 </blockquote>
 <p>
@@ -190,7 +190,7 @@ BIGBANG三成员同台（热度：181804）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%80%E5%BD%B9%E5%86%9B%E4%BA%BA%E5%AE%89%E7%BD%AE%E6%9D%A1%E4%BE%8B%E4%BB%8A%E8%B5%B7%E6%96%BD%E8%A1%8C%23" target="weibo">
-退役军人安置条例今起施行（热度：158626）
+退役军人安置条例今起施行（热度：161874）
 </a>
 </li>
 
@@ -359,6 +359,12 @@ BIGBANG三成员同台（热度：181804）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%AD%99%E6%A5%A0%E5%90%88%E5%94%B1%E7%BC%98%E5%88%86%E7%9A%84%E5%A4%A9%E7%A9%BA%23" target="weibo">
 汪苏泷孙楠合唱缘分的天空（热度：36925）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E8%BF%9E%E7%BB%AD%E4%B8%89%E5%B9%B4%E6%8F%90%E5%90%8D%E9%87%91%E9%B9%BF%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E6%BC%94%E5%91%98%23" target="weibo">
+朱一龙连续三年提名金鹿奖最佳男演员（热度：36864）
 </a>
 </li>
 

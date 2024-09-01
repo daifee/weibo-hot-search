@@ -1,6 +1,6 @@
 {
   "startTime": 1725207925221,
-  "endTime": 1725215177670,
+  "endTime": 1725215994710,
   "band_list": [
     {
       "raw_hot": 1134403,
@@ -235,8 +235,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158626,
-      "num": 158626,
+      "raw_hot": 161874,
+      "num": 161874,
       "word": "退役军人安置条例今起施行",
       "onboard_time": 1725212113,
       "rank": 3,
@@ -465,6 +465,14 @@
       "onboard_time": 1725213974,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 36864,
+      "num": 36864,
+      "word": "朱一龙连续三年提名金鹿奖最佳男演员",
+      "onboard_time": 1725215293,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 19793,
