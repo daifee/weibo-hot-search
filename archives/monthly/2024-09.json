@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725161261798,
+  "endTime": 1725162084077,
   "band_list": [
     {
       "raw_hot": 1720220,
@@ -19,6 +19,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1370603,
+      "num": 1370603,
+      "word": "迪丽热巴五套迪奥高定",
+      "onboard_time": 1725161479,
+      "rank": 0,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1274818,
+      "num": 1274818,
+      "word": "福宝已进入假孕状态",
+      "onboard_time": 1725159559,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1212394,
       "num": 1212394,
       "word": "德云色解散",
@@ -27,16 +43,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 1081737,
-      "num": 1081737,
-      "word": "福宝已进入假孕状态",
-      "onboard_time": 1725159559,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1022491,
-      "num": 466744,
+      "num": 483629,
       "word": "迪丽热巴回到家一看手机天塌了",
       "onboard_time": 1725145694,
       "rank": 10,
@@ -49,6 +57,14 @@
       "onboard_time": 1725115822,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 936169,
+      "num": 936169,
+      "word": "央媒探访阴阳价格面馆",
+      "onboard_time": 1725157399,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 935753,
@@ -123,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 563529,
+      "num": 563529,
+      "word": "第一批打司美格鲁肽的人已经后悔了",
+      "onboard_time": 1725160218,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 558485,
       "num": 558485,
       "word": "专家称女生游泳私密贴是智商税",
@@ -169,14 +193,6 @@
       "onboard_time": 1725125417,
       "rank": 41,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 492506,
-      "num": 492506,
-      "word": "央媒探访阴阳价格面馆",
-      "onboard_time": 1725157399,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 475183,
@@ -251,20 +267,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 413115,
+      "num": 413115,
+      "word": "王楚钦覃海洋擦肩而过",
+      "onboard_time": 1725158778,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 410946,
       "num": 298007,
       "word": "连续熬夜三年多的身体变化",
       "onboard_time": 1725150558,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 389376,
-      "num": 389376,
-      "word": "王楚钦覃海洋擦肩而过",
-      "onboard_time": 1725158778,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 386747,
@@ -307,20 +323,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339646,
+      "num": 339646,
+      "word": "中石油",
+      "onboard_time": 1725161058,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 339028,
       "num": 339028,
       "word": "乌克兰要求蒙古国逮捕普京",
       "onboard_time": 1725095659,
       "rank": 17,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 329208,
-      "num": 399791,
-      "word": "第一批打司美格鲁肽的人已经后悔了",
-      "onboard_time": 1725160218,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 325608,
@@ -387,6 +403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 285759,
+      "num": 285759,
+      "word": "赵丽颖九月行程",
+      "onboard_time": 1725160759,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285554,
       "num": 285554,
       "word": "老人在足浴店消费超30万儿子发声",
@@ -409,6 +433,14 @@
       "onboard_time": 1725145694,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 254092,
+      "num": 276670,
+      "word": "陈昊宇新剧",
+      "onboard_time": 1725160218,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 250473,
@@ -443,20 +475,28 @@
       "category": "国内时政,自然"
     },
     {
+      "raw_hot": 227851,
+      "num": 227851,
+      "word": "这是我们的国歌",
+      "onboard_time": 1725161358,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 220067,
+      "num": 220067,
+      "word": "一针瘦20斤网红神药开始在县城流行",
+      "onboard_time": 1725160339,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218086,
       "num": 218086,
       "word": "王楚钦马龙互学对方发球",
       "onboard_time": 1725159019,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 214013,
-      "num": 276670,
-      "word": "陈昊宇新剧",
-      "onboard_time": 1725160218,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 208226,
@@ -515,14 +555,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 188948,
-      "num": 272109,
-      "word": "赵丽颖九月行程",
-      "onboard_time": 1725160759,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 185100,
       "num": 185100,
       "word": "台风珊珊已致日本6死128伤",
@@ -536,14 +568,6 @@
       "word": "收巧克力被开除园长将幼儿园告上法庭",
       "onboard_time": 1725134592,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180842,
-      "num": 180842,
-      "word": "一针瘦20斤网红神药开始在县城流行",
-      "onboard_time": 1725160339,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -595,8 +619,24 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168578,
+      "num": 168578,
+      "word": "从小学到大学要经历16次9月1日开学",
+      "onboard_time": 1725151817,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 164514,
+      "num": 164514,
+      "word": "王宜林",
+      "onboard_time": 1725160999,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 164501,
-      "num": 219355,
+      "num": 221039,
       "word": "沈月武艺往那一站就是俩手办",
       "onboard_time": 1725160038,
       "rank": 28,
@@ -627,6 +667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150273,
+      "num": 150273,
+      "word": "粉笔模考",
+      "onboard_time": 1725161600,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 147427,
       "num": 147427,
       "word": "许嵩上海演唱会嘉宾是薛之谦",
@@ -651,20 +699,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138994,
-      "num": 138994,
-      "word": "从小学到大学要经历16次9月1日开学",
-      "onboard_time": 1725151817,
-      "rank": 49,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 137440,
       "num": 137440,
       "word": "九月文案",
       "onboard_time": 1725147855,
       "rank": 38,
       "category": "情感,读书作家"
+    },
+    {
+      "raw_hot": 135094,
+      "num": 336995,
+      "word": "女子1个月在6家餐厅吃出毛发",
+      "onboard_time": 1725158599,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134040,
@@ -691,11 +739,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130924,
+      "num": 130924,
+      "word": "9种看似偷懒的行为其实巨健康",
+      "onboard_time": 1725155479,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 130107,
       "num": 130107,
       "word": "张晚意这个摇头",
       "onboard_time": 1725151277,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 129474,
+      "num": 129474,
+      "word": "王楚然凤冠霞帔妆造",
+      "onboard_time": 1725159138,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -715,28 +779,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127311,
-      "num": 127311,
-      "word": "中石油",
-      "onboard_time": 1725161058,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 125787,
-      "num": 125787,
-      "word": "王楚然凤冠霞帔妆造",
-      "onboard_time": 1725159138,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 124734,
       "num": 124734,
       "word": "徐海乔演技",
       "onboard_time": 1725113362,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124685,
+      "num": 124685,
+      "word": "每天吃2个鸡蛋身体会出问题吗",
+      "onboard_time": 1725161298,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 124612,
@@ -753,14 +809,6 @@
       "onboard_time": 1725119479,
       "rank": 36,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 122756,
-      "num": 336995,
-      "word": "女子1个月在6家餐厅吃出毛发",
-      "onboard_time": 1725158599,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121112,
@@ -859,16 +907,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104260,
-      "num": 104260,
-      "word": "9种看似偷懒的行为其实巨健康",
-      "onboard_time": 1725155479,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 101757,
-      "num": 101757,
+      "num": 1095526,
       "word": "一句话存档2024年夏天",
       "onboard_time": 1725155598,
       "rank": 48,
@@ -971,6 +1011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 65014,
+      "num": 1078685,
+      "word": "9月第一天",
+      "onboard_time": 1725161058,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63580,
       "num": 185595,
       "word": "这件文物把考古专家整迷糊了",
@@ -1011,14 +1059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42331,
-      "num": 1078685,
-      "word": "9月第一天",
-      "onboard_time": 1725161058,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 41542,
       "num": 283228,
       "word": "警方采集DNA寻找高空抛物肇事者",
@@ -1049,6 +1089,14 @@
       "onboard_time": 1725127573,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 35932,
+      "num": 381292,
+      "word": "河南清丰第一医院被曝拖欠医护工资",
+      "onboard_time": 1725161539,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35640,
@@ -1099,6 +1147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 27452,
+      "num": 491150,
+      "word": "湖南汛情受损学校绝大部分已修复",
+      "onboard_time": 1725161778,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24638,
       "num": 34913,
       "word": "南派三叔藏海花在线答疑",
@@ -1113,6 +1169,14 @@
       "onboard_time": 1725107001,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12738,
+      "num": 153385,
+      "word": "马斯克称美国可能很快面临破产",
+      "onboard_time": 1725161539,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10951,
