@@ -1,0 +1,410 @@
+{
+  "runTime": 1725179084139,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1703221,
+        "num": 1703221,
+        "word": "高铁车厢里全是碎掉的大学生",
+        "onboard_time": 1725172458,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 596844,
+        "num": 596844,
+        "word": "袁隆平孙女今年入读中国农业大学",
+        "onboard_time": 1725169159,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54218,
+        "num": 577799,
+        "word": "文物里的国潮",
+        "onboard_time": 1725175639,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559096,
+        "num": 559096,
+        "word": "王安全穿名牌 不像真的",
+        "onboard_time": 1725173058,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 542474,
+        "num": 542474,
+        "word": "儿童手表AI否认南京大屠杀存在",
+        "onboard_time": 1725173658,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535439,
+        "num": 535439,
+        "word": "莎头组合终于合体了",
+        "onboard_time": 1725174799,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 493132,
+        "num": 493132,
+        "word": "王楚钦全红婵账号互关了",
+        "onboard_time": 1725176479,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 412224,
+        "num": 486046,
+        "word": "刘亦菲提裙踮脚跑",
+        "onboard_time": 1725170419,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192087,
+        "num": 478056,
+        "word": "俄称击落乌军158架无人机",
+        "onboard_time": 1725177318,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 41499,
+        "num": 468246,
+        "word": "年近六十我妈沉迷于短视频创作",
+        "onboard_time": 1725177980,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651683,
+        "num": 457351,
+        "word": "两名黑人女子遭白人农场主枪杀喂猪",
+        "onboard_time": 1725177559,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493776,
+        "num": 446186,
+        "word": "我爸的开心消消乐停在了8739关",
+        "onboard_time": 1725170000,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 434622,
+        "num": 434622,
+        "word": "马龙和儿子一个名字了",
+        "onboard_time": 1725173359,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329148,
+        "num": 434210,
+        "word": "王祖蓝李亚男邀请张雨霏到家里吃饭",
+        "onboard_time": 1725176359,
+        "rank": 13,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 16295,
+        "num": 433910,
+        "word": "新学期人设是自己给的",
+        "onboard_time": 1725178040,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43229,
+        "num": 433156,
+        "word": "10元3堡还我妈生物价",
+        "onboard_time": 1725178098,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 296307,
+        "num": 432167,
+        "word": "现在就出发录制",
+        "onboard_time": 1725173478,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58782,
+        "num": 431333,
+        "word": "荣梓杉晒成黑杉老幺",
+        "onboard_time": 1725178098,
+        "rank": 17,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 285159,
+        "num": 430687,
+        "word": "允许这个演员找手替",
+        "onboard_time": 1725173779,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 430640,
+        "num": 430640,
+        "word": "乒羽混双合照",
+        "onboard_time": 1725177679,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1865619,
+        "num": 429909,
+        "word": "路虎女司机打退伍军人官方发声",
+        "onboard_time": 1725175639,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514347,
+        "num": 429812,
+        "word": "中医建议我不吃晚饭不喝牛奶",
+        "onboard_time": 1725172578,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 429048,
+        "num": 429048,
+        "word": "唐尚珺大学报到称35岁耗不起了",
+        "onboard_time": 1725176000,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425224,
+        "num": 425224,
+        "word": "张雨霏哽咽谈杨家玉李雯雯",
+        "onboard_time": 1725177200,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265173,
+        "num": 422190,
+        "word": "刘谦团队集体食物中毒",
+        "onboard_time": 1725163399,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28756,
+        "num": 418742,
+        "word": "塔图姆宠粉第一名",
+        "onboard_time": 1725174319,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197056,
+        "num": 415449,
+        "word": "张韶涵成都新皮肤又开大了",
+        "onboard_time": 1725178458,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173735,
+        "num": 411155,
+        "word": "李沁陈哲远都营业了",
+        "onboard_time": 1725174859,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156731,
+        "num": 403939,
+        "word": "俄称击落多架企图袭击莫斯科的无人机",
+        "onboard_time": 1725167000,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 50368,
+        "num": 401076,
+        "word": "有被这瓶面霜的成分表惊到",
+        "onboard_time": 1725176898,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 397818,
+        "num": 397818,
+        "word": "父亲回应婴儿出租屋饿到营养不良",
+        "onboard_time": 1725173299,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296637,
+        "num": 296637,
+        "word": "为什么大家坐高铁都不想选ABC座",
+        "onboard_time": 1725167240,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 282967,
+        "num": 282967,
+        "word": "徐嘉余 开炮",
+        "onboard_time": 1725178160,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263680,
+        "num": 263680,
+        "word": "返校发现宿舍已长出半人高的草",
+        "onboard_time": 1725168080,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 254459,
+        "num": 254459,
+        "word": "女子称上班1年胖了40斤果断离职",
+        "onboard_time": 1725169578,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42738,
+        "num": 232213,
+        "word": "SKII新品成分表第一位",
+        "onboard_time": 1725177077,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 225542,
+        "num": 225542,
+        "word": "全红婵的玩具被没收了",
+        "onboard_time": 1725176240,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218302,
+        "num": 218302,
+        "word": "原神5.0版本",
+        "onboard_time": 1725178098,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206718,
+        "num": 206718,
+        "word": "澳门果然是福地",
+        "onboard_time": 1725178040,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20563,
+        "num": 204550,
+        "word": "刚开学就被张朝阳种草了量子力学",
+        "onboard_time": 1725177739,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203394,
+        "num": 203394,
+        "word": "樊振东潘展乐坐着打羽毛球",
+        "onboard_time": 1725178518,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194672,
+        "num": 194672,
+        "word": "上海最孤独饭店突然爆火",
+        "onboard_time": 1725172458,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193829,
+        "num": 193829,
+        "word": "花叶姐妹单飞不解散",
+        "onboard_time": 1725178040,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22677,
+        "num": 186572,
+        "word": "给老外一点东方震撼",
+        "onboard_time": 1725178219,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182009,
+        "num": 182009,
+        "word": "网友奔现第1天女子要2万金手镯",
+        "onboard_time": 1725176118,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179501,
+        "num": 179501,
+        "word": "四胞胎系外地户口上不了公立学校",
+        "onboard_time": 1725167479,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178253,
+        "num": 178253,
+        "word": "盛李豪他们都笑你",
+        "onboard_time": 1725165619,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164498,
+        "num": 164498,
+        "word": "王宜林",
+        "onboard_time": 1725160999,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160281,
+        "num": 160281,
+        "word": "孙颖莎回应国乒与其他国家差距收窄",
+        "onboard_time": 1725166100,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159121,
+        "num": 159121,
+        "word": "李雯雯摸到了孙颖莎的球拍",
+        "onboard_time": 1725179059,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#在习近平的信中读懂中非命运共同体#"
+    }
+  }
+}
