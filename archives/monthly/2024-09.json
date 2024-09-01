@@ -1,7 +1,15 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725156631693,
+  "endTime": 1725159373632,
   "band_list": [
+    {
+      "raw_hot": 1720220,
+      "num": 1720220,
+      "word": "王祖蓝 终于送走了",
+      "onboard_time": 1725155479,
+      "rank": 11,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1442203,
       "num": 1442203,
@@ -9,6 +17,14 @@
       "onboard_time": 1725113419,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1199089,
+      "num": 1199089,
+      "word": "德云色解散",
+      "onboard_time": 1725155658,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 1022491,
@@ -51,14 +67,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 869963,
-      "num": 450604,
-      "word": "王祖蓝 终于送走了",
-      "onboard_time": 1725155479,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 857252,
       "num": 932340,
       "word": "网红医生擦边软色情",
@@ -81,6 +89,14 @@
       "onboard_time": 1725147015,
       "rank": 32,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 720655,
+      "num": 720655,
+      "word": "明年6月到9月没有任何假期",
+      "onboard_time": 1725154399,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 619793,
@@ -195,6 +211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 406927,
+      "num": 406927,
+      "word": "王嘉尔易烊千玺生图",
+      "onboard_time": 1725157399,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 386747,
       "num": 386747,
       "word": "盛李豪 死腿协调点别搞我",
@@ -203,12 +227,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 383959,
+      "num": 298007,
+      "word": "连续熬夜三年多的身体变化",
+      "onboard_time": 1725150558,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 381425,
       "num": 470832,
       "word": "何广智 不会带团队只能自己干到死",
       "onboard_time": 1725147377,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 374988,
+      "num": 374988,
+      "word": "你支持夫妻离婚不要孩子不准离吗",
+      "onboard_time": 1725153316,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 371355,
@@ -251,12 +291,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 324244,
-      "num": 324244,
-      "word": "德云色解散",
-      "onboard_time": 1725155658,
-      "rank": 21,
-      "category": "电竞"
+      "raw_hot": 323696,
+      "num": 323696,
+      "word": "马拉松参赛者半途纷纷去商店买水",
+      "onboard_time": 1725154938,
+      "rank": 43,
+      "category": "运动健身"
     },
     {
       "raw_hot": 305349,
@@ -275,14 +315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 298007,
-      "num": 298007,
-      "word": "连续熬夜三年多的身体变化",
-      "onboard_time": 1725150558,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 294889,
       "num": 468109,
       "word": "谭松韵侯明昊吻戏",
@@ -297,6 +329,14 @@
       "onboard_time": 1725147015,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 288192,
+      "num": 288192,
+      "word": "朱志鑫 重庆",
+      "onboard_time": 1725158118,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 286672,
@@ -323,12 +363,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 258964,
-      "num": 258964,
-      "word": "你支持夫妻离婚不要孩子不准离吗",
-      "onboard_time": 1725153316,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 271499,
+      "num": 271499,
+      "word": "徐海乔 有效出镜",
+      "onboard_time": 1725156619,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 254266,
@@ -336,6 +376,22 @@
       "word": "全红婵贴脸开大干饭哥",
       "onboard_time": 1725145694,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 253975,
+      "num": 253975,
+      "word": "央媒探访阴阳价格面馆",
+      "onboard_time": 1725157399,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239817,
+      "num": 239817,
+      "word": "王楚钦覃海洋擦肩而过",
+      "onboard_time": 1725158778,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -355,12 +411,12 @@
       "category": "国内时政,自然"
     },
     {
-      "raw_hot": 222016,
-      "num": 222016,
-      "word": "明年6月到9月没有任何假期",
-      "onboard_time": 1725154399,
-      "rank": 29,
-      "category": "情感"
+      "raw_hot": 217803,
+      "num": 217803,
+      "word": "孙颖莎说从来都不甘心失败",
+      "onboard_time": 1725157518,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 208226,
@@ -371,12 +427,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 201767,
-      "num": 201767,
-      "word": "马拉松参赛者半途纷纷去商店买水",
-      "onboard_time": 1725154938,
-      "rank": 43,
-      "category": "运动健身"
+      "raw_hot": 206761,
+      "num": 206761,
+      "word": "王楚钦的vlog没有王楚钦",
+      "onboard_time": 1725156738,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 200766,
+      "num": 200766,
+      "word": "开学第一天",
+      "onboard_time": 1725158778,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 195428,
@@ -403,6 +467,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 189683,
+      "num": 189683,
+      "word": "大学生课表放微信置顶",
+      "onboard_time": 1725157877,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 185100,
       "num": 185100,
       "word": "台风珊珊已致日本6死128伤",
@@ -419,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180266,
+      "num": 180266,
+      "word": "我爸把家装修成了他理想中的样子",
+      "onboard_time": 1725154038,
+      "rank": 37,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 179926,
       "num": 179926,
       "word": "女生在外面上公厕一定要注意",
@@ -433,14 +513,6 @@
       "onboard_time": 1725105618,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174664,
-      "num": 174664,
-      "word": "我爸把家装修成了他理想中的样子",
-      "onboard_time": 1725154038,
-      "rank": 37,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 174516,
@@ -489,6 +561,14 @@
       "onboard_time": 1725117800,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156368,
+      "num": 156368,
+      "word": "王楚钦马龙互学对方发球",
+      "onboard_time": 1725159019,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 147427,
@@ -579,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125787,
+      "num": 125787,
+      "word": "王楚然凤冠霞帔妆造",
+      "onboard_time": 1725159138,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124734,
       "num": 124734,
       "word": "徐海乔演技",
@@ -601,6 +689,14 @@
       "onboard_time": 1725119479,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 121112,
+      "num": 121112,
+      "word": "不想开学",
+      "onboard_time": 1725157819,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 120384,
@@ -681,14 +777,6 @@
       "onboard_time": 1725116542,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105601,
-      "num": 105601,
-      "word": "徐海乔 有效出镜",
-      "onboard_time": 1725156619,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 105004,
@@ -923,6 +1011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 27016,
+      "num": 330556,
+      "word": "女子1个月在6家餐厅吃出毛发",
+      "onboard_time": 1725158599,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24638,
       "num": 34913,
       "word": "南派三叔藏海花在线答疑",
@@ -931,8 +1027,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20521,
+      "num": 364165,
+      "word": "狂刷到预约结束也没抢到博物馆门票",
+      "onboard_time": 1725158840,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15617,
-      "num": 766392,
+      "num": 908940,
       "word": "我国海上油气井钻探速度新纪录",
       "onboard_time": 1725107001,
       "rank": 2,
