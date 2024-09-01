@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725183304416,
+  "endTime": 1725186039871,
   "band_list": [
     {
       "raw_hot": 1957251,
@@ -64,6 +64,14 @@
       "word": "福宝已进入假孕状态",
       "onboard_time": 1725159559,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1286679,
+      "num": 1286679,
+      "word": "外卖小哥讲述发现皮包骨婴儿细节",
+      "onboard_time": 1725183319,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -203,6 +211,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 824975,
+      "num": 824975,
+      "word": "迪奥红毯",
+      "onboard_time": 1725185600,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 813008,
       "num": 813008,
       "word": "徐嘉余 开炮",
@@ -273,6 +289,14 @@
       "onboard_time": 1725160339,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 686139,
+      "num": 243697,
+      "word": "J人和P人做PPT的区别",
+      "onboard_time": 1725181939,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 681954,
@@ -723,14 +747,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 285947,
-      "num": 226079,
-      "word": "J人和P人做PPT的区别",
-      "onboard_time": 1725181939,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 285554,
       "num": 285554,
       "word": "老人在足浴店消费超30万儿子发声",
@@ -819,19 +835,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 242708,
+      "num": 242708,
+      "word": "樊振东潘展乐坐着打羽毛球",
+      "onboard_time": 1725178518,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240815,
       "num": 240815,
       "word": "孙颖莎说从来都不甘心失败",
       "onboard_time": 1725157518,
       "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 239953,
-      "num": 239953,
-      "word": "樊振东潘展乐坐着打羽毛球",
-      "onboard_time": 1725178518,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -859,6 +875,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229218,
+      "num": 245852,
+      "word": "王一博就这么水灵灵的游过去了",
+      "onboard_time": 1725182119,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 221674,
+      "num": 245236,
+      "word": "田曦薇婉拒王安宇",
+      "onboard_time": 1725181638,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218302,
       "num": 218302,
       "word": "原神5.0版本",
@@ -875,12 +907,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 213449,
-      "num": 213449,
-      "word": "田曦薇婉拒王安宇",
-      "onboard_time": 1725181638,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 217528,
+      "num": 217528,
+      "word": "9岁男孩骑车腹部被车把手插入",
+      "onboard_time": 1725181400,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208226,
@@ -939,14 +971,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 203704,
-      "num": 203704,
-      "word": "王一博就这么水灵灵的游过去了",
-      "onboard_time": 1725182119,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 203334,
       "num": 282083,
       "word": "再被骄阳伴我暖一次吧",
@@ -985,14 +1009,6 @@
       "onboard_time": 1725158778,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 200669,
-      "num": 200669,
-      "word": "9岁男孩骑车腹部被车把手插入",
-      "onboard_time": 1725181400,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199162,
@@ -1041,6 +1057,14 @@
       "onboard_time": 1725178040,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193629,
+      "num": 193629,
+      "word": "RedVelvet雨中唱跳",
+      "onboard_time": 1725185538,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 192795,
@@ -1099,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183208,
+      "num": 183208,
+      "word": "迪丽热巴九月行程图",
+      "onboard_time": 1725183680,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182009,
       "num": 182009,
       "word": "网友奔现第1天女子要2万金手镯",
@@ -1137,6 +1169,14 @@
       "onboard_time": 1725172159,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 179364,
+      "num": 179364,
+      "word": "泰国醉酒男葬礼上闹事被乱抢打死",
+      "onboard_time": 1725184339,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178002,
@@ -1323,6 +1363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 155089,
+      "num": 155089,
+      "word": "许嵩紧急撤回一个多余的妹妹",
+      "onboard_time": 1725182958,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 152034,
       "num": 152034,
       "word": "樊振东和潘展乐合体打羽毛球",
@@ -1353,6 +1401,14 @@
       "onboard_time": 1725161600,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 150257,
+      "num": 150257,
+      "word": "车主误会了猫咪的好意",
+      "onboard_time": 1725182659,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 147427,
@@ -1499,14 +1555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129208,
-      "num": 129208,
-      "word": "许嵩紧急撤回一个多余的妹妹",
-      "onboard_time": 1725182958,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 128869,
       "num": 128869,
       "word": "汪苏泷晒演唱会大合照",
@@ -1531,12 +1579,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127090,
-      "num": 127090,
-      "word": "车主误会了猫咪的好意",
-      "onboard_time": 1725182659,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 126697,
+      "num": 126697,
+      "word": "命案嫌犯致5死1伤后潜逃",
+      "onboard_time": 1725184998,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126074,
@@ -1665,6 +1713,22 @@
       "onboard_time": 1725099920,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116267,
+      "num": 116267,
+      "word": "LCK季后赛",
+      "onboard_time": 1725185898,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 116160,
+      "num": 116160,
+      "word": "李雯雯澳门晚宴vlog",
+      "onboard_time": 1725185958,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 114030,
@@ -1819,6 +1883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 93919,
+      "num": 311349,
+      "word": "莫斯科炼油厂因乌无人机袭击起火",
+      "onboard_time": 1725183200,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 91120,
       "num": 120267,
       "word": "檀健次演唱会",
@@ -1873,6 +1945,14 @@
       "onboard_time": 1725139090,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68266,
+      "num": 355716,
+      "word": "园长收学生6元巧克力被开用力过猛了",
+      "onboard_time": 1725185238,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66431,
@@ -1932,7 +2012,7 @@
     },
     {
       "raw_hot": 54218,
-      "num": 894206,
+      "num": 896277,
       "word": "文物里的国潮",
       "onboard_time": 1725175639,
       "rank": 2,
@@ -2059,14 +2139,6 @@
       "category": "电影,时尚"
     },
     {
-      "raw_hot": 34639,
-      "num": 311349,
-      "word": "莫斯科炼油厂因乌无人机袭击起火",
-      "onboard_time": 1725183200,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 34599,
       "num": 394203,
       "word": "狂刷到预约结束也没抢到博物馆门票",
@@ -2089,6 +2161,14 @@
       "onboard_time": 1725128594,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 32498,
+      "num": 296353,
+      "word": "女子和丈夫吵架高空扔下锅碗瓢盆",
+      "onboard_time": 1725184998,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31904,
