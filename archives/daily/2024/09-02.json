@@ -1,6 +1,6 @@
 {
   "startTime": 1725207925221,
-  "endTime": 1725248311277,
+  "endTime": 1725251175147,
   "band_list": [
     {
       "raw_hot": 2899571,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1603860,
+      "num": 429927,
+      "word": "27岁退出了家族群删除了全部亲戚",
+      "onboard_time": 1725247579,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1506323,
       "num": 1476952,
       "word": "罗拉王能能没分手",
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1156093,
-      "num": 412691,
+      "num": 425573,
       "word": "用小号和前男友谈了八个月准备奔现",
       "onboard_time": 1725234016,
       "rank": 10,
@@ -65,6 +73,22 @@
       "onboard_time": 1725200780,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1120149,
+      "num": 1120149,
+      "word": "上官正义举报有人涉嫌介绍未成年人代孕",
+      "onboard_time": 1725249680,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 928514,
+      "num": 928514,
+      "word": "赵今麦刘浩存 破壳而出",
+      "onboard_time": 1725247639,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 860837,
@@ -91,12 +115,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 817000,
+      "num": 785442,
+      "word": "刘浩存MIUMIU",
+      "onboard_time": 1725246619,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 800810,
       "num": 938129,
       "word": "袁隆平儿子回应女儿入读中国农业大学",
       "onboard_time": 1725194061,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 793992,
+      "num": 793992,
+      "word": "龙队是去上厕所不是不要你们",
+      "onboard_time": 1725248839,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 792771,
@@ -107,20 +147,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 771002,
-      "num": 771002,
-      "word": "刘浩存MIUMIU",
-      "onboard_time": 1725246619,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 743255,
       "num": 307990,
       "word": "容易出汗的人排查一下4种病",
       "onboard_time": 1725238400,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 736793,
+      "num": 736793,
+      "word": "专家称取消公摊是忽悠老百姓的",
+      "onboard_time": 1725249019,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 719259,
@@ -187,6 +227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 598988,
+      "num": 598988,
+      "word": "官方回应有人涉嫌介绍未成年人代孕",
+      "onboard_time": 1725249738,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 594749,
       "num": 409121,
       "word": "李庚希金鹿奖影后",
@@ -219,6 +267,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 522045,
+      "num": 522045,
+      "word": "11年前7000多买的钻戒如今不值100块",
+      "onboard_time": 1725248359,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 504944,
       "num": 402799,
       "word": "何秋亊 难受",
@@ -232,6 +288,22 @@
       "word": "唐尚珺坦言毕业时近40岁找工作难度大",
       "onboard_time": 1725239479,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 486667,
+      "num": 486667,
+      "word": "夫人小我十岁 我知她勇敢无畏",
+      "onboard_time": 1725248540,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 486137,
+      "num": 486137,
+      "word": "35岁大一新生唐尚珺今天报到",
+      "onboard_time": 1725247219,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -299,6 +371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 386661,
+      "num": 386661,
+      "word": "郑钦文登场全场欢呼",
+      "onboard_time": 1725249680,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 380520,
       "num": 380520,
       "word": "邓为偷偷戴了脐钉",
@@ -324,19 +404,11 @@
     },
     {
       "raw_hot": 346965,
-      "num": 346965,
+      "num": 440881,
       "word": "慕胥辞",
       "onboard_time": 1725245657,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 338663,
-      "num": 338663,
-      "word": "赵今麦刘浩存 破壳而出",
-      "onboard_time": 1725247639,
-      "rank": 15,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 336362,
@@ -459,6 +531,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 240029,
+      "num": 240029,
+      "word": "郑钦文ACE雨",
+      "onboard_time": 1725250581,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 231044,
+      "num": 339029,
+      "word": "公开发视频未打码路人是否侵权",
+      "onboard_time": 1725247699,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222451,
       "num": 283209,
       "word": "关晓彤路透",
@@ -473,6 +561,14 @@
       "onboard_time": 1725240438,
       "rank": 48,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 221022,
+      "num": 244342,
+      "word": "殷桃新剧失望到窒息的眼神",
+      "onboard_time": 1725251061,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 211186,
@@ -531,6 +627,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196265,
+      "num": 196265,
+      "word": "王骁章若楠 看见女儿男朋友的老丈人",
+      "onboard_time": 1725251001,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 195781,
+      "num": 195781,
+      "word": "enhypen 高阳",
+      "onboard_time": 1725250700,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 194941,
       "num": 194941,
       "word": "问界m9",
@@ -579,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185935,
+      "num": 185935,
+      "word": "2024开学百态",
+      "onboard_time": 1725251001,
+      "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 185906,
       "num": 185906,
       "word": "多地开学第一天",
@@ -593,14 +713,6 @@
       "onboard_time": 1725203361,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 183996,
-      "num": 183996,
-      "word": "27岁退出了家族群删除了全部亲戚",
-      "onboard_time": 1725247579,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 181804,
@@ -667,12 +779,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 170894,
-      "num": 311525,
-      "word": "35岁大一新生唐尚珺今天报到",
-      "onboard_time": 1725247219,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 170417,
+      "num": 170417,
+      "word": "潘展乐站樊振东旁边说nevergetup",
+      "onboard_time": 1725251001,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 168218,
+      "num": 168218,
+      "word": "J人和P人家长开学名场面",
+      "onboard_time": 1725250520,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 167475,
@@ -681,6 +801,22 @@
       "onboard_time": 1725247400,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166822,
+      "num": 166822,
+      "word": "三折叠屏手机",
+      "onboard_time": 1725248419,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 166666,
+      "num": 166666,
+      "word": "ENHYPEN官宣新世巡",
+      "onboard_time": 1725248598,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 165619,
@@ -707,6 +843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 154708,
+      "num": 154708,
+      "word": "美网",
+      "onboard_time": 1725250641,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154124,
       "num": 154124,
       "word": "汪苏泷 我们",
@@ -716,7 +860,7 @@
     },
     {
       "raw_hot": 150802,
-      "num": 150802,
+      "num": 400934,
       "word": "雪山版密室大逃脱来了",
       "onboard_time": 1725244217,
       "rank": 39,
@@ -1003,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99573,
+      "num": 320308,
+      "word": "上班暂停我去趟烟台",
+      "onboard_time": 1725246258,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99059,
       "num": 99059,
       "word": "当我凌晨两点想前男友了",
@@ -1091,14 +1243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59087,
-      "num": 339029,
-      "word": "公开发视频未打码路人是否侵权",
-      "onboard_time": 1725247699,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 58444,
       "num": 58444,
       "word": "曼联0比3利物浦",
@@ -1112,14 +1256,6 @@
       "word": "女子花6.8万种植牙不到3年掉3颗",
       "onboard_time": 1725248059,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 53057,
-      "num": 320308,
-      "word": "上班暂停我去趟烟台",
-      "onboard_time": 1725246258,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -1153,6 +1289,14 @@
       "onboard_time": 1725225490,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43943,
+      "num": 771330,
+      "word": "内蒙古部分地区已开始供暖",
+      "onboard_time": 1725250041,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43014,
@@ -1199,6 +1343,14 @@
       "num": 1689120,
       "word": "神十八乘组的太空日常",
       "onboard_time": 1725194840,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30090,
+      "num": 1195257,
+      "word": "第二届北京网络视听艺术大会",
+      "onboard_time": 1725248839,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -1262,6 +1414,9 @@
   "hotgov_list": [
     {
       "word": "#每个学生都是独一无二的个体#"
+    },
+    {
+      "word": "#培养中国栋梁总书记这一课至关重要#"
     }
   ]
 }

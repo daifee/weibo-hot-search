@@ -1,0 +1,410 @@
+{
+  "runTime": 1725251175147,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1539338,
+        "num": 1539338,
+        "word": "上海最大居民小区宣布炒掉物业",
+        "onboard_time": 1725244819,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1338843,
+        "num": 1338843,
+        "word": "郑钦文vs维基奇",
+        "onboard_time": 1725243079,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30090,
+        "num": 1195257,
+        "word": "第二届北京网络视听艺术大会",
+        "onboard_time": 1725248839,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1861786,
+        "num": 1182528,
+        "word": "女儿失踪第178天妈妈退出幼儿园群",
+        "onboard_time": 1725240020,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1120149,
+        "num": 1120149,
+        "word": "上官正义举报有人涉嫌介绍未成年人代孕",
+        "onboard_time": 1725249680,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 928514,
+        "num": 928514,
+        "word": "赵今麦刘浩存 破壳而出",
+        "onboard_time": 1725247639,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 840968,
+        "num": 840968,
+        "word": "孕妇被731解剖大喊放过我的孩子",
+        "onboard_time": 1725236359,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 793992,
+        "num": 793992,
+        "word": "龙队是去上厕所不是不要你们",
+        "onboard_time": 1725248839,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 817000,
+        "num": 785442,
+        "word": "刘浩存MIUMIU",
+        "onboard_time": 1725246619,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43943,
+        "num": 771330,
+        "word": "内蒙古部分地区已开始供暖",
+        "onboard_time": 1725250041,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 998368,
+        "num": 769735,
+        "word": "罗拉王能能没分手",
+        "onboard_time": 1725242299,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 767752,
+        "num": 767752,
+        "word": "陈奕迅被告者名单",
+        "onboard_time": 1725245058,
+        "rank": 11,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 736793,
+        "num": 736793,
+        "word": "专家称取消公摊是忽悠老百姓的",
+        "onboard_time": 1725249019,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598988,
+        "num": 598988,
+        "word": "官方回应有人涉嫌介绍未成年人代孕",
+        "onboard_time": 1725249738,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573344,
+        "num": 573344,
+        "word": "日本投降仪式结束时间9点18分",
+        "onboard_time": 1725236781,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 522045,
+        "num": 522045,
+        "word": "11年前7000多买的钻戒如今不值100块",
+        "onboard_time": 1725248359,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486667,
+        "num": 486667,
+        "word": "夫人小我十岁 我知她勇敢无畏",
+        "onboard_time": 1725248540,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 486137,
+        "num": 486137,
+        "word": "35岁大一新生唐尚珺今天报到",
+        "onboard_time": 1725247219,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288387,
+        "num": 440881,
+        "word": "慕胥辞",
+        "onboard_time": 1725245657,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259563,
+        "num": 431971,
+        "word": "彭昱畅暴瘦是因为阑尾炎",
+        "onboard_time": 1725232878,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1603860,
+        "num": 429927,
+        "word": "27岁退出了家族群删除了全部亲戚",
+        "onboard_time": 1725247579,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 425573,
+        "num": 425573,
+        "word": "用小号和前男友谈了八个月准备奔现",
+        "onboard_time": 1725234016,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 73150,
+        "num": 400934,
+        "word": "雪山版密室大逃脱来了",
+        "onboard_time": 1725244217,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386661,
+        "num": 386661,
+        "word": "郑钦文登场全场欢呼",
+        "onboard_time": 1725249680,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256018,
+        "num": 256018,
+        "word": "容易出汗的人排查一下4种病",
+        "onboard_time": 1725238400,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 221022,
+        "num": 244342,
+        "word": "殷桃新剧失望到窒息的眼神",
+        "onboard_time": 1725251061,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240029,
+        "num": 240029,
+        "word": "郑钦文ACE雨",
+        "onboard_time": 1725250581,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225551,
+        "num": 232690,
+        "word": "王一博和老雪",
+        "onboard_time": 1725244997,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231044,
+        "num": 231044,
+        "word": "公开发视频未打码路人是否侵权",
+        "onboard_time": 1725247699,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216141,
+        "num": 225371,
+        "word": "权志龙舞台",
+        "onboard_time": 1725246199,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 220753,
+        "num": 220753,
+        "word": "无痛早睡",
+        "onboard_time": 1725244878,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 206840,
+        "num": 206840,
+        "word": "慌张的孙颖莎已读乱回的王楚钦",
+        "onboard_time": 1725240859,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99573,
+        "num": 204534,
+        "word": "上班暂停我去趟烟台",
+        "onboard_time": 1725246258,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203453,
+        "num": 203453,
+        "word": "易烊千玺 五月天演唱会",
+        "onboard_time": 1725235338,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202934,
+        "num": 202934,
+        "word": "中国人民抗战胜利79周年",
+        "onboard_time": 1725236359,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41703,
+        "num": 197064,
+        "word": "补票重看NBA总决赛",
+        "onboard_time": 1725246258,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196265,
+        "num": 196265,
+        "word": "王骁章若楠 看见女儿男朋友的老丈人",
+        "onboard_time": 1725251001,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195781,
+        "num": 195781,
+        "word": "enhypen 高阳",
+        "onboard_time": 1725250700,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189189,
+        "num": 189189,
+        "word": "公司发了会骂人的月饼",
+        "onboard_time": 1725240618,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185935,
+        "num": 185935,
+        "word": "2024开学百态",
+        "onboard_time": 1725251001,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 180202,
+        "num": 180202,
+        "word": "多地开学第一天",
+        "onboard_time": 1725236601,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170417,
+        "num": 170417,
+        "word": "潘展乐站樊振东旁边说nevergetup",
+        "onboard_time": 1725251001,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168218,
+        "num": 168218,
+        "word": "J人和P人家长开学名场面",
+        "onboard_time": 1725250520,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166822,
+        "num": 166822,
+        "word": "三折叠屏手机",
+        "onboard_time": 1725248419,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 166666,
+        "num": 166666,
+        "word": "ENHYPEN官宣新世巡",
+        "onboard_time": 1725248598,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164898,
+        "num": 164898,
+        "word": "干饭哥在练混双了",
+        "onboard_time": 1725245778,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164689,
+        "num": 164689,
+        "word": "华为官宣新品发布会",
+        "onboard_time": 1725241820,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 158253,
+        "num": 158253,
+        "word": "苹果华为发布会再度撞档",
+        "onboard_time": 1725241159,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 155739,
+        "num": 155739,
+        "word": "订婚后男朋友天天追求公平",
+        "onboard_time": 1725233059,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154708,
+        "num": 154708,
+        "word": "美网",
+        "onboard_time": 1725250641,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#培养中国栋梁总书记这一课至关重要#"
+    }
+  }
+}
