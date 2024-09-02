@@ -1,6 +1,6 @@
 {
   "startTime": 1725207925221,
-  "endTime": 1725290551398,
+  "endTime": 1725291367130,
   "band_list": [
     {
       "raw_hot": 5839152,
@@ -563,6 +563,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 657189,
+      "num": 657189,
+      "word": "刘亦菲登越南国家电视台",
+      "onboard_time": 1725286704,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 648800,
+      "num": 648800,
+      "word": "170斤女骑手1年怒减65斤成功爆改",
+      "onboard_time": 1725287902,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 641305,
       "num": 641305,
       "word": "多地学校换上了可躺式课桌椅",
@@ -579,14 +595,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 632804,
-      "num": 632804,
-      "word": "刘亦菲登越南国家电视台",
-      "onboard_time": 1725286704,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 630684,
       "num": 630684,
       "word": "郑钦文首盘获胜",
@@ -601,6 +609,14 @@
       "onboard_time": 1725201082,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 618893,
+      "num": 618893,
+      "word": "凉拌黄瓜火了冰岛黄瓜卖脱销了",
+      "onboard_time": 1725285082,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 617575,
@@ -683,6 +699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 545308,
+      "num": 545308,
+      "word": "孙颖莎结束港澳行发文",
+      "onboard_time": 1725287482,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 542614,
       "num": 542614,
       "word": "国台办评恢复台湾地区文旦柚输入",
@@ -711,14 +735,6 @@
       "num": 530507,
       "word": "有人已经供暖了有人还在开空调",
       "onboard_time": 1725260839,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 529142,
-      "num": 529142,
-      "word": "凉拌黄瓜火了冰岛黄瓜卖脱销了",
-      "onboard_time": 1725285082,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -875,28 +891,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 433056,
-      "num": 433056,
-      "word": "孙颖莎结束港澳行发文",
-      "onboard_time": 1725287482,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 421944,
       "num": 421944,
       "word": "郑钦文登场全场欢呼",
       "onboard_time": 1725249680,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 408504,
-      "num": 474810,
-      "word": "170斤女骑手1年怒减65斤成功爆改",
-      "onboard_time": 1725287902,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 406224,
@@ -1299,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261903,
+      "num": 261903,
+      "word": "葫芦岛",
+      "onboard_time": 1725287843,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261771,
       "num": 482097,
       "word": "中国人用石头拉丝织国旗送上月球",
@@ -1361,14 +1369,6 @@
       "onboard_time": 1725234439,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 252082,
-      "num": 252082,
-      "word": "葫芦岛",
-      "onboard_time": 1725287843,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 250114,
@@ -1467,6 +1467,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 226596,
+      "num": 253479,
+      "word": "蒋奇明长发",
+      "onboard_time": 1725287063,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222451,
       "num": 283209,
       "word": "关晓彤路透",
@@ -1481,14 +1489,6 @@
       "onboard_time": 1725240438,
       "rank": 48,
       "category": "社会新闻,互联网"
-    },
-    {
-      "raw_hot": 220177,
-      "num": 253479,
-      "word": "蒋奇明长发",
-      "onboard_time": 1725287063,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 218988,
@@ -1795,6 +1795,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 193916,
+      "num": 193916,
+      "word": "谢娜带娃看张杰演唱会",
+      "onboard_time": 1725290781,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 193591,
       "num": 193591,
       "word": "牙膏太菜了",
@@ -1817,6 +1825,14 @@
       "onboard_time": 1725197301,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191912,
+      "num": 191912,
+      "word": "樊振东用霉霉的歌写文案",
+      "onboard_time": 1725289642,
+      "rank": 39,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 191891,
@@ -2035,14 +2051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178860,
-      "num": 178860,
-      "word": "樊振东用霉霉的歌写文案",
-      "onboard_time": 1725289642,
-      "rank": 39,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 178359,
       "num": 178359,
       "word": "韩素希母亲经营非法赌场",
@@ -2187,6 +2195,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 165872,
+      "num": 165872,
+      "word": "李泽锋也受不了冷暴力",
+      "onboard_time": 1725290361,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165800,
       "num": 165800,
       "word": "高铁盒饭受众群体",
@@ -2241,6 +2257,14 @@
       "onboard_time": 1725290122,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160270,
+      "num": 160270,
+      "word": "一句话让王一博心甘情愿解皮带",
+      "onboard_time": 1725290960,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 160230,
@@ -2392,14 +2416,6 @@
       "word": "好想魂穿迪丽热巴的化妆师",
       "onboard_time": 1725247339,
       "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 148111,
-      "num": 148111,
-      "word": "李泽锋也受不了冷暴力",
-      "onboard_time": 1725290361,
-      "rank": 46,
       "category": "艺人"
     },
     {
@@ -2609,6 +2625,14 @@
       "onboard_time": 1725207018,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122186,
+      "num": 122186,
+      "word": "学校回应不买校服保险牛奶不给办入学",
+      "onboard_time": 1725291321,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119220,
@@ -2875,6 +2899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 67061,
+      "num": 473350,
+      "word": "烟台的鲅鱼饺子个个都是霸王",
+      "onboard_time": 1725288502,
+      "rank": 13,
+      "category": "美食"
+    },
+    {
       "raw_hot": 64880,
       "num": 64880,
       "word": "外国人也对这个词这么敏感",
@@ -2977,14 +3009,6 @@
       "onboard_time": 1725254902,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 53937,
-      "num": 473350,
-      "word": "烟台的鲅鱼饺子个个都是霸王",
-      "onboard_time": 1725288502,
-      "rank": 13,
-      "category": "美食"
     },
     {
       "raw_hot": 51198,
