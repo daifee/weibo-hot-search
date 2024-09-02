@@ -1,6 +1,6 @@
 {
   "startTime": 1725207925221,
-  "endTime": 1725247403475,
+  "endTime": 1725248311277,
   "band_list": [
     {
       "raw_hot": 2899571,
@@ -27,20 +27,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1676097,
+      "num": 1676097,
+      "word": "上海最大居民小区宣布炒掉物业",
+      "onboard_time": 1725244819,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1506323,
       "num": 1476952,
       "word": "罗拉王能能没分手",
       "onboard_time": 1725242299,
       "rank": 0,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1365939,
-      "num": 1365939,
-      "word": "上海最大居民小区宣布炒掉物业",
-      "onboard_time": 1725244819,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1357830,
@@ -67,8 +67,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 858826,
-      "num": 858826,
+      "raw_hot": 860837,
+      "num": 860837,
       "word": "陈奕迅被告者名单",
       "onboard_time": 1725245058,
       "rank": 31,
@@ -107,8 +107,16 @@
       "category": "网红"
     },
     {
+      "raw_hot": 771002,
+      "num": 771002,
+      "word": "刘浩存MIUMIU",
+      "onboard_time": 1725246619,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 743255,
-      "num": 283149,
+      "num": 307990,
       "word": "容易出汗的人排查一下4种病",
       "onboard_time": 1725238400,
       "rank": 20,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 600769,
-      "num": 282286,
+      "num": 302115,
       "word": "慌张的孙颖莎已读乱回的王楚钦",
       "onboard_time": 1725240859,
       "rank": 41,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 539304,
-      "num": 268341,
+      "num": 306037,
       "word": "公司发了会骂人的月饼",
       "onboard_time": 1725240618,
       "rank": 32,
@@ -323,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 338663,
+      "num": 338663,
+      "word": "赵今麦刘浩存 破壳而出",
+      "onboard_time": 1725247639,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 336362,
       "num": 336362,
       "word": "张雨霏 给澳门留点震撼",
@@ -395,6 +411,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 259412,
+      "num": 259412,
+      "word": "无痛早睡",
+      "onboard_time": 1725244878,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 258834,
       "num": 258834,
       "word": "樊振东贴脸开大盛李豪",
@@ -427,12 +451,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 228331,
-      "num": 251466,
-      "word": "刘浩存MIUMIU",
-      "onboard_time": 1725246619,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 242955,
+      "num": 268070,
+      "word": "权志龙舞台",
+      "onboard_time": 1725246199,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 222451,
@@ -449,14 +473,6 @@
       "onboard_time": 1725240438,
       "rank": 48,
       "category": "社会新闻,互联网"
-    },
-    {
-      "raw_hot": 213004,
-      "num": 191444,
-      "word": "无痛早睡",
-      "onboard_time": 1725244878,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 211186,
@@ -499,12 +515,12 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 203385,
-      "num": 203385,
-      "word": "权志龙舞台",
-      "onboard_time": 1725246199,
-      "rank": 28,
-      "category": "演出"
+      "raw_hot": 202030,
+      "num": 202030,
+      "word": "泳队 告六人",
+      "onboard_time": 1725247158,
+      "rank": 41,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 197740,
@@ -579,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183996,
+      "num": 183996,
+      "word": "27岁退出了家族群删除了全部亲戚",
+      "onboard_time": 1725247579,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 181804,
       "num": 181804,
       "word": "BIGBANG三成员同台",
@@ -627,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175693,
+      "num": 175693,
+      "word": "开学碎掉的其实是老师",
+      "onboard_time": 1725242480,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174576,
       "num": 174576,
       "word": "清水英男自述731罪行",
@@ -635,12 +667,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 166490,
-      "num": 166490,
-      "word": "开学碎掉的其实是老师",
-      "onboard_time": 1725242480,
-      "rank": 33,
-      "category": "幽默"
+      "raw_hot": 170894,
+      "num": 311525,
+      "word": "35岁大一新生唐尚珺今天报到",
+      "onboard_time": 1725247219,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167475,
+      "num": 167475,
+      "word": "官方通报导游编撰因高反每年死20人",
+      "onboard_time": 1725247400,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165619,
@@ -675,20 +715,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 151917,
-      "num": 151917,
-      "word": "泳队 告六人",
-      "onboard_time": 1725247158,
-      "rank": 41,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 150802,
       "num": 150802,
       "word": "雪山版密室大逃脱来了",
       "onboard_time": 1725244217,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148337,
+      "num": 148337,
+      "word": "好想魂穿迪丽热巴的化妆师",
+      "onboard_time": 1725247339,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 147477,
@@ -744,14 +784,6 @@
       "word": "我从追空投的小孩长成投空投的人",
       "onboard_time": 1725204382,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140868,
-      "num": 140868,
-      "word": "35岁大一新生唐尚珺今天报到",
-      "onboard_time": 1725247219,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -833,14 +865,6 @@
       "onboard_time": 1725232516,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 129164,
-      "num": 129164,
-      "word": "好想魂穿迪丽热巴的化妆师",
-      "onboard_time": 1725247339,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 128108,
@@ -1067,6 +1091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59087,
+      "num": 339029,
+      "word": "公开发视频未打码路人是否侵权",
+      "onboard_time": 1725247699,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58444,
       "num": 58444,
       "word": "曼联0比3利物浦",
@@ -1075,8 +1107,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56768,
+      "num": 315394,
+      "word": "女子花6.8万种植牙不到3年掉3颗",
+      "onboard_time": 1725248059,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53057,
-      "num": 203445,
+      "num": 320308,
       "word": "上班暂停我去趟烟台",
       "onboard_time": 1725246258,
       "rank": 27,
@@ -1099,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50126,
+      "num": 434262,
+      "word": "台北法院凌晨裁定柯文哲当庭释放",
+      "onboard_time": 1725246439,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47524,
       "num": 47524,
       "word": "全红婵收到澳门文创乌龟",
@@ -1108,7 +1156,7 @@
     },
     {
       "raw_hot": 43014,
-      "num": 272075,
+      "num": 314345,
       "word": "补票重看NBA总决赛",
       "onboard_time": 1725246258,
       "rank": 19,
@@ -1156,7 +1204,7 @@
     },
     {
       "raw_hot": 30028,
-      "num": 159495,
+      "num": 170828,
       "word": "在烟台吃到了人生第一碗海鲜面",
       "onboard_time": 1725246018,
       "rank": 39,
@@ -1164,18 +1212,10 @@
     },
     {
       "raw_hot": 29582,
-      "num": 192084,
+      "num": 268307,
       "word": "欧莱雅与乡村女性的稻田秀场",
       "onboard_time": 1725246258,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26434,
-      "num": 434262,
-      "word": "台北法院凌晨裁定柯文哲当庭释放",
-      "onboard_time": 1725246439,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
