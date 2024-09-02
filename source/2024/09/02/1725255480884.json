@@ -1,0 +1,410 @@
+{
+  "runTime": 1725255480884,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1865220,
+        "num": 1865220,
+        "word": "郑钦文vs维基奇",
+        "onboard_time": 1725243079,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1756973,
+        "num": 1756973,
+        "word": "陈乔恩Alan婚礼",
+        "onboard_time": 1725251901,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31660,
+        "num": 1368505,
+        "word": "第二届北京网络视听艺术大会",
+        "onboard_time": 1725248839,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1196154,
+        "num": 1196154,
+        "word": "女儿失踪第178天妈妈退出幼儿园群",
+        "onboard_time": 1725240020,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 872196,
+        "num": 872196,
+        "word": "陈奕迅唯爱樊振东",
+        "onboard_time": 1725252921,
+        "rank": 4,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 838862,
+        "num": 838862,
+        "word": "龙队是去上厕所不是不要你们",
+        "onboard_time": 1725248839,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 781920,
+        "num": 781920,
+        "word": "官方回应有人涉嫌介绍未成年人代孕",
+        "onboard_time": 1725249738,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 690863,
+        "num": 690863,
+        "word": "毒枸杞",
+        "onboard_time": 1725251721,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648954,
+        "num": 677683,
+        "word": "孕妇被731解剖大喊放过我的孩子",
+        "onboard_time": 1725236359,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27970,
+        "num": 676120,
+        "word": "记者夜探枸杞熏制棚被熏到泪流不止",
+        "onboard_time": 1725255322,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675662,
+        "num": 675662,
+        "word": "王骁章若楠 看见女儿男朋友的老丈人",
+        "onboard_time": 1725251001,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 671628,
+        "num": 671628,
+        "word": "罗拉王能能没分手",
+        "onboard_time": 1725242299,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 597581,
+        "num": 597581,
+        "word": "郑钦文首盘获胜",
+        "onboard_time": 1725251542,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 593831,
+        "num": 593831,
+        "word": "上海最大居民小区宣布炒掉物业",
+        "onboard_time": 1725244819,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17095,
+        "num": 524092,
+        "word": "当地回应央视曝光硫超标枸杞事件",
+        "onboard_time": 1725255082,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387019,
+        "num": 499623,
+        "word": "殷桃新剧失望到窒息的眼神",
+        "onboard_time": 1725251061,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366592,
+        "num": 493615,
+        "word": "赵今麦刘浩存 破壳而出",
+        "onboard_time": 1725247639,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 493266,
+        "num": 493266,
+        "word": "专家称取消公摊是忽悠老百姓的",
+        "onboard_time": 1725249019,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260521,
+        "num": 482325,
+        "word": "汪苏泷半夜醒来 我真多嘴啊",
+        "onboard_time": 1725253761,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 49655,
+        "num": 466976,
+        "word": "甘肃彻查枸杞种植加工问题",
+        "onboard_time": 1725254902,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1073703,
+        "num": 452952,
+        "word": "27岁退出了家族群删除了全部亲戚",
+        "onboard_time": 1725247579,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 927203,
+        "num": 418573,
+        "word": "男朋友奶奶去世给我也配到遗产",
+        "onboard_time": 1725252264,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 861096,
+        "num": 415659,
+        "word": "上官正义举报有人涉嫌介绍未成年人代孕",
+        "onboard_time": 1725249680,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316142,
+        "num": 383855,
+        "word": "夫人小我十岁 我知她勇敢无畏",
+        "onboard_time": 1725248540,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379261,
+        "num": 379261,
+        "word": "35岁大一新生唐尚珺今天报到",
+        "onboard_time": 1725247219,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327427,
+        "num": 353815,
+        "word": "腾讯视频9月大剧片单",
+        "onboard_time": 1725252502,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330063,
+        "num": 330063,
+        "word": "11年前7000多买的钻戒如今不值100块",
+        "onboard_time": 1725248359,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298746,
+        "num": 298746,
+        "word": "陈奕迅被告者名单",
+        "onboard_time": 1725245058,
+        "rank": 27,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 259908,
+        "num": 292655,
+        "word": "日本投降仪式结束时间9点18分",
+        "onboard_time": 1725236781,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 10047,
+        "num": 292580,
+        "word": "专家说短期洪水不足使沙漠变绿洲",
+        "onboard_time": 1725255082,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1998887,
+        "num": 292563,
+        "word": "苹果 微信",
+        "onboard_time": 1725253582,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 292514,
+        "num": 292514,
+        "word": "上汽高层吐槽小米汽车抄保时捷",
+        "onboard_time": 1725252682,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 271920,
+        "num": 271920,
+        "word": "钦余年终于互关了",
+        "onboard_time": 1725252082,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260828,
+        "num": 260828,
+        "word": "盛李豪打乒乓球协调了",
+        "onboard_time": 1725251780,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240559,
+        "num": 240559,
+        "word": "孙杨直播",
+        "onboard_time": 1725252981,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233819,
+        "num": 233819,
+        "word": "泫雅龙俊亨婚礼照",
+        "onboard_time": 1725255202,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228269,
+        "num": 228269,
+        "word": "樊振东注册第一天就在等陈奕迅",
+        "onboard_time": 1725254902,
+        "rank": 36,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 212906,
+        "num": 212906,
+        "word": "王楚钦被徐嘉余拿捏",
+        "onboard_time": 1725254301,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200447,
+        "num": 200447,
+        "word": "韩红 我已经转偶像路线了",
+        "onboard_time": 1725253462,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190779,
+        "num": 190779,
+        "word": "孙颖莎看向大头下一秒被点名",
+        "onboard_time": 1725252442,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187983,
+        "num": 187983,
+        "word": "时代少年团又水灵灵地演上了",
+        "onboard_time": 1725254840,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183886,
+        "num": 183886,
+        "word": "用小号和前男友谈了八个月准备奔现",
+        "onboard_time": 1725234016,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183222,
+        "num": 183222,
+        "word": "官方通报央视曝光毒枸杞",
+        "onboard_time": 1725255139,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172956,
+        "num": 172956,
+        "word": "四方馆",
+        "onboard_time": 1725255202,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164271,
+        "num": 164271,
+        "word": "权志龙舞台",
+        "onboard_time": 1725246199,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163859,
+        "num": 163859,
+        "word": "孙颖莎 乒乓球公仔",
+        "onboard_time": 1725255082,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160927,
+        "num": 160927,
+        "word": "容易出汗的人排查一下4种病",
+        "onboard_time": 1725238400,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154162,
+        "num": 154162,
+        "word": "以色列民众多地大规模抗议",
+        "onboard_time": 1725255382,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 150780,
+        "num": 150780,
+        "word": "郑思维征求小分队名字",
+        "onboard_time": 1725251481,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146819,
+        "num": 146819,
+        "word": "郑钦文ACE雨",
+        "onboard_time": 1725250581,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#立德树人#"
+    }
+  }
+}

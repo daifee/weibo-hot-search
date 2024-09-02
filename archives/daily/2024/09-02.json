@@ -1,6 +1,6 @@
 {
   "startTime": 1725207925221,
-  "endTime": 1725254443729,
+  "endTime": 1725255480884,
   "band_list": [
     {
       "raw_hot": 2899571,
@@ -17,6 +17,14 @@
       "onboard_time": 1725236359,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1998887,
+      "num": 292563,
+      "word": "苹果 微信",
+      "onboard_time": 1725253582,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 1933898,
@@ -123,12 +131,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 917647,
+      "raw_hot": 927203,
       "num": 440962,
       "word": "男朋友奶奶去世给我也配到遗产",
       "onboard_time": 1725252264,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 872196,
+      "num": 872196,
+      "word": "陈奕迅唯爱樊振东",
+      "onboard_time": 1725252921,
+      "rank": 9,
+      "category": "演出,体育"
     },
     {
       "raw_hot": 860837,
@@ -187,14 +203,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 773650,
-      "num": 761808,
-      "word": "陈奕迅唯爱樊振东",
-      "onboard_time": 1725252921,
-      "rank": 9,
-      "category": "演出,体育"
-    },
-    {
       "raw_hot": 743255,
       "num": 307990,
       "word": "容易出汗的人排查一下4种病",
@@ -217,6 +225,14 @@
       "onboard_time": 1725205041,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 690863,
+      "num": 690863,
+      "word": "毒枸杞",
+      "onboard_time": 1725251721,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 641305,
@@ -281,14 +297,6 @@
       "onboard_time": 1725197241,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 592340,
-      "num": 246311,
-      "word": "苹果 微信",
-      "onboard_time": 1725253582,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 549732,
@@ -361,14 +369,6 @@
       "onboard_time": 1725244997,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 463970,
-      "num": 463970,
-      "word": "毒枸杞",
-      "onboard_time": 1725251721,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 462007,
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 348559,
-      "num": 348559,
+      "num": 353815,
       "word": "腾讯视频9月大剧片单",
       "onboard_time": 1725252502,
       "rank": 24,
@@ -587,6 +587,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 260521,
+      "num": 482325,
+      "word": "汪苏泷半夜醒来 我真多嘴啊",
+      "onboard_time": 1725253761,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259412,
       "num": 259412,
       "word": "无痛早睡",
@@ -635,12 +643,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 240559,
+      "num": 240559,
+      "word": "孙杨直播",
+      "onboard_time": 1725252981,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 233819,
+      "num": 233819,
+      "word": "泫雅龙俊亨婚礼照",
+      "onboard_time": 1725255202,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231044,
       "num": 339029,
       "word": "公开发视频未打码路人是否侵权",
       "onboard_time": 1725247699,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228269,
+      "num": 228269,
+      "word": "樊振东注册第一天就在等陈奕迅",
+      "onboard_time": 1725254902,
+      "rank": 36,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 222451,
@@ -657,6 +689,14 @@
       "onboard_time": 1725240438,
       "rank": 48,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 212906,
+      "num": 212906,
+      "word": "王楚钦被徐嘉余拿捏",
+      "onboard_time": 1725254301,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 211186,
@@ -715,6 +755,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 200447,
+      "num": 200447,
+      "word": "韩红 我已经转偶像路线了",
+      "onboard_time": 1725253462,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197740,
       "num": 197740,
       "word": "深圳原副市长黄敏被双开",
@@ -727,14 +775,6 @@
       "num": 197021,
       "word": "郑思维征求小分队名字",
       "onboard_time": 1725251481,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 195788,
-      "num": 195788,
-      "word": "孙杨直播",
-      "onboard_time": 1725252981,
       "rank": 35,
       "category": "体育"
     },
@@ -771,14 +811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190612,
-      "num": 190612,
-      "word": "韩红 我已经转偶像路线了",
-      "onboard_time": 1725253462,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 189603,
       "num": 189603,
       "word": "孙佳俊被全红婵拿捏了",
@@ -793,6 +825,14 @@
       "onboard_time": 1725203963,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187983,
+      "num": 187983,
+      "word": "时代少年团又水灵灵地演上了",
+      "onboard_time": 1725254840,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 187883,
@@ -835,12 +875,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 185745,
-      "num": 185745,
-      "word": "汪苏泷半夜醒来 我真多嘴啊",
-      "onboard_time": 1725253761,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 183222,
+      "num": 183222,
+      "word": "官方通报央视曝光毒枸杞",
+      "onboard_time": 1725255139,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181804,
@@ -915,19 +955,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 172956,
+      "num": 172956,
+      "word": "四方馆",
+      "onboard_time": 1725255202,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170417,
       "num": 170417,
       "word": "潘展乐站樊振东旁边说nevergetup",
       "onboard_time": 1725251001,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 168298,
-      "num": 168298,
-      "word": "王楚钦被徐嘉余拿捏",
-      "onboard_time": 1725254301,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -979,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163859,
+      "num": 163859,
+      "word": "孙颖莎 乒乓球公仔",
+      "onboard_time": 1725255082,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159315,
       "num": 159315,
       "word": "报道后发现专业只有我一个人",
@@ -993,6 +1041,14 @@
       "onboard_time": 1725248660,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 154162,
+      "num": 154162,
+      "word": "以色列民众多地大规模抗议",
+      "onboard_time": 1725255382,
+      "rank": 47,
+      "category": "国外时政"
     },
     {
       "raw_hot": 154124,
@@ -1443,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49655,
+      "num": 466976,
+      "word": "甘肃彻查枸杞种植加工问题",
+      "onboard_time": 1725254902,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47524,
       "num": 47524,
       "word": "全红婵收到澳门文创乌龟",
@@ -1507,7 +1571,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31037,
+      "raw_hot": 31660,
       "num": 1412848,
       "word": "第二届北京网络视听艺术大会",
       "onboard_time": 1725248839,
@@ -1536,6 +1600,14 @@
       "word": "欧莱雅与乡村女性的稻田秀场",
       "onboard_time": 1725246258,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27970,
+      "num": 676120,
+      "word": "记者夜探枸杞熏制棚被熏到泪流不止",
+      "onboard_time": 1725255322,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1577,6 +1649,22 @@
       "onboard_time": 1725204741,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 17095,
+      "num": 524092,
+      "word": "当地回应央视曝光硫超标枸杞事件",
+      "onboard_time": 1725255082,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10047,
+      "num": 292580,
+      "word": "专家说短期洪水不足使沙漠变绿洲",
+      "onboard_time": 1725255082,
+      "rank": 29,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -1585,6 +1673,9 @@
     },
     {
       "word": "#培养中国栋梁总书记这一课至关重要#"
+    },
+    {
+      "word": "#立德树人#"
     }
   ]
 }
