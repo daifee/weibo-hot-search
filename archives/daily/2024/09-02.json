@@ -1,6 +1,6 @@
 {
   "startTime": 1725207925221,
-  "endTime": 1725277059601,
+  "endTime": 1725280887619,
   "band_list": [
     {
       "raw_hot": 5839152,
@@ -307,6 +307,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 834085,
+      "num": 244696,
+      "word": "今年的月饼已经离谱到这种程度了吗",
+      "onboard_time": 1725274700,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 830335,
+      "num": 830335,
+      "word": "李庚希影后手机壳",
+      "onboard_time": 1725276380,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 818200,
+      "num": 818200,
+      "word": "网曝安徽一中学4个学生吃1盆菜",
+      "onboard_time": 1725274882,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 817000,
       "num": 785442,
       "word": "刘浩存MIUMIU",
@@ -328,6 +352,14 @@
       "word": "郑钦文 走过的每一步都算数",
       "onboard_time": 1725260781,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 806360,
+      "num": 806360,
+      "word": "王楚ying",
+      "onboard_time": 1725277160,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -491,6 +523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 595914,
+      "num": 595914,
+      "word": "王楚钦说跟徐嘉余两清了",
+      "onboard_time": 1725277280,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 595234,
       "num": 655973,
       "word": "官方通报央视曝光毒枸杞",
@@ -617,14 +657,6 @@
       "onboard_time": 1725258620,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 482575,
-      "num": 243469,
-      "word": "今年的月饼已经离谱到这种程度了吗",
-      "onboard_time": 1725274700,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 479267,
@@ -819,12 +851,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 320151,
-      "num": 236724,
-      "word": "网曝安徽一中学4个学生吃1盆菜",
-      "onboard_time": 1725274882,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 317329,
+      "num": 317329,
+      "word": "蝴蝶姐姐怀孕",
+      "onboard_time": 1725280160,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 316425,
+      "num": 244485,
+      "word": "如果苹果真的下架了微信的话",
+      "onboard_time": 1725279439,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 315992,
@@ -939,14 +979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284824,
-      "num": 284824,
-      "word": "李庚希影后手机壳",
-      "onboard_time": 1725276380,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 280122,
       "num": 280122,
       "word": "第二部国产3A大作已在开发",
@@ -961,6 +993,22 @@
       "onboard_time": 1725243438,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 278648,
+      "num": 241062,
+      "word": "身体缺什么 嘴巴早就知道",
+      "onboard_time": 1725277520,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 277230,
+      "num": 277230,
+      "word": "把侯明昊房间马赛克给我拿掉",
+      "onboard_time": 1725277280,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 273946,
@@ -1073,6 +1121,14 @@
       "onboard_time": 1725234439,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250114,
+      "num": 250114,
+      "word": "台风摩羯大概率直奔广东",
+      "onboard_time": 1725275782,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248767,
@@ -1299,12 +1355,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205108,
-      "num": 205108,
-      "word": "台风摩羯大概率直奔广东",
-      "onboard_time": 1725275782,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 206462,
+      "num": 206462,
+      "word": "乌克兰轰炸俄罗斯一所幼儿园",
+      "onboard_time": 1725280160,
+      "rank": 24,
+      "category": "国外时政"
     },
     {
       "raw_hot": 204697,
@@ -1313,6 +1369,14 @@
       "onboard_time": 1725234078,
       "rank": 26,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 204613,
+      "num": 204613,
+      "word": "中国人用石头拉丝织国旗送上月球",
+      "onboard_time": 1725279979,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204402,
@@ -1328,6 +1392,14 @@
       "word": "成都开学第一天高温红色预警",
       "onboard_time": 1725273681,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203252,
+      "num": 203252,
+      "word": "广州地铁",
+      "onboard_time": 1725279920,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1441,6 +1513,14 @@
       "onboard_time": 1725250641,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190050,
+      "num": 190050,
+      "word": "iOS版微信已2个月没更新",
+      "onboard_time": 1725280219,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 189603,
@@ -1603,6 +1683,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 178849,
+      "num": 178849,
+      "word": "工作越努力越容易发胖是真的吗",
+      "onboard_time": 1725278240,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177274,
       "num": 177274,
       "word": "公司发的月饼这是五金馅的吧",
@@ -1681,6 +1769,14 @@
       "onboard_time": 1725261260,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168765,
+      "num": 168765,
+      "word": "许诺求婚顾茜茜",
+      "onboard_time": 1725280700,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 168486,
@@ -1771,6 +1867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160230,
+      "num": 160230,
+      "word": "罗晋也是风韵犹存",
+      "onboard_time": 1725278359,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 159315,
       "num": 159315,
       "word": "报道后发现专业只有我一个人",
@@ -1785,6 +1889,14 @@
       "onboard_time": 1725248660,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 156036,
+      "num": 156036,
+      "word": "朱志鑫回重庆七中",
+      "onboard_time": 1725279079,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 155590,
@@ -1851,6 +1963,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 153495,
+      "num": 153495,
+      "word": "张新成王玉雯cp感",
+      "onboard_time": 1725278840,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152594,
       "num": 152594,
       "word": "流水迢迢",
@@ -1873,6 +1993,14 @@
       "onboard_time": 1725244217,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150078,
+      "num": 150078,
+      "word": "收费2元一本代包书皮业务火了",
+      "onboard_time": 1725280160,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148357,
@@ -1912,6 +2040,14 @@
       "word": "郑钦文再战奥运决赛对手",
       "onboard_time": 1725240498,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 145646,
+      "num": 145646,
+      "word": "昌雅妮拍立得",
+      "onboard_time": 1725277400,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -2475,6 +2611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41311,
+      "num": 179022,
+      "word": "七旬老人劝阻带电池上楼被推倒",
+      "onboard_time": 1725278961,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39173,
       "num": 461752,
       "word": "微博拿云计划线上启动",
@@ -2489,6 +2633,22 @@
       "onboard_time": 1725268040,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38499,
+      "num": 321802,
+      "word": "烟台海鲜早就应该上热搜了",
+      "onboard_time": 1725278421,
+      "rank": 14,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 38277,
+      "num": 179685,
+      "word": "周鸿祎试完小鹏MONA后想学车",
+      "onboard_time": 1725280160,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 38130,
@@ -2643,6 +2803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 24131,
+      "num": 1122508,
+      "word": "万人说新疆走进广东",
+      "onboard_time": 1725264320,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24058,
       "num": 455068,
       "word": "高圆圆阿拉善之旅",
@@ -2665,6 +2833,14 @@
       "onboard_time": 1725213974,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23673,
+      "num": 153519,
+      "word": "烟台海鲜绝对是天花板级别",
+      "onboard_time": 1725278421,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 22344,
