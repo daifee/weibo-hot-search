@@ -1,0 +1,410 @@
+{
+  "runTime": 1725269034404,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1119677,
+        "num": 1179148,
+        "word": "侃爷以为HK是香港 结果是海口",
+        "onboard_time": 1725260781,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 921564,
+        "num": 921564,
+        "word": "今天全国大朋友小朋友悲喜相通了",
+        "onboard_time": 1725264080,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 28872,
+        "num": 914544,
+        "word": "一图了解中非合作论坛",
+        "onboard_time": 1725264979,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 997377,
+        "num": 839484,
+        "word": "赵今麦坐张凌赫肩上",
+        "onboard_time": 1725265280,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 488658,
+        "num": 798755,
+        "word": "女儿失踪第178天妈妈退出幼儿园群",
+        "onboard_time": 1725240020,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1746689,
+        "num": 732695,
+        "word": "代孕群聊按学历身高明码标价卵泡",
+        "onboard_time": 1725267141,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710614,
+        "num": 710614,
+        "word": "边水往事 第二季",
+        "onboard_time": 1725266901,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 494162,
+        "num": 494162,
+        "word": "上官正义曝光代孕机构群聊内容",
+        "onboard_time": 1725262100,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471913,
+        "num": 471913,
+        "word": "毒枸杞",
+        "onboard_time": 1725251721,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28754,
+        "num": 451037,
+        "word": "别让硫枸杞砸了地方特色产业的招牌",
+        "onboard_time": 1725268040,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450889,
+        "num": 450889,
+        "word": "官方通报央视曝光毒枸杞",
+        "onboard_time": 1725255139,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446658,
+        "num": 446658,
+        "word": "女子晒炒蘑菇视频吓坏网友",
+        "onboard_time": 1725265999,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412102,
+        "num": 412102,
+        "word": "郑钦文 走过的每一步都算数",
+        "onboard_time": 1725260781,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356056,
+        "num": 356056,
+        "word": "郑钦文进美网8强",
+        "onboard_time": 1725258021,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31371,
+        "num": 355053,
+        "word": "三位大一新生结绳救下溺水者",
+        "onboard_time": 1725267979,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343968,
+        "num": 353446,
+        "word": "陈乔恩Alan婚礼",
+        "onboard_time": 1725251901,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305066,
+        "num": 352818,
+        "word": "泫雅龙俊亨婚礼照",
+        "onboard_time": 1725255202,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72811,
+        "num": 351425,
+        "word": "陈哲远给zan庆生",
+        "onboard_time": 1725267560,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350611,
+        "num": 350611,
+        "word": "有人已经供暖了有人还在开空调",
+        "onboard_time": 1725260839,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243254,
+        "num": 340607,
+        "word": "矿泉水被传能生儿子被抢脱销",
+        "onboard_time": 1725267801,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 704694,
+        "num": 334943,
+        "word": "夫妻称喝完Blueglass躺了一天才恢复",
+        "onboard_time": 1725260720,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652130,
+        "num": 324043,
+        "word": "官方回应有人涉嫌介绍未成年人代孕",
+        "onboard_time": 1725249738,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508885,
+        "num": 302505,
+        "word": "王楚钦也告上状了",
+        "onboard_time": 1725261081,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 548242,
+        "num": 299209,
+        "word": "上官正义举报有人涉嫌介绍未成年人代孕",
+        "onboard_time": 1725249680,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290357,
+        "num": 290357,
+        "word": "毕业两年存款33万女生想裸辞",
+        "onboard_time": 1725258681,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264833,
+        "num": 264833,
+        "word": "美网奖金",
+        "onboard_time": 1725261021,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249884,
+        "num": 249884,
+        "word": "郑钦文 好风凭借力送我上青云",
+        "onboard_time": 1725266660,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202591,
+        "num": 248658,
+        "word": "陈奕迅唯爱樊振东",
+        "onboard_time": 1725252921,
+        "rank": 27,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 188029,
+        "num": 248141,
+        "word": "罗云熙活动出图",
+        "onboard_time": 1725268219,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169857,
+        "num": 248109,
+        "word": "檀健次夸by2拍照技术好",
+        "onboard_time": 1725261979,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 248084,
+        "num": 248084,
+        "word": "樊振东不平樊芭莎预告",
+        "onboard_time": 1725260180,
+        "rank": 30,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 935632,
+        "num": 243327,
+        "word": "苹果 微信",
+        "onboard_time": 1725253582,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 750022,
+        "num": 242456,
+        "word": "iPhone和微信你更离不开谁",
+        "onboard_time": 1725263897,
+        "rank": 32,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 235747,
+        "num": 235747,
+        "word": "第二部国产3A大作已在开发",
+        "onboard_time": 1725264200,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 232265,
+        "num": 232265,
+        "word": "阴阳师",
+        "onboard_time": 1725265999,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212877,
+        "num": 212877,
+        "word": "唐尚珺回复张雪峰",
+        "onboard_time": 1725264680,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209973,
+        "num": 209973,
+        "word": "青海格尔木回应毒枸杞事件",
+        "onboard_time": 1725266120,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209617,
+        "num": 209617,
+        "word": "这么傻的狗她居然有三只",
+        "onboard_time": 1725267381,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198774,
+        "num": 198774,
+        "word": "印度强奸案频发的深层次原因",
+        "onboard_time": 1725264200,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194620,
+        "num": 194620,
+        "word": "维基奇又扔拍子了",
+        "onboard_time": 1725258801,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192865,
+        "num": 192865,
+        "word": "台湾地震",
+        "onboard_time": 1725266120,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178244,
+        "num": 178244,
+        "word": "官方辟谣路虎逆行打人女司机在家拘留",
+        "onboard_time": 1725255799,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176448,
+        "num": 176448,
+        "word": "被奶奶辈的修眉方式震惊到了",
+        "onboard_time": 1725264801,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 175844,
+        "num": 175844,
+        "word": "国台办评恢复台湾地区文旦柚输入",
+        "onboard_time": 1725257239,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 154974,
+        "num": 154974,
+        "word": "郑钦文vs维基奇",
+        "onboard_time": 1725243079,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153844,
+        "num": 153844,
+        "word": "杨千嬅邀请樊振东有机会一起合唱",
+        "onboard_time": 1725267081,
+        "rank": 45,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 149862,
+        "num": 149862,
+        "word": "9月上班21天",
+        "onboard_time": 1725265460,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147800,
+        "num": 147800,
+        "word": "台风",
+        "onboard_time": 1725265819,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145981,
+        "num": 145981,
+        "word": "孕妇被731解剖大喊放过我的孩子",
+        "onboard_time": 1725236359,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145085,
+        "num": 145085,
+        "word": "台湾花莲县海域发生5.0级地震",
+        "onboard_time": 1725268760,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2024年中非合作论坛峰会#"
+    }
+  }
+}
