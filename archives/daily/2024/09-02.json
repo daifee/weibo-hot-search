@@ -1,6 +1,6 @@
 {
   "startTime": 1725207925221,
-  "endTime": 1725281805018,
+  "endTime": 1725283544461,
   "band_list": [
     {
       "raw_hot": 5839152,
@@ -105,6 +105,14 @@
       "onboard_time": 1725244819,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1664046,
+      "num": 1664046,
+      "word": "如果苹果真的下架了微信的话",
+      "onboard_time": 1725279439,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 1566437,
@@ -251,6 +259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 917248,
+      "num": 491494,
+      "word": "乌克兰轰炸俄罗斯一所幼儿园",
+      "onboard_time": 1725280160,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 909633,
       "num": 589108,
       "word": "官方辟谣路虎逆行打人女司机在家拘留",
@@ -299,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 837121,
+      "num": 837121,
+      "word": "WBG战胜JDG",
+      "onboard_time": 1725283462,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 835201,
       "num": 835201,
       "word": "林俊杰cue谭松韵",
@@ -308,7 +332,7 @@
     },
     {
       "raw_hot": 834085,
-      "num": 304168,
+      "num": 470313,
       "word": "今年的月饼已经离谱到这种程度了吗",
       "onboard_time": 1725274700,
       "rank": 43,
@@ -403,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 758780,
+      "num": 758780,
+      "word": "贾一凡vlog",
+      "onboard_time": 1725283401,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 750022,
       "num": 295137,
       "word": "iPhone和微信你更离不开谁",
@@ -451,20 +483,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 705877,
+      "num": 470990,
+      "word": "身体缺什么 嘴巴早就知道",
+      "onboard_time": 1725277520,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 697818,
       "num": 586804,
       "word": "樊振东注册第一天就在等陈奕迅",
       "onboard_time": 1725254902,
       "rank": 36,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 693004,
-      "num": 304078,
-      "word": "如果苹果真的下架了微信的话",
-      "onboard_time": 1725279439,
-      "rank": 21,
-      "category": "互联网"
     },
     {
       "raw_hot": 677536,
@@ -529,6 +561,14 @@
       "onboard_time": 1725203901,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 596685,
+      "num": 596685,
+      "word": "蝴蝶姐姐怀孕",
+      "onboard_time": 1725280160,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 595914,
@@ -659,14 +699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 491621,
-      "num": 491621,
-      "word": "蝴蝶姐姐怀孕",
-      "onboard_time": 1725280160,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 490430,
       "num": 425371,
       "word": "唐尚珺坦言毕业时近40岁找工作难度大",
@@ -689,6 +721,14 @@
       "onboard_time": 1725244997,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 472517,
+      "num": 472517,
+      "word": "WBG晋级S14",
+      "onboard_time": 1725281782,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 462007,
@@ -737,6 +777,14 @@
       "onboard_time": 1725212113,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 436571,
+      "num": 472239,
+      "word": "许诺求婚顾茜茜",
+      "onboard_time": 1725280700,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 436442,
@@ -795,28 +843,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 384078,
-      "num": 384078,
-      "word": "许诺求婚顾茜茜",
-      "onboard_time": 1725280700,
-      "rank": 33,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 383246,
-      "num": 303965,
-      "word": "身体缺什么 嘴巴早就知道",
-      "onboard_time": 1725277520,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 380520,
       "num": 380520,
       "word": "邓为偷偷戴了脐钉",
       "onboard_time": 1725200000,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 372725,
+      "num": 372725,
+      "word": "刘清漪vlog",
+      "onboard_time": 1725281782,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 371473,
@@ -875,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 343179,
+      "num": 343179,
+      "word": "普京称家里小孩中文说得很流利",
+      "onboard_time": 1725282020,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 336362,
       "num": 336362,
       "word": "张雨霏 给澳门留点震撼",
@@ -889,14 +937,6 @@
       "onboard_time": 1725200661,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 318275,
-      "num": 318275,
-      "word": "乌克兰轰炸俄罗斯一所幼儿园",
-      "onboard_time": 1725280160,
-      "rank": 24,
-      "category": "国外时政"
     },
     {
       "raw_hot": 315992,
@@ -971,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299231,
+      "num": 299231,
+      "word": "山姆回应矿泉水喝了能生儿子",
+      "onboard_time": 1725280999,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298737,
       "num": 298737,
       "word": "郑钦文说再战维基奇会更艰难",
@@ -993,6 +1041,14 @@
       "onboard_time": 1725252082,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 294715,
+      "num": 294715,
+      "word": "iOS版微信已2个月没更新",
+      "onboard_time": 1725280219,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 290292,
@@ -1036,7 +1092,7 @@
     },
     {
       "raw_hot": 277230,
-      "num": 277230,
+      "num": 343188,
       "word": "把侯明昊房间马赛克给我拿掉",
       "onboard_time": 1725277280,
       "rank": 16,
@@ -1065,14 +1121,6 @@
       "onboard_time": 1725245778,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 269474,
-      "num": 269474,
-      "word": "iOS版微信已2个月没更新",
-      "onboard_time": 1725280219,
-      "rank": 27,
-      "category": "互联网"
     },
     {
       "raw_hot": 263820,
@@ -1105,6 +1153,14 @@
       "onboard_time": 1725264680,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262497,
+      "num": 262497,
+      "word": "我的裤子竟然被1000w人围观了",
+      "onboard_time": 1725281662,
+      "rank": 31,
+      "category": "时尚"
     },
     {
       "raw_hot": 261771,
@@ -1219,14 +1275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 240218,
-      "num": 240218,
-      "word": "我的裤子竟然被1000w人围观了",
-      "onboard_time": 1725281662,
-      "rank": 31,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 237828,
       "num": 237828,
       "word": "芭莎十月创刊三十八周年封面",
@@ -1313,6 +1361,14 @@
       "onboard_time": 1725276380,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214480,
+      "num": 214480,
+      "word": "收费2元一本代包书皮业务火了",
+      "onboard_time": 1725280160,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212906,
@@ -1491,6 +1547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197003,
+      "num": 197003,
+      "word": "LPL",
+      "onboard_time": 1725282500,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195781,
       "num": 195781,
       "word": "enhypen 高阳",
@@ -1505,6 +1569,14 @@
       "onboard_time": 1725258979,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194947,
+      "num": 194947,
+      "word": "ruler尽力了",
+      "onboard_time": 1725282620,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 194941,
@@ -1537,14 +1609,6 @@
       "onboard_time": 1725260541,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 191011,
-      "num": 191011,
-      "word": "收费2元一本代包书皮业务火了",
-      "onboard_time": 1725280160,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190846,
@@ -1651,6 +1715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185508,
+      "num": 344451,
+      "word": "Ador删除newjeans花絮视频",
+      "onboard_time": 1725282921,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184858,
       "num": 610384,
       "word": "互联网黄牛犹如吸血的牛虻",
@@ -1713,14 +1785,6 @@
       "onboard_time": 1725248419,
       "rank": 43,
       "category": "数码"
-    },
-    {
-      "raw_hot": 179184,
-      "num": 179184,
-      "word": "山姆回应矿泉水喝了能生儿子",
-      "onboard_time": 1725280999,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177274,
@@ -2019,6 +2083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150134,
+      "num": 150134,
+      "word": "花洛莉亚 擦边",
+      "onboard_time": 1725283462,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 148357,
       "num": 148357,
       "word": "谢瑜说樊振东是我的",
@@ -2035,6 +2107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147876,
+      "num": 147876,
+      "word": "你只管善良上天自有衡量",
+      "onboard_time": 1725280941,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147477,
       "num": 147477,
       "word": "龙道一 全垫音",
@@ -2049,6 +2129,14 @@
       "onboard_time": 1725205279,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146907,
+      "num": 146907,
+      "word": "学生使用宿舍空调需交租赁费",
+      "onboard_time": 1725282801,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146220,
@@ -2161,22 +2249,6 @@
       "onboard_time": 1725189439,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134818,
-      "num": 134818,
-      "word": "刘清漪vlog",
-      "onboard_time": 1725281782,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 133987,
-      "num": 133987,
-      "word": "WBG晋级S14",
-      "onboard_time": 1725281782,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 133217,
@@ -2676,7 +2748,7 @@
     },
     {
       "raw_hot": 38277,
-      "num": 242471,
+      "num": 344173,
       "word": "周鸿祎试完小鹏MONA后想学车",
       "onboard_time": 1725280160,
       "rank": 29,
@@ -2748,10 +2820,18 @@
     },
     {
       "raw_hot": 33757,
-      "num": 304378,
+      "num": 471360,
       "word": "坑老团伙神秘推销保健品",
       "onboard_time": 1725281782,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33571,
+      "num": 492132,
+      "word": "硫超标枸杞为何打而不绝",
+      "onboard_time": 1725282140,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2823,6 +2903,14 @@
       "num": 498642,
       "word": "硫超标枸杞要曝光更要根治",
       "onboard_time": 1725264200,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26694,
+      "num": 472894,
+      "word": "对毒枸杞必须重罚",
+      "onboard_time": 1725282081,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -2936,6 +3024,22 @@
       "word": "看执法记录仪下的警察日常",
       "onboard_time": 1725275000,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14614,
+      "num": 343730,
+      "word": "多少人来烟台就为了这一口",
+      "onboard_time": 1725282921,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 14387,
+      "num": 1378759,
+      "word": "中非合作论坛峰会有哪些看点",
+      "onboard_time": 1725282980,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
