@@ -1,7 +1,15 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725233702666,
+  "endTime": 1725241063609,
   "band_list": [
+    {
+      "raw_hot": 2255016,
+      "num": 2255016,
+      "word": "孕妇被731解剖大喊放过我的孩子",
+      "onboard_time": 1725236359,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2103437,
       "num": 2103437,
@@ -25,6 +33,14 @@
       "onboard_time": 1725175639,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1933898,
+      "num": 1933898,
+      "word": "日本投降仪式结束时间9点18分",
+      "onboard_time": 1725236781,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1798685,
@@ -81,6 +97,14 @@
       "onboard_time": 1725163399,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1540892,
+      "num": 1540892,
+      "word": "女儿失踪第178天妈妈退出幼儿园群",
+      "onboard_time": 1725240020,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1510516,
@@ -153,6 +177,14 @@
       "onboard_time": 1725189439,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1156093,
+      "num": 397441,
+      "word": "用小号和前男友谈了八个月准备奔现",
+      "onboard_time": 1725234016,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 1109392,
@@ -291,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 835807,
+      "num": 835807,
+      "word": "残奥会 关注度低",
+      "onboard_time": 1725238400,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 835201,
       "num": 835201,
       "word": "林俊杰cue谭松韵",
@@ -385,6 +425,14 @@
       "onboard_time": 1725177679,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 719259,
+      "num": 719259,
+      "word": "彭昱畅暴瘦是因为阑尾炎",
+      "onboard_time": 1725232878,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 717738,
@@ -489,6 +537,14 @@
       "onboard_time": 1725219911,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 637743,
+      "num": 395588,
+      "word": "订婚后男朋友天天追求公平",
+      "onboard_time": 1725233059,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 636669,
@@ -665,14 +721,6 @@
       "onboard_time": 1725178040,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 533617,
-      "num": 245077,
-      "word": "彭昱畅暴瘦是因为阑尾炎",
-      "onboard_time": 1725232878,
-      "rank": 10,
-      "category": "电影"
     },
     {
       "raw_hot": 527403,
@@ -947,12 +995,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 400798,
+      "num": 400798,
+      "word": "中国人民抗战胜利79周年",
+      "onboard_time": 1725236359,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 399674,
       "num": 399674,
       "word": "父亲回应婴儿出租屋饿到营养不良",
       "onboard_time": 1725173299,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393350,
+      "num": 393350,
+      "word": "黄磊祝贺彭昱畅",
+      "onboard_time": 1725237500,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 390307,
+      "num": 281074,
+      "word": "容易出汗的人排查一下4种病",
+      "onboard_time": 1725238400,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 386747,
@@ -1011,12 +1083,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 365392,
+      "num": 365392,
+      "word": "小天鹅被羊毛党一夜薅走7000万",
+      "onboard_time": 1725232816,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 362456,
       "num": 425438,
       "word": "藏海花1个人睡120000平",
       "onboard_time": 1725167179,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 357303,
+      "num": 357303,
+      "word": "陈奕迅用了樊振东同款球拍",
+      "onboard_time": 1725234738,
+      "rank": 15,
+      "category": "演出,体育"
     },
     {
       "raw_hot": 339058,
@@ -1067,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318391,
+      "num": 318391,
+      "word": "唐尚珺坦言毕业时近40岁找工作难度大",
+      "onboard_time": 1725239479,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315147,
       "num": 315147,
       "word": "徐海乔 有效出镜",
@@ -1081,6 +1177,14 @@
       "onboard_time": 1725158118,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 307493,
+      "num": 280251,
+      "word": "20岁本科毕业准备出国读研但意外怀孕",
+      "onboard_time": 1725233059,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 305349,
@@ -1155,6 +1259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 290292,
+      "num": 290292,
+      "word": "易烊千玺 五月天演唱会",
+      "onboard_time": 1725235338,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 286672,
       "num": 464082,
       "word": "易烊千玺亮相威尼斯晚宴",
@@ -1195,6 +1307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277649,
+      "num": 277649,
+      "word": "郑钦文说再战维基奇会更艰难",
+      "onboard_time": 1725235999,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 274368,
       "num": 329187,
       "word": "刘亦菲飞吻张靓颖",
@@ -1225,6 +1345,14 @@
       "onboard_time": 1725160999,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 260816,
+      "num": 260816,
+      "word": "为什么没怀疑过朋友圈是预制的",
+      "onboard_time": 1725234798,
+      "rank": 23,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 259971,
@@ -1267,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252617,
+      "num": 281969,
+      "word": "阚清子现在只会为角色减肥",
+      "onboard_time": 1725234439,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250473,
       "num": 250473,
       "word": "大学生课表放微信置顶",
@@ -1288,6 +1424,14 @@
       "word": "全红婵的玩具被没收了",
       "onboard_time": 1725176240,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 245973,
+      "num": 245973,
+      "word": "郑钦文美网赛程",
+      "onboard_time": 1725189260,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -1321,14 +1465,6 @@
       "onboard_time": 1725157518,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 240415,
-      "num": 240415,
-      "word": "小天鹅被羊毛党一夜薅走7000万",
-      "onboard_time": 1725232816,
-      "rank": 13,
-      "category": "财经"
     },
     {
       "raw_hot": 239676,
@@ -1491,14 +1627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 209907,
-      "num": 209907,
-      "word": "郑钦文美网赛程",
-      "onboard_time": 1725189260,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 208226,
       "num": 326466,
       "word": "很难不中卢昱晓的美人计",
@@ -1585,6 +1713,14 @@
       "onboard_time": 1725174258,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 204697,
+      "num": 204697,
+      "word": "乒乓球队听游泳队唱孤勇者的反应",
+      "onboard_time": 1725234078,
+      "rank": 26,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 203825,
@@ -1755,6 +1891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 192071,
+      "num": 192071,
+      "word": "关晓彤路透",
+      "onboard_time": 1725237139,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191547,
       "num": 191547,
       "word": "DK对战T1",
@@ -1811,6 +1955,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 187883,
+      "num": 187883,
+      "word": "魔幻的五周调休",
+      "onboard_time": 1725239060,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187605,
       "num": 187605,
       "word": "陈丽君首登央视中秋晚会",
@@ -1827,12 +1979,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187245,
+      "num": 187245,
+      "word": "哈尔滨一车行驶中大量撒钱",
+      "onboard_time": 1725234439,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186243,
       "num": 186243,
       "word": "曹璐恩静cha了可怜",
       "onboard_time": 1725186319,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 185906,
+      "num": 185906,
+      "word": "多地开学第一天",
+      "onboard_time": 1725236601,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185554,
@@ -1963,6 +2131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 177014,
+      "num": 177014,
+      "word": "巴黎残奥会奖牌榜",
+      "onboard_time": 1725238159,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176733,
       "num": 176733,
       "word": "AG锁定胜者组决赛",
@@ -1979,6 +2155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176716,
+      "num": 176716,
+      "word": "公司发的月饼这是五金馅的吧",
+      "onboard_time": 1725239419,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175377,
       "num": 333393,
       "word": "武汉人如何做到边跑边吃热干面",
@@ -1993,6 +2177,14 @@
       "onboard_time": 1725175099,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174576,
+      "num": 174576,
+      "word": "清水英男自述731罪行",
+      "onboard_time": 1725233176,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 174516,
@@ -2195,6 +2387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159315,
+      "num": 159315,
+      "word": "报道后发现专业只有我一个人",
+      "onboard_time": 1725241039,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159250,
       "num": 159250,
       "word": "男子酒后懒得下楼从9楼扔酒瓶",
@@ -2291,6 +2491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152163,
+      "num": 152163,
+      "word": "深圳原副市长黄敏被双开",
+      "onboard_time": 1725237079,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152034,
       "num": 152034,
       "word": "樊振东和潘展乐合体打羽毛球",
@@ -2371,6 +2579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146220,
+      "num": 146220,
+      "word": "郑钦文再战奥运决赛对手",
+      "onboard_time": 1725240498,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146176,
       "num": 146176,
       "word": "孙颖莎教陈清晨打球",
@@ -2384,6 +2600,14 @@
       "word": "潘展乐贴脸开大记者",
       "onboard_time": 1725180620,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 145960,
+      "num": 145960,
+      "word": "慌张的孙颖莎已读乱回的王楚钦",
+      "onboard_time": 1725240859,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -2417,6 +2641,14 @@
       "onboard_time": 1725189260,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144876,
+      "num": 144876,
+      "word": "这喷不了确实是全开麦",
+      "onboard_time": 1725236300,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 144843,
@@ -2457,6 +2689,14 @@
       "onboard_time": 1725181579,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138960,
+      "num": 138960,
+      "word": "孙颖莎是一个有力量的女孩子",
+      "onboard_time": 1725237560,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 138536,
@@ -2563,6 +2803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 131093,
+      "num": 131093,
+      "word": "相亲相到正常人反而害怕",
+      "onboard_time": 1725232516,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130107,
       "num": 130107,
       "word": "张晚意这个摇头",
@@ -2611,20 +2859,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127191,
-      "num": 127191,
-      "word": "订婚后男朋友天天追求公平",
-      "onboard_time": 1725233059,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 126074,
       "num": 165358,
       "word": "李克勤擦口红这段",
       "onboard_time": 1725168258,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124822,
+      "num": 124822,
+      "word": "展乐你不要再逗盛李豪了",
+      "onboard_time": 1725234738,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 124734,
@@ -2963,28 +3211,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 94523,
-      "num": 94523,
-      "word": "20岁本科毕业准备出国读研但意外怀孕",
-      "onboard_time": 1725233059,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 94143,
       "num": 105157,
       "word": "檀健次舞台是也带表演的",
       "onboard_time": 1725122476,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 91333,
-      "num": 91333,
-      "word": "相亲相到正常人反而害怕",
-      "onboard_time": 1725232516,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 91120,
@@ -3001,14 +3233,6 @@
       "onboard_time": 1725123797,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 88507,
-      "num": 88507,
-      "word": "清水英男自述731罪行",
-      "onboard_time": 1725233176,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 80547,
@@ -3444,7 +3668,7 @@
     },
     {
       "raw_hot": 31761,
-      "num": 870341,
+      "num": 1689120,
       "word": "神十八乘组的太空日常",
       "onboard_time": 1725194840,
       "rank": 2,

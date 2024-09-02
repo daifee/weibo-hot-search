@@ -1,0 +1,410 @@
+{
+  "runTime": 1725241063609,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2255016,
+        "num": 2255016,
+        "word": "孕妇被731解剖大喊放过我的孩子",
+        "onboard_time": 1725236359,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1933898,
+        "num": 1933898,
+        "word": "日本投降仪式结束时间9点18分",
+        "onboard_time": 1725236781,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30295,
+        "num": 1689120,
+        "word": "神十八乘组的太空日常",
+        "onboard_time": 1725194840,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1540892,
+        "num": 1540892,
+        "word": "女儿失踪第178天妈妈退出幼儿园群",
+        "onboard_time": 1725240020,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 835807,
+        "num": 835807,
+        "word": "残奥会 关注度低",
+        "onboard_time": 1725238400,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 719259,
+        "num": 719259,
+        "word": "彭昱畅暴瘦是因为阑尾炎",
+        "onboard_time": 1725232878,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 519527,
+        "num": 519527,
+        "word": "28岁机车网红三毛子因车祸去世",
+        "onboard_time": 1725205880,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 429687,
+        "num": 429687,
+        "word": "袁隆平儿子回应女儿入读中国农业大学",
+        "onboard_time": 1725194061,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401489,
+        "num": 401489,
+        "word": "多地学校换上了可躺式课桌椅",
+        "onboard_time": 1725219911,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400798,
+        "num": 400798,
+        "word": "中国人民抗战胜利79周年",
+        "onboard_time": 1725236359,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1156093,
+        "num": 397441,
+        "word": "用小号和前男友谈了八个月准备奔现",
+        "onboard_time": 1725234016,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 637743,
+        "num": 395588,
+        "word": "订婚后男朋友天天追求公平",
+        "onboard_time": 1725233059,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 393350,
+        "num": 393350,
+        "word": "黄磊祝贺彭昱畅",
+        "onboard_time": 1725237500,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 390799,
+        "num": 390799,
+        "word": "退役军人安置条例今起施行",
+        "onboard_time": 1725212113,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 365392,
+        "num": 365392,
+        "word": "小天鹅被羊毛党一夜薅走7000万",
+        "onboard_time": 1725232816,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 357303,
+        "num": 357303,
+        "word": "陈奕迅用了樊振东同款球拍",
+        "onboard_time": 1725234738,
+        "rank": 15,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 318391,
+        "num": 318391,
+        "word": "唐尚珺坦言毕业时近40岁找工作难度大",
+        "onboard_time": 1725239479,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290655,
+        "num": 290655,
+        "word": "大爷拿走价值3千兔子问你能把我怎样",
+        "onboard_time": 1725202282,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290292,
+        "num": 290292,
+        "word": "易烊千玺 五月天演唱会",
+        "onboard_time": 1725235338,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 252617,
+        "num": 281969,
+        "word": "阚清子现在只会为角色减肥",
+        "onboard_time": 1725234439,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390307,
+        "num": 281074,
+        "word": "容易出汗的人排查一下4种病",
+        "onboard_time": 1725238400,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 307493,
+        "num": 280251,
+        "word": "20岁本科毕业准备出国读研但意外怀孕",
+        "onboard_time": 1725233059,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277649,
+        "num": 277649,
+        "word": "郑钦文说再战维基奇会更艰难",
+        "onboard_time": 1725235999,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260816,
+        "num": 260816,
+        "word": "为什么没怀疑过朋友圈是预制的",
+        "onboard_time": 1725234798,
+        "rank": 23,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 257938,
+        "num": 257938,
+        "word": "家长火烧孩子估值好几万烟卡",
+        "onboard_time": 1725187459,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245973,
+        "num": 245973,
+        "word": "郑钦文美网赛程",
+        "onboard_time": 1725189260,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204697,
+        "num": 204697,
+        "word": "乒乓球队听游泳队唱孤勇者的反应",
+        "onboard_time": 1725234078,
+        "rank": 26,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 200444,
+        "num": 200444,
+        "word": "月薪一万那叫卷十万就叫拼搏",
+        "onboard_time": 1725198920,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192071,
+        "num": 192071,
+        "word": "关晓彤路透",
+        "onboard_time": 1725237139,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188201,
+        "num": 188201,
+        "word": "徐锦江真的把徐菲养的很好",
+        "onboard_time": 1725200601,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187883,
+        "num": 187883,
+        "word": "魔幻的五周调休",
+        "onboard_time": 1725239060,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187245,
+        "num": 187245,
+        "word": "哈尔滨一车行驶中大量撒钱",
+        "onboard_time": 1725234439,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185906,
+        "num": 185906,
+        "word": "多地开学第一天",
+        "onboard_time": 1725236601,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177014,
+        "num": 177014,
+        "word": "巴黎残奥会奖牌榜",
+        "onboard_time": 1725238159,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176716,
+        "num": 176716,
+        "word": "公司发的月饼这是五金馅的吧",
+        "onboard_time": 1725239419,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174576,
+        "num": 174576,
+        "word": "清水英男自述731罪行",
+        "onboard_time": 1725233176,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159315,
+        "num": 159315,
+        "word": "报道后发现专业只有我一个人",
+        "onboard_time": 1725241039,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157047,
+        "num": 157047,
+        "word": "陈奕迅邀请游泳队来演唱会一起唱",
+        "onboard_time": 1725232216,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155374,
+        "num": 155374,
+        "word": "许昕问王楚钦合照留空是谁提的",
+        "onboard_time": 1725201082,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152163,
+        "num": 152163,
+        "word": "深圳原副市长黄敏被双开",
+        "onboard_time": 1725237079,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146220,
+        "num": 146220,
+        "word": "郑钦文再战奥运决赛对手",
+        "onboard_time": 1725240498,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145960,
+        "num": 145960,
+        "word": "慌张的孙颖莎已读乱回的王楚钦",
+        "onboard_time": 1725240859,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144876,
+        "num": 144876,
+        "word": "这喷不了确实是全开麦",
+        "onboard_time": 1725236300,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141139,
+        "num": 141139,
+        "word": "SM英国男团成员身材",
+        "onboard_time": 1725205041,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140025,
+        "num": 140025,
+        "word": "迪丽热巴周也穿了同款",
+        "onboard_time": 1725203901,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138960,
+        "num": 138960,
+        "word": "孙颖莎是一个有力量的女孩子",
+        "onboard_time": 1725237560,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136601,
+        "num": 136601,
+        "word": "王楚钦名字带欠人也欠欠的",
+        "onboard_time": 1725204260,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131846,
+        "num": 131846,
+        "word": "李庚希金鹿奖影后",
+        "onboard_time": 1725197241,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131093,
+        "num": 131093,
+        "word": "相亲相到正常人反而害怕",
+        "onboard_time": 1725232516,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124822,
+        "num": 124822,
+        "word": "展乐你不要再逗盛李豪了",
+        "onboard_time": 1725234738,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#每个学生都是独一无二的个体#"
+    }
+  }
+}
