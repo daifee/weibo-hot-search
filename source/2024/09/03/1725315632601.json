@@ -1,0 +1,410 @@
+{
+  "runTime": 1725315632601,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 480190,
+        "num": 480190,
+        "word": "郑钦文遭种族歧视霸气回击",
+        "onboard_time": 1725294437,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232946,
+        "num": 232946,
+        "word": "三只羊合伙人回怼辛巴",
+        "onboard_time": 1725284481,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16077,
+        "num": 200471,
+        "word": "巴黎残奥那些震撼心灵的细节",
+        "onboard_time": 1725282201,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322983,
+        "num": 198208,
+        "word": "女子婚后发现丈夫每天吃药告到法院",
+        "onboard_time": 1725284782,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189423,
+        "num": 189423,
+        "word": "上海徐汇中学通报学生上体锻课晕倒",
+        "onboard_time": 1725293899,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153395,
+        "num": 153395,
+        "word": "苹果官方回应iPhone16不支持微信",
+        "onboard_time": 1725271400,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 147829,
+        "num": 147829,
+        "word": "抗战胜利79周年",
+        "onboard_time": 1725294557,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 93163,
+        "num": 93163,
+        "word": "刘亦菲登越南国家电视台",
+        "onboard_time": 1725286704,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74679,
+        "num": 93089,
+        "word": "夫妻吵架一笔笔算账最伤人",
+        "onboard_time": 1725285321,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 6290,
+        "num": 92868,
+        "word": "台州为老人医保兜底参保无门槛",
+        "onboard_time": 1725314052,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134277,
+        "num": 92748,
+        "word": "170斤女骑手1年怒减65斤成功爆改",
+        "onboard_time": 1725287902,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247155,
+        "num": 92548,
+        "word": "花洛莉亚 擦边",
+        "onboard_time": 1725283462,
+        "rank": 11,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 92512,
+        "num": 92512,
+        "word": "武僧秋风车祸货车司机系无证驾驶",
+        "onboard_time": 1725303251,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89421,
+        "num": 89421,
+        "word": "学校回应不买校服保险牛奶不给办入学",
+        "onboard_time": 1725291321,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73525,
+        "num": 73525,
+        "word": "广西一地封山搜捕致5死命案嫌犯",
+        "onboard_time": 1725291741,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68140,
+        "num": 68140,
+        "word": "樊振东王楚钦睡了一路",
+        "onboard_time": 1725286342,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57225,
+        "num": 57225,
+        "word": "普京称家里小孩中文说得很流利",
+        "onboard_time": 1725282020,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 52148,
+        "num": 57114,
+        "word": "欧阳娜娜 内娱第一留子",
+        "onboard_time": 1725272359,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46098,
+        "num": 56705,
+        "word": "谢娜带娃看张杰演唱会",
+        "onboard_time": 1725290781,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 43109,
+        "num": 56433,
+        "word": "蝴蝶姐姐怀孕",
+        "onboard_time": 1725280160,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155266,
+        "num": 56295,
+        "word": "顾客疑没穿内裤试裤子留白色异物",
+        "onboard_time": 1725283763,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138439,
+        "num": 55984,
+        "word": "原来有一种失眠叫早醒型失眠",
+        "onboard_time": 1725307271,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92963,
+        "num": 55659,
+        "word": "一句话让王一博心甘情愿解皮带",
+        "onboard_time": 1725290960,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55603,
+        "num": 55603,
+        "word": "家长已经从包书皮卷到包书角了",
+        "onboard_time": 1725294198,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 39951,
+        "num": 55223,
+        "word": "野孩子 定档",
+        "onboard_time": 1725283581,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 54943,
+        "num": 54943,
+        "word": "如果苹果真的下架了微信的话",
+        "onboard_time": 1725279439,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 51359,
+        "num": 51359,
+        "word": "每个中国人都该记住这一天",
+        "onboard_time": 1725295996,
+        "rank": 26,
+        "category": "社会新闻,国内时政"
+      },
+      {
+        "raw_hot": 39887,
+        "num": 49949,
+        "word": "李泽锋也受不了冷暴力",
+        "onboard_time": 1725290361,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36524,
+        "num": 49822,
+        "word": "这竟然是西游记仿妆",
+        "onboard_time": 1725309251,
+        "rank": 28,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 29174,
+        "num": 49784,
+        "word": "蒋奇明长发",
+        "onboard_time": 1725287063,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49774,
+        "num": 49774,
+        "word": "乌克兰轰炸俄罗斯一所幼儿园",
+        "onboard_time": 1725280160,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 47045,
+        "num": 47045,
+        "word": "标错价格20分钟被薅7000万元",
+        "onboard_time": 1725273500,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41447,
+        "num": 41447,
+        "word": "山姆回应矿泉水喝了能生儿子",
+        "onboard_time": 1725280999,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40111,
+        "num": 40111,
+        "word": "山东初一男女身高差惊呆网友",
+        "onboard_time": 1725309971,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39028,
+        "num": 39028,
+        "word": "李雯雯 分别前的小花絮",
+        "onboard_time": 1725283999,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37831,
+        "num": 37831,
+        "word": "校方回应学生宿舍用空调需交租赁费",
+        "onboard_time": 1725310031,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36895,
+        "num": 36895,
+        "word": "侵华日军标本室有胎儿还在子宫里",
+        "onboard_time": 1725300433,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34904,
+        "num": 34904,
+        "word": "凉拌黄瓜火了冰岛黄瓜卖脱销了",
+        "onboard_time": 1725285082,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34757,
+        "num": 34757,
+        "word": "孙颖莎结束港澳行发文",
+        "onboard_time": 1725287482,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33579,
+        "num": 33579,
+        "word": "这个喷不了这个是真上过班的",
+        "onboard_time": 1725297193,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32438,
+        "num": 32438,
+        "word": "男子15岁开始喝酒38岁肝衰竭",
+        "onboard_time": 1725302353,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32130,
+        "num": 32130,
+        "word": "iOS版微信已2个月没更新",
+        "onboard_time": 1725280219,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 31350,
+        "num": 31350,
+        "word": "教育局回应成都开学遇高温",
+        "onboard_time": 1725291679,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30499,
+        "num": 31349,
+        "word": "猫抓板 虫子",
+        "onboard_time": 1725291980,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29752,
+        "num": 31333,
+        "word": "致敬中国人民的伟大胜利",
+        "onboard_time": 1725298874,
+        "rank": 44,
+        "category": "国内时政,社会新闻"
+      },
+      {
+        "raw_hot": 26941,
+        "num": 31325,
+        "word": "WBG战胜JDG",
+        "onboard_time": 1725283462,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25793,
+        "num": 31320,
+        "word": "身体缺什么 嘴巴早就知道",
+        "onboard_time": 1725277520,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23712,
+        "num": 31308,
+        "word": "妈妈回应鼓励独臂儿子面对新同学",
+        "onboard_time": 1725300672,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21905,
+        "num": 31305,
+        "word": "又到退伍季",
+        "onboard_time": 1725311891,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21865,
+        "num": 31295,
+        "word": "干饭哥连举重也练上了",
+        "onboard_time": 1725313932,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的中非合作论坛峰会时间#"
+    }
+  }
+}

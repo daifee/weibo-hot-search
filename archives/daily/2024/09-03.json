@@ -1,6 +1,6 @@
 {
   "startTime": 1725294442172,
-  "endTime": 1725312908154,
+  "endTime": 1725315632601,
   "band_list": [
     {
       "raw_hot": 2050573,
@@ -179,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232946,
+      "num": 232946,
+      "word": "三只羊合伙人回怼辛巴",
+      "onboard_time": 1725284481,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214851,
       "num": 214851,
       "word": "欧阳娜娜 内娱第一留子",
@@ -193,6 +201,14 @@
       "onboard_time": 1725289642,
       "rank": 19,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 189423,
+      "num": 189423,
+      "word": "上海徐汇中学通报学生上体锻课晕倒",
+      "onboard_time": 1725293899,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184834,
@@ -211,28 +227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161856,
-      "num": 161856,
-      "word": "三只羊合伙人回怼辛巴",
-      "onboard_time": 1725284481,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160951,
       "num": 160951,
       "word": "猫抓板 虫子",
       "onboard_time": 1725291980,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 152280,
-      "num": 152280,
-      "word": "上海徐汇中学通报学生上体锻课晕倒",
-      "onboard_time": 1725293899,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150981,
@@ -283,20 +283,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 138439,
+      "num": 55984,
+      "word": "原来有一种失眠叫早醒型失眠",
+      "onboard_time": 1725307271,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 136713,
       "num": 136713,
       "word": "iOS版微信已2个月没更新",
       "onboard_time": 1725280219,
       "rank": 34,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 135732,
-      "num": 35000,
-      "word": "原来有一种失眠叫早醒型失眠",
-      "onboard_time": 1725307271,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 134223,
@@ -475,27 +475,43 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 36066,
-      "num": 107698,
-      "word": "妈妈回应鼓励独臂儿子面对新同学",
-      "onboard_time": 1725300672,
-      "rank": 9,
+      "raw_hot": 40111,
+      "num": 40111,
+      "word": "山东初一男女身高差惊呆网友",
+      "onboard_time": 1725309971,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35773,
-      "num": 35773,
+      "raw_hot": 37831,
+      "num": 37831,
+      "word": "校方回应学生宿舍用空调需交租赁费",
+      "onboard_time": 1725310031,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36895,
+      "num": 36895,
       "word": "侵华日军标本室有胎儿还在子宫里",
       "onboard_time": 1725300433,
       "rank": 42,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34966,
-      "num": 34966,
-      "word": "校方回应学生宿舍用空调需交租赁费",
-      "onboard_time": 1725310031,
-      "rank": 20,
+      "raw_hot": 36524,
+      "num": 49822,
+      "word": "这竟然是西游记仿妆",
+      "onboard_time": 1725309251,
+      "rank": 47,
+      "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 36066,
+      "num": 107698,
+      "word": "妈妈回应鼓励独臂儿子面对新同学",
+      "onboard_time": 1725300672,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -515,20 +531,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31857,
-      "num": 31857,
+      "raw_hot": 32438,
+      "num": 32438,
       "word": "男子15岁开始喝酒38岁肝衰竭",
       "onboard_time": 1725302353,
       "rank": 30,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27454,
-      "num": 27454,
-      "word": "山东初一男女身高差惊呆网友",
-      "onboard_time": 1725309971,
-      "rank": 35,
+      "raw_hot": 21905,
+      "num": 34982,
+      "word": "又到退伍季",
+      "onboard_time": 1725311891,
+      "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21865,
+      "num": 31295,
+      "word": "干饭哥连举重也练上了",
+      "onboard_time": 1725313932,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 20887,
@@ -547,14 +571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17972,
-      "num": 20777,
-      "word": "这竟然是西游记仿妆",
-      "onboard_time": 1725309251,
-      "rank": 47,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 16699,
       "num": 53705,
       "word": "退役军人跪地求婚2次被女友托起",
@@ -563,15 +579,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14168,
-      "num": 34982,
-      "word": "又到退伍季",
-      "onboard_time": 1725311891,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13384,
+      "raw_hot": 16077,
       "num": 310290,
       "word": "巴黎残奥那些震撼心灵的细节",
       "onboard_time": 1725282201,
@@ -592,6 +600,14 @@
       "word": "中非合作论坛峰会有哪些看点",
       "onboard_time": 1725282980,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6290,
+      "num": 92868,
+      "word": "台州为老人医保兜底参保无门槛",
+      "onboard_time": 1725314052,
+      "rank": 9,
       "category": "社会新闻"
     }
   ],
