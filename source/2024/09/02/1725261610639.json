@@ -1,0 +1,410 @@
+{
+  "runTime": 1725261610639,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2882109,
+        "num": 2882109,
+        "word": "郑钦文进美网8强",
+        "onboard_time": 1725258021,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 974466,
+        "num": 974466,
+        "word": "毒枸杞",
+        "onboard_time": 1725251721,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17628,
+        "num": 777612,
+        "word": "73秒了解中非合作论坛",
+        "onboard_time": 1725249318,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 688069,
+        "num": 688069,
+        "word": "维基奇又扔拍子了",
+        "onboard_time": 1725258801,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 656872,
+        "num": 656872,
+        "word": "女儿失踪第178天妈妈退出幼儿园群",
+        "onboard_time": 1725240020,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634542,
+        "num": 634542,
+        "word": "郑钦文vs维基奇",
+        "onboard_time": 1725243079,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 596327,
+        "num": 596327,
+        "word": "陈乔恩Alan婚礼",
+        "onboard_time": 1725251901,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456396,
+        "num": 594225,
+        "word": "陈奕迅唯爱樊振东",
+        "onboard_time": 1725252921,
+        "rank": 7,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 57103,
+        "num": 566763,
+        "word": "枸杞不是越红越好",
+        "onboard_time": 1725261260,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186713,
+        "num": 557081,
+        "word": "伊朗总统坠机事故原因公布",
+        "onboard_time": 1725260300,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 615521,
+        "num": 546679,
+        "word": "官方辟谣路虎逆行打人女司机在家拘留",
+        "onboard_time": 1725255799,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532445,
+        "num": 532445,
+        "word": "官方通报央视曝光毒枸杞",
+        "onboard_time": 1725255139,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442335,
+        "num": 513069,
+        "word": "侃爷以为HK是香港 结果是海口",
+        "onboard_time": 1725260781,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 336243,
+        "num": 506515,
+        "word": "泫雅龙俊亨婚礼照",
+        "onboard_time": 1725255202,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36138,
+        "num": 504243,
+        "word": "买到烂尾楼我们是如何退房的",
+        "onboard_time": 1725260660,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502026,
+        "num": 502026,
+        "word": "国台办评恢复台湾地区文旦柚输入",
+        "onboard_time": 1725257239,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 191891,
+        "num": 482240,
+        "word": "苏新皓急需灭火器",
+        "onboard_time": 1725260541,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467650,
+        "num": 467650,
+        "word": "郑钦文 走过的每一步都算数",
+        "onboard_time": 1725260781,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31855,
+        "num": 456838,
+        "word": "盗窃案嫌疑人每天写作案日记复盘",
+        "onboard_time": 1725261199,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36819,
+        "num": 452218,
+        "word": "沈腾演我一边买药一边算账的样子",
+        "onboard_time": 1725257599,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450754,
+        "num": 450754,
+        "word": "樊振东不平樊芭莎预告",
+        "onboard_time": 1725260180,
+        "rank": 20,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 25472,
+        "num": 448911,
+        "word": "塔图姆东契奇锡安东游记",
+        "onboard_time": 1725257599,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 656090,
+        "num": 447747,
+        "word": "官方回应有人涉嫌介绍未成年人代孕",
+        "onboard_time": 1725249738,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459429,
+        "num": 444677,
+        "word": "27岁退出了家族群删除了全部亲戚",
+        "onboard_time": 1725247579,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 477531,
+        "num": 440018,
+        "word": "上官正义举报有人涉嫌介绍未成年人代孕",
+        "onboard_time": 1725249680,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438859,
+        "num": 438859,
+        "word": "马龙玩偶",
+        "onboard_time": 1725258620,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 436442,
+        "num": 436442,
+        "word": "萨巴伦卡",
+        "onboard_time": 1725258860,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 404980,
+        "num": 404980,
+        "word": "樊振东注册第一天就在等陈奕迅",
+        "onboard_time": 1725254902,
+        "rank": 27,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 354765,
+        "num": 354765,
+        "word": "毕业两年存款33万女生想裸辞",
+        "onboard_time": 1725258681,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195711,
+        "num": 332065,
+        "word": "欧弟为父亲还债20年",
+        "onboard_time": 1725258979,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1209206,
+        "num": 330973,
+        "word": "苹果 微信",
+        "onboard_time": 1725253582,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 326012,
+        "num": 326012,
+        "word": "孕妇被731解剖大喊放过我的孩子",
+        "onboard_time": 1725236359,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286547,
+        "num": 286547,
+        "word": "男朋友奶奶去世给我也配到遗产",
+        "onboard_time": 1725252264,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 279449,
+        "num": 279449,
+        "word": "A股",
+        "onboard_time": 1725261021,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 255937,
+        "num": 255937,
+        "word": "罗拉王能能没分手",
+        "onboard_time": 1725242299,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 73117,
+        "num": 254986,
+        "word": "宋轶 何其有幸遇见你们",
+        "onboard_time": 1725261260,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254945,
+        "num": 254945,
+        "word": "王楚钦也告上状了",
+        "onboard_time": 1725261081,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231820,
+        "num": 231820,
+        "word": "美网奖金",
+        "onboard_time": 1725261021,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229802,
+        "num": 229802,
+        "word": "夫妻称喝完Blueglass躺了一天才恢复",
+        "onboard_time": 1725260720,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198493,
+        "num": 222895,
+        "word": "王骁章若楠 看见女儿男朋友的老丈人",
+        "onboard_time": 1725251001,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20896,
+        "num": 221079,
+        "word": "鸟鸟说家庭和事业我2选0",
+        "onboard_time": 1725259401,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 221053,
+        "num": 221053,
+        "word": "龙队是去上厕所不是不要你们",
+        "onboard_time": 1725248839,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218988,
+        "num": 218988,
+        "word": "湖南一地大量蜉蝣婚飞如下雪",
+        "onboard_time": 1725256520,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218778,
+        "num": 218778,
+        "word": "时尚芭莎",
+        "onboard_time": 1725259041,
+        "rank": 43,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 209817,
+        "num": 209817,
+        "word": "孙颖莎 乒乓球公仔",
+        "onboard_time": 1725255082,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207394,
+        "num": 207394,
+        "word": "大熊猫和花和叶遭恶意投诉分开",
+        "onboard_time": 1725257541,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200285,
+        "num": 200285,
+        "word": "猫 妈妈洗完它就不能洗我了",
+        "onboard_time": 1725260900,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193120,
+        "num": 193120,
+        "word": "樊振东考虑人生规划",
+        "onboard_time": 1725256701,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184858,
+        "num": 184858,
+        "word": "互联网黄牛犹如吸血的牛虻",
+        "onboard_time": 1725258920,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183109,
+        "num": 183109,
+        "word": "有人已经供暖了有人还在开空调",
+        "onboard_time": 1725260839,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#每个学生都是独一无二的个体#"
+    }
+  }
+}
