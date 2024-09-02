@@ -1,7 +1,23 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725255480884,
+  "endTime": 1725258620361,
   "band_list": [
+    {
+      "raw_hot": 3889716,
+      "num": 3889716,
+      "word": "郑钦文vs维基奇",
+      "onboard_time": 1725243079,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3240093,
+      "num": 3240093,
+      "word": "郑钦文进美网8强",
+      "onboard_time": 1725258021,
+      "rank": 1,
+      "category": "体育"
+    },
     {
       "raw_hot": 2899571,
       "num": 2899571,
@@ -9,6 +25,14 @@
       "onboard_time": 1725240020,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2491158,
+      "num": 319402,
+      "word": "苹果 微信",
+      "onboard_time": 1725253582,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 2255016,
@@ -35,14 +59,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1998887,
-      "num": 292563,
-      "word": "苹果 微信",
-      "onboard_time": 1725253582,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 1957251,
       "num": 429909,
       "word": "路虎女司机打退伍军人官方发声",
@@ -57,14 +73,6 @@
       "onboard_time": 1725236781,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1900861,
-      "num": 1900861,
-      "word": "郑钦文vs维基奇",
-      "onboard_time": 1725243079,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 1840204,
@@ -251,6 +259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1122225,
+      "num": 1122225,
+      "word": "毒枸杞",
+      "onboard_time": 1725251721,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1118210,
       "num": 1118210,
       "word": "龙队是去上厕所不是不要你们",
@@ -377,6 +393,14 @@
       "onboard_time": 1725161058,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 909633,
+      "num": 589108,
+      "word": "官方辟谣路虎逆行打人女司机在家拘留",
+      "onboard_time": 1725255799,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 905691,
@@ -611,12 +635,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 690863,
-      "num": 690863,
-      "word": "毒枸杞",
-      "onboard_time": 1725251721,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 697818,
+      "num": 586804,
+      "word": "樊振东注册第一天就在等陈奕迅",
+      "onboard_time": 1725254902,
+      "rank": 36,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 686139,
@@ -819,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 584052,
+      "num": 584052,
+      "word": "泫雅龙俊亨婚礼照",
+      "onboard_time": 1725255202,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 582480,
       "num": 612474,
       "word": "北京晚霞",
@@ -985,6 +1017,14 @@
       "onboard_time": 1725157399,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 504202,
+      "num": 504202,
+      "word": "郑钦文维基奇决胜盘",
+      "onboard_time": 1725257541,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 501884,
@@ -1371,6 +1411,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 335720,
+      "num": 335720,
+      "word": "国台办评恢复台湾地区文旦柚输入",
+      "onboard_time": 1725257239,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 330943,
       "num": 347685,
       "word": "赵丽颖九月行程",
@@ -1419,12 +1467,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 314510,
+      "num": 314510,
+      "word": "孙颖莎 乒乓球公仔",
+      "onboard_time": 1725255082,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 314214,
       "num": 314214,
       "word": "朱志鑫 重庆",
       "onboard_time": 1725158118,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 313421,
+      "num": 316125,
+      "word": "樊振东考虑人生规划",
+      "onboard_time": 1725256701,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 307493,
@@ -1635,12 +1699,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 266706,
+      "num": 266706,
+      "word": "我害怕老公的双胞胎哥哥是有理由的",
+      "onboard_time": 1725255981,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 263334,
       "num": 481595,
       "word": "王宜林",
       "onboard_time": 1725160999,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 262451,
+      "num": 655973,
+      "word": "官方通报央视曝光毒枸杞",
+      "onboard_time": 1725255139,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260816,
@@ -1827,14 +1907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233819,
-      "num": 233819,
-      "word": "泫雅龙俊亨婚礼照",
-      "onboard_time": 1725255202,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 233701,
       "num": 233701,
       "word": "原来爱情公寓的思想这么超前",
@@ -1881,14 +1953,6 @@
       "onboard_time": 1725182119,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 228269,
-      "num": 228269,
-      "word": "樊振东注册第一天就在等陈奕迅",
-      "onboard_time": 1725254902,
-      "rank": 36,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 226191,
@@ -1947,6 +2011,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 220367,
+      "num": 220367,
+      "word": "孙颖莎试吃常园手做月饼的反应",
+      "onboard_time": 1725256041,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218302,
       "num": 218302,
       "word": "原神5.0版本",
@@ -1961,6 +2033,14 @@
       "onboard_time": 1725159019,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217666,
+      "num": 217666,
+      "word": "大熊猫和花和叶遭恶意投诉分开",
+      "onboard_time": 1725257541,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217528,
@@ -2155,6 +2235,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 201884,
+      "num": 247705,
+      "word": "令人心动的offer6官宣",
+      "onboard_time": 1725255799,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201574,
       "num": 201574,
       "word": "宋亚轩 现在就出发2",
@@ -2217,6 +2305,14 @@
       "onboard_time": 1725151817,
       "rank": 49,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 198152,
+      "num": 198152,
+      "word": "开学典礼",
+      "onboard_time": 1725258021,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 197740,
@@ -2427,6 +2523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187504,
+      "num": 676120,
+      "word": "记者夜探枸杞熏制棚被熏到泪流不止",
+      "onboard_time": 1725255322,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187319,
       "num": 187319,
       "word": "权志龙将于12月回归",
@@ -2499,20 +2603,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183222,
-      "num": 183222,
-      "word": "官方通报央视曝光毒枸杞",
-      "onboard_time": 1725255139,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183129,
       "num": 191403,
       "word": "现在就出发",
       "onboard_time": 1725195859,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182488,
+      "num": 182488,
+      "word": "我结婚就按柳舟记这么办",
+      "onboard_time": 1725257301,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 182127,
@@ -2875,14 +2979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163859,
-      "num": 163859,
-      "word": "孙颖莎 乒乓球公仔",
-      "onboard_time": 1725255082,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 163778,
       "num": 183288,
       "word": "潘展乐把自己献给热爱的事",
@@ -2907,6 +3003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162500,
+      "num": 162500,
+      "word": "郑钦文回破",
+      "onboard_time": 1725258442,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162254,
       "num": 162254,
       "word": "澳门颁赠国家奥运健儿1600万元奖金",
@@ -2920,6 +3024,14 @@
       "word": "任敏工作室否认恋情",
       "onboard_time": 1725112941,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 161410,
+      "num": 161410,
+      "word": "TF ING",
+      "onboard_time": 1725258501,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -3044,7 +3156,7 @@
     },
     {
       "raw_hot": 154162,
-      "num": 154162,
+      "num": 590629,
       "word": "以色列民众多地大规模抗议",
       "onboard_time": 1725255382,
       "rank": 47,
@@ -3587,6 +3699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118375,
+      "num": 443724,
+      "word": "湖南一地大量蜉蝣婚飞如下雪",
+      "onboard_time": 1725256520,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117996,
       "num": 117996,
       "word": "开学 堵车",
@@ -4083,6 +4203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54103,
+      "num": 466976,
+      "word": "甘肃彻查枸杞种植加工问题",
+      "onboard_time": 1725254902,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53517,
       "num": 57549,
       "word": "易烊千玺严选",
@@ -4139,11 +4267,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49655,
-      "num": 466976,
-      "word": "甘肃彻查枸杞种植加工问题",
-      "onboard_time": 1725254902,
-      "rank": 19,
+      "raw_hot": 48718,
+      "num": 472672,
+      "word": "国内校服市场超九成都是小工厂",
+      "onboard_time": 1725257482,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -4339,6 +4467,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33336,
+      "num": 331038,
+      "word": "塔图姆东契奇锡安东游记",
+      "onboard_time": 1725257599,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 32590,
+      "num": 1578601,
+      "word": "新学期的打开方式五花八门",
+      "onboard_time": 1725249500,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32026,
       "num": 36640,
       "word": "北京现金龙晚霞",
@@ -4411,14 +4555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27970,
-      "num": 676120,
-      "word": "记者夜探枸杞熏制棚被熏到泪流不止",
-      "onboard_time": 1725255322,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27452,
       "num": 491150,
       "word": "湖南汛情受损学校绝大部分已修复",
@@ -4475,6 +4611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23927,
+      "num": 429397,
+      "word": "沈腾演我一边买药一边算账的样子",
+      "onboard_time": 1725257599,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23880,
       "num": 36572,
       "word": "中国洋女婿是个长城迷",
@@ -4521,6 +4665,14 @@
       "onboard_time": 1725177739,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19909,
+      "num": 453953,
+      "word": "彭昱畅的嘴也是让人害怕的程度",
+      "onboard_time": 1725258083,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 19827,
