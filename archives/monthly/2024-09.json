@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725251175147,
+  "endTime": 1725251995738,
   "band_list": [
     {
       "raw_hot": 2899571,
@@ -51,6 +51,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1900861,
+      "num": 1900861,
+      "word": "郑钦文vs维基奇",
+      "onboard_time": 1725243079,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1798685,
       "num": 1798685,
       "word": "袁隆平孙女今年入读中国农业大学",
@@ -91,6 +99,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1704904,
+      "num": 511504,
+      "word": "27岁退出了家族群删除了全部亲戚",
+      "onboard_time": 1725247579,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1703221,
       "num": 1703221,
       "word": "高铁车厢里全是碎掉的大学生",
@@ -113,14 +129,6 @@
       "onboard_time": 1725244819,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1603860,
-      "num": 429927,
-      "word": "27岁退出了家族群删除了全部亲戚",
-      "onboard_time": 1725247579,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 1510516,
@@ -163,14 +171,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 1357830,
-      "num": 1357830,
-      "word": "郑钦文vs维基奇",
-      "onboard_time": 1725243079,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1306694,
       "num": 1306694,
       "word": "福宝已进入假孕状态",
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1190770,
+      "num": 1190770,
+      "word": "上官正义举报有人涉嫌介绍未成年人代孕",
+      "onboard_time": 1725249680,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1162610,
       "num": 1162610,
       "word": "马龙给全红婵买帽子",
@@ -219,12 +227,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1120149,
-      "num": 1120149,
-      "word": "上官正义举报有人涉嫌介绍未成年人代孕",
-      "onboard_time": 1725249680,
-      "rank": 4,
+      "raw_hot": 1150637,
+      "num": 1150637,
+      "word": "官方回应有人涉嫌介绍未成年人代孕",
+      "onboard_time": 1725249738,
+      "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1118210,
+      "num": 1118210,
+      "word": "龙队是去上厕所不是不要你们",
+      "onboard_time": 1725248839,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 1109392,
@@ -233,6 +249,14 @@
       "onboard_time": 1725179360,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1077079,
+      "num": 1124839,
+      "word": "专家称取消公摊是忽悠老百姓的",
+      "onboard_time": 1725249019,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1050965,
@@ -308,7 +332,7 @@
     },
     {
       "raw_hot": 928514,
-      "num": 928514,
+      "num": 1142004,
       "word": "赵今麦刘浩存 破壳而出",
       "onboard_time": 1725247639,
       "rank": 15,
@@ -364,7 +388,7 @@
     },
     {
       "raw_hot": 860837,
-      "num": 860837,
+      "num": 1129047,
       "word": "陈奕迅被告者名单",
       "onboard_time": 1725245058,
       "rank": 31,
@@ -443,14 +467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 793992,
-      "num": 793992,
-      "word": "龙队是去上厕所不是不要你们",
-      "onboard_time": 1725248839,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 792771,
       "num": 915019,
       "word": "28岁机车网红三毛子因车祸去世",
@@ -497,14 +513,6 @@
       "onboard_time": 1725238400,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 736793,
-      "num": 736793,
-      "word": "专家称取消公摊是忽悠老百姓的",
-      "onboard_time": 1725249019,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 721295,
@@ -627,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 639908,
+      "num": 639908,
+      "word": "王骁章若楠 看见女儿男朋友的老丈人",
+      "onboard_time": 1725251001,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 637743,
       "num": 408138,
       "word": "订婚后男朋友天天追求公平",
@@ -721,14 +737,6 @@
       "onboard_time": 1725203901,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 598988,
-      "num": 598988,
-      "word": "官方回应有人涉嫌介绍未成年人代孕",
-      "onboard_time": 1725249738,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 598386,
@@ -827,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 541054,
+      "num": 541054,
+      "word": "夫人小我十岁 我知她勇敢无畏",
+      "onboard_time": 1725248540,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 539304,
       "num": 306037,
       "word": "公司发了会骂人的月饼",
@@ -873,6 +889,14 @@
       "onboard_time": 1725191299,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 516457,
+      "num": 516457,
+      "word": "35岁大一新生唐尚珺今天报到",
+      "onboard_time": 1725247219,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 516088,
@@ -960,22 +984,6 @@
       "word": "唐尚珺坦言毕业时近40岁找工作难度大",
       "onboard_time": 1725239479,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 486667,
-      "num": 486667,
-      "word": "夫人小我十岁 我知她勇敢无畏",
-      "onboard_time": 1725248540,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 486137,
-      "num": 486137,
-      "word": "35岁大一新生唐尚珺今天报到",
-      "onboard_time": 1725247219,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1123,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 421944,
+      "num": 421944,
+      "word": "郑钦文登场全场欢呼",
+      "onboard_time": 1725249680,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 420907,
       "num": 420907,
       "word": "你支持夫妻离婚不要孩子不准离吗",
@@ -1136,6 +1152,14 @@
       "word": "王楚钦覃海洋擦肩而过",
       "onboard_time": 1725158778,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 414649,
+      "num": 414649,
+      "word": "郑钦文首盘获胜",
+      "onboard_time": 1725251542,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -1192,14 +1216,6 @@
       "word": "盛李豪 死腿协调点别搞我",
       "onboard_time": 1725097819,
       "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 386661,
-      "num": 386661,
-      "word": "郑钦文登场全场欢呼",
-      "onboard_time": 1725249680,
-      "rank": 23,
       "category": "体育"
     },
     {
@@ -1276,7 +1292,7 @@
     },
     {
       "raw_hot": 346965,
-      "num": 440881,
+      "num": 514331,
       "word": "慕胥辞",
       "onboard_time": 1725245657,
       "rank": 44,
@@ -1329,6 +1345,14 @@
       "onboard_time": 1725110901,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315992,
+      "num": 315992,
+      "word": "郑钦文ACE雨",
+      "onboard_time": 1725250581,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 315147,
@@ -1523,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272413,
+      "num": 515704,
+      "word": "殷桃新剧失望到窒息的眼神",
+      "onboard_time": 1725251061,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 272127,
       "num": 272127,
       "word": "干饭哥在练混双了",
@@ -1635,6 +1667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245044,
+      "num": 245044,
+      "word": "毒枸杞",
+      "onboard_time": 1725251721,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244893,
       "num": 244893,
       "word": "30岁当上奶奶是什么体验",
@@ -1672,14 +1712,6 @@
       "word": "孙颖莎说从来都不甘心失败",
       "onboard_time": 1725157518,
       "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 240029,
-      "num": 240029,
-      "word": "郑钦文ACE雨",
-      "onboard_time": 1725250581,
-      "rank": 26,
       "category": "体育"
     },
     {
@@ -1819,14 +1851,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 221022,
-      "num": 244342,
-      "word": "殷桃新剧失望到窒息的眼神",
-      "onboard_time": 1725251061,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 218302,
       "num": 218302,
       "word": "原神5.0版本",
@@ -1872,6 +1896,14 @@
       "word": "王俊凯邓为于适生图",
       "onboard_time": 1725203963,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 209911,
+      "num": 209911,
+      "word": "陈乔恩Alan婚礼",
+      "onboard_time": 1725251901,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -2019,6 +2051,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 201785,
+      "num": 201785,
+      "word": "盛李豪打乒乓球协调了",
+      "onboard_time": 1725251780,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201574,
       "num": 201574,
       "word": "宋亚轩 现在就出发2",
@@ -2099,12 +2139,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196265,
-      "num": 196265,
-      "word": "王骁章若楠 看见女儿男朋友的老丈人",
-      "onboard_time": 1725251001,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 197021,
+      "num": 197021,
+      "word": "郑思维征求小分队名字",
+      "onboard_time": 1725251481,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 195781,
@@ -2200,6 +2240,14 @@
       "word": "孤泳者",
       "onboard_time": 1725194418,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190846,
+      "num": 190846,
+      "word": "美网",
+      "onboard_time": 1725250641,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -2409,6 +2457,14 @@
       "onboard_time": 1725202581,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179418,
+      "num": 179418,
+      "word": "三折叠屏手机",
+      "onboard_time": 1725248419,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 178979,
@@ -2643,20 +2699,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166822,
-      "num": 166822,
-      "word": "三折叠屏手机",
-      "onboard_time": 1725248419,
-      "rank": 43,
-      "category": "数码"
-    },
-    {
       "raw_hot": 166666,
       "num": 166666,
       "word": "ENHYPEN官宣新世巡",
       "onboard_time": 1725248598,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 165800,
+      "num": 165800,
+      "word": "高铁盒饭受众群体",
+      "onboard_time": 1725251481,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 165619,
@@ -2787,6 +2843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157958,
+      "num": 157958,
+      "word": "官方通报开学发现学校人去楼空",
+      "onboard_time": 1725248660,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 157538,
       "num": 157538,
       "word": "家里有弟弟妹妹才懂这种感受",
@@ -2841,14 +2905,6 @@
       "onboard_time": 1725182958,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 154708,
-      "num": 154708,
-      "word": "美网",
-      "onboard_time": 1725250641,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 153621,
@@ -3659,6 +3715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80805,
+      "num": 771330,
+      "word": "内蒙古部分地区已开始供暖",
+      "onboard_time": 1725250041,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80547,
       "num": 80547,
       "word": "王楚钦台下爆笑孤勇者",
@@ -3987,14 +4051,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 43943,
-      "num": 771330,
-      "word": "内蒙古部分地区已开始供暖",
-      "onboard_time": 1725250041,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43897,
       "num": 52138,
       "word": "樊振东现场教学张雨霏粤语虾饺",
@@ -4057,6 +4113,14 @@
       "onboard_time": 1725215293,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 35936,
+      "num": 513241,
+      "word": "公司以免费旅游骗老年人投资1.5亿",
+      "onboard_time": 1725251542,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35932,
@@ -4139,20 +4203,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31037,
+      "num": 1272686,
+      "word": "第二届北京网络视听艺术大会",
+      "onboard_time": 1725248839,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30339,
       "num": 418742,
       "word": "塔图姆宠粉第一名",
       "onboard_time": 1725174319,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30090,
-      "num": 1195257,
-      "word": "第二届北京网络视听艺术大会",
-      "onboard_time": 1725248839,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30028,

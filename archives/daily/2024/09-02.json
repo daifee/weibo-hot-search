@@ -1,6 +1,6 @@
 {
   "startTime": 1725207925221,
-  "endTime": 1725251175147,
+  "endTime": 1725251995738,
   "band_list": [
     {
       "raw_hot": 2899571,
@@ -27,20 +27,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1900861,
+      "num": 1900861,
+      "word": "郑钦文vs维基奇",
+      "onboard_time": 1725243079,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1704904,
+      "num": 511504,
+      "word": "27岁退出了家族群删除了全部亲戚",
+      "onboard_time": 1725247579,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1676097,
       "num": 1676097,
       "word": "上海最大居民小区宣布炒掉物业",
       "onboard_time": 1725244819,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1603860,
-      "num": 429927,
-      "word": "27岁退出了家族群删除了全部亲戚",
-      "onboard_time": 1725247579,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 1506323,
@@ -51,12 +59,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1357830,
-      "num": 1357830,
-      "word": "郑钦文vs维基奇",
-      "onboard_time": 1725243079,
+      "raw_hot": 1190770,
+      "num": 1190770,
+      "word": "上官正义举报有人涉嫌介绍未成年人代孕",
+      "onboard_time": 1725249680,
       "rank": 4,
-      "category": "体育"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1156093,
@@ -67,6 +75,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1150637,
+      "num": 1150637,
+      "word": "官方回应有人涉嫌介绍未成年人代孕",
+      "onboard_time": 1725249738,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1134403,
       "num": 417115,
       "word": "莎头",
@@ -75,16 +91,24 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1120149,
-      "num": 1120149,
-      "word": "上官正义举报有人涉嫌介绍未成年人代孕",
-      "onboard_time": 1725249680,
-      "rank": 4,
+      "raw_hot": 1118210,
+      "num": 1118210,
+      "word": "龙队是去上厕所不是不要你们",
+      "onboard_time": 1725248839,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1077079,
+      "num": 1124839,
+      "word": "专家称取消公摊是忽悠老百姓的",
+      "onboard_time": 1725249019,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
       "raw_hot": 928514,
-      "num": 928514,
+      "num": 1142004,
       "word": "赵今麦刘浩存 破壳而出",
       "onboard_time": 1725247639,
       "rank": 15,
@@ -92,7 +116,7 @@
     },
     {
       "raw_hot": 860837,
-      "num": 860837,
+      "num": 1129047,
       "word": "陈奕迅被告者名单",
       "onboard_time": 1725245058,
       "rank": 31,
@@ -131,14 +155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 793992,
-      "num": 793992,
-      "word": "龙队是去上厕所不是不要你们",
-      "onboard_time": 1725248839,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 792771,
       "num": 915019,
       "word": "28岁机车网红三毛子因车祸去世",
@@ -153,14 +169,6 @@
       "onboard_time": 1725238400,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 736793,
-      "num": 736793,
-      "word": "专家称取消公摊是忽悠老百姓的",
-      "onboard_time": 1725249019,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 719259,
@@ -185,6 +193,14 @@
       "onboard_time": 1725219911,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 639908,
+      "num": 639908,
+      "word": "王骁章若楠 看见女儿男朋友的老丈人",
+      "onboard_time": 1725251001,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 637743,
@@ -227,14 +243,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 598988,
-      "num": 598988,
-      "word": "官方回应有人涉嫌介绍未成年人代孕",
-      "onboard_time": 1725249738,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 594749,
       "num": 409121,
       "word": "李庚希金鹿奖影后",
@@ -249,6 +257,14 @@
       "onboard_time": 1725245239,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 541054,
+      "num": 541054,
+      "word": "夫人小我十岁 我知她勇敢无畏",
+      "onboard_time": 1725248540,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 539304,
@@ -275,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 516457,
+      "num": 516457,
+      "word": "35岁大一新生唐尚珺今天报到",
+      "onboard_time": 1725247219,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 504944,
       "num": 402799,
       "word": "何秋亊 难受",
@@ -288,22 +312,6 @@
       "word": "唐尚珺坦言毕业时近40岁找工作难度大",
       "onboard_time": 1725239479,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 486667,
-      "num": 486667,
-      "word": "夫人小我十岁 我知她勇敢无畏",
-      "onboard_time": 1725248540,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 486137,
-      "num": 486137,
-      "word": "35岁大一新生唐尚珺今天报到",
-      "onboard_time": 1725247219,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -347,6 +355,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 421944,
+      "num": 421944,
+      "word": "郑钦文登场全场欢呼",
+      "onboard_time": 1725249680,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 414649,
+      "num": 414649,
+      "word": "郑钦文首盘获胜",
+      "onboard_time": 1725251542,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 400798,
       "num": 416308,
       "word": "中国人民抗战胜利79周年",
@@ -369,14 +393,6 @@
       "onboard_time": 1725237500,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 386661,
-      "num": 386661,
-      "word": "郑钦文登场全场欢呼",
-      "onboard_time": 1725249680,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 380520,
@@ -404,7 +420,7 @@
     },
     {
       "raw_hot": 346965,
-      "num": 440881,
+      "num": 514331,
       "word": "慕胥辞",
       "onboard_time": 1725245657,
       "rank": 44,
@@ -424,6 +440,14 @@
       "word": "覃海洋 实力唱将团下次还唱",
       "onboard_time": 1725200661,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 315992,
+      "num": 315992,
+      "word": "郑钦文ACE雨",
+      "onboard_time": 1725250581,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -465,6 +489,14 @@
       "onboard_time": 1725235338,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 272413,
+      "num": 515704,
+      "word": "殷桃新剧失望到窒息的眼神",
+      "onboard_time": 1725251061,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 272127,
@@ -515,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245044,
+      "num": 245044,
+      "word": "毒枸杞",
+      "onboard_time": 1725251721,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244739,
       "num": 244739,
       "word": "陈奕迅邀请游泳队来演唱会一起唱",
@@ -529,14 +569,6 @@
       "onboard_time": 1725246199,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 240029,
-      "num": 240029,
-      "word": "郑钦文ACE雨",
-      "onboard_time": 1725250581,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 231044,
@@ -563,20 +595,20 @@
       "category": "社会新闻,互联网"
     },
     {
-      "raw_hot": 221022,
-      "num": 244342,
-      "word": "殷桃新剧失望到窒息的眼神",
-      "onboard_time": 1725251061,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 211186,
       "num": 211186,
       "word": "月薪一万那叫卷十万就叫拼搏",
       "onboard_time": 1725198920,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209911,
+      "num": 209911,
+      "word": "陈乔恩Alan婚礼",
+      "onboard_time": 1725251901,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 209780,
@@ -619,6 +651,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 201785,
+      "num": 201785,
+      "word": "盛李豪打乒乓球协调了",
+      "onboard_time": 1725251780,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197740,
       "num": 197740,
       "word": "深圳原副市长黄敏被双开",
@@ -627,12 +667,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196265,
-      "num": 196265,
-      "word": "王骁章若楠 看见女儿男朋友的老丈人",
-      "onboard_time": 1725251001,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 197021,
+      "num": 197021,
+      "word": "郑思维征求小分队名字",
+      "onboard_time": 1725251481,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 195781,
@@ -656,6 +696,14 @@
       "word": "樊振东清唱野孩子",
       "onboard_time": 1725197301,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190846,
+      "num": 190846,
+      "word": "美网",
+      "onboard_time": 1725250641,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -739,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179418,
+      "num": 179418,
+      "word": "三折叠屏手机",
+      "onboard_time": 1725248419,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 177274,
       "num": 177274,
       "word": "公司发的月饼这是五金馅的吧",
@@ -803,20 +859,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166822,
-      "num": 166822,
-      "word": "三折叠屏手机",
-      "onboard_time": 1725248419,
-      "rank": 43,
-      "category": "数码"
-    },
-    {
       "raw_hot": 166666,
       "num": 166666,
       "word": "ENHYPEN官宣新世巡",
       "onboard_time": 1725248598,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 165800,
+      "num": 165800,
+      "word": "高铁盒饭受众群体",
+      "onboard_time": 1725251481,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 165619,
@@ -843,12 +899,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 154708,
-      "num": 154708,
-      "word": "美网",
-      "onboard_time": 1725250641,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 157958,
+      "num": 157958,
+      "word": "官方通报开学发现学校人去楼空",
+      "onboard_time": 1725248660,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 154124,
@@ -1163,6 +1219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 80805,
+      "num": 771330,
+      "word": "内蒙古部分地区已开始供暖",
+      "onboard_time": 1725250041,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80547,
       "num": 80547,
       "word": "王楚钦台下爆笑孤勇者",
@@ -1291,14 +1355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43943,
-      "num": 771330,
-      "word": "内蒙古部分地区已开始供暖",
-      "onboard_time": 1725250041,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43014,
       "num": 314345,
       "word": "补票重看NBA总决赛",
@@ -1331,6 +1387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 35936,
+      "num": 513241,
+      "word": "公司以免费旅游骗老年人投资1.5亿",
+      "onboard_time": 1725251542,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32026,
       "num": 36640,
       "word": "北京现金龙晚霞",
@@ -1339,18 +1403,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30295,
-      "num": 1689120,
-      "word": "神十八乘组的太空日常",
-      "onboard_time": 1725194840,
+      "raw_hot": 31037,
+      "num": 1272686,
+      "word": "第二届北京网络视听艺术大会",
+      "onboard_time": 1725248839,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30090,
-      "num": 1195257,
-      "word": "第二届北京网络视听艺术大会",
-      "onboard_time": 1725248839,
+      "raw_hot": 30295,
+      "num": 1689120,
+      "word": "神十八乘组的太空日常",
+      "onboard_time": 1725194840,
       "rank": 2,
       "category": "社会新闻"
     },
