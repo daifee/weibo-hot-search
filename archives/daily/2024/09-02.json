@@ -1,6 +1,6 @@
 {
   "startTime": 1725207925221,
-  "endTime": 1725284234754,
+  "endTime": 1725286784425,
   "band_list": [
     {
       "raw_hot": 5839152,
@@ -9,6 +9,14 @@
       "onboard_time": 1725258021,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3922176,
+      "num": 889822,
+      "word": "花洛莉亚 擦边",
+      "onboard_time": 1725283462,
+      "rank": 45,
+      "category": "美妆"
     },
     {
       "raw_hot": 3889716,
@@ -41,6 +49,14 @@
       "onboard_time": 1725271400,
       "rank": 7,
       "category": "数码"
+    },
+    {
+      "raw_hot": 2329493,
+      "num": 557208,
+      "word": "顾客疑没穿内裤试裤子留白色异物",
+      "onboard_time": 1725283763,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2255016,
@@ -243,8 +259,24 @@
       "category": "体育"
     },
     {
+      "raw_hot": 957748,
+      "num": 957748,
+      "word": "女子婚后发现丈夫每天吃药告到法院",
+      "onboard_time": 1725284782,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 952158,
+      "num": 952158,
+      "word": "李雯雯 分别前的小花絮",
+      "onboard_time": 1725283999,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 948702,
-      "num": 491494,
+      "num": 550532,
       "word": "乌克兰轰炸俄罗斯一所幼儿园",
       "onboard_time": 1725280160,
       "rank": 24,
@@ -348,7 +380,7 @@
     },
     {
       "raw_hot": 830335,
-      "num": 830335,
+      "num": 914007,
       "word": "李庚希影后手机壳",
       "onboard_time": 1725276380,
       "rank": 17,
@@ -401,6 +433,14 @@
       "onboard_time": 1725194061,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 800797,
+      "num": 941987,
+      "word": "野孩子 定档",
+      "onboard_time": 1725283581,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 792771,
@@ -553,6 +593,14 @@
       "onboard_time": 1725202282,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 606277,
+      "num": 606277,
+      "word": "王楚钦结束港澳行发文",
+      "onboard_time": 1725285321,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 600769,
@@ -795,14 +843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 436153,
-      "num": 436153,
-      "word": "花洛莉亚 擦边",
-      "onboard_time": 1725283462,
-      "rank": 45,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 421944,
       "num": 421944,
       "word": "郑钦文登场全场欢呼",
@@ -835,12 +875,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 398419,
+      "num": 398419,
+      "word": "孙颖莎给我签一下",
+      "onboard_time": 1725285563,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 396948,
       "num": 396948,
       "word": "妈妈朋友的儿子杀青宴",
       "onboard_time": 1725200000,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 395144,
+      "num": 578061,
+      "word": "aespa空降",
+      "onboard_time": 1725285022,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 393350,
@@ -907,14 +963,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 354136,
-      "num": 425578,
-      "word": "野孩子 定档",
-      "onboard_time": 1725283581,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 350545,
       "num": 350545,
       "word": "这么傻的狗她居然有三只",
@@ -929,6 +977,14 @@
       "onboard_time": 1725252502,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 347539,
+      "num": 347539,
+      "word": "全红婵偷拍王楚钦睡觉",
+      "onboard_time": 1725285743,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 346965,
@@ -1035,19 +1091,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 300410,
+      "num": 300410,
+      "word": "三只羊合伙人回怼辛巴",
+      "onboard_time": 1725284481,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299231,
       "num": 299231,
       "word": "山姆回应矿泉水喝了能生儿子",
       "onboard_time": 1725280999,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 298877,
-      "num": 298877,
-      "word": "顾客疑没穿内裤试裤子留白色异物",
-      "onboard_time": 1725283763,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1243,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 257739,
+      "num": 257739,
+      "word": "樊振东王楚钦睡了一路",
+      "onboard_time": 1725286342,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 252617,
       "num": 281969,
       "word": "阚清子现在只会为角色减肥",
@@ -1353,6 +1417,14 @@
       "onboard_time": 1725240438,
       "rank": 48,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 220147,
+      "num": 331305,
+      "word": "夫妻吵架一笔笔算账最伤人",
+      "onboard_time": 1725285321,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 218988,
@@ -1491,11 +1563,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206029,
-      "num": 206029,
-      "word": "李雯雯 分别前的小花絮",
-      "onboard_time": 1725283999,
-      "rank": 39,
+      "raw_hot": 205801,
+      "num": 205801,
+      "word": "王楚钦晒小狮子玩偶",
+      "onboard_time": 1725285801,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -1523,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203756,
+      "num": 203756,
+      "word": "全红婵喜提拿着小乌龟的小狮子",
+      "onboard_time": 1725286463,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202030,
       "num": 202030,
       "word": "泳队 告六人",
@@ -1545,6 +1625,22 @@
       "onboard_time": 1725262219,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198796,
+      "num": 198796,
+      "word": "LPL出征S14",
+      "onboard_time": 1725285681,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 198520,
+      "num": 198520,
+      "word": "RNG 散是满天星",
+      "onboard_time": 1725286523,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 198152,
@@ -1617,6 +1713,14 @@
       "onboard_time": 1725244217,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 194349,
+      "num": 194349,
+      "word": "易烊千玺举手回复阿信",
+      "onboard_time": 1725286282,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 193591,
@@ -1721,6 +1825,14 @@
       "onboard_time": 1725234439,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186885,
+      "num": 186885,
+      "word": "刘亦菲登越南国家电视台",
+      "onboard_time": 1725286704,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 186832,
@@ -1835,6 +1947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179477,
+      "num": 179477,
+      "word": "哈利波特魔法觉醒",
+      "onboard_time": 1725285382,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 179418,
       "num": 179418,
       "word": "三折叠屏手机",
@@ -1873,6 +1993,14 @@
       "onboard_time": 1725242480,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 175179,
+      "num": 175179,
+      "word": "凉拌黄瓜火了冰岛黄瓜卖脱销了",
+      "onboard_time": 1725285082,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174996,
@@ -2507,6 +2635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83775,
+      "num": 881756,
+      "word": "多少人来烟台就为了这一口",
+      "onboard_time": 1725282921,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 80805,
       "num": 771330,
       "word": "内蒙古部分地区已开始供暖",
@@ -2763,6 +2899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48301,
+      "num": 907677,
+      "word": "孩子们为卡疯狂背后隐患重重",
+      "onboard_time": 1725285503,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47524,
       "num": 47524,
       "word": "全红婵收到澳门文创乌龟",
@@ -2808,6 +2952,14 @@
       "word": "别让硫枸杞砸了地方特色产业的招牌",
       "onboard_time": 1725268040,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38638,
+      "num": 602888,
+      "word": "烟卡游戏凭什么获得小学生芳心",
+      "onboard_time": 1725285743,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2875,11 +3027,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35263,
+      "num": 561186,
+      "word": "专家建议提高孩子内啡肽而非多巴胺",
+      "onboard_time": 1725285983,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34313,
       "num": 448299,
       "word": "充满门道与陷阱的共享充电宝生意",
       "onboard_time": 1725264320,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33945,
+      "num": 927138,
+      "word": "揭开游戏代退费骗局",
+      "onboard_time": 1725285563,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -2995,14 +3163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25044,
-      "num": 480616,
-      "word": "多少人来烟台就为了这一口",
-      "onboard_time": 1725282921,
-      "rank": 28,
-      "category": "美食"
-    },
-    {
       "raw_hot": 24686,
       "num": 186819,
       "word": "什么是中女主",
@@ -3073,6 +3233,14 @@
       "onboard_time": 1725210255,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19612,
+      "num": 205814,
+      "word": "烟台海鲜烧烤是深夜伴侣",
+      "onboard_time": 1725285622,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 18316,
