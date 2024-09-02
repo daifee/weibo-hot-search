@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725273632644,
+  "endTime": 1725275869258,
   "band_list": [
     {
       "raw_hot": 5839152,
@@ -32,6 +32,14 @@
       "word": "苹果 微信",
       "onboard_time": 1725253582,
       "rank": 30,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 2449554,
+      "num": 2449554,
+      "word": "苹果官方回应iPhone16不支持微信",
+      "onboard_time": 1725271400,
+      "rank": 7,
       "category": "数码"
     },
     {
@@ -113,14 +121,6 @@
       "onboard_time": 1725183319,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1725492,
-      "num": 1725492,
-      "word": "苹果官方回应iPhone16不支持微信",
-      "onboard_time": 1725271400,
-      "rank": 7,
-      "category": "数码"
     },
     {
       "raw_hot": 1721819,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1267735,
+      "num": 1267735,
+      "word": "欧阳娜娜 内娱第一留子",
+      "onboard_time": 1725272359,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1250130,
       "num": 520849,
       "word": "两名黑人女子遭白人农场主枪杀喂猪",
@@ -297,6 +305,14 @@
       "onboard_time": 1725234016,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1154158,
+      "num": 1154158,
+      "word": "郑钦文口型",
+      "onboard_time": 1725273739,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1122225,
@@ -491,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 894621,
+      "num": 492199,
+      "word": "原来不是累是穷啊",
+      "onboard_time": 1725270200,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 890680,
       "num": 890680,
       "word": "明年6月到9月没有任何假期",
@@ -675,6 +699,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 751932,
+      "num": 751932,
+      "word": "阿黛尔宣布无限期退出歌坛",
+      "onboard_time": 1725272960,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 750022,
       "num": 295137,
       "word": "iPhone和微信你更离不开谁",
@@ -689,14 +721,6 @@
       "onboard_time": 1725238400,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 734763,
-      "num": 734763,
-      "word": "欧阳娜娜 内娱第一留子",
-      "onboard_time": 1725272359,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 721295,
@@ -737,6 +761,14 @@
       "onboard_time": 1725181280,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 710392,
+      "num": 710392,
+      "word": "标错价格20分钟被薅7000万元",
+      "onboard_time": 1725273500,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 709877,
@@ -1579,14 +1611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 360327,
-      "num": 360327,
-      "word": "原来不是累是穷啊",
-      "onboard_time": 1725270200,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 357303,
       "num": 357303,
       "word": "陈奕迅用了樊振东同款球拍",
@@ -1787,6 +1811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299186,
+      "num": 299186,
+      "word": "副局长被举报婚内出轨降为普通民警",
+      "onboard_time": 1725270619,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298737,
       "num": 298737,
       "word": "郑钦文说再战维基奇会更艰难",
@@ -1809,14 +1841,6 @@
       "onboard_time": 1725178458,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 295105,
-      "num": 295105,
-      "word": "副局长被举报婚内出轨降为普通民警",
-      "onboard_time": 1725270619,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 294931,
@@ -1857,14 +1881,6 @@
       "onboard_time": 1725147015,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 290945,
-      "num": 290945,
-      "word": "阿黛尔宣布无限期退出歌坛",
-      "onboard_time": 1725272960,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 290292,
@@ -1913,6 +1929,14 @@
       "onboard_time": 1725112281,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280136,
+      "num": 299207,
+      "word": "折腰播吗",
+      "onboard_time": 1725275300,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 280122,
@@ -2379,6 +2403,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 219536,
+      "num": 219536,
+      "word": "网曝安徽一中学4个学生吃1盆菜",
+      "onboard_time": 1725274882,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218988,
       "num": 443724,
       "word": "湖南一地大量蜉蝣婚飞如下雪",
@@ -2465,6 +2497,14 @@
       "onboard_time": 1725258979,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210837,
+      "num": 210837,
+      "word": "丞磊身材",
+      "onboard_time": 1725274941,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 210636,
@@ -2617,6 +2657,14 @@
       "onboard_time": 1725259221,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203927,
+      "num": 203927,
+      "word": "成都开学第一天高温红色预警",
+      "onboard_time": 1725273681,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203825,
@@ -2825,14 +2873,6 @@
       "onboard_time": 1725244217,
       "rank": 27,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 194664,
-      "num": 194664,
-      "word": "标错价格20分钟被薅7000万元",
-      "onboard_time": 1725273500,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194211,
@@ -3227,6 +3267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177240,
+      "num": 177240,
+      "word": "重庆下雨",
+      "onboard_time": 1725273981,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177014,
       "num": 177014,
       "word": "巴黎残奥会奖牌榜",
@@ -3465,6 +3513,14 @@
       "onboard_time": 1725247400,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167439,
+      "num": 167439,
+      "word": "今年的月饼已经离谱到这种程度了吗",
+      "onboard_time": 1725274700,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 167353,
@@ -3769,6 +3825,14 @@
       "onboard_time": 1725194962,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153212,
+      "num": 153212,
+      "word": "台风摩羯大概率直奔广东",
+      "onboard_time": 1725275782,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152594,
@@ -4820,7 +4884,7 @@
     },
     {
       "raw_hot": 61633,
-      "num": 914544,
+      "num": 1210010,
       "word": "一图了解中非合作论坛",
       "onboard_time": 1725264979,
       "rank": 2,
@@ -5307,6 +5371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27892,
+      "num": 299187,
+      "word": "中药月饼一天120盒不够卖",
+      "onboard_time": 1725275000,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27883,
       "num": 498642,
       "word": "硫超标枸杞要曝光更要根治",
@@ -5475,10 +5547,26 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17414,
+      "num": 492370,
+      "word": "以色列数十万民众示威呼吁停火",
+      "onboard_time": 1725275120,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 17095,
       "num": 524092,
       "word": "当地回应央视曝光硫超标枸杞事件",
       "onboard_time": 1725255082,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15659,
+      "num": 453362,
+      "word": "食品安全容不下一丝苟且",
+      "onboard_time": 1725275061,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -5497,6 +5585,14 @@
       "onboard_time": 1725180438,
       "rank": 38,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 15143,
+      "num": 219868,
+      "word": "看执法记录仪下的警察日常",
+      "onboard_time": 1725275000,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12738,
