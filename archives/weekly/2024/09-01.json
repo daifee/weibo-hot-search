@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725269859558,
+  "endTime": 1725272567065,
   "band_list": [
     {
       "raw_hot": 5839152,
@@ -89,6 +89,14 @@
       "onboard_time": 1725251901,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1805852,
+      "num": 526981,
+      "word": "矿泉水被传能生儿子被抢脱销",
+      "onboard_time": 1725267801,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1798685,
@@ -305,6 +313,14 @@
       "onboard_time": 1725179360,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1095831,
+      "num": 1175332,
+      "word": "王昶改网名",
+      "onboard_time": 1725269060,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 1077079,
@@ -652,7 +668,7 @@
     },
     {
       "raw_hot": 750022,
-      "num": 242456,
+      "num": 295137,
       "word": "iPhone和微信你更离不开谁",
       "onboard_time": 1725263897,
       "rank": 31,
@@ -1059,6 +1075,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 534838,
+      "num": 534838,
+      "word": "苹果官方回应iPhone16不支持微信",
+      "onboard_time": 1725271400,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 530507,
+      "num": 530507,
+      "word": "有人已经供暖了有人还在开空调",
+      "onboard_time": 1725260839,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 527671,
       "num": 527671,
       "word": "苹果华为发布会再度撞档",
@@ -1073,6 +1105,14 @@
       "onboard_time": 1725104900,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 526380,
+      "num": 526380,
+      "word": "郑钦文 好风凭借力送我上青云",
+      "onboard_time": 1725266660,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 523934,
@@ -1219,14 +1259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 476470,
-      "num": 476470,
-      "word": "矿泉水被传能生儿子被抢脱销",
-      "onboard_time": 1725267801,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 475591,
       "num": 475591,
       "word": "IU帮曹璐组合打歌",
@@ -1267,20 +1299,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 465175,
-      "num": 476636,
-      "word": "有人已经供暖了有人还在开空调",
-      "onboard_time": 1725260839,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 463828,
       "num": 463828,
       "word": "9月你好",
       "onboard_time": 1725146355,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 455700,
+      "num": 455700,
+      "word": "荣梓杉 我妈妈好有综艺感",
+      "onboard_time": 1725269900,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 453225,
@@ -1483,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 371473,
+      "num": 371473,
+      "word": "心动的信号女一 元气甜妹",
+      "onboard_time": 1725269300,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 371355,
       "num": 371355,
       "word": "王楚钦访港日vlog",
@@ -1545,6 +1585,14 @@
       "onboard_time": 1725258681,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 350545,
+      "num": 350545,
+      "word": "这么傻的狗她居然有三只",
+      "onboard_time": 1725267381,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 348559,
@@ -1667,20 +1715,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 306106,
-      "num": 232332,
-      "word": "王昶改网名",
-      "onboard_time": 1725269060,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 305349,
       "num": 305349,
       "word": "刘亦菲去了张靓颖演唱会",
       "onboard_time": 1725110660,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 305133,
+      "num": 305133,
+      "word": "樊振东陈梦这个同框瞬间",
+      "onboard_time": 1725271761,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 304674,
@@ -1787,6 +1835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 291199,
+      "num": 291199,
+      "word": "原来不是累是穷啊",
+      "onboard_time": 1725270200,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 290292,
       "num": 290292,
       "word": "易烊千玺 五月天演唱会",
@@ -1832,6 +1888,14 @@
       "word": "老人在足浴店消费超30万儿子发声",
       "onboard_time": 1725112281,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281430,
+      "num": 281430,
+      "word": "副局长被举报婚内出轨降为普通民警",
+      "onboard_time": 1725270619,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1883,14 +1947,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 273893,
-      "num": 273893,
-      "word": "郑钦文 好风凭借力送我上青云",
-      "onboard_time": 1725266660,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 273782,
       "num": 273782,
       "word": "樊振东孤勇者reaction",
@@ -1912,6 +1968,14 @@
       "word": "干饭哥在练混双了",
       "onboard_time": 1725245778,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 263820,
+      "num": 263820,
+      "word": "孙杨已回省队",
+      "onboard_time": 1725270559,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -2067,14 +2131,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 246964,
-      "num": 246964,
-      "word": "这么傻的狗她居然有三只",
-      "onboard_time": 1725267381,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 245973,
       "num": 245973,
       "word": "郑钦文美网赛程",
@@ -2137,6 +2193,14 @@
       "onboard_time": 1725109639,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238913,
+      "num": 360145,
+      "word": "虞书欣郭敬明捧花照",
+      "onboard_time": 1725270619,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 238869,
@@ -2211,6 +2275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230255,
+      "num": 230255,
+      "word": "阴阳师龙女",
+      "onboard_time": 1725269359,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 229282,
       "num": 229282,
       "word": "被奶奶辈的修眉方式震惊到了",
@@ -2283,6 +2355,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 219900,
+      "num": 219900,
+      "word": "安徽一中学回应4学生吃2个菜",
+      "onboard_time": 1725271280,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218988,
       "num": 443724,
       "word": "湖南一地大量蜉蝣婚飞如下雪",
@@ -2331,28 +2411,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 216519,
-      "num": 216519,
-      "word": "阴阳师龙女",
-      "onboard_time": 1725269359,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 216298,
       "num": 216298,
       "word": "樊振东给盛李豪羽毛球拍应援",
       "onboard_time": 1725200301,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 216020,
-      "num": 235226,
-      "word": "心动的信号女一 元气甜妹",
-      "onboard_time": 1725269300,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 213496,
@@ -2433,6 +2497,14 @@
       "onboard_time": 1725184339,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207275,
+      "num": 207275,
+      "word": "欧阳娜娜 内娱第一留子",
+      "onboard_time": 1725272359,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 207187,
@@ -2737,6 +2809,14 @@
       "onboard_time": 1725244217,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 194728,
+      "num": 194728,
+      "word": "樊振东 你不知道我如今歌坛分量",
+      "onboard_time": 1725271400,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 194211,
@@ -3259,6 +3339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170781,
+      "num": 170781,
+      "word": "海军舰艇昼夜训练大片",
+      "onboard_time": 1725272180,
+      "rank": 44,
+      "category": "军事"
+    },
+    {
       "raw_hot": 170543,
       "num": 170543,
       "word": "俄乌局势新进展",
@@ -3409,6 +3497,14 @@
       "onboard_time": 1725198981,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162729,
+      "num": 162729,
+      "word": "重庆人期待已久的雨终于来了",
+      "onboard_time": 1725272059,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162500,
@@ -3564,7 +3660,7 @@
     },
     {
       "raw_hot": 155197,
-      "num": 155197,
+      "num": 285683,
       "word": "孙艺洲是被魏大勋忽悠上嗨放派的",
       "onboard_time": 1725269780,
       "rank": 45,
@@ -3649,6 +3745,14 @@
       "onboard_time": 1725269120,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151395,
+      "num": 208963,
+      "word": "谢可寅练得很好但他是黄景瑜",
+      "onboard_time": 1725272118,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 150802,
@@ -4715,6 +4819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 56027,
+      "num": 527015,
+      "word": "弟弟为外嫁姐姐争回村民合法权益",
+      "onboard_time": 1725271400,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55798,
       "num": 504243,
       "word": "买到烂尾楼我们是如何退房的",
@@ -4851,6 +4963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45047,
+      "num": 415373,
+      "word": "4招分辨毒枸杞",
+      "onboard_time": 1725271579,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43996,
       "num": 287432,
       "word": "SKII新品成分表第一位",
@@ -4979,6 +5099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35727,
+      "num": 299494,
+      "word": "长沙一学校新生出现诸多四字姓名",
+      "onboard_time": 1725271640,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35640,
       "num": 52113,
       "word": "医生都自备这项技能吗",
@@ -5080,6 +5208,14 @@
       "word": "第二届北京网络视听艺术大会",
       "onboard_time": 1725248839,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30699,
+      "num": 353283,
+      "word": "甘孜惊现金钱豹进城遛弯",
+      "onboard_time": 1725271640,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
