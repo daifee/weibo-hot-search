@@ -1,6 +1,6 @@
 {
   "startTime": 1725207925221,
-  "endTime": 1725262514486,
+  "endTime": 1725265661751,
   "band_list": [
     {
       "raw_hot": 5839152,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1713659,
+      "num": 1713659,
+      "word": "侃爷以为HK是香港 结果是海口",
+      "onboard_time": 1725260781,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1704904,
       "num": 511504,
       "word": "27岁退出了家族群删除了全部亲戚",
@@ -88,6 +96,14 @@
       "word": "上官正义举报有人涉嫌介绍未成年人代孕",
       "onboard_time": 1725249680,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1230108,
+      "num": 705404,
+      "word": "夫妻称喝完Blueglass躺了一天才恢复",
+      "onboard_time": 1725260720,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -219,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 807236,
+      "num": 807236,
+      "word": "郑钦文 走过的每一步都算数",
+      "onboard_time": 1725260781,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 800810,
       "num": 938129,
       "word": "袁隆平儿子回应女儿入读中国农业大学",
@@ -235,12 +259,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 766158,
-      "num": 766158,
-      "word": "侃爷以为HK是香港 结果是海口",
-      "onboard_time": 1725260781,
-      "rank": 12,
-      "category": "演出"
+      "raw_hot": 791534,
+      "num": 676892,
+      "word": "上官正义曝光代孕机构群聊内容",
+      "onboard_time": 1725262100,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 743255,
@@ -267,20 +291,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 705271,
-      "num": 705271,
-      "word": "郑钦文 走过的每一步都算数",
-      "onboard_time": 1725260781,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 697818,
       "num": 586804,
       "word": "樊振东注册第一天就在等陈奕迅",
       "onboard_time": 1725254902,
       "rank": 36,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 677536,
+      "num": 677536,
+      "word": "美网奖金",
+      "onboard_time": 1725261021,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 641305,
@@ -371,6 +395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 541519,
+      "num": 446933,
+      "word": "王楚钦也告上状了",
+      "onboard_time": 1725261081,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 541054,
       "num": 541054,
       "word": "夫人小我十岁 我知她勇敢无畏",
@@ -387,7 +419,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 532445,
+      "raw_hot": 538998,
       "num": 655973,
       "word": "官方通报央视曝光毒枸杞",
       "onboard_time": 1725255139,
@@ -515,20 +547,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 419463,
-      "num": 419463,
-      "word": "美网奖金",
-      "onboard_time": 1725261021,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 415373,
-      "num": 372453,
-      "word": "王楚钦也告上状了",
-      "onboard_time": 1725261081,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 418282,
+      "num": 239035,
+      "word": "iPhone和微信你更离不开谁",
+      "onboard_time": 1725263897,
+      "rank": 31,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 403614,
@@ -561,6 +585,14 @@
       "onboard_time": 1725237500,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 382632,
+      "num": 509745,
+      "word": "赵今麦坐张凌赫肩上",
+      "onboard_time": 1725265280,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 380520,
@@ -609,14 +641,6 @@
       "onboard_time": 1725245657,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 341584,
-      "num": 341584,
-      "word": "上官正义曝光代孕机构群聊内容",
-      "onboard_time": 1725262100,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 336362,
@@ -723,20 +747,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 280007,
-      "num": 280007,
-      "word": "夫妻称喝完Blueglass躺了一天才恢复",
-      "onboard_time": 1725260720,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 279449,
       "num": 279449,
       "word": "A股",
       "onboard_time": 1725243438,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 274088,
+      "num": 274088,
+      "word": "第二部国产3A大作已在开发",
+      "onboard_time": 1725264200,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 273946,
@@ -753,6 +777,14 @@
       "onboard_time": 1725245778,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 268196,
+      "num": 268196,
+      "word": "今天全国大朋友小朋友悲喜相通了",
+      "onboard_time": 1725264080,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 263502,
@@ -827,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248767,
+      "num": 465751,
+      "word": "檀健次夸by2拍照技术好",
+      "onboard_time": 1725261979,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 245973,
       "num": 245973,
       "word": "郑钦文美网赛程",
@@ -859,11 +899,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237828,
+      "num": 237828,
+      "word": "芭莎十月创刊三十八周年封面",
+      "onboard_time": 1725265099,
+      "rank": 32,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 231044,
       "num": 339029,
       "word": "公开发视频未打码路人是否侵权",
       "onboard_time": 1725247699,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223728,
+      "num": 223728,
+      "word": "唐尚珺回复张雪峰",
+      "onboard_time": 1725264680,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -931,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210183,
+      "num": 583516,
+      "word": "伊朗总统坠机事故原因公布",
+      "onboard_time": 1725260300,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 209780,
       "num": 198690,
       "word": "彭昱畅金鹿奖影帝",
@@ -961,6 +1025,14 @@
       "onboard_time": 1725260900,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 206874,
+      "num": 206874,
+      "word": "被奶奶辈的修眉方式震惊到了",
+      "onboard_time": 1725264801,
+      "rank": 36,
+      "category": "美妆"
     },
     {
       "raw_hot": 206571,
@@ -1024,6 +1096,14 @@
       "word": "深圳原副市长黄敏被双开",
       "onboard_time": 1725237079,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197433,
+      "num": 197433,
+      "word": "有人已经供暖了有人还在开空调",
+      "onboard_time": 1725260839,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1131,14 +1211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186713,
-      "num": 583516,
-      "word": "伊朗总统坠机事故原因公布",
-      "onboard_time": 1725260300,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 185935,
       "num": 185935,
       "word": "2024开学百态",
@@ -1168,14 +1240,6 @@
       "word": "互联网黄牛犹如吸血的牛虻",
       "onboard_time": 1725258920,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183109,
-      "num": 183109,
-      "word": "有人已经供暖了有人还在开空调",
-      "onboard_time": 1725260839,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1275,12 +1339,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168896,
+      "num": 584310,
+      "word": "枸杞不是越红越好",
+      "onboard_time": 1725261260,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168218,
       "num": 168218,
       "word": "J人和P人家长开学名场面",
       "onboard_time": 1725250520,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 167502,
+      "num": 167502,
+      "word": "全红婵不好意思没事的",
+      "onboard_time": 1725263600,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 167475,
@@ -1315,20 +1395,20 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 165070,
+      "num": 165070,
+      "word": "张角卸任LGD主教练",
+      "onboard_time": 1725265641,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 164381,
       "num": 164381,
       "word": "王一博被自己无语到了",
       "onboard_time": 1725200601,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 162866,
-      "num": 321873,
-      "word": "檀健次夸by2拍照技术好",
-      "onboard_time": 1725261979,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 162500,
@@ -1361,6 +1441,22 @@
       "onboard_time": 1725248660,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 155590,
+      "num": 155590,
+      "word": "成都高温",
+      "onboard_time": 1725265520,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154733,
+      "num": 154733,
+      "word": "9月上班21天",
+      "onboard_time": 1725265460,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 154162,
@@ -1643,14 +1739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 107389,
-      "num": 584310,
-      "word": "枸杞不是越红越好",
-      "onboard_time": 1725261260,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 103924,
       "num": 103924,
       "word": "国家博物馆偶遇张颂文马嘉祺",
@@ -1697,6 +1785,14 @@
       "onboard_time": 1725232757,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90948,
+      "num": 565846,
+      "word": "印度强奸案频发的深层次原因",
+      "onboard_time": 1725264200,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80805,
@@ -1803,6 +1899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61633,
+      "num": 714135,
+      "word": "一图了解中非合作论坛",
+      "onboard_time": 1725264979,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58556,
       "num": 453953,
       "word": "彭昱畅的嘴也是让人害怕的程度",
@@ -1824,6 +1928,14 @@
       "word": "女子花6.8万种植牙不到3年掉3颗",
       "onboard_time": 1725248059,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56156,
+      "num": 566945,
+      "word": "硫磺熏制八角二氧化硫超标16倍",
+      "onboard_time": 1725264260,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1947,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34313,
+      "num": 448299,
+      "word": "充满门道与陷阱的共享充电宝生意",
+      "onboard_time": 1725264320,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33336,
       "num": 448911,
       "word": "塔图姆东契奇锡安东游记",
@@ -2003,12 +2123,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27883,
+      "num": 498642,
+      "word": "硫超标枸杞要曝光更要根治",
+      "onboard_time": 1725264200,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26448,
       "num": 221079,
       "word": "鸟鸟说家庭和事业我2选0",
       "onboard_time": 1725259401,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 24058,
+      "num": 455068,
+      "word": "高圆圆阿拉善之旅",
+      "onboard_time": 1725264680,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 23880,
@@ -2025,6 +2161,14 @@
       "onboard_time": 1725213974,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22748,
+      "num": 186819,
+      "word": "什么是中女主",
+      "onboard_time": 1725264140,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 19906,
@@ -2092,6 +2236,9 @@
     },
     {
       "word": "#立德树人#"
+    },
+    {
+      "word": "#习主席的中非合作论坛峰会时间#"
     }
   ]
 }
