@@ -1,0 +1,410 @@
+{
+  "runTime": 1725247403475,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1365939,
+        "num": 1365939,
+        "word": "上海最大居民小区宣布炒掉物业",
+        "onboard_time": 1725244819,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1357830,
+        "num": 1357830,
+        "word": "郑钦文vs维基奇",
+        "onboard_time": 1725243079,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10381,
+        "num": 1155862,
+        "word": "神十八乘组的太空日常",
+        "onboard_time": 1725194840,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2243778,
+        "num": 1124333,
+        "word": "女儿失踪第178天妈妈退出幼儿园群",
+        "onboard_time": 1725240020,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1034321,
+        "num": 1034321,
+        "word": "孕妇被731解剖大喊放过我的孩子",
+        "onboard_time": 1725236359,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858826,
+        "num": 858826,
+        "word": "陈奕迅被告者名单",
+        "onboard_time": 1725245058,
+        "rank": 5,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 696381,
+        "num": 696381,
+        "word": "日本投降仪式结束时间9点18分",
+        "onboard_time": 1725236781,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 549732,
+        "num": 549732,
+        "word": "赵今麦芭莎",
+        "onboard_time": 1725245239,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 479267,
+        "num": 479267,
+        "word": "王一博和老雪",
+        "onboard_time": 1725244997,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26434,
+        "num": 434262,
+        "word": "台北法院凌晨裁定柯文哲当庭释放",
+        "onboard_time": 1725246439,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1270974,
+        "num": 426150,
+        "word": "罗拉王能能没分手",
+        "onboard_time": 1725242299,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 516785,
+        "num": 408660,
+        "word": "用小号和前男友谈了八个月准备奔现",
+        "onboard_time": 1725234016,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 391005,
+        "num": 391005,
+        "word": "苹果华为发布会再度撞档",
+        "onboard_time": 1725241159,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 362435,
+        "num": 362435,
+        "word": "彭昱畅暴瘦是因为阑尾炎",
+        "onboard_time": 1725232878,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 349557,
+        "num": 349557,
+        "word": "订婚后男朋友天天追求公平",
+        "onboard_time": 1725233059,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 346965,
+        "num": 346965,
+        "word": "慕胥辞",
+        "onboard_time": 1725245657,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314940,
+        "num": 314940,
+        "word": "中国人民抗战胜利79周年",
+        "onboard_time": 1725236359,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 306418,
+        "num": 306418,
+        "word": "华为官宣新品发布会",
+        "onboard_time": 1725241820,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 272127,
+        "num": 272127,
+        "word": "干饭哥在练混双了",
+        "onboard_time": 1725245778,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43014,
+        "num": 272075,
+        "word": "补票重看NBA总决赛",
+        "onboard_time": 1725246258,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 539304,
+        "num": 268341,
+        "word": "公司发了会骂人的月饼",
+        "onboard_time": 1725240618,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 471005,
+        "num": 262189,
+        "word": "容易出汗的人排查一下4种病",
+        "onboard_time": 1725238400,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 429756,
+        "num": 258387,
+        "word": "慌张的孙颖莎已读乱回的王楚钦",
+        "onboard_time": 1725240859,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210619,
+        "num": 256912,
+        "word": "罗拉否认炒作",
+        "onboard_time": 1725242539,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 228331,
+        "num": 251466,
+        "word": "刘浩存MIUMIU",
+        "onboard_time": 1725246619,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250755,
+        "num": 250755,
+        "word": "袁隆平儿子回应女儿入读中国农业大学",
+        "onboard_time": 1725194061,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203744,
+        "num": 203744,
+        "word": "易烊千玺 五月天演唱会",
+        "onboard_time": 1725235338,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 53057,
+        "num": 203445,
+        "word": "上班暂停我去趟烟台",
+        "onboard_time": 1725246258,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203385,
+        "num": 203385,
+        "word": "权志龙舞台",
+        "onboard_time": 1725246199,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29582,
+        "num": 192084,
+        "word": "欧莱雅与乡村女性的稻田秀场",
+        "onboard_time": 1725246258,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213004,
+        "num": 191444,
+        "word": "无痛早睡",
+        "onboard_time": 1725244878,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 190508,
+        "num": 190508,
+        "word": "残奥会 关注度低",
+        "onboard_time": 1725238400,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187387,
+        "num": 187387,
+        "word": "郑钦文说再战维基奇会更艰难",
+        "onboard_time": 1725235999,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182286,
+        "num": 182286,
+        "word": "多地开学第一天",
+        "onboard_time": 1725236601,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174502,
+        "num": 174502,
+        "word": "孙佳俊被全红婵拿捏了",
+        "onboard_time": 1725243379,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170765,
+        "num": 170765,
+        "word": "28岁机车网红三毛子因车祸去世",
+        "onboard_time": 1725205880,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 168669,
+        "num": 168669,
+        "word": "为什么没怀疑过朋友圈是预制的",
+        "onboard_time": 1725234798,
+        "rank": 36,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 165669,
+        "num": 165669,
+        "word": "电商低价卖书会谷贱伤农吗",
+        "onboard_time": 1725240438,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160365,
+        "num": 160365,
+        "word": "与晋长安杀青",
+        "onboard_time": 1725244398,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30028,
+        "num": 159495,
+        "word": "在烟台吃到了人生第一碗海鲜面",
+        "onboard_time": 1725246018,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159115,
+        "num": 159115,
+        "word": "杨千嬅说樊振东唱得好",
+        "onboard_time": 1725243558,
+        "rank": 40,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 151917,
+        "num": 151917,
+        "word": "泳队 告六人",
+        "onboard_time": 1725247158,
+        "rank": 41,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 150751,
+        "num": 150751,
+        "word": "陈奕迅用了樊振东同款球拍",
+        "onboard_time": 1725234738,
+        "rank": 42,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 150389,
+        "num": 150389,
+        "word": "开学碎掉的其实是老师",
+        "onboard_time": 1725242480,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150235,
+        "num": 150235,
+        "word": "黄磊祝贺彭昱畅",
+        "onboard_time": 1725237500,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141445,
+        "num": 141445,
+        "word": "关晓彤路透",
+        "onboard_time": 1725237139,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140868,
+        "num": 140868,
+        "word": "35岁大一新生唐尚珺今天报到",
+        "onboard_time": 1725247219,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129701,
+        "num": 129701,
+        "word": "华为新品能否狙击iPhone16",
+        "onboard_time": 1725245418,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 129164,
+        "num": 129164,
+        "word": "好想魂穿迪丽热巴的化妆师",
+        "onboard_time": 1725247339,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128087,
+        "num": 128087,
+        "word": "中小学课间延长配套也要跟上",
+        "onboard_time": 1725244458,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#每个学生都是独一无二的个体#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1725207925221,
-  "endTime": 1725245820594,
+  "endTime": 1725247403475,
   "band_list": [
     {
       "raw_hot": 2899571,
@@ -35,6 +35,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1365939,
+      "num": 1365939,
+      "word": "上海最大居民小区宣布炒掉物业",
+      "onboard_time": 1725244819,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1357830,
+      "num": 1357830,
+      "word": "郑钦文vs维基奇",
+      "onboard_time": 1725243079,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1156093,
       "num": 412691,
       "word": "用小号和前男友谈了八个月准备奔现",
@@ -51,12 +67,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1044192,
-      "num": 1161631,
-      "word": "郑钦文vs维基奇",
-      "onboard_time": 1725243079,
-      "rank": 4,
-      "category": "体育"
+      "raw_hot": 858826,
+      "num": 858826,
+      "word": "陈奕迅被告者名单",
+      "onboard_time": 1725245058,
+      "rank": 31,
+      "category": "演出,体育"
     },
     {
       "raw_hot": 841289,
@@ -171,6 +187,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 549732,
+      "num": 549732,
+      "word": "赵今麦芭莎",
+      "onboard_time": 1725245239,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 539304,
+      "num": 268341,
+      "word": "公司发了会骂人的月饼",
+      "onboard_time": 1725240618,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 527671,
       "num": 527671,
       "word": "苹果华为发布会再度撞档",
@@ -193,6 +225,14 @@
       "onboard_time": 1725239479,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 479267,
+      "num": 479267,
+      "word": "王一博和老雪",
+      "onboard_time": 1725244997,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 462007,
@@ -251,36 +291,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 389352,
-      "num": 218377,
-      "word": "公司发了会骂人的月饼",
-      "onboard_time": 1725240618,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 380830,
-      "num": 380830,
-      "word": "陈奕迅被告者名单",
-      "onboard_time": 1725245058,
-      "rank": 31,
-      "category": "演出,体育"
-    },
-    {
       "raw_hot": 380520,
       "num": 380520,
       "word": "邓为偷偷戴了脐钉",
       "onboard_time": 1725200000,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 369325,
-      "num": 369325,
-      "word": "上海最大居民小区宣布炒掉物业",
-      "onboard_time": 1725244819,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 365392,
@@ -297,6 +313,14 @@
       "onboard_time": 1725234738,
       "rank": 15,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 346965,
+      "num": 346965,
+      "word": "慕胥辞",
+      "onboard_time": 1725245657,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 336362,
@@ -323,6 +347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 306418,
+      "num": 306418,
+      "word": "华为官宣新品发布会",
+      "onboard_time": 1725241820,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 304038,
       "num": 304038,
       "word": "罗拉否认炒作",
@@ -345,6 +377,14 @@
       "onboard_time": 1725235338,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 272127,
+      "num": 272127,
+      "word": "干饭哥在练混双了",
+      "onboard_time": 1725245778,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 260816,
@@ -387,6 +427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 228331,
+      "num": 251466,
+      "word": "刘浩存MIUMIU",
+      "onboard_time": 1725246619,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222451,
       "num": 283209,
       "word": "关晓彤路透",
@@ -403,12 +451,12 @@
       "category": "社会新闻,互联网"
     },
     {
-      "raw_hot": 217566,
-      "num": 217566,
-      "word": "王一博和老雪",
-      "onboard_time": 1725244997,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 213004,
+      "num": 191444,
+      "word": "无痛早睡",
+      "onboard_time": 1725244878,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 211186,
@@ -451,12 +499,12 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 204542,
-      "num": 204542,
-      "word": "华为官宣新品发布会",
-      "onboard_time": 1725241820,
-      "rank": 35,
-      "category": "数码"
+      "raw_hot": 203385,
+      "num": 203385,
+      "word": "权志龙舞台",
+      "onboard_time": 1725246199,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 197740,
@@ -465,14 +513,6 @@
       "onboard_time": 1725237079,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196316,
-      "num": 196316,
-      "word": "赵今麦芭莎",
-      "onboard_time": 1725245239,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 194941,
@@ -635,6 +675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 151917,
+      "num": 151917,
+      "word": "泳队 告六人",
+      "onboard_time": 1725247158,
+      "rank": 41,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 150802,
       "num": 150802,
       "word": "雪山版密室大逃脱来了",
@@ -696,6 +744,14 @@
       "word": "我从追空投的小孩长成投空投的人",
       "onboard_time": 1725204382,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140868,
+      "num": 140868,
+      "word": "35岁大一新生唐尚珺今天报到",
+      "onboard_time": 1725247219,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -779,12 +835,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 130290,
-      "num": 130290,
-      "word": "慕胥辞",
-      "onboard_time": 1725245657,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 129164,
+      "num": 129164,
+      "word": "好想魂穿迪丽热巴的化妆师",
+      "onboard_time": 1725247339,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 128108,
@@ -793,6 +849,14 @@
       "onboard_time": 1725245418,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128087,
+      "num": 421697,
+      "word": "中小学课间延长配套也要跟上",
+      "onboard_time": 1725244458,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124822,
@@ -833,14 +897,6 @@
       "onboard_time": 1725241999,
       "rank": 49,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 115711,
-      "num": 115711,
-      "word": "干饭哥在练混双了",
-      "onboard_time": 1725245778,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 115355,
@@ -1019,11 +1075,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 58383,
-      "num": 421697,
-      "word": "中小学课间延长配套也要跟上",
-      "onboard_time": 1725244458,
-      "rank": 8,
+      "raw_hot": 53057,
+      "num": 203445,
+      "word": "上班暂停我去趟烟台",
+      "onboard_time": 1725246258,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -1048,6 +1104,14 @@
       "word": "全红婵收到澳门文创乌龟",
       "onboard_time": 1725225490,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 43014,
+      "num": 272075,
+      "word": "补票重看NBA总决赛",
+      "onboard_time": 1725246258,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -1088,6 +1152,30 @@
       "word": "神十八乘组的太空日常",
       "onboard_time": 1725194840,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30028,
+      "num": 159495,
+      "word": "在烟台吃到了人生第一碗海鲜面",
+      "onboard_time": 1725246018,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29582,
+      "num": 192084,
+      "word": "欧莱雅与乡村女性的稻田秀场",
+      "onboard_time": 1725246258,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26434,
+      "num": 434262,
+      "word": "台北法院凌晨裁定柯文哲当庭释放",
+      "onboard_time": 1725246439,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
