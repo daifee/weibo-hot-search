@@ -1,6 +1,6 @@
 {
   "startTime": 1725207925221,
-  "endTime": 1725275869258,
+  "endTime": 1725277059601,
   "band_list": [
     {
       "raw_hot": 5839152,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1560977,
+      "num": 1560977,
+      "word": "郑钦文口型",
+      "onboard_time": 1725273739,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1506323,
       "num": 1476952,
       "word": "罗拉王能能没分手",
@@ -120,6 +128,14 @@
       "word": "上官正义举报有人涉嫌介绍未成年人代孕",
       "onboard_time": 1725249680,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1287583,
+      "num": 1287583,
+      "word": "标错价格20分钟被薅7000万元",
+      "onboard_time": 1725273500,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -153,14 +169,6 @@
       "onboard_time": 1725234016,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1154158,
-      "num": 1154158,
-      "word": "郑钦文口型",
-      "onboard_time": 1725273739,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 1134403,
@@ -355,8 +363,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 751932,
-      "num": 751932,
+      "raw_hot": 760718,
+      "num": 760718,
       "word": "阿黛尔宣布无限期退出歌坛",
       "onboard_time": 1725272960,
       "rank": 24,
@@ -403,12 +411,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 710392,
-      "num": 710392,
-      "word": "标错价格20分钟被薅7000万元",
-      "onboard_time": 1725273500,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 711302,
+      "num": 711302,
+      "word": "折腰播吗",
+      "onboard_time": 1725275300,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 697818,
@@ -611,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 482575,
+      "num": 243469,
+      "word": "今年的月饼已经离谱到这种程度了吗",
+      "onboard_time": 1725274700,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 479267,
       "num": 479267,
       "word": "王一博和老雪",
@@ -681,6 +697,14 @@
       "onboard_time": 1725249680,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 406224,
+      "num": 406224,
+      "word": "副局长被举报婚内出轨降为普通民警",
+      "onboard_time": 1725270619,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 403614,
@@ -795,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 320151,
+      "num": 236724,
+      "word": "网曝安徽一中学4个学生吃1盆菜",
+      "onboard_time": 1725274882,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315992,
       "num": 315992,
       "word": "郑钦文ACE雨",
@@ -859,14 +891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 299186,
-      "num": 299186,
-      "word": "副局长被举报婚内出轨降为普通民警",
-      "onboard_time": 1725270619,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 298737,
       "num": 298737,
       "word": "郑钦文说再战维基奇会更艰难",
@@ -915,12 +939,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 280136,
-      "num": 299207,
-      "word": "折腰播吗",
-      "onboard_time": 1725275300,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 284824,
+      "num": 284824,
+      "word": "李庚希影后手机壳",
+      "onboard_time": 1725276380,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 280122,
@@ -1147,14 +1171,6 @@
       "category": "社会新闻,互联网"
     },
     {
-      "raw_hot": 219536,
-      "num": 219536,
-      "word": "网曝安徽一中学4个学生吃1盆菜",
-      "onboard_time": 1725274882,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 218988,
       "num": 443724,
       "word": "湖南一地大量蜉蝣婚飞如下雪",
@@ -1177,6 +1193,14 @@
       "onboard_time": 1725255799,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215210,
+      "num": 215210,
+      "word": "藏海花断更",
+      "onboard_time": 1725276380,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 212906,
@@ -1273,6 +1297,14 @@
       "onboard_time": 1725252442,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205108,
+      "num": 205108,
+      "word": "台风摩羯大概率直奔广东",
+      "onboard_time": 1725275782,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204697,
@@ -1539,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179745,
+      "num": 179745,
+      "word": "重庆下雨",
+      "onboard_time": 1725273981,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179547,
       "num": 179547,
       "word": "王楚钦回应比赛中喊来走",
@@ -1569,14 +1609,6 @@
       "onboard_time": 1725239419,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 177240,
-      "num": 177240,
-      "word": "重庆下雨",
-      "onboard_time": 1725273981,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177014,
@@ -1681,14 +1713,6 @@
       "onboard_time": 1725247400,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167439,
-      "num": 167439,
-      "word": "今年的月饼已经离谱到这种程度了吗",
-      "onboard_time": 1725274700,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 166666,
@@ -1825,14 +1849,6 @@
       "onboard_time": 1725267081,
       "rank": 45,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 153212,
-      "num": 153212,
-      "word": "台风摩羯大概率直奔广东",
-      "onboard_time": 1725275782,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152594,
@@ -1995,6 +2011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133217,
+      "num": 133217,
+      "word": "2024全球总决赛",
+      "onboard_time": 1725276799,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132149,
       "num": 132149,
       "word": "秋瓷炫带6岁儿子逛超市",
@@ -2033,6 +2057,14 @@
       "onboard_time": 1725244458,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126205,
+      "num": 126205,
+      "word": "全红婵孙佳俊搭档混双抱头痛笑",
+      "onboard_time": 1725276320,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 124822,
@@ -2275,6 +2307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68433,
+      "num": 299187,
+      "word": "中药月饼一天120盒不够卖",
+      "onboard_time": 1725275000,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67423,
       "num": 67423,
       "word": "潘玮柏的演唱会被于洋取消了",
@@ -2308,7 +2348,7 @@
     },
     {
       "raw_hot": 61633,
-      "num": 1210010,
+      "num": 1400864,
       "word": "一图了解中非合作论坛",
       "onboard_time": 1725264979,
       "rank": 2,
@@ -2393,6 +2433,14 @@
       "onboard_time": 1725246439,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48612,
+      "num": 492370,
+      "word": "以色列数十万民众示威呼吁停火",
+      "onboard_time": 1725275120,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 48374,
@@ -2563,14 +2611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27892,
-      "num": 299187,
-      "word": "中药月饼一天120盒不够卖",
-      "onboard_time": 1725275000,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27883,
       "num": 498642,
       "word": "硫超标枸杞要曝光更要根治",
@@ -2585,6 +2625,14 @@
       "onboard_time": 1725259401,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 25893,
+      "num": 453362,
+      "word": "食品安全容不下一丝苟且",
+      "onboard_time": 1725275061,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24686,
@@ -2659,26 +2707,10 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 17414,
-      "num": 492370,
-      "word": "以色列数十万民众示威呼吁停火",
-      "onboard_time": 1725275120,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 17095,
       "num": 524092,
       "word": "当地回应央视曝光硫超标枸杞事件",
       "onboard_time": 1725255082,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15659,
-      "num": 453362,
-      "word": "食品安全容不下一丝苟且",
-      "onboard_time": 1725275061,
       "rank": 14,
       "category": "社会新闻"
     },
