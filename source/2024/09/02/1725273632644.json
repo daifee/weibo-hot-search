@@ -1,0 +1,410 @@
+{
+  "runTime": 1725273632644,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1725492,
+        "num": 1725492,
+        "word": "苹果官方回应iPhone16不支持微信",
+        "onboard_time": 1725271400,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1114060,
+        "num": 1114060,
+        "word": "王昶改网名",
+        "onboard_time": 1725269060,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25696,
+        "num": 768330,
+        "word": "一图了解中非合作论坛",
+        "onboard_time": 1725264979,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 734763,
+        "num": 734763,
+        "word": "欧阳娜娜 内娱第一留子",
+        "onboard_time": 1725272359,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 676216,
+        "num": 676216,
+        "word": "侃爷以为HK是香港 结果是海口",
+        "onboard_time": 1725260781,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1127609,
+        "num": 675654,
+        "word": "代孕群聊按学历身高明码标价卵泡",
+        "onboard_time": 1725267141,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 673527,
+        "num": 673527,
+        "word": "女子晒炒蘑菇视频吓坏网友",
+        "onboard_time": 1725265999,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613781,
+        "num": 613781,
+        "word": "赵今麦坐张凌赫肩上",
+        "onboard_time": 1725265280,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44521,
+        "num": 566633,
+        "word": "李白发博祝广大学子新学期日有所进",
+        "onboard_time": 1725273021,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563508,
+        "num": 563508,
+        "word": "边水往事 第二季",
+        "onboard_time": 1725266901,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1829463,
+        "num": 550927,
+        "word": "矿泉水被传能生儿子被抢脱销",
+        "onboard_time": 1725267801,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446835,
+        "num": 446835,
+        "word": "有人已经供暖了有人还在开空调",
+        "onboard_time": 1725260839,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414603,
+        "num": 414603,
+        "word": "郑钦文 好风凭借力送我上青云",
+        "onboard_time": 1725266660,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323236,
+        "num": 401112,
+        "word": "毒枸杞",
+        "onboard_time": 1725251721,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400085,
+        "num": 400085,
+        "word": "荣梓杉 我妈妈好有综艺感",
+        "onboard_time": 1725269900,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360327,
+        "num": 360327,
+        "word": "原来不是累是穷啊",
+        "onboard_time": 1725270200,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 339834,
+        "num": 339834,
+        "word": "郑钦文进美网8强",
+        "onboard_time": 1725258021,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 336078,
+        "num": 336078,
+        "word": "今天全国大朋友小朋友悲喜相通了",
+        "onboard_time": 1725264080,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 335981,
+        "num": 335981,
+        "word": "心动的信号女一 元气甜妹",
+        "onboard_time": 1725269300,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310735,
+        "num": 310735,
+        "word": "这么傻的狗她居然有三只",
+        "onboard_time": 1725267381,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 445287,
+        "num": 303242,
+        "word": "官方回应有人涉嫌介绍未成年人代孕",
+        "onboard_time": 1725249738,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316786,
+        "num": 301902,
+        "word": "王楚钦也告上状了",
+        "onboard_time": 1725261081,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 377918,
+        "num": 300948,
+        "word": "上官正义举报有人涉嫌介绍未成年人代孕",
+        "onboard_time": 1725249680,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295105,
+        "num": 295105,
+        "word": "副局长被举报婚内出轨降为普通民警",
+        "onboard_time": 1725270619,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290945,
+        "num": 290945,
+        "word": "阿黛尔宣布无限期退出歌坛",
+        "onboard_time": 1725272960,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286203,
+        "num": 286203,
+        "word": "樊振东陈梦这个同框瞬间",
+        "onboard_time": 1725271761,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273010,
+        "num": 273010,
+        "word": "虞书欣郭敬明捧花照",
+        "onboard_time": 1725270619,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234294,
+        "num": 234294,
+        "word": "安徽一中学回应4学生吃2个菜",
+        "onboard_time": 1725271280,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227535,
+        "num": 227535,
+        "word": "女儿失踪第178天妈妈退出幼儿园群",
+        "onboard_time": 1725240020,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215340,
+        "num": 215340,
+        "word": "孙杨已回省队",
+        "onboard_time": 1725270559,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 511090,
+        "num": 215086,
+        "word": "苹果 微信",
+        "onboard_time": 1725253582,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 214425,
+        "num": 214425,
+        "word": "陈乔恩Alan婚礼",
+        "onboard_time": 1725251901,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214242,
+        "num": 214242,
+        "word": "泫雅龙俊亨婚礼照",
+        "onboard_time": 1725255202,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207866,
+        "num": 207866,
+        "word": "官方通报央视曝光毒枸杞",
+        "onboard_time": 1725255139,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200996,
+        "num": 200996,
+        "word": "阴阳师龙女",
+        "onboard_time": 1725269359,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197843,
+        "num": 197843,
+        "word": "樊振东 你不知道我如今歌坛分量",
+        "onboard_time": 1725271400,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194664,
+        "num": 194664,
+        "word": "标错价格20分钟被薅7000万元",
+        "onboard_time": 1725273500,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193442,
+        "num": 193442,
+        "word": "无期迷途",
+        "onboard_time": 1725272720,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187888,
+        "num": 187888,
+        "word": "TTG季后赛征途开启",
+        "onboard_time": 1725273140,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 50213,
+        "num": 187752,
+        "word": "甘孜惊现金钱豹进城遛弯",
+        "onboard_time": 1725271640,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94566,
+        "num": 187748,
+        "word": "4招分辨毒枸杞",
+        "onboard_time": 1725271579,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187746,
+        "num": 187746,
+        "word": "郑钦文 走过的每一步都算数",
+        "onboard_time": 1725260781,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183150,
+        "num": 183150,
+        "word": "DAY6空降",
+        "onboard_time": 1725272960,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183136,
+        "num": 183136,
+        "word": "毕业两年存款33万女生想裸辞",
+        "onboard_time": 1725258681,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171713,
+        "num": 171713,
+        "word": "iPhone和微信你更离不开谁",
+        "onboard_time": 1725263897,
+        "rank": 44,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 171340,
+        "num": 171340,
+        "word": "夫妻称喝完Blueglass躺了一天才恢复",
+        "onboard_time": 1725260720,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168486,
+        "num": 168486,
+        "word": "谢可寅练得很好但他是黄景瑜",
+        "onboard_time": 1725272118,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157663,
+        "num": 157663,
+        "word": "樊振东不平樊芭莎预告",
+        "onboard_time": 1725260180,
+        "rank": 47,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 147171,
+        "num": 147171,
+        "word": "国台办评恢复台湾地区文旦柚输入",
+        "onboard_time": 1725257239,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 64546,
+        "num": 144158,
+        "word": "长沙一学校新生出现诸多四字姓名",
+        "onboard_time": 1725271640,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2024年中非合作论坛峰会#"
+    }
+  }
+}
