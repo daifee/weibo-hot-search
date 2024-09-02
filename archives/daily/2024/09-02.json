@@ -1,6 +1,6 @@
 {
   "startTime": 1725207925221,
-  "endTime": 1725283544461,
+  "endTime": 1725284234754,
   "band_list": [
     {
       "raw_hot": 5839152,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1756123,
+      "num": 1756123,
+      "word": "如果苹果真的下架了微信的话",
+      "onboard_time": 1725279439,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1713659,
       "num": 1713659,
       "word": "侃爷以为HK是香港 结果是海口",
@@ -105,14 +113,6 @@
       "onboard_time": 1725244819,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1664046,
-      "num": 1664046,
-      "word": "如果苹果真的下架了微信的话",
-      "onboard_time": 1725279439,
-      "rank": 21,
-      "category": "互联网"
     },
     {
       "raw_hot": 1566437,
@@ -161,6 +161,14 @@
       "onboard_time": 1725260720,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1201624,
+      "num": 1201624,
+      "word": "贾一凡vlog",
+      "onboard_time": 1725283401,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1163355,
@@ -235,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 948702,
+      "num": 491494,
+      "word": "乌克兰轰炸俄罗斯一所幼儿园",
+      "onboard_time": 1725280160,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 938068,
       "num": 938068,
       "word": "今天全国大朋友小朋友悲喜相通了",
@@ -257,14 +273,6 @@
       "onboard_time": 1725252264,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 917248,
-      "num": 491494,
-      "word": "乌克兰轰炸俄罗斯一所幼儿园",
-      "onboard_time": 1725280160,
-      "rank": 24,
-      "category": "国外时政"
     },
     {
       "raw_hot": 909633,
@@ -427,14 +435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 758780,
-      "num": 758780,
-      "word": "贾一凡vlog",
-      "onboard_time": 1725283401,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 750022,
       "num": 295137,
       "word": "iPhone和微信你更离不开谁",
@@ -539,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 617575,
+      "num": 617575,
+      "word": "蝴蝶姐姐怀孕",
+      "onboard_time": 1725280160,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 609581,
       "num": 609581,
       "word": "大爷拿走价值3千兔子问你能把我怎样",
@@ -561,14 +569,6 @@
       "onboard_time": 1725203901,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 596685,
-      "num": 596685,
-      "word": "蝴蝶姐姐怀孕",
-      "onboard_time": 1725280160,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 595914,
@@ -795,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 436153,
+      "num": 436153,
+      "word": "花洛莉亚 擦边",
+      "onboard_time": 1725283462,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 421944,
       "num": 421944,
       "word": "郑钦文登场全场欢呼",
@@ -875,6 +883,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 363575,
+      "num": 363575,
+      "word": "普京称家里小孩中文说得很流利",
+      "onboard_time": 1725282020,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 357303,
       "num": 357303,
       "word": "陈奕迅用了樊振东同款球拍",
@@ -889,6 +905,14 @@
       "onboard_time": 1725258681,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 354136,
+      "num": 425578,
+      "word": "野孩子 定档",
+      "onboard_time": 1725283581,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 350545,
@@ -915,20 +939,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 343179,
-      "num": 343179,
-      "word": "普京称家里小孩中文说得很流利",
-      "onboard_time": 1725282020,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 336362,
       "num": 336362,
       "word": "张雨霏 给澳门留点震撼",
       "onboard_time": 1725200541,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 332158,
+      "num": 332158,
+      "word": "iOS版微信已2个月没更新",
+      "onboard_time": 1725280219,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 325219,
@@ -1019,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298877,
+      "num": 298877,
+      "word": "顾客疑没穿内裤试裤子留白色异物",
+      "onboard_time": 1725283763,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298737,
       "num": 298737,
       "word": "郑钦文说再战维基奇会更艰难",
@@ -1043,14 +1075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 294715,
-      "num": 294715,
-      "word": "iOS版微信已2个月没更新",
-      "onboard_time": 1725280219,
-      "rank": 27,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 290292,
       "num": 290292,
       "word": "易烊千玺 五月天演唱会",
@@ -1073,6 +1097,14 @@
       "onboard_time": 1725266120,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284051,
+      "num": 284051,
+      "word": "我的裤子竟然被1000w人围观了",
+      "onboard_time": 1725281662,
+      "rank": 31,
+      "category": "时尚"
     },
     {
       "raw_hot": 280122,
@@ -1155,16 +1187,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 262497,
-      "num": 262497,
-      "word": "我的裤子竟然被1000w人围观了",
-      "onboard_time": 1725281662,
-      "rank": 31,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 261771,
-      "num": 261771,
+      "num": 482097,
       "word": "中国人用石头拉丝织国旗送上月球",
       "onboard_time": 1725279979,
       "rank": 25,
@@ -1467,6 +1491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206029,
+      "num": 206029,
+      "word": "李雯雯 分别前的小花絮",
+      "onboard_time": 1725283999,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204697,
       "num": 204697,
       "word": "乒乓球队听游泳队唱孤勇者的反应",
@@ -1587,6 +1619,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 193591,
+      "num": 193591,
+      "word": "牙膏太菜了",
+      "onboard_time": 1725283999,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 193442,
       "num": 193442,
       "word": "无期迷途",
@@ -1683,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186832,
+      "num": 283752,
+      "word": "宋亚轩刘耀文表情",
+      "onboard_time": 1725283940,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186824,
       "num": 186824,
       "word": "工作越努力越容易发胖是真的吗",
@@ -1721,6 +1769,14 @@
       "onboard_time": 1725282921,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185124,
+      "num": 185124,
+      "word": "你只管善良上天自有衡量",
+      "onboard_time": 1725280941,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 184858,
@@ -1907,6 +1963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 166561,
+      "num": 166561,
+      "word": "腾讯曾回应被追苹果税",
+      "onboard_time": 1725283821,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 165800,
       "num": 165800,
       "word": "高铁盒饭受众群体",
@@ -1969,6 +2033,14 @@
       "onboard_time": 1725241039,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 158105,
+      "num": 158105,
+      "word": "学生使用宿舍空调需交租赁费",
+      "onboard_time": 1725282801,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157958,
@@ -2083,14 +2155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150134,
-      "num": 150134,
-      "word": "花洛莉亚 擦边",
-      "onboard_time": 1725283462,
-      "rank": 45,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 148357,
       "num": 148357,
       "word": "谢瑜说樊振东是我的",
@@ -2107,14 +2171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147876,
-      "num": 147876,
-      "word": "你只管善良上天自有衡量",
-      "onboard_time": 1725280941,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 147477,
       "num": 147477,
       "word": "龙道一 全垫音",
@@ -2129,14 +2185,6 @@
       "onboard_time": 1725205279,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146907,
-      "num": 146907,
-      "word": "学生使用宿舍空调需交租赁费",
-      "onboard_time": 1725282801,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146220,
@@ -2619,6 +2667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56318,
+      "num": 477012,
+      "word": "Ruler尽力了",
+      "onboard_time": 1725283763,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 56027,
       "num": 527015,
       "word": "弟弟为外嫁姐姐争回村民合法权益",
@@ -2632,6 +2688,14 @@
       "word": "买到烂尾楼我们是如何退房的",
       "onboard_time": 1725260660,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55515,
+      "num": 492132,
+      "word": "硫超标枸杞为何打而不绝",
+      "onboard_time": 1725282140,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2748,7 +2812,7 @@
     },
     {
       "raw_hot": 38277,
-      "num": 344173,
+      "num": 350149,
       "word": "周鸿祎试完小鹏MONA后想学车",
       "onboard_time": 1725280160,
       "rank": 29,
@@ -2827,20 +2891,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33571,
-      "num": 492132,
-      "word": "硫超标枸杞为何打而不绝",
-      "onboard_time": 1725282140,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 33336,
       "num": 448911,
       "word": "塔图姆东契奇锡安东游记",
       "onboard_time": 1725257599,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32035,
+      "num": 475864,
+      "word": "律师解读羊毛党薅走小天鹅7000万",
+      "onboard_time": 1725283763,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32026,
@@ -2931,6 +2995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25044,
+      "num": 480616,
+      "word": "多少人来烟台就为了这一口",
+      "onboard_time": 1725282921,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 24686,
       "num": 186819,
       "word": "什么是中女主",
@@ -3019,27 +3091,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16913,
+      "num": 1496602,
+      "word": "中非合作论坛峰会有哪些看点",
+      "onboard_time": 1725282980,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15143,
       "num": 219868,
       "word": "看执法记录仪下的警察日常",
       "onboard_time": 1725275000,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14614,
-      "num": 343730,
-      "word": "多少人来烟台就为了这一口",
-      "onboard_time": 1725282921,
-      "rank": 28,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 14387,
-      "num": 1378759,
-      "word": "中非合作论坛峰会有哪些看点",
-      "onboard_time": 1725282980,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
