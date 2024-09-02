@@ -1,6 +1,6 @@
 {
   "startTime": 1725294442172,
-  "endTime": 1725297502130,
+  "endTime": 1725298516957,
   "band_list": [
     {
       "raw_hot": 2050573,
@@ -435,18 +435,42 @@
       "category": "美食"
     },
     {
-      "raw_hot": 10234,
-      "num": 680258,
-      "word": "中非合作论坛峰会有哪些看点",
-      "onboard_time": 1725282980,
+      "raw_hot": 59226,
+      "num": 59226,
+      "word": "这个喷不了这个是真上过班的",
+      "onboard_time": 1725297193,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 48240,
+      "num": 48240,
+      "word": "跳水队的小狮子只有一条红裤衩",
+      "onboard_time": 1725297613,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 43821,
+      "num": 43821,
+      "word": "王一博出雨林的第一天",
+      "onboard_time": 1725297735,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 13384,
+      "num": 310290,
+      "word": "巴黎残奥那些震撼心灵的细节",
+      "onboard_time": 1725282201,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7923,
-      "num": 310290,
-      "word": "巴黎残奥那些震撼心灵的细节",
-      "onboard_time": 1725282201,
+      "raw_hot": 10234,
+      "num": 680258,
+      "word": "中非合作论坛峰会有哪些看点",
+      "onboard_time": 1725282980,
       "rank": 2,
       "category": "社会新闻"
     }
