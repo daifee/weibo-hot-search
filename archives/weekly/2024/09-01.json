@@ -1,7 +1,15 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725241063609,
+  "endTime": 1725242058576,
   "band_list": [
+    {
+      "raw_hot": 2899571,
+      "num": 2899571,
+      "word": "女儿失踪第178天妈妈退出幼儿园群",
+      "onboard_time": 1725240020,
+      "rank": 3,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2255016,
       "num": 2255016,
@@ -97,14 +105,6 @@
       "onboard_time": 1725163399,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1540892,
-      "num": 1540892,
-      "word": "女儿失踪第178天妈妈退出幼儿园群",
-      "onboard_time": 1725240020,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1510516,
@@ -323,8 +323,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 835807,
-      "num": 835807,
+      "raw_hot": 841289,
+      "num": 841289,
       "word": "残奥会 关注度低",
       "onboard_time": 1725238400,
       "rank": 4,
@@ -417,6 +417,14 @@
       "onboard_time": 1725147015,
       "rank": 32,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 743255,
+      "num": 283149,
+      "word": "容易出汗的人排查一下4种病",
+      "onboard_time": 1725238400,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 721295,
@@ -947,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 425371,
+      "num": 425371,
+      "word": "唐尚珺坦言毕业时近40岁找工作难度大",
+      "onboard_time": 1725239479,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424684,
       "num": 424684,
       "word": "贾一凡vlog香港篇",
@@ -1017,14 +1033,6 @@
       "onboard_time": 1725237500,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 390307,
-      "num": 281074,
-      "word": "容易出汗的人排查一下4种病",
-      "onboard_time": 1725238400,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 386747,
@@ -1155,14 +1163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 318391,
-      "num": 318391,
-      "word": "唐尚珺坦言毕业时近40岁找工作难度大",
-      "onboard_time": 1725239479,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 315147,
       "num": 315147,
       "word": "徐海乔 有效出镜",
@@ -1215,6 +1215,14 @@
       "num": 300950,
       "word": "龙道一rap",
       "onboard_time": 1725196581,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 298737,
+      "num": 298737,
+      "word": "郑钦文说再战维基奇会更艰难",
+      "onboard_time": 1725235999,
       "rank": 22,
       "category": "体育"
     },
@@ -1291,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282286,
+      "num": 282286,
+      "word": "慌张的孙颖莎已读乱回的王楚钦",
+      "onboard_time": 1725240859,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 279996,
       "num": 206819,
       "word": "王楚钦和澳门市民自拍",
@@ -1304,14 +1320,6 @@
       "word": "王雅繁vs巴多萨",
       "onboard_time": 1725203361,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 277649,
-      "num": 277649,
-      "word": "郑钦文说再战维基奇会更艰难",
-      "onboard_time": 1725235999,
-      "rank": 22,
       "category": "体育"
     },
     {
@@ -1563,6 +1571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 222451,
+      "num": 283209,
+      "word": "关晓彤路透",
+      "onboard_time": 1725237139,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221975,
       "num": 631628,
       "word": "天舟八号第一批乘客官宣",
@@ -1811,6 +1827,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 197740,
+      "num": 197740,
+      "word": "深圳原副市长黄敏被双开",
+      "onboard_time": 1725237079,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197454,
       "num": 201597,
       "word": "邓为 倾城之金",
@@ -1841,6 +1865,14 @@
       "onboard_time": 1725154158,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195108,
+      "num": 195108,
+      "word": "苹果华为发布会再度撞档",
+      "onboard_time": 1725241159,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 195106,
@@ -1889,14 +1921,6 @@
       "onboard_time": 1725170419,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 192071,
-      "num": 192071,
-      "word": "关晓彤路透",
-      "onboard_time": 1725237139,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 191547,
@@ -2115,6 +2139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 178249,
+      "num": 178249,
+      "word": "公司发了会骂人的月饼",
+      "onboard_time": 1725240618,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 178002,
       "num": 178002,
       "word": "五集就把祝绪丹给演爽了",
@@ -2129,6 +2161,14 @@
       "onboard_time": 1725174799,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 177274,
+      "num": 177274,
+      "word": "公司发的月饼这是五金馅的吧",
+      "onboard_time": 1725239419,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 177014,
@@ -2153,14 +2193,6 @@
       "onboard_time": 1725205521,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 176716,
-      "num": 176716,
-      "word": "公司发的月饼这是五金馅的吧",
-      "onboard_time": 1725239419,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 175377,
@@ -2435,6 +2467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157444,
+      "num": 157444,
+      "word": "华为官宣新品发布会",
+      "onboard_time": 1725241820,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 157125,
       "num": 157125,
       "word": "游泳队各有各的精彩",
@@ -2489,14 +2529,6 @@
       "onboard_time": 1725194962,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 152163,
-      "num": 152163,
-      "word": "深圳原副市长黄敏被双开",
-      "onboard_time": 1725237079,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152034,
@@ -2600,14 +2632,6 @@
       "word": "潘展乐贴脸开大记者",
       "onboard_time": 1725180620,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 145960,
-      "num": 145960,
-      "word": "慌张的孙颖莎已读乱回的王楚钦",
-      "onboard_time": 1725240859,
-      "rank": 41,
       "category": "体育"
     },
     {
@@ -2987,6 +3011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117996,
+      "num": 117996,
+      "word": "开学 堵车",
+      "onboard_time": 1725238400,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 117801,
       "num": 120322,
       "word": "开学",
@@ -3027,12 +3059,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116322,
+      "num": 116322,
+      "word": "电商低价卖书会谷贱伤农吗",
+      "onboard_time": 1725240438,
+      "rank": 48,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 116160,
       "num": 116160,
       "word": "李雯雯澳门晚宴vlog",
       "onboard_time": 1725185958,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115879,
+      "num": 115879,
+      "word": "潘展乐一定要去一次陈奕迅演唱会",
+      "onboard_time": 1725241999,
+      "rank": 49,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 115738,
