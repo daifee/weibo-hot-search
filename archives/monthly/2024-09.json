@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725287866500,
+  "endTime": 1725290551398,
   "band_list": [
     {
       "raw_hot": 5839152,
@@ -249,6 +249,14 @@
       "onboard_time": 1725194119,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1474809,
+      "num": 1474809,
+      "word": "樊振东王楚钦睡了一路",
+      "onboard_time": 1725286342,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 1442203,
@@ -1019,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 632804,
+      "num": 632804,
+      "word": "刘亦菲登越南国家电视台",
+      "onboard_time": 1725286704,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 630684,
       "num": 630684,
       "word": "郑钦文首盘获胜",
@@ -1081,14 +1097,6 @@
       "onboard_time": 1725202282,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 606833,
-      "num": 606833,
-      "word": "樊振东王楚钦睡了一路",
-      "onboard_time": 1725286342,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 604547,
@@ -1287,6 +1295,14 @@
       "num": 530507,
       "word": "有人已经供暖了有人还在开空调",
       "onboard_time": 1725260839,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 529142,
+      "num": 529142,
+      "word": "凉拌黄瓜火了冰岛黄瓜卖脱销了",
+      "onboard_time": 1725285082,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -1611,6 +1627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 433056,
+      "num": 433056,
+      "word": "孙颖莎结束港澳行发文",
+      "onboard_time": 1725287482,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 432051,
       "num": 432051,
       "word": "杜淳老婆给杜淳发檀健次帅照",
@@ -1681,6 +1705,14 @@
       "onboard_time": 1725150558,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 408504,
+      "num": 474810,
+      "word": "170斤女骑手1年怒减65斤成功爆改",
+      "onboard_time": 1725287902,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 406224,
@@ -1872,14 +1904,6 @@
       "word": "腾讯视频9月大剧片单",
       "onboard_time": 1725252502,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 347560,
-      "num": 365033,
-      "word": "刘亦菲登越南国家电视台",
-      "onboard_time": 1725286704,
-      "rank": 47,
       "category": "剧集"
     },
     {
@@ -2227,6 +2251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277724,
+      "num": 277724,
+      "word": "孙颖莎的vlog呢",
+      "onboard_time": 1725288983,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 277230,
       "num": 343188,
       "word": "把侯明昊房间马赛克给我拿掉",
@@ -2425,6 +2457,14 @@
       "onboard_time": 1725234439,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252082,
+      "num": 252082,
+      "word": "葫芦岛",
+      "onboard_time": 1725287843,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250473,
@@ -2699,6 +2739,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 220177,
+      "num": 253479,
+      "word": "蒋奇明长发",
+      "onboard_time": 1725287063,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218988,
       "num": 443724,
       "word": "湖南一地大量蜉蝣婚飞如下雪",
@@ -2713,14 +2761,6 @@
       "onboard_time": 1725259041,
       "rank": 47,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 218476,
-      "num": 218476,
-      "word": "蒋奇明长发",
-      "onboard_time": 1725287063,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 218302,
@@ -2761,14 +2801,6 @@
       "onboard_time": 1725200301,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 215457,
-      "num": 215457,
-      "word": "凉拌黄瓜火了冰岛黄瓜卖脱销了",
-      "onboard_time": 1725285082,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215210,
@@ -2995,14 +3027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204163,
-      "num": 204163,
-      "word": "孙颖莎结束港澳行发文",
-      "onboard_time": 1725287482,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 203927,
       "num": 203927,
       "word": "成都开学第一天高温红色预警",
@@ -3171,6 +3195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197340,
+      "num": 197340,
+      "word": "KPL",
+      "onboard_time": 1725289461,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 197026,
       "num": 197026,
       "word": "柳舟记",
@@ -3220,7 +3252,7 @@
     },
     {
       "raw_hot": 195278,
-      "num": 212110,
+      "num": 252548,
       "word": "孙颖莎e人属性大爆发",
       "onboard_time": 1725287722,
       "rank": 34,
@@ -3675,6 +3707,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 178959,
+      "num": 178959,
+      "word": "全红婵贴脸开大王楚钦",
+      "onboard_time": 1725288563,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 178860,
+      "num": 178860,
+      "word": "樊振东用霉霉的歌写文案",
+      "onboard_time": 1725289642,
+      "rank": 39,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 178359,
       "num": 178359,
       "word": "韩素希母亲经营非法赌场",
@@ -3761,14 +3809,6 @@
       "onboard_time": 1725265641,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 174948,
-      "num": 174948,
-      "word": "葫芦岛",
-      "onboard_time": 1725287843,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174697,
@@ -4099,6 +4139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160277,
+      "num": 160277,
+      "word": "李兰迪直播",
+      "onboard_time": 1725290122,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160230,
       "num": 160230,
       "word": "罗晋也是风韵犹存",
@@ -4395,6 +4443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148111,
+      "num": 148111,
+      "word": "李泽锋也受不了冷暴力",
+      "onboard_time": 1725290361,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147449,
       "num": 355716,
       "word": "园长收学生6元巧克力被开用力过猛了",
@@ -4417,6 +4473,14 @@
       "onboard_time": 1725205279,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146570,
+      "num": 146570,
+      "word": "张雨霏最快乐的一次出行",
+      "onboard_time": 1725290302,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 146220,
@@ -5451,6 +5515,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 56898,
+      "num": 178154,
+      "word": "15座车塞了26人惊呆交警",
+      "onboard_time": 1725288502,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56768,
       "num": 315394,
       "word": "女子花6.8万种植牙不到3年掉3颗",
@@ -5513,6 +5585,14 @@
       "onboard_time": 1725254902,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53937,
+      "num": 473350,
+      "word": "烟台的鲅鱼饺子个个都是霸王",
+      "onboard_time": 1725288502,
+      "rank": 13,
+      "category": "美食"
     },
     {
       "raw_hot": 53517,
