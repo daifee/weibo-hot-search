@@ -1,18 +1,18 @@
 {
   "startTime": 1725294442172,
-  "endTime": 1725319273138,
+  "endTime": 1725320181710,
   "band_list": [
     {
       "raw_hot": 2050573,
-      "num": 328773,
+      "num": 374014,
       "word": "花洛莉亚 擦边",
       "onboard_time": 1725283462,
       "rank": 10,
       "category": "美妆"
     },
     {
-      "raw_hot": 1238122,
-      "num": 1238122,
+      "raw_hot": 1261285,
+      "num": 1261285,
       "word": "郑钦文遭种族歧视霸气回击",
       "onboard_time": 1725294437,
       "rank": 12,
@@ -27,8 +27,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 926567,
+      "num": 664536,
+      "word": "女子婚后发现丈夫每天吃药告到法院",
+      "onboard_time": 1725284782,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 897961,
-      "num": 383935,
+      "num": 477079,
       "word": "苹果官方回应iPhone16不支持微信",
       "onboard_time": 1725271400,
       "rank": 5,
@@ -43,14 +51,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 815321,
-      "num": 664536,
-      "word": "女子婚后发现丈夫每天吃药告到法院",
-      "onboard_time": 1725284782,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 764809,
       "num": 764809,
       "word": "170斤女骑手1年怒减65斤成功爆改",
@@ -59,8 +59,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 571213,
-      "num": 571213,
+      "raw_hot": 659659,
+      "num": 659659,
       "word": "三只羊合伙人回怼辛巴",
       "onboard_time": 1725284481,
       "rank": 25,
@@ -75,20 +75,36 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 354569,
-      "num": 354569,
-      "word": "刘亦菲登越南国家电视台",
-      "onboard_time": 1725286704,
-      "rank": 4,
-      "category": "剧集"
+      "raw_hot": 426853,
+      "num": 426853,
+      "word": "家长已经从包书皮卷到包书角了",
+      "onboard_time": 1725294198,
+      "rank": 49,
+      "category": "教育"
     },
     {
-      "raw_hot": 349657,
-      "num": 349657,
+      "raw_hot": 376993,
+      "num": 376993,
       "word": "学校回应不买校服保险牛奶不给办入学",
       "onboard_time": 1725291321,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373881,
+      "num": 373881,
+      "word": "抗战胜利79周年",
+      "onboard_time": 1725294557,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 354569,
+      "num": 375394,
+      "word": "刘亦菲登越南国家电视台",
+      "onboard_time": 1725286704,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 348835,
@@ -107,14 +123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 330004,
-      "num": 330004,
-      "word": "抗战胜利79周年",
-      "onboard_time": 1725294557,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 326170,
       "num": 326170,
       "word": "标错价格20分钟被薅7000万元",
@@ -123,12 +131,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 314394,
-      "num": 314394,
-      "word": "家长已经从包书皮卷到包书角了",
-      "onboard_time": 1725294198,
-      "rank": 49,
-      "category": "教育"
+      "raw_hot": 323406,
+      "num": 323406,
+      "word": "武僧秋风车祸货车司机系无证驾驶",
+      "onboard_time": 1725303251,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296782,
@@ -139,12 +147,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 295680,
+      "num": 194978,
+      "word": "一句话让王一博心甘情愿解皮带",
+      "onboard_time": 1725290960,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283712,
       "num": 283712,
       "word": "孙颖莎结束港澳行发文",
       "onboard_time": 1725287482,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 283344,
+      "num": 189924,
+      "word": "原来有一种失眠叫早醒型失眠",
+      "onboard_time": 1725307271,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 280315,
@@ -169,22 +193,6 @@
       "onboard_time": 1725282020,
       "rank": 13,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 264747,
-      "num": 264747,
-      "word": "武僧秋风车祸货车司机系无证驾驶",
-      "onboard_time": 1725303251,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262810,
-      "num": 184834,
-      "word": "一句话让王一博心甘情愿解皮带",
-      "onboard_time": 1725290960,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 257672,
@@ -219,12 +227,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 229314,
-      "num": 119277,
-      "word": "原来有一种失眠叫早醒型失眠",
-      "onboard_time": 1725307271,
-      "rank": 27,
-      "category": "情感"
+      "raw_hot": 217977,
+      "num": 217977,
+      "word": "每个中国人都该记住这一天",
+      "onboard_time": 1725295996,
+      "rank": 14,
+      "category": "社会新闻,国内时政"
     },
     {
       "raw_hot": 214851,
@@ -243,12 +251,20 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 185455,
-      "num": 330262,
+      "raw_hot": 206065,
+      "num": 374064,
       "word": "夫妻吵架一笔笔算账最伤人",
       "onboard_time": 1725285321,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189375,
+      "num": 189375,
+      "word": "古铜色iPhone16Pro再曝光",
+      "onboard_time": 1725318616,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 173385,
@@ -267,12 +283,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 150981,
-      "num": 150981,
-      "word": "每个中国人都该记住这一天",
-      "onboard_time": 1725295996,
-      "rank": 14,
-      "category": "社会新闻,国内时政"
+      "raw_hot": 151974,
+      "num": 198946,
+      "word": "莎莎紧急形象保护",
+      "onboard_time": 1725320059,
+      "rank": 20,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 151031,
+      "num": 208559,
+      "word": "三大只剩SM未发公告",
+      "onboard_time": 1725319276,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 147597,
@@ -331,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133745,
+      "num": 133745,
+      "word": "乌克兰轰炸俄罗斯一所幼儿园",
+      "onboard_time": 1725280160,
+      "rank": 41,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 131454,
       "num": 131454,
       "word": "孙颖莎给我签一下",
@@ -363,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119475,
+      "num": 119475,
+      "word": "女儿第1天上幼儿园中午请假哄爸爸",
+      "onboard_time": 1725318136,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118959,
       "num": 118959,
       "word": "山姆回应矿泉水喝了能生儿子",
@@ -371,20 +411,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117556,
-      "num": 117556,
-      "word": "乌克兰轰炸俄罗斯一所幼儿园",
-      "onboard_time": 1725280160,
-      "rank": 41,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 110819,
       "num": 110819,
       "word": "边水往事 第二季",
       "onboard_time": 1725266901,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110660,
+      "num": 110660,
+      "word": "市监局回应小天鹅网店被薅走7000万",
+      "onboard_time": 1725320117,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105121,
@@ -419,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97816,
+      "num": 97816,
+      "word": "iPhone16Pro或升级相机微距",
+      "onboard_time": 1725318616,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 97782,
       "num": 97782,
       "word": "全红婵贴脸开大王楚钦",
@@ -427,12 +475,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93949,
+      "num": 93949,
+      "word": "外地女孩疑遭伤害街头崩溃大哭",
+      "onboard_time": 1725320059,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91702,
       "num": 99664,
       "word": "WBG战胜JDG",
       "onboard_time": 1725283462,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 89875,
+      "num": 89875,
+      "word": "男子15岁开始喝酒38岁肝衰竭",
+      "onboard_time": 1725302353,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87162,
@@ -459,28 +523,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 78947,
-      "num": 78947,
-      "word": "古铜色iPhone16Pro再曝光",
-      "onboard_time": 1725318616,
-      "rank": 34,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 77300,
-      "num": 77300,
-      "word": "女儿第1天上幼儿园中午请假哄爸爸",
-      "onboard_time": 1725318136,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76379,
-      "num": 76379,
-      "word": "男子15岁开始喝酒38岁肝衰竭",
-      "onboard_time": 1725302353,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 81121,
+      "num": 81121,
+      "word": "王楚钦澳门vlog",
+      "onboard_time": 1725320117,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 71488,
@@ -491,12 +539,20 @@
       "category": "国内时政,社会新闻"
     },
     {
-      "raw_hot": 71072,
-      "num": 71072,
-      "word": "iPhone16Pro或升级相机微距",
-      "onboard_time": 1725318616,
-      "rank": 38,
-      "category": "数码"
+      "raw_hot": 69252,
+      "num": 69252,
+      "word": "这个喷不了这个是真上过班的",
+      "onboard_time": 1725297193,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 66594,
+      "num": 66594,
+      "word": "警方回应秋风姐姐公布车祸责任认定",
+      "onboard_time": 1725319937,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 62082,
@@ -507,12 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59226,
-      "num": 67413,
-      "word": "这个喷不了这个是真上过班的",
-      "onboard_time": 1725297193,
-      "rank": 34,
-      "category": "幽默"
+      "raw_hot": 59919,
+      "num": 133820,
+      "word": "这竟然是西游记仿妆",
+      "onboard_time": 1725309251,
+      "rank": 47,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 57505,
@@ -539,14 +595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51144,
-      "num": 112168,
-      "word": "这竟然是西游记仿妆",
-      "onboard_time": 1725309251,
-      "rank": 47,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 48240,
       "num": 48240,
       "word": "跳水队的小狮子只有一条红裤衩",
@@ -571,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39095,
+      "num": 320572,
+      "word": "85岁爸爸看62岁住院女儿满眼心疼",
+      "onboard_time": 1725319276,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36066,
       "num": 107698,
       "word": "妈妈回应鼓励独臂儿子面对新同学",
@@ -587,8 +643,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23378,
-      "num": 473773,
+      "raw_hot": 27856,
+      "num": 589337,
       "word": "巴黎残奥那些震撼心灵的细节",
       "onboard_time": 1725282201,
       "rank": 2,
