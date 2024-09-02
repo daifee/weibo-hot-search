@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725305786802,
+  "endTime": 1725308592868,
   "band_list": [
     {
       "raw_hot": 5839152,
@@ -5339,6 +5339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90051,
+      "num": 90051,
+      "word": "武僧秋风车祸货车司机系无证驾驶",
+      "onboard_time": 1725303251,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87162,
       "num": 99604,
       "word": "JDG无缘S14",
@@ -6291,19 +6299,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26055,
+      "num": 26055,
+      "word": "原来有一种失眠叫早醒型失眠",
+      "onboard_time": 1725307271,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 25893,
       "num": 453362,
       "word": "食品安全容不下一丝苟且",
       "onboard_time": 1725275061,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25601,
-      "num": 58584,
-      "word": "武僧秋风车祸货车司机系无证驾驶",
-      "onboard_time": 1725303251,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -6537,6 +6545,14 @@
       "onboard_time": 1725128293,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 10558,
+      "num": 35727,
+      "word": "退役军人跪地求婚2次被女友托起",
+      "onboard_time": 1725306191,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10047,
