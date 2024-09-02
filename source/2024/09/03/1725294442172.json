@@ -1,0 +1,410 @@
+{
+  "runTime": 1725294442172,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 878139,
+        "num": 935571,
+        "word": "樊振东王楚钦睡了一路",
+        "onboard_time": 1725286342,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 764809,
+        "num": 764809,
+        "word": "170斤女骑手1年怒减65斤成功爆改",
+        "onboard_time": 1725287902,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10234,
+        "num": 680258,
+        "word": "中非合作论坛峰会有哪些看点",
+        "onboard_time": 1725282980,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664536,
+        "num": 664536,
+        "word": "女子婚后发现丈夫每天吃药告到法院",
+        "onboard_time": 1725284782,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354569,
+        "num": 354569,
+        "word": "刘亦菲登越南国家电视台",
+        "onboard_time": 1725286704,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 897961,
+        "num": 350534,
+        "word": "苹果官方回应iPhone16不支持微信",
+        "onboard_time": 1725271400,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 458292,
+        "num": 350400,
+        "word": "如果苹果真的下架了微信的话",
+        "onboard_time": 1725279439,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 326170,
+        "num": 326170,
+        "word": "标错价格20分钟被薅7000万元",
+        "onboard_time": 1725273500,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276108,
+        "num": 300554,
+        "word": "野孩子 定档",
+        "onboard_time": 1725283581,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 254831,
+        "num": 291438,
+        "word": "学校回应不买校服保险牛奶不给办入学",
+        "onboard_time": 1725291321,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2050573,
+        "num": 290965,
+        "word": "花洛莉亚 擦边",
+        "onboard_time": 1725283462,
+        "rank": 10,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 283712,
+        "num": 283712,
+        "word": "孙颖莎结束港澳行发文",
+        "onboard_time": 1725287482,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280315,
+        "num": 280315,
+        "word": "凉拌黄瓜火了冰岛黄瓜卖脱销了",
+        "onboard_time": 1725285082,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266500,
+        "num": 266500,
+        "word": "普京称家里小孩中文说得很流利",
+        "onboard_time": 1725282020,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 260156,
+        "num": 260156,
+        "word": "李雯雯 分别前的小花絮",
+        "onboard_time": 1725283999,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255360,
+        "num": 255360,
+        "word": "谢娜带娃看张杰演唱会",
+        "onboard_time": 1725290781,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 251096,
+        "num": 251096,
+        "word": "李庚希影后手机壳",
+        "onboard_time": 1725276380,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 234525,
+        "num": 234525,
+        "word": "贾一凡vlog",
+        "onboard_time": 1725283401,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214851,
+        "num": 214851,
+        "word": "欧阳娜娜 内娱第一留子",
+        "onboard_time": 1725272359,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209599,
+        "num": 209599,
+        "word": "樊振东用霉霉的歌写文案",
+        "onboard_time": 1725289642,
+        "rank": 19,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 1113821,
+        "num": 203330,
+        "word": "顾客疑没穿内裤试裤子留白色异物",
+        "onboard_time": 1725283763,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348835,
+        "num": 199652,
+        "word": "身体缺什么 嘴巴早就知道",
+        "onboard_time": 1725277520,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186674,
+        "num": 186674,
+        "word": "广西一地封山搜捕致5死命案嫌犯",
+        "onboard_time": 1725291741,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184834,
+        "num": 184834,
+        "word": "一句话让王一博心甘情愿解皮带",
+        "onboard_time": 1725290960,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173385,
+        "num": 173385,
+        "word": "葫芦岛",
+        "onboard_time": 1725287843,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161856,
+        "num": 161856,
+        "word": "三只羊合伙人回怼辛巴",
+        "onboard_time": 1725284481,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147597,
+        "num": 147597,
+        "word": "蝴蝶姐姐怀孕",
+        "onboard_time": 1725280160,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144147,
+        "num": 144147,
+        "word": "蒋奇明长发",
+        "onboard_time": 1725287063,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134223,
+        "num": 144110,
+        "word": "李泽锋也受不了冷暴力",
+        "onboard_time": 1725290361,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98344,
+        "num": 144092,
+        "word": "阿黛尔宣布无限期退出歌坛",
+        "onboard_time": 1725272960,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145939,
+        "num": 144088,
+        "word": "猫抓板 虫子",
+        "onboard_time": 1725291980,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144080,
+        "num": 144080,
+        "word": "郑钦文口型",
+        "onboard_time": 1725273739,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141812,
+        "num": 141812,
+        "word": "教育局回应成都开学遇高温",
+        "onboard_time": 1725291679,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140750,
+        "num": 140750,
+        "word": "家长称没购买记录学校不办理入学登记",
+        "onboard_time": 1725291442,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136713,
+        "num": 136713,
+        "word": "iOS版微信已2个月没更新",
+        "onboard_time": 1725280219,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 133137,
+        "num": 133137,
+        "word": "上海徐汇中学通报学生上体锻课晕倒",
+        "onboard_time": 1725293899,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131454,
+        "num": 131454,
+        "word": "孙颖莎给我签一下",
+        "onboard_time": 1725285563,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125309,
+        "num": 125309,
+        "word": "aespa空降",
+        "onboard_time": 1725285022,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124307,
+        "num": 124307,
+        "word": "王楚钦结束港澳行发文",
+        "onboard_time": 1725285321,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122419,
+        "num": 122419,
+        "word": "孙颖莎的vlog呢",
+        "onboard_time": 1725288983,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118959,
+        "num": 118959,
+        "word": "山姆回应矿泉水喝了能生儿子",
+        "onboard_time": 1725280999,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112719,
+        "num": 112719,
+        "word": "乌克兰轰炸俄罗斯一所幼儿园",
+        "onboard_time": 1725280160,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 110819,
+        "num": 110819,
+        "word": "边水往事 第二季",
+        "onboard_time": 1725266901,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108078,
+        "num": 108078,
+        "word": "夫妻吵架一笔笔算账最伤人",
+        "onboard_time": 1725285321,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105121,
+        "num": 105121,
+        "word": "RNG 散是满天星",
+        "onboard_time": 1725286523,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99689,
+        "num": 99689,
+        "word": "Ador删除newjeans花絮视频",
+        "onboard_time": 1725282921,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91702,
+        "num": 99664,
+        "word": "WBG战胜JDG",
+        "onboard_time": 1725283462,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82925,
+        "num": 99630,
+        "word": "今年的月饼已经离谱到这种程度了吗",
+        "onboard_time": 1725274700,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 80051,
+        "num": 99604,
+        "word": "JDG无缘S14",
+        "onboard_time": 1725293538,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78301,
+        "num": 99592,
+        "word": "家长已经从包书皮卷到包书角了",
+        "onboard_time": 1725294198,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同南非总统拉马福萨会谈#"
+    }
+  }
+}

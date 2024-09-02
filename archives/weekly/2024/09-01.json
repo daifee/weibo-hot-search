@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725291367130,
+  "endTime": 1725294442172,
   "band_list": [
     {
       "raw_hot": 5839152,
@@ -811,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 764809,
+      "num": 764809,
+      "word": "170斤女骑手1年怒减65斤成功爆改",
+      "onboard_time": 1725287902,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 760718,
       "num": 760718,
       "word": "阿黛尔宣布无限期退出歌坛",
@@ -1009,14 +1017,6 @@
       "onboard_time": 1725186618,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 648800,
-      "num": 648800,
-      "word": "170斤女骑手1年怒减65斤成功爆改",
-      "onboard_time": 1725287902,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 641305,
@@ -2443,6 +2443,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 255360,
+      "num": 255360,
+      "word": "谢娜带娃看张杰演唱会",
+      "onboard_time": 1725290781,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 254831,
+      "num": 291438,
+      "word": "学校回应不买校服保险牛奶不给办入学",
+      "onboard_time": 1725291321,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254266,
       "num": 254266,
       "word": "全红婵贴脸开大干饭哥",
@@ -2891,6 +2907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209599,
+      "num": 209599,
+      "word": "樊振东用霉霉的歌写文案",
+      "onboard_time": 1725289642,
+      "rank": 39,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 208226,
       "num": 326466,
       "word": "很难不中卢昱晓的美人计",
@@ -3307,14 +3331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193916,
-      "num": 193916,
-      "word": "谢娜带娃看张杰演唱会",
-      "onboard_time": 1725290781,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 193829,
       "num": 193829,
       "word": "花叶姐妹单飞不解散",
@@ -3353,14 +3369,6 @@
       "onboard_time": 1725170419,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 191912,
-      "num": 191912,
-      "word": "樊振东用霉霉的歌写文案",
-      "onboard_time": 1725289642,
-      "rank": 39,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 191891,
@@ -3523,6 +3531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186674,
+      "num": 186674,
+      "word": "广西一地封山搜捕致5死命案嫌犯",
+      "onboard_time": 1725291741,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186243,
       "num": 186243,
       "word": "曹璐恩静cha了可怜",
@@ -3593,6 +3609,14 @@
       "onboard_time": 1725258920,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184834,
+      "num": 184834,
+      "word": "一句话让王一博心甘情愿解皮带",
+      "onboard_time": 1725290960,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 183689,
@@ -4163,14 +4187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160270,
-      "num": 160270,
-      "word": "一句话让王一博心甘情愿解皮带",
-      "onboard_time": 1725290960,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 160230,
       "num": 160230,
       "word": "罗晋也是风韵犹存",
@@ -4523,6 +4539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145939,
+      "num": 144088,
+      "word": "猫抓板 虫子",
+      "onboard_time": 1725291980,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145646,
       "num": 145646,
       "word": "昌雅妮拍立得",
@@ -4593,6 +4617,22 @@
       "onboard_time": 1725176118,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141812,
+      "num": 141812,
+      "word": "教育局回应成都开学遇高温",
+      "onboard_time": 1725291679,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140750,
+      "num": 140750,
+      "word": "家长称没购买记录学校不办理入学登记",
+      "onboard_time": 1725291442,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 140522,
@@ -4713,6 +4753,14 @@
       "onboard_time": 1725276799,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133137,
+      "num": 133137,
+      "word": "上海徐汇中学通报学生上体锻课晕倒",
+      "onboard_time": 1725293899,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132254,
@@ -4913,14 +4961,6 @@
       "onboard_time": 1725185898,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 122186,
-      "num": 122186,
-      "word": "学校回应不买校服保险牛奶不给办入学",
-      "onboard_time": 1725291321,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121562,
@@ -5299,12 +5339,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80051,
+      "num": 99604,
+      "word": "JDG无缘S14",
+      "onboard_time": 1725293538,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 78534,
       "num": 78534,
       "word": "1米9的孙丞潇轻松下腰到1米1",
       "onboard_time": 1725229513,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 78301,
+      "num": 99592,
+      "word": "家长已经从包书皮卷到包书角了",
+      "onboard_time": 1725294198,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 76929,
