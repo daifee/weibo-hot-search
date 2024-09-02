@@ -1,21 +1,21 @@
 {
   "startTime": 1725207925221,
-  "endTime": 1725258620361,
+  "endTime": 1725259427350,
   "band_list": [
+    {
+      "raw_hot": 5839152,
+      "num": 5839152,
+      "word": "郑钦文进美网8强",
+      "onboard_time": 1725258021,
+      "rank": 1,
+      "category": "体育"
+    },
     {
       "raw_hot": 3889716,
       "num": 3889716,
       "word": "郑钦文vs维基奇",
       "onboard_time": 1725243079,
       "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 3240093,
-      "num": 3240093,
-      "word": "郑钦文进美网8强",
-      "onboard_time": 1725258021,
-      "rank": 1,
       "category": "体育"
     },
     {
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 486091,
+      "num": 486091,
+      "word": "马龙玩偶",
+      "onboard_time": 1725258620,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 479267,
       "num": 479267,
       "word": "王一博和老雪",
@@ -448,6 +456,14 @@
       "word": "郑钦文登场全场欢呼",
       "onboard_time": 1725249680,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 418355,
+      "num": 314907,
+      "word": "萨巴伦卡",
+      "onboard_time": 1725258860,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -507,6 +523,14 @@
       "category": "演出,体育"
     },
     {
+      "raw_hot": 355775,
+      "num": 355775,
+      "word": "国台办评恢复台湾地区文旦柚输入",
+      "onboard_time": 1725257239,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 348559,
       "num": 353815,
       "word": "腾讯视频9月大剧片单",
@@ -529,14 +553,6 @@
       "onboard_time": 1725200541,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 335720,
-      "num": 335720,
-      "word": "国台办评恢复台湾地区文旦柚输入",
-      "onboard_time": 1725257239,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 325219,
@@ -577,6 +593,14 @@
       "onboard_time": 1725233059,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 306870,
+      "num": 655973,
+      "word": "官方通报央视曝光毒枸杞",
+      "onboard_time": 1725255139,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 306418,
@@ -635,6 +659,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 283669,
+      "num": 283669,
+      "word": "毕业两年存款33万女生想裸辞",
+      "onboard_time": 1725258681,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 273946,
+      "num": 273946,
+      "word": "我害怕老公的双胞胎哥哥是有理由的",
+      "onboard_time": 1725255981,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 272127,
       "num": 272127,
       "word": "干饭哥在练混双了",
@@ -643,20 +683,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 266706,
-      "num": 266706,
-      "word": "我害怕老公的双胞胎哥哥是有理由的",
-      "onboard_time": 1725255981,
-      "rank": 33,
-      "category": "幽默"
+      "raw_hot": 263502,
+      "num": 263502,
+      "word": "枸杞 硫磺",
+      "onboard_time": 1725258920,
+      "rank": 40,
+      "category": "美食"
     },
     {
-      "raw_hot": 262451,
-      "num": 655973,
-      "word": "官方通报央视曝光毒枸杞",
-      "onboard_time": 1725255139,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 262796,
+      "num": 262796,
+      "word": "孙颖莎试吃常园手做月饼的反应",
+      "onboard_time": 1725256041,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 260816,
@@ -673,6 +713,22 @@
       "onboard_time": 1725253761,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 260456,
+      "num": 260456,
+      "word": "大熊猫和花和叶遭恶意投诉分开",
+      "onboard_time": 1725257541,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259627,
+      "num": 259627,
+      "word": "梦之队选房间急死了",
+      "onboard_time": 1725258681,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 259412,
@@ -723,6 +779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 241321,
+      "num": 241321,
+      "word": "维基奇又扔拍子了",
+      "onboard_time": 1725258801,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240559,
       "num": 240559,
       "word": "孙杨直播",
@@ -755,20 +819,12 @@
       "category": "社会新闻,互联网"
     },
     {
-      "raw_hot": 220367,
-      "num": 220367,
-      "word": "孙颖莎试吃常园手做月饼的反应",
-      "onboard_time": 1725256041,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 217666,
-      "num": 217666,
-      "word": "大熊猫和花和叶遭恶意投诉分开",
-      "onboard_time": 1725257541,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 217402,
+      "num": 327154,
+      "word": "令人心动的offer6官宣",
+      "onboard_time": 1725255799,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 212906,
@@ -785,6 +841,14 @@
       "onboard_time": 1725198920,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211058,
+      "num": 324051,
+      "word": "欧弟为父亲还债20年",
+      "onboard_time": 1725258979,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 209780,
@@ -827,6 +891,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 204402,
+      "num": 204402,
+      "word": "郑钦文战胜维基奇",
+      "onboard_time": 1725259221,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202030,
       "num": 202030,
       "word": "泳队 告六人",
@@ -835,12 +907,12 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 201884,
-      "num": 247705,
-      "word": "令人心动的offer6官宣",
-      "onboard_time": 1725255799,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 201173,
+      "num": 201173,
+      "word": "时尚芭莎",
+      "onboard_time": 1725259041,
+      "rank": 47,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 200447,
@@ -881,6 +953,14 @@
       "onboard_time": 1725250700,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 195199,
+      "num": 195199,
+      "word": "郑钦文晋级美网八强",
+      "onboard_time": 1725258979,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 194941,
@@ -1219,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145768,
+      "num": 443724,
+      "word": "湖南一地大量蜉蝣婚飞如下雪",
+      "onboard_time": 1725256520,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145521,
       "num": 145521,
       "word": "我15号的航班关你14号什么事",
@@ -1369,14 +1457,6 @@
       "onboard_time": 1725179360,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 118375,
-      "num": 443724,
-      "word": "湖南一地大量蜉蝣婚飞如下雪",
-      "onboard_time": 1725256520,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117996,
@@ -1547,6 +1627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76625,
+      "num": 472672,
+      "word": "国内校服市场超九成都是小工厂",
+      "onboard_time": 1725257482,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69892,
       "num": 69892,
       "word": "全员瑕疵皮的国产剧来了",
@@ -1577,6 +1665,14 @@
       "onboard_time": 1725232696,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58556,
+      "num": 453953,
+      "word": "彭昱畅的嘴也是让人害怕的程度",
+      "onboard_time": 1725258083,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 58444,
@@ -1624,14 +1720,6 @@
       "word": "台北法院凌晨裁定柯文哲当庭释放",
       "onboard_time": 1725246439,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48718,
-      "num": 472672,
-      "word": "国内校服市场超九成都是小工厂",
-      "onboard_time": 1725257482,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1683,6 +1771,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 36718,
+      "num": 1578601,
+      "word": "新学期的打开方式五花八门",
+      "onboard_time": 1725249500,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36266,
+      "num": 320029,
+      "word": "开学综合征的典型表现",
+      "onboard_time": 1725258739,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35936,
       "num": 513241,
       "word": "公司以免费旅游骗老年人投资1.5亿",
@@ -1692,19 +1796,11 @@
     },
     {
       "raw_hot": 33336,
-      "num": 331038,
+      "num": 335787,
       "word": "塔图姆东契奇锡安东游记",
       "onboard_time": 1725257599,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 32590,
-      "num": 1578601,
-      "word": "新学期的打开方式五花八门",
-      "onboard_time": 1725249500,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32026,
@@ -1747,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29027,
+      "num": 610384,
+      "word": "互联网黄牛犹如吸血的牛虻",
+      "onboard_time": 1725258920,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23927,
       "num": 429397,
       "word": "沈腾演我一边买药一边算账的样子",
@@ -1769,14 +1873,6 @@
       "onboard_time": 1725213974,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19909,
-      "num": 453953,
-      "word": "彭昱畅的嘴也是让人害怕的程度",
-      "onboard_time": 1725258083,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 19827,
@@ -1811,12 +1907,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 11799,
+      "num": 292959,
+      "word": "暑期档一夜回到十年前",
+      "onboard_time": 1725258620,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 10047,
       "num": 292580,
       "word": "专家说短期洪水不足使沙漠变绿洲",
       "onboard_time": 1725255082,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7018,
+      "num": 190444,
+      "word": "鸟鸟说家庭和事业我2选0",
+      "onboard_time": 1725259401,
+      "rank": 49,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

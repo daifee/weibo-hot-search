@@ -1,21 +1,21 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725258620361,
+  "endTime": 1725259427350,
   "band_list": [
+    {
+      "raw_hot": 5839152,
+      "num": 5839152,
+      "word": "郑钦文进美网8强",
+      "onboard_time": 1725258021,
+      "rank": 1,
+      "category": "体育"
+    },
     {
       "raw_hot": 3889716,
       "num": 3889716,
       "word": "郑钦文vs维基奇",
       "onboard_time": 1725243079,
       "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 3240093,
-      "num": 3240093,
-      "word": "郑钦文进美网8强",
-      "onboard_time": 1725258021,
-      "rank": 1,
       "category": "体育"
     },
     {
@@ -1075,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 486091,
+      "num": 486091,
+      "word": "马龙玩偶",
+      "onboard_time": 1725258620,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 479267,
       "num": 479267,
       "word": "王一博和老雪",
@@ -1243,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 418355,
+      "num": 314907,
+      "word": "萨巴伦卡",
+      "onboard_time": 1725258860,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 414416,
       "num": 414416,
       "word": "为什么出远门时要在冰箱放一枚硬币",
@@ -1379,6 +1395,14 @@
       "category": "演出,体育"
     },
     {
+      "raw_hot": 355775,
+      "num": 355775,
+      "word": "国台办评恢复台湾地区文旦柚输入",
+      "onboard_time": 1725257239,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 348559,
       "num": 353815,
       "word": "腾讯视频9月大剧片单",
@@ -1409,14 +1433,6 @@
       "onboard_time": 1725095659,
       "rank": 17,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 335720,
-      "num": 335720,
-      "word": "国台办评恢复台湾地区文旦柚输入",
-      "onboard_time": 1725257239,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 330943,
@@ -1497,6 +1513,14 @@
       "onboard_time": 1725233059,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 306870,
+      "num": 655973,
+      "word": "官方通报央视曝光毒枸杞",
+      "onboard_time": 1725255139,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 306418,
@@ -1651,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283669,
+      "num": 283669,
+      "word": "毕业两年存款33万女生想裸辞",
+      "onboard_time": 1725258681,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 279996,
       "num": 206819,
       "word": "王楚钦和澳门市民自拍",
@@ -1673,6 +1705,14 @@
       "onboard_time": 1725152298,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 273946,
+      "num": 273946,
+      "word": "我害怕老公的双胞胎哥哥是有理由的",
+      "onboard_time": 1725255981,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 273782,
@@ -1699,12 +1739,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 266706,
-      "num": 266706,
-      "word": "我害怕老公的双胞胎哥哥是有理由的",
-      "onboard_time": 1725255981,
-      "rank": 33,
-      "category": "幽默"
+      "raw_hot": 263502,
+      "num": 263502,
+      "word": "枸杞 硫磺",
+      "onboard_time": 1725258920,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 263334,
@@ -1715,12 +1755,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 262451,
-      "num": 655973,
-      "word": "官方通报央视曝光毒枸杞",
-      "onboard_time": 1725255139,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 262796,
+      "num": 262796,
+      "word": "孙颖莎试吃常园手做月饼的反应",
+      "onboard_time": 1725256041,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 260816,
@@ -1739,12 +1779,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260456,
+      "num": 260456,
+      "word": "大熊猫和花和叶遭恶意投诉分开",
+      "onboard_time": 1725257541,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259971,
       "num": 329047,
       "word": "陈昊宇新剧",
       "onboard_time": 1725160218,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 259627,
+      "num": 259627,
+      "word": "梦之队选房间急死了",
+      "onboard_time": 1725258681,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 259412,
@@ -1856,6 +1912,14 @@
       "word": "樊振东潘展乐坐着打羽毛球",
       "onboard_time": 1725178518,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 241321,
+      "num": 241321,
+      "word": "维基奇又扔拍子了",
+      "onboard_time": 1725258801,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -2011,14 +2075,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 220367,
-      "num": 220367,
-      "word": "孙颖莎试吃常园手做月饼的反应",
-      "onboard_time": 1725256041,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 218302,
       "num": 218302,
       "word": "原神5.0版本",
@@ -2035,20 +2091,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 217666,
-      "num": 217666,
-      "word": "大熊猫和花和叶遭恶意投诉分开",
-      "onboard_time": 1725257541,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217528,
       "num": 217528,
       "word": "9岁男孩骑车腹部被车把手插入",
       "onboard_time": 1725181400,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217402,
+      "num": 327154,
+      "word": "令人心动的offer6官宣",
+      "onboard_time": 1725255799,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 216298,
@@ -2080,6 +2136,14 @@
       "word": "王俊凯邓为于适生图",
       "onboard_time": 1725203963,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 211058,
+      "num": 324051,
+      "word": "欧弟为父亲还债20年",
+      "onboard_time": 1725258979,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -2195,6 +2259,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 204402,
+      "num": 204402,
+      "word": "郑钦文战胜维基奇",
+      "onboard_time": 1725259221,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203825,
       "num": 272359,
       "word": "成毅打戏路透",
@@ -2235,14 +2307,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 201884,
-      "num": 247705,
-      "word": "令人心动的offer6官宣",
-      "onboard_time": 1725255799,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 201574,
       "num": 201574,
       "word": "宋亚轩 现在就出发2",
@@ -2265,6 +2329,14 @@
       "onboard_time": 1725155479,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 201173,
+      "num": 201173,
+      "word": "时尚芭莎",
+      "onboard_time": 1725259041,
+      "rank": 47,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 200766,
@@ -2369,6 +2441,14 @@
       "onboard_time": 1725154158,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195199,
+      "num": 195199,
+      "word": "郑钦文晋级美网八强",
+      "onboard_time": 1725258979,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 195106,
@@ -3291,6 +3371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145768,
+      "num": 443724,
+      "word": "湖南一地大量蜉蝣婚飞如下雪",
+      "onboard_time": 1725256520,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145581,
       "num": 145581,
       "word": "口吃亲历者评价王俊凯演的周正",
@@ -3699,14 +3787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118375,
-      "num": 443724,
-      "word": "湖南一地大量蜉蝣婚飞如下雪",
-      "onboard_time": 1725256520,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117996,
       "num": 117996,
       "word": "开学 堵车",
@@ -4027,6 +4107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76625,
+      "num": 472672,
+      "word": "国内校服市场超九成都是小工厂",
+      "onboard_time": 1725257482,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74929,
       "num": 333362,
       "word": "陈少熙太喜欢付航了",
@@ -4163,6 +4251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58556,
+      "num": 453953,
+      "word": "彭昱畅的嘴也是让人害怕的程度",
+      "onboard_time": 1725258083,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 58444,
       "num": 58444,
       "word": "曼联0比3利物浦",
@@ -4264,14 +4360,6 @@
       "word": "台北法院凌晨裁定柯文哲当庭释放",
       "onboard_time": 1725246439,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48718,
-      "num": 472672,
-      "word": "国内校服市场超九成都是小工厂",
-      "onboard_time": 1725257482,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -4403,6 +4491,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 36718,
+      "num": 1578601,
+      "word": "新学期的打开方式五花八门",
+      "onboard_time": 1725249500,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36266,
+      "num": 320029,
+      "word": "开学综合征的典型表现",
+      "onboard_time": 1725258739,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35936,
       "num": 513241,
       "word": "公司以免费旅游骗老年人投资1.5亿",
@@ -4468,19 +4572,11 @@
     },
     {
       "raw_hot": 33336,
-      "num": 331038,
+      "num": 335787,
       "word": "塔图姆东契奇锡安东游记",
       "onboard_time": 1725257599,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 32590,
-      "num": 1578601,
-      "word": "新学期的打开方式五花八门",
-      "onboard_time": 1725249500,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32026,
@@ -4552,6 +4648,14 @@
       "word": "欧莱雅与乡村女性的稻田秀场",
       "onboard_time": 1725246258,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29027,
+      "num": 610384,
+      "word": "互联网黄牛犹如吸血的牛虻",
+      "onboard_time": 1725258920,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -4667,14 +4771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19909,
-      "num": 453953,
-      "word": "彭昱畅的嘴也是让人害怕的程度",
-      "onboard_time": 1725258083,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 19827,
       "num": 51049,
       "word": "广西军训刷到就会被硬控",
@@ -4723,6 +4819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 11799,
+      "num": 292959,
+      "word": "暑期档一夜回到十年前",
+      "onboard_time": 1725258620,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 10951,
       "num": 158560,
       "word": "民警帮女子找到离家12年的弟弟",
@@ -4737,6 +4841,14 @@
       "onboard_time": 1725255082,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7018,
+      "num": 190444,
+      "word": "鸟鸟说家庭和事业我2选0",
+      "onboard_time": 1725259401,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 5772,
