@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/03 04:23:12
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/03 04:36:47
 </p>
 </blockquote>
 <p>
@@ -4005,6 +4005,12 @@ LCK季后赛（热度：122258）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%83%A7%E7%A7%8B%E9%A3%8E%E8%BD%A6%E7%A5%B8%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E7%B3%BB%E6%97%A0%E8%AF%81%E9%A9%BE%E9%A9%B6%23" target="weibo">
+武僧秋风车祸货车司机系无证驾驶（热度：93834）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 檀健次演唱会（热度：91120）
 </a>
@@ -4013,12 +4019,6 @@ LCK季后赛（热度：122258）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83AI%E8%89%B2%E6%83%85%E6%8D%A2%E8%84%B8%E5%8F%97%E5%AE%B3%E8%80%85%E4%B8%AD%E4%B8%80%E5%8D%8A%E6%98%AF%E9%9F%A9%E5%9B%BD%E4%BA%BA%23" target="weibo">
 全球AI色情换脸受害者中一半是韩国人（热度：90431）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%83%A7%E7%A7%8B%E9%A3%8E%E8%BD%A6%E7%A5%B8%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E7%B3%BB%E6%97%A0%E8%AF%81%E9%A9%BE%E9%A9%B6%23" target="weibo">
-武僧秋风车祸货车司机系无证驾驶（热度：90051）
 </a>
 </li>
 
@@ -4623,6 +4623,12 @@ SKII新品成分表第一位（热度：43996）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%9C%89%E4%B8%80%E7%A7%8D%E5%A4%B1%E7%9C%A0%E5%8F%AB%E6%97%A9%E9%86%92%E5%9E%8B%E5%A4%B1%E7%9C%A0%23" target="weibo">
+原来有一种失眠叫早醒型失眠（热度：32824）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E8%A7%A3%E8%AF%BB%E7%BE%8A%E6%AF%9B%E5%85%9A%E8%96%85%E8%B5%B0%E5%B0%8F%E5%A4%A9%E9%B9%857000%E4%B8%87%23" target="weibo">
 律师解读羊毛党薅走小天鹅7000万（热度：32035）
 </a>
@@ -4733,12 +4739,6 @@ SKII新品成分表第一位（热度：43996）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E4%BB%AC%E9%9C%80%E8%A6%81%E6%9B%B4%E5%A4%9A%E5%85%83%E7%9A%84%E8%AF%BE%E9%97%B4%E5%AE%89%E6%8E%92%23" target="weibo">
 孩子们需要更多元的课间安排（热度：26442）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%9C%89%E4%B8%80%E7%A7%8D%E5%A4%B1%E7%9C%A0%E5%8F%AB%E6%97%A9%E9%86%92%E5%9E%8B%E5%A4%B1%E7%9C%A0%23" target="weibo">
-原来有一种失眠叫早醒型失眠（热度：26055）
 </a>
 </li>
 

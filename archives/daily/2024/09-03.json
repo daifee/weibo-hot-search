@@ -1,6 +1,6 @@
 {
   "startTime": 1725294442172,
-  "endTime": 1725308592868,
+  "endTime": 1725309407654,
   "band_list": [
     {
       "raw_hot": 2050573,
@@ -403,20 +403,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93834,
+      "num": 93834,
+      "word": "武僧秋风车祸货车司机系无证驾驶",
+      "onboard_time": 1725303251,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91702,
       "num": 99664,
       "word": "WBG战胜JDG",
       "onboard_time": 1725283462,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 90051,
-      "num": 90051,
-      "word": "武僧秋风车祸货车司机系无证驾驶",
-      "onboard_time": 1725303251,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87162,
@@ -499,20 +499,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32824,
+      "num": 32824,
+      "word": "原来有一种失眠叫早醒型失眠",
+      "onboard_time": 1725307271,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 31857,
       "num": 31857,
       "word": "男子15岁开始喝酒38岁肝衰竭",
       "onboard_time": 1725302353,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26055,
-      "num": 26055,
-      "word": "原来有一种失眠叫早醒型失眠",
-      "onboard_time": 1725307271,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 20887,
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 10558,
-      "num": 35727,
+      "num": 53705,
       "word": "退役军人跪地求婚2次被女友托起",
       "onboard_time": 1725306191,
       "rank": 18,
