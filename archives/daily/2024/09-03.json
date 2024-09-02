@@ -1,6 +1,6 @@
 {
   "startTime": 1725294442172,
-  "endTime": 1725311975213,
+  "endTime": 1725312908154,
   "band_list": [
     {
       "raw_hot": 2050573,
@@ -291,6 +291,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 135732,
+      "num": 35000,
+      "word": "原来有一种失眠叫早醒型失眠",
+      "onboard_time": 1725307271,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134223,
       "num": 144110,
       "word": "李泽锋也受不了冷暴力",
@@ -329,14 +337,6 @@
       "onboard_time": 1725288983,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119769,
-      "num": 32824,
-      "word": "原来有一种失眠叫早醒型失眠",
-      "onboard_time": 1725307271,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 118959,
@@ -491,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34966,
+      "num": 34966,
+      "word": "校方回应学生宿舍用空调需交租赁费",
+      "onboard_time": 1725310031,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33345,
       "num": 33345,
       "word": "致敬中国人民的伟大胜利",
@@ -515,19 +523,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23816,
-      "num": 23816,
+      "raw_hot": 27454,
+      "num": 27454,
       "word": "山东初一男女身高差惊呆网友",
       "onboard_time": 1725309971,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22275,
-      "num": 31749,
-      "word": "校方回应学生宿舍用空调需交租赁费",
-      "onboard_time": 1725310031,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -547,11 +547,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17972,
+      "num": 20777,
+      "word": "这竟然是西游记仿妆",
+      "onboard_time": 1725309251,
+      "rank": 47,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 16699,
       "num": 53705,
       "word": "退役军人跪地求婚2次被女友托起",
       "onboard_time": 1725306191,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14168,
+      "num": 34982,
+      "word": "又到退伍季",
+      "onboard_time": 1725311891,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -563,11 +579,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10873,
-      "num": 29546,
-      "word": "又到退伍季",
-      "onboard_time": 1725311891,
-      "rank": 25,
+      "raw_hot": 10970,
+      "num": 31770,
+      "word": "古人的这只胖鹦鹉是表情包吧",
+      "onboard_time": 1725312551,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
