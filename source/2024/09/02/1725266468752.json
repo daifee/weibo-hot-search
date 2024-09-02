@@ -1,0 +1,410 @@
+{
+  "runTime": 1725266468752,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1540015,
+        "num": 1540015,
+        "word": "侃爷以为HK是香港 结果是海口",
+        "onboard_time": 1725260781,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 768051,
+        "num": 768051,
+        "word": "郑钦文 走过的每一步都算数",
+        "onboard_time": 1725260781,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50275,
+        "num": 752796,
+        "word": "一图了解中非合作论坛",
+        "onboard_time": 1725264979,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1191169,
+        "num": 752788,
+        "word": "夫妻称喝完Blueglass躺了一天才恢复",
+        "onboard_time": 1725260720,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 752769,
+        "num": 752769,
+        "word": "赵今麦坐张凌赫肩上",
+        "onboard_time": 1725265280,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 732086,
+        "num": 732086,
+        "word": "上官正义曝光代孕机构群聊内容",
+        "onboard_time": 1725262100,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619073,
+        "num": 619073,
+        "word": "毒枸杞",
+        "onboard_time": 1725251721,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610265,
+        "num": 610265,
+        "word": "美网奖金",
+        "onboard_time": 1725261021,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 597109,
+        "num": 597109,
+        "word": "女儿失踪第178天妈妈退出幼儿园群",
+        "onboard_time": 1725240020,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95120,
+        "num": 596160,
+        "word": "青海格尔木回应毒枸杞事件",
+        "onboard_time": 1725266120,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595234,
+        "num": 595234,
+        "word": "官方通报央视曝光毒枸杞",
+        "onboard_time": 1725255139,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444282,
+        "num": 444282,
+        "word": "郑钦文进美网8强",
+        "onboard_time": 1725258021,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 412059,
+        "num": 412059,
+        "word": "陈乔恩Alan婚礼",
+        "onboard_time": 1725251901,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386291,
+        "num": 386291,
+        "word": "樊振东不平樊芭莎预告",
+        "onboard_time": 1725260180,
+        "rank": 13,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 343727,
+        "num": 343727,
+        "word": "维基奇又扔拍子了",
+        "onboard_time": 1725258801,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317554,
+        "num": 317554,
+        "word": "国台办评恢复台湾地区文旦柚输入",
+        "onboard_time": 1725257239,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 314960,
+        "num": 314960,
+        "word": "今天全国大朋友小朋友悲喜相通了",
+        "onboard_time": 1725264080,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 254225,
+        "num": 313762,
+        "word": "陈奕迅唯爱樊振东",
+        "onboard_time": 1725252921,
+        "rank": 17,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 232515,
+        "num": 305016,
+        "word": "泫雅龙俊亨婚礼照",
+        "onboard_time": 1725255202,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228717,
+        "num": 301259,
+        "word": "檀健次夸by2拍照技术好",
+        "onboard_time": 1725261979,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 781005,
+        "num": 294803,
+        "word": "王楚钦也告上状了",
+        "onboard_time": 1725261081,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 635122,
+        "num": 293573,
+        "word": "官方回应有人涉嫌介绍未成年人代孕",
+        "onboard_time": 1725249738,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288675,
+        "num": 288675,
+        "word": "阴阳师",
+        "onboard_time": 1725265999,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 608366,
+        "num": 288130,
+        "word": "上官正义举报有人涉嫌介绍未成年人代孕",
+        "onboard_time": 1725249680,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284062,
+        "num": 284062,
+        "word": "毕业两年存款33万女生想裸辞",
+        "onboard_time": 1725258681,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280122,
+        "num": 280122,
+        "word": "第二部国产3A大作已在开发",
+        "onboard_time": 1725264200,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 262788,
+        "num": 262788,
+        "word": "唐尚珺回复张雪峰",
+        "onboard_time": 1725264680,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246873,
+        "num": 246873,
+        "word": "有人已经供暖了有人还在开空调",
+        "onboard_time": 1725260839,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229282,
+        "num": 229282,
+        "word": "被奶奶辈的修眉方式震惊到了",
+        "onboard_time": 1725264801,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 183150,
+        "num": 226904,
+        "word": "王骁章若楠 看见女儿男朋友的老丈人",
+        "onboard_time": 1725251001,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1094846,
+        "num": 220080,
+        "word": "苹果 微信",
+        "onboard_time": 1725253582,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 380963,
+        "num": 213943,
+        "word": "iPhone和微信你更离不开谁",
+        "onboard_time": 1725263897,
+        "rank": 31,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 287158,
+        "num": 210921,
+        "word": "台湾地震",
+        "onboard_time": 1725266120,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204899,
+        "num": 204899,
+        "word": "芭莎十月创刊三十八周年封面",
+        "onboard_time": 1725265099,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 204507,
+        "num": 204507,
+        "word": "官方辟谣路虎逆行打人女司机在家拘留",
+        "onboard_time": 1725255799,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196077,
+        "num": 196077,
+        "word": "孕妇被731解剖大喊放过我的孩子",
+        "onboard_time": 1725236359,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186896,
+        "num": 186896,
+        "word": "女子晒炒蘑菇视频吓坏网友",
+        "onboard_time": 1725265999,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185996,
+        "num": 185996,
+        "word": "伊朗总统坠机事故原因公布",
+        "onboard_time": 1725260300,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 176035,
+        "num": 176035,
+        "word": "樊振东注册第一天就在等陈奕迅",
+        "onboard_time": 1725254902,
+        "rank": 38,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 174996,
+        "num": 174996,
+        "word": "张角卸任LGD主教练",
+        "onboard_time": 1725265641,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24686,
+        "num": 173041,
+        "word": "什么是中女主",
+        "onboard_time": 1725264140,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171495,
+        "num": 171495,
+        "word": "印度强奸案频发的深层次原因",
+        "onboard_time": 1725264200,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169530,
+        "num": 169530,
+        "word": "马龙玩偶",
+        "onboard_time": 1725258620,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168657,
+        "num": 168657,
+        "word": "罗拉王能能没分手",
+        "onboard_time": 1725242299,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 163044,
+        "num": 163044,
+        "word": "郑钦文vs维基奇",
+        "onboard_time": 1725243079,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158694,
+        "num": 158694,
+        "word": "全红婵不好意思没事的",
+        "onboard_time": 1725263600,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95907,
+        "num": 156046,
+        "word": "硫磺熏制八角二氧化硫超标16倍",
+        "onboard_time": 1725264260,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154956,
+        "num": 154956,
+        "word": "台风",
+        "onboard_time": 1725265819,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150139,
+        "num": 150139,
+        "word": "9月上班21天",
+        "onboard_time": 1725265460,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148270,
+        "num": 148270,
+        "word": "成都高温",
+        "onboard_time": 1725265520,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的中非合作论坛峰会时间#"
+    }
+  }
+}

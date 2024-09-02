@@ -1,6 +1,6 @@
 {
   "startTime": 1725207925221,
-  "endTime": 1725265661751,
+  "endTime": 1725266468752,
   "band_list": [
     {
       "raw_hot": 5839152,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1230108,
-      "num": 705404,
+      "num": 752788,
       "word": "夫妻称喝完Blueglass躺了一天才恢复",
       "onboard_time": 1725260720,
       "rank": 38,
@@ -260,11 +260,27 @@
     },
     {
       "raw_hot": 791534,
-      "num": 676892,
+      "num": 732086,
       "word": "上官正义曝光代孕机构群聊内容",
       "onboard_time": 1725262100,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 781005,
+      "num": 446933,
+      "word": "王楚钦也告上状了",
+      "onboard_time": 1725261081,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 752769,
+      "num": 752769,
+      "word": "赵今麦坐张凌赫肩上",
+      "onboard_time": 1725265280,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 743255,
@@ -363,6 +379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 595234,
+      "num": 655973,
+      "word": "官方通报央视曝光毒枸杞",
+      "onboard_time": 1725255139,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 594749,
       "num": 409121,
       "word": "李庚希金鹿奖影后",
@@ -395,14 +419,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 541519,
-      "num": 446933,
-      "word": "王楚钦也告上状了",
-      "onboard_time": 1725261081,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 541054,
       "num": 541054,
       "word": "夫人小我十岁 我知她勇敢无畏",
@@ -417,14 +433,6 @@
       "onboard_time": 1725240618,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 538998,
-      "num": 655973,
-      "word": "官方通报央视曝光毒枸杞",
-      "onboard_time": 1725255139,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 527671,
@@ -587,14 +595,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 382632,
-      "num": 509745,
-      "word": "赵今麦坐张凌赫肩上",
-      "onboard_time": 1725265280,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 380520,
       "num": 380520,
       "word": "邓为偷偷戴了脐钉",
@@ -665,6 +665,14 @@
       "onboard_time": 1725250581,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 314960,
+      "num": 314960,
+      "word": "今天全国大朋友小朋友悲喜相通了",
+      "onboard_time": 1725264080,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 314510,
@@ -747,20 +755,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 288675,
+      "num": 288675,
+      "word": "阴阳师",
+      "onboard_time": 1725265999,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 287158,
+      "num": 210921,
+      "word": "台湾地震",
+      "onboard_time": 1725266120,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280122,
+      "num": 280122,
+      "word": "第二部国产3A大作已在开发",
+      "onboard_time": 1725264200,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 279449,
       "num": 279449,
       "word": "A股",
       "onboard_time": 1725243438,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 274088,
-      "num": 274088,
-      "word": "第二部国产3A大作已在开发",
-      "onboard_time": 1725264200,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 273946,
@@ -779,14 +803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 268196,
-      "num": 268196,
-      "word": "今天全国大朋友小朋友悲喜相通了",
-      "onboard_time": 1725264080,
-      "rank": 27,
-      "category": "教育"
-    },
-    {
       "raw_hot": 263502,
       "num": 263502,
       "word": "枸杞 硫磺",
@@ -801,6 +817,14 @@
       "onboard_time": 1725256041,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 262788,
+      "num": 262788,
+      "word": "唐尚珺回复张雪峰",
+      "onboard_time": 1725264680,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260816,
@@ -867,6 +891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 246873,
+      "num": 246873,
+      "word": "有人已经供暖了有人还在开空调",
+      "onboard_time": 1725260839,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245973,
       "num": 245973,
       "word": "郑钦文美网赛程",
@@ -915,12 +947,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223728,
-      "num": 223728,
-      "word": "唐尚珺回复张雪峰",
-      "onboard_time": 1725264680,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 229282,
+      "num": 229282,
+      "word": "被奶奶辈的修眉方式震惊到了",
+      "onboard_time": 1725264801,
+      "rank": 36,
+      "category": "美妆"
     },
     {
       "raw_hot": 222451,
@@ -1027,14 +1059,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 206874,
-      "num": 206874,
-      "word": "被奶奶辈的修眉方式震惊到了",
-      "onboard_time": 1725264801,
-      "rank": 36,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 206571,
       "num": 206571,
       "word": "孙颖莎看向大头下一秒被点名",
@@ -1096,14 +1120,6 @@
       "word": "深圳原副市长黄敏被双开",
       "onboard_time": 1725237079,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197433,
-      "num": 197433,
-      "word": "有人已经供暖了有人还在开空调",
-      "onboard_time": 1725260839,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1211,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186896,
+      "num": 186896,
+      "word": "女子晒炒蘑菇视频吓坏网友",
+      "onboard_time": 1725265999,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185935,
       "num": 185935,
       "word": "2024开学百态",
@@ -1315,6 +1339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 174996,
+      "num": 174996,
+      "word": "张角卸任LGD主教练",
+      "onboard_time": 1725265641,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 174576,
       "num": 174576,
       "word": "清水英男自述731罪行",
@@ -1329,6 +1361,14 @@
       "onboard_time": 1725255202,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171495,
+      "num": 565846,
+      "word": "印度强奸案频发的深层次原因",
+      "onboard_time": 1725264200,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170417,
@@ -1395,14 +1435,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 165070,
-      "num": 165070,
-      "word": "张角卸任LGD主教练",
-      "onboard_time": 1725265641,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 164381,
       "num": 164381,
       "word": "王一博被自己无语到了",
@@ -1448,6 +1480,14 @@
       "word": "成都高温",
       "onboard_time": 1725265520,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154956,
+      "num": 154956,
+      "word": "台风",
+      "onboard_time": 1725265819,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1787,10 +1827,18 @@
       "category": "情感"
     },
     {
-      "raw_hot": 90948,
-      "num": 565846,
-      "word": "印度强奸案频发的深层次原因",
-      "onboard_time": 1725264200,
+      "raw_hot": 95907,
+      "num": 566945,
+      "word": "硫磺熏制八角二氧化硫超标16倍",
+      "onboard_time": 1725264260,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95120,
+      "num": 596160,
+      "word": "青海格尔木回应毒枸杞事件",
+      "onboard_time": 1725266120,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -1900,7 +1948,7 @@
     },
     {
       "raw_hot": 61633,
-      "num": 714135,
+      "num": 752796,
       "word": "一图了解中非合作论坛",
       "onboard_time": 1725264979,
       "rank": 2,
@@ -1928,14 +1976,6 @@
       "word": "女子花6.8万种植牙不到3年掉3颗",
       "onboard_time": 1725248059,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56156,
-      "num": 566945,
-      "word": "硫磺熏制八角二氧化硫超标16倍",
-      "onboard_time": 1725264260,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -2139,6 +2179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 24686,
+      "num": 186819,
+      "word": "什么是中女主",
+      "onboard_time": 1725264140,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 24058,
       "num": 455068,
       "word": "高圆圆阿拉善之旅",
@@ -2161,14 +2209,6 @@
       "onboard_time": 1725213974,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22748,
-      "num": 186819,
-      "word": "什么是中女主",
-      "onboard_time": 1725264140,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 19906,
