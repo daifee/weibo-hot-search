@@ -1,6 +1,6 @@
 {
   "startTime": 1725207925221,
-  "endTime": 1725261610639,
+  "endTime": 1725262514486,
   "band_list": [
     {
       "raw_hot": 5839152,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 979598,
+      "num": 979598,
+      "word": "维基奇又扔拍子了",
+      "onboard_time": 1725258801,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 928514,
       "num": 1142004,
       "word": "赵今麦刘浩存 破壳而出",
@@ -227,6 +235,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 766158,
+      "num": 766158,
+      "word": "侃爷以为HK是香港 结果是海口",
+      "onboard_time": 1725260781,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 743255,
       "num": 307990,
       "word": "容易出汗的人排查一下4种病",
@@ -251,20 +267,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 705271,
+      "num": 705271,
+      "word": "郑钦文 走过的每一步都算数",
+      "onboard_time": 1725260781,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 697818,
       "num": 586804,
       "word": "樊振东注册第一天就在等陈奕迅",
       "onboard_time": 1725254902,
       "rank": 36,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 688069,
-      "num": 688069,
-      "word": "维基奇又扔拍子了",
-      "onboard_time": 1725258801,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 641305,
@@ -347,6 +363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 542614,
+      "num": 542614,
+      "word": "国台办评恢复台湾地区文旦柚输入",
+      "onboard_time": 1725257239,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 541054,
       "num": 541054,
       "word": "夫人小我十岁 我知她勇敢无畏",
@@ -411,14 +435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 502026,
-      "num": 502026,
-      "word": "国台办评恢复台湾地区文旦柚输入",
-      "onboard_time": 1725257239,
-      "rank": 26,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 490430,
       "num": 425371,
       "word": "唐尚珺坦言毕业时近40岁找工作难度大",
@@ -441,14 +457,6 @@
       "onboard_time": 1725244997,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 467650,
-      "num": 467650,
-      "word": "郑钦文 走过的每一步都算数",
-      "onboard_time": 1725260781,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 462007,
@@ -491,14 +499,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 442335,
-      "num": 513069,
-      "word": "侃爷以为HK是香港 结果是海口",
-      "onboard_time": 1725260781,
-      "rank": 12,
-      "category": "演出"
-    },
-    {
       "raw_hot": 436442,
       "num": 436442,
       "word": "萨巴伦卡",
@@ -512,6 +512,22 @@
       "word": "郑钦文登场全场欢呼",
       "onboard_time": 1725249680,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 419463,
+      "num": 419463,
+      "word": "美网奖金",
+      "onboard_time": 1725261021,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 415373,
+      "num": 372453,
+      "word": "王楚钦也告上状了",
+      "onboard_time": 1725261081,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -593,6 +609,14 @@
       "onboard_time": 1725245657,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 341584,
+      "num": 341584,
+      "word": "上官正义曝光代孕机构群聊内容",
+      "onboard_time": 1725262100,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336362,
@@ -699,6 +723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 280007,
+      "num": 280007,
+      "word": "夫妻称喝完Blueglass躺了一天才恢复",
+      "onboard_time": 1725260720,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279449,
       "num": 279449,
       "word": "A股",
@@ -787,14 +819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 254945,
-      "num": 254945,
-      "word": "王楚钦也告上状了",
-      "onboard_time": 1725261081,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 252617,
       "num": 281969,
       "word": "阚清子现在只会为角色减肥",
@@ -835,27 +859,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 231820,
-      "num": 231820,
-      "word": "美网奖金",
-      "onboard_time": 1725261021,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 231044,
       "num": 339029,
       "word": "公开发视频未打码路人是否侵权",
       "onboard_time": 1725247699,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 229802,
-      "num": 229802,
-      "word": "夫妻称喝完Blueglass躺了一天才恢复",
-      "onboard_time": 1725260720,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -947,6 +955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 206885,
+      "num": 206885,
+      "word": "猫 妈妈洗完它就不能洗我了",
+      "onboard_time": 1725260900,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 206571,
       "num": 206571,
       "word": "孙颖莎看向大头下一秒被点名",
@@ -987,12 +1003,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200285,
-      "num": 200285,
-      "word": "猫 妈妈洗完它就不能洗我了",
-      "onboard_time": 1725260900,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 199188,
+      "num": 199188,
+      "word": "徐嘉余 好笑也好吃",
+      "onboard_time": 1725262219,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 198152,
@@ -1116,7 +1132,7 @@
     },
     {
       "raw_hot": 186713,
-      "num": 557081,
+      "num": 583516,
       "word": "伊朗总统坠机事故原因公布",
       "onboard_time": 1725260300,
       "rank": 9,
@@ -1307,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162866,
+      "num": 321873,
+      "word": "檀健次夸by2拍照技术好",
+      "onboard_time": 1725261979,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 162500,
       "num": 162500,
       "word": "郑钦文回破",
@@ -1361,6 +1385,14 @@
       "onboard_time": 1725252801,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152594,
+      "num": 152594,
+      "word": "流水迢迢",
+      "onboard_time": 1725262462,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 150802,
@@ -1611,6 +1643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107389,
+      "num": 584310,
+      "word": "枸杞不是越红越好",
+      "onboard_time": 1725261260,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103924,
       "num": 103924,
       "word": "国家博物馆偶遇张颂文马嘉祺",
@@ -1779,19 +1819,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 57103,
-      "num": 566763,
-      "word": "枸杞不是越红越好",
-      "onboard_time": 1725261260,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 56768,
       "num": 315394,
       "word": "女子花6.8万种植牙不到3年掉3颗",
       "onboard_time": 1725248059,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55798,
+      "num": 504243,
+      "word": "买到烂尾楼我们是如何退房的",
+      "onboard_time": 1725260660,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1859,6 +1899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37876,
+      "num": 452218,
+      "word": "沈腾演我一边买药一边算账的样子",
+      "onboard_time": 1725257599,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36925,
       "num": 43696,
       "word": "汪苏泷孙楠合唱缘分的天空",
@@ -1875,14 +1923,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 36819,
-      "num": 452218,
-      "word": "沈腾演我一边买药一边算账的样子",
-      "onboard_time": 1725257599,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 36718,
       "num": 1578601,
       "word": "新学期的打开方式五花八门",
@@ -1896,14 +1936,6 @@
       "word": "开学综合征的典型表现",
       "onboard_time": 1725258739,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36138,
-      "num": 504243,
-      "word": "买到烂尾楼我们是如何退房的",
-      "onboard_time": 1725260660,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1971,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26448,
+      "num": 221079,
+      "word": "鸟鸟说家庭和事业我2选0",
+      "onboard_time": 1725259401,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 23880,
       "num": 36572,
       "word": "中国洋女婿是个长城迷",
@@ -1987,12 +2027,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20896,
-      "num": 221079,
-      "word": "鸟鸟说家庭和事业我2选0",
-      "onboard_time": 1725259401,
-      "rank": 49,
-      "category": "作品衍生"
+      "raw_hot": 19906,
+      "num": 869975,
+      "word": "73秒了解中非合作论坛",
+      "onboard_time": 1725249318,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19827,
@@ -2017,14 +2057,6 @@
       "onboard_time": 1725204741,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 17628,
-      "num": 777612,
-      "word": "73秒了解中非合作论坛",
-      "onboard_time": 1725249318,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17095,
