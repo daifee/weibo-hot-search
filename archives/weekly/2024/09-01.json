@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725316658092,
+  "endTime": 1725319273138,
   "band_list": [
     {
       "raw_hot": 5839152,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1238122,
+      "num": 1238122,
+      "word": "郑钦文遭种族歧视霸气回击",
+      "onboard_time": 1725294437,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1230108,
       "num": 752788,
       "word": "夫妻称喝完Blueglass躺了一天才恢复",
@@ -553,14 +561,6 @@
       "onboard_time": 1725161058,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 910868,
-      "num": 910868,
-      "word": "郑钦文遭种族歧视霸气回击",
-      "onboard_time": 1725294437,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 909633,
@@ -1224,6 +1224,14 @@
       "word": "安徽17岁男生退学摆摊10天收入万元",
       "onboard_time": 1725191299,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 571213,
+      "num": 571213,
+      "word": "三只羊合伙人回怼辛巴",
+      "onboard_time": 1725284481,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1891,14 +1899,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 351235,
-      "num": 351235,
-      "word": "三只羊合伙人回怼辛巴",
-      "onboard_time": 1725284481,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 350545,
       "num": 350545,
       "word": "这么傻的狗她居然有三只",
@@ -1931,6 +1931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 344847,
+      "num": 344847,
+      "word": "上海徐汇中学通报学生上体锻课晕倒",
+      "onboard_time": 1725293899,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339058,
       "num": 432167,
       "word": "现在就出发录制",
@@ -1961,6 +1969,14 @@
       "onboard_time": 1725160759,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 330004,
+      "num": 330004,
+      "word": "抗战胜利79周年",
+      "onboard_time": 1725294557,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 329148,
@@ -2009,6 +2025,14 @@
       "onboard_time": 1725255082,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 314394,
+      "num": 314394,
+      "word": "家长已经从包书皮卷到包书角了",
+      "onboard_time": 1725294198,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 314214,
@@ -2339,6 +2363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 264747,
+      "num": 264747,
+      "word": "武僧秋风车祸货车司机系无证驾驶",
+      "onboard_time": 1725303251,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263820,
       "num": 263820,
       "word": "孙杨已回省队",
@@ -2355,20 +2387,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 263487,
-      "num": 305745,
-      "word": "抗战胜利79周年",
-      "onboard_time": 1725294557,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 263334,
       "num": 481595,
       "word": "王宜林",
       "onboard_time": 1725160999,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 262810,
+      "num": 184834,
+      "word": "一句话让王一博心甘情愿解皮带",
+      "onboard_time": 1725290960,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 262796,
@@ -2400,14 +2432,6 @@
       "word": "中国人用石头拉丝织国旗送上月球",
       "onboard_time": 1725279979,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260983,
-      "num": 260983,
-      "word": "上海徐汇中学通报学生上体锻课晕倒",
-      "onboard_time": 1725293899,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -2713,6 +2737,14 @@
       "onboard_time": 1725269359,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 229314,
+      "num": 119277,
+      "word": "原来有一种失眠叫早醒型失眠",
+      "onboard_time": 1725307271,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 229282,
@@ -3635,14 +3667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184834,
-      "num": 184834,
-      "word": "一句话让王一博心甘情愿解皮带",
-      "onboard_time": 1725290960,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 183689,
       "num": 182901,
       "word": "盛李豪全红婵合体打羽毛球",
@@ -4227,14 +4251,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 159832,
-      "num": 94877,
-      "word": "原来有一种失眠叫早醒型失眠",
-      "onboard_time": 1725307271,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 159428,
       "num": 671395,
       "word": "列车有权拒绝买短乘长旅客继续乘车",
@@ -4795,14 +4811,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 132984,
-      "num": 132984,
-      "word": "武僧秋风车祸货车司机系无证驾驶",
-      "onboard_time": 1725303251,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132254,
       "num": 132254,
       "word": "王铮亮想一晚上都不知道怎么回",
@@ -5139,14 +5147,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 113335,
-      "num": 113335,
-      "word": "家长已经从包书皮卷到包书角了",
-      "onboard_time": 1725294198,
-      "rank": 49,
-      "category": "教育"
-    },
-    {
       "raw_hot": 111822,
       "num": 111822,
       "word": "用一小块羊肉做了六个菜",
@@ -5233,6 +5233,14 @@
       "onboard_time": 1725111682,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 100443,
+      "num": 169859,
+      "word": "致敬中国人民的伟大胜利",
+      "onboard_time": 1725298874,
+      "rank": 43,
+      "category": "国内时政,社会新闻"
     },
     {
       "raw_hot": 100106,
@@ -5403,12 +5411,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78947,
+      "num": 78947,
+      "word": "古铜色iPhone16Pro再曝光",
+      "onboard_time": 1725318616,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 78534,
       "num": 78534,
       "word": "1米9的孙丞潇轻松下腰到1米1",
       "onboard_time": 1725229513,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77300,
+      "num": 77300,
+      "word": "女儿第1天上幼儿园中午请假哄爸爸",
+      "onboard_time": 1725318136,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76929,
@@ -5432,6 +5456,14 @@
       "word": "国内校服市场超九成都是小工厂",
       "onboard_time": 1725257482,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76379,
+      "num": 76379,
+      "word": "男子15岁开始喝酒38岁肝衰竭",
+      "onboard_time": 1725302353,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -5473,6 +5505,22 @@
       "onboard_time": 1725267560,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71488,
+      "num": 71488,
+      "word": "1945年9月3日我们永不能忘",
+      "onboard_time": 1725317715,
+      "rank": 37,
+      "category": "国内时政,社会新闻"
+    },
+    {
+      "raw_hot": 71072,
+      "num": 71072,
+      "word": "iPhone16Pro或升级相机微距",
+      "onboard_time": 1725318616,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 70607,
@@ -5611,6 +5659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62082,
+      "num": 67522,
+      "word": "家长称女儿被机构教官体罚致昏迷",
+      "onboard_time": 1725288681,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61633,
       "num": 1400864,
       "word": "一图了解中非合作论坛",
@@ -5628,7 +5684,7 @@
     },
     {
       "raw_hot": 59226,
-      "num": 59226,
+      "num": 67413,
       "word": "这个喷不了这个是真上过班的",
       "onboard_time": 1725297193,
       "rank": 34,
@@ -5659,6 +5715,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 57505,
+      "num": 67480,
+      "word": "侵华日军标本室有胎儿还在子宫里",
+      "onboard_time": 1725300433,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56898,
       "num": 178154,
       "word": "15座车塞了26人惊呆交警",
@@ -5681,6 +5745,14 @@
       "onboard_time": 1725283763,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 56150,
+      "num": 67438,
+      "word": "山东初一男女身高差惊呆网友",
+      "onboard_time": 1725309971,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56053,
@@ -5739,6 +5811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51818,
+      "num": 67399,
+      "word": "退役军人跪地求婚2次被女友托起",
+      "onboard_time": 1725306191,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51547,
       "num": 591122,
       "word": "调研称孩子们都希望课间能到操场玩",
@@ -5769,6 +5849,14 @@
       "onboard_time": 1725233657,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 51144,
+      "num": 112168,
+      "word": "这竟然是西游记仿妆",
+      "onboard_time": 1725309251,
+      "rank": 47,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 50368,
@@ -5875,27 +5963,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47195,
-      "num": 47195,
-      "word": "山东初一男女身高差惊呆网友",
-      "onboard_time": 1725309971,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 47168,
       "num": 285406,
       "word": "2024暑期档票房超116亿元",
       "onboard_time": 1725175819,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45065,
-      "num": 45065,
-      "word": "侵华日军标本室有胎儿还在子宫里",
-      "onboard_time": 1725300433,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -5955,28 +6027,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 41127,
-      "num": 41127,
-      "word": "男子15岁开始喝酒38岁肝衰竭",
-      "onboard_time": 1725302353,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 40195,
       "num": 40195,
       "word": "校方回应学生宿舍用空调需交租赁费",
       "onboard_time": 1725310031,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40036,
-      "num": 169859,
-      "word": "致敬中国人民的伟大胜利",
-      "onboard_time": 1725298874,
-      "rank": 43,
-      "category": "国内时政,社会新闻"
     },
     {
       "raw_hot": 39325,
@@ -6017,22 +6073,6 @@
       "onboard_time": 1725257599,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 37558,
-      "num": 60420,
-      "word": "这竟然是西游记仿妆",
-      "onboard_time": 1725309251,
-      "rank": 47,
-      "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 37274,
-      "num": 37274,
-      "word": "家长称女儿被机构教官体罚致昏迷",
-      "onboard_time": 1725288681,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37111,
@@ -6435,8 +6475,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 22889,
-      "num": 310290,
+      "raw_hot": 23378,
+      "num": 473773,
       "word": "巴黎残奥那些震撼心灵的细节",
       "onboard_time": 1725282201,
       "rank": 2,
@@ -6544,14 +6584,6 @@
       "word": "中非合作论坛峰会有哪些看点",
       "onboard_time": 1725282980,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16699,
-      "num": 53705,
-      "word": "退役军人跪地求婚2次被女友托起",
-      "onboard_time": 1725306191,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
