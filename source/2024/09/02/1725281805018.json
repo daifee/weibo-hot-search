@@ -1,0 +1,410 @@
+{
+  "runTime": 1725281805018,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1760876,
+        "num": 1760876,
+        "word": "苹果官方回应iPhone16不支持微信",
+        "onboard_time": 1725271400,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1566437,
+        "num": 1566437,
+        "word": "郑钦文口型",
+        "onboard_time": 1725273739,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28500,
+        "num": 923465,
+        "word": "万人说新疆走进广东",
+        "onboard_time": 1725264320,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 768895,
+        "num": 768895,
+        "word": "李庚希影后手机壳",
+        "onboard_time": 1725276380,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 708634,
+        "num": 708634,
+        "word": "标错价格20分钟被薅7000万元",
+        "onboard_time": 1725273500,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 765415,
+        "num": 708227,
+        "word": "网曝安徽一中学4个学生吃1盆菜",
+        "onboard_time": 1725274882,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702279,
+        "num": 702279,
+        "word": "王楚ying",
+        "onboard_time": 1725277160,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 599288,
+        "num": 599288,
+        "word": "欧阳娜娜 内娱第一留子",
+        "onboard_time": 1725272359,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 553318,
+        "num": 553318,
+        "word": "王楚钦说跟徐嘉余两清了",
+        "onboard_time": 1725277280,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323718,
+        "num": 530466,
+        "word": "代孕群聊按学历身高明码标价卵泡",
+        "onboard_time": 1725267141,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509723,
+        "num": 509723,
+        "word": "WBG对战JDG",
+        "onboard_time": 1725269300,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 497636,
+        "num": 497636,
+        "word": "矿泉水被传能生儿子被抢脱销",
+        "onboard_time": 1725267801,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491621,
+        "num": 491621,
+        "word": "蝴蝶姐姐怀孕",
+        "onboard_time": 1725280160,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384078,
+        "num": 384078,
+        "word": "许诺求婚顾茜茜",
+        "onboard_time": 1725280700,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 51198,
+        "num": 333643,
+        "word": "烟台海鲜早就应该上热搜了",
+        "onboard_time": 1725278421,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 318275,
+        "num": 318275,
+        "word": "乌克兰轰炸俄罗斯一所幼儿园",
+        "onboard_time": 1725280160,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 314127,
+        "num": 314127,
+        "word": "广州地铁",
+        "onboard_time": 1725279920,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312798,
+        "num": 312798,
+        "word": "边水往事 第二季",
+        "onboard_time": 1725266901,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304444,
+        "num": 304444,
+        "word": "侃爷以为HK是香港 结果是海口",
+        "onboard_time": 1725260781,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33757,
+        "num": 304378,
+        "word": "坑老团伙神秘推销保健品",
+        "onboard_time": 1725281782,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304377,
+        "num": 304377,
+        "word": "阿黛尔宣布无限期退出歌坛",
+        "onboard_time": 1725272960,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 712344,
+        "num": 304168,
+        "word": "今年的月饼已经离谱到这种程度了吗",
+        "onboard_time": 1725274700,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 693004,
+        "num": 304078,
+        "word": "如果苹果真的下架了微信的话",
+        "onboard_time": 1725279439,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 383246,
+        "num": 303965,
+        "word": "身体缺什么 嘴巴早就知道",
+        "onboard_time": 1725277520,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 303836,
+        "num": 303836,
+        "word": "有人已经供暖了有人还在开空调",
+        "onboard_time": 1725260839,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269474,
+        "num": 269474,
+        "word": "iOS版微信已2个月没更新",
+        "onboard_time": 1725280219,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 261771,
+        "num": 261771,
+        "word": "中国人用石头拉丝织国旗送上月球",
+        "onboard_time": 1725279979,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235887,
+        "num": 246499,
+        "word": "把侯明昊房间马赛克给我拿掉",
+        "onboard_time": 1725277280,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190476,
+        "num": 243277,
+        "word": "赵今麦坐张凌赫肩上",
+        "onboard_time": 1725265280,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24180,
+        "num": 242471,
+        "word": "周鸿祎试完小鹏MONA后想学车",
+        "onboard_time": 1725280160,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 242025,
+        "num": 242025,
+        "word": "台风摩羯大概率直奔广东",
+        "onboard_time": 1725275782,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240218,
+        "num": 240218,
+        "word": "我的裤子竟然被1000w人围观了",
+        "onboard_time": 1725281662,
+        "rank": 31,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 210833,
+        "num": 210833,
+        "word": "副局长被举报婚内出轨降为普通民警",
+        "onboard_time": 1725270619,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193825,
+        "num": 193825,
+        "word": "女子晒炒蘑菇视频吓坏网友",
+        "onboard_time": 1725265999,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191011,
+        "num": 191011,
+        "word": "收费2元一本代包书皮业务火了",
+        "onboard_time": 1725280160,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186824,
+        "num": 186824,
+        "word": "工作越努力越容易发胖是真的吗",
+        "onboard_time": 1725278240,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179184,
+        "num": 179184,
+        "word": "山姆回应矿泉水喝了能生儿子",
+        "onboard_time": 1725280999,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158420,
+        "num": 158420,
+        "word": "王昶改网名",
+        "onboard_time": 1725269060,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156254,
+        "num": 156254,
+        "word": "张新成王玉雯cp感",
+        "onboard_time": 1725278840,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17255,
+        "num": 156056,
+        "word": "烟台海鲜绝对是天花板级别",
+        "onboard_time": 1725278421,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 155997,
+        "num": 155997,
+        "word": "原来不是累是穷啊",
+        "onboard_time": 1725270200,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141662,
+        "num": 141662,
+        "word": "昌雅妮拍立得",
+        "onboard_time": 1725277400,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141520,
+        "num": 141520,
+        "word": "郑钦文进美网8强",
+        "onboard_time": 1725258021,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139100,
+        "num": 139100,
+        "word": "樊振东 你不知道我如今歌坛分量",
+        "onboard_time": 1725271400,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137923,
+        "num": 137923,
+        "word": "今天全国大朋友小朋友悲喜相通了",
+        "onboard_time": 1725264080,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 134818,
+        "num": 134818,
+        "word": "刘清漪vlog",
+        "onboard_time": 1725281782,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134624,
+        "num": 134624,
+        "word": "朱志鑫回重庆七中",
+        "onboard_time": 1725279079,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133987,
+        "num": 133987,
+        "word": "WBG晋级S14",
+        "onboard_time": 1725281782,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127745,
+        "num": 131843,
+        "word": "官方回应有人涉嫌介绍未成年人代孕",
+        "onboard_time": 1725249738,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130227,
+        "num": 130227,
+        "word": "心动的信号女一 元气甜妹",
+        "onboard_time": 1725269300,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的中非合作论坛峰会时间#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725280887619,
+  "endTime": 1725281805018,
   "band_list": [
     {
       "raw_hot": 5839152,
@@ -187,8 +187,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1560977,
-      "num": 1560977,
+      "raw_hot": 1566437,
+      "num": 1566437,
       "word": "郑钦文口型",
       "onboard_time": 1725273739,
       "rank": 3,
@@ -588,7 +588,7 @@
     },
     {
       "raw_hot": 834085,
-      "num": 244696,
+      "num": 304168,
       "word": "今年的月饼已经离谱到这种程度了吗",
       "onboard_time": 1725274700,
       "rank": 43,
@@ -841,6 +841,14 @@
       "onboard_time": 1725254902,
       "rank": 36,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 693004,
+      "num": 304078,
+      "word": "如果苹果真的下架了微信的话",
+      "onboard_time": 1725279439,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 686139,
@@ -1259,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 509723,
+      "num": 509723,
+      "word": "WBG对战JDG",
+      "onboard_time": 1725269300,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 508859,
       "num": 508859,
       "word": "王嘉尔易烊千玺生图",
@@ -1313,6 +1329,14 @@
       "onboard_time": 1725161298,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 491621,
+      "num": 491621,
+      "word": "蝴蝶姐姐怀孕",
+      "onboard_time": 1725280160,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 490430,
@@ -1595,6 +1619,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 384078,
+      "num": 384078,
+      "word": "许诺求婚顾茜茜",
+      "onboard_time": 1725280700,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 383246,
+      "num": 303965,
+      "word": "身体缺什么 嘴巴早就知道",
+      "onboard_time": 1725277520,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 382061,
       "num": 426659,
       "word": "俄称击落多架企图袭击莫斯科的无人机",
@@ -1755,20 +1795,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 317329,
-      "num": 317329,
-      "word": "蝴蝶姐姐怀孕",
+      "raw_hot": 318275,
+      "num": 318275,
+      "word": "乌克兰轰炸俄罗斯一所幼儿园",
       "onboard_time": 1725280160,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 316425,
-      "num": 244485,
-      "word": "如果苹果真的下架了微信的话",
-      "onboard_time": 1725279439,
-      "rank": 21,
-      "category": "互联网"
+      "rank": 24,
+      "category": "国外时政"
     },
     {
       "raw_hot": 315992,
@@ -1801,6 +1833,14 @@
       "onboard_time": 1725158118,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 314127,
+      "num": 314127,
+      "word": "广州地铁",
+      "onboard_time": 1725279920,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313421,
@@ -2019,14 +2059,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 278648,
-      "num": 241062,
-      "word": "身体缺什么 嘴巴早就知道",
-      "onboard_time": 1725277520,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 277791,
       "num": 277791,
       "word": "王雅繁vs巴多萨",
@@ -2091,6 +2123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 269474,
+      "num": 269474,
+      "word": "iOS版微信已2个月没更新",
+      "onboard_time": 1725280219,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 263820,
       "num": 263820,
       "word": "孙杨已回省队",
@@ -2128,6 +2168,14 @@
       "word": "唐尚珺回复张雪峰",
       "onboard_time": 1725264680,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261771,
+      "num": 261771,
+      "word": "中国人用石头拉丝织国旗送上月球",
+      "onboard_time": 1725279979,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -2313,6 +2361,14 @@
       "onboard_time": 1725252981,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 240218,
+      "num": 240218,
+      "word": "我的裤子竟然被1000w人围观了",
+      "onboard_time": 1725281662,
+      "rank": 31,
+      "category": "时尚"
     },
     {
       "raw_hot": 239676,
@@ -2667,14 +2723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206462,
-      "num": 206462,
-      "word": "乌克兰轰炸俄罗斯一所幼儿园",
-      "onboard_time": 1725280160,
-      "rank": 24,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 206247,
       "num": 206247,
       "word": "NIP对战JDG",
@@ -2739,14 +2787,6 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 204613,
-      "num": 204613,
-      "word": "中国人用石头拉丝织国旗送上月球",
-      "onboard_time": 1725279979,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204402,
       "num": 204402,
       "word": "郑钦文战胜维基奇",
@@ -2785,14 +2825,6 @@
       "onboard_time": 1725180620,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 203252,
-      "num": 203252,
-      "word": "广州地铁",
-      "onboard_time": 1725279920,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203216,
@@ -3051,6 +3083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191011,
+      "num": 191011,
+      "word": "收费2元一本代包书皮业务火了",
+      "onboard_time": 1725280160,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190846,
       "num": 190846,
       "word": "美网",
@@ -3073,14 +3113,6 @@
       "onboard_time": 1725115462,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 190050,
-      "num": 190050,
-      "word": "iOS版微信已2个月没更新",
-      "onboard_time": 1725280219,
-      "rank": 27,
-      "category": "互联网"
     },
     {
       "raw_hot": 189603,
@@ -3175,6 +3207,14 @@
       "num": 187245,
       "word": "哈尔滨一车行驶中大量撒钱",
       "onboard_time": 1725234439,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186824,
+      "num": 186824,
+      "word": "工作越努力越容易发胖是真的吗",
+      "onboard_time": 1725278240,
       "rank": 31,
       "category": "社会新闻"
     },
@@ -3347,28 +3387,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 179184,
+      "num": 179184,
+      "word": "山姆回应矿泉水喝了能生儿子",
+      "onboard_time": 1725280999,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178979,
       "num": 178979,
       "word": "车主误会了猫咪的好意",
       "onboard_time": 1725182659,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 178919,
-      "num": 178919,
-      "word": "WBG对战JDG",
-      "onboard_time": 1725269300,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 178849,
-      "num": 178849,
-      "word": "工作越努力越容易发胖是真的吗",
-      "onboard_time": 1725278240,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178002,
@@ -3577,14 +3609,6 @@
       "onboard_time": 1725261260,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168765,
-      "num": 168765,
-      "word": "许诺求婚顾茜茜",
-      "onboard_time": 1725280700,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 168657,
@@ -3875,6 +3899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156254,
+      "num": 156254,
+      "word": "张新成王玉雯cp感",
+      "onboard_time": 1725278840,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156036,
       "num": 156036,
       "word": "朱志鑫回重庆七中",
@@ -3963,14 +3995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153495,
-      "num": 153495,
-      "word": "张新成王玉雯cp感",
-      "onboard_time": 1725278840,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 152594,
       "num": 152594,
       "word": "流水迢迢",
@@ -4025,14 +4049,6 @@
       "onboard_time": 1725161600,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 150078,
-      "num": 150078,
-      "word": "收费2元一本代包书皮业务火了",
-      "onboard_time": 1725280160,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149900,
@@ -4291,12 +4307,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 134818,
+      "num": 134818,
+      "word": "刘清漪vlog",
+      "onboard_time": 1725281782,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134040,
       "num": 134040,
       "word": "九月",
       "onboard_time": 1725152898,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133987,
+      "num": 133987,
+      "word": "WBG晋级S14",
+      "onboard_time": 1725281782,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 133217,
@@ -5171,6 +5203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51198,
+      "num": 333643,
+      "word": "烟台海鲜早就应该上热搜了",
+      "onboard_time": 1725278421,
+      "rank": 14,
+      "category": "美食"
+    },
+    {
       "raw_hot": 51147,
       "num": 51147,
       "word": "早晚揉腹有哪些好处",
@@ -5347,16 +5387,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38499,
-      "num": 321802,
-      "word": "烟台海鲜早就应该上热搜了",
-      "onboard_time": 1725278421,
-      "rank": 14,
-      "category": "美食"
-    },
-    {
       "raw_hot": 38277,
-      "num": 179685,
+      "num": 242471,
       "word": "周鸿祎试完小鹏MONA后想学车",
       "onboard_time": 1725280160,
       "rank": 29,
@@ -5483,6 +5515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33757,
+      "num": 304378,
+      "word": "坑老团伙神秘推销保健品",
+      "onboard_time": 1725281782,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33359,
       "num": 157534,
       "word": "秋天的第一顿烟台海鲜",
@@ -5579,6 +5619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28500,
+      "num": 1122508,
+      "word": "万人说新疆走进广东",
+      "onboard_time": 1725264320,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27883,
       "num": 498642,
       "word": "硫超标枸杞要曝光更要根治",
@@ -5667,14 +5715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24131,
-      "num": 1122508,
-      "word": "万人说新疆走进广东",
-      "onboard_time": 1725264320,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24058,
       "num": 455068,
       "word": "高圆圆阿拉善之旅",
@@ -5708,7 +5748,7 @@
     },
     {
       "raw_hot": 23673,
-      "num": 153519,
+      "num": 156056,
       "word": "烟台海鲜绝对是天花板级别",
       "onboard_time": 1725278421,
       "rank": 39,
