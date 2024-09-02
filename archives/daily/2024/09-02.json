@@ -1,6 +1,6 @@
 {
   "startTime": 1725207925221,
-  "endTime": 1725242058576,
+  "endTime": 1725245283311,
   "band_list": [
     {
       "raw_hot": 2899571,
@@ -27,8 +27,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1476952,
+      "num": 1476952,
+      "word": "罗拉王能能没分手",
+      "onboard_time": 1725242299,
+      "rank": 0,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1156093,
-      "num": 397441,
+      "num": 412691,
       "word": "用小号和前男友谈了八个月准备奔现",
       "onboard_time": 1725234016,
       "rank": 10,
@@ -40,6 +48,14 @@
       "word": "莎头",
       "onboard_time": 1725200780,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1044192,
+      "num": 1044192,
+      "word": "郑钦文vs维基奇",
+      "onboard_time": 1725243079,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 637743,
-      "num": 395588,
+      "num": 408138,
       "word": "订婚后男朋友天天追求公平",
       "onboard_time": 1725233059,
       "rank": 22,
@@ -131,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 600769,
+      "num": 282286,
+      "word": "慌张的孙颖莎已读乱回的王楚钦",
+      "onboard_time": 1725240859,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 600751,
       "num": 448010,
       "word": "迪丽热巴周也穿了同款",
@@ -147,12 +171,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 518490,
+      "num": 518490,
+      "word": "苹果华为发布会再度撞档",
+      "onboard_time": 1725241159,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 504944,
       "num": 402799,
       "word": "何秋亊 难受",
       "onboard_time": 1725203242,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 490430,
+      "num": 425371,
+      "word": "唐尚珺坦言毕业时近40岁找工作难度大",
+      "onboard_time": 1725239479,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 462007,
@@ -187,16 +227,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 425371,
-      "num": 425371,
-      "word": "唐尚珺坦言毕业时近40岁找工作难度大",
-      "onboard_time": 1725239479,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 400798,
-      "num": 400798,
+      "num": 416308,
       "word": "中国人民抗战胜利79周年",
       "onboard_time": 1725236359,
       "rank": 9,
@@ -267,6 +299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 304038,
+      "num": 304038,
+      "word": "罗拉否认炒作",
+      "onboard_time": 1725242539,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 298737,
       "num": 298737,
       "word": "郑钦文说再战维基奇会更艰难",
@@ -283,12 +323,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 282286,
-      "num": 282286,
-      "word": "慌张的孙颖莎已读乱回的王楚钦",
-      "onboard_time": 1725240859,
-      "rank": 41,
-      "category": "体育"
+      "raw_hot": 267810,
+      "num": 218377,
+      "word": "公司发了会骂人的月饼",
+      "onboard_time": 1725240618,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 260816,
@@ -339,6 +379,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221686,
+      "num": 221686,
+      "word": "电商低价卖书会谷贱伤农吗",
+      "onboard_time": 1725240438,
+      "rank": 48,
+      "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 217866,
+      "num": 217866,
+      "word": "上海最大居民小区宣布炒掉物业",
+      "onboard_time": 1725244819,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211186,
       "num": 211186,
       "word": "月薪一万那叫卷十万就叫拼搏",
@@ -363,12 +419,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 207495,
+      "num": 207495,
+      "word": "与晋长安杀青",
+      "onboard_time": 1725244398,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204697,
       "num": 204697,
       "word": "乒乓球队听游泳队唱孤勇者的反应",
       "onboard_time": 1725234078,
       "rank": 26,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 204542,
+      "num": 204542,
+      "word": "华为官宣新品发布会",
+      "onboard_time": 1725241820,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 197740,
@@ -379,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195108,
-      "num": 195108,
-      "word": "苹果华为发布会再度撞档",
-      "onboard_time": 1725241159,
-      "rank": 30,
-      "category": "数码"
+      "raw_hot": 194941,
+      "num": 194941,
+      "word": "问界m9",
+      "onboard_time": 1725244217,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 192475,
@@ -392,6 +464,14 @@
       "word": "樊振东清唱野孩子",
       "onboard_time": 1725197301,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 189603,
+      "num": 189603,
+      "word": "孙佳俊被全红婵拿捏了",
+      "onboard_time": 1725243379,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -451,20 +531,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180396,
+      "num": 170301,
+      "word": "陈奕迅被告者名单",
+      "onboard_time": 1725245058,
+      "rank": 31,
+      "category": "演出,体育"
+    },
+    {
       "raw_hot": 179547,
       "num": 179547,
       "word": "王楚钦回应比赛中喊来走",
       "onboard_time": 1725205939,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178249,
-      "num": 178249,
-      "word": "公司发了会骂人的月饼",
-      "onboard_time": 1725240618,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 177274,
@@ -499,6 +579,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 166490,
+      "num": 166490,
+      "word": "开学碎掉的其实是老师",
+      "onboard_time": 1725242480,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 165619,
+      "num": 165619,
+      "word": "杨千嬅说樊振东唱得好",
+      "onboard_time": 1725243558,
+      "rank": 34,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 164381,
       "num": 164381,
       "word": "王一博被自己无语到了",
@@ -515,12 +611,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 157444,
-      "num": 157444,
-      "word": "华为官宣新品发布会",
-      "onboard_time": 1725241820,
-      "rank": 35,
-      "category": "数码"
+      "raw_hot": 156425,
+      "num": 156425,
+      "word": "王一博和老雪",
+      "onboard_time": 1725244997,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 154124,
@@ -529,6 +625,14 @@
       "onboard_time": 1725201741,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 150802,
+      "num": 150802,
+      "word": "雪山版密室大逃脱来了",
+      "onboard_time": 1725244217,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 147477,
@@ -569,6 +673,14 @@
       "onboard_time": 1725236300,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141901,
+      "num": 141901,
+      "word": "A股",
+      "onboard_time": 1725243438,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 140927,
@@ -651,6 +763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128484,
+      "num": 128484,
+      "word": "赵今麦芭莎",
+      "onboard_time": 1725245239,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 124822,
       "num": 124822,
       "word": "展乐你不要再逗盛李豪了",
@@ -681,14 +801,6 @@
       "onboard_time": 1725238400,
       "rank": 46,
       "category": "教育"
-    },
-    {
-      "raw_hot": 116322,
-      "num": 116322,
-      "word": "电商低价卖书会谷贱伤农吗",
-      "onboard_time": 1725240438,
-      "rank": 48,
-      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 115879,
@@ -889,6 +1001,22 @@
       "onboard_time": 1725225490,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40666,
+      "num": 309308,
+      "word": "衡水黄冈等名校自研试卷被炒至1万元",
+      "onboard_time": 1725244338,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39853,
+      "num": 421697,
+      "word": "中小学课间延长配套也要跟上",
+      "onboard_time": 1725244458,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38130,
