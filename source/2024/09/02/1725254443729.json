@@ -1,0 +1,410 @@
+{
+  "runTime": 1725254443729,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1840204,
+        "num": 1840204,
+        "word": "陈乔恩Alan婚礼",
+        "onboard_time": 1725251901,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1690850,
+        "num": 1690850,
+        "word": "郑钦文vs维基奇",
+        "onboard_time": 1725243079,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23531,
+        "num": 1412848,
+        "word": "第二届北京网络视听艺术大会",
+        "onboard_time": 1725248839,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1384268,
+        "num": 1384268,
+        "word": "女儿失踪第178天妈妈退出幼儿园群",
+        "onboard_time": 1725240020,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1163355,
+        "num": 1163355,
+        "word": "官方回应有人涉嫌介绍未成年人代孕",
+        "onboard_time": 1725249738,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1074479,
+        "num": 1074479,
+        "word": "龙队是去上厕所不是不要你们",
+        "onboard_time": 1725248839,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 825972,
+        "num": 825972,
+        "word": "上海最大居民小区宣布炒掉物业",
+        "onboard_time": 1725244819,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 812344,
+        "num": 812344,
+        "word": "王骁章若楠 看见女儿男朋友的老丈人",
+        "onboard_time": 1725251001,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 763820,
+        "num": 763820,
+        "word": "孕妇被731解剖大喊放过我的孩子",
+        "onboard_time": 1725236359,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773650,
+        "num": 761808,
+        "word": "陈奕迅唯爱樊振东",
+        "onboard_time": 1725252921,
+        "rank": 9,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 1389182,
+        "num": 740707,
+        "word": "上官正义举报有人涉嫌介绍未成年人代孕",
+        "onboard_time": 1725249680,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 798282,
+        "num": 731837,
+        "word": "罗拉王能能没分手",
+        "onboard_time": 1725242299,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 704428,
+        "num": 704428,
+        "word": "专家称取消公摊是忽悠老百姓的",
+        "onboard_time": 1725249019,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630684,
+        "num": 630684,
+        "word": "郑钦文首盘获胜",
+        "onboard_time": 1725251542,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 523934,
+        "num": 523934,
+        "word": "35岁大一新生唐尚珺今天报到",
+        "onboard_time": 1725247219,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467917,
+        "num": 467917,
+        "word": "赵今麦刘浩存 破壳而出",
+        "onboard_time": 1725247639,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 463970,
+        "num": 463970,
+        "word": "毒枸杞",
+        "onboard_time": 1725251721,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39173,
+        "num": 461752,
+        "word": "微博拿云计划线上启动",
+        "onboard_time": 1725253942,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 414694,
+        "num": 460378,
+        "word": "夫人小我十岁 我知她勇敢无畏",
+        "onboard_time": 1725248540,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 460251,
+        "num": 460251,
+        "word": "11年前7000多买的钻戒如今不值100块",
+        "onboard_time": 1725248359,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1289667,
+        "num": 456216,
+        "word": "27岁退出了家族群删除了全部亲戚",
+        "onboard_time": 1725247579,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 917647,
+        "num": 440962,
+        "word": "男朋友奶奶去世给我也配到遗产",
+        "onboard_time": 1725252264,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 410250,
+        "num": 410250,
+        "word": "陈奕迅被告者名单",
+        "onboard_time": 1725245058,
+        "rank": 22,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 403614,
+        "num": 403614,
+        "word": "殷桃新剧失望到窒息的眼神",
+        "onboard_time": 1725251061,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348559,
+        "num": 348559,
+        "word": "腾讯视频9月大剧片单",
+        "onboard_time": 1725252502,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319085,
+        "num": 319085,
+        "word": "日本投降仪式结束时间9点18分",
+        "onboard_time": 1725236781,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 302294,
+        "num": 302294,
+        "word": "盛李豪打乒乓球协调了",
+        "onboard_time": 1725251780,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297650,
+        "num": 297650,
+        "word": "上汽高层吐槽小米汽车抄保时捷",
+        "onboard_time": 1725252682,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 294931,
+        "num": 294931,
+        "word": "钦余年终于互关了",
+        "onboard_time": 1725252082,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246438,
+        "num": 246438,
+        "word": "用小号和前男友谈了八个月准备奔现",
+        "onboard_time": 1725234016,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 592340,
+        "num": 246311,
+        "word": "苹果 微信",
+        "onboard_time": 1725253582,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 217278,
+        "num": 217278,
+        "word": "容易出汗的人排查一下4种病",
+        "onboard_time": 1725238400,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 206571,
+        "num": 206571,
+        "word": "孙颖莎看向大头下一秒被点名",
+        "onboard_time": 1725252442,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198816,
+        "num": 198816,
+        "word": "郑钦文登场全场欢呼",
+        "onboard_time": 1725249680,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196616,
+        "num": 196616,
+        "word": "权志龙舞台",
+        "onboard_time": 1725246199,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195788,
+        "num": 195788,
+        "word": "孙杨直播",
+        "onboard_time": 1725252981,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190612,
+        "num": 190612,
+        "word": "韩红 我已经转偶像路线了",
+        "onboard_time": 1725253462,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185745,
+        "num": 185745,
+        "word": "汪苏泷半夜醒来 我真多嘴啊",
+        "onboard_time": 1725253761,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173231,
+        "num": 173231,
+        "word": "郑钦文ACE雨",
+        "onboard_time": 1725250581,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172539,
+        "num": 172539,
+        "word": "三折叠屏手机",
+        "onboard_time": 1725248419,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 168298,
+        "num": 168298,
+        "word": "王楚钦被徐嘉余拿捏",
+        "onboard_time": 1725254301,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160146,
+        "num": 160146,
+        "word": "高铁盒饭受众群体",
+        "onboard_time": 1725251481,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159127,
+        "num": 159127,
+        "word": "郑思维征求小分队名字",
+        "onboard_time": 1725251481,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159052,
+        "num": 159052,
+        "word": "慌张的孙颖莎已读乱回的王楚钦",
+        "onboard_time": 1725240859,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158350,
+        "num": 158350,
+        "word": "彭昱畅暴瘦是因为阑尾炎",
+        "onboard_time": 1725232878,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156775,
+        "num": 156775,
+        "word": "慕胥辞",
+        "onboard_time": 1725245657,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153893,
+        "num": 153893,
+        "word": "职综天花板回来了",
+        "onboard_time": 1725252801,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153443,
+        "num": 153443,
+        "word": "潘展乐站樊振东旁边说nevergetup",
+        "onboard_time": 1725251001,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144565,
+        "num": 144565,
+        "word": "公司发了会骂人的月饼",
+        "onboard_time": 1725240618,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142545,
+        "num": 142545,
+        "word": "中国人民抗战胜利79周年",
+        "onboard_time": 1725236359,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#每个学生都是独一无二的个体#"
+    }
+  }
+}

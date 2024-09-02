@@ -1,6 +1,6 @@
 {
   "startTime": 1725207925221,
-  "endTime": 1725251995738,
+  "endTime": 1725254443729,
   "band_list": [
     {
       "raw_hot": 2899571,
@@ -35,6 +35,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1840204,
+      "num": 1840204,
+      "word": "陈乔恩Alan婚礼",
+      "onboard_time": 1725251901,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1704904,
       "num": 511504,
       "word": "27岁退出了家族群删除了全部亲戚",
@@ -59,11 +67,19 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1190770,
+      "raw_hot": 1389182,
       "num": 1190770,
       "word": "上官正义举报有人涉嫌介绍未成年人代孕",
       "onboard_time": 1725249680,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1163355,
+      "num": 1163355,
+      "word": "官方回应有人涉嫌介绍未成年人代孕",
+      "onboard_time": 1725249738,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -73,14 +89,6 @@
       "onboard_time": 1725234016,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1150637,
-      "num": 1150637,
-      "word": "官方回应有人涉嫌介绍未成年人代孕",
-      "onboard_time": 1725249738,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1134403,
@@ -115,6 +123,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 917647,
+      "num": 440962,
+      "word": "男朋友奶奶去世给我也配到遗产",
+      "onboard_time": 1725252264,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 860837,
       "num": 1129047,
       "word": "陈奕迅被告者名单",
@@ -147,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 812344,
+      "num": 812344,
+      "word": "王骁章若楠 看见女儿男朋友的老丈人",
+      "onboard_time": 1725251001,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 800810,
       "num": 938129,
       "word": "袁隆平儿子回应女儿入读中国农业大学",
@@ -161,6 +185,14 @@
       "onboard_time": 1725205880,
       "rank": 6,
       "category": "网红"
+    },
+    {
+      "raw_hot": 773650,
+      "num": 761808,
+      "word": "陈奕迅唯爱樊振东",
+      "onboard_time": 1725252921,
+      "rank": 9,
+      "category": "演出,体育"
     },
     {
       "raw_hot": 743255,
@@ -195,20 +227,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 639908,
-      "num": 639908,
-      "word": "王骁章若楠 看见女儿男朋友的老丈人",
-      "onboard_time": 1725251001,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 637743,
       "num": 408138,
       "word": "订婚后男朋友天天追求公平",
       "onboard_time": 1725233059,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 630684,
+      "num": 630684,
+      "word": "郑钦文首盘获胜",
+      "onboard_time": 1725251542,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 628555,
@@ -251,6 +283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 592340,
+      "num": 246311,
+      "word": "苹果 微信",
+      "onboard_time": 1725253582,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 549732,
       "num": 549732,
       "word": "赵今麦芭莎",
@@ -283,19 +323,19 @@
       "category": "数码"
     },
     {
+      "raw_hot": 523934,
+      "num": 523934,
+      "word": "35岁大一新生唐尚珺今天报到",
+      "onboard_time": 1725247219,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 522045,
       "num": 522045,
       "word": "11年前7000多买的钻戒如今不值100块",
       "onboard_time": 1725248359,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 516457,
-      "num": 516457,
-      "word": "35岁大一新生唐尚珺今天报到",
-      "onboard_time": 1725247219,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -321,6 +361,14 @@
       "onboard_time": 1725244997,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 463970,
+      "num": 463970,
+      "word": "毒枸杞",
+      "onboard_time": 1725251721,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 462007,
@@ -363,12 +411,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 414649,
-      "num": 414649,
-      "word": "郑钦文首盘获胜",
-      "onboard_time": 1725251542,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 403614,
+      "num": 515704,
+      "word": "殷桃新剧失望到窒息的眼神",
+      "onboard_time": 1725251061,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 400798,
@@ -417,6 +465,14 @@
       "onboard_time": 1725234738,
       "rank": 15,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 348559,
+      "num": 348559,
+      "word": "腾讯视频9月大剧片单",
+      "onboard_time": 1725252502,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 346965,
@@ -475,11 +531,35 @@
       "category": "网红"
     },
     {
+      "raw_hot": 302294,
+      "num": 302294,
+      "word": "盛李豪打乒乓球协调了",
+      "onboard_time": 1725251780,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 298737,
       "num": 298737,
       "word": "郑钦文说再战维基奇会更艰难",
       "onboard_time": 1725235999,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 297650,
+      "num": 297650,
+      "word": "上汽高层吐槽小米汽车抄保时捷",
+      "onboard_time": 1725252682,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 294931,
+      "num": 294931,
+      "word": "钦余年终于互关了",
+      "onboard_time": 1725252082,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -489,14 +569,6 @@
       "onboard_time": 1725235338,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 272413,
-      "num": 515704,
-      "word": "殷桃新剧失望到窒息的眼神",
-      "onboard_time": 1725251061,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 272127,
@@ -547,14 +619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 245044,
-      "num": 245044,
-      "word": "毒枸杞",
-      "onboard_time": 1725251721,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244739,
       "num": 244739,
       "word": "陈奕迅邀请游泳队来演唱会一起唱",
@@ -603,14 +667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209911,
-      "num": 209911,
-      "word": "陈乔恩Alan婚礼",
-      "onboard_time": 1725251901,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 209780,
       "num": 198690,
       "word": "彭昱畅金鹿奖影帝",
@@ -635,6 +691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 206571,
+      "num": 206571,
+      "word": "孙颖莎看向大头下一秒被点名",
+      "onboard_time": 1725252442,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204697,
       "num": 204697,
       "word": "乒乓球队听游泳队唱孤勇者的反应",
@@ -651,14 +715,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 201785,
-      "num": 201785,
-      "word": "盛李豪打乒乓球协调了",
-      "onboard_time": 1725251780,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 197740,
       "num": 197740,
       "word": "深圳原副市长黄敏被双开",
@@ -671,6 +727,14 @@
       "num": 197021,
       "word": "郑思维征求小分队名字",
       "onboard_time": 1725251481,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 195788,
+      "num": 195788,
+      "word": "孙杨直播",
+      "onboard_time": 1725252981,
       "rank": 35,
       "category": "体育"
     },
@@ -705,6 +769,14 @@
       "onboard_time": 1725250641,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190612,
+      "num": 190612,
+      "word": "韩红 我已经转偶像路线了",
+      "onboard_time": 1725253462,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 189603,
@@ -761,6 +833,14 @@
       "onboard_time": 1725203361,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185745,
+      "num": 185745,
+      "word": "汪苏泷半夜醒来 我真多嘴啊",
+      "onboard_time": 1725253761,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 181804,
@@ -843,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168298,
+      "num": 168298,
+      "word": "王楚钦被徐嘉余拿捏",
+      "onboard_time": 1725254301,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168218,
       "num": 168218,
       "word": "J人和P人家长开学名场面",
@@ -913,6 +1001,14 @@
       "onboard_time": 1725201741,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 153893,
+      "num": 153893,
+      "word": "职综天花板回来了",
+      "onboard_time": 1725252801,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 150802,
@@ -1363,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39173,
+      "num": 461752,
+      "word": "微博拿云计划线上启动",
+      "onboard_time": 1725253942,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 38130,
       "num": 432770,
       "word": "一路向前总会看到星光满天",
@@ -1404,7 +1508,7 @@
     },
     {
       "raw_hot": 31037,
-      "num": 1272686,
+      "num": 1412848,
       "word": "第二届北京网络视听艺术大会",
       "onboard_time": 1725248839,
       "rank": 2,
