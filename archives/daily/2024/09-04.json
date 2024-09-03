@@ -1,6 +1,6 @@
 {
   "startTime": 1725380864855,
-  "endTime": 1725398390275,
+  "endTime": 1725399325507,
   "band_list": [
     {
       "raw_hot": 1194007,
@@ -443,20 +443,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45254,
+      "num": 45254,
+      "word": "68岁教授说现在的年轻人比以前难多了",
+      "onboard_time": 1725391270,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44995,
       "num": 49301,
       "word": "杨倩欢迎大家选修清华射击课",
       "onboard_time": 1725382336,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 40702,
-      "num": 40702,
-      "word": "68岁教授说现在的年轻人比以前难多了",
-      "onboard_time": 1725391270,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39195,
@@ -507,12 +507,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22056,
+      "num": 22056,
+      "word": "让孩子课间走出教室跑跑跳跳",
+      "onboard_time": 1725396071,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20983,
       "num": 24261,
       "word": "崩溃的妈无奈的爸失控的娃",
       "onboard_time": 1725389892,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 19373,
+      "num": 23981,
+      "word": "钟楚曦韩东君 野性的张力",
+      "onboard_time": 1725392711,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 18756,
@@ -523,35 +539,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18546,
-      "num": 23981,
-      "word": "钟楚曦韩东君 野性的张力",
-      "onboard_time": 1725392711,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 18297,
-      "num": 18297,
+      "num": 19574,
       "word": "藏海花系统点播梗",
       "onboard_time": 1725394271,
       "rank": 37,
       "category": "剧集"
     },
     {
-      "raw_hot": 18192,
-      "num": 18192,
-      "word": "别人卡bug他是卡爸爸",
-      "onboard_time": 1725393072,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17611,
-      "num": 17611,
+      "raw_hot": 18207,
+      "num": 19603,
       "word": "新疆重庆实力演绎冰火两重天",
       "onboard_time": 1725394692,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18200,
+      "num": 19598,
+      "word": "别人卡bug他是卡爸爸",
+      "onboard_time": 1725393072,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -563,16 +571,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 14577,
-      "num": 18525,
-      "word": "让孩子课间走出教室跑跑跳跳",
-      "onboard_time": 1725396071,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 13359,
-      "num": 42525,
+      "num": 45691,
       "word": "警方回应男生因室友电瓶爆燃烧伤",
       "onboard_time": 1725396732,
       "rank": 9,
