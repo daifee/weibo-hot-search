@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725391078468,
+  "endTime": 1725392196676,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -9067,6 +9067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 27922,
+      "num": 27922,
+      "word": "被打只能屈辱承受吗",
+      "onboard_time": 1725389472,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27884,
       "num": 308249,
       "word": "和佰草集与檀健次再见一次",
@@ -9128,14 +9136,6 @@
       "word": "孩子们需要更多元的课间安排",
       "onboard_time": 1725199521,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26081,
-      "num": 26081,
-      "word": "被打只能屈辱承受吗",
-      "onboard_time": 1725389472,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -9323,6 +9323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20116,
+      "num": 24261,
+      "word": "崩溃的妈无奈的爸失控的娃",
+      "onboard_time": 1725389892,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 19916,
       "num": 24150,
       "word": "别把手机给檀健次",
@@ -9355,20 +9363,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18807,
+      "num": 21955,
+      "word": "68岁教授说现在的年轻人比以前难多了",
+      "onboard_time": 1725391270,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18756,
       "num": 101265,
       "word": "女孩向男友求婚没想男友也准备求婚",
       "onboard_time": 1725384733,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18617,
-      "num": 24261,
-      "word": "崩溃的妈无奈的爸失控的娃",
-      "onboard_time": 1725389892,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 17823,
@@ -9401,6 +9409,14 @@
       "onboard_time": 1725340344,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15839,
+      "num": 21952,
+      "word": "迪丽热巴五年前后对比",
+      "onboard_time": 1725392170,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 15617,
