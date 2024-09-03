@@ -1,10 +1,10 @@
 {
   "startTime": 1725294442172,
-  "endTime": 1725331363542,
+  "endTime": 1725331979522,
   "band_list": [
     {
       "raw_hot": 2296649,
-      "num": 1351289,
+      "num": 1697173,
       "word": "黑兔 擦边",
       "onboard_time": 1725323061,
       "rank": 3,
@@ -12,18 +12,26 @@
     },
     {
       "raw_hot": 2050573,
-      "num": 1344856,
+      "num": 1760789,
       "word": "花洛莉亚 擦边",
       "onboard_time": 1725283462,
       "rank": 10,
       "category": "美妆"
     },
     {
-      "raw_hot": 1512509,
-      "num": 1512509,
+      "raw_hot": 1878921,
+      "num": 1878921,
       "word": "东平佛山中学",
       "onboard_time": 1725329480,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1526724,
+      "num": 1793418,
+      "word": "山东泰安一中学附近发生交通事故",
+      "onboard_time": 1725329480,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -33,14 +41,6 @@
       "onboard_time": 1725322880,
       "rank": 11,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1360660,
-      "num": 1360660,
-      "word": "山东泰安一中学附近发生交通事故",
-      "onboard_time": 1725329480,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1334016,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1029306,
-      "num": 1342752,
+      "num": 1382656,
       "word": "辛巴 小杨哥",
       "onboard_time": 1725320177,
       "rank": 1,
@@ -131,20 +131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 599270,
+      "num": 1334734,
+      "word": "西游记 韩国kpop",
+      "onboard_time": 1725329239,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 597475,
       "num": 597475,
       "word": "美国21岁体操冠军在大学宿舍遭枪杀",
       "onboard_time": 1725326359,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 575411,
-      "num": 1334734,
-      "word": "西游记 韩国kpop",
-      "onboard_time": 1725329239,
-      "rank": 6,
-      "category": "音乐"
     },
     {
       "raw_hot": 562453,
@@ -235,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 352819,
+      "num": 352819,
+      "word": "被王楚然55套古装硬控35秒",
+      "onboard_time": 1725329360,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 349670,
       "num": 349670,
       "word": "野孩子 定档",
@@ -307,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 301679,
+      "num": 301679,
+      "word": "华为三折手机命名MateXT非凡大师",
+      "onboard_time": 1725329180,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 300054,
       "num": 300054,
       "word": "花洛莉亚",
@@ -339,12 +355,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 293956,
-      "num": 293956,
-      "word": "华为三折手机命名MateXT非凡大师",
-      "onboard_time": 1725329180,
-      "rank": 19,
-      "category": "数码"
+      "raw_hot": 295238,
+      "num": 295238,
+      "word": "官方通报市监局工作人员上班时间午休",
+      "onboard_time": 1725329059,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292552,
+      "num": 292552,
+      "word": "路边摊试吃刀蘸完糖水再切桃子",
+      "onboard_time": 1725328818,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290078,
@@ -395,22 +419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 273128,
-      "num": 273128,
-      "word": "路边摊试吃刀蘸完糖水再切桃子",
-      "onboard_time": 1725328818,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272558,
-      "num": 272558,
-      "word": "被王楚然55套古装硬控35秒",
-      "onboard_time": 1725329360,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 271701,
       "num": 271701,
       "word": "二胎妈重回职场工资三折",
@@ -427,14 +435,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 267453,
-      "num": 267453,
-      "word": "官方通报市监局工作人员上班时间午休",
-      "onboard_time": 1725329059,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 266500,
       "num": 266500,
       "word": "普京称家里小孩中文说得很流利",
@@ -448,6 +448,14 @@
       "word": "广西一地封山搜捕致5死命案嫌犯",
       "onboard_time": 1725291741,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257340,
+      "num": 257340,
+      "word": "35岁的我月薪2千在餐厅当学徒",
+      "onboard_time": 1725330860,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -491,14 +499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 231207,
-      "num": 231207,
-      "word": "35岁的我月薪2千在餐厅当学徒",
-      "onboard_time": 1725330860,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 231071,
       "num": 322725,
       "word": "棍铲 沙坪坝",
@@ -523,20 +523,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210809,
+      "num": 246038,
+      "word": "电影浴火之路定档",
+      "onboard_time": 1725330801,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 209599,
       "num": 209599,
       "word": "樊振东用霉霉的歌写文案",
       "onboard_time": 1725289642,
       "rank": 19,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 207630,
-      "num": 236628,
-      "word": "电影浴火之路定档",
-      "onboard_time": 1725330801,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 206065,
@@ -579,6 +579,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193341,
+      "num": 193341,
+      "word": "肖央赵丽颖刘烨新片暴打人贩子",
+      "onboard_time": 1725331460,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 191278,
+      "num": 191278,
+      "word": "被这个婆婆的一天累到了",
+      "onboard_time": 1725329780,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190287,
       "num": 190287,
       "word": "黑兔",
@@ -603,12 +619,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179304,
-      "num": 179304,
-      "word": "被这个婆婆的一天累到了",
-      "onboard_time": 1725329780,
-      "rank": 45,
-      "category": "情感"
+      "raw_hot": 184540,
+      "num": 184540,
+      "word": "揭秘被指擦边美妆品牌黑兔公司",
+      "onboard_time": 1725331522,
+      "rank": 38,
+      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 175381,
@@ -635,12 +651,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162180,
+      "num": 162180,
+      "word": "一湖南籍商人在乌干达被杀害分尸",
+      "onboard_time": 1725331699,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161618,
+      "num": 161618,
+      "word": "郑钦文今年美网ACE有多强",
+      "onboard_time": 1725331040,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160951,
       "num": 160951,
       "word": "猫抓板 虫子",
       "onboard_time": 1725291980,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 156721,
+      "num": 156721,
+      "word": "上证指数",
+      "onboard_time": 1725331460,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 156354,
+      "num": 1053815,
+      "word": "苹果曾在中国一年税收高达400亿",
+      "onboard_time": 1725327139,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 152746,
@@ -761,14 +809,6 @@
       "onboard_time": 1725290361,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 133777,
-      "num": 1053815,
-      "word": "苹果曾在中国一年税收高达400亿",
-      "onboard_time": 1725327139,
-      "rank": 38,
-      "category": "互联网"
     },
     {
       "raw_hot": 133745,
@@ -1012,7 +1052,7 @@
     },
     {
       "raw_hot": 34157,
-      "num": 1358269,
+      "num": 1769510,
       "word": "巴黎残奥那些震撼心灵的细节",
       "onboard_time": 1725282201,
       "rank": 2,
