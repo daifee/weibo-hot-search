@@ -1,6 +1,6 @@
 {
   "startTime": 1725294442172,
-  "endTime": 1725368156411,
+  "endTime": 1725369973848,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -27,20 +27,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3088603,
+      "num": 601537,
+      "word": "男孩骑行遭碾压身亡司机妻子患白血病",
+      "onboard_time": 1725365420,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 2657671,
       "num": 2657671,
       "word": "芭莎爆料 四位女艺人",
       "onboard_time": 1725353361,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2375444,
-      "num": 601537,
-      "word": "男孩骑行遭碾压身亡司机妻子患白血病",
-      "onboard_time": 1725365420,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 2341155,
@@ -121,6 +121,14 @@
       "onboard_time": 1725322880,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1334173,
+      "num": 1334173,
+      "word": "搭讪姜珮瑶",
+      "onboard_time": 1725366620,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1334016,
@@ -227,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1014062,
+      "num": 524786,
+      "word": "戴建业说35岁失业让人们不敢生育",
+      "onboard_time": 1725366980,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 979538,
       "num": 979538,
       "word": "芭莎工作人员爆料景甜耍大牌",
@@ -249,14 +265,6 @@
       "onboard_time": 1725284782,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 912826,
-      "num": 912826,
-      "word": "搭讪姜珮瑶",
-      "onboard_time": 1725366620,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 909718,
@@ -313,6 +321,14 @@
       "onboard_time": 1725358640,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 808713,
+      "num": 808713,
+      "word": "王楚钦当着莎莎的面被别人喊王亲亲",
+      "onboard_time": 1725366620,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 805695,
@@ -377,14 +393,6 @@
       "onboard_time": 1725336323,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 701426,
-      "num": 701426,
-      "word": "王楚钦当着莎莎的面被别人喊王亲亲",
-      "onboard_time": 1725366620,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 681552,
@@ -539,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 524557,
+      "num": 524557,
+      "word": "全红婵用筷子炫整块牛排",
+      "onboard_time": 1725365479,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 523005,
       "num": 688886,
       "word": "以为陈飞宇在给女生梳头",
@@ -609,6 +625,14 @@
       "onboard_time": 1725335312,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 476618,
+      "num": 476618,
+      "word": "丁禹兮 谈恋爱都不会",
+      "onboard_time": 1725366381,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 473724,
@@ -755,14 +779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 379009,
-      "num": 379009,
-      "word": "戴建业说35岁失业让人们不敢生育",
-      "onboard_time": 1725366980,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 378274,
       "num": 378274,
       "word": "官方通报市监局工作人员上班时间午休",
@@ -793,14 +809,6 @@
       "onboard_time": 1725344420,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 373179,
-      "num": 373179,
-      "word": "丁禹兮 谈恋爱都不会",
-      "onboard_time": 1725366381,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 373083,
@@ -985,6 +993,14 @@
       "onboard_time": 1725331699,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308245,
+      "num": 308245,
+      "word": "饿瘦和运动瘦哪个效果更好",
+      "onboard_time": 1725366019,
+      "rank": 25,
+      "category": "运动健身"
     },
     {
       "raw_hot": 302642,
@@ -1179,6 +1195,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 261940,
+      "num": 261940,
+      "word": "何运晨在offer6步入下一个五年",
+      "onboard_time": 1725368900,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261307,
       "num": 261307,
       "word": "张凌赫赵今麦公主抱",
@@ -1251,6 +1275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 249406,
+      "num": 249406,
+      "word": "赵丽颖提裙侧颜",
+      "onboard_time": 1725368481,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 247184,
       "num": 247184,
       "word": "樊振东正面回应未来规划",
@@ -1315,14 +1347,6 @@
       "category": "社会新闻,国内时政"
     },
     {
-      "raw_hot": 239805,
-      "num": 239805,
-      "word": "全红婵用筷子炫整块牛排",
-      "onboard_time": 1725365479,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 239381,
       "num": 239381,
       "word": "明年起iPhone将统一配OLED显示屏",
@@ -1337,6 +1361,14 @@
       "onboard_time": 1725361820,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238177,
+      "num": 238177,
+      "word": "迪丽热巴贺思慕围读剧本",
+      "onboard_time": 1725368840,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 235542,
@@ -1419,14 +1451,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 221717,
-      "num": 221717,
-      "word": "饿瘦和运动瘦哪个效果更好",
-      "onboard_time": 1725366019,
-      "rank": 25,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 221591,
       "num": 221591,
       "word": "iPhonePro系列首次在印度生产",
@@ -1499,6 +1523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 212526,
+      "num": 212526,
+      "word": "宁艺卓叫声好像CardiB",
+      "onboard_time": 1725364941,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210809,
       "num": 246038,
       "word": "电影浴火之路定档",
@@ -1523,6 +1555,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 208358,
+      "num": 208358,
+      "word": "彭高孙乐言be",
+      "onboard_time": 1725367519,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208339,
       "num": 208339,
       "word": "迪丽热巴张俪时隔一个月再合作",
@@ -1545,14 +1585,6 @@
       "onboard_time": 1725344660,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 207343,
-      "num": 207343,
-      "word": "宁艺卓叫声好像CardiB",
-      "onboard_time": 1725364941,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 206614,
@@ -1595,12 +1627,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200271,
+      "num": 200271,
+      "word": "杭州女生中考607分选职校",
+      "onboard_time": 1725369680,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199818,
       "num": 199818,
       "word": "王一博蹦着下班",
       "onboard_time": 1725354320,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198096,
+      "num": 198096,
+      "word": "男小三赛道也卷起来了",
+      "onboard_time": 1725366740,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 197721,
@@ -1699,6 +1747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189355,
+      "num": 189355,
+      "word": "刘耀文露臂肌",
+      "onboard_time": 1725368840,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187757,
       "num": 402565,
       "word": "于适泳池游泳大片",
@@ -1755,14 +1811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182896,
-      "num": 182896,
-      "word": "彭高孙乐言be",
-      "onboard_time": 1725367519,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 181774,
       "num": 181774,
       "word": "潘展乐在港澳行中确诊为莫雷高德",
@@ -1785,6 +1833,14 @@
       "onboard_time": 1725367700,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179951,
+      "num": 179951,
+      "word": "男孩骑行身亡案司机妻子称丈夫被打",
+      "onboard_time": 1725365120,
+      "rank": 38,
+      "category": "社会负面"
     },
     {
       "raw_hot": 179119,
@@ -1849,14 +1905,6 @@
       "onboard_time": 1725345802,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 174069,
-      "num": 174069,
-      "word": "男小三赛道也卷起来了",
-      "onboard_time": 1725366740,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 174027,
@@ -1979,6 +2027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166114,
+      "num": 166114,
+      "word": "电鸡一年十次以上处罚或影响征信",
+      "onboard_time": 1725367220,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165942,
       "num": 165942,
       "word": "王楚钦回应全红婵贴脸开大",
@@ -2001,14 +2057,6 @@
       "onboard_time": 1725345621,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 164174,
-      "num": 164174,
-      "word": "男孩骑行身亡案司机妻子称丈夫被打",
-      "onboard_time": 1725365120,
-      "rank": 38,
-      "category": "社会负面"
     },
     {
       "raw_hot": 163879,
@@ -2139,6 +2187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154454,
+      "num": 154454,
+      "word": "12306回应29元坐高铁免费吃40元盒饭",
+      "onboard_time": 1725369621,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152757,
       "num": 152757,
       "word": "宋亚轩弹唱流沙vlog",
@@ -2171,6 +2227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151026,
+      "num": 151026,
+      "word": "谢瑜回应喊樊振东是我的",
+      "onboard_time": 1725367460,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149189,
       "num": 149189,
       "word": "赵丽颖又是三人组",
@@ -2193,14 +2257,6 @@
       "onboard_time": 1725328039,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147884,
-      "num": 147884,
-      "word": "谢瑜回应喊樊振东是我的",
-      "onboard_time": 1725367460,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 147597,
@@ -2499,6 +2555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95341,
+      "num": 575611,
+      "word": "最近很火的烟台海肠到底是什么",
+      "onboard_time": 1725365360,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
       "raw_hot": 94177,
       "num": 459313,
       "word": "幼儿园关停孩子百万学费退不了",
@@ -2571,6 +2635,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 81982,
+      "num": 526831,
+      "word": "食用植物油散装运输卫生制定国家标准",
+      "onboard_time": 1725368240,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81121,
       "num": 81121,
       "word": "王楚钦澳门vlog",
@@ -2625,14 +2697,6 @@
       "onboard_time": 1725362721,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65076,
-      "num": 575611,
-      "word": "最近很火的烟台海肠到底是什么",
-      "onboard_time": 1725365360,
-      "rank": 11,
-      "category": "美食"
     },
     {
       "raw_hot": 62082,
@@ -2763,11 +2827,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38209,
+      "num": 210289,
+      "word": "主管道堵塞新房全被粪水泡了",
+      "onboard_time": 1725369080,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36066,
       "num": 107698,
       "word": "妈妈回应鼓励独臂儿子面对新同学",
       "onboard_time": 1725300672,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34994,
+      "num": 519019,
+      "word": "警方回应9岁男孩疑被男子放狗扑咬",
+      "onboard_time": 1725368840,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2820,11 +2900,19 @@
     },
     {
       "raw_hot": 24792,
-      "num": 137776,
+      "num": 308249,
       "word": "和佰草集与檀健次再见一次",
       "onboard_time": 1725368000,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 24228,
+      "num": 308404,
+      "word": "产地和价格注水是蟹卡最常见套路",
+      "onboard_time": 1725368300,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24133,
@@ -2873,6 +2961,14 @@
       "onboard_time": 1725351680,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 16575,
+      "num": 839769,
+      "word": "90秒科普中非合作成果",
+      "onboard_time": 1725368600,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16140,
