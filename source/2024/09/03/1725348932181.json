@@ -1,0 +1,410 @@
+{
+  "runTime": 1725348932181,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9308985,
+        "num": 9308985,
+        "word": "青岛警方通报王某驾车逆行殴打他人案",
+        "onboard_time": 1725341422,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2068661,
+        "num": 2068661,
+        "word": "泰安交通事故致11人遇难",
+        "onboard_time": 1725335672,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24137,
+        "num": 1207425,
+        "word": "79年前的今天我们胜利了",
+        "onboard_time": 1725332421,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1109659,
+        "num": 1109659,
+        "word": "王楚钦问全红婵不回北京了是吧",
+        "onboard_time": 1725343161,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 854481,
+        "num": 854481,
+        "word": "长沙冰块预订电话被家长打爆了",
+        "onboard_time": 1725346702,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 781237,
+        "num": 781237,
+        "word": "不想在出租屋里生孩子有错吗",
+        "onboard_time": 1725341361,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 760196,
+        "num": 760196,
+        "word": "迪丽热巴妆造",
+        "onboard_time": 1725346642,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 508356,
+        "num": 508356,
+        "word": "花洛莉亚 擦边",
+        "onboard_time": 1725283462,
+        "rank": 7,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 497744,
+        "num": 497744,
+        "word": "韩安冉体重160斤",
+        "onboard_time": 1725337523,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 441238,
+        "num": 441238,
+        "word": "广东将迎特大暴雨",
+        "onboard_time": 1725338784,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440316,
+        "num": 440316,
+        "word": "花四万隆的鼻子姑娘不满太自然",
+        "onboard_time": 1725336624,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449856,
+        "num": 437384,
+        "word": "迪丽热巴手背上的青筋",
+        "onboard_time": 1725345741,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 428382,
+        "num": 428382,
+        "word": "女子花光妈妈100万伪造250万假存单",
+        "onboard_time": 1725347241,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66037,
+        "num": 424573,
+        "word": "长春警方回应一小区发生伤人事件",
+        "onboard_time": 1725347720,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423532,
+        "num": 423532,
+        "word": "女子晒背被老人误认尸体连报4次警",
+        "onboard_time": 1725332780,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423073,
+        "num": 423073,
+        "word": "黄薇 妆造",
+        "onboard_time": 1725347720,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 404192,
+        "num": 404192,
+        "word": "台风摩羯或致广东三停一休",
+        "onboard_time": 1725338003,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73869,
+        "num": 402565,
+        "word": "于适泳池游泳大片",
+        "onboard_time": 1725344181,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 401839,
+        "num": 401839,
+        "word": "迪丽热巴陈飞宇慕胥辞十指相扣",
+        "onboard_time": 1725347481,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396452,
+        "num": 396452,
+        "word": "女子当街在法拉利上喷写渣男",
+        "onboard_time": 1725347121,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373398,
+        "num": 373398,
+        "word": "张杰谢娜三个女儿都上学了",
+        "onboard_time": 1725344420,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315671,
+        "num": 315671,
+        "word": "目击者讲述泰安交通事故现场",
+        "onboard_time": 1725345982,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304487,
+        "num": 304487,
+        "word": "潘玮柏2分钟剥了11只虾",
+        "onboard_time": 1725341361,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291643,
+        "num": 291643,
+        "word": "王昶求图",
+        "onboard_time": 1725334701,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90838,
+        "num": 270625,
+        "word": "云南大理出招解农村婚配难题",
+        "onboard_time": 1725347061,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31349,
+        "num": 267297,
+        "word": "黑心化学枸杞的生意经应深究",
+        "onboard_time": 1725347001,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267078,
+        "num": 267078,
+        "word": "鲁豫 有人说贾玲都不好笑了",
+        "onboard_time": 1725340642,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243044,
+        "num": 243044,
+        "word": "普京自曝日常只睡6小时",
+        "onboard_time": 1725339563,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 242602,
+        "num": 242602,
+        "word": "国乒有一个会议室的拍子要签",
+        "onboard_time": 1725345261,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241952,
+        "num": 241952,
+        "word": "苹果税在欧盟收17%中国收30%",
+        "onboard_time": 1725341841,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 239810,
+        "num": 239810,
+        "word": "慕胥辞",
+        "onboard_time": 1725339204,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225973,
+        "num": 225973,
+        "word": "张凌赫赵今麦公主抱",
+        "onboard_time": 1725345621,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220574,
+        "num": 220574,
+        "word": "深圳湾公路大桥坠海车主已身亡",
+        "onboard_time": 1725335120,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219990,
+        "num": 219990,
+        "word": "泰安车祸肇事者已被警方带走",
+        "onboard_time": 1725340223,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40599,
+        "num": 216085,
+        "word": "刘亦菲手持黄玫瑰咖啡",
+        "onboard_time": 1725348861,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118906,
+        "num": 214812,
+        "word": "辛巴称被小杨哥举报",
+        "onboard_time": 1725347001,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214543,
+        "num": 214543,
+        "word": "DQ联名世界之外",
+        "onboard_time": 1725347661,
+        "rank": 36,
+        "category": "游戏,时尚"
+      },
+      {
+        "raw_hot": 209103,
+        "num": 209103,
+        "word": "新疆开始下雪",
+        "onboard_time": 1725348501,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207797,
+        "num": 207797,
+        "word": "男子婚内将2套房产赠与和前妻儿子",
+        "onboard_time": 1725348861,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197109,
+        "num": 197109,
+        "word": "陈飞宇慕胥辞妆造",
+        "onboard_time": 1725348201,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195486,
+        "num": 195486,
+        "word": "樊振东正面回应未来规划",
+        "onboard_time": 1725344901,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194277,
+        "num": 194277,
+        "word": "黑兔 擦边",
+        "onboard_time": 1725323061,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192911,
+        "num": 192911,
+        "word": "苹果微信到底什么情况",
+        "onboard_time": 1725347960,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 192629,
+        "num": 192629,
+        "word": "王楚钦孙颖莎水灵灵地一起走了",
+        "onboard_time": 1725341122,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188421,
+        "num": 188421,
+        "word": "这句黄花梨是来要我命的",
+        "onboard_time": 1725347720,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188011,
+        "num": 188011,
+        "word": "官方回应先买墓地才能开死亡证明",
+        "onboard_time": 1725345382,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171268,
+        "num": 171268,
+        "word": "小天鹅被薅店主公告解决方案",
+        "onboard_time": 1725348380,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163265,
+        "num": 163265,
+        "word": "王楚钦对着全红婵歪嘴笑",
+        "onboard_time": 1725348560,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154803,
+        "num": 163203,
+        "word": "山东泰安市民自发为伤者献血",
+        "onboard_time": 1725346760,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163192,
+        "num": 163192,
+        "word": "网传逆行打人司机被居家拘留不属实",
+        "onboard_time": 1725342742,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中非合作论坛峰会这些看点值得关注#"
+    }
+  }
+}
