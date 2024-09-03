@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725392196676,
+  "endTime": 1725394934613,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -9068,7 +9068,7 @@
     },
     {
       "raw_hot": 27922,
-      "num": 27922,
+      "num": 41853,
       "word": "被打只能屈辱承受吗",
       "onboard_time": 1725389472,
       "rank": 30,
@@ -9147,6 +9147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25419,
+      "num": 25419,
+      "word": "68岁教授说现在的年轻人比以前难多了",
+      "onboard_time": 1725391270,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25202,
       "num": 32211,
       "word": "徐明浩看恋综看红温了",
@@ -9216,6 +9224,14 @@
       "word": "婚姻里该不该亲夫妻明算账",
       "onboard_time": 1725334341,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24087,
+      "num": 24087,
+      "word": "买校服牛奶才办入学涉事学校被整改",
+      "onboard_time": 1725389052,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -9299,6 +9315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20983,
+      "num": 24261,
+      "word": "崩溃的妈无奈的爸失控的娃",
+      "onboard_time": 1725389892,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 20887,
       "num": 24168,
       "word": "四方馆 浴罢不能",
@@ -9321,14 +9345,6 @@
       "onboard_time": 1725177739,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20116,
-      "num": 24261,
-      "word": "崩溃的妈无奈的爸失控的娃",
-      "onboard_time": 1725389892,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 19916,
@@ -9363,14 +9379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18807,
-      "num": 21955,
-      "word": "68岁教授说现在的年轻人比以前难多了",
-      "onboard_time": 1725391270,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 18756,
       "num": 101265,
       "word": "女孩向男友求婚没想男友也准备求婚",
@@ -9385,6 +9393,30 @@
       "onboard_time": 1725351680,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 17541,
+      "num": 17541,
+      "word": "藏海花系统点播梗",
+      "onboard_time": 1725394271,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 17473,
+      "num": 17473,
+      "word": "钟楚曦韩东君 野性的张力",
+      "onboard_time": 1725392711,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 17424,
+      "num": 21952,
+      "word": "迪丽热巴五年前后对比",
+      "onboard_time": 1725392170,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 17095,
@@ -9411,12 +9443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15839,
-      "num": 21952,
-      "word": "迪丽热巴五年前后对比",
-      "onboard_time": 1725392170,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 16131,
+      "num": 16920,
+      "word": "别人卡bug他是卡爸爸",
+      "onboard_time": 1725393072,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15617,
