@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/09/03 14:42:53
+本榜单时间：2024/01/01 00:21:05 ~ 2024/09/03 15:20:07
 </p>
 </blockquote>
 <p>
@@ -1023,6 +1023,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%8E%8B%E6%9F%90%E9%A9%BE%E8%BD%A6%E9%80%86%E8%A1%8C%E6%AE%B4%E6%89%93%E4%BB%96%E4%BA%BA%E6%A1%88%23" target="weibo">
+青岛警方通报王某驾车逆行殴打他人案（热度：9599572）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%AF%E9%83%B8%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E5%AE%B3%E6%A1%883%E4%BA%BA%E8%A2%AB%E5%88%91%E4%BA%8B%E8%BF%BD%E8%AF%89%23" target="weibo">
 邯郸初中生被害案3人被刑事追诉（热度：9583581）
 </a>
@@ -1139,12 +1145,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E7%89%8C%E5%B0%B1%E4%B8%8D%E6%8E%8F%E5%87%BA%E6%9D%A5%E4%BA%86%E5%90%A7%23" target="weibo">
 银牌就不掏出来了吧（热度：9234451）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%8E%8B%E6%9F%90%E9%A9%BE%E8%BD%A6%E9%80%86%E8%A1%8C%E6%AE%B4%E6%89%93%E4%BB%96%E4%BA%BA%E6%A1%88%23" target="weibo">
-青岛警方通报王某驾车逆行殴打他人案（热度：9214526）
 </a>
 </li>
 
