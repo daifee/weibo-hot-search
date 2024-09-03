@@ -1,6 +1,6 @@
 {
   "startTime": 1725380864855,
-  "endTime": 1725380864855,
+  "endTime": 1725381779930,
   "band_list": [
     {
       "raw_hot": 1194007,
@@ -41,6 +41,14 @@
       "onboard_time": 1725376401,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 598941,
+      "num": 776455,
+      "word": "家长称儿子遭教官猥亵已报警",
+      "onboard_time": 1725377780,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 585145,
@@ -88,14 +96,6 @@
       "word": "电鸡一年十次以上处罚或影响征信",
       "onboard_time": 1725367220,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284247,
-      "num": 284247,
-      "word": "家长称儿子遭教官猥亵已报警",
-      "onboard_time": 1725377780,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -147,6 +147,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226501,
+      "num": 226501,
+      "word": "景甜方否认耍大牌传闻",
+      "onboard_time": 1725379218,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 216918,
+      "num": 216918,
+      "word": "024596警号重启",
+      "onboard_time": 1725378619,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203417,
       "num": 203417,
       "word": "郑钦文vs萨巴伦卡",
@@ -163,12 +179,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181947,
-      "num": 181947,
-      "word": "024596警号重启",
-      "onboard_time": 1725378619,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 167180,
+      "num": 137512,
+      "word": "盛李豪也用张雨霏表情包",
+      "onboard_time": 1725379099,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 166711,
@@ -177,14 +193,6 @@
       "onboard_time": 1725366740,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 166427,
-      "num": 166427,
-      "word": "景甜方否认耍大牌传闻",
-      "onboard_time": 1725379218,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 163103,
@@ -209,14 +217,6 @@
       "onboard_time": 1725362721,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137512,
-      "num": 137512,
-      "word": "盛李豪也用张雨霏表情包",
-      "onboard_time": 1725379099,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 132485,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120633,
+      "num": 120633,
+      "word": "潘展乐腹肌变小肚子",
+      "onboard_time": 1725380178,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120515,
       "num": 137682,
       "word": "Angelababy鞠躬感谢粉丝",
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 114742,
-      "num": 114742,
+      "num": 120282,
       "word": "徐志胜去娱乐圈找素材了",
       "onboard_time": 1725378380,
       "rank": 36,
@@ -363,14 +371,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 85689,
-      "num": 94272,
-      "word": "潘展乐腹肌变小肚子",
-      "onboard_time": 1725380178,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 78217,
       "num": 94253,
       "word": "张雨霏最喜欢的运动员是郑钦文",
@@ -387,7 +387,15 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 23758,
+      "raw_hot": 77082,
+      "num": 77082,
+      "word": "第一次在古装剧看到学区房",
+      "onboard_time": 1725380057,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 43800,
       "num": 273272,
       "word": "追踪台风摩羯",
       "onboard_time": 1725380418,
