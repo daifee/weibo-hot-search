@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725402044711,
+  "endTime": 1725403134316,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -1480,6 +1480,14 @@
       "word": "多地学校换上了可躺式课桌椅",
       "onboard_time": 1725219911,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 638111,
+      "num": 128655,
+      "word": "三只羊女主播沫沫已有9个月未更新",
+      "onboard_time": 1725400093,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -4155,6 +4163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223659,
+      "num": 223659,
+      "word": "郑钦文vs萨巴伦卡",
+      "onboard_time": 1725378680,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222660,
       "num": 222660,
       "word": "AG巅峰对决狼队",
@@ -4531,14 +4547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206725,
-      "num": 77274,
-      "word": "三只羊女主播沫沫已有9个月未更新",
-      "onboard_time": 1725400093,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206614,
       "num": 224305,
       "word": "低智商犯罪杀青官宣",
@@ -4664,14 +4672,6 @@
       "word": "全红婵喜提拿着小乌龟的小狮子",
       "onboard_time": 1725286463,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 203417,
-      "num": 203417,
-      "word": "郑钦文vs萨巴伦卡",
-      "onboard_time": 1725378680,
-      "rank": 16,
       "category": "体育"
     },
     {
@@ -7411,6 +7411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122409,
+      "num": 122409,
+      "word": "68岁教授说现在的年轻人比以前难多了",
+      "onboard_time": 1725391270,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122258,
       "num": 122258,
       "word": "LCK季后赛",
@@ -7763,14 +7771,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 98604,
-      "num": 98604,
-      "word": "68岁教授说现在的年轻人比以前难多了",
-      "onboard_time": 1725391270,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97816,
       "num": 97816,
       "word": "iPhone16Pro或升级相机微距",
@@ -8019,6 +8019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74012,
+      "num": 74012,
+      "word": "沈腾一个游戏得罪马丽范丞丞贾玲",
+      "onboard_time": 1725385453,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73234,
       "num": 91361,
       "word": "赵露思侧麻花辫",
@@ -8172,7 +8180,7 @@
     },
     {
       "raw_hot": 65462,
-      "num": 77593,
+      "num": 128678,
       "word": "被打只能屈辱承受吗",
       "onboard_time": 1725389472,
       "rank": 30,
@@ -8369,14 +8377,6 @@
       "onboard_time": 1725260660,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55628,
-      "num": 55628,
-      "word": "沈腾一个游戏得罪马丽范丞丞贾玲",
-      "onboard_time": 1725385453,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 55521,
@@ -8715,6 +8715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39569,
+      "num": 39569,
+      "word": "崩溃的妈无奈的爸失控的娃",
+      "onboard_time": 1725389892,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 39325,
       "num": 52121,
       "word": "成毅水蓝色造型路透",
@@ -8777,6 +8785,14 @@
       "onboard_time": 1725383893,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 37133,
+      "num": 37133,
+      "word": "全红婵谁也没放过",
+      "onboard_time": 1725402554,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 37111,
@@ -8891,6 +8907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34337,
+      "num": 37126,
+      "word": "钟楚曦韩东君 野性的张力",
+      "onboard_time": 1725392711,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 34313,
       "num": 448299,
       "word": "充满门道与陷阱的共享充电宝生意",
@@ -8923,6 +8947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33785,
+      "num": 42000,
+      "word": "买校服牛奶才办入学涉事学校被整改",
+      "onboard_time": 1725389052,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33757,
       "num": 471360,
       "word": "坑老团伙神秘推销保健品",
@@ -8952,6 +8984,14 @@
       "word": "重庆多地发射火箭弹人工增雨",
       "onboard_time": 1725302593,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32676,
+      "num": 37114,
+      "word": "让孩子课间走出教室跑跑跳跳",
+      "onboard_time": 1725396071,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -9003,6 +9043,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 31831,
+      "num": 45691,
+      "word": "警方回应男生因室友电瓶爆燃烧伤",
+      "onboard_time": 1725396732,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31761,
       "num": 1689120,
       "word": "神十八乘组的太空日常",
@@ -9019,12 +9067,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31565,
-      "num": 45691,
-      "word": "警方回应男生因室友电瓶爆燃烧伤",
-      "onboard_time": 1725396732,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 31385,
+      "num": 37093,
+      "word": "全红婵上一秒打球下一秒睡觉",
+      "onboard_time": 1725400872,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 31349,
@@ -9041,14 +9089,6 @@
       "onboard_time": 1725174319,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30241,
-      "num": 42000,
-      "word": "买校服牛奶才办入学涉事学校被整改",
-      "onboard_time": 1725389052,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30028,
@@ -9083,20 +9123,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 29665,
-      "num": 29665,
-      "word": "崩溃的妈无奈的爸失控的娃",
-      "onboard_time": 1725389892,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 29582,
       "num": 268307,
       "word": "欧莱雅与乡村女性的稻田秀场",
       "onboard_time": 1725246258,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29309,
+      "num": 44483,
+      "word": "迪丽热巴五年前后对比",
+      "onboard_time": 1725392170,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 28500,
@@ -9131,14 +9171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27712,
-      "num": 29662,
-      "word": "让孩子课间走出教室跑跑跳跳",
-      "onboard_time": 1725396071,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27452,
       "num": 491150,
       "word": "湖南汛情受损学校绝大部分已修复",
@@ -9153,14 +9185,6 @@
       "onboard_time": 1725387492,
       "rank": 43,
       "category": "艺人,电竞"
-    },
-    {
-      "raw_hot": 27424,
-      "num": 44483,
-      "word": "迪丽热巴五年前后对比",
-      "onboard_time": 1725392170,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 26694,
@@ -9193,14 +9217,6 @@
       "onboard_time": 1725199521,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25974,
-      "num": 29657,
-      "word": "钟楚曦韩东君 野性的张力",
-      "onboard_time": 1725392711,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 25893,
@@ -9297,14 +9313,6 @@
       "onboard_time": 1725264680,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 23923,
-      "num": 29637,
-      "word": "全红婵上一秒打球下一秒睡觉",
-      "onboard_time": 1725400872,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 23880,
