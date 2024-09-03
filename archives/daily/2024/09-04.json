@@ -1,0 +1,411 @@
+{
+  "startTime": 1725380864855,
+  "endTime": 1725380864855,
+  "band_list": [
+    {
+      "raw_hot": 1194007,
+      "num": 166173,
+      "word": "40岁以上女性禁用紧急避孕药",
+      "onboard_time": 1725373341,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 875988,
+      "num": 927814,
+      "word": "男孩玩火烧伤后竟被老人驱赶",
+      "onboard_time": 1725374541,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 866831,
+      "num": 165680,
+      "word": "男孩骑行遭碾压身亡司机妻子患白血病",
+      "onboard_time": 1725365420,
+      "rank": 21,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 723784,
+      "num": 723784,
+      "word": "颜怡颜悦 七个矮子放现在叫男团",
+      "onboard_time": 1725375443,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 661611,
+      "num": 661611,
+      "word": "张雨霏说一个月没下水痛经好很多",
+      "onboard_time": 1725376401,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 585145,
+      "num": 585145,
+      "word": "青岛警方通报王某驾车逆行殴打他人案",
+      "onboard_time": 1725341422,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 466496,
+      "num": 164920,
+      "word": "儿童骑行被碾压案司机亲属发声",
+      "onboard_time": 1725361732,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453666,
+      "num": 453666,
+      "word": "这居然是秦俊杰",
+      "onboard_time": 1725369980,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 396292,
+      "num": 396292,
+      "word": "芭莎爆料 四位女艺人",
+      "onboard_time": 1725353361,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 310331,
+      "num": 163914,
+      "word": "碾压骑行孩童司机以过失致死罪被捕",
+      "onboard_time": 1725363620,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307953,
+      "num": 307953,
+      "word": "电鸡一年十次以上处罚或影响征信",
+      "onboard_time": 1725367220,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284247,
+      "num": 284247,
+      "word": "家长称儿子遭教官猥亵已报警",
+      "onboard_time": 1725377780,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266303,
+      "num": 266303,
+      "word": "12306回应29元坐高铁免费吃40元盒饭",
+      "onboard_time": 1725369621,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254908,
+      "num": 254908,
+      "word": "言承旭再上恋综鲨疯了",
+      "onboard_time": 1725376882,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 249589,
+      "num": 249589,
+      "word": "深圳台风",
+      "onboard_time": 1725373701,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244357,
+      "num": 244357,
+      "word": "王楚钦孙颖莎是混双项目上的孤勇者",
+      "onboard_time": 1725376042,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 238601,
+      "num": 238601,
+      "word": "搭讪姜珮瑶",
+      "onboard_time": 1725366620,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 229854,
+      "num": 229854,
+      "word": "戴建业说35岁失业让人们不敢生育",
+      "onboard_time": 1725366980,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203417,
+      "num": 203417,
+      "word": "郑钦文vs萨巴伦卡",
+      "onboard_time": 1725378680,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193028,
+      "num": 193028,
+      "word": "河南一特大诈骗案有人称遭刑讯逼供",
+      "onboard_time": 1725372803,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181947,
+      "num": 181947,
+      "word": "024596警号重启",
+      "onboard_time": 1725378619,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166711,
+      "num": 163384,
+      "word": "男小三赛道也卷起来了",
+      "onboard_time": 1725366740,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 166427,
+      "num": 166427,
+      "word": "景甜方否认耍大牌传闻",
+      "onboard_time": 1725379218,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 163103,
+      "num": 163103,
+      "word": "王楚钦当着莎莎的面被别人喊王亲亲",
+      "onboard_time": 1725366620,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 156714,
+      "num": 164749,
+      "word": "造型师把张韶涵当洋娃娃养",
+      "onboard_time": 1725370761,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 140054,
+      "num": 140054,
+      "word": "园长收学生6元巧克力现场监控公布",
+      "onboard_time": 1725362721,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137512,
+      "num": 137512,
+      "word": "盛李豪也用张雨霏表情包",
+      "onboard_time": 1725379099,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 132485,
+      "num": 132485,
+      "word": "饿瘦和运动瘦哪个效果更好",
+      "onboard_time": 1725366019,
+      "rank": 31,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 132452,
+      "num": 138275,
+      "word": "谢娜回应",
+      "onboard_time": 1725371961,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127482,
+      "num": 127482,
+      "word": "卫健局回应男子1天拔23颗牙后去世",
+      "onboard_time": 1725377780,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121685,
+      "num": 121685,
+      "word": "广西致5死命案嫌犯已潜逃四天",
+      "onboard_time": 1725361640,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120515,
+      "num": 137682,
+      "word": "Angelababy鞠躬感谢粉丝",
+      "onboard_time": 1725362421,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 120176,
+      "num": 120176,
+      "word": "全红婵用筷子炫整块牛排",
+      "onboard_time": 1725365479,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 118707,
+      "num": 118707,
+      "word": "马龙王楚钦一起开黑",
+      "onboard_time": 1725371842,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114742,
+      "num": 114742,
+      "word": "徐志胜去娱乐圈找素材了",
+      "onboard_time": 1725378380,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 112594,
+      "num": 112594,
+      "word": "杨幂水绿色高定",
+      "onboard_time": 1725365060,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 106193,
+      "num": 106193,
+      "word": "被室友电瓶爆燃烧伤男孩仍未脱险",
+      "onboard_time": 1725375082,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105231,
+      "num": 105231,
+      "word": "台风摩羯将登陆华南沿海",
+      "onboard_time": 1725373222,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104156,
+      "num": 104156,
+      "word": "丁禹兮 谈恋爱都不会",
+      "onboard_time": 1725366381,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 102885,
+      "num": 102885,
+      "word": "被打男司机挨打还手算正当防卫吗",
+      "onboard_time": 1725372923,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99389,
+      "num": 99389,
+      "word": "赵露思灰色毛衫碎花内搭",
+      "onboard_time": 1725373762,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 95798,
+      "num": 95798,
+      "word": "宁艺卓叫声好像CardiB",
+      "onboard_time": 1725364941,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 94333,
+      "num": 94333,
+      "word": "巨蟹座在忍让中爆发",
+      "onboard_time": 1725373462,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 87991,
+      "num": 94330,
+      "word": "六大行人均月薪酬不到3万元",
+      "onboard_time": 1725356360,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87640,
+      "num": 94303,
+      "word": "田馥甄新专辑要来了",
+      "onboard_time": 1725377420,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 85689,
+      "num": 94272,
+      "word": "潘展乐腹肌变小肚子",
+      "onboard_time": 1725380178,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 78217,
+      "num": 94253,
+      "word": "张雨霏最喜欢的运动员是郑钦文",
+      "onboard_time": 1725370880,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 78139,
+      "num": 94237,
+      "word": "eStar战胜TTG",
+      "onboard_time": 1725377660,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 23758,
+      "num": 273272,
+      "word": "追踪台风摩羯",
+      "onboard_time": 1725380418,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2094,
+      "num": 675456,
+      "word": "90秒科普中非合作成果",
+      "onboard_time": 1725368600,
+      "rank": 2,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#共创中非美好未来#"
+    }
+  ]
+}
