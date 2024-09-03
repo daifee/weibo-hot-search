@@ -1,0 +1,410 @@
+{
+  "runTime": 1725355378033,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6264694,
+        "num": 6264694,
+        "word": "青岛警方通报王某驾车逆行殴打他人案",
+        "onboard_time": 1725341422,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2458872,
+        "num": 2458872,
+        "word": "芭莎爆料 四位女艺人",
+        "onboard_time": 1725353361,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69799,
+        "num": 1409896,
+        "word": "雪域高原焕新貌",
+        "onboard_time": 1725354260,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 968889,
+        "num": 968889,
+        "word": "芭莎工作人员爆料景甜耍大牌",
+        "onboard_time": 1725349879,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 601073,
+        "num": 601073,
+        "word": "长沙冰块预订电话被家长打爆了",
+        "onboard_time": 1725346702,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511961,
+        "num": 511961,
+        "word": "女子花光妈妈100万伪造250万假存单",
+        "onboard_time": 1725347241,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 853747,
+        "num": 511320,
+        "word": "李昕亮 柳岩结婚了我会有点生气",
+        "onboard_time": 1725351442,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 510568,
+        "num": 510568,
+        "word": "新疆开始下雪",
+        "onboard_time": 1725348501,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45840,
+        "num": 475757,
+        "word": "律师谈王某逆行打人不构成寻衅滋事",
+        "onboard_time": 1725354859,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473724,
+        "num": 473724,
+        "word": "小天鹅被薅店主公告解决方案",
+        "onboard_time": 1725348380,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1089033,
+        "num": 472683,
+        "word": "泰安交通事故致11人遇难",
+        "onboard_time": 1725335672,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552773,
+        "num": 470374,
+        "word": "女子当街在法拉利上喷写渣男",
+        "onboard_time": 1725347121,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465350,
+        "num": 465350,
+        "word": "逆行打人女子已写道歉书致歉",
+        "onboard_time": 1725350600,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418409,
+        "num": 418409,
+        "word": "王楚钦问全红婵不回北京了是吧",
+        "onboard_time": 1725343161,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 417377,
+        "num": 417377,
+        "word": "王昶 在黄山拍到了人生照片",
+        "onboard_time": 1725352280,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 391409,
+        "num": 415102,
+        "word": "谢娜 出来工作",
+        "onboard_time": 1725350360,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362804,
+        "num": 412038,
+        "word": "迪丽热巴妆造",
+        "onboard_time": 1725346642,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294341,
+        "num": 407221,
+        "word": "阚清子说未婚夫是自己影迷",
+        "onboard_time": 1725354201,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26448,
+        "num": 404150,
+        "word": "家长烧掉孩子3000张烟卡不值得叫好",
+        "onboard_time": 1725354682,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22463,
+        "num": 401971,
+        "word": "卡牌盲盒玩法诱使孩子产生赌徒心理",
+        "onboard_time": 1725354201,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398852,
+        "num": 398852,
+        "word": "男子婚内将2套房产赠与和前妻儿子",
+        "onboard_time": 1725348861,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31843,
+        "num": 384999,
+        "word": "烟台海肠捞饭确实名不虚传",
+        "onboard_time": 1725354260,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 373083,
+        "num": 373083,
+        "word": "上海月租2000元的房子",
+        "onboard_time": 1725349580,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 342031,
+        "num": 342031,
+        "word": "潘展乐你腹肌呢",
+        "onboard_time": 1725350541,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302167,
+        "num": 302167,
+        "word": "阿条姐 先天特工圣体",
+        "onboard_time": 1725352580,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258810,
+        "num": 258810,
+        "word": "不想在出租屋里生孩子有错吗",
+        "onboard_time": 1725341361,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249955,
+        "num": 249955,
+        "word": "压扁的小面包",
+        "onboard_time": 1725351261,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235089,
+        "num": 235089,
+        "word": "招行上半年人均月薪5.14万元",
+        "onboard_time": 1725354201,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 232670,
+        "num": 234756,
+        "word": "祝绪丹看手表这段不像演的",
+        "onboard_time": 1725349580,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231459,
+        "num": 234694,
+        "word": "易烊千玺的面部折叠度",
+        "onboard_time": 1725349821,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 234692,
+        "num": 234692,
+        "word": "我的阿勒泰都下雪了",
+        "onboard_time": 1725355042,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219968,
+        "num": 219968,
+        "word": "花四万隆的鼻子姑娘不满太自然",
+        "onboard_time": 1725336624,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216082,
+        "num": 216082,
+        "word": "黄薇 妆造",
+        "onboard_time": 1725347720,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214952,
+        "num": 214952,
+        "word": "韩安冉体重160斤",
+        "onboard_time": 1725337523,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 206592,
+        "num": 206592,
+        "word": "战国袍",
+        "onboard_time": 1725353301,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199818,
+        "num": 199818,
+        "word": "王一博蹦着下班",
+        "onboard_time": 1725354320,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196557,
+        "num": 196557,
+        "word": "普京自曝日常只睡6小时",
+        "onboard_time": 1725339563,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 196317,
+        "num": 196317,
+        "word": "大城市落户为什么越来越容易了",
+        "onboard_time": 1725351501,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192532,
+        "num": 192532,
+        "word": "迪丽热巴张俪时隔一个月再合作",
+        "onboard_time": 1725352401,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190469,
+        "num": 190469,
+        "word": "阿条姐当年是玩冷兵器的",
+        "onboard_time": 1725352280,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182010,
+        "num": 182010,
+        "word": "广东将迎特大暴雨",
+        "onboard_time": 1725338784,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173084,
+        "num": 173084,
+        "word": "慕胥辞原著",
+        "onboard_time": 1725352401,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171236,
+        "num": 171236,
+        "word": "黄雨婷太全面了",
+        "onboard_time": 1725355280,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172891,
+        "num": 170823,
+        "word": "迪丽热巴白日提灯替灵开道",
+        "onboard_time": 1725352580,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168045,
+        "num": 168045,
+        "word": "路人养老院偶遇徐正溪",
+        "onboard_time": 1725354499,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167083,
+        "num": 167083,
+        "word": "潘玮柏2分钟剥了11只虾",
+        "onboard_time": 1725341361,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165186,
+        "num": 165186,
+        "word": "台风摩羯或致广东三停一休",
+        "onboard_time": 1725338003,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164519,
+        "num": 164519,
+        "word": "王者荣耀",
+        "onboard_time": 1725354083,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163637,
+        "num": 163637,
+        "word": "阿条姐民族舞十级",
+        "onboard_time": 1725352101,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160079,
+        "num": 160079,
+        "word": "女子晒背被老人误认尸体连报4次警",
+        "onboard_time": 1725332780,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国和非洲国家是患难之交#"
+    }
+  }
+}
