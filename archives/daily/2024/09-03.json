@@ -1,6 +1,6 @@
 {
   "startTime": 1725294442172,
-  "endTime": 1725348932181,
+  "endTime": 1725352018112,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -89,6 +89,14 @@
       "onboard_time": 1725326359,
       "rank": 39,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1273780,
+      "num": 1273780,
+      "word": "长沙冰块预订电话被家长打爆了",
+      "onboard_time": 1725346702,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1261285,
@@ -195,12 +203,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 854481,
-      "num": 854481,
-      "word": "长沙冰块预订电话被家长打爆了",
-      "onboard_time": 1725346702,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 814527,
+      "num": 814527,
+      "word": "芭莎工作人员爆料景甜耍大牌",
+      "onboard_time": 1725349879,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 781237,
@@ -251,6 +259,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 687748,
+      "num": 687748,
+      "word": "新疆开始下雪",
+      "onboard_time": 1725348501,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 678404,
+      "num": 591362,
+      "word": "女子当街在法拉利上喷写渣男",
+      "onboard_time": 1725347121,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 659659,
       "num": 659659,
       "word": "三只羊合伙人回怼辛巴",
@@ -288,6 +312,14 @@
       "word": "广东将迎特大暴雨",
       "onboard_time": 1725338784,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 575425,
+      "num": 575425,
+      "word": "女子花光妈妈100万伪造250万假存单",
+      "onboard_time": 1725347241,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -360,6 +392,14 @@
       "word": "校方否认致11死车祸司机与师生有矛盾",
       "onboard_time": 1725339984,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 510609,
+      "num": 510609,
+      "word": "逆行打人女子已写道歉书致歉",
+      "onboard_time": 1725350600,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -467,14 +507,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 428382,
-      "num": 428382,
-      "word": "女子花光妈妈100万伪造250万假存单",
-      "onboard_time": 1725347241,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 423073,
       "num": 423073,
       "word": "黄薇 妆造",
@@ -489,6 +521,14 @@
       "onboard_time": 1725340223,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409164,
+      "num": 409164,
+      "word": "李昕亮 柳岩结婚了我会有点生气",
+      "onboard_time": 1725351442,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 409134,
@@ -513,14 +553,6 @@
       "onboard_time": 1725347481,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 396452,
-      "num": 396452,
-      "word": "女子当街在法拉利上喷写渣男",
-      "onboard_time": 1725347121,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 379134,
@@ -576,6 +608,14 @@
       "word": "35岁的我月薪2千在餐厅当学徒",
       "onboard_time": 1725330860,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361870,
+      "num": 361870,
+      "word": "小天鹅被薅店主公告解决方案",
+      "onboard_time": 1725348380,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -683,6 +723,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318713,
+      "num": 314994,
+      "word": "上海月租2000元的房子",
+      "onboard_time": 1725349580,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 317911,
+      "num": 317911,
+      "word": "潘展乐你腹肌呢",
+      "onboard_time": 1725350541,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 317889,
       "num": 317889,
       "word": "电影野孩子开预售",
@@ -721,6 +777,14 @@
       "onboard_time": 1725331699,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305374,
+      "num": 305374,
+      "word": "谢娜 出来工作",
+      "onboard_time": 1725350360,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 302642,
@@ -811,6 +875,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 286484,
+      "num": 286484,
+      "word": "祝绪丹看手表这段不像演的",
+      "onboard_time": 1725349580,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 284503,
       "num": 284503,
       "word": "蔡磊夫人顶着发烧泼冰水",
@@ -899,6 +971,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 265095,
+      "num": 265095,
+      "word": "易烊千玺的面部折叠度",
+      "onboard_time": 1725349821,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 261307,
       "num": 261307,
       "word": "张凌赫赵今麦公主抱",
@@ -929,6 +1009,14 @@
       "onboard_time": 1725290781,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 254445,
+      "num": 254445,
+      "word": "男子婚内将2套房产赠与和前妻儿子",
+      "onboard_time": 1725348861,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252679,
@@ -977,6 +1065,14 @@
       "onboard_time": 1725345261,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 242444,
+      "num": 384318,
+      "word": "辛巴称被小杨哥举报",
+      "onboard_time": 1725347001,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241783,
@@ -1075,12 +1171,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213639,
+      "num": 213639,
+      "word": "Knight疑似恋爱",
+      "onboard_time": 1725349520,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 210809,
       "num": 246038,
       "word": "电影浴火之路定档",
       "onboard_time": 1725330801,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 209780,
+      "num": 209780,
+      "word": "赵丽颖刘烨你过来呀",
+      "onboard_time": 1725349640,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 209599,
@@ -1091,28 +1203,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 209103,
-      "num": 209103,
-      "word": "新疆开始下雪",
-      "onboard_time": 1725348501,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207880,
       "num": 207880,
       "word": "巩俐郑钦文 永不妥协的嘴角",
       "onboard_time": 1725338184,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 207797,
-      "num": 207797,
-      "word": "男子婚内将2套房产赠与和前妻儿子",
-      "onboard_time": 1725348861,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207672,
@@ -1323,12 +1419,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171268,
-      "num": 171268,
-      "word": "小天鹅被薅店主公告解决方案",
-      "onboard_time": 1725348380,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 173133,
+      "num": 173133,
+      "word": "孙颖莎拍照暗号3211111",
+      "onboard_time": 1725350720,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 171010,
@@ -1427,6 +1523,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 157872,
+      "num": 157872,
+      "word": "压扁的小面包",
+      "onboard_time": 1725351261,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156721,
       "num": 156721,
       "word": "上证指数",
@@ -1441,6 +1545,14 @@
       "onboard_time": 1725327139,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 155586,
+      "num": 155586,
+      "word": "潘展乐目送全红婵",
+      "onboard_time": 1725351620,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 154803,
@@ -1659,14 +1771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 118906,
-      "num": 384318,
-      "word": "辛巴称被小杨哥举报",
-      "onboard_time": 1725347001,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110819,
       "num": 110819,
       "word": "边水往事 第二季",
@@ -1859,6 +1963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56953,
+      "num": 396780,
+      "word": "大城市落户为什么越来越容易了",
+      "onboard_time": 1725351501,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56150,
       "num": 67438,
       "word": "山东初一男女身高差惊呆网友",
@@ -2017,6 +2129,14 @@
       "onboard_time": 1725340344,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13143,
+      "num": 366831,
+      "word": "谁给李斯丹妮递个文艺片本子",
+      "onboard_time": 1725351680,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 12405,
