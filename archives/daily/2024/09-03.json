@@ -1,6 +1,6 @@
 {
   "startTime": 1725294442172,
-  "endTime": 1725338364720,
+  "endTime": 1725340840772,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -75,11 +75,27 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1319602,
+      "num": 1319602,
+      "word": "韩安冉体重160斤",
+      "onboard_time": 1725337523,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1261285,
       "num": 1261285,
       "word": "郑钦文遭种族歧视霸气回击",
       "onboard_time": 1725294437,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1218019,
+      "num": 1218019,
+      "word": "王昶求图",
+      "onboard_time": 1725334701,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -89,14 +105,6 @@
       "onboard_time": 1725336385,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1128681,
-      "num": 1128681,
-      "word": "王昶求图",
-      "onboard_time": 1725334701,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 1113821,
@@ -155,6 +163,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 878186,
+      "num": 878186,
+      "word": "花四万隆的鼻子姑娘不满太自然",
+      "onboard_time": 1725336624,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 878139,
       "num": 935571,
       "word": "樊振东王楚钦睡了一路",
@@ -184,14 +200,6 @@
       "word": "多方回应山东佛山中学附近交通事故",
       "onboard_time": 1725336323,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 688752,
-      "num": 688752,
-      "word": "花四万隆的鼻子姑娘不满太自然",
-      "onboard_time": 1725336624,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -243,12 +251,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 535330,
+      "num": 535330,
+      "word": "程序员辞职用低代码养鸡年销2亿",
+      "onboard_time": 1725336564,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 534249,
+      "num": 534249,
+      "word": "普京自曝日常只睡6小时",
+      "onboard_time": 1725339563,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 532251,
       "num": 532251,
       "word": "跳跳俏俏小咘芽背影",
       "onboard_time": 1725322040,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 525425,
+      "num": 525425,
+      "word": "广东将迎特大暴雨",
+      "onboard_time": 1725338784,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 523005,
@@ -275,12 +307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 466858,
-      "num": 466858,
-      "word": "程序员辞职用低代码养鸡年销2亿",
-      "onboard_time": 1725336564,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 478512,
+      "num": 478512,
+      "word": "潘展乐又开始整顿采访记者了",
+      "onboard_time": 1725335312,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 458292,
@@ -323,12 +355,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 432885,
-      "num": 432885,
-      "word": "韩安冉体重160斤",
-      "onboard_time": 1725337523,
-      "rank": 22,
-      "category": "网红"
+      "raw_hot": 443288,
+      "num": 443288,
+      "word": "台风摩羯或致广东三停一休",
+      "onboard_time": 1725338003,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429509,
@@ -345,6 +377,14 @@
       "onboard_time": 1725318616,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 423341,
+      "num": 886536,
+      "word": "慕胥辞",
+      "onboard_time": 1725339204,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 409134,
@@ -409,14 +449,6 @@
       "onboard_time": 1725330860,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 357970,
-      "num": 357970,
-      "word": "潘展乐又开始整顿采访记者了",
-      "onboard_time": 1725335312,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 356332,
@@ -523,11 +555,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 300064,
+      "num": 300064,
+      "word": "军训是没苦硬吃吗",
+      "onboard_time": 1725339023,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 300054,
       "num": 300054,
       "word": "花洛莉亚",
       "onboard_time": 1725321379,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297490,
+      "num": 297490,
+      "word": "校方否认致11死车祸司机与师生有矛盾",
+      "onboard_time": 1725339984,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -555,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 290196,
+      "num": 438729,
+      "word": "室友电动车爆燃致男孩全身烧伤",
+      "onboard_time": 1725336143,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290078,
       "num": 402216,
       "word": "王安宇选张艺凡不选田曦薇",
@@ -569,6 +625,14 @@
       "onboard_time": 1725336024,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 284503,
+      "num": 284503,
+      "word": "蔡磊夫人顶着发烧泼冰水",
+      "onboard_time": 1725339384,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283712,
@@ -643,6 +707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 266805,
+      "num": 266805,
+      "word": "潘展乐为樊振东特意站直了",
+      "onboard_time": 1725340581,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 266500,
       "num": 266500,
       "word": "普京称家里小孩中文说得很流利",
@@ -657,6 +729,14 @@
       "onboard_time": 1725291741,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257131,
+      "num": 286510,
+      "word": "黄晓明慕胥辞开机路透",
+      "onboard_time": 1725340463,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 255360,
@@ -723,6 +803,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227166,
+      "num": 227166,
+      "word": "日军又一恶魔细菌部队被曝光",
+      "onboard_time": 1725339803,
+      "rank": 37,
+      "category": "社会新闻,国外时政"
+    },
+    {
+      "raw_hot": 223755,
+      "num": 223755,
+      "word": "李灿荣wvs",
+      "onboard_time": 1725338363,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221813,
       "num": 729064,
       "word": "79年前的今天我们胜利了",
@@ -787,14 +883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 207662,
-      "num": 207662,
-      "word": "台风摩羯或致广东三停一休",
-      "onboard_time": 1725338003,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206614,
       "num": 224305,
       "word": "低智商犯罪杀青官宣",
@@ -811,12 +899,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198940,
-      "num": 438729,
-      "word": "室友电动车爆燃致男孩全身烧伤",
-      "onboard_time": 1725336143,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 200896,
+      "num": 200896,
+      "word": "檀健次金世佳新剧预约破百万",
+      "onboard_time": 1725339863,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 197721,
@@ -891,6 +979,22 @@
       "category": "社会新闻,美妆"
     },
     {
+      "raw_hot": 182342,
+      "num": 182342,
+      "word": "学生用空调需一次性缴3年费用",
+      "onboard_time": 1725339863,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179119,
+      "num": 179119,
+      "word": "范丞丞妈生校园感",
+      "onboard_time": 1725340581,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 178677,
       "num": 178677,
       "word": "大尺寸豪华SUV到底谁买",
@@ -907,6 +1011,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 175623,
+      "num": 175623,
+      "word": "Jennie将出演金泰浩新综艺",
+      "onboard_time": 1725340702,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175381,
       "num": 175381,
       "word": "超燃卡点视频重温九三阅兵",
@@ -920,6 +1032,22 @@
       "word": "葫芦岛",
       "onboard_time": 1725287843,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171010,
+      "num": 171010,
+      "word": "赵丽颖形容李红樱",
+      "onboard_time": 1725340581,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 170564,
+      "num": 170564,
+      "word": "泰安车祸肇事者已被警方带走",
+      "onboard_time": 1725340223,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -953,6 +1081,14 @@
       "onboard_time": 1725291980,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157296,
+      "num": 415662,
+      "word": "鲁豫 有人说贾玲都不好笑了",
+      "onboard_time": 1725340642,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 156721,
@@ -1105,6 +1241,14 @@
       "onboard_time": 1725285563,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131393,
+      "num": 230283,
+      "word": "汪苏泷 当你们是朋友没想到曝光我",
+      "onboard_time": 1725340223,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 129388,
@@ -1331,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48597,
+      "num": 1242012,
+      "word": "打击广告推广型网络黑灰产犯罪",
+      "onboard_time": 1725337105,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48240,
       "num": 48240,
       "word": "跳水队的小狮子只有一条红裤衩",
@@ -1345,14 +1497,6 @@
       "onboard_time": 1725297735,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 42439,
-      "num": 1092054,
-      "word": "打击广告推广型网络黑灰产犯罪",
-      "onboard_time": 1725337105,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40195,
@@ -1433,6 +1577,14 @@
       "onboard_time": 1725303671,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 16140,
+      "num": 880839,
+      "word": "起底假冒特供酒销售乱象",
+      "onboard_time": 1725340344,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10970,

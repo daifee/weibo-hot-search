@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725338364720,
+  "endTime": 1725340840772,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -347,6 +347,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1319602,
+      "num": 1319602,
+      "word": "韩安冉体重160斤",
+      "onboard_time": 1725337523,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1306694,
       "num": 1306694,
       "word": "福宝已进入假孕状态",
@@ -393,6 +401,14 @@
       "onboard_time": 1725260720,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1218019,
+      "num": 1218019,
+      "word": "王昶求图",
+      "onboard_time": 1725334701,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 1212394,
@@ -449,14 +465,6 @@
       "onboard_time": 1725234016,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1128681,
-      "num": 1128681,
-      "word": "王昶求图",
-      "onboard_time": 1725334701,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 1122225,
@@ -713,6 +721,14 @@
       "onboard_time": 1725154399,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 878186,
+      "num": 878186,
+      "word": "花四万隆的鼻子姑娘不满太自然",
+      "onboard_time": 1725336624,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 876760,
@@ -1081,14 +1097,6 @@
       "onboard_time": 1725254902,
       "rank": 36,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 688752,
-      "num": 688752,
-      "word": "花四万隆的鼻子姑娘不满太自然",
-      "onboard_time": 1725336624,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 686139,
@@ -1507,6 +1515,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 535330,
+      "num": 535330,
+      "word": "程序员辞职用低代码养鸡年销2亿",
+      "onboard_time": 1725336564,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 534249,
+      "num": 534249,
+      "word": "普京自曝日常只睡6小时",
+      "onboard_time": 1725339563,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 532251,
       "num": 532251,
       "word": "跳跳俏俏小咘芽背影",
@@ -1545,6 +1569,14 @@
       "onboard_time": 1725266660,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 525425,
+      "num": 525425,
+      "word": "广东将迎特大暴雨",
+      "onboard_time": 1725338784,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 523934,
@@ -1715,6 +1747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 478512,
+      "num": 478512,
+      "word": "潘展乐又开始整顿采访记者了",
+      "onboard_time": 1725335312,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 477595,
       "num": 477595,
       "word": "刘学义劝纪凌尘找个路人缘好的",
@@ -1761,14 +1801,6 @@
       "onboard_time": 1725167240,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 466858,
-      "num": 466858,
-      "word": "程序员辞职用低代码养鸡年销2亿",
-      "onboard_time": 1725336564,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 465295,
@@ -1875,6 +1907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 443288,
+      "num": 443288,
+      "word": "台风摩羯或致广东三停一休",
+      "onboard_time": 1725338003,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441593,
       "num": 587516,
       "word": "四胞胎系外地户口上不了公立学校",
@@ -1905,14 +1945,6 @@
       "onboard_time": 1725258860,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 432885,
-      "num": 432885,
-      "word": "韩安冉体重160斤",
-      "onboard_time": 1725337523,
-      "rank": 22,
-      "category": "网红"
     },
     {
       "raw_hot": 432051,
@@ -1953,6 +1985,14 @@
       "onboard_time": 1725110901,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 423341,
+      "num": 886536,
+      "word": "慕胥辞",
+      "onboard_time": 1725245657,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 421944,
@@ -2219,14 +2259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 357970,
-      "num": 357970,
-      "word": "潘展乐又开始整顿采访记者了",
-      "onboard_time": 1725335312,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 357303,
       "num": 357303,
       "word": "陈奕迅用了樊振东同款球拍",
@@ -2264,14 +2296,6 @@
       "word": "腾讯视频9月大剧片单",
       "onboard_time": 1725252502,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 346965,
-      "num": 514331,
-      "word": "慕胥辞",
-      "onboard_time": 1725245657,
-      "rank": 44,
       "category": "剧集"
     },
     {
@@ -2515,6 +2539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 300064,
+      "num": 300064,
+      "word": "军训是没苦硬吃吗",
+      "onboard_time": 1725339023,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 300054,
       "num": 300054,
       "word": "花洛莉亚",
@@ -2545,6 +2577,14 @@
       "onboard_time": 1725252682,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 297490,
+      "num": 297490,
+      "word": "校方否认致11死车祸司机与师生有矛盾",
+      "onboard_time": 1725339984,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297247,
@@ -2619,6 +2659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 290196,
+      "num": 438729,
+      "word": "室友电动车爆燃致男孩全身烧伤",
+      "onboard_time": 1725336143,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290078,
       "num": 402216,
       "word": "王安宇选张艺凡不选田曦薇",
@@ -2672,6 +2720,14 @@
       "word": "老人在足浴店消费超30万儿子发声",
       "onboard_time": 1725112281,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284503,
+      "num": 284503,
+      "word": "蔡磊夫人顶着发烧泼冰水",
+      "onboard_time": 1725339384,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -2843,6 +2899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 266805,
+      "num": 266805,
+      "word": "潘展乐为樊振东特意站直了",
+      "onboard_time": 1725340581,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263820,
       "num": 263820,
       "word": "孙杨已回省队",
@@ -2969,6 +3033,14 @@
       "onboard_time": 1725291741,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257131,
+      "num": 286510,
+      "word": "黄晓明慕胥辞开机路透",
+      "onboard_time": 1725340463,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 255360,
@@ -3259,6 +3331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227166,
+      "num": 227166,
+      "word": "日军又一恶魔细菌部队被曝光",
+      "onboard_time": 1725339803,
+      "rank": 37,
+      "category": "社会新闻,国外时政"
+    },
+    {
       "raw_hot": 226596,
       "num": 253479,
       "word": "蒋奇明长发",
@@ -3281,6 +3361,14 @@
       "onboard_time": 1725193398,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223755,
+      "num": 223755,
+      "word": "李灿荣wvs",
+      "onboard_time": 1725338363,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 222660,
@@ -3547,14 +3635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207662,
-      "num": 207662,
-      "word": "台风摩羯或致广东三停一休",
-      "onboard_time": 1725338003,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207187,
       "num": 270172,
       "word": "王一博把刀砍断了",
@@ -3755,6 +3835,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 200896,
+      "num": 200896,
+      "word": "檀健次金世佳新剧预约破百万",
+      "onboard_time": 1725339863,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200766,
       "num": 200766,
       "word": "开学第一天",
@@ -3801,14 +3889,6 @@
       "onboard_time": 1725151817,
       "rank": 49,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 198940,
-      "num": 438729,
-      "word": "室友电动车爆燃致男孩全身烧伤",
-      "onboard_time": 1725336143,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198796,
@@ -4339,6 +4419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182342,
+      "num": 182342,
+      "word": "学生用空调需一次性缴3年费用",
+      "onboard_time": 1725339863,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182127,
       "num": 182127,
       "word": "佟丽娅腰间蝴蝶结好大",
@@ -4425,6 +4513,14 @@
       "onboard_time": 1725248419,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 179119,
+      "num": 179119,
+      "word": "范丞丞妈生校园感",
+      "onboard_time": 1725340581,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 178979,
@@ -4521,6 +4617,14 @@
       "onboard_time": 1725242480,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 175623,
+      "num": 175623,
+      "word": "Jennie将出演金泰浩新综艺",
+      "onboard_time": 1725340702,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 175381,
@@ -4659,12 +4763,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171010,
+      "num": 171010,
+      "word": "赵丽颖形容李红樱",
+      "onboard_time": 1725340581,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 170781,
       "num": 170781,
       "word": "海军舰艇昼夜训练大片",
       "onboard_time": 1725272180,
       "rank": 44,
       "category": "军事"
+    },
+    {
+      "raw_hot": 170564,
+      "num": 170564,
+      "word": "泰安车祸肇事者已被警方带走",
+      "onboard_time": 1725340223,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170543,
@@ -5009,6 +5129,14 @@
       "onboard_time": 1725167240,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157296,
+      "num": 415662,
+      "word": "鲁豫 有人说贾玲都不好笑了",
+      "onboard_time": 1725340642,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 157125,
@@ -5609,6 +5737,14 @@
       "onboard_time": 1725192978,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131393,
+      "num": 230283,
+      "word": "汪苏泷 当你们是朋友没想到曝光我",
+      "onboard_time": 1725340223,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 131093,
@@ -6683,6 +6819,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 48597,
+      "num": 1242012,
+      "word": "打击广告推广型网络黑灰产犯罪",
+      "onboard_time": 1725337105,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48374,
       "num": 355053,
       "word": "三位大一新生结绳救下溺水者",
@@ -6793,14 +6937,6 @@
       "onboard_time": 1725246258,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 42439,
-      "num": 1092054,
-      "word": "打击广告推广型网络黑灰产犯罪",
-      "onboard_time": 1725337105,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41542,
@@ -7392,6 +7528,14 @@
       "word": "中非合作论坛峰会有哪些看点",
       "onboard_time": 1725282980,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16140,
+      "num": 880839,
+      "word": "起底假冒特供酒销售乱象",
+      "onboard_time": 1725340344,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
