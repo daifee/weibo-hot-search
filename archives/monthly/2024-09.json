@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725355378033,
+  "endTime": 1725356212123,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -59,20 +59,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2657671,
+      "num": 2657671,
+      "word": "芭莎爆料 四位女艺人",
+      "onboard_time": 1725353361,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2491158,
       "num": 330973,
       "word": "苹果 微信",
       "onboard_time": 1725253582,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 2458872,
-      "num": 2458872,
-      "word": "芭莎爆料 四位女艺人",
-      "onboard_time": 1725353361,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 2449554,
@@ -1531,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 558658,
+      "num": 558658,
+      "word": "王昶 在黄山拍到了人生照片",
+      "onboard_time": 1725352280,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 558485,
       "num": 558485,
       "word": "专家称女生游泳私密贴是智商税",
@@ -1609,6 +1617,14 @@
       "onboard_time": 1725248540,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 540689,
+      "num": 540689,
+      "word": "男子婚内将2套房产赠与和前妻儿子",
+      "onboard_time": 1725348861,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 539304,
@@ -2179,14 +2195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 417377,
-      "num": 417377,
-      "word": "王昶 在黄山拍到了人生照片",
-      "onboard_time": 1725352280,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 414416,
       "num": 414416,
       "word": "为什么出远门时要在冰箱放一枚硬币",
@@ -2264,14 +2272,6 @@
       "word": "父亲回应婴儿出租屋饿到营养不良",
       "onboard_time": 1725173299,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 398852,
-      "num": 398852,
-      "word": "男子婚内将2套房产赠与和前妻儿子",
-      "onboard_time": 1725348861,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -2499,6 +2499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 353644,
+      "num": 427436,
+      "word": "阚清子说未婚夫是自己影迷",
+      "onboard_time": 1725354201,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 350545,
       "num": 350545,
       "word": "这么傻的狗她居然有三只",
@@ -2609,6 +2617,14 @@
       "onboard_time": 1725176359,
       "rank": 13,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 329008,
+      "num": 329008,
+      "word": "阿条姐 先天特工圣体",
+      "onboard_time": 1725352580,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 328780,
@@ -2803,14 +2819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 302167,
-      "num": 302167,
-      "word": "阿条姐 先天特工圣体",
-      "onboard_time": 1725352580,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 300950,
       "num": 300950,
       "word": "龙道一rap",
@@ -2905,14 +2913,6 @@
       "onboard_time": 1725183680,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 294341,
-      "num": 407221,
-      "word": "阚清子说未婚夫是自己影迷",
-      "onboard_time": 1725354201,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 293267,
@@ -3523,6 +3523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242326,
+      "num": 242326,
+      "word": "招行上半年人均月薪5.14万元",
+      "onboard_time": 1725354201,
+      "rank": 27,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 241783,
       "num": 241783,
       "word": "山东东平车祸亲历者发声",
@@ -3585,14 +3593,6 @@
       "onboard_time": 1725199640,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 235089,
-      "num": 235089,
-      "word": "招行上半年人均月薪5.14万元",
-      "onboard_time": 1725354201,
-      "rank": 27,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 234692,
@@ -3705,6 +3705,14 @@
       "onboard_time": 1725182119,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228857,
+      "num": 228857,
+      "word": "阿条姐当年是玩冷兵器的",
+      "onboard_time": 1725352280,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 226596,
@@ -4059,6 +4067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 206853,
+      "num": 206853,
+      "word": "工资没涨 儿歌涨价了",
+      "onboard_time": 1725356000,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 206761,
       "num": 206761,
       "word": "王楚钦的vlog没有王楚钦",
@@ -4283,6 +4299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200217,
+      "num": 200217,
+      "word": "第一个叫王楚钦耶耶的人是天才",
+      "onboard_time": 1725355461,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199818,
       "num": 199818,
       "word": "王一博蹦着下班",
@@ -4329,14 +4353,6 @@
       "onboard_time": 1725285681,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 198796,
-      "num": 198796,
-      "word": "阿条姐当年是玩冷兵器的",
-      "onboard_time": 1725352280,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 198152,
@@ -4867,6 +4883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184836,
+      "num": 184836,
+      "word": "阿条姐民族舞十级",
+      "onboard_time": 1725352101,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184540,
       "num": 184540,
       "word": "揭秘被指擦边美妆品牌黑兔公司",
@@ -4921,6 +4945,14 @@
       "onboard_time": 1725176118,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181774,
+      "num": 181774,
+      "word": "潘展乐在港澳行中确诊为莫雷高德",
+      "onboard_time": 1725355581,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 181452,
@@ -5139,6 +5171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 174707,
+      "num": 174707,
+      "word": "王者荣耀",
+      "onboard_time": 1725354083,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 174701,
       "num": 174701,
       "word": "上海迪士尼臭豆腐40元一份",
@@ -5251,20 +5291,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172738,
+      "num": 172738,
+      "word": "黄雨婷太全面了",
+      "onboard_time": 1725355280,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171760,
       "num": 171760,
       "word": "金鹿奖获奖名单",
       "onboard_time": 1725199941,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 171236,
-      "num": 171236,
-      "word": "黄雨婷太全面了",
-      "onboard_time": 1725355280,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 171088,
@@ -5304,14 +5344,6 @@
       "word": "潘展乐站樊振东旁边说nevergetup",
       "onboard_time": 1725251001,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 169266,
-      "num": 169266,
-      "word": "阿条姐民族舞十级",
-      "onboard_time": 1725352101,
-      "rank": 43,
       "category": "体育"
     },
     {
@@ -5489,14 +5521,6 @@
       "onboard_time": 1725200241,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 164519,
-      "num": 164519,
-      "word": "王者荣耀",
-      "onboard_time": 1725354083,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 164364,
@@ -7059,6 +7083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73216,
+      "num": 415897,
+      "word": "家长烧掉孩子3000张烟卡不值得叫好",
+      "onboard_time": 1725354682,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73117,
       "num": 254986,
       "word": "宋轶 何其有幸遇见你们",
@@ -7072,6 +7104,14 @@
       "word": "儿童手表胡说八道谁担责要查清",
       "onboard_time": 1725202941,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73009,
+      "num": 522215,
+      "word": "律师谈王某逆行打人不构成寻衅滋事",
+      "onboard_time": 1725354859,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -7100,7 +7140,7 @@
     },
     {
       "raw_hot": 69799,
-      "num": 1409896,
+      "num": 1637465,
       "word": "雪域高原焕新貌",
       "onboard_time": 1725354260,
       "rank": 2,
@@ -7475,6 +7515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49487,
+      "num": 511956,
+      "word": "幼儿园回应家长宣誓不给老师甩脸子",
+      "onboard_time": 1725355941,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48612,
       "num": 492370,
       "word": "以色列数十万民众示威呼吁停火",
@@ -7552,14 +7600,6 @@
       "word": "2024暑期档票房超116亿元",
       "onboard_time": 1725175819,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45840,
-      "num": 475757,
-      "word": "律师谈王某逆行打人不构成寻衅滋事",
-      "onboard_time": 1725354859,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -7892,7 +7932,7 @@
     },
     {
       "raw_hot": 31843,
-      "num": 384999,
+      "num": 461486,
       "word": "烟台海肠捞饭确实名不虚传",
       "onboard_time": 1725354260,
       "rank": 21,
@@ -7944,6 +7984,14 @@
       "word": "在烟台吃到了人生第一碗海鲜面",
       "onboard_time": 1725246018,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30025,
+      "num": 401971,
+      "word": "卡牌盲盒玩法诱使孩子产生赌徒心理",
+      "onboard_time": 1725354201,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -8017,14 +8065,6 @@
       "onboard_time": 1725259401,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 26448,
-      "num": 404150,
-      "word": "家长烧掉孩子3000张烟卡不值得叫好",
-      "onboard_time": 1725354682,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26442,
@@ -8145,14 +8185,6 @@
       "onboard_time": 1725166819,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 22463,
-      "num": 401971,
-      "word": "卡牌盲盒玩法诱使孩子产生赌徒心理",
-      "onboard_time": 1725354201,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22344,
