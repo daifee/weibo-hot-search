@@ -1,10 +1,18 @@
 {
   "startTime": 1725294442172,
-  "endTime": 1725320181710,
+  "endTime": 1725326900975,
   "band_list": [
     {
+      "raw_hot": 2296649,
+      "num": 937246,
+      "word": "黑兔 擦边",
+      "onboard_time": 1725323061,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2050573,
-      "num": 374014,
+      "num": 475301,
       "word": "花洛莉亚 擦边",
       "onboard_time": 1725283462,
       "rank": 10,
@@ -20,19 +28,35 @@
     },
     {
       "raw_hot": 1113821,
-      "num": 203330,
+      "num": 367689,
       "word": "顾客疑没穿内裤试裤子留白色异物",
       "onboard_time": 1725283763,
       "rank": 20,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1029306,
+      "num": 1029306,
+      "word": "辛巴 小杨哥",
+      "onboard_time": 1725320177,
+      "rank": 1,
+      "category": "网红"
+    },
+    {
       "raw_hot": 926567,
-      "num": 664536,
+      "num": 668530,
       "word": "女子婚后发现丈夫每天吃药告到法院",
       "onboard_time": 1725284782,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 909718,
+      "num": 909718,
+      "word": "家长已经从包书皮卷到包书角了",
+      "onboard_time": 1725294198,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 897961,
@@ -59,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 752489,
+      "num": 474153,
+      "word": "苹果税",
+      "onboard_time": 1725322880,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 659659,
       "num": 659659,
       "word": "三只羊合伙人回怼辛巴",
@@ -67,27 +99,75 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 541528,
+      "num": 381230,
+      "word": "第一天上幼儿园就知道她强的可怕",
+      "onboard_time": 1725321318,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 532251,
+      "num": 532251,
+      "word": "跳跳俏俏小咘芽背影",
+      "onboard_time": 1725322040,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 531961,
+      "num": 531961,
+      "word": "云宫迅音  防弹少年团",
+      "onboard_time": 1725322880,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 458292,
-      "num": 350400,
+      "num": 455532,
       "word": "如果苹果真的下架了微信的话",
       "onboard_time": 1725279439,
       "rank": 6,
       "category": "互联网"
     },
     {
-      "raw_hot": 426853,
-      "num": 426853,
-      "word": "家长已经从包书皮卷到包书角了",
-      "onboard_time": 1725294198,
-      "rank": 49,
-      "category": "教育"
+      "raw_hot": 445687,
+      "num": 445687,
+      "word": "市监局回应小天鹅网店被薅走7000万",
+      "onboard_time": 1725320117,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 376993,
-      "num": 376993,
+      "raw_hot": 443959,
+      "num": 443959,
+      "word": "莎莎紧急形象保护",
+      "onboard_time": 1725320059,
+      "rank": 20,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 429509,
+      "num": 429509,
       "word": "学校回应不买校服保险牛奶不给办入学",
       "onboard_time": 1725291321,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429030,
+      "num": 429030,
+      "word": "古铜色iPhone16Pro再曝光",
+      "onboard_time": 1725318616,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 409134,
+      "num": 409134,
+      "word": "外地女孩疑遭伤害街头崩溃大哭",
+      "onboard_time": 1725320059,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -123,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340898,
+      "num": 340898,
+      "word": "委内瑞拉总统专机被美国扣押",
+      "onboard_time": 1725325161,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 326170,
       "num": 326170,
       "word": "标错价格20分钟被薅7000万元",
@@ -139,6 +227,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316808,
+      "num": 316808,
+      "word": "普京抵达蒙古国",
+      "onboard_time": 1725324680,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 302642,
+      "num": 302642,
+      "word": "郑钦文四大满贯奖金已有1361万保底",
+      "onboard_time": 1725324680,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 300054,
+      "num": 300054,
+      "word": "花洛莉亚",
+      "onboard_time": 1725321379,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296782,
       "num": 296782,
       "word": "李雯雯 分别前的小花絮",
@@ -148,10 +260,26 @@
     },
     {
       "raw_hot": 295680,
-      "num": 194978,
+      "num": 231679,
       "word": "一句话让王一博心甘情愿解皮带",
       "onboard_time": 1725290960,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 293950,
+      "num": 293950,
+      "word": "潘展乐把nevergetup放简介里了",
+      "onboard_time": 1725322699,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 290078,
+      "num": 402216,
+      "word": "王安宇选张艺凡不选田曦薇",
+      "onboard_time": 1725323721,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -219,6 +347,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 244947,
+      "num": 391091,
+      "word": "刘亦菲天津一日游",
+      "onboard_time": 1725325099,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 241410,
+      "num": 241410,
+      "word": "每个中国人都该记住这一天",
+      "onboard_time": 1725295996,
+      "rank": 14,
+      "category": "社会新闻,国内时政"
+    },
+    {
       "raw_hot": 234525,
       "num": 234525,
       "word": "贾一凡vlog",
@@ -227,12 +371,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 217977,
-      "num": 217977,
-      "word": "每个中国人都该记住这一天",
-      "onboard_time": 1725295996,
-      "rank": 14,
-      "category": "社会新闻,国内时政"
+      "raw_hot": 231071,
+      "num": 322725,
+      "word": "棍铲 沙坪坝",
+      "onboard_time": 1725325640,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 226277,
+      "num": 226277,
+      "word": "美国21岁体操冠军在大学宿舍遭枪杀",
+      "onboard_time": 1725326359,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 214851,
@@ -259,12 +411,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189375,
-      "num": 189375,
-      "word": "古铜色iPhone16Pro再曝光",
-      "onboard_time": 1725318616,
+      "raw_hot": 196050,
+      "num": 196050,
+      "word": "中国的世界灌溉工程遗产已达38项",
+      "onboard_time": 1725325640,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190911,
+      "num": 210656,
+      "word": "海莉 小人得志具象化",
+      "onboard_time": 1725326480,
       "rank": 34,
-      "category": "数码"
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190287,
+      "num": 190287,
+      "word": "黑兔",
+      "onboard_time": 1725326119,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184303,
+      "num": 184303,
+      "word": "日本拒绝投放储备米平抑高涨的米价",
+      "onboard_time": 1725326359,
+      "rank": 39,
+      "category": "国外时政"
     },
     {
       "raw_hot": 173385,
@@ -275,6 +451,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168756,
+      "num": 168756,
+      "word": "李兰迪好真诚",
+      "onboard_time": 1725324741,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 167823,
+      "num": 480738,
+      "word": "抗战胜利纪念日重温这番话语",
+      "onboard_time": 1725325161,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 160951,
       "num": 160951,
       "word": "猫抓板 虫子",
@@ -283,12 +475,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 151974,
-      "num": 198946,
-      "word": "莎莎紧急形象保护",
-      "onboard_time": 1725320059,
-      "rank": 20,
-      "category": "体育,艺人"
+      "raw_hot": 158138,
+      "num": 158138,
+      "word": "超燃卡点视频重温九三阅兵",
+      "onboard_time": 1725325340,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 152468,
+      "num": 152468,
+      "word": "花洛莉亚曾因文案不尊重女性道歉",
+      "onboard_time": 1725325940,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151582,
+      "num": 151582,
+      "word": "官方通报男子举报70万吨垃圾倒黄河",
+      "onboard_time": 1725326599,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151031,
@@ -337,6 +545,22 @@
       "onboard_time": 1725291442,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 140521,
+      "num": 140521,
+      "word": "这个喷不了这个是真上过班的",
+      "onboard_time": 1725297193,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 139557,
+      "num": 139557,
+      "word": "郑钦文展望下轮对阵萨巴伦卡",
+      "onboard_time": 1725326298,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 136713,
@@ -419,14 +643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 110660,
-      "num": 110660,
-      "word": "市监局回应小天鹅网店被薅走7000万",
-      "onboard_time": 1725320117,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 105121,
       "num": 105121,
       "word": "RNG 散是满天星",
@@ -473,14 +689,6 @@
       "onboard_time": 1725288563,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93949,
-      "num": 93949,
-      "word": "外地女孩疑遭伤害街头崩溃大哭",
-      "onboard_time": 1725320059,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91702,
@@ -537,14 +745,6 @@
       "onboard_time": 1725317715,
       "rank": 37,
       "category": "国内时政,社会新闻"
-    },
-    {
-      "raw_hot": 69252,
-      "num": 69252,
-      "word": "这个喷不了这个是真上过班的",
-      "onboard_time": 1725297193,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 66594,
@@ -635,19 +835,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34157,
+      "num": 948848,
+      "word": "巴黎残奥那些震撼心灵的细节",
+      "onboard_time": 1725282201,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33196,
       "num": 33196,
       "word": "重庆多地发射火箭弹人工增雨",
       "onboard_time": 1725302593,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27856,
-      "num": 589337,
-      "word": "巴黎残奥那些震撼心灵的细节",
-      "onboard_time": 1725282201,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
