@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725328288424,
+  "endTime": 1725331363542,
   "band_list": [
     {
       "raw_hot": 5839152,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3922176,
-      "num": 889822,
+      "num": 1344856,
       "word": "花洛莉亚 擦边",
       "onboard_time": 1725283462,
       "rank": 45,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 2296649,
-      "num": 937246,
+      "num": 1351289,
       "word": "黑兔 擦边",
       "onboard_time": 1725323061,
       "rank": 3,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1512509,
+      "num": 1512509,
+      "word": "东平佛山中学",
+      "onboard_time": 1725329480,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1510516,
       "num": 1510516,
       "word": "樊振东贴脸开大盛李豪",
@@ -297,6 +305,22 @@
       "onboard_time": 1725161479,
       "rank": 0,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1360660,
+      "num": 1360660,
+      "word": "山东泰安一中学附近发生交通事故",
+      "onboard_time": 1725329480,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1334016,
+      "num": 1334016,
+      "word": "日本拒绝投放储备米平抑高涨的米价",
+      "onboard_time": 1725326359,
+      "rank": 39,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1306694,
@@ -460,7 +484,7 @@
     },
     {
       "raw_hot": 1029306,
-      "num": 1029306,
+      "num": 1342752,
       "word": "辛巴 小杨哥",
       "onboard_time": 1725320177,
       "rank": 1,
@@ -473,6 +497,14 @@
       "onboard_time": 1725145694,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1019410,
+      "num": 1019410,
+      "word": "全红婵说马龙叫她干女儿",
+      "onboard_time": 1725327619,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 998129,
@@ -1203,6 +1235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 597475,
+      "num": 597475,
+      "word": "美国21岁体操冠军在大学宿舍遭枪杀",
+      "onboard_time": 1725326359,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 595914,
       "num": 595914,
       "word": "王楚钦说跟徐嘉余两清了",
@@ -1259,20 +1299,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 575411,
+      "num": 1334734,
+      "word": "西游记 韩国kpop",
+      "onboard_time": 1725329239,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 573961,
       "num": 573961,
       "word": "安徽17岁男生退学摆摊10天收入万元",
       "onboard_time": 1725191299,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 572562,
-      "num": 572562,
-      "word": "日本拒绝投放储备米平抑高涨的米价",
-      "onboard_time": 1725326359,
-      "rank": 39,
-      "category": "国外时政"
     },
     {
       "raw_hot": 568965,
@@ -1401,14 +1441,6 @@
       "onboard_time": 1725260839,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 529991,
-      "num": 529991,
-      "word": "美国21岁体操冠军在大学宿舍遭枪杀",
-      "onboard_time": 1725326359,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 527671,
@@ -1923,14 +1955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 377316,
-      "num": 377316,
-      "word": "全红婵说马龙叫她干女儿",
-      "onboard_time": 1725327619,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 373881,
       "num": 373881,
       "word": "抗战胜利79周年",
@@ -2129,6 +2153,14 @@
       "onboard_time": 1725303251,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317889,
+      "num": 317889,
+      "word": "电影野孩子开预售",
+      "onboard_time": 1725330021,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 316808,
@@ -2347,6 +2379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 293956,
+      "num": 293956,
+      "word": "华为三折手机命名MateXT非凡大师",
+      "onboard_time": 1725329180,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 292973,
       "num": 292973,
       "word": "王楚钦和大家合影耳朵红了",
@@ -2435,6 +2475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 280844,
+      "num": 280844,
+      "word": "王楚钦说下次见面5个脑瓜崩",
+      "onboard_time": 1725330380,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280122,
       "num": 280122,
       "word": "第二部国产3A大作已在开发",
@@ -2515,11 +2563,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 273128,
+      "num": 273128,
+      "word": "路边摊试吃刀蘸完糖水再切桃子",
+      "onboard_time": 1725328818,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273010,
       "num": 360145,
       "word": "虞书欣郭敬明捧花照",
       "onboard_time": 1725270619,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 272558,
+      "num": 272558,
+      "word": "被王楚然55套古装硬控35秒",
+      "onboard_time": 1725329360,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -2547,12 +2611,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271701,
+      "num": 271701,
+      "word": "二胎妈重回职场工资三折",
+      "onboard_time": 1725329900,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 270717,
       "num": 480738,
       "word": "抗战胜利纪念日重温这番话语",
       "onboard_time": 1725325161,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 267453,
+      "num": 267453,
+      "word": "官方通报市监局工作人员上班时间午休",
+      "onboard_time": 1725329059,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263820,
@@ -2907,6 +2987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231207,
+      "num": 231207,
+      "word": "35岁的我月薪2千在餐厅当学徒",
+      "onboard_time": 1725330860,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231071,
       "num": 322725,
       "word": "棍铲 沙坪坝",
@@ -2969,6 +3057,14 @@
       "onboard_time": 1725192257,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224975,
+      "num": 1168260,
+      "word": "1945年9月3日我们永不能忘",
+      "onboard_time": 1725317715,
+      "rank": 37,
+      "category": "国内时政,社会新闻"
     },
     {
       "raw_hot": 224663,
@@ -3193,6 +3289,14 @@
       "onboard_time": 1725184339,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207630,
+      "num": 236628,
+      "word": "电影浴火之路定档",
+      "onboard_time": 1725330801,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 207187,
@@ -3443,6 +3547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 198215,
+      "num": 198215,
+      "word": "iPhonePro系列首次在印度生产",
+      "onboard_time": 1725329540,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 198152,
       "num": 198152,
       "word": "开学典礼",
@@ -3465,6 +3577,14 @@
       "onboard_time": 1725237079,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197721,
+      "num": 197721,
+      "word": "雪迷宫今日开播",
+      "onboard_time": 1725330319,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 197454,
@@ -3609,6 +3729,14 @@
       "onboard_time": 1725185538,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193618,
+      "num": 193618,
+      "word": "王楚钦挥手告别后发现上错车",
+      "onboard_time": 1725330199,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 193591,
@@ -4009,6 +4137,14 @@
       "onboard_time": 1725248419,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 179304,
+      "num": 179304,
+      "word": "被这个婆婆的一天累到了",
+      "onboard_time": 1725329780,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 178979,
@@ -5099,6 +5235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 133777,
+      "num": 1053815,
+      "word": "苹果曾在中国一年税收高达400亿",
+      "onboard_time": 1725327139,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 133217,
       "num": 133217,
       "word": "2024全球总决赛",
@@ -5475,14 +5619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 109129,
-      "num": 188554,
-      "word": "苹果曾在中国一年税收高达400亿",
-      "onboard_time": 1725327139,
-      "rank": 38,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 107582,
       "num": 120355,
       "word": "十个勤天佛山演唱会",
@@ -5809,14 +5945,6 @@
       "onboard_time": 1725267560,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 71488,
-      "num": 71488,
-      "word": "1945年9月3日我们永不能忘",
-      "onboard_time": 1725317715,
-      "rank": 37,
-      "category": "国内时政,社会新闻"
     },
     {
       "raw_hot": 70607,
@@ -6500,7 +6628,7 @@
     },
     {
       "raw_hot": 34157,
-      "num": 948848,
+      "num": 1358269,
       "word": "巴黎残奥那些震撼心灵的细节",
       "onboard_time": 1725282201,
       "rank": 2,
