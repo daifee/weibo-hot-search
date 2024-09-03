@@ -1,6 +1,6 @@
 {
   "startTime": 1725294442172,
-  "endTime": 1725352018112,
+  "endTime": 1725352848848,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -91,6 +91,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1322608,
+      "num": 1322608,
+      "word": "李昕亮 柳岩结婚了我会有点生气",
+      "onboard_time": 1725351442,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1273780,
       "num": 1273780,
       "word": "长沙冰块预订电话被家长打爆了",
@@ -163,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 979538,
+      "num": 979538,
+      "word": "芭莎工作人员爆料景甜耍大牌",
+      "onboard_time": 1725349879,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 926567,
       "num": 668530,
       "word": "女子婚后发现丈夫每天吃药告到法院",
@@ -203,12 +219,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 814527,
-      "num": 814527,
-      "word": "芭莎工作人员爆料景甜耍大牌",
-      "onboard_time": 1725349879,
-      "rank": 4,
-      "category": "艺人"
+      "raw_hot": 805695,
+      "num": 805695,
+      "word": "新疆开始下雪",
+      "onboard_time": 1725348501,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 781237,
@@ -251,27 +267,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 727879,
+      "num": 591362,
+      "word": "女子当街在法拉利上喷写渣男",
+      "onboard_time": 1725347121,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 704649,
       "num": 704649,
       "word": "多方回应山东佛山中学附近交通事故",
       "onboard_time": 1725336323,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 687748,
-      "num": 687748,
-      "word": "新疆开始下雪",
-      "onboard_time": 1725348501,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 678404,
-      "num": 591362,
-      "word": "女子当街在法拉利上喷写渣男",
-      "onboard_time": 1725347121,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -307,19 +315,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 592853,
+      "num": 592853,
+      "word": "女子花光妈妈100万伪造250万假存单",
+      "onboard_time": 1725347241,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 588368,
       "num": 588368,
       "word": "广东将迎特大暴雨",
       "onboard_time": 1725338784,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 575425,
-      "num": 575425,
-      "word": "女子花光妈妈100万伪造250万假存单",
-      "onboard_time": 1725347241,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -523,14 +531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 409164,
-      "num": 409164,
-      "word": "李昕亮 柳岩结婚了我会有点生气",
-      "onboard_time": 1725351442,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 409134,
       "num": 409134,
       "word": "外地女孩疑遭伤害街头崩溃大哭",
@@ -555,12 +555,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 400521,
+      "num": 400521,
+      "word": "小天鹅被薅店主公告解决方案",
+      "onboard_time": 1725348380,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 379134,
       "num": 379134,
       "word": "深圳湾公路大桥坠海车主已身亡",
       "onboard_time": 1725335120,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379105,
+      "num": 379105,
+      "word": "潘展乐你腹肌呢",
+      "onboard_time": 1725350541,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 378274,
@@ -608,14 +624,6 @@
       "word": "35岁的我月薪2千在餐厅当学徒",
       "onboard_time": 1725330860,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 361870,
-      "num": 361870,
-      "word": "小天鹅被薅店主公告解决方案",
-      "onboard_time": 1725348380,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -707,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 327992,
+      "num": 314994,
+      "word": "上海月租2000元的房子",
+      "onboard_time": 1725349580,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 326170,
       "num": 326170,
       "word": "标错价格20分钟被薅7000万元",
@@ -721,22 +737,6 @@
       "onboard_time": 1725303251,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 318713,
-      "num": 314994,
-      "word": "上海月租2000元的房子",
-      "onboard_time": 1725349580,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 317911,
-      "num": 317911,
-      "word": "潘展乐你腹肌呢",
-      "onboard_time": 1725350541,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 317889,
@@ -779,8 +779,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 305374,
-      "num": 305374,
+      "raw_hot": 308318,
+      "num": 308318,
       "word": "谢娜 出来工作",
       "onboard_time": 1725350360,
       "rank": 21,
@@ -915,6 +915,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 280963,
+      "num": 280963,
+      "word": "易烊千玺的面部折叠度",
+      "onboard_time": 1725349821,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 280844,
       "num": 280844,
       "word": "王楚钦说下次见面5个脑瓜崩",
@@ -937,6 +945,14 @@
       "onboard_time": 1725326480,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 272672,
+      "num": 272672,
+      "word": "男子婚内将2套房产赠与和前妻儿子",
+      "onboard_time": 1725348861,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271701,
@@ -971,14 +987,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 265095,
-      "num": 265095,
-      "word": "易烊千玺的面部折叠度",
-      "onboard_time": 1725349821,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 261307,
       "num": 261307,
       "word": "张凌赫赵今麦公主抱",
@@ -1009,14 +1017,6 @@
       "onboard_time": 1725290781,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 254445,
-      "num": 254445,
-      "word": "男子婚内将2套房产赠与和前妻儿子",
-      "onboard_time": 1725348861,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 252679,
@@ -1099,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 233667,
+      "num": 233667,
+      "word": "慕胥辞原著",
+      "onboard_time": 1725352401,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231071,
       "num": 322725,
       "word": "棍铲 沙坪坝",
@@ -1123,6 +1131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223523,
+      "num": 223523,
+      "word": "阿条姐 先天特工圣体",
+      "onboard_time": 1725352580,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221813,
       "num": 1866680,
       "word": "79年前的今天我们胜利了",
@@ -1145,6 +1161,14 @@
       "onboard_time": 1725332421,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216608,
+      "num": 216608,
+      "word": "压扁的小面包",
+      "onboard_time": 1725351261,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 214851,
@@ -1203,6 +1227,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 208339,
+      "num": 208339,
+      "word": "迪丽热巴张俪时隔一个月再合作",
+      "onboard_time": 1725352401,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207880,
       "num": 207880,
       "word": "巩俐郑钦文 永不妥协的嘴角",
@@ -1217,6 +1249,14 @@
       "onboard_time": 1725344660,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207136,
+      "num": 207136,
+      "word": "王昶 在黄山拍到了人生照片",
+      "onboard_time": 1725352280,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 206614,
@@ -1249,6 +1289,14 @@
       "onboard_time": 1725339863,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198796,
+      "num": 198796,
+      "word": "阿条姐当年是玩冷兵器的",
+      "onboard_time": 1725352280,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 197721,
@@ -1289,6 +1337,14 @@
       "onboard_time": 1725334402,
       "rank": 41,
       "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 195651,
+      "num": 195651,
+      "word": "迪丽热巴白日提灯替灵开道",
+      "onboard_time": 1725352580,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 193618,
@@ -1435,6 +1491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 169266,
+      "num": 169266,
+      "word": "阿条姐民族舞十级",
+      "onboard_time": 1725352101,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168756,
       "num": 168756,
       "word": "李兰迪好真诚",
@@ -1507,6 +1571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161402,
+      "num": 161402,
+      "word": "弈星炽弈燎原皮肤",
+      "onboard_time": 1725352819,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 160951,
       "num": 160951,
       "word": "猫抓板 虫子",
@@ -1521,14 +1593,6 @@
       "onboard_time": 1725344542,
       "rank": 41,
       "category": "数码"
-    },
-    {
-      "raw_hot": 157872,
-      "num": 157872,
-      "word": "压扁的小面包",
-      "onboard_time": 1725351261,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 156721,
@@ -1771,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113730,
+      "num": 396780,
+      "word": "大城市落户为什么越来越容易了",
+      "onboard_time": 1725351501,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110819,
       "num": 110819,
       "word": "边水往事 第二季",
@@ -1963,14 +2035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56953,
-      "num": 396780,
-      "word": "大城市落户为什么越来越容易了",
-      "onboard_time": 1725351501,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 56150,
       "num": 67438,
       "word": "山东初一男女身高差惊呆网友",
@@ -2123,20 +2187,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17823,
+      "num": 366831,
+      "word": "谁给李斯丹妮递个文艺片本子",
+      "onboard_time": 1725351680,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 16140,
       "num": 880839,
       "word": "起底假冒特供酒销售乱象",
       "onboard_time": 1725340344,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13143,
-      "num": 366831,
-      "word": "谁给李斯丹妮递个文艺片本子",
-      "onboard_time": 1725351680,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 12405,
