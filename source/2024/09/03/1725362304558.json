@@ -1,0 +1,410 @@
+{
+  "runTime": 1725362304558,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2097079,
+        "num": 2097079,
+        "word": "青岛警方通报王某驾车逆行殴打他人案",
+        "onboard_time": 1725341422,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1721480,
+        "num": 1721480,
+        "word": "芭莎爆料 四位女艺人",
+        "onboard_time": 1725353361,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49577,
+        "num": 1370053,
+        "word": "雪域高原焕新貌",
+        "onboard_time": 1725354260,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1356284,
+        "num": 1356284,
+        "word": "儿童骑行被碾压案司机亲属发声",
+        "onboard_time": 1725361732,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1165344,
+        "num": 1165344,
+        "word": "六大行人均月薪酬不到3万元",
+        "onboard_time": 1725356360,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 821774,
+        "num": 821774,
+        "word": "长春警方通报一小区持刀伤人事件",
+        "onboard_time": 1725356900,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 734277,
+        "num": 734277,
+        "word": "李庚希拍超越腿粗了9厘米",
+        "onboard_time": 1725358640,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 681552,
+        "num": 681552,
+        "word": "还以为是早期的Angelababy",
+        "onboard_time": 1725357140,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 570448,
+        "num": 570448,
+        "word": "男子花29元坐高铁免费吃40元盒饭",
+        "onboard_time": 1725358220,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357832,
+        "num": 357832,
+        "word": "王昶 在黄山拍到了人生照片",
+        "onboard_time": 1725352280,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 772781,
+        "num": 357792,
+        "word": "泰安交通事故致11人遇难",
+        "onboard_time": 1725335672,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354486,
+        "num": 354486,
+        "word": "陈飞宇迪丽热巴cp感",
+        "onboard_time": 1725359361,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340451,
+        "num": 340451,
+        "word": "芭莎工作人员爆料景甜耍大牌",
+        "onboard_time": 1725349879,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312945,
+        "num": 312945,
+        "word": "新疆开始下雪",
+        "onboard_time": 1725348501,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23681,
+        "num": 306049,
+        "word": "互联网黄牛为什么能这么猖獗",
+        "onboard_time": 1725361521,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274638,
+        "num": 305511,
+        "word": "长沙冰块预订电话被家长打爆了",
+        "onboard_time": 1725346702,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125832,
+        "num": 305086,
+        "word": "雪迷宫",
+        "onboard_time": 1725361220,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304994,
+        "num": 304994,
+        "word": "王楚钦问全红婵不回北京了是吧",
+        "onboard_time": 1725343161,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267048,
+        "num": 267048,
+        "word": "长春一男子持刀闹事致民警一死二伤",
+        "onboard_time": 1725360019,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 43881,
+        "num": 243327,
+        "word": "广西致5死命案嫌犯已潜逃四天",
+        "onboard_time": 1725361640,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 876012,
+        "num": 240786,
+        "word": "工资没涨 儿歌涨价了",
+        "onboard_time": 1725356000,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 220848,
+        "num": 220848,
+        "word": "因为开学包书皮被老师点名批评",
+        "onboard_time": 1725356780,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220308,
+        "num": 220308,
+        "word": "阿条姐 先天特工圣体",
+        "onboard_time": 1725352580,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219119,
+        "num": 219119,
+        "word": "第一个叫王楚钦耶耶的人是天才",
+        "onboard_time": 1725355461,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206447,
+        "num": 211517,
+        "word": "阚清子说未婚夫是自己影迷",
+        "onboard_time": 1725354201,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211121,
+        "num": 211121,
+        "word": "明年起iPhone将统一配OLED显示屏",
+        "onboard_time": 1725361279,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 208210,
+        "num": 208210,
+        "word": "女子花光妈妈100万伪造250万假存单",
+        "onboard_time": 1725347241,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198096,
+        "num": 198096,
+        "word": "男子婚内将2套房产赠与前妻儿子",
+        "onboard_time": 1725348861,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180934,
+        "num": 189642,
+        "word": "辛巴三只羊互撕的品牌月销售额超2亿",
+        "onboard_time": 1725357380,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 83019,
+        "num": 185894,
+        "word": "脱口秀和Ta的朋友们",
+        "onboard_time": 1725362239,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184881,
+        "num": 184881,
+        "word": "苹果微信大战影响你换iPhone16吗",
+        "onboard_time": 1725359361,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 184707,
+        "num": 184707,
+        "word": "王曼昱回黑龙江受到热烈迎接",
+        "onboard_time": 1725359660,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179927,
+        "num": 179927,
+        "word": "小天鹅被薅店主公告解决方案",
+        "onboard_time": 1725348380,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175533,
+        "num": 175533,
+        "word": "南极洲发现了罕见的黄金企鹅",
+        "onboard_time": 1725359720,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169987,
+        "num": 169987,
+        "word": "谢娜 出来工作",
+        "onboard_time": 1725350360,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168799,
+        "num": 168799,
+        "word": "林允和男演员凌晨对剧本全程拍视频",
+        "onboard_time": 1725361820,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167694,
+        "num": 167694,
+        "word": "迪丽热巴妆造",
+        "onboard_time": 1725346642,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167411,
+        "num": 167411,
+        "word": "家长烧掉孩子3000张烟卡不值得叫好",
+        "onboard_time": 1725354682,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167018,
+        "num": 167018,
+        "word": "狗 你当我的鼻子是摆设吗",
+        "onboard_time": 1725360920,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166174,
+        "num": 166174,
+        "word": "安排当个班主任她就老实了",
+        "onboard_time": 1725359901,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161676,
+        "num": 161676,
+        "word": "不想在出租屋里生孩子有错吗",
+        "onboard_time": 1725341361,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155611,
+        "num": 155611,
+        "word": "祝绪丹看手表这段不像演的",
+        "onboard_time": 1725349580,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153962,
+        "num": 153962,
+        "word": "幼儿园回应家长宣誓不给老师甩脸子",
+        "onboard_time": 1725355941,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150846,
+        "num": 150846,
+        "word": "辛巴称被小杨哥举报",
+        "onboard_time": 1725347001,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149459,
+        "num": 149459,
+        "word": "阿条姐当年是玩冷兵器的",
+        "onboard_time": 1725352280,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146401,
+        "num": 146401,
+        "word": "樊振东这个笑诠释什么是阳光明媚",
+        "onboard_time": 1725358220,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143819,
+        "num": 143819,
+        "word": "逆行打人女子已写道歉书致歉",
+        "onboard_time": 1725350600,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141318,
+        "num": 141318,
+        "word": "我就是要慢慢慢慢瘦瘦瘦",
+        "onboard_time": 1725361939,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135234,
+        "num": 135234,
+        "word": "郑钦文去年排女运动员收入榜第15",
+        "onboard_time": 1725361220,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132411,
+        "num": 132411,
+        "word": "赵丽娜试衣服试到崩溃大哭",
+        "onboard_time": 1725356540,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国和非洲国家是患难之交#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725359997551,
+  "endTime": 1725362304558,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -371,6 +371,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1356284,
+      "num": 1356284,
+      "word": "儿童骑行被碾压案司机亲属发声",
+      "onboard_time": 1725361732,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1334016,
       "num": 1334016,
       "word": "日本拒绝投放储备米平抑高涨的米价",
@@ -483,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1165344,
+      "num": 1165344,
+      "word": "六大行人均月薪酬不到3万元",
+      "onboard_time": 1725356360,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1163355,
       "num": 1163355,
       "word": "官方回应有人涉嫌介绍未成年人代孕",
@@ -545,14 +561,6 @@
       "onboard_time": 1725179360,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1084362,
-      "num": 1084362,
-      "word": "六大行人均月薪酬不到3万元",
-      "onboard_time": 1725356360,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1077079,
@@ -1091,6 +1099,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 734277,
+      "num": 734277,
+      "word": "李庚希拍超越腿粗了9厘米",
+      "onboard_time": 1725358640,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 733745,
       "num": 733745,
       "word": "鲁豫 有人说贾玲都不好笑了",
@@ -1227,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 681552,
+      "num": 681552,
+      "word": "还以为是早期的Angelababy",
+      "onboard_time": 1725357140,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 679557,
       "num": 679557,
       "word": "王昶 在黄山拍到了人生照片",
@@ -1297,14 +1321,6 @@
       "onboard_time": 1725186618,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 649366,
-      "num": 649366,
-      "word": "还以为是早期的Angelababy",
-      "onboard_time": 1725357140,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 647861,
@@ -1544,6 +1560,14 @@
       "word": "安徽17岁男生退学摆摊10天收入万元",
       "onboard_time": 1725191299,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 570448,
+      "num": 570448,
+      "word": "男子花29元坐高铁免费吃40元盒饭",
+      "onboard_time": 1725358220,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -2531,6 +2555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 354486,
+      "num": 354486,
+      "word": "陈飞宇迪丽热巴cp感",
+      "onboard_time": 1725359361,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 353644,
       "num": 427436,
       "word": "阚清子说未婚夫是自己影迷",
@@ -2745,14 +2777,6 @@
       "onboard_time": 1725279920,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 313922,
-      "num": 313922,
-      "word": "李庚希拍超越腿粗了9厘米",
-      "onboard_time": 1725358640,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 313421,
@@ -3243,6 +3267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 267048,
+      "num": 267048,
+      "word": "长春一男子持刀闹事致民警一死二伤",
+      "onboard_time": 1725360019,
+      "rank": 18,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 263820,
       "num": 263820,
       "word": "孙杨已回省队",
@@ -3579,14 +3611,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 242290,
-      "num": 242290,
-      "word": "男子花29元坐高铁免费吃40元盒饭",
-      "onboard_time": 1725358220,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241783,
       "num": 241783,
       "word": "山东东平车祸亲历者发声",
@@ -3867,6 +3891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220848,
+      "num": 220848,
+      "word": "因为开学包书皮被老师点名批评",
+      "onboard_time": 1725356780,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 218988,
       "num": 443724,
       "word": "湖南一地大量蜉蝣婚飞如下雪",
@@ -4009,6 +4041,14 @@
       "onboard_time": 1725203963,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211121,
+      "num": 211121,
+      "word": "明年起iPhone将统一配OLED显示屏",
+      "onboard_time": 1725361279,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 211058,
@@ -4169,14 +4209,6 @@
       "onboard_time": 1725252442,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206257,
-      "num": 206257,
-      "word": "陈飞宇迪丽热巴cp感",
-      "onboard_time": 1725359361,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 206247,
@@ -4425,6 +4457,14 @@
       "onboard_time": 1725258021,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 198096,
+      "num": 198096,
+      "word": "男子婚内将2套房产赠与前妻儿子",
+      "onboard_time": 1725348861,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197843,
@@ -4939,6 +4979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184881,
+      "num": 184881,
+      "word": "苹果微信大战影响你换iPhone16吗",
+      "onboard_time": 1725359361,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 184858,
       "num": 610384,
       "word": "互联网黄牛犹如吸血的牛虻",
@@ -4952,6 +5000,14 @@
       "word": "阿条姐民族舞十级",
       "onboard_time": 1725352101,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 184707,
+      "num": 184707,
+      "word": "王曼昱回黑龙江受到热烈迎接",
+      "onboard_time": 1725359660,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -5028,7 +5084,7 @@
     },
     {
       "raw_hot": 181647,
-      "num": 181647,
+      "num": 189642,
       "word": "辛巴三只羊互撕的品牌月销售额超2亿",
       "onboard_time": 1725357380,
       "rank": 33,
@@ -5219,6 +5275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175533,
+      "num": 175533,
+      "word": "南极洲发现了罕见的黄金企鹅",
+      "onboard_time": 1725359720,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 175381,
       "num": 175381,
       "word": "超燃卡点视频重温九三阅兵",
@@ -5233,14 +5297,6 @@
       "onboard_time": 1725179420,
       "rank": 32,
       "category": "美食"
-    },
-    {
-      "raw_hot": 175323,
-      "num": 175323,
-      "word": "因为开学包书皮被老师点名批评",
-      "onboard_time": 1725356780,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 175273,
@@ -5443,6 +5499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168799,
+      "num": 168799,
+      "word": "林允和男演员凌晨对剧本全程拍视频",
+      "onboard_time": 1725361820,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168756,
       "num": 168756,
       "word": "李兰迪好真诚",
@@ -5547,6 +5611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167018,
+      "num": 167018,
+      "word": "狗 你当我的鼻子是摆设吗",
+      "onboard_time": 1725360920,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166666,
       "num": 166666,
       "word": "ENHYPEN官宣新世巡",
@@ -5561,6 +5633,14 @@
       "onboard_time": 1725283821,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 166174,
+      "num": 166174,
+      "word": "安排当个班主任她就老实了",
+      "onboard_time": 1725359901,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 165942,
@@ -6131,14 +6211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149848,
-      "num": 149848,
-      "word": "安排当个班主任她就老实了",
-      "onboard_time": 1725359901,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 149189,
       "num": 149189,
       "word": "赵丽颖又是三人组",
@@ -6201,14 +6273,6 @@
       "onboard_time": 1725205279,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146694,
-      "num": 146694,
-      "word": "王曼昱回黑龙江受到热烈迎接",
-      "onboard_time": 1725359660,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 146570,
@@ -6339,20 +6403,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 142611,
-      "num": 142611,
-      "word": "南极洲发现了罕见的黄金企鹅",
-      "onboard_time": 1725359720,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 141812,
       "num": 141812,
       "word": "教育局回应成都开学遇高温",
       "onboard_time": 1725291679,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141318,
+      "num": 141318,
+      "word": "我就是要慢慢慢慢瘦瘦瘦",
+      "onboard_time": 1725361939,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 140750,
@@ -6489,6 +6553,14 @@
       "onboard_time": 1725167659,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 135234,
+      "num": 135234,
+      "word": "郑钦文去年排女运动员收入榜第15",
+      "onboard_time": 1725361220,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 134040,
@@ -6649,6 +6721,14 @@
       "onboard_time": 1725168258,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125832,
+      "num": 305086,
+      "word": "雪迷宫",
+      "onboard_time": 1725361220,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 124822,
@@ -7169,6 +7249,14 @@
       "onboard_time": 1725285743,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83019,
+      "num": 185894,
+      "word": "脱口秀和Ta的朋友们",
+      "onboard_time": 1725362239,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 81121,
@@ -7787,6 +7875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43881,
+      "num": 243327,
+      "word": "广西致5死命案嫌犯已潜逃四天",
+      "onboard_time": 1725361640,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43821,
       "num": 43821,
       "word": "王一博出雨林的第一天",
@@ -8337,6 +8433,14 @@
       "onboard_time": 1725178219,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 23681,
+      "num": 306049,
+      "word": "互联网黄牛为什么能这么猖獗",
+      "onboard_time": 1725361521,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23676,
