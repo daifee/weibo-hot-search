@@ -1,6 +1,6 @@
 {
   "startTime": 1725294442172,
-  "endTime": 1725326900975,
+  "endTime": 1725328288424,
   "band_list": [
     {
       "raw_hot": 2296649,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 2050573,
-      "num": 475301,
+      "num": 543178,
       "word": "花洛莉亚 擦边",
       "onboard_time": 1725283462,
       "rank": 10,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 1381439,
+      "num": 1381439,
+      "word": "苹果税",
+      "onboard_time": 1725322880,
+      "rank": 11,
+      "category": "互联网"
     },
     {
       "raw_hot": 1261285,
@@ -83,20 +91,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 752489,
-      "num": 474153,
-      "word": "苹果税",
-      "onboard_time": 1725322880,
-      "rank": 11,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 659659,
       "num": 659659,
       "word": "三只羊合伙人回怼辛巴",
       "onboard_time": 1725284481,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 572562,
+      "num": 572562,
+      "word": "日本拒绝投放储备米平抑高涨的米价",
+      "onboard_time": 1725326359,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 562453,
+      "num": 562453,
+      "word": "云宫迅音  防弹少年团",
+      "onboard_time": 1725322880,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 541528,
@@ -115,12 +131,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 531961,
-      "num": 531961,
-      "word": "云宫迅音  防弹少年团",
-      "onboard_time": 1725322880,
-      "rank": 8,
-      "category": "音乐"
+      "raw_hot": 529991,
+      "num": 529991,
+      "word": "美国21岁体操冠军在大学宿舍遭枪杀",
+      "onboard_time": 1725326359,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 458292,
@@ -171,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377316,
+      "num": 377316,
+      "word": "全红婵说马龙叫她干女儿",
+      "onboard_time": 1725327619,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 373881,
       "num": 373881,
       "word": "抗战胜利79周年",
@@ -185,6 +209,14 @@
       "onboard_time": 1725286704,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 349670,
+      "num": 349670,
+      "word": "野孩子 定档",
+      "onboard_time": 1725283581,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 348835,
@@ -204,7 +236,7 @@
     },
     {
       "raw_hot": 340898,
-      "num": 340898,
+      "num": 543602,
       "word": "委内瑞拉总统专机被美国扣押",
       "onboard_time": 1725325161,
       "rank": 23,
@@ -259,20 +291,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 295742,
+      "num": 295742,
+      "word": "潘展乐把nevergetup放简介里了",
+      "onboard_time": 1725322699,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 295680,
       "num": 231679,
       "word": "一句话让王一博心甘情愿解皮带",
       "onboard_time": 1725290960,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 293950,
-      "num": 293950,
-      "word": "潘展乐把nevergetup放简介里了",
-      "onboard_time": 1725322699,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 290078,
@@ -307,12 +339,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 276108,
-      "num": 320490,
-      "word": "野孩子 定档",
-      "onboard_time": 1725283581,
-      "rank": 8,
-      "category": "电影"
+      "raw_hot": 275639,
+      "num": 275639,
+      "word": "海莉 小人得志具象化",
+      "onboard_time": 1725326480,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 270717,
+      "num": 480738,
+      "word": "抗战胜利纪念日重温这番话语",
+      "onboard_time": 1725325161,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 266500,
@@ -347,7 +387,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 244947,
+      "raw_hot": 250133,
       "num": 391091,
       "word": "刘亦菲天津一日游",
       "onboard_time": 1725325099,
@@ -377,14 +417,6 @@
       "onboard_time": 1725325640,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 226277,
-      "num": 226277,
-      "word": "美国21岁体操冠军在大学宿舍遭枪杀",
-      "onboard_time": 1725326359,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 214851,
@@ -419,14 +451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190911,
-      "num": 210656,
-      "word": "海莉 小人得志具象化",
-      "onboard_time": 1725326480,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 190287,
       "num": 190287,
       "word": "黑兔",
@@ -435,12 +459,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184303,
-      "num": 184303,
-      "word": "日本拒绝投放储备米平抑高涨的米价",
-      "onboard_time": 1725326359,
-      "rank": 39,
-      "category": "国外时政"
+      "raw_hot": 187380,
+      "num": 187380,
+      "word": "官方通报男子举报70万吨垃圾倒黄河",
+      "onboard_time": 1725326599,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185088,
+      "num": 185088,
+      "word": "黑兔客服回应被指擦边",
+      "onboard_time": 1725327499,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175381,
+      "num": 175381,
+      "word": "超燃卡点视频重温九三阅兵",
+      "onboard_time": 1725325340,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 173385,
@@ -459,14 +499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167823,
-      "num": 480738,
-      "word": "抗战胜利纪念日重温这番话语",
-      "onboard_time": 1725325161,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 160951,
       "num": 160951,
       "word": "猫抓板 虫子",
@@ -475,12 +507,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 158138,
-      "num": 158138,
-      "word": "超燃卡点视频重温九三阅兵",
-      "onboard_time": 1725325340,
+      "raw_hot": 152746,
+      "num": 169859,
+      "word": "致敬中国人民的伟大胜利",
+      "onboard_time": 1725298874,
       "rank": 43,
-      "category": "国内时政"
+      "category": "国内时政,社会新闻"
     },
     {
       "raw_hot": 152468,
@@ -488,14 +520,6 @@
       "word": "花洛莉亚曾因文案不尊重女性道歉",
       "onboard_time": 1725325940,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151582,
-      "num": 151582,
-      "word": "官方通报男子举报70万吨垃圾倒黄河",
-      "onboard_time": 1725326599,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -507,11 +531,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148254,
+      "num": 148254,
+      "word": "龚俊暗河传屋顶喝酒路透",
+      "onboard_time": 1725328039,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147597,
       "num": 151298,
       "word": "蝴蝶姐姐怀孕",
       "onboard_time": 1725280160,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 146560,
+      "num": 146560,
+      "word": "金沙天街到底有谁在",
+      "onboard_time": 1725328100,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -553,6 +593,14 @@
       "onboard_time": 1725297193,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140186,
+      "num": 140186,
+      "word": "大众考虑关闭德国工厂",
+      "onboard_time": 1725328217,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 139557,
@@ -643,20 +691,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109129,
+      "num": 188554,
+      "word": "苹果曾在中国一年税收高达400亿",
+      "onboard_time": 1725327139,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 105121,
       "num": 105121,
       "word": "RNG 散是满天星",
       "onboard_time": 1725286523,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 100443,
-      "num": 169859,
-      "word": "致敬中国人民的伟大胜利",
-      "onboard_time": 1725298874,
-      "rank": 43,
-      "category": "国内时政,社会新闻"
     },
     {
       "raw_hot": 99689,

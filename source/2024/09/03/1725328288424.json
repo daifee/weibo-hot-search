@@ -1,0 +1,410 @@
+{
+  "runTime": 1725328288424,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1381439,
+        "num": 1381439,
+        "word": "苹果税",
+        "onboard_time": 1725322880,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 898236,
+        "num": 898236,
+        "word": "郑钦文遭种族歧视霸气回击",
+        "onboard_time": 1725294437,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27847,
+        "num": 855203,
+        "word": "巴黎残奥那些震撼心灵的细节",
+        "onboard_time": 1725282201,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1897741,
+        "num": 854596,
+        "word": "黑兔 擦边",
+        "onboard_time": 1725323061,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 844237,
+        "num": 844237,
+        "word": "辛巴 小杨哥",
+        "onboard_time": 1725320177,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 754493,
+        "num": 754493,
+        "word": "家长已经从包书皮卷到包书角了",
+        "onboard_time": 1725294198,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 574550,
+        "num": 574550,
+        "word": "女子婚后发现丈夫每天吃药告到法院",
+        "onboard_time": 1725284782,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572562,
+        "num": 572562,
+        "word": "日本拒绝投放储备米平抑高涨的米价",
+        "onboard_time": 1725326359,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 562453,
+        "num": 562453,
+        "word": "云宫迅音  防弹少年团",
+        "onboard_time": 1725322880,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231207,
+        "num": 543602,
+        "word": "委内瑞拉总统专机被美国扣押",
+        "onboard_time": 1725325161,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1016067,
+        "num": 543178,
+        "word": "花洛莉亚 擦边",
+        "onboard_time": 1725283462,
+        "rank": 10,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 529991,
+        "num": 529991,
+        "word": "美国21岁体操冠军在大学宿舍遭枪杀",
+        "onboard_time": 1725326359,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 522022,
+        "num": 522022,
+        "word": "170斤女骑手1年怒减65斤成功爆改",
+        "onboard_time": 1725287902,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453658,
+        "num": 453658,
+        "word": "跳跳俏俏小咘芽背影",
+        "onboard_time": 1725322040,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438323,
+        "num": 438323,
+        "word": "如果苹果真的下架了微信的话",
+        "onboard_time": 1725279439,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 385491,
+        "num": 385491,
+        "word": "莎莎紧急形象保护",
+        "onboard_time": 1725320059,
+        "rank": 15,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 377316,
+        "num": 377316,
+        "word": "全红婵说马龙叫她干女儿",
+        "onboard_time": 1725327619,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349670,
+        "num": 349670,
+        "word": "野孩子 定档",
+        "onboard_time": 1725283581,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 273948,
+        "num": 349159,
+        "word": "王安宇选张艺凡不选田曦薇",
+        "onboard_time": 1725323721,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250133,
+        "num": 345775,
+        "word": "刘亦菲天津一日游",
+        "onboard_time": 1725325099,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 565083,
+        "num": 345200,
+        "word": "顾客疑没穿内裤试裤子留白色异物",
+        "onboard_time": 1725283763,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445226,
+        "num": 342507,
+        "word": "第一天上幼儿园就知道她强的可怕",
+        "onboard_time": 1725321318,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 340962,
+        "num": 340962,
+        "word": "学校回应不买校服保险牛奶不给办入学",
+        "onboard_time": 1725291321,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336810,
+        "num": 336810,
+        "word": "古铜色iPhone16Pro再曝光",
+        "onboard_time": 1725318616,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 295742,
+        "num": 295742,
+        "word": "潘展乐把nevergetup放简介里了",
+        "onboard_time": 1725322699,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294262,
+        "num": 294262,
+        "word": "市监局回应小天鹅网店被薅走7000万",
+        "onboard_time": 1725320117,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275639,
+        "num": 275639,
+        "word": "海莉 小人得志具象化",
+        "onboard_time": 1725326480,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273656,
+        "num": 273656,
+        "word": "郑钦文四大满贯奖金已有1361万保底",
+        "onboard_time": 1725324680,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270717,
+        "num": 270717,
+        "word": "抗战胜利纪念日重温这番话语",
+        "onboard_time": 1725325161,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 162188,
+        "num": 270282,
+        "word": "棍铲 沙坪坝",
+        "onboard_time": 1725325640,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270206,
+        "num": 270206,
+        "word": "普京抵达蒙古国",
+        "onboard_time": 1725324680,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 268003,
+        "num": 268003,
+        "word": "抗战胜利79周年",
+        "onboard_time": 1725294557,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 265434,
+        "num": 265434,
+        "word": "苹果官方回应iPhone16不支持微信",
+        "onboard_time": 1725271400,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 252227,
+        "num": 252227,
+        "word": "外地女孩疑遭伤害街头崩溃大哭",
+        "onboard_time": 1725320059,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222883,
+        "num": 222883,
+        "word": "花洛莉亚",
+        "onboard_time": 1725321379,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215287,
+        "num": 215287,
+        "word": "每个中国人都该记住这一天",
+        "onboard_time": 1725295996,
+        "rank": 35,
+        "category": "社会新闻,国内时政"
+      },
+      {
+        "raw_hot": 200541,
+        "num": 200541,
+        "word": "一句话让王一博心甘情愿解皮带",
+        "onboard_time": 1725290960,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189803,
+        "num": 189803,
+        "word": "黑兔",
+        "onboard_time": 1725326119,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109129,
+        "num": 188554,
+        "word": "苹果曾在中国一年税收高达400亿",
+        "onboard_time": 1725327139,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 187380,
+        "num": 187380,
+        "word": "官方通报男子举报70万吨垃圾倒黄河",
+        "onboard_time": 1725326599,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185088,
+        "num": 185088,
+        "word": "黑兔客服回应被指擦边",
+        "onboard_time": 1725327499,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175753,
+        "num": 175753,
+        "word": "中国的世界灌溉工程遗产已达38项",
+        "onboard_time": 1725325640,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175381,
+        "num": 175381,
+        "word": "超燃卡点视频重温九三阅兵",
+        "onboard_time": 1725325340,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 172892,
+        "num": 172892,
+        "word": "凉拌黄瓜火了冰岛黄瓜卖脱销了",
+        "onboard_time": 1725285082,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164456,
+        "num": 164456,
+        "word": "樊振东王楚钦睡了一路",
+        "onboard_time": 1725286342,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152746,
+        "num": 152746,
+        "word": "致敬中国人民的伟大胜利",
+        "onboard_time": 1725298874,
+        "rank": 45,
+        "category": "国内时政,社会新闻"
+      },
+      {
+        "raw_hot": 148254,
+        "num": 148254,
+        "word": "龚俊暗河传屋顶喝酒路透",
+        "onboard_time": 1725328039,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146780,
+        "num": 146780,
+        "word": "刘亦菲登越南国家电视台",
+        "onboard_time": 1725286704,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146560,
+        "num": 146560,
+        "word": "金沙天街到底有谁在",
+        "onboard_time": 1725328100,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140186,
+        "num": 140186,
+        "word": "大众考虑关闭德国工厂",
+        "onboard_time": 1725328217,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的中非合作论坛峰会时间#"
+    }
+  }
+}

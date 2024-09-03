@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725326900975,
+  "endTime": 1725328288424,
   "band_list": [
     {
       "raw_hot": 5839152,
@@ -281,6 +281,14 @@
       "onboard_time": 1725249680,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1381439,
+      "num": 1381439,
+      "word": "苹果税",
+      "onboard_time": 1725322880,
+      "rank": 11,
+      "category": "互联网"
     },
     {
       "raw_hot": 1370603,
@@ -867,14 +875,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 752489,
-      "num": 474153,
-      "word": "苹果税",
-      "onboard_time": 1725322880,
-      "rank": 11,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 750022,
       "num": 295137,
       "word": "iPhone和微信你更离不开谁",
@@ -1267,12 +1267,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 572562,
+      "num": 572562,
+      "word": "日本拒绝投放储备米平抑高涨的米价",
+      "onboard_time": 1725326359,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 568965,
       "num": 568965,
       "word": "龙道一 全垫音",
       "onboard_time": 1725197901,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 562453,
+      "num": 562453,
+      "word": "云宫迅音  防弹少年团",
+      "onboard_time": 1725322880,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 558485,
@@ -1379,20 +1395,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 531961,
-      "num": 531961,
-      "word": "云宫迅音  防弹少年团",
-      "onboard_time": 1725322880,
-      "rank": 8,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 530507,
       "num": 530507,
       "word": "有人已经供暖了有人还在开空调",
       "onboard_time": 1725260839,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 529991,
+      "num": 529991,
+      "word": "美国21岁体操冠军在大学宿舍遭枪杀",
+      "onboard_time": 1725326359,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 527671,
@@ -1907,6 +1923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 377316,
+      "num": 377316,
+      "word": "全红婵说马龙叫她干女儿",
+      "onboard_time": 1725327619,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 373881,
       "num": 373881,
       "word": "抗战胜利79周年",
@@ -2036,7 +2060,7 @@
     },
     {
       "raw_hot": 340898,
-      "num": 340898,
+      "num": 543602,
       "word": "委内瑞拉总统专机被美国扣押",
       "onboard_time": 1725325161,
       "rank": 23,
@@ -2283,6 +2307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 295742,
+      "num": 295742,
+      "word": "潘展乐把nevergetup放简介里了",
+      "onboard_time": 1725322699,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 295680,
       "num": 231679,
       "word": "一句话让王一博心甘情愿解皮带",
@@ -2313,14 +2345,6 @@
       "onboard_time": 1725183680,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 293950,
-      "num": 293950,
-      "word": "潘展乐把nevergetup放简介里了",
-      "onboard_time": 1725322699,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 292973,
@@ -2459,6 +2483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275639,
+      "num": 275639,
+      "word": "海莉 小人得志具象化",
+      "onboard_time": 1725326480,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 274368,
       "num": 329187,
       "word": "刘亦菲飞吻张靓颖",
@@ -2513,6 +2545,14 @@
       "onboard_time": 1725285321,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 270717,
+      "num": 480738,
+      "word": "抗战胜利纪念日重温这番话语",
+      "onboard_time": 1725325161,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 263820,
@@ -2683,6 +2723,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 250133,
+      "num": 391091,
+      "word": "刘亦菲天津一日游",
+      "onboard_time": 1725325099,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250114,
       "num": 250114,
       "word": "台风摩羯大概率直奔广东",
@@ -2729,14 +2777,6 @@
       "onboard_time": 1725189260,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 244947,
-      "num": 391091,
-      "word": "刘亦菲天津一日游",
-      "onboard_time": 1725325099,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 244893,
@@ -2921,14 +2961,6 @@
       "onboard_time": 1725287063,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 226277,
-      "num": 226277,
-      "word": "美国21岁体操冠军在大学宿舍遭枪杀",
-      "onboard_time": 1725326359,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 226191,
@@ -3627,14 +3659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190911,
-      "num": 210656,
-      "word": "海莉 小人得志具象化",
-      "onboard_time": 1725326480,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 190846,
       "num": 190846,
       "word": "美网",
@@ -3747,6 +3771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187380,
+      "num": 187380,
+      "word": "官方通报男子举报70万吨垃圾倒黄河",
+      "onboard_time": 1725326599,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187319,
       "num": 187319,
       "word": "权志龙将于12月回归",
@@ -3843,20 +3875,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 185088,
+      "num": 185088,
+      "word": "黑兔客服回应被指擦边",
+      "onboard_time": 1725327499,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184858,
       "num": 610384,
       "word": "互联网黄牛犹如吸血的牛虻",
       "onboard_time": 1725258920,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184303,
-      "num": 184303,
-      "word": "日本拒绝投放储备米平抑高涨的米价",
-      "onboard_time": 1725326359,
-      "rank": 39,
-      "category": "国外时政"
     },
     {
       "raw_hot": 183689,
@@ -4057,6 +4089,14 @@
       "onboard_time": 1725242480,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 175381,
+      "num": 175381,
+      "word": "超燃卡点视频重温九三阅兵",
+      "onboard_time": 1725325340,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 175377,
@@ -4265,14 +4305,6 @@
       "onboard_time": 1725250520,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 167823,
-      "num": 480738,
-      "word": "抗战胜利纪念日重温这番话语",
-      "onboard_time": 1725325161,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 167502,
@@ -4507,14 +4539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158138,
-      "num": 158138,
-      "word": "超燃卡点视频重温九三阅兵",
-      "onboard_time": 1725325340,
-      "rank": 43,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 158105,
       "num": 158105,
       "word": "学生使用宿舍空调需交租赁费",
@@ -4667,6 +4691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152746,
+      "num": 169859,
+      "word": "致敬中国人民的伟大胜利",
+      "onboard_time": 1725298874,
+      "rank": 43,
+      "category": "国内时政,社会新闻"
+    },
+    {
       "raw_hot": 152594,
       "num": 152594,
       "word": "流水迢迢",
@@ -4689,14 +4721,6 @@
       "onboard_time": 1725181880,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151582,
-      "num": 151582,
-      "word": "官方通报男子举报70万吨垃圾倒黄河",
-      "onboard_time": 1725326599,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151404,
@@ -4779,6 +4803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148254,
+      "num": 148254,
+      "word": "龚俊暗河传屋顶喝酒路透",
+      "onboard_time": 1725328039,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147449,
       "num": 355716,
       "word": "园长收学生6元巧克力被开用力过猛了",
@@ -4809,6 +4841,14 @@
       "onboard_time": 1725290302,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146560,
+      "num": 146560,
+      "word": "金沙天街到底有谁在",
+      "onboard_time": 1725328100,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 146220,
@@ -4937,6 +4977,14 @@
       "onboard_time": 1725297193,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140186,
+      "num": 140186,
+      "word": "大众考虑关闭德国工厂",
+      "onboard_time": 1725328217,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 139557,
@@ -5427,6 +5475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109129,
+      "num": 188554,
+      "word": "苹果曾在中国一年税收高达400亿",
+      "onboard_time": 1725327139,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 107582,
       "num": 120355,
       "word": "十个勤天佛山演唱会",
@@ -5489,14 +5545,6 @@
       "onboard_time": 1725111682,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 100443,
-      "num": 169859,
-      "word": "致敬中国人民的伟大胜利",
-      "onboard_time": 1725298874,
-      "rank": 43,
-      "category": "国内时政,社会新闻"
     },
     {
       "raw_hot": 100106,
