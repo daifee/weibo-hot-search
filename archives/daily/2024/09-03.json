@@ -1,6 +1,6 @@
 {
   "startTime": 1725294442172,
-  "endTime": 1725367209100,
+  "endTime": 1725368156411,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -33,6 +33,14 @@
       "onboard_time": 1725353361,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2375444,
+      "num": 601537,
+      "word": "男孩骑行遭碾压身亡司机妻子患白血病",
+      "onboard_time": 1725365420,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 2341155,
@@ -73,14 +81,6 @@
       "onboard_time": 1725361732,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1748249,
-      "num": 588360,
-      "word": "男孩骑行遭碾压身亡司机妻子患白血病",
-      "onboard_time": 1725365420,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1582890,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 912826,
+      "num": 912826,
+      "word": "搭讪姜珮瑶",
+      "onboard_time": 1725366620,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 909718,
       "num": 909718,
       "word": "家长已经从包书皮卷到包书角了",
@@ -369,6 +377,14 @@
       "onboard_time": 1725336323,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 701426,
+      "num": 701426,
+      "word": "王楚钦当着莎莎的面被别人喊王亲亲",
+      "onboard_time": 1725366620,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 681552,
@@ -691,14 +707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 407559,
-      "num": 407559,
-      "word": "搭讪姜珮瑶",
-      "onboard_time": 1725366620,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 407445,
       "num": 407445,
       "word": "华为三折手机命名MateXT非凡大师",
@@ -716,7 +724,7 @@
     },
     {
       "raw_hot": 392261,
-      "num": 589056,
+      "num": 602308,
       "word": "长春一男子持刀闹事致民警一死二伤",
       "onboard_time": 1725360019,
       "rank": 18,
@@ -747,12 +755,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 378445,
-      "num": 378445,
-      "word": "王楚钦当着莎莎的面被别人喊王亲亲",
-      "onboard_time": 1725366620,
-      "rank": 17,
-      "category": "体育"
+      "raw_hot": 379009,
+      "num": 379009,
+      "word": "戴建业说35岁失业让人们不敢生育",
+      "onboard_time": 1725366980,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 378274,
@@ -785,6 +793,14 @@
       "onboard_time": 1725344420,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 373179,
+      "num": 373179,
+      "word": "丁禹兮 谈恋爱都不会",
+      "onboard_time": 1725366381,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 373083,
@@ -1155,14 +1171,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 267249,
-      "num": 267249,
-      "word": "戴建业说35岁失业让人们不敢生育",
-      "onboard_time": 1725366980,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 266500,
       "num": 266500,
       "word": "普京称家里小孩中文说得很流利",
@@ -1305,6 +1313,14 @@
       "onboard_time": 1725295996,
       "rank": 14,
       "category": "社会新闻,国内时政"
+    },
+    {
+      "raw_hot": 239805,
+      "num": 239805,
+      "word": "全红婵用筷子炫整块牛排",
+      "onboard_time": 1725365479,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 239381,
@@ -1531,12 +1547,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 207379,
-      "num": 207379,
-      "word": "丁禹兮 谈恋爱都不会",
-      "onboard_time": 1725366381,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 207343,
+      "num": 207343,
+      "word": "宁艺卓叫声好像CardiB",
+      "onboard_time": 1725364941,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 206614,
@@ -1569,14 +1585,6 @@
       "onboard_time": 1725340881,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202461,
-      "num": 202461,
-      "word": "全红婵用筷子炫整块牛排",
-      "onboard_time": 1725365479,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 200896,
@@ -1747,6 +1755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182896,
+      "num": 182896,
+      "word": "彭高孙乐言be",
+      "onboard_time": 1725367519,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181774,
       "num": 181774,
       "word": "潘展乐在港澳行中确诊为莫雷高德",
@@ -1761,6 +1777,14 @@
       "onboard_time": 1725357380,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 180504,
+      "num": 180504,
+      "word": "高雅cp",
+      "onboard_time": 1725367700,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 179119,
@@ -1827,6 +1851,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 174069,
+      "num": 174069,
+      "word": "男小三赛道也卷起来了",
+      "onboard_time": 1725366740,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174027,
       "num": 419451,
       "word": "秦俊杰演活了中年人的无奈",
@@ -1859,6 +1891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171820,
+      "num": 171820,
+      "word": "王曼昱的港澳行vlog",
+      "onboard_time": 1725364941,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171010,
       "num": 171010,
       "word": "赵丽颖形容李红樱",
@@ -1875,14 +1915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169390,
-      "num": 169390,
-      "word": "王曼昱的港澳行vlog",
-      "onboard_time": 1725364941,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168756,
       "num": 168756,
       "word": "李兰迪好真诚",
@@ -1897,6 +1929,14 @@
       "onboard_time": 1725365239,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168406,
+      "num": 168406,
+      "word": "张凌赫温润国风",
+      "onboard_time": 1725367340,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 168229,
@@ -2011,14 +2051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161536,
-      "num": 161536,
-      "word": "男小三赛道也卷起来了",
-      "onboard_time": 1725366740,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 161402,
       "num": 161402,
       "word": "弈星炽弈燎原皮肤",
@@ -2131,14 +2163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 152443,
-      "num": 152443,
-      "word": "宁艺卓叫声好像CardiB",
-      "onboard_time": 1725364941,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 151031,
       "num": 208559,
       "word": "三大只剩SM未发公告",
@@ -2169,6 +2193,14 @@
       "onboard_time": 1725328039,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147884,
+      "num": 147884,
+      "word": "谢瑜回应喊樊振东是我的",
+      "onboard_time": 1725367460,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 147597,
@@ -2595,6 +2627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65076,
+      "num": 575611,
+      "word": "最近很火的烟台海肠到底是什么",
+      "onboard_time": 1725365360,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
       "raw_hot": 62082,
       "num": 67522,
       "word": "家长称女儿被机构教官体罚致昏迷",
@@ -2657,14 +2697,6 @@
       "onboard_time": 1725365120,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47662,
-      "num": 575611,
-      "word": "最近很火的烟台海肠到底是什么",
-      "onboard_time": 1725365360,
-      "rank": 11,
-      "category": "美食"
     },
     {
       "raw_hot": 43821,
@@ -2787,6 +2819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24792,
+      "num": 137776,
+      "word": "和佰草集与檀健次再见一次",
+      "onboard_time": 1725368000,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24133,
       "num": 567049,
       "word": "婚姻里该不该亲夫妻明算账",
@@ -2867,6 +2907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 6676,
+      "num": 987142,
+      "word": "我国最大油气田累产油气突破10亿吨",
+      "onboard_time": 1725368060,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 6290,
       "num": 92868,
       "word": "台州为老人医保兜底参保无门槛",
@@ -2890,6 +2938,9 @@
     },
     {
       "word": "#中国和非洲国家是患难之交#"
+    },
+    {
+      "word": "#共创中非美好未来#"
     }
   ]
 }
