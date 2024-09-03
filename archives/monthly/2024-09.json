@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725405700725,
+  "endTime": 1725406539272,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -667,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1046334,
+      "num": 1046334,
+      "word": "郑钦文vs萨巴伦卡",
+      "onboard_time": 1725378680,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1033551,
       "num": 886810,
       "word": "邓为偷偷戴了脐钉",
@@ -1233,14 +1241,6 @@
       "onboard_time": 1725340642,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 728899,
-      "num": 728899,
-      "word": "郑钦文vs萨巴伦卡",
-      "onboard_time": 1725378680,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 727879,
@@ -2579,6 +2579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 390420,
+      "num": 677428,
+      "word": "电鸡一年十次以上处罚或影响征信",
+      "onboard_time": 1725367220,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386747,
       "num": 386747,
       "word": "盛李豪 死腿协调点别搞我",
@@ -2593,14 +2601,6 @@
       "onboard_time": 1725370761,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 382681,
-      "num": 677428,
-      "word": "电鸡一年十次以上处罚或影响征信",
-      "onboard_time": 1725367220,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 382277,
@@ -4067,6 +4067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231982,
+      "num": 740028,
+      "word": "被打男司机挨打还手算正当防卫吗",
+      "onboard_time": 1725372923,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231071,
       "num": 322725,
       "word": "棍铲 沙坪坝",
@@ -4315,6 +4323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216480,
+      "num": 216480,
+      "word": "68岁教授说现在的年轻人比以前难多了",
+      "onboard_time": 1725391270,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216343,
       "num": 216343,
       "word": "宁艺卓叫声好像CardiB",
@@ -4361,14 +4377,6 @@
       "onboard_time": 1725333801,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 213655,
-      "num": 213655,
-      "word": "68岁教授说现在的年轻人比以前难多了",
-      "onboard_time": 1725391270,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213639,
@@ -4449,14 +4457,6 @@
       "onboard_time": 1725260300,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 209993,
-      "num": 740028,
-      "word": "被打男司机挨打还手算正当防卫吗",
-      "onboard_time": 1725372923,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209973,
@@ -5675,6 +5675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177231,
+      "num": 177231,
+      "word": "全红婵谁也没放过",
+      "onboard_time": 1725402554,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177014,
       "num": 177014,
       "word": "巴黎残奥会奖牌榜",
@@ -5720,6 +5728,14 @@
       "word": "开学碎掉的其实是老师",
       "onboard_time": 1725242480,
       "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 175677,
+      "num": 126628,
+      "word": "猫 那咋了",
+      "onboard_time": 1725405196,
+      "rank": 30,
       "category": "幽默"
     },
     {
@@ -7219,12 +7235,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 132556,
-      "num": 132556,
-      "word": "全红婵谁也没放过",
-      "onboard_time": 1725402554,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 132468,
+      "num": 132468,
+      "word": "阚清子说恋爱谈太多也不好",
+      "onboard_time": 1725404056,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 132254,
@@ -7547,6 +7563,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 116546,
+      "num": 116546,
+      "word": "妈妈比死神先到一步",
+      "onboard_time": 1725405196,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116544,
       "num": 120368,
       "word": "苏醒发长文支持王铮亮",
@@ -7659,14 +7683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 107607,
-      "num": 122212,
-      "word": "阚清子说恋爱谈太多也不好",
-      "onboard_time": 1725404056,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 107582,
       "num": 120355,
       "word": "十个勤天佛山演唱会",
@@ -7681,14 +7697,6 @@
       "onboard_time": 1725153258,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105840,
-      "num": 105840,
-      "word": "猫 那咋了",
-      "onboard_time": 1725405196,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 105789,
@@ -7947,19 +7955,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85536,
+      "num": 128678,
+      "word": "被打只能屈辱承受吗",
+      "onboard_time": 1725389472,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84884,
       "num": 602888,
       "word": "烟卡游戏凭什么获得小学生芳心",
       "onboard_time": 1725285743,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82850,
-      "num": 128678,
-      "word": "被打只能屈辱承受吗",
-      "onboard_time": 1725389472,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -7993,6 +8001,14 @@
       "onboard_time": 1725231736,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79329,
+      "num": 117509,
+      "word": "钟楚曦韩东君 野性的张力",
+      "onboard_time": 1725392711,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 78534,
@@ -8065,6 +8081,14 @@
       "onboard_time": 1725182119,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74446,
+      "num": 390788,
+      "word": "河南中牟通报教官体罚14岁女生",
+      "onboard_time": 1725405256,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73234,
@@ -8227,14 +8251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 65113,
-      "num": 106112,
-      "word": "钟楚曦韩东君 野性的张力",
-      "onboard_time": 1725392711,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 65014,
       "num": 1078685,
       "word": "9月第一天",
@@ -8388,7 +8404,7 @@
     },
     {
       "raw_hot": 56404,
-      "num": 56404,
+      "num": 62459,
       "word": "买校服牛奶才办入学涉事学校被整改",
       "onboard_time": 1725389052,
       "rank": 27,
@@ -8531,12 +8547,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 50528,
-      "num": 50528,
+      "raw_hot": 50964,
+      "num": 62425,
       "word": "全红婵上一秒打球下一秒睡觉",
       "onboard_time": 1725400872,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50640,
+      "num": 62415,
+      "word": "男孩开学失联被发现躲大伯家吹空调",
+      "onboard_time": 1725406097,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50368,
@@ -8577,14 +8601,6 @@
       "onboard_time": 1725275120,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 48506,
-      "num": 50525,
-      "word": "妈妈比死神先到一步",
-      "onboard_time": 1725405196,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 48374,
@@ -8833,14 +8849,6 @@
       "onboard_time": 1725280160,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 37983,
-      "num": 287358,
-      "word": "河南中牟通报教官体罚14岁女生",
-      "onboard_time": 1725405256,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37876,
