@@ -1,6 +1,6 @@
 {
   "startTime": 1725380864855,
-  "endTime": 1725399325507,
+  "endTime": 1725402044711,
   "band_list": [
     {
       "raw_hot": 1194007,
@@ -169,6 +169,14 @@
       "onboard_time": 1725379218,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206725,
+      "num": 77274,
+      "word": "三只羊女主播沫沫已有9个月未更新",
+      "onboard_time": 1725400093,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203417,
@@ -355,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98604,
+      "num": 98604,
+      "word": "68岁教授说现在的年轻人比以前难多了",
+      "onboard_time": 1725391270,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95798,
       "num": 95798,
       "word": "宁艺卓叫声好像CardiB",
@@ -411,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65462,
+      "num": 77593,
+      "word": "被打只能屈辱承受吗",
+      "onboard_time": 1725389472,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59268,
       "num": 59268,
       "word": "王源你的罗伯特来了",
@@ -433,22 +457,6 @@
       "onboard_time": 1725384014,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 49088,
-      "num": 49088,
-      "word": "被打只能屈辱承受吗",
-      "onboard_time": 1725389472,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45254,
-      "num": 45254,
-      "word": "68岁教授说现在的年轻人比以前难多了",
-      "onboard_time": 1725391270,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44995,
@@ -475,12 +483,44 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 31565,
+      "num": 45691,
+      "word": "警方回应男生因室友电瓶爆燃烧伤",
+      "onboard_time": 1725396732,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30241,
+      "num": 42000,
+      "word": "买校服牛奶才办入学涉事学校被整改",
+      "onboard_time": 1725389052,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29665,
+      "num": 29665,
+      "word": "崩溃的妈无奈的爸失控的娃",
+      "onboard_time": 1725389892,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 28012,
       "num": 32264,
       "word": "野孩子片长127分钟",
       "onboard_time": 1725385753,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 27712,
+      "num": 29662,
+      "word": "让孩子课间走出教室跑跑跳跳",
+      "onboard_time": 1725396071,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27448,
@@ -491,6 +531,22 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 27424,
+      "num": 44483,
+      "word": "迪丽热巴五年前后对比",
+      "onboard_time": 1725392170,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 25974,
+      "num": 29657,
+      "word": "钟楚曦韩东君 野性的张力",
+      "onboard_time": 1725392711,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 25202,
       "num": 32211,
       "word": "徐明浩看恋综看红温了",
@@ -499,36 +555,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 24087,
-      "num": 42000,
-      "word": "买校服牛奶才办入学涉事学校被整改",
-      "onboard_time": 1725389052,
-      "rank": 27,
+      "raw_hot": 23923,
+      "num": 29637,
+      "word": "全红婵上一秒打球下一秒睡觉",
+      "onboard_time": 1725400872,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 19919,
+      "num": 29658,
+      "word": "古代的保险柜外面还要裹黄金",
+      "onboard_time": 1725399793,
+      "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22056,
-      "num": 22056,
-      "word": "让孩子课间走出教室跑跑跳跳",
-      "onboard_time": 1725396071,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20983,
-      "num": 24261,
-      "word": "崩溃的妈无奈的爸失控的娃",
-      "onboard_time": 1725389892,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 19373,
-      "num": 23981,
-      "word": "钟楚曦韩东君 野性的张力",
-      "onboard_time": 1725392711,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 18756,
@@ -560,22 +600,6 @@
       "word": "别人卡bug他是卡爸爸",
       "onboard_time": 1725393072,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17585,
-      "num": 21952,
-      "word": "迪丽热巴五年前后对比",
-      "onboard_time": 1725392170,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 13359,
-      "num": 45691,
-      "word": "警方回应男生因室友电瓶爆燃烧伤",
-      "onboard_time": 1725396732,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
