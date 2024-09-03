@@ -1,0 +1,410 @@
+{
+  "runTime": 1725359997551,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5458173,
+        "num": 5458173,
+        "word": "青岛警方通报王某驾车逆行殴打他人案",
+        "onboard_time": 1725341422,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2095962,
+        "num": 2095962,
+        "word": "芭莎爆料 四位女艺人",
+        "onboard_time": 1725353361,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56942,
+        "num": 1516425,
+        "word": "雪域高原焕新貌",
+        "onboard_time": 1725354260,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1284116,
+        "num": 1284116,
+        "word": "长春警方通报一小区持刀伤人事件",
+        "onboard_time": 1725356900,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1084362,
+        "num": 1084362,
+        "word": "六大行人均月薪酬不到3万元",
+        "onboard_time": 1725356360,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649366,
+        "num": 649366,
+        "word": "还以为是早期的Angelababy",
+        "onboard_time": 1725357140,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 504983,
+        "num": 504983,
+        "word": "男子婚内将2套房产赠与和前妻儿子",
+        "onboard_time": 1725348861,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499532,
+        "num": 499532,
+        "word": "王昶 在黄山拍到了人生照片",
+        "onboard_time": 1725352280,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 480722,
+        "num": 480722,
+        "word": "芭莎工作人员爆料景甜耍大牌",
+        "onboard_time": 1725349879,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326444,
+        "num": 379820,
+        "word": "新疆开始下雪",
+        "onboard_time": 1725348501,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773910,
+        "num": 376805,
+        "word": "泰安交通事故致11人遇难",
+        "onboard_time": 1725335672,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345338,
+        "num": 345338,
+        "word": "长沙冰块预订电话被家长打爆了",
+        "onboard_time": 1725346702,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313922,
+        "num": 313922,
+        "word": "李庚希拍超越腿粗了9厘米",
+        "onboard_time": 1725358640,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303582,
+        "num": 303582,
+        "word": "王楚钦问全红婵不回北京了是吧",
+        "onboard_time": 1725343161,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285900,
+        "num": 285900,
+        "word": "阿条姐 先天特工圣体",
+        "onboard_time": 1725352580,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263090,
+        "num": 263090,
+        "word": "阚清子说未婚夫是自己影迷",
+        "onboard_time": 1725354201,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250429,
+        "num": 250429,
+        "word": "谢娜 出来工作",
+        "onboard_time": 1725350360,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249231,
+        "num": 249231,
+        "word": "第一个叫王楚钦耶耶的人是天才",
+        "onboard_time": 1725355461,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249075,
+        "num": 249075,
+        "word": "迪丽热巴妆造",
+        "onboard_time": 1725346642,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242290,
+        "num": 242290,
+        "word": "男子花29元坐高铁免费吃40元盒饭",
+        "onboard_time": 1725358220,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41570,
+        "num": 240654,
+        "word": "建议退市时补偿无辜的中小投资者",
+        "onboard_time": 1725358161,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1049121,
+        "num": 240168,
+        "word": "工资没涨 儿歌涨价了",
+        "onboard_time": 1725356000,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239304,
+        "num": 239304,
+        "word": "小天鹅被薅店主公告解决方案",
+        "onboard_time": 1725348380,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231386,
+        "num": 231386,
+        "word": "女子花光妈妈100万伪造250万假存单",
+        "onboard_time": 1725347241,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212455,
+        "num": 212455,
+        "word": "阿条姐当年是玩冷兵器的",
+        "onboard_time": 1725352280,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206257,
+        "num": 206257,
+        "word": "陈飞宇迪丽热巴cp感",
+        "onboard_time": 1725359361,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201252,
+        "num": 201252,
+        "word": "赵丽娜试衣服试到崩溃大哭",
+        "onboard_time": 1725356540,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194900,
+        "num": 194900,
+        "word": "家长烧掉孩子3000张烟卡不值得叫好",
+        "onboard_time": 1725354682,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194480,
+        "num": 194480,
+        "word": "不想在出租屋里生孩子有错吗",
+        "onboard_time": 1725341361,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184671,
+        "num": 184671,
+        "word": "祝绪丹看手表这段不像演的",
+        "onboard_time": 1725349580,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183080,
+        "num": 183080,
+        "word": "教育局回应不买校服牛奶不给办入学",
+        "onboard_time": 1725357799,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171541,
+        "num": 171541,
+        "word": "辛巴三只羊互撕的品牌月销售额超2亿",
+        "onboard_time": 1725357380,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 168229,
+        "num": 168229,
+        "word": "张真源 手握逆袭剧本",
+        "onboard_time": 1725358700,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165809,
+        "num": 165809,
+        "word": "黄薇 妆造",
+        "onboard_time": 1725347720,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165648,
+        "num": 165648,
+        "word": "因为开学包书皮被老师点名批评",
+        "onboard_time": 1725356780,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162825,
+        "num": 162825,
+        "word": "99年女孩做客服两年输入400万字",
+        "onboard_time": 1725359479,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157678,
+        "num": 157678,
+        "word": "李昕亮 柳岩结婚了我会有点生气",
+        "onboard_time": 1725351442,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154749,
+        "num": 154749,
+        "word": "樊振东这个笑诠释什么是阳光明媚",
+        "onboard_time": 1725358220,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152436,
+        "num": 152436,
+        "word": "辛巴称被小杨哥举报",
+        "onboard_time": 1725347001,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149848,
+        "num": 149848,
+        "word": "安排当个班主任她就老实了",
+        "onboard_time": 1725359901,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149189,
+        "num": 149189,
+        "word": "赵丽颖又是三人组",
+        "onboard_time": 1725359119,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147114,
+        "num": 147114,
+        "word": "我的阿勒泰都下雪了",
+        "onboard_time": 1725355042,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146694,
+        "num": 146694,
+        "word": "王曼昱回黑龙江受到热烈迎接",
+        "onboard_time": 1725359660,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146584,
+        "num": 146584,
+        "word": "女子当街在法拉利上喷写渣男",
+        "onboard_time": 1725347121,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142611,
+        "num": 142611,
+        "word": "南极洲发现了罕见的黄金企鹅",
+        "onboard_time": 1725359720,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141389,
+        "num": 141389,
+        "word": "逆行打人女子已写道歉书致歉",
+        "onboard_time": 1725350600,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20054,
+        "num": 135909,
+        "word": "烟台海肠捞饭确实名不虚传",
+        "onboard_time": 1725354260,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135153,
+        "num": 135153,
+        "word": "韩安冉体重160斤",
+        "onboard_time": 1725337523,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 135114,
+        "num": 135114,
+        "word": "幼儿园回应家长宣誓不给老师甩脸子",
+        "onboard_time": 1725355941,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133060,
+        "num": 133060,
+        "word": "潘展乐在港澳行中确诊为莫雷高德",
+        "onboard_time": 1725355581,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国和非洲国家是患难之交#"
+    }
+  }
+}

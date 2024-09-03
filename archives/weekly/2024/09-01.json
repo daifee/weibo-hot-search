@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725358926418,
+  "endTime": 1725359997551,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -547,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1084362,
+      "num": 1084362,
+      "word": "六大行人均月薪酬不到3万元",
+      "onboard_time": 1725356360,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1077079,
       "num": 1124839,
       "word": "专家称取消公摊是忽悠老百姓的",
@@ -569,6 +577,14 @@
       "onboard_time": 1725201082,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1049121,
+      "num": 297320,
+      "word": "工资没涨 儿歌涨价了",
+      "onboard_time": 1725356000,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 1048519,
@@ -857,14 +873,6 @@
       "onboard_time": 1725274700,
       "rank": 43,
       "category": "美食"
-    },
-    {
-      "raw_hot": 833815,
-      "num": 833815,
-      "word": "六大行人均月薪酬不到3万元",
-      "onboard_time": 1725356360,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 830335,
@@ -1259,14 +1267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 664350,
-      "num": 297320,
-      "word": "工资没涨 儿歌涨价了",
-      "onboard_time": 1725356000,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 659659,
       "num": 659659,
       "word": "三只羊合伙人回怼辛巴",
@@ -1297,6 +1297,14 @@
       "onboard_time": 1725186618,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 649366,
+      "num": 649366,
+      "word": "还以为是早期的Angelababy",
+      "onboard_time": 1725357140,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 647861,
@@ -2001,14 +2009,6 @@
       "onboard_time": 1725167240,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 465361,
-      "num": 465361,
-      "word": "还以为是早期的Angelababy",
-      "onboard_time": 1725357140,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 465295,
@@ -2745,6 +2745,14 @@
       "onboard_time": 1725279920,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313922,
+      "num": 313922,
+      "word": "李庚希拍超越腿粗了9厘米",
+      "onboard_time": 1725358640,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 313421,
@@ -3571,6 +3579,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 242290,
+      "num": 242290,
+      "word": "男子花29元坐高铁免费吃40元盒饭",
+      "onboard_time": 1725358220,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241783,
       "num": 241783,
       "word": "山东东平车祸亲历者发声",
@@ -4153,6 +4169,14 @@
       "onboard_time": 1725252442,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206257,
+      "num": 206257,
+      "word": "陈飞宇迪丽热巴cp感",
+      "onboard_time": 1725359361,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 206247,
@@ -4963,6 +4987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183080,
+      "num": 429128,
+      "word": "教育局回应不买校服牛奶不给办入学",
+      "onboard_time": 1725357799,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182488,
       "num": 182488,
       "word": "我结婚就按柳舟记这么办",
@@ -5056,14 +5088,6 @@
       "word": "吃到古偶帝后cp的细糠了",
       "onboard_time": 1725202581,
       "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 179529,
-      "num": 179529,
-      "word": "李庚希拍超越腿粗了9厘米",
-      "onboard_time": 1725358640,
-      "rank": 34,
       "category": "剧集"
     },
     {
@@ -5459,6 +5483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168229,
+      "num": 168229,
+      "word": "张真源 手握逆袭剧本",
+      "onboard_time": 1725358700,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168218,
       "num": 168218,
       "word": "J人和P人家长开学名场面",
@@ -5513,14 +5545,6 @@
       "onboard_time": 1725179840,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 166725,
-      "num": 166725,
-      "word": "张真源 手握逆袭剧本",
-      "onboard_time": 1725358700,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 166666,
@@ -5659,6 +5683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162825,
+      "num": 162825,
+      "word": "99年女孩做客服两年输入400万字",
+      "onboard_time": 1725359479,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162729,
       "num": 162729,
       "word": "重庆人期待已久的雨终于来了",
@@ -5745,14 +5777,6 @@
       "onboard_time": 1725278359,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 160185,
-      "num": 160185,
-      "word": "男子花29元坐高铁免费吃40元盒饭",
-      "onboard_time": 1725358220,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159989,
@@ -5971,6 +5995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154749,
+      "num": 154749,
+      "word": "樊振东这个笑诠释什么是阳光明媚",
+      "onboard_time": 1725358220,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154733,
       "num": 154733,
       "word": "9月上班21天",
@@ -6099,6 +6131,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149848,
+      "num": 149848,
+      "word": "安排当个班主任她就老实了",
+      "onboard_time": 1725359901,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 149189,
+      "num": 149189,
+      "word": "赵丽颖又是三人组",
+      "onboard_time": 1725359119,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 148488,
       "num": 148488,
       "word": "邓佳鑫回应粉丝",
@@ -6155,11 +6203,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146822,
-      "num": 146822,
-      "word": "樊振东这个笑诠释什么是阳光明媚",
-      "onboard_time": 1725358220,
-      "rank": 48,
+      "raw_hot": 146694,
+      "num": 146694,
+      "word": "王曼昱回黑龙江受到热烈迎接",
+      "onboard_time": 1725359660,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -6289,6 +6337,14 @@
       "onboard_time": 1725176118,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 142611,
+      "num": 142611,
+      "word": "南极洲发现了罕见的黄金企鹅",
+      "onboard_time": 1725359720,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 141812,
@@ -7107,14 +7163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 85521,
-      "num": 429128,
-      "word": "教育局回应不买校服牛奶不给办入学",
-      "onboard_time": 1725357799,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 84884,
       "num": 602888,
       "word": "烟卡游戏凭什么获得小学生芳心",
@@ -7755,6 +7803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41570,
+      "num": 334002,
+      "word": "建议退市时补偿无辜的中小投资者",
+      "onboard_time": 1725358161,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41542,
       "num": 283228,
       "word": "警方采集DNA寻找高空抛物肇事者",
@@ -8121,14 +8177,6 @@
       "onboard_time": 1725130993,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 29816,
-      "num": 334002,
-      "word": "建议退市时补偿无辜的中小投资者",
-      "onboard_time": 1725358161,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29778,
