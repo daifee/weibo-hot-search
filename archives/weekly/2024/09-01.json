@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725395824748,
+  "endTime": 1725398390275,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -8659,6 +8659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40702,
+      "num": 40702,
+      "word": "68岁教授说现在的年轻人比以前难多了",
+      "onboard_time": 1725391270,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40625,
       "num": 302430,
       "word": "ChinaHotel把外国人惊成表情包",
@@ -9107,14 +9115,6 @@
       "category": "艺人,电竞"
     },
     {
-      "raw_hot": 27091,
-      "num": 27091,
-      "word": "68岁教授说现在的年轻人比以前难多了",
-      "onboard_time": 1725391270,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 26694,
       "num": 472894,
       "word": "对毒枸杞必须重罚",
@@ -9387,6 +9387,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18546,
+      "num": 23981,
+      "word": "钟楚曦韩东君 野性的张力",
+      "onboard_time": 1725392711,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 18297,
+      "num": 18297,
+      "word": "藏海花系统点播梗",
+      "onboard_time": 1725394271,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 18192,
+      "num": 18192,
+      "word": "别人卡bug他是卡爸爸",
+      "onboard_time": 1725393072,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17823,
       "num": 366831,
       "word": "谁给李斯丹妮递个文艺片本子",
@@ -9395,27 +9419,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 17611,
+      "num": 17611,
+      "word": "新疆重庆实力演绎冰火两重天",
+      "onboard_time": 1725394692,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17585,
       "num": 21952,
       "word": "迪丽热巴五年前后对比",
       "onboard_time": 1725392170,
       "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 17541,
-      "num": 17541,
-      "word": "藏海花系统点播梗",
-      "onboard_time": 1725394271,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 17531,
-      "num": 17531,
-      "word": "钟楚曦韩东君 野性的张力",
-      "onboard_time": 1725392711,
-      "rank": 40,
       "category": "剧集"
     },
     {
@@ -9432,14 +9448,6 @@
       "word": "中非合作论坛峰会有哪些看点",
       "onboard_time": 1725282980,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16656,
-      "num": 16920,
-      "word": "别人卡bug他是卡爸爸",
-      "onboard_time": 1725393072,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -9475,11 +9483,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15127,
-      "num": 16650,
-      "word": "新疆重庆实力演绎冰火两重天",
-      "onboard_time": 1725394692,
-      "rank": 49,
+      "raw_hot": 14577,
+      "num": 18525,
+      "word": "让孩子课间走出教室跑跑跳跳",
+      "onboard_time": 1725396071,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13359,
+      "num": 42525,
+      "word": "警方回应男生因室友电瓶爆燃烧伤",
+      "onboard_time": 1725396732,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
