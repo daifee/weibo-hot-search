@@ -1,7 +1,15 @@
 {
   "startTime": 1725380864855,
-  "endTime": 1725403134316,
+  "endTime": 1725405700725,
   "band_list": [
+    {
+      "raw_hot": 1530916,
+      "num": 1530916,
+      "word": "三只羊女主播沫沫已有9个月未更新",
+      "onboard_time": 1725400093,
+      "rank": 10,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1194007,
       "num": 166173,
@@ -27,6 +35,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 728899,
+      "num": 728899,
+      "word": "郑钦文vs萨巴伦卡",
+      "onboard_time": 1725378680,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 723784,
       "num": 723784,
       "word": "颜怡颜悦 七个矮子放现在叫男团",
@@ -35,28 +51,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 704108,
+      "num": 704108,
+      "word": "024596警号重启",
+      "onboard_time": 1725378619,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 661611,
       "num": 661611,
       "word": "张雨霏说一个月没下水痛经好很多",
       "onboard_time": 1725376401,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 638111,
-      "num": 128655,
-      "word": "三只羊女主播沫沫已有9个月未更新",
-      "onboard_time": 1725400093,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 603018,
-      "num": 603018,
-      "word": "024596警号重启",
-      "onboard_time": 1725378619,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 598941,
@@ -99,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350426,
+      "num": 350426,
+      "word": "电鸡一年十次以上处罚或影响征信",
+      "onboard_time": 1725367220,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310331,
       "num": 163914,
       "word": "碾压骑行孩童司机以过失致死罪被捕",
@@ -107,12 +123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 307953,
-      "num": 307953,
-      "word": "电鸡一年十次以上处罚或影响征信",
-      "onboard_time": 1725367220,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 282795,
+      "num": 163384,
+      "word": "男小三赛道也卷起来了",
+      "onboard_time": 1725366740,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 266303,
@@ -179,12 +195,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223659,
-      "num": 223659,
-      "word": "郑钦文vs萨巴伦卡",
-      "onboard_time": 1725378680,
-      "rank": 16,
-      "category": "体育"
+      "raw_hot": 213655,
+      "num": 213655,
+      "word": "68岁教授说现在的年轻人比以前难多了",
+      "onboard_time": 1725391270,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209993,
+      "num": 209993,
+      "word": "被打男司机挨打还手算正当防卫吗",
+      "onboard_time": 1725372923,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193028,
@@ -195,20 +219,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178925,
+      "num": 178925,
+      "word": "卫健局回应男子1天拔23颗牙后去世",
+      "onboard_time": 1725377780,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167180,
       "num": 137512,
       "word": "盛李豪也用张雨霏表情包",
       "onboard_time": 1725379099,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166711,
-      "num": 163384,
-      "word": "男小三赛道也卷起来了",
-      "onboard_time": 1725366740,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 163103,
@@ -227,14 +251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144398,
-      "num": 144398,
-      "word": "卫健局回应男子1天拔23颗牙后去世",
-      "onboard_time": 1725377780,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140054,
       "num": 140054,
       "word": "园长收学生6元巧克力现场监控公布",
@@ -248,6 +264,22 @@
       "word": "潘展乐腹肌变小肚子",
       "onboard_time": 1725380178,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 137058,
+      "num": 137058,
+      "word": "沈腾一个游戏得罪马丽范丞丞贾玲",
+      "onboard_time": 1725385453,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 132556,
+      "num": 132556,
+      "word": "全红婵谁也没放过",
+      "onboard_time": 1725402554,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -265,14 +297,6 @@
       "onboard_time": 1725371961,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 122409,
-      "num": 122409,
-      "word": "68岁教授说现在的年轻人比以前难多了",
-      "onboard_time": 1725391270,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121685,
@@ -331,12 +355,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108884,
+      "num": 122276,
+      "word": "赵露思灰色毛衫碎花内搭",
+      "onboard_time": 1725373762,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 107607,
+      "num": 122212,
+      "word": "阚清子说恋爱谈太多也不好",
+      "onboard_time": 1725404056,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106193,
       "num": 106193,
       "word": "被室友电瓶爆燃烧伤男孩仍未脱险",
       "onboard_time": 1725375082,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105840,
+      "num": 105840,
+      "word": "猫 那咋了",
+      "onboard_time": 1725405196,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 105231,
@@ -352,22 +400,6 @@
       "word": "丁禹兮 谈恋爱都不会",
       "onboard_time": 1725366381,
       "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 102885,
-      "num": 102885,
-      "word": "被打男司机挨打还手算正当防卫吗",
-      "onboard_time": 1725372923,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99389,
-      "num": 99389,
-      "word": "赵露思灰色毛衫碎花内搭",
-      "onboard_time": 1725373762,
-      "rank": 42,
       "category": "剧集"
     },
     {
@@ -403,6 +435,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 87155,
+      "num": 87155,
+      "word": "郑钦文说对战萨巴伦卡期待已久",
+      "onboard_time": 1725404536,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 82850,
+      "num": 128678,
+      "word": "被打只能屈辱承受吗",
+      "onboard_time": 1725389472,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78217,
       "num": 94253,
       "word": "张雨霏最喜欢的运动员是郑钦文",
@@ -427,20 +475,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 74012,
-      "num": 74012,
-      "word": "沈腾一个游戏得罪马丽范丞丞贾玲",
-      "onboard_time": 1725385453,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 65113,
+      "num": 106112,
+      "word": "钟楚曦韩东君 野性的张力",
+      "onboard_time": 1725392711,
+      "rank": 40,
+      "category": "剧集"
     },
     {
-      "raw_hot": 65462,
-      "num": 128678,
-      "word": "被打只能屈辱承受吗",
-      "onboard_time": 1725389472,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 60696,
+      "num": 60696,
+      "word": "崩溃的妈无奈的爸失控的娃",
+      "onboard_time": 1725389892,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 59268,
@@ -451,12 +499,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 56404,
+      "num": 56404,
+      "word": "买校服牛奶才办入学涉事学校被整改",
+      "onboard_time": 1725389052,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53872,
       "num": 53872,
       "word": "韩国翻拍那些年",
       "onboard_time": 1725384014,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 50528,
+      "num": 50528,
+      "word": "全红婵上一秒打球下一秒睡觉",
+      "onboard_time": 1725400872,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 48506,
+      "num": 50525,
+      "word": "妈妈比死神先到一步",
+      "onboard_time": 1725405196,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 44995,
@@ -467,18 +539,18 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39569,
-      "num": 39569,
-      "word": "崩溃的妈无奈的爸失控的娃",
-      "onboard_time": 1725389892,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 39195,
       "num": 98299,
       "word": "79岁奶奶开学前连夜补暑假作业",
       "onboard_time": 1725386593,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37983,
+      "num": 287358,
+      "word": "河南中牟通报教官体罚14岁女生",
+      "onboard_time": 1725405256,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -489,30 +561,6 @@
       "onboard_time": 1725383893,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 37133,
-      "num": 37133,
-      "word": "全红婵谁也没放过",
-      "onboard_time": 1725402554,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 34337,
-      "num": 37126,
-      "word": "钟楚曦韩东君 野性的张力",
-      "onboard_time": 1725392711,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 33785,
-      "num": 42000,
-      "word": "买校服牛奶才办入学涉事学校被整改",
-      "onboard_time": 1725389052,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32676,
@@ -529,14 +577,6 @@
       "onboard_time": 1725396732,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31385,
-      "num": 37093,
-      "word": "全红婵上一秒打球下一秒睡觉",
-      "onboard_time": 1725400872,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 29309,
@@ -627,8 +667,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2094,
-      "num": 675456,
+      "raw_hot": 2675,
+      "num": 711369,
       "word": "90秒科普中非合作成果",
       "onboard_time": 1725368600,
       "rank": 2,
