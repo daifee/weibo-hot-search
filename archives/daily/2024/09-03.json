@@ -1,6 +1,6 @@
 {
   "startTime": 1725294442172,
-  "endTime": 1725356212123,
+  "endTime": 1725358926418,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -81,6 +81,14 @@
       "onboard_time": 1725337523,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1425882,
+      "num": 1425882,
+      "word": "长春警方通报一小区持刀伤人事件",
+      "onboard_time": 1725356900,
+      "rank": 3,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1381439,
@@ -227,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 833815,
+      "num": 833815,
+      "word": "六大行人均月薪酬不到3万元",
+      "onboard_time": 1725356360,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 805695,
       "num": 805695,
       "word": "新疆开始下雪",
@@ -291,6 +307,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 679557,
+      "num": 679557,
+      "word": "王昶 在黄山拍到了人生照片",
+      "onboard_time": 1725352280,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 664350,
+      "num": 297320,
+      "word": "工资没涨 儿歌涨价了",
+      "onboard_time": 1725356000,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 659659,
       "num": 659659,
       "word": "三只羊合伙人回怼辛巴",
@@ -353,14 +385,6 @@
       "onboard_time": 1725345741,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 558658,
-      "num": 558658,
-      "word": "王昶 在黄山拍到了人生照片",
-      "onboard_time": 1725352280,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 541528,
@@ -489,6 +513,14 @@
       "onboard_time": 1725348380,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465361,
+      "num": 465361,
+      "word": "还以为是早期的Angelababy",
+      "onboard_time": 1725357140,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 458292,
@@ -1059,6 +1091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252250,
+      "num": 252250,
+      "word": "第一个叫王楚钦耶耶的人是天才",
+      "onboard_time": 1725355461,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251096,
       "num": 267669,
       "word": "李庚希影后手机壳",
@@ -1219,6 +1259,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216892,
+      "num": 415897,
+      "word": "家长烧掉孩子3000张烟卡不值得叫好",
+      "onboard_time": 1725354682,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216587,
+      "num": 216587,
+      "word": "赵丽娜试衣服试到崩溃大哭",
+      "onboard_time": 1725356540,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214851,
       "num": 214851,
       "word": "欧阳娜娜 内娱第一留子",
@@ -1299,14 +1355,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 206853,
-      "num": 206853,
-      "word": "工资没涨 儿歌涨价了",
-      "onboard_time": 1725356000,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 206614,
       "num": 224305,
       "word": "低智商犯罪杀青官宣",
@@ -1345,14 +1393,6 @@
       "onboard_time": 1725339863,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 200217,
-      "num": 200217,
-      "word": "第一个叫王楚钦耶耶的人是天才",
-      "onboard_time": 1725355461,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 199818,
@@ -1499,6 +1539,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181647,
+      "num": 181647,
+      "word": "辛巴三只羊互撕的品牌月销售额超2亿",
+      "onboard_time": 1725357380,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 179529,
+      "num": 179529,
+      "word": "李庚希拍超越腿粗了9厘米",
+      "onboard_time": 1725358640,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179119,
       "num": 179119,
       "word": "范丞丞妈生校园感",
@@ -1537,6 +1593,14 @@
       "onboard_time": 1725325340,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 175323,
+      "num": 175323,
+      "word": "因为开学包书皮被老师点名批评",
+      "onboard_time": 1725356780,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 174707,
@@ -1627,6 +1691,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 166725,
+      "num": 166725,
+      "word": "张真源 手握逆袭剧本",
+      "onboard_time": 1725358700,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165942,
       "num": 165942,
       "word": "王楚钦回应全红婵贴脸开大",
@@ -1667,6 +1739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163244,
+      "num": 163244,
+      "word": "王一博 旅游搭子",
+      "onboard_time": 1725357740,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161618,
       "num": 161618,
       "word": "郑钦文今年美网ACE有多强",
@@ -1691,12 +1771,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160185,
+      "num": 160185,
+      "word": "男子花29元坐高铁免费吃40元盒饭",
+      "onboard_time": 1725358220,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159989,
       "num": 159989,
       "word": "专家称苹果或不会主动降低中国苹果税",
       "onboard_time": 1725344542,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 159876,
+      "num": 511956,
+      "word": "幼儿园回应家长宣誓不给老师甩脸子",
+      "onboard_time": 1725355941,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156721,
@@ -1721,6 +1817,14 @@
       "onboard_time": 1725351620,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154960,
+      "num": 154960,
+      "word": "云南再现满船清梦压星河的诗意",
+      "onboard_time": 1725358640,
+      "rank": 44,
+      "category": "旅游"
     },
     {
       "raw_hot": 154803,
@@ -1771,6 +1875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146822,
+      "num": 146822,
+      "word": "樊振东这个笑诠释什么是阳光明媚",
+      "onboard_time": 1725358220,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146560,
       "num": 146560,
       "word": "金沙天街到底有谁在",
@@ -1785,6 +1897,14 @@
       "onboard_time": 1725344961,
       "rank": 48,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 145835,
+      "num": 145835,
+      "word": "蒋奇明演的哑巴疯批",
+      "onboard_time": 1725357320,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 144147,
@@ -2067,6 +2187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85521,
+      "num": 429128,
+      "word": "教育局回应不买校服牛奶不给办入学",
+      "onboard_time": 1725357799,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82925,
       "num": 99630,
       "word": "今年的月饼已经离谱到这种程度了吗",
@@ -2089,14 +2217,6 @@
       "onboard_time": 1725344241,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 73216,
-      "num": 415897,
-      "word": "家长烧掉孩子3000张烟卡不值得叫好",
-      "onboard_time": 1725354682,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73009,
@@ -2179,14 +2299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49487,
-      "num": 511956,
-      "word": "幼儿园回应家长宣誓不给老师甩脸子",
-      "onboard_time": 1725355941,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 48240,
       "num": 48240,
       "word": "跳水队的小狮子只有一条红裤衩",
@@ -2201,6 +2313,14 @@
       "onboard_time": 1725297735,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 40625,
+      "num": 302430,
+      "word": "ChinaHotel把外国人惊成表情包",
+      "onboard_time": 1725357740,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40599,
@@ -2288,6 +2408,14 @@
       "word": "卡牌盲盒玩法诱使孩子产生赌徒心理",
       "onboard_time": 1725354201,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29816,
+      "num": 334002,
+      "word": "建议退市时补偿无辜的中小投资者",
+      "onboard_time": 1725358161,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
