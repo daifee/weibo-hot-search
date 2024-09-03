@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725331979522,
+  "endTime": 1725333877138,
   "band_list": [
     {
       "raw_hot": 5839152,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2531785,
+      "num": 2531785,
+      "word": "泰安交通事故致十余名学生死伤",
+      "onboard_time": 1725332000,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2491158,
       "num": 330973,
       "word": "苹果 微信",
@@ -59,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2341155,
+      "num": 1793418,
+      "word": "山东泰安一中学附近发生交通事故",
+      "onboard_time": 1725329480,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2296649,
       "num": 1697173,
       "word": "黑兔 擦边",
@@ -71,6 +87,14 @@
       "num": 2255016,
       "word": "孕妇被731解剖大喊放过我的孩子",
       "onboard_time": 1725236359,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2147868,
+      "num": 1878921,
+      "word": "东平佛山中学",
+      "onboard_time": 1725329480,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -113,14 +137,6 @@
       "onboard_time": 1725236781,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1878921,
-      "num": 1878921,
-      "word": "东平佛山中学",
-      "onboard_time": 1725329480,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1840204,
@@ -227,20 +243,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1582890,
+      "num": 724893,
+      "word": "女子晒背被老人误认尸体连报4次警",
+      "onboard_time": 1725332780,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1566437,
       "num": 1566437,
       "word": "郑钦文口型",
       "onboard_time": 1725273739,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1526724,
-      "num": 1793418,
-      "word": "山东泰安一中学附近发生交通事故",
-      "onboard_time": 1725329480,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1521510,
@@ -1003,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 703546,
+      "num": 703546,
+      "word": "全红婵模仿王楚钦揪裤子",
+      "onboard_time": 1725332780,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 702717,
       "num": 702717,
       "word": "王楚钦结束港澳行发文",
@@ -1195,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 605352,
+      "num": 1334734,
+      "word": "西游记 韩国kpop",
+      "onboard_time": 1725329239,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 604547,
       "num": 604547,
       "word": "孙颖莎回应国乒与其他国家差距收窄",
@@ -1225,14 +1257,6 @@
       "onboard_time": 1725203901,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 599270,
-      "num": 1334734,
-      "word": "西游记 韩国kpop",
-      "onboard_time": 1725329239,
-      "rank": 6,
-      "category": "音乐"
     },
     {
       "raw_hot": 598386,
@@ -1531,6 +1555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 508922,
+      "num": 508922,
+      "word": "肖央赵丽颖刘烨新片暴打人贩子",
+      "onboard_time": 1725331460,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 508859,
       "num": 508859,
       "word": "王嘉尔易烊千玺生图",
@@ -1731,6 +1763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445306,
+      "num": 1168260,
+      "word": "1945年9月3日我们永不能忘",
+      "onboard_time": 1725317715,
+      "rank": 37,
+      "category": "国内时政,社会新闻"
+    },
+    {
       "raw_hot": 445191,
       "num": 445191,
       "word": "马拉松参赛者半途纷纷去商店买水",
@@ -1819,6 +1859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 422962,
+      "num": 422962,
+      "word": "路边摊试吃刀蘸完糖水再切桃子",
+      "onboard_time": 1725328818,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421944,
       "num": 421944,
       "word": "郑钦文登场全场欢呼",
@@ -1873,6 +1921,14 @@
       "onboard_time": 1725320059,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407445,
+      "num": 407445,
+      "word": "华为三折手机命名MateXT非凡大师",
+      "onboard_time": 1725329180,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 406224,
@@ -1953,6 +2009,22 @@
       "onboard_time": 1725147377,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 378274,
+      "num": 378274,
+      "word": "官方通报市监局工作人员上班时间午休",
+      "onboard_time": 1725329059,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376064,
+      "num": 497731,
+      "word": "被王楚然55套古装硬控35秒",
+      "onboard_time": 1725329360,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 373881,
@@ -2049,14 +2121,6 @@
       "onboard_time": 1725258681,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 352819,
-      "num": 352819,
-      "word": "被王楚然55套古装硬控35秒",
-      "onboard_time": 1725329360,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 350545,
@@ -2179,6 +2243,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 316716,
+      "num": 316716,
+      "word": "35岁的我月薪2千在餐厅当学徒",
+      "onboard_time": 1725330860,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315992,
       "num": 315992,
       "word": "郑钦文ACE雨",
@@ -2225,6 +2297,14 @@
       "onboard_time": 1725256701,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 308997,
+      "num": 709482,
+      "word": "一湖南籍商人在乌干达被杀害分尸",
+      "onboard_time": 1725331699,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 307493,
@@ -2299,14 +2379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 301679,
-      "num": 301679,
-      "word": "华为三折手机命名MateXT非凡大师",
-      "onboard_time": 1725329180,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
       "raw_hot": 300950,
       "num": 300950,
       "word": "龙道一rap",
@@ -2371,14 +2443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 295238,
-      "num": 295238,
-      "word": "官方通报市监局工作人员上班时间午休",
-      "onboard_time": 1725329059,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 294931,
       "num": 294931,
       "word": "钦余年终于互关了",
@@ -2409,14 +2473,6 @@
       "onboard_time": 1725200062,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 292552,
-      "num": 292552,
-      "word": "路边摊试吃刀蘸完糖水再切桃子",
-      "onboard_time": 1725328818,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291655,
@@ -2620,7 +2676,7 @@
     },
     {
       "raw_hot": 271701,
-      "num": 271701,
+      "num": 286766,
       "word": "二胎妈重回职场工资三折",
       "onboard_time": 1725329900,
       "rank": 25,
@@ -2763,20 +2819,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 257340,
-      "num": 257340,
-      "word": "35岁的我月薪2千在餐厅当学徒",
-      "onboard_time": 1725330860,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 255360,
       "num": 255360,
       "word": "谢娜带娃看张杰演唱会",
       "onboard_time": 1725290781,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 254838,
+      "num": 466797,
+      "word": "三只羊合伙人卢文庆账号已设私密",
+      "onboard_time": 1725332120,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 254266,
@@ -2792,6 +2848,14 @@
       "word": "樊振东 我跳舞有点天赋",
       "onboard_time": 1725163520,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 252679,
+      "num": 252679,
+      "word": "崔宸曦问王楚钦兄弟姐妹的妹呢",
+      "onboard_time": 1725332600,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -3059,14 +3123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 224975,
-      "num": 1168260,
-      "word": "1945年9月3日我们永不能忘",
-      "onboard_time": 1725317715,
-      "rank": 37,
-      "category": "国内时政,社会新闻"
-    },
-    {
       "raw_hot": 224663,
       "num": 224663,
       "word": "郑思维香港第二天vlog",
@@ -3105,6 +3161,14 @@
       "onboard_time": 1725240438,
       "rank": 48,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 221591,
+      "num": 221591,
+      "word": "iPhonePro系列首次在印度生产",
+      "onboard_time": 1725329540,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 221564,
@@ -3323,6 +3387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206614,
+      "num": 224305,
+      "word": "低智商犯罪杀青官宣",
+      "onboard_time": 1725333080,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206571,
       "num": 206571,
       "word": "孙颖莎看向大头下一秒被点名",
@@ -3491,6 +3563,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 200829,
+      "num": 200829,
+      "word": "已有多家公司硬刚苹果税",
+      "onboard_time": 1725333022,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 200766,
       "num": 200766,
       "word": "开学第一天",
@@ -3545,14 +3625,6 @@
       "onboard_time": 1725285681,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 198215,
-      "num": 198215,
-      "word": "iPhonePro系列首次在印度生产",
-      "onboard_time": 1725329540,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 198152,
@@ -3753,14 +3825,6 @@
       "onboard_time": 1725272720,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 193341,
-      "num": 193341,
-      "word": "肖央赵丽颖刘烨新片暴打人贩子",
-      "onboard_time": 1725331460,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 192795,
@@ -3971,6 +4035,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 185929,
+      "num": 185929,
+      "word": "赵丽颖新剧爆裂打拐",
+      "onboard_time": 1725333622,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 185906,
       "num": 185906,
       "word": "多地开学第一天",
@@ -4089,6 +4161,14 @@
       "onboard_time": 1725176118,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181822,
+      "num": 181822,
+      "word": "5年前的阿条姐是青少年武术冠军",
+      "onboard_time": 1725332421,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 181452,
@@ -4499,6 +4579,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 165941,
+      "num": 201917,
+      "word": "赵丽颖肖央刘烨浴火之路合影",
+      "onboard_time": 1725332540,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 165872,
       "num": 165872,
       "word": "李泽锋也受不了冷暴力",
@@ -4537,6 +4625,14 @@
       "onboard_time": 1725200241,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164598,
+      "num": 164598,
+      "word": "王一博形容夹生饭脆脆的",
+      "onboard_time": 1725333801,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 164258,
@@ -4593,14 +4689,6 @@
       "onboard_time": 1725179180,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 162180,
-      "num": 162180,
-      "word": "一湖南籍商人在乌干达被杀害分尸",
-      "onboard_time": 1725331699,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161740,
@@ -5057,6 +5145,14 @@
       "onboard_time": 1725180620,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145875,
+      "num": 729064,
+      "word": "79年前的今天我们胜利了",
+      "onboard_time": 1725332421,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 145646,
@@ -5771,6 +5867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 98496,
+      "num": 594017,
+      "word": "中产返贫只需要一个暑假吗",
+      "onboard_time": 1725333141,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97816,
       "num": 97816,
       "word": "iPhone16Pro或升级相机微距",
@@ -5987,6 +6091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70737,
+      "num": 412794,
+      "word": "12.9元穷鬼套餐的快乐回来了",
+      "onboard_time": 1725332841,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 70607,
       "num": 561186,
       "word": "专家建议提高孩子内啡肽而非多巴胺",
@@ -6073,6 +6185,14 @@
       "onboard_time": 1725147015,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 65613,
+      "num": 711549,
+      "word": "预订不可取消酒店不可如此霸王",
+      "onboard_time": 1725332600,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65014,
@@ -6208,6 +6328,14 @@
       "word": "女子花6.8万种植牙不到3年掉3颗",
       "onboard_time": 1725248059,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56474,
+      "num": 459313,
+      "word": "幼儿园关停孩子百万学费退不了",
+      "onboard_time": 1725332780,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -7180,6 +7308,9 @@
     },
     {
       "word": "#习近平同南非总统拉马福萨会谈#"
+    },
+    {
+      "word": "#中非携手同行现代化之路#"
     }
   ]
 }

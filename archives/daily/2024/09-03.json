@@ -1,13 +1,37 @@
 {
   "startTime": 1725294442172,
-  "endTime": 1725331979522,
+  "endTime": 1725333877138,
   "band_list": [
+    {
+      "raw_hot": 2531785,
+      "num": 2531785,
+      "word": "泰安交通事故致十余名学生死伤",
+      "onboard_time": 1725332000,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2341155,
+      "num": 1793418,
+      "word": "山东泰安一中学附近发生交通事故",
+      "onboard_time": 1725329480,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2296649,
       "num": 1697173,
       "word": "黑兔 擦边",
       "onboard_time": 1725323061,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2147868,
+      "num": 1878921,
+      "word": "东平佛山中学",
+      "onboard_time": 1725329480,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -19,19 +43,11 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 1878921,
-      "num": 1878921,
-      "word": "东平佛山中学",
-      "onboard_time": 1725329480,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1526724,
-      "num": 1793418,
-      "word": "山东泰安一中学附近发生交通事故",
-      "onboard_time": 1725329480,
-      "rank": 1,
+      "raw_hot": 1582890,
+      "num": 724893,
+      "word": "女子晒背被老人误认尸体连报4次警",
+      "onboard_time": 1725332780,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -123,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 703546,
+      "num": 703546,
+      "word": "全红婵模仿王楚钦揪裤子",
+      "onboard_time": 1725332780,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 659659,
       "num": 659659,
       "word": "三只羊合伙人回怼辛巴",
@@ -131,7 +155,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 599270,
+      "raw_hot": 605352,
       "num": 1334734,
       "word": "西游记 韩国kpop",
       "onboard_time": 1725329239,
@@ -171,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 508922,
+      "num": 508922,
+      "word": "肖央赵丽颖刘烨新片暴打人贩子",
+      "onboard_time": 1725331460,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 458292,
       "num": 455532,
       "word": "如果苹果真的下架了微信的话",
@@ -185,6 +217,14 @@
       "onboard_time": 1725320117,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 445306,
+      "num": 1168260,
+      "word": "1945年9月3日我们永不能忘",
+      "onboard_time": 1725317715,
+      "rank": 37,
+      "category": "国内时政,社会新闻"
     },
     {
       "raw_hot": 443959,
@@ -211,12 +251,44 @@
       "category": "数码"
     },
     {
+      "raw_hot": 422962,
+      "num": 422962,
+      "word": "路边摊试吃刀蘸完糖水再切桃子",
+      "onboard_time": 1725328818,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 409134,
       "num": 409134,
       "word": "外地女孩疑遭伤害街头崩溃大哭",
       "onboard_time": 1725320059,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407445,
+      "num": 407445,
+      "word": "华为三折手机命名MateXT非凡大师",
+      "onboard_time": 1725329180,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 378274,
+      "num": 378274,
+      "word": "官方通报市监局工作人员上班时间午休",
+      "onboard_time": 1725329059,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376064,
+      "num": 497731,
+      "word": "被王楚然55套古装硬控35秒",
+      "onboard_time": 1725329360,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 373881,
@@ -232,14 +304,6 @@
       "word": "刘亦菲登越南国家电视台",
       "onboard_time": 1725286704,
       "rank": 4,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 352819,
-      "num": 352819,
-      "word": "被王楚然55套古装硬控35秒",
-      "onboard_time": 1725329360,
-      "rank": 24,
       "category": "剧集"
     },
     {
@@ -307,20 +371,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 316716,
+      "num": 316716,
+      "word": "35岁的我月薪2千在餐厅当学徒",
+      "onboard_time": 1725330860,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308997,
+      "num": 709482,
+      "word": "一湖南籍商人在乌干达被杀害分尸",
+      "onboard_time": 1725331699,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302642,
       "num": 302642,
       "word": "郑钦文四大满贯奖金已有1361万保底",
       "onboard_time": 1725324680,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 301679,
-      "num": 301679,
-      "word": "华为三折手机命名MateXT非凡大师",
-      "onboard_time": 1725329180,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 300054,
@@ -353,22 +425,6 @@
       "onboard_time": 1725290960,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 295238,
-      "num": 295238,
-      "word": "官方通报市监局工作人员上班时间午休",
-      "onboard_time": 1725329059,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 292552,
-      "num": 292552,
-      "word": "路边摊试吃刀蘸完糖水再切桃子",
-      "onboard_time": 1725328818,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 290078,
@@ -420,7 +476,7 @@
     },
     {
       "raw_hot": 271701,
-      "num": 271701,
+      "num": 286766,
       "word": "二胎妈重回职场工资三折",
       "onboard_time": 1725329900,
       "rank": 25,
@@ -451,20 +507,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 257340,
-      "num": 257340,
-      "word": "35岁的我月薪2千在餐厅当学徒",
-      "onboard_time": 1725330860,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 255360,
       "num": 255360,
       "word": "谢娜带娃看张杰演唱会",
       "onboard_time": 1725290781,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 254838,
+      "num": 466797,
+      "word": "三只羊合伙人卢文庆账号已设私密",
+      "onboard_time": 1725332120,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 252679,
+      "num": 252679,
+      "word": "崔宸曦问王楚钦兄弟姐妹的妹呢",
+      "onboard_time": 1725332600,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 251096,
@@ -507,12 +571,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 224975,
-      "num": 1168260,
-      "word": "1945年9月3日我们永不能忘",
-      "onboard_time": 1725317715,
-      "rank": 37,
-      "category": "国内时政,社会新闻"
+      "raw_hot": 221591,
+      "num": 221591,
+      "word": "iPhonePro系列首次在印度生产",
+      "onboard_time": 1725329540,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 214851,
@@ -539,6 +603,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 206614,
+      "num": 224305,
+      "word": "低智商犯罪杀青官宣",
+      "onboard_time": 1725333080,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206065,
       "num": 374064,
       "word": "夫妻吵架一笔笔算账最伤人",
@@ -547,12 +619,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198215,
-      "num": 198215,
-      "word": "iPhonePro系列首次在印度生产",
-      "onboard_time": 1725329540,
-      "rank": 36,
-      "category": "数码"
+      "raw_hot": 200829,
+      "num": 200829,
+      "word": "已有多家公司硬刚苹果税",
+      "onboard_time": 1725333022,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 197721,
@@ -579,14 +651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193341,
-      "num": 193341,
-      "word": "肖央赵丽颖刘烨新片暴打人贩子",
-      "onboard_time": 1725331460,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 191278,
       "num": 191278,
       "word": "被这个婆婆的一天累到了",
@@ -611,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185929,
+      "num": 185929,
+      "word": "赵丽颖新剧爆裂打拐",
+      "onboard_time": 1725333622,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 185088,
       "num": 185088,
       "word": "黑兔客服回应被指擦边",
@@ -625,6 +697,14 @@
       "onboard_time": 1725331522,
       "rank": 38,
       "category": "社会新闻,美妆"
+    },
+    {
+      "raw_hot": 181822,
+      "num": 181822,
+      "word": "5年前的阿条姐是青少年武术冠军",
+      "onboard_time": 1725332421,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 175381,
@@ -651,12 +731,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 162180,
-      "num": 162180,
-      "word": "一湖南籍商人在乌干达被杀害分尸",
-      "onboard_time": 1725331699,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 165941,
+      "num": 201917,
+      "word": "赵丽颖肖央刘烨浴火之路合影",
+      "onboard_time": 1725332540,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 164598,
+      "num": 164598,
+      "word": "王一博形容夹生饭脆脆的",
+      "onboard_time": 1725333801,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 161618,
@@ -737,6 +825,14 @@
       "onboard_time": 1725328100,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145875,
+      "num": 729064,
+      "word": "79年前的今天我们胜利了",
+      "onboard_time": 1725332421,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 144147,
@@ -891,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98496,
+      "num": 594017,
+      "word": "中产返贫只需要一个暑假吗",
+      "onboard_time": 1725333141,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98344,
       "num": 144092,
       "word": "阿黛尔宣布无限期退出歌坛",
@@ -963,12 +1067,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70737,
+      "num": 412794,
+      "word": "12.9元穷鬼套餐的快乐回来了",
+      "onboard_time": 1725332841,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 66594,
       "num": 66594,
       "word": "警方回应秋风姐姐公布车祸责任认定",
       "onboard_time": 1725319937,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 65613,
+      "num": 711549,
+      "word": "预订不可取消酒店不可如此霸王",
+      "onboard_time": 1725332600,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62082,
@@ -992,6 +1112,14 @@
       "word": "侵华日军标本室有胎儿还在子宫里",
       "onboard_time": 1725300433,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56474,
+      "num": 459313,
+      "word": "幼儿园关停孩子百万学费退不了",
+      "onboard_time": 1725332780,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1129,6 +1257,9 @@
     },
     {
       "word": "#习主席的中非合作论坛峰会时间#"
+    },
+    {
+      "word": "#中非携手同行现代化之路#"
     }
   ]
 }
