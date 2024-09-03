@@ -1,6 +1,6 @@
 {
   "startTime": 1725294442172,
-  "endTime": 1725340840772,
+  "endTime": 1725341881451,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1500131,
+      "num": 1500131,
+      "word": "韩安冉体重160斤",
+      "onboard_time": 1725337523,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1381439,
       "num": 1381439,
       "word": "苹果税",
@@ -73,14 +81,6 @@
       "onboard_time": 1725326359,
       "rank": 39,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1319602,
-      "num": 1319602,
-      "word": "韩安冉体重160斤",
-      "onboard_time": 1725337523,
-      "rank": 22,
-      "category": "网红"
     },
     {
       "raw_hot": 1261285,
@@ -235,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 588368,
+      "num": 588368,
+      "word": "广东将迎特大暴雨",
+      "onboard_time": 1725338784,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 562453,
       "num": 562453,
       "word": "云宫迅音  防弹少年团",
@@ -275,14 +283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 525425,
-      "num": 525425,
-      "word": "广东将迎特大暴雨",
-      "onboard_time": 1725338784,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 523005,
       "num": 688886,
       "word": "以为陈飞宇在给女生梳头",
@@ -297,6 +297,30 @@
       "onboard_time": 1725331460,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 502791,
+      "num": 502791,
+      "word": "台风摩羯或致广东三停一休",
+      "onboard_time": 1725338003,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 489197,
+      "num": 489197,
+      "word": "校方否认致11死车祸司机与师生有矛盾",
+      "onboard_time": 1725339984,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488020,
+      "num": 592736,
+      "word": "鲁豫 有人说贾玲都不好笑了",
+      "onboard_time": 1725340642,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 478708,
@@ -355,11 +379,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 443288,
-      "num": 443288,
-      "word": "台风摩羯或致广东三停一休",
-      "onboard_time": 1725338003,
-      "rank": 43,
+      "raw_hot": 436108,
+      "num": 423282,
+      "word": "青岛警方通报王某驾车逆行殴打他人案",
+      "onboard_time": 1725341422,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -379,12 +403,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 423341,
+      "raw_hot": 427866,
       "num": 886536,
       "word": "慕胥辞",
       "onboard_time": 1725339204,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 422600,
+      "num": 422600,
+      "word": "泰安车祸肇事者已被警方带走",
+      "onboard_time": 1725340223,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 409134,
@@ -491,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344082,
+      "num": 344082,
+      "word": "军训是没苦硬吃吗",
+      "onboard_time": 1725339023,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 340898,
       "num": 543602,
       "word": "委内瑞拉总统专机被美国扣押",
@@ -523,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318187,
+      "num": 318187,
+      "word": "王楚钦孙颖莎水灵灵地一起走了",
+      "onboard_time": 1725341122,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 317889,
       "num": 317889,
       "word": "电影野孩子开预售",
@@ -537,6 +585,14 @@
       "onboard_time": 1725324680,
       "rank": 26,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 316339,
+      "num": 316339,
+      "word": "日军又一恶魔细菌部队被曝光",
+      "onboard_time": 1725339803,
+      "rank": 37,
+      "category": "社会新闻,国外时政"
     },
     {
       "raw_hot": 308997,
@@ -555,12 +611,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 300064,
-      "num": 300064,
-      "word": "军训是没苦硬吃吗",
-      "onboard_time": 1725339023,
-      "rank": 24,
-      "category": "教育"
+      "raw_hot": 302316,
+      "num": 302316,
+      "word": "学生用空调需一次性缴3年费用",
+      "onboard_time": 1725339863,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300054,
@@ -568,14 +624,6 @@
       "word": "花洛莉亚",
       "onboard_time": 1725321379,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 297490,
-      "num": 297490,
-      "word": "校方否认致11死车祸司机与师生有矛盾",
-      "onboard_time": 1725339984,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -601,6 +649,14 @@
       "onboard_time": 1725290960,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293267,
+      "num": 293267,
+      "word": "潘展乐为樊振东特意站直了",
+      "onboard_time": 1725340581,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 290196,
@@ -707,14 +763,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 266805,
-      "num": 266805,
-      "word": "潘展乐为樊振东特意站直了",
-      "onboard_time": 1725340581,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 266500,
       "num": 266500,
       "word": "普京称家里小孩中文说得很流利",
@@ -732,7 +780,7 @@
     },
     {
       "raw_hot": 257131,
-      "num": 286510,
+      "num": 288697,
       "word": "黄晓明慕胥辞开机路透",
       "onboard_time": 1725340463,
       "rank": 27,
@@ -803,12 +851,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 227166,
-      "num": 227166,
-      "word": "日军又一恶魔细菌部队被曝光",
-      "onboard_time": 1725339803,
-      "rank": 37,
-      "category": "社会新闻,国外时政"
+      "raw_hot": 225596,
+      "num": 239365,
+      "word": "潘玮柏2分钟剥了11只虾",
+      "onboard_time": 1725341361,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 223755,
@@ -875,6 +923,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 209168,
+      "num": 425300,
+      "word": "不想在出租屋里生孩子有错吗",
+      "onboard_time": 1725341361,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207880,
       "num": 207880,
       "word": "巩俐郑钦文 永不妥协的嘴角",
@@ -896,6 +952,14 @@
       "word": "夫妻吵架一笔笔算账最伤人",
       "onboard_time": 1725285321,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 203395,
+      "num": 206812,
+      "word": "李庚希魏大勋新剧过审下证",
+      "onboard_time": 1725340881,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -979,14 +1043,6 @@
       "category": "社会新闻,美妆"
     },
     {
-      "raw_hot": 182342,
-      "num": 182342,
-      "word": "学生用空调需一次性缴3年费用",
-      "onboard_time": 1725339863,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179119,
       "num": 179119,
       "word": "范丞丞妈生校园感",
@@ -1043,20 +1099,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 170564,
-      "num": 170564,
-      "word": "泰安车祸肇事者已被警方带走",
-      "onboard_time": 1725340223,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168756,
       "num": 168756,
       "word": "李兰迪好真诚",
       "onboard_time": 1725324741,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166103,
+      "num": 166103,
+      "word": "苹果税在欧盟收17%中国收30%",
+      "onboard_time": 1725341841,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 165941,
@@ -1081,14 +1137,6 @@
       "onboard_time": 1725291980,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 157296,
-      "num": 415662,
-      "word": "鲁豫 有人说贾玲都不好笑了",
-      "onboard_time": 1725340642,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 156721,
@@ -1467,19 +1515,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51906,
+      "num": 1242012,
+      "word": "打击广告推广型网络黑灰产犯罪",
+      "onboard_time": 1725337105,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51818,
       "num": 67399,
       "word": "退役军人跪地求婚2次被女友托起",
       "onboard_time": 1725306191,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48597,
-      "num": 1242012,
-      "word": "打击广告推广型网络黑灰产犯罪",
-      "onboard_time": 1725337105,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1537,6 +1585,14 @@
       "onboard_time": 1725302593,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28331,
+      "num": 424895,
+      "word": "巴家新款鞋京东提前发售",
+      "onboard_time": 1725341241,
+      "rank": 18,
+      "category": "时尚"
     },
     {
       "raw_hot": 24133,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1725341881451,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9064521,
+        "num": 9064521,
+        "word": "泰安交通事故致11人遇难",
+        "onboard_time": 1725335672,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1500131,
+        "num": 1500131,
+        "word": "韩安冉体重160斤",
+        "onboard_time": 1725337523,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 51906,
+        "num": 953718,
+        "word": "打击广告推广型网络黑灰产犯罪",
+        "onboard_time": 1725337105,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 919264,
+        "num": 919264,
+        "word": "花洛莉亚 擦边",
+        "onboard_time": 1725283462,
+        "rank": 3,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 868781,
+        "num": 868781,
+        "word": "花四万隆的鼻子姑娘不满太自然",
+        "onboard_time": 1725336624,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 827025,
+        "num": 827025,
+        "word": "王昶求图",
+        "onboard_time": 1725334701,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 769982,
+        "num": 769982,
+        "word": "女子晒背被老人误认尸体连报4次警",
+        "onboard_time": 1725332780,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759970,
+        "num": 759970,
+        "word": "黑兔 擦边",
+        "onboard_time": 1725323061,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15258,
+        "num": 604509,
+        "word": "起底假冒特供酒销售乱象",
+        "onboard_time": 1725340344,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488020,
+        "num": 592736,
+        "word": "鲁豫 有人说贾玲都不好笑了",
+        "onboard_time": 1725340642,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 588368,
+        "num": 588368,
+        "word": "广东将迎特大暴雨",
+        "onboard_time": 1725338784,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513206,
+        "num": 513206,
+        "word": "普京自曝日常只睡6小时",
+        "onboard_time": 1725339563,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 502791,
+        "num": 502791,
+        "word": "台风摩羯或致广东三停一休",
+        "onboard_time": 1725338003,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489197,
+        "num": 489197,
+        "word": "校方否认致11死车祸司机与师生有矛盾",
+        "onboard_time": 1725339984,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427866,
+        "num": 427866,
+        "word": "慕胥辞",
+        "onboard_time": 1725339204,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332477,
+        "num": 427316,
+        "word": "赵丽颖新片爆裂打拐",
+        "onboard_time": 1725333622,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 282709,
+        "num": 426970,
+        "word": "以为陈飞宇在给女生梳头",
+        "onboard_time": 1725333980,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209168,
+        "num": 425300,
+        "word": "不想在出租屋里生孩子有错吗",
+        "onboard_time": 1725341361,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28331,
+        "num": 424895,
+        "word": "巴家新款鞋京东提前发售",
+        "onboard_time": 1725341241,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 429458,
+        "num": 423555,
+        "word": "东平佛山中学回应校外发生车祸",
+        "onboard_time": 1725335242,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436108,
+        "num": 423282,
+        "word": "青岛警方通报王某驾车逆行殴打他人案",
+        "onboard_time": 1725341422,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422600,
+        "num": 422600,
+        "word": "泰安车祸肇事者已被警方带走",
+        "onboard_time": 1725340223,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402234,
+        "num": 402234,
+        "word": "程序员辞职用低代码养鸡年销2亿",
+        "onboard_time": 1725336564,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402140,
+        "num": 402140,
+        "word": "潘展乐又开始整顿采访记者了",
+        "onboard_time": 1725335312,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 344082,
+        "num": 344082,
+        "word": "军训是没苦硬吃吗",
+        "onboard_time": 1725339023,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 318187,
+        "num": 318187,
+        "word": "王楚钦孙颖莎水灵灵地一起走了",
+        "onboard_time": 1725341122,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316339,
+        "num": 316339,
+        "word": "日军又一恶魔细菌部队被曝光",
+        "onboard_time": 1725339803,
+        "rank": 26,
+        "category": "社会新闻,国外时政"
+      },
+      {
+        "raw_hot": 302316,
+        "num": 302316,
+        "word": "学生用空调需一次性缴3年费用",
+        "onboard_time": 1725339863,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293267,
+        "num": 293267,
+        "word": "潘展乐为樊振东特意站直了",
+        "onboard_time": 1725340581,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245497,
+        "num": 288697,
+        "word": "黄晓明慕胥辞开机路透",
+        "onboard_time": 1725340463,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288214,
+        "num": 288214,
+        "word": "全红婵模仿王楚钦揪裤子",
+        "onboard_time": 1725332780,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284728,
+        "num": 284728,
+        "word": "家长已经从包书皮卷到包书角了",
+        "onboard_time": 1725294198,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 281614,
+        "num": 281614,
+        "word": "深圳湾公路大桥坠海车主已身亡",
+        "onboard_time": 1725335120,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240632,
+        "num": 240632,
+        "word": "辛巴 小杨哥",
+        "onboard_time": 1725320177,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 225596,
+        "num": 239365,
+        "word": "潘玮柏2分钟剥了11只虾",
+        "onboard_time": 1725341361,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238492,
+        "num": 238492,
+        "word": "全红婵说马龙叫她干女儿",
+        "onboard_time": 1725327619,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232627,
+        "num": 232627,
+        "word": "室友电动车爆燃致男孩全身烧伤",
+        "onboard_time": 1725336143,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222272,
+        "num": 222272,
+        "word": "蔡磊夫人顶着发烧泼冰水",
+        "onboard_time": 1725339384,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210925,
+        "num": 210925,
+        "word": "三只羊合伙人卢文庆账号已设私密",
+        "onboard_time": 1725332120,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 203395,
+        "num": 206812,
+        "word": "李庚希魏大勋新剧过审下证",
+        "onboard_time": 1725340881,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205615,
+        "num": 205615,
+        "word": "日本拒绝投放储备米平抑高涨的米价",
+        "onboard_time": 1725326359,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 193875,
+        "num": 193875,
+        "word": "慕胥辞开机",
+        "onboard_time": 1725335903,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192284,
+        "num": 192284,
+        "word": "1945年9月3日我们永不能忘",
+        "onboard_time": 1725317715,
+        "rank": 42,
+        "category": "国内时政,社会新闻"
+      },
+      {
+        "raw_hot": 192144,
+        "num": 192144,
+        "word": "路边摊试吃刀蘸完糖水再切桃子",
+        "onboard_time": 1725328818,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189382,
+        "num": 189382,
+        "word": "乌克兰指责蒙古国未能逮捕普京",
+        "onboard_time": 1725334642,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 188515,
+        "num": 188515,
+        "word": "花洛莉亚",
+        "onboard_time": 1725321379,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175931,
+        "num": 175931,
+        "word": "中方对加拿大发起反歧视调查",
+        "onboard_time": 1725336024,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 175726,
+        "num": 175726,
+        "word": "西游记 韩国kpop",
+        "onboard_time": 1725329239,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167117,
+        "num": 167117,
+        "word": "Jennie将出演金泰浩新综艺",
+        "onboard_time": 1725340702,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166103,
+        "num": 166103,
+        "word": "苹果税在欧盟收17%中国收30%",
+        "onboard_time": 1725341841,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#中非合作论坛峰会这些看点值得关注#"
+    }
+  }
+}
