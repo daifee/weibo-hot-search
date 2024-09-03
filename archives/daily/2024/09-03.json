@@ -1,6 +1,6 @@
 {
   "startTime": 1725294442172,
-  "endTime": 1725362304558,
+  "endTime": 1725363327412,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -67,6 +67,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1839519,
+      "num": 1839519,
+      "word": "儿童骑行被碾压案司机亲属发声",
+      "onboard_time": 1725361732,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1582890,
       "num": 1050113,
       "word": "女子晒背被老人误认尸体连报4次警",
@@ -97,14 +105,6 @@
       "onboard_time": 1725322880,
       "rank": 11,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1356284,
-      "num": 1356284,
-      "word": "儿童骑行被碾压案司机亲属发声",
-      "onboard_time": 1725361732,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1334016,
@@ -259,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 821785,
+      "num": 821785,
+      "word": "李庚希拍超越腿粗了9厘米",
+      "onboard_time": 1725358640,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 805695,
       "num": 805695,
       "word": "新疆开始下雪",
@@ -296,14 +304,6 @@
       "word": "迪丽热巴妆造",
       "onboard_time": 1725346642,
       "rank": 5,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 734277,
-      "num": 734277,
-      "word": "李庚希拍超越腿粗了9厘米",
-      "onboard_time": 1725358640,
-      "rank": 34,
       "category": "剧集"
     },
     {
@@ -555,6 +555,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 453067,
+      "num": 412145,
+      "word": "Angelababy鞠躬感谢粉丝",
+      "onboard_time": 1725362421,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 445687,
       "num": 445687,
       "word": "市监局回应小天鹅网店被薅走7000万",
@@ -611,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 422815,
+      "num": 422815,
+      "word": "陈飞宇迪丽热巴cp感",
+      "onboard_time": 1725359361,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 422600,
       "num": 422600,
       "word": "泰安车祸肇事者已被警方带走",
@@ -641,6 +657,14 @@
       "onboard_time": 1725347481,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 392261,
+      "num": 392261,
+      "word": "长春一男子持刀闹事致民警一死二伤",
+      "onboard_time": 1725360019,
+      "rank": 18,
+      "category": "社会负面"
     },
     {
       "raw_hot": 391409,
@@ -736,14 +760,6 @@
       "word": "刘亦菲登越南国家电视台",
       "onboard_time": 1725286704,
       "rank": 4,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 354486,
-      "num": 354486,
-      "word": "陈飞宇迪丽热巴cp感",
-      "onboard_time": 1725359361,
-      "rank": 25,
       "category": "剧集"
     },
     {
@@ -1075,14 +1091,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 267048,
-      "num": 267048,
-      "word": "长春一男子持刀闹事致民警一死二伤",
-      "onboard_time": 1725360019,
-      "rank": 18,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 266500,
       "num": 266500,
       "word": "普京称家里小孩中文说得很流利",
@@ -1179,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242712,
+      "num": 242712,
+      "word": "苹果微信大战影响你换iPhone16吗",
+      "onboard_time": 1725359361,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 242602,
       "num": 242602,
       "word": "国乒有一个会议室的拍子要签",
@@ -1219,6 +1235,30 @@
       "category": "社会新闻,国内时政"
     },
     {
+      "raw_hot": 239381,
+      "num": 239381,
+      "word": "明年起iPhone将统一配OLED显示屏",
+      "onboard_time": 1725361279,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 238503,
+      "num": 238503,
+      "word": "林允和男演员凌晨对剧本全程拍视频",
+      "onboard_time": 1725361820,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 235542,
+      "num": 235542,
+      "word": "因为开学包书皮被老师点名批评",
+      "onboard_time": 1725356780,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 234692,
       "num": 234692,
       "word": "我的阿勒泰都下雪了",
@@ -1241,6 +1281,14 @@
       "onboard_time": 1725352401,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 232878,
+      "num": 232878,
+      "word": "男子婚内将2套房产赠与前妻儿子",
+      "onboard_time": 1725348861,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231071,
@@ -1299,11 +1347,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 220848,
-      "num": 220848,
-      "word": "因为开学包书皮被老师点名批评",
-      "onboard_time": 1725356780,
-      "rank": 35,
+      "raw_hot": 218424,
+      "num": 218424,
+      "word": "安排当个班主任她就老实了",
+      "onboard_time": 1725359901,
+      "rank": 39,
       "category": "幽默"
     },
     {
@@ -1353,14 +1401,6 @@
       "onboard_time": 1725349520,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 211121,
-      "num": 211121,
-      "word": "明年起iPhone将统一配OLED显示屏",
-      "onboard_time": 1725361279,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 210809,
@@ -1457,14 +1497,6 @@
       "onboard_time": 1725354320,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198096,
-      "num": 198096,
-      "word": "男子婚内将2套房产赠与前妻儿子",
-      "onboard_time": 1725348861,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197721,
@@ -1579,14 +1611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184881,
-      "num": 184881,
-      "word": "苹果微信大战影响你换iPhone16吗",
-      "onboard_time": 1725359361,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 184836,
       "num": 184836,
       "word": "阿条姐民族舞十级",
@@ -1609,6 +1633,14 @@
       "onboard_time": 1725331522,
       "rank": 38,
       "category": "社会新闻,美妆"
+    },
+    {
+      "raw_hot": 183625,
+      "num": 183625,
+      "word": "张天爱拍短剧",
+      "onboard_time": 1725362779,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 183080,
@@ -1739,14 +1771,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 168799,
-      "num": 168799,
-      "word": "林允和男演员凌晨对剧本全程拍视频",
-      "onboard_time": 1725361820,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 168756,
       "num": 168756,
       "word": "李兰迪好真诚",
@@ -1792,14 +1816,6 @@
       "word": "狗 你当我的鼻子是摆设吗",
       "onboard_time": 1725360920,
       "rank": 38,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 166174,
-      "num": 166174,
-      "word": "安排当个班主任她就老实了",
-      "onboard_time": 1725359901,
-      "rank": 39,
       "category": "幽默"
     },
     {
@@ -1881,6 +1897,14 @@
       "onboard_time": 1725291980,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 160872,
+      "num": 160872,
+      "word": "园长收学生6元巧克力现场监控公布",
+      "onboard_time": 1725362721,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159989,
@@ -1979,6 +2003,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 148450,
+      "num": 148450,
+      "word": "张晚意王楚然 曹王张贵妃",
+      "onboard_time": 1725363200,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148254,
       "num": 148254,
       "word": "龚俊暗河传屋顶喝酒路透",
@@ -2016,6 +2048,22 @@
       "word": "蒋奇明演的哑巴疯批",
       "onboard_time": 1725357320,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145229,
+      "num": 145229,
+      "word": "郑钦文去年排女运动员收入榜第15",
+      "onboard_time": 1725361220,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 145082,
+      "num": 145082,
+      "word": "蒋奇明演技好得面相都变了",
+      "onboard_time": 1725362601,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -2089,14 +2137,6 @@
       "onboard_time": 1725280219,
       "rank": 34,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 135234,
-      "num": 135234,
-      "word": "郑钦文去年排女运动员收入榜第15",
-      "onboard_time": 1725361220,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 134223,
@@ -2211,6 +2251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108050,
+      "num": 563463,
+      "word": "脱口秀和Ta的朋友们",
+      "onboard_time": 1725362239,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105121,
       "num": 105121,
       "word": "RNG 散是满天星",
@@ -2323,14 +2371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 83019,
-      "num": 185894,
-      "word": "脱口秀和Ta的朋友们",
-      "onboard_time": 1725362239,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 82925,
       "num": 99630,
       "word": "今年的月饼已经离谱到这种程度了吗",
@@ -2371,6 +2411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67210,
+      "num": 248549,
+      "word": "广西致5死命案嫌犯已潜逃四天",
+      "onboard_time": 1725361640,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66918,
       "num": 532670,
       "word": "揭秘问卷星抽奖100%中奖陷阱",
@@ -2385,6 +2433,14 @@
       "onboard_time": 1725319937,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 65230,
+      "num": 152311,
+      "word": "银行员工薪酬平均下降5321元",
+      "onboard_time": 1725362721,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62082,
@@ -2443,14 +2499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43881,
-      "num": 243327,
-      "word": "广西致5死命案嫌犯已潜逃四天",
-      "onboard_time": 1725361640,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43821,
       "num": 43821,
       "word": "王一博出雨林的第一天",
@@ -2487,6 +2535,14 @@
       "num": 487344,
       "word": "河南确山县回应竞选村支书文章",
       "onboard_time": 1725344121,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40268,
+      "num": 393503,
+      "word": "互联网黄牛为什么能这么猖獗",
+      "onboard_time": 1725361521,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -2568,14 +2624,6 @@
       "word": "婚姻里该不该亲夫妻明算账",
       "onboard_time": 1725334341,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23681,
-      "num": 306049,
-      "word": "互联网黄牛为什么能这么猖獗",
-      "onboard_time": 1725361521,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
