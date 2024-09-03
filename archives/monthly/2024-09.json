@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725344962684,
+  "endTime": 1725345773229,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 5856847,
-      "num": 6282338,
+      "raw_hot": 9214526,
+      "num": 10464526,
       "word": "青岛警方通报王某驾车逆行殴打他人案",
       "onboard_time": 1725341422,
       "rank": 20,
@@ -795,6 +795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 835683,
+      "num": 835683,
+      "word": "王楚钦问全红婵不回北京了是吧",
+      "onboard_time": 1725343161,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 835201,
       "num": 835201,
       "word": "林俊杰cue谭松韵",
@@ -937,14 +945,6 @@
       "onboard_time": 1725200000,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 789677,
-      "num": 789677,
-      "word": "王楚钦问全红婵不回北京了是吧",
-      "onboard_time": 1725343161,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 781005,
@@ -1107,20 +1107,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 704015,
+      "num": 704015,
+      "word": "不想在出租屋里生孩子有错吗",
+      "onboard_time": 1725341361,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 702717,
       "num": 702717,
       "word": "王楚钦结束港澳行发文",
       "onboard_time": 1725285321,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 701563,
-      "num": 701563,
-      "word": "不想在出租屋里生孩子有错吗",
-      "onboard_time": 1725341361,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 697818,
@@ -1553,6 +1553,14 @@
       "onboard_time": 1725178040,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 535722,
+      "num": 886536,
+      "word": "慕胥辞",
+      "onboard_time": 1725245657,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 535330,
@@ -2035,14 +2043,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 427866,
-      "num": 886536,
-      "word": "慕胥辞",
-      "onboard_time": 1725245657,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 424684,
       "num": 424684,
       "word": "贾一凡vlog香港篇",
@@ -2364,7 +2364,7 @@
     },
     {
       "raw_hot": 347570,
-      "num": 347570,
+      "num": 524889,
       "word": "网传逆行打人司机被居家拘留不属实",
       "onboard_time": 1725342742,
       "rank": 21,
@@ -3211,6 +3211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249797,
+      "num": 249797,
+      "word": "迪丽热巴手背上的青筋",
+      "onboard_time": 1725345741,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249242,
       "num": 249242,
       "word": "这是我们的国歌",
@@ -3387,6 +3395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231565,
+      "num": 266743,
+      "word": "张杰谢娜三个女儿都上学了",
+      "onboard_time": 1725344420,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231071,
       "num": 322725,
       "word": "棍铲 沙坪坝",
@@ -3553,6 +3569,14 @@
       "onboard_time": 1725259041,
       "rank": 47,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 218321,
+      "num": 218321,
+      "word": "国乒有一个会议室的拍子要签",
+      "onboard_time": 1725345261,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 218302,
@@ -3729,6 +3753,14 @@
       "onboard_time": 1725244398,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207672,
+      "num": 218623,
+      "word": "王俊凯 昆明",
+      "onboard_time": 1725344660,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 207671,
@@ -4675,6 +4707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177811,
+      "num": 177811,
+      "word": "樊振东正面回应未来规划",
+      "onboard_time": 1725344901,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177290,
       "num": 177290,
       "word": "林俊杰太原站",
@@ -4979,12 +5019,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 167850,
-      "num": 167850,
-      "word": "张杰谢娜三个女儿都上学了",
-      "onboard_time": 1725344420,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 167678,
+      "num": 167678,
+      "word": "周鸿祎不建议大学生参加辩论赛",
+      "onboard_time": 1725342262,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 167502,
@@ -5083,20 +5123,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164364,
+      "num": 164364,
+      "word": "朱丹晒周一围与儿子照片",
+      "onboard_time": 1725345621,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164258,
       "num": 164258,
       "word": "潘展乐唱孤勇者笑场",
       "onboard_time": 1725199640,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163988,
-      "num": 163988,
-      "word": "王俊凯 昆明",
-      "onboard_time": 1725344660,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 163778,
@@ -5185,6 +5225,14 @@
       "onboard_time": 1725188600,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160416,
+      "num": 160416,
+      "word": "张凌赫赵今麦公主抱",
+      "onboard_time": 1725345621,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 160277,
@@ -5603,6 +5651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146135,
+      "num": 146135,
+      "word": "newjeans首尔时装周状态",
+      "onboard_time": 1725344961,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 146025,
       "num": 146025,
       "word": "潘展乐贴脸开大记者",
@@ -5721,22 +5777,6 @@
       "onboard_time": 1725328217,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 139711,
-      "num": 139711,
-      "word": "周鸿祎不建议大学生参加辩论赛",
-      "onboard_time": 1725342262,
-      "rank": 48,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 139638,
-      "num": 139638,
-      "word": "樊振东正面回应未来规划",
-      "onboard_time": 1725344901,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 139557,
@@ -6467,6 +6507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88578,
+      "num": 451898,
+      "word": "花洛莉亚客服称疑似擦边口红售罄下架",
+      "onboard_time": 1725345560,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87162,
       "num": 99604,
       "word": "JDG无缘S14",
@@ -6561,6 +6609,14 @@
       "onboard_time": 1725257482,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75654,
+      "num": 165058,
+      "word": "刘宇宁珠帘玉幕眼神杀",
+      "onboard_time": 1725344241,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 74929,
@@ -6675,6 +6731,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 66918,
+      "num": 532670,
+      "word": "揭秘问卷星抽奖100%中奖陷阱",
+      "onboard_time": 1725343581,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66594,
       "num": 66594,
       "word": "警方回应秋风姐姐公布车祸责任认定",
@@ -6785,6 +6849,14 @@
       "onboard_time": 1725258083,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 58484,
+      "num": 526313,
+      "word": "官方回应先买墓地才能开死亡证明",
+      "onboard_time": 1725345382,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58444,
@@ -7115,6 +7187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40425,
+      "num": 487344,
+      "word": "河南确山县回应竞选村支书文章",
+      "onboard_time": 1725344121,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40195,
       "num": 40195,
       "word": "校方回应学生宿舍用空调需交租赁费",
@@ -7201,14 +7281,6 @@
       "onboard_time": 1725215293,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 36749,
-      "num": 532670,
-      "word": "揭秘问卷星抽奖100%中奖陷阱",
-      "onboard_time": 1725343581,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36718,
@@ -7344,14 +7416,6 @@
       "word": "重庆多地发射火箭弹人工增雨",
       "onboard_time": 1725302593,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32375,
-      "num": 487344,
-      "word": "河南确山县回应竞选村支书文章",
-      "onboard_time": 1725344121,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -7752,6 +7816,14 @@
       "word": "马斯克称美国可能很快面临破产",
       "onboard_time": 1725161539,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12405,
+      "num": 385933,
+      "word": "美妆品牌营销的边界感在哪里",
+      "onboard_time": 1725345560,
+      "rank": 19,
       "category": "社会新闻"
     },
     {

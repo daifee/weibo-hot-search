@@ -1,0 +1,410 @@
+{
+  "runTime": 1725345773229,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9214526,
+        "num": 10464526,
+        "word": "青岛警方通报王某驾车逆行殴打他人案",
+        "onboard_time": 1725341422,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5594724,
+        "num": 5594724,
+        "word": "泰安交通事故致11人遇难",
+        "onboard_time": 1725335672,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45782,
+        "num": 1540998,
+        "word": "79年前的今天我们胜利了",
+        "onboard_time": 1725332421,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 835683,
+        "num": 835683,
+        "word": "王楚钦问全红婵不回北京了是吧",
+        "onboard_time": 1725343161,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 704015,
+        "num": 704015,
+        "word": "不想在出租屋里生孩子有错吗",
+        "onboard_time": 1725341361,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 685387,
+        "num": 685387,
+        "word": "韩安冉体重160斤",
+        "onboard_time": 1725337523,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 559920,
+        "num": 559920,
+        "word": "鲁豫 有人说贾玲都不好笑了",
+        "onboard_time": 1725340642,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 535722,
+        "num": 535722,
+        "word": "慕胥辞",
+        "onboard_time": 1725339204,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58484,
+        "num": 526313,
+        "word": "官方回应先买墓地才能开死亡证明",
+        "onboard_time": 1725345382,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219601,
+        "num": 524889,
+        "word": "网传逆行打人司机被居家拘留不属实",
+        "onboard_time": 1725342742,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524659,
+        "num": 524659,
+        "word": "花洛莉亚 擦边",
+        "onboard_time": 1725283462,
+        "rank": 10,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 483150,
+        "num": 483150,
+        "word": "花四万隆的鼻子姑娘不满太自然",
+        "onboard_time": 1725336624,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482638,
+        "num": 482638,
+        "word": "广东将迎特大暴雨",
+        "onboard_time": 1725338784,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88578,
+        "num": 451898,
+        "word": "花洛莉亚客服称疑似擦边口红售罄下架",
+        "onboard_time": 1725345560,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40425,
+        "num": 440199,
+        "word": "河南确山县回应竞选村支书文章",
+        "onboard_time": 1725344121,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431137,
+        "num": 431137,
+        "word": "潘玮柏2分钟剥了11只虾",
+        "onboard_time": 1725341361,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409146,
+        "num": 409146,
+        "word": "校方否认致11死车祸司机与师生有矛盾",
+        "onboard_time": 1725339984,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153708,
+        "num": 404400,
+        "word": "秦俊杰演活了中年人的无奈",
+        "onboard_time": 1725343942,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 401266,
+        "num": 401266,
+        "word": "台风摩羯或致广东三停一休",
+        "onboard_time": 1725338003,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12405,
+        "num": 385933,
+        "word": "美妆品牌营销的边界感在哪里",
+        "onboard_time": 1725345560,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384056,
+        "num": 384056,
+        "word": "刘亚仁被判刑一年",
+        "onboard_time": 1725342380,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366532,
+        "num": 366532,
+        "word": "女子晒背被老人误认尸体连报4次警",
+        "onboard_time": 1725332780,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356136,
+        "num": 356136,
+        "word": "普京自曝日常只睡6小时",
+        "onboard_time": 1725339563,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 303361,
+        "num": 303361,
+        "word": "王楚钦孙颖莎水灵灵地一起走了",
+        "onboard_time": 1725341122,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279951,
+        "num": 279951,
+        "word": "黑兔 擦边",
+        "onboard_time": 1725323061,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30110,
+        "num": 278315,
+        "word": "巴家新款鞋京东提前发售",
+        "onboard_time": 1725341241,
+        "rank": 25,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 276810,
+        "num": 276810,
+        "word": "苹果税在欧盟收17%中国收30%",
+        "onboard_time": 1725341841,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 275509,
+        "num": 275509,
+        "word": "军训是没苦硬吃吗",
+        "onboard_time": 1725339023,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 267224,
+        "num": 267224,
+        "word": "逆行路虎司机不构成交通肇事逃逸",
+        "onboard_time": 1725342561,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231565,
+        "num": 266743,
+        "word": "张杰谢娜三个女儿都上学了",
+        "onboard_time": 1725344420,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266713,
+        "num": 266713,
+        "word": "王昶求图",
+        "onboard_time": 1725334701,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249797,
+        "num": 249797,
+        "word": "迪丽热巴手背上的青筋",
+        "onboard_time": 1725345741,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248514,
+        "num": 248514,
+        "word": "泰安车祸肇事者已被警方带走",
+        "onboard_time": 1725340223,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219949,
+        "num": 219949,
+        "word": "日军又一恶魔细菌部队被曝光",
+        "onboard_time": 1725339803,
+        "rank": 33,
+        "category": "社会新闻,国外时政"
+      },
+      {
+        "raw_hot": 207672,
+        "num": 218623,
+        "word": "王俊凯 昆明",
+        "onboard_time": 1725344660,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218321,
+        "num": 218321,
+        "word": "国乒有一个会议室的拍子要签",
+        "onboard_time": 1725345261,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213161,
+        "num": 213161,
+        "word": "程序员辞职用低代码养鸡年销2亿",
+        "onboard_time": 1725336564,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211293,
+        "num": 211293,
+        "word": "学生用空调需一次性缴3年费用",
+        "onboard_time": 1725339863,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196753,
+        "num": 196753,
+        "word": "山东东平车祸亲历者发声",
+        "onboard_time": 1725343820,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179199,
+        "num": 179199,
+        "word": "赵丽颖新片爆裂打拐",
+        "onboard_time": 1725333622,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177811,
+        "num": 177811,
+        "word": "樊振东正面回应未来规划",
+        "onboard_time": 1725344901,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176868,
+        "num": 176868,
+        "word": "全红婵模仿王楚钦揪裤子",
+        "onboard_time": 1725332780,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167678,
+        "num": 167678,
+        "word": "周鸿祎不建议大学生参加辩论赛",
+        "onboard_time": 1725342262,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 166125,
+        "num": 166125,
+        "word": "潘展乐为樊振东特意站直了",
+        "onboard_time": 1725340581,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75654,
+        "num": 165058,
+        "word": "刘宇宁珠帘玉幕眼神杀",
+        "onboard_time": 1725344241,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164364,
+        "num": 164364,
+        "word": "朱丹晒周一围与儿子照片",
+        "onboard_time": 1725345621,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66918,
+        "num": 160717,
+        "word": "揭秘问卷星抽奖100%中奖陷阱",
+        "onboard_time": 1725343581,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160416,
+        "num": 160416,
+        "word": "张凌赫赵今麦公主抱",
+        "onboard_time": 1725345621,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146135,
+        "num": 146135,
+        "word": "newjeans首尔时装周状态",
+        "onboard_time": 1725344961,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 145111,
+        "num": 145111,
+        "word": "深圳湾公路大桥坠海车主已身亡",
+        "onboard_time": 1725335120,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中非合作论坛峰会这些看点值得关注#"
+    }
+  }
+}
