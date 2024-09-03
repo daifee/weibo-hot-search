@@ -1,0 +1,410 @@
+{
+  "runTime": 1725367209100,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1883020,
+        "num": 1883020,
+        "word": "儿童骑行被碾压案司机亲属发声",
+        "onboard_time": 1725361732,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1134581,
+        "num": 1134581,
+        "word": "芭莎爆料 四位女艺人",
+        "onboard_time": 1725353361,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42536,
+        "num": 967180,
+        "word": "雪域高原焕新貌",
+        "onboard_time": 1725354260,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 960914,
+        "num": 960914,
+        "word": "碾压骑行孩童司机以过失致死罪被捕",
+        "onboard_time": 1725363620,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 885674,
+        "num": 885674,
+        "word": "青岛警方通报王某驾车逆行殴打他人案",
+        "onboard_time": 1725341422,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 852648,
+        "num": 852648,
+        "word": "Angelababy鞠躬感谢粉丝",
+        "onboard_time": 1725362421,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 822761,
+        "num": 822761,
+        "word": "广西致5死命案嫌犯已潜逃四天",
+        "onboard_time": 1725361640,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656904,
+        "num": 656904,
+        "word": "杨幂水绿色高定",
+        "onboard_time": 1725365060,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 634067,
+        "num": 634067,
+        "word": "张天爱拍短剧",
+        "onboard_time": 1725362779,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147013,
+        "num": 589056,
+        "word": "长春一男子持刀闹事致民警一死二伤",
+        "onboard_time": 1725360019,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1748249,
+        "num": 588360,
+        "word": "男孩骑行遭碾压身亡司机妻子患白血病",
+        "onboard_time": 1725365420,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 47662,
+        "num": 575611,
+        "word": "最近很火的烟台海肠到底是什么",
+        "onboard_time": 1725365360,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 574513,
+        "num": 574513,
+        "word": "六大行人均月薪酬不到3万元",
+        "onboard_time": 1725356360,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478634,
+        "num": 478634,
+        "word": "李庚希拍超越腿粗了9厘米",
+        "onboard_time": 1725358640,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418836,
+        "num": 418836,
+        "word": "泰安交通事故致11人遇难",
+        "onboard_time": 1725335672,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1470431,
+        "num": 416977,
+        "word": "园长收学生6元巧克力现场监控公布",
+        "onboard_time": 1725362721,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407559,
+        "num": 407559,
+        "word": "搭讪姜珮瑶",
+        "onboard_time": 1725366620,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378445,
+        "num": 378445,
+        "word": "王楚钦当着莎莎的面被别人喊王亲亲",
+        "onboard_time": 1725366620,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334080,
+        "num": 334080,
+        "word": "长春警方通报一小区持刀伤人事件",
+        "onboard_time": 1725356900,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 321249,
+        "num": 321249,
+        "word": "男子花29元坐高铁免费吃40元盒饭",
+        "onboard_time": 1725358220,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291991,
+        "num": 291991,
+        "word": "陈飞宇迪丽热巴cp感",
+        "onboard_time": 1725359361,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267249,
+        "num": 267249,
+        "word": "戴建业说35岁失业让人们不敢生育",
+        "onboard_time": 1725366980,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261206,
+        "num": 261206,
+        "word": "还以为是早期的Angelababy",
+        "onboard_time": 1725357140,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231273,
+        "num": 231273,
+        "word": "工资没涨 儿歌涨价了",
+        "onboard_time": 1725356000,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 225140,
+        "num": 225140,
+        "word": "王昶 在黄山拍到了人生照片",
+        "onboard_time": 1725352280,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221717,
+        "num": 221717,
+        "word": "饿瘦和运动瘦哪个效果更好",
+        "onboard_time": 1725366019,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 221644,
+        "num": 221644,
+        "word": "明年起iPhone将统一配OLED显示屏",
+        "onboard_time": 1725361279,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 207379,
+        "num": 207379,
+        "word": "丁禹兮 谈恋爱都不会",
+        "onboard_time": 1725366381,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202461,
+        "num": 202461,
+        "word": "全红婵用筷子炫整块牛排",
+        "onboard_time": 1725365479,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190982,
+        "num": 190982,
+        "word": "我一定红透半边天",
+        "onboard_time": 1725362539,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186909,
+        "num": 186909,
+        "word": "王楚钦问全红婵不回北京了是吧",
+        "onboard_time": 1725343161,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182140,
+        "num": 182140,
+        "word": "因为开学包书皮被老师点名批评",
+        "onboard_time": 1725356780,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181110,
+        "num": 181110,
+        "word": "新疆开始下雪",
+        "onboard_time": 1725348501,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180156,
+        "num": 180156,
+        "word": "阚清子说未婚夫是自己影迷",
+        "onboard_time": 1725354201,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171009,
+        "num": 171009,
+        "word": "家长烧掉孩子3000张烟卡不值得叫好",
+        "onboard_time": 1725354682,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169670,
+        "num": 169670,
+        "word": "言情女主的名排山倒海的命",
+        "onboard_time": 1725364279,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169390,
+        "num": 169390,
+        "word": "王曼昱的港澳行vlog",
+        "onboard_time": 1725364941,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168483,
+        "num": 168483,
+        "word": "心动的信号7",
+        "onboard_time": 1725365239,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164174,
+        "num": 164174,
+        "word": "男孩骑行身亡案司机妻子称丈夫被打",
+        "onboard_time": 1725365120,
+        "rank": 38,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 161536,
+        "num": 161536,
+        "word": "男小三赛道也卷起来了",
+        "onboard_time": 1725366740,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158550,
+        "num": 158550,
+        "word": "TTG对战eStar",
+        "onboard_time": 1725363440,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156016,
+        "num": 156016,
+        "word": "林允和男演员凌晨对剧本全程拍视频",
+        "onboard_time": 1725361820,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152757,
+        "num": 152757,
+        "word": "宋亚轩弹唱流沙vlog",
+        "onboard_time": 1725366200,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152741,
+        "num": 152741,
+        "word": "安排当个班主任她就老实了",
+        "onboard_time": 1725359901,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152443,
+        "num": 152443,
+        "word": "宁艺卓叫声好像CardiB",
+        "onboard_time": 1725364941,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146416,
+        "num": 146416,
+        "word": "芭莎工作人员爆料景甜耍大牌",
+        "onboard_time": 1725349879,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145898,
+        "num": 145898,
+        "word": "狗 你当我的鼻子是摆设吗",
+        "onboard_time": 1725360920,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 48205,
+        "num": 141151,
+        "word": "擦边不该是彩妆品牌的流量密码",
+        "onboard_time": 1725365120,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136432,
+        "num": 136432,
+        "word": "郑钦文去年排女运动员收入榜第15",
+        "onboard_time": 1725361220,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135493,
+        "num": 135493,
+        "word": "iPhoneSE4或将配OLED屏幕",
+        "onboard_time": 1725366861,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国和非洲国家是患难之交#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725363327412,
+  "endTime": 1725367209100,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -163,20 +163,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1883020,
+      "num": 1883020,
+      "word": "儿童骑行被碾压案司机亲属发声",
+      "onboard_time": 1725361732,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1840204,
       "num": 1840204,
       "word": "陈乔恩Alan婚礼",
       "onboard_time": 1725251901,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1839519,
-      "num": 1839519,
-      "word": "儿童骑行被碾压案司机亲属发声",
-      "onboard_time": 1725361732,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1829463,
@@ -209,6 +209,14 @@
       "onboard_time": 1725279439,
       "rank": 21,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1748249,
+      "num": 588360,
+      "word": "男孩骑行遭碾压身亡司机妻子患白血病",
+      "onboard_time": 1725365420,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1721819,
@@ -337,6 +345,14 @@
       "onboard_time": 1725286342,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1470431,
+      "num": 416977,
+      "word": "园长收学生6元巧克力现场监控公布",
+      "onboard_time": 1725362721,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1442203,
@@ -667,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 960914,
+      "num": 960914,
+      "word": "碾压骑行孩童司机以过失致死罪被捕",
+      "onboard_time": 1725363620,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 958606,
       "num": 958606,
       "word": "允许这个演员找手替",
@@ -851,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 852648,
+      "num": 852648,
+      "word": "Angelababy鞠躬感谢粉丝",
+      "onboard_time": 1725362421,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 841289,
       "num": 841289,
       "word": "残奥会 关注度低",
@@ -905,6 +937,14 @@
       "onboard_time": 1725185600,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 822761,
+      "num": 822761,
+      "word": "广西致5死命案嫌犯已潜逃四天",
+      "onboard_time": 1725361640,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 821785,
@@ -1315,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 656904,
+      "num": 656904,
+      "word": "杨幂水绿色高定",
+      "onboard_time": 1725365060,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 651985,
       "num": 651985,
       "word": "权志龙太阳大声合体",
@@ -1353,6 +1401,14 @@
       "onboard_time": 1725186138,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 634067,
+      "num": 634067,
+      "word": "张天爱拍短剧",
+      "onboard_time": 1725362779,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 630684,
@@ -2067,14 +2123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 453067,
-      "num": 412145,
-      "word": "Angelababy鞠躬感谢粉丝",
-      "onboard_time": 1725362421,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 450898,
       "num": 450898,
       "word": "王楚钦名字带欠人也欠欠的",
@@ -2299,6 +2347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407559,
+      "num": 407559,
+      "word": "搭讪姜珮瑶",
+      "onboard_time": 1725366620,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 407445,
       "num": 407445,
       "word": "华为三折手机命名MateXT非凡大师",
@@ -2364,7 +2420,7 @@
     },
     {
       "raw_hot": 392261,
-      "num": 392261,
+      "num": 589056,
       "word": "长春一男子持刀闹事致民警一死二伤",
       "onboard_time": 1725360019,
       "rank": 18,
@@ -2424,6 +2480,14 @@
       "word": "潘展乐你腹肌呢",
       "onboard_time": 1725350541,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 378445,
+      "num": 378445,
+      "word": "王楚钦当着莎莎的面被别人喊王亲亲",
+      "onboard_time": 1725366620,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -3283,6 +3347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 267249,
+      "num": 267249,
+      "word": "戴建业说35岁失业让人们不敢生育",
+      "onboard_time": 1725366980,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263820,
       "num": 263820,
       "word": "孙杨已回省队",
@@ -3907,6 +3979,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 221717,
+      "num": 221717,
+      "word": "饿瘦和运动瘦哪个效果更好",
+      "onboard_time": 1725366019,
+      "rank": 25,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 221686,
       "num": 221686,
       "word": "电商低价卖书会谷贱伤农吗",
@@ -4203,6 +4283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207379,
+      "num": 207379,
+      "word": "丁禹兮 谈恋爱都不会",
+      "onboard_time": 1725366381,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207187,
       "num": 270172,
       "word": "王一博把刀砍断了",
@@ -4385,6 +4473,14 @@
       "onboard_time": 1725195740,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202461,
+      "num": 202461,
+      "word": "全红婵用筷子炫整块牛排",
+      "onboard_time": 1725365479,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 202030,
@@ -4779,6 +4875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190982,
+      "num": 190982,
+      "word": "我一定红透半边天",
+      "onboard_time": 1725362539,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190846,
       "num": 190846,
       "word": "美网",
@@ -5049,14 +5153,6 @@
       "onboard_time": 1725170478,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 183625,
-      "num": 183625,
-      "word": "张天爱拍短剧",
-      "onboard_time": 1725362779,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 183150,
@@ -5523,6 +5619,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169670,
+      "num": 169670,
+      "word": "言情女主的名排山倒海的命",
+      "onboard_time": 1725364279,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 169390,
+      "num": 169390,
+      "word": "王曼昱的港澳行vlog",
+      "onboard_time": 1725364941,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168896,
       "num": 584310,
       "word": "枸杞不是越红越好",
@@ -5553,6 +5665,14 @@
       "onboard_time": 1725272118,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168483,
+      "num": 168483,
+      "word": "心动的信号7",
+      "onboard_time": 1725365239,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 168292,
@@ -5731,6 +5851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164174,
+      "num": 164174,
+      "word": "男孩骑行身亡案司机妻子称丈夫被打",
+      "onboard_time": 1725365120,
+      "rank": 38,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 163879,
       "num": 163879,
       "word": "崔宸曦感谢乒乓球队照顾",
@@ -5827,6 +5955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161536,
+      "num": 161536,
+      "word": "男小三赛道也卷起来了",
+      "onboard_time": 1725366740,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161410,
       "num": 161410,
       "word": "TF ING",
@@ -5849,14 +5985,6 @@
       "onboard_time": 1725291980,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 160872,
-      "num": 160872,
-      "word": "园长收学生6元巧克力现场监控公布",
-      "onboard_time": 1725362721,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160840,
@@ -5929,6 +6057,14 @@
       "onboard_time": 1725179059,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158550,
+      "num": 158550,
+      "word": "TTG对战eStar",
+      "onboard_time": 1725363440,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 158512,
@@ -6147,6 +6283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152757,
+      "num": 152757,
+      "word": "宋亚轩弹唱流沙vlog",
+      "onboard_time": 1725366200,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152746,
       "num": 169859,
       "word": "致敬中国人民的伟大胜利",
@@ -6169,6 +6313,14 @@
       "onboard_time": 1725325940,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152443,
+      "num": 152443,
+      "word": "宁艺卓叫声好像CardiB",
+      "onboard_time": 1725364941,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 152034,
@@ -6593,6 +6745,14 @@
       "onboard_time": 1725178098,
       "rank": 17,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 135493,
+      "num": 135493,
+      "word": "iPhoneSE4或将配OLED屏幕",
+      "onboard_time": 1725366861,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 135483,
@@ -7491,14 +7651,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 67210,
-      "num": 248549,
-      "word": "广西致5死命案嫌犯已潜逃四天",
-      "onboard_time": 1725361640,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 67061,
       "num": 473350,
       "word": "烟台的鲅鱼饺子个个都是霸王",
@@ -7859,6 +8011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48205,
+      "num": 141151,
+      "word": "擦边不该是彩妆品牌的流量密码",
+      "onboard_time": 1725365120,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47891,
       "num": 426985,
       "word": "谁懂SKII新品的含金量",
@@ -7881,6 +8041,14 @@
       "onboard_time": 1725164602,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 47662,
+      "num": 575611,
+      "word": "最近很火的烟台海肠到底是什么",
+      "onboard_time": 1725365360,
+      "rank": 11,
+      "category": "美食"
     },
     {
       "raw_hot": 47524,
