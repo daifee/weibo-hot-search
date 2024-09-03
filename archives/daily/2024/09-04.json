@@ -1,6 +1,6 @@
 {
   "startTime": 1725380864855,
-  "endTime": 1725394934613,
+  "endTime": 1725395824748,
   "band_list": [
     {
       "raw_hot": 1194007,
@@ -435,6 +435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 49088,
+      "num": 49088,
+      "word": "被打只能屈辱承受吗",
+      "onboard_time": 1725389472,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44995,
       "num": 49301,
       "word": "杨倩欢迎大家选修清华射击课",
@@ -467,14 +475,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 27922,
-      "num": 41853,
-      "word": "被打只能屈辱承受吗",
-      "onboard_time": 1725389472,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27448,
       "num": 32254,
       "word": "罗云熙给LPL加油",
@@ -483,8 +483,8 @@
       "category": "艺人,电竞"
     },
     {
-      "raw_hot": 25419,
-      "num": 25419,
+      "raw_hot": 27091,
+      "num": 27091,
       "word": "68岁教授说现在的年轻人比以前难多了",
       "onboard_time": 1725391270,
       "rank": 42,
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 24087,
-      "num": 24087,
+      "num": 42000,
       "word": "买校服牛奶才办入学涉事学校被整改",
       "onboard_time": 1725389052,
       "rank": 27,
@@ -523,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17585,
+      "num": 21952,
+      "word": "迪丽热巴五年前后对比",
+      "onboard_time": 1725392170,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 17541,
       "num": 17541,
       "word": "藏海花系统点播梗",
@@ -531,27 +539,27 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 17473,
-      "num": 17473,
+      "raw_hot": 17531,
+      "num": 17531,
       "word": "钟楚曦韩东君 野性的张力",
       "onboard_time": 1725392711,
       "rank": 40,
       "category": "剧集"
     },
     {
-      "raw_hot": 17424,
-      "num": 21952,
-      "word": "迪丽热巴五年前后对比",
-      "onboard_time": 1725392170,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 16131,
+      "raw_hot": 16656,
       "num": 16920,
       "word": "别人卡bug他是卡爸爸",
       "onboard_time": 1725393072,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15127,
+      "num": 16650,
+      "word": "新疆重庆实力演绎冰火两重天",
+      "onboard_time": 1725394692,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
