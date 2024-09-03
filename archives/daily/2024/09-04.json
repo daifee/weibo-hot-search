@@ -1,6 +1,6 @@
 {
   "startTime": 1725380864855,
-  "endTime": 1725383999788,
+  "endTime": 1725385012872,
   "band_list": [
     {
       "raw_hot": 1194007,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144443,
+      "num": 174234,
+      "word": "长春持刀闹事男子抢走警察配枪",
+      "onboard_time": 1725382875,
+      "rank": 9,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 144398,
       "num": 144398,
       "word": "卫健局回应男子1天拔23颗牙后去世",
@@ -299,7 +307,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 106873,
+      "raw_hot": 112192,
       "num": 273272,
       "word": "追踪台风摩羯",
       "onboard_time": 1725380418,
@@ -411,12 +419,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 47176,
-      "num": 174234,
-      "word": "长春持刀闹事男子抢走警察配枪",
-      "onboard_time": 1725382875,
-      "rank": 9,
-      "category": "社会负面"
+      "raw_hot": 53872,
+      "num": 53872,
+      "word": "韩国翻拍那些年",
+      "onboard_time": 1725384014,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 44995,
+      "num": 49301,
+      "word": "杨倩欢迎大家选修清华射击课",
+      "onboard_time": 1725382336,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 37850,
@@ -425,6 +441,14 @@
       "onboard_time": 1725383893,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 18756,
+      "num": 101265,
+      "word": "女孩向男友求婚没想男友也准备求婚",
+      "onboard_time": 1725384733,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2094,
