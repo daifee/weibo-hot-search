@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725381779930,
+  "endTime": 1725383999788,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -1601,6 +1601,14 @@
       "onboard_time": 1725194720,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 603018,
+      "num": 603018,
+      "word": "024596警号重启",
+      "onboard_time": 1725378619,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 600769,
@@ -4265,14 +4273,6 @@
       "onboard_time": 1725255799,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 216918,
-      "num": 216918,
-      "word": "024596警号重启",
-      "onboard_time": 1725378619,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216892,
@@ -6963,6 +6963,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 144398,
+      "num": 144398,
+      "word": "卫健局回应男子1天拔23颗牙后去世",
+      "onboard_time": 1725377780,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143545,
       "num": 794482,
       "word": "黄景瑜新剧两眼一睁就是帅",
@@ -7056,6 +7064,14 @@
       "word": "孙颖莎是一个有力量的女孩子",
       "onboard_time": 1725237560,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 138537,
+      "num": 138537,
+      "word": "潘展乐腹肌变小肚子",
+      "onboard_time": 1725380178,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -7291,14 +7307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127482,
-      "num": 127482,
-      "word": "卫健局回应男子1天拔23颗牙后去世",
-      "onboard_time": 1725377780,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127332,
       "num": 127332,
       "word": "蒋敦豪 太热了",
@@ -7417,14 +7425,6 @@
       "onboard_time": 1725157819,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 120633,
-      "num": 120633,
-      "word": "潘展乐腹肌变小肚子",
-      "onboard_time": 1725380178,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 120384,
@@ -7617,6 +7617,14 @@
       "onboard_time": 1725104781,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106873,
+      "num": 273272,
+      "word": "追踪台风摩羯",
+      "onboard_time": 1725380418,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106551,
@@ -8235,6 +8243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59268,
+      "num": 59268,
+      "word": "王源你的罗伯特来了",
+      "onboard_time": 1725382694,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58556,
       "num": 453953,
       "word": "彭昱畅的嘴也是让人害怕的程度",
@@ -8523,6 +8539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47176,
+      "num": 174234,
+      "word": "长春持刀闹事男子抢走警察配枪",
+      "onboard_time": 1725382875,
+      "rank": 9,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 47168,
       "num": 285406,
       "word": "2024暑期档票房超116亿元",
@@ -8561,14 +8585,6 @@
       "onboard_time": 1725297735,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 43800,
-      "num": 273272,
-      "word": "追踪台风摩羯",
-      "onboard_time": 1725380418,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43265,
@@ -8697,6 +8713,14 @@
       "onboard_time": 1725257599,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37850,
+      "num": 53938,
+      "word": "东北人不把腿支出来就不会站着",
+      "onboard_time": 1725383893,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 37111,

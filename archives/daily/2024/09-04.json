@@ -1,6 +1,6 @@
 {
   "startTime": 1725380864855,
-  "endTime": 1725381779930,
+  "endTime": 1725383999788,
   "band_list": [
     {
       "raw_hot": 1194007,
@@ -41,6 +41,14 @@
       "onboard_time": 1725376401,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 603018,
+      "num": 603018,
+      "word": "024596警号重启",
+      "onboard_time": 1725378619,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 598941,
@@ -155,14 +163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216918,
-      "num": 216918,
-      "word": "024596警号重启",
-      "onboard_time": 1725378619,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203417,
       "num": 203417,
       "word": "郑钦文vs萨巴伦卡",
@@ -211,12 +211,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144398,
+      "num": 144398,
+      "word": "卫健局回应男子1天拔23颗牙后去世",
+      "onboard_time": 1725377780,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140054,
       "num": 140054,
       "word": "园长收学生6元巧克力现场监控公布",
       "onboard_time": 1725362721,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138537,
+      "num": 138537,
+      "word": "潘展乐腹肌变小肚子",
+      "onboard_time": 1725380178,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 132485,
@@ -235,28 +251,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127482,
-      "num": 127482,
-      "word": "卫健局回应男子1天拔23颗牙后去世",
-      "onboard_time": 1725377780,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121685,
       "num": 121685,
       "word": "广西致5死命案嫌犯已潜逃四天",
       "onboard_time": 1725361640,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120633,
-      "num": 120633,
-      "word": "潘展乐腹肌变小肚子",
-      "onboard_time": 1725380178,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 120515,
@@ -297,6 +297,14 @@
       "onboard_time": 1725365060,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 106873,
+      "num": 273272,
+      "word": "追踪台风摩羯",
+      "onboard_time": 1725380418,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106193,
@@ -395,12 +403,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 43800,
-      "num": 273272,
-      "word": "追踪台风摩羯",
-      "onboard_time": 1725380418,
+      "raw_hot": 59268,
+      "num": 59268,
+      "word": "王源你的罗伯特来了",
+      "onboard_time": 1725382694,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 47176,
+      "num": 174234,
+      "word": "长春持刀闹事男子抢走警察配枪",
+      "onboard_time": 1725382875,
       "rank": 9,
-      "category": "社会新闻"
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 37850,
+      "num": 53938,
+      "word": "东北人不把腿支出来就不会站着",
+      "onboard_time": 1725383893,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 2094,
