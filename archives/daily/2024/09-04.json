@@ -1,6 +1,6 @@
 {
   "startTime": 1725380864855,
-  "endTime": 1725388089521,
+  "endTime": 1725388904399,
   "band_list": [
     {
       "raw_hot": 1194007,
@@ -419,8 +419,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 54730,
-      "num": 33755,
+      "raw_hot": 55628,
+      "num": 55628,
       "word": "沈腾一个游戏得罪马丽范丞丞贾玲",
       "onboard_time": 1725385453,
       "rank": 30,
@@ -449,6 +449,14 @@
       "onboard_time": 1725383893,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 32597,
+      "num": 98299,
+      "word": "79岁奶奶开学前连夜补暑假作业",
+      "onboard_time": 1725386593,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28012,
@@ -483,10 +491,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15447,
-      "num": 98299,
-      "word": "79岁奶奶开学前连夜补暑假作业",
-      "onboard_time": 1725386593,
+      "raw_hot": 13213,
+      "num": 85342,
+      "word": "鲁A大哥车被划反给对方转了2000元",
+      "onboard_time": 1725388452,
       "rank": 9,
       "category": "社会新闻"
     },
