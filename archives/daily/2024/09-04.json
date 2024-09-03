@@ -1,6 +1,6 @@
 {
   "startTime": 1725380864855,
-  "endTime": 1725385012872,
+  "endTime": 1725388089521,
   "band_list": [
     {
       "raw_hot": 1194007,
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252320,
+      "num": 252320,
+      "word": "长春持刀闹事男子抢走警察配枪",
+      "onboard_time": 1725382875,
+      "rank": 9,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 249589,
       "num": 249589,
       "word": "深圳台风",
@@ -209,14 +217,6 @@
       "onboard_time": 1725370761,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 144443,
-      "num": 174234,
-      "word": "长春持刀闹事男子抢走警察配枪",
-      "onboard_time": 1725382875,
-      "rank": 9,
-      "category": "社会负面"
     },
     {
       "raw_hot": 144398,
@@ -419,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54730,
+      "num": 33755,
+      "word": "沈腾一个游戏得罪马丽范丞丞贾玲",
+      "onboard_time": 1725385453,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 53872,
       "num": 53872,
       "word": "韩国翻拍那些年",
@@ -443,11 +451,43 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 28012,
+      "num": 32264,
+      "word": "野孩子片长127分钟",
+      "onboard_time": 1725385753,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 27448,
+      "num": 32254,
+      "word": "罗云熙给LPL加油",
+      "onboard_time": 1725387492,
+      "rank": 43,
+      "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 25202,
+      "num": 32211,
+      "word": "徐明浩看恋综看红温了",
+      "onboard_time": 1725385453,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 18756,
       "num": 101265,
       "word": "女孩向男友求婚没想男友也准备求婚",
       "onboard_time": 1725384733,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15447,
+      "num": 98299,
+      "word": "79岁奶奶开学前连夜补暑假作业",
+      "onboard_time": 1725386593,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
