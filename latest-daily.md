@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/05 00:26:31 ~ 2024/09/05 02:26:18
+本榜单时间：2024/09/05 00:26:31 ~ 2024/09/05 02:40:18
 </p>
 </blockquote>
 <p>
@@ -339,6 +339,12 @@ IVE未公开新歌SupernovaLove（热度：130589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E6%9B%BE%E8%AF%B4%E8%BE%9B%E5%B7%B4%E6%B0%B8%E8%BF%9C%E6%98%AF%E5%AD%A6%E4%B9%A0%E5%AF%B9%E8%B1%A1%23" target="weibo">
+小杨哥曾说辛巴永远是学习对象（热度：39381）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E8%87%AA%E7%94%B1%E8%81%8C%E4%B8%9A%E8%A2%AB%E4%BD%A0%E6%90%9E%E5%BE%97%E4%B8%80%E8%BA%AB%E7%8F%AD%E5%91%B3%23" target="weibo">
 一个自由职业被你搞得一身班味（热度：34127）
 </a>
@@ -347,12 +353,6 @@ IVE未公开新歌SupernovaLove（热度：130589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%98%E9%87%8F%E6%88%BF%E8%B4%B7%E5%88%A9%E7%8E%87%E4%B8%8D%E8%83%BD%E7%AE%80%E5%8D%95%E4%B8%80%E9%99%8D%E4%BA%86%E4%B9%8B%23" target="weibo">
 存量房贷利率不能简单一降了之（热度：32071）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E6%9B%BE%E8%AF%B4%E8%BE%9B%E5%B7%B4%E6%B0%B8%E8%BF%9C%E6%98%AF%E5%AD%A6%E4%B9%A0%E5%AF%B9%E8%B1%A1%23" target="weibo">
-小杨哥曾说辛巴永远是学习对象（热度：32069）
 </a>
 </li>
 
