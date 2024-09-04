@@ -1,6 +1,6 @@
 {
   "startTime": 1725467191451,
-  "endTime": 1725477448677,
+  "endTime": 1725478504758,
   "band_list": [
     {
       "raw_hot": 968438,
@@ -419,7 +419,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 54175,
+      "raw_hot": 55194,
       "num": 40709,
       "word": "小杨哥曾说辛巴永远是学习对象",
       "onboard_time": 1725473412,
@@ -467,6 +467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29337,
+      "num": 40729,
+      "word": "中新网评园长收学生6元巧克力被开除",
+      "onboard_time": 1725475691,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24680,
       "num": 83683,
       "word": "陶俑闺蜜手牵手千年了",
@@ -483,20 +491,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20948,
+      "num": 20948,
+      "word": "头一次见让盲人室友带饭的",
+      "onboard_time": 1725477251,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 20503,
       "num": 64830,
       "word": "现代化是梦想连接现实的必由之路",
       "onboard_time": 1725469396,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 13103,
-      "num": 40729,
-      "word": "中新网评园长收学生6元巧克力被开除",
-      "onboard_time": 1725475691,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 7813,
