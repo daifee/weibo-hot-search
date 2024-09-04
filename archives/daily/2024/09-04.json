@@ -1,6 +1,6 @@
 {
   "startTime": 1725380864855,
-  "endTime": 1725420172365,
+  "endTime": 1725421073178,
   "band_list": [
     {
       "raw_hot": 2706478,
@@ -27,8 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1602384,
-      "num": 1602384,
+      "raw_hot": 1890748,
+      "num": 1890748,
       "word": "专家称房价下跌40元咖啡都不敢喝",
       "onboard_time": 1725416359,
       "rank": 14,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1336658,
+      "num": 1336658,
+      "word": "曾志伟 三只羊",
+      "onboard_time": 1725409941,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1329439,
       "num": 1329439,
       "word": "董明珠谈35岁找不到工作",
@@ -51,12 +59,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1256600,
-      "num": 1256600,
-      "word": "曾志伟 三只羊",
-      "onboard_time": 1725409941,
-      "rank": 3,
-      "category": "艺人"
+      "raw_hot": 1267231,
+      "num": 1267231,
+      "word": "乌克兰驻日大使拜鬼",
+      "onboard_time": 1725418520,
+      "rank": 4,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1194007,
@@ -65,14 +73,6 @@
       "onboard_time": 1725373341,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1148629,
-      "num": 1148629,
-      "word": "乌克兰驻日大使拜鬼",
-      "onboard_time": 1725418520,
-      "rank": 4,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1135690,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 693020,
+      "num": 693020,
+      "word": "婚姻三大杀手 不上进抠门没情趣",
+      "onboard_time": 1725419961,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 661611,
       "num": 661611,
       "word": "张雨霏说一个月没下水痛经好很多",
@@ -192,6 +200,14 @@
       "word": "青岛警方通报王某驾车逆行殴打他人案",
       "onboard_time": 1725341422,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 551910,
+      "num": 551910,
+      "word": "张欣怡",
+      "onboard_time": 1725419600,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -331,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294448,
+      "num": 294448,
+      "word": "坐火车丢了东西如何找回",
+      "onboard_time": 1725418938,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289833,
       "num": 163384,
       "word": "男小三赛道也卷起来了",
@@ -339,12 +363,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 285099,
-      "num": 285099,
-      "word": "坐火车丢了东西如何找回",
-      "onboard_time": 1725418938,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 287161,
+      "num": 287161,
+      "word": "小杨哥曾说要赚外国人的钱",
+      "onboard_time": 1725420081,
+      "rank": 38,
+      "category": "网红,互联网"
     },
     {
       "raw_hot": 283064,
@@ -353,6 +377,14 @@
       "onboard_time": 1725405196,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 267533,
+      "num": 453898,
+      "word": "西游记剧组不养闲人",
+      "onboard_time": 1725418158,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 266303,
@@ -403,14 +435,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 251837,
-      "num": 453898,
-      "word": "西游记剧组不养闲人",
-      "onboard_time": 1725418158,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 249589,
       "num": 249589,
       "word": "深圳台风",
@@ -451,10 +475,26 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236652,
+      "num": 236652,
+      "word": "iPhone16新配色",
+      "onboard_time": 1725419060,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 231982,
       "num": 231982,
       "word": "被打男司机挨打还手算正当防卫吗",
       "onboard_time": 1725372923,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230360,
+      "num": 230360,
+      "word": "医院回应男子1天拔23颗牙后去世",
+      "onboard_time": 1725418938,
       "rank": 41,
       "category": "社会新闻"
     },
@@ -491,28 +531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204372,
-      "num": 224599,
-      "word": "婚姻三大杀手 不上进抠门没情趣",
-      "onboard_time": 1725419961,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 199516,
-      "num": 199516,
-      "word": "张欣怡",
-      "onboard_time": 1725419600,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196838,
       "num": 196838,
       "word": "华为终端",
       "onboard_time": 1725414139,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 195485,
+      "num": 195485,
+      "word": "开学的风还是吹到了斩神",
+      "onboard_time": 1725420919,
+      "rank": 31,
+      "category": "动漫"
     },
     {
       "raw_hot": 194292,
@@ -531,12 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189909,
-      "num": 182927,
-      "word": "iPhone16新配色",
-      "onboard_time": 1725419060,
-      "rank": 35,
-      "category": "数码"
+      "raw_hot": 192020,
+      "num": 192020,
+      "word": "黑神话已连续四周霸榜",
+      "onboard_time": 1725419783,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 188897,
@@ -635,14 +667,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 170248,
-      "num": 170248,
-      "word": "小杨哥曾说要赚外国人的钱",
-      "onboard_time": 1725420081,
-      "rank": 38,
-      "category": "网红,互联网"
-    },
-    {
       "raw_hot": 169353,
       "num": 169353,
       "word": "A股",
@@ -659,20 +683,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 167314,
-      "num": 167314,
-      "word": "医院回应男子1天拔23颗牙后去世",
-      "onboard_time": 1725418938,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167180,
       "num": 137512,
       "word": "盛李豪也用张雨霏表情包",
       "onboard_time": 1725379099,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165711,
+      "num": 165711,
+      "word": "下一战歌手官宣汪峰凡希亚",
+      "onboard_time": 1725420559,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 163103,
@@ -705,6 +729,14 @@
       "onboard_time": 1725416718,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 156132,
+      "num": 156132,
+      "word": "中年后我成了没有朋友的人",
+      "onboard_time": 1725420379,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144466,
@@ -753,6 +785,14 @@
       "onboard_time": 1725385453,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136477,
+      "num": 136477,
+      "word": "台风摩羯来袭这3地或有特大暴雨",
+      "onboard_time": 1725421039,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132485,
@@ -1246,6 +1286,9 @@
   "hotgov_list": [
     {
       "word": "#共创中非美好未来#"
+    },
+    {
+      "word": "#共筑高水平中非命运共同体#"
     }
   ]
 }
