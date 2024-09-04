@@ -1,0 +1,410 @@
+{
+  "runTime": 1725442619399,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1443889,
+        "num": 1443889,
+        "word": "特朗普称胜选将公开萝莉岛客户名单",
+        "onboard_time": 1725441738,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1406986,
+        "num": 1406986,
+        "word": "男子高铁上忍无可忍怒怼后座家长",
+        "onboard_time": 1725437840,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26082,
+        "num": 1291288,
+        "word": "2024年中非合作论坛峰会",
+        "onboard_time": 1725423802,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1223239,
+        "num": 1223239,
+        "word": "大哥靠5000万枚变蛋买三套房爆改人生",
+        "onboard_time": 1725438799,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1221615,
+        "num": 1221615,
+        "word": "淘宝即将全面支持微信支付",
+        "onboard_time": 1725435440,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 883557,
+        "num": 883557,
+        "word": "安以轩在老公被逮捕后露面",
+        "onboard_time": 1725437541,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 938048,
+        "num": 877329,
+        "word": "干巴大叔去世",
+        "onboard_time": 1725431180,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 863198,
+        "num": 863198,
+        "word": "行人闯红灯致电动车主摔倒被轧身亡",
+        "onboard_time": 1725439459,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400071,
+        "num": 400071,
+        "word": "健身房偶遇樊振东",
+        "onboard_time": 1725435560,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30477,
+        "num": 381285,
+        "word": "官方回应罐车气体泄漏致家禽死亡",
+        "onboard_time": 1725442280,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371254,
+        "num": 371254,
+        "word": "乌克兰驻日大使拜鬼",
+        "onboard_time": 1725418520,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 364756,
+        "num": 364756,
+        "word": "60岁知名华裔科学家吴瑛自杀",
+        "onboard_time": 1725430218,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347504,
+        "num": 347504,
+        "word": "蓝盈莹 分手会疯狂报班",
+        "onboard_time": 1725429738,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30911,
+        "num": 347385,
+        "word": "上海最大小区物业被炒是个警醒",
+        "onboard_time": 1725442280,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115670,
+        "num": 346654,
+        "word": "专家称95后00后吃穿消费高峰已过",
+        "onboard_time": 1725441022,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319378,
+        "num": 346092,
+        "word": "黄雅莉儿子刚满月就出来上班了",
+        "onboard_time": 1725433581,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306394,
+        "num": 345833,
+        "word": "时代峰峻新厂牌",
+        "onboard_time": 1725436221,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156881,
+        "num": 344982,
+        "word": "吴昕学姜妍做醉虾",
+        "onboard_time": 1725442041,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40728,
+        "num": 344936,
+        "word": "开在社区路边的儿童性教育夜校",
+        "onboard_time": 1725442399,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344434,
+        "num": 344434,
+        "word": "袁隆平墓前有一碗非洲农民的大米",
+        "onboard_time": 1725433339,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1404466,
+        "num": 342741,
+        "word": "k总 退网",
+        "onboard_time": 1725430820,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 337620,
+        "num": 337620,
+        "word": "原来妊娠纹能在电影中出现",
+        "onboard_time": 1725426201,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 319374,
+        "num": 319374,
+        "word": "因拒饮酒被男子扇耳光闺蜜劝和解",
+        "onboard_time": 1725439221,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289647,
+        "num": 289647,
+        "word": "陈好 压迫感",
+        "onboard_time": 1725431902,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273917,
+        "num": 273917,
+        "word": "白化病女儿入学家长群的回复泪奔了",
+        "onboard_time": 1725436584,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238262,
+        "num": 238262,
+        "word": "孕妈妈剖腹产后浑身颤抖不停",
+        "onboard_time": 1725436820,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237376,
+        "num": 237376,
+        "word": "孙颖莎演讲为什么好评如潮",
+        "onboard_time": 1725439161,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233915,
+        "num": 233915,
+        "word": "88VIP称正分批邀商家开通微信支付",
+        "onboard_time": 1725441441,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229899,
+        "num": 229899,
+        "word": "黄景瑜片场吃鸡架一吃吃半盆",
+        "onboard_time": 1725430580,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204611,
+        "num": 219266,
+        "word": "我竟然向陈奕迅卖烤肠",
+        "onboard_time": 1725436400,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212032,
+        "num": 212032,
+        "word": "iPhone16新配色",
+        "onboard_time": 1725419060,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 197585,
+        "num": 197585,
+        "word": "专家称房价下跌40元咖啡都不敢喝",
+        "onboard_time": 1725416359,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194681,
+        "num": 194681,
+        "word": "严浩翔发色褪色记录",
+        "onboard_time": 1725441922,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191958,
+        "num": 191958,
+        "word": "旅客执意将长满疙瘩的脚放小桌板上",
+        "onboard_time": 1725422347,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46224,
+        "num": 191540,
+        "word": "校外托管市场为啥这么火",
+        "onboard_time": 1725440660,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191194,
+        "num": 191194,
+        "word": "深空男主MBTI",
+        "onboard_time": 1725441501,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179066,
+        "num": 179066,
+        "word": "宋茜宋雨琦同框",
+        "onboard_time": 1725442460,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177578,
+        "num": 177578,
+        "word": "上海机场偶遇赵丽颖",
+        "onboard_time": 1725441080,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75786,
+        "num": 176583,
+        "word": "用丰收的颜色打开秋天",
+        "onboard_time": 1725436820,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175842,
+        "num": 175842,
+        "word": "现在当会计比以前更难了吗",
+        "onboard_time": 1725442280,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175694,
+        "num": 175694,
+        "word": "时尚芭莎辟谣网传工作人员爆料",
+        "onboard_time": 1725441620,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166992,
+        "num": 166992,
+        "word": "5月龄女婴肚子变大腹中取出寄生胎",
+        "onboard_time": 1725442581,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165327,
+        "num": 165327,
+        "word": "你们拍短剧真的能忍",
+        "onboard_time": 1725436041,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 6411,
+        "num": 160926,
+        "word": "这届大学生流行新潮复古风",
+        "onboard_time": 1725442399,
+        "rank": 43,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 160167,
+        "num": 160167,
+        "word": "李诞直播切片",
+        "onboard_time": 1725439221,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159714,
+        "num": 159714,
+        "word": "专家称不要刚上大学就有就业压力",
+        "onboard_time": 1725439821,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159882,
+        "num": 159485,
+        "word": "蟹太太客服称给辛选和三只羊货源相同",
+        "onboard_time": 1725437600,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 158725,
+        "num": 158725,
+        "word": "梁王婉拒了你的比耶",
+        "onboard_time": 1725442520,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158038,
+        "num": 158038,
+        "word": "谢美蓝沈磊终于离婚了",
+        "onboard_time": 1725439582,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155219,
+        "num": 155219,
+        "word": "华为三折叠",
+        "onboard_time": 1725426141,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平引经据典谈中非#"
+    }
+  }
+}
