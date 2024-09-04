@@ -1,6 +1,6 @@
 {
   "startTime": 1725380864855,
-  "endTime": 1725456415463,
+  "endTime": 1725457136339,
   "band_list": [
     {
       "raw_hot": 3212432,
@@ -179,8 +179,16 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1443276,
+      "num": 1443276,
+      "word": "辛巴称播了7年该离开这行业了",
+      "onboard_time": 1725454759,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1382316,
-      "num": 343945,
+      "num": 422608,
       "word": "5月龄女婴肚子变大腹中取出寄生胎",
       "onboard_time": 1725442581,
       "rank": 41,
@@ -193,14 +201,6 @@
       "onboard_time": 1725414617,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1301038,
-      "num": 1301038,
-      "word": "辛巴称播了7年该离开这行业了",
-      "onboard_time": 1725454759,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 1285427,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 885685,
-      "num": 331939,
+      "num": 355371,
       "word": "20岁小伙只喝奶茶饮料成牛奶血",
       "onboard_time": 1725445942,
       "rank": 17,
@@ -419,6 +419,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 747445,
+      "num": 973268,
+      "word": "女子给民警送锦旗民警反送一副手铐",
+      "onboard_time": 1725453141,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 740949,
       "num": 740949,
       "word": "蔡徐坤 小红帽",
@@ -441,6 +449,14 @@
       "onboard_time": 1725408860,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 720728,
+      "num": 720728,
+      "word": "辛巴将安排1亿元赔付三只羊消费者",
+      "onboard_time": 1725455483,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 715528,
@@ -473,14 +489,6 @@
       "onboard_time": 1725424340,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 679816,
-      "num": 973268,
-      "word": "女子给民警送锦旗民警反送一副手铐",
-      "onboard_time": 1725453141,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 674560,
@@ -643,6 +651,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 499247,
+      "num": 499247,
+      "word": "谢瑜新头像",
+      "onboard_time": 1725454039,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 499057,
       "num": 399439,
       "word": "素颜进组的迪丽热巴",
@@ -739,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 439165,
+      "num": 439165,
+      "word": "王昶 已经开始了啊",
+      "onboard_time": 1725455842,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 436046,
       "num": 436046,
       "word": "我竟然向陈奕迅卖烤肠",
@@ -763,8 +787,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 398273,
-      "num": 343336,
+      "raw_hot": 416479,
+      "num": 416479,
       "word": "章若楠这段不像演的",
       "onboard_time": 1725451220,
       "rank": 25,
@@ -780,7 +804,7 @@
     },
     {
       "raw_hot": 395606,
-      "num": 334625,
+      "num": 391885,
       "word": "蔡依林两年吃了二百多道菜",
       "onboard_time": 1725452960,
       "rank": 34,
@@ -793,14 +817,6 @@
       "onboard_time": 1725367220,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 387550,
-      "num": 387550,
-      "word": "谢瑜新头像",
-      "onboard_time": 1725454039,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 384924,
@@ -859,14 +875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 344885,
-      "num": 344885,
-      "word": "辛巴将安排1亿元赔付三只羊消费者",
-      "onboard_time": 1725455483,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 340899,
       "num": 340899,
       "word": "三只羊卢文庆回应争议",
@@ -923,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 315072,
+      "num": 315072,
+      "word": "女生boss直聘找工作疑被要求陪睡",
+      "onboard_time": 1725455182,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310331,
       "num": 163914,
       "word": "碾压骑行孩童司机以过失致死罪被捕",
@@ -937,14 +953,6 @@
       "onboard_time": 1725430580,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 295484,
-      "num": 237757,
-      "word": "王昶 已经开始了啊",
-      "onboard_time": 1725455842,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 294448,
@@ -971,20 +979,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 288967,
+      "num": 288967,
+      "word": "张峻豪晒乌云",
+      "onboard_time": 1725455542,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287161,
       "num": 287161,
       "word": "小杨哥曾说要赚外国人的钱",
       "onboard_time": 1725420081,
       "rank": 38,
       "category": "网红,互联网"
-    },
-    {
-      "raw_hot": 286507,
-      "num": 286507,
-      "word": "张峻豪晒乌云",
-      "onboard_time": 1725455542,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 283064,
@@ -1097,14 +1105,6 @@
       "onboard_time": 1725376882,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 254327,
-      "num": 254327,
-      "word": "女生boss直聘找工作疑被要求陪睡",
-      "onboard_time": 1725455182,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 252320,
@@ -1235,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231272,
+      "num": 231272,
+      "word": "白鹿一穿红衣准要虐",
+      "onboard_time": 1725455061,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230210,
       "num": 626717,
       "word": "原来熊猫宝宝睡觉也要盖肚脐",
@@ -1257,6 +1265,14 @@
       "onboard_time": 1725379218,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224140,
+      "num": 224140,
+      "word": "郑钦文需排进前七才能入围总决赛",
+      "onboard_time": 1725453559,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 222462,
@@ -1323,14 +1339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206388,
-      "num": 206388,
-      "word": "白鹿一穿红衣准要虐",
-      "onboard_time": 1725455061,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 206138,
       "num": 206138,
       "word": "TOP登陆少年或参加中秋晚会",
@@ -1353,14 +1361,6 @@
       "onboard_time": 1725453862,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 202108,
-      "num": 202108,
-      "word": "郑钦文需排进前七才能入围总决赛",
-      "onboard_time": 1725453559,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 200727,
@@ -1507,6 +1507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188842,
+      "num": 188842,
+      "word": "王源太湖湾音乐节官宣",
+      "onboard_time": 1725456861,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 188481,
       "num": 188481,
       "word": "膝盖的形状和脸型口型一样",
@@ -1537,6 +1545,22 @@
       "onboard_time": 1725444799,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 187335,
+      "num": 187335,
+      "word": "携程 饭呢",
+      "onboard_time": 1725456381,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 187255,
+      "num": 187255,
+      "word": "陈昊宇说不要羡慕这是我的",
+      "onboard_time": 1725456861,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 187024,
@@ -1585,6 +1609,14 @@
       "onboard_time": 1725411621,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 182453,
+      "num": 599358,
+      "word": "房子在软装 何广智在硬装",
+      "onboard_time": 1725454341,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 181283,
@@ -1665,14 +1697,6 @@
       "onboard_time": 1725402554,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176913,
-      "num": 599358,
-      "word": "房子在软装 何广智在硬装",
-      "onboard_time": 1725454341,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 175842,
@@ -2043,6 +2067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 155818,
+      "num": 155818,
+      "word": "三只羊和小杨哥都在掉粉",
+      "onboard_time": 1725456502,
+      "rank": 45,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 154394,
       "num": 154394,
       "word": "彭昱畅侯明昊时隔七年再次合作",
@@ -2116,7 +2148,7 @@
     },
     {
       "raw_hot": 147588,
-      "num": 147588,
+      "num": 648530,
       "word": "55岁阿姨3个月减肥40斤重启人生",
       "onboard_time": 1725455061,
       "rank": 46,
@@ -2185,14 +2217,6 @@
       "onboard_time": 1725409401,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140681,
-      "num": 140681,
-      "word": "携程 饭呢",
-      "onboard_time": 1725456381,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 140378,
@@ -2667,6 +2691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 59456,
+      "num": 1267905,
+      "word": "中国制造在加纳受欢迎程度",
+      "onboard_time": 1725455483,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 59268,
       "num": 59268,
       "word": "王源你的罗伯特来了",
@@ -2779,14 +2811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43120,
-      "num": 1267905,
-      "word": "中国制造在加纳受欢迎程度",
-      "onboard_time": 1725455483,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 42985,
       "num": 1639017,
       "word": "开辟中非关系更加壮丽的前景",
@@ -2851,6 +2875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36345,
+      "num": 1147732,
+      "word": "开学季传染病防范指南",
+      "onboard_time": 1725455483,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 36053,
       "num": 452044,
       "word": "互联网黄牛如何才能根治",
@@ -2899,8 +2931,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31538,
+      "num": 198759,
+      "word": "王子奇雪迷宫剧照",
+      "onboard_time": 1725453920,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 31450,
-      "num": 187913,
+      "num": 429529,
       "word": "山河纯欲风脱口秀",
       "onboard_time": 1725448940,
       "rank": 24,
@@ -2977,14 +3017,6 @@
       "onboard_time": 1725440301,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26256,
-      "num": 1147732,
-      "word": "开学季传染病防范指南",
-      "onboard_time": 1725455483,
-      "rank": 5,
-      "category": "教育"
     },
     {
       "raw_hot": 26107,
