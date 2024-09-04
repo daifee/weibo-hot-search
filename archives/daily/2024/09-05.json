@@ -1,6 +1,6 @@
 {
   "startTime": 1725467191451,
-  "endTime": 1725482284361,
+  "endTime": 1725484807224,
   "band_list": [
     {
       "raw_hot": 968438,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 21220,
-      "num": 21220,
+      "num": 39300,
       "word": "妈妈放弃事业陪孩子跨省学网球",
       "onboard_time": 1725480971,
       "rank": 46,
@@ -531,6 +531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 18718,
+      "num": 18718,
+      "word": "郭麒麟王玉雯姜佩瑶合照",
+      "onboard_time": 1725483131,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 17409,
       "num": 19214,
       "word": "脱口秀和Ta的朋友们",
@@ -545,6 +553,14 @@
       "onboard_time": 1725479411,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 15038,
+      "num": 18707,
+      "word": "半夜不同时间醒来说明什么",
+      "onboard_time": 1725484690,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 7813,
