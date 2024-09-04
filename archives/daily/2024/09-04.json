@@ -1,6 +1,6 @@
 {
   "startTime": 1725380864855,
-  "endTime": 1725414753498,
+  "endTime": 1725417852493,
   "band_list": [
     {
       "raw_hot": 2706478,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2049648,
+      "num": 2049648,
+      "word": "三只羊",
+      "onboard_time": 1725411199,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1530916,
       "num": 1530916,
       "word": "三只羊女主播沫沫已有9个月未更新",
@@ -27,11 +35,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1291946,
+      "num": 1291946,
+      "word": "董明珠谈35岁找不到工作",
+      "onboard_time": 1725414617,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1194007,
-      "num": 243288,
+      "num": 252522,
       "word": "40岁以上女性禁用紧急避孕药",
       "onboard_time": 1725373341,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1109284,
+      "num": 1109284,
+      "word": "女实习生工作抓了个逃犯",
+      "onboard_time": 1725414678,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -51,12 +75,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 909198,
-      "num": 909198,
-      "word": "三只羊",
-      "onboard_time": 1725411199,
-      "rank": 10,
-      "category": "互联网"
+      "raw_hot": 907040,
+      "num": 907040,
+      "word": "杨幂 华为",
+      "onboard_time": 1725415698,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 875988,
@@ -68,7 +92,7 @@
     },
     {
       "raw_hot": 866831,
-      "num": 238610,
+      "num": 252436,
       "word": "男孩骑行遭碾压身亡司机妻子患白血病",
       "onboard_time": 1725365420,
       "rank": 21,
@@ -100,7 +124,7 @@
     },
     {
       "raw_hot": 707474,
-      "num": 455019,
+      "num": 556985,
       "word": "散打哥 辛巴说的是真的",
       "onboard_time": 1725411681,
       "rank": 12,
@@ -121,6 +145,14 @@
       "onboard_time": 1725376401,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 615618,
+      "num": 615618,
+      "word": "女子长期吃素确诊重度贫血",
+      "onboard_time": 1725415580,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 598941,
@@ -163,6 +195,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 508579,
+      "num": 581787,
+      "word": "境外间谍盯上我国青年学生",
+      "onboard_time": 1725413899,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 478640,
+      "num": 478640,
+      "word": "iPhone16Pro对比13Pro的十大升级",
+      "onboard_time": 1725413780,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 471177,
       "num": 471177,
       "word": "现在小朋友的名字这么主角感的么",
@@ -195,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 433752,
+      "num": 433752,
+      "word": "专家称房价下跌40元咖啡都不敢喝",
+      "onboard_time": 1725416359,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 419626,
       "num": 579284,
       "word": "杨笠 这是血肉在疯长的声音",
@@ -217,6 +273,14 @@
       "onboard_time": 1725367220,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 342462,
+      "num": 252470,
+      "word": "碾压骑行男孩涉案司机律师发声",
+      "onboard_time": 1725408620,
+      "rank": 26,
+      "category": "社会负面"
     },
     {
       "raw_hot": 310331,
@@ -251,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260206,
+      "num": 260206,
+      "word": "肖央赵丽颖新片丢了孩子就像丢了魂",
+      "onboard_time": 1725412940,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 255914,
       "num": 255914,
       "word": "戴建业说35岁失业让人们不敢生育",
@@ -273,6 +345,14 @@
       "onboard_time": 1725376882,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252645,
+      "num": 252645,
+      "word": "纪委回应副局长被曝涉不雅聊天语音",
+      "onboard_time": 1725417020,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252320,
@@ -307,14 +387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 237697,
-      "num": 228097,
-      "word": "碾压骑行男孩涉案司机律师发声",
-      "onboard_time": 1725408620,
-      "rank": 26,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 231982,
       "num": 231982,
       "word": "被打男司机挨打还手算正当防卫吗",
@@ -331,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222024,
+      "num": 222024,
+      "word": "郑钦文凌晨4点半才睡",
+      "onboard_time": 1725415518,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216480,
       "num": 216480,
       "word": "68岁教授说现在的年轻人比以前难多了",
@@ -339,11 +419,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213528,
-      "num": 245184,
-      "word": "肖央赵丽颖新片丢了孩子就像丢了魂",
-      "onboard_time": 1725412940,
-      "rank": 19,
+      "raw_hot": 212559,
+      "num": 212559,
+      "word": "华为MateXT非凡大师",
+      "onboard_time": 1725416060,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 211157,
+      "num": 536817,
+      "word": "北方多地一雨成秋南方暑热依旧",
+      "onboard_time": 1725409941,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204423,
+      "num": 204423,
+      "word": "异人之下之决战碧游村首发预告",
+      "onboard_time": 1725417798,
+      "rank": 31,
       "category": "电影"
     },
     {
@@ -363,12 +459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188520,
-      "num": 188520,
-      "word": "境外间谍盯上我国青年学生",
-      "onboard_time": 1725413899,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 188032,
+      "num": 188032,
+      "word": "2023年苹果税收入四分之一来自中国",
+      "onboard_time": 1725417798,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 187024,
@@ -403,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179587,
+      "num": 179587,
+      "word": "罗永浩 俞敏洪",
+      "onboard_time": 1725414558,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 178925,
       "num": 178925,
       "word": "卫健局回应男子1天拔23颗牙后去世",
@@ -427,14 +531,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 172435,
-      "num": 536817,
-      "word": "北方多地一雨成秋南方暑热依旧",
-      "onboard_time": 1725409941,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169353,
       "num": 169353,
       "word": "A股",
@@ -451,11 +547,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165153,
-      "num": 165153,
-      "word": "女实习生工作抓了个逃犯",
-      "onboard_time": 1725414678,
-      "rank": 37,
+      "raw_hot": 166662,
+      "num": 211231,
+      "word": "李耕耘你在搞什么呀",
+      "onboard_time": 1725416718,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 164101,
+      "num": 164101,
+      "word": "赚女性钱之前请尊重女性",
+      "onboard_time": 1725417020,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -475,12 +579,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148771,
-      "num": 148771,
-      "word": "iPhone16Pro对比13Pro的十大升级",
-      "onboard_time": 1725413780,
-      "rank": 41,
-      "category": "数码"
+      "raw_hot": 146262,
+      "num": 146262,
+      "word": "全球橙汁价格大涨",
+      "onboard_time": 1725416718,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 144466,
+      "num": 225659,
+      "word": "翁青雅彭高好嗑",
+      "onboard_time": 1725412040,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 142223,
@@ -497,6 +609,14 @@
       "onboard_time": 1725409401,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140462,
+      "num": 140462,
+      "word": "台风摩羯或将于6日登陆海南",
+      "onboard_time": 1725416239,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140054,
@@ -555,20 +675,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 125908,
-      "num": 225659,
-      "word": "翁青雅彭高好嗑",
-      "onboard_time": 1725412040,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 125529,
-      "num": 125529,
-      "word": "董明珠谈35岁找不到工作",
-      "onboard_time": 1725414617,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 125029,
+      "num": 188112,
+      "word": "流水迢迢",
+      "onboard_time": 1725415818,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 121835,
@@ -619,14 +731,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 115804,
-      "num": 115804,
-      "word": "罗永浩 俞敏洪",
-      "onboard_time": 1725414558,
-      "rank": 48,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 114742,
       "num": 120282,
       "word": "徐志胜去娱乐圈找素材了",
@@ -641,6 +745,14 @@
       "onboard_time": 1725413719,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 113523,
+      "num": 113523,
+      "word": "美网官微发文鼓励郑钦文",
+      "onboard_time": 1725417680,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 112931,
