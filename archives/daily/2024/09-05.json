@@ -1,6 +1,6 @@
 {
   "startTime": 1725467191451,
-  "endTime": 1725485718878,
+  "endTime": 1725488386383,
   "band_list": [
     {
       "raw_hot": 968438,
@@ -17,6 +17,14 @@
       "onboard_time": 1725460762,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 713853,
+      "num": 80095,
+      "word": "女子自拍40条淫秽视频倒罚1万5",
+      "onboard_time": 1725478932,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 596197,
@@ -91,14 +99,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 345923,
-      "num": 43854,
-      "word": "女子自拍40条淫秽视频倒罚1万5",
-      "onboard_time": 1725478932,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 339101,
       "num": 339101,
       "word": "30多块的牛约堡档口老鼠遍地跑",
@@ -160,6 +160,14 @@
       "word": "2女子为拍照撕掉店家门口海报",
       "onboard_time": 1725467477,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218857,
+      "num": 218857,
+      "word": "妈妈放弃事业陪孩子跨省学网球",
+      "onboard_time": 1725480971,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -427,12 +435,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 55194,
-      "num": 40709,
+      "raw_hot": 58576,
+      "num": 58576,
       "word": "小杨哥曾说辛巴永远是学习对象",
       "onboard_time": 1725473412,
       "rank": 39,
       "category": "网红,互联网"
+    },
+    {
+      "raw_hot": 52334,
+      "num": 44807,
+      "word": "半夜不同时间醒来说明什么",
+      "onboard_time": 1725484690,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 44918,
+      "num": 44918,
+      "word": "中新网评园长收学生6元巧克力被开除",
+      "onboard_time": 1725475691,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40940,
@@ -451,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35077,
+      "num": 145244,
+      "word": "存量房贷利率不能简单一降了之",
+      "onboard_time": 1725470113,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34127,
       "num": 40229,
       "word": "一个自由职业被你搞得一身班味",
@@ -467,14 +499,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 32071,
-      "num": 145244,
-      "word": "存量房贷利率不能简单一降了之",
-      "onboard_time": 1725470113,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 29880,
       "num": 448705,
       "word": "中国制造在加纳受欢迎程度",
@@ -483,24 +507,16 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 29337,
-      "num": 40729,
-      "word": "中新网评园长收学生6元巧克力被开除",
-      "onboard_time": 1725475691,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 29850,
+      "num": 29850,
+      "word": "郭麒麟王玉雯姜佩瑶合照",
+      "onboard_time": 1725483131,
+      "rank": 47,
+      "category": "剧集"
     },
     {
-      "raw_hot": 25403,
-      "num": 44817,
-      "word": "妈妈放弃事业陪孩子跨省学网球",
-      "onboard_time": 1725480971,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24949,
-      "num": 24949,
+      "raw_hot": 27885,
+      "num": 27885,
       "word": "直击台风摩羯严重影响广东",
       "onboard_time": 1725453259,
       "rank": 24,
@@ -521,22 +537,6 @@
       "onboard_time": 1725476831,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 21123,
-      "num": 21123,
-      "word": "郭麒麟王玉雯姜佩瑶合照",
-      "onboard_time": 1725483131,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 20959,
-      "num": 20959,
-      "word": "半夜不同时间醒来说明什么",
-      "onboard_time": 1725484690,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 20503,
