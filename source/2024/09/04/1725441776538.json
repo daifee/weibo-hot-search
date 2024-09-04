@@ -1,0 +1,410 @@
+{
+  "runTime": 1725441776538,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1507301,
+        "num": 1507301,
+        "word": "淘宝即将全面支持微信支付",
+        "onboard_time": 1725435440,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1478325,
+        "num": 1478325,
+        "word": "男子高铁上忍无可忍怒怼后座家长",
+        "onboard_time": 1725437840,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25389,
+        "num": 1293683,
+        "word": "2024年中非合作论坛峰会",
+        "onboard_time": 1725423802,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1122674,
+        "num": 1122674,
+        "word": "大哥靠5000万枚变蛋买三套房爆改人生",
+        "onboard_time": 1725438799,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1095817,
+        "num": 1095817,
+        "word": "干巴大叔去世",
+        "onboard_time": 1725431180,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 39413,
+        "num": 970928,
+        "word": "用丰收的颜色打开秋天",
+        "onboard_time": 1725436820,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 910304,
+        "num": 910304,
+        "word": "安以轩在老公被逮捕后露面",
+        "onboard_time": 1725437541,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 801183,
+        "num": 801183,
+        "word": "行人闯红灯致电动车主摔倒被轧身亡",
+        "onboard_time": 1725439459,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572851,
+        "num": 572851,
+        "word": "特朗普称胜选将公开萝莉岛客户名单",
+        "onboard_time": 1725441738,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 477796,
+        "num": 477796,
+        "word": "健身房偶遇樊振东",
+        "onboard_time": 1725435560,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 407402,
+        "num": 407402,
+        "word": "乌克兰驻日大使拜鬼",
+        "onboard_time": 1725418520,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 398524,
+        "num": 398524,
+        "word": "袁隆平墓前有一碗非洲农民的大米",
+        "onboard_time": 1725433339,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385409,
+        "num": 385409,
+        "word": "蓝盈莹 分手会疯狂报班",
+        "onboard_time": 1725429738,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199992,
+        "num": 382604,
+        "word": "88VIP称正分批邀商家开通微信支付",
+        "onboard_time": 1725441441,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67848,
+        "num": 382002,
+        "word": "专家称95后00后吃穿消费高峰已过",
+        "onboard_time": 1725441022,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381561,
+        "num": 381561,
+        "word": "60岁知名华裔科学家吴瑛自杀",
+        "onboard_time": 1725430218,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380925,
+        "num": 380925,
+        "word": "时代峰峻新厂牌",
+        "onboard_time": 1725436221,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374284,
+        "num": 374284,
+        "word": "黄雅莉儿子还没满月就出来上班了",
+        "onboard_time": 1725433581,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25204,
+        "num": 367552,
+        "word": "深圳一公寓单价7.5万降至3.8万每平",
+        "onboard_time": 1725420979,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31345,
+        "num": 363313,
+        "word": "校外托管市场为啥这么火",
+        "onboard_time": 1725440660,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1427111,
+        "num": 362714,
+        "word": "k总 退网",
+        "onboard_time": 1725430820,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 361524,
+        "num": 361524,
+        "word": "原来妊娠纹能在电影中出现",
+        "onboard_time": 1725426201,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17696,
+        "num": 310116,
+        "word": "于正否认新签艺人",
+        "onboard_time": 1725440600,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302267,
+        "num": 302267,
+        "word": "陈好 压迫感",
+        "onboard_time": 1725431902,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280088,
+        "num": 280088,
+        "word": "白化病女儿入学家长群的回复泪奔了",
+        "onboard_time": 1725436584,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241726,
+        "num": 241726,
+        "word": "因拒饮酒被男子扇耳光闺蜜劝和解",
+        "onboard_time": 1725439221,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241273,
+        "num": 241273,
+        "word": "旅客执意将长满疙瘩的脚放小桌板上",
+        "onboard_time": 1725422347,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234775,
+        "num": 236153,
+        "word": "我竟然向陈奕迅卖烤肠",
+        "onboard_time": 1725436400,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215136,
+        "num": 235275,
+        "word": "黄景瑜片场吃鸡架一吃吃半盆",
+        "onboard_time": 1725430580,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27010,
+        "num": 234935,
+        "word": "走出小县城的国产文具拿捏小学生钱包",
+        "onboard_time": 1725440301,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234817,
+        "num": 234817,
+        "word": "孕妈妈剖腹产后浑身颤抖不停",
+        "onboard_time": 1725436820,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229053,
+        "num": 229053,
+        "word": "专家称房价下跌40元咖啡都不敢喝",
+        "onboard_time": 1725416359,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223093,
+        "num": 223093,
+        "word": "iPhone16新配色",
+        "onboard_time": 1725419060,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 209181,
+        "num": 209181,
+        "word": "孙颖莎演讲为什么好评如潮",
+        "onboard_time": 1725439161,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190221,
+        "num": 190221,
+        "word": "曾志伟 三只羊",
+        "onboard_time": 1725409941,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186824,
+        "num": 186824,
+        "word": "你们拍短剧真的能忍",
+        "onboard_time": 1725436041,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186344,
+        "num": 186344,
+        "word": "金晨头发没干人先晕了",
+        "onboard_time": 1725438561,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178545,
+        "num": 178545,
+        "word": "周扬青在线辟谣没谈过6个",
+        "onboard_time": 1725438919,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174397,
+        "num": 174397,
+        "word": "上海机场偶遇赵丽颖",
+        "onboard_time": 1725441080,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169668,
+        "num": 169668,
+        "word": "3岁狗子分离焦虑把冰箱掏出大洞",
+        "onboard_time": 1725440001,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167406,
+        "num": 167406,
+        "word": "华为三折叠",
+        "onboard_time": 1725426141,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 162725,
+        "num": 162725,
+        "word": "蟹太太客服称给辛选和三只羊货源相同",
+        "onboard_time": 1725437600,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 152246,
+        "num": 152246,
+        "word": "郑钦文分析美网失利原因",
+        "onboard_time": 1725441738,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7269,
+        "num": 151960,
+        "word": "尼格买提口袋里是啥",
+        "onboard_time": 1725437241,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151709,
+        "num": 151709,
+        "word": "谢美蓝沈磊终于离婚了",
+        "onboard_time": 1725439582,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146333,
+        "num": 146333,
+        "word": "第一次看剧想把面具按回去",
+        "onboard_time": 1725440179,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143583,
+        "num": 143583,
+        "word": "深空男主MBTI",
+        "onboard_time": 1725441501,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141035,
+        "num": 141035,
+        "word": "时尚芭莎辟谣网传工作人员爆料",
+        "onboard_time": 1725441620,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139103,
+        "num": 139103,
+        "word": "李诞直播切片",
+        "onboard_time": 1725439221,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135781,
+        "num": 135781,
+        "word": "人怎么可以有种成这样",
+        "onboard_time": 1725440480,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平引经据典谈中非#"
+    }
+  }
+}
