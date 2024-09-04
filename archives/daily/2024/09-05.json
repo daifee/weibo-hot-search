@@ -1,6 +1,6 @@
 {
   "startTime": 1725467191451,
-  "endTime": 1725471530916,
+  "endTime": 1725474378086,
   "band_list": [
     {
       "raw_hot": 968438,
@@ -443,12 +443,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 30896,
+      "raw_hot": 32071,
       "num": 145244,
       "word": "存量房贷利率不能简单一降了之",
       "onboard_time": 1725470113,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32069,
+      "num": 32069,
+      "word": "小杨哥曾说辛巴永远是学习对象",
+      "onboard_time": 1725473412,
+      "rank": 39,
+      "category": "网红,互联网"
     },
     {
       "raw_hot": 29880,
@@ -457,6 +465,14 @@
       "onboard_time": 1725455483,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21572,
+      "num": 83683,
+      "word": "陶俑闺蜜手牵手千年了",
+      "onboard_time": 1725473832,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20503,
