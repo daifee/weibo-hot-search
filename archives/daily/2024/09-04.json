@@ -1,6 +1,6 @@
 {
   "startTime": 1725380864855,
-  "endTime": 1725446383367,
+  "endTime": 1725448669957,
   "band_list": [
     {
       "raw_hot": 2706478,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 1382316,
-      "num": 257333,
+      "num": 319112,
       "word": "5月龄女婴肚子变大腹中取出寄生胎",
       "onboard_time": 1725442581,
       "rank": 41,
@@ -169,6 +169,14 @@
       "onboard_time": 1725414617,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1285427,
+      "num": 1285427,
+      "word": "小杨哥一个月掉粉超70万",
+      "onboard_time": 1725445099,
+      "rank": 6,
+      "category": "网红"
     },
     {
       "raw_hot": 1223239,
@@ -297,14 +305,6 @@
       "onboard_time": 1725439459,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 850804,
-      "num": 850804,
-      "word": "小杨哥一个月掉粉超70万",
-      "onboard_time": 1725445099,
-      "rank": 6,
-      "category": "网红"
     },
     {
       "raw_hot": 845482,
@@ -443,6 +443,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 598134,
+      "num": 598134,
+      "word": "蔡徐坤 小红帽",
+      "onboard_time": 1725446120,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 592504,
+      "num": 592504,
+      "word": "中学反欺凌承诺书要求不拍照不录像",
+      "onboard_time": 1725442821,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 585145,
       "num": 585145,
       "word": "青岛警方通报王某驾车逆行殴打他人案",
@@ -523,6 +539,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 499057,
+      "num": 399439,
+      "word": "素颜进组的迪丽热巴",
+      "onboard_time": 1725444739,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 486834,
       "num": 486834,
       "word": "魏哲鸣 怎么不等我手断了再说",
@@ -553,6 +577,14 @@
       "onboard_time": 1725361732,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 464532,
+      "num": 349515,
+      "word": "摇裤危机",
+      "onboard_time": 1725445219,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 460166,
@@ -593,6 +625,14 @@
       "onboard_time": 1725436400,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 435753,
+      "num": 313959,
+      "word": "20岁小伙只喝奶茶饮料成牛奶血",
+      "onboard_time": 1725445942,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429036,
@@ -667,6 +707,38 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 352645,
+      "num": 352645,
+      "word": "安徽一农商银行突发持刀伤人事件",
+      "onboard_time": 1725445640,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 349763,
+      "num": 327018,
+      "word": "陈好 你们是我带过的最差的一届",
+      "onboard_time": 1725447320,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 337702,
+      "num": 309126,
+      "word": "韩素希已与母亲断绝关系",
+      "onboard_time": 1725444500,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 327994,
+      "num": 327994,
+      "word": "淘宝正分批邀请商家开通微信支付",
+      "onboard_time": 1725441441,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327448,
       "num": 494229,
       "word": "西游记剧组不养闲人",
@@ -691,14 +763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 317966,
-      "num": 317966,
-      "word": "素颜进组的迪丽热巴",
-      "onboard_time": 1725444739,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 310331,
       "num": 163914,
       "word": "碾压骑行孩童司机以过失致死罪被捕",
@@ -721,14 +785,6 @@
       "onboard_time": 1725418938,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 292976,
-      "num": 292976,
-      "word": "韩素希已与母亲断绝关系",
-      "onboard_time": 1725444500,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 289833,
@@ -761,6 +817,14 @@
       "onboard_time": 1725418938,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281889,
+      "num": 281889,
+      "word": "白月梵星",
+      "onboard_time": 1725447859,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 280088,
@@ -899,22 +963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 241746,
-      "num": 241746,
-      "word": "中学反欺凌承诺书要求不拍照不录像",
-      "onboard_time": 1725442821,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241248,
-      "num": 215752,
-      "word": "蔡徐坤 小红帽",
-      "onboard_time": 1725446120,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 239598,
       "num": 239598,
       "word": "东北冻梨已经进化到这种程度了",
@@ -1001,6 +1049,14 @@
       "onboard_time": 1725379218,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220792,
+      "num": 322006,
+      "word": "医生提醒出现腿疼脚疼要重视",
+      "onboard_time": 1725447140,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 217201,
@@ -1203,6 +1259,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 188197,
+      "num": 188197,
+      "word": "第一次带猫去医院被医生笑了",
+      "onboard_time": 1725446480,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 188032,
       "num": 188032,
       "word": "2023年苹果税收入四分之一来自中国",
@@ -1315,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177589,
+      "num": 177589,
+      "word": "卢昱晓美式黑皮辣妹妆",
+      "onboard_time": 1725447920,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 177578,
       "num": 177578,
       "word": "上海机场偶遇赵丽颖",
@@ -1353,14 +1425,6 @@
       "onboard_time": 1725441620,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175352,
-      "num": 175352,
-      "word": "摇裤危机",
-      "onboard_time": 1725445219,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 174685,
@@ -1417,14 +1481,6 @@
       "onboard_time": 1725443662,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 169908,
-      "num": 169908,
-      "word": "安徽一农商银行突发持刀伤人事件",
-      "onboard_time": 1725445640,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169668,
@@ -1715,12 +1771,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149404,
+      "num": 149404,
+      "word": "海鲜主厨称被挖走后隔天就被辞退",
+      "onboard_time": 1725447739,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149360,
       "num": 397969,
       "word": "莲花楼中秋夜活动",
       "onboard_time": 1725431840,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148857,
+      "num": 283876,
+      "word": "工人高空作业熊孩子在下面摇安全绳",
+      "onboard_time": 1725444680,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148144,
@@ -1827,6 +1899,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 133322,
+      "num": 133322,
+      "word": "沫沫好友发声",
+      "onboard_time": 1725448339,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 132485,
       "num": 132485,
       "word": "饿瘦和运动瘦哪个效果更好",
@@ -1851,6 +1931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132265,
+      "num": 132265,
+      "word": "曾志伟回应与三只羊公司争议",
+      "onboard_time": 1725448459,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130369,
       "num": 216242,
       "word": "流水迢迢",
@@ -1859,12 +1947,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129085,
+      "num": 129085,
+      "word": "边水往事 勃磨语",
+      "onboard_time": 1725446419,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 128650,
+      "num": 128650,
+      "word": "袁娅维又cue宋亚轩了",
+      "onboard_time": 1725448399,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 127878,
       "num": 127878,
       "word": "突然从退伍接站变成了爱豆接机",
       "onboard_time": 1725408380,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125368,
+      "num": 125368,
+      "word": "女排前国手爆改上海老破小给父母养老",
+      "onboard_time": 1725447440,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122613,
+      "num": 122613,
+      "word": "中国U18男篮绝杀日本",
+      "onboard_time": 1725446539,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 121835,
@@ -1915,20 +2035,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116591,
-      "num": 244413,
-      "word": "20岁小伙只喝奶茶饮料成牛奶血",
-      "onboard_time": 1725445942,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 116546,
       "num": 116546,
       "word": "妈妈比死神先到一步",
       "onboard_time": 1725405196,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115027,
+      "num": 115027,
+      "word": "官方回应建议中小学教室装空调",
+      "onboard_time": 1725447020,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114742,
@@ -2147,11 +2267,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 72613,
-      "num": 283876,
-      "word": "工人高空作业熊孩子在下面摇安全绳",
-      "onboard_time": 1725444680,
+      "raw_hot": 72380,
+      "num": 341856,
+      "word": "6个月网购106部手机均申请退货",
+      "onboard_time": 1725447739,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69571,
+      "num": 352034,
+      "word": "魔芋火了有企业一年卖超10个亿",
+      "onboard_time": 1725447739,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
