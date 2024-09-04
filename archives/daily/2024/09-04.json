@@ -1,10 +1,10 @@
 {
   "startTime": 1725380864855,
-  "endTime": 1725454606659,
+  "endTime": 1725456415463,
   "band_list": [
     {
-      "raw_hot": 2786378,
-      "num": 2786378,
+      "raw_hot": 3212432,
+      "num": 3212432,
       "word": "余宇涵报警",
       "onboard_time": 1725451940,
       "rank": 0,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1531679,
+      "num": 1100628,
+      "word": "余宇涵回应聊天记录",
+      "onboard_time": 1725453680,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1530916,
       "num": 1530916,
       "word": "三只羊女主播沫沫已有9个月未更新",
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 1382316,
-      "num": 319112,
+      "num": 343945,
       "word": "5月龄女婴肚子变大腹中取出寄生胎",
       "onboard_time": 1725442581,
       "rank": 41,
@@ -187,12 +195,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1295270,
-      "num": 533663,
-      "word": "余宇涵回应聊天记录",
-      "onboard_time": 1725453680,
-      "rank": 5,
-      "category": "艺人"
+      "raw_hot": 1301038,
+      "num": 1301038,
+      "word": "辛巴称播了7年该离开这行业了",
+      "onboard_time": 1725454759,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 1285427,
@@ -209,6 +217,14 @@
       "onboard_time": 1725438799,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1202073,
+      "num": 1202073,
+      "word": "马龙王楚钦买的月饼被车碾了",
+      "onboard_time": 1725454821,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1194007,
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 1066689,
-      "num": 300136,
+      "num": 809112,
       "word": "女生吃粉监控画面被店主发群聊开黄腔",
       "onboard_time": 1725450859,
       "rank": 10,
@@ -316,7 +332,7 @@
     },
     {
       "raw_hot": 885685,
-      "num": 313959,
+      "num": 331939,
       "word": "20岁小伙只喝奶茶饮料成牛奶血",
       "onboard_time": 1725445942,
       "rank": 17,
@@ -377,6 +393,14 @@
       "onboard_time": 1725426141,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 754258,
+      "num": 915926,
+      "word": "台风",
+      "onboard_time": 1725448699,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 753694,
@@ -451,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 679816,
+      "num": 973268,
+      "word": "女子给民警送锦旗民警反送一副手铐",
+      "onboard_time": 1725453141,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 674560,
       "num": 674560,
       "word": "6个月网购106部手机均申请退货",
@@ -468,19 +500,11 @@
     },
     {
       "raw_hot": 656535,
-      "num": 289210,
+      "num": 587954,
       "word": "时代峰峻发布余宇涵事件后续声明",
       "onboard_time": 1725453080,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 652265,
-      "num": 652265,
-      "word": "台风",
-      "onboard_time": 1725448699,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 634006,
@@ -579,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 533963,
+      "num": 533963,
+      "word": "IVE未公开新歌SupernovaLove",
+      "onboard_time": 1725455301,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 518656,
       "num": 426168,
       "word": "郑钦文美网收获430积分375万奖金",
@@ -675,20 +707,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 456630,
+      "num": 456630,
+      "word": "徐娇泳装写真",
+      "onboard_time": 1725450919,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 453666,
       "num": 453666,
       "word": "这居然是秦俊杰",
       "onboard_time": 1725369980,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 450598,
-      "num": 405398,
-      "word": "徐娇泳装写真",
-      "onboard_time": 1725450919,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 449407,
@@ -731,11 +763,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 398273,
+      "num": 343336,
+      "word": "章若楠这段不像演的",
+      "onboard_time": 1725451220,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 396292,
       "num": 396292,
       "word": "芭莎爆料 四位女艺人",
       "onboard_time": 1725353361,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 395606,
+      "num": 334625,
+      "word": "蔡依林两年吃了二百多道菜",
+      "onboard_time": 1725452960,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -745,6 +793,14 @@
       "onboard_time": 1725367220,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387550,
+      "num": 387550,
+      "word": "谢瑜新头像",
+      "onboard_time": 1725454039,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 384924,
@@ -761,14 +817,6 @@
       "onboard_time": 1725436221,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 369620,
-      "num": 273551,
-      "word": "章若楠这段不像演的",
-      "onboard_time": 1725451220,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 364311,
@@ -811,6 +859,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344885,
+      "num": 344885,
+      "word": "辛巴将安排1亿元赔付三只羊消费者",
+      "onboard_time": 1725455483,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 340899,
+      "num": 340899,
+      "word": "三只羊卢文庆回应争议",
+      "onboard_time": 1725454701,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 337702,
       "num": 309126,
       "word": "韩素希已与母亲断绝关系",
@@ -836,7 +900,7 @@
     },
     {
       "raw_hot": 322237,
-      "num": 198731,
+      "num": 284655,
       "word": "迪丽热巴慕胥辞路透",
       "onboard_time": 1725452541,
       "rank": 26,
@@ -859,14 +923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 311253,
-      "num": 311253,
-      "word": "女子给民警送锦旗民警反送一副手铐",
-      "onboard_time": 1725453141,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 310331,
       "num": 163914,
       "word": "碾压骑行孩童司机以过失致死罪被捕",
@@ -883,12 +939,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 298743,
-      "num": 198134,
-      "word": "蔡依林两年吃了二百多道菜",
-      "onboard_time": 1725452960,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 295484,
+      "num": 237757,
+      "word": "王昶 已经开始了啊",
+      "onboard_time": 1725455842,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 294448,
@@ -921,6 +977,14 @@
       "onboard_time": 1725420081,
       "rank": 38,
       "category": "网红,互联网"
+    },
+    {
+      "raw_hot": 286507,
+      "num": 286507,
+      "word": "张峻豪晒乌云",
+      "onboard_time": 1725455542,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 283064,
@@ -1004,7 +1068,7 @@
     },
     {
       "raw_hot": 258801,
-      "num": 195364,
+      "num": 196989,
       "word": "男孩骑行身亡案司机认为属交通意外",
       "onboard_time": 1725450081,
       "rank": 27,
@@ -1033,6 +1097,14 @@
       "onboard_time": 1725376882,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254327,
+      "num": 254327,
+      "word": "女生boss直聘找工作疑被要求陪睡",
+      "onboard_time": 1725455182,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252320,
@@ -1251,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206388,
+      "num": 206388,
+      "word": "白鹿一穿红衣准要虐",
+      "onboard_time": 1725455061,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206138,
       "num": 206138,
       "word": "TOP登陆少年或参加中秋晚会",
@@ -1273,6 +1353,14 @@
       "onboard_time": 1725453862,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202108,
+      "num": 202108,
+      "word": "郑钦文需排进前七才能入围总决赛",
+      "onboard_time": 1725453559,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 200727,
@@ -1369,14 +1457,6 @@
       "onboard_time": 1725372803,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192998,
-      "num": 192998,
-      "word": "谢瑜新头像",
-      "onboard_time": 1725454039,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 192991,
@@ -1547,6 +1627,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178625,
+      "num": 178625,
+      "word": "3岁幼童遭虐待进ICU生父女友被刑拘",
+      "onboard_time": 1725449959,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178594,
+      "num": 178594,
+      "word": "王一珩直播",
+      "onboard_time": 1725454759,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178545,
       "num": 178545,
       "word": "周扬青在线辟谣没谈过6个",
@@ -1569,6 +1665,14 @@
       "onboard_time": 1725402554,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176913,
+      "num": 599358,
+      "word": "房子在软装 何广智在硬装",
+      "onboard_time": 1725454341,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 175842,
@@ -1632,14 +1736,6 @@
       "word": "中年后我成了没有朋友的人",
       "onboard_time": 1725420379,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170434,
-      "num": 170434,
-      "word": "3岁幼童遭虐待进ICU生父女友被刑拘",
-      "onboard_time": 1725449959,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1812,7 +1908,7 @@
     },
     {
       "raw_hot": 162279,
-      "num": 162279,
+      "num": 1083965,
       "word": "曾志伟回应与三只羊公司争议",
       "onboard_time": 1725448459,
       "rank": 42,
@@ -2019,6 +2115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147588,
+      "num": 147588,
+      "word": "55岁阿姨3个月减肥40斤重启人生",
+      "onboard_time": 1725455061,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146333,
       "num": 146333,
       "word": "第一次看剧想把面具按回去",
@@ -2067,12 +2171,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141035,
+      "num": 302448,
+      "word": "直击台风摩羯严重影响广东",
+      "onboard_time": 1725453259,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141020,
       "num": 141020,
       "word": "费德勒观战郑钦文",
       "onboard_time": 1725409401,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140681,
+      "num": 140681,
+      "word": "携程 饭呢",
+      "onboard_time": 1725456381,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 140378,
@@ -2129,14 +2249,6 @@
       "onboard_time": 1725432199,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136581,
-      "num": 136581,
-      "word": "郑钦文需排进前七才能入围总决赛",
-      "onboard_time": 1725453559,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 135781,
@@ -2217,14 +2329,6 @@
       "onboard_time": 1725451758,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125079,
-      "num": 125079,
-      "word": "房子在软装 何广智在硬装",
-      "onboard_time": 1725454341,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 122613,
@@ -2523,14 +2627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68369,
-      "num": 302448,
-      "word": "直击台风摩羯严重影响广东",
-      "onboard_time": 1725453259,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 68032,
       "num": 325809,
       "word": "买齐一套书皮要花三四十元",
@@ -2681,6 +2777,14 @@
       "onboard_time": 1725382336,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43120,
+      "num": 1267905,
+      "word": "中国制造在加纳受欢迎程度",
+      "onboard_time": 1725455483,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 42985,
@@ -2875,6 +2979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26256,
+      "num": 1147732,
+      "word": "开学季传染病防范指南",
+      "onboard_time": 1725455483,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 26107,
       "num": 1476679,
       "word": "2024年中非合作论坛峰会",
@@ -3007,6 +3119,9 @@
     },
     {
       "word": "#习近平引经据典谈中非#"
+    },
+    {
+      "word": "#习近平和夫人举行宴会欢迎国际贵宾#"
     }
   ]
 }
