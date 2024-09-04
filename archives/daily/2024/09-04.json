@@ -1,6 +1,6 @@
 {
   "startTime": 1725380864855,
-  "endTime": 1725435371608,
+  "endTime": 1725438357080,
   "band_list": [
     {
       "raw_hot": 2706478,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1677796,
+      "num": 1062300,
+      "word": "江苏师范大学食堂打人",
+      "onboard_time": 1725432920,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1530916,
       "num": 1530916,
       "word": "三只羊女主播沫沫已有9个月未更新",
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1150176,
+      "num": 1150176,
+      "word": "淘宝即将全面支持微信支付",
+      "onboard_time": 1725435440,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1147655,
       "num": 1147655,
       "word": "蓝盈莹 分手会疯狂报班",
@@ -144,14 +160,6 @@
       "word": "女实习生工作抓了个逃犯",
       "onboard_time": 1725414678,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1062300,
-      "num": 1062300,
-      "word": "江苏师范大学食堂打人",
-      "onboard_time": 1725432920,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -185,6 +193,14 @@
       "onboard_time": 1725409520,
       "rank": 4,
       "category": "数码"
+    },
+    {
+      "raw_hot": 988998,
+      "num": 988998,
+      "word": "袁隆平墓前有一碗非洲农民的大米",
+      "onboard_time": 1725433339,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 962876,
@@ -267,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 715528,
+      "num": 715528,
+      "word": "黄雅莉儿子还没满月就出来上班了",
+      "onboard_time": 1725433581,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 707474,
       "num": 556985,
       "word": "散打哥 辛巴说的是真的",
@@ -347,12 +371,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 584811,
-      "num": 584811,
-      "word": "黄雅莉儿子还没满月就出来上班了",
-      "onboard_time": 1725433581,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 549857,
+      "num": 549857,
+      "word": "健身房偶遇樊振东",
+      "onboard_time": 1725435560,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 547119,
@@ -459,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 435582,
+      "num": 435582,
+      "word": "安以轩在老公被逮捕后露面",
+      "onboard_time": 1725437541,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 429036,
       "num": 498282,
       "word": "aespa和EXO起诉脱粉收容所",
@@ -491,12 +523,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 388128,
-      "num": 388128,
-      "word": "袁隆平墓前有一碗非洲农民的大米",
-      "onboard_time": 1725433339,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 385789,
+      "num": 385789,
+      "word": "我竟然向陈奕迅卖烤肠",
+      "onboard_time": 1725436400,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 384924,
@@ -531,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 347497,
+      "num": 347497,
+      "word": "时代峰峻新厂牌",
+      "onboard_time": 1725436221,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 327448,
       "num": 494229,
       "word": "西游记剧组不养闲人",
@@ -553,6 +593,14 @@
       "onboard_time": 1725363620,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304713,
+      "num": 304713,
+      "word": "黄景瑜片场吃鸡架一吃吃半盆",
+      "onboard_time": 1725430580,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 294448,
@@ -595,12 +643,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 278613,
-      "num": 278613,
-      "word": "黄景瑜片场吃鸡架一吃吃半盆",
-      "onboard_time": 1725430580,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 278555,
+      "num": 278555,
+      "word": "孕妈妈剖腹产后浑身颤抖不停",
+      "onboard_time": 1725436820,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274536,
@@ -843,6 +891,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204988,
+      "num": 204988,
+      "word": "男子高铁上忍无可忍怒怼后座家长",
+      "onboard_time": 1725437840,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201888,
+      "num": 388989,
+      "word": "两百多名车主购新车后无法上牌",
+      "onboard_time": 1725433401,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200727,
       "num": 200727,
       "word": "非洲记者谈孙颖莎基普乔格代表大洲",
@@ -915,6 +979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191208,
+      "num": 191208,
+      "word": "你们拍短剧真的能忍",
+      "onboard_time": 1725436041,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189525,
       "num": 189525,
       "word": "绝区零",
@@ -977,6 +1049,14 @@
       "onboard_time": 1725411621,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 181283,
+      "num": 181283,
+      "word": "TF ING",
+      "onboard_time": 1725435140,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 179845,
@@ -1059,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170392,
+      "num": 170392,
+      "word": "淘宝回应全面接入微信支付",
+      "onboard_time": 1725436460,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 169353,
       "num": 169353,
       "word": "A股",
@@ -1139,6 +1227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 165846,
+      "num": 165846,
+      "word": "蟹太太客服称给辛选和三只羊货源相同",
+      "onboard_time": 1725437600,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 165711,
       "num": 165711,
       "word": "下一战歌手官宣汪峰凡希亚",
@@ -1177,6 +1273,14 @@
       "onboard_time": 1725366620,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162423,
+      "num": 162423,
+      "word": "六爻 包甜的",
+      "onboard_time": 1725435800,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 162337,
@@ -1219,6 +1323,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 157805,
+      "num": 157805,
+      "word": "白化病女儿入学家长群的回复泪奔了",
+      "onboard_time": 1725436584,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157518,
       "num": 157518,
       "word": "许昕再现反手名场面",
@@ -1249,6 +1361,14 @@
       "onboard_time": 1725427340,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154544,
+      "num": 154544,
+      "word": "降低存量房贷利率能否刺激消费",
+      "onboard_time": 1725435681,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154394,
@@ -1313,14 +1433,6 @@
       "onboard_time": 1725362721,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138609,
-      "num": 138609,
-      "word": "TF ING",
-      "onboard_time": 1725435140,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 138537,
@@ -1512,14 +1624,6 @@
       "word": "追踪台风摩羯",
       "onboard_time": 1725380418,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112006,
-      "num": 388989,
-      "word": "两百多名车主购新车后无法上牌",
-      "onboard_time": 1725433401,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1715,6 +1819,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54770,
+      "num": 349946,
+      "word": "非洲这些第一背后都有中国制造身影",
+      "onboard_time": 1725437359,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 53922,
+      "num": 433329,
+      "word": "网球男孩也有冠军梦",
+      "onboard_time": 1725434060,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 53881,
+      "num": 431344,
+      "word": "袁娅维在路边打八段锦",
+      "onboard_time": 1725436160,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53872,
       "num": 53872,
       "word": "韩国翻拍那些年",
@@ -1763,20 +1891,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43883,
-      "num": 338494,
-      "word": "网球男孩也有冠军梦",
-      "onboard_time": 1725434060,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 42985,
       "num": 1639017,
       "word": "开辟中非关系更加壮丽的前景",
       "onboard_time": 1725423922,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42784,
+      "num": 164074,
+      "word": "张嘉元开学九宫格公式照",
+      "onboard_time": 1725437661,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 39195,
@@ -1788,7 +1916,7 @@
     },
     {
       "raw_hot": 39027,
-      "num": 132362,
+      "num": 366657,
       "word": "野外被困如何发出求救信号",
       "onboard_time": 1725435081,
       "rank": 47,
@@ -1801,6 +1929,22 @@
       "onboard_time": 1725383893,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 37689,
+      "num": 614125,
+      "word": "用丰收的颜色打开秋天",
+      "onboard_time": 1725436820,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36743,
+      "num": 238465,
+      "word": "尼格买提口袋里是啥",
+      "onboard_time": 1725437241,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 36053,
@@ -1867,6 +2011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29212,
+      "num": 421923,
+      "word": "广州首套房贷利率降至2字头",
+      "onboard_time": 1725436942,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28012,
       "num": 32264,
       "word": "野孩子片长127分钟",
@@ -1889,6 +2041,14 @@
       "onboard_time": 1725385453,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 22321,
+      "num": 1157989,
+      "word": "2024年中非合作论坛峰会",
+      "onboard_time": 1725423802,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21484,
@@ -1980,6 +2140,9 @@
     },
     {
       "word": "#习主席的中非时间#"
+    },
+    {
+      "word": "#习近平引经据典谈中非#"
     }
   ]
 }
