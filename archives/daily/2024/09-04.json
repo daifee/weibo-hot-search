@@ -1,6 +1,6 @@
 {
   "startTime": 1725380864855,
-  "endTime": 1725457136339,
+  "endTime": 1725459604675,
   "band_list": [
     {
       "raw_hot": 3212432,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1328760,
+      "num": 947815,
+      "word": "辛巴将安排1亿元赔付三只羊消费者",
+      "onboard_time": 1725455483,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1285427,
       "num": 1285427,
       "word": "小杨哥一个月掉粉超70万",
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 885685,
-      "num": 355371,
+      "num": 369449,
       "word": "20岁小伙只喝奶茶饮料成牛奶血",
       "onboard_time": 1725445942,
       "rank": 17,
@@ -377,6 +385,14 @@
       "onboard_time": 1725431902,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 831921,
+      "num": 831921,
+      "word": "王昶 已经开始了啊",
+      "onboard_time": 1725455842,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 783057,
@@ -449,14 +465,6 @@
       "onboard_time": 1725408860,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 720728,
-      "num": 720728,
-      "word": "辛巴将安排1亿元赔付三只羊消费者",
-      "onboard_time": 1725455483,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 715528,
@@ -667,6 +675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 496051,
+      "num": 496051,
+      "word": "三只羊卢文庆回应争议",
+      "onboard_time": 1725454701,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 486834,
       "num": 486834,
       "word": "魏哲鸣 怎么不等我手断了再说",
@@ -731,6 +747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 455881,
+      "num": 455881,
+      "word": "女生boss直聘找工作疑被要求陪睡",
+      "onboard_time": 1725455182,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453666,
       "num": 453666,
       "word": "这居然是秦俊杰",
@@ -753,14 +777,6 @@
       "onboard_time": 1725409820,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 439165,
-      "num": 439165,
-      "word": "王昶 已经开始了啊",
-      "onboard_time": 1725455842,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 436046,
@@ -819,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 386990,
+      "num": 386990,
+      "word": "奥运冠军李倩杨家玉获赠住房",
+      "onboard_time": 1725458241,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 384924,
       "num": 384924,
       "word": "那些从不痛经的女生到底有什么不一样",
@@ -875,14 +899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 340899,
-      "num": 340899,
-      "word": "三只羊卢文庆回应争议",
-      "onboard_time": 1725454701,
-      "rank": 23,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 337702,
       "num": 309126,
       "word": "韩素希已与母亲断绝关系",
@@ -905,6 +921,14 @@
       "onboard_time": 1725418158,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 326482,
+      "num": 648530,
+      "word": "55岁阿姨3个月减肥40斤重启人生",
+      "onboard_time": 1725455061,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322237,
@@ -931,20 +955,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 315072,
-      "num": 315072,
-      "word": "女生boss直聘找工作疑被要求陪睡",
-      "onboard_time": 1725455182,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 310331,
       "num": 163914,
       "word": "碾压骑行孩童司机以过失致死罪被捕",
       "onboard_time": 1725363620,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305718,
+      "num": 305718,
+      "word": "携程 饭呢",
+      "onboard_time": 1725456381,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 304713,
@@ -1065,6 +1089,14 @@
       "onboard_time": 1725369621,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264073,
+      "num": 264073,
+      "word": "三只羊还未收到梅菜扣肉任何处罚",
+      "onboard_time": 1725458001,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 260206,
@@ -1219,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236400,
+      "num": 236400,
+      "word": "新的文学出现了",
+      "onboard_time": 1725457701,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 232457,
       "num": 232457,
       "word": "戴荃回应丁太升",
@@ -1331,12 +1371,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209048,
+      "num": 209048,
+      "word": "黑神话悟空boss排名",
+      "onboard_time": 1725457761,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 208848,
       "num": 388989,
       "word": "两百多名车主购新车后无法上牌",
       "onboard_time": 1725433401,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208523,
+      "num": 208523,
+      "word": "张真源对接发文",
+      "onboard_time": 1725457220,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 206138,
@@ -1361,6 +1417,14 @@
       "onboard_time": 1725453862,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 201382,
+      "num": 201382,
+      "word": "江苏师大辟谣打人事件女生获保研资格",
+      "onboard_time": 1725457342,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200727,
@@ -1547,14 +1611,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 187335,
-      "num": 187335,
-      "word": "携程 饭呢",
-      "onboard_time": 1725456381,
-      "rank": 49,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 187255,
       "num": 187255,
       "word": "陈昊宇说不要羡慕这是我的",
@@ -1723,6 +1779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174965,
+      "num": 174965,
+      "word": "漫才组合",
+      "onboard_time": 1725459081,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174685,
       "num": 227278,
       "word": "李耕耘你在搞什么呀",
@@ -1875,6 +1939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165411,
+      "num": 165411,
+      "word": "花儿与少年第六季观后感",
+      "onboard_time": 1725459261,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164278,
       "num": 164278,
       "word": "苹果客服回应苹果税抽佣30%",
@@ -1889,6 +1961,14 @@
       "onboard_time": 1725430218,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163713,
+      "num": 163713,
+      "word": "蟹太太回应辛巴三只羊纠纷",
+      "onboard_time": 1725459501,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 163324,
@@ -2145,14 +2225,6 @@
       "onboard_time": 1725432859,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147588,
-      "num": 648530,
-      "word": "55岁阿姨3个月减肥40斤重启人生",
-      "onboard_time": 1725455061,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146333,
@@ -2667,6 +2739,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 64301,
+      "num": 496320,
+      "word": "猪场老板称高铁施工致千头猪死亡",
+      "onboard_time": 1725458782,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62556,
       "num": 389578,
       "word": "国产电视剧火爆非洲",
@@ -2712,6 +2792,22 @@
       "word": "全国蔬菜价格开始回落",
       "onboard_time": 1725433339,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57626,
+      "num": 634806,
+      "word": "保障教育权益是教师节最好的礼物",
+      "onboard_time": 1725458241,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56740,
+      "num": 414165,
+      "word": "骑友鳌太线骑行发现遗体身份确认",
+      "onboard_time": 1725458303,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2777,6 +2873,22 @@
       "onboard_time": 1725400872,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49358,
+      "num": 1147732,
+      "word": "开学季传染病防范指南",
+      "onboard_time": 1725455483,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 48374,
+      "num": 306557,
+      "word": "淘宝什么时候能测试到我",
+      "onboard_time": 1725458542,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 47571,
@@ -2873,14 +2985,6 @@
       "onboard_time": 1725437241,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 36345,
-      "num": 1147732,
-      "word": "开学季传染病防范指南",
-      "onboard_time": 1725455483,
-      "rank": 5,
-      "category": "教育"
     },
     {
       "raw_hot": 36053,
