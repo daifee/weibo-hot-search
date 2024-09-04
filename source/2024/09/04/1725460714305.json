@@ -1,0 +1,410 @@
+{
+  "runTime": 1725460714305,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1904891,
+        "num": 1904891,
+        "word": "余宇涵报警",
+        "onboard_time": 1725451940,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 914113,
+        "num": 914113,
+        "word": "辛巴称播了7年该离开这行业了",
+        "onboard_time": 1725454759,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 54466,
+        "num": 858715,
+        "word": "中国制造在加纳受欢迎程度",
+        "onboard_time": 1725455483,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1182805,
+        "num": 849872,
+        "word": "辛巴将安排1亿元赔付三只羊消费者",
+        "onboard_time": 1725455483,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 810047,
+        "num": 810047,
+        "word": "王梦洁官宣结婚",
+        "onboard_time": 1725448879,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 656716,
+        "num": 656716,
+        "word": "王昶 已经开始了啊",
+        "onboard_time": 1725455842,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 603260,
+        "num": 603260,
+        "word": "余宇涵回应聊天记录",
+        "onboard_time": 1725453680,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 596096,
+        "num": 596096,
+        "word": "台风",
+        "onboard_time": 1725448699,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408042,
+        "num": 408042,
+        "word": "三只羊卢文庆回应争议",
+        "onboard_time": 1725454701,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 95081,
+        "num": 403995,
+        "word": "漫才组合",
+        "onboard_time": 1725459081,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1074035,
+        "num": 400670,
+        "word": "女生boss直聘找工作疑被要求陪睡",
+        "onboard_time": 1725455182,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 975687,
+        "num": 393039,
+        "word": "马龙王楚钦买的月饼被车碾了",
+        "onboard_time": 1725454821,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 530940,
+        "num": 381634,
+        "word": "陈好 你们是我带过的最差的一届",
+        "onboard_time": 1725447320,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143028,
+        "num": 378449,
+        "word": "猪场老板称高铁施工致千头猪死亡",
+        "onboard_time": 1725458782,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 966191,
+        "num": 373618,
+        "word": "小杨哥一个月掉粉超70万",
+        "onboard_time": 1725445099,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 717075,
+        "num": 363129,
+        "word": "奥运冠军李倩杨家玉获赠住房",
+        "onboard_time": 1725458241,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 622678,
+        "num": 361268,
+        "word": "女生吃粉监控画面被店主发群聊开黄腔",
+        "onboard_time": 1725450859,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420710,
+        "num": 348349,
+        "word": "章若楠这段不像演的",
+        "onboard_time": 1725451220,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347916,
+        "num": 347916,
+        "word": "IVE未公开新歌SupernovaLove",
+        "onboard_time": 1725455301,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 299630,
+        "num": 299630,
+        "word": "蟹太太回应辛巴三只羊纠纷",
+        "onboard_time": 1725459501,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 781491,
+        "num": 298402,
+        "word": "5月龄女婴肚子变大腹中取出寄生胎",
+        "onboard_time": 1725442581,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670165,
+        "num": 297843,
+        "word": "k总 退网",
+        "onboard_time": 1725430820,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 417160,
+        "num": 297618,
+        "word": "20岁小伙只喝奶茶饮料成牛奶血",
+        "onboard_time": 1725445942,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296010,
+        "num": 296010,
+        "word": "谢瑜新头像",
+        "onboard_time": 1725454039,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288404,
+        "num": 288404,
+        "word": "余宇涵账号被3个人同时登陆",
+        "onboard_time": 1725460583,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286130,
+        "num": 286130,
+        "word": "徐娇泳装写真",
+        "onboard_time": 1725450919,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 274697,
+        "num": 274697,
+        "word": "女子给民警送锦旗民警反送一副手铐",
+        "onboard_time": 1725453141,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270138,
+        "num": 270138,
+        "word": "55岁阿姨3个月减肥40斤重启人生",
+        "onboard_time": 1725455061,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75151,
+        "num": 249290,
+        "word": "谢可寅雪迷宫打戏vlog",
+        "onboard_time": 1725460221,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113836,
+        "num": 247345,
+        "word": "保障教育权益是教师节最好的礼物",
+        "onboard_time": 1725458241,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29980,
+        "num": 246758,
+        "word": "淘宝什么时候能测试到我",
+        "onboard_time": 1725458542,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 246197,
+        "num": 246197,
+        "word": "蔡依林两年吃了二百多道菜",
+        "onboard_time": 1725452960,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244552,
+        "num": 244552,
+        "word": "携程 饭呢",
+        "onboard_time": 1725456381,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 208630,
+        "num": 208630,
+        "word": "白鹿一穿红衣准要虐",
+        "onboard_time": 1725455061,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207091,
+        "num": 207091,
+        "word": "6个月网购106部手机均申请退货",
+        "onboard_time": 1725447739,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205763,
+        "num": 205763,
+        "word": "三只羊还未收到梅菜扣肉任何处罚",
+        "onboard_time": 1725458001,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 205183,
+        "num": 205183,
+        "word": "花儿与少年第六季观后感",
+        "onboard_time": 1725459261,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203477,
+        "num": 203477,
+        "word": "新的文学出现了",
+        "onboard_time": 1725457701,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201165,
+        "num": 201165,
+        "word": "张真源对接发文",
+        "onboard_time": 1725457220,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199428,
+        "num": 199428,
+        "word": "蔡徐坤 小红帽",
+        "onboard_time": 1725446120,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195284,
+        "num": 195284,
+        "word": "张峻豪晒乌云",
+        "onboard_time": 1725455542,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187440,
+        "num": 187440,
+        "word": "迪丽热巴慕胥辞路透",
+        "onboard_time": 1725452541,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180576,
+        "num": 180576,
+        "word": "黑神话悟空boss排名",
+        "onboard_time": 1725457761,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177002,
+        "num": 177002,
+        "word": "沫沫好友发声",
+        "onboard_time": 1725448339,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 161513,
+        "num": 161513,
+        "word": "男子在两辆大货车中间骑行遭碾压身亡",
+        "onboard_time": 1725460461,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158929,
+        "num": 158929,
+        "word": "陈昊宇说不要羡慕这是我的",
+        "onboard_time": 1725456861,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154143,
+        "num": 154143,
+        "word": "梁王组合拍照前嘻嘻拍照后不嘻嘻",
+        "onboard_time": 1725460401,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152364,
+        "num": 152364,
+        "word": "江苏师大辟谣打人事件女生获保研资格",
+        "onboard_time": 1725457342,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148353,
+        "num": 148353,
+        "word": "郑钦文需排进前七才能入围总决赛",
+        "onboard_time": 1725453559,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147580,
+        "num": 147580,
+        "word": "田嘉瑞情商",
+        "onboard_time": 1725460522,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平和夫人举行宴会欢迎国际贵宾#"
+    }
+  }
+}
