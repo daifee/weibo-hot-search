@@ -1,6 +1,6 @@
 {
   "startTime": 1725380864855,
-  "endTime": 1725418444785,
+  "endTime": 1725420172365,
   "band_list": [
     {
       "raw_hot": 2706478,
@@ -11,8 +11,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2183688,
-      "num": 2183688,
+      "raw_hot": 2377520,
+      "num": 2377520,
       "word": "三只羊",
       "onboard_time": 1725411199,
       "rank": 10,
@@ -25,6 +25,14 @@
       "onboard_time": 1725409941,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1602384,
+      "num": 1602384,
+      "word": "专家称房价下跌40元咖啡都不敢喝",
+      "onboard_time": 1725416359,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1530916,
@@ -43,12 +51,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1256600,
+      "num": 1256600,
+      "word": "曾志伟 三只羊",
+      "onboard_time": 1725409941,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1194007,
-      "num": 269138,
+      "num": 450932,
       "word": "40岁以上女性禁用紧急避孕药",
       "onboard_time": 1725373341,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1148629,
+      "num": 1148629,
+      "word": "乌克兰驻日大使拜鬼",
+      "onboard_time": 1725418520,
+      "rank": 4,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1135690,
@@ -67,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1035257,
+      "num": 1035257,
+      "word": "女子长期吃素确诊重度贫血",
+      "onboard_time": 1725415580,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1011795,
       "num": 1011795,
       "word": "iPhone16定价",
@@ -76,7 +108,7 @@
     },
     {
       "raw_hot": 907040,
-      "num": 907040,
+      "num": 914303,
       "word": "杨幂 华为",
       "onboard_time": 1725415698,
       "rank": 6,
@@ -97,14 +129,6 @@
       "onboard_time": 1725365420,
       "rank": 21,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 840093,
-      "num": 840093,
-      "word": "女子长期吃素确诊重度贫血",
-      "onboard_time": 1725415580,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 752750,
@@ -129,14 +153,6 @@
       "onboard_time": 1725408860,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 709506,
-      "num": 709506,
-      "word": "专家称房价下跌40元咖啡都不敢喝",
-      "onboard_time": 1725416359,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 707474,
@@ -243,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 460166,
+      "num": 474624,
+      "word": "纪委回应副局长被曝涉不雅聊天语音",
+      "onboard_time": 1725417020,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453666,
       "num": 453666,
       "word": "这居然是秦俊杰",
@@ -257,6 +281,14 @@
       "onboard_time": 1725409820,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429036,
+      "num": 458231,
+      "word": "aespa和EXO起诉脱粉收容所",
+      "onboard_time": 1725419001,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 419626,
@@ -283,12 +315,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 330830,
-      "num": 474624,
-      "word": "纪委回应副局长被曝涉不雅聊天语音",
-      "onboard_time": 1725417020,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 363279,
+      "num": 455503,
+      "word": "异人之下之决战碧游村首发预告",
+      "onboard_time": 1725417798,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 310331,
@@ -305,6 +337,14 @@
       "onboard_time": 1725366740,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 285099,
+      "num": 285099,
+      "word": "坐火车丢了东西如何找回",
+      "onboard_time": 1725418938,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283064,
@@ -363,6 +403,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 251837,
+      "num": 453898,
+      "word": "西游记剧组不养闲人",
+      "onboard_time": 1725418158,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249589,
       "num": 249589,
       "word": "深圳台风",
@@ -385,6 +433,14 @@
       "onboard_time": 1725415518,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239350,
+      "num": 239350,
+      "word": "赚女性钱之前请尊重女性",
+      "onboard_time": 1725417020,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238601,
@@ -427,14 +483,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 211249,
-      "num": 211249,
-      "word": "赚女性钱之前请尊重女性",
-      "onboard_time": 1725417020,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211157,
       "num": 536817,
       "word": "北方多地一雨成秋南方暑热依旧",
@@ -443,12 +491,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204423,
-      "num": 269596,
-      "word": "异人之下之决战碧游村首发预告",
-      "onboard_time": 1725417798,
-      "rank": 31,
-      "category": "电影"
+      "raw_hot": 204372,
+      "num": 224599,
+      "word": "婚姻三大杀手 不上进抠门没情趣",
+      "onboard_time": 1725419961,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199516,
+      "num": 199516,
+      "word": "张欣怡",
+      "onboard_time": 1725419600,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196838,
@@ -459,12 +515,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 194292,
+      "num": 220088,
+      "word": "任嘉伦古装",
+      "onboard_time": 1725419420,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193028,
       "num": 193028,
       "word": "河南一特大诈骗案有人称遭刑讯逼供",
       "onboard_time": 1725372803,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189909,
+      "num": 182927,
+      "word": "iPhone16新配色",
+      "onboard_time": 1725419060,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 188897,
+      "num": 188897,
+      "word": "迪丽热巴学归墟礼仪花絮",
+      "onboard_time": 1725419420,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 188032,
@@ -531,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175755,
+      "num": 175755,
+      "word": "台风摩羯或将于6日登陆海南",
+      "onboard_time": 1725416239,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174685,
       "num": 227278,
       "word": "李耕耘你在搞什么呀",
@@ -547,12 +635,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 170248,
+      "num": 170248,
+      "word": "小杨哥曾说要赚外国人的钱",
+      "onboard_time": 1725420081,
+      "rank": 38,
+      "category": "网红,互联网"
+    },
+    {
       "raw_hot": 169353,
       "num": 169353,
       "word": "A股",
       "onboard_time": 1725414439,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 168179,
+      "num": 168179,
+      "word": "杨幂纯黑u领内搭",
+      "onboard_time": 1725418820,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 167314,
+      "num": 167314,
+      "word": "医院回应男子1天拔23颗牙后去世",
+      "onboard_time": 1725418938,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167180,
@@ -571,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157518,
+      "num": 157518,
+      "word": "许昕再现反手名场面",
+      "onboard_time": 1725419179,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156714,
       "num": 164749,
       "word": "造型师把张韶涵当洋娃娃养",
@@ -579,8 +699,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 146262,
-      "num": 146262,
+      "raw_hot": 156432,
+      "num": 156432,
       "word": "全球橙汁价格大涨",
       "onboard_time": 1725416718,
       "rank": 45,
@@ -609,14 +729,6 @@
       "onboard_time": 1725409401,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140462,
-      "num": 140462,
-      "word": "台风摩羯或将于6日登陆海南",
-      "onboard_time": 1725416239,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140054,
@@ -681,14 +793,6 @@
       "onboard_time": 1725408380,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 122604,
-      "num": 122604,
-      "word": "西游记剧组不养闲人",
-      "onboard_time": 1725418158,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 121835,
@@ -939,6 +1043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64603,
+      "num": 459774,
+      "word": "未成年人怀孕就诊强制报告有何意义",
+      "onboard_time": 1725418520,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60696,
       "num": 60696,
       "word": "崩溃的妈无奈的爸失控的娃",
@@ -960,6 +1072,14 @@
       "word": "买校服牛奶才办入学涉事学校被整改",
       "onboard_time": 1725389052,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55377,
+      "num": 912455,
+      "word": "她赴非洲教养鱼21年带3千学生",
+      "onboard_time": 1725418399,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1003,19 +1123,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 36053,
+      "num": 452044,
+      "word": "互联网黄牛如何才能根治",
+      "onboard_time": 1725418761,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32676,
       "num": 37114,
       "word": "让孩子课间走出教室跑跑跳跳",
       "onboard_time": 1725396071,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32395,
-      "num": 721841,
-      "word": "她赴非洲教养鱼21年带3千学生",
-      "onboard_time": 1725418399,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
