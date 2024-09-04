@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725445347132,
+  "endTime": 1725446383367,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -183,6 +183,14 @@
       "num": 1878921,
       "word": "东平佛山中学",
       "onboard_time": 1725329480,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2106568,
+      "num": 1375348,
+      "word": "江苏师大回应男生将女生打倒在地",
+      "onboard_time": 1725444080,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -569,14 +577,6 @@
       "onboard_time": 1725322880,
       "rank": 11,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1375348,
-      "num": 1375348,
-      "word": "江苏师大回应男生将女生打倒在地",
-      "onboard_time": 1725444080,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1370603,
@@ -971,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 965876,
+      "num": 1154540,
+      "word": "88VIP称正分批邀商家开通微信支付",
+      "onboard_time": 1725441441,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 962876,
       "num": 962876,
       "word": "60岁知名华裔科学家吴瑛自杀",
@@ -1211,20 +1219,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 850804,
+      "num": 850804,
+      "word": "小杨哥一个月掉粉超70万",
+      "onboard_time": 1725445099,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 845482,
       "num": 843222,
       "word": "陈好 压迫感",
       "onboard_time": 1725431902,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 844272,
-      "num": 844272,
-      "word": "88VIP称正分批邀商家开通微信支付",
-      "onboard_time": 1725441441,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 841289,
@@ -1417,6 +1425,14 @@
       "onboard_time": 1725200000,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 783057,
+      "num": 783057,
+      "word": "专家称95后00后吃穿消费高峰已过",
+      "onboard_time": 1725441022,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 781237,
@@ -2763,6 +2779,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 449407,
+      "num": 449407,
+      "word": "干巴大叔从公布确诊到离世仅1周",
+      "onboard_time": 1725443481,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 448881,
       "num": 448881,
       "word": "高铁上一对退役军人情侣火了",
@@ -2809,14 +2833,6 @@
       "onboard_time": 1725335903,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 441734,
-      "num": 441734,
-      "word": "小杨哥一个月掉粉超70万",
-      "onboard_time": 1725445099,
-      "rank": 6,
-      "category": "网红"
     },
     {
       "raw_hot": 441593,
@@ -3097,14 +3113,6 @@
       "onboard_time": 1725370761,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 385799,
-      "num": 385799,
-      "word": "专家称95后00后吃穿消费高峰已过",
-      "onboard_time": 1725441022,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 384924,
@@ -3547,6 +3555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317966,
+      "num": 317966,
+      "word": "素颜进组的迪丽热巴",
+      "onboard_time": 1725444739,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 317889,
       "num": 317889,
       "word": "电影野孩子开预售",
@@ -3707,14 +3723,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 302798,
-      "num": 302798,
-      "word": "干巴大叔从公布确诊到离世仅1周",
-      "onboard_time": 1725443481,
-      "rank": 13,
-      "category": "网红"
-    },
-    {
       "raw_hot": 302642,
       "num": 302642,
       "word": "郑钦文四大满贯奖金已有1361万保底",
@@ -3849,6 +3857,14 @@
       "onboard_time": 1725340581,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 292976,
+      "num": 292976,
+      "word": "韩素希已与母亲断绝关系",
+      "onboard_time": 1725444500,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 292973,
@@ -4363,14 +4379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254301,
-      "num": 254301,
-      "word": "韩素希已与母亲断绝关系",
-      "onboard_time": 1725444500,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 254266,
       "num": 254266,
       "word": "全红婵贴脸开大干饭哥",
@@ -4627,12 +4635,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241746,
+      "num": 241746,
+      "word": "中学反欺凌承诺书要求不拍照不录像",
+      "onboard_time": 1725442821,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241410,
       "num": 241410,
       "word": "每个中国人都该记住这一天",
       "onboard_time": 1725295996,
       "rank": 14,
       "category": "社会新闻,国内时政"
+    },
+    {
+      "raw_hot": 241248,
+      "num": 215752,
+      "word": "蔡徐坤 小红帽",
+      "onboard_time": 1725446120,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 240815,
@@ -4721,14 +4745,6 @@
       "onboard_time": 1725265099,
       "rank": 32,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 237480,
-      "num": 237480,
-      "word": "中学反欺凌承诺书要求不拍照不录像",
-      "onboard_time": 1725442821,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 237376,
@@ -5137,14 +5153,6 @@
       "onboard_time": 1725200301,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 215863,
-      "num": 237690,
-      "word": "素颜进组的迪丽热巴",
-      "onboard_time": 1725444739,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 215210,
@@ -6043,6 +6051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 192116,
+      "num": 192116,
+      "word": "樊振东和盛李豪互关了",
+      "onboard_time": 1725445099,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192020,
       "num": 192020,
       "word": "黑神话已连续四周霸榜",
@@ -6867,6 +6883,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 175352,
+      "num": 175352,
+      "word": "摇裤危机",
+      "onboard_time": 1725445219,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 175273,
       "num": 175273,
       "word": "莎头澳门首合体",
@@ -7129,6 +7153,14 @@
       "onboard_time": 1725443662,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 169908,
+      "num": 169908,
+      "word": "安徽一农商银行突发持刀伤人事件",
+      "onboard_time": 1725445640,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169670,
@@ -8435,11 +8467,11 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 144595,
-      "num": 144595,
-      "word": "樊振东和盛李豪互关了",
-      "onboard_time": 1725445099,
-      "rank": 45,
+      "raw_hot": 144666,
+      "num": 144666,
+      "word": "谢瑜约稿与樊振东合照",
+      "onboard_time": 1725446059,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -8473,14 +8505,6 @@
       "onboard_time": 1725407960,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142169,
-      "num": 142169,
-      "word": "摇裤危机",
-      "onboard_time": 1725445219,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 141812,
@@ -8537,6 +8561,14 @@
       "onboard_time": 1725443481,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140350,
+      "num": 140350,
+      "word": "铁打的边水往事第四集",
+      "onboard_time": 1725445581,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 140186,
@@ -9073,6 +9105,14 @@
       "onboard_time": 1725417619,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116591,
+      "num": 244413,
+      "word": "20岁小伙只喝奶茶饮料成牛奶血",
+      "onboard_time": 1725445942,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116546,
@@ -9705,6 +9745,14 @@
       "onboard_time": 1725267560,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72613,
+      "num": 283876,
+      "word": "工人高空作业熊孩子在下面摇安全绳",
+      "onboard_time": 1725444680,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70607,
@@ -10411,6 +10459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42383,
+      "num": 160926,
+      "word": "这届大学生流行新潮复古风",
+      "onboard_time": 1725442399,
+      "rank": 43,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 41570,
       "num": 334002,
       "word": "建议退市时补偿无辜的中小投资者",
@@ -10659,14 +10715,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 35264,
-      "num": 283876,
-      "word": "工人高空作业熊孩子在下面摇安全绳",
-      "onboard_time": 1725444680,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 34651,
       "num": 207983,
       "word": "易烊千玺王嘉尔阿玛尼活动",
@@ -10777,14 +10825,6 @@
       "onboard_time": 1725396071,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32517,
-      "num": 160926,
-      "word": "这届大学生流行新潮复古风",
-      "onboard_time": 1725442399,
-      "rank": 43,
-      "category": "时尚"
     },
     {
       "raw_hot": 32035,
