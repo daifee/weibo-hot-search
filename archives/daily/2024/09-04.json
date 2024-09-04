@@ -1,6 +1,6 @@
 {
   "startTime": 1725380864855,
-  "endTime": 1725424764587,
+  "endTime": 1725427299307,
   "band_list": [
     {
       "raw_hot": 2706478,
@@ -17,6 +17,14 @@
       "onboard_time": 1725411199,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2342643,
+      "num": 2342643,
+      "word": "旅客执意将长满疙瘩的脚放小桌板上",
+      "onboard_time": 1725422347,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2059721,
@@ -43,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1855759,
+      "num": 1855759,
+      "word": "张欣怡",
+      "onboard_time": 1725419600,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1808529,
       "num": 1336658,
       "word": "曾志伟 三只羊",
@@ -56,14 +72,6 @@
       "word": "三只羊女主播沫沫已有9个月未更新",
       "onboard_time": 1725400093,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1371843,
-      "num": 1371843,
-      "word": "张欣怡",
-      "onboard_time": 1725419600,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -123,14 +131,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 917310,
-      "num": 917310,
-      "word": "旅客执意将长满疙瘩的脚放小桌板上",
-      "onboard_time": 1725422347,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 907040,
       "num": 914303,
       "word": "杨幂 华为",
@@ -153,6 +153,14 @@
       "onboard_time": 1725365420,
       "rank": 21,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 753694,
+      "num": 758505,
+      "word": "小杨哥回应近日网络纷争",
+      "onboard_time": 1725422301,
+      "rank": 13,
+      "category": "网红,互联网"
     },
     {
       "raw_hot": 752750,
@@ -195,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 701209,
+      "num": 701209,
+      "word": "刘美含 给P人亿点来自j人的震撼",
+      "onboard_time": 1725424340,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 661611,
       "num": 661611,
       "word": "张雨霏说一个月没下水痛经好很多",
@@ -203,12 +219,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 634031,
+      "num": 634031,
+      "word": "原来妊娠纹能在电影中出现",
+      "onboard_time": 1725426201,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 634006,
+      "num": 634006,
+      "word": "iPhone16新配色",
+      "onboard_time": 1725419060,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 613098,
       "num": 613098,
       "word": "乌方计划无限期占领夺取的俄领土",
       "onboard_time": 1725421582,
       "rank": 21,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 607174,
+      "num": 412975,
+      "word": "蜘蛛耗时18分钟织的网被嘲了",
+      "onboard_time": 1725422423,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 598941,
@@ -225,14 +265,6 @@
       "onboard_time": 1725341422,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 570989,
-      "num": 758505,
-      "word": "小杨哥回应近日网络纷争",
-      "onboard_time": 1725422301,
-      "rank": 13,
-      "category": "网红,互联网"
     },
     {
       "raw_hot": 547119,
@@ -291,6 +323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 469077,
+      "num": 469077,
+      "word": "侯明昊三番",
+      "onboard_time": 1725425061,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 466496,
       "num": 228498,
       "word": "儿童骑行被碾压案司机亲属发声",
@@ -313,14 +353,6 @@
       "onboard_time": 1725369980,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 452662,
-      "num": 452662,
-      "word": "iPhone16新配色",
-      "onboard_time": 1725419060,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 448881,
@@ -363,12 +395,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 389844,
-      "num": 389844,
-      "word": "蜘蛛耗时18分钟织的网被嘲了",
-      "onboard_time": 1725422423,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 384924,
+      "num": 384924,
+      "word": "那些从不痛经的女生到底有什么不一样",
+      "onboard_time": 1725421880,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 364311,
+      "num": 614577,
+      "word": "异人之下2",
+      "onboard_time": 1725422539,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 363279,
@@ -387,12 +427,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 345635,
-      "num": 614577,
-      "word": "异人之下2",
-      "onboard_time": 1725422539,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 349684,
+      "num": 731068,
+      "word": "医院越来越难开到进口原研药",
+      "onboard_time": 1725424281,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327448,
@@ -401,6 +441,14 @@
       "onboard_time": 1725418158,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 317596,
+      "num": 317596,
+      "word": "郑钦文回应无缘美网4强",
+      "onboard_time": 1725423199,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 310331,
@@ -451,8 +499,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276263,
+      "num": 276263,
+      "word": "华为三折叠",
+      "onboard_time": 1725426141,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 274536,
-      "num": 274536,
+      "num": 373673,
       "word": "花儿与少年6",
       "onboard_time": 1725423862,
       "rank": 43,
@@ -515,14 +571,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 251128,
-      "num": 251128,
-      "word": "郑钦文回应无缘美网4强",
-      "onboard_time": 1725423199,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 249589,
       "num": 249589,
       "word": "深圳台风",
@@ -537,14 +585,6 @@
       "onboard_time": 1725421039,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247958,
-      "num": 247958,
-      "word": "那些从不痛经的女生到底有什么不一样",
-      "onboard_time": 1725421880,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 246494,
@@ -619,11 +659,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 217039,
-      "num": 217039,
-      "word": "刘美含 给P人亿点来自j人的震撼",
-      "onboard_time": 1725424340,
-      "rank": 41,
+      "raw_hot": 223109,
+      "num": 223109,
+      "word": "第一次看到请全村人吃席的综艺",
+      "onboard_time": 1725426260,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -747,6 +787,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 183182,
+      "num": 183182,
+      "word": "警方通报女子拒喝酒遭辱骂扇耳光",
+      "onboard_time": 1725427100,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179845,
       "num": 179845,
       "word": "郑钦文维基奇萨巴伦卡形成困难闭环",
@@ -811,6 +859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 171412,
+      "num": 499686,
+      "word": "中年后我成了没有朋友的人",
+      "onboard_time": 1725420379,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169353,
       "num": 169353,
       "word": "A股",
@@ -841,6 +897,14 @@
       "onboard_time": 1725379099,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166244,
+      "num": 166244,
+      "word": "鸣潮1.2版本",
+      "onboard_time": 1725425961,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 165711,
@@ -875,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161293,
+      "num": 161293,
+      "word": "上班用翻译软件被辞退了",
+      "onboard_time": 1725425782,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157518,
       "num": 157518,
       "word": "许昕再现反手名场面",
@@ -889,14 +961,6 @@
       "onboard_time": 1725370761,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156642,
-      "num": 499686,
-      "word": "中年后我成了没有朋友的人",
-      "onboard_time": 1725420379,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156432,
@@ -995,14 +1059,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 122880,
-      "num": 731068,
-      "word": "医院越来越难开到进口原研药",
-      "onboard_time": 1725424281,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121835,
       "num": 121835,
       "word": "天津2书店外家长夜晚排长队买书",
@@ -1073,6 +1129,14 @@
       "onboard_time": 1725413719,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 114518,
+      "num": 386244,
+      "word": "凡人歌越看越来火",
+      "onboard_time": 1725425240,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 113523,
@@ -1307,6 +1371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50720,
+      "num": 536729,
+      "word": "华为三折叠无实物开箱",
+      "onboard_time": 1725425603,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 44995,
       "num": 49301,
       "word": "杨倩欢迎大家选修清华射击课",
@@ -1315,8 +1387,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44032,
+      "num": 467832,
+      "word": "深圳强风冰柜被刮跑",
+      "onboard_time": 1725426921,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42985,
-      "num": 1135944,
+      "num": 1149143,
       "word": "开辟中非关系更加壮丽的前景",
       "onboard_time": 1725423922,
       "rank": 2,
@@ -1337,6 +1417,14 @@
       "onboard_time": 1725383893,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 37352,
+      "num": 639349,
+      "word": "广东近海海域可能出现8米巨浪",
+      "onboard_time": 1725426742,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36053,
@@ -1368,6 +1456,14 @@
       "word": "让孩子课间走出教室跑跑跳跳",
       "onboard_time": 1725396071,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32382,
+      "num": 447518,
+      "word": "酒店大厨上门做饭69元起步",
+      "onboard_time": 1725426260,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1419,6 +1515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19617,
+      "num": 565449,
+      "word": "台风摩羯或达超强台风级",
+      "onboard_time": 1725426921,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18756,
       "num": 101265,
       "word": "女孩向男友求婚没想男友也准备求婚",
@@ -1448,6 +1552,14 @@
       "word": "别人卡bug他是卡爸爸",
       "onboard_time": 1725393072,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14508,
+      "num": 637664,
+      "word": "洪灾之后迎来新学期",
+      "onboard_time": 1725426141,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
