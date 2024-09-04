@@ -1,6 +1,6 @@
 {
   "startTime": 1725380864855,
-  "endTime": 1725431381606,
+  "endTime": 1725432165212,
   "band_list": [
     {
       "raw_hot": 2706478,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1975700,
+      "num": 1975700,
+      "word": "干巴大叔去世",
+      "onboard_time": 1725431180,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1890748,
       "num": 1890748,
       "word": "专家称房价下跌40元咖啡都不敢喝",
@@ -65,6 +73,14 @@
       "onboard_time": 1725409941,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1742860,
+      "num": 1742860,
+      "word": "k总 退网",
+      "onboard_time": 1725430820,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 1530916,
@@ -97,6 +113,14 @@
       "onboard_time": 1725373341,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1147655,
+      "num": 1147655,
+      "word": "蓝盈莹 分手会疯狂报班",
+      "onboard_time": 1725429738,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1135690,
@@ -139,20 +163,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 962876,
+      "num": 962876,
+      "word": "60岁知名华裔科学家吴瑛自杀",
+      "onboard_time": 1725430218,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 907040,
       "num": 914303,
       "word": "杨幂 华为",
       "onboard_time": 1725415698,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 904342,
-      "num": 904342,
-      "word": "蓝盈莹 分手会疯狂报班",
-      "onboard_time": 1725429738,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 875988,
@@ -227,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 702602,
+      "num": 449288,
+      "word": "江苏师范大学",
+      "onboard_time": 1725430820,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 701209,
       "num": 701209,
       "word": "刘美含 给P人亿点来自j人的震撼",
@@ -241,14 +273,6 @@
       "onboard_time": 1725376401,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 642151,
-      "num": 642151,
-      "word": "60岁知名华裔科学家吴瑛自杀",
-      "onboard_time": 1725430218,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 634006,
@@ -443,22 +467,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 378620,
-      "num": 378620,
-      "word": "k总 退网",
-      "onboard_time": 1725430820,
-      "rank": 16,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 366764,
-      "num": 366764,
-      "word": "干巴大叔去世",
-      "onboard_time": 1725431180,
-      "rank": 18,
-      "category": "网红"
-    },
-    {
       "raw_hot": 364311,
       "num": 614577,
       "word": "异人之下2",
@@ -491,11 +499,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 321896,
-      "num": 321896,
-      "word": "江苏师范大学",
-      "onboard_time": 1725430820,
-      "rank": 24,
+      "raw_hot": 326253,
+      "num": 326253,
+      "word": "大学生偷东西被学校开除后起诉公安",
+      "onboard_time": 1725430699,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -731,20 +739,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 226419,
-      "num": 226419,
-      "word": "大学生偷东西被学校开除后起诉公安",
-      "onboard_time": 1725430699,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 216480,
       "num": 216480,
       "word": "68岁教授说现在的年轻人比以前难多了",
       "onboard_time": 1725391270,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213938,
+      "num": 213938,
+      "word": "上班用翻译软件被辞退了",
+      "onboard_time": 1725425782,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 212559,
@@ -779,12 +787,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200614,
-      "num": 200614,
-      "word": "上班用翻译软件被辞退了",
-      "onboard_time": 1725425782,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 200727,
+      "num": 200727,
+      "word": "非洲记者谈孙颖莎基普乔格代表大洲",
+      "onboard_time": 1725428718,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 196838,
@@ -793,14 +801,6 @@
       "onboard_time": 1725414139,
       "rank": 31,
       "category": "数码"
-    },
-    {
-      "raw_hot": 195492,
-      "num": 195492,
-      "word": "非洲记者谈孙颖莎基普乔格代表大洲",
-      "onboard_time": 1725428718,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 195485,
@@ -849,6 +849,14 @@
       "onboard_time": 1725419783,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 190903,
+      "num": 190903,
+      "word": "陈好 压迫感",
+      "onboard_time": 1725431902,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 189525,
@@ -939,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177634,
+      "num": 177634,
+      "word": "黄景瑜片场吃鸡架一吃吃半盆",
+      "onboard_time": 1725430580,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177231,
       "num": 177231,
       "word": "全红婵谁也没放过",
@@ -987,6 +1003,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 169116,
+      "num": 169116,
+      "word": "喝饮料养生靠谱吗",
+      "onboard_time": 1725432021,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 168179,
       "num": 168179,
       "word": "杨幂纯黑u领内搭",
@@ -996,7 +1020,7 @@
     },
     {
       "raw_hot": 167573,
-      "num": 167573,
+      "num": 209564,
       "word": "蟹太太曾因短斤缺两被罚",
       "onboard_time": 1725428840,
       "rank": 44,
@@ -1083,6 +1107,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158961,
+      "num": 158961,
+      "word": "如果一个人的火把太小",
+      "onboard_time": 1725431840,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158950,
+      "num": 158950,
+      "word": "阳澄湖行业协会暂停蟹太太会员权利",
+      "onboard_time": 1725430218,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158838,
+      "num": 158838,
+      "word": "黄雨婷18岁生日捐出奥运射击服",
+      "onboard_time": 1725430519,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158484,
       "num": 158484,
       "word": "东方甄选高管退出与辉同行",
@@ -1151,6 +1199,14 @@
       "num": 369039,
       "word": "边水往事但拓今天头七",
       "onboard_time": 1725430279,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 149360,
+      "num": 397969,
+      "word": "莲花楼中秋夜活动",
+      "onboard_time": 1725431840,
       "rank": 17,
       "category": "剧集"
     },
@@ -1596,7 +1652,7 @@
     },
     {
       "raw_hot": 42985,
-      "num": 1577342,
+      "num": 1639017,
       "word": "开辟中非关系更加壮丽的前景",
       "onboard_time": 1725423922,
       "rank": 2,
