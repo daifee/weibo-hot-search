@@ -1,6 +1,6 @@
 {
   "startTime": 1725467191451,
-  "endTime": 1725492088181,
+  "endTime": 1725492929555,
   "band_list": [
     {
       "raw_hot": 2096882,
@@ -27,8 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 597351,
-      "num": 597351,
+      "raw_hot": 659653,
+      "num": 659653,
       "word": "妈妈放弃事业陪孩子跨省学网球",
       "onboard_time": 1725480971,
       "rank": 46,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 596197,
-      "num": 402415,
+      "num": 418553,
       "word": "辛巴将安排1亿元赔付三只羊消费者",
       "onboard_time": 1725455483,
       "rank": 6,
@@ -83,6 +83,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 398161,
+      "num": 335452,
+      "word": "女生吃粉监控画面被店主发群聊开黄腔",
+      "onboard_time": 1725450859,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393607,
       "num": 393607,
       "word": "王梦洁官宣结婚",
@@ -91,11 +99,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 377207,
-      "num": 335452,
-      "word": "女生吃粉监控画面被店主发群聊开黄腔",
-      "onboard_time": 1725450859,
-      "rank": 13,
+      "raw_hot": 363500,
+      "num": 363500,
+      "word": "女生离家3月暴瘦50斤父母满眼心疼",
+      "onboard_time": 1725492196,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -105,6 +113,14 @@
       "onboard_time": 1725455182,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348456,
+      "num": 348456,
+      "word": "美网张帅组合晋级决赛",
+      "onboard_time": 1725491656,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 346158,
@@ -163,11 +179,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 278331,
-      "num": 278331,
+      "raw_hot": 287462,
+      "num": 287462,
       "word": "2女子为拍照撕掉店家门口海报",
       "onboard_time": 1725467477,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213122,
+      "num": 213122,
+      "word": "猪场老板称高铁施工致千头猪死亡",
+      "onboard_time": 1725458782,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -179,11 +203,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197463,
+      "raw_hot": 209052,
       "num": 161837,
       "word": "女子给民警送锦旗民警反送一副手铐",
       "onboard_time": 1725453141,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190410,
+      "num": 190410,
+      "word": "中新网评园长收学生6元巧克力被开除",
+      "onboard_time": 1725475691,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -193,14 +225,6 @@
       "onboard_time": 1725462501,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 182649,
-      "num": 182649,
-      "word": "猪场老板称高铁施工致千头猪死亡",
-      "onboard_time": 1725458782,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178184,
@@ -217,22 +241,6 @@
       "onboard_time": 1725466998,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 171890,
-      "num": 171890,
-      "word": "中新网评园长收学生6元巧克力被开除",
-      "onboard_time": 1725475691,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166992,
-      "num": 166992,
-      "word": "美网张帅组合晋级决赛",
-      "onboard_time": 1725491656,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 162959,
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155147,
+      "num": 155147,
+      "word": "曾志伟回应与三只羊公司争议",
+      "onboard_time": 1725448459,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151809,
       "num": 151809,
       "word": "外卖脱骨鸡被盗报警抓获1只小猫",
@@ -267,20 +283,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149926,
-      "num": 149926,
-      "word": "曾志伟回应与三只羊公司争议",
-      "onboard_time": 1725448459,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 146375,
       "num": 146375,
       "word": "恋与深空黎深",
       "onboard_time": 1725462741,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 144317,
+      "num": 144317,
+      "word": "小杨哥曾说辛巴永远是学习对象",
+      "onboard_time": 1725473412,
+      "rank": 39,
+      "category": "网红,互联网"
+    },
+    {
+      "raw_hot": 139762,
+      "num": 139762,
+      "word": "与其内耗自己不如外耗领导",
+      "onboard_time": 1725490334,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 139134,
@@ -315,6 +339,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132773,
+      "num": 132773,
+      "word": "教育局回应高中老师凌晨约女学生外出",
+      "onboard_time": 1725492436,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132021,
+      "num": 132021,
+      "word": "55岁阿姨3个月减肥40斤重启人生",
+      "onboard_time": 1725455061,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130589,
       "num": 130589,
       "word": "IVE未公开新歌SupernovaLove",
@@ -331,28 +371,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126065,
+      "num": 126065,
+      "word": "台风摩羯",
+      "onboard_time": 1725492616,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125287,
       "num": 125287,
       "word": "辛巴宣布今年不再卖大闸蟹",
       "onboard_time": 1725461181,
       "rank": 35,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 123766,
-      "num": 123766,
-      "word": "55岁阿姨3个月减肥40斤重启人生",
-      "onboard_time": 1725455061,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122675,
-      "num": 122675,
-      "word": "小杨哥曾说辛巴永远是学习对象",
-      "onboard_time": 1725473412,
-      "rank": 39,
-      "category": "网红,互联网"
     },
     {
       "raw_hot": 114515,
@@ -363,12 +395,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107158,
+      "raw_hot": 109354,
       "num": 145244,
       "word": "存量房贷利率不能简单一降了之",
       "onboard_time": 1725470113,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108530,
+      "num": 114102,
+      "word": "陈好原声台词好震撼",
+      "onboard_time": 1725490936,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 104244,
@@ -393,6 +433,14 @@
       "onboard_time": 1725457761,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 100728,
+      "num": 100728,
+      "word": "幼儿园宝宝写字主打一个出其不意",
+      "onboard_time": 1725490816,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100238,
@@ -427,6 +475,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 93322,
+      "num": 93322,
+      "word": "俄军导弹袭击乌波尔塔瓦州",
+      "onboard_time": 1725492436,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 92801,
+      "num": 92801,
+      "word": "郑钦文需排进前七才能入围总决赛",
+      "onboard_time": 1725453559,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89673,
       "num": 89673,
       "word": "梁伟铿 有在好好恢复训练",
@@ -443,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86980,
+      "num": 86980,
+      "word": "瑞典环保少女格蕾塔在丹麦被捕",
+      "onboard_time": 1725492436,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86867,
       "num": 86867,
       "word": "迪丽热巴慕胥辞路透",
@@ -451,12 +523,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 85701,
-      "num": 85701,
-      "word": "与其内耗自己不如外耗领导",
-      "onboard_time": 1725490334,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 85378,
+      "num": 85378,
+      "word": "直击台风摩羯严重影响广东",
+      "onboard_time": 1725453259,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82673,
@@ -475,12 +547,12 @@
       "category": "互联网,网红"
     },
     {
-      "raw_hot": 81104,
-      "num": 81104,
-      "word": "郑钦文需排进前七才能入围总决赛",
-      "onboard_time": 1725453559,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 80882,
+      "num": 80882,
+      "word": "鞠婧祎的9月行程",
+      "onboard_time": 1725492317,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 79959,
@@ -499,14 +571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 79539,
-      "num": 79539,
-      "word": "陈好原声台词好震撼",
-      "onboard_time": 1725490936,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 77379,
       "num": 77379,
       "word": "被檀健次眼神虐到了",
@@ -515,20 +579,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 75399,
-      "num": 75399,
-      "word": "直击台风摩羯严重影响广东",
-      "onboard_time": 1725453259,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66182,
-      "num": 66182,
-      "word": "幼儿园宝宝写字主打一个出其不意",
-      "onboard_time": 1725490816,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 75042,
+      "num": 75042,
+      "word": "黑神话首位投资人感叹冯骥是全才",
+      "onboard_time": 1725492317,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 46984,
@@ -537,6 +593,14 @@
       "onboard_time": 1725449482,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 42247,
+      "num": 134339,
+      "word": "街头的爱心冰箱冷饮越来越多了",
+      "onboard_time": 1725492679,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40251,
@@ -620,7 +684,7 @@
     },
     {
       "raw_hot": 7813,
-      "num": 602191,
+      "num": 734188,
       "word": "微视频同舟共济",
       "onboard_time": 1725455362,
       "rank": 2,
