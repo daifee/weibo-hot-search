@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/05 04:23:56
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/05 04:38:04
 </p>
 </blockquote>
 <p>
@@ -2889,6 +2889,12 @@ iOS版微信已2个月没更新（热度：332158）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%87%AA%E6%8B%8D40%E6%9D%A1%E6%B7%AB%E7%A7%BD%E8%A7%86%E9%A2%91%E5%80%92%E7%BD%9A1%E4%B8%875%23" target="weibo">
+女子自拍40条淫秽视频倒罚1万5（热度：324018）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%83%A7%E7%A7%8B%E9%A3%8E%E8%BD%A6%E7%A5%B8%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E7%B3%BB%E6%97%A0%E8%AF%81%E9%A9%BE%E9%A9%B6%23" target="weibo">
 武僧秋风车祸货车司机系无证驾驶（热度：323406）
 </a>
@@ -3101,12 +3107,6 @@ iOS版微信已2个月没更新（热度：332158）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E7%A8%8E%E5%9C%A8%E6%AC%A7%E7%9B%9F%E6%94%B617%25%E4%B8%AD%E5%9B%BD%E6%94%B630%25%23" target="weibo">
 苹果税在欧盟收17%中国收30%（热度：295985）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%87%AA%E6%8B%8D40%E6%9D%A1%E6%B7%AB%E7%A7%BD%E8%A7%86%E9%A2%91%E5%80%92%E7%BD%9A1%E4%B8%875%23" target="weibo">
-女子自拍40条淫秽视频倒罚1万5（热度：295766）
 </a>
 </li>
 
