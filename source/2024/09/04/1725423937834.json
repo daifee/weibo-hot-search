@@ -1,0 +1,410 @@
+{
+  "runTime": 1725423937834,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2059721,
+        "num": 2059721,
+        "word": "乌克兰驻日大使拜鬼",
+        "onboard_time": 1725418520,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1368143,
+        "num": 1368143,
+        "word": "张欣怡",
+        "onboard_time": 1725419600,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42985,
+        "num": 1135944,
+        "word": "开辟中非关系更加壮丽的前景",
+        "onboard_time": 1725423922,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1055514,
+        "num": 1055514,
+        "word": "婚姻三大杀手 不上进抠门没情趣",
+        "onboard_time": 1725419961,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 823192,
+        "num": 823192,
+        "word": "董明珠谈35岁找不到工作",
+        "onboard_time": 1725414617,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702077,
+        "num": 702077,
+        "word": "郑钦文无缘美网4强",
+        "onboard_time": 1725410242,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 646853,
+        "num": 646853,
+        "word": "女子长期吃素确诊重度贫血",
+        "onboard_time": 1725415580,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33331,
+        "num": 585666,
+        "word": "求知的种子终会长成参天大树",
+        "onboard_time": 1725423802,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549589,
+        "num": 549589,
+        "word": "杨幂 华为",
+        "onboard_time": 1725415698,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511721,
+        "num": 511721,
+        "word": "女实习生工作抓了个逃犯",
+        "onboard_time": 1725414678,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1749809,
+        "num": 511227,
+        "word": "专家称房价下跌40元咖啡都不敢喝",
+        "onboard_time": 1725416359,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1659962,
+        "num": 507463,
+        "word": "曾志伟 三只羊",
+        "onboard_time": 1725409941,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1612245,
+        "num": 504252,
+        "word": "三只羊",
+        "onboard_time": 1725411199,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 377949,
+        "num": 503472,
+        "word": "小杨哥回应近日网络纷争",
+        "onboard_time": 1725422301,
+        "rank": 13,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 83941,
+        "num": 499686,
+        "word": "中年后我成了没有朋友的人",
+        "onboard_time": 1725420379,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335708,
+        "num": 498282,
+        "word": "aespa和EXO起诉脱粉收容所",
+        "onboard_time": 1725419001,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327448,
+        "num": 494229,
+        "word": "西游记剧组不养闲人",
+        "onboard_time": 1725418158,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65286,
+        "num": 493129,
+        "word": "翁青雅彭高好嗑",
+        "onboard_time": 1725412040,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 898679,
+        "num": 490056,
+        "word": "三只羊女主播沫沫已有9个月未更新",
+        "onboard_time": 1725400093,
+        "rank": 18,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 478881,
+        "num": 488154,
+        "word": "旅客执意将长满疙瘩的脚放小桌板上",
+        "onboard_time": 1725422347,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 886616,
+        "num": 484036,
+        "word": "40岁以上女性禁用紧急避孕药",
+        "onboard_time": 1725373341,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483357,
+        "num": 483357,
+        "word": "乌方计划无限期占领夺取的俄领土",
+        "onboard_time": 1725421582,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 422756,
+        "num": 422756,
+        "word": "现在小朋友的名字这么主角感的么",
+        "onboard_time": 1725407477,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62556,
+        "num": 389578,
+        "word": "国产电视剧火爆非洲",
+        "onboard_time": 1725422720,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382343,
+        "num": 382343,
+        "word": "iPhone16定价",
+        "onboard_time": 1725409520,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 25653,
+        "num": 381047,
+        "word": "于和伟看完华为三折叠眼神都变了",
+        "onboard_time": 1725421940,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 4692,
+        "num": 376703,
+        "word": "90秒科普中非合作成果",
+        "onboard_time": 1725368600,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320550,
+        "num": 374811,
+        "word": "异人之下之决战碧游村首发预告",
+        "onboard_time": 1725417798,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304094,
+        "num": 371311,
+        "word": "offer6实习生官宣下一站香港",
+        "onboard_time": 1725421701,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264320,
+        "num": 367997,
+        "word": "散打哥 辛巴说的是真的",
+        "onboard_time": 1725411681,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 366337,
+        "num": 366337,
+        "word": "iPhone16Pro对比13Pro的十大升级",
+        "onboard_time": 1725413780,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 356784,
+        "num": 356784,
+        "word": "iPhone16新配色",
+        "onboard_time": 1725419060,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 298966,
+        "num": 298966,
+        "word": "蜘蛛耗时18分钟织的网被嘲了",
+        "onboard_time": 1725422423,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275647,
+        "num": 275647,
+        "word": "医院回应男子1天拔23颗牙后去世",
+        "onboard_time": 1725418938,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253024,
+        "num": 253024,
+        "word": "异人之下2",
+        "onboard_time": 1725422539,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247732,
+        "num": 247732,
+        "word": "那些从不痛经的女生到底有什么不一样",
+        "onboard_time": 1725421880,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 238022,
+        "num": 238022,
+        "word": "韩版以家人之名预告片",
+        "onboard_time": 1725422781,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237516,
+        "num": 237516,
+        "word": "台风摩羯来袭这3地或有特大暴雨",
+        "onboard_time": 1725421039,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232457,
+        "num": 232457,
+        "word": "戴荃回应丁太升",
+        "onboard_time": 1725422480,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222241,
+        "num": 222241,
+        "word": "肖央赵丽颖新片丢了孩子就像丢了魂",
+        "onboard_time": 1725412940,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190469,
+        "num": 190469,
+        "word": "王珞丹杨志刚一不小心成了12年的朋友",
+        "onboard_time": 1725423681,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184746,
+        "num": 184746,
+        "word": "林博洋 谋女郎",
+        "onboard_time": 1725423561,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180553,
+        "num": 180553,
+        "word": "赚女性钱之前请尊重女性",
+        "onboard_time": 1725417020,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173339,
+        "num": 173339,
+        "word": "花儿与少年6",
+        "onboard_time": 1725423862,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173016,
+        "num": 173016,
+        "word": "小杨哥曾说要赚外国人的钱",
+        "onboard_time": 1725420081,
+        "rank": 44,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 166931,
+        "num": 166931,
+        "word": "境外间谍盯上我国青年学生",
+        "onboard_time": 1725413899,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164558,
+        "num": 164558,
+        "word": "辛巴 三只羊",
+        "onboard_time": 1725411081,
+        "rank": 46,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 164278,
+        "num": 164278,
+        "word": "苹果客服回应苹果税抽佣30%",
+        "onboard_time": 1725421999,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 163324,
+        "num": 163324,
+        "word": "文淇好贴陈朵",
+        "onboard_time": 1725423381,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162167,
+        "num": 162167,
+        "word": "黑神话已连续四周霸榜",
+        "onboard_time": 1725419783,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的中非时间#"
+    }
+  }
+}
