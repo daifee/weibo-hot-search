@@ -1,7 +1,15 @@
 {
   "startTime": 1725467191451,
-  "endTime": 1725488386383,
+  "endTime": 1725489455610,
   "band_list": [
+    {
+      "raw_hot": 1008877,
+      "num": 126287,
+      "word": "女子自拍40条淫秽视频倒罚1万5",
+      "onboard_time": 1725478932,
+      "rank": 10,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 968438,
       "num": 968438,
@@ -17,14 +25,6 @@
       "onboard_time": 1725460762,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 713853,
-      "num": 80095,
-      "word": "女子自拍40条淫秽视频倒罚1万5",
-      "onboard_time": 1725478932,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 596197,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323042,
+      "num": 323042,
+      "word": "妈妈放弃事业陪孩子跨省学网球",
+      "onboard_time": 1725480971,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318411,
       "num": 184937,
       "word": "余宇涵回应聊天记录",
@@ -160,14 +168,6 @@
       "word": "2女子为拍照撕掉店家门口海报",
       "onboard_time": 1725467477,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 218857,
-      "num": 218857,
-      "word": "妈妈放弃事业陪孩子跨省学网球",
-      "onboard_time": 1725480971,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -251,6 +251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137977,
+      "num": 137977,
+      "word": "十六秒从王一博妈粉变女友粉",
+      "onboard_time": 1725465978,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 136183,
       "num": 136183,
       "word": "白鹿一穿红衣准要虐",
@@ -273,14 +281,6 @@
       "onboard_time": 1725462382,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 132973,
-      "num": 132973,
-      "word": "十六秒从王一博妈粉变女友粉",
-      "onboard_time": 1725465978,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 130589,
@@ -395,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83683,
+      "num": 83683,
+      "word": "小杨哥曾说辛巴永远是学习对象",
+      "onboard_time": 1725473412,
+      "rank": 39,
+      "category": "网红,互联网"
+    },
+    {
       "raw_hot": 82673,
       "num": 82673,
       "word": "黄景瑜回应吃半盆鸡架",
@@ -435,27 +443,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 58576,
-      "num": 58576,
-      "word": "小杨哥曾说辛巴永远是学习对象",
-      "onboard_time": 1725473412,
-      "rank": 39,
-      "category": "网红,互联网"
+      "raw_hot": 73576,
+      "num": 73576,
+      "word": "中新网评园长收学生6元巧克力被开除",
+      "onboard_time": 1725475691,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 52334,
-      "num": 44807,
+      "raw_hot": 61580,
+      "num": 61580,
       "word": "半夜不同时间醒来说明什么",
       "onboard_time": 1725484690,
       "rank": 49,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 44918,
-      "num": 44918,
-      "word": "中新网评园长收学生6元巧克力被开除",
-      "onboard_time": 1725475691,
-      "rank": 9,
+      "raw_hot": 50942,
+      "num": 145244,
+      "word": "存量房贷利率不能简单一降了之",
+      "onboard_time": 1725470113,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -475,12 +483,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 35077,
-      "num": 145244,
-      "word": "存量房贷利率不能简单一降了之",
-      "onboard_time": 1725470113,
-      "rank": 10,
+      "raw_hot": 34940,
+      "num": 34940,
+      "word": "直击台风摩羯严重影响广东",
+      "onboard_time": 1725453259,
+      "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34844,
+      "num": 34844,
+      "word": "头一次见让盲人室友带饭的",
+      "onboard_time": 1725477251,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 34127,
@@ -491,12 +507,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 32692,
-      "num": 32692,
-      "word": "头一次见让盲人室友带饭的",
-      "onboard_time": 1725477251,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 31844,
+      "num": 31844,
+      "word": "郭麒麟王玉雯姜佩瑶合照",
+      "onboard_time": 1725483131,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 29880,
@@ -507,20 +523,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 29850,
-      "num": 29850,
-      "word": "郭麒麟王玉雯姜佩瑶合照",
-      "onboard_time": 1725483131,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 27885,
-      "num": 27885,
-      "word": "直击台风摩羯严重影响广东",
-      "onboard_time": 1725453259,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 26527,
+      "num": 30607,
+      "word": "张雨霏 射击队私下都跟个逗比一样",
+      "onboard_time": 1725489254,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 24680,
