@@ -1,0 +1,410 @@
+{
+  "runTime": 1725449708213,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1197781,
+        "num": 1197781,
+        "word": "小杨哥一个月掉粉超70万",
+        "onboard_time": 1725445099,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 742438,
+        "num": 742438,
+        "word": "专家称95后00后吃穿消费高峰已过",
+        "onboard_time": 1725441022,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13096,
+        "num": 741389,
+        "word": "2024年中非合作论坛峰会",
+        "onboard_time": 1725423802,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 740949,
+        "num": 740949,
+        "word": "蔡徐坤 小红帽",
+        "onboard_time": 1725446120,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387471,
+        "num": 387471,
+        "word": "王梦洁官宣结婚",
+        "onboard_time": 1725448879,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 364299,
+        "num": 364299,
+        "word": "台风",
+        "onboard_time": 1725448699,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 734579,
+        "num": 363275,
+        "word": "陈好 你们是我带过的最差的一届",
+        "onboard_time": 1725447320,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355717,
+        "num": 355717,
+        "word": "安徽一农商银行突发持刀伤人事件",
+        "onboard_time": 1725445640,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100493,
+        "num": 347032,
+        "word": "脱口秀和Ta的朋友们",
+        "onboard_time": 1725449300,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 565616,
+        "num": 347004,
+        "word": "中学反欺凌承诺书要求不拍照不录像",
+        "onboard_time": 1725442821,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490830,
+        "num": 346990,
+        "word": "素颜进组的迪丽热巴",
+        "onboard_time": 1725444739,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346971,
+        "num": 346971,
+        "word": "袁隆平墓前有一碗非洲农民的大米",
+        "onboard_time": 1725433339,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449252,
+        "num": 343218,
+        "word": "摇裤危机",
+        "onboard_time": 1725445219,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 364144,
+        "num": 336194,
+        "word": "医生提醒出现腿疼脚疼要重视",
+        "onboard_time": 1725447140,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 68032,
+        "num": 325809,
+        "word": "买齐一套书皮要花三四十元",
+        "onboard_time": 1725449660,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353262,
+        "num": 325115,
+        "word": "干巴大叔从公布确诊到离世仅1周",
+        "onboard_time": 1725443481,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 318255,
+        "num": 318255,
+        "word": "安以轩在老公被逮捕后露面",
+        "onboard_time": 1725437541,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316627,
+        "num": 316627,
+        "word": "沫沫好友发声",
+        "onboard_time": 1725448339,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 306168,
+        "num": 306168,
+        "word": "淘宝即将全面支持微信支付",
+        "onboard_time": 1725435440,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 285493,
+        "num": 285493,
+        "word": "陈好 压迫感",
+        "onboard_time": 1725431902,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 885685,
+        "num": 285471,
+        "word": "20岁小伙只喝奶茶饮料成牛奶血",
+        "onboard_time": 1725445942,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 850698,
+        "num": 284931,
+        "word": "k总 退网",
+        "onboard_time": 1725430820,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 555390,
+        "num": 284710,
+        "word": "5月龄女婴肚子变大腹中取出寄生胎",
+        "onboard_time": 1725442581,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357998,
+        "num": 284437,
+        "word": "干巴大叔去世",
+        "onboard_time": 1725431180,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 130861,
+        "num": 284272,
+        "word": "6个月网购106部手机均申请退货",
+        "onboard_time": 1725447739,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352931,
+        "num": 283974,
+        "word": "大哥靠5000万枚变蛋买三套房爆改人生",
+        "onboard_time": 1725438799,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137295,
+        "num": 283668,
+        "word": "魔芋火了有企业一年卖超10个亿",
+        "onboard_time": 1725447739,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283499,
+        "num": 283499,
+        "word": "韩素希已与母亲断绝关系",
+        "onboard_time": 1725444500,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281936,
+        "num": 281936,
+        "word": "行人闯红灯致电动车主摔倒被轧身亡",
+        "onboard_time": 1725439459,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273377,
+        "num": 273377,
+        "word": "男子高铁上忍无可忍怒怼后座家长",
+        "onboard_time": 1725437840,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272781,
+        "num": 272781,
+        "word": "白月梵星",
+        "onboard_time": 1725447859,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265240,
+        "num": 265240,
+        "word": "蓝盈莹 分手会疯狂报班",
+        "onboard_time": 1725429738,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219645,
+        "num": 219645,
+        "word": "宋茜宋雨琦同框",
+        "onboard_time": 1725442460,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209518,
+        "num": 209518,
+        "word": "乌克兰驻日大使拜鬼",
+        "onboard_time": 1725418520,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 200183,
+        "num": 200183,
+        "word": "海鲜主厨称被挖走后隔天就被辞退",
+        "onboard_time": 1725447739,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196664,
+        "num": 196664,
+        "word": "卢昱晓美式黑皮辣妹妆",
+        "onboard_time": 1725447920,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185637,
+        "num": 185637,
+        "word": "因拒饮酒被男子扇耳光闺蜜劝和解",
+        "onboard_time": 1725439221,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185048,
+        "num": 185048,
+        "word": "第一次带猫去医院被医生笑了",
+        "onboard_time": 1725446480,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169958,
+        "num": 169958,
+        "word": "原来妊娠纹能在电影中出现",
+        "onboard_time": 1725426201,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163517,
+        "num": 163517,
+        "word": "猫猫界也有自己的黛玉",
+        "onboard_time": 1725443662,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162357,
+        "num": 162357,
+        "word": "健身房偶遇樊振东",
+        "onboard_time": 1725435560,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162279,
+        "num": 162279,
+        "word": "曾志伟回应与三只羊公司争议",
+        "onboard_time": 1725448459,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161668,
+        "num": 161668,
+        "word": "凡人歌",
+        "onboard_time": 1725449482,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150583,
+        "num": 150583,
+        "word": "广东海南大到暴雨",
+        "onboard_time": 1725449240,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143415,
+        "num": 143415,
+        "word": "淘宝正分批邀请商家开通微信支付",
+        "onboard_time": 1725441441,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141358,
+        "num": 141358,
+        "word": "孙颖莎演讲为什么好评如潮",
+        "onboard_time": 1725439161,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139831,
+        "num": 139831,
+        "word": "王楚然演我拍照",
+        "onboard_time": 1725448940,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139331,
+        "num": 139331,
+        "word": "谢瑜约稿与樊振东合照",
+        "onboard_time": 1725446059,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138109,
+        "num": 138109,
+        "word": "工人高空作业熊孩子在下面摇安全绳",
+        "onboard_time": 1725444680,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134386,
+        "num": 134386,
+        "word": "时代峰峻新厂牌",
+        "onboard_time": 1725436221,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平引经据典谈中非#"
+    }
+  }
+}
