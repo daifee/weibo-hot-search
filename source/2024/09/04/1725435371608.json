@@ -1,0 +1,410 @@
+{
+  "runTime": 1725435371608,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2319583,
+        "num": 2319583,
+        "word": "k总 退网",
+        "onboard_time": 1725430820,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1463783,
+        "num": 1463783,
+        "word": "大学生偷东西被学校开除后起诉公安",
+        "onboard_time": 1725430699,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4617,
+        "num": 1217580,
+        "word": "开辟中非关系更加壮丽的前景",
+        "onboard_time": 1725423922,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2116864,
+        "num": 1152158,
+        "word": "干巴大叔去世",
+        "onboard_time": 1725431180,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1062300,
+        "num": 1062300,
+        "word": "江苏师范大学食堂打人",
+        "onboard_time": 1725432920,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 737368,
+        "num": 737368,
+        "word": "60岁知名华裔科学家吴瑛自杀",
+        "onboard_time": 1725430218,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 850596,
+        "num": 730869,
+        "word": "蓝盈莹 分手会疯狂报班",
+        "onboard_time": 1725429738,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 797224,
+        "num": 701316,
+        "word": "陈好 压迫感",
+        "onboard_time": 1725431902,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 638436,
+        "num": 638436,
+        "word": "旅客执意将长满疙瘩的脚放小桌板上",
+        "onboard_time": 1725422347,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205322,
+        "num": 626717,
+        "word": "原来熊猫宝宝睡觉也要盖肚脐",
+        "onboard_time": 1725430760,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1659394,
+        "num": 614376,
+        "word": "江苏师范大学",
+        "onboard_time": 1725430820,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745386,
+        "num": 607076,
+        "word": "原来妊娠纹能在电影中出现",
+        "onboard_time": 1725426201,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 703080,
+        "num": 589756,
+        "word": "乌克兰驻日大使拜鬼",
+        "onboard_time": 1725418520,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 584811,
+        "num": 584811,
+        "word": "黄雅莉儿子还没满月就出来上班了",
+        "onboard_time": 1725433581,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 462046,
+        "num": 462046,
+        "word": "专家称房价下跌40元咖啡都不敢喝",
+        "onboard_time": 1725416359,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423006,
+        "num": 423006,
+        "word": "曾志伟 三只羊",
+        "onboard_time": 1725409941,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388128,
+        "num": 388128,
+        "word": "袁隆平墓前有一碗非洲农民的大米",
+        "onboard_time": 1725433339,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47571,
+        "num": 365143,
+        "word": "易烊千玺与动物朋友们互动",
+        "onboard_time": 1725433339,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360500,
+        "num": 360500,
+        "word": "iPhone16新配色",
+        "onboard_time": 1725419060,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 38474,
+        "num": 338494,
+        "word": "网球男孩也有冠军梦",
+        "onboard_time": 1725434060,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 361847,
+        "num": 332363,
+        "word": "40岁以上女性禁用紧急避孕药",
+        "onboard_time": 1725373341,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318174,
+        "num": 318174,
+        "word": "魏哲鸣 怎么不等我手断了再说",
+        "onboard_time": 1725430218,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310694,
+        "num": 310694,
+        "word": "董明珠谈35岁找不到工作",
+        "onboard_time": 1725414617,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279865,
+        "num": 279865,
+        "word": "华为三折叠",
+        "onboard_time": 1725426141,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 278613,
+        "num": 278613,
+        "word": "黄景瑜片场吃鸡架一吃吃半盆",
+        "onboard_time": 1725430580,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248764,
+        "num": 248764,
+        "word": "医院越来越难开到进口原研药",
+        "onboard_time": 1725424281,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239598,
+        "num": 239598,
+        "word": "东北冻梨已经进化到这种程度了",
+        "onboard_time": 1725431359,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 234545,
+        "num": 234545,
+        "word": "张欣怡",
+        "onboard_time": 1725419600,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223150,
+        "num": 223150,
+        "word": "女子长期吃素确诊重度贫血",
+        "onboard_time": 1725415580,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186187,
+        "num": 186187,
+        "word": "三只羊女主播沫沫已有9个月未更新",
+        "onboard_time": 1725400093,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 172326,
+        "num": 172326,
+        "word": "泰坦尼克号或将会彻底消失",
+        "onboard_time": 1725432981,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171953,
+        "num": 171953,
+        "word": "侯明昊三番",
+        "onboard_time": 1725425061,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168687,
+        "num": 168687,
+        "word": "易烊千玺尹昉再合作",
+        "onboard_time": 1725433160,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167834,
+        "num": 167834,
+        "word": "和AI过日子是什么体验",
+        "onboard_time": 1725434300,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 163931,
+        "num": 163931,
+        "word": "阳澄湖行业协会暂停蟹太太会员权利",
+        "onboard_time": 1725430218,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159341,
+        "num": 159341,
+        "word": "郑钦文回应无缘美网4强",
+        "onboard_time": 1725423199,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112006,
+        "num": 158555,
+        "word": "两百多名车主购新车后无法上牌",
+        "onboard_time": 1725433401,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158351,
+        "num": 158351,
+        "word": "小杨哥回应近日网络纷争",
+        "onboard_time": 1725422301,
+        "rank": 37,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 155857,
+        "num": 155857,
+        "word": "异人之下2",
+        "onboard_time": 1725422539,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151805,
+        "num": 151805,
+        "word": "婚姻三大杀手 不上进抠门没情趣",
+        "onboard_time": 1725419961,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148144,
+        "num": 148144,
+        "word": "毛林林演技",
+        "onboard_time": 1725432859,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147480,
+        "num": 147480,
+        "word": "国安提醒当心高薪兼职陷阱",
+        "onboard_time": 1725433761,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145287,
+        "num": 145287,
+        "word": "非洲记者谈孙颖莎基普乔格代表大洲",
+        "onboard_time": 1725428718,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143581,
+        "num": 143581,
+        "word": "海南陵水家门口失联男童已遇难",
+        "onboard_time": 1725427700,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58692,
+        "num": 139903,
+        "word": "全国蔬菜价格开始回落",
+        "onboard_time": 1725433339,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138609,
+        "num": 138609,
+        "word": "TF ING",
+        "onboard_time": 1725435140,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134197,
+        "num": 134197,
+        "word": "辛巴小杨哥曾称兄道弟",
+        "onboard_time": 1725426860,
+        "rank": 46,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 39027,
+        "num": 132362,
+        "word": "野外被困如何发出求救信号",
+        "onboard_time": 1725435081,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 131668,
+        "num": 131668,
+        "word": "宋威龙赵今麦或演骄阳似我",
+        "onboard_time": 1725432199,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129801,
+        "num": 129801,
+        "word": "上班用翻译软件被辞退了",
+        "onboard_time": 1725425782,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的中非时间#"
+    }
+  }
+}
