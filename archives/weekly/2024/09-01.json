@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725460714305,
+  "endTime": 1725463380579,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -884,7 +884,7 @@
     },
     {
       "raw_hot": 1074035,
-      "num": 455881,
+      "num": 534582,
       "word": "女生boss直聘找工作疑被要求陪睡",
       "onboard_time": 1725455182,
       "rank": 28,
@@ -969,6 +969,14 @@
       "onboard_time": 1725145694,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1019771,
+      "num": 1019771,
+      "word": "奥运冠军李倩杨家玉获赠住房",
+      "onboard_time": 1725458241,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 1019410,
@@ -1643,6 +1651,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 742192,
+      "num": 559238,
+      "word": "田嘉瑞 我妈银行的",
+      "onboard_time": 1725461122,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 740949,
       "num": 740949,
       "word": "蔡徐坤 小红帽",
@@ -1713,14 +1729,6 @@
       "onboard_time": 1725205041,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 717075,
-      "num": 386990,
-      "word": "奥运冠军李倩杨家玉获赠住房",
-      "onboard_time": 1725458241,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 715528,
@@ -1856,6 +1864,14 @@
       "word": "还以为是早期的Angelababy",
       "onboard_time": 1725357140,
       "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 680365,
+      "num": 557991,
+      "word": "我感觉我的 不对劲",
+      "onboard_time": 1725460762,
+      "rank": 7,
       "category": "艺人"
     },
     {
@@ -2065,6 +2081,14 @@
       "onboard_time": 1725280160,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 616878,
+      "num": 513654,
+      "word": "蟹太太回应辛巴三只羊纠纷",
+      "onboard_time": 1725459501,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 613393,
@@ -3787,6 +3811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323588,
+      "num": 323588,
+      "word": "余宇涵不对劲文学",
+      "onboard_time": 1725463159,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 323406,
       "num": 323406,
       "word": "武僧秋风车祸货车司机系无证驾驶",
@@ -3896,6 +3928,14 @@
       "word": "逆行路虎司机不构成交通肇事逃逸",
       "onboard_time": 1725342561,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309545,
+      "num": 309545,
+      "word": "男子在两辆大货车中间骑行遭碾压身亡",
+      "onboard_time": 1725460461,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -4025,14 +4065,6 @@
       "onboard_time": 1725321379,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 299630,
-      "num": 299630,
-      "word": "蟹太太回应辛巴三只羊纠纷",
-      "onboard_time": 1725459501,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 299231,
@@ -4747,6 +4779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250971,
+      "num": 496320,
+      "word": "猪场老板称高铁施工致千头猪死亡",
+      "onboard_time": 1725458782,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250473,
       "num": 250473,
       "word": "大学生课表放微信置顶",
@@ -4977,6 +5017,14 @@
       "onboard_time": 1725252981,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 240330,
+      "num": 240330,
+      "word": "外卖脱骨鸡被盗报警抓获1只小猫",
+      "onboard_time": 1725460821,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239676,
@@ -6067,6 +6115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199747,
+      "num": 199747,
+      "word": "RW对战WB",
+      "onboard_time": 1725453259,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 199659,
       "num": 199659,
       "word": "权志龙作为嘉宾出席太阳演唱会",
@@ -6587,6 +6643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188944,
+      "num": 188944,
+      "word": "辛巴宣布今年不再卖大闸蟹",
+      "onboard_time": 1725461181,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 188897,
       "num": 188897,
       "word": "迪丽热巴学归墟礼仪花絮",
@@ -6769,6 +6833,14 @@
       "onboard_time": 1725278240,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186573,
+      "num": 186573,
+      "word": "杨威晒15岁儿子近况",
+      "onboard_time": 1725462081,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 186243,
@@ -7435,6 +7507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173919,
+      "num": 173919,
+      "word": "恋与深空黎深",
+      "onboard_time": 1725462741,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 173846,
       "num": 173846,
       "word": "孙颖莎陈清晨一个敢教一个敢学",
@@ -7512,6 +7592,14 @@
       "word": "黄雨婷太全面了",
       "onboard_time": 1725355280,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 172638,
+      "num": 172638,
+      "word": "梁伟铿 有在好好恢复训练",
+      "onboard_time": 1725461181,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -8091,6 +8179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162056,
+      "num": 162056,
+      "word": "鱼 快来鱼啊我钓着人了",
+      "onboard_time": 1725462382,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161749,
       "num": 161749,
       "word": "神钩对决限时回归",
@@ -8121,14 +8217,6 @@
       "onboard_time": 1725331040,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161513,
-      "num": 161513,
-      "word": "男子在两辆大货车中间骑行遭碾压身亡",
-      "onboard_time": 1725460461,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161402,
@@ -8747,14 +8835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149066,
-      "num": 149066,
-      "word": "RW对战WB",
-      "onboard_time": 1725453259,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 148857,
       "num": 283876,
       "word": "工人高空作业熊孩子在下面摇安全绳",
@@ -9025,14 +9105,6 @@
       "onboard_time": 1725176118,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 143028,
-      "num": 496320,
-      "word": "猪场老板称高铁施工致千头猪死亡",
-      "onboard_time": 1725458782,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142497,
@@ -9307,6 +9379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 133571,
+      "num": 133571,
+      "word": "U21国足绝杀",
+      "onboard_time": 1725462382,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133217,
       "num": 133217,
       "word": "2024全球总决赛",
@@ -9441,6 +9521,14 @@
       "onboard_time": 1725108259,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128563,
+      "num": 128563,
+      "word": "今年月饼主打一个简约风",
+      "onboard_time": 1725463222,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 128108,
@@ -9993,6 +10081,14 @@
       "onboard_time": 1725178098,
       "rank": 15,
       "category": "美食"
+    },
+    {
+      "raw_hot": 99656,
+      "num": 554338,
+      "word": "女子接收不明快递包裹后被骗33万元",
+      "onboard_time": 1725462021,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99573,
@@ -11913,6 +12009,14 @@
       "onboard_time": 1725278421,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 22610,
+      "num": 325565,
+      "word": "徐翔操纵股价被判赔偿股民超110万",
+      "onboard_time": 1725462320,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22582,
