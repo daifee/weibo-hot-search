@@ -1,6 +1,6 @@
 {
   "startTime": 1725380864855,
-  "endTime": 1725453661402,
+  "endTime": 1725454606659,
   "band_list": [
     {
       "raw_hot": 2786378,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1295270,
+      "num": 533663,
+      "word": "余宇涵回应聊天记录",
+      "onboard_time": 1725453680,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1285427,
       "num": 1285427,
       "word": "小杨哥一个月掉粉超70万",
@@ -227,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1066689,
+      "num": 300136,
+      "word": "女生吃粉监控画面被店主发群聊开黄腔",
+      "onboard_time": 1725450859,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1055514,
       "num": 1055514,
       "word": "婚姻三大杀手 不上进抠门没情趣",
@@ -264,14 +280,6 @@
       "word": "袁隆平墓前有一碗非洲农民的大米",
       "onboard_time": 1725433339,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 979856,
-      "num": 266789,
-      "word": "女生吃粉监控画面被店主发群聊开黄腔",
-      "onboard_time": 1725450859,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -459,20 +467,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 656535,
+      "num": 289210,
+      "word": "时代峰峻发布余宇涵事件后续声明",
+      "onboard_time": 1725453080,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 652265,
+      "num": 652265,
+      "word": "台风",
+      "onboard_time": 1725448699,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 634006,
       "num": 634006,
       "word": "iPhone16新配色",
       "onboard_time": 1725419060,
       "rank": 35,
       "category": "数码"
-    },
-    {
-      "raw_hot": 632987,
-      "num": 632987,
-      "word": "台风",
-      "onboard_time": 1725448699,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 632068,
@@ -667,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 450598,
+      "num": 405398,
+      "word": "徐娇泳装写真",
+      "onboard_time": 1725450919,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 449407,
       "num": 449407,
       "word": "干巴大叔从公布确诊到离世仅1周",
@@ -707,14 +731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 405398,
-      "num": 405398,
-      "word": "徐娇泳装写真",
-      "onboard_time": 1725450919,
-      "rank": 7,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 396292,
       "num": 396292,
       "word": "芭莎爆料 四位女艺人",
@@ -747,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 369620,
+      "num": 273551,
+      "word": "章若楠这段不像演的",
+      "onboard_time": 1725451220,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 364311,
       "num": 614577,
       "word": "异人之下2",
@@ -769,14 +793,6 @@
       "onboard_time": 1725417798,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 362225,
-      "num": 230736,
-      "word": "时代峰峻发布余宇涵事件后续声明",
-      "onboard_time": 1725453080,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 361353,
@@ -819,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 322237,
+      "num": 198731,
+      "word": "迪丽热巴慕胥辞路透",
+      "onboard_time": 1725452541,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 319425,
       "num": 319425,
       "word": "郑钦文回应无缘美网4强",
@@ -833,6 +857,14 @@
       "onboard_time": 1725433581,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 311253,
+      "num": 311253,
+      "word": "女子给民警送锦旗民警反送一副手铐",
+      "onboard_time": 1725453141,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310331,
@@ -851,12 +883,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 297150,
-      "num": 185486,
-      "word": "章若楠这段不像演的",
-      "onboard_time": 1725451220,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 298743,
+      "num": 198134,
+      "word": "蔡依林两年吃了二百多道菜",
+      "onboard_time": 1725452960,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 294448,
@@ -868,7 +900,7 @@
     },
     {
       "raw_hot": 292164,
-      "num": 196664,
+      "num": 196999,
       "word": "卢昱晓美式黑皮辣妹妆",
       "onboard_time": 1725447920,
       "rank": 34,
@@ -889,14 +921,6 @@
       "onboard_time": 1725420081,
       "rank": 38,
       "category": "网红,互联网"
-    },
-    {
-      "raw_hot": 286526,
-      "num": 183743,
-      "word": "迪丽热巴慕胥辞路透",
-      "onboard_time": 1725452541,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 283064,
@@ -947,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269748,
+      "num": 269748,
+      "word": "海鲜主厨称被挖走后隔天就被辞退",
+      "onboard_time": 1725447739,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268459,
       "num": 268459,
       "word": "林博洋 谋女郎",
@@ -972,7 +1004,7 @@
     },
     {
       "raw_hot": 258801,
-      "num": 181730,
+      "num": 195364,
       "word": "男孩骑行身亡案司机认为属交通意外",
       "onboard_time": 1725450081,
       "rank": 27,
@@ -1155,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222462,
+      "num": 222462,
+      "word": "广东海南大到暴雨",
+      "onboard_time": 1725449240,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217201,
       "num": 217201,
       "word": "你们拍短剧真的能忍",
@@ -1203,14 +1243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 210275,
-      "num": 210275,
-      "word": "海鲜主厨称被挖走后隔天就被辞退",
-      "onboard_time": 1725447739,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208848,
       "num": 388989,
       "word": "两百多名车主购新车后无法上牌",
@@ -1235,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202195,
+      "num": 194799,
+      "word": "太湖湾音乐节阵容",
+      "onboard_time": 1725453862,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 200727,
       "num": 200727,
       "word": "非洲记者谈孙颖莎基普乔格代表大洲",
@@ -1249,14 +1289,6 @@
       "onboard_time": 1725442041,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198089,
-      "num": 198089,
-      "word": "广东海南大到暴雨",
-      "onboard_time": 1725449240,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197840,
@@ -1307,6 +1339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194322,
+      "num": 194322,
+      "word": "虞书欣 跟着风一起闯入镜头",
+      "onboard_time": 1725454220,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194292,
       "num": 220088,
       "word": "任嘉伦古装",
@@ -1329,6 +1369,14 @@
       "onboard_time": 1725372803,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192998,
+      "num": 192998,
+      "word": "谢瑜新头像",
+      "onboard_time": 1725454039,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 192991,
@@ -1579,19 +1627,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171441,
-      "num": 171441,
-      "word": "女子给民警送锦旗民警反送一副手铐",
-      "onboard_time": 1725453141,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171412,
       "num": 499686,
       "word": "中年后我成了没有朋友的人",
       "onboard_time": 1725420379,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170434,
+      "num": 170434,
+      "word": "3岁幼童遭虐待进ICU生父女友被刑拘",
+      "onboard_time": 1725449959,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1633,14 +1681,6 @@
       "onboard_time": 1725432021,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 168756,
-      "num": 168756,
-      "word": "蔡依林两年吃了二百多道菜",
-      "onboard_time": 1725452960,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 168179,
@@ -1891,6 +1931,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 156432,
+      "num": 156432,
+      "word": "国足vs日本",
+      "onboard_time": 1725454461,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155957,
       "num": 413822,
       "word": "檀健次演唱会真哭了",
@@ -2003,19 +2051,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142497,
+      "num": 142497,
+      "word": "第二天上幼儿园就有班味了",
+      "onboard_time": 1725451820,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142223,
       "num": 142223,
       "word": "警方回应博主挑战鳌太线发现男尸",
       "onboard_time": 1725407960,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141315,
-      "num": 141315,
-      "word": "3岁幼童遭虐待进ICU生父女友被刑拘",
-      "onboard_time": 1725449959,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -2083,6 +2131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136581,
+      "num": 136581,
+      "word": "郑钦文需排进前七才能入围总决赛",
+      "onboard_time": 1725453559,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135781,
       "num": 135781,
       "word": "人怎么可以有种成这样",
@@ -2147,14 +2203,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 126391,
-      "num": 126391,
-      "word": "第二天上幼儿园就有班味了",
-      "onboard_time": 1725451820,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 125368,
       "num": 125368,
       "word": "女排前国手爆改上海老破小给父母养老",
@@ -2171,12 +2219,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 123631,
-      "num": 123631,
-      "word": "郑钦文需排进前七才能入围总决赛",
-      "onboard_time": 1725453559,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 125079,
+      "num": 125079,
+      "word": "房子在软装 何广智在硬装",
+      "onboard_time": 1725454341,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 122613,
@@ -2475,6 +2523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68369,
+      "num": 302448,
+      "word": "直击台风摩羯严重影响广东",
+      "onboard_time": 1725453259,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68032,
       "num": 325809,
       "word": "买齐一套书皮要花三四十元",
@@ -2497,6 +2553,14 @@
       "onboard_time": 1725422720,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61045,
+      "num": 308472,
+      "word": "哈哈曹 有回甘",
+      "onboard_time": 1725453500,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 60696,
@@ -2617,14 +2681,6 @@
       "onboard_time": 1725382336,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 44604,
-      "num": 282581,
-      "word": "直击台风摩羯严重影响广东",
-      "onboard_time": 1725453259,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42985,
@@ -2817,14 +2873,6 @@
       "onboard_time": 1725440301,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26804,
-      "num": 237053,
-      "word": "哈哈曹 有回甘",
-      "onboard_time": 1725453500,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 26107,
