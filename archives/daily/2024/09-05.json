@@ -1,6 +1,6 @@
 {
   "startTime": 1725467191451,
-  "endTime": 1725470444295,
+  "endTime": 1725471530916,
   "band_list": [
     {
       "raw_hot": 968438,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243949,
+      "num": 131072,
+      "word": "2女子为拍照撕掉店家门口海报",
+      "onboard_time": 1725467477,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209425,
       "num": 209425,
       "word": "陈好 你们是我带过的最差的一届",
@@ -273,14 +281,6 @@
       "onboard_time": 1725462081,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128300,
-      "num": 128300,
-      "word": "2女子为拍照撕掉店家门口海报",
-      "onboard_time": 1725467477,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127266,
@@ -417,6 +417,30 @@
       "onboard_time": 1725464119,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40940,
+      "num": 40940,
+      "word": "凡人歌",
+      "onboard_time": 1725449482,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 40251,
+      "num": 40251,
+      "word": "元莫欺负完相柳欺负檀健次",
+      "onboard_time": 1725470773,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 34127,
+      "num": 40229,
+      "word": "一个自由职业被你搞得一身班味",
+      "onboard_time": 1725471432,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 30896,
