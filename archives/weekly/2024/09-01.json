@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725427299307,
+  "endTime": 1725428315217,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -433,6 +433,14 @@
       "onboard_time": 1725194119,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1486854,
+      "num": 1486854,
+      "word": "原来妊娠纹能在电影中出现",
+      "onboard_time": 1725426201,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 1474809,
@@ -1683,20 +1691,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 634031,
-      "num": 634031,
-      "word": "原来妊娠纹能在电影中出现",
-      "onboard_time": 1725426201,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
       "raw_hot": 634006,
       "num": 634006,
       "word": "iPhone16新配色",
       "onboard_time": 1725419060,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 632068,
+      "num": 412975,
+      "word": "蜘蛛耗时18分钟织的网被嘲了",
+      "onboard_time": 1725422423,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 630684,
@@ -1777,14 +1785,6 @@
       "onboard_time": 1725202282,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 607174,
-      "num": 412975,
-      "word": "蜘蛛耗时18分钟织的网被嘲了",
-      "onboard_time": 1725422423,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 605352,
@@ -2771,6 +2771,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 410700,
+      "num": 731068,
+      "word": "医院越来越难开到进口原研药",
+      "onboard_time": 1725424281,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 409134,
       "num": 409134,
       "word": "外地女孩疑遭伤害街头崩溃大哭",
@@ -2873,6 +2881,14 @@
       "onboard_time": 1725097819,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 386481,
+      "num": 386481,
+      "word": "华为三折叠",
+      "onboard_time": 1725426141,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 386048,
@@ -3131,14 +3147,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 349684,
-      "num": 731068,
-      "word": "医院越来越难开到进口原研药",
-      "onboard_time": 1725424281,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 348559,
       "num": 353815,
       "word": "腾讯视频9月大剧片单",
@@ -3307,20 +3315,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319425,
+      "num": 319425,
+      "word": "郑钦文回应无缘美网4强",
+      "onboard_time": 1725423199,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 317889,
       "num": 317889,
       "word": "电影野孩子开预售",
       "onboard_time": 1725330021,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 317596,
-      "num": 317596,
-      "word": "郑钦文回应无缘美网4强",
-      "onboard_time": 1725423199,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 316808,
@@ -3817,14 +3825,6 @@
       "onboard_time": 1725277280,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 276263,
-      "num": 276263,
-      "word": "华为三折叠",
-      "onboard_time": 1725426141,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 275639,
@@ -4563,6 +4563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 230049,
+      "num": 281472,
+      "word": "第一次看到请全村人吃席的综艺",
+      "onboard_time": 1725426260,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229921,
       "num": 229921,
       "word": "全红婵崔宸曦叫王楚钦王亲亲",
@@ -4633,14 +4641,6 @@
       "onboard_time": 1725338363,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 223109,
-      "num": 223109,
-      "word": "第一次看到请全村人吃席的综艺",
-      "onboard_time": 1725426260,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 222660,
@@ -4889,6 +4889,14 @@
       "onboard_time": 1725416060,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 211630,
+      "num": 211630,
+      "word": "警方通报女子拒喝酒遭辱骂扇耳光",
+      "onboard_time": 1725427100,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211157,
@@ -5739,6 +5747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189525,
+      "num": 189525,
+      "word": "绝区零",
+      "onboard_time": 1725427401,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 189355,
       "num": 189355,
       "word": "刘耀文露臂肌",
@@ -6017,14 +6033,6 @@
       "onboard_time": 1725411621,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 183182,
-      "num": 183182,
-      "word": "警方通报女子拒喝酒遭辱骂扇耳光",
-      "onboard_time": 1725427100,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183150,
@@ -6731,6 +6739,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 167568,
+      "num": 167568,
+      "word": "海南陵水家门口失联男童已遇难",
+      "onboard_time": 1725427700,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167502,
       "num": 167502,
       "word": "全红婵不好意思没事的",
@@ -6785,6 +6801,14 @@
       "onboard_time": 1725248598,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 166572,
+      "num": 166572,
+      "word": "夏之光双眼皮贴掉了",
+      "onboard_time": 1725427879,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 166561,
@@ -7107,6 +7131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159774,
+      "num": 159774,
+      "word": "辛巴小杨哥曾称兄道弟",
+      "onboard_time": 1725426860,
+      "rank": 43,
+      "category": "网红,互联网"
+    },
+    {
       "raw_hot": 159428,
       "num": 671395,
       "word": "列车有权拒绝买短乘长旅客继续乘车",
@@ -7283,6 +7315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155957,
+      "num": 413822,
+      "word": "檀健次演唱会真哭了",
+      "onboard_time": 1725427340,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 155590,
       "num": 155590,
       "word": "成都高温",
@@ -7361,6 +7401,14 @@
       "onboard_time": 1725265460,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154394,
+      "num": 154394,
+      "word": "彭昱畅侯明昊时隔七年再次合作",
+      "onboard_time": 1725428121,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 154162,
@@ -8883,6 +8931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73516,
+      "num": 447518,
+      "word": "酒店大厨上门做饭69元起步",
+      "onboard_time": 1725426260,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73234,
       "num": 91361,
       "word": "赵露思侧麻花辫",
@@ -9025,6 +9081,14 @@
       "onboard_time": 1725319937,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 66520,
+      "num": 536729,
+      "word": "华为三折叠无实物开箱",
+      "onboard_time": 1725425603,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 66431,
@@ -9307,6 +9371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51958,
+      "num": 467832,
+      "word": "深圳强风冰柜被刮跑",
+      "onboard_time": 1725426921,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51906,
       "num": 1242012,
       "word": "打击广告推广型网络黑灰产犯罪",
@@ -9361,14 +9433,6 @@
       "onboard_time": 1725400872,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 50720,
-      "num": 536729,
-      "word": "华为三折叠无实物开箱",
-      "onboard_time": 1725425603,
-      "rank": 15,
-      "category": "数码"
     },
     {
       "raw_hot": 50368,
@@ -9483,6 +9547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47314,
+      "num": 639349,
+      "word": "广东近海海域可能出现8米巨浪",
+      "onboard_time": 1725426742,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47168,
       "num": 285406,
       "word": "2024暑期档票房超116亿元",
@@ -9504,14 +9576,6 @@
       "word": "李白发博祝广大学子新学期日有所进",
       "onboard_time": 1725273021,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44032,
-      "num": 467832,
-      "word": "深圳强风冰柜被刮跑",
-      "onboard_time": 1725426921,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -9556,7 +9620,7 @@
     },
     {
       "raw_hot": 42985,
-      "num": 1149143,
+      "num": 1577342,
       "word": "开辟中非关系更加壮丽的前景",
       "onboard_time": 1725423922,
       "rank": 2,
@@ -9689,14 +9753,6 @@
       "onboard_time": 1725383893,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 37352,
-      "num": 639349,
-      "word": "广东近海海域可能出现8米巨浪",
-      "onboard_time": 1725426742,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37111,
@@ -9907,14 +9963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32382,
-      "num": 447518,
-      "word": "酒店大厨上门做饭69元起步",
-      "onboard_time": 1725426260,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32035,
       "num": 475864,
       "word": "律师解读羊毛党薅走小天鹅7000万",
@@ -9928,6 +9976,14 @@
       "word": "北京现金龙晚霞",
       "onboard_time": 1725216073,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32024,
+      "num": 565449,
+      "word": "台风摩羯或达超强台风级",
+      "onboard_time": 1725426921,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -10352,14 +10408,6 @@
       "word": "武汉万物皆可热干",
       "onboard_time": 1725210255,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19617,
-      "num": 565449,
-      "word": "台风摩羯或达超强台风级",
-      "onboard_time": 1725426921,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

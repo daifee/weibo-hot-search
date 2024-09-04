@@ -1,0 +1,410 @@
+{
+  "runTime": 1725428315217,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2170266,
+        "num": 2170266,
+        "word": "旅客执意将长满疙瘩的脚放小桌板上",
+        "onboard_time": 1725422347,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1696563,
+        "num": 1696563,
+        "word": "张欣怡",
+        "onboard_time": 1725419600,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13720,
+        "num": 1577342,
+        "word": "开辟中非关系更加壮丽的前景",
+        "onboard_time": 1725423922,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1486854,
+        "num": 1486854,
+        "word": "原来妊娠纹能在电影中出现",
+        "onboard_time": 1725426201,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 735116,
+        "num": 735116,
+        "word": "乌克兰驻日大使拜鬼",
+        "onboard_time": 1725418520,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 682901,
+        "num": 682901,
+        "word": "刘美含 给P人亿点来自j人的震撼",
+        "onboard_time": 1725424340,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 595805,
+        "num": 595805,
+        "word": "小杨哥回应近日网络纷争",
+        "onboard_time": 1725422301,
+        "rank": 6,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 558086,
+        "num": 558086,
+        "word": "婚姻三大杀手 不上进抠门没情趣",
+        "onboard_time": 1725419961,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47314,
+        "num": 557709,
+        "word": "广东近海海域可能出现8米巨浪",
+        "onboard_time": 1725426742,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409628,
+        "num": 552291,
+        "word": "乌方计划无限期占领夺取的俄领土",
+        "onboard_time": 1725421582,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1085297,
+        "num": 550427,
+        "word": "曾志伟 三只羊",
+        "onboard_time": 1725409941,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 834910,
+        "num": 546666,
+        "word": "专家称房价下跌40元咖啡都不敢喝",
+        "onboard_time": 1725416359,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544418,
+        "num": 544418,
+        "word": "董明珠谈35岁找不到工作",
+        "onboard_time": 1725414617,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512165,
+        "num": 512165,
+        "word": "iPhone16新配色",
+        "onboard_time": 1725419060,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 32024,
+        "num": 438733,
+        "word": "台风摩羯或达超强台风级",
+        "onboard_time": 1725426921,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66520,
+        "num": 426773,
+        "word": "华为三折叠无实物开箱",
+        "onboard_time": 1725425603,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 424095,
+        "num": 424095,
+        "word": "三只羊女主播沫沫已有9个月未更新",
+        "onboard_time": 1725400093,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 155957,
+        "num": 413822,
+        "word": "檀健次演唱会真哭了",
+        "onboard_time": 1725427340,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 51958,
+        "num": 412799,
+        "word": "深圳强风冰柜被刮跑",
+        "onboard_time": 1725426921,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412540,
+        "num": 412540,
+        "word": "侯明昊三番",
+        "onboard_time": 1725425061,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 801897,
+        "num": 412369,
+        "word": "40岁以上女性禁用紧急避孕药",
+        "onboard_time": 1725373341,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632068,
+        "num": 411783,
+        "word": "蜘蛛耗时18分钟织的网被嘲了",
+        "onboard_time": 1725422423,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 410700,
+        "num": 410700,
+        "word": "医院越来越难开到进口原研药",
+        "onboard_time": 1725424281,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386481,
+        "num": 386481,
+        "word": "华为三折叠",
+        "onboard_time": 1725426141,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 373577,
+        "num": 373577,
+        "word": "那些从不痛经的女生到底有什么不一样",
+        "onboard_time": 1725421880,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 356754,
+        "num": 356754,
+        "word": "异人之下2",
+        "onboard_time": 1725422539,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319425,
+        "num": 319425,
+        "word": "郑钦文回应无缘美网4强",
+        "onboard_time": 1725423199,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301844,
+        "num": 301844,
+        "word": "女子长期吃素确诊重度贫血",
+        "onboard_time": 1725415580,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230049,
+        "num": 281472,
+        "word": "第一次看到请全村人吃席的综艺",
+        "onboard_time": 1725426260,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228475,
+        "num": 275253,
+        "word": "杨幂 华为",
+        "onboard_time": 1725415698,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274197,
+        "num": 274197,
+        "word": "郑钦文无缘美网4强",
+        "onboard_time": 1725410242,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226054,
+        "num": 226054,
+        "word": "女实习生工作抓了个逃犯",
+        "onboard_time": 1725414678,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223617,
+        "num": 223617,
+        "word": "花儿与少年6",
+        "onboard_time": 1725423862,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211630,
+        "num": 211630,
+        "word": "警方通报女子拒喝酒遭辱骂扇耳光",
+        "onboard_time": 1725427100,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209337,
+        "num": 209337,
+        "word": "医院回应男子1天拔23颗牙后去世",
+        "onboard_time": 1725418938,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189525,
+        "num": 189525,
+        "word": "绝区零",
+        "onboard_time": 1725427401,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188502,
+        "num": 188502,
+        "word": "三只羊",
+        "onboard_time": 1725411199,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 182925,
+        "num": 182925,
+        "word": "林博洋 谋女郎",
+        "onboard_time": 1725423561,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179711,
+        "num": 179711,
+        "word": "西游记剧组不养闲人",
+        "onboard_time": 1725418158,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171738,
+        "num": 171738,
+        "word": "韩版以家人之名预告片",
+        "onboard_time": 1725422781,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167568,
+        "num": 167568,
+        "word": "海南陵水家门口失联男童已遇难",
+        "onboard_time": 1725427700,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167031,
+        "num": 167031,
+        "word": "现在小朋友的名字这么主角感的么",
+        "onboard_time": 1725407477,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166572,
+        "num": 166572,
+        "word": "夏之光双眼皮贴掉了",
+        "onboard_time": 1725427879,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159774,
+        "num": 159774,
+        "word": "辛巴小杨哥曾称兄道弟",
+        "onboard_time": 1725426860,
+        "rank": 43,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 73516,
+        "num": 155005,
+        "word": "酒店大厨上门做饭69元起步",
+        "onboard_time": 1725426260,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154983,
+        "num": 154983,
+        "word": "台风摩羯来袭这3地或有特大暴雨",
+        "onboard_time": 1725421039,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154394,
+        "num": 154394,
+        "word": "彭昱畅侯明昊时隔七年再次合作",
+        "onboard_time": 1725428121,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144088,
+        "num": 144088,
+        "word": "上班用翻译软件被辞退了",
+        "onboard_time": 1725425782,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143080,
+        "num": 143080,
+        "word": "赚女性钱之前请尊重女性",
+        "onboard_time": 1725417020,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140751,
+        "num": 140751,
+        "word": "aespa和EXO起诉脱粉收容所",
+        "onboard_time": 1725419001,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的中非时间#"
+    }
+  }
+}
