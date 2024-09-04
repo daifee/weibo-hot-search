@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725423937834,
+  "endTime": 1725424764587,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 2372054,
-      "num": 484036,
+      "num": 564499,
       "word": "40岁以上女性禁用紧急避孕药",
       "onboard_time": 1725373341,
       "rank": 23,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1808529,
+      "num": 1336658,
+      "word": "曾志伟 三只羊",
+      "onboard_time": 1725409941,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1798685,
       "num": 1798685,
       "word": "袁隆平孙女今年入读中国农业大学",
@@ -337,14 +345,6 @@
       "onboard_time": 1725244819,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1659962,
-      "num": 1336658,
-      "word": "曾志伟 三只羊",
-      "onboard_time": 1725409941,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1582890,
@@ -475,20 +475,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1371843,
+      "num": 1371843,
+      "word": "张欣怡",
+      "onboard_time": 1725419600,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1370603,
       "num": 1370603,
       "word": "迪丽热巴五套迪奥高定",
       "onboard_time": 1725161479,
       "rank": 0,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1368143,
-      "num": 1368143,
-      "word": "张欣怡",
-      "onboard_time": 1725419600,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1334016,
@@ -929,6 +929,14 @@
       "onboard_time": 1725252264,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 917310,
+      "num": 917310,
+      "word": "旅客执意将长满疙瘩的脚放小桌板上",
+      "onboard_time": 1725422347,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 911905,
@@ -1715,6 +1723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 613098,
+      "num": 613098,
+      "word": "乌方计划无限期占领夺取的俄领土",
+      "onboard_time": 1725421582,
+      "rank": 21,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 611734,
       "num": 611734,
       "word": "游泳队合唱孤勇者",
@@ -1881,6 +1897,14 @@
       "onboard_time": 1725191299,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 570989,
+      "num": 758505,
+      "word": "小杨哥回应近日网络纷争",
+      "onboard_time": 1725422301,
+      "rank": 13,
+      "category": "网红,互联网"
     },
     {
       "raw_hot": 570448,
@@ -2323,28 +2347,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 483357,
-      "num": 483357,
-      "word": "乌方计划无限期占领夺取的俄领土",
-      "onboard_time": 1725421582,
-      "rank": 21,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 479267,
       "num": 479267,
       "word": "王一博和老雪",
       "onboard_time": 1725244997,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 478881,
-      "num": 488154,
-      "word": "旅客执意将长满疙瘩的脚放小桌板上",
-      "onboard_time": 1725422347,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 478708,
@@ -2481,6 +2489,14 @@
       "onboard_time": 1725116601,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 452662,
+      "num": 452662,
+      "word": "iPhone16新配色",
+      "onboard_time": 1725419060,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 450898,
@@ -2819,6 +2835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 389844,
+      "num": 389844,
+      "word": "蜘蛛耗时18分钟织的网被嘲了",
+      "onboard_time": 1725422423,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 386747,
       "num": 386747,
       "word": "盛李豪 死腿协调点别搞我",
@@ -2881,14 +2905,6 @@
       "onboard_time": 1725329059,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 377949,
-      "num": 503472,
-      "word": "小杨哥回应近日网络纷争",
-      "onboard_time": 1725422301,
-      "rank": 13,
-      "category": "网红,互联网"
     },
     {
       "raw_hot": 376064,
@@ -3027,20 +3043,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 361353,
+      "num": 632152,
+      "word": "offer6实习生官宣下一站香港",
+      "onboard_time": 1725421701,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357303,
       "num": 357303,
       "word": "陈奕迅用了樊振东同款球拍",
       "onboard_time": 1725234738,
       "rank": 15,
       "category": "演出,体育"
-    },
-    {
-      "raw_hot": 356784,
-      "num": 356784,
-      "word": "iPhone16新配色",
-      "onboard_time": 1725419060,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 356332,
@@ -3089,6 +3105,14 @@
       "onboard_time": 1725342742,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345635,
+      "num": 614577,
+      "word": "异人之下2",
+      "onboard_time": 1725422539,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 344847,
@@ -3379,14 +3403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 304094,
-      "num": 371311,
-      "word": "offer6实习生官宣下一站香港",
-      "onboard_time": 1725421701,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 304038,
       "num": 304038,
       "word": "罗拉否认炒作",
@@ -3449,14 +3465,6 @@
       "onboard_time": 1725280999,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 298966,
-      "num": 298966,
-      "word": "蜘蛛耗时18分钟织的网被嘲了",
-      "onboard_time": 1725422423,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 298737,
@@ -3691,6 +3699,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 282562,
+      "num": 282562,
+      "word": "医院回应男子1天拔23颗牙后去世",
+      "onboard_time": 1725418938,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280963,
       "num": 280963,
       "word": "易烊千玺的面部折叠度",
@@ -3755,20 +3771,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 275647,
-      "num": 275647,
-      "word": "医院回应男子1天拔23颗牙后去世",
-      "onboard_time": 1725418938,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 275639,
       "num": 275639,
       "word": "海莉 小人得志具象化",
       "onboard_time": 1725326480,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 274536,
+      "num": 274536,
+      "word": "花儿与少年6",
+      "onboard_time": 1725423862,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 274368,
@@ -3841,6 +3857,14 @@
       "onboard_time": 1725325161,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 268459,
+      "num": 268459,
+      "word": "林博洋 谋女郎",
+      "onboard_time": 1725423561,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 267982,
@@ -4043,14 +4067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 253024,
-      "num": 253024,
-      "word": "异人之下2",
-      "onboard_time": 1725422539,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 252679,
       "num": 252679,
       "word": "崔宸曦问王楚钦兄弟姐妹的妹呢",
@@ -4080,6 +4096,14 @@
       "word": "第一个叫王楚钦耶耶的人是天才",
       "onboard_time": 1725355461,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 251128,
+      "num": 251128,
+      "word": "郑钦文回应无缘美网4强",
+      "onboard_time": 1725423199,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -4139,6 +4163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 249122,
+      "num": 249122,
+      "word": "台风摩羯来袭这3地或有特大暴雨",
+      "onboard_time": 1725421039,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248981,
       "num": 248981,
       "word": "RNG 散是满天星",
@@ -4155,8 +4187,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 247732,
-      "num": 247732,
+      "raw_hot": 247958,
+      "num": 247958,
       "word": "那些从不痛经的女生到底有什么不一样",
       "onboard_time": 1725421880,
       "rank": 35,
@@ -4169,6 +4201,14 @@
       "onboard_time": 1725344901,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 246494,
+      "num": 246494,
+      "word": "王珞丹杨志刚一不小心成了12年的朋友",
+      "onboard_time": 1725423681,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 246453,
@@ -4353,14 +4393,6 @@
       "onboard_time": 1725265099,
       "rank": 32,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 237516,
-      "num": 237516,
-      "word": "台风摩羯来袭这3地或有特大暴雨",
-      "onboard_time": 1725421039,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235542,
@@ -4691,6 +4723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217039,
+      "num": 217039,
+      "word": "刘美含 给P人亿点来自j人的震撼",
+      "onboard_time": 1725424340,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216892,
       "num": 415897,
       "word": "家长烧掉孩子3000张烟卡不值得叫好",
@@ -4993,6 +5033,14 @@
       "onboard_time": 1725183499,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 206138,
+      "num": 206138,
+      "word": "TOP登陆少年或参加中秋晚会",
+      "onboard_time": 1725424161,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 205974,
@@ -5347,6 +5395,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 196554,
+      "num": 196554,
+      "word": "看姚安娜撒娇眼前一亮又一亮",
+      "onboard_time": 1725424221,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196317,
       "num": 396780,
       "word": "大城市落户为什么越来越容易了",
@@ -5617,14 +5673,6 @@
       "onboard_time": 1725115462,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 190469,
-      "num": 190469,
-      "word": "王珞丹杨志刚一不小心成了12年的朋友",
-      "onboard_time": 1725423681,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 190287,
@@ -5899,14 +5947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184746,
-      "num": 184746,
-      "word": "林博洋 谋女郎",
-      "onboard_time": 1725423561,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 184707,
       "num": 184707,
       "word": "王曼昱回黑龙江受到热烈迎接",
@@ -6113,6 +6153,14 @@
       "onboard_time": 1725340581,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 179054,
+      "num": 179054,
+      "word": "美国籍抗日航空英烈名录首次发布",
+      "onboard_time": 1725423140,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178979,
@@ -6395,14 +6443,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 173339,
-      "num": 173339,
-      "word": "花儿与少年6",
-      "onboard_time": 1725423862,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 173261,
       "num": 528218,
       "word": "女子花3980买的品牌鞋竟是假货",
@@ -6648,6 +6688,14 @@
       "word": "官方通报导游编撰因高反每年死20人",
       "onboard_time": 1725247400,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167447,
+      "num": 459774,
+      "word": "未成年人怀孕就诊强制报告有何意义",
+      "onboard_time": 1725418520,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -7131,6 +7179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156642,
+      "num": 499686,
+      "word": "中年后我成了没有朋友的人",
+      "onboard_time": 1725420379,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156432,
       "num": 156432,
       "word": "全球橙汁价格大涨",
@@ -7153,14 +7209,6 @@
       "onboard_time": 1725278840,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 156132,
-      "num": 499686,
-      "word": "中年后我成了没有朋友的人",
-      "onboard_time": 1725420379,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156036,
@@ -7596,7 +7644,7 @@
     },
     {
       "raw_hot": 144466,
-      "num": 493129,
+      "num": 623765,
       "word": "翁青雅彭高好嗑",
       "onboard_time": 1725412040,
       "rank": 28,
@@ -8057,6 +8105,14 @@
       "onboard_time": 1725196820,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122880,
+      "num": 731068,
+      "word": "医院越来越难开到进口原研药",
+      "onboard_time": 1725424281,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122597,
@@ -8939,14 +8995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 64603,
-      "num": 459774,
-      "word": "未成年人怀孕就诊强制报告有何意义",
-      "onboard_time": 1725418520,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 64546,
       "num": 299494,
       "word": "长沙一学校新生出现诸多四字姓名",
@@ -9675,6 +9723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34463,
+      "num": 400941,
+      "word": "于和伟看完华为三折叠眼神都变了",
+      "onboard_time": 1725421940,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34459,
       "num": 52106,
       "word": "唐尚珺谈为何上岸",
@@ -9740,7 +9796,7 @@
     },
     {
       "raw_hot": 33331,
-      "num": 585666,
+      "num": 753096,
       "word": "求知的种子终会长成参天大树",
       "onboard_time": 1725423802,
       "rank": 7,
@@ -9985,14 +10041,6 @@
       "onboard_time": 1725275061,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25653,
-      "num": 381047,
-      "word": "于和伟看完华为三折叠眼神都变了",
-      "onboard_time": 1725421940,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 25202,

@@ -1,6 +1,6 @@
 {
   "startTime": 1725380864855,
-  "endTime": 1725423937834,
+  "endTime": 1725424764587,
   "band_list": [
     {
       "raw_hot": 2706478,
@@ -43,7 +43,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1659962,
+      "raw_hot": 1808529,
       "num": 1336658,
       "word": "曾志伟 三只羊",
       "onboard_time": 1725409941,
@@ -59,8 +59,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1368143,
-      "num": 1368143,
+      "raw_hot": 1371843,
+      "num": 1371843,
       "word": "张欣怡",
       "onboard_time": 1725419600,
       "rank": 33,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1194007,
-      "num": 484036,
+      "num": 564499,
       "word": "40岁以上女性禁用紧急避孕药",
       "onboard_time": 1725373341,
       "rank": 20,
@@ -121,6 +121,14 @@
       "onboard_time": 1725409520,
       "rank": 4,
       "category": "数码"
+    },
+    {
+      "raw_hot": 917310,
+      "num": 917310,
+      "word": "旅客执意将长满疙瘩的脚放小桌板上",
+      "onboard_time": 1725422347,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 907040,
@@ -195,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 613098,
+      "num": 613098,
+      "word": "乌方计划无限期占领夺取的俄领土",
+      "onboard_time": 1725421582,
+      "rank": 21,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 598941,
       "num": 776455,
       "word": "家长称儿子遭教官猥亵已报警",
@@ -209,6 +225,14 @@
       "onboard_time": 1725341422,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 570989,
+      "num": 758505,
+      "word": "小杨哥回应近日网络纷争",
+      "onboard_time": 1725422301,
+      "rank": 13,
+      "category": "网红,互联网"
     },
     {
       "raw_hot": 547119,
@@ -259,22 +283,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 483357,
-      "num": 483357,
-      "word": "乌方计划无限期占领夺取的俄领土",
-      "onboard_time": 1725421582,
-      "rank": 21,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 478881,
-      "num": 488154,
-      "word": "旅客执意将长满疙瘩的脚放小桌板上",
-      "onboard_time": 1725422347,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 471177,
       "num": 471177,
       "word": "现在小朋友的名字这么主角感的么",
@@ -305,6 +313,14 @@
       "onboard_time": 1725369980,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 452662,
+      "num": 452662,
+      "word": "iPhone16新配色",
+      "onboard_time": 1725419060,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 448881,
@@ -347,12 +363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 377949,
-      "num": 503472,
-      "word": "小杨哥回应近日网络纷争",
-      "onboard_time": 1725422301,
-      "rank": 13,
-      "category": "网红,互联网"
+      "raw_hot": 389844,
+      "num": 389844,
+      "word": "蜘蛛耗时18分钟织的网被嘲了",
+      "onboard_time": 1725422423,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 363279,
@@ -363,12 +379,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 356784,
-      "num": 356784,
-      "word": "iPhone16新配色",
-      "onboard_time": 1725419060,
-      "rank": 35,
-      "category": "数码"
+      "raw_hot": 361353,
+      "num": 632152,
+      "word": "offer6实习生官宣下一站香港",
+      "onboard_time": 1725421701,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 345635,
+      "num": 614577,
+      "word": "异人之下2",
+      "onboard_time": 1725422539,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 327448,
@@ -385,22 +409,6 @@
       "onboard_time": 1725363620,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 304094,
-      "num": 371311,
-      "word": "offer6实习生官宣下一站香港",
-      "onboard_time": 1725421701,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 298966,
-      "num": 298966,
-      "word": "蜘蛛耗时18分钟织的网被嘲了",
-      "onboard_time": 1725422423,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 294448,
@@ -435,12 +443,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 275647,
-      "num": 275647,
+      "raw_hot": 282562,
+      "num": 282562,
       "word": "医院回应男子1天拔23颗牙后去世",
       "onboard_time": 1725418938,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274536,
+      "num": 274536,
+      "word": "花儿与少年6",
+      "onboard_time": 1725423862,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 268459,
+      "num": 268459,
+      "word": "林博洋 谋女郎",
+      "onboard_time": 1725423561,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 266303,
@@ -483,20 +507,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 253024,
-      "num": 253024,
-      "word": "异人之下2",
-      "onboard_time": 1725422539,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 252320,
       "num": 252320,
       "word": "长春持刀闹事男子抢走警察配枪",
       "onboard_time": 1725382875,
       "rank": 9,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 251128,
+      "num": 251128,
+      "word": "郑钦文回应无缘美网4强",
+      "onboard_time": 1725423199,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 249589,
@@ -507,12 +531,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 247732,
-      "num": 247732,
+      "raw_hot": 249122,
+      "num": 249122,
+      "word": "台风摩羯来袭这3地或有特大暴雨",
+      "onboard_time": 1725421039,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247958,
+      "num": 247958,
       "word": "那些从不痛经的女生到底有什么不一样",
       "onboard_time": 1725421880,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 246494,
+      "num": 246494,
+      "word": "王珞丹杨志刚一不小心成了12年的朋友",
+      "onboard_time": 1725423681,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 244357,
@@ -555,14 +595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 237516,
-      "num": 237516,
-      "word": "台风摩羯来袭这3地或有特大暴雨",
-      "onboard_time": 1725421039,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 232457,
       "num": 232457,
       "word": "戴荃回应丁太升",
@@ -585,6 +617,14 @@
       "onboard_time": 1725379218,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217039,
+      "num": 217039,
+      "word": "刘美含 给P人亿点来自j人的震撼",
+      "onboard_time": 1725424340,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 216480,
@@ -611,12 +651,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206138,
+      "num": 206138,
+      "word": "TOP登陆少年或参加中秋晚会",
+      "onboard_time": 1725424161,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196838,
       "num": 196838,
       "word": "华为终端",
       "onboard_time": 1725414139,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 196554,
+      "num": 196554,
+      "word": "看姚安娜撒娇眼前一亮又一亮",
+      "onboard_time": 1725424221,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 195485,
@@ -651,14 +707,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 190469,
-      "num": 190469,
-      "word": "王珞丹杨志刚一不小心成了12年的朋友",
-      "onboard_time": 1725423681,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 188897,
       "num": 188897,
       "word": "迪丽热巴学归墟礼仪花絮",
@@ -691,14 +739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184746,
-      "num": 184746,
-      "word": "林博洋 谋女郎",
-      "onboard_time": 1725423561,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 183407,
       "num": 183407,
       "word": "原来这些都是假牛肉",
@@ -721,6 +761,14 @@
       "onboard_time": 1725414558,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 179054,
+      "num": 179054,
+      "word": "美国籍抗日航空英烈名录首次发布",
+      "onboard_time": 1725423140,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178925,
@@ -755,14 +803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 173339,
-      "num": 173339,
-      "word": "花儿与少年6",
-      "onboard_time": 1725423862,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 173245,
       "num": 173245,
       "word": "阴阳师周年礼",
@@ -785,6 +825,14 @@
       "onboard_time": 1725418820,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 167447,
+      "num": 459774,
+      "word": "未成年人怀孕就诊强制报告有何意义",
+      "onboard_time": 1725418520,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167180,
@@ -843,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156642,
+      "num": 499686,
+      "word": "中年后我成了没有朋友的人",
+      "onboard_time": 1725420379,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156432,
       "num": 156432,
       "word": "全球橙汁价格大涨",
@@ -851,16 +907,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 156132,
-      "num": 499686,
-      "word": "中年后我成了没有朋友的人",
-      "onboard_time": 1725420379,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144466,
-      "num": 493129,
+      "num": 623765,
       "word": "翁青雅彭高好嗑",
       "onboard_time": 1725412040,
       "rank": 28,
@@ -945,6 +993,14 @@
       "onboard_time": 1725408380,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122880,
+      "num": 731068,
+      "word": "医院越来越难开到进口原研药",
+      "onboard_time": 1725424281,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121835,
@@ -1195,14 +1251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 64603,
-      "num": 459774,
-      "word": "未成年人怀孕就诊强制报告有何意义",
-      "onboard_time": 1725418520,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 62556,
       "num": 389578,
       "word": "国产电视剧火爆非洲",
@@ -1299,8 +1347,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34463,
+      "num": 400941,
+      "word": "于和伟看完华为三折叠眼神都变了",
+      "onboard_time": 1725421940,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33331,
-      "num": 585666,
+      "num": 753096,
       "word": "求知的种子终会长成参天大树",
       "onboard_time": 1725423802,
       "rank": 7,
@@ -1345,14 +1401,6 @@
       "onboard_time": 1725387492,
       "rank": 43,
       "category": "艺人,电竞"
-    },
-    {
-      "raw_hot": 25653,
-      "num": 381047,
-      "word": "于和伟看完华为三折叠眼神都变了",
-      "onboard_time": 1725421940,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 25202,
