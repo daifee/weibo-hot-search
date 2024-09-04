@@ -1,0 +1,410 @@
+{
+  "runTime": 1725418444785,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2183688,
+        "num": 2183688,
+        "word": "三只羊",
+        "onboard_time": 1725411199,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1654531,
+        "num": 1654531,
+        "word": "曾志伟连夜改名去掉三只羊",
+        "onboard_time": 1725409941,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 5371,
+        "num": 1334968,
+        "word": "90秒科普中非合作成果",
+        "onboard_time": 1725368600,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1329439,
+        "num": 1329439,
+        "word": "董明珠谈35岁找不到工作",
+        "onboard_time": 1725414617,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1135690,
+        "num": 1135690,
+        "word": "女实习生工作抓了个逃犯",
+        "onboard_time": 1725414678,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 941718,
+        "num": 941718,
+        "word": "三只羊女主播沫沫已有9个月未更新",
+        "onboard_time": 1725400093,
+        "rank": 5,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 903267,
+        "num": 903267,
+        "word": "杨幂 华为",
+        "onboard_time": 1725415698,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 843204,
+        "num": 843204,
+        "word": "郑钦文无缘美网4强",
+        "onboard_time": 1725410242,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 840093,
+        "num": 840093,
+        "word": "女子长期吃素确诊重度贫血",
+        "onboard_time": 1725415580,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32395,
+        "num": 721841,
+        "word": "她赴非洲教养鱼21年带3千学生",
+        "onboard_time": 1725418399,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709506,
+        "num": 709506,
+        "word": "专家称房价下跌40元咖啡都不敢喝",
+        "onboard_time": 1725416359,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513786,
+        "num": 513786,
+        "word": "iPhone16定价",
+        "onboard_time": 1725409520,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 508104,
+        "num": 508104,
+        "word": "iPhone16Pro对比13Pro的十大升级",
+        "onboard_time": 1725413780,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 480455,
+        "num": 480455,
+        "word": "散打哥 辛巴说的是真的",
+        "onboard_time": 1725411681,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 330830,
+        "num": 474624,
+        "word": "纪委回应副局长被曝涉不雅聊天语音",
+        "onboard_time": 1725417020,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473561,
+        "num": 473561,
+        "word": "境外间谍盯上我国青年学生",
+        "onboard_time": 1725413899,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422106,
+        "num": 422106,
+        "word": "现在小朋友的名字这么主角感的么",
+        "onboard_time": 1725407477,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 342720,
+        "num": 342720,
+        "word": "郑钦文美网收获430积分375万奖金",
+        "onboard_time": 1725412219,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250639,
+        "num": 280861,
+        "word": "肖央赵丽颖新片丢了孩子就像丢了魂",
+        "onboard_time": 1725412940,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193064,
+        "num": 269596,
+        "word": "异人之下之决战碧游村首发预告",
+        "onboard_time": 1725417798,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 769164,
+        "num": 269138,
+        "word": "40岁以上女性禁用紧急避孕药",
+        "onboard_time": 1725373341,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265957,
+        "num": 265957,
+        "word": "男孩骑行遭碾压身亡司机妻子患白血病",
+        "onboard_time": 1725365420,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 506984,
+        "num": 259728,
+        "word": "碾压骑行男孩涉案司机律师发声",
+        "onboard_time": 1725408620,
+        "rank": 22,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 252686,
+        "num": 252686,
+        "word": "辛巴 三只羊",
+        "onboard_time": 1725411081,
+        "rank": 23,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 242101,
+        "num": 242101,
+        "word": "郑钦文凌晨4点半才睡",
+        "onboard_time": 1725415518,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232998,
+        "num": 232998,
+        "word": "杨笠 这是血肉在疯长的声音",
+        "onboard_time": 1725411441,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188517,
+        "num": 231603,
+        "word": "赵露思玩甄嬛传梗",
+        "onboard_time": 1725410423,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174685,
+        "num": 227278,
+        "word": "李耕耘你在搞什么呀",
+        "onboard_time": 1725416718,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174606,
+        "num": 220784,
+        "word": "颜怡颜悦 七个矮子放现在叫男团",
+        "onboard_time": 1725375443,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130369,
+        "num": 216242,
+        "word": "流水迢迢",
+        "onboard_time": 1725415818,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200045,
+        "num": 211783,
+        "word": "男孩开学失联被发现躲大伯家吹空调",
+        "onboard_time": 1725406097,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211249,
+        "num": 211249,
+        "word": "赚女性钱之前请尊重女性",
+        "onboard_time": 1725417020,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187857,
+        "num": 187857,
+        "word": "2023年苹果税收入四分之一来自中国",
+        "onboard_time": 1725417798,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 185844,
+        "num": 185844,
+        "word": "北方多地一雨成秋南方暑热依旧",
+        "onboard_time": 1725409941,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179241,
+        "num": 179241,
+        "word": "罗永浩 俞敏洪",
+        "onboard_time": 1725414558,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 179200,
+        "num": 179200,
+        "word": "郑钦文维基奇萨巴伦卡形成困难闭环",
+        "onboard_time": 1725413780,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173843,
+        "num": 173843,
+        "word": "高铁上一对退役军人情侣火了",
+        "onboard_time": 1725409820,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173142,
+        "num": 173142,
+        "word": "猫 那咋了",
+        "onboard_time": 1725405196,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166738,
+        "num": 166738,
+        "word": "青岛警方通报王某驾车逆行殴打他人案",
+        "onboard_time": 1725341422,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161880,
+        "num": 161880,
+        "word": "华为MateXT非凡大师",
+        "onboard_time": 1725416060,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 161343,
+        "num": 161343,
+        "word": "原来这些都是假牛肉",
+        "onboard_time": 1725411621,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 140168,
+        "num": 140168,
+        "word": "全球橙汁价格大涨",
+        "onboard_time": 1725416718,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141564,
+        "num": 140143,
+        "word": "儿童骑行被碾压案司机亲属发声",
+        "onboard_time": 1725361732,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139751,
+        "num": 139751,
+        "word": "华为终端",
+        "onboard_time": 1725414139,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 139029,
+        "num": 139029,
+        "word": "郑钦文vs萨巴伦卡",
+        "onboard_time": 1725378680,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134689,
+        "num": 134689,
+        "word": "台风摩羯或将于6日登陆海南",
+        "onboard_time": 1725416239,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128115,
+        "num": 128115,
+        "word": "萨巴伦卡好壮",
+        "onboard_time": 1725408860,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126194,
+        "num": 126194,
+        "word": "印度奸杀案事发医院前院长被捕",
+        "onboard_time": 1725412219,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122604,
+        "num": 122604,
+        "word": "西游记剧组不养闲人",
+        "onboard_time": 1725418158,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116722,
+        "num": 116722,
+        "word": "盛李豪贴脸开大自己",
+        "onboard_time": 1725417619,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#共创中非美好未来#"
+    }
+  }
+}
