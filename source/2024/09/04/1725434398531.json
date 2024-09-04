@@ -1,0 +1,410 @@
+{
+  "runTime": 1725434398531,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2551495,
+        "num": 2551495,
+        "word": "k总 退网",
+        "onboard_time": 1725430820,
+        "rank": 0,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 2394639,
+        "num": 2394639,
+        "word": "干巴大叔去世",
+        "onboard_time": 1725431180,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 5872,
+        "num": 1508270,
+        "word": "开辟中非关系更加壮丽的前景",
+        "onboard_time": 1725423922,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1272396,
+        "num": 1272396,
+        "word": "大学生偷东西被学校开除后起诉公安",
+        "onboard_time": 1725430699,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 955905,
+        "num": 955905,
+        "word": "蓝盈莹 分手会疯狂报班",
+        "onboard_time": 1725429738,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 843803,
+        "num": 843803,
+        "word": "60岁知名华裔科学家吴瑛自杀",
+        "onboard_time": 1725430218,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 845482,
+        "num": 843222,
+        "word": "陈好 压迫感",
+        "onboard_time": 1725431902,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 802413,
+        "num": 802413,
+        "word": "旅客执意将长满疙瘩的脚放小桌板上",
+        "onboard_time": 1725422347,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421665,
+        "num": 748261,
+        "word": "江苏师范大学食堂打人",
+        "onboard_time": 1725432920,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103619,
+        "num": 704975,
+        "word": "阳澄湖行业协会暂停蟹太太会员权利",
+        "onboard_time": 1725430218,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1784531,
+        "num": 624031,
+        "word": "江苏师范大学",
+        "onboard_time": 1725430820,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 845730,
+        "num": 587104,
+        "word": "乌克兰驻日大使拜鬼",
+        "onboard_time": 1725418520,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 815409,
+        "num": 502879,
+        "word": "原来妊娠纹能在电影中出现",
+        "onboard_time": 1725426201,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 483781,
+        "num": 483781,
+        "word": "专家称房价下跌40元咖啡都不敢喝",
+        "onboard_time": 1725416359,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27178,
+        "num": 464778,
+        "word": "全国蔬菜价格开始回落",
+        "onboard_time": 1725433339,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458855,
+        "num": 458855,
+        "word": "曾志伟 三只羊",
+        "onboard_time": 1725409941,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355288,
+        "num": 394398,
+        "word": "魏哲鸣 怎么不等我手断了再说",
+        "onboard_time": 1725430218,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197128,
+        "num": 392694,
+        "word": "易烊千玺尹昉再合作",
+        "onboard_time": 1725433160,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392525,
+        "num": 392525,
+        "word": "iPhone16新配色",
+        "onboard_time": 1725419060,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 75784,
+        "num": 388989,
+        "word": "两百多名车主购新车后无法上牌",
+        "onboard_time": 1725433401,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387243,
+        "num": 387243,
+        "word": "40岁以上女性禁用紧急避孕药",
+        "onboard_time": 1725373341,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384713,
+        "num": 384713,
+        "word": "张欣怡",
+        "onboard_time": 1725419600,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334829,
+        "num": 334829,
+        "word": "董明珠谈35岁找不到工作",
+        "onboard_time": 1725414617,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334353,
+        "num": 334353,
+        "word": "黄雅莉儿子还没满月就出来上班了",
+        "onboard_time": 1725433581,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332551,
+        "num": 332551,
+        "word": "华为三折叠",
+        "onboard_time": 1725426141,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 306759,
+        "num": 306759,
+        "word": "医院越来越难开到进口原研药",
+        "onboard_time": 1725424281,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230210,
+        "num": 230210,
+        "word": "原来熊猫宝宝睡觉也要盖肚脐",
+        "onboard_time": 1725430760,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225600,
+        "num": 225600,
+        "word": "袁隆平墓前有一碗非洲农民的大米",
+        "onboard_time": 1725433339,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215305,
+        "num": 215305,
+        "word": "黄景瑜片场吃鸡架一吃吃半盆",
+        "onboard_time": 1725430580,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187282,
+        "num": 187282,
+        "word": "侯明昊三番",
+        "onboard_time": 1725425061,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225925,
+        "num": 186563,
+        "word": "三只羊女主播沫沫已有9个月未更新",
+        "onboard_time": 1725400093,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 185285,
+        "num": 185285,
+        "word": "女子长期吃素确诊重度贫血",
+        "onboard_time": 1725415580,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185042,
+        "num": 185042,
+        "word": "干巴大叔",
+        "onboard_time": 1725433581,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 184670,
+        "num": 184670,
+        "word": "婚姻三大杀手 不上进抠门没情趣",
+        "onboard_time": 1725419961,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181970,
+        "num": 181970,
+        "word": "非洲记者谈孙颖莎基普乔格代表大洲",
+        "onboard_time": 1725428718,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43883,
+        "num": 180902,
+        "word": "网球男孩也有冠军梦",
+        "onboard_time": 1725434060,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179851,
+        "num": 179851,
+        "word": "小杨哥回应近日网络纷争",
+        "onboard_time": 1725422301,
+        "rank": 36,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 170342,
+        "num": 170342,
+        "word": "东北冻梨已经进化到这种程度了",
+        "onboard_time": 1725431359,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 168629,
+        "num": 168629,
+        "word": "泰坦尼克号或将会彻底消失",
+        "onboard_time": 1725432981,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166252,
+        "num": 166252,
+        "word": "海南陵水家门口失联男童已遇难",
+        "onboard_time": 1725427700,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163209,
+        "num": 163209,
+        "word": "刘美含 给P人亿点来自j人的震撼",
+        "onboard_time": 1725424340,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160609,
+        "num": 160609,
+        "word": "异人之下2",
+        "onboard_time": 1725422539,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160029,
+        "num": 160029,
+        "word": "郑钦文回应无缘美网4强",
+        "onboard_time": 1725423199,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159584,
+        "num": 159584,
+        "word": "国安提醒当心高薪兼职陷阱",
+        "onboard_time": 1725433761,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158024,
+        "num": 158024,
+        "word": "那些从不痛经的女生到底有什么不一样",
+        "onboard_time": 1725421880,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152489,
+        "num": 152489,
+        "word": "上班用翻译软件被辞退了",
+        "onboard_time": 1725425782,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146176,
+        "num": 146176,
+        "word": "辛巴小杨哥曾称兄道弟",
+        "onboard_time": 1725426860,
+        "rank": 46,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 138100,
+        "num": 138100,
+        "word": "和AI过日子是什么体验",
+        "onboard_time": 1725434300,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 137864,
+        "num": 137864,
+        "word": "黄雨婷18岁生日捐出奥运射击服",
+        "onboard_time": 1725430519,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136990,
+        "num": 136990,
+        "word": "宋威龙赵今麦或演骄阳似我",
+        "onboard_time": 1725432199,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的中非时间#"
+    }
+  }
+}

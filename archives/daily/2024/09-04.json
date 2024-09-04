@@ -1,6 +1,6 @@
 {
   "startTime": 1725380864855,
-  "endTime": 1725432165212,
+  "endTime": 1725434398531,
   "band_list": [
     {
       "raw_hot": 2706478,
@@ -9,6 +9,22 @@
       "onboard_time": 1725410242,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2551495,
+      "num": 2551495,
+      "word": "k总 退网",
+      "onboard_time": 1725430820,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 2394639,
+      "num": 2394639,
+      "word": "干巴大叔去世",
+      "onboard_time": 1725431180,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 2377520,
@@ -43,14 +59,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1975700,
-      "num": 1975700,
-      "word": "干巴大叔去世",
-      "onboard_time": 1725431180,
-      "rank": 18,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1890748,
       "num": 1890748,
       "word": "专家称房价下跌40元咖啡都不敢喝",
@@ -75,12 +83,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1742860,
-      "num": 1742860,
-      "word": "k总 退网",
+      "raw_hot": 1784531,
+      "num": 624031,
+      "word": "江苏师范大学",
       "onboard_time": 1725430820,
-      "rank": 16,
-      "category": "电竞"
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1530916,
@@ -104,6 +112,14 @@
       "word": "董明珠谈35岁找不到工作",
       "onboard_time": 1725414617,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1272396,
+      "num": 1272396,
+      "word": "大学生偷东西被学校开除后起诉公安",
+      "onboard_time": 1725430699,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -195,6 +211,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 845482,
+      "num": 843222,
+      "word": "陈好 压迫感",
+      "onboard_time": 1725431902,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 779438,
       "num": 779438,
       "word": "华为三折叠",
@@ -248,14 +272,6 @@
       "word": "024596警号重启",
       "onboard_time": 1725378619,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 702602,
-      "num": 449288,
-      "word": "江苏师范大学",
-      "onboard_time": 1725430820,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -435,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 421665,
+      "num": 748261,
+      "word": "江苏师范大学食堂打人",
+      "onboard_time": 1725432920,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 419626,
       "num": 579284,
       "word": "杨笠 这是血肉在疯长的声音",
@@ -491,20 +515,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334353,
+      "num": 334353,
+      "word": "黄雅莉儿子还没满月就出来上班了",
+      "onboard_time": 1725433581,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327448,
       "num": 494229,
       "word": "西游记剧组不养闲人",
       "onboard_time": 1725418158,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 326253,
-      "num": 326253,
-      "word": "大学生偷东西被学校开除后起诉公安",
-      "onboard_time": 1725430699,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 319425,
@@ -723,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230210,
+      "num": 230210,
+      "word": "原来熊猫宝宝睡觉也要盖肚脐",
+      "onboard_time": 1725430760,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230049,
       "num": 281472,
       "word": "第一次看到请全村人吃席的综艺",
@@ -739,12 +771,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225600,
+      "num": 225600,
+      "word": "袁隆平墓前有一碗非洲农民的大米",
+      "onboard_time": 1725433339,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216480,
       "num": 216480,
       "word": "68岁教授说现在的年轻人比以前难多了",
       "onboard_time": 1725391270,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215305,
+      "num": 215305,
+      "word": "黄景瑜片场吃鸡架一吃吃半盆",
+      "onboard_time": 1725430580,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 213938,
@@ -793,6 +841,14 @@
       "onboard_time": 1725428718,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197128,
+      "num": 392694,
+      "word": "易烊千玺尹昉再合作",
+      "onboard_time": 1725433160,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 196838,
@@ -851,14 +907,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 190903,
-      "num": 190903,
-      "word": "陈好 压迫感",
-      "onboard_time": 1725431902,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 189525,
       "num": 189525,
       "word": "绝区零",
@@ -897,6 +945,14 @@
       "onboard_time": 1725410242,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185042,
+      "num": 185042,
+      "word": "干巴大叔",
+      "onboard_time": 1725433581,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 184812,
@@ -947,14 +1003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177634,
-      "num": 177634,
-      "word": "黄景瑜片场吃鸡架一吃吃半盆",
-      "onboard_time": 1725430580,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 177231,
       "num": 177231,
       "word": "全红婵谁也没放过",
@@ -995,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170342,
+      "num": 170342,
+      "word": "东北冻梨已经进化到这种程度了",
+      "onboard_time": 1725431359,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 169353,
       "num": 169353,
       "word": "A股",
@@ -1009,6 +1065,14 @@
       "onboard_time": 1725432021,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 168629,
+      "num": 168629,
+      "word": "泰坦尼克号或将会彻底消失",
+      "onboard_time": 1725432981,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168179,
@@ -1107,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159584,
+      "num": 159584,
+      "word": "国安提醒当心高薪兼职陷阱",
+      "onboard_time": 1725433761,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158961,
       "num": 158961,
       "word": "如果一个人的火把太小",
@@ -1116,7 +1188,7 @@
     },
     {
       "raw_hot": 158950,
-      "num": 158950,
+      "num": 704975,
       "word": "阳澄湖行业协会暂停蟹太太会员权利",
       "onboard_time": 1725430218,
       "rank": 42,
@@ -1171,28 +1243,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 155714,
-      "num": 155714,
-      "word": "东北冻梨已经进化到这种程度了",
-      "onboard_time": 1725431359,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 154394,
       "num": 154394,
       "word": "彭昱畅侯明昊时隔七年再次合作",
       "onboard_time": 1725428121,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153645,
-      "num": 153645,
-      "word": "原来熊猫宝宝睡觉也要盖肚脐",
-      "onboard_time": 1725430760,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152726,
@@ -1251,12 +1307,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138100,
+      "num": 138100,
+      "word": "和AI过日子是什么体验",
+      "onboard_time": 1725434300,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 137058,
       "num": 137058,
       "word": "沈腾一个游戏得罪马丽范丞丞贾玲",
       "onboard_time": 1725385453,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136990,
+      "num": 136990,
+      "word": "宋威龙赵今麦或演骄阳似我",
+      "onboard_time": 1725432199,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 132485,
@@ -1539,6 +1611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75784,
+      "num": 388989,
+      "word": "两百多名车主购新车后无法上牌",
+      "onboard_time": 1725433401,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74446,
       "num": 390788,
       "word": "河南中牟通报教官体罚14岁女生",
@@ -1651,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43883,
+      "num": 180902,
+      "word": "网球男孩也有冠军梦",
+      "onboard_time": 1725434060,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42985,
       "num": 1639017,
       "word": "开辟中非关系更加壮丽的前景",
@@ -1753,6 +1841,14 @@
       "onboard_time": 1725387492,
       "rank": 43,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 27178,
+      "num": 464778,
+      "word": "全国蔬菜价格开始回落",
+      "onboard_time": 1725433339,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25202,
