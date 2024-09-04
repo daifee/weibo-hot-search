@@ -1,6 +1,6 @@
 {
   "startTime": 1725467191451,
-  "endTime": 1725475218541,
+  "endTime": 1725477448677,
   "band_list": [
     {
       "raw_hot": 968438,
@@ -419,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54175,
+      "num": 40709,
+      "word": "小杨哥曾说辛巴永远是学习对象",
+      "onboard_time": 1725473412,
+      "rank": 39,
+      "category": "网红,互联网"
+    },
+    {
       "raw_hot": 40940,
       "num": 40940,
       "word": "凡人歌",
@@ -433,14 +441,6 @@
       "onboard_time": 1725470773,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 39381,
-      "num": 39381,
-      "word": "小杨哥曾说辛巴永远是学习对象",
-      "onboard_time": 1725473412,
-      "rank": 39,
-      "category": "网红,互联网"
     },
     {
       "raw_hot": 34127,
@@ -467,12 +467,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 21572,
+      "raw_hot": 24680,
       "num": 83683,
       "word": "陶俑闺蜜手牵手千年了",
       "onboard_time": 1725473832,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21123,
+      "num": 22256,
+      "word": "边水往事",
+      "onboard_time": 1725476831,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 20503,
@@ -481,6 +489,14 @@
       "onboard_time": 1725469396,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13103,
+      "num": 40729,
+      "word": "中新网评园长收学生6元巧克力被开除",
+      "onboard_time": 1725475691,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7813,
