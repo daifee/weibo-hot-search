@@ -1,0 +1,410 @@
+{
+  "runTime": 1725467191451,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 968438,
+        "num": 968438,
+        "word": "余宇涵报警",
+        "onboard_time": 1725451940,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451942,
+        "num": 451942,
+        "word": "台风",
+        "onboard_time": 1725448699,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29880,
+        "num": 448705,
+        "word": "中国制造在加纳受欢迎程度",
+        "onboard_time": 1725455483,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 907695,
+        "num": 448447,
+        "word": "我感觉我的 不对劲",
+        "onboard_time": 1725460762,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448076,
+        "num": 448076,
+        "word": "奥运冠军李倩杨家玉获赠住房",
+        "onboard_time": 1725458241,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 404396,
+        "num": 404396,
+        "word": "辛巴称播了7年该离开这行业了",
+        "onboard_time": 1725454759,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 596197,
+        "num": 402415,
+        "word": "辛巴将安排1亿元赔付三只羊消费者",
+        "onboard_time": 1725455483,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 524000,
+        "num": 400073,
+        "word": "田嘉瑞 我妈银行的",
+        "onboard_time": 1725461122,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393607,
+        "num": 393607,
+        "word": "王梦洁官宣结婚",
+        "onboard_time": 1725448879,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83920,
+        "num": 365614,
+        "word": "四种台风预警信号分别意味着什么",
+        "onboard_time": 1725463461,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544532,
+        "num": 361941,
+        "word": "小杨哥一个月掉粉超70万",
+        "onboard_time": 1725445099,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 353692,
+        "num": 353692,
+        "word": "女生boss直聘找工作疑被要求陪睡",
+        "onboard_time": 1725455182,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336054,
+        "num": 336054,
+        "word": "马龙王楚钦买的月饼被车碾了",
+        "onboard_time": 1725454821,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335452,
+        "num": 335452,
+        "word": "女生吃粉监控画面被店主发群聊开黄腔",
+        "onboard_time": 1725450859,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325354,
+        "num": 325354,
+        "word": "余宇涵不对劲文学",
+        "onboard_time": 1725463159,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310624,
+        "num": 310624,
+        "word": "蟹太太回应辛巴三只羊纠纷",
+        "onboard_time": 1725459501,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 273658,
+        "num": 273658,
+        "word": "女子接收不明快递包裹后被骗33万元",
+        "onboard_time": 1725462021,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209425,
+        "num": 209425,
+        "word": "陈好 你们是我带过的最差的一届",
+        "onboard_time": 1725447320,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186232,
+        "num": 186232,
+        "word": "在人民大会堂欢迎国际贵宾",
+        "onboard_time": 1725462501,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 318411,
+        "num": 184937,
+        "word": "余宇涵回应聊天记录",
+        "onboard_time": 1725453680,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346158,
+        "num": 175672,
+        "word": "k总 退网",
+        "onboard_time": 1725430820,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 165529,
+        "num": 165529,
+        "word": "30多块的牛约堡档口老鼠遍地跑",
+        "onboard_time": 1725464240,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162959,
+        "num": 162959,
+        "word": "20岁小伙只喝奶茶饮料成牛奶血",
+        "onboard_time": 1725445942,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161837,
+        "num": 161837,
+        "word": "女子给民警送锦旗民警反送一副手铐",
+        "onboard_time": 1725453141,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161726,
+        "num": 161726,
+        "word": "章若楠这段不像演的",
+        "onboard_time": 1725451220,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151809,
+        "num": 151809,
+        "word": "外卖脱骨鸡被盗报警抓获1只小猫",
+        "onboard_time": 1725460821,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146375,
+        "num": 146375,
+        "word": "恋与深空黎深",
+        "onboard_time": 1725462741,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139134,
+        "num": 139134,
+        "word": "王昶 已经开始了啊",
+        "onboard_time": 1725455842,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136183,
+        "num": 136183,
+        "word": "白鹿一穿红衣准要虐",
+        "onboard_time": 1725455061,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134307,
+        "num": 134307,
+        "word": "徐娇泳装写真",
+        "onboard_time": 1725450919,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133762,
+        "num": 133762,
+        "word": "鱼 快来鱼啊我钓着人了",
+        "onboard_time": 1725462382,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130589,
+        "num": 130589,
+        "word": "IVE未公开新歌SupernovaLove",
+        "onboard_time": 1725455301,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128365,
+        "num": 128365,
+        "word": "杨威晒15岁儿子近况",
+        "onboard_time": 1725462081,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128278,
+        "num": 128278,
+        "word": "十六秒从王一博妈粉变女友粉",
+        "onboard_time": 1725465978,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127266,
+        "num": 127266,
+        "word": "猪场老板称高铁施工致千头猪死亡",
+        "onboard_time": 1725458782,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125287,
+        "num": 125287,
+        "word": "辛巴宣布今年不再卖大闸蟹",
+        "onboard_time": 1725461181,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 121094,
+        "num": 121094,
+        "word": "刘雨昕新专辑概念疑似抄袭",
+        "onboard_time": 1725466998,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 105029,
+        "num": 105029,
+        "word": "55岁阿姨3个月减肥40斤重启人生",
+        "onboard_time": 1725455061,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104244,
+        "num": 104244,
+        "word": "6个月网购106部手机均申请退货",
+        "onboard_time": 1725447739,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102514,
+        "num": 102514,
+        "word": "蔡徐坤 小红帽",
+        "onboard_time": 1725446120,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101786,
+        "num": 101786,
+        "word": "黑神话悟空boss排名",
+        "onboard_time": 1725457761,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98659,
+        "num": 98659,
+        "word": "三只羊卢文庆回应争议",
+        "onboard_time": 1725454701,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 93689,
+        "num": 93689,
+        "word": "沫沫好友发声",
+        "onboard_time": 1725448339,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 89673,
+        "num": 89673,
+        "word": "梁伟铿 有在好好恢复训练",
+        "onboard_time": 1725461181,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86867,
+        "num": 86867,
+        "word": "迪丽热巴慕胥辞路透",
+        "onboard_time": 1725452541,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86093,
+        "num": 86093,
+        "word": "警方介入江苏师大食堂打人事件",
+        "onboard_time": 1725464900,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81460,
+        "num": 81460,
+        "word": "专家谈辛巴三只羊互掐",
+        "onboard_time": 1725463400,
+        "rank": 46,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 79959,
+        "num": 79959,
+        "word": "辛巴批三只羊借流量卖螃蟹",
+        "onboard_time": 1725464838,
+        "rank": 47,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 79682,
+        "num": 79682,
+        "word": "传统脱口秀还得是何广智",
+        "onboard_time": 1725466457,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77379,
+        "num": 77379,
+        "word": "被檀健次眼神虐到了",
+        "onboard_time": 1725464119,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平和夫人举行宴会欢迎国际贵宾#"
+    }
+  }
+}
