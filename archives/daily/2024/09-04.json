@@ -1,6 +1,6 @@
 {
   "startTime": 1725380864855,
-  "endTime": 1725428315217,
+  "endTime": 1725431381606,
   "band_list": [
     {
       "raw_hot": 2706478,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 904342,
+      "num": 904342,
+      "word": "蓝盈莹 分手会疯狂报班",
+      "onboard_time": 1725429738,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 875988,
       "num": 927814,
       "word": "男孩玩火烧伤后竟被老人驱赶",
@@ -161,6 +169,14 @@
       "onboard_time": 1725365420,
       "rank": 21,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 779438,
+      "num": 779438,
+      "word": "华为三折叠",
+      "onboard_time": 1725426141,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 753694,
@@ -227,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 642151,
+      "num": 642151,
+      "word": "60岁知名华裔科学家吴瑛自杀",
+      "onboard_time": 1725430218,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 634006,
       "num": 634006,
       "word": "iPhone16新配色",
@@ -249,6 +273,14 @@
       "onboard_time": 1725421582,
       "rank": 21,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 602068,
+      "num": 731068,
+      "word": "医院越来越难开到进口原研药",
+      "onboard_time": 1725424281,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 598941,
@@ -315,6 +347,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 486834,
+      "num": 486834,
+      "word": "魏哲鸣 怎么不等我手断了再说",
+      "onboard_time": 1725430218,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 471177,
       "num": 471177,
       "word": "现在小朋友的名字这么主角感的么",
@@ -379,14 +419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 410700,
-      "num": 731068,
-      "word": "医院越来越难开到进口原研药",
-      "onboard_time": 1725424281,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 396292,
       "num": 396292,
       "word": "芭莎爆料 四位女艺人",
@@ -403,20 +435,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 386481,
-      "num": 386481,
-      "word": "华为三折叠",
-      "onboard_time": 1725426141,
-      "rank": 34,
-      "category": "数码"
-    },
-    {
       "raw_hot": 384924,
       "num": 384924,
       "word": "那些从不痛经的女生到底有什么不一样",
       "onboard_time": 1725421880,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 378620,
+      "num": 378620,
+      "word": "k总 退网",
+      "onboard_time": 1725430820,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 366764,
+      "num": 366764,
+      "word": "干巴大叔去世",
+      "onboard_time": 1725431180,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 364311,
@@ -449,6 +489,14 @@
       "onboard_time": 1725418158,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 321896,
+      "num": 321896,
+      "word": "江苏师范大学",
+      "onboard_time": 1725430820,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319425,
@@ -587,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246933,
+      "num": 246933,
+      "word": "看姚安娜撒娇眼前一亮又一亮",
+      "onboard_time": 1725424221,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246494,
       "num": 246494,
       "word": "王珞丹杨志刚一不小心成了12年的朋友",
@@ -609,6 +665,14 @@
       "onboard_time": 1725415518,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 241892,
+      "num": 241892,
+      "word": "蔡少芬生孩子体验阵痛不打麻药但失败",
+      "onboard_time": 1725429259,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 239350,
@@ -667,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226419,
+      "num": 226419,
+      "word": "大学生偷东西被学校开除后起诉公安",
+      "onboard_time": 1725430699,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216480,
       "num": 216480,
       "word": "68岁教授说现在的年轻人比以前难多了",
@@ -707,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200614,
+      "num": 200614,
+      "word": "上班用翻译软件被辞退了",
+      "onboard_time": 1725425782,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 196838,
       "num": 196838,
       "word": "华为终端",
@@ -715,12 +795,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 196554,
-      "num": 196554,
-      "word": "看姚安娜撒娇眼前一亮又一亮",
-      "onboard_time": 1725424221,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 195492,
+      "num": 195492,
+      "word": "非洲记者谈孙颖莎基普乔格代表大洲",
+      "onboard_time": 1725428718,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 195485,
@@ -739,12 +819,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194212,
+      "num": 194212,
+      "word": "藏海花差点亲上",
+      "onboard_time": 1725428960,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193028,
       "num": 193028,
       "word": "河南一特大诈骗案有人称遭刑讯逼供",
       "onboard_time": 1725372803,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192991,
+      "num": 192991,
+      "word": "辛巴小杨哥曾称兄道弟",
+      "onboard_time": 1725426860,
+      "rank": 43,
+      "category": "网红,互联网"
     },
     {
       "raw_hot": 192020,
@@ -769,6 +865,14 @@
       "onboard_time": 1725419420,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188481,
+      "num": 188481,
+      "word": "膝盖的形状和脸型口型一样",
+      "onboard_time": 1725428420,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 188032,
@@ -891,8 +995,16 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 167573,
+      "num": 167573,
+      "word": "蟹太太曾因短斤缺两被罚",
+      "onboard_time": 1725428840,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167568,
-      "num": 167568,
+      "num": 531814,
       "word": "海南陵水家门口失联男童已遇难",
       "onboard_time": 1725427700,
       "rank": 40,
@@ -963,20 +1075,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161293,
-      "num": 161293,
-      "word": "上班用翻译软件被辞退了",
-      "onboard_time": 1725425782,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 162337,
+      "num": 162337,
+      "word": "金晨菜还在嘴里就睡着了",
+      "onboard_time": 1725429320,
+      "rank": 45,
+      "category": "综艺"
     },
     {
-      "raw_hot": 159774,
-      "num": 159774,
-      "word": "辛巴小杨哥曾称兄道弟",
-      "onboard_time": 1725426860,
-      "rank": 43,
-      "category": "网红,互联网"
+      "raw_hot": 158484,
+      "num": 158484,
+      "word": "东方甄选高管退出与辉同行",
+      "onboard_time": 1725429380,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 157518,
@@ -1011,11 +1123,35 @@
       "category": "演出"
     },
     {
+      "raw_hot": 155714,
+      "num": 155714,
+      "word": "东北冻梨已经进化到这种程度了",
+      "onboard_time": 1725431359,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 154394,
       "num": 154394,
       "word": "彭昱畅侯明昊时隔七年再次合作",
       "onboard_time": 1725428121,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 153645,
+      "num": 153645,
+      "word": "原来熊猫宝宝睡觉也要盖肚脐",
+      "onboard_time": 1725430760,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152726,
+      "num": 369039,
+      "word": "边水往事但拓今天头七",
+      "onboard_time": 1725430279,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -1531,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30941,
+      "num": 363013,
+      "word": "网传武汉一中学指定书店购书",
+      "onboard_time": 1725429738,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29309,
       "num": 44483,
       "word": "迪丽热巴五年前后对比",
@@ -1561,6 +1705,14 @@
       "onboard_time": 1725385453,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21484,
+      "num": 484420,
+      "word": "宅基地使用权抵押可不可行",
+      "onboard_time": 1725429738,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19919,

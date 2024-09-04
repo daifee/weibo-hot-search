@@ -1,0 +1,410 @@
+{
+  "runTime": 1725431381606,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1374325,
+        "num": 1374325,
+        "word": "原来妊娠纹能在电影中出现",
+        "onboard_time": 1725426201,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1766925,
+        "num": 1264644,
+        "word": "旅客执意将长满疙瘩的脚放小桌板上",
+        "onboard_time": 1725422347,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9095,
+        "num": 1131559,
+        "word": "开辟中非关系更加壮丽的前景",
+        "onboard_time": 1725423922,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1090122,
+        "num": 1090122,
+        "word": "张欣怡",
+        "onboard_time": 1725419600,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 904342,
+        "num": 904342,
+        "word": "蓝盈莹 分手会疯狂报班",
+        "onboard_time": 1725429738,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 779438,
+        "num": 779438,
+        "word": "华为三折叠",
+        "onboard_time": 1725426141,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 698348,
+        "num": 698348,
+        "word": "乌克兰驻日大使拜鬼",
+        "onboard_time": 1725418520,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 642151,
+        "num": 642151,
+        "word": "60岁知名华裔科学家吴瑛自杀",
+        "onboard_time": 1725430218,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602068,
+        "num": 602068,
+        "word": "医院越来越难开到进口原研药",
+        "onboard_time": 1725424281,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121531,
+        "num": 531814,
+        "word": "海南陵水家门口失联男童已遇难",
+        "onboard_time": 1725427700,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 684926,
+        "num": 526778,
+        "word": "专家称房价下跌40元咖啡都不敢喝",
+        "onboard_time": 1725416359,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 674941,
+        "num": 521346,
+        "word": "曾志伟 三只羊",
+        "onboard_time": 1725409941,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496520,
+        "num": 496520,
+        "word": "刘美含 给P人亿点来自j人的震撼",
+        "onboard_time": 1725424340,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 486834,
+        "num": 486834,
+        "word": "魏哲鸣 怎么不等我手断了再说",
+        "onboard_time": 1725430218,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21484,
+        "num": 484420,
+        "word": "宅基地使用权抵押可不可行",
+        "onboard_time": 1725429738,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483670,
+        "num": 483670,
+        "word": "iPhone16新配色",
+        "onboard_time": 1725419060,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 378620,
+        "num": 378620,
+        "word": "k总 退网",
+        "onboard_time": 1725430820,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152726,
+        "num": 369039,
+        "word": "边水往事但拓今天头七",
+        "onboard_time": 1725430279,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366764,
+        "num": 366764,
+        "word": "干巴大叔去世",
+        "onboard_time": 1725431180,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 30941,
+        "num": 363013,
+        "word": "网传武汉一中学指定书店购书",
+        "onboard_time": 1725429738,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361678,
+        "num": 361678,
+        "word": "三只羊女主播沫沫已有9个月未更新",
+        "onboard_time": 1725400093,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 618291,
+        "num": 358112,
+        "word": "40岁以上女性禁用紧急避孕药",
+        "onboard_time": 1725373341,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350554,
+        "num": 350554,
+        "word": "董明珠谈35岁找不到工作",
+        "onboard_time": 1725414617,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334364,
+        "num": 334364,
+        "word": "小杨哥回应近日网络纷争",
+        "onboard_time": 1725422301,
+        "rank": 23,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 321896,
+        "num": 321896,
+        "word": "江苏师范大学",
+        "onboard_time": 1725430820,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311585,
+        "num": 311585,
+        "word": "侯明昊三番",
+        "onboard_time": 1725425061,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303846,
+        "num": 303846,
+        "word": "那些从不痛经的女生到底有什么不一样",
+        "onboard_time": 1725421880,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 287707,
+        "num": 287707,
+        "word": "婚姻三大杀手 不上进抠门没情趣",
+        "onboard_time": 1725419961,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263161,
+        "num": 263161,
+        "word": "蜘蛛耗时18分钟织的网被嘲了",
+        "onboard_time": 1725422423,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 246933,
+        "num": 246933,
+        "word": "看姚安娜撒娇眼前一亮又一亮",
+        "onboard_time": 1725424221,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241892,
+        "num": 241892,
+        "word": "蔡少芬生孩子体验阵痛不打麻药但失败",
+        "onboard_time": 1725429259,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232629,
+        "num": 232629,
+        "word": "异人之下2",
+        "onboard_time": 1725422539,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226419,
+        "num": 226419,
+        "word": "大学生偷东西被学校开除后起诉公安",
+        "onboard_time": 1725430699,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224079,
+        "num": 224079,
+        "word": "乌方计划无限期占领夺取的俄领土",
+        "onboard_time": 1725421582,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 200614,
+        "num": 200614,
+        "word": "上班用翻译软件被辞退了",
+        "onboard_time": 1725425782,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198407,
+        "num": 198407,
+        "word": "郑钦文回应无缘美网4强",
+        "onboard_time": 1725423199,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195492,
+        "num": 195492,
+        "word": "非洲记者谈孙颖莎基普乔格代表大洲",
+        "onboard_time": 1725428718,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194212,
+        "num": 194212,
+        "word": "藏海花差点亲上",
+        "onboard_time": 1725428960,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192991,
+        "num": 192991,
+        "word": "辛巴小杨哥曾称兄道弟",
+        "onboard_time": 1725426860,
+        "rank": 38,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 188481,
+        "num": 188481,
+        "word": "膝盖的形状和脸型口型一样",
+        "onboard_time": 1725428420,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 187480,
+        "num": 187480,
+        "word": "女子长期吃素确诊重度贫血",
+        "onboard_time": 1725415580,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182239,
+        "num": 182239,
+        "word": "杨幂 华为",
+        "onboard_time": 1725415698,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180019,
+        "num": 180019,
+        "word": "警方通报女子拒喝酒遭辱骂扇耳光",
+        "onboard_time": 1725427100,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169110,
+        "num": 169110,
+        "word": "女实习生工作抓了个逃犯",
+        "onboard_time": 1725414678,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167573,
+        "num": 167573,
+        "word": "蟹太太曾因短斤缺两被罚",
+        "onboard_time": 1725428840,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162337,
+        "num": 162337,
+        "word": "金晨菜还在嘴里就睡着了",
+        "onboard_time": 1725429320,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158915,
+        "num": 158915,
+        "word": "林博洋 谋女郎",
+        "onboard_time": 1725423561,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158484,
+        "num": 158484,
+        "word": "东方甄选高管退出与辉同行",
+        "onboard_time": 1725429380,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 155714,
+        "num": 155714,
+        "word": "东北冻梨已经进化到这种程度了",
+        "onboard_time": 1725431359,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 153645,
+        "num": 153645,
+        "word": "原来熊猫宝宝睡觉也要盖肚脐",
+        "onboard_time": 1725430760,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的中非时间#"
+    }
+  }
+}
