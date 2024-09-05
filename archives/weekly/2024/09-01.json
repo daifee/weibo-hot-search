@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725504910811,
+  "endTime": 1725506594214,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -1027,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1019484,
+      "num": 1163117,
+      "word": "郑钦文退出瓜达拉哈拉赛",
+      "onboard_time": 1725503058,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1019410,
       "num": 1019410,
       "word": "全红婵说马龙叫她干女儿",
@@ -1312,6 +1320,14 @@
       "word": "20岁小伙只喝奶茶饮料成牛奶血",
       "onboard_time": 1725445942,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 884849,
+      "num": 559466,
+      "word": "爱犬在小区被毒死投毒邻居被行拘12天",
+      "onboard_time": 1725501559,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1923,6 +1939,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 697353,
+      "num": 357253,
+      "word": "叶珂否认插足别人家庭",
+      "onboard_time": 1725504859,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 686139,
       "num": 243697,
       "word": "J人和P人做PPT的区别",
@@ -2001,6 +2025,14 @@
       "onboard_time": 1725188779,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 662000,
+      "num": 662000,
+      "word": "刘美含 反向催婚",
+      "onboard_time": 1725504619,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 661611,
@@ -2425,14 +2457,6 @@
       "onboard_time": 1725345741,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 559466,
-      "num": 559466,
-      "word": "爱犬在小区被毒死投毒邻居被行拘12天",
-      "onboard_time": 1725501559,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 558485,
@@ -3315,14 +3339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 422050,
-      "num": 422050,
-      "word": "郑钦文退出瓜达拉哈拉赛",
-      "onboard_time": 1725503058,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 421944,
       "num": 421944,
       "word": "郑钦文登场全场欢呼",
@@ -3409,6 +3425,14 @@
       "onboard_time": 1725329180,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 407050,
+      "num": 356298,
+      "word": "印度女子勒死6天大女儿",
+      "onboard_time": 1725505878,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 406224,
@@ -3691,6 +3715,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 365261,
+      "num": 365261,
+      "word": "张杰手机壁纸是自己的照片",
+      "onboard_time": 1725502759,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 364908,
       "num": 364908,
       "word": "35岁的我月薪2千在餐厅当学徒",
@@ -3851,14 +3883,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 340888,
-      "num": 340888,
-      "word": "张杰手机壁纸是自己的照片",
-      "onboard_time": 1725502759,
-      "rank": 15,
-      "category": "演出"
-    },
-    {
       "raw_hot": 340597,
       "num": 340597,
       "word": "斯瓦泰克美网出局",
@@ -3929,6 +3953,14 @@
       "onboard_time": 1725341122,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 333500,
+      "num": 333500,
+      "word": "韩国研发出爬楼轮椅",
+      "onboard_time": 1725505159,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332158,
@@ -4225,6 +4257,14 @@
       "onboard_time": 1725201741,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 302754,
+      "num": 302754,
+      "word": "穆祉丞数据组发算什么男人",
+      "onboard_time": 1725503178,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 302642,
@@ -5379,14 +5419,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 235353,
-      "num": 204806,
-      "word": "叶珂否认插足别人家庭",
-      "onboard_time": 1725504859,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 235320,
       "num": 235320,
       "word": "周也鎏金深V纱裙",
@@ -5771,6 +5803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216769,
+      "num": 216769,
+      "word": "世界之外 DQ",
+      "onboard_time": 1725506058,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 216587,
       "num": 216587,
       "word": "赵丽娜试衣服试到崩溃大哭",
@@ -5804,7 +5844,7 @@
     },
     {
       "raw_hot": 215817,
-      "num": 188494,
+      "num": 203413,
       "word": "网易云音乐 Black",
       "onboard_time": 1725504139,
       "rank": 35,
@@ -5907,6 +5947,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 212461,
+      "num": 212461,
+      "word": "于正说袁姗姗有几分像秦岚",
+      "onboard_time": 1725505458,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 211630,
       "num": 211630,
       "word": "警方通报女子拒喝酒遭辱骂扇耳光",
@@ -5985,14 +6033,6 @@
       "onboard_time": 1725289642,
       "rank": 39,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 209511,
-      "num": 209511,
-      "word": "穆祉丞数据组发算什么男人",
-      "onboard_time": 1725503178,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 209048,
@@ -6227,6 +6267,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 204521,
+      "num": 204521,
+      "word": "剑来群像塑造全是伏笔",
+      "onboard_time": 1725505999,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 204402,
       "num": 204402,
       "word": "郑钦文战胜维基奇",
@@ -6257,6 +6305,14 @@
       "onboard_time": 1725286463,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203693,
+      "num": 203693,
+      "word": "赵丽颖辛芷蕾乔妍的心事背对背海报",
+      "onboard_time": 1725505940,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 203395,
@@ -6297,6 +6353,14 @@
       "onboard_time": 1725495739,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202831,
+      "num": 202831,
+      "word": "三只羊卢文庆回应梅菜扣肉事件",
+      "onboard_time": 1725505338,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 202195,
@@ -6835,6 +6899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 192016,
+      "num": 192016,
+      "word": "华为穿戴上半年出货量全球第一",
+      "onboard_time": 1725505038,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 191891,
       "num": 482240,
       "word": "苏新皓急需灭火器",
@@ -6849,6 +6921,14 @@
       "onboard_time": 1725174440,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 191483,
+      "num": 191483,
+      "word": "台风摩羯路径不确定性多",
+      "onboard_time": 1725499880,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191278,
@@ -7025,6 +7105,14 @@
       "onboard_time": 1725183200,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 188069,
+      "num": 188069,
+      "word": "中非要携手推进六个现代化",
+      "onboard_time": 1725506299,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 188032,
@@ -7401,6 +7489,14 @@
       "onboard_time": 1725357380,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 181479,
+      "num": 181479,
+      "word": "樊振东助力希望工程助学行动",
+      "onboard_time": 1725505818,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 181452,
@@ -7971,14 +8067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172301,
-      "num": 172301,
-      "word": "台风摩羯路径不确定性多",
-      "onboard_time": 1725499880,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171820,
       "num": 171820,
       "word": "王曼昱的港澳行vlog",
@@ -8033,14 +8121,6 @@
       "onboard_time": 1725167119,
       "rank": 42,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 170512,
-      "num": 170512,
-      "word": "刘美含 反向催婚",
-      "onboard_time": 1725504619,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 170417,
@@ -8491,6 +8571,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163041,
+      "num": 163041,
+      "word": "网易云教师节",
+      "onboard_time": 1725506418,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 162999,
+      "num": 162999,
+      "word": "国人平均每秒喝掉676杯奶茶",
+      "onboard_time": 1725505940,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162928,
       "num": 162928,
       "word": "属于竞体丝的春晚",
@@ -8659,6 +8755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160056,
+      "num": 160056,
+      "word": "黄牛用软件不到1秒钟抢到票",
+      "onboard_time": 1725506058,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159989,
       "num": 159989,
       "word": "专家称苹果或不会主动降低中国苹果税",
@@ -8769,6 +8873,14 @@
       "onboard_time": 1725442520,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158630,
+      "num": 374932,
+      "word": "华为三折叠外观",
+      "onboard_time": 1725501559,
+      "rank": 12,
+      "category": "数码"
     },
     {
       "raw_hot": 158512,
@@ -9028,7 +9140,7 @@
     },
     {
       "raw_hot": 154593,
-      "num": 154593,
+      "num": 209004,
       "word": "高校国旗护卫队女生太飒了",
       "onboard_time": 1725501738,
       "rank": 37,
@@ -9177,6 +9289,14 @@
       "onboard_time": 1725367460,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150969,
+      "num": 150969,
+      "word": "什么情况下血液会变成白色",
+      "onboard_time": 1725504738,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 150802,
@@ -9507,6 +9627,14 @@
       "category": "网红,互联网"
     },
     {
+      "raw_hot": 143839,
+      "num": 141306,
+      "word": "国足今晚18强赛首战日本",
+      "onboard_time": 1725504978,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143545,
       "num": 794482,
       "word": "黄景瑜新剧两眼一睁就是帅",
@@ -9545,6 +9673,14 @@
       "onboard_time": 1725451820,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142225,
+      "num": 536594,
+      "word": "中国同所有非洲建交国提升到战略关系",
+      "onboard_time": 1725504018,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 142223,
@@ -9665,6 +9801,14 @@
       "onboard_time": 1725205400,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139303,
+      "num": 139303,
+      "word": "唐恬为易烊千玺新歌作词",
+      "onboard_time": 1725506240,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 138974,
@@ -9923,12 +10067,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 130413,
-      "num": 536594,
-      "word": "中国同所有非洲建交国提升到战略关系",
-      "onboard_time": 1725504018,
-      "rank": 45,
-      "category": "国内时政"
+      "raw_hot": 130130,
+      "num": 130130,
+      "word": "辛巴近7天卖蟹销售额是小杨哥2倍",
+      "onboard_time": 1725505638,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 130107,
@@ -10249,14 +10393,6 @@
       "onboard_time": 1725171740,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118695,
-      "num": 118695,
-      "word": "什么情况下血液会变成白色",
-      "onboard_time": 1725504738,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 117996,
@@ -10785,14 +10921,6 @@
       "onboard_time": 1725122476,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 93619,
-      "num": 374932,
-      "word": "华为三折叠外观",
-      "onboard_time": 1725501559,
-      "rank": 12,
-      "category": "数码"
     },
     {
       "raw_hot": 93322,
@@ -12427,6 +12555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30343,
+      "num": 334546,
+      "word": "不结婚的年轻人重创钻石行业",
+      "onboard_time": 1725506120,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30339,
       "num": 418742,
       "word": "塔图姆宠粉第一名",
@@ -12944,6 +13080,14 @@
       "word": "起底假冒特供酒销售乱象",
       "onboard_time": 1725340344,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15711,
+      "num": 210087,
+      "word": "90后大学生回村开办养老院",
+      "onboard_time": 1725506240,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
