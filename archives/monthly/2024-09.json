@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725540992231,
+  "endTime": 1725542780695,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -9,6 +9,14 @@
       "onboard_time": 1725335672,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11242388,
+      "num": 11242388,
+      "word": "国足0比7日本",
+      "onboard_time": 1725540444,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 10217859,
@@ -39,14 +47,6 @@
       "num": 5839152,
       "word": "郑钦文进美网8强",
       "onboard_time": 1725258021,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 4303770,
-      "num": 4303770,
-      "word": "国足0比7日本",
-      "onboard_time": 1725540444,
       "rank": 1,
       "category": "体育"
     },
@@ -209,6 +209,14 @@
       "onboard_time": 1725323061,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2271517,
+      "num": 2271517,
+      "word": "范志毅怒斥国足",
+      "onboard_time": 1725539902,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 2257721,
@@ -393,6 +401,14 @@
       "onboard_time": 1725279439,
       "rank": 21,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1748977,
+      "num": 535286,
+      "word": "汪苏泷 女友",
+      "onboard_time": 1725540502,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 1734720,
@@ -641,6 +657,14 @@
       "onboard_time": 1725430699,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1454884,
+      "num": 1454884,
+      "word": "网红小英莫遗体被找到",
+      "onboard_time": 1725540983,
+      "rank": 4,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1443889,
@@ -1736,14 +1760,6 @@
       "word": "樊振东清唱野孩子",
       "onboard_time": 1725197301,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 818842,
-      "num": 247152,
-      "word": "范志毅怒斥国足",
-      "onboard_time": 1725539902,
-      "rank": 42,
       "category": "体育"
     },
     {
@@ -3107,6 +3123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 520069,
+      "num": 520069,
+      "word": "国足耻辱的一夜",
+      "onboard_time": 1725540864,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 518656,
       "num": 426168,
       "word": "郑钦文美网收获430积分375万奖金",
@@ -4035,6 +4059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 380737,
+      "num": 380737,
+      "word": "山姆盒装牛奶外附着黑色虫卵",
+      "onboard_time": 1725537981,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 379991,
       "num": 576966,
       "word": "赵丽颖乔妍好疯批",
@@ -4281,6 +4313,14 @@
       "onboard_time": 1725354201,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 351273,
+      "num": 351273,
+      "word": "国足创三大耻辱纪录",
+      "onboard_time": 1725541763,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 350545,
@@ -4632,6 +4672,14 @@
       "word": "郑钦文ACE雨",
       "onboard_time": 1725250581,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 315822,
+      "num": 315822,
+      "word": "马龙王楚钦被碾同款月饼销量暴增",
+      "onboard_time": 1725542364,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -5003,6 +5051,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 288980,
+      "num": 288980,
+      "word": "当月薪3千和月薪5万交换午饭",
+      "onboard_time": 1725537981,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 288967,
       "num": 288967,
       "word": "张峻豪晒乌云",
@@ -5273,6 +5329,14 @@
       "onboard_time": 1725521002,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274674,
+      "num": 274674,
+      "word": "七喜",
+      "onboard_time": 1725540683,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 274536,
@@ -5939,6 +6003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 240708,
+      "num": 240708,
+      "word": "王大雷瘫坐在草皮上",
+      "onboard_time": 1725541224,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240559,
       "num": 240559,
       "word": "孙杨直播",
@@ -6459,14 +6531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218901,
-      "num": 218901,
-      "word": "当月薪3千和月薪5万交换午饭",
-      "onboard_time": 1725537981,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 218778,
       "num": 218778,
       "word": "时尚芭莎",
@@ -6585,14 +6649,6 @@
       "onboard_time": 1725504139,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 215375,
-      "num": 215375,
-      "word": "山姆盒装牛奶外附着黑色虫卵",
-      "onboard_time": 1725537981,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215210,
@@ -6756,7 +6812,7 @@
     },
     {
       "raw_hot": 210608,
-      "num": 234792,
+      "num": 288069,
       "word": "刘亦菲牛仔裤配高跟鞋",
       "onboard_time": 1725537500,
       "rank": 26,
@@ -7051,6 +7107,14 @@
       "category": "汽车,游戏"
     },
     {
+      "raw_hot": 204535,
+      "num": 335211,
+      "word": "但拓还没死郭麒麟就哭抽了",
+      "onboard_time": 1725540444,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204521,
       "num": 204521,
       "word": "剑来群像塑造全是伏笔",
@@ -7203,14 +7267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201507,
-      "num": 201507,
-      "word": "七喜",
-      "onboard_time": 1725540683,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 201382,
       "num": 201382,
       "word": "江苏师大辟谣打人事件女生获保研资格",
@@ -7233,6 +7289,14 @@
       "onboard_time": 1725155479,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 201073,
+      "num": 332576,
+      "word": "张凌赫生图好能打",
+      "onboard_time": 1725542124,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200896,
@@ -7403,6 +7467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197590,
+      "num": 244237,
+      "word": "官方回应烈士陵园墓前多人跳广场舞",
+      "onboard_time": 1725540683,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197454,
       "num": 201597,
       "word": "邓为 倾城之金",
@@ -7561,14 +7633,6 @@
       "onboard_time": 1725154158,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 195378,
-      "num": 195378,
-      "word": "汪苏泷 女友",
-      "onboard_time": 1725540502,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 195278,
@@ -9043,14 +9107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 174682,
-      "num": 174682,
-      "word": "国足耻辱的一夜",
-      "onboard_time": 1725540864,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 174576,
       "num": 174576,
       "word": "清水英男自述731罪行",
@@ -9553,6 +9609,14 @@
       "onboard_time": 1725463400,
       "rank": 36,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 166668,
+      "num": 166668,
+      "word": "退钱哥",
+      "onboard_time": 1725542364,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 166666,
@@ -10091,6 +10155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158660,
+      "num": 287344,
+      "word": "目前今年最出圈的台词",
+      "onboard_time": 1725542063,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 158630,
       "num": 374932,
       "word": "华为三折叠外观",
@@ -10329,14 +10401,6 @@
       "onboard_time": 1725351620,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 155429,
-      "num": 233237,
-      "word": "但拓还没死郭麒麟就哭抽了",
-      "onboard_time": 1725540444,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 155206,
@@ -11299,6 +11363,14 @@
       "category": "情感,读书作家"
     },
     {
+      "raw_hot": 137179,
+      "num": 137179,
+      "word": "想过会输 没想到输得这么惨",
+      "onboard_time": 1725542303,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137058,
       "num": 137058,
       "word": "沈腾一个游戏得罪马丽范丞丞贾玲",
@@ -11539,6 +11611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129961,
+      "num": 129961,
+      "word": "姥姥的外孙 潮汕人绷不住了",
+      "onboard_time": 1725542604,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 129474,
       "num": 129474,
       "word": "王楚然凤冠霞帔妆造",
@@ -11600,6 +11680,22 @@
       "word": "郭晶晶霍震霆找全红婵合影留念",
       "onboard_time": 1725108259,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 128622,
+      "num": 128622,
+      "word": "待爆小生 僵局",
+      "onboard_time": 1725542724,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 128585,
+      "num": 128585,
+      "word": "董路直播",
+      "onboard_time": 1725541704,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -13331,14 +13427,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 51186,
-      "num": 244237,
-      "word": "官方回应烈士陵园墓前多人跳广场舞",
-      "onboard_time": 1725540683,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51147,
       "num": 51147,
       "word": "早晚揉腹有哪些好处",
@@ -13907,6 +13995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36768,
+      "num": 240079,
+      "word": "强烈不建议个人投资者短线炒作黄金",
+      "onboard_time": 1725540745,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36743,
       "num": 238465,
       "word": "尼格买提口袋里是啥",
@@ -13976,6 +14072,14 @@
       "word": "河南清丰第一医院被曝拖欠医护工资",
       "onboard_time": 1725161539,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35918,
+      "num": 546985,
+      "word": "台风摩羯比夏季台风更肆虐",
+      "onboard_time": 1725541884,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -14337,14 +14441,6 @@
       "onboard_time": 1725174319,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30174,
-      "num": 240079,
-      "word": "强烈不建议个人投资者短线炒作黄金",
-      "onboard_time": 1725540745,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30028,
@@ -14763,6 +14859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21265,
+      "num": 3399879,
+      "word": "中非经贸双向奔赴跑出加速度",
+      "onboard_time": 1725540324,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20887,
       "num": 24168,
       "word": "四方馆 浴罢不能",
@@ -14849,14 +14953,6 @@
       "onboard_time": 1725210255,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18883,
-      "num": 2572088,
-      "word": "中非经贸双向奔赴跑出加速度",
-      "onboard_time": 1725540324,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18756,

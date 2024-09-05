@@ -1,21 +1,21 @@
 {
   "startTime": 1725467191451,
-  "endTime": 1725540992231,
+  "endTime": 1725542780695,
   "band_list": [
+    {
+      "raw_hot": 11242388,
+      "num": 11242388,
+      "word": "国足0比7日本",
+      "onboard_time": 1725540444,
+      "rank": 1,
+      "category": "体育"
+    },
     {
       "raw_hot": 9013728,
       "num": 9013728,
       "word": "国足vs日本",
       "onboard_time": 1725454461,
       "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 4303770,
-      "num": 4303770,
-      "word": "国足0比7日本",
-      "onboard_time": 1725540444,
-      "rank": 1,
       "category": "体育"
     },
     {
@@ -32,6 +32,14 @@
       "word": "爱奇艺 花钱看不了",
       "onboard_time": 1725533659,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2271517,
+      "num": 2271517,
+      "word": "范志毅怒斥国足",
+      "onboard_time": 1725539902,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -57,6 +65,14 @@
       "onboard_time": 1725496758,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1748977,
+      "num": 535286,
+      "word": "汪苏泷 女友",
+      "onboard_time": 1725540502,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 1595462,
@@ -97,6 +113,14 @@
       "onboard_time": 1725538820,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1454884,
+      "num": 1454884,
+      "word": "网红小英莫遗体被找到",
+      "onboard_time": 1725540983,
+      "rank": 4,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1374615,
@@ -339,14 +363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 818842,
-      "num": 247152,
-      "word": "范志毅怒斥国足",
-      "onboard_time": 1725539902,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 811853,
       "num": 811853,
       "word": "男子教孙女游泳收到游泳馆逐客令",
@@ -579,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 520069,
+      "num": 520069,
+      "word": "国足耻辱的一夜",
+      "onboard_time": 1725540864,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 498534,
       "num": 491277,
       "word": "但拓 假死",
@@ -715,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380737,
+      "num": 380737,
+      "word": "山姆盒装牛奶外附着黑色虫卵",
+      "onboard_time": 1725537981,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 379991,
       "num": 576966,
       "word": "赵丽颖乔妍好疯批",
@@ -745,6 +777,14 @@
       "onboard_time": 1725455182,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351273,
+      "num": 351273,
+      "word": "国足创三大耻辱纪录",
+      "onboard_time": 1725541763,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 348456,
@@ -867,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 315822,
+      "num": 315822,
+      "word": "马龙王楚钦被碾同款月饼销量暴增",
+      "onboard_time": 1725542364,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 310624,
       "num": 310624,
       "word": "蟹太太回应辛巴三只羊纠纷",
@@ -923,6 +971,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 288980,
+      "num": 288980,
+      "word": "当月薪3千和月薪5万交换午饭",
+      "onboard_time": 1725537981,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 287462,
       "num": 287462,
       "word": "2女子为拍照撕掉店家门口海报",
@@ -969,6 +1025,14 @@
       "onboard_time": 1725521002,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274674,
+      "num": 274674,
+      "word": "七喜",
+      "onboard_time": 1725540683,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 273924,
@@ -1067,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240708,
+      "num": 240708,
+      "word": "王大雷瘫坐在草皮上",
+      "onboard_time": 1725541224,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239142,
       "num": 239142,
       "word": "台风摩羯",
@@ -1155,14 +1227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 218901,
-      "num": 218901,
-      "word": "当月薪3千和月薪5万交换午饭",
-      "onboard_time": 1725537981,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 217036,
       "num": 217036,
       "word": "三只羊卢文庆回应梅菜扣肉事件",
@@ -1177,14 +1241,6 @@
       "onboard_time": 1725504139,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 215375,
-      "num": 215375,
-      "word": "山姆盒装牛奶外附着黑色虫卵",
-      "onboard_time": 1725537981,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 214696,
@@ -1212,7 +1268,7 @@
     },
     {
       "raw_hot": 210608,
-      "num": 234792,
+      "num": 288069,
       "word": "刘亦菲牛仔裤配高跟鞋",
       "onboard_time": 1725537500,
       "rank": 26,
@@ -1267,6 +1323,14 @@
       "category": "汽车,游戏"
     },
     {
+      "raw_hot": 204535,
+      "num": 335211,
+      "word": "但拓还没死郭麒麟就哭抽了",
+      "onboard_time": 1725540444,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204521,
       "num": 204521,
       "word": "剑来群像塑造全是伏笔",
@@ -1315,12 +1379,12 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 201507,
-      "num": 201507,
-      "word": "七喜",
-      "onboard_time": 1725540683,
-      "rank": 37,
-      "category": "体育"
+      "raw_hot": 201073,
+      "num": 332576,
+      "word": "张凌赫生图好能打",
+      "onboard_time": 1725542124,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200696,
@@ -1347,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197590,
+      "num": 244237,
+      "word": "官方回应烈士陵园墓前多人跳广场舞",
+      "onboard_time": 1725540683,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196778,
       "num": 196778,
       "word": "远藤航进球",
@@ -1361,14 +1433,6 @@
       "onboard_time": 1725506958,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 195378,
-      "num": 195378,
-      "word": "汪苏泷 女友",
-      "onboard_time": 1725540502,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 195225,
@@ -1739,14 +1803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174682,
-      "num": 174682,
-      "word": "国足耻辱的一夜",
-      "onboard_time": 1725540864,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 174416,
       "num": 174416,
       "word": "潘展乐给大家画猪",
@@ -1809,6 +1865,14 @@
       "onboard_time": 1725504018,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 166668,
+      "num": 166668,
+      "word": "退钱哥",
+      "onboard_time": 1725542364,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 166019,
@@ -1891,6 +1955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158660,
+      "num": 287344,
+      "word": "目前今年最出圈的台词",
+      "onboard_time": 1725542063,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 158630,
       "num": 374932,
       "word": "华为三折叠外观",
@@ -1953,14 +2025,6 @@
       "onboard_time": 1725520881,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 155429,
-      "num": 233237,
-      "word": "但拓还没死郭麒麟就哭抽了",
-      "onboard_time": 1725540444,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 155147,
@@ -2219,6 +2283,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 137179,
+      "num": 137179,
+      "word": "想过会输 没想到输得这么惨",
+      "onboard_time": 1725542303,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136777,
       "num": 156377,
       "word": "辛巴回应卢文庆声明",
@@ -2339,12 +2411,36 @@
       "category": "网红"
     },
     {
+      "raw_hot": 129961,
+      "num": 129961,
+      "word": "姥姥的外孙 潮汕人绷不住了",
+      "onboard_time": 1725542604,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 129255,
       "num": 156165,
       "word": "茅威涛劝粉丝不要绑架陈丽君李云霄",
       "onboard_time": 1725495019,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128622,
+      "num": 128622,
+      "word": "待爆小生 僵局",
+      "onboard_time": 1725542724,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 128585,
+      "num": 128585,
+      "word": "董路直播",
+      "onboard_time": 1725541704,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 128365,
@@ -2747,14 +2843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51186,
-      "num": 244237,
-      "word": "官方回应烈士陵园墓前多人跳广场舞",
-      "onboard_time": 1725540683,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50311,
       "num": 250725,
       "word": "何浩楠何小帅的土爽面吃播vlog",
@@ -2891,11 +2979,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36768,
+      "num": 240079,
+      "word": "强烈不建议个人投资者短线炒作黄金",
+      "onboard_time": 1725540745,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36542,
       "num": 575530,
       "word": "摩羯来袭多地停工停课停运",
       "onboard_time": 1725508940,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35918,
+      "num": 546985,
+      "word": "台风摩羯比夏季台风更肆虐",
+      "onboard_time": 1725541884,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2995,14 +3099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30174,
-      "num": 240079,
-      "word": "强烈不建议个人投资者短线炒作黄金",
-      "onboard_time": 1725540745,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 29880,
       "num": 448705,
       "word": "中国制造在加纳受欢迎程度",
@@ -3091,6 +3187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21265,
+      "num": 3399879,
+      "word": "中非经贸双向奔赴跑出加速度",
+      "onboard_time": 1725540324,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 21123,
       "num": 22256,
       "word": "边水往事",
@@ -3121,14 +3225,6 @@
       "onboard_time": 1725539780,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18883,
-      "num": 2572088,
-      "word": "中非经贸双向奔赴跑出加速度",
-      "onboard_time": 1725540324,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17409,
