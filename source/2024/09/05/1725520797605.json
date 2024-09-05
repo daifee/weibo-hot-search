@@ -1,0 +1,410 @@
+{
+  "runTime": 1725520797605,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1681907,
+        "num": 1681907,
+        "word": "王楚钦橘发",
+        "onboard_time": 1725508759,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1209914,
+        "num": 1209914,
+        "word": "中介称马斯克1.5亿美元在北京买房",
+        "onboard_time": 1725517399,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24229,
+        "num": 543465,
+        "word": "中非现代化之路",
+        "onboard_time": 1725508279,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489215,
+        "num": 489215,
+        "word": "但拓 假死",
+        "onboard_time": 1725515300,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 486611,
+        "num": 486611,
+        "word": "周雨彤 陈好",
+        "onboard_time": 1725512780,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355993,
+        "num": 355993,
+        "word": "快递小哥打赏女主播欠300万住车里",
+        "onboard_time": 1725517039,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351672,
+        "num": 351672,
+        "word": "广东多地紧急停课",
+        "onboard_time": 1725511941,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344402,
+        "num": 344402,
+        "word": "广州最高气温将断崖式下降",
+        "onboard_time": 1725516561,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198045,
+        "num": 338834,
+        "word": "台风摩羯预计明天登陆海南广东一带",
+        "onboard_time": 1725498141,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31870,
+        "num": 332636,
+        "word": "一所西北县中何以考出6名清北生",
+        "onboard_time": 1725520580,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651777,
+        "num": 328184,
+        "word": "宠物狗不牵绳吓哭小孩被爷爷摔死",
+        "onboard_time": 1725517639,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544430,
+        "num": 321722,
+        "word": "全女综就是不用避讳痛经",
+        "onboard_time": 1725516800,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352024,
+        "num": 317582,
+        "word": "黄牛用软件不到1秒钟抢到票",
+        "onboard_time": 1725506058,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313212,
+        "num": 313212,
+        "word": "96年负二代靠卖收纳小物年入6亿",
+        "onboard_time": 1725512301,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297753,
+        "num": 297753,
+        "word": "厦门航空杂志疑刊登代孕广告",
+        "onboard_time": 1725513380,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270793,
+        "num": 270793,
+        "word": "市监局回应厦航疑刊登代孕广告",
+        "onboard_time": 1725517520,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255862,
+        "num": 255862,
+        "word": "李雪琴坦然承认自己的无能",
+        "onboard_time": 1725520398,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79379,
+        "num": 255802,
+        "word": "金晨泳装大片",
+        "onboard_time": 1725513021,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217208,
+        "num": 255523,
+        "word": "柳岩 不化妆就可以认不出来",
+        "onboard_time": 1725512720,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210610,
+        "num": 255412,
+        "word": "沈腾做完手术去岳云鹏家通宵打游戏",
+        "onboard_time": 1725508640,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1659363,
+        "num": 255225,
+        "word": "男子因女生内裤掉头上气到报警",
+        "onboard_time": 1725515961,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1229972,
+        "num": 255123,
+        "word": "戚薇北大上学",
+        "onboard_time": 1725514579,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 711093,
+        "num": 254944,
+        "word": "女子自拍40条淫秽视频倒罚1万5",
+        "onboard_time": 1725478932,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376863,
+        "num": 254727,
+        "word": "印度女子勒死6天大女儿",
+        "onboard_time": 1725505878,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348305,
+        "num": 254406,
+        "word": "三只羊前法务再回应离职",
+        "onboard_time": 1725508700,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 169382,
+        "num": 254284,
+        "word": "杨紫听了都得懵一秒",
+        "onboard_time": 1725513741,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166019,
+        "num": 254093,
+        "word": "黄牛还能给老赖买高铁票机票",
+        "onboard_time": 1725518479,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147010,
+        "num": 253941,
+        "word": "登陆少年高会更新",
+        "onboard_time": 1725519320,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144822,
+        "num": 253680,
+        "word": "体内的卢昱晓压不住了",
+        "onboard_time": 1725513621,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26319,
+        "num": 253543,
+        "word": "日均千元的乡村民宿是怎么火起来的",
+        "onboard_time": 1725519621,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253491,
+        "num": 253491,
+        "word": "中保研首撞小米SU7",
+        "onboard_time": 1725519980,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 213806,
+        "num": 213806,
+        "word": "时尚芭莎孙颖莎红衣登场预告",
+        "onboard_time": 1725502159,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9730,
+        "num": 210331,
+        "word": "秋游时建议准备可叠穿装备",
+        "onboard_time": 1725519859,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209168,
+        "num": 209168,
+        "word": "边牧误吃葡萄不停喝水吃草解毒",
+        "onboard_time": 1725520160,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24493,
+        "num": 205060,
+        "word": "户外新手的冲锋衣怎么选",
+        "onboard_time": 1725516319,
+        "rank": 34,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 192991,
+        "num": 202901,
+        "word": "101岁太奶奶给孙媳妇摸肚看胎位",
+        "onboard_time": 1725515120,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202814,
+        "num": 202814,
+        "word": "国漫直球女主天花板",
+        "onboard_time": 1725520160,
+        "rank": 36,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 195225,
+        "num": 195225,
+        "word": "奥运健儿们的杂志封面",
+        "onboard_time": 1725519980,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188976,
+        "num": 188976,
+        "word": "张杰给粉丝挑了18张屏保",
+        "onboard_time": 1725519558,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186741,
+        "num": 186741,
+        "word": "马龙也在看边水往事",
+        "onboard_time": 1725513678,
+        "rank": 39,
+        "category": "体育,剧集"
+      },
+      {
+        "raw_hot": 186413,
+        "num": 186413,
+        "word": "中学食堂15元配菜只有米饭和丸子",
+        "onboard_time": 1725509001,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184221,
+        "num": 184221,
+        "word": "小猫叼了只猫崽回家",
+        "onboard_time": 1725519378,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179929,
+        "num": 179929,
+        "word": "中国历史上最特别的一代人",
+        "onboard_time": 1725514459,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 163409,
+        "num": 163409,
+        "word": "三只羊",
+        "onboard_time": 1725511642,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 161127,
+        "num": 161127,
+        "word": "山东一书记涉酒驾被查拒不下车",
+        "onboard_time": 1725509480,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156897,
+        "num": 156897,
+        "word": "台风",
+        "onboard_time": 1725448699,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153899,
+        "num": 153899,
+        "word": "陈梦姥姥手捧鲜花接机",
+        "onboard_time": 1725514040,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153795,
+        "num": 153795,
+        "word": "全红婵怼脸拍樊振东",
+        "onboard_time": 1725517581,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151216,
+        "num": 151216,
+        "word": "叶珂说现任也不完美",
+        "onboard_time": 1725520639,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140174,
+        "num": 140174,
+        "word": "店主被质疑开黄腔后改店名怼网友",
+        "onboard_time": 1725508640,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中非命运共同体彰显于合作共赢#"
+    }
+  }
+}
