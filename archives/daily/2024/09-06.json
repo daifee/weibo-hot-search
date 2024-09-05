@@ -1,6 +1,6 @@
 {
   "startTime": 1725553630734,
-  "endTime": 1725556728016,
+  "endTime": 1725557766356,
   "band_list": [
     {
       "raw_hot": 1282601,
@@ -363,6 +363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 89275,
+      "num": 108242,
+      "word": "张婧仪嘴唇贴亮片",
+      "onboard_time": 1725555736,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 88769,
       "num": 139557,
       "word": "老舅 迎新晚会",
@@ -387,20 +395,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 74768,
-      "num": 108242,
-      "word": "张婧仪嘴唇贴亮片",
-      "onboard_time": 1725555736,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 68882,
+      "raw_hot": 75685,
       "num": 134967,
       "word": "当月薪3千和月薪5万交换午饭",
       "onboard_time": 1725537981,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 71394,
+      "num": 80307,
+      "word": "美国14岁男孩在学校枪击致4死9伤",
+      "onboard_time": 1725554716,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69684,
+      "num": 124408,
+      "word": "不同等级的台风力量如何",
+      "onboard_time": 1725557354,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63728,
@@ -411,20 +427,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62180,
-      "num": 80307,
-      "word": "美国14岁男孩在学校枪击致4死9伤",
-      "onboard_time": 1725554716,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 46406,
       "num": 80280,
       "word": "三只羊主播怼辛巴称其满嘴脏话",
       "onboard_time": 1725525799,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 45864,
+      "num": 65876,
+      "word": "重庆各区县正在研判开学工作事宜",
+      "onboard_time": 1725534258,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40708,
+      "num": 65824,
+      "word": "张凌赫黑大衣皮裤",
+      "onboard_time": 1725545543,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 39557,
@@ -443,7 +467,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14410,
+      "raw_hot": 22692,
       "num": 176099,
       "word": "广东海南防汛防台风应急响应升至二级",
       "onboard_time": 1725555555,
