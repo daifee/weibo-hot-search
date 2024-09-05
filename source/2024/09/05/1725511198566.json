@@ -1,0 +1,410 @@
+{
+  "runTime": 1725511198566,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3590283,
+        "num": 3590283,
+        "word": "王楚钦橘发",
+        "onboard_time": 1725508759,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1144441,
+        "num": 1144441,
+        "word": "不结婚的年轻人重创钻石行业",
+        "onboard_time": 1725506120,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22721,
+        "num": 857600,
+        "word": "中非现代化之路",
+        "onboard_time": 1725508279,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 836147,
+        "num": 836147,
+        "word": "刘美含 反向催婚",
+        "onboard_time": 1725504619,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 791238,
+        "num": 791238,
+        "word": "沈腾做完手术去岳云鹏家通宵打游戏",
+        "onboard_time": 1725508640,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 776154,
+        "num": 776154,
+        "word": "时尚芭莎孙颖莎红衣登场预告",
+        "onboard_time": 1725502159,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 689810,
+        "num": 689810,
+        "word": "韩国研发出爬楼轮椅",
+        "onboard_time": 1725505159,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622702,
+        "num": 622702,
+        "word": "郑钦文退出瓜达拉哈拉赛",
+        "onboard_time": 1725503058,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 555544,
+        "num": 555544,
+        "word": "中学食堂15元配菜只有米饭和丸子",
+        "onboard_time": 1725509001,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46533,
+        "num": 554738,
+        "word": "人民大会堂外宾休息室展示了这些非遗",
+        "onboard_time": 1725509781,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1110060,
+        "num": 551000,
+        "word": "黄牛用软件不到1秒钟抢到票",
+        "onboard_time": 1725506058,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609356,
+        "num": 550079,
+        "word": "女生离家3月暴瘦50斤父母满眼心疼",
+        "onboard_time": 1725492196,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41476,
+        "num": 547070,
+        "word": "常吃超加工食品更易感染幽门螺杆菌",
+        "onboard_time": 1725510741,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41247,
+        "num": 544168,
+        "word": "贵州西天取经式漂流是怎么火的",
+        "onboard_time": 1725509781,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100485,
+        "num": 542817,
+        "word": "中外院士外滩大会热议AI",
+        "onboard_time": 1725508820,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 384485,
+        "num": 539221,
+        "word": "张杰手机壁纸是自己的照片",
+        "onboard_time": 1725502759,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 63699,
+        "num": 535680,
+        "word": "如鸢宿命感",
+        "onboard_time": 1725509300,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90676,
+        "num": 533877,
+        "word": "藏海花",
+        "onboard_time": 1725510262,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364058,
+        "num": 531773,
+        "word": "赵丽颖乔妍好疯批",
+        "onboard_time": 1725506958,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 530636,
+        "num": 530636,
+        "word": "虹猫蓝兔七侠传开播18周年",
+        "onboard_time": 1725507259,
+        "rank": 19,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 1430300,
+        "num": 516551,
+        "word": "女子自拍40条淫秽视频倒罚1万5",
+        "onboard_time": 1725478932,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1298856,
+        "num": 512621,
+        "word": "印度女子勒死6天大女儿",
+        "onboard_time": 1725505878,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1040548,
+        "num": 498778,
+        "word": "三只羊前法务再回应离职",
+        "onboard_time": 1725508700,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 472431,
+        "num": 472431,
+        "word": "叶珂否认插足别人家庭",
+        "onboard_time": 1725504859,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442550,
+        "num": 442550,
+        "word": "印度女医生遭奸杀事发邦修改法案",
+        "onboard_time": 1725496758,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410865,
+        "num": 410865,
+        "word": "故宫文创用苹果皮做小挎包",
+        "onboard_time": 1725497840,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 301051,
+        "num": 387858,
+        "word": "辛芷蕾新片孕肚造型",
+        "onboard_time": 1725508700,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 292184,
+        "num": 380675,
+        "word": "半熟男女恋爱塌房版预告",
+        "onboard_time": 1725502518,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 378504,
+        "num": 378504,
+        "word": "AnotherMan9月刊王楚钦封面",
+        "onboard_time": 1725508759,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19239,
+        "num": 372778,
+        "word": "高圆圆谈不卷",
+        "onboard_time": 1725510200,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372719,
+        "num": 372719,
+        "word": "山东一书记涉酒驾被查拒不下车",
+        "onboard_time": 1725509480,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356614,
+        "num": 356614,
+        "word": "三只羊沫沫",
+        "onboard_time": 1725495380,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 338922,
+        "num": 338922,
+        "word": "店主被质疑开黄腔后改店名怼网友",
+        "onboard_time": 1725508640,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284875,
+        "num": 284875,
+        "word": "贾一凡为了再次港澳行要去洛杉矶",
+        "onboard_time": 1725507440,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283471,
+        "num": 283471,
+        "word": "台风",
+        "onboard_time": 1725448699,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263692,
+        "num": 263692,
+        "word": "国人平均每秒喝掉676杯奶茶",
+        "onboard_time": 1725505940,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252051,
+        "num": 252051,
+        "word": "台风摩羯预计明天登陆海南广东一带",
+        "onboard_time": 1725498141,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78137,
+        "num": 251335,
+        "word": "喜人芭莎毕业大片",
+        "onboard_time": 1725504079,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251163,
+        "num": 251163,
+        "word": "于正说袁姗姗有几分像秦岚",
+        "onboard_time": 1725505458,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239027,
+        "num": 239027,
+        "word": "陈梦回青岛了",
+        "onboard_time": 1725509421,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218224,
+        "num": 218224,
+        "word": "海南大学现天雷滚滚渡劫奇观",
+        "onboard_time": 1725510382,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217244,
+        "num": 217244,
+        "word": "台风摩羯路径不确定性多",
+        "onboard_time": 1725499880,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214896,
+        "num": 214896,
+        "word": "网易云教师节",
+        "onboard_time": 1725506418,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 201994,
+        "num": 201994,
+        "word": "穆祉丞数据组发算什么男人",
+        "onboard_time": 1725503178,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192718,
+        "num": 192718,
+        "word": "离开ChatGPT的年轻人还会思考吗",
+        "onboard_time": 1725509421,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 189947,
+        "num": 189947,
+        "word": "贾一凡vlog更新了",
+        "onboard_time": 1725507918,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189889,
+        "num": 189889,
+        "word": "高考选就业方向有意义吗",
+        "onboard_time": 1725510681,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 186249,
+        "num": 186249,
+        "word": "凤凰传奇太原抢票",
+        "onboard_time": 1725510022,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181020,
+        "num": 181020,
+        "word": "赵丽颖10月上映两部新片",
+        "onboard_time": 1725507140,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174416,
+        "num": 174416,
+        "word": "潘展乐给大家画猪",
+        "onboard_time": 1725511162,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中非命运共同体彰显于合作共赢#"
+    }
+  }
+}
