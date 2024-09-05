@@ -1,0 +1,410 @@
+{
+  "runTime": 1725574800725,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 277984,
+        "num": 379911,
+        "word": "陪读爸爸考上大学因现实放弃入学",
+        "onboard_time": 1725559273,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150796,
+        "num": 150796,
+        "word": "台风摩羯爆发式增强1天连跳三级",
+        "onboard_time": 1725546563,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4441,
+        "num": 147506,
+        "word": "这些常见食品原来都是非洲产",
+        "onboard_time": 1725539180,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249519,
+        "num": 133238,
+        "word": "全欧洲都知道国足0比7了",
+        "onboard_time": 1725546563,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219394,
+        "num": 122408,
+        "word": "网红小英莫遗体被找到",
+        "onboard_time": 1725540983,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 194874,
+        "num": 118073,
+        "word": "国足0比7日本",
+        "onboard_time": 1725540444,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110474,
+        "num": 110474,
+        "word": "云南一烈士陵园墓前多人跳广场舞",
+        "onboard_time": 1725549862,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79232,
+        "num": 79232,
+        "word": "广东海南暴雨具有一定极端性",
+        "onboard_time": 1725551959,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75210,
+        "num": 75210,
+        "word": "中年男人的崩溃是已读不回",
+        "onboard_time": 1725547402,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26692,
+        "num": 73976,
+        "word": "男子把反传销做成敲诈勒索的生意",
+        "onboard_time": 1725573011,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204804,
+        "num": 70623,
+        "word": "汪苏泷 女友",
+        "onboard_time": 1725540502,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134301,
+        "num": 69311,
+        "word": "爱奇艺体育道歉",
+        "onboard_time": 1725548242,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112689,
+        "num": 67100,
+        "word": "男子教孙女游泳收到游泳馆逐客令",
+        "onboard_time": 1725534321,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124847,
+        "num": 63895,
+        "word": "范志毅怒斥国足",
+        "onboard_time": 1725539902,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89030,
+        "num": 63407,
+        "word": "官方回应烈士陵园墓前多人跳广场舞",
+        "onboard_time": 1725540683,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109632,
+        "num": 59908,
+        "word": "退钱哥",
+        "onboard_time": 1725542364,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58773,
+        "num": 58773,
+        "word": "不同等级的台风力量如何",
+        "onboard_time": 1725557354,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53639,
+        "num": 53639,
+        "word": "阿如那西装出场全场沸腾",
+        "onboard_time": 1725548841,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53065,
+        "num": 53065,
+        "word": "张元英高光",
+        "onboard_time": 1725549442,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 49861,
+        "num": 49861,
+        "word": "目前今年最出圈的台词",
+        "onboard_time": 1725542063,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 273486,
+        "num": 49499,
+        "word": "日媒称不是我们太强而是中国队太弱",
+        "onboard_time": 1725551841,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194841,
+        "num": 49027,
+        "word": "三只羊 辛巴",
+        "onboard_time": 1725548722,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 113611,
+        "num": 48864,
+        "word": "印度女子在救护车上被强奸",
+        "onboard_time": 1725528741,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161804,
+        "num": 48334,
+        "word": "辛巴晒1亿元转账单",
+        "onboard_time": 1725546023,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 66341,
+        "num": 48015,
+        "word": "在朋友圈骂了一年老板发现忘记屏蔽",
+        "onboard_time": 1725538820,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60659,
+        "num": 47227,
+        "word": "当月薪3千和月薪5万交换午饭",
+        "onboard_time": 1725537981,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60581,
+        "num": 47009,
+        "word": "国足耻辱的一夜",
+        "onboard_time": 1725540864,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46770,
+        "num": 46770,
+        "word": "龙傲天你真是出息了",
+        "onboard_time": 1725559633,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35778,
+        "num": 46765,
+        "word": "陈好 就事论事",
+        "onboard_time": 1725533301,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34166,
+        "num": 46717,
+        "word": "凡人歌",
+        "onboard_time": 1725535759,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60267,
+        "num": 46647,
+        "word": "国足vs日本",
+        "onboard_time": 1725532459,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50510,
+        "num": 46627,
+        "word": "男子兑换发现4年前的蟹卡已失效",
+        "onboard_time": 1725550342,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47523,
+        "num": 46549,
+        "word": "美国14岁男孩在学校枪击致4死9伤",
+        "onboard_time": 1725554716,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46535,
+        "num": 46535,
+        "word": "男子因女生内裤掉头上气到报警",
+        "onboard_time": 1725515961,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46026,
+        "num": 46026,
+        "word": "山姆盒装牛奶外附着黑色虫卵",
+        "onboard_time": 1725537981,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45662,
+        "num": 45662,
+        "word": "台风",
+        "onboard_time": 1725448699,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44014,
+        "num": 44014,
+        "word": "范志毅说看得想跳黄浦江",
+        "onboard_time": 1725550761,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38307,
+        "num": 38307,
+        "word": "深圳将迎10级雷雨大风",
+        "onboard_time": 1725544704,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43506,
+        "num": 37627,
+        "word": "国足创三大耻辱纪录",
+        "onboard_time": 1725541763,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36156,
+        "num": 36156,
+        "word": "黄轩什么时候结婚了",
+        "onboard_time": 1725524000,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40739,
+        "num": 36151,
+        "word": "爱奇艺 花钱看不了",
+        "onboard_time": 1725533659,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28031,
+        "num": 36146,
+        "word": "马龙王楚钦被碾同款月饼销量暴增",
+        "onboard_time": 1725542364,
+        "rank": 41,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 27509,
+        "num": 36145,
+        "word": "范志毅称现在考虑世界杯太远了",
+        "onboard_time": 1725548302,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26883,
+        "num": 36142,
+        "word": "为什么暑期档没人能扛剧了",
+        "onboard_time": 1725558913,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26412,
+        "num": 36132,
+        "word": "台风摩羯",
+        "onboard_time": 1725492616,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25727,
+        "num": 36130,
+        "word": "日本球迷说没想到中国真这么弱",
+        "onboard_time": 1725547763,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25322,
+        "num": 36123,
+        "word": "台风摩羯将至广东多地停课",
+        "onboard_time": 1725551780,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24735,
+        "num": 36121,
+        "word": "央视抵制体育版权乱象",
+        "onboard_time": 1725574634,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24289,
+        "num": 36116,
+        "word": "法国总统任命新一任总理",
+        "onboard_time": 1725568511,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 24581,
+        "num": 36110,
+        "word": "南野拓实梅开二度",
+        "onboard_time": 1725552319,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#没有中非的现代化就没有世界的现代化#"
+    }
+  }
+}

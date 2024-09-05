@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/06 00:27:10 ~ 2024/09/06 05:35:05
+本榜单时间：2024/09/06 00:27:10 ~ 2024/09/06 06:20:00
 </p>
 </blockquote>
 <p>
@@ -117,6 +117,18 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%AA%E8%AF%BB%E7%88%B8%E7%88%B8%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%9B%A0%E7%8E%B0%E5%AE%9E%E6%94%BE%E5%BC%83%E5%85%A5%E5%AD%A6%23" target="weibo">
+陪读爸爸考上大学因现实放弃入学（热度：277984）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%A7%B0%E4%B8%8D%E6%98%AF%E6%88%91%E4%BB%AC%E5%A4%AA%E5%BC%BA%E8%80%8C%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%AA%E5%BC%B1%23" target="weibo">
+日媒称不是我们太强而是中国队太弱（热度：273486）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%A6%82%E9%82%A3%E8%A5%BF%E8%A3%85%E5%87%BA%E5%9C%BA%E5%85%A8%E5%9C%BA%E6%B2%B8%E8%85%BE%23" target="weibo">
 阿如那西装出场全场沸腾（热度：256027）
 </a>
@@ -137,12 +149,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%AE%E5%89%8D%E4%BB%8A%E5%B9%B4%E6%9C%80%E5%87%BA%E5%9C%88%E7%9A%84%E5%8F%B0%E8%AF%8D%23" target="weibo">
 目前今年最出圈的台词（热度：240574）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%A7%B0%E4%B8%8D%E6%98%AF%E6%88%91%E4%BB%AC%E5%A4%AA%E5%BC%BA%E8%80%8C%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%AA%E5%BC%B1%23" target="weibo">
-日媒称不是我们太强而是中国队太弱（热度：224693）
 </a>
 </li>
 
@@ -273,12 +279,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%AA%E8%AF%BB%E7%88%B8%E7%88%B8%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%9B%A0%E7%8E%B0%E5%AE%9E%E6%94%BE%E5%BC%83%E5%85%A5%E5%AD%A6%23" target="weibo">
-陪读爸爸考上大学因现实放弃入学（热度：105376）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E7%90%83%E5%91%98%E8%B5%9B%E5%90%8E%E7%A5%9E%E6%83%85%E8%90%BD%E5%AF%9E%23" target="weibo">
 国足球员赛后神情落寞（热度：101760）
 </a>
@@ -339,6 +339,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BE%99%E5%82%B2%E5%A4%A9%E4%BD%A0%E7%9C%9F%E6%98%AF%E5%87%BA%E6%81%AF%E4%BA%86%23" target="weibo">
+龙傲天你真是出息了（热度：46770）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E7%BE%8A%E4%B8%BB%E6%92%AD%E6%80%BC%E8%BE%9B%E5%B7%B4%E7%A7%B0%E5%85%B6%E6%BB%A1%E5%98%B4%E8%84%8F%E8%AF%9D%23" target="weibo">
 三只羊主播怼辛巴称其满嘴脏话（热度：46406）
 </a>
@@ -363,12 +369,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BE%99%E5%82%B2%E5%A4%A9%E4%BD%A0%E7%9C%9F%E6%98%AF%E5%87%BA%E6%81%AF%E4%BA%86%23" target="weibo">
-龙傲天你真是出息了（热度：36223）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E5%B8%B8%E8%A7%81%E9%A3%9F%E5%93%81%E5%8E%9F%E6%9D%A5%E9%83%BD%E6%98%AF%E9%9D%9E%E6%B4%B2%E4%BA%A7%23" target="weibo">
 这些常见食品原来都是非洲产（热度：36214）
 </a>
@@ -376,13 +376,37 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%A1%E4%BA%BA%E6%AD%8C%23" target="weibo">
-凡人歌（热度：31233）
+凡人歌（热度：34166）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9A%91%E6%9C%9F%E6%A1%A3%E6%B2%A1%E4%BA%BA%E8%83%BD%E6%89%9B%E5%89%A7%E4%BA%86%23" target="weibo">
 为什么暑期档没人能扛剧了（热度：29994）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%8A%E5%8F%8D%E4%BC%A0%E9%94%80%E5%81%9A%E6%88%90%E6%95%B2%E8%AF%88%E5%8B%92%E7%B4%A2%E7%9A%84%E7%94%9F%E6%84%8F%23" target="weibo">
+男子把反传销做成敲诈勒索的生意（热度：26692）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%91%A9%E7%BE%AF%23" target="weibo">
+台风摩羯（热度：26412）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8A%B5%E5%88%B6%E4%BD%93%E8%82%B2%E7%89%88%E6%9D%83%E4%B9%B1%E8%B1%A1%23" target="weibo">
+央视抵制体育版权乱象（热度：24735）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E6%80%BB%E7%BB%9F%E4%BB%BB%E5%91%BD%E6%96%B0%E4%B8%80%E4%BB%BB%E6%80%BB%E7%90%86%23" target="weibo">
+法国总统任命新一任总理（热度：24289）
 </a>
 </li>
 
@@ -401,12 +425,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%B5%B7%E5%8D%97%E9%98%B2%E6%B1%9B%E9%98%B2%E5%8F%B0%E9%A3%8E%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94%E5%8D%87%E8%87%B3%E4%BA%8C%E7%BA%A7%23" target="weibo">
 广东海南防汛防台风应急响应升至二级（热度：22692）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E6%80%BB%E7%BB%9F%E4%BB%BB%E5%91%BD%E6%96%B0%E4%B8%80%E4%BB%BB%E6%80%BB%E7%90%86%23" target="weibo">
-法国总统任命新一任总理（热度：19563）
 </a>
 </li>
 
@@ -455,6 +473,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E9%9D%9E%E5%90%88%E4%BD%9C%E6%8C%87%E6%98%8E%E6%96%B9%E5%90%91%23%23" target="weibo">
 #习近平为新时代中非合作指明方向#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%B2%A1%E6%9C%89%E4%B8%AD%E9%9D%9E%E7%9A%84%E7%8E%B0%E4%BB%A3%E5%8C%96%E5%B0%B1%E6%B2%A1%E6%9C%89%E4%B8%96%E7%95%8C%E7%9A%84%E7%8E%B0%E4%BB%A3%E5%8C%96%23%23" target="weibo">
+#没有中非的现代化就没有世界的现代化#
 </a>
 </li>
 

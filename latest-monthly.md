@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/06 05:35:05
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/06 06:20:00
 </p>
 </blockquote>
 <p>
@@ -4059,6 +4059,12 @@ A股（热度：279449）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%AA%E8%AF%BB%E7%88%B8%E7%88%B8%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%9B%A0%E7%8E%B0%E5%AE%9E%E6%94%BE%E5%BC%83%E5%85%A5%E5%AD%A6%23" target="weibo">
+陪读爸爸考上大学因现实放弃入学（热度：277984）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%9B%85%E7%B9%81vs%E5%B7%B4%E5%A4%9A%E8%90%A8%23" target="weibo">
 王雅繁vs巴多萨（热度：277791）
 </a>
@@ -4121,6 +4127,12 @@ A股（热度：279449）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%AD%A4%E5%8B%87%E8%80%85reaction%23" target="weibo">
 樊振东孤勇者reaction（热度：273782）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%A7%B0%E4%B8%8D%E6%98%AF%E6%88%91%E4%BB%AC%E5%A4%AA%E5%BC%BA%E8%80%8C%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%AA%E5%BC%B1%23" target="weibo">
+日媒称不是我们太强而是中国队太弱（热度：273486）
 </a>
 </li>
 
@@ -4943,12 +4955,6 @@ RNG 散是满天星（热度：248981）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%B7%B1V%E9%BB%91%E8%A5%BF%E8%A3%85%23" target="weibo">
 王俊凯深V黑西装（热度：226191）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%A7%B0%E4%B8%8D%E6%98%AF%E6%88%91%E4%BB%AC%E5%A4%AA%E5%BC%BA%E8%80%8C%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%AA%E5%BC%B1%23" target="weibo">
-日媒称不是我们太强而是中国队太弱（热度：224693）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ RedVelvet雨中唱跳（热度：193629）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E6%9C%9F%E8%BF%B7%E9%80%94%23" target="weibo">
 无期迷途（热度：193442）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E7%BA%BD%E7%BA%A6%E8%A1%97%E6%8B%8D%23" target="weibo">
-刘诗诗纽约街拍（热度：193195）
 </a>
 </li>
 
