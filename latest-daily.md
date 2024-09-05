@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/06 00:27:10 ~ 2024/09/06 05:19:57
+本榜单时间：2024/09/06 00:27:10 ~ 2024/09/06 05:35:05
 </p>
 </blockquote>
 <p>
@@ -273,6 +273,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%AA%E8%AF%BB%E7%88%B8%E7%88%B8%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%9B%A0%E7%8E%B0%E5%AE%9E%E6%94%BE%E5%BC%83%E5%85%A5%E5%AD%A6%23" target="weibo">
+陪读爸爸考上大学因现实放弃入学（热度：105376）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E7%90%83%E5%91%98%E8%B5%9B%E5%90%8E%E7%A5%9E%E6%83%85%E8%90%BD%E5%AF%9E%23" target="weibo">
 国足球员赛后神情落寞（热度：101760）
 </a>
@@ -323,12 +329,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD14%E5%B2%81%E7%94%B7%E5%AD%A9%E5%9C%A8%E5%AD%A6%E6%A0%A1%E6%9E%AA%E5%87%BB%E8%87%B44%E6%AD%BB9%E4%BC%A4%23" target="weibo">
 美国14岁男孩在学校枪击致4死9伤（热度：71394）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%AA%E8%AF%BB%E7%88%B8%E7%88%B8%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%9B%A0%E7%8E%B0%E5%AE%9E%E6%94%BE%E5%BC%83%E5%85%A5%E5%AD%A6%23" target="weibo">
-陪读爸爸考上大学因现实放弃入学（热度：67245）
 </a>
 </li>
 
@@ -393,20 +393,26 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AA%E4%BA%BA%E6%B1%82%E5%8A%A9%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1%E5%B9%B3%E5%8F%B0%E5%BA%94%E7%BB%8F%E6%B0%91%E6%94%BF%E9%83%A8%E6%8C%87%E5%AE%9A%23" target="weibo">
+个人求助网络服务平台应经民政部指定（热度：23967）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%B5%B7%E5%8D%97%E9%98%B2%E6%B1%9B%E9%98%B2%E5%8F%B0%E9%A3%8E%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94%E5%8D%87%E8%87%B3%E4%BA%8C%E7%BA%A7%23" target="weibo">
 广东海南防汛防台风应急响应升至二级（热度：22692）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E9%9D%9E%E6%B4%B2%E5%91%B3%E9%81%93%E4%BD%A0%E5%93%81%E5%B0%9D%E8%BF%87%E5%90%97%23" target="weibo">
-这些非洲味道你品尝过吗（热度：19450）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E6%80%BB%E7%BB%9F%E4%BB%BB%E5%91%BD%E6%96%B0%E4%B8%80%E4%BB%BB%E6%80%BB%E7%90%86%23" target="weibo">
+法国总统任命新一任总理（热度：19563）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E6%80%BB%E7%BB%9F%E4%BB%BB%E5%91%BD%E6%96%B0%E4%B8%80%E4%BB%BB%E6%80%BB%E7%90%86%23" target="weibo">
-法国总统任命新一任总理（热度：19190）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E9%9D%9E%E6%B4%B2%E5%91%B3%E9%81%93%E4%BD%A0%E5%93%81%E5%B0%9D%E8%BF%87%E5%90%97%23" target="weibo">
+这些非洲味道你品尝过吗（热度：19450）
 </a>
 </li>
 
@@ -423,8 +429,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AA%E4%BA%BA%E6%B1%82%E5%8A%A9%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1%E5%B9%B3%E5%8F%B0%E5%BA%94%E7%BB%8F%E6%B0%91%E6%94%BF%E9%83%A8%E6%8C%87%E5%AE%9A%23" target="weibo">
-个人求助网络服务平台应经民政部指定（热度：10229）
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E7%AB%99%E5%A6%82%E6%9D%BE%E6%89%93%E6%8B%9B%E5%91%BC%23" target="weibo">
+福宝站如松打招呼（热度：11202）
 </a>
 </li>
 
