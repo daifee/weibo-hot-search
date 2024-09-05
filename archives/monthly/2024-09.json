@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725500201505,
+  "endTime": 1725501183322,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -723,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1248877,
+      "num": 1248877,
+      "word": "故宫文创用苹果皮做小挎包",
+      "onboard_time": 1725497840,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1230108,
       "num": 752788,
       "word": "夫妻称喝完Blueglass躺了一天才恢复",
@@ -963,14 +971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1047911,
-      "num": 1047911,
-      "word": "故宫文创用苹果皮做小挎包",
-      "onboard_time": 1725497840,
-      "rank": 1,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 1046334,
       "num": 1046334,
       "word": "郑钦文vs萨巴伦卡",
@@ -1187,6 +1187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 926772,
+      "num": 909440,
+      "word": "三只羊沫沫",
+      "onboard_time": 1725495380,
+      "rank": 5,
+      "category": "网红"
+    },
+    {
       "raw_hot": 911905,
       "num": 911905,
       "word": "中石油",
@@ -1217,14 +1225,6 @@
       "onboard_time": 1725255799,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 909440,
-      "num": 909440,
-      "word": "三只羊沫沫",
-      "onboard_time": 1725495380,
-      "rank": 5,
-      "category": "网红"
     },
     {
       "raw_hot": 907040,
@@ -1335,6 +1335,14 @@
       "num": 863198,
       "word": "行人闯红灯致电动车主摔倒被轧身亡",
       "onboard_time": 1725439459,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 861684,
+      "num": 861684,
+      "word": "高中老师凌晨约女学生外出被停职",
+      "onboard_time": 1725498259,
       "rank": 7,
       "category": "社会新闻"
     },
@@ -2339,14 +2347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 580693,
-      "num": 580693,
-      "word": "高中老师凌晨约女学生外出被停职",
-      "onboard_time": 1725498259,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 573961,
       "num": 573961,
       "word": "安徽17岁男生退学摆摊10天收入万元",
@@ -2739,6 +2739,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 507017,
+      "num": 565927,
+      "word": "台风摩羯预计明天登陆海南广东一带",
+      "onboard_time": 1725498141,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 506984,
       "num": 259728,
       "word": "碾压骑行男孩涉案司机律师发声",
@@ -2811,20 +2819,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 498082,
-      "num": 565927,
-      "word": "台风摩羯预计明天登陆海南广东一带",
-      "onboard_time": 1725498141,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 497478,
       "num": 497478,
       "word": "AG对战狼队",
       "onboard_time": 1725191119,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 496893,
+      "num": 496893,
+      "word": "方协文遇到他都轻舟已过万重山",
+      "onboard_time": 1725496400,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 496051,
@@ -2929,14 +2937,6 @@
       "onboard_time": 1725193879,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 475488,
-      "num": 475488,
-      "word": "方协文遇到他都轻舟已过万重山",
-      "onboard_time": 1725496400,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 475183,
@@ -3787,6 +3787,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 340597,
+      "num": 340597,
+      "word": "斯瓦泰克美网出局",
+      "onboard_time": 1725499399,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 339101,
       "num": 339101,
       "word": "30多块的牛约堡档口老鼠遍地跑",
@@ -4217,6 +4225,14 @@
       "onboard_time": 1725178458,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 296194,
+      "num": 296194,
+      "word": "防城港5死1伤案发地村民发声",
+      "onboard_time": 1725498439,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295985,
@@ -5123,6 +5139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241573,
+      "num": 241573,
+      "word": "黄景瑜开门用肩膀关门用脚",
+      "onboard_time": 1725495441,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241410,
       "num": 241410,
       "word": "每个中国人都该记住这一天",
@@ -5241,14 +5265,6 @@
       "onboard_time": 1725439161,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 237097,
-      "num": 237097,
-      "word": "黄景瑜开门用肩膀关门用脚",
-      "onboard_time": 1725495441,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 236882,
@@ -5483,14 +5499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 226106,
-      "num": 226106,
-      "word": "防城港5死1伤案发地村民发声",
-      "onboard_time": 1725498439,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 224663,
       "num": 224663,
       "word": "郑思维香港第二天vlog",
@@ -5585,6 +5593,14 @@
       "onboard_time": 1725332421,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220927,
+      "num": 220927,
+      "word": "周星驰电影的最后一帧",
+      "onboard_time": 1725498618,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 218988,
@@ -5961,14 +5977,6 @@
       "onboard_time": 1725166339,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206911,
-      "num": 206911,
-      "word": "斯瓦泰克美网出局",
-      "onboard_time": 1725499399,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 206885,
@@ -6691,6 +6699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 192547,
+      "num": 192547,
+      "word": "摩羯具备秋台风特征致灾风险高",
+      "onboard_time": 1725495739,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192116,
       "num": 192116,
       "word": "樊振东和盛李豪互关了",
@@ -6817,14 +6833,6 @@
       "onboard_time": 1725243379,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 189534,
-      "num": 189534,
-      "word": "周星驰电影的最后一帧",
-      "onboard_time": 1725498618,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 189525,
@@ -7547,6 +7555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 176139,
+      "num": 176139,
+      "word": "同学接拉萨当兵8年退伍女兵回家",
+      "onboard_time": 1725492317,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176055,
       "num": 559812,
       "word": "12.9元穷鬼套餐的快乐回来了",
@@ -7593,14 +7609,6 @@
       "onboard_time": 1725340702,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175615,
-      "num": 175615,
-      "word": "摩羯具备秋台风特征致灾风险高",
-      "onboard_time": 1725495739,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175533,
@@ -7785,6 +7793,14 @@
       "onboard_time": 1725413960,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 173226,
+      "num": 173226,
+      "word": "谁该为骑行男孩之死负责",
+      "onboard_time": 1725498200,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173133,
@@ -8451,14 +8467,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 160989,
-      "num": 160989,
-      "word": "同学接拉萨当兵8年退伍女兵回家",
-      "onboard_time": 1725492317,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160971,
       "num": 160971,
       "word": "田馥甄新专辑要来了",
@@ -8785,6 +8793,14 @@
       "onboard_time": 1725279079,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156005,
+      "num": 156005,
+      "word": "阳澄湖大闸蟹或将推迟上市",
+      "onboard_time": 1725496159,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155957,
@@ -9121,14 +9137,6 @@
       "onboard_time": 1725328039,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 148160,
-      "num": 148160,
-      "word": "阳澄湖大闸蟹或将推迟上市",
-      "onboard_time": 1725496159,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148144,
@@ -9475,6 +9483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139820,
+      "num": 139820,
+      "word": "六大行个人房贷缩水超3000亿",
+      "onboard_time": 1725497720,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 139557,
       "num": 139557,
       "word": "郑钦文展望下轮对阵萨巴伦卡",
@@ -9588,7 +9604,7 @@
     },
     {
       "raw_hot": 136777,
-      "num": 133947,
+      "num": 156377,
       "word": "辛巴回应卢文庆声明",
       "onboard_time": 1725495619,
       "rank": 38,
@@ -9633,14 +9649,6 @@
       "onboard_time": 1725167659,
       "rank": 49,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 135473,
-      "num": 135473,
-      "word": "六大行个人房贷缩水超3000亿",
-      "onboard_time": 1725497720,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 134096,
@@ -9747,14 +9755,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 130780,
-      "num": 130780,
-      "word": "谁该为骑行男孩之死负责",
-      "onboard_time": 1725498200,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130107,
       "num": 130107,
       "word": "张晚意这个摇头",
@@ -9785,6 +9785,14 @@
       "onboard_time": 1725184998,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129255,
+      "num": 156165,
+      "word": "茅威涛劝粉丝不要绑架陈丽君李云霄",
+      "onboard_time": 1725495019,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 129085,
@@ -9857,14 +9865,6 @@
       "onboard_time": 1725183138,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126525,
-      "num": 126525,
-      "word": "茅威涛劝粉丝不要绑架陈丽君李云霄",
-      "onboard_time": 1725495019,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 126205,
@@ -9953,6 +9953,14 @@
       "onboard_time": 1725196820,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122853,
+      "num": 122853,
+      "word": "延迟退房2小时收半天房费",
+      "onboard_time": 1725500599,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122613,
@@ -10123,6 +10131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116148,
+      "num": 116148,
+      "word": "台风摩羯路径不确定性多",
+      "onboard_time": 1725499880,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115879,
       "num": 115879,
       "word": "潘展乐一定要去一次陈奕迅演唱会",
@@ -10289,14 +10305,6 @@
       "onboard_time": 1725174799,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108998,
-      "num": 108998,
-      "word": "台风摩羯路径不确定性多",
-      "onboard_time": 1725499880,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108530,

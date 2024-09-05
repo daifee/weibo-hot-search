@@ -1,6 +1,6 @@
 {
   "startTime": 1725467191451,
-  "endTime": 1725500201505,
+  "endTime": 1725501183322,
   "band_list": [
     {
       "raw_hot": 2257721,
@@ -19,20 +19,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1248877,
+      "num": 1248877,
+      "word": "故宫文创用苹果皮做小挎包",
+      "onboard_time": 1725497840,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1141085,
       "num": 1262020,
       "word": "女生离家3月暴瘦50斤父母满眼心疼",
       "onboard_time": 1725492196,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1047911,
-      "num": 1047911,
-      "word": "故宫文创用苹果皮做小挎包",
-      "onboard_time": 1725497840,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 968438,
@@ -51,7 +51,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 909440,
+      "raw_hot": 926772,
       "num": 909440,
       "word": "三只羊沫沫",
       "onboard_time": 1725495380,
@@ -64,6 +64,14 @@
       "word": "男孩骑行身亡案司机认为自己很无辜",
       "onboard_time": 1725495139,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 861684,
+      "num": 861684,
+      "word": "高中老师凌晨约女学生外出被停职",
+      "onboard_time": 1725498259,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -91,14 +99,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 580693,
-      "num": 580693,
-      "word": "高中老师凌晨约女学生外出被停职",
-      "onboard_time": 1725498259,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 565386,
       "num": 565386,
       "word": "盛李豪回家打羽毛球又稳又轻松",
@@ -123,7 +123,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 498082,
+      "raw_hot": 507017,
       "num": 565927,
       "word": "台风摩羯预计明天登陆海南广东一带",
       "onboard_time": 1725498141,
@@ -131,8 +131,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 475488,
-      "num": 475488,
+      "raw_hot": 496893,
+      "num": 496893,
       "word": "方协文遇到他都轻舟已过万重山",
       "onboard_time": 1725496400,
       "rank": 11,
@@ -203,6 +203,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 340597,
+      "num": 340597,
+      "word": "斯瓦泰克美网出局",
+      "onboard_time": 1725499399,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 339101,
       "num": 339101,
       "word": "30多块的牛约堡档口老鼠遍地跑",
@@ -251,12 +259,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296194,
+      "num": 296194,
+      "word": "防城港5死1伤案发地村民发声",
+      "onboard_time": 1725498439,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287462,
       "num": 287462,
       "word": "2女子为拍照撕掉店家门口海报",
       "onboard_time": 1725467477,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241573,
+      "num": 241573,
+      "word": "黄景瑜开门用肩膀关门用脚",
+      "onboard_time": 1725495441,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 239142,
@@ -267,20 +291,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237097,
-      "num": 237097,
-      "word": "黄景瑜开门用肩膀关门用脚",
-      "onboard_time": 1725495441,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 226106,
-      "num": 226106,
-      "word": "防城港5死1伤案发地村民发声",
-      "onboard_time": 1725498439,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 220927,
+      "num": 220927,
+      "word": "周星驰电影的最后一帧",
+      "onboard_time": 1725498618,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 213122,
@@ -307,19 +323,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206911,
-      "num": 206911,
-      "word": "斯瓦泰克美网出局",
-      "onboard_time": 1725499399,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 204997,
       "num": 204997,
       "word": "实探防城港5死1伤案现场",
       "onboard_time": 1725498321,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192547,
+      "num": 192547,
+      "word": "摩羯具备秋台风特征致灾风险高",
+      "onboard_time": 1725495739,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -331,20 +347,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189534,
-      "num": 189534,
-      "word": "周星驰电影的最后一帧",
-      "onboard_time": 1725498618,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 186232,
       "num": 186232,
       "word": "在人民大会堂欢迎国际贵宾",
       "onboard_time": 1725462501,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 184437,
+      "num": 177752,
+      "word": "外卖脱骨鸡被盗报警抓获1只小猫",
+      "onboard_time": 1725460821,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184406,
@@ -363,19 +379,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 177752,
-      "num": 177752,
-      "word": "外卖脱骨鸡被盗报警抓获1只小猫",
-      "onboard_time": 1725460821,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175615,
-      "num": 175615,
-      "word": "摩羯具备秋台风特征致灾风险高",
-      "onboard_time": 1725495739,
-      "rank": 28,
+      "raw_hot": 176139,
+      "num": 176139,
+      "word": "同学接拉萨当兵8年退伍女兵回家",
+      "onboard_time": 1725492317,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -385,6 +393,14 @@
       "onboard_time": 1725466998,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 173226,
+      "num": 173226,
+      "word": "谁该为骑行男孩之死负责",
+      "onboard_time": 1725498200,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162959,
@@ -403,19 +419,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160989,
-      "num": 160989,
-      "word": "同学接拉萨当兵8年退伍女兵回家",
-      "onboard_time": 1725492317,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159504,
       "num": 365614,
       "word": "四种台风预警信号分别意味着什么",
       "onboard_time": 1725463461,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156005,
+      "num": 156005,
+      "word": "阳澄湖大闸蟹或将推迟上市",
+      "onboard_time": 1725496159,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -425,14 +441,6 @@
       "onboard_time": 1725448459,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 148160,
-      "num": 148160,
-      "word": "阳澄湖大闸蟹或将推迟上市",
-      "onboard_time": 1725496159,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146375,
@@ -459,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139820,
+      "num": 139820,
+      "word": "六大行个人房贷缩水超3000亿",
+      "onboard_time": 1725497720,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 139134,
       "num": 139134,
       "word": "王昶 已经开始了啊",
@@ -468,7 +484,7 @@
     },
     {
       "raw_hot": 136777,
-      "num": 133947,
+      "num": 156377,
       "word": "辛巴回应卢文庆声明",
       "onboard_time": 1725495619,
       "rank": 38,
@@ -481,14 +497,6 @@
       "onboard_time": 1725455061,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 135473,
-      "num": 135473,
-      "word": "六大行个人房贷缩水超3000亿",
-      "onboard_time": 1725497720,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 134307,
@@ -523,20 +531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130780,
-      "num": 130780,
-      "word": "谁该为骑行男孩之死负责",
-      "onboard_time": 1725498200,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130589,
       "num": 130589,
       "word": "IVE未公开新歌SupernovaLove",
       "onboard_time": 1725455301,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 129255,
+      "num": 156165,
+      "word": "茅威涛劝粉丝不要绑架陈丽君李云霄",
+      "onboard_time": 1725495019,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 128365,
@@ -547,20 +555,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126525,
-      "num": 126525,
-      "word": "茅威涛劝粉丝不要绑架陈丽君李云霄",
-      "onboard_time": 1725495019,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 125287,
       "num": 125287,
       "word": "辛巴宣布今年不再卖大闸蟹",
       "onboard_time": 1725461181,
       "rank": 35,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 122853,
+      "num": 122853,
+      "word": "延迟退房2小时收半天房费",
+      "onboard_time": 1725500599,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116148,
+      "num": 116148,
+      "word": "台风摩羯路径不确定性多",
+      "onboard_time": 1725499880,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114515,
@@ -576,14 +592,6 @@
       "word": "存量房贷利率不能简单一降了之",
       "onboard_time": 1725470113,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108998,
-      "num": 108998,
-      "word": "台风摩羯路径不确定性多",
-      "onboard_time": 1725499880,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
