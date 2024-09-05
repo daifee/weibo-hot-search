@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725504325345,
+  "endTime": 1725504910811,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -1003,6 +1003,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1023188,
+      "num": 1163710,
+      "word": "时尚芭莎孙颖莎红衣登场预告",
+      "onboard_time": 1725502159,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1022491,
       "num": 528363,
       "word": "迪丽热巴回到家一看手机天塌了",
@@ -1057,14 +1065,6 @@
       "onboard_time": 1725265280,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 993149,
-      "num": 1158903,
-      "word": "时尚芭莎孙颖莎红衣登场预告",
-      "onboard_time": 1725502159,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 988998,
@@ -1201,6 +1201,14 @@
       "onboard_time": 1725495380,
       "rank": 5,
       "category": "网红"
+    },
+    {
+      "raw_hot": 924576,
+      "num": 924576,
+      "word": "半熟男女恋爱塌房版预告",
+      "onboard_time": 1725502518,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 911905,
@@ -1441,14 +1449,6 @@
       "onboard_time": 1725276380,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 830295,
-      "num": 830295,
-      "word": "半熟男女恋爱塌房版预告",
-      "onboard_time": 1725502518,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 827678,
@@ -2427,6 +2427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 559466,
+      "num": 559466,
+      "word": "爱犬在小区被毒死投毒邻居被行拘12天",
+      "onboard_time": 1725501559,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 558485,
       "num": 558485,
       "word": "专家称女生游泳私密贴是智商税",
@@ -2449,6 +2457,14 @@
       "onboard_time": 1725203242,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 553052,
+      "num": 252473,
+      "word": "三只羊七老板辟谣",
+      "onboard_time": 1725501498,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 552873,
@@ -2547,14 +2563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 540410,
-      "num": 252473,
-      "word": "三只羊七老板辟谣",
-      "onboard_time": 1725501498,
-      "rank": 24,
-      "category": "网红"
-    },
-    {
       "raw_hot": 539304,
       "num": 306037,
       "word": "公司发了会骂人的月饼",
@@ -2601,6 +2609,14 @@
       "onboard_time": 1725339563,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 534189,
+      "num": 565927,
+      "word": "台风摩羯预计明天登陆海南广东一带",
+      "onboard_time": 1725498141,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 533963,
@@ -2777,14 +2793,6 @@
       "onboard_time": 1725413780,
       "rank": 41,
       "category": "数码"
-    },
-    {
-      "raw_hot": 507017,
-      "num": 565927,
-      "word": "台风摩羯预计明天登陆海南广东一带",
-      "onboard_time": 1725498141,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 506984,
@@ -3307,6 +3315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422050,
+      "num": 422050,
+      "word": "郑钦文退出瓜达拉哈拉赛",
+      "onboard_time": 1725503058,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 421944,
       "num": 421944,
       "word": "郑钦文登场全场欢呼",
@@ -3409,6 +3425,14 @@
       "onboard_time": 1725251061,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 403319,
+      "num": 541219,
+      "word": "电影乔妍的心事官宣定档",
+      "onboard_time": 1725503297,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 401839,
@@ -3723,14 +3747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 359200,
-      "num": 359200,
-      "word": "爱犬在小区被毒死投毒邻居被行拘12天",
-      "onboard_time": 1725501559,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 357303,
       "num": 357303,
       "word": "陈奕迅用了樊振东同款球拍",
@@ -3833,6 +3849,14 @@
       "onboard_time": 1725325161,
       "rank": 23,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 340888,
+      "num": 340888,
+      "word": "张杰手机壁纸是自己的照片",
+      "onboard_time": 1725502759,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 340597,
@@ -4211,14 +4235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 302605,
-      "num": 302605,
-      "word": "张杰手机壁纸是自己的照片",
-      "onboard_time": 1725502759,
-      "rank": 15,
-      "category": "演出"
-    },
-    {
       "raw_hot": 302316,
       "num": 302316,
       "word": "学生用空调需一次性缴3年费用",
@@ -4273,14 +4289,6 @@
       "onboard_time": 1725252682,
       "rank": 27,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 297562,
-      "num": 297562,
-      "word": "电影乔妍的心事官宣定档",
-      "onboard_time": 1725503297,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 297247,
@@ -5371,6 +5379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 235353,
+      "num": 204806,
+      "word": "叶珂否认插足别人家庭",
+      "onboard_time": 1725504859,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235320,
       "num": 235320,
       "word": "周也鎏金深V纱裙",
@@ -5489,14 +5505,6 @@
       "onboard_time": 1725247699,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230726,
-      "num": 230726,
-      "word": "郑钦文退出瓜达拉哈拉赛",
-      "onboard_time": 1725503058,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 230260,
@@ -5795,6 +5803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215817,
+      "num": 188494,
+      "word": "网易云音乐 Black",
+      "onboard_time": 1725504139,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 215210,
       "num": 215210,
       "word": "藏海花断更",
@@ -5969,6 +5985,14 @@
       "onboard_time": 1725289642,
       "rank": 39,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 209511,
+      "num": 209511,
+      "word": "穆祉丞数据组发算什么男人",
+      "onboard_time": 1725503178,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 209048,
@@ -6209,14 +6233,6 @@
       "onboard_time": 1725259221,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204176,
-      "num": 204176,
-      "word": "穆祉丞数据组发算什么男人",
-      "onboard_time": 1725503178,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 203927,
@@ -7115,6 +7131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187244,
+      "num": 187244,
+      "word": "东莞一警车压实线加塞",
+      "onboard_time": 1725501378,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187024,
       "num": 187024,
       "word": "郑钦文不敌萨巴伦卡",
@@ -7947,6 +7971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172301,
+      "num": 172301,
+      "word": "台风摩羯路径不确定性多",
+      "onboard_time": 1725499880,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171820,
       "num": 171820,
       "word": "王曼昱的港澳行vlog",
@@ -8001,6 +8033,14 @@
       "onboard_time": 1725167119,
       "rank": 42,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 170512,
+      "num": 170512,
+      "word": "刘美含 反向催婚",
+      "onboard_time": 1725504619,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 170417,
@@ -8595,14 +8635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160342,
-      "num": 160342,
-      "word": "东莞一警车压实线加塞",
-      "onboard_time": 1725501378,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160277,
       "num": 160277,
       "word": "李兰迪直播",
@@ -8795,14 +8827,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 157938,
-      "num": 157938,
-      "word": "网易云音乐 Black",
-      "onboard_time": 1725504139,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 157666,
       "num": 157666,
       "word": "姚琛刘宇是直播大漏勺吧",
@@ -8841,6 +8865,14 @@
       "onboard_time": 1725201022,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156849,
+      "num": 156849,
+      "word": "85后的她获赠560亿元",
+      "onboard_time": 1725504559,
+      "rank": 37,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 156765,
@@ -8995,6 +9027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154593,
+      "num": 154593,
+      "word": "高校国旗护卫队女生太飒了",
+      "onboard_time": 1725501738,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154394,
       "num": 154394,
       "word": "彭昱畅侯明昊时隔七年再次合作",
@@ -9089,14 +9129,6 @@
       "onboard_time": 1725262462,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 152469,
-      "num": 152469,
-      "word": "高校国旗护卫队女生太飒了",
-      "onboard_time": 1725501738,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152468,
@@ -9297,14 +9329,6 @@
       "onboard_time": 1725205279,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147099,
-      "num": 147099,
-      "word": "台风摩羯路径不确定性多",
-      "onboard_time": 1725499880,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146570,
@@ -9900,7 +9924,7 @@
     },
     {
       "raw_hot": 130413,
-      "num": 130413,
+      "num": 536594,
       "word": "中国同所有非洲建交国提升到战略关系",
       "onboard_time": 1725504018,
       "rank": 45,
@@ -10187,6 +10211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 120342,
+      "num": 120342,
+      "word": "喜人芭莎毕业大片",
+      "onboard_time": 1725504079,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119909,
       "num": 594017,
       "word": "中产返贫只需要一个暑假吗",
@@ -10217,6 +10249,14 @@
       "onboard_time": 1725171740,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118695,
+      "num": 118695,
+      "word": "什么情况下血液会变成白色",
+      "onboard_time": 1725504738,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 117996,
@@ -10288,14 +10328,6 @@
       "word": "苏醒发长文支持王铮亮",
       "onboard_time": 1725099920,
       "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 116491,
-      "num": 116491,
-      "word": "喜人芭莎毕业大片",
-      "onboard_time": 1725504079,
-      "rank": 48,
       "category": "综艺"
     },
     {
@@ -10755,6 +10787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 93619,
+      "num": 374932,
+      "word": "华为三折叠外观",
+      "onboard_time": 1725501559,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 93322,
       "num": 93322,
       "word": "俄军导弹袭击乌波尔塔瓦州",
@@ -10921,14 +10961,6 @@
       "onboard_time": 1725392711,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 79286,
-      "num": 320130,
-      "word": "华为三折叠外观",
-      "onboard_time": 1725501559,
-      "rank": 12,
-      "category": "数码"
     },
     {
       "raw_hot": 78534,
@@ -11803,6 +11835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43789,
+      "num": 534680,
+      "word": "为何说秋台风是狠角色",
+      "onboard_time": 1725503359,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43265,
       "num": 519019,
       "word": "警方回应9岁男孩疑被男子放狗扑咬",
@@ -12033,6 +12073,14 @@
       "onboard_time": 1725215293,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 36796,
+      "num": 350056,
+      "word": "外国人爱翻译白居易是因为容易吗",
+      "onboard_time": 1725503420,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36743,
@@ -12443,14 +12491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28511,
-      "num": 345670,
-      "word": "为何说秋台风是狠角色",
-      "onboard_time": 1725503359,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28500,
       "num": 1122508,
       "word": "万人说新疆走进广东",
@@ -12731,14 +12771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 21637,
-      "num": 304742,
-      "word": "外国人爱翻译白居易是因为容易吗",
-      "onboard_time": 1725503420,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 21484,
       "num": 484420,
       "word": "宅基地使用权抵押可不可行",
@@ -12777,6 +12809,14 @@
       "onboard_time": 1725469396,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20475,
+      "num": 261310,
+      "word": "衡阳鼓励开发商给新房买稳价险",
+      "onboard_time": 1725503540,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19919,
@@ -12873,14 +12913,6 @@
       "onboard_time": 1725440600,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 17619,
-      "num": 261310,
-      "word": "衡阳鼓励开发商给新房买稳价险",
-      "onboard_time": 1725503540,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17095,

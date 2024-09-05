@@ -1,0 +1,410 @@
+{
+  "runTime": 1725504910811,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1023188,
+        "num": 1163710,
+        "word": "时尚芭莎孙颖莎红衣登场预告",
+        "onboard_time": 1725502159,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 924576,
+        "num": 924576,
+        "word": "半熟男女恋爱塌房版预告",
+        "onboard_time": 1725502518,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 3001,
+        "num": 842364,
+        "word": "微视频同舟共济",
+        "onboard_time": 1725455362,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 810410,
+        "num": 810410,
+        "word": "故宫文创用苹果皮做小挎包",
+        "onboard_time": 1725497840,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 715882,
+        "num": 715882,
+        "word": "女生离家3月暴瘦50斤父母满眼心疼",
+        "onboard_time": 1725492196,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616069,
+        "num": 616069,
+        "word": "成都车展奇瑞车模大尺度动作引争议",
+        "onboard_time": 1725501678,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 559466,
+        "num": 559466,
+        "word": "爱犬在小区被毒死投毒邻居被行拘12天",
+        "onboard_time": 1725501559,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403319,
+        "num": 541219,
+        "word": "电影乔妍的心事官宣定档",
+        "onboard_time": 1725503297,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100051,
+        "num": 536594,
+        "word": "中国同所有非洲建交国提升到战略关系",
+        "onboard_time": 1725504018,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43789,
+        "num": 534680,
+        "word": "为何说秋台风是狠角色",
+        "onboard_time": 1725503359,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534189,
+        "num": 534189,
+        "word": "台风摩羯预计明天登陆海南广东一带",
+        "onboard_time": 1725498141,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457027,
+        "num": 457027,
+        "word": "台风",
+        "onboard_time": 1725448699,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422050,
+        "num": 422050,
+        "word": "郑钦文退出瓜达拉哈拉赛",
+        "onboard_time": 1725503058,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93619,
+        "num": 374932,
+        "word": "华为三折叠外观",
+        "onboard_time": 1725501559,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 36796,
+        "num": 350056,
+        "word": "外国人爱翻译白居易是因为容易吗",
+        "onboard_time": 1725503420,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340888,
+        "num": 340888,
+        "word": "张杰手机壁纸是自己的照片",
+        "onboard_time": 1725502759,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 339310,
+        "num": 339310,
+        "word": "方协文遇到他都轻舟已过万重山",
+        "onboard_time": 1725496400,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287943,
+        "num": 287943,
+        "word": "盛李豪回家打羽毛球又稳又轻松",
+        "onboard_time": 1725493458,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230543,
+        "num": 230543,
+        "word": "我感觉我的 不对劲",
+        "onboard_time": 1725460762,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20475,
+        "num": 225598,
+        "word": "衡阳鼓励开发商给新房买稳价险",
+        "onboard_time": 1725503540,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1783240,
+        "num": 223852,
+        "word": "女子自拍40条淫秽视频倒罚1万5",
+        "onboard_time": 1725478932,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1110693,
+        "num": 214809,
+        "word": "印度女医生遭奸杀事发邦修改法案",
+        "onboard_time": 1725496758,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731452,
+        "num": 212109,
+        "word": "三只羊沫沫",
+        "onboard_time": 1725495380,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 209511,
+        "num": 209511,
+        "word": "穆祉丞数据组发算什么男人",
+        "onboard_time": 1725503178,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 553052,
+        "num": 205357,
+        "word": "三只羊七老板辟谣",
+        "onboard_time": 1725501498,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 235353,
+        "num": 204806,
+        "word": "叶珂否认插足别人家庭",
+        "onboard_time": 1725504859,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200575,
+        "num": 200575,
+        "word": "周星驰电影的最后一帧",
+        "onboard_time": 1725498618,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198457,
+        "num": 198457,
+        "word": "斯瓦泰克美网出局",
+        "onboard_time": 1725499399,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195972,
+        "num": 195972,
+        "word": "新式热卤为什么没人吃了",
+        "onboard_time": 1725494538,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 188880,
+        "num": 188880,
+        "word": "刘诗诗纽约街拍",
+        "onboard_time": 1725503778,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215817,
+        "num": 188494,
+        "word": "网易云音乐 Black",
+        "onboard_time": 1725504139,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195073,
+        "num": 188098,
+        "word": "防城港警方通报致5死嫌犯尸体已找到",
+        "onboard_time": 1725502218,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187244,
+        "num": 187244,
+        "word": "东莞一警车压实线加塞",
+        "onboard_time": 1725501378,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174254,
+        "num": 174254,
+        "word": "摩羯具备秋台风特征致灾风险高",
+        "onboard_time": 1725495739,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172301,
+        "num": 172301,
+        "word": "台风摩羯路径不确定性多",
+        "onboard_time": 1725499880,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170512,
+        "num": 170512,
+        "word": "刘美含 反向催婚",
+        "onboard_time": 1725504619,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161029,
+        "num": 161029,
+        "word": "黄景瑜开门用肩膀关门用脚",
+        "onboard_time": 1725495441,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156849,
+        "num": 156849,
+        "word": "85后的她获赠560亿元",
+        "onboard_time": 1725504559,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 154593,
+        "num": 154593,
+        "word": "高校国旗护卫队女生太飒了",
+        "onboard_time": 1725501738,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149379,
+        "num": 149379,
+        "word": "阳澄湖大闸蟹或将推迟上市",
+        "onboard_time": 1725496159,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143616,
+        "num": 143616,
+        "word": "奇瑞客服回应车模大尺度动作",
+        "onboard_time": 1725502518,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 142343,
+        "num": 142343,
+        "word": "田嘉瑞 我妈银行的",
+        "onboard_time": 1725461122,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138814,
+        "num": 138814,
+        "word": "2女子为拍照撕掉店家门口海报",
+        "onboard_time": 1725467477,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135717,
+        "num": 135717,
+        "word": "辛巴将安排1亿元赔付三只羊消费者",
+        "onboard_time": 1725455483,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 133736,
+        "num": 133736,
+        "word": "陈小纭异域公主妆造",
+        "onboard_time": 1725502039,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130397,
+        "num": 130397,
+        "word": "外卖脱骨鸡被盗报警抓获1只小猫",
+        "onboard_time": 1725460821,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127517,
+        "num": 127517,
+        "word": "妈妈放弃事业陪孩子跨省学网球",
+        "onboard_time": 1725480971,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120342,
+        "num": 120342,
+        "word": "喜人芭莎毕业大片",
+        "onboard_time": 1725504079,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118695,
+        "num": 118695,
+        "word": "什么情况下血液会变成白色",
+        "onboard_time": 1725504738,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115225,
+        "num": 115225,
+        "word": "八一飞行表演队上演空中大片",
+        "onboard_time": 1725502638,
+        "rank": 49,
+        "category": "社会新闻,军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平和夫人举行宴会欢迎国际贵宾#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1725467191451,
-  "endTime": 1725504325345,
+  "endTime": 1725504910811,
   "band_list": [
     {
       "raw_hot": 2257721,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 993149,
-      "num": 1158903,
+      "raw_hot": 1023188,
+      "num": 1163710,
       "word": "时尚芭莎孙颖莎红衣登场预告",
       "onboard_time": 1725502159,
       "rank": 0,
@@ -67,6 +67,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 924576,
+      "num": 924576,
+      "word": "半熟男女恋爱塌房版预告",
+      "onboard_time": 1725502518,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 890121,
       "num": 205973,
       "word": "男孩骑行身亡案司机认为自己很无辜",
@@ -81,14 +89,6 @@
       "onboard_time": 1725498259,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 830295,
-      "num": 830295,
-      "word": "半熟男女恋爱塌房版预告",
-      "onboard_time": 1725502518,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 827678,
@@ -139,6 +139,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 559466,
+      "num": 559466,
+      "word": "爱犬在小区被毒死投毒邻居被行拘12天",
+      "onboard_time": 1725501559,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 553052,
+      "num": 252473,
+      "word": "三只羊七老板辟谣",
+      "onboard_time": 1725501498,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 544532,
       "num": 361941,
       "word": "小杨哥一个月掉粉超70万",
@@ -147,12 +163,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 540410,
-      "num": 252473,
-      "word": "三只羊七老板辟谣",
-      "onboard_time": 1725501498,
-      "rank": 24,
-      "category": "网红"
+      "raw_hot": 534189,
+      "num": 565927,
+      "word": "台风摩羯预计明天登陆海南广东一带",
+      "onboard_time": 1725498141,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 524000,
@@ -161,14 +177,6 @@
       "onboard_time": 1725461122,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 507017,
-      "num": 565927,
-      "word": "台风摩羯预计明天登陆海南广东一带",
-      "onboard_time": 1725498141,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 496893,
@@ -184,6 +192,14 @@
       "word": "奥运冠军李倩杨家玉获赠住房",
       "onboard_time": 1725458241,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 422050,
+      "num": 422050,
+      "word": "郑钦文退出瓜达拉哈拉赛",
+      "onboard_time": 1725503058,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -203,6 +219,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 403319,
+      "num": 541219,
+      "word": "电影乔妍的心事官宣定档",
+      "onboard_time": 1725503297,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 398161,
       "num": 335452,
       "word": "女生吃粉监控画面被店主发群聊开黄腔",
@@ -217,14 +241,6 @@
       "onboard_time": 1725448879,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 359200,
-      "num": 359200,
-      "word": "爱犬在小区被毒死投毒邻居被行拘12天",
-      "onboard_time": 1725501559,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 353692,
@@ -249,6 +265,14 @@
       "onboard_time": 1725430820,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 340888,
+      "num": 340888,
+      "word": "张杰手机壁纸是自己的照片",
+      "onboard_time": 1725502759,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 340597,
@@ -307,22 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302605,
-      "num": 302605,
-      "word": "张杰手机壁纸是自己的照片",
-      "onboard_time": 1725502759,
-      "rank": 15,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 297562,
-      "num": 297562,
-      "word": "电影乔妍的心事官宣定档",
-      "onboard_time": 1725503297,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 296194,
       "num": 296194,
       "word": "防城港5死1伤案发地村民发声",
@@ -371,12 +379,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 230726,
-      "num": 230726,
-      "word": "郑钦文退出瓜达拉哈拉赛",
-      "onboard_time": 1725503058,
-      "rank": 26,
-      "category": "体育"
+      "raw_hot": 235353,
+      "num": 204806,
+      "word": "叶珂否认插足别人家庭",
+      "onboard_time": 1725504859,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 215817,
+      "num": 188494,
+      "word": "网易云音乐 Black",
+      "onboard_time": 1725504139,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 213122,
@@ -385,6 +401,14 @@
       "onboard_time": 1725458782,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209511,
+      "num": 209511,
+      "word": "穆祉丞数据组发算什么男人",
+      "onboard_time": 1725503178,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 209425,
@@ -411,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204176,
-      "num": 204176,
-      "word": "穆祉丞数据组发算什么男人",
-      "onboard_time": 1725503178,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 203179,
       "num": 203179,
       "word": "摩羯具备秋台风特征致灾风险高",
@@ -440,6 +456,14 @@
       "word": "中新网评园长收学生6元巧克力被开除",
       "onboard_time": 1725475691,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187244,
+      "num": 187244,
+      "word": "东莞一警车压实线加塞",
+      "onboard_time": 1725501378,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -499,6 +523,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 172301,
+      "num": 172301,
+      "word": "台风摩羯路径不确定性多",
+      "onboard_time": 1725499880,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170512,
+      "num": 170512,
+      "word": "刘美含 反向催婚",
+      "onboard_time": 1725504619,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162959,
       "num": 162959,
       "word": "20岁小伙只喝奶茶饮料成牛奶血",
@@ -515,14 +555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160342,
-      "num": 160342,
-      "word": "东莞一警车压实线加塞",
-      "onboard_time": 1725501378,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159504,
       "num": 365614,
       "word": "四种台风预警信号分别意味着什么",
@@ -531,12 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157938,
-      "num": 157938,
-      "word": "网易云音乐 Black",
-      "onboard_time": 1725504139,
-      "rank": 35,
-      "category": "音乐"
+      "raw_hot": 156849,
+      "num": 156849,
+      "word": "85后的她获赠560亿元",
+      "onboard_time": 1725504559,
+      "rank": 37,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 155147,
@@ -547,28 +579,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153559,
-      "num": 153559,
-      "word": "奇瑞客服回应车模大尺度动作",
-      "onboard_time": 1725502518,
-      "rank": 36,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 152469,
-      "num": 152469,
+      "raw_hot": 154593,
+      "num": 154593,
       "word": "高校国旗护卫队女生太飒了",
       "onboard_time": 1725501738,
       "rank": 37,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147099,
-      "num": 147099,
-      "word": "台风摩羯路径不确定性多",
-      "onboard_time": 1725499880,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 153559,
+      "num": 153559,
+      "word": "奇瑞客服回应车模大尺度动作",
+      "onboard_time": 1725502518,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 146375,
@@ -684,7 +708,7 @@
     },
     {
       "raw_hot": 130413,
-      "num": 130413,
+      "num": 536594,
       "word": "中国同所有非洲建交国提升到战略关系",
       "onboard_time": 1725504018,
       "rank": 45,
@@ -731,20 +755,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120342,
+      "num": 120342,
+      "word": "喜人芭莎毕业大片",
+      "onboard_time": 1725504079,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 118695,
+      "num": 118695,
+      "word": "什么情况下血液会变成白色",
+      "onboard_time": 1725504738,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 116919,
       "num": 116919,
       "word": "八一飞行表演队上演空中大片",
       "onboard_time": 1725502638,
       "rank": 47,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 116491,
-      "num": 116491,
-      "word": "喜人芭莎毕业大片",
-      "onboard_time": 1725504079,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 114515,
@@ -859,6 +891,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 93619,
+      "num": 374932,
+      "word": "华为三折叠外观",
+      "onboard_time": 1725501559,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 93322,
       "num": 93322,
       "word": "俄军导弹袭击乌波尔塔瓦州",
@@ -947,14 +987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 79286,
-      "num": 320130,
-      "word": "华为三折叠外观",
-      "onboard_time": 1725501559,
-      "rank": 12,
-      "category": "数码"
-    },
-    {
       "raw_hot": 77379,
       "num": 77379,
       "word": "被檀健次眼神虐到了",
@@ -979,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43789,
+      "num": 534680,
+      "word": "为何说秋台风是狠角色",
+      "onboard_time": 1725503359,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42247,
       "num": 134339,
       "word": "街头的爱心冰箱冷饮越来越多了",
@@ -993,6 +1033,14 @@
       "onboard_time": 1725470773,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 36796,
+      "num": 350056,
+      "word": "外国人爱翻译白居易是因为容易吗",
+      "onboard_time": 1725503420,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34844,
@@ -1027,27 +1075,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 28511,
-      "num": 345670,
-      "word": "为何说秋台风是狠角色",
-      "onboard_time": 1725503359,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24680,
       "num": 193858,
       "word": "陶俑闺蜜手牵手千年了",
       "onboard_time": 1725473832,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21637,
-      "num": 304742,
-      "word": "外国人爱翻译白居易是因为容易吗",
-      "onboard_time": 1725503420,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1067,7 +1099,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 17619,
+      "raw_hot": 20475,
       "num": 261310,
       "word": "衡阳鼓励开发商给新房买稳价险",
       "onboard_time": 1725503540,
