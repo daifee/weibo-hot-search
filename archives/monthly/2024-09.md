@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/06 06:37:52
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/06 07:21:37
 </p>
 </blockquote>
 <p>
@@ -1317,6 +1317,12 @@ WBG战胜JDG（热度：837121）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%AA%E8%AF%BB%E7%88%B8%E7%88%B8%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%9B%A0%E7%8E%B0%E5%AE%9E%E6%94%BE%E5%BC%83%E5%85%A5%E5%AD%A6%23" target="weibo">
+陪读爸爸考上大学因现实放弃入学（热度：834479）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E7%9A%84%E6%9C%88%E9%A5%BC%E5%B7%B2%E7%BB%8F%E7%A6%BB%E8%B0%B1%E5%88%B0%E8%BF%99%E7%A7%8D%E7%A8%8B%E5%BA%A6%E4%BA%86%E5%90%97%23" target="weibo">
 今年的月饼已经离谱到这种程度了吗（热度：834085）
 </a>
@@ -2117,6 +2123,12 @@ iPhone16新配色（热度：634006）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E5%8F%8D%E6%AC%BA%E5%87%8C%E6%89%BF%E8%AF%BA%E4%B9%A6%E8%A6%81%E6%B1%82%E4%B8%8D%E6%8B%8D%E7%85%A7%E4%B8%8D%E5%BD%95%E5%83%8F%23" target="weibo">
 中学反欺凌承诺书要求不拍照不录像（热度：592504）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%A7%B0%E4%B8%8D%E6%98%AF%E6%88%91%E4%BB%AC%E5%A4%AA%E5%BC%BA%E8%80%8C%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%AA%E5%BC%B1%23" target="weibo">
+日媒称不是我们太强而是中国队太弱（热度：588733）
 </a>
 </li>
 
@@ -2925,12 +2937,6 @@ aespa和EXO起诉脱粉收容所（热度：429036）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%AA%E8%AF%BB%E7%88%B8%E7%88%B8%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%9B%A0%E7%8E%B0%E5%AE%9E%E6%94%BE%E5%BC%83%E5%85%A5%E5%AD%A6%23" target="weibo">
-陪读爸爸考上大学因现实放弃入学（热度：428404）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E4%B8%80%E5%87%A1vlog%E9%A6%99%E6%B8%AF%E7%AF%87%23" target="weibo">
 贾一凡vlog香港篇（热度：424684）
 </a>
@@ -3335,12 +3341,6 @@ offer6实习生官宣下一站香港（热度：361353）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%9A%E6%B8%85%E5%AD%90%E8%AF%B4%E6%9C%AA%E5%A9%9A%E5%A4%AB%E6%98%AF%E8%87%AA%E5%B7%B1%E5%BD%B1%E8%BF%B7%23" target="weibo">
 阚清子说未婚夫是自己影迷（热度：353644）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%A7%B0%E4%B8%8D%E6%98%AF%E6%88%91%E4%BB%AC%E5%A4%AA%E5%BC%BA%E8%80%8C%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%AA%E5%BC%B1%23" target="weibo">
-日媒称不是我们太强而是中国队太弱（热度：352265）
 </a>
 </li>
 
@@ -5133,6 +5133,12 @@ iPhonePro系列首次在印度生产（热度：221591）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%B5%B7%E5%8D%97%E6%9A%B4%E9%9B%A8%E5%85%B7%E6%9C%89%E4%B8%80%E5%AE%9A%E6%9E%81%E7%AB%AF%E6%80%A7%23" target="weibo">
+广东海南暴雨具有一定极端性（热度：216182）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%20Black%23" target="weibo">
 网易云音乐 Black（热度：215817）
 </a>
@@ -6005,12 +6011,6 @@ RedVelvet雨中唱跳（热度：193629）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%99%E8%86%8F%E5%A4%AA%E8%8F%9C%E4%BA%86%23" target="weibo">
 牙膏太菜了（热度：193591）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E6%9C%9F%E8%BF%B7%E9%80%94%23" target="weibo">
-无期迷途（热度：193442）
 </a>
 </li>
 

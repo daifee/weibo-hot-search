@@ -1,6 +1,6 @@
 {
   "startTime": 1725553630734,
-  "endTime": 1725575872477,
+  "endTime": 1725578497582,
   "band_list": [
     {
       "raw_hot": 1282601,
@@ -35,6 +35,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 834479,
+      "num": 834923,
+      "word": "陪读爸爸考上大学因现实放弃入学",
+      "onboard_time": 1725559273,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 704195,
       "num": 255661,
       "word": "范志毅怒斥国足",
@@ -57,6 +65,14 @@
       "onboard_time": 1725546023,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 588733,
+      "num": 172982,
+      "word": "日媒称不是我们太强而是中国队太弱",
+      "onboard_time": 1725551841,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 585785,
@@ -99,14 +115,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 428404,
-      "num": 496478,
-      "word": "陪读爸爸考上大学因现实放弃入学",
-      "onboard_time": 1725559273,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 423791,
       "num": 205100,
       "word": "印度女子在救护车上被强奸",
@@ -139,19 +147,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 352265,
-      "num": 172982,
-      "word": "日媒称不是我们太强而是中国队太弱",
-      "onboard_time": 1725551841,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 326806,
       "num": 255511,
       "word": "官方回应烈士陵园墓前多人跳广场舞",
       "onboard_time": 1725540683,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312571,
+      "num": 184607,
+      "word": "男子教孙女游泳收到游泳馆逐客令",
+      "onboard_time": 1725534321,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -187,6 +195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 216182,
+      "num": 216182,
+      "word": "广东海南暴雨具有一定极端性",
+      "onboard_time": 1725551959,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212283,
       "num": 255969,
       "word": "台风摩羯将至广东多地停课",
@@ -195,12 +211,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184607,
-      "num": 184607,
-      "word": "男子教孙女游泳收到游泳馆逐客令",
-      "onboard_time": 1725534321,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 193242,
+      "num": 134964,
+      "word": "国足耻辱的一夜",
+      "onboard_time": 1725540864,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 187366,
+      "num": 225579,
+      "word": "中年男人的崩溃是已读不回",
+      "onboard_time": 1725547402,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 182899,
@@ -211,14 +235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 175636,
-      "num": 216065,
-      "word": "广东海南暴雨具有一定极端性",
-      "onboard_time": 1725551959,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170481,
       "num": 170481,
       "word": "男子兑换发现4年前的蟹卡已失效",
@@ -227,12 +243,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167489,
-      "num": 225579,
-      "word": "中年男人的崩溃是已读不回",
-      "onboard_time": 1725547402,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 161058,
+      "num": 161058,
+      "word": "孩子闹着要跳楼其实是向父母求救",
+      "onboard_time": 1725575233,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160914,
@@ -331,12 +347,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119455,
+      "num": 119455,
+      "word": "苏醒 我感觉我的腰不对劲",
+      "onboard_time": 1725575113,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119265,
       "num": 134998,
       "word": "国足下场战沙特已无法退票",
       "onboard_time": 1725544463,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114366,
+      "num": 114366,
+      "word": "不给中小学装空调是不是没苦硬吃",
+      "onboard_time": 1725573672,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110896,
@@ -371,6 +403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 89338,
+      "num": 100748,
+      "word": "男子把反传销做成敲诈勒索的生意",
+      "onboard_time": 1725573011,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89275,
       "num": 108242,
       "word": "张婧仪嘴唇贴亮片",
@@ -395,6 +435,38 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 82796,
+      "num": 82796,
+      "word": "美国14岁男孩在学校枪击致4死9伤",
+      "onboard_time": 1725554716,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81934,
+      "num": 116800,
+      "word": "为什么暑期档没人能扛剧了",
+      "onboard_time": 1725558913,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 77568,
+      "num": 77568,
+      "word": "深圳天气",
+      "onboard_time": 1725576616,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77233,
+      "num": 77233,
+      "word": "台风摩羯",
+      "onboard_time": 1725492616,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76562,
       "num": 119785,
       "word": "刘亦菲牛仔裤配高跟鞋",
@@ -411,14 +483,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 74961,
-      "num": 134964,
-      "word": "国足耻辱的一夜",
-      "onboard_time": 1725540864,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 72786,
       "num": 124408,
       "word": "不同等级的台风力量如何",
@@ -427,20 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 71394,
-      "num": 80307,
-      "word": "美国14岁男孩在学校枪击致4死9伤",
-      "onboard_time": 1725554716,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 64863,
-      "num": 100748,
-      "word": "男子把反传销做成敲诈勒索的生意",
-      "onboard_time": 1725573011,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 68614,
+      "num": 60765,
+      "word": "央视抵制体育版权乱象",
+      "onboard_time": 1725574634,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 58075,
@@ -448,6 +504,14 @@
       "word": "龙傲天你真是出息了",
       "onboard_time": 1725559633,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 48145,
+      "num": 60375,
+      "word": "真有人分手后去拆同心锁",
+      "onboard_time": 1725578357,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -467,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43300,
+      "num": 66480,
+      "word": "凡人歌",
+      "onboard_time": 1725535759,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 40708,
       "num": 65824,
       "word": "张凌赫黑大衣皮裤",
@@ -483,68 +555,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 37064,
-      "num": 37064,
-      "word": "台风摩羯",
-      "onboard_time": 1725492616,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36214,
       "num": 504703,
       "word": "这些常见食品原来都是非洲产",
       "onboard_time": 1725539180,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35251,
-      "num": 66480,
-      "word": "凡人歌",
-      "onboard_time": 1725535759,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 33140,
-      "num": 66238,
-      "word": "为什么暑期档没人能扛剧了",
-      "onboard_time": 1725558913,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 31746,
-      "num": 37061,
-      "word": "苏醒 我感觉我的腰不对劲",
-      "onboard_time": 1725575113,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 31444,
-      "num": 37059,
-      "word": "孩子闹着要跳楼其实是向父母求救",
-      "onboard_time": 1725575233,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29700,
-      "num": 37059,
-      "word": "不给中小学装空调是不是没苦硬吃",
-      "onboard_time": 1725573672,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24735,
-      "num": 36121,
-      "word": "央视抵制体育版权乱象",
-      "onboard_time": 1725574634,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 24289,
@@ -564,7 +580,7 @@
     },
     {
       "raw_hot": 23967,
-      "num": 45583,
+      "num": 184262,
       "word": "个人求助网络服务平台应经民政部指定",
       "onboard_time": 1725568571,
       "rank": 9,
