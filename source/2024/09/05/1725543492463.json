@@ -1,0 +1,410 @@
+{
+  "runTime": 1725543492463,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11229061,
+        "num": 11229061,
+        "word": "国足0比7日本",
+        "onboard_time": 1725540444,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4190377,
+        "num": 4190377,
+        "word": "国足vs日本",
+        "onboard_time": 1725532459,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23384,
+        "num": 2036209,
+        "word": "中非经贸双向奔赴跑出加速度",
+        "onboard_time": 1725540324,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1493236,
+        "num": 1493236,
+        "word": "网红小英莫遗体被找到",
+        "onboard_time": 1725540983,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 537571,
+        "num": 537571,
+        "word": "张婧仪高定",
+        "onboard_time": 1725537560,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 368246,
+        "num": 368246,
+        "word": "男子教孙女游泳收到游泳馆逐客令",
+        "onboard_time": 1725534321,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282022,
+        "num": 282022,
+        "word": "刘美含收到男友应聘私信",
+        "onboard_time": 1725524659,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 246195,
+        "num": 246195,
+        "word": "官方回应烈士陵园墓前多人跳广场舞",
+        "onboard_time": 1725540683,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235842,
+        "num": 235842,
+        "word": "目前今年最出圈的台词",
+        "onboard_time": 1725542063,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 58068,
+        "num": 234980,
+        "word": "台风摩羯比夏季台风更肆虐",
+        "onboard_time": 1725541884,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2440401,
+        "num": 232905,
+        "word": "范志毅怒斥国足",
+        "onboard_time": 1725539902,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1931826,
+        "num": 230919,
+        "word": "汪苏泷 女友",
+        "onboard_time": 1725540502,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 931133,
+        "num": 230155,
+        "word": "爱奇艺 花钱看不了",
+        "onboard_time": 1725533659,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 699104,
+        "num": 227683,
+        "word": "国足创三大耻辱纪录",
+        "onboard_time": 1725541763,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 566651,
+        "num": 226152,
+        "word": "黄轩什么时候结婚了",
+        "onboard_time": 1725524000,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500182,
+        "num": 224723,
+        "word": "山姆盒装牛奶外附着黑色虫卵",
+        "onboard_time": 1725537981,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460127,
+        "num": 223123,
+        "word": "国足耻辱的一夜",
+        "onboard_time": 1725540864,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294340,
+        "num": 220943,
+        "word": "退钱哥",
+        "onboard_time": 1725542364,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220609,
+        "num": 220609,
+        "word": "张凌赫生图好能打",
+        "onboard_time": 1725542124,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207543,
+        "num": 207543,
+        "word": "李泽锋和冷暴力的站姐和好了",
+        "onboard_time": 1725528019,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 701782,
+        "num": 207378,
+        "word": "在朋友圈骂了一年老板发现忘记屏蔽",
+        "onboard_time": 1725538820,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 525037,
+        "num": 207012,
+        "word": "印度女子在救护车上被强奸",
+        "onboard_time": 1725528741,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351519,
+        "num": 206902,
+        "word": "马龙王楚钦被碾同款月饼销量暴增",
+        "onboard_time": 1725542364,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284783,
+        "num": 206450,
+        "word": "宁艺卓emoji",
+        "onboard_time": 1725536180,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302057,
+        "num": 206053,
+        "word": "男子因女生内裤掉头上气到报警",
+        "onboard_time": 1725515961,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272620,
+        "num": 205693,
+        "word": "当月薪3千和月薪5万交换午饭",
+        "onboard_time": 1725537981,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205686,
+        "num": 205686,
+        "word": "但拓还没死郭麒麟就哭抽了",
+        "onboard_time": 1725540444,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157386,
+        "num": 205607,
+        "word": "刘亦菲牛仔裤配高跟鞋",
+        "onboard_time": 1725537500,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154808,
+        "num": 204849,
+        "word": "待爆小生 僵局",
+        "onboard_time": 1725542724,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137087,
+        "num": 204432,
+        "word": "断崖式离婚都有迹可循",
+        "onboard_time": 1725525140,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222895,
+        "num": 204314,
+        "word": "七喜",
+        "onboard_time": 1725540683,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220377,
+        "num": 203943,
+        "word": "王大雷瘫坐在草皮上",
+        "onboard_time": 1725541224,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211431,
+        "num": 203525,
+        "word": "深圳停课",
+        "onboard_time": 1725536599,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203153,
+        "num": 203153,
+        "word": "女子称在山姆买的鲜肉月饼中吃出牙齿",
+        "onboard_time": 1725527659,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201651,
+        "num": 201651,
+        "word": "台风",
+        "onboard_time": 1725448699,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197163,
+        "num": 197163,
+        "word": "我感觉我的支付宝不对劲",
+        "onboard_time": 1725525140,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196656,
+        "num": 196656,
+        "word": "王楚钦WTT澳门冠军赛赛前采访",
+        "onboard_time": 1725533781,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190532,
+        "num": 190532,
+        "word": "三只羊主播怼辛巴称其满嘴脏话",
+        "onboard_time": 1725525799,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 172400,
+        "num": 172400,
+        "word": "国足球员赛后神情落寞",
+        "onboard_time": 1725543324,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165559,
+        "num": 165559,
+        "word": "秋季每天掉100根头发属正常范围",
+        "onboard_time": 1725542783,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159752,
+        "num": 159752,
+        "word": "谷爱凌从天才少女到双面人谷圣",
+        "onboard_time": 1725536720,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21466,
+        "num": 157904,
+        "word": "张婧仪怼脸生图好绝",
+        "onboard_time": 1725543262,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156124,
+        "num": 156124,
+        "word": "九华山初秋云海仙境氛围拉满",
+        "onboard_time": 1725543144,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 148434,
+        "num": 148434,
+        "word": "重庆各区县正在研判开学工作事宜",
+        "onboard_time": 1725534258,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147922,
+        "num": 147922,
+        "word": "张玉宁回应中日足球差距",
+        "onboard_time": 1725543324,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28176,
+        "num": 142192,
+        "word": "被张凌赫风衣硬控",
+        "onboard_time": 1725543262,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140773,
+        "num": 140773,
+        "word": "爱奇艺收费直播国足比赛",
+        "onboard_time": 1725523339,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136595,
+        "num": 136595,
+        "word": "陈好 就事论事",
+        "onboard_time": 1725533301,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23587,
+        "num": 131757,
+        "word": "青春红岩",
+        "onboard_time": 1725539902,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128096,
+        "num": 128096,
+        "word": "想过会输 没想到输得这么惨",
+        "onboard_time": 1725542303,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#没有中非的现代化就没有世界的现代化#"
+    }
+  }
+}
