@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/06 00:27:10 ~ 2024/09/06 02:27:25
+本榜单时间：2024/09/06 00:27:10 ~ 2024/09/06 02:40:59
 </p>
 </blockquote>
 <p>
@@ -142,7 +142,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%A7%B0%E4%B8%8D%E6%98%AF%E6%88%91%E4%BB%AC%E5%A4%AA%E5%BC%BA%E8%80%8C%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%AA%E5%BC%B1%23" target="weibo">
-日媒称不是我们太强而是中国队太弱（热度：219835）
+日媒称不是我们太强而是中国队太弱（热度：224693）
 </a>
 </li>
 
@@ -369,6 +369,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%AA%E8%AF%BB%E7%88%B8%E7%88%B8%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%9B%A0%E7%8E%B0%E5%AE%9E%E6%94%BE%E5%BC%83%E5%85%A5%E5%AD%A6%23" target="weibo">
+陪读爸爸考上大学因现实放弃入学（热度：35835）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%A1%E4%BA%BA%E6%AD%8C%23" target="weibo">
 凡人歌（热度：31233）
 </a>
@@ -387,8 +393,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%AA%E8%AF%BB%E7%88%B8%E7%88%B8%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%9B%A0%E7%8E%B0%E5%AE%9E%E6%94%BE%E5%BC%83%E5%85%A5%E5%AD%A6%23" target="weibo">
-陪读爸爸考上大学因现实放弃入学（热度：21352）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E5%BF%B5%E4%B9%A6%E5%8F%8C%E8%83%9E%E8%83%8E%E5%BC%9F%E5%BC%9F%E6%83%85%E7%BB%AA%E4%BB%B7%E5%80%BC%E6%8B%89%E6%BB%A1%23" target="weibo">
+姐姐念书双胞胎弟弟情绪价值拉满（热度：15490）
 </a>
 </li>
 
