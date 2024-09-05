@@ -1,6 +1,6 @@
 {
   "startTime": 1725467191451,
-  "endTime": 1725532821539,
+  "endTime": 1725535121900,
   "band_list": [
     {
       "raw_hot": 3590283,
@@ -8,6 +8,22 @@
       "word": "王楚钦橘发",
       "onboard_time": 1725508759,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3410510,
+      "num": 526327,
+      "word": "爱奇艺 花钱看不了",
+      "onboard_time": 1725533659,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2265735,
+      "num": 2265735,
+      "word": "国足vs日本",
+      "onboard_time": 1725454461,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -20,7 +36,7 @@
     },
     {
       "raw_hot": 2025901,
-      "num": 325400,
+      "num": 477642,
       "word": "男子因女生内裤掉头上气到报警",
       "onboard_time": 1725515961,
       "rank": 20,
@@ -52,11 +68,19 @@
     },
     {
       "raw_hot": 1526088,
-      "num": 379457,
+      "num": 1336397,
       "word": "印度女子在救护车上被强奸",
       "onboard_time": 1725528741,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1520742,
+      "num": 1520742,
+      "word": "央视体育发声明",
+      "onboard_time": 1725531680,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 1374615,
@@ -68,7 +92,7 @@
     },
     {
       "raw_hot": 1346914,
-      "num": 377995,
+      "num": 524080,
       "word": "黄轩什么时候结婚了",
       "onboard_time": 1725524000,
       "rank": 18,
@@ -116,7 +140,7 @@
     },
     {
       "raw_hot": 1124431,
-      "num": 654132,
+      "num": 831673,
       "word": "女子称在山姆买的鲜肉月饼中吃出牙齿",
       "onboard_time": 1725527659,
       "rank": 43,
@@ -152,14 +176,6 @@
       "word": "时尚芭莎孙颖莎红衣登场预告",
       "onboard_time": 1725502159,
       "rank": 0,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1010583,
-      "num": 1161693,
-      "word": "央视体育发声明",
-      "onboard_time": 1725531680,
-      "rank": 33,
       "category": "体育"
     },
     {
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 890324,
-      "num": 523591,
+      "num": 676041,
       "word": "刘美含收到男友应聘私信",
       "onboard_time": 1725524659,
       "rank": 6,
@@ -291,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 791755,
+      "num": 791755,
+      "word": "爱奇艺收费直播国足比赛",
+      "onboard_time": 1725523339,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 780975,
       "num": 582549,
       "word": "叶珂否认插足别人家庭",
@@ -315,20 +339,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 706565,
-      "num": 706565,
-      "word": "国足vs日本",
-      "onboard_time": 1725454461,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 677752,
       "num": 677752,
       "word": "女子2年被家暴16次案新进展",
       "onboard_time": 1725518420,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 667928,
+      "num": 667928,
+      "word": "中方决定给予最不发达国家零关税待遇",
+      "onboard_time": 1725531500,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 659653,
@@ -427,14 +451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 566973,
-      "num": 566973,
-      "word": "爱奇艺收费直播国足比赛",
-      "onboard_time": 1725523339,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 565386,
       "num": 565386,
       "word": "盛李豪回家打羽毛球又稳又轻松",
@@ -444,7 +460,7 @@
     },
     {
       "raw_hot": 563278,
-      "num": 321174,
+      "num": 369320,
       "word": "合肥回应三只羊315糟头肉未受处罚",
       "onboard_time": 1725528440,
       "rank": 32,
@@ -505,6 +521,14 @@
       "onboard_time": 1725496400,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 477580,
+      "num": 477580,
+      "word": "国足版权",
+      "onboard_time": 1725526459,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 466280,
@@ -619,6 +643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 374032,
+      "num": 668223,
+      "word": "陈好 就事论事",
+      "onboard_time": 1725533301,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 360920,
       "num": 360920,
       "word": "广州最高气温将断崖式下降",
@@ -644,7 +676,7 @@
     },
     {
       "raw_hot": 347532,
-      "num": 347532,
+      "num": 491311,
       "word": "断崖式离婚都有迹可循",
       "onboard_time": 1725525140,
       "rank": 46,
@@ -715,12 +747,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 326744,
+      "num": 499151,
+      "word": "心动的信号 女一",
+      "onboard_time": 1725529759,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 325354,
       "num": 325354,
       "word": "余宇涵不对劲文学",
       "onboard_time": 1725463159,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 322574,
+      "num": 322574,
+      "word": "专家称不是银行工资高是老百姓收入低",
+      "onboard_time": 1725533659,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 318411,
@@ -755,6 +803,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 306624,
+      "num": 306624,
+      "word": "王楚钦WTT澳门冠军赛赛前采访",
+      "onboard_time": 1725533781,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 306529,
       "num": 306529,
       "word": "体内的卢昱晓压不住了",
@@ -777,14 +833,6 @@
       "onboard_time": 1725508700,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 296679,
-      "num": 340119,
-      "word": "心动的信号 女一",
-      "onboard_time": 1725529759,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 296194,
@@ -835,11 +883,27 @@
       "category": "体育,剧集"
     },
     {
+      "raw_hot": 279992,
+      "num": 279992,
+      "word": "植物医生直播",
+      "onboard_time": 1725534081,
+      "rank": 27,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 275263,
       "num": 275263,
       "word": "月薪1w8你愿意做住家保姆吗",
       "onboard_time": 1725521002,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273924,
+      "num": 273924,
+      "word": "重庆各区县正在研判开学工作事宜",
+      "onboard_time": 1725534258,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -857,6 +921,14 @@
       "onboard_time": 1725511642,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 268454,
+      "num": 492899,
+      "word": "刘亦菲 上海",
+      "onboard_time": 1725531979,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 266609,
@@ -897,14 +969,6 @@
       "onboard_time": 1725502218,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248557,
-      "num": 248557,
-      "word": "国足版权",
-      "onboard_time": 1725526459,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 246456,
@@ -953,14 +1017,6 @@
       "onboard_time": 1725498618,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 233246,
-      "num": 381404,
-      "word": "中方决定给予最不发达国家零关税待遇",
-      "onboard_time": 1725531500,
-      "rank": 46,
-      "category": "国内时政"
     },
     {
       "raw_hot": 232493,
@@ -1155,6 +1211,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196778,
+      "num": 196778,
+      "word": "远藤航进球",
+      "onboard_time": 1725534620,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 196669,
+      "num": 196669,
+      "word": "国足落后",
+      "onboard_time": 1725534680,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196081,
       "num": 265557,
       "word": "宋茜出道十五周年写真",
@@ -1331,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185951,
+      "num": 185951,
+      "word": "网红李维刚称承包鱼塘遭村民哄抢",
+      "onboard_time": 1725531379,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185177,
       "num": 185177,
       "word": "喜马拉雅崩了",
@@ -1499,14 +1579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174690,
-      "num": 174690,
-      "word": "网红李维刚称承包鱼塘遭村民哄抢",
-      "onboard_time": 1725531379,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174416,
       "num": 174416,
       "word": "潘展乐给大家画猪",
@@ -1553,14 +1625,6 @@
       "onboard_time": 1725518479,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165760,
-      "num": 298253,
-      "word": "刘亦菲 上海",
-      "onboard_time": 1725531979,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 163097,
@@ -1673,6 +1737,14 @@
       "onboard_time": 1725448459,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154910,
+      "num": 154910,
+      "word": "央视争取尽快获得国足参赛场次版权",
+      "onboard_time": 1725534980,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 154667,
@@ -1795,6 +1867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146795,
+      "num": 146795,
+      "word": "爱奇艺客服回应收费直播国足比赛",
+      "onboard_time": 1725533659,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146544,
       "num": 146544,
       "word": "赵丽颖熄烟这一回眸",
@@ -1809,6 +1889,14 @@
       "onboard_time": 1725462741,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 145231,
+      "num": 145231,
+      "word": "教育局回应高中生15元配餐吃不饱",
+      "onboard_time": 1725533960,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144565,
@@ -1947,6 +2035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 133779,
+      "num": 133779,
+      "word": "梁俨苧3比0徐瑛彬",
+      "onboard_time": 1725534980,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133762,
       "num": 133762,
       "word": "鱼 快来鱼啊我钓着人了",
@@ -1968,6 +2064,14 @@
       "word": "55岁阿姨3个月减肥40斤重启人生",
       "onboard_time": 1725455061,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131815,
+      "num": 131815,
+      "word": "强台风为什么多出现在秋天",
+      "onboard_time": 1725530479,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2043,12 +2147,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116943,
+      "num": 116943,
+      "word": "陈好 一生要强的山东女人",
+      "onboard_time": 1725535101,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116919,
       "num": 116919,
       "word": "八一飞行表演队上演空中大片",
       "onboard_time": 1725502638,
       "rank": 47,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 116794,
+      "num": 161936,
+      "word": "南派三叔讲述吴邪的十年",
+      "onboard_time": 1725534920,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 114515,
@@ -2155,14 +2275,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 98737,
-      "num": 115636,
-      "word": "强台风为什么多出现在秋天",
-      "onboard_time": 1725530479,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98659,
       "num": 98659,
       "word": "三只羊卢文庆回应争议",
@@ -2212,7 +2324,7 @@
     },
     {
       "raw_hot": 92710,
-      "num": 264396,
+      "num": 505349,
       "word": "竟然在拼多多刷到老家隐藏款美食",
       "onboard_time": 1725526098,
       "rank": 15,
@@ -2379,6 +2491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55649,
+      "num": 486345,
+      "word": "男子教孙女游泳收到游泳馆逐客令",
+      "onboard_time": 1725534321,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50311,
       "num": 250725,
       "word": "何浩楠何小帅的土爽面吃播vlog",
@@ -2489,6 +2609,14 @@
       "onboard_time": 1725513440,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39117,
+      "num": 1377624,
+      "word": "中国市场与非洲咖啡产业双向奔赴",
+      "onboard_time": 1725523819,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 39044,
@@ -2691,6 +2819,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21705,
+      "num": 529692,
+      "word": "海南防台风提醒尽量不出门",
+      "onboard_time": 1725534380,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21541,
+      "num": 513167,
+      "word": "极简风月饼两元一块畅销社区",
+      "onboard_time": 1725534680,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21123,
       "num": 22256,
       "word": "边水往事",
@@ -2721,14 +2865,6 @@
       "onboard_time": 1725449300,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 16943,
-      "num": 658403,
-      "word": "中国市场与非洲咖啡产业双向奔赴",
-      "onboard_time": 1725523819,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 16681,
