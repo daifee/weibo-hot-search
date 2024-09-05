@@ -1,7 +1,23 @@
 {
   "startTime": 1725467191451,
-  "endTime": 1725540035743,
+  "endTime": 1725540992231,
   "band_list": [
+    {
+      "raw_hot": 9013728,
+      "num": 9013728,
+      "word": "国足vs日本",
+      "onboard_time": 1725454461,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 4303770,
+      "num": 4303770,
+      "word": "国足0比7日本",
+      "onboard_time": 1725540444,
+      "rank": 1,
+      "category": "体育"
+    },
     {
       "raw_hot": 3590283,
       "num": 3590283,
@@ -11,16 +27,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 3448677,
-      "num": 3448677,
-      "word": "国足vs日本",
-      "onboard_time": 1725454461,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 3410510,
-      "num": 1799192,
+      "num": 2184065,
       "word": "爱奇艺 花钱看不了",
       "onboard_time": 1725533659,
       "rank": 10,
@@ -67,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1528598,
+      "num": 1520742,
+      "word": "央视体育发声明",
+      "onboard_time": 1725531680,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1526088,
       "num": 1336397,
       "word": "印度女子在救护车上被强奸",
@@ -75,12 +91,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1520742,
-      "num": 1520742,
-      "word": "央视体育发声明",
-      "onboard_time": 1725531680,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 1473807,
+      "num": 452749,
+      "word": "在朋友圈骂了一年老板发现忘记屏蔽",
+      "onboard_time": 1725538820,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 1374615,
@@ -169,14 +185,6 @@
       "onboard_time": 1725508700,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1037995,
-      "num": 452749,
-      "word": "在朋友圈骂了一年老板发现忘记屏蔽",
-      "onboard_time": 1725538820,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 1037599,
@@ -315,12 +323,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 861378,
+      "num": 861378,
+      "word": "张婧仪高定",
+      "onboard_time": 1725537560,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 827678,
       "num": 342243,
       "word": "谁该为骑行男孩之死负责",
       "onboard_time": 1725498200,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 818842,
+      "num": 247152,
+      "word": "范志毅怒斥国足",
+      "onboard_time": 1725539902,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 811853,
@@ -425,14 +449,6 @@
       "onboard_time": 1725517039,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 639631,
-      "num": 801182,
-      "word": "张婧仪高定",
-      "onboard_time": 1725537560,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 638661,
@@ -931,6 +947,14 @@
       "category": "体育,剧集"
     },
     {
+      "raw_hot": 281810,
+      "num": 230619,
+      "word": "国足首战日本能否出奇迹",
+      "onboard_time": 1725538940,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 279992,
       "num": 279992,
       "word": "植物医生直播",
@@ -1027,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244462,
+      "num": 238203,
+      "word": "国足落后",
+      "onboard_time": 1725534680,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 241573,
       "num": 241573,
       "word": "黄景瑜开门用肩膀关门用脚",
@@ -1083,6 +1115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 229903,
+      "num": 229903,
+      "word": "国足连续6场比赛失球",
+      "onboard_time": 1725539966,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227908,
       "num": 234278,
       "word": "赵丽颖新片戴耳骨夹",
@@ -1105,14 +1145,6 @@
       "onboard_time": 1725499880,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 224933,
-      "num": 224933,
-      "word": "国足落后",
-      "onboard_time": 1725534680,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 221885,
@@ -1147,6 +1179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 215375,
+      "num": 215375,
+      "word": "山姆盒装牛奶外附着黑色虫卵",
+      "onboard_time": 1725537981,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214696,
       "num": 275325,
       "word": "周子瑜solo出道新闻图",
@@ -1169,6 +1209,14 @@
       "onboard_time": 1725458782,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210608,
+      "num": 234792,
+      "word": "刘亦菲牛仔裤配高跟鞋",
+      "onboard_time": 1725537500,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 209425,
@@ -1267,12 +1315,28 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 201507,
+      "num": 201507,
+      "word": "七喜",
+      "onboard_time": 1725540683,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200696,
       "num": 200696,
       "word": "凤凰传奇太原抢票",
       "onboard_time": 1725510022,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 199984,
+      "num": 199984,
+      "word": "澳大利亚0比1巴林",
+      "onboard_time": 1725539602,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 198174,
@@ -1297,6 +1361,14 @@
       "onboard_time": 1725506958,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 195378,
+      "num": 195378,
+      "word": "汪苏泷 女友",
+      "onboard_time": 1725540502,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 195225,
@@ -1547,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180794,
+      "num": 180794,
+      "word": "谷爱凌从天才少女到双面人谷圣",
+      "onboard_time": 1725536720,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180513,
       "num": 306322,
       "word": "田曦薇裙子是由汉字P出来的",
@@ -1593,14 +1673,6 @@
       "onboard_time": 1725531439,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178285,
-      "num": 232685,
-      "word": "刘亦菲牛仔裤配高跟鞋",
-      "onboard_time": 1725537500,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 178187,
@@ -1667,6 +1739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174682,
+      "num": 174682,
+      "word": "国足耻辱的一夜",
+      "onboard_time": 1725540864,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174416,
       "num": 174416,
       "word": "潘展乐给大家画猪",
@@ -1688,14 +1768,6 @@
       "word": "爱奇艺客服回应收费直播国足比赛",
       "onboard_time": 1725533659,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 172266,
-      "num": 172266,
-      "word": "谷爱凌从天才少女到双面人谷圣",
-      "onboard_time": 1725536720,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -1745,6 +1817,14 @@
       "onboard_time": 1725518479,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164449,
+      "num": 164449,
+      "word": "南野拓实破门",
+      "onboard_time": 1725540623,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 163097,
@@ -1875,6 +1955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 155429,
+      "num": 233237,
+      "word": "但拓还没死郭麒麟就哭抽了",
+      "onboard_time": 1725540444,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155147,
       "num": 155147,
       "word": "曾志伟回应与三只羊公司争议",
@@ -1937,6 +2025,14 @@
       "onboard_time": 1725502518,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 153529,
+      "num": 153529,
+      "word": "爱奇艺崩了",
+      "onboard_time": 1725538640,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 153106,
@@ -2043,14 +2139,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 144972,
-      "num": 144972,
-      "word": "范志毅怒斥国足",
-      "onboard_time": 1725539902,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 144565,
       "num": 137581,
       "word": "辛巴再度质疑卢文庆",
@@ -2099,22 +2187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142069,
-      "num": 142069,
-      "word": "澳大利亚0比1巴林",
-      "onboard_time": 1725539602,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 142052,
-      "num": 142052,
-      "word": "爱奇艺崩了",
-      "onboard_time": 1725538640,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 139820,
       "num": 139820,
       "word": "六大行个人房贷缩水超3000亿",
@@ -2145,14 +2217,6 @@
       "onboard_time": 1725520939,
       "rank": 46,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 138470,
-      "num": 138470,
-      "word": "国足首战日本能否出奇迹",
-      "onboard_time": 1725538940,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 136777,
@@ -2196,7 +2260,7 @@
     },
     {
       "raw_hot": 134857,
-      "num": 134857,
+      "num": 250250,
       "word": "乐平古戏台三绝",
       "onboard_time": 1725537679,
       "rank": 47,
@@ -2291,14 +2355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126337,
-      "num": 126337,
-      "word": "国足连续6场比赛失球",
-      "onboard_time": 1725539966,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 125287,
       "num": 125287,
       "word": "辛巴宣布今年不再卖大闸蟹",
@@ -2361,14 +2417,6 @@
       "onboard_time": 1725489254,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114499,
-      "num": 150038,
-      "word": "山姆盒装牛奶外附着黑色虫卵",
-      "onboard_time": 1725537981,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113687,
@@ -2699,6 +2747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51186,
+      "num": 244237,
+      "word": "官方回应烈士陵园墓前多人跳广场舞",
+      "onboard_time": 1725540683,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50311,
       "num": 250725,
       "word": "何浩楠何小帅的土爽面吃播vlog",
@@ -2939,6 +2995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30174,
+      "num": 240079,
+      "word": "强烈不建议个人投资者短线炒作黄金",
+      "onboard_time": 1725540745,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29880,
       "num": 448705,
       "word": "中国制造在加纳受欢迎程度",
@@ -2961,6 +3025,14 @@
       "onboard_time": 1725519621,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25910,
+      "num": 711617,
+      "word": "Anyma电音之神来上海了",
+      "onboard_time": 1725537199,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 25779,
@@ -3019,14 +3091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21943,
-      "num": 711617,
-      "word": "Anyma电音之神来上海了",
-      "onboard_time": 1725537199,
-      "rank": 11,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 21123,
       "num": 22256,
       "word": "边水往事",
@@ -3051,12 +3115,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20249,
+      "num": 764655,
+      "word": "文化中国行看世界灌溉工程遗产",
+      "onboard_time": 1725539780,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18883,
+      "num": 2572088,
+      "word": "中非经贸双向奔赴跑出加速度",
+      "onboard_time": 1725540324,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 17409,
       "num": 19214,
       "word": "脱口秀和Ta的朋友们",
       "onboard_time": 1725449300,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 16918,
+      "num": 773998,
+      "word": "青春红岩",
+      "onboard_time": 1725539902,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16681,
@@ -3089,22 +3177,6 @@
       "onboard_time": 1725522259,
       "rank": 23,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 9466,
-      "num": 764655,
-      "word": "文化中国行看世界灌溉工程遗产",
-      "onboard_time": 1725539780,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8231,
-      "num": 773998,
-      "word": "青春红岩",
-      "onboard_time": 1725539902,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8137,
@@ -3141,6 +3213,9 @@
     },
     {
       "word": "#中非携手推进现代化十大伙伴行动#"
+    },
+    {
+      "word": "#习近平为新时代中非合作指明方向#"
     }
   ]
 }

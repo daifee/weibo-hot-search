@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725540035743,
+  "endTime": 1725540992231,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -27,10 +27,26 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 9013728,
+      "num": 9013728,
+      "word": "国足vs日本",
+      "onboard_time": 1725454461,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 5839152,
       "num": 5839152,
       "word": "郑钦文进美网8强",
       "onboard_time": 1725258021,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 4303770,
+      "num": 4303770,
+      "word": "国足0比7日本",
+      "onboard_time": 1725540444,
       "rank": 1,
       "category": "体育"
     },
@@ -67,16 +83,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 3448677,
-      "num": 3448677,
-      "word": "国足vs日本",
-      "onboard_time": 1725454461,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 3410510,
-      "num": 1799192,
+      "num": 2184065,
       "word": "爱奇艺 花钱看不了",
       "onboard_time": 1725533659,
       "rank": 10,
@@ -531,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1528598,
+      "num": 1520742,
+      "word": "央视体育发声明",
+      "onboard_time": 1725531680,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1526088,
       "num": 1336397,
       "word": "印度女子在救护车上被强奸",
@@ -545,14 +561,6 @@
       "onboard_time": 1725284782,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1520742,
-      "num": 1520742,
-      "word": "央视体育发声明",
-      "onboard_time": 1725531680,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 1510516,
@@ -609,6 +617,14 @@
       "onboard_time": 1725286342,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1473807,
+      "num": 452749,
+      "word": "在朋友圈骂了一年老板发现忘记屏蔽",
+      "onboard_time": 1725538820,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 1470431,
@@ -1115,14 +1131,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1037995,
-      "num": 452749,
-      "word": "在朋友圈骂了一年老板发现忘记屏蔽",
-      "onboard_time": 1725538820,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1037599,
       "num": 1166015,
       "word": "郑钦文退出瓜达拉哈拉赛",
@@ -1587,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 861378,
+      "num": 861378,
+      "word": "张婧仪高定",
+      "onboard_time": 1725537560,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 860837,
       "num": 1129047,
       "word": "陈奕迅被告者名单",
@@ -1720,6 +1736,14 @@
       "word": "樊振东清唱野孩子",
       "onboard_time": 1725197301,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 818842,
+      "num": 247152,
+      "word": "范志毅怒斥国足",
+      "onboard_time": 1725539902,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -2401,14 +2425,6 @@
       "onboard_time": 1725517039,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 639631,
-      "num": 801182,
-      "word": "张婧仪高定",
-      "onboard_time": 1725537560,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 637743,
@@ -5147,6 +5163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 281810,
+      "num": 230619,
+      "word": "国足首战日本能否出奇迹",
+      "onboard_time": 1725538940,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280963,
       "num": 280963,
       "word": "易烊千玺的面部折叠度",
@@ -5811,6 +5835,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 244462,
+      "num": 238203,
+      "word": "国足落后",
+      "onboard_time": 1725534680,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242955,
       "num": 268070,
       "word": "权志龙舞台",
@@ -6235,6 +6267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229903,
+      "num": 229903,
+      "word": "国足连续6场比赛失球",
+      "onboard_time": 1725539966,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229282,
       "num": 229282,
       "word": "被奶奶辈的修眉方式震惊到了",
@@ -6305,14 +6345,6 @@
       "onboard_time": 1725192257,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 224933,
-      "num": 224933,
-      "word": "国足落后",
-      "onboard_time": 1725534680,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 224663,
@@ -6555,6 +6587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 215375,
+      "num": 215375,
+      "word": "山姆盒装牛奶外附着黑色虫卵",
+      "onboard_time": 1725537981,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215210,
       "num": 215210,
       "word": "藏海花断更",
@@ -6713,6 +6753,14 @@
       "onboard_time": 1725264200,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210608,
+      "num": 234792,
+      "word": "刘亦菲牛仔裤配高跟鞋",
+      "onboard_time": 1725537500,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 210183,
@@ -7155,6 +7203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201507,
+      "num": 201507,
+      "word": "七喜",
+      "onboard_time": 1725540683,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201382,
       "num": 201382,
       "word": "江苏师大辟谣打人事件女生获保研资格",
@@ -7233,6 +7289,14 @@
       "onboard_time": 1725442041,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199984,
+      "num": 199984,
+      "word": "澳大利亚0比1巴林",
+      "onboard_time": 1725539602,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 199818,
@@ -7497,6 +7561,14 @@
       "onboard_time": 1725154158,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195378,
+      "num": 195378,
+      "word": "汪苏泷 女友",
+      "onboard_time": 1725540502,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 195278,
@@ -8467,6 +8539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180794,
+      "num": 180794,
+      "word": "谷爱凌从天才少女到双面人谷圣",
+      "onboard_time": 1725536720,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180683,
       "num": 340015,
       "word": "沈月武艺往那一站就是俩手办",
@@ -8689,14 +8769,6 @@
       "onboard_time": 1725287663,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 178285,
-      "num": 232685,
-      "word": "刘亦菲牛仔裤配高跟鞋",
-      "onboard_time": 1725537500,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 178187,
@@ -8971,6 +9043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174682,
+      "num": 174682,
+      "word": "国足耻辱的一夜",
+      "onboard_time": 1725540864,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174576,
       "num": 174576,
       "word": "清水英男自述731罪行",
@@ -9129,14 +9209,6 @@
       "onboard_time": 1725432981,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172266,
-      "num": 172266,
-      "word": "谷爱凌从天才少女到双面人谷圣",
-      "onboard_time": 1725536720,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 171820,
@@ -9584,6 +9656,14 @@
       "word": "破纪录后潘展乐列出自己的劣势",
       "onboard_time": 1725200241,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 164449,
+      "num": 164449,
+      "word": "南野拓实破门",
+      "onboard_time": 1725540623,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -10251,6 +10331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155429,
+      "num": 233237,
+      "word": "但拓还没死郭麒麟就哭抽了",
+      "onboard_time": 1725540444,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155206,
       "num": 215071,
       "word": "镖人",
@@ -10417,6 +10505,14 @@
       "onboard_time": 1725502518,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 153529,
+      "num": 153529,
+      "word": "爱奇艺崩了",
+      "onboard_time": 1725538640,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 153106,
@@ -10875,14 +10971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144972,
-      "num": 144972,
-      "word": "范志毅怒斥国足",
-      "onboard_time": 1725539902,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 144876,
       "num": 144876,
       "word": "这喷不了确实是全开麦",
@@ -11001,22 +11089,6 @@
       "onboard_time": 1725532700,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 142069,
-      "num": 142069,
-      "word": "澳大利亚0比1巴林",
-      "onboard_time": 1725539602,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 142052,
-      "num": 142052,
-      "word": "爱奇艺崩了",
-      "onboard_time": 1725538640,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 141812,
@@ -11179,14 +11251,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 138470,
-      "num": 138470,
-      "word": "国足首战日本能否出奇迹",
-      "onboard_time": 1725538940,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 138380,
       "num": 371788,
       "word": "硫超标枸杞加工黑幕曝光",
@@ -11324,7 +11388,7 @@
     },
     {
       "raw_hot": 134857,
-      "num": 134857,
+      "num": 250250,
       "word": "乐平古戏台三绝",
       "onboard_time": 1725537679,
       "rank": 47,
@@ -11577,14 +11641,6 @@
       "onboard_time": 1725183138,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126337,
-      "num": 126337,
-      "word": "国足连续6场比赛失球",
-      "onboard_time": 1725539966,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 126205,
@@ -11953,14 +12009,6 @@
       "onboard_time": 1725489254,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114499,
-      "num": 150038,
-      "word": "山姆盒装牛奶外附着黑色虫卵",
-      "onboard_time": 1725537981,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114030,
@@ -13283,6 +13331,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 51186,
+      "num": 244237,
+      "word": "官方回应烈士陵园墓前多人跳广场舞",
+      "onboard_time": 1725540683,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51147,
       "num": 51147,
       "word": "早晚揉腹有哪些好处",
@@ -14283,6 +14339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30174,
+      "num": 240079,
+      "word": "强烈不建议个人投资者短线炒作黄金",
+      "onboard_time": 1725540745,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30028,
       "num": 170828,
       "word": "在烟台吃到了人生第一碗海鲜面",
@@ -14457,6 +14521,14 @@
       "onboard_time": 1725423802,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25910,
+      "num": 711617,
+      "word": "Anyma电音之神来上海了",
+      "onboard_time": 1725537199,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 25893,
@@ -14667,14 +14739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21943,
-      "num": 711617,
-      "word": "Anyma电音之神来上海了",
-      "onboard_time": 1725537199,
-      "rank": 11,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 21905,
       "num": 34982,
       "word": "又到退伍季",
@@ -14739,6 +14803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20249,
+      "num": 764655,
+      "word": "文化中国行看世界灌溉工程遗产",
+      "onboard_time": 1725539780,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19919,
       "num": 29658,
       "word": "古代的保险柜外面还要裹黄金",
@@ -14777,6 +14849,14 @@
       "onboard_time": 1725210255,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18883,
+      "num": 2572088,
+      "word": "中非经贸双向奔赴跑出加速度",
+      "onboard_time": 1725540324,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18756,
@@ -14840,6 +14920,14 @@
       "word": "当地回应央视曝光硫超标枸杞事件",
       "onboard_time": 1725255082,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16918,
+      "num": 773998,
+      "word": "青春红岩",
+      "onboard_time": 1725539902,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -14987,22 +15075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9466,
-      "num": 764655,
-      "word": "文化中国行看世界灌溉工程遗产",
-      "onboard_time": 1725539780,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8231,
-      "num": 773998,
-      "word": "青春红岩",
-      "onboard_time": 1725539902,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 8137,
       "num": 532388,
       "word": "致敬残奥赛场每一个不屈的灵魂",
@@ -15123,6 +15195,9 @@
     },
     {
       "word": "#中非携手推进现代化十大伙伴行动#"
+    },
+    {
+      "word": "#习近平为新时代中非合作指明方向#"
     }
   ]
 }

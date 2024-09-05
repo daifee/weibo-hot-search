@@ -1,0 +1,410 @@
+{
+  "runTime": 1725540992231,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9013728,
+        "num": 9013728,
+        "word": "国足vs日本",
+        "onboard_time": 1725532459,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4303770,
+        "num": 4303770,
+        "word": "国足0比7日本",
+        "onboard_time": 1725540444,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18883,
+        "num": 2572088,
+        "word": "中非经贸双向奔赴跑出加速度",
+        "onboard_time": 1725540324,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2184065,
+        "num": 2184065,
+        "word": "爱奇艺 花钱看不了",
+        "onboard_time": 1725533659,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 861378,
+        "num": 861378,
+        "word": "张婧仪高定",
+        "onboard_time": 1725537560,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 736341,
+        "num": 736341,
+        "word": "男子教孙女游泳收到游泳馆逐客令",
+        "onboard_time": 1725534321,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437269,
+        "num": 437269,
+        "word": "刘美含收到男友应聘私信",
+        "onboard_time": 1725524659,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 313679,
+        "num": 313679,
+        "word": "王楚钦WTT澳门冠军赛赛前采访",
+        "onboard_time": 1725533781,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251569,
+        "num": 251569,
+        "word": "我感觉我的支付宝不对劲",
+        "onboard_time": 1725525140,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79210,
+        "num": 250250,
+        "word": "乐平古戏台三绝",
+        "onboard_time": 1725537679,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 820207,
+        "num": 249637,
+        "word": "黄轩什么时候结婚了",
+        "onboard_time": 1725524000,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25910,
+        "num": 248614,
+        "word": "Anyma电音之神来上海了",
+        "onboard_time": 1725537199,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 818842,
+        "num": 247152,
+        "word": "范志毅怒斥国足",
+        "onboard_time": 1725539902,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 723353,
+        "num": 244954,
+        "word": "深圳停课",
+        "onboard_time": 1725536599,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51186,
+        "num": 244237,
+        "word": "官方回应烈士陵园墓前多人跳广场舞",
+        "onboard_time": 1725540683,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536431,
+        "num": 242338,
+        "word": "宁艺卓emoji",
+        "onboard_time": 1725536180,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453982,
+        "num": 241663,
+        "word": "女子称在山姆买的鲜肉月饼中吃出牙齿",
+        "onboard_time": 1725527659,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240423,
+        "num": 240423,
+        "word": "李泽锋和冷暴力的站姐和好了",
+        "onboard_time": 1725528019,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204612,
+        "num": 240142,
+        "word": "陈好 就事论事",
+        "onboard_time": 1725533301,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30174,
+        "num": 240079,
+        "word": "强烈不建议个人投资者短线炒作黄金",
+        "onboard_time": 1725540745,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240038,
+        "num": 240038,
+        "word": "中方决定给予最不发达国家零关税待遇",
+        "onboard_time": 1725531500,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1473807,
+        "num": 239750,
+        "word": "在朋友圈骂了一年老板发现忘记屏蔽",
+        "onboard_time": 1725538820,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1528598,
+        "num": 239549,
+        "word": "央视体育发声明",
+        "onboard_time": 1725531680,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 574015,
+        "num": 239088,
+        "word": "印度女子在救护车上被强奸",
+        "onboard_time": 1725528741,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538201,
+        "num": 238495,
+        "word": "男子因女生内裤掉头上气到报警",
+        "onboard_time": 1725515961,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244462,
+        "num": 238203,
+        "word": "国足落后",
+        "onboard_time": 1725534680,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237823,
+        "num": 237823,
+        "word": "台风",
+        "onboard_time": 1725448699,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210608,
+        "num": 234792,
+        "word": "刘亦菲牛仔裤配高跟鞋",
+        "onboard_time": 1725537500,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176456,
+        "num": 233744,
+        "word": "断崖式离婚都有迹可循",
+        "onboard_time": 1725525140,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155429,
+        "num": 233237,
+        "word": "但拓还没死郭麒麟就哭抽了",
+        "onboard_time": 1725540444,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232886,
+        "num": 232886,
+        "word": "三只羊主播怼辛巴称其满嘴脏话",
+        "onboard_time": 1725525799,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 16918,
+        "num": 231283,
+        "word": "青春红岩",
+        "onboard_time": 1725539902,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281810,
+        "num": 230619,
+        "word": "国足首战日本能否出奇迹",
+        "onboard_time": 1725538940,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229903,
+        "num": 229903,
+        "word": "国足连续6场比赛失球",
+        "onboard_time": 1725539966,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215375,
+        "num": 215375,
+        "word": "山姆盒装牛奶外附着黑色虫卵",
+        "onboard_time": 1725537981,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208616,
+        "num": 208616,
+        "word": "当月薪3千和月薪5万交换午饭",
+        "onboard_time": 1725537981,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20249,
+        "num": 202563,
+        "word": "文化中国行看世界灌溉工程遗产",
+        "onboard_time": 1725539780,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201507,
+        "num": 201507,
+        "word": "七喜",
+        "onboard_time": 1725540683,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199984,
+        "num": 199984,
+        "word": "澳大利亚0比1巴林",
+        "onboard_time": 1725539602,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195378,
+        "num": 195378,
+        "word": "汪苏泷 女友",
+        "onboard_time": 1725540502,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180794,
+        "num": 180794,
+        "word": "谷爱凌从天才少女到双面人谷圣",
+        "onboard_time": 1725536720,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175096,
+        "num": 175096,
+        "word": "花钱看输球",
+        "onboard_time": 1725538820,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174682,
+        "num": 174682,
+        "word": "国足耻辱的一夜",
+        "onboard_time": 1725540864,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168378,
+        "num": 168378,
+        "word": "边牧误吃葡萄不停喝水吃草解毒",
+        "onboard_time": 1725520160,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165712,
+        "num": 165712,
+        "word": "重庆各区县正在研判开学工作事宜",
+        "onboard_time": 1725534258,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164449,
+        "num": 164449,
+        "word": "南野拓实破门",
+        "onboard_time": 1725540623,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162608,
+        "num": 162608,
+        "word": "爱奇艺收费直播国足比赛",
+        "onboard_time": 1725523339,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156748,
+        "num": 156748,
+        "word": "教育局回应高中生15元配餐吃不饱",
+        "onboard_time": 1725533960,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153529,
+        "num": 153529,
+        "word": "爱奇艺崩了",
+        "onboard_time": 1725538640,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151556,
+        "num": 151556,
+        "word": "心动的信号 女一",
+        "onboard_time": 1725529759,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平为新时代中非合作指明方向#"
+    }
+  }
+}
