@@ -1,6 +1,6 @@
 {
   "startTime": 1725467191451,
-  "endTime": 1725501183322,
+  "endTime": 1725504325345,
   "band_list": [
     {
       "raw_hot": 2257721,
@@ -33,6 +33,14 @@
       "onboard_time": 1725492196,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 993149,
+      "num": 1158903,
+      "word": "时尚芭莎孙颖莎红衣登场预告",
+      "onboard_time": 1725502159,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 968438,
@@ -75,6 +83,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 830295,
+      "num": 830295,
+      "word": "半熟男女恋爱塌房版预告",
+      "onboard_time": 1725502518,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 827678,
+      "num": 342243,
+      "word": "谁该为骑行男孩之死负责",
+      "onboard_time": 1725498200,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 659653,
       "num": 659653,
       "word": "妈妈放弃事业陪孩子跨省学网球",
@@ -89,6 +113,14 @@
       "onboard_time": 1725448699,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 616350,
+      "num": 616350,
+      "word": "成都车展奇瑞车模大尺度动作引争议",
+      "onboard_time": 1725501678,
+      "rank": 5,
+      "category": "汽车"
     },
     {
       "raw_hot": 596197,
@@ -112,6 +144,14 @@
       "word": "小杨哥一个月掉粉超70万",
       "onboard_time": 1725445099,
       "rank": 10,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 540410,
+      "num": 252473,
+      "word": "三只羊七老板辟谣",
+      "onboard_time": 1725501498,
+      "rank": 24,
       "category": "网红"
     },
     {
@@ -177,6 +217,14 @@
       "onboard_time": 1725448879,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 359200,
+      "num": 359200,
+      "word": "爱犬在小区被毒死投毒邻居被行拘12天",
+      "onboard_time": 1725501559,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 353692,
@@ -259,6 +307,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302605,
+      "num": 302605,
+      "word": "张杰手机壁纸是自己的照片",
+      "onboard_time": 1725502759,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 297562,
+      "num": 297562,
+      "word": "电影乔妍的心事官宣定档",
+      "onboard_time": 1725503297,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 296194,
       "num": 296194,
       "word": "防城港5死1伤案发地村民发声",
@@ -272,6 +336,14 @@
       "word": "2女子为拍照撕掉店家门口海报",
       "onboard_time": 1725467477,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249404,
+      "num": 249404,
+      "word": "防城港警方通报致5死嫌犯尸体已找到",
+      "onboard_time": 1725502218,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -291,12 +363,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 220927,
-      "num": 220927,
+      "raw_hot": 235797,
+      "num": 262121,
       "word": "周星驰电影的最后一帧",
       "onboard_time": 1725498618,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 230726,
+      "num": 230726,
+      "word": "郑钦文退出瓜达拉哈拉赛",
+      "onboard_time": 1725503058,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 213122,
@@ -331,12 +411,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192547,
-      "num": 192547,
+      "raw_hot": 204176,
+      "num": 204176,
+      "word": "穆祉丞数据组发算什么男人",
+      "onboard_time": 1725503178,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 203179,
+      "num": 203179,
       "word": "摩羯具备秋台风特征致灾风险高",
       "onboard_time": 1725495739,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193195,
+      "num": 203259,
+      "word": "刘诗诗纽约街拍",
+      "onboard_time": 1725503778,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 190410,
@@ -387,20 +483,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175268,
+      "num": 175268,
+      "word": "阳澄湖大闸蟹或将推迟上市",
+      "onboard_time": 1725496159,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174171,
       "num": 174171,
       "word": "刘雨昕新专辑概念疑似抄袭",
       "onboard_time": 1725466998,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 173226,
-      "num": 173226,
-      "word": "谁该为骑行男孩之死负责",
-      "onboard_time": 1725498200,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162959,
@@ -419,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160342,
+      "num": 160342,
+      "word": "东莞一警车压实线加塞",
+      "onboard_time": 1725501378,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159504,
       "num": 365614,
       "word": "四种台风预警信号分别意味着什么",
@@ -427,12 +531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156005,
-      "num": 156005,
-      "word": "阳澄湖大闸蟹或将推迟上市",
-      "onboard_time": 1725496159,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 157938,
+      "num": 157938,
+      "word": "网易云音乐 Black",
+      "onboard_time": 1725504139,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 155147,
@@ -441,6 +545,30 @@
       "onboard_time": 1725448459,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153559,
+      "num": 153559,
+      "word": "奇瑞客服回应车模大尺度动作",
+      "onboard_time": 1725502518,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 152469,
+      "num": 152469,
+      "word": "高校国旗护卫队女生太飒了",
+      "onboard_time": 1725501738,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147099,
+      "num": 147099,
+      "word": "台风摩羯路径不确定性多",
+      "onboard_time": 1725499880,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146375,
@@ -457,6 +585,14 @@
       "onboard_time": 1725473412,
       "rank": 39,
       "category": "网红,互联网"
+    },
+    {
+      "raw_hot": 143527,
+      "num": 143527,
+      "word": "陈小纭异域公主妆造",
+      "onboard_time": 1725502039,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 143074,
@@ -481,6 +617,14 @@
       "onboard_time": 1725455842,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138923,
+      "num": 138923,
+      "word": "半熟男女",
+      "onboard_time": 1725502518,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 136777,
@@ -539,6 +683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 130413,
+      "num": 130413,
+      "word": "中国同所有非洲建交国提升到战略关系",
+      "onboard_time": 1725504018,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 129255,
       "num": 156165,
       "word": "茅威涛劝粉丝不要绑架陈丽君李云霄",
@@ -571,12 +723,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 116148,
-      "num": 116148,
-      "word": "台风摩羯路径不确定性多",
-      "onboard_time": 1725499880,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 122138,
+      "num": 122138,
+      "word": "郑钦文大满贯12胜创新高",
+      "onboard_time": 1725502278,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 116919,
+      "num": 116919,
+      "word": "八一飞行表演队上演空中大片",
+      "onboard_time": 1725502638,
+      "rank": 47,
+      "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 116491,
+      "num": 116491,
+      "word": "喜人芭莎毕业大片",
+      "onboard_time": 1725504079,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 114515,
@@ -585,6 +753,14 @@
       "onboard_time": 1725489254,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113687,
+      "num": 113687,
+      "word": "五星级酒店大厨上门做饭6道菜89元",
+      "onboard_time": 1725501318,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 109354,
@@ -771,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79286,
+      "num": 320130,
+      "word": "华为三折叠外观",
+      "onboard_time": 1725501559,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 77379,
       "num": 77379,
       "word": "被檀健次眼神虐到了",
@@ -843,11 +1027,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28511,
+      "num": 345670,
+      "word": "为何说秋台风是狠角色",
+      "onboard_time": 1725503359,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24680,
       "num": 193858,
       "word": "陶俑闺蜜手牵手千年了",
       "onboard_time": 1725473832,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21637,
+      "num": 304742,
+      "word": "外国人爱翻译白居易是因为容易吗",
+      "onboard_time": 1725503420,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -865,6 +1065,14 @@
       "onboard_time": 1725469396,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17619,
+      "num": 261310,
+      "word": "衡阳鼓励开发商给新房买稳价险",
+      "onboard_time": 1725503540,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17409,
