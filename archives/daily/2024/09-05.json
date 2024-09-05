@@ -1,6 +1,6 @@
 {
   "startTime": 1725467191451,
-  "endTime": 1725549751179,
+  "endTime": 1725550618105,
   "band_list": [
     {
       "raw_hot": 11242388,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 1213013,
-      "num": 225170,
+      "num": 303687,
       "word": "辛巴晒1亿元转账单",
       "onboard_time": 1725546023,
       "rank": 23,
@@ -283,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 946822,
+      "num": 383775,
+      "word": "爱奇艺体育道歉",
+      "onboard_time": 1725548242,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 938096,
       "num": 836147,
       "word": "刘美含 反向催婚",
@@ -395,19 +403,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 811866,
+      "num": 1187894,
+      "word": "深圳将迎10级雷雨大风",
+      "onboard_time": 1725544704,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 811853,
       "num": 811853,
       "word": "男子教孙女游泳收到游泳馆逐客令",
       "onboard_time": 1725534321,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 799577,
-      "num": 1187894,
-      "word": "深圳将迎10级雷雨大风",
-      "onboard_time": 1725544704,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -435,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 772394,
+      "num": 371779,
+      "word": "全欧洲都知道国足0比7了",
+      "onboard_time": 1725546563,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 771973,
       "num": 289241,
       "word": "三只羊主播怼辛巴称其满嘴脏话",
@@ -459,6 +475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 682038,
+      "num": 292938,
+      "word": "三只羊 辛巴",
+      "onboard_time": 1725548722,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 677752,
       "num": 677752,
       "word": "女子2年被家暴16次案新进展",
@@ -481,6 +505,14 @@
       "onboard_time": 1725531500,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 664370,
+      "num": 664370,
+      "word": "台风摩羯爆发式增强1天连跳三级",
+      "onboard_time": 1725546563,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 659653,
@@ -539,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 628310,
+      "num": 628310,
+      "word": "孙颖莎杂志",
+      "onboard_time": 1725548785,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 616350,
       "num": 616350,
       "word": "成都车展奇瑞车模大尺度动作引争议",
@@ -563,28 +603,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 599038,
-      "num": 216600,
-      "word": "爱奇艺体育道歉",
-      "onboard_time": 1725548242,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 596197,
       "num": 418553,
       "word": "辛巴将安排1亿元赔付三只羊消费者",
       "onboard_time": 1725455483,
       "rank": 6,
       "category": "网红"
-    },
-    {
-      "raw_hot": 589028,
-      "num": 218651,
-      "word": "全欧洲都知道国足0比7了",
-      "onboard_time": 1725546563,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 585868,
@@ -651,14 +675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 542883,
-      "num": 542883,
-      "word": "台风摩羯爆发式增强1天连跳三级",
-      "onboard_time": 1725546563,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 534189,
       "num": 565927,
       "word": "台风摩羯预计明天登陆海南广东一带",
@@ -673,14 +689,6 @@
       "onboard_time": 1725461122,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 521624,
-      "num": 213663,
-      "word": "三只羊 辛巴",
-      "onboard_time": 1725548722,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 520069,
@@ -737,6 +745,14 @@
       "onboard_time": 1725511941,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 464886,
+      "num": 464886,
+      "word": "张元英高光",
+      "onboard_time": 1725549442,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 452868,
@@ -1067,14 +1083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 285584,
-      "num": 222620,
-      "word": "张元英高光",
-      "onboard_time": 1725549442,
-      "rank": 16,
-      "category": "演出"
-    },
-    {
       "raw_hot": 284875,
       "num": 284875,
       "word": "贾一凡为了再次港澳行要去洛杉矶",
@@ -1129,6 +1137,14 @@
       "onboard_time": 1725534258,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272428,
+      "num": 321088,
+      "word": "阿如那西装出场全场沸腾",
+      "onboard_time": 1725548841,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 270793,
@@ -1225,14 +1241,6 @@
       "onboard_time": 1725525558,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 245713,
-      "num": 245713,
-      "word": "孙颖莎杂志",
-      "onboard_time": 1725548785,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 244462,
@@ -1371,14 +1379,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 222252,
-      "num": 222252,
-      "word": "阿如那西装出场全场沸腾",
-      "onboard_time": 1725548841,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 221885,
       "num": 221885,
       "word": "陈梦姥姥手捧鲜花接机",
@@ -1433,6 +1433,22 @@
       "onboard_time": 1725537500,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 210476,
+      "num": 210476,
+      "word": "中国盲人足球残奥会第5",
+      "onboard_time": 1725547822,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 209848,
+      "num": 209848,
+      "word": "日本球迷说没想到中国真这么弱",
+      "onboard_time": 1725547763,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 209425,
@@ -1539,16 +1555,8 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 202360,
-      "num": 202360,
-      "word": "中国盲人足球残奥会第5",
-      "onboard_time": 1725547822,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 201264,
-      "num": 267061,
+      "num": 271508,
       "word": "待爆小生 僵局",
       "onboard_time": 1725542724,
       "rank": 48,
@@ -1657,14 +1665,6 @@
       "onboard_time": 1725509421,
       "rank": 44,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 192513,
-      "num": 192513,
-      "word": "日本球迷说没想到中国真这么弱",
-      "onboard_time": 1725547763,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 192306,
@@ -2051,6 +2051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170237,
+      "num": 308538,
+      "word": "中年男人的崩溃是已读不回",
+      "onboard_time": 1725547402,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169886,
       "num": 169886,
       "word": "AG挽风四连枪王",
@@ -2155,6 +2163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161540,
+      "num": 161540,
+      "word": "当小猫踩奶你忍不住笑出声",
+      "onboard_time": 1725548841,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160484,
       "num": 225820,
       "word": "钟辰乐个人工作室",
@@ -2193,14 +2209,6 @@
       "onboard_time": 1725449482,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 157118,
-      "num": 157118,
-      "word": "当小猫踩奶你忍不住笑出声",
-      "onboard_time": 1725548841,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 157103,
@@ -2307,6 +2315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153653,
+      "num": 153653,
+      "word": "幸好央视没转",
+      "onboard_time": 1725547163,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153604,
       "num": 153604,
       "word": "当AI会做3000道菜是什么体验",
@@ -2379,6 +2395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150080,
+      "num": 275974,
+      "word": "罗仪涵offer史上第一个高考状元",
+      "onboard_time": 1725550102,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149303,
       "num": 149303,
       "word": "黎深 情不知所起",
@@ -2443,14 +2467,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 145781,
-      "num": 145732,
-      "word": "幸好央视没转",
-      "onboard_time": 1725547163,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 145732,
       "num": 145732,
       "word": "安香怡卫冕",
@@ -2465,14 +2481,6 @@
       "onboard_time": 1725547222,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 145005,
-      "num": 221322,
-      "word": "中年男人的崩溃是已读不回",
-      "onboard_time": 1725547402,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 144565,
@@ -2787,6 +2795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116212,
+      "num": 210138,
+      "word": "密逃六人坐寝名画诞生了",
+      "onboard_time": 1725550462,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114515,
       "num": 114515,
       "word": "张雨霏 射击队私下都跟个逗比一样",
@@ -2811,6 +2827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110643,
+      "num": 110643,
+      "word": "男子兑换发现4年前的蟹卡已失效",
+      "onboard_time": 1725550342,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109354,
       "num": 145244,
       "word": "存量房贷利率不能简单一降了之",
@@ -2825,6 +2849,14 @@
       "onboard_time": 1725490936,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106354,
+      "num": 106354,
+      "word": "黄健翔解说",
+      "onboard_time": 1725550342,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 104244,
@@ -2993,6 +3025,14 @@
       "onboard_time": 1725452541,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86524,
+      "num": 393416,
+      "word": "云南一烈士陵园墓前多人跳广场舞",
+      "onboard_time": 1725549862,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86135,
@@ -3617,6 +3657,14 @@
       "onboard_time": 1725522259,
       "rank": 23,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 10077,
+      "num": 138090,
+      "word": "张凌赫和张婧仪说了什么",
+      "onboard_time": 1725550462,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 8137,
