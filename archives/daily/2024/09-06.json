@@ -1,6 +1,6 @@
 {
   "startTime": 1725553630734,
-  "endTime": 1725554561803,
+  "endTime": 1725556728016,
   "band_list": [
     {
       "raw_hot": 1282601,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 389134,
+      "num": 235744,
+      "word": "退钱哥",
+      "onboard_time": 1725542364,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 368963,
       "num": 368963,
       "word": "云南一烈士陵园墓前多人跳广场舞",
@@ -129,14 +137,6 @@
       "onboard_time": 1725540683,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 318291,
-      "num": 235744,
-      "word": "退钱哥",
-      "onboard_time": 1725542364,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 256027,
@@ -193,6 +193,14 @@
       "onboard_time": 1725532459,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175636,
+      "num": 216065,
+      "word": "广东海南暴雨具有一定极端性",
+      "onboard_time": 1725551959,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172982,
@@ -379,15 +387,15 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 76097,
-      "num": 216065,
-      "word": "广东海南暴雨具有一定极端性",
-      "onboard_time": 1725551959,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 74768,
+      "num": 108242,
+      "word": "张婧仪嘴唇贴亮片",
+      "onboard_time": 1725555736,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
-      "raw_hot": 62976,
+      "raw_hot": 68882,
       "num": 134967,
       "word": "当月薪3千和月薪5万交换午饭",
       "onboard_time": 1725537981,
@@ -395,12 +403,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 61005,
+      "raw_hot": 63728,
       "num": 134964,
       "word": "国足耻辱的一夜",
       "onboard_time": 1725540864,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62180,
+      "num": 80307,
+      "word": "美国14岁男孩在学校枪击致4死9伤",
+      "onboard_time": 1725554716,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46406,
+      "num": 80280,
+      "word": "三只羊主播怼辛巴称其满嘴脏话",
+      "onboard_time": 1725525799,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 39557,
@@ -417,11 +441,22 @@
       "onboard_time": 1725539180,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14410,
+      "num": 176099,
+      "word": "广东海南防汛防台风应急响应升至二级",
+      "onboard_time": 1725555555,
+      "rank": 9,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#中非携手推进现代化十大伙伴行动#"
+    },
+    {
+      "word": "#习近平为新时代中非合作指明方向#"
     }
   ]
 }
