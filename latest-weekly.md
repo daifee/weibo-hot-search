@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/06 04:36:15
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/06 05:19:57
 </p>
 </blockquote>
 <p>
@@ -10053,6 +10053,12 @@ eStar战胜TTG（热度：78139）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%AA%E8%AF%BB%E7%88%B8%E7%88%B8%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%9B%A0%E7%8E%B0%E5%AE%9E%E6%94%BE%E5%BC%83%E5%85%A5%E5%AD%A6%23" target="weibo">
+陪读爸爸考上大学因现实放弃入学（热度：67245）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%83%9F%E5%8F%B0%E7%9A%84%E9%B2%85%E9%B1%BC%E9%A5%BA%E5%AD%90%E4%B8%AA%E4%B8%AA%E9%83%BD%E6%98%AF%E9%9C%B8%E7%8E%8B%23" target="weibo">
 烟台的鲅鱼饺子个个都是霸王（热度：67061）
 </a>
@@ -10661,12 +10667,6 @@ SKII新品成分表第一位（热度：43996）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%B8%E5%90%83%E8%B6%85%E5%8A%A0%E5%B7%A5%E9%A3%9F%E5%93%81%E6%9B%B4%E6%98%93%E6%84%9F%E6%9F%93%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%23" target="weibo">
 常吃超加工食品更易感染幽门螺杆菌（热度：41476）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%AA%E8%AF%BB%E7%88%B8%E7%88%B8%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%9B%A0%E7%8E%B0%E5%AE%9E%E6%94%BE%E5%BC%83%E5%85%A5%E5%AD%A6%23" target="weibo">
-陪读爸爸考上大学因现实放弃入学（热度：41323）
 </a>
 </li>
 
@@ -11619,6 +11619,12 @@ Anyma电音之神来上海了（热度：25910）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E6%80%BB%E7%BB%9F%E4%BB%BB%E5%91%BD%E6%96%B0%E4%B8%80%E4%BB%BB%E6%80%BB%E7%90%86%23" target="weibo">
+法国总统任命新一任总理（热度：19190）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%90%91%E7%94%B7%E5%8F%8B%E6%B1%82%E5%A9%9A%E6%B2%A1%E6%83%B3%E7%94%B7%E5%8F%8B%E4%B9%9F%E5%87%86%E5%A4%87%E6%B1%82%E5%A9%9A%23" target="weibo">
 女孩向男友求婚没想男友也准备求婚（热度：18756）
 </a>
@@ -11657,12 +11663,6 @@ Anyma电音之神来上海了（热度：25910）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E5%90%A6%E8%AE%A4%E6%96%B0%E7%AD%BE%E8%89%BA%E4%BA%BA%23" target="weibo">
 于正否认新签艺人（热度：17696）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E6%80%BB%E7%BB%9F%E4%BB%BB%E5%91%BD%E6%96%B0%E4%B8%80%E4%BB%BB%E6%80%BB%E7%90%86%23" target="weibo">
-法国总统任命新一任总理（热度：17224）
 </a>
 </li>
 
@@ -11789,6 +11789,12 @@ TI13小组赛（热度：16539）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%AD%A6%E5%A7%91%E5%A7%91%E6%88%90%E4%B8%BA%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%94%B7%E5%AD%A9%E5%BC%80%E5%90%AF%E8%A1%A8%E6%83%85%E5%8C%85%23" target="weibo">
 开学姑姑成为班主任男孩开启表情包（热度：10381）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AA%E4%BA%BA%E6%B1%82%E5%8A%A9%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1%E5%B9%B3%E5%8F%B0%E5%BA%94%E7%BB%8F%E6%B0%91%E6%94%BF%E9%83%A8%E6%8C%87%E5%AE%9A%23" target="weibo">
+个人求助网络服务平台应经民政部指定（热度：10229）
 </a>
 </li>
 

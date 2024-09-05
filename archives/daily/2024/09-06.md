@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/06 00:27:10 ~ 2024/09/06 04:36:15
+本榜单时间：2024/09/06 00:27:10 ~ 2024/09/06 05:19:57
 </p>
 </blockquote>
 <p>
@@ -327,6 +327,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%AA%E8%AF%BB%E7%88%B8%E7%88%B8%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%9B%A0%E7%8E%B0%E5%AE%9E%E6%94%BE%E5%BC%83%E5%85%A5%E5%AD%A6%23" target="weibo">
+陪读爸爸考上大学因现实放弃入学（热度：67245）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E8%80%BB%E8%BE%B1%E7%9A%84%E4%B8%80%E5%A4%9C%23" target="weibo">
 国足耻辱的一夜（热度：63728）
 </a>
@@ -341,12 +347,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%90%84%E5%8C%BA%E5%8E%BF%E6%AD%A3%E5%9C%A8%E7%A0%94%E5%88%A4%E5%BC%80%E5%AD%A6%E5%B7%A5%E4%BD%9C%E4%BA%8B%E5%AE%9C%23" target="weibo">
 重庆各区县正在研判开学工作事宜（热度：45864）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%AA%E8%AF%BB%E7%88%B8%E7%88%B8%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%9B%A0%E7%8E%B0%E5%AE%9E%E6%94%BE%E5%BC%83%E5%85%A5%E5%AD%A6%23" target="weibo">
-陪读爸爸考上大学因现实放弃入学（热度：41323）
 </a>
 </li>
 
@@ -406,7 +406,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E6%80%BB%E7%BB%9F%E4%BB%BB%E5%91%BD%E6%96%B0%E4%B8%80%E4%BB%BB%E6%80%BB%E7%90%86%23" target="weibo">
-法国总统任命新一任总理（热度：17224）
+法国总统任命新一任总理（热度：19190）
 </a>
 </li>
 
@@ -419,6 +419,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%B8%A9%E6%8C%81%E7%BB%AD%E4%BD%A0%E8%A7%89%E5%BE%97%E5%BA%94%E7%BB%A7%E7%BB%AD%E5%BB%B6%E8%BF%9F%E8%BF%94%E6%A0%A1%E5%90%97%23" target="weibo">
 高温持续你觉得应继续延迟返校吗（热度：14220）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AA%E4%BA%BA%E6%B1%82%E5%8A%A9%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1%E5%B9%B3%E5%8F%B0%E5%BA%94%E7%BB%8F%E6%B0%91%E6%94%BF%E9%83%A8%E6%8C%87%E5%AE%9A%23" target="weibo">
+个人求助网络服务平台应经民政部指定（热度：10229）
 </a>
 </li>
 
