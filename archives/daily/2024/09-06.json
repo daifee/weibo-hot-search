@@ -1,6 +1,6 @@
 {
   "startTime": 1725553630734,
-  "endTime": 1725557766356,
+  "endTime": 1725560845948,
   "band_list": [
     {
       "raw_hot": 1282601,
@@ -171,6 +171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 219835,
+      "num": 172982,
+      "word": "日媒称不是我们太强而是中国队太弱",
+      "onboard_time": 1725551841,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212283,
       "num": 255969,
       "word": "台风摩羯将至广东多地停课",
@@ -201,14 +209,6 @@
       "onboard_time": 1725551959,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172982,
-      "num": 172982,
-      "word": "日媒称不是我们太强而是中国队太弱",
-      "onboard_time": 1725551841,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 170481,
@@ -403,19 +403,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 72786,
+      "num": 124408,
+      "word": "不同等级的台风力量如何",
+      "onboard_time": 1725557354,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71394,
       "num": 80307,
       "word": "美国14岁男孩在学校枪击致4死9伤",
       "onboard_time": 1725554716,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69684,
-      "num": 124408,
-      "word": "不同等级的台风力量如何",
-      "onboard_time": 1725557354,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -459,6 +459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 36223,
+      "num": 56654,
+      "word": "龙傲天你真是出息了",
+      "onboard_time": 1725559633,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 36214,
       "num": 504703,
       "word": "这些常见食品原来都是非洲产",
@@ -467,10 +475,34 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31233,
+      "num": 35453,
+      "word": "凡人歌",
+      "onboard_time": 1725535759,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 29994,
+      "num": 35428,
+      "word": "为什么暑期档没人能扛剧了",
+      "onboard_time": 1725558913,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22692,
       "num": 176099,
       "word": "广东海南防汛防台风应急响应升至二级",
       "onboard_time": 1725555555,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21352,
+      "num": 70137,
+      "word": "陪读爸爸考上大学因现实放弃入学",
+      "onboard_time": 1725559273,
       "rank": 9,
       "category": "社会新闻"
     }
