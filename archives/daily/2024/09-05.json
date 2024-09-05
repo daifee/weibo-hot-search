@@ -1,6 +1,6 @@
 {
   "startTime": 1725467191451,
-  "endTime": 1725513631914,
+  "endTime": 1725514681115,
   "band_list": [
     {
       "raw_hot": 3590283,
@@ -33,6 +33,14 @@
       "onboard_time": 1725505878,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1332466,
+      "num": 760836,
+      "word": "周雨彤 陈好",
+      "onboard_time": 1725512780,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1248877,
@@ -97,6 +105,14 @@
       "onboard_time": 1725451940,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 959569,
+      "num": 560590,
+      "word": "96年负二代靠卖收纳小物年入6亿",
+      "onboard_time": 1725512301,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 950364,
@@ -195,14 +211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 760836,
-      "num": 760836,
-      "word": "周雨彤 陈好",
-      "onboard_time": 1725512780,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 659653,
       "num": 659653,
       "word": "妈妈放弃事业陪孩子跨省学网球",
@@ -259,6 +267,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 583705,
+      "num": 314939,
+      "word": "厦门航空杂志疑刊登代孕广告",
+      "onboard_time": 1725513380,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 565386,
       "num": 565386,
       "word": "盛李豪回家打羽毛球又稳又轻松",
@@ -273,14 +289,6 @@
       "onboard_time": 1725501498,
       "rank": 24,
       "category": "网红"
-    },
-    {
-      "raw_hot": 549647,
-      "num": 549647,
-      "word": "96年负二代靠卖收纳小物年入6亿",
-      "onboard_time": 1725512301,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 544532,
@@ -313,6 +321,14 @@
       "onboard_time": 1725496400,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 452868,
+      "num": 452868,
+      "word": "柳岩 不化妆就可以认不出来",
+      "onboard_time": 1725512720,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 448085,
@@ -385,14 +401,6 @@
       "onboard_time": 1725506958,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 377912,
-      "num": 343132,
-      "word": "柳岩 不化妆就可以认不出来",
-      "onboard_time": 1725512720,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 353692,
@@ -515,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294237,
+      "num": 294237,
+      "word": "戚薇北大上学",
+      "onboard_time": 1725514579,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287462,
       "num": 287462,
       "word": "2女子为拍照撕掉店家门口海报",
@@ -529,6 +545,14 @@
       "onboard_time": 1725507440,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 282582,
+      "num": 282582,
+      "word": "马龙也在看边水往事",
+      "onboard_time": 1725513678,
+      "rank": 22,
+      "category": "体育,剧集"
     },
     {
       "raw_hot": 269465,
@@ -561,6 +585,14 @@
       "onboard_time": 1725510382,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258189,
+      "num": 283224,
+      "word": "体内的卢昱晓压不住了",
+      "onboard_time": 1725513621,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 249404,
@@ -611,6 +643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 232259,
+      "num": 240285,
+      "word": "周杰伦演唱会抢票",
+      "onboard_time": 1725513799,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 227319,
       "num": 227319,
       "word": "别人杀青捧了花你俩白了发",
@@ -625,6 +665,14 @@
       "onboard_time": 1725499880,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225463,
+      "num": 225463,
+      "word": "杨紫听了都得懵一秒",
+      "onboard_time": 1725513741,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 217036,
@@ -723,12 +771,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 194862,
+      "num": 194862,
+      "word": "厦航回应航空杂志疑含代孕广告",
+      "onboard_time": 1725514400,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193195,
       "num": 203259,
       "word": "刘诗诗纽约街拍",
       "onboard_time": 1725503778,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192793,
+      "num": 192793,
+      "word": "赵丽颖新片说云南方言",
+      "onboard_time": 1725514100,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 192718,
@@ -763,6 +827,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 189847,
+      "num": 189847,
+      "word": "起猛了以为应采儿参加恋综了",
+      "onboard_time": 1725514220,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189511,
       "num": 189511,
       "word": "贵州小伙写中式科幻网文圈粉千万",
@@ -795,14 +867,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 187417,
-      "num": 187417,
-      "word": "厦门航空杂志疑刊登代孕广告",
-      "onboard_time": 1725513380,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187244,
       "num": 187244,
       "word": "东莞一警车压实线加塞",
@@ -817,6 +881,14 @@
       "onboard_time": 1725462501,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 185983,
+      "num": 185983,
+      "word": "男孩骑行被碾身亡案司机律师回应",
+      "onboard_time": 1725513440,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184437,
@@ -841,6 +913,14 @@
       "onboard_time": 1725505818,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180253,
+      "num": 180253,
+      "word": "妻子被继子打伤丈夫袖手旁观后诉离婚",
+      "onboard_time": 1725513260,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179535,
@@ -899,20 +979,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 173512,
-      "num": 173512,
-      "word": "男孩骑行被碾身亡案司机律师回应",
-      "onboard_time": 1725513440,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171962,
-      "num": 171962,
-      "word": "妻子被继子打伤丈夫袖手旁观后诉离婚",
-      "onboard_time": 1725513260,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 168825,
+      "num": 168825,
+      "word": "中国历史上最特别的一代人",
+      "onboard_time": 1725514459,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 167157,
@@ -921,14 +993,6 @@
       "onboard_time": 1725504018,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 164152,
-      "num": 164152,
-      "word": "体内的卢昱晓压不住了",
-      "onboard_time": 1725513621,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 162959,
@@ -1363,6 +1427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91137,
+      "num": 334699,
+      "word": "没钱小少爷变身大漠驸马爷",
+      "onboard_time": 1725512540,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90676,
       "num": 533877,
       "word": "藏海花",
@@ -1379,14 +1451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88811,
-      "num": 334699,
-      "word": "没钱小少爷变身大漠驸马爷",
-      "onboard_time": 1725512540,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 88053,
       "num": 306284,
       "word": "警方回应母亲称3岁幼童遭虐待进ICU",
@@ -1401,6 +1465,14 @@
       "onboard_time": 1725452541,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86135,
+      "num": 341611,
+      "word": "男子为等家人4次阻挡高铁关门",
+      "onboard_time": 1725512601,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85378,
@@ -1473,14 +1545,6 @@
       "onboard_time": 1725509300,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 48321,
-      "num": 341611,
-      "word": "男子为等家人4次阻挡高铁关门",
-      "onboard_time": 1725512601,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46984,
@@ -1568,6 +1632,14 @@
       "word": "儿童手表为何频现毒答案",
       "onboard_time": 1725513440,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39166,
+      "num": 325418,
+      "word": "台风摩羯中心最大风力超16级",
+      "onboard_time": 1725513979,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
