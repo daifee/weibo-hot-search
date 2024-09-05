@@ -1,6 +1,6 @@
 {
   "startTime": 1725467191451,
-  "endTime": 1725511198566,
+  "endTime": 1725513631914,
   "band_list": [
     {
       "raw_hot": 3590283,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 929855,
+      "num": 795070,
+      "word": "中学食堂15元配菜只有米饭和丸子",
+      "onboard_time": 1725509001,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 926772,
       "num": 909440,
       "word": "三只羊沫沫",
@@ -129,6 +137,14 @@
       "onboard_time": 1725502518,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 898988,
+      "num": 898988,
+      "word": "沈腾做完手术去岳云鹏家通宵打游戏",
+      "onboard_time": 1725508640,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 890121,
@@ -163,14 +179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 791238,
-      "num": 791238,
-      "word": "沈腾做完手术去岳云鹏家通宵打游戏",
-      "onboard_time": 1725508640,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 780975,
       "num": 582549,
       "word": "叶珂否认插足别人家庭",
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 760836,
+      "num": 760836,
+      "word": "周雨彤 陈好",
+      "onboard_time": 1725512780,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 659653,
       "num": 659653,
       "word": "妈妈放弃事业陪孩子跨省学网球",
@@ -195,11 +211,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 646698,
+      "num": 372719,
+      "word": "山东一书记涉酒驾被查拒不下车",
+      "onboard_time": 1725509480,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 638661,
       "num": 638661,
       "word": "台风",
       "onboard_time": 1725448699,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 637634,
+      "num": 348302,
+      "word": "店主被质疑开黄腔后改店名怼网友",
+      "onboard_time": 1725508640,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -235,20 +267,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 555544,
-      "num": 555544,
-      "word": "中学食堂15元配菜只有米饭和丸子",
-      "onboard_time": 1725509001,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 553052,
       "num": 379641,
       "word": "三只羊七老板辟谣",
       "onboard_time": 1725501498,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 549647,
+      "num": 549647,
+      "word": "96年负二代靠卖收纳小物年入6亿",
+      "onboard_time": 1725512301,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 544532,
@@ -355,12 +387,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 372719,
-      "num": 372719,
-      "word": "山东一书记涉酒驾被查拒不下车",
-      "onboard_time": 1725509480,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 377912,
+      "num": 343132,
+      "word": "柳岩 不化妆就可以认不出来",
+      "onboard_time": 1725512720,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 353692,
@@ -400,14 +432,6 @@
       "word": "30多块的牛约堡档口老鼠遍地跑",
       "onboard_time": 1725464240,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 338922,
-      "num": 338922,
-      "word": "店主被质疑开黄腔后改店名怼网友",
-      "onboard_time": 1725508640,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -483,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294986,
+      "num": 294986,
+      "word": "广东多地紧急停课",
+      "onboard_time": 1725511941,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287462,
       "num": 287462,
       "word": "2女子为拍照撕掉店家门口海报",
@@ -499,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 269465,
+      "num": 259260,
+      "word": "三只羊",
+      "onboard_time": 1725511642,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 266609,
       "num": 266609,
       "word": "国人平均每秒喝掉676杯奶茶",
@@ -513,6 +553,14 @@
       "onboard_time": 1725505458,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 264054,
+      "num": 264054,
+      "word": "海南大学现天雷滚滚渡劫奇观",
+      "onboard_time": 1725510382,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249404,
@@ -563,19 +611,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 227319,
+      "num": 227319,
+      "word": "别人杀青捧了花你俩白了发",
+      "onboard_time": 1725511281,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227093,
       "num": 504910,
       "word": "台风摩羯路径不确定性多",
       "onboard_time": 1725499880,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 218224,
-      "num": 218224,
-      "word": "海南大学现天雷滚滚渡劫奇观",
-      "onboard_time": 1725510382,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -723,6 +771,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 188494,
+      "num": 188494,
+      "word": "黑神话Steam每日售出超40万份",
+      "onboard_time": 1725511642,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188471,
       "num": 395158,
       "word": "赵丽颖10月上映两部新片",
@@ -737,6 +793,14 @@
       "onboard_time": 1725506299,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 187417,
+      "num": 187417,
+      "word": "厦门航空杂志疑刊登代孕广告",
+      "onboard_time": 1725513380,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187244,
@@ -835,12 +899,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 173512,
+      "num": 173512,
+      "word": "男孩骑行被碾身亡案司机律师回应",
+      "onboard_time": 1725513440,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171962,
+      "num": 171962,
+      "word": "妻子被继子打伤丈夫袖手旁观后诉离婚",
+      "onboard_time": 1725513260,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167157,
       "num": 536594,
       "word": "中国同所有非洲建交国提升到战略关系",
       "onboard_time": 1725504018,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 164152,
+      "num": 164152,
+      "word": "体内的卢昱晓压不住了",
+      "onboard_time": 1725513621,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 162959,
@@ -1147,6 +1235,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 110689,
+      "num": 316574,
+      "word": "重生之我在三边坡当牛马",
+      "onboard_time": 1725512119,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109354,
       "num": 145244,
       "word": "存量房贷利率不能简单一降了之",
@@ -1283,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88811,
+      "num": 334699,
+      "word": "没钱小少爷变身大漠驸马爷",
+      "onboard_time": 1725512540,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88053,
       "num": 306284,
       "word": "警方回应母亲称3岁幼童遭虐待进ICU",
@@ -1371,6 +1475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 48321,
+      "num": 341611,
+      "word": "男子为等家人4次阻挡高铁关门",
+      "onboard_time": 1725512601,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46984,
       "num": 58433,
       "word": "凡人歌",
@@ -1451,6 +1563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40126,
+      "num": 346431,
+      "word": "儿童手表为何频现毒答案",
+      "onboard_time": 1725513440,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36796,
       "num": 350056,
       "word": "外国人爱翻译白居易是因为容易吗",
@@ -1491,12 +1611,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30758,
+      "num": 372778,
+      "word": "高圆圆谈不卷",
+      "onboard_time": 1725510200,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29880,
       "num": 448705,
       "word": "中国制造在加纳受欢迎程度",
       "onboard_time": 1725455483,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 28989,
+      "num": 320517,
+      "word": "年轻人开始给石头穿衣打扮擦面霜",
+      "onboard_time": 1725512540,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25779,
@@ -1537,14 +1673,6 @@
       "onboard_time": 1725503540,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19239,
-      "num": 372778,
-      "word": "高圆圆谈不卷",
-      "onboard_time": 1725510200,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 17409,

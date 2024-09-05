@@ -1,0 +1,410 @@
+{
+  "runTime": 1725513631914,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3575849,
+        "num": 3575849,
+        "word": "王楚钦橘发",
+        "onboard_time": 1725508759,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 898988,
+        "num": 898988,
+        "word": "沈腾做完手术去岳云鹏家通宵打游戏",
+        "onboard_time": 1725508640,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20489,
+        "num": 812992,
+        "word": "中非现代化之路",
+        "onboard_time": 1725508279,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 929855,
+        "num": 795070,
+        "word": "中学食堂15元配菜只有米饭和丸子",
+        "onboard_time": 1725509001,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 760836,
+        "num": 760836,
+        "word": "周雨彤 陈好",
+        "onboard_time": 1725512780,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 643960,
+        "num": 643960,
+        "word": "时尚芭莎孙颖莎红衣登场预告",
+        "onboard_time": 1725502159,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 549647,
+        "num": 549647,
+        "word": "96年负二代靠卖收纳小物年入6亿",
+        "onboard_time": 1725512301,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450197,
+        "num": 450197,
+        "word": "刘美含 反向催婚",
+        "onboard_time": 1725504619,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378574,
+        "num": 378574,
+        "word": "郑钦文退出瓜达拉哈拉赛",
+        "onboard_time": 1725503058,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350905,
+        "num": 350905,
+        "word": "故宫文创用苹果皮做小挎包",
+        "onboard_time": 1725497840,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1080848,
+        "num": 350403,
+        "word": "黄牛用软件不到1秒钟抢到票",
+        "onboard_time": 1725506058,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 646698,
+        "num": 349696,
+        "word": "山东一书记涉酒驾被查拒不下车",
+        "onboard_time": 1725509480,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637634,
+        "num": 348302,
+        "word": "店主被质疑开黄腔后改店名怼网友",
+        "onboard_time": 1725508640,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352189,
+        "num": 346963,
+        "word": "韩国研发出爬楼轮椅",
+        "onboard_time": 1725505159,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40126,
+        "num": 346431,
+        "word": "儿童手表为何频现毒答案",
+        "onboard_time": 1725513440,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36371,
+        "num": 345236,
+        "word": "如鸢宿命感",
+        "onboard_time": 1725509300,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 443880,
+        "num": 344616,
+        "word": "女生离家3月暴瘦50斤父母满眼心疼",
+        "onboard_time": 1725492196,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377912,
+        "num": 343132,
+        "word": "柳岩 不化妆就可以认不出来",
+        "onboard_time": 1725512720,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342594,
+        "num": 342594,
+        "word": "虹猫蓝兔七侠传开播18周年",
+        "onboard_time": 1725507259,
+        "rank": 18,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 48321,
+        "num": 341611,
+        "word": "男子为等家人4次阻挡高铁关门",
+        "onboard_time": 1725512601,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1322751,
+        "num": 338252,
+        "word": "女子自拍40条淫秽视频倒罚1万5",
+        "onboard_time": 1725478932,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1008604,
+        "num": 337014,
+        "word": "印度女子勒死6天大女儿",
+        "onboard_time": 1725505878,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88811,
+        "num": 334699,
+        "word": "没钱小少爷变身大漠驸马爷",
+        "onboard_time": 1725512540,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231483,
+        "num": 332900,
+        "word": "台风",
+        "onboard_time": 1725448699,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249704,
+        "num": 329436,
+        "word": "张杰手机壁纸是自己的照片",
+        "onboard_time": 1725502759,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 889180,
+        "num": 327355,
+        "word": "三只羊前法务再回应离职",
+        "onboard_time": 1725508700,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 243093,
+        "num": 325847,
+        "word": "辛芷蕾新片孕肚造型",
+        "onboard_time": 1725508700,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 374668,
+        "num": 323775,
+        "word": "印度女医生遭奸杀事发邦修改法案",
+        "onboard_time": 1725496758,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28989,
+        "num": 320517,
+        "word": "年轻人开始给石头穿衣打扮擦面霜",
+        "onboard_time": 1725512540,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30758,
+        "num": 318406,
+        "word": "高圆圆谈不卷",
+        "onboard_time": 1725510200,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110689,
+        "num": 316574,
+        "word": "重生之我在三边坡当牛马",
+        "onboard_time": 1725512119,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315011,
+        "num": 315011,
+        "word": "叶珂否认插足别人家庭",
+        "onboard_time": 1725504859,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296520,
+        "num": 296520,
+        "word": "台风摩羯预计明天登陆海南广东一带",
+        "onboard_time": 1725498141,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294986,
+        "num": 294986,
+        "word": "广东多地紧急停课",
+        "onboard_time": 1725511941,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285898,
+        "num": 285898,
+        "word": "三只羊沫沫",
+        "onboard_time": 1725495380,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 264054,
+        "num": 264054,
+        "word": "海南大学现天雷滚滚渡劫奇观",
+        "onboard_time": 1725510382,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269465,
+        "num": 259260,
+        "word": "三只羊",
+        "onboard_time": 1725511642,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 239643,
+        "num": 239643,
+        "word": "赵丽颖乔妍好疯批",
+        "onboard_time": 1725506958,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 227319,
+        "num": 227319,
+        "word": "别人杀青捧了花你俩白了发",
+        "onboard_time": 1725511281,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204425,
+        "num": 204425,
+        "word": "贾一凡为了再次港澳行要去洛杉矶",
+        "onboard_time": 1725507440,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194442,
+        "num": 194442,
+        "word": "国人平均每秒喝掉676杯奶茶",
+        "onboard_time": 1725505940,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188494,
+        "num": 188494,
+        "word": "黑神话Steam每日售出超40万份",
+        "onboard_time": 1725511642,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187417,
+        "num": 187417,
+        "word": "厦门航空杂志疑刊登代孕广告",
+        "onboard_time": 1725513380,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178685,
+        "num": 178685,
+        "word": "陈梦回青岛了",
+        "onboard_time": 1725509421,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173512,
+        "num": 173512,
+        "word": "男孩骑行被碾身亡案司机律师回应",
+        "onboard_time": 1725513440,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171962,
+        "num": 171962,
+        "word": "妻子被继子打伤丈夫袖手旁观后诉离婚",
+        "onboard_time": 1725513260,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169754,
+        "num": 169754,
+        "word": "于正说袁姗姗有几分像秦岚",
+        "onboard_time": 1725505458,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167366,
+        "num": 167366,
+        "word": "AnotherMan9月刊王楚钦封面",
+        "onboard_time": 1725508759,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166425,
+        "num": 166425,
+        "word": "半熟男女恋爱塌房版预告",
+        "onboard_time": 1725502518,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164152,
+        "num": 164152,
+        "word": "体内的卢昱晓压不住了",
+        "onboard_time": 1725513621,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中非命运共同体彰显于合作共赢#"
+    }
+  }
+}
