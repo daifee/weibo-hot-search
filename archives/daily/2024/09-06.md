@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/06 00:27:10 ~ 2024/09/06 07:21:37
+本榜单时间：2024/09/06 00:27:10 ~ 2024/09/06 07:35:09
 </p>
 </blockquote>
 <p>
@@ -40,7 +40,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%AA%E8%AF%BB%E7%88%B8%E7%88%B8%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%9B%A0%E7%8E%B0%E5%AE%9E%E6%94%BE%E5%BC%83%E5%85%A5%E5%AD%A6%23" target="weibo">
-陪读爸爸考上大学因现实放弃入学（热度：834479）
+陪读爸爸考上大学因现实放弃入学（热度：842250）
 </a>
 </li>
 
@@ -64,7 +64,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%A7%B0%E4%B8%8D%E6%98%AF%E6%88%91%E4%BB%AC%E5%A4%AA%E5%BC%BA%E8%80%8C%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%AA%E5%BC%B1%23" target="weibo">
-日媒称不是我们太强而是中国队太弱（热度：588733）
+日媒称不是我们太强而是中国队太弱（热度：592908）
 </a>
 </li>
 
@@ -135,6 +135,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E9%97%B9%E7%9D%80%E8%A6%81%E8%B7%B3%E6%A5%BC%E5%85%B6%E5%AE%9E%E6%98%AF%E5%90%91%E7%88%B6%E6%AF%8D%E6%B1%82%E6%95%91%23" target="weibo">
+孩子闹着要跳楼其实是向父母求救（热度：298095）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%A6%82%E9%82%A3%E8%A5%BF%E8%A3%85%E5%87%BA%E5%9C%BA%E5%85%A8%E5%9C%BA%E6%B2%B8%E8%85%BE%23" target="weibo">
 阿如那西装出场全场沸腾（热度：256027）
 </a>
@@ -143,6 +149,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%23" target="weibo">
 台风（热度：255457）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%B5%B7%E5%8D%97%E6%9A%B4%E9%9B%A8%E5%85%B7%E6%9C%89%E4%B8%80%E5%AE%9A%E6%9E%81%E7%AB%AF%E6%80%A7%23" target="weibo">
+广东海南暴雨具有一定极端性（热度：247186）
 </a>
 </li>
 
@@ -159,26 +171,26 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%B5%B7%E5%8D%97%E6%9A%B4%E9%9B%A8%E5%85%B7%E6%9C%89%E4%B8%80%E5%AE%9A%E6%9E%81%E7%AB%AF%E6%80%A7%23" target="weibo">
-广东海南暴雨具有一定极端性（热度：216182）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%91%A9%E7%BE%AF%E5%B0%86%E8%87%B3%E5%B9%BF%E4%B8%9C%E5%A4%9A%E5%9C%B0%E5%81%9C%E8%AF%BE%23" target="weibo">
 台风摩羯将至广东多地停课（热度：212283）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E8%80%BB%E8%BE%B1%E7%9A%84%E4%B8%80%E5%A4%9C%23" target="weibo">
-国足耻辱的一夜（热度：193242）
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%23" target="weibo">
+国足（热度：208651）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B9%B4%E7%94%B7%E4%BA%BA%E7%9A%84%E5%B4%A9%E6%BA%83%E6%98%AF%E5%B7%B2%E8%AF%BB%E4%B8%8D%E5%9B%9E%23" target="weibo">
-中年男人的崩溃是已读不回（热度：187366）
+中年男人的崩溃是已读不回（热度：198934）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E8%80%BB%E8%BE%B1%E7%9A%84%E4%B8%80%E5%A4%9C%23" target="weibo">
+国足耻辱的一夜（热度：197963）
 </a>
 </li>
 
@@ -191,12 +203,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%85%91%E6%8D%A2%E5%8F%91%E7%8E%B04%E5%B9%B4%E5%89%8D%E7%9A%84%E8%9F%B9%E5%8D%A1%E5%B7%B2%E5%A4%B1%E6%95%88%23" target="weibo">
 男子兑换发现4年前的蟹卡已失效（热度：170481）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E9%97%B9%E7%9D%80%E8%A6%81%E8%B7%B3%E6%A5%BC%E5%85%B6%E5%AE%9E%E6%98%AF%E5%90%91%E7%88%B6%E6%AF%8D%E6%B1%82%E6%95%91%23" target="weibo">
-孩子闹着要跳楼其实是向父母求救（热度：161058）
 </a>
 </li>
 
@@ -227,6 +233,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B8%E5%A5%BD%E5%A4%AE%E8%A7%86%E6%B2%A1%E8%BD%AC%23" target="weibo">
 幸好央视没转（热度：149246）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E7%BB%99%E4%B8%AD%E5%B0%8F%E5%AD%A6%E8%A3%85%E7%A9%BA%E8%B0%83%E6%98%AF%E4%B8%8D%E6%98%AF%E6%B2%A1%E8%8B%A6%E7%A1%AC%E5%90%83%23" target="weibo">
+不给中小学装空调是不是没苦硬吃（热度：140346）
 </a>
 </li>
 
@@ -285,12 +297,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E7%BB%99%E4%B8%AD%E5%B0%8F%E5%AD%A6%E8%A3%85%E7%A9%BA%E8%B0%83%E6%98%AF%E4%B8%8D%E6%98%AF%E6%B2%A1%E8%8B%A6%E7%A1%AC%E5%90%83%23" target="weibo">
-不给中小学装空调是不是没苦硬吃（热度：114366）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BB%AA%E6%B6%B5offer%E5%8F%B2%E4%B8%8A%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%AB%98%E8%80%83%E7%8A%B6%E5%85%83%23" target="weibo">
 罗仪涵offer史上第一个高考状元（热度：110896）
 </a>
@@ -311,6 +317,18 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%87%E5%AE%99%E6%9C%BA%E5%99%A8%E4%BA%BA%23" target="weibo">
 宇宙机器人（热度：100945）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%91%A9%E7%BE%AF%23" target="weibo">
+台风摩羯（热度：96313）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%A4%A9%E6%B0%94%23" target="weibo">
+深圳天气（热度：90189）
 </a>
 </li>
 
@@ -339,26 +357,26 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9A%91%E6%9C%9F%E6%A1%A3%E6%B2%A1%E4%BA%BA%E8%83%BD%E6%89%9B%E5%89%A7%E4%BA%86%23" target="weibo">
+为什么暑期档没人能扛剧了（热度：85023）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E6%9C%89%E4%BA%BA%E5%88%86%E6%89%8B%E5%90%8E%E5%8E%BB%E6%8B%86%E5%90%8C%E5%BF%83%E9%94%81%23" target="weibo">
+真有人分手后去拆同心锁（热度：83038）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD14%E5%B2%81%E7%94%B7%E5%AD%A9%E5%9C%A8%E5%AD%A6%E6%A0%A1%E6%9E%AA%E5%87%BB%E8%87%B44%E6%AD%BB9%E4%BC%A4%23" target="weibo">
 美国14岁男孩在学校枪击致4死9伤（热度：82796）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9A%91%E6%9C%9F%E6%A1%A3%E6%B2%A1%E4%BA%BA%E8%83%BD%E6%89%9B%E5%89%A7%E4%BA%86%23" target="weibo">
-为什么暑期档没人能扛剧了（热度：81934）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%A4%A9%E6%B0%94%23" target="weibo">
-深圳天气（热度：77568）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%91%A9%E7%BE%AF%23" target="weibo">
-台风摩羯（热度：77233）
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8B%E7%93%B7%E7%82%AB%E5%B8%A6%E5%85%AD%E5%B2%81%E5%84%BF%E5%AD%90%E5%81%9A%E7%B4%AB%E8%8F%9C%E5%8C%85%E9%A5%AD%23" target="weibo">
+秋瓷炫带六岁儿子做紫菜包饭（热度：77570）
 </a>
 </li>
 
@@ -389,12 +407,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BE%99%E5%82%B2%E5%A4%A9%E4%BD%A0%E7%9C%9F%E6%98%AF%E5%87%BA%E6%81%AF%E4%BA%86%23" target="weibo">
 龙傲天你真是出息了（热度：58075）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E6%9C%89%E4%BA%BA%E5%88%86%E6%89%8B%E5%90%8E%E5%8E%BB%E6%8B%86%E5%90%8C%E5%BF%83%E9%94%81%23" target="weibo">
-真有人分手后去拆同心锁（热度：48145）
 </a>
 </li>
 
@@ -435,6 +447,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AA%E4%BA%BA%E6%B1%82%E5%8A%A9%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1%E5%B9%B3%E5%8F%B0%E5%BA%94%E7%BB%8F%E6%B0%91%E6%94%BF%E9%83%A8%E6%8C%87%E5%AE%9A%23" target="weibo">
+个人求助网络服务平台应经民政部指定（热度：24595）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E6%80%BB%E7%BB%9F%E4%BB%BB%E5%91%BD%E6%96%B0%E4%B8%80%E4%BB%BB%E6%80%BB%E7%90%86%23" target="weibo">
 法国总统任命新一任总理（热度：24289）
 </a>
@@ -443,12 +461,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E6%91%A9%E7%BE%AF%E6%9D%A5%E8%A2%AD%23" target="weibo">
 超强台风摩羯来袭（热度：24253）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AA%E4%BA%BA%E6%B1%82%E5%8A%A9%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1%E5%B9%B3%E5%8F%B0%E5%BA%94%E7%BB%8F%E6%B0%91%E6%94%BF%E9%83%A8%E6%8C%87%E5%AE%9A%23" target="weibo">
-个人求助网络服务平台应经民政部指定（热度：23967）
 </a>
 </li>
 

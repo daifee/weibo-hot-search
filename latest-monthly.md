@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/06 07:21:37
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/06 07:35:09
 </p>
 </blockquote>
 <p>
@@ -1299,6 +1299,12 @@ Angelababy鞠躬感谢粉丝（热度：852648）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%AA%E8%AF%BB%E7%88%B8%E7%88%B8%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%9B%A0%E7%8E%B0%E5%AE%9E%E6%94%BE%E5%BC%83%E5%85%A5%E5%AD%A6%23" target="weibo">
+陪读爸爸考上大学因现实放弃入学（热度：842250）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AE%8B%E5%A5%A5%E4%BC%9A%20%E5%85%B3%E6%B3%A8%E5%BA%A6%E4%BD%8E%23" target="weibo">
 残奥会 关注度低（热度：841289）
 </a>
@@ -1313,12 +1319,6 @@ WBG战胜JDG（热度：837121）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0cue%E8%B0%AD%E6%9D%BE%E9%9F%B5%23" target="weibo">
 林俊杰cue谭松韵（热度：835201）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%AA%E8%AF%BB%E7%88%B8%E7%88%B8%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%9B%A0%E7%8E%B0%E5%AE%9E%E6%94%BE%E5%BC%83%E5%85%A5%E5%AD%A6%23" target="weibo">
-陪读爸爸考上大学因现实放弃入学（热度：834479）
 </a>
 </li>
 
@@ -2115,6 +2115,12 @@ iPhone16新配色（热度：634006）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%A7%B0%E4%B8%8D%E6%98%AF%E6%88%91%E4%BB%AC%E5%A4%AA%E5%BC%BA%E8%80%8C%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%AA%E5%BC%B1%23" target="weibo">
+日媒称不是我们太强而是中国队太弱（热度：592908）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8A%B1%E5%85%89%E5%A6%88%E5%A6%88100%E4%B8%87%E4%BC%AA%E9%80%A0250%E4%B8%87%E5%81%87%E5%AD%98%E5%8D%95%23" target="weibo">
 女子花光妈妈100万伪造250万假存单（热度：592853）
 </a>
@@ -2123,12 +2129,6 @@ iPhone16新配色（热度：634006）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E5%8F%8D%E6%AC%BA%E5%87%8C%E6%89%BF%E8%AF%BA%E4%B9%A6%E8%A6%81%E6%B1%82%E4%B8%8D%E6%8B%8D%E7%85%A7%E4%B8%8D%E5%BD%95%E5%83%8F%23" target="weibo">
 中学反欺凌承诺书要求不拍照不录像（热度：592504）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%A7%B0%E4%B8%8D%E6%98%AF%E6%88%91%E4%BB%AC%E5%A4%AA%E5%BC%BA%E8%80%8C%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%AA%E5%BC%B1%23" target="weibo">
-日媒称不是我们太强而是中国队太弱（热度：588733）
 </a>
 </li>
 
@@ -3777,6 +3777,12 @@ iOS版微信已2个月没更新（热度：332158）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E9%97%B9%E7%9D%80%E8%A6%81%E8%B7%B3%E6%A5%BC%E5%85%B6%E5%AE%9E%E6%98%AF%E5%90%91%E7%88%B6%E6%AF%8D%E6%B1%82%E6%95%91%23" target="weibo">
+孩子闹着要跳楼其实是向父母求救（热度：298095）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B1%BD%E9%AB%98%E5%B1%82%E5%90%90%E6%A7%BD%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E6%8A%84%E4%BF%9D%E6%97%B6%E6%8D%B7%23" target="weibo">
 上汽高层吐槽小米汽车抄保时捷（热度：297650）
 </a>
@@ -4503,6 +4509,12 @@ RNG 散是满天星（热度：248981）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%B5%B7%E5%8D%97%E6%9A%B4%E9%9B%A8%E5%85%B7%E6%9C%89%E4%B8%80%E5%AE%9A%E6%9E%81%E7%AB%AF%E6%80%A7%23" target="weibo">
+广东海南暴雨具有一定极端性（热度：247186）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%AD%A3%E9%9D%A2%E5%9B%9E%E5%BA%94%E6%9C%AA%E6%9D%A5%E8%A7%84%E5%88%92%23" target="weibo">
 樊振东正面回应未来规划（热度：247184）
 </a>
@@ -5133,12 +5145,6 @@ iPhonePro系列首次在印度生产（热度：221591）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%B5%B7%E5%8D%97%E6%9A%B4%E9%9B%A8%E5%85%B7%E6%9C%89%E4%B8%80%E5%AE%9A%E6%9E%81%E7%AB%AF%E6%80%A7%23" target="weibo">
-广东海南暴雨具有一定极端性（热度：216182）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%20Black%23" target="weibo">
 网易云音乐 Black（热度：215817）
 </a>
@@ -5327,6 +5333,12 @@ JDG战胜NIP（热度：213496）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E7%99%BE%E5%A4%9A%E5%90%8D%E8%BD%A6%E4%B8%BB%E8%B4%AD%E6%96%B0%E8%BD%A6%E5%90%8E%E6%97%A0%E6%B3%95%E4%B8%8A%E7%89%8C%23" target="weibo">
 两百多名车主购新车后无法上牌（热度：208848）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%23" target="weibo">
+国足（热度：208651）
 </a>
 </li>
 
@@ -5739,6 +5751,12 @@ RW对战WB（热度：199747）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B9%B4%E7%94%B7%E4%BA%BA%E7%9A%84%E5%B4%A9%E6%BA%83%E6%98%AF%E5%B7%B2%E8%AF%BB%E4%B8%8D%E5%9B%9E%23" target="weibo">
+中年男人的崩溃是已读不回（热度：198934）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23LPL%E5%87%BA%E5%BE%81S14%23" target="weibo">
 LPL出征S14（热度：198796）
 </a>
@@ -5993,24 +6011,6 @@ ruler尽力了（热度：194947）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%8F%B6%E5%A7%90%E5%A6%B9%E5%8D%95%E9%A3%9E%E4%B8%8D%E8%A7%A3%E6%95%A3%23" target="weibo">
 花叶姐妹单飞不解散（热度：193829）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23RedVelvet%E9%9B%A8%E4%B8%AD%E5%94%B1%E8%B7%B3%23" target="weibo">
-RedVelvet雨中唱跳（热度：193629）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%8C%A5%E6%89%8B%E5%91%8A%E5%88%AB%E5%90%8E%E5%8F%91%E7%8E%B0%E4%B8%8A%E9%94%99%E8%BD%A6%23" target="weibo">
-王楚钦挥手告别后发现上错车（热度：193618）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%99%E8%86%8F%E5%A4%AA%E8%8F%9C%E4%BA%86%23" target="weibo">
-牙膏太菜了（热度：193591）
 </a>
 </li>
 
