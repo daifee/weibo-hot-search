@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/06 06:20:00
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/06 06:37:52
 </p>
 </blockquote>
 <p>
@@ -2925,6 +2925,12 @@ aespa和EXO起诉脱粉收容所（热度：429036）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%AA%E8%AF%BB%E7%88%B8%E7%88%B8%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%9B%A0%E7%8E%B0%E5%AE%9E%E6%94%BE%E5%BC%83%E5%85%A5%E5%AD%A6%23" target="weibo">
+陪读爸爸考上大学因现实放弃入学（热度：428404）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E4%B8%80%E5%87%A1vlog%E9%A6%99%E6%B8%AF%E7%AF%87%23" target="weibo">
 贾一凡vlog香港篇（热度：424684）
 </a>
@@ -3329,6 +3335,12 @@ offer6实习生官宣下一站香港（热度：361353）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%9A%E6%B8%85%E5%AD%90%E8%AF%B4%E6%9C%AA%E5%A9%9A%E5%A4%AB%E6%98%AF%E8%87%AA%E5%B7%B1%E5%BD%B1%E8%BF%B7%23" target="weibo">
 阚清子说未婚夫是自己影迷（热度：353644）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%A7%B0%E4%B8%8D%E6%98%AF%E6%88%91%E4%BB%AC%E5%A4%AA%E5%BC%BA%E8%80%8C%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%AA%E5%BC%B1%23" target="weibo">
+日媒称不是我们太强而是中国队太弱（热度：352265）
 </a>
 </li>
 
@@ -4059,12 +4071,6 @@ A股（热度：279449）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%AA%E8%AF%BB%E7%88%B8%E7%88%B8%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%9B%A0%E7%8E%B0%E5%AE%9E%E6%94%BE%E5%BC%83%E5%85%A5%E5%AD%A6%23" target="weibo">
-陪读爸爸考上大学因现实放弃入学（热度：277984）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%9B%85%E7%B9%81vs%E5%B7%B4%E5%A4%9A%E8%90%A8%23" target="weibo">
 王雅繁vs巴多萨（热度：277791）
 </a>
@@ -4127,12 +4133,6 @@ A股（热度：279449）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%AD%A4%E5%8B%87%E8%80%85reaction%23" target="weibo">
 樊振东孤勇者reaction（热度：273782）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%A7%B0%E4%B8%8D%E6%98%AF%E6%88%91%E4%BB%AC%E5%A4%AA%E5%BC%BA%E8%80%8C%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%AA%E5%BC%B1%23" target="weibo">
-日媒称不是我们太强而是中国队太弱（热度：273486）
 </a>
 </li>
 

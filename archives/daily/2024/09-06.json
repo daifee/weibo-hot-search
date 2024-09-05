@@ -1,6 +1,6 @@
 {
   "startTime": 1725553630734,
-  "endTime": 1725574800725,
+  "endTime": 1725575872477,
   "band_list": [
     {
       "raw_hot": 1282601,
@@ -99,6 +99,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 428404,
+      "num": 496478,
+      "word": "陪读爸爸考上大学因现实放弃入学",
+      "onboard_time": 1725559273,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423791,
       "num": 205100,
       "word": "印度女子在救护车上被强奸",
@@ -131,28 +139,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 352265,
+      "num": 172982,
+      "word": "日媒称不是我们太强而是中国队太弱",
+      "onboard_time": 1725551841,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 326806,
       "num": 255511,
       "word": "官方回应烈士陵园墓前多人跳广场舞",
       "onboard_time": 1725540683,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 277984,
-      "num": 379911,
-      "word": "陪读爸爸考上大学因现实放弃入学",
-      "onboard_time": 1725559273,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273486,
-      "num": 172982,
-      "word": "日媒称不是我们太强而是中国队太弱",
-      "onboard_time": 1725551841,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 256027,
@@ -411,6 +411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74961,
+      "num": 134964,
+      "word": "国足耻辱的一夜",
+      "onboard_time": 1725540864,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72786,
       "num": 124408,
       "word": "不同等级的台风力量如何",
@@ -427,16 +435,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 63728,
-      "num": 134964,
-      "word": "国足耻辱的一夜",
-      "onboard_time": 1725540864,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 64863,
+      "num": 100748,
+      "word": "男子把反传销做成敲诈勒索的生意",
+      "onboard_time": 1725573011,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 46770,
-      "num": 56654,
+      "raw_hot": 58075,
+      "num": 67070,
       "word": "龙傲天你真是出息了",
       "onboard_time": 1725559633,
       "rank": 29,
@@ -475,6 +483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 37064,
+      "num": 37064,
+      "word": "台风摩羯",
+      "onboard_time": 1725492616,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36214,
       "num": 504703,
       "word": "这些常见食品原来都是非洲产",
@@ -483,35 +499,43 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34166,
-      "num": 46717,
+      "raw_hot": 35251,
+      "num": 66480,
       "word": "凡人歌",
       "onboard_time": 1725535759,
       "rank": 47,
       "category": "剧集"
     },
     {
-      "raw_hot": 29994,
-      "num": 36142,
+      "raw_hot": 33140,
+      "num": 66238,
       "word": "为什么暑期档没人能扛剧了",
       "onboard_time": 1725558913,
       "rank": 49,
       "category": "剧集"
     },
     {
-      "raw_hot": 26692,
-      "num": 73976,
-      "word": "男子把反传销做成敲诈勒索的生意",
-      "onboard_time": 1725573011,
-      "rank": 9,
+      "raw_hot": 31746,
+      "num": 37061,
+      "word": "苏醒 我感觉我的腰不对劲",
+      "onboard_time": 1725575113,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 31444,
+      "num": 37059,
+      "word": "孩子闹着要跳楼其实是向父母求救",
+      "onboard_time": 1725575233,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26412,
-      "num": 36132,
-      "word": "台风摩羯",
-      "onboard_time": 1725492616,
-      "rank": 44,
+      "raw_hot": 29700,
+      "num": 37059,
+      "word": "不给中小学装空调是不是没苦硬吃",
+      "onboard_time": 1725573672,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
