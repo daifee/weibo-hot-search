@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725564903402,
+  "endTime": 1725567737056,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -15387,6 +15387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20592,
+      "num": 20592,
+      "word": "超强台风摩羯来袭",
+      "onboard_time": 1725566950,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20563,
       "num": 238633,
       "word": "刚开学就被张朝阳种草了量子力学",
@@ -15456,6 +15464,14 @@
       "word": "武汉万物皆可热干",
       "onboard_time": 1725210255,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19450,
+      "num": 19450,
+      "word": "这些非洲味道你品尝过吗",
+      "onboard_time": 1725561792,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -15705,6 +15721,14 @@
       "onboard_time": 1725455362,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7100,
+      "num": 39424,
+      "word": "小木板成了花花新的磨牙棒",
+      "onboard_time": 1725566710,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 6676,
