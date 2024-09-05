@@ -1,6 +1,6 @@
 {
   "startTime": 1725467191451,
-  "endTime": 1725536139177,
+  "endTime": 1725540035743,
   "band_list": [
     {
       "raw_hot": 3590283,
@@ -11,19 +11,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 3410510,
-      "num": 526327,
-      "word": "爱奇艺 花钱看不了",
-      "onboard_time": 1725533659,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2350894,
-      "num": 2350894,
+      "raw_hot": 3448677,
+      "num": 3448677,
       "word": "国足vs日本",
       "onboard_time": 1725454461,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 3410510,
+      "num": 1799192,
+      "word": "爱奇艺 花钱看不了",
+      "onboard_time": 1725533659,
+      "rank": 10,
       "category": "体育"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1346914,
-      "num": 524080,
+      "num": 678102,
       "word": "黄轩什么时候结婚了",
       "onboard_time": 1725524000,
       "rank": 18,
@@ -155,12 +155,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1047207,
+      "num": 1047207,
+      "word": "国足0比6落后日本",
+      "onboard_time": 1725536302,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1040548,
       "num": 519800,
       "word": "三只羊前法务再回应离职",
       "onboard_time": 1725508700,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1037995,
+      "num": 452749,
+      "word": "在朋友圈骂了一年老板发现忘记屏蔽",
+      "onboard_time": 1725538820,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 1037599,
@@ -243,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 910017,
+      "num": 699536,
+      "word": "深圳停课",
+      "onboard_time": 1725536599,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 898988,
       "num": 898988,
       "word": "沈腾做完手术去岳云鹏家通宵打游戏",
@@ -252,7 +276,7 @@
     },
     {
       "raw_hot": 890324,
-      "num": 676041,
+      "num": 789977,
       "word": "刘美含收到男友应聘私信",
       "onboard_time": 1725524659,
       "rank": 6,
@@ -296,6 +320,14 @@
       "word": "谁该为骑行男孩之死负责",
       "onboard_time": 1725498200,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 811853,
+      "num": 811853,
+      "word": "男子教孙女游泳收到游泳馆逐客令",
+      "onboard_time": 1725534321,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -347,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 676416,
+      "num": 676416,
+      "word": "专家称不是银行工资高是老百姓收入低",
+      "onboard_time": 1725533659,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 667928,
       "num": 667928,
       "word": "中方决定给予最不发达国家零关税待遇",
@@ -385,6 +425,14 @@
       "onboard_time": 1725517039,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 639631,
+      "num": 801182,
+      "word": "张婧仪高定",
+      "onboard_time": 1725537560,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 638661,
@@ -449,6 +497,14 @@
       "onboard_time": 1725513380,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 579787,
+      "num": 579787,
+      "word": "宁艺卓emoji",
+      "onboard_time": 1725536180,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 565386,
@@ -771,14 +827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 322574,
-      "num": 322574,
-      "word": "专家称不是银行工资高是老百姓收入低",
-      "onboard_time": 1725533659,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 318411,
       "num": 184937,
       "word": "余宇涵回应聊天记录",
@@ -1059,12 +1107,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224933,
+      "num": 224933,
+      "word": "国足落后",
+      "onboard_time": 1725534680,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221885,
       "num": 221885,
       "word": "陈梦姥姥手捧鲜花接机",
       "onboard_time": 1725514040,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 218901,
+      "num": 218901,
+      "word": "当月薪3千和月薪5万交换午饭",
+      "onboard_time": 1725537981,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 217036,
@@ -1224,14 +1288,6 @@
       "word": "远藤航进球",
       "onboard_time": 1725534620,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 196669,
-      "num": 196669,
-      "word": "国足落后",
-      "onboard_time": 1725534680,
-      "rank": 34,
       "category": "体育"
     },
     {
@@ -1507,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180278,
+      "num": 180278,
+      "word": "花钱看输球",
+      "onboard_time": 1725538820,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179535,
       "num": 179535,
       "word": "我怀疑他们妒忌猫的一房一厅",
@@ -1529,6 +1593,14 @@
       "onboard_time": 1725531439,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178285,
+      "num": 232685,
+      "word": "刘亦菲牛仔裤配高跟鞋",
+      "onboard_time": 1725537500,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 178187,
@@ -1619,12 +1691,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172266,
+      "num": 172266,
+      "word": "谷爱凌从天才少女到双面人谷圣",
+      "onboard_time": 1725536720,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171667,
       "num": 171667,
       "word": "马龙樊振东王楚钦唱奔跑",
       "onboard_time": 1725530419,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171351,
+      "num": 171351,
+      "word": "今晚下调油价",
+      "onboard_time": 1725530659,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170808,
@@ -1955,6 +2043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144972,
+      "num": 144972,
+      "word": "范志毅怒斥国足",
+      "onboard_time": 1725539902,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144565,
       "num": 137581,
       "word": "辛巴再度质疑卢文庆",
@@ -2003,6 +2099,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142069,
+      "num": 142069,
+      "word": "澳大利亚0比1巴林",
+      "onboard_time": 1725539602,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 142052,
+      "num": 142052,
+      "word": "爱奇艺崩了",
+      "onboard_time": 1725538640,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139820,
       "num": 139820,
       "word": "六大行个人房贷缩水超3000亿",
@@ -2033,6 +2145,14 @@
       "onboard_time": 1725520939,
       "rank": 46,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 138470,
+      "num": 138470,
+      "word": "国足首战日本能否出奇迹",
+      "onboard_time": 1725538940,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 136777,
@@ -2073,6 +2193,14 @@
       "onboard_time": 1725508881,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 134857,
+      "num": 134857,
+      "word": "乐平古戏台三绝",
+      "onboard_time": 1725537679,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 134379,
@@ -2139,14 +2267,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 130305,
-      "num": 486345,
-      "word": "男子教孙女游泳收到游泳馆逐客令",
-      "onboard_time": 1725534321,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130130,
       "num": 130130,
       "word": "辛巴近7天卖蟹销售额是小杨哥2倍",
@@ -2168,6 +2288,14 @@
       "word": "杨威晒15岁儿子近况",
       "onboard_time": 1725462081,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 126337,
+      "num": 126337,
+      "word": "国足连续6场比赛失球",
+      "onboard_time": 1725539966,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -2233,6 +2361,14 @@
       "onboard_time": 1725489254,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114499,
+      "num": 150038,
+      "word": "山姆盒装牛奶外附着黑色虫卵",
+      "onboard_time": 1725537981,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113687,
@@ -2539,11 +2675,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 63502,
+      "num": 1322426,
+      "word": "这些常见食品原来都是非洲产",
+      "onboard_time": 1725539180,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58699,
       "num": 275328,
       "word": "六大行个人房贷减少超3200亿",
       "onboard_time": 1725523819,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53144,
+      "num": 745023,
+      "word": "校方回应让学生和老师兼当宿管员",
+      "onboard_time": 1725538218,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2867,6 +3019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21943,
+      "num": 711617,
+      "word": "Anyma电音之神来上海了",
+      "onboard_time": 1725537199,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 21123,
       "num": 22256,
       "word": "边水往事",
@@ -2931,6 +3091,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 9466,
+      "num": 764655,
+      "word": "文化中国行看世界灌溉工程遗产",
+      "onboard_time": 1725539780,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8231,
+      "num": 773998,
+      "word": "青春红岩",
+      "onboard_time": 1725539902,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 8137,
       "num": 532388,
       "word": "致敬残奥赛场每一个不屈的灵魂",
@@ -2962,6 +3138,9 @@
     },
     {
       "word": "#中国同所有非洲建交国提升到战略关系#"
+    },
+    {
+      "word": "#中非携手推进现代化十大伙伴行动#"
     }
   ]
 }
