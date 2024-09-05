@@ -1,0 +1,410 @@
+{
+  "runTime": 1725518571151,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1945220,
+        "num": 1945220,
+        "word": "王楚钦橘发",
+        "onboard_time": 1725508759,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 554948,
+        "num": 554948,
+        "word": "中介称马斯克1.5亿美元在北京买房",
+        "onboard_time": 1725517399,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18876,
+        "num": 548911,
+        "word": "中非现代化之路",
+        "onboard_time": 1725508279,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1544121,
+        "num": 528215,
+        "word": "戚薇北大上学",
+        "onboard_time": 1725514579,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 711484,
+        "num": 512490,
+        "word": "周雨彤 陈好",
+        "onboard_time": 1725512780,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 555411,
+        "num": 500688,
+        "word": "96年负二代靠卖收纳小物年入6亿",
+        "onboard_time": 1725512301,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491277,
+        "num": 491277,
+        "word": "但拓 假死",
+        "onboard_time": 1725515300,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 453036,
+        "num": 453036,
+        "word": "广东多地紧急停课",
+        "onboard_time": 1725511941,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306519,
+        "num": 306519,
+        "word": "沈腾做完手术去岳云鹏家通宵打游戏",
+        "onboard_time": 1725508640,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11823,
+        "num": 298154,
+        "word": "黄牛还能给老赖买高铁票机票",
+        "onboard_time": 1725518479,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456304,
+        "num": 297962,
+        "word": "全女综就是不用避讳痛经",
+        "onboard_time": 1725516800,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375042,
+        "num": 297337,
+        "word": "厦门航空杂志疑刊登代孕广告",
+        "onboard_time": 1725513380,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295879,
+        "num": 295879,
+        "word": "时尚芭莎孙颖莎红衣登场预告",
+        "onboard_time": 1725502159,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269010,
+        "num": 269010,
+        "word": "黄牛用软件不到1秒钟抢到票",
+        "onboard_time": 1725506058,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264377,
+        "num": 264377,
+        "word": "杨紫听了都得懵一秒",
+        "onboard_time": 1725513741,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256862,
+        "num": 256862,
+        "word": "体内的卢昱晓压不住了",
+        "onboard_time": 1725513621,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262120,
+        "num": 256688,
+        "word": "柳岩 不化妆就可以认不出来",
+        "onboard_time": 1725512720,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87623,
+        "num": 256660,
+        "word": "没有事业心为什么要北漂",
+        "onboard_time": 1725518360,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210173,
+        "num": 256299,
+        "word": "台风摩羯预计明天登陆海南广东一带",
+        "onboard_time": 1725498141,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12102,
+        "num": 256157,
+        "word": "女子2年被家暴16次案新进展",
+        "onboard_time": 1725518420,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161355,
+        "num": 255899,
+        "word": "广州最高气温将断崖式下降",
+        "onboard_time": 1725516561,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1975266,
+        "num": 255860,
+        "word": "男子因女生内裤掉头上气到报警",
+        "onboard_time": 1725515961,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 932611,
+        "num": 255612,
+        "word": "女子自拍40条淫秽视频倒罚1万5",
+        "onboard_time": 1725478932,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497053,
+        "num": 255435,
+        "word": "印度女子勒死6天大女儿",
+        "onboard_time": 1725505878,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426588,
+        "num": 255269,
+        "word": "三只羊前法务再回应离职",
+        "onboard_time": 1725508700,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 23180,
+        "num": 254964,
+        "word": "户外新手的冲锋衣怎么选",
+        "onboard_time": 1725516319,
+        "rank": 25,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 307229,
+        "num": 254768,
+        "word": "中学食堂15元配菜只有米饭和丸子",
+        "onboard_time": 1725509001,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254718,
+        "num": 254718,
+        "word": "马龙也在看边水往事",
+        "onboard_time": 1725513678,
+        "rank": 27,
+        "category": "体育,剧集"
+      },
+      {
+        "raw_hot": 223042,
+        "num": 223042,
+        "word": "中国历史上最特别的一代人",
+        "onboard_time": 1725514459,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 201988,
+        "num": 220222,
+        "word": "周杰伦演唱会抢票",
+        "onboard_time": 1725513799,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 218993,
+        "num": 218993,
+        "word": "山东一书记涉酒驾被查拒不下车",
+        "onboard_time": 1725509480,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206915,
+        "num": 206915,
+        "word": "陈梦姥姥手捧鲜花接机",
+        "onboard_time": 1725514040,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204241,
+        "num": 204241,
+        "word": "市监局回应厦航疑刊登代孕广告",
+        "onboard_time": 1725517520,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200911,
+        "num": 200911,
+        "word": "宠物狗不牵绳吓哭小孩被爷爷摔死",
+        "onboard_time": 1725517639,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194454,
+        "num": 194454,
+        "word": "鹭卓玫瑰酪",
+        "onboard_time": 1725517520,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192950,
+        "num": 192950,
+        "word": "印度女医生遭奸杀事发邦修改法案",
+        "onboard_time": 1725496758,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121808,
+        "num": 191669,
+        "word": "半熟男女好炸裂",
+        "onboard_time": 1725515600,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191464,
+        "num": 191464,
+        "word": "店主被质疑开黄腔后改店名怼网友",
+        "onboard_time": 1725508640,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188475,
+        "num": 188475,
+        "word": "快递小哥打赏女主播欠300万住车里",
+        "onboard_time": 1725517039,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187623,
+        "num": 187623,
+        "word": "欧阳娜娜说自己有点害怕结婚生子",
+        "onboard_time": 1725515719,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186282,
+        "num": 186282,
+        "word": "故宫文创用苹果皮做小挎包",
+        "onboard_time": 1725497840,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 184461,
+        "num": 184461,
+        "word": "贾一凡放饭了",
+        "onboard_time": 1725517581,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184222,
+        "num": 184222,
+        "word": "郑润泽巡演海报",
+        "onboard_time": 1725518120,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176820,
+        "num": 176820,
+        "word": "上海人精神状态已到nextlevel",
+        "onboard_time": 1725516020,
+        "rank": 43,
+        "category": "科学科普,社会新闻"
+      },
+      {
+        "raw_hot": 176184,
+        "num": 176184,
+        "word": "三只羊",
+        "onboard_time": 1725511642,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 162751,
+        "num": 162751,
+        "word": "妻子被继子打伤丈夫袖手旁观后诉离婚",
+        "onboard_time": 1725513260,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159455,
+        "num": 159455,
+        "word": "台风",
+        "onboard_time": 1725448699,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158313,
+        "num": 158313,
+        "word": "101岁太奶奶给孙媳妇摸肚看胎位",
+        "onboard_time": 1725515120,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154536,
+        "num": 154536,
+        "word": "男孩骑行被碾身亡案司机律师回应",
+        "onboard_time": 1725513440,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153886,
+        "num": 153886,
+        "word": "厦航回应航空杂志疑含代孕广告",
+        "onboard_time": 1725514400,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席中非合作论坛北京峰会开幕式#"
+    }
+  }
+}
