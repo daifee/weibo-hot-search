@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/06 02:40:59
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/06 03:17:13
 </p>
 </blockquote>
 <p>
@@ -10665,6 +10665,12 @@ SKII新品成分表第一位（热度：43996）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%AA%E8%AF%BB%E7%88%B8%E7%88%B8%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%9B%A0%E7%8E%B0%E5%AE%9E%E6%94%BE%E5%BC%83%E5%85%A5%E5%AD%A6%23" target="weibo">
+陪读爸爸考上大学因现实放弃入学（热度：41323）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%83%E6%97%AC%E8%80%81%E4%BA%BA%E5%8A%9D%E9%98%BB%E5%B8%A6%E7%94%B5%E6%B1%A0%E4%B8%8A%E6%A5%BC%E8%A2%AB%E6%8E%A8%E5%80%92%23" target="weibo">
 七旬老人劝阻带电池上楼被推倒（热度：41311）
 </a>
@@ -10919,12 +10925,6 @@ ChinaHotel把外国人惊成表情包（热度：40625）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%89%80%E8%A5%BF%E5%8C%97%E5%8E%BF%E4%B8%AD%E4%BD%95%E4%BB%A5%E8%80%83%E5%87%BA6%E5%90%8D%E6%B8%85%E5%8C%97%E7%94%9F%23" target="weibo">
 一所西北县中何以考出6名清北生（热度：35835）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%AA%E8%AF%BB%E7%88%B8%E7%88%B8%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%9B%A0%E7%8E%B0%E5%AE%9E%E6%94%BE%E5%BC%83%E5%85%A5%E5%AD%A6%23" target="weibo">
-陪读爸爸考上大学因现实放弃入学（热度：35835）
 </a>
 </li>
 
@@ -11717,6 +11717,12 @@ TI13小组赛（热度：16539）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2380%E5%B9%B4%E4%BB%A3%E7%8E%8B%E5%9D%9A%E8%A2%AB%E5%91%8A%E7%9F%A5AI%E5%B0%86%E6%9C%89%E5%A4%A7%E5%8F%98%E9%9D%A9%23" target="weibo">
 80年代王坚被告知AI将有大变革（热度：14279）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%B8%A9%E6%8C%81%E7%BB%AD%E4%BD%A0%E8%A7%89%E5%BE%97%E5%BA%94%E7%BB%A7%E7%BB%AD%E5%BB%B6%E8%BF%9F%E8%BF%94%E6%A0%A1%E5%90%97%23" target="weibo">
+高温持续你觉得应继续延迟返校吗（热度：14220）
 </a>
 </li>
 

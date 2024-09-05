@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/06 00:27:10 ~ 2024/09/06 02:40:59
+本榜单时间：2024/09/06 00:27:10 ~ 2024/09/06 03:17:13
 </p>
 </blockquote>
 <p>
@@ -345,6 +345,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%AA%E8%AF%BB%E7%88%B8%E7%88%B8%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%9B%A0%E7%8E%B0%E5%AE%9E%E6%94%BE%E5%BC%83%E5%85%A5%E5%AD%A6%23" target="weibo">
+陪读爸爸考上大学因现实放弃入学（热度：41323）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E9%BB%91%E5%A4%A7%E8%A1%A3%E7%9A%AE%E8%A3%A4%23" target="weibo">
 张凌赫黑大衣皮裤（热度：40708）
 </a>
@@ -369,12 +375,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%AA%E8%AF%BB%E7%88%B8%E7%88%B8%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%9B%A0%E7%8E%B0%E5%AE%9E%E6%94%BE%E5%BC%83%E5%85%A5%E5%AD%A6%23" target="weibo">
-陪读爸爸考上大学因现实放弃入学（热度：35835）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%A1%E4%BA%BA%E6%AD%8C%23" target="weibo">
 凡人歌（热度：31233）
 </a>
@@ -395,6 +395,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E5%BF%B5%E4%B9%A6%E5%8F%8C%E8%83%9E%E8%83%8E%E5%BC%9F%E5%BC%9F%E6%83%85%E7%BB%AA%E4%BB%B7%E5%80%BC%E6%8B%89%E6%BB%A1%23" target="weibo">
 姐姐念书双胞胎弟弟情绪价值拉满（热度：15490）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%B8%A9%E6%8C%81%E7%BB%AD%E4%BD%A0%E8%A7%89%E5%BE%97%E5%BA%94%E7%BB%A7%E7%BB%AD%E5%BB%B6%E8%BF%9F%E8%BF%94%E6%A0%A1%E5%90%97%23" target="weibo">
+高温持续你觉得应继续延迟返校吗（热度：14220）
 </a>
 </li>
 
