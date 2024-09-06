@@ -1,6 +1,6 @@
 {
   "startTime": 1725640058523,
-  "endTime": 1725661208334,
+  "endTime": 1725662372107,
   "band_list": [
     {
       "raw_hot": 1361759,
@@ -187,6 +187,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 206655,
+      "num": 177029,
+      "word": "海南动员38周以上孕妇住院待产",
+      "onboard_time": 1725635842,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202636,
       "num": 213798,
       "word": "摩羯成史上登陆我国最强秋台风",
@@ -209,14 +217,6 @@
       "onboard_time": 1725638779,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 177029,
-      "num": 177029,
-      "word": "海南动员38周以上孕妇住院待产",
-      "onboard_time": 1725635842,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174281,
@@ -257,6 +257,14 @@
       "onboard_time": 1725636799,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 157858,
+      "num": 157858,
+      "word": "台风摩羯登陆瞬间",
+      "onboard_time": 1725646693,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155943,
@@ -323,11 +331,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121907,
-      "num": 121907,
-      "word": "台风摩羯登陆瞬间",
-      "onboard_time": 1725646693,
-      "rank": 46,
+      "raw_hot": 121258,
+      "num": 121258,
+      "word": "台风摩羯已致菲律宾16人死亡",
+      "onboard_time": 1725653591,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -419,14 +427,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 96894,
-      "num": 96894,
-      "word": "台风摩羯已致菲律宾16人死亡",
-      "onboard_time": 1725653591,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 95952,
       "num": 95952,
       "word": "为什么女性比男性更容易失眠",
@@ -475,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69809,
+      "num": 55767,
+      "word": "连皇上皇后来了都得过安检",
+      "onboard_time": 1725644654,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 62799,
       "num": 81253,
       "word": "波尔说王楚钦是未来之星",
@@ -483,20 +491,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53604,
+      "num": 55835,
+      "word": "孙千这段不像演的",
+      "onboard_time": 1725660132,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 47952,
-      "num": 47952,
+      "num": 55826,
       "word": "田曦薇 主动破冰的小蝴蝶",
       "onboard_time": 1725648614,
       "rank": 44,
       "category": "剧集"
     },
     {
-      "raw_hot": 46295,
-      "num": 43381,
-      "word": "连皇上皇后来了都得过安检",
-      "onboard_time": 1725644654,
-      "rank": 38,
-      "category": "幽默"
+      "raw_hot": 46656,
+      "num": 46656,
+      "word": "脚跟干裂的人排查4种病",
+      "onboard_time": 1725662352,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 43027,
+      "num": 43027,
+      "word": "西部战区辟谣",
+      "onboard_time": 1725660493,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 40114,
@@ -507,36 +531,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 31369,
-      "num": 43394,
-      "word": "孙千这段不像演的",
-      "onboard_time": 1725660132,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 24287,
-      "num": 53525,
-      "word": "古人的极繁风大金链子颠覆认知了",
-      "onboard_time": 1725654071,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23501,
-      "num": 29553,
+      "raw_hot": 32701,
+      "num": 34303,
       "word": "难道熊猫越小魅力越大",
       "onboard_time": 1725660071,
       "rank": 47,
       "category": "幽默"
     },
     {
-      "raw_hot": 23318,
-      "num": 29541,
-      "word": "西部战区辟谣",
-      "onboard_time": 1725660493,
-      "rank": 48,
-      "category": "国内时政"
+      "raw_hot": 28194,
+      "num": 53525,
+      "word": "古人的极繁风大金链子颠覆认知了",
+      "onboard_time": 1725654071,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21442,
