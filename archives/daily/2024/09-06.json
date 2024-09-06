@@ -1,6 +1,6 @@
 {
   "startTime": 1725553630734,
-  "endTime": 1725604174681,
+  "endTime": 1725604962000,
   "band_list": [
     {
       "raw_hot": 4487136,
@@ -211,7 +211,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 724309,
+      "raw_hot": 749007,
       "num": 269956,
       "word": "第一次见女演员打架两眼放光",
       "onboard_time": 1725601280,
@@ -483,12 +483,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 303679,
+      "num": 262089,
+      "word": "男子为发泄一夜放了5把火",
+      "onboard_time": 1725600799,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298095,
       "num": 258775,
       "word": "孩子闹着要跳楼其实是向父母求救",
       "onboard_time": 1725575233,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295293,
+      "num": 295293,
+      "word": "WPS崩了",
+      "onboard_time": 1725604880,
+      "rank": 7,
+      "category": "互联网"
     },
     {
       "raw_hot": 284752,
@@ -521,6 +537,14 @@
       "onboard_time": 1725592940,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 272762,
+      "num": 290843,
+      "word": "刘诗诗转发支持于莎莎",
+      "onboard_time": 1725602420,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 268263,
@@ -612,10 +636,18 @@
     },
     {
       "raw_hot": 244618,
-      "num": 244618,
+      "num": 267822,
       "word": "摩羯登陆强度直逼威马逊",
       "onboard_time": 1725596781,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241765,
+      "num": 269272,
+      "word": "我医保的钱可以给家人用吗",
+      "onboard_time": 1725602718,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -643,12 +675,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 238178,
+      "num": 238178,
+      "word": "白鹿EP价格",
+      "onboard_time": 1725599360,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 236836,
       "num": 341983,
       "word": "阎鹤祥 现挂之王",
       "onboard_time": 1725600380,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236412,
+      "num": 272504,
+      "word": "林俊杰谭松韵同框合照",
+      "onboard_time": 1725601821,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 236187,
@@ -659,14 +707,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 231985,
-      "num": 231985,
-      "word": "男子为发泄一夜放了5把火",
-      "onboard_time": 1725600799,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228496,
       "num": 228496,
       "word": "直观感受到了衣服是需要熨烫的",
@@ -675,11 +715,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 228024,
-      "num": 228024,
-      "word": "白鹿EP价格",
-      "onboard_time": 1725599360,
-      "rank": 41,
+      "raw_hot": 225972,
+      "num": 225972,
+      "word": "胡兵53岁比35岁还要帅",
+      "onboard_time": 1725604219,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 225217,
+      "num": 225217,
+      "word": "十个勤天我成为我的同时",
+      "onboard_time": 1725603919,
+      "rank": 42,
       "category": "音乐"
     },
     {
@@ -696,6 +744,14 @@
       "word": "丫丫抱着小篮子",
       "onboard_time": 1725586458,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217239,
+      "num": 290784,
+      "word": "海南人为了防台风有多努力",
+      "onboard_time": 1725602360,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -755,20 +811,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 204093,
-      "num": 204093,
-      "word": "我医保的钱可以给家人用吗",
-      "onboard_time": 1725602718,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202854,
       "num": 202854,
       "word": "樊振东学会享受孤独学会和自己和解",
       "onboard_time": 1725593541,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201454,
+      "num": 288314,
+      "word": "广东人非必要不出门",
+      "onboard_time": 1725601880,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200635,
@@ -859,6 +915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 190420,
+      "num": 190420,
+      "word": "芬兰大学食堂吃什么",
+      "onboard_time": 1725602241,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 188519,
       "num": 449530,
       "word": "小鹿的婚礼段子",
@@ -873,6 +937,14 @@
       "onboard_time": 1725596660,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183310,
+      "num": 183310,
+      "word": "工美大师向黑神话悟空发律师函",
+      "onboard_time": 1725603980,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 182899,
@@ -907,16 +979,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 179586,
-      "num": 290843,
-      "word": "刘诗诗转发支持于莎莎",
-      "onboard_time": 1725602420,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 179483,
-      "num": 175490,
+      "num": 258738,
       "word": "阎鹤祥代表作少爷和我",
       "onboard_time": 1725601581,
       "rank": 40,
@@ -929,6 +993,14 @@
       "onboard_time": 1725600199,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178589,
+      "num": 277386,
+      "word": "海口气象台回应为何把自家大门焊上",
+      "onboard_time": 1725602781,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178350,
@@ -979,14 +1051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173015,
-      "num": 173015,
-      "word": "海南人为了防台风有多努力",
-      "onboard_time": 1725602360,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171281,
       "num": 171281,
       "word": "中国空军埃及航展经典动作大赏",
@@ -1003,20 +1067,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170063,
+      "num": 170063,
+      "word": "电影狂野时代首发剧照",
+      "onboard_time": 1725604460,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 168308,
       "num": 168308,
       "word": "美网萨巴伦卡晋级决赛",
       "onboard_time": 1725586040,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167473,
-      "num": 167473,
-      "word": "十个勤天我成为我的同时",
-      "onboard_time": 1725603919,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 166662,
@@ -1115,14 +1179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158490,
-      "num": 158490,
-      "word": "工美大师向黑神话悟空发律师函",
-      "onboard_time": 1725603980,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 157314,
       "num": 157314,
       "word": "特朗普称乌克兰谎报阵亡人数",
@@ -1137,6 +1193,14 @@
       "onboard_time": 1725583221,
       "rank": 42,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 156851,
+      "num": 156851,
+      "word": "黑神话联机模式",
+      "onboard_time": 1725604340,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 155048,
@@ -1171,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151957,
+      "num": 192053,
+      "word": "嗨放派3新浪扫楼",
+      "onboard_time": 1725604519,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151171,
       "num": 151171,
       "word": "日本球迷说没想到中国真这么弱",
@@ -1195,14 +1267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148825,
-      "num": 148825,
-      "word": "芬兰大学食堂吃什么",
-      "onboard_time": 1725602241,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 148338,
       "num": 158413,
       "word": "秋瓷炫带六岁儿子做紫菜包饭",
@@ -1217,14 +1281,6 @@
       "onboard_time": 1725593179,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148000,
-      "num": 271453,
-      "word": "林俊杰谭松韵同框合照",
-      "onboard_time": 1725601821,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 147608,
@@ -1427,14 +1483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109769,
-      "num": 288314,
-      "word": "广东人非必要不出门",
-      "onboard_time": 1725601880,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109302,
       "num": 183451,
       "word": "陈好 就事论事",
@@ -1448,14 +1496,6 @@
       "word": "导游改行程致游客10级伤残谁担责",
       "onboard_time": 1725591739,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 103036,
-      "num": 277386,
-      "word": "海口气象台回应为何把自家大门焊上",
-      "onboard_time": 1725602781,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1569,6 +1609,14 @@
       "onboard_time": 1725537981,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 72826,
+      "num": 225995,
+      "word": "偏偏九条命最争气",
+      "onboard_time": 1725604939,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 72786,
@@ -1715,6 +1763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30053,
+      "num": 274800,
+      "word": "水果盆栽成热门打卡点",
+      "onboard_time": 1725604880,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28437,
       "num": 390901,
       "word": "偷骑行女子手机两嫌疑人到案",
@@ -1724,7 +1780,7 @@
     },
     {
       "raw_hot": 25944,
-      "num": 270118,
+      "num": 270948,
       "word": "林更新的衬衫纽扣会发光",
       "onboard_time": 1725603199,
       "rank": 18,
