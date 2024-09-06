@@ -1,0 +1,410 @@
+{
+  "runTime": 1725591336046,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1367871,
+        "num": 1367871,
+        "word": "孙颖莎杂志销量",
+        "onboard_time": 1725589879,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 979126,
+        "num": 979126,
+        "word": "台风摩羯把降雨图变红了",
+        "onboard_time": 1725583879,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12348,
+        "num": 914546,
+        "word": "这些常见食品原来都是非洲产",
+        "onboard_time": 1725539180,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 875929,
+        "num": 875929,
+        "word": "曝多名国脚赛后大骂伊万是骗子",
+        "onboard_time": 1725583761,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 724486,
+        "num": 724486,
+        "word": "卤味为什么卖不动了",
+        "onboard_time": 1725584960,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 721201,
+        "num": 721201,
+        "word": "向佐郭碧婷杀进夫妻档大银幕",
+        "onboard_time": 1725590178,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 637193,
+        "num": 637193,
+        "word": "普京表态支持哈里斯",
+        "onboard_time": 1725589879,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 617824,
+        "num": 617824,
+        "word": "您的恶了么订单即将送达",
+        "onboard_time": 1725584899,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 235907,
+        "num": 609190,
+        "word": "摩羯将以17级或更高强度登陆",
+        "onboard_time": 1725589400,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145944,
+        "num": 598981,
+        "word": "月饼卖不动有代工厂做3休1",
+        "onboard_time": 1725589697,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3523464,
+        "num": 598529,
+        "word": "孙颖莎时尚芭莎封面",
+        "onboard_time": 1725589098,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 941331,
+        "num": 585662,
+        "word": "美国父亲送枪儿子去学校杀4人",
+        "onboard_time": 1725589760,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 880093,
+        "num": 578798,
+        "word": "退钱哥哽咽了",
+        "onboard_time": 1725581420,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 570612,
+        "num": 570612,
+        "word": "网红小英莫遗体被找到",
+        "onboard_time": 1725540983,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 514207,
+        "num": 514207,
+        "word": "刘诗诗郑秀晶朱珠同框",
+        "onboard_time": 1725586338,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 512081,
+        "num": 512081,
+        "word": "汪苏泷 女友",
+        "onboard_time": 1725540502,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471554,
+        "num": 471554,
+        "word": "国足主帅回应0比7惨败",
+        "onboard_time": 1725579799,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 470865,
+        "num": 470865,
+        "word": "拜登儿子认罪了",
+        "onboard_time": 1725580519,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 454131,
+        "num": 454131,
+        "word": "陈好来花少渡劫",
+        "onboard_time": 1725585320,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404035,
+        "num": 404035,
+        "word": "中国可重复使用试验航天器成功着陆",
+        "onboard_time": 1725589760,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 620766,
+        "num": 400862,
+        "word": "女子对声音敏感要求邻居晚上不用马桶",
+        "onboard_time": 1725582679,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387283,
+        "num": 387283,
+        "word": "三只羊 辛巴",
+        "onboard_time": 1725548722,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 350109,
+        "num": 350109,
+        "word": "男子欲提醒女子手机被偷遭扒手威胁",
+        "onboard_time": 1725580699,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315119,
+        "num": 315119,
+        "word": "彭昱畅 吴谨言你看看我",
+        "onboard_time": 1725588799,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299905,
+        "num": 299905,
+        "word": "国足0比7日本",
+        "onboard_time": 1725540444,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238205,
+        "num": 238205,
+        "word": "台风",
+        "onboard_time": 1725448699,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230050,
+        "num": 230050,
+        "word": "普京称已准备好与乌克兰谈判",
+        "onboard_time": 1725587480,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 224311,
+        "num": 224311,
+        "word": "摩羯或为近10年登陆琼粤的最强台风",
+        "onboard_time": 1725587480,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219646,
+        "num": 219646,
+        "word": "全欧洲都知道国足0比7了",
+        "onboard_time": 1725546563,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197904,
+        "num": 197904,
+        "word": "陪读爸爸考上大学因现实放弃入学",
+        "onboard_time": 1725559273,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197710,
+        "num": 197710,
+        "word": "一个高中生和她拍下的117根手指",
+        "onboard_time": 1725591141,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194821,
+        "num": 194821,
+        "word": "丫丫抱着小篮子",
+        "onboard_time": 1725586458,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193132,
+        "num": 193132,
+        "word": "辛巴晒1亿元转账单",
+        "onboard_time": 1725546023,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 191165,
+        "num": 191165,
+        "word": "国足",
+        "onboard_time": 1725578776,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163001,
+        "num": 186359,
+        "word": "白鹿新专辑MyOdyssey",
+        "onboard_time": 1725590000,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152389,
+        "num": 183007,
+        "word": "赵今麦灰裙黑长直",
+        "onboard_time": 1725584659,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182688,
+        "num": 182688,
+        "word": "时尚芭莎总监谈孙颖莎",
+        "onboard_time": 1725591079,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170330,
+        "num": 170330,
+        "word": "辛巴和三只羊纷争升级",
+        "onboard_time": 1725591199,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 166249,
+        "num": 166249,
+        "word": "尹净汉金发",
+        "onboard_time": 1725590959,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163928,
+        "num": 163928,
+        "word": "世界倒数第一赢球了",
+        "onboard_time": 1725587719,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153884,
+        "num": 153884,
+        "word": "爸妈夸985哥哥成绩好弟弟反感厌学",
+        "onboard_time": 1725589760,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153513,
+        "num": 153513,
+        "word": "摩羯最新情况",
+        "onboard_time": 1725588019,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152289,
+        "num": 152289,
+        "word": "金玟庭郑秀晶同框照",
+        "onboard_time": 1725584003,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147544,
+        "num": 147544,
+        "word": "C罗900球",
+        "onboard_time": 1725590840,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147273,
+        "num": 147273,
+        "word": "张元英高光",
+        "onboard_time": 1725549442,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145529,
+        "num": 145529,
+        "word": "月饼代工厂开始做3休1",
+        "onboard_time": 1725589879,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143482,
+        "num": 143482,
+        "word": "阿根廷3比0智利",
+        "onboard_time": 1725589400,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141730,
+        "num": 141730,
+        "word": "张凌赫男模回归",
+        "onboard_time": 1725587418,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140064,
+        "num": 140064,
+        "word": "吉利星座03组卫星成功发射",
+        "onboard_time": 1725588380,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136791,
+        "num": 136791,
+        "word": "台风摩羯爆发式增强1天连跳三级",
+        "onboard_time": 1725546563,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中非携手推进现代化十大伙伴行动#"
+    }
+  }
+}

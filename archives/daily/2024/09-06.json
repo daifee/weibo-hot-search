@@ -1,6 +1,6 @@
 {
   "startTime": 1725553630734,
-  "endTime": 1725590694581,
+  "endTime": 1725591336046,
   "band_list": [
     {
       "raw_hot": 4487136,
@@ -19,6 +19,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1367871,
+      "num": 1367871,
+      "word": "孙颖莎杂志销量",
+      "onboard_time": 1725589879,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1282601,
       "num": 500113,
       "word": "国足0比7日本",
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1185902,
-      "num": 713263,
+      "num": 875929,
       "word": "曝多名国脚赛后大骂伊万是骗子",
       "onboard_time": 1725583761,
       "rank": 5,
@@ -44,10 +52,18 @@
     },
     {
       "raw_hot": 1062287,
-      "num": 378042,
+      "num": 400862,
       "word": "女子对声音敏感要求邻居晚上不用马桶",
       "onboard_time": 1725582679,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 979126,
+      "num": 1149396,
+      "word": "台风摩羯把降雨图变红了",
+      "onboard_time": 1725583879,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -59,11 +75,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 933726,
-      "num": 1149396,
-      "word": "台风摩羯把降雨图变红了",
-      "onboard_time": 1725583879,
-      "rank": 1,
+      "raw_hot": 941331,
+      "num": 585662,
+      "word": "美国父亲送枪儿子去学校杀4人",
+      "onboard_time": 1725589760,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -115,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 721201,
+      "num": 721201,
+      "word": "向佐郭碧婷杀进夫妻档大银幕",
+      "onboard_time": 1725590178,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 704195,
       "num": 255661,
       "word": "范志毅怒斥国足",
@@ -139,12 +163,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 688908,
-      "num": 688908,
-      "word": "孙颖莎杂志销量",
+      "raw_hot": 637193,
+      "num": 637193,
+      "word": "普京表态支持哈里斯",
       "onboard_time": 1725589879,
-      "rank": 4,
-      "category": "体育"
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 636789,
@@ -172,7 +196,7 @@
     },
     {
       "raw_hot": 585785,
-      "num": 377268,
+      "num": 387283,
       "word": "三只羊 辛巴",
       "onboard_time": 1725548722,
       "rank": 23,
@@ -201,14 +225,6 @@
       "onboard_time": 1725581119,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 517527,
-      "num": 517527,
-      "word": "美国父亲送枪儿子去学校杀4人",
-      "onboard_time": 1725589760,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 508871,
@@ -259,20 +275,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 404035,
+      "num": 404035,
+      "word": "中国可重复使用试验航天器成功着陆",
+      "onboard_time": 1725589760,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 389134,
       "num": 235744,
       "word": "退钱哥",
       "onboard_time": 1725542364,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 381901,
-      "num": 381901,
-      "word": "普京表态支持哈里斯",
-      "onboard_time": 1725589879,
-      "rank": 17,
-      "category": "国外时政"
     },
     {
       "raw_hot": 368963,
@@ -283,28 +299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 368788,
-      "num": 368788,
-      "word": "中国可重复使用试验航天器成功着陆",
-      "onboard_time": 1725589760,
-      "rank": 23,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 366115,
       "num": 244788,
       "word": "国足创三大耻辱纪录",
       "onboard_time": 1725541763,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 333961,
-      "num": 380984,
-      "word": "向佐郭碧婷杀进夫妻档大银幕",
-      "onboard_time": 1725590178,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 326806,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 240934,
-      "num": 581296,
+      "num": 609190,
       "word": "摩羯将以17级或更高强度登陆",
       "onboard_time": 1725589400,
       "rank": 8,
@@ -401,6 +401,14 @@
       "onboard_time": 1725542063,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 224311,
+      "num": 224311,
+      "word": "摩羯或为近10年登陆琼粤的最强台风",
+      "onboard_time": 1725587480,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224097,
@@ -416,14 +424,6 @@
       "word": "丫丫抱着小篮子",
       "onboard_time": 1725586458,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 219456,
-      "num": 219456,
-      "word": "摩羯或为近10年登陆琼粤的最强台风",
-      "onboard_time": 1725587480,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -475,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197710,
+      "num": 197710,
+      "word": "一个高中生和她拍下的117根手指",
+      "onboard_time": 1725591141,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192747,
       "num": 233643,
       "word": "白鹿新专辑MyOdyssey",
@@ -488,6 +496,14 @@
       "word": "国足vs日本",
       "onboard_time": 1725532459,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 182688,
+      "num": 182688,
+      "word": "时尚芭莎总监谈孙颖莎",
+      "onboard_time": 1725591079,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -539,12 +555,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170330,
+      "num": 170330,
+      "word": "辛巴和三只羊纷争升级",
+      "onboard_time": 1725591199,
+      "rank": 37,
+      "category": "网红"
+    },
+    {
       "raw_hot": 168308,
       "num": 168308,
       "word": "美网萨巴伦卡晋级决赛",
       "onboard_time": 1725586040,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166249,
+      "num": 166249,
+      "word": "尹净汉金发",
+      "onboard_time": 1725590959,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 165424,
@@ -635,6 +667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 153884,
+      "num": 153884,
+      "word": "爸妈夸985哥哥成绩好弟弟反感厌学",
+      "onboard_time": 1725589760,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152225,
       "num": 152225,
       "word": "受台风摩羯影响香港出现狂风暴雨",
@@ -659,14 +699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148568,
-      "num": 148568,
-      "word": "爸妈夸985哥哥成绩好弟弟反感厌学",
-      "onboard_time": 1725589760,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148338,
       "num": 158413,
       "word": "秋瓷炫带六岁儿子做紫菜包饭",
@@ -675,12 +707,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147544,
+      "num": 147544,
+      "word": "C罗900球",
+      "onboard_time": 1725590840,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146070,
       "num": 146070,
       "word": "阿根廷3比0智利",
       "onboard_time": 1725589400,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145944,
+      "num": 598981,
+      "word": "月饼卖不动有代工厂做3休1",
+      "onboard_time": 1725589697,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142366,
@@ -784,14 +832,6 @@
       "word": "山姆盒装牛奶外附着黑色虫卵",
       "onboard_time": 1725537981,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120097,
-      "num": 575697,
-      "word": "月饼卖不动有代工厂做3休1",
-      "onboard_time": 1725589697,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -988,7 +1028,7 @@
     },
     {
       "raw_hot": 36214,
-      "num": 718855,
+      "num": 914546,
       "word": "这些常见食品原来都是非洲产",
       "onboard_time": 1725539180,
       "rank": 2,
