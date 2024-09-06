@@ -1,6 +1,6 @@
 {
   "startTime": 1725553630734,
-  "endTime": 1725626361671,
+  "endTime": 1725627306972,
   "band_list": [
     {
       "raw_hot": 4487136,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1524880,
+      "num": 1524880,
+      "word": "赵露思宝格丽生图",
+      "onboard_time": 1725624622,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1472302,
       "num": 568681,
       "word": "苹果将放行微信版本更新",
@@ -65,14 +73,6 @@
       "onboard_time": 1725581420,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1432337,
-      "num": 1432337,
-      "word": "赵露思宝格丽生图",
-      "onboard_time": 1725624622,
-      "rank": 1,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1367871,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 1062803,
-      "num": 223845,
+      "num": 299223,
       "word": "小杨哥",
       "onboard_time": 1725623961,
       "rank": 21,
@@ -233,6 +233,14 @@
       "onboard_time": 1725583879,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 962762,
+      "num": 962762,
+      "word": "汪峰难听",
+      "onboard_time": 1725625880,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 956517,
@@ -595,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 445639,
-      "num": 445639,
-      "word": "汪峰难听",
-      "onboard_time": 1725625880,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 441941,
       "num": 441941,
       "word": "台风摩羯影响至少持续2到3天",
@@ -649,6 +649,14 @@
       "onboard_time": 1725584003,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 410072,
+      "num": 410072,
+      "word": "刘亦菲出席活动红毯生图",
+      "onboard_time": 1725625703,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 404035,
@@ -715,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357098,
+      "num": 357098,
+      "word": "石洵瑶3比0蒯曼",
+      "onboard_time": 1725626181,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 349236,
       "num": 349236,
       "word": "胡兵53岁比35岁还要帅",
@@ -755,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 315232,
+      "num": 296404,
+      "word": "女子替朋友熬药中毒身亡判赔23万",
+      "onboard_time": 1725625521,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314117,
       "num": 314117,
       "word": "一个高中生和她拍下的117根手指",
@@ -768,6 +792,14 @@
       "word": "男子教孙女游泳收到游泳馆逐客令",
       "onboard_time": 1725534321,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305078,
+      "num": 305078,
+      "word": "文昌一秒天黑",
+      "onboard_time": 1725621859,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -803,12 +835,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292460,
+      "num": 292460,
+      "word": "波尔说王楚钦是未来之星",
+      "onboard_time": 1725625220,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 290275,
       "num": 268129,
       "word": "刘诗诗采访玩手机",
       "onboard_time": 1725610820,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 287977,
+      "num": 287977,
+      "word": "这房子十年后都得是九成新的",
+      "onboard_time": 1725622701,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 284752,
@@ -851,20 +899,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 270104,
+      "num": 270104,
+      "word": "苏运莹摔倒",
+      "onboard_time": 1725626960,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268263,
       "num": 258107,
       "word": "特朗普回应普京称支持哈里斯",
       "onboard_time": 1725595042,
       "rank": 35,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 267028,
-      "num": 267028,
-      "word": "刘亦菲出席活动红毯生图",
-      "onboard_time": 1725625703,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 266586,
@@ -915,6 +963,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 257244,
+      "num": 257244,
+      "word": "赵露思工作室出图",
+      "onboard_time": 1725625159,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 256656,
       "num": 466845,
       "word": "郭麒麟被当面造谣",
@@ -955,12 +1011,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 248340,
-      "num": 222152,
-      "word": "这房子十年后都得是九成新的",
-      "onboard_time": 1725622701,
-      "rank": 22,
-      "category": "幽默"
+      "raw_hot": 247644,
+      "num": 247644,
+      "word": "国足低调回国",
+      "onboard_time": 1725624741,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 245213,
@@ -1019,14 +1075,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 239910,
-      "num": 239910,
-      "word": "文昌一秒天黑",
-      "onboard_time": 1725621859,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238178,
       "num": 238178,
       "word": "白鹿EP价格",
@@ -1075,14 +1123,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 233096,
-      "num": 233096,
-      "word": "石洵瑶3比0蒯曼",
-      "onboard_time": 1725626181,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 232732,
       "num": 327807,
       "word": "赵露思盘发黑色长裙",
@@ -1105,6 +1145,14 @@
       "onboard_time": 1725598880,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 226269,
+      "num": 226269,
+      "word": "小米宣布人事调整",
+      "onboard_time": 1725626240,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 225217,
@@ -1177,14 +1225,6 @@
       "onboard_time": 1725615619,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 213216,
-      "num": 213216,
-      "word": "波尔说王楚钦是未来之星",
-      "onboard_time": 1725625220,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 212637,
@@ -1371,20 +1411,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 196028,
-      "num": 196028,
-      "word": "女子替朋友熬药中毒身亡判赔23万",
-      "onboard_time": 1725625521,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195381,
       "num": 538357,
       "word": "宋茜超绝松弛感",
       "onboard_time": 1725595459,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193721,
+      "num": 193721,
+      "word": "斗罗2海神缘好甜",
+      "onboard_time": 1725626780,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 193498,
@@ -1457,14 +1497,6 @@
       "onboard_time": 1725596660,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 185318,
-      "num": 205809,
-      "word": "赵露思工作室出图",
-      "onboard_time": 1725625159,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 182976,
@@ -1547,14 +1579,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 178596,
-      "num": 178596,
-      "word": "小米宣布人事调整",
-      "onboard_time": 1725626240,
-      "rank": 35,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 178350,
       "num": 178350,
       "word": "未定事件簿",
@@ -1609,6 +1633,14 @@
       "onboard_time": 1725621260,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174605,
+      "num": 174605,
+      "word": "重返未来1999",
+      "onboard_time": 1725627141,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 174102,
@@ -1793,6 +1825,14 @@
       "onboard_time": 1725604340,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 160003,
+      "num": 160003,
+      "word": "穆祉丞自拍",
+      "onboard_time": 1725626960,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 159474,
@@ -2147,6 +2187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131746,
+      "num": 219128,
+      "word": "酒店预订不可取消谁说了算",
+      "onboard_time": 1725624381,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131127,
       "num": 159730,
       "word": "贺峻霖 成都",
@@ -2395,14 +2443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 84062,
-      "num": 219128,
-      "word": "酒店预订不可取消谁说了算",
-      "onboard_time": 1725624381,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 83969,
       "num": 370913,
       "word": "开学使用频率最高的手机功能",
@@ -2603,6 +2643,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 46357,
+      "num": 159648,
+      "word": "杨天真治好了我的身材焦虑",
+      "onboard_time": 1725623600,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45864,
       "num": 65876,
       "word": "重庆各区县正在研判开学工作事宜",
@@ -2699,14 +2747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38482,
-      "num": 159648,
-      "word": "杨天真治好了我的身材焦虑",
-      "onboard_time": 1725623600,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 37103,
       "num": 448364,
       "word": "华晨宇双向奔富的浪漫",
@@ -2732,7 +2772,7 @@
     },
     {
       "raw_hot": 34119,
-      "num": 1039889,
+      "num": 1123068,
       "word": "中国导游眼中的中非民间交往",
       "onboard_time": 1725611362,
       "rank": 34,
@@ -2767,6 +2807,14 @@
       "num": 274800,
       "word": "水果盆栽成热门打卡点",
       "onboard_time": 1725604880,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29162,
+      "num": 395948,
+      "word": "贵阳一托管机构多名孩子疑似食物中毒",
+      "onboard_time": 1725627201,
       "rank": 14,
       "category": "社会新闻"
     },

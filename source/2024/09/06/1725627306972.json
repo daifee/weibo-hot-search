@@ -1,0 +1,410 @@
+{
+  "runTime": 1725627306972,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1527070,
+        "num": 1527070,
+        "word": "台风摩羯",
+        "onboard_time": 1725606559,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1524880,
+        "num": 1524880,
+        "word": "赵露思宝格丽生图",
+        "onboard_time": 1725624622,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19333,
+        "num": 1123068,
+        "word": "中国导游眼中的中非民间交往",
+        "onboard_time": 1725611362,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 962762,
+        "num": 962762,
+        "word": "汪峰难听",
+        "onboard_time": 1725625880,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 584645,
+        "num": 584645,
+        "word": "摩羯登陆海南文昌",
+        "onboard_time": 1725611540,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471257,
+        "num": 471257,
+        "word": "摩羯将在广东二次登陆",
+        "onboard_time": 1725618020,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756458,
+        "num": 471075,
+        "word": "汪涵怎么突然老了这么多",
+        "onboard_time": 1725617240,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 543002,
+        "num": 470886,
+        "word": "刘亦菲把3000朵花穿在身上",
+        "onboard_time": 1725616819,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 470017,
+        "num": 470017,
+        "word": "文昌",
+        "onboard_time": 1725607878,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384789,
+        "num": 443100,
+        "word": "摩羯成史上登陆我国最强秋台风",
+        "onboard_time": 1725617719,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837800,
+        "num": 441090,
+        "word": "寺庙网红猫咪被香客一拳打飞",
+        "onboard_time": 1725620480,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715494,
+        "num": 440974,
+        "word": "iPhone16定价",
+        "onboard_time": 1725619823,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 438744,
+        "num": 438744,
+        "word": "台风摩羯 眼壁置换",
+        "onboard_time": 1725595580,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410072,
+        "num": 410072,
+        "word": "刘亦菲出席活动红毯生图",
+        "onboard_time": 1725625703,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29162,
+        "num": 395948,
+        "word": "贵阳一托管机构多名孩子疑似食物中毒",
+        "onboard_time": 1725627201,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385355,
+        "num": 385355,
+        "word": "霍思燕 它不是实验犬是掌上明珠",
+        "onboard_time": 1725622100,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357098,
+        "num": 357098,
+        "word": "石洵瑶3比0蒯曼",
+        "onboard_time": 1725626181,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 338954,
+        "num": 338954,
+        "word": "徐正溪发长文谈退圈",
+        "onboard_time": 1725607579,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305078,
+        "num": 305078,
+        "word": "文昌一秒天黑",
+        "onboard_time": 1725621859,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271824,
+        "num": 302999,
+        "word": "秋瓷炫于晓光儿子回中国上学",
+        "onboard_time": 1725618080,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1133928,
+        "num": 300981,
+        "word": "黄多多读的是纽约大学",
+        "onboard_time": 1725621020,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 921820,
+        "num": 299223,
+        "word": "小杨哥",
+        "onboard_time": 1725623961,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 315232,
+        "num": 296404,
+        "word": "女子替朋友熬药中毒身亡判赔23万",
+        "onboard_time": 1725625521,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 666537,
+        "num": 294127,
+        "word": "小杨哥曾叫沫沫媳妇",
+        "onboard_time": 1725619641,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 292460,
+        "num": 292460,
+        "word": "波尔说王楚钦是未来之星",
+        "onboard_time": 1725625220,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287977,
+        "num": 287977,
+        "word": "这房子十年后都得是九成新的",
+        "onboard_time": 1725622701,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 270104,
+        "num": 270104,
+        "word": "苏运莹摔倒",
+        "onboard_time": 1725626960,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257244,
+        "num": 257244,
+        "word": "赵露思工作室出图",
+        "onboard_time": 1725625159,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 256590,
+        "num": 256590,
+        "word": "微信更新",
+        "onboard_time": 1725615079,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 247644,
+        "num": 247644,
+        "word": "国足低调回国",
+        "onboard_time": 1725624741,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226269,
+        "num": 226269,
+        "word": "小米宣布人事调整",
+        "onboard_time": 1725626240,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 200864,
+        "num": 200864,
+        "word": "摩羯海浪把2吨巨石冲走了",
+        "onboard_time": 1725617960,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193721,
+        "num": 193721,
+        "word": "斗罗2海神缘好甜",
+        "onboard_time": 1725626780,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 185231,
+        "num": 185231,
+        "word": "台风",
+        "onboard_time": 1725448699,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174605,
+        "num": 174605,
+        "word": "重返未来1999",
+        "onboard_time": 1725627141,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172997,
+        "num": 172997,
+        "word": "台风摩羯影响至少持续2到3天",
+        "onboard_time": 1725614180,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171680,
+        "num": 171680,
+        "word": "KSG对战AG",
+        "onboard_time": 1725622519,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170783,
+        "num": 170783,
+        "word": "林依晨回应我是成都人",
+        "onboard_time": 1725620840,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160003,
+        "num": 160003,
+        "word": "穆祉丞自拍",
+        "onboard_time": 1725626960,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150222,
+        "num": 150222,
+        "word": "下一战歌手",
+        "onboard_time": 1725624860,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148942,
+        "num": 148942,
+        "word": "知名火锅店被曝掺成本不到10元的假羊肉",
+        "onboard_time": 1725624622,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145129,
+        "num": 145129,
+        "word": "5种食物是低脂陷阱",
+        "onboard_time": 1725616941,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141411,
+        "num": 141411,
+        "word": "永夜星河 妙妙小厨娘",
+        "onboard_time": 1725625821,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141114,
+        "num": 141114,
+        "word": "摩羯中心风力已爆表",
+        "onboard_time": 1725620540,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137857,
+        "num": 137857,
+        "word": "广东徐闻沿海风力9级浪高超6米",
+        "onboard_time": 1725621260,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136695,
+        "num": 136695,
+        "word": "刘亦菲烈焰玫瑰",
+        "onboard_time": 1725609979,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132869,
+        "num": 132869,
+        "word": "铁齿铜牙张艺兴",
+        "onboard_time": 1725621020,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131746,
+        "num": 131746,
+        "word": "酒店预订不可取消谁说了算",
+        "onboard_time": 1725624381,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124887,
+        "num": 124887,
+        "word": "男子为发泄一夜放了5把火",
+        "onboard_time": 1725600799,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46357,
+        "num": 122460,
+        "word": "杨天真治好了我的身材焦虑",
+        "onboard_time": 1725623600,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中非关系正处于历史最好时期#"
+    }
+  }
+}
