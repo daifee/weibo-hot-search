@@ -1,6 +1,6 @@
 {
   "startTime": 1725553630734,
-  "endTime": 1725621536708,
+  "endTime": 1725622594816,
   "band_list": [
     {
       "raw_hot": 4487136,
@@ -41,6 +41,14 @@
       "onboard_time": 1725593119,
       "rank": 11,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1448626,
+      "num": 546748,
+      "word": "寺庙网红猫咪被香客一拳打飞",
+      "onboard_time": 1725620480,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1448616,
@@ -91,6 +99,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1252098,
+      "num": 514868,
+      "word": "黄多多读的是纽约大学",
+      "onboard_time": 1725621020,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1231955,
+      "num": 1231955,
+      "word": "汪涵怎么突然老了这么多",
+      "onboard_time": 1725617240,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1218657,
       "num": 454396,
       "word": "男子为发泄一夜放了5把火",
@@ -107,20 +131,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1189486,
+      "num": 327783,
+      "word": "小杨哥曾叫沫沫媳妇",
+      "onboard_time": 1725619641,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1185902,
       "num": 875929,
       "word": "曝多名国脚赛后大骂伊万是骗子",
       "onboard_time": 1725583761,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1184558,
-      "num": 327783,
-      "word": "小杨哥曾叫沫沫媳妇",
-      "onboard_time": 1725619641,
-      "rank": 20,
-      "category": "网红"
     },
     {
       "raw_hot": 1156713,
@@ -145,14 +169,6 @@
       "onboard_time": 1725615079,
       "rank": 25,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1084091,
-      "num": 1084091,
-      "word": "汪涵怎么突然老了这么多",
-      "onboard_time": 1725617240,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 1071454,
@@ -379,14 +395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 597823,
-      "num": 546748,
-      "word": "寺庙网红猫咪被香客一拳打飞",
-      "onboard_time": 1725620480,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 595586,
       "num": 433754,
       "word": "韩安冉要生二胎了",
@@ -432,6 +440,14 @@
       "word": "我医保的钱可以给家人用吗",
       "onboard_time": 1725602718,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 545819,
+      "num": 545819,
+      "word": "摩羯将在广东二次登陆",
+      "onboard_time": 1725618020,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -539,6 +555,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 463034,
+      "num": 463034,
+      "word": "摩羯海浪把2吨巨石冲走了",
+      "onboard_time": 1725617960,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459544,
       "num": 459544,
       "word": "厦大李胜",
@@ -619,14 +643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 380189,
-      "num": 380189,
-      "word": "摩羯将在广东二次登陆",
-      "onboard_time": 1725618020,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 368963,
       "num": 368963,
       "word": "云南一烈士陵园墓前多人跳广场舞",
@@ -680,14 +696,6 @@
       "word": "1粒米修炼4500年直面天命",
       "onboard_time": 1725612382,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 333036,
-      "num": 333036,
-      "word": "摩羯海浪把2吨巨石冲走了",
-      "onboard_time": 1725617960,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -907,14 +915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 248285,
-      "num": 180721,
-      "word": "黄多多读的是纽约大学",
-      "onboard_time": 1725621020,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 245213,
       "num": 245213,
       "word": "黄轩什么时候结婚了",
@@ -1019,6 +1019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 232732,
+      "num": 327807,
+      "word": "赵露思盘发黑色长裙",
+      "onboard_time": 1725619580,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 228678,
       "num": 308209,
       "word": "伯贤逆应援",
@@ -1059,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221384,
+      "num": 221384,
+      "word": "文昌一秒天黑",
+      "onboard_time": 1725621859,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220218,
       "num": 303446,
       "word": "男子为还婚前债务偷走新婚礼金",
@@ -1083,12 +1099,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217004,
+      "num": 431556,
+      "word": "5种食物是低脂陷阱",
+      "onboard_time": 1725616941,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215342,
       "num": 215342,
       "word": "张云龙让李庚希改改脾气",
       "onboard_time": 1725615619,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212637,
+      "num": 212637,
+      "word": "KSG对战AG",
+      "onboard_time": 1725622519,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 212388,
@@ -1104,14 +1136,6 @@
       "word": "台风摩羯将至广东多地停课",
       "onboard_time": 1725551780,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210274,
-      "num": 431556,
-      "word": "5种食物是低脂陷阱",
-      "onboard_time": 1725616941,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1283,6 +1307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193498,
+      "num": 279480,
+      "word": "朱志鑫最终战的礼物是有光",
+      "onboard_time": 1725621381,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192747,
       "num": 233643,
       "word": "白鹿新专辑MyOdyssey",
@@ -1299,20 +1331,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191677,
+      "num": 216241,
+      "word": "铁齿铜牙张艺兴",
+      "onboard_time": 1725621020,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190420,
       "num": 190420,
       "word": "芬兰大学食堂吃什么",
       "onboard_time": 1725602241,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 188754,
-      "num": 327807,
-      "word": "赵露思盘发黑色长裙",
-      "onboard_time": 1725619580,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 188519,
@@ -1344,6 +1376,14 @@
       "word": "时代少年团成长不再有规定的目的地",
       "onboard_time": 1725596660,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 184563,
+      "num": 184563,
+      "word": "霍思燕 它不是实验犬是掌上明珠",
+      "onboard_time": 1725622100,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -1473,6 +1513,22 @@
       "onboard_time": 1725617300,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173905,
+      "num": 215087,
+      "word": "林依晨回应我是成都人",
+      "onboard_time": 1725620840,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 173879,
+      "num": 213985,
+      "word": "胡歌唐嫣拍了繁花番外",
+      "onboard_time": 1725621742,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 173316,
@@ -1675,14 +1731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158814,
-      "num": 158814,
-      "word": "林依晨回应我是成都人",
-      "onboard_time": 1725620840,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 157874,
       "num": 238978,
       "word": "风暴潮和海浪双红色警报齐发",
@@ -1819,11 +1867,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148897,
+      "num": 148897,
+      "word": "卢昱晓侯明昊 真红袖添香",
+      "onboard_time": 1725621198,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148558,
       "num": 377017,
       "word": "争议窗口单位午休时间该不该缩短",
       "onboard_time": 1725609799,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148419,
+      "num": 148419,
+      "word": "海口一摩天轮吊舱随风自转",
+      "onboard_time": 1725619221,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1891,20 +1955,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144272,
-      "num": 163060,
-      "word": "朱志鑫最终战的礼物是有光",
-      "onboard_time": 1725621381,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 142815,
       "num": 142815,
       "word": "酷酷的滕 或许遗憾是呱呱乐的底色",
       "onboard_time": 1725607100,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142497,
+      "num": 142497,
+      "word": "老外在中国的支付体验已到NextLevel",
+      "onboard_time": 1725619823,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142366,
@@ -1953,14 +2017,6 @@
       "onboard_time": 1725585441,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135839,
-      "num": 135839,
-      "word": "铁齿铜牙张艺兴",
-      "onboard_time": 1725621020,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 135807,
@@ -2043,28 +2099,12 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 127920,
-      "num": 127920,
-      "word": "海口一摩天轮吊舱随风自转",
-      "onboard_time": 1725619221,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127346,
       "num": 127346,
       "word": "直击超强台风摩羯",
       "onboard_time": 1725618439,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127304,
-      "num": 127304,
-      "word": "卢昱晓侯明昊 真红袖添香",
-      "onboard_time": 1725621198,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 126792,
@@ -2089,14 +2129,6 @@
       "onboard_time": 1725550462,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 124666,
-      "num": 124666,
-      "word": "老外在中国的支付体验已到NextLevel",
-      "onboard_time": 1725619823,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123455,
@@ -2137,6 +2169,14 @@
       "onboard_time": 1725618920,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 111225,
+      "num": 552531,
+      "word": "绝不容忍在烈士陵园跳舞行为",
+      "onboard_time": 1725620600,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110896,
@@ -2379,6 +2419,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 51586,
+      "num": 421351,
+      "word": "现房会取代期房吗",
+      "onboard_time": 1725620780,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51272,
       "num": 207774,
       "word": "漆漆 贱萌贱萌的",
@@ -2499,6 +2547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 40463,
+      "num": 124537,
+      "word": "华为三折叠到底怎么折",
+      "onboard_time": 1725619221,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 39557,
       "num": 219179,
       "word": "张凌赫和张婧仪说了什么",
@@ -2539,28 +2595,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35900,
-      "num": 552531,
-      "word": "绝不容忍在烈士陵园跳舞行为",
-      "onboard_time": 1725620600,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 34119,
       "num": 176462,
       "word": "中国导游眼中的中非民间交往",
       "onboard_time": 1725611362,
       "rank": 34,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 33391,
-      "num": 421351,
-      "word": "现房会取代期房吗",
-      "onboard_time": 1725620780,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32370,
@@ -2619,14 +2659,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 26752,
-      "num": 121396,
-      "word": "华为三折叠到底怎么折",
-      "onboard_time": 1725619221,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
       "raw_hot": 24595,
       "num": 198573,
       "word": "个人求助网络服务平台应经民政部指定",
@@ -2675,6 +2707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23046,
+      "num": 216095,
+      "word": "开学你会换新电脑吗",
+      "onboard_time": 1725621020,
+      "rank": 38,
+      "category": "数码,教育"
+    },
+    {
       "raw_hot": 22833,
       "num": 407806,
       "word": "酸甜之夜要来了",
@@ -2697,6 +2737,14 @@
       "onboard_time": 1725614420,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21258,
+      "num": 282376,
+      "word": "颐莲建议不干了",
+      "onboard_time": 1725621502,
+      "rank": 48,
+      "category": "美妆,幽默"
     },
     {
       "raw_hot": 20976,
@@ -2729,14 +2777,6 @@
       "onboard_time": 1725614239,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 15931,
-      "num": 136109,
-      "word": "开学你会换新电脑吗",
-      "onboard_time": 1725621020,
-      "rank": 38,
-      "category": "数码,教育"
     },
     {
       "raw_hot": 15490,
@@ -2777,14 +2817,6 @@
       "onboard_time": 1725568632,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 9751,
-      "num": 123301,
-      "word": "颐莲建议不干了",
-      "onboard_time": 1725621502,
-      "rank": 48,
-      "category": "美妆,幽默"
     },
     {
       "raw_hot": 7100,

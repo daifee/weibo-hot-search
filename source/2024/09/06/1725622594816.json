@@ -1,0 +1,410 @@
+{
+  "runTime": 1725622594816,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1561019,
+        "num": 1561019,
+        "word": "台风摩羯",
+        "onboard_time": 1725606559,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1231955,
+        "num": 1231955,
+        "word": "汪涵怎么突然老了这么多",
+        "onboard_time": 1725617240,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6780,
+        "num": 1046613,
+        "word": "非洲朋友在京邂逅中国传统文化",
+        "onboard_time": 1725611902,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 905866,
+        "num": 905866,
+        "word": "iPhone16定价",
+        "onboard_time": 1725619823,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 845644,
+        "num": 845644,
+        "word": "摩羯登陆海南文昌",
+        "onboard_time": 1725611540,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710099,
+        "num": 710099,
+        "word": "摩羯成史上登陆我国最强秋台风",
+        "onboard_time": 1725617719,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545819,
+        "num": 545819,
+        "word": "摩羯将在广东二次登陆",
+        "onboard_time": 1725618020,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519746,
+        "num": 519746,
+        "word": "微信更新",
+        "onboard_time": 1725615079,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 516009,
+        "num": 516009,
+        "word": "徐正溪发长文谈退圈",
+        "onboard_time": 1725607579,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519277,
+        "num": 515930,
+        "word": "台风摩羯 眼壁置换",
+        "onboard_time": 1725595580,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1448626,
+        "num": 515177,
+        "word": "寺庙网红猫咪被香客一拳打飞",
+        "onboard_time": 1725620480,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1252098,
+        "num": 514868,
+        "word": "黄多多读的是纽约大学",
+        "onboard_time": 1725621020,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556948,
+        "num": 514379,
+        "word": "秋瓷炫于晓光儿子回中国上学",
+        "onboard_time": 1725618080,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514126,
+        "num": 514126,
+        "word": "文昌",
+        "onboard_time": 1725607878,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495318,
+        "num": 495318,
+        "word": "刘亦菲把3000朵花穿在身上",
+        "onboard_time": 1725616819,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 463034,
+        "num": 463034,
+        "word": "摩羯海浪把2吨巨石冲走了",
+        "onboard_time": 1725617960,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301131,
+        "num": 301131,
+        "word": "男子为发泄一夜放了5把火",
+        "onboard_time": 1725600799,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232732,
+        "num": 295999,
+        "word": "赵露思盘发黑色长裙",
+        "onboard_time": 1725619580,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21258,
+        "num": 282376,
+        "word": "颐莲建议不干了",
+        "onboard_time": 1725621502,
+        "rank": 18,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 193498,
+        "num": 279480,
+        "word": "朱志鑫最终战的礼物是有光",
+        "onboard_time": 1725621381,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51586,
+        "num": 267704,
+        "word": "现房会取代期房吗",
+        "onboard_time": 1725620780,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1189486,
+        "num": 247166,
+        "word": "小杨哥曾叫沫沫媳妇",
+        "onboard_time": 1725619641,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 247007,
+        "num": 247007,
+        "word": "台风摩羯影响至少持续2到3天",
+        "onboard_time": 1725614180,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244857,
+        "num": 244857,
+        "word": "台风",
+        "onboard_time": 1725448699,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221384,
+        "num": 221384,
+        "word": "文昌一秒天黑",
+        "onboard_time": 1725621859,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217004,
+        "num": 217004,
+        "word": "5种食物是低脂陷阱",
+        "onboard_time": 1725616941,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191677,
+        "num": 216241,
+        "word": "铁齿铜牙张艺兴",
+        "onboard_time": 1725621020,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23046,
+        "num": 216095,
+        "word": "开学你会换新电脑吗",
+        "onboard_time": 1725621020,
+        "rank": 27,
+        "category": "数码,教育"
+      },
+      {
+        "raw_hot": 173905,
+        "num": 215087,
+        "word": "林依晨回应我是成都人",
+        "onboard_time": 1725620840,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173879,
+        "num": 213985,
+        "word": "胡歌唐嫣拍了繁花番外",
+        "onboard_time": 1725621742,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111225,
+        "num": 212678,
+        "word": "绝不容忍在烈士陵园跳舞行为",
+        "onboard_time": 1725620600,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212637,
+        "num": 212637,
+        "word": "KSG对战AG",
+        "onboard_time": 1725622519,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 210517,
+        "num": 210517,
+        "word": "韩安冉要生二胎了",
+        "onboard_time": 1725616161,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 184563,
+        "num": 184563,
+        "word": "霍思燕 它不是实验犬是掌上明珠",
+        "onboard_time": 1725622100,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174149,
+        "num": 174149,
+        "word": "国足已抵达大连",
+        "onboard_time": 1725613280,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171494,
+        "num": 171494,
+        "word": "摩羯中心风力已爆表",
+        "onboard_time": 1725620540,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153873,
+        "num": 153873,
+        "word": "张拿铁秃了",
+        "onboard_time": 1725615319,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 148897,
+        "num": 148897,
+        "word": "卢昱晓侯明昊 真红袖添香",
+        "onboard_time": 1725621198,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148419,
+        "num": 148419,
+        "word": "海口一摩天轮吊舱随风自转",
+        "onboard_time": 1725619221,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147811,
+        "num": 147811,
+        "word": "国足惨败气笑在场球迷",
+        "onboard_time": 1725595999,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142497,
+        "num": 142497,
+        "word": "老外在中国的支付体验已到NextLevel",
+        "onboard_time": 1725619823,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142092,
+        "num": 142092,
+        "word": "国足 A股",
+        "onboard_time": 1725617300,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140137,
+        "num": 140137,
+        "word": "MEOVV空降",
+        "onboard_time": 1725619400,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138948,
+        "num": 138948,
+        "word": "李维刚回应承包鱼塘事件",
+        "onboard_time": 1725612019,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131912,
+        "num": 131912,
+        "word": "安徽市监局专班处理三只羊槽头肉事件",
+        "onboard_time": 1725615440,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130857,
+        "num": 130857,
+        "word": "张云龙让李庚希改改脾气",
+        "onboard_time": 1725615619,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128545,
+        "num": 128545,
+        "word": "迪丽热巴陈飞宇异域造型路透",
+        "onboard_time": 1725614839,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127371,
+        "num": 127371,
+        "word": "王一博频频出现不适反应",
+        "onboard_time": 1725617000,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124878,
+        "num": 124878,
+        "word": "刘亦菲烈焰玫瑰",
+        "onboard_time": 1725609979,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40463,
+        "num": 124537,
+        "word": "华为三折叠到底怎么折",
+        "onboard_time": 1725619221,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#中非关系正处于历史最好时期#"
+    }
+  }
+}
