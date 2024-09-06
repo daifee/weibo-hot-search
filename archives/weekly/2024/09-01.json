@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725586579997,
+  "endTime": 1725587563240,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -955,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1185902,
+      "num": 632773,
+      "word": "曝多名国脚赛后大骂伊万是骗子",
+      "onboard_time": 1725583761,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1169886,
       "num": 568430,
       "word": "退钱哥",
@@ -1124,7 +1132,7 @@
     },
     {
       "raw_hot": 1062287,
-      "num": 276960,
+      "num": 298332,
       "word": "女子对声音敏感要求邻居晚上不用马桶",
       "onboard_time": 1725582679,
       "rank": 20,
@@ -1431,6 +1439,14 @@
       "num": 935753,
       "word": "园长收学生6.16元巧克力被开除",
       "onboard_time": 1725113539,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 933726,
+      "num": 1149396,
+      "word": "台风摩羯把降雨图变红了",
+      "onboard_time": 1725583879,
       "rank": 1,
       "category": "社会新闻"
     },
@@ -2235,28 +2251,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 718742,
-      "num": 593037,
-      "word": "曝多名国脚赛后大骂伊万是骗子",
-      "onboard_time": 1725583761,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 717738,
       "num": 717738,
       "word": "SM英国男团成员身材",
       "onboard_time": 1725205041,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 717273,
-      "num": 717273,
-      "word": "台风摩羯把降雨图变红了",
-      "onboard_time": 1725583879,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 715528,
@@ -2355,6 +2355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 701055,
+      "num": 701055,
+      "word": "陈好来花少渡劫",
+      "onboard_time": 1725585320,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 697818,
       "num": 586804,
       "word": "樊振东注册第一天就在等陈奕迅",
@@ -2380,7 +2388,7 @@
     },
     {
       "raw_hot": 682038,
-      "num": 292938,
+      "num": 293381,
       "word": "三只羊 辛巴",
       "onboard_time": 1725548722,
       "rank": 25,
@@ -3308,7 +3316,7 @@
     },
     {
       "raw_hot": 518591,
-      "num": 275608,
+      "num": 289596,
       "word": "猫 你咋不吃",
       "onboard_time": 1725581119,
       "rank": 21,
@@ -3449,14 +3457,6 @@
       "onboard_time": 1725454039,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 499209,
-      "num": 499209,
-      "word": "陈好来花少渡劫",
-      "onboard_time": 1725585320,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 499057,
@@ -3739,6 +3739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 459544,
+      "num": 459544,
+      "word": "厦大李胜",
+      "onboard_time": 1725584240,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 456630,
       "num": 456630,
       "word": "徐娇泳装写真",
@@ -3889,6 +3897,14 @@
       "onboard_time": 1725169578,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437496,
+      "num": 437496,
+      "word": "刘诗诗郑秀晶朱珠同框",
+      "onboard_time": 1725586338,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 436571,
@@ -5355,14 +5371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 285464,
-      "num": 285464,
-      "word": "厦大李胜",
-      "onboard_time": 1725584240,
-      "rank": 16,
-      "category": "教育"
-    },
-    {
       "raw_hot": 284875,
       "num": 284875,
       "word": "贾一凡为了再次港澳行要去洛杉矶",
@@ -5371,12 +5379,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 284752,
+      "num": 284752,
+      "word": "老外学书法端正似小学生",
+      "onboard_time": 1725587480,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284503,
       "num": 284503,
       "word": "蔡磊夫人顶着发烧泼冰水",
       "onboard_time": 1725339384,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284434,
+      "num": 304964,
+      "word": "您的恶了么订单即将送达",
+      "onboard_time": 1725584899,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 284051,
@@ -5529,6 +5553,14 @@
       "onboard_time": 1725277280,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277178,
+      "num": 277178,
+      "word": "卤味为什么卖不动了",
+      "onboard_time": 1725584960,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 275639,
@@ -5897,14 +5929,6 @@
       "onboard_time": 1725340463,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 257048,
-      "num": 257048,
-      "word": "卤味为什么卖不动了",
-      "onboard_time": 1725584960,
-      "rank": 27,
-      "category": "美食"
     },
     {
       "raw_hot": 256626,
@@ -6803,6 +6827,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 221683,
+      "num": 221683,
+      "word": "普京称已准备好与乌克兰谈判",
+      "onboard_time": 1725587480,
+      "rank": 27,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 221591,
       "num": 221591,
       "word": "iPhonePro系列首次在印度生产",
@@ -6825,6 +6857,14 @@
       "onboard_time": 1725332421,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219837,
+      "num": 219837,
+      "word": "丫丫抱着小篮子",
+      "onboard_time": 1725586458,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218988,
@@ -9299,14 +9339,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 176322,
-      "num": 280492,
-      "word": "您的恶了么订单即将送达",
-      "onboard_time": 1725584899,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 176313,
       "num": 176313,
       "word": "巨蟹座在忍让中爆发",
@@ -9627,14 +9659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172833,
-      "num": 208377,
-      "word": "刘诗诗郑秀晶朱珠同框",
-      "onboard_time": 1725586338,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 172738,
       "num": 172738,
       "word": "黄雨婷太全面了",
@@ -9865,6 +9889,14 @@
       "onboard_time": 1725367340,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168308,
+      "num": 168308,
+      "word": "美网萨巴伦卡晋级决赛",
+      "onboard_time": 1725586040,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 168292,
@@ -10147,6 +10179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164449,
+      "num": 159327,
+      "word": "国足只有7分钟没守住",
+      "onboard_time": 1725585441,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164364,
       "num": 164364,
       "word": "朱丹晒周一围与儿子照片",
@@ -10177,14 +10217,6 @@
       "onboard_time": 1725421999,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 164259,
-      "num": 164259,
-      "word": "美网萨巴伦卡晋级决赛",
-      "onboard_time": 1725586040,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 164258,
@@ -10225,6 +10257,14 @@
       "onboard_time": 1725423381,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163322,
+      "num": 220221,
+      "word": "刘诗诗全白Look",
+      "onboard_time": 1725586399,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 163290,
@@ -10536,6 +10576,14 @@
       "word": "列车有权拒绝买短乘长旅客继续乘车",
       "onboard_time": 1725192797,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159323,
+      "num": 159323,
+      "word": "广西北海停课停工停游停市停运",
+      "onboard_time": 1725585559,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -10955,6 +11003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154702,
+      "num": 154702,
+      "word": "摩羯或为近10年登陆琼粤的最强台风",
+      "onboard_time": 1725587480,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154667,
       "num": 154667,
       "word": "特斯拉辟谣马斯克北京购房",
@@ -11136,14 +11192,6 @@
       "word": "樊振东和潘展乐合体打羽毛球",
       "onboard_time": 1725181880,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 151920,
-      "num": 146012,
-      "word": "国足只有7分钟没守住",
-      "onboard_time": 1725585441,
-      "rank": 45,
       "category": "体育"
     },
     {
@@ -11385,14 +11433,6 @@
       "onboard_time": 1725460522,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147532,
-      "num": 147532,
-      "word": "广西北海停课停工停游停市停运",
-      "onboard_time": 1725585559,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147449,
@@ -11643,20 +11683,20 @@
       "category": "网红,互联网"
     },
     {
-      "raw_hot": 144219,
-      "num": 144219,
-      "word": "丫丫抱着小篮子",
-      "onboard_time": 1725586458,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143839,
       "num": 141306,
       "word": "国足今晚18强赛首战日本",
       "onboard_time": 1725504978,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143605,
+      "num": 143605,
+      "word": "中国空军埃及航展经典动作大赏",
+      "onboard_time": 1725587480,
+      "rank": 46,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 143545,
@@ -11963,6 +12003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136851,
+      "num": 488326,
+      "word": "警察叔叔我走丢了给自己报个警",
+      "onboard_time": 1725585441,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136842,
       "num": 136842,
       "word": "0比7失利国足下一步怎么办",
@@ -12203,12 +12251,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 129894,
+      "num": 129894,
+      "word": "河南一地发现外来入侵物种",
+      "onboard_time": 1725587538,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129752,
       "num": 129752,
       "word": "国足日本赛前抢圈热身对比鲜明",
       "onboard_time": 1725582439,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129641,
+      "num": 162496,
+      "word": "黄景瑜新剧装啥像啥",
+      "onboard_time": 1725587239,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 129474,
@@ -12553,14 +12617,6 @@
       "onboard_time": 1725171740,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118292,
-      "num": 488326,
-      "word": "警察叔叔我走丢了给自己报个警",
-      "onboard_time": 1725585441,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117996,
