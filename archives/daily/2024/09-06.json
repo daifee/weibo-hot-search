@@ -1,7 +1,15 @@
 {
   "startTime": 1725553630734,
-  "endTime": 1725579309973,
+  "endTime": 1725586579997,
   "band_list": [
+    {
+      "raw_hot": 1441651,
+      "num": 655947,
+      "word": "退钱哥哽咽了",
+      "onboard_time": 1725581420,
+      "rank": 3,
+      "category": "体育"
+    },
     {
       "raw_hot": 1282601,
       "num": 500113,
@@ -12,11 +20,19 @@
     },
     {
       "raw_hot": 1071454,
-      "num": 255820,
+      "num": 442821,
       "word": "汪苏泷 女友",
       "onboard_time": 1725540502,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1062287,
+      "num": 276960,
+      "word": "女子对声音敏感要求邻居晚上不用马桶",
+      "onboard_time": 1725582679,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 956517,
@@ -27,8 +43,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 900695,
+      "num": 479765,
+      "word": "国足主帅回应0比7惨败",
+      "onboard_time": 1725579799,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 888037,
-      "num": 490318,
+      "num": 640878,
       "word": "网红小英莫遗体被找到",
       "onboard_time": 1725540983,
       "rank": 4,
@@ -40,6 +64,38 @@
       "word": "陪读爸爸考上大学因现实放弃入学",
       "onboard_time": 1725559273,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 805971,
+      "num": 1128955,
+      "word": "拜登儿子认罪了",
+      "onboard_time": 1725580519,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 773280,
+      "num": 451200,
+      "word": "男子欲提醒女子手机被偷遭扒手威胁",
+      "onboard_time": 1725580699,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 718742,
+      "num": 593037,
+      "word": "曝多名国脚赛后大骂伊万是骗子",
+      "onboard_time": 1725583761,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 717273,
+      "num": 717273,
+      "word": "台风摩羯把降雨图变红了",
+      "onboard_time": 1725583879,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -60,7 +116,7 @@
     },
     {
       "raw_hot": 626005,
-      "num": 211973,
+      "num": 272550,
       "word": "辛巴晒1亿元转账单",
       "onboard_time": 1725546023,
       "rank": 21,
@@ -68,7 +124,7 @@
     },
     {
       "raw_hot": 592908,
-      "num": 193986,
+      "num": 269737,
       "word": "日媒称不是我们太强而是中国队太弱",
       "onboard_time": 1725551841,
       "rank": 41,
@@ -76,7 +132,7 @@
     },
     {
       "raw_hot": 585785,
-      "num": 205355,
+      "num": 267890,
       "word": "三只羊 辛巴",
       "onboard_time": 1725548722,
       "rank": 23,
@@ -91,12 +147,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 518591,
+      "num": 275608,
+      "word": "猫 你咋不吃",
+      "onboard_time": 1725581119,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 508871,
       "num": 508871,
       "word": "深圳将迎10级雷雨大风",
       "onboard_time": 1725544704,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 499209,
+      "num": 499209,
+      "word": "陈好来花少渡劫",
+      "onboard_time": 1725585320,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 484122,
@@ -121,6 +193,14 @@
       "onboard_time": 1725528741,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411230,
+      "num": 411230,
+      "word": "金玟庭郑秀晶同框照",
+      "onboard_time": 1725584003,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 389134,
@@ -164,11 +244,35 @@
     },
     {
       "raw_hot": 298095,
-      "num": 195675,
+      "num": 258775,
       "word": "孩子闹着要跳楼其实是向父母求救",
       "onboard_time": 1725575233,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285464,
+      "num": 285464,
+      "word": "厦大李胜",
+      "onboard_time": 1725584240,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 266586,
+      "num": 266586,
+      "word": "广东海南暴雨具有一定极端性",
+      "onboard_time": 1725551959,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257048,
+      "num": 257048,
+      "word": "卤味为什么卖不动了",
+      "onboard_time": 1725584960,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 256027,
@@ -187,14 +291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 247186,
-      "num": 247186,
-      "word": "广东海南暴雨具有一定极端性",
-      "onboard_time": 1725551959,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 245213,
       "num": 245213,
       "word": "黄轩什么时候结婚了",
@@ -204,11 +300,19 @@
     },
     {
       "raw_hot": 240574,
-      "num": 240574,
+      "num": 251495,
       "word": "目前今年最出圈的台词",
       "onboard_time": 1725542063,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 224097,
+      "num": 224097,
+      "word": "国足",
+      "onboard_time": 1725578776,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 212283,
@@ -219,11 +323,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208651,
-      "num": 197860,
-      "word": "国足",
-      "onboard_time": 1725578776,
-      "rank": 11,
+      "raw_hot": 209248,
+      "num": 209248,
+      "word": "国足球员说没想到输这么大",
+      "onboard_time": 1725582139,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 207854,
+      "num": 207854,
+      "word": "国足积分榜倒数第一",
+      "onboard_time": 1725583340,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -251,12 +363,52 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176409,
+      "num": 282294,
+      "word": "赵今麦灰裙黑长直",
+      "onboard_time": 1725584659,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176322,
+      "num": 280492,
+      "word": "您的恶了么订单即将送达",
+      "onboard_time": 1725584899,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 173316,
+      "num": 252554,
+      "word": "真有人分手后去拆同心锁",
+      "onboard_time": 1725578357,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 172833,
+      "num": 208377,
+      "word": "刘诗诗郑秀晶朱珠同框",
+      "onboard_time": 1725586338,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 170481,
       "num": 170481,
       "word": "男子兑换发现4年前的蟹卡已失效",
       "onboard_time": 1725550342,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164259,
+      "num": 164259,
+      "word": "美网萨巴伦卡晋级决赛",
+      "onboard_time": 1725586040,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 160914,
@@ -283,6 +435,38 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157314,
+      "num": 157314,
+      "word": "特朗普称乌克兰谎报阵亡人数",
+      "onboard_time": 1725581060,
+      "rank": 41,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 156987,
+      "num": 156987,
+      "word": "北京蓝金配色天空",
+      "onboard_time": 1725583221,
+      "rank": 42,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 155048,
+      "num": 155048,
+      "word": "赛后国足更衣室一片死寂",
+      "onboard_time": 1725583100,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151920,
+      "num": 146012,
+      "word": "国足只有7分钟没守住",
+      "onboard_time": 1725585441,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151171,
       "num": 151171,
       "word": "日本球迷说没想到中国真这么弱",
@@ -297,6 +481,30 @@
       "onboard_time": 1725547163,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148338,
+      "num": 158413,
+      "word": "秋瓷炫带六岁儿子做紫菜包饭",
+      "onboard_time": 1725578657,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 147532,
+      "num": 147532,
+      "word": "广西北海停课停工停游停市停运",
+      "onboard_time": 1725585559,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144219,
+      "num": 144219,
+      "word": "丫丫抱着小篮子",
+      "onboard_time": 1725586458,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140346,
@@ -320,6 +528,14 @@
       "word": "中国盲人足球残奥会第5",
       "onboard_time": 1725547822,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129752,
+      "num": 129752,
+      "word": "国足日本赛前抢圈热身对比鲜明",
+      "onboard_time": 1725582439,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -377,6 +593,14 @@
       "onboard_time": 1725544463,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118292,
+      "num": 488326,
+      "word": "警察叔叔我走丢了给自己报个警",
+      "onboard_time": 1725585441,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110896,
@@ -467,28 +691,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 83038,
-      "num": 151264,
-      "word": "真有人分手后去拆同心锁",
-      "onboard_time": 1725578357,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 82796,
       "num": 82796,
       "word": "美国14岁男孩在学校枪击致4死9伤",
       "onboard_time": 1725554716,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 77570,
-      "num": 77570,
-      "word": "秋瓷炫带六岁儿子做紫菜包饭",
-      "onboard_time": 1725578657,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 76562,
@@ -572,7 +780,7 @@
     },
     {
       "raw_hot": 36214,
-      "num": 504703,
+      "num": 700246,
       "word": "这些常见食品原来都是非洲产",
       "onboard_time": 1725539180,
       "rank": 2,
