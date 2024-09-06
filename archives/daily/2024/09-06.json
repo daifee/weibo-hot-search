@@ -1,6 +1,6 @@
 {
   "startTime": 1725553630734,
-  "endTime": 1725618165489,
+  "endTime": 1725619190034,
   "band_list": [
     {
       "raw_hot": 4487136,
@@ -131,6 +131,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1086442,
+      "num": 1086442,
+      "word": "微信更新",
+      "onboard_time": 1725615079,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1071454,
       "num": 533576,
       "word": "汪苏泷 女友",
@@ -217,14 +225,6 @@
       "onboard_time": 1725540983,
       "rank": 4,
       "category": "网红"
-    },
-    {
-      "raw_hot": 885486,
-      "num": 885486,
-      "word": "微信更新",
-      "onboard_time": 1725615079,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 871435,
@@ -331,6 +331,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 610589,
+      "num": 610589,
+      "word": "国足已抵达大连",
+      "onboard_time": 1725613280,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 595586,
+      "num": 433754,
+      "word": "韩安冉要生二胎了",
+      "onboard_time": 1725616161,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 592908,
       "num": 269737,
       "word": "日媒称不是我们太强而是中国队太弱",
@@ -363,12 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 563858,
-      "num": 433754,
-      "word": "韩安冉要生二胎了",
-      "onboard_time": 1725616161,
-      "rank": 13,
-      "category": "网红"
+      "raw_hot": 560409,
+      "num": 411575,
+      "word": "汪涵怎么突然老了这么多",
+      "onboard_time": 1725617240,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 549843,
@@ -416,6 +432,14 @@
       "word": "深圳将迎10级雷雨大风",
       "onboard_time": 1725544704,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 502140,
+      "num": 502140,
+      "word": "摩羯成史上登陆我国最强秋台风",
+      "onboard_time": 1725617719,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -507,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 433473,
+      "num": 426083,
+      "word": "秋瓷炫于晓光儿子回中国上学",
+      "onboard_time": 1725618080,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 431401,
       "num": 431401,
       "word": "被工作了十五年的公司裁员",
@@ -523,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419627,
+      "num": 420795,
+      "word": "刘亦菲把3000朵花穿在身上",
+      "onboard_time": 1725616819,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 414682,
       "num": 414682,
       "word": "汪峰回应那英歌手夺冠",
@@ -531,28 +571,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 411575,
-      "num": 411575,
-      "word": "汪涵怎么突然老了这么多",
-      "onboard_time": 1725617240,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 411230,
       "num": 411230,
       "word": "金玟庭郑秀晶同框照",
       "onboard_time": 1725584003,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 407770,
-      "num": 407770,
-      "word": "国足已抵达大连",
-      "onboard_time": 1725613280,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 404035,
@@ -611,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 353963,
-      "num": 353963,
-      "word": "摩羯成史上登陆我国最强秋台风",
-      "onboard_time": 1725617719,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 349236,
       "num": 349236,
       "word": "胡兵53岁比35岁还要帅",
@@ -635,20 +651,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331781,
+      "num": 331781,
+      "word": "摩羯海浪把2吨巨石冲走了",
+      "onboard_time": 1725617960,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327809,
+      "num": 422036,
+      "word": "迪丽热巴陈飞宇异域造型路透",
+      "onboard_time": 1725614839,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 326806,
       "num": 255511,
       "word": "官方回应烈士陵园墓前多人跳广场舞",
       "onboard_time": 1725540683,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 325972,
-      "num": 422036,
-      "word": "迪丽热巴陈飞宇异域造型路透",
-      "onboard_time": 1725614839,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 325524,
@@ -673,14 +697,6 @@
       "onboard_time": 1725534321,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 311671,
-      "num": 420795,
-      "word": "刘亦菲把3000朵花穿在身上",
-      "onboard_time": 1725616819,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 304638,
@@ -867,19 +883,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245197,
+      "num": 245197,
+      "word": "安徽市监局专班处理三只羊槽头肉事件",
+      "onboard_time": 1725615440,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244618,
       "num": 457478,
       "word": "摩羯登陆强度直逼威马逊",
       "onboard_time": 1725596781,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241871,
-      "num": 241871,
-      "word": "安徽市监局专班处理三只羊槽头肉事件",
-      "onboard_time": 1725615440,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -1003,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220218,
+      "num": 303446,
+      "word": "男子为还婚前债务偷走新婚礼金",
+      "onboard_time": 1725613520,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219837,
       "num": 219837,
       "word": "丫丫抱着小篮子",
@@ -1017,6 +1041,14 @@
       "onboard_time": 1725604159,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215342,
+      "num": 215342,
+      "word": "张云龙让李庚希改改脾气",
+      "onboard_time": 1725615619,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 212388,
@@ -1041,6 +1073,14 @@
       "onboard_time": 1725601939,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209656,
+      "num": 209656,
+      "word": "登陆少年高会涨价",
+      "onboard_time": 1725617960,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 209248,
@@ -1097,6 +1137,14 @@
       "onboard_time": 1725597320,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 205052,
+      "num": 205052,
+      "word": "摩羯将在广东二次登陆",
+      "onboard_time": 1725618020,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202854,
@@ -1179,14 +1227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196675,
-      "num": 303446,
-      "word": "男子为还婚前债务偷走新婚礼金",
-      "onboard_time": 1725613520,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196373,
       "num": 196373,
       "word": "星穹铁道飞霄",
@@ -1251,14 +1291,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 186640,
-      "num": 186640,
-      "word": "张云龙让李庚希改改脾气",
-      "onboard_time": 1725615619,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 186160,
       "num": 186160,
       "word": "时代少年团成长不再有规定的目的地",
@@ -1281,14 +1313,6 @@
       "onboard_time": 1725591079,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 182260,
-      "num": 182260,
-      "word": "摩羯将在广东二次登陆",
-      "onboard_time": 1725618020,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181833,
@@ -1321,6 +1345,14 @@
       "onboard_time": 1725600199,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178816,
+      "num": 431556,
+      "word": "5种食物是低脂陷阱",
+      "onboard_time": 1725616941,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178712,
@@ -1377,6 +1409,14 @@
       "onboard_time": 1725598700,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174102,
+      "num": 174102,
+      "word": "国足 A股",
+      "onboard_time": 1725617300,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 173316,
@@ -1481,14 +1521,6 @@
       "onboard_time": 1725585441,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 164022,
-      "num": 164022,
-      "word": "摩羯海浪把2吨巨石冲走了",
-      "onboard_time": 1725617960,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163449,
@@ -1811,6 +1843,14 @@
       "category": "体育,综艺"
     },
     {
+      "raw_hot": 141282,
+      "num": 141282,
+      "word": "朱一龙为东极岛拍摄做的准备",
+      "onboard_time": 1725618740,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 141158,
       "num": 141158,
       "word": "台风红色预警连发多日",
@@ -1825,14 +1865,6 @@
       "onboard_time": 1725573672,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140028,
-      "num": 140028,
-      "word": "登陆少年高会涨价",
-      "onboard_time": 1725617960,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 138926,
@@ -1865,14 +1897,6 @@
       "onboard_time": 1725547822,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132270,
-      "num": 132270,
-      "word": "秋瓷炫于晓光儿子回中国上学",
-      "onboard_time": 1725618080,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 131127,
@@ -1939,12 +1963,28 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 127346,
+      "num": 127346,
+      "word": "直击超强台风摩羯",
+      "onboard_time": 1725618439,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126792,
       "num": 126792,
       "word": "南野拓实梅开二度",
       "onboard_time": 1725552319,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126718,
+      "num": 126718,
+      "word": "细狗西装爆改bking",
+      "onboard_time": 1725618980,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 125322,
@@ -1985,6 +2025,14 @@
       "onboard_time": 1725618141,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114123,
+      "num": 114123,
+      "word": "Gawon好美",
+      "onboard_time": 1725618920,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 110896,
@@ -2032,14 +2080,6 @@
       "word": "瘦不下来可能是因为想对自己好一点",
       "onboard_time": 1725605901,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92802,
-      "num": 431556,
-      "word": "5种食物是低脂陷阱",
-      "onboard_time": 1725616941,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2411,6 +2451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31808,
+      "num": 413665,
+      "word": "喜感很重的旅行目的地",
+      "onboard_time": 1725616161,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 30053,
       "num": 274800,
       "word": "水果盆栽成热门打卡点",
@@ -2449,14 +2497,6 @@
       "onboard_time": 1725603199,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 25424,
-      "num": 413665,
-      "word": "喜感很重的旅行目的地",
-      "onboard_time": 1725616161,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 24595,

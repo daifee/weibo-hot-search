@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725618165489,
+  "endTime": 1725619190034,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -1203,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1086442,
+      "num": 1086442,
+      "word": "微信更新",
+      "onboard_time": 1725615079,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1077079,
       "num": 1124839,
       "word": "专家称取消公摊是忽悠老百姓的",
@@ -1793,14 +1801,6 @@
       "onboard_time": 1725445942,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 885486,
-      "num": 885486,
-      "word": "微信更新",
-      "onboard_time": 1725615079,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 884849,
@@ -2947,6 +2947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 610589,
+      "num": 610589,
+      "word": "国足已抵达大连",
+      "onboard_time": 1725613280,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 609581,
       "num": 609581,
       "word": "大爷拿走价值3千兔子问你能把我怎样",
@@ -3049,6 +3057,14 @@
       "onboard_time": 1725277280,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 595586,
+      "num": 433754,
+      "word": "韩安冉要生二胎了",
+      "onboard_time": 1725616161,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 595234,
@@ -3203,14 +3219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 563858,
-      "num": 433754,
-      "word": "韩安冉要生二胎了",
-      "onboard_time": 1725616161,
-      "rank": 13,
-      "category": "网红"
-    },
-    {
       "raw_hot": 563278,
       "num": 369320,
       "word": "合肥回应三只羊315糟头肉未受处罚",
@@ -3225,6 +3233,14 @@
       "onboard_time": 1725322880,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 560409,
+      "num": 411575,
+      "word": "汪涵怎么突然老了这么多",
+      "onboard_time": 1725617240,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 559914,
@@ -3680,6 +3696,14 @@
       "word": "台风摩羯或致广东三停一休",
       "onboard_time": 1725338003,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 502140,
+      "num": 502140,
+      "word": "摩羯成史上登陆我国最强秋台风",
+      "onboard_time": 1725617719,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -4243,6 +4267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 433473,
+      "num": 426083,
+      "word": "秋瓷炫于晓光儿子回中国上学",
+      "onboard_time": 1725618080,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 432228,
       "num": 336591,
       "word": "余宇涵不对劲文学",
@@ -4363,6 +4395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 419627,
+      "num": 420795,
+      "word": "刘亦菲把3000朵花穿在身上",
+      "onboard_time": 1725616819,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 419626,
       "num": 579284,
       "word": "杨笠 这是血肉在疯长的声音",
@@ -4403,14 +4443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 411575,
-      "num": 411575,
-      "word": "汪涵怎么突然老了这么多",
-      "onboard_time": 1725617240,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 411230,
       "num": 411230,
       "word": "金玟庭郑秀晶同框照",
@@ -4433,14 +4465,6 @@
       "onboard_time": 1725320059,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 407770,
-      "num": 407770,
-      "word": "国足已抵达大连",
-      "onboard_time": 1725613280,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 407445,
@@ -4891,14 +4915,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 353963,
-      "num": 353963,
-      "word": "摩羯成史上登陆我国最强秋台风",
-      "onboard_time": 1725617719,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 353644,
       "num": 427436,
       "word": "阚清子说未婚夫是自己影迷",
@@ -5099,6 +5115,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 331781,
+      "num": 331781,
+      "word": "摩羯海浪把2吨巨石冲走了",
+      "onboard_time": 1725617960,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331763,
       "num": 331763,
       "word": "王楚钦孙颖莎是混双项目上的孤勇者",
@@ -5163,6 +5187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 327809,
+      "num": 422036,
+      "word": "迪丽热巴陈飞宇异域造型路透",
+      "onboard_time": 1725614839,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 327448,
       "num": 494229,
       "word": "西游记剧组不养闲人",
@@ -5193,14 +5225,6 @@
       "onboard_time": 1725455061,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 325972,
-      "num": 422036,
-      "word": "迪丽热巴陈飞宇异域造型路透",
-      "onboard_time": 1725614839,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 325608,
@@ -5345,14 +5369,6 @@
       "onboard_time": 1725256701,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 311671,
-      "num": 420795,
-      "word": "刘亦菲把3000朵花穿在身上",
-      "onboard_time": 1725616819,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 310578,
@@ -6715,6 +6731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245197,
+      "num": 245197,
+      "word": "安徽市监局专班处理三只羊槽头肉事件",
+      "onboard_time": 1725615440,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244893,
       "num": 244893,
       "word": "30岁当上奶奶是什么体验",
@@ -6817,14 +6841,6 @@
       "onboard_time": 1725429259,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 241871,
-      "num": 241871,
-      "word": "安徽市监局专班处理三只羊槽头肉事件",
-      "onboard_time": 1725615440,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 241783,
@@ -7499,6 +7515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220218,
+      "num": 303446,
+      "word": "男子为还婚前债务偷走新婚礼金",
+      "onboard_time": 1725613520,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219837,
       "num": 219837,
       "word": "丫丫抱着小篮子",
@@ -7641,6 +7665,14 @@
       "onboard_time": 1725504139,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 215342,
+      "num": 215342,
+      "word": "张云龙让李庚希改改脾气",
+      "onboard_time": 1725615619,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 215210,
@@ -7872,6 +7904,14 @@
       "word": "赵丽颖刘烨你过来呀",
       "onboard_time": 1725349640,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 209656,
+      "num": 209656,
+      "word": "登陆少年高会涨价",
+      "onboard_time": 1725617960,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -8177,6 +8217,14 @@
       "onboard_time": 1725459261,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205052,
+      "num": 205052,
+      "word": "摩羯将在广东二次登陆",
+      "onboard_time": 1725618020,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204997,
@@ -8719,14 +8767,6 @@
       "num": 196700,
       "word": "年轻人更愿意为情绪买单",
       "onboard_time": 1725441022,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196675,
-      "num": 303446,
-      "word": "男子为还婚前债务偷走新婚礼金",
-      "onboard_time": 1725613520,
       "rank": 19,
       "category": "社会新闻"
     },
@@ -9507,14 +9547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186640,
-      "num": 186640,
-      "word": "张云龙让李庚希改改脾气",
-      "onboard_time": 1725615619,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 186243,
       "num": 186243,
       "word": "曹璐恩静cha了可怜",
@@ -9803,14 +9835,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 182260,
-      "num": 182260,
-      "word": "摩羯将在广东二次登陆",
-      "onboard_time": 1725618020,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 182127,
       "num": 182127,
       "word": "佟丽娅腰间蝴蝶结好大",
@@ -10081,6 +10105,14 @@
       "onboard_time": 1725600199,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178816,
+      "num": 431556,
+      "word": "5种食物是低脂陷阱",
+      "onboard_time": 1725616941,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178677,
@@ -10513,6 +10545,14 @@
       "onboard_time": 1725466998,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 174102,
+      "num": 174102,
+      "word": "国足 A股",
+      "onboard_time": 1725617300,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 174027,
@@ -11241,14 +11281,6 @@
       "onboard_time": 1725199640,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 164022,
-      "num": 164022,
-      "word": "摩羯海浪把2吨巨石冲走了",
-      "onboard_time": 1725617960,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163931,
@@ -13003,6 +13035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141282,
+      "num": 141282,
+      "word": "朱一龙为东极岛拍摄做的准备",
+      "onboard_time": 1725618740,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 141158,
       "num": 141158,
       "word": "台风红色预警连发多日",
@@ -13081,14 +13121,6 @@
       "onboard_time": 1725328217,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 140028,
-      "num": 140028,
-      "word": "登陆少年高会涨价",
-      "onboard_time": 1725617960,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 139831,
@@ -13411,14 +13443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132270,
-      "num": 132270,
-      "word": "秋瓷炫于晓光儿子回中国上学",
-      "onboard_time": 1725618080,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132254,
       "num": 132254,
       "word": "王铮亮想一晚上都不知道怎么回",
@@ -13659,6 +13683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127346,
+      "num": 127346,
+      "word": "直击超强台风摩羯",
+      "onboard_time": 1725618439,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127332,
       "num": 127332,
       "word": "蒋敦豪 太热了",
@@ -13673,6 +13705,14 @@
       "onboard_time": 1725552319,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126718,
+      "num": 126718,
+      "word": "细狗西装爆改bking",
+      "onboard_time": 1725618980,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 126205,
@@ -14065,6 +14105,14 @@
       "onboard_time": 1725489254,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114123,
+      "num": 114123,
+      "word": "Gawon好美",
+      "onboard_time": 1725618920,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 114030,
@@ -14513,14 +14561,6 @@
       "onboard_time": 1725492436,
       "rank": 36,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 92802,
-      "num": 431556,
-      "word": "5种食物是低脂陷阱",
-      "onboard_time": 1725616941,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92710,
@@ -16675,6 +16715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31808,
+      "num": 413665,
+      "word": "喜感很重的旅行目的地",
+      "onboard_time": 1725616161,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 31761,
       "num": 1689120,
       "word": "神十八乘组的太空日常",
@@ -17041,14 +17089,6 @@
       "onboard_time": 1725508279,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25424,
-      "num": 413665,
-      "word": "喜感很重的旅行目的地",
-      "onboard_time": 1725616161,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 25204,
