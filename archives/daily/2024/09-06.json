@@ -1,7 +1,15 @@
 {
   "startTime": 1725553630734,
-  "endTime": 1725587563240,
+  "endTime": 1725590694581,
   "band_list": [
+    {
+      "raw_hot": 4487136,
+      "num": 673127,
+      "word": "孙颖莎时尚芭莎封面",
+      "onboard_time": 1725589098,
+      "rank": 5,
+      "category": "体育"
+    },
     {
       "raw_hot": 1441651,
       "num": 655947,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1185902,
-      "num": 632773,
+      "num": 713263,
       "word": "曝多名国脚赛后大骂伊万是骗子",
       "onboard_time": 1725583761,
       "rank": 5,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1071454,
-      "num": 442821,
+      "num": 529250,
       "word": "汪苏泷 女友",
       "onboard_time": 1725540502,
       "rank": 10,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1062287,
-      "num": 298332,
+      "num": 378042,
       "word": "女子对声音敏感要求邻居晚上不用马桶",
       "onboard_time": 1725582679,
       "rank": 20,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 900695,
-      "num": 479765,
+      "num": 498564,
       "word": "国足主帅回应0比7惨败",
       "onboard_time": 1725579799,
       "rank": 10,
@@ -89,6 +97,14 @@
       "onboard_time": 1725580519,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 777134,
+      "num": 777134,
+      "word": "卤味为什么卖不动了",
+      "onboard_time": 1725584960,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 773280,
@@ -123,6 +139,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 688908,
+      "num": 688908,
+      "word": "孙颖莎杂志销量",
+      "onboard_time": 1725589879,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 636789,
+      "num": 636789,
+      "word": "您的恶了么订单即将送达",
+      "onboard_time": 1725584899,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 626005,
       "num": 286431,
       "word": "辛巴晒1亿元转账单",
@@ -140,7 +172,7 @@
     },
     {
       "raw_hot": 585785,
-      "num": 293381,
+      "num": 377268,
       "word": "三只羊 辛巴",
       "onboard_time": 1725548722,
       "rank": 23,
@@ -155,12 +187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 531506,
+      "num": 531506,
+      "word": "刘诗诗郑秀晶朱珠同框",
+      "onboard_time": 1725586338,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 518591,
       "num": 289596,
       "word": "猫 你咋不吃",
       "onboard_time": 1725581119,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 517527,
+      "num": 517527,
+      "word": "美国父亲送枪儿子去学校杀4人",
+      "onboard_time": 1725589760,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 508871,
@@ -195,14 +243,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 437496,
-      "num": 437496,
-      "word": "刘诗诗郑秀晶朱珠同框",
-      "onboard_time": 1725586338,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 423791,
       "num": 205100,
       "word": "印度女子在救护车上被强奸",
@@ -227,12 +267,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 381901,
+      "num": 381901,
+      "word": "普京表态支持哈里斯",
+      "onboard_time": 1725589879,
+      "rank": 17,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 368963,
       "num": 368963,
       "word": "云南一烈士陵园墓前多人跳广场舞",
       "onboard_time": 1725549862,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 368788,
+      "num": 368788,
+      "word": "中国可重复使用试验航天器成功着陆",
+      "onboard_time": 1725589760,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 366115,
@@ -243,12 +299,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 333961,
+      "num": 380984,
+      "word": "向佐郭碧婷杀进夫妻档大银幕",
+      "onboard_time": 1725590178,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 326806,
       "num": 255511,
       "word": "官方回应烈士陵园墓前多人跳广场舞",
       "onboard_time": 1725540683,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325524,
+      "num": 379926,
+      "word": "彭昱畅 吴谨言你看看我",
+      "onboard_time": 1725588799,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 312571,
@@ -283,28 +355,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284434,
-      "num": 304964,
-      "word": "您的恶了么订单即将送达",
-      "onboard_time": 1725584899,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 277178,
-      "num": 277178,
-      "word": "卤味为什么卖不动了",
-      "onboard_time": 1725584960,
-      "rank": 27,
-      "category": "美食"
-    },
-    {
       "raw_hot": 266586,
       "num": 266586,
       "word": "广东海南暴雨具有一定极端性",
       "onboard_time": 1725551959,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258448,
+      "num": 258448,
+      "word": "普京称已准备好与乌克兰谈判",
+      "onboard_time": 1725587480,
+      "rank": 27,
+      "category": "国外时政"
     },
     {
       "raw_hot": 256027,
@@ -323,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240934,
+      "num": 581296,
+      "word": "摩羯将以17级或更高强度登陆",
+      "onboard_time": 1725589400,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240574,
       "num": 251495,
       "word": "目前今年最出圈的台词",
@@ -339,19 +411,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 221683,
-      "num": 221683,
-      "word": "普京称已准备好与乌克兰谈判",
-      "onboard_time": 1725587480,
-      "rank": 27,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 219837,
       "num": 219837,
       "word": "丫丫抱着小篮子",
       "onboard_time": 1725586458,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219456,
+      "num": 219456,
+      "word": "摩羯或为近10年登陆琼粤的最强台风",
+      "onboard_time": 1725587480,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -379,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199190,
+      "num": 199190,
+      "word": "月饼代工厂开始做3休1",
+      "onboard_time": 1725589879,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198934,
       "num": 225579,
       "word": "中年男人的崩溃是已读不回",
@@ -395,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192747,
+      "num": 233643,
+      "word": "白鹿新专辑MyOdyssey",
+      "onboard_time": 1725590000,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 182899,
       "num": 182899,
       "word": "国足vs日本",
@@ -403,12 +491,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176409,
+      "raw_hot": 181833,
       "num": 282294,
       "word": "赵今麦灰裙黑长直",
       "onboard_time": 1725584659,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176628,
+      "num": 176628,
+      "word": "世界倒数第一赢球了",
+      "onboard_time": 1725587719,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 175661,
+      "num": 175661,
+      "word": "摩羯最新情况",
+      "onboard_time": 1725588019,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173316,
@@ -417,6 +521,14 @@
       "onboard_time": 1725578357,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171281,
+      "num": 171281,
+      "word": "中国空军埃及航展经典动作大赏",
+      "onboard_time": 1725587480,
+      "rank": 46,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 170481,
@@ -433,6 +545,14 @@
       "onboard_time": 1725586040,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165424,
+      "num": 165424,
+      "word": "吉利星座03组卫星成功发射",
+      "onboard_time": 1725588380,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164449,
@@ -507,11 +627,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154702,
-      "num": 154702,
-      "word": "摩羯或为近10年登陆琼粤的最强台风",
-      "onboard_time": 1725587480,
-      "rank": 41,
+      "raw_hot": 154628,
+      "num": 154628,
+      "word": "张凌赫男模回归",
+      "onboard_time": 1725587418,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 152225,
+      "num": 152225,
+      "word": "受台风摩羯影响香港出现狂风暴雨",
+      "onboard_time": 1725588979,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -531,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148568,
+      "num": 148568,
+      "word": "爸妈夸985哥哥成绩好弟弟反感厌学",
+      "onboard_time": 1725589760,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148338,
       "num": 158413,
       "word": "秋瓷炫带六岁儿子做紫菜包饭",
@@ -539,12 +675,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143605,
-      "num": 143605,
-      "word": "中国空军埃及航展经典动作大赏",
-      "onboard_time": 1725587480,
-      "rank": 46,
-      "category": "国内时政,军事"
+      "raw_hot": 146070,
+      "num": 146070,
+      "word": "阿根廷3比0智利",
+      "onboard_time": 1725589400,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 142366,
+      "num": 142366,
+      "word": "奥运健儿寄语开学新生强身健体",
+      "onboard_time": 1725590058,
+      "rank": 49,
+      "category": "体育,综艺"
     },
     {
       "raw_hot": 140346,
@@ -640,6 +784,14 @@
       "word": "山姆盒装牛奶外附着黑色虫卵",
       "onboard_time": 1725537981,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120097,
+      "num": 575697,
+      "word": "月饼卖不动有代工厂做3休1",
+      "onboard_time": 1725589697,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -836,7 +988,7 @@
     },
     {
       "raw_hot": 36214,
-      "num": 700246,
+      "num": 718855,
       "word": "这些常见食品原来都是非洲产",
       "onboard_time": 1725539180,
       "rank": 2,
