@@ -1,6 +1,6 @@
 {
   "startTime": 1725553630734,
-  "endTime": 1725611217951,
+  "endTime": 1725612025043,
   "band_list": [
     {
       "raw_hot": 4487136,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1766632,
-      "num": 591036,
+      "num": 671746,
       "word": "徐正溪发长文谈退圈",
       "onboard_time": 1725607579,
       "rank": 7,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 980213,
+      "num": 327466,
+      "word": "男子脸上反复长囊肿性痤疮10年未好",
+      "onboard_time": 1725610701,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 979126,
       "num": 1149396,
       "word": "台风摩羯把降雨图变红了",
@@ -169,6 +177,14 @@
       "onboard_time": 1725546563,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 953346,
+      "num": 953346,
+      "word": "文昌",
+      "onboard_time": 1725607878,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 900695,
@@ -291,6 +307,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 617085,
+      "num": 617085,
+      "word": "摩羯登陆海南文昌",
+      "onboard_time": 1725611540,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 592908,
       "num": 269737,
       "word": "日媒称不是我们太强而是中国队太弱",
@@ -320,22 +344,6 @@
       "word": "台风摩羯爆发式增强1天连跳三级",
       "onboard_time": 1725546563,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 578135,
-      "num": 578135,
-      "word": "文昌",
-      "onboard_time": 1725607878,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 554450,
-      "num": 327466,
-      "word": "男子脸上反复长囊肿性痤疮10年未好",
-      "onboard_time": 1725610701,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -369,6 +377,14 @@
       "onboard_time": 1725581119,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 512438,
+      "num": 512438,
+      "word": "刘亦菲烈焰玫瑰",
+      "onboard_time": 1725609979,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 508871,
@@ -459,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 405575,
-      "num": 405575,
-      "word": "刘亦菲烈焰玫瑰",
-      "onboard_time": 1725609979,
-      "rank": 6,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 404035,
       "num": 573695,
       "word": "中国可重复使用试验航天器成功着陆",
@@ -481,6 +489,14 @@
       "onboard_time": 1725542364,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 369320,
+      "num": 369320,
+      "word": "实拍文昌海水已经漫上岸",
+      "onboard_time": 1725610401,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 368963,
@@ -860,7 +876,7 @@
     },
     {
       "raw_hot": 224044,
-      "num": 224044,
+      "num": 251346,
       "word": "凡人歌最大受害者出现了",
       "onboard_time": 1725610219,
       "rank": 28,
@@ -896,14 +912,6 @@
       "word": "台风摩羯将至广东多地停课",
       "onboard_time": 1725551780,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212055,
-      "num": 212055,
-      "word": "实拍文昌海水已经漫上岸",
-      "onboard_time": 1725610401,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1011,6 +1019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 198951,
+      "num": 309160,
+      "word": "恩利给伊能静化网红妆",
+      "onboard_time": 1725609380,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198934,
       "num": 225579,
       "word": "中年男人的崩溃是已读不回",
@@ -1041,14 +1057,6 @@
       "onboard_time": 1725598821,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 196310,
-      "num": 222407,
-      "word": "恩利给伊能静化网红妆",
-      "onboard_time": 1725609380,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 195381,
@@ -1299,11 +1307,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163492,
+      "num": 242351,
+      "word": "新疆偶遇宋亚轩",
+      "onboard_time": 1725611841,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163449,
       "num": 372745,
       "word": "虞书欣 中华小厨娘",
       "onboard_time": 1725593419,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 163357,
+      "num": 265801,
+      "word": "齐思钧真变司仪了",
+      "onboard_time": 1725611180,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -1531,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142438,
+      "num": 142438,
+      "word": "什么条件cha了半个娱乐圈",
+      "onboard_time": 1725611719,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 142366,
       "num": 142366,
       "word": "奥运健儿寄语开学新生强身健体",
@@ -1552,6 +1584,14 @@
       "word": "不给中小学装空调是不是没苦硬吃",
       "onboard_time": 1725573672,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139392,
+      "num": 139392,
+      "word": "重庆下雨",
+      "onboard_time": 1725611480,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1577,14 +1617,6 @@
       "onboard_time": 1725591440,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 135478,
-      "num": 135478,
-      "word": "齐思钧真变司仪了",
-      "onboard_time": 1725611180,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 133930,
@@ -1699,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116382,
+      "num": 377017,
+      "word": "争议窗口单位午休时间该不该缩短",
+      "onboard_time": 1725609799,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110896,
       "num": 199709,
       "word": "罗仪涵offer史上第一个高考状元",
@@ -1803,6 +1843,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83969,
+      "num": 370913,
+      "word": "开学使用频率最高的手机功能",
+      "onboard_time": 1725607398,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 82914,
+      "num": 269621,
+      "word": "星之发文回应徐正溪",
+      "onboard_time": 1725610941,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82796,
       "num": 82796,
       "word": "美国14岁男孩在学校枪击致4死9伤",
@@ -1843,6 +1899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75781,
+      "num": 383957,
+      "word": "办卡容易退卡难真没招治吗",
+      "onboard_time": 1725609921,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75685,
       "num": 134967,
       "word": "当月薪3千和月薪5万交换午饭",
@@ -1867,36 +1931,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 70213,
-      "num": 370913,
-      "word": "开学使用频率最高的手机功能",
-      "onboard_time": 1725607398,
-      "rank": 27,
-      "category": "数码"
-    },
-    {
       "raw_hot": 68614,
       "num": 67058,
       "word": "央视抵制体育版权乱象",
       "onboard_time": 1725574634,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 65415,
-      "num": 377017,
-      "word": "争议窗口单位午休时间该不该缩短",
-      "onboard_time": 1725609799,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 64844,
-      "num": 142768,
-      "word": "星之发文回应徐正溪",
-      "onboard_time": 1725610941,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 60608,
@@ -2051,20 +2091,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 36405,
-      "num": 383957,
-      "word": "办卡容易退卡难真没招治吗",
-      "onboard_time": 1725609921,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36214,
       "num": 986271,
       "word": "这些常见食品原来都是非洲产",
       "onboard_time": 1725539180,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34119,
+      "num": 176462,
+      "word": "中国导游眼中的中非民间交往",
+      "onboard_time": 1725611362,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 30053,
@@ -2091,20 +2131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27966,
+      "num": 162955,
+      "word": "山野间的时尚密码",
+      "onboard_time": 1725611060,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 27944,
       "num": 270948,
       "word": "林更新的衬衫纽扣会发光",
       "onboard_time": 1725603199,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 27389,
-      "num": 137599,
-      "word": "山野间的时尚密码",
-      "onboard_time": 1725611060,
-      "rank": 47,
-      "category": "运动健身"
     },
     {
       "raw_hot": 24595,
@@ -2144,6 +2184,14 @@
       "word": "广东海南防汛防台风应急响应升至二级",
       "onboard_time": 1725555555,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20976,
+      "num": 372933,
+      "word": "丰收的氛围拉满了",
+      "onboard_time": 1725611660,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -2187,6 +2235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 10126,
+      "num": 680491,
+      "word": "非洲朋友在京邂逅中国传统文化",
+      "onboard_time": 1725611902,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 7100,
       "num": 39972,
       "word": "小木板成了花花新的磨牙棒",
@@ -2207,6 +2263,9 @@
     },
     {
       "word": "#中非携手优势互补才能合作共赢#"
+    },
+    {
+      "word": "#中非关系正处于历史最好时期#"
     }
   ]
 }

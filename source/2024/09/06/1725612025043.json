@@ -1,0 +1,410 @@
+{
+  "runTime": 1725612025043,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2441232,
+        "num": 2441232,
+        "word": "台风摩羯",
+        "onboard_time": 1725606559,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 953346,
+        "num": 953346,
+        "word": "文昌",
+        "onboard_time": 1725607878,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10126,
+        "num": 680491,
+        "word": "非洲朋友在京邂逅中国传统文化",
+        "onboard_time": 1725611902,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1573263,
+        "num": 671746,
+        "word": "徐正溪发长文谈退圈",
+        "onboard_time": 1725607579,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 617442,
+        "num": 617442,
+        "word": "台风摩羯 眼壁置换",
+        "onboard_time": 1725595580,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617085,
+        "num": 617085,
+        "word": "摩羯登陆海南文昌",
+        "onboard_time": 1725611540,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512438,
+        "num": 512438,
+        "word": "刘亦菲烈焰玫瑰",
+        "onboard_time": 1725609979,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20976,
+        "num": 372933,
+        "word": "丰收的氛围拉满了",
+        "onboard_time": 1725611660,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371645,
+        "num": 371645,
+        "word": "国足惨败气笑在场球迷",
+        "onboard_time": 1725595999,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122663,
+        "num": 371415,
+        "word": "广东提醒高层住宅或会摇晃",
+        "onboard_time": 1725607039,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 828766,
+        "num": 370929,
+        "word": "黄磊黄多多纽约街头骑车",
+        "onboard_time": 1725606740,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 765979,
+        "num": 370222,
+        "word": "男子为发泄一夜放了5把火",
+        "onboard_time": 1725600799,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536557,
+        "num": 369637,
+        "word": "苹果将放行微信版本更新",
+        "onboard_time": 1725593119,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 369320,
+        "num": 369320,
+        "word": "实拍文昌海水已经漫上岸",
+        "onboard_time": 1725610401,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359893,
+        "num": 359893,
+        "word": "摩羯将以17级或更高强度登陆",
+        "onboard_time": 1725589400,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323435,
+        "num": 323435,
+        "word": "我医保的钱可以给家人用吗",
+        "onboard_time": 1725602718,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221293,
+        "num": 322295,
+        "word": "白鹿的横店通高铁愿望实现了",
+        "onboard_time": 1725606201,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209418,
+        "num": 314292,
+        "word": "终于有剧没有嫡庶之分了",
+        "onboard_time": 1725593599,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198951,
+        "num": 309160,
+        "word": "恩利给伊能静化网红妆",
+        "onboard_time": 1725609380,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83969,
+        "num": 305220,
+        "word": "开学使用频率最高的手机功能",
+        "onboard_time": 1725607398,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 980213,
+        "num": 302738,
+        "word": "男子脸上反复长囊肿性痤疮10年未好",
+        "onboard_time": 1725610701,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298068,
+        "num": 298068,
+        "word": "被工作了十五年的公司裁员",
+        "onboard_time": 1725608119,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 278090,
+        "num": 278090,
+        "word": "台风",
+        "onboard_time": 1725448699,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82914,
+        "num": 269621,
+        "word": "星之发文回应徐正溪",
+        "onboard_time": 1725610941,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267276,
+        "num": 267276,
+        "word": "三只羊沫沫前男友发声",
+        "onboard_time": 1725593719,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 267256,
+        "num": 267256,
+        "word": "公司人事造假冒领近1900万工资",
+        "onboard_time": 1725599959,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163357,
+        "num": 265801,
+        "word": "齐思钧真变司仪了",
+        "onboard_time": 1725611180,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162280,
+        "num": 255474,
+        "word": "第一次见女演员打架两眼放光",
+        "onboard_time": 1725601280,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148000,
+        "num": 251346,
+        "word": "凡人歌最大受害者出现了",
+        "onboard_time": 1725610219,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163492,
+        "num": 242351,
+        "word": "新疆偶遇宋亚轩",
+        "onboard_time": 1725611841,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240200,
+        "num": 240200,
+        "word": "绝味食品回应卖不动了",
+        "onboard_time": 1725609440,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 75781,
+        "num": 236054,
+        "word": "办卡容易退卡难真没招治吗",
+        "onboard_time": 1725609921,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234860,
+        "num": 234860,
+        "word": "叫兽易小星回应撞梗国足0比7",
+        "onboard_time": 1725609560,
+        "rank": 32,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 186917,
+        "num": 186917,
+        "word": "台风摩羯把降雨图变红了",
+        "onboard_time": 1725583879,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34119,
+        "num": 176462,
+        "word": "中国导游眼中的中非民间交往",
+        "onboard_time": 1725611362,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 174912,
+        "num": 174912,
+        "word": "海口气象台回应为何把自家大门焊上",
+        "onboard_time": 1725602781,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164963,
+        "num": 164963,
+        "word": "海南人为了防台风有多努力",
+        "onboard_time": 1725602360,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27966,
+        "num": 162955,
+        "word": "山野间的时尚密码",
+        "onboard_time": 1725611060,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 162691,
+        "num": 162691,
+        "word": "萧逸掌控PV",
+        "onboard_time": 1725610280,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155741,
+        "num": 155741,
+        "word": "工美大师向黑神话悟空发律师函",
+        "onboard_time": 1725603980,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 72348,
+        "num": 147051,
+        "word": "徐正溪跟粉丝道歉",
+        "onboard_time": 1725610401,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145702,
+        "num": 145702,
+        "word": "摩羯登陆强度直逼威马逊",
+        "onboard_time": 1725596781,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142438,
+        "num": 142438,
+        "word": "什么条件cha了半个娱乐圈",
+        "onboard_time": 1725611719,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130746,
+        "num": 140996,
+        "word": "现在就出发",
+        "onboard_time": 1725609799,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81530,
+        "num": 140124,
+        "word": "WPS崩了",
+        "onboard_time": 1725604880,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 139392,
+        "num": 139392,
+        "word": "重庆下雨",
+        "onboard_time": 1725611480,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116382,
+        "num": 133847,
+        "word": "争议窗口单位午休时间该不该缩短",
+        "onboard_time": 1725609799,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133793,
+        "num": 133793,
+        "word": "台风红色预警连发多日",
+        "onboard_time": 1725593840,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131615,
+        "num": 131615,
+        "word": "第五人格",
+        "onboard_time": 1725607458,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130899,
+        "num": 130899,
+        "word": "男子疑因护士妻子出轨医生自杀新进展",
+        "onboard_time": 1725593719,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中非关系正处于历史最好时期#"
+    }
+  }
+}
