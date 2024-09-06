@@ -1,0 +1,410 @@
+{
+  "runTime": 1725601156751,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 989332,
+        "num": 1158293,
+        "word": "台风摩羯 眼壁置换",
+        "onboard_time": 1725595580,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578931,
+        "num": 578931,
+        "word": "摩羯将以17级或更高强度登陆",
+        "onboard_time": 1725589400,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12754,
+        "num": 470811,
+        "word": "共筑新时代全天候中非命运共同体",
+        "onboard_time": 1725594860,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 854649,
+        "num": 470217,
+        "word": "国足惨败气笑在场球迷",
+        "onboard_time": 1725595999,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 709803,
+        "num": 457279,
+        "word": "终于有剧没有嫡庶之分了",
+        "onboard_time": 1725593599,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 437170,
+        "num": 437170,
+        "word": "拜登儿子认罪了",
+        "onboard_time": 1725580519,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 410566,
+        "num": 410566,
+        "word": "赵晓卉 领导爱让别人点外卖的原因",
+        "onboard_time": 1725597201,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 404830,
+        "num": 404830,
+        "word": "曝多名国脚赛后大骂伊万是骗子",
+        "onboard_time": 1725583761,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 402273,
+        "num": 402273,
+        "word": "台风摩羯把降雨图变红了",
+        "onboard_time": 1725583879,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79229,
+        "num": 401575,
+        "word": "摩羯最新情况",
+        "onboard_time": 1725588019,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 929480,
+        "num": 396928,
+        "word": "苹果将放行微信版本更新",
+        "onboard_time": 1725593119,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 30080,
+        "num": 394310,
+        "word": "华晨宇双向奔富的浪漫",
+        "onboard_time": 1725597201,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 708441,
+        "num": 391898,
+        "word": "爸妈夸985哥哥成绩好弟弟反感厌学",
+        "onboard_time": 1725589760,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28437,
+        "num": 390901,
+        "word": "偷骑行女子手机两嫌疑人到案",
+        "onboard_time": 1725600679,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154509,
+        "num": 386673,
+        "word": "小鹿的婚礼段子",
+        "onboard_time": 1725599720,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 589972,
+        "num": 382910,
+        "word": "男子疑因护士妻子出轨医生自杀新进展",
+        "onboard_time": 1725593719,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487075,
+        "num": 382064,
+        "word": "汪苏泷 女友",
+        "onboard_time": 1725540502,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75995,
+        "num": 379590,
+        "word": "元莫 岳父训话我倒茶",
+        "onboard_time": 1725600320,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 376975,
+        "num": 376975,
+        "word": "汪峰回应那英歌手夺冠",
+        "onboard_time": 1725598162,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 395500,
+        "num": 374068,
+        "word": "公司人事造假冒领近1900万工资",
+        "onboard_time": 1725599959,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606588,
+        "num": 370361,
+        "word": "三只羊沫沫前男友发声",
+        "onboard_time": 1725593719,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 236836,
+        "num": 341983,
+        "word": "阎鹤祥 现挂之王",
+        "onboard_time": 1725600380,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332204,
+        "num": 332204,
+        "word": "向佐郭碧婷杀进夫妻档大银幕",
+        "onboard_time": 1725590178,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 329099,
+        "num": 329099,
+        "word": "周子瑜solo出道MV",
+        "onboard_time": 1725596541,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 301972,
+        "num": 301972,
+        "word": "卤味为什么卖不动了",
+        "onboard_time": 1725584960,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 301302,
+        "num": 301302,
+        "word": "台风",
+        "onboard_time": 1725448699,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291709,
+        "num": 291709,
+        "word": "美国父亲送枪儿子去学校杀4人",
+        "onboard_time": 1725589760,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262068,
+        "num": 262068,
+        "word": "谢娜新节目头脑风暴现场",
+        "onboard_time": 1725599121,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258353,
+        "num": 258353,
+        "word": "喜人奇妙夜 还我呱呱乐",
+        "onboard_time": 1725597081,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240000,
+        "num": 240000,
+        "word": "十个勤天首张专辑展开一天",
+        "onboard_time": 1725599182,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 232113,
+        "num": 232113,
+        "word": "苹果与微信谈判仍在继续",
+        "onboard_time": 1725598401,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 228496,
+        "num": 228496,
+        "word": "直观感受到了衣服是需要熨烫的",
+        "onboard_time": 1725598880,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213817,
+        "num": 213817,
+        "word": "辛巴和三只羊纷争升级",
+        "onboard_time": 1725591199,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 44937,
+        "num": 211508,
+        "word": "决赛圈全能本选哪家",
+        "onboard_time": 1725600501,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 210345,
+        "num": 210345,
+        "word": "金在中 年纪大的就是会疼人",
+        "onboard_time": 1725596421,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203868,
+        "num": 203868,
+        "word": "国足主帅回应0比7惨败",
+        "onboard_time": 1725579799,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197259,
+        "num": 197259,
+        "word": "刘诗诗郑秀晶朱珠同框",
+        "onboard_time": 1725586338,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193956,
+        "num": 193956,
+        "word": "陈昊宇演技",
+        "onboard_time": 1725595280,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193132,
+        "num": 193132,
+        "word": "这种才配做我的孩子",
+        "onboard_time": 1725597381,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44237,
+        "num": 190176,
+        "word": "多所高校密集换帅",
+        "onboard_time": 1725599060,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189086,
+        "num": 189086,
+        "word": "一个高中生和她拍下的117根手指",
+        "onboard_time": 1725591141,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183243,
+        "num": 183243,
+        "word": "摩羯或为近10年登陆琼粤的最强台风",
+        "onboard_time": 1725587480,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182861,
+        "num": 182861,
+        "word": "白鹿EP价格",
+        "onboard_time": 1725599360,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178824,
+        "num": 178824,
+        "word": "利剑玫瑰",
+        "onboard_time": 1725600199,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177324,
+        "num": 177324,
+        "word": "特朗普回应普京称支持哈里斯",
+        "onboard_time": 1725595042,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 174815,
+        "num": 174815,
+        "word": "女子对声音敏感要求邻居晚上不用马桶",
+        "onboard_time": 1725582679,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172637,
+        "num": 172637,
+        "word": "国足",
+        "onboard_time": 1725578776,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165314,
+        "num": 165314,
+        "word": "赵今麦美拉德短裙",
+        "onboard_time": 1725600139,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162408,
+        "num": 162408,
+        "word": "男子为发泄一夜放了5把火",
+        "onboard_time": 1725600799,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162343,
+        "num": 162343,
+        "word": "黑神话悟空DLC开发中",
+        "onboard_time": 1725597621,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中非携手优势互补才能合作共赢#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1725553630734,
-  "endTime": 1725600139205,
+  "endTime": 1725601156751,
   "band_list": [
     {
       "raw_hot": 4487136,
@@ -251,6 +251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 589972,
+      "num": 440604,
+      "word": "男子疑因护士妻子出轨医生自杀新进展",
+      "onboard_time": 1725593719,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 585785,
       "num": 387283,
       "word": "三只羊 辛巴",
@@ -281,14 +289,6 @@
       "onboard_time": 1725591199,
       "rank": 37,
       "category": "网红"
-    },
-    {
-      "raw_hot": 518757,
-      "num": 440604,
-      "word": "男子疑因护士妻子出轨医生自杀新进展",
-      "onboard_time": 1725593719,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 518591,
@@ -377,6 +377,14 @@
       "onboard_time": 1725589760,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 395500,
+      "num": 374068,
+      "word": "公司人事造假冒领近1900万工资",
+      "onboard_time": 1725599959,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389134,
@@ -531,6 +539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 262068,
+      "num": 438967,
+      "word": "谢娜新节目头脑风暴现场",
+      "onboard_time": 1725599121,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262000,
       "num": 262000,
       "word": "苹果与微信谈判仍在继续",
@@ -611,6 +627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 236836,
+      "num": 341983,
+      "word": "阎鹤祥 现挂之王",
+      "onboard_time": 1725600380,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236187,
       "num": 236187,
       "word": "华为三折叠和iPhone16你选谁",
@@ -619,12 +643,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 235938,
-      "num": 438967,
-      "word": "谢娜新节目头脑风暴现场",
-      "onboard_time": 1725599121,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 228496,
+      "num": 228496,
+      "word": "直观感受到了衣服是需要熨烫的",
+      "onboard_time": 1725598880,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 224311,
@@ -779,14 +803,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 189651,
-      "num": 189651,
-      "word": "直观感受到了衣服是需要熨烫的",
-      "onboard_time": 1725598880,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 188519,
       "num": 449530,
       "word": "小鹿的婚礼段子",
@@ -835,12 +851,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 181337,
-      "num": 181337,
-      "word": "公司人事造假冒领近1900万工资",
-      "onboard_time": 1725599959,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 178824,
+      "num": 178824,
+      "word": "利剑玫瑰",
+      "onboard_time": 1725600199,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 178350,
@@ -931,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165314,
+      "num": 165314,
+      "word": "赵今麦美拉德短裙",
+      "onboard_time": 1725600139,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 164449,
       "num": 159327,
       "word": "国足只有7分钟没守住",
@@ -953,6 +977,22 @@
       "onboard_time": 1725586399,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 162408,
+      "num": 162408,
+      "word": "男子为发泄一夜放了5把火",
+      "onboard_time": 1725600799,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162343,
+      "num": 162343,
+      "word": "黑神话悟空DLC开发中",
+      "onboard_time": 1725597621,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 160914,
@@ -1379,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75995,
+      "num": 379590,
+      "word": "元莫 岳父训话我倒茶",
+      "onboard_time": 1725600320,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 75685,
       "num": 134967,
       "word": "当月薪3千和月薪5万交换午饭",
@@ -1443,12 +1491,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44937,
+      "num": 211508,
+      "word": "决赛圈全能本选哪家",
+      "onboard_time": 1725600501,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 44735,
       "num": 521048,
       "word": "无畏新身份藏不住了",
       "onboard_time": 1725594080,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 44237,
+      "num": 444159,
+      "word": "多所高校密集换帅",
+      "onboard_time": 1725599060,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44080,
@@ -1507,11 +1571,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28111,
-      "num": 444159,
-      "word": "多所高校密集换帅",
-      "onboard_time": 1725599060,
-      "rank": 14,
+      "raw_hot": 28437,
+      "num": 390901,
+      "word": "偷骑行女子手机两嫌疑人到案",
+      "onboard_time": 1725600679,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
