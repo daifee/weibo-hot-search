@@ -1,6 +1,6 @@
 {
   "startTime": 1725553630734,
-  "endTime": 1725612025043,
+  "endTime": 1725614635408,
   "band_list": [
     {
       "raw_hot": 4487136,
@@ -19,8 +19,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2384813,
+      "num": 2384813,
+      "word": "摩羯登陆海南文昌",
+      "onboard_time": 1725611540,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1766632,
-      "num": 671746,
+      "num": 1258988,
       "word": "徐正溪发长文谈退圈",
       "onboard_time": 1725607579,
       "rank": 7,
@@ -267,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 715209,
+      "num": 715209,
+      "word": "实拍文昌海水已经漫上岸",
+      "onboard_time": 1725610401,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 704195,
       "num": 255661,
       "word": "范志毅怒斥国足",
@@ -305,14 +321,6 @@
       "onboard_time": 1725546023,
       "rank": 21,
       "category": "网红"
-    },
-    {
-      "raw_hot": 617085,
-      "num": 617085,
-      "word": "摩羯登陆海南文昌",
-      "onboard_time": 1725611540,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 592908,
@@ -443,12 +451,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 440853,
+      "num": 440853,
+      "word": "韦礼安被披哥导演骂到自闭",
+      "onboard_time": 1725612019,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 438631,
       "num": 471204,
       "word": "刘诗诗转发支持于莎莎",
       "onboard_time": 1725602420,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 431401,
+      "num": 431401,
+      "word": "被工作了十五年的公司裁员",
+      "onboard_time": 1725608119,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 423791,
@@ -489,14 +513,6 @@
       "onboard_time": 1725542364,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 369320,
-      "num": 369320,
-      "word": "实拍文昌海水已经漫上岸",
-      "onboard_time": 1725610401,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 368963,
@@ -547,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 338610,
+      "num": 301404,
+      "word": "1粒米修炼4500年直面天命",
+      "onboard_time": 1725612382,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326806,
       "num": 255511,
       "word": "官方回应烈士陵园墓前多人跳广场舞",
@@ -561,14 +585,6 @@
       "onboard_time": 1725588799,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 314517,
-      "num": 314517,
-      "word": "被工作了十五年的公司裁员",
-      "onboard_time": 1725608119,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 314117,
@@ -616,6 +632,14 @@
       "word": "海南人为了防台风有多努力",
       "onboard_time": 1725602360,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292031,
+      "num": 292031,
+      "word": "台风摩羯影响至少持续2到3天",
+      "onboard_time": 1725614180,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -859,6 +883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 225719,
+      "num": 308209,
+      "word": "伯贤逆应援",
+      "onboard_time": 1725606079,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225217,
       "num": 225217,
       "word": "十个勤天我成为我的同时",
@@ -876,7 +908,7 @@
     },
     {
       "raw_hot": 224044,
-      "num": 251346,
+      "num": 305128,
       "word": "凡人歌最大受害者出现了",
       "onboard_time": 1725610219,
       "rank": 28,
@@ -963,6 +995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206059,
+      "num": 305568,
+      "word": "新疆偶遇宋亚轩",
+      "onboard_time": 1725611841,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205602,
       "num": 205602,
       "word": "古茗KPL换卡",
@@ -1033,6 +1073,14 @@
       "onboard_time": 1725547402,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198340,
+      "num": 198340,
+      "word": "国足已抵达大连",
+      "onboard_time": 1725613280,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 198082,
@@ -1107,14 +1155,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 187544,
-      "num": 187544,
-      "word": "伯贤逆应援",
-      "onboard_time": 1725606079,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 186160,
       "num": 186160,
       "word": "时代少年团成长不再有规定的目的地",
@@ -1169,6 +1209,14 @@
       "onboard_time": 1725600199,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178712,
+      "num": 178712,
+      "word": "重庆下雨",
+      "onboard_time": 1725611480,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178350,
@@ -1227,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172705,
+      "num": 309780,
+      "word": "李维刚回应承包鱼塘事件",
+      "onboard_time": 1725612019,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172335,
       "num": 172335,
       "word": "萧逸掌控PV",
@@ -1241,6 +1297,14 @@
       "onboard_time": 1725587480,
       "rank": 46,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 170827,
+      "num": 170827,
+      "word": "现场直击超强台风摩羯威力有多大",
+      "onboard_time": 1725609080,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170481,
@@ -1305,14 +1369,6 @@
       "onboard_time": 1725585441,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163492,
-      "num": 242351,
-      "word": "新疆偶遇宋亚轩",
-      "onboard_time": 1725611841,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 163449,
@@ -1427,6 +1483,22 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 156868,
+      "num": 383918,
+      "word": "广东提醒高层住宅或会摇晃",
+      "onboard_time": 1725607039,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155949,
+      "num": 169386,
+      "word": "欧阳娜娜 你就只跟她玩也不在乎我",
+      "onboard_time": 1725613820,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155048,
       "num": 155048,
       "word": "赛后国足更衣室一片死寂",
@@ -1467,12 +1539,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151559,
+      "num": 151559,
+      "word": "什么条件cha了半个娱乐圈",
+      "onboard_time": 1725611719,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 151171,
       "num": 151171,
       "word": "日本球迷说没想到中国真这么弱",
       "onboard_time": 1725547763,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151057,
+      "num": 151057,
+      "word": "方彬涵不后悔做过的任何决定",
+      "onboard_time": 1725612741,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 150987,
@@ -1489,6 +1577,14 @@
       "onboard_time": 1725547163,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148558,
+      "num": 377017,
+      "word": "争议窗口单位午休时间该不该缩短",
+      "onboard_time": 1725609799,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148338,
@@ -1523,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147505,
+      "num": 147505,
+      "word": "Meovv出道新闻图",
+      "onboard_time": 1725612382,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 147141,
       "num": 357729,
       "word": "一切都是赘好的安排",
@@ -1555,14 +1659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142438,
-      "num": 142438,
-      "word": "什么条件cha了半个娱乐圈",
-      "onboard_time": 1725611719,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 142366,
       "num": 142366,
       "word": "奥运健儿寄语开学新生强身健体",
@@ -1584,14 +1680,6 @@
       "word": "不给中小学装空调是不是没苦硬吃",
       "onboard_time": 1725573672,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139392,
-      "num": 139392,
-      "word": "重庆下雨",
-      "onboard_time": 1725611480,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1625,14 +1713,6 @@
       "onboard_time": 1725547822,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131173,
-      "num": 383918,
-      "word": "广东提醒高层住宅或会摇晃",
-      "onboard_time": 1725607039,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129917,
@@ -1729,14 +1809,6 @@
       "onboard_time": 1725544463,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 116382,
-      "num": 377017,
-      "word": "争议窗口单位午休时间该不该缩短",
-      "onboard_time": 1725609799,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110896,
@@ -1939,6 +2011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61429,
+      "num": 303446,
+      "word": "男子为还婚前债务偷走新婚礼金",
+      "onboard_time": 1725613520,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60608,
       "num": 301818,
       "word": "985建筑生转行当厨师月入5500",
@@ -1955,6 +2035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52983,
+      "num": 307551,
+      "word": "女生体重卡100有多难",
+      "onboard_time": 1725609740,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 51632,
       "num": 492585,
       "word": "AI理财算是被蚂小财整明白了",
@@ -1964,7 +2052,7 @@
     },
     {
       "raw_hot": 51272,
-      "num": 178711,
+      "num": 207774,
       "word": "漆漆 贱萌贱萌的",
       "onboard_time": 1725603798,
       "rank": 38,
@@ -1979,12 +2067,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49560,
+      "num": 170615,
+      "word": "小鬼金发自拍",
+      "onboard_time": 1725614540,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 49113,
       "num": 542093,
       "word": "林更新请把衬衫焊身上",
       "onboard_time": 1725592460,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 49088,
+      "num": 321030,
+      "word": "路面现坑洞致网约车坠入乘客受伤",
+      "onboard_time": 1725613400,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46406,
@@ -2075,6 +2179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 38665,
+      "num": 169994,
+      "word": "李一桐多巴胺生日照",
+      "onboard_time": 1725613041,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 37103,
       "num": 448364,
       "word": "华晨宇双向奔富的浪漫",
@@ -2107,6 +2219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 32370,
+      "num": 1268293,
+      "word": "非洲朋友在京邂逅中国传统文化",
+      "onboard_time": 1725611902,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30053,
       "num": 274800,
       "word": "水果盆栽成热门打卡点",
@@ -2132,7 +2252,7 @@
     },
     {
       "raw_hot": 27966,
-      "num": 162955,
+      "num": 169642,
       "word": "山野间的时尚密码",
       "onboard_time": 1725611060,
       "rank": 47,
@@ -2187,12 +2307,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21746,
+      "num": 169252,
+      "word": "为什么花少大姐难当",
+      "onboard_time": 1725614420,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 20976,
       "num": 372933,
       "word": "丰收的氛围拉满了",
       "onboard_time": 1725611660,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20781,
+      "num": 170215,
+      "word": "被伊能静点名的贵妇级抗老尖子生",
+      "onboard_time": 1725612082,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 20757,
@@ -2227,6 +2363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 12275,
+      "num": 311540,
+      "word": "配送企业诱导外卖员签外包协议",
+      "onboard_time": 1725614180,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11202,
       "num": 34501,
       "word": "福宝站如松打招呼",
@@ -2235,12 +2379,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 10126,
-      "num": 680491,
-      "word": "非洲朋友在京邂逅中国传统文化",
-      "onboard_time": 1725611902,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 11107,
+      "num": 151862,
+      "word": "林更新和黑衬衫的适配度",
+      "onboard_time": 1725614239,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 7845,
+      "num": 201231,
+      "word": "鹭卓俩胳膊给蚊子整了满满的包",
+      "onboard_time": 1725613160,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 7100,
