@@ -1,6 +1,6 @@
 {
   "startTime": 1725553630734,
-  "endTime": 1725619190034,
+  "endTime": 1725621536708,
   "band_list": [
     {
       "raw_hot": 4487136,
@@ -115,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1184558,
+      "num": 327783,
+      "word": "小杨哥曾叫沫沫媳妇",
+      "onboard_time": 1725619641,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1156713,
       "num": 585662,
       "word": "美国父亲送枪儿子去学校杀4人",
@@ -137,6 +145,14 @@
       "onboard_time": 1725615079,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1084091,
+      "num": 1084091,
+      "word": "汪涵怎么突然老了这么多",
+      "onboard_time": 1725617240,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1071454,
@@ -203,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 914695,
+      "num": 914695,
+      "word": "iPhone16定价",
+      "onboard_time": 1725619823,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 900695,
       "num": 498564,
       "word": "国足主帅回应0比7惨败",
@@ -240,6 +264,14 @@
       "word": "陪读爸爸考上大学因现实放弃入学",
       "onboard_time": 1725559273,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 810535,
+      "num": 810535,
+      "word": "摩羯成史上登陆我国最强秋台风",
+      "onboard_time": 1725617719,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -315,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 655480,
+      "num": 547666,
+      "word": "秋瓷炫于晓光儿子回中国上学",
+      "onboard_time": 1725618080,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 636789,
       "num": 636789,
       "word": "您的恶了么订单即将送达",
@@ -337,6 +377,14 @@
       "onboard_time": 1725613280,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 597823,
+      "num": 546748,
+      "word": "寺庙网红猫咪被香客一拳打飞",
+      "onboard_time": 1725620480,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 595586,
@@ -377,14 +425,6 @@
       "onboard_time": 1725546563,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 560409,
-      "num": 411575,
-      "word": "汪涵怎么突然老了这么多",
-      "onboard_time": 1725617240,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 549843,
@@ -435,12 +475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 502140,
-      "num": 502140,
-      "word": "摩羯成史上登陆我国最强秋台风",
-      "onboard_time": 1725617719,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 503196,
+      "num": 503196,
+      "word": "刘亦菲把3000朵花穿在身上",
+      "onboard_time": 1725616819,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 493602,
@@ -531,14 +571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 433473,
-      "num": 426083,
-      "word": "秋瓷炫于晓光儿子回中国上学",
-      "onboard_time": 1725618080,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 431401,
       "num": 431401,
       "word": "被工作了十五年的公司裁员",
@@ -553,14 +585,6 @@
       "onboard_time": 1725528741,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 419627,
-      "num": 420795,
-      "word": "刘亦菲把3000朵花穿在身上",
-      "onboard_time": 1725616819,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 414682,
@@ -593,6 +617,14 @@
       "onboard_time": 1725542364,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 380189,
+      "num": 380189,
+      "word": "摩羯将在广东二次登陆",
+      "onboard_time": 1725618020,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 368963,
@@ -651,8 +683,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 331781,
-      "num": 331781,
+      "raw_hot": 333036,
+      "num": 333036,
       "word": "摩羯海浪把2吨巨石冲走了",
       "onboard_time": 1725617960,
       "rank": 33,
@@ -875,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248285,
+      "num": 180721,
+      "word": "黄多多读的是纽约大学",
+      "onboard_time": 1725621020,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245213,
       "num": 245213,
       "word": "黄轩什么时候结婚了",
@@ -1067,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210274,
+      "num": 431556,
+      "word": "5种食物是低脂陷阱",
+      "onboard_time": 1725616941,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210115,
       "num": 210115,
       "word": "柳舟记 婚后番外",
@@ -1137,14 +1185,6 @@
       "onboard_time": 1725597320,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 205052,
-      "num": 205052,
-      "word": "摩羯将在广东二次登陆",
-      "onboard_time": 1725618020,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202854,
@@ -1267,6 +1307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 188754,
+      "num": 327807,
+      "word": "赵露思盘发黑色长裙",
+      "onboard_time": 1725619580,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 188519,
       "num": 449530,
       "word": "小鹿的婚礼段子",
@@ -1297,6 +1345,14 @@
       "onboard_time": 1725596660,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182976,
+      "num": 182976,
+      "word": "摩羯中心风力已爆表",
+      "onboard_time": 1725620540,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182899,
@@ -1347,20 +1403,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178816,
-      "num": 431556,
-      "word": "5种食物是低脂陷阱",
-      "onboard_time": 1725616941,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178712,
       "num": 178712,
       "word": "重庆下雨",
       "onboard_time": 1725611480,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178691,
+      "num": 182450,
+      "word": "MEOVV空降",
+      "onboard_time": 1725619400,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 178350,
@@ -1619,6 +1675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158814,
+      "num": 158814,
+      "word": "林依晨回应我是成都人",
+      "onboard_time": 1725620840,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157874,
       "num": 238978,
       "word": "风暴潮和海浪双红色警报齐发",
@@ -1628,7 +1692,7 @@
     },
     {
       "raw_hot": 157501,
-      "num": 157501,
+      "num": 168065,
       "word": "王一博频频出现不适反应",
       "onboard_time": 1725617000,
       "rank": 35,
@@ -1827,6 +1891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144272,
+      "num": 163060,
+      "word": "朱志鑫最终战的礼物是有光",
+      "onboard_time": 1725621381,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142815,
       "num": 142815,
       "word": "酷酷的滕 或许遗憾是呱呱乐的底色",
@@ -1881,6 +1953,14 @@
       "onboard_time": 1725585441,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135839,
+      "num": 135839,
+      "word": "铁齿铜牙张艺兴",
+      "onboard_time": 1725621020,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 135807,
@@ -1963,12 +2043,28 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 127920,
+      "num": 127920,
+      "word": "海口一摩天轮吊舱随风自转",
+      "onboard_time": 1725619221,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127346,
       "num": 127346,
       "word": "直击超强台风摩羯",
       "onboard_time": 1725618439,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127304,
+      "num": 127304,
+      "word": "卢昱晓侯明昊 真红袖添香",
+      "onboard_time": 1725621198,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 126792,
@@ -1993,6 +2089,14 @@
       "onboard_time": 1725550462,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124666,
+      "num": 124666,
+      "word": "老外在中国的支付体验已到NextLevel",
+      "onboard_time": 1725619823,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123455,
@@ -2435,12 +2539,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35900,
+      "num": 552531,
+      "word": "绝不容忍在烈士陵园跳舞行为",
+      "onboard_time": 1725620600,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34119,
       "num": 176462,
       "word": "中国导游眼中的中非民间交往",
       "onboard_time": 1725611362,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33391,
+      "num": 421351,
+      "word": "现房会取代期房吗",
+      "onboard_time": 1725620780,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32370,
@@ -2497,6 +2617,14 @@
       "onboard_time": 1725603199,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 26752,
+      "num": 121396,
+      "word": "华为三折叠到底怎么折",
+      "onboard_time": 1725619221,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 24595,
@@ -2603,6 +2731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 15931,
+      "num": 136109,
+      "word": "开学你会换新电脑吗",
+      "onboard_time": 1725621020,
+      "rank": 38,
+      "category": "数码,教育"
+    },
+    {
       "raw_hot": 15490,
       "num": 63988,
       "word": "姐姐念书双胞胎弟弟情绪价值拉满",
@@ -2641,6 +2777,14 @@
       "onboard_time": 1725568632,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 9751,
+      "num": 123301,
+      "word": "颐莲建议不干了",
+      "onboard_time": 1725621502,
+      "rank": 48,
+      "category": "美妆,幽默"
     },
     {
       "raw_hot": 7100,

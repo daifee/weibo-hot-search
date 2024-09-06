@@ -1,0 +1,410 @@
+{
+  "runTime": 1725621536708,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1368855,
+        "num": 1368855,
+        "word": "台风摩羯",
+        "onboard_time": 1725606559,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1112927,
+        "num": 1112927,
+        "word": "摩羯登陆海南文昌",
+        "onboard_time": 1725611540,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8272,
+        "num": 1086097,
+        "word": "非洲朋友在京邂逅中国传统文化",
+        "onboard_time": 1725611902,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1084091,
+        "num": 1084091,
+        "word": "汪涵怎么突然老了这么多",
+        "onboard_time": 1725617240,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 914695,
+        "num": 914695,
+        "word": "iPhone16定价",
+        "onboard_time": 1725619823,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 810535,
+        "num": 810535,
+        "word": "摩羯成史上登陆我国最强秋台风",
+        "onboard_time": 1725617719,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 744928,
+        "num": 744928,
+        "word": "微信更新",
+        "onboard_time": 1725615079,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 600516,
+        "num": 600516,
+        "word": "文昌",
+        "onboard_time": 1725607878,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578862,
+        "num": 578862,
+        "word": "徐正溪发长文谈退圈",
+        "onboard_time": 1725607579,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35900,
+        "num": 552531,
+        "word": "绝不容忍在烈士陵园跳舞行为",
+        "onboard_time": 1725620600,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655480,
+        "num": 547666,
+        "word": "秋瓷炫于晓光儿子回中国上学",
+        "onboard_time": 1725618080,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 597823,
+        "num": 546748,
+        "word": "寺庙网红猫咪被香客一拳打飞",
+        "onboard_time": 1725620480,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533741,
+        "num": 533741,
+        "word": "台风摩羯 眼壁置换",
+        "onboard_time": 1725595580,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503196,
+        "num": 503196,
+        "word": "刘亦菲把3000朵花穿在身上",
+        "onboard_time": 1725616819,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33391,
+        "num": 421351,
+        "word": "现房会取代期房吗",
+        "onboard_time": 1725620780,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380189,
+        "num": 380189,
+        "word": "摩羯将在广东二次登陆",
+        "onboard_time": 1725618020,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351653,
+        "num": 351653,
+        "word": "韩安冉要生二胎了",
+        "onboard_time": 1725616161,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 333036,
+        "num": 333036,
+        "word": "摩羯海浪把2吨巨石冲走了",
+        "onboard_time": 1725617960,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226276,
+        "num": 328940,
+        "word": "张拿铁秃了",
+        "onboard_time": 1725615319,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 188754,
+        "num": 327807,
+        "word": "赵露思盘发黑色长裙",
+        "onboard_time": 1725619580,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1184558,
+        "num": 327783,
+        "word": "小杨哥曾叫沫沫媳妇",
+        "onboard_time": 1725619641,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 327752,
+        "num": 327752,
+        "word": "男子为发泄一夜放了5把火",
+        "onboard_time": 1725600799,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261301,
+        "num": 261301,
+        "word": "国足已抵达大连",
+        "onboard_time": 1725613280,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260768,
+        "num": 260768,
+        "word": "台风摩羯影响至少持续2到3天",
+        "onboard_time": 1725614180,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256622,
+        "num": 256622,
+        "word": "台风",
+        "onboard_time": 1725448699,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210274,
+        "num": 210274,
+        "word": "5种食物是低脂陷阱",
+        "onboard_time": 1725616941,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182976,
+        "num": 182976,
+        "word": "摩羯中心风力已爆表",
+        "onboard_time": 1725620540,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178691,
+        "num": 182450,
+        "word": "MEOVV空降",
+        "onboard_time": 1725619400,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161488,
+        "num": 181940,
+        "word": "迪丽热巴陈飞宇异域造型路透",
+        "onboard_time": 1725614839,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154866,
+        "num": 181779,
+        "word": "张云龙让李庚希改改脾气",
+        "onboard_time": 1725615619,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248285,
+        "num": 180721,
+        "word": "黄多多读的是纽约大学",
+        "onboard_time": 1725621020,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180607,
+        "num": 180607,
+        "word": "国足惨败气笑在场球迷",
+        "onboard_time": 1725595999,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178768,
+        "num": 178768,
+        "word": "李维刚回应承包鱼塘事件",
+        "onboard_time": 1725612019,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141091,
+        "num": 168065,
+        "word": "王一博频频出现不适反应",
+        "onboard_time": 1725617000,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144272,
+        "num": 163060,
+        "word": "朱志鑫最终战的礼物是有光",
+        "onboard_time": 1725621381,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158814,
+        "num": 158814,
+        "word": "林依晨回应我是成都人",
+        "onboard_time": 1725620840,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154437,
+        "num": 154437,
+        "word": "国足 A股",
+        "onboard_time": 1725617300,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152792,
+        "num": 152792,
+        "word": "安徽市监局专班处理三只羊槽头肉事件",
+        "onboard_time": 1725615440,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15931,
+        "num": 136109,
+        "word": "开学你会换新电脑吗",
+        "onboard_time": 1725621020,
+        "rank": 38,
+        "category": "数码,教育"
+      },
+      {
+        "raw_hot": 135839,
+        "num": 135839,
+        "word": "铁齿铜牙张艺兴",
+        "onboard_time": 1725621020,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134075,
+        "num": 134075,
+        "word": "韦礼安被披哥导演骂到自闭",
+        "onboard_time": 1725612019,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132247,
+        "num": 132247,
+        "word": "男子为还婚前债务偷走新婚礼金",
+        "onboard_time": 1725613520,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131213,
+        "num": 131213,
+        "word": "黄磊黄多多纽约街头骑车",
+        "onboard_time": 1725606740,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127920,
+        "num": 127920,
+        "word": "海口一摩天轮吊舱随风自转",
+        "onboard_time": 1725619221,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127439,
+        "num": 127439,
+        "word": "实拍文昌海水已经漫上岸",
+        "onboard_time": 1725610401,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127304,
+        "num": 127304,
+        "word": "卢昱晓侯明昊 真红袖添香",
+        "onboard_time": 1725621198,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126505,
+        "num": 126505,
+        "word": "登陆少年高会涨价",
+        "onboard_time": 1725617960,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124666,
+        "num": 124666,
+        "word": "老外在中国的支付体验已到NextLevel",
+        "onboard_time": 1725619823,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9751,
+        "num": 123301,
+        "word": "颐莲建议不干了",
+        "onboard_time": 1725621502,
+        "rank": 48,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 26752,
+        "num": 121396,
+        "word": "华为三折叠到底怎么折",
+        "onboard_time": 1725619221,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#中非关系正处于历史最好时期#"
+    }
+  }
+}
