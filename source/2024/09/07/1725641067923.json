@@ -1,0 +1,410 @@
+{
+  "runTime": 1725641067923,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1235638,
+        "num": 1235638,
+        "word": "台风摩羯",
+        "onboard_time": 1725606559,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 935577,
+        "num": 935577,
+        "word": "赵露思工作室出图",
+        "onboard_time": 1725625159,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 6285,
+        "num": 748815,
+        "word": "让更多小而美项目惠及中非亿万百姓",
+        "onboard_time": 1725630022,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 599259,
+        "num": 599259,
+        "word": "素素死在了最漂亮的那天",
+        "onboard_time": 1725631042,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 455745,
+        "num": 455745,
+        "word": "反串网红罗大美被绑架勒索后灭口内幕",
+        "onboard_time": 1725631761,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435013,
+        "num": 435013,
+        "word": "摩羯将在广西防城港再次登陆",
+        "onboard_time": 1725634343,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401989,
+        "num": 401989,
+        "word": "摩羯登陆海南文昌",
+        "onboard_time": 1725611540,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395326,
+        "num": 395326,
+        "word": "赵露思宝格丽生图",
+        "onboard_time": 1725624622,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 269315,
+        "num": 363259,
+        "word": "刘浩存自拍",
+        "onboard_time": 1725630803,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114755,
+        "num": 352146,
+        "word": "海口提醒天亮前不要出门",
+        "onboard_time": 1725633023,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577121,
+        "num": 349652,
+        "word": "超市被传倒闭顾客连吃带喝一片狼藉",
+        "onboard_time": 1725631944,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347070,
+        "num": 347070,
+        "word": "国足低调回国",
+        "onboard_time": 1725624741,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291150,
+        "num": 291150,
+        "word": "寺庙网红猫咪被香客一拳打飞",
+        "onboard_time": 1725620480,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290110,
+        "num": 290110,
+        "word": "白慧 伤心乳头综合症",
+        "onboard_time": 1725627380,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 262247,
+        "num": 262247,
+        "word": "女子替朋友熬药中毒身亡判赔23万",
+        "onboard_time": 1725625521,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223205,
+        "num": 223205,
+        "word": "海口",
+        "onboard_time": 1725629601,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200683,
+        "num": 200683,
+        "word": "台独骨干杨智渊被判9年",
+        "onboard_time": 1725634401,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 181089,
+        "num": 181089,
+        "word": "被母亲砍伤9岁男孩已脱离危险",
+        "onboard_time": 1725628461,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179714,
+        "num": 179714,
+        "word": "汪涵怎么突然老了这么多",
+        "onboard_time": 1725617240,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179603,
+        "num": 179603,
+        "word": "刘亦菲把3000朵花穿在身上",
+        "onboard_time": 1725616819,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 733685,
+        "num": 178829,
+        "word": "我的母亲一生都在被家暴",
+        "onboard_time": 1725637941,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589283,
+        "num": 173012,
+        "word": "小杨哥",
+        "onboard_time": 1725623961,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 361510,
+        "num": 168835,
+        "word": "黄多多读的是纽约大学",
+        "onboard_time": 1725621020,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373009,
+        "num": 166435,
+        "word": "小杨哥曾叫沫沫媳妇",
+        "onboard_time": 1725619641,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 164916,
+        "num": 164916,
+        "word": "台风摩羯 眼壁置换",
+        "onboard_time": 1725595580,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164323,
+        "num": 164323,
+        "word": "摩羯成史上登陆我国最强秋台风",
+        "onboard_time": 1725617719,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163862,
+        "num": 163862,
+        "word": "K总 搞笑",
+        "onboard_time": 1725636799,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 162925,
+        "num": 162925,
+        "word": "台风",
+        "onboard_time": 1725448699,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160691,
+        "num": 160691,
+        "word": "流水迢迢定档",
+        "onboard_time": 1725638779,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122414,
+        "num": 156439,
+        "word": "汪峰难听",
+        "onboard_time": 1725625880,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155844,
+        "num": 155844,
+        "word": "海南动员38周以上孕妇住院待产",
+        "onboard_time": 1725635842,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143380,
+        "num": 143380,
+        "word": "摩羯将在广东二次登陆",
+        "onboard_time": 1725618020,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132949,
+        "num": 132949,
+        "word": "一岁幼童学走路摔了一跤中风了",
+        "onboard_time": 1725627802,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132529,
+        "num": 132529,
+        "word": "男子捡手机试出密码狂刷4千元被抓",
+        "onboard_time": 1725635181,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114197,
+        "num": 114197,
+        "word": "市监局调查山姆月饼被爆吃出牙齿",
+        "onboard_time": 1725634343,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104420,
+        "num": 104420,
+        "word": "微信更新",
+        "onboard_time": 1725615079,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 104296,
+        "num": 104296,
+        "word": "国足对战沙特门票最高1680元",
+        "onboard_time": 1725630803,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102555,
+        "num": 102555,
+        "word": "家长为买学校指定教辅材料连夜排长队",
+        "onboard_time": 1725634642,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101855,
+        "num": 101855,
+        "word": "徐正溪发长文谈退圈",
+        "onboard_time": 1725607579,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101575,
+        "num": 101575,
+        "word": "张帅组合冲击美网冠军",
+        "onboard_time": 1725638840,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101036,
+        "num": 101036,
+        "word": "摩羯海浪把2吨巨石冲走了",
+        "onboard_time": 1725617960,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95382,
+        "num": 95382,
+        "word": "KSG对战AG",
+        "onboard_time": 1725622519,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90064,
+        "num": 90064,
+        "word": "文昌",
+        "onboard_time": 1725607878,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88588,
+        "num": 88588,
+        "word": "华晨宇演唱会音响造价一个亿",
+        "onboard_time": 1725631761,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86748,
+        "num": 86748,
+        "word": "张杰福州",
+        "onboard_time": 1725636261,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85558,
+        "num": 85558,
+        "word": "海南广东广西等地将有极端强风雨",
+        "onboard_time": 1725638180,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84836,
+        "num": 84836,
+        "word": "广西广东海南将迎狂风暴雨",
+        "onboard_time": 1725639978,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81314,
+        "num": 81314,
+        "word": "马嘉祺郑州",
+        "onboard_time": 1725630321,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77879,
+        "num": 81289,
+        "word": "许光汉服役后首现身",
+        "onboard_time": 1725640817,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62799,
+        "num": 81253,
+        "word": "波尔说王楚钦是未来之星",
+        "onboard_time": 1725625220,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见马达加斯加总统拉乔利纳#"
+    }
+  }
+}

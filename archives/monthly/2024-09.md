@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/07 00:27:38
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/07 00:44:27
 </p>
 </blockquote>
 <p>
@@ -1881,6 +1881,12 @@ iPhone和微信你更离不开谁（热度：750022）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E6%AF%8D%E4%BA%B2%E4%B8%80%E7%94%9F%E9%83%BD%E5%9C%A8%E8%A2%AB%E5%AE%B6%E6%9A%B4%23" target="weibo">
+我的母亲一生都在被家暴（热度：733685）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BD%93%E8%A1%97%E5%9C%A8%E6%B3%95%E6%8B%89%E5%88%A9%E4%B8%8A%E5%96%B7%E5%86%99%E6%B8%A3%E7%94%B7%23" target="weibo">
 女子当街在法拉利上喷写渣男（热度：727879）
 </a>
@@ -3449,12 +3455,6 @@ aespa和EXO起诉脱粉收容所（热度：429036）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%A6%83%E6%B5%B7%E6%B4%8B%E6%93%A6%E8%82%A9%E8%80%8C%E8%BF%87%23" target="weibo">
 王楚钦覃海洋擦肩而过（热度：420589）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E6%AF%8D%E4%BA%B2%E4%B8%80%E7%94%9F%E9%83%BD%E5%9C%A8%E8%A2%AB%E5%AE%B6%E6%9A%B4%23" target="weibo">
-我的母亲一生都在被家暴（热度：420053）
 </a>
 </li>
 
