@@ -1,6 +1,6 @@
 {
   "startTime": 1725640058523,
-  "endTime": 1725651332181,
+  "endTime": 1725654136152,
   "band_list": [
     {
       "raw_hot": 1361759,
@@ -459,20 +459,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71572,
+      "num": 71572,
+      "word": "台风摩羯登陆瞬间",
+      "onboard_time": 1725646693,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62799,
       "num": 81253,
       "word": "波尔说王楚钦是未来之星",
       "onboard_time": 1725625220,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60954,
-      "num": 60954,
-      "word": "台风摩羯登陆瞬间",
-      "onboard_time": 1725646693,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43381,
@@ -515,11 +515,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13287,
+      "num": 31509,
+      "word": "古人的极繁风大金链子颠覆认知了",
+      "onboard_time": 1725654071,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11758,
+      "num": 31253,
+      "word": "传音控股财务负责人被留置并立案调查",
+      "onboard_time": 1725652451,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11664,
       "num": 39593,
       "word": "超强台风天的10个应急锦囊",
       "onboard_time": 1725648313,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11138,
+      "num": 32573,
+      "word": "民警营救3天赶在台风前救下一只猫",
+      "onboard_time": 1725652032,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
