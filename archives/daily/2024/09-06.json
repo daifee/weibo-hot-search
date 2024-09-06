@@ -1,6 +1,6 @@
 {
   "startTime": 1725553630734,
-  "endTime": 1725615441223,
+  "endTime": 1725618165489,
   "band_list": [
     {
       "raw_hot": 4487136,
@@ -219,6 +219,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 885486,
+      "num": 885486,
+      "word": "微信更新",
+      "onboard_time": 1725615079,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 871435,
       "num": 555837,
       "word": "国足惨败气笑在场球迷",
@@ -355,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 563858,
+      "num": 433754,
+      "word": "韩安冉要生二胎了",
+      "onboard_time": 1725616161,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 549843,
       "num": 549843,
       "word": "我医保的钱可以给家人用吗",
@@ -451,12 +467,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 466140,
+      "num": 466140,
+      "word": "张拿铁秃了",
+      "onboard_time": 1725615319,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
       "raw_hot": 459544,
       "num": 459544,
       "word": "厦大李胜",
       "onboard_time": 1725584240,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 455618,
+      "num": 455618,
+      "word": "李维刚回应承包鱼塘事件",
+      "onboard_time": 1725612019,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 441941,
+      "num": 441941,
+      "word": "台风摩羯影响至少持续2到3天",
+      "onboard_time": 1725614180,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 438631,
@@ -491,12 +531,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 411575,
+      "num": 411575,
+      "word": "汪涵怎么突然老了这么多",
+      "onboard_time": 1725617240,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 411230,
       "num": 411230,
       "word": "金玟庭郑秀晶同框照",
       "onboard_time": 1725584003,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 407770,
+      "num": 407770,
+      "word": "国足已抵达大连",
+      "onboard_time": 1725613280,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 404035,
@@ -555,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353963,
+      "num": 353963,
+      "word": "摩羯成史上登陆我国最强秋台风",
+      "onboard_time": 1725617719,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349236,
       "num": 349236,
       "word": "胡兵53岁比35岁还要帅",
@@ -579,20 +643,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325972,
+      "num": 422036,
+      "word": "迪丽热巴陈飞宇异域造型路透",
+      "onboard_time": 1725614839,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 325524,
       "num": 379926,
       "word": "彭昱畅 吴谨言你看看我",
       "onboard_time": 1725588799,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 319125,
-      "num": 319125,
-      "word": "台风摩羯影响至少持续2到3天",
-      "onboard_time": 1725614180,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 314117,
@@ -609,6 +673,14 @@
       "onboard_time": 1725534321,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311671,
+      "num": 420795,
+      "word": "刘亦菲把3000朵花穿在身上",
+      "onboard_time": 1725616819,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 304638,
@@ -787,22 +859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 246909,
-      "num": 246909,
-      "word": "迪丽热巴陈飞宇异域造型路透",
-      "onboard_time": 1725614839,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 246431,
-      "num": 222211,
-      "word": "国足已抵达大连",
-      "onboard_time": 1725613280,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 245213,
       "num": 245213,
       "word": "黄轩什么时候结婚了",
@@ -816,6 +872,14 @@
       "word": "摩羯登陆强度直逼威马逊",
       "onboard_time": 1725596781,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241871,
+      "num": 241871,
+      "word": "安徽市监局专班处理三只羊槽头肉事件",
+      "onboard_time": 1725615440,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -891,6 +955,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 235639,
+      "num": 235639,
+      "word": "边伯贤回归",
+      "onboard_time": 1725615259,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 228678,
       "num": 308209,
       "word": "伯贤逆应援",
@@ -961,14 +1033,6 @@
       "onboard_time": 1725551780,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210585,
-      "num": 225278,
-      "word": "边伯贤回归",
-      "onboard_time": 1725615259,
-      "rank": 19,
-      "category": "音乐"
     },
     {
       "raw_hot": 210115,
@@ -1115,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196675,
+      "num": 303446,
+      "word": "男子为还婚前债务偷走新婚礼金",
+      "onboard_time": 1725613520,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196373,
       "num": 196373,
       "word": "星穹铁道飞霄",
@@ -1129,14 +1201,6 @@
       "onboard_time": 1725595459,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194657,
-      "num": 194657,
-      "word": "微信更新",
-      "onboard_time": 1725615079,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 192747,
@@ -1187,6 +1251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 186640,
+      "num": 186640,
+      "word": "张云龙让李庚希改改脾气",
+      "onboard_time": 1725615619,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186160,
       "num": 186160,
       "word": "时代少年团成长不再有规定的目的地",
@@ -1211,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182260,
+      "num": 182260,
+      "word": "摩羯将在广东二次登陆",
+      "onboard_time": 1725618020,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181833,
       "num": 282294,
       "word": "赵今麦灰裙黑长直",
@@ -1233,14 +1313,6 @@
       "onboard_time": 1725601581,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178985,
-      "num": 309780,
-      "word": "李维刚回应承包鱼塘事件",
-      "onboard_time": 1725612019,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178824,
@@ -1411,6 +1483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164022,
+      "num": 164022,
+      "word": "摩羯海浪把2吨巨石冲走了",
+      "onboard_time": 1725617960,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163449,
       "num": 372745,
       "word": "虞书欣 中华小厨娘",
@@ -1515,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157501,
+      "num": 157501,
+      "word": "王一博频频出现不适反应",
+      "onboard_time": 1725617000,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 157314,
       "num": 157314,
       "word": "特朗普称乌克兰谎报阵亡人数",
@@ -1563,14 +1651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153401,
-      "num": 153401,
-      "word": "张拿铁秃了",
-      "onboard_time": 1725615319,
-      "rank": 44,
-      "category": "网红"
-    },
-    {
       "raw_hot": 152773,
       "num": 152773,
       "word": "李一桐克莱因蓝童话大片",
@@ -1617,6 +1697,14 @@
       "onboard_time": 1725612741,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151023,
+      "num": 151023,
+      "word": "居民说台风摩羯的海浪可能比人高",
+      "onboard_time": 1725617719,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150987,
@@ -1739,6 +1827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140028,
+      "num": 140028,
+      "word": "登陆少年高会涨价",
+      "onboard_time": 1725617960,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138926,
       "num": 138926,
       "word": "范志毅称现在考虑世界杯太远了",
@@ -1769,6 +1865,22 @@
       "onboard_time": 1725547822,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132270,
+      "num": 132270,
+      "word": "秋瓷炫于晓光儿子回中国上学",
+      "onboard_time": 1725618080,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 131127,
+      "num": 159730,
+      "word": "贺峻霖 成都",
+      "onboard_time": 1725615259,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 129917,
@@ -1867,6 +1979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117921,
+      "num": 117921,
+      "word": "74岁意大利奶奶从威尼斯徒步到中国",
+      "onboard_time": 1725618141,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110896,
       "num": 199709,
       "word": "罗仪涵offer史上第一个高考状元",
@@ -1915,11 +2035,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 95439,
-      "num": 303446,
-      "word": "男子为还婚前债务偷走新婚礼金",
-      "onboard_time": 1725613520,
-      "rank": 19,
+      "raw_hot": 92802,
+      "num": 431556,
+      "word": "5种食物是低脂陷阱",
+      "onboard_time": 1725616941,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2123,6 +2243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51028,
+      "num": 442101,
+      "word": "黑红流量生意已经骗不了消费者了",
+      "onboard_time": 1725617000,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49880,
       "num": 329236,
       "word": "女司机代驾平台陷入涉黄争议",
@@ -2323,12 +2451,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 27384,
-      "num": 159730,
-      "word": "贺峻霖 成都",
-      "onboard_time": 1725615259,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 25424,
+      "num": 413665,
+      "word": "喜感很重的旅行目的地",
+      "onboard_time": 1725616161,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 24595,
@@ -2379,6 +2507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22833,
+      "num": 407806,
+      "word": "酸甜之夜要来了",
+      "onboard_time": 1725615860,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 22692,
       "num": 176099,
       "word": "广东海南防汛防台风应急响应升至二级",
@@ -2419,6 +2555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18064,
+      "num": 153414,
+      "word": "林更新和黑衬衫的适配度",
+      "onboard_time": 1725614239,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 15490,
       "num": 63988,
       "word": "姐姐念书双胞胎弟弟情绪价值拉满",
@@ -2435,20 +2579,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13640,
+      "num": 117813,
+      "word": "去追一场海边的落日吧",
+      "onboard_time": 1725615679,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 11833,
       "num": 201231,
       "word": "鹭卓俩胳膊给蚊子整了满满的包",
       "onboard_time": 1725613160,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11239,
-      "num": 153414,
-      "word": "林更新和黑衬衫的适配度",
-      "onboard_time": 1725614239,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 11202,
