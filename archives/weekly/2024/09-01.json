@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725596690355,
+  "endTime": 1725597556245,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -683,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1448616,
+      "num": 1448616,
+      "word": "终于有剧没有嫡庶之分了",
+      "onboard_time": 1725593599,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1443889,
       "num": 1443889,
       "word": "特朗普称胜选将公开萝莉岛客户名单",
@@ -905,14 +913,6 @@
       "onboard_time": 1725497840,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1241445,
-      "num": 1241445,
-      "word": "终于有剧没有嫡庶之分了",
-      "onboard_time": 1725593599,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 1230108,
@@ -1408,6 +1408,14 @@
       "word": "碾压骑行孩童司机以过失致死罪被捕",
       "onboard_time": 1725363620,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 975235,
+      "num": 975235,
+      "word": "台风摩羯 眼壁置换",
+      "onboard_time": 1725595580,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -2299,6 +2307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 724771,
+      "num": 724771,
+      "word": "爸妈夸985哥哥成绩好弟弟反感厌学",
+      "onboard_time": 1725589760,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 721877,
       "num": 721877,
       "word": "萨巴伦卡好壮",
@@ -2457,14 +2473,6 @@
       "onboard_time": 1725181939,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 683354,
-      "num": 565489,
-      "word": "台风摩羯 眼壁置换",
-      "onboard_time": 1725595580,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 682126,
@@ -2937,14 +2945,6 @@
       "onboard_time": 1725326359,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 596573,
-      "num": 596573,
-      "word": "爸妈夸985哥哥成绩好弟弟反感厌学",
-      "onboard_time": 1725589760,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 595914,
@@ -3819,6 +3819,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 466344,
+      "num": 466344,
+      "word": "周子瑜solo出道MV",
+      "onboard_time": 1725596541,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 466280,
       "num": 466280,
       "word": "广东多地紧急停课",
@@ -4635,6 +4643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360312,
+      "num": 360312,
+      "word": "国足惨败气笑在场球迷",
+      "onboard_time": 1725595999,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 357303,
       "num": 357303,
       "word": "陈奕迅用了樊振东同款球拍",
@@ -5091,6 +5107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 312999,
+      "num": 377634,
+      "word": "男子疑因护士妻子出轨医生自杀新进展",
+      "onboard_time": 1725593719,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310578,
       "num": 310578,
       "word": "逆行路虎司机不构成交通肇事逃逸",
@@ -5193,6 +5217,14 @@
       "onboard_time": 1725242539,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 303711,
+      "num": 303711,
+      "word": "光与夜之恋",
+      "onboard_time": 1725596660,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 303207,
@@ -5875,6 +5907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 268263,
+      "num": 258107,
+      "word": "特朗普回应普京称支持哈里斯",
+      "onboard_time": 1725595042,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 267982,
       "num": 267982,
       "word": "赵丽颖新剧爆裂打拐",
@@ -5945,14 +5985,6 @@
       "onboard_time": 1725160999,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 263332,
-      "num": 263332,
-      "word": "男子疑因护士妻子出轨医生自杀新进展",
-      "onboard_time": 1725593719,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262796,
@@ -6059,6 +6091,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 258873,
+      "num": 258873,
+      "word": "陈昊宇演技",
+      "onboard_time": 1725595280,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258801,
       "num": 196989,
       "word": "男孩骑行身亡案司机认为属交通意外",
@@ -6115,6 +6155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 255473,
+      "num": 530234,
+      "word": "为什么年轻人容易遭遇断崖式分手",
+      "onboard_time": 1725592220,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255360,
       "num": 255360,
       "word": "谢娜带娃看张杰演唱会",
@@ -6129,14 +6177,6 @@
       "onboard_time": 1725376882,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 254647,
-      "num": 254647,
-      "word": "国足惨败气笑在场球迷",
-      "onboard_time": 1725595999,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 254266,
@@ -6185,14 +6225,6 @@
       "onboard_time": 1725355461,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 251836,
-      "num": 256677,
-      "word": "陈昊宇演技",
-      "onboard_time": 1725595280,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 251527,
@@ -6435,6 +6467,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 242132,
+      "num": 242132,
+      "word": "赵晓卉 领导爱让别人点外卖的原因",
+      "onboard_time": 1725597201,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 242101,
       "num": 242101,
       "word": "郑钦文凌晨4点半才睡",
@@ -6513,6 +6553,14 @@
       "onboard_time": 1725460821,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239988,
+      "num": 239988,
+      "word": "金在中 年纪大的就是会疼人",
+      "onboard_time": 1725596421,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 239676,
@@ -6649,22 +6697,6 @@
       "onboard_time": 1725595221,
       "rank": 34,
       "category": "数码"
-    },
-    {
-      "raw_hot": 236133,
-      "num": 236133,
-      "word": "特朗普回应普京称支持哈里斯",
-      "onboard_time": 1725595042,
-      "rank": 35,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 236052,
-      "num": 530234,
-      "word": "为什么年轻人容易遭遇断崖式分手",
-      "onboard_time": 1725592220,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235797,
@@ -7179,14 +7211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216348,
-      "num": 216348,
-      "word": "周子瑜solo出道MV",
-      "onboard_time": 1725596541,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 216343,
       "num": 216343,
       "word": "宁艺卓叫声好像CardiB",
@@ -7659,6 +7683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205602,
+      "num": 205602,
+      "word": "古茗KPL换卡",
+      "onboard_time": 1725597320,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 205575,
       "num": 205575,
       "word": "游泳队 全开麦",
@@ -7819,6 +7851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202854,
+      "num": 202854,
+      "word": "樊振东学会享受孤独学会和自己和解",
+      "onboard_time": 1725593541,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202814,
       "num": 202814,
       "word": "国漫直球女主天花板",
@@ -7929,6 +7969,14 @@
       "onboard_time": 1725510022,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200635,
+      "num": 216242,
+      "word": "流水迢迢",
+      "onboard_time": 1725262462,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 200447,
@@ -8057,14 +8105,6 @@
       "onboard_time": 1725258021,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 198121,
-      "num": 198389,
-      "word": "樊振东学会享受孤独学会和自己和解",
-      "onboard_time": 1725593541,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 198082,
@@ -10019,14 +10059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171374,
-      "num": 171374,
-      "word": "金在中 年纪大的就是会疼人",
-      "onboard_time": 1725596421,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171351,
       "num": 171351,
       "word": "今晚下调油价",
@@ -10113,14 +10145,6 @@
       "onboard_time": 1725436460,
       "rank": 39,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 170263,
-      "num": 170263,
-      "word": "光与夜之恋",
-      "onboard_time": 1725596660,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 170213,
@@ -10596,7 +10620,7 @@
     },
     {
       "raw_hot": 163449,
-      "num": 181553,
+      "num": 372745,
       "word": "虞书欣 中华小厨娘",
       "onboard_time": 1725593419,
       "rank": 43,
@@ -11523,14 +11547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152594,
-      "num": 216242,
-      "word": "流水迢迢",
-      "onboard_time": 1725262462,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 152468,
       "num": 152468,
       "word": "花洛莉亚曾因文案不尊重女性道歉",
@@ -12049,6 +12065,14 @@
       "onboard_time": 1725172039,
       "rank": 46,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 144743,
+      "num": 367232,
+      "word": "喜人奇妙夜 还我呱呱乐",
+      "onboard_time": 1725597081,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 144666,
@@ -12705,6 +12729,14 @@
       "onboard_time": 1725587239,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129539,
+      "num": 550287,
+      "word": "过期药能留着应急用吗",
+      "onboard_time": 1725595339,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129474,
@@ -13971,6 +14003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76404,
+      "num": 364895,
+      "word": "喜剧之王单口季",
+      "onboard_time": 1725597442,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 75786,
       "num": 970928,
       "word": "用丰收的颜色打开秋天",
@@ -14225,14 +14265,6 @@
       "onboard_time": 1725147015,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 65330,
-      "num": 550287,
-      "word": "过期药能留着应急用吗",
-      "onboard_time": 1725595339,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65230,
@@ -14899,6 +14931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44735,
+      "num": 521048,
+      "word": "无畏新身份藏不住了",
+      "onboard_time": 1725594080,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 44521,
       "num": 566633,
       "word": "李白发博祝广大学子新学期日有所进",
@@ -15187,14 +15227,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 38332,
-      "num": 521048,
-      "word": "无畏新身份藏不住了",
-      "onboard_time": 1725594080,
-      "rank": 21,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 38277,
       "num": 350149,
       "word": "周鸿祎试完小鹏MONA后想学车",
@@ -15241,6 +15273,14 @@
       "onboard_time": 1725126135,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37103,
+      "num": 239990,
+      "word": "华晨宇双向奔富的浪漫",
+      "onboard_time": 1725597201,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 36925,
@@ -15313,6 +15353,14 @@
       "onboard_time": 1725508940,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36488,
+      "num": 240012,
+      "word": "林一巴掌脸具象化",
+      "onboard_time": 1725594500,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 36266,
@@ -15537,14 +15585,6 @@
       "onboard_time": 1725531379,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32565,
-      "num": 234730,
-      "word": "林一巴掌脸具象化",
-      "onboard_time": 1725594500,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 32053,
@@ -16164,7 +16204,7 @@
     },
     {
       "raw_hot": 23109,
-      "num": 681262,
+      "num": 975348,
       "word": "共筑新时代全天候中非命运共同体",
       "onboard_time": 1725594860,
       "rank": 2,
