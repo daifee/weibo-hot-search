@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725601156751,
+  "endTime": 1725604174681,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -1331,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1021147,
+      "num": 374068,
+      "word": "公司人事造假冒领近1900万工资",
+      "onboard_time": 1725599959,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1019771,
       "num": 1019771,
       "word": "奥运冠军李倩杨家玉获赠住房",
@@ -2321,6 +2329,14 @@
       "onboard_time": 1725365479,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 724309,
+      "num": 269956,
+      "word": "第一次见女演员打架两眼放光",
+      "onboard_time": 1725601280,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 721877,
@@ -4337,14 +4353,6 @@
       "onboard_time": 1725452960,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 395500,
-      "num": 374068,
-      "word": "公司人事造假冒领近1900万工资",
-      "onboard_time": 1725599959,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 395144,
@@ -6467,6 +6475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 244618,
+      "num": 244618,
+      "word": "摩羯登陆强度直逼威马逊",
+      "onboard_time": 1725596781,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244462,
       "num": 238203,
       "word": "国足落后",
@@ -6883,6 +6899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 231985,
+      "num": 231985,
+      "word": "男子为发泄一夜放了5把火",
+      "onboard_time": 1725600799,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231982,
       "num": 740028,
       "word": "被打男司机挨打还手算正当防卫吗",
@@ -6993,6 +7017,14 @@
       "onboard_time": 1725598880,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 228024,
+      "num": 228024,
+      "word": "白鹿EP价格",
+      "onboard_time": 1725599360,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 227908,
@@ -7491,6 +7523,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 210115,
+      "num": 210115,
+      "word": "柳舟记 婚后番外",
+      "onboard_time": 1725601939,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209973,
       "num": 596160,
       "word": "青海格尔木回应毒枸杞事件",
@@ -7851,6 +7891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204093,
+      "num": 204093,
+      "word": "我医保的钱可以给家人用吗",
+      "onboard_time": 1725602718,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203927,
       "num": 203927,
       "word": "成都开学第一天高温红色预警",
@@ -8123,6 +8171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199383,
+      "num": 199383,
+      "word": "上海对樊振东陈芋汐等23人记大功",
+      "onboard_time": 1725602059,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199190,
       "num": 199190,
       "word": "月饼代工厂开始做3休1",
@@ -8235,14 +8291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197572,
-      "num": 197572,
-      "word": "白鹿EP价格",
-      "onboard_time": 1725599360,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 197454,
       "num": 201597,
       "word": "邓为 倾城之金",
@@ -8329,6 +8377,14 @@
       "onboard_time": 1725441022,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196390,
+      "num": 196390,
+      "word": "万万没想到的含金量还在上升",
+      "onboard_time": 1725604159,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 196373,
@@ -9531,6 +9587,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 179586,
+      "num": 290843,
+      "word": "刘诗诗转发支持于莎莎",
+      "onboard_time": 1725602420,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179547,
       "num": 179547,
       "word": "王楚钦回应比赛中喊来走",
@@ -9553,6 +9617,14 @@
       "onboard_time": 1725202581,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179483,
+      "num": 175490,
+      "word": "阎鹤祥代表作少爷和我",
+      "onboard_time": 1725601581,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 179477,
@@ -9785,6 +9857,14 @@
       "onboard_time": 1725205521,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176643,
+      "num": 176643,
+      "word": "黄景瑜见张艺谋转了一圈出去了",
+      "onboard_time": 1725602718,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 176628,
@@ -10113,6 +10193,14 @@
       "onboard_time": 1725350720,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173015,
+      "num": 173015,
+      "word": "海南人为了防台风有多努力",
+      "onboard_time": 1725602360,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172956,
@@ -10489,6 +10577,14 @@
       "onboard_time": 1725247400,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167473,
+      "num": 167473,
+      "word": "十个勤天我成为我的同时",
+      "onboard_time": 1725603919,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 167447,
@@ -10899,14 +10995,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 162408,
-      "num": 162408,
-      "word": "男子为发泄一夜放了5把火",
-      "onboard_time": 1725600799,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162343,
       "num": 162343,
       "word": "黑神话悟空DLC开发中",
@@ -11209,6 +11297,14 @@
       "onboard_time": 1725181758,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158490,
+      "num": 158490,
+      "word": "工美大师向黑神话悟空发律师函",
+      "onboard_time": 1725603980,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 158484,
@@ -11899,6 +11995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148825,
+      "num": 148825,
+      "word": "芬兰大学食堂吃什么",
+      "onboard_time": 1725602241,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148488,
       "num": 148488,
       "word": "邓佳鑫回应粉丝",
@@ -11979,12 +12083,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148000,
+      "num": 271453,
+      "word": "林俊杰谭松韵同框合照",
+      "onboard_time": 1725601821,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 147922,
       "num": 147922,
       "word": "张玉宁回应中日足球差距",
       "onboard_time": 1725543324,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147608,
+      "num": 147608,
+      "word": "跟AI一起管钱啥感觉",
+      "onboard_time": 1725603139,
+      "rank": 49,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 147580,
@@ -13499,6 +13619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109769,
+      "num": 288314,
+      "word": "广东人非必要不出门",
+      "onboard_time": 1725601880,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109442,
       "num": 109442,
       "word": "内蒙古包头市3.8级地震",
@@ -13616,6 +13744,14 @@
       "word": "景点邀请达人探店推广费却结不出来",
       "onboard_time": 1725336265,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103036,
+      "num": 277386,
+      "word": "海口气象台回应为何把自家大门焊上",
+      "onboard_time": 1725602781,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -14857,6 +14993,14 @@
       "onboard_time": 1725203181,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51272,
+      "num": 178711,
+      "word": "漆漆 贱萌贱萌的",
+      "onboard_time": 1725603798,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 51198,
@@ -16163,6 +16307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25944,
+      "num": 270118,
+      "word": "林更新的衬衫纽扣会发光",
+      "onboard_time": 1725603199,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 25910,
       "num": 711617,
       "word": "Anyma电音之神来上海了",
@@ -16472,6 +16624,14 @@
       "word": "发条微博为新学期加油",
       "onboard_time": 1725170659,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20757,
+      "num": 270095,
+      "word": "男子非法获取他人信息抢购倒卖茅台",
+      "onboard_time": 1725602540,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
