@@ -1,6 +1,6 @@
 {
   "startTime": 1725640058523,
-  "endTime": 1725654931957,
+  "endTime": 1725657650819,
   "band_list": [
     {
       "raw_hot": 1361759,
@@ -499,8 +499,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 26867,
-      "num": 26867,
+      "raw_hot": 35315,
+      "num": 35315,
       "word": "台风摩羯已致菲律宾16人死亡",
       "onboard_time": 1725653591,
       "rank": 35,
@@ -513,6 +513,14 @@
       "onboard_time": 1725629240,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20627,
+      "num": 53525,
+      "word": "古人的极繁风大金链子颠覆认知了",
+      "onboard_time": 1725654071,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19019,
@@ -528,14 +536,6 @@
       "word": "海南点对点通知千名孕妇提前住院",
       "onboard_time": 1725650173,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13287,
-      "num": 53525,
-      "word": "古人的极繁风大金链子颠覆认知了",
-      "onboard_time": 1725654071,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -561,6 +561,14 @@
       "onboard_time": 1725630022,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 8309,
+      "num": 48213,
+      "word": "中医用筷子为肾绞痛乘客按穴位治疗",
+      "onboard_time": 1725655931,
+      "rank": 9,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
