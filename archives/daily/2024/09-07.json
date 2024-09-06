@@ -1,6 +1,6 @@
 {
   "startTime": 1725640058523,
-  "endTime": 1725664966198,
+  "endTime": 1725665822874,
   "band_list": [
     {
       "raw_hot": 1361759,
@@ -19,19 +19,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 927580,
+      "num": 958412,
+      "word": "反串网红罗大美被绑架勒索后灭口内幕",
+      "onboard_time": 1725631761,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 834440,
       "num": 452347,
       "word": "超市被传倒闭顾客连吃带喝一片狼藉",
       "onboard_time": 1725631944,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 828905,
-      "num": 841027,
-      "word": "反串网红罗大美被绑架勒索后灭口内幕",
-      "onboard_time": 1725631761,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 490991,
+      "num": 490991,
+      "word": "海南动员38周以上孕妇住院待产",
+      "onboard_time": 1725635842,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 476536,
       "num": 476536,
       "word": "摩羯登陆海南文昌",
@@ -97,14 +105,6 @@
       "onboard_time": 1725621020,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 418231,
-      "num": 418231,
-      "word": "海南动员38周以上孕妇住院待产",
-      "onboard_time": 1725635842,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 400029,
@@ -139,12 +139,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305920,
+      "num": 279376,
+      "word": "禁止在烈士陵园等庄严场所跳广场舞",
+      "onboard_time": 1725645553,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297449,
       "num": 456969,
       "word": "刘浩存自拍",
       "onboard_time": 1725630803,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280630,
+      "num": 280630,
+      "word": "台风摩羯登陆瞬间",
+      "onboard_time": 1725646693,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271012,
@@ -155,19 +171,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 259619,
-      "num": 259619,
-      "word": "台风摩羯登陆瞬间",
-      "onboard_time": 1725646693,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253724,
-      "num": 253724,
-      "word": "禁止在烈士陵园等庄严场所跳广场舞",
-      "onboard_time": 1725645553,
-      "rank": 8,
+      "raw_hot": 252634,
+      "num": 200464,
+      "word": "一岁幼童学走路摔了一跤中风了",
+      "onboard_time": 1725627802,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -203,20 +211,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 214462,
-      "num": 200233,
-      "word": "一岁幼童学走路摔了一跤中风了",
-      "onboard_time": 1725627802,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213162,
       "num": 213162,
       "word": "台独骨干杨智渊被判9年",
       "onboard_time": 1725634401,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 209542,
+      "num": 209542,
+      "word": "台风摩羯已致菲律宾16人死亡",
+      "onboard_time": 1725653591,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202636,
@@ -259,14 +267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181156,
-      "num": 181156,
-      "word": "台风摩羯已致菲律宾16人死亡",
-      "onboard_time": 1725653591,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174281,
       "num": 174281,
       "word": "市监局调查山姆月饼被爆吃出牙齿",
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170966,
+      "num": 122090,
+      "word": "家政阿姨不愿洗衣服",
+      "onboard_time": 1725664635,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163862,
       "num": 174303,
       "word": "K总 搞笑",
@@ -305,6 +313,14 @@
       "onboard_time": 1725664395,
       "rank": 30,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 143775,
+      "num": 118105,
+      "word": "脚跟干裂的人排查4种病",
+      "onboard_time": 1725662352,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 143281,
@@ -339,14 +355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128907,
-      "num": 115721,
-      "word": "脚跟干裂的人排查4种病",
-      "onboard_time": 1725662352,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 125654,
       "num": 174284,
       "word": "汪峰难听",
@@ -379,14 +387,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 115343,
-      "num": 115343,
-      "word": "家政阿姨不愿洗衣服",
-      "onboard_time": 1725664635,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113444,
       "num": 113444,
       "word": "KSG对战AG",
@@ -403,6 +403,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107973,
+      "num": 107973,
+      "word": "男子4年举报交通违法超5000条",
+      "onboard_time": 1725664575,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107414,
+      "num": 107414,
+      "word": "林诗栋蒯曼3比0日本组合",
+      "onboard_time": 1725665115,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106847,
       "num": 106847,
       "word": "文昌",
@@ -411,12 +427,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104528,
+      "num": 127999,
+      "word": "医生为手术效果不穿防辐射铅衣",
+      "onboard_time": 1725665718,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104086,
-      "num": 117451,
+      "num": 133999,
       "word": "华晨宇演唱会音响造价一个亿",
       "onboard_time": 1725631761,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 101947,
+      "num": 101947,
+      "word": "今日11时11分白露",
+      "onboard_time": 1725665476,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 101477,
@@ -451,6 +483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 97363,
+      "num": 97363,
+      "word": "教育局回应一家长在微信群见谁怼谁",
+      "onboard_time": 1725665537,
+      "rank": 37,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 97125,
       "num": 107911,
       "word": "内场坐着的赵露思",
@@ -465,6 +505,14 @@
       "onboard_time": 1725642136,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 94933,
+      "num": 94933,
+      "word": "超市里的烤鸡为什么卖那么便宜",
+      "onboard_time": 1725664395,
+      "rank": 43,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 94698,
@@ -499,12 +547,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 90628,
-      "num": 116985,
+      "raw_hot": 91141,
+      "num": 132849,
       "word": "田曦薇 主动破冰的小蝴蝶",
       "onboard_time": 1725648614,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89988,
+      "num": 89988,
+      "word": "海南",
+      "onboard_time": 1725665537,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88598,
@@ -515,20 +571,60 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 87844,
-      "num": 87844,
-      "word": "男子4年举报交通违法超5000条",
-      "onboard_time": 1725664575,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 87312,
+      "num": 87312,
+      "word": "范志毅0比4骂早了",
+      "onboard_time": 1725663794,
+      "rank": 44,
+      "category": "体育"
     },
     {
-      "raw_hot": 72403,
-      "num": 72403,
+      "raw_hot": 83680,
+      "num": 83680,
       "word": "西部战区辟谣",
       "onboard_time": 1725660493,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 80270,
+      "num": 129019,
+      "word": "这都能认出来是黄景瑜",
+      "onboard_time": 1725663735,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 80031,
+      "num": 80031,
+      "word": "黑神话 猪重八",
+      "onboard_time": 1725665718,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 78066,
+      "num": 78066,
+      "word": "苹果可以更新微信了",
+      "onboard_time": 1725664936,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 76948,
+      "num": 116775,
+      "word": "柳岩 妈妈是全天下最会气你的人",
+      "onboard_time": 1725663135,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 71510,
+      "num": 71510,
+      "word": "张帅组合美网亚军",
+      "onboard_time": 1725665174,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 69809,
@@ -539,51 +635,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 69538,
-      "num": 114310,
-      "word": "柳岩 妈妈是全天下最会气你的人",
-      "onboard_time": 1725663135,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 68413,
-      "num": 68413,
-      "word": "苹果可以更新微信了",
-      "onboard_time": 1725664936,
-      "rank": 41,
-      "category": "数码"
-    },
-    {
       "raw_hot": 62799,
       "num": 81253,
       "word": "波尔说王楚钦是未来之星",
       "onboard_time": 1725625220,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 62179,
-      "num": 105306,
-      "word": "这都能认出来是黄景瑜",
-      "onboard_time": 1725663735,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 60447,
-      "num": 60447,
-      "word": "超市里的烤鸡为什么卖那么便宜",
-      "onboard_time": 1725664395,
-      "rank": 43,
-      "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 60439,
-      "num": 60439,
-      "word": "范志毅0比4骂早了",
-      "onboard_time": 1725663794,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -620,7 +676,7 @@
     },
     {
       "raw_hot": 26201,
-      "num": 508295,
+      "num": 541392,
       "word": "跨越千年时空相遇金字塔之巅",
       "onboard_time": 1725629240,
       "rank": 2,
