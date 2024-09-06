@@ -1,6 +1,6 @@
 {
   "startTime": 1725553630734,
-  "endTime": 1725607194259,
+  "endTime": 1725608120144,
   "band_list": [
     {
       "raw_hot": 4487136,
@@ -9,6 +9,14 @@
       "onboard_time": 1725589098,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3432299,
+      "num": 3432299,
+      "word": "台风摩羯",
+      "onboard_time": 1725492616,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1472302,
@@ -33,14 +41,6 @@
       "onboard_time": 1725581420,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1389655,
-      "num": 1389655,
-      "word": "台风摩羯",
-      "onboard_time": 1725492616,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1367871,
@@ -249,6 +249,14 @@
       "onboard_time": 1725585320,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 694432,
+      "num": 311525,
+      "word": "黄磊黄多多纽约街头骑车",
+      "onboard_time": 1725606740,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 689430,
@@ -491,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 344138,
+      "num": 344138,
+      "word": "徐正溪发长文谈退圈",
+      "onboard_time": 1725607579,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326806,
       "num": 255511,
       "word": "官方回应烈士陵园墓前多人跳广场舞",
@@ -521,14 +537,6 @@
       "onboard_time": 1725534321,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 311525,
-      "num": 311525,
-      "word": "黄磊黄多多纽约街头骑车",
-      "onboard_time": 1725606740,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 304638,
@@ -651,6 +659,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 256656,
+      "num": 466845,
+      "word": "郭麒麟被当面造谣",
+      "onboard_time": 1725606138,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256027,
       "num": 256027,
       "word": "阿如那西装出场全场沸腾",
@@ -715,12 +731,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 239700,
+      "num": 296424,
+      "word": "白鹿的横店通高铁愿望实现了",
+      "onboard_time": 1725606201,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238178,
       "num": 238178,
       "word": "白鹿EP价格",
       "onboard_time": 1725599360,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 236975,
+      "num": 236975,
+      "word": "第五人格",
+      "onboard_time": 1725607458,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 236836,
@@ -755,14 +787,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 227847,
-      "num": 296424,
-      "word": "白鹿的横店通高铁愿望实现了",
-      "onboard_time": 1725606201,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 225217,
       "num": 225217,
       "word": "十个勤天我成为我的同时",
@@ -787,20 +811,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219775,
+      "num": 219775,
+      "word": "万万没想到的含金量还在上升",
+      "onboard_time": 1725604159,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 212388,
+      "num": 212388,
+      "word": "工美大师向黑神话悟空发律师函",
+      "onboard_time": 1725603980,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 212283,
       "num": 255969,
       "word": "台风摩羯将至广东多地停课",
       "onboard_time": 1725551780,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212167,
-      "num": 212167,
-      "word": "万万没想到的含金量还在上升",
-      "onboard_time": 1725604159,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 210115,
@@ -857,14 +889,6 @@
       "onboard_time": 1725597320,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 203658,
-      "num": 203658,
-      "word": "工美大师向黑神话悟空发律师函",
-      "onboard_time": 1725603980,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 202854,
@@ -961,6 +985,14 @@
       "onboard_time": 1725590000,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 192719,
+      "num": 192719,
+      "word": "姥姥的外孙 根儿在中国",
+      "onboard_time": 1725607398,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 190420,
@@ -1073,6 +1105,22 @@
       "onboard_time": 1725587719,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176302,
+      "num": 176302,
+      "word": "文昌",
+      "onboard_time": 1725607878,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176246,
+      "num": 176246,
+      "word": "中国消防",
+      "onboard_time": 1725607760,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175661,
@@ -1195,12 +1243,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 161523,
+      "num": 296683,
+      "word": "陈漫镜头下的刘涛",
+      "onboard_time": 1725606500,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 160914,
       "num": 160914,
       "word": "男子因女生内裤掉头上气到报警",
       "onboard_time": 1725515961,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160755,
+      "num": 160755,
+      "word": "黑神话联机模式",
+      "onboard_time": 1725604340,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 159323,
@@ -1228,7 +1292,7 @@
     },
     {
       "raw_hot": 157874,
-      "num": 157874,
+      "num": 238978,
       "word": "风暴潮和海浪双红色警报齐发",
       "onboard_time": 1725605779,
       "rank": 43,
@@ -1249,14 +1313,6 @@
       "onboard_time": 1725583221,
       "rank": 42,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 156851,
-      "num": 156851,
-      "word": "黑神话联机模式",
-      "onboard_time": 1725604340,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 155048,
@@ -1313,14 +1369,6 @@
       "onboard_time": 1725592279,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150416,
-      "num": 466845,
-      "word": "郭麒麟被当面造谣",
-      "onboard_time": 1725606138,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 149246,
@@ -1385,6 +1433,14 @@
       "onboard_time": 1725591680,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142815,
+      "num": 142815,
+      "word": "酷酷的滕 或许遗憾是呱呱乐的底色",
+      "onboard_time": 1725607100,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 142366,
@@ -1523,14 +1579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125158,
-      "num": 296683,
-      "word": "陈漫镜头下的刘涛",
-      "onboard_time": 1725606500,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 123455,
       "num": 149946,
       "word": "山姆盒装牛奶外附着黑色虫卵",
@@ -1593,6 +1641,14 @@
       "onboard_time": 1725552201,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 98310,
+      "num": 435935,
+      "word": "瘦不下来可能是因为想对自己好一点",
+      "onboard_time": 1725605901,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90189,
@@ -1715,12 +1771,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60608,
+      "num": 301818,
+      "word": "985建筑生转行当厨师月入5500",
+      "onboard_time": 1725606138,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58075,
       "num": 67070,
       "word": "龙傲天你真是出息了",
       "onboard_time": 1725559633,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 53490,
+      "num": 230090,
+      "word": "开学使用频率最高的手机功能",
+      "onboard_time": 1725607398,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 51632,
@@ -1745,14 +1817,6 @@
       "onboard_time": 1725592460,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 48036,
-      "num": 435935,
-      "word": "瘦不下来可能是因为想对自己好一点",
-      "onboard_time": 1725605901,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46406,
@@ -1787,6 +1851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 44416,
+      "num": 322950,
+      "word": "十上无难事冠军",
+      "onboard_time": 1725607760,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 44237,
       "num": 444159,
       "word": "多所高校密集换帅",
@@ -1811,16 +1883,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 41640,
-      "num": 301818,
-      "word": "985建筑生转行当厨师月入5500",
-      "onboard_time": 1725606138,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 41526,
-      "num": 213313,
+      "num": 237793,
       "word": "高段位姐姐如何打破瓶颈期",
       "onboard_time": 1725606201,
       "rank": 28,

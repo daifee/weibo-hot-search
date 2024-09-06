@@ -1,0 +1,410 @@
+{
+  "runTime": 1725608120144,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3432299,
+        "num": 3432299,
+        "word": "台风摩羯",
+        "onboard_time": 1725606559,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 891689,
+        "num": 891689,
+        "word": "台风摩羯 眼壁置换",
+        "onboard_time": 1725595580,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15961,
+        "num": 555642,
+        "word": "共筑新时代全天候中非命运共同体",
+        "onboard_time": 1725594860,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532992,
+        "num": 532992,
+        "word": "国足惨败气笑在场球迷",
+        "onboard_time": 1725595999,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 509781,
+        "num": 509781,
+        "word": "我医保的钱可以给家人用吗",
+        "onboard_time": 1725602718,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368984,
+        "num": 368984,
+        "word": "终于有剧没有嫡庶之分了",
+        "onboard_time": 1725593599,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365003,
+        "num": 365003,
+        "word": "摩羯将以17级或更高强度登陆",
+        "onboard_time": 1725589400,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344138,
+        "num": 344138,
+        "word": "徐正溪发长文谈退圈",
+        "onboard_time": 1725607579,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323687,
+        "num": 323687,
+        "word": "WPS崩了",
+        "onboard_time": 1725604880,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 44416,
+        "num": 322950,
+        "word": "十上无难事冠军",
+        "onboard_time": 1725607760,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1115256,
+        "num": 310568,
+        "word": "男子为发泄一夜放了5把火",
+        "onboard_time": 1725600799,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694432,
+        "num": 305808,
+        "word": "黄磊黄多多纽约街头骑车",
+        "onboard_time": 1725606740,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399933,
+        "num": 297992,
+        "word": "苹果将放行微信版本更新",
+        "onboard_time": 1725593119,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 295795,
+        "num": 295795,
+        "word": "刘诗诗转发支持于莎莎",
+        "onboard_time": 1725602420,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397516,
+        "num": 289794,
+        "word": "公司人事造假冒领近1900万工资",
+        "onboard_time": 1725599959,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274061,
+        "num": 274061,
+        "word": "胡兵53岁比35岁还要帅",
+        "onboard_time": 1725604219,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267224,
+        "num": 267224,
+        "word": "海南人为了防台风有多努力",
+        "onboard_time": 1725602360,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256656,
+        "num": 256656,
+        "word": "郭麒麟被当面造谣",
+        "onboard_time": 1725606138,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252042,
+        "num": 252042,
+        "word": "海口气象台回应为何把自家大门焊上",
+        "onboard_time": 1725602781,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239700,
+        "num": 239700,
+        "word": "白鹿的横店通高铁愿望实现了",
+        "onboard_time": 1725606201,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371515,
+        "num": 239517,
+        "word": "三只羊沫沫前男友发声",
+        "onboard_time": 1725593719,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 122007,
+        "num": 238978,
+        "word": "风暴潮和海浪双红色警报齐发",
+        "onboard_time": 1725605779,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322245,
+        "num": 238412,
+        "word": "第一次见女演员打架两眼放光",
+        "onboard_time": 1725601280,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25142,
+        "num": 237793,
+        "word": "高段位姐姐如何打破瓶颈期",
+        "onboard_time": 1725606201,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114532,
+        "num": 237060,
+        "word": "摩羯登陆强度直逼威马逊",
+        "onboard_time": 1725596781,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236975,
+        "num": 236975,
+        "word": "第五人格",
+        "onboard_time": 1725607458,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236145,
+        "num": 236145,
+        "word": "台风",
+        "onboard_time": 1725448699,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53490,
+        "num": 230090,
+        "word": "开学使用频率最高的手机功能",
+        "onboard_time": 1725607398,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 226973,
+        "num": 226973,
+        "word": "台风摩羯把降雨图变红了",
+        "onboard_time": 1725583879,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161523,
+        "num": 220332,
+        "word": "陈漫镜头下的刘涛",
+        "onboard_time": 1725606500,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219775,
+        "num": 219775,
+        "word": "万万没想到的含金量还在上升",
+        "onboard_time": 1725604159,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212388,
+        "num": 212388,
+        "word": "工美大师向黑神话悟空发律师函",
+        "onboard_time": 1725603980,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192719,
+        "num": 192719,
+        "word": "姥姥的外孙 根儿在中国",
+        "onboard_time": 1725607398,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 60608,
+        "num": 190972,
+        "word": "985建筑生转行当厨师月入5500",
+        "onboard_time": 1725606138,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36921,
+        "num": 190102,
+        "word": "小鹿的婚礼段子",
+        "onboard_time": 1725599720,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189274,
+        "num": 189274,
+        "word": "男子疑因护士妻子出轨医生自杀新进展",
+        "onboard_time": 1725593719,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176302,
+        "num": 176302,
+        "word": "文昌",
+        "onboard_time": 1725607878,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176246,
+        "num": 176246,
+        "word": "中国消防",
+        "onboard_time": 1725607760,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175788,
+        "num": 175788,
+        "word": "直观感受到了衣服是需要熨烫的",
+        "onboard_time": 1725598880,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174893,
+        "num": 174893,
+        "word": "阿那亚偶遇杜江霍思燕带着实验犬",
+        "onboard_time": 1725605299,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173995,
+        "num": 173995,
+        "word": "林俊杰谭松韵同框合照",
+        "onboard_time": 1725601821,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172607,
+        "num": 172607,
+        "word": "上海对樊振东陈芋汐等23人记大功",
+        "onboard_time": 1725602059,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171502,
+        "num": 171502,
+        "word": "广东人非必要不出门",
+        "onboard_time": 1725601880,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163691,
+        "num": 163691,
+        "word": "卤味为什么卖不动了",
+        "onboard_time": 1725584960,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 162490,
+        "num": 162490,
+        "word": "拜登儿子认罪了",
+        "onboard_time": 1725580519,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 160755,
+        "num": 160755,
+        "word": "黑神话联机模式",
+        "onboard_time": 1725604340,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156853,
+        "num": 156853,
+        "word": "芬兰大学食堂吃什么",
+        "onboard_time": 1725602241,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150292,
+        "num": 150292,
+        "word": "汪苏泷 女友",
+        "onboard_time": 1725540502,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142815,
+        "num": 142815,
+        "word": "酷酷的滕 或许遗憾是呱呱乐的底色",
+        "onboard_time": 1725607100,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98310,
+        "num": 142540,
+        "word": "瘦不下来可能是因为想对自己好一点",
+        "onboard_time": 1725605901,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中非携手优势互补才能合作共赢#"
+    }
+  }
+}
