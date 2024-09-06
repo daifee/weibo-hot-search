@@ -1,6 +1,6 @@
 {
   "startTime": 1725553630734,
-  "endTime": 1725629118357,
+  "endTime": 1725630007009,
   "band_list": [
     {
       "raw_hot": 4487136,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1345527,
-      "num": 405882,
+      "num": 484454,
       "word": "白慧 伤心乳头综合症",
       "onboard_time": 1725627380,
       "rank": 10,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 1189486,
-      "num": 327783,
+      "num": 331107,
       "word": "小杨哥曾叫沫沫媳妇",
       "onboard_time": 1725619641,
       "rank": 20,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1062803,
-      "num": 301728,
+      "num": 354030,
       "word": "小杨哥",
       "onboard_time": 1725623961,
       "rank": 21,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 658393,
-      "num": 503196,
+      "num": 535724,
       "word": "刘亦菲把3000朵花穿在身上",
       "onboard_time": 1725616819,
       "rank": 17,
@@ -491,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 545147,
+      "num": 545147,
+      "word": "国足低调回国",
+      "onboard_time": 1725624741,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 531506,
       "num": 571223,
       "word": "刘诗诗郑秀晶朱珠同框",
@@ -539,6 +547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 492282,
+      "num": 310997,
+      "word": "女子替朋友熬药中毒身亡判赔23万",
+      "onboard_time": 1725625521,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 490620,
       "num": 490620,
       "word": "WPS崩了",
@@ -553,6 +569,14 @@
       "onboard_time": 1725538820,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 479831,
+      "num": 479831,
+      "word": "苏运莹摔倒",
+      "onboard_time": 1725626960,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 479628,
@@ -611,12 +635,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 452663,
-      "num": 389736,
-      "word": "苏运莹摔倒",
-      "onboard_time": 1725626960,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 448195,
+      "num": 448195,
+      "word": "波尔说王楚钦是未来之星",
+      "onboard_time": 1725625220,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 441941,
@@ -675,20 +699,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 407166,
-      "num": 301170,
-      "word": "女子替朋友熬药中毒身亡判赔23万",
-      "onboard_time": 1725625521,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 404035,
       "num": 573695,
       "word": "中国可重复使用试验航天器成功着陆",
       "onboard_time": 1725589760,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 397823,
+      "num": 397823,
+      "word": "一岁幼童学走路摔了一跤中风了",
+      "onboard_time": 1725627802,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 390416,
@@ -715,20 +739,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 380476,
+      "num": 380476,
+      "word": "赵露思工作室出图",
+      "onboard_time": 1725625159,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 368963,
       "num": 368963,
       "word": "云南一烈士陵园墓前多人跳广场舞",
       "onboard_time": 1725549862,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 367112,
-      "num": 367112,
-      "word": "国足低调回国",
-      "onboard_time": 1725624741,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 367036,
@@ -771,27 +795,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 346211,
-      "num": 346211,
-      "word": "波尔说王楚钦是未来之星",
-      "onboard_time": 1725625220,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 338610,
       "num": 301404,
       "word": "1粒米修炼4500年直面天命",
       "onboard_time": 1725612382,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 329124,
-      "num": 329124,
-      "word": "一岁幼童学走路摔了一跤中风了",
-      "onboard_time": 1725627802,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -843,19 +851,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 304916,
-      "num": 304916,
-      "word": "赵露思工作室出图",
-      "onboard_time": 1725625159,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 304638,
       "num": 304638,
       "word": "海口气象台回应为何把自家大门焊上",
       "onboard_time": 1725602781,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304156,
+      "num": 304156,
+      "word": "被母亲砍伤9岁男孩已脱离危险",
+      "onboard_time": 1725628461,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1339,6 +1347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 202960,
+      "num": 202960,
+      "word": "海口",
+      "onboard_time": 1725629601,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202854,
       "num": 202854,
       "word": "樊振东学会享受孤独学会和自己和解",
@@ -1627,6 +1643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 177493,
+      "num": 177493,
+      "word": "张予曦生图",
+      "onboard_time": 1725629363,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 176643,
       "num": 176643,
       "word": "黄景瑜见张艺谋转了一圈出去了",
@@ -1648,14 +1672,6 @@
       "word": "中国消防",
       "onboard_time": 1725607760,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176034,
-      "num": 176034,
-      "word": "被母亲砍伤9岁男孩已脱离危险",
-      "onboard_time": 1725628461,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -2163,6 +2179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144852,
+      "num": 144852,
+      "word": "吴世勋生图",
+      "onboard_time": 1725627441,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 142815,
       "num": 142815,
       "word": "酷酷的滕 或许遗憾是呱呱乐的底色",
@@ -2217,14 +2241,6 @@
       "onboard_time": 1725548302,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137840,
-      "num": 137840,
-      "word": "吴世勋生图",
-      "onboard_time": 1725627441,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 136851,
@@ -2409,6 +2425,14 @@
       "onboard_time": 1725618920,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 112890,
+      "num": 112890,
+      "word": "2024年风王摩羯直击雷州半岛",
+      "onboard_time": 1725628341,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111225,
@@ -2931,6 +2955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 25507,
+      "num": 180999,
+      "word": "领克Z10首撞人员完好",
+      "onboard_time": 1725629422,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 24595,
       "num": 198573,
       "word": "个人求助网络服务平台应经民政部指定",
@@ -3001,6 +3033,14 @@
       "onboard_time": 1725555555,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21931,
+      "num": 1027611,
+      "word": "跨越千年时空相遇金字塔之巅",
+      "onboard_time": 1725629240,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21746,
@@ -3081,6 +3121,22 @@
       "onboard_time": 1725568632,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 10489,
+      "num": 488154,
+      "word": "天问三号任务计划2028年前后实施两次发射",
+      "onboard_time": 1725629783,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9611,
+      "num": 500894,
+      "word": "收好台风安全避险指南",
+      "onboard_time": 1725629783,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7100,
