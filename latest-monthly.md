@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/06 10:55:36
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/06 11:23:33
 </p>
 </blockquote>
 <p>
@@ -813,6 +813,12 @@ k总 退网（热度：2551495）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%88%B6%E4%BA%B2%E9%80%81%E6%9E%AA%E5%84%BF%E5%AD%90%E5%8E%BB%E5%AD%A6%E6%A0%A1%E6%9D%804%E4%BA%BA%23" target="weibo">
+美国父亲送枪儿子去学校杀4人（热度：1130484）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%9C%A8%E5%B1%B1%E5%A7%86%E4%B9%B0%E7%9A%84%E9%B2%9C%E8%82%89%E6%9C%88%E9%A5%BC%E4%B8%AD%E5%90%83%E5%87%BA%E7%89%99%E9%BD%BF%23" target="weibo">
 女子称在山姆买的鲜肉月饼中吃出牙齿（热度：1124431）
 </a>
@@ -903,6 +909,12 @@ k总 退网（热度：2551495）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E9%83%AD%E7%A2%A7%E5%A9%B7%E6%9D%80%E8%BF%9B%E5%A4%AB%E5%A6%BB%E6%A1%A3%E5%A4%A7%E9%93%B6%E5%B9%95%23" target="weibo">
+向佐郭碧婷杀进夫妻档大银幕（热度：1049019）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%9B%E6%9D%8E%E8%B1%AA%E4%BB%96%E4%BB%AC%E9%83%BD%E7%AC%91%E4%BD%A0%23" target="weibo">
 盛李豪他们都笑你（热度：1048519）
 </a>
@@ -917,6 +929,12 @@ k总 退网（热度：2551495）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87vs%E8%90%A8%E5%B7%B4%E4%BC%A6%E5%8D%A1%23" target="weibo">
 郑钦文vs萨巴伦卡（热度：1046334）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E8%A1%A8%E6%80%81%E6%94%AF%E6%8C%81%E5%93%88%E9%87%8C%E6%96%AF%23" target="weibo">
+普京表态支持哈里斯（热度：1042385）
 </a>
 </li>
 
@@ -1079,12 +1097,6 @@ iPhone16定价（热度：1011795）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E4%BD%93%E8%82%B2%E9%81%93%E6%AD%89%23" target="weibo">
 爱奇艺体育道歉（热度：946822）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%88%B6%E4%BA%B2%E9%80%81%E6%9E%AA%E5%84%BF%E5%AD%90%E5%8E%BB%E5%AD%A6%E6%A0%A1%E6%9D%804%E4%BA%BA%23" target="weibo">
-美国父亲送枪儿子去学校杀4人（热度：941331）
 </a>
 </li>
 
@@ -1713,12 +1725,6 @@ iPhone和微信你更离不开谁（热度：750022）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E9%83%AD%E7%A2%A7%E5%A9%B7%E6%9D%80%E8%BF%9B%E5%A4%AB%E5%A6%BB%E6%A1%A3%E5%A4%A7%E9%93%B6%E5%B9%95%23" target="weibo">
-向佐郭碧婷杀进夫妻档大银幕（热度：721201）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%B9%E6%B0%B4%E5%BE%80%E4%BA%8B%20%E7%AC%AC%E4%BA%8C%E5%AD%A3%23" target="weibo">
 边水往事 第二季（热度：720234）
 </a>
@@ -2003,12 +2009,6 @@ BIGBANG三成员同台（热度：668430）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%97%E4%B8%BB%E8%A2%AB%E8%B4%A8%E7%96%91%E5%BC%80%E9%BB%84%E8%85%94%E5%90%8E%E6%94%B9%E5%BA%97%E5%90%8D%E6%80%BC%E7%BD%91%E5%8F%8B%23" target="weibo">
 店主被质疑开黄腔后改店名怼网友（热度：637634）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E8%A1%A8%E6%80%81%E6%94%AF%E6%8C%81%E5%93%88%E9%87%8C%E6%96%AF%23" target="weibo">
-普京表态支持哈里斯（热度：637193）
 </a>
 </li>
 
@@ -2501,6 +2501,12 @@ IVE未公开新歌SupernovaLove（热度：533963）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%20%E5%A5%BD%E9%A3%8E%E5%87%AD%E5%80%9F%E5%8A%9B%E9%80%81%E6%88%91%E4%B8%8A%E9%9D%92%E4%BA%91%23" target="weibo">
 郑钦文 好风凭借力送我上青云（热度：526380）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%91%A9%E7%BE%AF%E5%B0%86%E4%BB%A517%E7%BA%A7%E6%88%96%E6%9B%B4%E9%AB%98%E5%BC%BA%E5%BA%A6%E7%99%BB%E9%99%86%23" target="weibo">
+摩羯将以17级或更高强度登陆（热度：525300）
 </a>
 </li>
 
@@ -3369,6 +3375,12 @@ aespa空降（热度：395144）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E5%B7%B4%E5%92%8C%E4%B8%89%E5%8F%AA%E7%BE%8A%E7%BA%B7%E4%BA%89%E5%8D%87%E7%BA%A7%23" target="weibo">
+辛巴和三只羊纷争升级（热度：367397）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E9%81%87%E5%A4%8D%E5%88%BB%23" target="weibo">
 光遇复刻（热度：366831）
 </a>
@@ -3885,6 +3897,12 @@ iOS版微信已2个月没更新（热度：332158）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E9%87%91%E8%89%B2%E9%95%82%E7%A9%BA%E9%AB%98%E5%AE%9A%23" target="weibo">
+白鹿金色镂空高定（热度：300284）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%B4%9B%E8%8E%89%E4%BA%9A%23" target="weibo">
 花洛莉亚（热度：300054）
 </a>
@@ -4265,6 +4283,12 @@ A股（热度：279449）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%90%84%E5%8C%BA%E5%8E%BF%E6%AD%A3%E5%9C%A8%E7%A0%94%E5%88%A4%E5%BC%80%E5%AD%A6%E5%B7%A5%E4%BD%9C%E4%BA%8B%E5%AE%9C%23" target="weibo">
 重庆各区县正在研判开学工作事宜（热度：273924）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E5%A6%88%E5%A4%B8985%E5%93%A5%E5%93%A5%E6%88%90%E7%BB%A9%E5%A5%BD%E5%BC%9F%E5%BC%9F%E5%8F%8D%E6%84%9F%E5%8E%8C%E5%AD%A6%23" target="weibo">
+爸妈夸985哥哥成绩好弟弟反感厌学（热度：273885）
 </a>
 </li>
 
@@ -4779,8 +4803,8 @@ RNG 散是满天星（热度：248981）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%91%A9%E7%BE%AF%E5%B0%86%E4%BB%A517%E7%BA%A7%E6%88%96%E6%9B%B4%E9%AB%98%E5%BC%BA%E5%BA%A6%E7%99%BB%E9%99%86%23" target="weibo">
-摩羯将以17级或更高强度登陆（热度：240934）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E9%A5%BC%E5%8D%96%E4%B8%8D%E5%8A%A8%E6%9C%89%E4%BB%A3%E5%B7%A5%E5%8E%82%E5%81%9A3%E4%BC%911%23" target="weibo">
+月饼卖不动有代工厂做3休1（热度：241122）
 </a>
 </li>
 
@@ -4905,6 +4929,12 @@ RNG 散是满天星（热度：248981）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AE%B9%E6%98%93%E9%81%AD%E9%81%87%E6%96%AD%E5%B4%96%E5%BC%8F%E5%88%86%E6%89%8B%23" target="weibo">
+为什么年轻人容易遭遇断崖式分手（热度：236052）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%98%9F%E9%A9%B0%E7%94%B5%E5%BD%B1%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%B8%A7%23" target="weibo">
 周星驰电影的最后一帧（热度：235797）
 </a>
@@ -5003,6 +5033,12 @@ RNG 散是满天星（热度：248981）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%89%93%E7%94%B7%E5%8F%B8%E6%9C%BA%E6%8C%A8%E6%89%93%E8%BF%98%E6%89%8B%E7%AE%97%E6%AD%A3%E5%BD%93%E9%98%B2%E5%8D%AB%E5%90%97%23" target="weibo">
 被打男司机挨打还手算正当防卫吗（热度：231982）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E9%AB%98%E4%B8%AD%E7%94%9F%E5%92%8C%E5%A5%B9%E6%8B%8D%E4%B8%8B%E7%9A%84117%E6%A0%B9%E6%89%8B%E6%8C%87%23" target="weibo">
+一个高中生和她拍下的117根手指（热度：231585）
 </a>
 </li>
 
@@ -5973,44 +6009,8 @@ LPL出征S14（热度：198796）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E9%AB%98%E4%B8%AD%E7%94%9F%E5%92%8C%E5%A5%B9%E6%8B%8D%E4%B8%8B%E7%9A%84117%E6%A0%B9%E6%89%8B%E6%8C%87%23" target="weibo">
-一个高中生和她拍下的117根手指（热度：197710）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%20%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%87%91%23" target="weibo">
 邓为 倾城之金（热度：197454）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23KPL%23" target="weibo">
-KPL（热度：197340）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%8F%A5%E9%BB%84%E8%8A%B1%E6%A2%A8%E6%98%AF%E6%9D%A5%E8%A6%81%E6%88%91%E5%91%BD%E7%9A%84%23" target="weibo">
-这句黄花梨是来要我命的（热度：197173）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%B0%B9%E6%98%89%E5%86%8D%E5%90%88%E4%BD%9C%23" target="weibo">
-易烊千玺尹昉再合作（热度：197128）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E6%85%95%E8%83%A5%E8%BE%9E%E5%A6%86%E9%80%A0%23" target="weibo">
-陈飞宇慕胥辞妆造（热度：197109）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9F%B3%E8%88%9F%E8%AE%B0%23" target="weibo">
-柳舟记（热度：197026）
 </a>
 </li>
 
