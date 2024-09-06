@@ -1,0 +1,410 @@
+{
+  "runTime": 1725615441223,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2378933,
+        "num": 2378933,
+        "word": "摩羯登陆海南文昌",
+        "onboard_time": 1725611540,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1108535,
+        "num": 1108535,
+        "word": "台风摩羯",
+        "onboard_time": 1725606559,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32133,
+        "num": 800259,
+        "word": "非洲朋友在京邂逅中国传统文化",
+        "onboard_time": 1725611902,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1139827,
+        "num": 797024,
+        "word": "徐正溪发长文谈退圈",
+        "onboard_time": 1725607579,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 770927,
+        "num": 770927,
+        "word": "实拍文昌海水已经漫上岸",
+        "onboard_time": 1725610401,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503346,
+        "num": 503346,
+        "word": "文昌",
+        "onboard_time": 1725607878,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471665,
+        "num": 471665,
+        "word": "韦礼安被披哥导演骂到自闭",
+        "onboard_time": 1725612019,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 468053,
+        "num": 468053,
+        "word": "台风摩羯 眼壁置换",
+        "onboard_time": 1725595580,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385833,
+        "num": 385833,
+        "word": "被工作了十五年的公司裁员",
+        "onboard_time": 1725608119,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 319125,
+        "num": 319125,
+        "word": "台风摩羯影响至少持续2到3天",
+        "onboard_time": 1725614180,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516863,
+        "num": 317954,
+        "word": "苹果将放行微信版本更新",
+        "onboard_time": 1725593119,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 469004,
+        "num": 311800,
+        "word": "男子为发泄一夜放了5把火",
+        "onboard_time": 1725600799,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304279,
+        "num": 304279,
+        "word": "国足惨败气笑在场球迷",
+        "onboard_time": 1725595999,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23601,
+        "num": 296136,
+        "word": "配送企业诱导外卖员签外包协议",
+        "onboard_time": 1725614180,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292068,
+        "num": 292068,
+        "word": "刘亦菲烈焰玫瑰",
+        "onboard_time": 1725609979,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 275571,
+        "num": 275571,
+        "word": "台风",
+        "onboard_time": 1725448699,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246909,
+        "num": 246909,
+        "word": "迪丽热巴陈飞宇异域造型路透",
+        "onboard_time": 1725614839,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226851,
+        "num": 226851,
+        "word": "1粒米修炼4500年直面天命",
+        "onboard_time": 1725612382,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228678,
+        "num": 226551,
+        "word": "伯贤逆应援",
+        "onboard_time": 1725606079,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210585,
+        "num": 225278,
+        "word": "边伯贤回归",
+        "onboard_time": 1725615259,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178985,
+        "num": 224833,
+        "word": "李维刚回应承包鱼塘事件",
+        "onboard_time": 1725612019,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26717,
+        "num": 223777,
+        "word": "十上无难事冠军",
+        "onboard_time": 1725607760,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246431,
+        "num": 222211,
+        "word": "国足已抵达大连",
+        "onboard_time": 1725613280,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 596361,
+        "num": 221818,
+        "word": "黄磊黄多多纽约街头骑车",
+        "onboard_time": 1725606740,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220952,
+        "num": 220952,
+        "word": "绝味食品回应卖不动了",
+        "onboard_time": 1725609440,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 194657,
+        "num": 194657,
+        "word": "微信更新",
+        "onboard_time": 1725615079,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 192390,
+        "num": 192390,
+        "word": "我医保的钱可以给家人用吗",
+        "onboard_time": 1725602718,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187933,
+        "num": 187933,
+        "word": "刘亦菲宝格丽活动",
+        "onboard_time": 1725615139,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 11833,
+        "num": 181762,
+        "word": "鹭卓俩胳膊给蚊子整了满满的包",
+        "onboard_time": 1725613160,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95439,
+        "num": 181210,
+        "word": "男子为还婚前债务偷走新婚礼金",
+        "onboard_time": 1725613520,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180949,
+        "num": 180949,
+        "word": "新疆偶遇宋亚轩",
+        "onboard_time": 1725611841,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23377,
+        "num": 175595,
+        "word": "小鹿的婚礼段子",
+        "onboard_time": 1725599720,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173375,
+        "num": 173375,
+        "word": "公司人事造假冒领近1900万工资",
+        "onboard_time": 1725599959,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172858,
+        "num": 172858,
+        "word": "刘诗诗模仿i人玩手机",
+        "onboard_time": 1725610820,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 76070,
+        "num": 172690,
+        "word": "路面现坑洞致网约车坠入乘客受伤",
+        "onboard_time": 1725613400,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71519,
+        "num": 169246,
+        "word": "女生体重卡100有多难",
+        "onboard_time": 1725609740,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 720485,
+        "num": 165736,
+        "word": "男子脸上反复长囊肿性痤疮10年未好",
+        "onboard_time": 1725610701,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23744,
+        "num": 163918,
+        "word": "被伊能静点名的贵妇级抗老尖子生",
+        "onboard_time": 1725612082,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162235,
+        "num": 162235,
+        "word": "凡人歌最大受害者出现了",
+        "onboard_time": 1725610219,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160752,
+        "num": 160752,
+        "word": "三只羊沫沫前男友发声",
+        "onboard_time": 1725593719,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 27384,
+        "num": 159730,
+        "word": "贺峻霖 成都",
+        "onboard_time": 1725615259,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159474,
+        "num": 159474,
+        "word": "欧阳娜娜 你就只跟她玩也不在乎我",
+        "onboard_time": 1725613820,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153810,
+        "num": 153810,
+        "word": "边伯贤送粉丝5万韩元交通卡",
+        "onboard_time": 1725613879,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11239,
+        "num": 153414,
+        "word": "林更新和黑衬衫的适配度",
+        "onboard_time": 1725614239,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153401,
+        "num": 153401,
+        "word": "张拿铁秃了",
+        "onboard_time": 1725615319,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 151365,
+        "num": 151365,
+        "word": "叫兽易小星回应撞梗国足0比7",
+        "onboard_time": 1725609560,
+        "rank": 45,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 147823,
+        "num": 147823,
+        "word": "现场直击超强台风摩羯威力有多大",
+        "onboard_time": 1725609080,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144315,
+        "num": 144315,
+        "word": "海口气象台回应为何把自家大门焊上",
+        "onboard_time": 1725602781,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143614,
+        "num": 143614,
+        "word": "什么条件cha了半个娱乐圈",
+        "onboard_time": 1725611719,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142899,
+        "num": 142899,
+        "word": "Meovv出道新闻图",
+        "onboard_time": 1725612382,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#中非关系正处于历史最好时期#"
+    }
+  }
+}

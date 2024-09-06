@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725614635408,
+  "endTime": 1725615441223,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -2251,6 +2251,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 770927,
+      "num": 770927,
+      "word": "实拍文昌海水已经漫上岸",
+      "onboard_time": 1725610401,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 769891,
       "num": 769891,
       "word": "韩国研发出爬楼轮椅",
@@ -2441,14 +2449,6 @@
       "onboard_time": 1725433581,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 715209,
-      "num": 715209,
-      "word": "实拍文昌海水已经漫上岸",
-      "onboard_time": 1725610401,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 711528,
@@ -3907,6 +3907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 471665,
+      "num": 471665,
+      "word": "韦礼安被披哥导演骂到自闭",
+      "onboard_time": 1725612019,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 471177,
       "num": 471177,
       "word": "现在小朋友的名字这么主角感的么",
@@ -4145,14 +4153,6 @@
       "onboard_time": 1725167479,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 440853,
-      "num": 440853,
-      "word": "韦礼安被披哥导演骂到自闭",
-      "onboard_time": 1725612019,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 438631,
@@ -5179,6 +5179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 319125,
+      "num": 319125,
+      "word": "台风摩羯影响至少持续2到3天",
+      "onboard_time": 1725614180,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317889,
       "num": 317889,
       "word": "电影野孩子开预售",
@@ -5593,14 +5601,6 @@
       "onboard_time": 1725447920,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 292031,
-      "num": 292031,
-      "word": "台风摩羯影响至少持续2到3天",
-      "onboard_time": 1725614180,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291655,
@@ -6611,6 +6611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246909,
+      "num": 246909,
+      "word": "迪丽热巴陈飞宇异域造型路透",
+      "onboard_time": 1725614839,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246494,
       "num": 246494,
       "word": "王珞丹杨志刚一不小心成了12年的朋友",
@@ -6633,6 +6641,14 @@
       "onboard_time": 1725345382,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246431,
+      "num": 222211,
+      "word": "国足已抵达大连",
+      "onboard_time": 1725613280,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 245973,
@@ -7211,6 +7227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228678,
+      "num": 308209,
+      "word": "伯贤逆应援",
+      "onboard_time": 1725606079,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228496,
       "num": 228496,
       "word": "直观感受到了衣服是需要熨烫的",
@@ -7265,14 +7289,6 @@
       "onboard_time": 1725192257,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 225719,
-      "num": 308209,
-      "word": "伯贤逆应援",
-      "onboard_time": 1725606079,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 225217,
@@ -7737,6 +7753,14 @@
       "onboard_time": 1725537500,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 210585,
+      "num": 225278,
+      "word": "边伯贤回归",
+      "onboard_time": 1725615259,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 210476,
@@ -8491,14 +8515,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 198340,
-      "num": 198340,
-      "word": "国足已抵达大连",
-      "onboard_time": 1725613280,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 198174,
       "num": 198174,
       "word": "上海不少市民吐槽电费不正常",
@@ -8801,6 +8817,14 @@
       "onboard_time": 1725441922,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194657,
+      "num": 194657,
+      "word": "微信更新",
+      "onboard_time": 1725615079,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 194454,
@@ -9297,6 +9321,14 @@
       "onboard_time": 1725254840,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187933,
+      "num": 187933,
+      "word": "刘亦菲宝格丽活动",
+      "onboard_time": 1725615139,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 187888,
@@ -9939,6 +9971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178985,
+      "num": 309780,
+      "word": "李维刚回应承包鱼塘事件",
+      "onboard_time": 1725612019,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178979,
       "num": 178979,
       "word": "车主误会了猫咪的好意",
@@ -10491,20 +10531,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172858,
+      "num": 172858,
+      "word": "刘诗诗模仿i人玩手机",
+      "onboard_time": 1725610820,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 172738,
       "num": 172738,
       "word": "黄雨婷太全面了",
       "onboard_time": 1725355280,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 172705,
-      "num": 309780,
-      "word": "李维刚回应承包鱼塘事件",
-      "onboard_time": 1725612019,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172638,
@@ -11515,6 +11555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159474,
+      "num": 169386,
+      "word": "欧阳娜娜 你就只跟她玩也不在乎我",
+      "onboard_time": 1725613820,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159428,
       "num": 671395,
       "word": "列车有权拒绝买短乘长旅客继续乘车",
@@ -11843,14 +11891,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 155949,
-      "num": 169386,
-      "word": "欧阳娜娜 你就只跟她玩也不在乎我",
-      "onboard_time": 1725613820,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 155818,
       "num": 155818,
       "word": "三只羊和小杨哥都在掉粉",
@@ -12051,6 +12091,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 153810,
+      "num": 153810,
+      "word": "边伯贤送粉丝5万韩元交通卡",
+      "onboard_time": 1725613879,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153795,
       "num": 153795,
       "word": "全红婵怼脸拍樊振东",
@@ -12097,6 +12145,14 @@
       "onboard_time": 1725538640,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153401,
+      "num": 153401,
+      "word": "张拿铁秃了",
+      "onboard_time": 1725615319,
+      "rank": 44,
+      "category": "网红"
     },
     {
       "raw_hot": 153106,
@@ -14291,6 +14347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95439,
+      "num": 303446,
+      "word": "男子为还婚前债务偷走新婚礼金",
+      "onboard_time": 1725613520,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95403,
       "num": 120279,
       "word": "赵露思英伦针织衫",
@@ -14699,6 +14763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76070,
+      "num": 321030,
+      "word": "路面现坑洞致网约车坠入乘客受伤",
+      "onboard_time": 1725613400,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75995,
       "num": 379590,
       "word": "元莫 岳父训话我倒茶",
@@ -14841,6 +14913,14 @@
       "onboard_time": 1725524240,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 71519,
+      "num": 307551,
+      "word": "女生体重卡100有多难",
+      "onboard_time": 1725609740,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 70607,
@@ -15080,14 +15160,6 @@
       "word": "一图了解中非合作论坛",
       "onboard_time": 1725264979,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61429,
-      "num": 303446,
-      "word": "男子为还婚前债务偷走新婚礼金",
-      "onboard_time": 1725613520,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -15371,14 +15443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52983,
-      "num": 307551,
-      "word": "女生体重卡100有多难",
-      "onboard_time": 1725609740,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 51958,
       "num": 467832,
       "word": "深圳强风冰柜被刮跑",
@@ -15529,14 +15593,6 @@
       "onboard_time": 1725592460,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 49088,
-      "num": 321030,
-      "word": "路面现坑洞致网约车坠入乘客受伤",
-      "onboard_time": 1725613400,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48612,
@@ -16779,6 +16835,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 27384,
+      "num": 159730,
+      "word": "贺峻霖 成都",
+      "onboard_time": 1725615259,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27010,
       "num": 234935,
       "word": "走出小县城的国产文具拿捏小学生钱包",
@@ -17019,6 +17083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23744,
+      "num": 170215,
+      "word": "被伊能静点名的贵妇级抗老尖子生",
+      "onboard_time": 1725612082,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 23721,
       "num": 186572,
       "word": "给老外一点东方震撼",
@@ -17041,6 +17113,14 @@
       "onboard_time": 1725278421,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 23601,
+      "num": 311540,
+      "word": "配送企业诱导外卖员签外包协议",
+      "onboard_time": 1725614180,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23587,
@@ -17161,14 +17241,6 @@
       "onboard_time": 1725170659,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20781,
-      "num": 170215,
-      "word": "被伊能静点名的贵妇级抗老尖子生",
-      "onboard_time": 1725612082,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 20757,
@@ -17451,12 +17523,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12275,
-      "num": 311540,
-      "word": "配送企业诱导外卖员签外包协议",
-      "onboard_time": 1725614180,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 11833,
+      "num": 201231,
+      "word": "鹭卓俩胳膊给蚊子整了满满的包",
+      "onboard_time": 1725613160,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 11799,
@@ -17467,20 +17539,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 11239,
+      "num": 153414,
+      "word": "林更新和黑衬衫的适配度",
+      "onboard_time": 1725614239,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 11202,
       "num": 34501,
       "word": "福宝站如松打招呼",
       "onboard_time": 1725568632,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 11107,
-      "num": 151862,
-      "word": "林更新和黑衬衫的适配度",
-      "onboard_time": 1725614239,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 10970,
@@ -17521,14 +17593,6 @@
       "onboard_time": 1725507379,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7845,
-      "num": 201231,
-      "word": "鹭卓俩胳膊给蚊子整了满满的包",
-      "onboard_time": 1725613160,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 7813,

@@ -1,6 +1,6 @@
 {
   "startTime": 1725553630734,
-  "endTime": 1725614635408,
+  "endTime": 1725615441223,
   "band_list": [
     {
       "raw_hot": 4487136,
@@ -267,20 +267,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 770927,
+      "num": 770927,
+      "word": "实拍文昌海水已经漫上岸",
+      "onboard_time": 1725610401,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 749007,
       "num": 301736,
       "word": "第一次见女演员打架两眼放光",
       "onboard_time": 1725601280,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 715209,
-      "num": 715209,
-      "word": "实拍文昌海水已经漫上岸",
-      "onboard_time": 1725610401,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 704195,
@@ -435,6 +435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 471665,
+      "num": 471665,
+      "word": "韦礼安被披哥导演骂到自闭",
+      "onboard_time": 1725612019,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 466344,
       "num": 466344,
       "word": "周子瑜solo出道MV",
@@ -449,14 +457,6 @@
       "onboard_time": 1725584240,
       "rank": 16,
       "category": "教育"
-    },
-    {
-      "raw_hot": 440853,
-      "num": 440853,
-      "word": "韦礼安被披哥导演骂到自闭",
-      "onboard_time": 1725612019,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 438631,
@@ -587,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 319125,
+      "num": 319125,
+      "word": "台风摩羯影响至少持续2到3天",
+      "onboard_time": 1725614180,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314117,
       "num": 314117,
       "word": "一个高中生和她拍下的117根手指",
@@ -632,14 +640,6 @@
       "word": "海南人为了防台风有多努力",
       "onboard_time": 1725602360,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 292031,
-      "num": 292031,
-      "word": "台风摩羯影响至少持续2到3天",
-      "onboard_time": 1725614180,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -787,6 +787,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246909,
+      "num": 246909,
+      "word": "迪丽热巴陈飞宇异域造型路透",
+      "onboard_time": 1725614839,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 246431,
+      "num": 222211,
+      "word": "国足已抵达大连",
+      "onboard_time": 1725613280,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245213,
       "num": 245213,
       "word": "黄轩什么时候结婚了",
@@ -875,20 +891,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 228678,
+      "num": 308209,
+      "word": "伯贤逆应援",
+      "onboard_time": 1725606079,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228496,
       "num": 228496,
       "word": "直观感受到了衣服是需要熨烫的",
       "onboard_time": 1725598880,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 225719,
-      "num": 308209,
-      "word": "伯贤逆应援",
-      "onboard_time": 1725606079,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 225217,
@@ -945,6 +961,14 @@
       "onboard_time": 1725551780,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210585,
+      "num": 225278,
+      "word": "边伯贤回归",
+      "onboard_time": 1725615259,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 210115,
@@ -1075,14 +1099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198340,
-      "num": 198340,
-      "word": "国足已抵达大连",
-      "onboard_time": 1725613280,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 198082,
       "num": 198082,
       "word": "小说成为打工人的精神食粮",
@@ -1113,6 +1129,14 @@
       "onboard_time": 1725595459,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194657,
+      "num": 194657,
+      "word": "微信更新",
+      "onboard_time": 1725615079,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 192747,
@@ -1152,6 +1176,14 @@
       "word": "崔然竣9月SOLO出道",
       "onboard_time": 1725606440,
       "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187933,
+      "num": 187933,
+      "word": "刘亦菲宝格丽活动",
+      "onboard_time": 1725615139,
+      "rank": 27,
       "category": "作品衍生"
     },
     {
@@ -1201,6 +1233,14 @@
       "onboard_time": 1725601581,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178985,
+      "num": 309780,
+      "word": "李维刚回应承包鱼塘事件",
+      "onboard_time": 1725612019,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178824,
@@ -1275,12 +1315,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172705,
-      "num": 309780,
-      "word": "李维刚回应承包鱼塘事件",
-      "onboard_time": 1725612019,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 172858,
+      "num": 172858,
+      "word": "刘诗诗模仿i人玩手机",
+      "onboard_time": 1725610820,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 172335,
@@ -1427,6 +1467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 159474,
+      "num": 169386,
+      "word": "欧阳娜娜 你就只跟她玩也不在乎我",
+      "onboard_time": 1725613820,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159323,
       "num": 159323,
       "word": "广西北海停课停工停游停市停运",
@@ -1491,14 +1539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155949,
-      "num": 169386,
-      "word": "欧阳娜娜 你就只跟她玩也不在乎我",
-      "onboard_time": 1725613820,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 155048,
       "num": 155048,
       "word": "赛后国足更衣室一片死寂",
@@ -1513,6 +1553,22 @@
       "onboard_time": 1725587418,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 153810,
+      "num": 153810,
+      "word": "边伯贤送粉丝5万韩元交通卡",
+      "onboard_time": 1725613879,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 153401,
+      "num": 153401,
+      "word": "张拿铁秃了",
+      "onboard_time": 1725615319,
+      "rank": 44,
+      "category": "网红"
     },
     {
       "raw_hot": 152773,
@@ -1859,6 +1915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95439,
+      "num": 303446,
+      "word": "男子为还婚前债务偷走新婚礼金",
+      "onboard_time": 1725613520,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90189,
       "num": 90189,
       "word": "深圳天气",
@@ -1963,6 +2027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76070,
+      "num": 321030,
+      "word": "路面现坑洞致网约车坠入乘客受伤",
+      "onboard_time": 1725613400,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75995,
       "num": 379590,
       "word": "元莫 岳父训话我倒茶",
@@ -2003,20 +2075,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71519,
+      "num": 307551,
+      "word": "女生体重卡100有多难",
+      "onboard_time": 1725609740,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 68614,
       "num": 67058,
       "word": "央视抵制体育版权乱象",
       "onboard_time": 1725574634,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61429,
-      "num": 303446,
-      "word": "男子为还婚前债务偷走新婚礼金",
-      "onboard_time": 1725613520,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60608,
@@ -2033,14 +2105,6 @@
       "onboard_time": 1725559633,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 52983,
-      "num": 307551,
-      "word": "女生体重卡100有多难",
-      "onboard_time": 1725609740,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 51632,
@@ -2081,14 +2145,6 @@
       "onboard_time": 1725592460,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 49088,
-      "num": 321030,
-      "word": "路面现坑洞致网约车坠入乘客受伤",
-      "onboard_time": 1725613400,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46406,
@@ -2267,6 +2323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 27384,
+      "num": 159730,
+      "word": "贺峻霖 成都",
+      "onboard_time": 1725615259,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24595,
       "num": 198573,
       "word": "个人求助网络服务平台应经民政部指定",
@@ -2288,6 +2352,22 @@
       "word": "超强台风摩羯来袭",
       "onboard_time": 1725566950,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23744,
+      "num": 170215,
+      "word": "被伊能静点名的贵妇级抗老尖子生",
+      "onboard_time": 1725612082,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 23601,
+      "num": 311540,
+      "word": "配送企业诱导外卖员签外包协议",
+      "onboard_time": 1725614180,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -2323,14 +2403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20781,
-      "num": 170215,
-      "word": "被伊能静点名的贵妇级抗老尖子生",
-      "onboard_time": 1725612082,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 20757,
       "num": 270095,
       "word": "男子非法获取他人信息抢购倒卖茅台",
@@ -2363,12 +2435,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12275,
-      "num": 311540,
-      "word": "配送企业诱导外卖员签外包协议",
-      "onboard_time": 1725614180,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 11833,
+      "num": 201231,
+      "word": "鹭卓俩胳膊给蚊子整了满满的包",
+      "onboard_time": 1725613160,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 11239,
+      "num": 153414,
+      "word": "林更新和黑衬衫的适配度",
+      "onboard_time": 1725614239,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 11202,
@@ -2377,22 +2457,6 @@
       "onboard_time": 1725568632,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 11107,
-      "num": 151862,
-      "word": "林更新和黑衬衫的适配度",
-      "onboard_time": 1725614239,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 7845,
-      "num": 201231,
-      "word": "鹭卓俩胳膊给蚊子整了满满的包",
-      "onboard_time": 1725613160,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 7100,
