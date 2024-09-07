@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725744894963,
+  "endTime": 1725747596687,
   "band_list": [
     {
       "raw_hot": 827847,
@@ -131,20 +131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249302,
+      "num": 375322,
+      "word": "海口网红餐厅被摩羯撕碎了",
+      "onboard_time": 1725729316,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243335,
       "num": 243335,
       "word": "韩安冉二胎是女儿",
       "onboard_time": 1725706159,
       "rank": 16,
       "category": "网红"
-    },
-    {
-      "raw_hot": 243090,
-      "num": 175664,
-      "word": "海口网红餐厅被摩羯撕碎了",
-      "onboard_time": 1725729316,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234214,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95425,
+      "num": 95425,
+      "word": "邓超红发",
+      "onboard_time": 1725735432,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 92013,
       "num": 100959,
       "word": "小杨哥否认没有售后",
@@ -427,14 +435,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 75387,
-      "num": 64484,
-      "word": "邓超红发",
-      "onboard_time": 1725735432,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 65350,
       "num": 65350,
       "word": "摩羯过境后现场实拍",
@@ -459,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38998,
+      "num": 38998,
+      "word": "物业回应近百户玻璃窗被台风掀飞",
+      "onboard_time": 1725741551,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34886,
       "num": 38425,
       "word": "华晨宇演唱会新歌彩排",
@@ -475,12 +483,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26740,
+      "num": 57570,
+      "word": "泽连斯基称必须在今秋末结束冲突",
+      "onboard_time": 1725742271,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 26624,
       "num": 26624,
       "word": "气象台回应摩羯风眼过境致多人不适",
       "onboard_time": 1725738612,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26581,
+      "num": 33818,
+      "word": "邓典问金莎男友到底好在哪",
+      "onboard_time": 1725737413,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 26023,
@@ -515,36 +539,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23653,
-      "num": 23653,
-      "word": "物业回应近百户玻璃窗被台风掀飞",
-      "onboard_time": 1725741551,
-      "rank": 33,
+      "raw_hot": 22065,
+      "num": 38952,
+      "word": "55岁的北京地铁也有隐藏款",
+      "onboard_time": 1725738970,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21328,
-      "num": 32568,
-      "word": "泽连斯基称必须在今秋末结束冲突",
-      "onboard_time": 1725742271,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 18615,
-      "num": 22424,
+      "raw_hot": 20704,
+      "num": 24316,
       "word": "张杰福州演唱会",
       "onboard_time": 1725730933,
       "rank": 45,
       "category": "演出"
     },
     {
-      "raw_hot": 18592,
-      "num": 22426,
-      "word": "邓典问金莎男友到底好在哪",
-      "onboard_time": 1725737413,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 19034,
+      "num": 31796,
+      "word": "白露让秋天有了诗的味道",
+      "onboard_time": 1725739631,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18480,
@@ -553,22 +569,6 @@
       "onboard_time": 1725737113,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 18330,
-      "num": 38952,
-      "word": "55岁的北京地铁也有隐藏款",
-      "onboard_time": 1725738970,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17832,
-      "num": 31796,
-      "word": "白露让秋天有了诗的味道",
-      "onboard_time": 1725739631,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11439,
