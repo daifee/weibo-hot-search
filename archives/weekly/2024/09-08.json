@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725740488186,
+  "endTime": 1725741287896,
   "band_list": [
     {
       "raw_hot": 827847,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 18615,
-      "num": 20741,
+      "num": 22424,
       "word": "张杰福州演唱会",
       "onboard_time": 1725730933,
       "rank": 45,
@@ -531,15 +531,23 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 16686,
-      "num": 20739,
+      "raw_hot": 17418,
+      "num": 22426,
       "word": "邓典问金莎男友到底好在哪",
       "onboard_time": 1725737413,
       "rank": 49,
       "category": "综艺"
     },
     {
-      "raw_hot": 11588,
+      "raw_hot": 15192,
+      "num": 31796,
+      "word": "白露让秋天有了诗的味道",
+      "onboard_time": 1725739631,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14167,
       "num": 38952,
       "word": "55岁的北京地铁也有隐藏款",
       "onboard_time": 1725738970,
