@@ -1,6 +1,6 @@
 {
   "startTime": 1725640058523,
-  "endTime": 1725693652204,
+  "endTime": 1725694516075,
   "band_list": [
     {
       "raw_hot": 2354423,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1405433,
+      "num": 1405433,
+      "word": "我嗑的cp终于官宣了",
+      "onboard_time": 1725689900,
+      "rank": 16,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 1361759,
       "num": 1361759,
       "word": "台风摩羯",
@@ -57,14 +65,6 @@
       "onboard_time": 1725665838,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1224203,
-      "num": 1224203,
-      "word": "我嗑的cp终于官宣了",
-      "onboard_time": 1725689900,
-      "rank": 16,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 1128011,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 800560,
-      "num": 239074,
+      "num": 240446,
       "word": "儿童骑行被碾压案相似案件被撤案处理",
       "onboard_time": 1725689358,
       "rank": 25,
@@ -185,6 +185,14 @@
       "onboard_time": 1725676038,
       "rank": 19,
       "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 680294,
+      "num": 680294,
+      "word": "保姆在雇主家纵火掩饰盗窃痕迹",
+      "onboard_time": 1725689598,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 672189,
@@ -275,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 533764,
+      "num": 232769,
+      "word": "羡慕张雪峰女儿",
+      "onboard_time": 1725692119,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 521630,
       "num": 521630,
       "word": "杨紫刘宇宁 家业",
@@ -355,14 +371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 437456,
-      "num": 221064,
-      "word": "羡慕张雪峰女儿",
-      "onboard_time": 1725692119,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 420680,
       "num": 420680,
       "word": "刘琳 姐一直都很辣",
@@ -427,20 +435,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 369464,
+      "num": 369464,
+      "word": "张凌赫田曦薇 逐玉",
+      "onboard_time": 1725689959,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 358419,
       "num": 358419,
       "word": "赵露思高清怼脸",
       "onboard_time": 1725670700,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 353854,
-      "num": 353854,
-      "word": "张凌赫田曦薇 逐玉",
-      "onboard_time": 1725689959,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 349792,
@@ -473,14 +481,6 @@
       "onboard_time": 1725680419,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 342975,
-      "num": 374092,
-      "word": "保姆在雇主家纵火掩饰盗窃痕迹",
-      "onboard_time": 1725689598,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 340432,
@@ -531,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 298507,
+      "num": 224464,
+      "word": "赵露思晚宴跳舞",
+      "onboard_time": 1725692959,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 297449,
       "num": 456969,
       "word": "刘浩存自拍",
@@ -556,7 +564,7 @@
     },
     {
       "raw_hot": 271362,
-      "num": 220707,
+      "num": 221197,
       "word": "海口一业主躲风时腿被夹住大声呼救",
       "onboard_time": 1725692000,
       "rank": 26,
@@ -611,6 +619,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245759,
+      "num": 219642,
+      "word": "陈好履历",
+      "onboard_time": 1725690979,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 241563,
+      "num": 241563,
+      "word": "台风天鸭群稳稳站立纹丝不动",
+      "onboard_time": 1725688819,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238218,
       "num": 359168,
       "word": "袁爷爷诞辰94周年",
@@ -651,35 +675,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 224727,
-      "num": 219241,
-      "word": "赵露思晚宴跳舞",
-      "onboard_time": 1725692959,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 223324,
-      "num": 223324,
-      "word": "台风天鸭群稳稳站立纹丝不动",
-      "onboard_time": 1725688819,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221918,
       "num": 221918,
       "word": "周雨彤粉丝澄清",
       "onboard_time": 1725683479,
       "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 218360,
-      "num": 219642,
-      "word": "陈好履历",
-      "onboard_time": 1725690979,
-      "rank": 37,
       "category": "艺人"
     },
     {
@@ -811,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197050,
+      "num": 197050,
+      "word": "藏海花张九日",
+      "onboard_time": 1725693558,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196789,
       "num": 216689,
       "word": "汪涵怎么突然老了这么多",
@@ -819,12 +827,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195455,
+      "num": 195455,
+      "word": "T1 抽象",
+      "onboard_time": 1725693619,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195443,
       "num": 195443,
       "word": "赵露思方告黑维权",
       "onboard_time": 1725686180,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194947,
+      "num": 194947,
+      "word": "越南 台风摩羯",
+      "onboard_time": 1725694339,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 192361,
@@ -865,14 +889,6 @@
       "onboard_time": 1725685399,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 188503,
-      "num": 188503,
-      "word": "T1 抽象",
-      "onboard_time": 1725693619,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 188089,
@@ -985,6 +1001,14 @@
       "onboard_time": 1725685519,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175307,
+      "num": 175307,
+      "word": "张雪峰 妈妈嘱咐的话爸爸全忘了",
+      "onboard_time": 1725693739,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 174321,
@@ -1283,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133225,
+      "num": 133225,
+      "word": "吴施乐 优酷",
+      "onboard_time": 1725693320,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132696,
       "num": 132696,
       "word": "HLE对战T1",
@@ -1297,14 +1329,6 @@
       "onboard_time": 1725635181,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132320,
-      "num": 132320,
-      "word": "藏海花张九日",
-      "onboard_time": 1725693558,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 131319,
@@ -1337,6 +1361,14 @@
       "onboard_time": 1725679759,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130415,
+      "num": 130415,
+      "word": "飞天茅台跌破2600元大关",
+      "onboard_time": 1725694219,
+      "rank": 47,
+      "category": "财经,美食"
     },
     {
       "raw_hot": 129526,
@@ -1411,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124591,
+      "num": 124591,
+      "word": "面部高光对皮肤影响有多大",
+      "onboard_time": 1725693679,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 123198,
       "num": 123198,
       "word": "国足对战沙特门票最高1680元",
@@ -1433,14 +1473,6 @@
       "onboard_time": 1725665476,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120935,
-      "num": 120935,
-      "word": "吴施乐 优酷",
-      "onboard_time": 1725693320,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 119619,
@@ -1715,6 +1747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 65735,
+      "num": 343558,
+      "word": "多数外卖骑手不愿意交社保",
+      "onboard_time": 1725692899,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63587,
       "num": 390392,
       "word": "加油员汽油车里加柴油车损谁承担",
@@ -1729,14 +1769,6 @@
       "onboard_time": 1725625220,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61732,
-      "num": 343558,
-      "word": "多数外卖骑手不愿意交社保",
-      "onboard_time": 1725692899,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60301,
@@ -1795,6 +1827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48999,
+      "num": 346857,
+      "word": "人类怎么能攒下半年的工资",
+      "onboard_time": 1725692838,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 46135,
       "num": 223083,
       "word": "专家称年轻人迷宠物石是为排遣压力",
@@ -1851,6 +1891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 30664,
+      "num": 137692,
+      "word": "汤唯洪晃苏芒张宇同框",
+      "onboard_time": 1725694339,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 28194,
       "num": 53525,
       "word": "古人的极繁风大金链子颠覆认知了",
@@ -1859,11 +1907,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27174,
-      "num": 344413,
-      "word": "人类怎么能攒下半年的工资",
-      "onboard_time": 1725692838,
-      "rank": 13,
+      "raw_hot": 27965,
+      "num": 229298,
+      "word": "于正说找王星越的剧超40部电影8部",
+      "onboard_time": 1725693859,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 27661,
+      "num": 502189,
+      "word": "全女小队的含金量有多高",
+      "onboard_time": 1725689478,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -1881,14 +1937,6 @@
       "onboard_time": 1725629240,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 20328,
-      "num": 222530,
-      "word": "全女小队的含金量有多高",
-      "onboard_time": 1725689478,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 19060,
