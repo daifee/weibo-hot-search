@@ -1,0 +1,410 @@
+{
+  "runTime": 1725697460957,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1566214,
+        "num": 1566214,
+        "word": "WTT澳门冠军赛抽签",
+        "onboard_time": 1725696201,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1240817,
+        "num": 1240817,
+        "word": "越南 台风摩羯",
+        "onboard_time": 1725694339,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 63048,
+        "num": 1085590,
+        "word": "被中国残奥运动员的拼搏深深打动",
+        "onboard_time": 1725695901,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1542979,
+        "num": 1060274,
+        "word": "WTT 卖不出票",
+        "onboard_time": 1725679218,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 987590,
+        "num": 987590,
+        "word": "我嗑的cp终于官宣了",
+        "onboard_time": 1725689900,
+        "rank": 4,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 971085,
+        "num": 971085,
+        "word": "WTT",
+        "onboard_time": 1725676158,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 774453,
+        "num": 774453,
+        "word": "有没有二本恋综",
+        "onboard_time": 1725685460,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109287,
+        "num": 645965,
+        "word": "台风摩羯已致3人死亡95人受伤",
+        "onboard_time": 1725696680,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67126,
+        "num": 584221,
+        "word": "台风摩羯离开海南",
+        "onboard_time": 1725696380,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389622,
+        "num": 554498,
+        "word": "赵露思自己化的妆容",
+        "onboard_time": 1725688339,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543781,
+        "num": 543781,
+        "word": "网传东北雨姐视频造假塌房",
+        "onboard_time": 1725675079,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 14013,
+        "num": 524394,
+        "word": "汤唯洪晃苏芒张宇同框",
+        "onboard_time": 1725694339,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 509003,
+        "num": 509003,
+        "word": "中级财管",
+        "onboard_time": 1725694819,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 500863,
+        "num": 500863,
+        "word": "邓莎给儿子饭里加增高药",
+        "onboard_time": 1725696260,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76691,
+        "num": 476092,
+        "word": "平时睡不够周末补觉有用吗",
+        "onboard_time": 1725696500,
+        "rank": 14,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 463787,
+        "num": 463787,
+        "word": "保姆在雇主家纵火掩饰盗窃痕迹",
+        "onboard_time": 1725689598,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371132,
+        "num": 371132,
+        "word": "杨紫刘宇宁 家业",
+        "onboard_time": 1725690258,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351523,
+        "num": 351523,
+        "word": "赵丽颖北京活动",
+        "onboard_time": 1725695839,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317800,
+        "num": 317800,
+        "word": "三十岁没结婚 回乡吃席被审判",
+        "onboard_time": 1725689779,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32134,
+        "num": 316649,
+        "word": "女子抽脂后肠子4处穿孔",
+        "onboard_time": 1725696619,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683235,
+        "num": 314674,
+        "word": "小杨哥徒弟曾说买假货就把师傅告破产",
+        "onboard_time": 1725684679,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 490771,
+        "num": 310644,
+        "word": "羡慕张雪峰女儿",
+        "onboard_time": 1725692119,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442046,
+        "num": 307448,
+        "word": "儿童骑行被碾压案相似案件被撤案处理",
+        "onboard_time": 1725689358,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347668,
+        "num": 304694,
+        "word": "知否大娘子新剧嫁了王启年",
+        "onboard_time": 1725696860,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161615,
+        "num": 303979,
+        "word": "赵露思日常生活plog",
+        "onboard_time": 1725696080,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301995,
+        "num": 301995,
+        "word": "侃爷海口演唱会场地顶棚被台风撕碎",
+        "onboard_time": 1725694939,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 301012,
+        "num": 301012,
+        "word": "海口一酒店外墙被摩羯吹跑了",
+        "onboard_time": 1725688100,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298411,
+        "num": 298411,
+        "word": "台风还没停保险赔款就到账了",
+        "onboard_time": 1725697159,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275443,
+        "num": 275443,
+        "word": "张凌赫田曦薇 逐玉",
+        "onboard_time": 1725689959,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135906,
+        "num": 274516,
+        "word": "摩羯7日将再次登陆",
+        "onboard_time": 1725690859,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273995,
+        "num": 273995,
+        "word": "黄景瑜 老天爷赏海下的男人",
+        "onboard_time": 1725688219,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254797,
+        "num": 254797,
+        "word": "海口一业主躲风时腿被夹住大声呼救",
+        "onboard_time": 1725692000,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221631,
+        "num": 221631,
+        "word": "十个勤天礼盒",
+        "onboard_time": 1725696201,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221365,
+        "num": 221365,
+        "word": "摩羯登陆海南文昌",
+        "onboard_time": 1725611540,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208746,
+        "num": 208746,
+        "word": "华为三折叠预订秒破万",
+        "onboard_time": 1725686840,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 185082,
+        "num": 200360,
+        "word": "台风天鸭群稳稳站立纹丝不动",
+        "onboard_time": 1725688819,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199783,
+        "num": 199783,
+        "word": "耳朵越掏会变得越油",
+        "onboard_time": 1725676038,
+        "rank": 36,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 48528,
+        "num": 198015,
+        "word": "于正在纠结王星越要不要进电影圈",
+        "onboard_time": 1725695359,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197773,
+        "num": 197773,
+        "word": "李一桐紧急撤回一个直播事故",
+        "onboard_time": 1725681619,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193291,
+        "num": 193291,
+        "word": "中级财管计算量",
+        "onboard_time": 1725696319,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 189538,
+        "num": 189538,
+        "word": "张天爱用毛晓彤眼睛照镜子",
+        "onboard_time": 1725695480,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186407,
+        "num": 186407,
+        "word": "华晨宇直播",
+        "onboard_time": 1725697221,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172683,
+        "num": 172683,
+        "word": "台风过境后广东周末仍有大暴雨",
+        "onboard_time": 1725682999,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170184,
+        "num": 170184,
+        "word": "赵丽颖月白流光",
+        "onboard_time": 1725697340,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168166,
+        "num": 168166,
+        "word": "三只羊",
+        "onboard_time": 1725679041,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 158913,
+        "num": 158913,
+        "word": "T1 抽象",
+        "onboard_time": 1725693619,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158034,
+        "num": 158034,
+        "word": "AI能读懂人类的抽象笑话吗",
+        "onboard_time": 1725696560,
+        "rank": 46,
+        "category": "互联网,科学科普"
+      },
+      {
+        "raw_hot": 142249,
+        "num": 142249,
+        "word": "现在就出发2开录",
+        "onboard_time": 1725690919,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141409,
+        "num": 141409,
+        "word": "浙江人再忍三天",
+        "onboard_time": 1725695599,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137750,
+        "num": 137750,
+        "word": "单休一个月的高中生迎来第一个双休",
+        "onboard_time": 1725696980,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中非友谊与合作结出新的丰硕成果#"
+    }
+  }
+}
