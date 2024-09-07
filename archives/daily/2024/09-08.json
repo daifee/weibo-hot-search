@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725751195374,
+  "endTime": 1725752183344,
   "band_list": [
     {
       "raw_hot": 827847,
@@ -43,7 +43,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 578189,
+      "raw_hot": 622737,
       "num": 780027,
       "word": "海口网红餐厅被摩羯撕碎了",
       "onboard_time": 1725729316,
@@ -73,6 +73,14 @@
       "onboard_time": 1725717561,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 440893,
+      "num": 107452,
+      "word": "生理期不痛的是易孕体质吗",
+      "onboard_time": 1725750974,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 419637,
@@ -107,12 +115,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 312916,
-      "num": 93175,
-      "word": "生理期不痛的是易孕体质吗",
-      "onboard_time": 1725750974,
-      "rank": 21,
-      "category": "健康医疗"
+      "raw_hot": 381284,
+      "num": 863522,
+      "word": "男子回沪发现房子被妻子出租",
+      "onboard_time": 1725751816,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 312483,
@@ -131,6 +139,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263595,
+      "num": 263595,
+      "word": "邓超红发",
+      "onboard_time": 1725735432,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 263187,
+      "num": 263187,
+      "word": "萨巴伦卡美网夺冠",
+      "onboard_time": 1725750674,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 262608,
       "num": 261995,
       "word": "虞书欣终于想起来她是个歌手了",
@@ -147,12 +171,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251251,
-      "num": 251251,
-      "word": "邓超红发",
-      "onboard_time": 1725735432,
-      "rank": 17,
-      "category": "作品衍生"
+      "raw_hot": 245486,
+      "num": 208310,
+      "word": "蟹太太回应辛巴三只羊纠纷",
+      "onboard_time": 1725723139,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 243335,
@@ -179,14 +203,6 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 228638,
-      "num": 208310,
-      "word": "蟹太太回应辛巴三只羊纠纷",
-      "onboard_time": 1725723139,
-      "rank": 24,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 227046,
       "num": 227046,
       "word": "你好星期六下期预告",
@@ -201,6 +217,14 @@
       "onboard_time": 1725718941,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184684,
+      "num": 184684,
+      "word": "物业回应近百户玻璃窗被台风掀飞",
+      "onboard_time": 1725741551,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181007,
@@ -227,12 +251,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171616,
-      "num": 106468,
-      "word": "萨巴伦卡美网夺冠",
-      "onboard_time": 1725750674,
-      "rank": 13,
-      "category": "电影"
+      "raw_hot": 170758,
+      "num": 170758,
+      "word": "朱志鑫C位队长后首发博",
+      "onboard_time": 1725751334,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 166346,
+      "num": 166346,
+      "word": "秦岚被挤得瑟瑟发抖",
+      "onboard_time": 1725749174,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 164254,
+      "num": 164254,
+      "word": "男子拉50箱五粮液不绑绳倒一地",
+      "onboard_time": 1725729376,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162147,
@@ -248,14 +288,6 @@
       "word": "月薪3万的陆家嘴打工人开始抠抠搜搜",
       "onboard_time": 1725720142,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156701,
-      "num": 104651,
-      "word": "男子拉50箱五粮液不绑绳倒一地",
-      "onboard_time": 1725729376,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -291,20 +323,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 136973,
+      "num": 102973,
+      "word": "黄奕黄晓明已不是当初的萧剑小燕子了",
+      "onboard_time": 1725715520,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132276,
       "num": 228564,
       "word": "RW战胜狼队",
       "onboard_time": 1725720861,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 131587,
-      "num": 131587,
-      "word": "物业回应近百户玻璃窗被台风掀飞",
-      "onboard_time": 1725741551,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125087,
@@ -387,12 +419,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 104511,
-      "num": 104511,
-      "word": "秦岚被挤得瑟瑟发抖",
-      "onboard_time": 1725749174,
-      "rank": 16,
-      "category": "作品衍生"
+      "raw_hot": 107371,
+      "num": 88319,
+      "word": "哈工大的这么做一定有他的道理",
+      "onboard_time": 1725751695,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 103705,
@@ -417,6 +449,14 @@
       "onboard_time": 1725714620,
       "rank": 43,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 99278,
+      "num": 99278,
+      "word": "叙利亚人用沙袋为千年壁画挡战火",
+      "onboard_time": 1725751275,
+      "rank": 27,
+      "category": "国外时政"
     },
     {
       "raw_hot": 99188,
@@ -451,6 +491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 84068,
+      "num": 88481,
+      "word": "TOP登陆少年登陆完毕",
+      "onboard_time": 1725751816,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82566,
       "num": 100888,
       "word": "邓莎给儿子饭里加增高药",
@@ -467,6 +515,38 @@
       "category": "演出"
     },
     {
+      "raw_hot": 79922,
+      "num": 79922,
+      "word": "Yamy喊话吴宣仪为火箭少女101办节目",
+      "onboard_time": 1725751034,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 73193,
+      "num": 73193,
+      "word": "胖东来来重庆了",
+      "onboard_time": 1725750915,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72842,
+      "num": 72842,
+      "word": "高反的王一博",
+      "onboard_time": 1725751095,
+      "rank": 29,
+      "category": "作品衍生,作品衍生"
+    },
+    {
+      "raw_hot": 72515,
+      "num": 72515,
+      "word": "谁不想有一个大明星妹妹",
+      "onboard_time": 1725748873,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 72275,
       "num": 72275,
       "word": "美网",
@@ -475,28 +555,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 69995,
-      "num": 72448,
-      "word": "高反的王一博",
-      "onboard_time": 1725751095,
-      "rank": 29,
-      "category": "作品衍生,作品衍生"
-    },
-    {
-      "raw_hot": 67435,
-      "num": 67435,
-      "word": "谁不想有一个大明星妹妹",
-      "onboard_time": 1725748873,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 65485,
-      "num": 65485,
-      "word": "胖东来来重庆了",
-      "onboard_time": 1725750915,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 66981,
+      "num": 99298,
+      "word": "盛李豪又多了一个身份",
+      "onboard_time": 1725751996,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 65350,
@@ -507,12 +571,52 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 58715,
+      "num": 58715,
+      "word": "萨巴伦卡大满贯第三冠",
+      "onboard_time": 1725751455,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 56350,
+      "num": 56350,
+      "word": "只有经历过高三才知道双休的含金量",
+      "onboard_time": 1725751636,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 56073,
+      "num": 56073,
+      "word": "中秋假期十大热门目的地",
+      "onboard_time": 1725748032,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 55730,
       "num": 67486,
       "word": "台风摩羯造成海南4死95伤",
       "onboard_time": 1725714020,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55510,
+      "num": 55510,
+      "word": "杭州一中年外卖员疑路边猝死",
+      "onboard_time": 1725751396,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55477,
+      "num": 55477,
+      "word": "Fly mvp",
+      "onboard_time": 1725752115,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 53292,
@@ -523,28 +627,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46429,
-      "num": 46429,
-      "word": "中秋假期十大热门目的地",
-      "onboard_time": 1725748032,
-      "rank": 49,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 44071,
+      "raw_hot": 49931,
       "num": 108755,
       "word": "泽连斯基称必须在今秋末结束冲突",
       "onboard_time": 1725742271,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 43181,
-      "num": 43181,
-      "word": "Yamy喊话吴宣仪为火箭少女101办节目",
-      "onboard_time": 1725751034,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 41436,

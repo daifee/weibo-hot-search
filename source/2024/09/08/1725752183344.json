@@ -1,0 +1,410 @@
+{
+  "runTime": 1725752183344,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 381284,
+        "num": 863522,
+        "word": "男子回沪发现房子被妻子出租",
+        "onboard_time": 1725751816,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306311,
+        "num": 306311,
+        "word": "美国故障飞船回地球宇航员还在太空",
+        "onboard_time": 1725713541,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 4856,
+        "num": 267063,
+        "word": "致敬风雨中的守护力量",
+        "onboard_time": 1725716361,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263595,
+        "num": 263595,
+        "word": "邓超红发",
+        "onboard_time": 1725735432,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 622737,
+        "num": 263393,
+        "word": "海口网红餐厅被摩羯撕碎了",
+        "onboard_time": 1725729316,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263187,
+        "num": 263187,
+        "word": "萨巴伦卡美网夺冠",
+        "onboard_time": 1725750674,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218190,
+        "num": 218190,
+        "word": "东北雨姐承认螃蟹是放到稻田里的",
+        "onboard_time": 1725701661,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 194496,
+        "num": 194496,
+        "word": "G社拍的赵露思生图",
+        "onboard_time": 1725717561,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184684,
+        "num": 184684,
+        "word": "物业回应近百户玻璃窗被台风掀飞",
+        "onboard_time": 1725741551,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156087,
+        "num": 184165,
+        "word": "国足备战受冷遇",
+        "onboard_time": 1725719781,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 361359,
+        "num": 181467,
+        "word": "多人发现遗体帐篷却未报警的背后",
+        "onboard_time": 1725704599,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239401,
+        "num": 178701,
+        "word": "小孩姐削土豆受伤气跑4名医生",
+        "onboard_time": 1725718941,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200820,
+        "num": 176022,
+        "word": "金店卖出16万金条后银行卡被冻结",
+        "onboard_time": 1725717981,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194008,
+        "num": 172228,
+        "word": "广东一男子因暴雨后赤脚走路住进ICU",
+        "onboard_time": 1725722300,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170758,
+        "num": 170758,
+        "word": "朱志鑫C位队长后首发博",
+        "onboard_time": 1725751334,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166346,
+        "num": 166346,
+        "word": "秦岚被挤得瑟瑟发抖",
+        "onboard_time": 1725749174,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164254,
+        "num": 164254,
+        "word": "男子拉50箱五粮液不绑绳倒一地",
+        "onboard_time": 1725729376,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110283,
+        "num": 110283,
+        "word": "曾舜晞经纪人和吴宣仪是同学",
+        "onboard_time": 1725727518,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108274,
+        "num": 108274,
+        "word": "女子称男婴被丈夫单独照顾后死亡",
+        "onboard_time": 1725714922,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107831,
+        "num": 107831,
+        "word": "苹果和微信到底谁离不开谁",
+        "onboard_time": 1725704780,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 440893,
+        "num": 107452,
+        "word": "生理期不痛的是易孕体质吗",
+        "onboard_time": 1725750974,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 439305,
+        "num": 106490,
+        "word": "小杨哥开播回应与辛巴的矛盾",
+        "onboard_time": 1725720981,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 182955,
+        "num": 105292,
+        "word": "张杰 素人电话号",
+        "onboard_time": 1725705080,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 245486,
+        "num": 103927,
+        "word": "蟹太太回应辛巴三只羊纠纷",
+        "onboard_time": 1725723139,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 136973,
+        "num": 102973,
+        "word": "黄奕黄晓明已不是当初的萧剑小燕子了",
+        "onboard_time": 1725715520,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102334,
+        "num": 102334,
+        "word": "99后女生靠卖石头月入过万",
+        "onboard_time": 1725716602,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66981,
+        "num": 99298,
+        "word": "盛李豪又多了一个身份",
+        "onboard_time": 1725751996,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99278,
+        "num": 99278,
+        "word": "叙利亚人用沙袋为千年壁画挡战火",
+        "onboard_time": 1725751275,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 84068,
+        "num": 88481,
+        "word": "TOP登陆少年登陆完毕",
+        "onboard_time": 1725751816,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49931,
+        "num": 88329,
+        "word": "泽连斯基称必须在今秋末结束冲突",
+        "onboard_time": 1725742271,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 107371,
+        "num": 88319,
+        "word": "哈工大的这么做一定有他的道理",
+        "onboard_time": 1725751695,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88290,
+        "num": 88290,
+        "word": "与台风摩羯的硬仗仍在吃劲阶段",
+        "onboard_time": 1725726138,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84773,
+        "num": 84773,
+        "word": "花三万八在新疆买的小院",
+        "onboard_time": 1725721461,
+        "rank": 32,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 84020,
+        "num": 84020,
+        "word": "这5类人喝咖啡格外受益",
+        "onboard_time": 1725718702,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 81067,
+        "num": 81067,
+        "word": "韩安冉二胎是女儿",
+        "onboard_time": 1725706159,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 79922,
+        "num": 79922,
+        "word": "Yamy喊话吴宣仪为火箭少女101办节目",
+        "onboard_time": 1725751034,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73193,
+        "num": 73193,
+        "word": "胖东来来重庆了",
+        "onboard_time": 1725750915,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72842,
+        "num": 72842,
+        "word": "高反的王一博",
+        "onboard_time": 1725751095,
+        "rank": 37,
+        "category": "作品衍生,作品衍生"
+      },
+      {
+        "raw_hot": 72515,
+        "num": 72515,
+        "word": "谁不想有一个大明星妹妹",
+        "onboard_time": 1725748873,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 64410,
+        "num": 64410,
+        "word": "摩羯登陆海南文昌",
+        "onboard_time": 1725611540,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63767,
+        "num": 63767,
+        "word": "华为三折叠硬刚苹果",
+        "onboard_time": 1725709701,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 63292,
+        "num": 63292,
+        "word": "月薪3万的陆家嘴打工人开始抠抠搜搜",
+        "onboard_time": 1725720142,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63201,
+        "num": 63201,
+        "word": "袁隆平14万稻穗中发现天选株",
+        "onboard_time": 1725713541,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62776,
+        "num": 62776,
+        "word": "4S店二楼被台风整层吹走",
+        "onboard_time": 1725729675,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58715,
+        "num": 58715,
+        "word": "萨巴伦卡大满贯第三冠",
+        "onboard_time": 1725751455,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58680,
+        "num": 58680,
+        "word": "阿条姐又有新身份了",
+        "onboard_time": 1725723981,
+        "rank": 45,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 56350,
+        "num": 56350,
+        "word": "只有经历过高三才知道双休的含金量",
+        "onboard_time": 1725751636,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56073,
+        "num": 56073,
+        "word": "中秋假期十大热门目的地",
+        "onboard_time": 1725748032,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 55510,
+        "num": 55510,
+        "word": "杭州一中年外卖员疑路边猝死",
+        "onboard_time": 1725751396,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55477,
+        "num": 55477,
+        "word": "Fly mvp",
+        "onboard_time": 1725752115,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对台风灾害作出重要指示#"
+    }
+  }
+}
