@@ -1,6 +1,6 @@
 {
   "startTime": 1725640058523,
-  "endTime": 1725672487391,
+  "endTime": 1725673841580,
   "band_list": [
     {
       "raw_hot": 1361759,
@@ -11,7 +11,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1305840,
+      "raw_hot": 1351681,
       "num": 682977,
       "word": "翟潇闻道歉",
       "onboard_time": 1725665838,
@@ -27,6 +27,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1035156,
+      "num": 1165625,
+      "word": "教育局回应一家长在微信群见谁怼谁",
+      "onboard_time": 1725665537,
+      "rank": 37,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 927580,
       "num": 958412,
       "word": "反串网红罗大美被绑架勒索后灭口内幕",
@@ -35,12 +43,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 864258,
-      "num": 864258,
-      "word": "教育局回应一家长在微信群见谁怼谁",
-      "onboard_time": 1725665537,
-      "rank": 37,
-      "category": "教育,社会新闻"
+      "raw_hot": 908728,
+      "num": 908728,
+      "word": "摩羯将第三次登陆",
+      "onboard_time": 1725667759,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 834440,
@@ -51,7 +59,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 775987,
+      "raw_hot": 806633,
       "num": 467053,
       "word": "医生为手术效果不穿防辐射铅衣",
       "onboard_time": 1725665718,
@@ -83,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 644415,
+      "num": 388076,
+      "word": "北京套内40平的小家",
+      "onboard_time": 1725668597,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 640831,
       "num": 215594,
       "word": "小杨哥",
@@ -91,20 +107,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 621559,
-      "num": 621559,
-      "word": "摩羯将第三次登陆",
-      "onboard_time": 1725667759,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 594035,
-      "num": 388076,
-      "word": "北京套内40平的小家",
-      "onboard_time": 1725668597,
-      "rank": 10,
-      "category": "情感"
+      "raw_hot": 593853,
+      "num": 593853,
+      "word": "服部平次告白成功",
+      "onboard_time": 1725670878,
+      "rank": 7,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 553243,
@@ -155,14 +163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 447395,
-      "num": 447395,
-      "word": "服部平次告白成功",
-      "onboard_time": 1725670878,
-      "rank": 7,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 418342,
       "num": 214612,
       "word": "黄多多读的是纽约大学",
@@ -179,6 +179,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 397255,
+      "num": 397255,
+      "word": "刘琳 姐一直都很辣",
+      "onboard_time": 1725669739,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 388668,
       "num": 388668,
       "word": "刘亦菲赵露思给对方鼓掌",
@@ -193,6 +201,22 @@
       "onboard_time": 1725620480,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358419,
+      "num": 358419,
+      "word": "赵露思高清怼脸",
+      "onboard_time": 1725670700,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 348129,
+      "num": 200849,
+      "word": "辛巴称三只羊还有四天时间",
+      "onboard_time": 1725672799,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 347853,
@@ -219,20 +243,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 305920,
-      "num": 279376,
+      "raw_hot": 306972,
+      "num": 306972,
       "word": "禁止在烈士陵园等庄严场所跳广场舞",
       "onboard_time": 1725645553,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 302487,
-      "num": 302487,
-      "word": "刘琳 姐一直都很辣",
-      "onboard_time": 1725669739,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 297449,
@@ -267,20 +283,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255068,
+      "num": 197291,
+      "word": "新人用200斤蔬菜办了一场婚礼",
+      "onboard_time": 1725670578,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252634,
       "num": 200464,
       "word": "一岁幼童学走路摔了一跤中风了",
       "onboard_time": 1725627802,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250917,
-      "num": 250917,
-      "word": "赵露思高清怼脸",
-      "onboard_time": 1725670700,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 250442,
@@ -291,19 +307,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232201,
+      "num": 232201,
+      "word": "中国队83金64银41铜领跑奖牌榜",
+      "onboard_time": 1725670338,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229860,
       "num": 229860,
       "word": "台风摩羯 眼壁置换",
       "onboard_time": 1725595580,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227571,
-      "num": 191263,
-      "word": "新人用200斤蔬菜办了一场婚礼",
-      "onboard_time": 1725670578,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -339,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203873,
+      "num": 203873,
+      "word": "张雪峰公司反向调休",
+      "onboard_time": 1725672618,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202636,
       "num": 213798,
       "word": "摩羯成史上登陆我国最强秋台风",
@@ -371,11 +395,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189483,
+      "num": 189483,
+      "word": "台风登陆现场画面",
+      "onboard_time": 1725667759,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183362,
       "num": 183362,
       "word": "流水迢迢定档",
       "onboard_time": 1725638779,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 182118,
+      "num": 182118,
+      "word": "他是科学家也是梦想家",
+      "onboard_time": 1725672559,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180746,
+      "num": 187223,
+      "word": "田曦薇 主动破冰的小蝴蝶",
+      "onboard_time": 1725648614,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -395,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173939,
-      "num": 173939,
-      "word": "台风登陆现场画面",
-      "onboard_time": 1725667759,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173677,
       "num": 173677,
       "word": "摩羯将在广东二次登陆",
@@ -419,12 +459,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167664,
-      "num": 180758,
-      "word": "田曦薇 主动破冰的小蝴蝶",
-      "onboard_time": 1725648614,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 172548,
+      "num": 172548,
+      "word": "鬼探头",
+      "onboard_time": 1725667879,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 167737,
+      "num": 167737,
+      "word": "AI换脸三小时骗走我妈一年工资",
+      "onboard_time": 1725672499,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163862,
@@ -435,12 +483,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 160912,
-      "num": 160912,
-      "word": "中国队83金64银41铜领跑奖牌榜",
-      "onboard_time": 1725670338,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 160374,
+      "num": 359168,
+      "word": "袁爷爷诞辰94周年",
+      "onboard_time": 1725666137,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157380,
+      "num": 157380,
+      "word": "妈妈认为大学生活费只要够吃饭就好",
+      "onboard_time": 1725667639,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 148960,
@@ -475,14 +531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139762,
-      "num": 139762,
-      "word": "妈妈认为大学生活费只要够吃饭就好",
-      "onboard_time": 1725667639,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 137525,
       "num": 233351,
       "word": "海南广东广西等地将有极端强风雨",
@@ -499,14 +547,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 134645,
-      "num": 134645,
-      "word": "鬼探头",
-      "onboard_time": 1725667879,
-      "rank": 39,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 132529,
       "num": 132529,
       "word": "男子捡手机试出密码狂刷4千元被抓",
@@ -516,7 +556,7 @@
     },
     {
       "raw_hot": 131138,
-      "num": 179669,
+      "num": 185968,
       "word": "原来长的好看菜市场也能出片",
       "onboard_time": 1725670038,
       "rank": 29,
@@ -537,6 +577,14 @@
       "onboard_time": 1725665718,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 128092,
+      "num": 128092,
+      "word": "台风摩羯影响长沙",
+      "onboard_time": 1725673518,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125654,
@@ -627,6 +675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 101648,
+      "num": 101648,
+      "word": "店长不让开空调店员自带遥控器",
+      "onboard_time": 1725673699,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101477,
       "num": 101477,
       "word": "和马嘉祺邂逅秋天",
@@ -640,6 +696,14 @@
       "word": "摩羯海浪把2吨巨石冲走了",
       "onboard_time": 1725617960,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100261,
+      "num": 100261,
+      "word": "广西玉林一家长在微信群见谁怼谁",
+      "onboard_time": 1725673399,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
