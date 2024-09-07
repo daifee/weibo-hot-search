@@ -1,6 +1,6 @@
 {
   "startTime": 1725640058523,
-  "endTime": 1725722485811,
+  "endTime": 1725723286369,
   "band_list": [
     {
       "raw_hot": 2354423,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1053450,
+      "num": 1168552,
+      "word": "专家建议把老年群体转为人力资源",
+      "onboard_time": 1725718220,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1051852,
       "num": 487621,
       "word": "小杨哥徒弟曾说买假货就把师傅告破产",
@@ -171,14 +179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 974554,
-      "num": 974554,
-      "word": "专家建议把老年群体转为人力资源",
-      "onboard_time": 1725718220,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 971085,
       "num": 971085,
       "word": "WTT",
@@ -201,6 +201,14 @@
       "onboard_time": 1725631761,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 916202,
+      "num": 280298,
+      "word": "小杨哥开播回应与辛巴的矛盾",
+      "onboard_time": 1725720981,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 915505,
@@ -291,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 764294,
+      "num": 335348,
+      "word": "小孩姐削土豆受伤气跑4名医生",
+      "onboard_time": 1725718941,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 759112,
       "num": 282515,
       "word": "辛巴称三只羊还有四天时间",
@@ -337,14 +353,6 @@
       "onboard_time": 1725676038,
       "rank": 19,
       "category": "社会新闻,健康医疗"
-    },
-    {
-      "raw_hot": 681973,
-      "num": 309418,
-      "word": "小孩姐削土豆受伤气跑4名医生",
-      "onboard_time": 1725718941,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 680294,
@@ -505,14 +513,6 @@
       "onboard_time": 1725634343,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 545138,
-      "num": 280298,
-      "word": "小杨哥开播回应与辛巴的矛盾",
-      "onboard_time": 1725720981,
-      "rank": 21,
-      "category": "网红"
     },
     {
       "raw_hot": 541059,
@@ -771,6 +771,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 389594,
+      "num": 389594,
+      "word": "国足备战受冷遇",
+      "onboard_time": 1725719781,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 389416,
       "num": 389416,
       "word": "中级会计",
@@ -825,6 +833,14 @@
       "onboard_time": 1725713541,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353895,
+      "num": 251642,
+      "word": "花三万八在新疆买的小院",
+      "onboard_time": 1725721461,
+      "rank": 33,
+      "category": "休闲"
     },
     {
       "raw_hot": 349792,
@@ -945,14 +961,6 @@
       "onboard_time": 1725630803,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 287526,
-      "num": 287526,
-      "word": "国足备战受冷遇",
-      "onboard_time": 1725719781,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 281225,
@@ -1131,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238860,
+      "num": 238860,
+      "word": "赵丽颖还给张碧晨录了视频",
+      "onboard_time": 1725722840,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 238218,
       "num": 359168,
       "word": "袁爷爷诞辰94周年",
@@ -1299,6 +1315,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 206932,
+      "num": 206932,
+      "word": "广东一男子因暴雨后赤脚走路住进ICU",
+      "onboard_time": 1725722300,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206425,
       "num": 370464,
       "word": "台风摩羯造成海南4死95伤",
@@ -1353,14 +1377,6 @@
       "onboard_time": 1725697221,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 201193,
-      "num": 201193,
-      "word": "花三万八在新疆买的小院",
-      "onboard_time": 1725721461,
-      "rank": 33,
-      "category": "休闲"
     },
     {
       "raw_hot": 200060,
@@ -1553,6 +1569,14 @@
       "onboard_time": 1725678618,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189893,
+      "num": 189893,
+      "word": "薛之谦说退休后想来成都",
+      "onboard_time": 1725722900,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 189538,
@@ -1955,14 +1979,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 162171,
-      "num": 162171,
-      "word": "广东一男子因暴雨后赤脚走路住进ICU",
-      "onboard_time": 1725722300,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162133,
       "num": 198054,
       "word": "魏哲鸣 我们对齐一下颗粒度",
@@ -2001,6 +2017,14 @@
       "onboard_time": 1725683719,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 160125,
+      "num": 160125,
+      "word": "蟹太太回应辛巴三只羊纠纷",
+      "onboard_time": 1725723139,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 159969,
@@ -2081,6 +2105,14 @@
       "onboard_time": 1725700940,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 155685,
+      "num": 155685,
+      "word": "TMA",
+      "onboard_time": 1725722659,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 155444,
@@ -3131,6 +3163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38743,
+      "num": 336585,
+      "word": "亲历者回忆台风摩羯来袭瞬间",
+      "onboard_time": 1725722180,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37351,
       "num": 309793,
       "word": "电视剧情设定不能一味迎合流量",
@@ -3243,14 +3283,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 25411,
-      "num": 313842,
-      "word": "亲历者回忆台风摩羯来袭瞬间",
-      "onboard_time": 1725722180,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24509,
       "num": 358248,
       "word": "阿玛尼让威尼斯翻红",
@@ -3273,6 +3305,14 @@
       "onboard_time": 1725705139,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 23258,
+      "num": 336674,
+      "word": "徐闻港尚未通行有货运司机滞留数日",
+      "onboard_time": 1725722780,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20922,
