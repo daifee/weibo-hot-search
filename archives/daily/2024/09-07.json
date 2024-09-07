@@ -1,6 +1,6 @@
 {
   "startTime": 1725640058523,
-  "endTime": 1725683942303,
+  "endTime": 1725686387691,
   "band_list": [
     {
       "raw_hot": 2354423,
@@ -17,6 +17,14 @@
       "onboard_time": 1725675079,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1544732,
+      "num": 1544732,
+      "word": "李一桐紧急撤回一个直播事故",
+      "onboard_time": 1725681619,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1417432,
@@ -51,14 +59,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1050835,
-      "num": 1050835,
-      "word": "李一桐紧急撤回一个直播事故",
-      "onboard_time": 1725681619,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1035156,
       "num": 1165625,
       "word": "教育局回应一家长在微信群见谁怼谁",
@@ -81,6 +81,14 @@
       "onboard_time": 1725667759,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 887247,
+      "num": 238353,
+      "word": "小杨哥徒弟曾说买假货就把师傅告破产",
+      "onboard_time": 1725684679,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 882875,
@@ -171,6 +179,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 636069,
+      "num": 397450,
+      "word": "李飞 李霏",
+      "onboard_time": 1725683840,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 634577,
       "num": 300742,
       "word": "三只羊",
@@ -193,6 +209,14 @@
       "onboard_time": 1725670878,
       "rank": 7,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 589727,
+      "num": 444250,
+      "word": "有没有二本恋综",
+      "onboard_time": 1725685460,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 565768,
@@ -355,6 +379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 346897,
+      "num": 346897,
+      "word": "刘亦菲晚宴跳舞",
+      "onboard_time": 1725680419,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 323182,
       "num": 323182,
       "word": "女子替朋友熬药中毒身亡判赔23万",
@@ -371,12 +403,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 316075,
-      "num": 278140,
-      "word": "刘亦菲晚宴跳舞",
-      "onboard_time": 1725680419,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 322822,
+      "num": 408095,
+      "word": "台风过境后广东周末仍有大暴雨",
+      "onboard_time": 1725682999,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 312047,
@@ -401,6 +433,14 @@
       "onboard_time": 1725670338,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306713,
+      "num": 306713,
+      "word": "平次和叶正式交往",
+      "onboard_time": 1725685219,
+      "rank": 15,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 297449,
@@ -643,14 +683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189878,
-      "num": 408095,
-      "word": "台风过境后广东周末仍有大暴雨",
-      "onboard_time": 1725682999,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189483,
       "num": 221914,
       "word": "台风登陆现场画面",
@@ -659,12 +691,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188862,
+      "num": 188862,
+      "word": "赵露思机场回应粉丝一步三回头",
+      "onboard_time": 1725685399,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188089,
       "num": 188089,
       "word": "大螺蛳螺蛳粉",
       "onboard_time": 1725681560,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 188009,
+      "num": 400735,
+      "word": "紧急下达2亿元支持台风灾后应急",
+      "onboard_time": 1725682280,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185420,
@@ -731,12 +779,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 176154,
-      "num": 176154,
-      "word": "李飞 李霏",
-      "onboard_time": 1725683840,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 178168,
+      "num": 405463,
+      "word": "超强台风摩羯进入北部湾",
+      "onboard_time": 1725683300,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176156,
+      "num": 176156,
+      "word": "一支穿云箭千军万马来相见",
+      "onboard_time": 1725685519,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 174321,
@@ -787,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167064,
+      "num": 167064,
+      "word": "迎风的青春定档",
+      "onboard_time": 1725686000,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166335,
       "num": 166335,
       "word": "完美世界定档",
@@ -811,20 +875,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160970,
+      "num": 160970,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1725685700,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 160744,
       "num": 160744,
       "word": "广式月饼开始加入全球食材",
       "onboard_time": 1725683719,
       "rank": 40,
       "category": "美食"
-    },
-    {
-      "raw_hot": 160440,
-      "num": 219278,
-      "word": "紧急下达2亿元支持台风灾后应急",
-      "onboard_time": 1725682280,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157859,
@@ -851,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151295,
+      "num": 151295,
+      "word": "沈腾讲谢娜助演事故",
+      "onboard_time": 1725685339,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148960,
       "num": 100410,
       "word": "夜爬嵩山看日出迎白露",
@@ -865,6 +937,14 @@
       "onboard_time": 1725670460,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144450,
+      "num": 144450,
+      "word": "赵露思方告黑维权",
+      "onboard_time": 1725686180,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 143775,
@@ -921,6 +1001,14 @@
       "onboard_time": 1725664936,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 133617,
+      "num": 133617,
+      "word": "马嘉祺晒狗",
+      "onboard_time": 1725684200,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 132529,
@@ -995,6 +1083,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 127983,
+      "num": 309805,
+      "word": "好好分手真的很难吗",
+      "onboard_time": 1725682339,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125804,
       "num": 125804,
       "word": "何广智 长了一张广播体操脸",
@@ -1059,12 +1155,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 115963,
+      "num": 115963,
+      "word": "一建",
+      "onboard_time": 1725684859,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 115795,
       "num": 287617,
       "word": "燃烧的月亮这波也太有排面了",
       "onboard_time": 1725682100,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115791,
+      "num": 115791,
+      "word": "雪迷宫",
+      "onboard_time": 1725686359,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 113444,
@@ -1088,14 +1200,6 @@
       "word": "海口居民称家被台风吹空",
       "onboard_time": 1725676879,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 107506,
-      "num": 309805,
-      "word": "好好分手真的很难吗",
-      "onboard_time": 1725682339,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1283,14 +1387,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 64950,
-      "num": 405463,
-      "word": "超强台风摩羯进入北部湾",
-      "onboard_time": 1725683300,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 63587,
       "num": 390392,
       "word": "加油员汽油车里加柴油车损谁承担",
@@ -1331,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50518,
+      "num": 397666,
+      "word": "实拍摩羯过境后的海口",
+      "onboard_time": 1725685640,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50023,
       "num": 600026,
       "word": "女子带娃被困大风中2男子接力解救",
@@ -1363,6 +1467,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39095,
+      "num": 246066,
+      "word": "玛莎发博",
+      "onboard_time": 1725686000,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 37351,
+      "num": 309793,
+      "word": "电视剧情设定不能一味迎合流量",
+      "onboard_time": 1725684920,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32782,
       "num": 409061,
       "word": "抗美援朝战地记者张崇岫逝世",
@@ -1385,6 +1505,14 @@
       "onboard_time": 1725654071,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27014,
+      "num": 238484,
+      "word": "营养师称吃素是个技术活",
+      "onboard_time": 1725686121,
+      "rank": 19,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 26201,
