@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725701713515,
+  "endTime": 1725704509654,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -665,6 +665,14 @@
       "onboard_time": 1725284782,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1516932,
+      "num": 1516932,
+      "word": "东北雨姐承认螃蟹是放到稻田里的",
+      "onboard_time": 1725701661,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 1515790,
@@ -4275,6 +4283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 497197,
+      "num": 296276,
+      "word": "王源回应顶胯",
+      "onboard_time": 1725702020,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 496893,
       "num": 496893,
       "word": "方协文遇到他都轻舟已过万重山",
@@ -4481,6 +4497,14 @@
       "onboard_time": 1725193879,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 475312,
+      "num": 475312,
+      "word": "赵丽颖提裙上台",
+      "onboard_time": 1725702981,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 475183,
@@ -6707,6 +6731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 281225,
+      "num": 281225,
+      "word": "HLE晋级S14",
+      "onboard_time": 1725703101,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 280963,
       "num": 280963,
       "word": "易烊千玺的面部折叠度",
@@ -7531,6 +7563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 248917,
+      "num": 248917,
+      "word": "韩安冉开三指上无痛了",
+      "onboard_time": 1725704119,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 248767,
       "num": 465751,
       "word": "檀健次夸by2拍照技术好",
@@ -8331,6 +8371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224210,
+      "num": 224210,
+      "word": "老人继承同学30万存款遭拒起诉银行",
+      "onboard_time": 1725698301,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224140,
       "num": 224140,
       "word": "郑钦文需排进前七才能入围总决赛",
@@ -8345,6 +8393,14 @@
       "onboard_time": 1725610219,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224027,
+      "num": 224027,
+      "word": "HLE对战T1",
+      "onboard_time": 1725690859,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 223755,
@@ -8369,14 +8425,6 @@
       "onboard_time": 1725545123,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 222919,
-      "num": 222919,
-      "word": "老人继承同学30万存款遭拒起诉银行",
-      "onboard_time": 1725698301,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222660,
@@ -9289,6 +9337,14 @@
       "onboard_time": 1725505999,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 204471,
+      "num": 204471,
+      "word": "乳房其实是情绪的靶向器官",
+      "onboard_time": 1725702379,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 204402,
@@ -13347,14 +13403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159403,
-      "num": 159403,
-      "word": "东北雨姐承认螃蟹是放到稻田里的",
-      "onboard_time": 1725701661,
-      "rank": 41,
-      "category": "网红"
-    },
-    {
       "raw_hot": 159323,
       "num": 159323,
       "word": "广西北海停课停工停游停市停运",
@@ -13699,6 +13747,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 156117,
+      "num": 156117,
+      "word": "章若楠张哲华直播不说话",
+      "onboard_time": 1725701901,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156036,
       "num": 156036,
       "word": "朱志鑫回重庆七中",
@@ -13764,10 +13820,18 @@
     },
     {
       "raw_hot": 155474,
-      "num": 155474,
+      "num": 257633,
       "word": "娃哈哈官网招标10万个冰柜",
       "onboard_time": 1725700819,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155444,
+      "num": 455596,
+      "word": "小伙相亲当天付24万彩礼遇婚骗",
+      "onboard_time": 1725701059,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -14131,6 +14195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151689,
+      "num": 549179,
+      "word": "摩羯风眼过境致多人恶心头晕耳鸣",
+      "onboard_time": 1725699920,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151598,
       "num": 151598,
       "word": "袁娅维身材",
@@ -14281,14 +14353,6 @@
       "onboard_time": 1725198141,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149892,
-      "num": 149892,
-      "word": "HLE对战T1",
-      "onboard_time": 1725690859,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 149360,
@@ -15827,6 +15891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125798,
+      "num": 125798,
+      "word": "王楚钦徐瑛彬同区",
+      "onboard_time": 1725703578,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125590,
       "num": 125590,
       "word": "男子4年举报交通违法超5000条",
@@ -16033,6 +16105,14 @@
       "onboard_time": 1725333141,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119778,
+      "num": 119778,
+      "word": "刘诗诗秋韵洒满裙摆",
+      "onboard_time": 1725702500,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 119619,
@@ -17145,14 +17225,6 @@
       "onboard_time": 1725466457,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 79658,
-      "num": 549179,
-      "word": "摩羯风眼过境致多人恶心头晕耳鸣",
-      "onboard_time": 1725699920,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79379,
@@ -18691,6 +18763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39881,
+      "num": 293730,
+      "word": "海南居民谈台风摩羯过境",
+      "onboard_time": 1725702859,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39557,
       "num": 219179,
       "word": "张凌赫和张婧仪说了什么",
@@ -18769,14 +18849,6 @@
       "onboard_time": 1725613041,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 38441,
-      "num": 455596,
-      "word": "小伙相亲当天付24万彩礼遇婚骗",
-      "onboard_time": 1725701059,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38277,
@@ -19345,6 +19417,14 @@
       "onboard_time": 1725630022,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31247,
+      "num": 261745,
+      "word": "终于和妈妈成了能谈论月经的关系",
+      "onboard_time": 1725703040,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31079,
@@ -20249,6 +20329,14 @@
       "onboard_time": 1725440600,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17227,
+      "num": 293027,
+      "word": "事关中印边境西部战区辟谣",
+      "onboard_time": 1725703220,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17095,
