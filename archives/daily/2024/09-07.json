@@ -1,6 +1,6 @@
 {
   "startTime": 1725640058523,
-  "endTime": 1725708942599,
+  "endTime": 1725712601104,
   "band_list": [
     {
       "raw_hot": 2354423,
@@ -65,6 +65,14 @@
       "onboard_time": 1725685460,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1493411,
+      "num": 1493411,
+      "word": "赵露思ins更新怼脸照",
+      "onboard_time": 1725707720,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 1417432,
@@ -395,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 546765,
-      "num": 365311,
-      "word": "赵露思ins更新怼脸照",
-      "onboard_time": 1725707720,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 541059,
       "num": 541059,
       "word": "海口一酒店外墙被摩羯吹跑了",
@@ -523,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 472162,
+      "num": 375717,
+      "word": "好久不见的长发秦岚",
+      "onboard_time": 1725709580,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 465594,
       "num": 465594,
       "word": "赵露思宝格丽生图",
@@ -547,12 +555,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 450080,
+      "num": 450080,
+      "word": "中级经济法",
+      "onboard_time": 1725701720,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 437582,
       "num": 494397,
       "word": "知否大娘子新剧嫁了王启年",
       "onboard_time": 1725696860,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 436342,
+      "num": 367536,
+      "word": "刘亦菲赵露思抱在一起",
+      "onboard_time": 1725710360,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 422685,
@@ -593,6 +617,14 @@
       "onboard_time": 1725695839,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 407264,
+      "num": 337915,
+      "word": "陈都灵顶光生图",
+      "onboard_time": 1725709879,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 400029,
@@ -649,6 +681,14 @@
       "onboard_time": 1725697642,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359315,
+      "num": 359315,
+      "word": "东北鸡架",
+      "onboard_time": 1725709940,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 358419,
@@ -891,12 +931,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241330,
+      "num": 241330,
+      "word": "华为三折叠硬刚苹果",
+      "onboard_time": 1725709701,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 238218,
       "num": 359168,
       "word": "袁爷爷诞辰94周年",
       "onboard_time": 1725666137,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235360,
+      "num": 235360,
+      "word": "秦岚鎏金渐变裙",
+      "onboard_time": 1725709401,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 229860,
@@ -1035,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204628,
+      "num": 204628,
+      "word": "赵丽颖白婚纱",
+      "onboard_time": 1725711800,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 203873,
       "num": 203873,
       "word": "张雪峰公司反向调休",
@@ -1129,6 +1193,14 @@
       "onboard_time": 1725693558,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196856,
+      "num": 196856,
+      "word": "樊振东去迪士尼玩了",
+      "onboard_time": 1725712100,
+      "rank": 25,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 196789,
@@ -1395,6 +1467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174658,
+      "num": 174658,
+      "word": "女格斗运动员回应遭猥亵",
+      "onboard_time": 1725709401,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174321,
       "num": 174321,
       "word": "超市里的烤鸡为什么卖那么便宜",
@@ -1451,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172217,
+      "num": 405583,
+      "word": "老头乐被认定为机动车遭保险拒赔",
+      "onboard_time": 1725706939,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169850,
       "num": 169850,
       "word": "血常规报告单可分3部分看",
@@ -1475,12 +1563,36 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 165767,
+      "num": 165767,
+      "word": "许嵩演唱会",
+      "onboard_time": 1725711499,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 165553,
+      "num": 412964,
+      "word": "6岁男孩1个月充值某游戏3万多",
+      "onboard_time": 1725707181,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164344,
       "num": 164344,
       "word": "朱婷解锁一日孩子王",
       "onboard_time": 1725692479,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164180,
+      "num": 361058,
+      "word": "海南防台风最新情况",
+      "onboard_time": 1725712219,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163862,
@@ -1579,6 +1691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 156192,
+      "num": 165942,
+      "word": "海口一小区多个阳台被台风刮飞",
+      "onboard_time": 1725709040,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155734,
       "num": 440858,
       "word": "曾黎探班赵露思拍戏",
@@ -1675,6 +1795,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 148346,
+      "num": 148346,
+      "word": "程潇是不是睡觉也流口水",
+      "onboard_time": 1725712280,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147810,
       "num": 160309,
       "word": "爱情进入平淡期要分手吗",
@@ -1713,6 +1841,14 @@
       "onboard_time": 1725670460,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144267,
+      "num": 144267,
+      "word": "宋雨琦进入变声期了",
+      "onboard_time": 1725708681,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 143775,
@@ -1817,14 +1953,6 @@
       "onboard_time": 1725687199,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133764,
-      "num": 133764,
-      "word": "宋雨琦进入变声期了",
-      "onboard_time": 1725708681,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 133617,
@@ -2035,6 +2163,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 124333,
+      "num": 124333,
+      "word": "十个勤天行李牌",
+      "onboard_time": 1725709639,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 124084,
+      "num": 124084,
+      "word": "对不起 我实在太爱吃饭了",
+      "onboard_time": 1725707600,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 123198,
       "num": 123198,
       "word": "国足对战沙特门票最高1680元",
@@ -2091,14 +2235,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 116955,
-      "num": 116955,
-      "word": "对不起 我实在太爱吃饭了",
-      "onboard_time": 1725707600,
-      "rank": 45,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 115963,
       "num": 115963,
       "word": "一建",
@@ -2129,6 +2265,14 @@
       "onboard_time": 1725708920,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 114390,
+      "num": 114390,
+      "word": "让祝绪丹抓狂张翰只需说两个字",
+      "onboard_time": 1725712519,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 113444,
@@ -2331,14 +2475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86872,
-      "num": 412964,
-      "word": "6岁男孩1个月充值某游戏3万多",
-      "onboard_time": 1725707181,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 85536,
       "num": 237394,
       "word": "林依轮 我的披哥人脉",
@@ -2353,6 +2489,14 @@
       "onboard_time": 1725660493,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 81345,
+      "num": 172840,
+      "word": "商场里难寻蹲厕",
+      "onboard_time": 1725710601,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76948,
@@ -2400,6 +2544,14 @@
       "word": "多数外卖骑手不愿意交社保",
       "onboard_time": 1725692899,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65562,
+      "num": 238567,
+      "word": "18吨快递货车被摩羯掀翻",
+      "onboard_time": 1725710838,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -2515,14 +2667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44723,
-      "num": 405583,
-      "word": "老头乐被认定为机动车遭保险拒赔",
-      "onboard_time": 1725706939,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43168,
       "num": 376273,
       "word": "天猫99百亿盛典红包在燃烧",
@@ -2560,6 +2704,14 @@
       "word": "电视剧情设定不能一味迎合流量",
       "onboard_time": 1725684920,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36686,
+      "num": 172422,
+      "word": "律师在线解读男孩骑行被碾压案",
+      "onboard_time": 1725712280,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -2729,6 +2881,14 @@
       "onboard_time": 1725707238,
       "rank": 38,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 12529,
+      "num": 157036,
+      "word": "有哪些实用的防垮脸心得",
+      "onboard_time": 1725711800,
+      "rank": 37,
+      "category": "美妆"
     },
     {
       "raw_hot": 11758,
