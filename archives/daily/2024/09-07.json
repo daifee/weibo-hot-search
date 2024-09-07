@@ -1,18 +1,18 @@
 {
   "startTime": 1725640058523,
-  "endTime": 1725677628016,
+  "endTime": 1725679380659,
   "band_list": [
     {
-      "raw_hot": 1517160,
-      "num": 1517160,
+      "raw_hot": 1919465,
+      "num": 1919465,
       "word": "网传东北雨姐视频造假塌房",
       "onboard_time": 1725675079,
       "rank": 1,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1414004,
-      "num": 1414004,
+      "raw_hot": 1417432,
+      "num": 1417432,
       "word": "娃哈哈遭多名前员工起诉",
       "onboard_time": 1725674118,
       "rank": 0,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 882875,
+      "num": 882875,
+      "word": "马锐为赵露思发声",
+      "onboard_time": 1725675259,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 834440,
       "num": 452347,
       "word": "超市被传倒闭顾客连吃带喝一片狼藉",
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 759112,
-      "num": 246395,
+      "num": 266287,
       "word": "辛巴称三只羊还有四天时间",
       "onboard_time": 1725672799,
       "rank": 22,
@@ -105,14 +113,6 @@
       "onboard_time": 1725631042,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 711325,
-      "num": 711325,
-      "word": "马锐为赵露思发声",
-      "onboard_time": 1725675259,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 672189,
@@ -139,12 +139,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 594189,
+      "num": 594189,
+      "word": "偶遇徐正溪在养老院照顾父亲",
+      "onboard_time": 1725676460,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 593853,
       "num": 593853,
       "word": "服部平次告白成功",
       "onboard_time": 1725670878,
       "rank": 7,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 565768,
+      "num": 266852,
+      "word": "AI换脸三小时骗走我妈一年工资",
+      "onboard_time": 1725672499,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 553243,
@@ -155,19 +171,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 538808,
-      "num": 243401,
-      "word": "AI换脸三小时骗走我妈一年工资",
-      "onboard_time": 1725672499,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 490991,
       "num": 490991,
       "word": "海南动员38周以上孕妇住院待产",
       "onboard_time": 1725635842,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 486012,
+      "num": 486012,
+      "word": "印女医生父母遭警察包围被迫火化尸体",
+      "onboard_time": 1725677420,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 484448,
+      "num": 484448,
+      "word": "孙卓到南京工业大学报到了",
+      "onboard_time": 1725675440,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -227,6 +251,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 389416,
+      "num": 389416,
+      "word": "中级会计",
+      "onboard_time": 1725674118,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 388668,
       "num": 388668,
       "word": "刘亦菲赵露思给对方鼓掌",
@@ -275,12 +307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 308296,
-      "num": 308296,
-      "word": "孙卓到南京工业大学报到了",
-      "onboard_time": 1725675440,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 321868,
+      "num": 321868,
+      "word": "耳朵越掏会变得越油",
+      "onboard_time": 1725676038,
+      "rank": 19,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 306972,
@@ -304,14 +336,6 @@
       "word": "刘浩存自拍",
       "onboard_time": 1725630803,
       "rank": 8,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 296552,
-      "num": 296552,
-      "word": "偶遇徐正溪在养老院照顾父亲",
-      "onboard_time": 1725676460,
-      "rank": 29,
       "category": "艺人"
     },
     {
@@ -345,6 +369,30 @@
       "onboard_time": 1725664635,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265244,
+      "num": 265244,
+      "word": "恋与深空 单人池",
+      "onboard_time": 1725678499,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 261581,
+      "num": 261581,
+      "word": "印度被奸杀女医生父母控诉",
+      "onboard_time": 1725677240,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260936,
+      "num": 260936,
+      "word": "WTT 卖不出票",
+      "onboard_time": 1725679218,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 252634,
@@ -387,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 221805,
-      "num": 221805,
-      "word": "中级会计",
-      "onboard_time": 1725674118,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 216708,
       "num": 216708,
       "word": "刘亦菲把3000朵花穿在身上",
@@ -411,12 +451,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 212822,
+      "num": 212822,
+      "word": "中级会计实务",
+      "onboard_time": 1725678859,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 209542,
       "num": 209542,
       "word": "台风摩羯已致菲律宾16人死亡",
       "onboard_time": 1725653591,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206475,
+      "num": 206475,
+      "word": "马斯克发布悟空版AI照片",
+      "onboard_time": 1725678558,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 203873,
@@ -475,12 +531,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190559,
+      "num": 195876,
+      "word": "梁伟铿解锁男子双打新体验",
+      "onboard_time": 1725678618,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189483,
       "num": 221914,
       "word": "台风登陆现场画面",
       "onboard_time": 1725667759,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185045,
+      "num": 185045,
+      "word": "张博恒赢得多却被泼得惨",
+      "onboard_time": 1725678920,
+      "rank": 32,
+      "category": "体育,综艺"
     },
     {
       "raw_hot": 183362,
@@ -547,6 +619,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 166335,
+      "num": 166335,
+      "word": "完美世界定档",
+      "onboard_time": 1725678379,
+      "rank": 40,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 163862,
       "num": 174303,
       "word": "K总 搞笑",
@@ -563,12 +643,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158299,
-      "num": 158299,
-      "word": "印度被奸杀女医生父母控诉",
-      "onboard_time": 1725677240,
-      "rank": 35,
+      "raw_hot": 161219,
+      "num": 161219,
+      "word": "三只羊",
+      "onboard_time": 1725679041,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 160477,
+      "num": 298640,
+      "word": "浙江前首富价值百亿煤矿被划走",
+      "onboard_time": 1725676460,
+      "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159909,
+      "num": 179331,
+      "word": "肖战牛仔外套搭白T",
+      "onboard_time": 1725679100,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 157859,
@@ -611,6 +707,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 143545,
+      "num": 143545,
+      "word": "台风摩羯路径",
+      "onboard_time": 1725677119,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143281,
       "num": 164940,
       "word": "广东也开始感受到摩羯威力了",
@@ -651,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131319,
+      "num": 131319,
+      "word": "杜海涛窗户能看到披荆斩棘",
+      "onboard_time": 1725677001,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131138,
       "num": 185968,
       "word": "原来长的好看菜市场也能出片",
@@ -664,6 +776,14 @@
       "word": "家长为买学校指定教辅材料连夜排长队",
       "onboard_time": 1725634642,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129526,
+      "num": 348566,
+      "word": "镇长为救老人被泥石流卷走牺牲",
+      "onboard_time": 1725677058,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -691,14 +811,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 126764,
-      "num": 248042,
-      "word": "耳朵越掏会变得越油",
-      "onboard_time": 1725676038,
-      "rank": 19,
-      "category": "社会新闻,健康医疗"
-    },
-    {
       "raw_hot": 125654,
       "num": 174284,
       "word": "汪峰难听",
@@ -723,28 +835,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122146,
-      "num": 122146,
-      "word": "杜海涛窗户能看到披荆斩棘",
-      "onboard_time": 1725677001,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 121711,
       "num": 121711,
       "word": "今日11时11分白露",
       "onboard_time": 1725665476,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121495,
-      "num": 121495,
-      "word": "印女医生父母遭警察包围被迫火化尸体",
-      "onboard_time": 1725677420,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119619,
@@ -963,14 +1059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 70300,
-      "num": 298640,
-      "word": "浙江前首富价值百亿煤矿被划走",
-      "onboard_time": 1725676460,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 69809,
       "num": 55767,
       "word": "连皇上皇后来了都得过安检",
@@ -995,14 +1083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 48654,
-      "num": 348566,
-      "word": "镇长为救老人被泥石流卷走牺牲",
-      "onboard_time": 1725677058,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 45062,
       "num": 199113,
       "word": "罗大美案主犯潜逃缅甸输掉大部分赃款",
@@ -1017,6 +1097,22 @@
       "onboard_time": 1725645255,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37531,
+      "num": 484733,
+      "word": "女子带娃被困大风中2男子接力解救",
+      "onboard_time": 1725679041,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35219,
+      "num": 330321,
+      "word": "山东一动物乐园熊瘦成狗奶牛皮包骨",
+      "onboard_time": 1725678439,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32701,
