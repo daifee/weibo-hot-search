@@ -1,6 +1,6 @@
 {
   "startTime": 1725640058523,
-  "endTime": 1725690475761,
+  "endTime": 1725691267416,
   "band_list": [
     {
       "raw_hot": 2354423,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1051852,
-      "num": 238353,
+      "num": 244044,
       "word": "小杨哥徒弟曾说买假货就把师傅告破产",
       "onboard_time": 1725684679,
       "rank": 20,
@@ -163,6 +163,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 678343,
+      "num": 678343,
+      "word": "赵露思自己化的妆容",
+      "onboard_time": 1725688339,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 672189,
       "num": 241643,
       "word": "女子在饭店被小叔子抽响亮耳光",
@@ -251,20 +259,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 488554,
+      "num": 442221,
+      "word": "黄景瑜 老天爷赏海下的男人",
+      "onboard_time": 1725688219,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 484448,
       "num": 484448,
       "word": "孙卓到南京工业大学报到了",
       "onboard_time": 1725675440,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 480597,
-      "num": 442221,
-      "word": "黄景瑜 老天爷赏海下的男人",
-      "onboard_time": 1725688219,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 477291,
@@ -305,14 +313,6 @@
       "onboard_time": 1725624741,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 446716,
-      "num": 353715,
-      "word": "赵露思自己化的妆容",
-      "onboard_time": 1725688339,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 420680,
@@ -451,6 +451,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 310907,
+      "num": 310907,
+      "word": "杨紫刘宇宁 家业",
+      "onboard_time": 1725690258,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 306972,
       "num": 306972,
       "word": "禁止在烈士陵园等庄严场所跳广场舞",
@@ -465,6 +473,14 @@
       "onboard_time": 1725670338,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 303484,
+      "num": 303484,
+      "word": "我嗑的cp终于官宣了",
+      "onboard_time": 1725689900,
+      "rank": 16,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 297449,
@@ -499,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270573,
+      "num": 270573,
+      "word": "吴宣仪想重聚火箭少女101",
+      "onboard_time": 1725688219,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265572,
       "num": 193708,
       "word": "家政阿姨不愿洗衣服",
@@ -512,6 +536,14 @@
       "word": "印度被奸杀女医生父母控诉",
       "onboard_time": 1725677240,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254459,
+      "num": 239074,
+      "word": "儿童骑行被碾压案相似案件被撤案处理",
+      "onboard_time": 1725689358,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -531,19 +563,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 249754,
-      "num": 249754,
-      "word": "吴宣仪想重聚火箭少女101",
-      "onboard_time": 1725688219,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 238218,
       "num": 359168,
       "word": "袁爷爷诞辰94周年",
       "onboard_time": 1725666137,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235888,
+      "num": 235888,
+      "word": "张凌赫田曦薇 逐玉",
+      "onboard_time": 1725689959,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 232805,
+      "num": 232805,
+      "word": "海口一酒店外墙被摩羯吹跑了",
+      "onboard_time": 1725688100,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -569,6 +609,14 @@
       "onboard_time": 1725628461,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222396,
+      "num": 388199,
+      "word": "三十岁没结婚 回乡吃席被审判",
+      "onboard_time": 1725689779,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 221918,
@@ -611,28 +659,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 211206,
+      "num": 211206,
+      "word": "台风天鸭群稳稳站立纹丝不动",
+      "onboard_time": 1725688819,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209542,
       "num": 209542,
       "word": "台风摩羯已致菲律宾16人死亡",
       "onboard_time": 1725653591,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208179,
-      "num": 187745,
-      "word": "儿童骑行被碾压案相似案件被撤案处理",
-      "onboard_time": 1725689358,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207956,
-      "num": 388199,
-      "word": "三十岁没结婚 回乡吃席被审判",
-      "onboard_time": 1725689779,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 207435,
@@ -681,6 +721,14 @@
       "onboard_time": 1725664575,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199910,
+      "num": 199910,
+      "word": "FOG电竞广播剧破亿",
+      "onboard_time": 1725690859,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 198655,
@@ -771,14 +819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188513,
-      "num": 188513,
-      "word": "台风天鸭群稳稳站立纹丝不动",
-      "onboard_time": 1725688819,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188089,
       "num": 188089,
       "word": "大螺蛳螺蛳粉",
@@ -835,12 +875,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182489,
-      "num": 182489,
-      "word": "海口一酒店外墙被摩羯吹跑了",
-      "onboard_time": 1725688100,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 182579,
+      "num": 182579,
+      "word": "家业",
+      "onboard_time": 1725690559,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 182118,
@@ -884,7 +924,7 @@
     },
     {
       "raw_hot": 176156,
-      "num": 176156,
+      "num": 271785,
       "word": "一支穿云箭千军万马来相见",
       "onboard_time": 1725685519,
       "rank": 33,
@@ -937,6 +977,14 @@
       "onboard_time": 1725676460,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167730,
+      "num": 167730,
+      "word": "现在就出发2开录",
+      "onboard_time": 1725690919,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 167064,
@@ -995,14 +1043,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 160254,
-      "num": 160254,
-      "word": "张凌赫田曦薇 逐玉",
-      "onboard_time": 1725689959,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 157859,
       "num": 157859,
       "word": "店长不让开空调店员自带遥控器",
@@ -1019,6 +1059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155024,
+      "num": 155024,
+      "word": "陈好履历",
+      "onboard_time": 1725690979,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153571,
       "num": 153571,
       "word": "菲律宾二手炸鸡来自垃圾堆",
@@ -1032,6 +1080,14 @@
       "word": "沈腾讲谢娜助演事故",
       "onboard_time": 1725685339,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 150583,
+      "num": 150583,
+      "word": "你好星期六迎新运动会",
+      "onboard_time": 1725690678,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -1052,7 +1108,7 @@
     },
     {
       "raw_hot": 145643,
-      "num": 187677,
+      "num": 200288,
       "word": "喜剧之王单口季",
       "onboard_time": 1725689059,
       "rank": 26,
@@ -1073,6 +1129,14 @@
       "onboard_time": 1725662352,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 143737,
+      "num": 143737,
+      "word": "广东人都不敢吃的糖水",
+      "onboard_time": 1725689119,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 143545,
@@ -1123,6 +1187,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 134651,
+      "num": 134651,
+      "word": "周大福周生生不断关店",
+      "onboard_time": 1725690319,
+      "rank": 39,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 134018,
       "num": 134018,
       "word": "海口美兰国际机场暂时关闭",
@@ -1139,20 +1211,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133194,
-      "num": 133194,
-      "word": "周大福周生生不断关店",
-      "onboard_time": 1725690319,
-      "rank": 39,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 132530,
-      "num": 132530,
-      "word": "广东人都不敢吃的糖水",
-      "onboard_time": 1725689119,
-      "rank": 42,
-      "category": "美食"
+      "raw_hot": 132696,
+      "num": 132696,
+      "word": "HLE对战T1",
+      "onboard_time": 1725690859,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 132529,
@@ -1209,14 +1273,6 @@
       "onboard_time": 1725665718,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 128419,
-      "num": 128419,
-      "word": "杨紫刘宇宁 家业",
-      "onboard_time": 1725690258,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 128092,
@@ -1323,6 +1379,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 116446,
+      "num": 116446,
+      "word": "血常规报告单可分3部分看",
+      "onboard_time": 1725691039,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 115963,
       "num": 115963,
       "word": "一建",
@@ -1353,6 +1417,22 @@
       "onboard_time": 1725622519,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111809,
+      "num": 111809,
+      "word": "娃哈哈否认遭多名前员工起诉",
+      "onboard_time": 1725691039,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110753,
+      "num": 110753,
+      "word": "摩羯7日将再次登陆",
+      "onboard_time": 1725690859,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109870,
@@ -1531,6 +1611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 82515,
+      "num": 374092,
+      "word": "保姆在雇主家纵火掩饰盗窃痕迹",
+      "onboard_time": 1725689598,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76948,
       "num": 116775,
       "word": "柳岩 妈妈是全天下最会气你的人",
@@ -1587,14 +1675,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 58375,
-      "num": 374092,
-      "word": "保姆在雇主家纵火掩饰盗窃痕迹",
-      "onboard_time": 1725689598,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 53604,
       "num": 55835,
       "word": "孙千这段不像演的",
@@ -1619,6 +1699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50732,
+      "num": 303951,
+      "word": "华为金标三折叠",
+      "onboard_time": 1725687678,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 50023,
       "num": 600026,
       "word": "女子带娃被困大风中2男子接力解救",
@@ -1641,14 +1729,6 @@
       "onboard_time": 1725681619,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 41931,
-      "num": 247844,
-      "word": "华为金标三折叠",
-      "onboard_time": 1725687678,
-      "rank": 15,
-      "category": "数码"
     },
     {
       "raw_hot": 40114,
@@ -1708,7 +1788,7 @@
     },
     {
       "raw_hot": 19060,
-      "num": 160262,
+      "num": 173766,
       "word": "谢霆锋玩三国志战略版",
       "onboard_time": 1725688640,
       "rank": 33,
