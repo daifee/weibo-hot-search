@@ -1,6 +1,6 @@
 {
   "startTime": 1725640058523,
-  "endTime": 1725673841580,
+  "endTime": 1725676980989,
   "band_list": [
     {
       "raw_hot": 1361759,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 1351681,
-      "num": 682977,
+      "num": 910982,
       "word": "翟潇闻道歉",
       "onboard_time": 1725665838,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1312860,
+      "num": 1312860,
+      "word": "娃哈哈遭多名前员工起诉",
+      "onboard_time": 1725674118,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1128011,
@@ -25,6 +33,14 @@
       "onboard_time": 1725625159,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1084804,
+      "num": 1084804,
+      "word": "网传东北雨姐视频造假塌房",
+      "onboard_time": 1725675079,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1035156,
@@ -67,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 759112,
+      "num": 246395,
+      "word": "辛巴称三只羊还有四天时间",
+      "onboard_time": 1725672799,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 733685,
       "num": 215468,
       "word": "我的母亲一生都在被家暴",
@@ -83,8 +107,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 701708,
+      "num": 701708,
+      "word": "马锐为赵露思发声",
+      "onboard_time": 1725675259,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 672189,
-      "num": 204348,
+      "num": 241643,
       "word": "女子在饭店被小叔子抽响亮耳光",
       "onboard_time": 1725667517,
       "rank": 20,
@@ -163,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 420680,
+      "num": 420680,
+      "word": "刘琳 姐一直都很辣",
+      "onboard_time": 1725669739,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 418342,
       "num": 214612,
       "word": "黄多多读的是纽约大学",
@@ -171,20 +211,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 400223,
+      "num": 243401,
+      "word": "AI换脸三小时骗走我妈一年工资",
+      "onboard_time": 1725672499,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400029,
       "num": 213731,
       "word": "小杨哥曾叫沫沫媳妇",
       "onboard_time": 1725619641,
       "rank": 24,
       "category": "网红"
-    },
-    {
-      "raw_hot": 397255,
-      "num": 397255,
-      "word": "刘琳 姐一直都很辣",
-      "onboard_time": 1725669739,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 388668,
@@ -209,14 +249,6 @@
       "onboard_time": 1725670700,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 348129,
-      "num": 200849,
-      "word": "辛巴称三只羊还有四天时间",
-      "onboard_time": 1725672799,
-      "rank": 22,
-      "category": "网红"
     },
     {
       "raw_hot": 347853,
@@ -251,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306739,
+      "num": 306739,
+      "word": "中国队83金64银41铜领跑奖牌榜",
+      "onboard_time": 1725670338,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 297449,
       "num": 456969,
       "word": "刘浩存自拍",
@@ -259,11 +299,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297300,
+      "num": 297300,
+      "word": "孙卓到南京工业大学报到了",
+      "onboard_time": 1725675440,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280630,
       "num": 280630,
       "word": "台风摩羯登陆瞬间",
       "onboard_time": 1725646693,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275089,
+      "num": 242165,
+      "word": "新人用200斤蔬菜办了一场婚礼",
+      "onboard_time": 1725670578,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -283,14 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 255068,
-      "num": 197291,
-      "word": "新人用200斤蔬菜办了一场婚礼",
-      "onboard_time": 1725670578,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 252634,
       "num": 200464,
       "word": "一岁幼童学走路摔了一跤中风了",
@@ -305,14 +353,6 @@
       "onboard_time": 1725633023,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232201,
-      "num": 232201,
-      "word": "中国队83金64银41铜领跑奖牌榜",
-      "onboard_time": 1725670338,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 229860,
@@ -396,7 +436,7 @@
     },
     {
       "raw_hot": 189483,
-      "num": 189483,
+      "num": 221914,
       "word": "台风登陆现场画面",
       "onboard_time": 1725667759,
       "rank": 32,
@@ -425,6 +465,38 @@
       "onboard_time": 1725648614,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179475,
+      "num": 179475,
+      "word": "偶遇徐正溪在养老院照顾父亲",
+      "onboard_time": 1725676460,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 178588,
+      "num": 178588,
+      "word": "中级会计",
+      "onboard_time": 1725674118,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 177125,
+      "num": 177125,
+      "word": "WTT",
+      "onboard_time": 1725676158,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 174971,
+      "num": 174971,
+      "word": "秘鲁伐木工侵犯原始部落领地遭射杀",
+      "onboard_time": 1725675799,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174321,
@@ -467,14 +539,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 167737,
-      "num": 167737,
-      "word": "AI换脸三小时骗走我妈一年工资",
-      "onboard_time": 1725672499,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163862,
       "num": 174303,
       "word": "K总 搞笑",
@@ -488,6 +552,14 @@
       "word": "袁爷爷诞辰94周年",
       "onboard_time": 1725666137,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157859,
+      "num": 157859,
+      "word": "店长不让开空调店员自带遥控器",
+      "onboard_time": 1725673699,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -528,6 +600,14 @@
       "word": "广东也开始感受到摩羯威力了",
       "onboard_time": 1725643635,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137798,
+      "num": 137798,
+      "word": "广西北海严阵以待战摩羯",
+      "onboard_time": 1725675500,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -587,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127353,
+      "num": 127353,
+      "word": "伤筋动骨卧床100天是错的吗",
+      "onboard_time": 1725675857,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 125654,
       "num": 174284,
       "word": "汪峰难听",
@@ -617,6 +705,22 @@
       "onboard_time": 1725665476,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120831,
+      "num": 143776,
+      "word": "魏哲鸣 我们对齐一下颗粒度",
+      "onboard_time": 1725676579,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 119619,
+      "num": 119619,
+      "word": "风吹稻田我又想念您了",
+      "onboard_time": 1725675317,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119283,
@@ -651,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108508,
+      "num": 108508,
+      "word": "海口居民称家被台风吹空",
+      "onboard_time": 1725676879,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107414,
       "num": 107414,
       "word": "林诗栋蒯曼3比0日本组合",
@@ -673,14 +785,6 @@
       "onboard_time": 1725631761,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 101648,
-      "num": 101648,
-      "word": "店长不让开空调店员自带遥控器",
-      "onboard_time": 1725673699,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101477,
@@ -811,6 +915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 80485,
+      "num": 248042,
+      "word": "耳朵越掏会变得越油",
+      "onboard_time": 1725676038,
+      "rank": 19,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 76948,
       "num": 116775,
       "word": "柳岩 妈妈是全天下最会气你的人",
@@ -841,6 +953,14 @@
       "onboard_time": 1725625220,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62696,
+      "num": 298640,
+      "word": "浙江前首富价值百亿煤矿被划走",
+      "onboard_time": 1725676460,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53604,
@@ -884,7 +1004,7 @@
     },
     {
       "raw_hot": 26201,
-      "num": 692826,
+      "num": 914484,
       "word": "跨越千年时空相遇金字塔之巅",
       "onboard_time": 1725629240,
       "rank": 2,

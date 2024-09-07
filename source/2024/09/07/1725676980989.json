@@ -1,0 +1,410 @@
+{
+  "runTime": 1725676980989,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1312860,
+        "num": 1312860,
+        "word": "娃哈哈遭多名前员工起诉",
+        "onboard_time": 1725674118,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1084804,
+        "num": 1084804,
+        "word": "网传东北雨姐视频造假塌房",
+        "onboard_time": 1725675079,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16714,
+        "num": 914484,
+        "word": "跨越千年时空相遇金字塔之巅",
+        "onboard_time": 1725629240,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1188639,
+        "num": 910982,
+        "word": "翟潇闻道歉",
+        "onboard_time": 1725665838,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 899758,
+        "num": 899758,
+        "word": "教育局回应一家长在微信群见谁怼谁",
+        "onboard_time": 1725665537,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 851459,
+        "num": 851459,
+        "word": "摩羯将第三次登陆",
+        "onboard_time": 1725667759,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701708,
+        "num": 701708,
+        "word": "马锐为赵露思发声",
+        "onboard_time": 1725675259,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485863,
+        "num": 485863,
+        "word": "服部平次告白成功",
+        "onboard_time": 1725670878,
+        "rank": 7,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 420680,
+        "num": 420680,
+        "word": "刘琳 姐一直都很辣",
+        "onboard_time": 1725669739,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358310,
+        "num": 358310,
+        "word": "摩羯登陆海南文昌",
+        "onboard_time": 1725611540,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451268,
+        "num": 353250,
+        "word": "医生为手术效果不穿防辐射铅衣",
+        "onboard_time": 1725665718,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322273,
+        "num": 322273,
+        "word": "素素死在了最漂亮的那天",
+        "onboard_time": 1725631042,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312238,
+        "num": 312238,
+        "word": "赵露思高清怼脸",
+        "onboard_time": 1725670700,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 306739,
+        "num": 306739,
+        "word": "中国队83金64银41铜领跑奖牌榜",
+        "onboard_time": 1725670338,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62696,
+        "num": 298640,
+        "word": "浙江前首富价值百亿煤矿被划走",
+        "onboard_time": 1725676460,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297300,
+        "num": 297300,
+        "word": "孙卓到南京工业大学报到了",
+        "onboard_time": 1725675440,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291907,
+        "num": 291907,
+        "word": "北京套内40平的小家",
+        "onboard_time": 1725668597,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 272751,
+        "num": 272751,
+        "word": "樊振东曾说巴黎奥运是他最后的机会",
+        "onboard_time": 1725668539,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248071,
+        "num": 248071,
+        "word": "刘亦菲赵露思给对方鼓掌",
+        "onboard_time": 1725665957,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 80485,
+        "num": 248042,
+        "word": "耳朵越掏会变得越油",
+        "onboard_time": 1725676038,
+        "rank": 19,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 759112,
+        "num": 246395,
+        "word": "辛巴称三只羊还有四天时间",
+        "onboard_time": 1725672799,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 156115,
+        "num": 244877,
+        "word": "袁爷爷诞辰94周年",
+        "onboard_time": 1725666137,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400223,
+        "num": 243401,
+        "word": "AI换脸三小时骗走我妈一年工资",
+        "onboard_time": 1725672499,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275089,
+        "num": 242165,
+        "word": "新人用200斤蔬菜办了一场婚礼",
+        "onboard_time": 1725670578,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241643,
+        "num": 241643,
+        "word": "女子在饭店被小叔子抽响亮耳光",
+        "onboard_time": 1725667517,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151402,
+        "num": 221914,
+        "word": "台风登陆现场画面",
+        "onboard_time": 1725667759,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214774,
+        "num": 214774,
+        "word": "我的母亲一生都在被家暴",
+        "onboard_time": 1725637941,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200324,
+        "num": 200324,
+        "word": "禁止在烈士陵园等庄严场所跳广场舞",
+        "onboard_time": 1725645553,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186108,
+        "num": 186108,
+        "word": "小杨哥",
+        "onboard_time": 1725623961,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 179475,
+        "num": 179475,
+        "word": "偶遇徐正溪在养老院照顾父亲",
+        "onboard_time": 1725676460,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178588,
+        "num": 178588,
+        "word": "中级会计",
+        "onboard_time": 1725674118,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 177125,
+        "num": 177125,
+        "word": "WTT",
+        "onboard_time": 1725676158,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174971,
+        "num": 174971,
+        "word": "秘鲁伐木工侵犯原始部落领地遭射杀",
+        "onboard_time": 1725675799,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170568,
+        "num": 170568,
+        "word": "家政阿姨不愿洗衣服",
+        "onboard_time": 1725664635,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119254,
+        "num": 161601,
+        "word": "田曦薇 主动破冰的小蝴蝶",
+        "onboard_time": 1725648614,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159922,
+        "num": 159922,
+        "word": "超市里的烤鸡为什么卖那么便宜",
+        "onboard_time": 1725664395,
+        "rank": 35,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 157859,
+        "num": 157859,
+        "word": "店长不让开空调店员自带遥控器",
+        "onboard_time": 1725673699,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155347,
+        "num": 155347,
+        "word": "白露",
+        "onboard_time": 1725664575,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150100,
+        "num": 150100,
+        "word": "超市被传倒闭顾客连吃带喝一片狼藉",
+        "onboard_time": 1725631944,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120831,
+        "num": 143776,
+        "word": "魏哲鸣 我们对齐一下颗粒度",
+        "onboard_time": 1725676579,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137798,
+        "num": 137798,
+        "word": "广西北海严阵以待战摩羯",
+        "onboard_time": 1725675500,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128432,
+        "num": 128432,
+        "word": "台风摩羯",
+        "onboard_time": 1725606559,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128161,
+        "num": 128161,
+        "word": "摩羯将在广西防城港再次登陆",
+        "onboard_time": 1725634343,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127353,
+        "num": 127353,
+        "word": "伤筋动骨卧床100天是错的吗",
+        "onboard_time": 1725675857,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119619,
+        "num": 119619,
+        "word": "风吹稻田我又想念您了",
+        "onboard_time": 1725675317,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118908,
+        "num": 118908,
+        "word": "妈妈认为大学生活费只要够吃饭就好",
+        "onboard_time": 1725667639,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115282,
+        "num": 115282,
+        "word": "海南",
+        "onboard_time": 1725665537,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111250,
+        "num": 111250,
+        "word": "台风摩羯影响长沙",
+        "onboard_time": 1725673518,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108508,
+        "num": 108508,
+        "word": "海口居民称家被台风吹空",
+        "onboard_time": 1725676879,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105422,
+        "num": 105422,
+        "word": "女子替朋友熬药中毒身亡判赔23万",
+        "onboard_time": 1725625521,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见马达加斯加总统拉乔利纳#"
+    }
+  }
+}
