@@ -1,6 +1,6 @@
 {
   "startTime": 1725640058523,
-  "endTime": 1725683116968,
+  "endTime": 1725683942303,
   "band_list": [
     {
       "raw_hot": 2354423,
@@ -51,6 +51,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1050835,
+      "num": 1050835,
+      "word": "李一桐紧急撤回一个直播事故",
+      "onboard_time": 1725681619,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1035156,
       "num": 1165625,
       "word": "教育局回应一家长在微信群见谁怼谁",
@@ -91,19 +99,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 813710,
+      "num": 813710,
+      "word": "印女医生父母遭警察包围被迫火化尸体",
+      "onboard_time": 1725677420,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 806633,
       "num": 467053,
       "word": "医生为手术效果不穿防辐射铅衣",
       "onboard_time": 1725665718,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 783421,
-      "num": 783421,
-      "word": "印女医生父母遭警察包围被迫火化尸体",
-      "onboard_time": 1725677420,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -163,20 +171,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 634577,
+      "num": 300742,
+      "word": "三只羊",
+      "onboard_time": 1725679041,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 616211,
       "num": 616211,
       "word": "偶遇徐正溪在养老院照顾父亲",
       "onboard_time": 1725676460,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 609578,
-      "num": 300742,
-      "word": "三只羊",
-      "onboard_time": 1725679041,
-      "rank": 41,
-      "category": "网红"
     },
     {
       "raw_hot": 593853,
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 565768,
-      "num": 266852,
+      "num": 281117,
       "word": "AI换脸三小时骗走我妈一年工资",
       "onboard_time": 1725672499,
       "rank": 36,
@@ -201,14 +209,6 @@
       "onboard_time": 1725634343,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 530879,
-      "num": 530879,
-      "word": "李一桐紧急撤回一个直播事故",
-      "onboard_time": 1725681619,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 518407,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 409988,
-      "num": 275000,
+      "num": 278961,
       "word": "真的有人在结婚时候喊反对",
       "onboard_time": 1725679640,
       "rank": 25,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 316075,
-      "num": 267473,
+      "num": 278140,
       "word": "刘亦菲晚宴跳舞",
       "onboard_time": 1725680419,
       "rank": 24,
@@ -491,12 +491,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221918,
+      "num": 221918,
+      "word": "周雨彤粉丝澄清",
+      "onboard_time": 1725683479,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216708,
       "num": 216708,
       "word": "刘亦菲把3000朵花穿在身上",
       "onboard_time": 1725616819,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 216579,
+      "num": 216579,
+      "word": "任嘉伦就这么水灵灵地挨了一巴掌",
+      "onboard_time": 1725682759,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 216388,
+      "num": 216388,
+      "word": "毕导 AI还得AI治",
+      "onboard_time": 1725683359,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 213162,
@@ -521,6 +545,22 @@
       "onboard_time": 1725681501,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 207075,
+      "num": 207075,
+      "word": "华为三折叠开启新品预定",
+      "onboard_time": 1725683240,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 204752,
+      "num": 204752,
+      "word": "宋亚轩旅行小青蛙",
+      "onboard_time": 1725683359,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 203873,
@@ -579,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192361,
+      "num": 178822,
+      "word": "宋亚轩刘耀文都在新疆",
+      "onboard_time": 1725683538,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190930,
       "num": 190930,
       "word": "WTT",
@@ -593,6 +641,14 @@
       "onboard_time": 1725678618,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189878,
+      "num": 408095,
+      "word": "台风过境后广东周末仍有大暴雨",
+      "onboard_time": 1725682999,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189483,
@@ -627,7 +683,7 @@
       "category": "体育,综艺"
     },
     {
-      "raw_hot": 183957,
+      "raw_hot": 184369,
       "num": 330321,
       "word": "山东一动物乐园熊瘦成狗奶牛皮包骨",
       "onboard_time": 1725678439,
@@ -665,6 +721,22 @@
       "onboard_time": 1725648614,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180557,
+      "num": 180557,
+      "word": "代号鸢",
+      "onboard_time": 1725683719,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 176154,
+      "num": 176154,
+      "word": "李飞 李霏",
+      "onboard_time": 1725683840,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 174321,
@@ -715,14 +787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169969,
-      "num": 169969,
-      "word": "台风过境后广东周末仍有大暴雨",
-      "onboard_time": 1725682999,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166335,
       "num": 166335,
       "word": "完美世界定档",
@@ -739,20 +803,28 @@
       "category": "网红"
     },
     {
-      "raw_hot": 162692,
-      "num": 158469,
-      "word": "任嘉伦就这么水灵灵地挨了一巴掌",
-      "onboard_time": 1725682759,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 162133,
       "num": 198054,
       "word": "魏哲鸣 我们对齐一下颗粒度",
       "onboard_time": 1725676579,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160744,
+      "num": 160744,
+      "word": "广式月饼开始加入全球食材",
+      "onboard_time": 1725683719,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 160440,
+      "num": 219278,
+      "word": "紧急下达2亿元支持台风灾后应急",
+      "onboard_time": 1725682280,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157859,
@@ -769,6 +841,14 @@
       "onboard_time": 1725667639,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153571,
+      "num": 153571,
+      "word": "菲律宾二手炸鸡来自垃圾堆",
+      "onboard_time": 1725681560,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148960,
@@ -848,14 +928,6 @@
       "word": "男子捡手机试出密码狂刷4千元被抓",
       "onboard_time": 1725635181,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132504,
-      "num": 219278,
-      "word": "紧急下达2亿元支持台风灾后应急",
-      "onboard_time": 1725682280,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -985,6 +1057,14 @@
       "onboard_time": 1725615079,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 115795,
+      "num": 287617,
+      "word": "燃烧的月亮这波也太有排面了",
+      "onboard_time": 1725682100,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 113444,
@@ -1155,14 +1235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 88032,
-      "num": 221838,
-      "word": "燃烧的月亮这波也太有排面了",
-      "onboard_time": 1725682100,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 87312,
       "num": 87312,
       "word": "范志毅0比4骂早了",
@@ -1211,6 +1283,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64950,
+      "num": 405463,
+      "word": "超强台风摩羯进入北部湾",
+      "onboard_time": 1725683300,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63587,
+      "num": 390392,
+      "word": "加油员汽油车里加柴油车损谁承担",
+      "onboard_time": 1725681798,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62799,
       "num": 81253,
       "word": "波尔说王楚钦是未来之星",
@@ -1219,12 +1307,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60301,
+      "num": 352914,
+      "word": "世界冠军入手问界新M7",
+      "onboard_time": 1725680540,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 53604,
       "num": 55835,
       "word": "孙千这段不像演的",
       "onboard_time": 1725660132,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 50877,
+      "num": 825778,
+      "word": "台风里生活慢下来防灾要快起来",
+      "onboard_time": 1725681678,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50023,
@@ -1243,22 +1347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43526,
-      "num": 352914,
-      "word": "世界冠军入手问界新M7",
-      "onboard_time": 1725680540,
-      "rank": 15,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 43524,
-      "num": 783045,
-      "word": "台风里生活慢下来防灾要快起来",
-      "onboard_time": 1725681678,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43168,
       "num": 376273,
       "word": "天猫99百亿盛典红包在燃烧",
@@ -1273,14 +1361,6 @@
       "onboard_time": 1725645255,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 33998,
-      "num": 390392,
-      "word": "加油员汽油车里加柴油车损谁承担",
-      "onboard_time": 1725681798,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32782,
@@ -1369,6 +1449,9 @@
     },
     {
       "word": "#习主席的中非时间#"
+    },
+    {
+      "word": "#中非友谊与合作结出新的丰硕成果#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1725683942303,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1492063,
+        "num": 1492063,
+        "word": "网传东北雨姐视频造假塌房",
+        "onboard_time": 1725675079,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1050835,
+        "num": 1050835,
+        "word": "李一桐紧急撤回一个直播事故",
+        "onboard_time": 1725681619,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50877,
+        "num": 825778,
+        "word": "台风里生活慢下来防灾要快起来",
+        "onboard_time": 1725681678,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1981224,
+        "num": 822346,
+        "word": "WTT 卖不出票",
+        "onboard_time": 1725679218,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 813710,
+        "num": 813710,
+        "word": "印女医生父母遭警察包围被迫火化尸体",
+        "onboard_time": 1725677420,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753198,
+        "num": 753198,
+        "word": "翟潇闻道歉",
+        "onboard_time": 1725665838,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 617257,
+        "num": 617257,
+        "word": "马锐为赵露思发声",
+        "onboard_time": 1725675259,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515361,
+        "num": 515361,
+        "word": "摩羯将第三次登陆",
+        "onboard_time": 1725667759,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189878,
+        "num": 408095,
+        "word": "台风过境后广东周末仍有大暴雨",
+        "onboard_time": 1725682999,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64950,
+        "num": 405463,
+        "word": "超强台风摩羯进入北部湾",
+        "onboard_time": 1725683300,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404245,
+        "num": 404245,
+        "word": "耳朵越掏会变得越油",
+        "onboard_time": 1725676038,
+        "rank": 10,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 388162,
+        "num": 388162,
+        "word": "恋与深空 单人池",
+        "onboard_time": 1725678499,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 351125,
+        "num": 351125,
+        "word": "偶遇徐正溪在养老院照顾父亲",
+        "onboard_time": 1725676460,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28930,
+        "num": 341812,
+        "word": "抗美援朝战地记者张崇岫逝世",
+        "onboard_time": 1725682879,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25922,
+        "num": 339294,
+        "word": "天猫99百亿盛典红包在燃烧",
+        "onboard_time": 1725681619,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 338970,
+        "num": 338970,
+        "word": "刘亦菲回应粉丝喊话进组",
+        "onboard_time": 1725679999,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60301,
+        "num": 291312,
+        "word": "世界冠军入手问界新M7",
+        "onboard_time": 1725680540,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 115795,
+        "num": 287617,
+        "word": "燃烧的月亮这波也太有排面了",
+        "onboard_time": 1725682100,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284505,
+        "num": 284505,
+        "word": "中级会计实务",
+        "onboard_time": 1725678859,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 99849,
+        "num": 284381,
+        "word": "好好分手真的很难吗",
+        "onboard_time": 1725682339,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1122699,
+        "num": 282988,
+        "word": "娃哈哈遭多名前员工起诉",
+        "onboard_time": 1725674118,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634577,
+        "num": 281922,
+        "word": "三只羊",
+        "onboard_time": 1725679041,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 350232,
+        "num": 281117,
+        "word": "AI换脸三小时骗走我妈一年工资",
+        "onboard_time": 1725672499,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403251,
+        "num": 280143,
+        "word": "辛巴称三只羊还有四天时间",
+        "onboard_time": 1725672799,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 295135,
+        "num": 278961,
+        "word": "真的有人在结婚时候喊反对",
+        "onboard_time": 1725679640,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278140,
+        "num": 278140,
+        "word": "刘亦菲晚宴跳舞",
+        "onboard_time": 1725680419,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256938,
+        "num": 256938,
+        "word": "马斯克发布悟空版AI照片",
+        "onboard_time": 1725678558,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 231689,
+        "num": 231689,
+        "word": "摩羯登陆海南文昌",
+        "onboard_time": 1725611540,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221918,
+        "num": 221918,
+        "word": "周雨彤粉丝澄清",
+        "onboard_time": 1725683479,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216579,
+        "num": 216579,
+        "word": "任嘉伦就这么水灵灵地挨了一巴掌",
+        "onboard_time": 1725682759,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216388,
+        "num": 216388,
+        "word": "毕导 AI还得AI治",
+        "onboard_time": 1725683359,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 207075,
+        "num": 207075,
+        "word": "华为三折叠开启新品预定",
+        "onboard_time": 1725683240,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 204752,
+        "num": 204752,
+        "word": "宋亚轩旅行小青蛙",
+        "onboard_time": 1725683359,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202209,
+        "num": 202209,
+        "word": "服部平次告白成功",
+        "onboard_time": 1725670878,
+        "rank": 33,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 184369,
+        "num": 184369,
+        "word": "山东一动物乐园熊瘦成狗奶牛皮包骨",
+        "onboard_time": 1725678439,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180557,
+        "num": 180557,
+        "word": "代号鸢",
+        "onboard_time": 1725683719,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192361,
+        "num": 178822,
+        "word": "宋亚轩刘耀文都在新疆",
+        "onboard_time": 1725683538,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176154,
+        "num": 176154,
+        "word": "李飞 李霏",
+        "onboard_time": 1725683840,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174162,
+        "num": 174162,
+        "word": "孙卓到南京工业大学报到了",
+        "onboard_time": 1725675440,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167615,
+        "num": 167615,
+        "word": "刘琳 姐一直都很辣",
+        "onboard_time": 1725669739,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160744,
+        "num": 160744,
+        "word": "广式月饼开始加入全球食材",
+        "onboard_time": 1725683719,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 160440,
+        "num": 160440,
+        "word": "紧急下达2亿元支持台风灾后应急",
+        "onboard_time": 1725682280,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160013,
+        "num": 160013,
+        "word": "谭松韵济南活动",
+        "onboard_time": 1725682519,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157966,
+        "num": 157966,
+        "word": "孙卓称来到梦开始的地方",
+        "onboard_time": 1725681501,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63587,
+        "num": 156587,
+        "word": "加油员汽油车里加柴油车损谁承担",
+        "onboard_time": 1725681798,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156392,
+        "num": 156392,
+        "word": "医生为手术效果不穿防辐射铅衣",
+        "onboard_time": 1725665718,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153571,
+        "num": 153571,
+        "word": "菲律宾二手炸鸡来自垃圾堆",
+        "onboard_time": 1725681560,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150375,
+        "num": 150375,
+        "word": "女子在饭店被小叔子抽响亮耳光",
+        "onboard_time": 1725667517,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148156,
+        "num": 148156,
+        "word": "台风登陆现场画面",
+        "onboard_time": 1725667759,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147022,
+        "num": 147022,
+        "word": "中级会计",
+        "onboard_time": 1725674118,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中非友谊与合作结出新的丰硕成果#"
+    }
+  }
+}
