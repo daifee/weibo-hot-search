@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725737750939,
+  "endTime": 1725740488186,
   "band_list": [
     {
       "raw_hot": 827847,
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 75387,
-      "num": 54601,
+      "num": 64484,
       "word": "邓超红发",
       "onboard_time": 1725735432,
       "rank": 17,
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24095,
+      "num": 24095,
+      "word": "气象台回应摩羯风眼过境致多人不适",
+      "onboard_time": 1725738612,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23998,
       "num": 25357,
       "word": "雪迷宫",
@@ -507,12 +515,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 12035,
+      "raw_hot": 18615,
+      "num": 20741,
+      "word": "张杰福州演唱会",
+      "onboard_time": 1725730933,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 18480,
       "num": 54636,
       "word": "私家车在17级台风下独行接人",
       "onboard_time": 1725737113,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 16686,
+      "num": 20739,
+      "word": "邓典问金莎男友到底好在哪",
+      "onboard_time": 1725737413,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 11588,
+      "num": 38952,
+      "word": "55岁的北京地铁也有隐藏款",
+      "onboard_time": 1725738970,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10124,
