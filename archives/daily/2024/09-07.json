@@ -1,6 +1,6 @@
 {
   "startTime": 1725640058523,
-  "endTime": 1725713520314,
+  "endTime": 1725715383736,
   "band_list": [
     {
       "raw_hot": 2354423,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1565561,
-      "num": 408919,
+      "num": 457477,
       "word": "多人发现遗体帐篷却未报警的背后",
       "onboard_time": 1725704599,
       "rank": 14,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1404821,
-      "num": 411445,
+      "num": 453363,
       "word": "韩安冉二胎是女儿",
       "onboard_time": 1725706159,
       "rank": 10,
@@ -299,12 +299,28 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 686169,
+      "num": 552393,
+      "word": "蛋黄呢",
+      "onboard_time": 1725712939,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 680294,
       "num": 680294,
       "word": "保姆在雇主家纵火掩饰盗窃痕迹",
       "onboard_time": 1725689598,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 672872,
+      "num": 479994,
+      "word": "赵丽颖白婚纱",
+      "onboard_time": 1725711800,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 672189,
@@ -355,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 608874,
+      "num": 608874,
+      "word": "华为三折叠硬刚苹果",
+      "onboard_time": 1725709701,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 593853,
       "num": 593853,
       "word": "服部平次告白成功",
@@ -369,6 +393,14 @@
       "onboard_time": 1725704780,
       "rank": 35,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 578768,
+      "num": 541356,
+      "word": "东北鸡架",
+      "onboard_time": 1725709940,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 574042,
@@ -403,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 541356,
-      "num": 541356,
-      "word": "东北鸡架",
-      "onboard_time": 1725709940,
-      "rank": 9,
-      "category": "美食"
-    },
-    {
       "raw_hot": 541059,
       "num": 541059,
       "word": "海口一酒店外墙被摩羯吹跑了",
@@ -441,6 +465,14 @@
       "onboard_time": 1725697940,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 521786,
+      "num": 521786,
+      "word": "美国故障飞船回地球宇航员还在太空",
+      "onboard_time": 1725713541,
+      "rank": 4,
+      "category": "国外时政"
     },
     {
       "raw_hot": 521630,
@@ -492,7 +524,7 @@
     },
     {
       "raw_hot": 488130,
-      "num": 402248,
+      "num": 419841,
       "word": "刘亦菲赵露思抱在一起",
       "onboard_time": 1725710360,
       "rank": 7,
@@ -747,14 +779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 326465,
-      "num": 326465,
-      "word": "华为三折叠硬刚苹果",
-      "onboard_time": 1725709701,
-      "rank": 17,
-      "category": "数码"
-    },
-    {
       "raw_hot": 323182,
       "num": 323182,
       "word": "女子替朋友熬药中毒身亡判赔23万",
@@ -769,14 +793,6 @@
       "onboard_time": 1725678859,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 318613,
-      "num": 318613,
-      "word": "赵丽颖白婚纱",
-      "onboard_time": 1725711800,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 312047,
@@ -827,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 293949,
+      "num": 293949,
+      "word": "养猪岗月入4万吸引求职者",
+      "onboard_time": 1725713119,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281225,
       "num": 281225,
       "word": "HLE晋级S14",
@@ -872,6 +896,14 @@
       "word": "吴宣仪想重聚火箭少女101",
       "onboard_time": 1725688219,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 265623,
+      "num": 265623,
+      "word": "你好星期六下期预告",
+      "onboard_time": 1725714679,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -1091,6 +1123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 207228,
+      "num": 207228,
+      "word": "袁隆平14万稻穗中发现天选株",
+      "onboard_time": 1725713541,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207075,
       "num": 207075,
       "word": "华为三折叠开启新品预定",
@@ -1139,14 +1179,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 201173,
-      "num": 201173,
-      "word": "蛋黄呢",
-      "onboard_time": 1725712939,
-      "rank": 23,
-      "category": "网红"
-    },
-    {
       "raw_hot": 200060,
       "num": 200060,
       "word": "HLE战胜T1",
@@ -1169,6 +1201,14 @@
       "onboard_time": 1725690859,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 199339,
+      "num": 199339,
+      "word": "华晨宇鸟巢大屏全是祝福语",
+      "onboard_time": 1725714320,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 198655,
@@ -1344,6 +1384,14 @@
       "word": "紧急下达2亿元支持台风灾后应急",
       "onboard_time": 1725682280,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186065,
+      "num": 186065,
+      "word": "女子称男婴被丈夫单独照顾后死亡",
+      "onboard_time": 1725714922,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1569,6 +1617,14 @@
       "onboard_time": 1725706939,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171231,
+      "num": 171231,
+      "word": "陈腾跃为赵露思整容发声",
+      "onboard_time": 1725709520,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 169850,
@@ -1859,20 +1915,20 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 145758,
-      "num": 145758,
-      "word": "陈腾跃为赵露思整容发声",
-      "onboard_time": 1725709520,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 145643,
       "num": 200288,
       "word": "喜剧之王单口季",
       "onboard_time": 1725689059,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145268,
+      "num": 145268,
+      "word": "你有没有被自动续费背刺过",
+      "onboard_time": 1725714320,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 145087,
@@ -1897,6 +1953,14 @@
       "onboard_time": 1725662352,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 143720,
+      "num": 143720,
+      "word": "花云状态",
+      "onboard_time": 1725715161,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 143545,
@@ -1929,6 +1993,14 @@
       "onboard_time": 1725695599,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141327,
+      "num": 141327,
+      "word": "被人咬伤比被动物咬伤更严重",
+      "onboard_time": 1725714620,
+      "rank": 42,
+      "category": "科学科普"
     },
     {
       "raw_hot": 140536,
@@ -2075,14 +2147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130672,
-      "num": 130672,
-      "word": "养猪岗月入4万吸引求职者",
-      "onboard_time": 1725713119,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130415,
       "num": 130415,
       "word": "飞天茅台跌破2600元大关",
@@ -2195,12 +2259,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125525,
+      "num": 125525,
+      "word": "周翊然慕清晏雪地路透",
+      "onboard_time": 1725715282,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125227,
       "num": 125227,
       "word": "孙颖莎新周期首战",
       "onboard_time": 1725705439,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124908,
+      "num": 124908,
+      "word": "中级经济法答案",
+      "onboard_time": 1725713479,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 124591,
@@ -2345,14 +2425,6 @@
       "onboard_time": 1725691039,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111231,
-      "num": 111231,
-      "word": "中级经济法答案",
-      "onboard_time": 1725713479,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 110340,
@@ -2505,6 +2577,14 @@
       "onboard_time": 1725663735,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92475,
+      "num": 460797,
+      "word": "孩子被台风吹碎的玻璃割伤脖子",
+      "onboard_time": 1725713720,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92147,
@@ -2707,6 +2787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43191,
+      "num": 420283,
+      "word": "已婚男冒充拆迁户骗女子17万",
+      "onboard_time": 1725713720,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43168,
       "num": 376273,
       "word": "天猫99百亿盛典红包在燃烧",
@@ -2867,6 +2955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 20922,
+      "num": 158001,
+      "word": "有哪些实用的防垮脸心得",
+      "onboard_time": 1725711800,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 20903,
       "num": 498947,
       "word": "人更像人AI才能发展",
@@ -2899,14 +2995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16528,
-      "num": 157036,
-      "word": "有哪些实用的防垮脸心得",
-      "onboard_time": 1725711800,
-      "rank": 37,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 15599,
       "num": 61217,
       "word": "海南点对点通知千名孕妇提前住院",
@@ -2931,6 +3019,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 14716,
+      "num": 162409,
+      "word": "工作十几年后我学会了与时为友",
+      "onboard_time": 1725713002,
+      "rank": 36,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 11758,
       "num": 31253,
       "word": "传音控股财务负责人被留置并立案调查",
@@ -2947,16 +3043,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10722,
-      "num": 147159,
-      "word": "工作十几年后我学会了与时为友",
-      "onboard_time": 1725713002,
-      "rank": 36,
-      "category": "艺人,美妆"
-    },
-    {
       "raw_hot": 10496,
-      "num": 116085,
+      "num": 123770,
       "word": "抗老瓶颈期",
       "onboard_time": 1725712641,
       "rank": 46,
