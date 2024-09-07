@@ -1,6 +1,6 @@
 {
   "startTime": 1725640058523,
-  "endTime": 1725697460957,
+  "endTime": 1725698263310,
   "band_list": [
     {
       "raw_hot": 2354423,
@@ -11,20 +11,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2089722,
+      "num": 2089722,
+      "word": "WTT澳门冠军赛抽签",
+      "onboard_time": 1725696201,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1962202,
       "num": 1962202,
       "word": "网传东北雨姐视频造假塌房",
       "onboard_time": 1725675079,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1566214,
-      "num": 1566214,
-      "word": "WTT澳门冠军赛抽签",
-      "onboard_time": 1725696201,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 1544732,
@@ -75,8 +75,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1240817,
-      "num": 1240817,
+      "raw_hot": 1318234,
+      "num": 1318234,
       "word": "越南 台风摩羯",
       "onboard_time": 1725694339,
       "rank": 33,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1051852,
-      "num": 314674,
+      "num": 328774,
       "word": "小杨哥徒弟曾说买假货就把师傅告破产",
       "onboard_time": 1725684679,
       "rank": 20,
@@ -169,6 +169,14 @@
       "onboard_time": 1725689358,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 799091,
+      "num": 799091,
+      "word": "邓莎给儿子饭里加增高药",
+      "onboard_time": 1725696260,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 759112,
@@ -339,14 +347,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 500863,
-      "num": 500863,
-      "word": "邓莎给儿子饭里加增高药",
-      "onboard_time": 1725696260,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 490991,
       "num": 490991,
       "word": "海南动员38周以上孕妇住院待产",
@@ -411,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 437582,
+      "num": 315608,
+      "word": "知否大娘子新剧嫁了王启年",
+      "onboard_time": 1725696860,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 420680,
       "num": 420680,
       "word": "刘琳 姐一直都很辣",
@@ -433,6 +441,22 @@
       "onboard_time": 1725679640,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 408997,
+      "num": 408997,
+      "word": "赵丽颖北京活动",
+      "onboard_time": 1725695839,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 406220,
+      "num": 351973,
+      "word": "赵丽颖月白流光",
+      "onboard_time": 1725697340,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 400029,
@@ -491,14 +515,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 351523,
-      "num": 351523,
-      "word": "赵丽颖北京活动",
-      "onboard_time": 1725695839,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 349792,
       "num": 349792,
       "word": "刘亦菲回应粉丝喊话进组",
@@ -513,14 +529,6 @@
       "onboard_time": 1725665537,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 347668,
-      "num": 304694,
-      "word": "知否大娘子新剧嫁了王启年",
-      "onboard_time": 1725696860,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 347521,
@@ -563,6 +571,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 316464,
+      "num": 286284,
+      "word": "郑业成回复赵露思",
+      "onboard_time": 1725698241,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 312047,
       "num": 312047,
       "word": "马斯克发布悟空版AI照片",
@@ -587,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 304940,
+      "num": 304940,
+      "word": "台风还没停保险赔款就到账了",
+      "onboard_time": 1725697159,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301995,
       "num": 301995,
       "word": "侃爷海口演唱会场地顶棚被台风撕碎",
@@ -601,14 +625,6 @@
       "onboard_time": 1725692959,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 298411,
-      "num": 298411,
-      "word": "台风还没停保险赔款就到账了",
-      "onboard_time": 1725697159,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297449,
@@ -667,12 +683,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264905,
+      "num": 264905,
+      "word": "十个勤天礼盒",
+      "onboard_time": 1725696201,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261581,
       "num": 261581,
       "word": "印度被奸杀女医生父母控诉",
       "onboard_time": 1725677240,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260628,
+      "num": 260628,
+      "word": "孙颖莎首轮对阵田志希",
+      "onboard_time": 1725697940,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 252634,
@@ -704,6 +736,14 @@
       "word": "台风天鸭群稳稳站立纹丝不动",
       "onboard_time": 1725688819,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239820,
+      "num": 686838,
+      "word": "台风摩羯已致3人死亡95人受伤",
+      "onboard_time": 1725696680,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -747,20 +787,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224146,
+      "num": 224146,
+      "word": "黑神话悟空或将影视化",
+      "onboard_time": 1725697642,
+      "rank": 36,
+      "category": "游戏,电影"
+    },
+    {
       "raw_hot": 221918,
       "num": 221918,
       "word": "周雨彤粉丝澄清",
       "onboard_time": 1725683479,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 221631,
-      "num": 221631,
-      "word": "十个勤天礼盒",
-      "onboard_time": 1725696201,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 216708,
@@ -827,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204685,
+      "num": 204685,
+      "word": "女子银行捡3条金链1个金镯死不认账",
+      "onboard_time": 1725697642,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203873,
       "num": 203873,
       "word": "张雪峰公司反向调休",
@@ -841,6 +889,14 @@
       "onboard_time": 1725617719,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201353,
+      "num": 201353,
+      "word": "华晨宇直播",
+      "onboard_time": 1725697221,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 199972,
@@ -923,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194039,
+      "num": 194039,
+      "word": "纪凌尘 没作品怎么敢说是演员",
+      "onboard_time": 1725697519,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193291,
       "num": 193291,
       "word": "中级财管计算量",
@@ -985,14 +1049,6 @@
       "onboard_time": 1725682280,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186407,
-      "num": 186407,
-      "word": "华晨宇直播",
-      "onboard_time": 1725697221,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 185420,
@@ -1083,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176495,
+      "num": 176495,
+      "word": "单休一个月的高中生迎来第一个双休",
+      "onboard_time": 1725696980,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 176156,
       "num": 271785,
       "word": "一支穿云箭千军万马来相见",
@@ -1147,14 +1211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170184,
-      "num": 170184,
-      "word": "赵丽颖月白流光",
-      "onboard_time": 1725697340,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 169850,
       "num": 169850,
       "word": "血常规报告单可分3部分看",
@@ -1212,7 +1268,7 @@
     },
     {
       "raw_hot": 161615,
-      "num": 303979,
+      "num": 323569,
       "word": "赵露思日常生活plog",
       "onboard_time": 1725696080,
       "rank": 24,
@@ -1260,7 +1316,7 @@
     },
     {
       "raw_hot": 154692,
-      "num": 274516,
+      "num": 396766,
       "word": "摩羯7日将再次登陆",
       "onboard_time": 1725690859,
       "rank": 49,
@@ -1281,6 +1337,14 @@
       "onboard_time": 1725692659,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153284,
+      "num": 153284,
+      "word": "华晨宇演唱会票价还和11年前一样",
+      "onboard_time": 1725698180,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 151295,
@@ -1393,14 +1457,6 @@
       "onboard_time": 1725675500,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137750,
-      "num": 137750,
-      "word": "单休一个月的高中生迎来第一个双休",
-      "onboard_time": 1725696980,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 137525,
@@ -1587,6 +1643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122505,
+      "num": 476092,
+      "word": "平时睡不够周末补觉有用吗",
+      "onboard_time": 1725696500,
+      "rank": 14,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 122452,
       "num": 122452,
       "word": "逐玉",
@@ -1673,14 +1737,6 @@
       "onboard_time": 1725607579,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 109287,
-      "num": 645965,
-      "word": "台风摩羯已致3人死亡95人受伤",
-      "onboard_time": 1725696680,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108508,
@@ -1811,6 +1867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93355,
+      "num": 584221,
+      "word": "台风摩羯离开海南",
+      "onboard_time": 1725696380,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92147,
       "num": 92147,
       "word": "广西广东海南将迎狂风暴雨",
@@ -1867,14 +1931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76691,
-      "num": 476092,
-      "word": "平时睡不够周末补觉有用吗",
-      "onboard_time": 1725696500,
-      "rank": 14,
-      "category": "社会新闻,健康医疗"
-    },
-    {
       "raw_hot": 71510,
       "num": 71510,
       "word": "张帅组合美网亚军",
@@ -1891,12 +1947,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 67126,
-      "num": 584221,
-      "word": "台风摩羯离开海南",
-      "onboard_time": 1725696380,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 67872,
+      "num": 267016,
+      "word": "于正在纠结王星越要不要进电影圈",
+      "onboard_time": 1725695359,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 65735,
@@ -1947,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57646,
+      "num": 334065,
+      "word": "女子抽脂后肠子4处穿孔",
+      "onboard_time": 1725696619,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53604,
       "num": 55835,
       "word": "孙千这段不像演的",
@@ -1993,14 +2057,6 @@
       "onboard_time": 1725692838,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 48528,
-      "num": 198015,
-      "word": "于正在纠结王星越要不要进电影圈",
-      "onboard_time": 1725695359,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 46135,
@@ -2057,14 +2113,6 @@
       "onboard_time": 1725660071,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 32134,
-      "num": 316649,
-      "word": "女子抽脂后肠子4处穿孔",
-      "onboard_time": 1725696619,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30664,
