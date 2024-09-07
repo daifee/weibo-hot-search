@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725734390444,
+  "endTime": 1725736675515,
   "band_list": [
     {
       "raw_hot": 827847,
@@ -451,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49440,
+      "num": 49440,
+      "word": "邓超红发",
+      "onboard_time": 1725735432,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 34886,
       "num": 38425,
       "word": "华晨宇演唱会新歌彩排",
@@ -467,6 +475,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26023,
+      "num": 94646,
+      "word": "中国消防员13秒攀登挂钩梯上四楼",
+      "onboard_time": 1725733392,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25663,
+      "num": 25663,
+      "word": "王一博在雪山也四点起床",
+      "onboard_time": 1725736511,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 24700,
       "num": 400808,
       "word": "致敬风雨中的守护力量",
@@ -475,11 +499,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17938,
-      "num": 94646,
-      "word": "中国消防员13秒攀登挂钩梯上四楼",
-      "onboard_time": 1725733392,
-      "rank": 22,
+      "raw_hot": 23998,
+      "num": 25357,
+      "word": "雪迷宫",
+      "onboard_time": 1725735731,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 10124,
+      "num": 64259,
+      "word": "63岁箱包女王破产后卖包子还债",
+      "onboard_time": 1725735253,
+      "rank": 9,
       "category": "社会新闻"
     }
   ],
