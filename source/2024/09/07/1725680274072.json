@@ -1,0 +1,410 @@
+{
+  "runTime": 1725680274072,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1962202,
+        "num": 1962202,
+        "word": "网传东北雨姐视频造假塌房",
+        "onboard_time": 1725675079,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1019919,
+        "num": 1019919,
+        "word": "WTT 卖不出票",
+        "onboard_time": 1725679218,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3968,
+        "num": 925280,
+        "word": "跨越千年时空相遇金字塔之巅",
+        "onboard_time": 1725629240,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 870792,
+        "num": 870792,
+        "word": "翟潇闻道歉",
+        "onboard_time": 1725665838,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 862967,
+        "num": 862967,
+        "word": "马锐为赵露思发声",
+        "onboard_time": 1725675259,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 742758,
+        "num": 742758,
+        "word": "印女医生父母遭警察包围被迫火化尸体",
+        "onboard_time": 1725677420,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694509,
+        "num": 694509,
+        "word": "耳朵越掏会变得越油",
+        "onboard_time": 1725676038,
+        "rank": 6,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 623445,
+        "num": 623445,
+        "word": "摩羯将第三次登陆",
+        "onboard_time": 1725667759,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616211,
+        "num": 616211,
+        "word": "偶遇徐正溪在养老院照顾父亲",
+        "onboard_time": 1725676460,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50023,
+        "num": 600026,
+        "word": "女子带娃被困大风中2男子接力解救",
+        "onboard_time": 1725679041,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1255192,
+        "num": 594817,
+        "word": "娃哈哈遭多名前员工起诉",
+        "onboard_time": 1725674118,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589538,
+        "num": 589538,
+        "word": "教育局回应一家长在微信群见谁怼谁",
+        "onboard_time": 1725665537,
+        "rank": 11,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 518407,
+        "num": 518407,
+        "word": "恋与深空 单人池",
+        "onboard_time": 1725678499,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 410594,
+        "num": 410594,
+        "word": "孙卓到南京工业大学报到了",
+        "onboard_time": 1725675440,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379987,
+        "num": 379987,
+        "word": "中级会计",
+        "onboard_time": 1725674118,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 369334,
+        "num": 369334,
+        "word": "服部平次告白成功",
+        "onboard_time": 1725670878,
+        "rank": 15,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 300157,
+        "num": 300157,
+        "word": "中级会计实务",
+        "onboard_time": 1725678859,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 288169,
+        "num": 288169,
+        "word": "摩羯登陆海南文昌",
+        "onboard_time": 1725611540,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278407,
+        "num": 278407,
+        "word": "刘琳 姐一直都很辣",
+        "onboard_time": 1725669739,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221603,
+        "num": 274036,
+        "word": "刘亦菲回应粉丝喊话进组",
+        "onboard_time": 1725679999,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69597,
+        "num": 271265,
+        "word": "山东一动物乐园熊瘦成狗奶牛皮包骨",
+        "onboard_time": 1725678439,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501762,
+        "num": 267932,
+        "word": "辛巴称三只羊还有四天时间",
+        "onboard_time": 1725672799,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 430211,
+        "num": 264587,
+        "word": "AI换脸三小时骗走我妈一年工资",
+        "onboard_time": 1725672499,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288620,
+        "num": 260749,
+        "word": "三只羊",
+        "onboard_time": 1725679041,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 256347,
+        "num": 256347,
+        "word": "素素死在了最漂亮的那天",
+        "onboard_time": 1725631042,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251233,
+        "num": 251233,
+        "word": "真的有人在结婚时候喊反对",
+        "onboard_time": 1725679640,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248281,
+        "num": 248281,
+        "word": "马斯克发布悟空版AI照片",
+        "onboard_time": 1725678558,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 237463,
+        "num": 237463,
+        "word": "医生为手术效果不穿防辐射铅衣",
+        "onboard_time": 1725665718,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197506,
+        "num": 197506,
+        "word": "肖战牛仔外套搭白T",
+        "onboard_time": 1725679100,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171716,
+        "num": 194757,
+        "word": "赵露思高清怼脸",
+        "onboard_time": 1725670700,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193734,
+        "num": 193734,
+        "word": "印度被奸杀女医生父母控诉",
+        "onboard_time": 1725677240,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184391,
+        "num": 184391,
+        "word": "女子在饭店被小叔子抽响亮耳光",
+        "onboard_time": 1725667517,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183457,
+        "num": 183457,
+        "word": "袁爷爷诞辰94周年",
+        "onboard_time": 1725666137,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182301,
+        "num": 182301,
+        "word": "中国队83金64银41铜领跑奖牌榜",
+        "onboard_time": 1725670338,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172249,
+        "num": 172249,
+        "word": "浙江前首富价值百亿煤矿被划走",
+        "onboard_time": 1725676460,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171543,
+        "num": 171543,
+        "word": "樊振东曾说巴黎奥运是他最后的机会",
+        "onboard_time": 1725668539,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165843,
+        "num": 165843,
+        "word": "秘鲁伐木工侵犯原始部落领地遭射杀",
+        "onboard_time": 1725675799,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165780,
+        "num": 165780,
+        "word": "新人用200斤蔬菜办了一场婚礼",
+        "onboard_time": 1725670578,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163802,
+        "num": 163802,
+        "word": "刘亦菲赵露思给对方鼓掌",
+        "onboard_time": 1725665957,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162423,
+        "num": 162423,
+        "word": "张博恒赢得多却被泼得惨",
+        "onboard_time": 1725678920,
+        "rank": 39,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 159921,
+        "num": 159921,
+        "word": "我的母亲一生都在被家暴",
+        "onboard_time": 1725637941,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156871,
+        "num": 156871,
+        "word": "台风登陆现场画面",
+        "onboard_time": 1725667759,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143398,
+        "num": 143398,
+        "word": "店长不让开空调店员自带遥控器",
+        "onboard_time": 1725673699,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138399,
+        "num": 138399,
+        "word": "台风摩羯路径",
+        "onboard_time": 1725677119,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137127,
+        "num": 137127,
+        "word": "魏哲鸣 我们对齐一下颗粒度",
+        "onboard_time": 1725676579,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134952,
+        "num": 134952,
+        "word": "WTT",
+        "onboard_time": 1725676158,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133931,
+        "num": 133931,
+        "word": "家政阿姨不愿洗衣服",
+        "onboard_time": 1725664635,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130784,
+        "num": 130784,
+        "word": "汪峰是姚晓棠的老师",
+        "onboard_time": 1725679759,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127785,
+        "num": 127785,
+        "word": "杜海涛窗户能看到披荆斩棘",
+        "onboard_time": 1725677001,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125804,
+        "num": 125804,
+        "word": "何广智 长了一张广播体操脸",
+        "onboard_time": 1725680240,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见马达加斯加总统拉乔利纳#"
+    }
+  }
+}
