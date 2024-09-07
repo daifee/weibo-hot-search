@@ -1,6 +1,6 @@
 {
   "startTime": 1725640058523,
-  "endTime": 1725686387691,
+  "endTime": 1725687411908,
   "band_list": [
     {
       "raw_hot": 2354423,
@@ -51,12 +51,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1135094,
+      "num": 600235,
+      "word": "有没有二本恋综",
+      "onboard_time": 1725685460,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1128011,
       "num": 1128011,
       "word": "赵露思工作室出图",
       "onboard_time": 1725625159,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1051852,
+      "num": 238353,
+      "word": "小杨哥徒弟曾说买假货就把师傅告破产",
+      "onboard_time": 1725684679,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 1035156,
@@ -81,14 +97,6 @@
       "onboard_time": 1725667759,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 887247,
-      "num": 238353,
-      "word": "小杨哥徒弟曾说买假货就把师傅告破产",
-      "onboard_time": 1725684679,
-      "rank": 20,
-      "category": "网红"
     },
     {
       "raw_hot": 882875,
@@ -209,14 +217,6 @@
       "onboard_time": 1725670878,
       "rank": 7,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 589727,
-      "num": 444250,
-      "word": "有没有二本恋综",
-      "onboard_time": 1725685460,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 565768,
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 340432,
+      "num": 408095,
+      "word": "台风过境后广东周末仍有大暴雨",
+      "onboard_time": 1725682999,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323182,
       "num": 323182,
       "word": "女子替朋友熬药中毒身亡判赔23万",
@@ -401,14 +409,6 @@
       "onboard_time": 1725678859,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 322822,
-      "num": 408095,
-      "word": "台风过境后广东周末仍有大暴雨",
-      "onboard_time": 1725682999,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 312047,
@@ -651,12 +651,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 197177,
+      "num": 197177,
+      "word": "马嘉祺胡辣汤配水煎包",
+      "onboard_time": 1725686900,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196789,
       "num": 216689,
       "word": "汪涵怎么突然老了这么多",
       "onboard_time": 1725617240,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195443,
+      "num": 195443,
+      "word": "赵露思方告黑维权",
+      "onboard_time": 1725686180,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 192361,
@@ -731,6 +747,14 @@
       "category": "体育,综艺"
     },
     {
+      "raw_hot": 184983,
+      "num": 184983,
+      "word": "王源给每个人都送了种子",
+      "onboard_time": 1725686958,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184369,
       "num": 330321,
       "word": "山东一动物乐园熊瘦成狗奶牛皮包骨",
@@ -764,7 +788,7 @@
     },
     {
       "raw_hot": 180746,
-      "num": 187223,
+      "num": 209969,
       "word": "田曦薇 主动破冰的小蝴蝶",
       "onboard_time": 1725648614,
       "rank": 44,
@@ -851,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166857,
+      "num": 166857,
+      "word": "华为三折叠预订秒破万",
+      "onboard_time": 1725686840,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 166335,
       "num": 166335,
       "word": "完美世界定档",
@@ -931,20 +963,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 147810,
+      "num": 147810,
+      "word": "爱情进入平淡期要分手吗",
+      "onboard_time": 1725684440,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145087,
       "num": 145087,
       "word": "国足主帅伊万科维奇致歉",
       "onboard_time": 1725670460,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144450,
-      "num": 144450,
-      "word": "赵露思方告黑维权",
-      "onboard_time": 1725686180,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 143775,
@@ -1001,6 +1033,14 @@
       "onboard_time": 1725664936,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 134018,
+      "num": 134018,
+      "word": "海口美兰国际机场暂时关闭",
+      "onboard_time": 1725687199,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133617,
@@ -1089,6 +1129,14 @@
       "onboard_time": 1725682339,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125822,
+      "num": 125822,
+      "word": "战至巅峰",
+      "onboard_time": 1725687379,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 125804,
@@ -1379,6 +1427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71233,
+      "num": 397666,
+      "word": "实拍摩羯过境后的海口",
+      "onboard_time": 1725685640,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69809,
       "num": 55767,
       "word": "连皇上皇后来了都得过安检",
@@ -1419,19 +1475,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 51428,
+      "num": 246066,
+      "word": "玛莎发博",
+      "onboard_time": 1725686000,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 50877,
       "num": 825778,
       "word": "台风里生活慢下来防灾要快起来",
       "onboard_time": 1725681678,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50518,
-      "num": 397666,
-      "word": "实拍摩羯过境后的海口",
-      "onboard_time": 1725685640,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1465,14 +1521,6 @@
       "onboard_time": 1725645255,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 39095,
-      "num": 246066,
-      "word": "玛莎发博",
-      "onboard_time": 1725686000,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 37351,
