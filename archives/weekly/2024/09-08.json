@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725741287896,
+  "endTime": 1725744076461,
   "band_list": [
     {
       "raw_hot": 827847,
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25715,
+      "num": 25715,
+      "word": "气象台回应摩羯风眼过境致多人不适",
+      "onboard_time": 1725738612,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25663,
       "num": 25663,
       "word": "王一博在雪山也四点起床",
@@ -499,20 +507,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24095,
-      "num": 24095,
-      "word": "气象台回应摩羯风眼过境致多人不适",
-      "onboard_time": 1725738612,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 23998,
       "num": 25357,
       "word": "雪迷宫",
       "onboard_time": 1725735731,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21955,
+      "num": 21955,
+      "word": "物业回应近百户玻璃窗被台风掀飞",
+      "onboard_time": 1725741551,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18615,
@@ -523,6 +531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 18592,
+      "num": 22426,
+      "word": "邓典问金莎男友到底好在哪",
+      "onboard_time": 1725737413,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 18480,
       "num": 54636,
       "word": "私家车在17级台风下独行接人",
@@ -531,15 +547,15 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 17418,
-      "num": 22426,
-      "word": "邓典问金莎男友到底好在哪",
-      "onboard_time": 1725737413,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 17890,
+      "num": 38952,
+      "word": "55岁的北京地铁也有隐藏款",
+      "onboard_time": 1725738970,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 15192,
+      "raw_hot": 17718,
       "num": 31796,
       "word": "白露让秋天有了诗的味道",
       "onboard_time": 1725739631,
@@ -547,12 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14167,
-      "num": 38952,
-      "word": "55岁的北京地铁也有隐藏款",
-      "onboard_time": 1725738970,
+      "raw_hot": 12608,
+      "num": 32568,
+      "word": "泽连斯基称必须在今秋末结束冲突",
+      "onboard_time": 1725742271,
       "rank": 9,
-      "category": "社会新闻"
+      "category": "国外时政"
     },
     {
       "raw_hot": 10124,
