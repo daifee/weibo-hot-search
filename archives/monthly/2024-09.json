@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725705531640,
+  "endTime": 1725707821258,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -329,6 +329,14 @@
       "onboard_time": 1725409941,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2033385,
+      "num": 2033385,
+      "word": "张杰 素人电话号",
+      "onboard_time": 1725705080,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 2025901,
@@ -843,6 +851,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 1404821,
+      "num": 411445,
+      "word": "韩安冉二胎是女儿",
+      "onboard_time": 1725706159,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1400935,
       "num": 1400935,
       "word": "搭讪姜珮瑶",
@@ -913,6 +929,14 @@
       "onboard_time": 1725665838,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1347341,
+      "num": 408919,
+      "word": "多人发现遗体帐篷却未报警的背后",
+      "onboard_time": 1725704599,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1346914,
@@ -4307,14 +4331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 496589,
-      "num": 496589,
-      "word": "张杰 素人电话号",
-      "onboard_time": 1725705080,
-      "rank": 6,
-      "category": "演出"
-    },
-    {
       "raw_hot": 496269,
       "num": 496269,
       "word": "王楚钦WTT澳门冠军赛赛前采访",
@@ -4345,6 +4361,14 @@
       "onboard_time": 1725342380,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 494575,
+      "num": 408071,
+      "word": "苹果和微信到底谁离不开谁",
+      "onboard_time": 1725704780,
+      "rank": 35,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 493602,
@@ -5259,6 +5283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 389520,
+      "num": 389520,
+      "word": "孙颖莎王艺迪适应性训练",
+      "onboard_time": 1725706159,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 389416,
       "num": 389416,
       "word": "中级会计",
@@ -5273,14 +5305,6 @@
       "onboard_time": 1725665957,
       "rank": 9,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 388442,
-      "num": 388442,
-      "word": "多人发现遗体帐篷却未报警的背后",
-      "onboard_time": 1725704599,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 386747,
@@ -10171,6 +10195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194670,
+      "num": 194670,
+      "word": "马嘉祺楼间楼开箱",
+      "onboard_time": 1725706999,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194454,
       "num": 194454,
       "word": "鹭卓玫瑰酪",
@@ -11315,6 +11347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182013,
+      "num": 182013,
+      "word": "赵丽颖眼睛水汪汪",
+      "onboard_time": 1725707479,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 182009,
       "num": 182009,
       "word": "网友奔现第1天女子要2万金手镯",
@@ -12184,6 +12224,14 @@
       "word": "投诉刀削面阴阳价格博主再发声",
       "onboard_time": 1725101059,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173755,
+      "num": 422921,
+      "word": "亲历者称玻璃爆掉后蜷缩在角落",
+      "onboard_time": 1725704960,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -13475,6 +13523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159141,
+      "num": 173648,
+      "word": "章若楠张哲华直播不说话",
+      "onboard_time": 1725701901,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159134,
       "num": 157521,
       "word": "范志毅说看得想跳黄浦江",
@@ -13777,14 +13833,6 @@
       "onboard_time": 1725543144,
       "rank": 42,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 156117,
-      "num": 156117,
-      "word": "章若楠张哲华直播不说话",
-      "onboard_time": 1725701901,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 156036,
@@ -14763,14 +14811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 145609,
-      "num": 145609,
-      "word": "苹果和微信到底谁离不开谁",
-      "onboard_time": 1725704780,
-      "rank": 35,
-      "category": "数码,互联网"
-    },
-    {
       "raw_hot": 145581,
       "num": 145581,
       "word": "口吃亲历者评价王俊凯演的周正",
@@ -15097,6 +15137,14 @@
       "onboard_time": 1725291442,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 140536,
+      "num": 140536,
+      "word": "赵丽颖角色都有工作室了",
+      "onboard_time": 1725706101,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 140522,
@@ -15433,6 +15481,14 @@
       "onboard_time": 1725537679,
       "rank": 47,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 134490,
+      "num": 134490,
+      "word": "王一博高原骑马",
+      "onboard_time": 1725706280,
+      "rank": 39,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 134379,
@@ -16155,6 +16211,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 120687,
+      "num": 120687,
+      "word": "赵露思ins更新怼脸照",
+      "onboard_time": 1725707720,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120384,
       "num": 120384,
       "word": "檀健次翻唱陶喆蝴蝶",
@@ -16273,6 +16337,14 @@
       "onboard_time": 1725168858,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116955,
+      "num": 116955,
+      "word": "对不起 我实在太爱吃饭了",
+      "onboard_time": 1725707600,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 116953,
@@ -16483,6 +16555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112868,
+      "num": 112868,
+      "word": "T1进入冒泡赛",
+      "onboard_time": 1725704901,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112207,
       "num": 112207,
       "word": "郑钦文今年大满贯成绩",
@@ -16537,6 +16617,14 @@
       "onboard_time": 1725372020,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110014,
+      "num": 110014,
+      "word": "谁说外国辣妹不适合古装",
+      "onboard_time": 1725705562,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 109859,
@@ -18163,14 +18251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51993,
-      "num": 422921,
-      "word": "亲历者称玻璃爆掉后蜷缩在角落",
-      "onboard_time": 1725704960,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51958,
       "num": 467832,
       "word": "深圳强风冰柜被刮跑",
@@ -18881,6 +18961,14 @@
       "onboard_time": 1725253942,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 39130,
+      "num": 412964,
+      "word": "6岁男孩1个月充值某游戏3万多",
+      "onboard_time": 1725707181,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39117,
@@ -19971,6 +20059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24509,
+      "num": 358248,
+      "word": "阿玛尼让威尼斯翻红",
+      "onboard_time": 1725705562,
+      "rank": 18,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 24448,
       "num": 233890,
       "word": "职业羊毛党雇眼线精准狙击商家",
@@ -20041,6 +20137,14 @@
       "onboard_time": 1725264680,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23904,
+      "num": 403538,
+      "word": "台风摩羯过境树木被连根拔起",
+      "onboard_time": 1725706399,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23880,
@@ -20331,6 +20435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19343,
+      "num": 405583,
+      "word": "老头乐被认定为机动车遭保险拒赔",
+      "onboard_time": 1725706939,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19060,
       "num": 173766,
       "word": "谢霆锋玩三国志战略版",
@@ -20361,6 +20473,14 @@
       "onboard_time": 1725444199,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18467,
+      "num": 182893,
+      "word": "汤唯SKII线下活动生图美到我了",
+      "onboard_time": 1725705139,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 18297,
@@ -20409,6 +20529,14 @@
       "onboard_time": 1725440600,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17273,
+      "num": 417409,
+      "word": "三亚防汛防风应急响应级别降低",
+      "onboard_time": 1725706759,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17227,
@@ -20571,6 +20699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 11980,
+      "num": 135066,
+      "word": "SKII有自己的前任系列",
+      "onboard_time": 1725707238,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 11833,
       "num": 201231,
       "word": "鹭卓俩胳膊给蚊子整了满满的包",
@@ -20643,6 +20779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 9239,
+      "num": 134737,
+      "word": "汤唯用了十几年的SKII",
+      "onboard_time": 1725707238,
+      "rank": 38,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 8309,
       "num": 49671,
       "word": "中医用筷子为肾绞痛乘客按穴位治疗",
@@ -20673,14 +20817,6 @@
       "onboard_time": 1725566710,
       "rank": 9,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 6910,
-      "num": 133601,
-      "word": "汤唯SKII线下活动生图美到我了",
-      "onboard_time": 1725705139,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 6676,
