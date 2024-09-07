@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725736675515,
+  "endTime": 1725737750939,
   "band_list": [
     {
       "raw_hot": 827847,
@@ -427,6 +427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 75387,
+      "num": 54601,
+      "word": "邓超红发",
+      "onboard_time": 1725735432,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 65350,
       "num": 65350,
       "word": "摩羯过境后现场实拍",
@@ -449,14 +457,6 @@
       "onboard_time": 1725729196,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 49440,
-      "num": 49440,
-      "word": "邓超红发",
-      "onboard_time": 1725735432,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 34886,
@@ -505,6 +505,14 @@
       "onboard_time": 1725735731,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 12035,
+      "num": 54636,
+      "word": "私家车在17级台风下独行接人",
+      "onboard_time": 1725737113,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 10124,

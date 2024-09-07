@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725736675515,
+  "endTime": 1725737750939,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -18307,6 +18307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75387,
+      "num": 54601,
+      "word": "邓超红发",
+      "onboard_time": 1725735432,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 75151,
       "num": 249290,
       "word": "谢可寅雪迷宫打戏vlog",
@@ -19241,14 +19249,6 @@
       "onboard_time": 1725614540,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 49440,
-      "num": 49440,
-      "word": "邓超红发",
-      "onboard_time": 1725735432,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 49358,
@@ -21601,6 +21601,14 @@
       "onboard_time": 1725345560,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12035,
+      "num": 54636,
+      "word": "私家车在17级台风下独行接人",
+      "onboard_time": 1725737113,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 11833,
