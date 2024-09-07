@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725748711554,
+  "endTime": 1725751195374,
   "band_list": [
     {
       "raw_hot": 827847,
@@ -40,6 +40,14 @@
       "word": "多人发现遗体帐篷却未报警的背后",
       "onboard_time": 1725704599,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 578189,
+      "num": 780027,
+      "word": "海口网红餐厅被摩羯撕碎了",
+      "onboard_time": 1725729316,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -99,12 +107,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 340676,
-      "num": 487911,
-      "word": "海口网红餐厅被摩羯撕碎了",
-      "onboard_time": 1725729316,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 312916,
+      "num": 93175,
+      "word": "生理期不痛的是易孕体质吗",
+      "onboard_time": 1725750974,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 312483,
@@ -139,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251251,
+      "num": 251251,
+      "word": "邓超红发",
+      "onboard_time": 1725735432,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 243335,
       "num": 243335,
       "word": "韩安冉二胎是女儿",
@@ -163,20 +179,20 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 228638,
+      "num": 208310,
+      "word": "蟹太太回应辛巴三只羊纠纷",
+      "onboard_time": 1725723139,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 227046,
       "num": 227046,
       "word": "你好星期六下期预告",
       "onboard_time": 1725714679,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208310,
-      "num": 208310,
-      "word": "蟹太太回应辛巴三只羊纠纷",
-      "onboard_time": 1725723139,
-      "rank": 24,
-      "category": "互联网"
     },
     {
       "raw_hot": 198089,
@@ -211,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171616,
+      "num": 106468,
+      "word": "萨巴伦卡美网夺冠",
+      "onboard_time": 1725750674,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 162147,
       "num": 162147,
       "word": "与台风摩羯的硬仗仍在吃劲阶段",
@@ -224,6 +248,14 @@
       "word": "月薪3万的陆家嘴打工人开始抠抠搜搜",
       "onboard_time": 1725720142,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156701,
+      "num": 104651,
+      "word": "男子拉50箱五粮液不绑绳倒一地",
+      "onboard_time": 1725729376,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -251,14 +283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144691,
-      "num": 90670,
-      "word": "男子拉50箱五粮液不绑绳倒一地",
-      "onboard_time": 1725729376,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141016,
       "num": 141016,
       "word": "赵丽颖白婚纱",
@@ -275,12 +299,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 127012,
-      "num": 127012,
-      "word": "邓超红发",
-      "onboard_time": 1725735432,
-      "rank": 17,
-      "category": "作品衍生"
+      "raw_hot": 131587,
+      "num": 131587,
+      "word": "物业回应近百户玻璃窗被台风掀飞",
+      "onboard_time": 1725741551,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125087,
@@ -363,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104511,
+      "num": 104511,
+      "word": "秦岚被挤得瑟瑟发抖",
+      "onboard_time": 1725749174,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 103705,
       "num": 128510,
       "word": "张极 记录可爱啵啵的日常",
@@ -435,6 +467,38 @@
       "category": "演出"
     },
     {
+      "raw_hot": 72275,
+      "num": 72275,
+      "word": "美网",
+      "onboard_time": 1725750733,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 69995,
+      "num": 72448,
+      "word": "高反的王一博",
+      "onboard_time": 1725751095,
+      "rank": 29,
+      "category": "作品衍生,作品衍生"
+    },
+    {
+      "raw_hot": 67435,
+      "num": 67435,
+      "word": "谁不想有一个大明星妹妹",
+      "onboard_time": 1725748873,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 65485,
+      "num": 65485,
+      "word": "胖东来来重庆了",
+      "onboard_time": 1725750915,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65350,
       "num": 65350,
       "word": "摩羯过境后现场实拍",
@@ -459,12 +523,52 @@
       "category": "体育"
     },
     {
-      "raw_hot": 49357,
-      "num": 49357,
-      "word": "物业回应近百户玻璃窗被台风掀飞",
-      "onboard_time": 1725741551,
-      "rank": 33,
+      "raw_hot": 46429,
+      "num": 46429,
+      "word": "中秋假期十大热门目的地",
+      "onboard_time": 1725748032,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 44071,
+      "num": 108755,
+      "word": "泽连斯基称必须在今秋末结束冲突",
+      "onboard_time": 1725742271,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 43181,
+      "num": 43181,
+      "word": "Yamy喊话吴宣仪为火箭少女101办节目",
+      "onboard_time": 1725751034,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 41436,
+      "num": 43016,
+      "word": "邓典问金莎男友到底好在哪",
+      "onboard_time": 1725737413,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 39413,
+      "num": 39413,
+      "word": "气象台回应摩羯风眼过境致多人不适",
+      "onboard_time": 1725738612,
+      "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37749,
+      "num": 37749,
+      "word": "丁程鑫晒夜宵",
+      "onboard_time": 1725750793,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 34886,
@@ -475,35 +579,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 31741,
-      "num": 43016,
-      "word": "邓典问金莎男友到底好在哪",
-      "onboard_time": 1725737413,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 30409,
-      "num": 76198,
-      "word": "泽连斯基称必须在今秋末结束冲突",
-      "onboard_time": 1725742271,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 29663,
       "num": 38396,
       "word": "台风摩羯",
       "onboard_time": 1725698901,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27594,
-      "num": 30510,
-      "word": "气象台回应摩羯风眼过境致多人不适",
-      "onboard_time": 1725738612,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -545,14 +625,6 @@
       "onboard_time": 1725735731,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 21746,
-      "num": 30452,
-      "word": "中秋假期十大热门目的地",
-      "onboard_time": 1725748032,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 20704,
