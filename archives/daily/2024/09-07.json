@@ -1,6 +1,6 @@
 {
   "startTime": 1725640058523,
-  "endTime": 1725698263310,
+  "endTime": 1725700881911,
   "band_list": [
     {
       "raw_hot": 2354423,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1051852,
-      "num": 328774,
+      "num": 487621,
       "word": "小杨哥徒弟曾说买假货就把师傅告破产",
       "onboard_time": 1725684679,
       "rank": 20,
@@ -105,6 +105,14 @@
       "onboard_time": 1725665537,
       "rank": 37,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1023033,
+      "num": 1163685,
+      "word": "邓莎给儿子饭里加增高药",
+      "onboard_time": 1725696260,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 971085,
@@ -121,6 +129,14 @@
       "onboard_time": 1725631761,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 915505,
+      "num": 915505,
+      "word": "郑业成回复赵露思",
+      "onboard_time": 1725698241,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 908728,
@@ -169,14 +185,6 @@
       "onboard_time": 1725689358,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 799091,
-      "num": 799091,
-      "word": "邓莎给儿子饭里加增高药",
-      "onboard_time": 1725696260,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 759112,
@@ -243,6 +251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 641685,
+      "num": 641685,
+      "word": "平时睡不够周末补觉有用吗",
+      "onboard_time": 1725696500,
+      "rank": 14,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 640831,
       "num": 215594,
       "word": "小杨哥",
@@ -283,6 +299,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 572342,
+      "num": 572342,
+      "word": "王楚钦首轮对阵黄镇廷",
+      "onboard_time": 1725698301,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 568034,
       "num": 568034,
       "word": "三十岁没结婚 回乡吃席被审判",
@@ -315,12 +339,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 534855,
+      "num": 686838,
+      "word": "台风摩羯已致3人死亡95人受伤",
+      "onboard_time": 1725696680,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 533764,
       "num": 310644,
       "word": "羡慕张雪峰女儿",
       "onboard_time": 1725692119,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 523757,
+      "num": 523757,
+      "word": "孙颖莎首轮对阵田志希",
+      "onboard_time": 1725697940,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 521630,
@@ -339,12 +379,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 510551,
+      "num": 510551,
+      "word": "女子退穿过衣服遭拒怒点火烧掉",
+      "onboard_time": 1725698960,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 509003,
       "num": 509003,
       "word": "中级财管",
       "onboard_time": 1725694819,
       "rank": 12,
       "category": "教育"
+    },
+    {
+      "raw_hot": 498961,
+      "num": 498961,
+      "word": "赵丽颖月白流光",
+      "onboard_time": 1725697340,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 490991,
@@ -368,6 +424,14 @@
       "word": "孙卓到南京工业大学报到了",
       "onboard_time": 1725675440,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 478484,
+      "num": 478484,
+      "word": "台风还没停保险赔款就到账了",
+      "onboard_time": 1725697159,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -412,7 +476,7 @@
     },
     {
       "raw_hot": 437582,
-      "num": 315608,
+      "num": 494397,
       "word": "知否大娘子新剧嫁了王启年",
       "onboard_time": 1725696860,
       "rank": 23,
@@ -449,14 +513,6 @@
       "onboard_time": 1725695839,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 406220,
-      "num": 351973,
-      "word": "赵丽颖月白流光",
-      "onboard_time": 1725697340,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 400029,
@@ -505,6 +561,14 @@
       "onboard_time": 1725689959,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 365624,
+      "num": 365624,
+      "word": "女子银行捡3条金链1个金镯死不认账",
+      "onboard_time": 1725697642,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 358419,
@@ -571,14 +635,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 316464,
-      "num": 286284,
-      "word": "郑业成回复赵露思",
-      "onboard_time": 1725698241,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 312047,
       "num": 312047,
       "word": "马斯克发布悟空版AI照片",
@@ -603,12 +659,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 304940,
-      "num": 304940,
-      "word": "台风还没停保险赔款就到账了",
-      "onboard_time": 1725697159,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 303623,
+      "num": 493143,
+      "word": "张峻豪晒爸爸拍的照",
+      "onboard_time": 1725699019,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 301995,
@@ -691,20 +747,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262929,
+      "num": 262929,
+      "word": "赵丽颖给张碧晨送花篮",
+      "onboard_time": 1725698599,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261581,
       "num": 261581,
       "word": "印度被奸杀女医生父母控诉",
       "onboard_time": 1725677240,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260628,
-      "num": 260628,
-      "word": "孙颖莎首轮对阵田志希",
-      "onboard_time": 1725697940,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 252634,
@@ -731,19 +787,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242959,
+      "num": 242959,
+      "word": "黑神话悟空或将影视化",
+      "onboard_time": 1725697642,
+      "rank": 36,
+      "category": "游戏,电影"
+    },
+    {
       "raw_hot": 241563,
       "num": 241563,
       "word": "台风天鸭群稳稳站立纹丝不动",
       "onboard_time": 1725688819,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239820,
-      "num": 686838,
-      "word": "台风摩羯已致3人死亡95人受伤",
-      "onboard_time": 1725696680,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -787,14 +843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 224146,
-      "num": 224146,
-      "word": "黑神话悟空或将影视化",
-      "onboard_time": 1725697642,
-      "rank": 36,
-      "category": "游戏,电影"
-    },
-    {
       "raw_hot": 221918,
       "num": 221918,
       "word": "周雨彤粉丝澄清",
@@ -835,6 +883,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 209960,
+      "num": 209960,
+      "word": "老人继承同学30万存款遭拒起诉银行",
+      "onboard_time": 1725698301,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209542,
       "num": 209542,
       "word": "台风摩羯已致菲律宾16人死亡",
@@ -865,14 +921,6 @@
       "onboard_time": 1725683359,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204685,
-      "num": 204685,
-      "word": "女子银行捡3条金链1个金镯死不认账",
-      "onboard_time": 1725697642,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203873,
@@ -921,6 +969,14 @@
       "onboard_time": 1725642136,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198448,
+      "num": 198448,
+      "word": "TMA红毯",
+      "onboard_time": 1725700520,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 197629,
@@ -1091,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182798,
+      "num": 182798,
+      "word": "王源高情商回答",
+      "onboard_time": 1725700101,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182579,
       "num": 182579,
       "word": "家业",
@@ -1137,6 +1201,14 @@
       "onboard_time": 1725683300,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176578,
+      "num": 176578,
+      "word": "大圣 生日礼物",
+      "onboard_time": 1725698781,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 176495,
@@ -1227,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166365,
+      "num": 166365,
+      "word": "小猫被收养后猫妈前来探望",
+      "onboard_time": 1725698720,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166335,
       "num": 166335,
       "word": "完美世界定档",
@@ -1283,6 +1363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 160883,
+      "num": 160883,
+      "word": "一建法规",
+      "onboard_time": 1725700220,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 160744,
       "num": 160744,
       "word": "广式月饼开始加入全球食材",
@@ -1315,11 +1403,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155043,
+      "num": 155043,
+      "word": "王曼昱首轮对阵斯佐科斯",
+      "onboard_time": 1725700040,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154692,
       "num": 396766,
       "word": "摩羯7日将再次登陆",
       "onboard_time": 1725690859,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153820,
+      "num": 584221,
+      "word": "台风摩羯离开海南",
+      "onboard_time": 1725696380,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1361,6 +1465,14 @@
       "onboard_time": 1725690678,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149892,
+      "num": 149892,
+      "word": "HLE对战T1",
+      "onboard_time": 1725690859,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 148960,
@@ -1451,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138683,
+      "num": 138683,
+      "word": "娃哈哈官网招标10万个冰柜",
+      "onboard_time": 1725700819,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137798,
       "num": 137798,
       "word": "广西北海严阵以待战摩羯",
@@ -1497,14 +1617,6 @@
       "onboard_time": 1725693320,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132696,
-      "num": 132696,
-      "word": "HLE对战T1",
-      "onboard_time": 1725690859,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 132529,
@@ -1643,14 +1755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122505,
-      "num": 476092,
-      "word": "平时睡不够周末补觉有用吗",
-      "onboard_time": 1725696500,
-      "rank": 14,
-      "category": "社会新闻,健康医疗"
-    },
-    {
       "raw_hot": 122452,
       "num": 122452,
       "word": "逐玉",
@@ -1729,6 +1833,14 @@
       "onboard_time": 1725691039,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111341,
+      "num": 204188,
+      "word": "北电新生撞脸王大陆",
+      "onboard_time": 1725698542,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 109870,
@@ -1867,14 +1979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 93355,
-      "num": 584221,
-      "word": "台风摩羯离开海南",
-      "onboard_time": 1725696380,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92147,
       "num": 92147,
       "word": "广西广东海南将迎狂风暴雨",
@@ -2011,6 +2115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55716,
+      "num": 549179,
+      "word": "摩羯风眼过境致多人恶心头晕耳鸣",
+      "onboard_time": 1725699920,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53604,
       "num": 55835,
       "word": "孙千这段不像演的",
@@ -2123,6 +2235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 29515,
+      "num": 488791,
+      "word": "中秋机酒价格回落至淡季水平",
+      "onboard_time": 1725700040,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28194,
       "num": 53525,
       "word": "古人的极繁风大金链子颠覆认知了",
@@ -2161,6 +2281,22 @@
       "onboard_time": 1725629240,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21408,
+      "num": 539638,
+      "word": "浙江自然博物院回应导盲犬入馆被阻",
+      "onboard_time": 1725700400,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20903,
+      "num": 498947,
+      "word": "人更像人AI才能发展",
+      "onboard_time": 1725700579,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19060,
