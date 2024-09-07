@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725727219294,
+  "endTime": 1725729528197,
   "band_list": [
     {
       "raw_hot": 827847,
@@ -152,6 +152,14 @@
       "word": "你好星期六下期预告",
       "onboard_time": 1725714679,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 215830,
+      "num": 132150,
+      "word": "曾舜晞经纪人和吴宣仪是同学",
+      "onboard_time": 1725727518,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -323,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102799,
+      "num": 102799,
+      "word": "海口网红餐厅被摩羯撕碎了",
+      "onboard_time": 1725729316,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101592,
       "num": 101592,
       "word": "平时睡不够周末补觉有用吗",
@@ -371,8 +387,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 87321,
-      "num": 101041,
+      "raw_hot": 88813,
+      "num": 132607,
       "word": "与台风摩羯的硬仗仍在吃劲阶段",
       "onboard_time": 1725726138,
       "rank": 49,
@@ -393,6 +409,22 @@
       "onboard_time": 1725716962,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 57867,
+      "num": 67491,
+      "word": "男子拉50箱五粮液不绑绳倒一地",
+      "onboard_time": 1725729376,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55730,
+      "num": 67486,
+      "word": "台风摩羯造成海南4死95伤",
+      "onboard_time": 1725714020,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24700,

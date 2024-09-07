@@ -1,0 +1,410 @@
+{
+  "runTime": 1725729528197,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 515504,
+        "num": 538105,
+        "word": "赵露思ins更新怼脸照",
+        "onboard_time": 1725707720,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450422,
+        "num": 450422,
+        "word": "阿条姐又有新身份了",
+        "onboard_time": 1725723981,
+        "rank": 1,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 18983,
+        "num": 323509,
+        "word": "致敬风雨中的守护力量",
+        "onboard_time": 1725716361,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249827,
+        "num": 249827,
+        "word": "美国故障飞船回地球宇航员还在太空",
+        "onboard_time": 1725713541,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 194813,
+        "num": 243342,
+        "word": "国足备战受冷遇",
+        "onboard_time": 1725719781,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281105,
+        "num": 242093,
+        "word": "G社拍的赵露思生图",
+        "onboard_time": 1725717561,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238618,
+        "num": 238618,
+        "word": "东北雨姐承认螃蟹是放到稻田里的",
+        "onboard_time": 1725701661,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 209714,
+        "num": 209714,
+        "word": "虞书欣终于想起来她是个歌手了",
+        "onboard_time": 1725724220,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132803,
+        "num": 132803,
+        "word": "华为三折叠硬刚苹果",
+        "onboard_time": 1725709701,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 88813,
+        "num": 132607,
+        "word": "与台风摩羯的硬仗仍在吃劲阶段",
+        "onboard_time": 1725726138,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428714,
+        "num": 132550,
+        "word": "广东一男子因暴雨后赤脚走路住进ICU",
+        "onboard_time": 1725722300,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370681,
+        "num": 132275,
+        "word": "多人发现遗体帐篷却未报警的背后",
+        "onboard_time": 1725704599,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215830,
+        "num": 132150,
+        "word": "曾舜晞经纪人和吴宣仪是同学",
+        "onboard_time": 1725727518,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190362,
+        "num": 131754,
+        "word": "苹果和微信到底谁离不开谁",
+        "onboard_time": 1725704780,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 163726,
+        "num": 131540,
+        "word": "金店卖出16万金条后银行卡被冻结",
+        "onboard_time": 1725717981,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158967,
+        "num": 131439,
+        "word": "赵丽颖还给张碧晨录了视频",
+        "onboard_time": 1725722840,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138364,
+        "num": 131204,
+        "word": "小孩姐削土豆受伤气跑4名医生",
+        "onboard_time": 1725718941,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131085,
+        "num": 131085,
+        "word": "韩安冉二胎是女儿",
+        "onboard_time": 1725706159,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 123544,
+        "num": 123544,
+        "word": "似锦",
+        "onboard_time": 1725724400,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114239,
+        "num": 114239,
+        "word": "王楚钦张本智和男单同半区",
+        "onboard_time": 1725718941,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 466035,
+        "num": 113251,
+        "word": "张杰 素人电话号",
+        "onboard_time": 1725705080,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 441945,
+        "num": 112045,
+        "word": "小杨哥开播回应与辛巴的矛盾",
+        "onboard_time": 1725720981,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 252214,
+        "num": 110105,
+        "word": "花三万八在新疆买的小院",
+        "onboard_time": 1725721461,
+        "rank": 22,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 134096,
+        "num": 108401,
+        "word": "蟹太太回应辛巴三只羊纠纷",
+        "onboard_time": 1725723139,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 123219,
+        "num": 106253,
+        "word": "王昶想在梁伟铿婚礼唱感谢你曾来过",
+        "onboard_time": 1725717321,
+        "rank": 24,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 104616,
+        "num": 104616,
+        "word": "99后女生靠卖石头月入过万",
+        "onboard_time": 1725716602,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102799,
+        "num": 102799,
+        "word": "海口网红餐厅被摩羯撕碎了",
+        "onboard_time": 1725729316,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102543,
+        "num": 102543,
+        "word": "这5类人喝咖啡格外受益",
+        "onboard_time": 1725718702,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 92660,
+        "num": 92660,
+        "word": "摩羯登陆海南文昌",
+        "onboard_time": 1725611540,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88419,
+        "num": 88419,
+        "word": "马嘉祺 郑州",
+        "onboard_time": 1725724879,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88076,
+        "num": 88076,
+        "word": "蛋黄呢",
+        "onboard_time": 1725712939,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 87139,
+        "num": 87139,
+        "word": "许嵩演唱会嘉宾是张靓颖",
+        "onboard_time": 1725716480,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 84240,
+        "num": 84240,
+        "word": "刘亦菲赵露思抱在一起",
+        "onboard_time": 1725710360,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82398,
+        "num": 82398,
+        "word": "你好星期六下期预告",
+        "onboard_time": 1725714679,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79676,
+        "num": 79676,
+        "word": "RW战胜狼队",
+        "onboard_time": 1725720861,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 77788,
+        "num": 77788,
+        "word": "月薪3万的陆家嘴打工人开始抠抠搜搜",
+        "onboard_time": 1725720142,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75252,
+        "num": 75252,
+        "word": "妈妈朋友的儿子",
+        "onboard_time": 1725723619,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71631,
+        "num": 71631,
+        "word": "薛之谦说退休后想来成都",
+        "onboard_time": 1725722900,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 51604,
+        "num": 71282,
+        "word": "张极 记录可爱啵啵的日常",
+        "onboard_time": 1725721581,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70105,
+        "num": 70105,
+        "word": "赵丽颖白婚纱",
+        "onboard_time": 1725711800,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 69596,
+        "num": 69596,
+        "word": "女子称男婴被丈夫单独照顾后死亡",
+        "onboard_time": 1725714922,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67540,
+        "num": 67540,
+        "word": "樊振东去迪士尼玩了",
+        "onboard_time": 1725712100,
+        "rank": 41,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 64728,
+        "num": 67533,
+        "word": "于文文赢了梁王一个球",
+        "onboard_time": 1725724999,
+        "rank": 42,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 61739,
+        "num": 67525,
+        "word": "薛之谦造型师",
+        "onboard_time": 1725716962,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 60261,
+        "num": 67518,
+        "word": "袁隆平14万稻穗中发现天选株",
+        "onboard_time": 1725713541,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59441,
+        "num": 67512,
+        "word": "杨紫对接否认跟刘宇宁合作家业",
+        "onboard_time": 1725717921,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58102,
+        "num": 67500,
+        "word": "被人咬伤比被动物咬伤更严重",
+        "onboard_time": 1725714620,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 57867,
+        "num": 67491,
+        "word": "男子拉50箱五粮液不绑绳倒一地",
+        "onboard_time": 1725729376,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55730,
+        "num": 67486,
+        "word": "台风摩羯造成海南4死95伤",
+        "onboard_time": 1725714020,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54641,
+        "num": 67479,
+        "word": "小杨哥否认没有售后",
+        "onboard_time": 1725715880,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对台风灾害作出重要指示#"
+    }
+  }
+}
