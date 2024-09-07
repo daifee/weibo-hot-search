@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725726323762,
+  "endTime": 1725727219294,
   "band_list": [
     {
       "raw_hot": 827847,
@@ -43,12 +43,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 534994,
+      "raw_hot": 543848,
       "num": 280607,
       "word": "广东一男子因暴雨后赤脚走路住进ICU",
       "onboard_time": 1725722300,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 538485,
+      "num": 538485,
+      "word": "阿条姐又有新身份了",
+      "onboard_time": 1725723981,
+      "rank": 12,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 492165,
@@ -57,14 +65,6 @@
       "onboard_time": 1725717561,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 487484,
-      "num": 277692,
-      "word": "阿条姐又有新身份了",
-      "onboard_time": 1725723981,
-      "rank": 12,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 419637,
@@ -107,7 +107,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 261995,
+      "raw_hot": 262608,
       "num": 261995,
       "word": "虞书欣终于想起来她是个歌手了",
       "onboard_time": 1725724220,
@@ -171,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181007,
+      "num": 308025,
+      "word": "华为三折叠硬刚苹果",
+      "onboard_time": 1725709701,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 179880,
       "num": 179880,
       "word": "这5类人喝咖啡格外受益",
@@ -185,14 +193,6 @@
       "onboard_time": 1725724400,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169130,
-      "num": 308025,
-      "word": "华为三折叠硬刚苹果",
-      "onboard_time": 1725709701,
-      "rank": 8,
-      "category": "数码"
     },
     {
       "raw_hot": 157010,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124065,
+      "num": 124065,
+      "word": "许嵩演唱会嘉宾是张靓颖",
+      "onboard_time": 1725716480,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 122966,
       "num": 122966,
       "word": "于文文赢了梁王一个球",
@@ -291,28 +299,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 109467,
+      "num": 109467,
+      "word": "妈妈朋友的儿子",
+      "onboard_time": 1725723619,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108262,
       "num": 108262,
       "word": "商家出售过度包装的月饼被查",
       "onboard_time": 1725723380,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 106297,
-      "num": 106297,
-      "word": "许嵩演唱会嘉宾是张靓颖",
-      "onboard_time": 1725716480,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 106059,
-      "num": 106059,
-      "word": "妈妈朋友的儿子",
-      "onboard_time": 1725723619,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 103705,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 100458,
-      "num": 100458,
+      "num": 100988,
       "word": "被人咬伤比被动物咬伤更严重",
       "onboard_time": 1725714620,
       "rank": 43,
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 99188,
-      "num": 99188,
+      "num": 101045,
       "word": "袁隆平14万稻穗中发现天选株",
       "onboard_time": 1725713541,
       "rank": 44,
@@ -348,11 +348,19 @@
     },
     {
       "raw_hot": 92013,
-      "num": 92013,
+      "num": 100959,
       "word": "小杨哥否认没有售后",
       "onboard_time": 1725715880,
       "rank": 45,
       "category": "网红"
+    },
+    {
+      "raw_hot": 91200,
+      "num": 101121,
+      "word": "樊振东去迪士尼玩了",
+      "onboard_time": 1725712100,
+      "rank": 46,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 90002,
@@ -363,16 +371,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 88345,
-      "num": 88345,
-      "word": "樊振东去迪士尼玩了",
-      "onboard_time": 1725712100,
-      "rank": 46,
-      "category": "体育,网红"
+      "raw_hot": 87321,
+      "num": 101041,
+      "word": "与台风摩羯的硬仗仍在吃劲阶段",
+      "onboard_time": 1725726138,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82566,
-      "num": 82566,
+      "num": 100888,
       "word": "邓莎给儿子饭里加增高药",
       "onboard_time": 1725696260,
       "rank": 47,
@@ -380,23 +388,15 @@
     },
     {
       "raw_hot": 81371,
-      "num": 81371,
+      "num": 100927,
       "word": "薛之谦造型师",
       "onboard_time": 1725716962,
       "rank": 48,
       "category": "演出"
     },
     {
-      "raw_hot": 79608,
-      "num": 79608,
-      "word": "与台风摩羯的硬仗仍在吃劲阶段",
-      "onboard_time": 1725726138,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24700,
-      "num": 382458,
+      "num": 400808,
       "word": "致敬风雨中的守护力量",
       "onboard_time": 1725716361,
       "rank": 2,
