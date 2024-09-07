@@ -1,0 +1,410 @@
+{
+  "runTime": 1725708942599,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 835434,
+        "num": 1133669,
+        "word": "东北雨姐承认螃蟹是放到稻田里的",
+        "onboard_time": 1725701661,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 532258,
+        "num": 532258,
+        "word": "平时睡不够周末补觉有用吗",
+        "onboard_time": 1725696500,
+        "rank": 1,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 26797,
+        "num": 455788,
+        "word": "紧急下达2亿元支持台风灾后应急",
+        "onboard_time": 1725682280,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2353344,
+        "num": 452094,
+        "word": "张杰 素人电话号",
+        "onboard_time": 1725705080,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 427800,
+        "num": 427800,
+        "word": "越南 台风摩羯",
+        "onboard_time": 1725694339,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 378726,
+        "num": 378726,
+        "word": "WTT 卖不出票",
+        "onboard_time": 1725679218,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 546765,
+        "num": 365311,
+        "word": "赵露思ins更新怼脸照",
+        "onboard_time": 1725707720,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424459,
+        "num": 319899,
+        "word": "赵丽颖提裙上台",
+        "onboard_time": 1725702981,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205681,
+        "num": 205681,
+        "word": "台风摩羯已致3人死亡95人受伤",
+        "onboard_time": 1725696680,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86872,
+        "num": 205530,
+        "word": "6岁男孩1个月充值某游戏3万多",
+        "onboard_time": 1725707181,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1565561,
+        "num": 204667,
+        "word": "多人发现遗体帐篷却未报警的背后",
+        "onboard_time": 1725704599,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1291389,
+        "num": 204254,
+        "word": "韩安冉二胎是女儿",
+        "onboard_time": 1725706159,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 582064,
+        "num": 203760,
+        "word": "苹果和微信到底谁离不开谁",
+        "onboard_time": 1725704780,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431642,
+        "num": 203572,
+        "word": "女子退穿过衣服遭拒怒点火烧掉",
+        "onboard_time": 1725698960,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424089,
+        "num": 202741,
+        "word": "邓莎给儿子饭里加增高药",
+        "onboard_time": 1725696260,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429525,
+        "num": 202214,
+        "word": "王源回应顶胯",
+        "onboard_time": 1725702020,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282189,
+        "num": 201854,
+        "word": "郑业成回复赵露思",
+        "onboard_time": 1725698241,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201527,
+        "num": 201527,
+        "word": "赵丽颖眼睛水汪汪",
+        "onboard_time": 1725707479,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23216,
+        "num": 196113,
+        "word": "阿玛尼让威尼斯翻红",
+        "onboard_time": 1725705562,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 195971,
+        "num": 195971,
+        "word": "华晨宇离子烫",
+        "onboard_time": 1725708200,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 422685,
+        "num": 195688,
+        "word": "孙颖莎王艺迪适应性训练",
+        "onboard_time": 1725706159,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183104,
+        "num": 183104,
+        "word": "潘玮柏问40度小鬼穿貂不热吗",
+        "onboard_time": 1725707960,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178174,
+        "num": 178174,
+        "word": "WTT澳门冠军赛抽签",
+        "onboard_time": 1725696201,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171554,
+        "num": 171554,
+        "word": "我嗑的cp终于官宣了",
+        "onboard_time": 1725689900,
+        "rank": 23,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 160097,
+        "num": 160097,
+        "word": "女子银行捡3条金链1个金镯死不认账",
+        "onboard_time": 1725697642,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158923,
+        "num": 158923,
+        "word": "追尤长靖就是一个巨大的爽文",
+        "onboard_time": 1725708020,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23362,
+        "num": 158037,
+        "word": "汤唯SKII线下活动生图美到我了",
+        "onboard_time": 1725705139,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157729,
+        "num": 157729,
+        "word": "亲历者称玻璃爆掉后蜷缩在角落",
+        "onboard_time": 1725704960,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156292,
+        "num": 156292,
+        "word": "乳房其实是情绪的靶向器官",
+        "onboard_time": 1725702379,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155790,
+        "num": 155790,
+        "word": "老人继承同学30万存款遭拒起诉银行",
+        "onboard_time": 1725698301,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155137,
+        "num": 155137,
+        "word": "有没有二本恋综",
+        "onboard_time": 1725685460,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152622,
+        "num": 152622,
+        "word": "摩羯登陆海南文昌",
+        "onboard_time": 1725611540,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142273,
+        "num": 142273,
+        "word": "马嘉祺楼间楼开箱",
+        "onboard_time": 1725706999,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142218,
+        "num": 142218,
+        "word": "章若楠张哲华直播不说话",
+        "onboard_time": 1725701901,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133764,
+        "num": 133764,
+        "word": "宋雨琦进入变声期了",
+        "onboard_time": 1725708681,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129680,
+        "num": 129680,
+        "word": "杨紫刘宇宁 家业",
+        "onboard_time": 1725690258,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128966,
+        "num": 128966,
+        "word": "XYG止步夏季赛",
+        "onboard_time": 1725708501,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15505,
+        "num": 128344,
+        "word": "SKII有自己的前任系列",
+        "onboard_time": 1725707238,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 14879,
+        "num": 128232,
+        "word": "汤唯用了十几年的SKII",
+        "onboard_time": 1725707238,
+        "rank": 38,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 128171,
+        "num": 128171,
+        "word": "小杨哥徒弟曾说买假货就把师傅告破产",
+        "onboard_time": 1725684679,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 125711,
+        "num": 125711,
+        "word": "梁王组合hi6打羽毛球都在整活",
+        "onboard_time": 1725708860,
+        "rank": 40,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 118123,
+        "num": 118123,
+        "word": "孙颖莎首轮对阵田志希",
+        "onboard_time": 1725697940,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44723,
+        "num": 117055,
+        "word": "老头乐被认定为机动车遭保险拒赔",
+        "onboard_time": 1725706939,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116180,
+        "num": 116180,
+        "word": "对不起 我实在太爱吃饭了",
+        "onboard_time": 1725707600,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 115958,
+        "num": 115958,
+        "word": "十个勤天礼盒",
+        "onboard_time": 1725696201,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115661,
+        "num": 115661,
+        "word": "王一博说无名是走向电影领域最大节点",
+        "onboard_time": 1725708920,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113681,
+        "num": 113681,
+        "word": "赵丽颖角色都有工作室了",
+        "onboard_time": 1725706101,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28701,
+        "num": 112715,
+        "word": "三亚防汛防风应急响应级别降低",
+        "onboard_time": 1725706759,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112384,
+        "num": 112384,
+        "word": "张峻豪晒爸爸拍的照",
+        "onboard_time": 1725699019,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110340,
+        "num": 110340,
+        "word": "华晨宇三登鸟巢三穿浴袍",
+        "onboard_time": 1725708920,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#中非友谊与合作结出新的丰硕成果#"
+    }
+  }
+}
