@@ -1,6 +1,6 @@
 {
   "startTime": 1725640058523,
-  "endTime": 1725719764410,
+  "endTime": 1725722485811,
   "band_list": [
     {
       "raw_hot": 2354423,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 974554,
+      "num": 974554,
+      "word": "专家建议把老年群体转为人力资源",
+      "onboard_time": 1725718220,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 971085,
       "num": 971085,
       "word": "WTT",
@@ -275,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 780633,
+      "num": 362425,
+      "word": "金店卖出16万金条后银行卡被冻结",
+      "onboard_time": 1725717981,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 759112,
       "num": 282515,
       "word": "辛巴称三只羊还有四天时间",
@@ -307,12 +323,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 706147,
+      "num": 479389,
+      "word": "G社拍的赵露思生图",
+      "onboard_time": 1725717561,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 694509,
       "num": 694509,
       "word": "耳朵越掏会变得越油",
       "onboard_time": 1725676038,
       "rank": 19,
       "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 681973,
+      "num": 309418,
+      "word": "小孩姐削土豆受伤气跑4名医生",
+      "onboard_time": 1725718941,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 680294,
@@ -379,6 +411,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 630613,
+      "num": 435825,
+      "word": "王昶想在梁伟铿婚礼唱感谢你曾来过",
+      "onboard_time": 1725717321,
+      "rank": 15,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 620920,
       "num": 283754,
       "word": "小杨哥否认没有售后",
@@ -427,14 +467,6 @@
       "category": "数码,互联网"
     },
     {
-      "raw_hot": 580881,
-      "num": 372731,
-      "word": "王昶想在梁伟铿婚礼唱感谢你曾来过",
-      "onboard_time": 1725717321,
-      "rank": 15,
-      "category": "综艺,体育"
-    },
-    {
       "raw_hot": 578768,
       "num": 541356,
       "word": "东北鸡架",
@@ -473,6 +505,14 @@
       "onboard_time": 1725634343,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 545138,
+      "num": 280298,
+      "word": "小杨哥开播回应与辛巴的矛盾",
+      "onboard_time": 1725720981,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 541059,
@@ -539,6 +579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 492291,
+      "num": 492291,
+      "word": "RW战胜狼队",
+      "onboard_time": 1725720861,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 490991,
       "num": 490991,
       "word": "海南动员38周以上孕妇住院待产",
@@ -568,14 +616,6 @@
       "word": "孙卓到南京工业大学报到了",
       "onboard_time": 1725675440,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 483625,
-      "num": 362425,
-      "word": "金店卖出16万金条后银行卡被冻结",
-      "onboard_time": 1725717981,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -665,14 +705,6 @@
       "onboard_time": 1725696860,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 429546,
-      "num": 275029,
-      "word": "G社拍的赵露思生图",
-      "onboard_time": 1725717561,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 422685,
@@ -915,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 287526,
+      "num": 287526,
+      "word": "国足备战受冷遇",
+      "onboard_time": 1725719781,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 281225,
       "num": 281225,
       "word": "HLE晋级S14",
@@ -929,6 +969,14 @@
       "onboard_time": 1725646693,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276026,
+      "num": 276026,
+      "word": "这5类人喝咖啡格外受益",
+      "onboard_time": 1725718702,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 275089,
@@ -963,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269547,
+      "num": 269547,
+      "word": "重庆狼队",
+      "onboard_time": 1725721881,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 265572,
       "num": 193708,
       "word": "家政阿姨不愿洗衣服",
@@ -993,6 +1049,14 @@
       "onboard_time": 1725677240,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261107,
+      "num": 261107,
+      "word": "王楚钦张本智和男单同半区",
+      "onboard_time": 1725718941,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 258657,
@@ -1041,6 +1105,14 @@
       "onboard_time": 1725690979,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245183,
+      "num": 245183,
+      "word": "狼队夏季赛淘汰",
+      "onboard_time": 1725721221,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 242959,
@@ -1099,14 +1171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 228432,
-      "num": 228432,
-      "word": "王楚钦张本智和男单同半区",
-      "onboard_time": 1725718941,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 225277,
       "num": 225277,
       "word": "被母亲砍伤9岁男孩已脱离危险",
@@ -1155,11 +1219,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 218819,
-      "num": 218819,
-      "word": "小孩姐削土豆受伤气跑4名医生",
-      "onboard_time": 1725718941,
-      "rank": 29,
+      "raw_hot": 219270,
+      "num": 219270,
+      "word": "月薪3万的陆家嘴打工人开始抠抠搜搜",
+      "onboard_time": 1725720142,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1291,12 +1355,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 201276,
-      "num": 201276,
-      "word": "这5类人喝咖啡格外受益",
-      "onboard_time": 1725718702,
-      "rank": 32,
-      "category": "健康医疗"
+      "raw_hot": 201193,
+      "num": 201193,
+      "word": "花三万八在新疆买的小院",
+      "onboard_time": 1725721461,
+      "rank": 33,
+      "category": "休闲"
     },
     {
       "raw_hot": 200060,
@@ -1371,6 +1435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 197235,
+      "num": 197235,
+      "word": "雪迷宫 别刀我",
+      "onboard_time": 1725721702,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197177,
       "num": 221394,
       "word": "马嘉祺胡辣汤配水煎包",
@@ -1424,6 +1496,14 @@
       "word": "赵露思方告黑维权",
       "onboard_time": 1725686180,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 195119,
+      "num": 255637,
+      "word": "张极 记录可爱啵啵的日常",
+      "onboard_time": 1725721581,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -1513,6 +1593,14 @@
       "onboard_time": 1725682280,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186896,
+      "num": 186896,
+      "word": "张碧晨巡回演唱会",
+      "onboard_time": 1725721641,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 185420,
@@ -1619,6 +1707,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 180767,
+      "num": 180767,
+      "word": "五月天武汉站",
+      "onboard_time": 1725721340,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 180746,
       "num": 209969,
       "word": "田曦薇 主动破冰的小蝴蝶",
@@ -1633,6 +1729,14 @@
       "onboard_time": 1725683719,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 178836,
+      "num": 178836,
+      "word": "RW对战狼队",
+      "onboard_time": 1725711201,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 178314,
@@ -1851,6 +1955,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 162171,
+      "num": 162171,
+      "word": "广东一男子因暴雨后赤脚走路住进ICU",
+      "onboard_time": 1725722300,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162133,
       "num": 198054,
       "word": "魏哲鸣 我们对齐一下颗粒度",
@@ -2059,12 +2171,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 148716,
+      "num": 148716,
+      "word": "雪迷宫 没有感情线",
+      "onboard_time": 1725720621,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147810,
       "num": 160309,
       "word": "爱情进入平淡期要分手吗",
       "onboard_time": 1725684440,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147766,
+      "num": 147766,
+      "word": "NV11淘汰吃鸡",
+      "onboard_time": 1725721702,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 147560,
@@ -2163,6 +2291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142726,
+      "num": 142726,
+      "word": "国足球员说有信心赢下沙特",
+      "onboard_time": 1725719722,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141409,
       "num": 141409,
       "word": "浙江人再忍三天",
@@ -2177,14 +2313,6 @@
       "onboard_time": 1725706101,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 139928,
-      "num": 139928,
-      "word": "国足球员说有信心赢下沙特",
-      "onboard_time": 1725719722,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 137814,
@@ -2240,14 +2368,6 @@
       "word": "海口美兰国际机场暂时关闭",
       "onboard_time": 1725687199,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134000,
-      "num": 361004,
-      "word": "专家建议把老年群体转为人力资源",
-      "onboard_time": 1725718220,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -3121,6 +3241,14 @@
       "onboard_time": 1725629240,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 25411,
+      "num": 313842,
+      "word": "亲历者回忆台风摩羯来袭瞬间",
+      "onboard_time": 1725722180,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24509,
