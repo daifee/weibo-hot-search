@@ -1,0 +1,410 @@
+{
+  "runTime": 1725693652204,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1224203,
+        "num": 1224203,
+        "word": "我嗑的cp终于官宣了",
+        "onboard_time": 1725689900,
+        "rank": 0,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 940300,
+        "num": 940300,
+        "word": "有没有二本恋综",
+        "onboard_time": 1725685460,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20491,
+        "num": 813374,
+        "word": "台风里生活慢下来防灾要快起来",
+        "onboard_time": 1725681678,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728277,
+        "num": 728277,
+        "word": "赵露思自己化的妆容",
+        "onboard_time": 1725688339,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 591443,
+        "num": 591443,
+        "word": "WTT 卖不出票",
+        "onboard_time": 1725679218,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 588305,
+        "num": 588305,
+        "word": "网传东北雨姐视频造假塌房",
+        "onboard_time": 1725675079,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 568034,
+        "num": 568034,
+        "word": "三十岁没结婚 回乡吃席被审判",
+        "onboard_time": 1725689779,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 541059,
+        "num": 541059,
+        "word": "海口一酒店外墙被摩羯吹跑了",
+        "onboard_time": 1725688100,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521630,
+        "num": 521630,
+        "word": "杨紫刘宇宁 家业",
+        "onboard_time": 1725690258,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263018,
+        "num": 470101,
+        "word": "摩羯将第三次登陆",
+        "onboard_time": 1725667759,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449812,
+        "num": 449812,
+        "word": "李一桐紧急撤回一个直播事故",
+        "onboard_time": 1725681619,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353854,
+        "num": 353854,
+        "word": "张凌赫田曦薇 逐玉",
+        "onboard_time": 1725689959,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347064,
+        "num": 347064,
+        "word": "黄景瑜 老天爷赏海下的男人",
+        "onboard_time": 1725688219,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27174,
+        "num": 344413,
+        "word": "人类怎么能攒下半年的工资",
+        "onboard_time": 1725692838,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61732,
+        "num": 343558,
+        "word": "多数外卖骑手不愿意交社保",
+        "onboard_time": 1725692899,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342975,
+        "num": 342975,
+        "word": "保姆在雇主家纵火掩饰盗窃痕迹",
+        "onboard_time": 1725689598,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305322,
+        "num": 305322,
+        "word": "华为三折叠预订秒破万",
+        "onboard_time": 1725686840,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 274194,
+        "num": 274194,
+        "word": "耳朵越掏会变得越油",
+        "onboard_time": 1725676038,
+        "rank": 17,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 223324,
+        "num": 223324,
+        "word": "台风天鸭群稳稳站立纹丝不动",
+        "onboard_time": 1725688819,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46135,
+        "num": 223083,
+        "word": "专家称年轻人迷宠物石是为排遣压力",
+        "onboard_time": 1725692119,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59924,
+        "num": 222932,
+        "word": "众多男明星主播瞄准中年女性市场",
+        "onboard_time": 1725691759,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20328,
+        "num": 222530,
+        "word": "全女小队的含金量有多高",
+        "onboard_time": 1725689478,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 800560,
+        "num": 222151,
+        "word": "儿童骑行被碾压案相似案件被撤案处理",
+        "onboard_time": 1725689358,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 712241,
+        "num": 221670,
+        "word": "小杨哥徒弟曾说买假货就把师傅告破产",
+        "onboard_time": 1725684679,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 112470,
+        "num": 221394,
+        "word": "马嘉祺胡辣汤配水煎包",
+        "onboard_time": 1725686900,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437456,
+        "num": 221064,
+        "word": "羡慕张雪峰女儿",
+        "onboard_time": 1725692119,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271362,
+        "num": 220707,
+        "word": "海口一业主躲风时腿被夹住大声呼救",
+        "onboard_time": 1725692000,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267547,
+        "num": 220457,
+        "word": "翟潇闻道歉",
+        "onboard_time": 1725665838,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229162,
+        "num": 219974,
+        "word": "现在就出发2开录",
+        "onboard_time": 1725690919,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218360,
+        "num": 219642,
+        "word": "陈好履历",
+        "onboard_time": 1725690979,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224727,
+        "num": 219241,
+        "word": "赵露思晚宴跳舞",
+        "onboard_time": 1725692959,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219130,
+        "num": 219130,
+        "word": "台风过境后广东周末仍有大暴雨",
+        "onboard_time": 1725682999,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213960,
+        "num": 213960,
+        "word": "摩羯登陆海南文昌",
+        "onboard_time": 1725611540,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188503,
+        "num": 188503,
+        "word": "T1 抽象",
+        "onboard_time": 1725693619,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171600,
+        "num": 171600,
+        "word": "印女医生父母遭警察包围被迫火化尸体",
+        "onboard_time": 1725677420,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169850,
+        "num": 169850,
+        "word": "血常规报告单可分3部分看",
+        "onboard_time": 1725691039,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168500,
+        "num": 168500,
+        "word": "三只羊",
+        "onboard_time": 1725679041,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 167159,
+        "num": 167159,
+        "word": "刘亦菲晚宴跳舞",
+        "onboard_time": 1725680419,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164344,
+        "num": 164344,
+        "word": "朱婷解锁一日孩子王",
+        "onboard_time": 1725692479,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160791,
+        "num": 160791,
+        "word": "AI换脸三小时骗走我妈一年工资",
+        "onboard_time": 1725672499,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156057,
+        "num": 156057,
+        "word": "吴宣仪想重聚火箭少女101",
+        "onboard_time": 1725688219,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154692,
+        "num": 154692,
+        "word": "摩羯7日将再次登陆",
+        "onboard_time": 1725690859,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153484,
+        "num": 153484,
+        "word": "不会带团队只能一个人干到死",
+        "onboard_time": 1725692659,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147560,
+        "num": 147560,
+        "word": "广东人都不敢吃的糖水",
+        "onboard_time": 1725689119,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 147095,
+        "num": 147095,
+        "word": "周大福周生生不断关店",
+        "onboard_time": 1725690319,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 135783,
+        "num": 135783,
+        "word": "平次和叶正式交往",
+        "onboard_time": 1725685219,
+        "rank": 45,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 132320,
+        "num": 132320,
+        "word": "藏海花张九日",
+        "onboard_time": 1725693558,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126664,
+        "num": 126664,
+        "word": "恋与深空 单人池",
+        "onboard_time": 1725678499,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124656,
+        "num": 124656,
+        "word": "辛巴称三只羊还有四天时间",
+        "onboard_time": 1725672799,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 120935,
+        "num": 120935,
+        "word": "吴施乐 优酷",
+        "onboard_time": 1725693320,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的中非时间#"
+    }
+  }
+}

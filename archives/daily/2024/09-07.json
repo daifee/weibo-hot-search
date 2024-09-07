@@ -1,6 +1,6 @@
 {
   "startTime": 1725640058523,
-  "endTime": 1725691267416,
+  "endTime": 1725693652204,
   "band_list": [
     {
       "raw_hot": 2354423,
@@ -57,6 +57,14 @@
       "onboard_time": 1725665838,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1224203,
+      "num": 1224203,
+      "word": "我嗑的cp终于官宣了",
+      "onboard_time": 1725689900,
+      "rank": 16,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 1128011,
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 800560,
+      "num": 239074,
+      "word": "儿童骑行被碾压案相似案件被撤案处理",
+      "onboard_time": 1725689358,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 759112,
       "num": 282515,
       "word": "辛巴称三只羊还有四天时间",
@@ -147,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 728277,
+      "num": 728277,
+      "word": "赵露思自己化的妆容",
+      "onboard_time": 1725688339,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 725615,
       "num": 725615,
       "word": "素素死在了最漂亮的那天",
@@ -161,14 +185,6 @@
       "onboard_time": 1725676038,
       "rank": 19,
       "category": "社会新闻,健康医疗"
-    },
-    {
-      "raw_hot": 678343,
-      "num": 678343,
-      "word": "赵露思自己化的妆容",
-      "onboard_time": 1725688339,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 672189,
@@ -227,6 +243,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 568034,
+      "num": 568034,
+      "word": "三十岁没结婚 回乡吃席被审判",
+      "onboard_time": 1725689779,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 565768,
       "num": 281117,
       "word": "AI换脸三小时骗走我妈一年工资",
@@ -241,6 +265,22 @@
       "onboard_time": 1725634343,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 541059,
+      "num": 541059,
+      "word": "海口一酒店外墙被摩羯吹跑了",
+      "onboard_time": 1725688100,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 521630,
+      "num": 521630,
+      "word": "杨紫刘宇宁 家业",
+      "onboard_time": 1725690258,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 518407,
@@ -315,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 437456,
+      "num": 221064,
+      "word": "羡慕张雪峰女儿",
+      "onboard_time": 1725692119,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 420680,
       "num": 420680,
       "word": "刘琳 姐一直都很辣",
@@ -387,6 +435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 353854,
+      "num": 353854,
+      "word": "张凌赫田曦薇 逐玉",
+      "onboard_time": 1725689959,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 349792,
       "num": 349792,
       "word": "刘亦菲回应粉丝喊话进组",
@@ -417,6 +473,14 @@
       "onboard_time": 1725680419,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 342975,
+      "num": 374092,
+      "word": "保姆在雇主家纵火掩饰盗窃痕迹",
+      "onboard_time": 1725689598,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 340432,
@@ -451,14 +515,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 310907,
-      "num": 310907,
-      "word": "杨紫刘宇宁 家业",
-      "onboard_time": 1725690258,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 306972,
       "num": 306972,
       "word": "禁止在烈士陵园等庄严场所跳广场舞",
@@ -473,14 +529,6 @@
       "onboard_time": 1725670338,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 303484,
-      "num": 303484,
-      "word": "我嗑的cp终于官宣了",
-      "onboard_time": 1725689900,
-      "rank": 16,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 297449,
@@ -503,6 +551,14 @@
       "num": 242165,
       "word": "新人用200斤蔬菜办了一场婚礼",
       "onboard_time": 1725670578,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271362,
+      "num": 220707,
+      "word": "海口一业主躲风时腿被夹住大声呼救",
+      "onboard_time": 1725692000,
       "rank": 26,
       "category": "社会新闻"
     },
@@ -539,14 +595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254459,
-      "num": 239074,
-      "word": "儿童骑行被碾压案相似案件被撤案处理",
-      "onboard_time": 1725689358,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 252634,
       "num": 200464,
       "word": "一岁幼童学走路摔了一跤中风了",
@@ -571,22 +619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235888,
-      "num": 235888,
-      "word": "张凌赫田曦薇 逐玉",
-      "onboard_time": 1725689959,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 232805,
-      "num": 232805,
-      "word": "海口一酒店外墙被摩羯吹跑了",
-      "onboard_time": 1725688100,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229860,
       "num": 229860,
       "word": "台风摩羯 眼壁置换",
@@ -603,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229162,
+      "num": 219974,
+      "word": "现在就出发2开录",
+      "onboard_time": 1725690919,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225277,
       "num": 225277,
       "word": "被母亲砍伤9岁男孩已脱离危险",
@@ -611,12 +651,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 222396,
-      "num": 388199,
-      "word": "三十岁没结婚 回乡吃席被审判",
-      "onboard_time": 1725689779,
-      "rank": 8,
-      "category": "综艺"
+      "raw_hot": 224727,
+      "num": 219241,
+      "word": "赵露思晚宴跳舞",
+      "onboard_time": 1725692959,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 223324,
+      "num": 223324,
+      "word": "台风天鸭群稳稳站立纹丝不动",
+      "onboard_time": 1725688819,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221918,
@@ -624,6 +672,14 @@
       "word": "周雨彤粉丝澄清",
       "onboard_time": 1725683479,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 218360,
+      "num": 219642,
+      "word": "陈好履历",
+      "onboard_time": 1725690979,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -657,14 +713,6 @@
       "onboard_time": 1725634401,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 211206,
-      "num": 211206,
-      "word": "台风天鸭群稳稳站立纹丝不动",
-      "onboard_time": 1725688819,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209542,
@@ -756,7 +804,7 @@
     },
     {
       "raw_hot": 197177,
-      "num": 197177,
+      "num": 221394,
       "word": "马嘉祺胡辣汤配水煎包",
       "onboard_time": 1725686900,
       "rank": 24,
@@ -817,6 +865,14 @@
       "onboard_time": 1725685399,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188503,
+      "num": 188503,
+      "word": "T1 抽象",
+      "onboard_time": 1725693619,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 188089,
@@ -979,12 +1035,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167730,
-      "num": 167730,
-      "word": "现在就出发2开录",
-      "onboard_time": 1725690919,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 169850,
+      "num": 169850,
+      "word": "血常规报告单可分3部分看",
+      "onboard_time": 1725691039,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 167064,
@@ -1001,6 +1057,14 @@
       "onboard_time": 1725678379,
       "rank": 40,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 164344,
+      "num": 164344,
+      "word": "朱婷解锁一日孩子王",
+      "onboard_time": 1725692479,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 163862,
@@ -1059,12 +1123,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 155024,
-      "num": 155024,
-      "word": "陈好履历",
-      "onboard_time": 1725690979,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 154692,
+      "num": 154692,
+      "word": "摩羯7日将再次登陆",
+      "onboard_time": 1725690859,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153571,
@@ -1073,6 +1137,14 @@
       "onboard_time": 1725681560,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153484,
+      "num": 153484,
+      "word": "不会带团队只能一个人干到死",
+      "onboard_time": 1725692659,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 151295,
@@ -1107,6 +1179,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147560,
+      "num": 147560,
+      "word": "广东人都不敢吃的糖水",
+      "onboard_time": 1725689119,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 147095,
+      "num": 147095,
+      "word": "周大福周生生不断关店",
+      "onboard_time": 1725690319,
+      "rank": 39,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 145643,
       "num": 200288,
       "word": "喜剧之王单口季",
@@ -1129,14 +1217,6 @@
       "onboard_time": 1725662352,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 143737,
-      "num": 143737,
-      "word": "广东人都不敢吃的糖水",
-      "onboard_time": 1725689119,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 143545,
@@ -1187,14 +1267,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 134651,
-      "num": 134651,
-      "word": "周大福周生生不断关店",
-      "onboard_time": 1725690319,
-      "rank": 39,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 134018,
       "num": 134018,
       "word": "海口美兰国际机场暂时关闭",
@@ -1225,6 +1297,14 @@
       "onboard_time": 1725635181,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132320,
+      "num": 132320,
+      "word": "藏海花张九日",
+      "onboard_time": 1725693558,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 131319,
@@ -1355,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120935,
+      "num": 120935,
+      "word": "吴施乐 优酷",
+      "onboard_time": 1725693320,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119619,
       "num": 119619,
       "word": "风吹稻田我又想念您了",
@@ -1377,14 +1465,6 @@
       "onboard_time": 1725615079,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 116446,
-      "num": 116446,
-      "word": "血常规报告单可分3部分看",
-      "onboard_time": 1725691039,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 115963,
@@ -1424,14 +1504,6 @@
       "word": "娃哈哈否认遭多名前员工起诉",
       "onboard_time": 1725691039,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110753,
-      "num": 110753,
-      "word": "摩羯7日将再次登陆",
-      "onboard_time": 1725690859,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1611,14 +1683,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 82515,
-      "num": 374092,
-      "word": "保姆在雇主家纵火掩饰盗窃痕迹",
-      "onboard_time": 1725689598,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 76948,
       "num": 116775,
       "word": "柳岩 妈妈是全天下最会气你的人",
@@ -1667,12 +1731,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61732,
+      "num": 343558,
+      "word": "多数外卖骑手不愿意交社保",
+      "onboard_time": 1725692899,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60301,
       "num": 352914,
       "word": "世界冠军入手问界新M7",
       "onboard_time": 1725680540,
       "rank": 15,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 59924,
+      "num": 222932,
+      "word": "众多男明星主播瞄准中年女性市场",
+      "onboard_time": 1725691759,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53604,
@@ -1712,6 +1792,14 @@
       "word": "女子带娃被困大风中2男子接力解救",
       "onboard_time": 1725679041,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46135,
+      "num": 223083,
+      "word": "专家称年轻人迷宠物石是为排遣压力",
+      "onboard_time": 1725692119,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1771,6 +1859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27174,
+      "num": 344413,
+      "word": "人类怎么能攒下半年的工资",
+      "onboard_time": 1725692838,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27014,
       "num": 238484,
       "word": "营养师称吃素是个技术活",
@@ -1785,6 +1881,14 @@
       "onboard_time": 1725629240,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20328,
+      "num": 222530,
+      "word": "全女小队的含金量有多高",
+      "onboard_time": 1725689478,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 19060,
