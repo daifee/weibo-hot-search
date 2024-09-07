@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725676980989,
+  "endTime": 1725677628016,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -635,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1517160,
+      "num": 1517160,
+      "word": "网传东北雨姐视频造假塌房",
+      "onboard_time": 1725675079,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1510516,
       "num": 1510516,
       "word": "樊振东贴脸开大盛李豪",
@@ -779,6 +787,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1414004,
+      "num": 1414004,
+      "word": "娃哈哈遭多名前员工起诉",
+      "onboard_time": 1725674118,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1400935,
       "num": 1400935,
       "word": "搭讪姜珮瑶",
@@ -844,7 +860,7 @@
     },
     {
       "raw_hot": 1351681,
-      "num": 910982,
+      "num": 1167629,
       "word": "翟潇闻道歉",
       "onboard_time": 1725665838,
       "rank": 3,
@@ -905,14 +921,6 @@
       "onboard_time": 1725351442,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1312860,
-      "num": 1312860,
-      "word": "娃哈哈遭多名前员工起诉",
-      "onboard_time": 1725674118,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1306694,
@@ -1297,14 +1305,6 @@
       "onboard_time": 1725615079,
       "rank": 25,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1084804,
-      "num": 1084804,
-      "word": "网传东北雨姐视频造假塌房",
-      "onboard_time": 1725675079,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1077079,
@@ -2643,6 +2643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 711325,
+      "num": 711325,
+      "word": "马锐为赵露思发声",
+      "onboard_time": 1725675259,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 711302,
       "num": 711302,
       "word": "折腰播吗",
@@ -2713,14 +2721,6 @@
       "onboard_time": 1725285321,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 701708,
-      "num": 701708,
-      "word": "马锐为赵露思发声",
-      "onboard_time": 1725675259,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 701209,
@@ -3665,6 +3665,14 @@
       "onboard_time": 1725240618,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 538808,
+      "num": 243401,
+      "word": "AI换脸三小时骗走我妈一年工资",
+      "onboard_time": 1725672499,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 537888,
@@ -4835,14 +4843,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 400223,
-      "num": 243401,
-      "word": "AI换脸三小时骗走我妈一年工资",
-      "onboard_time": 1725672499,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 399674,
       "num": 399674,
       "word": "父亲回应婴儿出租屋饿到营养不良",
@@ -5755,6 +5755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308296,
+      "num": 308296,
+      "word": "孙卓到南京工业大学报到了",
+      "onboard_time": 1725675440,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307493,
       "num": 280251,
       "word": "20岁本科毕业准备出国读研但意外怀孕",
@@ -5971,20 +5979,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 297300,
-      "num": 297300,
-      "word": "孙卓到南京工业大学报到了",
-      "onboard_time": 1725675440,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 297247,
       "num": 415449,
       "word": "张韶涵成都新皮肤又开大了",
       "onboard_time": 1725178458,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 296552,
+      "num": 296552,
+      "word": "偶遇徐正溪在养老院照顾父亲",
+      "onboard_time": 1725676460,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 296219,
@@ -7427,6 +7435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238218,
+      "num": 359168,
+      "word": "袁爷爷诞辰94周年",
+      "onboard_time": 1725666137,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238178,
       "num": 238178,
       "word": "白鹿EP价格",
@@ -7953,6 +7969,14 @@
       "onboard_time": 1725332421,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 221805,
+      "num": 221805,
+      "word": "中级会计",
+      "onboard_time": 1725674118,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 221686,
@@ -9243,6 +9267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197629,
+      "num": 197629,
+      "word": "秘鲁伐木工侵犯原始部落领地遭射杀",
+      "onboard_time": 1725675799,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197454,
       "num": 201597,
       "word": "邓为 倾城之金",
@@ -9793,6 +9825,14 @@
       "onboard_time": 1725362539,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 190930,
+      "num": 190930,
+      "word": "WTT",
+      "onboard_time": 1725676158,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 190846,
@@ -10747,14 +10787,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 179475,
-      "num": 179475,
-      "word": "偶遇徐正溪在养老院照顾父亲",
-      "onboard_time": 1725676460,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 179418,
       "num": 179418,
       "word": "三折叠屏手机",
@@ -10859,14 +10891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178588,
-      "num": 178588,
-      "word": "中级会计",
-      "onboard_time": 1725674118,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 178545,
       "num": 178545,
       "word": "周扬青在线辟谣没谈过6个",
@@ -10968,14 +10992,6 @@
       "word": "全红婵谁也没放过",
       "onboard_time": 1725402554,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 177125,
-      "num": 177125,
-      "word": "WTT",
-      "onboard_time": 1725676158,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -11185,14 +11201,6 @@
       "onboard_time": 1725265641,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 174971,
-      "num": 174971,
-      "word": "秘鲁伐木工侵犯原始部落领地遭射杀",
-      "onboard_time": 1725675799,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174965,
@@ -12323,6 +12331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162133,
+      "num": 198054,
+      "word": "魏哲鸣 我们对齐一下颗粒度",
+      "onboard_time": 1725676579,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162089,
       "num": 162089,
       "word": "JDE 心梗",
@@ -12441,14 +12457,6 @@
       "onboard_time": 1725526520,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160374,
-      "num": 359168,
-      "word": "袁爷爷诞辰94周年",
-      "onboard_time": 1725666137,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160277,
@@ -12649,6 +12657,14 @@
       "onboard_time": 1725165802,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158299,
+      "num": 158299,
+      "word": "印度被奸杀女医生父母控诉",
+      "onboard_time": 1725677240,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158128,
@@ -14699,20 +14715,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128047,
+      "num": 128047,
+      "word": "伤筋动骨卧床100天是错的吗",
+      "onboard_time": 1725675857,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 127878,
       "num": 127878,
       "word": "突然从退伍接站变成了爱豆接机",
       "onboard_time": 1725408380,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 127353,
-      "num": 127353,
-      "word": "伤筋动骨卧床100天是错的吗",
-      "onboard_time": 1725675857,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 127346,
@@ -14737,6 +14753,14 @@
       "onboard_time": 1725552319,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126764,
+      "num": 248042,
+      "word": "耳朵越掏会变得越油",
+      "onboard_time": 1725676038,
+      "rank": 19,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 126718,
@@ -14883,6 +14907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122146,
+      "num": 122146,
+      "word": "杜海涛窗户能看到披荆斩棘",
+      "onboard_time": 1725677001,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122138,
       "num": 122138,
       "word": "郑钦文大满贯12胜创新高",
@@ -14915,6 +14947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121495,
+      "num": 121495,
+      "word": "印女医生父母遭警察包围被迫火化尸体",
+      "onboard_time": 1725677420,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121384,
       "num": 121384,
       "word": "许昕 双开门",
@@ -14929,14 +14969,6 @@
       "onboard_time": 1725157819,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 120831,
-      "num": 143776,
-      "word": "魏哲鸣 我们对齐一下颗粒度",
-      "onboard_time": 1725676579,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 120384,
@@ -16011,14 +16043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80485,
-      "num": 248042,
-      "word": "耳朵越掏会变得越油",
-      "onboard_time": 1725676038,
-      "rank": 19,
-      "category": "社会新闻,健康医疗"
-    },
-    {
       "raw_hot": 80277,
       "num": 212231,
       "word": "李一桐红钻续上了",
@@ -16315,6 +16339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70300,
+      "num": 298640,
+      "word": "浙江前首富价值百亿煤矿被划走",
+      "onboard_time": 1725676460,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69892,
       "num": 69892,
       "word": "全员瑕疵皮的国产剧来了",
@@ -16528,14 +16560,6 @@
       "word": "放空成了消费社会的奢侈品",
       "onboard_time": 1725166940,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62696,
-      "num": 298640,
-      "word": "浙江前首富价值百亿煤矿被划走",
-      "onboard_time": 1725676460,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -17033,6 +17057,14 @@
       "onboard_time": 1725592460,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 48654,
+      "num": 348566,
+      "word": "镇长为救老人被泥石流卷走牺牲",
+      "onboard_time": 1725677058,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48612,
@@ -18404,7 +18436,7 @@
     },
     {
       "raw_hot": 26201,
-      "num": 1027611,
+      "num": 1252835,
       "word": "跨越千年时空相遇金字塔之巅",
       "onboard_time": 1725629240,
       "rank": 2,
