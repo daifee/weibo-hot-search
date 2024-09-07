@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725687411908,
+  "endTime": 1725690475761,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -659,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1515790,
+      "num": 1515790,
+      "word": "有没有二本恋综",
+      "onboard_time": 1725685460,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1510516,
       "num": 1510516,
       "word": "樊振东贴脸开大盛李豪",
@@ -1249,14 +1257,6 @@
       "onboard_time": 1725414678,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1135094,
-      "num": 600235,
-      "word": "有没有二本恋综",
-      "onboard_time": 1725685460,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 1135004,
@@ -4219,6 +4219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 480597,
+      "num": 442221,
+      "word": "黄景瑜 老天爷赏海下的男人",
+      "onboard_time": 1725688219,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 479831,
       "num": 479831,
       "word": "苏运莹摔倒",
@@ -4435,6 +4443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462679,
+      "num": 462679,
+      "word": "华为三折叠预订秒破万",
+      "onboard_time": 1725686840,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 460166,
       "num": 474624,
       "word": "纪委回应副局长被曝涉不雅聊天语音",
@@ -4561,6 +4577,14 @@
       "onboard_time": 1725526939,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446716,
+      "num": 353715,
+      "word": "赵露思自己化的妆容",
+      "onboard_time": 1725688339,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 445687,
@@ -4985,6 +5009,14 @@
       "onboard_time": 1725350360,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 391228,
+      "num": 391228,
+      "word": "平次和叶正式交往",
+      "onboard_time": 1725685219,
+      "rank": 15,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 390611,
@@ -5913,14 +5945,6 @@
       "onboard_time": 1725670338,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 306713,
-      "num": 306713,
-      "word": "平次和叶正式交往",
-      "onboard_time": 1725685219,
-      "rank": 15,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 306529,
@@ -7211,6 +7235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 249754,
+      "num": 249754,
+      "word": "吴宣仪想重聚火箭少女101",
+      "onboard_time": 1725688219,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249406,
       "num": 249406,
       "word": "赵丽颖提裙侧颜",
@@ -7897,6 +7929,14 @@
       "onboard_time": 1725539966,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 229682,
+      "num": 397666,
+      "word": "实拍摩羯过境后的海口",
+      "onboard_time": 1725685640,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229282,
@@ -8683,11 +8723,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 208179,
+      "num": 187745,
+      "word": "儿童骑行被碾压案相似案件被撤案处理",
+      "onboard_time": 1725689358,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208127,
       "num": 208127,
       "word": "阿那亚偶遇杜江霍思燕带着实验犬",
       "onboard_time": 1725605299,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 207956,
+      "num": 388199,
+      "word": "三十岁没结婚 回乡吃席被审判",
+      "onboard_time": 1725689779,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -10227,6 +10283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188513,
+      "num": 188513,
+      "word": "台风天鸭群稳稳站立纹丝不动",
+      "onboard_time": 1725688819,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188494,
       "num": 188494,
       "word": "黑神话Steam每日售出超40万份",
@@ -10793,6 +10857,14 @@
       "onboard_time": 1725591079,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182489,
+      "num": 182489,
+      "word": "海口一酒店外墙被摩羯吹跑了",
+      "onboard_time": 1725688100,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182488,
@@ -12227,14 +12299,6 @@
       "category": "互联网,网红"
     },
     {
-      "raw_hot": 166857,
-      "num": 166857,
-      "word": "华为三折叠预订秒破万",
-      "onboard_time": 1725686840,
-      "rank": 32,
-      "category": "数码"
-    },
-    {
       "raw_hot": 166752,
       "num": 166752,
       "word": "穆祉丞自拍",
@@ -12587,6 +12651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162778,
+      "num": 162778,
+      "word": "我磕的cp终于官宣了",
+      "onboard_time": 1725689900,
+      "rank": 30,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 162763,
       "num": 162763,
       "word": "范志毅称现在考虑世界杯太远了",
@@ -12817,6 +12889,14 @@
       "onboard_time": 1725290122,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160254,
+      "num": 160254,
+      "word": "张凌赫田曦薇 逐玉",
+      "onboard_time": 1725689959,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 160230,
@@ -13908,7 +13988,7 @@
     },
     {
       "raw_hot": 147810,
-      "num": 147810,
+      "num": 160309,
       "word": "爱情进入平淡期要分手吗",
       "onboard_time": 1725684440,
       "rank": 38,
@@ -14105,6 +14185,14 @@
       "onboard_time": 1725277400,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145643,
+      "num": 364895,
+      "word": "喜剧之王单口季",
+      "onboard_time": 1725597442,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 145581,
@@ -14819,12 +14907,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 133194,
+      "num": 133194,
+      "word": "周大福周生生不断关店",
+      "onboard_time": 1725690319,
+      "rank": 39,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 132773,
       "num": 132773,
       "word": "教育局回应高中老师凌晨约女学生外出",
       "onboard_time": 1725492436,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132530,
+      "num": 132530,
+      "word": "广东人都不敢吃的糖水",
+      "onboard_time": 1725689119,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 132529,
@@ -15115,6 +15219,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 128419,
+      "num": 128419,
+      "word": "杨紫刘宇宁 家业",
+      "onboard_time": 1725690258,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128108,
       "num": 128108,
       "word": "凡人歌 谢美蓝做人流",
@@ -15337,6 +15449,14 @@
       "onboard_time": 1725190101,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122452,
+      "num": 122452,
+      "word": "逐玉",
+      "onboard_time": 1725688219,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 122258,
@@ -16387,6 +16507,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 85536,
+      "num": 237394,
+      "word": "林依轮 我的披哥人脉",
+      "onboard_time": 1725688940,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85023,
       "num": 156369,
       "word": "为什么暑期档没人能扛剧了",
@@ -16603,14 +16731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76404,
-      "num": 364895,
-      "word": "喜剧之王单口季",
-      "onboard_time": 1725597442,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 76070,
       "num": 321030,
       "word": "路面现坑洞致网约车坠入乘客受伤",
@@ -16777,14 +16897,6 @@
       "onboard_time": 1725665174,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71233,
-      "num": 397666,
-      "word": "实拍摩羯过境后的海口",
-      "onboard_time": 1725685640,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70607,
@@ -17145,6 +17257,14 @@
       "onboard_time": 1725219192,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58375,
+      "num": 374092,
+      "word": "保姆在雇主家纵火掩饰盗窃痕迹",
+      "onboard_time": 1725689598,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58075,
@@ -17865,6 +17985,14 @@
       "onboard_time": 1725492679,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41931,
+      "num": 247844,
+      "word": "华为金标三折叠",
+      "onboard_time": 1725687678,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 41892,
@@ -19425,6 +19553,14 @@
       "onboard_time": 1725561792,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19060,
+      "num": 160262,
+      "word": "谢霆锋玩三国志战略版",
+      "onboard_time": 1725688640,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 19019,

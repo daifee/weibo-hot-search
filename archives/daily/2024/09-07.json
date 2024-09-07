@@ -1,6 +1,6 @@
 {
   "startTime": 1725640058523,
-  "endTime": 1725687411908,
+  "endTime": 1725690475761,
   "band_list": [
     {
       "raw_hot": 2354423,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1515790,
+      "num": 1515790,
+      "word": "有没有二本恋综",
+      "onboard_time": 1725685460,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1417432,
       "num": 1417432,
       "word": "娃哈哈遭多名前员工起诉",
@@ -48,14 +56,6 @@
       "word": "翟潇闻道歉",
       "onboard_time": 1725665838,
       "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1135094,
-      "num": 600235,
-      "word": "有没有二本恋综",
-      "onboard_time": 1725685460,
-      "rank": 6,
       "category": "综艺"
     },
     {
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 480597,
+      "num": 442221,
+      "word": "黄景瑜 老天爷赏海下的男人",
+      "onboard_time": 1725688219,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 477291,
       "num": 477291,
       "word": "樊振东曾说巴黎奥运是他最后的机会",
@@ -283,12 +291,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 462679,
+      "num": 462679,
+      "word": "华为三折叠预订秒破万",
+      "onboard_time": 1725686840,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 451045,
       "num": 451045,
       "word": "国足低调回国",
       "onboard_time": 1725624741,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 446716,
+      "num": 353715,
+      "word": "赵露思自己化的妆容",
+      "onboard_time": 1725688339,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 420680,
@@ -321,6 +345,14 @@
       "onboard_time": 1725619641,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 391228,
+      "num": 391228,
+      "word": "平次和叶正式交往",
+      "onboard_time": 1725685219,
+      "rank": 15,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 389416,
@@ -435,14 +467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 306713,
-      "num": 306713,
-      "word": "平次和叶正式交往",
-      "onboard_time": 1725685219,
-      "rank": 15,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 297449,
       "num": 456969,
       "word": "刘浩存自拍",
@@ -507,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249754,
+      "num": 249754,
+      "word": "吴宣仪想重聚火箭少女101",
+      "onboard_time": 1725688219,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238218,
       "num": 359168,
       "word": "袁爷爷诞辰94周年",
@@ -520,6 +552,14 @@
       "word": "台风摩羯 眼壁置换",
       "onboard_time": 1725595580,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229682,
+      "num": 397666,
+      "word": "实拍摩羯过境后的海口",
+      "onboard_time": 1725685640,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -577,6 +617,22 @@
       "onboard_time": 1725653591,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208179,
+      "num": 187745,
+      "word": "儿童骑行被碾压案相似案件被撤案处理",
+      "onboard_time": 1725689358,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207956,
+      "num": 388199,
+      "word": "三十岁没结婚 回乡吃席被审判",
+      "onboard_time": 1725689779,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 207435,
@@ -715,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188513,
+      "num": 188513,
+      "word": "台风天鸭群稳稳站立纹丝不动",
+      "onboard_time": 1725688819,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188089,
       "num": 188089,
       "word": "大螺蛳螺蛳粉",
@@ -769,6 +833,14 @@
       "onboard_time": 1725638779,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182489,
+      "num": 182489,
+      "word": "海口一酒店外墙被摩羯吹跑了",
+      "onboard_time": 1725688100,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182118,
@@ -875,14 +947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166857,
-      "num": 166857,
-      "word": "华为三折叠预订秒破万",
-      "onboard_time": 1725686840,
-      "rank": 32,
-      "category": "数码"
-    },
-    {
       "raw_hot": 166335,
       "num": 166335,
       "word": "完美世界定档",
@@ -897,6 +961,14 @@
       "onboard_time": 1725636799,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 162778,
+      "num": 162778,
+      "word": "我磕的cp终于官宣了",
+      "onboard_time": 1725689900,
+      "rank": 30,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 162133,
@@ -921,6 +993,14 @@
       "onboard_time": 1725683719,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 160254,
+      "num": 160254,
+      "word": "张凌赫田曦薇 逐玉",
+      "onboard_time": 1725689959,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 157859,
@@ -964,11 +1044,19 @@
     },
     {
       "raw_hot": 147810,
-      "num": 147810,
+      "num": 160309,
       "word": "爱情进入平淡期要分手吗",
       "onboard_time": 1725684440,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145643,
+      "num": 187677,
+      "word": "喜剧之王单口季",
+      "onboard_time": 1725689059,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 145087,
@@ -1051,6 +1139,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133194,
+      "num": 133194,
+      "word": "周大福周生生不断关店",
+      "onboard_time": 1725690319,
+      "rank": 39,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 132530,
+      "num": 132530,
+      "word": "广东人都不敢吃的糖水",
+      "onboard_time": 1725689119,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 132529,
       "num": 132529,
       "word": "男子捡手机试出密码狂刷4千元被抓",
@@ -1105,6 +1209,14 @@
       "onboard_time": 1725665718,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 128419,
+      "num": 128419,
+      "word": "杨紫刘宇宁 家业",
+      "onboard_time": 1725690258,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 128092,
@@ -1169,6 +1281,14 @@
       "onboard_time": 1725630803,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122452,
+      "num": 122452,
+      "word": "逐玉",
+      "onboard_time": 1725688219,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 121711,
@@ -1395,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85536,
+      "num": 237394,
+      "word": "林依轮 我的披哥人脉",
+      "onboard_time": 1725688940,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83680,
       "num": 83680,
       "word": "西部战区辟谣",
@@ -1427,14 +1555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 71233,
-      "num": 397666,
-      "word": "实拍摩羯过境后的海口",
-      "onboard_time": 1725685640,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 69809,
       "num": 55767,
       "word": "连皇上皇后来了都得过安检",
@@ -1465,6 +1585,14 @@
       "onboard_time": 1725680540,
       "rank": 15,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 58375,
+      "num": 374092,
+      "word": "保姆在雇主家纵火掩饰盗窃痕迹",
+      "onboard_time": 1725689598,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53604,
@@ -1513,6 +1641,14 @@
       "onboard_time": 1725681619,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 41931,
+      "num": 247844,
+      "word": "华为金标三折叠",
+      "onboard_time": 1725687678,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 40114,
@@ -1569,6 +1705,14 @@
       "onboard_time": 1725629240,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 19060,
+      "num": 160262,
+      "word": "谢霆锋玩三国志战略版",
+      "onboard_time": 1725688640,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 19019,
