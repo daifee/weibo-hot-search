@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725665822874,
+  "endTime": 1725672487391,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -905,6 +905,14 @@
       "onboard_time": 1725159559,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1305840,
+      "num": 682977,
+      "word": "翟潇闻道歉",
+      "onboard_time": 1725665838,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1293593,
@@ -1939,6 +1947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 864258,
+      "num": 864258,
+      "word": "教育局回应一家长在微信群见谁怼谁",
+      "onboard_time": 1725665537,
+      "rank": 37,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 863783,
       "num": 863783,
       "word": "女子晒炒蘑菇视频吓坏网友",
@@ -2344,6 +2360,14 @@
       "word": "开学第一课",
       "onboard_time": 1725190280,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 775987,
+      "num": 467053,
+      "word": "医生为手术效果不穿防辐射铅衣",
+      "onboard_time": 1725665718,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -2779,6 +2803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 672189,
+      "num": 204348,
+      "word": "女子在饭店被小叔子抽响亮耳光",
+      "onboard_time": 1725667517,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 670058,
       "num": 670058,
       "word": "郑思维 e中e",
@@ -3027,6 +3059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 621559,
+      "num": 621559,
+      "word": "摩羯将第三次登陆",
+      "onboard_time": 1725667759,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 619793,
       "num": 619793,
       "word": "菲律宾撞击我海警船现场态势图",
@@ -3225,6 +3265,14 @@
       "onboard_time": 1725255139,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 594035,
+      "num": 388076,
+      "word": "北京套内40平的小家",
+      "onboard_time": 1725668597,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 593346,
@@ -4107,6 +4155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 477291,
+      "num": 477291,
+      "word": "樊振东曾说巴黎奥运是他最后的机会",
+      "onboard_time": 1725668539,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 476618,
       "num": 476618,
       "word": "丁禹兮 谈恋爱都不会",
@@ -4377,6 +4433,14 @@
       "onboard_time": 1725526939,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 447395,
+      "num": 447395,
+      "word": "服部平次告白成功",
+      "onboard_time": 1725670878,
+      "rank": 7,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 445687,
@@ -4811,6 +4875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 388668,
+      "num": 388668,
+      "word": "刘亦菲赵露思给对方鼓掌",
+      "onboard_time": 1725665957,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 386747,
       "num": 386747,
       "word": "盛李豪 死腿协调点别搞我",
@@ -5177,6 +5249,14 @@
       "onboard_time": 1725491656,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 347853,
+      "num": 347853,
+      "word": "海南",
+      "onboard_time": 1725665537,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 347570,
@@ -5753,6 +5833,14 @@
       "onboard_time": 1725324680,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 302487,
+      "num": 302487,
+      "word": "刘琳 姐一直都很辣",
+      "onboard_time": 1725669739,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 302316,
@@ -6515,6 +6603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 265572,
+      "num": 193708,
+      "word": "家政阿姨不愿洗衣服",
+      "onboard_time": 1725664635,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264565,
       "num": 264565,
       "word": "十个勤天首张专辑展开一天",
@@ -6857,6 +6953,14 @@
       "onboard_time": 1725458782,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250917,
+      "num": 250917,
+      "word": "赵露思高清怼脸",
+      "onboard_time": 1725670700,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 250473,
@@ -7625,6 +7729,14 @@
       "onboard_time": 1725525019,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 227571,
+      "num": 191263,
+      "word": "新人用200斤蔬菜办了一场婚礼",
+      "onboard_time": 1725670578,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227319,
@@ -11067,6 +11179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174321,
+      "num": 174321,
+      "word": "超市里的烤鸡为什么卖那么便宜",
+      "onboard_time": 1725664395,
+      "rank": 43,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 174281,
       "num": 266636,
       "word": "市监局调查山姆月饼被爆吃出牙齿",
@@ -11097,6 +11217,14 @@
       "onboard_time": 1725343942,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173939,
+      "num": 173939,
+      "word": "台风登陆现场画面",
+      "onboard_time": 1725667759,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173879,
@@ -11305,14 +11433,6 @@
       "onboard_time": 1725340581,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 170966,
-      "num": 122090,
-      "word": "家政阿姨不愿洗衣服",
-      "onboard_time": 1725664635,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170827,
@@ -11577,6 +11697,14 @@
       "onboard_time": 1725342262,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 167664,
+      "num": 180758,
+      "word": "田曦薇 主动破冰的小蝴蝶",
+      "onboard_time": 1725648614,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 167573,
@@ -12169,6 +12297,14 @@
       "onboard_time": 1725291980,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 160912,
+      "num": 160912,
+      "word": "中国队83金64银41铜领跑奖牌榜",
+      "onboard_time": 1725670338,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 160840,
@@ -13499,6 +13635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145087,
+      "num": 145087,
+      "word": "国足主帅伊万科维奇致歉",
+      "onboard_time": 1725670460,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145085,
       "num": 145085,
       "word": "台湾花莲县海域发生5.0级地震",
@@ -13819,6 +13963,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 139762,
+      "num": 139762,
+      "word": "妈妈认为大学生活费只要够吃饭就好",
+      "onboard_time": 1725667639,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139557,
       "num": 139557,
       "word": "郑钦文展望下轮对阵萨巴伦卡",
@@ -14059,12 +14211,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 134905,
+      "num": 134905,
+      "word": "苹果可以更新微信了",
+      "onboard_time": 1725664936,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 134857,
       "num": 250250,
       "word": "乐平古戏台三绝",
       "onboard_time": 1725537679,
       "rank": 47,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 134645,
+      "num": 134645,
+      "word": "鬼探头",
+      "onboard_time": 1725667879,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 134379,
@@ -14211,6 +14379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131138,
+      "num": 179669,
+      "word": "原来长的好看菜市场也能出片",
+      "onboard_time": 1725670038,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131127,
       "num": 159730,
       "word": "贺峻霖 成都",
@@ -14331,6 +14507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128925,
+      "num": 128925,
+      "word": "黑神话 猪重八",
+      "onboard_time": 1725665718,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 128869,
       "num": 128869,
       "word": "汪苏泷晒演唱会大合照",
@@ -14441,6 +14625,14 @@
       "onboard_time": 1725168258,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125590,
+      "num": 125590,
+      "word": "男子4年举报交通违法超5000条",
+      "onboard_time": 1725664575,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125368,
@@ -14569,6 +14761,14 @@
       "onboard_time": 1725407360,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121711,
+      "num": 121711,
+      "word": "今日11时11分白露",
+      "onboard_time": 1725665476,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 121562,
@@ -14987,14 +15187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 107973,
-      "num": 107973,
-      "word": "男子4年举报交通违法超5000条",
-      "onboard_time": 1725664575,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107582,
       "num": 120355,
       "word": "十个勤天佛山演唱会",
@@ -15067,14 +15259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 104528,
-      "num": 127999,
-      "word": "医生为手术效果不穿防辐射铅衣",
-      "onboard_time": 1725665718,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 103924,
       "num": 103924,
       "word": "国家博物馆偶遇张颂文马嘉祺",
@@ -15089,14 +15273,6 @@
       "onboard_time": 1725336265,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 101947,
-      "num": 101947,
-      "word": "今日11时11分白露",
-      "onboard_time": 1725665476,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 101909,
@@ -15219,6 +15395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 99001,
+      "num": 99001,
+      "word": "原来海星是这样逃跑的",
+      "onboard_time": 1725669858,
+      "rank": 48,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 98987,
       "num": 575611,
       "word": "最近很火的烟台海肠到底是什么",
@@ -15257,14 +15441,6 @@
       "onboard_time": 1725123916,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 97363,
-      "num": 97363,
-      "word": "教育局回应一家长在微信群见谁怼谁",
-      "onboard_time": 1725665537,
-      "rank": 37,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 97347,
@@ -15323,14 +15499,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 94933,
-      "num": 94933,
-      "word": "超市里的烤鸡为什么卖那么便宜",
-      "onboard_time": 1725664395,
-      "rank": 43,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 94698,
       "num": 99460,
       "word": "黄晓明的工作餐",
@@ -15371,6 +15539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 93605,
+      "num": 129019,
+      "word": "这都能认出来是黄景瑜",
+      "onboard_time": 1725663735,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93322,
       "num": 93322,
       "word": "俄军导弹袭击乌波尔塔瓦州",
@@ -15393,14 +15569,6 @@
       "onboard_time": 1725639978,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 91141,
-      "num": 132849,
-      "word": "田曦薇 主动破冰的小蝴蝶",
-      "onboard_time": 1725648614,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 91137,
@@ -15440,14 +15608,6 @@
       "word": "深圳天气",
       "onboard_time": 1725576616,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89988,
-      "num": 89988,
-      "word": "海南",
-      "onboard_time": 1725665537,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -15691,28 +15851,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 80270,
-      "num": 129019,
-      "word": "这都能认出来是黄景瑜",
-      "onboard_time": 1725663735,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 80235,
       "num": 80235,
       "word": "覃海洋发孤勇者视频通知陈奕迅",
       "onboard_time": 1725231736,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80031,
-      "num": 80031,
-      "word": "黑神话 猪重八",
-      "onboard_time": 1725665718,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 79959,
@@ -15769,14 +15913,6 @@
       "onboard_time": 1725377660,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 78066,
-      "num": 78066,
-      "word": "苹果可以更新微信了",
-      "onboard_time": 1725664936,
-      "rank": 41,
-      "category": "数码"
     },
     {
       "raw_hot": 77082,
@@ -16865,6 +17001,14 @@
       "onboard_time": 1725543262,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 45062,
+      "num": 199113,
+      "word": "罗大美案主犯潜逃缅甸输掉大部分赃款",
+      "onboard_time": 1725672319,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44995,
