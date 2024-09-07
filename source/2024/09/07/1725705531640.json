@@ -1,0 +1,410 @@
+{
+  "runTime": 1725705531640,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1456757,
+        "num": 1456757,
+        "word": "东北雨姐承认螃蟹是放到稻田里的",
+        "onboard_time": 1725701661,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 653905,
+        "num": 653905,
+        "word": "平时睡不够周末补觉有用吗",
+        "onboard_time": 1725696500,
+        "rank": 1,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 19375,
+        "num": 615980,
+        "word": "紧急下达2亿元支持台风灾后应急",
+        "onboard_time": 1725682280,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 589643,
+        "num": 589643,
+        "word": "邓莎给儿子饭里加增高药",
+        "onboard_time": 1725696260,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580205,
+        "num": 580205,
+        "word": "越南 台风摩羯",
+        "onboard_time": 1725694339,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 474743,
+        "num": 518794,
+        "word": "WTT 卖不出票",
+        "onboard_time": 1725679218,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 496589,
+        "num": 496589,
+        "word": "张杰 素人电话号",
+        "onboard_time": 1725705080,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 483284,
+        "num": 483284,
+        "word": "赵丽颖提裙上台",
+        "onboard_time": 1725702981,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 427100,
+        "num": 427100,
+        "word": "台风摩羯已致3人死亡95人受伤",
+        "onboard_time": 1725696680,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51993,
+        "num": 422921,
+        "word": "亲历者称玻璃爆掉后蜷缩在角落",
+        "onboard_time": 1725704960,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 944709,
+        "num": 412902,
+        "word": "韩安冉开三指上无痛了",
+        "onboard_time": 1725704119,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 873807,
+        "num": 405390,
+        "word": "王源回应顶胯",
+        "onboard_time": 1725702020,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 460112,
+        "num": 403182,
+        "word": "郑业成回复赵露思",
+        "onboard_time": 1725698241,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 797877,
+        "num": 389070,
+        "word": "女子退穿过衣服遭拒怒点火烧掉",
+        "onboard_time": 1725698960,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388442,
+        "num": 388442,
+        "word": "多人发现遗体帐篷却未报警的背后",
+        "onboard_time": 1725704599,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333995,
+        "num": 333995,
+        "word": "女子银行捡3条金链1个金镯死不认账",
+        "onboard_time": 1725697642,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321185,
+        "num": 321185,
+        "word": "有没有二本恋综",
+        "onboard_time": 1725685460,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252181,
+        "num": 252181,
+        "word": "WTT澳门冠军赛抽签",
+        "onboard_time": 1725696201,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237570,
+        "num": 237570,
+        "word": "HLE晋级S14",
+        "onboard_time": 1725703101,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 230668,
+        "num": 230668,
+        "word": "王楚钦首轮对阵黄镇廷",
+        "onboard_time": 1725698301,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274294,
+        "num": 230411,
+        "word": "小杨哥徒弟曾说买假货就把师傅告破产",
+        "onboard_time": 1725684679,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 225210,
+        "num": 225210,
+        "word": "知否大娘子新剧嫁了王启年",
+        "onboard_time": 1725696860,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221485,
+        "num": 221485,
+        "word": "乳房其实是情绪的靶向器官",
+        "onboard_time": 1725702379,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 211846,
+        "num": 211846,
+        "word": "张峻豪晒爸爸拍的照",
+        "onboard_time": 1725699019,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200060,
+        "num": 200060,
+        "word": "HLE战胜T1",
+        "onboard_time": 1725705019,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191802,
+        "num": 191802,
+        "word": "老人继承同学30万存款遭拒起诉银行",
+        "onboard_time": 1725698301,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191304,
+        "num": 191304,
+        "word": "我嗑的cp终于官宣了",
+        "onboard_time": 1725689900,
+        "rank": 26,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 188491,
+        "num": 188491,
+        "word": "十个勤天礼盒",
+        "onboard_time": 1725696201,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182926,
+        "num": 182926,
+        "word": "孙颖莎首轮对阵田志希",
+        "onboard_time": 1725697940,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182896,
+        "num": 182896,
+        "word": "娃哈哈官网招标10万个冰柜",
+        "onboard_time": 1725700819,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162812,
+        "num": 162812,
+        "word": "HLE对战T1",
+        "onboard_time": 1725690859,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159776,
+        "num": 159776,
+        "word": "杨紫刘宇宁 家业",
+        "onboard_time": 1725690258,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156690,
+        "num": 156690,
+        "word": "赵丽颖月白流光",
+        "onboard_time": 1725697340,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155063,
+        "num": 155063,
+        "word": "摩羯登陆海南文昌",
+        "onboard_time": 1725611540,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153725,
+        "num": 153725,
+        "word": "章若楠张哲华直播不说话",
+        "onboard_time": 1725701901,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145609,
+        "num": 145609,
+        "word": "苹果和微信到底谁离不开谁",
+        "onboard_time": 1725704780,
+        "rank": 35,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 143144,
+        "num": 143144,
+        "word": "摩羯风眼过境致多人恶心头晕耳鸣",
+        "onboard_time": 1725699920,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137561,
+        "num": 137561,
+        "word": "黑神话悟空或将影视化",
+        "onboard_time": 1725697642,
+        "rank": 37,
+        "category": "游戏,电影"
+      },
+      {
+        "raw_hot": 136946,
+        "num": 136946,
+        "word": "赵丽颖北京活动生图",
+        "onboard_time": 1725705380,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136919,
+        "num": 136919,
+        "word": "小猫被收养后猫妈前来探望",
+        "onboard_time": 1725698720,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134766,
+        "num": 134766,
+        "word": "T1 抽象",
+        "onboard_time": 1725693619,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 6910,
+        "num": 133601,
+        "word": "汤唯SKII线下活动生图美到我了",
+        "onboard_time": 1725705139,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132881,
+        "num": 132881,
+        "word": "高德崩了",
+        "onboard_time": 1725704658,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131309,
+        "num": 131309,
+        "word": "复旦教授称AI代替自己陪伴了孩子",
+        "onboard_time": 1725705320,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129725,
+        "num": 129725,
+        "word": "奥运健儿夹娃娃一夹一个准",
+        "onboard_time": 1725704540,
+        "rank": 44,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 42513,
+        "num": 128433,
+        "word": "被中国残奥运动员的拼搏深深打动",
+        "onboard_time": 1725695901,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128389,
+        "num": 128389,
+        "word": "张凌赫田曦薇 逐玉",
+        "onboard_time": 1725689959,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127715,
+        "num": 127715,
+        "word": "小伙相亲当天付24万彩礼遇婚骗",
+        "onboard_time": 1725701059,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127299,
+        "num": 127299,
+        "word": "赵露思自己化的妆容",
+        "onboard_time": 1725688339,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125227,
+        "num": 125227,
+        "word": "孙颖莎新周期首战",
+        "onboard_time": 1725705439,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中非友谊与合作结出新的丰硕成果#"
+    }
+  }
+}
