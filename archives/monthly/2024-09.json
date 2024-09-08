@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725790875013,
+  "endTime": 1725791886235,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -2035,6 +2035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 919735,
+      "num": 1147157,
+      "word": "刘梓晨为赵露思发声",
+      "onboard_time": 1725786860,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 916202,
       "num": 280298,
       "word": "小杨哥开播回应与辛巴的矛盾",
@@ -2065,14 +2073,6 @@
       "onboard_time": 1725161058,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 911605,
-      "num": 898231,
-      "word": "刘梓晨为赵露思发声",
-      "onboard_time": 1725786860,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 910304,
@@ -4987,6 +4987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 477025,
+      "num": 477025,
+      "word": "中秋节假期3天高速不免费",
+      "onboard_time": 1725786018,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 476618,
       "num": 476618,
       "word": "丁禹兮 谈恋爱都不会",
@@ -5041,6 +5049,14 @@
       "onboard_time": 1725612019,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 471315,
+      "num": 291378,
+      "word": "女子金店用嘴盗走小金豆",
+      "onboard_time": 1725786978,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 471177,
@@ -5177,6 +5193,14 @@
       "onboard_time": 1725584240,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 459378,
+      "num": 459378,
+      "word": "郑钦文美网轰出54记ACE排名第一",
+      "onboard_time": 1725787640,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 456630,
@@ -5808,14 +5832,6 @@
       "word": "父亲回应婴儿出租屋饿到营养不良",
       "onboard_time": 1725173299,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 399482,
-      "num": 291378,
-      "word": "女子金店用嘴盗走小金豆",
-      "onboard_time": 1725786978,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -7131,14 +7147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 299483,
-      "num": 299483,
-      "word": "中秋节假期3天高速不免费",
-      "onboard_time": 1725786018,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 299231,
       "num": 299231,
       "word": "山姆回应矿泉水喝了能生儿子",
@@ -7163,14 +7171,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 298325,
-      "num": 298325,
-      "word": "郑钦文美网轰出54记ACE排名第一",
-      "onboard_time": 1725787640,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 298095,
       "num": 258775,
       "word": "孩子闹着要跳楼其实是向父母求救",
@@ -7185,6 +7185,14 @@
       "onboard_time": 1725252682,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 297262,
+      "num": 187878,
+      "word": "辛巴删除最新文章",
+      "onboard_time": 1725790459,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 297247,
@@ -8939,6 +8947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 235643,
+      "num": 235643,
+      "word": "周也叶片妆",
+      "onboard_time": 1725789619,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 235639,
       "num": 235639,
       "word": "边伯贤回归",
@@ -9531,14 +9547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219150,
-      "num": 219150,
-      "word": "周也叶片妆",
-      "onboard_time": 1725789619,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 218988,
       "num": 443724,
       "word": "湖南一地大量蜉蝣婚飞如下雪",
@@ -9553,6 +9561,14 @@
       "onboard_time": 1725620840,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218892,
+      "num": 187677,
+      "word": "韩国舍友手写的中文信",
+      "onboard_time": 1725789679,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 218778,
@@ -10049,6 +10065,14 @@
       "onboard_time": 1725457220,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208469,
+      "num": 208469,
+      "word": "易烊千玺沙漠写真",
+      "onboard_time": 1725791239,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 208427,
@@ -10587,6 +10611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201565,
+      "num": 187660,
+      "word": "学生钓鱼被警告校长转头安排了比赛",
+      "onboard_time": 1725787219,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201563,
       "num": 201563,
       "word": "发现孙颖莎爱吃的东西也像个乒乓球",
@@ -10865,14 +10897,6 @@
       "onboard_time": 1725545724,
       "rank": 40,
       "category": "动漫,游戏"
-    },
-    {
-      "raw_hot": 198957,
-      "num": 177988,
-      "word": "韩国舍友手写的中文信",
-      "onboard_time": 1725789679,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 198951,
@@ -11451,6 +11475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193546,
+      "num": 193546,
+      "word": "TMA颁奖礼",
+      "onboard_time": 1725791658,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 193498,
       "num": 279480,
       "word": "朱志鑫最终战的礼物是有光",
@@ -11931,6 +11963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188394,
+      "num": 187994,
+      "word": "张真源开学了",
+      "onboard_time": 1725790638,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188240,
       "num": 188240,
       "word": "崔然竣9月SOLO出道",
@@ -12139,14 +12179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187061,
-      "num": 187061,
-      "word": "学生钓鱼被警告校长转头安排了比赛",
-      "onboard_time": 1725787219,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187024,
       "num": 187024,
       "word": "郑钦文不敌萨巴伦卡",
@@ -12264,14 +12296,6 @@
       "word": "谭松韵济南活动",
       "onboard_time": 1725682519,
       "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 185243,
-      "num": 185243,
-      "word": "张真源开学了",
-      "onboard_time": 1725790638,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -13739,14 +13763,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 171429,
-      "num": 171429,
-      "word": "辛巴删除最新文章",
-      "onboard_time": 1725790459,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 171412,
       "num": 499686,
       "word": "中年后我成了没有朋友的人",
@@ -13963,12 +13979,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168836,
+      "num": 168836,
+      "word": "LCK",
+      "onboard_time": 1725787760,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 168756,
       "num": 168756,
       "word": "李兰迪好真诚",
       "onboard_time": 1725324741,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168746,
+      "num": 168746,
+      "word": "王一博 你知道苦瓜吗",
+      "onboard_time": 1725791060,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 168657,
@@ -15883,6 +15915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 151508,
+      "num": 151508,
+      "word": "16岁少年剪头烫发被索要4000元",
+      "onboard_time": 1725790999,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151404,
       "num": 151404,
       "word": "徐嘉余亲手喂王楚钦吃月饼",
@@ -16329,14 +16369,6 @@
       "onboard_time": 1725519320,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 146933,
-      "num": 146933,
-      "word": "LCK",
-      "onboard_time": 1725787760,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 146931,
@@ -18331,6 +18363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118730,
+      "num": 118730,
+      "word": "秦俊杰剧透沈磊结局",
+      "onboard_time": 1725790880,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118347,
       "num": 118347,
       "word": "华为三折叠更多配置曝光",
@@ -19033,6 +19073,14 @@
       "onboard_time": 1725508820,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 100397,
+      "num": 100397,
+      "word": "2025优酷年度片单",
+      "onboard_time": 1725791779,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 100261,
@@ -20979,6 +21027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48132,
+      "num": 298401,
+      "word": "酸酸乳的这波回忆杀谁懂啊",
+      "onboard_time": 1725788419,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 47891,
       "num": 426985,
       "word": "谁懂SKII新品的含金量",
@@ -21505,14 +21561,6 @@
       "onboard_time": 1725435081,
       "rank": 47,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 38961,
-      "num": 298401,
-      "word": "酸酸乳的这波回忆杀谁懂啊",
-      "onboard_time": 1725788419,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 38743,

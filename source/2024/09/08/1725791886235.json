@@ -1,0 +1,410 @@
+{
+  "runTime": 1725791886235,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 919735,
+        "num": 1147157,
+        "word": "刘梓晨为赵露思发声",
+        "onboard_time": 1725786860,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 631367,
+        "num": 631367,
+        "word": "中学生心脏骤停被同学1分钟救回",
+        "onboard_time": 1725775879,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50871,
+        "num": 494095,
+        "word": "神十八航天员太空出差Vlog上新",
+        "onboard_time": 1725785780,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 477025,
+        "num": 477025,
+        "word": "中秋节假期3天高速不免费",
+        "onboard_time": 1725786018,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468498,
+        "num": 468498,
+        "word": "防晒衣割不动年轻人了",
+        "onboard_time": 1725786140,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459378,
+        "num": 459378,
+        "word": "郑钦文美网轰出54记ACE排名第一",
+        "onboard_time": 1725787640,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 386175,
+        "num": 386175,
+        "word": "关晓彤来我们学校拍戏了",
+        "onboard_time": 1725785899,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383587,
+        "num": 383587,
+        "word": "上海华东路交通事故致5人死亡",
+        "onboard_time": 1725779418,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235643,
+        "num": 235643,
+        "word": "周也叶片妆",
+        "onboard_time": 1725789619,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161985,
+        "num": 233054,
+        "word": "下星期上班时间有变",
+        "onboard_time": 1725785598,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1438534,
+        "num": 228057,
+        "word": "韩安冉床头成了网红打卡点",
+        "onboard_time": 1725788058,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 48132,
+        "num": 225742,
+        "word": "酸酸乳的这波回忆杀谁懂啊",
+        "onboard_time": 1725788419,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258856,
+        "num": 219139,
+        "word": "江西一小汽车撞飞2名骑行者均死亡",
+        "onboard_time": 1725781040,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471315,
+        "num": 216964,
+        "word": "女子金店用嘴盗走小金豆",
+        "onboard_time": 1725786978,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1141558,
+        "num": 210603,
+        "word": "网红刘灿意外溺水去世",
+        "onboard_time": 1725781999,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 208469,
+        "num": 208469,
+        "word": "易烊千玺沙漠写真",
+        "onboard_time": 1725791239,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207920,
+        "num": 207920,
+        "word": "TMA颁奖礼aespa红毯",
+        "onboard_time": 1725790039,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203899,
+        "num": 203899,
+        "word": "张晚意王楚然从名字开始般配",
+        "onboard_time": 1725781159,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193546,
+        "num": 193546,
+        "word": "TMA颁奖礼",
+        "onboard_time": 1725791658,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188094,
+        "num": 188094,
+        "word": "杀猪盘已盯上朋友圈",
+        "onboard_time": 1725783799,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353966,
+        "num": 188046,
+        "word": "赵丽颖 一筷子就夹亿点点",
+        "onboard_time": 1725788240,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188394,
+        "num": 187994,
+        "word": "张真源开学了",
+        "onboard_time": 1725790638,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328665,
+        "num": 187931,
+        "word": "张大大为赵露思发声",
+        "onboard_time": 1725772459,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297262,
+        "num": 187878,
+        "word": "辛巴删除最新文章",
+        "onboard_time": 1725790459,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 261582,
+        "num": 187822,
+        "word": "两年后收到了同一个外卖小哥的信息",
+        "onboard_time": 1725783018,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262151,
+        "num": 187749,
+        "word": "小杨哥哭了",
+        "onboard_time": 1725761959,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 218892,
+        "num": 187677,
+        "word": "韩国舍友手写的中文信",
+        "onboard_time": 1725789679,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201565,
+        "num": 187660,
+        "word": "学生钓鱼被警告校长转头安排了比赛",
+        "onboard_time": 1725787219,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192268,
+        "num": 187591,
+        "word": "男子卧推100公斤被压甩鞋求救",
+        "onboard_time": 1725780799,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192224,
+        "num": 187550,
+        "word": "辛巴再度发文痛斥小杨哥",
+        "onboard_time": 1725763519,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 187492,
+        "num": 187492,
+        "word": "金靖怀孕九个月状态",
+        "onboard_time": 1725772039,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172477,
+        "num": 172477,
+        "word": "爱奇艺已退款",
+        "onboard_time": 1725772940,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168836,
+        "num": 168836,
+        "word": "LCK",
+        "onboard_time": 1725787760,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168746,
+        "num": 168746,
+        "word": "王一博 你知道苦瓜吗",
+        "onboard_time": 1725791060,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164758,
+        "num": 164758,
+        "word": "四川人吃火锅开始涮粉木耳了",
+        "onboard_time": 1725786619,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 154275,
+        "num": 154275,
+        "word": "谁懂邓恩熙推开那一下啊",
+        "onboard_time": 1725780499,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151508,
+        "num": 151508,
+        "word": "16岁少年剪头烫发被索要4000元",
+        "onboard_time": 1725790999,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148700,
+        "num": 148700,
+        "word": "一建实务",
+        "onboard_time": 1725787459,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148220,
+        "num": 148220,
+        "word": "男孩骑行身亡案司机涉刑责合理吗",
+        "onboard_time": 1725784819,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145125,
+        "num": 145125,
+        "word": "高卿尘高中瘦了15公斤被6个人追",
+        "onboard_time": 1725789020,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141418,
+        "num": 141418,
+        "word": "秦彻 陆沉",
+        "onboard_time": 1725777138,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141253,
+        "num": 141253,
+        "word": "超192万人盲订华为三折叠手机",
+        "onboard_time": 1725785420,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 135721,
+        "num": 135721,
+        "word": "丁禹兮演技",
+        "onboard_time": 1725789259,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130166,
+        "num": 130166,
+        "word": "第九代张起灵封神",
+        "onboard_time": 1725774498,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123713,
+        "num": 123713,
+        "word": "这种糖突然在小孩圈爆火",
+        "onboard_time": 1725788359,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118730,
+        "num": 118730,
+        "word": "秦俊杰剧透沈磊结局",
+        "onboard_time": 1725790880,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112228,
+        "num": 112228,
+        "word": "秦彻 北境之主",
+        "onboard_time": 1725788659,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104202,
+        "num": 104202,
+        "word": "王一博 感觉我俩有点暧昧了",
+        "onboard_time": 1725780559,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101710,
+        "num": 101710,
+        "word": "第一次见门票上这样的注意事项",
+        "onboard_time": 1725785720,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100397,
+        "num": 100397,
+        "word": "2025优酷年度片单",
+        "onboard_time": 1725791779,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络安全对国家安全牵一发而动全身#"
+    }
+  }
+}
