@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725766681467,
+  "endTime": 1725769475747,
   "band_list": [
     {
       "raw_hot": 1779595,
@@ -19,7 +19,7 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1447359,
+      "raw_hot": 1549930,
       "num": 288268,
       "word": "日本游客在圆明园拍照被网红制止",
       "onboard_time": 1725764599,
@@ -27,11 +27,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1306998,
+      "num": 1306998,
+      "word": "金靖宣布停工待产",
+      "onboard_time": 1725768138,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 982333,
       "num": 1136556,
       "word": "警方回应格斗女运动员遭猥亵",
       "onboard_time": 1725756678,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 964052,
+      "num": 964052,
+      "word": "知情人称猝死外卖员每天跑上百单",
+      "onboard_time": 1725766939,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -48,6 +64,14 @@
       "word": "海口网红餐厅被摩羯撕碎了",
       "onboard_time": 1725729316,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 881809,
+      "num": 881809,
+      "word": "19块9小火锅围猎海底捞",
+      "onboard_time": 1725763818,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -163,6 +187,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 469134,
+      "num": 469134,
+      "word": "美宇航员太空出差8天变被困8个月",
+      "onboard_time": 1725768500,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 465413,
+      "num": 465413,
+      "word": "朱珠 拒绝无聊穿搭",
+      "onboard_time": 1725764179,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 443716,
       "num": 443716,
       "word": "200兆网速实际只有20兆",
@@ -243,14 +283,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 365543,
-      "num": 365543,
-      "word": "朱珠 拒绝无聊穿搭",
-      "onboard_time": 1725764179,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 349222,
       "num": 349222,
       "word": "中级会计",
@@ -299,12 +331,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 293924,
-      "num": 293924,
-      "word": "19块9小火锅围猎海底捞",
-      "onboard_time": 1725763818,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 289341,
+      "num": 217232,
+      "word": "沙和尚被贬下界来不是没道理的",
+      "onboard_time": 1725764418,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 280171,
+      "num": 280171,
+      "word": "中国队94金73银49铜断层领跑",
+      "onboard_time": 1725766878,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 270286,
@@ -371,12 +411,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 242446,
-      "num": 217232,
-      "word": "沙和尚被贬下界来不是没道理的",
-      "onboard_time": 1725764418,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 240427,
+      "num": 240427,
+      "word": "这些水果是典型的高糖刺客",
+      "onboard_time": 1725764898,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 234796,
@@ -417,6 +457,14 @@
       "onboard_time": 1725757637,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205646,
+      "num": 205646,
+      "word": "宋亚轩粉色针织帽",
+      "onboard_time": 1725768380,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 201539,
@@ -467,6 +515,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187910,
+      "num": 202808,
+      "word": "桃花映江山杀青",
+      "onboard_time": 1725768859,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 183177,
+      "num": 183177,
+      "word": "章子怡汪峰儿子侧脸",
+      "onboard_time": 1725768980,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181007,
       "num": 308025,
       "word": "华为三折叠硬刚苹果",
@@ -491,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173761,
+      "num": 173761,
+      "word": "粉笔模考",
+      "onboard_time": 1725766578,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 172577,
       "num": 172577,
       "word": "似锦",
@@ -513,14 +585,6 @@
       "onboard_time": 1725762919,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163313,
-      "num": 163313,
-      "word": "这些水果是典型的高糖刺客",
-      "onboard_time": 1725764898,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 162147,
@@ -571,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153183,
+      "num": 153183,
+      "word": "现在就出发",
+      "onboard_time": 1725767120,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151333,
       "num": 167609,
       "word": "Yamy喊话吴宣仪为火箭少女101办节目",
@@ -593,14 +665,6 @@
       "onboard_time": 1725716602,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141044,
-      "num": 141044,
-      "word": "粉笔模考",
-      "onboard_time": 1725766578,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 141016,
@@ -627,12 +691,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137418,
+      "num": 137418,
+      "word": "台风来了Duck不避",
+      "onboard_time": 1725767478,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136973,
       "num": 102973,
       "word": "黄奕黄晓明已不是当初的萧剑小燕子了",
       "onboard_time": 1725715520,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136247,
+      "num": 136247,
+      "word": "时代少年团楼间楼DVD花絮",
+      "onboard_time": 1725769040,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 135267,
@@ -659,11 +739,27 @@
       "category": "教育"
     },
     {
+      "raw_hot": 129690,
+      "num": 129690,
+      "word": "新疆巴州我的下一个赛博家乡",
+      "onboard_time": 1725768259,
+      "rank": 34,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 126362,
       "num": 163061,
       "word": "北京时间其实产自西安",
       "onboard_time": 1725754398,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125387,
+      "num": 231597,
+      "word": "排队2000桌10元寿司杀进北京",
+      "onboard_time": 1725765858,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -697,6 +793,14 @@
       "onboard_time": 1725724999,
       "rank": 34,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 121196,
+      "num": 121196,
+      "word": "国足赛前受冷遇大量余票待售",
+      "onboard_time": 1725766939,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 120174,
@@ -779,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107890,
+      "num": 107890,
+      "word": "一建管理",
+      "onboard_time": 1725767180,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 107717,
       "num": 107717,
       "word": "四方馆反转看得我一愣接一愣",
@@ -859,12 +971,52 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97236,
+      "num": 97236,
+      "word": "周深扭秧歌",
+      "onboard_time": 1725769220,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 96044,
+      "num": 279637,
+      "word": "市监回应老人称在足浴店消费32万",
+      "onboard_time": 1725768020,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95370,
+      "num": 95370,
+      "word": "国足对阵沙特主场赛仍有大量余票",
+      "onboard_time": 1725768619,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 94869,
+      "num": 94869,
+      "word": "德国乒乓名将波尔说樊振东最难打",
+      "onboard_time": 1725768380,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94478,
       "num": 94478,
       "word": "2024年网络安全宣传周",
       "onboard_time": 1725764599,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93107,
+      "num": 93107,
+      "word": "朱志鑫闪钻牛仔裤",
+      "onboard_time": 1725768560,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 92013,
@@ -955,14 +1107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65570,
-      "num": 231597,
-      "word": "排队2000桌10元寿司杀进北京",
-      "onboard_time": 1725765858,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 65350,
       "num": 65350,
       "word": "摩羯过境后现场实拍",
@@ -1011,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51207,
+      "num": 204273,
+      "word": "汪苏泷旷野音乐节",
+      "onboard_time": 1725769279,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 50991,
       "num": 292451,
       "word": "雪域高原焕新貌",
@@ -1036,7 +1188,7 @@
     },
     {
       "raw_hot": 39482,
-      "num": 502741,
+      "num": 907521,
       "word": "2024年国家网络安全宣传周",
       "onboard_time": 1725765617,
       "rank": 2,
@@ -1147,6 +1299,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 13288,
+      "num": 92864,
+      "word": "颐莲嘭嘭霜",
+      "onboard_time": 1725766640,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 11439,
       "num": 35099,
       "word": "奥运冠军版我和我的祖国",
@@ -1161,14 +1321,6 @@
       "onboard_time": 1725735253,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6680,
-      "num": 88626,
-      "word": "颐莲嘭嘭霜",
-      "onboard_time": 1725766640,
-      "rank": 49,
-      "category": "美妆"
     }
   ],
   "hotgov_list": [
