@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725769475747,
+  "endTime": 1725770318474,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -787,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1474796,
+      "num": 1474796,
+      "word": "金靖宣布停工待产",
+      "onboard_time": 1725768138,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1473807,
       "num": 493840,
       "word": "在朋友圈骂了一年老板发现忘记屏蔽",
@@ -880,6 +888,14 @@
       "word": "娃哈哈遭多名前员工起诉",
       "onboard_time": 1725674118,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1415795,
+      "num": 1415795,
+      "word": "知情人称猝死外卖员每天跑上百单",
+      "onboard_time": 1725766939,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -1033,14 +1049,6 @@
       "onboard_time": 1725694339,
       "rank": 33,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1306998,
-      "num": 1306998,
-      "word": "金靖宣布停工待产",
-      "onboard_time": 1725768138,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1306694,
@@ -1768,14 +1776,6 @@
       "word": "88VIP称正分批邀商家开通微信支付",
       "onboard_time": 1725441441,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 964052,
-      "num": 964052,
-      "word": "知情人称猝死外卖员每天跑上百单",
-      "onboard_time": 1725766939,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -4579,6 +4579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 497804,
+      "num": 497804,
+      "word": "美宇航员太空出差8天变被困8个月",
+      "onboard_time": 1725768500,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 497478,
       "num": 497478,
       "word": "AG对战狼队",
@@ -4889,14 +4897,6 @@
       "onboard_time": 1725167240,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 469134,
-      "num": 469134,
-      "word": "美宇航员太空出差8天变被困8个月",
-      "onboard_time": 1725768500,
-      "rank": 5,
-      "category": "国外时政"
     },
     {
       "raw_hot": 469077,
@@ -5499,6 +5499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 408176,
+      "num": 224301,
+      "word": "章子怡汪峰儿子侧脸",
+      "onboard_time": 1725768980,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 407445,
       "num": 407445,
       "word": "华为三折手机命名MateXT非凡大师",
@@ -5577,6 +5585,14 @@
       "onboard_time": 1725173299,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399289,
+      "num": 399289,
+      "word": "中国队94金73银49铜断层领跑",
+      "onboard_time": 1725766878,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 398866,
@@ -6003,6 +6019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358577,
+      "num": 240427,
+      "word": "这些水果是典型的高糖刺客",
+      "onboard_time": 1725764898,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 358419,
       "num": 358419,
       "word": "赵露思高清怼脸",
@@ -6041,6 +6065,14 @@
       "onboard_time": 1725258681,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 353979,
+      "num": 217483,
+      "word": "黄一鸣晒女儿报平安",
+      "onboard_time": 1725769579,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 353929,
@@ -6265,6 +6297,14 @@
       "onboard_time": 1725444500,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 337570,
+      "num": 217232,
+      "word": "沙和尚被贬下界来不是没道理的",
+      "onboard_time": 1725764418,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 337298,
@@ -7027,14 +7067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 289341,
-      "num": 217232,
-      "word": "沙和尚被贬下界来不是没道理的",
-      "onboard_time": 1725764418,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 289251,
       "num": 334638,
       "word": "惠英红评论区 请狠狠鞭策我",
@@ -7265,14 +7297,6 @@
       "onboard_time": 1725646693,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 280171,
-      "num": 280171,
-      "word": "中国队94金73银49铜断层领跑",
-      "onboard_time": 1725766878,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 280122,
@@ -8425,14 +8449,6 @@
       "onboard_time": 1725252981,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 240427,
-      "num": 240427,
-      "word": "这些水果是典型的高糖刺客",
-      "onboard_time": 1725764898,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 240330,
@@ -11995,14 +12011,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183177,
-      "num": 183177,
-      "word": "章子怡汪峰儿子侧脸",
-      "onboard_time": 1725768980,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 183150,
       "num": 183150,
       "word": "DAY6空降",
@@ -12369,6 +12377,14 @@
       "onboard_time": 1725202581,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179509,
+      "num": 279637,
+      "word": "市监回应老人称在足浴店消费32万",
+      "onboard_time": 1725768020,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179483,
@@ -12801,6 +12817,14 @@
       "onboard_time": 1725598700,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175392,
+      "num": 175392,
+      "word": "50箱五粮液侧翻倒地一瓶没碎",
+      "onboard_time": 1725769639,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175381,
@@ -14395,6 +14419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159502,
+      "num": 182313,
+      "word": "老外沉浸式逛美国敦煌文化展",
+      "onboard_time": 1725770060,
+      "rank": 22,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 159474,
       "num": 169386,
       "word": "欧阳娜娜 你就只跟她玩也不在乎我",
@@ -15145,6 +15177,14 @@
       "onboard_time": 1725538640,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153500,
+      "num": 153500,
+      "word": "时代少年团楼间楼DVD花絮",
+      "onboard_time": 1725769040,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 153484,
@@ -16467,14 +16507,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 136247,
-      "num": 136247,
-      "word": "时代少年团楼间楼DVD花絮",
-      "onboard_time": 1725769040,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 136154,
       "num": 136154,
       "word": "下属变成上司是什么体验",
@@ -17435,6 +17467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120026,
+      "num": 120026,
+      "word": "探索新境",
+      "onboard_time": 1725128594,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119909,
       "num": 594017,
       "word": "中产返贫只需要一个暑假吗",
@@ -18011,6 +18051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105762,
+      "num": 105762,
+      "word": "德国乒乓名将波尔说樊振东最难打",
+      "onboard_time": 1725768380,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105189,
       "num": 105189,
       "word": "为什么人在坐车的时候容易犯困",
@@ -18307,14 +18355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 96044,
-      "num": 279637,
-      "word": "市监回应老人称在足浴店消费32万",
-      "onboard_time": 1725768020,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 95952,
       "num": 95952,
       "word": "为什么女性比男性更容易失眠",
@@ -18344,14 +18384,6 @@
       "word": "国足对阵沙特主场赛仍有大量余票",
       "onboard_time": 1725768619,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 94869,
-      "num": 94869,
-      "word": "德国乒乓名将波尔说樊振东最难打",
-      "onboard_time": 1725768380,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -18411,12 +18443,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93514,
+      "num": 93514,
+      "word": "说方言真的会影响一个人的颜值吗",
+      "onboard_time": 1725769999,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93322,
       "num": 93322,
       "word": "俄军导弹袭击乌波尔塔瓦州",
       "onboard_time": 1725492436,
       "rank": 36,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 93225,
+      "num": 93225,
+      "word": "苏州新式肉月饼一推出就成爆款",
+      "onboard_time": 1725770119,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 93107,
@@ -18579,6 +18627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87620,
+      "num": 87620,
+      "word": "音乐缘计划十连唱一次听个爽",
+      "onboard_time": 1725769878,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87312,
       "num": 87312,
       "word": "范志毅0比4骂早了",
@@ -18705,6 +18761,14 @@
       "onboard_time": 1725467417,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81214,
+      "num": 205181,
+      "word": "唐香玉反打催婚 鲨疯了",
+      "onboard_time": 1725769760,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 81121,
@@ -20817,14 +20881,6 @@
       "onboard_time": 1725264320,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34225,
-      "num": 45928,
-      "word": "探索新境",
-      "onboard_time": 1725128594,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 34157,
