@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725773858727,
+  "endTime": 1725776859066,
   "band_list": [
     {
       "raw_hot": 1779595,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1477738,
+      "num": 1477738,
+      "word": "张大大为赵露思发声",
+      "onboard_time": 1725772459,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1474796,
       "num": 1474796,
       "word": "金靖宣布停工待产",
@@ -43,14 +51,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1322923,
-      "num": 1322923,
-      "word": "张大大为赵露思发声",
-      "onboard_time": 1725772459,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1034129,
       "num": 1127017,
       "word": "美宇航员太空出差8天变被困8个月",
@@ -64,6 +64,14 @@
       "word": "警方回应格斗女运动员遭猥亵",
       "onboard_time": 1725756678,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 955139,
+      "num": 955139,
+      "word": "2男子盗播超8万部剧集获利3.92亿",
+      "onboard_time": 1725772340,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 907819,
-      "num": 340781,
+      "num": 394851,
       "word": "50箱五粮液侧翻倒地一瓶没碎",
       "onboard_time": 1725769639,
       "rank": 26,
@@ -107,8 +115,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 801834,
-      "num": 801834,
+      "raw_hot": 813926,
+      "num": 813926,
       "word": "宋浩然在产房直播卖货",
       "onboard_time": 1725770720,
       "rank": 3,
@@ -145,6 +153,14 @@
       "onboard_time": 1725762319,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 700425,
+      "num": 700425,
+      "word": "爱奇艺已退款",
+      "onboard_time": 1725772940,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 687585,
@@ -219,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 509187,
+      "num": 428245,
+      "word": "金靖怀孕九个月状态",
+      "onboard_time": 1725772039,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 492165,
       "num": 356364,
       "word": "G社拍的赵露思生图",
@@ -275,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 408104,
+      "num": 408104,
+      "word": "广州一幼儿园爆改成老年大学",
+      "onboard_time": 1725770720,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405493,
       "num": 206385,
       "word": "晨起后这4个表现说明血脂可能高了",
@@ -291,20 +323,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 404737,
+      "num": 404737,
+      "word": "明侦团综",
+      "onboard_time": 1725774678,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 399289,
       "num": 399289,
       "word": "中国队94金73银49铜断层领跑",
       "onboard_time": 1725766878,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 390144,
-      "num": 390144,
-      "word": "2男子盗播超8万部剧集获利3.92亿",
-      "onboard_time": 1725772340,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 386303,
@@ -337,6 +369,14 @@
       "onboard_time": 1725761719,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 360194,
+      "num": 360194,
+      "word": "第九代张起灵封神",
+      "onboard_time": 1725774498,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 358577,
@@ -387,8 +427,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 325357,
-      "num": 325357,
+      "raw_hot": 326894,
+      "num": 326894,
       "word": "欧弟三胎女儿出生",
       "onboard_time": 1725772340,
       "rank": 30,
@@ -417,14 +457,6 @@
       "onboard_time": 1725761658,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 294957,
-      "num": 294957,
-      "word": "爱奇艺已退款",
-      "onboard_time": 1725772940,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 294914,
@@ -523,14 +555,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 232470,
-      "num": 232470,
-      "word": "金靖怀孕九个月状态",
-      "onboard_time": 1725772039,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 232341,
       "num": 232341,
       "word": "闪耀暖暖",
@@ -547,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230003,
+      "num": 230003,
+      "word": "中学生心脏骤停被同学1分钟救回",
+      "onboard_time": 1725775879,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228972,
       "num": 228972,
       "word": "王昶想在梁伟铿婚礼唱感谢你曾来过",
@@ -561,6 +593,22 @@
       "onboard_time": 1725714679,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216970,
+      "num": 216970,
+      "word": "花花和叶同框出外场",
+      "onboard_time": 1725775699,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215322,
+      "num": 215322,
+      "word": "亚人",
+      "onboard_time": 1725772879,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205646,
@@ -600,14 +648,6 @@
       "word": "男子拉50箱五粮液不绑绳倒一地",
       "onboard_time": 1725729376,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193189,
-      "num": 193189,
-      "word": "广州一幼儿园爆改成老年大学",
-      "onboard_time": 1725770720,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -667,14 +707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179143,
-      "num": 179143,
-      "word": "亚人",
-      "onboard_time": 1725772879,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175855,
       "num": 191478,
       "word": "你们一来我们的心里面就舒服了",
@@ -721,6 +753,14 @@
       "onboard_time": 1725726138,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161203,
+      "num": 161203,
+      "word": "孙颖莎王曼昱适应性训练",
+      "onboard_time": 1725774079,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 159506,
@@ -819,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142614,
+      "num": 142614,
+      "word": "新疆偶遇李现",
+      "onboard_time": 1725774678,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141016,
       "num": 141016,
       "word": "赵丽颖白婚纱",
@@ -865,6 +913,14 @@
       "onboard_time": 1725753257,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133203,
+      "num": 133203,
+      "word": "边水男团黑白大片",
+      "onboard_time": 1725776120,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 132276,
@@ -961,6 +1017,14 @@
       "onboard_time": 1725766939,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120701,
+      "num": 120701,
+      "word": "上海交大校长称给青年吃成长定心丸",
+      "onboard_time": 1725772520,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120252,
@@ -1107,20 +1171,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 104808,
-      "num": 104808,
-      "word": "上海交大校长称给青年吃成长定心丸",
-      "onboard_time": 1725772520,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104656,
       "num": 104656,
       "word": "原来用荷叶喝茶更好喝是真的",
       "onboard_time": 1725762379,
       "rank": 49,
       "category": "美食,健康医疗"
+    },
+    {
+      "raw_hot": 104471,
+      "num": 104471,
+      "word": "沈琳骂了老板又拿了赔偿金",
+      "onboard_time": 1725776659,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 104443,
@@ -1187,6 +1251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 97220,
+      "num": 97220,
+      "word": "王一博登顶雪山",
+      "onboard_time": 1725774440,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 96699,
       "num": 96699,
       "word": "RNB有自己的TFBOYS",
@@ -1251,6 +1323,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 91747,
+      "num": 350551,
+      "word": "摩羯三次登陆都是超强台风级别",
+      "onboard_time": 1725772218,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91200,
       "num": 101121,
       "word": "樊振东去迪士尼玩了",
@@ -1267,11 +1347,35 @@
       "category": "情感"
     },
     {
+      "raw_hot": 89812,
+      "num": 89812,
+      "word": "断臂男孩无所畏惧挑战Uzi",
+      "onboard_time": 1725776778,
+      "rank": 47,
+      "category": "社会新闻,电竞"
+    },
+    {
+      "raw_hot": 89096,
+      "num": 89096,
+      "word": "宋亚轩帽子撞脸派大星",
+      "onboard_time": 1725774560,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88432,
       "num": 91895,
       "word": "张极难忘今宵",
       "onboard_time": 1725764360,
       "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 88155,
+      "num": 88155,
+      "word": "宝格丽CEO晒和赵露思合照",
+      "onboard_time": 1725776839,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -1347,6 +1451,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72159,
+      "num": 330561,
+      "word": "当一个妈决定给孩子进行死亡教育",
+      "onboard_time": 1725775219,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67119,
+      "num": 397375,
+      "word": "网红名号不是三无食品的遮羞布",
+      "onboard_time": 1725775819,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66981,
       "num": 99298,
       "word": "盛李豪又多了一个身份",
@@ -1420,18 +1540,10 @@
     },
     {
       "raw_hot": 50991,
-      "num": 837682,
+      "num": 857068,
       "word": "雪域高原焕新貌",
       "onboard_time": 1725765199,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50738,
-      "num": 350551,
-      "word": "摩羯三次登陆都是超强台风级别",
-      "onboard_time": 1725772218,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1523,6 +1635,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 25436,
+      "num": 235098,
+      "word": "凯迪拉克2年因同一问题三进4S店",
+      "onboard_time": 1725775219,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24929,
       "num": 38952,
       "word": "55岁的北京地铁也有隐藏款",
@@ -1601,6 +1721,14 @@
       "onboard_time": 1725735253,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7250,
+      "num": 244261,
+      "word": "王骁演的那伟就是一首凡人歌",
+      "onboard_time": 1725776539,
+      "rank": 17,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
