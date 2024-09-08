@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725780918783,
+  "endTime": 1725783866129,
   "band_list": [
     {
       "raw_hot": 2078695,
@@ -9,6 +9,14 @@
       "onboard_time": 1725775879,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1914920,
+      "num": 1914920,
+      "word": "网红刘灿意外溺水去世",
+      "onboard_time": 1725781999,
+      "rank": 0,
+      "category": "网红"
     },
     {
       "raw_hot": 1779595,
@@ -72,6 +80,14 @@
       "word": "警方回应格斗女运动员遭猥亵",
       "onboard_time": 1725756678,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 979819,
+      "num": 979819,
+      "word": "上海华东路交通事故致5人死亡",
+      "onboard_time": 1725779418,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -267,6 +283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 486916,
+      "num": 486916,
+      "word": "江西一小汽车撞飞2名骑行者均死亡",
+      "onboard_time": 1725781040,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 485465,
       "num": 485465,
       "word": "秦彻 陆沉",
@@ -280,6 +304,14 @@
       "word": "男子回沪发现房子被妻子出租",
       "onboard_time": 1725751816,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 471598,
+      "num": 331491,
+      "word": "女子2年被家暴16次称孕晚期还会被打",
+      "onboard_time": 1725781819,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -321,6 +353,14 @@
       "onboard_time": 1725755717,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 417198,
+      "num": 417198,
+      "word": "张晚意王楚然从名字开始般配",
+      "onboard_time": 1725781159,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 409739,
@@ -371,6 +411,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 400586,
+      "num": 326082,
+      "word": "盛李豪回母校被学弟贴脸开大",
+      "onboard_time": 1725779118,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 399289,
       "num": 399289,
       "word": "中国队94金73银49铜断层领跑",
@@ -411,12 +459,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 366383,
+      "num": 366383,
+      "word": "谁懂邓恩熙推开那一下啊",
+      "onboard_time": 1725780499,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 358577,
       "num": 240427,
       "word": "这些水果是典型的高糖刺客",
       "onboard_time": 1725764898,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 356499,
+      "num": 220646,
+      "word": "男子卧推100公斤被压甩鞋求救",
+      "onboard_time": 1725780799,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 354236,
@@ -507,12 +571,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 281875,
-      "num": 281875,
-      "word": "上海华东路交通事故致5人死亡",
-      "onboard_time": 1725779418,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 278703,
+      "num": 278703,
+      "word": "中级财管",
+      "onboard_time": 1725783078,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 271603,
+      "num": 271603,
+      "word": "王一博 感觉我俩有点暧昧了",
+      "onboard_time": 1725780559,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 270286,
@@ -531,12 +603,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 261627,
-      "num": 261627,
-      "word": "盛李豪回母校被学弟贴脸开大",
-      "onboard_time": 1725779118,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 258151,
+      "num": 258151,
+      "word": "于适中国骑射运动中心副主任",
+      "onboard_time": 1725778818,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 255512,
@@ -636,7 +708,7 @@
     },
     {
       "raw_hot": 227668,
-      "num": 186780,
+      "num": 208239,
       "word": "印度三女子为谋财设局毒杀4人",
       "onboard_time": 1725779959,
       "rank": 24,
@@ -649,14 +721,6 @@
       "onboard_time": 1725714679,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 217303,
-      "num": 217303,
-      "word": "于适中国骑射运动中心副主任",
-      "onboard_time": 1725778818,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 215322,
@@ -739,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189271,
+      "num": 189271,
+      "word": "两年后收到了同一个外卖小哥的信息",
+      "onboard_time": 1725783018,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187922,
       "num": 187922,
       "word": "刘洋因伤离开国家队",
@@ -795,6 +867,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 173231,
+      "num": 173231,
+      "word": "辛巴说装可怜是网红惯用手段",
+      "onboard_time": 1725782419,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 172577,
       "num": 172577,
       "word": "似锦",
@@ -809,6 +889,14 @@
       "onboard_time": 1725778818,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 170757,
+      "num": 170757,
+      "word": "十大抗衰老运动",
+      "onboard_time": 1725778639,
+      "rank": 24,
+      "category": "运动健身"
     },
     {
       "raw_hot": 167675,
@@ -833,14 +921,6 @@
       "onboard_time": 1725762919,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163784,
-      "num": 163784,
-      "word": "十大抗衰老运动",
-      "onboard_time": 1725778639,
-      "rank": 24,
-      "category": "运动健身"
     },
     {
       "raw_hot": 162147,
@@ -907,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154670,
+      "num": 154670,
+      "word": "王楚钦梁靖崑林高远适应性训练",
+      "onboard_time": 1725781579,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154518,
       "num": 146938,
       "word": "马嘉祺 郑州",
@@ -937,6 +1025,14 @@
       "onboard_time": 1725767120,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152780,
+      "num": 152780,
+      "word": "相处起来舒服的活人感是什么",
+      "onboard_time": 1725780919,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151333,
@@ -971,20 +1067,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144489,
-      "num": 144489,
-      "word": "谁懂邓恩熙推开那一下啊",
-      "onboard_time": 1725780499,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142475,
       "num": 142475,
       "word": "宝格丽CEO晒和赵露思合照",
       "onboard_time": 1725776839,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142119,
+      "num": 142119,
+      "word": "小鹿吐槽老家婚礼吃席现状好真实",
+      "onboard_time": 1725780380,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 141016,
@@ -1099,11 +1195,27 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 128093,
+      "num": 142560,
+      "word": "戚薇刚起床就拍上大片了",
+      "onboard_time": 1725783437,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 126362,
       "num": 163061,
       "word": "北京时间其实产自西安",
       "onboard_time": 1725754398,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125458,
+      "num": 125458,
+      "word": "秦始皇帝陵考古发现首次集中亮相",
+      "onboard_time": 1725778818,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1179,28 +1291,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121190,
-      "num": 121190,
-      "word": "秦始皇帝陵考古发现首次集中亮相",
-      "onboard_time": 1725778818,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120701,
       "num": 120701,
       "word": "上海交大校长称给青年吃成长定心丸",
       "onboard_time": 1725772520,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120559,
-      "num": 120559,
-      "word": "王一博 感觉我俩有点暧昧了",
-      "onboard_time": 1725780559,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 120252,
@@ -1233,6 +1329,14 @@
       "onboard_time": 1725761839,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 118622,
+      "num": 118622,
+      "word": "婴儿供氧只剩1.5小时消防员出手了",
+      "onboard_time": 1725783560,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118618,
@@ -1283,19 +1387,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 114195,
-      "num": 114195,
-      "word": "小鹿吐槽老家婚礼吃席现状好真实",
-      "onboard_time": 1725780380,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 112903,
+      "num": 112903,
+      "word": "邓恩熙的荧幕初吻是丁禹兮",
+      "onboard_time": 1725781399,
+      "rank": 47,
+      "category": "剧集"
     },
     {
-      "raw_hot": 110690,
-      "num": 110690,
-      "word": "男子卧推100公斤被压甩鞋求救",
-      "onboard_time": 1725780799,
-      "rank": 44,
+      "raw_hot": 111980,
+      "num": 111980,
+      "word": "杀猪盘已盯上朋友圈",
+      "onboard_time": 1725783799,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1417,6 +1521,14 @@
       "onboard_time": 1725696500,
       "rank": 42,
       "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 101233,
+      "num": 260949,
+      "word": "严浩翔脸上点了雀斑",
+      "onboard_time": 1725783501,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 101162,
@@ -1708,7 +1820,7 @@
     },
     {
       "raw_hot": 50991,
-      "num": 899148,
+      "num": 1018256,
       "word": "雪域高原焕新貌",
       "onboard_time": 1725765199,
       "rank": 26,
@@ -1779,11 +1891,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32182,
+      "num": 338044,
+      "word": "起底app拉新骗局",
+      "onboard_time": 1725783018,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29663,
       "num": 38396,
       "word": "台风摩羯",
       "onboard_time": 1725698901,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27988,
+      "num": 287614,
+      "word": "专家谈年轻人想把结婚变成秋招",
+      "onboard_time": 1725783018,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

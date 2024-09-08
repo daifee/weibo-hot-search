@@ -1,0 +1,410 @@
+{
+  "runTime": 1725783866129,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1914920,
+        "num": 1914920,
+        "word": "网红刘灿意外溺水去世",
+        "onboard_time": 1725781999,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1198931,
+        "num": 1198931,
+        "word": "中学生心脏骤停被同学1分钟救回",
+        "onboard_time": 1725775879,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6821,
+        "num": 1018256,
+        "word": "雪域高原焕新貌",
+        "onboard_time": 1725765199,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 979819,
+        "num": 979819,
+        "word": "上海华东路交通事故致5人死亡",
+        "onboard_time": 1725779418,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501070,
+        "num": 501070,
+        "word": "爱奇艺已退款",
+        "onboard_time": 1725772940,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 486916,
+        "num": 486916,
+        "word": "江西一小汽车撞飞2名骑行者均死亡",
+        "onboard_time": 1725781040,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417198,
+        "num": 417198,
+        "word": "张晚意王楚然从名字开始般配",
+        "onboard_time": 1725781159,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366383,
+        "num": 366383,
+        "word": "谁懂邓恩熙推开那一下啊",
+        "onboard_time": 1725780499,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338516,
+        "num": 338516,
+        "word": "秦彻 陆沉",
+        "onboard_time": 1725777138,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 32182,
+        "num": 338044,
+        "word": "起底app拉新骗局",
+        "onboard_time": 1725783018,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471598,
+        "num": 331491,
+        "word": "女子2年被家暴16次称孕晚期还会被打",
+        "onboard_time": 1725781819,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400586,
+        "num": 326082,
+        "word": "盛李豪回母校被学弟贴脸开大",
+        "onboard_time": 1725779118,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 364394,
+        "num": 324717,
+        "word": "50箱五粮液侧翻倒地一瓶没碎",
+        "onboard_time": 1725769639,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321429,
+        "num": 321429,
+        "word": "2男子盗播超8万部剧集获利3.92亿",
+        "onboard_time": 1725772340,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27988,
+        "num": 287614,
+        "word": "专家谈年轻人想把结婚变成秋招",
+        "onboard_time": 1725783018,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278703,
+        "num": 278703,
+        "word": "中级财管",
+        "onboard_time": 1725783078,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 271603,
+        "num": 271603,
+        "word": "王一博 感觉我俩有点暧昧了",
+        "onboard_time": 1725780559,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101233,
+        "num": 260949,
+        "word": "严浩翔脸上点了雀斑",
+        "onboard_time": 1725783501,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258151,
+        "num": 258151,
+        "word": "于适中国骑射运动中心副主任",
+        "onboard_time": 1725778818,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239838,
+        "num": 239838,
+        "word": "金靖怀孕九个月状态",
+        "onboard_time": 1725772039,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1027677,
+        "num": 238231,
+        "word": "张大大为赵露思发声",
+        "onboard_time": 1725772459,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492541,
+        "num": 232567,
+        "word": "小杨哥哭了",
+        "onboard_time": 1725761959,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 461538,
+        "num": 229134,
+        "word": "宋浩然在产房直播卖货",
+        "onboard_time": 1725770720,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411506,
+        "num": 222286,
+        "word": "辛巴再度发文痛斥小杨哥",
+        "onboard_time": 1725763519,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 356499,
+        "num": 220646,
+        "word": "男子卧推100公斤被压甩鞋求救",
+        "onboard_time": 1725780799,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346112,
+        "num": 215621,
+        "word": "第九代张起灵封神",
+        "onboard_time": 1725774498,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261627,
+        "num": 209938,
+        "word": "金靖宣布停工待产",
+        "onboard_time": 1725768138,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208239,
+        "num": 208239,
+        "word": "印度三女子为谋财设局毒杀4人",
+        "onboard_time": 1725779959,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200957,
+        "num": 200957,
+        "word": "美宇航员太空出差8天变被困8个月",
+        "onboard_time": 1725768500,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 199695,
+        "num": 199695,
+        "word": "网红名号不是三无食品的遮羞布",
+        "onboard_time": 1725775819,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194802,
+        "num": 194802,
+        "word": "卢昱晓 一款存在于内娱的韩剧女主",
+        "onboard_time": 1725764477,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189271,
+        "num": 189271,
+        "word": "两年后收到了同一个外卖小哥的信息",
+        "onboard_time": 1725783018,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173231,
+        "num": 173231,
+        "word": "辛巴说装可怜是网红惯用手段",
+        "onboard_time": 1725782419,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 170757,
+        "num": 170757,
+        "word": "十大抗衰老运动",
+        "onboard_time": 1725778639,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 157198,
+        "num": 157198,
+        "word": "北体军训",
+        "onboard_time": 1725776360,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154670,
+        "num": 154670,
+        "word": "王楚钦梁靖崑林高远适应性训练",
+        "onboard_time": 1725781579,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153718,
+        "num": 153718,
+        "word": "岳云鹏让纪凌尘说话别带英文",
+        "onboard_time": 1725779718,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152780,
+        "num": 152780,
+        "word": "相处起来舒服的活人感是什么",
+        "onboard_time": 1725780919,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152055,
+        "num": 152055,
+        "word": "明侦团综",
+        "onboard_time": 1725774678,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128093,
+        "num": 142560,
+        "word": "戚薇刚起床就拍上大片了",
+        "onboard_time": 1725783437,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142119,
+        "num": 142119,
+        "word": "小鹿吐槽老家婚礼吃席现状好真实",
+        "onboard_time": 1725780380,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130498,
+        "num": 130498,
+        "word": "花花和叶同框出外场",
+        "onboard_time": 1725775699,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128903,
+        "num": 128903,
+        "word": "欧弟三胎女儿出生",
+        "onboard_time": 1725772340,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125458,
+        "num": 125458,
+        "word": "秦始皇帝陵考古发现首次集中亮相",
+        "onboard_time": 1725778818,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119062,
+        "num": 119062,
+        "word": "田曦薇无袖工装风",
+        "onboard_time": 1725779597,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118622,
+        "num": 118622,
+        "word": "婴儿供氧只剩1.5小时消防员出手了",
+        "onboard_time": 1725783560,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114804,
+        "num": 114804,
+        "word": "张艺谋你是真喜欢章宇啊",
+        "onboard_time": 1725777318,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112903,
+        "num": 112903,
+        "word": "邓恩熙的荧幕初吻是丁禹兮",
+        "onboard_time": 1725781399,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111980,
+        "num": 111980,
+        "word": "杀猪盘已盯上朋友圈",
+        "onboard_time": 1725783799,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111588,
+        "num": 111588,
+        "word": "王一博 怎么突然演起来了",
+        "onboard_time": 1725771260,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视我国教育事业发展#"
+    }
+  }
+}
