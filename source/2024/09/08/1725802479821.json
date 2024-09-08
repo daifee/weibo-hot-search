@@ -1,0 +1,410 @@
+{
+  "runTime": 1725802479821,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 886217,
+        "num": 1141794,
+        "word": "孙卓首度回应报考南工大原因",
+        "onboard_time": 1725798502,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769745,
+        "num": 769745,
+        "word": "泰国女孩来中国留学读大专",
+        "onboard_time": 1725794718,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56727,
+        "num": 502766,
+        "word": "巴黎残奥会泪目瞬间",
+        "onboard_time": 1725801500,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 465248,
+        "num": 465248,
+        "word": "张雨绮 不是长得丑就不是渣男",
+        "onboard_time": 1725796339,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373423,
+        "num": 373423,
+        "word": "湖南卫视酸甜之夜",
+        "onboard_time": 1725798259,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291810,
+        "num": 291810,
+        "word": "中秋节假期3天高速不免费",
+        "onboard_time": 1725786018,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343316,
+        "num": 289358,
+        "word": "赵露思早期视频",
+        "onboard_time": 1725797899,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 284718,
+        "num": 284718,
+        "word": "防晒衣割不动年轻人了",
+        "onboard_time": 1725786140,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129631,
+        "num": 242901,
+        "word": "檀健次 录播",
+        "onboard_time": 1725800898,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241500,
+        "num": 241500,
+        "word": "公务员招录扩大面试比例可行吗",
+        "onboard_time": 1725798619,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1094384,
+        "num": 241422,
+        "word": "大学生因一顿烧烤进ICU换了5次血",
+        "onboard_time": 1725794781,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32003,
+        "num": 241308,
+        "word": "20年了还是喜欢酸的甜",
+        "onboard_time": 1725800541,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 716453,
+        "num": 241271,
+        "word": "韩安冉床头成了网红打卡点",
+        "onboard_time": 1725788058,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 80894,
+        "num": 241069,
+        "word": "外卖小哥带娃抗癌被剐蹭车主反手转2千",
+        "onboard_time": 1725801320,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26747,
+        "num": 240947,
+        "word": "男子花费近万元提升学历机构失联",
+        "onboard_time": 1725801679,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471143,
+        "num": 240858,
+        "word": "网红刘灿意外溺水去世",
+        "onboard_time": 1725781999,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 323915,
+        "num": 240793,
+        "word": "2024MAMA日本场阵容",
+        "onboard_time": 1725801560,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 397380,
+        "num": 240632,
+        "word": "杜江霍思燕带儿女遛狗",
+        "onboard_time": 1725794899,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285047,
+        "num": 240503,
+        "word": "16岁少年理发被索要4000元",
+        "onboard_time": 1725793518,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19844,
+        "num": 240453,
+        "word": "直播电商野蛮生长没有出路",
+        "onboard_time": 1725801619,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1431474,
+        "num": 240321,
+        "word": "以后不准穷人写爽文",
+        "onboard_time": 1725801019,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 408009,
+        "num": 240198,
+        "word": "马嘉祺换头像了",
+        "onboard_time": 1725795019,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324593,
+        "num": 240093,
+        "word": "刘梓晨为赵露思发声",
+        "onboard_time": 1725786860,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240008,
+        "num": 240008,
+        "word": "aespa获TMA大赏",
+        "onboard_time": 1725799400,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 232738,
+        "num": 232738,
+        "word": "央视曝光轻医美乱象",
+        "onboard_time": 1725800419,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213313,
+        "num": 213313,
+        "word": "小杨哥带货标注直播间及橱窗非销售者",
+        "onboard_time": 1725797660,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 191926,
+        "num": 191926,
+        "word": "中学生心脏骤停被同学1分钟救回",
+        "onboard_time": 1725775879,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190015,
+        "num": 190015,
+        "word": "林诗栋4比3吴晙诚",
+        "onboard_time": 1725799459,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189579,
+        "num": 189579,
+        "word": "刘忻尚雯婕太帅了",
+        "onboard_time": 1725801560,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187705,
+        "num": 187705,
+        "word": "赵丽颖 一筷子就夹亿点点",
+        "onboard_time": 1725788240,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176163,
+        "num": 176163,
+        "word": "AG对战RW",
+        "onboard_time": 1725793819,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171158,
+        "num": 171158,
+        "word": "Tian 你是我的劫",
+        "onboard_time": 1725802399,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164941,
+        "num": 164941,
+        "word": "经济法 现场立法",
+        "onboard_time": 1725798139,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 161066,
+        "num": 161066,
+        "word": "汪东城孟佳开场",
+        "onboard_time": 1725801500,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157378,
+        "num": 157378,
+        "word": "AG超玩会 宝石流",
+        "onboard_time": 1725800658,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156756,
+        "num": 156756,
+        "word": "小学生俩月花15000元在文具店集卡",
+        "onboard_time": 1725792919,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154943,
+        "num": 154943,
+        "word": "余宇涵对接回应后续发展",
+        "onboard_time": 1725797839,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154859,
+        "num": 154859,
+        "word": "网传重庆9月降雪消息不属实",
+        "onboard_time": 1725802099,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141760,
+        "num": 141760,
+        "word": "HLE夺冠",
+        "onboard_time": 1725795081,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141759,
+        "num": 141759,
+        "word": "我爸瞒着我偷偷跑去看演唱会了",
+        "onboard_time": 1725794239,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138608,
+        "num": 138608,
+        "word": "摩羯吹倒海口树龄60年花梨王",
+        "onboard_time": 1725798320,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137507,
+        "num": 137507,
+        "word": "海口躲台风腿被夹业主一家平安",
+        "onboard_time": 1725802340,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136493,
+        "num": 136493,
+        "word": "赛车手是王一博职业规划一部分",
+        "onboard_time": 1725802459,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135047,
+        "num": 135047,
+        "word": "20元学生小饭桌正在被成年人占领",
+        "onboard_time": 1725800658,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134870,
+        "num": 134870,
+        "word": "钎城请求加您为好友",
+        "onboard_time": 1725801140,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134056,
+        "num": 134056,
+        "word": "医生为什么不愿意给熟人看病",
+        "onboard_time": 1725798079,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132364,
+        "num": 132364,
+        "word": "张大大为赵露思发声",
+        "onboard_time": 1725772459,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134602,
+        "num": 131950,
+        "word": "林诗栋阿拉木图站夺冠",
+        "onboard_time": 1725800000,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129781,
+        "num": 129781,
+        "word": "下星期上班时间有变",
+        "onboard_time": 1725785598,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129011,
+        "num": 129011,
+        "word": "胡兵的20个行李箱到底装了什么啊",
+        "onboard_time": 1725801019,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习进行时#"
+    }
+  }
+}
