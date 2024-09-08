@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/09 01:18:25
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/09 01:38:40
 </p>
 </blockquote>
 <p>
@@ -3549,6 +3549,12 @@ IVE未公开新歌SupernovaLove（热度：533963）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%A9%BA%E6%8C%82%E5%AD%A6%E7%B1%8D%E4%B9%B1%E8%B1%A1%23" target="weibo">
+央视曝光空挂学籍乱象（热度：510065）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23WBG%E5%AF%B9%E6%88%98JDG%23" target="weibo">
 WBG对战JDG（热度：509723）
 </a>
@@ -4517,12 +4523,6 @@ GEN和HLE决胜局（热度：407835）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%B1%E7%9D%80%E5%A9%B4%E5%84%BF%E6%A8%AA%E7%A9%BF%E9%A9%AC%E8%B7%AF%E8%A2%AB%E6%92%9E%E9%A3%9E%23" target="weibo">
 抱着婴儿横穿马路被撞飞（热度：398866）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%A9%BA%E6%8C%82%E5%AD%A6%E7%B1%8D%E4%B9%B1%E8%B1%A1%23" target="weibo">
-央视曝光空挂学籍乱象（热度：396317）
 </a>
 </li>
 

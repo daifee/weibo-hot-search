@@ -1,6 +1,6 @@
 {
   "startTime": 1725812757378,
-  "endTime": 1725815905652,
+  "endTime": 1725817120245,
   "band_list": [
     {
       "raw_hot": 886977,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 510065,
+      "num": 510065,
+      "word": "央视曝光空挂学籍乱象",
+      "onboard_time": 1725813616,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432286,
       "num": 247804,
       "word": "大学生因一顿烧烤进ICU换了5次血",
@@ -40,14 +48,6 @@
       "word": "央视曝光轻医美乱象",
       "onboard_time": 1725800419,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 396317,
-      "num": 396317,
-      "word": "央视曝光空挂学籍乱象",
-      "onboard_time": 1725813616,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 194215,
-      "num": 144225,
+      "num": 159882,
       "word": "重庆高温",
       "onboard_time": 1725812237,
       "rank": 22,
@@ -379,6 +379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 70571,
+      "num": 70571,
+      "word": "恋综 strong",
+      "onboard_time": 1725815954,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 69471,
       "num": 69471,
       "word": "2024华晨宇火星演唱会",
@@ -411,12 +419,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52453,
+      "num": 52453,
+      "word": "张含韵抢拍",
+      "onboard_time": 1725815235,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 50731,
       "num": 382884,
       "word": "一句古诗适配秋天",
       "onboard_time": 1725801019,
       "rank": 2,
       "category": "情感"
+    },
+    {
+      "raw_hot": 46149,
+      "num": 46149,
+      "word": "一点开以为是爸爸回来了",
+      "onboard_time": 1725815773,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 43636,
+      "num": 43636,
+      "word": "丁禹兮邓恩熙大大方方营业",
+      "onboard_time": 1725816854,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 42780,
@@ -427,25 +459,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 41386,
-      "num": 41386,
-      "word": "一点开以为是爸爸回来了",
-      "onboard_time": 1725815773,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 28544,
+      "raw_hot": 35483,
       "num": 161394,
       "word": "原来中国风山水画写意又写实",
       "onboard_time": 1725812598,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14667,
+      "num": 117374,
+      "word": "摩羯在越南造成大面积断电断网",
+      "onboard_time": 1725816554,
+      "rank": 9,
       "category": "社会新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#总书记引领网络强国建设#"
+    },
+    {
+      "word": "#学习进行时#"
     }
   ]
 }
