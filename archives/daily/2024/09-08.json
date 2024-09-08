@@ -1,10 +1,10 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725770318474,
+  "endTime": 1725772842253,
   "band_list": [
     {
       "raw_hot": 1779595,
-      "num": 230352,
+      "num": 248023,
       "word": "辛巴再度发文痛斥小杨哥",
       "onboard_time": 1725763519,
       "rank": 33,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1656185,
-      "num": 227291,
+      "num": 250358,
       "word": "小杨哥哭了",
       "onboard_time": 1725761959,
       "rank": 20,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 907819,
+      "num": 261900,
+      "word": "50箱五粮液侧翻倒地一瓶没碎",
+      "onboard_time": 1725769639,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 881809,
       "num": 881809,
       "word": "19块9小火锅围猎海底捞",
@@ -89,6 +97,14 @@
       "onboard_time": 1725705080,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 793861,
+      "num": 1127017,
+      "word": "美宇航员太空出差8天变被困8个月",
+      "onboard_time": 1725768500,
+      "rank": 5,
+      "category": "国外时政"
     },
     {
       "raw_hot": 776759,
@@ -155,6 +171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 549293,
+      "num": 398957,
+      "word": "宋浩然在产房直播卖货",
+      "onboard_time": 1725770720,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 543848,
       "num": 280607,
       "word": "广东一男子因暴雨后赤脚走路住进ICU",
@@ -171,12 +195,12 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 497804,
-      "num": 497804,
-      "word": "美宇航员太空出差8天变被困8个月",
-      "onboard_time": 1725768500,
-      "rank": 5,
-      "category": "国外时政"
+      "raw_hot": 534389,
+      "num": 261609,
+      "word": "黄一鸣晒女儿报平安",
+      "onboard_time": 1725769579,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 492165,
@@ -236,7 +260,7 @@
     },
     {
       "raw_hot": 408176,
-      "num": 224301,
+      "num": 391201,
       "word": "章子怡汪峰儿子侧脸",
       "onboard_time": 1725768980,
       "rank": 24,
@@ -307,14 +331,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 353979,
-      "num": 217483,
-      "word": "黄一鸣晒女儿报平安",
-      "onboard_time": 1725769579,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 349222,
       "num": 349222,
       "word": "中级会计",
@@ -324,7 +340,7 @@
     },
     {
       "raw_hot": 337570,
-      "num": 217232,
+      "num": 217815,
       "word": "沙和尚被贬下界来不是没道理的",
       "onboard_time": 1725764418,
       "rank": 25,
@@ -337,6 +353,14 @@
       "onboard_time": 1725750674,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 328557,
+      "num": 328557,
+      "word": "摩羯致海口文昌经济损失600亿元",
+      "onboard_time": 1725757637,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 312483,
@@ -387,12 +411,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260914,
+      "num": 260914,
+      "word": "王一博 怎么突然演起来了",
+      "onboard_time": 1725771260,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 255512,
       "num": 255512,
       "word": "秦岚被挤得瑟瑟发抖",
       "onboard_time": 1725749174,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 253609,
+      "num": 253609,
+      "word": "张大大为赵露思发声",
+      "onboard_time": 1725772459,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 252368,
@@ -419,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246288,
+      "num": 246288,
+      "word": "TOP登陆少年第一张合照",
+      "onboard_time": 1725771440,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245486,
       "num": 208310,
       "word": "蟹太太回应辛巴三只羊纠纷",
@@ -433,6 +481,14 @@
       "onboard_time": 1725706159,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 235400,
+      "num": 235400,
+      "word": "2男子盗播超8万部剧集获利3.92亿",
+      "onboard_time": 1725772340,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234796,
@@ -451,6 +507,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 232341,
+      "num": 232341,
+      "word": "闪耀暖暖",
+      "onboard_time": 1725770959,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 231494,
+      "num": 231494,
+      "word": "湖南卫视酸甜之夜节目单",
+      "onboard_time": 1725771080,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228972,
       "num": 228972,
       "word": "王昶想在梁伟铿婚礼唱感谢你曾来过",
@@ -467,12 +539,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 224695,
-      "num": 224695,
-      "word": "摩羯致海口文昌经济损失600亿元",
-      "onboard_time": 1725757637,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 222086,
+      "num": 205462,
+      "word": "欧弟三胎女儿出生",
+      "onboard_time": 1725772340,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 205646,
@@ -507,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192411,
+      "num": 192411,
+      "word": "广州一幼儿园爆改成老年大学",
+      "onboard_time": 1725770720,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189892,
       "num": 176599,
       "word": "潘玮柏 不爱吃不等于不吃",
@@ -521,6 +601,14 @@
       "onboard_time": 1725754517,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187929,
+      "num": 187929,
+      "word": "金靖怀孕九个月状态",
+      "onboard_time": 1725772039,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 187922,
@@ -568,14 +656,6 @@
       "word": "你们一来我们的心里面就舒服了",
       "onboard_time": 1725757576,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175392,
-      "num": 175392,
-      "word": "50箱五粮液侧翻倒地一瓶没碎",
-      "onboard_time": 1725769639,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -633,6 +713,14 @@
       "onboard_time": 1725770060,
       "rank": 22,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 157549,
+      "num": 157549,
+      "word": "戚薇李承铉庆祝结婚十周年",
+      "onboard_time": 1725771798,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 157010,
@@ -835,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120252,
+      "num": 120252,
+      "word": "崩铁玩家用直升机硬核应援",
+      "onboard_time": 1725772340,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 120174,
       "num": 120174,
       "word": "刘亦菲赵露思抱在一起",
@@ -979,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103349,
+      "num": 103349,
+      "word": "KPL夏决表演嘉宾官宣",
+      "onboard_time": 1725772340,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 103103,
       "num": 103103,
       "word": "名侦探柯南",
@@ -1024,6 +1128,14 @@
       "word": "周深扭秧歌",
       "onboard_time": 1725769220,
       "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 96699,
+      "num": 96699,
+      "word": "RNB有自己的TFBOYS",
+      "onboard_time": 1725769639,
+      "rank": 46,
       "category": "演出"
     },
     {
@@ -1089,6 +1201,14 @@
       "onboard_time": 1725724699,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89897,
+      "num": 89897,
+      "word": "早田希娜因伤缺席中国大满贯",
+      "onboard_time": 1725772399,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 88432,
@@ -1171,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66750,
+      "num": 255274,
+      "word": "周深晒演唱会大合照",
+      "onboard_time": 1725772099,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 65350,
       "num": 65350,
       "word": "摩羯过境后现场实拍",
@@ -1228,7 +1356,7 @@
     },
     {
       "raw_hot": 50991,
-      "num": 292451,
+      "num": 401395,
       "word": "雪域高原焕新貌",
       "onboard_time": 1725765199,
       "rank": 26,
@@ -1339,12 +1467,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21411,
+      "num": 261232,
+      "word": "英国富豪沉船案首批尸检结果出炉",
+      "onboard_time": 1725772218,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20704,
       "num": 24316,
       "word": "张杰福州演唱会",
       "onboard_time": 1725730933,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 19522,
+      "num": 262280,
+      "word": "摩羯三次登陆都是超强台风级别",
+      "onboard_time": 1725772218,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19034,
@@ -1361,6 +1505,14 @@
       "onboard_time": 1725737113,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 14448,
+      "num": 251039,
+      "word": "摩羯走后渔民正抢收破损养殖工具",
+      "onboard_time": 1725772218,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13288,
