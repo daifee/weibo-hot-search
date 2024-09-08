@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/08 00:25:23 ~ 2024/09/09 00:25:57
+本榜单时间：2024/09/08 00:25:23 ~ 2024/09/09 00:41:50
 </p>
 </blockquote>
 <p>
@@ -807,6 +807,12 @@ GEN对战HLE（热度：273140）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A516%E5%B2%81%E5%B0%91%E5%B9%B4%E7%90%86%E5%8F%91%E8%A2%AB%E7%B4%A2%E8%A6%814000%E5%85%83%23" target="weibo">
+官方通报16岁少年理发被索要4000元（热度：251576）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B4%E6%AF%943%E5%90%B4%E6%99%99%E8%AF%9A%23" target="weibo">
 林诗栋4比3吴晙诚（热度：251002）
 </a>
@@ -1263,12 +1269,6 @@ KSG11淘汰吃鸡（热度：179941）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A516%E5%B2%81%E5%B0%91%E5%B9%B4%E7%90%86%E5%8F%91%E8%A2%AB%E7%B4%A2%E8%A6%814000%E5%85%83%23" target="weibo">
-官方通报16岁少年理发被索要4000元（热度：177245）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E5%8F%AB%E7%94%B0%E6%9B%A6%E8%96%87%E4%BC%B4%E4%BE%A3%E5%90%93%E5%88%B0%E6%9D%A8%E8%BF%AA%23" target="weibo">
 王安宇叫田曦薇伴侣吓到杨迪（热度：176074）
 </a>
@@ -1421,6 +1421,12 @@ Tian 你是我的劫（热度：171158）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Viper%E7%94%9F%E6%B6%AF%E9%A6%96%E4%B8%AALCK%E5%86%A0%E5%86%9B%23" target="weibo">
 Viper生涯首个LCK冠军（热度：160062）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AC%B2%E4%B9%B0%E6%A1%82%E8%8A%B1%E5%90%8C%E8%BD%BD%E9%85%92%20%E7%BB%88%E4%B8%8D%E4%BC%BC%E5%B0%91%E5%B9%B4%E6%B8%B8%23" target="weibo">
+欲买桂花同载酒 终不似少年游（热度：159886）
 </a>
 </li>
 
@@ -1941,12 +1947,6 @@ PNC韩国队夺冠（热度：118755）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AC%B2%E4%B9%B0%E6%A1%82%E8%8A%B1%E5%90%8C%E8%BD%BD%E9%85%92%20%E7%BB%88%E4%B8%8D%E4%BC%BC%E5%B0%91%E5%B9%B4%E6%B8%B8%23" target="weibo">
-欲买桂花同载酒 终不似少年游（热度：118397）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%B8%89%E6%8A%98%E5%8F%A0%E6%9B%B4%E5%A4%9A%E9%85%8D%E7%BD%AE%E6%9B%9D%E5%85%89%23" target="weibo">
 华为三折叠更多配置曝光（热度：118347）
 </a>
@@ -1961,6 +1961,12 @@ PNC韩国队夺冠（热度：118755）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23ESP%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%23" target="weibo">
 ESP毕业典礼（热度：117957）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%A9%BA%E6%8C%82%E5%AD%A6%E7%B1%8D%E4%B9%B1%E8%B1%A1%23" target="weibo">
+央视曝光空挂学籍乱象（热度：117283）
 </a>
 </li>
 
@@ -2127,6 +2133,12 @@ AG连续四次晋级决赛（热度：105916）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E7%A7%9F%E8%B4%AD%E5%AE%8C%E6%95%B4%E7%9A%84%E6%95%85%E4%BA%8B%23" target="weibo">
+薛之谦租购完整的故事（热度：98317）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%89%AD%E7%A7%A7%E6%AD%8C%23" target="weibo">
 周深扭秧歌（热度：97236）
 </a>
@@ -2189,12 +2201,6 @@ RNB有自己的TFBOYS（热度：96699）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%91%A9%E7%BE%AF%E4%B8%89%E6%AC%A1%E7%99%BB%E9%99%86%E9%83%BD%E6%98%AF%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E7%BA%A7%E5%88%AB%23" target="weibo">
 摩羯三次登陆都是超强台风级别（热度：91747）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E7%A7%9F%E8%B4%AD%E5%AE%8C%E6%95%B4%E7%9A%84%E6%95%85%E4%BA%8B%23" target="weibo">
-薛之谦租购完整的故事（热度：91694）
 </a>
 </li>
 
