@@ -1,0 +1,410 @@
+{
+  "runTime": 1725777641069,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1475365,
+        "num": 1475365,
+        "word": "张大大为赵露思发声",
+        "onboard_time": 1725772459,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 829109,
+        "num": 829109,
+        "word": "2男子盗播超8万部剧集获利3.92亿",
+        "onboard_time": 1725772340,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21503,
+        "num": 809511,
+        "word": "雪域高原焕新貌",
+        "onboard_time": 1725765199,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805872,
+        "num": 805872,
+        "word": "爱奇艺已退款",
+        "onboard_time": 1725772940,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 679708,
+        "num": 679708,
+        "word": "宋浩然在产房直播卖货",
+        "onboard_time": 1725770720,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 586941,
+        "num": 586941,
+        "word": "中学生心脏骤停被同学1分钟救回",
+        "onboard_time": 1725775879,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614170,
+        "num": 575928,
+        "word": "第九代张起灵封神",
+        "onboard_time": 1725774498,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 555256,
+        "num": 555256,
+        "word": "金靖怀孕九个月状态",
+        "onboard_time": 1725772039,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396973,
+        "num": 396973,
+        "word": "广州一幼儿园爆改成老年大学",
+        "onboard_time": 1725770720,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388088,
+        "num": 388088,
+        "word": "美宇航员太空出差8天变被困8个月",
+        "onboard_time": 1725768500,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 450679,
+        "num": 382474,
+        "word": "50箱五粮液侧翻倒地一瓶没碎",
+        "onboard_time": 1725769639,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374351,
+        "num": 374351,
+        "word": "明侦团综",
+        "onboard_time": 1725774678,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371764,
+        "num": 371764,
+        "word": "卢昱晓 一款存在于内娱的韩剧女主",
+        "onboard_time": 1725764477,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90648,
+        "num": 331245,
+        "word": "网红名号不是三无食品的遮羞布",
+        "onboard_time": 1725775819,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18644,
+        "num": 315369,
+        "word": "美英情报负责人史无前例一起露面",
+        "onboard_time": 1725777018,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304781,
+        "num": 304781,
+        "word": "欧弟三胎女儿出生",
+        "onboard_time": 1725772340,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233356,
+        "num": 233356,
+        "word": "19块9小火锅围猎海底捞",
+        "onboard_time": 1725763818,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21566,
+        "num": 229468,
+        "word": "王骁演的那伟就是一首凡人歌",
+        "onboard_time": 1725776539,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227255,
+        "num": 227255,
+        "word": "花花和叶同框出外场",
+        "onboard_time": 1725775699,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219090,
+        "num": 219090,
+        "word": "海口网红餐厅被摩羯撕碎了",
+        "onboard_time": 1725729316,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 693433,
+        "num": 217849,
+        "word": "小杨哥哭了",
+        "onboard_time": 1725761959,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 615098,
+        "num": 213655,
+        "word": "金靖宣布停工待产",
+        "onboard_time": 1725768138,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475600,
+        "num": 208743,
+        "word": "辛巴再度发文痛斥小杨哥",
+        "onboard_time": 1725763519,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 291725,
+        "num": 205938,
+        "word": "王一博 怎么突然演起来了",
+        "onboard_time": 1725771260,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187896,
+        "num": 202090,
+        "word": "北体军训",
+        "onboard_time": 1725776360,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 200839,
+        "num": 200839,
+        "word": "章子怡汪峰儿子侧脸",
+        "onboard_time": 1725768980,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188810,
+        "num": 188810,
+        "word": "黄一鸣晒女儿报平安",
+        "onboard_time": 1725769579,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176448,
+        "num": 176448,
+        "word": "亚人",
+        "onboard_time": 1725772879,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175647,
+        "num": 175647,
+        "word": "秦彻 陆沉",
+        "onboard_time": 1725777138,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175075,
+        "num": 175075,
+        "word": "多地报告上半年出生人口增加",
+        "onboard_time": 1725762319,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167011,
+        "num": 167011,
+        "word": "摩羯致海口文昌经济损失600亿元",
+        "onboard_time": 1725757637,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159682,
+        "num": 159682,
+        "word": "孙颖莎王曼昱适应性训练",
+        "onboard_time": 1725774079,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155802,
+        "num": 155802,
+        "word": "新疆偶遇李现",
+        "onboard_time": 1725774678,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148632,
+        "num": 148632,
+        "word": "戚薇李承铉庆祝结婚十周年",
+        "onboard_time": 1725771798,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143313,
+        "num": 143313,
+        "word": "沙和尚被贬下界来不是没道理的",
+        "onboard_time": 1725764418,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142475,
+        "num": 142475,
+        "word": "宝格丽CEO晒和赵露思合照",
+        "onboard_time": 1725776839,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141239,
+        "num": 141239,
+        "word": "TOP登陆少年第一张合照",
+        "onboard_time": 1725771440,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137155,
+        "num": 137155,
+        "word": "当一个妈决定给孩子进行死亡教育",
+        "onboard_time": 1725775219,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132033,
+        "num": 132033,
+        "word": "沈琳骂了老板又拿了赔偿金",
+        "onboard_time": 1725776659,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127089,
+        "num": 127089,
+        "word": "中国队94金73银49铜断层领跑",
+        "onboard_time": 1725766878,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125519,
+        "num": 125519,
+        "word": "张艺谋你是真喜欢章宇啊",
+        "onboard_time": 1725777318,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124471,
+        "num": 124471,
+        "word": "赵一博个人首封",
+        "onboard_time": 1725777379,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123276,
+        "num": 123276,
+        "word": "200兆网速实际只有20兆",
+        "onboard_time": 1725763039,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115559,
+        "num": 115559,
+        "word": "严浩翔西部牛仔风",
+        "onboard_time": 1725777440,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110417,
+        "num": 110417,
+        "word": "断臂男孩无所畏惧挑战Uzi",
+        "onboard_time": 1725776778,
+        "rank": 44,
+        "category": "社会新闻,电竞"
+      },
+      {
+        "raw_hot": 109165,
+        "num": 109165,
+        "word": "边水男团黑白大片",
+        "onboard_time": 1725776120,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108694,
+        "num": 108694,
+        "word": "朱珠 拒绝无聊穿搭",
+        "onboard_time": 1725764179,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107890,
+        "num": 107890,
+        "word": "英国版比尔盖茨尸检结果曝光",
+        "onboard_time": 1725772399,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95248,
+        "num": 95248,
+        "word": "这些水果是典型的高糖刺客",
+        "onboard_time": 1725764898,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94392,
+        "num": 94392,
+        "word": "王一博登顶雪山",
+        "onboard_time": 1725774440,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视我国教育事业发展#"
+    }
+  }
+}
