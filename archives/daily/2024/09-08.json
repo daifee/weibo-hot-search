@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725806213911,
+  "endTime": 1725808947753,
   "band_list": [
     {
       "raw_hot": 2331163,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1476772,
-      "num": 335493,
+      "num": 394409,
       "word": "韩安冉床头成了网红打卡点",
       "onboard_time": 1725788058,
       "rank": 18,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1423616,
-      "num": 351299,
+      "num": 395494,
       "word": "大学生因一顿烧烤进ICU换了5次血",
       "onboard_time": 1725794781,
       "rank": 44,
@@ -193,6 +193,14 @@
       "onboard_time": 1725769639,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 887138,
+      "num": 547082,
+      "word": "吴昕把皮裙塞裤子里腰还这么细",
+      "onboard_time": 1725805728,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 886217,
@@ -555,6 +563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 434973,
+      "num": 434973,
+      "word": "山东大学34岁博导突发心梗离世",
+      "onboard_time": 1725806181,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 419637,
       "num": 359157,
       "word": "国足备战受冷遇",
@@ -867,6 +883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 307054,
+      "num": 307054,
+      "word": "撒贝宁王鸥一个敢调一个敢喝",
+      "onboard_time": 1725806601,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305385,
       "num": 305385,
       "word": "世界之外 DQ",
@@ -963,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267373,
+      "num": 267373,
+      "word": "孟晚舟刘德华演唱会比心互动",
+      "onboard_time": 1725804620,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 262608,
       "num": 261995,
       "word": "虞书欣终于想起来她是个歌手了",
@@ -995,12 +1027,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 253503,
-      "num": 253503,
-      "word": "孟晚舟刘德华演唱会比心互动",
-      "onboard_time": 1725804620,
-      "rank": 32,
-      "category": "演出"
+      "raw_hot": 254641,
+      "num": 254641,
+      "word": "何炅 栀子花开已经20年了",
+      "onboard_time": 1725806543,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 252368,
@@ -1115,6 +1147,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 228297,
+      "num": 228297,
+      "word": "海口躲台风腿被夹业主一家平安",
+      "onboard_time": 1725802340,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227668,
       "num": 214448,
       "word": "印度三女子为谋财设局毒杀4人",
@@ -1153,14 +1193,6 @@
       "onboard_time": 1725791598,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 219355,
-      "num": 219355,
-      "word": "吴昕把皮裙塞裤子里腰还这么细",
-      "onboard_time": 1725805728,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 216908,
@@ -1331,6 +1363,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 199256,
+      "num": 398070,
+      "word": "湖南卫视音响",
+      "onboard_time": 1725807201,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199177,
       "num": 199177,
       "word": "AG超玩会 宝石流",
@@ -1369,6 +1409,14 @@
       "onboard_time": 1725777318,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195169,
+      "num": 179002,
+      "word": "听薛之谦唱完租购要碎了",
+      "onboard_time": 1725808162,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 194888,
@@ -1483,6 +1531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187108,
+      "num": 311681,
+      "word": "网传重庆9月降雪消息不属实",
+      "onboard_time": 1725802099,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186479,
       "num": 186479,
       "word": "华晨宇说粉丝连一层纱都不放过",
@@ -1491,20 +1547,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 186219,
+      "num": 176098,
+      "word": "刘耀文去新疆感冒了",
+      "onboard_time": 1725808162,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185252,
       "num": 185252,
       "word": "权志龙车银优人生四格",
       "onboard_time": 1725797660,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 184468,
-      "num": 311681,
-      "word": "网传重庆9月降雪消息不属实",
-      "onboard_time": 1725802099,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182805,
@@ -1585,6 +1641,14 @@
       "onboard_time": 1725785720,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175908,
+      "num": 175908,
+      "word": "TEC秋季赛周冠军",
+      "onboard_time": 1725808162,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 175855,
@@ -1811,6 +1875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157055,
+      "num": 157055,
+      "word": "杨丞琳雨爱大合唱",
+      "onboard_time": 1725807562,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157010,
       "num": 157010,
       "word": "月薪3万的陆家嘴打工人开始抠抠搜搜",
@@ -1841,6 +1913,14 @@
       "onboard_time": 1725774678,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154936,
+      "num": 154936,
+      "word": "檀健次每到周末我要离开地球好甜",
+      "onboard_time": 1725808221,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 154518,
@@ -1971,12 +2051,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147441,
-      "num": 147441,
-      "word": "海口躲台风腿被夹业主一家平安",
-      "onboard_time": 1725802340,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 144911,
+      "num": 144911,
+      "word": "卢昱晓侯明昊 微表情好品",
+      "onboard_time": 1725806421,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 144682,
@@ -2035,20 +2115,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 140784,
+      "num": 140784,
+      "word": "刘雨昕这杯水让我倒",
+      "onboard_time": 1725808823,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 140644,
+      "num": 140644,
+      "word": "2024华晨宇火星演唱会",
+      "onboard_time": 1725807382,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 140280,
       "num": 157663,
       "word": "章子怡黑色披肩高定",
       "onboard_time": 1725755778,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 140169,
-      "num": 140169,
-      "word": "山东大学34岁博导突发心梗离世",
-      "onboard_time": 1725806181,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139321,
@@ -2137,6 +2225,14 @@
       "onboard_time": 1725753257,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135070,
+      "num": 297568,
+      "word": "央视曝光保险逾期扣费骗局",
+      "onboard_time": 1725804620,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134056,
@@ -2387,6 +2483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118755,
+      "num": 118755,
+      "word": "PNC韩国队夺冠",
+      "onboard_time": 1725807741,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118730,
       "num": 118730,
       "word": "秦俊杰剧透沈磊结局",
@@ -2419,11 +2523,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117957,
+      "num": 117957,
+      "word": "ESP毕业典礼",
+      "onboard_time": 1725808462,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116935,
       "num": 116935,
       "word": "大连警方提示赛后严禁围堵教练员球员",
       "onboard_time": 1725789560,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 115691,
+      "num": 115691,
+      "word": "致残奥会中国体育代表团的贺电",
+      "onboard_time": 1725808343,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -2457,6 +2577,14 @@
       "onboard_time": 1725781399,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111736,
+      "num": 111736,
+      "word": "国足在大连似乎走出了惨败阴影",
+      "onboard_time": 1725808102,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 110860,
@@ -2523,11 +2651,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106987,
+      "num": 106987,
+      "word": "官方通报16岁少年理发被索要4000元",
+      "onboard_time": 1725807984,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105956,
       "num": 105956,
       "word": "KPL夏决表演嘉宾官宣",
       "onboard_time": 1725772340,
       "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 105916,
+      "num": 105916,
+      "word": "AG连续四次晋级决赛",
+      "onboard_time": 1725807201,
+      "rank": 49,
       "category": "电竞"
     },
     {
@@ -2867,20 +3011,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 57061,
-      "num": 297568,
-      "word": "央视曝光保险逾期扣费骗局",
-      "onboard_time": 1725804620,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 56073,
       "num": 56073,
       "word": "中秋假期十大热门目的地",
       "onboard_time": 1725748032,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 55873,
+      "num": 548911,
+      "word": "一句古诗适配秋天",
+      "onboard_time": 1725801019,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 55730,
@@ -2945,14 +3089,6 @@
       "onboard_time": 1725742271,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 49809,
-      "num": 168986,
-      "word": "一句古诗适配秋天",
-      "onboard_time": 1725801019,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 48132,
