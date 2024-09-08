@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725820816689,
+  "endTime": 1725823069907,
   "band_list": [
     {
       "raw_hot": 2331163,
@@ -3211,6 +3211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50383,
+      "num": 50383,
+      "word": "张翰谈时隔7年再演古装剧",
+      "onboard_time": 1725820512,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 49931,
       "num": 108755,
       "word": "泽连斯基称必须在今秋末结束冲突",
@@ -3395,6 +3403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25979,
+      "num": 25979,
+      "word": "一头钻进笑声里",
+      "onboard_time": 1725817274,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 25936,
       "num": 25936,
       "word": "中国消防员参加世锦赛有多敏捷",
@@ -3419,28 +3435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25153,
-      "num": 25153,
-      "word": "张翰谈时隔7年再演古装剧",
-      "onboard_time": 1725820512,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 24929,
       "num": 38952,
       "word": "55岁的北京地铁也有隐藏款",
       "onboard_time": 1725738970,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24921,
-      "num": 25936,
-      "word": "一头钻进笑声里",
-      "onboard_time": 1725817274,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 24700,
@@ -3451,12 +3451,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24605,
+      "num": 24605,
+      "word": "六公主报道张翰流光引",
+      "onboard_time": 1725822072,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22330,
       "num": 201655,
       "word": "1790位教育工作者教师节前受表彰",
       "onboard_time": 1725801379,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21702,
+      "num": 23786,
+      "word": "长乐曲",
+      "onboard_time": 1725822732,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 21566,
@@ -3551,6 +3567,14 @@
       "num": 64259,
       "word": "63岁箱包女王破产后卖包子还债",
       "onboard_time": 1725735253,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8567,
+      "num": 50439,
+      "word": "台风摩羯成为登陆我国最强秋台风",
+      "onboard_time": 1725821892,
       "rank": 9,
       "category": "社会新闻"
     }

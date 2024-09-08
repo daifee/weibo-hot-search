@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725820816689,
+  "endTime": 1725823069907,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -21851,6 +21851,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 50383,
+      "num": 50383,
+      "word": "张翰谈时隔7年再演古装剧",
+      "onboard_time": 1725820512,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 50368,
       "num": 401076,
       "word": "有被这瓶面霜的成分表惊到",
@@ -23611,6 +23619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25979,
+      "num": 25979,
+      "word": "一头钻进笑声里",
+      "onboard_time": 1725817274,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 25936,
       "num": 25936,
       "word": "中国消防员参加世锦赛有多敏捷",
@@ -23683,28 +23699,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 25153,
-      "num": 25153,
-      "word": "张翰谈时隔7年再演古装剧",
-      "onboard_time": 1725820512,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 24929,
       "num": 38952,
       "word": "55岁的北京地铁也有隐藏款",
       "onboard_time": 1725738970,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24921,
-      "num": 25936,
-      "word": "一头钻进笑声里",
-      "onboard_time": 1725817274,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 24887,
@@ -23760,6 +23760,14 @@
       "word": "南派三叔藏海花在线答疑",
       "onboard_time": 1725125895,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 24605,
+      "num": 24605,
+      "word": "六公主报道张翰流光引",
+      "onboard_time": 1725822072,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -24041,6 +24049,14 @@
       "onboard_time": 1725614420,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21702,
+      "num": 23786,
+      "word": "长乐曲",
+      "onboard_time": 1725822732,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 21566,
@@ -24632,6 +24648,14 @@
       "word": "专家说短期洪水不足使沙漠变绿洲",
       "onboard_time": 1725255082,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8567,
+      "num": 50439,
+      "word": "台风摩羯成为登陆我国最强秋台风",
+      "onboard_time": 1725821892,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
