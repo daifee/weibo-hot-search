@@ -1,0 +1,410 @@
+{
+  "runTime": 1725805147104,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2331163,
+        "num": 2331163,
+        "word": "张峻豪 给妹妹改造一下",
+        "onboard_time": 1725803420,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 846860,
+        "num": 846860,
+        "word": "央视曝光轻医美乱象",
+        "onboard_time": 1725800419,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68220,
+        "num": 738474,
+        "word": "巴黎残奥会泪目瞬间",
+        "onboard_time": 1725801500,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 691101,
+        "num": 691101,
+        "word": "孙卓首度回应报考南工大原因",
+        "onboard_time": 1725798502,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550004,
+        "num": 550004,
+        "word": "泰国女孩来中国留学读大专",
+        "onboard_time": 1725794718,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467392,
+        "num": 467392,
+        "word": "aespa和newjeans一起合影了",
+        "onboard_time": 1725803962,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 350232,
+        "num": 350232,
+        "word": "2024MAMA日本场阵容",
+        "onboard_time": 1725801560,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 343856,
+        "num": 343856,
+        "word": "公务员招录扩大面试比例可行吗",
+        "onboard_time": 1725798619,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308982,
+        "num": 308982,
+        "word": "AG对战RW",
+        "onboard_time": 1725793819,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169322,
+        "num": 307948,
+        "word": "张含韵唱酸酸甜甜就是我",
+        "onboard_time": 1725803179,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184468,
+        "num": 305797,
+        "word": "网传重庆9月降雪消息不属实",
+        "onboard_time": 1725802099,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25511,
+        "num": 303884,
+        "word": "20年了还是喜欢酸的甜",
+        "onboard_time": 1725800541,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 785200,
+        "num": 301313,
+        "word": "大学生因一顿烧烤进ICU换了5次血",
+        "onboard_time": 1725794781,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632236,
+        "num": 299410,
+        "word": "韩安冉床头成了网红打卡点",
+        "onboard_time": 1725788058,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 38329,
+        "num": 297568,
+        "word": "央视曝光保险逾期扣费骗局",
+        "onboard_time": 1725804620,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476036,
+        "num": 295562,
+        "word": "网红刘灿意外溺水去世",
+        "onboard_time": 1725781999,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 340317,
+        "num": 293163,
+        "word": "16岁少年理发被索要4000元",
+        "onboard_time": 1725793518,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339105,
+        "num": 290826,
+        "word": "张雨绮 不是长得丑就不是渣男",
+        "onboard_time": 1725796339,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334977,
+        "num": 288846,
+        "word": "湖南卫视酸甜之夜",
+        "onboard_time": 1725798259,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27440,
+        "num": 286263,
+        "word": "借台风涨价无异于趁火打劫",
+        "onboard_time": 1725804861,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1415227,
+        "num": 284337,
+        "word": "以后不准穷人写爽文",
+        "onboard_time": 1725801019,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 400452,
+        "num": 282839,
+        "word": "杜江霍思燕带儿女遛狗",
+        "onboard_time": 1725794899,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318002,
+        "num": 280258,
+        "word": "马嘉祺换头像了",
+        "onboard_time": 1725795019,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279791,
+        "num": 279791,
+        "word": "刘梓晨为赵露思发声",
+        "onboard_time": 1725786860,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272143,
+        "num": 272143,
+        "word": "外卖小哥带娃抗癌被剐蹭车主反手转2千",
+        "onboard_time": 1725801320,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260648,
+        "num": 260648,
+        "word": "知情人回应健身博主刘灿溺水身亡",
+        "onboard_time": 1725804021,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 256094,
+        "num": 256094,
+        "word": "防晒衣割不动年轻人了",
+        "onboard_time": 1725786140,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235693,
+        "num": 235693,
+        "word": "AG晋级夏季赛决赛",
+        "onboard_time": 1725804200,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 232569,
+        "num": 232569,
+        "word": "赵露思早期视频",
+        "onboard_time": 1725797899,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220856,
+        "num": 220856,
+        "word": "中秋节假期3天高速不免费",
+        "onboard_time": 1725786018,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216856,
+        "num": 216856,
+        "word": "巴黎残奥会中国队94金76银50铜收官",
+        "onboard_time": 1725803842,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202437,
+        "num": 202437,
+        "word": "檀健次 录播",
+        "onboard_time": 1725800898,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201846,
+        "num": 201846,
+        "word": "孟晚舟刘德华演唱会比心互动",
+        "onboard_time": 1725804620,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195658,
+        "num": 195658,
+        "word": "残奥会",
+        "onboard_time": 1725804501,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193336,
+        "num": 193336,
+        "word": "汪东城孟佳开场",
+        "onboard_time": 1725801500,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187218,
+        "num": 187218,
+        "word": "AG超玩会 宝石流",
+        "onboard_time": 1725800658,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179941,
+        "num": 179941,
+        "word": "KSG11淘汰吃鸡",
+        "onboard_time": 1725804680,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170605,
+        "num": 170605,
+        "word": "张峻豪妹妹",
+        "onboard_time": 1725804801,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166362,
+        "num": 166362,
+        "word": "保利尼奥退役",
+        "onboard_time": 1725803480,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166321,
+        "num": 166321,
+        "word": "20元学生小饭桌正在被成年人占领",
+        "onboard_time": 1725800658,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165018,
+        "num": 165018,
+        "word": "刘雨昕unwind舞台首秀",
+        "onboard_time": 1725803842,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165050,
+        "num": 164939,
+        "word": "Tian 你是我的劫",
+        "onboard_time": 1725802399,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161133,
+        "num": 161133,
+        "word": "中学生心脏骤停被同学1分钟救回",
+        "onboard_time": 1725775879,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160438,
+        "num": 160438,
+        "word": "中国队巴黎残奥双第一",
+        "onboard_time": 1725805100,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159405,
+        "num": 159405,
+        "word": "东北雨姐算塌房了吗",
+        "onboard_time": 1725800419,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 151750,
+        "num": 151750,
+        "word": "毛不易胸前开出了花",
+        "onboard_time": 1725804261,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150371,
+        "num": 150371,
+        "word": "小学生俩月花15000元在文具店集卡",
+        "onboard_time": 1725792919,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148914,
+        "num": 148914,
+        "word": "成毅致所有粉丝朋友们",
+        "onboard_time": 1725803420,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145026,
+        "num": 145026,
+        "word": "AG战胜RW",
+        "onboard_time": 1725805041,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141204,
+        "num": 141204,
+        "word": "aespa获TMA大赏",
+        "onboard_time": 1725799400,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领网络强国建设#"
+    }
+  }
+}

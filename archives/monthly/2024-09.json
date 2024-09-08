@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725802479821,
+  "endTime": 1725805147104,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -249,6 +249,14 @@
       "onboard_time": 1725329480,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2331163,
+      "num": 2331163,
+      "word": "张峻豪 给妹妹改造一下",
+      "onboard_time": 1725803420,
+      "rank": 0,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2296649,
@@ -908,7 +916,7 @@
     },
     {
       "raw_hot": 1431474,
-      "num": 240321,
+      "num": 284337,
       "word": "以后不准穷人写爽文",
       "onboard_time": 1725801019,
       "rank": 22,
@@ -2425,6 +2433,14 @@
       "onboard_time": 1725362421,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 846860,
+      "num": 846860,
+      "word": "央视曝光轻医美乱象",
+      "onboard_time": 1725800419,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 845482,
@@ -5195,6 +5211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 467392,
+      "num": 467392,
+      "word": "aespa和newjeans一起合影了",
+      "onboard_time": 1725803962,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 466344,
       "num": 466344,
       "word": "周子瑜solo出道MV",
@@ -6491,6 +6515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 350232,
+      "num": 350232,
+      "word": "2024MAMA日本场阵容",
+      "onboard_time": 1725801560,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 349792,
       "num": 349792,
       "word": "刘亦菲回应粉丝喊话进组",
@@ -6603,6 +6635,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 343856,
+      "num": 343856,
+      "word": "公务员招录扩大面试比例可行吗",
+      "onboard_time": 1725798619,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343470,
       "num": 327908,
       "word": "澳洲大老鼠",
@@ -6632,6 +6672,14 @@
       "word": "台风过境后广东周末仍有大暴雨",
       "onboard_time": 1725682999,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340317,
+      "num": 312504,
+      "word": "16岁少年理发被索要4000元",
+      "onboard_time": 1725793518,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -6737,14 +6785,6 @@
       "onboard_time": 1725341122,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 333864,
-      "num": 312504,
-      "word": "16岁少年理发被索要4000元",
-      "onboard_time": 1725793518,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 332158,
@@ -6913,14 +6953,6 @@
       "onboard_time": 1725791779,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 323915,
-      "num": 240793,
-      "word": "2024MAMA日本场阵容",
-      "onboard_time": 1725801560,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 323406,
@@ -7113,6 +7145,14 @@
       "onboard_time": 1725331699,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308982,
+      "num": 308982,
+      "word": "AG对战RW",
+      "onboard_time": 1725793819,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 308327,
@@ -7995,6 +8035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272143,
+      "num": 306546,
+      "word": "外卖小哥带娃抗癌被剐蹭车主反手转2千",
+      "onboard_time": 1725801320,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272127,
       "num": 272127,
       "word": "干饭哥在练混双了",
@@ -8329,6 +8377,14 @@
       "onboard_time": 1725234798,
       "rank": 23,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 260648,
+      "num": 260648,
+      "word": "知情人回应健身博主刘灿溺水身亡",
+      "onboard_time": 1725804021,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 260521,
@@ -8955,14 +9011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241500,
-      "num": 278399,
-      "word": "公务员招录扩大面试比例可行吗",
-      "onboard_time": 1725798619,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241410,
       "num": 241410,
       "word": "每个中国人都该记住这一天",
@@ -9187,6 +9235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 235693,
+      "num": 235693,
+      "word": "AG晋级夏季赛决赛",
+      "onboard_time": 1725804200,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 235639,
       "num": 235639,
       "word": "边伯贤回归",
@@ -9304,14 +9360,6 @@
       "word": "男子婚内将2套房产赠与前妻儿子",
       "onboard_time": 1725348861,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232738,
-      "num": 232738,
-      "word": "央视曝光轻医美乱象",
-      "onboard_time": 1725800419,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -9897,6 +9945,14 @@
       "onboard_time": 1725354682,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216856,
+      "num": 216856,
+      "word": "巴黎残奥会中国队94金76银50铜收官",
+      "onboard_time": 1725803842,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 216587,
@@ -10843,6 +10899,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 202437,
+      "num": 242901,
+      "word": "檀健次 录播",
+      "onboard_time": 1725800898,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202195,
       "num": 194799,
       "word": "太湖湾音乐节阵容",
@@ -10881,6 +10945,14 @@
       "onboard_time": 1725601880,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201846,
+      "num": 201846,
+      "word": "孟晚舟刘德华演唱会比心互动",
+      "onboard_time": 1725804620,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 201574,
@@ -11507,6 +11579,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 195658,
+      "num": 195658,
+      "word": "残奥会",
+      "onboard_time": 1725804501,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195651,
       "num": 195651,
       "word": "迪丽热巴白日提灯替灵开道",
@@ -11793,6 +11873,14 @@
       "onboard_time": 1725272720,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 193336,
+      "num": 193336,
+      "word": "汪东城孟佳开场",
+      "onboard_time": 1725801500,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 193291,
@@ -12715,20 +12803,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184585,
-      "num": 184585,
-      "word": "AG对战RW",
-      "onboard_time": 1725793819,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 184540,
       "num": 184540,
       "word": "揭秘被指擦边美妆品牌黑兔公司",
       "onboard_time": 1725331522,
       "rank": 38,
       "category": "社会新闻,美妆"
+    },
+    {
+      "raw_hot": 184468,
+      "num": 305797,
+      "word": "网传重庆9月降雪消息不属实",
+      "onboard_time": 1725802099,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184461,
@@ -13121,6 +13209,14 @@
       "onboard_time": 1725365120,
       "rank": 38,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 179941,
+      "num": 179941,
+      "word": "KSG11淘汰吃鸡",
+      "onboard_time": 1725804680,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 179926,
@@ -14179,6 +14275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170605,
+      "num": 170605,
+      "word": "张峻豪妹妹",
+      "onboard_time": 1725804801,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170543,
       "num": 170543,
       "word": "俄乌局势新进展",
@@ -14281,6 +14385,14 @@
       "onboard_time": 1725624622,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169322,
+      "num": 307948,
+      "word": "张含韵唱酸酸甜甜就是我",
+      "onboard_time": 1725803179,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 169320,
@@ -14627,12 +14739,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 166362,
+      "num": 166362,
+      "word": "保利尼奥退役",
+      "onboard_time": 1725803480,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166335,
       "num": 166335,
       "word": "完美世界定档",
       "onboard_time": 1725678379,
       "rank": 40,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 166321,
+      "num": 166321,
+      "word": "20元学生小饭桌正在被成年人占领",
+      "onboard_time": 1725800658,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166249,
@@ -14760,6 +14888,14 @@
       "word": "高卿尘高中瘦了15公斤被6个人追",
       "onboard_time": 1725789020,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 165018,
+      "num": 165018,
+      "word": "刘雨昕unwind舞台首秀",
+      "onboard_time": 1725803842,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -15179,14 +15315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161066,
-      "num": 161066,
-      "word": "汪东城孟佳开场",
-      "onboard_time": 1725801500,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 160971,
       "num": 160971,
       "word": "田馥甄新专辑要来了",
@@ -15257,6 +15385,14 @@
       "onboard_time": 1725526520,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160438,
+      "num": 160438,
+      "word": "中国队巴黎残奥双第一",
+      "onboard_time": 1725805100,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 160277,
@@ -15377,6 +15513,14 @@
       "onboard_time": 1725192797,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159405,
+      "num": 159405,
+      "word": "东北雨姐算塌房了吗",
+      "onboard_time": 1725800419,
+      "rank": 44,
+      "category": "网红"
     },
     {
       "raw_hot": 159323,
@@ -15939,14 +16083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154859,
-      "num": 154859,
-      "word": "网传重庆9月降雪消息不属实",
-      "onboard_time": 1725802099,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154835,
       "num": 154835,
       "word": "永夜星河 妙妙小厨娘",
@@ -16283,6 +16419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151750,
+      "num": 151750,
+      "word": "毛不易胸前开出了花",
+      "onboard_time": 1725804261,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 151689,
       "num": 549179,
       "word": "摩羯风眼过境致多人恶心头晕耳鸣",
@@ -16513,6 +16657,14 @@
       "onboard_time": 1725664395,
       "rank": 30,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 148914,
+      "num": 148914,
+      "word": "成毅致所有粉丝朋友们",
+      "onboard_time": 1725803420,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 148897,
@@ -16963,6 +17115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145026,
+      "num": 145026,
+      "word": "AG战胜RW",
+      "onboard_time": 1725805041,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144876,
       "num": 144876,
       "word": "这喷不了确实是全开麦",
@@ -17001,14 +17161,6 @@
       "onboard_time": 1725446059,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144622,
-      "num": 242901,
-      "word": "檀健次 录播",
-      "onboard_time": 1725800898,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 144616,
@@ -17729,14 +17881,6 @@
       "onboard_time": 1725753257,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 135047,
-      "num": 135047,
-      "word": "20元学生小饭桌正在被成年人占领",
-      "onboard_time": 1725800658,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134905,
@@ -20179,14 +20323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80894,
-      "num": 306546,
-      "word": "外卖小哥带娃抗癌被剐蹭车主反手转2千",
-      "onboard_time": 1725801320,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80882,
       "num": 80882,
       "word": "鞠婧祎的9月行程",
@@ -20601,6 +20737,14 @@
       "onboard_time": 1725139090,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68220,
+      "num": 738474,
+      "word": "巴黎残奥会泪目瞬间",
+      "onboard_time": 1725801500,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 68032,
@@ -21041,14 +21185,6 @@
       "onboard_time": 1725458303,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56727,
-      "num": 506240,
-      "word": "巴黎残奥会泪目瞬间",
-      "onboard_time": 1725801500,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 56404,
@@ -21692,7 +21828,7 @@
     },
     {
       "raw_hot": 44444,
-      "num": 296588,
+      "num": 303884,
       "word": "20年了还是喜欢酸的甜",
       "onboard_time": 1725800541,
       "rank": 11,
@@ -22097,6 +22233,14 @@
       "onboard_time": 1725613041,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38329,
+      "num": 297568,
+      "word": "央视曝光保险逾期扣费骗局",
+      "onboard_time": 1725804620,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38277,
@@ -23009,6 +23153,14 @@
       "onboard_time": 1725387492,
       "rank": 43,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 27440,
+      "num": 286263,
+      "word": "借台风涨价无异于趁火打劫",
+      "onboard_time": 1725804861,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27014,

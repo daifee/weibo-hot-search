@@ -1,7 +1,15 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725802479821,
+  "endTime": 1725805147104,
   "band_list": [
+    {
+      "raw_hot": 2331163,
+      "num": 2331163,
+      "word": "张峻豪 给妹妹改造一下",
+      "onboard_time": 1725803420,
+      "rank": 0,
+      "category": "作品衍生"
+    },
     {
       "raw_hot": 2097681,
       "num": 2097681,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1431474,
-      "num": 240321,
+      "num": 284337,
       "word": "以后不准穷人写爽文",
       "onboard_time": 1725801019,
       "rank": 22,
@@ -200,6 +208,14 @@
       "word": "女子2年被家暴16次称孕晚期还会被打",
       "onboard_time": 1725781819,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 846860,
+      "num": 846860,
+      "word": "央视曝光轻医美乱象",
+      "onboard_time": 1725800419,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -475,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 467392,
+      "num": 467392,
+      "word": "aespa和newjeans一起合影了",
+      "onboard_time": 1725803962,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 465413,
       "num": 465413,
       "word": "朱珠 拒绝无聊穿搭",
@@ -707,6 +731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 350232,
+      "num": 350232,
+      "word": "2024MAMA日本场阵容",
+      "onboard_time": 1725801560,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 349553,
       "num": 243426,
       "word": "辛巴删除最新文章",
@@ -731,6 +763,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 343856,
+      "num": 343856,
+      "word": "公务员招录扩大面试比例可行吗",
+      "onboard_time": 1725798619,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340317,
+      "num": 312504,
+      "word": "16岁少年理发被索要4000元",
+      "onboard_time": 1725793518,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 337570,
       "num": 217815,
       "word": "沙和尚被贬下界来不是没道理的",
@@ -747,14 +795,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 333864,
-      "num": 312504,
-      "word": "16岁少年理发被索要4000元",
-      "onboard_time": 1725793518,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 326894,
       "num": 326894,
       "word": "欧弟三胎女儿出生",
@@ -769,14 +809,6 @@
       "onboard_time": 1725791779,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 323915,
-      "num": 240793,
-      "word": "2024MAMA日本场阵容",
-      "onboard_time": 1725801560,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 319533,
@@ -809,6 +841,14 @@
       "onboard_time": 1725793819,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 308982,
+      "num": 308982,
+      "word": "AG对战RW",
+      "onboard_time": 1725793819,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 308327,
@@ -875,6 +915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 272143,
+      "num": 306546,
+      "word": "外卖小哥带娃抗癌被剐蹭车主反手转2千",
+      "onboard_time": 1725801320,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271603,
       "num": 271603,
       "word": "王一博 感觉我俩有点暧昧了",
@@ -913,6 +961,14 @@
       "onboard_time": 1725724220,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260648,
+      "num": 260648,
+      "word": "知情人回应健身博主刘灿溺水身亡",
+      "onboard_time": 1725804021,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 258151,
@@ -995,12 +1051,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 241500,
-      "num": 278399,
-      "word": "公务员招录扩大面试比例可行吗",
-      "onboard_time": 1725798619,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 235693,
+      "num": 235693,
+      "word": "AG晋级夏季赛决赛",
+      "onboard_time": 1725804200,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 234796,
@@ -1017,14 +1073,6 @@
       "onboard_time": 1725704780,
       "rank": 17,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 232738,
-      "num": 232738,
-      "word": "央视曝光轻医美乱象",
-      "onboard_time": 1725800419,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232341,
@@ -1081,6 +1129,14 @@
       "onboard_time": 1725791598,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216856,
+      "num": 216856,
+      "word": "巴黎残奥会中国队94金76银50铜收官",
+      "onboard_time": 1725803842,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 215994,
@@ -1187,12 +1243,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 202437,
+      "num": 242901,
+      "word": "檀健次 录播",
+      "onboard_time": 1725800898,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202035,
       "num": 202035,
       "word": "辛巴说装可怜是网红惯用手段",
       "onboard_time": 1725782419,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 201846,
+      "num": 201846,
+      "word": "孟晚舟刘德华演唱会比心互动",
+      "onboard_time": 1725804620,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 201565,
@@ -1243,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195658,
+      "num": 195658,
+      "word": "残奥会",
+      "onboard_time": 1725804501,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195284,
       "num": 164675,
       "word": "张艺谋你是真喜欢章宇啊",
@@ -1273,6 +1353,14 @@
       "onboard_time": 1725791658,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193336,
+      "num": 193336,
+      "word": "汪东城孟佳开场",
+      "onboard_time": 1725801500,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 189892,
@@ -1347,12 +1435,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 184585,
-      "num": 184585,
-      "word": "AG对战RW",
-      "onboard_time": 1725793819,
+      "raw_hot": 184468,
+      "num": 305797,
+      "word": "网传重庆9月降雪消息不属实",
+      "onboard_time": 1725802099,
       "rank": 37,
-      "category": "电竞"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182336,
@@ -1369,6 +1457,14 @@
       "onboard_time": 1725709701,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 179941,
+      "num": 179941,
+      "word": "KSG11淘汰吃鸡",
+      "onboard_time": 1725804680,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 179880,
@@ -1451,6 +1547,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 170605,
+      "num": 170605,
+      "word": "张峻豪妹妹",
+      "onboard_time": 1725804801,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 169322,
+      "num": 307948,
+      "word": "张含韵唱酸酸甜甜就是我",
+      "onboard_time": 1725803179,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169320,
       "num": 169320,
       "word": "花少6看片会repo",
@@ -1523,11 +1635,35 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 166362,
+      "num": 166362,
+      "word": "保利尼奥退役",
+      "onboard_time": 1725803480,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 166321,
+      "num": 166321,
+      "word": "20元学生小饭桌正在被成年人占领",
+      "onboard_time": 1725800658,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165119,
       "num": 165119,
       "word": "高卿尘高中瘦了15公斤被6个人追",
       "onboard_time": 1725789020,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 165018,
+      "num": 165018,
+      "word": "刘雨昕unwind舞台首秀",
+      "onboard_time": 1725803842,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -1563,12 +1699,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161066,
-      "num": 161066,
-      "word": "汪东城孟佳开场",
-      "onboard_time": 1725801500,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 160438,
+      "num": 160438,
+      "word": "中国队巴黎残奥双第一",
+      "onboard_time": 1725805100,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 160062,
@@ -1601,6 +1737,14 @@
       "onboard_time": 1725770060,
       "rank": 22,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 159405,
+      "num": 159405,
+      "word": "东北雨姐算塌房了吗",
+      "onboard_time": 1725800419,
+      "rank": 44,
+      "category": "网红"
     },
     {
       "raw_hot": 159002,
@@ -1651,14 +1795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154859,
-      "num": 154859,
-      "word": "网传重庆9月降雪消息不属实",
-      "onboard_time": 1725802099,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154518,
       "num": 146938,
       "word": "马嘉祺 郑州",
@@ -1707,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151750,
+      "num": 151750,
+      "word": "毛不易胸前开出了花",
+      "onboard_time": 1725804261,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 151333,
       "num": 167609,
       "word": "Yamy喊话吴宣仪为火箭少女101办节目",
@@ -1747,6 +1891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148914,
+      "num": 148914,
+      "word": "成毅致所有粉丝朋友们",
+      "onboard_time": 1725803420,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148155,
       "num": 148155,
       "word": "这下懂什么叫走不出的大山了",
@@ -1763,20 +1915,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145026,
+      "num": 145026,
+      "word": "AG战胜RW",
+      "onboard_time": 1725805041,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144682,
       "num": 144682,
       "word": "藏海花张海客黑化",
       "onboard_time": 1725800541,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144622,
-      "num": 242901,
-      "word": "檀健次 录播",
-      "onboard_time": 1725800898,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 143618,
@@ -1929,14 +2081,6 @@
       "onboard_time": 1725753257,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 135047,
-      "num": 135047,
-      "word": "20元学生小饭桌正在被成年人占领",
-      "onboard_time": 1725800658,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134056,
@@ -2563,14 +2707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 80894,
-      "num": 306546,
-      "word": "外卖小哥带娃抗癌被剐蹭车主反手转2千",
-      "onboard_time": 1725801320,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73193,
       "num": 73193,
       "word": "胖东来来重庆了",
@@ -2600,6 +2736,14 @@
       "word": "美网",
       "onboard_time": 1725750733,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68220,
+      "num": 738474,
+      "word": "巴黎残奥会泪目瞬间",
+      "onboard_time": 1725801500,
+      "rank": 2,
       "category": "体育"
     },
     {
@@ -2657,14 +2801,6 @@
       "onboard_time": 1725799638,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 56727,
-      "num": 506240,
-      "word": "巴黎残奥会泪目瞬间",
-      "onboard_time": 1725801500,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 56073,
@@ -2756,7 +2892,7 @@
     },
     {
       "raw_hot": 44444,
-      "num": 296588,
+      "num": 303884,
       "word": "20年了还是喜欢酸的甜",
       "onboard_time": 1725800541,
       "rank": 11,
@@ -2811,6 +2947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38329,
+      "num": 297568,
+      "word": "央视曝光保险逾期扣费骗局",
+      "onboard_time": 1725804620,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37749,
       "num": 37749,
       "word": "丁程鑫晒夜宵",
@@ -2856,6 +3000,14 @@
       "word": "台风摩羯",
       "onboard_time": 1725698901,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27440,
+      "num": 286263,
+      "word": "借台风涨价无异于趁火打劫",
+      "onboard_time": 1725804861,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
