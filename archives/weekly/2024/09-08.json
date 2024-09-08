@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725823069907,
+  "endTime": 1725824138441,
   "band_list": [
     {
       "raw_hot": 2331163,
@@ -3115,6 +3115,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 59250,
+      "num": 50383,
+      "word": "张翰谈时隔7年再演古装剧",
+      "onboard_time": 1725820512,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 58715,
       "num": 58715,
       "word": "萨巴伦卡大满贯第三冠",
@@ -3209,14 +3217,6 @@
       "onboard_time": 1725765199,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50383,
-      "num": 50383,
-      "word": "张翰谈时隔7年再演古装剧",
-      "onboard_time": 1725820512,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 49931,
@@ -3427,6 +3427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 25513,
+      "num": 25513,
+      "word": "六公主报道张翰流光引",
+      "onboard_time": 1725822072,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 25436,
       "num": 235098,
       "word": "凯迪拉克2年因同一问题三进4S店",
@@ -3449,14 +3457,6 @@
       "onboard_time": 1725716361,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24605,
-      "num": 24605,
-      "word": "六公主报道张翰流光引",
-      "onboard_time": 1725822072,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 22330,
@@ -3499,6 +3499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19537,
+      "num": 21457,
+      "word": "华晨宇演唱会",
+      "onboard_time": 1725818171,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 19034,
       "num": 31796,
       "word": "白露让秋天有了诗的味道",
@@ -3523,11 +3531,35 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 17713,
+      "num": 21419,
+      "word": "陈绮贞莫文蔚合唱",
+      "onboard_time": 1725823991,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 17535,
       "num": 275898,
       "word": "摩羯走后渔民正抢收破损养殖工具",
       "onboard_time": 1725772218,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15436,
+      "num": 50439,
+      "word": "台风摩羯成为登陆我国最强秋台风",
+      "onboard_time": 1725821892,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13386,
+      "num": 40073,
+      "word": "安徽霍邱农田中发现钱币窑藏",
+      "onboard_time": 1725823751,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -3567,14 +3599,6 @@
       "num": 64259,
       "word": "63岁箱包女王破产后卖包子还债",
       "onboard_time": 1725735253,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8567,
-      "num": 50439,
-      "word": "台风摩羯成为登陆我国最强秋台风",
-      "onboard_time": 1725821892,
       "rank": 9,
       "category": "社会新闻"
     }

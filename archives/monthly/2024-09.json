@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725823069907,
+  "endTime": 1725824138441,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -21403,6 +21403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59250,
+      "num": 50383,
+      "word": "张翰谈时隔7年再演古装剧",
+      "onboard_time": 1725820512,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 58715,
       "num": 58715,
       "word": "萨巴伦卡大满贯第三冠",
@@ -21849,14 +21857,6 @@
       "onboard_time": 1725687678,
       "rank": 15,
       "category": "数码"
-    },
-    {
-      "raw_hot": 50383,
-      "num": 50383,
-      "word": "张翰谈时隔7年再演古装剧",
-      "onboard_time": 1725820512,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 50368,
@@ -23667,6 +23667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 25513,
+      "num": 25513,
+      "word": "六公主报道张翰流光引",
+      "onboard_time": 1725822072,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 25444,
       "num": 500894,
       "word": "收好台风安全避险指南",
@@ -23760,14 +23768,6 @@
       "word": "南派三叔藏海花在线答疑",
       "onboard_time": 1725125895,
       "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 24605,
-      "num": 24605,
-      "word": "六公主报道张翰流光引",
-      "onboard_time": 1725822072,
-      "rank": 38,
       "category": "剧集"
     },
     {
@@ -24219,6 +24219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19537,
+      "num": 21457,
+      "word": "华晨宇演唱会",
+      "onboard_time": 1725818171,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 19450,
       "num": 23329,
       "word": "这些非洲味道你品尝过吗",
@@ -24321,6 +24329,14 @@
       "onboard_time": 1725351680,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 17713,
+      "num": 21419,
+      "word": "陈绮贞莫文蔚合唱",
+      "onboard_time": 1725823991,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 17696,
@@ -24427,6 +24443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15436,
+      "num": 50439,
+      "word": "台风摩羯成为登陆我国最强秋台风",
+      "onboard_time": 1725821892,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15259,
       "num": 167506,
       "word": "8倍pitera能有什么功效",
@@ -24497,6 +24521,14 @@
       "onboard_time": 1725615679,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 13386,
+      "num": 40073,
+      "word": "安徽霍邱农田中发现钱币窑藏",
+      "onboard_time": 1725823751,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13288,
@@ -24648,14 +24680,6 @@
       "word": "专家说短期洪水不足使沙漠变绿洲",
       "onboard_time": 1725255082,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8567,
-      "num": 50439,
-      "word": "台风摩羯成为登陆我国最强秋台风",
-      "onboard_time": 1725821892,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
