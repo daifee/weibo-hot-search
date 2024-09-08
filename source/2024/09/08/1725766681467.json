@@ -1,0 +1,410 @@
+{
+  "runTime": 1725766681467,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 717141,
+        "num": 1114742,
+        "word": "多地报告上半年出生人口增加",
+        "onboard_time": 1725762319,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429451,
+        "num": 429451,
+        "word": "200兆网速实际只有20兆",
+        "onboard_time": 1725763039,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39482,
+        "num": 401340,
+        "word": "2024年国家网络安全宣传周",
+        "onboard_time": 1725765617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393876,
+        "num": 393876,
+        "word": "叙利亚人用沙袋为千年壁画挡战火",
+        "onboard_time": 1725751275,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 365543,
+        "num": 365543,
+        "word": "朱珠 拒绝无聊穿搭",
+        "onboard_time": 1725764179,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 362414,
+        "num": 362414,
+        "word": "警方回应格斗女运动员遭猥亵",
+        "onboard_time": 1725756678,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349222,
+        "num": 349222,
+        "word": "中级会计",
+        "onboard_time": 1725766098,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 293924,
+        "num": 293924,
+        "word": "19块9小火锅围猎海底捞",
+        "onboard_time": 1725763818,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48328,
+        "num": 292451,
+        "word": "雪域高原焕新貌",
+        "onboard_time": 1725765199,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32332,
+        "num": 290175,
+        "word": "起底黑医美案背后的灰色产业链",
+        "onboard_time": 1725766219,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1447359,
+        "num": 288268,
+        "word": "日本游客在圆明园拍照被网红制止",
+        "onboard_time": 1725764599,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 925641,
+        "num": 286533,
+        "word": "卢昱晓 一款存在于内娱的韩剧女主",
+        "onboard_time": 1725764477,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 552824,
+        "num": 283679,
+        "word": "海口网红餐厅被摩羯撕碎了",
+        "onboard_time": 1725729316,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282895,
+        "num": 282895,
+        "word": "男子回沪发现房子被妻子出租",
+        "onboard_time": 1725751816,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272614,
+        "num": 272614,
+        "word": "DQ崩了",
+        "onboard_time": 1725761719,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 234328,
+        "num": 234328,
+        "word": "工业摄像装备拍下摩羯登陆威力",
+        "onboard_time": 1725757637,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175351,
+        "num": 233730,
+        "word": "王一博 还是你做饭我做咖啡吧",
+        "onboard_time": 1725757458,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160880,
+        "num": 233202,
+        "word": "朱志鑫C位队长后首发博",
+        "onboard_time": 1725751334,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119893,
+        "num": 232117,
+        "word": "华晨宇演唱会经费在燃烧",
+        "onboard_time": 1725761839,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 65570,
+        "num": 231597,
+        "word": "排队2000桌10元寿司杀进北京",
+        "onboard_time": 1725765858,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1548504,
+        "num": 230352,
+        "word": "辛巴再度发文痛斥小杨哥",
+        "onboard_time": 1725763519,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 229891,
+        "num": 229891,
+        "word": "G社拍的赵露思生图",
+        "onboard_time": 1725717561,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1480229,
+        "num": 227291,
+        "word": "小杨哥哭了",
+        "onboard_time": 1725761959,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 299147,
+        "num": 221880,
+        "word": "在台风中唯有鸭子屹立不倒",
+        "onboard_time": 1725756379,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242446,
+        "num": 217232,
+        "word": "沙和尚被贬下界来不是没道理的",
+        "onboard_time": 1725764418,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234796,
+        "num": 213557,
+        "word": "睡觉爱流口水是睡得香吗",
+        "onboard_time": 1725761359,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 210890,
+        "num": 210890,
+        "word": "摩羯致海口文昌经济损失600亿元",
+        "onboard_time": 1725757637,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231381,
+        "num": 206385,
+        "word": "晨起后这4个表现说明血脂可能高了",
+        "onboard_time": 1725758177,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166079,
+        "num": 166079,
+        "word": "邓超红发",
+        "onboard_time": 1725735432,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163313,
+        "num": 163313,
+        "word": "这些水果是典型的高糖刺客",
+        "onboard_time": 1725764898,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158307,
+        "num": 158307,
+        "word": "小孩姐削土豆受伤气跑4名医生",
+        "onboard_time": 1725718941,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157142,
+        "num": 157142,
+        "word": "萨巴伦卡美网夺冠",
+        "onboard_time": 1725750674,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141044,
+        "num": 141044,
+        "word": "粉笔模考",
+        "onboard_time": 1725766578,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 132893,
+        "num": 132893,
+        "word": "刘洋因伤离开国家队",
+        "onboard_time": 1725761359,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116121,
+        "num": 130843,
+        "word": "赵丽颖还给张碧晨录了视频",
+        "onboard_time": 1725722840,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130062,
+        "num": 130062,
+        "word": "想对老师说",
+        "onboard_time": 1725765920,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 122655,
+        "num": 122655,
+        "word": "广东一男子因暴雨后赤脚走路住进ICU",
+        "onboard_time": 1725722300,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115510,
+        "num": 115510,
+        "word": "权志龙CL录音室合照",
+        "onboard_time": 1725759917,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113841,
+        "num": 113841,
+        "word": "花三万八在新疆买的小院",
+        "onboard_time": 1725721461,
+        "rank": 38,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 113075,
+        "num": 113075,
+        "word": "潘玮柏 不爱吃不等于不吃",
+        "onboard_time": 1725761478,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111909,
+        "num": 111909,
+        "word": "你惹他就算了惹他家人干嘛",
+        "onboard_time": 1725763876,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109814,
+        "num": 109814,
+        "word": "陈昊宇回应心疼谢美蓝",
+        "onboard_time": 1725762919,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108935,
+        "num": 108935,
+        "word": "男子拉50箱五粮液不绑绳倒一地",
+        "onboard_time": 1725729376,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108536,
+        "num": 108536,
+        "word": "四川大渡河现近60斤野生娃娃鱼",
+        "onboard_time": 1725754517,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98723,
+        "num": 98723,
+        "word": "美依礼芽淘汰了",
+        "onboard_time": 1725752596,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97152,
+        "num": 97152,
+        "word": "阿条姐又有新身份了",
+        "onboard_time": 1725723981,
+        "rank": 45,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 93609,
+        "num": 93609,
+        "word": "林诗栋蒯曼阿拉木图站夺冠",
+        "onboard_time": 1725761000,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89534,
+        "num": 89534,
+        "word": "蟹太太回应辛巴三只羊纠纷",
+        "onboard_time": 1725723139,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 88840,
+        "num": 88840,
+        "word": "北京时间其实产自西安",
+        "onboard_time": 1725754398,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6680,
+        "num": 88626,
+        "word": "颐莲嘭嘭霜",
+        "onboard_time": 1725766640,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视我国教育事业发展#"
+    }
+  }
+}
