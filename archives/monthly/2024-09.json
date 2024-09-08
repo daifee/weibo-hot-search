@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725791886235,
+  "endTime": 1725794192291,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -1963,6 +1963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 932407,
+      "num": 1149185,
+      "word": "刘梓晨为赵露思发声",
+      "onboard_time": 1725786860,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 932231,
       "num": 617750,
       "word": "李雪琴坦然承认自己的无能",
@@ -2033,14 +2041,6 @@
       "onboard_time": 1725502518,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 919735,
-      "num": 1147157,
-      "word": "刘梓晨为赵露思发声",
-      "onboard_time": 1725786860,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 916202,
@@ -4691,6 +4691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 499262,
+      "num": 499262,
+      "word": "中秋节假期3天高速不免费",
+      "onboard_time": 1725786018,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 499247,
       "num": 499247,
       "word": "谢瑜新头像",
@@ -4979,20 +4987,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 477530,
+      "num": 477530,
+      "word": "郑钦文美网轰出54记ACE排名第一",
+      "onboard_time": 1725787640,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 477291,
       "num": 477291,
       "word": "樊振东曾说巴黎奥运是他最后的机会",
       "onboard_time": 1725668539,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 477025,
-      "num": 477025,
-      "word": "中秋节假期3天高速不免费",
-      "onboard_time": 1725786018,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 476618,
@@ -5035,6 +5043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 472912,
+      "num": 291378,
+      "word": "女子金店用嘴盗走小金豆",
+      "onboard_time": 1725786978,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472517,
       "num": 472517,
       "word": "WBG晋级S14",
@@ -5049,14 +5065,6 @@
       "onboard_time": 1725612019,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 471315,
-      "num": 291378,
-      "word": "女子金店用嘴盗走小金豆",
-      "onboard_time": 1725786978,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 471177,
@@ -5195,14 +5203,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 459378,
-      "num": 459378,
-      "word": "郑钦文美网轰出54记ACE排名第一",
-      "onboard_time": 1725787640,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 456630,
       "num": 456630,
       "word": "徐娇泳装写真",
@@ -5240,6 +5240,14 @@
       "word": "网红名号不是三无食品的遮羞布",
       "onboard_time": 1725775819,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453559,
+      "num": 258089,
+      "word": "16岁少年剪头烫发被索要4000元",
+      "onboard_time": 1725790999,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -6379,6 +6387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 349553,
+      "num": 213969,
+      "word": "辛巴删除最新文章",
+      "onboard_time": 1725790459,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 349236,
       "num": 349236,
       "word": "胡兵53岁比35岁还要帅",
@@ -6473,6 +6489,14 @@
       "onboard_time": 1725371001,
       "rank": 23,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 341928,
+      "num": 202263,
+      "word": "三只羊卢文庆发长文",
+      "onboard_time": 1725792619,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 340898,
@@ -6787,6 +6811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 319533,
+      "num": 206520,
+      "word": "韩国舍友手写的中文信",
+      "onboard_time": 1725789679,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 319425,
       "num": 319425,
       "word": "郑钦文回应无缘美网4强",
@@ -6921,6 +6953,14 @@
       "onboard_time": 1725342561,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309106,
+      "num": 257063,
+      "word": "颜人中演唱会官宣",
+      "onboard_time": 1725793819,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 308997,
@@ -7185,14 +7225,6 @@
       "onboard_time": 1725252682,
       "rank": 27,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 297262,
-      "num": 187878,
-      "word": "辛巴删除最新文章",
-      "onboard_time": 1725790459,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 297247,
@@ -7675,6 +7707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 276298,
+      "num": 276298,
+      "word": "2025优酷年度片单",
+      "onboard_time": 1725791779,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 276026,
       "num": 276026,
       "word": "这5类人喝咖啡格外受益",
@@ -7913,6 +7953,14 @@
       "onboard_time": 1725595042,
       "rank": 35,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 268118,
+      "num": 298612,
+      "word": "下星期上班时间有变",
+      "onboard_time": 1725785598,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267982,
@@ -8275,6 +8323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 255474,
+      "num": 255474,
+      "word": "周也叶片妆",
+      "onboard_time": 1725789619,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 255473,
       "num": 530234,
       "word": "为什么年轻人容易遭遇断崖式分手",
@@ -8585,6 +8641,14 @@
       "onboard_time": 1725721221,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 245022,
+      "num": 245022,
+      "word": "王一博 你知道苦瓜吗",
+      "onboard_time": 1725791060,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 244893,
@@ -8945,14 +9009,6 @@
       "onboard_time": 1725498618,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 235643,
-      "num": 235643,
-      "word": "周也叶片妆",
-      "onboard_time": 1725789619,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 235639,
@@ -9507,6 +9563,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 220452,
+      "num": 220452,
+      "word": "刘学义孟子义 颜控天堂",
+      "onboard_time": 1725791598,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220218,
       "num": 303446,
       "word": "男子为还婚前债务偷走新婚礼金",
@@ -9561,14 +9625,6 @@
       "onboard_time": 1725620840,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 218892,
-      "num": 187677,
-      "word": "韩国舍友手写的中文信",
-      "onboard_time": 1725789679,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 218778,
@@ -10068,7 +10124,7 @@
     },
     {
       "raw_hot": 208469,
-      "num": 208469,
+      "num": 218655,
       "word": "易烊千玺沙漠写真",
       "onboard_time": 1725791239,
       "rank": 15,
@@ -11635,6 +11691,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 191976,
+      "num": 191976,
+      "word": "陈都灵眼镜一戴智性恋的天菜",
+      "onboard_time": 1725793279,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 191891,
       "num": 482240,
       "word": "苏新皓急需灭火器",
@@ -12683,14 +12747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181390,
-      "num": 298612,
-      "word": "下星期上班时间有变",
-      "onboard_time": 1725785598,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181283,
       "num": 181283,
       "word": "TF ING",
@@ -13217,6 +13273,14 @@
       "onboard_time": 1725492317,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176074,
+      "num": 176074,
+      "word": "王安宇叫田曦薇伴侣吓到杨迪",
+      "onboard_time": 1725793038,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 176055,
@@ -13995,14 +14059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168746,
-      "num": 168746,
-      "word": "王一博 你知道苦瓜吗",
-      "onboard_time": 1725791060,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 168657,
       "num": 168657,
       "word": "全红婵给国乒男团拍合照",
@@ -14531,6 +14587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163566,
+      "num": 163566,
+      "word": "范丞丞晒照庆六周年",
+      "onboard_time": 1725793159,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163518,
       "num": 163518,
       "word": "迪丽热巴陈飞宇同框氛围感",
@@ -14744,6 +14808,14 @@
       "word": "JDE 心梗",
       "onboard_time": 1725547043,
       "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 161913,
+      "num": 161913,
+      "word": "GEN和HLE决胜局",
+      "onboard_time": 1725793999,
+      "rank": 31,
       "category": "电竞"
     },
     {
@@ -15915,14 +15987,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 151508,
-      "num": 151508,
-      "word": "16岁少年剪头烫发被索要4000元",
-      "onboard_time": 1725790999,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151404,
       "num": 151404,
       "word": "徐嘉余亲手喂王楚钦吃月饼",
@@ -16963,6 +17027,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 140147,
+      "num": 140147,
+      "word": "AG对战RW",
+      "onboard_time": 1725793819,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 139831,
       "num": 139831,
       "word": "王楚然演我拍照",
@@ -16993,6 +17065,14 @@
       "onboard_time": 1725205400,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139321,
+      "num": 139321,
+      "word": "这种糖突然在小孩圈爆火",
+      "onboard_time": 1725788359,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138974,
@@ -17193,14 +17273,6 @@
       "onboard_time": 1725495619,
       "rank": 38,
       "category": "网红"
-    },
-    {
-      "raw_hot": 136518,
-      "num": 136518,
-      "word": "这种糖突然在小孩圈爆火",
-      "onboard_time": 1725788359,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136154,
@@ -18035,6 +18107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124615,
+      "num": 124615,
+      "word": "网红刘灿生前最后视频配文剧终",
+      "onboard_time": 1725793879,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 124612,
       "num": 533877,
       "word": "藏海花",
@@ -18683,6 +18763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 112387,
+      "num": 112387,
+      "word": "中央气象台对台风摩羯停止编号",
+      "onboard_time": 1725794177,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112207,
       "num": 112207,
       "word": "郑钦文今年大满贯成绩",
@@ -19073,14 +19161,6 @@
       "onboard_time": 1725508820,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 100397,
-      "num": 100397,
-      "word": "2025优酷年度片单",
-      "onboard_time": 1725791779,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 100261,
@@ -19535,6 +19615,14 @@
       "num": 306284,
       "word": "警方回应母亲称3岁幼童遭虐待进ICU",
       "onboard_time": 1725467536,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87734,
+      "num": 268037,
+      "word": "16岁少年理发被索要4000元",
+      "onboard_time": 1725793518,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -23585,6 +23673,14 @@
       "onboard_time": 1725314052,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6084,
+      "num": 114740,
+      "word": "玻尿酸的功效有多全面",
+      "onboard_time": 1725793879,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 5772,
