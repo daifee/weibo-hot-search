@@ -1,6 +1,6 @@
 {
   "startTime": 1725812757378,
-  "endTime": 1725820042654,
+  "endTime": 1725820816689,
   "band_list": [
     {
       "raw_hot": 886977,
@@ -331,7 +331,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87260,
+      "raw_hot": 88234,
       "num": 117374,
       "word": "摩羯在越南造成大面积断电断网",
       "onboard_time": 1725816554,
@@ -483,8 +483,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27650,
-      "num": 27650,
+      "raw_hot": 28379,
+      "num": 28379,
       "word": "凡人歌",
       "onboard_time": 1725802581,
       "rank": 40,
@@ -497,6 +497,14 @@
       "onboard_time": 1725816313,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25153,
+      "num": 25153,
+      "word": "张翰谈时隔7年再演古装剧",
+      "onboard_time": 1725820512,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 24921,
@@ -513,6 +521,14 @@
       "onboard_time": 1725805281,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 22012,
+      "num": 22012,
+      "word": "网传重庆9月降雪消息不属实",
+      "onboard_time": 1725802099,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10616,

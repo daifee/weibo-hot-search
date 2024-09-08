@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725820042654,
+  "endTime": 1725820816689,
   "band_list": [
     {
       "raw_hot": 2331163,
@@ -2963,20 +2963,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88234,
+      "num": 117374,
+      "word": "摩羯在越南造成大面积断电断网",
+      "onboard_time": 1725816554,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87620,
       "num": 87620,
       "word": "音乐缘计划十连唱一次听个爽",
       "onboard_time": 1725769878,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 87260,
-      "num": 117374,
-      "word": "摩羯在越南造成大面积断电断网",
-      "onboard_time": 1725816554,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86936,
@@ -3371,8 +3371,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27650,
-      "num": 27650,
+      "raw_hot": 28379,
+      "num": 28379,
       "word": "凡人歌",
       "onboard_time": 1725802581,
       "rank": 40,
@@ -3417,6 +3417,14 @@
       "onboard_time": 1725775219,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25153,
+      "num": 25153,
+      "word": "张翰谈时隔7年再演古装剧",
+      "onboard_time": 1725820512,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 24929,
