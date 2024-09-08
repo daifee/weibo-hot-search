@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/09 06:20:10
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/09 06:37:26
 </p>
 </blockquote>
 <p>
@@ -2763,6 +2763,12 @@ iPhone16新配色（热度：634006）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%A9%BA%E6%8C%82%E5%AD%A6%E7%B1%8D%E4%B9%B1%E8%B1%A1%23" target="weibo">
+央视曝光空挂学籍乱象（热度：632016）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E9%A6%96%E7%9B%98%E8%8E%B7%E8%83%9C%23" target="weibo">
 郑钦文首盘获胜（热度：630684）
 </a>
@@ -3545,12 +3551,6 @@ IVE未公开新歌SupernovaLove（热度：533963）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%86%E8%A1%8C%E6%89%93%E4%BA%BA%E5%A5%B3%E5%AD%90%E5%B7%B2%E5%86%99%E9%81%93%E6%AD%89%E4%B9%A6%E8%87%B4%E6%AD%89%23" target="weibo">
 逆行打人女子已写道歉书致歉（热度：510609）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%A9%BA%E6%8C%82%E5%AD%A6%E7%B1%8D%E4%B9%B1%E8%B1%A1%23" target="weibo">
-央视曝光空挂学籍乱象（热度：510065）
 </a>
 </li>
 

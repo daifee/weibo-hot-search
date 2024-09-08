@@ -1,0 +1,410 @@
+{
+  "runTime": 1725835046611,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 632016,
+        "num": 632016,
+        "word": "央视曝光空挂学籍乱象",
+        "onboard_time": 1725813616,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223395,
+        "num": 223395,
+        "word": "山东大学34岁博导突发心梗离世",
+        "onboard_time": 1725806181,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20060,
+        "num": 216281,
+        "word": "1790位教育工作者教师节前受表彰",
+        "onboard_time": 1725801379,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214870,
+        "num": 214870,
+        "word": "张翰谈时隔7年再演古装剧",
+        "onboard_time": 1725820512,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137113,
+        "num": 137113,
+        "word": "吴昕把皮裙塞裤子里腰还这么细",
+        "onboard_time": 1725805728,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130818,
+        "num": 130818,
+        "word": "16岁少年理发被索要4000元",
+        "onboard_time": 1725793518,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131359,
+        "num": 130725,
+        "word": "张峻豪 给妹妹改造一下",
+        "onboard_time": 1725803420,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127591,
+        "num": 127591,
+        "word": "重庆高温",
+        "onboard_time": 1725812237,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113974,
+        "num": 113974,
+        "word": "知情人回应健身博主刘灿溺水身亡",
+        "onboard_time": 1725804021,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 86099,
+        "num": 86099,
+        "word": "央视曝光轻医美乱象",
+        "onboard_time": 1725800419,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162514,
+        "num": 86035,
+        "word": "大学生因一顿烧烤进ICU换了5次血",
+        "onboard_time": 1725794781,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85929,
+        "num": 85929,
+        "word": "国足在大连似乎走出了惨败阴影",
+        "onboard_time": 1725808102,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80417,
+        "num": 80417,
+        "word": "东北雨姐算塌房了吗",
+        "onboard_time": 1725800419,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 80066,
+        "num": 80066,
+        "word": "摩羯在越南造成大面积断电断网",
+        "onboard_time": 1725816554,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71596,
+        "num": 71596,
+        "word": "小学生俩月花15000元在文具店集卡",
+        "onboard_time": 1725792919,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70851,
+        "num": 70851,
+        "word": "外卖小哥带娃抗癌被剐蹭车主反手转2千",
+        "onboard_time": 1725801320,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70840,
+        "num": 70840,
+        "word": "泰国女孩来中国留学读大专",
+        "onboard_time": 1725794718,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64462,
+        "num": 64462,
+        "word": "韩安冉床头成了网红打卡点",
+        "onboard_time": 1725788058,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 61267,
+        "num": 61267,
+        "word": "华晨宇 华妃是在叫我吗",
+        "onboard_time": 1725809301,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 60955,
+        "num": 60955,
+        "word": "20元学生小饭桌正在被成年人占领",
+        "onboard_time": 1725800658,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57425,
+        "num": 57425,
+        "word": "网红刘灿意外溺水去世",
+        "onboard_time": 1725781999,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 53785,
+        "num": 53785,
+        "word": "海口躲台风腿被夹业主一家平安",
+        "onboard_time": 1725802340,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53442,
+        "num": 53442,
+        "word": "一点开以为是爸爸回来了",
+        "onboard_time": 1725815773,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52290,
+        "num": 52290,
+        "word": "王子奇就这么水灵灵抱上了黄景瑜",
+        "onboard_time": 1725832992,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 52058,
+        "num": 52058,
+        "word": "孙卓首度回应报考南工大原因",
+        "onboard_time": 1725798502,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48624,
+        "num": 48624,
+        "word": "何秋亊直播",
+        "onboard_time": 1725810201,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47662,
+        "num": 47662,
+        "word": "原来猫咪也有扁头的",
+        "onboard_time": 1725809003,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44429,
+        "num": 44429,
+        "word": "杜江霍思燕带儿女遛狗",
+        "onboard_time": 1725794899,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39731,
+        "num": 39731,
+        "word": "官方通报16岁少年理发被索要4000元",
+        "onboard_time": 1725807984,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37674,
+        "num": 37674,
+        "word": "六公主报道张翰流光引",
+        "onboard_time": 1725822072,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37404,
+        "num": 37404,
+        "word": "6年相亲28个找不到六边形战士",
+        "onboard_time": 1725825491,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36157,
+        "num": 36157,
+        "word": "撒贝宁王鸥一个敢调一个敢喝",
+        "onboard_time": 1725806601,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35830,
+        "num": 35830,
+        "word": "恋综 strong",
+        "onboard_time": 1725815954,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34453,
+        "num": 34453,
+        "word": "丁禹兮邓恩熙大大方方营业",
+        "onboard_time": 1725816854,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33048,
+        "num": 33048,
+        "word": "刘梓晨为赵露思发声",
+        "onboard_time": 1725786860,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32936,
+        "num": 32936,
+        "word": "凡人歌",
+        "onboard_time": 1725802581,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32930,
+        "num": 32930,
+        "word": "AG超玩会 宝石流",
+        "onboard_time": 1725800658,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31413,
+        "num": 32617,
+        "word": "安徽霍邱农田中发现钱币窑藏",
+        "onboard_time": 1725823751,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30517,
+        "num": 32518,
+        "word": "久坐的人臀部会失忆",
+        "onboard_time": 1725818773,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 32507,
+        "num": 32507,
+        "word": "赵露思早期视频",
+        "onboard_time": 1725797899,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29250,
+        "num": 32502,
+        "word": "网传重庆9月降雪消息不属实",
+        "onboard_time": 1725802099,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29153,
+        "num": 32486,
+        "word": "10岁轮椅女孩上学4年成全班35人团宠",
+        "onboard_time": 1725826752,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28255,
+        "num": 32478,
+        "word": "欲买桂花同载酒 终不似少年游",
+        "onboard_time": 1725810620,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27953,
+        "num": 32465,
+        "word": "中国消防员参加世锦赛有多敏捷",
+        "onboard_time": 1725816313,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24173,
+        "num": 32455,
+        "word": "龚俊暗河传补妆路透",
+        "onboard_time": 1725831070,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24144,
+        "num": 32450,
+        "word": "巴黎残奥会中国队94金76银50铜收官",
+        "onboard_time": 1725803842,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23828,
+        "num": 32441,
+        "word": "华晨宇演唱会",
+        "onboard_time": 1725818171,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23418,
+        "num": 32431,
+        "word": "中国连续6届残奥金牌榜奖牌榜第一",
+        "onboard_time": 1725820632,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22602,
+        "num": 32418,
+        "word": "台风摩羯成为登陆我国最强秋台风",
+        "onboard_time": 1725821892,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22411,
+        "num": 32405,
+        "word": "aespa和newjeans一起合影了",
+        "onboard_time": 1725803962,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领网络强国建设#"
+    }
+  }
+}

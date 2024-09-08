@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725834010778,
+  "endTime": 1725835046611,
   "band_list": [
     {
       "raw_hot": 2331163,
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 632016,
+      "num": 632016,
+      "word": "央视曝光空挂学籍乱象",
+      "onboard_time": 1725813616,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 621868,
       "num": 621868,
       "word": "马嘉祺换头像了",
@@ -449,14 +457,6 @@
       "onboard_time": 1725783980,
       "rank": 32,
       "category": "网红"
-    },
-    {
-      "raw_hot": 510065,
-      "num": 510065,
-      "word": "央视曝光空挂学籍乱象",
-      "onboard_time": 1725813616,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 499262,
@@ -1265,6 +1265,14 @@
       "onboard_time": 1725772879,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214870,
+      "num": 214870,
+      "word": "张翰谈时隔7年再演古装剧",
+      "onboard_time": 1725820512,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 213313,
@@ -2121,14 +2129,6 @@
       "onboard_time": 1725716602,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147600,
-      "num": 147600,
-      "word": "张翰谈时隔7年再演古装剧",
-      "onboard_time": 1725820512,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 144911,
@@ -3179,6 +3179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53442,
+      "num": 53442,
+      "word": "一点开以为是爸爸回来了",
+      "onboard_time": 1725815773,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 53305,
       "num": 287614,
       "word": "专家谈年轻人想把结婚变成秋招",
@@ -3201,6 +3209,14 @@
       "onboard_time": 1725815235,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 52290,
+      "num": 52290,
+      "word": "王子奇就这么水灵灵抱上了黄景瑜",
+      "onboard_time": 1725832992,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 51207,
@@ -3232,14 +3248,6 @@
       "word": "酸酸乳的这波回忆杀谁懂啊",
       "onboard_time": 1725788419,
       "rank": 11,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 46149,
-      "num": 46149,
-      "word": "一点开以为是爸爸回来了",
-      "onboard_time": 1725815773,
-      "rank": 49,
       "category": "综艺"
     },
     {
@@ -3323,6 +3331,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 37674,
+      "num": 37674,
+      "word": "六公主报道张翰流光引",
+      "onboard_time": 1725822072,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 37404,
+      "num": 37404,
+      "word": "6年相亲28个找不到六边形战士",
+      "onboard_time": 1725825491,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36858,
       "num": 226721,
       "word": "撸猫撸狗真的能让心情变好",
@@ -3347,10 +3371,26 @@
       "category": "演出"
     },
     {
+      "raw_hot": 32936,
+      "num": 32936,
+      "word": "凡人歌",
+      "onboard_time": 1725802581,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 32332,
       "num": 290175,
       "word": "起底黑医美案背后的灰色产业链",
       "onboard_time": 1725766219,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31413,
+      "num": 40073,
+      "word": "安徽霍邱农田中发现钱币窑藏",
+      "onboard_time": 1725823751,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -3361,22 +3401,6 @@
       "onboard_time": 1725785359,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 30430,
-      "num": 30430,
-      "word": "王子奇就这么水灵灵抱上了黄景瑜",
-      "onboard_time": 1725832992,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 30376,
-      "num": 30376,
-      "word": "6年相亲28个找不到六边形战士",
-      "onboard_time": 1725825491,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29663,
@@ -3395,20 +3419,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28379,
-      "num": 28379,
-      "word": "凡人歌",
-      "onboard_time": 1725802581,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 29153,
+      "num": 32486,
+      "word": "10岁轮椅女孩上学4年成全班35人团宠",
+      "onboard_time": 1725826752,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 27668,
-      "num": 27668,
-      "word": "六公主报道张翰流光引",
-      "onboard_time": 1725822072,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 27953,
+      "num": 32465,
+      "word": "中国消防员参加世锦赛有多敏捷",
+      "onboard_time": 1725816313,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26747,
@@ -3416,14 +3440,6 @@
       "word": "男子花费近万元提升学历机构失联",
       "onboard_time": 1725801679,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26281,
-      "num": 40073,
-      "word": "安徽霍邱农田中发现钱币窑藏",
-      "onboard_time": 1725823751,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -3443,28 +3459,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 25936,
-      "num": 29773,
-      "word": "中国消防员参加世锦赛有多敏捷",
-      "onboard_time": 1725816313,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25663,
       "num": 25663,
       "word": "王一博在雪山也四点起床",
       "onboard_time": 1725736511,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 25487,
-      "num": 25487,
-      "word": "10岁轮椅女孩上学4年成全班35人团宠",
-      "onboard_time": 1725826752,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25436,
@@ -3491,24 +3491,40 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23987,
-      "num": 25377,
-      "word": "华晨宇演唱会",
-      "onboard_time": 1725818171,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 22529,
-      "num": 25212,
+      "raw_hot": 24173,
+      "num": 32455,
       "word": "龚俊暗河传补妆路透",
       "onboard_time": 1725831070,
       "rank": 40,
       "category": "剧集"
     },
     {
+      "raw_hot": 23987,
+      "num": 32441,
+      "word": "华晨宇演唱会",
+      "onboard_time": 1725818171,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 23418,
+      "num": 32431,
+      "word": "中国连续6届残奥金牌榜奖牌榜第一",
+      "onboard_time": 1725820632,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 22602,
+      "num": 50439,
+      "word": "台风摩羯成为登陆我国最强秋台风",
+      "onboard_time": 1725821892,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22330,
-      "num": 201655,
+      "num": 216281,
       "word": "1790位教育工作者教师节前受表彰",
       "onboard_time": 1725801379,
       "rank": 30,
@@ -3531,28 +3547,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21132,
-      "num": 24979,
-      "word": "中国连续6届残奥金牌榜奖牌榜第一",
-      "onboard_time": 1725820632,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 20704,
       "num": 24316,
       "word": "张杰福州演唱会",
       "onboard_time": 1725730933,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 20482,
-      "num": 50439,
-      "word": "台风摩羯成为登陆我国最强秋台风",
-      "onboard_time": 1725821892,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19844,
