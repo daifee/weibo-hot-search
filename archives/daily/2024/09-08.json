@@ -1,10 +1,10 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725772842253,
+  "endTime": 1725773858727,
   "band_list": [
     {
       "raw_hot": 1779595,
-      "num": 248023,
+      "num": 273232,
       "word": "辛巴再度发文痛斥小杨哥",
       "onboard_time": 1725763519,
       "rank": 33,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1656185,
-      "num": 250358,
+      "num": 275191,
       "word": "小杨哥哭了",
       "onboard_time": 1725761959,
       "rank": 20,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1549930,
-      "num": 288268,
+      "num": 348042,
       "word": "日本游客在圆明园拍照被网红制止",
       "onboard_time": 1725764599,
       "rank": 11,
@@ -41,6 +41,22 @@
       "onboard_time": 1725766939,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1322923,
+      "num": 1322923,
+      "word": "张大大为赵露思发声",
+      "onboard_time": 1725772459,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1034129,
+      "num": 1127017,
+      "word": "美宇航员太空出差8天变被困8个月",
+      "onboard_time": 1725768500,
+      "rank": 5,
+      "category": "国外时政"
     },
     {
       "raw_hot": 982333,
@@ -68,7 +84,7 @@
     },
     {
       "raw_hot": 907819,
-      "num": 261900,
+      "num": 340781,
       "word": "50箱五粮液侧翻倒地一瓶没碎",
       "onboard_time": 1725769639,
       "rank": 26,
@@ -91,20 +107,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 801834,
+      "num": 801834,
+      "word": "宋浩然在产房直播卖货",
+      "onboard_time": 1725770720,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 801329,
       "num": 227608,
       "word": "张杰 素人电话号",
       "onboard_time": 1725705080,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 793861,
-      "num": 1127017,
-      "word": "美宇航员太空出差8天变被困8个月",
-      "onboard_time": 1725768500,
-      "rank": 5,
-      "category": "国外时政"
     },
     {
       "raw_hot": 776759,
@@ -171,14 +187,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 549293,
-      "num": 398957,
-      "word": "宋浩然在产房直播卖货",
-      "onboard_time": 1725770720,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 543848,
       "num": 280607,
       "word": "广东一男子因暴雨后赤脚走路住进ICU",
@@ -195,8 +203,16 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 536676,
+      "num": 391201,
+      "word": "章子怡汪峰儿子侧脸",
+      "onboard_time": 1725768980,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 534389,
-      "num": 261609,
+      "num": 339313,
       "word": "黄一鸣晒女儿报平安",
       "onboard_time": 1725769579,
       "rank": 15,
@@ -259,14 +275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 408176,
-      "num": 391201,
-      "word": "章子怡汪峰儿子侧脸",
-      "onboard_time": 1725768980,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 405493,
       "num": 206385,
       "word": "晨起后这4个表现说明血脂可能高了",
@@ -289,6 +297,14 @@
       "onboard_time": 1725766878,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 390144,
+      "num": 390144,
+      "word": "2男子盗播超8万部剧集获利3.92亿",
+      "onboard_time": 1725772340,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 386303,
@@ -331,6 +347,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 354236,
+      "num": 354236,
+      "word": "摩羯致海口文昌经济损失600亿元",
+      "onboard_time": 1725757637,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353507,
+      "num": 353507,
+      "word": "王一博 怎么突然演起来了",
+      "onboard_time": 1725771260,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 349222,
       "num": 349222,
       "word": "中级会计",
@@ -355,12 +387,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 328557,
-      "num": 328557,
-      "word": "摩羯致海口文昌经济损失600亿元",
-      "onboard_time": 1725757637,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 325357,
+      "num": 325357,
+      "word": "欧弟三胎女儿出生",
+      "onboard_time": 1725772340,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 312483,
@@ -387,6 +419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 294957,
+      "num": 294957,
+      "word": "爱奇艺已退款",
+      "onboard_time": 1725772940,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 294914,
       "num": 294914,
       "word": "曾舜晞经纪人和吴宣仪是同学",
@@ -411,28 +451,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 260914,
-      "num": 260914,
-      "word": "王一博 怎么突然演起来了",
-      "onboard_time": 1725771260,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 255512,
       "num": 255512,
       "word": "秦岚被挤得瑟瑟发抖",
       "onboard_time": 1725749174,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 253609,
-      "num": 253609,
-      "word": "张大大为赵露思发声",
-      "onboard_time": 1725772459,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 252368,
@@ -483,14 +507,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 235400,
-      "num": 235400,
-      "word": "2男子盗播超8万部剧集获利3.92亿",
-      "onboard_time": 1725772340,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 234796,
       "num": 213557,
       "word": "睡觉爱流口水是睡得香吗",
@@ -505,6 +521,14 @@
       "onboard_time": 1725704780,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 232470,
+      "num": 232470,
+      "word": "金靖怀孕九个月状态",
+      "onboard_time": 1725772039,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 232341,
@@ -539,14 +563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 222086,
-      "num": 205462,
-      "word": "欧弟三胎女儿出生",
-      "onboard_time": 1725772340,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205646,
       "num": 205646,
       "word": "宋亚轩粉色针织帽",
@@ -561,6 +577,14 @@
       "onboard_time": 1725751334,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 199581,
+      "num": 199581,
+      "word": "问界M9大五座曝光",
+      "onboard_time": 1725773780,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 198089,
@@ -579,8 +603,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192411,
-      "num": 192411,
+      "raw_hot": 193189,
+      "num": 193189,
       "word": "广州一幼儿园爆改成老年大学",
       "onboard_time": 1725770720,
       "rank": 31,
@@ -601,14 +625,6 @@
       "onboard_time": 1725754517,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187929,
-      "num": 187929,
-      "word": "金靖怀孕九个月状态",
-      "onboard_time": 1725772039,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 187922,
@@ -648,6 +664,14 @@
       "word": "市监回应老人称在足浴店消费32万",
       "onboard_time": 1725768020,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179143,
+      "num": 179143,
+      "word": "亚人",
+      "onboard_time": 1725772879,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -891,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124974,
+      "num": 124974,
+      "word": "王一博模拟人工呼吸",
+      "onboard_time": 1725773059,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124188,
       "num": 124188,
       "word": "林诗栋蒯曼阿拉木图站夺冠",
@@ -905,6 +937,14 @@
       "onboard_time": 1725716480,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 124025,
+      "num": 124025,
+      "word": "早田希娜因伤缺席中国大满贯",
+      "onboard_time": 1725772399,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 122966,
@@ -1035,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105956,
+      "num": 105956,
+      "word": "KPL夏决表演嘉宾官宣",
+      "onboard_time": 1725772340,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 105762,
       "num": 105762,
       "word": "德国乒乓名将波尔说樊振东最难打",
@@ -1043,12 +1091,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105257,
+      "num": 105257,
+      "word": "英国版比尔盖茨尸检结果曝光",
+      "onboard_time": 1725772399,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105189,
       "num": 105189,
       "word": "为什么人在坐车的时候容易犯困",
       "onboard_time": 1725763818,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 104808,
+      "num": 104808,
+      "word": "上海交大校长称给青年吃成长定心丸",
+      "onboard_time": 1725772520,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104656,
@@ -1073,14 +1137,6 @@
       "onboard_time": 1725721581,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 103349,
-      "num": 103349,
-      "word": "KPL夏决表演嘉宾官宣",
-      "onboard_time": 1725772340,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 103103,
@@ -1137,6 +1193,14 @@
       "onboard_time": 1725769639,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 95977,
+      "num": 95977,
+      "word": "叶子一把搂住花花",
+      "onboard_time": 1725773659,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 95370,
@@ -1203,14 +1267,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 89897,
-      "num": 89897,
-      "word": "早田希娜因伤缺席中国大满贯",
-      "onboard_time": 1725772399,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 88432,
       "num": 91895,
       "word": "张极难忘今宵",
@@ -1225,6 +1281,14 @@
       "onboard_time": 1725769878,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86936,
+      "num": 279795,
+      "word": "出走的决心",
+      "onboard_time": 1725773301,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 82566,
@@ -1356,10 +1420,18 @@
     },
     {
       "raw_hot": 50991,
-      "num": 401395,
+      "num": 837682,
       "word": "雪域高原焕新貌",
       "onboard_time": 1725765199,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50738,
+      "num": 350551,
+      "word": "摩羯三次登陆都是超强台风级别",
+      "onboard_time": 1725772218,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1369,6 +1441,14 @@
       "onboard_time": 1725742271,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 43989,
+      "num": 327493,
+      "word": "英国富豪沉船案首批尸检结果出炉",
+      "onboard_time": 1725772218,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41436,
@@ -1467,28 +1547,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21411,
-      "num": 261232,
-      "word": "英国富豪沉船案首批尸检结果出炉",
-      "onboard_time": 1725772218,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 20704,
       "num": 24316,
       "word": "张杰福州演唱会",
       "onboard_time": 1725730933,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 19522,
-      "num": 262280,
-      "word": "摩羯三次登陆都是超强台风级别",
-      "onboard_time": 1725772218,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19034,
@@ -1507,8 +1571,8 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 14448,
-      "num": 251039,
+      "raw_hot": 17535,
+      "num": 275898,
       "word": "摩羯走后渔民正抢收破损养殖工具",
       "onboard_time": 1725772218,
       "rank": 19,
