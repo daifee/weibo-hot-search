@@ -1,0 +1,410 @@
+{
+  "runTime": 1725806213911,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2216278,
+        "num": 2216278,
+        "word": "张峻豪 给妹妹改造一下",
+        "onboard_time": 1725803420,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1003322,
+        "num": 1003322,
+        "word": "央视曝光轻医美乱象",
+        "onboard_time": 1725800419,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71574,
+        "num": 748297,
+        "word": "巴黎残奥会泪目瞬间",
+        "onboard_time": 1725801500,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 651832,
+        "num": 651832,
+        "word": "aespa和newjeans一起合影了",
+        "onboard_time": 1725803962,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 550589,
+        "num": 550589,
+        "word": "孙卓首度回应报考南工大原因",
+        "onboard_time": 1725798502,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542751,
+        "num": 542751,
+        "word": "泰国女孩来中国留学读大专",
+        "onboard_time": 1725794718,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482318,
+        "num": 482318,
+        "word": "16岁少年理发被索要4000元",
+        "onboard_time": 1725793518,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317233,
+        "num": 317233,
+        "word": "张雨绮 不是长得丑就不是渣男",
+        "onboard_time": 1725796339,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190573,
+        "num": 316206,
+        "word": "罗云熙黑月光梦回澹台烬",
+        "onboard_time": 1725805281,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148217,
+        "num": 311681,
+        "word": "网传重庆9月降雪消息不属实",
+        "onboard_time": 1725802099,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381827,
+        "num": 308853,
+        "word": "公务员招录扩大面试比例可行吗",
+        "onboard_time": 1725798619,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 796280,
+        "num": 304181,
+        "word": "大学生因一顿烧烤进ICU换了5次血",
+        "onboard_time": 1725794781,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560921,
+        "num": 296520,
+        "word": "韩安冉床头成了网红打卡点",
+        "onboard_time": 1725788058,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 466953,
+        "num": 293986,
+        "word": "网红刘灿意外溺水去世",
+        "onboard_time": 1725781999,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 57061,
+        "num": 290236,
+        "word": "央视曝光保险逾期扣费骗局",
+        "onboard_time": 1725804620,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288062,
+        "num": 288062,
+        "word": "2024MAMA日本场阵容",
+        "onboard_time": 1725801560,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 268991,
+        "num": 268991,
+        "word": "知情人回应健身博主刘灿溺水身亡",
+        "onboard_time": 1725804021,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 265800,
+        "num": 265800,
+        "word": "外卖小哥带娃抗癌被剐蹭车主反手转2千",
+        "onboard_time": 1725801320,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253503,
+        "num": 253503,
+        "word": "孟晚舟刘德华演唱会比心互动",
+        "onboard_time": 1725804620,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29642,
+        "num": 253110,
+        "word": "借台风涨价无异于趁火打劫",
+        "onboard_time": 1725804861,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1316735,
+        "num": 250709,
+        "word": "以后不准穷人写爽文",
+        "onboard_time": 1725801019,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 392709,
+        "num": 249089,
+        "word": "杜江霍思燕带儿女遛狗",
+        "onboard_time": 1725794899,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325013,
+        "num": 248320,
+        "word": "刘梓晨为赵露思发声",
+        "onboard_time": 1725786860,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296895,
+        "num": 246284,
+        "word": "马嘉祺换头像了",
+        "onboard_time": 1725795019,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246083,
+        "num": 246083,
+        "word": "AG对战RW",
+        "onboard_time": 1725793819,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 229889,
+        "num": 229889,
+        "word": "巴黎残奥会中国队94金76银50铜收官",
+        "onboard_time": 1725803842,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221611,
+        "num": 221611,
+        "word": "张峻豪妹妹",
+        "onboard_time": 1725804801,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220484,
+        "num": 220484,
+        "word": "湖南卫视酸甜之夜",
+        "onboard_time": 1725798259,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219355,
+        "num": 219355,
+        "word": "吴昕把皮裙塞裤子里腰还这么细",
+        "onboard_time": 1725805728,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216908,
+        "num": 216908,
+        "word": "张含韵唱酸酸甜甜就是我",
+        "onboard_time": 1725803179,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210718,
+        "num": 210718,
+        "word": "AG战胜RW",
+        "onboard_time": 1725805041,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 209888,
+        "num": 209888,
+        "word": "赵小童在干嘛",
+        "onboard_time": 1725805341,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193094,
+        "num": 193094,
+        "word": "赵露思早期视频",
+        "onboard_time": 1725797899,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192142,
+        "num": 192142,
+        "word": "AG晋级夏季赛决赛",
+        "onboard_time": 1725804200,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 189727,
+        "num": 189727,
+        "word": "周笔畅修音响",
+        "onboard_time": 1725805221,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186479,
+        "num": 186479,
+        "word": "华晨宇说粉丝连一层纱都不放过",
+        "onboard_time": 1725805641,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182805,
+        "num": 182805,
+        "word": "20元学生小饭桌正在被成年人占领",
+        "onboard_time": 1725800658,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180337,
+        "num": 180337,
+        "word": "东北雨姐算塌房了吗",
+        "onboard_time": 1725800419,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 22816,
+        "num": 179927,
+        "word": "20年了还是喜欢酸的甜",
+        "onboard_time": 1725800541,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179827,
+        "num": 179827,
+        "word": "防晒衣割不动年轻人了",
+        "onboard_time": 1725786140,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174652,
+        "num": 174652,
+        "word": "中国队巴黎残奥双第一",
+        "onboard_time": 1725805100,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167251,
+        "num": 167251,
+        "word": "中秋节假期3天高速不免费",
+        "onboard_time": 1725786018,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158064,
+        "num": 158064,
+        "word": "檀健次 录播",
+        "onboard_time": 1725800898,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152118,
+        "num": 152118,
+        "word": "AG超玩会 宝石流",
+        "onboard_time": 1725800658,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149713,
+        "num": 149713,
+        "word": "RW夏季赛淘汰",
+        "onboard_time": 1725806061,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148094,
+        "num": 148094,
+        "word": "Tian 你是我的劫",
+        "onboard_time": 1725802399,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110860,
+        "num": 147739,
+        "word": "周深华丽唱腔表现大场面",
+        "onboard_time": 1725805702,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147642,
+        "num": 147642,
+        "word": "中学生心脏骤停被同学1分钟救回",
+        "onboard_time": 1725775879,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147441,
+        "num": 147441,
+        "word": "海口躲台风腿被夹业主一家平安",
+        "onboard_time": 1725802340,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140169,
+        "num": 140169,
+        "word": "山东大学34岁博导突发心梗离世",
+        "onboard_time": 1725806181,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习进行时#"
+    }
+  }
+}
