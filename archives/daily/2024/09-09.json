@@ -1,7 +1,15 @@
 {
   "startTime": 1725812757378,
-  "endTime": 1725835046611,
+  "endTime": 1725837792801,
   "band_list": [
+    {
+      "raw_hot": 1035438,
+      "num": 1035438,
+      "word": "央视曝光空挂学籍乱象",
+      "onboard_time": 1725813616,
+      "rank": 21,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 886977,
       "num": 944433,
@@ -9,14 +17,6 @@
       "onboard_time": 1725803420,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 632016,
-      "num": 632016,
-      "word": "央视曝光空挂学籍乱象",
-      "onboard_time": 1725813616,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 595000,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 488398,
+      "num": 488398,
+      "word": "山东大学34岁博导突发心梗离世",
+      "onboard_time": 1725806181,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432286,
       "num": 247804,
       "word": "大学生因一顿烧烤进ICU换了5次血",
@@ -51,12 +59,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 371046,
-      "num": 371046,
-      "word": "山东大学34岁博导突发心梗离世",
-      "onboard_time": 1725806181,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 430029,
+      "num": 430029,
+      "word": "张翰谈时隔7年再演古装剧",
+      "onboard_time": 1725820512,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 343255,
@@ -115,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232982,
+      "num": 197762,
+      "word": "小学生俩月花15000元在文具店集卡",
+      "onboard_time": 1725792919,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227722,
       "num": 227722,
       "word": "湖南卫视音响",
@@ -131,12 +147,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 214870,
-      "num": 214870,
-      "word": "张翰谈时隔7年再演古装剧",
-      "onboard_time": 1725820512,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 220097,
+      "num": 220097,
+      "word": "知情人回应健身博主刘灿溺水身亡",
+      "onboard_time": 1725804021,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 208898,
+      "num": 208898,
+      "word": "重庆高温",
+      "onboard_time": 1725812237,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198310,
@@ -147,12 +171,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194215,
-      "num": 159882,
-      "word": "重庆高温",
-      "onboard_time": 1725812237,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 195296,
+      "num": 195296,
+      "word": "辛纳美网夺冠",
+      "onboard_time": 1725836776,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 191892,
@@ -169,6 +193,22 @@
       "onboard_time": 1725811701,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 189182,
+      "num": 189182,
+      "word": "王子奇就这么水灵灵抱上了黄景瑜",
+      "onboard_time": 1725832992,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187405,
+      "num": 187405,
+      "word": "摩羯在越南造成大面积断电断网",
+      "onboard_time": 1725816554,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183931,
@@ -203,12 +243,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153450,
+      "num": 153450,
+      "word": "20元学生小饭桌正在被成年人占领",
+      "onboard_time": 1725800658,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152287,
       "num": 134383,
       "word": "原来猫咪也有扁头的",
       "onboard_time": 1725809003,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151148,
+      "num": 151148,
+      "word": "东北雨姐算塌房了吗",
+      "onboard_time": 1725800419,
+      "rank": 37,
+      "category": "网红"
     },
     {
       "raw_hot": 146864,
@@ -235,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126269,
+      "num": 126269,
+      "word": "外卖小哥带娃抗癌被剐蹭车主反手转2千",
+      "onboard_time": 1725801320,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125704,
       "num": 125704,
       "word": "马嘉祺换头像了",
@@ -259,20 +323,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113974,
-      "num": 113974,
-      "word": "知情人回应健身博主刘灿溺水身亡",
-      "onboard_time": 1725804021,
-      "rank": 31,
-      "category": "网红"
+      "raw_hot": 106148,
+      "num": 123378,
+      "word": "一点开以为是爸爸回来了",
+      "onboard_time": 1725815773,
+      "rank": 49,
+      "category": "综艺"
     },
     {
-      "raw_hot": 106163,
-      "num": 106163,
-      "word": "外卖小哥带娃抗癌被剐蹭车主反手转2千",
-      "onboard_time": 1725801320,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 105332,
+      "num": 105332,
+      "word": "久坐的人臀部会失忆",
+      "onboard_time": 1725818773,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 100997,
@@ -307,43 +371,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96894,
-      "num": 96894,
-      "word": "20元学生小饭桌正在被成年人占领",
-      "onboard_time": 1725800658,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96115,
-      "num": 96115,
-      "word": "东北雨姐算塌房了吗",
-      "onboard_time": 1725800419,
-      "rank": 37,
-      "category": "网红"
-    },
-    {
       "raw_hot": 94148,
       "num": 94148,
       "word": "央视曝光保险逾期扣费骗局",
       "onboard_time": 1725804620,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 93296,
-      "num": 93296,
-      "word": "小学生俩月花15000元在文具店集卡",
-      "onboard_time": 1725792919,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 88234,
-      "num": 117374,
-      "word": "摩羯在越南造成大面积断电断网",
-      "onboard_time": 1725816554,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -353,6 +385,14 @@
       "onboard_time": 1725806421,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85659,
+      "num": 85659,
+      "word": "金智媛见面会被喊金秀贤",
+      "onboard_time": 1725835454,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 77731,
@@ -377,6 +417,14 @@
       "onboard_time": 1725811579,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 71814,
+      "num": 71814,
+      "word": "6年相亲28个找不到六边形战士",
+      "onboard_time": 1725825491,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71696,
@@ -435,12 +483,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 53442,
-      "num": 53442,
-      "word": "一点开以为是爸爸回来了",
-      "onboard_time": 1725815773,
+      "raw_hot": 62816,
+      "num": 66083,
+      "word": "六公主报道张翰流光引",
+      "onboard_time": 1725822072,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 59137,
+      "num": 66035,
+      "word": "10岁轮椅女孩上学4年成全班35人团宠",
+      "onboard_time": 1725826752,
       "rank": 49,
-      "category": "综艺"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52453,
@@ -451,14 +507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 52290,
-      "num": 52290,
-      "word": "王子奇就这么水灵灵抱上了黄景瑜",
-      "onboard_time": 1725832992,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 50731,
       "num": 382884,
       "word": "一句古诗适配秋天",
@@ -467,43 +515,43 @@
       "category": "情感"
     },
     {
-      "raw_hot": 43636,
-      "num": 43636,
+      "raw_hot": 49183,
+      "num": 65995,
       "word": "丁禹兮邓恩熙大大方方营业",
       "onboard_time": 1725816854,
       "rank": 42,
       "category": "剧集"
     },
     {
-      "raw_hot": 42780,
-      "num": 42780,
+      "raw_hot": 44469,
+      "num": 65922,
+      "word": "安徽霍邱农田中发现钱币窑藏",
+      "onboard_time": 1725823751,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43092,
+      "num": 65876,
       "word": "AG超玩会 宝石流",
       "onboard_time": 1725800658,
       "rank": 47,
       "category": "电竞"
     },
     {
-      "raw_hot": 40438,
-      "num": 40438,
-      "word": "久坐的人臀部会失忆",
-      "onboard_time": 1725818773,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 37674,
-      "num": 37674,
-      "word": "六公主报道张翰流光引",
-      "onboard_time": 1725822072,
-      "rank": 38,
+      "raw_hot": 42322,
+      "num": 65828,
+      "word": "凡人歌",
+      "onboard_time": 1725802581,
+      "rank": 40,
       "category": "剧集"
     },
     {
-      "raw_hot": 37404,
-      "num": 37404,
-      "word": "6年相亲28个找不到六边形战士",
-      "onboard_time": 1725825491,
-      "rank": 45,
+      "raw_hot": 38451,
+      "num": 65798,
+      "word": "网传重庆9月降雪消息不属实",
+      "onboard_time": 1725802099,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -515,36 +563,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32936,
-      "num": 32936,
-      "word": "凡人歌",
-      "onboard_time": 1725802581,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 31413,
-      "num": 40073,
-      "word": "安徽霍邱农田中发现钱币窑藏",
-      "onboard_time": 1725823751,
+      "raw_hot": 34736,
+      "num": 65764,
+      "word": "台风摩羯成为登陆我国最强秋台风",
+      "onboard_time": 1725821892,
       "rank": 9,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29250,
-      "num": 32502,
-      "word": "网传重庆9月降雪消息不属实",
-      "onboard_time": 1725802099,
-      "rank": 49,
+      "raw_hot": 34638,
+      "num": 434829,
+      "word": "1790位教育工作者教师节前受表彰",
+      "onboard_time": 1725801379,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29153,
-      "num": 32486,
-      "word": "10岁轮椅女孩上学4年成全班35人团宠",
-      "onboard_time": 1725826752,
+      "raw_hot": 30066,
+      "num": 65723,
+      "word": "中国连续6届残奥金牌榜奖牌榜第一",
+      "onboard_time": 1725820632,
       "rank": 49,
-      "category": "社会新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 27953,
@@ -587,36 +627,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 23418,
-      "num": 32431,
-      "word": "中国连续6届残奥金牌榜奖牌榜第一",
-      "onboard_time": 1725820632,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 22602,
-      "num": 50439,
-      "word": "台风摩羯成为登陆我国最强秋台风",
-      "onboard_time": 1725821892,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 21702,
       "num": 23786,
       "word": "长乐曲",
       "onboard_time": 1725822732,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 20060,
-      "num": 216281,
-      "word": "1790位教育工作者教师节前受表彰",
-      "onboard_time": 1725801379,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17713,
@@ -641,6 +657,14 @@
       "onboard_time": 1725826812,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12987,
+      "num": 198383,
+      "word": "大叔崩溃求助交警请他吃面加鸡腿",
+      "onboard_time": 1725837437,
+      "rank": 9,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
