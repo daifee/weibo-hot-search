@@ -1,0 +1,410 @@
+{
+  "runTime": 1725799971722,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1011836,
+        "num": 1161893,
+        "word": "泰国女孩来中国留学读大专",
+        "onboard_time": 1725794718,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603105,
+        "num": 603105,
+        "word": "马嘉祺换头像了",
+        "onboard_time": 1725795019,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33302,
+        "num": 573235,
+        "word": "我们在残奥会看到了最不屈的灵魂",
+        "onboard_time": 1725785238,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 555191,
+        "num": 555191,
+        "word": "杜江霍思燕带儿女遛狗",
+        "onboard_time": 1725794899,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477880,
+        "num": 477880,
+        "word": "孙卓首度回应报考南工大原因",
+        "onboard_time": 1725798502,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386023,
+        "num": 386023,
+        "word": "经济法 现场立法",
+        "onboard_time": 1725798139,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 462471,
+        "num": 385758,
+        "word": "张雨绮 不是长得丑就不是渣男",
+        "onboard_time": 1725796339,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383205,
+        "num": 383205,
+        "word": "中秋节假期3天高速不免费",
+        "onboard_time": 1725786018,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57746,
+        "num": 379517,
+        "word": "刘端端掌握了音乐圈聊天的精髓",
+        "onboard_time": 1725799638,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75166,
+        "num": 363830,
+        "word": "摩羯吹倒海口树龄60年花梨王",
+        "onboard_time": 1725798320,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1423616,
+        "num": 351299,
+        "word": "大学生因一顿烧烤进ICU换了5次血",
+        "onboard_time": 1725794781,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662932,
+        "num": 335493,
+        "word": "韩安冉床头成了网红打卡点",
+        "onboard_time": 1725788058,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 448472,
+        "num": 316440,
+        "word": "网红刘灿意外溺水去世",
+        "onboard_time": 1725781999,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 312504,
+        "num": 312504,
+        "word": "16岁少年理发被索要4000元",
+        "onboard_time": 1725793518,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56372,
+        "num": 278399,
+        "word": "公务员招录扩大面试比例可行吗",
+        "onboard_time": 1725798619,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262797,
+        "num": 262797,
+        "word": "中学生心脏骤停被同学1分钟救回",
+        "onboard_time": 1725775879,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260942,
+        "num": 260942,
+        "word": "防晒衣割不动年轻人了",
+        "onboard_time": 1725786140,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252008,
+        "num": 252008,
+        "word": "赵露思早期视频",
+        "onboard_time": 1725797899,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239980,
+        "num": 239980,
+        "word": "HLE夺冠",
+        "onboard_time": 1725795081,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 36858,
+        "num": 226721,
+        "word": "撸猫撸狗真的能让心情变好",
+        "onboard_time": 1725798619,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1326806,
+        "num": 225983,
+        "word": "三只羊沫沫去年12月被拘留",
+        "onboard_time": 1725795139,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 225103,
+        "num": 225103,
+        "word": "aespa获TMA大赏",
+        "onboard_time": 1725799400,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1168771,
+        "num": 224510,
+        "word": "小杨哥妈妈改简介",
+        "onboard_time": 1725795139,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 464649,
+        "num": 223453,
+        "word": "刘梓晨为赵露思发声",
+        "onboard_time": 1725786860,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221781,
+        "num": 221781,
+        "word": "余宇涵对接回应后续发展",
+        "onboard_time": 1725797839,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332310,
+        "num": 219139,
+        "word": "三只羊卢文庆发长文",
+        "onboard_time": 1725792619,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 216079,
+        "num": 216079,
+        "word": "下星期上班时间有变",
+        "onboard_time": 1725785598,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206157,
+        "num": 206157,
+        "word": "王一珩直播",
+        "onboard_time": 1725799100,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195386,
+        "num": 195386,
+        "word": "小杨哥带货标注直播间及橱窗非销售者",
+        "onboard_time": 1725797660,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 181852,
+        "num": 181852,
+        "word": "AG对战RW",
+        "onboard_time": 1725793819,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 211864,
+        "num": 179291,
+        "word": "Peanut获夏决FMVP",
+        "onboard_time": 1725799459,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176090,
+        "num": 176090,
+        "word": "林诗栋4比3吴晙诚",
+        "onboard_time": 1725799459,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169263,
+        "num": 169263,
+        "word": "韩安冉生产后首播带货",
+        "onboard_time": 1725794478,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 168266,
+        "num": 168266,
+        "word": "张大大为赵露思发声",
+        "onboard_time": 1725772459,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160313,
+        "num": 160313,
+        "word": "许嵩为什么每次唱如果当时都会哭",
+        "onboard_time": 1725795679,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150700,
+        "num": 150700,
+        "word": "中级经济法",
+        "onboard_time": 1725798139,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146810,
+        "num": 146810,
+        "word": "小学生俩月花15000元在文具店集卡",
+        "onboard_time": 1725792919,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143016,
+        "num": 143016,
+        "word": "小杨哥哭了",
+        "onboard_time": 1725761959,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 141868,
+        "num": 141868,
+        "word": "权志龙车银优人生四格",
+        "onboard_time": 1725797660,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136684,
+        "num": 136684,
+        "word": "美甲去死皮其实是在伤害指甲",
+        "onboard_time": 1725793340,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 136328,
+        "num": 136328,
+        "word": "赵丽颖 一筷子就夹亿点点",
+        "onboard_time": 1725788240,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135897,
+        "num": 135897,
+        "word": "Peanut哭了",
+        "onboard_time": 1725797781,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131191,
+        "num": 131191,
+        "word": "我爸瞒着我偷偷跑去看演唱会了",
+        "onboard_time": 1725794239,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125516,
+        "num": 125516,
+        "word": "王一博 你知道苦瓜吗",
+        "onboard_time": 1725791060,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124414,
+        "num": 124414,
+        "word": "关晓彤来我们学校拍戏了",
+        "onboard_time": 1725785899,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122644,
+        "num": 122644,
+        "word": "湖南卫视酸甜之夜",
+        "onboard_time": 1725798259,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114502,
+        "num": 114502,
+        "word": "女子金店用嘴盗走小金豆",
+        "onboard_time": 1725786978,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111369,
+        "num": 111369,
+        "word": "Viper生涯首个LCK冠军",
+        "onboard_time": 1725796819,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108896,
+        "num": 108896,
+        "word": "辛巴删除最新文章",
+        "onboard_time": 1725790459,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 107230,
+        "num": 107230,
+        "word": "晚退房收半天房费行业惯例不该惯着",
+        "onboard_time": 1725795019,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络安全对国家安全牵一发而动全身#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725799050179,
+  "endTime": 1725799971722,
   "band_list": [
     {
       "raw_hot": 2097681,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1476772,
-      "num": 306564,
+      "num": 335493,
       "word": "韩安冉床头成了网红打卡点",
       "onboard_time": 1725788058,
       "rank": 18,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1423616,
+      "num": 351299,
+      "word": "大学生因一顿烧烤进ICU换了5次血",
+      "onboard_time": 1725794781,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1415795,
       "num": 1415795,
       "word": "知情人称猝死外卖员每天跑上百单",
@@ -76,19 +84,11 @@
     },
     {
       "raw_hot": 1351522,
-      "num": 206521,
+      "num": 225983,
       "word": "三只羊沫沫去年12月被拘留",
       "onboard_time": 1725795139,
       "rank": 20,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1247348,
-      "num": 273847,
-      "word": "大学生因一顿烧烤进ICU换了5次血",
-      "onboard_time": 1725794781,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1172324,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 566746,
-      "num": 273126,
+      "num": 555191,
       "word": "杜江霍思燕带儿女遛狗",
       "onboard_time": 1725794899,
       "rank": 30,
@@ -427,6 +427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 477880,
+      "num": 477880,
+      "word": "孙卓首度回应报考南工大原因",
+      "onboard_time": 1725798502,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 477530,
       "num": 477530,
       "word": "郑钦文美网轰出54记ACE排名第一",
@@ -465,6 +473,14 @@
       "onboard_time": 1725764179,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 462471,
+      "num": 385758,
+      "word": "张雨绮 不是长得丑就不是渣男",
+      "onboard_time": 1725796339,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 453584,
@@ -603,28 +619,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 386023,
+      "num": 386023,
+      "word": "经济法 现场立法",
+      "onboard_time": 1725798139,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 385217,
       "num": 385217,
       "word": "美国故障飞船回地球宇航员还在太空",
       "onboard_time": 1725713541,
       "rank": 1,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 385006,
-      "num": 385006,
-      "word": "张雨绮 不是长得丑就不是渣男",
-      "onboard_time": 1725796339,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 371951,
-      "num": 371951,
-      "word": "经济法 现场立法",
-      "onboard_time": 1725798139,
-      "rank": 5,
-      "category": "教育"
     },
     {
       "raw_hot": 370139,
@@ -716,7 +724,7 @@
     },
     {
       "raw_hot": 333864,
-      "num": 271496,
+      "num": 312504,
       "word": "16岁少年理发被索要4000元",
       "onboard_time": 1725793518,
       "rank": 9,
@@ -875,14 +883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 257922,
-      "num": 257922,
-      "word": "孙卓首度回应报考南工大原因",
-      "onboard_time": 1725798502,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 255512,
       "num": 255512,
       "word": "秦岚被挤得瑟瑟发抖",
@@ -905,6 +905,14 @@
       "onboard_time": 1725717981,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252008,
+      "num": 252008,
+      "word": "赵露思早期视频",
+      "onboard_time": 1725797899,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 248516,
@@ -1003,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225103,
+      "num": 225103,
+      "word": "aespa获TMA大赏",
+      "onboard_time": 1725799400,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 221517,
       "num": 221517,
       "word": "中级财管 租赁",
@@ -1043,6 +1059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 211864,
+      "num": 179291,
+      "word": "Peanut获夏决FMVP",
+      "onboard_time": 1725799459,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 209440,
       "num": 374017,
       "word": "杀猪盘已盯上朋友圈",
@@ -1073,6 +1097,14 @@
       "onboard_time": 1725779718,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206157,
+      "num": 206157,
+      "word": "王一珩直播",
+      "onboard_time": 1725799100,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 205646,
@@ -1161,14 +1193,6 @@
       "onboard_time": 1725777318,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194922,
-      "num": 215482,
-      "word": "赵露思早期视频",
-      "onboard_time": 1725797899,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 193952,
@@ -1305,6 +1329,14 @@
       "onboard_time": 1725768020,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176090,
+      "num": 176090,
+      "word": "林诗栋4比3吴晙诚",
+      "onboard_time": 1725799459,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 176074,
@@ -1619,6 +1651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146810,
+      "num": 146810,
+      "word": "小学生俩月花15000元在文具店集卡",
+      "onboard_time": 1725792919,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143618,
       "num": 143618,
       "word": "小镇青年的消费力不输一线白领",
@@ -1779,8 +1819,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130981,
-      "num": 130981,
+      "raw_hot": 131191,
+      "num": 131191,
       "word": "我爸瞒着我偷偷跑去看演唱会了",
       "onboard_time": 1725794239,
       "rank": 47,
@@ -2025,14 +2065,6 @@
       "onboard_time": 1725789560,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 116583,
-      "num": 116583,
-      "word": "小学生俩月花15000元在文具店集卡",
-      "onboard_time": 1725792919,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115574,
@@ -2379,6 +2411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75166,
+      "num": 363830,
+      "word": "摩羯吹倒海口树龄60年花梨王",
+      "onboard_time": 1725798320,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73193,
       "num": 73193,
       "word": "胖东来来重庆了",
@@ -2457,6 +2497,22 @@
       "onboard_time": 1725751455,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57746,
+      "num": 379517,
+      "word": "刘端端掌握了音乐圈聊天的精髓",
+      "onboard_time": 1725799638,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 56372,
+      "num": 278399,
+      "word": "公务员招录扩大面试比例可行吗",
+      "onboard_time": 1725798619,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56073,
@@ -2539,14 +2595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 45090,
-      "num": 274408,
-      "word": "摩羯吹倒海口树龄60年花梨王",
-      "onboard_time": 1725798320,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43989,
       "num": 327493,
       "word": "英国富豪沉船案首批尸检结果出炉",
@@ -2588,7 +2636,7 @@
     },
     {
       "raw_hot": 39126,
-      "num": 501644,
+      "num": 573235,
       "word": "我们在残奥会看到了最不屈的灵魂",
       "onboard_time": 1725785238,
       "rank": 2,
@@ -2601,6 +2649,14 @@
       "onboard_time": 1725750793,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36858,
+      "num": 226721,
+      "word": "撸猫撸狗真的能让心情变好",
+      "onboard_time": 1725798619,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34886,
@@ -2656,14 +2712,6 @@
       "word": "凯迪拉克2年因同一问题三进4S店",
       "onboard_time": 1725775219,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25088,
-      "num": 271822,
-      "word": "公务员招录扩大面试比例可行吗",
-      "onboard_time": 1725798619,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2727,14 +2775,6 @@
       "num": 275898,
       "word": "摩羯走后渔民正抢收破损养殖工具",
       "onboard_time": 1725772218,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16737,
-      "num": 206760,
-      "word": "撸猫撸狗真的能让心情变好",
-      "onboard_time": 1725798619,
       "rank": 19,
       "category": "社会新闻"
     },
