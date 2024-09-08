@@ -1,7 +1,15 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725760768070,
+  "endTime": 1725763820321,
   "band_list": [
+    {
+      "raw_hot": 1656185,
+      "num": 180203,
+      "word": "小杨哥哭了",
+      "onboard_time": 1725761959,
+      "rank": 20,
+      "category": "网红"
+    },
     {
       "raw_hot": 982333,
       "num": 1136556,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 687585,
-      "num": 1091718,
+      "num": 1101377,
       "word": "叙利亚人用沙袋为千年壁画挡战火",
       "onboard_time": 1725751275,
       "rank": 27,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 492165,
-      "num": 327311,
+      "num": 356364,
       "word": "G社拍的赵露思生图",
       "onboard_time": 1725717561,
       "rank": 5,
@@ -179,6 +187,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370028,
+      "num": 370028,
+      "word": "DQ崩了",
+      "onboard_time": 1725761719,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 369261,
+      "num": 369261,
+      "word": "工业摄像装备拍下摩羯登陆威力",
+      "onboard_time": 1725757637,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335963,
       "num": 335963,
       "word": "萨巴伦卡美网夺冠",
@@ -203,6 +227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 305385,
+      "num": 305385,
+      "word": "世界之外 DQ",
+      "onboard_time": 1725761658,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 294914,
       "num": 294914,
       "word": "曾舜晞经纪人和吴宣仪是同学",
@@ -217,6 +249,14 @@
       "onboard_time": 1725724220,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258837,
+      "num": 258837,
+      "word": "王一博 还是你做饭我做咖啡吧",
+      "onboard_time": 1725757458,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 255512,
@@ -291,12 +331,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205401,
-      "num": 190320,
-      "word": "王一博 还是你做饭我做咖啡吧",
-      "onboard_time": 1725757458,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 221276,
+      "num": 221276,
+      "word": "多地报告上半年出生人口增加",
+      "onboard_time": 1725762319,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199656,
@@ -323,12 +363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191555,
-      "num": 191555,
-      "word": "工业摄像装备拍下摩羯登陆威力",
-      "onboard_time": 1725757637,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 189892,
+      "num": 176599,
+      "word": "潘玮柏 不爱吃不等于不吃",
+      "onboard_time": 1725761478,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 189303,
@@ -337,6 +377,22 @@
       "onboard_time": 1725754517,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187922,
+      "num": 187922,
+      "word": "刘洋因伤离开国家队",
+      "onboard_time": 1725761359,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 187363,
+      "num": 176059,
+      "word": "睡觉爱流口水是睡得香吗",
+      "onboard_time": 1725761359,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 181007,
@@ -363,11 +419,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173955,
+      "num": 173955,
+      "word": "200兆网速实际只有20兆",
+      "onboard_time": 1725763039,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172577,
       "num": 172577,
       "word": "似锦",
       "onboard_time": 1725724400,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 166678,
+      "num": 181117,
+      "word": "流水迢迢角色人设",
+      "onboard_time": 1725762558,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -419,12 +491,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150949,
+      "num": 220633,
+      "word": "摩羯致海口文昌经济损失600亿元",
+      "onboard_time": 1725757637,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149556,
+      "num": 152040,
+      "word": "权志龙CL录音室合照",
+      "onboard_time": 1725759917,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 148006,
       "num": 148006,
       "word": "99后女生靠卖石头月入过万",
       "onboard_time": 1725716602,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142786,
+      "num": 142786,
+      "word": "辛巴再度发文痛斥小杨哥",
+      "onboard_time": 1725763519,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 141016,
@@ -441,6 +537,22 @@
       "onboard_time": 1725755778,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 138200,
+      "num": 138200,
+      "word": "刘震云 能外耗别人绝不内耗自己",
+      "onboard_time": 1725762438,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 137760,
+      "num": 137760,
+      "word": "陈昊宇回应心疼谢美蓝",
+      "onboard_time": 1725762919,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 136973,
@@ -483,20 +595,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124188,
+      "num": 124188,
+      "word": "林诗栋蒯曼阿拉木图站夺冠",
+      "onboard_time": 1725761000,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124065,
       "num": 124065,
       "word": "许嵩演唱会嘉宾是张靓颖",
       "onboard_time": 1725716480,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 123393,
-      "num": 123393,
-      "word": "权志龙CL录音室合照",
-      "onboard_time": 1725759917,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 122966,
@@ -513,6 +625,14 @@
       "onboard_time": 1725710360,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 118682,
+      "num": 118682,
+      "word": "华晨宇演唱会经费在燃烧",
+      "onboard_time": 1725761839,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 118618,
@@ -555,14 +675,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 109788,
-      "num": 109788,
-      "word": "摩羯致海口文昌经济损失600亿元",
-      "onboard_time": 1725757637,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109735,
       "num": 109735,
       "word": "TOP登陆少年登陆完毕",
@@ -603,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103103,
+      "num": 103103,
+      "word": "名侦探柯南",
+      "onboard_time": 1725761300,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 101592,
       "num": 101592,
       "word": "平时睡不够周末补觉有用吗",
@@ -633,6 +753,14 @@
       "onboard_time": 1725713541,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97860,
+      "num": 97860,
+      "word": "原来用荷叶喝茶更好喝是真的",
+      "onboard_time": 1725762379,
+      "rank": 49,
+      "category": "美食,健康医疗"
     },
     {
       "raw_hot": 92013,

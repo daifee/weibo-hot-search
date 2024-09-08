@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725760768070,
+  "endTime": 1725763820321,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -569,6 +569,14 @@
       "onboard_time": 1725244819,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1656185,
+      "num": 180203,
+      "word": "小杨哥哭了",
+      "onboard_time": 1725761959,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 1595462,
@@ -3012,7 +3020,7 @@
     },
     {
       "raw_hot": 687585,
-      "num": 1091718,
+      "num": 1101377,
       "word": "叙利亚人用沙袋为千年壁画挡战火",
       "onboard_time": 1725751275,
       "rank": 27,
@@ -5763,12 +5771,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370028,
+      "num": 370028,
+      "word": "DQ崩了",
+      "onboard_time": 1725761719,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 369464,
       "num": 369464,
       "word": "张凌赫田曦薇 逐玉",
       "onboard_time": 1725689959,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 369261,
+      "num": 369261,
+      "word": "工业摄像装备拍下摩羯登陆威力",
+      "onboard_time": 1725757637,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 368963,
@@ -6569,6 +6593,14 @@
       "onboard_time": 1725456381,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 305385,
+      "num": 305385,
+      "word": "世界之外 DQ",
+      "onboard_time": 1725506058,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 305349,
@@ -7715,6 +7747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258837,
+      "num": 258837,
+      "word": "王一博 还是你做饭我做咖啡吧",
+      "onboard_time": 1725757458,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258801,
       "num": 196989,
       "word": "男孩骑行身亡案司机认为属交通意外",
@@ -8395,14 +8435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 237836,
-      "num": 237836,
-      "word": "世界之外 DQ",
-      "onboard_time": 1725506058,
-      "rank": 16,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 237828,
       "num": 237828,
       "word": "芭莎十月创刊三十八周年封面",
@@ -8985,6 +9017,14 @@
       "onboard_time": 1725702379,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 221276,
+      "num": 221276,
+      "word": "多地报告上半年出生人口增加",
+      "onboard_time": 1725762319,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220218,
@@ -9793,14 +9833,6 @@
       "onboard_time": 1725447739,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 205401,
-      "num": 190320,
-      "word": "王一博 还是你做饭我做咖啡吧",
-      "onboard_time": 1725757458,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 205253,
@@ -11027,14 +11059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191555,
-      "num": 191555,
-      "word": "工业摄像装备拍下摩羯登陆威力",
-      "onboard_time": 1725757637,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191547,
       "num": 191547,
       "word": "DK对战T1",
@@ -11169,6 +11193,14 @@
       "onboard_time": 1725722900,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189892,
+      "num": 176599,
+      "word": "潘玮柏 不爱吃不等于不吃",
+      "onboard_time": 1725761478,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 189889,
@@ -11427,6 +11459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 187922,
+      "num": 187922,
+      "word": "刘洋因伤离开国家队",
+      "onboard_time": 1725761359,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187888,
       "num": 187888,
       "word": "TTG季后赛征途开启",
@@ -11473,6 +11513,14 @@
       "onboard_time": 1725326599,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187363,
+      "num": 176059,
+      "word": "睡觉爱流口水是睡得香吗",
+      "onboard_time": 1725761359,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 187356,
@@ -12851,6 +12899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173955,
+      "num": 173955,
+      "word": "200兆网速实际只有20兆",
+      "onboard_time": 1725763039,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173879,
       "num": 213985,
       "word": "胡歌唐嫣拍了繁花番外",
@@ -13481,6 +13537,14 @@
       "onboard_time": 1725626960,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166678,
+      "num": 181117,
+      "word": "流水迢迢角色人设",
+      "onboard_time": 1725762558,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 166666,
@@ -15139,6 +15203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 150949,
+      "num": 220633,
+      "word": "摩羯致海口文昌经济损失600亿元",
+      "onboard_time": 1725757637,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150802,
       "num": 400934,
       "word": "雪山版密室大逃脱来了",
@@ -15209,6 +15281,14 @@
       "onboard_time": 1725198141,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149556,
+      "num": 152040,
+      "word": "权志龙CL录音室合照",
+      "onboard_time": 1725759917,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 149360,
@@ -15859,6 +15939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142786,
+      "num": 142786,
+      "word": "辛巴再度发文痛斥小杨哥",
+      "onboard_time": 1725763519,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 142726,
       "num": 142726,
       "word": "国足球员说有信心赢下沙特",
@@ -16139,6 +16227,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 138200,
+      "num": 138200,
+      "word": "刘震云 能外耗别人绝不内耗自己",
+      "onboard_time": 1725762438,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138153,
       "num": 138153,
       "word": "中央汇金大举加仓4662亿元",
@@ -16169,6 +16265,14 @@
       "onboard_time": 1725675500,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137760,
+      "num": 137760,
+      "word": "陈昊宇回应心疼谢美蓝",
+      "onboard_time": 1725762919,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 137525,
@@ -17003,6 +17107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124188,
+      "num": 124188,
+      "word": "林诗栋蒯曼阿拉木图站夺冠",
+      "onboard_time": 1725761000,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124084,
       "num": 124084,
       "word": "对不起 我实在太爱吃饭了",
@@ -17033,14 +17145,6 @@
       "onboard_time": 1725172701,
       "rank": 41,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 123393,
-      "num": 123393,
-      "word": "权志龙CL录音室合照",
-      "onboard_time": 1725759917,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 123318,
@@ -17233,6 +17337,14 @@
       "onboard_time": 1725171740,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118682,
+      "num": 118682,
+      "word": "华晨宇演唱会经费在燃烧",
+      "onboard_time": 1725761839,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 118347,
@@ -17603,14 +17715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109788,
-      "num": 109788,
-      "word": "摩羯致海口文昌经济损失600亿元",
-      "onboard_time": 1725757637,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109735,
       "num": 109735,
       "word": "TOP登陆少年登陆完毕",
@@ -17779,6 +17883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103103,
+      "num": 103103,
+      "word": "名侦探柯南",
+      "onboard_time": 1725761300,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 101909,
       "num": 101909,
       "word": "瑞典环保少女格蕾塔在丹麦被捕",
@@ -17945,6 +18057,14 @@
       "onboard_time": 1725605901,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97860,
+      "num": 97860,
+      "word": "原来用荷叶喝茶更好喝是真的",
+      "onboard_time": 1725762379,
+      "rank": 49,
+      "category": "美食,健康医疗"
     },
     {
       "raw_hot": 97816,
