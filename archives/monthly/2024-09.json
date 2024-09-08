@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725795371616,
+  "endTime": 1725799050179,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -1019,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1351522,
+      "num": 206521,
+      "word": "三只羊沫沫去年12月被拘留",
+      "onboard_time": 1725795139,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1346914,
       "num": 678102,
       "word": "黄轩什么时候结婚了",
@@ -1179,6 +1187,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1247348,
+      "num": 273847,
+      "word": "大学生因一顿烧烤进ICU换了5次血",
+      "onboard_time": 1725794781,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1231955,
       "num": 1231955,
       "word": "汪涵怎么突然老了这么多",
@@ -1305,6 +1321,14 @@
       "onboard_time": 1725625159,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1172324,
+      "num": 244395,
+      "word": "小杨哥妈妈改简介",
+      "onboard_time": 1725795139,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 1169886,
@@ -1512,6 +1536,14 @@
       "word": "女生吃粉监控画面被店主发群聊开黄腔",
       "onboard_time": 1725450859,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1065816,
+      "num": 1170530,
+      "word": "泰国女孩来中国留学读大专",
+      "onboard_time": 1725794718,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -3627,6 +3659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 621868,
+      "num": 621868,
+      "word": "马嘉祺换头像了",
+      "onboard_time": 1725795019,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 620920,
       "num": 283754,
       "word": "小杨哥否认没有售后",
@@ -4057,6 +4097,14 @@
       "onboard_time": 1725689779,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 566746,
+      "num": 273126,
+      "word": "杜江霍思燕带儿女遛狗",
+      "onboard_time": 1725794899,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 565768,
@@ -5907,14 +5955,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 393184,
-      "num": 393184,
-      "word": "泰国女孩来中国留学读大专",
-      "onboard_time": 1725794718,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 392261,
       "num": 602308,
       "word": "长春一男子持刀闹事致民警一死二伤",
@@ -6001,6 +6041,14 @@
       "onboard_time": 1725626181,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 385006,
+      "num": 385006,
+      "word": "张雨绮 不是长得丑就不是渣男",
+      "onboard_time": 1725796339,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 384924,
@@ -6129,6 +6177,14 @@
       "onboard_time": 1725371961,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 371951,
+      "num": 371951,
+      "word": "经济法 现场立法",
+      "onboard_time": 1725798139,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 371473,
@@ -6651,6 +6707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 333864,
+      "num": 271496,
+      "word": "16岁少年理发被索要4000元",
+      "onboard_time": 1725793518,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332158,
       "num": 332158,
       "word": "iOS版微信已2个月没更新",
@@ -6953,14 +7017,6 @@
       "onboard_time": 1725591141,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 313780,
-      "num": 244395,
-      "word": "小杨哥妈妈改简介",
-      "onboard_time": 1725795139,
-      "rank": 22,
-      "category": "网红"
     },
     {
       "raw_hot": 313421,
@@ -7931,6 +7987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271244,
+      "num": 271244,
+      "word": "余宇涵对接回应后续发展",
+      "onboard_time": 1725797839,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270793,
       "num": 270793,
       "word": "市监局回应厦航疑刊登代孕广告",
@@ -8321,6 +8385,14 @@
       "onboard_time": 1725778818,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 257922,
+      "num": 257922,
+      "word": "孙卓首度回应报考南工大原因",
+      "onboard_time": 1725798502,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257672,
@@ -9683,14 +9755,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 218761,
-      "num": 209415,
-      "word": "杜江霍思燕带儿女遛狗",
-      "onboard_time": 1725794899,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 218424,
       "num": 218424,
       "word": "安排当个班主任她就老实了",
@@ -10603,6 +10667,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 203823,
+      "num": 195611,
+      "word": "小杨哥带货标注直播间及橱窗非销售者",
+      "onboard_time": 1725797660,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 203756,
       "num": 203756,
       "word": "全红婵喜提拿着小乌龟的小狮子",
@@ -11465,6 +11537,14 @@
       "onboard_time": 1725244217,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 194922,
+      "num": 215482,
+      "word": "赵露思早期视频",
+      "onboard_time": 1725797899,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 194862,
@@ -12339,6 +12419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186682,
+      "num": 186682,
+      "word": "湖南卫视酸甜之夜",
+      "onboard_time": 1725798259,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186243,
       "num": 186243,
       "word": "曹璐恩静cha了可怜",
@@ -12425,6 +12513,14 @@
       "onboard_time": 1725682519,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185252,
+      "num": 185252,
+      "word": "权志龙车银优人生四格",
+      "onboard_time": 1725797660,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 185177,
@@ -12529,6 +12625,14 @@
       "onboard_time": 1725634702,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184585,
+      "num": 184585,
+      "word": "AG对战RW",
+      "onboard_time": 1725793819,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 184540,
@@ -12723,6 +12827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182336,
+      "num": 182336,
+      "word": "Peanut哭了",
+      "onboard_time": 1725797781,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 182127,
       "num": 182127,
       "word": "佟丽娅腰间蝴蝶结好大",
@@ -12875,14 +12987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180615,
-      "num": 209424,
-      "word": "马嘉祺换头像了",
-      "onboard_time": 1725795019,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 180557,
       "num": 180557,
       "word": "代号鸢",
@@ -12960,6 +13064,14 @@
       "word": "TXT澳门演唱会",
       "onboard_time": 1725172159,
       "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 179636,
+      "num": 179636,
+      "word": "周深演唱会抢票",
+      "onboard_time": 1725798320,
+      "rank": 31,
       "category": "演出"
     },
     {
@@ -14083,12 +14195,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169320,
+      "num": 169320,
+      "word": "花少6看片会repo",
+      "onboard_time": 1725798020,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169116,
       "num": 169116,
       "word": "喝饮料养生靠谱吗",
       "onboard_time": 1725432021,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 168947,
+      "num": 168947,
+      "word": "许嵩为什么每次唱如果当时都会哭",
+      "onboard_time": 1725795679,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 168896,
@@ -14385,6 +14513,14 @@
       "onboard_time": 1725283821,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 166501,
+      "num": 166501,
+      "word": "美甲去死皮其实是在伤害指甲",
+      "onboard_time": 1725793340,
+      "rank": 38,
+      "category": "美妆"
     },
     {
       "raw_hot": 166335,
@@ -15043,6 +15179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160062,
+      "num": 160062,
+      "word": "Viper生涯首个LCK冠军",
+      "onboard_time": 1725796819,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 159989,
       "num": 159989,
       "word": "专家称苹果或不会主动降低中国苹果税",
@@ -15345,14 +15489,6 @@
       "onboard_time": 1725452541,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157587,
-      "num": 157587,
-      "word": "美甲去死皮其实是在伤害指甲",
-      "onboard_time": 1725793340,
-      "rank": 38,
-      "category": "美妆"
     },
     {
       "raw_hot": 157549,
@@ -17083,14 +17219,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 140147,
-      "num": 140147,
-      "word": "AG对战RW",
-      "onboard_time": 1725793819,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 139831,
       "num": 139831,
       "word": "王楚然演我拍照",
@@ -17219,6 +17347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 138080,
+      "num": 308478,
+      "word": "晚退房收半天房费行业惯例不该惯着",
+      "onboard_time": 1725795019,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137889,
       "num": 137889,
       "word": "解说怪咔",
@@ -17337,14 +17473,6 @@
       "onboard_time": 1725173058,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136124,
-      "num": 136124,
-      "word": "大学生因一顿烧烤进ICU换了5次血",
-      "onboard_time": 1725794781,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136114,
@@ -17705,6 +17833,14 @@
       "onboard_time": 1725232516,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130981,
+      "num": 130981,
+      "word": "我爸瞒着我偷偷跑去看演唱会了",
+      "onboard_time": 1725794239,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 130843,
@@ -18219,14 +18355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124200,
-      "num": 124200,
-      "word": "我爸瞒着我偷偷跑去看演唱会了",
-      "onboard_time": 1725794239,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 124188,
       "num": 124188,
       "word": "林诗栋蒯曼阿拉木图站夺冠",
@@ -18633,6 +18761,14 @@
       "onboard_time": 1725417619,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116583,
+      "num": 116583,
+      "word": "小学生俩月花15000元在文具店集卡",
+      "onboard_time": 1725792919,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116546,
@@ -19555,6 +19691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91302,
+      "num": 116430,
+      "word": "医生为什么不愿意给熟人看病",
+      "onboard_time": 1725798079,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 91137,
       "num": 334699,
       "word": "没钱小少爷变身大漠驸马爷",
@@ -19687,14 +19831,6 @@
       "num": 306284,
       "word": "警方回应母亲称3岁幼童遭虐待进ICU",
       "onboard_time": 1725467536,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87734,
-      "num": 268037,
-      "word": "16岁少年理发被索要4000元",
-      "onboard_time": 1725793518,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -21299,6 +21435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 45090,
+      "num": 274408,
+      "word": "摩羯吹倒海口树龄60年花梨王",
+      "onboard_time": 1725798320,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45062,
       "num": 199113,
       "word": "罗大美案主犯潜逃缅甸输掉大部分赃款",
@@ -21681,6 +21825,14 @@
       "onboard_time": 1725253942,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 39126,
+      "num": 501644,
+      "word": "我们在残奥会看到了最不屈的灵魂",
+      "onboard_time": 1725785238,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 39117,
@@ -22539,14 +22691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28211,
-      "num": 308478,
-      "word": "晚退房收半天房费行业惯例不该惯着",
-      "onboard_time": 1725795019,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28194,
       "num": 53525,
       "word": "古人的极繁风大金链子颠覆认知了",
@@ -22793,6 +22937,14 @@
       "onboard_time": 1725385453,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25088,
+      "num": 271822,
+      "word": "公务员招录扩大面试比例可行吗",
+      "onboard_time": 1725798619,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24929,
@@ -23187,14 +23339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 20815,
-      "num": 418529,
-      "word": "我们在残奥会看到了最不屈的灵魂",
-      "onboard_time": 1725785238,
-      "rank": 2,
-      "category": "体育"
-    },
-    {
       "raw_hot": 20791,
       "num": 370563,
       "word": "发条微博为新学期加油",
@@ -23432,6 +23576,14 @@
       "word": "中非合作论坛峰会有哪些看点",
       "onboard_time": 1725282980,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16737,
+      "num": 206760,
+      "word": "撸猫撸狗真的能让心情变好",
+      "onboard_time": 1725798619,
+      "rank": 19,
       "category": "社会新闻"
     },
     {

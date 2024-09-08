@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725795371616,
+  "endTime": 1725799050179,
   "band_list": [
     {
       "raw_hot": 2097681,
@@ -72,6 +72,38 @@
       "word": "知情人称猝死外卖员每天跑上百单",
       "onboard_time": 1725766939,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1351522,
+      "num": 206521,
+      "word": "三只羊沫沫去年12月被拘留",
+      "onboard_time": 1725795139,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 1247348,
+      "num": 273847,
+      "word": "大学生因一顿烧烤进ICU换了5次血",
+      "onboard_time": 1725794781,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1172324,
+      "num": 244395,
+      "word": "小杨哥妈妈改简介",
+      "onboard_time": 1725795139,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 1065816,
+      "num": 1170530,
+      "word": "泰国女孩来中国留学读大专",
+      "onboard_time": 1725794718,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -275,12 +307,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 621868,
+      "num": 621868,
+      "word": "马嘉祺换头像了",
+      "onboard_time": 1725795019,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 590808,
       "num": 263595,
       "word": "邓超红发",
       "onboard_time": 1725735432,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 566746,
+      "num": 273126,
+      "word": "杜江霍思燕带儿女遛狗",
+      "onboard_time": 1725794899,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 555256,
@@ -547,14 +595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 393184,
-      "num": 393184,
-      "word": "泰国女孩来中国留学读大专",
-      "onboard_time": 1725794718,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 386303,
       "num": 318350,
       "word": "东北雨姐承认螃蟹是放到稻田里的",
@@ -569,6 +609,22 @@
       "onboard_time": 1725713541,
       "rank": 1,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 385006,
+      "num": 385006,
+      "word": "张雨绮 不是长得丑就不是渣男",
+      "onboard_time": 1725796339,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 371951,
+      "num": 371951,
+      "word": "经济法 现场立法",
+      "onboard_time": 1725798139,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 370139,
@@ -659,6 +715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 333864,
+      "num": 271496,
+      "word": "16岁少年理发被索要4000元",
+      "onboard_time": 1725793518,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326894,
       "num": 326894,
       "word": "欧弟三胎女儿出生",
@@ -681,14 +745,6 @@
       "onboard_time": 1725789679,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 313780,
-      "num": 244395,
-      "word": "小杨哥妈妈改简介",
-      "onboard_time": 1725795139,
-      "rank": 22,
-      "category": "网红"
     },
     {
       "raw_hot": 312483,
@@ -779,6 +835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 271244,
+      "num": 271244,
+      "word": "余宇涵对接回应后续发展",
+      "onboard_time": 1725797839,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270286,
       "num": 270286,
       "word": "王一博 还是你做饭我做咖啡吧",
@@ -809,6 +873,14 @@
       "onboard_time": 1725778818,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 257922,
+      "num": 257922,
+      "word": "孙卓首度回应报考南工大原因",
+      "onboard_time": 1725798502,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255512,
@@ -947,14 +1019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218761,
-      "num": 209415,
-      "word": "杜江霍思燕带儿女遛狗",
-      "onboard_time": 1725794899,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 215994,
       "num": 215994,
       "word": "TMA颁奖礼aespa红毯",
@@ -1027,6 +1091,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 203823,
+      "num": 195611,
+      "word": "小杨哥带货标注直播间及橱窗非销售者",
+      "onboard_time": 1725797660,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 202822,
+      "num": 202822,
+      "word": "中级经济法",
+      "onboard_time": 1725798139,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 202035,
       "num": 202035,
       "word": "辛巴说装可怜是网红惯用手段",
@@ -1081,6 +1161,14 @@
       "onboard_time": 1725777318,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194922,
+      "num": 215482,
+      "word": "赵露思早期视频",
+      "onboard_time": 1725797899,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 193952,
@@ -1155,6 +1243,38 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186682,
+      "num": 186682,
+      "word": "湖南卫视酸甜之夜",
+      "onboard_time": 1725798259,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 185252,
+      "num": 185252,
+      "word": "权志龙车银优人生四格",
+      "onboard_time": 1725797660,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 184585,
+      "num": 184585,
+      "word": "AG对战RW",
+      "onboard_time": 1725793819,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 182336,
+      "num": 182336,
+      "word": "Peanut哭了",
+      "onboard_time": 1725797781,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 181007,
       "num": 308025,
       "word": "华为三折叠硬刚苹果",
@@ -1163,20 +1283,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 180615,
-      "num": 209424,
-      "word": "马嘉祺换头像了",
-      "onboard_time": 1725795019,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 179880,
       "num": 179880,
       "word": "这5类人喝咖啡格外受益",
       "onboard_time": 1725718702,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 179636,
+      "num": 179636,
+      "word": "周深演唱会抢票",
+      "onboard_time": 1725798320,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 179509,
@@ -1235,6 +1355,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 169320,
+      "num": 169320,
+      "word": "花少6看片会repo",
+      "onboard_time": 1725798020,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 168947,
+      "num": 168947,
+      "word": "许嵩为什么每次唱如果当时都会哭",
+      "onboard_time": 1725795679,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 168857,
       "num": 168857,
       "word": "台风摩羯过后最松弛照片当事人讲述",
@@ -1265,6 +1401,14 @@
       "onboard_time": 1725762558,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166501,
+      "num": 166501,
+      "word": "美甲去死皮其实是在伤害指甲",
+      "onboard_time": 1725793340,
+      "rank": 38,
+      "category": "美妆"
     },
     {
       "raw_hot": 165119,
@@ -1307,6 +1451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160062,
+      "num": 160062,
+      "word": "Viper生涯首个LCK冠军",
+      "onboard_time": 1725796819,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 159506,
       "num": 159506,
       "word": "你惹他就算了惹他家人干嘛",
@@ -1329,14 +1481,6 @@
       "onboard_time": 1725781579,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157587,
-      "num": 157587,
-      "word": "美甲去死皮其实是在伤害指甲",
-      "onboard_time": 1725793340,
-      "rank": 38,
-      "category": "美妆"
     },
     {
       "raw_hot": 157549,
@@ -1523,14 +1667,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 140147,
-      "num": 140147,
-      "word": "AG对战RW",
-      "onboard_time": 1725793819,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 139423,
       "num": 139423,
       "word": "雪迷宫",
@@ -1563,6 +1699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138080,
+      "num": 308478,
+      "word": "晚退房收半天房费行业惯例不该惯着",
+      "onboard_time": 1725795019,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137418,
       "num": 137418,
       "word": "台风来了Duck不避",
@@ -1585,14 +1729,6 @@
       "onboard_time": 1725715520,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136124,
-      "num": 136124,
-      "word": "大学生因一顿烧烤进ICU换了5次血",
-      "onboard_time": 1725794781,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136114,
@@ -1641,6 +1777,14 @@
       "onboard_time": 1725776659,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130981,
+      "num": 130981,
+      "word": "我爸瞒着我偷偷跑去看演唱会了",
+      "onboard_time": 1725794239,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 130843,
@@ -1745,14 +1889,6 @@
       "onboard_time": 1725784161,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124200,
-      "num": 124200,
-      "word": "我爸瞒着我偷偷跑去看演唱会了",
-      "onboard_time": 1725794239,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 124188,
@@ -1889,6 +2025,14 @@
       "onboard_time": 1725789560,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116583,
+      "num": 116583,
+      "word": "小学生俩月花15000元在文具店集卡",
+      "onboard_time": 1725792919,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115574,
@@ -2155,6 +2299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91302,
+      "num": 116430,
+      "word": "医生为什么不愿意给熟人看病",
+      "onboard_time": 1725798079,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 91200,
       "num": 101121,
       "word": "樊振东去迪士尼玩了",
@@ -2185,14 +2337,6 @@
       "onboard_time": 1725764360,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 87734,
-      "num": 268037,
-      "word": "16岁少年理发被索要4000元",
-      "onboard_time": 1725793518,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87620,
@@ -2395,6 +2539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 45090,
+      "num": 274408,
+      "word": "摩羯吹倒海口树龄60年花梨王",
+      "onboard_time": 1725798320,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43989,
       "num": 327493,
       "word": "英国富豪沉船案首批尸检结果出炉",
@@ -2433,6 +2585,14 @@
       "onboard_time": 1725738612,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39126,
+      "num": 501644,
+      "word": "我们在残奥会看到了最不屈的灵魂",
+      "onboard_time": 1725785238,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 37749,
@@ -2475,14 +2635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28211,
-      "num": 308478,
-      "word": "晚退房收半天房费行业惯例不该惯着",
-      "onboard_time": 1725795019,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 26023,
       "num": 94646,
       "word": "中国消防员13秒攀登挂钩梯上四楼",
@@ -2504,6 +2656,14 @@
       "word": "凯迪拉克2年因同一问题三进4S店",
       "onboard_time": 1725775219,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25088,
+      "num": 271822,
+      "word": "公务员招录扩大面试比例可行吗",
+      "onboard_time": 1725798619,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2529,14 +2689,6 @@
       "onboard_time": 1725776539,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 20815,
-      "num": 418529,
-      "word": "我们在残奥会看到了最不屈的灵魂",
-      "onboard_time": 1725785238,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 20704,
@@ -2575,6 +2727,14 @@
       "num": 275898,
       "word": "摩羯走后渔民正抢收破损养殖工具",
       "onboard_time": 1725772218,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16737,
+      "num": 206760,
+      "word": "撸猫撸狗真的能让心情变好",
+      "onboard_time": 1725798619,
       "rank": 19,
       "category": "社会新闻"
     },
