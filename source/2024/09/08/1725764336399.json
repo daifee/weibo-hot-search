@@ -1,0 +1,410 @@
+{
+  "runTime": 1725764336399,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 631311,
+        "num": 1101009,
+        "word": "叙利亚人用沙袋为千年壁画挡战火",
+        "onboard_time": 1725751275,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 409739,
+        "num": 409739,
+        "word": "工业摄像装备拍下摩羯登陆威力",
+        "onboard_time": 1725757637,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14235,
+        "num": 354997,
+        "word": "致敬风雨中的守护力量",
+        "onboard_time": 1725716361,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728224,
+        "num": 351614,
+        "word": "警方回应格斗女运动员遭猥亵",
+        "onboard_time": 1725756678,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332425,
+        "num": 332425,
+        "word": "多地报告上半年出生人口增加",
+        "onboard_time": 1725762319,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328610,
+        "num": 328610,
+        "word": "G社拍的赵露思生图",
+        "onboard_time": 1725717561,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 295541,
+        "num": 295541,
+        "word": "DQ崩了",
+        "onboard_time": 1725761719,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 270286,
+        "num": 270286,
+        "word": "王一博 还是你做饭我做咖啡吧",
+        "onboard_time": 1725757458,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244610,
+        "num": 244610,
+        "word": "200兆网速实际只有20兆",
+        "onboard_time": 1725763039,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219166,
+        "num": 219166,
+        "word": "摩羯致海口文昌经济损失600亿元",
+        "onboard_time": 1725757637,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669308,
+        "num": 214183,
+        "word": "海口网红餐厅被摩羯撕碎了",
+        "onboard_time": 1725729316,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384362,
+        "num": 213507,
+        "word": "男子回沪发现房子被妻子出租",
+        "onboard_time": 1725751816,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275876,
+        "num": 210651,
+        "word": "小孩姐削土豆受伤气跑4名医生",
+        "onboard_time": 1725718941,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201539,
+        "num": 201539,
+        "word": "朱志鑫C位队长后首发博",
+        "onboard_time": 1725751334,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199634,
+        "num": 199634,
+        "word": "萨巴伦卡美网夺冠",
+        "onboard_time": 1725750674,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186080,
+        "num": 186080,
+        "word": "刘洋因伤离开国家队",
+        "onboard_time": 1725761359,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179519,
+        "num": 179519,
+        "word": "美依礼芽淘汰了",
+        "onboard_time": 1725752596,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175106,
+        "num": 175106,
+        "word": "广东一男子因暴雨后赤脚走路住进ICU",
+        "onboard_time": 1725722300,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171125,
+        "num": 171125,
+        "word": "摩羯掀飞海景房小区近百户玻璃窗",
+        "onboard_time": 1725755717,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164053,
+        "num": 164053,
+        "word": "陈昊宇回应心疼谢美蓝",
+        "onboard_time": 1725762919,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1601521,
+        "num": 163630,
+        "word": "小杨哥哭了",
+        "onboard_time": 1725761959,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 59987,
+        "num": 163061,
+        "word": "北京时间其实产自西安",
+        "onboard_time": 1725754398,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536053,
+        "num": 162603,
+        "word": "在台风中唯有鸭子屹立不倒",
+        "onboard_time": 1725756379,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365004,
+        "num": 162388,
+        "word": "邓超红发",
+        "onboard_time": 1725735432,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 358934,
+        "num": 161763,
+        "word": "晨起后这4个表现说明血脂可能高了",
+        "onboard_time": 1725758177,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 211375,
+        "num": 161409,
+        "word": "世界之外 DQ",
+        "onboard_time": 1725761658,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 279217,
+        "num": 160883,
+        "word": "辛巴再度发文痛斥小杨哥",
+        "onboard_time": 1725763519,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 191791,
+        "num": 160276,
+        "word": "睡觉爱流口水是睡得香吗",
+        "onboard_time": 1725761359,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 164360,
+        "num": 159855,
+        "word": "潘玮柏 不爱吃不等于不吃",
+        "onboard_time": 1725761478,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159506,
+        "num": 159506,
+        "word": "你惹他就算了惹他家人干嘛",
+        "onboard_time": 1725763876,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157575,
+        "num": 157575,
+        "word": "花三万八在新疆买的小院",
+        "onboard_time": 1725721461,
+        "rank": 30,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 152780,
+        "num": 152780,
+        "word": "赵丽颖还给张碧晨录了视频",
+        "onboard_time": 1725722840,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149020,
+        "num": 149020,
+        "word": "权志龙CL录音室合照",
+        "onboard_time": 1725759917,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141546,
+        "num": 141546,
+        "word": "秦岚被挤得瑟瑟发抖",
+        "onboard_time": 1725749174,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139184,
+        "num": 139184,
+        "word": "19块9小火锅围猎海底捞",
+        "onboard_time": 1725763818,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136478,
+        "num": 136478,
+        "word": "多人发现遗体帐篷却未报警的背后",
+        "onboard_time": 1725704599,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128065,
+        "num": 128065,
+        "word": "男子拉50箱五粮液不绑绳倒一地",
+        "onboard_time": 1725729376,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127812,
+        "num": 127812,
+        "word": "阿条姐又有新身份了",
+        "onboard_time": 1725723981,
+        "rank": 37,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 125491,
+        "num": 125491,
+        "word": "你们一来我们的心里面就舒服了",
+        "onboard_time": 1725757576,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122209,
+        "num": 122209,
+        "word": "蟹太太回应辛巴三只羊纠纷",
+        "onboard_time": 1725723139,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 118185,
+        "num": 118185,
+        "word": "林诗栋蒯曼阿拉木图站夺冠",
+        "onboard_time": 1725761000,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114811,
+        "num": 114811,
+        "word": "四川大渡河现近60斤野生娃娃鱼",
+        "onboard_time": 1725754517,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114655,
+        "num": 114655,
+        "word": "曾舜晞经纪人和吴宣仪是同学",
+        "onboard_time": 1725727518,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112385,
+        "num": 112385,
+        "word": "刘震云 能外耗别人绝不内耗自己",
+        "onboard_time": 1725762438,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110019,
+        "num": 110019,
+        "word": "华晨宇演唱会经费在燃烧",
+        "onboard_time": 1725761839,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108092,
+        "num": 108092,
+        "word": "朱珠 拒绝无聊穿搭",
+        "onboard_time": 1725764179,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107717,
+        "num": 107717,
+        "word": "四方馆反转看得我一愣接一愣",
+        "onboard_time": 1725764237,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106502,
+        "num": 106502,
+        "word": "虞书欣终于想起来她是个歌手了",
+        "onboard_time": 1725724220,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105189,
+        "num": 105189,
+        "word": "为什么人在坐车的时候容易犯困",
+        "onboard_time": 1725763818,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 104656,
+        "num": 104656,
+        "word": "原来用荷叶喝茶更好喝是真的",
+        "onboard_time": 1725762379,
+        "rank": 49,
+        "category": "美食,健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对台风灾害作出重要指示#"
+    }
+  }
+}
