@@ -1,0 +1,410 @@
+{
+  "runTime": 1725790875013,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 660000,
+        "num": 1105600,
+        "word": "中学生心脏骤停被同学1分钟救回",
+        "onboard_time": 1725775879,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 693811,
+        "num": 921210,
+        "word": "特朗普称若未赢得大选美国将不存在",
+        "onboard_time": 1725786677,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 57468,
+        "num": 898512,
+        "word": "神十八航天员太空出差Vlog上新",
+        "onboard_time": 1725785780,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1348560,
+        "num": 898439,
+        "word": "网红刘灿意外溺水去世",
+        "onboard_time": 1725781999,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 898231,
+        "num": 898231,
+        "word": "刘梓晨为赵露思发声",
+        "onboard_time": 1725786860,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485549,
+        "num": 485549,
+        "word": "防晒衣割不动年轻人了",
+        "onboard_time": 1725786140,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411945,
+        "num": 411945,
+        "word": "上海华东路交通事故致5人死亡",
+        "onboard_time": 1725779418,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403001,
+        "num": 403001,
+        "word": "关晓彤来我们学校拍戏了",
+        "onboard_time": 1725785899,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299483,
+        "num": 299483,
+        "word": "中秋节假期3天高速不免费",
+        "onboard_time": 1725786018,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181390,
+        "num": 298612,
+        "word": "下星期上班时间有变",
+        "onboard_time": 1725785598,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1476772,
+        "num": 298599,
+        "word": "韩安冉床头成了网红打卡点",
+        "onboard_time": 1725788058,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 38961,
+        "num": 298401,
+        "word": "酸酸乳的这波回忆杀谁懂啊",
+        "onboard_time": 1725788419,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298325,
+        "num": 298325,
+        "word": "郑钦文美网轰出54记ACE排名第一",
+        "onboard_time": 1725787640,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 399482,
+        "num": 291378,
+        "word": "女子金店用嘴盗走小金豆",
+        "onboard_time": 1725786978,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278406,
+        "num": 278406,
+        "word": "江西一小汽车撞飞2名骑行者均死亡",
+        "onboard_time": 1725781040,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219150,
+        "num": 219150,
+        "word": "周也叶片妆",
+        "onboard_time": 1725789619,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 268326,
+        "num": 217787,
+        "word": "女子2年被家暴16次称孕晚期还会被打",
+        "onboard_time": 1725781819,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215994,
+        "num": 215994,
+        "word": "TMA颁奖礼aespa红毯",
+        "onboard_time": 1725790039,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209440,
+        "num": 209440,
+        "word": "杀猪盘已盯上朋友圈",
+        "onboard_time": 1725783799,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206685,
+        "num": 206685,
+        "word": "张晚意王楚然从名字开始般配",
+        "onboard_time": 1725781159,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 417077,
+        "num": 206600,
+        "word": "赵丽颖 一筷子就夹亿点点",
+        "onboard_time": 1725788240,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 406702,
+        "num": 206063,
+        "word": "张大大为赵露思发声",
+        "onboard_time": 1725772459,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319029,
+        "num": 205607,
+        "word": "两年后收到了同一个外卖小哥的信息",
+        "onboard_time": 1725783018,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 282704,
+        "num": 205224,
+        "word": "小杨哥哭了",
+        "onboard_time": 1725761959,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 205145,
+        "num": 205145,
+        "word": "爱奇艺已退款",
+        "onboard_time": 1725772940,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227574,
+        "num": 202503,
+        "word": "辛巴再度发文痛斥小杨哥",
+        "onboard_time": 1725763519,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 188835,
+        "num": 188835,
+        "word": "男孩骑行身亡案司机涉刑责合理吗",
+        "onboard_time": 1725784819,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187061,
+        "num": 187061,
+        "word": "学生钓鱼被警告校长转头安排了比赛",
+        "onboard_time": 1725787219,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185243,
+        "num": 185243,
+        "word": "张真源开学了",
+        "onboard_time": 1725790638,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181995,
+        "num": 181995,
+        "word": "金靖怀孕九个月状态",
+        "onboard_time": 1725772039,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198957,
+        "num": 177988,
+        "word": "韩国舍友手写的中文信",
+        "onboard_time": 1725789679,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171429,
+        "num": 171429,
+        "word": "辛巴删除最新文章",
+        "onboard_time": 1725790459,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 165119,
+        "num": 165119,
+        "word": "高卿尘高中瘦了15公斤被6个人追",
+        "onboard_time": 1725789020,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164915,
+        "num": 164915,
+        "word": "四川人吃火锅开始涮粉木耳了",
+        "onboard_time": 1725786619,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164048,
+        "num": 164048,
+        "word": "男子卧推100公斤被压甩鞋求救",
+        "onboard_time": 1725780799,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159054,
+        "num": 159054,
+        "word": "谁懂邓恩熙推开那一下啊",
+        "onboard_time": 1725780499,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158265,
+        "num": 158265,
+        "word": "秦彻 陆沉",
+        "onboard_time": 1725777138,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153955,
+        "num": 153955,
+        "word": "丁禹兮演技",
+        "onboard_time": 1725789259,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149582,
+        "num": 149582,
+        "word": "一建实务",
+        "onboard_time": 1725787459,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 149496,
+        "num": 149496,
+        "word": "超192万人盲订华为三折叠手机",
+        "onboard_time": 1725785420,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 146417,
+        "num": 146417,
+        "word": "LCK",
+        "onboard_time": 1725787760,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143618,
+        "num": 143618,
+        "word": "小镇青年的消费力不输一线白领",
+        "onboard_time": 1725789858,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143464,
+        "num": 143464,
+        "word": "第九代张起灵封神",
+        "onboard_time": 1725774498,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138269,
+        "num": 138269,
+        "word": "50箱五粮液侧翻倒地一瓶没碎",
+        "onboard_time": 1725769639,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136518,
+        "num": 136518,
+        "word": "这种糖突然在小孩圈爆火",
+        "onboard_time": 1725788359,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130843,
+        "num": 130843,
+        "word": "秦彻 北境之主",
+        "onboard_time": 1725788659,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128510,
+        "num": 128510,
+        "word": "ti13",
+        "onboard_time": 1725789739,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125372,
+        "num": 125372,
+        "word": "第一次见门票上这样的注意事项",
+        "onboard_time": 1725785720,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122283,
+        "num": 122283,
+        "word": "王一博 感觉我俩有点暧昧了",
+        "onboard_time": 1725780559,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116935,
+        "num": 116935,
+        "word": "大连警方提示赛后严禁围堵教练员球员",
+        "onboard_time": 1725789560,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络安全对国家安全牵一发而动全身#"
+    }
+  }
+}

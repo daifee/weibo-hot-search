@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725788111867,
+  "endTime": 1725790875013,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -801,6 +801,14 @@
       "onboard_time": 1725772459,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1476772,
+      "num": 298599,
+      "word": "韩安冉床头成了网红打卡点",
+      "onboard_time": 1725788058,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 1474809,
@@ -2060,7 +2068,7 @@
     },
     {
       "raw_hot": 911605,
-      "num": 597361,
+      "num": 898231,
       "word": "刘梓晨为赵露思发声",
       "onboard_time": 1725786860,
       "rank": 8,
@@ -3177,6 +3185,14 @@
       "onboard_time": 1725676038,
       "rank": 19,
       "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 693811,
+      "num": 921210,
+      "word": "特朗普称若未赢得大选美国将不存在",
+      "onboard_time": 1725786677,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 687585,
@@ -4851,20 +4867,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 485549,
+      "num": 485549,
+      "word": "防晒衣割不动年轻人了",
+      "onboard_time": 1725786140,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 485465,
       "num": 485465,
       "word": "秦彻 陆沉",
       "onboard_time": 1725777138,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 484696,
-      "num": 484696,
-      "word": "防晒衣割不动年轻人了",
-      "onboard_time": 1725786140,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 484448,
@@ -5483,14 +5499,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 426954,
-      "num": 426954,
-      "word": "特朗普称若未赢得大选美国将不存在",
-      "onboard_time": 1725786677,
-      "rank": 32,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 424684,
       "num": 424684,
       "word": "贾一凡vlog香港篇",
@@ -5601,6 +5609,14 @@
       "onboard_time": 1725494538,
       "rank": 12,
       "category": "美食"
+    },
+    {
+      "raw_hot": 417077,
+      "num": 206600,
+      "word": "赵丽颖 一筷子就夹亿点点",
+      "onboard_time": 1725788240,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 414682,
@@ -5792,6 +5808,14 @@
       "word": "父亲回应婴儿出租屋饿到营养不良",
       "onboard_time": 1725173299,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399482,
+      "num": 291378,
+      "word": "女子金店用嘴盗走小金豆",
+      "onboard_time": 1725786978,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -7107,6 +7131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299483,
+      "num": 299483,
+      "word": "中秋节假期3天高速不免费",
+      "onboard_time": 1725786018,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299231,
       "num": 299231,
       "word": "山姆回应矿泉水喝了能生儿子",
@@ -7129,6 +7161,14 @@
       "onboard_time": 1725692959,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 298325,
+      "num": 298325,
+      "word": "郑钦文美网轰出54记ACE排名第一",
+      "onboard_time": 1725787640,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 298095,
@@ -9283,14 +9323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 224402,
-      "num": 224402,
-      "word": "女子金店用嘴盗走小金豆",
-      "onboard_time": 1725786978,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 224311,
       "num": 572816,
       "word": "摩羯或为近10年登陆琼粤的最强台风",
@@ -9459,14 +9491,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 220991,
-      "num": 220991,
-      "word": "韩安冉床头成了网红打卡点",
-      "onboard_time": 1725788058,
-      "rank": 18,
-      "category": "网红"
-    },
-    {
       "raw_hot": 220218,
       "num": 303446,
       "word": "男子为还婚前债务偷走新婚礼金",
@@ -9505,6 +9529,14 @@
       "onboard_time": 1725720142,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219150,
+      "num": 219150,
+      "word": "周也叶片妆",
+      "onboard_time": 1725789619,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 218988,
@@ -9657,6 +9689,14 @@
       "onboard_time": 1725200301,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215994,
+      "num": 215994,
+      "word": "TMA颁奖礼aespa红毯",
+      "onboard_time": 1725790039,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 215817,
@@ -9955,11 +9995,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 209496,
-      "num": 209496,
-      "word": "中秋节假期3天高速不免费",
-      "onboard_time": 1725786018,
-      "rank": 36,
+      "raw_hot": 209440,
+      "num": 374017,
+      "word": "杀猪盘已盯上朋友圈",
+      "onboard_time": 1725783799,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -10825,6 +10865,14 @@
       "onboard_time": 1725545724,
       "rank": 40,
       "category": "动漫,游戏"
+    },
+    {
+      "raw_hot": 198957,
+      "num": 177988,
+      "word": "韩国舍友手写的中文信",
+      "onboard_time": 1725789679,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 198951,
@@ -11827,6 +11875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188835,
+      "num": 188835,
+      "word": "男孩骑行身亡案司机涉刑责合理吗",
+      "onboard_time": 1725784819,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188810,
       "num": 188810,
       "word": "国乒给球拍签名根本签不完",
@@ -12083,6 +12139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187061,
+      "num": 187061,
+      "word": "学生钓鱼被警告校长转头安排了比赛",
+      "onboard_time": 1725787219,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187024,
       "num": 187024,
       "word": "郑钦文不敌萨巴伦卡",
@@ -12200,6 +12264,14 @@
       "word": "谭松韵济南活动",
       "onboard_time": 1725682519,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 185243,
+      "num": 185243,
+      "word": "张真源开学了",
+      "onboard_time": 1725790638,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -12584,6 +12656,14 @@
       "word": "收巧克力被开除园长将幼儿园告上法庭",
       "onboard_time": 1725134592,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181390,
+      "num": 298612,
+      "word": "下星期上班时间有变",
+      "onboard_time": 1725785598,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -13267,14 +13347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 175016,
-      "num": 175016,
-      "word": "学生钓鱼被警告校长转头安排了比赛",
-      "onboard_time": 1725787219,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174996,
       "num": 174996,
       "word": "张角卸任LGD主教练",
@@ -13665,6 +13737,14 @@
       "onboard_time": 1725778818,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 171429,
+      "num": 171429,
+      "word": "辛巴删除最新文章",
+      "onboard_time": 1725790459,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 171412,
@@ -14291,6 +14371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 165119,
+      "num": 165119,
+      "word": "高卿尘高中瘦了15公斤被6个人追",
+      "onboard_time": 1725789020,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164970,
       "num": 164970,
       "word": "破纪录后潘展乐列出自己的劣势",
@@ -14777,14 +14865,6 @@
       "onboard_time": 1725526520,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160385,
-      "num": 374017,
-      "word": "杀猪盘已盯上朋友圈",
-      "onboard_time": 1725783799,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160277,
@@ -15555,6 +15635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153955,
+      "num": 153955,
+      "word": "丁禹兮演技",
+      "onboard_time": 1725789259,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153893,
       "num": 153893,
       "word": "职综天花板回来了",
@@ -15923,14 +16011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150221,
-      "num": 150221,
-      "word": "下星期上班时间有变",
-      "onboard_time": 1725785598,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150080,
       "num": 275974,
       "word": "罗仪涵offer史上第一个高考状元",
@@ -15945,6 +16025,14 @@
       "onboard_time": 1725198141,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149582,
+      "num": 149582,
+      "word": "一建实务",
+      "onboard_time": 1725787459,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 149556,
@@ -16555,6 +16643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 143618,
+      "num": 143618,
+      "word": "小镇青年的消费力不输一线白领",
+      "onboard_time": 1725789858,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143545,
       "num": 794482,
       "word": "黄景瑜新剧两眼一睁就是帅",
@@ -17067,6 +17163,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 136518,
+      "num": 136518,
+      "word": "这种糖突然在小孩圈爆火",
+      "onboard_time": 1725788359,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136154,
       "num": 136154,
       "word": "下属变成上司是什么体验",
@@ -17435,6 +17539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 130843,
+      "num": 130843,
+      "word": "秦彻 北境之主",
+      "onboard_time": 1725788659,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 130784,
       "num": 130784,
       "word": "汪峰是姚晓棠的老师",
@@ -17449,14 +17561,6 @@
       "onboard_time": 1725784578,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130456,
-      "num": 130456,
-      "word": "郑钦文美网轰出54记ACE排名第一",
-      "onboard_time": 1725787640,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 130415,
@@ -17657,6 +17761,14 @@
       "onboard_time": 1725463222,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 128510,
+      "num": 128510,
+      "word": "ti13",
+      "onboard_time": 1725789739,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 128108,
@@ -18281,6 +18393,14 @@
       "onboard_time": 1725530659,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116935,
+      "num": 116935,
+      "word": "大连警方提示赛后严禁围堵教练员球员",
+      "onboard_time": 1725789560,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 116919,
@@ -20260,7 +20380,7 @@
     },
     {
       "raw_hot": 59551,
-      "num": 670244,
+      "num": 898512,
       "word": "神十八航天员太空出差Vlog上新",
       "onboard_time": 1725785780,
       "rank": 2,
@@ -21385,6 +21505,14 @@
       "onboard_time": 1725435081,
       "rank": 47,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 38961,
+      "num": 298401,
+      "word": "酸酸乳的这波回忆杀谁懂啊",
+      "onboard_time": 1725788419,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 38743,
