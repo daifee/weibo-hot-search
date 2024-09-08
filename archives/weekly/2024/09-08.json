@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725808947753,
+  "endTime": 1725809836148,
   "band_list": [
     {
       "raw_hot": 2331163,
@@ -531,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 461036,
+      "num": 461036,
+      "word": "山东大学34岁博导突发心梗离世",
+      "onboard_time": 1725806181,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453584,
       "num": 453584,
       "word": "网红名号不是三无食品的遮羞布",
@@ -561,14 +569,6 @@
       "onboard_time": 1725785899,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 434973,
-      "num": 434973,
-      "word": "山东大学34岁博导突发心梗离世",
-      "onboard_time": 1725806181,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 419637,
@@ -827,6 +827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 319631,
+      "num": 319631,
+      "word": "何炅 栀子花开已经20年了",
+      "onboard_time": 1725806543,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319533,
       "num": 245162,
       "word": "韩国舍友手写的中文信",
@@ -1027,14 +1035,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 254641,
-      "num": 254641,
-      "word": "何炅 栀子花开已经20年了",
-      "onboard_time": 1725806543,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 252368,
       "num": 252368,
       "word": "金店卖出16万金条后银行卡被冻结",
@@ -1057,6 +1057,14 @@
       "onboard_time": 1725752777,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247025,
+      "num": 398070,
+      "word": "湖南卫视音响",
+      "onboard_time": 1725807201,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 246480,
@@ -1361,14 +1369,6 @@
       "onboard_time": 1725773780,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 199256,
-      "num": 398070,
-      "word": "湖南卫视音响",
-      "onboard_time": 1725807201,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 199177,
@@ -1715,6 +1715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 168876,
+      "num": 168876,
+      "word": "华晨宇 华妃是在叫我吗",
+      "onboard_time": 1725809301,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 168857,
       "num": 168857,
       "word": "台风摩羯过后最松弛照片当事人讲述",
@@ -2051,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146584,
+      "num": 146584,
+      "word": "国足在大连似乎走出了惨败阴影",
+      "onboard_time": 1725808102,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144911,
       "num": 144911,
       "word": "卢昱晓侯明昊 微表情好品",
@@ -2065,6 +2081,22 @@
       "onboard_time": 1725800541,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144563,
+      "num": 297568,
+      "word": "央视曝光保险逾期扣费骗局",
+      "onboard_time": 1725804620,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144437,
+      "num": 144437,
+      "word": "刘雨昕这杯水让我倒",
+      "onboard_time": 1725808823,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 143618,
@@ -2115,14 +2147,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 140784,
-      "num": 140784,
-      "word": "刘雨昕这杯水让我倒",
-      "onboard_time": 1725808823,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 140644,
       "num": 140644,
       "word": "2024华晨宇火星演唱会",
@@ -2137,6 +2161,14 @@
       "onboard_time": 1725755778,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 139645,
+      "num": 139645,
+      "word": "官方通报16岁少年理发被索要4000元",
+      "onboard_time": 1725807984,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139321,
@@ -2169,6 +2201,14 @@
       "onboard_time": 1725795019,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137896,
+      "num": 137896,
+      "word": "原来猫咪也有扁头的",
+      "onboard_time": 1725809003,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 137418,
@@ -2225,14 +2265,6 @@
       "onboard_time": 1725753257,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 135070,
-      "num": 297568,
-      "word": "央视曝光保险逾期扣费骗局",
-      "onboard_time": 1725804620,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134056,
@@ -2579,14 +2611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 111736,
-      "num": 111736,
-      "word": "国足在大连似乎走出了惨败阴影",
-      "onboard_time": 1725808102,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 110860,
       "num": 147739,
       "word": "周深华丽唱腔表现大场面",
@@ -2649,14 +2673,6 @@
       "onboard_time": 1725764237,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106987,
-      "num": 106987,
-      "word": "官方通报16岁少年理发被索要4000元",
-      "onboard_time": 1725807984,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105956,
@@ -2891,12 +2907,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 86238,
+      "num": 86238,
+      "word": "AG决赛会师KSG",
+      "onboard_time": 1725807922,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 82566,
       "num": 100888,
       "word": "邓莎给儿子饭里加增高药",
       "onboard_time": 1725696260,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82268,
+      "num": 82268,
+      "word": "睡前4分钟瘦腿教程",
+      "onboard_time": 1725809780,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 81371,
@@ -3003,6 +3035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58537,
+      "num": 548911,
+      "word": "一句古诗适配秋天",
+      "onboard_time": 1725801019,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 57746,
       "num": 379517,
       "word": "刘端端掌握了音乐圈聊天的精髓",
@@ -3017,14 +3057,6 @@
       "onboard_time": 1725748032,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 55873,
-      "num": 548911,
-      "word": "一句古诗适配秋天",
-      "onboard_time": 1725801019,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 55730,

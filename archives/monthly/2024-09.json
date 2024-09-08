@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725808947753,
+  "endTime": 1725809836148,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -5315,6 +5315,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 461036,
+      "num": 461036,
+      "word": "山东大学34岁博导突发心梗离世",
+      "onboard_time": 1725806181,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 460166,
       "num": 474624,
       "word": "纪委回应副局长被曝涉不雅聊天语音",
@@ -5601,14 +5609,6 @@
       "onboard_time": 1725502759,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 434973,
-      "num": 434973,
-      "word": "山东大学34岁博导突发心梗离世",
-      "onboard_time": 1725806181,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 432228,
@@ -6993,6 +6993,14 @@
       "onboard_time": 1725452541,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 319631,
+      "num": 319631,
+      "word": "何炅 栀子花开已经20年了",
+      "onboard_time": 1725806543,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 319533,
@@ -8619,14 +8627,6 @@
       "category": "体育,作品衍生"
     },
     {
-      "raw_hot": 254641,
-      "num": 254641,
-      "word": "何炅 栀子花开已经20年了",
-      "onboard_time": 1725806543,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 254266,
       "num": 254266,
       "word": "全红婵贴脸开大干饭哥",
@@ -8833,6 +8833,14 @@
       "onboard_time": 1725344901,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247025,
+      "num": 398070,
+      "word": "湖南卫视音响",
+      "onboard_time": 1725807201,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 246933,
@@ -11265,14 +11273,6 @@
       "onboard_time": 1725714320,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 199256,
-      "num": 398070,
-      "word": "湖南卫视音响",
-      "onboard_time": 1725807201,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 199190,
@@ -14563,6 +14563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168876,
+      "num": 168876,
+      "word": "华晨宇 华妃是在叫我吗",
+      "onboard_time": 1725809301,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 168857,
       "num": 168857,
       "word": "台风摩羯过后最松弛照片当事人讲述",
@@ -17051,6 +17059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146584,
+      "num": 146584,
+      "word": "国足在大连似乎走出了惨败阴影",
+      "onboard_time": 1725808102,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146570,
       "num": 146570,
       "word": "张雨霏最快乐的一次出行",
@@ -17315,11 +17331,27 @@
       "category": "网红"
     },
     {
+      "raw_hot": 144563,
+      "num": 297568,
+      "word": "央视曝光保险逾期扣费骗局",
+      "onboard_time": 1725804620,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144466,
       "num": 623765,
       "word": "翁青雅彭高好嗑",
       "onboard_time": 1725412040,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 144437,
+      "num": 144437,
+      "word": "刘雨昕这杯水让我倒",
+      "onboard_time": 1725808823,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -17587,14 +17619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140784,
-      "num": 140784,
-      "word": "刘雨昕这杯水让我倒",
-      "onboard_time": 1725808823,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 140750,
       "num": 140750,
       "word": "家长称没购买记录学校不办理入学登记",
@@ -17689,6 +17713,14 @@
       "onboard_time": 1725497720,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 139645,
+      "num": 139645,
+      "word": "官方通报16岁少年理发被索要4000元",
+      "onboard_time": 1725807984,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139557,
@@ -17809,6 +17841,14 @@
       "onboard_time": 1725795019,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137896,
+      "num": 137896,
+      "word": "原来猫咪也有扁头的",
+      "onboard_time": 1725809003,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 137889,
@@ -18025,14 +18065,6 @@
       "onboard_time": 1725753257,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 135070,
-      "num": 297568,
-      "word": "央视曝光保险逾期扣费骗局",
-      "onboard_time": 1725804620,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134905,
@@ -19515,14 +19547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111736,
-      "num": 111736,
-      "word": "国足在大连似乎走出了惨败阴影",
-      "onboard_time": 1725808102,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 111225,
       "num": 552531,
       "word": "绝不容忍在烈士陵园跳舞行为",
@@ -19697,14 +19721,6 @@
       "onboard_time": 1725665115,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106987,
-      "num": 106987,
-      "word": "官方通报16岁少年理发被索要4000元",
-      "onboard_time": 1725807984,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106551,
@@ -20419,6 +20435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 86238,
+      "num": 86238,
+      "word": "AG决赛会师KSG",
+      "onboard_time": 1725807922,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 86135,
       "num": 341611,
       "word": "男子为等家人4次阻挡高铁关门",
@@ -20513,6 +20537,14 @@
       "onboard_time": 1725467417,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82268,
+      "num": 82268,
+      "word": "睡前4分钟瘦腿教程",
+      "onboard_time": 1725809780,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 81214,
@@ -21315,6 +21347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 58537,
+      "num": 548911,
+      "word": "一句古诗适配秋天",
+      "onboard_time": 1725801019,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 58444,
       "num": 58444,
       "word": "曼联0比3利物浦",
@@ -21441,14 +21481,6 @@
       "onboard_time": 1725271400,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55873,
-      "num": 548911,
-      "word": "一句古诗适配秋天",
-      "onboard_time": 1725801019,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 55798,
