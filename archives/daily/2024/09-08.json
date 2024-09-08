@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725794192291,
+  "endTime": 1725795371616,
   "band_list": [
     {
       "raw_hot": 2097681,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1476772,
-      "num": 298599,
+      "num": 306564,
       "word": "韩安冉床头成了网红打卡点",
       "onboard_time": 1725788058,
       "rank": 18,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 649486,
+      "num": 248362,
+      "word": "三只羊卢文庆发长文",
+      "onboard_time": 1725792619,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 635679,
       "num": 294776,
       "word": "多人发现遗体帐篷却未报警的背后",
@@ -281,6 +289,14 @@
       "onboard_time": 1725772039,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 545501,
+      "num": 299789,
+      "word": "16岁少年剪头烫发被索要4000元",
+      "onboard_time": 1725790999,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 543848,
@@ -380,7 +396,7 @@
     },
     {
       "raw_hot": 472912,
-      "num": 291378,
+      "num": 296357,
       "word": "女子金店用嘴盗走小金豆",
       "onboard_time": 1725786978,
       "rank": 41,
@@ -411,20 +427,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 453559,
-      "num": 258089,
-      "word": "16岁少年剪头烫发被索要4000元",
-      "onboard_time": 1725790999,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 443716,
       "num": 443716,
       "word": "200兆网速实际只有20兆",
       "onboard_time": 1725763039,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 442048,
+      "num": 442048,
+      "word": "HLE夺冠",
+      "onboard_time": 1725795081,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 439497,
@@ -452,7 +468,7 @@
     },
     {
       "raw_hot": 417077,
-      "num": 206600,
+      "num": 211525,
       "word": "赵丽颖 一筷子就夹亿点点",
       "onboard_time": 1725788240,
       "rank": 20,
@@ -473,6 +489,14 @@
       "onboard_time": 1725770720,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407835,
+      "num": 407835,
+      "word": "GEN和HLE决胜局",
+      "onboard_time": 1725793999,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 405493,
@@ -521,6 +545,14 @@
       "onboard_time": 1725766878,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 393184,
+      "num": 393184,
+      "word": "泰国女孩来中国留学读大专",
+      "onboard_time": 1725794718,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 386303,
@@ -596,7 +628,7 @@
     },
     {
       "raw_hot": 349553,
-      "num": 213969,
+      "num": 243426,
       "word": "辛巴删除最新文章",
       "onboard_time": 1725790459,
       "rank": 31,
@@ -609,14 +641,6 @@
       "onboard_time": 1725766098,
       "rank": 6,
       "category": "教育"
-    },
-    {
-      "raw_hot": 341928,
-      "num": 202263,
-      "word": "三只羊卢文庆发长文",
-      "onboard_time": 1725792619,
-      "rank": 22,
-      "category": "互联网"
     },
     {
       "raw_hot": 337570,
@@ -643,12 +667,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 324770,
+      "num": 324770,
+      "word": "2025优酷年度片单",
+      "onboard_time": 1725791779,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 319533,
-      "num": 206520,
+      "num": 245162,
       "word": "韩国舍友手写的中文信",
       "onboard_time": 1725789679,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 313780,
+      "num": 244395,
+      "word": "小杨哥妈妈改简介",
+      "onboard_time": 1725795139,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 312483,
@@ -659,8 +699,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 310401,
+      "num": 310401,
+      "word": "王一博 你知道苦瓜吗",
+      "onboard_time": 1725791060,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 309106,
-      "num": 257063,
+      "num": 283443,
       "word": "颜人中演唱会官宣",
       "onboard_time": 1725793819,
       "rank": 14,
@@ -707,12 +755,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 276298,
-      "num": 276298,
-      "word": "2025优酷年度片单",
-      "onboard_time": 1725791779,
-      "rank": 49,
-      "category": "作品衍生"
+      "raw_hot": 278368,
+      "num": 278368,
+      "word": "韩安冉生产后首播带货",
+      "onboard_time": 1725794478,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 273140,
+      "num": 273140,
+      "word": "GEN对战HLE",
+      "onboard_time": 1725778818,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 271603,
@@ -811,14 +867,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 245022,
-      "num": 245022,
-      "word": "王一博 你知道苦瓜吗",
-      "onboard_time": 1725791060,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 243335,
       "num": 243335,
       "word": "韩安冉二胎是女儿",
@@ -899,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218761,
+      "num": 209415,
+      "word": "杜江霍思燕带儿女遛狗",
+      "onboard_time": 1725794899,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215994,
       "num": 215994,
       "word": "TMA颁奖礼aespa红毯",
@@ -939,6 +995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207586,
+      "num": 207586,
+      "word": "LCK",
+      "onboard_time": 1725787760,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 206436,
       "num": 184717,
       "word": "岳云鹏让纪凌尘说话别带英文",
@@ -953,6 +1017,14 @@
       "onboard_time": 1725768380,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205073,
+      "num": 205073,
+      "word": "陈都灵眼镜一戴智性恋的天菜",
+      "onboard_time": 1725793279,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202035,
@@ -1027,14 +1099,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 191976,
-      "num": 191976,
-      "word": "陈都灵眼镜一戴智性恋的天菜",
-      "onboard_time": 1725793279,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 189892,
       "num": 176599,
       "word": "潘玮柏 不爱吃不等于不吃",
@@ -1099,6 +1163,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 180615,
+      "num": 209424,
+      "word": "马嘉祺换头像了",
+      "onboard_time": 1725795019,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179880,
       "num": 179880,
       "word": "这5类人喝咖啡格外受益",
@@ -1155,14 +1227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171576,
-      "num": 171576,
-      "word": "GEN对战HLE",
-      "onboard_time": 1725778818,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 170757,
       "num": 170757,
       "word": "十大抗衰老运动",
@@ -1177,14 +1241,6 @@
       "onboard_time": 1725784578,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168836,
-      "num": 168836,
-      "word": "LCK",
-      "onboard_time": 1725787760,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 167675,
@@ -1243,14 +1299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161913,
-      "num": 161913,
-      "word": "GEN和HLE决胜局",
-      "onboard_time": 1725793999,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 161203,
       "num": 161203,
       "word": "孙颖莎王曼昱适应性训练",
@@ -1281,6 +1329,14 @@
       "onboard_time": 1725781579,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157587,
+      "num": 157587,
+      "word": "美甲去死皮其实是在伤害指甲",
+      "onboard_time": 1725793340,
+      "rank": 38,
+      "category": "美妆"
     },
     {
       "raw_hot": 157549,
@@ -1475,6 +1531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139423,
+      "num": 139423,
+      "word": "雪迷宫",
+      "onboard_time": 1725735731,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139321,
       "num": 139321,
       "word": "这种糖突然在小孩圈爆火",
@@ -1521,6 +1585,14 @@
       "onboard_time": 1725715520,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136124,
+      "num": 136124,
+      "word": "大学生因一顿烧烤进ICU换了5次血",
+      "onboard_time": 1725794781,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136114,
@@ -1675,6 +1747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124200,
+      "num": 124200,
+      "word": "我爸瞒着我偷偷跑去看演唱会了",
+      "onboard_time": 1725794239,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124188,
       "num": 124188,
       "word": "林诗栋蒯曼阿拉木图站夺冠",
@@ -1697,6 +1777,14 @@
       "onboard_time": 1725772399,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123389,
+      "num": 123389,
+      "word": "中央气象台对台风摩羯停止编号",
+      "onboard_time": 1725794177,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122966,
@@ -1833,14 +1921,6 @@
       "onboard_time": 1725781399,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112387,
-      "num": 112387,
-      "word": "中央气象台对台风摩羯停止编号",
-      "onboard_time": 1725794177,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109735,
@@ -2395,6 +2475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28211,
+      "num": 308478,
+      "word": "晚退房收半天房费行业惯例不该惯着",
+      "onboard_time": 1725795019,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26023,
       "num": 94646,
       "word": "中国消防员13秒攀登挂钩梯上四楼",
@@ -2435,20 +2523,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23998,
-      "num": 25357,
-      "word": "雪迷宫",
-      "onboard_time": 1725735731,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 21566,
       "num": 244261,
       "word": "王骁演的那伟就是一首凡人歌",
       "onboard_time": 1725776539,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20815,
+      "num": 418529,
+      "word": "我们在残奥会看到了最不屈的灵魂",
+      "onboard_time": 1725785238,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 20704,
@@ -2507,6 +2595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 10610,
+      "num": 124511,
+      "word": "玻尿酸的功效有多全面",
+      "onboard_time": 1725793879,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 10272,
       "num": 178130,
       "word": "白敬亭撒欢儿",
@@ -2521,14 +2617,6 @@
       "onboard_time": 1725735253,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6084,
-      "num": 114740,
-      "word": "玻尿酸的功效有多全面",
-      "onboard_time": 1725793879,
-      "rank": 46,
-      "category": "健康医疗"
     }
   ],
   "hotgov_list": [

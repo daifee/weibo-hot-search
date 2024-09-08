@@ -1,0 +1,410 @@
+{
+  "runTime": 1725795371616,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 730369,
+        "num": 1116859,
+        "word": "中学生心脏骤停被同学1分钟救回",
+        "onboard_time": 1725775879,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442048,
+        "num": 442048,
+        "word": "HLE夺冠",
+        "onboard_time": 1725795081,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20815,
+        "num": 418529,
+        "word": "我们在残奥会看到了最不屈的灵魂",
+        "onboard_time": 1725785238,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 407835,
+        "num": 407835,
+        "word": "GEN和HLE决胜局",
+        "onboard_time": 1725793999,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 393184,
+        "num": 393184,
+        "word": "泰国女孩来中国留学读大专",
+        "onboard_time": 1725794718,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371055,
+        "num": 371055,
+        "word": "中秋节假期3天高速不免费",
+        "onboard_time": 1725786018,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332774,
+        "num": 332774,
+        "word": "防晒衣割不动年轻人了",
+        "onboard_time": 1725786140,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324770,
+        "num": 324770,
+        "word": "2025优酷年度片单",
+        "onboard_time": 1725791779,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 310401,
+        "num": 310401,
+        "word": "王一博 你知道苦瓜吗",
+        "onboard_time": 1725791060,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28211,
+        "num": 308478,
+        "word": "晚退房收半天房费行业惯例不该惯着",
+        "onboard_time": 1725795019,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1169725,
+        "num": 306564,
+        "word": "韩安冉床头成了网红打卡点",
+        "onboard_time": 1725788058,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 850422,
+        "num": 303594,
+        "word": "网红刘灿意外溺水去世",
+        "onboard_time": 1725781999,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 545501,
+        "num": 299789,
+        "word": "16岁少年剪头烫发被索要4000元",
+        "onboard_time": 1725790999,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405428,
+        "num": 296357,
+        "word": "女子金店用嘴盗走小金豆",
+        "onboard_time": 1725786978,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294335,
+        "num": 294335,
+        "word": "郑钦文美网轰出54记ACE排名第一",
+        "onboard_time": 1725787640,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283443,
+        "num": 283443,
+        "word": "颜人中演唱会官宣",
+        "onboard_time": 1725793819,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 278368,
+        "num": 278368,
+        "word": "韩安冉生产后首播带货",
+        "onboard_time": 1725794478,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 273140,
+        "num": 273140,
+        "word": "GEN对战HLE",
+        "onboard_time": 1725778818,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 905447,
+        "num": 261936,
+        "word": "刘梓晨为赵露思发声",
+        "onboard_time": 1725786860,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249801,
+        "num": 249801,
+        "word": "关晓彤来我们学校拍戏了",
+        "onboard_time": 1725785899,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 649486,
+        "num": 248362,
+        "word": "三只羊卢文庆发长文",
+        "onboard_time": 1725792619,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 245162,
+        "num": 245162,
+        "word": "韩国舍友手写的中文信",
+        "onboard_time": 1725789679,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 313780,
+        "num": 244395,
+        "word": "小杨哥妈妈改简介",
+        "onboard_time": 1725795139,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 256752,
+        "num": 243782,
+        "word": "张大大为赵露思发声",
+        "onboard_time": 1725772459,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265770,
+        "num": 243426,
+        "word": "辛巴删除最新文章",
+        "onboard_time": 1725790459,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 242559,
+        "num": 242559,
+        "word": "下星期上班时间有变",
+        "onboard_time": 1725785598,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211885,
+        "num": 211885,
+        "word": "刘学义孟子义 颜控天堂",
+        "onboard_time": 1725791598,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211525,
+        "num": 211525,
+        "word": "赵丽颖 一筷子就夹亿点点",
+        "onboard_time": 1725788240,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183719,
+        "num": 209569,
+        "word": "周也叶片妆",
+        "onboard_time": 1725789619,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180615,
+        "num": 209424,
+        "word": "马嘉祺换头像了",
+        "onboard_time": 1725795019,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218761,
+        "num": 209415,
+        "word": "杜江霍思燕带儿女遛狗",
+        "onboard_time": 1725794899,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209340,
+        "num": 209340,
+        "word": "江西一小汽车撞飞2名骑行者均死亡",
+        "onboard_time": 1725781040,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207586,
+        "num": 207586,
+        "word": "LCK",
+        "onboard_time": 1725787760,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 47541,
+        "num": 205975,
+        "word": "神十八航天员太空出差Vlog上新",
+        "onboard_time": 1725785780,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 205073,
+        "num": 205073,
+        "word": "陈都灵眼镜一戴智性恋的天菜",
+        "onboard_time": 1725793279,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178882,
+        "num": 178882,
+        "word": "小杨哥哭了",
+        "onboard_time": 1725761959,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 169006,
+        "num": 169006,
+        "word": "易烊千玺沙漠写真",
+        "onboard_time": 1725791239,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165145,
+        "num": 165145,
+        "word": "两年后收到了同一个外卖小哥的信息",
+        "onboard_time": 1725783018,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157587,
+        "num": 157587,
+        "word": "美甲去死皮其实是在伤害指甲",
+        "onboard_time": 1725793340,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 157441,
+        "num": 157441,
+        "word": "张晚意王楚然从名字开始般配",
+        "onboard_time": 1725781159,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150655,
+        "num": 150655,
+        "word": "男子卧推100公斤被压甩鞋求救",
+        "onboard_time": 1725780799,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144931,
+        "num": 144931,
+        "word": "王安宇叫田曦薇伴侣吓到杨迪",
+        "onboard_time": 1725793038,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140137,
+        "num": 140137,
+        "word": "辛巴再度发文痛斥小杨哥",
+        "onboard_time": 1725763519,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 139423,
+        "num": 139423,
+        "word": "雪迷宫",
+        "onboard_time": 1725795259,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136124,
+        "num": 136124,
+        "word": "大学生因一顿烧烤进ICU换了5次血",
+        "onboard_time": 1725794781,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128710,
+        "num": 128710,
+        "word": "AG对战RW",
+        "onboard_time": 1725793819,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10610,
+        "num": 124511,
+        "word": "玻尿酸的功效有多全面",
+        "onboard_time": 1725793879,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124200,
+        "num": 124200,
+        "word": "我爸瞒着我偷偷跑去看演唱会了",
+        "onboard_time": 1725794239,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123389,
+        "num": 123389,
+        "word": "中央气象台对台风摩羯停止编号",
+        "onboard_time": 1725794177,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122178,
+        "num": 122178,
+        "word": "男孩骑行身亡案司机涉刑责合理吗",
+        "onboard_time": 1725784819,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络安全对国家安全牵一发而动全身#"
+    }
+  }
+}
