@@ -1,10 +1,10 @@
 {
   "startTime": 1725812757378,
-  "endTime": 1725837792801,
+  "endTime": 1725838543975,
   "band_list": [
     {
-      "raw_hot": 1035438,
-      "num": 1035438,
+      "raw_hot": 1038451,
+      "num": 1038451,
       "word": "央视曝光空挂学籍乱象",
       "onboard_time": 1725813616,
       "rank": 21,
@@ -35,12 +35,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 488398,
-      "num": 488398,
+      "raw_hot": 519363,
+      "num": 519363,
       "word": "山东大学34岁博导突发心梗离世",
       "onboard_time": 1725806181,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437634,
+      "num": 437634,
+      "word": "张翰谈时隔7年再演古装剧",
+      "onboard_time": 1725820512,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 432286,
@@ -59,20 +67,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 430029,
-      "num": 430029,
-      "word": "张翰谈时隔7年再演古装剧",
-      "onboard_time": 1725820512,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 343255,
       "num": 152365,
       "word": "以后不准穷人写爽文",
       "onboard_time": 1725801019,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 323552,
+      "num": 232905,
+      "word": "小学生俩月花15000元在文具店集卡",
+      "onboard_time": 1725792919,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310041,
@@ -99,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254420,
+      "num": 254420,
+      "word": "国足在大连似乎走出了惨败阴影",
+      "onboard_time": 1725808102,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251868,
       "num": 235598,
       "word": "韩安冉床头成了网红打卡点",
@@ -115,20 +131,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233478,
-      "num": 233478,
-      "word": "国足在大连似乎走出了惨败阴影",
-      "onboard_time": 1725808102,
-      "rank": 9,
+      "raw_hot": 239218,
+      "num": 239218,
+      "word": "辛纳美网夺冠",
+      "onboard_time": 1725836776,
+      "rank": 11,
       "category": "体育"
     },
     {
-      "raw_hot": 232982,
-      "num": 197762,
-      "word": "小学生俩月花15000元在文具店集卡",
-      "onboard_time": 1725792919,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 232505,
+      "num": 232505,
+      "word": "知情人回应健身博主刘灿溺水身亡",
+      "onboard_time": 1725804021,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 227722,
@@ -147,14 +163,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 220097,
-      "num": 220097,
-      "word": "知情人回应健身博主刘灿溺水身亡",
-      "onboard_time": 1725804021,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 208898,
       "num": 208898,
       "word": "重庆高温",
@@ -171,12 +179,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195296,
-      "num": 195296,
-      "word": "辛纳美网夺冠",
-      "onboard_time": 1725836776,
-      "rank": 11,
-      "category": "体育"
+      "raw_hot": 196640,
+      "num": 196640,
+      "word": "王子奇就这么水灵灵抱上了黄景瑜",
+      "onboard_time": 1725832992,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194342,
+      "num": 194342,
+      "word": "摩羯在越南造成大面积断电断网",
+      "onboard_time": 1725816554,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191892,
@@ -195,27 +211,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 189182,
-      "num": 189182,
-      "word": "王子奇就这么水灵灵抱上了黄景瑜",
-      "onboard_time": 1725832992,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 187405,
-      "num": 187405,
-      "word": "摩羯在越南造成大面积断电断网",
-      "onboard_time": 1725816554,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183931,
       "num": 183931,
       "word": "海口躲台风腿被夹业主一家平安",
       "onboard_time": 1725802340,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177188,
+      "num": 177188,
+      "word": "20元学生小饭桌正在被成年人占领",
+      "onboard_time": 1725800658,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -243,12 +251,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153450,
-      "num": 153450,
-      "word": "20元学生小饭桌正在被成年人占领",
-      "onboard_time": 1725800658,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 152823,
+      "num": 152823,
+      "word": "东北雨姐算塌房了吗",
+      "onboard_time": 1725800419,
+      "rank": 37,
+      "category": "网红"
     },
     {
       "raw_hot": 152287,
@@ -259,19 +267,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 151148,
-      "num": 151148,
-      "word": "东北雨姐算塌房了吗",
-      "onboard_time": 1725800419,
-      "rank": 37,
-      "category": "网红"
-    },
-    {
       "raw_hot": 146864,
       "num": 146864,
       "word": "孙卓首度回应报考南工大原因",
       "onboard_time": 1725798502,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139890,
+      "num": 139890,
+      "word": "外卖小哥带娃抗癌被剐蹭车主反手转2千",
+      "onboard_time": 1725801320,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -291,12 +299,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126269,
-      "num": 126269,
-      "word": "外卖小哥带娃抗癌被剐蹭车主反手转2千",
-      "onboard_time": 1725801320,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 129001,
+      "num": 135985,
+      "word": "一点开以为是爸爸回来了",
+      "onboard_time": 1725815773,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 127099,
+      "num": 127099,
+      "word": "久坐的人臀部会失忆",
+      "onboard_time": 1725818773,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 125704,
@@ -323,20 +339,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 106148,
-      "num": 123378,
-      "word": "一点开以为是爸爸回来了",
-      "onboard_time": 1725815773,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 105332,
-      "num": 105332,
-      "word": "久坐的人臀部会失忆",
-      "onboard_time": 1725818773,
-      "rank": 23,
-      "category": "健康医疗"
+      "raw_hot": 110469,
+      "num": 110469,
+      "word": "金智媛见面会被喊金秀贤",
+      "onboard_time": 1725835454,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 100997,
@@ -387,12 +395,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 85659,
-      "num": 85659,
-      "word": "金智媛见面会被喊金秀贤",
-      "onboard_time": 1725835454,
-      "rank": 26,
-      "category": "作品衍生"
+      "raw_hot": 81719,
+      "num": 81719,
+      "word": "6年相亲28个找不到六边形战士",
+      "onboard_time": 1725825491,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77966,
+      "num": 77966,
+      "word": "C罗绝杀",
+      "onboard_time": 1725837977,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 77731,
@@ -403,8 +419,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 77138,
+      "num": 77138,
+      "word": "六公主报道张翰流光引",
+      "onboard_time": 1725822072,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 74052,
-      "num": 74052,
+      "num": 76436,
       "word": "巴黎残奥会中国队94金76银50铜收官",
       "onboard_time": 1725803842,
       "rank": 43,
@@ -417,14 +441,6 @@
       "onboard_time": 1725811579,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 71814,
-      "num": 71814,
-      "word": "6年相亲28个找不到六边形战士",
-      "onboard_time": 1725825491,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71696,
@@ -449,6 +465,14 @@
       "onboard_time": 1725801560,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 70553,
+      "num": 77135,
+      "word": "葡萄牙2比1苏格兰",
+      "onboard_time": 1725837977,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 69471,
@@ -483,19 +507,27 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 62816,
-      "num": 66083,
-      "word": "六公主报道张翰流光引",
-      "onboard_time": 1725822072,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 59137,
-      "num": 66035,
+      "raw_hot": 61815,
+      "num": 76876,
       "word": "10岁轮椅女孩上学4年成全班35人团宠",
       "onboard_time": 1725826752,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56770,
+      "num": 76766,
+      "word": "丁禹兮邓恩熙大大方方营业",
+      "onboard_time": 1725816854,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 52513,
+      "num": 76625,
+      "word": "安徽霍邱农田中发现钱币窑藏",
+      "onboard_time": 1725823751,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -515,43 +547,43 @@
       "category": "情感"
     },
     {
-      "raw_hot": 49183,
-      "num": 65995,
-      "word": "丁禹兮邓恩熙大大方方营业",
-      "onboard_time": 1725816854,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 44469,
-      "num": 65922,
-      "word": "安徽霍邱农田中发现钱币窑藏",
-      "onboard_time": 1725823751,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43092,
-      "num": 65876,
+      "raw_hot": 45666,
+      "num": 76322,
       "word": "AG超玩会 宝石流",
       "onboard_time": 1725800658,
       "rank": 47,
       "category": "电竞"
     },
     {
+      "raw_hot": 45181,
+      "num": 76203,
+      "word": "网传重庆9月降雪消息不属实",
+      "onboard_time": 1725802099,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42322,
-      "num": 65828,
+      "num": 76147,
       "word": "凡人歌",
       "onboard_time": 1725802581,
       "rank": 40,
       "category": "剧集"
     },
     {
-      "raw_hot": 38451,
-      "num": 65798,
-      "word": "网传重庆9月降雪消息不属实",
-      "onboard_time": 1725802099,
+      "raw_hot": 38336,
+      "num": 76090,
+      "word": "5年前摇号未中如今低价买到心仪现房",
+      "onboard_time": 1725838337,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37196,
+      "num": 475640,
+      "word": "1790位教育工作者教师节前受表彰",
+      "onboard_time": 1725801379,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -571,20 +603,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34638,
-      "num": 434829,
-      "word": "1790位教育工作者教师节前受表彰",
-      "onboard_time": 1725801379,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30066,
       "num": 65723,
       "word": "中国连续6届残奥金牌榜奖牌榜第一",
       "onboard_time": 1725820632,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28159,
+      "num": 233000,
+      "word": "大叔崩溃求助交警请他吃面加鸡腿",
+      "onboard_time": 1725837437,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27953,
@@ -657,14 +689,6 @@
       "onboard_time": 1725826812,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 12987,
-      "num": 198383,
-      "word": "大叔崩溃求助交警请他吃面加鸡腿",
-      "onboard_time": 1725837437,
-      "rank": 9,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
