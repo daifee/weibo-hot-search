@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725784711691,
+  "endTime": 1725787230966,
   "band_list": [
     {
       "raw_hot": 2097681,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 855479,
+      "num": 331491,
+      "word": "女子2年被家暴16次称孕晚期还会被打",
+      "onboard_time": 1725781819,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 827847,
       "num": 228411,
       "word": "小杨哥开播回应与辛巴的矛盾",
@@ -153,14 +161,6 @@
       "onboard_time": 1725772940,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 815362,
-      "num": 331491,
-      "word": "女子2年被家暴16次称孕晚期还会被打",
-      "onboard_time": 1725781819,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 813926,
@@ -209,6 +209,14 @@
       "onboard_time": 1725751275,
       "rank": 27,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 686853,
+      "num": 226734,
+      "word": "两年后收到了同一个外卖小哥的信息",
+      "onboard_time": 1725783018,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 673101,
@@ -291,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512983,
+      "num": 512983,
+      "word": "刘灿",
+      "onboard_time": 1725783980,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 492165,
       "num": 356364,
       "word": "G社拍的赵露思生图",
@@ -313,6 +329,14 @@
       "onboard_time": 1725751816,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 467580,
+      "num": 467580,
+      "word": "张晚意王楚然从名字开始般配",
+      "onboard_time": 1725781159,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 465413,
@@ -353,14 +377,6 @@
       "onboard_time": 1725755717,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 417198,
-      "num": 417198,
-      "word": "张晚意王楚然从名字开始般配",
-      "onboard_time": 1725781159,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 409739,
@@ -507,6 +523,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 343555,
+      "num": 343555,
+      "word": "刘梓晨为赵露思发声",
+      "onboard_time": 1725786860,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337570,
       "num": 217815,
       "word": "沙和尚被贬下界来不是没道理的",
@@ -529,14 +553,6 @@
       "onboard_time": 1725772340,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 315439,
-      "num": 226734,
-      "word": "两年后收到了同一个外卖小哥的信息",
-      "onboard_time": 1725783018,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 312483,
@@ -571,12 +587,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 302158,
+      "num": 302158,
+      "word": "关晓彤来我们学校拍戏了",
+      "onboard_time": 1725785899,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 294914,
       "num": 294914,
       "word": "曾舜晞经纪人和吴宣仪是同学",
       "onboard_time": 1725727518,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 281576,
+      "num": 281576,
+      "word": "防晒衣割不动年轻人了",
+      "onboard_time": 1725786140,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278703,
@@ -819,14 +851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192757,
-      "num": 192757,
-      "word": "刘灿",
-      "onboard_time": 1725783980,
-      "rank": 32,
-      "category": "网红"
-    },
-    {
       "raw_hot": 189892,
       "num": 176599,
       "word": "潘玮柏 不爱吃不等于不吃",
@@ -891,12 +915,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175933,
+      "num": 175933,
+      "word": "第一次见门票上这样的注意事项",
+      "onboard_time": 1725785720,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175855,
       "num": 191478,
       "word": "你们一来我们的心里面就舒服了",
       "onboard_time": 1725757576,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174902,
+      "num": 174902,
+      "word": "特朗普称若未赢得大选美国将不存在",
+      "onboard_time": 1725786677,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 173761,
@@ -931,12 +971,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 168857,
+      "num": 168857,
+      "word": "台风摩羯过后最松弛照片当事人讲述",
+      "onboard_time": 1725784578,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167675,
       "num": 167675,
       "word": "擦簪子是张晚意临场发挥的",
       "onboard_time": 1725778039,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167294,
+      "num": 167294,
+      "word": "超192万人盲订华为三折叠手机",
+      "onboard_time": 1725785420,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 166678,
@@ -955,11 +1011,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162982,
+      "num": 162982,
+      "word": "四川人吃火锅开始涮粉木耳了",
+      "onboard_time": 1725786619,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 162147,
       "num": 162147,
       "word": "与台风摩羯的硬仗仍在吃劲阶段",
       "onboard_time": 1725726138,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161793,
+      "num": 161793,
+      "word": "中秋节假期3天高速不免费",
+      "onboard_time": 1725786018,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -969,6 +1041,14 @@
       "onboard_time": 1725774079,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160385,
+      "num": 329547,
+      "word": "杀猪盘已盯上朋友圈",
+      "onboard_time": 1725783799,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159506,
@@ -1091,14 +1171,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 149442,
-      "num": 149442,
-      "word": "杀猪盘已盯上朋友圈",
-      "onboard_time": 1725783799,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148006,
       "num": 148006,
       "word": "99后女生靠卖石头月入过万",
@@ -1107,12 +1179,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143657,
-      "num": 143657,
-      "word": "台风摩羯过后最松弛照片当事人讲述",
-      "onboard_time": 1725784578,
-      "rank": 38,
+      "raw_hot": 147078,
+      "num": 147078,
+      "word": "这下懂什么叫走不出的大山了",
+      "onboard_time": 1725786799,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 146258,
+      "num": 146258,
+      "word": "女子金店用嘴盗走小金豆",
+      "onboard_time": 1725786978,
+      "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143001,
+      "num": 143001,
+      "word": "黄景瑜拍打戏谁都不白来",
+      "onboard_time": 1725786018,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 142475,
@@ -1171,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137031,
+      "num": 137031,
+      "word": "被摩羯撕碎网红餐厅预计损失千万元",
+      "onboard_time": 1725783980,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136973,
       "num": 102973,
       "word": "黄奕黄晓明已不是当初的萧剑小燕子了",
@@ -1225,6 +1321,14 @@
       "onboard_time": 1725776659,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131359,
+      "num": 131359,
+      "word": "下星期上班时间有变",
+      "onboard_time": 1725785598,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130479,
@@ -1339,14 +1443,6 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 122668,
-      "num": 122668,
-      "word": "被摩羯撕碎网红餐厅预计损失千万元",
-      "onboard_time": 1725783980,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121298,
       "num": 121298,
       "word": "婴儿供氧只剩1.5小时消防员出手了",
@@ -1387,6 +1483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 120170,
+      "num": 120170,
+      "word": "学生钓鱼被警告校长转头安排了比赛",
+      "onboard_time": 1725787219,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120026,
       "num": 120026,
       "word": "探索新境",
@@ -1409,6 +1513,14 @@
       "onboard_time": 1725611540,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118595,
+      "num": 118595,
+      "word": "傅文佩还是一样爱坑女儿",
+      "onboard_time": 1725784938,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 118347,
@@ -1827,6 +1939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58277,
+      "num": 670244,
+      "word": "神十八航天员太空出差Vlog上新",
+      "onboard_time": 1725785780,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 56073,
       "num": 56073,
       "word": "中秋假期十大热门目的地",
@@ -1849,6 +1969,14 @@
       "onboard_time": 1725752115,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 54853,
+      "num": 150346,
+      "word": "姜小海高启强 狠人都爱吃面",
+      "onboard_time": 1725787039,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 53305,
@@ -1953,6 +2081,14 @@
       "onboard_time": 1725766219,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30931,
+      "num": 190801,
+      "word": "王一博探险小青蛙",
+      "onboard_time": 1725785359,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 29663,
