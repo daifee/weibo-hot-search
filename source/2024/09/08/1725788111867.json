@@ -1,0 +1,410 @@
+{
+  "runTime": 1725788111867,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1786846,
+        "num": 1786846,
+        "word": "网红刘灿意外溺水去世",
+        "onboard_time": 1725781999,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 792834,
+        "num": 792834,
+        "word": "中学生心脏骤停被同学1分钟救回",
+        "onboard_time": 1725775879,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59551,
+        "num": 609164,
+        "word": "神十八航天员太空出差Vlog上新",
+        "onboard_time": 1725785780,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 911605,
+        "num": 597361,
+        "word": "刘梓晨为赵露思发声",
+        "onboard_time": 1725786860,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 567517,
+        "num": 567517,
+        "word": "上海华东路交通事故致5人死亡",
+        "onboard_time": 1725779418,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484696,
+        "num": 484696,
+        "word": "防晒衣割不动年轻人了",
+        "onboard_time": 1725786140,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439497,
+        "num": 439497,
+        "word": "关晓彤来我们学校拍戏了",
+        "onboard_time": 1725785899,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 426954,
+        "num": 426954,
+        "word": "特朗普称若未赢得大选美国将不存在",
+        "onboard_time": 1725786677,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 415657,
+        "num": 415657,
+        "word": "张晚意王楚然从名字开始般配",
+        "onboard_time": 1725781159,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140133,
+        "num": 374017,
+        "word": "杀猪盘已盯上朋友圈",
+        "onboard_time": 1725783799,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692923,
+        "num": 367339,
+        "word": "女子2年被家暴16次称孕晚期还会被打",
+        "onboard_time": 1725781819,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358941,
+        "num": 358941,
+        "word": "爱奇艺已退款",
+        "onboard_time": 1725772940,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352559,
+        "num": 352559,
+        "word": "刘灿",
+        "onboard_time": 1725783980,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 250427,
+        "num": 250427,
+        "word": "谁懂邓恩熙推开那一下啊",
+        "onboard_time": 1725780499,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333858,
+        "num": 246235,
+        "word": "江西一小汽车撞飞2名骑行者均死亡",
+        "onboard_time": 1725781040,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228500,
+        "num": 228500,
+        "word": "秦彻 陆沉",
+        "onboard_time": 1725777138,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 224402,
+        "num": 224402,
+        "word": "女子金店用嘴盗走小金豆",
+        "onboard_time": 1725786978,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224178,
+        "num": 224178,
+        "word": "金靖怀孕九个月状态",
+        "onboard_time": 1725772039,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220991,
+        "num": 220991,
+        "word": "韩安冉床头成了网红打卡点",
+        "onboard_time": 1725788058,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 217742,
+        "num": 217742,
+        "word": "50箱五粮液侧翻倒地一瓶没碎",
+        "onboard_time": 1725769639,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 742626,
+        "num": 216748,
+        "word": "两年后收到了同一个外卖小哥的信息",
+        "onboard_time": 1725783018,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 731715,
+        "num": 214618,
+        "word": "张大大为赵露思发声",
+        "onboard_time": 1725772459,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391961,
+        "num": 214155,
+        "word": "小杨哥哭了",
+        "onboard_time": 1725761959,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 312346,
+        "num": 212148,
+        "word": "男子卧推100公斤被压甩鞋求救",
+        "onboard_time": 1725780799,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318374,
+        "num": 210378,
+        "word": "辛巴再度发文痛斥小杨哥",
+        "onboard_time": 1725763519,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 209496,
+        "num": 209496,
+        "word": "中秋节假期3天高速不免费",
+        "onboard_time": 1725786018,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213338,
+        "num": 208352,
+        "word": "第九代张起灵封神",
+        "onboard_time": 1725774498,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200239,
+        "num": 200239,
+        "word": "2男子盗播超8万部剧集获利3.92亿",
+        "onboard_time": 1725772340,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193952,
+        "num": 193952,
+        "word": "四川人吃火锅开始涮粉木耳了",
+        "onboard_time": 1725786619,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 10272,
+        "num": 178130,
+        "word": "白敬亭撒欢儿",
+        "onboard_time": 1725782660,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176766,
+        "num": 176766,
+        "word": "王一博 感觉我俩有点暧昧了",
+        "onboard_time": 1725780559,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175016,
+        "num": 175016,
+        "word": "学生钓鱼被警告校长转头安排了比赛",
+        "onboard_time": 1725787219,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169486,
+        "num": 169486,
+        "word": "金靖宣布停工待产",
+        "onboard_time": 1725768138,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166523,
+        "num": 166523,
+        "word": "宋浩然在产房直播卖货",
+        "onboard_time": 1725770720,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165102,
+        "num": 165102,
+        "word": "第一次见门票上这样的注意事项",
+        "onboard_time": 1725785720,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25784,
+        "num": 158348,
+        "word": "王一博探险小青蛙",
+        "onboard_time": 1725785359,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155769,
+        "num": 155769,
+        "word": "中级财管 租赁",
+        "onboard_time": 1725784221,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153715,
+        "num": 153715,
+        "word": "戚薇刚起床就拍上大片了",
+        "onboard_time": 1725783437,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150221,
+        "num": 150221,
+        "word": "下星期上班时间有变",
+        "onboard_time": 1725785598,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63895,
+        "num": 150116,
+        "word": "章宇演黄景瑜大10岁的弟弟",
+        "onboard_time": 1725787939,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150077,
+        "num": 150077,
+        "word": "台风摩羯过后最松弛照片当事人讲述",
+        "onboard_time": 1725784578,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149321,
+        "num": 149321,
+        "word": "傅文佩还是一样爱坑女儿",
+        "onboard_time": 1725784938,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148155,
+        "num": 148155,
+        "word": "这下懂什么叫走不出的大山了",
+        "onboard_time": 1725786799,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146933,
+        "num": 146933,
+        "word": "LCK",
+        "onboard_time": 1725787760,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136442,
+        "num": 136442,
+        "word": "盛李豪回母校被学弟贴脸开大",
+        "onboard_time": 1725779118,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135389,
+        "num": 135389,
+        "word": "超192万人盲订华为三折叠手机",
+        "onboard_time": 1725785420,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 130456,
+        "num": 130456,
+        "word": "郑钦文美网轰出54记ACE排名第一",
+        "onboard_time": 1725787640,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129626,
+        "num": 129626,
+        "word": "于适中国骑射运动中心副主任",
+        "onboard_time": 1725778818,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127764,
+        "num": 127764,
+        "word": "辛巴说装可怜是网红惯用手段",
+        "onboard_time": 1725782419,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 69730,
+        "num": 123971,
+        "word": "黄景瑜拍打戏谁都不白来",
+        "onboard_time": 1725786018,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络安全对国家安全牵一发而动全身#"
+    }
+  }
+}

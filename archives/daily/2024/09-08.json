@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725787230966,
+  "endTime": 1725788111867,
   "band_list": [
     {
       "raw_hot": 2097681,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 911605,
+      "num": 597361,
+      "word": "刘梓晨为赵露思发声",
+      "onboard_time": 1725786860,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 907819,
       "num": 394851,
       "word": "50箱五粮液侧翻倒地一瓶没碎",
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 855479,
-      "num": 331491,
+      "num": 367339,
       "word": "女子2年被家暴16次称孕晚期还会被打",
       "onboard_time": 1725781819,
       "rank": 10,
@@ -195,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 742626,
+      "num": 226734,
+      "word": "两年后收到了同一个外卖小哥的信息",
+      "onboard_time": 1725783018,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 717141,
       "num": 1114742,
       "word": "多地报告上半年出生人口增加",
@@ -209,14 +225,6 @@
       "onboard_time": 1725751275,
       "rank": 27,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 686853,
-      "num": 226734,
-      "word": "两年后收到了同一个外卖小哥的信息",
-      "onboard_time": 1725783018,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 673101,
@@ -323,6 +331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 484696,
+      "num": 484696,
+      "word": "防晒衣割不动年轻人了",
+      "onboard_time": 1725786140,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 474635,
       "num": 863522,
       "word": "男子回沪发现房子被妻子出租",
@@ -361,6 +377,22 @@
       "onboard_time": 1725763039,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439497,
+      "num": 439497,
+      "word": "关晓彤来我们学校拍戏了",
+      "onboard_time": 1725785899,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 426954,
+      "num": 426954,
+      "word": "特朗普称若未赢得大选美国将不存在",
+      "onboard_time": 1725786677,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 419637,
@@ -523,14 +555,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 343555,
-      "num": 343555,
-      "word": "刘梓晨为赵露思发声",
-      "onboard_time": 1725786860,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 337570,
       "num": 217815,
       "word": "沙和尚被贬下界来不是没道理的",
@@ -587,28 +611,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 302158,
-      "num": 302158,
-      "word": "关晓彤来我们学校拍戏了",
-      "onboard_time": 1725785899,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 294914,
       "num": 294914,
       "word": "曾舜晞经纪人和吴宣仪是同学",
       "onboard_time": 1725727518,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 281576,
-      "num": 281576,
-      "word": "防晒衣割不动年轻人了",
-      "onboard_time": 1725786140,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 278703,
@@ -763,12 +771,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224402,
+      "num": 224402,
+      "word": "女子金店用嘴盗走小金豆",
+      "onboard_time": 1725786978,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221517,
       "num": 221517,
       "word": "中级财管 租赁",
       "onboard_time": 1725784221,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 220991,
+      "num": 220991,
+      "word": "韩安冉床头成了网红打卡点",
+      "onboard_time": 1725788058,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 215322,
@@ -785,6 +809,14 @@
       "onboard_time": 1725783437,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 209496,
+      "num": 209496,
+      "word": "中秋节假期3天高速不免费",
+      "onboard_time": 1725786018,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206436,
@@ -849,6 +881,14 @@
       "onboard_time": 1725777318,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193952,
+      "num": 193952,
+      "word": "四川人吃火锅开始涮粉木耳了",
+      "onboard_time": 1725786619,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 189892,
@@ -931,12 +971,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 174902,
-      "num": 174902,
-      "word": "特朗普称若未赢得大选美国将不存在",
-      "onboard_time": 1725786677,
-      "rank": 32,
-      "category": "国外时政"
+      "raw_hot": 175016,
+      "num": 175016,
+      "word": "学生钓鱼被警告校长转头安排了比赛",
+      "onboard_time": 1725787219,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173761,
@@ -1011,27 +1051,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 162982,
-      "num": 162982,
-      "word": "四川人吃火锅开始涮粉木耳了",
-      "onboard_time": 1725786619,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 162147,
       "num": 162147,
       "word": "与台风摩羯的硬仗仍在吃劲阶段",
       "onboard_time": 1725726138,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161793,
-      "num": 161793,
-      "word": "中秋节假期3天高速不免费",
-      "onboard_time": 1725786018,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1044,7 +1068,7 @@
     },
     {
       "raw_hot": 160385,
-      "num": 329547,
+      "num": 374017,
       "word": "杀猪盘已盯上朋友圈",
       "onboard_time": 1725783799,
       "rank": 48,
@@ -1163,12 +1187,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150221,
+      "num": 150221,
+      "word": "下星期上班时间有变",
+      "onboard_time": 1725785598,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149556,
       "num": 152040,
       "word": "权志龙CL录音室合照",
       "onboard_time": 1725759917,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 149321,
+      "num": 149321,
+      "word": "傅文佩还是一样爱坑女儿",
+      "onboard_time": 1725784938,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 148155,
+      "num": 148155,
+      "word": "这下懂什么叫走不出的大山了",
+      "onboard_time": 1725786799,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 148006,
@@ -1179,20 +1227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147078,
-      "num": 147078,
-      "word": "这下懂什么叫走不出的大山了",
-      "onboard_time": 1725786799,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 146258,
-      "num": 146258,
-      "word": "女子金店用嘴盗走小金豆",
-      "onboard_time": 1725786978,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 146933,
+      "num": 146933,
+      "word": "LCK",
+      "onboard_time": 1725787760,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 143001,
@@ -1323,20 +1363,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131359,
-      "num": 131359,
-      "word": "下星期上班时间有变",
-      "onboard_time": 1725785598,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130479,
       "num": 130479,
       "word": "博主感谢AI让自己再次见到母亲",
       "onboard_time": 1725784578,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130456,
+      "num": 130456,
+      "word": "郑钦文美网轰出54记ACE排名第一",
+      "onboard_time": 1725787640,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 130062,
@@ -1483,14 +1523,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 120170,
-      "num": 120170,
-      "word": "学生钓鱼被警告校长转头安排了比赛",
-      "onboard_time": 1725787219,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120026,
       "num": 120026,
       "word": "探索新境",
@@ -1513,14 +1545,6 @@
       "onboard_time": 1725611540,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118595,
-      "num": 118595,
-      "word": "傅文佩还是一样爱坑女儿",
-      "onboard_time": 1725784938,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 118347,
@@ -1931,20 +1955,28 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 63895,
+      "num": 150116,
+      "word": "章宇演黄景瑜大10岁的弟弟",
+      "onboard_time": 1725787939,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 59551,
+      "num": 670244,
+      "word": "神十八航天员太空出差Vlog上新",
+      "onboard_time": 1725785780,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 58715,
       "num": 58715,
       "word": "萨巴伦卡大满贯第三冠",
       "onboard_time": 1725751455,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 58277,
-      "num": 670244,
-      "word": "神十八航天员太空出差Vlog上新",
-      "onboard_time": 1725785780,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 56073,
@@ -2211,6 +2243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 10272,
+      "num": 178130,
+      "word": "白敬亭撒欢儿",
+      "onboard_time": 1725782660,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 10124,
       "num": 64259,
       "word": "63岁箱包女王破产后卖包子还债",
@@ -2225,6 +2265,9 @@
     },
     {
       "word": "#习近平总书记高度重视我国教育事业发展#"
+    },
+    {
+      "word": "#网络安全对国家安全牵一发而动全身#"
     }
   ]
 }
