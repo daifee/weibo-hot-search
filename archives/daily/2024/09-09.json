@@ -1,6 +1,6 @@
 {
   "startTime": 1725812757378,
-  "endTime": 1725827783177,
+  "endTime": 1725830357808,
   "band_list": [
     {
       "raw_hot": 886977,
@@ -571,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19014,
+      "num": 19014,
+      "word": "6年相亲28个找不到六边形战士",
+      "onboard_time": 1725825491,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17713,
       "num": 21419,
       "word": "陈绮贞莫文蔚合唱",
@@ -579,12 +587,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 17488,
-      "num": 18182,
-      "word": "6年相亲28个找不到六边形战士",
-      "onboard_time": 1725825491,
-      "rank": 45,
+      "raw_hot": 15077,
+      "num": 38563,
+      "word": "军车上一行行标语让人热泪盈眶",
+      "onboard_time": 1725822851,
+      "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14913,
+      "num": 17734,
+      "word": "中国连续6届残奥金牌榜奖牌榜第一",
+      "onboard_time": 1725820632,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 14636,
@@ -595,27 +611,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 14403,
-      "num": 17734,
-      "word": "中国连续6届残奥金牌榜奖牌榜第一",
-      "onboard_time": 1725820632,
+      "raw_hot": 14484,
+      "num": 16836,
+      "word": "10岁轮椅女孩上学4年成全班35人团宠",
+      "onboard_time": 1725826752,
       "rank": 49,
-      "category": "体育"
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 10616,
+      "raw_hot": 10824,
       "num": 122815,
       "word": "1790位教育工作者教师节前受表彰",
       "onboard_time": 1725801379,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10548,
-      "num": 38563,
-      "word": "军车上一行行标语让人热泪盈眶",
-      "onboard_time": 1725822851,
-      "rank": 9,
       "category": "社会新闻"
     }
   ],
