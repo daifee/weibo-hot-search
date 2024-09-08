@@ -1,0 +1,410 @@
+{
+  "runTime": 1725801758230,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 825470,
+        "num": 1132075,
+        "word": "泰国女孩来中国留学读大专",
+        "onboard_time": 1725794718,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 821853,
+        "num": 821853,
+        "word": "孙卓首度回应报考南工大原因",
+        "onboard_time": 1725798502,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20250,
+        "num": 506240,
+        "word": "巴黎残奥会泪目瞬间",
+        "onboard_time": 1725801500,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 458144,
+        "num": 458144,
+        "word": "张雨绮 不是长得丑就不是渣男",
+        "onboard_time": 1725796339,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 423769,
+        "num": 423769,
+        "word": "杜江霍思燕带儿女遛狗",
+        "onboard_time": 1725794899,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332867,
+        "num": 332867,
+        "word": "防晒衣割不动年轻人了",
+        "onboard_time": 1725786140,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346623,
+        "num": 326794,
+        "word": "赵露思早期视频",
+        "onboard_time": 1725797899,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 307284,
+        "num": 307284,
+        "word": "湖南卫视酸甜之夜",
+        "onboard_time": 1725798259,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307184,
+        "num": 307184,
+        "word": "中秋节假期3天高速不免费",
+        "onboard_time": 1725786018,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43100,
+        "num": 306546,
+        "word": "外卖小哥带娃抗癌被剐蹭车主反手转2千",
+        "onboard_time": 1725801320,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1182248,
+        "num": 300238,
+        "word": "大学生因一顿烧烤进ICU换了5次血",
+        "onboard_time": 1725794781,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44444,
+        "num": 296588,
+        "word": "20年了还是喜欢酸的甜",
+        "onboard_time": 1725800541,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 747942,
+        "num": 294621,
+        "word": "韩安冉床头成了网红打卡点",
+        "onboard_time": 1725788058,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 474643,
+        "num": 290480,
+        "word": "网红刘灿意外溺水去世",
+        "onboard_time": 1725781999,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 19511,
+        "num": 283640,
+        "word": "男子花费近万元提升学历机构失联",
+        "onboard_time": 1725801679,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282278,
+        "num": 282278,
+        "word": "aespa获TMA大赏",
+        "onboard_time": 1725799400,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 279635,
+        "num": 279635,
+        "word": "16岁少年理发被索要4000元",
+        "onboard_time": 1725793518,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251002,
+        "num": 251002,
+        "word": "林诗栋4比3吴晙诚",
+        "onboard_time": 1725799459,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236614,
+        "num": 236614,
+        "word": "公务员招录扩大面试比例可行吗",
+        "onboard_time": 1725798619,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17489,
+        "num": 235906,
+        "word": "直播电商野蛮生长没有出路",
+        "onboard_time": 1725801619,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144622,
+        "num": 229714,
+        "word": "檀健次 录播",
+        "onboard_time": 1725800898,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1221382,
+        "num": 226679,
+        "word": "三只羊沫沫去年12月被拘留",
+        "onboard_time": 1725795139,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 776235,
+        "num": 220833,
+        "word": "以后不准穷人写爽文",
+        "onboard_time": 1725801019,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217002,
+        "num": 217002,
+        "word": "2024MAMA日本场阵容",
+        "onboard_time": 1725801560,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1123975,
+        "num": 214371,
+        "word": "小杨哥妈妈改简介",
+        "onboard_time": 1725795139,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 438436,
+        "num": 212401,
+        "word": "马嘉祺换头像了",
+        "onboard_time": 1725795019,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210431,
+        "num": 210431,
+        "word": "经济法 现场立法",
+        "onboard_time": 1725798139,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125168,
+        "num": 203356,
+        "word": "周深帮单依纯选歌",
+        "onboard_time": 1725800240,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202677,
+        "num": 202677,
+        "word": "余宇涵对接回应后续发展",
+        "onboard_time": 1725797839,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194888,
+        "num": 202412,
+        "word": "雪迷宫",
+        "onboard_time": 1725800778,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22330,
+        "num": 201655,
+        "word": "1790位教育工作者教师节前受表彰",
+        "onboard_time": 1725801379,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359091,
+        "num": 200131,
+        "word": "刘梓晨为赵露思发声",
+        "onboard_time": 1725786860,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311115,
+        "num": 199355,
+        "word": "三只羊卢文庆发长文",
+        "onboard_time": 1725792619,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 199177,
+        "num": 199177,
+        "word": "AG超玩会 宝石流",
+        "onboard_time": 1725800658,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 210862,
+        "num": 194702,
+        "word": "小杨哥带货标注直播间及橱窗非销售者",
+        "onboard_time": 1725797660,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 124570,
+        "num": 188784,
+        "word": "刘忻尚雯婕太帅了",
+        "onboard_time": 1725801560,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105417,
+        "num": 186483,
+        "word": "王一珩直播",
+        "onboard_time": 1725799100,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186180,
+        "num": 186180,
+        "word": "中学生心脏骤停被同学1分钟救回",
+        "onboard_time": 1725775879,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181937,
+        "num": 181937,
+        "word": "央视曝光轻医美乱象",
+        "onboard_time": 1725800419,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171664,
+        "num": 171664,
+        "word": "赵丽颖 一筷子就夹亿点点",
+        "onboard_time": 1725788240,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49809,
+        "num": 168986,
+        "word": "一句古诗适配秋天",
+        "onboard_time": 1725801019,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168387,
+        "num": 168387,
+        "word": "摩羯吹倒海口树龄60年花梨王",
+        "onboard_time": 1725798320,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167172,
+        "num": 167172,
+        "word": "钎城请求加您为好友",
+        "onboard_time": 1725801140,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159565,
+        "num": 159565,
+        "word": "林诗栋阿拉木图站夺冠",
+        "onboard_time": 1725800000,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149655,
+        "num": 149655,
+        "word": "张大大为赵露思发声",
+        "onboard_time": 1725772459,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148344,
+        "num": 148344,
+        "word": "HLE夺冠",
+        "onboard_time": 1725795081,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147010,
+        "num": 147010,
+        "word": "小学生俩月花15000元在文具店集卡",
+        "onboard_time": 1725792919,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144846,
+        "num": 144846,
+        "word": "许嵩为什么每次唱如果当时都会哭",
+        "onboard_time": 1725795679,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144682,
+        "num": 144682,
+        "word": "藏海花张海客黑化",
+        "onboard_time": 1725800541,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142468,
+        "num": 142468,
+        "word": "汪东城孟佳开场",
+        "onboard_time": 1725801500,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领网络强国建设#"
+    }
+  }
+}

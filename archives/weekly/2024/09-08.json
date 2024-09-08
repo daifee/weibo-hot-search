@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725799971722,
+  "endTime": 1725801758230,
   "band_list": [
     {
       "raw_hot": 2097681,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1351522,
-      "num": 225983,
+      "num": 226679,
       "word": "三只羊沫沫去年12月被拘留",
       "onboard_time": 1725795139,
       "rank": 20,
@@ -203,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 821853,
+      "num": 821853,
+      "word": "孙卓首度回应报考南工大原因",
+      "onboard_time": 1725798502,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 821331,
       "num": 821331,
       "word": "爱奇艺已退款",
@@ -233,6 +241,14 @@
       "onboard_time": 1725750974,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 776235,
+      "num": 220833,
+      "word": "以后不准穷人写爽文",
+      "onboard_time": 1725801019,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 758593,
@@ -427,14 +443,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 477880,
-      "num": 477880,
-      "word": "孙卓首度回应报考南工大原因",
-      "onboard_time": 1725798502,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 477530,
       "num": 477530,
       "word": "郑钦文美网轰出54记ACE排名第一",
@@ -476,7 +484,7 @@
     },
     {
       "raw_hot": 462471,
-      "num": 385758,
+      "num": 458144,
       "word": "张雨绮 不是长得丑就不是渣男",
       "onboard_time": 1725796339,
       "rank": 3,
@@ -707,6 +715,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 346623,
+      "num": 326794,
+      "word": "赵露思早期视频",
+      "onboard_time": 1725797899,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 337570,
       "num": 217815,
       "word": "沙和尚被贬下界来不是没道理的",
@@ -795,6 +811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 307284,
+      "num": 307284,
+      "word": "湖南卫视酸甜之夜",
+      "onboard_time": 1725798259,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305385,
       "num": 305385,
       "word": "世界之外 DQ",
@@ -809,6 +833,14 @@
       "onboard_time": 1725727518,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282278,
+      "num": 282278,
+      "word": "aespa获TMA大赏",
+      "onboard_time": 1725799400,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 278703,
@@ -907,12 +939,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 252008,
-      "num": 252008,
-      "word": "赵露思早期视频",
-      "onboard_time": 1725797899,
-      "rank": 18,
-      "category": "作品衍生"
+      "raw_hot": 251002,
+      "num": 251002,
+      "word": "林诗栋4比3吴晙诚",
+      "onboard_time": 1725799459,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 248516,
@@ -953,6 +985,14 @@
       "onboard_time": 1725706159,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 236614,
+      "num": 278399,
+      "word": "公务员招录扩大面试比例可行吗",
+      "onboard_time": 1725798619,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234796,
@@ -1011,14 +1051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 225103,
-      "num": 225103,
-      "word": "aespa获TMA大赏",
-      "onboard_time": 1725799400,
-      "rank": 21,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 221517,
       "num": 221517,
       "word": "中级财管 租赁",
@@ -1033,6 +1065,14 @@
       "onboard_time": 1725791598,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217002,
+      "num": 217002,
+      "word": "2024MAMA日本场阵容",
+      "onboard_time": 1725801560,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 215994,
@@ -1065,6 +1105,14 @@
       "onboard_time": 1725799459,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 210862,
+      "num": 195611,
+      "word": "小杨哥带货标注直播间及橱窗非销售者",
+      "onboard_time": 1725797660,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 209440,
@@ -1123,14 +1171,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 203823,
-      "num": 195611,
-      "word": "小杨哥带货标注直播间及橱窗非销售者",
-      "onboard_time": 1725797660,
-      "rank": 26,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 202822,
       "num": 202822,
       "word": "中级经济法",
@@ -1171,6 +1211,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 199177,
+      "num": 199177,
+      "word": "AG超玩会 宝石流",
+      "onboard_time": 1725800658,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 198089,
       "num": 349978,
       "word": "王楚钦张本智和男单同半区",
@@ -1192,6 +1240,14 @@
       "word": "张艺谋你是真喜欢章宇啊",
       "onboard_time": 1725777318,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194888,
+      "num": 202412,
+      "word": "雪迷宫",
+      "onboard_time": 1725735731,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -1267,14 +1323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186682,
-      "num": 186682,
-      "word": "湖南卫视酸甜之夜",
-      "onboard_time": 1725798259,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 185252,
       "num": 185252,
       "word": "权志龙车银优人生四格",
@@ -1297,6 +1345,14 @@
       "onboard_time": 1725797781,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 181937,
+      "num": 181937,
+      "word": "央视曝光轻医美乱象",
+      "onboard_time": 1725800419,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181007,
@@ -1329,14 +1385,6 @@
       "onboard_time": 1725768020,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176090,
-      "num": 176090,
-      "word": "林诗栋4比3吴晙诚",
-      "onboard_time": 1725799459,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 176074,
@@ -1411,6 +1459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168387,
+      "num": 363830,
+      "word": "摩羯吹倒海口树龄60年花梨王",
+      "onboard_time": 1725798320,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167675,
       "num": 167675,
       "word": "擦簪子是张晚意临场发挥的",
@@ -1425,6 +1481,14 @@
       "onboard_time": 1725785420,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 167172,
+      "num": 167172,
+      "word": "钎城请求加您为好友",
+      "onboard_time": 1725801140,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 166678,
@@ -1489,6 +1553,14 @@
       "onboard_time": 1725796819,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 159565,
+      "num": 159565,
+      "word": "林诗栋阿拉木图站夺冠",
+      "onboard_time": 1725800000,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 159506,
@@ -1651,12 +1723,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146810,
-      "num": 146810,
+      "raw_hot": 147010,
+      "num": 147010,
       "word": "小学生俩月花15000元在文具店集卡",
       "onboard_time": 1725792919,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144682,
+      "num": 144682,
+      "word": "藏海花张海客黑化",
+      "onboard_time": 1725800541,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 144622,
+      "num": 229714,
+      "word": "檀健次 录播",
+      "onboard_time": 1725800898,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 143618,
@@ -1683,6 +1771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142468,
+      "num": 142468,
+      "word": "汪东城孟佳开场",
+      "onboard_time": 1725801500,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142119,
       "num": 142119,
       "word": "小鹿吐槽老家婚礼吃席现状好真实",
@@ -1705,14 +1801,6 @@
       "onboard_time": 1725755778,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 139423,
-      "num": 139423,
-      "word": "雪迷宫",
-      "onboard_time": 1725735731,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 139321,
@@ -1891,6 +1979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125168,
+      "num": 203356,
+      "word": "周深帮单依纯选歌",
+      "onboard_time": 1725800240,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125087,
       "num": 125087,
       "word": "女子称男婴被丈夫单独照顾后死亡",
@@ -1913,6 +2009,14 @@
       "onboard_time": 1725793879,
       "rank": 42,
       "category": "网红"
+    },
+    {
+      "raw_hot": 124570,
+      "num": 188784,
+      "word": "刘忻尚雯婕太帅了",
+      "onboard_time": 1725801560,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 124471,
@@ -2411,14 +2515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 75166,
-      "num": 363830,
-      "word": "摩羯吹倒海口树龄60年花梨王",
-      "onboard_time": 1725798320,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73193,
       "num": 73193,
       "word": "胖东来来重庆了",
@@ -2507,14 +2603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 56372,
-      "num": 278399,
-      "word": "公务员招录扩大面试比例可行吗",
-      "onboard_time": 1725798619,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 56073,
       "num": 56073,
       "word": "中秋假期十大热门目的地",
@@ -2587,10 +2675,26 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 49809,
+      "num": 168986,
+      "word": "一句古诗适配秋天",
+      "onboard_time": 1725801019,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 48132,
       "num": 298401,
       "word": "酸酸乳的这波回忆杀谁懂啊",
       "onboard_time": 1725788419,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 44444,
+      "num": 296588,
+      "word": "20年了还是喜欢酸的甜",
+      "onboard_time": 1725800541,
       "rank": 11,
       "category": "综艺"
     },
@@ -2600,6 +2704,14 @@
       "word": "英国富豪沉船案首批尸检结果出炉",
       "onboard_time": 1725772218,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43100,
+      "num": 306546,
+      "word": "外卖小哥带娃抗癌被剐蹭车主反手转2千",
+      "onboard_time": 1725801320,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2731,6 +2843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22330,
+      "num": 201655,
+      "word": "1790位教育工作者教师节前受表彰",
+      "onboard_time": 1725801379,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21566,
       "num": 244261,
       "word": "王骁演的那伟就是一首凡人歌",
@@ -2745,6 +2865,22 @@
       "onboard_time": 1725730933,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 20250,
+      "num": 506240,
+      "word": "巴黎残奥会泪目瞬间",
+      "onboard_time": 1725801500,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 19511,
+      "num": 283640,
+      "word": "男子花费近万元提升学历机构失联",
+      "onboard_time": 1725801679,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19034,
@@ -2775,6 +2911,14 @@
       "num": 275898,
       "word": "摩羯走后渔民正抢收破损养殖工具",
       "onboard_time": 1725772218,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17489,
+      "num": 235906,
+      "word": "直播电商野蛮生长没有出路",
+      "onboard_time": 1725801619,
       "rank": 19,
       "category": "社会新闻"
     },
@@ -2828,6 +2972,9 @@
     },
     {
       "word": "#网络安全对国家安全牵一发而动全身#"
+    },
+    {
+      "word": "#总书记引领网络强国建设#"
     }
   ]
 }
