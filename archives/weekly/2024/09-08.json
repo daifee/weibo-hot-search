@@ -1,7 +1,23 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725752183344,
+  "endTime": 1725759760242,
   "band_list": [
+    {
+      "raw_hot": 912877,
+      "num": 780027,
+      "word": "海口网红餐厅被摩羯撕碎了",
+      "onboard_time": 1725729316,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 853478,
+      "num": 1136556,
+      "word": "警方回应格斗女运动员遭猥亵",
+      "onboard_time": 1725756678,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 827847,
       "num": 228411,
@@ -19,12 +35,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 776759,
+      "num": 176515,
+      "word": "生理期不痛的是易孕体质吗",
+      "onboard_time": 1725750974,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 758593,
       "num": 931374,
       "word": "赵露思ins更新怼脸照",
       "onboard_time": 1725707720,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 687585,
+      "num": 687585,
+      "word": "叙利亚人用沙袋为千年壁画挡战火",
+      "onboard_time": 1725751275,
+      "rank": 27,
+      "category": "国外时政"
     },
     {
       "raw_hot": 673101,
@@ -43,12 +75,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 622737,
-      "num": 780027,
-      "word": "海口网红餐厅被摩羯撕碎了",
-      "onboard_time": 1725729316,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 590808,
+      "num": 263595,
+      "word": "邓超红发",
+      "onboard_time": 1725735432,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 543848,
@@ -75,12 +107,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 440893,
-      "num": 107452,
-      "word": "生理期不痛的是易孕体质吗",
-      "onboard_time": 1725750974,
-      "rank": 21,
-      "category": "健康医疗"
+      "raw_hot": 474635,
+      "num": 863522,
+      "word": "男子回沪发现房子被妻子出租",
+      "onboard_time": 1725751816,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 419637,
@@ -89,6 +121,22 @@
       "onboard_time": 1725719781,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 410995,
+      "num": 329902,
+      "word": "摩羯掀飞海景房小区近百户玻璃窗",
+      "onboard_time": 1725755717,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 405112,
+      "num": 270408,
+      "word": "小孩姐削土豆受伤气跑4名医生",
+      "onboard_time": 1725718941,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 386303,
@@ -107,20 +155,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 382996,
-      "num": 270408,
-      "word": "小孩姐削土豆受伤气跑4名医生",
-      "onboard_time": 1725718941,
-      "rank": 13,
+      "raw_hot": 370139,
+      "num": 335309,
+      "word": "物业回应近百户玻璃窗被台风掀飞",
+      "onboard_time": 1725741551,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 381284,
-      "num": 863522,
-      "word": "男子回沪发现房子被妻子出租",
-      "onboard_time": 1725751816,
-      "rank": 0,
-      "category": "社会新闻"
+      "raw_hot": 335963,
+      "num": 335963,
+      "word": "萨巴伦卡美网夺冠",
+      "onboard_time": 1725750674,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 312483,
@@ -131,6 +179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 307477,
+      "num": 173737,
+      "word": "哈工大的这么做一定有他的道理",
+      "onboard_time": 1725751695,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 294914,
       "num": 294914,
       "word": "曾舜晞经纪人和吴宣仪是同学",
@@ -139,20 +195,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 263595,
-      "num": 263595,
-      "word": "邓超红发",
-      "onboard_time": 1725735432,
-      "rank": 17,
-      "category": "作品衍生"
+      "raw_hot": 292503,
+      "num": 172894,
+      "word": "晨起后这4个表现说明血脂可能高了",
+      "onboard_time": 1725758177,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
-      "raw_hot": 263187,
-      "num": 263187,
-      "word": "萨巴伦卡美网夺冠",
-      "onboard_time": 1725750674,
-      "rank": 13,
-      "category": "电影"
+      "raw_hot": 287320,
+      "num": 170715,
+      "word": "在台风中唯有鸭子屹立不倒",
+      "onboard_time": 1725756379,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262608,
@@ -163,11 +219,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255512,
+      "num": 255512,
+      "word": "秦岚被挤得瑟瑟发抖",
+      "onboard_time": 1725749174,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 252368,
       "num": 252368,
       "word": "金店卖出16万金条后银行卡被冻结",
       "onboard_time": 1725717981,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248516,
+      "num": 248516,
+      "word": "非遗竹帘上的熊猫太逼真了",
+      "onboard_time": 1725752777,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -195,6 +267,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 233121,
+      "num": 233121,
+      "word": "美依礼芽淘汰了",
+      "onboard_time": 1725752596,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228972,
       "num": 228972,
       "word": "王昶想在梁伟铿婚礼唱感谢你曾来过",
@@ -219,12 +299,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184684,
-      "num": 184684,
-      "word": "物业回应近百户玻璃窗被台风掀飞",
-      "onboard_time": 1725741551,
-      "rank": 33,
+      "raw_hot": 195505,
+      "num": 195505,
+      "word": "男子拉50箱五粮液不绑绳倒一地",
+      "onboard_time": 1725729376,
+      "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193871,
+      "num": 193871,
+      "word": "朱志鑫C位队长后首发博",
+      "onboard_time": 1725751334,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 181007,
@@ -243,6 +331,30 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 177155,
+      "num": 177155,
+      "word": "王一博 还是你做饭我做咖啡吧",
+      "onboard_time": 1725757458,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 176696,
+      "num": 170300,
+      "word": "四川大渡河现近60斤野生娃娃鱼",
+      "onboard_time": 1725754517,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175855,
+      "num": 175855,
+      "word": "你们一来我们的心里面就舒服了",
+      "onboard_time": 1725757576,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172577,
       "num": 172577,
       "word": "似锦",
@@ -251,27 +363,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170758,
-      "num": 170758,
-      "word": "朱志鑫C位队长后首发博",
-      "onboard_time": 1725751334,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 166346,
-      "num": 166346,
-      "word": "秦岚被挤得瑟瑟发抖",
-      "onboard_time": 1725749174,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 164254,
-      "num": 164254,
-      "word": "男子拉50箱五粮液不绑绳倒一地",
-      "onboard_time": 1725729376,
-      "rank": 47,
+      "raw_hot": 167121,
+      "num": 167121,
+      "word": "工业摄像装备拍下摩羯登陆威力",
+      "onboard_time": 1725757637,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -307,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151333,
+      "num": 167609,
+      "word": "Yamy喊话吴宣仪为火箭少女101办节目",
+      "onboard_time": 1725751034,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148006,
       "num": 148006,
       "word": "99后女生靠卖石头月入过万",
@@ -323,6 +427,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 140280,
+      "num": 140280,
+      "word": "章子怡黑色披肩高定",
+      "onboard_time": 1725755778,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 138059,
+      "num": 138059,
+      "word": "杭州一中年外卖员疑路边猝死",
+      "onboard_time": 1725751396,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136973,
       "num": 102973,
       "word": "黄奕黄晓明已不是当初的萧剑小燕子了",
@@ -331,12 +451,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135267,
+      "num": 135267,
+      "word": "小胖 语音",
+      "onboard_time": 1725753257,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132276,
       "num": 228564,
       "word": "RW战胜狼队",
       "onboard_time": 1725720861,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 126362,
+      "num": 126362,
+      "word": "北京时间其实产自西安",
+      "onboard_time": 1725754398,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125087,
@@ -403,6 +539,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 114572,
+      "num": 114572,
+      "word": "华为三折叠更多配置曝光",
+      "onboard_time": 1725755657,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 109788,
+      "num": 109788,
+      "word": "摩羯致海口文昌经济损失600亿元",
+      "onboard_time": 1725757637,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109735,
+      "num": 109735,
+      "word": "TOP登陆少年登陆完毕",
+      "onboard_time": 1725751816,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109467,
       "num": 109467,
       "word": "妈妈朋友的儿子",
@@ -419,20 +579,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 107371,
-      "num": 88319,
-      "word": "哈工大的这么做一定有他的道理",
-      "onboard_time": 1725751695,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 103705,
       "num": 128510,
       "word": "张极 记录可爱啵啵的日常",
       "onboard_time": 1725721581,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102756,
+      "num": 102756,
+      "word": "只有经历过高三才知道双休的含金量",
+      "onboard_time": 1725751636,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 101592,
@@ -443,20 +603,20 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 101162,
+      "num": 101162,
+      "word": "张博恒祝福LPL出征S14",
+      "onboard_time": 1725759558,
+      "rank": 49,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 100458,
       "num": 100988,
       "word": "被人咬伤比被动物咬伤更严重",
       "onboard_time": 1725714620,
       "rank": 43,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 99278,
-      "num": 99278,
-      "word": "叙利亚人用沙袋为千年壁画挡战火",
-      "onboard_time": 1725751275,
-      "rank": 27,
-      "category": "国外时政"
     },
     {
       "raw_hot": 99188,
@@ -491,14 +651,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 84068,
-      "num": 88481,
-      "word": "TOP登陆少年登陆完毕",
-      "onboard_time": 1725751816,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 82566,
       "num": 100888,
       "word": "邓莎给儿子饭里加增高药",
@@ -513,14 +665,6 @@
       "onboard_time": 1725716962,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 79922,
-      "num": 79922,
-      "word": "Yamy喊话吴宣仪为火箭少女101办节目",
-      "onboard_time": 1725751034,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 73193,
@@ -579,14 +723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56350,
-      "num": 56350,
-      "word": "只有经历过高三才知道双休的含金量",
-      "onboard_time": 1725751636,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 56073,
       "num": 56073,
       "word": "中秋假期十大热门目的地",
@@ -599,14 +735,6 @@
       "num": 67486,
       "word": "台风摩羯造成海南4死95伤",
       "onboard_time": 1725714020,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55510,
-      "num": 55510,
-      "word": "杭州一中年外卖员疑路边猝死",
-      "onboard_time": 1725751396,
       "rank": 48,
       "category": "社会新闻"
     },
