@@ -1,6 +1,6 @@
 {
   "startTime": 1725812757378,
-  "endTime": 1725813710427,
+  "endTime": 1725815905652,
   "band_list": [
     {
       "raw_hot": 886977,
@@ -40,6 +40,14 @@
       "word": "央视曝光轻医美乱象",
       "onboard_time": 1725800419,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396317,
+      "num": 396317,
+      "word": "央视曝光空挂学籍乱象",
+      "onboard_time": 1725813616,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -163,20 +171,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172784,
+      "num": 172784,
+      "word": "欲买桂花同载酒 终不似少年游",
+      "onboard_time": 1725810620,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172008,
       "num": 135420,
       "word": "何炅 栀子花开已经20年了",
       "onboard_time": 1725806543,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159886,
-      "num": 159886,
-      "word": "欲买桂花同载酒 终不似少年游",
-      "onboard_time": 1725810620,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 159101,
@@ -233,14 +241,6 @@
       "onboard_time": 1725809780,
       "rank": 29,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 117283,
-      "num": 145492,
-      "word": "央视曝光空挂学籍乱象",
-      "onboard_time": 1725813616,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112283,
@@ -403,12 +403,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 67451,
+      "num": 67451,
+      "word": "谢可寅打戏好帅",
+      "onboard_time": 1725814455,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 50731,
       "num": 382884,
       "word": "一句古诗适配秋天",
       "onboard_time": 1725801019,
       "rank": 2,
       "category": "情感"
+    },
+    {
+      "raw_hot": 42780,
+      "num": 42780,
+      "word": "AG超玩会 宝石流",
+      "onboard_time": 1725800658,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 41386,
+      "num": 41386,
+      "word": "一点开以为是爸爸回来了",
+      "onboard_time": 1725815773,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 28544,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1725815905652,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 499473,
+        "num": 541183,
+        "word": "张峻豪 给妹妹改造一下",
+        "onboard_time": 1725803420,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 396317,
+        "num": 396317,
+        "word": "央视曝光空挂学籍乱象",
+        "onboard_time": 1725813616,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39430,
+        "num": 289676,
+        "word": "一句古诗适配秋天",
+        "onboard_time": 1725801019,
+        "rank": 2,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223481,
+        "num": 223481,
+        "word": "何秋亊直播",
+        "onboard_time": 1725810201,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208246,
+        "num": 208246,
+        "word": "央视曝光轻医美乱象",
+        "onboard_time": 1725800419,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190762,
+        "num": 190762,
+        "word": "16岁少年理发被索要4000元",
+        "onboard_time": 1725793518,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203395,
+        "num": 185983,
+        "word": "吴昕把皮裙塞裤子里腰还这么细",
+        "onboard_time": 1725805728,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172784,
+        "num": 172784,
+        "word": "欲买桂花同载酒 终不似少年游",
+        "onboard_time": 1725810620,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166570,
+        "num": 166570,
+        "word": "山东大学34岁博导突发心梗离世",
+        "onboard_time": 1725806181,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21536,
+        "num": 149504,
+        "word": "原来中国风山水画写意又写实",
+        "onboard_time": 1725812598,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200291,
+        "num": 148830,
+        "word": "大学生因一顿烧烤进ICU换了5次血",
+        "onboard_time": 1725794781,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172128,
+        "num": 148474,
+        "word": "韩安冉床头成了网红打卡点",
+        "onboard_time": 1725788058,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 147992,
+        "num": 147992,
+        "word": "aespa和newjeans一起合影了",
+        "onboard_time": 1725803962,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130742,
+        "num": 130742,
+        "word": "华晨宇 华妃是在叫我吗",
+        "onboard_time": 1725809301,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124928,
+        "num": 124928,
+        "word": "海口躲台风腿被夹业主一家平安",
+        "onboard_time": 1725802340,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122796,
+        "num": 122796,
+        "word": "官方通报16岁少年理发被索要4000元",
+        "onboard_time": 1725807984,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110960,
+        "num": 110960,
+        "word": "网红刘灿意外溺水去世",
+        "onboard_time": 1725781999,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 108955,
+        "num": 108955,
+        "word": "国足在大连似乎走出了惨败阴影",
+        "onboard_time": 1725808102,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107772,
+        "num": 107772,
+        "word": "泰国女孩来中国留学读大专",
+        "onboard_time": 1725794718,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94631,
+        "num": 94631,
+        "word": "赵露思早期视频",
+        "onboard_time": 1725797899,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175832,
+        "num": 94276,
+        "word": "以后不准穷人写爽文",
+        "onboard_time": 1725801019,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143917,
+        "num": 92725,
+        "word": "重庆高温",
+        "onboard_time": 1725812237,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89438,
+        "num": 89438,
+        "word": "原来猫咪也有扁头的",
+        "onboard_time": 1725809003,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88699,
+        "num": 88699,
+        "word": "湖南卫视音响",
+        "onboard_time": 1725807201,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104485,
+        "num": 87640,
+        "word": "刘梓晨为赵露思发声",
+        "onboard_time": 1725786860,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79988,
+        "num": 79988,
+        "word": "孙卓首度回应报考南工大原因",
+        "onboard_time": 1725798502,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77856,
+        "num": 77856,
+        "word": "听薛之谦唱完租购要碎了",
+        "onboard_time": 1725808162,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77128,
+        "num": 77128,
+        "word": "杜江霍思燕带儿女遛狗",
+        "onboard_time": 1725794899,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76197,
+        "num": 76197,
+        "word": "东北雨姐算塌房了吗",
+        "onboard_time": 1725800419,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 73353,
+        "num": 73353,
+        "word": "撒贝宁王鸥一个敢调一个敢喝",
+        "onboard_time": 1725806601,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71660,
+        "num": 71660,
+        "word": "睡前4分钟瘦腿教程",
+        "onboard_time": 1725809780,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 71627,
+        "num": 71627,
+        "word": "苏新皓彩虹白T破洞裤",
+        "onboard_time": 1725811701,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 67869,
+        "num": 67869,
+        "word": "知情人回应健身博主刘灿溺水身亡",
+        "onboard_time": 1725804021,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 67451,
+        "num": 67451,
+        "word": "谢可寅打戏好帅",
+        "onboard_time": 1725814455,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65525,
+        "num": 65525,
+        "word": "20元学生小饭桌正在被成年人占领",
+        "onboard_time": 1725800658,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59807,
+        "num": 59807,
+        "word": "王铮亮差点成为职业运动员",
+        "onboard_time": 1725811820,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59502,
+        "num": 59502,
+        "word": "薛之谦租购完整的故事",
+        "onboard_time": 1725812299,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56802,
+        "num": 56802,
+        "word": "马嘉祺换头像了",
+        "onboard_time": 1725795019,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56365,
+        "num": 56365,
+        "word": "小学生俩月花15000元在文具店集卡",
+        "onboard_time": 1725792919,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54859,
+        "num": 54859,
+        "word": "外卖小哥带娃抗癌被剐蹭车主反手转2千",
+        "onboard_time": 1725801320,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54411,
+        "num": 54411,
+        "word": "赵小童在干嘛",
+        "onboard_time": 1725805341,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48655,
+        "num": 48655,
+        "word": "张大大为赵露思发声",
+        "onboard_time": 1725772459,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46747,
+        "num": 46747,
+        "word": "aespa获TMA大赏",
+        "onboard_time": 1725799400,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 46080,
+        "num": 46080,
+        "word": "巴黎残奥会中国队94金76银50铜收官",
+        "onboard_time": 1725803842,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45644,
+        "num": 45644,
+        "word": "央视曝光保险逾期扣费骗局",
+        "onboard_time": 1725804620,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43884,
+        "num": 43884,
+        "word": "张雨绮 不是长得丑就不是渣男",
+        "onboard_time": 1725796339,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43425,
+        "num": 43425,
+        "word": "2024华晨宇火星演唱会",
+        "onboard_time": 1725807382,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 42780,
+        "num": 42780,
+        "word": "AG超玩会 宝石流",
+        "onboard_time": 1725800658,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 42530,
+        "num": 42530,
+        "word": "何炅 栀子花开已经20年了",
+        "onboard_time": 1725806543,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41386,
+        "num": 41386,
+        "word": "一点开以为是爸爸回来了",
+        "onboard_time": 1725815773,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领网络强国建设#"
+    }
+  }
+}

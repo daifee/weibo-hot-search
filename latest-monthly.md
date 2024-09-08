@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/09 00:41:50
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/09 01:18:25
 </p>
 </blockquote>
 <p>
@@ -4521,6 +4521,12 @@ GEN和HLE决胜局（热度：407835）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%A9%BA%E6%8C%82%E5%AD%A6%E7%B1%8D%E4%B9%B1%E8%B1%A1%23" target="weibo">
+央视曝光空挂学籍乱象（热度：396317）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E4%B8%A4%E5%B9%B4%E5%90%83%E4%BA%86%E4%BA%8C%E7%99%BE%E5%A4%9A%E9%81%93%E8%8F%9C%23" target="weibo">
 蔡依林两年吃了二百多道菜（热度：395606）
 </a>
@@ -6005,12 +6011,6 @@ A股（热度：279449）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%BA%BA%E7%94%A8200%E6%96%A4%E8%94%AC%E8%8F%9C%E5%8A%9E%E4%BA%86%E4%B8%80%E5%9C%BA%E5%A9%9A%E7%A4%BC%23" target="weibo">
 新人用200斤蔬菜办了一场婚礼（热度：275089）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%83%E5%96%9C%23" target="weibo">
-七喜（热度：274674）
 </a>
 </li>
 

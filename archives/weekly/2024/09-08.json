@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725813710427,
+  "endTime": 1725815905652,
   "band_list": [
     {
       "raw_hot": 2331163,
@@ -673,6 +673,14 @@
       "onboard_time": 1725766878,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 396317,
+      "num": 396317,
+      "word": "央视曝光空挂学籍乱象",
+      "onboard_time": 1725813616,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 386303,
@@ -1723,6 +1731,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 172784,
+      "num": 172784,
+      "word": "欲买桂花同载酒 终不似少年游",
+      "onboard_time": 1725810620,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172577,
       "num": 172577,
       "word": "似锦",
@@ -1881,14 +1897,6 @@
       "onboard_time": 1725796819,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 159886,
-      "num": 159886,
-      "word": "欲买桂花同载酒 终不似少年游",
-      "onboard_time": 1725810620,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 159565,
@@ -2603,14 +2611,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 117283,
-      "num": 145492,
-      "word": "央视曝光空挂学籍乱象",
-      "onboard_time": 1725813616,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 116935,
       "num": 116935,
       "word": "大连警方提示赛后严禁围堵教练员球员",
@@ -3051,6 +3051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67451,
+      "num": 67451,
+      "word": "谢可寅打戏好帅",
+      "onboard_time": 1725814455,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 66981,
       "num": 99298,
       "word": "盛李豪又多了一个身份",
@@ -3223,6 +3231,14 @@
       "num": 43016,
       "word": "邓典问金莎男友到底好在哪",
       "onboard_time": 1725737413,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 41386,
+      "num": 41386,
+      "word": "一点开以为是爸爸回来了",
+      "onboard_time": 1725815773,
       "rank": 49,
       "category": "综艺"
     },
