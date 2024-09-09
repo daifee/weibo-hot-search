@@ -1,0 +1,410 @@
+{
+  "runTime": 1725881750615,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1193530,
+        "num": 1193530,
+        "word": "张杰应公开回应素人电话号事件",
+        "onboard_time": 1725876018,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 568058,
+        "num": 568058,
+        "word": "书亦烧仙草倒闭门店太多二手设备滞销",
+        "onboard_time": 1725866599,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57326,
+        "num": 513821,
+        "word": "老师口头禅大汇总",
+        "onboard_time": 1725863118,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 986834,
+        "num": 508004,
+        "word": "玄彬李栋旭 结了婚和没结婚的",
+        "onboard_time": 1725877939,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 490235,
+        "num": 490235,
+        "word": "性侵中国女游客的韩男子被求刑10年",
+        "onboard_time": 1725860719,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425115,
+        "num": 425115,
+        "word": "莫雷加德说国乒最好的朋友是王楚钦",
+        "onboard_time": 1725877939,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 956997,
+        "num": 424917,
+        "word": "傅首尔老刘 离婚不耽误朋友发展",
+        "onboard_time": 1725877939,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335153,
+        "num": 335153,
+        "word": "1岁宝宝误触充电口手指瞬间焦黑",
+        "onboard_time": 1725880220,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321528,
+        "num": 321528,
+        "word": "iPhone16",
+        "onboard_time": 1725875480,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 268938,
+        "num": 268938,
+        "word": "司机撞人无刑责行人获刑2年半",
+        "onboard_time": 1725866119,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497352,
+        "num": 261306,
+        "word": "父母困在没有退休金的日子里",
+        "onboard_time": 1725872360,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494324,
+        "num": 257624,
+        "word": "北京一女子骑车闯红灯被撞飞",
+        "onboard_time": 1725878599,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250550,
+        "num": 250550,
+        "word": "玄彬 孙艺珍仅是存在我就非常感谢了",
+        "onboard_time": 1725871941,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 243587,
+        "num": 243587,
+        "word": "iPhone16或成苹果最具争议手机",
+        "onboard_time": 1725864378,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 24580,
+        "num": 239996,
+        "word": "宠物殡葬服务一价全包最高达1万元",
+        "onboard_time": 1725880580,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239798,
+        "num": 239798,
+        "word": "吉林一前村支书被刺身亡",
+        "onboard_time": 1725876498,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214388,
+        "num": 214388,
+        "word": "黄景瑜天生下海圣体",
+        "onboard_time": 1725879080,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203321,
+        "num": 203321,
+        "word": "心动的信号7",
+        "onboard_time": 1725881598,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194463,
+        "num": 194463,
+        "word": "雪迷宫",
+        "onboard_time": 1725881540,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32203,
+        "num": 191784,
+        "word": "律师解读被家暴的母亲申请保护令",
+        "onboard_time": 1725880099,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1463721,
+        "num": 191599,
+        "word": "小杨哥 磨骨",
+        "onboard_time": 1725878717,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 569560,
+        "num": 191219,
+        "word": "小杨哥三代还宗",
+        "onboard_time": 1725861379,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 190435,
+        "num": 190435,
+        "word": "宿舍养鸡",
+        "onboard_time": 1725874040,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 347844,
+        "num": 186596,
+        "word": "疯狂小杨哥假牛肉卷被罚款50万",
+        "onboard_time": 1725870560,
+        "rank": 23,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 169101,
+        "num": 169101,
+        "word": "四川一玉米地发现脐带未剪女婴",
+        "onboard_time": 1725867799,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87807,
+        "num": 166515,
+        "word": "500元以上的高价月饼已无生存空间",
+        "onboard_time": 1725879799,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285365,
+        "num": 166475,
+        "word": "沫沫 小杨哥",
+        "onboard_time": 1725862579,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 166348,
+        "num": 166348,
+        "word": "男子修机箱意外发现失踪3年的螃蟹",
+        "onboard_time": 1725878539,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158278,
+        "num": 165486,
+        "word": "章若楠新粉丝名",
+        "onboard_time": 1725864859,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19697,
+        "num": 165395,
+        "word": "伊朗总统提议迁都",
+        "onboard_time": 1725880280,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165343,
+        "num": 165343,
+        "word": "小杨哥掉粉",
+        "onboard_time": 1725874577,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 163517,
+        "num": 163517,
+        "word": "警方通报废弃房内发现女尸",
+        "onboard_time": 1725872659,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160543,
+        "num": 160543,
+        "word": "梁靖崑3比0战胜李元璋",
+        "onboard_time": 1725880759,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160474,
+        "num": 160474,
+        "word": "WTT澳门冠军赛",
+        "onboard_time": 1725864019,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155161,
+        "num": 155161,
+        "word": "3居室爆改7间卫浴套房楼下告了",
+        "onboard_time": 1725875359,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140935,
+        "num": 140935,
+        "word": "张凌赫4年多拍15部剧",
+        "onboard_time": 1725872900,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133576,
+        "num": 133576,
+        "word": "心动的信号7第一次盲选约会",
+        "onboard_time": 1725881598,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132110,
+        "num": 132110,
+        "word": "女子路边摊点30颗痣后眼球被烧伤3层",
+        "onboard_time": 1725861318,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129296,
+        "num": 129296,
+        "word": "外交部回应日本游客圆明园拍照被制止",
+        "onboard_time": 1725873919,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20375,
+        "num": 129120,
+        "word": "快手官宣可灵AI导演共创计划",
+        "onboard_time": 1725879620,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 129103,
+        "num": 129103,
+        "word": "888元一桌的婚宴鱼是生的菜是臭的",
+        "onboard_time": 1725860540,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128862,
+        "num": 128862,
+        "word": "警方介入小学生在校死亡脖子现勒痕",
+        "onboard_time": 1725881479,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127515,
+        "num": 127515,
+        "word": "9岁女孩和同学外出后被发现溺亡",
+        "onboard_time": 1725875480,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124673,
+        "num": 124673,
+        "word": "欲言难止 第八章",
+        "onboard_time": 1725879260,
+        "rank": 43,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 115432,
+        "num": 115432,
+        "word": "会计被同事拉进群给假老板转账50万",
+        "onboard_time": 1725868700,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111905,
+        "num": 111905,
+        "word": "王曼昱重复记者问题好可爱",
+        "onboard_time": 1725876257,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111652,
+        "num": 111652,
+        "word": "小草包 JackeyLove",
+        "onboard_time": 1725871400,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107061,
+        "num": 107061,
+        "word": "最喜欢的双男主动画",
+        "onboard_time": 1725880398,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 106873,
+        "num": 106873,
+        "word": "国足赛前发布会",
+        "onboard_time": 1725880879,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101513,
+        "num": 101513,
+        "word": "下拉如坐飞机 没事哒没事哒",
+        "onboard_time": 1725874879,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#把师德师风建设摆在首要位置#"
+    }
+  }
+}
