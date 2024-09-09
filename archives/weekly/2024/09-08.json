@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725859296626,
+  "endTime": 1725860312306,
   "band_list": [
     {
       "raw_hot": 2331163,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 1270192,
-      "num": 398462,
+      "num": 439671,
       "word": "辛巴 小杨哥",
       "onboard_time": 1725855200,
       "rank": 20,
@@ -371,6 +371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 789396,
+      "num": 789396,
+      "word": "iPhone16仍有4款型号",
+      "onboard_time": 1725855921,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 776759,
       "num": 189968,
       "word": "生理期不痛的是易孕体质吗",
@@ -403,14 +411,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 726294,
-      "num": 726294,
-      "word": "iPhone16仍有4款型号",
-      "onboard_time": 1725855921,
-      "rank": 47,
-      "category": "数码"
-    },
-    {
       "raw_hot": 717141,
       "num": 1114742,
       "word": "多地报告上半年出生人口增加",
@@ -420,10 +420,18 @@
     },
     {
       "raw_hot": 713021,
-      "num": 517108,
+      "num": 558999,
       "word": "男子疑酒后当街调戏暴打女子",
       "onboard_time": 1725855080,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 710893,
+      "num": 710893,
+      "word": "中国天气预报太超前火到国外",
+      "onboard_time": 1725855320,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -571,6 +579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 567455,
+      "num": 567455,
+      "word": "点奶茶不请同事尴尬吗",
+      "onboard_time": 1725856581,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 566746,
       "num": 555191,
       "word": "杜江霍思燕带儿女遛狗",
@@ -625,6 +641,14 @@
       "onboard_time": 1725723981,
       "rank": 12,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 538197,
+      "num": 538197,
+      "word": "印度被奸杀女医生父母发声",
+      "onboard_time": 1725857903,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 536676,
@@ -689,14 +713,6 @@
       "onboard_time": 1725783980,
       "rank": 32,
       "category": "网红"
-    },
-    {
-      "raw_hot": 508610,
-      "num": 508610,
-      "word": "点奶茶不请同事尴尬吗",
-      "onboard_time": 1725856581,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 499262,
@@ -800,14 +816,6 @@
       "word": "网红名号不是三无食品的遮羞布",
       "onboard_time": 1725775819,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 445398,
-      "num": 670395,
-      "word": "中国天气预报太超前火到国外",
-      "onboard_time": 1725855320,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -1019,11 +1027,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 379196,
-      "num": 379196,
-      "word": "印度被奸杀女医生父母发声",
-      "onboard_time": 1725857903,
-      "rank": 18,
+      "raw_hot": 375025,
+      "num": 593739,
+      "word": "日本校园裸体健康体检引发不满",
+      "onboard_time": 1725859100,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1264,6 +1272,14 @@
       "word": "世界之外 DQ",
       "onboard_time": 1725761658,
       "rank": 6,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 304981,
+      "num": 304981,
+      "word": "恋与深空",
+      "onboard_time": 1725858740,
+      "rank": 29,
       "category": "游戏"
     },
     {
@@ -1529,14 +1545,6 @@
       "onboard_time": 1725857602,
       "rank": 27,
       "category": "美食"
-    },
-    {
-      "raw_hot": 239614,
-      "num": 239614,
-      "word": "恋与深空",
-      "onboard_time": 1725858740,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 239218,
@@ -1851,12 +1859,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 204052,
+      "num": 204052,
+      "word": "十个勤天 我成为我的同时",
+      "onboard_time": 1725859340,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 204051,
       "num": 204051,
       "word": "现在就出发2新疆站路透",
       "onboard_time": 1725858322,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203358,
+      "num": 539014,
+      "word": "存量房贷与新发房贷利差重回高位",
+      "onboard_time": 1725858860,
+      "rank": 43,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 203227,
@@ -1945,14 +1969,6 @@
       "onboard_time": 1725800658,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 198800,
-      "num": 249386,
-      "word": "日本校园裸体健康体检引发不满",
-      "onboard_time": 1725859100,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198089,
@@ -2137,6 +2153,14 @@
       "onboard_time": 1725768859,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187706,
+      "num": 187706,
+      "word": "苹果将推出AirPodsMax2头戴式耳机",
+      "onboard_time": 1725859040,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 187360,
@@ -2355,6 +2379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 172992,
+      "num": 172992,
+      "word": "建议一诺下载反诈APP",
+      "onboard_time": 1725859698,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 172784,
       "num": 172784,
       "word": "欲买桂花同载酒 终不似少年游",
@@ -2417,14 +2449,6 @@
       "onboard_time": 1725784578,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168654,
-      "num": 168654,
-      "word": "存量房贷与新发房贷利差重回高位",
-      "onboard_time": 1725858860,
-      "rank": 43,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 168462,
@@ -2915,6 +2939,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143338,
+      "num": 143338,
+      "word": "骄阳似我 宋威龙赵今麦",
+      "onboard_time": 1725860119,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 143060,
+      "num": 143060,
+      "word": "杨幂为贵州麻鸟村捐赠路灯",
+      "onboard_time": 1725860001,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143001,
       "num": 143001,
       "word": "黄景瑜拍打戏谁都不白来",
@@ -2977,14 +3017,6 @@
       "onboard_time": 1725711800,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 140726,
-      "num": 140726,
-      "word": "苹果将推出AirPodsMax2头戴式耳机",
-      "onboard_time": 1725859040,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 140644,
@@ -3089,6 +3121,14 @@
       "onboard_time": 1725776778,
       "rank": 47,
       "category": "社会新闻,电竞"
+    },
+    {
+      "raw_hot": 135873,
+      "num": 135873,
+      "word": "殷桃新剧好像在蛐蛐我",
+      "onboard_time": 1725860302,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 135362,
@@ -3473,6 +3513,14 @@
       "onboard_time": 1725808462,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117090,
+      "num": 478038,
+      "word": "汪苏泷苏州站点歌",
+      "onboard_time": 1725859939,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 116935,
@@ -4427,6 +4475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33908,
+      "num": 538363,
+      "word": "商品生产日期不好找看不清",
+      "onboard_time": 1725858559,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32332,
       "num": 290175,
       "word": "起底黑医美案背后的灰色产业链",
@@ -4467,6 +4523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29314,
+      "num": 204331,
+      "word": "越来越多美国人开派对庆祝离婚",
+      "onboard_time": 1725860060,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28159,
       "num": 233000,
       "word": "大叔崩溃求助交警请他吃面加鸡腿",
@@ -4480,6 +4544,14 @@
       "word": "中国消防员参加世锦赛有多敏捷",
       "onboard_time": 1725816313,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26862,
+      "num": 578636,
+      "word": "团伙毒杀35条狗后卖至餐馆被判刑",
+      "onboard_time": 1725859519,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -4513,14 +4585,6 @@
       "onboard_time": 1725736511,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 25575,
-      "num": 418693,
-      "word": "商品生产日期不好找看不清",
-      "onboard_time": 1725858559,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25436,

@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725859296626,
+  "endTime": 1725860312306,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -2891,6 +2891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 789396,
+      "num": 789396,
+      "word": "iPhone16仍有4款型号",
+      "onboard_time": 1725855921,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 783057,
       "num": 783057,
       "word": "专家称95后00后吃穿消费高峰已过",
@@ -3171,14 +3179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 726294,
-      "num": 726294,
-      "word": "iPhone16仍有4款型号",
-      "onboard_time": 1725855921,
-      "rank": 47,
-      "category": "数码"
-    },
-    {
       "raw_hot": 725718,
       "num": 725718,
       "word": "目前今年最出圈的台词",
@@ -3252,7 +3252,7 @@
     },
     {
       "raw_hot": 713021,
-      "num": 517108,
+      "num": 558999,
       "word": "男子疑酒后当街调戏暴打女子",
       "onboard_time": 1725855080,
       "rank": 32,
@@ -3273,6 +3273,14 @@
       "onboard_time": 1725275300,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 710893,
+      "num": 710893,
+      "word": "中国天气预报太超前火到国外",
+      "onboard_time": 1725855320,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 709877,
@@ -4339,6 +4347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 567455,
+      "num": 567455,
+      "word": "点奶茶不请同事尴尬吗",
+      "onboard_time": 1725856581,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 566746,
       "num": 555191,
       "word": "杜江霍思燕带儿女遛狗",
@@ -4609,6 +4625,14 @@
       "onboard_time": 1725723981,
       "rank": 12,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 538197,
+      "num": 538197,
+      "word": "印度被奸杀女医生父母发声",
+      "onboard_time": 1725857903,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 537888,
@@ -4977,14 +5001,6 @@
       "onboard_time": 1725157399,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 508610,
-      "num": 508610,
-      "word": "点奶茶不请同事尴尬吗",
-      "onboard_time": 1725856581,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 508579,
@@ -5728,14 +5744,6 @@
       "word": "市监局回应小天鹅网店被薅走7000万",
       "onboard_time": 1725320117,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 445398,
-      "num": 670395,
-      "word": "中国天气预报太超前火到国外",
-      "onboard_time": 1725855320,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -6491,14 +6499,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 379196,
-      "num": 379196,
-      "word": "印度被奸杀女医生父母发声",
-      "onboard_time": 1725857903,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 379134,
       "num": 379134,
       "word": "深圳湾公路大桥坠海车主已身亡",
@@ -6529,6 +6529,14 @@
       "onboard_time": 1725329360,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 375025,
+      "num": 593739,
+      "word": "日本校园裸体健康体检引发不满",
+      "onboard_time": 1725859100,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 374032,
@@ -7641,6 +7649,14 @@
       "onboard_time": 1725621859,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304981,
+      "num": 304981,
+      "word": "恋与深空",
+      "onboard_time": 1725858740,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 304971,
@@ -9547,14 +9563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 239614,
-      "num": 239614,
-      "word": "恋与深空",
-      "onboard_time": 1725858740,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 239598,
       "num": 239598,
       "word": "东北冻梨已经进化到这种程度了",
@@ -11387,6 +11395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204052,
+      "num": 204052,
+      "word": "十个勤天 我成为我的同时",
+      "onboard_time": 1725859340,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 204051,
       "num": 204051,
       "word": "现在就出发2新疆站路透",
@@ -11441,6 +11457,14 @@
       "onboard_time": 1725340881,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203358,
+      "num": 539014,
+      "word": "存量房贷与新发房贷利差重回高位",
+      "onboard_time": 1725858860,
+      "rank": 43,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 203334,
@@ -11905,14 +11929,6 @@
       "onboard_time": 1725547402,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198800,
-      "num": 249386,
-      "word": "日本校园裸体健康体检引发不满",
-      "onboard_time": 1725859100,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198796,
@@ -13201,6 +13217,14 @@
       "onboard_time": 1725344181,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187706,
+      "num": 187706,
+      "word": "苹果将推出AirPodsMax2头戴式耳机",
+      "onboard_time": 1725859040,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 187605,
@@ -14867,6 +14891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172992,
+      "num": 172992,
+      "word": "建议一诺下载反诈APP",
+      "onboard_time": 1725859698,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 172956,
       "num": 172956,
       "word": "四方馆",
@@ -15257,14 +15289,6 @@
       "onboard_time": 1725187039,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168654,
-      "num": 168654,
-      "word": "存量房贷与新发房贷利差重回高位",
-      "onboard_time": 1725858860,
-      "rank": 43,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 168486,
@@ -18219,6 +18243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143338,
+      "num": 143338,
+      "word": "骄阳似我 宋威龙赵今麦",
+      "onboard_time": 1725860119,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143281,
       "num": 164940,
       "word": "广东也开始感受到摩羯威力了",
@@ -18241,6 +18273,14 @@
       "onboard_time": 1725490334,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143060,
+      "num": 143060,
+      "word": "杨幂为贵州麻鸟村捐赠路灯",
+      "onboard_time": 1725860001,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 143001,
@@ -18433,14 +18473,6 @@
       "onboard_time": 1725291442,
       "rank": 33,
       "category": "教育"
-    },
-    {
-      "raw_hot": 140726,
-      "num": 140726,
-      "word": "苹果将推出AirPodsMax2头戴式耳机",
-      "onboard_time": 1725859040,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 140644,
@@ -18817,6 +18849,14 @@
       "onboard_time": 1725776778,
       "rank": 47,
       "category": "社会新闻,电竞"
+    },
+    {
+      "raw_hot": 135873,
+      "num": 135873,
+      "word": "殷桃新剧好像在蛐蛐我",
+      "onboard_time": 1725860302,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 135807,
@@ -20129,6 +20169,14 @@
       "onboard_time": 1725168858,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117090,
+      "num": 478038,
+      "word": "汪苏泷苏州站点歌",
+      "onboard_time": 1725859939,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 116953,
@@ -23995,6 +24043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33908,
+      "num": 538363,
+      "word": "商品生产日期不好找看不清",
+      "onboard_time": 1725858559,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33757,
       "num": 471360,
       "word": "坑老团伙神秘推销保健品",
@@ -24419,6 +24475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29314,
+      "num": 204331,
+      "word": "越来越多美国人开派对庆祝离婚",
+      "onboard_time": 1725860060,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29309,
       "num": 44483,
       "word": "迪丽热巴五年前后对比",
@@ -24611,6 +24675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26862,
+      "num": 578636,
+      "word": "团伙毒杀35条狗后卖至餐馆被判刑",
+      "onboard_time": 1725859519,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26747,
       "num": 283640,
       "word": "男子花费近万元提升学历机构失联",
@@ -24721,14 +24793,6 @@
       "onboard_time": 1725736511,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 25575,
-      "num": 418693,
-      "word": "商品生产日期不好找看不清",
-      "onboard_time": 1725858559,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25444,
