@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725900141624,
+  "endTime": 1725902406619,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -411,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2017612,
+      "num": 2017612,
+      "word": "Apple发布会",
+      "onboard_time": 1725901993,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1962202,
       "num": 1962202,
       "word": "网传东北雨姐视频造假塌房",
@@ -793,6 +801,14 @@
       "onboard_time": 1725624622,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1524275,
+      "num": 1524275,
+      "word": "iPhone16",
+      "onboard_time": 1725627679,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 1521510,
@@ -2233,14 +2249,6 @@
       "onboard_time": 1725704119,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 943828,
-      "num": 943828,
-      "word": "iPhone16",
-      "onboard_time": 1725627679,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 938284,
@@ -7163,6 +7171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 362386,
+      "num": 362386,
+      "word": "苹果发布会直播",
+      "onboard_time": 1725902115,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 361353,
       "num": 632152,
       "word": "offer6实习生官宣下一站香港",
@@ -8057,6 +8073,14 @@
       "onboard_time": 1725456381,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 305436,
+      "num": 305436,
+      "word": "科技春晚",
+      "onboard_time": 1725901575,
+      "rank": 9,
+      "category": "数码"
     },
     {
       "raw_hot": 305385,
@@ -10025,6 +10049,14 @@
       "onboard_time": 1725343820,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241588,
+      "num": 241588,
+      "word": "苹果",
+      "onboard_time": 1725901993,
+      "rank": 10,
+      "category": "数码"
     },
     {
       "raw_hot": 241573,
@@ -13433,6 +13465,14 @@
       "onboard_time": 1725535880,
       "rank": 35,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 192248,
+      "num": 192248,
+      "word": "Apple",
+      "onboard_time": 1725902115,
+      "rank": 12,
+      "category": "数码"
     },
     {
       "raw_hot": 192116,
@@ -17003,6 +17043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 161980,
+      "num": 161980,
+      "word": "苹果有线耳机或将停产",
+      "onboard_time": 1725889279,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 161854,
       "num": 161854,
       "word": "张雨霏港澳行vlog",
@@ -17745,14 +17793,6 @@
       "onboard_time": 1725278840,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 156205,
-      "num": 156205,
-      "word": "苹果有线耳机或将停产",
-      "onboard_time": 1725889279,
-      "rank": 44,
-      "category": "数码"
     },
     {
       "raw_hot": 156192,
@@ -22075,6 +22115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 107580,
+      "num": 145030,
+      "word": "台风过后赶海分分钟爆桶",
+      "onboard_time": 1725900436,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107414,
       "num": 107414,
       "word": "林诗栋蒯曼3比0日本组合",
@@ -24099,6 +24147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56738,
+      "num": 56738,
+      "word": "张翰新剧",
+      "onboard_time": 1725900676,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 56546,
       "num": 80628,
       "word": "比悟空画的圈都管用",
@@ -24539,6 +24595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 49422,
+      "num": 49422,
+      "word": "韩安冉产后照顾小猪妹情绪",
+      "onboard_time": 1725901396,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49358,
       "num": 1147732,
       "word": "开学季传染病防范指南",
@@ -24905,6 +24969,14 @@
       "onboard_time": 1725681619,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 43164,
+      "num": 46394,
+      "word": "小狗的一生只要有爱就不苦",
+      "onboard_time": 1725900914,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 43014,

@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725900141624,
+  "endTime": 1725902406619,
   "band_list": [
     {
       "raw_hot": 2936434,
@@ -57,6 +57,14 @@
       "onboard_time": 1725861379,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2017612,
+      "num": 2017612,
+      "word": "Apple发布会",
+      "onboard_time": 1725901993,
+      "rank": 0,
+      "category": "数码"
     },
     {
       "raw_hot": 1950554,
@@ -121,6 +129,14 @@
       "onboard_time": 1725764599,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1524275,
+      "num": 1524275,
+      "word": "iPhone16",
+      "onboard_time": 1725875480,
+      "rank": 6,
+      "category": "数码"
     },
     {
       "raw_hot": 1477738,
@@ -425,14 +441,6 @@
       "onboard_time": 1725854480,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 943828,
-      "num": 943828,
-      "word": "iPhone16",
-      "onboard_time": 1725875480,
-      "rank": 6,
-      "category": "数码"
     },
     {
       "raw_hot": 932407,
@@ -1467,6 +1475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 362386,
+      "num": 362386,
+      "word": "苹果发布会直播",
+      "onboard_time": 1725902115,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 358577,
       "num": 240427,
       "word": "这些水果是典型的高糖刺客",
@@ -1705,6 +1721,14 @@
       "onboard_time": 1725806601,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 305436,
+      "num": 305436,
+      "word": "科技春晚",
+      "onboard_time": 1725901575,
+      "rank": 9,
+      "category": "数码"
     },
     {
       "raw_hot": 305385,
@@ -2097,6 +2121,14 @@
       "onboard_time": 1725706159,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 241588,
+      "num": 241588,
+      "word": "苹果",
+      "onboard_time": 1725901993,
+      "rank": 10,
+      "category": "数码"
     },
     {
       "raw_hot": 241006,
@@ -2819,6 +2851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192248,
+      "num": 192248,
+      "word": "Apple",
+      "onboard_time": 1725902115,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 192078,
       "num": 192078,
       "word": "加沙12岁女孩的课本被用来生火",
@@ -3499,6 +3539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161980,
+      "num": 161980,
+      "word": "苹果有线耳机或将停产",
+      "onboard_time": 1725889279,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 161695,
       "num": 161695,
       "word": "黑神话悟空 解禁壁纸",
@@ -3649,14 +3697,6 @@
       "onboard_time": 1725853938,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 156205,
-      "num": 156205,
-      "word": "苹果有线耳机或将停产",
-      "onboard_time": 1725889279,
-      "rank": 44,
-      "category": "数码"
     },
     {
       "raw_hot": 156041,
@@ -5083,6 +5123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107580,
+      "num": 145030,
+      "word": "台风过后赶海分分钟爆桶",
+      "onboard_time": 1725900436,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107061,
       "num": 107061,
       "word": "最喜欢的双男主动画",
@@ -5771,6 +5819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56738,
+      "num": 56738,
+      "word": "张翰新剧",
+      "onboard_time": 1725900676,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 56546,
       "num": 80628,
       "word": "比悟空画的圈都管用",
@@ -5891,6 +5947,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 49422,
+      "num": 49422,
+      "word": "韩安冉产后照顾小猪妹情绪",
+      "onboard_time": 1725901396,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 48132,
       "num": 298401,
       "word": "酸酸乳的这波回忆杀谁懂啊",
@@ -5945,6 +6009,14 @@
       "onboard_time": 1725772218,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43164,
+      "num": 46394,
+      "word": "小狗的一生只要有爱就不苦",
+      "onboard_time": 1725900914,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 42322,

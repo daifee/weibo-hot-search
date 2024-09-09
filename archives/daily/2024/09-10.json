@@ -1,7 +1,23 @@
 {
   "startTime": 1725899204781,
-  "endTime": 1725900141624,
+  "endTime": 1725902406619,
   "band_list": [
+    {
+      "raw_hot": 2017612,
+      "num": 2017612,
+      "word": "Apple发布会",
+      "onboard_time": 1725901993,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 1524275,
+      "num": 1524275,
+      "word": "iPhone16",
+      "onboard_time": 1725875480,
+      "rank": 1,
+      "category": "数码"
+    },
     {
       "raw_hot": 971074,
       "num": 140549,
@@ -9,14 +25,6 @@
       "onboard_time": 1725894980,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 943828,
-      "num": 943828,
-      "word": "iPhone16",
-      "onboard_time": 1725875480,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 935832,
@@ -67,6 +75,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 362386,
+      "num": 362386,
+      "word": "苹果发布会直播",
+      "onboard_time": 1725902115,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 340932,
       "num": 340932,
       "word": "玄彬李栋旭 结了婚和没结婚的",
@@ -81,6 +97,14 @@
       "onboard_time": 1725876018,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 305436,
+      "num": 305436,
+      "word": "科技春晚",
+      "onboard_time": 1725901575,
+      "rank": 9,
+      "category": "数码"
     },
     {
       "raw_hot": 285408,
@@ -115,12 +139,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241588,
+      "num": 241588,
+      "word": "苹果",
+      "onboard_time": 1725901993,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
       "raw_hot": 207981,
       "num": 207981,
       "word": "书亦烧仙草倒闭门店太多二手设备滞销",
       "onboard_time": 1725866599,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192248,
+      "num": 192248,
+      "word": "Apple",
+      "onboard_time": 1725902115,
+      "rank": 12,
+      "category": "数码"
     },
     {
       "raw_hot": 184446,
@@ -155,6 +195,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 161980,
+      "num": 161980,
+      "word": "苹果有线耳机或将停产",
+      "onboard_time": 1725889279,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 155613,
       "num": 155613,
       "word": "傅首尔老刘 离婚不耽误朋友发展",
@@ -164,7 +212,7 @@
     },
     {
       "raw_hot": 151997,
-      "num": 265373,
+      "num": 319791,
       "word": "孙颖莎光速进16强",
       "onboard_time": 1725886460,
       "rank": 8,
@@ -235,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107580,
+      "num": 145030,
+      "word": "台风过后赶海分分钟爆桶",
+      "onboard_time": 1725900436,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104142,
       "num": 104142,
       "word": "父母困在没有退休金的日子里",
@@ -299,20 +355,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 89409,
-      "num": 89409,
-      "word": "苹果有线耳机或将停产",
-      "onboard_time": 1725889279,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
       "raw_hot": 89195,
       "num": 89195,
       "word": "耳朵有这4个异常小心心梗",
       "onboard_time": 1725891561,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 89145,
+      "num": 89145,
+      "word": "iPhone16或成苹果最具争议手机",
+      "onboard_time": 1725864378,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 86787,
@@ -355,14 +411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 83069,
-      "num": 83069,
-      "word": "iPhone16或成苹果最具争议手机",
-      "onboard_time": 1725864378,
-      "rank": 43,
-      "category": "数码"
-    },
-    {
       "raw_hot": 80645,
       "num": 80645,
       "word": "孟羽童谈自由职业一年",
@@ -395,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 56738,
+      "num": 56738,
+      "word": "张翰新剧",
+      "onboard_time": 1725900676,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 56546,
       "num": 80628,
       "word": "比悟空画的圈都管用",
@@ -403,8 +459,32 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 49422,
+      "num": 49422,
+      "word": "韩安冉产后照顾小猪妹情绪",
+      "onboard_time": 1725901396,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 43164,
+      "num": 46394,
+      "word": "小狗的一生只要有爱就不苦",
+      "onboard_time": 1725900914,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 42431,
+      "num": 89404,
+      "word": "落落大方具象化了",
+      "onboard_time": 1725884720,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32551,
-      "num": 727238,
+      "num": 906537,
       "word": "万千气象看内蒙古",
       "onboard_time": 1725887060,
       "rank": 2,

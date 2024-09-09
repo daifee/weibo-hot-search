@@ -1,0 +1,410 @@
+{
+  "runTime": 1725902406619,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2017612,
+        "num": 2017612,
+        "word": "Apple发布会",
+        "onboard_time": 1725901993,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1524275,
+        "num": 1524275,
+        "word": "iPhone16",
+        "onboard_time": 1725875480,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 25518,
+        "num": 906537,
+        "word": "万千气象看内蒙古",
+        "onboard_time": 1725887060,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 497008,
+        "num": 497008,
+        "word": "张杰工作室道歉",
+        "onboard_time": 1725891501,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 362386,
+        "num": 362386,
+        "word": "苹果发布会直播",
+        "onboard_time": 1725902115,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 206879,
+        "num": 351633,
+        "word": "月饼为什么卖不动了",
+        "onboard_time": 1725886039,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268947,
+        "num": 341327,
+        "word": "刘德华演唱会摔倒",
+        "onboard_time": 1725893480,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 92825,
+        "num": 319791,
+        "word": "孙颖莎光速进16强",
+        "onboard_time": 1725886460,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182622,
+        "num": 314096,
+        "word": "孙海洋支持孙卓在大学谈恋爱",
+        "onboard_time": 1725897319,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305436,
+        "num": 305436,
+        "word": "科技春晚",
+        "onboard_time": 1725901575,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 241588,
+        "num": 241588,
+        "word": "苹果",
+        "onboard_time": 1725901993,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 237972,
+        "num": 237972,
+        "word": "田曦薇演累了让我演两集",
+        "onboard_time": 1725898038,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192248,
+        "num": 192248,
+        "word": "Apple",
+        "onboard_time": 1725902115,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 161980,
+        "num": 161980,
+        "word": "苹果有线耳机或将停产",
+        "onboard_time": 1725889279,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 107580,
+        "num": 145030,
+        "word": "台风过后赶海分分钟爆桶",
+        "onboard_time": 1725900436,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140464,
+        "num": 140464,
+        "word": "首批免签来华的老外已吃不下白人饭",
+        "onboard_time": 1725895460,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137545,
+        "num": 137545,
+        "word": "玄彬李栋旭 结了婚和没结婚的",
+        "onboard_time": 1725877939,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130479,
+        "num": 130479,
+        "word": "华为新机提前拆封罚款50万起",
+        "onboard_time": 1725889279,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 112839,
+        "num": 112839,
+        "word": "1岁宝宝误触充电口手指瞬间焦黑",
+        "onboard_time": 1725880220,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73105,
+        "num": 111020,
+        "word": "傅首尔老刘 离婚不耽误朋友发展",
+        "onboard_time": 1725877939,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359859,
+        "num": 110235,
+        "word": "小杨哥 磨骨",
+        "onboard_time": 1725878717,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 321500,
+        "num": 109964,
+        "word": "女子通过蠕动解压被吐槽太抽象",
+        "onboard_time": 1725894980,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109284,
+        "num": 109284,
+        "word": "书亦烧仙草倒闭门店太多二手设备滞销",
+        "onboard_time": 1725866599,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105616,
+        "num": 105616,
+        "word": "广西一青年飙车在医院门口身亡",
+        "onboard_time": 1725891261,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99575,
+        "num": 99575,
+        "word": "小杨哥已掉粉超百万",
+        "onboard_time": 1725885980,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 91268,
+        "num": 91268,
+        "word": "性侵中国女游客的韩男子被求刑10年",
+        "onboard_time": 1725860719,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89971,
+        "num": 89971,
+        "word": "韩安冉 我在产房很想你",
+        "onboard_time": 1725883099,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 68807,
+        "num": 89870,
+        "word": "心动的信号7",
+        "onboard_time": 1725881598,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57321,
+        "num": 89707,
+        "word": "张雨绮张真源豪门姐弟具象化",
+        "onboard_time": 1725888859,
+        "rank": 28,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 42431,
+        "num": 89404,
+        "word": "落落大方具象化了",
+        "onboard_time": 1725884720,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101708,
+        "num": 89330,
+        "word": "张杰应公开回应素人电话号事件",
+        "onboard_time": 1725876018,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89145,
+        "num": 89145,
+        "word": "iPhone16或成苹果最具争议手机",
+        "onboard_time": 1725864378,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 85518,
+        "num": 85518,
+        "word": "语文老师回应走红重心放在教学上",
+        "onboard_time": 1725899296,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77196,
+        "num": 77196,
+        "word": "致多人中毒黄焖鸡品牌曾多次出问题",
+        "onboard_time": 1725888380,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75514,
+        "num": 75514,
+        "word": "库克发微博为苹果发布会预热",
+        "onboard_time": 1725894142,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 64807,
+        "num": 64807,
+        "word": "教师节前班主任开家长会嘱咐别送礼",
+        "onboard_time": 1725889279,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56738,
+        "num": 56738,
+        "word": "张翰新剧",
+        "onboard_time": 1725900676,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55820,
+        "num": 55820,
+        "word": "年轻人改造租屋拒绝没苦硬吃",
+        "onboard_time": 1725890241,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55024,
+        "num": 55024,
+        "word": "华为三折叠预约已超300万",
+        "onboard_time": 1725893540,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 51530,
+        "num": 51530,
+        "word": "高雅CP",
+        "onboard_time": 1725893780,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49422,
+        "num": 49422,
+        "word": "韩安冉产后照顾小猪妹情绪",
+        "onboard_time": 1725901396,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48760,
+        "num": 48760,
+        "word": "父母困在没有退休金的日子里",
+        "onboard_time": 1725872360,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48612,
+        "num": 48612,
+        "word": "孟羽童谈自由职业一年",
+        "onboard_time": 1725882079,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 48041,
+        "num": 48041,
+        "word": "沫沫 小杨哥",
+        "onboard_time": 1725862579,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 47247,
+        "num": 47247,
+        "word": "于正说白鹿王星越早晚要搭",
+        "onboard_time": 1725894679,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47244,
+        "num": 47244,
+        "word": "张杰方正协商解决方案",
+        "onboard_time": 1725893002,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 47149,
+        "num": 47149,
+        "word": "黄景瑜天生下海圣体",
+        "onboard_time": 1725879080,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46394,
+        "num": 46394,
+        "word": "TES回应JackeyLove谣言",
+        "onboard_time": 1725890060,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 43164,
+        "num": 46394,
+        "word": "小狗的一生只要有爱就不苦",
+        "onboard_time": 1725900914,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 42993,
+        "num": 46394,
+        "word": "耳朵有这4个异常小心心梗",
+        "onboard_time": 1725891561,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见挪威首相斯特勒#"
+    }
+  }
+}
