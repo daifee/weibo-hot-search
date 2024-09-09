@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725902406619,
+  "endTime": 1725903465564,
   "band_list": [
     {
       "raw_hot": 2936434,
@@ -136,6 +136,14 @@
       "word": "iPhone16",
       "onboard_time": 1725875480,
       "rank": 6,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 1480669,
+      "num": 1480669,
+      "word": "苹果发布会",
+      "onboard_time": 1725902474,
+      "rank": 0,
       "category": "数码"
     },
     {
@@ -2851,6 +2859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193169,
+      "num": 193169,
+      "word": "Apple Watch S10",
+      "onboard_time": 1725902833,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 192248,
       "num": 192248,
       "word": "Apple",
@@ -4827,6 +4843,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 118287,
+      "num": 145030,
+      "word": "台风过后赶海分分钟爆桶",
+      "onboard_time": 1725900436,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118263,
       "num": 118263,
       "word": "里斯本丸沉没豆瓣开分9.2",
@@ -5123,14 +5147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 107580,
-      "num": 145030,
-      "word": "台风过后赶海分分钟爆桶",
-      "onboard_time": 1725900436,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107061,
       "num": 107061,
       "word": "最喜欢的双男主动画",
@@ -5233,6 +5249,14 @@
       "onboard_time": 1725721581,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103249,
+      "num": 103249,
+      "word": "没有iPad",
+      "onboard_time": 1725902653,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 103103,
@@ -5739,12 +5763,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64114,
+      "num": 87148,
+      "word": "张翰新剧",
+      "onboard_time": 1725900676,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63895,
       "num": 150116,
       "word": "章宇演黄景瑜大10岁的弟弟",
       "onboard_time": 1725787939,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 63115,
+      "num": 86724,
+      "word": "韩安冉产后照顾小猪妹情绪",
+      "onboard_time": 1725901396,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 61815,
@@ -5819,14 +5859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 56738,
-      "num": 56738,
-      "word": "张翰新剧",
-      "onboard_time": 1725900676,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 56546,
       "num": 80628,
       "word": "比悟空画的圈都管用",
@@ -5865,6 +5897,14 @@
       "onboard_time": 1725872839,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54864,
+      "num": 59294,
+      "word": "苹果手表睡眠呼吸暂停检测功能",
+      "onboard_time": 1725903254,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 54853,
@@ -5947,14 +5987,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 49422,
-      "num": 49422,
-      "word": "韩安冉产后照顾小猪妹情绪",
-      "onboard_time": 1725901396,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 48132,
       "num": 298401,
       "word": "酸酸乳的这波回忆杀谁懂啊",
@@ -5969,6 +6001,14 @@
       "onboard_time": 1725876738,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46986,
+      "num": 59224,
+      "word": "史上充电最快苹果手表",
+      "onboard_time": 1725903134,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 45939,

@@ -1,6 +1,6 @@
 {
   "startTime": 1725899204781,
-  "endTime": 1725902406619,
+  "endTime": 1725903465564,
   "band_list": [
     {
       "raw_hot": 2017612,
@@ -16,6 +16,14 @@
       "word": "iPhone16",
       "onboard_time": 1725875480,
       "rank": 1,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 1480669,
+      "num": 1480669,
+      "word": "苹果发布会",
+      "onboard_time": 1725902474,
+      "rank": 0,
       "category": "数码"
     },
     {
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193169,
+      "num": 193169,
+      "word": "Apple Watch S10",
+      "onboard_time": 1725902833,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 192248,
       "num": 192248,
       "word": "Apple",
@@ -267,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118287,
+      "num": 145030,
+      "word": "台风过后赶海分分钟爆桶",
+      "onboard_time": 1725900436,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116601,
       "num": 116601,
       "word": "于正说白鹿王星越早晚要搭",
@@ -283,20 +307,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 107580,
-      "num": 145030,
-      "word": "台风过后赶海分分钟爆桶",
-      "onboard_time": 1725900436,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104142,
       "num": 104142,
       "word": "父母困在没有退休金的日子里",
       "onboard_time": 1725872360,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103249,
+      "num": 103249,
+      "word": "没有iPad",
+      "onboard_time": 1725902653,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 101789,
@@ -435,20 +459,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 64114,
+      "num": 87148,
+      "word": "张翰新剧",
+      "onboard_time": 1725900676,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 63115,
+      "num": 86724,
+      "word": "韩安冉产后照顾小猪妹情绪",
+      "onboard_time": 1725901396,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62678,
       "num": 80633,
       "word": "王子奇上班开的车是黄景瑜的",
       "onboard_time": 1725892521,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 56738,
-      "num": 56738,
-      "word": "张翰新剧",
-      "onboard_time": 1725900676,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 56546,
@@ -459,12 +491,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 49422,
-      "num": 49422,
-      "word": "韩安冉产后照顾小猪妹情绪",
-      "onboard_time": 1725901396,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 54864,
+      "num": 59294,
+      "word": "苹果手表睡眠呼吸暂停检测功能",
+      "onboard_time": 1725903254,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 46986,
+      "num": 59224,
+      "word": "史上充电最快苹果手表",
+      "onboard_time": 1725903134,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 43752,
+      "num": 89404,
+      "word": "落落大方具象化了",
+      "onboard_time": 1725884720,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43164,
@@ -473,14 +521,6 @@
       "onboard_time": 1725900914,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 42431,
-      "num": 89404,
-      "word": "落落大方具象化了",
-      "onboard_time": 1725884720,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32551,
