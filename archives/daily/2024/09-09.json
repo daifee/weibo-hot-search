@@ -1,6 +1,6 @@
 {
   "startTime": 1725812757378,
-  "endTime": 1725863567109,
+  "endTime": 1725864336100,
   "band_list": [
     {
       "raw_hot": 2254379,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1950554,
-      "num": 608328,
+      "num": 727713,
       "word": "性侵中国女游客的韩男子被求刑10年",
       "onboard_time": 1725860719,
       "rank": 3,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1111476,
+      "num": 296168,
+      "word": "沫沫 小杨哥",
+      "onboard_time": 1725862579,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1065384,
       "num": 1149206,
       "word": "网约车乘客开门杀致人受伤扭头就走",
@@ -113,6 +121,14 @@
       "onboard_time": 1725854480,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 934506,
+      "num": 1149521,
+      "word": "888元一桌的婚宴鱼是生的菜是臭的",
+      "onboard_time": 1725860540,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 886977,
@@ -227,6 +243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 606775,
+      "num": 437343,
+      "word": "苗苗女儿看到螃蟹被煮后哭了",
+      "onboard_time": 1725861740,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 606444,
       "num": 606444,
       "word": "邓恩熙不会吻 丁禹兮不敢吻",
@@ -251,14 +275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 582647,
-      "num": 296168,
-      "word": "沫沫 小杨哥",
-      "onboard_time": 1725862579,
-      "rank": 23,
-      "category": "网红"
-    },
-    {
       "raw_hot": 567455,
       "num": 567455,
       "word": "点奶茶不请同事尴尬吗",
@@ -275,11 +291,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 554820,
-      "num": 554820,
-      "word": "888元一桌的婚宴鱼是生的菜是臭的",
-      "onboard_time": 1725860540,
-      "rank": 5,
+      "raw_hot": 553103,
+      "num": 553103,
+      "word": "女子路边摊点30颗痣后眼球被烧伤3层",
+      "onboard_time": 1725861318,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -339,28 +355,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 448853,
-      "num": 448853,
-      "word": "女子路边摊点30颗痣后眼球被烧伤3层",
-      "onboard_time": 1725861318,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 437634,
       "num": 437634,
       "word": "张翰谈时隔7年再演古装剧",
       "onboard_time": 1725820512,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 437343,
-      "num": 437343,
-      "word": "苗苗女儿看到螃蟹被煮后哭了",
-      "onboard_time": 1725861740,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 432537,
@@ -457,6 +457,14 @@
       "onboard_time": 1725792919,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 314890,
+      "num": 314890,
+      "word": "许昕恢复训练",
+      "onboard_time": 1725862940,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 310041,
@@ -627,6 +635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 229101,
+      "num": 229101,
+      "word": "苹果将推出AirPodsMax2头戴式耳机",
+      "onboard_time": 1725859040,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 227722,
       "num": 227722,
       "word": "湖南卫视音响",
@@ -649,14 +665,6 @@
       "onboard_time": 1725855859,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 223119,
-      "num": 203597,
-      "word": "许昕恢复训练",
-      "onboard_time": 1725862940,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 223026,
@@ -691,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215840,
+      "num": 215840,
+      "word": "罗永浩称将自愿放弃借给锤子的2476万",
+      "onboard_time": 1725862699,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 214201,
       "num": 214201,
       "word": "负周一",
@@ -705,6 +721,14 @@
       "onboard_time": 1725812237,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208481,
+      "num": 265552,
+      "word": "半熟男女还没播就上强度了",
+      "onboard_time": 1725860957,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 205708,
@@ -761,14 +785,6 @@
       "onboard_time": 1725858322,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202724,
-      "num": 202724,
-      "word": "苹果将推出AirPodsMax2头戴式耳机",
-      "onboard_time": 1725859040,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 202584,
@@ -859,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183669,
+      "num": 183669,
+      "word": "WTT澳门冠军赛",
+      "onboard_time": 1725864019,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182573,
       "num": 182573,
       "word": "全球约3亿iPhone四年没升级",
@@ -947,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170331,
+      "num": 437502,
+      "word": "36元一张的学生票黄牛卖到180元",
+      "onboard_time": 1725862159,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169121,
       "num": 169121,
       "word": "纽约时装周",
@@ -1027,12 +1059,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156849,
-      "num": 156849,
-      "word": "半熟男女还没播就上强度了",
-      "onboard_time": 1725860957,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 158039,
+      "num": 158039,
+      "word": "颖儿生完孩子三个月就拍戏了",
+      "onboard_time": 1725863718,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 156717,
@@ -1092,7 +1124,7 @@
     },
     {
       "raw_hot": 147442,
-      "num": 147442,
+      "num": 161960,
       "word": "田曦薇新剧 只是犯了男人会犯的错",
       "onboard_time": 1725862579,
       "rank": 43,
@@ -1203,14 +1235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136815,
-      "num": 136815,
-      "word": "罗永浩称将自愿放弃借给锤子的2476万",
-      "onboard_time": 1725862699,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 135362,
       "num": 135362,
       "word": "严屹宽最勇敢的儿子是庆怜",
@@ -1281,6 +1305,14 @@
       "onboard_time": 1725847099,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 127983,
+      "num": 127983,
+      "word": "罗伯特大战南派三叔",
+      "onboard_time": 1725864079,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 127249,
@@ -1369,14 +1401,6 @@
       "onboard_time": 1725852318,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113089,
-      "num": 437502,
-      "word": "36元一张的学生票黄牛卖到180元",
-      "onboard_time": 1725862159,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112781,
@@ -1635,6 +1659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64372,
+      "num": 265798,
+      "word": "央妈直击金龙鱼油生产过程",
+      "onboard_time": 1725863179,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61815,
       "num": 76876,
       "word": "10岁轮椅女孩上学4年成全班35人团宠",
@@ -1712,14 +1744,6 @@
       "word": "网传重庆9月降雪消息不属实",
       "onboard_time": 1725802099,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42751,
-      "num": 203730,
-      "word": "央妈直击金龙鱼油生产过程",
-      "onboard_time": 1725863179,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1875,6 +1899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23733,
+      "num": 331971,
+      "word": "揭秘回流药背后黑色产业链",
+      "onboard_time": 1725862400,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21702,
       "num": 23786,
       "word": "长乐曲",
@@ -1889,14 +1921,6 @@
       "onboard_time": 1725823991,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 17649,
-      "num": 331971,
-      "word": "揭秘回流药背后黑色产业链",
-      "onboard_time": 1725862400,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15077,
