@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725864336100,
+  "endTime": 1725866436493,
   "band_list": [
     {
       "raw_hot": 2331163,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1206006,
+      "num": 1149521,
+      "word": "888元一桌的婚宴鱼是生的菜是臭的",
+      "onboard_time": 1725860540,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1172324,
       "num": 244395,
       "word": "小杨哥妈妈改简介",
@@ -281,14 +289,6 @@
       "onboard_time": 1725854480,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 934506,
-      "num": 1149521,
-      "word": "888元一桌的婚宴鱼是生的菜是臭的",
-      "onboard_time": 1725860540,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 932407,
@@ -523,6 +523,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 659545,
+      "num": 659545,
+      "word": "女子路边摊点30颗痣后眼球被烧伤3层",
+      "onboard_time": 1725861318,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 656719,
       "num": 221880,
       "word": "在台风中唯有鸭子屹立不倒",
@@ -596,7 +604,7 @@
     },
     {
       "raw_hot": 606775,
-      "num": 437343,
+      "num": 558393,
       "word": "苗苗女儿看到螃蟹被煮后哭了",
       "onboard_time": 1725861740,
       "rank": 10,
@@ -651,20 +659,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 557389,
+      "num": 516927,
+      "word": "章若楠新粉丝名",
+      "onboard_time": 1725864859,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 555256,
       "num": 555256,
       "word": "金靖怀孕九个月状态",
       "onboard_time": 1725772039,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 553103,
-      "num": 553103,
-      "word": "女子路边摊点30颗痣后眼球被烧伤3层",
-      "onboard_time": 1725861318,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 552208,
@@ -865,6 +873,14 @@
       "onboard_time": 1725796339,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 458948,
+      "num": 458948,
+      "word": "许昕恢复训练",
+      "onboard_time": 1725862940,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 453584,
@@ -1251,12 +1267,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 314890,
-      "num": 314890,
-      "word": "许昕恢复训练",
-      "onboard_time": 1725862940,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 317275,
+      "num": 437502,
+      "word": "36元一张的学生票黄牛卖到180元",
+      "onboard_time": 1725862159,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 312483,
@@ -1353,6 +1369,22 @@
       "onboard_time": 1725809301,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 297339,
+      "num": 318873,
+      "word": "天津警方通报一起刑事案件",
+      "onboard_time": 1725861140,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297031,
+      "num": 297031,
+      "word": "罗永浩称将自愿放弃借给锤子的2476万",
+      "onboard_time": 1725862699,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 295288,
@@ -1739,6 +1771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225785,
+      "num": 225784,
+      "word": "iPhone16或成苹果最具争议手机",
+      "onboard_time": 1725864378,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 223602,
       "num": 223602,
       "word": "时差五小时",
@@ -1803,6 +1843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220426,
+      "num": 265552,
+      "word": "半熟男女还没播就上强度了",
+      "onboard_time": 1725860957,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216908,
       "num": 307948,
       "word": "张含韵唱酸酸甜甜就是我",
@@ -1819,14 +1867,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 215840,
-      "num": 215840,
-      "word": "罗永浩称将自愿放弃借给锤子的2476万",
-      "onboard_time": 1725862699,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 215322,
       "num": 215322,
       "word": "亚人",
@@ -1841,6 +1881,14 @@
       "onboard_time": 1725858740,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213943,
+      "num": 213943,
+      "word": "WTT澳门冠军赛",
+      "onboard_time": 1725864019,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 213313,
@@ -1897,14 +1945,6 @@
       "onboard_time": 1725812237,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208481,
-      "num": 265552,
-      "word": "半熟男女还没播就上强度了",
-      "onboard_time": 1725860957,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 208469,
@@ -1993,6 +2033,14 @@
       "onboard_time": 1725858860,
       "rank": 43,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 203279,
+      "num": 225792,
+      "word": "登陆少年全员改认证",
+      "onboard_time": 1725865698,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 203227,
@@ -2315,14 +2363,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 183669,
-      "num": 183669,
-      "word": "WTT澳门冠军赛",
-      "onboard_time": 1725864019,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 182805,
       "num": 182805,
       "word": "20元学生小饭桌正在被成年人占领",
@@ -2337,14 +2377,6 @@
       "onboard_time": 1725857361,
       "rank": 39,
       "category": "数码"
-    },
-    {
-      "raw_hot": 182528,
-      "num": 308143,
-      "word": "天津警方通报一起刑事案件",
-      "onboard_time": 1725861140,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182336,
@@ -2531,14 +2563,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 170331,
-      "num": 437502,
-      "word": "36元一张的学生票黄牛卖到180元",
-      "onboard_time": 1725862159,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169320,
       "num": 169320,
       "word": "花少6看片会repo",
@@ -2699,6 +2723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162123,
+      "num": 162123,
+      "word": "王皓的赛场秘诀原来是这样的",
+      "onboard_time": 1725865280,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161203,
       "num": 161203,
       "word": "孙颖莎王曼昱适应性训练",
@@ -2707,12 +2739,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160929,
+      "num": 160929,
+      "word": "消防员的接力赛用上了十八般武艺",
+      "onboard_time": 1725865519,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160548,
       "num": 160548,
       "word": "C罗绝杀",
       "onboard_time": 1725837977,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160367,
+      "num": 160367,
+      "word": "王俊凯说再不打一会愈合了",
+      "onboard_time": 1725866119,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 160208,
@@ -2777,6 +2825,14 @@
       "onboard_time": 1725854239,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158168,
+      "num": 158168,
+      "word": "星穹铁道飞霄PV",
+      "onboard_time": 1725865459,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 158039,
@@ -2849,6 +2905,14 @@
       "onboard_time": 1725724879,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154447,
+      "num": 154447,
+      "word": "黎深 抵达稚梦",
+      "onboard_time": 1725865219,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 153955,
@@ -2971,6 +3035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148937,
+      "num": 148937,
+      "word": "我们的歌官宣",
+      "onboard_time": 1725864500,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148914,
       "num": 148914,
       "word": "成毅致所有粉丝朋友们",
@@ -3019,6 +3091,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147375,
+      "num": 147375,
+      "word": "罗伯特大战南派三叔",
+      "onboard_time": 1725864079,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 147130,
+      "num": 147130,
+      "word": "云南3000多层梯田太仙了",
+      "onboard_time": 1725865399,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 146336,
       "num": 146336,
       "word": "梦之队玩狼人杀比谁都认真",
@@ -3033,6 +3121,14 @@
       "onboard_time": 1725860302,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144960,
+      "num": 144960,
+      "word": "妇联回应女孩爆料母亲被家暴一生",
+      "onboard_time": 1725865820,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144958,
@@ -3169,6 +3265,14 @@
       "onboard_time": 1725794239,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 141679,
+      "num": 141679,
+      "word": "司机撞人无刑责行人获刑2年半",
+      "onboard_time": 1725866119,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141016,
@@ -3339,6 +3443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131193,
+      "num": 131193,
+      "word": "教体局回应女生被同桌扎数百下",
+      "onboard_time": 1725865039,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130843,
       "num": 130843,
       "word": "秦彻 北境之主",
@@ -3427,20 +3539,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 127983,
-      "num": 127983,
-      "word": "罗伯特大战南派三叔",
-      "onboard_time": 1725864079,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127249,
       "num": 127249,
       "word": "赵露思路透",
       "onboard_time": 1725860957,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 126511,
+      "num": 126511,
+      "word": "罗永浩称管不了交个朋友卖智商税",
+      "onboard_time": 1725866419,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 126362,
@@ -4235,6 +4347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79311,
+      "num": 596691,
+      "word": "中国残奥军团94金76银50铜收官",
+      "onboard_time": 1725850279,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77138,
       "num": 77138,
       "word": "六公主报道张翰流光引",
@@ -4483,6 +4603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51778,
+      "num": 217811,
+      "word": "假冒品牌电视机白天下架夜间上架",
+      "onboard_time": 1725864500,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51207,
       "num": 204273,
       "word": "汪苏泷旷野音乐节",
@@ -4513,6 +4641,14 @@
       "onboard_time": 1725788419,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 45513,
+      "num": 250831,
+      "word": "男子直播吸食上头烟被禁毒警察看到了",
+      "onboard_time": 1725865039,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44444,
@@ -4553,14 +4689,6 @@
       "onboard_time": 1725737413,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 40542,
-      "num": 179642,
-      "word": "中国残奥军团94金76银50铜收官",
-      "onboard_time": 1725850279,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 39482,

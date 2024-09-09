@@ -1,6 +1,6 @@
 {
   "startTime": 1725812757378,
-  "endTime": 1725864336100,
+  "endTime": 1725866436493,
   "band_list": [
     {
       "raw_hot": 2254379,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1206006,
+      "num": 1149521,
+      "word": "888元一桌的婚宴鱼是生的菜是臭的",
+      "onboard_time": 1725860540,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1111476,
       "num": 296168,
       "word": "沫沫 小杨哥",
@@ -121,14 +129,6 @@
       "onboard_time": 1725854480,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 934506,
-      "num": 1149521,
-      "word": "888元一桌的婚宴鱼是生的菜是臭的",
-      "onboard_time": 1725860540,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 886977,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 659545,
+      "num": 659545,
+      "word": "女子路边摊点30颗痣后眼球被烧伤3层",
+      "onboard_time": 1725861318,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 648594,
       "num": 648594,
       "word": "300块的黑悟空30000块的装备",
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 606775,
-      "num": 437343,
+      "num": 558393,
       "word": "苗苗女儿看到螃蟹被煮后哭了",
       "onboard_time": 1725861740,
       "rank": 10,
@@ -291,12 +299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 553103,
-      "num": 553103,
-      "word": "女子路边摊点30颗痣后眼球被烧伤3层",
-      "onboard_time": 1725861318,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 557389,
+      "num": 516927,
+      "word": "章若楠新粉丝名",
+      "onboard_time": 1725864859,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 552208,
@@ -353,6 +361,14 @@
       "onboard_time": 1725846259,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 458948,
+      "num": 458948,
+      "word": "许昕恢复训练",
+      "onboard_time": 1725862940,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 437634,
@@ -459,12 +475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 314890,
-      "num": 314890,
-      "word": "许昕恢复训练",
-      "onboard_time": 1725862940,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 317275,
+      "num": 437502,
+      "word": "36元一张的学生票黄牛卖到180元",
+      "onboard_time": 1725862159,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310041,
@@ -505,6 +521,22 @@
       "onboard_time": 1725809301,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 297339,
+      "num": 318873,
+      "word": "天津警方通报一起刑事案件",
+      "onboard_time": 1725861140,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297031,
+      "num": 297031,
+      "word": "罗永浩称将自愿放弃借给锤子的2476万",
+      "onboard_time": 1725862699,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 295288,
@@ -651,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225785,
+      "num": 225784,
+      "word": "iPhone16或成苹果最具争议手机",
+      "onboard_time": 1725864378,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 225464,
       "num": 225464,
       "word": "aespa和newjeans一起合影了",
@@ -699,12 +739,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 215840,
-      "num": 215840,
-      "word": "罗永浩称将自愿放弃借给锤子的2476万",
-      "onboard_time": 1725862699,
-      "rank": 45,
-      "category": "互联网"
+      "raw_hot": 220426,
+      "num": 265552,
+      "word": "半熟男女还没播就上强度了",
+      "onboard_time": 1725860957,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 214201,
@@ -715,20 +755,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 213943,
+      "num": 213943,
+      "word": "WTT澳门冠军赛",
+      "onboard_time": 1725864019,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208898,
       "num": 208898,
       "word": "重庆高温",
       "onboard_time": 1725812237,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208481,
-      "num": 265552,
-      "word": "半熟男女还没播就上强度了",
-      "onboard_time": 1725860957,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 205708,
@@ -769,6 +809,14 @@
       "onboard_time": 1725858860,
       "rank": 43,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 203279,
+      "num": 225792,
+      "word": "登陆少年全员改认证",
+      "onboard_time": 1725865698,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 203227,
@@ -875,28 +923,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183669,
-      "num": 183669,
-      "word": "WTT澳门冠军赛",
-      "onboard_time": 1725864019,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 182573,
       "num": 182573,
       "word": "全球约3亿iPhone四年没升级",
       "onboard_time": 1725857361,
       "rank": 39,
       "category": "数码"
-    },
-    {
-      "raw_hot": 182528,
-      "num": 308143,
-      "word": "天津警方通报一起刑事案件",
-      "onboard_time": 1725861140,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181249,
@@ -971,14 +1003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170331,
-      "num": 437502,
-      "word": "36元一张的学生票黄牛卖到180元",
-      "onboard_time": 1725862159,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169121,
       "num": 169121,
       "word": "纽约时装周",
@@ -1019,12 +1043,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 162123,
+      "num": 162123,
+      "word": "王皓的赛场秘诀原来是这样的",
+      "onboard_time": 1725865280,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 160929,
+      "num": 160929,
+      "word": "消防员的接力赛用上了十八般武艺",
+      "onboard_time": 1725865519,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160548,
       "num": 160548,
       "word": "C罗绝杀",
       "onboard_time": 1725837977,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160367,
+      "num": 160367,
+      "word": "王俊凯说再不打一会愈合了",
+      "onboard_time": 1725866119,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 160208,
@@ -1059,6 +1107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158168,
+      "num": 158168,
+      "word": "星穹铁道飞霄PV",
+      "onboard_time": 1725865459,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158039,
       "num": 158039,
       "word": "颖儿生完孩子三个月就拍戏了",
@@ -1073,6 +1129,14 @@
       "onboard_time": 1725853938,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154447,
+      "num": 154447,
+      "word": "黎深 抵达稚梦",
+      "onboard_time": 1725865219,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 153788,
@@ -1107,6 +1171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148937,
+      "num": 148937,
+      "word": "我们的歌官宣",
+      "onboard_time": 1725864500,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148036,
       "num": 148036,
       "word": "黄景瑜拍雪迷宫干了两千多鸡架",
@@ -1131,6 +1203,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147375,
+      "num": 147375,
+      "word": "罗伯特大战南派三叔",
+      "onboard_time": 1725864079,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 147130,
+      "num": 147130,
+      "word": "云南3000多层梯田太仙了",
+      "onboard_time": 1725865399,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 146864,
       "num": 146864,
       "word": "孙卓首度回应报考南工大原因",
@@ -1153,6 +1241,14 @@
       "onboard_time": 1725860302,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144960,
+      "num": 144960,
+      "word": "妇联回应女孩爆料母亲被家暴一生",
+      "onboard_time": 1725865820,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144958,
@@ -1219,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141679,
+      "num": 141679,
+      "word": "司机撞人无刑责行人获刑2年半",
+      "onboard_time": 1725866119,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139890,
       "num": 139890,
       "word": "外卖小哥带娃抗癌被剐蹭车主反手转2千",
@@ -1267,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131193,
+      "num": 131193,
+      "word": "教体局回应女生被同桌扎数百下",
+      "onboard_time": 1725865039,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130123,
       "num": 130123,
       "word": "理个发而已为啥这么贵",
@@ -1307,20 +1419,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 127983,
-      "num": 127983,
-      "word": "罗伯特大战南派三叔",
-      "onboard_time": 1725864079,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127249,
       "num": 127249,
       "word": "赵露思路透",
       "onboard_time": 1725860957,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 126511,
+      "num": 126511,
+      "word": "罗永浩称管不了交个朋友卖智商税",
+      "onboard_time": 1725866419,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 125704,
@@ -1563,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79311,
+      "num": 596691,
+      "word": "中国残奥军团94金76银50铜收官",
+      "onboard_time": 1725850279,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77731,
       "num": 77731,
       "word": "张雨绮 不是长得丑就不是渣男",
@@ -1723,6 +1843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51778,
+      "num": 217811,
+      "word": "假冒品牌电视机白天下架夜间上架",
+      "onboard_time": 1725864500,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50731,
       "num": 382884,
       "word": "一句古诗适配秋天",
@@ -1739,6 +1867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 45513,
+      "num": 250831,
+      "word": "男子直播吸食上头烟被禁毒警察看到了",
+      "onboard_time": 1725865039,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45181,
       "num": 76203,
       "word": "网传重庆9月降雪消息不属实",
@@ -1753,14 +1889,6 @@
       "onboard_time": 1725802581,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 40542,
-      "num": 179642,
-      "word": "中国残奥军团94金76银50铜收官",
-      "onboard_time": 1725850279,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 38336,
