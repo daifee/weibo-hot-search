@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725855936690,
+  "endTime": 1725856782436,
   "band_list": [
     {
       "raw_hot": 2331163,
@@ -83,6 +83,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1476115,
+      "num": 788581,
+      "word": "垃圾站旁的脏外卖背刺了多少打工人",
+      "onboard_time": 1725848358,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1474796,
       "num": 1474796,
       "word": "金靖宣布停工待产",
@@ -131,14 +139,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1252371,
-      "num": 787429,
-      "word": "垃圾站旁的脏外卖背刺了多少打工人",
-      "onboard_time": 1725848358,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1242122,
       "num": 1242122,
       "word": "公司订51份黄焖鸡米饭超20人中毒",
@@ -160,6 +160,14 @@
       "word": "小杨哥妈妈改简介",
       "onboard_time": 1725795139,
       "rank": 22,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 1076125,
+      "num": 398462,
+      "word": "辛巴 小杨哥",
+      "onboard_time": 1725855200,
+      "rank": 20,
       "category": "网红"
     },
     {
@@ -235,11 +243,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 953649,
+      "num": 744907,
+      "word": "苏可杨洋二胎",
+      "onboard_time": 1725854480,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 932407,
       "num": 1149185,
       "word": "刘梓晨为赵露思发声",
       "onboard_time": 1725786860,
       "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 928024,
+      "num": 928024,
+      "word": "杨洋素颜被偶遇",
+      "onboard_time": 1725855560,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -376,6 +400,14 @@
       "word": "多地报告上半年出生人口增加",
       "onboard_time": 1725762319,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 705660,
+      "num": 705660,
+      "word": "月薪几万才能吃到靠谱干净的外卖",
+      "onboard_time": 1725853879,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -523,14 +555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 558362,
-      "num": 558362,
-      "word": "苏可杨洋二胎",
-      "onboard_time": 1725854480,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 555256,
       "num": 555256,
       "word": "金靖怀孕九个月状态",
@@ -569,14 +593,6 @@
       "onboard_time": 1725723981,
       "rank": 12,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 536949,
-      "num": 536949,
-      "word": "月薪几万才能吃到靠谱干净的外卖",
-      "onboard_time": 1725853879,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 536676,
@@ -635,12 +651,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 504820,
-      "num": 402650,
-      "word": "杨洋素颜被偶遇",
-      "onboard_time": 1725855560,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 504634,
+      "num": 504634,
+      "word": "邓恩熙不会吻 丁禹兮不敢吻",
+      "onboard_time": 1725854659,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 499262,
@@ -745,14 +761,6 @@
       "onboard_time": 1725775819,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 446386,
-      "num": 398462,
-      "word": "辛巴 小杨哥",
-      "onboard_time": 1725855200,
-      "rank": 20,
-      "category": "网红"
     },
     {
       "raw_hot": 443716,
@@ -899,14 +907,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 401377,
-      "num": 401377,
-      "word": "邓恩熙不会吻 丁禹兮不敢吻",
-      "onboard_time": 1725854659,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 400586,
       "num": 326082,
       "word": "盛李豪回母校被学弟贴脸开大",
@@ -961,6 +961,22 @@
       "onboard_time": 1725798619,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377469,
+      "num": 402656,
+      "word": "檀健次居然还有个妹妹",
+      "onboard_time": 1725855381,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 377445,
+      "num": 254949,
+      "word": "赵丽颖带想想现身公园玩沙子",
+      "onboard_time": 1725856040,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 373423,
@@ -1131,6 +1147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 314210,
+      "num": 314210,
+      "word": "男子疑酒后当街调戏暴打女子",
+      "onboard_time": 1725855080,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312483,
       "num": 312483,
       "word": "赵丽颖还给张碧晨录了视频",
@@ -1148,7 +1172,7 @@
     },
     {
       "raw_hot": 310026,
-      "num": 611650,
+      "num": 675115,
       "word": "孙颖莎王曼昱奥运后首秀来了",
       "onboard_time": 1725849258,
       "rank": 22,
@@ -1224,14 +1248,6 @@
       "word": "曾舜晞经纪人和吴宣仪是同学",
       "onboard_time": 1725727518,
       "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 285282,
-      "num": 402656,
-      "word": "檀健次居然还有个妹妹",
-      "onboard_time": 1725855381,
-      "rank": 17,
       "category": "综艺"
     },
     {
@@ -1331,6 +1347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 266274,
+      "num": 219293,
+      "word": "烟卡",
+      "onboard_time": 1725855500,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262608,
       "num": 261995,
       "word": "虞书欣终于想起来她是个歌手了",
@@ -1345,6 +1369,14 @@
       "onboard_time": 1725778818,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256082,
+      "num": 256082,
+      "word": "iPhone16爆料",
+      "onboard_time": 1725855260,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 255512,
@@ -1555,6 +1587,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224784,
+      "num": 224784,
+      "word": "不拔智齿的人会后悔的",
+      "onboard_time": 1725855381,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 223602,
+      "num": 223602,
+      "word": "时差五小时",
+      "onboard_time": 1725855859,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 223001,
       "num": 223001,
       "word": "华为新机价格已被炒至2万元",
@@ -1707,30 +1755,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 207538,
-      "num": 207538,
-      "word": "烟卡",
-      "onboard_time": 1725855500,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207338,
-      "num": 207338,
-      "word": "男子疑酒后当街调戏暴打女子",
-      "onboard_time": 1725855080,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206514,
-      "num": 206514,
-      "word": "不拔智齿的人会后悔的",
-      "onboard_time": 1725855381,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 206436,
       "num": 184717,
       "word": "岳云鹏让纪凌尘说话别带英文",
@@ -1849,6 +1873,14 @@
       "onboard_time": 1725773780,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 199233,
+      "num": 670395,
+      "word": "中国天气预报太超前火到国外",
+      "onboard_time": 1725855320,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199177,
@@ -2163,6 +2195,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177683,
+      "num": 219492,
+      "word": "乒乓球比赛不能穿什么颜色衣服",
+      "onboard_time": 1725855020,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 177570,
+      "num": 177570,
+      "word": "国足",
+      "onboard_time": 1725856581,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176074,
       "num": 176074,
       "word": "王安宇叫田曦薇伴侣吓到杨迪",
@@ -2219,14 +2267,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 173046,
-      "num": 173046,
-      "word": "乒乓球比赛不能穿什么颜色衣服",
-      "onboard_time": 1725855020,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 172784,
       "num": 172784,
       "word": "欲买桂花同载酒 终不似少年游",
@@ -2257,14 +2297,6 @@
       "onboard_time": 1725778639,
       "rank": 24,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 170304,
-      "num": 170304,
-      "word": "中国天气预报太超前火到国外",
-      "onboard_time": 1725855320,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169320,
@@ -2323,14 +2355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167357,
-      "num": 167357,
-      "word": "时差五小时",
-      "onboard_time": 1725855859,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 167294,
       "num": 167294,
       "word": "超192万人盲订华为三折叠手机",
@@ -2387,6 +2411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166116,
+      "num": 166116,
+      "word": "iPhone16仍有4款型号",
+      "onboard_time": 1725855921,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 165119,
       "num": 165119,
       "word": "高卿尘高中瘦了15公斤被6个人追",
@@ -2425,6 +2457,14 @@
       "onboard_time": 1725839418,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 162625,
+      "num": 162625,
+      "word": "点奶茶不请同事尴尬吗",
+      "onboard_time": 1725856581,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 162147,
@@ -2523,14 +2563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156858,
-      "num": 156858,
-      "word": "iPhone16爆料",
-      "onboard_time": 1725855260,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
       "raw_hot": 156717,
       "num": 156717,
       "word": "国足打沙特大概率还是付费直播",
@@ -2587,12 +2619,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153788,
+      "num": 153788,
+      "word": "黄景瑜直播",
+      "onboard_time": 1725856401,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153500,
       "num": 153500,
       "word": "时代少年团楼间楼DVD花絮",
       "onboard_time": 1725769040,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 153470,
+      "num": 153470,
+      "word": "黑悟空遭第八十二难谁来降妖除魔",
+      "onboard_time": 1725855800,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 153183,
@@ -2707,14 +2755,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 146062,
-      "num": 146062,
-      "word": "iPhone16仍有4款型号",
-      "onboard_time": 1725855921,
-      "rank": 47,
-      "category": "数码"
-    },
-    {
       "raw_hot": 144958,
       "num": 144958,
       "word": "拒绝不了动物硬要表演",
@@ -2763,12 +2803,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144203,
-      "num": 144203,
-      "word": "黑悟空遭第八十二难谁来降妖除魔",
-      "onboard_time": 1725855800,
-      "rank": 49,
-      "category": "游戏"
+      "raw_hot": 143635,
+      "num": 143635,
+      "word": "导演怎么想到找曾黎演这个角色的",
+      "onboard_time": 1725855381,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 143618,
@@ -2801,6 +2841,14 @@
       "onboard_time": 1725780380,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141870,
+      "num": 141870,
+      "word": "雪迷宫 乡村版破云",
+      "onboard_time": 1725856761,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 141759,

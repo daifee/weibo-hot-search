@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725855936690,
+  "endTime": 1725856782436,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -835,6 +835,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1476115,
+      "num": 788581,
+      "word": "垃圾站旁的脏外卖背刺了多少打工人",
+      "onboard_time": 1725848358,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1474809,
       "num": 1474809,
       "word": "樊振东王楚钦睡了一路",
@@ -1211,14 +1219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1252371,
-      "num": 787429,
-      "word": "垃圾站旁的脏外卖背刺了多少打工人",
-      "onboard_time": 1725848358,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1252098,
       "num": 514868,
       "word": "黄多多读的是纽约大学",
@@ -1579,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1076125,
+      "num": 1382656,
+      "word": "辛巴 小杨哥",
+      "onboard_time": 1725320177,
+      "rank": 1,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1075367,
       "num": 1028971,
       "word": "东平佛山中学回应校外发生车祸",
@@ -1769,14 +1777,6 @@
       "onboard_time": 1725200000,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1029306,
-      "num": 1382656,
-      "word": "辛巴 小杨哥",
-      "onboard_time": 1725320177,
-      "rank": 1,
-      "category": "网红"
     },
     {
       "raw_hot": 1023188,
@@ -2003,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 953649,
+      "num": 744907,
+      "word": "苏可杨洋二胎",
+      "onboard_time": 1725854480,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 953346,
       "num": 953346,
       "word": "文昌",
@@ -2129,6 +2137,14 @@
       "onboard_time": 1725151158,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 928024,
+      "num": 928024,
+      "word": "杨洋素颜被偶遇",
+      "onboard_time": 1725855560,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 927580,
@@ -3275,6 +3291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 705660,
+      "num": 705660,
+      "word": "月薪几万才能吃到靠谱干净的外卖",
+      "onboard_time": 1725853879,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 705077,
       "num": 761737,
       "word": "一针瘦20斤网红神药开始在县城流行",
@@ -4347,14 +4371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 558362,
-      "num": 558362,
-      "word": "苏可杨洋二胎",
-      "onboard_time": 1725854480,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 555271,
       "num": 555271,
       "word": "孙颖莎给我签一下",
@@ -4576,14 +4592,6 @@
       "word": "因拒饮酒被男子扇耳光闺蜜劝和解",
       "onboard_time": 1725439221,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 536949,
-      "num": 536949,
-      "word": "月薪几万才能吃到靠谱干净的外卖",
-      "onboard_time": 1725853879,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -4955,12 +4963,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 504820,
-      "num": 402650,
-      "word": "杨洋素颜被偶遇",
-      "onboard_time": 1725855560,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 504634,
+      "num": 504634,
+      "word": "邓恩熙不会吻 丁禹兮不敢吻",
+      "onboard_time": 1725854659,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 504202,
@@ -6203,14 +6211,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 401377,
-      "num": 401377,
-      "word": "邓恩熙不会吻 丁禹兮不敢吻",
-      "onboard_time": 1725854659,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 400798,
       "num": 416308,
       "word": "中国人民抗战胜利79周年",
@@ -6457,6 +6457,22 @@
       "onboard_time": 1725329059,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377469,
+      "num": 402656,
+      "word": "檀健次居然还有个妹妹",
+      "onboard_time": 1725855381,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 377445,
+      "num": 254949,
+      "word": "赵丽颖带想想现身公园玩沙子",
+      "onboard_time": 1725856040,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 376064,
@@ -7379,6 +7395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 314210,
+      "num": 314210,
+      "word": "男子疑酒后当街调戏暴打女子",
+      "onboard_time": 1725855080,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314127,
       "num": 314127,
       "word": "广州地铁",
@@ -7436,7 +7460,7 @@
     },
     {
       "raw_hot": 310026,
-      "num": 611650,
+      "num": 675115,
       "word": "孙颖莎王曼昱奥运后首秀来了",
       "onboard_time": 1725849258,
       "rank": 22,
@@ -8019,14 +8043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 285282,
-      "num": 402656,
-      "word": "檀健次居然还有个妹妹",
-      "onboard_time": 1725855381,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 284875,
       "num": 284875,
       "word": "贾一凡为了再次港澳行要去洛杉矶",
@@ -8571,6 +8587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266274,
+      "num": 219293,
+      "word": "烟卡",
+      "onboard_time": 1725855500,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266206,
       "num": 266206,
       "word": "台独骨干杨智渊被判9年",
@@ -8889,6 +8913,14 @@
       "onboard_time": 1725543504,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 256082,
+      "num": 256082,
+      "word": "iPhone16爆料",
+      "onboard_time": 1725855260,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 255865,
@@ -10051,6 +10083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 224784,
+      "num": 224784,
+      "word": "不拔智齿的人会后悔的",
+      "onboard_time": 1725855381,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 224663,
       "num": 224663,
       "word": "郑思维香港第二天vlog",
@@ -10113,6 +10153,14 @@
       "onboard_time": 1725631283,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223602,
+      "num": 223602,
+      "word": "时差五小时",
+      "onboard_time": 1725855859,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 223393,
@@ -10979,28 +11027,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 207538,
-      "num": 207538,
-      "word": "烟卡",
-      "onboard_time": 1725855500,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207435,
       "num": 207435,
       "word": "祁煜长思入画",
       "onboard_time": 1725681501,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 207338,
-      "num": 207338,
-      "word": "男子疑酒后当街调戏暴打女子",
-      "onboard_time": 1725855080,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207257,
@@ -11073,14 +11105,6 @@
       "onboard_time": 1725252442,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206514,
-      "num": 206514,
-      "word": "不拔智齿的人会后悔的",
-      "onboard_time": 1725855381,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 206436,
@@ -11737,6 +11761,14 @@
       "onboard_time": 1725714320,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 199233,
+      "num": 670395,
+      "word": "中国天气预报太超前火到国外",
+      "onboard_time": 1725855320,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199190,
@@ -14147,6 +14179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177683,
+      "num": 219492,
+      "word": "乒乓球比赛不能穿什么颜色衣服",
+      "onboard_time": 1725855020,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177630,
       "num": 177630,
       "word": "陈奕迅有自己的公交车",
@@ -14739,14 +14779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173046,
-      "num": 173046,
-      "word": "乒乓球比赛不能穿什么颜色衣服",
-      "onboard_time": 1725855020,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 172956,
       "num": 172956,
       "word": "四方馆",
@@ -15001,14 +15033,6 @@
       "onboard_time": 1725436460,
       "rank": 39,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 170304,
-      "num": 170304,
-      "word": "中国天气预报太超前火到国外",
-      "onboard_time": 1725855320,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170213,
@@ -15323,14 +15347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167357,
-      "num": 167357,
-      "word": "时差五小时",
-      "onboard_time": 1725855859,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 167353,
       "num": 362957,
       "word": "官方通报刘谦团队腹泻事件",
@@ -15497,6 +15513,14 @@
       "onboard_time": 1725425961,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 166116,
+      "num": 166116,
+      "word": "iPhone16仍有4款型号",
+      "onboard_time": 1725855921,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 166019,
@@ -15881,6 +15905,14 @@
       "onboard_time": 1725515600,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162625,
+      "num": 162625,
+      "word": "点奶茶不请同事尴尬吗",
+      "onboard_time": 1725856581,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 162602,
@@ -16579,14 +16611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156858,
-      "num": 156858,
-      "word": "iPhone16爆料",
-      "onboard_time": 1725855260,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
       "raw_hot": 156849,
       "num": 156849,
       "word": "85后的她获赠560亿元",
@@ -17003,6 +17027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153788,
+      "num": 153788,
+      "word": "黄景瑜直播",
+      "onboard_time": 1725856401,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153653,
       "num": 153653,
       "word": "幸好央视没转",
@@ -17065,6 +17097,14 @@
       "onboard_time": 1725692659,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153470,
+      "num": 153470,
+      "word": "黑悟空遭第八十二难谁来降妖除魔",
+      "onboard_time": 1725855800,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 153284,
@@ -17755,14 +17795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146062,
-      "num": 146062,
-      "word": "iPhone16仍有4款型号",
-      "onboard_time": 1725855921,
-      "rank": 47,
-      "category": "数码"
-    },
-    {
       "raw_hot": 146025,
       "num": 146025,
       "word": "潘展乐贴脸开大记者",
@@ -18019,14 +18051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144203,
-      "num": 144203,
-      "word": "黑悟空遭第八十二难谁来降妖除魔",
-      "onboard_time": 1725855800,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 143839,
       "num": 141306,
       "word": "国足今晚18强赛首战日本",
@@ -18049,6 +18073,14 @@
       "onboard_time": 1725715161,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 143635,
+      "num": 143635,
+      "word": "导演怎么想到找曾黎演这个角色的",
+      "onboard_time": 1725855381,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 143618,
@@ -18209,6 +18241,14 @@
       "onboard_time": 1725780380,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141870,
+      "num": 141870,
+      "word": "雪迷宫 乡村版破云",
+      "onboard_time": 1725856761,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 141812,
