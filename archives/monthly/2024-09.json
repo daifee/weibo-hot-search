@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725838543975,
+  "endTime": 1725845964016,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -1211,6 +1211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1242122,
+      "num": 1242122,
+      "word": "公司订51份黄焖鸡米饭超20人中毒",
+      "onboard_time": 1725840318,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1231955,
       "num": 1231955,
       "word": "汪涵怎么突然老了这么多",
@@ -1769,6 +1777,14 @@
       "onboard_time": 1725327619,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1014233,
+      "num": 1014233,
+      "word": "赵露思 没有办法总是这样",
+      "onboard_time": 1725839418,
+      "rank": 1,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1014062,
@@ -3011,6 +3027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 746779,
+      "num": 746779,
+      "word": "19岁学生因iPhone进水不保修起诉苹果",
+      "onboard_time": 1725842001,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 743255,
       "num": 307990,
       "word": "容易出汗的人排查一下4种病",
@@ -3563,6 +3587,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 648594,
+      "num": 648594,
+      "word": "300块的黑悟空30000块的装备",
+      "onboard_time": 1725841640,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 647861,
       "num": 888191,
       "word": "赵丽颖新片爆裂打拐",
@@ -3795,6 +3827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 614744,
+      "num": 614744,
+      "word": "孙卓寻人启事10年前曾出现在南工大",
+      "onboard_time": 1725840318,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 613393,
       "num": 613393,
       "word": "覃海洋 实力唱将团下次还唱",
@@ -3929,6 +3969,14 @@
       "onboard_time": 1725326359,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 597216,
+      "num": 597216,
+      "word": "毛泽东逝世48周年",
+      "onboard_time": 1725839178,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 595914,
@@ -5827,6 +5875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 412647,
+      "num": 217417,
+      "word": "马上就要到我最恨的季节了",
+      "onboard_time": 1725841579,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 412224,
       "num": 529420,
       "word": "刘亦菲提裙踮脚跑",
@@ -6027,6 +6083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395916,
+      "num": 395916,
+      "word": "男子称两千七的家庭跟团游体验太差",
+      "onboard_time": 1725842359,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395606,
       "num": 391885,
       "word": "蔡依林两年吃了二百多道菜",
@@ -6049,6 +6113,14 @@
       "onboard_time": 1725237500,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 392309,
+      "num": 392309,
+      "word": "女子被醉酒丈夫家暴女儿哭求不要",
+      "onboard_time": 1725840080,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 392261,
@@ -6825,6 +6897,14 @@
       "onboard_time": 1725341122,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 333219,
+      "num": 333219,
+      "word": "NINEPERCENT QQ音乐",
+      "onboard_time": 1725842240,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 332158,
@@ -7979,6 +8059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277034,
+      "num": 277034,
+      "word": "没有班味的工作有多香",
+      "onboard_time": 1725845059,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 276026,
       "num": 276026,
       "word": "这5类人喝咖啡格外受益",
@@ -8979,6 +9067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 245143,
+      "num": 211441,
+      "word": "猫 你说这水怎么这么好喝",
+      "onboard_time": 1725844999,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 244893,
       "num": 244893,
       "word": "30岁当上奶奶是什么体验",
@@ -9409,6 +9505,14 @@
       "onboard_time": 1725355042,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234659,
+      "num": 234659,
+      "word": "特朗普扬言对不用美元国家征100%税",
+      "onboard_time": 1725844999,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 234457,
@@ -10395,6 +10499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210329,
+      "num": 210329,
+      "word": "华为新机价格已被炒至2万元",
+      "onboard_time": 1725841579,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 210183,
       "num": 583516,
       "word": "伊朗总统坠机事故原因公布",
@@ -10819,6 +10931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205708,
+      "num": 205708,
+      "word": "久坐的人臀部会失忆",
+      "onboard_time": 1725818773,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 205686,
       "num": 335211,
       "word": "但拓还没死郭麒麟就哭抽了",
@@ -11195,6 +11315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200783,
+      "num": 219907,
+      "word": "吴宣仪苞娜合照",
+      "onboard_time": 1725839238,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200766,
       "num": 200766,
       "word": "开学第一天",
@@ -11321,6 +11449,14 @@
       "onboard_time": 1725773780,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 199505,
+      "num": 199505,
+      "word": "WTT赛程",
+      "onboard_time": 1725841762,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 199459,
@@ -13331,6 +13467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181249,
+      "num": 181249,
+      "word": "Jennie10月solo回归",
+      "onboard_time": 1725841100,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 181232,
       "num": 181232,
       "word": "张晚意郁锦新造型",
@@ -15283,6 +15427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163351,
+      "num": 163351,
+      "word": "iPhone16有哪些看点",
+      "onboard_time": 1725839418,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 163324,
       "num": 163324,
       "word": "文淇好贴陈朵",
@@ -15608,6 +15760,14 @@
       "word": "张雨霏最喜欢的运动员是郑钦文",
       "onboard_time": 1725370880,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 160548,
+      "num": 160548,
+      "word": "C罗绝杀",
+      "onboard_time": 1725837977,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -17035,6 +17195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147937,
+      "num": 147937,
+      "word": "2米高iPhone造价7万美元",
+      "onboard_time": 1725844099,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 147922,
       "num": 147922,
       "word": "张玉宁回应中日足球差距",
@@ -17137,6 +17305,14 @@
       "onboard_time": 1725690319,
       "rank": 39,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 147086,
+      "num": 147086,
+      "word": "加沙12岁女孩的课本被用来生火",
+      "onboard_time": 1725844280,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 147010,
@@ -17353,6 +17529,14 @@
       "onboard_time": 1725362601,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144958,
+      "num": 144958,
+      "word": "拒绝不了动物硬要表演",
+      "onboard_time": 1725842779,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 144911,
@@ -18459,6 +18643,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 130123,
+      "num": 130123,
+      "word": "理个发而已为啥这么贵",
+      "onboard_time": 1725840918,
+      "rank": 36,
+      "category": "美妆,幽默"
+    },
+    {
       "raw_hot": 130107,
       "num": 130107,
       "word": "张晚意这个摇头",
@@ -18729,14 +18921,6 @@
       "onboard_time": 1725183138,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127099,
-      "num": 127099,
-      "word": "久坐的人臀部会失忆",
-      "onboard_time": 1725818773,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 126792,
@@ -19619,6 +19803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 112781,
+      "num": 112781,
+      "word": "酸奶刺客正在悄悄打折",
+      "onboard_time": 1725840318,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 112207,
       "num": 112207,
       "word": "郑钦文今年大满贯成绩",
@@ -19648,6 +19840,22 @@
       "word": "娃哈哈否认遭多名前员工起诉",
       "onboard_time": 1725691039,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111387,
+      "num": 111387,
+      "word": "教资准考证",
+      "onboard_time": 1725845478,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 111318,
+      "num": 111318,
+      "word": "网约车乘客开门杀致人受伤扭头就走",
+      "onboard_time": 1725845297,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -19731,6 +19939,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 109493,
+      "num": 109493,
+      "word": "一觉醒来要和巴黎残奥说再见了",
+      "onboard_time": 1725845838,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109467,
       "num": 109467,
       "word": "妈妈朋友的儿子",
@@ -19777,6 +19993,14 @@
       "onboard_time": 1725676879,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108415,
+      "num": 108415,
+      "word": "红楼梦 琐碎",
+      "onboard_time": 1725845718,
+      "rank": 42,
+      "category": "读书作家"
     },
     {
       "raw_hot": 108262,
@@ -19833,6 +20057,14 @@
       "onboard_time": 1725665115,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106763,
+      "num": 106763,
+      "word": "陈楚生把整个成都都唱嗨了",
+      "onboard_time": 1725843981,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 106551,
@@ -20051,6 +20283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100185,
+      "num": 100185,
+      "word": "巴黎残奥会这些感动会久留于心",
+      "onboard_time": 1725845838,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100106,
       "num": 100106,
       "word": "姆巴佩梅开二度",
@@ -20131,6 +20371,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 98593,
+      "num": 393867,
+      "word": "读了冷门专业没跑后来成了院士",
+      "onboard_time": 1725844639,
+      "rank": 9,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 98317,
       "num": 97528,
       "word": "薛之谦租购完整的故事",
@@ -20145,6 +20393,14 @@
       "onboard_time": 1725605901,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98085,
+      "num": 98085,
+      "word": "徐明浩金发大背头",
+      "onboard_time": 1725841579,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 97816,
@@ -20193,6 +20449,14 @@
       "onboard_time": 1725643214,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 96974,
+      "num": 96974,
+      "word": "张远马雪阳互动",
+      "onboard_time": 1725844398,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 96699,
@@ -20785,14 +21049,6 @@
       "onboard_time": 1725377660,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 77966,
-      "num": 77966,
-      "word": "C罗绝杀",
-      "onboard_time": 1725837977,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 77138,
@@ -22732,7 +22988,7 @@
     },
     {
       "raw_hot": 37196,
-      "num": 475640,
+      "num": 795437,
       "word": "1790位教育工作者教师节前受表彰",
       "onboard_time": 1725801379,
       "rank": 30,
