@@ -1,0 +1,410 @@
+{
+  "runTime": 1725850753126,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 827984,
+        "num": 1132477,
+        "word": "赵露思 没有办法总是这样",
+        "onboard_time": 1725839418,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1065384,
+        "num": 1065384,
+        "word": "网约车乘客开门杀致人受伤扭头就走",
+        "onboard_time": 1725845297,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18909,
+        "num": 824881,
+        "word": "2024年国家网络安全宣传周",
+        "onboard_time": 1725765617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 762256,
+        "num": 762256,
+        "word": "毛主席在开国大典上开心一笑",
+        "onboard_time": 1725846738,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 698298,
+        "num": 698298,
+        "word": "K总 我们生长在红旗下",
+        "onboard_time": 1725847457,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 658680,
+        "num": 658680,
+        "word": "公司订51份黄焖鸡米饭超20人中毒",
+        "onboard_time": 1725840318,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 633247,
+        "num": 633247,
+        "word": "卢昱晓 刁蛮俏公主",
+        "onboard_time": 1725847938,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 573585,
+        "num": 573585,
+        "word": "B太为2元面馆捐一年酱油",
+        "onboard_time": 1725847099,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541858,
+        "num": 541858,
+        "word": "毛泽东逝世48周年",
+        "onboard_time": 1725839178,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 246442,
+        "num": 479913,
+        "word": "孙颖莎王曼昱奥运后首秀来了",
+        "onboard_time": 1725849258,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1644420,
+        "num": 470709,
+        "word": "避谶",
+        "onboard_time": 1725847338,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432810,
+        "num": 432810,
+        "word": "19岁学生因iPhone进水不保修起诉苹果",
+        "onboard_time": 1725842001,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 415778,
+        "num": 415778,
+        "word": "张峻豪 给妹妹改造一下",
+        "onboard_time": 1725803420,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 232690,
+        "num": 347497,
+        "word": "垃圾站旁的脏外卖背刺了多少打工人",
+        "onboard_time": 1725848358,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56862,
+        "num": 327534,
+        "word": "牛约堡成脏乱堡怪消费者过度夸张",
+        "onboard_time": 1725849198,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324090,
+        "num": 324090,
+        "word": "金秀贤听到粉丝喊金智媛的反应",
+        "onboard_time": 1725847037,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260754,
+        "num": 305201,
+        "word": "2023年全国彩票17.78亿奖金未兑",
+        "onboard_time": 1725847158,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295288,
+        "num": 295288,
+        "word": "剑网3",
+        "onboard_time": 1725848659,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 288472,
+        "num": 288472,
+        "word": "男子称两千七的家庭跟团游体验太差",
+        "onboard_time": 1725842359,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228420,
+        "num": 264885,
+        "word": "吴昕把皮裙塞裤子里腰还这么细",
+        "onboard_time": 1725805728,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 480849,
+        "num": 264852,
+        "word": "有6个习惯的人甲状腺都比较好",
+        "onboard_time": 1725846259,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 262043,
+        "num": 262043,
+        "word": "iPhone16Pro预计维持999美元起价",
+        "onboard_time": 1725846499,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 243821,
+        "num": 243821,
+        "word": "300块的黑悟空30000块的装备",
+        "onboard_time": 1725841640,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 234686,
+        "num": 234686,
+        "word": "00后女军士荣立一等功",
+        "onboard_time": 1725847219,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209950,
+        "num": 209950,
+        "word": "猫 你说这水怎么这么好喝",
+        "onboard_time": 1725844999,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202729,
+        "num": 202729,
+        "word": "马上就要到我最恨的季节了",
+        "onboard_time": 1725841579,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57917,
+        "num": 187800,
+        "word": "年轻人的moveon文化火了",
+        "onboard_time": 1725849678,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184800,
+        "num": 184800,
+        "word": "张翰谈时隔7年再演古装剧",
+        "onboard_time": 1725820512,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165864,
+        "num": 183021,
+        "word": "时代峰峻回应周边发货地争议",
+        "onboard_time": 1725847037,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162051,
+        "num": 180882,
+        "word": "头回见是男主的青梅遇上天降的",
+        "onboard_time": 1725846618,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40542,
+        "num": 179642,
+        "word": "中国残奥军团94金76银50铜收官",
+        "onboard_time": 1725850279,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185977,
+        "num": 177689,
+        "word": "王楚钦梁靖崑说男队许昕最e",
+        "onboard_time": 1725849978,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175973,
+        "num": 175973,
+        "word": "加沙12岁女孩的课本被用来生火",
+        "onboard_time": 1725844280,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 174124,
+        "num": 174124,
+        "word": "猫咖员工招揽生意",
+        "onboard_time": 1725849737,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167113,
+        "num": 167113,
+        "word": "山东大学34岁博导突发心梗离世",
+        "onboard_time": 1725806181,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165745,
+        "num": 165745,
+        "word": "久坐的人臀部会失忆",
+        "onboard_time": 1725818773,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159395,
+        "num": 159395,
+        "word": "NINEPERCENT QQ音乐",
+        "onboard_time": 1725842240,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159027,
+        "num": 159027,
+        "word": "孙卓寻人启事10年前曾出现在南工大",
+        "onboard_time": 1725840318,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151269,
+        "num": 151269,
+        "word": "小孩哥写信打抱不平受邀入住北京饭店",
+        "onboard_time": 1725846499,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149419,
+        "num": 149419,
+        "word": "A股",
+        "onboard_time": 1725846499,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 147540,
+        "num": 147540,
+        "word": "教资准考证",
+        "onboard_time": 1725845478,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146732,
+        "num": 146732,
+        "word": "莫奈巨作睡莲将在香港拍卖",
+        "onboard_time": 1725850219,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145394,
+        "num": 145394,
+        "word": "读了冷门专业没跑后来成了院士",
+        "onboard_time": 1725844639,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 135362,
+        "num": 135362,
+        "word": "严屹宽最勇敢的儿子是庆怜",
+        "onboard_time": 1725848838,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133384,
+        "num": 133384,
+        "word": "女子被醉酒丈夫家暴女儿哭求不要",
+        "onboard_time": 1725840080,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128942,
+        "num": 128942,
+        "word": "美媒称别对iPhone16抱太大希望",
+        "onboard_time": 1725847099,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 22116,
+        "num": 115795,
+        "word": "1790位教育工作者教师节前受表彰",
+        "onboard_time": 1725801379,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115213,
+        "num": 115213,
+        "word": "华为新机预约人数一天突破200万",
+        "onboard_time": 1725847338,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 114749,
+        "num": 114749,
+        "word": "华为新机价格已被炒至2万元",
+        "onboard_time": 1725841579,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 114624,
+        "num": 114624,
+        "word": "小朋友玩烟卡遭3名小孩飞车抢卡",
+        "onboard_time": 1725850698,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民教师无上光荣#"
+    }
+  }
+}

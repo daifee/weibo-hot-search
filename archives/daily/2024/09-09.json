@@ -1,9 +1,9 @@
 {
   "startTime": 1725812757378,
-  "endTime": 1725850216990,
+  "endTime": 1725850753126,
   "band_list": [
     {
-      "raw_hot": 1584122,
+      "raw_hot": 1644420,
       "num": 473133,
       "word": "避谶",
       "onboard_time": 1725847338,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1065384,
+      "num": 1149206,
+      "word": "网约车乘客开门杀致人受伤扭头就走",
+      "onboard_time": 1725845297,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1038451,
       "num": 1038451,
       "word": "央视曝光空挂学籍乱象",
@@ -28,19 +36,11 @@
     },
     {
       "raw_hot": 1014233,
-      "num": 1014233,
+      "num": 1132477,
       "word": "赵露思 没有办法总是这样",
       "onboard_time": 1725839418,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 932538,
-      "num": 1149206,
-      "word": "网约车乘客开门杀致人受伤扭头就走",
-      "onboard_time": 1725845297,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 886977,
@@ -59,16 +59,16 @@
       "category": "数码"
     },
     {
-      "raw_hot": 742232,
-      "num": 742232,
+      "raw_hot": 762256,
+      "num": 762256,
       "word": "毛主席在开国大典上开心一笑",
       "onboard_time": 1725846738,
       "rank": 42,
       "category": "国内时政"
     },
     {
-      "raw_hot": 668677,
-      "num": 668677,
+      "raw_hot": 698298,
+      "num": 698298,
       "word": "K总 我们生长在红旗下",
       "onboard_time": 1725847457,
       "rank": 4,
@@ -81,6 +81,14 @@
       "onboard_time": 1725841640,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 633247,
+      "num": 633247,
+      "word": "卢昱晓 刁蛮俏公主",
+      "onboard_time": 1725847938,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 615750,
@@ -115,8 +123,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 569435,
-      "num": 569435,
+      "raw_hot": 573585,
+      "num": 573585,
       "word": "B太为2元面馆捐一年酱油",
       "onboard_time": 1725847099,
       "rank": 6,
@@ -147,14 +155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 514952,
-      "num": 514952,
-      "word": "卢昱晓 刁蛮俏公主",
-      "onboard_time": 1725847938,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 513762,
       "num": 277034,
       "word": "没有班味的工作有多香",
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 491681,
-      "num": 220831,
+      "num": 264852,
       "word": "有6个习惯的人甲状腺都比较好",
       "onboard_time": 1725846259,
       "rank": 23,
@@ -227,6 +227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 324090,
+      "num": 324090,
+      "word": "金秀贤听到粉丝喊金智媛的反应",
+      "onboard_time": 1725847037,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 323552,
       "num": 232905,
       "word": "小学生俩月花15000元在文具店集卡",
@@ -251,16 +259,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 295662,
-      "num": 295662,
-      "word": "金秀贤听到粉丝喊金智媛的反应",
-      "onboard_time": 1725847037,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 290955,
-      "num": 290955,
+      "raw_hot": 295288,
+      "num": 295288,
       "word": "剑网3",
       "onboard_time": 1725848659,
       "rank": 15,
@@ -272,6 +272,22 @@
       "word": "泰国女孩来中国留学读大专",
       "onboard_time": 1725794718,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262043,
+      "num": 262043,
+      "word": "iPhone16Pro预计维持999美元起价",
+      "onboard_time": 1725846499,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 260754,
+      "num": 305201,
+      "word": "2023年全国彩票17.78亿奖金未兑",
+      "onboard_time": 1725847158,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -299,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246442,
+      "num": 479913,
+      "word": "孙颖莎王曼昱奥运后首秀来了",
+      "onboard_time": 1725849258,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245143,
       "num": 218427,
       "word": "猫 你说这水怎么这么好喝",
@@ -313,6 +337,22 @@
       "onboard_time": 1725836776,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234686,
+      "num": 234686,
+      "word": "00后女军士荣立一等功",
+      "onboard_time": 1725847219,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232690,
+      "num": 475094,
+      "word": "垃圾站旁的脏外卖背刺了多少打工人",
+      "onboard_time": 1725848358,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232505,
@@ -347,44 +387,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 222687,
-      "num": 222687,
-      "word": "iPhone16Pro预计维持999美元起价",
-      "onboard_time": 1725846499,
-      "rank": 33,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 218825,
-      "num": 218825,
-      "word": "孙颖莎王曼昱奥运后首秀来了",
-      "onboard_time": 1725849258,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 216863,
-      "num": 216863,
-      "word": "2023年全国彩票17.78亿奖金未兑",
-      "onboard_time": 1725847158,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215521,
       "num": 215521,
       "word": "A股",
       "onboard_time": 1725846499,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 213797,
-      "num": 213797,
-      "word": "00后女军士荣立一等功",
-      "onboard_time": 1725847219,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208898,
@@ -467,6 +475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 185977,
+      "num": 177689,
+      "word": "王楚钦梁靖崑说男队许昕最e",
+      "onboard_time": 1725849978,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183931,
       "num": 183931,
       "word": "海口躲台风腿被夹业主一家平安",
@@ -491,12 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173062,
-      "num": 475094,
-      "word": "垃圾站旁的脏外卖背刺了多少打工人",
-      "onboard_time": 1725848358,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 174124,
+      "num": 174124,
+      "word": "猫咖员工招揽生意",
+      "onboard_time": 1725849737,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 172784,
@@ -611,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146732,
+      "num": 146732,
+      "word": "莫奈巨作睡莲将在香港拍卖",
+      "onboard_time": 1725850219,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144958,
       "num": 144958,
       "word": "拒绝不了动物硬要表演",
@@ -635,8 +659,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134431,
-      "num": 134431,
+      "raw_hot": 135362,
+      "num": 135362,
       "word": "严屹宽最勇敢的儿子是庆怜",
       "onboard_time": 1725848838,
       "rank": 39,
@@ -649,14 +673,6 @@
       "onboard_time": 1725797899,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 132216,
-      "num": 132216,
-      "word": "猫咖员工招揽生意",
-      "onboard_time": 1725849737,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 131537,
@@ -683,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128942,
+      "num": 128942,
+      "word": "美媒称别对iPhone16抱太大希望",
+      "onboard_time": 1725847099,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 125704,
       "num": 125704,
       "word": "马嘉祺换头像了",
@@ -699,28 +723,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 123275,
-      "num": 123275,
-      "word": "美媒称别对iPhone16抱太大希望",
-      "onboard_time": 1725847099,
-      "rank": 44,
-      "category": "数码"
-    },
-    {
       "raw_hot": 120556,
       "num": 120556,
       "word": "恋综 strong",
       "onboard_time": 1725815954,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 116559,
-      "num": 116559,
-      "word": "王楚钦梁靖崑说男队许昕最e",
-      "onboard_time": 1725849978,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 115538,
@@ -731,12 +739,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 114823,
-      "num": 114823,
+      "raw_hot": 115213,
+      "num": 115213,
       "word": "华为新机预约人数一天突破200万",
       "onboard_time": 1725847338,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 114624,
+      "num": 114624,
+      "word": "小朋友玩烟卡遭3名小孩飞车抢卡",
+      "onboard_time": 1725850698,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112781,
@@ -979,20 +995,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57917,
+      "num": 187800,
+      "word": "年轻人的moveon文化火了",
+      "onboard_time": 1725849678,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 56862,
+      "num": 327534,
+      "word": "牛约堡成脏乱堡怪消费者过度夸张",
+      "onboard_time": 1725849198,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56770,
       "num": 76766,
       "word": "丁禹兮邓恩熙大大方方营业",
       "onboard_time": 1725816854,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 52560,
-      "num": 115673,
-      "word": "年轻人的moveon文化火了",
-      "onboard_time": 1725849678,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 52513,
@@ -1043,12 +1067,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 40330,
-      "num": 292552,
-      "word": "牛约堡成脏乱堡怪消费者过度夸张",
-      "onboard_time": 1725849198,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 40542,
+      "num": 179642,
+      "word": "中国残奥军团94金76银50铜收官",
+      "onboard_time": 1725850279,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 38336,
@@ -1147,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 18909,
+      "num": 824881,
+      "word": "2024年国家网络安全宣传周",
+      "onboard_time": 1725765617,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17713,
       "num": 21419,
       "word": "陈绮贞莫文蔚合唱",
@@ -1180,6 +1212,9 @@
     },
     {
       "word": "#教育兴则国家兴教育强则国家强#"
+    },
+    {
+      "word": "#人民教师无上光荣#"
     }
   ]
 }
