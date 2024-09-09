@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725860312306,
+  "endTime": 1725863567109,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -371,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2026439,
+      "num": 303621,
+      "word": "小杨哥三代还宗",
+      "onboard_time": 1725861379,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 2025901,
       "num": 477642,
       "word": "男子因女生内裤掉头上气到报警",
@@ -400,6 +408,14 @@
       "word": "路虎女司机打退伍军人官方发声",
       "onboard_time": 1725175639,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1950554,
+      "num": 608328,
+      "word": "性侵中国女游客的韩男子被求刑10年",
+      "onboard_time": 1725860719,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -4179,6 +4195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 592568,
+      "num": 593739,
+      "word": "日本校园裸体健康体检引发不满",
+      "onboard_time": 1725859100,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 592504,
       "num": 592504,
       "word": "中学反欺凌承诺书要求不拍照不录像",
@@ -4265,6 +4289,14 @@
       "onboard_time": 1725513380,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 582647,
+      "num": 296168,
+      "word": "沫沫 小杨哥",
+      "onboard_time": 1725862579,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 582480,
@@ -4433,6 +4465,14 @@
       "onboard_time": 1725772039,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 554820,
+      "num": 554820,
+      "word": "888元一桌的婚宴鱼是生的菜是臭的",
+      "onboard_time": 1725860540,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 554687,
@@ -5715,6 +5755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 448853,
+      "num": 448853,
+      "word": "女子路边摊点30颗痣后眼球被烧伤3层",
+      "onboard_time": 1725861318,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 448195,
       "num": 448195,
       "word": "波尔说王楚钦是未来之星",
@@ -5849,6 +5897,14 @@
       "onboard_time": 1725696860,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 437343,
+      "num": 437343,
+      "word": "苗苗女儿看到螃蟹被煮后哭了",
+      "onboard_time": 1725861740,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 436571,
@@ -6529,14 +6585,6 @@
       "onboard_time": 1725329360,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 375025,
-      "num": 593739,
-      "word": "日本校园裸体健康体检引发不满",
-      "onboard_time": 1725859100,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 374032,
@@ -7547,6 +7595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307545,
+      "num": 307545,
+      "word": "我妈的17岁比我还癫",
+      "onboard_time": 1725860419,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307493,
       "num": 280251,
       "word": "20岁本科毕业准备出国读研但意外怀孕",
@@ -8203,6 +8259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 281154,
+      "num": 281154,
+      "word": "A股",
+      "onboard_time": 1725243438,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 280963,
       "num": 280963,
       "word": "易烊千玺的面部折叠度",
@@ -8265,14 +8329,6 @@
       "onboard_time": 1725534081,
       "rank": 27,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 279449,
-      "num": 279449,
-      "word": "A股",
-      "onboard_time": 1725243438,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 278555,
@@ -9867,6 +9923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232738,
+      "num": 232738,
+      "word": "莫雷加德3比1户上隼辅",
+      "onboard_time": 1725861798,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232732,
       "num": 327807,
       "word": "赵露思盘发黑色长裙",
@@ -10225,6 +10289,22 @@
       "onboard_time": 1725545123,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 223119,
+      "num": 203597,
+      "word": "许昕恢复训练",
+      "onboard_time": 1725862940,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 223026,
+      "num": 309769,
+      "word": "南派三叔 藏海花断更日笑话",
+      "onboard_time": 1725862159,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 223001,
@@ -10641,6 +10721,14 @@
       "onboard_time": 1725280160,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214201,
+      "num": 214201,
+      "word": "负周一",
+      "onboard_time": 1725858740,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 213938,
@@ -11547,6 +11635,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 202724,
+      "num": 202724,
+      "word": "苹果将推出AirPodsMax2头戴式耳机",
+      "onboard_time": 1725859040,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 202584,
       "num": 202584,
       "word": "山东舰实战化训练高燃现场",
@@ -12435,14 +12531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194311,
-      "num": 194311,
-      "word": "负周一",
-      "onboard_time": 1725858740,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 194292,
       "num": 220088,
       "word": "任嘉伦古装",
@@ -13219,14 +13307,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 187706,
-      "num": 187706,
-      "word": "苹果将推出AirPodsMax2头戴式耳机",
-      "onboard_time": 1725859040,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
       "raw_hot": 187605,
       "num": 187605,
       "word": "陈丽君首登央视中秋晚会",
@@ -13753,6 +13833,14 @@
       "onboard_time": 1725857361,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 182528,
+      "num": 308143,
+      "word": "天津警方通报一起刑事案件",
+      "onboard_time": 1725861140,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182488,
@@ -16275,6 +16363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 160208,
+      "num": 160208,
+      "word": "宋亚轩偷偷给白敬亭王安宇分享美食",
+      "onboard_time": 1725862400,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160167,
       "num": 160167,
       "word": "李诞直播切片",
@@ -16457,6 +16553,14 @@
       "onboard_time": 1725781579,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158991,
+      "num": 158991,
+      "word": "骄阳似我 宋威龙赵今麦",
+      "onboard_time": 1725860119,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 158961,
@@ -16721,6 +16825,14 @@
       "onboard_time": 1725504559,
       "rank": 37,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 156849,
+      "num": 156849,
+      "word": "半熟男女还没播就上强度了",
+      "onboard_time": 1725860957,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 156765,
@@ -17707,6 +17819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148036,
+      "num": 148036,
+      "word": "黄景瑜拍雪迷宫干了两千多鸡架",
+      "onboard_time": 1725861860,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147937,
       "num": 147937,
       "word": "2米高iPhone造价7万美元",
@@ -17785,6 +17905,14 @@
       "onboard_time": 1725185238,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147442,
+      "num": 147442,
+      "word": "田曦薇新剧 只是犯了男人会犯的错",
+      "onboard_time": 1725862579,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 147427,
@@ -18019,6 +18147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145097,
+      "num": 145097,
+      "word": "殷桃新剧好像在蛐蛐我",
+      "onboard_time": 1725860302,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145087,
       "num": 145087,
       "word": "国足主帅伊万科维奇致歉",
@@ -18240,14 +18376,6 @@
       "word": "凡人歌三位女主结局",
       "onboard_time": 1725681678,
       "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 143338,
-      "num": 143338,
-      "word": "骄阳似我 宋威龙赵今麦",
-      "onboard_time": 1725860119,
-      "rank": 45,
       "category": "剧集"
     },
     {
@@ -18795,6 +18923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136815,
+      "num": 136815,
+      "word": "罗永浩称将自愿放弃借给锤子的2476万",
+      "onboard_time": 1725862699,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 136777,
       "num": 156377,
       "word": "辛巴回应卢文庆声明",
@@ -18849,14 +18985,6 @@
       "onboard_time": 1725776778,
       "rank": 47,
       "category": "社会新闻,电竞"
-    },
-    {
-      "raw_hot": 135873,
-      "num": 135873,
-      "word": "殷桃新剧好像在蛐蛐我",
-      "onboard_time": 1725860302,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 135807,
@@ -19555,6 +19683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127249,
+      "num": 127249,
+      "word": "赵露思路透",
+      "onboard_time": 1725860957,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 126792,
       "num": 126792,
       "word": "南野拓实梅开二度",
@@ -19929,6 +20065,14 @@
       "onboard_time": 1725665476,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121650,
+      "num": 121650,
+      "word": "熊猫妈妈把自家孩子当见面礼了",
+      "onboard_time": 1725863239,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 121562,
@@ -20441,6 +20585,14 @@
       "onboard_time": 1725852318,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113089,
+      "num": 437502,
+      "word": "36元一张的学生票黄牛卖到180元",
+      "onboard_time": 1725862159,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112931,
@@ -23355,6 +23507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42751,
+      "num": 203730,
+      "word": "央妈直击金龙鱼油生产过程",
+      "onboard_time": 1725863179,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42383,
       "num": 160926,
       "word": "这届大学生流行新潮复古风",
@@ -25465,6 +25625,14 @@
       "onboard_time": 1725440600,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17649,
+      "num": 331971,
+      "word": "揭秘回流药背后黑色产业链",
+      "onboard_time": 1725862400,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17535,

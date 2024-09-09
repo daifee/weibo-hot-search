@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725860312306,
+  "endTime": 1725863567109,
   "band_list": [
     {
       "raw_hot": 2331163,
@@ -32,6 +32,22 @@
       "word": "中学生心脏骤停被同学1分钟救回",
       "onboard_time": 1725775879,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2026439,
+      "num": 303621,
+      "word": "小杨哥三代还宗",
+      "onboard_time": 1725861379,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 1950554,
+      "num": 608328,
+      "word": "性侵中国女游客的韩男子被求刑10年",
+      "onboard_time": 1725860719,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -571,12 +587,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 592568,
+      "num": 593739,
+      "word": "日本校园裸体健康体检引发不满",
+      "onboard_time": 1725859100,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 590808,
       "num": 263595,
       "word": "邓超红发",
       "onboard_time": 1725735432,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 582647,
+      "num": 296168,
+      "word": "沫沫 小杨哥",
+      "onboard_time": 1725862579,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 567455,
@@ -609,6 +641,14 @@
       "onboard_time": 1725772039,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 554820,
+      "num": 554820,
+      "word": "888元一桌的婚宴鱼是生的菜是臭的",
+      "onboard_time": 1725860540,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 552208,
@@ -819,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 448853,
+      "num": 448853,
+      "word": "女子路边摊点30颗痣后眼球被烧伤3层",
+      "onboard_time": 1725861318,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 443716,
       "num": 443716,
       "word": "200兆网速实际只有20兆",
@@ -849,6 +897,14 @@
       "onboard_time": 1725820512,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 437343,
+      "num": 437343,
+      "word": "苗苗女儿看到螃蟹被煮后哭了",
+      "onboard_time": 1725861740,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 432537,
@@ -1024,14 +1080,6 @@
       "word": "公务员招录扩大面试比例可行吗",
       "onboard_time": 1725798619,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 375025,
-      "num": 593739,
-      "word": "日本校园裸体健康体检引发不满",
-      "onboard_time": 1725859100,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1251,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307545,
+      "num": 307545,
+      "word": "我妈的17岁比我还癫",
+      "onboard_time": 1725860419,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307477,
       "num": 173737,
       "word": "哈工大的这么做一定有他的道理",
@@ -1313,6 +1369,14 @@
       "onboard_time": 1725799400,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 281154,
+      "num": 281154,
+      "word": "A股",
+      "onboard_time": 1725846499,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 278703,
@@ -1587,6 +1651,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 232738,
+      "num": 232738,
+      "word": "莫雷加德3比1户上隼辅",
+      "onboard_time": 1725861798,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232341,
       "num": 232341,
       "word": "闪耀暖暖",
@@ -1659,6 +1731,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 223119,
+      "num": 203597,
+      "word": "许昕恢复训练",
+      "onboard_time": 1725862940,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 223026,
+      "num": 309769,
+      "word": "南派三叔 藏海花断更日笑话",
+      "onboard_time": 1725862159,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223001,
       "num": 223001,
       "word": "华为新机价格已被炒至2万元",
@@ -1723,20 +1811,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 215521,
-      "num": 215521,
-      "word": "A股",
-      "onboard_time": 1725846499,
-      "rank": 18,
-      "category": "财经"
-    },
-    {
       "raw_hot": 215322,
       "num": 215322,
       "word": "亚人",
       "onboard_time": 1725772879,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214201,
+      "num": 214201,
+      "word": "负周一",
+      "onboard_time": 1725858740,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 213313,
@@ -1907,6 +1995,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 202724,
+      "num": 202724,
+      "word": "苹果将推出AirPodsMax2头戴式耳机",
+      "onboard_time": 1725859040,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 202584,
       "num": 202584,
       "word": "山东舰实战化训练高燃现场",
@@ -2035,14 +2131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194311,
-      "num": 194311,
-      "word": "负周一",
-      "onboard_time": 1725858740,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 193952,
       "num": 193952,
       "word": "四川人吃火锅开始涮粉木耳了",
@@ -2155,14 +2243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187706,
-      "num": 187706,
-      "word": "苹果将推出AirPodsMax2头戴式耳机",
-      "onboard_time": 1725859040,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
       "raw_hot": 187360,
       "num": 260949,
       "word": "严浩翔脸上点了雀斑",
@@ -2233,6 +2313,14 @@
       "onboard_time": 1725857361,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 182528,
+      "num": 308143,
+      "word": "天津警方通报一起刑事案件",
+      "onboard_time": 1725861140,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182336,
@@ -2595,6 +2683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160208,
+      "num": 160208,
+      "word": "宋亚轩偷偷给白敬亭王安宇分享美食",
+      "onboard_time": 1725862400,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160062,
       "num": 160062,
       "word": "Viper生涯首个LCK冠军",
@@ -2635,6 +2731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158991,
+      "num": 158991,
+      "word": "骄阳似我 宋威龙赵今麦",
+      "onboard_time": 1725860119,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158893,
       "num": 158893,
       "word": "心动的信号",
@@ -2665,6 +2769,14 @@
       "onboard_time": 1725720142,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156849,
+      "num": 156849,
+      "word": "半熟男女还没播就上强度了",
+      "onboard_time": 1725860957,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 156717,
@@ -2843,6 +2955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148036,
+      "num": 148036,
+      "word": "黄景瑜拍雪迷宫干了两千多鸡架",
+      "onboard_time": 1725861860,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148006,
       "num": 148006,
       "word": "99后女生靠卖石头月入过万",
@@ -2859,12 +2979,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 147442,
+      "num": 147442,
+      "word": "田曦薇新剧 只是犯了男人会犯的错",
+      "onboard_time": 1725862579,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146336,
       "num": 146336,
       "word": "梦之队玩狼人杀比谁都认真",
       "onboard_time": 1725858680,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 145097,
+      "num": 145097,
+      "word": "殷桃新剧好像在蛐蛐我",
+      "onboard_time": 1725860302,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 144958,
@@ -2937,14 +3073,6 @@
       "onboard_time": 1725789858,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143338,
-      "num": 143338,
-      "word": "骄阳似我 宋威龙赵今麦",
-      "onboard_time": 1725860119,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 143060,
@@ -3099,6 +3227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136815,
+      "num": 136815,
+      "word": "罗永浩称将自愿放弃借给锤子的2476万",
+      "onboard_time": 1725862699,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 136493,
       "num": 136493,
       "word": "赛车手是王一博职业规划一部分",
@@ -3121,14 +3257,6 @@
       "onboard_time": 1725776778,
       "rank": 47,
       "category": "社会新闻,电竞"
-    },
-    {
-      "raw_hot": 135873,
-      "num": 135873,
-      "word": "殷桃新剧好像在蛐蛐我",
-      "onboard_time": 1725860302,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 135362,
@@ -3275,6 +3403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127249,
+      "num": 127249,
+      "word": "赵露思路透",
+      "onboard_time": 1725860957,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 126362,
       "num": 163061,
       "word": "北京时间其实产自西安",
@@ -3393,6 +3529,14 @@
       "onboard_time": 1725724999,
       "rank": 34,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 121650,
+      "num": 121650,
+      "word": "熊猫妈妈把自家孩子当见面礼了",
+      "onboard_time": 1725863239,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 121298,
@@ -3593,6 +3737,14 @@
       "onboard_time": 1725852318,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113089,
+      "num": 437502,
+      "word": "36元一张的学生票黄牛卖到180元",
+      "onboard_time": 1725862159,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112903,
@@ -4347,6 +4499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42751,
+      "num": 203730,
+      "word": "央妈直击金龙鱼油生产过程",
+      "onboard_time": 1725863179,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42322,
       "num": 76147,
       "word": "凡人歌",
@@ -4689,6 +4849,14 @@
       "onboard_time": 1725823991,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 17649,
+      "num": 331971,
+      "word": "揭秘回流药背后黑色产业链",
+      "onboard_time": 1725862400,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17535,
