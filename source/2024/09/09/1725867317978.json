@@ -1,0 +1,410 @@
+{
+  "runTime": 1725867317978,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 781170,
+        "num": 1124987,
+        "word": "章若楠新粉丝名",
+        "onboard_time": 1725864859,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539458,
+        "num": 539458,
+        "word": "36元一张的学生票黄牛卖到180元",
+        "onboard_time": 1725862159,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96053,
+        "num": 530269,
+        "word": "中国残奥军团94金76银50铜收官",
+        "onboard_time": 1725850279,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1077442,
+        "num": 529872,
+        "word": "性侵中国女游客的韩男子被求刑10年",
+        "onboard_time": 1725860719,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523226,
+        "num": 523226,
+        "word": "iPhone16仍有4款型号",
+        "onboard_time": 1725855921,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 489320,
+        "num": 489320,
+        "word": "苗苗女儿看到螃蟹被煮后哭了",
+        "onboard_time": 1725861740,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 452677,
+        "num": 452677,
+        "word": "杨洋素颜被偶遇",
+        "onboard_time": 1725855560,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413516,
+        "num": 413516,
+        "word": "许昕恢复训练",
+        "onboard_time": 1725862940,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 409461,
+        "num": 409461,
+        "word": "天津警方通报一起刑事案件",
+        "onboard_time": 1725861140,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301307,
+        "num": 301307,
+        "word": "莫奈巨作睡莲将在香港拍卖",
+        "onboard_time": 1725850219,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1162864,
+        "num": 300293,
+        "word": "888元一桌的婚宴鱼是生的菜是臭的",
+        "onboard_time": 1725860540,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656450,
+        "num": 297252,
+        "word": "女子路边摊点30颗痣后眼球被烧伤3层",
+        "onboard_time": 1725861318,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321195,
+        "num": 296916,
+        "word": "罗永浩称将自愿放弃借给锤子的2476万",
+        "onboard_time": 1725862699,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 294208,
+        "num": 294208,
+        "word": "iPhone16或成苹果最具争议手机",
+        "onboard_time": 1725864378,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 288263,
+        "num": 288263,
+        "word": "登陆少年全员改认证",
+        "onboard_time": 1725865698,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23914,
+        "num": 268899,
+        "word": "央妈直击金龙鱼油生产过程",
+        "onboard_time": 1725863179,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265455,
+        "num": 265455,
+        "word": "中国天气预报太超前火到国外",
+        "onboard_time": 1725855320,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262072,
+        "num": 262072,
+        "word": "司机撞人无刑责行人获刑2年半",
+        "onboard_time": 1725866119,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200919,
+        "num": 260605,
+        "word": "王俊凯说再不打一会愈合了",
+        "onboard_time": 1725866119,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193699,
+        "num": 258152,
+        "word": "邓恩熙不会吻 丁禹兮不敢吻",
+        "onboard_time": 1725854659,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1453531,
+        "num": 255026,
+        "word": "小杨哥三代还宗",
+        "onboard_time": 1725861379,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1016019,
+        "num": 251538,
+        "word": "沫沫 小杨哥",
+        "onboard_time": 1725862579,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 321029,
+        "num": 247586,
+        "word": "日本校园裸体健康体检引发不满",
+        "onboard_time": 1725859100,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247215,
+        "num": 247215,
+        "word": "印度被奸杀女医生父母发声",
+        "onboard_time": 1725857903,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78347,
+        "num": 236910,
+        "word": "李一桐小狗抹胸裙",
+        "onboard_time": 1725866958,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 234489,
+        "num": 234489,
+        "word": "书亦烧仙草倒闭门店太多二手设备滞销",
+        "onboard_time": 1725866599,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190980,
+        "num": 227021,
+        "word": "点奶茶不请同事尴尬吗",
+        "onboard_time": 1725856581,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187809,
+        "num": 226600,
+        "word": "半熟男女还没播就上强度了",
+        "onboard_time": 1725860957,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176706,
+        "num": 226551,
+        "word": "颖儿生完孩子三个月就拍戏了",
+        "onboard_time": 1725863718,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226539,
+        "num": 226539,
+        "word": "辛巴 小杨哥",
+        "onboard_time": 1725855200,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 201390,
+        "num": 201390,
+        "word": "WTT澳门冠军赛",
+        "onboard_time": 1725864019,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183730,
+        "num": 183730,
+        "word": "我妈的17岁比我还癫",
+        "onboard_time": 1725860419,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178619,
+        "num": 178619,
+        "word": "消防员的接力赛用上了十八般武艺",
+        "onboard_time": 1725865519,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301860,
+        "num": 171038,
+        "word": "月薪几万才能吃到靠谱干净的外卖",
+        "onboard_time": 1725853879,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163012,
+        "num": 163012,
+        "word": "妇联回应女孩爆料母亲被家暴一生",
+        "onboard_time": 1725865820,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161695,
+        "num": 161695,
+        "word": "黑神话悟空 解禁壁纸",
+        "onboard_time": 1725866719,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151449,
+        "num": 151449,
+        "word": "公司订51份黄焖鸡米饭超20人中毒",
+        "onboard_time": 1725840318,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149983,
+        "num": 149983,
+        "word": "罗永浩称管不了交个朋友卖智商税",
+        "onboard_time": 1725866419,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 141377,
+        "num": 141377,
+        "word": "檀健次居然还有个妹妹",
+        "onboard_time": 1725855381,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135704,
+        "num": 135704,
+        "word": "我们的歌官宣",
+        "onboard_time": 1725864500,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134707,
+        "num": 134707,
+        "word": "教体局回应女生被同桌扎数百下",
+        "onboard_time": 1725865039,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128778,
+        "num": 128778,
+        "word": "苹果今晚或将发布两款手表",
+        "onboard_time": 1725865459,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 123630,
+        "num": 123630,
+        "word": "黄景瑜 别搞这些乱七八糟的",
+        "onboard_time": 1725867080,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123224,
+        "num": 123224,
+        "word": "罗伯特大战南派三叔",
+        "onboard_time": 1725864079,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119724,
+        "num": 119724,
+        "word": "这份工作只用铅笔不用橡皮",
+        "onboard_time": 1725867199,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118333,
+        "num": 118333,
+        "word": "很多病真就是累出来的",
+        "onboard_time": 1725866359,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116350,
+        "num": 116350,
+        "word": "中小学教师非教学负担过重",
+        "onboard_time": 1725867199,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 114945,
+        "num": 114945,
+        "word": "莫雷加德3比1户上隼辅",
+        "onboard_time": 1725861798,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113220,
+        "num": 113220,
+        "word": "黎深 抵达稚梦",
+        "onboard_time": 1725865219,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112020,
+        "num": 112020,
+        "word": "宋亚轩偷偷给白敬亭王安宇分享美食",
+        "onboard_time": 1725862400,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#教育兴则国家兴教育强则国家强#"
+    }
+  }
+}
