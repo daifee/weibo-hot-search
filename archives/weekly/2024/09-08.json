@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725845964016,
+  "endTime": 1725846956447,
   "band_list": [
     {
       "raw_hot": 2331163,
@@ -299,20 +299,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 769001,
+      "num": 769001,
+      "word": "19岁学生因iPhone进水不保修起诉苹果",
+      "onboard_time": 1725842001,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 758593,
       "num": 931374,
       "word": "赵露思ins更新怼脸照",
       "onboard_time": 1725707720,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 746779,
-      "num": 746779,
-      "word": "19岁学生因iPhone进水不保修起诉苹果",
-      "onboard_time": 1725842001,
-      "rank": 3,
-      "category": "数码"
     },
     {
       "raw_hot": 742626,
@@ -451,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 552208,
+      "num": 552208,
+      "word": "男子称两千七的家庭跟团游体验太差",
+      "onboard_time": 1725842359,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 545501,
       "num": 299789,
       "word": "16岁少年剪头烫发被索要4000元",
@@ -497,6 +505,14 @@
       "onboard_time": 1725806181,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 513762,
+      "num": 277034,
+      "word": "没有班味的工作有多香",
+      "onboard_time": 1725845059,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 513311,
@@ -747,20 +763,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 395916,
-      "num": 395916,
-      "word": "男子称两千七的家庭跟团游体验太差",
-      "onboard_time": 1725842359,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 392309,
       "num": 392309,
       "word": "女子被醉酒丈夫家暴女儿哭求不要",
       "onboard_time": 1725840080,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389202,
+      "num": 389202,
+      "word": "特朗普扬言对不用美元国家征100%税",
+      "onboard_time": 1725844999,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 386303,
@@ -1035,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288393,
+      "num": 205349,
+      "word": "有6个习惯的人甲状腺都比较好",
+      "onboard_time": 1725846259,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 282278,
       "num": 282278,
       "word": "aespa获TMA大赏",
@@ -1057,14 +1081,6 @@
       "onboard_time": 1725794478,
       "rank": 16,
       "category": "网红"
-    },
-    {
-      "raw_hot": 277034,
-      "num": 277034,
-      "word": "没有班味的工作有多香",
-      "onboard_time": 1725845059,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 273140,
@@ -1259,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238330,
+      "num": 238330,
+      "word": "网约车乘客开门杀致人受伤扭头就走",
+      "onboard_time": 1725845297,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235693,
       "num": 235693,
       "word": "AG晋级夏季赛决赛",
@@ -1273,14 +1297,6 @@
       "onboard_time": 1725761359,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 234659,
-      "num": 234659,
-      "word": "特朗普扬言对不用美元国家征100%税",
-      "onboard_time": 1725844999,
-      "rank": 17,
-      "category": "国外时政"
     },
     {
       "raw_hot": 234214,
@@ -1347,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223001,
+      "num": 223001,
+      "word": "华为新机价格已被炒至2万元",
+      "onboard_time": 1725841579,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 221611,
       "num": 221611,
       "word": "张峻豪妹妹",
@@ -1387,6 +1411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 215521,
+      "num": 215521,
+      "word": "A股",
+      "onboard_time": 1725846499,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 215322,
       "num": 215322,
       "word": "亚人",
@@ -1425,14 +1457,6 @@
       "onboard_time": 1725805041,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 210329,
-      "num": 210329,
-      "word": "华为新机价格已被炒至2万元",
-      "onboard_time": 1725841579,
-      "rank": 23,
-      "category": "数码"
     },
     {
       "raw_hot": 209888,
@@ -1507,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205269,
+      "num": 205269,
+      "word": "WTT赛程",
+      "onboard_time": 1725841762,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205073,
       "num": 205073,
       "word": "陈都灵眼镜一戴智性恋的天菜",
@@ -1569,14 +1601,6 @@
       "onboard_time": 1725773780,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 199505,
-      "num": 199505,
-      "word": "WTT赛程",
-      "onboard_time": 1725841762,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 199177,
@@ -1812,7 +1836,7 @@
     },
     {
       "raw_hot": 181249,
-      "num": 181249,
+      "num": 201118,
       "word": "Jennie10月solo回归",
       "onboard_time": 1725841100,
       "rank": 26,
@@ -1947,6 +1971,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 170684,
+      "num": 170684,
+      "word": "iPhone16Pro预计维持999美元起价",
+      "onboard_time": 1725846499,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 169320,
       "num": 169320,
       "word": "花少6看片会repo",
@@ -2001,6 +2033,22 @@
       "onboard_time": 1725801140,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 167101,
+      "num": 393867,
+      "word": "读了冷门专业没跑后来成了院士",
+      "onboard_time": 1725844639,
+      "rank": 9,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 166790,
+      "num": 166790,
+      "word": "教资准考证",
+      "onboard_time": 1725845478,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 166678,
@@ -2129,6 +2177,14 @@
       "onboard_time": 1725781579,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158458,
+      "num": 172172,
+      "word": "加沙12岁女孩的课本被用来生火",
+      "onboard_time": 1725844280,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 157549,
@@ -2323,14 +2379,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 147086,
-      "num": 147086,
-      "word": "加沙12岁女孩的课本被用来生火",
-      "onboard_time": 1725844280,
-      "rank": 32,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 144958,
       "num": 144958,
       "word": "拒绝不了动物硬要表演",
@@ -2451,6 +2499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138380,
+      "num": 138380,
+      "word": "建议过敏患者大风天减少出行",
+      "onboard_time": 1725846499,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138200,
       "num": 138200,
       "word": "刘震云 能外耗别人绝不内耗自己",
@@ -2561,6 +2617,14 @@
       "onboard_time": 1725788659,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 130685,
+      "num": 198516,
+      "word": "头回见是男主的青梅遇上天降的",
+      "onboard_time": 1725846618,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 130479,
@@ -2891,6 +2955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 115538,
+      "num": 193086,
+      "word": "华晨宇6年3次的鸟巢之约圆满结束",
+      "onboard_time": 1725846259,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 112903,
       "num": 112903,
       "word": "邓恩熙的荧幕初吻是丁禹兮",
@@ -2907,20 +2979,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 111387,
-      "num": 111387,
-      "word": "教资准考证",
-      "onboard_time": 1725845478,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 111318,
-      "num": 111318,
-      "word": "网约车乘客开门杀致人受伤扭头就走",
-      "onboard_time": 1725845297,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 112206,
+      "num": 112206,
+      "word": "毛主席在开国大典上开心一笑",
+      "onboard_time": 1725846738,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 110860,
@@ -2969,6 +3033,14 @@
       "onboard_time": 1725723619,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108442,
+      "num": 108442,
+      "word": "警方回应网约车乘客开门杀致人受伤",
+      "onboard_time": 1725845958,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108415,
@@ -3129,14 +3201,6 @@
       "onboard_time": 1725713541,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98593,
-      "num": 393867,
-      "word": "读了冷门专业没跑后来成了院士",
-      "onboard_time": 1725844639,
-      "rank": 9,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 98317,
@@ -3401,6 +3465,14 @@
       "onboard_time": 1725837977,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67636,
+      "num": 400140,
+      "word": "小孩哥写信打抱不平受邀入住北京饭店",
+      "onboard_time": 1725846499,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67451,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1725846956447,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1115713,
+        "num": 1178514,
+        "word": "公司订51份黄焖鸡米饭超20人中毒",
+        "onboard_time": 1725840318,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 973901,
+        "num": 973901,
+        "word": "赵露思 没有办法总是这样",
+        "onboard_time": 1725839418,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27558,
+        "num": 789422,
+        "word": "1790位教育工作者教师节前受表彰",
+        "onboard_time": 1725801379,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769001,
+        "num": 769001,
+        "word": "19岁学生因iPhone进水不保修起诉苹果",
+        "onboard_time": 1725842001,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 577154,
+        "num": 577154,
+        "word": "300块的黑悟空30000块的装备",
+        "onboard_time": 1725841640,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 552208,
+        "num": 552208,
+        "word": "男子称两千七的家庭跟团游体验太差",
+        "onboard_time": 1725842359,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490035,
+        "num": 490035,
+        "word": "毛泽东逝世48周年",
+        "onboard_time": 1725839178,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 457090,
+        "num": 457090,
+        "word": "张峻豪 给妹妹改造一下",
+        "onboard_time": 1725803420,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 456797,
+        "num": 456797,
+        "word": "孙卓寻人启事10年前曾出现在南工大",
+        "onboard_time": 1725840318,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67636,
+        "num": 400140,
+        "word": "小孩哥写信打抱不平受邀入住北京饭店",
+        "onboard_time": 1725846499,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389202,
+        "num": 389202,
+        "word": "特朗普扬言对不用美元国家征100%税",
+        "onboard_time": 1725844999,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 330394,
+        "num": 330394,
+        "word": "张翰谈时隔7年再演古装剧",
+        "onboard_time": 1725820512,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322394,
+        "num": 322394,
+        "word": "NINEPERCENT QQ音乐",
+        "onboard_time": 1725842240,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 308502,
+        "num": 308502,
+        "word": "吴昕把皮裙塞裤子里腰还这么细",
+        "onboard_time": 1725805728,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 299143,
+        "num": 299143,
+        "word": "女子被醉酒丈夫家暴女儿哭求不要",
+        "onboard_time": 1725840080,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238330,
+        "num": 238330,
+        "word": "网约车乘客开门杀致人受伤扭头就走",
+        "onboard_time": 1725845297,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238166,
+        "num": 238166,
+        "word": "山东大学34岁博导突发心梗离世",
+        "onboard_time": 1725806181,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223001,
+        "num": 223001,
+        "word": "华为新机价格已被炒至2万元",
+        "onboard_time": 1725841579,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 215521,
+        "num": 215521,
+        "word": "A股",
+        "onboard_time": 1725846499,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 183167,
+        "num": 213557,
+        "word": "吴宣仪苞娜合照",
+        "onboard_time": 1725839238,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380972,
+        "num": 211759,
+        "word": "马上就要到我最恨的季节了",
+        "onboard_time": 1725841579,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 302824,
+        "num": 209600,
+        "word": "央视曝光空挂学籍乱象",
+        "onboard_time": 1725813616,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513762,
+        "num": 208044,
+        "word": "没有班味的工作有多香",
+        "onboard_time": 1725845059,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 288393,
+        "num": 205349,
+        "word": "有6个习惯的人甲状腺都比较好",
+        "onboard_time": 1725846259,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205269,
+        "num": 205269,
+        "word": "WTT赛程",
+        "onboard_time": 1725841762,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204867,
+        "num": 204867,
+        "word": "猫 你说这水怎么这么好喝",
+        "onboard_time": 1725844999,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167101,
+        "num": 202450,
+        "word": "读了冷门专业没跑后来成了院士",
+        "onboard_time": 1725844639,
+        "rank": 26,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 160931,
+        "num": 201118,
+        "word": "Jennie10月solo回归",
+        "onboard_time": 1725841100,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130685,
+        "num": 198516,
+        "word": "头回见是男主的青梅遇上天降的",
+        "onboard_time": 1725846618,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115538,
+        "num": 193086,
+        "word": "华晨宇6年3次的鸟巢之约圆满结束",
+        "onboard_time": 1725846259,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192354,
+        "num": 192354,
+        "word": "16岁少年理发被索要4000元",
+        "onboard_time": 1725793518,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180381,
+        "num": 180381,
+        "word": "久坐的人臀部会失忆",
+        "onboard_time": 1725818773,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158458,
+        "num": 172172,
+        "word": "加沙12岁女孩的课本被用来生火",
+        "onboard_time": 1725844280,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 170684,
+        "num": 170684,
+        "word": "iPhone16Pro预计维持999美元起价",
+        "onboard_time": 1725846499,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 166790,
+        "num": 166790,
+        "word": "教资准考证",
+        "onboard_time": 1725845478,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 149727,
+        "num": 149727,
+        "word": "iPhone16有哪些看点",
+        "onboard_time": 1725839418,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 146685,
+        "num": 146685,
+        "word": "国足在大连似乎走出了惨败阴影",
+        "onboard_time": 1725808102,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138380,
+        "num": 138380,
+        "word": "建议过敏患者大风天减少出行",
+        "onboard_time": 1725846499,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127819,
+        "num": 127819,
+        "word": "C罗绝杀",
+        "onboard_time": 1725837977,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126247,
+        "num": 126247,
+        "word": "2米高iPhone造价7万美元",
+        "onboard_time": 1725844099,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 119233,
+        "num": 119233,
+        "word": "理个发而已为啥这么贵",
+        "onboard_time": 1725840918,
+        "rank": 40,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 118197,
+        "num": 118197,
+        "word": "大学生因一顿烧烤进ICU换了5次血",
+        "onboard_time": 1725794781,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112206,
+        "num": 112206,
+        "word": "毛主席在开国大典上开心一笑",
+        "onboard_time": 1725846738,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110024,
+        "num": 110024,
+        "word": "小学生俩月花15000元在文具店集卡",
+        "onboard_time": 1725792919,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108442,
+        "num": 108442,
+        "word": "警方回应网约车乘客开门杀致人受伤",
+        "onboard_time": 1725845958,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108126,
+        "num": 108126,
+        "word": "红楼梦 琐碎",
+        "onboard_time": 1725845718,
+        "rank": 45,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 107776,
+        "num": 107776,
+        "word": "拒绝不了动物硬要表演",
+        "onboard_time": 1725842779,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106818,
+        "num": 106818,
+        "word": "东北雨姐算塌房了吗",
+        "onboard_time": 1725800419,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 106556,
+        "num": 106556,
+        "word": "央视曝光轻医美乱象",
+        "onboard_time": 1725800419,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102840,
+        "num": 102840,
+        "word": "知情人回应健身博主刘灿溺水身亡",
+        "onboard_time": 1725804021,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习进行时#"
+    }
+  }
+}
