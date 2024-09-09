@@ -1,6 +1,6 @@
 {
   "startTime": 1725899204781,
-  "endTime": 1725899204781,
+  "endTime": 1725900141624,
   "band_list": [
     {
       "raw_hot": 971074,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 943828,
+      "num": 943828,
+      "word": "iPhone16",
+      "onboard_time": 1725875480,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 935832,
       "num": 944802,
       "word": "张杰工作室道歉",
       "onboard_time": 1725891501,
       "rank": 0,
       "category": "演出"
-    },
-    {
-      "raw_hot": 841802,
-      "num": 841802,
-      "word": "iPhone16",
-      "onboard_time": 1725875480,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 644810,
@@ -83,6 +83,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 285408,
+      "num": 285408,
+      "word": "田曦薇演累了让我演两集",
+      "onboard_time": 1725898038,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280908,
       "num": 246541,
       "word": "1岁宝宝误触充电口手指瞬间焦黑",
@@ -115,14 +123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186891,
-      "num": 186891,
-      "word": "田曦薇演累了让我演两集",
-      "onboard_time": 1725898038,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 184446,
       "num": 184446,
       "word": "致多人中毒黄焖鸡品牌曾多次出问题",
@@ -136,6 +136,14 @@
       "word": "性侵中国女游客的韩男子被求刑10年",
       "onboard_time": 1725860719,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167398,
+      "num": 167398,
+      "word": "首批免签来华的老外已吃不下白人饭",
+      "onboard_time": 1725895460,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -169,14 +177,6 @@
       "onboard_time": 1725891982,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140683,
-      "num": 140441,
-      "word": "首批免签来华的老外已吃不下白人饭",
-      "onboard_time": 1725895460,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140637,
@@ -275,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98918,
+      "num": 98918,
+      "word": "语文老师回应走红重心放在教学上",
+      "onboard_time": 1725899296,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90998,
       "num": 90998,
       "word": "早点放下手机坚持早睡早起",
@@ -289,6 +297,14 @@
       "onboard_time": 1725879080,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89409,
+      "num": 89409,
+      "word": "苹果有线耳机或将停产",
+      "onboard_time": 1725889279,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 89195,
@@ -355,14 +371,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 79054,
-      "num": 80641,
-      "word": "苹果有线耳机或将停产",
-      "onboard_time": 1725889279,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
       "raw_hot": 73318,
       "num": 80640,
       "word": "沫沫 小杨哥",
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#习近平尊师重教的十个暖心故事#"
+    },
+    {
+      "word": "#习近平会见挪威首相斯特勒#"
     }
   ]
 }
