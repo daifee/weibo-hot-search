@@ -1,0 +1,410 @@
+{
+  "runTime": 1725877429471,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 922645,
+        "num": 1147623,
+        "word": "书亦烧仙草倒闭门店太多二手设备滞销",
+        "onboard_time": 1725866599,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 911503,
+        "num": 911503,
+        "word": "张杰应公开回应素人电话号事件",
+        "onboard_time": 1725876018,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91211,
+        "num": 753003,
+        "word": "老师口头禅大汇总",
+        "onboard_time": 1725863118,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702922,
+        "num": 702922,
+        "word": "性侵中国女游客的韩男子被求刑10年",
+        "onboard_time": 1725860719,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682854,
+        "num": 682854,
+        "word": "玄彬 孙艺珍仅是存在我就非常感谢了",
+        "onboard_time": 1725871941,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 393033,
+        "num": 393033,
+        "word": "郑钦文等6人拟记大功",
+        "onboard_time": 1725873259,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 389949,
+        "num": 389949,
+        "word": "iPhone16",
+        "onboard_time": 1725875480,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 379471,
+        "num": 379471,
+        "word": "会计被同事拉进群给假老板转账50万",
+        "onboard_time": 1725868700,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466525,
+        "num": 379072,
+        "word": "iPhone16或成苹果最具争议手机",
+        "onboard_time": 1725864378,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 72469,
+        "num": 374391,
+        "word": "中介因业绩差偷卖房东6台空调",
+        "onboard_time": 1725875840,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1379235,
+        "num": 371961,
+        "word": "父母困在没有退休金的日子里",
+        "onboard_time": 1725872360,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414944,
+        "num": 368045,
+        "word": "警方通报废弃房内发现女尸",
+        "onboard_time": 1725872659,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367322,
+        "num": 367322,
+        "word": "张凌赫4年多拍15部剧",
+        "onboard_time": 1725872900,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365701,
+        "num": 365701,
+        "word": "司机撞人无刑责行人获刑2年半",
+        "onboard_time": 1725866119,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43319,
+        "num": 364276,
+        "word": "班味儿到底是什么味儿",
+        "onboard_time": 1725876439,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363763,
+        "num": 363763,
+        "word": "四川一玉米地发现脐带未剪女婴",
+        "onboard_time": 1725867799,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346074,
+        "num": 346074,
+        "word": "宿舍养鸡",
+        "onboard_time": 1725874040,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233404,
+        "num": 346061,
+        "word": "张元英跳EMERGENCY",
+        "onboard_time": 1725872601,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 231604,
+        "num": 345993,
+        "word": "章若楠新粉丝名",
+        "onboard_time": 1725864859,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187623,
+        "num": 345958,
+        "word": "苗苗女儿看到螃蟹被煮后哭了",
+        "onboard_time": 1725861740,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 926261,
+        "num": 345926,
+        "word": "疯狂小杨哥假牛肉卷被罚款50万",
+        "onboard_time": 1725870560,
+        "rank": 20,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 799115,
+        "num": 345888,
+        "word": "小杨哥三代还宗",
+        "onboard_time": 1725861379,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 538300,
+        "num": 345861,
+        "word": "沫沫 小杨哥",
+        "onboard_time": 1725862579,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 345820,
+        "num": 345820,
+        "word": "888元一桌的婚宴鱼是生的菜是臭的",
+        "onboard_time": 1725860540,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460329,
+        "num": 309960,
+        "word": "小杨哥掉粉",
+        "onboard_time": 1725874577,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 262730,
+        "num": 262730,
+        "word": "小草包 JackeyLove",
+        "onboard_time": 1725871400,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 241006,
+        "num": 241006,
+        "word": "小杨哥直播数据",
+        "onboard_time": 1725873747,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 177750,
+        "num": 236547,
+        "word": "BOYNEXTDOOR主打曲MV",
+        "onboard_time": 1725876200,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 232277,
+        "num": 232277,
+        "word": "吉林一前村支书被刺身亡",
+        "onboard_time": 1725876498,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36782,
+        "num": 229085,
+        "word": "日本为什么会闹米荒",
+        "onboard_time": 1725876738,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228337,
+        "num": 228337,
+        "word": "外交部回应日本游客圆明园拍照被制止",
+        "onboard_time": 1725873919,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 200597,
+        "num": 200597,
+        "word": "女子路边摊点30颗痣后眼球被烧伤3层",
+        "onboard_time": 1725861318,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184511,
+        "num": 184511,
+        "word": "36元一张的学生票黄牛卖到180元",
+        "onboard_time": 1725862159,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176523,
+        "num": 176523,
+        "word": "下拉如坐飞机 没事哒没事哒",
+        "onboard_time": 1725874879,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167942,
+        "num": 167942,
+        "word": "杨洋素颜被偶遇",
+        "onboard_time": 1725855560,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167626,
+        "num": 167626,
+        "word": "王曼昱vs斯佐科斯",
+        "onboard_time": 1725870499,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163132,
+        "num": 163132,
+        "word": "3居室爆改7间卫浴套房楼下告了",
+        "onboard_time": 1725875359,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157104,
+        "num": 157104,
+        "word": "演唱会 进阶版口红效应",
+        "onboard_time": 1725877039,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156041,
+        "num": 156041,
+        "word": "17岁的我对铁饭碗不屑一顾",
+        "onboard_time": 1725874820,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155952,
+        "num": 155952,
+        "word": "王海质疑三只羊1万名剪辑冒充粉丝",
+        "onboard_time": 1725874577,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 153867,
+        "num": 153867,
+        "word": "白色月牙喊话Ning",
+        "onboard_time": 1725868219,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151598,
+        "num": 151598,
+        "word": "9岁女孩和同学外出后被发现溺亡",
+        "onboard_time": 1725875480,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149778,
+        "num": 149778,
+        "word": "WTT澳门冠军赛",
+        "onboard_time": 1725864019,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149672,
+        "num": 149672,
+        "word": "三折叠或为华为史上最贵手机",
+        "onboard_time": 1725872538,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 149629,
+        "num": 149629,
+        "word": "王海喊话小杨哥赔偿4200万给消费者",
+        "onboard_time": 1725874161,
+        "rank": 44,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 141206,
+        "num": 141206,
+        "word": "两个张桂梅老师时空交错了",
+        "onboard_time": 1725875359,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134512,
+        "num": 134512,
+        "word": "苹果官旗客服咨询已排起长龙",
+        "onboard_time": 1725877279,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133285,
+        "num": 133285,
+        "word": "王曼昱重复记者问题好可爱",
+        "onboard_time": 1725876257,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127675,
+        "num": 127675,
+        "word": "辛巴 小杨哥",
+        "onboard_time": 1725855200,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 112769,
+        "num": 112769,
+        "word": "妇联回应女孩爆料母亲被家暴一生",
+        "onboard_time": 1725865820,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让青春在时代进步中焕发出绚丽的光彩#"
+    }
+  }
+}

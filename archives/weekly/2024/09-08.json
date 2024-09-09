@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725874671841,
+  "endTime": 1725877429471,
   "band_list": [
     {
       "raw_hot": 2331163,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2026439,
-      "num": 303621,
+      "num": 345888,
       "word": "小杨哥三代还宗",
       "onboard_time": 1725861379,
       "rank": 20,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1379235,
+      "num": 371961,
+      "word": "父母困在没有退休金的日子里",
+      "onboard_time": 1725872360,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1351522,
       "num": 226679,
       "word": "三只羊沫沫去年12月被拘留",
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 1350748,
-      "num": 284382,
+      "num": 345926,
       "word": "疯狂小杨哥假牛肉卷被罚款50万",
       "onboard_time": 1725870560,
       "rank": 24,
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 1111476,
-      "num": 296168,
+      "num": 345861,
       "word": "沫沫 小杨哥",
       "onboard_time": 1725862579,
       "rank": 23,
@@ -345,6 +353,14 @@
       "onboard_time": 1725729316,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 911503,
+      "num": 911503,
+      "word": "张杰应公开回应素人电话号事件",
+      "onboard_time": 1725876018,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 907819,
@@ -955,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 460329,
+      "num": 309960,
+      "word": "小杨哥掉粉",
+      "onboard_time": 1725874577,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 458948,
       "num": 458948,
       "word": "许昕恢复训练",
@@ -1147,12 +1171,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 393033,
+      "num": 393033,
+      "word": "郑钦文等6人拟记大功",
+      "onboard_time": 1725873259,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 392309,
       "num": 392309,
       "word": "女子被醉酒丈夫家暴女儿哭求不要",
       "onboard_time": 1725840080,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389949,
+      "num": 389949,
+      "word": "iPhone16",
+      "onboard_time": 1725875480,
+      "rank": 6,
+      "category": "数码"
     },
     {
       "raw_hot": 386303,
@@ -1227,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367322,
+      "num": 367322,
+      "word": "张凌赫4年多拍15部剧",
+      "onboard_time": 1725872900,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 366383,
       "num": 366383,
       "word": "谁懂邓恩熙推开那一下啊",
@@ -1297,6 +1345,14 @@
       "onboard_time": 1725797899,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 346074,
+      "num": 346074,
+      "word": "宿舍养鸡",
+      "onboard_time": 1725874040,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 337570,
@@ -1377,14 +1433,6 @@
       "onboard_time": 1725865698,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 314559,
-      "num": 314559,
-      "word": "郑钦文等6人拟记大功",
-      "onboard_time": 1725873259,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 312483,
@@ -1545,14 +1593,6 @@
       "onboard_time": 1725794478,
       "rank": 16,
       "category": "网红"
-    },
-    {
-      "raw_hot": 276029,
-      "num": 296731,
-      "word": "张凌赫4年多拍15部剧",
-      "onboard_time": 1725872900,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 273600,
@@ -1771,6 +1811,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 241006,
+      "num": 241006,
+      "word": "小杨哥直播数据",
+      "onboard_time": 1725873747,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 240707,
       "num": 240707,
       "word": "北方人对桂花的执念有多强",
@@ -1835,12 +1883,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 233372,
-      "num": 228517,
-      "word": "小杨哥直播数据",
-      "onboard_time": 1725873747,
-      "rank": 43,
-      "category": "网红"
+      "raw_hot": 233404,
+      "num": 346061,
+      "word": "张元英跳EMERGENCY",
+      "onboard_time": 1725872601,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 232738,
@@ -1857,6 +1905,14 @@
       "onboard_time": 1725770959,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 232277,
+      "num": 232277,
+      "word": "吉林一前村支书被刺身亡",
+      "onboard_time": 1725876498,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231494,
@@ -1891,14 +1947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 229238,
-      "num": 287902,
-      "word": "父母困在没有退休金的日子里",
-      "onboard_time": 1725872360,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229101,
       "num": 229101,
       "word": "苹果将推出AirPodsMax2头戴式耳机",
@@ -1913,6 +1961,14 @@
       "onboard_time": 1725717321,
       "rank": 18,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 228337,
+      "num": 228337,
+      "word": "外交部回应日本游客圆明园拍照被制止",
+      "onboard_time": 1725873919,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 228297,
@@ -2265,14 +2321,6 @@
       "onboard_time": 1725800898,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202288,
-      "num": 187543,
-      "word": "外交部回应日本游客圆明园拍照被制止",
-      "onboard_time": 1725873919,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 202035,
@@ -2699,6 +2747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177750,
+      "num": 236547,
+      "word": "BOYNEXTDOOR主打曲MV",
+      "onboard_time": 1725876200,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 177653,
       "num": 177653,
       "word": "玄彬李栋旭合照",
@@ -2729,6 +2785,14 @@
       "onboard_time": 1725863718,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176523,
+      "num": 176523,
+      "word": "下拉如坐飞机 没事哒没事哒",
+      "onboard_time": 1725874879,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 176074,
@@ -2987,6 +3051,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 163132,
+      "num": 163132,
+      "word": "3居室爆改7间卫浴套房楼下告了",
+      "onboard_time": 1725875359,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162147,
       "num": 162147,
       "word": "与台风摩羯的硬仗仍在吃劲阶段",
@@ -3107,6 +3179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157104,
+      "num": 157104,
+      "word": "演唱会 进阶版口红效应",
+      "onboard_time": 1725877039,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157055,
       "num": 157055,
       "word": "杨丞琳雨爱大合唱",
@@ -3131,12 +3211,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156041,
+      "num": 156041,
+      "word": "17岁的我对铁饭碗不屑一顾",
+      "onboard_time": 1725874820,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156008,
       "num": 156008,
       "word": "蛋黄呢",
       "onboard_time": 1725712939,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 155952,
+      "num": 155952,
+      "word": "王海质疑三只羊1万名剪辑冒充粉丝",
+      "onboard_time": 1725874577,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 155802,
@@ -3251,6 +3347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 151598,
+      "num": 151598,
+      "word": "9岁女孩和同学外出后被发现溺亡",
+      "onboard_time": 1725875480,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151333,
       "num": 167609,
       "word": "Yamy喊话吴宣仪为火箭少女101办节目",
@@ -3281,6 +3385,14 @@
       "onboard_time": 1725806061,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 149629,
+      "num": 149629,
+      "word": "王海喊话小杨哥赔偿4200万给消费者",
+      "onboard_time": 1725874161,
+      "rank": 49,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 149582,
@@ -3347,14 +3459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147990,
-      "num": 147292,
-      "word": "小杨哥掉粉",
-      "onboard_time": 1725874577,
-      "rank": 38,
-      "category": "网红"
-    },
-    {
       "raw_hot": 147937,
       "num": 147937,
       "word": "2米高iPhone造价7万美元",
@@ -3385,14 +3489,6 @@
       "onboard_time": 1725865399,
       "rank": 38,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 146998,
-      "num": 144715,
-      "word": "王海质疑三只羊1万名剪辑冒充粉丝",
-      "onboard_time": 1725874577,
-      "rank": 40,
-      "category": "互联网"
     },
     {
       "raw_hot": 146336,
@@ -3523,14 +3619,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 142302,
-      "num": 142302,
-      "word": "张元英跳EMERGENCY",
-      "onboard_time": 1725872601,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 142119,
       "num": 142119,
       "word": "小鹿吐槽老家婚礼吃席现状好真实",
@@ -3553,6 +3641,14 @@
       "onboard_time": 1725794239,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 141206,
+      "num": 141206,
+      "word": "两个张桂梅老师时空交错了",
+      "onboard_time": 1725875359,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 141016,
@@ -3707,6 +3803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134512,
+      "num": 134512,
+      "word": "苹果官旗客服咨询已排起长龙",
+      "onboard_time": 1725877279,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 134147,
       "num": 134147,
       "word": "王铮亮干一行行一行",
@@ -3721,6 +3825,14 @@
       "onboard_time": 1725798079,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 133285,
+      "num": 133285,
+      "word": "王曼昱重复记者问题好可爱",
+      "onboard_time": 1725876257,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 133203,
@@ -3851,14 +3963,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 126826,
-      "num": 126826,
-      "word": "宿舍养鸡",
-      "onboard_time": 1725874040,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 126362,
       "num": 163061,
       "word": "北京时间其实产自西安",
@@ -3873,14 +3977,6 @@
       "onboard_time": 1725809780,
       "rank": 49,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 125525,
-      "num": 125525,
-      "word": "王海喊话小杨哥赔偿4200万给消费者",
-      "onboard_time": 1725874161,
-      "rank": 49,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 125458,
@@ -4747,6 +4843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 72469,
+      "num": 374391,
+      "word": "中介因业绩差偷卖房东6台空调",
+      "onboard_time": 1725875840,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72275,
       "num": 72275,
       "word": "美网",
@@ -5043,6 +5147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43319,
+      "num": 364276,
+      "word": "班味儿到底是什么味儿",
+      "onboard_time": 1725876439,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42322,
       "num": 76147,
       "word": "凡人歌",
@@ -5136,6 +5248,14 @@
       "word": "撸猫撸狗真的能让心情变好",
       "onboard_time": 1725798619,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36782,
+      "num": 229085,
+      "word": "日本为什么会闹米荒",
+      "onboard_time": 1725876738,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
