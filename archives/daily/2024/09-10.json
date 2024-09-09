@@ -1,6 +1,6 @@
 {
   "startTime": 1725899204781,
-  "endTime": 1725916790704,
+  "endTime": 1725917729079,
   "band_list": [
     {
       "raw_hot": 2017612,
@@ -83,8 +83,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 422821,
-      "num": 422821,
+      "raw_hot": 466850,
+      "num": 466850,
       "word": "iPhone16价格",
       "onboard_time": 1725906913,
       "rank": 24,
@@ -187,6 +187,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 251916,
+      "num": 251916,
+      "word": "苹果配色好丑",
+      "onboard_time": 1725907032,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 246067,
       "num": 246067,
       "word": "广西一青年飙车在医院门口身亡",
@@ -216,14 +224,6 @@
       "word": "苹果",
       "onboard_time": 1725901993,
       "rank": 10,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 239424,
-      "num": 239424,
-      "word": "苹果配色好丑",
-      "onboard_time": 1725907032,
-      "rank": 31,
       "category": "数码"
     },
     {
@@ -715,7 +715,7 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 18786,
+      "raw_hot": 19113,
       "num": 156737,
       "word": "在医疗领域开展扩大开放试点工作",
       "onboard_time": 1725905954,
@@ -753,6 +753,14 @@
       "onboard_time": 1725894920,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1360,
+      "num": 194649,
+      "word": "雪域高原焕新貌",
+      "onboard_time": 1725765199,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

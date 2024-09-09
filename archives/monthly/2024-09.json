@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725916790704,
+  "endTime": 1725917729079,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -5835,6 +5835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 466850,
+      "num": 466850,
+      "word": "iPhone16价格",
+      "onboard_time": 1725906913,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 466344,
       "num": 466344,
       "word": "周子瑜solo出道MV",
@@ -6353,14 +6361,6 @@
       "onboard_time": 1725347720,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 422821,
-      "num": 422821,
-      "word": "iPhone16价格",
-      "onboard_time": 1725906913,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 422815,
@@ -9723,6 +9723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251916,
+      "num": 251916,
+      "word": "苹果配色好丑",
+      "onboard_time": 1725907032,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 251576,
       "num": 251576,
       "word": "官方通报16岁少年理发被索要4000元",
@@ -10241,14 +10249,6 @@
       "onboard_time": 1725431359,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 239424,
-      "num": 239424,
-      "word": "苹果配色好丑",
-      "onboard_time": 1725907032,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 239381,
@@ -27299,6 +27299,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 19113,
+      "num": 156737,
+      "word": "在医疗领域开展扩大开放试点工作",
+      "onboard_time": 1725905954,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19060,
       "num": 173766,
       "word": "谢霆锋玩三国志战略版",
@@ -27321,14 +27329,6 @@
       "onboard_time": 1725652032,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18786,
-      "num": 156737,
-      "word": "在医疗领域开展扩大开放试点工作",
-      "onboard_time": 1725905954,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18756,
