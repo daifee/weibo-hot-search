@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725906507755,
+  "endTime": 1725907329872,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -1203,6 +1203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1336689,
+      "num": 1336689,
+      "word": "iPhone16配色",
+      "onboard_time": 1725904272,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1334016,
       "num": 1334016,
       "word": "日本拒绝投放储备米平抑高涨的米价",
@@ -1529,14 +1537,6 @@
       "onboard_time": 1725619641,
       "rank": 20,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1186320,
-      "num": 1186320,
-      "word": "iPhone16配色",
-      "onboard_time": 1725904272,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 1185902,
@@ -6139,6 +6139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 442739,
+      "num": 442739,
+      "word": "iPhone16Pro",
+      "onboard_time": 1725906314,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 442048,
       "num": 442048,
       "word": "HLE夺冠",
@@ -7859,6 +7867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317191,
+      "num": 317191,
+      "word": "粉色iPhone16",
+      "onboard_time": 1725905594,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 316808,
       "num": 316808,
       "word": "普京抵达蒙古国",
@@ -8731,6 +8747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 281941,
+      "num": 281941,
+      "word": "iPhone16系列发货时间曝光",
+      "onboard_time": 1725905712,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
       "raw_hot": 281889,
       "num": 281889,
       "word": "白月梵星",
@@ -9281,14 +9305,6 @@
       "onboard_time": 1725258920,
       "rank": 40,
       "category": "美食"
-    },
-    {
-      "raw_hot": 263412,
-      "num": 263412,
-      "word": "iPhone16系列发货时间曝光",
-      "onboard_time": 1725905712,
-      "rank": 10,
-      "category": "数码"
     },
     {
       "raw_hot": 263334,
@@ -12475,6 +12491,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 201021,
+      "num": 201021,
+      "word": "苹果AI 明年支持中文",
+      "onboard_time": 1725905233,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 200919,
       "num": 260605,
       "word": "王俊凯说再不打一会愈合了",
@@ -14707,14 +14731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182114,
-      "num": 182114,
-      "word": "苹果AI 明年支持中文",
-      "onboard_time": 1725905233,
-      "rank": 13,
-      "category": "数码"
-    },
-    {
       "raw_hot": 182009,
       "num": 182009,
       "word": "网友奔现第1天女子要2万金手镯",
@@ -15225,14 +15241,6 @@
       "onboard_time": 1725105618,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 177767,
-      "num": 177767,
-      "word": "粉色iPhone16",
-      "onboard_time": 1725905594,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 177750,
@@ -19595,14 +19603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142090,
-      "num": 142090,
-      "word": "iPhone16Pro",
-      "onboard_time": 1725906314,
-      "rank": 25,
-      "category": "数码"
-    },
-    {
       "raw_hot": 141870,
       "num": 141870,
       "word": "雪迷宫 乡村版破云",
@@ -21323,6 +21323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121432,
+      "num": 121432,
+      "word": "谁送我16pm",
+      "onboard_time": 1725906614,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 121384,
       "num": 121384,
       "word": "许昕 双开门",
@@ -21585,6 +21593,14 @@
       "onboard_time": 1725114501,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117643,
+      "num": 117643,
+      "word": "iPhone16价格",
+      "onboard_time": 1725906913,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 117440,
@@ -22681,6 +22697,14 @@
       "onboard_time": 1725282921,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 97283,
+      "num": 97283,
+      "word": "苹果配色好丑",
+      "onboard_time": 1725907032,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 97236,
@@ -23916,7 +23940,7 @@
     },
     {
       "raw_hot": 64114,
-      "num": 173132,
+      "num": 184430,
       "word": "张翰新剧",
       "onboard_time": 1725900676,
       "rank": 36,
@@ -25235,6 +25259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40858,
+      "num": 40858,
+      "word": "AirPods4充电盒有扬声器",
+      "onboard_time": 1725905834,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 40728,
       "num": 344936,
       "word": "开在社区路边的儿童性教育夜校",
@@ -25329,14 +25361,6 @@
       "onboard_time": 1725702859,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39570,
-      "num": 39570,
-      "word": "AirPods4充电盒有扬声器",
-      "onboard_time": 1725905834,
-      "rank": 46,
-      "category": "数码"
     },
     {
       "raw_hot": 39557,
@@ -27220,7 +27244,7 @@
     },
     {
       "raw_hot": 19384,
-      "num": 142169,
+      "num": 329236,
       "word": "浙江4名医生飞机上飞针救人",
       "onboard_time": 1725906433,
       "rank": 24,

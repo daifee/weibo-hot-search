@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725906507755,
+  "endTime": 1725907329872,
   "band_list": [
     {
       "raw_hot": 2936434,
@@ -243,6 +243,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 1336689,
+      "num": 1336689,
+      "word": "iPhone16配色",
+      "onboard_time": 1725904272,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1297808,
       "num": 1297808,
       "word": "毛主席在开国大典上开心一笑",
@@ -313,14 +321,6 @@
       "onboard_time": 1725886039,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1186320,
-      "num": 1186320,
-      "word": "iPhone16配色",
-      "onboard_time": 1725904272,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 1172324,
@@ -1179,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 442739,
+      "num": 442739,
+      "word": "iPhone16Pro",
+      "onboard_time": 1725906314,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 442048,
       "num": 442048,
       "word": "HLE夺冠",
@@ -1667,6 +1675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 317191,
+      "num": 317191,
+      "word": "粉色iPhone16",
+      "onboard_time": 1725905594,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 315268,
       "num": 315268,
       "word": "登陆少年全员改认证",
@@ -1867,6 +1883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 281941,
+      "num": 281941,
+      "word": "iPhone16系列发货时间曝光",
+      "onboard_time": 1725905712,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
       "raw_hot": 281154,
       "num": 281154,
       "word": "A股",
@@ -1977,14 +2001,6 @@
       "onboard_time": 1725804620,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 263412,
-      "num": 263412,
-      "word": "iPhone16系列发货时间曝光",
-      "onboard_time": 1725905712,
-      "rank": 10,
-      "category": "数码"
     },
     {
       "raw_hot": 262608,
@@ -2739,6 +2755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 201021,
+      "num": 201021,
+      "word": "苹果AI 明年支持中文",
+      "onboard_time": 1725905233,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 200919,
       "num": 260605,
       "word": "王俊凯说再不打一会愈合了",
@@ -3147,14 +3171,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 182114,
-      "num": 182114,
-      "word": "苹果AI 明年支持中文",
-      "onboard_time": 1725905233,
-      "rank": 13,
-      "category": "数码"
-    },
-    {
       "raw_hot": 181249,
       "num": 201118,
       "word": "Jennie10月solo回归",
@@ -3249,14 +3265,6 @@
       "onboard_time": 1725868999,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177767,
-      "num": 177767,
-      "word": "粉色iPhone16",
-      "onboard_time": 1725905594,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 177750,
@@ -4211,14 +4219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142090,
-      "num": 142090,
-      "word": "iPhone16Pro",
-      "onboard_time": 1725906314,
-      "rank": 25,
-      "category": "数码"
-    },
-    {
       "raw_hot": 141870,
       "num": 141870,
       "word": "雪迷宫 乡村版破云",
@@ -4795,6 +4795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121432,
+      "num": 121432,
+      "word": "谁送我16pm",
+      "onboard_time": 1725906614,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 121298,
       "num": 121298,
       "word": "婴儿供氧只剩1.5小时消防员出手了",
@@ -4953,6 +4961,14 @@
       "onboard_time": 1725808462,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117643,
+      "num": 117643,
+      "word": "iPhone16价格",
+      "onboard_time": 1725906913,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 117358,
@@ -5459,6 +5475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97283,
+      "num": 97283,
+      "word": "苹果配色好丑",
+      "onboard_time": 1725907032,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 97236,
       "num": 97236,
       "word": "周深扭秧歌",
@@ -5844,7 +5868,7 @@
     },
     {
       "raw_hot": 64114,
-      "num": 173132,
+      "num": 184430,
       "word": "张翰新剧",
       "onboard_time": 1725900676,
       "rank": 36,
@@ -6179,6 +6203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40858,
+      "num": 40858,
+      "word": "AirPods4充电盒有扬声器",
+      "onboard_time": 1725905834,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 40691,
       "num": 350799,
       "word": "患者因听力问题就诊被骗近4000元药费",
@@ -6193,14 +6225,6 @@
       "onboard_time": 1725870499,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39570,
-      "num": 39570,
-      "word": "AirPods4充电盒有扬声器",
-      "onboard_time": 1725905834,
-      "rank": 46,
-      "category": "数码"
     },
     {
       "raw_hot": 39482,
@@ -6548,7 +6572,7 @@
     },
     {
       "raw_hot": 19384,
-      "num": 142169,
+      "num": 329236,
       "word": "浙江4名医生飞机上飞针救人",
       "onboard_time": 1725906433,
       "rank": 24,
