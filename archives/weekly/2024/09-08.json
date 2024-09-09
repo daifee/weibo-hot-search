@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725910505787,
+  "endTime": 1725913366774,
   "band_list": [
     {
       "raw_hot": 2936434,
@@ -1251,6 +1251,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 420183,
+      "num": 420183,
+      "word": "iPhone16价格",
+      "onboard_time": 1725906913,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 419637,
       "num": 359157,
       "word": "国足备战受冷遇",
@@ -1593,14 +1601,6 @@
       "onboard_time": 1725886822,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 344940,
-      "num": 344940,
-      "word": "iPhone16价格",
-      "onboard_time": 1725906913,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 337570,
@@ -3427,6 +3427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171182,
+      "num": 171182,
+      "word": "沙漠色iPhone16Pro",
+      "onboard_time": 1725907573,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 171158,
       "num": 171158,
       "word": "Tian 你是我的劫",
@@ -3905,14 +3913,6 @@
       "onboard_time": 1725767120,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 153151,
-      "num": 153151,
-      "word": "沙漠色iPhone16Pro",
-      "onboard_time": 1725907573,
-      "rank": 13,
-      "category": "数码"
     },
     {
       "raw_hot": 152951,
@@ -5771,6 +5771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75444,
+      "num": 75444,
+      "word": "苹果发布会介绍腾讯新游戏",
+      "onboard_time": 1725907692,
+      "rank": 30,
+      "category": "游戏,数码"
+    },
+    {
       "raw_hot": 73193,
       "num": 73193,
       "word": "胖东来来重庆了",
@@ -5833,14 +5841,6 @@
       "onboard_time": 1725837977,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 67884,
-      "num": 67884,
-      "word": "苹果发布会介绍腾讯新游戏",
-      "onboard_time": 1725907692,
-      "rank": 30,
-      "category": "游戏,数码"
     },
     {
       "raw_hot": 67451,
@@ -6371,6 +6371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33607,
+      "num": 33607,
+      "word": "凌晨三点的街很黑",
+      "onboard_time": 1725909371,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 32332,
       "num": 290175,
       "word": "起底黑医美案背后的灰色产业链",
@@ -6385,14 +6393,6 @@
       "onboard_time": 1725880099,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31684,
-      "num": 31684,
-      "word": "凌晨三点的街很黑",
-      "onboard_time": 1725909371,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 31288,
@@ -6691,6 +6691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14490,
+      "num": 39194,
+      "word": "鞠婧祎加盟中秋奇妙游",
+      "onboard_time": 1725904093,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 13288,
       "num": 92864,
       "word": "颐莲嘭嘭霜",
@@ -6745,6 +6753,14 @@
       "onboard_time": 1725782660,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10231,
+      "num": 156737,
+      "word": "在医疗领域开展扩大开放试点工作",
+      "onboard_time": 1725905954,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 10124,

@@ -1,6 +1,6 @@
 {
   "startTime": 1725899204781,
-  "endTime": 1725910505787,
+  "endTime": 1725913366774,
   "band_list": [
     {
       "raw_hot": 2017612,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 420183,
+      "num": 420183,
+      "word": "iPhone16价格",
+      "onboard_time": 1725906913,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 377267,
       "num": 377267,
       "word": "孙海洋支持孙卓在大学谈恋爱",
@@ -104,14 +112,6 @@
       "word": "苹果发布会直播",
       "onboard_time": 1725902115,
       "rank": 4,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 344940,
-      "num": 344940,
-      "word": "iPhone16价格",
-      "onboard_time": 1725906913,
-      "rank": 24,
       "category": "数码"
     },
     {
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171182,
+      "num": 171182,
+      "word": "沙漠色iPhone16Pro",
+      "onboard_time": 1725907573,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 167398,
       "num": 167398,
       "word": "首批免签来华的老外已吃不下白人饭",
@@ -313,14 +321,6 @@
       "onboard_time": 1725877939,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153151,
-      "num": 153151,
-      "word": "沙漠色iPhone16Pro",
-      "onboard_time": 1725907573,
-      "rank": 13,
-      "category": "数码"
     },
     {
       "raw_hot": 151997,
@@ -563,6 +563,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 75444,
+      "num": 75444,
+      "word": "苹果发布会介绍腾讯新游戏",
+      "onboard_time": 1725907692,
+      "rank": 30,
+      "category": "游戏,数码"
+    },
+    {
       "raw_hot": 73318,
       "num": 80640,
       "word": "沫沫 小杨哥",
@@ -585,14 +593,6 @@
       "onboard_time": 1725882319,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 67884,
-      "num": 67884,
-      "word": "苹果发布会介绍腾讯新游戏",
-      "onboard_time": 1725907692,
-      "rank": 30,
-      "category": "游戏,数码"
     },
     {
       "raw_hot": 64114,
@@ -691,6 +691,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 33607,
+      "num": 33607,
+      "word": "凌晨三点的街很黑",
+      "onboard_time": 1725909371,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 32551,
       "num": 1176056,
       "word": "万千气象看内蒙古",
@@ -699,20 +707,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 31684,
-      "num": 31684,
-      "word": "凌晨三点的街很黑",
-      "onboard_time": 1725909371,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
       "raw_hot": 19384,
       "num": 329236,
       "word": "浙江4名医生飞机上飞针救人",
       "onboard_time": 1725906433,
       "rank": 24,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 14490,
+      "num": 39194,
+      "word": "鞠婧祎加盟中秋奇妙游",
+      "onboard_time": 1725904093,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 12704,
@@ -728,6 +736,14 @@
       "word": "文化中国行看秦兵马俑考古发掘50年",
       "onboard_time": 1725894920,
       "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 10231,
+      "num": 156737,
+      "word": "在医疗领域开展扩大开放试点工作",
+      "onboard_time": 1725905954,
+      "rank": 9,
       "category": "国内时政"
     }
   ],
