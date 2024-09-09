@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725914178067,
+  "endTime": 1725916790704,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -6355,6 +6355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 422821,
+      "num": 422821,
+      "word": "iPhone16价格",
+      "onboard_time": 1725906913,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 422815,
       "num": 422815,
       "word": "陈飞宇迪丽热巴cp感",
@@ -6417,14 +6425,6 @@
       "onboard_time": 1725158778,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 420183,
-      "num": 420183,
-      "word": "iPhone16价格",
-      "onboard_time": 1725906913,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 419637,
@@ -27323,6 +27323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18786,
+      "num": 156737,
+      "word": "在医疗领域开展扩大开放试点工作",
+      "onboard_time": 1725905954,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18756,
       "num": 101265,
       "word": "女孩向男友求婚没想男友也准备求婚",
@@ -27769,14 +27777,6 @@
       "onboard_time": 1725782660,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 10231,
-      "num": 156737,
-      "word": "在医疗领域开展扩大开放试点工作",
-      "onboard_time": 1725905954,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 10124,

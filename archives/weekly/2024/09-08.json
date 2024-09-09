@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725914178067,
+  "endTime": 1725916790704,
   "band_list": [
     {
       "raw_hot": 2936434,
@@ -1251,8 +1251,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 420183,
-      "num": 420183,
+      "raw_hot": 422821,
+      "num": 422821,
       "word": "iPhone16价格",
       "onboard_time": 1725906913,
       "rank": 24,
@@ -6635,6 +6635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18786,
+      "num": 156737,
+      "word": "在医疗领域开展扩大开放试点工作",
+      "onboard_time": 1725905954,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18644,
       "num": 315369,
       "word": "美英情报负责人史无前例一起露面",
@@ -6753,14 +6761,6 @@
       "onboard_time": 1725782660,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 10231,
-      "num": 156737,
-      "word": "在医疗领域开展扩大开放试点工作",
-      "onboard_time": 1725905954,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 10124,
