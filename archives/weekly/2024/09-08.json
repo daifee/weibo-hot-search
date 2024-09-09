@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725896256778,
+  "endTime": 1725899204781,
   "band_list": [
     {
       "raw_hot": 2936434,
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 971074,
+      "num": 217718,
+      "word": "女子通过蠕动解压被吐槽太抽象",
+      "onboard_time": 1725894980,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 955139,
       "num": 955139,
       "word": "2男子盗播超8万部剧集获利3.92亿",
@@ -497,6 +505,14 @@
       "onboard_time": 1725871941,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 841802,
+      "num": 841802,
+      "word": "iPhone16",
+      "onboard_time": 1725875480,
+      "rank": 6,
+      "category": "数码"
     },
     {
       "raw_hot": 827847,
@@ -817,14 +833,6 @@
       "onboard_time": 1725735432,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 588778,
-      "num": 588778,
-      "word": "iPhone16",
-      "onboard_time": 1725875480,
-      "rank": 6,
-      "category": "数码"
     },
     {
       "raw_hot": 577489,
@@ -1403,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377267,
+      "num": 377267,
+      "word": "孙海洋支持孙卓在大学谈恋爱",
+      "onboard_time": 1725897319,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373423,
       "num": 373423,
       "word": "湖南卫视酸甜之夜",
@@ -1569,14 +1585,6 @@
       "onboard_time": 1725772340,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 326560,
-      "num": 217718,
-      "word": "女子通过蠕动解压被吐槽太抽象",
-      "onboard_time": 1725894980,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 324770,
@@ -2955,6 +2963,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 186891,
+      "num": 186891,
+      "word": "田曦薇演累了让我演两集",
+      "onboard_time": 1725898038,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186792,
       "num": 219492,
       "word": "乒乓球比赛不能穿什么颜色衣服",
@@ -4107,6 +4123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 140683,
+      "num": 140441,
+      "word": "首批免签来华的老外已吃不下白人饭",
+      "onboard_time": 1725895460,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140644,
       "num": 140644,
       "word": "2024华晨宇火星演唱会",
@@ -4665,14 +4689,6 @@
       "onboard_time": 1725894020,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 121155,
-      "num": 121155,
-      "word": "首批免签来华的老外已吃不下白人饭",
-      "onboard_time": 1725895460,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120701,
@@ -5745,6 +5761,14 @@
       "onboard_time": 1725816854,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56546,
+      "num": 80628,
+      "word": "比悟空画的圈都管用",
+      "onboard_time": 1725896598,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 56073,

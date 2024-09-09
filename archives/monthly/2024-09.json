@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725896256778,
+  "endTime": 1725899204781,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -2115,6 +2115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 971074,
+      "num": 217718,
+      "word": "女子通过蠕动解压被吐槽太抽象",
+      "onboard_time": 1725894980,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 965876,
       "num": 1154540,
       "word": "88VIP称正分批邀商家开通微信支付",
@@ -2729,6 +2737,14 @@
       "onboard_time": 1725559273,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 841802,
+      "num": 841802,
+      "word": "iPhone16",
+      "onboard_time": 1725627679,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 841289,
@@ -4449,14 +4465,6 @@
       "onboard_time": 1725622519,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 588778,
-      "num": 588778,
-      "word": "iPhone16",
-      "onboard_time": 1725627679,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 588680,
@@ -6899,6 +6907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377267,
+      "num": 377267,
+      "word": "孙海洋支持孙卓在大学谈恋爱",
+      "onboard_time": 1725897319,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376064,
       "num": 497731,
       "word": "被王楚然55套古装硬控35秒",
@@ -7681,14 +7697,6 @@
       "onboard_time": 1725529759,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 326560,
-      "num": 217718,
-      "word": "女子通过蠕动解压被吐槽太抽象",
-      "onboard_time": 1725894980,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 326482,
@@ -14099,6 +14107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 186891,
+      "num": 186891,
+      "word": "田曦薇演累了让我演两集",
+      "onboard_time": 1725898038,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186832,
       "num": 283752,
       "word": "宋亚轩刘耀文表情",
@@ -19547,6 +19563,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 140683,
+      "num": 140441,
+      "word": "首批免签来华的老外已吃不下白人饭",
+      "onboard_time": 1725895460,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140644,
       "num": 140644,
       "word": "2024华晨宇火星演唱会",
@@ -21201,14 +21225,6 @@
       "onboard_time": 1725894020,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 121155,
-      "num": 121155,
-      "word": "首批免签来华的老外已吃不下白人饭",
-      "onboard_time": 1725895460,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121112,
@@ -24073,6 +24089,14 @@
       "onboard_time": 1725458303,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56546,
+      "num": 80628,
+      "word": "比悟空画的圈都管用",
+      "onboard_time": 1725896598,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 56404,
