@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725871386716,
+  "endTime": 1725873862580,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -1107,6 +1107,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1350748,
+      "num": 284382,
+      "word": "疯狂小杨哥假牛肉卷被罚款50万",
+      "onboard_time": 1725870560,
+      "rank": 24,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 1346914,
       "num": 678102,
       "word": "黄轩什么时候结婚了",
@@ -1833,6 +1841,14 @@
       "onboard_time": 1725200000,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1023581,
+      "num": 413765,
+      "word": "四川一玉米地发现脐带未剪女婴",
+      "onboard_time": 1725867799,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1023188,
@@ -2875,6 +2891,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 802959,
+      "num": 802959,
+      "word": "玄彬 孙艺珍仅是存在我就非常感谢了",
+      "onboard_time": 1725871941,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 800797,
       "num": 941987,
       "word": "野孩子 定档",
@@ -3201,6 +3225,14 @@
       "onboard_time": 1725446120,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 738580,
+      "num": 738580,
+      "word": "会计被同事拉进群给假老板转账50万",
+      "onboard_time": 1725868700,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 733745,
@@ -3755,14 +3787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 653349,
-      "num": 207696,
-      "word": "疯狂小杨哥假牛肉卷被罚款50万",
-      "onboard_time": 1725870560,
-      "rank": 24,
-      "category": "互联网,网红"
-    },
-    {
       "raw_hot": 651985,
       "num": 651985,
       "word": "权志龙太阳大声合体",
@@ -4264,14 +4288,6 @@
       "word": "女子花光妈妈100万伪造250万假存单",
       "onboard_time": 1725347241,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 592788,
-      "num": 338785,
-      "word": "四川一玉米地发现脐带未剪女婴",
-      "onboard_time": 1725867799,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -5169,6 +5185,14 @@
       "onboard_time": 1725125417,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 500969,
+      "num": 500969,
+      "word": "王曼昱vs斯佐科斯",
+      "onboard_time": 1725870499,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 500182,
@@ -6219,6 +6243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 412959,
+      "num": 412959,
+      "word": "小草包 JackeyLove",
+      "onboard_time": 1725871400,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 412647,
       "num": 233359,
       "word": "马上就要到我最恨的季节了",
@@ -6625,14 +6657,6 @@
       "onboard_time": 1725506958,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 379605,
-      "num": 379605,
-      "word": "王曼昱vs斯佐科斯",
-      "onboard_time": 1725870499,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 379134,
@@ -7481,6 +7505,14 @@
       "onboard_time": 1725452541,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 320967,
+      "num": 320967,
+      "word": "警方通报废弃房内发现女尸",
+      "onboard_time": 1725872659,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319631,
@@ -8788,7 +8820,7 @@
     },
     {
       "raw_hot": 267847,
-      "num": 267847,
+      "num": 291188,
       "word": "李一桐小狗抹胸裙",
       "onboard_time": 1725866958,
       "rank": 24,
@@ -9321,6 +9353,14 @@
       "onboard_time": 1725633023,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250252,
+      "num": 250252,
+      "word": "郑钦文等6人拟记大功",
+      "onboard_time": 1725873259,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 250133,
@@ -10147,6 +10187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230943,
+      "num": 230943,
+      "word": "这份工作只用铅笔不用橡皮",
+      "onboard_time": 1725867199,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230260,
       "num": 230260,
       "word": "泰国醉酒男葬礼上闹事被乱抢打死",
@@ -10465,6 +10513,14 @@
       "onboard_time": 1725203963,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 222605,
+      "num": 296731,
+      "word": "张凌赫4年多拍15部剧",
+      "onboard_time": 1725872900,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 222462,
@@ -11867,6 +11923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201679,
+      "num": 295591,
+      "word": "黄景瑜回应见张艺谋转一圈出去了",
+      "onboard_time": 1725868339,
+      "rank": 17,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 201574,
       "num": 201574,
       "word": "宋亚轩 现在就出发2",
@@ -12457,22 +12521,6 @@
       "onboard_time": 1725832992,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 196538,
-      "num": 196538,
-      "word": "这份工作只用铅笔不用橡皮",
-      "onboard_time": 1725867199,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196421,
-      "num": 264085,
-      "word": "会计被同事拉进群给假老板转账50万",
-      "onboard_time": 1725868700,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196373,
@@ -14593,6 +14641,14 @@
       "onboard_time": 1725105618,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177653,
+      "num": 177653,
+      "word": "玄彬李栋旭合照",
+      "onboard_time": 1725871340,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 177630,
@@ -16923,6 +16979,14 @@
       "category": "互联网,科学科普"
     },
     {
+      "raw_hot": 157967,
+      "num": 157967,
+      "word": "王曼昱奥运后首秀开门红",
+      "onboard_time": 1725873561,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157958,
       "num": 157958,
       "word": "官方通报开学发现学校人去楼空",
@@ -18257,6 +18321,14 @@
       "onboard_time": 1725524719,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146876,
+      "num": 146876,
+      "word": "三折叠或为华为史上最贵手机",
+      "onboard_time": 1725872538,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 146570,
@@ -19883,6 +19955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 128822,
+      "num": 128822,
+      "word": "小杨哥直播数据",
+      "onboard_time": 1725873747,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 128778,
       "num": 128778,
       "word": "苹果今晚或将发布两款手表",
@@ -20017,6 +20097,14 @@
       "onboard_time": 1725618980,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126679,
+      "num": 126679,
+      "word": "张元英跳EMERGENCY",
+      "onboard_time": 1725872601,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 126362,
@@ -20243,6 +20331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124132,
+      "num": 124132,
+      "word": "齐思钧魏哲鸣 二山得六啊",
+      "onboard_time": 1725873259,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124084,
       "num": 124084,
       "word": "对不起 我实在太爱吃饭了",
@@ -20265,6 +20361,14 @@
       "onboard_time": 1725772399,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124000,
+      "num": 138130,
+      "word": "中秋档",
+      "onboard_time": 1725871099,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 123611,
@@ -20483,14 +20587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 119905,
-      "num": 119905,
-      "word": "玄彬李栋旭合照",
-      "onboard_time": 1725871340,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 119893,
       "num": 232117,
       "word": "华晨宇演唱会经费在燃烧",
@@ -20633,6 +20729,14 @@
       "onboard_time": 1725168858,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117358,
+      "num": 122325,
+      "word": "十个勤天 祝你种自己得自己",
+      "onboard_time": 1725871639,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 117090,
@@ -21779,6 +21883,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 92312,
+      "num": 1057924,
+      "word": "老师口头禅大汇总",
+      "onboard_time": 1725863118,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92147,
       "num": 92147,
       "word": "广西广东海南将迎狂风暴雨",
@@ -21875,6 +21987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88772,
+      "num": 257549,
+      "word": "罗云熙软骨组织损伤",
+      "onboard_time": 1725870379,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88769,
       "num": 139557,
       "word": "老舅 迎新晚会",
@@ -21969,6 +22089,14 @@
       "onboard_time": 1725404536,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87059,
+      "num": 287902,
+      "word": "父母困在没有退休金的日子里",
+      "onboard_time": 1725872360,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87004,
@@ -22891,14 +23019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59609,
-      "num": 138130,
-      "word": "中秋档",
-      "onboard_time": 1725871099,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 59551,
       "num": 898512,
       "word": "神十八航天员太空出差Vlog上新",
@@ -23168,6 +23288,14 @@
       "word": "贵阳一托管机构多名孩子疑似食物中毒",
       "onboard_time": 1725627201,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54922,
+      "num": 414026,
+      "word": "首批养老专业本科生为啥遭疯抢",
+      "onboard_time": 1725873020,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -24139,6 +24267,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 38931,
+      "num": 310463,
+      "word": "天价理发店不能惯着",
+      "onboard_time": 1725872839,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38743,
       "num": 336585,
       "word": "亲历者回忆台风摩羯来袭瞬间",
@@ -24328,14 +24464,6 @@
       "word": "律师在线解读男孩骑行被碾压案",
       "onboard_time": 1725712280,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36672,
-      "num": 1057924,
-      "word": "老师口头禅大汇总",
-      "onboard_time": 1725863118,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -24769,14 +24897,6 @@
       "onboard_time": 1725616161,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 31785,
-      "num": 168251,
-      "word": "罗云熙软骨组织损伤",
-      "onboard_time": 1725870379,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 31761,

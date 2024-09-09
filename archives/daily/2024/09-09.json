@@ -1,6 +1,6 @@
 {
   "startTime": 1725812757378,
-  "endTime": 1725871386716,
+  "endTime": 1725873862580,
   "band_list": [
     {
       "raw_hot": 2254379,
@@ -57,6 +57,14 @@
       "onboard_time": 1725848358,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1350748,
+      "num": 284382,
+      "word": "疯狂小杨哥假牛肉卷被罚款50万",
+      "onboard_time": 1725870560,
+      "rank": 24,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 1297808,
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1023581,
+      "num": 413765,
+      "word": "四川一玉米地发现脐带未剪女婴",
+      "onboard_time": 1725867799,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1014233,
       "num": 1132477,
       "word": "赵露思 没有办法总是这样",
@@ -163,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 802959,
+      "num": 802959,
+      "word": "玄彬 孙艺珍仅是存在我就非常感谢了",
+      "onboard_time": 1725871941,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 789396,
       "num": 789396,
       "word": "iPhone16仍有4款型号",
@@ -185,6 +209,14 @@
       "onboard_time": 1725842001,
       "rank": 3,
       "category": "数码"
+    },
+    {
+      "raw_hot": 738580,
+      "num": 738580,
+      "word": "会计被同事拉进群给假老板转账50万",
+      "onboard_time": 1725868700,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 713021,
@@ -241,14 +273,6 @@
       "onboard_time": 1725861318,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 653349,
-      "num": 207696,
-      "word": "疯狂小杨哥假牛肉卷被罚款50万",
-      "onboard_time": 1725870560,
-      "rank": 24,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 648594,
@@ -313,14 +337,6 @@
       "onboard_time": 1725805728,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 592788,
-      "num": 338785,
-      "word": "四川一玉米地发现脐带未剪女婴",
-      "onboard_time": 1725867799,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 592568,
@@ -403,6 +419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 500969,
+      "num": 500969,
+      "word": "王曼昱vs斯佐科斯",
+      "onboard_time": 1725870499,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 491681,
       "num": 396609,
       "word": "有6个习惯的人甲状腺都比较好",
@@ -467,6 +491,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 412959,
+      "num": 412959,
+      "word": "小草包 JackeyLove",
+      "onboard_time": 1725871400,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 412647,
       "num": 233359,
       "word": "马上就要到我最恨的季节了",
@@ -497,14 +529,6 @@
       "onboard_time": 1725855381,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 379605,
-      "num": 379605,
-      "word": "王曼昱vs斯佐科斯",
-      "onboard_time": 1725870499,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 350444,
@@ -544,6 +568,14 @@
       "word": "小学生俩月花15000元在文具店集卡",
       "onboard_time": 1725792919,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320967,
+      "num": 320967,
+      "word": "警方通报废弃房内发现女尸",
+      "onboard_time": 1725872659,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -644,7 +676,7 @@
     },
     {
       "raw_hot": 267847,
-      "num": 267847,
+      "num": 291188,
       "word": "李一桐小狗抹胸裙",
       "onboard_time": 1725866958,
       "rank": 24,
@@ -689,6 +721,14 @@
       "onboard_time": 1725807984,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250252,
+      "num": 250252,
+      "word": "郑钦文等6人拟记大功",
+      "onboard_time": 1725873259,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 245143,
@@ -755,6 +795,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 230943,
+      "num": 230943,
+      "word": "这份工作只用铅笔不用橡皮",
+      "onboard_time": 1725867199,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230160,
       "num": 230160,
       "word": "毒液3内地定档",
@@ -817,6 +865,14 @@
       "onboard_time": 1725849737,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 222605,
+      "num": 296731,
+      "word": "张凌赫4年多拍15部剧",
+      "onboard_time": 1725872900,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 221196,
@@ -947,6 +1003,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 201679,
+      "num": 295591,
+      "word": "黄景瑜回应见张艺谋转一圈出去了",
+      "onboard_time": 1725868339,
+      "rank": 17,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 200919,
       "num": 260605,
       "word": "王俊凯说再不打一会愈合了",
@@ -985,22 +1049,6 @@
       "onboard_time": 1725832992,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 196538,
-      "num": 196538,
-      "word": "这份工作只用铅笔不用橡皮",
-      "onboard_time": 1725867199,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196421,
-      "num": 264085,
-      "word": "会计被同事拉进群给假老板转账50万",
-      "onboard_time": 1725868700,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194342,
@@ -1105,6 +1153,14 @@
       "onboard_time": 1725868999,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177653,
+      "num": 177653,
+      "word": "玄彬李栋旭合照",
+      "onboard_time": 1725871340,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 177570,
@@ -1283,6 +1339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 157967,
+      "num": 157967,
+      "word": "王曼昱奥运后首秀开门红",
+      "onboard_time": 1725873561,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156717,
       "num": 156717,
       "word": "国足打沙特大概率还是付费直播",
@@ -1393,6 +1457,14 @@
       "onboard_time": 1725865399,
       "rank": 38,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 146876,
+      "num": 146876,
+      "word": "三折叠或为华为史上最贵手机",
+      "onboard_time": 1725872538,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 146864,
@@ -1587,6 +1659,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 128822,
+      "num": 128822,
+      "word": "小杨哥直播数据",
+      "onboard_time": 1725873747,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 128778,
       "num": 128778,
       "word": "苹果今晚或将发布两款手表",
@@ -1601,6 +1681,14 @@
       "onboard_time": 1725860957,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 126679,
+      "num": 126679,
+      "word": "张元英跳EMERGENCY",
+      "onboard_time": 1725872601,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 125704,
@@ -1619,6 +1707,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 124132,
+      "num": 124132,
+      "word": "齐思钧魏哲鸣 二山得六啊",
+      "onboard_time": 1725873259,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 124000,
+      "num": 138130,
+      "word": "中秋档",
+      "onboard_time": 1725871099,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 121650,
       "num": 121650,
       "word": "熊猫妈妈把自家孩子当见面礼了",
@@ -1635,20 +1739,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119905,
-      "num": 119905,
-      "word": "玄彬李栋旭合照",
-      "onboard_time": 1725871340,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 119458,
       "num": 119458,
       "word": "WTT澳门冠军赛球员MBTI",
       "onboard_time": 1725852139,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117358,
+      "num": 122325,
+      "word": "十个勤天 祝你种自己得自己",
+      "onboard_time": 1725871639,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 117090,
@@ -1843,6 +1947,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92312,
+      "num": 1057924,
+      "word": "老师口头禅大汇总",
+      "onboard_time": 1725863118,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88772,
+      "num": 257549,
+      "word": "罗云熙软骨组织损伤",
+      "onboard_time": 1725870379,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 87059,
+      "num": 287902,
+      "word": "父母困在没有退休金的日子里",
+      "onboard_time": 1725872360,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86752,
       "num": 86752,
       "word": "卢昱晓侯明昊 微表情好品",
@@ -1979,14 +2107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59609,
-      "num": 138130,
-      "word": "中秋档",
-      "onboard_time": 1725871099,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 57917,
       "num": 252767,
       "word": "年轻人的moveon文化火了",
@@ -2017,6 +2137,14 @@
       "onboard_time": 1725816854,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 54922,
+      "num": 414026,
+      "word": "首批养老专业本科生为啥遭疯抢",
+      "onboard_time": 1725873020,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52513,
@@ -2091,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38931,
+      "num": 310463,
+      "word": "天价理发店不能惯着",
+      "onboard_time": 1725872839,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38336,
       "num": 76090,
       "word": "5年前摇号未中如今低价买到心仪现房",
@@ -2112,14 +2248,6 @@
       "word": "秋台风摩羯过境后被截断的生计",
       "onboard_time": 1725850940,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36672,
-      "num": 1057924,
-      "word": "老师口头禅大汇总",
-      "onboard_time": 1725863118,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2153,14 +2281,6 @@
       "onboard_time": 1725858559,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31785,
-      "num": 168251,
-      "word": "罗云熙软骨组织损伤",
-      "onboard_time": 1725870379,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 31288,
