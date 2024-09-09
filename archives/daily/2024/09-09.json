@@ -1,6 +1,6 @@
 {
   "startTime": 1725812757378,
-  "endTime": 1725889190790,
+  "endTime": 1725891780810,
   "band_list": [
     {
       "raw_hot": 2254379,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1192193,
+      "num": 1192193,
+      "word": "月饼为什么卖不动了",
+      "onboard_time": 1725886039,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1111476,
       "num": 345861,
       "word": "沫沫 小杨哥",
@@ -299,14 +307,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 752007,
-      "num": 752007,
-      "word": "月饼为什么卖不动了",
-      "onboard_time": 1725886039,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 737735,
       "num": 215167,
       "word": "警方介入小学生在校死亡脖子现勒痕",
@@ -336,6 +336,14 @@
       "word": "月薪几万才能吃到靠谱干净的外卖",
       "onboard_time": 1725853879,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 705524,
+      "num": 705524,
+      "word": "教师节前班主任开家长会嘱咐别送礼",
+      "onboard_time": 1725889279,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -547,12 +555,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 473280,
-      "num": 473280,
+      "raw_hot": 485299,
+      "num": 485299,
       "word": "iPhone16",
       "onboard_time": 1725875480,
       "rank": 6,
       "category": "数码"
+    },
+    {
+      "raw_hot": 463357,
+      "num": 246675,
+      "word": "小杨哥已掉粉超百万",
+      "onboard_time": 1725885980,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 460329,
@@ -659,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395532,
+      "num": 395532,
+      "word": "张杰工作室道歉",
+      "onboard_time": 1725891501,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 393033,
       "num": 393033,
       "word": "郑钦文等6人拟记大功",
@@ -683,20 +707,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 379498,
+      "num": 379498,
+      "word": "张雨绮张真源豪门姐弟具象化",
+      "onboard_time": 1725888859,
+      "rank": 45,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 367322,
       "num": 367322,
       "word": "张凌赫4年多拍15部剧",
       "onboard_time": 1725872900,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 352818,
-      "num": 246675,
-      "word": "小杨哥已掉粉超百万",
-      "onboard_time": 1725885980,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 350444,
@@ -915,12 +939,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 256255,
+      "num": 216710,
+      "word": "年轻人改造租屋拒绝没苦硬吃",
+      "onboard_time": 1725890241,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256082,
       "num": 256082,
       "word": "iPhone16爆料",
       "onboard_time": 1725855260,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 255471,
+      "num": 255471,
+      "word": "孙颖莎回应奥运后首秀",
+      "onboard_time": 1725889641,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 254420,
@@ -1331,6 +1371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 195418,
+      "num": 195418,
+      "word": "TES回应JackeyLove谣言",
+      "onboard_time": 1725890060,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195092,
       "num": 195092,
       "word": "苹果官旗客服咨询已排起长龙",
@@ -1345,6 +1393,14 @@
       "onboard_time": 1725881540,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194454,
+      "num": 194454,
+      "word": "华为新机提前拆封罚款50万起",
+      "onboard_time": 1725889279,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 194342,
@@ -1571,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174561,
+      "num": 158899,
+      "word": "致多人中毒黄焖鸡品牌曾多次出问题",
+      "onboard_time": 1725888380,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173373,
       "num": 173373,
       "word": "肖央赵丽颖刘烨新片互掐",
@@ -1763,6 +1827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156228,
+      "num": 156228,
+      "word": "广西一青年飙车在医院门口身亡",
+      "onboard_time": 1725891261,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156041,
       "num": 175262,
       "word": "17岁的我对铁饭碗不屑一顾",
@@ -1817,6 +1889,14 @@
       "onboard_time": 1725809003,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152280,
+      "num": 152280,
+      "word": "苹果华为小米位列手机热搜品牌前三",
+      "onboard_time": 1725889881,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 149983,
@@ -2011,12 +2091,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138222,
+      "num": 138222,
+      "word": "余承恩入青云出妆",
+      "onboard_time": 1725890901,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137172,
       "num": 137172,
       "word": "教体局回应女生被同桌扎数百下",
       "onboard_time": 1725865039,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136042,
+      "num": 136042,
+      "word": "爸妈吵个架 程苗苗连财产都分配好了",
+      "onboard_time": 1725890721,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 135362,
@@ -2107,6 +2203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 129644,
+      "num": 129644,
+      "word": "两地市监局回应疯狂小杨哥卖假牛肉卷",
+      "onboard_time": 1725888799,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 129069,
       "num": 129069,
       "word": "孙千刘琳演我和我妈的日常",
@@ -2171,12 +2275,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 124352,
-      "num": 124352,
-      "word": "致多人中毒黄焖鸡品牌曾多次出问题",
-      "onboard_time": 1725888380,
+      "raw_hot": 124357,
+      "num": 124357,
+      "word": "耳朵有这4个异常小心心梗",
+      "onboard_time": 1725891561,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 124264,
+      "num": 124264,
+      "word": "苹果有线耳机或将停产",
+      "onboard_time": 1725889279,
       "rank": 44,
-      "category": "社会新闻"
+      "category": "数码"
     },
     {
       "raw_hot": 124000,
@@ -2225,6 +2337,14 @@
       "onboard_time": 1725852139,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118138,
+      "num": 118138,
+      "word": "朱志鑫体能训练记录",
+      "onboard_time": 1725889221,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 117358,
@@ -2323,28 +2443,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 109881,
-      "num": 109881,
-      "word": "两地市监局回应疯狂小杨哥卖假牛肉卷",
-      "onboard_time": 1725888799,
-      "rank": 44,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 109493,
       "num": 109493,
       "word": "一觉醒来要和巴黎残奥说再见了",
       "onboard_time": 1725845838,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109349,
-      "num": 109349,
-      "word": "张雨绮张真源豪门姐弟具象化",
-      "onboard_time": 1725888859,
-      "rank": 45,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 109148,
@@ -2787,6 +2891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45939,
+      "num": 167334,
+      "word": "知情人士称桂二牛去世前已重度昏迷",
+      "onboard_time": 1725890000,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45666,
       "num": 76322,
       "word": "AG超玩会 宝石流",
@@ -2880,6 +2992,14 @@
       "word": "台风摩羯成为登陆我国最强秋台风",
       "onboard_time": 1725821892,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33929,
+      "num": 329312,
+      "word": "昆明市监局回应中药磨粉骗局",
+      "onboard_time": 1725891141,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -3112,6 +3232,9 @@
     },
     {
       "word": "#习近平会见挪威首相斯特勒#"
+    },
+    {
+      "word": "#习近平尊师重教的十个暖心故事#"
     }
   ]
 }
