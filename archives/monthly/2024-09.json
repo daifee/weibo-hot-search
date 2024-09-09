@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725921492687,
+  "endTime": 1725924148648,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -129,6 +129,14 @@
       "onboard_time": 1725891501,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2918704,
+      "num": 2918704,
+      "word": "iPhone16价格",
+      "onboard_time": 1725906913,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 2899571,
@@ -577,6 +585,14 @@
       "onboard_time": 1725435440,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1729558,
+      "num": 861016,
+      "word": "苹果配色好丑",
+      "onboard_time": 1725907032,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 1721819,
@@ -1161,14 +1177,6 @@
       "onboard_time": 1725589879,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1357565,
-      "num": 1357565,
-      "word": "iPhone16价格",
-      "onboard_time": 1725906913,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 1351681,
@@ -2715,20 +2723,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 861016,
-      "num": 861016,
-      "word": "苹果配色好丑",
-      "onboard_time": 1725907032,
-      "rank": 31,
-      "category": "数码"
-    },
-    {
       "raw_hot": 860837,
       "num": 1129047,
       "word": "陈奕迅被告者名单",
       "onboard_time": 1725245058,
       "rank": 31,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 860693,
+      "num": 860693,
+      "word": "教师节",
+      "onboard_time": 1725923597,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 857252,
@@ -4161,6 +4169,14 @@
       "onboard_time": 1725624741,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 622437,
+      "num": 324624,
+      "word": "沙漠色iPhone16Pro",
+      "onboard_time": 1725907573,
+      "rank": 13,
+      "category": "数码"
     },
     {
       "raw_hot": 621868,
@@ -7795,14 +7811,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 324624,
-      "num": 324624,
-      "word": "沙漠色iPhone16Pro",
-      "onboard_time": 1725907573,
-      "rank": 13,
-      "category": "数码"
-    },
-    {
       "raw_hot": 324090,
       "num": 324090,
       "word": "金秀贤听到粉丝喊金智媛的反应",
@@ -7849,6 +7857,14 @@
       "onboard_time": 1725452541,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 322194,
+      "num": 243504,
+      "word": "iPhone16ProMax",
+      "onboard_time": 1725907453,
+      "rank": 12,
+      "category": "数码"
     },
     {
       "raw_hot": 319631,
@@ -7993,6 +8009,14 @@
       "onboard_time": 1725722840,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 312419,
+      "num": 206620,
+      "word": "iPhone16起售价5999元",
+      "onboard_time": 1725923777,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 312047,
@@ -9067,6 +9091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272389,
+      "num": 201711,
+      "word": "AppleWatch史上最大屏幕",
+      "onboard_time": 1725905594,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 272143,
       "num": 306546,
       "word": "外卖小哥带娃抗癌被剐蹭车主反手转2千",
@@ -10041,14 +10073,6 @@
       "onboard_time": 1725545244,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 243504,
-      "num": 243504,
-      "word": "iPhone16ProMax",
-      "onboard_time": 1725907453,
-      "rank": 12,
-      "category": "数码"
     },
     {
       "raw_hot": 243480,
@@ -12481,6 +12505,14 @@
       "onboard_time": 1725707479,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 201439,
+      "num": 187443,
+      "word": "男子实名举报公务人员包养情妇",
+      "onboard_time": 1725923478,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201382,
@@ -19067,6 +19099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146845,
+      "num": 146845,
+      "word": "华为",
+      "onboard_time": 1725923717,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 146570,
       "num": 146570,
       "word": "张雨霏最快乐的一次出行",
@@ -19409,6 +19449,14 @@
       "onboard_time": 1725708681,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143894,
+      "num": 143894,
+      "word": "苹果发布会介绍腾讯新游戏",
+      "onboard_time": 1725907692,
+      "rank": 30,
+      "category": "游戏,数码"
     },
     {
       "raw_hot": 143881,
@@ -21475,6 +21523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119826,
+      "num": 119826,
+      "word": "运动必须30分钟以上才能减肥吗",
+      "onboard_time": 1725921674,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 119778,
       "num": 119778,
       "word": "刘诗诗秋韵洒满裙摆",
@@ -21523,14 +21579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119151,
-      "num": 119151,
-      "word": "AppleWatch史上最大屏幕",
-      "onboard_time": 1725905594,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
       "raw_hot": 119100,
       "num": 119100,
       "word": "潘展乐樊振东相互借手打招呼",
@@ -21553,6 +21601,14 @@
       "onboard_time": 1725790880,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118656,
+      "num": 118656,
+      "word": "成都暴雨",
+      "onboard_time": 1725924017,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118347,
@@ -21713,6 +21769,14 @@
       "onboard_time": 1725174079,
       "rank": 41,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 116730,
+      "num": 116730,
+      "word": "教师节文案",
+      "onboard_time": 1725888199,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116722,
@@ -22457,6 +22521,14 @@
       "onboard_time": 1725761300,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 103022,
+      "num": 103022,
+      "word": "iPhone16国行版暂不支持苹果AI",
+      "onboard_time": 1725923717,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 102887,
@@ -23275,6 +23347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 83315,
+      "num": 191554,
+      "word": "韩安冉产后照顾小猪妹情绪",
+      "onboard_time": 1725901396,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82914,
       "num": 269621,
       "word": "星之发文回应徐正溪",
@@ -23411,6 +23491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79317,
+      "num": 79317,
+      "word": "iOS18正式版要来了",
+      "onboard_time": 1725923898,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 79294,
       "num": 298480,
       "word": "来感受超级台风摩羯的压迫感",
@@ -23483,14 +23571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76759,
-      "num": 76759,
-      "word": "苹果发布会介绍腾讯新游戏",
-      "onboard_time": 1725907692,
-      "rank": 30,
-      "category": "游戏,数码"
-    },
-    {
       "raw_hot": 76625,
       "num": 472672,
       "word": "国内校服市场超九成都是小工厂",
@@ -23553,6 +23633,14 @@
       "onboard_time": 1725460221,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 75147,
+      "num": 75147,
+      "word": "王者荣耀世界",
+      "onboard_time": 1725907512,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 75042,
@@ -23673,14 +23761,6 @@
       "onboard_time": 1725524240,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 72164,
-      "num": 72164,
-      "word": "王者荣耀世界",
-      "onboard_time": 1725907512,
-      "rank": 27,
-      "category": "电竞"
     },
     {
       "raw_hot": 72048,
@@ -24043,14 +24123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 63115,
-      "num": 171641,
-      "word": "韩安冉产后照顾小猪妹情绪",
-      "onboard_time": 1725901396,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 63048,
       "num": 1085590,
       "word": "被中国残奥运动员的拼搏深深打动",
@@ -24081,6 +24153,22 @@
       "onboard_time": 1725288681,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62008,
+      "num": 75143,
+      "word": "AirPods Max新颜色",
+      "onboard_time": 1725904933,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 62008,
+      "num": 75142,
+      "word": "张凌赫 逐玉",
+      "onboard_time": 1725924137,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 61815,
@@ -24257,14 +24345,6 @@
       "onboard_time": 1725849678,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 57827,
-      "num": 57827,
-      "word": "AirPods Max新颜色",
-      "onboard_time": 1725904933,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 57746,
