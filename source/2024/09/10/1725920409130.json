@@ -1,0 +1,410 @@
+{
+  "runTime": 1725920409130,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 978508,
+        "num": 978508,
+        "word": "iPhone16价格",
+        "onboard_time": 1725906913,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 599316,
+        "num": 599316,
+        "word": "苹果配色好丑",
+        "onboard_time": 1725907032,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 2315,
+        "num": 288643,
+        "word": "雪域高原焕新貌",
+        "onboard_time": 1725765199,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276614,
+        "num": 276614,
+        "word": "苹果发布会",
+        "onboard_time": 1725902474,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 267340,
+        "num": 267340,
+        "word": "粉色iPhone16",
+        "onboard_time": 1725905594,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 147166,
+        "num": 263463,
+        "word": "孙海洋支持孙卓在大学谈恋爱",
+        "onboard_time": 1725897319,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167011,
+        "num": 261551,
+        "word": "刘德华演唱会摔倒",
+        "onboard_time": 1725893480,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135050,
+        "num": 251922,
+        "word": "张杰工作室道歉",
+        "onboard_time": 1725891501,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112446,
+        "num": 245969,
+        "word": "教师节前班主任开家长会嘱咐别送礼",
+        "onboard_time": 1725889279,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6259,
+        "num": 242511,
+        "word": "中秋国庆假期成都成国内热门目的地前十",
+        "onboard_time": 1725906013,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 239742,
+        "num": 239742,
+        "word": "沙漠色iPhone16Pro",
+        "onboard_time": 1725907573,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 237821,
+        "num": 237821,
+        "word": "iPhone16",
+        "onboard_time": 1725875480,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 161834,
+        "num": 161834,
+        "word": "iPhone16ProMax",
+        "onboard_time": 1725907453,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 89382,
+        "num": 89382,
+        "word": "田曦薇演累了让我演两集",
+        "onboard_time": 1725898038,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88069,
+        "num": 88069,
+        "word": "iPhone16Pro",
+        "onboard_time": 1725906314,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 83183,
+        "num": 83183,
+        "word": "月饼为什么卖不动了",
+        "onboard_time": 1725886039,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64540,
+        "num": 81389,
+        "word": "玄彬李栋旭 结了婚和没结婚的",
+        "onboard_time": 1725877939,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55776,
+        "num": 79290,
+        "word": "书亦烧仙草倒闭门店太多二手设备滞销",
+        "onboard_time": 1725866599,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46536,
+        "num": 77822,
+        "word": "韩安冉产后照顾小猪妹情绪",
+        "onboard_time": 1725901396,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38579,
+        "num": 76067,
+        "word": "傅首尔老刘 离婚不耽误朋友发展",
+        "onboard_time": 1725877939,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160164,
+        "num": 73079,
+        "word": "女子通过蠕动解压被吐槽太抽象",
+        "onboard_time": 1725894980,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147455,
+        "num": 70923,
+        "word": "小杨哥 磨骨",
+        "onboard_time": 1725878717,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 70793,
+        "num": 70793,
+        "word": "苹果AI 明年支持中文",
+        "onboard_time": 1725905233,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 64054,
+        "num": 64054,
+        "word": "苹果发布会介绍腾讯新游戏",
+        "onboard_time": 1725907692,
+        "rank": 23,
+        "category": "游戏,数码"
+      },
+      {
+        "raw_hot": 63049,
+        "num": 63049,
+        "word": "AirPods4",
+        "onboard_time": 1725903494,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 59333,
+        "num": 59333,
+        "word": "Apple Watch S10",
+        "onboard_time": 1725902833,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 52114,
+        "num": 52114,
+        "word": "1岁宝宝误触充电口手指瞬间焦黑",
+        "onboard_time": 1725880220,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48447,
+        "num": 48447,
+        "word": "华为新机提前拆封罚款50万起",
+        "onboard_time": 1725889279,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 46398,
+        "num": 46398,
+        "word": "性侵中国女游客的韩男子被求刑10年",
+        "onboard_time": 1725860719,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18888,
+        "num": 46343,
+        "word": "心动的信号7",
+        "onboard_time": 1725881598,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76463,
+        "num": 46272,
+        "word": "AppleWatch史上最大屏幕",
+        "onboard_time": 1725905594,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 55529,
+        "num": 46182,
+        "word": "苹果手表新品续航18小时",
+        "onboard_time": 1725905353,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 29192,
+        "num": 46104,
+        "word": "落落大方具象化了",
+        "onboard_time": 1725884720,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47784,
+        "num": 46072,
+        "word": "iPhone16系列发货时间曝光",
+        "onboard_time": 1725905712,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 46020,
+        "num": 46020,
+        "word": "科技春晚",
+        "onboard_time": 1725901575,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 45890,
+        "num": 45890,
+        "word": "谁送我16pm",
+        "onboard_time": 1725906614,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 43765,
+        "num": 43765,
+        "word": "iPhone16配色",
+        "onboard_time": 1725904272,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 32617,
+        "num": 41296,
+        "word": "台风过后赶海分分钟爆桶",
+        "onboard_time": 1725900436,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40689,
+        "num": 40689,
+        "word": "小杨哥已掉粉超百万",
+        "onboard_time": 1725885980,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 24981,
+        "num": 39432,
+        "word": "孙颖莎光速进16强",
+        "onboard_time": 1725886460,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38706,
+        "num": 38706,
+        "word": "AirPods Max换了C口",
+        "onboard_time": 1725903973,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 38489,
+        "num": 38489,
+        "word": "王者荣耀世界",
+        "onboard_time": 1725907512,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 33159,
+        "num": 33159,
+        "word": "华为三折叠预约已超300万",
+        "onboard_time": 1725893540,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 31677,
+        "num": 31677,
+        "word": "AirPods Max新颜色",
+        "onboard_time": 1725904933,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 31128,
+        "num": 31128,
+        "word": "没有iPad",
+        "onboard_time": 1725902653,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 30617,
+        "num": 30617,
+        "word": "AirPods4有降噪",
+        "onboard_time": 1725903675,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 29740,
+        "num": 30613,
+        "word": "苹果手表睡眠呼吸暂停检测功能",
+        "onboard_time": 1725903254,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 28457,
+        "num": 30610,
+        "word": "iPhone16垂直相机设计",
+        "onboard_time": 1725905353,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 26620,
+        "num": 30605,
+        "word": "在医疗领域开展扩大开放试点工作",
+        "onboard_time": 1725905954,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24062,
+        "num": 30602,
+        "word": "凌晨三点的街很黑",
+        "onboard_time": 1725909371,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见挪威首相斯特勒#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725917729079,
+  "endTime": 1725920409130,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -2129,6 +2129,14 @@
       "onboard_time": 1725583879,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 978508,
+      "num": 978508,
+      "word": "iPhone16价格",
+      "onboard_time": 1725906913,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 976185,
@@ -4371,6 +4379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 599316,
+      "num": 599316,
+      "word": "苹果配色好丑",
+      "onboard_time": 1725907032,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 598941,
       "num": 776455,
       "word": "家长称儿子遭教官猥亵已报警",
@@ -5833,14 +5849,6 @@
       "onboard_time": 1725781159,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 466850,
-      "num": 466850,
-      "word": "iPhone16价格",
-      "onboard_time": 1725906913,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 466344,
@@ -9723,14 +9731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 251916,
-      "num": 251916,
-      "word": "苹果配色好丑",
-      "onboard_time": 1725907032,
-      "rank": 31,
-      "category": "数码"
-    },
-    {
       "raw_hot": 251576,
       "num": 251576,
       "word": "官方通报16岁少年理发被索要4000元",
@@ -10233,6 +10233,14 @@
       "onboard_time": 1725460821,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239742,
+      "num": 239742,
+      "word": "沙漠色iPhone16Pro",
+      "onboard_time": 1725907573,
+      "rank": 13,
+      "category": "数码"
     },
     {
       "raw_hot": 239676,
@@ -16073,14 +16081,6 @@
       "onboard_time": 1725709520,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171182,
-      "num": 171182,
-      "word": "沙漠色iPhone16Pro",
-      "onboard_time": 1725907573,
-      "rank": 13,
-      "category": "数码"
     },
     {
       "raw_hot": 171158,
@@ -23483,6 +23483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76463,
+      "num": 61287,
+      "word": "AppleWatch史上最大屏幕",
+      "onboard_time": 1725905594,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 76070,
       "num": 321030,
       "word": "路面现坑洞致网约车坠入乘客受伤",
@@ -24089,14 +24097,6 @@
       "onboard_time": 1725264979,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61287,
-      "num": 61287,
-      "word": "AppleWatch史上最大屏幕",
-      "onboard_time": 1725905594,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 61045,
@@ -26611,6 +26611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26620,
+      "num": 156737,
+      "word": "在医疗领域开展扩大开放试点工作",
+      "onboard_time": 1725905954,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26597,
       "num": 672248,
       "word": "大学专业调整不应只是换个马甲",
@@ -27299,14 +27307,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 19113,
-      "num": 156737,
-      "word": "在医疗领域开展扩大开放试点工作",
-      "onboard_time": 1725905954,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 19060,
       "num": 173766,
       "word": "谢霆锋玩三国志战略版",
@@ -27644,7 +27644,7 @@
     },
     {
       "raw_hot": 12704,
-      "num": 170039,
+      "num": 242511,
       "word": "中秋国庆假期成都成国内热门目的地前十",
       "onboard_time": 1725906013,
       "rank": 20,

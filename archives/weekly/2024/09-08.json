@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725917729079,
+  "endTime": 1725920409130,
   "band_list": [
     {
       "raw_hot": 2936434,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 978508,
+      "num": 978508,
+      "word": "iPhone16价格",
+      "onboard_time": 1725906913,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 971074,
       "num": 217718,
       "word": "女子通过蠕动解压被吐槽太抽象",
@@ -851,6 +859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 599316,
+      "num": 599316,
+      "word": "苹果配色好丑",
+      "onboard_time": 1725907032,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 592568,
       "num": 593739,
       "word": "日本校园裸体健康体检引发不满",
@@ -1121,14 +1137,6 @@
       "onboard_time": 1725781159,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 466850,
-      "num": 466850,
-      "word": "iPhone16价格",
-      "onboard_time": 1725906913,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 465413,
@@ -2099,14 +2107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251916,
-      "num": 251916,
-      "word": "苹果配色好丑",
-      "onboard_time": 1725907032,
-      "rank": 31,
-      "category": "数码"
-    },
-    {
       "raw_hot": 251576,
       "num": 251576,
       "word": "官方通报16岁少年理发被索要4000元",
@@ -2233,6 +2233,14 @@
       "onboard_time": 1725868279,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 239742,
+      "num": 239742,
+      "word": "沙漠色iPhone16Pro",
+      "onboard_time": 1725907573,
+      "rank": 13,
+      "category": "数码"
     },
     {
       "raw_hot": 239218,
@@ -3425,14 +3433,6 @@
       "onboard_time": 1725724400,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171182,
-      "num": 171182,
-      "word": "沙漠色iPhone16Pro",
-      "onboard_time": 1725907573,
-      "rank": 13,
-      "category": "数码"
     },
     {
       "raw_hot": 171158,
@@ -5771,6 +5771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76463,
+      "num": 61287,
+      "word": "AppleWatch史上最大屏幕",
+      "onboard_time": 1725905594,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 75444,
       "num": 75444,
       "word": "苹果发布会介绍腾讯新游戏",
@@ -5929,14 +5937,6 @@
       "onboard_time": 1725826752,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61287,
-      "num": 61287,
-      "word": "AppleWatch史上最大屏幕",
-      "onboard_time": 1725905594,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 59551,
@@ -6499,6 +6499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26620,
+      "num": 156737,
+      "word": "在医疗领域开展扩大开放试点工作",
+      "onboard_time": 1725905954,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26023,
       "num": 94646,
       "word": "中国消防员13秒攀登挂钩梯上四楼",
@@ -6627,14 +6635,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 19113,
-      "num": 156737,
-      "word": "在医疗领域开展扩大开放试点工作",
-      "onboard_time": 1725905954,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 19034,
       "num": 31796,
       "word": "白露让秋天有了诗的味道",
@@ -6716,7 +6716,7 @@
     },
     {
       "raw_hot": 12704,
-      "num": 170039,
+      "num": 242511,
       "word": "中秋国庆假期成都成国内热门目的地前十",
       "onboard_time": 1725906013,
       "rank": 20,

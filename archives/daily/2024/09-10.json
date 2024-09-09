@@ -1,6 +1,6 @@
 {
   "startTime": 1725899204781,
-  "endTime": 1725917729079,
+  "endTime": 1725920409130,
   "band_list": [
     {
       "raw_hot": 2017612,
@@ -32,6 +32,14 @@
       "word": "iPhone16配色",
       "onboard_time": 1725904272,
       "rank": 1,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 978508,
+      "num": 978508,
+      "word": "iPhone16价格",
+      "onboard_time": 1725906913,
+      "rank": 24,
       "category": "数码"
     },
     {
@@ -75,20 +83,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 599316,
+      "num": 599316,
+      "word": "苹果配色好丑",
+      "onboard_time": 1725907032,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 593155,
       "num": 942655,
       "word": "月饼为什么卖不动了",
       "onboard_time": 1725886039,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 466850,
-      "num": 466850,
-      "word": "iPhone16价格",
-      "onboard_time": 1725906913,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 377267,
@@ -187,14 +195,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 251916,
-      "num": 251916,
-      "word": "苹果配色好丑",
-      "onboard_time": 1725907032,
-      "rank": 31,
-      "category": "数码"
-    },
-    {
       "raw_hot": 246067,
       "num": 246067,
       "word": "广西一青年飙车在医院门口身亡",
@@ -224,6 +224,14 @@
       "word": "苹果",
       "onboard_time": 1725901993,
       "rank": 10,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 239742,
+      "num": 239742,
+      "word": "沙漠色iPhone16Pro",
+      "onboard_time": 1725907573,
+      "rank": 13,
       "category": "数码"
     },
     {
@@ -281,14 +289,6 @@
       "onboard_time": 1725860719,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171182,
-      "num": 171182,
-      "word": "沙漠色iPhone16Pro",
-      "onboard_time": 1725907573,
-      "rank": 13,
-      "category": "数码"
     },
     {
       "raw_hot": 167398,
@@ -411,7 +411,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 111478,
+      "raw_hot": 112446,
       "num": 260660,
       "word": "教师节前班主任开家长会嘱咐别送礼",
       "onboard_time": 1725889279,
@@ -563,6 +563,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 76463,
+      "num": 61287,
+      "word": "AppleWatch史上最大屏幕",
+      "onboard_time": 1725905594,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 75444,
       "num": 75444,
       "word": "苹果发布会介绍腾讯新游戏",
@@ -617,14 +625,6 @@
       "onboard_time": 1725892521,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 61287,
-      "num": 61287,
-      "word": "AppleWatch史上最大屏幕",
-      "onboard_time": 1725905594,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 57827,
@@ -707,20 +707,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 26620,
+      "num": 156737,
+      "word": "在医疗领域开展扩大开放试点工作",
+      "onboard_time": 1725905954,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19384,
       "num": 329236,
       "word": "浙江4名医生飞机上飞针救人",
       "onboard_time": 1725906433,
       "rank": 24,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 19113,
-      "num": 156737,
-      "word": "在医疗领域开展扩大开放试点工作",
-      "onboard_time": 1725905954,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14490,
@@ -740,7 +740,7 @@
     },
     {
       "raw_hot": 12704,
-      "num": 170039,
+      "num": 242511,
       "word": "中秋国庆假期成都成国内热门目的地前十",
       "onboard_time": 1725906013,
       "rank": 20,
@@ -755,8 +755,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1360,
-      "num": 194649,
+      "raw_hot": 2315,
+      "num": 288643,
       "word": "雪域高原焕新貌",
       "onboard_time": 1725765199,
       "rank": 2,
