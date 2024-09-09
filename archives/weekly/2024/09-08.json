@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725920409130,
+  "endTime": 1725921492687,
   "band_list": [
     {
       "raw_hot": 2936434,
@@ -227,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1357565,
+      "num": 1357565,
+      "word": "iPhone16价格",
+      "onboard_time": 1725906913,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1351522,
       "num": 226679,
       "word": "三只羊沫沫去年12月被拘留",
@@ -435,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 978508,
-      "num": 978508,
-      "word": "iPhone16价格",
-      "onboard_time": 1725906913,
-      "rank": 24,
-      "category": "数码"
-    },
-    {
       "raw_hot": 971074,
       "num": 217718,
       "word": "女子通过蠕动解压被吐槽太抽象",
@@ -529,6 +529,14 @@
       "onboard_time": 1725855500,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 861016,
+      "num": 861016,
+      "word": "苹果配色好丑",
+      "onboard_time": 1725907032,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 855479,
@@ -857,14 +865,6 @@
       "onboard_time": 1725854659,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 599316,
-      "num": 599316,
-      "word": "苹果配色好丑",
-      "onboard_time": 1725907032,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 592568,
@@ -1499,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368735,
+      "num": 368735,
+      "word": "粉色iPhone16",
+      "onboard_time": 1725905594,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 367322,
       "num": 367322,
       "word": "张凌赫4年多拍15部剧",
@@ -1651,6 +1659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 324624,
+      "num": 324624,
+      "word": "沙漠色iPhone16Pro",
+      "onboard_time": 1725907573,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 324090,
       "num": 324090,
       "word": "金秀贤听到粉丝喊金智媛的反应",
@@ -1689,14 +1705,6 @@
       "onboard_time": 1725789679,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 317191,
-      "num": 317191,
-      "word": "粉色iPhone16",
-      "onboard_time": 1725905594,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 315268,
@@ -2233,14 +2241,6 @@
       "onboard_time": 1725868279,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 239742,
-      "num": 239742,
-      "word": "沙漠色iPhone16Pro",
-      "onboard_time": 1725907573,
-      "rank": 13,
-      "category": "数码"
     },
     {
       "raw_hot": 239218,
@@ -4923,6 +4923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119151,
+      "num": 119151,
+      "word": "AppleWatch史上最大屏幕",
+      "onboard_time": 1725905594,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 118755,
       "num": 118755,
       "word": "PNC韩国队夺冠",
@@ -5771,16 +5779,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 76463,
-      "num": 61287,
-      "word": "AppleWatch史上最大屏幕",
-      "onboard_time": 1725905594,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 75444,
-      "num": 75444,
+      "raw_hot": 76759,
+      "num": 76759,
       "word": "苹果发布会介绍腾讯新游戏",
       "onboard_time": 1725907692,
       "rank": 30,
@@ -6363,6 +6363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34063,
+      "num": 156737,
+      "word": "在医疗领域开展扩大开放试点工作",
+      "onboard_time": 1725905954,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33908,
       "num": 538363,
       "word": "商品生产日期不好找看不清",
@@ -6372,7 +6380,7 @@
     },
     {
       "raw_hot": 33607,
-      "num": 33607,
+      "num": 43268,
       "word": "凌晨三点的街很黑",
       "onboard_time": 1725909371,
       "rank": 49,
@@ -6497,14 +6505,6 @@
       "onboard_time": 1725801679,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26620,
-      "num": 156737,
-      "word": "在医疗领域开展扩大开放试点工作",
-      "onboard_time": 1725905954,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 26023,
@@ -6716,7 +6716,7 @@
     },
     {
       "raw_hot": 12704,
-      "num": 242511,
+      "num": 330257,
       "word": "中秋国庆假期成都成国内热门目的地前十",
       "onboard_time": 1725906013,
       "rank": 20,

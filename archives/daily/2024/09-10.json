@@ -1,6 +1,6 @@
 {
   "startTime": 1725899204781,
-  "endTime": 1725920409130,
+  "endTime": 1725921492687,
   "band_list": [
     {
       "raw_hot": 2017612,
@@ -27,19 +27,19 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1357565,
+      "num": 1357565,
+      "word": "iPhone16价格",
+      "onboard_time": 1725906913,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1336689,
       "num": 1336689,
       "word": "iPhone16配色",
       "onboard_time": 1725904272,
       "rank": 1,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 978508,
-      "num": 978508,
-      "word": "iPhone16价格",
-      "onboard_time": 1725906913,
-      "rank": 24,
       "category": "数码"
     },
     {
@@ -57,6 +57,14 @@
       "onboard_time": 1725891501,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 861016,
+      "num": 861016,
+      "word": "苹果配色好丑",
+      "onboard_time": 1725907032,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 708709,
@@ -83,14 +91,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 599316,
-      "num": 599316,
-      "word": "苹果配色好丑",
-      "onboard_time": 1725907032,
-      "rank": 31,
-      "category": "数码"
-    },
-    {
       "raw_hot": 593155,
       "num": 942655,
       "word": "月饼为什么卖不动了",
@@ -115,6 +115,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 368735,
+      "num": 368735,
+      "word": "粉色iPhone16",
+      "onboard_time": 1725905594,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 362386,
       "num": 362386,
       "word": "苹果发布会直播",
@@ -131,19 +139,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 324624,
+      "num": 324624,
+      "word": "沙漠色iPhone16Pro",
+      "onboard_time": 1725907573,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 322384,
       "num": 322384,
       "word": "AirPods4",
       "onboard_time": 1725903494,
       "rank": 4,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 317191,
-      "num": 317191,
-      "word": "粉色iPhone16",
-      "onboard_time": 1725905594,
-      "rank": 14,
       "category": "数码"
     },
     {
@@ -227,14 +235,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 239742,
-      "num": 239742,
-      "word": "沙漠色iPhone16Pro",
-      "onboard_time": 1725907573,
-      "rank": 13,
-      "category": "数码"
-    },
-    {
       "raw_hot": 207981,
       "num": 207981,
       "word": "书亦烧仙草倒闭门店太多二手设备滞销",
@@ -288,6 +288,14 @@
       "word": "性侵中国女游客的韩男子被求刑10年",
       "onboard_time": 1725860719,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169283,
+      "num": 335181,
+      "word": "教师节前班主任开家长会嘱咐别送礼",
+      "onboard_time": 1725889279,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -395,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119151,
+      "num": 119151,
+      "word": "AppleWatch史上最大屏幕",
+      "onboard_time": 1725905594,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 118287,
       "num": 173560,
       "word": "台风过后赶海分分钟爆桶",
@@ -409,14 +425,6 @@
       "onboard_time": 1725894679,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112446,
-      "num": 260660,
-      "word": "教师节前班主任开家长会嘱咐别送礼",
-      "onboard_time": 1725889279,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106054,
@@ -563,16 +571,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 76463,
-      "num": 61287,
-      "word": "AppleWatch史上最大屏幕",
-      "onboard_time": 1725905594,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 75444,
-      "num": 75444,
+      "raw_hot": 76759,
+      "num": 76759,
       "word": "苹果发布会介绍腾讯新游戏",
       "onboard_time": 1725907692,
       "rank": 30,
@@ -691,8 +691,16 @@
       "category": "数码"
     },
     {
+      "raw_hot": 34063,
+      "num": 156737,
+      "word": "在医疗领域开展扩大开放试点工作",
+      "onboard_time": 1725905954,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33607,
-      "num": 33607,
+      "num": 43268,
       "word": "凌晨三点的街很黑",
       "onboard_time": 1725909371,
       "rank": 49,
@@ -704,14 +712,6 @@
       "word": "万千气象看内蒙古",
       "onboard_time": 1725887060,
       "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 26620,
-      "num": 156737,
-      "word": "在医疗领域开展扩大开放试点工作",
-      "onboard_time": 1725905954,
-      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -740,7 +740,7 @@
     },
     {
       "raw_hot": 12704,
-      "num": 242511,
+      "num": 330257,
       "word": "中秋国庆假期成都成国内热门目的地前十",
       "onboard_time": 1725906013,
       "rank": 20,
@@ -756,7 +756,7 @@
     },
     {
       "raw_hot": 2315,
-      "num": 288643,
+      "num": 460248,
       "word": "雪域高原焕新貌",
       "onboard_time": 1725765199,
       "rank": 2,

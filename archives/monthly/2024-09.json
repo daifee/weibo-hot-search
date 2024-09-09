@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725920409130,
+  "endTime": 1725921492687,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -1163,6 +1163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1357565,
+      "num": 1357565,
+      "word": "iPhone16价格",
+      "onboard_time": 1725906913,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1351681,
       "num": 1167629,
       "word": "翟潇闻道歉",
@@ -2131,14 +2139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 978508,
-      "num": 978508,
-      "word": "iPhone16价格",
-      "onboard_time": 1725906913,
-      "rank": 24,
-      "category": "数码"
-    },
-    {
       "raw_hot": 976185,
       "num": 960914,
       "word": "碾压骑行孩童司机以过失致死罪被捕",
@@ -2713,6 +2713,14 @@
       "onboard_time": 1725537560,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 861016,
+      "num": 861016,
+      "word": "苹果配色好丑",
+      "onboard_time": 1725907032,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 860837,
@@ -4377,14 +4385,6 @@
       "onboard_time": 1725528019,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 599316,
-      "num": 599316,
-      "word": "苹果配色好丑",
-      "onboard_time": 1725907032,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 598941,
@@ -7091,6 +7091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368735,
+      "num": 368735,
+      "word": "粉色iPhone16",
+      "onboard_time": 1725905594,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 367676,
       "num": 367676,
       "word": "王一博被自己无语到了",
@@ -7787,6 +7795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 324624,
+      "num": 324624,
+      "word": "沙漠色iPhone16Pro",
+      "onboard_time": 1725907573,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 324090,
       "num": 324090,
       "word": "金秀贤听到粉丝喊金智媛的反应",
@@ -7881,14 +7897,6 @@
       "onboard_time": 1725523461,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 317191,
-      "num": 317191,
-      "word": "粉色iPhone16",
-      "onboard_time": 1725905594,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 316808,
@@ -10233,14 +10241,6 @@
       "onboard_time": 1725460821,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239742,
-      "num": 239742,
-      "word": "沙漠色iPhone16Pro",
-      "onboard_time": 1725907573,
-      "rank": 13,
-      "category": "数码"
     },
     {
       "raw_hot": 239676,
@@ -21523,6 +21523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119151,
+      "num": 119151,
+      "word": "AppleWatch史上最大屏幕",
+      "onboard_time": 1725905594,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 119100,
       "num": 119100,
       "word": "潘展乐樊振东相互借手打招呼",
@@ -23475,20 +23483,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76759,
+      "num": 76759,
+      "word": "苹果发布会介绍腾讯新游戏",
+      "onboard_time": 1725907692,
+      "rank": 30,
+      "category": "游戏,数码"
+    },
+    {
       "raw_hot": 76625,
       "num": 472672,
       "word": "国内校服市场超九成都是小工厂",
       "onboard_time": 1725257482,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76463,
-      "num": 61287,
-      "word": "AppleWatch史上最大屏幕",
-      "onboard_time": 1725905594,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 76070,
@@ -23537,14 +23545,6 @@
       "onboard_time": 1725344241,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 75444,
-      "num": 75444,
-      "word": "苹果发布会介绍腾讯新游戏",
-      "onboard_time": 1725907692,
-      "rank": 30,
-      "category": "游戏,数码"
     },
     {
       "raw_hot": 75151,
@@ -25891,6 +25891,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 34063,
+      "num": 156737,
+      "word": "在医疗领域开展扩大开放试点工作",
+      "onboard_time": 1725905954,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34053,
       "num": 282376,
       "word": "颐莲建议不干了",
@@ -25932,7 +25940,7 @@
     },
     {
       "raw_hot": 33607,
-      "num": 33607,
+      "num": 43268,
       "word": "凌晨三点的街很黑",
       "onboard_time": 1725909371,
       "rank": 49,
@@ -26609,14 +26617,6 @@
       "onboard_time": 1725282081,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26620,
-      "num": 156737,
-      "word": "在医疗领域开展扩大开放试点工作",
-      "onboard_time": 1725905954,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 26597,
@@ -27644,7 +27644,7 @@
     },
     {
       "raw_hot": 12704,
-      "num": 242511,
+      "num": 330257,
       "word": "中秋国庆假期成都成国内热门目的地前十",
       "onboard_time": 1725906013,
       "rank": 20,
