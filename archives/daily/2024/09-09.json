@@ -1,6 +1,6 @@
 {
   "startTime": 1725812757378,
-  "endTime": 1725850753126,
+  "endTime": 1725852292119,
   "band_list": [
     {
       "raw_hot": 1644420,
@@ -9,6 +9,14 @@
       "onboard_time": 1725847338,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1297808,
+      "num": 1297808,
+      "word": "毛主席在开国大典上开心一笑",
+      "onboard_time": 1725846738,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1242122,
@@ -59,14 +67,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 762256,
-      "num": 762256,
-      "word": "毛主席在开国大典上开心一笑",
-      "onboard_time": 1725846738,
-      "rank": 42,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 698298,
       "num": 698298,
       "word": "K总 我们生长在红旗下",
@@ -75,12 +75,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 674103,
+      "num": 674103,
+      "word": "B太为2元面馆捐一年酱油",
+      "onboard_time": 1725847099,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 648594,
       "num": 648594,
       "word": "300块的黑悟空30000块的装备",
       "onboard_time": 1725841640,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 642104,
+      "num": 642104,
+      "word": "垃圾站旁的脏外卖背刺了多少打工人",
+      "onboard_time": 1725848358,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 633247,
@@ -107,8 +123,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 597216,
-      "num": 597216,
+      "raw_hot": 608543,
+      "num": 608543,
       "word": "毛泽东逝世48周年",
       "onboard_time": 1725839178,
       "rank": 6,
@@ -121,14 +137,6 @@
       "onboard_time": 1725805728,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 573585,
-      "num": 573585,
-      "word": "B太为2元面馆捐一年酱油",
-      "onboard_time": 1725847099,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 565355,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 491681,
-      "num": 264852,
+      "num": 281311,
       "word": "有6个习惯的人甲状腺都比较好",
       "onboard_time": 1725846259,
       "rank": 23,
@@ -177,6 +185,14 @@
       "onboard_time": 1725820512,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 432537,
+      "num": 432537,
+      "word": "2023年全国彩票17.78亿奖金未兑",
+      "onboard_time": 1725847158,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 432286,
@@ -193,6 +209,14 @@
       "onboard_time": 1725800419,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424974,
+      "num": 424974,
+      "word": "iPhone16Pro预计维持999美元起价",
+      "onboard_time": 1725846499,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 412647,
@@ -251,12 +275,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303122,
+      "num": 303122,
+      "word": "小朋友玩烟卡遭3名小孩飞车抢卡",
+      "onboard_time": 1725850698,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302396,
       "num": 302396,
       "word": "华晨宇 华妃是在叫我吗",
       "onboard_time": 1725809301,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 296733,
+      "num": 296733,
+      "word": "赵露思无美颜无滤镜生图",
+      "onboard_time": 1725851718,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 295288,
@@ -267,6 +307,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 293103,
+      "num": 604468,
+      "word": "孙颖莎王曼昱奥运后首秀来了",
+      "onboard_time": 1725849258,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 281272,
+      "num": 281272,
+      "word": "莫奈巨作睡莲将在香港拍卖",
+      "onboard_time": 1725850219,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280527,
       "num": 280527,
       "word": "泰国女孩来中国留学读大专",
@@ -275,20 +331,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 262043,
-      "num": 262043,
-      "word": "iPhone16Pro预计维持999美元起价",
-      "onboard_time": 1725846499,
-      "rank": 33,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 260754,
-      "num": 305201,
-      "word": "2023年全国彩票17.78亿奖金未兑",
-      "onboard_time": 1725847158,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 273600,
+      "num": 273600,
+      "word": "王楚钦梁靖崑说男队许昕最e",
+      "onboard_time": 1725849978,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 254420,
@@ -315,14 +363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 246442,
-      "num": 479913,
-      "word": "孙颖莎王曼昱奥运后首秀来了",
-      "onboard_time": 1725849258,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 245143,
       "num": 218427,
       "word": "猫 你说这水怎么这么好喝",
@@ -344,14 +384,6 @@
       "word": "00后女军士荣立一等功",
       "onboard_time": 1725847219,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232690,
-      "num": 475094,
-      "word": "垃圾站旁的脏外卖背刺了多少打工人",
-      "onboard_time": 1725848358,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -419,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203227,
+      "num": 203227,
+      "word": "头回见是男主的青梅遇上天降的",
+      "onboard_time": 1725846618,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200783,
       "num": 219907,
       "word": "吴宣仪苞娜合照",
@@ -451,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192539,
+      "num": 192539,
+      "word": "猫咖员工招揽生意",
+      "onboard_time": 1725849737,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 192078,
       "num": 192078,
       "word": "加沙12岁女孩的课本被用来生火",
@@ -475,14 +523,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 185977,
-      "num": 177689,
-      "word": "王楚钦梁靖崑说男队许昕最e",
-      "onboard_time": 1725849978,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 183931,
       "num": 183931,
       "word": "海口躲台风腿被夹业主一家平安",
@@ -505,14 +545,6 @@
       "onboard_time": 1725800658,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174124,
-      "num": 174124,
-      "word": "猫咖员工招揽生意",
-      "onboard_time": 1725849737,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 172784,
@@ -561,14 +593,6 @@
       "onboard_time": 1725845478,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 163388,
-      "num": 198516,
-      "word": "头回见是男主的青梅遇上天降的",
-      "onboard_time": 1725846618,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 163351,
@@ -624,14 +648,6 @@
       "word": "孙卓首度回应报考南工大原因",
       "onboard_time": 1725798502,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146732,
-      "num": 146732,
-      "word": "莫奈巨作睡莲将在香港拍卖",
-      "onboard_time": 1725850219,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -691,6 +707,14 @@
       "category": "美妆,幽默"
     },
     {
+      "raw_hot": 129069,
+      "num": 129069,
+      "word": "孙千刘琳演我和我妈的日常",
+      "onboard_time": 1725847818,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129001,
       "num": 135985,
       "word": "一点开以为是爸爸回来了",
@@ -747,14 +771,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 114624,
-      "num": 114624,
-      "word": "小朋友玩烟卡遭3名小孩飞车抢卡",
-      "onboard_time": 1725850698,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112781,
       "num": 112781,
       "word": "酸奶刺客正在悄悄打折",
@@ -768,6 +784,14 @@
       "word": "金智媛见面会被喊金秀贤",
       "onboard_time": 1725835454,
       "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 109958,
+      "num": 109958,
+      "word": "纽约时装周",
+      "onboard_time": 1725851958,
+      "rank": 46,
       "category": "作品衍生"
     },
     {
@@ -809,6 +833,14 @@
       "onboard_time": 1725843981,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 102825,
+      "num": 102825,
+      "word": "抖音医疗严打假神医伪名医",
+      "onboard_time": 1725852259,
+      "rank": 48,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 100997,
@@ -987,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 66616,
+      "num": 604361,
+      "word": "半岛酒店月饼礼盒售价近2000元",
+      "onboard_time": 1725851179,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61815,
       "num": 76876,
       "word": "10岁轮椅女孩上学4年成全班35人团宠",
@@ -996,7 +1036,7 @@
     },
     {
       "raw_hot": 57917,
-      "num": 187800,
+      "num": 252767,
       "word": "年轻人的moveon文化火了",
       "onboard_time": 1725849678,
       "rank": 47,
@@ -1091,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37065,
+      "num": 426460,
+      "word": "秋台风摩羯过境后被截断的生计",
+      "onboard_time": 1725850940,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35483,
       "num": 161394,
       "word": "原来中国风山水画写意又写实",
@@ -1113,6 +1161,14 @@
       "onboard_time": 1725820632,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28687,
+      "num": 824881,
+      "word": "2024年国家网络安全宣传周",
+      "onboard_time": 1725765617,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28159,
@@ -1169,14 +1225,6 @@
       "onboard_time": 1725822732,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 18909,
-      "num": 824881,
-      "word": "2024年国家网络安全宣传周",
-      "onboard_time": 1725765617,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17713,
