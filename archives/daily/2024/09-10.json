@@ -1,6 +1,6 @@
 {
   "startTime": 1725899204781,
-  "endTime": 1725903465564,
+  "endTime": 1725906507755,
   "band_list": [
     {
       "raw_hot": 2017612,
@@ -24,6 +24,14 @@
       "word": "苹果发布会",
       "onboard_time": 1725902474,
       "rank": 0,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 1186320,
+      "num": 1186320,
+      "word": "iPhone16配色",
+      "onboard_time": 1725904272,
+      "rank": 1,
       "category": "数码"
     },
     {
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 606194,
-      "num": 140489,
+      "num": 169272,
       "word": "小杨哥 磨骨",
       "onboard_time": 1725878717,
       "rank": 21,
@@ -99,6 +107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 322384,
+      "num": 322384,
+      "word": "AirPods4",
+      "onboard_time": 1725903494,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 308798,
       "num": 103042,
       "word": "张杰应公开回应素人电话号事件",
@@ -139,12 +155,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 263412,
+      "num": 263412,
+      "word": "iPhone16系列发货时间曝光",
+      "onboard_time": 1725905712,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
       "raw_hot": 246067,
       "num": 246067,
       "word": "广西一青年飙车在医院门口身亡",
       "onboard_time": 1725891261,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243480,
+      "num": 243480,
+      "word": "Apple Watch S10",
+      "onboard_time": 1725902833,
+      "rank": 9,
+      "category": "数码"
     },
     {
       "raw_hot": 241588,
@@ -163,11 +195,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193169,
-      "num": 193169,
-      "word": "Apple Watch S10",
-      "onboard_time": 1725902833,
-      "rank": 9,
+      "raw_hot": 202631,
+      "num": 202631,
+      "word": "AirPods Max换了C口",
+      "onboard_time": 1725903973,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 198753,
+      "num": 100556,
+      "word": "苹果手表新品续航18小时",
+      "onboard_time": 1725905353,
+      "rank": 30,
       "category": "数码"
     },
     {
@@ -187,12 +227,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182114,
+      "num": 182114,
+      "word": "苹果AI 明年支持中文",
+      "onboard_time": 1725905233,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 178444,
       "num": 178444,
       "word": "性侵中国女游客的韩男子被求刑10年",
       "onboard_time": 1725860719,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177767,
+      "num": 177767,
+      "word": "粉色iPhone16",
+      "onboard_time": 1725905594,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 167398,
@@ -243,6 +299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142090,
+      "num": 142090,
+      "word": "iPhone16Pro",
+      "onboard_time": 1725906314,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 140637,
       "num": 140637,
       "word": "张雨绮张真源豪门姐弟具象化",
@@ -267,6 +331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 124199,
+      "num": 124199,
+      "word": "AirPods4有降噪",
+      "onboard_time": 1725903675,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 122848,
       "num": 122848,
       "word": "武汉严西湖大桥有车辆坠湖",
@@ -284,7 +356,7 @@
     },
     {
       "raw_hot": 118287,
-      "num": 145030,
+      "num": 173560,
       "word": "台风过后赶海分分钟爆桶",
       "onboard_time": 1725900436,
       "rank": 14,
@@ -305,6 +377,14 @@
       "onboard_time": 1725889279,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106054,
+      "num": 106054,
+      "word": "iPhone16垂直相机设计",
+      "onboard_time": 1725905353,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 104142,
@@ -348,7 +428,7 @@
     },
     {
       "raw_hot": 99109,
-      "num": 99109,
+      "num": 102411,
       "word": "心动的信号7",
       "onboard_time": 1725881598,
       "rank": 34,
@@ -460,7 +540,7 @@
     },
     {
       "raw_hot": 64114,
-      "num": 87148,
+      "num": 173132,
       "word": "张翰新剧",
       "onboard_time": 1725900676,
       "rank": 36,
@@ -468,7 +548,7 @@
     },
     {
       "raw_hot": 63115,
-      "num": 86724,
+      "num": 171641,
       "word": "韩安冉产后照顾小猪妹情绪",
       "onboard_time": 1725901396,
       "rank": 40,
@@ -481,6 +561,22 @@
       "onboard_time": 1725892521,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61287,
+      "num": 61287,
+      "word": "AppleWatch史上最大屏幕",
+      "onboard_time": 1725905594,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 57827,
+      "num": 57827,
+      "word": "AirPods Max新颜色",
+      "onboard_time": 1725904933,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 56546,
@@ -499,7 +595,7 @@
       "category": "数码"
     },
     {
-      "raw_hot": 46986,
+      "raw_hot": 47562,
       "num": 59224,
       "word": "史上充电最快苹果手表",
       "onboard_time": 1725903134,
@@ -508,7 +604,7 @@
     },
     {
       "raw_hot": 43752,
-      "num": 89404,
+      "num": 100564,
       "word": "落落大方具象化了",
       "onboard_time": 1725884720,
       "rank": 29,
@@ -523,12 +619,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 39570,
+      "num": 39570,
+      "word": "AirPods4充电盒有扬声器",
+      "onboard_time": 1725905834,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 32551,
-      "num": 906537,
+      "num": 1176056,
       "word": "万千气象看内蒙古",
       "onboard_time": 1725887060,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 19384,
+      "num": 142169,
+      "word": "浙江4名医生飞机上飞针救人",
+      "onboard_time": 1725906433,
+      "rank": 24,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 12704,
+      "num": 170039,
+      "word": "中秋国庆假期成都成国内热门目的地前十",
+      "onboard_time": 1725906013,
+      "rank": 20,
+      "category": "旅游"
     }
   ],
   "hotgov_list": [

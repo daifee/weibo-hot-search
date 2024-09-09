@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725903465564,
+  "endTime": 1725906507755,
   "band_list": [
     {
       "raw_hot": 2936434,
@@ -313,6 +313,14 @@
       "onboard_time": 1725886039,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1186320,
+      "num": 1186320,
+      "word": "iPhone16配色",
+      "onboard_time": 1725904272,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 1172324,
@@ -1635,6 +1643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 322384,
+      "num": 322384,
+      "word": "AirPods4",
+      "onboard_time": 1725903494,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 319631,
       "num": 319631,
       "word": "何炅 栀子花开已经20年了",
@@ -1963,6 +1979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 263412,
+      "num": 263412,
+      "word": "iPhone16系列发货时间曝光",
+      "onboard_time": 1725905712,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
       "raw_hot": 262608,
       "num": 261995,
       "word": "虞书欣终于想起来她是个歌手了",
@@ -2121,6 +2145,14 @@
       "onboard_time": 1725844999,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 243480,
+      "num": 243480,
+      "word": "Apple Watch S10",
+      "onboard_time": 1725902833,
+      "rank": 9,
+      "category": "数码"
     },
     {
       "raw_hot": 243335,
@@ -2651,6 +2683,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 202631,
+      "num": 202631,
+      "word": "AirPods Max换了C口",
+      "onboard_time": 1725903973,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 202584,
       "num": 202584,
       "word": "山东舰实战化训练高燃现场",
@@ -2737,6 +2777,14 @@
       "onboard_time": 1725800658,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 198753,
+      "num": 100556,
+      "word": "苹果手表新品续航18小时",
+      "onboard_time": 1725905353,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 198593,
@@ -2857,14 +2905,6 @@
       "onboard_time": 1725801500,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193169,
-      "num": 193169,
-      "word": "Apple Watch S10",
-      "onboard_time": 1725902833,
-      "rank": 9,
-      "category": "数码"
     },
     {
       "raw_hot": 192248,
@@ -3107,6 +3147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 182114,
+      "num": 182114,
+      "word": "苹果AI 明年支持中文",
+      "onboard_time": 1725905233,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 181249,
       "num": 201118,
       "word": "Jennie10月solo回归",
@@ -3201,6 +3249,14 @@
       "onboard_time": 1725868999,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177767,
+      "num": 177767,
+      "word": "粉色iPhone16",
+      "onboard_time": 1725905594,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 177750,
@@ -4155,6 +4211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142090,
+      "num": 142090,
+      "word": "iPhone16Pro",
+      "onboard_time": 1725906314,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 141870,
       "num": 141870,
       "word": "雪迷宫 乡村版破云",
@@ -4651,6 +4715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124199,
+      "num": 124199,
+      "word": "AirPods4有降噪",
+      "onboard_time": 1725903675,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 124188,
       "num": 124188,
       "word": "林诗栋蒯曼阿拉木图站夺冠",
@@ -4844,7 +4916,7 @@
     },
     {
       "raw_hot": 118287,
-      "num": 145030,
+      "num": 173560,
       "word": "台风过后赶海分分钟爆桶",
       "onboard_time": 1725900436,
       "rank": 14,
@@ -5184,6 +5256,14 @@
       "word": "鸿蒙中国市占率首超iOS",
       "onboard_time": 1725893660,
       "rank": 49,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 106054,
+      "num": 106054,
+      "word": "iPhone16垂直相机设计",
+      "onboard_time": 1725905353,
+      "rank": 27,
       "category": "数码"
     },
     {
@@ -5764,7 +5844,7 @@
     },
     {
       "raw_hot": 64114,
-      "num": 87148,
+      "num": 173132,
       "word": "张翰新剧",
       "onboard_time": 1725900676,
       "rank": 36,
@@ -5780,7 +5860,7 @@
     },
     {
       "raw_hot": 63115,
-      "num": 86724,
+      "num": 171641,
       "word": "韩安冉产后照顾小猪妹情绪",
       "onboard_time": 1725901396,
       "rank": 40,
@@ -5793,6 +5873,14 @@
       "onboard_time": 1725826752,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61287,
+      "num": 61287,
+      "word": "AppleWatch史上最大屏幕",
+      "onboard_time": 1725905594,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 59551,
@@ -5825,6 +5913,14 @@
       "onboard_time": 1725849678,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 57827,
+      "num": 57827,
+      "word": "AirPods Max新颜色",
+      "onboard_time": 1725904933,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 57746,
@@ -6003,7 +6099,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46986,
+      "raw_hot": 47562,
       "num": 59224,
       "word": "史上充电最快苹果手表",
       "onboard_time": 1725903134,
@@ -6036,7 +6132,7 @@
     },
     {
       "raw_hot": 44424,
-      "num": 1127331,
+      "num": 1176056,
       "word": "万千气象看内蒙古",
       "onboard_time": 1725887060,
       "rank": 2,
@@ -6097,6 +6193,14 @@
       "onboard_time": 1725870499,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39570,
+      "num": 39570,
+      "word": "AirPods4充电盒有扬声器",
+      "onboard_time": 1725905834,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 39482,
@@ -6443,6 +6547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19384,
+      "num": 142169,
+      "word": "浙江4名医生飞机上飞针救人",
+      "onboard_time": 1725906433,
+      "rank": 24,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 19034,
       "num": 31796,
       "word": "白露让秋天有了诗的味道",
@@ -6513,6 +6625,14 @@
       "onboard_time": 1725766640,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 12704,
+      "num": 170039,
+      "word": "中秋国庆假期成都成国内热门目的地前十",
+      "onboard_time": 1725906013,
+      "rank": 20,
+      "category": "旅游"
     },
     {
       "raw_hot": 11439,
