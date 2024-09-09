@@ -1,6 +1,6 @@
 {
   "startTime": 1725812757378,
-  "endTime": 1725867317978,
+  "endTime": 1725870548906,
   "band_list": [
     {
       "raw_hot": 2254379,
@@ -8,6 +8,14 @@
       "word": "小朋友玩烟卡遭3名小孩飞车抢卡",
       "onboard_time": 1725850698,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2218146,
+      "num": 2218146,
+      "word": "书亦烧仙草倒闭门店太多二手设备滞销",
+      "onboard_time": 1725866599,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1950554,
-      "num": 727713,
+      "num": 809154,
       "word": "性侵中国女游客的韩男子被求刑10年",
       "onboard_time": 1725860719,
       "rank": 3,
@@ -88,6 +96,14 @@
       "word": "888元一桌的婚宴鱼是生的菜是臭的",
       "onboard_time": 1725860540,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1173342,
+      "num": 1173342,
+      "word": "司机撞人无刑责行人获刑2年半",
+      "onboard_time": 1725866119,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -233,6 +249,14 @@
       "onboard_time": 1725841640,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 644034,
+      "num": 644034,
+      "word": "iPhone16或成苹果最具争议手机",
+      "onboard_time": 1725864378,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 615750,
@@ -459,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 350444,
+      "num": 350444,
+      "word": "罗永浩称将自愿放弃借给锤子的2476万",
+      "onboard_time": 1725862699,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 343255,
       "num": 152365,
       "word": "以后不准穷人写爽文",
@@ -491,12 +523,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 321195,
-      "num": 297031,
-      "word": "罗永浩称将自愿放弃借给锤子的2476万",
-      "onboard_time": 1725862699,
-      "rank": 45,
-      "category": "互联网"
+      "raw_hot": 315268,
+      "num": 315268,
+      "word": "登陆少年全员改认证",
+      "onboard_time": 1725865698,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 310041,
@@ -547,20 +579,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 294208,
-      "num": 294208,
-      "word": "iPhone16或成苹果最具争议手机",
-      "onboard_time": 1725864378,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 288263,
-      "num": 288263,
-      "word": "登陆少年全员改认证",
-      "onboard_time": 1725865698,
-      "rank": 17,
-      "category": "作品衍生"
+      "raw_hot": 284845,
+      "num": 284845,
+      "word": "白色月牙喊话Ning",
+      "onboard_time": 1725868219,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 281154,
@@ -587,11 +611,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 262072,
-      "num": 262072,
-      "word": "司机撞人无刑责行人获刑2年半",
-      "onboard_time": 1725866119,
-      "rank": 40,
+      "raw_hot": 263904,
+      "num": 263904,
+      "word": "李一桐小狗抹胸裙",
+      "onboard_time": 1725866958,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 263903,
+      "num": 263903,
+      "word": "四川一玉米地发现脐带未剪女婴",
+      "onboard_time": 1725867799,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -635,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246301,
+      "num": 246301,
+      "word": "妇联回应女孩爆料母亲被家暴一生",
+      "onboard_time": 1725865820,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245143,
       "num": 218427,
       "word": "猫 你说这水怎么这么好喝",
@@ -651,6 +691,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 240573,
+      "num": 240573,
+      "word": "沈星回密约 小王子配色",
+      "onboard_time": 1725868279,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 239218,
       "num": 239218,
       "word": "辛纳美网夺冠",
@@ -659,18 +707,18 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238578,
+      "num": 254428,
+      "word": "weverse将转付费订阅",
+      "onboard_time": 1725869358,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 234686,
       "num": 234686,
       "word": "00后女军士荣立一等功",
       "onboard_time": 1725847219,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 234489,
-      "num": 234489,
-      "word": "书亦烧仙草倒闭门店太多二手设备滞销",
-      "onboard_time": 1725866599,
       "rank": 25,
       "category": "社会新闻"
     },
@@ -755,6 +803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 221196,
+      "num": 221196,
+      "word": "WTT澳门冠军赛",
+      "onboard_time": 1725864019,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220886,
       "num": 220886,
       "word": "黄景瑜这剧是和我爸的唯一连接",
@@ -771,20 +827,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219271,
+      "num": 219271,
+      "word": "黄景瑜 别搞这些乱七八糟的",
+      "onboard_time": 1725867080,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 216102,
+      "num": 216102,
+      "word": "很多病真就是累出来的",
+      "onboard_time": 1725866359,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 214201,
       "num": 214201,
       "word": "负周一",
       "onboard_time": 1725858740,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 213943,
-      "num": 213943,
-      "word": "WTT澳门冠军赛",
-      "onboard_time": 1725864019,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 208898,
@@ -809,6 +873,14 @@
       "onboard_time": 1725841762,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205018,
+      "num": 205018,
+      "word": "白色月牙",
+      "onboard_time": 1725869060,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 204052,
@@ -915,6 +987,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 191547,
+      "num": 191547,
+      "word": "这份工作只用铅笔不用橡皮",
+      "onboard_time": 1725867199,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190397,
       "num": 138174,
       "word": "苏新皓彩虹白T破洞裤",
@@ -945,6 +1025,14 @@
       "onboard_time": 1725802340,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183794,
+      "num": 183794,
+      "word": "黄景瑜你喊王子奇什么",
+      "onboard_time": 1725867440,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 182573,
@@ -1043,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171433,
+      "num": 171433,
+      "word": "王曼昱vs斯佐科斯",
+      "onboard_time": 1725870499,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169121,
       "num": 169121,
       "word": "纽约时装周",
@@ -1075,20 +1171,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 166132,
+      "num": 166132,
+      "word": "中小学教师非教学负担过重",
+      "onboard_time": 1725867199,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 163351,
       "num": 163351,
       "word": "iPhone16有哪些看点",
       "onboard_time": 1725839418,
       "rank": 27,
       "category": "数码"
-    },
-    {
-      "raw_hot": 163012,
-      "num": 163012,
-      "word": "妇联回应女孩爆料母亲被家暴一生",
-      "onboard_time": 1725865820,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162123,
@@ -1105,6 +1201,14 @@
       "onboard_time": 1725866719,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 161673,
+      "num": 161673,
+      "word": "苏醒被日本歌手说像孙悟空",
+      "onboard_time": 1725868999,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 160548,
@@ -1145,6 +1249,14 @@
       "onboard_time": 1725854239,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158373,
+      "num": 158373,
+      "word": "国航一航班因故障返航",
+      "onboard_time": 1725868100,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158168,
@@ -1363,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137172,
+      "num": 137172,
+      "word": "教体局回应女生被同桌扎数百下",
+      "onboard_time": 1725865039,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135362,
       "num": 135362,
       "word": "严屹宽最勇敢的儿子是庆怜",
@@ -1376,14 +1496,6 @@
       "word": "残疾人用行动震撼了每一个健全人",
       "onboard_time": 1725852318,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134707,
-      "num": 134707,
-      "word": "教体局回应女生被同桌扎数百下",
-      "onboard_time": 1725865039,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1475,14 +1587,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 123630,
-      "num": 123630,
-      "word": "黄景瑜 别搞这些乱七八糟的",
-      "onboard_time": 1725867080,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 121650,
       "num": 121650,
       "word": "熊猫妈妈把自家孩子当见面礼了",
@@ -1499,14 +1603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119724,
-      "num": 119724,
-      "word": "这份工作只用铅笔不用橡皮",
-      "onboard_time": 1725867199,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119458,
       "num": 119458,
       "word": "WTT澳门冠军赛球员MBTI",
@@ -1515,28 +1611,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118333,
-      "num": 118333,
-      "word": "很多病真就是累出来的",
-      "onboard_time": 1725866359,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 117090,
       "num": 478038,
       "word": "汪苏泷苏州站点歌",
       "onboard_time": 1725859939,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 116350,
-      "num": 116350,
-      "word": "中小学教师非教学负担过重",
-      "onboard_time": 1725867199,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 115538,
@@ -1569,6 +1649,14 @@
       "onboard_time": 1725852318,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112939,
+      "num": 264085,
+      "word": "会计被同事拉进群给假老板转账50万",
+      "onboard_time": 1725868700,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112781,
@@ -1699,7 +1787,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96053,
+      "raw_hot": 96482,
       "num": 596691,
       "word": "中国残奥军团94金76银50铜收官",
       "onboard_time": 1725850279,
@@ -1737,14 +1825,6 @@
       "onboard_time": 1725825491,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78347,
-      "num": 236910,
-      "word": "李一桐小狗抹胸裙",
-      "onboard_time": 1725866958,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 77731,
@@ -1840,6 +1920,14 @@
       "word": "谢可寅打戏好帅",
       "onboard_time": 1725814455,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 66834,
+      "num": 194925,
+      "word": "半熟男女",
+      "onboard_time": 1725861200,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -1955,6 +2043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40691,
+      "num": 350799,
+      "word": "患者因听力问题就诊被骗近4000元药费",
+      "onboard_time": 1725869119,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38336,
       "num": 76090,
       "word": "5年前摇号未中如今低价买到心仪现房",
@@ -2011,6 +2107,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31785,
+      "num": 168251,
+      "word": "罗云熙软骨组织损伤",
+      "onboard_time": 1725870379,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 31288,
+      "num": 216993,
+      "word": "35岁唐尚珺迈出新人生",
+      "onboard_time": 1725869060,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30066,
       "num": 65723,
       "word": "中国连续6届残奥金牌榜奖牌榜第一",
@@ -2049,6 +2161,14 @@
       "onboard_time": 1725816313,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27036,
+      "num": 247247,
+      "word": "黄渤超有食欲的新角色",
+      "onboard_time": 1725869119,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 26862,
@@ -2129,6 +2249,14 @@
       "onboard_time": 1725826812,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5919,
+      "num": 847649,
+      "word": "老师的鼓励像太阳一样温暖",
+      "onboard_time": 1725870499,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -2143,6 +2271,9 @@
     },
     {
       "word": "#人民教师无上光荣#"
+    },
+    {
+      "word": "#把师德师风建设摆在首要位置#"
     }
   ]
 }
