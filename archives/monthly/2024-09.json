@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725895395505,
+  "endTime": 1725896256778,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -1931,6 +1931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1027363,
+      "num": 927135,
+      "word": "刘德华演唱会摔倒",
+      "onboard_time": 1725893480,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1023581,
       "num": 413765,
       "word": "四川一玉米地发现脐带未剪女婴",
@@ -2313,14 +2321,6 @@
       "onboard_time": 1725252264,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 927135,
-      "num": 927135,
-      "word": "刘德华演唱会摔倒",
-      "onboard_time": 1725893480,
-      "rank": 3,
-      "category": "演出"
     },
     {
       "raw_hot": 926772,
@@ -4451,6 +4451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 588778,
+      "num": 588778,
+      "word": "iPhone16",
+      "onboard_time": 1725627679,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 588680,
       "num": 588680,
       "word": "月薪一万那叫卷十万就叫拼搏",
@@ -4913,14 +4921,6 @@
       "onboard_time": 1725768980,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 536499,
-      "num": 536499,
-      "word": "iPhone16",
-      "onboard_time": 1725627679,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 535722,
@@ -7291,6 +7291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348799,
+      "num": 348799,
+      "word": "孙颖莎伊藤美诚同半区",
+      "onboard_time": 1725891982,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 348559,
       "num": 353815,
       "word": "腾讯视频9月大剧片单",
@@ -7673,6 +7681,14 @@
       "onboard_time": 1725529759,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 326560,
+      "num": 217718,
+      "word": "女子通过蠕动解压被吐槽太抽象",
+      "onboard_time": 1725894980,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326482,
@@ -8587,14 +8603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284174,
-      "num": 284174,
-      "word": "孙颖莎伊藤美诚同半区",
-      "onboard_time": 1725891982,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 284051,
       "num": 284051,
       "word": "我的裤子竟然被1000w人围观了",
@@ -8649,6 +8657,14 @@
       "onboard_time": 1725799400,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 282095,
+      "num": 282095,
+      "word": "张杰方正协商解决方案",
+      "onboard_time": 1725893002,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 281889,
@@ -8745,14 +8761,6 @@
       "onboard_time": 1725534081,
       "rank": 27,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 279285,
-      "num": 279285,
-      "word": "张杰方正协商解决方案",
-      "onboard_time": 1725893002,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 278555,
@@ -14691,6 +14699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 180843,
+      "num": 180843,
+      "word": "于正说白鹿王星越早晚要搭",
+      "onboard_time": 1725894679,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180794,
       "num": 180794,
       "word": "谷爱凌从天才少女到双面人谷圣",
@@ -16569,14 +16585,6 @@
       "onboard_time": 1725187578,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 165325,
-      "num": 165325,
-      "word": "于正说白鹿王星越早晚要搭",
-      "onboard_time": 1725894679,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 165314,
@@ -19243,14 +19251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143781,
-      "num": 143781,
-      "word": "女子通过蠕动解压被吐槽太抽象",
-      "onboard_time": 1725894980,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143775,
       "num": 118105,
       "word": "脚跟干裂的人排查4种病",
@@ -19601,6 +19601,14 @@
       "onboard_time": 1725573672,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140291,
+      "num": 140291,
+      "word": "彭高 我会让她知道",
+      "onboard_time": 1725894380,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 140280,
@@ -21003,14 +21011,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 124035,
-      "num": 124035,
-      "word": "彭高 我会让她知道",
-      "onboard_time": 1725894380,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 124025,
       "num": 124025,
       "word": "早田希娜因伤缺席中国大满贯",
@@ -21201,6 +21201,14 @@
       "onboard_time": 1725894020,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121155,
+      "num": 121155,
+      "word": "首批免签来华的老外已吃不下白人饭",
+      "onboard_time": 1725895460,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121112,
@@ -21627,6 +21635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114768,
+      "num": 114768,
+      "word": "杨铭宇黄焖鸡回应超20人中毒",
+      "onboard_time": 1725894621,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114759,
       "num": 114759,
       "word": "被檀健次眼神虐到了",
@@ -21729,14 +21745,6 @@
       "onboard_time": 1725852318,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113190,
-      "num": 113190,
-      "word": "杨铭宇黄焖鸡回应超20人中毒",
-      "onboard_time": 1725894621,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113073,
@@ -22017,6 +22025,14 @@
       "onboard_time": 1725772399,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107868,
+      "num": 107868,
+      "word": "毛不易李雪琴 一个暗示一个秒懂",
+      "onboard_time": 1725895580,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 107717,
@@ -22651,6 +22667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 94132,
+      "num": 365611,
+      "word": "早点放下手机坚持早睡早起",
+      "onboard_time": 1725894859,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 93605,
       "num": 129019,
       "word": "这都能认出来是黄景瑜",
@@ -22929,6 +22953,14 @@
       "onboard_time": 1725337164,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86985,
+      "num": 86985,
+      "word": "孙颖莎说站在赛场上就全力以赴",
+      "onboard_time": 1725896178,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 86936,
@@ -23561,14 +23593,6 @@
       "onboard_time": 1725228252,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 67263,
-      "num": 174765,
-      "word": "早点放下手机坚持早睡早起",
-      "onboard_time": 1725894859,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 67061,
@@ -24755,6 +24779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44424,
+      "num": 1127331,
+      "word": "万千气象看内蒙古",
+      "onboard_time": 1725887060,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44416,
       "num": 322950,
       "word": "十上无难事冠军",
@@ -24841,14 +24873,6 @@
       "onboard_time": 1725681619,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 43162,
-      "num": 1127331,
-      "word": "万千气象看内蒙古",
-      "onboard_time": 1725887060,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43014,

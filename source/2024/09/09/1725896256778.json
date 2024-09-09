@@ -1,0 +1,410 @@
+{
+  "runTime": 1725896256778,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1668310,
+        "num": 1668310,
+        "word": "张杰工作室道歉",
+        "onboard_time": 1725891501,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 864618,
+        "num": 864618,
+        "word": "月饼为什么卖不动了",
+        "onboard_time": 1725886039,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44424,
+        "num": 713276,
+        "word": "万千气象看内蒙古",
+        "onboard_time": 1725887060,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1027363,
+        "num": 659630,
+        "word": "刘德华演唱会摔倒",
+        "onboard_time": 1725893480,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 588778,
+        "num": 588778,
+        "word": "iPhone16",
+        "onboard_time": 1725875480,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 407366,
+        "num": 407366,
+        "word": "教师节前班主任开家长会嘱咐别送礼",
+        "onboard_time": 1725889279,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526037,
+        "num": 393149,
+        "word": "玄彬李栋旭 结了婚和没结婚的",
+        "onboard_time": 1725877939,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 372261,
+        "num": 372261,
+        "word": "华为新机提前拆封罚款50万起",
+        "onboard_time": 1725889279,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 218976,
+        "num": 370454,
+        "word": "孙颖莎光速进16强",
+        "onboard_time": 1725886460,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94132,
+        "num": 365611,
+        "word": "早点放下手机坚持早睡早起",
+        "onboard_time": 1725894859,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 635498,
+        "num": 360900,
+        "word": "韩安冉 我在产房很想你",
+        "onboard_time": 1725883099,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 445135,
+        "num": 355778,
+        "word": "广西一青年飙车在医院门口身亡",
+        "onboard_time": 1725891261,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389586,
+        "num": 351241,
+        "word": "1岁宝宝误触充电口手指瞬间焦黑",
+        "onboard_time": 1725880220,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348799,
+        "num": 348799,
+        "word": "孙颖莎伊藤美诚同半区",
+        "onboard_time": 1725891982,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 342423,
+        "num": 342423,
+        "word": "致多人中毒黄焖鸡品牌曾多次出问题",
+        "onboard_time": 1725888380,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337182,
+        "num": 337182,
+        "word": "书亦烧仙草倒闭门店太多二手设备滞销",
+        "onboard_time": 1725866599,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309632,
+        "num": 309632,
+        "word": "性侵中国女游客的韩男子被求刑10年",
+        "onboard_time": 1725860719,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282257,
+        "num": 282257,
+        "word": "张雨绮张真源豪门姐弟具象化",
+        "onboard_time": 1725888859,
+        "rank": 17,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 282095,
+        "num": 282095,
+        "word": "张杰方正协商解决方案",
+        "onboard_time": 1725893002,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 218608,
+        "num": 218608,
+        "word": "傅首尔老刘 离婚不耽误朋友发展",
+        "onboard_time": 1725877939,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 851310,
+        "num": 218548,
+        "word": "小杨哥 磨骨",
+        "onboard_time": 1725878717,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 326560,
+        "num": 217718,
+        "word": "女子通过蠕动解压被吐槽太抽象",
+        "onboard_time": 1725894980,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222970,
+        "num": 217633,
+        "word": "父母困在没有退休金的日子里",
+        "onboard_time": 1725872360,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216697,
+        "num": 216697,
+        "word": "小杨哥已掉粉超百万",
+        "onboard_time": 1725885980,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 200755,
+        "num": 200755,
+        "word": "年轻人改造租屋拒绝没苦硬吃",
+        "onboard_time": 1725890241,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198128,
+        "num": 198128,
+        "word": "高雅CP",
+        "onboard_time": 1725893780,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186560,
+        "num": 186560,
+        "word": "库克发微博为苹果发布会预热",
+        "onboard_time": 1725894142,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 180843,
+        "num": 180843,
+        "word": "于正说白鹿王星越早晚要搭",
+        "onboard_time": 1725894679,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140291,
+        "num": 140291,
+        "word": "彭高 我会让她知道",
+        "onboard_time": 1725894380,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130417,
+        "num": 130417,
+        "word": "武汉严西湖大桥有车辆坠湖",
+        "onboard_time": 1725894260,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 635042,
+        "num": 128948,
+        "word": "张杰应公开回应素人电话号事件",
+        "onboard_time": 1725876018,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148057,
+        "num": 128064,
+        "word": "耳朵有这4个异常小心心梗",
+        "onboard_time": 1725891561,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134636,
+        "num": 127162,
+        "word": "心动的信号7",
+        "onboard_time": 1725881598,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126116,
+        "num": 126116,
+        "word": "王一博话最多的一集",
+        "onboard_time": 1725894621,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125025,
+        "num": 125025,
+        "word": "黄景瑜天生下海圣体",
+        "onboard_time": 1725879080,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121155,
+        "num": 121155,
+        "word": "首批免签来华的老外已吃不下白人饭",
+        "onboard_time": 1725895460,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119197,
+        "num": 119197,
+        "word": "iPhone16或成苹果最具争议手机",
+        "onboard_time": 1725864378,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 117370,
+        "num": 117370,
+        "word": "张万森下血了",
+        "onboard_time": 1725882319,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114768,
+        "num": 114768,
+        "word": "杨铭宇黄焖鸡回应超20人中毒",
+        "onboard_time": 1725894621,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112974,
+        "num": 112974,
+        "word": "华为三折叠预约已超300万",
+        "onboard_time": 1725893540,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 112350,
+        "num": 112350,
+        "word": "柳俊烈郑秀晶同框",
+        "onboard_time": 1725894020,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108534,
+        "num": 108534,
+        "word": "沫沫 小杨哥",
+        "onboard_time": 1725862579,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 107868,
+        "num": 107868,
+        "word": "毛不易李雪琴 一个暗示一个秒懂",
+        "onboard_time": 1725895580,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106080,
+        "num": 106080,
+        "word": "孟羽童谈自由职业一年",
+        "onboard_time": 1725882079,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 103326,
+        "num": 103326,
+        "word": "TES回应JackeyLove谣言",
+        "onboard_time": 1725890060,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90496,
+        "num": 90496,
+        "word": "焉栩嘉在高原一公里捡一车垃圾",
+        "onboard_time": 1725893840,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89627,
+        "num": 89627,
+        "word": "苹果有线耳机或将停产",
+        "onboard_time": 1725889279,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 86985,
+        "num": 86985,
+        "word": "孙颖莎说站在赛场上就全力以赴",
+        "onboard_time": 1725896178,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83388,
+        "num": 83388,
+        "word": "1天捞出1吨死鱼别再盲目放生了",
+        "onboard_time": 1725892340,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378584,
+        "num": 83380,
+        "word": "孙颖莎打笑了",
+        "onboard_time": 1725887241,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见挪威首相斯特勒#"
+    }
+  }
+}
