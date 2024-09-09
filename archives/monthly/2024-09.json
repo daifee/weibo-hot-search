@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725891780810,
+  "endTime": 1725892825674,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -121,6 +121,14 @@
       "onboard_time": 1725365420,
       "rank": 10,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 2936434,
+      "num": 2936434,
+      "word": "张杰工作室道歉",
+      "onboard_time": 1725891501,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 2899571,
@@ -940,7 +948,7 @@
     },
     {
       "raw_hot": 1463721,
-      "num": 246774,
+      "num": 270965,
       "word": "小杨哥 磨骨",
       "onboard_time": 1725878717,
       "rank": 20,
@@ -3211,6 +3219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 762021,
+      "num": 762021,
+      "word": "教师节前班主任开家长会嘱咐别送礼",
+      "onboard_time": 1725889279,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 761748,
       "num": 761748,
       "word": "迪丽热巴妆造",
@@ -3512,14 +3528,6 @@
       "word": "月薪几万才能吃到靠谱干净的外卖",
       "onboard_time": 1725853879,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 705524,
-      "num": 705524,
-      "word": "教师节前班主任开家长会嘱咐别送礼",
-      "onboard_time": 1725889279,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -4531,6 +4539,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 577489,
+      "num": 527878,
+      "word": "张雨绮张真源豪门姐弟具象化",
+      "onboard_time": 1725888859,
+      "rank": 45,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 574042,
       "num": 574042,
       "word": "王楚钦首轮对阵黄镇廷",
@@ -4889,6 +4905,14 @@
       "onboard_time": 1725768980,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 536499,
+      "num": 536499,
+      "word": "iPhone16",
+      "onboard_time": 1725627679,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 535722,
@@ -5531,14 +5555,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 485299,
-      "num": 485299,
-      "word": "iPhone16",
-      "onboard_time": 1725627679,
-      "rank": 36,
-      "category": "数码"
-    },
-    {
       "raw_hot": 484448,
       "num": 484448,
       "word": "孙卓到南京工业大学报到了",
@@ -5836,7 +5852,7 @@
     },
     {
       "raw_hot": 463357,
-      "num": 246675,
+      "num": 269369,
       "word": "小杨哥已掉粉超百万",
       "onboard_time": 1725885980,
       "rank": 25,
@@ -6635,14 +6651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 395532,
-      "num": 395532,
-      "word": "张杰工作室道歉",
-      "onboard_time": 1725891501,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 395144,
       "num": 578061,
       "word": "aespa空降",
@@ -6833,14 +6841,6 @@
       "onboard_time": 1725506958,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 379498,
-      "num": 379498,
-      "word": "张雨绮张真源豪门姐弟具象化",
-      "onboard_time": 1725888859,
-      "rank": 45,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 379134,
@@ -8955,6 +8955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271033,
+      "num": 271033,
+      "word": "广西一青年飙车在医院门口身亡",
+      "onboard_time": 1725891261,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270793,
       "num": 270793,
       "word": "市监局回应厦航疑刊登代孕广告",
@@ -9001,6 +9009,14 @@
       "onboard_time": 1725721881,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 269498,
+      "num": 269498,
+      "word": "华为新机提前拆封罚款50万起",
+      "onboard_time": 1725889279,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 268991,
@@ -9065,6 +9081,14 @@
       "onboard_time": 1725866958,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 267698,
+      "num": 267698,
+      "word": "致多人中毒黄焖鸡品牌曾多次出问题",
+      "onboard_time": 1725888380,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267373,
@@ -11899,6 +11923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205643,
+      "num": 205643,
+      "word": "孙颖莎伊藤美诚同半区",
+      "onboard_time": 1725891982,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205641,
       "num": 511029,
       "word": "泰国遭辱骂女子事件后续",
@@ -13097,14 +13129,6 @@
       "onboard_time": 1725517520,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 194454,
-      "num": 194454,
-      "word": "华为新机提前拆封罚款50万起",
-      "onboard_time": 1725889279,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 194342,
@@ -15491,14 +15515,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 174561,
-      "num": 158899,
-      "word": "致多人中毒黄焖鸡品牌曾多次出问题",
-      "onboard_time": 1725888380,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174516,
       "num": 174516,
       "word": "时代少年团8月行程图",
@@ -17659,12 +17675,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156228,
-      "num": 156228,
-      "word": "广西一青年飙车在医院门口身亡",
-      "onboard_time": 1725891261,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 156205,
+      "num": 156205,
+      "word": "苹果有线耳机或将停产",
+      "onboard_time": 1725889279,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 156192,
@@ -19227,6 +19243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143351,
+      "num": 143351,
+      "word": "耳朵有这4个异常小心心梗",
+      "onboard_time": 1725891561,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 143281,
       "num": 164940,
       "word": "广东也开始感受到摩羯威力了",
@@ -20009,6 +20033,14 @@
       "onboard_time": 1725687199,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133990,
+      "num": 133990,
+      "word": "夏之光连续三年去普陀山",
+      "onboard_time": 1725892162,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 133779,
@@ -20851,14 +20883,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 124357,
-      "num": 124357,
-      "word": "耳朵有这4个异常小心心梗",
-      "onboard_time": 1725891561,
-      "rank": 43,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 124333,
       "num": 124333,
       "word": "十个勤天行李牌",
@@ -20873,14 +20897,6 @@
       "onboard_time": 1725784161,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124264,
-      "num": 124264,
-      "word": "苹果有线耳机或将停产",
-      "onboard_time": 1725889279,
-      "rank": 44,
-      "category": "数码"
     },
     {
       "raw_hot": 124188,
@@ -21241,6 +21257,14 @@
       "onboard_time": 1725755657,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 118263,
+      "num": 118263,
+      "word": "里斯本丸沉没豆瓣开分9.2",
+      "onboard_time": 1725892100,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 118244,
@@ -22043,6 +22067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104430,
+      "num": 104430,
+      "word": "王子奇上班开的车是黄景瑜的",
+      "onboard_time": 1725892521,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103924,
       "num": 103924,
       "word": "国家博物馆偶遇张颂文马嘉祺",
@@ -22065,6 +22097,14 @@
       "onboard_time": 1725761300,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 102887,
+      "num": 102887,
+      "word": "赵小童去土壤医院学习",
+      "onboard_time": 1725892701,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 102825,
@@ -24003,6 +24043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54657,
+      "num": 427611,
+      "word": "昆明市监局回应中药磨粉骗局",
+      "onboard_time": 1725891141,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54218,
       "num": 1068598,
       "word": "文物里的国潮",
@@ -24681,6 +24729,14 @@
       "onboard_time": 1725437661,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42449,
+      "num": 512664,
+      "word": "1天捞出1吨死鱼别再盲目放生了",
+      "onboard_time": 1725892340,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42383,
@@ -25371,19 +25427,19 @@
       "category": "美妆,幽默"
     },
     {
+      "raw_hot": 34047,
+      "num": 1127331,
+      "word": "万千气象看内蒙古",
+      "onboard_time": 1725887060,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33945,
       "num": 927138,
       "word": "揭开游戏代退费骗局",
       "onboard_time": 1725285563,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33929,
-      "num": 329312,
-      "word": "昆明市监局回应中药磨粉骗局",
-      "onboard_time": 1725891141,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -25745,14 +25801,6 @@
       "onboard_time": 1725694339,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 30649,
-      "num": 1127331,
-      "word": "万千气象看内蒙古",
-      "onboard_time": 1725887060,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30504,
