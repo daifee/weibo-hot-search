@@ -1,6 +1,6 @@
 {
   "startTime": 1725812757378,
-  "endTime": 1725873862580,
+  "endTime": 1725874671841,
   "band_list": [
     {
       "raw_hot": 2254379,
@@ -179,8 +179,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 802959,
-      "num": 802959,
+      "raw_hot": 846403,
+      "num": 846403,
       "word": "玄彬 孙艺珍仅是存在我就非常感谢了",
       "onboard_time": 1725871941,
       "rank": 1,
@@ -203,20 +203,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 776124,
+      "num": 776124,
+      "word": "会计被同事拉进群给假老板转账50万",
+      "onboard_time": 1725868700,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 769001,
       "num": 769001,
       "word": "19岁学生因iPhone进水不保修起诉苹果",
       "onboard_time": 1725842001,
       "rank": 3,
       "category": "数码"
-    },
-    {
-      "raw_hot": 738580,
-      "num": 738580,
-      "word": "会计被同事拉进群给假老板转账50万",
-      "onboard_time": 1725868700,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 713021,
@@ -384,6 +384,14 @@
       "word": "印度被奸杀女医生父母发声",
       "onboard_time": 1725857903,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 535480,
+      "num": 379389,
+      "word": "警方通报废弃房内发现女尸",
+      "onboard_time": 1725872659,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -571,20 +579,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 320967,
-      "num": 320967,
-      "word": "警方通报废弃房内发现女尸",
-      "onboard_time": 1725872659,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 315268,
       "num": 315268,
       "word": "登陆少年全员改认证",
       "onboard_time": 1725865698,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 314559,
+      "num": 314559,
+      "word": "郑钦文等6人拟记大功",
+      "onboard_time": 1725873259,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 310041,
@@ -667,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276029,
+      "num": 296731,
+      "word": "张凌赫4年多拍15部剧",
+      "onboard_time": 1725872900,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 273600,
       "num": 273600,
       "word": "王楚钦梁靖崑说男队许昕最e",
@@ -723,14 +739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 250252,
-      "num": 250252,
-      "word": "郑钦文等6人拟记大功",
-      "onboard_time": 1725873259,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 245143,
       "num": 218427,
       "word": "猫 你说这水怎么这么好喝",
@@ -779,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233372,
+      "num": 228517,
+      "word": "小杨哥直播数据",
+      "onboard_time": 1725873747,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 232738,
       "num": 232738,
       "word": "莫雷加德3比1户上隼辅",
@@ -809,6 +825,14 @@
       "onboard_time": 1725852378,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 229238,
+      "num": 287902,
+      "word": "父母困在没有退休金的日子里",
+      "onboard_time": 1725872360,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229101,
@@ -867,14 +891,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 222605,
-      "num": 296731,
-      "word": "张凌赫4年多拍15部剧",
-      "onboard_time": 1725872900,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 221196,
       "num": 221196,
       "word": "WTT澳门冠军赛",
@@ -929,6 +945,14 @@
       "onboard_time": 1725812237,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205851,
+      "num": 205851,
+      "word": "王曼昱奥运后首秀开门红",
+      "onboard_time": 1725873561,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 205708,
@@ -1001,6 +1025,14 @@
       "onboard_time": 1725852318,
       "rank": 26,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 202288,
+      "num": 187543,
+      "word": "外交部回应日本游客圆明园拍照被制止",
+      "onboard_time": 1725873919,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 201679,
@@ -1081,6 +1113,14 @@
       "onboard_time": 1725811701,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187259,
+      "num": 187259,
+      "word": "三折叠或为华为史上最贵手机",
+      "onboard_time": 1725872538,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 187096,
@@ -1339,14 +1379,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 157967,
-      "num": 157967,
-      "word": "王曼昱奥运后首秀开门红",
-      "onboard_time": 1725873561,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 156717,
       "num": 156717,
       "word": "国足打沙特大概率还是付费直播",
@@ -1427,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147990,
+      "num": 147292,
+      "word": "小杨哥掉粉",
+      "onboard_time": 1725874577,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 147937,
       "num": 147937,
       "word": "2米高iPhone造价7万美元",
@@ -1459,12 +1499,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 146876,
-      "num": 146876,
-      "word": "三折叠或为华为史上最贵手机",
-      "onboard_time": 1725872538,
-      "rank": 38,
-      "category": "数码"
+      "raw_hot": 146998,
+      "num": 144715,
+      "word": "王海质疑三只羊1万名剪辑冒充粉丝",
+      "onboard_time": 1725874577,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 146864,
@@ -1547,6 +1587,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 142302,
+      "num": 142302,
+      "word": "张元英跳EMERGENCY",
+      "onboard_time": 1725872601,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 141870,
       "num": 141870,
       "word": "雪迷宫 乡村版破云",
@@ -1561,6 +1609,14 @@
       "onboard_time": 1725801320,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138439,
+      "num": 138439,
+      "word": "齐思钧魏哲鸣 二山得六啊",
+      "onboard_time": 1725873259,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 138380,
@@ -1659,14 +1715,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 128822,
-      "num": 128822,
-      "word": "小杨哥直播数据",
-      "onboard_time": 1725873747,
-      "rank": 43,
-      "category": "网红"
-    },
-    {
       "raw_hot": 128778,
       "num": 128778,
       "word": "苹果今晚或将发布两款手表",
@@ -1683,12 +1731,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 126679,
-      "num": 126679,
-      "word": "张元英跳EMERGENCY",
-      "onboard_time": 1725872601,
-      "rank": 44,
-      "category": "作品衍生"
+      "raw_hot": 126826,
+      "num": 126826,
+      "word": "宿舍养鸡",
+      "onboard_time": 1725874040,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 125704,
@@ -1707,12 +1755,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 124132,
-      "num": 124132,
-      "word": "齐思钧魏哲鸣 二山得六啊",
-      "onboard_time": 1725873259,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 125525,
+      "num": 125525,
+      "word": "王海喊话小杨哥赔偿4200万给消费者",
+      "onboard_time": 1725874161,
+      "rank": 49,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 124000,
@@ -1947,7 +1995,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 92312,
+      "raw_hot": 92828,
       "num": 1057924,
       "word": "老师口头禅大汇总",
       "onboard_time": 1725863118,
@@ -1955,7 +2003,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88772,
+      "raw_hot": 89455,
       "num": 257549,
       "word": "罗云熙软骨组织损伤",
       "onboard_time": 1725870379,
@@ -1963,12 +2011,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 87059,
-      "num": 287902,
-      "word": "父母困在没有退休金的日子里",
-      "onboard_time": 1725872360,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 88027,
+      "num": 187553,
+      "word": "宋亚轩现在就出发新疆vlog",
+      "onboard_time": 1725874640,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 86752,
@@ -1977,6 +2025,14 @@
       "onboard_time": 1725806421,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82183,
+      "num": 414026,
+      "word": "首批养老专业本科生为啥遭疯抢",
+      "onboard_time": 1725873020,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81719,
@@ -2139,11 +2195,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 54922,
-      "num": 414026,
-      "word": "首批养老专业本科生为啥遭疯抢",
-      "onboard_time": 1725873020,
-      "rank": 9,
+      "raw_hot": 55015,
+      "num": 310463,
+      "word": "天价理发店不能惯着",
+      "onboard_time": 1725872839,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2216,14 +2272,6 @@
       "word": "患者因听力问题就诊被骗近4000元药费",
       "onboard_time": 1725869119,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38931,
-      "num": 310463,
-      "word": "天价理发店不能惯着",
-      "onboard_time": 1725872839,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
