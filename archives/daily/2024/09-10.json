@@ -1,6 +1,6 @@
 {
   "startTime": 1725899204781,
-  "endTime": 1725907329872,
+  "endTime": 1725909457798,
   "band_list": [
     {
       "raw_hot": 2017612,
@@ -51,6 +51,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 708709,
+      "num": 708709,
+      "word": "iPhone16Pro",
+      "onboard_time": 1725906314,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 644810,
       "num": 693713,
       "word": "刘德华演唱会摔倒",
@@ -75,14 +83,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 442739,
-      "num": 442739,
-      "word": "iPhone16Pro",
-      "onboard_time": 1725906314,
-      "rank": 25,
-      "category": "数码"
-    },
-    {
       "raw_hot": 377267,
       "num": 377267,
       "word": "孙海洋支持孙卓在大学谈恋爱",
@@ -104,6 +104,14 @@
       "word": "苹果发布会直播",
       "onboard_time": 1725902115,
       "rank": 4,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 343997,
+      "num": 343997,
+      "word": "iPhone16价格",
+      "onboard_time": 1725906913,
+      "rank": 24,
       "category": "数码"
     },
     {
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 285408,
-      "num": 285408,
+      "num": 344494,
       "word": "田曦薇演累了让我演两集",
       "onboard_time": 1725898038,
       "rank": 14,
@@ -200,6 +208,22 @@
       "word": "苹果",
       "onboard_time": 1725901993,
       "rank": 10,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 239424,
+      "num": 239424,
+      "word": "苹果配色好丑",
+      "onboard_time": 1725907032,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 220784,
+      "num": 220784,
+      "word": "iPhone16ProMax",
+      "onboard_time": 1725907453,
+      "rank": 12,
       "category": "数码"
     },
     {
@@ -307,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141206,
+      "num": 141206,
+      "word": "沙漠色iPhone16Pro",
+      "onboard_time": 1725907573,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 140637,
       "num": 140637,
       "word": "张雨绮张真源豪门姐弟具象化",
@@ -320,6 +352,14 @@
       "word": "库克发微博为苹果发布会预热",
       "onboard_time": 1725894142,
       "rank": 24,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 137064,
+      "num": 137064,
+      "word": "谁送我16pm",
+      "onboard_time": 1725906614,
+      "rank": 22,
       "category": "数码"
     },
     {
@@ -347,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121432,
-      "num": 121432,
-      "word": "谁送我16pm",
-      "onboard_time": 1725906614,
-      "rank": 22,
-      "category": "数码"
-    },
-    {
       "raw_hot": 120127,
       "num": 120127,
       "word": "高雅CP",
@@ -369,14 +401,6 @@
       "onboard_time": 1725900436,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117643,
-      "num": 117643,
-      "word": "iPhone16价格",
-      "onboard_time": 1725906913,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 116601,
@@ -457,14 +481,6 @@
       "onboard_time": 1725899296,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97283,
-      "num": 97283,
-      "word": "苹果配色好丑",
-      "onboard_time": 1725907032,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 90998,
@@ -555,12 +571,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 72164,
+      "num": 72164,
+      "word": "王者荣耀世界",
+      "onboard_time": 1725907512,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 69329,
       "num": 80633,
       "word": "张万森下血了",
       "onboard_time": 1725882319,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 67884,
+      "num": 67884,
+      "word": "苹果发布会介绍腾讯新游戏",
+      "onboard_time": 1725907692,
+      "rank": 30,
+      "category": "游戏,数码"
     },
     {
       "raw_hot": 64114,
@@ -619,6 +651,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 54774,
+      "num": 54774,
+      "word": "还是128G起步",
+      "onboard_time": 1725907932,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 47562,
       "num": 59224,
       "word": "史上充电最快苹果手表",
@@ -659,6 +699,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 25607,
+      "num": 25607,
+      "word": "凌晨三点的街很黑",
+      "onboard_time": 1725909371,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 19384,
       "num": 329236,
       "word": "浙江4名医生飞机上飞针救人",
@@ -673,6 +721,14 @@
       "onboard_time": 1725906013,
       "rank": 20,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 11812,
+      "num": 542171,
+      "word": "文化中国行看秦兵马俑考古发掘50年",
+      "onboard_time": 1725894920,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
