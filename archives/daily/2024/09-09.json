@@ -1,6 +1,6 @@
 {
   "startTime": 1725812757378,
-  "endTime": 1725877429471,
+  "endTime": 1725878482670,
   "band_list": [
     {
       "raw_hot": 2254379,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1799997,
+      "num": 1799997,
+      "word": "张杰应公开回应素人电话号事件",
+      "onboard_time": 1725876018,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1644420,
       "num": 473133,
       "word": "避谶",
@@ -59,7 +67,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1379235,
+      "raw_hot": 1441029,
       "num": 371961,
       "word": "父母困在没有退休金的日子里",
       "onboard_time": 1725872360,
@@ -168,14 +176,6 @@
       "word": "苏可杨洋二胎",
       "onboard_time": 1725854480,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 911503,
-      "num": 911503,
-      "word": "张杰应公开回应素人电话号事件",
-      "onboard_time": 1725876018,
-      "rank": 1,
       "category": "艺人"
     },
     {
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 572613,
+      "num": 301536,
+      "word": "玄彬李栋旭 结了婚和没结婚的",
+      "onboard_time": 1725877939,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 567455,
       "num": 567455,
       "word": "点奶茶不请同事尴尬吗",
@@ -459,6 +467,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 473280,
+      "num": 473280,
+      "word": "iPhone16",
+      "onboard_time": 1725875480,
+      "rank": 6,
+      "category": "数码"
+    },
+    {
       "raw_hot": 460329,
       "num": 309960,
       "word": "小杨哥掉粉",
@@ -473,6 +489,14 @@
       "onboard_time": 1725862940,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 441430,
+      "num": 300254,
+      "word": "傅首尔老刘 离婚不耽误朋友发展",
+      "onboard_time": 1725877939,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 437634,
@@ -561,14 +585,6 @@
       "onboard_time": 1725840080,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 389949,
-      "num": 389949,
-      "word": "iPhone16",
-      "onboard_time": 1725875480,
-      "rank": 6,
-      "category": "数码"
     },
     {
       "raw_hot": 383663,
@@ -681,6 +697,14 @@
       "onboard_time": 1725809301,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 297537,
+      "num": 297537,
+      "word": "吉林一前村支书被刺身亡",
+      "onboard_time": 1725876498,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296621,
@@ -859,14 +883,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 232277,
-      "num": 232277,
-      "word": "吉林一前村支书被刺身亡",
-      "onboard_time": 1725876498,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 230943,
       "num": 230943,
       "word": "这份工作只用铅笔不用橡皮",
@@ -897,6 +913,14 @@
       "onboard_time": 1725873919,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 227901,
+      "num": 227901,
+      "word": "下拉如坐飞机 没事哒没事哒",
+      "onboard_time": 1725874879,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 227722,
@@ -1131,6 +1155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 195092,
+      "num": 195092,
+      "word": "苹果官旗客服咨询已排起长龙",
+      "onboard_time": 1725877279,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 194342,
       "num": 194342,
       "word": "摩羯在越南造成大面积断电断网",
@@ -1153,6 +1185,22 @@
       "onboard_time": 1725781999,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 190489,
+      "num": 229430,
+      "word": "十个勤天郑州抢票",
+      "onboard_time": 1725878119,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 190486,
+      "num": 190486,
+      "word": "莫雷加德说国乒最好的朋友是王楚钦",
+      "onboard_time": 1725877939,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 190397,
@@ -1185,6 +1233,14 @@
       "onboard_time": 1725855020,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186632,
+      "num": 186632,
+      "word": "3居室爆改7间卫浴套房楼下告了",
+      "onboard_time": 1725875359,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183931,
@@ -1291,12 +1347,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 176523,
-      "num": 176523,
-      "word": "下拉如坐飞机 没事哒没事哒",
-      "onboard_time": 1725874879,
-      "rank": 33,
-      "category": "幽默"
+      "raw_hot": 175698,
+      "num": 175698,
+      "word": "王曼昱重复记者问题好可爱",
+      "onboard_time": 1725876257,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 175199,
+      "num": 175199,
+      "word": "9岁女孩和同学外出后被发现溺亡",
+      "onboard_time": 1725875480,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173373,
@@ -1379,14 +1443,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 163132,
-      "num": 163132,
-      "word": "3居室爆改7间卫浴套房楼下告了",
-      "onboard_time": 1725875359,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162123,
       "num": 162123,
       "word": "王皓的赛场秘诀原来是这样的",
@@ -1425,6 +1481,14 @@
       "onboard_time": 1725786860,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158999,
+      "num": 158999,
+      "word": "王海质疑三只羊1万名剪辑冒充粉丝",
+      "onboard_time": 1725874577,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 158991,
@@ -1468,19 +1532,11 @@
     },
     {
       "raw_hot": 156041,
-      "num": 156041,
+      "num": 175262,
       "word": "17岁的我对铁饭碗不屑一顾",
       "onboard_time": 1725874820,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 155952,
-      "num": 155952,
-      "word": "王海质疑三只羊1万名剪辑冒充粉丝",
-      "onboard_time": 1725874577,
-      "rank": 40,
-      "category": "互联网"
     },
     {
       "raw_hot": 154447,
@@ -1529,14 +1585,6 @@
       "onboard_time": 1725809003,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 151598,
-      "num": 151598,
-      "word": "9岁女孩和同学外出后被发现溺亡",
-      "onboard_time": 1725875480,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149983,
@@ -1747,14 +1795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134512,
-      "num": 134512,
-      "word": "苹果官旗客服咨询已排起长龙",
-      "onboard_time": 1725877279,
-      "rank": 46,
-      "category": "数码"
-    },
-    {
       "raw_hot": 134147,
       "num": 134147,
       "word": "王铮亮干一行行一行",
@@ -1763,20 +1803,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133285,
-      "num": 133285,
-      "word": "王曼昱重复记者问题好可爱",
-      "onboard_time": 1725876257,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 132567,
       "num": 123936,
       "word": "赵露思早期视频",
       "onboard_time": 1725797899,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 131763,
+      "num": 374391,
+      "word": "中介因业绩差偷卖房东6台空调",
+      "onboard_time": 1725875840,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131537,
@@ -2131,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82150,
+      "num": 364276,
+      "word": "班味儿到底是什么味儿",
+      "onboard_time": 1725876439,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81719,
       "num": 81719,
       "word": "6年相亲28个找不到六边形战士",
@@ -2161,14 +2209,6 @@
       "onboard_time": 1725803842,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72469,
-      "num": 374391,
-      "word": "中介因业绩差偷卖房东6台空调",
-      "onboard_time": 1725875840,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72048,
@@ -2259,6 +2299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62191,
+      "num": 304528,
+      "word": "有茶饮连锁店从业者干十年亏2000万",
+      "onboard_time": 1725877759,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61815,
       "num": 76876,
       "word": "10岁轮椅女孩上学4年成全班35人团宠",
@@ -2339,6 +2387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 47802,
+      "num": 229085,
+      "word": "日本为什么会闹米荒",
+      "onboard_time": 1725876738,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45666,
       "num": 76322,
       "word": "AG超玩会 宝石流",
@@ -2360,14 +2416,6 @@
       "word": "网传重庆9月降雪消息不属实",
       "onboard_time": 1725802099,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43319,
-      "num": 364276,
-      "word": "班味儿到底是什么味儿",
-      "onboard_time": 1725876439,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2408,14 +2456,6 @@
       "word": "秋台风摩羯过境后被截断的生计",
       "onboard_time": 1725850940,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36782,
-      "num": 229085,
-      "word": "日本为什么会闹米荒",
-      "onboard_time": 1725876738,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -2496,6 +2536,14 @@
       "word": "中国消防员参加世锦赛有多敏捷",
       "onboard_time": 1725816313,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27584,
+      "num": 279888,
+      "word": "武汉一小区附近挖排污井致楼房开裂",
+      "onboard_time": 1725877579,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
