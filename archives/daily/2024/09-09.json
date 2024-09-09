@@ -1,7 +1,15 @@
 {
   "startTime": 1725812757378,
-  "endTime": 1725853182753,
+  "endTime": 1725855936690,
   "band_list": [
+    {
+      "raw_hot": 2254379,
+      "num": 628577,
+      "word": "小朋友玩烟卡遭3名小孩飞车抢卡",
+      "onboard_time": 1725850698,
+      "rank": 49,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1644420,
       "num": 473133,
@@ -19,11 +27,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1252371,
+      "num": 787429,
+      "word": "垃圾站旁的脏外卖背刺了多少打工人",
+      "onboard_time": 1725848358,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1242122,
       "num": 1242122,
       "word": "公司订51份黄焖鸡米饭超20人中毒",
       "onboard_time": 1725840318,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1236447,
+      "num": 1236447,
+      "word": "莫奈巨作睡莲将在香港拍卖",
+      "onboard_time": 1725850219,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -57,14 +81,6 @@
       "onboard_time": 1725803420,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 787429,
-      "num": 787429,
-      "word": "垃圾站旁的脏外卖背刺了多少打工人",
-      "onboard_time": 1725848358,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 769001,
@@ -107,14 +123,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 628577,
-      "num": 628577,
-      "word": "小朋友玩烟卡遭3名小孩飞车抢卡",
-      "onboard_time": 1725850698,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 615750,
       "num": 389202,
       "word": "特朗普扬言对不用美元国家征100%税",
@@ -155,11 +163,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 558362,
+      "num": 558362,
+      "word": "苏可杨洋二胎",
+      "onboard_time": 1725854480,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 552208,
       "num": 552208,
       "word": "男子称两千七的家庭跟团游体验太差",
       "onboard_time": 1725842359,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 536949,
+      "num": 536949,
+      "word": "月薪几万才能吃到靠谱干净的外卖",
+      "onboard_time": 1725853879,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -187,12 +211,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 504820,
+      "num": 402650,
+      "word": "杨洋素颜被偶遇",
+      "onboard_time": 1725855560,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 491681,
-      "num": 281311,
+      "num": 396609,
       "word": "有6个习惯的人甲状腺都比较好",
       "onboard_time": 1725846259,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 446386,
+      "num": 398462,
+      "word": "辛巴 小杨哥",
+      "onboard_time": 1725855200,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 437634,
@@ -227,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 429898,
+      "num": 429898,
+      "word": "郑秀晶霉霉同框",
+      "onboard_time": 1725852499,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 424974,
       "num": 424974,
       "word": "iPhone16Pro预计维持999美元起价",
@@ -241,6 +289,14 @@
       "onboard_time": 1725841579,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 401377,
+      "num": 401377,
+      "word": "邓恩熙不会吻 丁禹兮不敢吻",
+      "onboard_time": 1725854659,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 392309,
@@ -265,14 +321,6 @@
       "onboard_time": 1725842240,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 331121,
-      "num": 331121,
-      "word": "莫奈巨作睡莲将在香港拍卖",
-      "onboard_time": 1725850219,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 324090,
@@ -321,6 +369,14 @@
       "onboard_time": 1725848659,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 285282,
+      "num": 402656,
+      "word": "檀健次居然还有个妹妹",
+      "onboard_time": 1725855381,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 280527,
@@ -379,14 +435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 234952,
-      "num": 234952,
-      "word": "郑秀晶霉霉同框",
-      "onboard_time": 1725852499,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 234686,
       "num": 234686,
       "word": "00后女军士荣立一等功",
@@ -401,6 +449,14 @@
       "onboard_time": 1725804021,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 230160,
+      "num": 230160,
+      "word": "毒液3内地定档",
+      "onboard_time": 1725852378,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 227722,
@@ -435,6 +491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 220886,
+      "num": 220886,
+      "word": "黄景瑜这剧是和我爸的唯一连接",
+      "onboard_time": 1725853339,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215521,
       "num": 215521,
       "word": "A股",
@@ -449,6 +513,30 @@
       "onboard_time": 1725812237,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207538,
+      "num": 207538,
+      "word": "烟卡",
+      "onboard_time": 1725855500,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207338,
+      "num": 207338,
+      "word": "男子疑酒后当街调戏暴打女子",
+      "onboard_time": 1725855080,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206514,
+      "num": 206514,
+      "word": "不拔智齿的人会后悔的",
+      "onboard_time": 1725855381,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 205708,
@@ -481,14 +569,6 @@
       "onboard_time": 1725852318,
       "rank": 26,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 200842,
-      "num": 200842,
-      "word": "毒液3内地定档",
-      "onboard_time": 1725852378,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 200783,
@@ -547,6 +627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 187096,
+      "num": 187096,
+      "word": "深圳华强17天暴涨近400%",
+      "onboard_time": 1725854721,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 183931,
       "num": 183931,
       "word": "海口躲台风腿被夹业主一家平安",
@@ -563,12 +651,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 178826,
+      "num": 400140,
+      "word": "小孩哥写信打抱不平受邀入住北京饭店",
+      "onboard_time": 1725846499,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177188,
       "num": 177188,
       "word": "20元学生小饭桌正在被成年人占领",
       "onboard_time": 1725800658,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173373,
+      "num": 173373,
+      "word": "肖央赵丽颖刘烨新片互掐",
+      "onboard_time": 1725855320,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 173046,
+      "num": 173046,
+      "word": "乒乓球比赛不能穿什么颜色衣服",
+      "onboard_time": 1725855020,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 172784,
@@ -587,11 +699,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170372,
-      "num": 400140,
-      "word": "小孩哥写信打抱不平受邀入住北京饭店",
-      "onboard_time": 1725846499,
-      "rank": 9,
+      "raw_hot": 170304,
+      "num": 170304,
+      "word": "中国天气预报太超前火到国外",
+      "onboard_time": 1725855320,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -609,6 +721,14 @@
       "onboard_time": 1725847037,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167357,
+      "num": 167357,
+      "word": "时差五小时",
+      "onboard_time": 1725855859,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 167101,
@@ -651,6 +771,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158893,
+      "num": 158893,
+      "word": "心动的信号",
+      "onboard_time": 1725854239,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 156858,
+      "num": 156858,
+      "word": "iPhone16爆料",
+      "onboard_time": 1725855260,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 156717,
+      "num": 156717,
+      "word": "国足打沙特大概率还是付费直播",
+      "onboard_time": 1725853938,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152823,
       "num": 152823,
       "word": "东北雨姐算塌房了吗",
@@ -683,12 +827,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146062,
+      "num": 146062,
+      "word": "iPhone16仍有4款型号",
+      "onboard_time": 1725855921,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 144958,
       "num": 144958,
       "word": "拒绝不了动物硬要表演",
       "onboard_time": 1725842779,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144799,
+      "num": 144799,
+      "word": "苹果AI",
+      "onboard_time": 1725854779,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 144203,
+      "num": 144203,
+      "word": "黑悟空遭第八十二难谁来降妖除魔",
+      "onboard_time": 1725855800,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 139890,
@@ -1115,6 +1283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 57596,
+      "num": 475085,
+      "word": "演唱会景点博物馆门票为何越来越难买",
+      "onboard_time": 1725854539,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56862,
       "num": 327534,
       "word": "牛约堡成脏乱堡怪消费者过度夸张",
@@ -1208,6 +1384,14 @@
       "word": "秋台风摩羯过境后被截断的生计",
       "onboard_time": 1725850940,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35664,
+      "num": 581342,
+      "word": "平台十倍陪诊费卖专家号",
+      "onboard_time": 1725854299,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
