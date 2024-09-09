@@ -1,6 +1,6 @@
 {
   "startTime": 1725812757378,
-  "endTime": 1725852292119,
+  "endTime": 1725853182753,
   "band_list": [
     {
       "raw_hot": 1644420,
@@ -59,6 +59,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 787429,
+      "num": 787429,
+      "word": "垃圾站旁的脏外卖背刺了多少打工人",
+      "onboard_time": 1725848358,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 769001,
       "num": 769001,
       "word": "19岁学生因iPhone进水不保修起诉苹果",
@@ -73,6 +81,14 @@
       "onboard_time": 1725847457,
       "rank": 4,
       "category": "网红"
+    },
+    {
+      "raw_hot": 695388,
+      "num": 695388,
+      "word": "卢昱晓 刁蛮俏公主",
+      "onboard_time": 1725847938,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 674103,
@@ -91,20 +107,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 642104,
-      "num": 642104,
-      "word": "垃圾站旁的脏外卖背刺了多少打工人",
-      "onboard_time": 1725848358,
-      "rank": 9,
+      "raw_hot": 628577,
+      "num": 628577,
+      "word": "小朋友玩烟卡遭3名小孩飞车抢卡",
+      "onboard_time": 1725850698,
+      "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 633247,
-      "num": 633247,
-      "word": "卢昱晓 刁蛮俏公主",
-      "onboard_time": 1725847938,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 615750,
@@ -153,6 +161,14 @@
       "onboard_time": 1725842359,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 521830,
+      "num": 521830,
+      "word": "赵露思无美颜无滤镜生图",
+      "onboard_time": 1725851718,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 519363,
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 412647,
-      "num": 219990,
+      "num": 233359,
       "word": "马上就要到我最恨的季节了",
       "onboard_time": 1725841579,
       "rank": 20,
@@ -251,6 +267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 331121,
+      "num": 331121,
+      "word": "莫奈巨作睡莲将在香港拍卖",
+      "onboard_time": 1725850219,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324090,
       "num": 324090,
       "word": "金秀贤听到粉丝喊金智媛的反应",
@@ -275,12 +299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303122,
-      "num": 303122,
-      "word": "小朋友玩烟卡遭3名小孩飞车抢卡",
-      "onboard_time": 1725850698,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 310026,
+      "num": 611650,
+      "word": "孙颖莎王曼昱奥运后首秀来了",
+      "onboard_time": 1725849258,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 302396,
@@ -291,36 +315,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 296733,
-      "num": 296733,
-      "word": "赵露思无美颜无滤镜生图",
-      "onboard_time": 1725851718,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 295288,
       "num": 295288,
       "word": "剑网3",
       "onboard_time": 1725848659,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 293103,
-      "num": 604468,
-      "word": "孙颖莎王曼昱奥运后首秀来了",
-      "onboard_time": 1725849258,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 281272,
-      "num": 281272,
-      "word": "莫奈巨作睡莲将在香港拍卖",
-      "onboard_time": 1725850219,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 280527,
@@ -379,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 234952,
+      "num": 234952,
+      "word": "郑秀晶霉霉同框",
+      "onboard_time": 1725852499,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234686,
       "num": 234686,
       "word": "00后女军士荣立一等功",
@@ -417,6 +425,14 @@
       "onboard_time": 1725841579,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 222786,
+      "num": 222786,
+      "word": "猫咖员工招揽生意",
+      "onboard_time": 1725849737,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 215521,
@@ -459,6 +475,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202584,
+      "num": 202584,
+      "word": "山东舰实战化训练高燃现场",
+      "onboard_time": 1725852318,
+      "rank": 26,
+      "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 200842,
+      "num": 200842,
+      "word": "毒液3内地定档",
+      "onboard_time": 1725852378,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200783,
       "num": 219907,
       "word": "吴宣仪苞娜合照",
@@ -489,14 +521,6 @@
       "onboard_time": 1725816554,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192539,
-      "num": 192539,
-      "word": "猫咖员工招揽生意",
-      "onboard_time": 1725849737,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 192078,
@@ -569,6 +593,14 @@
       "onboard_time": 1725846499,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169121,
+      "num": 169121,
+      "word": "纽约时装周",
+      "onboard_time": 1725851958,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 168462,
@@ -683,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135194,
+      "num": 135194,
+      "word": "残疾人用行动震撼了每一个健全人",
+      "onboard_time": 1725852318,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132567,
       "num": 123936,
       "word": "赵露思早期视频",
@@ -705,6 +745,14 @@
       "onboard_time": 1725840918,
       "rank": 36,
       "category": "美妆,幽默"
+    },
+    {
+      "raw_hot": 129653,
+      "num": 129653,
+      "word": "王俊凯发野孩子海报",
+      "onboard_time": 1725852678,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 129069,
@@ -755,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119458,
+      "num": 119458,
+      "word": "WTT澳门冠军赛球员MBTI",
+      "onboard_time": 1725852139,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115538,
       "num": 193086,
       "word": "华晨宇6年3次的鸟巢之约圆满结束",
@@ -771,6 +827,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 114238,
+      "num": 114238,
+      "word": "野孩子",
+      "onboard_time": 1725853158,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 113324,
+      "num": 113324,
+      "word": "谷爱凌回应世界杯夺冠",
+      "onboard_time": 1725852318,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112781,
       "num": 112781,
       "word": "酸奶刺客正在悄悄打折",
@@ -779,19 +851,19 @@
       "category": "美食"
     },
     {
+      "raw_hot": 112450,
+      "num": 112450,
+      "word": "单臂单腿姑娘拿下7块金牌",
+      "onboard_time": 1725852318,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110469,
       "num": 110469,
       "word": "金智媛见面会被喊金秀贤",
       "onboard_time": 1725835454,
       "rank": 26,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 109958,
-      "num": 109958,
-      "word": "纽约时装周",
-      "onboard_time": 1725851958,
-      "rank": 46,
       "category": "作品衍生"
     },
     {
@@ -897,6 +969,14 @@
       "onboard_time": 1725844398,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95366,
+      "num": 604361,
+      "word": "半岛酒店月饼礼盒售价近2000元",
+      "onboard_time": 1725851179,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94148,
@@ -1017,14 +1097,6 @@
       "onboard_time": 1725814455,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 66616,
-      "num": 604361,
-      "word": "半岛酒店月饼礼盒售价近2000元",
-      "onboard_time": 1725851179,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61815,

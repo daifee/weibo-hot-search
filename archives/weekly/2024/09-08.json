@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725852292119,
+  "endTime": 1725853182753,
   "band_list": [
     {
       "raw_hot": 2331163,
@@ -315,6 +315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 787429,
+      "num": 787429,
+      "word": "垃圾站旁的脏外卖背刺了多少打工人",
+      "onboard_time": 1725848358,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 776759,
       "num": 189968,
       "word": "生理期不痛的是易孕体质吗",
@@ -361,6 +369,14 @@
       "onboard_time": 1725847457,
       "rank": 4,
       "category": "网红"
+    },
+    {
+      "raw_hot": 695388,
+      "num": 695388,
+      "word": "卢昱晓 刁蛮俏公主",
+      "onboard_time": 1725847938,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 693811,
@@ -427,14 +443,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 642104,
-      "num": 642104,
-      "word": "垃圾站旁的脏外卖背刺了多少打工人",
-      "onboard_time": 1725848358,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 635679,
       "num": 294776,
       "word": "多人发现遗体帐篷却未报警的背后",
@@ -443,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 633247,
-      "num": 633247,
-      "word": "卢昱晓 刁蛮俏公主",
-      "onboard_time": 1725847938,
-      "rank": 7,
-      "category": "剧集"
+      "raw_hot": 628577,
+      "num": 628577,
+      "word": "小朋友玩烟卡遭3名小孩飞车抢卡",
+      "onboard_time": 1725850698,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 621868,
@@ -561,6 +569,14 @@
       "onboard_time": 1725769579,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 521830,
+      "num": 521830,
+      "word": "赵露思无美颜无滤镜生图",
+      "onboard_time": 1725851718,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 519363,
@@ -772,7 +788,7 @@
     },
     {
       "raw_hot": 412647,
-      "num": 219990,
+      "num": 233359,
       "word": "马上就要到我最恨的季节了",
       "onboard_time": 1725841579,
       "rank": 20,
@@ -1011,6 +1027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 331121,
+      "num": 331121,
+      "word": "莫奈巨作睡莲将在香港拍卖",
+      "onboard_time": 1725850219,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326894,
       "num": 326894,
       "word": "欧弟三胎女儿出生",
@@ -1075,6 +1099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 310026,
+      "num": 611650,
+      "word": "孙颖莎王曼昱奥运后首秀来了",
+      "onboard_time": 1725849258,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 309106,
       "num": 283443,
       "word": "颜人中演唱会官宣",
@@ -1123,28 +1155,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 303122,
-      "num": 303122,
-      "word": "小朋友玩烟卡遭3名小孩飞车抢卡",
-      "onboard_time": 1725850698,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 302396,
       "num": 302396,
       "word": "华晨宇 华妃是在叫我吗",
       "onboard_time": 1725809301,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 296733,
-      "num": 296733,
-      "word": "赵露思无美颜无滤镜生图",
-      "onboard_time": 1725851718,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 295288,
@@ -1163,28 +1179,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 293103,
-      "num": 604468,
-      "word": "孙颖莎王曼昱奥运后首秀来了",
-      "onboard_time": 1725849258,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 282278,
       "num": 282278,
       "word": "aespa获TMA大赏",
       "onboard_time": 1725799400,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 281272,
-      "num": 281272,
-      "word": "莫奈巨作睡莲将在香港拍卖",
-      "onboard_time": 1725850219,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 278703,
@@ -1411,6 +1411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 234952,
+      "num": 234952,
+      "word": "郑秀晶霉霉同框",
+      "onboard_time": 1725852499,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234796,
       "num": 213557,
       "word": "睡觉爱流口水是睡得香吗",
@@ -1497,6 +1505,14 @@
       "onboard_time": 1725841579,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 222786,
+      "num": 222786,
+      "word": "猫咖员工招揽生意",
+      "onboard_time": 1725849737,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 221611,
@@ -1691,6 +1707,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 202584,
+      "num": 202584,
+      "word": "山东舰实战化训练高燃现场",
+      "onboard_time": 1725852318,
+      "rank": 26,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 202437,
       "num": 242901,
       "word": "檀健次 录播",
@@ -1721,6 +1745,14 @@
       "onboard_time": 1725751334,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 200842,
+      "num": 200842,
+      "word": "毒液3内地定档",
+      "onboard_time": 1725852378,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 200783,
@@ -1833,14 +1865,6 @@
       "onboard_time": 1725801500,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192539,
-      "num": 192539,
-      "word": "猫咖员工招揽生意",
-      "onboard_time": 1725849737,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 192078,
@@ -2137,6 +2161,14 @@
       "onboard_time": 1725798020,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169121,
+      "num": 169121,
+      "word": "纽约时装周",
+      "onboard_time": 1725851958,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 168947,
@@ -2739,6 +2771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135194,
+      "num": 135194,
+      "word": "残疾人用行动震撼了每一个健全人",
+      "onboard_time": 1725852318,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134056,
       "num": 134056,
       "word": "医生为什么不愿意给熟人看病",
@@ -2809,6 +2849,14 @@
       "onboard_time": 1725768259,
       "rank": 34,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 129653,
+      "num": 129653,
+      "word": "王俊凯发野孩子海报",
+      "onboard_time": 1725852678,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 129069,
@@ -3035,6 +3083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119458,
+      "num": 119458,
+      "word": "WTT澳门冠军赛球员MBTI",
+      "onboard_time": 1725852139,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118755,
       "num": 118755,
       "word": "PNC韩国队夺冠",
@@ -3139,6 +3195,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 114238,
+      "num": 114238,
+      "word": "野孩子",
+      "onboard_time": 1725853158,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 113324,
+      "num": 113324,
+      "word": "谷爱凌回应世界杯夺冠",
+      "onboard_time": 1725852318,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112903,
       "num": 112903,
       "word": "邓恩熙的荧幕初吻是丁禹兮",
@@ -3155,6 +3227,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 112450,
+      "num": 112450,
+      "word": "单臂单腿姑娘拿下7块金牌",
+      "onboard_time": 1725852318,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110860,
       "num": 147739,
       "word": "周深华丽唱腔表现大场面",
@@ -3168,14 +3248,6 @@
       "word": "金智媛见面会被喊金秀贤",
       "onboard_time": 1725835454,
       "rank": 26,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 109958,
-      "num": 109958,
-      "word": "纽约时装周",
-      "onboard_time": 1725851958,
-      "rank": 46,
       "category": "作品衍生"
     },
     {
@@ -3459,6 +3531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95366,
+      "num": 604361,
+      "word": "半岛酒店月饼礼盒售价近2000元",
+      "onboard_time": 1725851179,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94478,
       "num": 94478,
       "word": "2024年网络安全宣传周",
@@ -3681,14 +3761,6 @@
       "onboard_time": 1725772099,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 66616,
-      "num": 604361,
-      "word": "半岛酒店月饼礼盒售价近2000元",
-      "onboard_time": 1725851179,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65350,

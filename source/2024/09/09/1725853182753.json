@@ -1,0 +1,410 @@
+{
+  "runTime": 1725853182753,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1098165,
+        "num": 1175706,
+        "word": "毛主席在开国大典上开心一笑",
+        "onboard_time": 1725846738,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 787429,
+        "num": 787429,
+        "word": "垃圾站旁的脏外卖背刺了多少打工人",
+        "onboard_time": 1725848358,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18418,
+        "num": 708353,
+        "word": "2024年国家网络安全宣传周",
+        "onboard_time": 1725765617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 917616,
+        "num": 707364,
+        "word": "网约车乘客开门杀致人受伤扭头就走",
+        "onboard_time": 1725845297,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 695388,
+        "num": 695388,
+        "word": "卢昱晓 刁蛮俏公主",
+        "onboard_time": 1725847938,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 678845,
+        "num": 678845,
+        "word": "赵露思 没有办法总是这样",
+        "onboard_time": 1725839418,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 628577,
+        "num": 628577,
+        "word": "小朋友玩烟卡遭3名小孩飞车抢卡",
+        "onboard_time": 1725850698,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615058,
+        "num": 615058,
+        "word": "公司订51份黄焖鸡米饭超20人中毒",
+        "onboard_time": 1725840318,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310026,
+        "num": 611650,
+        "word": "孙颖莎王曼昱奥运后首秀来了",
+        "onboard_time": 1725849258,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 608475,
+        "num": 608475,
+        "word": "K总 我们生长在红旗下",
+        "onboard_time": 1725847457,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 538802,
+        "num": 538802,
+        "word": "毛泽东逝世48周年",
+        "onboard_time": 1725839178,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 521830,
+        "num": 521830,
+        "word": "赵露思无美颜无滤镜生图",
+        "onboard_time": 1725851718,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 518532,
+        "num": 518532,
+        "word": "B太为2元面馆捐一年酱油",
+        "onboard_time": 1725847099,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427475,
+        "num": 427475,
+        "word": "2023年全国彩票17.78亿奖金未兑",
+        "onboard_time": 1725847158,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413128,
+        "num": 413128,
+        "word": "iPhone16Pro预计维持999美元起价",
+        "onboard_time": 1725846499,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 341215,
+        "num": 341215,
+        "word": "张峻豪 给妹妹改造一下",
+        "onboard_time": 1725803420,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 335626,
+        "num": 335626,
+        "word": "19岁学生因iPhone进水不保修起诉苹果",
+        "onboard_time": 1725842001,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 331121,
+        "num": 331121,
+        "word": "莫奈巨作睡莲将在香港拍卖",
+        "onboard_time": 1725850219,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234952,
+        "num": 234952,
+        "word": "郑秀晶霉霉同框",
+        "onboard_time": 1725852499,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234467,
+        "num": 234467,
+        "word": "王楚钦梁靖崑说男队许昕最e",
+        "onboard_time": 1725849978,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 443511,
+        "num": 233584,
+        "word": "有6个习惯的人甲状腺都比较好",
+        "onboard_time": 1725846259,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 237558,
+        "num": 233359,
+        "word": "马上就要到我最恨的季节了",
+        "onboard_time": 1725841579,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231542,
+        "num": 231542,
+        "word": "金秀贤听到粉丝喊金智媛的反应",
+        "onboard_time": 1725847037,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22295,
+        "num": 226401,
+        "word": "年轻人的moveon文化火了",
+        "onboard_time": 1725849678,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222786,
+        "num": 222786,
+        "word": "猫咖员工招揽生意",
+        "onboard_time": 1725849737,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211690,
+        "num": 211690,
+        "word": "00后女军士荣立一等功",
+        "onboard_time": 1725847219,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202584,
+        "num": 202584,
+        "word": "山东舰实战化训练高燃现场",
+        "onboard_time": 1725852318,
+        "rank": 26,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 200842,
+        "num": 200842,
+        "word": "毒液3内地定档",
+        "onboard_time": 1725852378,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200675,
+        "num": 200675,
+        "word": "头回见是男主的青梅遇上天降的",
+        "onboard_time": 1725846618,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178038,
+        "num": 178038,
+        "word": "吴昕把皮裙塞裤子里腰还这么细",
+        "onboard_time": 1725805728,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95366,
+        "num": 169237,
+        "word": "半岛酒店月饼礼盒售价近2000元",
+        "onboard_time": 1725851179,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169121,
+        "num": 169121,
+        "word": "纽约时装周",
+        "onboard_time": 1725851958,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157738,
+        "num": 157738,
+        "word": "男子称两千七的家庭跟团游体验太差",
+        "onboard_time": 1725842359,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155481,
+        "num": 155481,
+        "word": "加沙12岁女孩的课本被用来生火",
+        "onboard_time": 1725844280,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 152123,
+        "num": 152123,
+        "word": "张翰谈时隔7年再演古装剧",
+        "onboard_time": 1725820512,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150757,
+        "num": 150757,
+        "word": "久坐的人臀部会失忆",
+        "onboard_time": 1725818773,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148390,
+        "num": 148390,
+        "word": "小孩哥写信打抱不平受邀入住北京饭店",
+        "onboard_time": 1725846499,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142166,
+        "num": 142166,
+        "word": "猫 你说这水怎么这么好喝",
+        "onboard_time": 1725844999,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138917,
+        "num": 138917,
+        "word": "300块的黑悟空30000块的装备",
+        "onboard_time": 1725841640,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135194,
+        "num": 135194,
+        "word": "残疾人用行动震撼了每一个健全人",
+        "onboard_time": 1725852318,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134239,
+        "num": 134239,
+        "word": "山东大学34岁博导突发心梗离世",
+        "onboard_time": 1725806181,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129653,
+        "num": 129653,
+        "word": "王俊凯发野孩子海报",
+        "onboard_time": 1725852678,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129610,
+        "num": 129610,
+        "word": "NINEPERCENT QQ音乐",
+        "onboard_time": 1725842240,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 123345,
+        "num": 123345,
+        "word": "剑网3",
+        "onboard_time": 1725848659,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120836,
+        "num": 120836,
+        "word": "读了冷门专业没跑后来成了院士",
+        "onboard_time": 1725844639,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 119458,
+        "num": 119458,
+        "word": "WTT澳门冠军赛球员MBTI",
+        "onboard_time": 1725852139,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115454,
+        "num": 115454,
+        "word": "时代峰峻回应周边发货地争议",
+        "onboard_time": 1725847037,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114238,
+        "num": 114238,
+        "word": "野孩子",
+        "onboard_time": 1725853158,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113324,
+        "num": 113324,
+        "word": "谷爱凌回应世界杯夺冠",
+        "onboard_time": 1725852318,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112450,
+        "num": 112450,
+        "word": "单臂单腿姑娘拿下7块金牌",
+        "onboard_time": 1725852318,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#教育兴则国家兴教育强则国家强#"
+    }
+  }
+}
