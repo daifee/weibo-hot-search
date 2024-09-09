@@ -1,6 +1,6 @@
 {
   "startTime": 1725812757378,
-  "endTime": 1725892825674,
+  "endTime": 1725895395505,
   "band_list": [
     {
       "raw_hot": 2936434,
@@ -249,6 +249,14 @@
       "onboard_time": 1725854480,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 927135,
+      "num": 927135,
+      "word": "刘德华演唱会摔倒",
+      "onboard_time": 1725893480,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 886977,
@@ -603,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 451605,
+      "num": 371220,
+      "word": "广西一青年飙车在医院门口身亡",
+      "onboard_time": 1725891261,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 437634,
       "num": 437634,
       "word": "张翰谈时隔7年再演古装剧",
@@ -691,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 398668,
+      "num": 398668,
+      "word": "华为新机提前拆封罚款50万起",
+      "onboard_time": 1725889279,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 393033,
       "num": 393033,
       "word": "郑钦文等6人拟记大功",
@@ -704,6 +728,14 @@
       "word": "女子被醉酒丈夫家暴女儿哭求不要",
       "onboard_time": 1725840080,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386085,
+      "num": 386085,
+      "word": "致多人中毒黄焖鸡品牌曾多次出问题",
+      "onboard_time": 1725888380,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -883,6 +915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 284174,
+      "num": 284174,
+      "word": "孙颖莎伊藤美诚同半区",
+      "onboard_time": 1725891982,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 281154,
       "num": 281154,
       "word": "A股",
@@ -897,6 +937,14 @@
       "onboard_time": 1725794718,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279285,
+      "num": 279285,
+      "word": "张杰方正协商解决方案",
+      "onboard_time": 1725893002,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 273600,
@@ -915,36 +963,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 271033,
-      "num": 271033,
-      "word": "广西一青年飙车在医院门口身亡",
-      "onboard_time": 1725891261,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 269498,
-      "num": 269498,
-      "word": "华为新机提前拆封罚款50万起",
-      "onboard_time": 1725889279,
-      "rank": 25,
-      "category": "数码"
-    },
-    {
       "raw_hot": 267847,
       "num": 291188,
       "word": "李一桐小狗抹胸裙",
       "onboard_time": 1725866958,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 267698,
-      "num": 267698,
-      "word": "致多人中毒黄焖鸡品牌曾多次出问题",
-      "onboard_time": 1725888380,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261061,
@@ -1275,14 +1299,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 205643,
-      "num": 205643,
-      "word": "孙颖莎伊藤美诚同半区",
-      "onboard_time": 1725891982,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205269,
       "num": 205269,
       "word": "WTT赛程",
@@ -1371,6 +1387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199446,
+      "num": 199446,
+      "word": "高雅CP",
+      "onboard_time": 1725893780,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198593,
       "num": 168943,
       "word": "朱雨玲将对阵王曼昱",
@@ -1449,6 +1473,14 @@
       "onboard_time": 1725781999,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 190729,
+      "num": 190729,
+      "word": "库克发微博为苹果发布会预热",
+      "onboard_time": 1725894142,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 190489,
@@ -1723,6 +1755,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 165325,
+      "num": 165325,
+      "word": "于正说白鹿王星越早晚要搭",
+      "onboard_time": 1725894679,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163351,
       "num": 163351,
       "word": "iPhone16有哪些看点",
@@ -1867,6 +1907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 153887,
+      "num": 153887,
+      "word": "耳朵有这4个异常小心心梗",
+      "onboard_time": 1725891561,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 153788,
       "num": 153788,
       "word": "黄景瑜直播",
@@ -1915,6 +1963,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 151035,
+      "num": 225232,
+      "word": "武汉严西湖大桥有车辆坠湖",
+      "onboard_time": 1725894260,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149983,
       "num": 149983,
       "word": "罗永浩称管不了交个朋友卖智商税",
@@ -1929,6 +1985,14 @@
       "onboard_time": 1725874161,
       "rank": 49,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 149464,
+      "num": 149464,
+      "word": "华为三折叠预约已超300万",
+      "onboard_time": 1725893540,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 148937,
@@ -2035,20 +2099,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143781,
+      "num": 143781,
+      "word": "女子通过蠕动解压被吐槽太抽象",
+      "onboard_time": 1725894980,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143635,
       "num": 379931,
       "word": "导演怎么想到找曾黎演这个角色的",
       "onboard_time": 1725855381,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 143351,
-      "num": 143351,
-      "word": "耳朵有这4个异常小心心梗",
-      "onboard_time": 1725891561,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 143060,
@@ -2179,6 +2243,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132817,
+      "num": 132817,
+      "word": "张泽禹李偲菘互关",
+      "onboard_time": 1725894081,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 132707,
+      "num": 132707,
+      "word": "王一博话最多的一集",
+      "onboard_time": 1725894621,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132567,
       "num": 123936,
       "word": "赵露思早期视频",
@@ -2307,6 +2387,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 124035,
+      "num": 124035,
+      "word": "彭高 我会让她知道",
+      "onboard_time": 1725894380,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124000,
       "num": 138130,
       "word": "中秋档",
@@ -2339,11 +2427,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121186,
+      "num": 121186,
+      "word": "柳俊烈郑秀晶同框",
+      "onboard_time": 1725894020,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120556,
       "num": 120556,
       "word": "恋综 strong",
       "onboard_time": 1725815954,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 120132,
+      "num": 120132,
+      "word": "焉栩嘉在高原一公里捡一车垃圾",
+      "onboard_time": 1725893840,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -2435,6 +2539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113190,
+      "num": 113190,
+      "word": "杨铭宇黄焖鸡回应超20人中毒",
+      "onboard_time": 1725894621,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113073,
       "num": 113073,
       "word": "第一次见偷感这么重的青春剧",
@@ -2499,6 +2611,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 107701,
+      "num": 512664,
+      "word": "1天捞出1吨死鱼别再盲目放生了",
+      "onboard_time": 1725892340,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107061,
       "num": 107061,
       "word": "最喜欢的双男主动画",
@@ -2529,6 +2649,14 @@
       "onboard_time": 1725843981,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106351,
+      "num": 106351,
+      "word": "鸿蒙中国市占率首超iOS",
+      "onboard_time": 1725893660,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 104430,
@@ -2819,6 +2947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 67263,
+      "num": 174765,
+      "word": "早点放下手机坚持早睡早起",
+      "onboard_time": 1725894859,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 66834,
       "num": 194925,
       "word": "半熟男女",
@@ -2971,11 +3107,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42449,
-      "num": 512664,
-      "word": "1天捞出1吨死鱼别再盲目放生了",
-      "onboard_time": 1725892340,
-      "rank": 9,
+      "raw_hot": 43162,
+      "num": 1127331,
+      "word": "万千气象看内蒙古",
+      "onboard_time": 1725887060,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -3048,14 +3184,6 @@
       "word": "台风摩羯成为登陆我国最强秋台风",
       "onboard_time": 1725821892,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34047,
-      "num": 1127331,
-      "word": "万千气象看内蒙古",
-      "onboard_time": 1725887060,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
