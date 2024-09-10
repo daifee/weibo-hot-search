@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725967121270,
+  "endTime": 1725968156269,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 1248683,
-      "num": 365850,
+      "num": 468044,
       "word": "刘亦菲 外籍",
       "onboard_time": 1725963019,
       "rank": 8,
@@ -489,6 +489,14 @@
       "onboard_time": 1725795139,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1131772,
+      "num": 1131772,
+      "word": "王楚钦3比0战胜黄镇廷",
+      "onboard_time": 1725966740,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 1111476,
@@ -1411,6 +1419,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 510236,
+      "num": 510236,
+      "word": "张铭恩工作室 不演",
+      "onboard_time": 1725967160,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 500969,
       "num": 500969,
       "word": "王曼昱vs斯佐科斯",
@@ -1492,7 +1508,7 @@
     },
     {
       "raw_hot": 480115,
-      "num": 348306,
+      "num": 438383,
       "word": "90后男生成班主任的领导仍遭血脉压制",
       "onboard_time": 1725964761,
       "rank": 32,
@@ -1843,14 +1859,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 397227,
-      "num": 397227,
-      "word": "王楚钦3比0战胜黄镇廷",
-      "onboard_time": 1725966740,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 396993,
       "num": 396993,
       "word": "华为三折叠颜色",
@@ -2115,6 +2123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 348315,
+      "num": 348315,
+      "word": "刘美含相亲这段我血压高了",
+      "onboard_time": 1725966023,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347526,
       "num": 227628,
       "word": "AppleWatch史上最大屏幕",
@@ -2267,6 +2283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 317030,
+      "num": 317030,
+      "word": "国足首发",
+      "onboard_time": 1725963922,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 316752,
       "num": 316752,
       "word": "金鹰奖投票",
@@ -2387,14 +2411,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 305156,
-      "num": 305156,
-      "word": "国足首发",
-      "onboard_time": 1725963922,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 304981,
       "num": 304981,
       "word": "恋与深空",
@@ -2417,14 +2433,6 @@
       "onboard_time": 1725955820,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 299781,
-      "num": 299781,
-      "word": "刘美含相亲这段我血压高了",
-      "onboard_time": 1725966023,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 298956,
@@ -2481,6 +2489,14 @@
       "onboard_time": 1725727518,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291075,
+      "num": 291075,
+      "word": "国防教育法修订草案二审",
+      "onboard_time": 1725961640,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 287207,
@@ -2545,14 +2561,6 @@
       "onboard_time": 1725799400,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 282203,
-      "num": 282203,
-      "word": "国防教育法修订草案二审",
-      "onboard_time": 1725961640,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 282095,
@@ -2801,6 +2809,14 @@
       "onboard_time": 1725778818,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 257929,
+      "num": 257929,
+      "word": "小英在上海走上了红毯",
+      "onboard_time": 1725967760,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 256255,
@@ -3635,6 +3651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206137,
+      "num": 366892,
+      "word": "女童骑车飞冲撞人被判主责妈妈不服",
+      "onboard_time": 1725966442,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206116,
       "num": 206116,
       "word": "林高远vs阿萨尔",
@@ -4339,6 +4363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183862,
+      "num": 183862,
+      "word": "人口老龄化已成基本国情",
+      "onboard_time": 1725966981,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183794,
       "num": 183794,
       "word": "黄景瑜你喊王子奇什么",
@@ -4579,6 +4611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175253,
+      "num": 184798,
+      "word": "藏海传团综",
+      "onboard_time": 1725967281,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175199,
       "num": 175199,
       "word": "9岁女孩和同学外出后被发现溺亡",
@@ -4763,6 +4803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168522,
+      "num": 168522,
+      "word": "迪丽热巴红衣路透",
+      "onboard_time": 1725967940,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168462,
       "num": 187195,
       "word": "时代峰峻回应周边发货地争议",
@@ -4937,6 +4985,14 @@
       "onboard_time": 1725939139,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 163050,
+      "num": 163050,
+      "word": "国航首架C919真实乘坐体验",
+      "onboard_time": 1725967760,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162660,
@@ -5571,6 +5627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146926,
+      "num": 146926,
+      "word": "成都地铁1号线",
+      "onboard_time": 1725966861,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146336,
       "num": 146336,
       "word": "梦之队玩狼人杀比谁都认真",
@@ -5593,6 +5657,14 @@
       "onboard_time": 1725958880,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145395,
+      "num": 145395,
+      "word": "naevis正式出道",
+      "onboard_time": 1725968061,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 145097,
@@ -5665,6 +5737,14 @@
       "onboard_time": 1725857720,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143803,
+      "num": 468133,
+      "word": "解读延迟退休的3个原因",
+      "onboard_time": 1725966382,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143635,
@@ -6395,14 +6475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124326,
-      "num": 124326,
-      "word": "成都地铁1号线",
-      "onboard_time": 1725966861,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124199,
       "num": 124199,
       "word": "AirPods4有降噪",
@@ -6513,6 +6585,14 @@
       "onboard_time": 1725863239,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121346,
+      "num": 121346,
+      "word": "赵露思绿色齐胸襦裙",
+      "onboard_time": 1725967041,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 121298,
@@ -6843,14 +6923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 110685,
-      "num": 110685,
-      "word": "人口老龄化已成基本国情",
-      "onboard_time": 1725966981,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110469,
       "num": 110469,
       "word": "金智媛见面会被喊金秀贤",
@@ -6929,6 +7001,14 @@
       "onboard_time": 1725723380,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108142,
+      "num": 108142,
+      "word": "国足直播",
+      "onboard_time": 1725967399,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 107890,
@@ -7203,14 +7283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 99204,
-      "num": 387872,
-      "word": "解读延迟退休的3个原因",
-      "onboard_time": 1725966382,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 99188,
       "num": 101045,
       "word": "袁隆平14万稻穗中发现天选株",
@@ -7361,14 +7433,6 @@
       "onboard_time": 1725894859,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 93523,
-      "num": 93523,
-      "word": "赵露思绿色齐胸襦裙",
-      "onboard_time": 1725967041,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 93514,
@@ -7587,14 +7651,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 83205,
-      "num": 366892,
-      "word": "女童骑车飞冲撞人被判主责妈妈不服",
-      "onboard_time": 1725966442,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 82566,
       "num": 100888,
       "word": "邓莎给儿子饭里加增高药",
@@ -7649,6 +7705,14 @@
       "onboard_time": 1725941541,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79061,
+      "num": 486907,
+      "word": "脱口秀和Ta的朋友们",
+      "onboard_time": 1725967222,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 77138,
@@ -7931,6 +7995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56669,
+      "num": 229765,
+      "word": "杨幂华为三折叠首发开箱",
+      "onboard_time": 1725964701,
+      "rank": 47,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 56546,
       "num": 80628,
       "word": "比悟空画的圈都管用",
@@ -8195,14 +8267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45599,
-      "num": 229765,
-      "word": "杨幂华为三折叠首发开箱",
-      "onboard_time": 1725964701,
-      "rank": 47,
-      "category": "艺人,数码"
-    },
-    {
       "raw_hot": 45517,
       "num": 463892,
       "word": "守护是老师的浪漫主义",
@@ -8419,6 +8483,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36770,
+      "num": 324092,
+      "word": "上海抽查近视管理镜片不合格率15%",
+      "onboard_time": 1725966740,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35727,
+      "num": 291283,
+      "word": "男子驾车犯困竟喝酒提神",
+      "onboard_time": 1725967281,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35664,
       "num": 581342,
       "word": "平台十倍陪诊费卖专家号",
@@ -8539,14 +8619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30966,
-      "num": 305354,
-      "word": "上海抽查近视管理镜片不合格率15%",
-      "onboard_time": 1725966740,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30931,
       "num": 190801,
       "word": "王一博探险小青蛙",
@@ -8612,7 +8684,7 @@
     },
     {
       "raw_hot": 27859,
-      "num": 118806,
+      "num": 291105,
       "word": "辛选主播蛋蛋助农破亿",
       "onboard_time": 1725966680,
       "rank": 37,
@@ -8803,6 +8875,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 20308,
+      "num": 184096,
+      "word": "去新疆旅行怎么避免皮肤干燥",
+      "onboard_time": 1725964461,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 19844,
       "num": 240453,
       "word": "直播电商野蛮生长没有出路",
@@ -8865,14 +8945,6 @@
       "onboard_time": 1725772218,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17042,
-      "num": 167477,
-      "word": "去新疆旅行怎么避免皮肤干燥",
-      "onboard_time": 1725964461,
-      "rank": 39,
-      "category": "美妆"
     },
     {
       "raw_hot": 15077,
