@@ -1,0 +1,410 @@
+{
+  "runTime": 1725972119097,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8400193,
+        "num": 8400193,
+        "word": "延迟法定退休年龄改革",
+        "onboard_time": 1725963320,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2826769,
+        "num": 2826769,
+        "word": "国足vs沙特",
+        "onboard_time": 1725968840,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19100,
+        "num": 2331328,
+        "word": "谢谢您照亮了我们前进的道路",
+        "onboard_time": 1725955760,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1988461,
+        "num": 1988461,
+        "word": "国足领先",
+        "onboard_time": 1725970882,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2874869,
+        "num": 1946232,
+        "word": "于是 分手了吗",
+        "onboard_time": 1725968840,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1089033,
+        "num": 1089033,
+        "word": "金鹰奖删除刘亦菲入围资格",
+        "onboard_time": 1725960141,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54005,
+        "num": 799319,
+        "word": "马背上劈腿",
+        "onboard_time": 1725971902,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 712784,
+        "num": 712784,
+        "word": "张铭恩工作室 不演",
+        "onboard_time": 1725967160,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62900,
+        "num": 652403,
+        "word": "蒋圣龙造红牌",
+        "onboard_time": 1725971840,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70312,
+        "num": 623004,
+        "word": "爱奇艺体育直播国足对沙特",
+        "onboard_time": 1725971122,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393234,
+        "num": 622261,
+        "word": "延迟退休主要目的是应对人口老龄化",
+        "onboard_time": 1725965181,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 621728,
+        "num": 621728,
+        "word": "刘亦菲 外籍",
+        "onboard_time": 1725963019,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 572342,
+        "num": 572342,
+        "word": "王楚钦孙颖莎久违的笑容",
+        "onboard_time": 1725970040,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 424752,
+        "num": 424752,
+        "word": "张雨绮 千万不要对号入座",
+        "onboard_time": 1725968360,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414788,
+        "num": 414788,
+        "word": "女童骑车飞冲撞人被判主责妈妈不服",
+        "onboard_time": 1725966442,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406333,
+        "num": 406333,
+        "word": "王楚钦3比0战胜黄镇廷",
+        "onboard_time": 1725966740,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305915,
+        "num": 305915,
+        "word": "国足看台TIFO 为国而战",
+        "onboard_time": 1725970523,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295415,
+        "num": 295415,
+        "word": "人口老龄化已成基本国情",
+        "onboard_time": 1725966981,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291091,
+        "num": 291091,
+        "word": "华为三折叠价格19999起",
+        "onboard_time": 1725952821,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 243789,
+        "num": 278655,
+        "word": "徐明浩遗憾告别心动的信号",
+        "onboard_time": 1725970822,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434222,
+        "num": 278558,
+        "word": "小杨哥 二二",
+        "onboard_time": 1725954921,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 278114,
+        "num": 278114,
+        "word": "蒋圣龙头球破门",
+        "onboard_time": 1725970941,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254349,
+        "num": 254349,
+        "word": "华为三折叠",
+        "onboard_time": 1725951080,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 247643,
+        "num": 247643,
+        "word": "王楚钦 拽哥你好",
+        "onboard_time": 1725970762,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208604,
+        "num": 237637,
+        "word": "迪丽热巴红衣路透",
+        "onboard_time": 1725967940,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233454,
+        "num": 233454,
+        "word": "国足首发",
+        "onboard_time": 1725963922,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221486,
+        "num": 221486,
+        "word": "90后男生成班主任的领导仍遭血脉压制",
+        "onboard_time": 1725964761,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200915,
+        "num": 200915,
+        "word": "刘美含相亲这段我血压高了",
+        "onboard_time": 1725966023,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200275,
+        "num": 200275,
+        "word": "张雨绮脱口秀",
+        "onboard_time": 1725968421,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195023,
+        "num": 195023,
+        "word": "陶喆郑州抢票",
+        "onboard_time": 1725971481,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208450,
+        "num": 192711,
+        "word": "国足居然进球了",
+        "onboard_time": 1725971422,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184613,
+        "num": 184613,
+        "word": "小英在上海走上了红毯",
+        "onboard_time": 1725967760,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 181811,
+        "num": 181811,
+        "word": "76岁阿姨户口本突然多出1个妹妹",
+        "onboard_time": 1725960200,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179688,
+        "num": 179688,
+        "word": "国防教育法修订草案二审",
+        "onboard_time": 1725961640,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 162520,
+        "num": 162520,
+        "word": "iPhone16真机上手",
+        "onboard_time": 1725934039,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 158110,
+        "num": 158110,
+        "word": "解读延迟退休的3个原因",
+        "onboard_time": 1725966382,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154174,
+        "num": 154174,
+        "word": "乌龙球",
+        "onboard_time": 1725971602,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152912,
+        "num": 152912,
+        "word": "华为发布会",
+        "onboard_time": 1725946340,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 148168,
+        "num": 148168,
+        "word": "赵露思赵丽颖演同一小说",
+        "onboard_time": 1725954561,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147182,
+        "num": 147182,
+        "word": "爱奇艺 9块钱",
+        "onboard_time": 1725971840,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139863,
+        "num": 139863,
+        "word": "国足",
+        "onboard_time": 1725941181,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36243,
+        "num": 137996,
+        "word": "美好起源共庆圆满",
+        "onboard_time": 1725971540,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137910,
+        "num": 137910,
+        "word": "沙特红牌罚下一人",
+        "onboard_time": 1725971783,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132002,
+        "num": 132002,
+        "word": "成都地铁1号线",
+        "onboard_time": 1725966861,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128987,
+        "num": 128987,
+        "word": "藏海传团综",
+        "onboard_time": 1725967281,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116008,
+        "num": 116008,
+        "word": "王楚钦进16强",
+        "onboard_time": 1725970523,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114347,
+        "num": 114347,
+        "word": "国足直播",
+        "onboard_time": 1725967399,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111094,
+        "num": 111094,
+        "word": "年轻人为何不再为民宿买单",
+        "onboard_time": 1725948439,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106138,
+        "num": 106138,
+        "word": "十四届全国人大常委会第十一次会议",
+        "onboard_time": 1725963500,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102343,
+        "num": 102343,
+        "word": "武汉一男子疑开车撞倒多名小学生",
+        "onboard_time": 1725965061,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记和人民教师的互动瞬间#"
+    }
+  }
+}

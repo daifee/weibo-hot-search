@@ -1,6 +1,6 @@
 {
   "startTime": 1725899204781,
-  "endTime": 1725968156269,
+  "endTime": 1725972119097,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -59,12 +59,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 2874869,
+      "num": 1946232,
+      "word": "于是 分手了吗",
+      "onboard_time": 1725968840,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2826769,
+      "num": 2826769,
+      "word": "国足vs沙特",
+      "onboard_time": 1725968840,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2017612,
       "num": 2017612,
       "word": "Apple发布会",
       "onboard_time": 1725901993,
       "rank": 0,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1988461,
+      "num": 1988461,
+      "word": "国足领先",
+      "onboard_time": 1725970882,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1806790,
@@ -188,7 +212,7 @@
     },
     {
       "raw_hot": 1248683,
-      "num": 468044,
+      "num": 621728,
       "word": "刘亦菲 外籍",
       "onboard_time": 1725963019,
       "rank": 8,
@@ -339,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 712784,
+      "num": 712784,
+      "word": "张铭恩工作室 不演",
+      "onboard_time": 1725967160,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 708709,
       "num": 708709,
       "word": "iPhone16Pro",
@@ -459,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 572342,
+      "num": 572342,
+      "word": "王楚钦孙颖莎久违的笑容",
+      "onboard_time": 1725970040,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 565133,
       "num": 565133,
       "word": "德国三大经济支柱一根塌两根裂",
@@ -472,14 +512,6 @@
       "word": "优酷片单",
       "onboard_time": 1725934459,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 510236,
-      "num": 510236,
-      "word": "张铭恩工作室 不演",
-      "onboard_time": 1725967160,
-      "rank": 6,
       "category": "剧集"
     },
     {
@@ -545,6 +577,22 @@
       "onboard_time": 1725954020,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 424752,
+      "num": 424752,
+      "word": "张雨绮 千万不要对号入座",
+      "onboard_time": 1725968360,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 414788,
+      "num": 414788,
+      "word": "女童骑车飞冲撞人被判主责妈妈不服",
+      "onboard_time": 1725966442,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 414470,
@@ -771,6 +819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 305915,
+      "num": 305915,
+      "word": "国足看台TIFO 为国而战",
+      "onboard_time": 1725970523,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305436,
       "num": 305436,
       "word": "科技春晚",
@@ -792,6 +848,14 @@
       "word": "辛巴喊话小杨哥替赔一亿期限将至",
       "onboard_time": 1725954380,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295415,
+      "num": 295415,
+      "word": "人口老龄化已成基本国情",
+      "onboard_time": 1725966981,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -857,6 +921,14 @@
       "onboard_time": 1725880220,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278114,
+      "num": 278114,
+      "word": "蒋圣龙头球破门",
+      "onboard_time": 1725970941,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 277013,
@@ -995,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247643,
+      "num": 247643,
+      "word": "王楚钦 拽哥你好",
+      "onboard_time": 1725970762,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246067,
       "num": 246067,
       "word": "广西一青年飙车在医院门口身亡",
@@ -1009,6 +1089,14 @@
       "onboard_time": 1725936079,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 243789,
+      "num": 278655,
+      "word": "徐明浩遗憾告别心动的信号",
+      "onboard_time": 1725970822,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 243651,
@@ -1219,6 +1307,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 208604,
+      "num": 237637,
+      "word": "迪丽热巴红衣路透",
+      "onboard_time": 1725967940,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 208450,
+      "num": 192711,
+      "word": "国足居然进球了",
+      "onboard_time": 1725971422,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208351,
       "num": 381251,
       "word": "客服四年间挽救近千名欲轻生用户",
@@ -1275,14 +1379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206137,
-      "num": 366892,
-      "word": "女童骑车飞冲撞人被判主责妈妈不服",
-      "onboard_time": 1725966442,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205559,
       "num": 205559,
       "word": "成都暴雨",
@@ -1321,6 +1417,14 @@
       "onboard_time": 1725905233,
       "rank": 13,
       "category": "数码"
+    },
+    {
+      "raw_hot": 200275,
+      "num": 200275,
+      "word": "张雨绮脱口秀",
+      "onboard_time": 1725968421,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 200062,
@@ -1385,6 +1489,14 @@
       "onboard_time": 1725945800,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 195023,
+      "num": 195023,
+      "word": "陶喆郑州抢票",
+      "onboard_time": 1725971481,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 194277,
@@ -1497,14 +1609,6 @@
       "onboard_time": 1725933978,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 183862,
-      "num": 183862,
-      "word": "人口老龄化已成基本国情",
-      "onboard_time": 1725966981,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183789,
@@ -1635,14 +1739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 168522,
-      "num": 168522,
-      "word": "迪丽热巴红衣路透",
-      "onboard_time": 1725967940,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 167703,
       "num": 167703,
       "word": "千香",
@@ -1755,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158110,
+      "num": 468133,
+      "word": "解读延迟退休的3个原因",
+      "onboard_time": 1725966382,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156199,
       "num": 156199,
       "word": "蒋裕燕 残奥会9项7枚金牌",
@@ -1785,6 +1889,14 @@
       "onboard_time": 1725964523,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 154174,
+      "num": 154174,
+      "word": "乌龙球",
+      "onboard_time": 1725971602,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 153823,
@@ -1883,6 +1995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147182,
+      "num": 147182,
+      "word": "爱奇艺 9块钱",
+      "onboard_time": 1725971840,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147127,
       "num": 147127,
       "word": "这个国宝熊几乎没人见过真身",
@@ -1921,14 +2041,6 @@
       "onboard_time": 1725907692,
       "rank": 30,
       "category": "游戏,数码"
-    },
-    {
-      "raw_hot": 143803,
-      "num": 468133,
-      "word": "解读延迟退休的3个原因",
-      "onboard_time": 1725966382,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140637,
@@ -1976,6 +2088,14 @@
       "word": "国足战沙特23人名单出炉",
       "onboard_time": 1725930020,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 137910,
+      "num": 137910,
+      "word": "沙特红牌罚下一人",
+      "onboard_time": 1725971783,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -2203,12 +2323,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116008,
+      "num": 116008,
+      "word": "王楚钦进16强",
+      "onboard_time": 1725970523,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114830,
       "num": 114830,
       "word": "宋亚轩撒欢视频",
       "onboard_time": 1725931518,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114347,
+      "num": 114347,
+      "word": "国足直播",
+      "onboard_time": 1725967399,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 111109,
@@ -2225,14 +2361,6 @@
       "onboard_time": 1725935778,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 108142,
-      "num": 108142,
-      "word": "国足直播",
-      "onboard_time": 1725967399,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 106765,
@@ -2563,6 +2691,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 70312,
+      "num": 623004,
+      "word": "爱奇艺体育直播国足对沙特",
+      "onboard_time": 1725971122,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69329,
       "num": 80633,
       "word": "张万森下血了",
@@ -2593,6 +2729,14 @@
       "onboard_time": 1725900676,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62900,
+      "num": 652403,
+      "word": "蒋圣龙造红牌",
+      "onboard_time": 1725971840,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 62678,
@@ -2681,6 +2825,14 @@
       "onboard_time": 1725907932,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 54005,
+      "num": 799319,
+      "word": "马背上劈腿",
+      "onboard_time": 1725971902,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 53638,
@@ -2867,6 +3019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36243,
+      "num": 137996,
+      "word": "美好起源共庆圆满",
+      "onboard_time": 1725971540,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35727,
       "num": 291283,
       "word": "男子驾车犯困竟喝酒提神",
@@ -3001,6 +3161,14 @@
       "onboard_time": 1725906433,
       "rank": 24,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 19100,
+      "num": 2331328,
+      "word": "谢谢您照亮了我们前进的道路",
+      "onboard_time": 1725955760,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14490,

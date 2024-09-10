@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725968156269,
+  "endTime": 1725972119097,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -193,6 +193,22 @@
       "onboard_time": 1725240020,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2874869,
+      "num": 1946232,
+      "word": "于是 分手了吗",
+      "onboard_time": 1725968840,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2826769,
+      "num": 2826769,
+      "word": "国足vs沙特",
+      "onboard_time": 1725968840,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 2706478,
@@ -473,6 +489,14 @@
       "onboard_time": 1725901993,
       "rank": 0,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1988461,
+      "num": 1988461,
+      "word": "国足领先",
+      "onboard_time": 1725970882,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1962202,
@@ -1532,7 +1556,7 @@
     },
     {
       "raw_hot": 1248683,
-      "num": 468044,
+      "num": 621728,
       "word": "刘亦菲 外籍",
       "onboard_time": 1725963019,
       "rank": 8,
@@ -3787,6 +3811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 712784,
+      "num": 712784,
+      "word": "张铭恩工作室 不演",
+      "onboard_time": 1725967160,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 711528,
       "num": 711528,
       "word": "刘亦菲打错英文单词",
@@ -4987,6 +5019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 572342,
+      "num": 572342,
+      "word": "王楚钦孙颖莎久违的笑容",
+      "onboard_time": 1725970040,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 570448,
       "num": 570448,
       "word": "男子花29元坐高铁免费吃40元盒饭",
@@ -5665,14 +5705,6 @@
       "onboard_time": 1725350600,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 510236,
-      "num": 510236,
-      "word": "张铭恩工作室 不演",
-      "onboard_time": 1725967160,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 509723,
@@ -6795,6 +6827,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 424752,
+      "num": 424752,
+      "word": "张雨绮 千万不要对号入座",
+      "onboard_time": 1725968360,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 424684,
       "num": 424684,
       "word": "贾一凡vlog香港篇",
@@ -6913,6 +6953,14 @@
       "onboard_time": 1725788240,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 414788,
+      "num": 414788,
+      "word": "女童骑车飞冲撞人被判主责妈妈不服",
+      "onboard_time": 1725966442,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 414682,
@@ -8715,6 +8763,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 305915,
+      "num": 305915,
+      "word": "国足看台TIFO 为国而战",
+      "onboard_time": 1725970523,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305900,
       "num": 554338,
       "word": "女子接收不明快递包裹后被骗33万元",
@@ -9033,6 +9089,14 @@
       "onboard_time": 1725290960,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 295415,
+      "num": 295415,
+      "word": "人口老龄化已成基本国情",
+      "onboard_time": 1725966981,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295288,
@@ -9537,6 +9601,14 @@
       "onboard_time": 1725794478,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 278114,
+      "num": 278114,
+      "word": "蒋圣龙头球破门",
+      "onboard_time": 1725970941,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 277962,
@@ -10643,6 +10715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247643,
+      "num": 247643,
+      "word": "王楚钦 拽哥你好",
+      "onboard_time": 1725970762,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247243,
       "num": 247243,
       "word": "国足球员赛后神情落寞",
@@ -10801,6 +10881,14 @@
       "onboard_time": 1725534680,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 243789,
+      "num": 278655,
+      "word": "徐明浩遗憾告别心动的信号",
+      "onboard_time": 1725970822,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 243728,
@@ -12715,6 +12803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208604,
+      "num": 237637,
+      "word": "迪丽热巴红衣路透",
+      "onboard_time": 1725967940,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208523,
       "num": 208523,
       "word": "张真源对接发文",
@@ -12729,6 +12825,14 @@
       "onboard_time": 1725791239,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 208450,
+      "num": 192711,
+      "word": "国足居然进球了",
+      "onboard_time": 1725971422,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 208427,
@@ -13001,14 +13105,6 @@
       "onboard_time": 1725424161,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 206137,
-      "num": 366892,
-      "word": "女童骑车飞冲撞人被判主责妈妈不服",
-      "onboard_time": 1725966442,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206116,
@@ -13616,6 +13712,14 @@
       "word": "韩红 我已经转偶像路线了",
       "onboard_time": 1725253462,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200275,
+      "num": 200275,
+      "word": "张雨绮脱口秀",
+      "onboard_time": 1725968421,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -14345,6 +14449,14 @@
       "onboard_time": 1725877279,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 195023,
+      "num": 195023,
+      "word": "陶喆郑州抢票",
+      "onboard_time": 1725971481,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 194947,
@@ -15729,14 +15841,6 @@
       "onboard_time": 1725437600,
       "rank": 43,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 183862,
-      "num": 183862,
-      "word": "人口老龄化已成基本国情",
-      "onboard_time": 1725966981,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183794,
@@ -17595,14 +17699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168522,
-      "num": 168522,
-      "word": "迪丽热巴红衣路透",
-      "onboard_time": 1725967940,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 168486,
       "num": 208963,
       "word": "谢可寅练得很好但他是黄景瑜",
@@ -19027,6 +19123,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 158110,
+      "num": 468133,
+      "word": "解读延迟退休的3个原因",
+      "onboard_time": 1725966382,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158105,
       "num": 158105,
       "word": "学生使用宿舍空调需交租赁费",
@@ -19577,6 +19681,14 @@
       "onboard_time": 1725428121,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154174,
+      "num": 154174,
+      "word": "乌龙球",
+      "onboard_time": 1725971602,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 154162,
@@ -20499,6 +20611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147182,
+      "num": 147182,
+      "word": "爱奇艺 9块钱",
+      "onboard_time": 1725971840,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147141,
       "num": 357729,
       "word": "一切都是赘好的安排",
@@ -20937,14 +21057,6 @@
       "onboard_time": 1725504978,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143803,
-      "num": 468133,
-      "word": "解读延迟退休的3个原因",
-      "onboard_time": 1725966382,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143775,
@@ -21513,6 +21625,14 @@
       "onboard_time": 1725795019,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137910,
+      "num": 137910,
+      "word": "沙特红牌罚下一人",
+      "onboard_time": 1725971783,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 137889,
@@ -23451,6 +23571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116008,
+      "num": 116008,
+      "word": "王楚钦进16强",
+      "onboard_time": 1725970523,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116004,
       "num": 238567,
       "word": "18吨快递货车被摩羯掀翻",
@@ -23592,6 +23720,14 @@
       "word": "张雨霏 射击队私下都跟个逗比一样",
       "onboard_time": 1725489254,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114347,
+      "num": 114347,
+      "word": "国足直播",
+      "onboard_time": 1725967399,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -23929,14 +24065,6 @@
       "onboard_time": 1725723380,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108142,
-      "num": 108142,
-      "word": "国足直播",
-      "onboard_time": 1725967399,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 108050,
@@ -25627,6 +25755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70312,
+      "num": 623004,
+      "word": "爱奇艺体育直播国足对沙特",
+      "onboard_time": 1725971122,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69892,
       "num": 69892,
       "word": "全员瑕疵皮的国产剧来了",
@@ -25960,6 +26096,14 @@
       "word": "被中国残奥运动员的拼搏深深打动",
       "onboard_time": 1725695901,
       "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 62900,
+      "num": 652403,
+      "word": "蒋圣龙造红牌",
+      "onboard_time": 1725971840,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -26465,6 +26609,14 @@
       "onboard_time": 1725254902,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54005,
+      "num": 799319,
+      "word": "马背上劈腿",
+      "onboard_time": 1725971902,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 53881,
@@ -27816,6 +27968,14 @@
       "word": "开学综合征的典型表现",
       "onboard_time": 1725258739,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36243,
+      "num": 137996,
+      "word": "美好起源共庆圆满",
+      "onboard_time": 1725971540,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -29513,6 +29673,14 @@
       "onboard_time": 1725906433,
       "rank": 24,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 19100,
+      "num": 2331328,
+      "word": "谢谢您照亮了我们前进的道路",
+      "onboard_time": 1725955760,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19060,
