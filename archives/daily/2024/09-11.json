@@ -1,6 +1,6 @@
 {
   "startTime": 1725985552565,
-  "endTime": 1726010432299,
+  "endTime": 1726011353076,
   "band_list": [
     {
       "raw_hot": 1172437,
@@ -11,15 +11,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 731903,
-      "num": 811549,
-      "word": "乌对莫斯科发动大规模无人机袭击",
-      "onboard_time": 1725975443,
-      "rank": 15,
-      "category": "国外时政,军事"
+      "raw_hot": 868757,
+      "num": 941518,
+      "word": "杨天真曝某女艺人老选丑衣服",
+      "onboard_time": 1725996312,
+      "rank": 27,
+      "category": "艺人"
     },
     {
-      "raw_hot": 696209,
+      "raw_hot": 741437,
       "num": 263816,
       "word": "金毛犬扑向孕妇致受惊吓流产",
       "onboard_time": 1725980723,
@@ -27,12 +27,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 692736,
-      "num": 692736,
-      "word": "杨天真曝某女艺人老选丑衣服",
-      "onboard_time": 1725996312,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 731903,
+      "num": 811549,
+      "word": "乌对莫斯科发动大规模无人机袭击",
+      "onboard_time": 1725975443,
+      "rank": 15,
+      "category": "国外时政,军事"
     },
     {
       "raw_hot": 686019,
@@ -67,8 +67,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 372153,
-      "num": 372153,
+      "raw_hot": 385583,
+      "num": 385583,
       "word": "国足输球伊万要负主要责任",
       "onboard_time": 1725983121,
       "rank": 19,
@@ -83,7 +83,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 341376,
+      "raw_hot": 369553,
       "num": 263790,
       "word": "保姆一个疏忽孩子脸上缝了100多针",
       "onboard_time": 1725975683,
@@ -105,6 +105,14 @@
       "onboard_time": 1725977125,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 319726,
+      "num": 319726,
+      "word": "台风后海滩上的生蚝尽量别吃",
+      "onboard_time": 1725979763,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310598,
@@ -155,12 +163,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 252848,
-      "num": 252848,
-      "word": "台风后海滩上的生蚝尽量别吃",
-      "onboard_time": 1725979763,
-      "rank": 49,
+      "raw_hot": 247913,
+      "num": 247913,
+      "word": "专家称现在不是搞钱而是省钱的问题",
+      "onboard_time": 1725988634,
+      "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244402,
+      "num": 244402,
+      "word": "苹果店员工到华为店观看新品发布会",
+      "onboard_time": 1725976343,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 238756,
@@ -168,6 +184,22 @@
       "word": "海南目前缺什么物资",
       "onboard_time": 1725977064,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234796,
+      "num": 157281,
+      "word": "张雨绮",
+      "onboard_time": 1726010057,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 227780,
+      "num": 227780,
+      "word": "后排乘客开门未观察承担次责",
+      "onboard_time": 1725997273,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -179,24 +211,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 220775,
-      "num": 220775,
-      "word": "苹果店员工到华为店观看新品发布会",
-      "onboard_time": 1725976343,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 203322,
-      "num": 203322,
-      "word": "专家称现在不是搞钱而是省钱的问题",
-      "onboard_time": 1725988634,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198217,
-      "num": 198217,
+      "num": 236413,
       "word": "王琳最欣赏的年轻演员是肖战",
       "onboard_time": 1726003092,
       "rank": 14,
@@ -209,14 +225,6 @@
       "onboard_time": 1726006874,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189353,
-      "num": 189353,
-      "word": "后排乘客开门未观察承担次责",
-      "onboard_time": 1725997273,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179640,
@@ -243,14 +251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157281,
-      "num": 157281,
-      "word": "张雨绮",
-      "onboard_time": 1726010057,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 155929,
       "num": 155929,
       "word": "成都大风",
@@ -265,6 +265,14 @@
       "onboard_time": 1725986896,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138238,
+      "num": 138238,
+      "word": "国足",
+      "onboard_time": 1726011318,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 137369,
@@ -331,12 +339,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112216,
-      "num": 112216,
+      "raw_hot": 115444,
+      "num": 115444,
       "word": "李乃文 十七岁我多大啊",
       "onboard_time": 1726007232,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114234,
+      "num": 114234,
+      "word": "女子求男友安慰被拒绝后跳楼身亡",
+      "onboard_time": 1726011318,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111517,
@@ -387,12 +403,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100052,
+      "num": 100052,
+      "word": "华为三折叠被炒至9万天价",
+      "onboard_time": 1726009697,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 98279,
+      "num": 104718,
+      "word": "iPhone16跑分出炉",
+      "onboard_time": 1725975263,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 87952,
       "num": 115558,
       "word": "翁青雅tomo约会",
       "onboard_time": 1725984680,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86019,
+      "num": 86019,
+      "word": "巴林0比5日本",
+      "onboard_time": 1726011318,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 85954,
@@ -411,14 +451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83921,
-      "num": 104718,
-      "word": "iPhone16跑分出炉",
-      "onboard_time": 1725975263,
-      "rank": 43,
-      "category": "数码"
-    },
-    {
       "raw_hot": 83232,
       "num": 115555,
       "word": "武磊单刀摔了",
@@ -433,6 +465,14 @@
       "onboard_time": 1725978624,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79852,
+      "num": 79852,
+      "word": "久坐党必须学会这样拉伸",
+      "onboard_time": 1726010177,
+      "rank": 46,
+      "category": "运动健身"
     },
     {
       "raw_hot": 79517,
@@ -459,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73716,
+      "num": 73716,
+      "word": "给老同学当监护人法院判给30万遗产",
+      "onboard_time": 1725995831,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73097,
       "num": 115553,
       "word": "韩乔生痛批国足主教练不动脑子",
@@ -467,20 +515,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68641,
-      "num": 68641,
+      "raw_hot": 71891,
+      "num": 71891,
       "word": "杨幂乌金腰线",
       "onboard_time": 1726006452,
       "rank": 48,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 68544,
-      "num": 68544,
-      "word": "给老同学当监护人法院判给30万遗产",
-      "onboard_time": 1725995831,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 69235,
+      "num": 69235,
+      "word": "星穹铁道",
+      "onboard_time": 1726010716,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 66147,
+      "num": 66147,
+      "word": "老九门",
+      "onboard_time": 1726011318,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 64165,
@@ -491,6 +547,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 63684,
+      "num": 63684,
+      "word": "PS5Pro正式公布",
+      "onboard_time": 1726011318,
+      "rank": 44,
+      "category": "游戏,数码"
+    },
+    {
+      "raw_hot": 63421,
+      "num": 63421,
+      "word": "优酷明年有五部S级剧集",
+      "onboard_time": 1725991092,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 62333,
       "num": 82801,
       "word": "老友记穿搭还是太超前了",
@@ -499,20 +571,20 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 59189,
-      "num": 59189,
-      "word": "优酷明年有五部S级剧集",
-      "onboard_time": 1725991092,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 56417,
+      "num": 62113,
+      "word": "PS5Pro研发用时仅19个月",
+      "onboard_time": 1726010418,
+      "rank": 49,
+      "category": "游戏"
     },
     {
-      "raw_hot": 52530,
-      "num": 59166,
-      "word": "华为三折叠被炒至9万天价",
-      "onboard_time": 1726009697,
-      "rank": 40,
-      "category": "数码"
+      "raw_hot": 46738,
+      "num": 529230,
+      "word": "各科老师硬核绝活大赏",
+      "onboard_time": 1725973164,
+      "rank": 2,
+      "category": "教育"
     },
     {
       "raw_hot": 46682,
@@ -521,14 +593,6 @@
       "onboard_time": 1725988514,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 39803,
-      "num": 529230,
-      "word": "各科老师硬核绝活大赏",
-      "onboard_time": 1725973164,
-      "rank": 2,
-      "category": "教育"
     },
     {
       "raw_hot": 39744,
@@ -547,14 +611,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 38102,
-      "num": 59086,
-      "word": "久坐党必须学会这样拉伸",
-      "onboard_time": 1726010177,
-      "rank": 46,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 37795,
       "num": 67518,
       "word": "檀健次戴动感超人戒指",
@@ -569,14 +625,6 @@
       "onboard_time": 1725991693,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33948,
-      "num": 59054,
-      "word": "PS5Pro研发用时仅19个月",
-      "onboard_time": 1726010418,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 28791,
@@ -657,6 +705,14 @@
       "onboard_time": 1726008375,
       "rank": 9,
       "category": "国内时政,教育"
+    },
+    {
+      "raw_hot": 15954,
+      "num": 232627,
+      "word": "女孩高烧昏迷交警闯红灯开道送医",
+      "onboard_time": 1726010716,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15937,

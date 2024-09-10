@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726010432299,
+  "endTime": 1726011353076,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -819,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 868757,
+      "num": 941518,
+      "word": "杨天真曝某女艺人老选丑衣服",
+      "onboard_time": 1725996312,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 867666,
       "num": 867666,
       "word": "国足 失望",
@@ -1129,14 +1137,6 @@
       "onboard_time": 1725786677,
       "rank": 32,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 692736,
-      "num": 692736,
-      "word": "杨天真曝某女艺人老选丑衣服",
-      "onboard_time": 1725996312,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 687585,
@@ -2099,6 +2099,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 385583,
+      "num": 385583,
+      "word": "国足输球伊万要负主要责任",
+      "onboard_time": 1725983121,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 385217,
       "num": 385217,
       "word": "美国故障飞船回地球宇航员还在太空",
@@ -2153,14 +2161,6 @@
       "onboard_time": 1725798259,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 372153,
-      "num": 372153,
-      "word": "国足输球伊万要负主要责任",
-      "onboard_time": 1725983121,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 370139,
@@ -2481,6 +2481,14 @@
       "onboard_time": 1725907453,
       "rank": 12,
       "category": "数码"
+    },
+    {
+      "raw_hot": 319726,
+      "num": 319726,
+      "word": "台风后海滩上的生蚝尽量别吃",
+      "onboard_time": 1725979763,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319631,
@@ -3155,14 +3163,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 252848,
-      "num": 252848,
-      "word": "台风后海滩上的生蚝尽量别吃",
-      "onboard_time": 1725979763,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 252368,
       "num": 252368,
       "word": "金店卖出16万金条后银行卡被冻结",
@@ -3208,6 +3208,14 @@
       "word": "非遗竹帘上的熊猫太逼真了",
       "onboard_time": 1725752777,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247913,
+      "num": 247913,
+      "word": "专家称现在不是搞钱而是省钱的问题",
+      "onboard_time": 1725988634,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -3273,6 +3281,14 @@
       "onboard_time": 1725844999,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 244402,
+      "num": 244402,
+      "word": "苹果店员工到华为店观看新品发布会",
+      "onboard_time": 1725976343,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 243789,
@@ -3409,6 +3425,14 @@
       "onboard_time": 1725761359,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 234796,
+      "num": 157281,
+      "word": "张雨绮",
+      "onboard_time": 1726010057,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 234686,
@@ -3563,6 +3587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 227780,
+      "num": 227780,
+      "word": "后排乘客开门未观察承担次责",
+      "onboard_time": 1725997273,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227668,
       "num": 214448,
       "word": "印度三女子为谋财设局毒杀4人",
@@ -3681,14 +3713,6 @@
       "onboard_time": 1725853339,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 220775,
-      "num": 220775,
-      "word": "苹果店员工到华为店观看新品发布会",
-      "onboard_time": 1725976343,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 220452,
@@ -4115,14 +4139,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 203322,
-      "num": 203322,
-      "word": "专家称现在不是搞钱而是省钱的问题",
-      "onboard_time": 1725988634,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203275,
       "num": 203275,
       "word": "全场球迷高呼伊万下课",
@@ -4332,7 +4348,7 @@
     },
     {
       "raw_hot": 198217,
-      "num": 198217,
+      "num": 236413,
       "word": "王琳最欣赏的年轻演员是肖战",
       "onboard_time": 1726003092,
       "rank": 14,
@@ -4641,14 +4657,6 @@
       "onboard_time": 1725801560,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189353,
-      "num": 189353,
-      "word": "后排乘客开门未观察承担次责",
-      "onboard_time": 1725997273,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189303,
@@ -5729,14 +5737,6 @@
       "onboard_time": 1725771798,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 157281,
-      "num": 157281,
-      "word": "张雨绮",
-      "onboard_time": 1726010057,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 157104,
@@ -7515,6 +7515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 115444,
+      "num": 115444,
+      "word": "李乃文 十七岁我多大啊",
+      "onboard_time": 1726007232,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115213,
       "num": 115213,
       "word": "华为新机预约人数一天突破200万",
@@ -7563,6 +7571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114234,
+      "num": 114234,
+      "word": "女子求男友安慰被拒绝后跳楼身亡",
+      "onboard_time": 1726011318,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113386,
       "num": 495693,
       "word": "沙特球员被红牌罚下欲打裁判",
@@ -7609,14 +7625,6 @@
       "onboard_time": 1725852318,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112216,
-      "num": 112216,
-      "word": "李乃文 十七岁我多大啊",
-      "onboard_time": 1726007232,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 111157,
@@ -8003,6 +8011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100052,
+      "num": 100052,
+      "word": "华为三折叠被炒至9万天价",
+      "onboard_time": 1726009697,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 100026,
       "num": 100026,
       "word": "王铮亮差点成为职业运动员",
@@ -8379,6 +8395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 86019,
+      "num": 86019,
+      "word": "巴林0比5日本",
+      "onboard_time": 1726011318,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85954,
       "num": 115558,
       "word": "五月天唱了八月爱人",
@@ -8467,6 +8491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79852,
+      "num": 79852,
+      "word": "久坐党必须学会这样拉伸",
+      "onboard_time": 1726010177,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 79061,
       "num": 486907,
       "word": "脱口秀和Ta的朋友们",
@@ -8515,6 +8547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 73716,
+      "num": 73716,
+      "word": "给老同学当监护人法院判给30万遗产",
+      "onboard_time": 1725995831,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73193,
       "num": 73193,
       "word": "胖东来来重庆了",
@@ -8555,6 +8595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 71891,
+      "num": 71891,
+      "word": "杨幂乌金腰线",
+      "onboard_time": 1726006452,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 71574,
       "num": 748297,
       "word": "巴黎残奥会泪目瞬间",
@@ -8587,20 +8635,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68641,
-      "num": 68641,
-      "word": "杨幂乌金腰线",
-      "onboard_time": 1726006452,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 68544,
-      "num": 68544,
-      "word": "给老同学当监护人法院判给30万遗产",
-      "onboard_time": 1725995831,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 69235,
+      "num": 69235,
+      "word": "星穹铁道",
+      "onboard_time": 1726010716,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 67484,
@@ -8649,6 +8689,14 @@
       "onboard_time": 1725772099,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 66147,
+      "num": 66147,
+      "word": "老九门",
+      "onboard_time": 1726011318,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 66120,
@@ -8704,6 +8752,22 @@
       "word": "章宇演黄景瑜大10岁的弟弟",
       "onboard_time": 1725787939,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 63684,
+      "num": 63684,
+      "word": "PS5Pro正式公布",
+      "onboard_time": 1726011318,
+      "rank": 44,
+      "category": "游戏,数码"
+    },
+    {
+      "raw_hot": 63421,
+      "num": 63421,
+      "word": "优酷明年有五部S级剧集",
+      "onboard_time": 1725991092,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -8769,14 +8833,6 @@
       "onboard_time": 1725785780,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 59189,
-      "num": 59189,
-      "word": "优酷明年有五部S级剧集",
-      "onboard_time": 1725991092,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 58715,
@@ -8857,6 +8913,14 @@
       "onboard_time": 1725896598,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 56417,
+      "num": 62113,
+      "word": "PS5Pro研发用时仅19个月",
+      "onboard_time": 1726010418,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 56258,
@@ -8969,14 +9033,6 @@
       "onboard_time": 1725729196,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 52530,
-      "num": 59166,
-      "word": "华为三折叠被炒至9万天价",
-      "onboard_time": 1726009697,
-      "rank": 40,
-      "category": "数码"
     },
     {
       "raw_hot": 52513,
@@ -9121,6 +9177,14 @@
       "onboard_time": 1725973703,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46738,
+      "num": 529230,
+      "word": "各科老师硬核绝活大赏",
+      "onboard_time": 1725973164,
+      "rank": 2,
+      "category": "教育"
     },
     {
       "raw_hot": 46682,
@@ -9315,14 +9379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 39803,
-      "num": 529230,
-      "word": "各科老师硬核绝活大赏",
-      "onboard_time": 1725973164,
-      "rank": 2,
-      "category": "教育"
-    },
-    {
       "raw_hot": 39744,
       "num": 82801,
       "word": "何浩楠终于成为鹭卓那样的狗",
@@ -9385,14 +9441,6 @@
       "onboard_time": 1725838337,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38102,
-      "num": 59086,
-      "word": "久坐党必须学会这样拉伸",
-      "onboard_time": 1726010177,
-      "rank": 46,
-      "category": "运动健身"
     },
     {
       "raw_hot": 37795,
@@ -9513,14 +9561,6 @@
       "onboard_time": 1725905954,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 33948,
-      "num": 59054,
-      "word": "PS5Pro研发用时仅19个月",
-      "onboard_time": 1726010418,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 33908,
@@ -10048,6 +10088,14 @@
       "word": "摩羯走后渔民正抢收破损养殖工具",
       "onboard_time": 1725772218,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15954,
+      "num": 232627,
+      "word": "女孩高烧昏迷交警闯红灯开道送医",
+      "onboard_time": 1726010716,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
