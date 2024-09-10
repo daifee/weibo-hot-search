@@ -1,0 +1,410 @@
+{
+  "runTime": 1725957665226,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1670534,
+        "num": 1670534,
+        "word": "华为三折叠价格19999起",
+        "onboard_time": 1725952821,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1153229,
+        "num": 1153229,
+        "word": "华为三折叠",
+        "onboard_time": 1725951080,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 144703,
+        "num": 896537,
+        "word": "教师节的顶级文案还是老师教的",
+        "onboard_time": 1725956241,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 747015,
+        "num": 747015,
+        "word": "华为发布会",
+        "onboard_time": 1725946340,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 622597,
+        "num": 622597,
+        "word": "赵露思赵丽颖演同一小说",
+        "onboard_time": 1725954561,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353983,
+        "num": 545684,
+        "word": "年轻人为何不再为民宿买单",
+        "onboard_time": 1725948439,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497442,
+        "num": 497442,
+        "word": "看似三折 实则奏折",
+        "onboard_time": 1725954380,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 458971,
+        "num": 458971,
+        "word": "老九门2 还我妈生佛爷陈伟霆",
+        "onboard_time": 1725943221,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 487283,
+        "num": 455986,
+        "word": "iPhone16真机上手",
+        "onboard_time": 1725934039,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 33159,
+        "num": 436425,
+        "word": "人工耳蜗等高值医用耗材纳入集采",
+        "onboard_time": 1725956300,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421586,
+        "num": 421586,
+        "word": "iPhone16起售价5999元",
+        "onboard_time": 1725923777,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 397908,
+        "num": 397908,
+        "word": "晚奶 意识抽离",
+        "onboard_time": 1725951620,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 388974,
+        "num": 388974,
+        "word": "秦昊不让伊能静给自己洗袜子",
+        "onboard_time": 1725954020,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370861,
+        "num": 370861,
+        "word": "7年异地败给了7天暧昧",
+        "onboard_time": 1725944061,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300243,
+        "num": 300243,
+        "word": "库里直播",
+        "onboard_time": 1725955820,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332131,
+        "num": 294254,
+        "word": "于正 怎么生了你这样的畜生",
+        "onboard_time": 1725956181,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39880,
+        "num": 284881,
+        "word": "华为三折叠一机多能",
+        "onboard_time": 1725955340,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 49588,
+        "num": 282435,
+        "word": "吴宣仪苞娜友情",
+        "onboard_time": 1725957201,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280590,
+        "num": 280590,
+        "word": "华为品牌盛典",
+        "onboard_time": 1725947179,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 26864,
+        "num": 280262,
+        "word": "装修公司跑路90多户业主损失超300万",
+        "onboard_time": 1725957319,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1512419,
+        "num": 280239,
+        "word": "小杨哥 二二",
+        "onboard_time": 1725954921,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 280185,
+        "num": 280185,
+        "word": "权志龙全平台换头像",
+        "onboard_time": 1725956481,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 581736,
+        "num": 275890,
+        "word": "沫沫",
+        "onboard_time": 1725955820,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 270422,
+        "num": 270422,
+        "word": "凡人歌 恐怖",
+        "onboard_time": 1725955641,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295997,
+        "num": 259854,
+        "word": "辛巴喊话小杨哥替赔一亿期限将至",
+        "onboard_time": 1725954380,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245032,
+        "num": 245032,
+        "word": "陈梦发文感谢每位教练",
+        "onboard_time": 1725953299,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206722,
+        "num": 206722,
+        "word": "老九门2",
+        "onboard_time": 1725945380,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21993,
+        "num": 195099,
+        "word": "华为三折叠搭载3K临境大屏",
+        "onboard_time": 1725954921,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 192533,
+        "num": 192533,
+        "word": "iPhone16发布带火二手15",
+        "onboard_time": 1725950180,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 187656,
+        "num": 190868,
+        "word": "丰巢靠滞留金三年半营收8个亿",
+        "onboard_time": 1725951502,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258547,
+        "num": 190813,
+        "word": "华为Mate70啥时候出",
+        "onboard_time": 1725956181,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 189474,
+        "num": 189474,
+        "word": "华为三折叠颜色",
+        "onboard_time": 1725952640,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 187514,
+        "num": 187514,
+        "word": "张靓颖 华为发布会",
+        "onboard_time": 1725953659,
+        "rank": 32,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 179093,
+        "num": 179093,
+        "word": "情侣买房后分手女方觉得被骗",
+        "onboard_time": 1725942801,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159037,
+        "num": 159037,
+        "word": "问界M9",
+        "onboard_time": 1725954681,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 156832,
+        "num": 156832,
+        "word": "姚安娜自认特别会谈",
+        "onboard_time": 1725955340,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151608,
+        "num": 151608,
+        "word": "折叠键盘",
+        "onboard_time": 1725953840,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 147336,
+        "num": 147336,
+        "word": "九门",
+        "onboard_time": 1725938239,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39150,
+        "num": 147323,
+        "word": "华为重新定义车灯",
+        "onboard_time": 1725957140,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 141918,
+        "num": 147317,
+        "word": "Fendi出棒棒糖包4800元1个",
+        "onboard_time": 1725949938,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147312,
+        "num": 147312,
+        "word": "有这样的弟弟还要什么男朋友",
+        "onboard_time": 1725957319,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142518,
+        "num": 142518,
+        "word": "优酷 王炸储备",
+        "onboard_time": 1725940039,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140533,
+        "num": 140533,
+        "word": "藏海传 大男主",
+        "onboard_time": 1725942562,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138736,
+        "num": 138736,
+        "word": "家教完的大学生 已老实",
+        "onboard_time": 1725951502,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 134347,
+        "num": 134347,
+        "word": "问界M9大五座上市",
+        "onboard_time": 1725957201,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 130164,
+        "num": 130164,
+        "word": "装x的信号",
+        "onboard_time": 1725957381,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127681,
+        "num": 127681,
+        "word": "北大开学典礼中英双语演唱声声慢",
+        "onboard_time": 1725954620,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126859,
+        "num": 126859,
+        "word": "王一博高反色号",
+        "onboard_time": 1725955999,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124777,
+        "num": 124777,
+        "word": "金鹰奖入围的男女主角",
+        "onboard_time": 1725935898,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123547,
+        "num": 123547,
+        "word": "44人因假赌黑被终身禁足",
+        "onboard_time": 1725937939,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#立德树人#"
+    }
+  }
+}

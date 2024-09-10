@@ -1,6 +1,6 @@
 {
   "startTime": 1725899204781,
-  "endTime": 1725956846006,
+  "endTime": 1725957665226,
   "band_list": [
     {
       "raw_hot": 3894981,
@@ -91,20 +91,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1512419,
+      "num": 280239,
+      "word": "小杨哥 二二",
+      "onboard_time": 1725954921,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1480669,
       "num": 1480669,
       "word": "苹果发布会",
       "onboard_time": 1725902474,
       "rank": 0,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1474282,
-      "num": 228905,
-      "word": "小杨哥 二二",
-      "onboard_time": 1725954921,
-      "rank": 20,
-      "category": "网红"
     },
     {
       "raw_hot": 1473520,
@@ -331,6 +331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 622597,
+      "num": 622597,
+      "word": "赵露思赵丽颖演同一小说",
+      "onboard_time": 1725954561,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 622437,
       "num": 324624,
       "word": "沙漠色iPhone16Pro",
@@ -344,14 +352,6 @@
       "word": "优酷 王炸储备",
       "onboard_time": 1725940039,
       "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 621576,
-      "num": 621576,
-      "word": "赵露思赵丽颖演同一小说",
-      "onboard_time": 1725954561,
-      "rank": 4,
       "category": "剧集"
     },
     {
@@ -377,6 +377,14 @@
       "onboard_time": 1725886039,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 581736,
+      "num": 275890,
+      "word": "沫沫",
+      "onboard_time": 1725955820,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 578694,
@@ -409,6 +417,14 @@
       "onboard_time": 1725943043,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 497442,
+      "num": 497442,
+      "word": "看似三折 实则奏折",
+      "onboard_time": 1725954380,
+      "rank": 13,
+      "category": "数码"
     },
     {
       "raw_hot": 474273,
@@ -457,14 +473,6 @@
       "onboard_time": 1725952640,
       "rank": 16,
       "category": "数码"
-    },
-    {
-      "raw_hot": 392053,
-      "num": 228778,
-      "word": "沫沫",
-      "onboard_time": 1725955820,
-      "rank": 22,
-      "category": "网红"
     },
     {
       "raw_hot": 390983,
@@ -539,12 +547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 356551,
-      "num": 356551,
-      "word": "看似三折 实则奏折",
-      "onboard_time": 1725954380,
-      "rank": 13,
-      "category": "数码"
+      "raw_hot": 353983,
+      "num": 582370,
+      "word": "年轻人为何不再为民宿买单",
+      "onboard_time": 1725948439,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 353376,
@@ -587,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 332131,
+      "num": 294254,
+      "word": "于正 怎么生了你这样的畜生",
+      "onboard_time": 1725956181,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 330335,
       "num": 330335,
       "word": "七年了 终于等到了",
@@ -609,14 +625,6 @@
       "onboard_time": 1725907453,
       "rank": 12,
       "category": "数码"
-    },
-    {
-      "raw_hot": 317617,
-      "num": 582370,
-      "word": "年轻人为何不再为民宿买单",
-      "onboard_time": 1725948439,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 316752,
@@ -659,8 +667,16 @@
       "category": "数码"
     },
     {
-      "raw_hot": 293054,
-      "num": 227228,
+      "raw_hot": 300243,
+      "num": 300243,
+      "word": "库里直播",
+      "onboard_time": 1725955820,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 295997,
+      "num": 259854,
       "word": "辛巴喊话小杨哥替赔一亿期限将至",
       "onboard_time": 1725954380,
       "rank": 24,
@@ -707,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280185,
+      "num": 280185,
+      "word": "权志龙全平台换头像",
+      "onboard_time": 1725956481,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277013,
       "num": 277013,
       "word": "白夜追凶2预告",
@@ -747,6 +771,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 270422,
+      "num": 270422,
+      "word": "凡人歌 恐怖",
+      "onboard_time": 1725955641,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267837,
       "num": 267837,
       "word": "央视今晚还是不转播国足比赛",
@@ -777,6 +809,14 @@
       "onboard_time": 1725934639,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 258547,
+      "num": 204268,
+      "word": "华为Mate70啥时候出",
+      "onboard_time": 1725956181,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 252983,
@@ -859,14 +899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 240657,
-      "num": 240657,
-      "word": "凡人歌 恐怖",
-      "onboard_time": 1725955641,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 232562,
       "num": 232562,
       "word": "娜扎恩利合照",
@@ -888,14 +920,6 @@
       "word": "范志毅谈国足战沙特",
       "onboard_time": 1725940279,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 228953,
-      "num": 228953,
-      "word": "库里直播",
-      "onboard_time": 1725955820,
-      "rank": 19,
       "category": "体育"
     },
     {
@@ -929,14 +953,6 @@
       "onboard_time": 1725935898,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 223256,
-      "num": 204268,
-      "word": "华为Mate70啥时候出",
-      "onboard_time": 1725956181,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 222815,
@@ -992,14 +1008,6 @@
       "word": "宋佳张桂梅 两个东北人在云南相遇",
       "onboard_time": 1725945320,
       "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 214188,
-      "num": 214188,
-      "word": "于正 怎么生了你这样的畜生",
-      "onboard_time": 1725956181,
-      "rank": 26,
       "category": "剧集"
     },
     {
@@ -1259,14 +1267,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 180166,
-      "num": 180166,
-      "word": "权志龙全平台换头像",
-      "onboard_time": 1725956481,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 178444,
       "num": 184972,
       "word": "性侵中国女游客的韩男子被求刑10年",
@@ -1435,6 +1435,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 159037,
+      "num": 159037,
+      "word": "问界M9",
+      "onboard_time": 1725954681,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 158473,
       "num": 186193,
       "word": "老师抽屉里的旧时光",
@@ -1507,6 +1515,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 151608,
+      "num": 151608,
+      "word": "折叠键盘",
+      "onboard_time": 1725953840,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 151252,
       "num": 151252,
       "word": "孙颖莎伊藤美诚同半区",
@@ -1523,6 +1539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 147312,
+      "num": 147312,
+      "word": "有这样的弟弟还要什么男朋友",
+      "onboard_time": 1725957319,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147127,
       "num": 147127,
       "word": "这个国宝熊几乎没人见过真身",
@@ -1531,20 +1555,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146868,
-      "num": 146868,
-      "word": "问界M9",
-      "onboard_time": 1725954681,
-      "rank": 41,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 144290,
-      "num": 144290,
-      "word": "折叠键盘",
-      "onboard_time": 1725953840,
-      "rank": 43,
-      "category": "数码"
+      "raw_hot": 144703,
+      "num": 911843,
+      "word": "教师节的顶级文案还是老师教的",
+      "onboard_time": 1725956241,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143894,
@@ -1611,6 +1627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134347,
+      "num": 134347,
+      "word": "问界M9大五座上市",
+      "onboard_time": 1725957201,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 133718,
       "num": 133718,
       "word": "张杰方正协商解决方案",
@@ -1625,6 +1649,22 @@
       "onboard_time": 1725935898,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130164,
+      "num": 130164,
+      "word": "装x的信号",
+      "onboard_time": 1725957381,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 127681,
+      "num": 136323,
+      "word": "北大开学典礼中英双语演唱声声慢",
+      "onboard_time": 1725954620,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126489,
@@ -1729,14 +1769,6 @@
       "onboard_time": 1725931518,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114115,
-      "num": 136323,
-      "word": "北大开学典礼中英双语演唱声声慢",
-      "onboard_time": 1725954620,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111109,
@@ -2035,14 +2067,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 65985,
-      "num": 911843,
-      "word": "教师节的顶级文案还是老师教的",
-      "onboard_time": 1725956241,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 64114,
       "num": 184430,
       "word": "张翰新剧",
@@ -2179,6 +2203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49588,
+      "num": 282435,
+      "word": "吴宣仪苞娜友情",
+      "onboard_time": 1725957201,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49385,
       "num": 369029,
       "word": "9年前国足曾战胜沙特",
@@ -2259,12 +2291,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39880,
+      "num": 297109,
+      "word": "华为三折叠一机多能",
+      "onboard_time": 1725955340,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 39366,
       "num": 325810,
       "word": "教师被单打满补丁却资助83位学生",
       "onboard_time": 1725955039,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39150,
+      "num": 147323,
+      "word": "华为重新定义车灯",
+      "onboard_time": 1725957140,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 35374,
@@ -2299,6 +2347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33159,
+      "num": 436425,
+      "word": "人工耳蜗等高值医用耗材纳入集采",
+      "onboard_time": 1725956300,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32551,
       "num": 1176056,
       "word": "万千气象看内蒙古",
@@ -2323,19 +2379,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30763,
-      "num": 297109,
-      "word": "华为三折叠一机多能",
-      "onboard_time": 1725955340,
-      "rank": 16,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 27062,
-      "num": 430700,
-      "word": "人工耳蜗等高值医用耗材纳入集采",
-      "onboard_time": 1725956300,
-      "rank": 9,
+      "raw_hot": 26864,
+      "num": 280262,
+      "word": "装修公司跑路90多户业主损失超300万",
+      "onboard_time": 1725957319,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2434,6 +2482,9 @@
     },
     {
       "word": "#习近平总书记和人民教师的互动瞬间#"
+    },
+    {
+      "word": "#立德树人#"
     }
   ]
 }
