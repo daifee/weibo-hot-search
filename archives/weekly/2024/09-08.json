@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725981778256,
+  "endTime": 1725982634233,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -787,6 +787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 882279,
+      "num": 882279,
+      "word": "伊万 下课",
+      "onboard_time": 1725978323,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 881809,
       "num": 881809,
       "word": "19块9小火锅围猎海底捞",
@@ -840,6 +848,14 @@
       "word": "青岛辅警开私家车逆行引发热议",
       "onboard_time": 1725936919,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 833378,
+      "num": 385170,
+      "word": "金毛犬扑向孕妇致受惊吓流产",
+      "onboard_time": 1725980723,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1299,14 +1315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 602832,
-      "num": 602832,
-      "word": "伊万 下课",
-      "onboard_time": 1725978323,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 592568,
       "num": 593739,
       "word": "日本校园裸体健康体检引发不满",
@@ -1515,6 +1523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 513562,
+      "num": 513562,
+      "word": "张雨绮 千万不要对号入座",
+      "onboard_time": 1725968360,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 513311,
       "num": 513311,
       "word": "江西一小汽车撞飞2名骑行者均死亡",
@@ -1529,14 +1545,6 @@
       "onboard_time": 1725783980,
       "rank": 32,
       "category": "网红"
-    },
-    {
-      "raw_hot": 501660,
-      "num": 501660,
-      "word": "张雨绮 千万不要对号入座",
-      "onboard_time": 1725968360,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 500969,
@@ -1561,14 +1569,6 @@
       "onboard_time": 1725943043,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 497709,
-      "num": 347790,
-      "word": "金毛犬扑向孕妇致受惊吓流产",
-      "onboard_time": 1725980723,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 497442,
@@ -1743,6 +1743,14 @@
       "num": 451526,
       "word": "周扬青说恋综男嘉宾像杀猪盘",
       "onboard_time": 1725958702,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 447787,
+      "num": 711728,
+      "word": "张雨绮你什么时候关注他",
+      "onboard_time": 1725977125,
       "rank": 8,
       "category": "综艺"
     },
@@ -2107,6 +2115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379730,
+      "num": 379730,
+      "word": "海南发布接受台风救灾捐赠公告",
+      "onboard_time": 1725976104,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377267,
       "num": 377267,
       "word": "孙海洋支持孙卓在大学谈恋爱",
@@ -2153,14 +2169,6 @@
       "onboard_time": 1725780799,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 368928,
-      "num": 711728,
-      "word": "张雨绮你什么时候关注他",
-      "onboard_time": 1725977125,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 368735,
@@ -2363,14 +2371,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 335879,
-      "num": 335879,
-      "word": "海南发布接受台风救灾捐赠公告",
-      "onboard_time": 1725976104,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 333219,
       "num": 333219,
       "word": "NINEPERCENT QQ音乐",
@@ -2515,6 +2515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 314088,
+      "num": 314088,
+      "word": "王楚钦真的拿起板又不想输了",
+      "onboard_time": 1725979402,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 312483,
       "num": 312483,
       "word": "赵丽颖还给张碧晨录了视频",
@@ -2635,6 +2643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 302656,
+      "num": 302656,
+      "word": "张雨绮脱口秀",
+      "onboard_time": 1725968421,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302396,
       "num": 302396,
       "word": "华晨宇 华妃是在叫我吗",
@@ -2649,14 +2665,6 @@
       "onboard_time": 1725955820,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 299144,
-      "num": 299144,
-      "word": "张雨绮脱口秀",
-      "onboard_time": 1725968421,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 298956,
@@ -2705,6 +2713,14 @@
       "onboard_time": 1725954380,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295877,
+      "num": 295877,
+      "word": "国足这都能输",
+      "onboard_time": 1725978265,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 295288,
@@ -2817,14 +2833,6 @@
       "onboard_time": 1725846499,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 280645,
-      "num": 280645,
-      "word": "王楚钦真的拿起板又不想输了",
-      "onboard_time": 1725979402,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 278703,
@@ -3395,6 +3403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232708,
+      "num": 232708,
+      "word": "花海受伤",
+      "onboard_time": 1725981683,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 232562,
       "num": 232562,
       "word": "娜扎恩利合照",
@@ -3843,6 +3859,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 209946,
+      "num": 209946,
+      "word": "张启山张起灵都是张家人",
+      "onboard_time": 1725982103,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209888,
       "num": 209888,
       "word": "赵小童在干嘛",
@@ -3932,7 +3956,7 @@
     },
     {
       "raw_hot": 207488,
-      "num": 347853,
+      "num": 391909,
       "word": "海南目前缺什么物资",
       "onboard_time": 1725977064,
       "rank": 38,
@@ -4203,14 +4227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199834,
-      "num": 199834,
-      "word": "国足这都能输",
-      "onboard_time": 1725978265,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 199788,
       "num": 199788,
       "word": "老九门2能请赵丽颖吗",
@@ -4329,14 +4345,6 @@
       "onboard_time": 1725951502,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 195760,
-      "num": 195760,
-      "word": "花海受伤",
-      "onboard_time": 1725981683,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 195658,
@@ -5643,6 +5651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158016,
+      "num": 158016,
+      "word": "我就知道汉语言文学专业出路多",
+      "onboard_time": 1725979703,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157549,
       "num": 157549,
       "word": "戚薇李承铉庆祝结婚十周年",
@@ -5675,14 +5691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156856,
-      "num": 156856,
-      "word": "我就知道汉语言文学专业出路多",
-      "onboard_time": 1725979703,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 156717,
       "num": 156717,
       "word": "国足打沙特大概率还是付费直播",
@@ -5696,6 +5704,14 @@
       "word": "蒋裕燕 残奥会9项7枚金牌",
       "onboard_time": 1725956360,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 156089,
+      "num": 156089,
+      "word": "韩乔生痛批国足主教练不动脑子",
+      "onboard_time": 1725982103,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -6867,6 +6883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 128254,
+      "num": 128254,
+      "word": "国足发挥太稳定了",
+      "onboard_time": 1725980303,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127681,
       "num": 136323,
       "word": "北大开学典礼中英双语演唱声声慢",
@@ -6881,6 +6905,14 @@
       "onboard_time": 1725860957,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 126855,
+      "num": 126855,
+      "word": "赵露思唱歌直拍",
+      "onboard_time": 1725982221,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 126489,
@@ -8891,6 +8923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47103,
+      "num": 392997,
+      "word": "裁我可以 给钱就行",
+      "onboard_time": 1725980661,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 46536,
       "num": 360929,
       "word": "飞霄大捷",
@@ -8905,6 +8945,14 @@
       "onboard_time": 1725959240,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46065,
+      "num": 159903,
+      "word": "用华为三折叠打开excel",
+      "onboard_time": 1725980784,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 45939,
@@ -9187,14 +9235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35465,
-      "num": 159903,
-      "word": "用华为三折叠打开excel",
-      "onboard_time": 1725980784,
-      "rank": 41,
-      "category": "数码"
-    },
-    {
       "raw_hot": 35374,
       "num": 207561,
       "word": "洛阳为教师点亮夜空",
@@ -9371,14 +9411,6 @@
       "category": "剧集,艺人"
     },
     {
-      "raw_hot": 28410,
-      "num": 276265,
-      "word": "裁我可以 给钱就行",
-      "onboard_time": 1725980661,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 28159,
       "num": 233000,
       "word": "大叔崩溃求助交警请他吃面加鸡腿",
@@ -9401,6 +9433,14 @@
       "onboard_time": 1725966680,
       "rank": 37,
       "category": "网红"
+    },
+    {
+      "raw_hot": 27752,
+      "num": 201717,
+      "word": "你算我二姐",
+      "onboard_time": 1725978863,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 27584,
@@ -9595,14 +9635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21252,
-      "num": 201717,
-      "word": "你算我二姐",
-      "onboard_time": 1725978863,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 21181,
       "num": 286036,
       "word": "王源客厅狂欢巡演",
@@ -9649,6 +9681,14 @@
       "onboard_time": 1725906433,
       "rank": 24,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 19283,
+      "num": 306610,
+      "word": "张雪峰建议大学里多参加社团",
+      "onboard_time": 1725982282,
+      "rank": 19,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 19034,
