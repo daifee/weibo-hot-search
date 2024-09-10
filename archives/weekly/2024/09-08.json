@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725936450995,
+  "endTime": 1725937052356,
   "band_list": [
     {
       "raw_hot": 3172135,
@@ -723,6 +723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 739035,
+      "num": 739035,
+      "word": "张翰拍公主抱脖子都红温了",
+      "onboard_time": 1725933919,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 737735,
       "num": 215167,
       "word": "警方介入小学生在校死亡脖子现勒痕",
@@ -736,14 +744,6 @@
       "word": "白夜追凶",
       "onboard_time": 1725934278,
       "rank": 3,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 723594,
-      "num": 723594,
-      "word": "张翰拍公主抱脖子都红温了",
-      "onboard_time": 1725933919,
-      "rank": 4,
       "category": "剧集"
     },
     {
@@ -891,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 630611,
+      "num": 630611,
+      "word": "华为三折叠",
+      "onboard_time": 1725933019,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 622437,
       "num": 324624,
       "word": "沙漠色iPhone16Pro",
@@ -947,14 +955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 593895,
-      "num": 593895,
-      "word": "华为三折叠",
-      "onboard_time": 1725933019,
-      "rank": 36,
-      "category": "数码"
-    },
-    {
       "raw_hot": 592568,
       "num": 593739,
       "word": "日本校园裸体健康体检引发不满",
@@ -977,6 +977,14 @@
       "onboard_time": 1725888859,
       "rank": 45,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 571088,
+      "num": 571088,
+      "word": "金鹰奖入围的男女主角",
+      "onboard_time": 1725935898,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 567455,
@@ -1009,6 +1017,14 @@
       "onboard_time": 1725934459,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 562876,
+      "num": 562876,
+      "word": "苹果 挤牙膏",
+      "onboard_time": 1725935299,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 555256,
@@ -1219,14 +1235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 473050,
-      "num": 359551,
-      "word": "苹果 挤牙膏",
-      "onboard_time": 1725935299,
-      "rank": 14,
-      "category": "数码"
-    },
-    {
       "raw_hot": 472912,
       "num": 296357,
       "word": "女子金店用嘴盗走小金豆",
@@ -1369,6 +1377,14 @@
       "onboard_time": 1725846499,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 421475,
+      "num": 421475,
+      "word": "潘粤明官宣回归白夜追凶2",
+      "onboard_time": 1725934818,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 419637,
@@ -1587,14 +1603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 375324,
-      "num": 375324,
-      "word": "潘粤明官宣回归白夜追凶2",
-      "onboard_time": 1725934818,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 375299,
       "num": 375299,
       "word": "教师节文案",
@@ -1769,14 +1777,6 @@
       "onboard_time": 1725886822,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 343193,
-      "num": 343193,
-      "word": "金鹰奖入围的男女主角",
-      "onboard_time": 1725935898,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 341602,
@@ -2065,6 +2065,14 @@
       "onboard_time": 1725868219,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 283029,
+      "num": 283029,
+      "word": "王楚钦樊振东排名前二",
+      "onboard_time": 1725936257,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 282278,
@@ -2371,6 +2379,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 245331,
+      "num": 236390,
+      "word": "苹果客服回应下架iPhone15Pro",
+      "onboard_time": 1725936079,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 245143,
       "num": 218427,
       "word": "猫 你说这水怎么这么好喝",
@@ -2393,14 +2409,6 @@
       "onboard_time": 1725706159,
       "rank": 16,
       "category": "网红"
-    },
-    {
-      "raw_hot": 242981,
-      "num": 242981,
-      "word": "王楚钦樊振东排名前二",
-      "onboard_time": 1725936257,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 242380,
@@ -2611,6 +2619,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 223873,
+      "num": 223873,
+      "word": "恋人首发概念海报",
+      "onboard_time": 1725935898,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223602,
       "num": 223602,
       "word": "时差五小时",
@@ -2705,14 +2721,6 @@
       "onboard_time": 1725803179,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 216430,
-      "num": 216430,
-      "word": "恋人首发概念海报",
-      "onboard_time": 1725935898,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 216102,
@@ -3025,14 +3033,6 @@
       "onboard_time": 1725868339,
       "rank": 17,
       "category": "剧集,作品衍生"
-    },
-    {
-      "raw_hot": 201678,
-      "num": 201678,
-      "word": "苹果客服回应下架iPhone15Pro",
-      "onboard_time": 1725936079,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 201565,
@@ -4227,6 +4227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153706,
+      "num": 153706,
+      "word": "教师节礼物",
+      "onboard_time": 1725937038,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 153500,
       "num": 153500,
       "word": "时代少年团楼间楼DVD花絮",
@@ -4569,6 +4577,14 @@
       "onboard_time": 1725857780,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 142693,
+      "num": 142693,
+      "word": "网恋4年的女友竟是已婚发小",
+      "onboard_time": 1725935778,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142475,
@@ -5027,6 +5043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128402,
+      "num": 128402,
+      "word": "青岛辅警开私家车逆行引发热议",
+      "onboard_time": 1725936919,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127249,
       "num": 127249,
       "word": "赵露思路透",
@@ -5185,6 +5209,14 @@
       "onboard_time": 1725794177,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123218,
+      "num": 123218,
+      "word": "王一博新代言登泰趋",
+      "onboard_time": 1725936739,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 122966,
@@ -5585,6 +5617,14 @@
       "onboard_time": 1725723619,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109456,
+      "num": 109456,
+      "word": "王者荣耀世界明年上线",
+      "onboard_time": 1725935778,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 109148,
@@ -6595,6 +6635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51726,
+      "num": 509880,
+      "word": "网上买宠物想不踩坑太难了",
+      "onboard_time": 1725936257,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51207,
       "num": 204273,
       "word": "汪苏泷旷野音乐节",
@@ -6649,6 +6697,14 @@
       "onboard_time": 1725890000,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45517,
+      "num": 119581,
+      "word": "守护是老师的浪漫主义",
+      "onboard_time": 1725936557,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 45513,
@@ -6800,14 +6856,6 @@
       "word": "撸猫撸狗真的能让心情变好",
       "onboard_time": 1725798619,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36354,
-      "num": 402777,
-      "word": "网上买宠物想不踩坑太难了",
-      "onboard_time": 1725936257,
-      "rank": 9,
       "category": "社会新闻"
     },
     {

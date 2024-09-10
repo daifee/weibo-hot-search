@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725936450995,
+  "endTime": 1725937052356,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -3459,6 +3459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 739035,
+      "num": 739035,
+      "word": "张翰拍公主抱脖子都红温了",
+      "onboard_time": 1725933919,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 737735,
       "num": 215167,
       "word": "警方介入小学生在校死亡脖子现勒痕",
@@ -3521,14 +3529,6 @@
       "onboard_time": 1725365479,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 723594,
-      "num": 723594,
-      "word": "张翰拍公主抱脖子都红温了",
-      "onboard_time": 1725933919,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 721877,
@@ -4715,6 +4715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 571088,
+      "num": 571088,
+      "word": "金鹰奖入围的男女主角",
+      "onboard_time": 1725935898,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 570448,
       "num": 570448,
       "word": "男子花29元坐高铁免费吃40元盒饭",
@@ -4793,6 +4801,14 @@
       "onboard_time": 1725528440,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 562876,
+      "num": 562876,
+      "word": "苹果 挤牙膏",
+      "onboard_time": 1725935299,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 562453,
@@ -5867,14 +5883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 473050,
-      "num": 359551,
-      "word": "苹果 挤牙膏",
-      "onboard_time": 1725935299,
-      "rank": 14,
-      "category": "数码"
-    },
-    {
       "raw_hot": 472912,
       "num": 296357,
       "word": "女子金店用嘴盗走小金豆",
@@ -6499,6 +6507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 421475,
+      "num": 421475,
+      "word": "潘粤明官宣回归白夜追凶2",
+      "onboard_time": 1725934818,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 420907,
       "num": 420907,
       "word": "你支持夫妻离婚不要孩子不准离吗",
@@ -7083,14 +7099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 375324,
-      "num": 375324,
-      "word": "潘粤明官宣回归白夜追凶2",
-      "onboard_time": 1725934818,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 375299,
       "num": 375299,
       "word": "教师节文案",
@@ -7633,14 +7641,6 @@
       "onboard_time": 1725371001,
       "rank": 23,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 343193,
-      "num": 343193,
-      "word": "金鹰奖入围的男女主角",
-      "onboard_time": 1725935898,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 341602,
@@ -8897,6 +8897,14 @@
       "onboard_time": 1725405196,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 283029,
+      "num": 283029,
+      "word": "王楚钦樊振东排名前二",
+      "onboard_time": 1725936257,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 282633,
@@ -10163,6 +10171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245331,
+      "num": 236390,
+      "word": "苹果客服回应下架iPhone15Pro",
+      "onboard_time": 1725936079,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 245197,
       "num": 245197,
       "word": "安徽市监局专班处理三只羊槽头肉事件",
@@ -10233,14 +10249,6 @@
       "onboard_time": 1725902833,
       "rank": 9,
       "category": "数码"
-    },
-    {
-      "raw_hot": 242981,
-      "num": 242981,
-      "word": "王楚钦樊振东排名前二",
-      "onboard_time": 1725936257,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 242959,
@@ -11139,6 +11147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 223873,
+      "num": 223873,
+      "word": "恋人首发概念海报",
+      "onboard_time": 1725935898,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223755,
       "num": 223755,
       "word": "李灿荣wvs",
@@ -11521,14 +11537,6 @@
       "onboard_time": 1725391270,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216430,
-      "num": 216430,
-      "word": "恋人首发概念海报",
-      "onboard_time": 1725935898,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 216388,
@@ -12689,14 +12697,6 @@
       "onboard_time": 1725868339,
       "rank": 17,
       "category": "剧集,作品衍生"
-    },
-    {
-      "raw_hot": 201678,
-      "num": 201678,
-      "word": "苹果客服回应下架iPhone15Pro",
-      "onboard_time": 1725936079,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 201574,
@@ -18611,6 +18611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153706,
+      "num": 153706,
+      "word": "教师节礼物",
+      "onboard_time": 1725937038,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 153653,
       "num": 153653,
       "word": "幸好央视没转",
@@ -19897,6 +19905,14 @@
       "onboard_time": 1725719722,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142693,
+      "num": 142693,
+      "word": "网恋4年的女友竟是已婚发小",
+      "onboard_time": 1725935778,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142497,
@@ -21219,6 +21235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128402,
+      "num": 128402,
+      "word": "青岛辅警开私家车逆行引发热议",
+      "onboard_time": 1725936919,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128108,
       "num": 128108,
       "word": "凡人歌 谢美蓝做人流",
@@ -21625,6 +21649,14 @@
       "onboard_time": 1725119479,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 123218,
+      "num": 123218,
+      "word": "王一博新代言登泰趋",
+      "onboard_time": 1725936739,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 122966,
@@ -22505,6 +22537,14 @@
       "onboard_time": 1725723619,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109456,
+      "num": 109456,
+      "word": "王者荣耀世界明年上线",
+      "onboard_time": 1725935778,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 109442,
@@ -25075,6 +25115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51726,
+      "num": 509880,
+      "word": "网上买宠物想不踩坑太难了",
+      "onboard_time": 1725936257,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51632,
       "num": 492585,
       "word": "AI理财算是被蚂小财整明白了",
@@ -25465,6 +25513,14 @@
       "onboard_time": 1725543262,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 45517,
+      "num": 119581,
+      "word": "守护是老师的浪漫主义",
+      "onboard_time": 1725936557,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 45513,
@@ -26161,14 +26217,6 @@
       "onboard_time": 1725594500,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 36354,
-      "num": 402777,
-      "word": "网上买宠物想不踩坑太难了",
-      "onboard_time": 1725936257,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36266,

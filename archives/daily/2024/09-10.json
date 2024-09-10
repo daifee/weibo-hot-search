@@ -1,6 +1,6 @@
 {
   "startTime": 1725899204781,
-  "endTime": 1725936450995,
+  "endTime": 1725937052356,
   "band_list": [
     {
       "raw_hot": 3172135,
@@ -123,19 +123,19 @@
       "category": "数码"
     },
     {
+      "raw_hot": 739035,
+      "num": 739035,
+      "word": "张翰拍公主抱脖子都红温了",
+      "onboard_time": 1725933919,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 728882,
       "num": 728882,
       "word": "白夜追凶",
       "onboard_time": 1725934278,
       "rank": 3,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 723594,
-      "num": 723594,
-      "word": "张翰拍公主抱脖子都红温了",
-      "onboard_time": 1725933919,
-      "rank": 4,
       "category": "剧集"
     },
     {
@@ -155,6 +155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 630611,
+      "num": 630611,
+      "word": "华为三折叠",
+      "onboard_time": 1725933019,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 622437,
       "num": 324624,
       "word": "沙漠色iPhone16Pro",
@@ -171,20 +179,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 593895,
-      "num": 593895,
-      "word": "华为三折叠",
-      "onboard_time": 1725933019,
-      "rank": 36,
-      "category": "数码"
-    },
-    {
       "raw_hot": 593155,
       "num": 942655,
       "word": "月饼为什么卖不动了",
       "onboard_time": 1725886039,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 571088,
+      "num": 571088,
+      "word": "金鹰奖入围的男女主角",
+      "onboard_time": 1725935898,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 563712,
@@ -195,12 +203,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 473050,
-      "num": 359551,
+      "raw_hot": 562876,
+      "num": 562876,
       "word": "苹果 挤牙膏",
       "onboard_time": 1725935299,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 421475,
+      "num": 421475,
+      "word": "潘粤明官宣回归白夜追凶2",
+      "onboard_time": 1725934818,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 401794,
@@ -225,14 +241,6 @@
       "onboard_time": 1725897319,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 375324,
-      "num": 375324,
-      "word": "潘粤明官宣回归白夜追凶2",
-      "onboard_time": 1725934818,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 375299,
@@ -281,14 +289,6 @@
       "onboard_time": 1725905594,
       "rank": 35,
       "category": "数码"
-    },
-    {
-      "raw_hot": 343193,
-      "num": 343193,
-      "word": "金鹰奖入围的男女主角",
-      "onboard_time": 1725935898,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 341602,
@@ -355,6 +355,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 283029,
+      "num": 283029,
+      "word": "王楚钦樊振东排名前二",
+      "onboard_time": 1725936257,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 281941,
       "num": 281941,
       "word": "iPhone16系列发货时间曝光",
@@ -411,20 +419,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245331,
+      "num": 236390,
+      "word": "苹果客服回应下架iPhone15Pro",
+      "onboard_time": 1725936079,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 243480,
       "num": 243480,
       "word": "Apple Watch S10",
       "onboard_time": 1725902833,
       "rank": 9,
       "category": "数码"
-    },
-    {
-      "raw_hot": 242981,
-      "num": 242981,
-      "word": "王楚钦樊振东排名前二",
-      "onboard_time": 1725936257,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 242380,
@@ -451,8 +459,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 216430,
-      "num": 216430,
+      "raw_hot": 223873,
+      "num": 223873,
       "word": "恋人首发概念海报",
       "onboard_time": 1725935898,
       "rank": 26,
@@ -512,14 +520,6 @@
       "word": "iPhone16全系价格对比",
       "onboard_time": 1725924257,
       "rank": 23,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 201678,
-      "num": 201678,
-      "word": "苹果客服回应下架iPhone15Pro",
-      "onboard_time": 1725936079,
-      "rank": 30,
       "category": "数码"
     },
     {
@@ -667,6 +667,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 153706,
+      "num": 153706,
+      "word": "教师节礼物",
+      "onboard_time": 1725937038,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 151997,
       "num": 511959,
       "word": "孙颖莎光速进16强",
@@ -697,6 +705,14 @@
       "onboard_time": 1725907692,
       "rank": 30,
       "category": "游戏,数码"
+    },
+    {
+      "raw_hot": 142693,
+      "num": 142693,
+      "word": "网恋4年的女友竟是已婚发小",
+      "onboard_time": 1725935778,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140637,
@@ -755,6 +771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128402,
+      "num": 128402,
+      "word": "青岛辅警开私家车逆行引发热议",
+      "onboard_time": 1725936919,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126489,
       "num": 126489,
       "word": "猫 你再动我一下试试",
@@ -777,6 +801,14 @@
       "onboard_time": 1725903675,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 123218,
+      "num": 123218,
+      "word": "王一博新代言登泰趋",
+      "onboard_time": 1725936739,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 122848,
@@ -833,6 +865,14 @@
       "onboard_time": 1725927500,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109456,
+      "num": 109456,
+      "word": "王者荣耀世界明年上线",
+      "onboard_time": 1725935778,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 106054,
@@ -1139,12 +1179,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 51726,
+      "num": 509880,
+      "word": "网上买宠物想不踩坑太难了",
+      "onboard_time": 1725936257,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47562,
       "num": 59224,
       "word": "史上充电最快苹果手表",
       "onboard_time": 1725903134,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 45517,
+      "num": 119581,
+      "word": "守护是老师的浪漫主义",
+      "onboard_time": 1725936557,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 43752,
@@ -1169,14 +1225,6 @@
       "onboard_time": 1725905834,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 36354,
-      "num": 402777,
-      "word": "网上买宠物想不踩坑太难了",
-      "onboard_time": 1725936257,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35374,
