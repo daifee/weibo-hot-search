@@ -1,6 +1,6 @@
 {
   "startTime": 1725985552565,
-  "endTime": 1725986546038,
+  "endTime": 1725988729721,
   "band_list": [
     {
       "raw_hot": 1172437,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328991,
+      "num": 328991,
+      "word": "国足输球伊万要负主要责任",
+      "onboard_time": 1725983121,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 323313,
       "num": 263876,
       "word": "张雨绮你什么时候关注他",
@@ -147,14 +155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235957,
-      "num": 227620,
-      "word": "国足输球伊万要负主要责任",
-      "onboard_time": 1725983121,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 226558,
       "num": 165865,
       "word": "小杨哥 二二",
@@ -179,7 +179,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 152634,
+      "raw_hot": 163551,
       "num": 263863,
       "word": "法院已向被家暴一生的母亲签发保护令",
       "onboard_time": 1725980604,
@@ -283,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104446,
+      "num": 227884,
+      "word": "台风后海滩上的生蚝尽量别吃",
+      "onboard_time": 1725979763,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103673,
       "num": 115558,
       "word": "赵露思黑色无袖伞裙",
@@ -305,6 +313,14 @@
       "onboard_time": 1725980661,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90511,
+      "num": 90511,
+      "word": "书亦烧仙草为什么开不下去了",
+      "onboard_time": 1725986896,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87952,
@@ -371,14 +387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 75871,
-      "num": 227884,
-      "word": "台风后海滩上的生蚝尽量别吃",
-      "onboard_time": 1725979763,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73097,
       "num": 115553,
       "word": "韩乔生痛批国足主教练不动脑子",
@@ -403,6 +411,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 62333,
+      "num": 82801,
+      "word": "老友记穿搭还是太超前了",
+      "onboard_time": 1725987555,
+      "rank": 37,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 41756,
+      "num": 82801,
+      "word": "悬案 边水往事妈生班底",
+      "onboard_time": 1725988514,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 39803,
       "num": 527354,
       "word": "各科老师硬核绝活大赏",
@@ -411,12 +435,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 39744,
+      "num": 82801,
+      "word": "何浩楠终于成为鹭卓那样的狗",
+      "onboard_time": 1725987856,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 22109,
       "num": 115557,
       "word": "海清到底上谁的车",
       "onboard_time": 1725981201,
       "rank": 41,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 17751,
+      "num": 82801,
+      "word": "专家称现在不是搞钱而是省钱的问题",
+      "onboard_time": 1725988634,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14568,
+      "num": 82802,
+      "word": "西北人在山上K歌",
+      "onboard_time": 1725987976,
+      "rank": 20,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
