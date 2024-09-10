@@ -1,6 +1,6 @@
 {
   "startTime": 1725899204781,
-  "endTime": 1725957665226,
+  "endTime": 1725960251431,
   "band_list": [
     {
       "raw_hot": 3894981,
@@ -355,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 620197,
+      "num": 382012,
+      "word": "于正 怎么生了你这样的畜生",
+      "onboard_time": 1725956181,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 619040,
       "num": 514578,
       "word": "九门 张艺兴",
@@ -459,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 405661,
+      "num": 405661,
+      "word": "周扬青说恋综男嘉宾像杀猪盘",
+      "onboard_time": 1725958702,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 401794,
       "num": 227703,
       "word": "男子实名举报公务人员包养情妇",
@@ -473,6 +489,14 @@
       "onboard_time": 1725952640,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 393580,
+      "num": 582370,
+      "word": "年轻人为何不再为民宿买单",
+      "onboard_time": 1725948439,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 390983,
@@ -547,14 +571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 353983,
-      "num": 582370,
-      "word": "年轻人为何不再为民宿买单",
-      "onboard_time": 1725948439,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 353376,
       "num": 353376,
       "word": "赵露思官宣新剧恋人",
@@ -595,20 +611,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 332131,
-      "num": 294254,
-      "word": "于正 怎么生了你这样的畜生",
-      "onboard_time": 1725956181,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 330335,
       "num": 330335,
       "word": "七年了 终于等到了",
       "onboard_time": 1725941660,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 325120,
+      "num": 325120,
+      "word": "权志龙全平台换头像",
+      "onboard_time": 1725956481,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 322384,
@@ -721,14 +737,6 @@
       "onboard_time": 1725880220,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 280185,
-      "num": 280185,
-      "word": "权志龙全平台换头像",
-      "onboard_time": 1725956481,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 277013,
@@ -883,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241878,
+      "num": 241878,
+      "word": "夫妻破产后可申请免除928万债务",
+      "onboard_time": 1725959180,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241588,
       "num": 241588,
       "word": "苹果",
@@ -905,6 +921,22 @@
       "onboard_time": 1725944781,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230918,
+      "num": 230918,
+      "word": "赵丽颖黄晓明 造城者",
+      "onboard_time": 1725959120,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 229828,
+      "num": 130164,
+      "word": "装x的信号",
+      "onboard_time": 1725957381,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 229182,
@@ -963,6 +995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221855,
+      "num": 384620,
+      "word": "丰巢靠滞留金三年半营收8个亿",
+      "onboard_time": 1725951502,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220949,
       "num": 220949,
       "word": "献鱼",
@@ -977,14 +1017,6 @@
       "onboard_time": 1725938239,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 219315,
-      "num": 219315,
-      "word": "丰巢靠滞留金三年半营收8个亿",
-      "onboard_time": 1725951502,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218109,
@@ -1323,6 +1355,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 171661,
+      "num": 911843,
+      "word": "教师节的顶级文案还是老师教的",
+      "onboard_time": 1725956241,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171193,
+      "num": 171193,
+      "word": "天照臻藏皮肤",
+      "onboard_time": 1725957920,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 170236,
       "num": 170236,
       "word": "天才小熊猫总结苹果发布会",
@@ -1385,6 +1433,14 @@
       "onboard_time": 1725946280,
       "rank": 19,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 165485,
+      "num": 165485,
+      "word": "墨雨爆了我有多爽你们知道吗",
+      "onboard_time": 1725959419,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 163705,
@@ -1475,6 +1531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154356,
+      "num": 154356,
+      "word": "刘亦菲现身高铁站",
+      "onboard_time": 1725959960,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153823,
       "num": 153823,
       "word": "运动必须30分钟以上才能减肥吗",
@@ -1489,6 +1553,14 @@
       "onboard_time": 1725937038,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 152989,
+      "num": 132392,
+      "word": "金鹰奖删除刘亦菲入围资格",
+      "onboard_time": 1725960141,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 151997,
@@ -1515,6 +1587,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 151714,
+      "num": 151714,
+      "word": "原神万达电影",
+      "onboard_time": 1725959782,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 151608,
       "num": 151608,
       "word": "折叠键盘",
@@ -1529,6 +1609,14 @@
       "onboard_time": 1725891982,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149195,
+      "num": 238314,
+      "word": "今天第40个教师节",
+      "onboard_time": 1725960081,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148469,
@@ -1555,14 +1643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144703,
-      "num": 911843,
-      "word": "教师节的顶级文案还是老师教的",
-      "onboard_time": 1725956241,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143894,
       "num": 143894,
       "word": "苹果发布会介绍腾讯新游戏",
@@ -1585,6 +1665,14 @@
       "onboard_time": 1725894142,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 139470,
+      "num": 282435,
+      "word": "吴宣仪苞娜友情",
+      "onboard_time": 1725957201,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 139374,
@@ -1627,6 +1715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134551,
+      "num": 132033,
+      "word": "程苗苗 香港到底有谁在啊",
+      "onboard_time": 1725958940,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134347,
       "num": 134347,
       "word": "问界M9大五座上市",
@@ -1651,12 +1747,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130164,
-      "num": 130164,
-      "word": "装x的信号",
-      "onboard_time": 1725957381,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 130369,
+      "num": 130369,
+      "word": "华为大战苹果",
+      "onboard_time": 1725957980,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 130110,
+      "num": 130110,
+      "word": "沙特主教练称目标是进5到6球",
+      "onboard_time": 1725958880,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 128491,
+      "num": 128491,
+      "word": "智界R7",
+      "onboard_time": 1725957920,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 128337,
+      "num": 128337,
+      "word": "原来毛不易的手这么好看",
+      "onboard_time": 1725959419,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 127681,
@@ -1665,6 +1785,14 @@
       "onboard_time": 1725954620,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127663,
+      "num": 127663,
+      "word": "田志希称赞孙颖莎人格魅力强",
+      "onboard_time": 1725960200,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 126489,
@@ -1931,6 +2059,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 89035,
+      "num": 280262,
+      "word": "装修公司跑路90多户业主损失超300万",
+      "onboard_time": 1725957319,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88912,
       "num": 88912,
       "word": "2024国际乒联第37周排名",
@@ -2155,6 +2291,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 53896,
+      "num": 236815,
+      "word": "76岁阿姨户口本突然多出1个妹妹",
+      "onboard_time": 1725960200,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53638,
       "num": 366434,
       "word": "00后老师专治00后学生",
@@ -2169,6 +2313,14 @@
       "onboard_time": 1725950059,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 52088,
+      "num": 297109,
+      "word": "华为三折叠一机多能",
+      "onboard_time": 1725955340,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 51726,
@@ -2203,14 +2355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49588,
-      "num": 282435,
-      "word": "吴宣仪苞娜友情",
-      "onboard_time": 1725957201,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 49385,
       "num": 369029,
       "word": "9年前国足曾战胜沙特",
@@ -2243,6 +2387,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 45356,
+      "num": 175587,
+      "word": "智界R7华为黑科技拉满",
+      "onboard_time": 1725959240,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 43752,
       "num": 102486,
       "word": "落落大方具象化了",
@@ -2265,6 +2417,14 @@
       "onboard_time": 1725952581,
       "rank": 18,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 41172,
+      "num": 183573,
+      "word": "华为见非凡品牌计划官宣",
+      "onboard_time": 1725959240,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 41081,
@@ -2291,14 +2451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 39880,
-      "num": 297109,
-      "word": "华为三折叠一机多能",
-      "onboard_time": 1725955340,
-      "rank": 16,
-      "category": "数码"
-    },
-    {
       "raw_hot": 39366,
       "num": 325810,
       "word": "教师被单打满补丁却资助83位学生",
@@ -2313,6 +2465,14 @@
       "onboard_time": 1725957140,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 36743,
+      "num": 296797,
+      "word": "云南3家医院给男性做妇科诊疗被点名",
+      "onboard_time": 1725959240,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35374,
@@ -2379,20 +2539,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26864,
-      "num": 280262,
-      "word": "装修公司跑路90多户业主损失超300万",
-      "onboard_time": 1725957319,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 26214,
       "num": 204468,
       "word": "华为三折叠搭载3K临境大屏",
       "onboard_time": 1725954921,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 25224,
+      "num": 133940,
+      "word": "问界M9五座版六座版怎么选",
+      "onboard_time": 1725958940,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 24966,
