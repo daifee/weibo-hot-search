@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725952880259,
+  "endTime": 1725953722850,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -89,6 +89,14 @@
       "onboard_time": 1725373701,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3705805,
+      "num": 3705805,
+      "word": "华为三折叠",
+      "onboard_time": 1725426141,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 3590283,
@@ -273,14 +281,6 @@
       "onboard_time": 1725705080,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 2347539,
-      "num": 2347539,
-      "word": "华为三折叠",
-      "onboard_time": 1725426141,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 2342643,
@@ -1515,6 +1515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1236244,
+      "num": 1236244,
+      "word": "华为三折叠价格19999起",
+      "onboard_time": 1725952821,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1231955,
       "num": 1231955,
       "word": "汪涵怎么突然老了这么多",
@@ -2635,6 +2643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 902369,
+      "num": 290825,
+      "word": "纯爱但出轨",
+      "onboard_time": 1725950961,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 902226,
       "num": 536765,
       "word": "陈伟霆 佛爷",
@@ -2857,14 +2873,6 @@
       "onboard_time": 1725537560,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 861216,
-      "num": 290825,
-      "word": "纯爱但出轨",
-      "onboard_time": 1725950961,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 860837,
@@ -6579,6 +6587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 431840,
+      "num": 431840,
+      "word": "晚奶 意识抽离",
+      "onboard_time": 1725951620,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 431401,
       "num": 431401,
       "word": "被工作了十五年的公司裁员",
@@ -6745,14 +6761,6 @@
       "onboard_time": 1725411441,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 419274,
-      "num": 330532,
-      "word": "晚奶 意识抽离",
-      "onboard_time": 1725951620,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 418830,
@@ -7032,6 +7040,14 @@
       "word": "华为新机提前拆封罚款50万起",
       "onboard_time": 1725889279,
       "rank": 25,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 396993,
+      "num": 396993,
+      "word": "华为三折叠颜色",
+      "onboard_time": 1725952640,
+      "rank": 16,
       "category": "数码"
     },
     {
@@ -7537,6 +7553,14 @@
       "onboard_time": 1725417798,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 362749,
+      "num": 362749,
+      "word": "华为品牌盛典",
+      "onboard_time": 1725947179,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 362456,
@@ -8467,14 +8491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 307580,
-      "num": 307580,
-      "word": "华为三折叠颜色",
-      "onboard_time": 1725952640,
-      "rank": 16,
-      "category": "数码"
-    },
-    {
       "raw_hot": 307545,
       "num": 307545,
       "word": "我妈的17岁比我还癫",
@@ -8641,14 +8657,6 @@
       "onboard_time": 1725242539,
       "rank": 15,
       "category": "网红"
-    },
-    {
-      "raw_hot": 303929,
-      "num": 303929,
-      "word": "华为品牌盛典",
-      "onboard_time": 1725947179,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 303711,
@@ -11403,14 +11411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227553,
-      "num": 227553,
-      "word": "华为三折叠价格19999起",
-      "onboard_time": 1725952821,
-      "rank": 25,
-      "category": "数码"
-    },
-    {
       "raw_hot": 227319,
       "num": 227319,
       "word": "别人杀青捧了花你俩白了发",
@@ -11787,6 +11787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219315,
+      "num": 219315,
+      "word": "丰巢靠滞留金三年半营收8个亿",
+      "onboard_time": 1725951502,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219271,
       "num": 219271,
       "word": "黄景瑜 别搞这些乱七八糟的",
@@ -12035,14 +12043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 215098,
-      "num": 215098,
-      "word": "丰巢靠滞留金三年半营收8个亿",
-      "onboard_time": 1725951502,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214696,
       "num": 275325,
       "word": "周子瑜solo出道新闻图",
@@ -12145,6 +12145,14 @@
       "onboard_time": 1725797660,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 213100,
+      "num": 335216,
+      "word": "Fendi出棒棒糖包4800元1个",
+      "onboard_time": 1725949938,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213055,
@@ -12523,6 +12531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208117,
+      "num": 208117,
+      "word": "华为 每次都是我买单",
+      "onboard_time": 1725951559,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 208004,
       "num": 208004,
       "word": "程潇是不是睡觉也流口水",
@@ -12865,6 +12881,14 @@
       "onboard_time": 1725793279,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205051,
+      "num": 205051,
+      "word": "张靓颖 华为发布会",
+      "onboard_time": 1725953659,
+      "rank": 26,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 205018,
@@ -13579,6 +13603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198216,
+      "num": 198216,
+      "word": "华为遥遥领先",
+      "onboard_time": 1725952880,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 198174,
       "num": 198174,
       "word": "上海不少市民吐槽电费不正常",
@@ -13825,6 +13857,14 @@
       "onboard_time": 1725506958,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 196053,
+      "num": 175919,
+      "word": "家教完的大学生 已老实",
+      "onboard_time": 1725951502,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 196050,
@@ -14353,14 +14393,6 @@
       "onboard_time": 1725902115,
       "rank": 12,
       "category": "数码"
-    },
-    {
-      "raw_hot": 192158,
-      "num": 335216,
-      "word": "Fendi出棒棒糖包4800元1个",
-      "onboard_time": 1725949938,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192116,
@@ -16867,6 +16899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172195,
+      "num": 172195,
+      "word": "华为三折叠全球最大最薄",
+      "onboard_time": 1725952400,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 171820,
       "num": 171820,
       "word": "王曼昱的港澳行vlog",
@@ -17065,14 +17105,6 @@
       "onboard_time": 1725927320,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169741,
-      "num": 169741,
-      "word": "家教完的大学生 已老实",
-      "onboard_time": 1725951502,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 169735,
@@ -18403,14 +18435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159385,
-      "num": 159385,
-      "word": "华为三折叠全球最大最薄",
-      "onboard_time": 1725952400,
-      "rank": 39,
-      "category": "数码"
-    },
-    {
       "raw_hot": 159323,
       "num": 159323,
       "word": "广西北海停课停工停游停市停运",
@@ -18537,14 +18561,6 @@
       "onboard_time": 1725430519,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158773,
-      "num": 158773,
-      "word": "华为 每次都是我买单",
-      "onboard_time": 1725951559,
-      "rank": 40,
-      "category": "数码"
     },
     {
       "raw_hot": 158725,
@@ -22147,6 +22163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124976,
+      "num": 124976,
+      "word": "华为首创天工铰链系统",
+      "onboard_time": 1725953659,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 124974,
       "num": 124974,
       "word": "王一博模拟人工呼吸",
@@ -22169,6 +22193,14 @@
       "onboard_time": 1725234738,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124818,
+      "num": 124818,
+      "word": "华为发布会 舞蹈开场",
+      "onboard_time": 1725951020,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 124734,
@@ -22353,6 +22385,14 @@
       "onboard_time": 1725500599,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122775,
+      "num": 122775,
+      "word": "把电脑放在口袋里",
+      "onboard_time": 1725953541,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 122613,
@@ -22753,6 +22793,14 @@
       "onboard_time": 1725534920,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116772,
+      "num": 116611,
+      "word": "陈梦发文感谢每位教练",
+      "onboard_time": 1725953299,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 116742,
@@ -24084,7 +24132,7 @@
     },
     {
       "raw_hot": 91738,
-      "num": 439735,
+      "num": 1390520,
       "word": "谢谢人生中的每一位引路人",
       "onboard_time": 1725938898,
       "rank": 18,
@@ -25395,6 +25443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58713,
+      "num": 309645,
+      "word": "自动续费的四大坑人套路",
+      "onboard_time": 1725952581,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58699,
       "num": 275328,
       "word": "六大行个人房贷减少超3200亿",
@@ -26507,6 +26563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42043,
+      "num": 306844,
+      "word": "大学没谈过恋爱真的遗憾吗",
+      "onboard_time": 1725952581,
+      "rank": 18,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 41892,
       "num": 400389,
       "word": "湖南人在肯尼亚草原上教人淘金",
@@ -26584,6 +26648,14 @@
       "word": "浙江自然博物院回应导盲犬入馆被阻",
       "onboard_time": 1725700400,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41081,
+      "num": 305630,
+      "word": "男子高速上徒手拖卡车真相是挡车牌",
+      "onboard_time": 1725952040,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -26696,14 +26768,6 @@
       "word": "海南居民谈台风摩羯过境",
       "onboard_time": 1725702859,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39730,
-      "num": 305630,
-      "word": "男子高速上徒手拖卡车真相是挡车牌",
-      "onboard_time": 1725952040,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -27136,14 +27200,6 @@
       "word": "台风摩羯成为登陆我国最强秋台风",
       "onboard_time": 1725821892,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34715,
-      "num": 309645,
-      "word": "自动续费的四大坑人套路",
-      "onboard_time": 1725952581,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -27721,14 +27777,6 @@
       "onboard_time": 1725246258,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29372,
-      "num": 306844,
-      "word": "大学没谈过恋爱真的遗憾吗",
-      "onboard_time": 1725952581,
-      "rank": 18,
-      "category": "社会议题"
     },
     {
       "raw_hot": 29314,
@@ -28993,6 +29041,14 @@
       "onboard_time": 1725615679,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 13528,
+      "num": 262322,
+      "word": "骗子扮苹果员工卖手机多人上当",
+      "onboard_time": 1725953599,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13288,

@@ -1,6 +1,6 @@
 {
   "startTime": 1725899204781,
-  "endTime": 1725952880259,
+  "endTime": 1725953722850,
   "band_list": [
     {
       "raw_hot": 3894981,
@@ -9,6 +9,14 @@
       "onboard_time": 1725950299,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 3705805,
+      "num": 3705805,
+      "word": "华为三折叠",
+      "onboard_time": 1725933019,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 3172135,
@@ -32,14 +40,6 @@
       "word": "iPhone16价格",
       "onboard_time": 1725906913,
       "rank": 24,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 2347539,
-      "num": 2347539,
-      "word": "华为三折叠",
-      "onboard_time": 1725933019,
-      "rank": 36,
       "category": "数码"
     },
     {
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1236244,
+      "num": 1236244,
+      "word": "华为三折叠价格19999起",
+      "onboard_time": 1725952821,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1039925,
       "num": 545788,
       "word": "九门官宣",
@@ -187,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 902369,
+      "num": 290825,
+      "word": "纯爱但出轨",
+      "onboard_time": 1725950961,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 902226,
       "num": 536765,
       "word": "陈伟霆 佛爷",
@@ -201,14 +217,6 @@
       "onboard_time": 1725940580,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 861216,
-      "num": 290825,
-      "word": "纯爱但出轨",
-      "onboard_time": 1725950961,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 834461,
@@ -403,8 +411,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 419274,
-      "num": 330532,
+      "raw_hot": 431840,
+      "num": 431840,
       "word": "晚奶 意识抽离",
       "onboard_time": 1725951620,
       "rank": 11,
@@ -417,6 +425,14 @@
       "onboard_time": 1725923478,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396993,
+      "num": 396993,
+      "word": "华为三折叠颜色",
+      "onboard_time": 1725952640,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 390983,
@@ -456,6 +472,14 @@
       "word": "粉色iPhone16",
       "onboard_time": 1725905594,
       "rank": 14,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 362749,
+      "num": 362749,
+      "word": "华为品牌盛典",
+      "onboard_time": 1725947179,
+      "rank": 33,
       "category": "数码"
     },
     {
@@ -579,27 +603,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 307580,
-      "num": 307580,
-      "word": "华为三折叠颜色",
-      "onboard_time": 1725952640,
-      "rank": 16,
-      "category": "数码"
-    },
-    {
       "raw_hot": 305436,
       "num": 305436,
       "word": "科技春晚",
       "onboard_time": 1725901575,
       "rank": 9,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 303929,
-      "num": 303929,
-      "word": "华为品牌盛典",
-      "onboard_time": 1725947179,
-      "rank": 33,
       "category": "数码"
     },
     {
@@ -819,14 +827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 227553,
-      "num": 227553,
-      "word": "华为三折叠价格19999起",
-      "onboard_time": 1725952821,
-      "rank": 25,
-      "category": "数码"
-    },
-    {
       "raw_hot": 225062,
       "num": 293235,
       "word": "刘学义吴谨言新剧顶疯相见",
@@ -875,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219315,
+      "num": 219315,
+      "word": "丰巢靠滞留金三年半营收8个亿",
+      "onboard_time": 1725951502,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218109,
       "num": 218109,
       "word": "原神",
@@ -891,20 +899,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215098,
-      "num": 215098,
-      "word": "丰巢靠滞留金三年半营收8个亿",
-      "onboard_time": 1725951502,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214694,
       "num": 361521,
       "word": "宋佳张桂梅 两个东北人在云南相遇",
       "onboard_time": 1725945320,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213100,
+      "num": 335216,
+      "word": "Fendi出棒棒糖包4800元1个",
+      "onboard_time": 1725949938,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212876,
@@ -947,6 +955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208117,
+      "num": 208117,
+      "word": "华为 每次都是我买单",
+      "onboard_time": 1725951559,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 207981,
       "num": 207981,
       "word": "书亦烧仙草倒闭门店太多二手设备滞销",
@@ -977,6 +993,14 @@
       "onboard_time": 1725924017,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205051,
+      "num": 205051,
+      "word": "张靓颖 华为发布会",
+      "onboard_time": 1725953659,
+      "rank": 26,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 203402,
@@ -1027,6 +1051,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198216,
+      "num": 198216,
+      "word": "华为遥遥领先",
+      "onboard_time": 1725952880,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 196053,
+      "num": 175919,
+      "word": "家教完的大学生 已老实",
+      "onboard_time": 1725951502,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 195454,
       "num": 195454,
       "word": "华为三折叠手机有黄牛定价8万",
@@ -1065,14 +1105,6 @@
       "onboard_time": 1725902115,
       "rank": 12,
       "category": "数码"
-    },
-    {
-      "raw_hot": 192158,
-      "num": 335216,
-      "word": "Fendi出棒棒糖包4800元1个",
-      "onboard_time": 1725949938,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190493,
@@ -1171,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172195,
+      "num": 172195,
+      "word": "华为三折叠全球最大最薄",
+      "onboard_time": 1725952400,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 170236,
       "num": 170236,
       "word": "天才小熊猫总结苹果发布会",
@@ -1185,14 +1225,6 @@
       "onboard_time": 1725927320,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169741,
-      "num": 169741,
-      "word": "家教完的大学生 已老实",
-      "onboard_time": 1725951502,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 169565,
@@ -1287,22 +1319,6 @@
       "num": 159837,
       "word": "罗永浩吐槽苹果又是零创新",
       "onboard_time": 1725950118,
-      "rank": 40,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 159385,
-      "num": 159385,
-      "word": "华为三折叠全球最大最薄",
-      "onboard_time": 1725952400,
-      "rank": 39,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 158773,
-      "num": 158773,
-      "word": "华为 每次都是我买单",
-      "onboard_time": 1725951559,
       "rank": 40,
       "category": "数码"
     },
@@ -1475,6 +1491,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124976,
+      "num": 124976,
+      "word": "华为首创天工铰链系统",
+      "onboard_time": 1725953659,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 124818,
+      "num": 124818,
+      "word": "华为发布会 舞蹈开场",
+      "onboard_time": 1725951020,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 124199,
       "num": 124199,
       "word": "AirPods4有降噪",
@@ -1499,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122775,
+      "num": 122775,
+      "word": "把电脑放在口袋里",
+      "onboard_time": 1725953541,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 122270,
       "num": 122270,
       "word": "中式香氛爆火",
@@ -1521,6 +1561,14 @@
       "onboard_time": 1725929838,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116772,
+      "num": 116611,
+      "word": "陈梦发文感谢每位教练",
+      "onboard_time": 1725953299,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 116601,
@@ -1644,7 +1692,7 @@
     },
     {
       "raw_hot": 91738,
-      "num": 439735,
+      "num": 1390520,
       "word": "谢谢人生中的每一位引路人",
       "onboard_time": 1725938898,
       "rank": 18,
@@ -1875,6 +1923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 58713,
+      "num": 309645,
+      "word": "自动续费的四大坑人套路",
+      "onboard_time": 1725952581,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56546,
       "num": 80628,
       "word": "比悟空画的圈都管用",
@@ -2011,6 +2067,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 42043,
+      "num": 306844,
+      "word": "大学没谈过恋爱真的遗憾吗",
+      "onboard_time": 1725952581,
+      "rank": 18,
+      "category": "社会议题"
+    },
+    {
+      "raw_hot": 41081,
+      "num": 305630,
+      "word": "男子高速上徒手拖卡车真相是挡车牌",
+      "onboard_time": 1725952040,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40858,
       "num": 40858,
       "word": "AirPods4充电盒有扬声器",
@@ -2027,28 +2099,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 39730,
-      "num": 305630,
-      "word": "男子高速上徒手拖卡车真相是挡车牌",
-      "onboard_time": 1725952040,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35374,
       "num": 207561,
       "word": "洛阳为教师点亮夜空",
       "onboard_time": 1725934697,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 34715,
-      "num": 309645,
-      "word": "自动续费的四大坑人套路",
-      "onboard_time": 1725952581,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34063,
@@ -2099,14 +2155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29372,
-      "num": 306844,
-      "word": "大学没谈过恋爱真的遗憾吗",
-      "onboard_time": 1725952581,
-      "rank": 18,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 24966,
       "num": 286740,
       "word": "沃尔沃S90守护老师的安全感",
@@ -2153,6 +2201,14 @@
       "onboard_time": 1725881540,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13528,
+      "num": 262322,
+      "word": "骗子扮苹果员工卖手机多人上当",
+      "onboard_time": 1725953599,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12704,
