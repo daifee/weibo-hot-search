@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725982634233,
+  "endTime": 1725985552565,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -8803,6 +8803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310598,
+      "num": 310598,
+      "word": "国足这都能输",
+      "onboard_time": 1725978265,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 310578,
       "num": 310578,
       "word": "逆行路虎司机不构成交通肇事逃逸",
@@ -9259,14 +9267,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 295877,
-      "num": 295877,
-      "word": "国足这都能输",
-      "onboard_time": 1725978265,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 295742,
       "num": 295742,
       "word": "潘展乐把nevergetup放简介里了",
@@ -9457,6 +9457,14 @@
       "onboard_time": 1725460583,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 287975,
+      "num": 263075,
+      "word": "花海受伤",
+      "onboard_time": 1725981683,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 287462,
@@ -11371,6 +11379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 238756,
+      "num": 391909,
+      "word": "海南目前缺什么物资",
+      "onboard_time": 1725977064,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238578,
       "num": 261017,
       "word": "weverse将转付费订阅",
@@ -11657,14 +11673,6 @@
       "onboard_time": 1725619580,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 232708,
-      "num": 232708,
-      "word": "花海受伤",
-      "onboard_time": 1725981683,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 232562,
@@ -13193,14 +13201,6 @@
       "onboard_time": 1725787760,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 207488,
-      "num": 391909,
-      "word": "海南目前缺什么物资",
-      "onboard_time": 1725977064,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207435,
@@ -18283,6 +18283,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 167083,
+      "num": 167083,
+      "word": "国足输球伊万要负主要责任",
+      "onboard_time": 1725983121,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167064,
       "num": 167064,
       "word": "迎风的青春定档",
@@ -18561,6 +18569,14 @@
       "onboard_time": 1725200241,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164609,
+      "num": 164609,
+      "word": "我就知道汉语言文学专业出路多",
+      "onboard_time": 1725979703,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 164449,
@@ -19513,14 +19529,6 @@
       "onboard_time": 1725696560,
       "rank": 46,
       "category": "互联网,科学科普"
-    },
-    {
-      "raw_hot": 158016,
-      "num": 158016,
-      "word": "我就知道汉语言文学专业出路多",
-      "onboard_time": 1725979703,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 157958,
@@ -22403,6 +22411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134072,
+      "num": 134072,
+      "word": "伊万回应是否下课",
+      "onboard_time": 1725985337,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134056,
       "num": 134056,
       "word": "医生为什么不愿意给熟人看病",
@@ -24091,6 +24107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 115560,
+      "num": 115560,
+      "word": "国足下场踢澳大利亚",
+      "onboard_time": 1725983240,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115559,
       "num": 165137,
       "word": "严浩翔西部牛仔风",
@@ -24361,6 +24385,14 @@
       "onboard_time": 1725620600,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111157,
+      "num": 122344,
+      "word": "酗酒的爸破碎的她",
+      "onboard_time": 1725982640,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 111109,
@@ -24652,7 +24684,7 @@
     },
     {
       "raw_hot": 106354,
-      "num": 106354,
+      "num": 115554,
       "word": "黄健翔解说",
       "onboard_time": 1725550342,
       "rank": 49,
@@ -24729,6 +24761,14 @@
       "onboard_time": 1725410482,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105131,
+      "num": 201717,
+      "word": "你算我二姐",
+      "onboard_time": 1725978863,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 105004,
@@ -24832,6 +24872,14 @@
       "word": "河南卫视秋晚第一波阵容官宣",
       "onboard_time": 1725885500,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 102210,
+      "num": 392997,
+      "word": "裁我可以 给钱就行",
+      "onboard_time": 1725980661,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -25411,6 +25459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90485,
+      "num": 263863,
+      "word": "法院已向被家暴一生的母亲签发保护令",
+      "onboard_time": 1725980604,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90431,
       "num": 90431,
       "word": "全球AI色情换脸受害者中一半是韩国人",
@@ -25587,6 +25643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87952,
+      "num": 115558,
+      "word": "翁青雅tomo约会",
+      "onboard_time": 1725984680,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87807,
       "num": 302755,
       "word": "500元以上的高价月饼已无生存空间",
@@ -25681,6 +25745,14 @@
       "onboard_time": 1725512601,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85954,
+      "num": 115558,
+      "word": "五月天唱了八月爱人",
+      "onboard_time": 1725984020,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 85821,
@@ -27659,14 +27731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47103,
-      "num": 392997,
-      "word": "裁我可以 给钱就行",
-      "onboard_time": 1725980661,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 46536,
       "num": 360929,
       "word": "飞霄大捷",
@@ -29115,6 +29179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31070,
+      "num": 527354,
+      "word": "各科老师硬核绝活大赏",
+      "onboard_time": 1725973164,
+      "rank": 2,
+      "category": "教育"
+    },
+    {
       "raw_hot": 30979,
       "num": 361887,
       "word": "81岁残疾教师助数千户家庭脱离贫困",
@@ -29433,14 +29505,6 @@
       "onboard_time": 1725966680,
       "rank": 37,
       "category": "网红"
-    },
-    {
-      "raw_hot": 27752,
-      "num": 201717,
-      "word": "你算我二姐",
-      "onboard_time": 1725978863,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 27661,
