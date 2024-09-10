@@ -1,0 +1,410 @@
+{
+  "runTime": 1725989811120,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 326292,
+        "num": 412206,
+        "word": "杨天真曝某男艺人拒绝过四部爆剧",
+        "onboard_time": 1725973103,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270738,
+        "num": 270738,
+        "word": "国足输球伊万要负主要责任",
+        "onboard_time": 1725983121,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19432,
+        "num": 218157,
+        "word": "各科老师硬核绝活大赏",
+        "onboard_time": 1725973164,
+        "rank": 2,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 192627,
+        "num": 192627,
+        "word": "张雨绮 千万不要对号入座",
+        "onboard_time": 1725968360,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187174,
+        "num": 187174,
+        "word": "国足vs沙特",
+        "onboard_time": 1725968840,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149293,
+        "num": 149293,
+        "word": "法院已向被家暴一生的母亲签发保护令",
+        "onboard_time": 1725980604,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141045,
+        "num": 141045,
+        "word": "书亦烧仙草为什么开不下去了",
+        "onboard_time": 1725986896,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131577,
+        "num": 131577,
+        "word": "张铭恩工作室 不演",
+        "onboard_time": 1725967160,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148415,
+        "num": 131551,
+        "word": "张雨绮你什么时候关注他",
+        "onboard_time": 1725977125,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20855,
+        "num": 130966,
+        "word": "专家称现在不是搞钱而是省钱的问题",
+        "onboard_time": 1725988634,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154256,
+        "num": 130321,
+        "word": "金毛犬扑向孕妇致受惊吓流产",
+        "onboard_time": 1725980723,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144437,
+        "num": 129832,
+        "word": "保姆一个疏忽孩子脸上缝了100多针",
+        "onboard_time": 1725975683,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129735,
+        "num": 129735,
+        "word": "乌对莫斯科发动大规模无人机袭击",
+        "onboard_time": 1725975443,
+        "rank": 12,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 117476,
+        "num": 117476,
+        "word": "张雨绮脱口秀",
+        "onboard_time": 1725968421,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104136,
+        "num": 104136,
+        "word": "花海受伤",
+        "onboard_time": 1725981683,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90708,
+        "num": 90708,
+        "word": "国足这都能输",
+        "onboard_time": 1725978265,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86871,
+        "num": 86871,
+        "word": "海南发布接受台风救灾捐赠公告",
+        "onboard_time": 1725976104,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85003,
+        "num": 85003,
+        "word": "台风后海滩上的生蚝尽量别吃",
+        "onboard_time": 1725979763,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68280,
+        "num": 68280,
+        "word": "海南目前缺什么物资",
+        "onboard_time": 1725977064,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65815,
+        "num": 67937,
+        "word": "成毅袁咏仪张智霖合照",
+        "onboard_time": 1725975024,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470129,
+        "num": 67896,
+        "word": "于是 分手了吗",
+        "onboard_time": 1725968840,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296511,
+        "num": 67879,
+        "word": "金鹰奖删除刘亦菲入围资格",
+        "onboard_time": 1725960141,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67833,
+        "num": 67833,
+        "word": "国足1比2沙特",
+        "onboard_time": 1725977305,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109175,
+        "num": 67820,
+        "word": "小杨哥 二二",
+        "onboard_time": 1725954921,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 60522,
+        "num": 67808,
+        "word": "国足 失望",
+        "onboard_time": 1725977365,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57070,
+        "num": 67796,
+        "word": "王楚钦真的拿起板又不想输了",
+        "onboard_time": 1725979402,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206481,
+        "num": 67789,
+        "word": "刘亦菲 外籍",
+        "onboard_time": 1725963019,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49653,
+        "num": 67770,
+        "word": "酗酒的爸破碎的她",
+        "onboard_time": 1725982640,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49042,
+        "num": 67753,
+        "word": "五月天唱了八月爱人",
+        "onboard_time": 1725984020,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 46682,
+        "num": 67738,
+        "word": "悬案 边水往事妈生班底",
+        "onboard_time": 1725988514,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56965,
+        "num": 67726,
+        "word": "iPhone16跑分出炉",
+        "onboard_time": 1725975263,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 55050,
+        "num": 67707,
+        "word": "沙特反超",
+        "onboard_time": 1725970882,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53919,
+        "num": 67699,
+        "word": "外媒称华为不给iPhone16蜜月期",
+        "onboard_time": 1725977605,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 52483,
+        "num": 67677,
+        "word": "老友记穿搭还是太超前了",
+        "onboard_time": 1725987555,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 52281,
+        "num": 67667,
+        "word": "库里到达成都",
+        "onboard_time": 1725979103,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46531,
+        "num": 67651,
+        "word": "我就知道汉语言文学专业出路多",
+        "onboard_time": 1725979703,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45995,
+        "num": 67631,
+        "word": "苹果店员工到华为店观看新品发布会",
+        "onboard_time": 1725976343,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 44887,
+        "num": 67631,
+        "word": "赵露思黑色无袖伞裙",
+        "onboard_time": 1725975385,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44051,
+        "num": 67615,
+        "word": "伊万 下课",
+        "onboard_time": 1725978323,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43676,
+        "num": 67597,
+        "word": "王楚钦孙颖莎久违的笑容",
+        "onboard_time": 1725970040,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43100,
+        "num": 67586,
+        "word": "张启山张起灵都是张家人",
+        "onboard_time": 1725982103,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42759,
+        "num": 67559,
+        "word": "华为三折叠价格19999起",
+        "onboard_time": 1725952821,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 39471,
+        "num": 67547,
+        "word": "赵露思粉孔雀",
+        "onboard_time": 1725978383,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38438,
+        "num": 67534,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1725989114,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 37795,
+        "num": 67518,
+        "word": "檀健次戴动感超人戒指",
+        "onboard_time": 1725989176,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36948,
+        "num": 67501,
+        "word": "迪丽热巴红衣路透",
+        "onboard_time": 1725967940,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36652,
+        "num": 67490,
+        "word": "伊万回应是否下课",
+        "onboard_time": 1725985337,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35341,
+        "num": 67472,
+        "word": "国足下场踢澳大利亚",
+        "onboard_time": 1725983240,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34340,
+        "num": 67465,
+        "word": "武磊单刀摔了",
+        "onboard_time": 1725976644,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33397,
+        "num": 67455,
+        "word": "翁青雅tomo约会",
+        "onboard_time": 1725984680,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#朝着建成教育强国战略目标扎实迈进#"
+    }
+  }
+}
