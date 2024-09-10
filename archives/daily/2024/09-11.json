@@ -1,6 +1,6 @@
 {
   "startTime": 1725985552565,
-  "endTime": 1725985552565,
+  "endTime": 1725986546038,
   "band_list": [
     {
       "raw_hot": 1172437,
@@ -35,7 +35,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 507834,
+      "raw_hot": 535920,
       "num": 229119,
       "word": "金鹰奖删除刘亦菲入围资格",
       "onboard_time": 1725960141,
@@ -49,6 +49,14 @@
       "onboard_time": 1725968360,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 371403,
+      "num": 165362,
+      "word": "刘亦菲 外籍",
+      "onboard_time": 1725963019,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 335055,
@@ -83,14 +91,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 306517,
-      "num": 165362,
-      "word": "刘亦菲 外籍",
-      "onboard_time": 1725963019,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 298409,
       "num": 298409,
       "word": "海南发布接受台风救灾捐赠公告",
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 287975,
-      "num": 263075,
+      "num": 277546,
       "word": "花海受伤",
       "onboard_time": 1725981683,
       "rank": 13,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235957,
+      "num": 227620,
+      "word": "国足输球伊万要负主要责任",
+      "onboard_time": 1725983121,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226558,
       "num": 165865,
       "word": "小杨哥 二二",
@@ -163,14 +171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167083,
-      "num": 167083,
-      "word": "国足输球伊万要负主要责任",
-      "onboard_time": 1725983121,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 164609,
       "num": 164609,
       "word": "我就知道汉语言文学专业出路多",
@@ -179,8 +179,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152634,
+      "num": 263863,
+      "word": "法院已向被家暴一生的母亲签发保护令",
+      "onboard_time": 1725980604,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137369,
-      "num": 137369,
+      "num": 149147,
       "word": "成毅袁咏仪张智霖合照",
       "onboard_time": 1725975024,
       "rank": 24,
@@ -299,14 +307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 90485,
-      "num": 263863,
-      "word": "法院已向被家暴一生的母亲签发保护令",
-      "onboard_time": 1725980604,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87952,
       "num": 115558,
       "word": "翁青雅tomo约会",
@@ -371,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75871,
+      "num": 227884,
+      "word": "台风后海滩上的生蚝尽量别吃",
+      "onboard_time": 1725979763,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73097,
       "num": 115553,
       "word": "韩乔生痛批国足主教练不动脑子",
@@ -379,15 +387,23 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68761,
-      "num": 115552,
-      "word": "台风后海滩上的生蚝尽量别吃",
-      "onboard_time": 1725979763,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 70701,
+      "num": 104718,
+      "word": "iPhone16跑分出炉",
+      "onboard_time": 1725975263,
+      "rank": 43,
+      "category": "数码"
     },
     {
-      "raw_hot": 31070,
+      "raw_hot": 64165,
+      "num": 104661,
+      "word": "边伯贤演唱会后有戒断反应",
+      "onboard_time": 1725985817,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 39803,
       "num": 527354,
       "word": "各科老师硬核绝活大赏",
       "onboard_time": 1725973164,
