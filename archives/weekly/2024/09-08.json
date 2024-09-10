@@ -1,9 +1,9 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725964815338,
+  "endTime": 1725967121270,
   "band_list": [
     {
-      "raw_hot": 13395809,
+      "raw_hot": 13597160,
       "num": 14645809,
       "word": "延迟法定退休年龄改革",
       "onboard_time": 1725963320,
@@ -371,6 +371,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1328010,
+      "num": 1328010,
+      "word": "王楚钦vs黄镇廷",
+      "onboard_time": 1725965361,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1297808,
       "num": 1297808,
       "word": "毛主席在开国大典上开心一笑",
@@ -417,6 +425,14 @@
       "onboard_time": 1725940519,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1248683,
+      "num": 365850,
+      "word": "刘亦菲 外籍",
+      "onboard_time": 1725963019,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 1242122,
@@ -771,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 816532,
+      "num": 816532,
+      "word": "延迟退休主要目的是应对人口老龄化",
+      "onboard_time": 1725965181,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 814239,
       "num": 814239,
       "word": "男子买鸡耍心眼被店主连扇4耳光",
@@ -809,14 +833,6 @@
       "onboard_time": 1725855921,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 784292,
-      "num": 342154,
-      "word": "刘亦菲 外籍",
-      "onboard_time": 1725963019,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 781170,
@@ -1475,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 480115,
+      "num": 348306,
+      "word": "90后男生成班主任的领导仍遭血脉压制",
+      "onboard_time": 1725964761,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 477530,
       "num": 477530,
       "word": "郑钦文美网轰出54记ACE排名第一",
@@ -1817,6 +1841,14 @@
       "onboard_time": 1725889279,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 397227,
+      "num": 397227,
+      "word": "王楚钦3比0战胜黄镇廷",
+      "onboard_time": 1725966740,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 396993,
@@ -2355,6 +2387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 305156,
+      "num": 305156,
+      "word": "国足首发",
+      "onboard_time": 1725963922,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304981,
       "num": 304981,
       "word": "恋与深空",
@@ -2377,6 +2417,14 @@
       "onboard_time": 1725955820,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299781,
+      "num": 299781,
+      "word": "刘美含相亲这段我血压高了",
+      "onboard_time": 1725966023,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 298956,
@@ -2467,6 +2515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285060,
+      "num": 285060,
+      "word": "十四届全国人大常委会第十一次会议",
+      "onboard_time": 1725963500,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 284845,
       "num": 284845,
       "word": "白色月牙喊话Ning",
@@ -2489,6 +2545,14 @@
       "onboard_time": 1725799400,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 282203,
+      "num": 282203,
+      "word": "国防教育法修订草案二审",
+      "onboard_time": 1725961640,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 282095,
@@ -2667,14 +2731,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 266799,
-      "num": 266799,
-      "word": "十四届全国人大常委会第十一次会议",
-      "onboard_time": 1725963500,
-      "rank": 35,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 265818,
       "num": 265818,
       "word": "iPhone16配色 垃圾袋",
@@ -2721,6 +2777,14 @@
       "onboard_time": 1725855381,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 259551,
+      "num": 259551,
+      "word": "WTT",
+      "onboard_time": 1725966382,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 258547,
@@ -3179,14 +3243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 226488,
-      "num": 226488,
-      "word": "国防教育法修订草案二审",
-      "onboard_time": 1725961640,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 225062,
       "num": 293235,
       "word": "刘学义吴谨言新剧顶疯相见",
@@ -3643,14 +3699,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 204392,
-      "num": 204392,
-      "word": "国足首发",
-      "onboard_time": 1725963922,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 204052,
       "num": 204052,
       "word": "十个勤天 我成为我的同时",
@@ -3795,6 +3843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200062,
+      "num": 200062,
+      "word": "武汉一男子疑开车撞倒多名小学生",
+      "onboard_time": 1725965061,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199788,
       "num": 199788,
       "word": "老九门2能请赵丽颖吗",
@@ -3873,6 +3929,14 @@
       "onboard_time": 1725729376,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197696,
+      "num": 197696,
+      "word": "剑来我的互联网语文老师",
+      "onboard_time": 1725966201,
+      "rank": 26,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 197172,
@@ -4169,6 +4233,14 @@
       "onboard_time": 1725783501,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187269,
+      "num": 187269,
+      "word": "一想到下周是中秋假期",
+      "onboard_time": 1725962421,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 187259,
@@ -4596,7 +4668,7 @@
     },
     {
       "raw_hot": 171661,
-      "num": 911843,
+      "num": 969758,
       "word": "教师节的顶级文案还是老师教的",
       "onboard_time": 1725956241,
       "rank": 2,
@@ -4923,6 +4995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161059,
+      "num": 161059,
+      "word": "常州双彩虹",
+      "onboard_time": 1725966023,
+      "rank": 33,
+      "category": "自然"
+    },
+    {
       "raw_hot": 160548,
       "num": 160548,
       "word": "C罗绝杀",
@@ -5041,14 +5121,6 @@
       "onboard_time": 1725928340,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158333,
-      "num": 158333,
-      "word": "一想到下周是中秋假期",
-      "onboard_time": 1725962421,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 158168,
@@ -5291,6 +5363,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 151788,
+      "num": 151788,
+      "word": "王楚钦奥运后首秀",
+      "onboard_time": 1725952459,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151750,
       "num": 151750,
       "word": "毛不易胸前开出了花",
@@ -5465,14 +5545,6 @@
       "onboard_time": 1725864079,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147333,
-      "num": 147333,
-      "word": "90后男生成班主任的领导仍遭血脉压制",
-      "onboard_time": 1725964761,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147312,
@@ -6323,6 +6395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124326,
+      "num": 124326,
+      "word": "成都地铁1号线",
+      "onboard_time": 1725966861,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124199,
       "num": 124199,
       "word": "AirPods4有降噪",
@@ -6763,6 +6843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110685,
+      "num": 110685,
+      "word": "人口老龄化已成基本国情",
+      "onboard_time": 1725966981,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110469,
       "num": 110469,
       "word": "金智媛见面会被喊金秀贤",
@@ -6905,6 +6993,14 @@
       "onboard_time": 1725880879,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106765,
+      "num": 252519,
+      "word": "12岁小孩反复高烧竟因被毒虫咬伤",
+      "onboard_time": 1725963440,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106763,
@@ -7107,6 +7203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99204,
+      "num": 387872,
+      "word": "解读延迟退休的3个原因",
+      "onboard_time": 1725966382,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99188,
       "num": 101045,
       "word": "袁隆平14万稻穗中发现天选株",
@@ -7227,6 +7331,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95313,
+      "num": 95313,
+      "word": "阿斯顿马丁官宣签约纽维",
+      "onboard_time": 1725966023,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95252,
+      "num": 95252,
+      "word": "窦靖童演唱会抢票",
+      "onboard_time": 1725965662,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 94478,
       "num": 94478,
       "word": "2024年网络安全宣传周",
@@ -7241,6 +7361,14 @@
       "onboard_time": 1725894859,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 93523,
+      "num": 93523,
+      "word": "赵露思绿色齐胸襦裙",
+      "onboard_time": 1725967041,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 93514,
@@ -7457,6 +7585,14 @@
       "onboard_time": 1725924918,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 83205,
+      "num": 366892,
+      "word": "女童骑车飞冲撞人被判主责妈妈不服",
+      "onboard_time": 1725966442,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82566,
@@ -7939,14 +8075,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 52016,
-      "num": 252519,
-      "word": "12岁小孩反复高烧竟因被毒虫咬伤",
-      "onboard_time": 1725963440,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51778,
       "num": 217811,
       "word": "假冒品牌电视机白天下架夜间上架",
@@ -8065,6 +8193,14 @@
       "onboard_time": 1725890000,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45599,
+      "num": 229765,
+      "word": "杨幂华为三折叠首发开箱",
+      "onboard_time": 1725964701,
+      "rank": 47,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 45517,
@@ -8403,6 +8539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30966,
+      "num": 305354,
+      "word": "上海抽查近视管理镜片不合格率15%",
+      "onboard_time": 1725966740,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30931,
       "num": 190801,
       "word": "王一博探险小青蛙",
@@ -8465,6 +8609,14 @@
       "onboard_time": 1725816313,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27859,
+      "num": 118806,
+      "word": "辛选主播蛋蛋助农破亿",
+      "onboard_time": 1725966680,
+      "rank": 37,
+      "category": "网红"
     },
     {
       "raw_hot": 27584,
@@ -8715,12 +8867,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17162,
-      "num": 93267,
-      "word": "杨幂华为三折叠首发开箱",
-      "onboard_time": 1725964701,
-      "rank": 47,
-      "category": "艺人,数码"
+      "raw_hot": 17042,
+      "num": 167477,
+      "word": "去新疆旅行怎么避免皮肤干燥",
+      "onboard_time": 1725964461,
+      "rank": 39,
+      "category": "美妆"
     },
     {
       "raw_hot": 15077,
@@ -8817,14 +8969,6 @@
       "onboard_time": 1725735253,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8575,
-      "num": 117223,
-      "word": "去新疆旅行怎么避免皮肤干燥",
-      "onboard_time": 1725964461,
-      "rank": 39,
-      "category": "美妆"
     }
   ],
   "hotgov_list": [
