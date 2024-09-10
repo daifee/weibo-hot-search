@@ -1,6 +1,6 @@
 {
   "startTime": 1725899204781,
-  "endTime": 1725972119097,
+  "endTime": 1725973067700,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -25,6 +25,14 @@
       "onboard_time": 1725933019,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 3246242,
+      "num": 1946232,
+      "word": "于是 分手了吗",
+      "onboard_time": 1725968840,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 3172135,
@@ -59,19 +67,19 @@
       "category": "数码"
     },
     {
-      "raw_hot": 2874869,
-      "num": 1946232,
-      "word": "于是 分手了吗",
-      "onboard_time": 1725968840,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 2826769,
-      "num": 2826769,
+      "raw_hot": 2834363,
+      "num": 2834363,
       "word": "国足vs沙特",
       "onboard_time": 1725968840,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2054286,
+      "num": 2054286,
+      "word": "沙特扳平",
+      "onboard_time": 1725970882,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -579,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 427528,
+      "num": 427528,
+      "word": "国足居然进球了",
+      "onboard_time": 1725971422,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 424752,
       "num": 424752,
       "word": "张雨绮 千万不要对号入座",
@@ -755,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 326518,
+      "num": 326518,
+      "word": "乌龙球",
+      "onboard_time": 1725971602,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 325120,
       "num": 339436,
       "word": "权志龙全平台换头像",
@@ -843,19 +867,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 296766,
+      "num": 296766,
+      "word": "人口老龄化已成基本国情",
+      "onboard_time": 1725966981,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295997,
       "num": 259854,
       "word": "辛巴喊话小杨哥替赔一亿期限将至",
       "onboard_time": 1725954380,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 295415,
-      "num": 295415,
-      "word": "人口老龄化已成基本国情",
-      "onboard_time": 1725966981,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -1048,6 +1072,14 @@
       "word": "花少6字幕加上名字了",
       "onboard_time": 1725944360,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 249814,
+      "num": 249814,
+      "word": "张雨绮脱口秀",
+      "onboard_time": 1725968421,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -1291,6 +1323,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 212736,
+      "num": 212736,
+      "word": "国足11打10",
+      "onboard_time": 1725972623,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211766,
       "num": 211766,
       "word": "田志希回应0比3输孙颖莎",
@@ -1308,19 +1348,11 @@
     },
     {
       "raw_hot": 208604,
-      "num": 237637,
+      "num": 242381,
       "word": "迪丽热巴红衣路透",
       "onboard_time": 1725967940,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208450,
-      "num": 192711,
-      "word": "国足居然进球了",
-      "onboard_time": 1725971422,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 208351,
@@ -1417,14 +1449,6 @@
       "onboard_time": 1725905233,
       "rank": 13,
       "category": "数码"
-    },
-    {
-      "raw_hot": 200275,
-      "num": 200275,
-      "word": "张雨绮脱口秀",
-      "onboard_time": 1725968421,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 200062,
@@ -1627,6 +1651,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 178688,
+      "num": 178688,
+      "word": "沙特红牌罚下一人",
+      "onboard_time": 1725971783,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178444,
       "num": 184972,
       "word": "性侵中国女游客的韩男子被求刑10年",
@@ -1673,6 +1705,14 @@
       "onboard_time": 1725940580,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 173785,
+      "num": 799319,
+      "word": "马背上劈腿",
+      "onboard_time": 1725971902,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 172578,
@@ -1753,6 +1793,14 @@
       "onboard_time": 1725895460,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166651,
+      "num": 166651,
+      "word": "宋佳说女性生育痛苦很难被分担",
+      "onboard_time": 1725972742,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 166506,
@@ -1883,20 +1931,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155311,
+      "num": 652403,
+      "word": "蒋圣龙造红牌",
+      "onboard_time": 1725971840,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155097,
       "num": 155097,
       "word": "朝着建成教育强国战略目标扎实迈进",
       "onboard_time": 1725964523,
       "rank": 31,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 154174,
-      "num": 154174,
-      "word": "乌龙球",
-      "onboard_time": 1725971602,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 153823,
@@ -2091,14 +2139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137910,
-      "num": 137910,
-      "word": "沙特红牌罚下一人",
-      "onboard_time": 1725971783,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137064,
       "num": 137064,
       "word": "谁送我16pm",
@@ -2121,6 +2161,14 @@
       "onboard_time": 1725928281,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134927,
+      "num": 521609,
+      "word": "90后体育老师自创100套国风课间操",
+      "onboard_time": 1725972142,
+      "rank": 8,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 134551,
@@ -2307,6 +2355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119210,
+      "num": 119210,
+      "word": "王楚钦回应奥运后首秀",
+      "onboard_time": 1725969921,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117877,
       "num": 117877,
       "word": "逐玉",
@@ -2329,6 +2385,14 @@
       "onboard_time": 1725970523,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115148,
+      "num": 115148,
+      "word": "2024上半年十大热搜电竞人物",
+      "onboard_time": 1725972142,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 114830,
@@ -2683,6 +2747,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 73074,
+      "num": 495693,
+      "word": "沙特球员被红牌罚下欲打裁判",
+      "onboard_time": 1725972742,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70719,
       "num": 280788,
       "word": "华为首款轿跑SUV真香",
@@ -2729,14 +2801,6 @@
       "onboard_time": 1725900676,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 62900,
-      "num": 652403,
-      "word": "蒋圣龙造红牌",
-      "onboard_time": 1725971840,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 62678,
@@ -2827,14 +2891,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 54005,
-      "num": 799319,
-      "word": "马背上劈腿",
-      "onboard_time": 1725971902,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 53638,
       "num": 366434,
       "word": "00后老师专治00后学生",
@@ -2865,6 +2921,14 @@
       "onboard_time": 1725936257,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50789,
+      "num": 557130,
+      "word": "国足18强赛首粒进球",
+      "onboard_time": 1725972321,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 50524,
@@ -2936,6 +3000,14 @@
       "word": "智界R7华为黑科技拉满",
       "onboard_time": 1725959240,
       "rank": 29,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 44851,
+      "num": 182062,
+      "word": "车圈芭莎之夜",
+      "onboard_time": 1725972142,
+      "rank": 35,
       "category": "汽车"
     },
     {
@@ -3020,7 +3092,7 @@
     },
     {
       "raw_hot": 36243,
-      "num": 137996,
+      "num": 240259,
       "word": "美好起源共庆圆满",
       "onboard_time": 1725971540,
       "rank": 41,
@@ -3107,6 +3179,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 26393,
+      "num": 2331328,
+      "word": "谢谢您照亮了我们前进的道路",
+      "onboard_time": 1725955760,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26214,
       "num": 204468,
       "word": "华为三折叠搭载3K临境大屏",
@@ -3161,14 +3241,6 @@
       "onboard_time": 1725906433,
       "rank": 24,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 19100,
-      "num": 2331328,
-      "word": "谢谢您照亮了我们前进的道路",
-      "onboard_time": 1725955760,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14490,
