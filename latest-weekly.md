@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/08 00:25:23 ~ 2024/09/11 02:28:53
+本榜单时间：2024/09/08 00:25:23 ~ 2024/09/11 02:42:00
 </p>
 </blockquote>
 <p>
@@ -7443,6 +7443,12 @@ AirPods4充电盒有扬声器（热度：40858）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E7%BE%8E%E5%A6%8610%E5%BC%BA%E4%B8%80%E5%8D%8A%E5%9C%A8%E8%A3%81%E5%91%98%E5%9B%9B%E6%88%90%E5%9C%A8%E5%85%B3%E5%BA%97%23" target="weibo">
+国际美妆10强一半在裁员四成在关店（热度：16435）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%9B%E8%BD%A6%E4%B8%8A%E4%B8%80%E8%A1%8C%E8%A1%8C%E6%A0%87%E8%AF%AD%E8%AE%A9%E4%BA%BA%E7%83%AD%E6%B3%AA%E7%9B%88%E7%9C%B6%23" target="weibo">
 军车上一行行标语让人热泪盈眶（热度：15077）
 </a>
@@ -7473,14 +7479,14 @@ AirPods4充电盒有扬声器（热度：40858）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E7%BE%8E%E5%A6%8610%E5%BC%BA%E4%B8%80%E5%8D%8A%E5%9C%A8%E8%A3%81%E5%91%98%E5%9B%9B%E6%88%90%E5%9C%A8%E5%85%B3%E5%BA%97%23" target="weibo">
-国际美妆10强一半在裁员四成在关店（热度：13677）
+<a href="https://s.weibo.com/weibo?q=%23%E9%A2%90%E8%8E%B2%E5%98%AD%E5%98%AD%E9%9C%9C%23" target="weibo">
+颐莲嘭嘭霜（热度：13288）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A2%90%E8%8E%B2%E5%98%AD%E5%98%AD%E9%9C%9C%23" target="weibo">
-颐莲嘭嘭霜（热度：13288）
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E6%8D%9E3%E4%B8%87%E6%96%A4%E9%B1%BC%E8%AF%B7%E5%B8%88%E7%94%9F%E8%BF%9E%E5%90%8310%E5%A4%A9%23" target="weibo">
+高校捞3万斤鱼请师生连吃10天（热度：13105）
 </a>
 </li>
 
