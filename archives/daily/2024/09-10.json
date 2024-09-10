@@ -1,13 +1,29 @@
 {
   "startTime": 1725899204781,
-  "endTime": 1725950587481,
+  "endTime": 1725952880259,
   "band_list": [
+    {
+      "raw_hot": 3894981,
+      "num": 304582,
+      "word": "小杨哥 出轨",
+      "onboard_time": 1725950299,
+      "rank": 20,
+      "category": "网红"
+    },
     {
       "raw_hot": 3172135,
       "num": 3172135,
       "word": "iPhone16起售价5999元",
       "onboard_time": 1725923777,
       "rank": 14,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 3121465,
+      "num": 3121465,
+      "word": "华为发布会",
+      "onboard_time": 1725946340,
+      "rank": 5,
       "category": "数码"
     },
     {
@@ -19,19 +35,19 @@
       "category": "数码"
     },
     {
+      "raw_hot": 2347539,
+      "num": 2347539,
+      "word": "华为三折叠",
+      "onboard_time": 1725933019,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 2017612,
       "num": 2017612,
       "word": "Apple发布会",
       "onboard_time": 1725901993,
       "rank": 0,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 2015681,
-      "num": 2015681,
-      "word": "华为发布会",
-      "onboard_time": 1725946340,
-      "rank": 5,
       "category": "数码"
     },
     {
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 970909,
-      "num": 658598,
+      "num": 885446,
       "word": "女子因猫咪离世压力大服药轻生",
       "onboard_time": 1725948799,
       "rank": 5,
@@ -185,6 +201,14 @@
       "onboard_time": 1725940580,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 861216,
+      "num": 290825,
+      "word": "纯爱但出轨",
+      "onboard_time": 1725950961,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 834461,
@@ -283,14 +307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 671462,
-      "num": 671462,
-      "word": "华为三折叠",
-      "onboard_time": 1725933019,
-      "rank": 36,
-      "category": "数码"
-    },
-    {
       "raw_hot": 644810,
       "num": 693713,
       "word": "刘德华演唱会摔倒",
@@ -379,11 +395,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 424786,
-      "num": 230141,
-      "word": "小杨哥 出轨",
-      "onboard_time": 1725950299,
-      "rank": 20,
+      "raw_hot": 442721,
+      "num": 442721,
+      "word": "青岛警方通报辅警违法被停职",
+      "onboard_time": 1725948260,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419274,
+      "num": 330532,
+      "word": "晚奶 意识抽离",
+      "onboard_time": 1725951620,
+      "rank": 11,
       "category": "网红"
     },
     {
@@ -433,14 +457,6 @@
       "onboard_time": 1725905594,
       "rank": 14,
       "category": "数码"
-    },
-    {
-      "raw_hot": 368399,
-      "num": 368399,
-      "word": "青岛警方通报辅警违法被停职",
-      "onboard_time": 1725948260,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 362386,
@@ -563,12 +579,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 307580,
+      "num": 307580,
+      "word": "华为三折叠颜色",
+      "onboard_time": 1725952640,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 305436,
       "num": 305436,
       "word": "科技春晚",
       "onboard_time": 1725901575,
       "rank": 9,
       "category": "数码"
+    },
+    {
+      "raw_hot": 303929,
+      "num": 303929,
+      "word": "华为品牌盛典",
+      "onboard_time": 1725947179,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 288369,
+      "num": 312957,
+      "word": "年轻人为何不再为民宿买单",
+      "onboard_time": 1725948439,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287207,
@@ -779,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227553,
+      "num": 227553,
+      "word": "华为三折叠价格19999起",
+      "onboard_time": 1725952821,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 225062,
       "num": 293235,
       "word": "刘学义吴谨言新剧顶疯相见",
@@ -827,12 +875,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218109,
+      "num": 218109,
+      "word": "原神",
+      "onboard_time": 1725950658,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 215281,
       "num": 215281,
       "word": "足协通报61人涉赌球假球",
       "onboard_time": 1725942142,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215098,
+      "num": 215098,
+      "word": "丰巢靠滞留金三年半营收8个亿",
+      "onboard_time": 1725951502,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214694,
@@ -931,14 +995,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 202328,
-      "num": 312957,
-      "word": "年轻人为何不再为民宿买单",
-      "onboard_time": 1725948439,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201858,
       "num": 201858,
       "word": "iPhone16全系价格对比",
@@ -987,6 +1043,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 193001,
+      "num": 193001,
+      "word": "宋亚轩又吃上了",
+      "onboard_time": 1725951680,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192756,
       "num": 192756,
       "word": "难以相信前后是同一件衣服",
@@ -1004,19 +1068,11 @@
     },
     {
       "raw_hot": 192158,
-      "num": 192158,
+      "num": 335216,
       "word": "Fendi出棒棒糖包4800元1个",
       "onboard_time": 1725949938,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190953,
-      "num": 192409,
-      "word": "华为品牌盛典",
-      "onboard_time": 1725947179,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 190493,
@@ -1025,6 +1081,14 @@
       "onboard_time": 1725942682,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190186,
+      "num": 190186,
+      "word": "iPhone16发布带火二手15",
+      "onboard_time": 1725950180,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 184901,
@@ -1123,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169741,
+      "num": 169741,
+      "word": "家教完的大学生 已老实",
+      "onboard_time": 1725951502,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 169565,
       "num": 169565,
       "word": "长安二十四计",
@@ -1215,6 +1287,22 @@
       "num": 159837,
       "word": "罗永浩吐槽苹果又是零创新",
       "onboard_time": 1725950118,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 159385,
+      "num": 159385,
+      "word": "华为三折叠全球最大最薄",
+      "onboard_time": 1725952400,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 158773,
+      "num": 158773,
+      "word": "华为 每次都是我买单",
+      "onboard_time": 1725951559,
       "rank": 40,
       "category": "数码"
     },
@@ -1315,14 +1403,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 140436,
-      "num": 140436,
-      "word": "iPhone16发布带火二手15",
-      "onboard_time": 1725950180,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
       "raw_hot": 140282,
       "num": 140282,
       "word": "库克发微博为苹果发布会预热",
@@ -1385,6 +1465,14 @@
       "onboard_time": 1725927259,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126224,
+      "num": 126224,
+      "word": "国足门将称不能再让全国人民失望",
+      "onboard_time": 1725950839,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 124199,
@@ -1939,12 +2027,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39730,
+      "num": 305630,
+      "word": "男子高速上徒手拖卡车真相是挡车牌",
+      "onboard_time": 1725952040,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35374,
       "num": 207561,
       "word": "洛阳为教师点亮夜空",
       "onboard_time": 1725934697,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 34715,
+      "num": 309645,
+      "word": "自动续费的四大坑人套路",
+      "onboard_time": 1725952581,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34063,
@@ -1964,7 +2068,7 @@
     },
     {
       "raw_hot": 33267,
-      "num": 698463,
+      "num": 1608140,
       "word": "这些开学寄语献给每一个你",
       "onboard_time": 1725939380,
       "rank": 2,
@@ -1979,12 +2083,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31445,
+      "num": 307209,
+      "word": "杨洋在超话许了九个愿望",
+      "onboard_time": 1725951680,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30979,
       "num": 361887,
       "word": "81岁残疾教师助数千户家庭脱离贫困",
       "onboard_time": 1725944601,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29372,
+      "num": 306844,
+      "word": "大学没谈过恋爱真的遗憾吗",
+      "onboard_time": 1725952581,
+      "rank": 18,
+      "category": "社会议题"
     },
     {
       "raw_hot": 24966,
