@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725937052356,
+  "endTime": 1725938659948,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -1667,6 +1667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1144700,
+      "num": 1183152,
+      "word": "金鹰奖入围的男女主角",
+      "onboard_time": 1725935898,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1144441,
       "num": 1144441,
       "word": "不结婚的年轻人重创钻石行业",
@@ -3211,6 +3219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 780823,
+      "num": 780823,
+      "word": "潘粤明官宣回归白夜追凶2",
+      "onboard_time": 1725934818,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 780633,
       "num": 362425,
       "word": "金店卖出16万金条后银行卡被冻结",
@@ -4713,14 +4729,6 @@
       "onboard_time": 1725191299,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 571088,
-      "num": 571088,
-      "word": "金鹰奖入围的男女主角",
-      "onboard_time": 1725935898,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 570448,
@@ -6363,6 +6371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 433335,
+      "num": 433335,
+      "word": "藏海传",
+      "onboard_time": 1725937398,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 432537,
       "num": 432537,
       "word": "2023年全国彩票17.78亿奖金未兑",
@@ -6505,14 +6521,6 @@
       "onboard_time": 1725249680,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 421475,
-      "num": 421475,
-      "word": "潘粤明官宣回归白夜追凶2",
-      "onboard_time": 1725934818,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 420907,
@@ -7273,6 +7281,14 @@
       "onboard_time": 1725780499,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 366347,
+      "num": 366347,
+      "word": "青岛辅警开私家车逆行引发热议",
+      "onboard_time": 1725936919,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 365892,
@@ -9171,6 +9187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 274011,
+      "num": 274011,
+      "word": "整治足球职业联赛假赌黑",
+      "onboard_time": 1725937699,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 273946,
       "num": 273946,
       "word": "我害怕老公的双胞胎哥哥是有理由的",
@@ -9929,6 +9953,14 @@
       "onboard_time": 1725355461,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251994,
+      "num": 502732,
+      "word": "44人因假赌黑被终身禁足",
+      "onboard_time": 1725937939,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251576,
@@ -12123,6 +12155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 207465,
+      "num": 207465,
+      "word": "iPhone16配色 垃圾袋",
+      "onboard_time": 1725938598,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 207435,
       "num": 207435,
       "word": "祁煜长思入画",
@@ -12417,6 +12457,14 @@
       "onboard_time": 1725498321,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204987,
+      "num": 204987,
+      "word": "九门官宣",
+      "onboard_time": 1725938119,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 204752,
@@ -13577,6 +13625,14 @@
       "onboard_time": 1725517520,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194424,
+      "num": 194424,
+      "word": "中国足协",
+      "onboard_time": 1725938239,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 194342,
@@ -15003,6 +15059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182342,
+      "num": 182342,
+      "word": "孙颖莎祝所有老师教练节日快乐",
+      "onboard_time": 1725938479,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182336,
       "num": 182336,
       "word": "Peanut哭了",
@@ -15387,6 +15451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178891,
+      "num": 178891,
+      "word": "金敬道被终身禁足",
+      "onboard_time": 1725938360,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178836,
       "num": 178836,
       "word": "RW对战狼队",
@@ -15449,6 +15521,14 @@
       "onboard_time": 1725865519,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178565,
+      "num": 178565,
+      "word": "影视飓风送全体员工iPhone16Pro",
+      "onboard_time": 1725938059,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 178545,
@@ -16931,6 +17011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166343,
+      "num": 166343,
+      "word": "九门",
+      "onboard_time": 1725938239,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166335,
       "num": 166335,
       "word": "完美世界定档",
@@ -17209,6 +17297,14 @@
       "onboard_time": 1725935057,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163632,
+      "num": 163632,
+      "word": "网恋4年的女友竟是已婚发小",
+      "onboard_time": 1725935778,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163566,
@@ -18811,6 +18907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151824,
+      "num": 151824,
+      "word": "苏新皓 网购需谨慎",
+      "onboard_time": 1725937278,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151817,
       "num": 151817,
       "word": "苹果中国官网显示为Apple智能预备好",
@@ -19905,14 +20009,6 @@
       "onboard_time": 1725719722,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142693,
-      "num": 142693,
-      "word": "网恋4年的女友竟是已婚发小",
-      "onboard_time": 1725935778,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142497,
@@ -21235,14 +21331,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 128402,
-      "num": 128402,
-      "word": "青岛辅警开私家车逆行引发热议",
-      "onboard_time": 1725936919,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 128108,
       "num": 128108,
       "word": "凡人歌 谢美蓝做人流",
@@ -21393,6 +21481,14 @@
       "onboard_time": 1725703578,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125760,
+      "num": 125760,
+      "word": "张远三巡官宣",
+      "onboard_time": 1725938479,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 125711,
@@ -24539,6 +24635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63489,
+      "num": 435996,
+      "word": "饭店将福寿螺冒充田螺销售",
+      "onboard_time": 1725937939,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63455,
       "num": 436889,
       "word": "放空成了消费社会的奢侈品",
@@ -25235,6 +25339,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 50347,
+      "num": 208472,
+      "word": "英国多家咖啡馆禁止顾客用电脑",
+      "onboard_time": 1725938299,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50311,
       "num": 250725,
       "word": "何浩楠何小帅的土爽面吃播vlog",
@@ -25516,7 +25628,7 @@
     },
     {
       "raw_hot": 45517,
-      "num": 119581,
+      "num": 403569,
       "word": "守护是老师的浪漫主义",
       "onboard_time": 1725936557,
       "rank": 45,
@@ -25928,6 +26040,14 @@
       "word": "2024年国家网络安全宣传周",
       "onboard_time": 1725765617,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39416,
+      "num": 514973,
+      "word": "如何落实教育惩戒权",
+      "onboard_time": 1725937638,
+      "rank": 8,
       "category": "社会新闻"
     },
     {

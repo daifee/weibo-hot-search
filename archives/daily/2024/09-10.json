@@ -1,6 +1,6 @@
 {
   "startTime": 1725899204781,
-  "endTime": 1725937052356,
+  "endTime": 1725938659948,
   "band_list": [
     {
       "raw_hot": 3172135,
@@ -75,6 +75,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1144700,
+      "num": 1183152,
+      "word": "金鹰奖入围的男女主角",
+      "onboard_time": 1725935898,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 971074,
       "num": 321415,
       "word": "女子通过蠕动解压被吐槽太抽象",
@@ -115,6 +123,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 780823,
+      "num": 780823,
+      "word": "潘粤明官宣回归白夜追凶2",
+      "onboard_time": 1725934818,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 760342,
       "num": 760342,
       "word": "库克称iPhone16是最先进的iPhone",
@@ -147,20 +163,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 671462,
+      "num": 671462,
+      "word": "华为三折叠",
+      "onboard_time": 1725933019,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 644810,
       "num": 693713,
       "word": "刘德华演唱会摔倒",
       "onboard_time": 1725893480,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 630611,
-      "num": 630611,
-      "word": "华为三折叠",
-      "onboard_time": 1725933019,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 622437,
@@ -187,14 +203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 571088,
-      "num": 571088,
-      "word": "金鹰奖入围的男女主角",
-      "onboard_time": 1725935898,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 563712,
       "num": 563712,
       "word": "优酷片单",
@@ -211,11 +219,11 @@
       "category": "数码"
     },
     {
-      "raw_hot": 421475,
-      "num": 421475,
-      "word": "潘粤明官宣回归白夜追凶2",
-      "onboard_time": 1725934818,
-      "rank": 11,
+      "raw_hot": 433335,
+      "num": 433335,
+      "word": "藏海传",
+      "onboard_time": 1725937398,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -265,6 +273,14 @@
       "onboard_time": 1725905594,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 366347,
+      "num": 366347,
+      "word": "青岛辅警开私家车逆行引发热议",
+      "onboard_time": 1725936919,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 362386,
@@ -379,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274011,
+      "num": 274011,
+      "word": "整治足球职业联赛假赌黑",
+      "onboard_time": 1725937699,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 271112,
       "num": 271112,
       "word": "华为新机提前拆封罚款50万起",
@@ -401,6 +425,14 @@
       "onboard_time": 1725931099,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 251994,
+      "num": 502732,
+      "word": "44人因假赌黑被终身禁足",
+      "onboard_time": 1725937939,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249062,
@@ -499,12 +531,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207465,
+      "num": 207465,
+      "word": "iPhone16配色 垃圾袋",
+      "onboard_time": 1725938598,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 205559,
       "num": 205559,
       "word": "成都暴雨",
       "onboard_time": 1725924017,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204987,
+      "num": 204987,
+      "word": "九门官宣",
+      "onboard_time": 1725938119,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 202631,
@@ -539,6 +587,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 194424,
+      "num": 194424,
+      "word": "中国足协",
+      "onboard_time": 1725938239,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192248,
       "num": 192248,
       "word": "Apple",
@@ -561,6 +617,30 @@
       "onboard_time": 1725888380,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182342,
+      "num": 182342,
+      "word": "孙颖莎祝所有老师教练节日快乐",
+      "onboard_time": 1725938479,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 178891,
+      "num": 178891,
+      "word": "金敬道被终身禁足",
+      "onboard_time": 1725938360,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 178565,
+      "num": 178565,
+      "word": "影视飓风送全体员工iPhone16Pro",
+      "onboard_time": 1725938059,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 178444,
@@ -611,12 +691,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166343,
+      "num": 166343,
+      "word": "九门",
+      "onboard_time": 1725938239,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163705,
       "num": 163705,
       "word": "虞书欣拍林一",
       "onboard_time": 1725935057,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163632,
+      "num": 163632,
+      "word": "网恋4年的女友竟是已婚发小",
+      "onboard_time": 1725935778,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162758,
@@ -633,6 +729,14 @@
       "onboard_time": 1725889279,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 161037,
+      "num": 161037,
+      "word": "A股",
+      "onboard_time": 1725933978,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 159898,
@@ -683,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151824,
+      "num": 151824,
+      "word": "苏新皓 网购需谨慎",
+      "onboard_time": 1725937278,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151817,
       "num": 151817,
       "word": "苹果中国官网显示为Apple智能预备好",
@@ -705,14 +817,6 @@
       "onboard_time": 1725907692,
       "rank": 30,
       "category": "游戏,数码"
-    },
-    {
-      "raw_hot": 142693,
-      "num": 142693,
-      "word": "网恋4年的女友竟是已婚发小",
-      "onboard_time": 1725935778,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140637,
@@ -771,14 +875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128402,
-      "num": 128402,
-      "word": "青岛辅警开私家车逆行引发热议",
-      "onboard_time": 1725936919,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126489,
       "num": 126489,
       "word": "猫 你再动我一下试试",
@@ -787,12 +883,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 125093,
-      "num": 125093,
-      "word": "A股",
-      "onboard_time": 1725933978,
-      "rank": 44,
-      "category": "财经"
+      "raw_hot": 125760,
+      "num": 125760,
+      "word": "张远三巡官宣",
+      "onboard_time": 1725938479,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 124199,
@@ -1139,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63489,
+      "num": 435996,
+      "word": "饭店将福寿螺冒充田螺销售",
+      "onboard_time": 1725937939,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62678,
       "num": 80633,
       "word": "王子奇上班开的车是黄景瑜的",
@@ -1187,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50347,
+      "num": 208472,
+      "word": "英国多家咖啡馆禁止顾客用电脑",
+      "onboard_time": 1725938299,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47562,
       "num": 59224,
       "word": "史上充电最快苹果手表",
@@ -1196,7 +1308,7 @@
     },
     {
       "raw_hot": 45517,
-      "num": 119581,
+      "num": 403569,
       "word": "守护是老师的浪漫主义",
       "onboard_time": 1725936557,
       "rank": 45,
@@ -1225,6 +1337,14 @@
       "onboard_time": 1725905834,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 39416,
+      "num": 514973,
+      "word": "如何落实教育惩戒权",
+      "onboard_time": 1725937638,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35374,
