@@ -1,6 +1,6 @@
 {
   "startTime": 1725899204781,
-  "endTime": 1725973067700,
+  "endTime": 1725974842121,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -19,6 +19,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 3777130,
+      "num": 1946232,
+      "word": "于是 分手了吗",
+      "onboard_time": 1725968840,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3705805,
       "num": 3705805,
       "word": "华为三折叠",
@@ -27,20 +35,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 3246242,
-      "num": 1946232,
-      "word": "于是 分手了吗",
-      "onboard_time": 1725968840,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 3172135,
       "num": 3172135,
       "word": "iPhone16起售价5999元",
       "onboard_time": 1725923777,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 3121759,
+      "num": 3121759,
+      "word": "国足vs沙特",
+      "onboard_time": 1725968840,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 3121465,
@@ -65,14 +73,6 @@
       "onboard_time": 1725906913,
       "rank": 24,
       "category": "数码"
-    },
-    {
-      "raw_hot": 2834363,
-      "num": 2834363,
-      "word": "国足vs沙特",
-      "onboard_time": 1725968840,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 2054286,
@@ -347,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 766585,
+      "num": 766585,
+      "word": "杨天真曝某男艺人拒绝过四部爆剧",
+      "onboard_time": 1725973103,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 760342,
       "num": 760342,
       "word": "库克称iPhone16是最先进的iPhone",
@@ -499,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 576333,
+      "num": 576333,
+      "word": "国足居然进球了",
+      "onboard_time": 1725971422,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 572342,
       "num": 572342,
       "word": "王楚钦孙颖莎久违的笑容",
@@ -579,20 +595,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 432502,
+      "num": 432502,
+      "word": "国足11打10",
+      "onboard_time": 1725972623,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 430585,
       "num": 430585,
       "word": "秦昊不让伊能静给自己洗袜子",
       "onboard_time": 1725954020,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 427528,
-      "num": 427528,
-      "word": "国足居然进球了",
-      "onboard_time": 1725971422,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 424752,
@@ -1067,6 +1083,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 252740,
+      "num": 433031,
+      "word": "张雨绮就差报身份证号了",
+      "onboard_time": 1725973342,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251021,
       "num": 251021,
       "word": "花少6字幕加上名字了",
@@ -1169,6 +1193,14 @@
       "onboard_time": 1725946640,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238396,
+      "num": 799319,
+      "word": "马背上劈腿",
+      "onboard_time": 1725971902,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 232562,
@@ -1321,14 +1353,6 @@
       "onboard_time": 1725927259,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 212736,
-      "num": 212736,
-      "word": "国足11打10",
-      "onboard_time": 1725972623,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 211766,
@@ -1707,14 +1731,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 173785,
-      "num": 799319,
-      "word": "马背上劈腿",
-      "onboard_time": 1725971902,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 172578,
       "num": 172578,
       "word": "赵露思曾黎又聚餐了",
@@ -1899,6 +1915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158252,
+      "num": 158252,
+      "word": "刘宇宁杀青开成了演唱会",
+      "onboard_time": 1725974483,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158110,
       "num": 468133,
       "word": "解读延迟退休的3个原因",
@@ -1961,6 +1985,14 @@
       "onboard_time": 1725937038,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 153129,
+      "num": 243420,
+      "word": "人口老龄化的4个时间点",
+      "onboard_time": 1725973462,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151997,
@@ -2145,6 +2177,14 @@
       "onboard_time": 1725906614,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 136957,
+      "num": 136957,
+      "word": "赵丽颖 没人比我更懂人味",
+      "onboard_time": 1725973642,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 136925,
@@ -2408,6 +2448,14 @@
       "word": "国足直播",
       "onboard_time": 1725967399,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 113386,
+      "num": 495693,
+      "word": "沙特球员被红牌罚下欲打裁判",
+      "onboard_time": 1725972742,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -2747,14 +2795,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 73074,
-      "num": 495693,
-      "word": "沙特球员被红牌罚下欲打裁判",
-      "onboard_time": 1725972742,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 70719,
       "num": 280788,
       "word": "华为首款轿跑SUV真香",
@@ -2875,6 +2915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55297,
+      "num": 248075,
+      "word": "广西一村庄被水泡了四个月",
+      "onboard_time": 1725973282,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54864,
       "num": 59294,
       "word": "苹果手表睡眠呼吸暂停检测功能",
@@ -2955,6 +3003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49728,
+      "num": 2078463,
+      "word": "2024最美教师发布",
+      "onboard_time": 1725973762,
+      "rank": 2,
+      "category": "教育"
+    },
+    {
       "raw_hot": 49385,
       "num": 369029,
       "word": "9年前国足曾战胜沙特",
@@ -3004,7 +3060,7 @@
     },
     {
       "raw_hot": 44851,
-      "num": 182062,
+      "num": 192874,
       "word": "车圈芭莎之夜",
       "onboard_time": 1725972142,
       "rank": 35,
@@ -3092,10 +3148,18 @@
     },
     {
       "raw_hot": 36243,
-      "num": 240259,
+      "num": 247757,
       "word": "美好起源共庆圆满",
       "onboard_time": 1725971540,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36212,
+      "num": 436118,
+      "word": "公交专用道怎么用更好",
+      "onboard_time": 1725973703,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -3195,6 +3259,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 26195,
+      "num": 246306,
+      "word": "广州部分传统饼店日销月饼过万斤",
+      "onboard_time": 1725973822,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25224,
       "num": 145770,
       "word": "问界M9五座版六座版怎么选",
@@ -3217,6 +3289,14 @@
       "onboard_time": 1725964461,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23042,
+      "num": 206256,
+      "word": "夏一平说极越07是特斯拉Model5",
+      "onboard_time": 1725973222,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 21181,
@@ -3309,6 +3389,9 @@
     },
     {
       "word": "#立德树人#"
+    },
+    {
+      "word": "#朝着建成教育强国战略目标扎实迈进#"
     }
   ]
 }

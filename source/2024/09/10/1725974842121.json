@@ -1,0 +1,410 @@
+{
+  "runTime": 1725974842121,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8428858,
+        "num": 8428858,
+        "word": "延迟法定退休年龄改革",
+        "onboard_time": 1725963320,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3121759,
+        "num": 3121759,
+        "word": "国足vs沙特",
+        "onboard_time": 1725968840,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49728,
+        "num": 2078463,
+        "word": "2024最美教师发布",
+        "onboard_time": 1725973762,
+        "rank": 2,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1615484,
+        "num": 1615484,
+        "word": "沙特扳平",
+        "onboard_time": 1725970882,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 888014,
+        "num": 888014,
+        "word": "金鹰奖删除刘亦菲入围资格",
+        "onboard_time": 1725960141,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 766585,
+        "num": 766585,
+        "word": "杨天真曝某男艺人拒绝过四部爆剧",
+        "onboard_time": 1725973103,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 576333,
+        "num": 576333,
+        "word": "国足居然进球了",
+        "onboard_time": 1725971422,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 455266,
+        "num": 455266,
+        "word": "张铭恩工作室 不演",
+        "onboard_time": 1725967160,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36212,
+        "num": 436118,
+        "word": "公交专用道怎么用更好",
+        "onboard_time": 1725973703,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252740,
+        "num": 433031,
+        "word": "张雨绮就差报身份证号了",
+        "onboard_time": 1725973342,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 432502,
+        "num": 432502,
+        "word": "国足11打10",
+        "onboard_time": 1725972623,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 423739,
+        "num": 423739,
+        "word": "刘亦菲 外籍",
+        "onboard_time": 1725963019,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 414065,
+        "num": 414065,
+        "word": "王楚钦孙颖莎久违的笑容",
+        "onboard_time": 1725970040,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251872,
+        "num": 251872,
+        "word": "华为三折叠价格19999起",
+        "onboard_time": 1725952821,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 55297,
+        "num": 248075,
+        "word": "广西一村庄被水泡了四个月",
+        "onboard_time": 1725973282,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372490,
+        "num": 248035,
+        "word": "张雨绮 千万不要对号入座",
+        "onboard_time": 1725968360,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27262,
+        "num": 247757,
+        "word": "美好起源共庆圆满",
+        "onboard_time": 1725971540,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247697,
+        "num": 247697,
+        "word": "国足看台TIFO 为国而战",
+        "onboard_time": 1725970523,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246819,
+        "num": 246819,
+        "word": "王楚钦3比0战胜黄镇廷",
+        "onboard_time": 1725966740,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26195,
+        "num": 246306,
+        "word": "广州部分传统饼店日销月饼过万斤",
+        "onboard_time": 1725973822,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3777130,
+        "num": 244182,
+        "word": "于是 分手了吗",
+        "onboard_time": 1725968840,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153129,
+        "num": 243420,
+        "word": "人口老龄化的4个时间点",
+        "onboard_time": 1725973462,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423946,
+        "num": 240609,
+        "word": "小杨哥 二二",
+        "onboard_time": 1725954921,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 249488,
+        "num": 239511,
+        "word": "张雨绮脱口秀",
+        "onboard_time": 1725968421,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238396,
+        "num": 238396,
+        "word": "马背上劈腿",
+        "onboard_time": 1725971902,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67663,
+        "num": 236596,
+        "word": "90后体育老师自创100套国风课间操",
+        "onboard_time": 1725972142,
+        "rank": 25,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 235979,
+        "num": 235979,
+        "word": "人口老龄化已成基本国情",
+        "onboard_time": 1725966981,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209740,
+        "num": 209740,
+        "word": "华为三折叠",
+        "onboard_time": 1725951080,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 190653,
+        "num": 207335,
+        "word": "徐明浩遗憾告别心动的信号",
+        "onboard_time": 1725970822,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23042,
+        "num": 206256,
+        "word": "夏一平说极越07是特斯拉Model5",
+        "onboard_time": 1725973222,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 205587,
+        "num": 205587,
+        "word": "王楚钦 拽哥你好",
+        "onboard_time": 1725970762,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200165,
+        "num": 200165,
+        "word": "乌龙球",
+        "onboard_time": 1725971602,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25526,
+        "num": 192874,
+        "word": "车圈芭莎之夜",
+        "onboard_time": 1725972142,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 189688,
+        "num": 189688,
+        "word": "女童骑车飞冲撞人被判主责妈妈不服",
+        "onboard_time": 1725966442,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182841,
+        "num": 182841,
+        "word": "76岁阿姨户口本突然多出1个妹妹",
+        "onboard_time": 1725960200,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182265,
+        "num": 182265,
+        "word": "迪丽热巴红衣路透",
+        "onboard_time": 1725967940,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176485,
+        "num": 176485,
+        "word": "90后男生成班主任的领导仍遭血脉压制",
+        "onboard_time": 1725964761,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166482,
+        "num": 166482,
+        "word": "国防教育法修订草案二审",
+        "onboard_time": 1725961640,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 161870,
+        "num": 161870,
+        "word": "国足",
+        "onboard_time": 1725941181,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158252,
+        "num": 158252,
+        "word": "刘宇宁杀青开成了演唱会",
+        "onboard_time": 1725974483,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140301,
+        "num": 140301,
+        "word": "解读延迟退休的3个原因",
+        "onboard_time": 1725966382,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138185,
+        "num": 138185,
+        "word": "刘美含相亲这段我血压高了",
+        "onboard_time": 1725966023,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136957,
+        "num": 136957,
+        "word": "赵丽颖 没人比我更懂人味",
+        "onboard_time": 1725973642,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134297,
+        "num": 134297,
+        "word": "华为发布会",
+        "onboard_time": 1725946340,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 131243,
+        "num": 131243,
+        "word": "iPhone16真机上手",
+        "onboard_time": 1725934039,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 118592,
+        "num": 118592,
+        "word": "国足首发",
+        "onboard_time": 1725963922,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116781,
+        "num": 116781,
+        "word": "小英在上海走上了红毯",
+        "onboard_time": 1725967760,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 123359,
+        "num": 115294,
+        "word": "赵露思赵丽颖演同一小说",
+        "onboard_time": 1725954561,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113386,
+        "num": 113386,
+        "word": "沙特球员被红牌罚下欲打裁判",
+        "onboard_time": 1725972742,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107707,
+        "num": 107707,
+        "word": "沙特红牌罚下一人",
+        "onboard_time": 1725971783,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#朝着建成教育强国战略目标扎实迈进#"
+    }
+  }
+}

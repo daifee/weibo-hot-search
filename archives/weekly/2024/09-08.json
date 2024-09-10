@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725973067700,
+  "endTime": 1725974842121,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -19,6 +19,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 3777130,
+      "num": 1946232,
+      "word": "于是 分手了吗",
+      "onboard_time": 1725968840,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3705805,
       "num": 3705805,
       "word": "华为三折叠",
@@ -27,20 +35,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 3246242,
-      "num": 1946232,
-      "word": "于是 分手了吗",
-      "onboard_time": 1725968840,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 3172135,
       "num": 3172135,
       "word": "iPhone16起售价5999元",
       "onboard_time": 1725923777,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 3121759,
+      "num": 3121759,
+      "word": "国足vs沙特",
+      "onboard_time": 1725968840,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 3121465,
@@ -73,14 +81,6 @@
       "onboard_time": 1725906913,
       "rank": 24,
       "category": "数码"
-    },
-    {
-      "raw_hot": 2834363,
-      "num": 2834363,
-      "word": "国足vs沙特",
-      "onboard_time": 1725968840,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 2331163,
@@ -923,6 +923,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 766585,
+      "num": 766585,
+      "word": "杨天真曝某男艺人拒绝过四部爆剧",
+      "onboard_time": 1725973103,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 762021,
       "num": 762021,
       "word": "教师节前班主任开家长会嘱咐别送礼",
@@ -1289,6 +1297,14 @@
       "onboard_time": 1725888859,
       "rank": 45,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 576333,
+      "num": 576333,
+      "word": "国足居然进球了",
+      "onboard_time": 1725971422,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 572342,
@@ -1715,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 432502,
+      "num": 432502,
+      "word": "国足11打10",
+      "onboard_time": 1725972623,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 430808,
       "num": 430808,
       "word": "莫雷加德说国乒最好的朋友是王楚钦",
@@ -1737,14 +1761,6 @@
       "onboard_time": 1725852499,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 427528,
-      "num": 427528,
-      "word": "国足居然进球了",
-      "onboard_time": 1725971422,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 426983,
@@ -2971,6 +2987,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 252740,
+      "num": 433031,
+      "word": "张雨绮就差报身份证号了",
+      "onboard_time": 1725973342,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252368,
       "num": 252368,
       "word": "金店卖出16万金条后银行卡被冻结",
@@ -3185,6 +3209,14 @@
       "onboard_time": 1725869358,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 238396,
+      "num": 799319,
+      "word": "马背上劈腿",
+      "onboard_time": 1725971902,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 235693,
@@ -3633,14 +3665,6 @@
       "onboard_time": 1725927259,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 212736,
-      "num": 212736,
-      "word": "国足11打10",
-      "onboard_time": 1725972623,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 211864,
@@ -4787,14 +4811,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 173785,
-      "num": 799319,
-      "word": "马背上劈腿",
-      "onboard_time": 1725971902,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 173761,
       "num": 173761,
       "word": "粉笔模考",
@@ -5323,6 +5339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158252,
+      "num": 158252,
+      "word": "刘宇宁杀青开成了演唱会",
+      "onboard_time": 1725974483,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158168,
       "num": 158168,
       "word": "星穹铁道飞霄PV",
@@ -5529,6 +5553,14 @@
       "onboard_time": 1725767120,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153129,
+      "num": 243420,
+      "word": "人口老龄化的4个时间点",
+      "onboard_time": 1725973462,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152951,
@@ -6153,6 +6185,14 @@
       "onboard_time": 1725715520,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136957,
+      "num": 136957,
+      "word": "赵丽颖 没人比我更懂人味",
+      "onboard_time": 1725973642,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 136925,
@@ -7067,6 +7107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 113386,
+      "num": 495693,
+      "word": "沙特球员被红牌罚下欲打裁判",
+      "onboard_time": 1725972742,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113324,
       "num": 113324,
       "word": "谷爱凌回应世界杯夺冠",
@@ -7939,14 +7987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 73074,
-      "num": 495693,
-      "word": "沙特球员被红牌罚下欲打裁判",
-      "onboard_time": 1725972742,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 72842,
       "num": 72842,
       "word": "高反的王一博",
@@ -8259,6 +8299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 55297,
+      "num": 248075,
+      "word": "广西一村庄被水泡了四个月",
+      "onboard_time": 1725973282,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55015,
       "num": 310463,
       "word": "天价理发店不能惯着",
@@ -8427,6 +8475,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 49728,
+      "num": 2078463,
+      "word": "2024最美教师发布",
+      "onboard_time": 1725973762,
+      "rank": 2,
+      "category": "教育"
+    },
+    {
       "raw_hot": 49385,
       "num": 369029,
       "word": "9年前国足曾战胜沙特",
@@ -8508,7 +8564,7 @@
     },
     {
       "raw_hot": 44851,
-      "num": 182062,
+      "num": 192874,
       "word": "车圈芭莎之夜",
       "onboard_time": 1725972142,
       "rank": 35,
@@ -8716,10 +8772,18 @@
     },
     {
       "raw_hot": 36243,
-      "num": 240259,
+      "num": 247757,
       "word": "美好起源共庆圆满",
       "onboard_time": 1725971540,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36212,
+      "num": 436118,
+      "word": "公交专用道怎么用更好",
+      "onboard_time": 1725973703,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -8971,6 +9035,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 26195,
+      "num": 246306,
+      "word": "广州部分传统饼店日销月饼过万斤",
+      "onboard_time": 1725973822,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26023,
       "num": 94646,
       "word": "中国消防员13秒攀登挂钩梯上四楼",
@@ -9065,6 +9137,14 @@
       "onboard_time": 1725964461,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23042,
+      "num": 206256,
+      "word": "夏一平说极越07是特斯拉Model5",
+      "onboard_time": 1725973222,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 22543,
@@ -9328,6 +9408,9 @@
     },
     {
       "word": "#立德树人#"
+    },
+    {
+      "word": "#朝着建成教育强国战略目标扎实迈进#"
     }
   ]
 }
