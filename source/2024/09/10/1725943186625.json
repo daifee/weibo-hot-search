@@ -1,0 +1,410 @@
+{
+  "runTime": 1725943186625,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1217052,
+        "num": 1217052,
+        "word": "金鹰奖入围的男女主角",
+        "onboard_time": 1725935898,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 584178,
+        "num": 584178,
+        "word": "孙颖莎祝所有老师教练节日快乐",
+        "onboard_time": 1725938479,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31795,
+        "num": 553087,
+        "word": "这些开学寄语献给每一个你",
+        "onboard_time": 1725939380,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1273763,
+        "num": 549193,
+        "word": "iPhone16真机上手",
+        "onboard_time": 1725934039,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1039925,
+        "num": 545788,
+        "word": "九门官宣",
+        "onboard_time": 1725938119,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 539804,
+        "num": 539804,
+        "word": "教师节",
+        "onboard_time": 1725923597,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 902226,
+        "num": 536765,
+        "word": "陈伟霆 佛爷",
+        "onboard_time": 1725940822,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 886081,
+        "num": 536488,
+        "word": "赵露思一天官宣两部大女主剧",
+        "onboard_time": 1725940580,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59267,
+        "num": 531159,
+        "word": "国足战沙特23人名单出炉",
+        "onboard_time": 1725930020,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56258,
+        "num": 529182,
+        "word": "取消来电显示费必须购买新套餐",
+        "onboard_time": 1725941840,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1736544,
+        "num": 527130,
+        "word": "iPhone16起售价5999元",
+        "onboard_time": 1725923777,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 524011,
+        "num": 524011,
+        "word": "44人因假赌黑被终身禁足",
+        "onboard_time": 1725937939,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1090526,
+        "num": 522235,
+        "word": "姜妍带男友参加宋丹丹生日聚会",
+        "onboard_time": 1725940519,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 711119,
+        "num": 515133,
+        "word": "青岛辅警开私家车逆行引发热议",
+        "onboard_time": 1725936919,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50147,
+        "num": 507137,
+        "word": "男子轻信低息贷款被骗10万元",
+        "onboard_time": 1725942021,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678711,
+        "num": 503572,
+        "word": "华为 电子茅台",
+        "onboard_time": 1725941902,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 621593,
+        "num": 501416,
+        "word": "优酷 王炸储备",
+        "onboard_time": 1725940039,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67484,
+        "num": 494640,
+        "word": "谢可寅好会跳 黄景瑜王子奇也动了",
+        "onboard_time": 1725942262,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 663604,
+        "num": 489041,
+        "word": "苹果配色好丑",
+        "onboard_time": 1725907032,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 80410,
+        "num": 480170,
+        "word": "香菜身价飙升到底都是谁在吃",
+        "onboard_time": 1725941541,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619040,
+        "num": 474391,
+        "word": "九门 张艺兴",
+        "onboard_time": 1725940701,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 473179,
+        "num": 473179,
+        "word": "藏海传",
+        "onboard_time": 1725937398,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 408364,
+        "num": 408364,
+        "word": "赛琳娜说自己永远没办法生孩子了",
+        "onboard_time": 1725926059,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382549,
+        "num": 382549,
+        "word": "苹果 挤牙膏",
+        "onboard_time": 1725935299,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 358537,
+        "num": 358537,
+        "word": "张翰拍公主抱脖子都红温了",
+        "onboard_time": 1725933919,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364195,
+        "num": 357753,
+        "word": "苹果发布会",
+        "onboard_time": 1725902474,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 330335,
+        "num": 330335,
+        "word": "七年了 终于等到了",
+        "onboard_time": 1725941660,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311135,
+        "num": 311135,
+        "word": "网恋4年的女友竟是已婚发小",
+        "onboard_time": 1725935778,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299655,
+        "num": 299655,
+        "word": "潘粤明官宣回归白夜追凶2",
+        "onboard_time": 1725934818,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287207,
+        "num": 287207,
+        "word": "藏海传 大男主",
+        "onboard_time": 1725942562,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277013,
+        "num": 277013,
+        "word": "白夜追凶2预告",
+        "onboard_time": 1725941302,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276154,
+        "num": 276154,
+        "word": "情侣买房后分手女方觉得被骗",
+        "onboard_time": 1725942801,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274831,
+        "num": 274831,
+        "word": "当饮料的含糖量可视化展示",
+        "onboard_time": 1725941780,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 271956,
+        "num": 271956,
+        "word": "华为三折叠",
+        "onboard_time": 1725933019,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 267837,
+        "num": 267837,
+        "word": "央视今晚还是不转播国足比赛",
+        "onboard_time": 1725939318,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255740,
+        "num": 255740,
+        "word": "优酷一口气官宣36档综艺",
+        "onboard_time": 1725943100,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260225,
+        "num": 249899,
+        "word": "金靖与老公医院做产检",
+        "onboard_time": 1725942861,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240017,
+        "num": 240017,
+        "word": "iPhone16配色 垃圾袋",
+        "onboard_time": 1725938598,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 217611,
+        "num": 217611,
+        "word": "饭店将福寿螺冒充田螺销售",
+        "onboard_time": 1725937939,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232825,
+        "num": 216715,
+        "word": "官网下架iPhone15Pro",
+        "onboard_time": 1725924198,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 215281,
+        "num": 215281,
+        "word": "足协通报61人涉赌球假球",
+        "onboard_time": 1725942142,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207741,
+        "num": 207741,
+        "word": "限3玩1限1玩3限2玩3限4玩2",
+        "onboard_time": 1725942381,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199010,
+        "num": 199010,
+        "word": "这是我的岛 去印度",
+        "onboard_time": 1725943043,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190493,
+        "num": 194869,
+        "word": "这是我的岛2西游篇",
+        "onboard_time": 1725942682,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193444,
+        "num": 193444,
+        "word": "男子买鸡耍心眼被店主连扇4耳光",
+        "onboard_time": 1725927621,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193008,
+        "num": 193008,
+        "word": "张杰工作室道歉",
+        "onboard_time": 1725891501,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192756,
+        "num": 192756,
+        "word": "难以相信前后是同一件衣服",
+        "onboard_time": 1725942921,
+        "rank": 46,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 191888,
+        "num": 191888,
+        "word": "王楚钦樊振东排名前二",
+        "onboard_time": 1725936257,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189559,
+        "num": 189559,
+        "word": "范志毅谈国足战沙特",
+        "onboard_time": 1725940279,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188353,
+        "num": 188353,
+        "word": "刘学义吴谨言新剧顶疯相见",
+        "onboard_time": 1725940999,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在全国教育大会上发表重要讲话#"
+    }
+  }
+}
