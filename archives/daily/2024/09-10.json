@@ -1,6 +1,6 @@
 {
   "startTime": 1725899204781,
-  "endTime": 1725975511102,
+  "endTime": 1725978041856,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -9,6 +9,14 @@
       "onboard_time": 1725963320,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7185041,
+      "num": 7185041,
+      "word": "国足vs沙特",
+      "onboard_time": 1725968840,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 3894981,
@@ -35,14 +43,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 3174365,
-      "num": 3174365,
-      "word": "国足vs沙特",
-      "onboard_time": 1725968840,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 3172135,
       "num": 3172135,
       "word": "iPhone16起售价5999元",
@@ -65,6 +65,14 @@
       "onboard_time": 1725960141,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2969722,
+      "num": 2969722,
+      "word": "国足1比2沙特",
+      "onboard_time": 1725977305,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 2918704,
@@ -243,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1008554,
+      "num": 1008554,
+      "word": "杨天真曝某男艺人拒绝过四部爆剧",
+      "onboard_time": 1725973103,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 971074,
       "num": 321415,
       "word": "女子通过蠕动解压被吐槽太抽象",
@@ -307,12 +323,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 845376,
-      "num": 845376,
-      "word": "杨天真曝某男艺人拒绝过四部爆剧",
-      "onboard_time": 1725973103,
+      "raw_hot": 879032,
+      "num": 154342,
+      "word": "沙特反超",
+      "onboard_time": 1725970882,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 853257,
+      "num": 853257,
+      "word": "保姆一个疏忽孩子脸上缝了100多针",
+      "onboard_time": 1725975683,
       "rank": 5,
-      "category": "艺人"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 834461,
@@ -355,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 773813,
+      "num": 773813,
+      "word": "国足 失望",
+      "onboard_time": 1725977365,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 760342,
       "num": 760342,
       "word": "库克称iPhone16是最先进的iPhone",
@@ -393,6 +425,14 @@
       "onboard_time": 1725906314,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 707470,
+      "num": 707470,
+      "word": "国足11打10",
+      "onboard_time": 1725972623,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 696185,
@@ -539,14 +579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 525794,
-      "num": 525794,
-      "word": "国足11打10",
-      "onboard_time": 1725972623,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 497837,
       "num": 489758,
       "word": "这是我的岛 去印度",
@@ -579,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 457101,
+      "num": 457101,
+      "word": "武磊单刀摔了",
+      "onboard_time": 1725976644,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 451526,
       "num": 451526,
       "word": "周扬青说恋综男嘉宾像杀猪盘",
@@ -593,6 +633,14 @@
       "onboard_time": 1725948260,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 442202,
+      "num": 442202,
+      "word": "成毅袁咏仪张智霖合照",
+      "onboard_time": 1725975024,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 433219,
@@ -665,6 +713,14 @@
       "onboard_time": 1725959180,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390047,
+      "num": 390047,
+      "word": "乌对莫斯科发动大规模无人机袭击",
+      "onboard_time": 1725975443,
+      "rank": 23,
+      "category": "国外时政,军事"
     },
     {
       "raw_hot": 389440,
@@ -779,14 +835,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 338342,
-      "num": 338342,
-      "word": "成毅袁咏仪张智霖合照",
-      "onboard_time": 1725975024,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 332509,
       "num": 332509,
       "word": "林依晨自曝失恋经历",
@@ -851,6 +899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 315090,
+      "num": 315090,
+      "word": "国足进球被判无效",
+      "onboard_time": 1725976584,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 311135,
       "num": 311135,
       "word": "网恋4年的女友竟是已婚发小",
@@ -873,6 +929,14 @@
       "onboard_time": 1725876018,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 306487,
+      "num": 306487,
+      "word": "赵露思黑色无袖伞裙",
+      "onboard_time": 1725975385,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 305915,
@@ -1051,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267752,
+      "num": 267752,
+      "word": "海南发布接受台风救灾捐赠公告",
+      "onboard_time": 1725976104,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265818,
       "num": 265818,
       "word": "iPhone16配色 垃圾袋",
@@ -1195,6 +1267,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 241546,
+      "num": 427766,
+      "word": "人口老龄化的4个时间点",
+      "onboard_time": 1725973462,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241115,
       "num": 241115,
       "word": "张颂文首部男主古装悬疑剧",
@@ -1209,14 +1289,6 @@
       "onboard_time": 1725971902,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 237400,
-      "num": 237400,
-      "word": "乌对莫斯科发动大规模无人机袭击",
-      "onboard_time": 1725975443,
-      "rank": 23,
-      "category": "国外时政,军事"
     },
     {
       "raw_hot": 232562,
@@ -1355,6 +1427,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 213335,
+      "num": 711728,
+      "word": "张雨绮你什么时候关注他",
+      "onboard_time": 1725977125,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213100,
       "num": 335216,
       "word": "Fendi出棒棒糖包4800元1个",
@@ -1376,6 +1456,14 @@
       "word": "田志希回应0比3输孙颖莎",
       "onboard_time": 1725944481,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 210641,
+      "num": 210641,
+      "word": "国足",
+      "onboard_time": 1725941181,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -1435,14 +1523,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 207420,
-      "num": 207420,
-      "word": "国足",
-      "onboard_time": 1725941181,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 206316,
       "num": 206316,
       "word": "墨雨爆了我有多爽你们知道吗",
@@ -1467,6 +1547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202632,
+      "num": 202632,
+      "word": "外媒称华为不给iPhone16蜜月期",
+      "onboard_time": 1725977605,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 202631,
       "num": 202631,
       "word": "AirPods Max换了C口",
@@ -1475,12 +1563,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 202079,
+      "num": 202079,
+      "word": "伊万 不换人",
+      "onboard_time": 1725977725,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201858,
       "num": 201858,
       "word": "iPhone16全系价格对比",
       "onboard_time": 1725924257,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 201230,
+      "num": 201230,
+      "word": "张本美和3比0杨晓欣",
+      "onboard_time": 1725976644,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 201021,
@@ -1523,6 +1627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198604,
+      "num": 198604,
+      "word": "国足教练",
+      "onboard_time": 1725977246,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198216,
       "num": 198216,
       "word": "华为遥遥领先",
@@ -1531,20 +1643,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 198084,
+      "num": 198084,
+      "word": "海南目前缺什么物资",
+      "onboard_time": 1725977064,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197696,
       "num": 197696,
       "word": "剑来我的互联网语文老师",
       "onboard_time": 1725966201,
       "rank": 26,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 196735,
-      "num": 427766,
-      "word": "人口老龄化的4个时间点",
-      "onboard_time": 1725973462,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196053,
@@ -1625,6 +1737,14 @@
       "onboard_time": 1725942682,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188833,
+      "num": 198102,
+      "word": "苹果店员工到华为店观看新品发布会",
+      "onboard_time": 1725976343,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 187746,
@@ -1737,6 +1857,14 @@
       "onboard_time": 1725943642,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 176590,
+      "num": 176590,
+      "word": "张本智和3比1松岛辉空",
+      "onboard_time": 1725975562,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 175998,
@@ -1865,14 +1993,6 @@
       "onboard_time": 1725900436,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166229,
-      "num": 166229,
-      "word": "赵露思黑色无袖伞裙",
-      "onboard_time": 1725975385,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 166067,
@@ -2011,6 +2131,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 154131,
+      "num": 154131,
+      "word": "王楚钦感谢每位教练",
+      "onboard_time": 1725977003,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 154027,
+      "num": 154027,
+      "word": "iPhone16跑分出炉",
+      "onboard_time": 1725975263,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 153823,
       "num": 153823,
       "word": "运动必须30分钟以上才能减肥吗",
@@ -2025,6 +2161,14 @@
       "onboard_time": 1725937038,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 152989,
+      "num": 198337,
+      "word": "胸肌再大也不如胸肌下的那颗良心大",
+      "onboard_time": 1725975744,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 151997,
@@ -2819,6 +2963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 77062,
+      "num": 3909497,
+      "word": "2024最美教师发布",
+      "onboard_time": 1725973762,
+      "rank": 2,
+      "category": "教育"
+    },
+    {
       "raw_hot": 76654,
       "num": 282111,
       "word": "iPhone16首次支持花呗24期免息",
@@ -2883,14 +3035,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 64249,
-      "num": 2078463,
-      "word": "2024最美教师发布",
-      "onboard_time": 1725973762,
-      "rank": 2,
-      "category": "教育"
-    },
-    {
       "raw_hot": 64114,
       "num": 184430,
       "word": "张翰新剧",
@@ -2899,20 +3043,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63234,
+      "num": 708986,
+      "word": "女格斗员遭猥亵不出手是崇德不逞蛮力",
+      "onboard_time": 1725975322,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63016,
       "num": 263354,
       "word": "郑北姜小海十年后相认",
       "onboard_time": 1725975024,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 62744,
-      "num": 171052,
-      "word": "女格斗员遭猥亵不出手是崇德不逞蛮力",
-      "onboard_time": 1725975322,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62678,
@@ -2927,6 +3071,14 @@
       "num": 75143,
       "word": "AirPods Max新颜色",
       "onboard_time": 1725904933,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 61423,
+      "num": 198134,
+      "word": "叔圈天菜今晚都在这儿了",
+      "onboard_time": 1725977125,
       "rank": 36,
       "category": "数码"
     },
@@ -3347,6 +3499,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 23908,
+      "num": 154211,
+      "word": "刘德华说最重要的是做回华仔",
+      "onboard_time": 1725975802,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 23114,
       "num": 278027,
       "word": "200元买迪奥古驰月饼买到三无产品",
@@ -3385,6 +3545,14 @@
       "onboard_time": 1725906433,
       "rank": 24,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 17255,
+      "num": 442762,
+      "word": "男子深陷刷单返利陷阱",
+      "onboard_time": 1725977125,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14490,

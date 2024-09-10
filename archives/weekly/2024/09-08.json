@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725975511102,
+  "endTime": 1725978041856,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -9,6 +9,14 @@
       "onboard_time": 1725963320,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7185041,
+      "num": 7185041,
+      "word": "国足vs沙特",
+      "onboard_time": 1725968840,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 3894981,
@@ -35,14 +43,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 3174365,
-      "num": 3174365,
-      "word": "国足vs沙特",
-      "onboard_time": 1725968840,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 3172135,
       "num": 3172135,
       "word": "iPhone16起售价5999元",
@@ -65,6 +65,14 @@
       "onboard_time": 1725960141,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2969722,
+      "num": 2969722,
+      "word": "国足1比2沙特",
+      "onboard_time": 1725977305,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 2936434,
@@ -619,6 +627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1008554,
+      "num": 1008554,
+      "word": "杨天真曝某男艺人拒绝过四部爆剧",
+      "onboard_time": 1725973103,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1003322,
       "num": 1003322,
       "word": "央视曝光轻医美乱象",
@@ -771,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 879032,
+      "num": 154342,
+      "word": "沙特反超",
+      "onboard_time": 1725970882,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 870071,
       "num": 238997,
       "word": "烟卡",
@@ -787,20 +811,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 853257,
+      "num": 853257,
+      "word": "保姆一个疏忽孩子脸上缝了100多针",
+      "onboard_time": 1725975683,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 846403,
       "num": 846403,
       "word": "玄彬 孙艺珍仅是存在我就非常感谢了",
       "onboard_time": 1725871941,
       "rank": 1,
       "category": "电影"
-    },
-    {
-      "raw_hot": 845376,
-      "num": 845376,
-      "word": "杨天真曝某男艺人拒绝过四部爆剧",
-      "onboard_time": 1725973103,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 834461,
@@ -923,6 +947,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 773813,
+      "num": 773813,
+      "word": "国足 失望",
+      "onboard_time": 1725977365,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 769001,
       "num": 769001,
       "word": "19岁学生因iPhone进水不保修起诉苹果",
@@ -1025,6 +1057,14 @@
       "onboard_time": 1725906314,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 707470,
+      "num": 707470,
+      "word": "国足11打10",
+      "onboard_time": 1725972623,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 705660,
@@ -1435,14 +1475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 525794,
-      "num": 525794,
-      "word": "国足11打10",
-      "onboard_time": 1725972623,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 523627,
       "num": 514454,
       "word": "赵丽颖带想想现身公园玩沙子",
@@ -1659,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 457101,
+      "num": 457101,
+      "word": "武磊单刀摔了",
+      "onboard_time": 1725976644,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 453584,
       "num": 453584,
       "word": "网红名号不是三无食品的遮羞布",
@@ -1697,6 +1737,14 @@
       "onboard_time": 1725948260,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 442202,
+      "num": 442202,
+      "word": "成毅袁咏仪张智霖合照",
+      "onboard_time": 1725975024,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 442048,
@@ -1979,6 +2027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 390047,
+      "num": 390047,
+      "word": "乌对莫斯科发动大规模无人机袭击",
+      "onboard_time": 1725975443,
+      "rank": 23,
+      "category": "国外时政,军事"
+    },
+    {
       "raw_hot": 389440,
       "num": 433031,
       "word": "张雨绮就差报身份证号了",
@@ -2259,14 +2315,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 338342,
-      "num": 338342,
-      "word": "成毅袁咏仪张智霖合照",
-      "onboard_time": 1725975024,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 337570,
       "num": 217815,
       "word": "沙和尚被贬下界来不是没道理的",
@@ -2411,6 +2459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 315090,
+      "num": 315090,
+      "word": "国足进球被判无效",
+      "onboard_time": 1725976584,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 312483,
       "num": 312483,
       "word": "赵丽颖还给张碧晨录了视频",
@@ -2497,6 +2553,14 @@
       "onboard_time": 1725806601,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 306487,
+      "num": 306487,
+      "word": "赵露思黑色无袖伞裙",
+      "onboard_time": 1725975385,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 305915,
@@ -2867,6 +2931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267752,
+      "num": 267752,
+      "word": "海南发布接受台风救灾捐赠公告",
+      "onboard_time": 1725976104,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267373,
       "num": 267373,
       "word": "孟晚舟刘德华演唱会比心互动",
@@ -3171,6 +3243,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 241546,
+      "num": 427766,
+      "word": "人口老龄化的4个时间点",
+      "onboard_time": 1725973462,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241115,
       "num": 241115,
       "word": "张颂文首部男主古装悬疑剧",
@@ -3225,14 +3305,6 @@
       "onboard_time": 1725971902,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 237400,
-      "num": 237400,
-      "word": "乌对莫斯科发动大规模无人机袭击",
-      "onboard_time": 1725975443,
-      "rank": 23,
-      "category": "国外时政,军事"
     },
     {
       "raw_hot": 235693,
@@ -3651,6 +3723,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 213335,
+      "num": 711728,
+      "word": "张雨绮你什么时候关注他",
+      "onboard_time": 1725977125,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213313,
       "num": 213313,
       "word": "小杨哥带货标注直播间及橱窗非销售者",
@@ -3705,6 +3785,14 @@
       "onboard_time": 1725805041,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 210641,
+      "num": 210641,
+      "word": "国足",
+      "onboard_time": 1725856581,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 210403,
@@ -3793,14 +3881,6 @@
       "onboard_time": 1725787760,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 207420,
-      "num": 207420,
-      "word": "国足",
-      "onboard_time": 1725856581,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 206436,
@@ -3947,6 +4027,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 202632,
+      "num": 202632,
+      "word": "外媒称华为不给iPhone16蜜月期",
+      "onboard_time": 1725977605,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 202631,
       "num": 202631,
       "word": "AirPods Max换了C口",
@@ -3969,6 +4057,14 @@
       "onboard_time": 1725800898,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202079,
+      "num": 202079,
+      "word": "伊万 不换人",
+      "onboard_time": 1725977725,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 202035,
@@ -4009,6 +4105,14 @@
       "onboard_time": 1725751334,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 201230,
+      "num": 201230,
+      "word": "张本美和3比0杨晓欣",
+      "onboard_time": 1725976644,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 201021,
@@ -4091,6 +4195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198604,
+      "num": 198604,
+      "word": "国足教练",
+      "onboard_time": 1725977246,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198593,
       "num": 168943,
       "word": "朱雨玲将对阵王曼昱",
@@ -4115,6 +4227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198084,
+      "num": 198084,
+      "word": "海南目前缺什么物资",
+      "onboard_time": 1725977064,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197852,
       "num": 195505,
       "word": "男子拉50箱五粮液不绑绳倒一地",
@@ -4136,14 +4256,6 @@
       "word": "国航一航班因故障返航",
       "onboard_time": 1725868100,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196735,
-      "num": 427766,
-      "word": "人口老龄化的4个时间点",
-      "onboard_time": 1725973462,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -4401,6 +4513,14 @@
       "onboard_time": 1725784819,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188833,
+      "num": 198102,
+      "word": "苹果店员工到华为店观看新品发布会",
+      "onboard_time": 1725976343,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 188394,
@@ -4763,6 +4883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176590,
+      "num": 176590,
+      "word": "张本智和3比1松岛辉空",
+      "onboard_time": 1725975562,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176074,
       "num": 176074,
       "word": "王安宇叫田曦薇伴侣吓到杨迪",
@@ -5113,14 +5241,6 @@
       "onboard_time": 1725803480,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166229,
-      "num": 166229,
-      "word": "赵露思黑色无袖伞裙",
-      "onboard_time": 1725975385,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 166132,
@@ -5523,6 +5643,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 154131,
+      "num": 154131,
+      "word": "王楚钦感谢每位教练",
+      "onboard_time": 1725977003,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 154027,
+      "num": 154027,
+      "word": "iPhone16跑分出炉",
+      "onboard_time": 1725975263,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 153955,
       "num": 153955,
       "word": "丁禹兮演技",
@@ -5592,6 +5728,14 @@
       "word": "现在就出发",
       "onboard_time": 1725767120,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 152989,
+      "num": 198337,
+      "word": "胸肌再大也不如胸肌下的那颗良心大",
+      "onboard_time": 1725975744,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -8011,6 +8155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77062,
+      "num": 3909497,
+      "word": "2024最美教师发布",
+      "onboard_time": 1725973762,
+      "rank": 2,
+      "category": "教育"
+    },
+    {
       "raw_hot": 76654,
       "num": 282111,
       "word": "iPhone16首次支持花呗24期免息",
@@ -8171,14 +8323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 64249,
-      "num": 2078463,
-      "word": "2024最美教师发布",
-      "onboard_time": 1725973762,
-      "rank": 2,
-      "category": "教育"
-    },
-    {
       "raw_hot": 64114,
       "num": 184430,
       "word": "张翰新剧",
@@ -8195,20 +8339,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63234,
+      "num": 708986,
+      "word": "女格斗员遭猥亵不出手是崇德不逞蛮力",
+      "onboard_time": 1725975322,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63016,
       "num": 263354,
       "word": "郑北姜小海十年后相认",
       "onboard_time": 1725975024,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 62744,
-      "num": 171052,
-      "word": "女格斗员遭猥亵不出手是崇德不逞蛮力",
-      "onboard_time": 1725975322,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62008,
@@ -8225,6 +8369,14 @@
       "onboard_time": 1725826752,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61423,
+      "num": 198134,
+      "word": "叔圈天菜今晚都在这儿了",
+      "onboard_time": 1725977125,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 60989,
@@ -9187,6 +9339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23908,
+      "num": 154211,
+      "word": "刘德华说最重要的是做回华仔",
+      "onboard_time": 1725975802,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 23733,
       "num": 331971,
       "word": "揭秘回流药背后黑色产业链",
@@ -9328,6 +9488,14 @@
       "word": "摩羯走后渔民正抢收破损养殖工具",
       "onboard_time": 1725772218,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17255,
+      "num": 442762,
+      "word": "男子深陷刷单返利陷阱",
+      "onboard_time": 1725977125,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
