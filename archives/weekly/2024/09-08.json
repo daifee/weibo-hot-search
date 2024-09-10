@@ -1,7 +1,15 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725963780797,
+  "endTime": 1725964815338,
   "band_list": [
+    {
+      "raw_hot": 13395809,
+      "num": 14645809,
+      "word": "延迟法定退休年龄改革",
+      "onboard_time": 1725963320,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3894981,
       "num": 304582,
@@ -57,14 +65,6 @@
       "onboard_time": 1725906913,
       "rank": 24,
       "category": "数码"
-    },
-    {
-      "raw_hot": 2520399,
-      "num": 2540799,
-      "word": "延迟法定退休年龄改革",
-      "onboard_time": 1725963320,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2331163,
@@ -811,6 +811,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 784292,
+      "num": 342154,
+      "word": "刘亦菲 外籍",
+      "onboard_time": 1725963019,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 781170,
       "num": 1124987,
       "word": "章若楠新粉丝名",
@@ -1473,14 +1481,6 @@
       "onboard_time": 1725787640,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 476104,
-      "num": 342154,
-      "word": "刘亦菲 外籍",
-      "onboard_time": 1725963019,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 474635,
@@ -2667,6 +2667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 266799,
+      "num": 266799,
+      "word": "十四届全国人大常委会第十一次会议",
+      "onboard_time": 1725963500,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 265818,
       "num": 265818,
       "word": "iPhone16配色 垃圾袋",
@@ -2817,6 +2825,14 @@
       "onboard_time": 1725799459,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 249620,
+      "num": 249620,
+      "word": "阴阳师美术组",
+      "onboard_time": 1725962960,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 248516,
@@ -2977,14 +2993,6 @@
       "onboard_time": 1725804200,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 235053,
-      "num": 165840,
-      "word": "阴阳师美术组",
-      "onboard_time": 1725962960,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 234796,
@@ -3169,6 +3177,14 @@
       "onboard_time": 1725714679,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226488,
+      "num": 226488,
+      "word": "国防教育法修订草案二审",
+      "onboard_time": 1725961640,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 225062,
@@ -3625,6 +3641,14 @@
       "onboard_time": 1725869060,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 204392,
+      "num": 204392,
+      "word": "国足首发",
+      "onboard_time": 1725963922,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 204052,
@@ -4233,6 +4257,14 @@
       "onboard_time": 1725960682,
       "rank": 35,
       "category": "动漫,艺人"
+    },
+    {
+      "raw_hot": 184709,
+      "num": 184709,
+      "word": "白夜追凶 纯元回宫",
+      "onboard_time": 1725961280,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 183794,
@@ -5011,20 +5043,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158333,
+      "num": 158333,
+      "word": "一想到下周是中秋假期",
+      "onboard_time": 1725962421,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158168,
       "num": 158168,
       "word": "星穹铁道飞霄PV",
       "onboard_time": 1725865459,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 157905,
-      "num": 157905,
-      "word": "白夜追凶 纯元回宫",
-      "onboard_time": 1725961280,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 157549,
@@ -5105,6 +5137,14 @@
       "onboard_time": 1725774678,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155097,
+      "num": 155097,
+      "word": "朝着建成教育强国战略目标扎实迈进",
+      "onboard_time": 1725964523,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 154936,
@@ -5427,6 +5467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147333,
+      "num": 147333,
+      "word": "90后男生成班主任的领导仍遭血脉压制",
+      "onboard_time": 1725964761,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147312,
       "num": 147312,
       "word": "有这样的弟弟还要什么男朋友",
@@ -5649,14 +5697,6 @@
       "onboard_time": 1725807382,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 140623,
-      "num": 165908,
-      "word": "国防教育法修订草案二审",
-      "onboard_time": 1725961640,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 140291,
@@ -5915,14 +5955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133678,
-      "num": 133678,
-      "word": "十四届全国人大常委会第十一次会议",
-      "onboard_time": 1725963500,
-      "rank": 35,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 133576,
       "num": 133576,
       "word": "心动的信号7第一次盲选约会",
@@ -5945,6 +5977,14 @@
       "onboard_time": 1725776120,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132843,
+      "num": 132843,
+      "word": "人类首次商业太空行走任务发射升空",
+      "onboard_time": 1725963801,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132817,
@@ -6377,6 +6417,14 @@
       "onboard_time": 1725926901,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122222,
+      "num": 122222,
+      "word": "问界M9销量",
+      "onboard_time": 1725963801,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 121650,
@@ -7099,14 +7147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 98231,
-      "num": 98231,
-      "word": "一想到下周是中秋假期",
-      "onboard_time": 1725962421,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 98085,
       "num": 98085,
       "word": "徐明浩金发大背头",
@@ -7235,6 +7275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92694,
+      "num": 286665,
+      "word": "为何年轻人舍得给宠物下本吃高端粮",
+      "onboard_time": 1725962840,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92013,
       "num": 100959,
       "word": "小杨哥否认没有售后",
@@ -7337,6 +7385,14 @@
       "onboard_time": 1725874640,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87996,
+      "num": 87996,
+      "word": "内娱超过七季的超长寿综艺",
+      "onboard_time": 1725964701,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 87807,
@@ -7529,6 +7585,14 @@
       "onboard_time": 1725801500,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70719,
+      "num": 280788,
+      "word": "华为首款轿跑SUV真香",
+      "onboard_time": 1725960860,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 70553,
@@ -7867,20 +7931,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 52282,
-      "num": 280788,
-      "word": "华为首款轿跑SUV真香",
-      "onboard_time": 1725960860,
-      "rank": 49,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 52088,
       "num": 297109,
       "word": "华为三折叠一机多能",
       "onboard_time": 1725955340,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 52016,
+      "num": 252519,
+      "word": "12岁小孩反复高烧竟因被毒虫咬伤",
+      "onboard_time": 1725963440,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51778,
@@ -8219,14 +8283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36844,
-      "num": 286665,
-      "word": "为何年轻人舍得给宠物下本吃高端粮",
-      "onboard_time": 1725962840,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35664,
       "num": 581342,
       "word": "平台十倍陪诊费卖专家号",
@@ -8467,14 +8523,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 25830,
-      "num": 252519,
-      "word": "12岁小孩反复高烧竟因被毒虫咬伤",
-      "onboard_time": 1725963440,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25663,
       "num": 25663,
       "word": "王一博在雪山也四点起床",
@@ -8544,6 +8592,14 @@
       "word": "揭秘回流药背后黑色产业链",
       "onboard_time": 1725862400,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23114,
+      "num": 278027,
+      "word": "200元买迪奥古驰月饼买到三无产品",
+      "onboard_time": 1725964461,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -8659,6 +8715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17162,
+      "num": 93267,
+      "word": "杨幂华为三折叠首发开箱",
+      "onboard_time": 1725964701,
+      "rank": 47,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 15077,
       "num": 38563,
       "word": "军车上一行行标语让人热泪盈眶",
@@ -8753,6 +8817,14 @@
       "onboard_time": 1725735253,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8575,
+      "num": 117223,
+      "word": "去新疆旅行怎么避免皮肤干燥",
+      "onboard_time": 1725964461,
+      "rank": 39,
+      "category": "美妆"
     }
   ],
   "hotgov_list": [
