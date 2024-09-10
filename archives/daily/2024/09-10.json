@@ -1,6 +1,6 @@
 {
   "startTime": 1725899204781,
-  "endTime": 1725960251431,
+  "endTime": 1725961045895,
   "band_list": [
     {
       "raw_hot": 3894981,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1528862,
+      "num": 1528862,
+      "word": "金鹰奖删除刘亦菲入围资格",
+      "onboard_time": 1725960141,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1524275,
       "num": 1524275,
       "word": "iPhone16",
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1512419,
-      "num": 280239,
+      "num": 337347,
       "word": "小杨哥 二二",
       "onboard_time": 1725954921,
       "rank": 20,
@@ -356,7 +364,7 @@
     },
     {
       "raw_hot": 620197,
-      "num": 382012,
+      "num": 392633,
       "word": "于正 怎么生了你这样的畜生",
       "onboard_time": 1725956181,
       "rank": 26,
@@ -443,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 451526,
+      "num": 451526,
+      "word": "周扬青说恋综男嘉宾像杀猪盘",
+      "onboard_time": 1725958702,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 442721,
       "num": 442721,
       "word": "青岛警方通报辅警违法被停职",
@@ -467,12 +483,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 405661,
-      "num": 405661,
-      "word": "周扬青说恋综男嘉宾像杀猪盘",
-      "onboard_time": 1725958702,
-      "rank": 8,
-      "category": "综艺"
+      "raw_hot": 414470,
+      "num": 582370,
+      "word": "年轻人为何不再为民宿买单",
+      "onboard_time": 1725948439,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 401794,
@@ -489,14 +505,6 @@
       "onboard_time": 1725952640,
       "rank": 16,
       "category": "数码"
-    },
-    {
-      "raw_hot": 393580,
-      "num": 582370,
-      "word": "年轻人为何不再为民宿买单",
-      "onboard_time": 1725948439,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 390983,
@@ -520,6 +528,14 @@
       "word": "教师节文案",
       "onboard_time": 1725888199,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371995,
+      "num": 371995,
+      "word": "夫妻破产后可申请免除928万债务",
+      "onboard_time": 1725959180,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -620,7 +636,7 @@
     },
     {
       "raw_hot": 325120,
-      "num": 325120,
+      "num": 339436,
       "word": "权志龙全平台换头像",
       "onboard_time": 1725956481,
       "rank": 34,
@@ -713,6 +729,14 @@
       "onboard_time": 1725944661,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 285919,
+      "num": 404136,
+      "word": "丰巢靠滞留金三年半营收8个亿",
+      "onboard_time": 1725951502,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283029,
@@ -891,14 +915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 241878,
-      "num": 241878,
-      "word": "夫妻破产后可申请免除928万债务",
-      "onboard_time": 1725959180,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241588,
       "num": 241588,
       "word": "苹果",
@@ -995,14 +1011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 221855,
-      "num": 384620,
-      "word": "丰巢靠滞留金三年半营收8个亿",
-      "onboard_time": 1725951502,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 220949,
       "num": 220949,
       "word": "献鱼",
@@ -1024,6 +1032,14 @@
       "word": "原神",
       "onboard_time": 1725950658,
       "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 215860,
+      "num": 215860,
+      "word": "原神万达电影",
+      "onboard_time": 1725959782,
+      "rank": 35,
       "category": "游戏"
     },
     {
@@ -1219,6 +1235,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 194074,
+      "num": 194074,
+      "word": "刘亦菲现身高铁站",
+      "onboard_time": 1725959960,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193001,
       "num": 193001,
       "word": "宋亚轩又吃上了",
@@ -1257,6 +1281,14 @@
       "onboard_time": 1725955340,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185536,
+      "num": 185536,
+      "word": "田志希称赞孙颖莎人格魅力强",
+      "onboard_time": 1725960200,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 184901,
@@ -1435,8 +1467,8 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 165485,
-      "num": 165485,
+      "raw_hot": 165768,
+      "num": 165768,
       "word": "墨雨爆了我有多爽你们知道吗",
       "onboard_time": 1725959419,
       "rank": 32,
@@ -1531,12 +1563,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154356,
-      "num": 154356,
-      "word": "刘亦菲现身高铁站",
-      "onboard_time": 1725959960,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 155195,
+      "num": 155195,
+      "word": "筱原惠美去世",
+      "onboard_time": 1725960682,
+      "rank": 35,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 153823,
@@ -1553,14 +1585,6 @@
       "onboard_time": 1725937038,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 152989,
-      "num": 132392,
-      "word": "金鹰奖删除刘亦菲入围资格",
-      "onboard_time": 1725960141,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 151997,
@@ -1587,14 +1611,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 151714,
-      "num": 151714,
-      "word": "原神万达电影",
-      "onboard_time": 1725959782,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 151608,
       "num": 151608,
       "word": "折叠键盘",
@@ -1612,7 +1628,7 @@
     },
     {
       "raw_hot": 149195,
-      "num": 238314,
+      "num": 392664,
       "word": "今天第40个教师节",
       "onboard_time": 1725960081,
       "rank": 18,
@@ -1625,6 +1641,14 @@
       "onboard_time": 1725939380,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 148277,
+      "num": 148277,
+      "word": "华为大战苹果",
+      "onboard_time": 1725957980,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 147312,
@@ -1641,6 +1665,14 @@
       "onboard_time": 1725946819,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145744,
+      "num": 145744,
+      "word": "沙特主教练称目标是进5到6球",
+      "onboard_time": 1725958880,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 143894,
@@ -1747,20 +1779,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130369,
-      "num": 130369,
-      "word": "华为大战苹果",
-      "onboard_time": 1725957980,
-      "rank": 42,
+      "raw_hot": 130154,
+      "num": 130154,
+      "word": "iPhone16 相机控制",
+      "onboard_time": 1725959480,
+      "rank": 41,
       "category": "数码"
-    },
-    {
-      "raw_hot": 130110,
-      "num": 130110,
-      "word": "沙特主教练称目标是进5到6球",
-      "onboard_time": 1725958880,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 128491,
@@ -1769,6 +1793,14 @@
       "onboard_time": 1725957920,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 128360,
+      "num": 128360,
+      "word": "王艺迪3比0张默",
+      "onboard_time": 1725960380,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 128337,
@@ -1785,14 +1817,6 @@
       "onboard_time": 1725954620,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127663,
-      "num": 127663,
-      "word": "田志希称赞孙颖莎人格魅力强",
-      "onboard_time": 1725960200,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 126489,
@@ -1825,6 +1849,14 @@
       "onboard_time": 1725951020,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 124486,
+      "num": 124486,
+      "word": "余承东称华为三折叠改写行业历史",
+      "onboard_time": 1725959180,
+      "rank": 44,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 124199,
@@ -1897,6 +1929,14 @@
       "onboard_time": 1725931518,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112482,
+      "num": 112482,
+      "word": "老九门2能请赵丽颖吗",
+      "onboard_time": 1725960980,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 111109,
@@ -2163,6 +2203,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 75762,
+      "num": 337631,
+      "word": "76岁阿姨户口本突然多出1个妹妹",
+      "onboard_time": 1725960200,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75147,
       "num": 75147,
       "word": "王者荣耀世界",
@@ -2291,14 +2339,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 53896,
-      "num": 236815,
-      "word": "76岁阿姨户口本突然多出1个妹妹",
-      "onboard_time": 1725960200,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 53638,
       "num": 366434,
       "word": "00后老师专治00后学生",
@@ -2379,6 +2419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 46502,
+      "num": 340925,
+      "word": "云南3家医院给男性做妇科诊疗被点名",
+      "onboard_time": 1725959240,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45517,
       "num": 463892,
       "word": "守护是老师的浪漫主义",
@@ -2388,7 +2436,7 @@
     },
     {
       "raw_hot": 45356,
-      "num": 175587,
+      "num": 197850,
       "word": "智界R7华为黑科技拉满",
       "onboard_time": 1725959240,
       "rank": 29,
@@ -2419,8 +2467,16 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 41542,
+      "num": 105025,
+      "word": "华为首款轿跑SUV真香",
+      "onboard_time": 1725960860,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 41172,
-      "num": 183573,
+      "num": 339641,
       "word": "华为见非凡品牌计划官宣",
       "onboard_time": 1725959240,
       "rank": 26,
@@ -2465,14 +2521,6 @@
       "onboard_time": 1725957140,
       "rank": 38,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 36743,
-      "num": 296797,
-      "word": "云南3家医院给男性做妇科诊疗被点名",
-      "onboard_time": 1725959240,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35374,
@@ -2548,7 +2596,7 @@
     },
     {
       "raw_hot": 25224,
-      "num": 133940,
+      "num": 145770,
       "word": "问界M9五座版六座版怎么选",
       "onboard_time": 1725958940,
       "rank": 38,
