@@ -1,6 +1,6 @@
 {
   "startTime": 1725985552565,
-  "endTime": 1725989811120,
+  "endTime": 1725992933666,
   "band_list": [
     {
       "raw_hot": 1172437,
@@ -459,6 +459,46 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 35426,
+      "num": 130966,
+      "word": "专家称现在不是搞钱而是省钱的问题",
+      "onboard_time": 1725988634,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29798,
+      "num": 36757,
+      "word": "优酷明年有五部S级剧集",
+      "onboard_time": 1725991092,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 28791,
+      "num": 36481,
+      "word": "白夜破晓",
+      "onboard_time": 1725990732,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 27055,
+      "num": 35357,
+      "word": "电影野孩子",
+      "onboard_time": 1725989653,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 22831,
+      "num": 35342,
+      "word": "加点zuo料",
+      "onboard_time": 1725991992,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22109,
       "num": 115557,
       "word": "海清到底上谁的车",
@@ -467,12 +507,12 @@
       "category": "艺人,数码"
     },
     {
-      "raw_hot": 20855,
-      "num": 130966,
-      "word": "专家称现在不是搞钱而是省钱的问题",
-      "onboard_time": 1725988634,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 21448,
+      "num": 35338,
+      "word": "华为三折叠",
+      "onboard_time": 1725951080,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 14568,
@@ -480,6 +520,14 @@
       "word": "西北人在山上K歌",
       "onboard_time": 1725987976,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13677,
+      "num": 74546,
+      "word": "国际美妆10强一半在裁员四成在关店",
+      "onboard_time": 1725991693,
+      "rank": 9,
       "category": "社会新闻"
     }
   ],

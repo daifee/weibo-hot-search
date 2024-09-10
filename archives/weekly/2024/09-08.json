@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725989811120,
+  "endTime": 1725992933666,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -9371,6 +9371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35426,
+      "num": 130966,
+      "word": "专家称现在不是搞钱而是省钱的问题",
+      "onboard_time": 1725988634,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35374,
       "num": 207561,
       "word": "洛阳为教师点亮夜空",
@@ -9515,6 +9523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29798,
+      "num": 36757,
+      "word": "优酷明年有五部S级剧集",
+      "onboard_time": 1725991092,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29663,
       "num": 38396,
       "word": "台风摩羯",
@@ -9547,6 +9563,14 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 28791,
+      "num": 36481,
+      "word": "白夜破晓",
+      "onboard_time": 1725990732,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 28159,
       "num": 233000,
       "word": "大叔崩溃求助交警请他吃面加鸡腿",
@@ -9577,6 +9601,14 @@
       "onboard_time": 1725877579,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27055,
+      "num": 35357,
+      "word": "电影野孩子",
+      "onboard_time": 1725989653,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 27036,
@@ -9731,6 +9763,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 22831,
+      "num": 35342,
+      "word": "加点zuo料",
+      "onboard_time": 1725991992,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22543,
       "num": 183926,
       "word": "伊朗总统提议迁都",
@@ -9769,14 +9809,6 @@
       "onboard_time": 1725940880,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 20855,
-      "num": 130966,
-      "word": "专家称现在不是搞钱而是省钱的问题",
-      "onboard_time": 1725988634,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20704,
@@ -9913,6 +9945,14 @@
       "onboard_time": 1725948320,
       "rank": 38,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 13677,
+      "num": 74546,
+      "word": "国际美妆10强一半在裁员四成在关店",
+      "onboard_time": 1725991693,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13288,
