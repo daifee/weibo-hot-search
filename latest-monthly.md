@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/10 09:38:06
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/10 09:54:37
 </p>
 </blockquote>
 <p>
@@ -2217,6 +2217,12 @@ WBG战胜JDG（热度：837121）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%B0%E9%B8%A1%E8%80%8D%E5%BF%83%E7%9C%BC%E8%A2%AB%E5%BA%97%E4%B8%BB%E8%BF%9E%E6%89%874%E8%80%B3%E5%85%89%23" target="weibo">
+男子买鸡耍心眼被店主连扇4耳光（热度：814239）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E6%B5%A9%E7%84%B6%E5%9C%A8%E4%BA%A7%E6%88%BF%E7%9B%B4%E6%92%AD%E5%8D%96%E8%B4%A7%23" target="weibo">
 宋浩然在产房直播卖货（热度：813926）
 </a>
@@ -2477,12 +2483,6 @@ iPhone16仍有4款型号（热度：789396）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2319%E5%B2%81%E5%AD%A6%E7%94%9F%E5%9B%A0iPhone%E8%BF%9B%E6%B0%B4%E4%B8%8D%E4%BF%9D%E4%BF%AE%E8%B5%B7%E8%AF%89%E8%8B%B9%E6%9E%9C%23" target="weibo">
 19岁学生因iPhone进水不保修起诉苹果（热度：769001）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%B0%E9%B8%A1%E8%80%8D%E5%BF%83%E7%9C%BC%E8%A2%AB%E5%BA%97%E4%B8%BB%E8%BF%9E%E6%89%874%E8%80%B3%E5%85%89%23" target="weibo">
-男子买鸡耍心眼被店主连扇4耳光（热度：766837）
 </a>
 </li>
 
@@ -5151,6 +5151,12 @@ aespa空降（热度：395144）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E6%BC%94%E7%B4%AF%E4%BA%86%E8%AE%A9%E6%88%91%E6%BC%94%E4%B8%A4%E9%9B%86%23" target="weibo">
+田曦薇演累了让我演两集（热度：390983）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E9%AB%98%E6%A0%A1%E5%AE%98%E5%AE%A3%E5%86%8D%E5%BA%A6%E5%BB%B6%E8%BF%9F%E8%BF%94%E6%A0%A1%23" target="weibo">
 重庆一高校官宣再度延迟返校（热度：390611）
 </a>
@@ -5177,12 +5183,6 @@ aespa空降（热度：395144）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%BB%99%E5%AF%B9%E6%96%B9%E9%BC%93%E6%8E%8C%23" target="weibo">
 刘亦菲赵露思给对方鼓掌（热度：388668）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E6%BC%94%E7%B4%AF%E4%BA%86%E8%AE%A9%E6%88%91%E6%BC%94%E4%B8%A4%E9%9B%86%23" target="weibo">
-田曦薇演累了让我演两集（热度：387764）
 </a>
 </li>
 
@@ -5697,6 +5697,12 @@ AppleWatch史上最大屏幕（热度：347526）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%B5%B7%E4%B9%94%20%E7%BE%8E%E4%BA%BA%E4%B8%8D%E5%88%86%E6%80%A7%E5%88%AB%23" target="weibo">
+徐海乔 美人不分性别（热度：341602）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%80%BB%E7%BB%9F%E4%B8%93%E6%9C%BA%E8%A2%AB%E7%BE%8E%E5%9B%BD%E6%89%A3%E6%8A%BC%23" target="weibo">
 委内瑞拉总统专机被美国扣押（热度：340898）
 </a>
@@ -6005,12 +6011,6 @@ iPhone16ProMax（热度：322194）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%85%B1%E4%BA%AB%E5%85%85%E7%94%B5%E5%AE%9D%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%9A%BE%E8%BF%98%E4%BA%86%23" target="weibo">
 为什么共享充电宝越来越难还了（热度：317720）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%8A%B5%E8%BE%BE%E8%92%99%E5%8F%A4%E5%9B%BD%23" target="weibo">
-普京抵达蒙古国（热度：316808）
 </a>
 </li>
 

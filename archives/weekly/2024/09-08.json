@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725932286274,
+  "endTime": 1725933277190,
   "band_list": [
     {
       "raw_hot": 3172135,
@@ -603,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 814239,
+      "num": 814239,
+      "word": "男子买鸡耍心眼被店主连扇4耳光",
+      "onboard_time": 1725927621,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 813926,
       "num": 813926,
       "word": "宋浩然在产房直播卖货",
@@ -673,14 +681,6 @@
       "onboard_time": 1725842001,
       "rank": 3,
       "category": "数码"
-    },
-    {
-      "raw_hot": 766837,
-      "num": 766837,
-      "word": "男子买鸡耍心眼被店主连扇4耳光",
-      "onboard_time": 1725927621,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 762021,
@@ -1475,8 +1475,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 387764,
-      "num": 387764,
+      "raw_hot": 390983,
+      "num": 390983,
       "word": "田曦薇演累了让我演两集",
       "onboard_time": 1725898038,
       "rank": 14,
@@ -1705,6 +1705,14 @@
       "onboard_time": 1725886822,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 341602,
+      "num": 341602,
+      "word": "徐海乔 美人不分性别",
+      "onboard_time": 1725929119,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 337570,
@@ -2009,14 +2017,6 @@
       "onboard_time": 1725893002,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 282063,
-      "num": 282063,
-      "word": "徐海乔 美人不分性别",
-      "onboard_time": 1725929119,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 281941,
@@ -2739,6 +2739,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 208351,
+      "num": 381251,
+      "word": "客服四年间挽救近千名欲轻生用户",
+      "onboard_time": 1725931759,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208247,
+      "num": 208247,
+      "word": "珠帘玉幕",
+      "onboard_time": 1725932599,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207586,
       "num": 207586,
       "word": "LCK",
@@ -3363,14 +3379,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 182105,
-      "num": 381251,
-      "word": "客服四年间挽救近千名欲轻生用户",
-      "onboard_time": 1725931759,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181249,
       "num": 201118,
       "word": "Jennie10月solo回归",
@@ -3747,6 +3755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166506,
+      "num": 173560,
+      "word": "台风过后赶海分分钟爆桶",
+      "onboard_time": 1725900436,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166501,
       "num": 166501,
       "word": "美甲去死皮其实是在伤害指甲",
@@ -3899,6 +3915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 159898,
+      "num": 159898,
+      "word": "真实的精神病院记录",
+      "onboard_time": 1725929660,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 159565,
       "num": 159565,
       "word": "林诗栋阿拉木图站夺冠",
@@ -4025,6 +4049,14 @@
       "onboard_time": 1725712939,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 155972,
+      "num": 155972,
+      "word": "华为三折叠",
+      "onboard_time": 1725933019,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 155802,
@@ -4587,14 +4619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137872,
-      "num": 173560,
-      "word": "台风过后赶海分分钟爆桶",
-      "onboard_time": 1725900436,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137418,
       "num": 137418,
       "word": "台风来了Duck不避",
@@ -4907,6 +4931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126489,
+      "num": 126489,
+      "word": "猫 你再动我一下试试",
+      "onboard_time": 1725927259,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126407,
       "num": 126407,
       "word": "终于有剧拍出了张桂梅为什么建女校",
@@ -5009,14 +5041,6 @@
       "onboard_time": 1725761000,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124149,
-      "num": 124149,
-      "word": "猫 你再动我一下试试",
-      "onboard_time": 1725927259,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 124065,
@@ -5243,14 +5267,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 117916,
-      "num": 117916,
-      "word": "真实的精神病院记录",
-      "onboard_time": 1725929660,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 117877,
       "num": 117877,
       "word": "逐玉",
@@ -5409,6 +5425,14 @@
       "onboard_time": 1725852318,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111109,
+      "num": 111109,
+      "word": "企业家吐槽在贵州开会被针对",
+      "onboard_time": 1725927500,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110860,
@@ -5651,14 +5675,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 103220,
-      "num": 103220,
-      "word": "企业家吐槽在贵州开会被针对",
-      "onboard_time": 1725927500,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 103103,
       "num": 103103,
       "word": "名侦探柯南",
@@ -5827,6 +5843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96705,
+      "num": 96705,
+      "word": "曾黎翟子路演母子",
+      "onboard_time": 1725933138,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96699,
       "num": 96699,
       "word": "RNB有自己的TFBOYS",
@@ -5979,6 +6003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88912,
+      "num": 88912,
+      "word": "2024国际乒联第37周排名",
+      "onboard_time": 1725932958,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88432,
       "num": 91895,
       "word": "张极难忘今宵",
@@ -6115,6 +6147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76654,
+      "num": 282111,
+      "word": "iPhone16首次支持花呗24期免息",
+      "onboard_time": 1725930080,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 75147,
       "num": 75147,
       "word": "王者荣耀世界",
@@ -6185,6 +6225,14 @@
       "onboard_time": 1725814455,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 67301,
+      "num": 335519,
+      "word": "感恩那些年一直操心的您",
+      "onboard_time": 1725928699,
+      "rank": 9,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 66981,
@@ -6401,14 +6449,6 @@
       "onboard_time": 1725891141,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54171,
-      "num": 282111,
-      "word": "iPhone16首次支持花呗24期免息",
-      "onboard_time": 1725930080,
-      "rank": 20,
-      "category": "数码"
     },
     {
       "raw_hot": 53305,
