@@ -1,0 +1,410 @@
+{
+  "runTime": 1725932286274,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3172135,
+        "num": 3172135,
+        "word": "iPhone16起售价5999元",
+        "onboard_time": 1725923777,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1473520,
+        "num": 1473520,
+        "word": "教师节",
+        "onboard_time": 1725923597,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 6637,
+        "num": 1114599,
+        "word": "雪域高原焕新貌",
+        "onboard_time": 1725765199,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924224,
+        "num": 924224,
+        "word": "赛琳娜说自己永远没办法生孩子了",
+        "onboard_time": 1725926059,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 797244,
+        "num": 797244,
+        "word": "官网下架iPhone15Pro",
+        "onboard_time": 1725924198,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 766837,
+        "num": 766837,
+        "word": "男子买鸡耍心眼被店主连扇4耳光",
+        "onboard_time": 1725927621,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 760342,
+        "num": 760342,
+        "word": "库克称iPhone16是最先进的iPhone",
+        "onboard_time": 1725929478,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 640747,
+        "num": 640747,
+        "word": "张杰工作室道歉",
+        "onboard_time": 1725891501,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 387764,
+        "num": 387764,
+        "word": "田曦薇演累了让我演两集",
+        "onboard_time": 1725898038,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182105,
+        "num": 381251,
+        "word": "客服四年间挽救近千名欲轻生用户",
+        "onboard_time": 1725931759,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1574884,
+        "num": 380244,
+        "word": "苹果配色好丑",
+        "onboard_time": 1725907032,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 375299,
+        "num": 375299,
+        "word": "教师节文案",
+        "onboard_time": 1725888199,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1183913,
+        "num": 366145,
+        "word": "苹果发布会",
+        "onboard_time": 1725902474,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 332509,
+        "num": 332509,
+        "word": "林依晨自曝失恋经历",
+        "onboard_time": 1725930679,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410168,
+        "num": 329135,
+        "word": "iPhone16价格",
+        "onboard_time": 1725906913,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 316752,
+        "num": 316752,
+        "word": "金鹰奖投票",
+        "onboard_time": 1725925818,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 383876,
+        "num": 316513,
+        "word": "iPhone16",
+        "onboard_time": 1725875480,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 314233,
+        "num": 314233,
+        "word": "赵露思官宣新剧恋人",
+        "onboard_time": 1725925579,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343802,
+        "num": 312899,
+        "word": "沙漠色iPhone16Pro",
+        "onboard_time": 1725907573,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 282538,
+        "num": 282538,
+        "word": "月饼为什么卖不动了",
+        "onboard_time": 1725886039,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54171,
+        "num": 282111,
+        "word": "iPhone16首次支持花呗24期免息",
+        "onboard_time": 1725930080,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 470531,
+        "num": 282092,
+        "word": "女子通过蠕动解压被吐槽太抽象",
+        "onboard_time": 1725894980,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282063,
+        "num": 282063,
+        "word": "徐海乔 美人不分性别",
+        "onboard_time": 1725929119,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252983,
+        "num": 252983,
+        "word": "iPhone16Pro实拍四款颜色",
+        "onboard_time": 1725931099,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 242380,
+        "num": 242380,
+        "word": "张凌赫 逐玉",
+        "onboard_time": 1725924137,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225271,
+        "num": 225271,
+        "word": "刘德华演唱会摔倒",
+        "onboard_time": 1725893480,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 220515,
+        "num": 220515,
+        "word": "小杨哥 磨骨",
+        "onboard_time": 1725878717,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 212876,
+        "num": 212876,
+        "word": "身体有这些表现说明你太累了",
+        "onboard_time": 1725927259,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169785,
+        "num": 187667,
+        "word": "因为他苏州大学这个专业在1楼上课",
+        "onboard_time": 1725927320,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158473,
+        "num": 186193,
+        "word": "老师抽屉里的旧时光",
+        "onboard_time": 1725928340,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184901,
+        "num": 184901,
+        "word": "上海偶遇刘亦菲",
+        "onboard_time": 1725925520,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174363,
+        "num": 174363,
+        "word": "华为三折叠预约已超300万",
+        "onboard_time": 1725893540,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 169274,
+        "num": 169274,
+        "word": "赵露思彭冠英 新剧恋人",
+        "onboard_time": 1725928880,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150160,
+        "num": 150160,
+        "word": "孙海洋支持孙卓在大学谈恋爱",
+        "onboard_time": 1725897319,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146692,
+        "num": 146692,
+        "word": "华为",
+        "onboard_time": 1725923717,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 143653,
+        "num": 143653,
+        "word": "华为新机提前拆封罚款50万起",
+        "onboard_time": 1725889279,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 138679,
+        "num": 138679,
+        "word": "国足战沙特23人名单出炉",
+        "onboard_time": 1725930020,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137872,
+        "num": 137872,
+        "word": "台风过后赶海分分钟爆桶",
+        "onboard_time": 1725900436,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136349,
+        "num": 136349,
+        "word": "凡人歌贵妇变月嫂老公变小工",
+        "onboard_time": 1725928281,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124149,
+        "num": 124149,
+        "word": "猫 你再动我一下试试",
+        "onboard_time": 1725927259,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122270,
+        "num": 122270,
+        "word": "中式香氛爆火",
+        "onboard_time": 1725926901,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117916,
+        "num": 117916,
+        "word": "真实的精神病院记录",
+        "onboard_time": 1725929660,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117877,
+        "num": 117877,
+        "word": "逐玉",
+        "onboard_time": 1725929838,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114830,
+        "num": 114830,
+        "word": "宋亚轩撒欢视频",
+        "onboard_time": 1725931518,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113816,
+        "num": 113816,
+        "word": "成都暴雨",
+        "onboard_time": 1725924017,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107994,
+        "num": 107994,
+        "word": "小杨哥已掉粉超百万",
+        "onboard_time": 1725885980,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 103220,
+        "num": 103220,
+        "word": "企业家吐槽在贵州开会被针对",
+        "onboard_time": 1725927500,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98729,
+        "num": 98729,
+        "word": "教师节祝福语",
+        "onboard_time": 1725929600,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 98659,
+        "num": 98659,
+        "word": "国足主场战沙特球票依然没有售完",
+        "onboard_time": 1725932058,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89702,
+        "num": 89702,
+        "word": "恩静棒",
+        "onboard_time": 1725928640,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见挪威首相斯特勒#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725925003915,
+  "endTime": 1725932286274,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -113,6 +113,14 @@
       "onboard_time": 1725451940,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3172135,
+      "num": 3172135,
+      "word": "iPhone16起售价5999元",
+      "onboard_time": 1725923777,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 3088603,
@@ -961,6 +969,14 @@
       "onboard_time": 1725538820,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1473520,
+      "num": 1473520,
+      "word": "教师节",
+      "onboard_time": 1725923597,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 1472302,
@@ -2043,14 +2059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1016936,
-      "num": 1016936,
-      "word": "教师节",
-      "onboard_time": 1725923597,
-      "rank": 1,
-      "category": "教育"
-    },
-    {
       "raw_hot": 1014233,
       "num": 1132477,
       "word": "赵露思 没有办法总是这样",
@@ -2172,7 +2180,7 @@
     },
     {
       "raw_hot": 971074,
-      "num": 217718,
+      "num": 282092,
       "word": "女子通过蠕动解压被吐槽太抽象",
       "onboard_time": 1725894980,
       "rank": 33,
@@ -2409,6 +2417,14 @@
       "onboard_time": 1725502518,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 924224,
+      "num": 924224,
+      "word": "赛琳娜说自己永远没办法生孩子了",
+      "onboard_time": 1725926059,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 916202,
@@ -3075,6 +3091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 797244,
+      "num": 797244,
+      "word": "官网下架iPhone15Pro",
+      "onboard_time": 1725924198,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 794343,
       "num": 294261,
       "word": "黄轩方否认家暴",
@@ -3267,6 +3291,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 766837,
+      "num": 766837,
+      "word": "男子买鸡耍心眼被店主连扇4耳光",
+      "onboard_time": 1725927621,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 765850,
       "num": 765850,
       "word": "全红婵模仿王楚钦揪裤子",
@@ -3313,6 +3345,14 @@
       "onboard_time": 1725272960,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 760342,
+      "num": 760342,
+      "word": "库克称iPhone16是最先进的iPhone",
+      "onboard_time": 1725929478,
+      "rank": 6,
+      "category": "数码"
     },
     {
       "raw_hot": 759112,
@@ -4769,14 +4809,6 @@
       "onboard_time": 1725203242,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 553558,
-      "num": 227857,
-      "word": "iPhone16起售价5999元",
-      "onboard_time": 1725923777,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 553243,
@@ -6859,6 +6891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 387764,
+      "num": 387764,
+      "word": "田曦薇演累了让我演两集",
+      "onboard_time": 1725898038,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 386747,
       "num": 386747,
       "word": "盛李豪 死腿协调点别搞我",
@@ -7001,6 +7041,14 @@
       "onboard_time": 1725329360,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 375299,
+      "num": 375299,
+      "word": "教师节文案",
+      "onboard_time": 1725888199,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 374032,
@@ -7643,14 +7691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 336030,
-      "num": 344494,
-      "word": "田曦薇演累了让我演两集",
-      "onboard_time": 1725898038,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 335963,
       "num": 335963,
       "word": "萨巴伦卡美网夺冠",
@@ -7673,6 +7713,14 @@
       "onboard_time": 1725842240,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 332509,
+      "num": 332509,
+      "word": "林依晨自曝失恋经历",
+      "onboard_time": 1725930679,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 332158,
@@ -7955,6 +8003,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 316752,
+      "num": 316752,
+      "word": "金鹰奖投票",
+      "onboard_time": 1725925818,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 316444,
       "num": 316444,
       "word": "国足首发",
@@ -8001,6 +8057,14 @@
       "onboard_time": 1725255082,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 314233,
+      "num": 314233,
+      "word": "赵露思官宣新剧恋人",
+      "onboard_time": 1725925579,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 314214,
@@ -8809,6 +8873,14 @@
       "onboard_time": 1725893002,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 282063,
+      "num": 282063,
+      "word": "徐海乔 美人不分性别",
+      "onboard_time": 1725929119,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 281941,
@@ -9747,6 +9819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252983,
+      "num": 252983,
+      "word": "iPhone16Pro实拍四款颜色",
+      "onboard_time": 1725931099,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 252679,
       "num": 252679,
       "word": "崔宸曦问王楚钦兄弟姐妹的妹呢",
@@ -10137,6 +10217,14 @@
       "onboard_time": 1725347001,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242380,
+      "num": 242380,
+      "word": "张凌赫 逐玉",
+      "onboard_time": 1725924137,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 242326,
@@ -11563,6 +11651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212876,
+      "num": 212876,
+      "word": "身体有这些表现说明你太累了",
+      "onboard_time": 1725927259,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 212559,
       "num": 212559,
       "word": "华为MateXT非凡大师",
@@ -12755,14 +12851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199418,
-      "num": 199418,
-      "word": "官网下架iPhone15Pro",
-      "onboard_time": 1725924198,
-      "rank": 24,
-      "category": "数码"
-    },
-    {
       "raw_hot": 199383,
       "num": 199383,
       "word": "上海对樊振东陈芋汐等23人记大功",
@@ -13633,14 +13721,6 @@
       "onboard_time": 1725683538,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192330,
-      "num": 211920,
-      "word": "张凌赫 逐玉",
-      "onboard_time": 1725924137,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 192306,
@@ -14547,6 +14627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184901,
+      "num": 184901,
+      "word": "上海偶遇刘亦菲",
+      "onboard_time": 1725925520,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184858,
       "num": 610384,
       "word": "互联网黄牛犹如吸血的牛虻",
@@ -14832,6 +14920,14 @@
       "word": "他是科学家也是梦想家",
       "onboard_time": 1725672559,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182105,
+      "num": 381251,
+      "word": "客服四年间挽救近千名欲轻生用户",
+      "onboard_time": 1725931759,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -15835,6 +15931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174363,
+      "num": 174363,
+      "word": "华为三折叠预约已超300万",
+      "onboard_time": 1725893540,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 174321,
       "num": 174321,
       "word": "超市里的烤鸡为什么卖那么便宜",
@@ -16283,6 +16387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 169785,
+      "num": 187667,
+      "word": "因为他苏州大学这个专业在1楼上课",
+      "onboard_time": 1725927320,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169735,
       "num": 169735,
       "word": "张博恒单曲循环81遍无名的人",
@@ -16329,6 +16441,14 @@
       "onboard_time": 1725798020,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169274,
+      "num": 169274,
+      "word": "赵露思彭冠英 新剧恋人",
+      "onboard_time": 1725928880,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 169121,
@@ -17699,6 +17819,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 158473,
+      "num": 186193,
+      "word": "老师抽屉里的旧时光",
+      "onboard_time": 1725928340,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158416,
       "num": 251897,
       "word": "边水往事",
@@ -18793,14 +18921,6 @@
       "onboard_time": 1725759917,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 149464,
-      "num": 149464,
-      "word": "华为三折叠预约已超300万",
-      "onboard_time": 1725893540,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 149360,
@@ -19963,6 +20083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138679,
+      "num": 138679,
+      "word": "国足战沙特23人名单出炉",
+      "onboard_time": 1725930020,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138602,
       "num": 138602,
       "word": "半年网购手机退货77次平台拒绝售后",
@@ -20065,6 +20193,14 @@
       "onboard_time": 1725208218,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 137872,
+      "num": 173560,
+      "word": "台风过后赶海分分钟爆桶",
+      "onboard_time": 1725900436,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137852,
@@ -20193,6 +20329,14 @@
       "onboard_time": 1725802459,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 136349,
+      "num": 136349,
+      "word": "凡人歌贵妇变月嫂老公变小工",
+      "onboard_time": 1725928281,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 136154,
@@ -20568,14 +20712,6 @@
       "word": "酒店预订不可取消谁说了算",
       "onboard_time": 1725624381,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131743,
-      "num": 131743,
-      "word": "教师节文案",
-      "onboard_time": 1725888199,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -21291,6 +21427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124149,
+      "num": 124149,
+      "word": "猫 你再动我一下试试",
+      "onboard_time": 1725927259,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124084,
       "num": 124084,
       "word": "对不起 我实在太爱吃饭了",
@@ -21417,6 +21561,14 @@
       "onboard_time": 1725688219,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122270,
+      "num": 122270,
+      "word": "中式香氛爆火",
+      "onboard_time": 1725926901,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122258,
@@ -21659,14 +21811,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 118287,
-      "num": 173560,
-      "word": "台风过后赶海分分钟爆桶",
-      "onboard_time": 1725900436,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 118263,
       "num": 118263,
       "word": "里斯本丸沉没豆瓣开分9.2",
@@ -21713,6 +21857,14 @@
       "onboard_time": 1725618141,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117916,
+      "num": 117916,
+      "word": "真实的精神病院记录",
+      "onboard_time": 1725929660,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 117801,
@@ -21929,6 +22081,14 @@
       "onboard_time": 1725447020,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114830,
+      "num": 114830,
+      "word": "宋亚轩撒欢视频",
+      "onboard_time": 1725931518,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 114768,
@@ -22547,6 +22707,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 103220,
+      "num": 103220,
+      "word": "企业家吐槽在贵州开会被针对",
+      "onboard_time": 1725927500,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103103,
       "num": 103103,
       "word": "名侦探柯南",
@@ -22785,6 +22953,22 @@
       "onboard_time": 1725484690,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 98729,
+      "num": 98729,
+      "word": "教师节祝福语",
+      "onboard_time": 1725929600,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 98659,
+      "num": 98659,
+      "word": "国足主场战沙特球票依然没有售完",
+      "onboard_time": 1725932058,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 98317,
@@ -23136,6 +23320,14 @@
       "word": "韩安冉产后照顾小猪妹情绪",
       "onboard_time": 1725901396,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 89702,
+      "num": 89702,
+      "word": "恩静棒",
+      "onboard_time": 1725928640,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -24625,6 +24817,14 @@
       "onboard_time": 1725175639,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54171,
+      "num": 282111,
+      "word": "iPhone16首次支持花呗24期免息",
+      "onboard_time": 1725930080,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 54103,
