@@ -1,6 +1,6 @@
 {
   "startTime": 1725985552565,
-  "endTime": 1725993720700,
+  "endTime": 1725995906184,
   "band_list": [
     {
       "raw_hot": 1172437,
@@ -419,6 +419,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 48755,
+      "num": 58634,
+      "word": "优酷明年有五部S级剧集",
+      "onboard_time": 1725991092,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 46682,
       "num": 82801,
       "word": "悬案 边水往事妈生班底",
@@ -467,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29798,
-      "num": 58634,
-      "word": "优酷明年有五部S级剧集",
-      "onboard_time": 1725991092,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 28791,
       "num": 58622,
       "word": "白夜破晓",
@@ -515,11 +515,19 @@
       "category": "数码"
     },
     {
-      "raw_hot": 16435,
+      "raw_hot": 20430,
       "num": 74546,
       "word": "国际美妆10强一半在裁员四成在关店",
       "onboard_time": 1725991693,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15091,
+      "num": 28254,
+      "word": "给老同学当监护人法院判给30万遗产",
+      "onboard_time": 1725995831,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -528,6 +536,14 @@
       "word": "西北人在山上K歌",
       "onboard_time": 1725987976,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13318,
+      "num": 53636,
+      "word": "凌晨街头陌生叔叔一路守护怕生小女孩",
+      "onboard_time": 1725995414,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
