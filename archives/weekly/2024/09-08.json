@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725974842121,
+  "endTime": 1725975511102,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -35,20 +35,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 3174365,
+      "num": 3174365,
+      "word": "国足vs沙特",
+      "onboard_time": 1725968840,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3172135,
       "num": 3172135,
       "word": "iPhone16起售价5999元",
       "onboard_time": 1725923777,
       "rank": 14,
       "category": "数码"
-    },
-    {
-      "raw_hot": 3121759,
-      "num": 3121759,
-      "word": "国足vs沙特",
-      "onboard_time": 1725968840,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 3121465,
@@ -795,6 +795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 845376,
+      "num": 845376,
+      "word": "杨天真曝某男艺人拒绝过四部爆剧",
+      "onboard_time": 1725973103,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 834461,
       "num": 568747,
       "word": "青岛辅警开私家车逆行引发热议",
@@ -921,14 +929,6 @@
       "onboard_time": 1725842001,
       "rank": 3,
       "category": "数码"
-    },
-    {
-      "raw_hot": 766585,
-      "num": 766585,
-      "word": "杨天真曝某男艺人拒绝过四部爆剧",
-      "onboard_time": 1725973103,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 762021,
@@ -1275,6 +1275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 585978,
+      "num": 585978,
+      "word": "国足居然进球了",
+      "onboard_time": 1725971422,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 581736,
       "num": 275890,
       "word": "沫沫",
@@ -1297,14 +1305,6 @@
       "onboard_time": 1725888859,
       "rank": 45,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 576333,
-      "num": 576333,
-      "word": "国足居然进球了",
-      "onboard_time": 1725971422,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 572342,
@@ -1433,6 +1433,14 @@
       "onboard_time": 1725769579,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 525794,
+      "num": 525794,
+      "word": "国足11打10",
+      "onboard_time": 1725972623,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 523627,
@@ -1731,14 +1739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 432502,
-      "num": 432502,
-      "word": "国足11打10",
-      "onboard_time": 1725972623,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 430808,
       "num": 430808,
       "word": "莫雷加德说国乒最好的朋友是王楚钦",
@@ -1977,6 +1977,14 @@
       "onboard_time": 1725959180,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389440,
+      "num": 433031,
+      "word": "张雨绮就差报身份证号了",
+      "onboard_time": 1725973342,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 386303,
@@ -2249,6 +2257,14 @@
       "onboard_time": 1725929119,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 338342,
+      "num": 338342,
+      "word": "成毅袁咏仪张智霖合照",
+      "onboard_time": 1725975024,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 337570,
@@ -2609,6 +2625,14 @@
       "onboard_time": 1725942562,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 286963,
+      "num": 249814,
+      "word": "张雨绮脱口秀",
+      "onboard_time": 1725968421,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 286700,
@@ -2987,14 +3011,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 252740,
-      "num": 433031,
-      "word": "张雨绮就差报身份证号了",
-      "onboard_time": 1725973342,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 252368,
       "num": 252368,
       "word": "金店卖出16万金条后银行卡被冻结",
@@ -3025,14 +3041,6 @@
       "onboard_time": 1725799459,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 249814,
-      "num": 249814,
-      "word": "张雨绮脱口秀",
-      "onboard_time": 1725968421,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 249620,
@@ -3217,6 +3225,14 @@
       "onboard_time": 1725971902,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 237400,
+      "num": 237400,
+      "word": "乌对莫斯科发动大规模无人机袭击",
+      "onboard_time": 1725975443,
+      "rank": 23,
+      "category": "国外时政,军事"
     },
     {
       "raw_hot": 235693,
@@ -4123,6 +4139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196735,
+      "num": 427766,
+      "word": "人口老龄化的4个时间点",
+      "onboard_time": 1725973462,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196640,
       "num": 196640,
       "word": "王子奇就这么水灵灵抱上了黄景瑜",
@@ -4265,6 +4289,14 @@
       "onboard_time": 1725942921,
       "rank": 46,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 192662,
+      "num": 192662,
+      "word": "刘宇宁杀青开成了演唱会",
+      "onboard_time": 1725974483,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 192248,
@@ -4577,6 +4609,14 @@
       "onboard_time": 1725955820,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 181491,
+      "num": 181491,
+      "word": "越位",
+      "onboard_time": 1725975143,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 181249,
@@ -5075,6 +5115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166229,
+      "num": 166229,
+      "word": "赵露思黑色无袖伞裙",
+      "onboard_time": 1725975385,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166132,
       "num": 166132,
       "word": "中小学教师非教学负担过重",
@@ -5339,14 +5387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158252,
-      "num": 158252,
-      "word": "刘宇宁杀青开成了演唱会",
-      "onboard_time": 1725974483,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158168,
       "num": 158168,
       "word": "星穹铁道飞霄PV",
@@ -5553,14 +5593,6 @@
       "onboard_time": 1725767120,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 153129,
-      "num": 243420,
-      "word": "人口老龄化的4个时间点",
-      "onboard_time": 1725973462,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152951,
@@ -6057,6 +6089,14 @@
       "onboard_time": 1725755778,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 139856,
+      "num": 139856,
+      "word": "王楚钦说没想到是这比分",
+      "onboard_time": 1725975143,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 139470,
@@ -7891,6 +7931,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 84266,
+      "num": 248075,
+      "word": "广西一村庄被水泡了四个月",
+      "onboard_time": 1725973282,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82566,
       "num": 100888,
       "word": "邓莎给儿子饭里加增高药",
@@ -8123,6 +8171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64249,
+      "num": 2078463,
+      "word": "2024最美教师发布",
+      "onboard_time": 1725973762,
+      "rank": 2,
+      "category": "教育"
+    },
+    {
       "raw_hot": 64114,
       "num": 184430,
       "word": "张翰新剧",
@@ -8137,6 +8193,22 @@
       "onboard_time": 1725787939,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 63016,
+      "num": 263354,
+      "word": "郑北姜小海十年后相认",
+      "onboard_time": 1725975024,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 62744,
+      "num": 171052,
+      "word": "女格斗员遭猥亵不出手是崇德不逞蛮力",
+      "onboard_time": 1725975322,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62008,
@@ -8297,14 +8369,6 @@
       "onboard_time": 1725752115,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 55297,
-      "num": 248075,
-      "word": "广西一村庄被水泡了四个月",
-      "onboard_time": 1725973282,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 55015,
@@ -8475,14 +8539,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 49728,
-      "num": 2078463,
-      "word": "2024最美教师发布",
-      "onboard_time": 1725973762,
-      "rank": 2,
-      "category": "教育"
-    },
-    {
       "raw_hot": 49385,
       "num": 369029,
       "word": "9年前国足曾战胜沙特",
@@ -8513,6 +8569,14 @@
       "onboard_time": 1725903134,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 47490,
+      "num": 436118,
+      "word": "公交专用道怎么用更好",
+      "onboard_time": 1725973703,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46536,
@@ -8564,7 +8628,7 @@
     },
     {
       "raw_hot": 44851,
-      "num": 192874,
+      "num": 193205,
       "word": "车圈芭莎之夜",
       "onboard_time": 1725972142,
       "rank": 35,
@@ -8593,6 +8657,14 @@
       "onboard_time": 1725772218,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43946,
+      "num": 205315,
+      "word": "迎风的青春",
+      "onboard_time": 1725975443,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 43164,
@@ -8772,18 +8844,10 @@
     },
     {
       "raw_hot": 36243,
-      "num": 247757,
+      "num": 287483,
       "word": "美好起源共庆圆满",
       "onboard_time": 1725971540,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36212,
-      "num": 436118,
-      "word": "公交专用道怎么用更好",
-      "onboard_time": 1725973703,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -8872,6 +8936,14 @@
       "word": "人工耳蜗等高值医用耗材纳入集采",
       "onboard_time": 1725956300,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32690,
+      "num": 246306,
+      "word": "广州部分传统饼店日销月饼过万斤",
+      "onboard_time": 1725973822,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -9033,14 +9105,6 @@
       "onboard_time": 1725954921,
       "rank": 29,
       "category": "数码"
-    },
-    {
-      "raw_hot": 26195,
-      "num": 246306,
-      "word": "广州部分传统饼店日销月饼过万斤",
-      "onboard_time": 1725973822,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26023,
