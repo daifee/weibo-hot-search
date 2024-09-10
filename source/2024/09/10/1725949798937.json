@@ -1,0 +1,410 @@
+{
+  "runTime": 1725949798937,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1491193,
+        "num": 1491193,
+        "word": "华为发布会",
+        "onboard_time": 1725946340,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 956815,
+        "num": 956815,
+        "word": "老九门2 还我妈生佛爷陈伟霆",
+        "onboard_time": 1725943221,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33267,
+        "num": 698463,
+        "word": "这些开学寄语献给每一个你",
+        "onboard_time": 1725939380,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1265426,
+        "num": 697929,
+        "word": "7年异地败给了7天暧昧",
+        "onboard_time": 1725944061,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 688020,
+        "num": 688020,
+        "word": "iPhone16真机上手",
+        "onboard_time": 1725934039,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 657591,
+        "num": 657591,
+        "word": "女子因猫咪离世压力大服药轻生",
+        "onboard_time": 1725948799,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489758,
+        "num": 489758,
+        "word": "这是我的岛 去印度",
+        "onboard_time": 1725943043,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382201,
+        "num": 382201,
+        "word": "德国三大经济支柱一根塌两根裂",
+        "onboard_time": 1725943282,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 293648,
+        "num": 359225,
+        "word": "青岛警方通报辅警违法被停职",
+        "onboard_time": 1725948260,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357444,
+        "num": 357444,
+        "word": "老九门2",
+        "onboard_time": 1725945380,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 710844,
+        "num": 357305,
+        "word": "情侣买房后分手女方觉得被骗",
+        "onboard_time": 1725942801,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685994,
+        "num": 357246,
+        "word": "iPhone16起售价5999元",
+        "onboard_time": 1725923777,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 356872,
+        "num": 356872,
+        "word": "44人因假赌黑被终身禁足",
+        "onboard_time": 1725937939,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319964,
+        "num": 319964,
+        "word": "赵露思一天官宣两部大女主剧",
+        "onboard_time": 1725940580,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120714,
+        "num": 312957,
+        "word": "年轻人为何不再为民宿买单",
+        "onboard_time": 1725948439,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310529,
+        "num": 310529,
+        "word": "青岛交警证实辅警逆行",
+        "onboard_time": 1725948260,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27829,
+        "num": 287764,
+        "word": "飞霄大捷",
+        "onboard_time": 1725944781,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 60550,
+        "num": 276130,
+        "word": "沈琳是要做月嫂不是龙傲天",
+        "onboard_time": 1725947840,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273061,
+        "num": 273061,
+        "word": "苹果配色好丑",
+        "onboard_time": 1725907032,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 41894,
+        "num": 271644,
+        "word": "多部门回应货车上管子插进公交车里",
+        "onboard_time": 1725948678,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1142922,
+        "num": 271484,
+        "word": "小杨哥小杨嫂 大学纯爱文学",
+        "onboard_time": 1725944841,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 271275,
+        "num": 271275,
+        "word": "金鹰奖入围的男女主角",
+        "onboard_time": 1725935898,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50524,
+        "num": 253199,
+        "word": "SuvProMax",
+        "onboard_time": 1725944962,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 244959,
+        "num": 244959,
+        "word": "董宇辉回应爹味很重",
+        "onboard_time": 1725945501,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 241115,
+        "num": 241115,
+        "word": "张颂文首部男主古装悬疑剧",
+        "onboard_time": 1725946640,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233807,
+        "num": 233807,
+        "word": "藏海传 大男主",
+        "onboard_time": 1725942562,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91252,
+        "num": 229319,
+        "word": "广东小伙靠外贸装柜日入过千",
+        "onboard_time": 1725947840,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225518,
+        "num": 225518,
+        "word": "娜扎恩利合照",
+        "onboard_time": 1725944781,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220949,
+        "num": 220949,
+        "word": "献鱼",
+        "onboard_time": 1725947959,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213344,
+        "num": 213344,
+        "word": "优酷 王炸储备",
+        "onboard_time": 1725940039,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206988,
+        "num": 206988,
+        "word": "教师节",
+        "onboard_time": 1725923597,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 201103,
+        "num": 201103,
+        "word": "金靖与老公医院做产检",
+        "onboard_time": 1725942861,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194855,
+        "num": 194855,
+        "word": "九门 张艺兴",
+        "onboard_time": 1725940701,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180417,
+        "num": 180417,
+        "word": "华为品牌盛典",
+        "onboard_time": 1725947179,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 193724,
+        "num": 175298,
+        "word": "九门阵容",
+        "onboard_time": 1725944661,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166067,
+        "num": 166067,
+        "word": "普通大学生一个月多少生活费够花",
+        "onboard_time": 1725946280,
+        "rank": 35,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 164315,
+        "num": 164315,
+        "word": "苹果 挤牙膏",
+        "onboard_time": 1725935299,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 163706,
+        "num": 163706,
+        "word": "田志希回应0比3输孙颖莎",
+        "onboard_time": 1725944481,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12192,
+        "num": 161190,
+        "word": "油皮和干皮如何选择面霜",
+        "onboard_time": 1725948320,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 159674,
+        "num": 159674,
+        "word": "优酷一口气官宣36档综艺",
+        "onboard_time": 1725943100,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157017,
+        "num": 157017,
+        "word": "花少6字幕加上名字了",
+        "onboard_time": 1725944360,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141256,
+        "num": 141256,
+        "word": "九门官宣",
+        "onboard_time": 1725938119,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140873,
+        "num": 140873,
+        "word": "苹果发布会",
+        "onboard_time": 1725902474,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 140630,
+        "num": 140630,
+        "word": "赛琳娜说自己永远没办法生孩子了",
+        "onboard_time": 1725926059,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138370,
+        "num": 138370,
+        "word": "这个国宝熊几乎没人见过真身",
+        "onboard_time": 1725946819,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137134,
+        "num": 137134,
+        "word": "九门",
+        "onboard_time": 1725938239,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135594,
+        "num": 135594,
+        "word": "孙颖莎祝所有老师教练节日快乐",
+        "onboard_time": 1725938479,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132322,
+        "num": 132322,
+        "word": "天才小熊猫总结苹果发布会",
+        "onboard_time": 1725949701,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 131429,
+        "num": 131429,
+        "word": "长安二十四计",
+        "onboard_time": 1725949760,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130023,
+        "num": 130023,
+        "word": "青岛辅警开私家车逆行引发热议",
+        "onboard_time": 1725936919,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在全国教育大会上发表重要讲话#"
+    }
+  }
+}

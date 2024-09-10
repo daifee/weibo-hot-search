@@ -1,6 +1,6 @@
 {
   "startTime": 1725899204781,
-  "endTime": 1725946700052,
+  "endTime": 1725949798937,
   "band_list": [
     {
       "raw_hot": 3172135,
@@ -59,6 +59,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1491193,
+      "num": 1491193,
+      "word": "华为发布会",
+      "onboard_time": 1725946340,
+      "rank": 5,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1480669,
       "num": 1480669,
       "word": "苹果发布会",
@@ -99,6 +107,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1265426,
+      "num": 697929,
+      "word": "7年异地败给了7天暧昧",
+      "onboard_time": 1725944061,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1259007,
       "num": 1259007,
       "word": "老九门2 还我妈生佛爷陈伟霆",
@@ -113,14 +129,6 @@
       "onboard_time": 1725940519,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1072259,
-      "num": 393510,
-      "word": "7年异地败给了7天暧昧",
-      "onboard_time": 1725944061,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 1039925,
@@ -275,6 +283,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 657591,
+      "num": 657591,
+      "word": "女子因猫咪离世压力大服药轻生",
+      "onboard_time": 1725948799,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 644810,
       "num": 693713,
       "word": "刘德华演唱会摔倒",
@@ -348,7 +364,7 @@
     },
     {
       "raw_hot": 497837,
-      "num": 361682,
+      "num": 489758,
       "word": "这是我的岛 去印度",
       "onboard_time": 1725943043,
       "rank": 42,
@@ -404,7 +420,7 @@
     },
     {
       "raw_hot": 365305,
-      "num": 322837,
+      "num": 357444,
       "word": "老九门2",
       "onboard_time": 1725945380,
       "rank": 41,
@@ -425,14 +441,6 @@
       "onboard_time": 1725942861,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 353945,
-      "num": 353945,
-      "word": "华为发布会",
-      "onboard_time": 1725946340,
-      "rank": 5,
-      "category": "数码"
     },
     {
       "raw_hot": 353376,
@@ -515,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310529,
+      "num": 310529,
+      "word": "青岛交警证实辅警逆行",
+      "onboard_time": 1725948260,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310494,
       "num": 310494,
       "word": "董宇辉回应爹味很重",
@@ -537,6 +553,14 @@
       "onboard_time": 1725901575,
       "rank": 9,
       "category": "数码"
+    },
+    {
+      "raw_hot": 293648,
+      "num": 359225,
+      "word": "青岛警方通报辅警违法被停职",
+      "onboard_time": 1725948260,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287207,
@@ -715,6 +739,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 241115,
+      "num": 241115,
+      "word": "张颂文首部男主古装悬疑剧",
+      "onboard_time": 1725946640,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229182,
       "num": 229182,
       "word": "热依扎终于又演狠拽女角色了",
@@ -729,6 +761,14 @@
       "onboard_time": 1725940279,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225518,
+      "num": 225518,
+      "word": "娜扎恩利合照",
+      "onboard_time": 1725944781,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 225062,
@@ -763,20 +803,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220949,
+      "num": 220949,
+      "word": "献鱼",
+      "onboard_time": 1725947959,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219421,
       "num": 219421,
       "word": "九门",
       "onboard_time": 1725938239,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 216687,
-      "num": 216687,
-      "word": "娜扎恩利合照",
-      "onboard_time": 1725944781,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 215281,
@@ -987,6 +1027,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 180417,
+      "num": 180417,
+      "word": "华为品牌盛典",
+      "onboard_time": 1725947179,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 178444,
       "num": 184972,
       "word": "性侵中国女游客的韩男子被求刑10年",
@@ -1075,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166067,
+      "num": 324465,
+      "word": "普通大学生一个月多少生活费够花",
+      "onboard_time": 1725946280,
+      "rank": 19,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 163705,
       "num": 163705,
       "word": "虞书欣拍林一",
@@ -1097,14 +1153,6 @@
       "onboard_time": 1725885980,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 162225,
-      "num": 162225,
-      "word": "张颂文首部男主古装悬疑剧",
-      "onboard_time": 1725946640,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 161980,
@@ -1227,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138370,
+      "num": 138370,
+      "word": "这个国宝熊几乎没人见过真身",
+      "onboard_time": 1725946819,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137064,
       "num": 137064,
       "word": "谁送我16pm",
@@ -1257,6 +1313,22 @@
       "onboard_time": 1725935898,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132322,
+      "num": 132322,
+      "word": "天才小熊猫总结苹果发布会",
+      "onboard_time": 1725949701,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 131429,
+      "num": 131429,
+      "word": "长安二十四计",
+      "onboard_time": 1725949760,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 126489,
@@ -1296,6 +1368,14 @@
       "word": "中式香氛爆火",
       "onboard_time": 1725926901,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120714,
+      "num": 312957,
+      "word": "年轻人为何不再为民宿买单",
+      "onboard_time": 1725948439,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1440,6 +1520,14 @@
       "word": "谢谢人生中的每一位引路人",
       "onboard_time": 1725938898,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91252,
+      "num": 229319,
+      "word": "广东小伙靠外贸装柜日入过千",
+      "onboard_time": 1725947840,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1659,6 +1747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60550,
+      "num": 276130,
+      "word": "沈琳是要做月嫂不是龙傲天",
+      "onboard_time": 1725947840,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 56546,
       "num": 80628,
       "word": "比悟空画的圈都管用",
@@ -1705,6 +1801,14 @@
       "onboard_time": 1725936257,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50524,
+      "num": 326996,
+      "word": "SuvProMax",
+      "onboard_time": 1725944962,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 50147,
@@ -1771,6 +1875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 41894,
+      "num": 271644,
+      "word": "多部门回应货车上管子插进公交车里",
+      "onboard_time": 1725948678,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40858,
       "num": 40858,
       "word": "AirPods4充电盒有扬声器",
@@ -1785,22 +1897,6 @@
       "onboard_time": 1725938898,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36099,
-      "num": 324465,
-      "word": "普通大学生一个月多少生活费够花",
-      "onboard_time": 1725946280,
-      "rank": 19,
-      "category": "社会议题"
-    },
-    {
-      "raw_hot": 36022,
-      "num": 326996,
-      "word": "SuvProMax",
-      "onboard_time": 1725944962,
-      "rank": 27,
-      "category": "数码"
     },
     {
       "raw_hot": 35374,
@@ -1827,20 +1923,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 33267,
+      "num": 698463,
+      "word": "这些开学寄语献给每一个你",
+      "onboard_time": 1725939380,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32551,
       "num": 1176056,
       "word": "万千气象看内蒙古",
       "onboard_time": 1725887060,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 32051,
-      "num": 686848,
-      "word": "这些开学寄语献给每一个你",
-      "onboard_time": 1725939380,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30979,
@@ -1897,6 +1993,14 @@
       "onboard_time": 1725906013,
       "rank": 20,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 12192,
+      "num": 161190,
+      "word": "油皮和干皮如何选择面霜",
+      "onboard_time": 1725948320,
+      "rank": 38,
+      "category": "美妆"
     },
     {
       "raw_hot": 11996,
