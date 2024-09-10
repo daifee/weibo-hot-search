@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725933277190,
+  "endTime": 1725936450995,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -585,6 +585,14 @@
       "onboard_time": 1725607579,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1763353,
+      "num": 1763353,
+      "word": "iPhone16真机上手",
+      "onboard_time": 1725934039,
+      "rank": 0,
+      "category": "数码"
     },
     {
       "raw_hot": 1756123,
@@ -2180,7 +2188,7 @@
     },
     {
       "raw_hot": 971074,
-      "num": 282092,
+      "num": 321415,
       "word": "女子通过蠕动解压被吐槽太抽象",
       "onboard_time": 1725894980,
       "rank": 33,
@@ -3475,6 +3483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 728882,
+      "num": 728882,
+      "word": "白夜追凶",
+      "onboard_time": 1725934278,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 728277,
       "num": 728277,
       "word": "赵露思自己化的妆容",
@@ -3505,6 +3521,14 @@
       "onboard_time": 1725365479,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 723594,
+      "num": 723594,
+      "word": "张翰拍公主抱脖子都红温了",
+      "onboard_time": 1725933919,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 721877,
@@ -4755,6 +4779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 563712,
+      "num": 563712,
+      "word": "优酷片单",
+      "onboard_time": 1725934459,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 563278,
       "num": 369320,
       "word": "合肥回应三只羊315糟头肉未受处罚",
@@ -5833,6 +5865,14 @@
       "onboard_time": 1725348380,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 473050,
+      "num": 359551,
+      "word": "苹果 挤牙膏",
+      "onboard_time": 1725935299,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 472912,
@@ -7043,6 +7083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 375324,
+      "num": 375324,
+      "word": "潘粤明官宣回归白夜追凶2",
+      "onboard_time": 1725934818,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 375299,
       "num": 375299,
       "word": "教师节文案",
@@ -7403,6 +7451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 353376,
+      "num": 353376,
+      "word": "赵露思官宣新剧恋人",
+      "onboard_time": 1725925579,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 350545,
       "num": 350545,
       "word": "这么傻的狗她居然有三只",
@@ -7577,6 +7633,14 @@
       "onboard_time": 1725371001,
       "rank": 23,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 343193,
+      "num": 343193,
+      "word": "金鹰奖入围的男女主角",
+      "onboard_time": 1725935898,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 341602,
@@ -8065,14 +8129,6 @@
       "onboard_time": 1725255082,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 314233,
-      "num": 314233,
-      "word": "赵露思官宣新剧恋人",
-      "onboard_time": 1725925579,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 314214,
@@ -9483,6 +9539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262495,
+      "num": 262495,
+      "word": "赵露思又无缝进组了",
+      "onboard_time": 1725934639,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262068,
       "num": 438967,
       "word": "谢娜新节目头脑风暴现场",
@@ -10169,6 +10233,14 @@
       "onboard_time": 1725902833,
       "rank": 9,
       "category": "数码"
+    },
+    {
+      "raw_hot": 242981,
+      "num": 242981,
+      "word": "王楚钦樊振东排名前二",
+      "onboard_time": 1725936257,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 242959,
@@ -11451,6 +11523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216430,
+      "num": 216430,
+      "word": "恋人首发概念海报",
+      "onboard_time": 1725935898,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216388,
       "num": 216388,
       "word": "毕导 AI还得AI治",
@@ -12609,6 +12689,14 @@
       "onboard_time": 1725868339,
       "rank": 17,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 201678,
+      "num": 201678,
+      "word": "苹果客服回应下架iPhone15Pro",
+      "onboard_time": 1725936079,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 201574,
@@ -17115,6 +17203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163705,
+      "num": 163705,
+      "word": "虞书欣拍林一",
+      "onboard_time": 1725935057,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163566,
       "num": 163566,
       "word": "范丞丞晒照庆六周年",
@@ -20584,6 +20680,14 @@
       "word": "U21国足绝杀",
       "onboard_time": 1725462382,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 133492,
+      "num": 138181,
+      "word": "99年乒乓球前国手单挑公园大爷",
+      "onboard_time": 1725935898,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -26059,6 +26163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36354,
+      "num": 402777,
+      "word": "网上买宠物想不踩坑太难了",
+      "onboard_time": 1725936257,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36266,
       "num": 320029,
       "word": "开学综合征的典型表现",
@@ -26153,6 +26265,14 @@
       "onboard_time": 1725812598,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35374,
+      "num": 207561,
+      "word": "洛阳为教师点亮夜空",
+      "onboard_time": 1725934697,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 34886,
