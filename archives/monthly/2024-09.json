@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1725938659948,
+  "endTime": 1725939538885,
   "band_list": [
     {
       "raw_hot": 12253821,
@@ -1083,6 +1083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1428552,
+      "num": 1428552,
+      "word": "金鹰奖入围的男女主角",
+      "onboard_time": 1725935898,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1425882,
       "num": 1425882,
       "word": "长春警方通报一小区持刀伤人事件",
@@ -1665,14 +1673,6 @@
       "onboard_time": 1725429738,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1144700,
-      "num": 1183152,
-      "word": "金鹰奖入围的男女主角",
-      "onboard_time": 1725935898,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 1144441,
@@ -3179,6 +3179,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 786038,
+      "num": 568747,
+      "word": "青岛辅警开私家车逆行引发热议",
+      "onboard_time": 1725936919,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 783057,
       "num": 783057,
       "word": "专家称95后00后吃穿消费高峰已过",
@@ -3755,6 +3763,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 696185,
+      "num": 684428,
+      "word": "苹果 挤牙膏",
+      "onboard_time": 1725935299,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 695388,
       "num": 695388,
       "word": "卢昱晓 刁蛮俏公主",
@@ -3801,6 +3817,14 @@
       "onboard_time": 1725181939,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 686104,
+      "num": 686104,
+      "word": "孙颖莎祝所有老师教练节日快乐",
+      "onboard_time": 1725938479,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 682126,
@@ -3897,6 +3921,14 @@
       "onboard_time": 1725847099,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 673677,
+      "num": 673677,
+      "word": "藏海传",
+      "onboard_time": 1725937398,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 673101,
@@ -4707,6 +4739,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 578694,
+      "num": 578694,
+      "word": "44人因假赌黑被终身禁足",
+      "onboard_time": 1725937939,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 577489,
       "num": 527878,
       "word": "张雨绮张真源豪门姐弟具象化",
@@ -4809,14 +4849,6 @@
       "onboard_time": 1725528440,
       "rank": 32,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 562876,
-      "num": 562876,
-      "word": "苹果 挤牙膏",
-      "onboard_time": 1725935299,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 562453,
@@ -5481,6 +5513,14 @@
       "onboard_time": 1725341361,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 503092,
+      "num": 503092,
+      "word": "九门官宣",
+      "onboard_time": 1725938119,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 502791,
@@ -6369,14 +6409,6 @@
       "onboard_time": 1725502759,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 433335,
-      "num": 433335,
-      "word": "藏海传",
-      "onboard_time": 1725937398,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 432537,
@@ -7281,14 +7313,6 @@
       "onboard_time": 1725780499,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 366347,
-      "num": 366347,
-      "word": "青岛辅警开私家车逆行引发热议",
-      "onboard_time": 1725936919,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 365892,
@@ -9467,6 +9491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 265818,
+      "num": 265818,
+      "word": "iPhone16配色 垃圾袋",
+      "onboard_time": 1725938598,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 265685,
       "num": 424271,
       "word": "于正说袁姗姗有几分像秦岚",
@@ -9953,14 +9985,6 @@
       "onboard_time": 1725355461,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 251994,
-      "num": 502732,
-      "word": "44人因假赌黑被终身禁足",
-      "onboard_time": 1725937939,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 251576,
@@ -11235,6 +11259,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 222815,
+      "num": 222815,
+      "word": "汪嵩被禁足5年",
+      "onboard_time": 1725938719,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222786,
       "num": 222786,
       "word": "猫咖员工招揽生意",
@@ -11409,6 +11441,14 @@
       "onboard_time": 1725700520,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 219421,
+      "num": 219421,
+      "word": "九门",
+      "onboard_time": 1725938239,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 219271,
@@ -11883,6 +11923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210403,
+      "num": 210403,
+      "word": "影视飓风送全体员工iPhone16Pro",
+      "onboard_time": 1725938059,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 210183,
       "num": 583516,
       "word": "伊朗总统坠机事故原因公布",
@@ -12153,14 +12201,6 @@
       "onboard_time": 1725787760,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 207465,
-      "num": 207465,
-      "word": "iPhone16配色 垃圾袋",
-      "onboard_time": 1725938598,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 207435,
@@ -12459,14 +12499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204987,
-      "num": 204987,
-      "word": "九门官宣",
-      "onboard_time": 1725938119,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 204752,
       "num": 204752,
       "word": "宋亚轩旅行小青蛙",
@@ -12569,6 +12601,14 @@
       "onboard_time": 1725505940,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 203402,
+      "num": 203402,
+      "word": "中国足协",
+      "onboard_time": 1725938239,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 203395,
@@ -13115,6 +13155,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 198663,
+      "num": 198663,
+      "word": "金敬道被终身禁足",
+      "onboard_time": 1725938360,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198655,
       "num": 121914,
       "word": "千万不要教自己的对象打羽毛球",
@@ -13625,14 +13673,6 @@
       "onboard_time": 1725517520,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 194424,
-      "num": 194424,
-      "word": "中国足协",
-      "onboard_time": 1725938239,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 194342,
@@ -15059,14 +15099,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 182342,
-      "num": 182342,
-      "word": "孙颖莎祝所有老师教练节日快乐",
-      "onboard_time": 1725938479,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 182336,
       "num": 182336,
       "word": "Peanut哭了",
@@ -15451,14 +15483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178891,
-      "num": 178891,
-      "word": "金敬道被终身禁足",
-      "onboard_time": 1725938360,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 178836,
       "num": 178836,
       "word": "RW对战狼队",
@@ -15521,14 +15545,6 @@
       "onboard_time": 1725865519,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178565,
-      "num": 178565,
-      "word": "影视飓风送全体员工iPhone16Pro",
-      "onboard_time": 1725938059,
-      "rank": 35,
-      "category": "互联网"
     },
     {
       "raw_hot": 178545,
@@ -15809,6 +15825,14 @@
       "onboard_time": 1725332841,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 175998,
+      "num": 175998,
+      "word": "张远三巡官宣",
+      "onboard_time": 1725938479,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 175933,
@@ -17011,14 +17035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166343,
-      "num": 166343,
-      "word": "九门",
-      "onboard_time": 1725938239,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 166335,
       "num": 166335,
       "word": "完美世界定档",
@@ -17385,6 +17401,14 @@
       "onboard_time": 1725357740,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163179,
+      "num": 163179,
+      "word": "中美两军战区领导视频通话",
+      "onboard_time": 1725939139,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 163097,
@@ -18595,6 +18619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154326,
+      "num": 151310,
+      "word": "赵露思曾黎又聚餐了",
+      "onboard_time": 1725939079,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154162,
       "num": 590629,
       "word": "以色列民众多地大规模抗议",
@@ -19257,6 +19289,14 @@
       "onboard_time": 1725196340,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148469,
+      "num": 148469,
+      "word": "王源上海站演唱会",
+      "onboard_time": 1725939380,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 148450,
@@ -21483,14 +21523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125760,
-      "num": 125760,
-      "word": "张远三巡官宣",
-      "onboard_time": 1725938479,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
       "raw_hot": 125711,
       "num": 125711,
       "word": "梁王组合hi6打羽毛球都在整活",
@@ -23331,6 +23363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96478,
+      "num": 509292,
+      "word": "饭店将福寿螺冒充田螺销售",
+      "onboard_time": 1725937939,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96046,
       "num": 96046,
       "word": "樊振东学跳霹雳舞",
@@ -23512,6 +23552,14 @@
       "word": "摩羯三次登陆都是超强台风级别",
       "onboard_time": 1725772218,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91738,
+      "num": 439735,
+      "word": "谢谢人生中的每一位引路人",
+      "onboard_time": 1725938898,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -24635,14 +24683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 63489,
-      "num": 435996,
-      "word": "饭店将福寿螺冒充田螺销售",
-      "onboard_time": 1725937939,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 63455,
       "num": 436889,
       "word": "放空成了消费社会的奢侈品",
@@ -24713,6 +24753,14 @@
       "onboard_time": 1725453500,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 60989,
+      "num": 228251,
+      "word": "英国多家咖啡馆禁止顾客用电脑",
+      "onboard_time": 1725938299,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60696,
@@ -25339,14 +25387,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 50347,
-      "num": 208472,
-      "word": "英国多家咖啡馆禁止顾客用电脑",
-      "onboard_time": 1725938299,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50311,
       "num": 250725,
       "word": "何浩楠何小帅的土爽面吃播vlog",
@@ -25384,6 +25424,14 @@
       "word": "女子带娃被困大风中2男子接力解救",
       "onboard_time": 1725679041,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50015,
+      "num": 514973,
+      "word": "如何落实教育惩戒权",
+      "onboard_time": 1725937638,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -25628,7 +25676,7 @@
     },
     {
       "raw_hot": 45517,
-      "num": 403569,
+      "num": 463892,
       "word": "守护是老师的浪漫主义",
       "onboard_time": 1725936557,
       "rank": 45,
@@ -25963,6 +26011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40553,
+      "num": 422793,
+      "word": "千金难买老来瘦是真的吗",
+      "onboard_time": 1725938898,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40480,
       "num": 847649,
       "word": "老师的鼓励像太阳一样温暖",
@@ -26040,14 +26096,6 @@
       "word": "2024年国家网络安全宣传周",
       "onboard_time": 1725765617,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39416,
-      "num": 514973,
-      "word": "如何落实教育惩戒权",
-      "onboard_time": 1725937638,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -26944,6 +26992,14 @@
       "word": "官方回应罐车气体泄漏致家禽死亡",
       "onboard_time": 1725442280,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30407,
+      "num": 686848,
+      "word": "这些开学寄语献给每一个你",
+      "onboard_time": 1725939380,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -28622,6 +28678,9 @@
     },
     {
       "word": "#习近平尊师重教的十个暖心故事#"
+    },
+    {
+      "word": "#习近平向全国广大教师致以节日祝贺#"
     }
   ]
 }

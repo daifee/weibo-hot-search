@@ -1,0 +1,410 @@
+{
+  "runTime": 1725939538885,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1428552,
+        "num": 1428552,
+        "word": "金鹰奖入围的男女主角",
+        "onboard_time": 1725935898,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 689539,
+        "num": 689539,
+        "word": "教师节",
+        "onboard_time": 1725923597,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 30407,
+        "num": 686848,
+        "word": "这些开学寄语献给每一个你",
+        "onboard_time": 1725939380,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1273318,
+        "num": 686680,
+        "word": "iPhone16真机上手",
+        "onboard_time": 1725934039,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 686104,
+        "num": 686104,
+        "word": "孙颖莎祝所有老师教练节日快乐",
+        "onboard_time": 1725938479,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 696185,
+        "num": 684428,
+        "word": "苹果 挤牙膏",
+        "onboard_time": 1725935299,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 673677,
+        "num": 673677,
+        "word": "藏海传",
+        "onboard_time": 1725937398,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 650139,
+        "num": 650139,
+        "word": "潘粤明官宣回归白夜追凶2",
+        "onboard_time": 1725934818,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 614654,
+        "num": 614654,
+        "word": "张翰拍公主抱脖子都红温了",
+        "onboard_time": 1725933919,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 578694,
+        "num": 578694,
+        "word": "44人因假赌黑被终身禁足",
+        "onboard_time": 1725937939,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1880041,
+        "num": 576370,
+        "word": "iPhone16起售价5999元",
+        "onboard_time": 1725923777,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 786038,
+        "num": 568747,
+        "word": "青岛辅警开私家车逆行引发热议",
+        "onboard_time": 1725936919,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 883454,
+        "num": 557011,
+        "word": "苹果配色好丑",
+        "onboard_time": 1725907032,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 534831,
+        "num": 534831,
+        "word": "华为三折叠",
+        "onboard_time": 1725933019,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 96478,
+        "num": 509292,
+        "word": "饭店将福寿螺冒充田螺销售",
+        "onboard_time": 1725937939,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503092,
+        "num": 503092,
+        "word": "九门官宣",
+        "onboard_time": 1725938119,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 467093,
+        "num": 467093,
+        "word": "赛琳娜说自己永远没办法生孩子了",
+        "onboard_time": 1725926059,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23168,
+        "num": 463892,
+        "word": "守护是老师的浪漫主义",
+        "onboard_time": 1725936557,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 91738,
+        "num": 439735,
+        "word": "谢谢人生中的每一位引路人",
+        "onboard_time": 1725938898,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40553,
+        "num": 422793,
+        "word": "千金难买老来瘦是真的吗",
+        "onboard_time": 1725938898,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50015,
+        "num": 414917,
+        "word": "如何落实教育惩戒权",
+        "onboard_time": 1725937638,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401341,
+        "num": 401341,
+        "word": "官网下架iPhone15Pro",
+        "onboard_time": 1725924198,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 369903,
+        "num": 369903,
+        "word": "白夜追凶",
+        "onboard_time": 1725934278,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355180,
+        "num": 355180,
+        "word": "苹果发布会",
+        "onboard_time": 1725902474,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 350432,
+        "num": 350432,
+        "word": "优酷片单",
+        "onboard_time": 1725934459,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277234,
+        "num": 277234,
+        "word": "张杰工作室道歉",
+        "onboard_time": 1725891501,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 276250,
+        "num": 276250,
+        "word": "男子买鸡耍心眼被店主连扇4耳光",
+        "onboard_time": 1725927621,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265818,
+        "num": 265818,
+        "word": "iPhone16配色 垃圾袋",
+        "onboard_time": 1725938598,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 243192,
+        "num": 243192,
+        "word": "王楚钦樊振东排名前二",
+        "onboard_time": 1725936257,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60989,
+        "num": 228251,
+        "word": "英国多家咖啡馆禁止顾客用电脑",
+        "onboard_time": 1725938299,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222815,
+        "num": 222815,
+        "word": "汪嵩被禁足5年",
+        "onboard_time": 1725938719,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219421,
+        "num": 219421,
+        "word": "九门",
+        "onboard_time": 1725938239,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210403,
+        "num": 210403,
+        "word": "影视飓风送全体员工iPhone16Pro",
+        "onboard_time": 1725938059,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 203402,
+        "num": 203402,
+        "word": "中国足协",
+        "onboard_time": 1725938239,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198663,
+        "num": 198663,
+        "word": "金敬道被终身禁足",
+        "onboard_time": 1725938360,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192767,
+        "num": 192767,
+        "word": "库克称iPhone16是最先进的iPhone",
+        "onboard_time": 1725929478,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 184378,
+        "num": 184378,
+        "word": "A股",
+        "onboard_time": 1725933978,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 181474,
+        "num": 181474,
+        "word": "女子通过蠕动解压被吐槽太抽象",
+        "onboard_time": 1725894980,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177468,
+        "num": 177468,
+        "word": "苹果客服回应下架iPhone15Pro",
+        "onboard_time": 1725936079,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 175998,
+        "num": 175998,
+        "word": "张远三巡官宣",
+        "onboard_time": 1725938479,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175726,
+        "num": 175726,
+        "word": "华为",
+        "onboard_time": 1725923717,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 165739,
+        "num": 165739,
+        "word": "赵露思官宣新剧恋人",
+        "onboard_time": 1725925579,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163179,
+        "num": 163179,
+        "word": "中美两军战区领导视频通话",
+        "onboard_time": 1725939139,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160569,
+        "num": 160569,
+        "word": "网恋4年的女友竟是已婚发小",
+        "onboard_time": 1725935778,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151734,
+        "num": 151734,
+        "word": "教师节礼物",
+        "onboard_time": 1725937038,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 151405,
+        "num": 151405,
+        "word": "苏新皓 网购需谨慎",
+        "onboard_time": 1725937278,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154326,
+        "num": 151310,
+        "word": "赵露思曾黎又聚餐了",
+        "onboard_time": 1725939079,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150269,
+        "num": 150269,
+        "word": "整治足球职业联赛假赌黑",
+        "onboard_time": 1725937699,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148469,
+        "num": 148469,
+        "word": "王源上海站演唱会",
+        "onboard_time": 1725939380,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145384,
+        "num": 145384,
+        "word": "田曦薇演累了让我演两集",
+        "onboard_time": 1725898038,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国广大教师致以节日祝贺#"
+    }
+  }
+}
