@@ -1,6 +1,6 @@
 {
   "startTime": 1725899204781,
-  "endTime": 1725979134417,
+  "endTime": 1725981778256,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -523,6 +523,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 602832,
+      "num": 602832,
+      "word": "伊万 下课",
+      "onboard_time": 1725978323,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 593155,
       "num": 942655,
       "word": "月饼为什么卖不动了",
@@ -579,12 +587,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 501660,
+      "num": 501660,
+      "word": "张雨绮 千万不要对号入座",
+      "onboard_time": 1725968360,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 497837,
       "num": 489758,
       "word": "这是我的岛 去印度",
       "onboard_time": 1725943043,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 497709,
+      "num": 347790,
+      "word": "金毛犬扑向孕妇致受惊吓流产",
+      "onboard_time": 1725980723,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 497442,
@@ -656,14 +680,6 @@
       "word": "秦昊不让伊能静给自己洗袜子",
       "onboard_time": 1725954020,
       "rank": 11,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 424752,
-      "num": 424752,
-      "word": "张雨绮 千万不要对号入座",
-      "onboard_time": 1725968360,
-      "rank": 13,
       "category": "综艺"
     },
     {
@@ -801,14 +817,6 @@
       "onboard_time": 1725948260,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 355651,
-      "num": 355651,
-      "word": "伊万 下课",
-      "onboard_time": 1725978323,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 353376,
@@ -1081,6 +1089,14 @@
       "onboard_time": 1725880220,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280645,
+      "num": 280645,
+      "word": "王楚钦真的拿起板又不想输了",
+      "onboard_time": 1725979402,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 278114,
@@ -1555,20 +1571,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 207488,
+      "num": 347853,
+      "word": "海南目前缺什么物资",
+      "onboard_time": 1725977064,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206316,
       "num": 206316,
       "word": "墨雨爆了我有多爽你们知道吗",
       "onboard_time": 1725959419,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 205638,
-      "num": 205638,
-      "word": "海南目前缺什么物资",
-      "onboard_time": 1725977064,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205559,
@@ -1584,6 +1600,14 @@
       "word": "中国足协",
       "onboard_time": 1725938239,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 203275,
+      "num": 203275,
+      "word": "全场球迷高呼伊万下课",
+      "onboard_time": 1725980661,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -1699,6 +1723,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 195760,
+      "num": 195760,
+      "word": "花海受伤",
+      "onboard_time": 1725981683,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195454,
       "num": 195454,
       "word": "华为三折叠手机有黄牛定价8万",
@@ -1787,12 +1819,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189231,
+      "num": 189231,
+      "word": "18强赛国足两连败",
+      "onboard_time": 1725980903,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188833,
       "num": 198102,
       "word": "苹果店员工到华为店观看新品发布会",
       "onboard_time": 1725976343,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 188727,
+      "num": 188727,
+      "word": "库里到达成都",
+      "onboard_time": 1725979103,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 187943,
@@ -1851,14 +1899,6 @@
       "category": "动漫,艺人"
     },
     {
-      "raw_hot": 184727,
-      "num": 184727,
-      "word": "库里到达成都",
-      "onboard_time": 1725979103,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 184709,
       "num": 184709,
       "word": "白夜追凶 纯元回宫",
@@ -1889,6 +1929,14 @@
       "onboard_time": 1725944121,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 183229,
+      "num": 183229,
+      "word": "偶像梦幻祭",
+      "onboard_time": 1725980541,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 181526,
@@ -2163,6 +2211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156856,
+      "num": 156856,
+      "word": "我就知道汉语言文学专业出路多",
+      "onboard_time": 1725979703,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156199,
       "num": 156199,
       "word": "蒋裕燕 残奥会9项7枚金牌",
@@ -2371,6 +2427,14 @@
       "category": "游戏,数码"
     },
     {
+      "raw_hot": 141937,
+      "num": 141937,
+      "word": "杨幂黑西装搭高跟鞋",
+      "onboard_time": 1725979223,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 140637,
       "num": 140637,
       "word": "张雨绮张真源豪门姐弟具象化",
@@ -2408,6 +2472,14 @@
       "word": "骗子扮苹果员工卖手机多人上当",
       "onboard_time": 1725953599,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139198,
+      "num": 139198,
+      "word": "台风后海滩上的生蚝尽量别吃",
+      "onboard_time": 1725979763,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2929,6 +3001,14 @@
       "onboard_time": 1725932958,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88014,
+      "num": 196412,
+      "word": "雪迷宫 大嫂",
+      "onboard_time": 1725979402,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 87996,
@@ -3467,6 +3547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35465,
+      "num": 159903,
+      "word": "用华为三折叠打开excel",
+      "onboard_time": 1725980784,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 35374,
       "num": 207561,
       "word": "洛阳为教师点亮夜空",
@@ -3547,6 +3635,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29273,
+      "num": 196413,
+      "word": "海清到底上谁的车",
+      "onboard_time": 1725981201,
+      "rank": 29,
+      "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 28410,
+      "num": 276265,
+      "word": "裁我可以 给钱就行",
+      "onboard_time": 1725980661,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27859,
       "num": 291105,
       "word": "辛选主播蛋蛋助农破亿",
@@ -3608,6 +3712,14 @@
       "word": "夏一平说极越07是特斯拉Model5",
       "onboard_time": 1725973222,
       "rank": 29,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 22020,
+      "num": 341242,
+      "word": "帕萨特380家族上市15.99万起",
+      "onboard_time": 1725979643,
+      "rank": 13,
       "category": "汽车"
     },
     {

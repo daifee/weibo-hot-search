@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725979134417,
+  "endTime": 1725981778256,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -1299,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 602832,
+      "num": 602832,
+      "word": "伊万 下课",
+      "onboard_time": 1725978323,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 592568,
       "num": 593739,
       "word": "日本校园裸体健康体检引发不满",
@@ -1523,6 +1531,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 501660,
+      "num": 501660,
+      "word": "张雨绮 千万不要对号入座",
+      "onboard_time": 1725968360,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 500969,
       "num": 500969,
       "word": "王曼昱vs斯佐科斯",
@@ -1545,6 +1561,14 @@
       "onboard_time": 1725943043,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 497709,
+      "num": 347790,
+      "word": "金毛犬扑向孕妇致受惊吓流产",
+      "onboard_time": 1725980723,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 497442,
@@ -1825,14 +1849,6 @@
       "onboard_time": 1725846499,
       "rank": 33,
       "category": "数码"
-    },
-    {
-      "raw_hot": 424752,
-      "num": 424752,
-      "word": "张雨绮 千万不要对号入座",
-      "onboard_time": 1725968360,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 419637,
@@ -2209,14 +2225,6 @@
       "onboard_time": 1725948260,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 355651,
-      "num": 355651,
-      "word": "伊万 下课",
-      "onboard_time": 1725978323,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 354236,
@@ -2809,6 +2817,14 @@
       "onboard_time": 1725846499,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 280645,
+      "num": 280645,
+      "word": "王楚钦真的拿起板又不想输了",
+      "onboard_time": 1725979402,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 278703,
@@ -3915,6 +3931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 207488,
+      "num": 347853,
+      "word": "海南目前缺什么物资",
+      "onboard_time": 1725977064,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206436,
       "num": 184717,
       "word": "岳云鹏让纪凌尘说话别带英文",
@@ -3969,14 +3993,6 @@
       "onboard_time": 1725768380,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205638,
-      "num": 205638,
-      "word": "海南目前缺什么物资",
-      "onboard_time": 1725977064,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205559,
@@ -4041,6 +4057,14 @@
       "onboard_time": 1725858860,
       "rank": 43,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 203275,
+      "num": 203275,
+      "word": "全场球迷高呼伊万下课",
+      "onboard_time": 1725980661,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 203227,
@@ -4307,6 +4331,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 195760,
+      "num": 195760,
+      "word": "花海受伤",
+      "onboard_time": 1725981683,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195658,
       "num": 195658,
       "word": "残奥会",
@@ -4555,6 +4587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189231,
+      "num": 189231,
+      "word": "18强赛国足两连败",
+      "onboard_time": 1725980903,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188835,
       "num": 188835,
       "word": "男孩骑行身亡案司机涉刑责合理吗",
@@ -4569,6 +4609,14 @@
       "onboard_time": 1725976343,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 188727,
+      "num": 188727,
+      "word": "库里到达成都",
+      "onboard_time": 1725979103,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 188394,
@@ -4731,14 +4779,6 @@
       "category": "动漫,艺人"
     },
     {
-      "raw_hot": 184727,
-      "num": 184727,
-      "word": "库里到达成都",
-      "onboard_time": 1725979103,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 184709,
       "num": 184709,
       "word": "白夜追凶 纯元回宫",
@@ -4761,6 +4801,14 @@
       "onboard_time": 1725944121,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 183229,
+      "num": 183229,
+      "word": "偶像梦幻祭",
+      "onboard_time": 1725980541,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 182805,
@@ -5627,6 +5675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156856,
+      "num": 156856,
+      "word": "我就知道汉语言文学专业出路多",
+      "onboard_time": 1725979703,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156717,
       "num": 156717,
       "word": "国足打沙特大概率还是付费直播",
@@ -6251,6 +6307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141937,
+      "num": 141937,
+      "word": "杨幂黑西装搭高跟鞋",
+      "onboard_time": 1725979223,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 141870,
       "num": 141870,
       "word": "雪迷宫 乡村版破云",
@@ -6336,6 +6400,14 @@
       "word": "这种糖突然在小孩圈爆火",
       "onboard_time": 1725788359,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139198,
+      "num": 139198,
+      "word": "台风后海滩上的生蚝尽量别吃",
+      "onboard_time": 1725979763,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -8075,6 +8147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88014,
+      "num": 196412,
+      "word": "雪迷宫 大嫂",
+      "onboard_time": 1725979402,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87996,
       "num": 87996,
       "word": "内娱超过七季的超长寿综艺",
@@ -9107,6 +9187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35465,
+      "num": 159903,
+      "word": "用华为三折叠打开excel",
+      "onboard_time": 1725980784,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 35374,
       "num": 207561,
       "word": "洛阳为教师点亮夜空",
@@ -9273,6 +9361,22 @@
       "onboard_time": 1725860060,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29273,
+      "num": 196413,
+      "word": "海清到底上谁的车",
+      "onboard_time": 1725981201,
+      "rank": 29,
+      "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 28410,
+      "num": 276265,
+      "word": "裁我可以 给钱就行",
+      "onboard_time": 1725980661,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 28159,
@@ -9465,6 +9569,14 @@
       "onboard_time": 1725880280,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22020,
+      "num": 341242,
+      "word": "帕萨特380家族上市15.99万起",
+      "onboard_time": 1725979643,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 21702,
