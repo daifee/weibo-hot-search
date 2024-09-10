@@ -1,6 +1,6 @@
 {
   "startTime": 1725899204781,
-  "endTime": 1725961045895,
+  "endTime": 1725963780797,
   "band_list": [
     {
       "raw_hot": 3894981,
@@ -35,12 +35,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 3016886,
+      "num": 1528862,
+      "word": "金鹰奖删除刘亦菲入围资格",
+      "onboard_time": 1725960141,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2918704,
       "num": 2918704,
       "word": "iPhone16价格",
       "onboard_time": 1725906913,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 2520399,
+      "num": 2540799,
+      "word": "延迟法定退休年龄改革",
+      "onboard_time": 1725963320,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2017612,
@@ -81,14 +97,6 @@
       "onboard_time": 1725942801,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1528862,
-      "num": 1528862,
-      "word": "金鹰奖删除刘亦菲入围资格",
-      "onboard_time": 1725960141,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 1524275,
@@ -225,6 +233,14 @@
       "onboard_time": 1725940822,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 889630,
+      "num": 337631,
+      "word": "76岁阿姨户口本突然多出1个妹妹",
+      "onboard_time": 1725960200,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 886081,
@@ -443,6 +459,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 476104,
+      "num": 342154,
+      "word": "刘亦菲 外籍",
+      "onboard_time": 1725963019,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 474273,
       "num": 474273,
       "word": "老九门2",
@@ -515,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 390518,
+      "num": 371995,
+      "word": "夫妻破产后可申请免除928万债务",
+      "onboard_time": 1725959180,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377267,
       "num": 377267,
       "word": "孙海洋支持孙卓在大学谈恋爱",
@@ -528,14 +560,6 @@
       "word": "教师节文案",
       "onboard_time": 1725888199,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 371995,
-      "num": 371995,
-      "word": "夫妻破产后可申请免除928万债务",
-      "onboard_time": 1725959180,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -931,6 +955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235053,
+      "num": 165840,
+      "word": "阴阳师美术组",
+      "onboard_time": 1725962960,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 232562,
       "num": 232562,
       "word": "娜扎恩利合照",
@@ -1147,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206316,
+      "num": 206316,
+      "word": "墨雨爆了我有多爽你们知道吗",
+      "onboard_time": 1725959419,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205559,
       "num": 205559,
       "word": "成都暴雨",
@@ -1185,6 +1225,14 @@
       "onboard_time": 1725905233,
       "rank": 13,
       "category": "数码"
+    },
+    {
+      "raw_hot": 199788,
+      "num": 199788,
+      "word": "老九门2能请赵丽颖吗",
+      "onboard_time": 1725960980,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 198753,
@@ -1297,6 +1345,14 @@
       "onboard_time": 1725925520,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184808,
+      "num": 184808,
+      "word": "筱原惠美去世",
+      "onboard_time": 1725960682,
+      "rank": 35,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 184446,
@@ -1467,14 +1523,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 165768,
-      "num": 165768,
-      "word": "墨雨爆了我有多爽你们知道吗",
-      "onboard_time": 1725959419,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 163705,
       "num": 163705,
       "word": "虞书欣拍林一",
@@ -1539,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157905,
+      "num": 157905,
+      "word": "白夜追凶 纯元回宫",
+      "onboard_time": 1725961280,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156199,
       "num": 156199,
       "word": "蒋裕燕 残奥会9项7枚金牌",
@@ -1561,14 +1617,6 @@
       "onboard_time": 1725877939,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 155195,
-      "num": 155195,
-      "word": "筱原惠美去世",
-      "onboard_time": 1725960682,
-      "rank": 35,
-      "category": "动漫,艺人"
     },
     {
       "raw_hot": 153823,
@@ -1691,6 +1739,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 140623,
+      "num": 165908,
+      "word": "国防教育法修订草案二审",
+      "onboard_time": 1725961640,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 140282,
       "num": 140282,
       "word": "库克发微博为苹果发布会预热",
@@ -1739,6 +1795,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 136925,
+      "num": 136925,
+      "word": "国足主场球迷",
+      "onboard_time": 1725961882,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136349,
       "num": 136349,
       "word": "凡人歌贵妇变月嫂老公变小工",
@@ -1769,6 +1833,14 @@
       "onboard_time": 1725893002,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 133678,
+      "num": 133678,
+      "word": "十四届全国人大常委会第十一次会议",
+      "onboard_time": 1725963500,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 133492,
@@ -1931,14 +2003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112482,
-      "num": 112482,
-      "word": "老九门2能请赵丽颖吗",
-      "onboard_time": 1725960980,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 111109,
       "num": 111109,
       "word": "企业家吐槽在贵州开会被针对",
@@ -1987,6 +2051,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 102097,
+      "num": 102097,
+      "word": "十个勤天外务越来越秀了",
+      "onboard_time": 1725962721,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101789,
       "num": 101789,
       "word": "年轻人改造租屋拒绝没苦硬吃",
@@ -2033,6 +2105,14 @@
       "onboard_time": 1725932058,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98231,
+      "num": 98231,
+      "word": "一想到下周是中秋假期",
+      "onboard_time": 1725962421,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 96705,
@@ -2203,14 +2283,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 75762,
-      "num": 337631,
-      "word": "76岁阿姨户口本突然多出1个妹妹",
-      "onboard_time": 1725960200,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75147,
       "num": 75147,
       "word": "王者荣耀世界",
@@ -2355,6 +2427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52282,
+      "num": 280788,
+      "word": "华为首款轿跑SUV真香",
+      "onboard_time": 1725960860,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 52088,
       "num": 297109,
       "word": "华为三折叠一机多能",
@@ -2467,14 +2547,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 41542,
-      "num": 105025,
-      "word": "华为首款轿跑SUV真香",
-      "onboard_time": 1725960860,
-      "rank": 49,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 41172,
       "num": 339641,
       "word": "华为见非凡品牌计划官宣",
@@ -2521,6 +2593,14 @@
       "onboard_time": 1725957140,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 36844,
+      "num": 286665,
+      "word": "为何年轻人舍得给宠物下本吃高端粮",
+      "onboard_time": 1725962840,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35374,
@@ -2593,6 +2673,14 @@
       "onboard_time": 1725954921,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 25830,
+      "num": 252519,
+      "word": "12岁小孩反复高烧竟因被毒虫咬伤",
+      "onboard_time": 1725963440,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25224,

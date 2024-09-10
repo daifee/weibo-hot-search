@@ -1,0 +1,410 @@
+{
+  "runTime": 1725963780797,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2520399,
+        "num": 2540799,
+        "word": "延迟法定退休年龄改革",
+        "onboard_time": 1725963320,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1024771,
+        "num": 1024771,
+        "word": "华为三折叠价格19999起",
+        "onboard_time": 1725952821,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 134219,
+        "num": 742233,
+        "word": "教师节的顶级文案还是老师教的",
+        "onboard_time": 1725956241,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3016886,
+        "num": 727266,
+        "word": "金鹰奖删除刘亦菲入围资格",
+        "onboard_time": 1725960141,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 669776,
+        "num": 669776,
+        "word": "华为三折叠",
+        "onboard_time": 1725951080,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 400073,
+        "num": 400073,
+        "word": "华为发布会",
+        "onboard_time": 1725946340,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 366586,
+        "num": 366586,
+        "word": "周扬青说恋综男嘉宾像杀猪盘",
+        "onboard_time": 1725958702,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356855,
+        "num": 356855,
+        "word": "年轻人为何不再为民宿买单",
+        "onboard_time": 1725948439,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476104,
+        "num": 342154,
+        "word": "刘亦菲 外籍",
+        "onboard_time": 1725963019,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322784,
+        "num": 322784,
+        "word": "iPhone16真机上手",
+        "onboard_time": 1725934039,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 889630,
+        "num": 315467,
+        "word": "76岁阿姨户口本突然多出1个妹妹",
+        "onboard_time": 1725960200,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390518,
+        "num": 310184,
+        "word": "夫妻破产后可申请免除928万债务",
+        "onboard_time": 1725959180,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303716,
+        "num": 303716,
+        "word": "iPhone16起售价5999元",
+        "onboard_time": 1725923777,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 288395,
+        "num": 288395,
+        "word": "赵露思赵丽颖演同一小说",
+        "onboard_time": 1725954561,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36844,
+        "num": 286665,
+        "word": "为何年轻人舍得给宠物下本吃高端粮",
+        "onboard_time": 1725962840,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52282,
+        "num": 280788,
+        "word": "华为首款轿跑SUV真香",
+        "onboard_time": 1725960860,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 21252,
+        "num": 272305,
+        "word": "华为见非凡品牌计划官宣",
+        "onboard_time": 1725959240,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 224381,
+        "num": 260710,
+        "word": "7年异地败给了7天暧昧",
+        "onboard_time": 1725944061,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303537,
+        "num": 259044,
+        "word": "于正 怎么生了你这样的畜生",
+        "onboard_time": 1725956181,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25830,
+        "num": 252519,
+        "word": "12岁小孩反复高烧竟因被毒虫咬伤",
+        "onboard_time": 1725963440,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759520,
+        "num": 245044,
+        "word": "小杨哥 二二",
+        "onboard_time": 1725954921,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 238444,
+        "num": 238444,
+        "word": "丰巢靠滞留金三年半营收8个亿",
+        "onboard_time": 1725951502,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206316,
+        "num": 206316,
+        "word": "墨雨爆了我有多爽你们知道吗",
+        "onboard_time": 1725959419,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204050,
+        "num": 204050,
+        "word": "老九门2 还我妈生佛爷陈伟霆",
+        "onboard_time": 1725943221,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199788,
+        "num": 199788,
+        "word": "老九门2能请赵丽颖吗",
+        "onboard_time": 1725960980,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184808,
+        "num": 184808,
+        "word": "筱原惠美去世",
+        "onboard_time": 1725960682,
+        "rank": 25,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 173881,
+        "num": 173881,
+        "word": "刘亦菲现身高铁站",
+        "onboard_time": 1725959960,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169718,
+        "num": 169718,
+        "word": "权志龙全平台换头像",
+        "onboard_time": 1725956481,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33767,
+        "num": 167387,
+        "word": "智界R7华为黑科技拉满",
+        "onboard_time": 1725959240,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 140623,
+        "num": 165908,
+        "word": "国防教育法修订草案二审",
+        "onboard_time": 1725961640,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 235053,
+        "num": 165840,
+        "word": "阴阳师美术组",
+        "onboard_time": 1725962960,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165618,
+        "num": 165618,
+        "word": "华为品牌盛典",
+        "onboard_time": 1725947179,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 157905,
+        "num": 157905,
+        "word": "白夜追凶 纯元回宫",
+        "onboard_time": 1725961280,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141488,
+        "num": 141488,
+        "word": "看似三折 实则奏折",
+        "onboard_time": 1725954380,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 136925,
+        "num": 136925,
+        "word": "国足主场球迷",
+        "onboard_time": 1725961882,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133678,
+        "num": 133678,
+        "word": "十四届全国人大常委会第十一次会议",
+        "onboard_time": 1725963500,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129218,
+        "num": 129218,
+        "word": "华为大战苹果",
+        "onboard_time": 1725957980,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 127674,
+        "num": 127674,
+        "word": "赵丽颖黄晓明 造城者",
+        "onboard_time": 1725959120,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123677,
+        "num": 123677,
+        "word": "老九门2",
+        "onboard_time": 1725945380,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121528,
+        "num": 121528,
+        "word": "晚奶 意识抽离",
+        "onboard_time": 1725951620,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 105044,
+        "num": 105044,
+        "word": "华为Mate70啥时候出",
+        "onboard_time": 1725956181,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 103652,
+        "num": 103652,
+        "word": "iPhone16 相机控制",
+        "onboard_time": 1725959480,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 102810,
+        "num": 102810,
+        "word": "情侣买房后分手女方觉得被骗",
+        "onboard_time": 1725942801,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102097,
+        "num": 102097,
+        "word": "十个勤天外务越来越秀了",
+        "onboard_time": 1725962721,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98492,
+        "num": 98492,
+        "word": "秦昊不让伊能静给自己洗袜子",
+        "onboard_time": 1725954020,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98231,
+        "num": 98231,
+        "word": "一想到下周是中秋假期",
+        "onboard_time": 1725962421,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94986,
+        "num": 94986,
+        "word": "沙特主教练称目标是进5到6球",
+        "onboard_time": 1725958880,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94587,
+        "num": 94587,
+        "word": "田志希称赞孙颖莎人格魅力强",
+        "onboard_time": 1725960200,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94293,
+        "num": 94293,
+        "word": "程苗苗 香港到底有谁在啊",
+        "onboard_time": 1725958940,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89781,
+        "num": 89781,
+        "word": "库里直播",
+        "onboard_time": 1725955820,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#立德树人#"
+    }
+  }
+}

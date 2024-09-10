@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725961045895,
+  "endTime": 1725963780797,
   "band_list": [
     {
       "raw_hot": 3894981,
@@ -35,6 +35,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 3016886,
+      "num": 1528862,
+      "word": "金鹰奖删除刘亦菲入围资格",
+      "onboard_time": 1725960141,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2936434,
       "num": 2936434,
       "word": "张杰工作室道歉",
@@ -49,6 +57,14 @@
       "onboard_time": 1725906913,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 2520399,
+      "num": 2540799,
+      "word": "延迟法定退休年龄改革",
+      "onboard_time": 1725963320,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2331163,
@@ -201,14 +217,6 @@
       "onboard_time": 1725764599,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1528862,
-      "num": 1528862,
-      "word": "金鹰奖删除刘亦菲入围资格",
-      "onboard_time": 1725960141,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 1524275,
@@ -665,6 +673,14 @@
       "onboard_time": 1725940822,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 889630,
+      "num": 337631,
+      "word": "76岁阿姨户口本突然多出1个妹妹",
+      "onboard_time": 1725960200,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 887138,
@@ -1459,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 476104,
+      "num": 342154,
+      "word": "刘亦菲 外籍",
+      "onboard_time": 1725963019,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 474635,
       "num": 863522,
       "word": "男子回沪发现房子被妻子出租",
@@ -1827,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 390518,
+      "num": 371995,
+      "word": "夫妻破产后可申请免除928万债务",
+      "onboard_time": 1725959180,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386303,
       "num": 318350,
       "word": "东北雨姐承认螃蟹是放到稻田里的",
@@ -1897,14 +1929,6 @@
       "onboard_time": 1725798259,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 371995,
-      "num": 371995,
-      "word": "夫妻破产后可申请免除928万债务",
-      "onboard_time": 1725959180,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 370139,
@@ -2955,6 +2979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 235053,
+      "num": 165840,
+      "word": "阴阳师美术组",
+      "onboard_time": 1725962960,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 234796,
       "num": 213557,
       "word": "睡觉爱流口水是睡得香吗",
@@ -3515,6 +3547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206316,
+      "num": 206316,
+      "word": "墨雨爆了我有多爽你们知道吗",
+      "onboard_time": 1725959419,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206157,
       "num": 206157,
       "word": "王一珩直播",
@@ -3729,6 +3769,14 @@
       "onboard_time": 1725839238,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199788,
+      "num": 199788,
+      "word": "老九门2能请赵丽颖吗",
+      "onboard_time": 1725960980,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 199581,
@@ -4177,6 +4225,14 @@
       "onboard_time": 1725925520,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184808,
+      "num": 184808,
+      "word": "筱原惠美去世",
+      "onboard_time": 1725960682,
+      "rank": 35,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 183794,
@@ -4723,14 +4779,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 165768,
-      "num": 165768,
-      "word": "墨雨爆了我有多爽你们知道吗",
-      "onboard_time": 1725959419,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 165119,
       "num": 165119,
       "word": "高卿尘高中瘦了15公斤被6个人追",
@@ -4971,6 +5019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 157905,
+      "num": 157905,
+      "word": "白夜追凶 纯元回宫",
+      "onboard_time": 1725961280,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157549,
       "num": 157549,
       "word": "戚薇李承铉庆祝结婚十周年",
@@ -5049,14 +5105,6 @@
       "onboard_time": 1725774678,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 155195,
-      "num": 155195,
-      "word": "筱原惠美去世",
-      "onboard_time": 1725960682,
-      "rank": 35,
-      "category": "动漫,艺人"
     },
     {
       "raw_hot": 154936,
@@ -5603,6 +5651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140623,
+      "num": 165908,
+      "word": "国防教育法修订草案二审",
+      "onboard_time": 1725961640,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 140291,
       "num": 140291,
       "word": "彭高 我会让她知道",
@@ -5747,6 +5803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136925,
+      "num": 136925,
+      "word": "国足主场球迷",
+      "onboard_time": 1725961882,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136493,
       "num": 136493,
       "word": "赛车手是王一博职业规划一部分",
@@ -5849,6 +5913,14 @@
       "onboard_time": 1725892162,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133678,
+      "num": 133678,
+      "word": "十四届全国人大常委会第十一次会议",
+      "onboard_time": 1725963500,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 133576,
@@ -6619,14 +6691,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 112482,
-      "num": 112482,
-      "word": "老九门2能请赵丽颖吗",
-      "onboard_time": 1725960980,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 112450,
       "num": 112450,
       "word": "单臂单腿姑娘拿下7块金牌",
@@ -6931,6 +6995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102097,
+      "num": 102097,
+      "word": "十个勤天外务越来越秀了",
+      "onboard_time": 1725962721,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101629,
       "num": 101629,
       "word": "多家椰子鸡知名餐厅鸡源短缺",
@@ -7025,6 +7097,14 @@
       "onboard_time": 1725812299,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98231,
+      "num": 98231,
+      "word": "一想到下周是中秋假期",
+      "onboard_time": 1725962421,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 98085,
@@ -7393,14 +7473,6 @@
       "onboard_time": 1725930080,
       "rank": 20,
       "category": "数码"
-    },
-    {
-      "raw_hot": 75762,
-      "num": 337631,
-      "word": "76岁阿姨户口本突然多出1个妹妹",
-      "onboard_time": 1725960200,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 75147,
@@ -7795,6 +7867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52282,
+      "num": 280788,
+      "word": "华为首款轿跑SUV真香",
+      "onboard_time": 1725960860,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 52088,
       "num": 297109,
       "word": "华为三折叠一机多能",
@@ -8003,14 +8083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 41542,
-      "num": 105025,
-      "word": "华为首款轿跑SUV真香",
-      "onboard_time": 1725960860,
-      "rank": 49,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 41436,
       "num": 43016,
       "word": "邓典问金莎男友到底好在哪",
@@ -8144,6 +8216,14 @@
       "word": "撸猫撸狗真的能让心情变好",
       "onboard_time": 1725798619,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36844,
+      "num": 286665,
+      "word": "为何年轻人舍得给宠物下本吃高端粮",
+      "onboard_time": 1725962840,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -8385,6 +8465,14 @@
       "onboard_time": 1725817274,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 25830,
+      "num": 252519,
+      "word": "12岁小孩反复高烧竟因被毒虫咬伤",
+      "onboard_time": 1725963440,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25663,
