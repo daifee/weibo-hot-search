@@ -1,0 +1,410 @@
+{
+  "runTime": 1725979134417,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6985941,
+        "num": 6985941,
+        "word": "延迟法定退休年龄改革",
+        "onboard_time": 1725963320,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5995027,
+        "num": 5995027,
+        "word": "国足vs沙特",
+        "onboard_time": 1725968840,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70600,
+        "num": 2221330,
+        "word": "2024最美教师发布",
+        "onboard_time": 1725973762,
+        "rank": 2,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1616375,
+        "num": 1616375,
+        "word": "国足1比2沙特",
+        "onboard_time": 1725977305,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 955262,
+        "num": 955262,
+        "word": "杨天真曝某男艺人拒绝过四部爆剧",
+        "onboard_time": 1725973103,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 867666,
+        "num": 867666,
+        "word": "国足 失望",
+        "onboard_time": 1725977365,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 772676,
+        "num": 772676,
+        "word": "金鹰奖删除刘亦菲入围资格",
+        "onboard_time": 1725960141,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 892633,
+        "num": 695311,
+        "word": "保姆一个疏忽孩子脸上缝了100多针",
+        "onboard_time": 1725975683,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53924,
+        "num": 509492,
+        "word": "48628人主场观战国足",
+        "onboard_time": 1725978683,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65040,
+        "num": 465512,
+        "word": "女格斗员遭猥亵不出手是崇德不逞蛮力",
+        "onboard_time": 1725975322,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439121,
+        "num": 439121,
+        "word": "沙特反超",
+        "onboard_time": 1725970882,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 424073,
+        "num": 424073,
+        "word": "刘亦菲 外籍",
+        "onboard_time": 1725963019,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38252,
+        "num": 416095,
+        "word": "郑北姜小海十年后相认",
+        "onboard_time": 1725975024,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 415915,
+        "num": 415915,
+        "word": "张铭恩工作室 不演",
+        "onboard_time": 1725967160,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 408840,
+        "num": 408840,
+        "word": "张雨绮 千万不要对号入座",
+        "onboard_time": 1725968360,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404237,
+        "num": 404237,
+        "word": "成毅袁咏仪张智霖合照",
+        "onboard_time": 1725975024,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376764,
+        "num": 376764,
+        "word": "武磊单刀摔了",
+        "onboard_time": 1725976644,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355651,
+        "num": 355651,
+        "word": "伊万 下课",
+        "onboard_time": 1725978323,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347831,
+        "num": 347831,
+        "word": "伊万科维奇",
+        "onboard_time": 1725978504,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368928,
+        "num": 347672,
+        "word": "张雨绮你什么时候关注他",
+        "onboard_time": 1725977125,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346195,
+        "num": 346195,
+        "word": "国足11打10",
+        "onboard_time": 1725972623,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1834334,
+        "num": 346168,
+        "word": "于是 分手了吗",
+        "onboard_time": 1725968840,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335879,
+        "num": 335879,
+        "word": "海南发布接受台风救灾捐赠公告",
+        "onboard_time": 1725976104,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333923,
+        "num": 333923,
+        "word": "乌对莫斯科发动大规模无人机袭击",
+        "onboard_time": 1725975443,
+        "rank": 23,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 331321,
+        "num": 331321,
+        "word": "赵露思黑色无袖伞裙",
+        "onboard_time": 1725975385,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331117,
+        "num": 331117,
+        "word": "小杨哥 二二",
+        "onboard_time": 1725954921,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 299144,
+        "num": 299144,
+        "word": "张雨绮脱口秀",
+        "onboard_time": 1725968421,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257064,
+        "num": 257064,
+        "word": "王楚钦孙颖莎久违的笑容",
+        "onboard_time": 1725970040,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221967,
+        "num": 221967,
+        "word": "人口老龄化的4个时间点",
+        "onboard_time": 1725973462,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211853,
+        "num": 211853,
+        "word": "赵露思粉孔雀",
+        "onboard_time": 1725978383,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208617,
+        "num": 208617,
+        "word": "外媒称华为不给iPhone16蜜月期",
+        "onboard_time": 1725977605,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 208192,
+        "num": 208192,
+        "word": "国足进球被判无效",
+        "onboard_time": 1725976584,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205638,
+        "num": 205638,
+        "word": "海南目前缺什么物资",
+        "onboard_time": 1725977064,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33050,
+        "num": 202066,
+        "word": "男子深陷刷单返利陷阱",
+        "onboard_time": 1725977125,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39306,
+        "num": 201752,
+        "word": "叔圈天菜今晚都在这儿了",
+        "onboard_time": 1725977125,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 21252,
+        "num": 201717,
+        "word": "你算我二姐",
+        "onboard_time": 1725978863,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201694,
+        "num": 201694,
+        "word": "90后男生成班主任的领导仍遭血脉压制",
+        "onboard_time": 1725964761,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199834,
+        "num": 199834,
+        "word": "国足这都能输",
+        "onboard_time": 1725978265,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194913,
+        "num": 199454,
+        "word": "国足多打一人惨遭逆转",
+        "onboard_time": 1725978744,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199430,
+        "num": 199430,
+        "word": "王楚钦3比0战胜黄镇廷",
+        "onboard_time": 1725966740,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196013,
+        "num": 196013,
+        "word": "华为三折叠价格19999起",
+        "onboard_time": 1725952821,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 194897,
+        "num": 194897,
+        "word": "国足看台TIFO 为国而战",
+        "onboard_time": 1725970523,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193971,
+        "num": 193971,
+        "word": "登陆少年给大家比星",
+        "onboard_time": 1725978205,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187943,
+        "num": 187943,
+        "word": "国足小组垫底",
+        "onboard_time": 1725978863,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6792,
+        "num": 187548,
+        "word": "在护肤品上对大牌有些祛魅了",
+        "onboard_time": 1725978863,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 191743,
+        "num": 187450,
+        "word": "伊万 不换人",
+        "onboard_time": 1725977725,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187274,
+        "num": 187274,
+        "word": "张本美和3比0杨晓欣",
+        "onboard_time": 1725976644,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186274,
+        "num": 186274,
+        "word": "心动的信号7女六来了",
+        "onboard_time": 1725978624,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21433,
+        "num": 184995,
+        "word": "刘德华说最重要的是做回华仔",
+        "onboard_time": 1725975802,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184727,
+        "num": 184727,
+        "word": "库里到达成都",
+        "onboard_time": 1725979103,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#朝着建成教育强国战略目标扎实迈进#"
+    }
+  }
+}

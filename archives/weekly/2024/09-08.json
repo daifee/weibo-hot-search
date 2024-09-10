@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1725978041856,
+  "endTime": 1725979134417,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -747,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 892633,
+      "num": 853257,
+      "word": "保姆一个疏忽孩子脸上缝了100多针",
+      "onboard_time": 1725975683,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 889630,
       "num": 337631,
       "word": "76岁阿姨户口本突然多出1个妹妹",
@@ -788,7 +796,7 @@
     },
     {
       "raw_hot": 879032,
-      "num": 154342,
+      "num": 439121,
       "word": "沙特反超",
       "onboard_time": 1725970882,
       "rank": 45,
@@ -803,19 +811,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 867666,
+      "num": 867666,
+      "word": "国足 失望",
+      "onboard_time": 1725977365,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 855479,
       "num": 367339,
       "word": "女子2年被家暴16次称孕晚期还会被打",
       "onboard_time": 1725781819,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 853257,
-      "num": 853257,
-      "word": "保姆一个疏忽孩子脸上缝了100多针",
-      "onboard_time": 1725975683,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -945,14 +953,6 @@
       "onboard_time": 1725883099,
       "rank": 3,
       "category": "网红"
-    },
-    {
-      "raw_hot": 773813,
-      "num": 773813,
-      "word": "国足 失望",
-      "onboard_time": 1725977365,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 769001,
@@ -2139,6 +2139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368928,
+      "num": 711728,
+      "word": "张雨绮你什么时候关注他",
+      "onboard_time": 1725977125,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 368735,
       "num": 368735,
       "word": "粉色iPhone16",
@@ -2201,6 +2209,14 @@
       "onboard_time": 1725948260,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355651,
+      "num": 355651,
+      "word": "伊万 下课",
+      "onboard_time": 1725978323,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 354236,
@@ -2275,6 +2291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 347831,
+      "num": 347831,
+      "word": "伊万科维奇",
+      "onboard_time": 1725978504,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 347526,
       "num": 227628,
       "word": "AppleWatch史上最大屏幕",
@@ -2331,6 +2355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 335879,
+      "num": 335879,
+      "word": "海南发布接受台风救灾捐赠公告",
+      "onboard_time": 1725976104,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333219,
       "num": 333219,
       "word": "NINEPERCENT QQ音乐",
@@ -2345,6 +2377,14 @@
       "onboard_time": 1725930679,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 331321,
+      "num": 331321,
+      "word": "赵露思黑色无袖伞裙",
+      "onboard_time": 1725975385,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 330335,
@@ -2555,14 +2595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 306487,
-      "num": 306487,
-      "word": "赵露思黑色无袖伞裙",
-      "onboard_time": 1725975385,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 305915,
       "num": 305915,
       "word": "国足看台TIFO 为国而战",
@@ -2609,6 +2641,14 @@
       "onboard_time": 1725955820,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299144,
+      "num": 299144,
+      "word": "张雨绮脱口秀",
+      "onboard_time": 1725968421,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 298956,
@@ -2689,14 +2729,6 @@
       "onboard_time": 1725942562,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 286963,
-      "num": 249814,
-      "word": "张雨绮脱口秀",
-      "onboard_time": 1725968421,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 286700,
@@ -2929,14 +2961,6 @@
       "onboard_time": 1725939318,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 267752,
-      "num": 267752,
-      "word": "海南发布接受台风救灾捐赠公告",
-      "onboard_time": 1725976104,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 267373,
@@ -3723,14 +3747,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 213335,
-      "num": 711728,
-      "word": "张雨绮你什么时候关注他",
-      "onboard_time": 1725977125,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 213313,
       "num": 213313,
       "word": "小杨哥带货标注直播间及橱窗非销售者",
@@ -3769,6 +3785,14 @@
       "onboard_time": 1725799459,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 211853,
+      "num": 211853,
+      "word": "赵露思粉孔雀",
+      "onboard_time": 1725978383,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 211766,
@@ -3825,6 +3849,14 @@
       "onboard_time": 1725812237,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208617,
+      "num": 208617,
+      "word": "外媒称华为不给iPhone16蜜月期",
+      "onboard_time": 1725977605,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 208604,
@@ -3939,6 +3971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205638,
+      "num": 205638,
+      "word": "海南目前缺什么物资",
+      "onboard_time": 1725977064,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205559,
       "num": 205559,
       "word": "成都暴雨",
@@ -4025,14 +4065,6 @@
       "onboard_time": 1725798139,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 202632,
-      "num": 202632,
-      "word": "外媒称华为不给iPhone16蜜月期",
-      "onboard_time": 1725977605,
-      "rank": 29,
-      "category": "数码"
     },
     {
       "raw_hot": 202631,
@@ -4147,6 +4179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199834,
+      "num": 199834,
+      "word": "国足这都能输",
+      "onboard_time": 1725978265,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199788,
       "num": 199788,
       "word": "老九门2能请赵丽颖吗",
@@ -4225,14 +4265,6 @@
       "onboard_time": 1725718941,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198084,
-      "num": 198084,
-      "word": "海南目前缺什么物资",
-      "onboard_time": 1725977064,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197852,
@@ -4331,6 +4363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194913,
+      "num": 199454,
+      "word": "国足多打一人惨遭逆转",
+      "onboard_time": 1725978744,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194888,
       "num": 202412,
       "word": "雪迷宫",
@@ -4360,6 +4400,14 @@
       "word": "刘亦菲现身高铁站",
       "onboard_time": 1725959960,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 193971,
+      "num": 193971,
+      "word": "登陆少年给大家比星",
+      "onboard_time": 1725978205,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -4539,6 +4587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187943,
+      "num": 187943,
+      "word": "国足小组垫底",
+      "onboard_time": 1725978863,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187922,
       "num": 187922,
       "word": "刘洋因伤离开国家队",
@@ -4627,6 +4683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 186274,
+      "num": 186274,
+      "word": "心动的信号7女六来了",
+      "onboard_time": 1725978624,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186219,
       "num": 176098,
       "word": "刘耀文去新疆感冒了",
@@ -4665,6 +4729,14 @@
       "onboard_time": 1725960682,
       "rank": 35,
       "category": "动漫,艺人"
+    },
+    {
+      "raw_hot": 184727,
+      "num": 184727,
+      "word": "库里到达成都",
+      "onboard_time": 1725979103,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 184709,
@@ -8315,6 +8387,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 65040,
+      "num": 708986,
+      "word": "女格斗员遭猥亵不出手是崇德不逞蛮力",
+      "onboard_time": 1725975322,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64372,
       "num": 268899,
       "word": "央妈直击金龙鱼油生产过程",
@@ -8339,16 +8419,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 63234,
-      "num": 708986,
-      "word": "女格斗员遭猥亵不出手是崇德不逞蛮力",
-      "onboard_time": 1725975322,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 63016,
-      "num": 263354,
+      "num": 416095,
       "word": "郑北姜小海十年后相认",
       "onboard_time": 1725975024,
       "rank": 16,
@@ -8372,7 +8444,7 @@
     },
     {
       "raw_hot": 61423,
-      "num": 198134,
+      "num": 201752,
       "word": "叔圈天菜今晚都在这儿了",
       "onboard_time": 1725977125,
       "rank": 36,
@@ -8561,6 +8633,14 @@
       "onboard_time": 1725891141,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53924,
+      "num": 509492,
+      "word": "48628人主场观战国足",
+      "onboard_time": 1725978683,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 53638,
@@ -9091,6 +9171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33050,
+      "num": 442762,
+      "word": "男子深陷刷单返利陷阱",
+      "onboard_time": 1725977125,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32690,
       "num": 246306,
       "word": "广州部分传统饼店日销月饼过万斤",
@@ -9340,7 +9428,7 @@
     },
     {
       "raw_hot": 23908,
-      "num": 154211,
+      "num": 184995,
       "word": "刘德华说最重要的是做回华仔",
       "onboard_time": 1725975802,
       "rank": 46,
@@ -9393,6 +9481,14 @@
       "onboard_time": 1725776539,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21252,
+      "num": 201717,
+      "word": "你算我二姐",
+      "onboard_time": 1725978863,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 21181,
@@ -9491,14 +9587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17255,
-      "num": 442762,
-      "word": "男子深陷刷单返利陷阱",
-      "onboard_time": 1725977125,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 15077,
       "num": 38563,
       "word": "军车上一行行标语让人热泪盈眶",
@@ -9593,6 +9681,14 @@
       "onboard_time": 1725735253,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6792,
+      "num": 187548,
+      "word": "在护肤品上对大牌有些祛魅了",
+      "onboard_time": 1725978863,
+      "rank": 44,
+      "category": "美妆"
     }
   ],
   "hotgov_list": [
