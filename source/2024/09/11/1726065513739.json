@@ -1,0 +1,410 @@
+{
+  "runTime": 1726065513739,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1899177,
+        "num": 1899177,
+        "word": "大连地震",
+        "onboard_time": 1726061663,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1462239,
+        "num": 1462239,
+        "word": "教育局回应家长做局拍教师收五粮液",
+        "onboard_time": 1726059681,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18083,
+        "num": 1292372,
+        "word": "高质量发展中国行",
+        "onboard_time": 1726064964,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1184018,
+        "num": 1184018,
+        "word": "17岁女生花十多万买笑气",
+        "onboard_time": 1726061722,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1151438,
+        "num": 1151438,
+        "word": "村民闻到异味在草丛中发现一具男尸",
+        "onboard_time": 1726063163,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1044748,
+        "num": 1044748,
+        "word": "日男子新加坡性侵女学生被鞭刑20",
+        "onboard_time": 1726060282,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 707752,
+        "num": 707752,
+        "word": "辽宁大连3.7级地震",
+        "onboard_time": 1726062202,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632120,
+        "num": 632120,
+        "word": "赵露思粉色抹胸",
+        "onboard_time": 1726062202,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 600143,
+        "num": 600143,
+        "word": "周扬青 今年已经36了",
+        "onboard_time": 1726058421,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79102,
+        "num": 590892,
+        "word": "AI文章1分钱可产7篇日入上万",
+        "onboard_time": 1726063886,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1001209,
+        "num": 582504,
+        "word": "大马老人死4年才被儿子发现",
+        "onboard_time": 1726059441,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 917318,
+        "num": 564647,
+        "word": "韩安冉 早知道就不这个时候生了",
+        "onboard_time": 1726048820,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 896054,
+        "num": 559063,
+        "word": "男子被撞后20元私了颅内出血浑然不知",
+        "onboard_time": 1726057881,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701089,
+        "num": 548345,
+        "word": "韩安冉宋浩然没领证",
+        "onboard_time": 1726055422,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 21746,
+        "num": 527162,
+        "word": "多方回应军训教官棍抽学生把棍打断",
+        "onboard_time": 1726065203,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608500,
+        "num": 522698,
+        "word": "月嫂凌晨2点给婴儿喂安眠药",
+        "onboard_time": 1726045580,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511209,
+        "num": 511209,
+        "word": "NewJeans被HYBE其他艺人团队排挤",
+        "onboard_time": 1726051400,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471543,
+        "num": 471543,
+        "word": "罗永浩道歉并点名头部直播间",
+        "onboard_time": 1726058480,
+        "rank": 17,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 344777,
+        "num": 410246,
+        "word": "minji好帅",
+        "onboard_time": 1726064602,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310862,
+        "num": 374504,
+        "word": "NewJeans直播",
+        "onboard_time": 1726049960,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21728,
+        "num": 355565,
+        "word": "被子弟兵借宿后留下的黑板报暖到了",
+        "onboard_time": 1726065262,
+        "rank": 20,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 349994,
+        "num": 349994,
+        "word": "大学生每个月生活费1500元够吗",
+        "onboard_time": 1726053561,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335930,
+        "num": 335930,
+        "word": "殷世航调侃韩安冉",
+        "onboard_time": 1726063404,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 299254,
+        "num": 299254,
+        "word": "美国人借口拍照偷偷带走我国文物",
+        "onboard_time": 1726047560,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 289051,
+        "num": 289051,
+        "word": "葛晓倩怒怼张雨绮插足",
+        "onboard_time": 1726053561,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285239,
+        "num": 285239,
+        "word": "国台办回应林依晨说我是成都人",
+        "onboard_time": 1726036161,
+        "rank": 25,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 82907,
+        "num": 278629,
+        "word": "黄冠亨直播",
+        "onboard_time": 1726063344,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275860,
+        "num": 275860,
+        "word": "韩安冉两个女儿出生照",
+        "onboard_time": 1726060101,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 230705,
+        "num": 252213,
+        "word": "蔡依林想烧掉大艺术家所有的帽子",
+        "onboard_time": 1726056442,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 218541,
+        "num": 241786,
+        "word": "蓝盈莹先见家长再谈恋爱",
+        "onboard_time": 1726062445,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236740,
+        "num": 236740,
+        "word": "鞠婧祎脏脏裤",
+        "onboard_time": 1726051582,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231541,
+        "num": 231541,
+        "word": "男子拿长勺从歹徒刀下救人",
+        "onboard_time": 1726064305,
+        "rank": 31,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 214027,
+        "num": 214027,
+        "word": "张百乔小雪婚礼邀请函",
+        "onboard_time": 1726063524,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210582,
+        "num": 210582,
+        "word": "赵露思对粉丝说会补偿你们的",
+        "onboard_time": 1726064663,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209321,
+        "num": 209321,
+        "word": "大连中山广场鸽子近期频繁死亡",
+        "onboard_time": 1726050080,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208411,
+        "num": 208411,
+        "word": "女子被家暴失明母亲希望判男方无期",
+        "onboard_time": 1726056381,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207153,
+        "num": 207153,
+        "word": "孙颖莎说很开心和年轻对手交手",
+        "onboard_time": 1726062864,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78797,
+        "num": 181840,
+        "word": "专家称原研药退出医院将是一种必然",
+        "onboard_time": 1726063404,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181777,
+        "num": 181777,
+        "word": "不耐看 挺耐死",
+        "onboard_time": 1726062864,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180506,
+        "num": 180506,
+        "word": "嫁没嫁对看婆婆态度就知道",
+        "onboard_time": 1726059262,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178190,
+        "num": 178190,
+        "word": "杨天真自曝拉黑了很多艺人",
+        "onboard_time": 1726063284,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170992,
+        "num": 170992,
+        "word": "孙颖莎下场或战伊藤美诚",
+        "onboard_time": 1726064602,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161560,
+        "num": 161560,
+        "word": "田志希说孙颖莎很忙是因为老赢",
+        "onboard_time": 1726064243,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157212,
+        "num": 157212,
+        "word": "苏州警方通报一持刀伤人事件",
+        "onboard_time": 1726050320,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34898,
+        "num": 154197,
+        "word": "我国载人登月工程有了新助力",
+        "onboard_time": 1726042701,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151500,
+        "num": 151500,
+        "word": "乔妍工作室带头蛐蛐赵丽颖工作室",
+        "onboard_time": 1726058061,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150379,
+        "num": 150379,
+        "word": "日本陷入寿司危机",
+        "onboard_time": 1726052542,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133825,
+        "num": 133825,
+        "word": "刘亦菲王鹤棣 平番",
+        "onboard_time": 1726037420,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126184,
+        "num": 126184,
+        "word": "专家称00后4点59下班没错是别人错了",
+        "onboard_time": 1726028905,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118872,
+        "num": 125079,
+        "word": "NewJeans瞒着ador开发布会",
+        "onboard_time": 1726056442,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在陕西宝鸡和甘肃天水考察调研#"
+    }
+  }
+}
