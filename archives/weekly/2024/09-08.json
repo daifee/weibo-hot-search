@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726011353076,
+  "endTime": 1726018606842,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -531,6 +531,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1154594,
+      "num": 326775,
+      "word": "张雨绮战绩可查",
+      "onboard_time": 1726016060,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1131772,
       "num": 1131772,
       "word": "王楚钦3比0战胜黄镇廷",
@@ -820,7 +828,7 @@
     },
     {
       "raw_hot": 868757,
-      "num": 941518,
+      "num": 1134256,
       "word": "杨天真曝某女艺人老选丑衣服",
       "onboard_time": 1725996312,
       "rank": 27,
@@ -1235,6 +1243,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 643198,
+      "num": 643198,
+      "word": "山西阴阳价刀削面店主再发声",
+      "onboard_time": 1726012459,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 635679,
       "num": 294776,
       "word": "多人发现遗体帐篷却未报警的背后",
@@ -1385,6 +1401,14 @@
       "onboard_time": 1725970040,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 569289,
+      "num": 569289,
+      "word": "女子求男友安慰被拒绝后跳楼身亡",
+      "onboard_time": 1726011318,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 567455,
@@ -1747,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 453387,
+      "num": 453387,
+      "word": "张本智和 奥运会是全部但也不是全部",
+      "onboard_time": 1726012821,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 451605,
       "num": 371220,
       "word": "广西一青年飙车在医院门口身亡",
@@ -1801,6 +1833,14 @@
       "onboard_time": 1725795081,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 441694,
+      "num": 441694,
+      "word": "好想像张雨绮这么有种的活一次",
+      "onboard_time": 1726015040,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 439497,
@@ -1947,6 +1987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 409291,
+      "num": 409291,
+      "word": "职场最好的称呼是按工资来",
+      "onboard_time": 1726013480,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 408104,
       "num": 408104,
       "word": "广州一幼儿园爆改成老年大学",
@@ -1985,6 +2033,14 @@
       "onboard_time": 1725774678,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 404198,
+      "num": 404198,
+      "word": "台风后海滩上的生蚝尽量别吃",
+      "onboard_time": 1725979763,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 401794,
@@ -2275,6 +2331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 350738,
+      "num": 350738,
+      "word": "苹果店员工到华为店观看新品发布会",
+      "onboard_time": 1725976343,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 350444,
       "num": 350444,
       "word": "罗永浩称将自愿放弃借给锤子的2476万",
@@ -2481,14 +2545,6 @@
       "onboard_time": 1725907453,
       "rank": 12,
       "category": "数码"
-    },
-    {
-      "raw_hot": 319726,
-      "num": 319726,
-      "word": "台风后海滩上的生蚝尽量别吃",
-      "onboard_time": 1725979763,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 319631,
@@ -2939,6 +2995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 273107,
+      "num": 273107,
+      "word": "华为三折叠被炒至9万天价",
+      "onboard_time": 1726009697,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 272955,
       "num": 272955,
       "word": "Cube回应",
@@ -3195,6 +3259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 249700,
+      "num": 249700,
+      "word": "以军空袭击中小吃摊6死4伤",
+      "onboard_time": 1726017019,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 249620,
       "num": 249620,
       "word": "阴阳师美术组",
@@ -3283,14 +3355,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 244402,
-      "num": 244402,
-      "word": "苹果店员工到华为店观看新品发布会",
-      "onboard_time": 1725976343,
-      "rank": 37,
-      "category": "数码"
-    },
-    {
       "raw_hot": 243789,
       "num": 278655,
       "word": "徐明浩遗憾告别心动的信号",
@@ -3345,6 +3409,14 @@
       "onboard_time": 1725973462,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241424,
+      "num": 241424,
+      "word": "檀健次 撕漫男",
+      "onboard_time": 1726012821,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 241115,
@@ -3481,6 +3553,14 @@
       "onboard_time": 1725770959,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 231544,
+      "num": 231544,
+      "word": "乌尔善快抬封神2",
+      "onboard_time": 1726011798,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 231494,
@@ -3625,6 +3705,14 @@
       "onboard_time": 1725940999,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224745,
+      "num": 191597,
+      "word": "宝宝睡觉jiojio无处安放似睡罗汉",
+      "onboard_time": 1726017019,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224450,
@@ -3833,6 +3921,14 @@
       "onboard_time": 1725858740,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213858,
+      "num": 213858,
+      "word": "seventeen北京",
+      "onboard_time": 1726014979,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 213690,
@@ -4105,6 +4201,14 @@
       "onboard_time": 1725869060,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 204693,
+      "num": 204693,
+      "word": "地下车库该不该禁止新能源车停放",
+      "onboard_time": 1726016060,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204052,
@@ -5531,6 +5635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162677,
+      "num": 162677,
+      "word": "猫 想到一会要给它一拳就想笑",
+      "onboard_time": 1726012519,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162660,
       "num": 162660,
       "word": "网剧藏海花",
@@ -5771,6 +5883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156570,
+      "num": 156570,
+      "word": "巴林0比5日本",
+      "onboard_time": 1726011318,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156199,
       "num": 156199,
       "word": "蒋裕燕 残奥会9项7枚金牌",
@@ -5865,6 +5985,14 @@
       "onboard_time": 1725865219,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 154230,
+      "num": 154230,
+      "word": "赵露思公主裙配球鞋",
+      "onboard_time": 1726017500,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 154131,
@@ -6507,6 +6635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139087,
+      "num": 139087,
+      "word": "Kid 躁郁症",
+      "onboard_time": 1726014979,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138918,
       "num": 229319,
       "word": "广东小伙靠外贸装柜日入过千",
@@ -6603,6 +6739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137030,
+      "num": 137030,
+      "word": "阴阳师",
+      "onboard_time": 1726015821,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 136973,
       "num": 102973,
       "word": "黄奕黄晓明已不是当初的萧剑小燕子了",
@@ -6697,6 +6841,14 @@
       "onboard_time": 1725972142,
       "rank": 8,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 134827,
+      "num": 134827,
+      "word": "9个看似偷懒其实很健康的小习惯",
+      "onboard_time": 1726017919,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 134551,
@@ -7027,6 +7179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126343,
+      "num": 126343,
+      "word": "阴阳价刀削面事件真相还原",
+      "onboard_time": 1726012398,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126224,
       "num": 126224,
       "word": "国足门将称不能再让全国人民失望",
@@ -7120,6 +7280,14 @@
       "word": "赵一博个人首封",
       "onboard_time": 1725777379,
       "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 124405,
+      "num": 124405,
+      "word": "赵露思波点黑丝",
+      "onboard_time": 1726011798,
+      "rank": 34,
       "category": "作品衍生"
     },
     {
@@ -7233,6 +7401,14 @@
       "onboard_time": 1725963801,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 121829,
+      "num": 121829,
+      "word": "野孩子",
+      "onboard_time": 1725853158,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 121650,
@@ -7563,22 +7739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114238,
-      "num": 114238,
-      "word": "野孩子",
-      "onboard_time": 1725853158,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 114234,
-      "num": 114234,
-      "word": "女子求男友安慰被拒绝后跳楼身亡",
-      "onboard_time": 1726011318,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113386,
       "num": 495693,
       "word": "沙特球员被红牌罚下欲打裁判",
@@ -7601,6 +7761,14 @@
       "onboard_time": 1725883638,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112999,
+      "num": 112999,
+      "word": "终于明白什么是讨好型人格了",
+      "onboard_time": 1726012398,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 112903,
@@ -7771,6 +7939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107190,
+      "num": 107190,
+      "word": "果然笑点低的人当不了老师",
+      "onboard_time": 1726017619,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107061,
       "num": 107061,
       "word": "最喜欢的双男主动画",
@@ -7849,6 +8025,14 @@
       "onboard_time": 1725768380,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105699,
+      "num": 105699,
+      "word": "猫卡车里保时捷车主果断拆车救猫",
+      "onboard_time": 1726016000,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105189,
@@ -7995,6 +8179,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 101001,
+      "num": 101001,
+      "word": "赵露思说尝试不适合的一切东西",
+      "onboard_time": 1726012759,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 100458,
       "num": 100988,
       "word": "被人咬伤比被动物咬伤更严重",
@@ -8009,14 +8201,6 @@
       "onboard_time": 1725845838,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100052,
-      "num": 100052,
-      "word": "华为三折叠被炒至9万天价",
-      "onboard_time": 1726009697,
-      "rank": 40,
-      "category": "数码"
     },
     {
       "raw_hot": 100026,
@@ -8203,6 +8387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 92829,
+      "num": 92829,
+      "word": "娜扎李泳知同框",
+      "onboard_time": 1726012158,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 92828,
       "num": 1057924,
       "word": "老师口头禅大汇总",
@@ -8243,12 +8435,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91651,
+      "num": 91651,
+      "word": "教师资格证",
+      "onboard_time": 1726018518,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 91200,
       "num": 101121,
       "word": "樊振东去迪士尼玩了",
       "onboard_time": 1725712100,
       "rank": 46,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 90877,
+      "num": 90877,
+      "word": "十个勤天衣架",
+      "onboard_time": 1726018281,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 90002,
@@ -8273,6 +8481,14 @@
       "onboard_time": 1725928640,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89489,
+      "num": 89489,
+      "word": "萧敬腾 求雨",
+      "onboard_time": 1726012398,
+      "rank": 47,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 89455,
@@ -8329,6 +8545,14 @@
       "onboard_time": 1725979402,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88012,
+      "num": 337400,
+      "word": "雾里山村梦幻氛围感拉满",
+      "onboard_time": 1726017140,
+      "rank": 9,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 87996,
@@ -8393,14 +8617,6 @@
       "onboard_time": 1725807922,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 86019,
-      "num": 86019,
-      "word": "巴林0比5日本",
-      "onboard_time": 1726011318,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 85954,
@@ -9180,7 +9396,7 @@
     },
     {
       "raw_hot": 46738,
-      "num": 529230,
+      "num": 603153,
       "word": "各科老师硬核绝活大赏",
       "onboard_time": 1725973164,
       "rank": 2,
