@@ -1,0 +1,410 @@
+{
+  "runTime": 1726047469372,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 985537,
+        "num": 1157686,
+        "word": "国台办回应林依晨说我是成都人",
+        "onboard_time": 1726036161,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 722305,
+        "num": 722305,
+        "word": "选秀第一vocal终于上歌手了",
+        "onboard_time": 1726041861,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87085,
+        "num": 661834,
+        "word": "2024秋季学期考试日历",
+        "onboard_time": 1726043540,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651005,
+        "num": 651005,
+        "word": "长期吃止痛药会产生耐药性吗",
+        "onboard_time": 1726042102,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551835,
+        "num": 551835,
+        "word": "刘亦菲王鹤棣 平番",
+        "onboard_time": 1726037420,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 531316,
+        "num": 531316,
+        "word": "取亡父存款被银行回复解锁得本人",
+        "onboard_time": 1726037242,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490226,
+        "num": 490226,
+        "word": "刘跃进严重违纪违法被开除党籍",
+        "onboard_time": 1726044260,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366071,
+        "num": 366071,
+        "word": "白鹿首唱会门票将免费赠送",
+        "onboard_time": 1726044021,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 365551,
+        "num": 365551,
+        "word": "封神质子",
+        "onboard_time": 1726042042,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 258105,
+        "num": 359109,
+        "word": "专家称不给加班费不加班趋势不可逆",
+        "onboard_time": 1726038261,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1309402,
+        "num": 350827,
+        "word": "平江路",
+        "onboard_time": 1726045941,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1014569,
+        "num": 342372,
+        "word": "月嫂凌晨2点给婴儿喂安眠药",
+        "onboard_time": 1726045580,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 751115,
+        "num": 328919,
+        "word": "专家称00后4点59下班没错是别人错了",
+        "onboard_time": 1726028905,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326682,
+        "num": 326682,
+        "word": "马斯克回应霉霉支持哈里斯",
+        "onboard_time": 1726036521,
+        "rank": 13,
+        "category": "国外时政,艺人"
+      },
+      {
+        "raw_hot": 261015,
+        "num": 261015,
+        "word": "侯明昊脱了",
+        "onboard_time": 1726046241,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260919,
+        "num": 260919,
+        "word": "林生斌起诉导演刘信达二审维持原判",
+        "onboard_time": 1726046002,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259365,
+        "num": 259365,
+        "word": "可重复使用火箭有了新突破",
+        "onboard_time": 1726046901,
+        "rank": 16,
+        "category": "国内时政,社会新闻"
+      },
+      {
+        "raw_hot": 254410,
+        "num": 254410,
+        "word": "神奇海挪 塌房",
+        "onboard_time": 1726026199,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 236579,
+        "num": 236579,
+        "word": "明道说陈乔恩婚礼不包红包",
+        "onboard_time": 1726041681,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56798,
+        "num": 217885,
+        "word": "一级房建证挂靠1年挣近2万",
+        "onboard_time": 1726045821,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392388,
+        "num": 211698,
+        "word": "未来房子不大幅增值或将变消费品",
+        "onboard_time": 1726038261,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202903,
+        "num": 202903,
+        "word": "五月天嘉宾 刘雨昕",
+        "onboard_time": 1726046361,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194456,
+        "num": 194456,
+        "word": "大熊猫野外遇到假熊猫后躲了起来",
+        "onboard_time": 1726041082,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190265,
+        "num": 190265,
+        "word": "王俊凯收到超大月饼",
+        "onboard_time": 1726044441,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182898,
+        "num": 182898,
+        "word": "华为和苹果线下旗舰店现状",
+        "onboard_time": 1726032383,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 180253,
+        "num": 180253,
+        "word": "怀疑那隽是乌拉那拉氏后人",
+        "onboard_time": 1726046121,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168425,
+        "num": 168425,
+        "word": "金晨拍照全身上下没有不疼的",
+        "onboard_time": 1726046002,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165680,
+        "num": 165680,
+        "word": "李现拍的赛里木湖",
+        "onboard_time": 1726044320,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154354,
+        "num": 154354,
+        "word": "人类迟早从兜里掏出65寸电视",
+        "onboard_time": 1726044503,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 152316,
+        "num": 152316,
+        "word": "周雨彤 你这是向谁求婚呢",
+        "onboard_time": 1726038081,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1042639,
+        "num": 150881,
+        "word": "微信客服回应提现手续费",
+        "onboard_time": 1726041861,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 148325,
+        "num": 148325,
+        "word": "银行回应取亡夫存款要本人到场",
+        "onboard_time": 1726046660,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147017,
+        "num": 147017,
+        "word": "小伙称做修复手术后睁着眼睛睡觉",
+        "onboard_time": 1726045281,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141049,
+        "num": 141049,
+        "word": "打工人准时下班并没有错",
+        "onboard_time": 1726045099,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139886,
+        "num": 139886,
+        "word": "特朗普哈里斯针锋相对辩论了90分钟",
+        "onboard_time": 1726046421,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 135116,
+        "num": 135116,
+        "word": "特朗普哈里斯辩论雷语频出",
+        "onboard_time": 1726046780,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 134288,
+        "num": 134288,
+        "word": "徐瑛彬说跟王楚钦打就是拼",
+        "onboard_time": 1726045880,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130974,
+        "num": 130974,
+        "word": "沈某已娶妻 今生不会再娶",
+        "onboard_time": 1726027701,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128373,
+        "num": 128373,
+        "word": "俱乐部称张继科还在正常授课",
+        "onboard_time": 1726034781,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126630,
+        "num": 126630,
+        "word": "高伟光 豪门总裁",
+        "onboard_time": 1726046241,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125707,
+        "num": 125707,
+        "word": "严浩翔晒张真源的狗",
+        "onboard_time": 1726041082,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121868,
+        "num": 121868,
+        "word": "男子11万多法拍奔驰竟是报废车",
+        "onboard_time": 1726032263,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118563,
+        "num": 118563,
+        "word": "杨超越说杨迪嘴巴里气体比较重",
+        "onboard_time": 1726047440,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311627,
+        "num": 118050,
+        "word": "美国大选",
+        "onboard_time": 1726026980,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 116192,
+        "num": 116192,
+        "word": "足协大概率为国足换帅",
+        "onboard_time": 1726043961,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114455,
+        "num": 114455,
+        "word": "狗 死腿再跑快点啊",
+        "onboard_time": 1726036042,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113707,
+        "num": 113707,
+        "word": "郑钦文中网训练",
+        "onboard_time": 1726046780,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112895,
+        "num": 112895,
+        "word": "和母单谈恋爱压力很大吗",
+        "onboard_time": 1726040600,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111086,
+        "num": 111086,
+        "word": "久哲节目回应争议",
+        "onboard_time": 1726044561,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107339,
+        "num": 107339,
+        "word": "4分钟看人民军队淬火成钢",
+        "onboard_time": 1726045161,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向上海合作组织妇女论坛致贺信#"
+    }
+  }
+}
