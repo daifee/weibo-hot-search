@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726022691900,
+  "endTime": 1726023311578,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -419,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1302789,
+      "num": 1176104,
+      "word": "特朗普哈里斯首场辩论",
+      "onboard_time": 1726018819,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1297808,
       "num": 1297808,
       "word": "毛主席在开国大典上开心一笑",
@@ -569,14 +577,6 @@
       "onboard_time": 1725877939,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1100651,
-      "num": 1176104,
-      "word": "特朗普哈里斯首场辩论",
-      "onboard_time": 1726018819,
-      "rank": 1,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1070822,
@@ -955,6 +955,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 793259,
+      "num": 1126921,
+      "word": "飞天奖入围",
+      "onboard_time": 1726021399,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 789396,
       "num": 789396,
       "word": "iPhone16仍有4款型号",
@@ -1273,14 +1281,6 @@
       "onboard_time": 1726012459,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 639256,
-      "num": 639256,
-      "word": "飞天奖入围",
-      "onboard_time": 1726021399,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 635679,
@@ -1699,6 +1699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 482895,
+      "num": 482895,
+      "word": "人民日报评国足遭沙特逆转",
+      "onboard_time": 1726019239,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 482318,
       "num": 482318,
       "word": "16岁少年理发被索要4000元",
@@ -1753,6 +1761,14 @@
       "onboard_time": 1725781159,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 467026,
+      "num": 467026,
+      "word": "地下车库该不该禁止新能源车停放",
+      "onboard_time": 1726016060,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 465413,
@@ -1841,14 +1857,6 @@
       "onboard_time": 1725977125,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 446851,
-      "num": 446851,
-      "word": "地下车库该不该禁止新能源车停放",
-      "onboard_time": 1726016060,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 443716,
@@ -2531,6 +2539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 327908,
+      "num": 327908,
+      "word": "小朋友给兵哥哥的亲亲看得人心软软",
+      "onboard_time": 1726018819,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326894,
       "num": 326894,
       "word": "欧弟三胎女儿出生",
@@ -2763,14 +2779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 305669,
-      "num": 305669,
-      "word": "人民日报评国足遭沙特逆转",
-      "onboard_time": 1726019239,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 305436,
       "num": 305436,
       "word": "科技春晚",
@@ -2881,14 +2889,6 @@
       "onboard_time": 1725727518,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 293110,
-      "num": 293110,
-      "word": "小朋友给兵哥哥的亲亲看得人心软软",
-      "onboard_time": 1726018819,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291075,
@@ -3604,7 +3604,7 @@
     },
     {
       "raw_hot": 233048,
-      "num": 252359,
+      "num": 312917,
       "word": "赵露思公主裙配球鞋",
       "onboard_time": 1726017500,
       "rank": 27,
@@ -4779,6 +4779,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 190700,
+      "num": 190700,
+      "word": "这种肉别再吃成本或只有5毛钱",
+      "onboard_time": 1726022599,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 190573,
       "num": 316206,
       "word": "罗云熙黑月光梦回澹台烬",
@@ -4809,6 +4817,14 @@
       "onboard_time": 1725811701,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 190308,
+      "num": 190308,
+      "word": "为什么年轻人有送礼焦虑",
+      "onboard_time": 1726019779,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 189981,
@@ -4921,14 +4937,6 @@
       "onboard_time": 1725955340,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187629,
-      "num": 187629,
-      "word": "为什么年轻人有送礼焦虑",
-      "onboard_time": 1726019779,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 187360,
@@ -5241,6 +5249,14 @@
       "onboard_time": 1725868999,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178017,
+      "num": 178017,
+      "word": "上午种牙下午就能吃肉靠谱吗",
+      "onboard_time": 1726021699,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 177750,
@@ -5763,6 +5779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162342,
+      "num": 162342,
+      "word": "韩媒称中国队晋级世界杯希望渺茫",
+      "onboard_time": 1726018880,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162317,
       "num": 162317,
       "word": "王一博jimmychoo背影预热",
@@ -6075,14 +6099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155245,
-      "num": 155245,
-      "word": "上午种牙下午就能吃肉靠谱吗",
-      "onboard_time": 1726021699,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 155097,
       "num": 155097,
       "word": "朝着建成教育强国战略目标扎实迈进",
@@ -6299,6 +6315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150906,
+      "num": 150906,
+      "word": "一人一校38年他把126个学生送出山",
+      "onboard_time": 1726021639,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 150513,
       "num": 330561,
       "word": "当一个妈决定给孩子进行死亡教育",
@@ -6337,14 +6361,6 @@
       "onboard_time": 1725787459,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 149560,
-      "num": 149560,
-      "word": "这种肉别再吃成本或只有5毛钱",
-      "onboard_time": 1726022599,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 149556,
@@ -6489,14 +6505,6 @@
       "onboard_time": 1725946819,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146948,
-      "num": 146948,
-      "word": "一人一校38年他把126个学生送出山",
-      "onboard_time": 1726021639,
-      "rank": 37,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 146926,
@@ -6737,14 +6745,6 @@
       "onboard_time": 1725711800,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 140882,
-      "num": 140882,
-      "word": "韩媒称中国队晋级世界杯希望渺茫",
-      "onboard_time": 1726018880,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 140644,
@@ -7123,6 +7123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131035,
+      "num": 313693,
+      "word": "央视曝光直播间高额返利骗局",
+      "onboard_time": 1726021699,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130843,
       "num": 130843,
       "word": "秦彻 北境之主",
@@ -7281,6 +7289,14 @@
       "onboard_time": 1725980303,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127963,
+      "num": 190354,
+      "word": "野孩子路演",
+      "onboard_time": 1726020918,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 127681,
@@ -7568,14 +7584,6 @@
       "word": "野孩子",
       "onboard_time": 1725853158,
       "rank": 47,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 121654,
-      "num": 149628,
-      "word": "野孩子路演",
-      "onboard_time": 1726020918,
-      "rank": 35,
       "category": "电影"
     },
     {
@@ -7905,6 +7913,14 @@
       "onboard_time": 1725967399,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113549,
+      "num": 113549,
+      "word": "大学要不要加入社团",
+      "onboard_time": 1726020319,
+      "rank": 47,
+      "category": "社会议题,教育"
     },
     {
       "raw_hot": 113386,
@@ -8243,6 +8259,14 @@
       "category": "美食,健康医疗"
     },
     {
+      "raw_hot": 104638,
+      "num": 104638,
+      "word": "孙千 一款水灵灵的青春剧女主",
+      "onboard_time": 1726019657,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104443,
       "num": 104443,
       "word": "只有经历过高三才知道双休的含金量",
@@ -8339,14 +8363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 101851,
-      "num": 101851,
-      "word": "大学要不要加入社团",
-      "onboard_time": 1726020319,
-      "rank": 47,
-      "category": "社会议题,教育"
-    },
-    {
       "raw_hot": 101629,
       "num": 101629,
       "word": "多家椰子鸡知名餐厅鸡源短缺",
@@ -8379,28 +8395,20 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 101161,
+      "num": 101161,
+      "word": "刘学义 疯批赛道",
+      "onboard_time": 1726023259,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100458,
       "num": 100988,
       "word": "被人咬伤比被动物咬伤更严重",
       "onboard_time": 1725714620,
       "rank": 43,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 100344,
-      "num": 313693,
-      "word": "央视曝光直播间高额返利骗局",
-      "onboard_time": 1726021699,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100319,
-      "num": 100319,
-      "word": "孙千 一款水灵灵的青春剧女主",
-      "onboard_time": 1726019657,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 100185,
@@ -9427,6 +9435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54380,
+      "num": 306038,
+      "word": "特朗普哈里斯两人支持率接近",
+      "onboard_time": 1726022778,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 53924,
       "num": 509492,
       "word": "48628人主场观战国足",
@@ -9912,6 +9928,14 @@
       "word": "撸猫撸狗真的能让心情变好",
       "onboard_time": 1725798619,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36852,
+      "num": 214048,
+      "word": "秋天有仪式感的9件小事",
+      "onboard_time": 1726023078,
+      "rank": 15,
       "category": "社会新闻"
     },
     {

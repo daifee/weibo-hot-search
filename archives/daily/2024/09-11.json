@@ -1,7 +1,15 @@
 {
   "startTime": 1725985552565,
-  "endTime": 1726022691900,
+  "endTime": 1726023311578,
   "band_list": [
+    {
+      "raw_hot": 1302789,
+      "num": 1176104,
+      "word": "特朗普哈里斯首场辩论",
+      "onboard_time": 1726018819,
+      "rank": 1,
+      "category": "国外时政"
+    },
     {
       "raw_hot": 1177717,
       "num": 1102557,
@@ -27,20 +35,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1100651,
-      "num": 1176104,
-      "word": "特朗普哈里斯首场辩论",
-      "onboard_time": 1726018819,
-      "rank": 1,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 868757,
       "num": 1134256,
       "word": "杨天真曝某女艺人老选丑衣服",
       "onboard_time": 1725996312,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 793259,
+      "num": 1126921,
+      "word": "飞天奖入围",
+      "onboard_time": 1726021399,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 754859,
@@ -83,14 +91,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 639256,
-      "num": 639256,
-      "word": "飞天奖入围",
-      "onboard_time": 1726021399,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 614520,
       "num": 614520,
       "word": "杨天真曝某男艺人拒绝过四部爆剧",
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 482895,
+      "num": 482895,
+      "word": "人民日报评国足遭沙特逆转",
+      "onboard_time": 1726019239,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 473803,
       "num": 473803,
       "word": "张雨绮 千万不要对号入座",
@@ -131,20 +139,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 467026,
+      "num": 467026,
+      "word": "地下车库该不该禁止新能源车停放",
+      "onboard_time": 1726016060,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453387,
       "num": 453387,
       "word": "张本智和 奥运会是全部但也不是全部",
       "onboard_time": 1726012821,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 446851,
-      "num": 446851,
-      "word": "地下车库该不该禁止新能源车停放",
-      "onboard_time": 1726016060,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 409291,
@@ -211,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 327908,
+      "num": 327908,
+      "word": "小朋友给兵哥哥的亲亲看得人心软软",
+      "onboard_time": 1726018819,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323313,
       "num": 263876,
       "word": "张雨绮你什么时候关注他",
@@ -235,27 +251,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 305669,
-      "num": 305669,
-      "word": "人民日报评国足遭沙特逆转",
-      "onboard_time": 1726019239,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 298409,
       "num": 298409,
       "word": "海南发布接受台风救灾捐赠公告",
       "onboard_time": 1725976104,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 293110,
-      "num": 293110,
-      "word": "小朋友给兵哥哥的亲亲看得人心软软",
-      "onboard_time": 1726018819,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 233048,
-      "num": 252359,
+      "num": 312917,
       "word": "赵露思公主裙配球鞋",
       "onboard_time": 1726017500,
       "rank": 27,
@@ -411,8 +411,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187629,
-      "num": 187629,
+      "raw_hot": 190700,
+      "num": 190700,
+      "word": "这种肉别再吃成本或只有5毛钱",
+      "onboard_time": 1726022599,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 190308,
+      "num": 190308,
       "word": "为什么年轻人有送礼焦虑",
       "onboard_time": 1726019779,
       "rank": 25,
@@ -441,6 +449,14 @@
       "onboard_time": 1726019118,
       "rank": 26,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 178017,
+      "num": 178017,
+      "word": "上午种牙下午就能吃肉靠谱吗",
+      "onboard_time": 1726021699,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 165404,
@@ -475,6 +491,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162342,
+      "num": 162342,
+      "word": "韩媒称中国队晋级世界杯希望渺茫",
+      "onboard_time": 1726018880,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 157520,
+      "num": 157520,
+      "word": "iPhone16",
+      "onboard_time": 1726022298,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 156658,
       "num": 156658,
       "word": "美应停止攻击抹黑中国的真诚努力",
@@ -499,20 +531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155245,
-      "num": 155245,
-      "word": "上午种牙下午就能吃肉靠谱吗",
-      "onboard_time": 1726021699,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 149560,
-      "num": 149560,
-      "word": "这种肉别再吃成本或只有5毛钱",
-      "onboard_time": 1726022599,
-      "rank": 36,
-      "category": "美食"
+      "raw_hot": 150906,
+      "num": 150906,
+      "word": "一人一校38年他把126个学生送出山",
+      "onboard_time": 1726021639,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 147214,
@@ -521,14 +545,6 @@
       "onboard_time": 1726014979,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146948,
-      "num": 146948,
-      "word": "一人一校38年他把126个学生送出山",
-      "onboard_time": 1726021639,
-      "rank": 37,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 143174,
@@ -553,14 +569,6 @@
       "onboard_time": 1725986896,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140882,
-      "num": 140882,
-      "word": "韩媒称中国队晋级世界杯希望渺茫",
-      "onboard_time": 1726018880,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 138238,
@@ -595,12 +603,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131035,
+      "num": 313693,
+      "word": "央视曝光直播间高额返利骗局",
+      "onboard_time": 1726021699,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129527,
       "num": 129527,
       "word": "外媒称华为不给iPhone16蜜月期",
       "onboard_time": 1725977605,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 127963,
+      "num": 190354,
+      "word": "野孩子路演",
+      "onboard_time": 1726020918,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 126526,
@@ -643,28 +667,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 121654,
-      "num": 149628,
-      "word": "野孩子路演",
-      "onboard_time": 1726020918,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 118623,
       "num": 118623,
       "word": "库里到达成都",
       "onboard_time": 1725979103,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 116990,
-      "num": 116990,
-      "word": "iPhone16",
-      "onboard_time": 1726022298,
-      "rank": 40,
-      "category": "数码"
     },
     {
       "raw_hot": 116859,
@@ -697,6 +705,14 @@
       "onboard_time": 1726007232,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113549,
+      "num": 113549,
+      "word": "大学要不要加入社团",
+      "onboard_time": 1726020319,
+      "rank": 47,
+      "category": "社会议题,教育"
     },
     {
       "raw_hot": 112999,
@@ -763,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104638,
+      "num": 104638,
+      "word": "孙千 一款水灵灵的青春剧女主",
+      "onboard_time": 1726019657,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104214,
       "num": 104214,
       "word": "赵露思说尝试不适合的一切东西",
@@ -795,26 +819,10 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 101851,
-      "num": 101851,
-      "word": "大学要不要加入社团",
-      "onboard_time": 1726020319,
-      "rank": 47,
-      "category": "社会议题,教育"
-    },
-    {
-      "raw_hot": 100344,
-      "num": 313693,
-      "word": "央视曝光直播间高额返利骗局",
-      "onboard_time": 1726021699,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100319,
-      "num": 100319,
-      "word": "孙千 一款水灵灵的青春剧女主",
-      "onboard_time": 1726019657,
+      "raw_hot": 101161,
+      "num": 101161,
+      "word": "刘学义 疯批赛道",
+      "onboard_time": 1726023259,
       "rank": 48,
       "category": "剧集"
     },
@@ -1019,6 +1027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 54380,
+      "num": 306038,
+      "word": "特朗普哈里斯两人支持率接近",
+      "onboard_time": 1726022778,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 46738,
       "num": 651669,
       "word": "各科老师硬核绝活大赏",
@@ -1064,6 +1080,14 @@
       "word": "国际美妆10强一半在裁员四成在关店",
       "onboard_time": 1725991693,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36852,
+      "num": 214048,
+      "word": "秋天有仪式感的9件小事",
+      "onboard_time": 1726023078,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
