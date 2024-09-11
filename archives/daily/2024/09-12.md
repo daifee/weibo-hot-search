@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/12 00:27:02 ~ 2024/09/12 01:18:32
+本榜单时间：2024/09/12 00:27:02 ~ 2024/09/12 01:37:27
 </p>
 </blockquote>
 <p>
@@ -214,7 +214,7 @@ NewJeans直播（热度：124604）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%AC%91%E6%B0%94%E6%91%A7%E6%AF%81%E7%9A%84%E9%9D%92%E6%98%A5%23" target="weibo">
-被笑气摧毁的青春（热度：113503）
+被笑气摧毁的青春（热度：116955）
 </a>
 </li>
 
@@ -310,7 +310,7 @@ NewJeans直播（热度：124604）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8C%BB%E7%94%9F%E8%A2%AB%E5%88%A4%E8%B5%94%E4%B8%80%E5%90%8D%E7%94%B7%E5%A9%B41%E4%BA%BF%E7%BE%8E%E5%85%83%23" target="weibo">
-美国医生被判赔一名男婴1亿美元（热度：72137）
+美国医生被判赔一名男婴1亿美元（热度：73418）
 </a>
 </li>
 
@@ -345,8 +345,20 @@ NewJeans直播（热度：124604）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%80%E6%8C%81%E5%88%80%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%23" target="weibo">
+苏州警方通报一持刀伤人事件（热度：32803）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E4%B8%AD%E5%9B%BD%E8%A1%8C%23" target="weibo">
 高质量发展中国行（热度：22794）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%83%A8%E5%88%86%E9%B1%BC%E7%B1%BB%E6%B6%A8%E4%BB%B75%E5%80%8D%23" target="weibo">
+日本部分鱼类涨价5倍（热度：21786）
 </a>
 </li>
 
@@ -359,6 +371,12 @@ NewJeans直播（热度：124604）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%BB%BA%E6%88%90%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%95%99%E8%82%B2%E5%BC%BA%E5%9B%BD%23%23" target="weibo">
 #建成中国特色社会主义教育强国#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E9%99%95%E8%A5%BF%E5%AE%9D%E9%B8%A1%E5%92%8C%E7%94%98%E8%82%83%E5%A4%A9%E6%B0%B4%E8%80%83%E5%AF%9F%E8%B0%83%E7%A0%94%23%23" target="weibo">
+#习近平在陕西宝鸡和甘肃天水考察调研#
 </a>
 </li>
 
