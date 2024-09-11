@@ -1,6 +1,6 @@
 {
   "startTime": 1725985552565,
-  "endTime": 1726033142172,
+  "endTime": 1726036193972,
   "band_list": [
     {
       "raw_hot": 5198160,
@@ -33,6 +33,14 @@
       "onboard_time": 1726028905,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1573354,
+      "num": 1103942,
+      "word": "教育局回应老师让学生用牛奶干杯",
+      "onboard_time": 1726031362,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1507055,
@@ -99,14 +107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1011105,
-      "num": 1011105,
-      "word": "教育局回应老师让学生用牛奶干杯",
-      "onboard_time": 1726031362,
-      "rank": 18,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 868757,
       "num": 1134256,
       "word": "杨天真曝某女艺人老选丑衣服",
@@ -161,6 +161,14 @@
       "onboard_time": 1725975443,
       "rank": 15,
       "category": "国外时政,军事"
+    },
+    {
+      "raw_hot": 702084,
+      "num": 702084,
+      "word": "邻居不配合维修女子家漏水17年",
+      "onboard_time": 1726031543,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 699225,
@@ -267,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465412,
+      "num": 465412,
+      "word": "组委会回应刘亦菲金鹰奖事件",
+      "onboard_time": 1726033044,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 460998,
       "num": 460998,
       "word": "益阳一学校老师让订奶学生干杯喝奶",
@@ -331,6 +347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 387416,
+      "num": 290189,
+      "word": "华为和苹果线下旗舰店现状",
+      "onboard_time": 1726032383,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 385583,
       "num": 385583,
       "word": "国足输球伊万要负主要责任",
@@ -345,6 +369,14 @@
       "onboard_time": 1725975683,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376101,
+      "num": 376101,
+      "word": "俱乐部称张继科还在正常授课",
+      "onboard_time": 1726034781,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 371403,
@@ -419,14 +451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 310268,
-      "num": 267007,
-      "word": "华为和苹果线下旗舰店现状",
-      "onboard_time": 1726032383,
-      "rank": 21,
-      "category": "数码"
-    },
-    {
       "raw_hot": 308770,
       "num": 239822,
       "word": "这种肉别再吃成本或只有5毛钱",
@@ -444,11 +468,19 @@
     },
     {
       "raw_hot": 293892,
-      "num": 293892,
+      "num": 297266,
       "word": "美国大选",
       "onboard_time": 1726026980,
       "rank": 23,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 290052,
+      "num": 290052,
+      "word": "狗 死腿再跑快点啊",
+      "onboard_time": 1726036042,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 287975,
@@ -507,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 249570,
+      "num": 249570,
+      "word": "每摘一串香蕉就有一棵树失去生命",
+      "onboard_time": 1726034062,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247913,
       "num": 247913,
       "word": "专家称现在不是搞钱而是省钱的问题",
@@ -552,6 +592,14 @@
       "word": "海南目前缺什么物资",
       "onboard_time": 1725977064,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235053,
+      "num": 235053,
+      "word": "陶勇医生展示受伤手部现状",
+      "onboard_time": 1726035261,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -601,6 +649,14 @@
       "onboard_time": 1726025840,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227398,
+      "num": 292571,
+      "word": "林诗栋11比1",
+      "onboard_time": 1726034542,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 226558,
@@ -667,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192396,
+      "num": 295642,
+      "word": "宋茜陈好 姐姐友谊",
+      "onboard_time": 1726035322,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191975,
       "num": 191975,
       "word": "侯明昊看卢昱晓 比亲亲好嗑",
@@ -691,6 +755,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 189401,
+      "num": 189401,
+      "word": "山姆杨枝甘露被指开盖后炸了",
+      "onboard_time": 1726035503,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189121,
       "num": 189121,
       "word": "小马宝莉卡",
@@ -705,6 +777,14 @@
       "onboard_time": 1726032442,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187934,
+      "num": 187934,
+      "word": "花儿与少年",
+      "onboard_time": 1726035621,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 183703,
@@ -731,6 +811,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 181902,
+      "num": 463736,
+      "word": "台风摩羯已致越南87死70失踪",
+      "onboard_time": 1726030943,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181248,
       "num": 181248,
       "word": "北体大新生拔河拔断绳子",
@@ -755,8 +843,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 174412,
-      "num": 174412,
+      "raw_hot": 174936,
+      "num": 174936,
       "word": "盘古库里皮肤",
       "onboard_time": 1726030702,
       "rank": 35,
@@ -811,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165583,
+      "num": 165583,
+      "word": "猫咪确诊为订书机",
+      "onboard_time": 1726031721,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 165404,
       "num": 165404,
       "word": "教师资格证",
@@ -828,7 +924,7 @@
     },
     {
       "raw_hot": 163826,
-      "num": 163826,
+      "num": 298188,
       "word": "男子11万多法拍奔驰竟是报废车",
       "onboard_time": 1726032263,
       "rank": 32,
@@ -891,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154378,
+      "num": 154378,
+      "word": "牵手了但手指没用力",
+      "onboard_time": 1726035800,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 153451,
       "num": 441701,
       "word": "檀健次看自己吻戏红温了",
@@ -899,12 +1003,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151581,
+      "num": 151581,
+      "word": "上海米哈游总部对公众开放",
+      "onboard_time": 1726034122,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150906,
       "num": 150906,
       "word": "一人一校38年他把126个学生送出山",
       "onboard_time": 1726021639,
       "rank": 37,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 150234,
+      "num": 150234,
+      "word": "金晨开车一路全是小节目",
+      "onboard_time": 1726034963,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 147740,
+      "num": 147740,
+      "word": "女子新婚两月遭丈夫家暴致失明",
+      "onboard_time": 1726036042,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147214,
@@ -963,14 +1091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137569,
-      "num": 137569,
-      "word": "猫咪确诊为订书机",
-      "onboard_time": 1726031721,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 137369,
       "num": 149147,
       "word": "成毅袁咏仪张智霖合照",
@@ -1011,20 +1131,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131634,
+      "num": 131634,
+      "word": "张晚意演技",
+      "onboard_time": 1726035621,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129527,
       "num": 129527,
       "word": "外媒称华为不给iPhone16蜜月期",
       "onboard_time": 1725977605,
       "rank": 26,
       "category": "数码"
-    },
-    {
-      "raw_hot": 128880,
-      "num": 463736,
-      "word": "台风摩羯已致越南87死70失踪",
-      "onboard_time": 1726030943,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 128155,
@@ -1099,12 +1219,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 118868,
-      "num": 118868,
-      "word": "组委会回应刘亦菲金鹰奖事件",
-      "onboard_time": 1726033044,
-      "rank": 48,
-      "category": "电影"
+      "raw_hot": 120530,
+      "num": 453307,
+      "word": "月饼难卖成业内共识",
+      "onboard_time": 1726031423,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118848,
+      "num": 118848,
+      "word": "国台办回应林依晨说我是成都人",
+      "onboard_time": 1726036161,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 118623,
@@ -1161,6 +1289,22 @@
       "onboard_time": 1726012398,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112915,
+      "num": 112915,
+      "word": "大漠云海奇观",
+      "onboard_time": 1726035381,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 112676,
+      "num": 112676,
+      "word": "周深巡回演唱",
+      "onboard_time": 1726035621,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 111517,
@@ -1315,14 +1459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 89724,
-      "num": 431939,
-      "word": "邻居不配合维修女子家漏水17年",
-      "onboard_time": 1726031543,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 89489,
       "num": 89489,
       "word": "萧敬腾 求雨",
@@ -1345,14 +1481,6 @@
       "onboard_time": 1725984020,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 85231,
-      "num": 453307,
-      "word": "月饼难卖成业内共识",
-      "onboard_time": 1726031423,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 84368,
@@ -1537,6 +1665,14 @@
       "onboard_time": 1725988514,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46661,
+      "num": 176281,
+      "word": "2024中国企业500强营收破110万亿",
+      "onboard_time": 1726034242,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45860,

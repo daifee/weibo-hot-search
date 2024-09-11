@@ -1,0 +1,410 @@
+{
+  "runTime": 1726036193972,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1062225,
+        "num": 1169956,
+        "word": "专家称00后4点59下班没错是别人错了",
+        "onboard_time": 1726028905,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1573354,
+        "num": 1103942,
+        "word": "教育局回应老师让学生用牛奶干杯",
+        "onboard_time": 1726031362,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 7909,
+        "num": 757075,
+        "word": "万千气象看内蒙古",
+        "onboard_time": 1725887060,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 704042,
+        "num": 704042,
+        "word": "神奇海挪 塌房",
+        "onboard_time": 1726026199,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 702084,
+        "num": 702084,
+        "word": "邻居不配合维修女子家漏水17年",
+        "onboard_time": 1726031543,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 690158,
+        "num": 690158,
+        "word": "霉霉宣布支持哈里斯",
+        "onboard_time": 1726028183,
+        "rank": 5,
+        "category": "艺人,国外时政"
+      },
+      {
+        "raw_hot": 522686,
+        "num": 522686,
+        "word": "沈某已娶妻 今生不会再娶",
+        "onboard_time": 1726027701,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 465412,
+        "num": 465412,
+        "word": "组委会回应刘亦菲金鹰奖事件",
+        "onboard_time": 1726033044,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 376101,
+        "num": 376101,
+        "word": "俱乐部称张继科还在正常授课",
+        "onboard_time": 1726034781,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362916,
+        "num": 362916,
+        "word": "中方回应普京希望中国调停乌克兰危机",
+        "onboard_time": 1726028905,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 4170429,
+        "num": 362358,
+        "word": "张继科 跑路",
+        "onboard_time": 1726031243,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 336107,
+        "num": 336107,
+        "word": "张雨绮战绩可查",
+        "onboard_time": 1726016060,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 322273,
+        "num": 322273,
+        "word": "刘亦菲妈妈近照状态",
+        "onboard_time": 1726029803,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 299522,
+        "num": 299522,
+        "word": "平野绫遭家暴",
+        "onboard_time": 1726025419,
+        "rank": 13,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 124863,
+        "num": 298188,
+        "word": "男子11万多法拍奔驰竟是报废车",
+        "onboard_time": 1726032263,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249473,
+        "num": 297266,
+        "word": "美国大选",
+        "onboard_time": 1726026980,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 297025,
+        "num": 297025,
+        "word": "老人坏了1颗牙竟被拔掉全口29颗",
+        "onboard_time": 1726018880,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192396,
+        "num": 295642,
+        "word": "宋茜陈好 姐姐友谊",
+        "onboard_time": 1726035322,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248967,
+        "num": 293925,
+        "word": "我的阿勒泰",
+        "onboard_time": 1726029023,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227398,
+        "num": 292571,
+        "word": "林诗栋11比1",
+        "onboard_time": 1726034542,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 387416,
+        "num": 290189,
+        "word": "华为和苹果线下旗舰店现状",
+        "onboard_time": 1726032383,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 290052,
+        "num": 290052,
+        "word": "狗 死腿再跑快点啊",
+        "onboard_time": 1726036042,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249570,
+        "num": 249570,
+        "word": "每摘一串香蕉就有一棵树失去生命",
+        "onboard_time": 1726034062,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235053,
+        "num": 235053,
+        "word": "陶勇医生展示受伤手部现状",
+        "onboard_time": 1726035261,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221887,
+        "num": 221887,
+        "word": "于适待播作品",
+        "onboard_time": 1726027641,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208318,
+        "num": 208318,
+        "word": "大叔开三轮拉巨蟒标本参会被调查",
+        "onboard_time": 1726023438,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189401,
+        "num": 189401,
+        "word": "山姆杨枝甘露被指开盖后炸了",
+        "onboard_time": 1726035503,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187934,
+        "num": 187934,
+        "word": "花儿与少年",
+        "onboard_time": 1726035621,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181902,
+        "num": 181902,
+        "word": "台风摩羯已致越南87死70失踪",
+        "onboard_time": 1726030943,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177774,
+        "num": 177774,
+        "word": "国台办回应黑神话悟空在台湾大热",
+        "onboard_time": 1726028122,
+        "rank": 29,
+        "category": "国内时政,游戏"
+      },
+      {
+        "raw_hot": 46661,
+        "num": 176281,
+        "word": "2024中国企业500强营收破110万亿",
+        "onboard_time": 1726034242,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174936,
+        "num": 174936,
+        "word": "盘古库里皮肤",
+        "onboard_time": 1726030702,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172565,
+        "num": 172565,
+        "word": "男生开学发现同桌竟是奥运冠军袁心玥",
+        "onboard_time": 1726028964,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165583,
+        "num": 165583,
+        "word": "猫咪确诊为订书机",
+        "onboard_time": 1726031721,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155723,
+        "num": 155723,
+        "word": "男子出狱用前女友照片网恋骗15万",
+        "onboard_time": 1726023859,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154378,
+        "num": 154378,
+        "word": "牵手了但手指没用力",
+        "onboard_time": 1726035800,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 151581,
+        "num": 151581,
+        "word": "上海米哈游总部对公众开放",
+        "onboard_time": 1726034122,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150234,
+        "num": 150234,
+        "word": "金晨开车一路全是小节目",
+        "onboard_time": 1726034963,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147740,
+        "num": 147740,
+        "word": "女子新婚两月遭丈夫家暴致失明",
+        "onboard_time": 1726036042,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147083,
+        "num": 147083,
+        "word": "梦回爸爸去哪儿",
+        "onboard_time": 1726028362,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134872,
+        "num": 134872,
+        "word": "年轻人从30岁开始身高会缩水",
+        "onboard_time": 1726027402,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131634,
+        "num": 131634,
+        "word": "张晚意演技",
+        "onboard_time": 1726035621,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124544,
+        "num": 124544,
+        "word": "吴彦祖舒淇冯德伦26年前后合照",
+        "onboard_time": 1726032082,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124165,
+        "num": 124165,
+        "word": "央视曝光直播间高额返利骗局",
+        "onboard_time": 1726021699,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120530,
+        "num": 120530,
+        "word": "月饼难卖成业内共识",
+        "onboard_time": 1726031423,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118848,
+        "num": 118848,
+        "word": "国台办回应林依晨说我是成都人",
+        "onboard_time": 1726036161,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114927,
+        "num": 114927,
+        "word": "特朗普哈里斯两人支持率接近",
+        "onboard_time": 1726022778,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 113309,
+        "num": 113309,
+        "word": "杨迪让杨超越谨言慎行",
+        "onboard_time": 1726031783,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112915,
+        "num": 112915,
+        "word": "大漠云海奇观",
+        "onboard_time": 1726035381,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 112676,
+        "num": 112676,
+        "word": "周深巡回演唱",
+        "onboard_time": 1726035621,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#建成教育强国总书记强调六个力#"
+    }
+  }
+}
