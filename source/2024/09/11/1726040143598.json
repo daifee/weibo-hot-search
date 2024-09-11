@@ -1,0 +1,410 @@
+{
+  "runTime": 1726040143598,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1596689,
+        "num": 1596689,
+        "word": "国台办回应林依晨说我是成都人",
+        "onboard_time": 1726036161,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1198126,
+        "num": 1198126,
+        "word": "刘亦菲王鹤棣 平番",
+        "onboard_time": 1726037420,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 7447,
+        "num": 1100297,
+        "word": "万千气象看内蒙古",
+        "onboard_time": 1725887060,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1076415,
+        "num": 1076415,
+        "word": "专家称00后4点59下班没错是别人错了",
+        "onboard_time": 1726028905,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 993668,
+        "num": 993668,
+        "word": "未来房子不大幅增值或将变消费品",
+        "onboard_time": 1726038261,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530374,
+        "num": 530374,
+        "word": "美国大选",
+        "onboard_time": 1726026980,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 500051,
+        "num": 500051,
+        "word": "神奇海挪 塌房",
+        "onboard_time": 1726026199,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 426529,
+        "num": 426529,
+        "word": "邻居不配合维修女子家漏水17年",
+        "onboard_time": 1726031543,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389475,
+        "num": 389475,
+        "word": "每摘一串香蕉就有一棵树失去生命",
+        "onboard_time": 1726034062,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37551,
+        "num": 382617,
+        "word": "当地回应有人从湘江钓起中华鲟",
+        "onboard_time": 1726038502,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699649,
+        "num": 382608,
+        "word": "马斯克回应霉霉支持哈里斯",
+        "onboard_time": 1726036521,
+        "rank": 10,
+        "category": "国外时政,艺人"
+      },
+      {
+        "raw_hot": 382043,
+        "num": 382043,
+        "word": "俱乐部称张继科还在正常授课",
+        "onboard_time": 1726034781,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345604,
+        "num": 345604,
+        "word": "沈某已娶妻 今生不会再娶",
+        "onboard_time": 1726027701,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323103,
+        "num": 323103,
+        "word": "理想L9自动泊车失败",
+        "onboard_time": 1726036521,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 37673,
+        "num": 317802,
+        "word": "摩羯致海南4地损失近800亿",
+        "onboard_time": 1726040060,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313688,
+        "num": 313688,
+        "word": "周雨彤 你这是向谁求婚呢",
+        "onboard_time": 1726038081,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481601,
+        "num": 312850,
+        "word": "霉霉支持哈里斯会影响美国大选吗",
+        "onboard_time": 1726038921,
+        "rank": 16,
+        "category": "国外时政,艺人"
+      },
+      {
+        "raw_hot": 28819,
+        "num": 310472,
+        "word": "王一博探索新境快报",
+        "onboard_time": 1726039221,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 13889,
+        "num": 307074,
+        "word": "大学是谈恋爱最佳时期吗",
+        "onboard_time": 1726039820,
+        "rank": 18,
+        "category": "社会议题,教育"
+      },
+      {
+        "raw_hot": 84490,
+        "num": 304580,
+        "word": "男子酒后腹痛暴瘦50斤",
+        "onboard_time": 1726039341,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391886,
+        "num": 302872,
+        "word": "狗 死腿再跑快点啊",
+        "onboard_time": 1726036042,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 300868,
+        "num": 300868,
+        "word": "取亡父存款被银行回复解锁得本人",
+        "onboard_time": 1726037242,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287261,
+        "num": 287261,
+        "word": "专家称不给加班费不加班趋势不可逆",
+        "onboard_time": 1726038261,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280949,
+        "num": 280949,
+        "word": "华为和苹果线下旗舰店现状",
+        "onboard_time": 1726032383,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 247954,
+        "num": 247954,
+        "word": "山姆杨枝甘露被指开盖后炸了",
+        "onboard_time": 1726035503,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226571,
+        "num": 226571,
+        "word": "张雨绮战绩可查",
+        "onboard_time": 1726016060,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222126,
+        "num": 222126,
+        "word": "组委会回应刘亦菲金鹰奖事件",
+        "onboard_time": 1726033044,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219664,
+        "num": 219664,
+        "word": "平野绫遭家暴",
+        "onboard_time": 1726025419,
+        "rank": 27,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 212961,
+        "num": 212961,
+        "word": "陶勇医生展示受伤手部现状",
+        "onboard_time": 1726035261,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202400,
+        "num": 202400,
+        "word": "去有风的地方",
+        "onboard_time": 1726037780,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190761,
+        "num": 190761,
+        "word": "女子新婚两月遭丈夫家暴致失明",
+        "onboard_time": 1726036042,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38382,
+        "num": 186777,
+        "word": "吴彦祖的第一台SUV改装作品",
+        "onboard_time": 1726036641,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183560,
+        "num": 183560,
+        "word": "男子11万多法拍奔驰竟是报废车",
+        "onboard_time": 1726032263,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177267,
+        "num": 177267,
+        "word": "老人坏了1颗牙竟被拔掉全口29颗",
+        "onboard_time": 1726018880,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177071,
+        "num": 177071,
+        "word": "中方回应普京希望中国调停乌克兰危机",
+        "onboard_time": 1726028905,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 174534,
+        "num": 174534,
+        "word": "牵手了但手指没用力",
+        "onboard_time": 1726035800,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 165103,
+        "num": 165103,
+        "word": "镖人",
+        "onboard_time": 1726039701,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152111,
+        "num": 152111,
+        "word": "刘亦菲妈妈近照状态",
+        "onboard_time": 1726029803,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147398,
+        "num": 147398,
+        "word": "一个受教育的女性可以改变三代人命运",
+        "onboard_time": 1726037602,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146194,
+        "num": 146194,
+        "word": "神奇海挪道歉",
+        "onboard_time": 1726038200,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 134376,
+        "num": 134376,
+        "word": "男生开学发现同桌竟是奥运冠军袁心玥",
+        "onboard_time": 1726028964,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132872,
+        "num": 132872,
+        "word": "给我干哪来了这还是地球吗",
+        "onboard_time": 1726039400,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132311,
+        "num": 132311,
+        "word": "檀健次贵气公子哥",
+        "onboard_time": 1726039520,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130725,
+        "num": 130725,
+        "word": "年轻人从30岁开始身高会缩水",
+        "onboard_time": 1726027402,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130232,
+        "num": 130232,
+        "word": "林诗栋11比1",
+        "onboard_time": 1726034542,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130057,
+        "num": 130057,
+        "word": "男子出狱用前女友照片网恋骗15万",
+        "onboard_time": 1726023859,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126282,
+        "num": 126282,
+        "word": "陈好怕狗",
+        "onboard_time": 1726036221,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125009,
+        "num": 125009,
+        "word": "以高额返利为噱头哄骗网友刷礼物",
+        "onboard_time": 1726037302,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120266,
+        "num": 120266,
+        "word": "蔡少芬生孩子鞋码从39涨到41",
+        "onboard_time": 1726038741,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113951,
+        "num": 113951,
+        "word": "国台办回应黑神话悟空在台湾大热",
+        "onboard_time": 1726028122,
+        "rank": 49,
+        "category": "国内时政,游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#建成教育强国总书记强调六个力#"
+    }
+  }
+}

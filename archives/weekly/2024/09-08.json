@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726039199825,
+  "endTime": 1726040143598,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -587,20 +587,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1198126,
+      "num": 1198126,
+      "word": "刘亦菲王鹤棣 平番",
+      "onboard_time": 1726037420,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1192193,
       "num": 1192193,
       "word": "月饼为什么卖不动了",
       "onboard_time": 1725886039,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1191073,
-      "num": 1191073,
-      "word": "刘亦菲王鹤棣 平番",
-      "onboard_time": 1726037420,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 1177717,
@@ -752,6 +752,14 @@
       "word": "央视曝光轻医美乱象",
       "onboard_time": 1725800419,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 993668,
+      "num": 993668,
+      "word": "未来房子不大幅增值或将变消费品",
+      "onboard_time": 1726038261,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1156,7 +1164,7 @@
     },
     {
       "raw_hot": 745894,
-      "num": 350764,
+      "num": 382608,
       "word": "马斯克回应霉霉支持哈里斯",
       "onboard_time": 1726036521,
       "rank": 19,
@@ -1715,6 +1723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 530374,
+      "num": 530374,
+      "word": "美国大选",
+      "onboard_time": 1726026980,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 523627,
       "num": 514454,
       "word": "赵丽颖带想想现身公园玩沙子",
@@ -1873,6 +1889,14 @@
       "onboard_time": 1725793518,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 481601,
+      "num": 312850,
+      "word": "霉霉支持哈里斯会影响美国大选吗",
+      "onboard_time": 1726038921,
+      "rank": 18,
+      "category": "国外时政,艺人"
     },
     {
       "raw_hot": 480115,
@@ -2363,6 +2387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391886,
+      "num": 302872,
+      "word": "狗 死腿再跑快点啊",
+      "onboard_time": 1726036042,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 390983,
       "num": 390983,
       "word": "田曦薇演累了让我演两集",
@@ -2377,6 +2409,14 @@
       "onboard_time": 1725959180,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389475,
+      "num": 389475,
+      "word": "每摘一串香蕉就有一棵树失去生命",
+      "onboard_time": 1726034062,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 389440,
@@ -2483,14 +2523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 372404,
-      "num": 372404,
-      "word": "每摘一串香蕉就有一棵树失去生命",
-      "onboard_time": 1726034062,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 370139,
       "num": 335309,
       "word": "物业回应近百户玻璃窗被台风掀飞",
@@ -2505,14 +2537,6 @@
       "onboard_time": 1725761719,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 369589,
-      "num": 290052,
-      "word": "狗 死腿再跑快点啊",
-      "onboard_time": 1726036042,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 369064,
@@ -2585,14 +2609,6 @@
       "onboard_time": 1725948260,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 354569,
-      "num": 334302,
-      "word": "美国大选",
-      "onboard_time": 1726026980,
-      "rank": 23,
-      "category": "国外时政"
     },
     {
       "raw_hot": 354236,
@@ -2704,14 +2720,6 @@
       "word": "小朋友给兵哥哥的亲亲看得人心软软",
       "onboard_time": 1726018819,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 347045,
-      "num": 347045,
-      "word": "未来房子不大幅增值或将变消费品",
-      "onboard_time": 1726038261,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -2851,6 +2859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323103,
+      "num": 323103,
+      "word": "理想L9自动泊车失败",
+      "onboard_time": 1726036521,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 322384,
       "num": 322384,
       "word": "AirPods4",
@@ -2881,14 +2897,6 @@
       "onboard_time": 1725789679,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 318830,
-      "num": 318830,
-      "word": "理想L9自动泊车失败",
-      "onboard_time": 1726036521,
-      "rank": 28,
-      "category": "汽车"
     },
     {
       "raw_hot": 317030,
@@ -2929,6 +2937,14 @@
       "onboard_time": 1725979402,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 313688,
+      "num": 313688,
+      "word": "周雨彤 你这是向谁求婚呢",
+      "onboard_time": 1726038081,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 313259,
@@ -3091,6 +3107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 300868,
+      "num": 300868,
+      "word": "取亡父存款被银行回复解锁得本人",
+      "onboard_time": 1726037242,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300243,
       "num": 300243,
       "word": "库里直播",
@@ -3164,7 +3188,7 @@
     },
     {
       "raw_hot": 293337,
-      "num": 247110,
+      "num": 247954,
       "word": "山姆杨枝甘露被指开盖后炸了",
       "onboard_time": 1726035503,
       "rank": 26,
@@ -3185,6 +3209,14 @@
       "onboard_time": 1725981683,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 287261,
+      "num": 287261,
+      "word": "专家称不给加班费不加班趋势不可逆",
+      "onboard_time": 1726038261,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287207,
@@ -3451,14 +3483,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 265899,
-      "num": 265899,
-      "word": "周雨彤 你这是向谁求婚呢",
-      "onboard_time": 1726038081,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 265818,
       "num": 265818,
       "word": "iPhone16配色 垃圾袋",
@@ -3521,14 +3545,6 @@
       "onboard_time": 1725966382,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 259146,
-      "num": 259146,
-      "word": "霉霉支持哈里斯会影响美国大选吗",
-      "onboard_time": 1726038921,
-      "rank": 18,
-      "category": "国外时政,艺人"
     },
     {
       "raw_hot": 258547,
@@ -3985,14 +4001,6 @@
       "onboard_time": 1725771080,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231019,
-      "num": 231019,
-      "word": "专家称不给加班费不加班趋势不可逆",
-      "onboard_time": 1726038261,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 230943,
@@ -4779,6 +4787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202400,
+      "num": 202400,
+      "word": "去有风的地方",
+      "onboard_time": 1726037780,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202079,
       "num": 202079,
       "word": "伊万 不换人",
@@ -5339,14 +5355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188385,
-      "num": 188385,
-      "word": "去有风的地方",
-      "onboard_time": 1726037780,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 188253,
       "num": 197577,
       "word": "男子高铁上抽半支烟被拘5天",
@@ -5539,6 +5547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183560,
+      "num": 298188,
+      "word": "男子11万多法拍奔驰竟是报废车",
+      "onboard_time": 1726032263,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183229,
       "num": 183229,
       "word": "偶像梦幻祭",
@@ -5680,14 +5696,6 @@
       "word": "市监回应老人称在足浴店消费32万",
       "onboard_time": 1725768020,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179046,
-      "num": 298188,
-      "word": "男子11万多法拍奔驰竟是报废车",
-      "onboard_time": 1726032263,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -6233,6 +6241,14 @@
       "onboard_time": 1725789020,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165103,
+      "num": 165103,
+      "word": "镖人",
+      "onboard_time": 1726039701,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 165018,
@@ -7291,14 +7307,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 142203,
-      "num": 199403,
-      "word": "取亡父存款被银行回复解锁得本人",
-      "onboard_time": 1726037242,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142119,
       "num": 142119,
       "word": "小鹿吐槽老家婚礼吃席现状好真实",
@@ -7723,6 +7731,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 132872,
+      "num": 132872,
+      "word": "给我干哪来了这还是地球吗",
+      "onboard_time": 1726039400,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132843,
       "num": 132843,
       "word": "人类首次商业太空行走任务发射升空",
@@ -7745,6 +7761,14 @@
       "onboard_time": 1725894621,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132311,
+      "num": 132311,
+      "word": "檀健次贵气公子哥",
+      "onboard_time": 1726039520,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 132276,
@@ -8072,6 +8096,14 @@
       "word": "女子称男婴被丈夫单独照顾后死亡",
       "onboard_time": 1725714922,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125009,
+      "num": 125009,
+      "word": "以高额返利为噱头哄骗网友刷礼物",
+      "onboard_time": 1726037302,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -9563,6 +9595,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 84490,
+      "num": 304580,
+      "word": "男子酒后腹痛暴瘦50斤",
+      "onboard_time": 1726039341,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84372,
       "num": 84372,
       "word": "史上最窄边框iPhone",
@@ -10635,6 +10675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 38382,
+      "num": 259654,
+      "word": "吴彦祖的第一台SUV改装作品",
+      "onboard_time": 1726036641,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 38336,
       "num": 76090,
       "word": "5年前摇号未中如今低价买到心仪现房",
@@ -10657,6 +10705,22 @@
       "onboard_time": 1725750793,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37673,
+      "num": 317802,
+      "word": "摩羯致海南4地损失近800亿",
+      "onboard_time": 1726040060,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37551,
+      "num": 382617,
+      "word": "当地回应有人从湘江钓起中华鲟",
+      "onboard_time": 1726038502,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37361,
@@ -10787,14 +10851,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 33309,
-      "num": 259654,
-      "word": "吴彦祖的第一台SUV改装作品",
-      "onboard_time": 1726036641,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 33267,
       "num": 1608140,
       "word": "这些开学寄语献给每一个你",
@@ -10875,14 +10931,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 30888,
-      "num": 353452,
-      "word": "当地回应有人从湘江钓起中华鲟",
-      "onboard_time": 1726038502,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30764,
       "num": 281813,
       "word": "宠物殡葬服务一价全包最高达1万元",
@@ -10929,6 +10977,14 @@
       "onboard_time": 1725981201,
       "rank": 29,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 28819,
+      "num": 310472,
+      "word": "王一博探索新境快报",
+      "onboard_time": 1726039221,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 28791,
@@ -11385,6 +11441,14 @@
       "onboard_time": 1725948320,
       "rank": 38,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 13889,
+      "num": 307074,
+      "word": "大学是谈恋爱最佳时期吗",
+      "onboard_time": 1726039820,
+      "rank": 18,
+      "category": "社会议题,教育"
     },
     {
       "raw_hot": 13288,
