@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/08 00:25:23 ~ 2024/09/12 03:36:36
+本榜单时间：2024/09/08 00:25:23 ~ 2024/09/12 04:21:36
 </p>
 </blockquote>
 <p>
@@ -9561,6 +9561,12 @@ AirPods4充电盒有扬声器（热度：40858）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E5%88%98%E4%BF%A1%E8%BE%BE%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89%23" target="weibo">
+导演刘信达公开道歉（热度：21785）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%AD%90%E5%BC%9F%E5%85%B5%E5%80%9F%E5%AE%BF%E5%90%8E%E7%95%99%E4%B8%8B%E7%9A%84%E9%BB%91%E6%9D%BF%E6%8A%A5%E6%9A%96%E5%88%B0%E4%BA%86%23" target="weibo">
 被子弟兵借宿后留下的黑板报暖到了（热度：21728）
 </a>
@@ -9603,14 +9609,14 @@ AirPods4充电盒有扬声器（热度：40858）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%23" target="weibo">
-台风（热度：19967）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E5%A4%9A%E6%B2%B3%E6%AE%B5%E7%8E%B0%E8%B6%85%E8%AD%A6%E6%B4%AA%E6%B0%B4%23" target="weibo">
+广西多河段现超警洪水（热度：20084）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E5%A4%9A%E6%B2%B3%E6%AE%B5%E7%8E%B0%E8%B6%85%E8%AD%A6%E6%B4%AA%E6%B0%B4%23" target="weibo">
-广西多河段现超警洪水（热度：19945）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%23" target="weibo">
+台风（热度：19967）
 </a>
 </li>
 
@@ -9675,12 +9681,6 @@ AirPods4充电盒有扬声器（热度：40858）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E5%88%98%E4%BF%A1%E8%BE%BE%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89%23" target="weibo">
-导演刘信达公开道歉（热度：17049）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AB%98%E7%83%A7%E6%98%8F%E8%BF%B7%E4%BA%A4%E8%AD%A6%E9%97%AF%E7%BA%A2%E7%81%AF%E5%BC%80%E9%81%93%E9%80%81%E5%8C%BB%23" target="weibo">
 女孩高烧昏迷交警闯红灯开道送医（热度：15954）
 </a>
@@ -9735,6 +9735,12 @@ AirPods4充电盒有扬声器（热度：40858）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E4%B8%BE%E8%A1%8C%E8%81%94%E6%BC%94%E7%9B%AE%E7%9A%84%23" target="weibo">
+外交部回应中俄举行联演目的（热度：13662）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%86%9B%E9%98%9F%E6%B7%AC%E7%81%AB%E5%90%91%E5%89%8D%23" target="weibo">
 人民军队淬火向前（热度：13451）
 </a>
@@ -9767,6 +9773,12 @@ AirPods4充电盒有扬声器（热度：40858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E7%89%88%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD%23" target="weibo">
 奥运冠军版我和我的祖国（热度：11439）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD8%E6%9C%88CPI%E5%90%8C%E6%AF%94%E4%B8%8A%E6%B6%A82.5%25%23" target="weibo">
+美国8月CPI同比上涨2.5%（热度：11059）
 </a>
 </li>
 

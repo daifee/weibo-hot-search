@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726083396580,
+  "endTime": 1726086096926,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -12731,6 +12731,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 21785,
+      "num": 21785,
+      "word": "导演刘信达公开道歉",
+      "onboard_time": 1726082712,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21728,
       "num": 355565,
       "word": "被子弟兵借宿后留下的黑板报暖到了",
@@ -12787,19 +12795,19 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 20084,
+      "num": 24883,
+      "word": "广西多河段现超警洪水",
+      "onboard_time": 1726080732,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19967,
       "num": 21020,
       "word": "台风",
       "onboard_time": 1725999791,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19945,
-      "num": 24883,
-      "word": "广西多河段现超警洪水",
-      "onboard_time": 1726080732,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -12883,14 +12891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17049,
-      "num": 21672,
-      "word": "导演刘信达公开道歉",
-      "onboard_time": 1726082712,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 15954,
       "num": 232627,
       "word": "女孩高烧昏迷交警闯红灯开道送医",
@@ -12963,6 +12963,14 @@
       "category": "社会议题,教育"
     },
     {
+      "raw_hot": 13662,
+      "num": 17095,
+      "word": "外交部回应中俄举行联演目的",
+      "onboard_time": 1726085712,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13451,
       "num": 34657,
       "word": "人民军队淬火向前",
@@ -13009,6 +13017,14 @@
       "onboard_time": 1725744551,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11059,
+      "num": 48450,
+      "word": "美国8月CPI同比上涨2.5%",
+      "onboard_time": 1726083671,
+      "rank": 9,
+      "category": "国外时政,财经"
     },
     {
       "raw_hot": 10618,

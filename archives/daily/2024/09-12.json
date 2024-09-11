@@ -1,6 +1,6 @@
 {
   "startTime": 1726072022754,
-  "endTime": 1726083396580,
+  "endTime": 1726086096926,
   "band_list": [
     {
       "raw_hot": 911975,
@@ -483,7 +483,15 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 19945,
+      "raw_hot": 21785,
+      "num": 21785,
+      "word": "导演刘信达公开道歉",
+      "onboard_time": 1726082712,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 20084,
       "num": 24883,
       "word": "广西多河段现超警洪水",
       "onboard_time": 1726080732,
@@ -491,12 +499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17049,
-      "num": 21672,
-      "word": "导演刘信达公开道歉",
-      "onboard_time": 1726082712,
-      "rank": 45,
-      "category": "艺人"
+      "raw_hot": 13662,
+      "num": 17095,
+      "word": "外交部回应中俄举行联演目的",
+      "onboard_time": 1726085712,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13451,
@@ -513,6 +521,14 @@
       "onboard_time": 1726065262,
       "rank": 2,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 11059,
+      "num": 48450,
+      "word": "美国8月CPI同比上涨2.5%",
+      "onboard_time": 1726083671,
+      "rank": 9,
+      "category": "国外时政,财经"
     },
     {
       "raw_hot": 10078,
