@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726096900026,
+  "endTime": 1726097716238,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -587,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1272269,
+      "num": 144121,
+      "word": "女子净身出户每天把1岁儿子锁家里",
+      "onboard_time": 1726095255,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1270192,
       "num": 439671,
       "word": "辛巴 小杨哥",
@@ -648,14 +656,6 @@
       "word": "莫奈巨作睡莲将在香港拍卖",
       "onboard_time": 1725850219,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1227519,
-      "num": 144121,
-      "word": "女子净身出户每天把1岁儿子锁家里",
-      "onboard_time": 1726095255,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -1371,6 +1371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 742485,
+      "num": 913867,
+      "word": "柳岩 许仙最后打死了白娘子",
+      "onboard_time": 1726071140,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 741420,
       "num": 706795,
       "word": "连刘美含相亲都相不到正常的",
@@ -1441,14 +1449,6 @@
       "onboard_time": 1725855320,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 708906,
-      "num": 814831,
-      "word": "柳岩 许仙最后打死了白娘子",
-      "onboard_time": 1726071140,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 708709,
@@ -3291,6 +3291,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 322694,
+      "num": 322694,
+      "word": "2男孩把猫扔湖里被大学生厉声制止",
+      "onboard_time": 1726087392,
+      "rank": 17,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 322384,
       "num": 322384,
       "word": "AirPods4",
@@ -3425,14 +3433,6 @@
       "onboard_time": 1725945501,
       "rank": 45,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 310488,
-      "num": 310488,
-      "word": "2男孩把猫扔湖里被大学生厉声制止",
-      "onboard_time": 1726087392,
-      "rank": 17,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 310401,
@@ -4537,6 +4537,14 @@
       "onboard_time": 1725771080,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231323,
+      "num": 231323,
+      "word": "newjeans",
+      "onboard_time": 1726096219,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 231198,
@@ -5803,14 +5811,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 193952,
-      "num": 193952,
-      "word": "newjeans",
-      "onboard_time": 1726096219,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 193546,
       "num": 193546,
       "word": "TMA颁奖礼",
@@ -6641,6 +6641,14 @@
       "onboard_time": 1725876257,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175447,
+      "num": 143584,
+      "word": "怀疑食堂师傅是00后",
+      "onboard_time": 1726094054,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175253,
@@ -7771,6 +7779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151392,
+      "num": 151392,
+      "word": "江西多名执法人员殴打一男子",
+      "onboard_time": 1726095796,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151374,
       "num": 151374,
       "word": "NewJeans瞒着ador开发布会",
@@ -7792,6 +7808,14 @@
       "word": "武汉严西湖大桥有车辆坠湖",
       "onboard_time": 1725894260,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151016,
+      "num": 151016,
+      "word": "小伙下160米天坑为隐居母子送货",
+      "onboard_time": 1726078453,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -8216,14 +8240,6 @@
       "word": "小镇青年的消费力不输一线白领",
       "onboard_time": 1725789858,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143584,
-      "num": 143584,
-      "word": "怀疑食堂师傅是00后",
-      "onboard_time": 1726094054,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -9483,14 +9499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121341,
-      "num": 121341,
-      "word": "小伙下160米天坑为隐居母子送货",
-      "onboard_time": 1726078453,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121298,
       "num": 121298,
       "word": "婴儿供氧只剩1.5小时消防员出手了",
@@ -9867,6 +9875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114029,
+      "num": 114029,
+      "word": "英伟达市值一夜大增1.54万亿",
+      "onboard_time": 1726096578,
+      "rank": 43,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 113707,
       "num": 113707,
       "word": "郑钦文中网训练",
@@ -9993,14 +10009,6 @@
       "onboard_time": 1726047560,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111163,
-      "num": 111163,
-      "word": "江西多名执法人员殴打一男子",
-      "onboard_time": 1726095796,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111157,
@@ -10419,6 +10427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102192,
+      "num": 102192,
+      "word": "男子温水泡螃蟹后邮寄骗保4.5万",
+      "onboard_time": 1726097178,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102097,
       "num": 102097,
       "word": "十个勤天外务越来越秀了",
@@ -10803,6 +10819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89521,
+      "num": 107427,
+      "word": "SEVENTEEN吃上北京烤鸭了",
+      "onboard_time": 1726096998,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89489,
       "num": 89489,
       "word": "萧敬腾 求雨",
@@ -10937,6 +10961,14 @@
       "onboard_time": 1725984020,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 84694,
+      "num": 102768,
+      "word": "王一博探索新境探洞之旅",
+      "onboard_time": 1726097538,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 84571,
@@ -11211,6 +11243,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 70579,
+      "num": 70579,
+      "word": "网约车走小路姑娘称被吓到跳车",
+      "onboard_time": 1726097238,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70553,
       "num": 77135,
       "word": "葡萄牙2比1苏格兰",
@@ -11235,6 +11275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69662,
+      "num": 69662,
+      "word": "迪丽热巴连续十一年为杨幂庆生",
+      "onboard_time": 1726097658,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69606,
       "num": 194811,
       "word": "雪迷宫超适合东北孩子的警匪片",
@@ -11249,6 +11297,14 @@
       "onboard_time": 1726010716,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 69106,
+      "num": 69106,
+      "word": "VMA红毯",
+      "onboard_time": 1726097597,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 67484,
@@ -11273,6 +11329,14 @@
       "onboard_time": 1725928699,
       "rank": 9,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 67234,
+      "num": 67234,
+      "word": "胡兵想收蔡国庆儿子当徒弟",
+      "onboard_time": 1726097178,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 66981,
@@ -11331,12 +11395,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 65401,
+      "num": 65401,
+      "word": "考古发现4亿年前人类四肢线索",
+      "onboard_time": 1726097178,
+      "rank": 45,
+      "category": "社会新闻,科学科普"
+    },
+    {
       "raw_hot": 65350,
       "num": 65350,
       "word": "摩羯过境后现场实拍",
       "onboard_time": 1725731533,
       "rank": 24,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 65122,
+      "num": 65122,
+      "word": "外交部回应中俄举行联演目的",
+      "onboard_time": 1726085712,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 65040,
@@ -11467,14 +11547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60786,
-      "num": 60786,
-      "word": "外交部回应中俄举行联演目的",
-      "onboard_time": 1726085712,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 60550,
       "num": 276130,
       "word": "沈琳是要做月嫂不是龙傲天",
@@ -11521,6 +11593,14 @@
       "onboard_time": 1725801019,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 57978,
+      "num": 57978,
+      "word": "李子园回应营收下滑",
+      "onboard_time": 1726097658,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 57974,
@@ -11865,14 +11945,6 @@
       "onboard_time": 1725876738,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47780,
-      "num": 60782,
-      "word": "英伟达市值一夜大增1.54万亿",
-      "onboard_time": 1726096578,
-      "rank": 43,
-      "category": "财经,互联网"
     },
     {
       "raw_hot": 47562,
@@ -12387,6 +12459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34380,
+      "num": 364991,
+      "word": "丰收的颜色惊艳了整个秋天",
+      "onboard_time": 1726065322,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34101,
       "num": 1292372,
       "word": "高质量发展中国行",
@@ -12515,6 +12595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30753,
+      "num": 216322,
+      "word": "救人者回应持铁勺击退持刀男子",
+      "onboard_time": 1726096517,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 30066,
       "num": 65723,
       "word": "中国连续6届残奥金牌榜奖牌榜第一",
@@ -12592,14 +12680,6 @@
       "word": "大叔崩溃求助交警请他吃面加鸡腿",
       "onboard_time": 1725837437,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28062,
-      "num": 364991,
-      "word": "丰收的颜色惊艳了整个秋天",
-      "onboard_time": 1726065322,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -12889,14 +12969,6 @@
       "onboard_time": 1726086372,
       "rank": 48,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 20788,
-      "num": 210983,
-      "word": "救人者回应持铁勺击退持刀男子",
-      "onboard_time": 1726096517,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 20704,

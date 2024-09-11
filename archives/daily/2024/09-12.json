@@ -1,9 +1,9 @@
 {
   "startTime": 1726072022754,
-  "endTime": 1726096900026,
+  "endTime": 1726097716238,
   "band_list": [
     {
-      "raw_hot": 1227519,
+      "raw_hot": 1272269,
       "num": 144121,
       "word": "女子净身出户每天把1岁儿子锁家里",
       "onboard_time": 1726095255,
@@ -27,20 +27,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 742485,
+      "num": 913867,
+      "word": "柳岩 许仙最后打死了白娘子",
+      "onboard_time": 1726071140,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 720552,
       "num": 292287,
       "word": "男子被撞后20元私了颅内出血浑然不知",
       "onboard_time": 1726057881,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 708906,
-      "num": 814831,
-      "word": "柳岩 许仙最后打死了白娘子",
-      "onboard_time": 1726071140,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 626164,
@@ -67,8 +67,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 435861,
-      "num": 435861,
+      "raw_hot": 471678,
+      "num": 471678,
       "word": "罗永浩道歉并点名头部直播间",
       "onboard_time": 1726058480,
       "rank": 6,
@@ -123,12 +123,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 310488,
-      "num": 310488,
+      "raw_hot": 322694,
+      "num": 322694,
       "word": "2男孩把猫扔湖里被大学生厉声制止",
       "onboard_time": 1726087392,
       "rank": 17,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 294152,
+      "num": 294152,
+      "word": "女子被家暴失明母亲希望判男方无期",
+      "onboard_time": 1726056381,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293332,
@@ -171,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265011,
+      "num": 265011,
+      "word": "美国人借口拍照偷偷带走我国文物",
+      "onboard_time": 1726047560,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 253568,
       "num": 292979,
       "word": "minji好帅",
@@ -179,20 +195,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 234712,
-      "num": 234712,
-      "word": "美国人借口拍照偷偷带走我国文物",
-      "onboard_time": 1726047560,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 211913,
-      "num": 211913,
-      "word": "女子被家暴失明母亲希望判男方无期",
-      "onboard_time": 1726056381,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 231323,
+      "num": 231323,
+      "word": "newjeans",
+      "onboard_time": 1726096219,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 199522,
@@ -203,12 +211,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 193952,
-      "num": 193952,
-      "word": "newjeans",
-      "onboard_time": 1726096219,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 181655,
+      "num": 181655,
+      "word": "蓝盈莹先见家长再谈恋爱",
+      "onboard_time": 1726062445,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 178228,
@@ -224,6 +232,14 @@
       "word": "大连地震",
       "onboard_time": 1726061663,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175447,
+      "num": 143584,
+      "word": "怀疑食堂师傅是00后",
+      "onboard_time": 1726094054,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -251,12 +267,12 @@
       "category": "国内时政,艺人"
     },
     {
-      "raw_hot": 152287,
-      "num": 152287,
-      "word": "蓝盈莹先见家长再谈恋爱",
-      "onboard_time": 1726062445,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 151392,
+      "num": 151392,
+      "word": "江西多名执法人员殴打一男子",
+      "onboard_time": 1726095796,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151340,
@@ -267,20 +283,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151016,
+      "num": 151016,
+      "word": "小伙下160米天坑为隐居母子送货",
+      "onboard_time": 1726078453,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144327,
       "num": 144327,
       "word": "赵露思对粉丝说会补偿你们的",
       "onboard_time": 1726064663,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 143584,
-      "num": 143584,
-      "word": "怀疑食堂师傅是00后",
-      "onboard_time": 1726094054,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124604,
@@ -307,14 +323,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 121341,
-      "num": 121341,
-      "word": "小伙下160米天坑为隐居母子送货",
-      "onboard_time": 1726078453,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 116955,
       "num": 169665,
       "word": "被笑气摧毁的青春",
@@ -323,11 +331,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111163,
-      "num": 111163,
-      "word": "江西多名执法人员殴打一男子",
-      "onboard_time": 1726095796,
-      "rank": 26,
+      "raw_hot": 114029,
+      "num": 114029,
+      "word": "英伟达市值一夜大增1.54万亿",
+      "onboard_time": 1726096578,
+      "rank": 43,
+      "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 102192,
+      "num": 102192,
+      "word": "男子温水泡螃蟹后邮寄骗保4.5万",
+      "onboard_time": 1726097178,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -355,6 +371,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 96679,
+      "num": 96679,
+      "word": "日本陷入寿司危机",
+      "onboard_time": 1726052542,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96076,
       "num": 96076,
       "word": "王俊凯被叫凯哥的表情",
@@ -371,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89521,
+      "num": 107427,
+      "word": "SEVENTEEN吃上北京烤鸭了",
+      "onboard_time": 1726096998,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86027,
       "num": 86027,
       "word": "多方回应军训教官棍抽学生把棍打断",
@@ -379,12 +411,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 84333,
-      "num": 84333,
-      "word": "日本陷入寿司危机",
-      "onboard_time": 1726052542,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 84694,
+      "num": 102768,
+      "word": "王一博探索新境探洞之旅",
+      "onboard_time": 1726097538,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 83900,
@@ -467,11 +499,43 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70579,
+      "num": 70579,
+      "word": "网约车走小路姑娘称被吓到跳车",
+      "onboard_time": 1726097238,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70246,
       "num": 91872,
       "word": "导演刘信达公开道歉",
       "onboard_time": 1726082712,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 69662,
+      "num": 69662,
+      "word": "迪丽热巴连续十一年为杨幂庆生",
+      "onboard_time": 1726097658,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 69106,
+      "num": 69106,
+      "word": "VMA红毯",
+      "onboard_time": 1726097597,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 67234,
+      "num": 67234,
+      "word": "胡兵想收蔡国庆儿子当徒弟",
+      "onboard_time": 1726097178,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -481,6 +545,22 @@
       "onboard_time": 1726070239,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 65401,
+      "num": 65401,
+      "word": "考古发现4亿年前人类四肢线索",
+      "onboard_time": 1726097178,
+      "rank": 45,
+      "category": "社会新闻,科学科普"
+    },
+    {
+      "raw_hot": 65122,
+      "num": 65122,
+      "word": "外交部回应中俄举行联演目的",
+      "onboard_time": 1726085712,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 63461,
@@ -499,12 +579,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 60786,
-      "num": 60786,
-      "word": "外交部回应中俄举行联演目的",
-      "onboard_time": 1726085712,
-      "rank": 48,
-      "category": "国内时政"
+      "raw_hot": 57978,
+      "num": 57978,
+      "word": "李子园回应营收下滑",
+      "onboard_time": 1726097658,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 50301,
@@ -521,14 +601,6 @@
       "onboard_time": 1726075993,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47780,
-      "num": 60782,
-      "word": "英伟达市值一夜大增1.54万亿",
-      "onboard_time": 1726096578,
-      "rank": 43,
-      "category": "财经,互联网"
     },
     {
       "raw_hot": 44876,
@@ -555,6 +627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 34380,
+      "num": 364991,
+      "word": "丰收的颜色惊艳了整个秋天",
+      "onboard_time": 1726065322,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32803,
       "num": 63715,
       "word": "苏州警方通报一持刀伤人事件",
@@ -571,12 +651,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28062,
-      "num": 364991,
-      "word": "丰收的颜色惊艳了整个秋天",
-      "onboard_time": 1726065322,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 30753,
+      "num": 216322,
+      "word": "救人者回应持铁勺击退持刀男子",
+      "onboard_time": 1726096517,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 26494,
@@ -609,14 +689,6 @@
       "onboard_time": 1726086372,
       "rank": 48,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 20788,
-      "num": 210983,
-      "word": "救人者回应持铁勺击退持刀男子",
-      "onboard_time": 1726096517,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 20084,
