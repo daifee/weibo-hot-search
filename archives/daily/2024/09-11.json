@@ -1,10 +1,18 @@
 {
   "startTime": 1725985552565,
-  "endTime": 1726019590405,
+  "endTime": 1726022691900,
   "band_list": [
     {
+      "raw_hot": 1177717,
+      "num": 1102557,
+      "word": "老人坏了1颗牙竟被拔掉全口29颗",
+      "onboard_time": 1726018880,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1172437,
-      "num": 194909,
+      "num": 235275,
       "word": "于是 分手了吗",
       "onboard_time": 1725968840,
       "rank": 20,
@@ -17,6 +25,14 @@
       "onboard_time": 1726016060,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1100651,
+      "num": 1176104,
+      "word": "特朗普哈里斯首场辩论",
+      "onboard_time": 1726018819,
+      "rank": 1,
+      "category": "国外时政"
     },
     {
       "raw_hot": 868757,
@@ -43,6 +59,14 @@
       "category": "国外时政,军事"
     },
     {
+      "raw_hot": 696231,
+      "num": 696231,
+      "word": "直击特朗普vs哈里斯电视辩论",
+      "onboard_time": 1726018819,
+      "rank": 15,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 686019,
       "num": 912280,
       "word": "国足vs沙特",
@@ -59,12 +83,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 640985,
-      "num": 1102557,
-      "word": "老人坏了1颗牙竟被拔掉全口29颗",
-      "onboard_time": 1726018880,
-      "rank": 0,
-      "category": "社会新闻"
+      "raw_hot": 639256,
+      "num": 639256,
+      "word": "飞天奖入围",
+      "onboard_time": 1726021399,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 614520,
@@ -73,14 +97,6 @@
       "onboard_time": 1725973103,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 577468,
-      "num": 577468,
-      "word": "特朗普哈里斯首场辩论",
-      "onboard_time": 1726018819,
-      "rank": 1,
-      "category": "国外时政"
     },
     {
       "raw_hot": 569289,
@@ -121,6 +137,14 @@
       "onboard_time": 1726012821,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 446851,
+      "num": 446851,
+      "word": "地下车库该不该禁止新能源车停放",
+      "onboard_time": 1726016060,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 409291,
@@ -195,11 +219,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 313259,
+      "num": 313259,
+      "word": "一句话证明你去过重庆",
+      "onboard_time": 1726021278,
+      "rank": 11,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 310598,
       "num": 310598,
       "word": "国足这都能输",
       "onboard_time": 1725978265,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 305669,
+      "num": 305669,
+      "word": "人民日报评国足遭沙特逆转",
+      "onboard_time": 1726019239,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -211,20 +251,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293110,
+      "num": 293110,
+      "word": "小朋友给兵哥哥的亲亲看得人心软软",
+      "onboard_time": 1726018819,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287975,
       "num": 277546,
       "word": "花海受伤",
       "onboard_time": 1725981683,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 283554,
-      "num": 329407,
-      "word": "地下车库该不该禁止新能源车停放",
-      "onboard_time": 1726016060,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 280781,
@@ -260,19 +300,11 @@
     },
     {
       "raw_hot": 260984,
-      "num": 193192,
+      "num": 234942,
       "word": "宝宝睡觉jiojio无处安放似睡罗汉",
       "onboard_time": 1726017019,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253885,
-      "num": 253885,
-      "word": "直击特朗普vs哈里斯电视辩论",
-      "onboard_time": 1726018819,
-      "rank": 15,
-      "category": "国外时政"
     },
     {
       "raw_hot": 247913,
@@ -307,8 +339,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233048,
+      "num": 252359,
+      "word": "赵露思公主裙配球鞋",
+      "onboard_time": 1726017500,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 231544,
-      "num": 231544,
+      "num": 244004,
       "word": "乌尔善快抬封神2",
       "onboard_time": 1726011798,
       "rank": 16,
@@ -339,6 +379,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 212624,
+      "num": 212624,
+      "word": "第13号台风贝碧嘉来了",
+      "onboard_time": 1726018880,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201990,
+      "num": 250548,
+      "word": "毛不易 抢票",
+      "onboard_time": 1726021699,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198217,
       "num": 236413,
       "word": "王琳最欣赏的年轻演员是肖战",
@@ -355,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187629,
+      "num": 187629,
+      "word": "为什么年轻人有送礼焦虑",
+      "onboard_time": 1726019779,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 182698,
       "num": 182698,
       "word": "国足1比2沙特",
@@ -363,12 +427,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181448,
-      "num": 181448,
-      "word": "小朋友给兵哥哥的亲亲看得人心软软",
-      "onboard_time": 1726018819,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 181957,
+      "num": 181957,
+      "word": "9个看似偷懒其实很健康的小习惯",
+      "onboard_time": 1726017919,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 181248,
+      "num": 181248,
+      "word": "北体大新生拔河拔断绳子",
+      "onboard_time": 1726019118,
+      "rank": 26,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 165404,
+      "num": 165404,
+      "word": "教师资格证",
+      "onboard_time": 1726018518,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 164609,
@@ -377,14 +457,6 @@
       "onboard_time": 1725979703,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 164338,
-      "num": 164338,
-      "word": "9个看似偷懒其实很健康的小习惯",
-      "onboard_time": 1726017919,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 163551,
@@ -401,14 +473,6 @@
       "onboard_time": 1726012519,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 159484,
-      "num": 159484,
-      "word": "北体大新生拔河拔断绳子",
-      "onboard_time": 1726019118,
-      "rank": 26,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 156658,
@@ -435,20 +499,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154230,
-      "num": 155354,
-      "word": "赵露思公主裙配球鞋",
-      "onboard_time": 1726017500,
-      "rank": 27,
-      "category": "作品衍生"
+      "raw_hot": 155245,
+      "num": 155245,
+      "word": "上午种牙下午就能吃肉靠谱吗",
+      "onboard_time": 1726021699,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
-      "raw_hot": 151119,
-      "num": 151119,
-      "word": "教师资格证",
-      "onboard_time": 1726018518,
-      "rank": 44,
-      "category": "教育"
+      "raw_hot": 149560,
+      "num": 149560,
+      "word": "这种肉别再吃成本或只有5毛钱",
+      "onboard_time": 1726022599,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 147214,
@@ -459,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146948,
+      "num": 146948,
+      "word": "一人一校38年他把126个学生送出山",
+      "onboard_time": 1726021639,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 143174,
       "num": 337400,
       "word": "雾里山村梦幻氛围感拉满",
@@ -467,12 +539,28 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 143138,
+      "num": 143138,
+      "word": "特朗普重申将对其他国家加征关税",
+      "onboard_time": 1726021340,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 141045,
       "num": 141045,
       "word": "书亦烧仙草为什么开不下去了",
       "onboard_time": 1725986896,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140882,
+      "num": 140882,
+      "word": "韩媒称中国队晋级世界杯希望渺茫",
+      "onboard_time": 1726018880,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 138238,
@@ -515,6 +603,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 126526,
+      "num": 150152,
+      "word": "鞠婧祎和粉丝反向奔赴",
+      "onboard_time": 1726020319,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126343,
       "num": 126343,
       "word": "阴阳价刀削面事件真相还原",
@@ -547,12 +643,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 120811,
-      "num": 120811,
-      "word": "第13号台风贝碧嘉来了",
-      "onboard_time": 1726018880,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 121654,
+      "num": 149628,
+      "word": "野孩子路演",
+      "onboard_time": 1726020918,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 118623,
@@ -561,6 +657,14 @@
       "onboard_time": 1725979103,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116990,
+      "num": 116990,
+      "word": "iPhone16",
+      "onboard_time": 1726022298,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 116859,
@@ -619,12 +723,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 107202,
-      "num": 107202,
-      "word": "人民日报评国足遭沙特逆转",
+      "raw_hot": 110857,
+      "num": 123430,
+      "word": "哈里斯和特朗普首场电视辩论开始",
       "onboard_time": 1726019239,
-      "rank": 44,
-      "category": "体育"
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108368,
+      "num": 108368,
+      "word": "特朗普称加征关税力度可能会很大",
+      "onboard_time": 1726020138,
+      "rank": 45,
+      "category": "国外时政"
     },
     {
       "raw_hot": 107190,
@@ -683,6 +795,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101851,
+      "num": 101851,
+      "word": "大学要不要加入社团",
+      "onboard_time": 1726020319,
+      "rank": 47,
+      "category": "社会议题,教育"
+    },
+    {
+      "raw_hot": 100344,
+      "num": 313693,
+      "word": "央视曝光直播间高额返利骗局",
+      "onboard_time": 1726021699,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100319,
+      "num": 100319,
+      "word": "孙千 一款水灵灵的青春剧女主",
+      "onboard_time": 1726019657,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98910,
       "num": 98910,
       "word": "为何足球一直很弱",
@@ -697,6 +833,14 @@
       "onboard_time": 1725975263,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 98099,
+      "num": 98099,
+      "word": "小松鼠在人类后院发现一个玩具球",
+      "onboard_time": 1726021639,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 92829,
@@ -819,14 +963,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 71802,
-      "num": 123430,
-      "word": "哈里斯和特朗普首场电视辩论开始",
-      "onboard_time": 1726019239,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 69235,
       "num": 69235,
       "word": "星穹铁道",
@@ -884,7 +1020,7 @@
     },
     {
       "raw_hot": 46738,
-      "num": 603153,
+      "num": 651669,
       "word": "各科老师硬核绝活大赏",
       "onboard_time": 1725973164,
       "rank": 2,
