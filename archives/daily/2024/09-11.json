@@ -1,7 +1,15 @@
 {
   "startTime": 1725985552565,
-  "endTime": 1726032118498,
+  "endTime": 1726033142172,
   "band_list": [
+    {
+      "raw_hot": 5198160,
+      "num": 462667,
+      "word": "张继科 跑路",
+      "onboard_time": 1726031243,
+      "rank": 10,
+      "category": "体育"
+    },
     {
       "raw_hot": 2714048,
       "num": 1036110,
@@ -19,8 +27,8 @@
       "category": "国外时政,艺人"
     },
     {
-      "raw_hot": 1703121,
-      "num": 1703121,
+      "raw_hot": 1749498,
+      "num": 1749498,
       "word": "专家称00后4点59下班没错是别人错了",
       "onboard_time": 1726028905,
       "rank": 9,
@@ -33,14 +41,6 @@
       "onboard_time": 1726027701,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1354176,
-      "num": 462667,
-      "word": "张继科 跑路",
-      "onboard_time": 1726031243,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 1328720,
@@ -97,6 +97,14 @@
       "onboard_time": 1726023859,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1011105,
+      "num": 1011105,
+      "word": "教育局回应老师让学生用牛奶干杯",
+      "onboard_time": 1726031362,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 868757,
@@ -283,14 +291,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 440834,
-      "num": 440834,
-      "word": "教育局回应老师让学生用牛奶干杯",
-      "onboard_time": 1726031362,
-      "rank": 18,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 422073,
       "num": 422073,
       "word": "国台办回应黑神话悟空在台湾大热",
@@ -387,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 325320,
+      "num": 436973,
+      "word": "我的阿勒泰",
+      "onboard_time": 1726029023,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 323313,
       "num": 263876,
       "word": "张雨绮你什么时候关注他",
@@ -409,6 +417,14 @@
       "onboard_time": 1725978265,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 310268,
+      "num": 267007,
+      "word": "华为和苹果线下旗舰店现状",
+      "onboard_time": 1726032383,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 308770,
@@ -603,7 +619,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 217840,
+      "raw_hot": 220485,
       "num": 370815,
       "word": "年轻人从30岁开始身高会缩水",
       "onboard_time": 1726027402,
@@ -651,14 +667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192806,
-      "num": 436973,
-      "word": "我的阿勒泰",
-      "onboard_time": 1726029023,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191975,
       "num": 191975,
       "word": "侯明昊看卢昱晓 比亲亲好嗑",
@@ -689,6 +697,14 @@
       "onboard_time": 1726024099,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188977,
+      "num": 188977,
+      "word": "跟着导游肖战看山城重庆",
+      "onboard_time": 1726032442,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 183703,
@@ -811,6 +827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163826,
+      "num": 163826,
+      "word": "男子11万多法拍奔驰竟是报废车",
+      "onboard_time": 1726032263,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163551,
       "num": 263863,
       "word": "法院已向被家暴一生的母亲签发保护令",
@@ -833,6 +857,14 @@
       "onboard_time": 1726018880,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158507,
+      "num": 158507,
+      "word": "杨迪让杨超越谨言慎行",
+      "onboard_time": 1726031783,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 156658,
@@ -859,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153451,
+      "num": 441701,
+      "word": "檀健次看自己吻戏红温了",
+      "onboard_time": 1726031362,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150906,
       "num": 150906,
       "word": "一人一校38年他把126个学生送出山",
@@ -872,14 +912,6 @@
       "word": "Kid 躁郁症",
       "onboard_time": 1726014979,
       "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 145336,
-      "num": 145336,
-      "word": "杨迪让杨超越谨言慎行",
-      "onboard_time": 1726031783,
-      "rank": 39,
       "category": "综艺"
     },
     {
@@ -931,6 +963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137569,
+      "num": 137569,
+      "word": "猫咪确诊为订书机",
+      "onboard_time": 1726031721,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137369,
       "num": 149147,
       "word": "成毅袁咏仪张智霖合照",
@@ -947,12 +987,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 135234,
-      "num": 441701,
-      "word": "檀健次看自己吻戏红温了",
-      "onboard_time": 1726031362,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 135244,
+      "num": 135244,
+      "word": "这老丈人家他真的非去不可吗",
+      "onboard_time": 1726032562,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 134740,
+      "num": 134740,
+      "word": "吴彦祖舒淇冯德伦26年前后合照",
+      "onboard_time": 1726032082,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 134072,
@@ -969,6 +1017,14 @@
       "onboard_time": 1725977605,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 128880,
+      "num": 463736,
+      "word": "台风摩羯已致越南87死70失踪",
+      "onboard_time": 1726030943,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128155,
@@ -1027,11 +1083,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122100,
+      "num": 122100,
+      "word": "鞠婧祎新公式照",
+      "onboard_time": 1726033044,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 121829,
       "num": 121829,
       "word": "野孩子",
       "onboard_time": 1726017919,
       "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 118868,
+      "num": 118868,
+      "word": "组委会回应刘亦菲金鹰奖事件",
+      "onboard_time": 1726033044,
+      "rank": 48,
       "category": "电影"
     },
     {
@@ -1083,28 +1155,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115357,
-      "num": 115357,
-      "word": "猫咪确诊为订书机",
-      "onboard_time": 1726031721,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 112999,
       "num": 112999,
       "word": "终于明白什么是讨好型人格了",
       "onboard_time": 1726012398,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 112527,
-      "num": 112527,
-      "word": "吴彦祖舒淇冯德伦26年前后合照",
-      "onboard_time": 1726032082,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 111517,
@@ -1259,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89724,
+      "num": 431939,
+      "word": "邻居不配合维修女子家漏水17年",
+      "onboard_time": 1726031543,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89489,
       "num": 89489,
       "word": "萧敬腾 求雨",
@@ -1283,11 +1347,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 84836,
-      "num": 463736,
-      "word": "台风摩羯已致越南87死70失踪",
-      "onboard_time": 1726030943,
-      "rank": 9,
+      "raw_hot": 85231,
+      "num": 453307,
+      "word": "月饼难卖成业内共识",
+      "onboard_time": 1726031423,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1297,6 +1361,14 @@
       "onboard_time": 1725966740,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84158,
+      "num": 271570,
+      "word": "观众发言让出走的决心完整了",
+      "onboard_time": 1726032562,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 83232,
@@ -1427,14 +1499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58689,
-      "num": 453307,
-      "word": "月饼难卖成业内共识",
-      "onboard_time": 1726031423,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 57974,
       "num": 593845,
       "word": "华为三折叠非凡见证官开箱",
@@ -1475,19 +1539,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45860,
+      "num": 457837,
+      "word": "女子被恶犬追逐摔伤饲养人担责",
+      "onboard_time": 1726031122,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44200,
       "num": 234185,
       "word": "哈里斯的经济主张",
       "onboard_time": 1726026980,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43607,
-      "num": 431939,
-      "word": "邻居不配合维修女子家漏水17年",
-      "onboard_time": 1726031543,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1528,14 +1592,6 @@
       "word": "秋天有仪式感的9件小事",
       "onboard_time": 1726023078,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30152,
-      "num": 457837,
-      "word": "女子被恶犬追逐摔伤饲养人担责",
-      "onboard_time": 1726031122,
-      "rank": 13,
       "category": "社会新闻"
     },
     {

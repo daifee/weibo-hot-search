@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726032118498,
+  "endTime": 1726033142172,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -16,6 +16,14 @@
       "word": "国足vs沙特",
       "onboard_time": 1725968840,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 5198160,
+      "num": 462667,
+      "word": "张继科 跑路",
+      "onboard_time": 1726031243,
+      "rank": 10,
       "category": "体育"
     },
     {
@@ -219,20 +227,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1749498,
+      "num": 1749498,
+      "word": "专家称00后4点59下班没错是别人错了",
+      "onboard_time": 1726028905,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1743227,
       "num": 1743227,
       "word": "华为三折叠价格19999起",
       "onboard_time": 1725952821,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1703121,
-      "num": 1703121,
-      "word": "专家称00后4点59下班没错是别人错了",
-      "onboard_time": 1726028905,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1656185,
@@ -416,14 +424,6 @@
       "word": "孙颖莎光速进16强",
       "onboard_time": 1725886460,
       "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1354176,
-      "num": 462667,
-      "word": "张继科 跑路",
-      "onboard_time": 1726031243,
-      "rank": 10,
       "category": "体育"
     },
     {
@@ -713,6 +713,14 @@
       "onboard_time": 1725839418,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1011105,
+      "num": 1011105,
+      "word": "教育局回应老师让学生用牛奶干杯",
+      "onboard_time": 1726031362,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1008554,
@@ -2019,14 +2027,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 440834,
-      "num": 440834,
-      "word": "教育局回应老师让学生用牛奶干杯",
-      "onboard_time": 1726031362,
-      "rank": 18,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 439497,
       "num": 439497,
       "word": "关晓彤来我们学校拍戏了",
@@ -2723,6 +2723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 325320,
+      "num": 436973,
+      "word": "我的阿勒泰",
+      "onboard_time": 1726029023,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 325120,
       "num": 339436,
       "word": "权志龙全平台换头像",
@@ -2873,6 +2881,14 @@
       "onboard_time": 1725791060,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 310268,
+      "num": 267007,
+      "word": "华为和苹果线下旗舰店现状",
+      "onboard_time": 1726032383,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 310026,
@@ -4107,6 +4123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220485,
+      "num": 370815,
+      "word": "年轻人从30岁开始身高会缩水",
+      "onboard_time": 1726027402,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220452,
       "num": 220452,
       "word": "刘学义孟子义 颜控天堂",
@@ -4153,14 +4177,6 @@
       "onboard_time": 1725950658,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 217840,
-      "num": 370815,
-      "word": "年轻人从30岁开始身高会缩水",
-      "onboard_time": 1726027402,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216908,
@@ -4979,14 +4995,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192806,
-      "num": 436973,
-      "word": "我的阿勒泰",
-      "onboard_time": 1726029023,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 192756,
       "num": 192756,
       "word": "难以相信前后是同一件衣服",
@@ -5137,6 +5145,14 @@
       "onboard_time": 1726024099,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188977,
+      "num": 188977,
+      "word": "跟着导游肖战看山城重庆",
+      "onboard_time": 1726032442,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 188835,
@@ -6035,6 +6051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163826,
+      "num": 163826,
+      "word": "男子11万多法拍奔驰竟是报废车",
+      "onboard_time": 1726032263,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163705,
       "num": 163705,
       "word": "虞书欣拍林一",
@@ -6272,6 +6296,14 @@
       "word": "心动的信号",
       "onboard_time": 1725854239,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 158507,
+      "num": 158507,
+      "word": "杨迪让杨超越谨言慎行",
+      "onboard_time": 1726031783,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -6529,6 +6561,14 @@
       "onboard_time": 1725855800,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153451,
+      "num": 441701,
+      "word": "檀健次看自己吻戏红温了",
+      "onboard_time": 1726031362,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 153183,
@@ -6867,14 +6907,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 145336,
-      "num": 145336,
-      "word": "杨迪让杨超越谨言慎行",
-      "onboard_time": 1726031783,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 145097,
       "num": 145097,
       "word": "殷桃新剧好像在蛐蛐我",
@@ -7211,6 +7243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137569,
+      "num": 137569,
+      "word": "猫咪确诊为订书机",
+      "onboard_time": 1726031721,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137418,
       "num": 137418,
       "word": "台风来了Duck不避",
@@ -7331,12 +7371,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 135234,
-      "num": 441701,
-      "word": "檀健次看自己吻戏红温了",
-      "onboard_time": 1726031362,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 135244,
+      "num": 135244,
+      "word": "这老丈人家他真的非去不可吗",
+      "onboard_time": 1726032562,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 135194,
@@ -7353,6 +7393,14 @@
       "onboard_time": 1725972142,
       "rank": 8,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 134740,
+      "num": 134740,
+      "word": "吴彦祖舒淇冯德伦26年前后合照",
+      "onboard_time": 1726032082,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 134551,
@@ -7585,6 +7633,14 @@
       "onboard_time": 1725847099,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 128880,
+      "num": 463736,
+      "word": "台风摩羯已致越南87死70失踪",
+      "onboard_time": 1726030943,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128778,
@@ -7939,6 +7995,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 122100,
+      "num": 122100,
+      "word": "鞠婧祎新公式照",
+      "onboard_time": 1726033044,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 121829,
       "num": 121829,
       "word": "野孩子",
@@ -8057,6 +8121,14 @@
       "onboard_time": 1725969921,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118868,
+      "num": 118868,
+      "word": "组委会回应刘亦菲金鹰奖事件",
+      "onboard_time": 1726033044,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 118755,
@@ -8243,14 +8315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115357,
-      "num": 115357,
-      "word": "猫咪确诊为订书机",
-      "onboard_time": 1726031721,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 115213,
       "num": 115213,
       "word": "华为新机预约人数一天突破200万",
@@ -8337,14 +8401,6 @@
       "onboard_time": 1725840318,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 112527,
-      "num": 112527,
-      "word": "吴彦祖舒淇冯德伦26年前后合照",
-      "onboard_time": 1726032082,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 112450,
@@ -9075,6 +9131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 89724,
+      "num": 431939,
+      "word": "邻居不配合维修女子家漏水17年",
+      "onboard_time": 1726031543,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89712,
       "num": 191554,
       "word": "韩安冉产后照顾小猪妹情绪",
@@ -9227,11 +9291,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 84836,
-      "num": 463736,
-      "word": "台风摩羯已致越南87死70失踪",
-      "onboard_time": 1726030943,
-      "rank": 9,
+      "raw_hot": 85231,
+      "num": 453307,
+      "word": "月饼难卖成业内共识",
+      "onboard_time": 1726031423,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -9257,6 +9321,14 @@
       "onboard_time": 1725973282,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84158,
+      "num": 271570,
+      "word": "观众发言让出走的决心完整了",
+      "onboard_time": 1726032562,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 82566,
@@ -9683,14 +9755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58689,
-      "num": 453307,
-      "word": "月饼难卖成业内共识",
-      "onboard_time": 1726031423,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 58537,
       "num": 548911,
       "word": "一句古诗适配秋天",
@@ -10083,6 +10147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45860,
+      "num": 457837,
+      "word": "女子被恶犬追逐摔伤饲养人担责",
+      "onboard_time": 1726031122,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45517,
       "num": 463892,
       "word": "守护是老师的浪漫主义",
@@ -10153,14 +10225,6 @@
       "onboard_time": 1725975443,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 43607,
-      "num": 431939,
-      "word": "邻居不配合维修女子家漏水17年",
-      "onboard_time": 1726031543,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43164,
@@ -10544,14 +10608,6 @@
       "word": "宠物殡葬服务一价全包最高达1万元",
       "onboard_time": 1725880580,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30152,
-      "num": 457837,
-      "word": "女子被恶犬追逐摔伤饲养人担责",
-      "onboard_time": 1726031122,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
