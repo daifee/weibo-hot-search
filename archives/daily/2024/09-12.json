@@ -1,6 +1,6 @@
 {
   "startTime": 1726072022754,
-  "endTime": 1726072022754,
+  "endTime": 1726072975942,
   "band_list": [
     {
       "raw_hot": 911975,
@@ -43,7 +43,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 444523,
+      "raw_hot": 469967,
       "num": 291601,
       "word": "大马老人死4年才被儿子发现",
       "onboard_time": 1726059441,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265085,
+      "num": 287424,
+      "word": "胡兵说想和瞿颖每天都在一起工作",
+      "onboard_time": 1726071140,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253568,
       "num": 292979,
       "word": "minji好帅",
@@ -161,14 +169,6 @@
       "onboard_time": 1726062202,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 177805,
-      "num": 287424,
-      "word": "胡兵说想和瞿颖每天都在一起工作",
-      "onboard_time": 1726071140,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 176624,
@@ -195,20 +195,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154817,
+      "num": 124566,
+      "word": "柳岩 许仙最后打死了白娘子",
+      "onboard_time": 1726071140,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151340,
       "num": 151340,
       "word": "葛晓倩怒怼张雨绮插足",
       "onboard_time": 1726053561,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 146436,
-      "num": 124566,
-      "word": "柳岩 许仙最后打死了白娘子",
-      "onboard_time": 1726071140,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 144327,
@@ -291,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96691,
+      "num": 96691,
+      "word": "原来貘是淡系动物",
+      "onboard_time": 1726068923,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 96076,
       "num": 96076,
       "word": "王俊凯被叫凯哥的表情",
@@ -339,6 +347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 80821,
+      "num": 80821,
+      "word": "在日本吃软饭的一天",
+      "onboard_time": 1726072216,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 80503,
       "num": 80503,
       "word": "韩安冉两个女儿出生照",
@@ -363,14 +379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 75525,
-      "num": 75525,
-      "word": "原来貘是淡系动物",
-      "onboard_time": 1726068923,
-      "rank": 46,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 75519,
       "num": 75519,
       "word": "嫁没嫁对看婆婆态度就知道",
@@ -393,6 +401,22 @@
       "onboard_time": 1726062864,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66360,
+      "num": 66360,
+      "word": "郑棋元签唱会",
+      "onboard_time": 1726070239,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 63461,
+      "num": 63461,
+      "word": "三星中国裁员背后",
+      "onboard_time": 1726069280,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 22794,
