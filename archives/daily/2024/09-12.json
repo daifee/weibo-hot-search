@@ -1,7 +1,15 @@
 {
   "startTime": 1726072022754,
-  "endTime": 1726094271915,
+  "endTime": 1726096900026,
   "band_list": [
+    {
+      "raw_hot": 1227519,
+      "num": 144121,
+      "word": "女子净身出户每天把1岁儿子锁家里",
+      "onboard_time": 1726095255,
+      "rank": 20,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 911975,
       "num": 940985,
@@ -27,12 +35,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 708906,
+      "num": 814831,
+      "word": "柳岩 许仙最后打死了白娘子",
+      "onboard_time": 1726071140,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 626164,
       "num": 292001,
       "word": "韩安冉 早知道就不这个时候生了",
       "onboard_time": 1726048820,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 542973,
+      "num": 291601,
+      "word": "大马老人死4年才被儿子发现",
+      "onboard_time": 1726059441,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 473123,
@@ -43,20 +67,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 469967,
-      "num": 291601,
-      "word": "大马老人死4年才被儿子发现",
-      "onboard_time": 1726059441,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 460165,
-      "num": 501560,
-      "word": "柳岩 许仙最后打死了白娘子",
-      "onboard_time": 1726071140,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 435861,
+      "num": 435861,
+      "word": "罗永浩道歉并点名头部直播间",
+      "onboard_time": 1726058480,
+      "rank": 6,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 424329,
@@ -73,14 +89,6 @@
       "onboard_time": 1726067603,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 417646,
-      "num": 417646,
-      "word": "罗永浩道歉并点名头部直播间",
-      "onboard_time": 1726058480,
-      "rank": 6,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 409241,
@@ -113,6 +121,14 @@
       "onboard_time": 1726055422,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 310488,
+      "num": 310488,
+      "word": "2男孩把猫扔湖里被大学生厉声制止",
+      "onboard_time": 1726087392,
+      "rank": 17,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 293332,
@@ -163,12 +179,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 227629,
-      "num": 227629,
-      "word": "2男孩把猫扔湖里被大学生厉声制止",
-      "onboard_time": 1726087392,
-      "rank": 17,
-      "category": "社会正能量"
+      "raw_hot": 234712,
+      "num": 234712,
+      "word": "美国人借口拍照偷偷带走我国文物",
+      "onboard_time": 1726047560,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 211913,
+      "num": 211913,
+      "word": "女子被家暴失明母亲希望判男方无期",
+      "onboard_time": 1726056381,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199522,
@@ -177,6 +201,14 @@
       "onboard_time": 1726066582,
       "rank": 22,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 193952,
+      "num": 193952,
+      "word": "newjeans",
+      "onboard_time": 1726096219,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 178228,
@@ -211,6 +243,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152376,
+      "num": 152376,
+      "word": "国台办回应林依晨说我是成都人",
+      "onboard_time": 1726036161,
+      "rank": 27,
+      "category": "国内时政,艺人"
+    },
+    {
+      "raw_hot": 152287,
+      "num": 152287,
+      "word": "蓝盈莹先见家长再谈恋爱",
+      "onboard_time": 1726062445,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151340,
       "num": 151340,
       "word": "葛晓倩怒怼张雨绮插足",
@@ -227,12 +275,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 127739,
-      "num": 127739,
-      "word": "国台办回应林依晨说我是成都人",
-      "onboard_time": 1726036161,
-      "rank": 27,
-      "category": "国内时政,艺人"
+      "raw_hot": 143584,
+      "num": 143584,
+      "word": "怀疑食堂师傅是00后",
+      "onboard_time": 1726094054,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124604,
@@ -259,20 +307,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 119382,
-      "num": 119382,
-      "word": "女子被家暴失明母亲希望判男方无期",
-      "onboard_time": 1726056381,
-      "rank": 33,
+      "raw_hot": 121341,
+      "num": 121341,
+      "word": "小伙下160米天坑为隐居母子送货",
+      "onboard_time": 1726078453,
+      "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118181,
-      "num": 118181,
-      "word": "美国人借口拍照偷偷带走我国文物",
-      "onboard_time": 1726047560,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 116955,
@@ -280,6 +320,14 @@
       "word": "被笑气摧毁的青春",
       "onboard_time": 1726069701,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111163,
+      "num": 111163,
+      "word": "江西多名执法人员殴打一男子",
+      "onboard_time": 1726095796,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -323,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87790,
-      "num": 87790,
-      "word": "蓝盈莹先见家长再谈恋爱",
-      "onboard_time": 1726062445,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 86027,
       "num": 86027,
       "word": "多方回应军训教官棍抽学生把棍打断",
@@ -364,7 +404,7 @@
     },
     {
       "raw_hot": 80689,
-      "num": 84488,
+      "num": 92597,
       "word": "郭涛带17岁石头录节目",
       "onboard_time": 1726072997,
       "rank": 31,
@@ -427,12 +467,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 67761,
-      "num": 67761,
-      "word": "小伙下160米天坑为隐居母子送货",
-      "onboard_time": 1726078453,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 70246,
+      "num": 91872,
+      "word": "导演刘信达公开道歉",
+      "onboard_time": 1726082712,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 66360,
@@ -451,6 +491,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 63324,
+      "num": 63324,
+      "word": "关注俄乌局势最新进展",
+      "onboard_time": 1726086431,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 60786,
+      "num": 60786,
+      "word": "外交部回应中俄举行联演目的",
+      "onboard_time": 1726085712,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 50301,
       "num": 63552,
       "word": "乔妍工作室带头蛐蛐赵丽颖工作室",
@@ -467,36 +523,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48343,
-      "num": 48343,
-      "word": "关注俄乌局势最新进展",
-      "onboard_time": 1726086431,
-      "rank": 35,
-      "category": "国外时政"
+      "raw_hot": 47780,
+      "num": 60782,
+      "word": "英伟达市值一夜大增1.54万亿",
+      "onboard_time": 1726096578,
+      "rank": 43,
+      "category": "财经,互联网"
     },
     {
-      "raw_hot": 43961,
-      "num": 47872,
-      "word": "导演刘信达公开道歉",
-      "onboard_time": 1726082712,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 41797,
-      "num": 46535,
-      "word": "外交部回应中俄举行联演目的",
-      "onboard_time": 1726085712,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 38145,
-      "num": 46518,
+      "raw_hot": 44876,
+      "num": 60780,
       "word": "为何韩国成为深度伪造重灾区",
       "onboard_time": 1726088471,
       "rank": 42,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 44207,
+      "num": 60780,
+      "word": "何与这个笑",
+      "onboard_time": 1726096397,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 43472,
+      "num": 60778,
+      "word": "小钰Rookie生日合照",
+      "onboard_time": 1726096456,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 32803,
@@ -512,6 +568,14 @@
       "word": "大学期间可以争取哪些合理收入",
       "onboard_time": 1726077913,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28062,
+      "num": 364991,
+      "word": "丰收的颜色惊艳了整个秋天",
+      "onboard_time": 1726065322,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -539,14 +603,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 22374,
-      "num": 46478,
-      "word": "怀疑食堂师傅是00后",
-      "onboard_time": 1726094054,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 20900,
       "num": 46469,
       "word": "新加坡通过平台工人法案",
@@ -555,19 +611,19 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 20788,
+      "num": 210983,
+      "word": "救人者回应持铁勺击退持刀男子",
+      "onboard_time": 1726096517,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 20084,
       "num": 32643,
       "word": "广西多河段现超警洪水",
       "onboard_time": 1726080732,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19908,
-      "num": 43291,
-      "word": "丰收的颜色惊艳了整个秋天",
-      "onboard_time": 1726065322,
-      "rank": 20,
       "category": "社会新闻"
     },
     {

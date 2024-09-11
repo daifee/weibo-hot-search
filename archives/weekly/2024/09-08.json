@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726094271915,
+  "endTime": 1726096900026,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -648,6 +648,14 @@
       "word": "莫奈巨作睡莲将在香港拍卖",
       "onboard_time": 1725850219,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1227519,
+      "num": 144121,
+      "word": "女子净身出户每天把1岁儿子锁家里",
+      "onboard_time": 1726095255,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -1433,6 +1441,14 @@
       "onboard_time": 1725855320,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 708906,
+      "num": 814831,
+      "word": "柳岩 许仙最后打死了白娘子",
+      "onboard_time": 1726071140,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 708709,
@@ -2329,14 +2345,6 @@
       "onboard_time": 1725874577,
       "rank": 38,
       "category": "网红"
-    },
-    {
-      "raw_hot": 460165,
-      "num": 501560,
-      "word": "柳岩 许仙最后打死了白娘子",
-      "onboard_time": 1726071140,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 458948,
@@ -3417,6 +3425,14 @@
       "onboard_time": 1725945501,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 310488,
+      "num": 310488,
+      "word": "2男孩把猫扔湖里被大学生厉声制止",
+      "onboard_time": 1726087392,
+      "rank": 17,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 310401,
@@ -4667,14 +4683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227629,
-      "num": 227629,
-      "word": "2男孩把猫扔湖里被大学生厉声制止",
-      "onboard_time": 1726087392,
-      "rank": 17,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 227559,
       "num": 292571,
       "word": "林诗栋11比1",
@@ -5793,6 +5801,14 @@
       "onboard_time": 1725786619,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 193952,
+      "num": 193952,
+      "word": "newjeans",
+      "onboard_time": 1726096219,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 193546,
@@ -8203,6 +8219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143584,
+      "num": 143584,
+      "word": "怀疑食堂师傅是00后",
+      "onboard_time": 1726094054,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143174,
       "num": 337400,
       "word": "雾里山村梦幻氛围感拉满",
@@ -9459,6 +9483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121341,
+      "num": 121341,
+      "word": "小伙下160米天坑为隐居母子送货",
+      "onboard_time": 1726078453,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121298,
       "num": 121298,
       "word": "婴儿供氧只剩1.5小时消防员出手了",
@@ -9961,6 +9993,14 @@
       "onboard_time": 1726047560,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111163,
+      "num": 111163,
+      "word": "江西多名执法人员殴打一男子",
+      "onboard_time": 1726095796,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111157,
@@ -10996,7 +11036,7 @@
     },
     {
       "raw_hot": 80689,
-      "num": 84488,
+      "num": 92597,
       "word": "郭涛带17岁石头录节目",
       "onboard_time": 1726072997,
       "rank": 31,
@@ -11187,6 +11227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70246,
+      "num": 91872,
+      "word": "导演刘信达公开道歉",
+      "onboard_time": 1726082712,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69606,
       "num": 194811,
       "word": "雪迷宫超适合东北孩子的警匪片",
@@ -11201,14 +11249,6 @@
       "onboard_time": 1726010716,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 67761,
-      "num": 67761,
-      "word": "小伙下160米天坑为隐居母子送货",
-      "onboard_time": 1726078453,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67484,
@@ -11363,6 +11403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63324,
+      "num": 63324,
+      "word": "关注俄乌局势最新进展",
+      "onboard_time": 1726086431,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 63016,
       "num": 416095,
       "word": "郑北姜小海十年后相认",
@@ -11417,6 +11465,14 @@
       "onboard_time": 1725938299,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60786,
+      "num": 60786,
+      "word": "外交部回应中俄举行联演目的",
+      "onboard_time": 1726085712,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 60550,
@@ -11795,14 +11851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48343,
-      "num": 48343,
-      "word": "关注俄乌局势最新进展",
-      "onboard_time": 1726086431,
-      "rank": 35,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 48132,
       "num": 298401,
       "word": "酸酸乳的这波回忆杀谁懂啊",
@@ -11817,6 +11865,14 @@
       "onboard_time": 1725876738,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47780,
+      "num": 60782,
+      "word": "英伟达市值一夜大增1.54万亿",
+      "onboard_time": 1726096578,
+      "rank": 43,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 47562,
@@ -11931,6 +11987,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 44876,
+      "num": 60780,
+      "word": "为何韩国成为深度伪造重灾区",
+      "onboard_time": 1726088471,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 44851,
       "num": 193205,
       "word": "车圈芭莎之夜",
@@ -11963,6 +12027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44207,
+      "num": 60780,
+      "word": "何与这个笑",
+      "onboard_time": 1726096397,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 44200,
       "num": 234185,
       "word": "哈里斯的经济主张",
@@ -11979,20 +12051,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43961,
-      "num": 47872,
-      "word": "导演刘信达公开道歉",
-      "onboard_time": 1726082712,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 43946,
       "num": 205315,
       "word": "迎风的青春",
       "onboard_time": 1725975443,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43472,
+      "num": 60778,
+      "word": "小钰Rookie生日合照",
+      "onboard_time": 1726096456,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 43164,
@@ -12025,14 +12097,6 @@
       "onboard_time": 1725783018,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41797,
-      "num": 46535,
-      "word": "外交部回应中俄举行联演目的",
-      "onboard_time": 1726085712,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 41436,
@@ -12177,14 +12241,6 @@
       "onboard_time": 1725838337,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38145,
-      "num": 46518,
-      "word": "为何韩国成为深度伪造重灾区",
-      "onboard_time": 1726088471,
-      "rank": 42,
-      "category": "国外时政"
     },
     {
       "raw_hot": 37830,
@@ -12539,6 +12595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28062,
+      "num": 364991,
+      "word": "丰收的颜色惊艳了整个秋天",
+      "onboard_time": 1726065322,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27953,
       "num": 32465,
       "word": "中国消防员参加世锦赛有多敏捷",
@@ -12771,14 +12835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22374,
-      "num": 46478,
-      "word": "怀疑食堂师傅是00后",
-      "onboard_time": 1726094054,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 22036,
       "num": 215238,
       "word": "苏新皓深情演绎",
@@ -12835,6 +12891,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 20788,
+      "num": 210983,
+      "word": "救人者回应持铁勺击退持刀男子",
+      "onboard_time": 1726096517,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 20704,
       "num": 24316,
       "word": "张杰福州演唱会",
@@ -12872,14 +12936,6 @@
       "word": "台风",
       "onboard_time": 1725999791,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19908,
-      "num": 43291,
-      "word": "丰收的颜色惊艳了整个秋天",
-      "onboard_time": 1726065322,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
