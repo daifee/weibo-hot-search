@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726069112364,
+  "endTime": 1726072022754,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -2912,6 +2912,14 @@
       "word": "海口网红餐厅被摩羯撕碎了",
       "onboard_time": 1725729316,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 911975,
+      "num": 940985,
+      "word": "李子园卖不动了",
+      "onboard_time": 1726066402,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -7579,12 +7587,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 424329,
+      "num": 424329,
+      "word": "seventeen",
+      "onboard_time": 1726070540,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 423850,
       "num": 423850,
       "word": "封神质子",
       "onboard_time": 1726042042,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 423499,
+      "num": 423499,
+      "word": "天津机场通报无人机导致航班延误",
+      "onboard_time": 1726067603,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 423073,
@@ -8425,14 +8449,6 @@
       "onboard_time": 1725269300,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 371460,
-      "num": 314924,
-      "word": "李子园卖不动了",
-      "onboard_time": 1726066402,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 371355,
@@ -10192,6 +10208,14 @@
       "word": "山姆杨枝甘露被指开盖后炸了",
       "onboard_time": 1726035503,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293332,
+      "num": 446725,
+      "word": "外资离开中国到底过得怎么样",
+      "onboard_time": 1726067183,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -18395,6 +18419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177805,
+      "num": 287424,
+      "word": "胡兵说想和瞿颖每天都在一起工作",
+      "onboard_time": 1726071140,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177750,
       "num": 236547,
       "word": "BOYNEXTDOOR主打曲MV",
@@ -22907,6 +22939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146436,
+      "num": 124566,
+      "word": "柳岩 许仙最后打死了白娘子",
+      "onboard_time": 1726071140,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146336,
       "num": 146336,
       "word": "梦之队玩狼人杀比谁都认真",
@@ -26539,6 +26579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113503,
+      "num": 124566,
+      "word": "被笑气摧毁的青春",
+      "onboard_time": 1726069701,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113465,
       "num": 590892,
       "word": "AI文章1分钱可产7篇日入上万",
@@ -27475,6 +27523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99270,
+      "num": 99270,
+      "word": "孙颖莎说对于结果没想太多",
+      "onboard_time": 1726069821,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99111,
       "num": 362766,
       "word": "边水往事细节刀",
@@ -27593,14 +27649,6 @@
       "onboard_time": 1725123916,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 97516,
-      "num": 446725,
-      "word": "外资离开中国到底过得怎么样",
-      "onboard_time": 1726067183,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97347,
@@ -27777,6 +27825,14 @@
       "onboard_time": 1725493038,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94203,
+      "num": 435285,
+      "word": "多方回应女子举报被丈夫多次家暴",
+      "onboard_time": 1726067661,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94177,
@@ -28331,6 +28387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 83203,
+      "num": 83203,
+      "word": "金玟庭COSMO银十封面",
+      "onboard_time": 1726070000,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 82914,
       "num": 269621,
       "word": "星之发文回应徐正溪",
@@ -28635,6 +28699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75525,
+      "num": 75525,
+      "word": "原来貘是淡系动物",
+      "onboard_time": 1726068923,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 75151,
       "num": 249290,
       "word": "谢可寅雪迷宫打戏vlog",
@@ -28801,6 +28873,14 @@
       "onboard_time": 1726006452,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 71647,
+      "num": 345461,
+      "word": "假芬迪月饼在橱窗已无法找到",
+      "onboard_time": 1726069040,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 71574,
@@ -29715,14 +29795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 55602,
-      "num": 345461,
-      "word": "假芬迪月饼在橱窗已无法找到",
-      "onboard_time": 1726069040,
-      "rank": 8,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 55521,
       "num": 215172,
       "word": "主管道堵塞新房全被粪水泡了",
@@ -29777,14 +29849,6 @@
       "onboard_time": 1725903254,
       "rank": 35,
       "category": "数码"
-    },
-    {
-      "raw_hot": 54863,
-      "num": 435285,
-      "word": "多方回应女子举报被丈夫多次家暴",
-      "onboard_time": 1726067661,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 54853,
@@ -34035,6 +34099,9 @@
     },
     {
       "word": "#习近平在陕西宝鸡和甘肃天水考察调研#"
+    },
+    {
+      "word": "#建成中国特色社会主义教育强国#"
     }
   ]
 }
