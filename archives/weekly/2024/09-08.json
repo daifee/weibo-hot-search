@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726040143598,
+  "endTime": 1726043280642,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -811,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 952332,
+      "num": 952332,
+      "word": "取亡父存款被银行回复解锁得本人",
+      "onboard_time": 1726037242,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 932407,
       "num": 1149185,
       "word": "刘梓晨为赵露思发声",
@@ -1363,6 +1371,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 671712,
+      "num": 530374,
+      "word": "美国大选",
+      "onboard_time": 1726026980,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 659545,
       "num": 659545,
       "word": "女子路边摊点30颗痣后眼球被烧伤3层",
@@ -1433,6 +1449,14 @@
       "onboard_time": 1725954561,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 622460,
+      "num": 622460,
+      "word": "专家称不给加班费不加班趋势不可逆",
+      "onboard_time": 1726038261,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 622437,
@@ -1721,14 +1745,6 @@
       "onboard_time": 1725769579,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 530374,
-      "num": 530374,
-      "word": "美国大选",
-      "onboard_time": 1726026980,
-      "rank": 23,
-      "category": "国外时政"
     },
     {
       "raw_hot": 523627,
@@ -2435,6 +2451,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 386935,
+      "num": 386935,
+      "word": "男子酒后腹痛暴瘦50斤",
+      "onboard_time": 1726039341,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386303,
       "num": 318350,
       "word": "东北雨姐承认螃蟹是放到稻田里的",
@@ -2707,12 +2731,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 347564,
+      "num": 347564,
+      "word": "选秀第一vocal终于上歌手了",
+      "onboard_time": 1726041861,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347526,
       "num": 227628,
       "word": "AppleWatch史上最大屏幕",
       "onboard_time": 1725905594,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 347479,
+      "num": 347479,
+      "word": "明道说陈乔恩婚礼不包红包",
+      "onboard_time": 1726041681,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 347419,
@@ -2761,6 +2801,22 @@
       "onboard_time": 1725764418,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 336894,
+      "num": 336894,
+      "word": "微信客服回应提现手续费",
+      "onboard_time": 1726041861,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 335969,
+      "num": 335969,
+      "word": "封神质子",
+      "onboard_time": 1726042042,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 335963,
@@ -3107,14 +3163,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 300868,
-      "num": 300868,
-      "word": "取亡父存款被银行回复解锁得本人",
-      "onboard_time": 1726037242,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 300243,
       "num": 300243,
       "word": "库里直播",
@@ -3209,14 +3257,6 @@
       "onboard_time": 1725981683,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 287261,
-      "num": 287261,
-      "word": "专家称不给加班费不加班趋势不可逆",
-      "onboard_time": 1726038261,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 287207,
@@ -4003,6 +4043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231198,
+      "num": 224212,
+      "word": "严浩翔晒张真源的狗",
+      "onboard_time": 1726041082,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230943,
       "num": 230943,
       "word": "这份工作只用铅笔不用橡皮",
@@ -4185,6 +4233,14 @@
       "onboard_time": 1725923717,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 224449,
+      "num": 224449,
+      "word": "去有风的地方",
+      "onboard_time": 1726037780,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 223873,
@@ -4785,14 +4841,6 @@
       "onboard_time": 1725800898,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202400,
-      "num": 202400,
-      "word": "去有风的地方",
-      "onboard_time": 1726037780,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 202079,
@@ -5627,6 +5675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181345,
+      "num": 181345,
+      "word": "孙准浩发布会痛哭",
+      "onboard_time": 1726040840,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181249,
       "num": 201118,
       "word": "Jennie10月solo回归",
@@ -5657,6 +5713,14 @@
       "onboard_time": 1725894679,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180639,
+      "num": 180639,
+      "word": "无畏枕海入梦氛围大片",
+      "onboard_time": 1726042641,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 180337,
@@ -6001,6 +6065,14 @@
       "onboard_time": 1725802399,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 171145,
+      "num": 171145,
+      "word": "和母单谈恋爱压力很大吗",
+      "onboard_time": 1726040600,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 170954,
@@ -6424,6 +6496,14 @@
       "word": "梁靖崑3比0战胜李元璋",
       "onboard_time": 1725880759,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 160219,
+      "num": 160219,
+      "word": "孙准浩回应被终身禁足",
+      "onboard_time": 1726040901,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -6875,6 +6955,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 151702,
+      "num": 151702,
+      "word": "文俊辉北京签售",
+      "onboard_time": 1726043061,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 151608,
       "num": 151608,
       "word": "折叠键盘",
@@ -7027,6 +7115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148081,
+      "num": 148081,
+      "word": "侯明昊 相信相信的力量",
+      "onboard_time": 1726042580,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148036,
       "num": 148036,
       "word": "黄景瑜拍雪迷宫干了两千多鸡架",
@@ -7112,6 +7208,14 @@
       "word": "成都地铁1号线",
       "onboard_time": 1725966861,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146394,
+      "num": 146394,
+      "word": "大熊猫野外遇到假熊猫后躲了起来",
+      "onboard_time": 1726041082,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -7401,6 +7505,14 @@
       "onboard_time": 1725975143,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139573,
+      "num": 139573,
+      "word": "专家称房子的养护成本约占总价2%",
+      "onboard_time": 1726040961,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139470,
@@ -7851,6 +7963,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 129737,
+      "num": 129737,
+      "word": "林诗栋谈对阵张本智和",
+      "onboard_time": 1726041021,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129690,
       "num": 129690,
       "word": "新疆巴州我的下一个赛博家乡",
@@ -7873,6 +7993,14 @@
       "onboard_time": 1725888799,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 129400,
+      "num": 242603,
+      "word": "严浩翔太见外了",
+      "onboard_time": 1726041560,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 129069,
@@ -8281,6 +8409,14 @@
       "onboard_time": 1726033044,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 121891,
+      "num": 230038,
+      "word": "交个朋友遭遇月饼李鬼将全部退一赔三",
+      "onboard_time": 1726041321,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 121829,
@@ -9595,14 +9731,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 84490,
-      "num": 304580,
-      "word": "男子酒后腹痛暴瘦50斤",
-      "onboard_time": 1726039341,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 84372,
       "num": 84372,
       "word": "史上最窄边框iPhone",
@@ -10023,6 +10151,14 @@
       "num": 573914,
       "word": "上市公司被曝看属相提拔员工",
       "onboard_time": 1726028302,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60057,
+      "num": 341137,
+      "word": "长期吃止痛药会产生耐药性吗",
+      "onboard_time": 1726042102,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -10539,6 +10675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 42945,
+      "num": 270091,
+      "word": "妇联回应男子殴打七旬老母",
+      "onboard_time": 1726042161,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42322,
       "num": 76147,
       "word": "凡人歌",
@@ -10659,6 +10803,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 39135,
+      "num": 219345,
+      "word": "周洁琼葛秋谷夜游环球影城",
+      "onboard_time": 1726038921,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39126,
       "num": 573235,
       "word": "我们在残奥会看到了最不屈的灵魂",
@@ -10707,6 +10859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 37701,
+      "num": 336251,
+      "word": "拥有帕萨特走遍天下都不怕",
+      "onboard_time": 1726040961,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 37673,
       "num": 317802,
       "word": "摩羯致海南4地损失近800亿",
@@ -10727,6 +10887,14 @@
       "num": 74546,
       "word": "国际美妆10强一半在裁员四成在关店",
       "onboard_time": 1725991693,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37323,
+      "num": 354652,
+      "word": "啄木鸟平台修空调水管1147元",
+      "onboard_time": 1726042281,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -10888,6 +11056,14 @@
       "word": "起底黑医美案背后的灰色产业链",
       "onboard_time": 1725766219,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32246,
+      "num": 967272,
+      "word": "我国载人登月工程有了新助力",
+      "onboard_time": 1726042701,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -11387,14 +11563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15613,
-      "num": 153834,
-      "word": "周洁琼葛秋谷夜游环球影城",
-      "onboard_time": 1726038921,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 15077,
       "num": 38563,
       "word": "军车上一行行标语让人热泪盈眶",
@@ -11582,6 +11750,9 @@
     },
     {
       "word": "#建成教育强国总书记强调六个力#"
+    },
+    {
+      "word": "#习近平向上海合作组织妇女论坛致贺信#"
     }
   ]
 }
