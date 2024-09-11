@@ -1,0 +1,410 @@
+{
+  "runTime": 1726032118498,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1703121,
+        "num": 1703121,
+        "word": "专家称00后4点59下班没错是别人错了",
+        "onboard_time": 1726028905,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1310517,
+        "num": 1310517,
+        "word": "沈某已娶妻 今生不会再娶",
+        "onboard_time": 1726027701,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8694,
+        "num": 1049223,
+        "word": "万千气象看内蒙古",
+        "onboard_time": 1725887060,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2035868,
+        "num": 1036110,
+        "word": "神奇海挪 塌房",
+        "onboard_time": 1726026199,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 2058774,
+        "num": 1009753,
+        "word": "霉霉宣布支持哈里斯",
+        "onboard_time": 1726028183,
+        "rank": 4,
+        "category": "国外时政,艺人"
+      },
+      {
+        "raw_hot": 858729,
+        "num": 858729,
+        "word": "中方回应普京希望中国调停乌克兰危机",
+        "onboard_time": 1726028905,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 699225,
+        "num": 699225,
+        "word": "于适待播作品",
+        "onboard_time": 1726027641,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 515619,
+        "num": 515619,
+        "word": "平野绫遭家暴",
+        "onboard_time": 1726025419,
+        "rank": 7,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 468657,
+        "num": 468657,
+        "word": "老人坏了1颗牙竟被拔掉全口29颗",
+        "onboard_time": 1726018880,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84836,
+        "num": 463736,
+        "word": "台风摩羯已致越南87死70失踪",
+        "onboard_time": 1726030943,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1354176,
+        "num": 462667,
+        "word": "张继科 跑路",
+        "onboard_time": 1726031243,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 670489,
+        "num": 462371,
+        "word": "张雨绮战绩可查",
+        "onboard_time": 1726016060,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 460998,
+        "num": 460998,
+        "word": "益阳一学校老师让订奶学生干杯喝奶",
+        "onboard_time": 1726029863,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30152,
+        "num": 457837,
+        "word": "女子被恶犬追逐摔伤饲养人担责",
+        "onboard_time": 1726031122,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58689,
+        "num": 453307,
+        "word": "月饼难卖成业内共识",
+        "onboard_time": 1726031423,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434272,
+        "num": 451657,
+        "word": "连刘美含相亲都相不到正常的",
+        "onboard_time": 1726025419,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351213,
+        "num": 447629,
+        "word": "梦回爸爸去哪儿",
+        "onboard_time": 1726028362,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135234,
+        "num": 441701,
+        "word": "檀健次看自己吻戏红温了",
+        "onboard_time": 1726031362,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 440834,
+        "num": 440834,
+        "word": "教育局回应老师让学生用牛奶干杯",
+        "onboard_time": 1726031362,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 43607,
+        "num": 431939,
+        "word": "邻居不配合维修女子家漏水17年",
+        "onboard_time": 1726031543,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423877,
+        "num": 423877,
+        "word": "男子出狱用前女友照片网恋骗15万",
+        "onboard_time": 1726023859,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422073,
+        "num": 422073,
+        "word": "国台办回应黑神话悟空在台湾大热",
+        "onboard_time": 1726028122,
+        "rank": 21,
+        "category": "国内时政,游戏"
+      },
+      {
+        "raw_hot": 400301,
+        "num": 400301,
+        "word": "刘亦菲妈妈近照状态",
+        "onboard_time": 1726029803,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 318302,
+        "num": 318302,
+        "word": "大叔开三轮拉巨蟒标本参会被调查",
+        "onboard_time": 1726023438,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252511,
+        "num": 252511,
+        "word": "男生开学发现同桌竟是奥运冠军袁心玥",
+        "onboard_time": 1726028964,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232679,
+        "num": 232679,
+        "word": "美国大选",
+        "onboard_time": 1726026980,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 222916,
+        "num": 222916,
+        "word": "地下车库该不该禁止新能源车停放",
+        "onboard_time": 1726016060,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217840,
+        "num": 217840,
+        "word": "年轻人从30岁开始身高会缩水",
+        "onboard_time": 1726027402,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215587,
+        "num": 217198,
+        "word": "赵露思改妆",
+        "onboard_time": 1726023619,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194123,
+        "num": 217002,
+        "word": "飞天奖入围",
+        "onboard_time": 1726021399,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216931,
+        "num": 216931,
+        "word": "伊万被足协解雇将获赔9个月薪水",
+        "onboard_time": 1726025301,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202991,
+        "num": 202991,
+        "word": "特朗普哈里斯两人支持率接近",
+        "onboard_time": 1726022778,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 192806,
+        "num": 192806,
+        "word": "我的阿勒泰",
+        "onboard_time": 1726029023,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183370,
+        "num": 183370,
+        "word": "于是 分手了吗",
+        "onboard_time": 1725968840,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181071,
+        "num": 181071,
+        "word": "央视曝光直播间高额返利骗局",
+        "onboard_time": 1726021699,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174412,
+        "num": 174412,
+        "word": "盘古库里皮肤",
+        "onboard_time": 1726030702,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171122,
+        "num": 171122,
+        "word": "闪耀暖暖",
+        "onboard_time": 1726031602,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168801,
+        "num": 168801,
+        "word": "金毛犬扑向孕妇致受惊吓流产",
+        "onboard_time": 1725980723,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154887,
+        "num": 154887,
+        "word": "鞠婧祎扮演嫦娥",
+        "onboard_time": 1726026199,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145336,
+        "num": 145336,
+        "word": "杨迪让杨超越谨言慎行",
+        "onboard_time": 1726031783,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144232,
+        "num": 144232,
+        "word": "这种肉别再吃成本或只有5毛钱",
+        "onboard_time": 1726022599,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 130851,
+        "num": 130851,
+        "word": "王者荣耀",
+        "onboard_time": 1726029203,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130218,
+        "num": 130218,
+        "word": "王曼昱朱雨玲女单比赛",
+        "onboard_time": 1726027223,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129431,
+        "num": 129431,
+        "word": "萧敬腾哭成了向佐",
+        "onboard_time": 1726028540,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129007,
+        "num": 129007,
+        "word": "为什么年轻人有送礼焦虑",
+        "onboard_time": 1726019779,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128856,
+        "num": 128856,
+        "word": "2024中国企业500强",
+        "onboard_time": 1726026081,
+        "rank": 45,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 123162,
+        "num": 123162,
+        "word": "一家五口在北京送外卖当事人发声",
+        "onboard_time": 1726025239,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115357,
+        "num": 115357,
+        "word": "猫咪确诊为订书机",
+        "onboard_time": 1726031721,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113952,
+        "num": 113952,
+        "word": "哈里斯主动跟特朗普握手",
+        "onboard_time": 1726029623,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 112527,
+        "num": 112527,
+        "word": "吴彦祖舒淇冯德伦26年前后合照",
+        "onboard_time": 1726032082,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#建成教育强国总书记强调六个力#"
+    }
+  }
+}
