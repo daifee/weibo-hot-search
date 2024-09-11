@@ -1,6 +1,6 @@
 {
   "startTime": 1725985552565,
-  "endTime": 1726047469372,
+  "endTime": 1726050145829,
   "band_list": [
     {
       "raw_hot": 5198160,
@@ -43,6 +43,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1583814,
+      "num": 1583814,
+      "word": "美国人借口拍照偷偷带走我国文物",
+      "onboard_time": 1726047560,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1573354,
       "num": 1103942,
       "word": "教育局回应老师让学生用牛奶干杯",
@@ -59,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1357739,
+      "num": 392203,
+      "word": "月嫂凌晨2点给婴儿喂安眠药",
+      "onboard_time": 1726045580,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1328720,
       "num": 726774,
       "word": "直击特朗普vs哈里斯电视辩论",
@@ -67,8 +83,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1309402,
-      "num": 350827,
+      "raw_hot": 1316215,
+      "num": 385164,
       "word": "平江路",
       "onboard_time": 1726045941,
       "rank": 12,
@@ -131,14 +147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1014569,
-      "num": 345554,
-      "word": "月嫂凌晨2点给婴儿喂安眠药",
-      "onboard_time": 1726045580,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1014315,
       "num": 1162290,
       "word": "男子出狱用前女友照片网恋骗15万",
@@ -177,6 +185,14 @@
       "onboard_time": 1726021699,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 863634,
+      "num": 374092,
+      "word": "韩安冉 早知道就不这个时候生了",
+      "onboard_time": 1726048820,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 863593,
@@ -299,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 616572,
+      "num": 323313,
+      "word": "特朗普民调支持率暴跌",
+      "onboard_time": 1726048280,
+      "rank": 15,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 614520,
       "num": 614520,
       "word": "杨天真曝某男艺人拒绝过四部爆剧",
@@ -347,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 549003,
+      "num": 549003,
+      "word": "小伙称做修复手术后睁着眼睛睡觉",
+      "onboard_time": 1726045281,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 535920,
       "num": 229119,
       "word": "金鹰奖删除刘亦菲入围资格",
@@ -385,6 +417,14 @@
       "onboard_time": 1726044260,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 489582,
+      "num": 489582,
+      "word": "侯明昊脱了",
+      "onboard_time": 1726046241,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 481601,
@@ -555,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 369274,
+      "num": 369274,
+      "word": "林生斌起诉导演刘信达二审维持原判",
+      "onboard_time": 1726046002,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 351213,
       "num": 447629,
       "word": "梦回爸爸去哪儿",
@@ -651,6 +699,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 302276,
+      "num": 302276,
+      "word": "NewJeans直播",
+      "onboard_time": 1726049960,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 298409,
       "num": 298409,
       "word": "海南发布接受台风救灾捐赠公告",
@@ -699,14 +755,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 264354,
-      "num": 264354,
-      "word": "林生斌起诉导演刘信达二审维持原判",
-      "onboard_time": 1726046002,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 263895,
       "num": 263895,
       "word": "张铭恩工作室 不演",
@@ -721,14 +769,6 @@
       "onboard_time": 1725979402,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 261015,
-      "num": 261015,
-      "word": "侯明昊脱了",
-      "onboard_time": 1726046241,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 260984,
@@ -761,6 +801,14 @@
       "onboard_time": 1726028964,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251795,
+      "num": 403976,
+      "word": "银行回应取亡夫存款要本人到场",
+      "onboard_time": 1726046660,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247913,
@@ -907,6 +955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223779,
+      "num": 223779,
+      "word": "杨超越说杨迪嘴巴里气体比较重",
+      "onboard_time": 1726047440,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220485,
       "num": 370815,
       "word": "年轻人从30岁开始身高会缩水",
@@ -947,6 +1003,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 204132,
+      "num": 204132,
+      "word": "李一桐刘宇宁吻戏用显微镜看",
+      "onboard_time": 1726049360,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202903,
       "num": 202903,
       "word": "五月天嘉宾 刘雨昕",
@@ -961,6 +1025,14 @@
       "onboard_time": 1726023799,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200196,
+      "num": 200196,
+      "word": "金珉奎 卷毛小狗",
+      "onboard_time": 1726048820,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 198917,
@@ -1267,12 +1339,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162994,
+      "num": 162994,
+      "word": "佑灰",
+      "onboard_time": 1726048280,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 162677,
       "num": 162677,
       "word": "猫 想到一会要给它一拳就想笑",
       "onboard_time": 1726012519,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 162525,
+      "num": 162525,
+      "word": "人类迟早从兜里掏出65寸电视",
+      "onboard_time": 1726044503,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 162342,
@@ -1331,14 +1419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154354,
-      "num": 154354,
-      "word": "人类迟早从兜里掏出65寸电视",
-      "onboard_time": 1726044503,
-      "rank": 41,
-      "category": "数码"
-    },
-    {
       "raw_hot": 153451,
       "num": 441701,
       "word": "檀健次看自己吻戏红温了",
@@ -1395,14 +1475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148325,
-      "num": 148325,
-      "word": "银行回应取亡夫存款要本人到场",
-      "onboard_time": 1726046660,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148081,
       "num": 148081,
       "word": "侯明昊 相信相信的力量",
@@ -1419,12 +1491,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147017,
-      "num": 385937,
-      "word": "小伙称做修复手术后睁着眼睛睡觉",
-      "onboard_time": 1726045281,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 146401,
+      "num": 146401,
+      "word": "徐明浩你好你也好",
+      "onboard_time": 1726049900,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 145203,
@@ -1441,6 +1513,14 @@
       "onboard_time": 1726043900,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144700,
+      "num": 314826,
+      "word": "打工人准时下班并没有错",
+      "onboard_time": 1726045099,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144655,
@@ -1475,12 +1555,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141049,
-      "num": 314826,
-      "word": "打工人准时下班并没有错",
-      "onboard_time": 1726045099,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 141501,
+      "num": 141501,
+      "word": "为什么水浒传不翻拍",
+      "onboard_time": 1726048700,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 141045,
@@ -1593,6 +1673,14 @@
       "onboard_time": 1726036281,
       "rank": 41,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 132985,
+      "num": 132985,
+      "word": "徐明浩北京签售会路透",
+      "onboard_time": 1726049839,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 132872,
@@ -1731,6 +1819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 123330,
+      "num": 123330,
+      "word": "阴阳师手游",
+      "onboard_time": 1726047919,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122137,
       "num": 122137,
       "word": "国足 失望",
@@ -1755,6 +1851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 121678,
+      "num": 121678,
+      "word": "罗永浩和公司就月饼事件道歉",
+      "onboard_time": 1726048221,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 120530,
       "num": 453307,
       "word": "月饼难卖成业内共识",
@@ -1769,14 +1873,6 @@
       "onboard_time": 1725979103,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118563,
-      "num": 118563,
-      "word": "杨超越说杨迪嘴巴里气体比较重",
-      "onboard_time": 1726047440,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 118282,
@@ -1827,6 +1923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114039,
+      "num": 114039,
+      "word": "大连中山广场鸽子近期频繁死亡",
+      "onboard_time": 1726050080,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113707,
       "num": 113707,
       "word": "郑钦文中网训练",
@@ -1859,6 +1963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 111673,
+      "num": 111673,
+      "word": "刘亦菲对接回应新剧",
+      "onboard_time": 1726047560,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111517,
       "num": 115560,
       "word": "王楚钦孙颖莎久违的笑容",
@@ -1889,6 +2001,14 @@
       "onboard_time": 1726019239,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110700,
+      "num": 110700,
+      "word": "库里抵达成都球迷高呼MVP",
+      "onboard_time": 1726050019,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 108368,
@@ -2217,6 +2337,14 @@
       "onboard_time": 1726026020,
       "rank": 11,
       "category": "数码"
+    },
+    {
+      "raw_hot": 57885,
+      "num": 323491,
+      "word": "14岁孩子载同学兜风炫技撞坏4车",
+      "onboard_time": 1726049121,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56798,
