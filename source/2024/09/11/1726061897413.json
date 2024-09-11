@@ -1,0 +1,410 @@
+{
+  "runTime": 1726061897413,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2303449,
+        "num": 2303449,
+        "word": "大连地震",
+        "onboard_time": 1726061663,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1098854,
+        "num": 1098854,
+        "word": "罗永浩道歉并点名头部直播间",
+        "onboard_time": 1726058480,
+        "rank": 1,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 42161,
+        "num": 890374,
+        "word": "我国载人登月工程有了新助力",
+        "onboard_time": 1726042701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 749285,
+        "num": 749285,
+        "word": "周扬青 今年已经36了",
+        "onboard_time": 1726058421,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 733566,
+        "num": 733566,
+        "word": "美国人借口拍照偷偷带走我国文物",
+        "onboard_time": 1726047560,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 623517,
+        "num": 623517,
+        "word": "日男子新加坡性侵女学生被鞭刑20",
+        "onboard_time": 1726060282,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606389,
+        "num": 606389,
+        "word": "大学生每个月生活费1500元够吗",
+        "onboard_time": 1726053561,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564844,
+        "num": 564844,
+        "word": "国台办回应林依晨说我是成都人",
+        "onboard_time": 1726036161,
+        "rank": 7,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 378805,
+        "num": 563947,
+        "word": "NewJeans直播",
+        "onboard_time": 1726049960,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118992,
+        "num": 560850,
+        "word": "交个朋友月饼赔偿金超200万",
+        "onboard_time": 1726060943,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1511026,
+        "num": 560607,
+        "word": "男子被撞后20元私了颅内出血浑然不知",
+        "onboard_time": 1726057881,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1504439,
+        "num": 557797,
+        "word": "大马老人死4年才被儿子发现",
+        "onboard_time": 1726059441,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 896453,
+        "num": 556424,
+        "word": "韩安冉 早知道就不这个时候生了",
+        "onboard_time": 1726048820,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 782496,
+        "num": 554365,
+        "word": "韩安冉宋浩然没领证",
+        "onboard_time": 1726055422,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 603559,
+        "num": 551920,
+        "word": "月嫂凌晨2点给婴儿喂安眠药",
+        "onboard_time": 1726045580,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37334,
+        "num": 549897,
+        "word": "悟空动捕演员殷凯谈纵横精神",
+        "onboard_time": 1726057942,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 548352,
+        "num": 548352,
+        "word": "NewJeans被HYBE其他艺人团队排挤",
+        "onboard_time": 1726051400,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426289,
+        "num": 426289,
+        "word": "教育局回应家长做局拍教师收五粮液",
+        "onboard_time": 1726059681,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407366,
+        "num": 407366,
+        "word": "韩安冉两个女儿出生照",
+        "onboard_time": 1726060101,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 252667,
+        "num": 393802,
+        "word": "蔡依林想烧掉大艺术家所有的帽子",
+        "onboard_time": 1726056442,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 390739,
+        "num": 390739,
+        "word": "鞠婧祎脏脏裤",
+        "onboard_time": 1726051582,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376624,
+        "num": 376624,
+        "word": "孙颖莎vs金娜英",
+        "onboard_time": 1726055841,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314939,
+        "num": 314939,
+        "word": "女子被家暴失明母亲希望判男方无期",
+        "onboard_time": 1726056381,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310307,
+        "num": 310307,
+        "word": "葛晓倩怒怼张雨绮插足",
+        "onboard_time": 1726053561,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287468,
+        "num": 287468,
+        "word": "日本陷入寿司危机",
+        "onboard_time": 1726052542,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227781,
+        "num": 277962,
+        "word": "乔妍工作室带头蛐蛐赵丽颖工作室",
+        "onboard_time": 1726058061,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184677,
+        "num": 275763,
+        "word": "嫁没嫁对看婆婆态度就知道",
+        "onboard_time": 1726059262,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149088,
+        "num": 267761,
+        "word": "文俊辉喝豆汁",
+        "onboard_time": 1726060943,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148587,
+        "num": 249849,
+        "word": "凡人歌",
+        "onboard_time": 1726061242,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147891,
+        "num": 247487,
+        "word": "选秀第一vocal终于上歌手了",
+        "onboard_time": 1726041861,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239228,
+        "num": 239228,
+        "word": "苏州警方通报一持刀伤人事件",
+        "onboard_time": 1726050320,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185511,
+        "num": 185511,
+        "word": "男童火锅店误食蟑螂药致心肌损害",
+        "onboard_time": 1726056022,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153699,
+        "num": 153699,
+        "word": "大连中山广场鸽子近期频繁死亡",
+        "onboard_time": 1726050080,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150304,
+        "num": 150304,
+        "word": "男子被醉汉进家殴打后还击被判刑",
+        "onboard_time": 1726056320,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150090,
+        "num": 150090,
+        "word": "孙颖莎3比0金娜英",
+        "onboard_time": 1726058362,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149438,
+        "num": 149438,
+        "word": "刘亦菲王鹤棣 平番",
+        "onboard_time": 1726037420,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148866,
+        "num": 148866,
+        "word": "专家称00后4点59下班没错是别人错了",
+        "onboard_time": 1726028905,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138183,
+        "num": 138183,
+        "word": "女生为出片吊挂悬崖峭壁拍照",
+        "onboard_time": 1726052421,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134273,
+        "num": 134273,
+        "word": "美联储或将大幅降息50个基点",
+        "onboard_time": 1726060163,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132807,
+        "num": 132807,
+        "word": "赵露思嘴咬戒指",
+        "onboard_time": 1726058181,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 131878,
+        "num": 131878,
+        "word": "NewJeans瞒着ador开发布会",
+        "onboard_time": 1726056442,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129116,
+        "num": 129116,
+        "word": "菜菜 男人的命也是命",
+        "onboard_time": 1726057102,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127493,
+        "num": 127493,
+        "word": "微信客服回应提现手续费",
+        "onboard_time": 1726041861,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 124113,
+        "num": 124113,
+        "word": "库里王者联动皮肤首曝",
+        "onboard_time": 1726059080,
+        "rank": 43,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 122362,
+        "num": 122362,
+        "word": "17岁女生花十多万买笑气",
+        "onboard_time": 1726061722,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116526,
+        "num": 116526,
+        "word": "你的样子",
+        "onboard_time": 1726061542,
+        "rank": 45,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 113585,
+        "num": 113585,
+        "word": "平江路",
+        "onboard_time": 1726045941,
+        "rank": 46,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 110874,
+        "num": 110874,
+        "word": "银行回应取亡夫存款要本人到场",
+        "onboard_time": 1726046660,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110459,
+        "num": 110459,
+        "word": "wtt澳门冠军赛2024",
+        "onboard_time": 1726058362,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108600,
+        "num": 108600,
+        "word": "五月天嘉宾 刘雨昕",
+        "onboard_time": 1726046361,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向上海合作组织妇女论坛致贺信#"
+    }
+  }
+}
