@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726036193972,
+  "endTime": 1726036980178,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -3563,6 +3563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 791503,
+      "num": 791503,
+      "word": "邻居不配合维修女子家漏水17年",
+      "onboard_time": 1726031543,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 790724,
       "num": 790724,
       "word": "妈妈朋友的儿子杀青宴",
@@ -4145,14 +4153,6 @@
       "onboard_time": 1725285321,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 702084,
-      "num": 702084,
-      "word": "邻居不配合维修女子家漏水17年",
-      "onboard_time": 1726031543,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 701209,
@@ -5859,6 +5859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 521500,
+      "num": 521500,
+      "word": "俱乐部称张继科还在正常授课",
+      "onboard_time": 1726034781,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 520144,
       "num": 520144,
       "word": "迪丽热巴朦胧纱裙",
@@ -6323,6 +6331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 486768,
+      "num": 486768,
+      "word": "国台办回应林依晨说我是成都人",
+      "onboard_time": 1726036161,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 486091,
       "num": 486091,
       "word": "马龙玩偶",
@@ -6555,6 +6571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 471125,
+      "num": 471125,
+      "word": "组委会回应刘亦菲金鹰奖事件",
+      "onboard_time": 1726033044,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 469915,
       "num": 469915,
       "word": "樊振东盛李豪 石狮子和气球人",
@@ -6633,14 +6657,6 @@
       "onboard_time": 1725764179,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 465412,
-      "num": 465412,
-      "word": "组委会回应刘亦菲金鹰奖事件",
-      "onboard_time": 1726033044,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 465295,
@@ -7923,14 +7939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 376101,
-      "num": 376101,
-      "word": "俱乐部称张继科还在正常授课",
-      "onboard_time": 1726034781,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 376064,
       "num": 497731,
       "word": "被王楚然55套古装硬控35秒",
@@ -8257,6 +8265,14 @@
       "onboard_time": 1725948260,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 357518,
+      "num": 290052,
+      "word": "狗 死腿再跑快点啊",
+      "onboard_time": 1726036042,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 357303,
@@ -9611,6 +9627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296156,
+      "num": 297266,
+      "word": "美国大选",
+      "onboard_time": 1726026980,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 295997,
       "num": 259854,
       "word": "辛巴喊话小杨哥替赔一亿期限将至",
@@ -9699,14 +9723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 293892,
-      "num": 297266,
-      "word": "美国大选",
-      "onboard_time": 1726026980,
-      "rank": 23,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 293267,
       "num": 293267,
       "word": "潘展乐为樊振东特意站直了",
@@ -9729,6 +9745,14 @@
       "onboard_time": 1725200062,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 292501,
+      "num": 232521,
+      "word": "山姆杨枝甘露被指开盖后炸了",
+      "onboard_time": 1726035503,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292164,
@@ -9785,14 +9809,6 @@
       "onboard_time": 1725323721,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 290052,
-      "num": 290052,
-      "word": "狗 死腿再跑快点啊",
-      "onboard_time": 1726036042,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 289251,
@@ -10065,6 +10081,14 @@
       "onboard_time": 1725447859,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 281848,
+      "num": 295642,
+      "word": "宋茜陈好 姐姐友谊",
+      "onboard_time": 1726035322,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 281810,
@@ -11859,6 +11883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238393,
+      "num": 238393,
+      "word": "马斯克回应霉霉支持哈里斯",
+      "onboard_time": 1726036521,
+      "rank": 19,
+      "category": "国外时政,艺人"
+    },
+    {
       "raw_hot": 238218,
       "num": 359168,
       "word": "袁爷爷诞辰94周年",
@@ -12467,7 +12499,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227398,
+      "raw_hot": 227559,
       "num": 292571,
       "word": "林诗栋11比1",
       "onboard_time": 1726034542,
@@ -13601,6 +13633,14 @@
       "onboard_time": 1725457220,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208504,
+      "num": 208504,
+      "word": "牵手了但手指没用力",
+      "onboard_time": 1726035800,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 208469,
@@ -15635,14 +15675,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 192396,
-      "num": 295642,
-      "word": "宋茜陈好 姐姐友谊",
-      "onboard_time": 1726035322,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192361,
       "num": 178822,
       "word": "宋亚轩刘耀文都在新疆",
@@ -15801,6 +15833,14 @@
       "onboard_time": 1725894142,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 190706,
+      "num": 190706,
+      "word": "理想L9自动泊车失败",
+      "onboard_time": 1726036521,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 190639,
@@ -16000,14 +16040,6 @@
       "word": "台风登陆现场画面",
       "onboard_time": 1725667759,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189401,
-      "num": 189401,
-      "word": "山姆杨枝甘露被指开盖后炸了",
-      "onboard_time": 1726035503,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -20563,6 +20595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156082,
+      "num": 156082,
+      "word": "陈好怕狗",
+      "onboard_time": 1726036221,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156041,
       "num": 175262,
       "word": "17岁的我对铁饭碗不屑一顾",
@@ -20723,6 +20763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 155056,
+      "num": 155056,
+      "word": "女子新婚两月遭丈夫家暴致失明",
+      "onboard_time": 1726036042,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155048,
       "num": 155048,
       "word": "赛后国足更衣室一片死寂",
@@ -20849,14 +20897,6 @@
       "onboard_time": 1725428121,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 154378,
-      "num": 154378,
-      "word": "牵手了但手指没用力",
-      "onboard_time": 1726035800,
-      "rank": 35,
-      "category": "网红"
     },
     {
       "raw_hot": 154162,
@@ -21745,14 +21785,6 @@
       "onboard_time": 1725721702,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 147740,
-      "num": 147740,
-      "word": "女子新婚两月遭丈夫家暴致失明",
-      "onboard_time": 1726036042,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147608,
@@ -23339,6 +23371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133656,
+      "num": 271416,
+      "word": "张晚意演技",
+      "onboard_time": 1726035621,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133617,
       "num": 133617,
       "word": "马嘉祺晒狗",
@@ -23393,6 +23433,14 @@
       "onboard_time": 1725776120,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133116,
+      "num": 133116,
+      "word": "萧敬腾 军训求雨",
+      "onboard_time": 1726036281,
+      "rank": 41,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 132881,
@@ -23521,14 +23569,6 @@
       "onboard_time": 1725624381,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131634,
-      "num": 131634,
-      "word": "张晚意演技",
-      "onboard_time": 1726035621,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 131597,
@@ -24203,6 +24243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125508,
+      "num": 125508,
+      "word": "李一桐雪地红妆带血",
+      "onboard_time": 1726036881,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125458,
       "num": 125458,
       "word": "秦始皇帝陵考古发现首次集中亮相",
@@ -24803,14 +24851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118848,
-      "num": 118848,
-      "word": "国台办回应林依晨说我是成都人",
-      "onboard_time": 1726036161,
-      "rank": 45,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 118755,
       "num": 118755,
       "word": "PNC韩国队夺冠",
@@ -25081,6 +25121,14 @@
       "onboard_time": 1725708920,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115618,
+      "num": 115618,
+      "word": "花少看日出",
+      "onboard_time": 1726036702,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 115560,
@@ -30161,6 +30209,14 @@
       "onboard_time": 1725423802,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33309,
+      "num": 131844,
+      "word": "吴彦祖的第一台SUV改装作品",
+      "onboard_time": 1726036641,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 33267,
