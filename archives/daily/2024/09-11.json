@@ -1,6 +1,6 @@
 {
   "startTime": 1725985552565,
-  "endTime": 1726054564019,
+  "endTime": 1726058479087,
   "band_list": [
     {
       "raw_hot": 5198160,
@@ -80,6 +80,14 @@
       "word": "月嫂凌晨2点给婴儿喂安眠药",
       "onboard_time": 1726045580,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1344852,
+      "num": 284690,
+      "word": "男子被撞后20元私了颅内出血浑然不知",
+      "onboard_time": 1726057881,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -195,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 947333,
+      "num": 263136,
+      "word": "韩安冉宋浩然没领证",
+      "onboard_time": 1726055422,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 898540,
       "num": 898540,
       "word": "苏州警方通报平江路持刀伤人案",
@@ -249,6 +265,14 @@
       "onboard_time": 1726031543,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 764523,
+      "num": 764523,
+      "word": "孙颖莎vs金娜英",
+      "onboard_time": 1726055841,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 754859,
@@ -347,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 642980,
+      "num": 642980,
+      "word": "日本陷入寿司危机",
+      "onboard_time": 1726052542,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 631321,
       "num": 631321,
       "word": "专家称不给加班费不加班趋势不可逆",
@@ -427,12 +459,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 531631,
+      "num": 491052,
+      "word": "鞠婧祎脏脏裤",
+      "onboard_time": 1726051582,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 521500,
       "num": 521500,
       "word": "俱乐部称张继科还在正常授课",
       "onboard_time": 1726034781,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 513092,
+      "num": 513092,
+      "word": "大学生每个月生活费1500元够吗",
+      "onboard_time": 1726053561,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 502047,
@@ -449,14 +497,6 @@
       "onboard_time": 1726015040,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 491052,
-      "num": 491052,
-      "word": "鞠婧祎脏脏裤",
-      "onboard_time": 1726051582,
-      "rank": 8,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 490226,
@@ -675,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 350873,
+      "num": 350873,
+      "word": "梁靖崑vs西蒙高茨",
+      "onboard_time": 1726055422,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 350738,
       "num": 350738,
       "word": "苹果店员工到华为店观看新品发布会",
@@ -771,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296579,
+      "num": 296579,
+      "word": "蔡依林想烧掉大艺术家所有的帽子",
+      "onboard_time": 1726056442,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 293337,
       "num": 247954,
       "word": "山姆杨枝甘露被指开盖后炸了",
@@ -785,14 +841,6 @@
       "onboard_time": 1725981683,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 285171,
-      "num": 468462,
-      "word": "日本陷入寿司危机",
-      "onboard_time": 1726052542,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 281848,
@@ -857,6 +905,14 @@
       "onboard_time": 1726041082,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254967,
+      "num": 201636,
+      "word": "如果是儿子就该松手刹了",
+      "onboard_time": 1726053921,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 252511,
@@ -1035,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223094,
+      "num": 223094,
+      "word": "菜菜 男人的命也是命",
+      "onboard_time": 1726057102,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221483,
       "num": 221483,
       "word": "网红良田的田进行正颌手术",
@@ -1056,6 +1120,22 @@
       "word": "14岁孩子载同学兜风炫技撞坏4车",
       "onboard_time": 1726049121,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212198,
+      "num": 212198,
+      "word": "周扬青 今年已经36了",
+      "onboard_time": 1726058421,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 212127,
+      "num": 339946,
+      "word": "女生为出片吊挂悬崖峭壁拍照",
+      "onboard_time": 1726052421,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1139,12 +1219,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198254,
-      "num": 182675,
-      "word": "如果是儿子就该松手刹了",
-      "onboard_time": 1726053921,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 198245,
+      "num": 198245,
+      "word": "wtt澳门冠军赛2024",
+      "onboard_time": 1726058362,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 198217,
@@ -1339,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177142,
+      "num": 177142,
+      "word": "王曼昱朱雨玲老友致意",
+      "onboard_time": 1726054160,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175768,
       "num": 175768,
       "word": "赵露思 这条小鱼在乎",
@@ -1449,6 +1537,14 @@
       "onboard_time": 1726039701,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 164952,
+      "num": 164952,
+      "word": "孙颖莎3比0金娜英",
+      "onboard_time": 1726058362,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 164609,
@@ -1571,6 +1667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151374,
+      "num": 151374,
+      "word": "NewJeans瞒着ador开发布会",
+      "onboard_time": 1726056442,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150906,
       "num": 150906,
       "word": "一人一校38年他把126个学生送出山",
@@ -1683,14 +1787,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 142926,
-      "num": 142926,
-      "word": "王曼昱朱雨玲老友致意",
-      "onboard_time": 1726054160,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 142676,
       "num": 142676,
       "word": "尹净汉蒙眼造型",
@@ -1705,6 +1801,14 @@
       "onboard_time": 1726043301,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141722,
+      "num": 164968,
+      "word": "乔妍工作室带头蛐蛐赵丽颖工作室",
+      "onboard_time": 1726058061,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 141501,
@@ -1761,6 +1865,14 @@
       "onboard_time": 1726011318,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137502,
+      "num": 137502,
+      "word": "李知勋北京",
+      "onboard_time": 1726057222,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 137369,
@@ -1899,6 +2011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128388,
+      "num": 128388,
+      "word": "王曼昱回应晋级8强",
+      "onboard_time": 1726057161,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128281,
       "num": 128281,
       "word": "黑吗喽好 紫薇树坏",
@@ -1995,14 +2115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123371,
-      "num": 123371,
-      "word": "大学生每个月生活费1500元够吗",
-      "onboard_time": 1726053561,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123330,
       "num": 123330,
       "word": "阴阳师手游",
@@ -2057,6 +2169,14 @@
       "onboard_time": 1726053620,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120049,
+      "num": 120049,
+      "word": "京城大师赛",
+      "onboard_time": 1726058181,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 118623,
@@ -2153,6 +2273,14 @@
       "onboard_time": 1726053020,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111808,
+      "num": 111808,
+      "word": "梁靖崑3比2西蒙高兹",
+      "onboard_time": 1726057161,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 111673,
@@ -2315,6 +2443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 95059,
+      "num": 107041,
+      "word": "男子被醉汉进家殴打后还击被判刑",
+      "onboard_time": 1726056320,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92829,
       "num": 92829,
       "word": "娜扎李泳知同框",
@@ -2393,14 +2529,6 @@
       "onboard_time": 1725976644,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 83009,
-      "num": 339946,
-      "word": "女生为出片吊挂悬崖峭壁拍照",
-      "onboard_time": 1726052421,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83004,
@@ -2587,6 +2715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49487,
+      "num": 286688,
+      "word": "直播间拆盲盒玩具成本仅三四毛钱",
+      "onboard_time": 1726056801,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46738,
       "num": 651669,
       "word": "各科老师硬核绝活大赏",
@@ -2721,6 +2857,14 @@
       "onboard_time": 1726023078,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35298,
+      "num": 148480,
+      "word": "悟空动捕演员殷凯谈纵横精神",
+      "onboard_time": 1726057942,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 32246,
