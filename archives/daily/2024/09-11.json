@@ -1,6 +1,6 @@
 {
   "startTime": 1725985552565,
-  "endTime": 1726068208813,
+  "endTime": 1726069112364,
   "band_list": [
     {
       "raw_hot": 5198160,
@@ -115,19 +115,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1432229,
+      "num": 1353370,
+      "word": "村民闻到异味在草丛中发现一具男尸",
+      "onboard_time": 1726063163,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1357739,
       "num": 561102,
       "word": "月嫂凌晨2点给婴儿喂安眠药",
       "onboard_time": 1726045580,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1353370,
-      "num": 1353370,
-      "word": "村民闻到异味在草丛中发现一具男尸",
-      "onboard_time": 1726063163,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -539,20 +539,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 539992,
+      "num": 419804,
+      "word": "殷世航调侃韩安冉",
+      "onboard_time": 1726063404,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 535920,
       "num": 229119,
       "word": "金鹰奖删除刘亦菲入围资格",
       "onboard_time": 1725960141,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 531920,
-      "num": 419804,
-      "word": "殷世航调侃韩安冉",
-      "onboard_time": 1726063404,
-      "rank": 24,
-      "category": "网红"
     },
     {
       "raw_hot": 531631,
@@ -795,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 371460,
+      "num": 314924,
+      "word": "李子园卖不动了",
+      "onboard_time": 1726066402,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 371403,
       "num": 165362,
       "word": "刘亦菲 外籍",
@@ -899,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314556,
+      "num": 314556,
+      "word": "天津机场",
+      "onboard_time": 1726067603,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313688,
       "num": 313688,
       "word": "周雨彤 你这是向谁求婚呢",
@@ -953,14 +969,6 @@
       "onboard_time": 1725981683,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 285479,
-      "num": 285479,
-      "word": "李子园卖不动了",
-      "onboard_time": 1726066402,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 281848,
@@ -1324,7 +1332,7 @@
     },
     {
       "raw_hot": 210582,
-      "num": 210582,
+      "num": 221673,
       "word": "赵露思对粉丝说会补偿你们的",
       "onboard_time": 1726064663,
       "rank": 33,
@@ -1516,7 +1524,7 @@
     },
     {
       "raw_hot": 187177,
-      "num": 187177,
+      "num": 225570,
       "word": "刘雨昕阿信跳舞",
       "onboard_time": 1726067840,
       "rank": 29,
@@ -1529,6 +1537,14 @@
       "onboard_time": 1726040600,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184055,
+      "num": 184055,
+      "word": "女子撑伞骑车被卷入货车底不幸身亡",
+      "onboard_time": 1726067661,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183703,
@@ -1763,14 +1779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166195,
-      "num": 166195,
-      "word": "女子撑伞骑车被卷入货车底不幸身亡",
-      "onboard_time": 1726067661,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165583,
       "num": 165583,
       "word": "猫咪确诊为订书机",
@@ -1912,14 +1920,6 @@
       "word": "成都大风",
       "onboard_time": 1725998291,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154242,
-      "num": 154242,
-      "word": "天津机场",
-      "onboard_time": 1726067603,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -2251,6 +2251,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 133034,
+      "num": 527162,
+      "word": "多方回应军训教官棍抽学生把棍打断",
+      "onboard_time": 1726065203,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133024,
       "num": 133024,
       "word": "iPhone16ProMax机型或占总销量35%",
@@ -2289,6 +2297,14 @@
       "onboard_time": 1726039520,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 131079,
+      "num": 131079,
+      "word": "王俊凯被叫凯哥的表情",
+      "onboard_time": 1726068323,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 131022,
@@ -2513,14 +2529,6 @@
       "onboard_time": 1725979103,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118580,
-      "num": 527162,
-      "word": "多方回应军训教官棍抽学生把棍打断",
-      "onboard_time": 1726065203,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118282,
@@ -2827,6 +2835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 97516,
+      "num": 446725,
+      "word": "外资离开中国到底过得怎么样",
+      "onboard_time": 1726067183,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92829,
       "num": 92829,
       "word": "娜扎李泳知同框",
@@ -2913,14 +2929,6 @@
       "onboard_time": 1725978624,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 80283,
-      "num": 446725,
-      "word": "外资离开中国到底过得怎么样",
-      "onboard_time": 1726067183,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79852,
@@ -3099,6 +3107,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 55602,
+      "num": 345461,
+      "word": "假芬迪月饼在橱窗已无法找到",
+      "onboard_time": 1726069040,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 54863,
+      "num": 435285,
+      "word": "多方回应女子举报被丈夫多次家暴",
+      "onboard_time": 1726067661,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53819,
       "num": 234059,
       "word": "女性潜入韩国羞辱房收集犯罪证据",
@@ -3201,14 +3225,6 @@
       "onboard_time": 1726038921,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 38773,
-      "num": 435285,
-      "word": "多方回应女子举报被丈夫多次家暴",
-      "onboard_time": 1726067661,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38438,
