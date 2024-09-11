@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726024987008,
+  "endTime": 1726025894454,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -859,6 +859,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 864325,
+      "num": 1138292,
+      "word": "央视曝光直播间高额返利骗局",
+      "onboard_time": 1726021699,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 863593,
+      "num": 1126921,
+      "word": "飞天奖入围",
+      "onboard_time": 1726021399,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 855479,
       "num": 367339,
       "word": "女子2年被家暴16次称孕晚期还会被打",
@@ -953,14 +969,6 @@
       "onboard_time": 1725924198,
       "rank": 24,
       "category": "数码"
-    },
-    {
-      "raw_hot": 793259,
-      "num": 1126921,
-      "word": "飞天奖入围",
-      "onboard_time": 1726021399,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 789396,
@@ -1355,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 609491,
+      "num": 609491,
+      "word": "平野绫遭家暴",
+      "onboard_time": 1726025419,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 608543,
       "num": 608543,
       "word": "毛泽东逝世48周年",
@@ -1627,6 +1643,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 502047,
+      "num": 502047,
+      "word": "赵露思改妆",
+      "onboard_time": 1726023619,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 501155,
       "num": 501155,
       "word": "好想像张雨绮这么有种的活一次",
@@ -1707,14 +1731,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 482768,
-      "num": 482768,
-      "word": "央视曝光直播间高额返利骗局",
-      "onboard_time": 1726021699,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 482318,
       "num": 482318,
       "word": "16岁少年理发被索要4000元",
@@ -1763,20 +1779,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 467939,
+      "num": 467939,
+      "word": "地下车库该不该禁止新能源车停放",
+      "onboard_time": 1726016060,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 467580,
       "num": 467580,
       "word": "张晚意王楚然从名字开始般配",
       "onboard_time": 1725781159,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 467026,
-      "num": 467026,
-      "word": "地下车库该不该禁止新能源车停放",
-      "onboard_time": 1726016060,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 465413,
@@ -2747,6 +2763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 308770,
+      "num": 227407,
+      "word": "这种肉别再吃成本或只有5毛钱",
+      "onboard_time": 1726022599,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 308327,
       "num": 354659,
       "word": "花花和叶同框出外场",
@@ -2985,14 +3009,6 @@
       "onboard_time": 1725893002,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 282010,
-      "num": 227407,
-      "word": "这种肉别再吃成本或只有5毛钱",
-      "onboard_time": 1726022599,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 281941,
@@ -3251,14 +3267,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 258193,
-      "num": 258193,
-      "word": "赵露思改妆",
-      "onboard_time": 1726023619,
-      "rank": 8,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 258151,
       "num": 258151,
       "word": "于适中国骑射运动中心副主任",
@@ -3475,6 +3483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243606,
+      "num": 244004,
+      "word": "乌尔善快抬封神2",
+      "onboard_time": 1726011798,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 243480,
       "num": 243480,
       "word": "Apple Watch S10",
@@ -3571,14 +3587,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 239038,
-      "num": 244004,
-      "word": "乌尔善快抬封神2",
-      "onboard_time": 1726011798,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 238756,
       "num": 391909,
       "word": "海南目前缺什么物资",
@@ -3643,6 +3651,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 233751,
+      "num": 233751,
+      "word": "伊万被足协解雇将获赔9个月薪水",
+      "onboard_time": 1726025301,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 233404,
       "num": 346061,
       "word": "张元英跳EMERGENCY",
@@ -3681,6 +3697,14 @@
       "onboard_time": 1725770959,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 231593,
+      "num": 306038,
+      "word": "特朗普哈里斯两人支持率接近",
+      "onboard_time": 1726022778,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 231494,
@@ -4161,6 +4185,14 @@
       "onboard_time": 1725783799,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209103,
+      "num": 209103,
+      "word": "平野绫谷口贤志离婚",
+      "onboard_time": 1726024820,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 208898,
@@ -4843,6 +4875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190410,
+      "num": 190410,
+      "word": "樊振东精彩不止于此芭莎封面",
+      "onboard_time": 1726025179,
+      "rank": 23,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 190397,
       "num": 138174,
       "word": "苏新皓彩虹白T破洞裤",
@@ -4905,6 +4945,14 @@
       "onboard_time": 1725980903,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189121,
+      "num": 189121,
+      "word": "小马宝莉卡",
+      "onboard_time": 1726024099,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 188835,
@@ -5203,6 +5251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180639,
+      "num": 180639,
+      "word": "连刘美含相亲都相不到正常的",
+      "onboard_time": 1726025419,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180337,
       "num": 180337,
       "word": "东北雨姐算塌房了吗",
@@ -5284,7 +5340,7 @@
     },
     {
       "raw_hot": 178017,
-      "num": 178017,
+      "num": 213009,
       "word": "上午种牙下午就能吃肉靠谱吗",
       "onboard_time": 1726021699,
       "rank": 33,
@@ -5411,6 +5467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175025,
+      "num": 240425,
+      "word": "大叔开三轮拉巨蟒标本参会被调查",
+      "onboard_time": 1726023438,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174652,
       "num": 174652,
       "word": "中国队巴黎残奥双第一",
@@ -5499,6 +5563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171482,
+      "num": 176415,
+      "word": "第34届飞天奖入围作品名单",
+      "onboard_time": 1726025480,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171193,
       "num": 171193,
       "word": "天照臻藏皮肤",
@@ -5515,12 +5587,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 170954,
+      "num": 170954,
+      "word": "野孩子首映礼",
+      "onboard_time": 1726025659,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 170757,
       "num": 170757,
       "word": "十大抗衰老运动",
       "onboard_time": 1725778639,
       "rank": 24,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 170417,
+      "num": 258190,
+      "word": "男子出狱用前女友照片网恋骗15万",
+      "onboard_time": 1726023859,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170236,
@@ -5745,14 +5833,6 @@
       "onboard_time": 1725979703,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 164493,
-      "num": 164493,
-      "word": "小马宝莉卡",
-      "onboard_time": 1726024099,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 164053,
@@ -6049,14 +6129,6 @@
       "onboard_time": 1725807562,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157034,
-      "num": 306038,
-      "word": "特朗普哈里斯两人支持率接近",
-      "onboard_time": 1726022778,
-      "rank": 8,
-      "category": "国外时政"
     },
     {
       "raw_hot": 157010,
@@ -6385,6 +6457,14 @@
       "onboard_time": 1725775219,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150494,
+      "num": 150494,
+      "word": "定风波杀青",
+      "onboard_time": 1726025840,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 149983,
@@ -6761,14 +6841,6 @@
       "onboard_time": 1725979223,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 141883,
-      "num": 141883,
-      "word": "平野绫谷口贤志离婚",
-      "onboard_time": 1726024820,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 141870,
@@ -7795,6 +7867,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 118282,
+      "num": 118282,
+      "word": "归龙潮公测定档",
+      "onboard_time": 1726024460,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 118263,
       "num": 118263,
       "word": "里斯本丸沉没豆瓣开分9.2",
@@ -7881,14 +7961,6 @@
       "onboard_time": 1725970523,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115720,
-      "num": 115720,
-      "word": "归龙潮公测定档",
-      "onboard_time": 1726024460,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 115691,
@@ -8160,14 +8232,6 @@
       "word": "商家出售过度包装的月饼被查",
       "onboard_time": 1725723380,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108015,
-      "num": 240425,
-      "word": "大叔开三轮拉巨蟒标本参会被调查",
-      "onboard_time": 1726023438,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -8664,14 +8728,6 @@
       "word": "2024年网络安全宣传周",
       "onboard_time": 1725764599,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94145,
-      "num": 258190,
-      "word": "男子出狱用前女友照片网恋骗15万",
-      "onboard_time": 1726023859,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -9531,6 +9587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53819,
+      "num": 234059,
+      "word": "女性潜入韩国羞辱房收集犯罪证据",
+      "onboard_time": 1726023978,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53638,
       "num": 366434,
       "word": "00后老师专治00后学生",
@@ -9880,14 +9944,6 @@
       "word": "患者因听力问题就诊被骗近4000元药费",
       "onboard_time": 1725869119,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40569,
-      "num": 234059,
-      "word": "女性潜入韩国羞辱房收集犯罪证据",
-      "onboard_time": 1726023978,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
