@@ -1,6 +1,6 @@
 {
   "startTime": 1726072022754,
-  "endTime": 1726072975942,
+  "endTime": 1726075112183,
   "band_list": [
     {
       "raw_hot": 911975,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258798,
+      "num": 164504,
+      "word": "柳岩 许仙最后打死了白娘子",
+      "onboard_time": 1726071140,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253568,
       "num": 292979,
       "word": "minji好帅",
@@ -193,14 +201,6 @@
       "onboard_time": 1726067661,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154817,
-      "num": 124566,
-      "word": "柳岩 许仙最后打死了白娘子",
-      "onboard_time": 1726071140,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 151340,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 113503,
-      "num": 124566,
+      "num": 169665,
       "word": "被笑气摧毁的青春",
       "onboard_time": 1726069701,
       "rank": 29,
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83900,
+      "num": 80821,
+      "word": "在日本吃软饭的一天",
+      "onboard_time": 1726072216,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 83203,
       "num": 83203,
       "word": "金玟庭COSMO银十封面",
@@ -347,12 +355,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 80821,
-      "num": 80821,
-      "word": "在日本吃软饭的一天",
-      "onboard_time": 1726072216,
-      "rank": 37,
-      "category": "情感"
+      "raw_hot": 80689,
+      "num": 72344,
+      "word": "郭涛带17岁石头录节目",
+      "onboard_time": 1726072997,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 80503,
@@ -387,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72137,
+      "num": 72137,
+      "word": "美国医生被判赔一名男婴1亿美元",
+      "onboard_time": 1726073417,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71647,
       "num": 75517,
       "word": "假芬迪月饼在橱窗已无法找到",
@@ -417,6 +433,14 @@
       "onboard_time": 1726069280,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 50301,
+      "num": 50301,
+      "word": "乔妍工作室带头蛐蛐赵丽颖工作室",
+      "onboard_time": 1726058061,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 22794,
