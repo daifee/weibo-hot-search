@@ -1,0 +1,410 @@
+{
+  "runTime": 1726024987008,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 756062,
+        "num": 1120969,
+        "word": "飞天奖入围",
+        "onboard_time": 1726021399,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 726774,
+        "num": 726774,
+        "word": "直击特朗普vs哈里斯电视辩论",
+        "onboard_time": 1726018819,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 8436,
+        "num": 585577,
+        "word": "万千气象看内蒙古",
+        "onboard_time": 1725887060,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 966068,
+        "num": 585187,
+        "word": "老人坏了1颗牙竟被拔掉全口29颗",
+        "onboard_time": 1726018880,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584142,
+        "num": 584142,
+        "word": "人民日报评国足遭沙特逆转",
+        "onboard_time": 1726019239,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 482768,
+        "num": 482768,
+        "word": "央视曝光直播间高额返利骗局",
+        "onboard_time": 1726021699,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417450,
+        "num": 417450,
+        "word": "地下车库该不该禁止新能源车停放",
+        "onboard_time": 1726016060,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347419,
+        "num": 347419,
+        "word": "小朋友给兵哥哥的亲亲看得人心软软",
+        "onboard_time": 1726018819,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258193,
+        "num": 258193,
+        "word": "赵露思改妆",
+        "onboard_time": 1726023619,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 94145,
+        "num": 258190,
+        "word": "男子出狱用前女友照片网恋骗15万",
+        "onboard_time": 1726023859,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615490,
+        "num": 253356,
+        "word": "张雨绮战绩可查",
+        "onboard_time": 1726016060,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 475171,
+        "num": 251543,
+        "word": "金毛犬扑向孕妇致受惊吓流产",
+        "onboard_time": 1725980723,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239189,
+        "num": 248627,
+        "word": "毛不易 抢票",
+        "onboard_time": 1726021699,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 246311,
+        "num": 246311,
+        "word": "时尚芭莎十月刊",
+        "onboard_time": 1726023320,
+        "rank": 13,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 108015,
+        "num": 240425,
+        "word": "大叔开三轮拉巨蟒标本参会被调查",
+        "onboard_time": 1726023438,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239703,
+        "num": 239703,
+        "word": "女子求男友安慰被拒绝后跳楼身亡",
+        "onboard_time": 1726011318,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239038,
+        "num": 239038,
+        "word": "乌尔善快抬封神2",
+        "onboard_time": 1726011798,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201768,
+        "num": 237728,
+        "word": "梦中的那片海入围飞天奖",
+        "onboard_time": 1726023799,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183414,
+        "num": 235778,
+        "word": "赵露思公主裙配球鞋",
+        "onboard_time": 1726017500,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40569,
+        "num": 234059,
+        "word": "女性潜入韩国羞辱房收集犯罪证据",
+        "onboard_time": 1726023978,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435406,
+        "num": 231082,
+        "word": "于是 分手了吗",
+        "onboard_time": 1725968840,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302681,
+        "num": 229729,
+        "word": "杨天真曝某女艺人老选丑衣服",
+        "onboard_time": 1725996312,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282010,
+        "num": 227407,
+        "word": "这种肉别再吃成本或只有5毛钱",
+        "onboard_time": 1726022599,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 225357,
+        "num": 225357,
+        "word": "第13号台风贝碧嘉来了",
+        "onboard_time": 1726018880,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177767,
+        "num": 177767,
+        "word": "宝宝睡觉jiojio无处安放似睡罗汉",
+        "onboard_time": 1726017019,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173899,
+        "num": 173899,
+        "word": "为什么年轻人有送礼焦虑",
+        "onboard_time": 1726019779,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164493,
+        "num": 164493,
+        "word": "小马宝莉卡",
+        "onboard_time": 1726024099,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157034,
+        "num": 157034,
+        "word": "特朗普哈里斯两人支持率接近",
+        "onboard_time": 1726022778,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 129307,
+        "num": 153942,
+        "word": "seventeen北京",
+        "onboard_time": 1726014979,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118451,
+        "num": 153751,
+        "word": "好想像张雨绮这么有种的活一次",
+        "onboard_time": 1726015040,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177163,
+        "num": 153735,
+        "word": "特朗普称哈里斯是马克思主义者",
+        "onboard_time": 1726024398,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153698,
+        "num": 153698,
+        "word": "山西阴阳价刀削面店主再发声",
+        "onboard_time": 1726012459,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151237,
+        "num": 151237,
+        "word": "台风后海滩上的生蚝尽量别吃",
+        "onboard_time": 1725979763,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150603,
+        "num": 150603,
+        "word": "上午种牙下午就能吃肉靠谱吗",
+        "onboard_time": 1726021699,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141883,
+        "num": 141883,
+        "word": "平野绫谷口贤志离婚",
+        "onboard_time": 1726024820,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139501,
+        "num": 139501,
+        "word": "iPhone16",
+        "onboard_time": 1726022298,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 138217,
+        "num": 138217,
+        "word": "以军空袭击中小吃摊6死4伤",
+        "onboard_time": 1726017019,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 137380,
+        "num": 137380,
+        "word": "9个看似偷懒其实很健康的小习惯",
+        "onboard_time": 1726017919,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115949,
+        "num": 134643,
+        "word": "职场最好的称呼是按工资来",
+        "onboard_time": 1726013480,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134480,
+        "num": 134480,
+        "word": "北体大新生拔河拔断绳子",
+        "onboard_time": 1726019118,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 131537,
+        "num": 131537,
+        "word": "韩媒称中国队晋级世界杯希望渺茫",
+        "onboard_time": 1726018880,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128040,
+        "num": 128040,
+        "word": "一人一校38年他把126个学生送出山",
+        "onboard_time": 1726021639,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 126320,
+        "num": 126320,
+        "word": "大学要不要加入社团",
+        "onboard_time": 1726020319,
+        "rank": 42,
+        "category": "社会议题,教育"
+      },
+      {
+        "raw_hot": 122723,
+        "num": 122723,
+        "word": "苹果店员工到华为店观看新品发布会",
+        "onboard_time": 1725976343,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 117190,
+        "num": 117190,
+        "word": "教师资格证",
+        "onboard_time": 1726018518,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115720,
+        "num": 115720,
+        "word": "归龙潮公测定档",
+        "onboard_time": 1726024460,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108421,
+        "num": 108421,
+        "word": "美应停止攻击抹黑中国的真诚努力",
+        "onboard_time": 1726019059,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 108178,
+        "num": 108178,
+        "word": "檀健次 撕漫男",
+        "onboard_time": 1726012821,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104777,
+        "num": 104777,
+        "word": "保姆一个疏忽孩子脸上缝了100多针",
+        "onboard_time": 1725975683,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103358,
+        "num": 103358,
+        "word": "民警被小朋友硬核投喂大辣条",
+        "onboard_time": 1726024939,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#建成教育强国总书记强调六个力#"
+    }
+  }
+}
