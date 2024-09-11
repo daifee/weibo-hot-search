@@ -1,6 +1,6 @@
 {
   "startTime": 1726072022754,
-  "endTime": 1726082200644,
+  "endTime": 1726083396580,
   "band_list": [
     {
       "raw_hot": 911975,
@@ -483,7 +483,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 18965,
+      "raw_hot": 19945,
       "num": 24883,
       "word": "广西多河段现超警洪水",
       "onboard_time": 1726080732,
@@ -491,20 +491,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13135,
-      "num": 24927,
+      "raw_hot": 17049,
+      "num": 21672,
+      "word": "导演刘信达公开道歉",
+      "onboard_time": 1726082712,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 13451,
+      "num": 34657,
       "word": "人民军队淬火向前",
       "onboard_time": 1726081931,
       "rank": 39,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9867,
+      "raw_hot": 12768,
       "num": 82833,
       "word": "被子弟兵借宿后留下的黑板报暖到了",
       "onboard_time": 1726065262,
       "rank": 2,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 10078,
+      "num": 33551,
+      "word": "爸爸花一周时间给女儿绣书皮",
+      "onboard_time": 1726082591,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7959,

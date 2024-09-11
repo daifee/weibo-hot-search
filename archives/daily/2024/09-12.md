@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/12 00:27:02 ~ 2024/09/12 03:16:40
+本榜单时间：2024/09/12 00:27:02 ~ 2024/09/12 03:36:36
 </p>
 </blockquote>
 <p>
@@ -376,19 +376,31 @@ NewJeans直播（热度：124604）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E5%A4%9A%E6%B2%B3%E6%AE%B5%E7%8E%B0%E8%B6%85%E8%AD%A6%E6%B4%AA%E6%B0%B4%23" target="weibo">
-广西多河段现超警洪水（热度：18965）
+广西多河段现超警洪水（热度：19945）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E5%88%98%E4%BF%A1%E8%BE%BE%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89%23" target="weibo">
+导演刘信达公开道歉（热度：17049）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%86%9B%E9%98%9F%E6%B7%AC%E7%81%AB%E5%90%91%E5%89%8D%23" target="weibo">
-人民军队淬火向前（热度：13135）
+人民军队淬火向前（热度：13451）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%AD%90%E5%BC%9F%E5%85%B5%E5%80%9F%E5%AE%BF%E5%90%8E%E7%95%99%E4%B8%8B%E7%9A%84%E9%BB%91%E6%9D%BF%E6%8A%A5%E6%9A%96%E5%88%B0%E4%BA%86%23" target="weibo">
-被子弟兵借宿后留下的黑板报暖到了（热度：9867）
+被子弟兵借宿后留下的黑板报暖到了（热度：12768）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%8A%B1%E4%B8%80%E5%91%A8%E6%97%B6%E9%97%B4%E7%BB%99%E5%A5%B3%E5%84%BF%E7%BB%A3%E4%B9%A6%E7%9A%AE%23" target="weibo">
+爸爸花一周时间给女儿绣书皮（热度：10078）
 </a>
 </li>
 
