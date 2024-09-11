@@ -1,6 +1,6 @@
 {
   "startTime": 1725985552565,
-  "endTime": 1726051202127,
+  "endTime": 1726053605640,
   "band_list": [
     {
       "raw_hot": 5198160,
@@ -145,6 +145,22 @@
       "onboard_time": 1726041861,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1130540,
+      "num": 353760,
+      "word": "NewJeans被HYBE其他艺人团队排挤",
+      "onboard_time": 1726051400,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1116315,
+      "num": 1116315,
+      "word": "苏州警方通报一持刀伤人事件",
+      "onboard_time": 1726050320,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1044953,
@@ -313,6 +329,14 @@
       "onboard_time": 1726042102,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 647607,
+      "num": 647607,
+      "word": "王曼昱3比0朱雨玲",
+      "onboard_time": 1726052542,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 643198,
@@ -507,6 +531,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 448085,
+      "num": 448085,
+      "word": "银行回应取亡夫存款要本人到场",
+      "onboard_time": 1726046660,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423850,
       "num": 423850,
       "word": "封神质子",
@@ -537,14 +569,6 @@
       "onboard_time": 1726013480,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 404228,
-      "num": 404228,
-      "word": "银行回应取亡夫存款要本人到场",
-      "onboard_time": 1726046660,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 404198,
@@ -627,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 359007,
+      "num": 359007,
+      "word": "鞠婧祎脏脏裤",
+      "onboard_time": 1726051582,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 351213,
       "num": 447629,
       "word": "梦回爸爸去哪儿",
@@ -665,6 +697,14 @@
       "onboard_time": 1726043481,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 328279,
+      "num": 328279,
+      "word": "葛晓倩怒怼张雨绮插足",
+      "onboard_time": 1726053561,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 325320,
@@ -763,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273829,
+      "num": 273829,
+      "word": "日本陷入寿司危机",
+      "onboard_time": 1726052542,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273107,
       "num": 273107,
       "word": "华为三折叠被炒至9万天价",
@@ -833,6 +881,14 @@
       "onboard_time": 1726023320,
       "rank": 13,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 246211,
+      "num": 246211,
+      "word": "大连中山广场鸽子近期频繁死亡",
+      "onboard_time": 1726050080,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243606,
@@ -979,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213870,
+      "num": 323491,
+      "word": "14岁孩子载同学兜风炫技撞坏4车",
+      "onboard_time": 1726049121,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210158,
       "num": 210158,
       "word": "王者荣耀",
@@ -1003,6 +1067,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 207770,
+      "num": 207770,
+      "word": "网红良田的田进行正颌手术",
+      "onboard_time": 1726052181,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206445,
       "num": 206445,
       "word": "神奇海挪道歉",
@@ -1011,12 +1083,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 205324,
-      "num": 205324,
-      "word": "大连中山广场鸽子近期频繁死亡",
-      "onboard_time": 1726050080,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 204155,
+      "num": 204155,
+      "word": "Uzi说史森明被卡合同",
+      "onboard_time": 1726053561,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 204132,
@@ -1139,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187316,
+      "num": 187316,
+      "word": "奎八",
+      "onboard_time": 1726052001,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 186232,
       "num": 186232,
       "word": "和母单谈恋爱压力很大吗",
@@ -1169,6 +1249,14 @@
       "onboard_time": 1725977305,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182599,
+      "num": 205465,
+      "word": "张凌赫赵今麦 真校园恋爱视角",
+      "onboard_time": 1726051101,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 181957,
@@ -1219,6 +1307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179493,
+      "num": 179493,
+      "word": "高洪波沉默14年的微博爆了",
+      "onboard_time": 1726050740,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178017,
       "num": 213009,
       "word": "上午种牙下午就能吃肉靠谱吗",
@@ -1233,6 +1329,14 @@
       "onboard_time": 1726024398,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175768,
+      "num": 175768,
+      "word": "赵露思 这条小鱼在乎",
+      "onboard_time": 1726050142,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 174936,
@@ -1313,14 +1417,6 @@
       "onboard_time": 1726046002,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165802,
-      "num": 165802,
-      "word": "赵露思 这条小鱼在乎",
-      "onboard_time": 1726050142,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 165583,
@@ -1523,6 +1619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145446,
+      "num": 145446,
+      "word": "考研大纲",
+      "onboard_time": 1726053561,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 145203,
       "num": 145203,
       "word": "蔡少芬生孩子鞋码从39涨到41",
@@ -1595,14 +1699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140905,
-      "num": 140905,
-      "word": "高洪波沉默14年的微博爆了",
-      "onboard_time": 1726050740,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 140324,
       "num": 140324,
       "word": "2024中国企业500强",
@@ -1649,6 +1745,14 @@
       "onboard_time": 1725975024,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137109,
+      "num": 137109,
+      "word": "AG的夏日手写约定",
+      "onboard_time": 1726052781,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 137030,
@@ -1785,6 +1889,14 @@
       "onboard_time": 1726020918,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 127936,
+      "num": 127936,
+      "word": "iPhone16ProMax机型或占总销量35%",
+      "onboard_time": 1726051882,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 127311,
@@ -1931,6 +2043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116264,
+      "num": 116264,
+      "word": "大学生每个月生活费1500元够吗",
+      "onboard_time": 1726053561,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115618,
       "num": 115618,
       "word": "花少看日出",
@@ -1985,6 +2105,14 @@
       "onboard_time": 1726035621,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 112469,
+      "num": 112469,
+      "word": "妈妈从花瓶拿出攒的钱安慰女儿",
+      "onboard_time": 1726053020,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111673,
@@ -2059,14 +2187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 105146,
-      "num": 105146,
-      "word": "张凌赫赵今麦 真校园恋爱视角",
-      "onboard_time": 1726051101,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 105131,
       "num": 122195,
       "word": "你算我二姐",
@@ -2129,14 +2249,6 @@
       "onboard_time": 1726023259,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 100879,
-      "num": 323491,
-      "word": "14岁孩子载同学兜风炫技撞坏4车",
-      "onboard_time": 1726049121,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98910,
@@ -2235,6 +2347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83009,
+      "num": 339946,
+      "word": "女生为出片吊挂悬崖峭壁拍照",
+      "onboard_time": 1726052421,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83004,
       "num": 115555,
       "word": "心动的信号7女六来了",
@@ -2320,6 +2440,14 @@
       "word": "妇联回应男子殴打七旬老母",
       "onboard_time": 1726042161,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65000,
+      "num": 347964,
+      "word": "350元买的专供酒一上酒桌就露馅了",
+      "onboard_time": 1726052060,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2435,6 +2563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46146,
+      "num": 357358,
+      "word": "服贸会真不是卖衣服的",
+      "onboard_time": 1726052240,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45860,
       "num": 457837,
       "word": "女子被恶犬追逐摔伤饲养人担责",
@@ -2492,7 +2628,7 @@
     },
     {
       "raw_hot": 37830,
-      "num": 130419,
+      "num": 341172,
       "word": "欧莱雅把巴黎圣母院搬来北京了",
       "onboard_time": 1726050860,
       "rank": 39,
