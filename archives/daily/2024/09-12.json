@@ -1,6 +1,6 @@
 {
   "startTime": 1726072022754,
-  "endTime": 1726076247973,
+  "endTime": 1726079310614,
   "band_list": [
     {
       "raw_hot": 911975,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 258798,
-      "num": 164504,
+      "num": 177081,
       "word": "柳岩 许仙最后打死了白娘子",
       "onboard_time": 1726071140,
       "rank": 30,
@@ -443,11 +443,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 49940,
+      "num": 136763,
+      "word": "日本部分鱼类涨价5倍",
+      "onboard_time": 1726075993,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32803,
       "num": 63715,
       "word": "苏州警方通报一持刀伤人事件",
       "onboard_time": 1726050320,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24963,
+      "num": 31866,
+      "word": "大学期间可以争取哪些合理收入",
+      "onboard_time": 1726077913,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -457,14 +473,6 @@
       "onboard_time": 1726064964,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 21786,
-      "num": 136763,
-      "word": "日本部分鱼类涨价5倍",
-      "onboard_time": 1726075993,
-      "rank": 14,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
