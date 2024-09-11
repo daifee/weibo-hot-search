@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726018606842,
+  "endTime": 1726019590405,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -532,7 +532,7 @@
     },
     {
       "raw_hot": 1154594,
-      "num": 326775,
+      "num": 328737,
       "word": "张雨绮战绩可查",
       "onboard_time": 1726016060,
       "rank": 10,
@@ -1251,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 640985,
+      "num": 1102557,
+      "word": "老人坏了1颗牙竟被拔掉全口29颗",
+      "onboard_time": 1726018880,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 635679,
       "num": 294776,
       "word": "多人发现遗体帐篷却未报警的背后",
@@ -1393,6 +1401,14 @@
       "onboard_time": 1725888859,
       "rank": 45,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 577468,
+      "num": 577468,
+      "word": "特朗普哈里斯首场辩论",
+      "onboard_time": 1726018819,
+      "rank": 1,
+      "category": "国外时政"
     },
     {
       "raw_hot": 572342,
@@ -1585,6 +1601,14 @@
       "onboard_time": 1725783980,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 501155,
+      "num": 501155,
+      "word": "好想像张雨绮这么有种的活一次",
+      "onboard_time": 1726015040,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 500969,
@@ -1835,14 +1859,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 441694,
-      "num": 441694,
-      "word": "好想像张雨绮这么有种的活一次",
-      "onboard_time": 1726015040,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 439497,
       "num": 439497,
       "word": "关晓彤来我们学校拍戏了",
@@ -2041,6 +2057,14 @@
       "onboard_time": 1725979763,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402235,
+      "num": 402235,
+      "word": "以军空袭击中小吃摊6死4伤",
+      "onboard_time": 1726017019,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 401794,
@@ -2883,6 +2907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 283554,
+      "num": 329407,
+      "word": "地下车库该不该禁止新能源车停放",
+      "onboard_time": 1726016060,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283029,
       "num": 283029,
       "word": "王楚钦樊振东排名前二",
@@ -3131,6 +3163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 260984,
+      "num": 193192,
+      "word": "宝宝睡觉jiojio无处安放似睡罗汉",
+      "onboard_time": 1726017019,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259666,
       "num": 259666,
       "word": "不拔智齿的人会后悔的",
@@ -3219,6 +3259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 253885,
+      "num": 253885,
+      "word": "直击特朗普vs哈里斯电视辩论",
+      "onboard_time": 1726018819,
+      "rank": 15,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 252983,
       "num": 252983,
       "word": "iPhone16Pro实拍四款颜色",
@@ -3257,14 +3305,6 @@
       "onboard_time": 1725799459,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 249700,
-      "num": 249700,
-      "word": "以军空袭击中小吃摊6死4伤",
-      "onboard_time": 1726017019,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 249620,
@@ -3659,6 +3699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228001,
+      "num": 228001,
+      "word": "seventeen北京",
+      "onboard_time": 1726014979,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 227901,
       "num": 227901,
       "word": "下拉如坐飞机 没事哒没事哒",
@@ -3705,14 +3753,6 @@
       "onboard_time": 1725940999,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 224745,
-      "num": 191597,
-      "word": "宝宝睡觉jiojio无处安放似睡罗汉",
-      "onboard_time": 1726017019,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224450,
@@ -3921,14 +3961,6 @@
       "onboard_time": 1725858740,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 213858,
-      "num": 213858,
-      "word": "seventeen北京",
-      "onboard_time": 1726014979,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 213690,
@@ -4201,14 +4233,6 @@
       "onboard_time": 1725869060,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 204693,
-      "num": 204693,
-      "word": "地下车库该不该禁止新能源车停放",
-      "onboard_time": 1726016060,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204052,
@@ -5035,6 +5059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181448,
+      "num": 181448,
+      "word": "小朋友给兵哥哥的亲亲看得人心软软",
+      "onboard_time": 1726018819,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181249,
       "num": 201118,
       "word": "Jennie10月solo回归",
@@ -5579,6 +5611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164338,
+      "num": 164338,
+      "word": "9个看似偷懒其实很健康的小习惯",
+      "onboard_time": 1726017919,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 164053,
       "num": 164053,
       "word": "陈昊宇回应心疼谢美蓝",
@@ -5779,6 +5819,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 159484,
+      "num": 159484,
+      "word": "北体大新生拔河拔断绳子",
+      "onboard_time": 1726019118,
+      "rank": 26,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 159037,
       "num": 159037,
       "word": "问界M9",
@@ -5881,6 +5929,14 @@
       "onboard_time": 1725853938,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156658,
+      "num": 156658,
+      "word": "美应停止攻击抹黑中国的真诚努力",
+      "onboard_time": 1726019059,
+      "rank": 27,
+      "category": "国外时政"
     },
     {
       "raw_hot": 156570,
@@ -5988,7 +6044,7 @@
     },
     {
       "raw_hot": 154230,
-      "num": 154230,
+      "num": 155354,
       "word": "赵露思公主裙配球鞋",
       "onboard_time": 1726017500,
       "rank": 27,
@@ -6171,6 +6227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151119,
+      "num": 151119,
+      "word": "教师资格证",
+      "onboard_time": 1726018518,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 151035,
       "num": 225232,
       "word": "武汉严西湖大桥有车辆坠湖",
@@ -6331,6 +6395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147214,
+      "num": 155872,
+      "word": "Kid 躁郁症",
+      "onboard_time": 1726014979,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147182,
       "num": 147182,
       "word": "爱奇艺 9块钱",
@@ -6483,6 +6555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143174,
+      "num": 337400,
+      "word": "雾里山村梦幻氛围感拉满",
+      "onboard_time": 1726017140,
+      "rank": 9,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 143060,
       "num": 143060,
       "word": "杨幂为贵州麻鸟村捐赠路灯",
@@ -6633,14 +6713,6 @@
       "onboard_time": 1725788359,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139087,
-      "num": 139087,
-      "word": "Kid 躁郁症",
-      "onboard_time": 1726014979,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 138918,
@@ -6841,14 +6913,6 @@
       "onboard_time": 1725972142,
       "rank": 8,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 134827,
-      "num": 134827,
-      "word": "9个看似偷懒其实很健康的小习惯",
-      "onboard_time": 1726017919,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 134551,
@@ -7451,6 +7515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120811,
+      "num": 120811,
+      "word": "第13号台风贝碧嘉来了",
+      "onboard_time": 1726018880,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120701,
       "num": 120701,
       "word": "上海交大校长称给青年吃成长定心丸",
@@ -7939,6 +8011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107202,
+      "num": 107202,
+      "word": "人民日报评国足遭沙特逆转",
+      "onboard_time": 1726019239,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107190,
       "num": 107190,
       "word": "果然笑点低的人当不了老师",
@@ -8075,6 +8155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104214,
+      "num": 104214,
+      "word": "赵露思说尝试不适合的一切东西",
+      "onboard_time": 1726012759,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 103705,
       "num": 128510,
       "word": "张极 记录可爱啵啵的日常",
@@ -8179,14 +8267,6 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 101001,
-      "num": 101001,
-      "word": "赵露思说尝试不适合的一切东西",
-      "onboard_time": 1726012759,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 100458,
       "num": 100988,
       "word": "被人咬伤比被动物咬伤更严重",
@@ -8225,6 +8305,14 @@
       "onboard_time": 1725899296,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98910,
+      "num": 98910,
+      "word": "为何足球一直很弱",
+      "onboard_time": 1726018880,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 98729,
@@ -8435,14 +8523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 91651,
-      "num": 91651,
-      "word": "教师资格证",
-      "onboard_time": 1726018518,
-      "rank": 44,
-      "category": "教育"
-    },
-    {
       "raw_hot": 91200,
       "num": 101121,
       "word": "樊振东去迪士尼玩了",
@@ -8545,14 +8625,6 @@
       "onboard_time": 1725979402,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 88012,
-      "num": 337400,
-      "word": "雾里山村梦幻氛围感拉满",
-      "onboard_time": 1726017140,
-      "rank": 9,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 87996,
@@ -8817,6 +8889,14 @@
       "onboard_time": 1726006452,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 71802,
+      "num": 123430,
+      "word": "哈里斯和特朗普首场电视辩论开始",
+      "onboard_time": 1726019239,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71574,
