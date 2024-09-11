@@ -1,0 +1,410 @@
+{
+  "runTime": 1726054564019,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1146378,
+        "num": 1183420,
+        "word": "美国人借口拍照偷偷带走我国文物",
+        "onboard_time": 1726047560,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 719567,
+        "num": 719567,
+        "word": "苏州警方通报一持刀伤人事件",
+        "onboard_time": 1726050320,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68358,
+        "num": 591038,
+        "word": "2024秋季学期考试日历",
+        "onboard_time": 1726043540,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590320,
+        "num": 590320,
+        "word": "王曼昱3比0朱雨玲",
+        "onboard_time": 1726052542,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 525083,
+        "num": 525083,
+        "word": "国台办回应林依晨说我是成都人",
+        "onboard_time": 1726036161,
+        "rank": 4,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 495908,
+        "num": 495908,
+        "word": "NewJeans直播",
+        "onboard_time": 1726049960,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491052,
+        "num": 491052,
+        "word": "鞠婧祎脏脏裤",
+        "onboard_time": 1726051582,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 472356,
+        "num": 472356,
+        "word": "银行回应取亡夫存款要本人到场",
+        "onboard_time": 1726046660,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313986,
+        "num": 471237,
+        "word": "林生斌起诉导演刘信达二审维持原判",
+        "onboard_time": 1726046002,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285171,
+        "num": 468462,
+        "word": "日本陷入寿司危机",
+        "onboard_time": 1726052542,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1349873,
+        "num": 466495,
+        "word": "韩安冉 早知道就不这个时候生了",
+        "onboard_time": 1726048820,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 86118,
+        "num": 462435,
+        "word": "雪迷宫",
+        "onboard_time": 1726051280,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1104411,
+        "num": 462207,
+        "word": "NewJeans被HYBE其他艺人团队排挤",
+        "onboard_time": 1726051400,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 857164,
+        "num": 457967,
+        "word": "月嫂凌晨2点给婴儿喂安眠药",
+        "onboard_time": 1726045580,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457343,
+        "num": 457343,
+        "word": "平江路",
+        "onboard_time": 1726045941,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 397434,
+        "num": 397434,
+        "word": "特朗普民调支持率暴跌",
+        "onboard_time": 1726048280,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 353249,
+        "num": 353249,
+        "word": "葛晓倩怒怼张雨绮插足",
+        "onboard_time": 1726053561,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268795,
+        "num": 268795,
+        "word": "选秀第一vocal终于上歌手了",
+        "onboard_time": 1726041861,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77835,
+        "num": 249561,
+        "word": "女生为出片吊挂悬崖峭壁拍照",
+        "onboard_time": 1726052421,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35457,
+        "num": 245672,
+        "word": "欧莱雅把巴黎圣母院搬来北京了",
+        "onboard_time": 1726050860,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 431383,
+        "num": 245511,
+        "word": "专家称00后4点59下班没错是别人错了",
+        "onboard_time": 1726028905,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245231,
+        "num": 245231,
+        "word": "Uzi说史森明被卡合同",
+        "onboard_time": 1726053561,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 221483,
+        "num": 221483,
+        "word": "网红良田的田进行正颌手术",
+        "onboard_time": 1726052181,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219628,
+        "num": 219628,
+        "word": "刘亦菲王鹤棣 平番",
+        "onboard_time": 1726037420,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210966,
+        "num": 210966,
+        "word": "小伙称做修复手术后睁着眼睛睡觉",
+        "onboard_time": 1726045281,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208221,
+        "num": 208221,
+        "word": "大连中山广场鸽子近期频繁死亡",
+        "onboard_time": 1726050080,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194845,
+        "num": 194845,
+        "word": "14岁孩子载同学兜风炫技撞坏4车",
+        "onboard_time": 1726049121,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69606,
+        "num": 194811,
+        "word": "雪迷宫超适合东北孩子的警匪片",
+        "onboard_time": 1726053978,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194794,
+        "num": 194794,
+        "word": "侯明昊脱了",
+        "onboard_time": 1726046241,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183778,
+        "num": 183778,
+        "word": "封神质子",
+        "onboard_time": 1726042042,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 230760,
+        "num": 183161,
+        "word": "微信客服回应提现手续费",
+        "onboard_time": 1726041861,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 198254,
+        "num": 182675,
+        "word": "如果是儿子就该松手刹了",
+        "onboard_time": 1726053921,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189259,
+        "num": 182416,
+        "word": "奎八",
+        "onboard_time": 1726052001,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181973,
+        "num": 181973,
+        "word": "高洪波沉默14年的微博爆了",
+        "onboard_time": 1726050740,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154907,
+        "num": 154907,
+        "word": "赵露思 这条小鱼在乎",
+        "onboard_time": 1726050142,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154127,
+        "num": 154127,
+        "word": "张凌赫赵今麦 真校园恋爱视角",
+        "onboard_time": 1726051101,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145705,
+        "num": 145705,
+        "word": "考研大纲",
+        "onboard_time": 1726053561,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 142926,
+        "num": 142926,
+        "word": "王曼昱朱雨玲老友致意",
+        "onboard_time": 1726054160,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142676,
+        "num": 142676,
+        "word": "尹净汉蒙眼造型",
+        "onboard_time": 1726054460,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136075,
+        "num": 136075,
+        "word": "未来房子不大幅增值或将变消费品",
+        "onboard_time": 1726038261,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134316,
+        "num": 134316,
+        "word": "杨超越说杨迪嘴巴里气体比较重",
+        "onboard_time": 1726047440,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133173,
+        "num": 133173,
+        "word": "李一桐刘宇宁吻戏用显微镜看",
+        "onboard_time": 1726049360,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133024,
+        "num": 133024,
+        "word": "iPhone16ProMax机型或占总销量35%",
+        "onboard_time": 1726051882,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 123424,
+        "num": 123424,
+        "word": "350元买的专供酒一上酒桌就露馅了",
+        "onboard_time": 1726052060,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123371,
+        "num": 123371,
+        "word": "大学生每个月生活费1500元够吗",
+        "onboard_time": 1726053561,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120084,
+        "num": 120084,
+        "word": "葛晓倩回应与袁巴元分手协议",
+        "onboard_time": 1726053620,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118368,
+        "num": 118368,
+        "word": "神奇海挪 塌房",
+        "onboard_time": 1726026199,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 103920,
+        "num": 103920,
+        "word": "白鹿首唱会门票将免费赠送",
+        "onboard_time": 1726044021,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103021,
+        "num": 103021,
+        "word": "人类迟早从兜里掏出65寸电视",
+        "onboard_time": 1726044503,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 98784,
+        "num": 98784,
+        "word": "周雨彤 你这是向谁求婚呢",
+        "onboard_time": 1726038081,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向上海合作组织妇女论坛致贺信#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1725985552565,
-  "endTime": 1726053605640,
+  "endTime": 1726054564019,
   "band_list": [
     {
       "raw_hot": 5198160,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1482214,
-      "num": 417886,
+      "num": 466495,
       "word": "韩安冉 早知道就不这个时候生了",
       "onboard_time": 1726048820,
       "rank": 12,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1357739,
-      "num": 417367,
+      "num": 457967,
       "word": "月嫂凌晨2点给婴儿喂安眠药",
       "onboard_time": 1726045580,
       "rank": 11,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1316215,
-      "num": 417707,
+      "num": 457343,
       "word": "平江路",
       "onboard_time": 1726045941,
       "rank": 12,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 1130540,
-      "num": 353760,
+      "num": 462207,
       "word": "NewJeans被HYBE其他艺人团队排挤",
       "onboard_time": 1726051400,
       "rank": 11,
@@ -451,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 491052,
+      "num": 491052,
+      "word": "鞠婧祎脏脏裤",
+      "onboard_time": 1726051582,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 490226,
       "num": 490226,
       "word": "刘跃进严重违纪违法被开除党籍",
@@ -491,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 472356,
+      "num": 472356,
+      "word": "银行回应取亡夫存款要本人到场",
+      "onboard_time": 1726046660,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 471125,
       "num": 471125,
       "word": "组委会回应刘亦菲金鹰奖事件",
@@ -529,14 +545,6 @@
       "onboard_time": 1726022778,
       "rank": 8,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 448085,
-      "num": 448085,
-      "word": "银行回应取亡夫存款要本人到场",
-      "onboard_time": 1726046660,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 423850,
@@ -651,12 +659,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 359007,
-      "num": 359007,
-      "word": "鞠婧祎脏脏裤",
-      "onboard_time": 1726051582,
-      "rank": 8,
-      "category": "作品衍生"
+      "raw_hot": 353249,
+      "num": 353249,
+      "word": "葛晓倩怒怼张雨绮插足",
+      "onboard_time": 1726053561,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 351213,
@@ -697,14 +705,6 @@
       "onboard_time": 1726043481,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 328279,
-      "num": 328279,
-      "word": "葛晓倩怒怼张雨绮插足",
-      "onboard_time": 1726053561,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 325320,
@@ -787,6 +787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 285171,
+      "num": 468462,
+      "word": "日本陷入寿司危机",
+      "onboard_time": 1726052542,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281848,
       "num": 295642,
       "word": "宋茜陈好 姐姐友谊",
@@ -801,14 +809,6 @@
       "onboard_time": 1725968421,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 273829,
-      "num": 273829,
-      "word": "日本陷入寿司危机",
-      "onboard_time": 1726052542,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 273107,
@@ -889,6 +889,14 @@
       "onboard_time": 1726050080,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245231,
+      "num": 245231,
+      "word": "Uzi说史森明被卡合同",
+      "onboard_time": 1726053561,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 243606,
@@ -1027,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221483,
+      "num": 221483,
+      "word": "网红良田的田进行正颌手术",
+      "onboard_time": 1726052181,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220485,
       "num": 370815,
       "word": "年轻人从30岁开始身高会缩水",
@@ -1067,28 +1083,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 207770,
-      "num": 207770,
-      "word": "网红良田的田进行正颌手术",
-      "onboard_time": 1726052181,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206445,
       "num": 206445,
       "word": "神奇海挪道歉",
       "onboard_time": 1726038200,
       "rank": 27,
       "category": "网红"
-    },
-    {
-      "raw_hot": 204155,
-      "num": 204155,
-      "word": "Uzi说史森明被卡合同",
-      "onboard_time": 1726053561,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 204132,
@@ -1139,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198254,
+      "num": 182675,
+      "word": "如果是儿子就该松手刹了",
+      "onboard_time": 1726053921,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 198217,
       "num": 236413,
       "word": "王琳最欣赏的年轻演员是肖战",
@@ -1187,6 +1195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 189259,
+      "num": 187316,
+      "word": "奎八",
+      "onboard_time": 1726052001,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 189121,
       "num": 189121,
       "word": "小马宝莉卡",
@@ -1209,14 +1225,6 @@
       "onboard_time": 1726035621,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187316,
-      "num": 187316,
-      "word": "奎八",
-      "onboard_time": 1726052001,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 186232,
@@ -1257,6 +1265,14 @@
       "onboard_time": 1726051101,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181973,
+      "num": 181973,
+      "word": "高洪波沉默14年的微博爆了",
+      "onboard_time": 1726050740,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 181957,
@@ -1305,14 +1321,6 @@
       "onboard_time": 1726046121,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 179493,
-      "num": 179493,
-      "word": "高洪波沉默14年的微博爆了",
-      "onboard_time": 1726050740,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 178017,
@@ -1619,8 +1627,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 145446,
-      "num": 145446,
+      "raw_hot": 145705,
+      "num": 145705,
       "word": "考研大纲",
       "onboard_time": 1726053561,
       "rank": 37,
@@ -1673,6 +1681,22 @@
       "onboard_time": 1726021340,
       "rank": 38,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 142926,
+      "num": 142926,
+      "word": "王曼昱朱雨玲老友致意",
+      "onboard_time": 1726054160,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 142676,
+      "num": 142676,
+      "word": "尹净汉蒙眼造型",
+      "onboard_time": 1726054460,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 142330,
@@ -1811,6 +1835,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 133024,
+      "num": 133024,
+      "word": "iPhone16ProMax机型或占总销量35%",
+      "onboard_time": 1726051882,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 132985,
       "num": 132985,
       "word": "徐明浩北京签售会路透",
@@ -1891,14 +1923,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 127936,
-      "num": 127936,
-      "word": "iPhone16ProMax机型或占总销量35%",
-      "onboard_time": 1726051882,
-      "rank": 42,
-      "category": "数码"
-    },
-    {
       "raw_hot": 127311,
       "num": 127311,
       "word": "全圆佑签售",
@@ -1963,6 +1987,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 123424,
+      "num": 347964,
+      "word": "350元买的专供酒一上酒桌就露馅了",
+      "onboard_time": 1726052060,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123371,
+      "num": 123371,
+      "word": "大学生每个月生活费1500元够吗",
+      "onboard_time": 1726053561,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123330,
       "num": 123330,
       "word": "阴阳师手游",
@@ -2011,6 +2051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120084,
+      "num": 120084,
+      "word": "葛晓倩回应与袁巴元分手协议",
+      "onboard_time": 1726053620,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118623,
       "num": 118623,
       "word": "库里到达成都",
@@ -2041,14 +2089,6 @@
       "onboard_time": 1725982103,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 116264,
-      "num": 116264,
-      "word": "大学生每个月生活费1500元够吗",
-      "onboard_time": 1726053561,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115618,
@@ -2315,6 +2355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86118,
+      "num": 462435,
+      "word": "雪迷宫",
+      "onboard_time": 1726051280,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85954,
       "num": 115558,
       "word": "五月天唱了八月爱人",
@@ -2419,6 +2467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 69606,
+      "num": 194811,
+      "word": "雪迷宫超适合东北孩子的警匪片",
+      "onboard_time": 1726053978,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 69235,
       "num": 69235,
       "word": "星穹铁道",
@@ -2440,14 +2496,6 @@
       "word": "妇联回应男子殴打七旬老母",
       "onboard_time": 1726042161,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65000,
-      "num": 347964,
-      "word": "350元买的专供酒一上酒桌就露馅了",
-      "onboard_time": 1726052060,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
