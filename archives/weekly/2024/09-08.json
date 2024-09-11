@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726044096695,
+  "endTime": 1726046626521,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -627,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1136887,
+      "num": 382833,
+      "word": "微信客服回应提现手续费",
+      "onboard_time": 1726041861,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1131772,
       "num": 1131772,
       "word": "王楚钦3比0战胜黄镇廷",
@@ -993,6 +1001,14 @@
       "onboard_time": 1725781819,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 852202,
+      "num": 852202,
+      "word": "选秀第一vocal终于上歌手了",
+      "onboard_time": 1726041861,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 846403,
@@ -1547,6 +1563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 597852,
+      "num": 387925,
+      "word": "交个朋友遭遇月饼李鬼将全部退一赔三",
+      "onboard_time": 1726041321,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 595084,
       "num": 595084,
       "word": "大叔开三轮拉巨蟒标本参会被调查",
@@ -1675,12 +1699,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 559667,
-      "num": 559667,
-      "word": "选秀第一vocal终于上歌手了",
-      "onboard_time": 1726041861,
-      "rank": 11,
-      "category": "综艺"
+      "raw_hot": 561048,
+      "num": 561048,
+      "word": "长期吃止痛药会产生耐药性吗",
+      "onboard_time": 1726042102,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 555256,
@@ -1704,6 +1728,14 @@
       "word": "16岁少年剪头烫发被索要4000元",
       "onboard_time": 1725790999,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 544134,
+      "num": 345554,
+      "word": "月嫂凌晨2点给婴儿喂安眠药",
+      "onboard_time": 1726045580,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1883,14 +1915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 492352,
-      "num": 382833,
-      "word": "微信客服回应提现手续费",
-      "onboard_time": 1726041861,
-      "rank": 15,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 492165,
       "num": 356364,
       "word": "G社拍的赵露思生图",
@@ -2033,6 +2057,14 @@
       "onboard_time": 1726029863,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 460838,
+      "num": 335947,
+      "word": "平江路",
+      "onboard_time": 1726045941,
+      "rank": 12,
+      "category": "社会负面"
     },
     {
       "raw_hot": 460329,
@@ -2211,12 +2243,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 423850,
+      "num": 423850,
+      "word": "封神质子",
+      "onboard_time": 1726042042,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 422073,
       "num": 422073,
       "word": "国台办回应黑神话悟空在台湾大热",
       "onboard_time": 1726028122,
       "rank": 25,
       "category": "国内时政,游戏"
+    },
+    {
+      "raw_hot": 419852,
+      "num": 419852,
+      "word": "白鹿首唱会门票将免费赠送",
+      "onboard_time": 1726044021,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 419637,
@@ -2273,14 +2321,6 @@
       "onboard_time": 1725841579,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 409923,
-      "num": 409923,
-      "word": "封神质子",
-      "onboard_time": 1726042042,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 409739,
@@ -2481,6 +2521,14 @@
       "onboard_time": 1726032383,
       "rank": 21,
       "category": "数码"
+    },
+    {
+      "raw_hot": 386431,
+      "num": 386431,
+      "word": "刘跃进严重违纪违法被开除党籍",
+      "onboard_time": 1726044260,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 386303,
@@ -3355,28 +3403,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 281659,
-      "num": 387925,
-      "word": "交个朋友遭遇月饼李鬼将全部退一赔三",
-      "onboard_time": 1726041321,
-      "rank": 24,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 281154,
       "num": 281154,
       "word": "A股",
       "onboard_time": 1725846499,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 280722,
-      "num": 280722,
-      "word": "白鹿首唱会门票将免费赠送",
-      "onboard_time": 1726044021,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 278703,
@@ -3555,6 +3587,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 264354,
+      "num": 264354,
+      "word": "林生斌起诉导演刘信达二审维持原判",
+      "onboard_time": 1726046002,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263227,
       "num": 263227,
       "word": "优酷一口气官宣36档综艺",
@@ -3633,6 +3673,14 @@
       "onboard_time": 1725967760,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 257267,
+      "num": 257267,
+      "word": "大熊猫野外遇到假熊猫后躲了起来",
+      "onboard_time": 1726041082,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256255,
@@ -5275,6 +5323,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 191992,
+      "num": 191992,
+      "word": "侯明昊脱了",
+      "onboard_time": 1726046241,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191975,
       "num": 191975,
       "word": "侯明昊看卢昱晓 比亲亲好嗑",
@@ -6011,6 +6067,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 173446,
+      "num": 173446,
+      "word": "李现拍的赛里木湖",
+      "onboard_time": 1726044320,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173373,
       "num": 173373,
       "word": "肖央赵丽颖刘烨新片互掐",
@@ -6041,6 +6105,14 @@
       "onboard_time": 1725810620,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 172741,
+      "num": 172741,
+      "word": "五月天嘉宾 刘雨昕",
+      "onboard_time": 1726046361,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 172578,
@@ -6209,6 +6281,14 @@
       "onboard_time": 1725798320,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167960,
+      "num": 167960,
+      "word": "王俊凯收到超大月饼",
+      "onboard_time": 1726044441,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 167703,
@@ -6651,14 +6731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158362,
-      "num": 158362,
-      "word": "大熊猫野外遇到假熊猫后躲了起来",
-      "onboard_time": 1726041082,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158168,
       "num": 158168,
       "word": "星穹铁道飞霄PV",
@@ -7035,12 +7107,36 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 150765,
+      "num": 150765,
+      "word": "怀疑那隽是乌拉那拉氏后人",
+      "onboard_time": 1726046121,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 150560,
+      "num": 150560,
+      "word": "4分钟看人民军队淬火成钢",
+      "onboard_time": 1726045161,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150513,
       "num": 330561,
       "word": "当一个妈决定给孩子进行死亡教育",
       "onboard_time": 1725775219,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150337,
+      "num": 150337,
+      "word": "高伟光 豪门总裁",
+      "onboard_time": 1726046241,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 150234,
@@ -7097,6 +7193,14 @@
       "onboard_time": 1725784938,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149273,
+      "num": 149273,
+      "word": "徐瑛彬说跟王楚钦打就是拼",
+      "onboard_time": 1726045880,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 149195,
@@ -7547,6 +7651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139607,
+      "num": 139607,
+      "word": "特朗普哈里斯针锋相对辩论了90分钟",
+      "onboard_time": 1726046421,
+      "rank": 40,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 139573,
       "num": 186258,
       "word": "专家称房子的养护成本约占总价2%",
@@ -7577,6 +7689,14 @@
       "onboard_time": 1725788359,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139064,
+      "num": 139064,
+      "word": "人类迟早从兜里掏出65寸电视",
+      "onboard_time": 1726044503,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 138936,
@@ -7787,6 +7907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134952,
+      "num": 134952,
+      "word": "贾跃亭称苹果正在变得平庸",
+      "onboard_time": 1726045941,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 134927,
       "num": 521609,
       "word": "90后体育老师自创100套国风课间操",
@@ -7945,6 +8073,14 @@
       "onboard_time": 1725875840,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131093,
+      "num": 131093,
+      "word": "金晨拍照全身上下没有不疼的",
+      "onboard_time": 1726046002,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 131022,
@@ -8123,6 +8259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 128281,
+      "num": 128281,
+      "word": "黑吗喽好 紫薇树坏",
+      "onboard_time": 1726046301,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128254,
       "num": 128254,
       "word": "国足发挥太稳定了",
@@ -8153,6 +8297,14 @@
       "onboard_time": 1725954620,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127311,
+      "num": 127311,
+      "word": "全圆佑签售",
+      "onboard_time": 1726044260,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 127249,
@@ -9347,14 +9499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 99929,
-      "num": 341137,
-      "word": "长期吃止痛药会产生耐药性吗",
-      "onboard_time": 1726042102,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 99188,
       "num": 101045,
       "word": "袁隆平14万稻穗中发现天选株",
@@ -9523,6 +9667,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 94045,
+      "num": 385937,
+      "word": "小伙称做修复手术后睁着眼睛睡觉",
+      "onboard_time": 1726045281,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93514,
       "num": 93514,
       "word": "说方言真的会影响一个人的颜值吗",
@@ -9568,6 +9720,14 @@
       "word": "为何年轻人舍得给宠物下本吃高端粮",
       "onboard_time": 1725962840,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92456,
+      "num": 828362,
+      "word": "2024秋季学期考试日历",
+      "onboard_time": 1726043540,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -9979,6 +10139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70802,
+      "num": 314826,
+      "word": "打工人准时下班并没有错",
+      "onboard_time": 1726045099,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70719,
       "num": 280788,
       "word": "华为首款轿跑SUV真香",
@@ -10305,6 +10473,14 @@
       "onboard_time": 1725964701,
       "rank": 47,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 56607,
+      "num": 266404,
+      "word": "一级房建证挂靠1年挣近2万",
+      "onboard_time": 1726045821,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56546,
@@ -11155,14 +11331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30231,
-      "num": 828362,
-      "word": "2024秋季学期考试日历",
-      "onboard_time": 1726043540,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30066,
       "num": 65723,
       "word": "中国连续6届残奥金牌榜奖牌榜第一",
@@ -11675,6 +11843,14 @@
       "category": "社会议题,教育"
     },
     {
+      "raw_hot": 13308,
+      "num": 294248,
+      "word": "李一桐雪中背影图",
+      "onboard_time": 1726044081,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 13288,
       "num": 92864,
       "word": "颐莲嘭嘭霜",
@@ -11745,14 +11921,6 @@
       "onboard_time": 1725735253,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6901,
-      "num": 186390,
-      "word": "李一桐雪中背影图",
-      "onboard_time": 1726044081,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 6792,

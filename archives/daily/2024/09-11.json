@@ -1,6 +1,6 @@
 {
   "startTime": 1725985552565,
-  "endTime": 1726044096695,
+  "endTime": 1726046626521,
   "band_list": [
     {
       "raw_hot": 5198160,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1136887,
+      "num": 382833,
+      "word": "微信客服回应提现手续费",
+      "onboard_time": 1726041861,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1044953,
       "num": 909111,
       "word": "平野绫遭家暴",
@@ -169,6 +177,14 @@
       "onboard_time": 1726028905,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 852202,
+      "num": 852202,
+      "word": "选秀第一vocal终于上歌手了",
+      "onboard_time": 1726041861,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 791503,
@@ -267,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 597852,
+      "num": 387925,
+      "word": "交个朋友遭遇月饼李鬼将全部退一赔三",
+      "onboard_time": 1726041321,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 595084,
       "num": 595084,
       "word": "大叔开三轮拉巨蟒标本参会被调查",
@@ -299,12 +323,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 559667,
-      "num": 559667,
-      "word": "选秀第一vocal终于上歌手了",
-      "onboard_time": 1726041861,
+      "raw_hot": 561048,
+      "num": 561048,
+      "word": "长期吃止痛药会产生耐药性吗",
+      "onboard_time": 1726042102,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 544134,
+      "num": 345554,
+      "word": "月嫂凌晨2点给婴儿喂安眠药",
+      "onboard_time": 1726045580,
       "rank": 11,
-      "category": "综艺"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 535920,
@@ -337,14 +369,6 @@
       "onboard_time": 1726015040,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 492352,
-      "num": 382833,
-      "word": "微信客服回应提现手续费",
-      "onboard_time": 1726041861,
-      "rank": 15,
-      "category": "互联网"
     },
     {
       "raw_hot": 481601,
@@ -387,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 460838,
+      "num": 335947,
+      "word": "平江路",
+      "onboard_time": 1726045941,
+      "rank": 12,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 453387,
       "num": 453387,
       "word": "张本智和 奥运会是全部但也不是全部",
@@ -403,6 +435,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 423850,
+      "num": 423850,
+      "word": "封神质子",
+      "onboard_time": 1726042042,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 422073,
       "num": 422073,
       "word": "国台办回应黑神话悟空在台湾大热",
@@ -411,12 +451,12 @@
       "category": "国内时政,游戏"
     },
     {
-      "raw_hot": 409923,
-      "num": 409923,
-      "word": "封神质子",
-      "onboard_time": 1726042042,
-      "rank": 17,
-      "category": "电影"
+      "raw_hot": 419852,
+      "num": 419852,
+      "word": "白鹿首唱会门票将免费赠送",
+      "onboard_time": 1726044021,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 409291,
@@ -473,6 +513,14 @@
       "onboard_time": 1726032383,
       "rank": 21,
       "category": "数码"
+    },
+    {
+      "raw_hot": 386431,
+      "num": 386431,
+      "word": "刘跃进严重违纪违法被开除党籍",
+      "onboard_time": 1726044260,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 385583,
@@ -635,14 +683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 281659,
-      "num": 387925,
-      "word": "交个朋友遭遇月饼李鬼将全部退一赔三",
-      "onboard_time": 1726041321,
-      "rank": 24,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 280781,
       "num": 262052,
       "word": "张雨绮脱口秀",
@@ -651,20 +691,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 280722,
-      "num": 280722,
-      "word": "白鹿首唱会门票将免费赠送",
-      "onboard_time": 1726044021,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
       "raw_hot": 273107,
       "num": 273107,
       "word": "华为三折叠被炒至9万天价",
       "onboard_time": 1726009697,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 264354,
+      "num": 264354,
+      "word": "林生斌起诉导演刘信达二审维持原判",
+      "onboard_time": 1726046002,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 263895,
@@ -688,6 +728,14 @@
       "word": "宝宝睡觉jiojio无处安放似睡罗汉",
       "onboard_time": 1726017019,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257267,
+      "num": 257267,
+      "word": "大熊猫野外遇到假熊猫后躲了起来",
+      "onboard_time": 1726041082,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -915,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191992,
+      "num": 191992,
+      "word": "侯明昊脱了",
+      "onboard_time": 1726046241,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191975,
       "num": 191975,
       "word": "侯明昊看卢昱晓 比亲亲好嗑",
@@ -1067,12 +1123,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 173446,
+      "num": 173446,
+      "word": "李现拍的赛里木湖",
+      "onboard_time": 1726044320,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173170,
       "num": 173170,
       "word": "刘亦菲两部作品入围飞天奖",
       "onboard_time": 1726027581,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172741,
+      "num": 172741,
+      "word": "五月天嘉宾 刘雨昕",
+      "onboard_time": 1726046361,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 171968,
@@ -1121,6 +1193,14 @@
       "onboard_time": 1726028540,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167960,
+      "num": 167960,
+      "word": "王俊凯收到超大月饼",
+      "onboard_time": 1726044441,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 165583,
@@ -1203,14 +1283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158362,
-      "num": 158362,
-      "word": "大熊猫野外遇到假熊猫后躲了起来",
-      "onboard_time": 1726041082,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156658,
       "num": 156658,
       "word": "美应停止攻击抹黑中国的真诚努力",
@@ -1259,12 +1331,44 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 150765,
+      "num": 150765,
+      "word": "怀疑那隽是乌拉那拉氏后人",
+      "onboard_time": 1726046121,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 150560,
+      "num": 150560,
+      "word": "4分钟看人民军队淬火成钢",
+      "onboard_time": 1726045161,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150337,
+      "num": 150337,
+      "word": "高伟光 豪门总裁",
+      "onboard_time": 1726046241,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 150234,
       "num": 150234,
       "word": "金晨开车一路全是小节目",
       "onboard_time": 1726034963,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149273,
+      "num": 149273,
+      "word": "徐瑛彬说跟王楚钦打就是拼",
+      "onboard_time": 1726045880,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 148081,
@@ -1347,12 +1451,28 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 139607,
+      "num": 139607,
+      "word": "特朗普哈里斯针锋相对辩论了90分钟",
+      "onboard_time": 1726046421,
+      "rank": 40,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 139573,
       "num": 186258,
       "word": "专家称房子的养护成本约占总价2%",
       "onboard_time": 1726040961,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139064,
+      "num": 139064,
+      "word": "人类迟早从兜里掏出65寸电视",
+      "onboard_time": 1726044503,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 138936,
@@ -1395,6 +1515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 134952,
+      "num": 134952,
+      "word": "贾跃亭称苹果正在变得平庸",
+      "onboard_time": 1726045941,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 134740,
       "num": 134740,
       "word": "吴彦祖舒淇冯德伦26年前后合照",
@@ -1435,6 +1563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 131093,
+      "num": 131093,
+      "word": "金晨拍照全身上下没有不疼的",
+      "onboard_time": 1726046002,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131022,
       "num": 131022,
       "word": "足协大概率为国足换帅",
@@ -1467,6 +1603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128281,
+      "num": 128281,
+      "word": "黑吗喽好 紫薇树坏",
+      "onboard_time": 1726046301,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128155,
       "num": 128155,
       "word": "哈里斯主动跟特朗普握手",
@@ -1481,6 +1625,14 @@
       "onboard_time": 1726020918,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 127311,
+      "num": 127311,
+      "word": "全圆佑签售",
+      "onboard_time": 1726044260,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 126526,
@@ -1763,14 +1915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 99929,
-      "num": 341137,
-      "word": "长期吃止痛药会产生耐药性吗",
-      "onboard_time": 1726042102,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98910,
       "num": 98910,
       "word": "为何足球一直很弱",
@@ -1795,12 +1939,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 94045,
+      "num": 385937,
+      "word": "小伙称做修复手术后睁着眼睛睡觉",
+      "onboard_time": 1726045281,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92829,
       "num": 92829,
       "word": "娜扎李泳知同框",
       "onboard_time": 1726012158,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 92456,
+      "num": 828362,
+      "word": "2024秋季学期考试日历",
+      "onboard_time": 1726043540,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90877,
@@ -1923,6 +2083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 70802,
+      "num": 314826,
+      "word": "打工人准时下班并没有错",
+      "onboard_time": 1726045099,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69235,
       "num": 69235,
       "word": "星穹铁道",
@@ -2001,6 +2169,14 @@
       "onboard_time": 1726026020,
       "rank": 11,
       "category": "数码"
+    },
+    {
+      "raw_hot": 56607,
+      "num": 266404,
+      "word": "一级房建证挂靠1年挣近2万",
+      "onboard_time": 1726045821,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56417,
@@ -2147,14 +2323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30231,
-      "num": 828362,
-      "word": "2024秋季学期考试日历",
-      "onboard_time": 1726043540,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28819,
       "num": 310472,
       "word": "王一博探索新境快报",
@@ -2291,6 +2459,14 @@
       "category": "社会议题,教育"
     },
     {
+      "raw_hot": 13308,
+      "num": 294248,
+      "word": "李一桐雪中背影图",
+      "onboard_time": 1726044081,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 10618,
       "num": 35057,
       "word": "东方白鹳在校园悠闲散步松弛感拉满",
@@ -2305,14 +2481,6 @@
       "onboard_time": 1725887060,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6901,
-      "num": 186390,
-      "word": "李一桐雪中背影图",
-      "onboard_time": 1726044081,
-      "rank": 28,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
