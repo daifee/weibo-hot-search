@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726028896776,
+  "endTime": 1726029734263,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2714048,
+      "num": 971591,
+      "word": "神奇海挪 塌房",
+      "onboard_time": 1726026199,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 2706478,
       "num": 2912957,
       "word": "郑钦文无缘美网4强",
@@ -241,14 +249,6 @@
       "onboard_time": 1725430820,
       "rank": 16,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 2516999,
-      "num": 744811,
-      "word": "神奇海挪 塌房",
-      "onboard_time": 1726026199,
-      "rank": 3,
-      "category": "网红"
     },
     {
       "raw_hot": 2491158,
@@ -353,6 +353,14 @@
       "onboard_time": 1725803420,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2301444,
+      "num": 2301444,
+      "word": "霉霉宣布支持哈里斯",
+      "onboard_time": 1726028183,
+      "rank": 9,
+      "category": "国外时政,艺人"
     },
     {
       "raw_hot": 2296649,
@@ -987,6 +995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1507055,
+      "num": 1507055,
+      "word": "沈某已娶妻 今生不会再娶",
+      "onboard_time": 1726027701,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1506323,
       "num": 1476952,
       "word": "罗拉王能能没分手",
@@ -1409,6 +1425,14 @@
       "onboard_time": 1725455483,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1328720,
+      "num": 726774,
+      "word": "直击特朗普vs哈里斯电视辩论",
+      "onboard_time": 1726018819,
+      "rank": 15,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1328010,
@@ -2148,7 +2172,7 @@
     },
     {
       "raw_hot": 1044953,
-      "num": 740008,
+      "num": 909111,
       "word": "平野绫遭家暴",
       "onboard_time": 1726025419,
       "rank": 5,
@@ -3331,14 +3355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 812506,
-      "num": 812506,
-      "word": "沈某已娶妻 今生不会再娶",
-      "onboard_time": 1726027701,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 812344,
       "num": 812344,
       "word": "王骁章若楠 看见女儿男朋友的老丈人",
@@ -3889,14 +3905,6 @@
       "onboard_time": 1725347121,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 726774,
-      "num": 726774,
-      "word": "直击特朗普vs哈里斯电视辩论",
-      "onboard_time": 1726018819,
-      "rank": 15,
-      "category": "国外时政"
     },
     {
       "raw_hot": 725718,
@@ -4995,6 +5003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 595084,
+      "num": 595084,
+      "word": "大叔开三轮拉巨蟒标本参会被调查",
+      "onboard_time": 1726023438,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 593853,
       "num": 593853,
       "word": "服部平次告白成功",
@@ -5267,14 +5283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 567928,
-      "num": 567928,
-      "word": "大叔开三轮拉巨蟒标本参会被调查",
-      "onboard_time": 1726023438,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 567455,
       "num": 567455,
       "word": "点奶茶不请同事尴尬吗",
@@ -5289,6 +5297,14 @@
       "onboard_time": 1725794899,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 566652,
+      "num": 566652,
+      "word": "于适待播作品",
+      "onboard_time": 1726027641,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 565768,
@@ -5321,14 +5337,6 @@
       "onboard_time": 1725943282,
       "rank": 1,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 564652,
-      "num": 598996,
-      "word": "霉霉宣布支持哈里斯",
-      "onboard_time": 1726028183,
-      "rank": 9,
-      "category": "国外时政,艺人"
     },
     {
       "raw_hot": 563712,
@@ -6315,6 +6323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 482810,
+      "num": 482810,
+      "word": "中方回应普京希望中国调停乌克兰危机",
+      "onboard_time": 1726028905,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 482318,
       "num": 482318,
       "word": "16岁少年理发被索要4000元",
@@ -6641,6 +6657,14 @@
       "onboard_time": 1725686840,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 460368,
+      "num": 572456,
+      "word": "专家称00后4点59下班没错是别人错了",
+      "onboard_time": 1726028905,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 460329,
@@ -8051,6 +8075,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 365001,
+      "num": 365001,
+      "word": "国台办回应黑神话悟空在台湾大热",
+      "onboard_time": 1726028122,
+      "rank": 25,
+      "category": "国内时政,游戏"
+    },
+    {
       "raw_hot": 364908,
       "num": 364908,
       "word": "35岁的我月薪2千在餐厅当学徒",
@@ -8369,14 +8401,6 @@
       "onboard_time": 1726018819,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 347131,
-      "num": 347131,
-      "word": "于适待播作品",
-      "onboard_time": 1726027641,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 346897,
@@ -9587,12 +9611,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294306,
+      "num": 294306,
+      "word": "梦回爸爸去哪儿",
+      "onboard_time": 1726028362,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293961,
       "num": 293961,
       "word": "杨紫听了都得懵一秒",
       "onboard_time": 1725513741,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293892,
+      "num": 293892,
+      "word": "美国大选",
+      "onboard_time": 1726026980,
+      "rank": 23,
+      "category": "国外时政"
     },
     {
       "raw_hot": 293267,
@@ -9849,14 +9889,6 @@
       "onboard_time": 1725587480,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284608,
-      "num": 284608,
-      "word": "美国大选",
-      "onboard_time": 1726026980,
-      "rank": 23,
-      "category": "国外时政"
     },
     {
       "raw_hot": 284503,
@@ -11225,14 +11257,6 @@
       "onboard_time": 1725807201,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 246962,
-      "num": 246962,
-      "word": "国台办回应黑神话悟空在台湾大热",
-      "onboard_time": 1726028122,
-      "rank": 25,
-      "category": "国内时政,游戏"
     },
     {
       "raw_hot": 246933,
@@ -13283,6 +13307,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 210158,
+      "num": 210158,
+      "word": "王者荣耀",
+      "onboard_time": 1725354083,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210115,
       "num": 210115,
       "word": "柳舟记 婚后番外",
@@ -14585,6 +14617,14 @@
       "onboard_time": 1725547402,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198917,
+      "num": 198917,
+      "word": "一家五口在北京送外卖当事人发声",
+      "onboard_time": 1726025239,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198796,
@@ -15891,14 +15931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188866,
-      "num": 188866,
-      "word": "梦回爸爸去哪儿",
-      "onboard_time": 1726028362,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 188862,
       "num": 188862,
       "word": "赵露思机场回应粉丝一步三回头",
@@ -16384,6 +16416,14 @@
       "word": "多地开学第一天",
       "onboard_time": 1725236601,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185773,
+      "num": 370815,
+      "word": "年轻人从30岁开始身高会缩水",
+      "onboard_time": 1726027402,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -17379,6 +17419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177909,
+      "num": 177909,
+      "word": "男生开学发现同桌竟是奥运冠军袁心玥",
+      "onboard_time": 1726028964,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177750,
       "num": 236547,
       "word": "BOYNEXTDOOR主打曲MV",
@@ -17795,14 +17843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 174707,
-      "num": 174707,
-      "word": "王者荣耀",
-      "onboard_time": 1725354083,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 174701,
       "num": 174701,
       "word": "上海迪士尼臭豆腐40元一份",
@@ -18009,6 +18049,14 @@
       "onboard_time": 1725632663,
       "rank": 45,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 173618,
+      "num": 436973,
+      "word": "我的阿勒泰",
+      "onboard_time": 1726029023,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 173557,
@@ -18553,6 +18601,14 @@
       "onboard_time": 1725187039,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168572,
+      "num": 168572,
+      "word": "萧敬腾哭成了向佐",
+      "onboard_time": 1726028540,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 168486,
@@ -19497,14 +19553,6 @@
       "onboard_time": 1725889279,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 161911,
-      "num": 161911,
-      "word": "一家五口在北京送外卖当事人发声",
-      "onboard_time": 1726025239,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161854,
@@ -23347,14 +23395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130688,
-      "num": 130688,
-      "word": "萧敬腾哭成了向佐",
-      "onboard_time": 1726028540,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130479,
       "num": 130479,
       "word": "博主感谢AI让自己再次见到母亲",
@@ -23681,6 +23721,14 @@
       "onboard_time": 1725980303,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128155,
+      "num": 128155,
+      "word": "哈里斯主动跟特朗普握手",
+      "onboard_time": 1726029623,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 128108,
@@ -25529,14 +25577,6 @@
       "onboard_time": 1725892521,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 104274,
-      "num": 370815,
-      "word": "年轻人从30岁开始身高会缩水",
-      "onboard_time": 1726027402,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104214,
@@ -27635,6 +27675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60412,
+      "num": 573914,
+      "word": "上市公司被曝看属相提拔员工",
+      "onboard_time": 1726028302,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60301,
       "num": 352914,
       "word": "世界冠军入手问界新M7",
@@ -28697,14 +28745,6 @@
       "onboard_time": 1725543262,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 45730,
-      "num": 573914,
-      "word": "上市公司被曝看属相提拔员工",
-      "onboard_time": 1726028302,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 45517,
