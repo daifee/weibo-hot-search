@@ -1,0 +1,410 @@
+{
+  "runTime": 1726090531757,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 125791,
+        "num": 176810,
+        "word": "柳岩 许仙最后打死了白娘子",
+        "onboard_time": 1726071140,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87156,
+        "num": 87156,
+        "word": "罗永浩道歉并点名头部直播间",
+        "onboard_time": 1726058480,
+        "rank": 1,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 6941,
+        "num": 77185,
+        "word": "被子弟兵借宿后留下的黑板报暖到了",
+        "onboard_time": 1726065262,
+        "rank": 2,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 73657,
+        "num": 73657,
+        "word": "2男孩把猫扔湖里被大学生厉声制止",
+        "onboard_time": 1726087392,
+        "rank": 3,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 69660,
+        "num": 69660,
+        "word": "外资离开中国到底过得怎么样",
+        "onboard_time": 1726067183,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59838,
+        "num": 59838,
+        "word": "天津机场通报无人机导致航班延误",
+        "onboard_time": 1726067603,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57190,
+        "num": 57190,
+        "word": "17岁女生花十多万买笑气",
+        "onboard_time": 1726061722,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52839,
+        "num": 52839,
+        "word": "村民闻到异味在草丛中发现一具男尸",
+        "onboard_time": 1726063163,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47131,
+        "num": 47131,
+        "word": "辽宁大连3.7级地震",
+        "onboard_time": 1726062202,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46859,
+        "num": 46859,
+        "word": "胡兵说想和瞿颖每天都在一起工作",
+        "onboard_time": 1726071140,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113774,
+        "num": 46818,
+        "word": "男子被撞后20元私了颅内出血浑然不知",
+        "onboard_time": 1726057881,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65760,
+        "num": 46539,
+        "word": "月嫂凌晨2点给婴儿喂安眠药",
+        "onboard_time": 1726045580,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65527,
+        "num": 46108,
+        "word": "大马老人死4年才被儿子发现",
+        "onboard_time": 1726059441,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58934,
+        "num": 45842,
+        "word": "韩安冉 早知道就不这个时候生了",
+        "onboard_time": 1726048820,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 45712,
+        "num": 45712,
+        "word": "美国人借口拍照偷偷带走我国文物",
+        "onboard_time": 1726047560,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12790,
+        "num": 43291,
+        "word": "丰收的颜色惊艳了整个秋天",
+        "onboard_time": 1726065322,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49026,
+        "num": 43181,
+        "word": "李子园卖不动了",
+        "onboard_time": 1726066402,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43044,
+        "num": 43044,
+        "word": "被笑气摧毁的青春",
+        "onboard_time": 1726069701,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33056,
+        "num": 40763,
+        "word": "seventeen",
+        "onboard_time": 1726070540,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 31225,
+        "num": 39722,
+        "word": "郭涛带17岁石头录节目",
+        "onboard_time": 1726072997,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39616,
+        "num": 39616,
+        "word": "日男子新加坡性侵女学生被鞭刑20",
+        "onboard_time": 1726060282,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35428,
+        "num": 35428,
+        "word": "国台办回应林依晨说我是成都人",
+        "onboard_time": 1726036161,
+        "rank": 21,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 33700,
+        "num": 33700,
+        "word": "女子被家暴失明母亲希望判男方无期",
+        "onboard_time": 1726056381,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32469,
+        "num": 32469,
+        "word": "关注俄乌局势最新进展",
+        "onboard_time": 1726086431,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 31731,
+        "num": 31731,
+        "word": "外交部回应中俄举行联演目的",
+        "onboard_time": 1726085712,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29544,
+        "num": 29544,
+        "word": "葛晓倩怒怼张雨绮插足",
+        "onboard_time": 1726053561,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26300,
+        "num": 26300,
+        "word": "大学生每个月生活费1500元够吗",
+        "onboard_time": 1726053561,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23554,
+        "num": 23554,
+        "word": "美国医生被判赔一名男婴1亿美元",
+        "onboard_time": 1726073417,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23552,
+        "num": 23552,
+        "word": "小伙下160米天坑为隐居母子送货",
+        "onboard_time": 1726078453,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20361,
+        "num": 23525,
+        "word": "周扬青 今年已经36了",
+        "onboard_time": 1726058421,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23524,
+        "num": 23524,
+        "word": "为何韩国成为深度伪造重灾区",
+        "onboard_time": 1726088471,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 23227,
+        "num": 23227,
+        "word": "大连地震",
+        "onboard_time": 1726061663,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22828,
+        "num": 22828,
+        "word": "NewJeans被HYBE其他艺人团队排挤",
+        "onboard_time": 1726051400,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22406,
+        "num": 22406,
+        "word": "韩安冉宋浩然没领证",
+        "onboard_time": 1726055422,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 22036,
+        "num": 22036,
+        "word": "多方回应女子举报被丈夫多次家暴",
+        "onboard_time": 1726067661,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21676,
+        "num": 21676,
+        "word": "日本部分鱼类涨价5倍",
+        "onboard_time": 1726075993,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21211,
+        "num": 21211,
+        "word": "殷世航调侃韩安冉",
+        "onboard_time": 1726063404,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 20261,
+        "num": 21129,
+        "word": "导演刘信达公开道歉",
+        "onboard_time": 1726082712,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21106,
+        "num": 21106,
+        "word": "日本陷入寿司危机",
+        "onboard_time": 1726052542,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20450,
+        "num": 20450,
+        "word": "蓝盈莹先见家长再谈恋爱",
+        "onboard_time": 1726062445,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18155,
+        "num": 20446,
+        "word": "原来貘是淡系动物",
+        "onboard_time": 1726068923,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 18021,
+        "num": 20440,
+        "word": "女子撑伞骑车被卷入货车底不幸身亡",
+        "onboard_time": 1726067661,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17578,
+        "num": 20430,
+        "word": "大学期间可以争取哪些合理收入",
+        "onboard_time": 1726077913,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12836,
+        "num": 20422,
+        "word": "文化中国行",
+        "onboard_time": 1726089553,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17149,
+        "num": 20416,
+        "word": "新加坡通过平台工人法案",
+        "onboard_time": 1726086372,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 16518,
+        "num": 20412,
+        "word": "广西多河段现超警洪水",
+        "onboard_time": 1726080732,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14974,
+        "num": 20403,
+        "word": "杨天真自曝拉黑了很多艺人",
+        "onboard_time": 1726063284,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14608,
+        "num": 20393,
+        "word": "黑兔致歉",
+        "onboard_time": 1726066582,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 14290,
+        "num": 20390,
+        "word": "NewJeans直播",
+        "onboard_time": 1726049960,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16298,
+        "num": 20380,
+        "word": "美国8月CPI同比上涨2.5%",
+        "onboard_time": 1726083671,
+        "rank": 49,
+        "category": "国外时政,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#建成中国特色社会主义教育强国#"
+    }
+  }
+}

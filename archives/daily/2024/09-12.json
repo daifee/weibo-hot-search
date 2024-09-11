@@ -1,6 +1,6 @@
 {
   "startTime": 1726072022754,
-  "endTime": 1726089632476,
+  "endTime": 1726090531757,
   "band_list": [
     {
       "raw_hot": 911975,
@@ -395,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73657,
+      "num": 73657,
+      "word": "2男孩把猫扔湖里被大学生厉声制止",
+      "onboard_time": 1726087392,
+      "rank": 17,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 73418,
       "num": 73418,
       "word": "美国医生被判赔一名男婴1亿美元",
@@ -451,20 +459,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33935,
-      "num": 33935,
-      "word": "2男孩把猫扔湖里被大学生厉声制止",
-      "onboard_time": 1726087392,
-      "rank": 17,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 32803,
       "num": 63715,
       "word": "苏州警方通报一持刀伤人事件",
       "onboard_time": 1726050320,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32469,
+      "num": 32469,
+      "word": "关注俄乌局势最新进展",
+      "onboard_time": 1726086431,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 31946,
@@ -475,12 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30253,
-      "num": 30253,
-      "word": "关注俄乌局势最新进展",
-      "onboard_time": 1726086431,
-      "rank": 35,
-      "category": "国外时政"
+      "raw_hot": 31731,
+      "num": 31731,
+      "word": "外交部回应中俄举行联演目的",
+      "onboard_time": 1726085712,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 28291,
@@ -491,12 +499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27966,
-      "num": 27966,
-      "word": "外交部回应中俄举行联演目的",
-      "onboard_time": 1726085712,
-      "rank": 48,
-      "category": "国内时政"
+      "raw_hot": 23524,
+      "num": 23524,
+      "word": "为何韩国成为深度伪造重灾区",
+      "onboard_time": 1726088471,
+      "rank": 42,
+      "category": "国外时政"
     },
     {
       "raw_hot": 22794,
@@ -523,16 +531,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17479,
-      "num": 17479,
-      "word": "为何韩国成为深度伪造重灾区",
-      "onboard_time": 1726088471,
-      "rank": 42,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 17214,
-      "num": 18242,
+      "num": 20416,
       "word": "新加坡通过平台工人法案",
       "onboard_time": 1726086372,
       "rank": 48,
@@ -555,15 +555,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12768,
-      "num": 82833,
-      "word": "被子弟兵借宿后留下的黑板报暖到了",
-      "onboard_time": 1726065262,
-      "rank": 2,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 10916,
+      "raw_hot": 12836,
       "num": 27882,
       "word": "文化中国行",
       "onboard_time": 1726089553,
@@ -571,12 +563,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10378,
-      "num": 32045,
+      "raw_hot": 12790,
+      "num": 43291,
       "word": "丰收的颜色惊艳了整个秋天",
       "onboard_time": 1726065322,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12768,
+      "num": 82833,
+      "word": "被子弟兵借宿后留下的黑板报暖到了",
+      "onboard_time": 1726065262,
+      "rank": 2,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 10078,
