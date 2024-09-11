@@ -1,0 +1,410 @@
+{
+  "runTime": 1726044096695,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1616180,
+        "num": 1616180,
+        "word": "国台办回应林依晨说我是成都人",
+        "onboard_time": 1726036161,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 851928,
+        "num": 851928,
+        "word": "取亡父存款被银行回复解锁得本人",
+        "onboard_time": 1726037242,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30231,
+        "num": 828362,
+        "word": "2024秋季学期考试日历",
+        "onboard_time": 1726043540,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 825852,
+        "num": 825852,
+        "word": "刘亦菲王鹤棣 平番",
+        "onboard_time": 1726037420,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 631321,
+        "num": 631321,
+        "word": "专家称不给加班费不加班趋势不可逆",
+        "onboard_time": 1726038261,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559667,
+        "num": 559667,
+        "word": "选秀第一vocal终于上歌手了",
+        "onboard_time": 1726041861,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 775109,
+        "num": 530678,
+        "word": "未来房子不大幅增值或将变消费品",
+        "onboard_time": 1726038261,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409923,
+        "num": 409923,
+        "word": "封神质子",
+        "onboard_time": 1726042042,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 389004,
+        "num": 389004,
+        "word": "神奇海挪 塌房",
+        "onboard_time": 1726026199,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 281659,
+        "num": 387925,
+        "word": "交个朋友遭遇月饼李鬼将全部退一赔三",
+        "onboard_time": 1726041321,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1202869,
+        "num": 386533,
+        "word": "专家称00后4点59下班没错是别人错了",
+        "onboard_time": 1726028905,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630944,
+        "num": 384606,
+        "word": "美国大选",
+        "onboard_time": 1726026980,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 492352,
+        "num": 382833,
+        "word": "微信客服回应提现手续费",
+        "onboard_time": 1726041861,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 382512,
+        "num": 382512,
+        "word": "明道说陈乔恩婚礼不包红包",
+        "onboard_time": 1726041681,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61507,
+        "num": 380157,
+        "word": "啄木鸟平台修空调水管1147元",
+        "onboard_time": 1726042281,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377955,
+        "num": 377955,
+        "word": "马斯克回应霉霉支持哈里斯",
+        "onboard_time": 1726036521,
+        "rank": 15,
+        "category": "国外时政,艺人"
+      },
+      {
+        "raw_hot": 40542,
+        "num": 338288,
+        "word": "拥有帕萨特走遍天下都不怕",
+        "onboard_time": 1726040961,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 328566,
+        "num": 328566,
+        "word": "王楚钦vs徐瑛彬",
+        "onboard_time": 1726043481,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280722,
+        "num": 280722,
+        "word": "白鹿首唱会门票将免费赠送",
+        "onboard_time": 1726044021,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 237691,
+        "num": 237691,
+        "word": "周雨彤 你这是向谁求婚呢",
+        "onboard_time": 1726038081,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227152,
+        "num": 227152,
+        "word": "狗 死腿再跑快点啊",
+        "onboard_time": 1726036042,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22036,
+        "num": 215238,
+        "word": "苏新皓深情演绎",
+        "onboard_time": 1726040361,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 331005,
+        "num": 214301,
+        "word": "霉霉支持哈里斯会影响美国大选吗",
+        "onboard_time": 1726038921,
+        "rank": 22,
+        "category": "国外时政,艺人"
+      },
+      {
+        "raw_hot": 211201,
+        "num": 211201,
+        "word": "沈某已娶妻 今生不会再娶",
+        "onboard_time": 1726027701,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202041,
+        "num": 202041,
+        "word": "俱乐部称张继科还在正常授课",
+        "onboard_time": 1726034781,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200586,
+        "num": 200586,
+        "word": "华为和苹果线下旗舰店现状",
+        "onboard_time": 1726032383,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 191805,
+        "num": 191805,
+        "word": "文俊辉北京签售",
+        "onboard_time": 1726043061,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189154,
+        "num": 189154,
+        "word": "严浩翔晒张真源的狗",
+        "onboard_time": 1726041082,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 6901,
+        "num": 186390,
+        "word": "李一桐雪中背影图",
+        "onboard_time": 1726044081,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 86037,
+        "num": 186258,
+        "word": "专家称房子的养护成本约占总价2%",
+        "onboard_time": 1726040961,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186232,
+        "num": 186232,
+        "word": "和母单谈恋爱压力很大吗",
+        "onboard_time": 1726040600,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184264,
+        "num": 184264,
+        "word": "去有风的地方",
+        "onboard_time": 1726037780,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180806,
+        "num": 180806,
+        "word": "邻居不配合维修女子家漏水17年",
+        "onboard_time": 1726031543,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168786,
+        "num": 168786,
+        "word": "孙准浩发布会痛哭",
+        "onboard_time": 1726040840,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99929,
+        "num": 164934,
+        "word": "长期吃止痛药会产生耐药性吗",
+        "onboard_time": 1726042102,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66145,
+        "num": 163488,
+        "word": "妇联回应男子殴打七旬老母",
+        "onboard_time": 1726042161,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163109,
+        "num": 163109,
+        "word": "张雨绮战绩可查",
+        "onboard_time": 1726016060,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160634,
+        "num": 160634,
+        "word": "男子11万多法拍奔驰竟是报废车",
+        "onboard_time": 1726032263,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158362,
+        "num": 158362,
+        "word": "大熊猫野外遇到假熊猫后躲了起来",
+        "onboard_time": 1726041082,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156392,
+        "num": 156392,
+        "word": "平野绫遭家暴",
+        "onboard_time": 1726025419,
+        "rank": 39,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 145047,
+        "num": 145047,
+        "word": "张鲁一对自己真下狠手",
+        "onboard_time": 1726043900,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 671527,
+        "num": 143990,
+        "word": "男子酒后腹痛暴瘦50斤",
+        "onboard_time": 1726039341,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33406,
+        "num": 143147,
+        "word": "周洁琼葛秋谷夜游环球影城",
+        "onboard_time": 1726038921,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142330,
+        "num": 142330,
+        "word": "汪嵩回应被禁足",
+        "onboard_time": 1726043301,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140800,
+        "num": 140800,
+        "word": "理想L9自动泊车失败",
+        "onboard_time": 1726036521,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 136950,
+        "num": 136950,
+        "word": "每摘一串香蕉就有一棵树失去生命",
+        "onboard_time": 1726034062,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134090,
+        "num": 134090,
+        "word": "神奇海挪道歉",
+        "onboard_time": 1726038200,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 131022,
+        "num": 131022,
+        "word": "足协大概率为国足换帅",
+        "onboard_time": 1726043961,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128704,
+        "num": 128704,
+        "word": "镖人",
+        "onboard_time": 1726039701,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127306,
+        "num": 127306,
+        "word": "孙准浩回应被终身禁足",
+        "onboard_time": 1726040901,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向上海合作组织妇女论坛致贺信#"
+    }
+  }
+}

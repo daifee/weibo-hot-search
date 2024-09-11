@@ -1,6 +1,6 @@
 {
   "startTime": 1725985552565,
-  "endTime": 1726043280642,
+  "endTime": 1726044096695,
   "band_list": [
     {
       "raw_hot": 5198160,
@@ -235,6 +235,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 671527,
+      "num": 386935,
+      "word": "男子酒后腹痛暴瘦50斤",
+      "onboard_time": 1726039341,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 643198,
       "num": 643198,
       "word": "山西阴阳价刀削面店主再发声",
@@ -243,8 +251,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 622460,
-      "num": 622460,
+      "raw_hot": 631321,
+      "num": 631321,
       "word": "专家称不给加班费不加班趋势不可逆",
       "onboard_time": 1726038261,
       "rank": 26,
@@ -291,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 559667,
+      "num": 559667,
+      "word": "选秀第一vocal终于上歌手了",
+      "onboard_time": 1726041861,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 535920,
       "num": 229119,
       "word": "金鹰奖删除刘亦菲入围资格",
@@ -321,6 +337,14 @@
       "onboard_time": 1726015040,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 492352,
+      "num": 382833,
+      "word": "微信客服回应提现手续费",
+      "onboard_time": 1726041861,
+      "rank": 15,
+      "category": "互联网"
     },
     {
       "raw_hot": 481601,
@@ -387,6 +411,14 @@
       "category": "国内时政,游戏"
     },
     {
+      "raw_hot": 409923,
+      "num": 409923,
+      "word": "封神质子",
+      "onboard_time": 1726042042,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 409291,
       "num": 409291,
       "word": "职场最好的称呼是按工资来",
@@ -443,14 +475,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 386935,
-      "num": 386935,
-      "word": "男子酒后腹痛暴瘦50斤",
-      "onboard_time": 1726039341,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 385583,
       "num": 385583,
       "word": "国足输球伊万要负主要责任",
@@ -465,6 +489,14 @@
       "onboard_time": 1725975683,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382512,
+      "num": 382512,
+      "word": "明道说陈乔恩婚礼不包红包",
+      "onboard_time": 1726041681,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 371403,
@@ -491,22 +523,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 347564,
-      "num": 347564,
-      "word": "选秀第一vocal终于上歌手了",
-      "onboard_time": 1726041861,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 347479,
-      "num": 347479,
-      "word": "明道说陈乔恩婚礼不包红包",
-      "onboard_time": 1726041681,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 347419,
       "num": 347419,
       "word": "小朋友给兵哥哥的亲亲看得人心软软",
@@ -515,27 +531,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 336894,
-      "num": 336894,
-      "word": "微信客服回应提现手续费",
-      "onboard_time": 1726041861,
-      "rank": 15,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 335969,
-      "num": 335969,
-      "word": "封神质子",
-      "onboard_time": 1726042042,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 335055,
       "num": 335055,
       "word": "伊万 下课",
       "onboard_time": 1725978323,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 328566,
+      "num": 328566,
+      "word": "王楚钦vs徐瑛彬",
+      "onboard_time": 1726043481,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -627,12 +635,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 281659,
+      "num": 387925,
+      "word": "交个朋友遭遇月饼李鬼将全部退一赔三",
+      "onboard_time": 1726041321,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 280781,
       "num": 262052,
       "word": "张雨绮脱口秀",
       "onboard_time": 1725968421,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 280722,
+      "num": 280722,
+      "word": "白鹿首唱会门票将免费赠送",
+      "onboard_time": 1726044021,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 273107,
@@ -899,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191805,
+      "num": 191805,
+      "word": "文俊辉北京签售",
+      "onboard_time": 1726043061,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 190637,
       "num": 190637,
       "word": "为什么年轻人有送礼焦虑",
@@ -936,6 +968,14 @@
       "word": "花儿与少年",
       "onboard_time": 1726035621,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 186232,
+      "num": 186232,
+      "word": "和母单谈恋爱压力很大吗",
+      "onboard_time": 1726040600,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -1059,14 +1099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171145,
-      "num": 171145,
-      "word": "和母单谈恋爱压力很大吗",
-      "onboard_time": 1726040600,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 171122,
       "num": 171122,
       "word": "闪耀暖暖",
@@ -1171,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158362,
+      "num": 158362,
+      "word": "大熊猫野外遇到假熊猫后躲了起来",
+      "onboard_time": 1726041082,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156658,
       "num": 156658,
       "word": "美应停止攻击抹黑中国的真诚努力",
@@ -1201,14 +1241,6 @@
       "onboard_time": 1726031362,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151702,
-      "num": 151702,
-      "word": "文俊辉北京签售",
-      "onboard_time": 1726043061,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 151581,
@@ -1251,20 +1283,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146394,
-      "num": 146394,
-      "word": "大熊猫野外遇到假熊猫后躲了起来",
-      "onboard_time": 1726041082,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145203,
       "num": 145203,
       "word": "蔡少芬生孩子鞋码从39涨到41",
       "onboard_time": 1726038741,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145047,
+      "num": 145047,
+      "word": "张鲁一对自己真下狠手",
+      "onboard_time": 1726043900,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 144655,
@@ -1291,6 +1323,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 142330,
+      "num": 142330,
+      "word": "汪嵩回应被禁足",
+      "onboard_time": 1726043301,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141045,
       "num": 141045,
       "word": "书亦烧仙草为什么开不下去了",
@@ -1308,7 +1348,7 @@
     },
     {
       "raw_hot": 139573,
-      "num": 139573,
+      "num": 186258,
       "word": "专家称房子的养护成本约占总价2%",
       "onboard_time": 1726040961,
       "rank": 46,
@@ -1393,6 +1433,14 @@
       "onboard_time": 1726039520,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 131022,
+      "num": 131022,
+      "word": "足协大概率为国足换帅",
+      "onboard_time": 1726043961,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 129737,
@@ -1505,14 +1553,6 @@
       "onboard_time": 1726033044,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 121891,
-      "num": 230038,
-      "word": "交个朋友遭遇月饼李鬼将全部退一赔三",
-      "onboard_time": 1726041321,
-      "rank": 24,
-      "category": "互联网"
     },
     {
       "raw_hot": 121829,
@@ -1723,6 +1763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99929,
+      "num": 341137,
+      "word": "长期吃止痛药会产生耐药性吗",
+      "onboard_time": 1726042102,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98910,
       "num": 98910,
       "word": "为何足球一直很弱",
@@ -1891,6 +1939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 66145,
+      "num": 270091,
+      "word": "妇联回应男子殴打七旬老母",
+      "onboard_time": 1726042161,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64165,
       "num": 104661,
       "word": "边伯贤演唱会后有戒断反应",
@@ -1923,18 +1979,18 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 61507,
+      "num": 380157,
+      "word": "啄木鸟平台修空调水管1147元",
+      "onboard_time": 1726042281,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60412,
       "num": 573914,
       "word": "上市公司被曝看属相提拔员工",
       "onboard_time": 1726028302,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60057,
-      "num": 341137,
-      "word": "长期吃止痛药会产生耐药性吗",
-      "onboard_time": 1726042102,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -2003,12 +2059,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42945,
-      "num": 270091,
-      "word": "妇联回应男子殴打七旬老母",
-      "onboard_time": 1726042161,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 40542,
+      "num": 338288,
+      "word": "拥有帕萨特走遍天下都不怕",
+      "onboard_time": 1726040961,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 39744,
@@ -2051,14 +2107,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 37701,
-      "num": 336251,
-      "word": "拥有帕萨特走遍天下都不怕",
-      "onboard_time": 1726040961,
-      "rank": 16,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 37673,
       "num": 317802,
       "word": "摩羯致海南4地损失近800亿",
@@ -2083,14 +2131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37323,
-      "num": 354652,
-      "word": "啄木鸟平台修空调水管1147元",
-      "onboard_time": 1726042281,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36852,
       "num": 214048,
       "word": "秋天有仪式感的9件小事",
@@ -2103,6 +2143,14 @@
       "num": 967272,
       "word": "我国载人登月工程有了新助力",
       "onboard_time": 1726042701,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30231,
+      "num": 828362,
+      "word": "2024秋季学期考试日历",
+      "onboard_time": 1726043540,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -2169,6 +2217,14 @@
       "onboard_time": 1725981201,
       "rank": 41,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 22036,
+      "num": 215238,
+      "word": "苏新皓深情演绎",
+      "onboard_time": 1726040361,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 21448,
@@ -2249,6 +2305,14 @@
       "onboard_time": 1725887060,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6901,
+      "num": 186390,
+      "word": "李一桐雪中背影图",
+      "onboard_time": 1726044081,
+      "rank": 28,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
