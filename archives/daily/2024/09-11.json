@@ -1,7 +1,15 @@
 {
   "startTime": 1725985552565,
-  "endTime": 1726025894454,
+  "endTime": 1726028896776,
   "band_list": [
+    {
+      "raw_hot": 2516999,
+      "num": 744811,
+      "word": "神奇海挪 塌房",
+      "onboard_time": 1726026199,
+      "rank": 3,
+      "category": "网红"
+    },
     {
       "raw_hot": 1302789,
       "num": 1176104,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1172437,
-      "num": 235275,
+      "num": 282469,
       "word": "于是 分手了吗",
       "onboard_time": 1725968840,
       "rank": 20,
@@ -28,11 +36,27 @@
     },
     {
       "raw_hot": 1154594,
-      "num": 328737,
+      "num": 597219,
       "word": "张雨绮战绩可查",
       "onboard_time": 1726016060,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1044953,
+      "num": 740008,
+      "word": "平野绫遭家暴",
+      "onboard_time": 1726025419,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1014315,
+      "num": 1162290,
+      "word": "男子出狱用前女友照片网恋骗15万",
+      "onboard_time": 1726023859,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 868757,
@@ -59,12 +83,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 812506,
+      "num": 812506,
+      "word": "沈某已娶妻 今生不会再娶",
+      "onboard_time": 1726027701,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 754859,
       "num": 328521,
       "word": "金毛犬扑向孕妇致受惊吓流产",
       "onboard_time": 1725980723,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 741420,
+      "num": 706795,
+      "word": "连刘美含相亲都相不到正常的",
+      "onboard_time": 1726025419,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 731903,
@@ -107,19 +147,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 609491,
-      "num": 609491,
-      "word": "平野绫遭家暴",
-      "onboard_time": 1726025419,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 584142,
       "num": 584142,
       "word": "人民日报评国足遭沙特逆转",
       "onboard_time": 1726019239,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 580801,
+      "num": 580801,
+      "word": "伊万被足协解雇将获赔9个月薪水",
+      "onboard_time": 1726025301,
+      "rank": 13,
       "category": "体育"
     },
     {
@@ -129,6 +169,22 @@
       "onboard_time": 1726011318,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 567928,
+      "num": 567928,
+      "word": "大叔开三轮拉巨蟒标本参会被调查",
+      "onboard_time": 1726023438,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 564652,
+      "num": 598996,
+      "word": "霉霉宣布支持哈里斯",
+      "onboard_time": 1726028183,
+      "rank": 9,
+      "category": "国外时政,艺人"
     },
     {
       "raw_hot": 535920,
@@ -177,6 +233,14 @@
       "onboard_time": 1726012821,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 448756,
+      "num": 448756,
+      "word": "特朗普哈里斯两人支持率接近",
+      "onboard_time": 1726022778,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 409291,
@@ -243,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347131,
+      "num": 347131,
+      "word": "于适待播作品",
+      "onboard_time": 1726027641,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 335055,
       "num": 335055,
       "word": "伊万 下课",
@@ -276,7 +348,7 @@
     },
     {
       "raw_hot": 308770,
-      "num": 227407,
+      "num": 239822,
       "word": "这种肉别再吃成本或只有5毛钱",
       "onboard_time": 1726022599,
       "rank": 36,
@@ -297,6 +369,14 @@
       "onboard_time": 1725981683,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 284608,
+      "num": 284608,
+      "word": "美国大选",
+      "onboard_time": 1726026980,
+      "rank": 23,
+      "category": "国外时政"
     },
     {
       "raw_hot": 280781,
@@ -347,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246962,
+      "num": 246962,
+      "word": "国台办回应黑神话悟空在台湾大热",
+      "onboard_time": 1726028122,
+      "rank": 25,
+      "category": "国内时政,游戏"
+    },
+    {
       "raw_hot": 246311,
       "num": 246311,
       "word": "时尚芭莎十月刊",
@@ -395,14 +483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 233751,
-      "num": 233751,
-      "word": "伊万被足协解雇将获赔9个月薪水",
-      "onboard_time": 1726025301,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 233048,
       "num": 312917,
       "word": "赵露思公主裙配球鞋",
@@ -411,12 +491,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 231593,
-      "num": 306038,
-      "word": "特朗普哈里斯两人支持率接近",
-      "onboard_time": 1726022778,
-      "rank": 8,
-      "category": "国外时政"
+      "raw_hot": 228730,
+      "num": 228730,
+      "word": "鞠婧祎扮演嫦娥",
+      "onboard_time": 1726026199,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 228001,
@@ -433,6 +513,14 @@
       "onboard_time": 1725997273,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227727,
+      "num": 227727,
+      "word": "定风波杀青",
+      "onboard_time": 1726025840,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 226558,
@@ -483,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190637,
+      "num": 190637,
+      "word": "为什么年轻人有送礼焦虑",
+      "onboard_time": 1726019779,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190410,
       "num": 190410,
       "word": "樊振东精彩不止于此芭莎封面",
@@ -491,20 +587,28 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 190308,
-      "num": 190308,
-      "word": "为什么年轻人有送礼焦虑",
-      "onboard_time": 1726019779,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 189121,
       "num": 189121,
       "word": "小马宝莉卡",
       "onboard_time": 1726024099,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188866,
+      "num": 188866,
+      "word": "梦回爸爸去哪儿",
+      "onboard_time": 1726028362,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 183703,
+      "num": 183703,
+      "word": "王曼昱朱雨玲女单比赛",
+      "onboard_time": 1726027223,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 182698,
@@ -531,14 +635,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 180639,
-      "num": 180639,
-      "word": "连刘美含相亲都相不到正常的",
-      "onboard_time": 1726025419,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 178017,
       "num": 213009,
       "word": "上午种牙下午就能吃肉靠谱吗",
@@ -555,12 +651,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175025,
-      "num": 240425,
-      "word": "大叔开三轮拉巨蟒标本参会被调查",
-      "onboard_time": 1726023438,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 173170,
+      "num": 173170,
+      "word": "刘亦菲两部作品入围飞天奖",
+      "onboard_time": 1726027581,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 171968,
+      "num": 171968,
+      "word": "iPhone16",
+      "onboard_time": 1726022298,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 171482,
@@ -577,14 +681,6 @@
       "onboard_time": 1726025659,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 170417,
-      "num": 258190,
-      "word": "男子出狱用前女友照片网恋骗15万",
-      "onboard_time": 1726023859,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165404,
@@ -627,12 +723,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157520,
-      "num": 157520,
-      "word": "iPhone16",
-      "onboard_time": 1726022298,
+      "raw_hot": 161911,
+      "num": 161911,
+      "word": "一家五口在北京送外卖当事人发声",
+      "onboard_time": 1726025239,
       "rank": 40,
-      "category": "数码"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156658,
@@ -667,20 +763,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 150494,
-      "num": 150494,
-      "word": "定风波杀青",
-      "onboard_time": 1726025840,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147214,
       "num": 155872,
       "word": "Kid 躁郁症",
       "onboard_time": 1726014979,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144655,
+      "num": 144655,
+      "word": "金玟庭眉上刘海",
+      "onboard_time": 1726027701,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 143174,
@@ -705,6 +801,14 @@
       "onboard_time": 1725986896,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140324,
+      "num": 140324,
+      "word": "2024中国企业500强",
+      "onboard_time": 1726026081,
+      "rank": 43,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 138238,
@@ -737,6 +841,14 @@
       "onboard_time": 1725985337,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130688,
+      "num": 130688,
+      "word": "萧敬腾哭成了向佐",
+      "onboard_time": 1726028540,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 129527,
@@ -923,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104274,
+      "num": 370815,
+      "word": "年轻人从30岁开始身高会缩水",
+      "onboard_time": 1726027402,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104214,
       "num": 104214,
       "word": "赵露思说尝试不适合的一切东西",
@@ -964,7 +1084,7 @@
     },
     {
       "raw_hot": 101161,
-      "num": 101161,
+      "num": 464877,
       "word": "刘学义 疯批赛道",
       "onboard_time": 1726023259,
       "rank": 48,
@@ -1163,6 +1283,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 57974,
+      "num": 593845,
+      "word": "华为三折叠非凡见证官开箱",
+      "onboard_time": 1726026020,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 56417,
       "num": 62113,
       "word": "PS5Pro研发用时仅19个月",
@@ -1193,6 +1321,22 @@
       "onboard_time": 1725988514,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 45730,
+      "num": 573914,
+      "word": "上市公司被曝看属相提拔员工",
+      "onboard_time": 1726028302,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44200,
+      "num": 234185,
+      "word": "哈里斯的经济主张",
+      "onboard_time": 1726026980,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39744,
@@ -1355,8 +1499,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9270,
-      "num": 694879,
+      "raw_hot": 9503,
+      "num": 744920,
       "word": "万千气象看内蒙古",
       "onboard_time": 1725887060,
       "rank": 2,
