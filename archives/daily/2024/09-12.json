@@ -1,6 +1,6 @@
 {
   "startTime": 1726072022754,
-  "endTime": 1726079310614,
+  "endTime": 1726080109391,
   "band_list": [
     {
       "raw_hot": 911975,
@@ -459,8 +459,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24963,
-      "num": 31866,
+      "raw_hot": 27302,
+      "num": 55765,
       "word": "大学期间可以争取哪些合理收入",
       "onboard_time": 1726077913,
       "rank": 41,
@@ -473,6 +473,14 @@
       "onboard_time": 1726064964,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 22460,
+      "num": 28112,
+      "word": "小伙下160米天坑为隐居母子送货",
+      "onboard_time": 1726078453,
+      "rank": 44,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
