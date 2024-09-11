@@ -1,0 +1,410 @@
+{
+  "runTime": 1726059428232,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 825008,
+        "num": 1132001,
+        "word": "美国人借口拍照偷偷带走我国文物",
+        "onboard_time": 1726047560,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 647853,
+        "num": 647853,
+        "word": "孙颖莎vs金娜英",
+        "onboard_time": 1726055841,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 469639,
+        "num": 469639,
+        "word": "日本陷入寿司危机",
+        "onboard_time": 1726052542,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438046,
+        "num": 438046,
+        "word": "NewJeans直播",
+        "onboard_time": 1726049960,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435713,
+        "num": 435713,
+        "word": "大学生每个月生活费1500元够吗",
+        "onboard_time": 1726053561,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415192,
+        "num": 415192,
+        "word": "罗永浩道歉并点名头部直播间",
+        "onboard_time": 1726058480,
+        "rank": 5,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 414654,
+        "num": 414654,
+        "word": "国台办回应林依晨说我是成都人",
+        "onboard_time": 1726036161,
+        "rank": 6,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 344016,
+        "num": 344016,
+        "word": "蔡依林想烧掉大艺术家所有的帽子",
+        "onboard_time": 1726056442,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 299463,
+        "num": 299463,
+        "word": "苏州警方通报一持刀伤人事件",
+        "onboard_time": 1726050320,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266636,
+        "num": 266636,
+        "word": "孙颖莎3比0金娜英",
+        "onboard_time": 1726058362,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1749182,
+        "num": 264642,
+        "word": "男子被撞后20元私了颅内出血浑然不知",
+        "onboard_time": 1726057881,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 970757,
+        "num": 263738,
+        "word": "韩安冉宋浩然没领证",
+        "onboard_time": 1726055422,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 935476,
+        "num": 259991,
+        "word": "韩安冉 早知道就不这个时候生了",
+        "onboard_time": 1726048820,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 700966,
+        "num": 257215,
+        "word": "NewJeans被HYBE其他艺人团队排挤",
+        "onboard_time": 1726051400,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33131,
+        "num": 253350,
+        "word": "男子盗百万黄金后裹袜子里埋油箱",
+        "onboard_time": 1726059141,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44654,
+        "num": 251920,
+        "word": "悟空动捕演员殷凯谈纵横精神",
+        "onboard_time": 1726057942,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 582722,
+        "num": 248819,
+        "word": "月嫂凌晨2点给婴儿喂安眠药",
+        "onboard_time": 1726045580,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415942,
+        "num": 245968,
+        "word": "周扬青 今年已经36了",
+        "onboard_time": 1726058421,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198729,
+        "num": 243262,
+        "word": "乔妍工作室带头蛐蛐赵丽颖工作室",
+        "onboard_time": 1726058061,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198368,
+        "num": 242052,
+        "word": "选秀第一vocal终于上歌手了",
+        "onboard_time": 1726041861,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 500014,
+        "num": 239409,
+        "word": "鞠婧祎脏脏裤",
+        "onboard_time": 1726051582,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 352924,
+        "num": 235759,
+        "word": "葛晓倩怒怼张雨绮插足",
+        "onboard_time": 1726053561,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234428,
+        "num": 234428,
+        "word": "梁靖崑vs西蒙高茨",
+        "onboard_time": 1726055422,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208608,
+        "num": 208608,
+        "word": "女生为出片吊挂悬崖峭壁拍照",
+        "onboard_time": 1726052421,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200210,
+        "num": 200210,
+        "word": "wtt澳门冠军赛2024",
+        "onboard_time": 1726058362,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196549,
+        "num": 196549,
+        "word": "菜菜 男人的命也是命",
+        "onboard_time": 1726057102,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66304,
+        "num": 196506,
+        "word": "4分钟看人民军队淬火成钢",
+        "onboard_time": 1726045161,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196489,
+        "num": 196489,
+        "word": "男童火锅店误食蟑螂药致心肌损害",
+        "onboard_time": 1726056022,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189550,
+        "num": 189550,
+        "word": "银行回应取亡夫存款要本人到场",
+        "onboard_time": 1726046660,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169401,
+        "num": 180979,
+        "word": "时代少年团变身天命人西行",
+        "onboard_time": 1726058480,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246608,
+        "num": 177640,
+        "word": "如果是儿子就该松手刹了",
+        "onboard_time": 1726053921,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174180,
+        "num": 174180,
+        "word": "专家称00后4点59下班没错是别人错了",
+        "onboard_time": 1726028905,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173010,
+        "num": 173010,
+        "word": "刘亦菲王鹤棣 平番",
+        "onboard_time": 1726037420,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153200,
+        "num": 153200,
+        "word": "微信客服回应提现手续费",
+        "onboard_time": 1726041861,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 145676,
+        "num": 145676,
+        "word": "NewJeans瞒着ador开发布会",
+        "onboard_time": 1726056442,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143100,
+        "num": 143100,
+        "word": "男子被醉汉进家殴打后还击被判刑",
+        "onboard_time": 1726056320,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139407,
+        "num": 139407,
+        "word": "赵露思 这条小鱼在乎",
+        "onboard_time": 1726050142,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135826,
+        "num": 135826,
+        "word": "平江路",
+        "onboard_time": 1726045941,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 135443,
+        "num": 135443,
+        "word": "王曼昱朱雨玲老友致意",
+        "onboard_time": 1726054160,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108951,
+        "num": 124733,
+        "word": "直播间拆盲盒玩具成本仅三四毛钱",
+        "onboard_time": 1726056801,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124461,
+        "num": 124461,
+        "word": "大连中山广场鸽子近期频繁死亡",
+        "onboard_time": 1726050080,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123347,
+        "num": 123347,
+        "word": "林生斌起诉导演刘信达二审维持原判",
+        "onboard_time": 1726046002,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119063,
+        "num": 119063,
+        "word": "网红良田的田进行正颌手术",
+        "onboard_time": 1726052181,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118531,
+        "num": 118531,
+        "word": "嫁没嫁对看婆婆态度就知道",
+        "onboard_time": 1726059262,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115906,
+        "num": 115906,
+        "word": "库里王者联动皮肤首曝",
+        "onboard_time": 1726059080,
+        "rank": 44,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 113768,
+        "num": 113768,
+        "word": "侯明昊脱了",
+        "onboard_time": 1726046241,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110896,
+        "num": 110896,
+        "word": "封神质子",
+        "onboard_time": 1726042042,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108265,
+        "num": 108265,
+        "word": "菜菜淘汰",
+        "onboard_time": 1726057520,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106756,
+        "num": 106756,
+        "word": "梁靖崑3比2西蒙高兹",
+        "onboard_time": 1726057161,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106708,
+        "num": 106708,
+        "word": "京城大师赛",
+        "onboard_time": 1726058181,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向上海合作组织妇女论坛致贺信#"
+    }
+  }
+}
