@@ -1,0 +1,410 @@
+{
+  "runTime": 1726152013997,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2125811,
+        "num": 2125811,
+        "word": "月销5000万元的香港月饼香港买不到",
+        "onboard_time": 1726147938,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1112995,
+        "num": 1112995,
+        "word": "她是第一个挺身而出的人",
+        "onboard_time": 1726126520,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 7766,
+        "num": 1077732,
+        "word": "人民军队淬火向前",
+        "onboard_time": 1726081931,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1605948,
+        "num": 1070642,
+        "word": "山东一高校突发男生坠楼事件",
+        "onboard_time": 1726143379,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1044817,
+        "num": 1044817,
+        "word": "一个28岁女孩假装上班的两年",
+        "onboard_time": 1726141759,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 977963,
+        "num": 977963,
+        "word": "天津机场称未收到无人机飞行报备",
+        "onboard_time": 1726148781,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710461,
+        "num": 710461,
+        "word": "王楚钦好猛",
+        "onboard_time": 1726144100,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 537436,
+        "num": 606066,
+        "word": "杨幂生日发博",
+        "onboard_time": 1726141701,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428183,
+        "num": 592525,
+        "word": "胡歌刘涛琅琊榜售后",
+        "onboard_time": 1726149502,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238751,
+        "num": 589241,
+        "word": "律师解读天津机场无人机事件",
+        "onboard_time": 1726124780,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586729,
+        "num": 586729,
+        "word": "24岁生下唐氏综合征患儿母亲发声",
+        "onboard_time": 1726122141,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537134,
+        "num": 537134,
+        "word": "HPV疫苗卖不动了",
+        "onboard_time": 1726119920,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 525348,
+        "num": 525348,
+        "word": "剧本杀为什么没人玩了",
+        "onboard_time": 1726140560,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466448,
+        "num": 466448,
+        "word": "葛晓倩说于适没有发声的原因",
+        "onboard_time": 1726137979,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422804,
+        "num": 422804,
+        "word": "王俊凯 3句以上就侵权啦",
+        "onboard_time": 1726146560,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 376053,
+        "num": 376053,
+        "word": "肖战直播",
+        "onboard_time": 1726143440,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340004,
+        "num": 340004,
+        "word": "傅首尔谈最痛苦的婚姻的样子",
+        "onboard_time": 1726143139,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 324973,
+        "num": 324973,
+        "word": "殷桃演技",
+        "onboard_time": 1726149560,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301062,
+        "num": 301062,
+        "word": "天津机场旅客称黑飞无人机多次出现",
+        "onboard_time": 1726149379,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256673,
+        "num": 256673,
+        "word": "张凌赫的腿长具象化了",
+        "onboard_time": 1726147819,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 903749,
+        "num": 243950,
+        "word": "徐艺洋真的不会打死黄子韬吗",
+        "onboard_time": 1726134140,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 825785,
+        "num": 238466,
+        "word": "女生眼角掉出黑色异物竟是74根眼睫毛",
+        "onboard_time": 1726128141,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257728,
+        "num": 236030,
+        "word": "黑神话悟空总收入近65亿",
+        "onboard_time": 1726147219,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 230324,
+        "num": 230324,
+        "word": "刚开学非全研究生已经想退学了",
+        "onboard_time": 1726148720,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 224956,
+        "num": 224956,
+        "word": "疑郑州一名校教职工吃鲜肉学生吃冻肉",
+        "onboard_time": 1726140619,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224874,
+        "num": 224874,
+        "word": "教育局回应家长做局偷拍教师收礼物",
+        "onboard_time": 1726151359,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45142,
+        "num": 217918,
+        "word": "院人的新院服是冲锋衣",
+        "onboard_time": 1726148781,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212637,
+        "num": 212637,
+        "word": "梦回何以琛",
+        "onboard_time": 1726150581,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125413,
+        "num": 211436,
+        "word": "王楚钦3比0战胜徐瑛彬",
+        "onboard_time": 1726144820,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211098,
+        "num": 211098,
+        "word": "库里 离开西安",
+        "onboard_time": 1726147761,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40395,
+        "num": 201670,
+        "word": "鸿星尔克大秀请悟空开场",
+        "onboard_time": 1726150282,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 45784,
+        "num": 197996,
+        "word": "男子两段恋爱被骗近10万怀疑是一人",
+        "onboard_time": 1726150100,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33947,
+        "num": 197825,
+        "word": "鸿星尔克让华夏英雄闯进了时尚界",
+        "onboard_time": 1726147280,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197771,
+        "num": 197771,
+        "word": "王楚钦采访",
+        "onboard_time": 1726148720,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196146,
+        "num": 196146,
+        "word": "瑞士选美小姐遭丈夫残忍肢解",
+        "onboard_time": 1726144700,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186319,
+        "num": 186319,
+        "word": "殷世航回应暗恋韩安冉",
+        "onboard_time": 1726136179,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 177486,
+        "num": 177486,
+        "word": "王一博纪录片国内保险公司不敢接",
+        "onboard_time": 1726135220,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167728,
+        "num": 167728,
+        "word": "打顺风车后连续7天被免密支付21笔",
+        "onboard_time": 1726146200,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167451,
+        "num": 167451,
+        "word": "丈夫致妻子死亡后服药自尽",
+        "onboard_time": 1726130241,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157552,
+        "num": 157552,
+        "word": "Scout经纪公司喊话EDG",
+        "onboard_time": 1726145720,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151036,
+        "num": 151036,
+        "word": "DK战胜T1",
+        "onboard_time": 1726146860,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100817,
+        "num": 143361,
+        "word": "小伙不带手机134天游遍半个中国",
+        "onboard_time": 1726149920,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143292,
+        "num": 143292,
+        "word": "担心KT",
+        "onboard_time": 1726150701,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141265,
+        "num": 141265,
+        "word": "LNG你说句话",
+        "onboard_time": 1726138340,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136344,
+        "num": 136344,
+        "word": "天津机场",
+        "onboard_time": 1726102821,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132023,
+        "num": 132023,
+        "word": "王俊凯中秋节回重庆路演",
+        "onboard_time": 1726151781,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123230,
+        "num": 123230,
+        "word": "aespa或将10月21日回归",
+        "onboard_time": 1726150460,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 123004,
+        "num": 123004,
+        "word": "百鸟朝凤下跪导演 里斯本丸沉没",
+        "onboard_time": 1726131320,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118090,
+        "num": 122789,
+        "word": "398元烫发套餐结账成2477元",
+        "onboard_time": 1726149800,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122766,
+        "num": 122766,
+        "word": "人到中年有多少存款才有安全感",
+        "onboard_time": 1726129340,
+        "rank": 49,
+        "category": "社会议题"
+      }
+    ],
+    "hotgov": {
+      "word": "#黄河很美将来会更美#"
+    }
+  }
+}
