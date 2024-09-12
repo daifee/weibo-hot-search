@@ -1,6 +1,6 @@
 {
   "startTime": 1726158397527,
-  "endTime": 1726168622256,
+  "endTime": 1726169740711,
   "band_list": [
     {
       "raw_hot": 1526950,
@@ -299,6 +299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90115,
+      "num": 47338,
+      "word": "殷世航说韩安冉把孩子带好比什么都强",
+      "onboard_time": 1726163532,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 88940,
       "num": 88940,
       "word": "库里在成都吃火锅打麻将",
@@ -377,14 +385,6 @@
       "onboard_time": 1726138340,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 76440,
-      "num": 47338,
-      "word": "殷世航说韩安冉把孩子带好比什么都强",
-      "onboard_time": 1726163532,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 73878,
@@ -491,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31110,
+      "num": 47342,
+      "word": "殡葬专业新生表示不会害怕",
+      "onboard_time": 1726167492,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30116,
       "num": 146504,
       "word": "碎花裙女生和拿勺大厨都将被奖励",
@@ -531,6 +539,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 23624,
+      "num": 30387,
+      "word": "服美役",
+      "onboard_time": 1726168393,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 23538,
+      "num": 24949,
+      "word": "猫 没找你收费就不错了",
+      "onboard_time": 1726167912,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 23165,
       "num": 31897,
       "word": "持刀男子与受伤女子疑因拍照引发纠纷",
@@ -539,26 +563,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18967,
-      "num": 24949,
-      "word": "猫 没找你收费就不错了",
-      "onboard_time": 1726167912,
-      "rank": 45,
-      "category": "幽默"
+      "raw_hot": 15550,
+      "num": 22425,
+      "word": "周杰伦深圳演唱会",
+      "onboard_time": 1726167073,
+      "rank": 49,
+      "category": "演出"
     },
     {
-      "raw_hot": 18268,
-      "num": 25029,
-      "word": "服美役",
-      "onboard_time": 1726168393,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 9647,
-      "num": 47342,
-      "word": "殡葬专业新生表示不会害怕",
-      "onboard_time": 1726167492,
+      "raw_hot": 10422,
+      "num": 42958,
+      "word": "你今年在哪里赏月",
+      "onboard_time": 1726169351,
       "rank": 9,
       "category": "社会新闻"
     },

@@ -1,0 +1,410 @@
+{
+  "runTime": 1726169740711,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 126535,
+        "num": 126535,
+        "word": "男子用大方遮掩心虚被司机一眼识破",
+        "onboard_time": 1726159157,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95704,
+        "num": 95704,
+        "word": "她是第一个挺身而出的人",
+        "onboard_time": 1726126520,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 3120,
+        "num": 70216,
+        "word": "文化中国行赏青铜国宝之美",
+        "onboard_time": 1726145660,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67513,
+        "num": 67513,
+        "word": "月销5000万元的香港月饼香港买不到",
+        "onboard_time": 1726147938,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63791,
+        "num": 63791,
+        "word": "剧本杀为什么没人玩了",
+        "onboard_time": 1726140560,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61104,
+        "num": 61104,
+        "word": "一个28岁女孩假装上班的两年",
+        "onboard_time": 1726141759,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50724,
+        "num": 50724,
+        "word": "杨幂生日发博",
+        "onboard_time": 1726141701,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44542,
+        "num": 44542,
+        "word": "24岁生下唐氏综合征患儿母亲发声",
+        "onboard_time": 1726122141,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27048,
+        "num": 43434,
+        "word": "傅首尔谈最痛苦的婚姻的样子",
+        "onboard_time": 1726143139,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 10422,
+        "num": 42958,
+        "word": "你今年在哪里赏月",
+        "onboard_time": 1726169351,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90115,
+        "num": 42954,
+        "word": "殷世航说韩安冉把孩子带好比什么都强",
+        "onboard_time": 1726163532,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 42949,
+        "num": 42949,
+        "word": "LNG回应Scout无法参加S14",
+        "onboard_time": 1726152140,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 34856,
+        "num": 34856,
+        "word": "黑神话悟空总收入近65亿",
+        "onboard_time": 1726147219,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 33325,
+        "num": 33325,
+        "word": "航拍洪水中的南宁",
+        "onboard_time": 1726164852,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33084,
+        "num": 33084,
+        "word": "HPV疫苗卖不动了",
+        "onboard_time": 1726119920,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 31110,
+        "num": 31110,
+        "word": "殡葬专业新生表示不会害怕",
+        "onboard_time": 1726167492,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31036,
+        "num": 31036,
+        "word": "葛晓倩说于适没有发声的原因",
+        "onboard_time": 1726137979,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23624,
+        "num": 30387,
+        "word": "服美役",
+        "onboard_time": 1726168393,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23575,
+        "num": 30236,
+        "word": "王俊凯 3句以上就侵权啦",
+        "onboard_time": 1726146560,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22771,
+        "num": 29194,
+        "word": "肖战直播",
+        "onboard_time": 1726143440,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56478,
+        "num": 28293,
+        "word": "女生眼角掉出黑色异物竟是74根眼睫毛",
+        "onboard_time": 1726128141,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42107,
+        "num": 27345,
+        "word": "徐艺洋真的不会打死黄子韬吗",
+        "onboard_time": 1726134140,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27235,
+        "num": 27235,
+        "word": "打顺风车后连续7天被免密支付21笔",
+        "onboard_time": 1726146200,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27203,
+        "num": 27203,
+        "word": "Scout经纪公司喊话EDG",
+        "onboard_time": 1726145720,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25756,
+        "num": 25756,
+        "word": "LNG你说句话",
+        "onboard_time": 1726138340,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25463,
+        "num": 25463,
+        "word": "瑞士选美小姐遭丈夫残忍肢解",
+        "onboard_time": 1726144700,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22011,
+        "num": 25122,
+        "word": "JENNIE美版芭莎十月刊封面",
+        "onboard_time": 1726153702,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21928,
+        "num": 24596,
+        "word": "易烊千玺杂志",
+        "onboard_time": 1726148659,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20264,
+        "num": 24120,
+        "word": "徐冬冬尹子维是怎么找到这个赛道的",
+        "onboard_time": 1726137378,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19315,
+        "num": 23663,
+        "word": "陆虎陈曌旭丽江举办婚礼",
+        "onboard_time": 1726158556,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23538,
+        "num": 23538,
+        "word": "猫 没找你收费就不错了",
+        "onboard_time": 1726167912,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23240,
+        "num": 23240,
+        "word": "第一次见把军训服穿的这么带劲的人",
+        "onboard_time": 1726157777,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22763,
+        "num": 22763,
+        "word": "持刀男子与受伤女子疑因拍照引发纠纷",
+        "onboard_time": 1726165512,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22678,
+        "num": 22678,
+        "word": "王楚钦vs徐瑛彬",
+        "onboard_time": 1726140079,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22444,
+        "num": 22444,
+        "word": "吗喽竟然是正儿八经的粤语",
+        "onboard_time": 1726165331,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21514,
+        "num": 22443,
+        "word": "王楚钦好猛",
+        "onboard_time": 1726144100,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21279,
+        "num": 22443,
+        "word": "原来果冻是这样开的",
+        "onboard_time": 1726154900,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20809,
+        "num": 22441,
+        "word": "库里在成都吃火锅打麻将",
+        "onboard_time": 1726157118,
+        "rank": 37,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 20680,
+        "num": 22439,
+        "word": "疑郑州一名校教职工吃鲜肉学生吃冻肉",
+        "onboard_time": 1726140619,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20510,
+        "num": 22439,
+        "word": "库里 离开西安",
+        "onboard_time": 1726147761,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19920,
+        "num": 22438,
+        "word": "哈啰回应乘客打车后被免密扣款21笔",
+        "onboard_time": 1726162994,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19158,
+        "num": 22435,
+        "word": "父亲实名羡慕女儿考上985",
+        "onboard_time": 1726153940,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18538,
+        "num": 22435,
+        "word": "碎花裙女生和拿勺大厨都将被奖励",
+        "onboard_time": 1726161134,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18413,
+        "num": 22432,
+        "word": "当猫咪想让我男朋友抱它时",
+        "onboard_time": 1726162874,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17833,
+        "num": 22432,
+        "word": "刚开学非全研究生已经想退学了",
+        "onboard_time": 1726148720,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 17372,
+        "num": 22429,
+        "word": "不爱出远门的年轻人在家门口微度假",
+        "onboard_time": 1726158377,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17189,
+        "num": 22429,
+        "word": "第一视角体验火箭垂直起降",
+        "onboard_time": 1726152020,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16771,
+        "num": 22427,
+        "word": "张家诚拍的蒋奇明",
+        "onboard_time": 1726160114,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16599,
+        "num": 22425,
+        "word": "水瓶座比看上去更慢热",
+        "onboard_time": 1726162213,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15550,
+        "num": 22425,
+        "word": "周杰伦深圳演唱会",
+        "onboard_time": 1726167073,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在甘肃兰州考察调研#"
+    }
+  }
+}

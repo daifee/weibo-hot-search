@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726168622256,
+  "endTime": 1726169740711,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -13195,6 +13195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90115,
+      "num": 47338,
+      "word": "殷世航说韩安冉把孩子带好比什么都强",
+      "onboard_time": 1726163532,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 90002,
       "num": 299450,
       "word": "小孩子看幼稚成年人看刚刚好",
@@ -13601,14 +13609,6 @@
       "onboard_time": 1725930080,
       "rank": 20,
       "category": "数码"
-    },
-    {
-      "raw_hot": 76440,
-      "num": 47338,
-      "word": "殷世航说韩安冉把孩子带好比什么都强",
-      "onboard_time": 1726163532,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 75147,
@@ -15259,6 +15259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31110,
+      "num": 47342,
+      "word": "殡葬专业新生表示不会害怕",
+      "onboard_time": 1726167492,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30979,
       "num": 361887,
       "word": "81岁残疾教师助数千户家庭脱离贫困",
@@ -15651,12 +15659,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 23624,
+      "num": 30387,
+      "word": "服美役",
+      "onboard_time": 1726168393,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 23601,
       "num": 46487,
       "word": "在郑州偶遇周深",
       "onboard_time": 1726093213,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23538,
+      "num": 24949,
+      "word": "猫 没找你收费就不错了",
+      "onboard_time": 1726167912,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 23213,
@@ -15875,14 +15899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18967,
-      "num": 24949,
-      "word": "猫 没找你收费就不错了",
-      "onboard_time": 1726167912,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 18644,
       "num": 315369,
       "word": "美英情报负责人史无前例一起露面",
@@ -15897,14 +15913,6 @@
       "onboard_time": 1725737113,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 18268,
-      "num": 25029,
-      "word": "服美役",
-      "onboard_time": 1726168393,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 18266,
@@ -15961,6 +15969,14 @@
       "onboard_time": 1726001000,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15550,
+      "num": 22425,
+      "word": "周杰伦深圳演唱会",
+      "onboard_time": 1726167073,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 15077,
@@ -16091,6 +16107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 10422,
+      "num": 42958,
+      "word": "你今年在哪里赏月",
+      "onboard_time": 1726169351,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10338,
       "num": 783022,
       "word": "在边境小村庄遇见真实世外桃源",
@@ -16120,14 +16144,6 @@
       "word": "爸爸花一周时间给女儿绣书皮",
       "onboard_time": 1726082591,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9647,
-      "num": 47342,
-      "word": "殡葬专业新生表示不会害怕",
-      "onboard_time": 1726167492,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
