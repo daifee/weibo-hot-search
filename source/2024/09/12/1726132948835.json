@@ -1,0 +1,410 @@
+{
+  "runTime": 1726132948835,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1832552,
+        "num": 1832552,
+        "word": "她是第一个挺身而出的人",
+        "onboard_time": 1726126520,
+        "rank": 0,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1570558,
+        "num": 1570558,
+        "word": "林诗栋vs张本智和",
+        "onboard_time": 1726128859,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6758,
+        "num": 1219410,
+        "word": "万千气象看内蒙古",
+        "onboard_time": 1725887060,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1108912,
+        "num": 1108912,
+        "word": "淘宝微信支付",
+        "onboard_time": 1726127961,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 920760,
+        "num": 920760,
+        "word": "24岁生下唐氏综合征患儿母亲发声",
+        "onboard_time": 1726122141,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 807513,
+        "num": 807513,
+        "word": "百鸟朝凤下跪导演 里斯本丸沉没",
+        "onboard_time": 1726131320,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 720846,
+        "num": 720846,
+        "word": "HPV疫苗卖不动了",
+        "onboard_time": 1726119920,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 570954,
+        "num": 570954,
+        "word": "金晨 止鼾器",
+        "onboard_time": 1726129460,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455561,
+        "num": 566604,
+        "word": "这三种照片千万不要随便晒",
+        "onboard_time": 1726122141,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28947,
+        "num": 563636,
+        "word": "资深机长称黑飞无人机当心担刑责",
+        "onboard_time": 1726132039,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1330294,
+        "num": 563461,
+        "word": "丈夫致妻子死亡后服药自尽",
+        "onboard_time": 1726130241,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563247,
+        "num": 563247,
+        "word": "林诗栋首胜张本智和",
+        "onboard_time": 1726131619,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 438864,
+        "num": 438864,
+        "word": "小鱼 不是本科一批是笨的一批",
+        "onboard_time": 1726127059,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385569,
+        "num": 385569,
+        "word": "HYBE拒绝NewJeans要求",
+        "onboard_time": 1726126099,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 23639,
+        "num": 373304,
+        "word": "6人非法捕猎近300只画眉鸟获刑",
+        "onboard_time": 1726131920,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364070,
+        "num": 364070,
+        "word": "0713出发陆虎婚礼",
+        "onboard_time": 1726120341,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331779,
+        "num": 331779,
+        "word": "林高远止步澳门赛16强",
+        "onboard_time": 1726125379,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282798,
+        "num": 282798,
+        "word": "刘诗诗为杨幂庆祝生日",
+        "onboard_time": 1726126099,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252424,
+        "num": 252424,
+        "word": "有的餐馆脏得外卖骑手都不愿意取餐",
+        "onboard_time": 1726123041,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233967,
+        "num": 233967,
+        "word": "虞书欣 双轨",
+        "onboard_time": 1726115482,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23690,
+        "num": 232908,
+        "word": "魏建军称造车品质是第一位",
+        "onboard_time": 1726131021,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1485808,
+        "num": 229484,
+        "word": "女生眼角掉出黑色异物竟是74根眼睫毛",
+        "onboard_time": 1726128141,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391863,
+        "num": 225203,
+        "word": "公园回应男厕小便池半露天式",
+        "onboard_time": 1726122500,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239990,
+        "num": 219118,
+        "word": "人到中年有多少存款才有安全感",
+        "onboard_time": 1726129340,
+        "rank": 23,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 219108,
+        "num": 219108,
+        "word": "碎花裙女生拼尽全力敲打行凶者",
+        "onboard_time": 1726112961,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207862,
+        "num": 207862,
+        "word": "韩安冉说流量不好时挺爱殷世航的",
+        "onboard_time": 1726124539,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 202083,
+        "num": 202083,
+        "word": "T1对战DK",
+        "onboard_time": 1726131141,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188659,
+        "num": 188659,
+        "word": "诗幂",
+        "onboard_time": 1726128859,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171957,
+        "num": 171957,
+        "word": "金晨周雨彤邓恩熙分床这段",
+        "onboard_time": 1726131501,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167829,
+        "num": 167829,
+        "word": "镇政府回应丈夫失手杀妻后自尽",
+        "onboard_time": 1726128500,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154874,
+        "num": 154874,
+        "word": "王鹤棣 分寸感",
+        "onboard_time": 1726119202,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154018,
+        "num": 154018,
+        "word": "官方通报河南一中学多人用餐后送医",
+        "onboard_time": 1726129519,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153837,
+        "num": 153837,
+        "word": "陆虎陈曌旭将在丽江举办婚礼",
+        "onboard_time": 1726111700,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149879,
+        "num": 149879,
+        "word": "六小龄童谈黑神话悟空热",
+        "onboard_time": 1726118244,
+        "rank": 33,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 148860,
+        "num": 148860,
+        "word": "碎花裙小姐姐",
+        "onboard_time": 1726132161,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135633,
+        "num": 135633,
+        "word": "宁德时代曾毓群称与李彦宏同名还同龄",
+        "onboard_time": 1726128379,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 130019,
+        "num": 130019,
+        "word": "徐艺洋晒照庆生",
+        "onboard_time": 1726121360,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127644,
+        "num": 127644,
+        "word": "女生吃小火锅瞥见货架摆一排增香汁",
+        "onboard_time": 1726127600,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123173,
+        "num": 123173,
+        "word": "解放军1秒决断保住遇险直升机",
+        "onboard_time": 1726125680,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109768,
+        "num": 123168,
+        "word": "广西军训雨中跪滑",
+        "onboard_time": 1726131320,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 108358,
+        "num": 123164,
+        "word": "女子净身出户每天把1岁儿子锁家里",
+        "onboard_time": 1726095255,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105847,
+        "num": 123149,
+        "word": "里斯本丸沉没 排片",
+        "onboard_time": 1726129880,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101598,
+        "num": 123135,
+        "word": "宝岛中央山脉与国旗军旗同框了",
+        "onboard_time": 1726131261,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99560,
+        "num": 123135,
+        "word": "上海警方调查女代驾凌晨遭男子殴打",
+        "onboard_time": 1726129640,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99140,
+        "num": 123118,
+        "word": "修冰箱4.8元零件被收1610元",
+        "onboard_time": 1726114700,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98550,
+        "num": 123116,
+        "word": "石头拆摩托",
+        "onboard_time": 1726131261,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95039,
+        "num": 123105,
+        "word": "WTT",
+        "onboard_time": 1726127180,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95018,
+        "num": 123088,
+        "word": "BE天花板级别的爱情故事",
+        "onboard_time": 1726128741,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94423,
+        "num": 123082,
+        "word": "小编工资拿的不容易",
+        "onboard_time": 1726126099,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88481,
+        "num": 123073,
+        "word": "何炅 自卑的人该怎样治愈自己",
+        "onboard_time": 1726118302,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在甘肃兰州市考察调研#"
+    }
+  }
+}
