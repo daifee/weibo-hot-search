@@ -1,6 +1,6 @@
 {
   "startTime": 1726072022754,
-  "endTime": 1726137640806,
+  "endTime": 1726139888315,
   "band_list": [
     {
       "raw_hot": 2496876,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1163537,
+      "num": 331748,
+      "word": "葛晓倩说于适没有发声的原因",
+      "onboard_time": 1726137979,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1129152,
       "num": 1162595,
       "word": "加沙的鞋成了奢侈品",
@@ -152,6 +160,14 @@
       "word": "丈夫因家暴坐牢出狱后仍威胁妻子",
       "onboard_time": 1726105700,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 914226,
+      "num": 914226,
+      "word": "上海出现一只在逃吗喽",
+      "onboard_time": 1726135519,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -323,6 +339,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 666737,
+      "num": 419661,
+      "word": "殷世航回应暗恋韩安冉",
+      "onboard_time": 1726136179,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 662417,
       "num": 662417,
       "word": "修冰箱4.8元零件被收1610元",
@@ -401,6 +425,14 @@
       "onboard_time": 1726108279,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 580968,
+      "num": 326650,
+      "word": "泰国买的香奈儿回国后发现破损",
+      "onboard_time": 1726136900,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 576503,
@@ -489,14 +521,6 @@
       "onboard_time": 1726107680,
       "rank": 17,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 473730,
-      "num": 473730,
-      "word": "上海出现一只在逃吗喽",
-      "onboard_time": 1726135519,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 473123,
@@ -603,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 419661,
-      "num": 419661,
-      "word": "殷世航回应暗恋韩安冉",
-      "onboard_time": 1726136179,
-      "rank": 26,
-      "category": "网红"
-    },
-    {
       "raw_hot": 409241,
       "num": 291002,
       "word": "殷世航调侃韩安冉",
@@ -625,6 +641,14 @@
       "onboard_time": 1726123041,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406597,
+      "num": 406597,
+      "word": "王一博纪录片国内保险公司不敢接",
+      "onboard_time": 1726135220,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 402961,
@@ -715,14 +739,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 341922,
-      "num": 341922,
-      "word": "王一博纪录片国内保险公司不敢接",
-      "onboard_time": 1726135220,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 341142,
       "num": 341142,
       "word": "陈小纭工作室回应",
@@ -760,14 +776,6 @@
       "word": "女子被家暴失明母亲希望判男方无期",
       "onboard_time": 1726056381,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 302133,
-      "num": 291557,
-      "word": "泰国买的香奈儿回国后发现破损",
-      "onboard_time": 1726136900,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1019,6 +1027,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220458,
+      "num": 220458,
+      "word": "LNG你说句话",
+      "onboard_time": 1726138340,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 219783,
+      "num": 232683,
+      "word": "徐冬冬尹子维是怎么找到这个赛道的",
+      "onboard_time": 1726137378,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217801,
       "num": 217801,
       "word": "女子煲汤放酒太多变炼丹现场",
@@ -1203,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186080,
+      "num": 186080,
+      "word": "原来坚持打乒乓有这么多好处",
+      "onboard_time": 1726137080,
+      "rank": 38,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 185475,
       "num": 185475,
       "word": "伊万是否下课很快有结果",
@@ -1347,6 +1379,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 169489,
+      "num": 169489,
+      "word": "月饼礼盒",
+      "onboard_time": 1726138340,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 169296,
+      "num": 229541,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1726136239,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 168759,
       "num": 168759,
       "word": "乙骨苏醒",
@@ -1411,14 +1459,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 160483,
-      "num": 160483,
-      "word": "周杰伦演唱会",
-      "onboard_time": 1726136239,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 156773,
       "num": 156773,
       "word": "广西军训雨中跪滑",
@@ -1441,6 +1481,14 @@
       "onboard_time": 1726069701,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155344,
+      "num": 228432,
+      "word": "歼20雨中起降首次公开",
+      "onboard_time": 1726138399,
+      "rank": 28,
+      "category": "军事"
     },
     {
       "raw_hot": 154182,
@@ -1587,6 +1635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 147159,
+      "num": 373330,
+      "word": "公司强制肝功能不全员工休病假",
+      "onboard_time": 1726134860,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146905,
       "num": 146905,
       "word": "INFP一定要有输出型爱好",
@@ -1643,14 +1699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140199,
-      "num": 373330,
-      "word": "公司强制肝功能不全员工休病假",
-      "onboard_time": 1726134860,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139359,
       "num": 139359,
       "word": "时尚芭莎十月刊封面",
@@ -1681,14 +1729,6 @@
       "onboard_time": 1726121001,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137436,
-      "num": 137436,
-      "word": "原来坚持打乒乓有这么多好处",
-      "onboard_time": 1726137080,
-      "rank": 38,
-      "category": "运动健身"
     },
     {
       "raw_hot": 136370,
@@ -1809,14 +1849,6 @@
       "onboard_time": 1726126460,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126561,
-      "num": 126561,
-      "word": "徐冬冬尹子维是怎么找到这个赛道的",
-      "onboard_time": 1726137378,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 126484,
@@ -2011,6 +2043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 107925,
+      "num": 107925,
+      "word": "藏海花",
+      "onboard_time": 1726139420,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107865,
       "num": 384002,
       "word": "还原取亡父存款需本人解锁事发过程",
@@ -2035,12 +2075,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106124,
+      "num": 106124,
+      "word": "令人心动的offer",
+      "onboard_time": 1726139719,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105783,
       "num": 105783,
       "word": "年轻人被困在社会时钟里",
       "onboard_time": 1726123160,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103933,
+      "num": 103933,
+      "word": "WTT赛程",
+      "onboard_time": 1726139540,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 102368,
@@ -2275,6 +2331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72676,
+      "num": 337921,
+      "word": "孙千李卿 嗑到了",
+      "onboard_time": 1726138340,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 71743,
       "num": 353733,
       "word": "无人机黑飞危害有多大",
@@ -2371,6 +2435,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 55986,
+      "num": 339132,
+      "word": "击退行凶者卤菜店长勺哥发声",
+      "onboard_time": 1726138818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52222,
       "num": 340064,
       "word": "生出有缺陷的宝宝是运气不好吗",
@@ -2435,12 +2507,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 39767,
+      "num": 320676,
+      "word": "如何看待网络小说可代替毕业论文",
+      "onboard_time": 1726138699,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38204,
       "num": 1166835,
       "word": "淬火强军新征程",
       "onboard_time": 1726110502,
       "rank": 2,
       "category": "军事"
+    },
+    {
+      "raw_hot": 37371,
+      "num": 232309,
+      "word": "出租房成水帘洞姑娘裹毯子过夜",
+      "onboard_time": 1726139298,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36665,
@@ -2563,6 +2651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22878,
+      "num": 228189,
+      "word": "大学各专业就业指南",
+      "onboard_time": 1726139180,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 22794,
       "num": 520660,
       "word": "高质量发展中国行",
@@ -2603,6 +2699,14 @@
       "category": "国外时政,财经"
     },
     {
+      "raw_hot": 14084,
+      "num": 148136,
+      "word": "朱星杰户外纵横冲锋衣",
+      "onboard_time": 1726139599,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 13451,
       "num": 34657,
       "word": "人民军队淬火向前",
@@ -2625,6 +2729,14 @@
       "onboard_time": 1726065262,
       "rank": 2,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 10397,
+      "num": 139920,
+      "word": "神秘东方力量在伦敦人传人",
+      "onboard_time": 1726139599,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 10078,

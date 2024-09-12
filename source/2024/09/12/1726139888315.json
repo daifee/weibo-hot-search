@@ -1,0 +1,410 @@
+{
+  "runTime": 1726139888315,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1673455,
+        "num": 1673455,
+        "word": "她是第一个挺身而出的人",
+        "onboard_time": 1726126520,
+        "rank": 0,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 914226,
+        "num": 914226,
+        "word": "上海出现一只在逃吗喽",
+        "onboard_time": 1726135519,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6573,
+        "num": 687924,
+        "word": "万千气象看内蒙古",
+        "onboard_time": 1725887060,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631523,
+        "num": 631523,
+        "word": "24岁生下唐氏综合征患儿母亲发声",
+        "onboard_time": 1726122141,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583139,
+        "num": 583139,
+        "word": "Scout可能无法参加S14",
+        "onboard_time": 1726136779,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 514241,
+        "num": 514241,
+        "word": "HPV疫苗卖不动了",
+        "onboard_time": 1726119920,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 406597,
+        "num": 406597,
+        "word": "王一博纪录片国内保险公司不敢接",
+        "onboard_time": 1726135220,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346399,
+        "num": 346399,
+        "word": "这三种照片千万不要随便晒",
+        "onboard_time": 1726122141,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342430,
+        "num": 342430,
+        "word": "百鸟朝凤下跪导演 里斯本丸沉没",
+        "onboard_time": 1726131320,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55986,
+        "num": 339132,
+        "word": "击退行凶者卤菜店长勺哥发声",
+        "onboard_time": 1726138818,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72676,
+        "num": 337921,
+        "word": "孙千李卿 嗑到了",
+        "onboard_time": 1726138340,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1163537,
+        "num": 331748,
+        "word": "葛晓倩说于适没有发声的原因",
+        "onboard_time": 1726137979,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 666737,
+        "num": 328573,
+        "word": "殷世航回应暗恋韩安冉",
+        "onboard_time": 1726136179,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 580968,
+        "num": 326650,
+        "word": "泰国买的香奈儿回国后发现破损",
+        "onboard_time": 1726136900,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39767,
+        "num": 320676,
+        "word": "如何看待网络小说可代替毕业论文",
+        "onboard_time": 1726138699,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319890,
+        "num": 319890,
+        "word": "杨幂蜜蜂耳环",
+        "onboard_time": 1726133779,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233485,
+        "num": 233485,
+        "word": "0713出发陆虎婚礼",
+        "onboard_time": 1726120341,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224639,
+        "num": 233262,
+        "word": "王俊凯直播",
+        "onboard_time": 1726136779,
+        "rank": 17,
+        "category": "电影,作品衍生"
+      },
+      {
+        "raw_hot": 219783,
+        "num": 232683,
+        "word": "徐冬冬尹子维是怎么找到这个赛道的",
+        "onboard_time": 1726137378,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37371,
+        "num": 232309,
+        "word": "出租房成水帘洞姑娘裹毯子过夜",
+        "onboard_time": 1726139298,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1531087,
+        "num": 231941,
+        "word": "徐艺洋真的不会打死黄子韬吗",
+        "onboard_time": 1726134140,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 549835,
+        "num": 231558,
+        "word": "女生眼角掉出黑色异物竟是74根眼睫毛",
+        "onboard_time": 1726128141,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548820,
+        "num": 231290,
+        "word": "丈夫致妻子死亡后服药自尽",
+        "onboard_time": 1726130241,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410255,
+        "num": 230556,
+        "word": "医保卡丢了3千元被刷光对方不认账",
+        "onboard_time": 1726133540,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376051,
+        "num": 230201,
+        "word": "人到中年有多少存款才有安全感",
+        "onboard_time": 1726129340,
+        "rank": 24,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 183279,
+        "num": 230014,
+        "word": "HYBE拒绝NewJeans要求",
+        "onboard_time": 1726126099,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169296,
+        "num": 229541,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1726136239,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161756,
+        "num": 228774,
+        "word": "金晨 止鼾器",
+        "onboard_time": 1726129460,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155344,
+        "num": 228432,
+        "word": "歼20雨中起降首次公开",
+        "onboard_time": 1726138399,
+        "rank": 28,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 22878,
+        "num": 228189,
+        "word": "大学各专业就业指南",
+        "onboard_time": 1726139180,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 373385,
+        "num": 227651,
+        "word": "淘宝微信支付",
+        "onboard_time": 1726127961,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 227486,
+        "num": 227486,
+        "word": "林诗栋首胜张本智和",
+        "onboard_time": 1726131619,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220458,
+        "num": 220458,
+        "word": "LNG你说句话",
+        "onboard_time": 1726138340,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186080,
+        "num": 186080,
+        "word": "原来坚持打乒乓有这么多好处",
+        "onboard_time": 1726137080,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 169489,
+        "num": 169489,
+        "word": "月饼礼盒",
+        "onboard_time": 1726138340,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 168901,
+        "num": 168901,
+        "word": "公司中秋节发的月饼",
+        "onboard_time": 1726134140,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158956,
+        "num": 158956,
+        "word": "葛晓倩直播",
+        "onboard_time": 1726136359,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153079,
+        "num": 153079,
+        "word": "有的餐馆脏得外卖骑手都不愿意取餐",
+        "onboard_time": 1726123041,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14084,
+        "num": 148136,
+        "word": "朱星杰户外纵横冲锋衣",
+        "onboard_time": 1726139599,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147159,
+        "num": 147159,
+        "word": "公司强制肝功能不全员工休病假",
+        "onboard_time": 1726134860,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141286,
+        "num": 141286,
+        "word": "冰皮月饼",
+        "onboard_time": 1726135280,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 10397,
+        "num": 139920,
+        "word": "神秘东方力量在伦敦人传人",
+        "onboard_time": 1726139599,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138928,
+        "num": 138928,
+        "word": "林高远止步澳门赛16强",
+        "onboard_time": 1726125379,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131829,
+        "num": 131829,
+        "word": "公园回应男厕小便池半露天式",
+        "onboard_time": 1726122500,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107925,
+        "num": 107925,
+        "word": "藏海花",
+        "onboard_time": 1726139420,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106124,
+        "num": 106124,
+        "word": "令人心动的offer",
+        "onboard_time": 1726139719,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105796,
+        "num": 105796,
+        "word": "田嘉瑞 抠抠搜搜地花了很多钱",
+        "onboard_time": 1726136900,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103933,
+        "num": 103933,
+        "word": "WTT赛程",
+        "onboard_time": 1726139540,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103459,
+        "num": 103459,
+        "word": "宋茜只有五万还剩十万",
+        "onboard_time": 1726133900,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100828,
+        "num": 100828,
+        "word": "虞书欣 双轨",
+        "onboard_time": 1726115482,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在甘肃兰州考察调研#"
+    }
+  }
+}
