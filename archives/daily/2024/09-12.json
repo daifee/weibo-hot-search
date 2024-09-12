@@ -1,6 +1,6 @@
 {
   "startTime": 1726072022754,
-  "endTime": 1726145781068,
+  "endTime": 1726147638555,
   "band_list": [
     {
       "raw_hot": 2496876,
@@ -75,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1501294,
+      "num": 1501294,
+      "word": "山东一高校突发男生坠楼事件",
+      "onboard_time": 1726143379,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1330294,
       "num": 595076,
       "word": "丈夫致妻子死亡后服药自尽",
@@ -88,6 +96,14 @@
       "word": "女子净身出户每天把1岁儿子锁家里",
       "onboard_time": 1726095255,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1262044,
+      "num": 1262044,
+      "word": "一个28岁女孩假装上班的两年",
+      "onboard_time": 1726141759,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -147,19 +163,19 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1085102,
-      "num": 1085102,
-      "word": "一个28岁女孩假装上班的两年",
-      "onboard_time": 1726141759,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1083835,
       "num": 1083835,
       "word": "上海出现一只在逃吗喽",
       "onboard_time": 1726135519,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1076062,
+      "num": 1076062,
+      "word": "天津黑飞",
+      "onboard_time": 1726142239,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -491,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 556915,
-      "num": 556915,
-      "word": "山东一高校突发男生坠楼事件",
-      "onboard_time": 1726143379,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 553546,
       "num": 553546,
       "word": "王楚钦3比0战胜徐瑛彬",
@@ -545,6 +553,14 @@
       "onboard_time": 1726110742,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 511820,
+      "num": 511820,
+      "word": "王俊凯手速",
+      "onboard_time": 1726145779,
+      "rank": 12,
+      "category": "电影,作品衍生"
     },
     {
       "raw_hot": 509849,
@@ -707,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 412319,
+      "num": 412319,
+      "word": "傅首尔谈最痛苦的婚姻的样子",
+      "onboard_time": 1726143139,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 409241,
       "num": 291002,
       "word": "殷世航调侃韩安冉",
@@ -721,14 +745,6 @@
       "onboard_time": 1726123041,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 407695,
-      "num": 407695,
-      "word": "傅首尔谈最痛苦的婚姻的样子",
-      "onboard_time": 1726143139,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 402961,
@@ -777,6 +793,14 @@
       "onboard_time": 1726116022,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 373936,
+      "num": 373936,
+      "word": "DK战胜T1",
+      "onboard_time": 1726146860,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 371068,
@@ -867,14 +891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 309652,
-      "num": 309652,
-      "word": "天津黑飞",
-      "onboard_time": 1726142239,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 305724,
       "num": 305724,
       "word": "女子被家暴失明母亲希望判男方无期",
@@ -963,8 +979,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 270907,
-      "num": 270907,
+      "raw_hot": 276857,
+      "num": 276857,
+      "word": "瑞士选美小姐遭丈夫残忍肢解",
+      "onboard_time": 1726144700,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271162,
+      "num": 271162,
       "word": "剧本杀为什么没人玩了",
       "onboard_time": 1726140560,
       "rank": 41,
@@ -1051,6 +1075,14 @@
       "category": "电影,作品衍生"
     },
     {
+      "raw_hot": 241646,
+      "num": 276788,
+      "word": "王俊凯 3句以上就侵权啦",
+      "onboard_time": 1726146560,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 240553,
       "num": 240553,
       "word": "黄子韬把徐艺洋拍成恐怖片",
@@ -1089,14 +1121,6 @@
       "onboard_time": 1726136359,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 233092,
-      "num": 233092,
-      "word": "瑞士选美小姐遭丈夫残忍肢解",
-      "onboard_time": 1726144700,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232439,
@@ -1179,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220788,
+      "num": 220788,
+      "word": "Scout经纪公司喊话EDG",
+      "onboard_time": 1726145720,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 220458,
       "num": 220458,
       "word": "LNG你说句话",
@@ -1225,6 +1257,14 @@
       "onboard_time": 1726128859,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206233,
+      "num": 206233,
+      "word": "支付宝西安电子地铁卡今夜起停用",
+      "onboard_time": 1726143679,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205592,
@@ -1363,6 +1403,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188985,
+      "num": 188985,
+      "word": "黑神话悟空总收入近65亿",
+      "onboard_time": 1726147219,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 188426,
+      "num": 273247,
+      "word": "TFING音乐厂牌",
+      "onboard_time": 1726146560,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 188360,
       "num": 188360,
       "word": "张朝阳建议游泳馆应免费",
@@ -1401,14 +1457,6 @@
       "onboard_time": 1726111101,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 184040,
-      "num": 184040,
-      "word": "支付宝西安电子地铁卡今夜起停用",
-      "onboard_time": 1726143679,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181655,
@@ -1635,6 +1683,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 164220,
+      "num": 164220,
+      "word": "解放军兵棋推演画面曝光",
+      "onboard_time": 1726144700,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164044,
       "num": 164044,
       "word": "田嘉瑞 抠抠搜搜地花了很多钱",
@@ -1649,14 +1705,6 @@
       "onboard_time": 1726118900,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 162600,
-      "num": 162600,
-      "word": "解放军兵棋推演画面曝光",
-      "onboard_time": 1726144700,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162596,
@@ -1691,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158234,
+      "num": 158234,
+      "word": "野孩子",
+      "onboard_time": 1726147219,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156773,
       "num": 156773,
       "word": "广西军训雨中跪滑",
@@ -1713,6 +1769,14 @@
       "onboard_time": 1726069701,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155359,
+      "num": 155359,
+      "word": "王楚钦强势得分",
+      "onboard_time": 1726146020,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 155344,
@@ -1756,7 +1820,7 @@
     },
     {
       "raw_hot": 153682,
-      "num": 254518,
+      "num": 468845,
       "word": "妈妈带罕见病男孩看病14年仍没确诊",
       "onboard_time": 1726141400,
       "rank": 29,
@@ -1785,6 +1849,14 @@
       "onboard_time": 1726135639,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 153097,
+      "num": 153097,
+      "word": "DK晋级S14",
+      "onboard_time": 1726147520,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 152376,
@@ -2099,14 +2171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130383,
-      "num": 130383,
-      "word": "Scout经纪公司喊话EDG",
-      "onboard_time": 1726145720,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 129671,
       "num": 129671,
       "word": "VMA直播",
@@ -2383,6 +2447,14 @@
       "num": 339132,
       "word": "击退行凶者卤菜店长勺哥发声",
       "onboard_time": 1726138818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102521,
+      "num": 560314,
+      "word": "打顺风车后连续7天被免密支付21笔",
+      "onboard_time": 1726146200,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -2787,12 +2859,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 43145,
+      "num": 577576,
+      "word": "社区回应苏州一男子持刀划伤女子",
+      "onboard_time": 1726128260,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42015,
       "num": 411934,
       "word": "黄景瑜演技",
       "onboard_time": 1726138761,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41174,
+      "num": 388763,
+      "word": "职业打假人羁押千日获52万国家赔偿",
+      "onboard_time": 1726146322,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39767,
@@ -2880,6 +2968,14 @@
       "word": "滞销书编辑决定放弃谈理想主义",
       "onboard_time": 1726111941,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29067,
+      "num": 155637,
+      "word": "鸿星尔克让华夏英雄闯进了时尚界",
+      "onboard_time": 1726147280,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -3012,7 +3108,7 @@
     },
     {
       "raw_hot": 13451,
-      "num": 34657,
+      "num": 1351112,
       "word": "人民军队淬火向前",
       "onboard_time": 1726081931,
       "rank": 39,

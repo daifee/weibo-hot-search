@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726145781068,
+  "endTime": 1726147638555,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1501294,
+      "num": 1501294,
+      "word": "山东一高校突发男生坠楼事件",
+      "onboard_time": 1726143379,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1482214,
       "num": 571587,
       "word": "韩安冉 早知道就不这个时候生了",
@@ -691,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1262044,
+      "num": 1262044,
+      "word": "一个28岁女孩假装上班的两年",
+      "onboard_time": 1726141759,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1259007,
       "num": 1259007,
       "word": "老九门2 还我妈生佛爷陈伟霆",
@@ -915,19 +931,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1085102,
-      "num": 1085102,
-      "word": "一个28岁女孩假装上班的两年",
-      "onboard_time": 1726141759,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1083835,
       "num": 1083835,
       "word": "上海出现一只在逃吗喽",
       "onboard_time": 1726135519,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1076062,
+      "num": 1076062,
+      "word": "天津黑飞",
+      "onboard_time": 1726142239,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -2371,14 +2387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 556915,
-      "num": 556915,
-      "word": "山东一高校突发男生坠楼事件",
-      "onboard_time": 1726143379,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 555256,
       "num": 555256,
       "word": "金靖怀孕九个月状态",
@@ -2585,6 +2593,14 @@
       "onboard_time": 1725783980,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 511820,
+      "num": 511820,
+      "word": "王俊凯手速",
+      "onboard_time": 1726145779,
+      "rank": 12,
+      "category": "电影,作品衍生"
     },
     {
       "raw_hot": 509849,
@@ -3227,6 +3243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 412319,
+      "num": 412319,
+      "word": "傅首尔谈最痛苦的婚姻的样子",
+      "onboard_time": 1726143139,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 409739,
       "num": 409739,
       "word": "工业摄像装备拍下摩羯登陆威力",
@@ -3273,14 +3297,6 @@
       "onboard_time": 1725793999,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 407695,
-      "num": 407695,
-      "word": "傅首尔谈最痛苦的婚姻的样子",
-      "onboard_time": 1726143139,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 407366,
@@ -3577,6 +3593,14 @@
       "onboard_time": 1725888199,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373936,
+      "num": 373936,
+      "word": "DK战胜T1",
+      "onboard_time": 1726146860,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 373423,
@@ -4179,14 +4203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 309652,
-      "num": 309652,
-      "word": "天津黑飞",
-      "onboard_time": 1726142239,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 309106,
       "num": 283443,
       "word": "颜人中演唱会官宣",
@@ -4571,6 +4587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 276857,
+      "num": 276857,
+      "word": "瑞士选美小姐遭丈夫残忍肢解",
+      "onboard_time": 1726144700,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275134,
       "num": 275134,
       "word": "陈梦发文感谢每位教练",
@@ -4651,8 +4675,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 270907,
-      "num": 270907,
+      "raw_hot": 271162,
+      "num": 271162,
       "word": "剧本杀为什么没人玩了",
       "onboard_time": 1726140560,
       "rank": 41,
@@ -5171,6 +5195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241646,
+      "num": 276788,
+      "word": "王俊凯 3句以上就侵权啦",
+      "onboard_time": 1726146560,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 241588,
       "num": 241588,
       "word": "苹果",
@@ -5369,14 +5401,6 @@
       "onboard_time": 1725872601,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 233092,
-      "num": 233092,
-      "word": "瑞士选美小姐遭丈夫残忍肢解",
-      "onboard_time": 1726144700,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233048,
@@ -5817,6 +5841,14 @@
       "onboard_time": 1725853339,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220788,
+      "num": 220788,
+      "word": "Scout经纪公司喊话EDG",
+      "onboard_time": 1726145720,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 220485,
@@ -6273,6 +6305,14 @@
       "onboard_time": 1725959419,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206233,
+      "num": 206233,
+      "word": "支付宝西安电子地铁卡今夜起停用",
+      "onboard_time": 1726143679,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206157,
@@ -7139,6 +7179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188985,
+      "num": 188985,
+      "word": "黑神话悟空总收入近65亿",
+      "onboard_time": 1726147219,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188977,
       "num": 188977,
       "word": "跟着导游肖战看山城重庆",
@@ -7161,6 +7209,14 @@
       "onboard_time": 1725979103,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188426,
+      "num": 273247,
+      "word": "TFING音乐厂牌",
+      "onboard_time": 1726146560,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 188394,
@@ -7408,14 +7464,6 @@
       "word": "女子撑伞骑车被卷入货车底不幸身亡",
       "onboard_time": 1726067661,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184040,
-      "num": 184040,
-      "word": "支付宝西安电子地铁卡今夜起停用",
-      "onboard_time": 1726143679,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -8443,6 +8491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164220,
+      "num": 164220,
+      "word": "解放军兵棋推演画面曝光",
+      "onboard_time": 1726144700,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164053,
       "num": 164053,
       "word": "陈昊宇回应心疼谢美蓝",
@@ -8537,14 +8593,6 @@
       "onboard_time": 1725884599,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162600,
-      "num": 162600,
-      "word": "解放军兵棋推演画面曝光",
-      "onboard_time": 1726144700,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162596,
@@ -8803,6 +8851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158234,
+      "num": 158234,
+      "word": "野孩子",
+      "onboard_time": 1725853158,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 158168,
       "num": 158168,
       "word": "星穹铁道飞霄PV",
@@ -8963,6 +9019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155359,
+      "num": 155359,
+      "word": "王楚钦强势得分",
+      "onboard_time": 1726146020,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155344,
       "num": 228432,
       "word": "歼20雨中起降首次公开",
@@ -9108,7 +9172,7 @@
     },
     {
       "raw_hot": 153682,
-      "num": 254518,
+      "num": 468845,
       "word": "妈妈带罕见病男孩看病14年仍没确诊",
       "onboard_time": 1726141400,
       "rank": 29,
@@ -9177,6 +9241,14 @@
       "onboard_time": 1725767120,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153097,
+      "num": 153097,
+      "word": "DK晋级S14",
+      "onboard_time": 1726147520,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 152989,
@@ -10699,14 +10771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130383,
-      "num": 130383,
-      "word": "Scout经纪公司喊话EDG",
-      "onboard_time": 1726145720,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 130352,
       "num": 130352,
       "word": "姚明呼吁关注农村孩子手机成瘾",
@@ -11329,14 +11393,6 @@
       "onboard_time": 1726119321,
       "rank": 44,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 121829,
-      "num": 121829,
-      "word": "野孩子",
-      "onboard_time": 1725853158,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 121678,
@@ -12409,6 +12465,14 @@
       "onboard_time": 1725885500,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102521,
+      "num": 560314,
+      "word": "打顺风车后连续7天被免密支付21笔",
+      "onboard_time": 1726146200,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102368,
@@ -14251,6 +14315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 43145,
+      "num": 577576,
+      "word": "社区回应苏州一男子持刀划伤女子",
+      "onboard_time": 1726128260,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42161,
       "num": 1094246,
       "word": "我国载人登月工程有了新助力",
@@ -14289,6 +14361,14 @@
       "onboard_time": 1725737413,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 41174,
+      "num": 388763,
+      "word": "职业打假人羁押千日获52万国家赔偿",
+      "onboard_time": 1726146322,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41172,
@@ -14816,6 +14896,14 @@
       "word": "打大蒜针解倦是不是智商税",
       "onboard_time": 1726050200,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29067,
+      "num": 155637,
+      "word": "鸿星尔克让华夏英雄闯进了时尚界",
+      "onboard_time": 1726147280,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -15420,7 +15508,7 @@
     },
     {
       "raw_hot": 13451,
-      "num": 34657,
+      "num": 1351112,
       "word": "人民军队淬火向前",
       "onboard_time": 1726081931,
       "rank": 39,
