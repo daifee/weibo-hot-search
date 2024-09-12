@@ -1,6 +1,6 @@
 {
   "startTime": 1726158397527,
-  "endTime": 1726169740711,
+  "endTime": 1726172589951,
   "band_list": [
     {
       "raw_hot": 1526950,
@@ -403,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51112,
+      "num": 51112,
+      "word": "殡葬专业新生表示不会害怕",
+      "onboard_time": 1726167492,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49938,
       "num": 115124,
       "word": "文韬把冲锋衣穿出了山系男友风",
@@ -491,14 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31110,
-      "num": 47342,
-      "word": "殡葬专业新生表示不会害怕",
-      "onboard_time": 1726167492,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30116,
       "num": 146504,
       "word": "碎花裙女生和拿勺大厨都将被奖励",
@@ -531,20 +531,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 27556,
+      "num": 46652,
+      "word": "服美役",
+      "onboard_time": 1726168393,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27267,
       "num": 31916,
       "word": "吗喽竟然是正儿八经的粤语",
       "onboard_time": 1726165331,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 23624,
-      "num": 30387,
-      "word": "服美役",
-      "onboard_time": 1726168393,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 23538,
@@ -563,12 +563,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18240,
+      "num": 18240,
+      "word": "男子与女友分手趁她加班进门偷狗",
+      "onboard_time": 1726171511,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17352,
+      "num": 17352,
+      "word": "美国履行WTO规则义务情况报告",
+      "onboard_time": 1726169772,
+      "rank": 40,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 17048,
+      "num": 17048,
+      "word": "台风贝碧嘉中秋期间或将影响华东地区",
+      "onboard_time": 1726170732,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15550,
       "num": 22425,
       "word": "周杰伦深圳演唱会",
       "onboard_time": 1726167073,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 14295,
+      "num": 16791,
+      "word": "碎花裙女生回应网友关心",
+      "onboard_time": 1726172531,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10422,
