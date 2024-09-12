@@ -1,10 +1,10 @@
 {
   "startTime": 1726072022754,
-  "endTime": 1726116082471,
+  "endTime": 1726118463042,
   "band_list": [
     {
-      "raw_hot": 1691197,
-      "num": 1691197,
+      "raw_hot": 1957593,
+      "num": 1957593,
       "word": "碎花裙女生拼尽全力敲打行凶者",
       "onboard_time": 1726112961,
       "rank": 1,
@@ -43,6 +43,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1122028,
+      "num": 401605,
+      "word": "虞书欣 双轨",
+      "onboard_time": 1726115482,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1074234,
       "num": 1064885,
       "word": "陆虎陈曌旭将在丽江举办婚礼",
@@ -64,6 +72,14 @@
       "word": "李子园卖不动了",
       "onboard_time": 1726066402,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 886866,
+      "num": 886866,
+      "word": "天津机场无人机事件乘客发声",
+      "onboard_time": 1726114821,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -139,12 +155,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 662417,
+      "num": 662417,
+      "word": "修冰箱4.8元零件被收1610元",
+      "onboard_time": 1726114700,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 643765,
       "num": 643765,
       "word": "撒贝宁投喂王鸥是一种习惯",
       "onboard_time": 1726103900,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 643557,
+      "num": 643557,
+      "word": "王蓉丈夫回应福袋虚假发货",
+      "onboard_time": 1726115001,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 634739,
@@ -203,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 510844,
+      "num": 382494,
+      "word": "25岁女孩铁腚环游世界42城路费2万",
+      "onboard_time": 1726115903,
+      "rank": 48,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 509849,
       "num": 305303,
       "word": "山东大学生兼职陪爬泰山瘦了30斤",
@@ -217,14 +257,6 @@
       "onboard_time": 1726112060,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 489843,
-      "num": 403443,
-      "word": "王蓉丈夫回应福袋虚假发货",
-      "onboard_time": 1726115001,
-      "rank": 27,
-      "category": "网红"
     },
     {
       "raw_hot": 482381,
@@ -283,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 431945,
+      "num": 431945,
+      "word": "NewJeans给HYBE14天期限",
+      "onboard_time": 1726115423,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 424329,
       "num": 424329,
       "word": "seventeen",
@@ -299,28 +339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 418860,
-      "num": 401605,
-      "word": "虞书欣 双轨",
-      "onboard_time": 1726115482,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 409241,
       "num": 291002,
       "word": "殷世航调侃韩安冉",
       "onboard_time": 1726063404,
       "rank": 14,
       "category": "网红"
-    },
-    {
-      "raw_hot": 405903,
-      "num": 405903,
-      "word": "天津机场无人机事件乘客发声",
-      "onboard_time": 1726114821,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 402961,
@@ -361,6 +385,14 @@
       "onboard_time": 1726045580,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380436,
+      "num": 380436,
+      "word": "王鹤棣恋情风波后现身机场",
+      "onboard_time": 1726116022,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 371068,
@@ -491,22 +523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 274881,
-      "num": 274881,
-      "word": "NewJeans给HYBE14天期限",
-      "onboard_time": 1726115423,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 274814,
-      "num": 274814,
-      "word": "王鹤棣恋情风波后现身机场",
-      "onboard_time": 1726116022,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 269402,
       "num": 269402,
       "word": "那尔那茜 手滑点赞",
@@ -545,6 +561,14 @@
       "onboard_time": 1726064602,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250448,
+      "num": 250448,
+      "word": "六小龄童谈黑神话悟空热",
+      "onboard_time": 1726118244,
+      "rank": 23,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 250131,
@@ -587,6 +611,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 232439,
+      "num": 232439,
+      "word": "原神基尼奇",
+      "onboard_time": 1726117641,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 231393,
       "num": 125703,
       "word": "Vivo手表称无聊可以自杀自残",
@@ -601,6 +633,14 @@
       "onboard_time": 1726096219,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230651,
+      "num": 353933,
+      "word": "两对情侣聚餐演变成挥刀故意伤害",
+      "onboard_time": 1726114764,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227694,
@@ -625,6 +665,14 @@
       "onboard_time": 1726111941,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224364,
+      "num": 224364,
+      "word": "王一博裤裙叠穿",
+      "onboard_time": 1726118422,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 224042,
@@ -659,6 +707,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 205592,
+      "num": 178502,
+      "word": "杨幂38岁生日vlog",
+      "onboard_time": 1726117282,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203764,
       "num": 203764,
       "word": "台风贝碧嘉",
@@ -673,6 +729,14 @@
       "onboard_time": 1726109782,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200191,
+      "num": 200191,
+      "word": "密室大逃脱",
+      "onboard_time": 1726117461,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 199522,
@@ -700,7 +764,7 @@
     },
     {
       "raw_hot": 192697,
-      "num": 183143,
+      "num": 188757,
       "word": "易烊千玺五登芭莎",
       "onboard_time": 1726115603,
       "rank": 42,
@@ -763,6 +827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178502,
+      "num": 178502,
+      "word": "鸭绒淘汰徐志胜哭了",
+      "onboard_time": 1726117041,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178280,
       "num": 178280,
       "word": "唐鹤德晒照为张国荣庆生",
@@ -811,6 +883,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170844,
+      "num": 170844,
+      "word": "何炅 自卑的人该怎样治愈自己",
+      "onboard_time": 1726118302,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 168759,
+      "num": 168759,
+      "word": "乙骨苏醒",
+      "onboard_time": 1726117760,
+      "rank": 42,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 168219,
       "num": 168219,
       "word": "这是解放军卫国戍边任务的真实影像",
@@ -835,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164140,
+      "num": 164140,
+      "word": "多国国防部军官陆续抵达北京",
+      "onboard_time": 1726117880,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 160708,
       "num": 160708,
       "word": "静息心率快的人死亡风险更高",
@@ -843,19 +939,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 157451,
-      "num": 157451,
-      "word": "25岁女孩铁腚环游世界42城路费2万",
+      "raw_hot": 158029,
+      "num": 158029,
+      "word": "女子月子里通宵带娃还被家暴",
       "onboard_time": 1726115903,
-      "rank": 48,
-      "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 157125,
-      "num": 395560,
-      "word": "修冰箱4.8元零件被收1610元",
-      "onboard_time": 1726114700,
-      "rank": 14,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1115,14 +1203,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 110802,
-      "num": 353933,
-      "word": "两对情侣聚餐演变成挥刀故意伤害",
-      "onboard_time": 1726114764,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107612,
       "num": 364745,
       "word": "第一份工作工资到底有多重要",
@@ -1169,6 +1249,14 @@
       "onboard_time": 1726068323,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 95139,
+      "num": 256848,
+      "word": "张晚意回忆柳舟记全是快乐",
+      "onboard_time": 1726117641,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 94203,
@@ -1339,6 +1427,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 61177,
+      "num": 384002,
+      "word": "还原取亡父存款需本人解锁事发过程",
+      "onboard_time": 1726117041,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57978,
       "num": 57978,
       "word": "李子园回应营收下滑",
@@ -1361,6 +1457,14 @@
       "onboard_time": 1726075993,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48282,
+      "num": 394085,
+      "word": "张若昀连手都这么好看",
+      "onboard_time": 1726113560,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 44876,
@@ -1403,14 +1507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34287,
-      "num": 394085,
-      "word": "张若昀连手都这么好看",
-      "onboard_time": 1726113560,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 32803,
       "num": 63715,
       "word": "苏州警方通报一持刀伤人事件",
@@ -1424,6 +1520,14 @@
       "word": "大学期间可以争取哪些合理收入",
       "onboard_time": 1726077913,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30800,
+      "num": 255778,
+      "word": "养殖户为创业疯狂偷猪仔50头",
+      "onboard_time": 1726117941,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1473,6 +1577,14 @@
       "onboard_time": 1726064964,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 22656,
+      "num": 270373,
+      "word": "无序放生变杀生怎么解",
+      "onboard_time": 1726117641,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20900,
