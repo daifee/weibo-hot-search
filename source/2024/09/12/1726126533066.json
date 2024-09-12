@@ -1,0 +1,410 @@
+{
+  "runTime": 1726126533066,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2408905,
+        "num": 2408905,
+        "word": "24岁生下唐氏综合征患儿母亲发声",
+        "onboard_time": 1726122141,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1400215,
+        "num": 1400215,
+        "word": "HPV疫苗卖不动了",
+        "onboard_time": 1726119920,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 2870,
+        "num": 1101168,
+        "word": "万千气象看内蒙古",
+        "onboard_time": 1725887060,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1054602,
+        "num": 1054602,
+        "word": "林高远止步澳门赛16强",
+        "onboard_time": 1726125379,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1007506,
+        "num": 1007506,
+        "word": "这三种照片千万不要随便晒",
+        "onboard_time": 1726122141,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 770620,
+        "num": 770620,
+        "word": "碎花裙女生拼尽全力敲打行凶者",
+        "onboard_time": 1726112961,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655835,
+        "num": 655835,
+        "word": "0713出发陆虎婚礼",
+        "onboard_time": 1726120341,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 572160,
+        "num": 572160,
+        "word": "林高远vs高承睿",
+        "onboard_time": 1726123880,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 428566,
+        "num": 428566,
+        "word": "HYBE拒绝NewJeans要求",
+        "onboard_time": 1726126099,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 427764,
+        "num": 427764,
+        "word": "徐艺洋晒照庆生",
+        "onboard_time": 1726121360,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489033,
+        "num": 422028,
+        "word": "王鹤棣 分寸感",
+        "onboard_time": 1726119202,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385234,
+        "num": 385234,
+        "word": "虞书欣 双轨",
+        "onboard_time": 1726115482,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136350,
+        "num": 363051,
+        "word": "2024年预防出生缺陷日",
+        "onboard_time": 1726124719,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344267,
+        "num": 344267,
+        "word": "六小龄童谈黑神话悟空热",
+        "onboard_time": 1726118244,
+        "rank": 13,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 330144,
+        "num": 330144,
+        "word": "大胖媳妇 忌口就是每样都吃几口",
+        "onboard_time": 1726121300,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 302107,
+        "num": 302107,
+        "word": "修冰箱4.8元零件被收1610元",
+        "onboard_time": 1726114700,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288067,
+        "num": 288067,
+        "word": "有的餐馆脏得外卖骑手都不愿意取餐",
+        "onboard_time": 1726123041,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281197,
+        "num": 281197,
+        "word": "杨幂塞壬出海",
+        "onboard_time": 1726121780,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 249282,
+        "num": 249282,
+        "word": "韩安冉说流量不好时挺爱殷世航的",
+        "onboard_time": 1726124539,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 243370,
+        "num": 243370,
+        "word": "两对情侣聚餐演变成挥刀故意伤害",
+        "onboard_time": 1726114764,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 801110,
+        "num": 241724,
+        "word": "公园回应男厕小便池半露天式",
+        "onboard_time": 1726122500,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277005,
+        "num": 241021,
+        "word": "何炅 自卑的人该怎样治愈自己",
+        "onboard_time": 1726118302,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231739,
+        "num": 231739,
+        "word": "女子净身出户每天把1岁儿子锁家里",
+        "onboard_time": 1726095255,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187595,
+        "num": 187595,
+        "word": "NewJeans给HYBE14天期限",
+        "onboard_time": 1726115423,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175749,
+        "num": 175749,
+        "word": "解放军1秒决断保住遇险直升机",
+        "onboard_time": 1726125680,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175063,
+        "num": 175063,
+        "word": "陆虎陈曌旭将在丽江举办婚礼",
+        "onboard_time": 1726111700,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52222,
+        "num": 167956,
+        "word": "生出有缺陷的宝宝是运气不好吗",
+        "onboard_time": 1726124659,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166553,
+        "num": 166553,
+        "word": "唐恬作词华晨宇新歌",
+        "onboard_time": 1726125860,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160920,
+        "num": 160920,
+        "word": "A股",
+        "onboard_time": 1726125142,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 152686,
+        "num": 152686,
+        "word": "多国国防部军官陆续抵达北京",
+        "onboard_time": 1726117880,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 195382,
+        "num": 152520,
+        "word": "小编工资拿的不容易",
+        "onboard_time": 1726126099,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184049,
+        "num": 151652,
+        "word": "刘诗诗为杨幂庆祝生日",
+        "onboard_time": 1726126099,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149689,
+        "num": 149689,
+        "word": "猫又把毛绒球放我电脑包里了",
+        "onboard_time": 1726125918,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148523,
+        "num": 148523,
+        "word": "小巷人家hi6录制",
+        "onboard_time": 1726125918,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146694,
+        "num": 146694,
+        "word": "张朝阳建议游泳馆应免费",
+        "onboard_time": 1726121121,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 138022,
+        "num": 138022,
+        "word": "张起灵大战夜妇",
+        "onboard_time": 1726125440,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138017,
+        "num": 138017,
+        "word": "老人不参与体检被扣老人金",
+        "onboard_time": 1726121001,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136829,
+        "num": 136829,
+        "word": "王蓉丈夫回应福袋虚假发货",
+        "onboard_time": 1726115001,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 126493,
+        "num": 126493,
+        "word": "中秋又被老舅的rap整破防了",
+        "onboard_time": 1726118900,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125400,
+        "num": 125400,
+        "word": "25岁女孩铁腚环游世界42城路费2万",
+        "onboard_time": 1726115903,
+        "rank": 39,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 124300,
+        "num": 124300,
+        "word": "解说记得哭了",
+        "onboard_time": 1726121600,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122451,
+        "num": 122451,
+        "word": "男子离职45元卖出室友7800元电脑",
+        "onboard_time": 1726107979,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122236,
+        "num": 122236,
+        "word": "山东大学生兼职陪爬泰山瘦了30斤",
+        "onboard_time": 1726110442,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120620,
+        "num": 120620,
+        "word": "一跨国拐卖妇女嫌犯被押解回国",
+        "onboard_time": 1726126460,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117631,
+        "num": 117631,
+        "word": "律师解读天津机场无人机事件",
+        "onboard_time": 1726124780,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116623,
+        "num": 116623,
+        "word": "杨幂生日贺图",
+        "onboard_time": 1726124539,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116379,
+        "num": 116379,
+        "word": "她是第一个挺身而出的人",
+        "onboard_time": 1726126520,
+        "rank": 46,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 105783,
+        "num": 105783,
+        "word": "年轻人被困在社会时钟里",
+        "onboard_time": 1726123160,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103442,
+        "num": 103442,
+        "word": "网红王蓉疑直播抽奖福袋乱标价",
+        "onboard_time": 1726115241,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 101029,
+        "num": 101029,
+        "word": "INFP一定要有输出型爱好",
+        "onboard_time": 1726120041,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在甘肃兰州考察调研#"
+    }
+  }
+}
