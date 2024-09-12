@@ -1,0 +1,410 @@
+{
+  "runTime": 1726166572440,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 204434,
+        "num": 204434,
+        "word": "男子用大方遮掩心虚被司机一眼识破",
+        "onboard_time": 1726159157,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171217,
+        "num": 171217,
+        "word": "她是第一个挺身而出的人",
+        "onboard_time": 1726126520,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 4810,
+        "num": 108520,
+        "word": "文化中国行赏青铜国宝之美",
+        "onboard_time": 1726145660,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102876,
+        "num": 102876,
+        "word": "剧本杀为什么没人玩了",
+        "onboard_time": 1726140560,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97487,
+        "num": 97487,
+        "word": "月销5000万元的香港月饼香港买不到",
+        "onboard_time": 1726147938,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89624,
+        "num": 89624,
+        "word": "一个28岁女孩假装上班的两年",
+        "onboard_time": 1726141759,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81571,
+        "num": 81571,
+        "word": "杨幂生日发博",
+        "onboard_time": 1726141701,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64966,
+        "num": 64966,
+        "word": "LNG回应Scout无法参加S14",
+        "onboard_time": 1726152140,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 38380,
+        "num": 61531,
+        "word": "傅首尔谈最痛苦的婚姻的样子",
+        "onboard_time": 1726143139,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20773,
+        "num": 60249,
+        "word": "航拍洪水中的南宁",
+        "onboard_time": 1726164852,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59945,
+        "num": 59945,
+        "word": "黑神话悟空总收入近65亿",
+        "onboard_time": 1726147219,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 54160,
+        "num": 54160,
+        "word": "HPV疫苗卖不动了",
+        "onboard_time": 1726119920,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 47425,
+        "num": 47425,
+        "word": "葛晓倩说于适没有发声的原因",
+        "onboard_time": 1726137979,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45381,
+        "num": 45381,
+        "word": "24岁生下唐氏综合征患儿母亲发声",
+        "onboard_time": 1726122141,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38286,
+        "num": 38286,
+        "word": "肖战直播",
+        "onboard_time": 1726143440,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37798,
+        "num": 37798,
+        "word": "库里 离开西安",
+        "onboard_time": 1726147761,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37222,
+        "num": 37222,
+        "word": "Scout经纪公司喊话EDG",
+        "onboard_time": 1726145720,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 37155,
+        "num": 37155,
+        "word": "王俊凯 3句以上就侵权啦",
+        "onboard_time": 1726146560,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31997,
+        "num": 36996,
+        "word": "JENNIE美版芭莎十月刊封面",
+        "onboard_time": 1726153702,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28161,
+        "num": 36619,
+        "word": "陆虎陈曌旭丽江举办婚礼",
+        "onboard_time": 1726158556,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89996,
+        "num": 36179,
+        "word": "女生眼角掉出黑色异物竟是74根眼睫毛",
+        "onboard_time": 1726128141,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67814,
+        "num": 35922,
+        "word": "徐艺洋真的不会打死黄子韬吗",
+        "onboard_time": 1726134140,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50312,
+        "num": 35521,
+        "word": "殷世航说韩安冉把孩子带好比什么都强",
+        "onboard_time": 1726163532,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 35515,
+        "num": 35515,
+        "word": "哈啰回应乘客打车后被免密扣款21笔",
+        "onboard_time": 1726162994,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34159,
+        "num": 34159,
+        "word": "瑞士选美小姐遭丈夫残忍肢解",
+        "onboard_time": 1726144700,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33399,
+        "num": 33399,
+        "word": "王楚钦好猛",
+        "onboard_time": 1726144100,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33174,
+        "num": 33174,
+        "word": "父亲实名羡慕女儿考上985",
+        "onboard_time": 1726153940,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31457,
+        "num": 31457,
+        "word": "原来果冻是这样开的",
+        "onboard_time": 1726154900,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24677,
+        "num": 31280,
+        "word": "徐冬冬尹子维是怎么找到这个赛道的",
+        "onboard_time": 1726137378,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23085,
+        "num": 31280,
+        "word": "张家诚拍的蒋奇明",
+        "onboard_time": 1726160114,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31280,
+        "num": 31279,
+        "word": "LNG你说句话",
+        "onboard_time": 1726138340,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 30616,
+        "num": 30616,
+        "word": "打顺风车后连续7天被免密支付21笔",
+        "onboard_time": 1726146200,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29895,
+        "num": 29895,
+        "word": "第一次见把军训服穿的这么带劲的人",
+        "onboard_time": 1726157777,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27267,
+        "num": 29894,
+        "word": "吗喽竟然是正儿八经的粤语",
+        "onboard_time": 1726165331,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26405,
+        "num": 29891,
+        "word": "疑郑州一名校教职工吃鲜肉学生吃冻肉",
+        "onboard_time": 1726140619,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26204,
+        "num": 29888,
+        "word": "库里在成都吃火锅打麻将",
+        "onboard_time": 1726157118,
+        "rank": 35,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 26109,
+        "num": 29887,
+        "word": "当猫咪想让我男朋友抱它时",
+        "onboard_time": 1726162874,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24197,
+        "num": 29885,
+        "word": "水瓶座比看上去更慢热",
+        "onboard_time": 1726162213,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23615,
+        "num": 29882,
+        "word": "碎花裙女生和拿勺大厨都将被奖励",
+        "onboard_time": 1726161134,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23313,
+        "num": 29878,
+        "word": "殷世航回应暗恋韩安冉",
+        "onboard_time": 1726136179,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 23013,
+        "num": 29877,
+        "word": "刚开学非全研究生已经想退学了",
+        "onboard_time": 1726148720,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 22855,
+        "num": 29875,
+        "word": "持刀男子与受伤女子疑因拍照引发纠纷",
+        "onboard_time": 1726165512,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22821,
+        "num": 29871,
+        "word": "seventeen",
+        "onboard_time": 1726156340,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22807,
+        "num": 29869,
+        "word": "易烊千玺杂志",
+        "onboard_time": 1726148659,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22087,
+        "num": 29866,
+        "word": "王楚钦vs徐瑛彬",
+        "onboard_time": 1726140079,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22249,
+        "num": 29866,
+        "word": "国际金价又涨到新高了",
+        "onboard_time": 1726162513,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 22202,
+        "num": 29863,
+        "word": "肖战直播生图",
+        "onboard_time": 1726154000,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20788,
+        "num": 29860,
+        "word": "张凌赫的腿长具象化了",
+        "onboard_time": 1726147819,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19773,
+        "num": 29858,
+        "word": "胡歌刘涛琅琊榜售后",
+        "onboard_time": 1726149502,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19124,
+        "num": 29853,
+        "word": "王楚钦3比0战胜徐瑛彬",
+        "onboard_time": 1726144820,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#黄河很美将来会更美#"
+    }
+  }
+}

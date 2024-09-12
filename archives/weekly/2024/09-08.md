@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/08 00:25:23 ~ 2024/09/13 02:30:00
+本榜单时间：2024/09/08 00:25:23 ~ 2024/09/13 02:42:52
 </p>
 </blockquote>
 <p>
@@ -11601,6 +11601,12 @@ AirPods4充电盒有扬声器（热度：40858）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%97%E5%96%BD%E7%AB%9F%E7%84%B6%E6%98%AF%E6%AD%A3%E5%84%BF%E5%85%AB%E7%BB%8F%E7%9A%84%E7%B2%A4%E8%AF%AD%23" target="weibo">
+吗喽竟然是正儿八经的粤语（热度：27267）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E9%87%8E%E5%AD%A9%E5%AD%90%23" target="weibo">
 电影野孩子（热度：27055）
 </a>
@@ -11775,6 +11781,12 @@ AirPods4充电盒有扬声器（热度：40858）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8C%81%E5%88%80%E7%94%B7%E5%AD%90%E4%B8%8E%E5%8F%97%E4%BC%A4%E5%A5%B3%E5%AD%90%E7%96%91%E5%9B%A0%E6%8B%8D%E7%85%A7%E5%BC%95%E5%8F%91%E7%BA%A0%E7%BA%B7%23" target="weibo">
+持刀男子与受伤女子疑因拍照引发纠纷（热度：22855）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%82%B9zuo%E6%96%99%23" target="weibo">
 加点zuo料（热度：22831）
 </a>
@@ -11817,12 +11829,6 @@ AirPods4充电盒有扬声器（热度：40858）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%97%E5%96%BD%E7%AB%9F%E7%84%B6%E6%98%AF%E6%AD%A3%E5%84%BF%E5%85%AB%E7%BB%8F%E7%9A%84%E7%B2%A4%E8%AF%AD%23" target="weibo">
-吗喽竟然是正儿八经的粤语（热度：21397）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E5%AE%A2%E5%8E%85%E7%8B%82%E6%AC%A2%E5%B7%A1%E6%BC%94%23" target="weibo">
 王源客厅狂欢巡演（热度：21181）
 </a>
@@ -11831,6 +11837,12 @@ AirPods4充电盒有扬声器（热度：40858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%80%9A%E8%BF%87%E5%B9%B3%E5%8F%B0%E5%B7%A5%E4%BA%BA%E6%B3%95%E6%A1%88%23" target="weibo">
 新加坡通过平台工人法案（热度：20900）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%88%AA%E6%8B%8D%E6%B4%AA%E6%B0%B4%E4%B8%AD%E7%9A%84%E5%8D%97%E5%AE%81%23" target="weibo">
+航拍洪水中的南宁（热度：20773）
 </a>
 </li>
 
@@ -11855,12 +11867,6 @@ AirPods4充电盒有扬声器（热度：40858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E5%A4%9A%E6%B2%B3%E6%AE%B5%E7%8E%B0%E8%B6%85%E8%AD%A6%E6%B4%AA%E6%B0%B4%23" target="weibo">
 广西多河段现超警洪水（热度：20084）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8C%81%E5%88%80%E7%94%B7%E5%AD%90%E4%B8%8E%E5%8F%97%E4%BC%A4%E5%A5%B3%E5%AD%90%E7%96%91%E5%9B%A0%E6%8B%8D%E7%85%A7%E5%BC%95%E5%8F%91%E7%BA%A0%E7%BA%B7%23" target="weibo">
-持刀男子与受伤女子疑因拍照引发纠纷（热度：19992）
 </a>
 </li>
 
@@ -11963,12 +11969,6 @@ AirPods4充电盒有扬声器（热度：40858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E6%B1%A0%E5%A1%98%E5%88%86%E5%B1%82%E6%94%B6%E7%BA%B3%E9%B1%BC%E8%99%BE%E8%9F%B9%23" target="weibo">
 山西池塘分层收纳鱼虾蟹（热度：15937）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%88%AA%E6%8B%8D%E6%B4%AA%E6%B0%B4%E4%B8%AD%E7%9A%84%E5%8D%97%E5%AE%81%23" target="weibo">
-航拍洪水中的南宁（热度：15198）
 </a>
 </li>
 
