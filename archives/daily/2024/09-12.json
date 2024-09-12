@@ -1,6 +1,6 @@
 {
   "startTime": 1726072022754,
-  "endTime": 1726129615493,
+  "endTime": 1726130505187,
   "band_list": [
     {
       "raw_hot": 2496876,
@@ -27,12 +27,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1332279,
-      "num": 251726,
+      "raw_hot": 1772632,
+      "num": 317994,
       "word": "女生眼角掉出黑色异物竟是74根眼睫毛",
       "onboard_time": 1726128141,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1283803,
+      "num": 1283803,
+      "word": "林诗栋vs张本智和",
+      "onboard_time": 1726128859,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 1272269,
@@ -75,6 +83,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1098138,
+      "num": 1098138,
+      "word": "淘宝微信支付",
+      "onboard_time": 1726127961,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1074234,
       "num": 1064885,
       "word": "陆虎陈曌旭将在丽江举办婚礼",
@@ -89,6 +105,22 @@
       "onboard_time": 1726125379,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1047686,
+      "num": 1047686,
+      "word": "她是第一个挺身而出的人",
+      "onboard_time": 1726126520,
+      "rank": 46,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 1041219,
+      "num": 521145,
+      "word": "丈夫致妻子死亡后服药自尽",
+      "onboard_time": 1726130241,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1007506,
@@ -124,7 +156,7 @@
     },
     {
       "raw_hot": 880889,
-      "num": 260863,
+      "num": 299055,
       "word": "公园回应男厕小便池半露天式",
       "onboard_time": 1726122500,
       "rank": 45,
@@ -137,14 +169,6 @@
       "onboard_time": 1726061722,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 859591,
-      "num": 859591,
-      "word": "她是第一个挺身而出的人",
-      "onboard_time": 1726126520,
-      "rank": 46,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 850909,
@@ -177,14 +201,6 @@
       "onboard_time": 1726108579,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 799826,
-      "num": 799826,
-      "word": "淘宝微信支付",
-      "onboard_time": 1726127961,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 784743,
@@ -339,14 +355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 576392,
-      "num": 576392,
-      "word": "林诗栋vs张本智和",
-      "onboard_time": 1726128859,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 547716,
       "num": 581880,
       "word": "HYBE拒绝NewJeans要求",
@@ -491,6 +499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 423809,
+      "num": 423809,
+      "word": "刘诗诗为杨幂庆祝生日",
+      "onboard_time": 1726126099,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 423618,
       "num": 423618,
       "word": "杨幂塞壬出海",
@@ -547,14 +563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 399880,
-      "num": 399880,
-      "word": "刘诗诗为杨幂庆祝生日",
-      "onboard_time": 1726126099,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 397590,
       "num": 397590,
       "word": "迪丽热巴连续十一年为杨幂庆生",
@@ -601,6 +609,14 @@
       "onboard_time": 1726060282,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 357850,
+      "num": 357850,
+      "word": "金晨 止鼾器",
+      "onboard_time": 1726129460,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 349716,
@@ -731,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277985,
+      "num": 277985,
+      "word": "镇政府回应丈夫失手杀妻后自尽",
+      "onboard_time": 1726128500,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269402,
       "num": 269402,
       "word": "那尔那茜 手滑点赞",
@@ -784,14 +808,6 @@
       "word": "台风贝碧嘉16日登陆浙闽沿海",
       "onboard_time": 1726107680,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241060,
-      "num": 241060,
-      "word": "镇政府回应丈夫失手杀妻后自尽",
-      "onboard_time": 1726128500,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -867,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224675,
+      "num": 408475,
+      "word": "女生吃小火锅瞥见货架摆一排増香汁",
+      "onboard_time": 1726127600,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224364,
       "num": 224364,
       "word": "王一博裤裙叠穿",
@@ -907,8 +931,8 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 205907,
-      "num": 205907,
+      "raw_hot": 206419,
+      "num": 206419,
       "word": "诗幂",
       "onboard_time": 1726128859,
       "rank": 27,
@@ -1107,6 +1131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 177834,
+      "num": 177834,
+      "word": "人到中年有多少存款才有安全感",
+      "onboard_time": 1726129340,
+      "rank": 44,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 177304,
       "num": 177304,
       "word": "宁德时代曾毓群称与李彦宏同名还同龄",
@@ -1153,6 +1185,14 @@
       "onboard_time": 1726058421,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170258,
+      "num": 170258,
+      "word": "里斯本丸沉没 排片",
+      "onboard_time": 1726129880,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 168759,
@@ -1307,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147963,
+      "num": 147963,
+      "word": "BE天花板级别的爱情故事",
+      "onboard_time": 1726128741,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 146905,
       "num": 146905,
       "word": "INFP一定要有输出型爱好",
@@ -1328,6 +1376,14 @@
       "word": "继外公杀害外孙女案将开庭",
       "onboard_time": 1726098860,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145584,
+      "num": 145584,
+      "word": "官方通报河南一中学多人用餐后送医",
+      "onboard_time": 1726129519,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1361,6 +1417,22 @@
       "onboard_time": 1726103000,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139359,
+      "num": 139359,
+      "word": "时尚芭莎十月刊封面",
+      "onboard_time": 1726130001,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 139247,
+      "num": 139247,
+      "word": "里斯本丸沉没 寻亲公告",
+      "onboard_time": 1726129759,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 138022,
@@ -1507,14 +1579,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 125156,
-      "num": 125156,
-      "word": "金晨 止鼾器",
-      "onboard_time": 1726129460,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 124604,
       "num": 124604,
       "word": "NewJeans直播",
@@ -1537,14 +1601,6 @@
       "onboard_time": 1726056442,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 124323,
-      "num": 124323,
-      "word": "BE天花板级别的爱情故事",
-      "onboard_time": 1726128741,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 123555,
@@ -1595,6 +1651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 117545,
+      "num": 117545,
+      "word": "沈琳白领变月嫂月薪翻倍",
+      "onboard_time": 1726130119,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116623,
       "num": 281898,
       "word": "杨幂生日贺图",
@@ -1609,14 +1673,6 @@
       "onboard_time": 1726096578,
       "rank": 43,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 113436,
-      "num": 113436,
-      "word": "人到中年有多少存款才有安全感",
-      "onboard_time": 1726129340,
-      "rank": 44,
-      "category": "社会议题"
     },
     {
       "raw_hot": 113178,
@@ -1691,22 +1747,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 104966,
-      "num": 408475,
-      "word": "女生吃小火锅瞥见货架摆一排増香汁",
-      "onboard_time": 1726127600,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104614,
-      "num": 104614,
-      "word": "官方通报河南一中学多人用餐后送医",
-      "onboard_time": 1726129519,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101267,
       "num": 101267,
       "word": "在学校门口摆摊原来也挺治愈",
@@ -1729,6 +1769,22 @@
       "onboard_time": 1726063524,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98704,
+      "num": 98704,
+      "word": "里斯本丸沉没",
+      "onboard_time": 1726130179,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 97541,
+      "num": 419971,
+      "word": "第一次懂了无差别的意义",
+      "onboard_time": 1726127000,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96691,
@@ -1761,6 +1817,14 @@
       "onboard_time": 1726117641,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94945,
+      "num": 94945,
+      "word": "已确诊为饺子型人格",
+      "onboard_time": 1726130300,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 94203,
@@ -1915,14 +1979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 70919,
-      "num": 419971,
-      "word": "第一次懂了无差别的意义",
-      "onboard_time": 1726127000,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 70246,
       "num": 91872,
       "word": "导演刘信达公开道歉",
@@ -2075,6 +2131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34320,
+      "num": 340944,
+      "word": "上海警方调查女代驾凌晨遭男子殴打",
+      "onboard_time": 1726129640,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32803,
       "num": 63715,
       "word": "苏州警方通报一持刀伤人事件",
@@ -2137,6 +2201,14 @@
       "onboard_time": 1726093213,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23213,
+      "num": 337399,
+      "word": "官方回应三门峡多名学生用餐后送医",
+      "onboard_time": 1726130241,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22794,
@@ -2219,18 +2291,18 @@
       "category": "体育"
     },
     {
-      "raw_hot": 6025,
-      "num": 980380,
-      "word": "105公里边境线上的摩托车巡逻队",
-      "onboard_time": 1726125559,
+      "raw_hot": 6061,
+      "num": 1156423,
+      "word": "万千气象看内蒙古",
+      "onboard_time": 1725887060,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 5250,
-      "num": 1101168,
-      "word": "万千气象看内蒙古",
-      "onboard_time": 1725887060,
+      "raw_hot": 6025,
+      "num": 980380,
+      "word": "105公里边境线上的摩托车巡逻队",
+      "onboard_time": 1726125559,
       "rank": 2,
       "category": "社会新闻"
     }

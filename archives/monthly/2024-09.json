@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726129615493,
+  "endTime": 1726130505187,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -712,6 +712,14 @@
       "word": "外卖小哥讲述发现皮包骨婴儿细节",
       "onboard_time": 1725183319,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1772632,
+      "num": 317994,
+      "word": "女生眼角掉出黑色异物竟是74根眼睫毛",
+      "onboard_time": 1726128141,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -1539,14 +1547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1332279,
-      "num": 251726,
-      "word": "女生眼角掉出黑色异物竟是74根眼睫毛",
-      "onboard_time": 1726128141,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1329439,
       "num": 1329439,
       "word": "董明珠谈35岁找不到工作",
@@ -1649,6 +1649,14 @@
       "onboard_time": 1725445099,
       "rank": 6,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1283803,
+      "num": 1283803,
+      "word": "林诗栋vs张本智和",
+      "onboard_time": 1726128859,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 1276769,
@@ -2235,6 +2243,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 1098138,
+      "num": 1098138,
+      "word": "淘宝微信支付",
+      "onboard_time": 1726127961,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1091769,
       "num": 1091769,
       "word": "辽宁大连3.7级地震",
@@ -2403,6 +2419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1047686,
+      "num": 1047686,
+      "word": "她是第一个挺身而出的人",
+      "onboard_time": 1726126520,
+      "rank": 46,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 1047207,
       "num": 1047207,
       "word": "国足0比6落后日本",
@@ -2432,6 +2456,14 @@
       "word": "日男子新加坡性侵女学生被鞭刑20",
       "onboard_time": 1726060282,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1041219,
+      "num": 521145,
+      "word": "丈夫致妻子死亡后服药自尽",
+      "onboard_time": 1726130241,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -3308,7 +3340,7 @@
     },
     {
       "raw_hot": 880889,
-      "num": 260863,
+      "num": 299055,
       "word": "公园回应男厕小便池半露天式",
       "onboard_time": 1726122500,
       "rank": 45,
@@ -3441,14 +3473,6 @@
       "onboard_time": 1725245058,
       "rank": 31,
       "category": "演出,体育"
-    },
-    {
-      "raw_hot": 859591,
-      "num": 859591,
-      "word": "她是第一个挺身而出的人",
-      "onboard_time": 1726126520,
-      "rank": 46,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 858729,
@@ -3865,14 +3889,6 @@
       "onboard_time": 1725689358,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 799826,
-      "num": 799826,
-      "word": "淘宝微信支付",
-      "onboard_time": 1726127961,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 797244,
@@ -5881,14 +5897,6 @@
       "onboard_time": 1726101981,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 576392,
-      "num": 576392,
-      "word": "林诗栋vs张本智和",
-      "onboard_time": 1726128859,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 574042,
@@ -8027,6 +8035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 423809,
+      "num": 423809,
+      "word": "刘诗诗为杨幂庆祝生日",
+      "onboard_time": 1726126099,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 423618,
       "num": 423618,
       "word": "杨幂塞壬出海",
@@ -8481,14 +8497,6 @@
       "onboard_time": 1726029803,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 399880,
-      "num": 399880,
-      "word": "刘诗诗为杨幂庆祝生日",
-      "onboard_time": 1726126099,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 399674,
@@ -9201,6 +9209,14 @@
       "onboard_time": 1725948260,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 357850,
+      "num": 357850,
+      "word": "金晨 止鼾器",
+      "onboard_time": 1726129460,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 357303,
@@ -11275,6 +11291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277985,
+      "num": 277985,
+      "word": "镇政府回应丈夫失手杀妻后自尽",
+      "onboard_time": 1726128500,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277962,
       "num": 277962,
       "word": "绝味食品回应卖不动了",
@@ -12883,14 +12907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 241060,
-      "num": 241060,
-      "word": "镇政府回应丈夫失手杀妻后自尽",
-      "onboard_time": 1726128500,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241006,
       "num": 241006,
       "word": "小杨哥直播数据",
@@ -13856,6 +13872,14 @@
       "word": "精神病患理发被推销充1万花3500",
       "onboard_time": 1726111941,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224675,
+      "num": 408475,
+      "word": "女生吃小火锅瞥见货架摆一排増香汁",
+      "onboard_time": 1726127600,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -15283,6 +15307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206419,
+      "num": 206419,
+      "word": "诗幂",
+      "onboard_time": 1726128859,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206316,
       "num": 206316,
       "word": "墨雨爆了我有多爽你们知道吗",
@@ -15345,14 +15377,6 @@
       "onboard_time": 1725187158,
       "rank": 27,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 205907,
-      "num": 205907,
-      "word": "诗幂",
-      "onboard_time": 1726128859,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 205851,
@@ -19323,6 +19347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177834,
+      "num": 177834,
+      "word": "人到中年有多少存款才有安全感",
+      "onboard_time": 1726129340,
+      "rank": 44,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 177750,
       "num": 236547,
       "word": "BOYNEXTDOOR主打曲MV",
@@ -20401,6 +20433,14 @@
       "onboard_time": 1725436460,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 170258,
+      "num": 170258,
+      "word": "里斯本丸沉没 排片",
+      "onboard_time": 1726129880,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 170236,
@@ -23771,6 +23811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147963,
+      "num": 147963,
+      "word": "BE天花板级别的爱情故事",
+      "onboard_time": 1726128741,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147937,
       "num": 147937,
       "word": "2米高iPhone造价7万美元",
@@ -24145,6 +24193,14 @@
       "onboard_time": 1725597442,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145584,
+      "num": 145584,
+      "word": "官方通报河南一中学多人用餐后送医",
+      "onboard_time": 1726129519,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145581,
@@ -24955,12 +25011,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139359,
+      "num": 139359,
+      "word": "时尚芭莎十月刊封面",
+      "onboard_time": 1726130001,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 139321,
       "num": 139321,
       "word": "这种糖突然在小孩圈爆火",
       "onboard_time": 1725788359,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139247,
+      "num": 139247,
+      "word": "里斯本丸沉没 寻亲公告",
+      "onboard_time": 1726129759,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 138974,
@@ -26739,14 +26811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125156,
-      "num": 125156,
-      "word": "金晨 止鼾器",
-      "onboard_time": 1726129460,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 125009,
       "num": 125009,
       "word": "以高额返利为噱头哄骗网友刷礼物",
@@ -26865,14 +26929,6 @@
       "onboard_time": 1725784161,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124323,
-      "num": 124323,
-      "word": "BE天花板级别的爱情故事",
-      "onboard_time": 1726128741,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 124199,
@@ -27507,6 +27563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117545,
+      "num": 117545,
+      "word": "沈琳白领变月嫂月薪翻倍",
+      "onboard_time": 1726130119,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117440,
       "num": 117440,
       "word": "潘展乐说想挑战男子100自极限",
@@ -27897,14 +27961,6 @@
       "onboard_time": 1726063886,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113436,
-      "num": 113436,
-      "word": "人到中年有多少存款才有安全感",
-      "onboard_time": 1726129340,
-      "rank": 44,
-      "category": "社会议题"
     },
     {
       "raw_hot": 113386,
@@ -28603,14 +28659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104966,
-      "num": 408475,
-      "word": "女生吃小火锅瞥见货架摆一排増香汁",
-      "onboard_time": 1726127600,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104707,
       "num": 128678,
       "word": "被打只能屈辱承受吗",
@@ -28633,14 +28681,6 @@
       "onboard_time": 1726019657,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 104614,
-      "num": 104614,
-      "word": "官方通报河南一中学多人用餐后送医",
-      "onboard_time": 1726129519,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104443,
@@ -28995,6 +29035,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 98704,
+      "num": 98704,
+      "word": "里斯本丸沉没",
+      "onboard_time": 1726130179,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 98659,
       "num": 98659,
       "word": "国足主场战沙特球票依然没有售完",
@@ -29049,6 +29097,14 @@
       "onboard_time": 1725123916,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 97541,
+      "num": 419971,
+      "word": "第一次懂了无差别的意义",
+      "onboard_time": 1726127000,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97347,
@@ -29209,6 +29265,14 @@
       "onboard_time": 1726117641,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94945,
+      "num": 94945,
+      "word": "已确诊为饺子型人格",
+      "onboard_time": 1726130300,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 94698,
@@ -30393,14 +30457,6 @@
       "onboard_time": 1725665174,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 70919,
-      "num": 419971,
-      "word": "第一次懂了无差别的意义",
-      "onboard_time": 1726127000,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70719,
@@ -33275,6 +33331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34320,
+      "num": 340944,
+      "word": "上海警方调查女代驾凌晨遭男子殴打",
+      "onboard_time": 1726129640,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34313,
       "num": 448299,
       "word": "充满门道与陷阱的共享充电宝生意",
@@ -34656,6 +34720,14 @@
       "word": "徐闻港尚未通行有货运司机滞留数日",
       "onboard_time": 1725722780,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23213,
+      "num": 337399,
+      "word": "官方回应三门峡多名学生用餐后送医",
+      "onboard_time": 1726130241,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
