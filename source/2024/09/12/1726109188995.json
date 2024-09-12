@@ -1,0 +1,410 @@
+{
+  "runTime": 1726109188995,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1016220,
+        "num": 1162595,
+        "word": "加沙的鞋成了奢侈品",
+        "onboard_time": 1726103480,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 744120,
+        "num": 744120,
+        "word": "杨幂新中式秀禾",
+        "onboard_time": 1726107680,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19071,
+        "num": 694904,
+        "word": "丰收的颜色惊艳了整个秋天",
+        "onboard_time": 1726065322,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687422,
+        "num": 687422,
+        "word": "中国空军用红外弹驱离外机画面",
+        "onboard_time": 1726106719,
+        "rank": 3,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 608055,
+        "num": 608055,
+        "word": "撒贝宁投喂王鸥是一种习惯",
+        "onboard_time": 1726103900,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 597801,
+        "num": 597801,
+        "word": "孙颖莎倒地爆冲",
+        "onboard_time": 1726098619,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 504075,
+        "num": 504075,
+        "word": "2男孩把猫扔湖里被大学生厉声制止",
+        "onboard_time": 1726087392,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 332760,
+        "num": 405726,
+        "word": "NewJeans新账号被封禁",
+        "onboard_time": 1726103000,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314803,
+        "num": 400707,
+        "word": "半熟男女定档",
+        "onboard_time": 1726107858,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57490,
+        "num": 399836,
+        "word": "无人机致天津机场大面积延误已恢复",
+        "onboard_time": 1726109122,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399777,
+        "num": 399777,
+        "word": "王鹤棣陈小纭曾合作大奉打更人",
+        "onboard_time": 1726107440,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369168,
+        "num": 369168,
+        "word": "网约车走小路姑娘称被吓到跳车",
+        "onboard_time": 1726097238,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365689,
+        "num": 365689,
+        "word": "棣欣引力",
+        "onboard_time": 1726108279,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339968,
+        "num": 339968,
+        "word": "天津机场通报无人机导致航班延误",
+        "onboard_time": 1726067603,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56829,
+        "num": 297643,
+        "word": "超雄综合症不等于性格暴戾",
+        "onboard_time": 1726108579,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101322,
+        "num": 277092,
+        "word": "台风中这一幕幕让遮风挡雨具象化了",
+        "onboard_time": 1726105758,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269402,
+        "num": 269402,
+        "word": "那尔那茜 手滑点赞",
+        "onboard_time": 1726105519,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264824,
+        "num": 264824,
+        "word": "巴勒斯坦代表首次坐上联大会员国席位",
+        "onboard_time": 1726107680,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 260250,
+        "num": 260250,
+        "word": "天津机场",
+        "onboard_time": 1726102821,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212454,
+        "num": 258588,
+        "word": "迪丽热巴连续十一年为杨幂庆生",
+        "onboard_time": 1726097658,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 873625,
+        "num": 258538,
+        "word": "丈夫因家暴坐牢出狱后仍威胁妻子",
+        "onboard_time": 1726105700,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257716,
+        "num": 257716,
+        "word": "巨型猫尾惊现郑州街头",
+        "onboard_time": 1726100601,
+        "rank": 21,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 807464,
+        "num": 256343,
+        "word": "女子净身出户每天把1岁儿子锁家里",
+        "onboard_time": 1726095255,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438112,
+        "num": 252997,
+        "word": "女童8楼掉落保安冲上前徒手接娃",
+        "onboard_time": 1726099821,
+        "rank": 23,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 426149,
+        "num": 252912,
+        "word": "男子离职45元卖出室友7800元电脑",
+        "onboard_time": 1726107979,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249376,
+        "num": 249376,
+        "word": "去年我国25至29岁结婚人数最多",
+        "onboard_time": 1726106719,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236548,
+        "num": 236548,
+        "word": "400万人在线抢华为三折叠像买彩票",
+        "onboard_time": 1726103480,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 200946,
+        "num": 226576,
+        "word": "品牌为杨幂特别定制高跟鞋",
+        "onboard_time": 1726108520,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198506,
+        "num": 224823,
+        "word": "大奉打更人",
+        "onboard_time": 1726108579,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187322,
+        "num": 223808,
+        "word": "月薪十万也不敢干的职业",
+        "onboard_time": 1726100180,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223701,
+        "num": 223701,
+        "word": "网友偶遇黄仁勋在美国海底捞甩面",
+        "onboard_time": 1726103480,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 221971,
+        "num": 221971,
+        "word": "台风贝碧嘉16日登陆浙闽沿海",
+        "onboard_time": 1726107680,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205074,
+        "num": 205074,
+        "word": "男子温水泡螃蟹后邮寄骗保4.5万",
+        "onboard_time": 1726097178,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201141,
+        "num": 201141,
+        "word": "17岁女生花十多万买笑气",
+        "onboard_time": 1726061722,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197984,
+        "num": 197984,
+        "word": "李子园卖不动了",
+        "onboard_time": 1726066402,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193637,
+        "num": 193637,
+        "word": "看似休息其实伤身的5个习惯",
+        "onboard_time": 1726100541,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192009,
+        "num": 192009,
+        "word": "辽宁大连3.7级地震",
+        "onboard_time": 1726062202,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178280,
+        "num": 178280,
+        "word": "唐鹤德晒照为张国荣庆生",
+        "onboard_time": 1726108100,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168219,
+        "num": 168219,
+        "word": "这是解放军卫国戍边任务的真实影像",
+        "onboard_time": 1726100481,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155751,
+        "num": 155751,
+        "word": "柳岩 许仙最后打死了白娘子",
+        "onboard_time": 1726071140,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155348,
+        "num": 155348,
+        "word": "时尚先生",
+        "onboard_time": 1726108761,
+        "rank": 40,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 147985,
+        "num": 147985,
+        "word": "周雨彤苏晓彤又约饭了",
+        "onboard_time": 1726102761,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140546,
+        "num": 140546,
+        "word": "国足出线概率0.3%",
+        "onboard_time": 1726104259,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131198,
+        "num": 131198,
+        "word": "稀土公司人员泄露7项国家秘密获刑",
+        "onboard_time": 1726108160,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130423,
+        "num": 130423,
+        "word": "新郎接亲时被众人持棍追着打",
+        "onboard_time": 1726103000,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126484,
+        "num": 126484,
+        "word": "静息心率在多少范围最健康",
+        "onboard_time": 1726106179,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126086,
+        "num": 126086,
+        "word": "江小白起诉东方甄选",
+        "onboard_time": 1726108400,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 125573,
+        "num": 125573,
+        "word": "霉霉VMA红毯",
+        "onboard_time": 1726106237,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116390,
+        "num": 116390,
+        "word": "女子被家暴失明母亲希望判男方无期",
+        "onboard_time": 1726056381,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119761,
+        "num": 116389,
+        "word": "VMA红毯",
+        "onboard_time": 1726097597,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#建成中国特色社会主义教育强国#"
+    }
+  }
+}
