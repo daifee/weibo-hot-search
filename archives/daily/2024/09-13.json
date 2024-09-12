@@ -1,6 +1,6 @@
 {
   "startTime": 1726158397527,
-  "endTime": 1726180721959,
+  "endTime": 1726183383248,
   "band_list": [
     {
       "raw_hot": 1526950,
@@ -9,6 +9,14 @@
       "onboard_time": 1726154540,
       "rank": 0,
       "category": "网红"
+    },
+    {
+      "raw_hot": 913075,
+      "num": 913075,
+      "word": "男子用大方遮掩心虚被司机一眼识破",
+      "onboard_time": 1726159157,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 827753,
@@ -51,14 +59,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 448602,
-      "num": 505179,
-      "word": "男子用大方遮掩心虚被司机一眼识破",
-      "onboard_time": 1726159157,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 414191,
       "num": 147027,
       "word": "徐艺洋真的不会打死黄子韬吗",
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376052,
+      "num": 232862,
+      "word": "殷世航说韩安冉把孩子带好比什么都强",
+      "onboard_time": 1726163532,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 372510,
       "num": 372510,
       "word": "剧本杀为什么没人玩了",
@@ -89,6 +97,14 @@
       "onboard_time": 1726143379,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327222,
+      "num": 226918,
+      "word": "宋茜虽然震惊但眼神挪不走一点",
+      "onboard_time": 1726182196,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 300484,
@@ -115,20 +131,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 254894,
+      "num": 254894,
+      "word": "24岁生下唐氏综合征患儿母亲发声",
+      "onboard_time": 1726122141,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249258,
       "num": 249258,
       "word": "JENNIE美版芭莎十月刊封面",
       "onboard_time": 1726153702,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 245039,
-      "num": 127833,
-      "word": "殷世航说韩安冉把孩子带好比什么都强",
-      "onboard_time": 1726163532,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 236267,
@@ -145,6 +161,14 @@
       "onboard_time": 1726152140,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 221885,
+      "num": 221885,
+      "word": "第一次见把军训服穿的这么带劲的人",
+      "onboard_time": 1726157777,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 221802,
@@ -171,20 +195,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182580,
-      "num": 182580,
-      "word": "24岁生下唐氏综合征患儿母亲发声",
-      "onboard_time": 1726122141,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166143,
       "num": 143530,
       "word": "不爱出远门的年轻人在家门口微度假",
       "onboard_time": 1726158377,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165272,
+      "num": 249490,
+      "word": "傅首尔谈最痛苦的婚姻的样子",
+      "onboard_time": 1726143139,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 149713,
@@ -195,20 +219,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145021,
+      "num": 145021,
+      "word": "刚开学非全研究生已经想退学了",
+      "onboard_time": 1726148720,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 142702,
       "num": 142702,
       "word": "黑神话悟空总收入近65亿",
       "onboard_time": 1726147219,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 137689,
-      "num": 149515,
-      "word": "傅首尔谈最痛苦的婚姻的样子",
-      "onboard_time": 1726143139,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 134311,
@@ -219,20 +243,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134123,
+      "num": 248114,
+      "word": "肖战直播生图",
+      "onboard_time": 1726154000,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 129177,
       "num": 129177,
       "word": "肖战直播",
       "onboard_time": 1726143440,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 127526,
-      "num": 127526,
-      "word": "刚开学非全研究生已经想退学了",
-      "onboard_time": 1726148720,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 121394,
@@ -243,12 +267,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 119995,
-      "num": 138300,
-      "word": "肖战直播生图",
-      "onboard_time": 1726154000,
-      "rank": 28,
-      "category": "作品衍生"
+      "raw_hot": 114861,
+      "num": 114861,
+      "word": "陆虎陈曌旭丽江举办婚礼",
+      "onboard_time": 1726158556,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 109866,
@@ -275,12 +299,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 101300,
-      "num": 101300,
-      "word": "第一次见把军训服穿的这么带劲的人",
-      "onboard_time": 1726157777,
-      "rank": 33,
-      "category": "幽默"
+      "raw_hot": 101073,
+      "num": 146504,
+      "word": "碎花裙女生和拿勺大厨都将被奖励",
+      "onboard_time": 1726161134,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99015,
@@ -323,14 +347,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 88765,
-      "num": 92830,
-      "word": "陆虎陈曌旭丽江举办婚礼",
-      "onboard_time": 1726158556,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 87741,
       "num": 87741,
       "word": "殷桃演技",
@@ -345,6 +361,14 @@
       "onboard_time": 1726154060,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86913,
+      "num": 86913,
+      "word": "章若楠张哲华演情侣",
+      "onboard_time": 1726180094,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 85502,
@@ -403,12 +427,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 73878,
-      "num": 76692,
+      "raw_hot": 73983,
+      "num": 77217,
       "word": "徐冬冬尹子维是怎么找到这个赛道的",
       "onboard_time": 1726137378,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 68506,
+      "num": 68506,
+      "word": "澳门冠军赛8强对阵",
+      "onboard_time": 1726179313,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 61410,
@@ -419,19 +451,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 51291,
-      "num": 146504,
-      "word": "碎花裙女生和拿勺大厨都将被奖励",
-      "onboard_time": 1726161134,
+      "raw_hot": 53396,
+      "num": 64527,
+      "word": "殡葬专业新生表示不会害怕",
+      "onboard_time": 1726167492,
       "rank": 9,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51207,
-      "num": 51207,
-      "word": "殡葬专业新生表示不会害怕",
-      "onboard_time": 1726167492,
-      "rank": 9,
+      "raw_hot": 50532,
+      "num": 64524,
+      "word": "持刀男子与受伤女子疑因拍照引发纠纷",
+      "onboard_time": 1726165512,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -443,12 +475,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 48729,
+      "num": 64522,
+      "word": "猫 没找你收费就不错了",
+      "onboard_time": 1726167912,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 47403,
       "num": 65944,
       "word": "华晨宇的不重逢有了新的意义",
       "onboard_time": 1726160894,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 46974,
+      "num": 64519,
+      "word": "国际金价又涨到新高了",
+      "onboard_time": 1726162513,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 44075,
@@ -475,12 +523,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 41226,
+      "raw_hot": 42964,
       "num": 65876,
       "word": "易烊千玺杂志",
       "onboard_time": 1726148659,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 41020,
+      "num": 64516,
+      "word": "碎花裙女生回应网友关心",
+      "onboard_time": 1726172531,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40864,
+      "num": 64513,
+      "word": "台风贝碧嘉中秋期间或将影响华东地区",
+      "onboard_time": 1726170732,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40473,
@@ -491,20 +555,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40333,
+      "num": 64511,
+      "word": "王楚钦vs徐瑛彬",
+      "onboard_time": 1726140079,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 39028,
+      "num": 64507,
+      "word": "大张伟在黄宣面前都显得文静了",
+      "onboard_time": 1726182977,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 36730,
-      "num": 132261,
+      "num": 241310,
       "word": "第一视角体验火箭垂直起降",
       "onboard_time": 1726152020,
       "rank": 37,
       "category": "国内时政"
     },
     {
-      "raw_hot": 36634,
-      "num": 55346,
-      "word": "王楚钦vs徐瑛彬",
-      "onboard_time": 1726140079,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 36082,
+      "num": 64505,
+      "word": "白鹿向海南受灾地区捐赠物资",
+      "onboard_time": 1726178712,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 34572,
@@ -523,36 +603,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34067,
-      "num": 34067,
-      "word": "澳门冠军赛8强对阵",
-      "onboard_time": 1726179313,
+      "raw_hot": 31657,
+      "num": 64504,
+      "word": "小时候的善意拉住了长大后的自己",
+      "onboard_time": 1726183214,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 32491,
-      "num": 32491,
-      "word": "碎花裙女生回应网友关心",
-      "onboard_time": 1726172531,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29818,
-      "num": 55312,
-      "word": "国际金价又涨到新高了",
-      "onboard_time": 1726162513,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 29768,
-      "num": 31897,
-      "word": "持刀男子与受伤女子疑因拍照引发纠纷",
-      "onboard_time": 1726165512,
-      "rank": 49,
-      "category": "社会新闻"
+      "category": "剧集"
     },
     {
       "raw_hot": 29697,
@@ -571,14 +627,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 28274,
-      "num": 30467,
-      "word": "白鹿向海南受灾地区捐赠物资",
-      "onboard_time": 1726178712,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 27556,
       "num": 46652,
       "word": "服美役",
@@ -587,36 +635,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 27479,
-      "num": 30466,
-      "word": "猫 没找你收费就不错了",
-      "onboard_time": 1726167912,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 27267,
       "num": 31916,
       "word": "吗喽竟然是正儿八经的粤语",
       "onboard_time": 1726165331,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 27251,
-      "num": 30466,
-      "word": "章若楠张哲华演情侣",
-      "onboard_time": 1726180094,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 26317,
-      "num": 30465,
-      "word": "台风贝碧嘉中秋期间或将影响华东地区",
-      "onboard_time": 1726170732,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17352,
@@ -644,7 +668,7 @@
     },
     {
       "raw_hot": 7082,
-      "num": 252225,
+      "num": 351720,
       "word": "文化中国行赏青铜国宝之美",
       "onboard_time": 1726145660,
       "rank": 2,
