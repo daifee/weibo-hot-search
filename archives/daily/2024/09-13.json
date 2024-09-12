@@ -1,0 +1,411 @@
+{
+  "startTime": 1726158397527,
+  "endTime": 1726158397527,
+  "band_list": [
+    {
+      "raw_hot": 1526950,
+      "num": 1526950,
+      "word": "小杨哥 月饼",
+      "onboard_time": 1726154540,
+      "rank": 0,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 827753,
+      "num": 827753,
+      "word": "直播间卖香港月饼称99元3盒",
+      "onboard_time": 1726152740,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 568058,
+      "num": 568058,
+      "word": "她是第一个挺身而出的人",
+      "onboard_time": 1726126520,
+      "rank": 3,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 537863,
+      "num": 147490,
+      "word": "女生眼角掉出黑色异物竟是74根眼睫毛",
+      "onboard_time": 1726128141,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 471519,
+      "num": 471519,
+      "word": "父亲实名羡慕女儿考上985",
+      "onboard_time": 1726153940,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 451734,
+      "num": 451734,
+      "word": "月销5000万元的香港月饼香港买不到",
+      "onboard_time": 1726147938,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414191,
+      "num": 147027,
+      "word": "徐艺洋真的不会打死黄子韬吗",
+      "onboard_time": 1726134140,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 399550,
+      "num": 399550,
+      "word": "一个28岁女孩假装上班的两年",
+      "onboard_time": 1726141759,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 372510,
+      "num": 372510,
+      "word": "剧本杀为什么没人玩了",
+      "onboard_time": 1726140560,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363354,
+      "num": 145247,
+      "word": "山东一高校突发男生坠楼事件",
+      "onboard_time": 1726143379,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300484,
+      "num": 300484,
+      "word": "杨幂生日发博",
+      "onboard_time": 1726141701,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 293770,
+      "num": 293770,
+      "word": "葛晓倩说于适没有发声的原因",
+      "onboard_time": 1726137979,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 268489,
+      "num": 268489,
+      "word": "seventeen",
+      "onboard_time": 1726156340,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 249258,
+      "num": 249258,
+      "word": "JENNIE美版芭莎十月刊封面",
+      "onboard_time": 1726153702,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 236267,
+      "num": 236267,
+      "word": "原来果冻是这样开的",
+      "onboard_time": 1726154900,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 225273,
+      "num": 225273,
+      "word": "LNG回应Scout无法参加S14",
+      "onboard_time": 1726152140,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 221802,
+      "num": 221802,
+      "word": "HPV疫苗卖不动了",
+      "onboard_time": 1726119920,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 203597,
+      "num": 203597,
+      "word": "王楚钦好猛",
+      "onboard_time": 1726144100,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 182580,
+      "num": 182580,
+      "word": "24岁生下唐氏综合征患儿母亲发声",
+      "onboard_time": 1726122141,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166143,
+      "num": 143530,
+      "word": "不爱出远门的年轻人在家门口微度假",
+      "onboard_time": 1726158377,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149713,
+      "num": 149713,
+      "word": "王俊凯 3句以上就侵权啦",
+      "onboard_time": 1726146560,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 142702,
+      "num": 142702,
+      "word": "黑神话悟空总收入近65亿",
+      "onboard_time": 1726147219,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 137689,
+      "num": 149515,
+      "word": "傅首尔谈最痛苦的婚姻的样子",
+      "onboard_time": 1726143139,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 134311,
+      "num": 134311,
+      "word": "胡歌刘涛琅琊榜售后",
+      "onboard_time": 1726149502,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 129177,
+      "num": 129177,
+      "word": "肖战直播",
+      "onboard_time": 1726143440,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127526,
+      "num": 127526,
+      "word": "刚开学非全研究生已经想退学了",
+      "onboard_time": 1726148720,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 121394,
+      "num": 121394,
+      "word": "瑞士选美小姐遭丈夫残忍肢解",
+      "onboard_time": 1726144700,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119015,
+      "num": 127648,
+      "word": "肖战直播生图",
+      "onboard_time": 1726154000,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 109866,
+      "num": 109866,
+      "word": "Scout经纪公司喊话EDG",
+      "onboard_time": 1726145720,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 103177,
+      "num": 103177,
+      "word": "库里 离开西安",
+      "onboard_time": 1726147761,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101730,
+      "num": 101730,
+      "word": "Offer6实习生",
+      "onboard_time": 1726156578,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 99015,
+      "num": 99015,
+      "word": "疑郑州一名校教职工吃鲜肉学生吃冻肉",
+      "onboard_time": 1726140619,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93877,
+      "num": 93877,
+      "word": "谢美蓝婚姻",
+      "onboard_time": 1726153338,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 93552,
+      "num": 93552,
+      "word": "伊藤美诚无缘战莎莎",
+      "onboard_time": 1726153160,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 93146,
+      "num": 93146,
+      "word": "王一博纪录片国内保险公司不敢接",
+      "onboard_time": 1726135220,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 88940,
+      "num": 88940,
+      "word": "库里在成都吃火锅打麻将",
+      "onboard_time": 1726157118,
+      "rank": 40,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 87741,
+      "num": 87741,
+      "word": "殷桃演技",
+      "onboard_time": 1726149560,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 87410,
+      "num": 87410,
+      "word": "杨幂工作室定制浏阳烟花为杨幂庆生",
+      "onboard_time": 1726154060,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 85355,
+      "num": 85355,
+      "word": "打顺风车后连续7天被免密支付21笔",
+      "onboard_time": 1726146200,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84366,
+      "num": 84366,
+      "word": "殷世航回应暗恋韩安冉",
+      "onboard_time": 1726136179,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 82666,
+      "num": 82666,
+      "word": "李晓悦那隽这对",
+      "onboard_time": 1726156458,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 81956,
+      "num": 81956,
+      "word": "张凌赫的腿长具象化了",
+      "onboard_time": 1726147819,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 79853,
+      "num": 79853,
+      "word": "黄景瑜王子奇动图",
+      "onboard_time": 1726155859,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 76697,
+      "num": 76697,
+      "word": "LNG你说句话",
+      "onboard_time": 1726138340,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 73878,
+      "num": 76692,
+      "word": "徐冬冬尹子维是怎么找到这个赛道的",
+      "onboard_time": 1726137378,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 61410,
+      "num": 127571,
+      "word": "王楚钦3比0战胜徐瑛彬",
+      "onboard_time": 1726144820,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 44422,
+      "num": 115124,
+      "word": "文韬把冲锋衣穿出了山系男友风",
+      "onboard_time": 1726155319,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 34402,
+      "num": 144005,
+      "word": "鸿星尔克的大秀一直在讲中国心",
+      "onboard_time": 1726154960,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29697,
+      "num": 296713,
+      "word": "孙颖莎朱芊曦争4强",
+      "onboard_time": 1726156638,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 5092,
+      "num": 663246,
+      "word": "人民军队淬火向前",
+      "onboard_time": 1726081931,
+      "rank": 2,
+      "category": "军事"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#习近平在甘肃兰州考察调研#"
+    }
+  ]
+}
