@@ -1,6 +1,6 @@
 {
   "startTime": 1726072022754,
-  "endTime": 1726118463042,
+  "endTime": 1726119500945,
   "band_list": [
     {
       "raw_hot": 1957593,
@@ -75,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 886866,
-      "num": 886866,
+      "raw_hot": 905878,
+      "num": 905878,
       "word": "天津机场无人机事件乘客发声",
       "onboard_time": 1726114821,
       "rank": 38,
@@ -155,6 +155,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 667937,
+      "num": 382494,
+      "word": "25岁女孩铁腚环游世界42城路费2万",
+      "onboard_time": 1726115903,
+      "rank": 48,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 662417,
       "num": 662417,
       "word": "修冰箱4.8元零件被收1610元",
@@ -195,6 +203,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 586730,
+      "num": 273856,
+      "word": "六小龄童谈黑神话悟空热",
+      "onboard_time": 1726118244,
+      "rank": 23,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 586162,
       "num": 409262,
       "word": "棣欣引力",
@@ -227,20 +243,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 520635,
+      "num": 265039,
+      "word": "王鹤棣 分寸感",
+      "onboard_time": 1726119202,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 513078,
       "num": 513078,
       "word": "尹净汉入伍公告",
       "onboard_time": 1726110742,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 510844,
-      "num": 382494,
-      "word": "25岁女孩铁腚环游世界42城路费2万",
-      "onboard_time": 1726115903,
-      "rank": 48,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 509849,
@@ -257,6 +273,14 @@
       "onboard_time": 1726112060,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 491446,
+      "num": 228250,
+      "word": "王鹤棣起诉追瓜少年阿飞",
+      "onboard_time": 1726119202,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 482381,
@@ -291,6 +315,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 464971,
+      "num": 464971,
+      "word": "NewJeans给HYBE14天期限",
+      "onboard_time": 1726115423,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 457214,
       "num": 285660,
       "word": "巨型猫尾惊现郑州街头",
@@ -313,14 +345,6 @@
       "onboard_time": 1726103000,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 431945,
-      "num": 431945,
-      "word": "NewJeans给HYBE14天期限",
-      "onboard_time": 1726115423,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 424329,
@@ -361,6 +385,14 @@
       "onboard_time": 1726113560,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 397983,
+      "num": 221708,
+      "word": "何炅 自卑的人该怎样治愈自己",
+      "onboard_time": 1726118302,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 397590,
@@ -456,6 +488,14 @@
       "word": "女子被家暴失明母亲希望判男方无期",
       "onboard_time": 1726056381,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301398,
+      "num": 353933,
+      "word": "两对情侣聚餐演变成挥刀故意伤害",
+      "onboard_time": 1726114764,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -563,14 +603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 250448,
-      "num": 250448,
-      "word": "六小龄童谈黑神话悟空热",
-      "onboard_time": 1726118244,
-      "rank": 23,
-      "category": "艺人,游戏"
-    },
-    {
       "raw_hot": 250131,
       "num": 250131,
       "word": "咒术回战269",
@@ -633,14 +665,6 @@
       "onboard_time": 1726096219,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 230651,
-      "num": 353933,
-      "word": "两对情侣聚餐演变成挥刀故意伤害",
-      "onboard_time": 1726114764,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227694,
@@ -707,8 +731,16 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 209019,
+      "num": 209019,
+      "word": "多国国防部军官陆续抵达北京",
+      "onboard_time": 1726117880,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 205592,
-      "num": 178502,
+      "num": 205776,
       "word": "杨幂38岁生日vlog",
       "onboard_time": 1726117282,
       "rank": 38,
@@ -793,6 +825,14 @@
       "onboard_time": 1726114640,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 186280,
+      "num": 186280,
+      "word": "女子月子里通宵带娃还被家暴",
+      "onboard_time": 1726115903,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185475,
@@ -883,14 +923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170844,
-      "num": 170844,
-      "word": "何炅 自卑的人该怎样治愈自己",
-      "onboard_time": 1726118302,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 168759,
       "num": 168759,
       "word": "乙骨苏醒",
@@ -923,28 +955,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164140,
-      "num": 164140,
-      "word": "多国国防部军官陆续抵达北京",
-      "onboard_time": 1726117880,
-      "rank": 46,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 160708,
       "num": 160708,
       "word": "静息心率快的人死亡风险更高",
       "onboard_time": 1726111459,
       "rank": 40,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 158029,
-      "num": 158029,
-      "word": "女子月子里通宵带娃还被家暴",
-      "onboard_time": 1726115903,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155449,
@@ -1179,6 +1195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122089,
+      "num": 122089,
+      "word": "35岁放弃大厂百万年薪做游戏",
+      "onboard_time": 1726119321,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 114029,
       "num": 114029,
       "word": "英伟达市值一夜大增1.54万亿",
@@ -1203,12 +1227,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 107865,
+      "num": 384002,
+      "word": "还原取亡父存款需本人解锁事发过程",
+      "onboard_time": 1726117041,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107612,
       "num": 364745,
       "word": "第一份工作工资到底有多重要",
       "onboard_time": 1726115543,
       "rank": 18,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 104064,
+      "num": 105824,
+      "word": "日本将拍摄水浒传",
+      "onboard_time": 1726119381,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 99270,
@@ -1355,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72945,
+      "num": 229728,
+      "word": "来罗织 偏执的爱",
+      "onboard_time": 1726119141,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 71647,
       "num": 75517,
       "word": "假芬迪月饼在橱窗已无法找到",
@@ -1427,14 +1475,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 61177,
-      "num": 384002,
-      "word": "还原取亡父存款需本人解锁事发过程",
-      "onboard_time": 1726117041,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 57978,
       "num": 57978,
       "word": "李子园回应营收下滑",
@@ -1499,6 +1539,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 36646,
+      "num": 255778,
+      "word": "养殖户为创业疯狂偷猪仔50头",
+      "onboard_time": 1726117941,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34380,
       "num": 814700,
       "word": "丰收的颜色惊艳了整个秋天",
@@ -1520,14 +1568,6 @@
       "word": "大学期间可以争取哪些合理收入",
       "onboard_time": 1726077913,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30800,
-      "num": 255778,
-      "word": "养殖户为创业疯狂偷猪仔50头",
-      "onboard_time": 1726117941,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1563,6 +1603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26323,
+      "num": 270373,
+      "word": "无序放生变杀生怎么解",
+      "onboard_time": 1726117641,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23601,
       "num": 46487,
       "word": "在郑州偶遇周深",
@@ -1577,14 +1625,6 @@
       "onboard_time": 1726064964,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 22656,
-      "num": 270373,
-      "word": "无序放生变杀生怎么解",
-      "onboard_time": 1726117641,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20900,
