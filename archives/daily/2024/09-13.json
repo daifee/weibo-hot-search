@@ -1,6 +1,6 @@
 {
   "startTime": 1726158397527,
-  "endTime": 1726179656444,
+  "endTime": 1726180721959,
   "band_list": [
     {
       "raw_hot": 1526950,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 448602,
+      "num": 505179,
+      "word": "男子用大方遮掩心虚被司机一眼识破",
+      "onboard_time": 1726159157,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414191,
       "num": 147027,
       "word": "徐艺洋真的不会打死黄子韬吗",
@@ -80,14 +88,6 @@
       "word": "山东一高校突发男生坠楼事件",
       "onboard_time": 1726143379,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 339553,
-      "num": 388725,
-      "word": "男子用大方遮掩心虚被司机一眼识破",
-      "onboard_time": 1726159157,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -123,6 +123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 245039,
+      "num": 127833,
+      "word": "殷世航说韩安冉把孩子带好比什么都强",
+      "onboard_time": 1726163532,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 236267,
       "num": 236267,
       "word": "原来果冻是这样开的",
@@ -155,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195552,
+      "num": 126251,
+      "word": "男子与女友分手趁她加班进门偷狗",
+      "onboard_time": 1726171511,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182580,
       "num": 182580,
       "word": "24岁生下唐氏综合征患儿母亲发声",
@@ -168,22 +184,6 @@
       "word": "不爱出远门的年轻人在家门口微度假",
       "onboard_time": 1726158377,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163440,
-      "num": 67481,
-      "word": "殷世航说韩安冉把孩子带好比什么都强",
-      "onboard_time": 1726163532,
-      "rank": 23,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 157305,
-      "num": 67402,
-      "word": "男子与女友分手趁她加班进门偷狗",
-      "onboard_time": 1726171511,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -243,8 +243,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 119015,
-      "num": 127648,
+      "raw_hot": 119995,
+      "num": 138300,
       "word": "肖战直播生图",
       "onboard_time": 1726154000,
       "rank": 28,
@@ -273,6 +273,14 @@
       "onboard_time": 1726156578,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101300,
+      "num": 101300,
+      "word": "第一次见把军训服穿的这么带劲的人",
+      "onboard_time": 1726157777,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 99015,
@@ -307,14 +315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 93083,
-      "num": 93083,
-      "word": "第一次见把军训服穿的这么带劲的人",
-      "onboard_time": 1726157777,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 88940,
       "num": 88940,
       "word": "库里在成都吃火锅打麻将",
@@ -345,6 +345,14 @@
       "onboard_time": 1726154060,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85502,
+      "num": 85502,
+      "word": "外交部回应中越边境地区洪涝灾害",
+      "onboard_time": 1726173191,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 85355,
@@ -403,20 +411,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 61434,
-      "num": 61434,
-      "word": "外交部回应中越边境地区洪涝灾害",
-      "onboard_time": 1726173191,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 61410,
       "num": 127571,
       "word": "王楚钦3比0战胜徐瑛彬",
       "onboard_time": 1726144820,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51291,
+      "num": 146504,
+      "word": "碎花裙女生和拿勺大厨都将被奖励",
+      "onboard_time": 1726161134,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51207,
@@ -483,23 +491,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40040,
-      "num": 146504,
-      "word": "碎花裙女生和拿勺大厨都将被奖励",
-      "onboard_time": 1726161134,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36730,
-      "num": 88761,
+      "num": 132261,
       "word": "第一视角体验火箭垂直起降",
       "onboard_time": 1726152020,
       "rank": 37,
       "category": "国内时政"
     },
     {
-      "raw_hot": 36413,
+      "raw_hot": 36634,
       "num": 55346,
       "word": "王楚钦vs徐瑛彬",
       "onboard_time": 1726140079,
@@ -523,12 +523,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34067,
+      "num": 34067,
+      "word": "澳门冠军赛8强对阵",
+      "onboard_time": 1726179313,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 32491,
+      "num": 32491,
+      "word": "碎花裙女生回应网友关心",
+      "onboard_time": 1726172531,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29818,
       "num": 55312,
       "word": "国际金价又涨到新高了",
       "onboard_time": 1726162513,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 29768,
+      "num": 31897,
+      "word": "持刀男子与受伤女子疑因拍照引发纠纷",
+      "onboard_time": 1726165512,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29697,
@@ -547,12 +571,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 28027,
-      "num": 28027,
-      "word": "碎花裙女生回应网友关心",
-      "onboard_time": 1726172531,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 28274,
+      "num": 30467,
+      "word": "白鹿向海南受灾地区捐赠物资",
+      "onboard_time": 1726178712,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 27556,
@@ -563,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27479,
+      "num": 30466,
+      "word": "猫 没找你收费就不错了",
+      "onboard_time": 1726167912,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 27267,
       "num": 31916,
       "word": "吗喽竟然是正儿八经的粤语",
@@ -571,44 +603,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 25372,
-      "num": 31897,
-      "word": "持刀男子与受伤女子疑因拍照引发纠纷",
-      "onboard_time": 1726165512,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 27251,
+      "num": 30466,
+      "word": "章若楠张哲华演情侣",
+      "onboard_time": 1726180094,
+      "rank": 47,
+      "category": "剧集"
     },
     {
-      "raw_hot": 23538,
-      "num": 25359,
-      "word": "猫 没找你收费就不错了",
-      "onboard_time": 1726167912,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 22931,
-      "num": 25364,
+      "raw_hot": 26317,
+      "num": 30465,
       "word": "台风贝碧嘉中秋期间或将影响华东地区",
       "onboard_time": 1726170732,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21705,
-      "num": 25339,
-      "word": "白鹿向海南受灾地区捐赠物资",
-      "onboard_time": 1726178712,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 20378,
-      "num": 25322,
-      "word": "澳门冠军赛8强对阵",
-      "onboard_time": 1726179313,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 17352,
