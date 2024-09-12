@@ -1,6 +1,6 @@
 {
   "startTime": 1726158397527,
-  "endTime": 1726176910393,
+  "endTime": 1726179656444,
   "band_list": [
     {
       "raw_hot": 1526950,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 339553,
-      "num": 339553,
+      "num": 388725,
       "word": "男子用大方遮掩心虚被司机一眼识破",
       "onboard_time": 1726159157,
       "rank": 9,
@@ -168,6 +168,22 @@
       "word": "不爱出远门的年轻人在家门口微度假",
       "onboard_time": 1726158377,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163440,
+      "num": 67481,
+      "word": "殷世航说韩安冉把孩子带好比什么都强",
+      "onboard_time": 1726163532,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 157305,
+      "num": 67402,
+      "word": "男子与女友分手趁她加班进门偷狗",
+      "onboard_time": 1726171511,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -267,14 +283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 96241,
-      "num": 36050,
-      "word": "男子与女友分手趁她加班进门偷狗",
-      "onboard_time": 1726171511,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 93877,
       "num": 93877,
       "word": "谢美蓝婚姻",
@@ -305,14 +313,6 @@
       "onboard_time": 1726157777,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 90115,
-      "num": 47338,
-      "word": "殷世航说韩安冉把孩子带好比什么都强",
-      "onboard_time": 1726163532,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 88940,
@@ -403,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61434,
+      "num": 61434,
+      "word": "外交部回应中越边境地区洪涝灾害",
+      "onboard_time": 1726173191,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 61410,
       "num": 127571,
       "word": "王楚钦3比0战胜徐瑛彬",
@@ -475,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40040,
+      "num": 146504,
+      "word": "碎花裙女生和拿勺大厨都将被奖励",
+      "onboard_time": 1726161134,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36730,
       "num": 88761,
       "word": "第一视角体验火箭垂直起降",
@@ -483,15 +499,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 35400,
-      "num": 35400,
-      "word": "外交部回应中越边境地区洪涝灾害",
-      "onboard_time": 1726173191,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 34753,
+      "raw_hot": 36413,
       "num": 55346,
       "word": "王楚钦vs徐瑛彬",
       "onboard_time": 1726140079,
@@ -512,14 +520,6 @@
       "word": "鸿星尔克的大秀一直在讲中国心",
       "onboard_time": 1726154960,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30116,
-      "num": 146504,
-      "word": "碎花裙女生和拿勺大厨都将被奖励",
-      "onboard_time": 1726161134,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -547,6 +547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 28027,
+      "num": 28027,
+      "word": "碎花裙女生回应网友关心",
+      "onboard_time": 1726172531,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27556,
       "num": 46652,
       "word": "服美役",
@@ -563,15 +571,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 23538,
-      "num": 24949,
-      "word": "猫 没找你收费就不错了",
-      "onboard_time": 1726167912,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 23165,
+      "raw_hot": 25372,
       "num": 31897,
       "word": "持刀男子与受伤女子疑因拍照引发纠纷",
       "onboard_time": 1726165512,
@@ -579,20 +579,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20944,
-      "num": 20944,
-      "word": "碎花裙女生回应网友关心",
-      "onboard_time": 1726172531,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 23538,
+      "num": 25359,
+      "word": "猫 没找你收费就不错了",
+      "onboard_time": 1726167912,
+      "rank": 45,
+      "category": "幽默"
     },
     {
-      "raw_hot": 19711,
-      "num": 19711,
+      "raw_hot": 22931,
+      "num": 25364,
       "word": "台风贝碧嘉中秋期间或将影响华东地区",
       "onboard_time": 1726170732,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21705,
+      "num": 25339,
+      "word": "白鹿向海南受灾地区捐赠物资",
+      "onboard_time": 1726178712,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 20378,
+      "num": 25322,
+      "word": "澳门冠军赛8强对阵",
+      "onboard_time": 1726179313,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 17352,
