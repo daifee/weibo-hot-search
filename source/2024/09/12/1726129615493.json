@@ -1,0 +1,410 @@
+{
+  "runTime": 1726129615493,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1521880,
+        "num": 1521880,
+        "word": "24岁生下唐氏综合征患儿母亲发声",
+        "onboard_time": 1726122141,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1099992,
+        "num": 1099992,
+        "word": "HPV疫苗卖不动了",
+        "onboard_time": 1726119920,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 5250,
+        "num": 910897,
+        "word": "万千气象看内蒙古",
+        "onboard_time": 1725887060,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 859591,
+        "num": 859591,
+        "word": "她是第一个挺身而出的人",
+        "onboard_time": 1726126520,
+        "rank": 3,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 799826,
+        "num": 799826,
+        "word": "淘宝微信支付",
+        "onboard_time": 1726127961,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 733203,
+        "num": 733203,
+        "word": "小鱼 不是本科一批是笨的一批",
+        "onboard_time": 1726127059,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 663505,
+        "num": 663505,
+        "word": "林高远止步澳门赛16强",
+        "onboard_time": 1726125379,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 658876,
+        "num": 658876,
+        "word": "这三种照片千万不要随便晒",
+        "onboard_time": 1726122141,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547716,
+        "num": 581880,
+        "word": "HYBE拒绝NewJeans要求",
+        "onboard_time": 1726126099,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 546785,
+        "num": 576491,
+        "word": "碎花裙女生拼尽全力敲打行凶者",
+        "onboard_time": 1726112961,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576392,
+        "num": 576392,
+        "word": "林诗栋vs张本智和",
+        "onboard_time": 1726128859,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 469588,
+        "num": 469588,
+        "word": "0713出发陆虎婚礼",
+        "onboard_time": 1726120341,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448662,
+        "num": 448662,
+        "word": "韩安冉说流量不好时挺爱殷世航的",
+        "onboard_time": 1726124539,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 70919,
+        "num": 419971,
+        "word": "第一次懂了无差别的意义",
+        "onboard_time": 1726127000,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104966,
+        "num": 408475,
+        "word": "女生吃小火锅瞥见货架摆一排増香汁",
+        "onboard_time": 1726127600,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408430,
+        "num": 408430,
+        "word": "有的餐馆脏得外卖骑手都不愿意取餐",
+        "onboard_time": 1726123041,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399880,
+        "num": 399880,
+        "word": "刘诗诗为杨幂庆祝生日",
+        "onboard_time": 1726126099,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84219,
+        "num": 340877,
+        "word": "如何过好大学生活",
+        "onboard_time": 1726128980,
+        "rank": 17,
+        "category": "社会议题,教育"
+      },
+      {
+        "raw_hot": 299987,
+        "num": 299987,
+        "word": "虞书欣 双轨",
+        "onboard_time": 1726115482,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19143,
+        "num": 252653,
+        "word": "精英阶层的自我复制",
+        "onboard_time": 1726128318,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1332279,
+        "num": 251726,
+        "word": "女生眼角掉出黑色异物竟是74根眼睫毛",
+        "onboard_time": 1726128141,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503030,
+        "num": 249231,
+        "word": "公园回应男厕小便池半露天式",
+        "onboard_time": 1726122500,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243425,
+        "num": 243425,
+        "word": "王鹤棣 分寸感",
+        "onboard_time": 1726119202,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241060,
+        "num": 241060,
+        "word": "镇政府回应丈夫失手杀妻后自尽",
+        "onboard_time": 1726128500,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237268,
+        "num": 237268,
+        "word": "徐艺洋晒照庆生",
+        "onboard_time": 1726121360,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11578,
+        "num": 230313,
+        "word": "广西多河段现超警洪水",
+        "onboard_time": 1726080732,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228689,
+        "num": 228689,
+        "word": "六小龄童谈黑神话悟空热",
+        "onboard_time": 1726118244,
+        "rank": 26,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 205907,
+        "num": 205907,
+        "word": "诗幂",
+        "onboard_time": 1726128859,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180966,
+        "num": 180966,
+        "word": "陈幸同3比1伯格斯特隆",
+        "onboard_time": 1726128559,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161880,
+        "num": 180118,
+        "word": "何炅 自卑的人该怎样治愈自己",
+        "onboard_time": 1726118302,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179309,
+        "num": 179309,
+        "word": "大胖媳妇 忌口就是每样都吃几口",
+        "onboard_time": 1726121300,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179065,
+        "num": 179065,
+        "word": "解放军1秒决断保住遇险直升机",
+        "onboard_time": 1726125680,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177304,
+        "num": 177304,
+        "word": "宁德时代曾毓群称与李彦宏同名还同龄",
+        "onboard_time": 1726128379,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 166613,
+        "num": 166613,
+        "word": "修冰箱4.8元零件被收1610元",
+        "onboard_time": 1726114700,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158514,
+        "num": 158514,
+        "word": "女子净身出户每天把1岁儿子锁家里",
+        "onboard_time": 1726095255,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155997,
+        "num": 155997,
+        "word": "WTT",
+        "onboard_time": 1726127180,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135992,
+        "num": 135992,
+        "word": "陆虎陈曌旭将在丽江举办婚礼",
+        "onboard_time": 1726111700,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127464,
+        "num": 127464,
+        "word": "一跨国拐卖妇女嫌犯被押解回国",
+        "onboard_time": 1726126460,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125156,
+        "num": 125156,
+        "word": "金晨 止鼾器",
+        "onboard_time": 1726129460,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124323,
+        "num": 124323,
+        "word": "BE天花板级别的爱情故事",
+        "onboard_time": 1726128741,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122559,
+        "num": 122559,
+        "word": "里斯本丸沉没 伟大的电影",
+        "onboard_time": 1726128741,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121225,
+        "num": 121225,
+        "word": "国足24年换了15任主帅",
+        "onboard_time": 1726123941,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121036,
+        "num": 121036,
+        "word": "五月天成都",
+        "onboard_time": 1726129101,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115813,
+        "num": 115813,
+        "word": "小编工资拿的不容易",
+        "onboard_time": 1726126099,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113436,
+        "num": 113436,
+        "word": "人到中年有多少存款才有安全感",
+        "onboard_time": 1726129340,
+        "rank": 44,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 104614,
+        "num": 104614,
+        "word": "官方通报河南一中学多人用餐后送医",
+        "onboard_time": 1726129519,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100664,
+        "num": 100664,
+        "word": "猫又把毛绒球放我电脑包里了",
+        "onboard_time": 1726125918,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94862,
+        "num": 94862,
+        "word": "林高远vs高承睿",
+        "onboard_time": 1726123880,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94797,
+        "num": 94797,
+        "word": "2024年预防出生缺陷日",
+        "onboard_time": 1726124719,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92126,
+        "num": 92126,
+        "word": "韩路 Mate XT三折屏详细上手体验",
+        "onboard_time": 1726129280,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在甘肃兰州市考察调研#"
+    }
+  }
+}

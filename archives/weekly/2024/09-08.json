@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726126533066,
+  "endTime": 1726129615493,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -561,6 +561,14 @@
       "onboard_time": 1725904272,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1332279,
+      "num": 251726,
+      "word": "女生眼角掉出黑色异物竟是74根眼睫毛",
+      "onboard_time": 1726128141,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1328720,
@@ -1243,6 +1251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 859591,
+      "num": 859591,
+      "word": "她是第一个挺身而出的人",
+      "onboard_time": 1726126520,
+      "rank": 46,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 858729,
       "num": 858729,
       "word": "中方回应普京希望中国调停乌克兰危机",
@@ -1377,6 +1393,14 @@
       "onboard_time": 1725705080,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 799826,
+      "num": 799826,
+      "word": "淘宝微信支付",
+      "onboard_time": 1726127961,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 797244,
@@ -1553,6 +1577,14 @@
       "onboard_time": 1725881479,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 733203,
+      "num": 733203,
+      "word": "小鱼 不是本科一批是笨的一批",
+      "onboard_time": 1726127059,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 731903,
@@ -2131,6 +2163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 576392,
+      "num": 576392,
+      "word": "林诗栋vs张本智和",
+      "onboard_time": 1726128859,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 572342,
       "num": 572342,
       "word": "王楚钦孙颖莎久违的笑容",
@@ -2209,6 +2249,14 @@
       "onboard_time": 1726045281,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 547716,
+      "num": 581880,
+      "word": "HYBE拒绝NewJeans要求",
+      "onboard_time": 1726126099,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 545501,
@@ -2739,6 +2787,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 448662,
+      "num": 448662,
+      "word": "韩安冉说流量不好时挺爱殷世航的",
+      "onboard_time": 1726124539,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 447787,
       "num": 711728,
       "word": "张雨绮你什么时候关注他",
@@ -2849,14 +2905,6 @@
       "onboard_time": 1725852499,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 428566,
-      "num": 428566,
-      "word": "HYBE拒绝NewJeans要求",
-      "onboard_time": 1726126099,
-      "rank": 8,
-      "category": "音乐"
     },
     {
       "raw_hot": 426983,
@@ -3011,6 +3059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 408430,
+      "num": 442712,
+      "word": "有的餐馆脏得外卖骑手都不愿意取餐",
+      "onboard_time": 1726123041,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 408104,
       "num": 408104,
       "word": "广州一幼儿园爆改成老年大学",
@@ -3121,6 +3177,14 @@
       "onboard_time": 1726029803,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 399880,
+      "num": 399880,
+      "word": "刘诗诗为杨幂庆祝生日",
+      "onboard_time": 1726126099,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 399289,
@@ -4131,14 +4195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 288067,
-      "num": 442712,
-      "word": "有的餐馆脏得外卖骑手都不愿意取餐",
-      "onboard_time": 1726123041,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 287975,
       "num": 277546,
       "word": "花海受伤",
@@ -4313,14 +4369,6 @@
       "onboard_time": 1725937699,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 273637,
-      "num": 249282,
-      "word": "韩安冉说流量不好时挺爱殷世航的",
-      "onboard_time": 1726124539,
-      "rank": 24,
-      "category": "网红"
     },
     {
       "raw_hot": 273600,
@@ -4897,6 +4945,14 @@
       "onboard_time": 1725946640,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241060,
+      "num": 241060,
+      "word": "镇政府回应丈夫失手杀妻后自尽",
+      "onboard_time": 1726128500,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241006,
@@ -5921,6 +5977,14 @@
       "onboard_time": 1725883758,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205907,
+      "num": 205907,
+      "word": "诗幂",
+      "onboard_time": 1726128859,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 205851,
@@ -6995,14 +7059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184049,
-      "num": 151652,
-      "word": "刘诗诗为杨幂庆祝生日",
-      "onboard_time": 1726126099,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 183794,
       "num": 183794,
       "word": "黄景瑜你喊王子奇什么",
@@ -7163,6 +7219,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 180966,
+      "num": 180966,
+      "word": "陈幸同3比1伯格斯特隆",
+      "onboard_time": 1726128559,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180843,
       "num": 180843,
       "word": "于正说白鹿王星越早晚要搭",
@@ -7240,6 +7304,14 @@
       "word": "市监回应老人称在足浴店消费32万",
       "onboard_time": 1725768020,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179065,
+      "num": 179065,
+      "word": "解放军1秒决断保住遇险直升机",
+      "onboard_time": 1726125680,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -7339,6 +7411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177304,
+      "num": 177304,
+      "word": "宁德时代曾毓群称与李彦宏同名还同龄",
+      "onboard_time": 1726128379,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 177163,
       "num": 153735,
       "word": "特朗普称哈里斯是马克思主义者",
@@ -7425,14 +7505,6 @@
       "onboard_time": 1726050142,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 175749,
-      "num": 175749,
-      "word": "解放军1秒决断保住遇险直升机",
-      "onboard_time": 1726125680,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175698,
@@ -10211,6 +10283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127464,
+      "num": 127464,
+      "word": "一跨国拐卖妇女嫌犯被押解回国",
+      "onboard_time": 1726126460,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127311,
       "num": 127311,
       "word": "全圆佑签售",
@@ -10355,6 +10435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125156,
+      "num": 125156,
+      "word": "金晨 止鼾器",
+      "onboard_time": 1726129460,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125087,
       "num": 125087,
       "word": "女子称男婴被丈夫单独照顾后死亡",
@@ -10433,6 +10521,14 @@
       "onboard_time": 1725784161,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124323,
+      "num": 124323,
+      "word": "BE天花板级别的爱情故事",
+      "onboard_time": 1726128741,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 124199,
@@ -10563,6 +10659,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 122559,
+      "num": 122559,
+      "word": "里斯本丸沉没 伟大的电影",
+      "onboard_time": 1726128741,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 122270,
       "num": 122270,
       "word": "中式香氛爆火",
@@ -10635,6 +10739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121225,
+      "num": 121225,
+      "word": "国足24年换了15任主帅",
+      "onboard_time": 1726123941,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121196,
       "num": 121196,
       "word": "国足赛前受冷遇大量余票待售",
@@ -10651,19 +10763,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121036,
+      "num": 121036,
+      "word": "五月天成都",
+      "onboard_time": 1726129101,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 120701,
       "num": 120701,
       "word": "上海交大校长称给青年吃成长定心丸",
       "onboard_time": 1725772520,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120620,
-      "num": 120620,
-      "word": "一跨国拐卖妇女嫌犯被押解回国",
-      "onboard_time": 1726126460,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -10899,14 +11011,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 116379,
-      "num": 116379,
-      "word": "她是第一个挺身而出的人",
-      "onboard_time": 1726126520,
-      "rank": 46,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 116008,
       "num": 116008,
       "word": "王楚钦进16强",
@@ -11041,6 +11145,14 @@
       "onboard_time": 1726063886,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113436,
+      "num": 113436,
+      "word": "人到中年有多少存款才有安全感",
+      "onboard_time": 1726129340,
+      "rank": 44,
+      "category": "社会议题"
     },
     {
       "raw_hot": 113386,
@@ -11523,6 +11635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104966,
+      "num": 408475,
+      "word": "女生吃小火锅瞥见货架摆一排増香汁",
+      "onboard_time": 1726127600,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104656,
       "num": 104656,
       "word": "原来用荷叶喝茶更好喝是真的",
@@ -11537,6 +11657,14 @@
       "onboard_time": 1726019657,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104614,
+      "num": 104614,
+      "word": "官方通报河南一中学多人用餐后送医",
+      "onboard_time": 1726129519,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104443,
@@ -11811,14 +11939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96777,
-      "num": 96777,
-      "word": "国足24年换了15任主帅",
-      "onboard_time": 1726123941,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 96705,
       "num": 96705,
       "word": "曾黎翟子路演母子",
@@ -11977,6 +12097,14 @@
       "onboard_time": 1726043540,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92126,
+      "num": 92126,
+      "word": "韩路 Mate XT三折屏详细上手体验",
+      "onboard_time": 1726129280,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 92013,
@@ -12225,6 +12353,14 @@
       "onboard_time": 1725973282,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84219,
+      "num": 340877,
+      "word": "如何过好大学生活",
+      "onboard_time": 1726128980,
+      "rank": 17,
+      "category": "社会议题,教育"
     },
     {
       "raw_hot": 84158,
@@ -12481,6 +12617,14 @@
       "onboard_time": 1725801500,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70919,
+      "num": 419971,
+      "word": "第一次懂了无差别的意义",
+      "onboard_time": 1726127000,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70719,
@@ -14284,7 +14428,7 @@
     },
     {
       "raw_hot": 20084,
-      "num": 32643,
+      "num": 230313,
       "word": "广西多河段现超警洪水",
       "onboard_time": 1726080732,
       "rank": 44,
@@ -14329,6 +14473,14 @@
       "onboard_time": 1725982282,
       "rank": 19,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 19143,
+      "num": 252653,
+      "word": "精英阶层的自我复制",
+      "onboard_time": 1726128318,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19034,
@@ -14653,6 +14805,9 @@
     },
     {
       "word": "#习近平在甘肃兰州考察调研#"
+    },
+    {
+      "word": "#习近平在甘肃兰州市考察调研#"
     }
   ]
 }
