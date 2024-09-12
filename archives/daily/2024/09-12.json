@@ -1,6 +1,6 @@
 {
   "startTime": 1726072022754,
-  "endTime": 1726147638555,
+  "endTime": 1726148315883,
   "band_list": [
     {
       "raw_hot": 2496876,
@@ -59,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1654949,
+      "num": 1654949,
+      "word": "山东一高校突发男生坠楼事件",
+      "onboard_time": 1726143379,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1621669,
       "num": 1621669,
       "word": "王楚钦vs徐瑛彬",
@@ -75,14 +83,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1501294,
-      "num": 1501294,
-      "word": "山东一高校突发男生坠楼事件",
-      "onboard_time": 1726143379,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1330294,
       "num": 595076,
       "word": "丈夫致妻子死亡后服药自尽",
@@ -96,6 +96,14 @@
       "word": "女子净身出户每天把1岁儿子锁家里",
       "onboard_time": 1726095255,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1265182,
+      "num": 1076062,
+      "word": "天津黑飞",
+      "onboard_time": 1726142239,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -168,14 +176,6 @@
       "word": "上海出现一只在逃吗喽",
       "onboard_time": 1726135519,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1076062,
-      "num": 1076062,
-      "word": "天津黑飞",
-      "onboard_time": 1726142239,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -547,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 527702,
+      "num": 527702,
+      "word": "DK战胜T1",
+      "onboard_time": 1726146860,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 513078,
       "num": 513078,
       "word": "尹净汉入伍公告",
@@ -683,6 +691,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 425615,
+      "num": 425615,
+      "word": "傅首尔谈最痛苦的婚姻的样子",
+      "onboard_time": 1726143139,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 424329,
       "num": 424329,
       "word": "seventeen",
@@ -721,14 +737,6 @@
       "onboard_time": 1726114764,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 412319,
-      "num": 412319,
-      "word": "傅首尔谈最痛苦的婚姻的样子",
-      "onboard_time": 1726143139,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 409241,
@@ -793,14 +801,6 @@
       "onboard_time": 1726116022,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 373936,
-      "num": 373936,
-      "word": "DK战胜T1",
-      "onboard_time": 1726146860,
-      "rank": 22,
-      "category": "电竞"
     },
     {
       "raw_hot": 371068,
@@ -899,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300666,
+      "num": 276857,
+      "word": "瑞士选美小姐遭丈夫残忍肢解",
+      "onboard_time": 1726144700,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296323,
       "num": 296323,
       "word": "网红王蓉疑直播抽奖福袋乱标价",
@@ -929,6 +937,14 @@
       "onboard_time": 1726051400,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 288428,
+      "num": 237295,
+      "word": "黑神话悟空总收入近65亿",
+      "onboard_time": 1726147219,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 285919,
@@ -976,14 +992,6 @@
       "word": "镇政府回应丈夫失手杀妻后自尽",
       "onboard_time": 1726128500,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 276857,
-      "num": 276857,
-      "word": "瑞士选美小姐遭丈夫残忍肢解",
-      "onboard_time": 1726144700,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1155,6 +1163,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 230819,
+      "num": 230819,
+      "word": "月销5000万元的香港月饼香港买不到",
+      "onboard_time": 1726147938,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227694,
       "num": 227694,
       "word": "周雨彤苏晓彤又约饭了",
@@ -1251,6 +1267,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211729,
+      "num": 209591,
+      "word": "伊藤美诚心态",
+      "onboard_time": 1726147881,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 208656,
+      "num": 208656,
+      "word": "库里 离开西安",
+      "onboard_time": 1726147761,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206419,
       "num": 206419,
       "word": "诗幂",
@@ -1273,6 +1305,14 @@
       "onboard_time": 1726117282,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205005,
+      "num": 205005,
+      "word": "DK晋级S14",
+      "onboard_time": 1726147520,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 203764,
@@ -1321,6 +1361,14 @@
       "onboard_time": 1726108579,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196958,
+      "num": 196958,
+      "word": "王楚钦晋级8强",
+      "onboard_time": 1726147761,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 196586,
@@ -1403,14 +1451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 188985,
-      "num": 188985,
-      "word": "黑神话悟空总收入近65亿",
-      "onboard_time": 1726147219,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 188426,
       "num": 273247,
       "word": "TFING音乐厂牌",
@@ -1489,6 +1529,14 @@
       "onboard_time": 1726105758,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179195,
+      "num": 214426,
+      "word": "张凌赫的腿长具象化了",
+      "onboard_time": 1726147819,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 179065,
@@ -1587,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173261,
+      "num": 173261,
+      "word": "T1状态",
+      "onboard_time": 1726148180,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 173220,
       "num": 274523,
       "word": "宋亚轩美式男高造型",
@@ -1667,6 +1723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 166268,
+      "num": 166268,
+      "word": "解放军兵棋推演画面曝光",
+      "onboard_time": 1726144700,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165073,
       "num": 165073,
       "word": "上海市中心日租50元住什么房",
@@ -1683,14 +1747,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 164220,
-      "num": 164220,
-      "word": "解放军兵棋推演画面曝光",
-      "onboard_time": 1726144700,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164044,
       "num": 164044,
       "word": "田嘉瑞 抠抠搜搜地花了很多钱",
@@ -1705,6 +1761,14 @@
       "onboard_time": 1726118900,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 162661,
+      "num": 560314,
+      "word": "打顺风车后连续7天被免密支付21笔",
+      "onboard_time": 1726146200,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162596,
@@ -1849,14 +1913,6 @@
       "onboard_time": 1726135639,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 153097,
-      "num": 153097,
-      "word": "DK晋级S14",
-      "onboard_time": 1726147520,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 152376,
@@ -2451,14 +2507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102521,
-      "num": 560314,
-      "word": "打顺风车后连续7天被免密支付21笔",
-      "onboard_time": 1726146200,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102368,
       "num": 102368,
       "word": "水军有偿删外卖差评获刑",
@@ -2787,6 +2835,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 57876,
+      "num": 388763,
+      "word": "职业打假人羁押千日获52万国家赔偿",
+      "onboard_time": 1726146322,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52222,
       "num": 340064,
       "word": "生出有缺陷的宝宝是运气不好吗",
@@ -2873,14 +2929,6 @@
       "onboard_time": 1726138761,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 41174,
-      "num": 388763,
-      "word": "职业打假人羁押千日获52万国家赔偿",
-      "onboard_time": 1726146322,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39767,
@@ -2972,7 +3020,7 @@
     },
     {
       "raw_hot": 29067,
-      "num": 155637,
+      "num": 250415,
       "word": "鸿星尔克让华夏英雄闯进了时尚界",
       "onboard_time": 1726147280,
       "rank": 42,
@@ -3108,7 +3156,7 @@
     },
     {
       "raw_hot": 13451,
-      "num": 1351112,
+      "num": 1426261,
       "word": "人民军队淬火向前",
       "onboard_time": 1726081931,
       "rank": 39,

@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726147638555,
+  "endTime": 1726148315883,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -323,6 +323,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1654949,
+      "num": 1654949,
+      "word": "山东一高校突发男生坠楼事件",
+      "onboard_time": 1726143379,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1653451,
       "num": 362323,
       "word": "情侣买房后分手女方觉得被骗",
@@ -432,14 +440,6 @@
       "word": "大马老人死4年才被儿子发现",
       "onboard_time": 1726059441,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1501294,
-      "num": 1501294,
-      "word": "山东一高校突发男生坠楼事件",
-      "onboard_time": 1726143379,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -699,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1265182,
+      "num": 1076062,
+      "word": "天津黑飞",
+      "onboard_time": 1726142239,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1262044,
       "num": 1262044,
       "word": "一个28岁女孩假装上班的两年",
@@ -936,14 +944,6 @@
       "word": "上海出现一只在逃吗喽",
       "onboard_time": 1726135519,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1076062,
-      "num": 1076062,
-      "word": "天津黑飞",
-      "onboard_time": 1726142239,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -2523,6 +2523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 527702,
+      "num": 527702,
+      "word": "DK战胜T1",
+      "onboard_time": 1726146860,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 523627,
       "num": 514454,
       "word": "赵丽颖带想想现身公园玩沙子",
@@ -3115,6 +3123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 425615,
+      "num": 425615,
+      "word": "傅首尔谈最痛苦的婚姻的样子",
+      "onboard_time": 1726143139,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 424974,
       "num": 424974,
       "word": "iPhone16Pro预计维持999美元起价",
@@ -3241,14 +3257,6 @@
       "onboard_time": 1725841579,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 412319,
-      "num": 412319,
-      "word": "傅首尔谈最痛苦的婚姻的样子",
-      "onboard_time": 1726143139,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 409739,
@@ -3593,14 +3601,6 @@
       "onboard_time": 1725888199,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 373936,
-      "num": 373936,
-      "word": "DK战胜T1",
-      "onboard_time": 1726146860,
-      "rank": 22,
-      "category": "电竞"
     },
     {
       "raw_hot": 373423,
@@ -4307,6 +4307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 300666,
+      "num": 276857,
+      "word": "瑞士选美小姐遭丈夫残忍肢解",
+      "onboard_time": 1726144700,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300243,
       "num": 300243,
       "word": "库里直播",
@@ -4417,6 +4425,14 @@
       "onboard_time": 1726106719,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288428,
+      "num": 237295,
+      "word": "黑神话悟空总收入近65亿",
+      "onboard_time": 1726147219,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 287975,
@@ -4585,14 +4601,6 @@
       "onboard_time": 1725941302,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 276857,
-      "num": 276857,
-      "word": "瑞士选美小姐遭丈夫残忍肢解",
-      "onboard_time": 1726144700,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 275134,
@@ -5507,6 +5515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230819,
+      "num": 230819,
+      "word": "月销5000万元的香港月饼香港买不到",
+      "onboard_time": 1726147938,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230160,
       "num": 230160,
       "word": "毒液3内地定档",
@@ -6115,6 +6131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211729,
+      "num": 209591,
+      "word": "伊藤美诚心态",
+      "onboard_time": 1726147881,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210718,
       "num": 210718,
       "word": "AG战胜RW",
@@ -6193,6 +6217,14 @@
       "onboard_time": 1725812237,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208656,
+      "num": 208656,
+      "word": "库里 离开西安",
+      "onboard_time": 1726147761,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 208617,
@@ -6392,6 +6424,14 @@
       "word": "白色月牙",
       "onboard_time": 1725869060,
       "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 205005,
+      "num": 205005,
+      "word": "DK晋级S14",
+      "onboard_time": 1726147520,
+      "rank": 46,
       "category": "电竞"
     },
     {
@@ -6777,6 +6817,14 @@
       "onboard_time": 1725868100,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196958,
+      "num": 196958,
+      "word": "王楚钦晋级8强",
+      "onboard_time": 1726147761,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 196640,
@@ -7177,14 +7225,6 @@
       "onboard_time": 1726024099,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 188985,
-      "num": 188985,
-      "word": "黑神话悟空总收入近65亿",
-      "onboard_time": 1726147219,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 188977,
@@ -7723,6 +7763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179195,
+      "num": 214426,
+      "word": "张凌赫的腿长具象化了",
+      "onboard_time": 1726147819,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 179065,
       "num": 179065,
       "word": "解放军1秒决断保住遇险直升机",
@@ -8041,6 +8089,14 @@
       "onboard_time": 1725855320,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 173261,
+      "num": 173261,
+      "word": "T1状态",
+      "onboard_time": 1726148180,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 173220,
@@ -8419,6 +8475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166268,
+      "num": 166268,
+      "word": "解放军兵棋推演画面曝光",
+      "onboard_time": 1726144700,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166132,
       "num": 166132,
       "word": "中小学教师非教学负担过重",
@@ -8489,14 +8553,6 @@
       "onboard_time": 1725979703,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 164220,
-      "num": 164220,
-      "word": "解放军兵棋推演画面曝光",
-      "onboard_time": 1726144700,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164053,
@@ -8585,6 +8641,14 @@
       "onboard_time": 1726012519,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 162661,
+      "num": 560314,
+      "word": "打顺风车后连续7天被免密支付21笔",
+      "onboard_time": 1726146200,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162660,
@@ -9241,14 +9305,6 @@
       "onboard_time": 1725767120,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 153097,
-      "num": 153097,
-      "word": "DK晋级S14",
-      "onboard_time": 1726147520,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 152989,
@@ -12467,14 +12523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102521,
-      "num": 560314,
-      "word": "打顺风车后连续7天被免密支付21笔",
-      "onboard_time": 1726146200,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102368,
       "num": 102368,
       "word": "水军有偿删外卖差评获刑",
@@ -13755,6 +13803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 57876,
+      "num": 388763,
+      "word": "职业打假人羁押千日获52万国家赔偿",
+      "onboard_time": 1726146322,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57746,
       "num": 379517,
       "word": "刘端端掌握了音乐圈聊天的精髓",
@@ -14363,14 +14419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 41174,
-      "num": 388763,
-      "word": "职业打假人羁押千日获52万国家赔偿",
-      "onboard_time": 1726146322,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 41172,
       "num": 339641,
       "word": "华为见非凡品牌计划官宣",
@@ -14900,7 +14948,7 @@
     },
     {
       "raw_hot": 29067,
-      "num": 155637,
+      "num": 250415,
       "word": "鸿星尔克让华夏英雄闯进了时尚界",
       "onboard_time": 1726147280,
       "rank": 42,
@@ -15508,7 +15556,7 @@
     },
     {
       "raw_hot": 13451,
-      "num": 1351112,
+      "num": 1426261,
       "word": "人民军队淬火向前",
       "onboard_time": 1726081931,
       "rank": 39,
