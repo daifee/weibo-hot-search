@@ -1,10 +1,10 @@
 {
   "startTime": 1726072022754,
-  "endTime": 1726122626564,
+  "endTime": 1726123417089,
   "band_list": [
     {
-      "raw_hot": 2153257,
-      "num": 2153257,
+      "raw_hot": 2268144,
+      "num": 2268144,
       "word": "HPV疫苗卖不动了",
       "onboard_time": 1726119920,
       "rank": 0,
@@ -16,6 +16,14 @@
       "word": "碎花裙女生拼尽全力敲打行凶者",
       "onboard_time": 1726112961,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1358139,
+      "num": 1358139,
+      "word": "24岁生下唐氏综合征患儿母亲发声",
+      "onboard_time": 1726122141,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -275,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 539140,
+      "num": 371819,
+      "word": "徐艺洋晒照庆生",
+      "onboard_time": 1726121360,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 531679,
       "num": 531679,
       "word": "王鹤棣陈小纭曾合作大奉打更人",
@@ -387,6 +403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 423618,
+      "num": 423618,
+      "word": "杨幂塞壬出海",
+      "onboard_time": 1726121780,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 423499,
       "num": 423499,
       "word": "天津机场通报无人机导致航班延误",
@@ -459,12 +483,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 371819,
-      "num": 371819,
-      "word": "徐艺洋晒照庆生",
-      "onboard_time": 1726121360,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 372956,
+      "num": 372956,
+      "word": "这三种照片千万不要随便晒",
+      "onboard_time": 1726122141,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 371068,
@@ -547,28 +571,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 294513,
+      "num": 200518,
+      "word": "公园回应男厕小便池半露天式",
+      "onboard_time": 1726122500,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293332,
       "num": 293332,
       "word": "外资离开中国到底过得怎么样",
       "onboard_time": 1726067183,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 292479,
-      "num": 292479,
-      "word": "24岁生下唐氏综合征患儿母亲发声",
-      "onboard_time": 1726122141,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 290443,
-      "num": 290443,
-      "word": "杨幂塞壬出海",
-      "onboard_time": 1726121780,
-      "rank": 23,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 290348,
@@ -729,14 +745,6 @@
       "onboard_time": 1726096219,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 230351,
-      "num": 230351,
-      "word": "这三种照片千万不要随便晒",
-      "onboard_time": 1726122141,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227694,
@@ -979,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174846,
+      "num": 174846,
+      "word": "闫妮的微醺后继有人",
+      "onboard_time": 1726120519,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173565,
       "num": 396429,
       "word": "简约平价月饼成主流",
@@ -1001,14 +1017,6 @@
       "onboard_time": 1726117760,
       "rank": 42,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 168257,
-      "num": 168257,
-      "word": "闫妮的微醺后继有人",
-      "onboard_time": 1726120519,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 168219,
@@ -1115,6 +1123,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 146905,
+      "num": 146905,
+      "word": "INFP一定要有输出型爱好",
+      "onboard_time": 1726120041,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146733,
       "num": 146733,
       "word": "食物语",
@@ -1161,14 +1177,6 @@
       "onboard_time": 1726103000,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136756,
-      "num": 134242,
-      "word": "INFP一定要有输出型爱好",
-      "onboard_time": 1726120041,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 136370,
@@ -1243,6 +1251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 126947,
+      "num": 126947,
+      "word": "有的餐馆脏得外卖骑手都不愿意取餐",
+      "onboard_time": 1726123041,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126484,
       "num": 126484,
       "word": "静息心率在多少范围最健康",
@@ -1291,6 +1307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 123555,
+      "num": 304083,
+      "word": "崔眠大婚真的是按古代礼仪来的",
+      "onboard_time": 1726122259,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122089,
       "num": 122089,
       "word": "35岁放弃大厂百万年薪做游戏",
@@ -1299,20 +1323,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 119839,
-      "num": 119839,
+      "raw_hot": 120987,
+      "num": 120987,
       "word": "解说记得哭了",
       "onboard_time": 1726121600,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 117221,
-      "num": 117221,
-      "word": "公园回应男厕小便池半露天式",
-      "onboard_time": 1726122500,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114029,
@@ -1321,6 +1337,14 @@
       "onboard_time": 1726096578,
       "rank": 43,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 113178,
+      "num": 113178,
+      "word": "林昀儒3比0卡尔伯格",
+      "onboard_time": 1726122859,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 113140,
@@ -1337,6 +1361,22 @@
       "onboard_time": 1726099459,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111823,
+      "num": 111823,
+      "word": "为什么秋天的月亮格外皎洁",
+      "onboard_time": 1726122620,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 111404,
+      "num": 293376,
+      "word": "老人不参与体检被扣老人金",
+      "onboard_time": 1726121001,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111319,
@@ -1369,6 +1409,14 @@
       "onboard_time": 1726115543,
       "rank": 18,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 101267,
+      "num": 101267,
+      "word": "在学校门口摆摊原来也挺治愈",
+      "onboard_time": 1726122919,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 99270,
@@ -1523,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71743,
+      "num": 353733,
+      "word": "无人机黑飞危害有多大",
+      "onboard_time": 1726121300,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71647,
       "num": 75517,
       "word": "假芬迪月饼在橱窗已无法找到",
@@ -1595,28 +1651,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 61032,
-      "num": 304083,
-      "word": "崔眠大婚真的是按古代礼仪来的",
-      "onboard_time": 1726122259,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 57978,
       "num": 57978,
       "word": "李子园回应营收下滑",
       "onboard_time": 1726097658,
       "rank": 49,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 51807,
-      "num": 293376,
-      "word": "老人不参与体检被扣老人金",
-      "onboard_time": 1726121001,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50301,
@@ -1641,14 +1681,6 @@
       "onboard_time": 1726113560,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 45721,
-      "num": 353733,
-      "word": "无人机黑飞危害有多大",
-      "onboard_time": 1726121300,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44876,
@@ -1676,7 +1708,7 @@
     },
     {
       "raw_hot": 38204,
-      "num": 987842,
+      "num": 1166835,
       "word": "淬火强军新征程",
       "onboard_time": 1726110502,
       "rank": 2,
