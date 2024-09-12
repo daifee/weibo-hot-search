@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726119500945,
+  "endTime": 1726122626564,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -425,6 +425,14 @@
       "onboard_time": 1725866599,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2153257,
+      "num": 2153257,
+      "word": "HPV疫苗卖不动了",
+      "onboard_time": 1726119920,
+      "rank": 0,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 2147868,
@@ -3467,6 +3475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 844008,
+      "num": 401114,
+      "word": "王鹤棣 分寸感",
+      "onboard_time": 1726119202,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 842250,
       "num": 929829,
       "word": "陪读爸爸考上大学因现实放弃入学",
@@ -3544,6 +3560,14 @@
       "word": "谁该为骑行男孩之死负责",
       "onboard_time": 1725498200,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 826990,
+      "num": 826990,
+      "word": "警方回应天津机场无人机事件",
+      "onboard_time": 1726120519,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -4291,6 +4315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 723481,
+      "num": 291627,
+      "word": "何炅 自卑的人该怎样治愈自己",
+      "onboard_time": 1726118302,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 721877,
       "num": 721877,
       "word": "萨巴伦卡好壮",
@@ -4553,6 +4585,14 @@
       "onboard_time": 1725786677,
       "rank": 32,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 690441,
+      "num": 690441,
+      "word": "0713出发陆虎婚礼",
+      "onboard_time": 1726120341,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 687585,
@@ -5049,6 +5089,14 @@
       "onboard_time": 1725517039,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 637939,
+      "num": 637939,
+      "word": "六小龄童谈黑神话悟空热",
+      "onboard_time": 1726118244,
+      "rank": 23,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 637743,
@@ -5625,14 +5673,6 @@
       "onboard_time": 1725174799,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 586730,
-      "num": 273856,
-      "word": "六小龄童谈黑神话悟空热",
-      "onboard_time": 1726118244,
-      "rank": 23,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 586162,
@@ -6393,14 +6433,6 @@
       "onboard_time": 1726034781,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 520635,
-      "num": 265039,
-      "word": "王鹤棣 分寸感",
-      "onboard_time": 1726119202,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 520144,
@@ -7987,6 +8019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 419688,
+      "num": 419688,
+      "word": "两对情侣聚餐演变成挥刀故意伤害",
+      "onboard_time": 1726114764,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 419637,
       "num": 389594,
       "word": "国足备战受冷遇",
@@ -8353,14 +8393,6 @@
       "onboard_time": 1725889279,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 397983,
-      "num": 221708,
-      "word": "何炅 自卑的人该怎样治愈自己",
-      "onboard_time": 1726118302,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 397590,
@@ -8776,6 +8808,14 @@
       "word": "谢娜回应",
       "onboard_time": 1725371961,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 371819,
+      "num": 371819,
+      "word": "徐艺洋晒照庆生",
+      "onboard_time": 1726121360,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -9361,6 +9401,14 @@
       "onboard_time": 1725371001,
       "rank": 23,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 343126,
+      "num": 343126,
+      "word": "多国国防部军官陆续抵达北京",
+      "onboard_time": 1726117880,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 341602,
@@ -10355,14 +10403,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 301398,
-      "num": 353933,
-      "word": "两对情侣聚餐演变成挥刀故意伤害",
-      "onboard_time": 1726114764,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 301051,
       "num": 573597,
       "word": "辛芷蕾新片孕肚造型",
@@ -10635,6 +10675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 292479,
+      "num": 292479,
+      "word": "24岁生下唐氏综合征患儿母亲发声",
+      "onboard_time": 1726122141,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292164,
       "num": 196999,
       "word": "卢昱晓美式黑皮辣妹妆",
@@ -10657,6 +10705,14 @@
       "onboard_time": 1725961640,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 290443,
+      "num": 290443,
+      "word": "杨幂塞壬出海",
+      "onboard_time": 1726121780,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 290348,
@@ -11273,6 +11329,14 @@
       "onboard_time": 1725849978,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 273476,
+      "num": 184586,
+      "word": "大胖媳妇 忌口就是每样都吃几口",
+      "onboard_time": 1726121300,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 273140,
@@ -13339,6 +13403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230351,
+      "num": 230351,
+      "word": "这三种照片千万不要随便晒",
+      "onboard_time": 1726122141,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230260,
       "num": 230260,
       "word": "泰国醉酒男葬礼上闹事被乱抢打死",
@@ -14801,14 +14873,6 @@
       "onboard_time": 1725457761,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 209019,
-      "num": 209019,
-      "word": "多国国防部军官陆续抵达北京",
-      "onboard_time": 1726117880,
-      "rank": 46,
-      "category": "国内时政"
     },
     {
       "raw_hot": 208898,
@@ -17553,6 +17617,14 @@
       "onboard_time": 1725790638,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188360,
+      "num": 188360,
+      "word": "张朝阳建议游泳馆应免费",
+      "onboard_time": 1726121121,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 188355,
@@ -20433,6 +20505,14 @@
       "onboard_time": 1725201440,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168257,
+      "num": 168257,
+      "word": "闫妮的微醺后继有人",
+      "onboard_time": 1726120519,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 168229,
@@ -25003,6 +25083,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 136756,
+      "num": 134242,
+      "word": "INFP一定要有输出型爱好",
+      "onboard_time": 1726120041,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 136493,
       "num": 136493,
       "word": "赛车手是王一博职业规划一部分",
@@ -25305,6 +25393,14 @@
       "onboard_time": 1725152898,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134028,
+      "num": 134028,
+      "word": "日本将拍摄水浒传",
+      "onboard_time": 1726119381,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 134018,
@@ -26963,6 +27059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119839,
+      "num": 119839,
+      "word": "解说记得哭了",
+      "onboard_time": 1726121600,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 119778,
       "num": 119778,
       "word": "刘诗诗秋韵洒满裙摆",
@@ -27145,6 +27249,14 @@
       "onboard_time": 1725871639,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117221,
+      "num": 117221,
+      "word": "公园回应男厕小便池半露天式",
+      "onboard_time": 1726122500,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117090,
@@ -27531,6 +27643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113140,
+      "num": 113140,
+      "word": "考研倒计时100天",
+      "onboard_time": 1726119860,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 113073,
       "num": 113073,
       "word": "第一次见偷感这么重的青春剧",
@@ -27689,6 +27809,14 @@
       "onboard_time": 1726047560,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111319,
+      "num": 111319,
+      "word": "张凌赫中秋晚会录制花絮",
+      "onboard_time": 1726121060,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 111225,
@@ -28217,14 +28345,6 @@
       "onboard_time": 1726012759,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 104064,
-      "num": 105824,
-      "word": "日本将拍摄水浒传",
-      "onboard_time": 1726119381,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 103924,
@@ -30491,6 +30611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61032,
+      "num": 304083,
+      "word": "崔眠大婚真的是按古代礼仪来的",
+      "onboard_time": 1726122259,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 60989,
       "num": 228251,
       "word": "英国多家咖啡馆禁止顾客用电脑",
@@ -31123,6 +31251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51807,
+      "num": 293376,
+      "word": "老人不参与体检被扣老人金",
+      "onboard_time": 1726121001,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51778,
       "num": 217811,
       "word": "假冒品牌电视机白天下架夜间上架",
@@ -31656,6 +31792,14 @@
       "word": "女子被恶犬追逐摔伤饲养人担责",
       "onboard_time": 1726031122,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45721,
+      "num": 353733,
+      "word": "无人机黑飞危害有多大",
+      "onboard_time": 1726121300,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -32560,6 +32704,14 @@
       "word": "律师在线解读男孩骑行被碾压案",
       "onboard_time": 1725712280,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36665,
+      "num": 177649,
+      "word": "3家酒店台风期间哄抬价格被调查",
+      "onboard_time": 1726120579,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
