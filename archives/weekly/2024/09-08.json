@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726144811074,
+  "endTime": 1726145781068,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 1772632,
-      "num": 319867,
+      "num": 383765,
       "word": "女生眼角掉出黑色异物竟是74根眼睫毛",
       "onboard_time": 1726128141,
       "rank": 20,
@@ -281,6 +281,14 @@
       "onboard_time": 1725934039,
       "rank": 0,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1751673,
+      "num": 1751673,
+      "word": "王楚钦好猛",
+      "onboard_time": 1726144100,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 1749498,
@@ -907,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1085102,
+      "num": 1085102,
+      "word": "一个28岁女孩假装上班的两年",
+      "onboard_time": 1726141759,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1083835,
       "num": 1083835,
       "word": "上海出现一只在逃吗喽",
@@ -1105,14 +1121,6 @@
       "onboard_time": 1726055422,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 955688,
-      "num": 955688,
-      "word": "一个28岁女孩假装上班的两年",
-      "onboard_time": 1726141759,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 955139,
@@ -1763,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 702828,
+      "num": 702828,
+      "word": "肖战直播",
+      "onboard_time": 1726143440,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 699225,
       "num": 699225,
       "word": "于适待播作品",
@@ -2355,12 +2371,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 556915,
+      "num": 556915,
+      "word": "山东一高校突发男生坠楼事件",
+      "onboard_time": 1726143379,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 555256,
       "num": 555256,
       "word": "金靖怀孕九个月状态",
       "onboard_time": 1725772039,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 553546,
+      "num": 553546,
+      "word": "王楚钦3比0战胜徐瑛彬",
+      "onboard_time": 1726144820,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 552208,
@@ -2483,14 +2515,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 530861,
-      "num": 530861,
-      "word": "肖战直播",
-      "onboard_time": 1726143440,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 523627,
       "num": 514454,
       "word": "赵丽颖带想想现身公园玩沙子",
@@ -2521,14 +2545,6 @@
       "onboard_time": 1725806181,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 517728,
-      "num": 517728,
-      "word": "王楚钦好猛",
-      "onboard_time": 1726144100,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 513762,
@@ -3259,6 +3275,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 407695,
+      "num": 407695,
+      "word": "傅首尔谈最痛苦的婚姻的样子",
+      "onboard_time": 1726143139,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 407366,
       "num": 407366,
       "word": "韩安冉两个女儿出生照",
@@ -3860,7 +3884,7 @@
     },
     {
       "raw_hot": 336053,
-      "num": 336053,
+      "num": 388512,
       "word": "HYBE否认ILLIT经纪人无视Hanni",
       "onboard_time": 1726142718,
       "rank": 15,
@@ -3979,14 +4003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 323988,
-      "num": 323988,
-      "word": "傅首尔谈最痛苦的婚姻的样子",
-      "onboard_time": 1726143139,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 323552,
       "num": 232905,
       "word": "小学生俩月花15000元在文具店集卡",
@@ -4033,14 +4049,6 @@
       "onboard_time": 1725789679,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 318467,
-      "num": 318467,
-      "word": "山东一高校突发男生坠楼事件",
-      "onboard_time": 1726143379,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 318119,
@@ -4169,6 +4177,14 @@
       "onboard_time": 1725849258,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 309652,
+      "num": 309652,
+      "word": "天津黑飞",
+      "onboard_time": 1726142239,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309106,
@@ -4611,14 +4627,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 272872,
-      "num": 272872,
-      "word": "天津黑飞",
-      "onboard_time": 1726142239,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 272143,
       "num": 306546,
       "word": "外卖小哥带娃抗癌被剐蹭车主反手转2千",
@@ -4641,6 +4649,22 @@
       "onboard_time": 1725797839,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270907,
+      "num": 270907,
+      "word": "剧本杀为什么没人玩了",
+      "onboard_time": 1726140560,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270645,
+      "num": 554408,
+      "word": "凌晨被送阿胶女子手写8页感谢信",
+      "onboard_time": 1726143980,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270422,
@@ -4852,7 +4876,7 @@
     },
     {
       "raw_hot": 255575,
-      "num": 255575,
+      "num": 289737,
       "word": "TF家族太湖音乐节官宣",
       "onboard_time": 1726143920,
       "rank": 26,
@@ -4905,14 +4929,6 @@
       "onboard_time": 1726066582,
       "rank": 21,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 254456,
-      "num": 254456,
-      "word": "剧本杀为什么没人玩了",
-      "onboard_time": 1726140560,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 254420,
@@ -4985,14 +5001,6 @@
       "onboard_time": 1725962960,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 249570,
-      "num": 249570,
-      "word": "凌晨被送阿胶女子手写8页感谢信",
-      "onboard_time": 1726143980,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 249006,
@@ -5361,6 +5369,14 @@
       "onboard_time": 1725872601,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 233092,
+      "num": 233092,
+      "word": "瑞士选美小姐遭丈夫残忍肢解",
+      "onboard_time": 1726144700,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233048,
@@ -7084,7 +7100,7 @@
     },
     {
       "raw_hot": 189444,
-      "num": 254610,
+      "num": 285325,
       "word": "侯明昊被陈好一句话说红温了",
       "onboard_time": 1726143320,
       "rank": 28,
@@ -7331,6 +7347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185709,
+      "num": 185709,
+      "word": "JDE苏楠单场MVP",
+      "onboard_time": 1726145361,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 185536,
       "num": 185536,
       "word": "田志希称赞孙颖莎人格魅力强",
@@ -7384,6 +7408,14 @@
       "word": "女子撑伞骑车被卷入货车底不幸身亡",
       "onboard_time": 1726067661,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184040,
+      "num": 184040,
+      "word": "支付宝西安电子地铁卡今夜起停用",
+      "onboard_time": 1726143679,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -7963,6 +7995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 173220,
+      "num": 274523,
+      "word": "宋亚轩美式男高造型",
+      "onboard_time": 1726145541,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 173170,
       "num": 173170,
       "word": "刘亦菲两部作品入围飞天奖",
@@ -8497,6 +8537,14 @@
       "onboard_time": 1725884599,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162600,
+      "num": 162600,
+      "word": "解放军兵棋推演画面曝光",
+      "onboard_time": 1726144700,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162596,
@@ -9169,6 +9217,14 @@
       "onboard_time": 1725889881,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 152232,
+      "num": 152232,
+      "word": "offer6一上来就开庭",
+      "onboard_time": 1726145300,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 151927,
@@ -10067,14 +10123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138540,
-      "num": 138540,
-      "word": "支付宝西安电子地铁卡今夜起停用",
-      "onboard_time": 1726143679,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138481,
       "num": 138481,
       "word": "田曦薇无袖工装风",
@@ -10097,6 +10145,14 @@
       "onboard_time": 1725846499,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138357,
+      "num": 138357,
+      "word": "广东人第一次体验到了当学霸的感觉",
+      "onboard_time": 1726145121,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 138222,
@@ -10595,14 +10651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131333,
-      "num": 131333,
-      "word": "解放军兵棋推演画面曝光",
-      "onboard_time": 1726144700,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131104,
       "num": 131104,
       "word": "丁禹兮还没记住杨超越上的节目",
@@ -10627,14 +10675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131021,
-      "num": 131021,
-      "word": "瑞士选美小姐遭丈夫残忍肢解",
-      "onboard_time": 1726144700,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130843,
       "num": 130843,
       "word": "秦彻 北境之主",
@@ -10657,6 +10697,14 @@
       "onboard_time": 1725784578,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130383,
+      "num": 130383,
+      "word": "Scout经纪公司喊话EDG",
+      "onboard_time": 1726145720,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 130352,
@@ -15489,6 +15537,14 @@
       "onboard_time": 1725978863,
       "rank": 44,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 6256,
+      "num": 1142557,
+      "word": "文化中国行赏青铜国宝之美",
+      "onboard_time": 1726145660,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -15560,6 +15616,9 @@
     },
     {
       "word": "#习近平在甘肃兰州市考察调研#"
+    },
+    {
+      "word": "#黄河很美将来会更美#"
     }
   ]
 }

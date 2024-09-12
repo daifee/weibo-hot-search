@@ -1,0 +1,410 @@
+{
+  "runTime": 1726145781068,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1751673,
+        "num": 1751673,
+        "word": "王楚钦好猛",
+        "onboard_time": 1726144100,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1322158,
+        "num": 1322158,
+        "word": "王楚钦vs徐瑛彬",
+        "onboard_time": 1726140079,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6256,
+        "num": 1142557,
+        "word": "文化中国行赏青铜国宝之美",
+        "onboard_time": 1726145660,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1135225,
+        "num": 1135225,
+        "word": "她是第一个挺身而出的人",
+        "onboard_time": 1726126520,
+        "rank": 3,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1085102,
+        "num": 1085102,
+        "word": "一个28岁女孩假装上班的两年",
+        "onboard_time": 1726141759,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 982296,
+        "num": 982296,
+        "word": "疑郑州一名校教职工吃鲜肉学生吃冻肉",
+        "onboard_time": 1726140619,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 844043,
+        "num": 844043,
+        "word": "杨幂生日发博",
+        "onboard_time": 1726141701,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 702828,
+        "num": 702828,
+        "word": "肖战直播",
+        "onboard_time": 1726143440,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556915,
+        "num": 556915,
+        "word": "山东一高校突发男生坠楼事件",
+        "onboard_time": 1726143379,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270645,
+        "num": 554408,
+        "word": "凌晨被送阿胶女子手写8页感谢信",
+        "onboard_time": 1726143980,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553546,
+        "num": 553546,
+        "word": "王楚钦3比0战胜徐瑛彬",
+        "onboard_time": 1726144820,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 511624,
+        "num": 511624,
+        "word": "24岁生下唐氏综合征患儿母亲发声",
+        "onboard_time": 1726122141,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509489,
+        "num": 509489,
+        "word": "葛晓倩说于适没有发声的原因",
+        "onboard_time": 1726137979,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16568,
+        "num": 487704,
+        "word": "105公里边境线上的摩托车巡逻队",
+        "onboard_time": 1726125559,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470474,
+        "num": 470474,
+        "word": "HPV疫苗卖不动了",
+        "onboard_time": 1726119920,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 418822,
+        "num": 418822,
+        "word": "朱芊曦3比0伊藤美诚",
+        "onboard_time": 1726142900,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 407695,
+        "num": 407695,
+        "word": "傅首尔谈最痛苦的婚姻的样子",
+        "onboard_time": 1726143139,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 401007,
+        "num": 401007,
+        "word": "殷世航回应暗恋韩安冉",
+        "onboard_time": 1726136179,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 285650,
+        "num": 388512,
+        "word": "HYBE否认ILLIT经纪人无视Hanni",
+        "onboard_time": 1726142718,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263513,
+        "num": 388405,
+        "word": "百鸟朝凤下跪导演 里斯本丸沉没",
+        "onboard_time": 1726131320,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 388356,
+        "num": 388356,
+        "word": "这三种照片千万不要随便晒",
+        "onboard_time": 1726122141,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 974454,
+        "num": 385372,
+        "word": "徐艺洋真的不会打死黄子韬吗",
+        "onboard_time": 1726134140,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 667630,
+        "num": 383765,
+        "word": "女生眼角掉出黑色异物竟是74根眼睫毛",
+        "onboard_time": 1726128141,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379059,
+        "num": 379059,
+        "word": "上海出现一只在逃吗喽",
+        "onboard_time": 1726135519,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309652,
+        "num": 309652,
+        "word": "天津黑飞",
+        "onboard_time": 1726142239,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301177,
+        "num": 301177,
+        "word": "丈夫致妻子死亡后服药自尽",
+        "onboard_time": 1726130241,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235506,
+        "num": 297768,
+        "word": "王一博纪录片国内保险公司不敢接",
+        "onboard_time": 1726135220,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217156,
+        "num": 289737,
+        "word": "TF家族太湖音乐节官宣",
+        "onboard_time": 1726143920,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176032,
+        "num": 285325,
+        "word": "侯明昊被陈好一句话说红温了",
+        "onboard_time": 1726143320,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173220,
+        "num": 274523,
+        "word": "宋亚轩美式男高造型",
+        "onboard_time": 1726145541,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 270907,
+        "num": 270907,
+        "word": "剧本杀为什么没人玩了",
+        "onboard_time": 1726140560,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233092,
+        "num": 233092,
+        "word": "瑞士选美小姐遭丈夫残忍肢解",
+        "onboard_time": 1726144700,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203215,
+        "num": 203215,
+        "word": "Scout可能无法参加S14",
+        "onboard_time": 1726136779,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186043,
+        "num": 186043,
+        "word": "孩子是聪明 但天意难违",
+        "onboard_time": 1726141221,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185709,
+        "num": 185709,
+        "word": "JDE苏楠单场MVP",
+        "onboard_time": 1726145361,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184040,
+        "num": 184040,
+        "word": "支付宝西安电子地铁卡今夜起停用",
+        "onboard_time": 1726143679,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177841,
+        "num": 177841,
+        "word": "人到中年有多少存款才有安全感",
+        "onboard_time": 1726129340,
+        "rank": 36,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 167576,
+        "num": 167576,
+        "word": "泰国买的香奈儿回国后发现破损",
+        "onboard_time": 1726136900,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163282,
+        "num": 163282,
+        "word": "徐冬冬尹子维是怎么找到这个赛道的",
+        "onboard_time": 1726137378,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162600,
+        "num": 162600,
+        "word": "解放军兵棋推演画面曝光",
+        "onboard_time": 1726144700,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154723,
+        "num": 154723,
+        "word": "湖南中秋晚会官宣阵容",
+        "onboard_time": 1726140560,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152232,
+        "num": 152232,
+        "word": "offer6一上来就开庭",
+        "onboard_time": 1726145300,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150966,
+        "num": 150966,
+        "word": "EDG 合同",
+        "onboard_time": 1726139899,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143710,
+        "num": 143710,
+        "word": "太湖湾音乐节",
+        "onboard_time": 1726142900,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138586,
+        "num": 138586,
+        "word": "妈妈带罕见病男孩看病14年仍没确诊",
+        "onboard_time": 1726141400,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138357,
+        "num": 138357,
+        "word": "广东人第一次体验到了当学霸的感觉",
+        "onboard_time": 1726145121,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137040,
+        "num": 137040,
+        "word": "0713出发陆虎婚礼",
+        "onboard_time": 1726120341,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130383,
+        "num": 130383,
+        "word": "Scout经纪公司喊话EDG",
+        "onboard_time": 1726145720,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130368,
+        "num": 130368,
+        "word": "LCK",
+        "onboard_time": 1726144220,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104864,
+        "num": 129947,
+        "word": "人类首次商业太空行走即将进行",
+        "onboard_time": 1726140498,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#黄河很美将来会更美#"
+    }
+  }
+}
