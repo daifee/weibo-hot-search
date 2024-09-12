@@ -1,0 +1,410 @@
+{
+  "runTime": 1726136600318,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1541568,
+        "num": 1541568,
+        "word": "她是第一个挺身而出的人",
+        "onboard_time": 1726126520,
+        "rank": 0,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 2342623,
+        "num": 1390628,
+        "word": "徐艺洋真的不会打死黄子韬吗",
+        "onboard_time": 1726134140,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 5971,
+        "num": 796753,
+        "word": "万千气象看内蒙古",
+        "onboard_time": 1725887060,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 749271,
+        "num": 749271,
+        "word": "24岁生下唐氏综合征患儿母亲发声",
+        "onboard_time": 1726122141,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 668823,
+        "num": 668823,
+        "word": "百鸟朝凤下跪导演 里斯本丸沉没",
+        "onboard_time": 1726131320,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 663704,
+        "num": 663704,
+        "word": "HPV疫苗卖不动了",
+        "onboard_time": 1726119920,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 649853,
+        "num": 649853,
+        "word": "淘宝微信支付",
+        "onboard_time": 1726127961,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 603580,
+        "num": 603580,
+        "word": "杨幂蜜蜂耳环",
+        "onboard_time": 1726133779,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 467182,
+        "num": 467182,
+        "word": "林诗栋首胜张本智和",
+        "onboard_time": 1726131619,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46906,
+        "num": 455189,
+        "word": "起底0元领养猫咪套路",
+        "onboard_time": 1726135459,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1069791,
+        "num": 449480,
+        "word": "丈夫致妻子死亡后服药自尽",
+        "onboard_time": 1726130241,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61243,
+        "num": 417619,
+        "word": "英雄主义无关性别",
+        "onboard_time": 1726134019,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 907997,
+        "num": 408323,
+        "word": "医保卡丢了3千元被刷光对方不认账",
+        "onboard_time": 1726133540,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398463,
+        "num": 398463,
+        "word": "这三种照片千万不要随便晒",
+        "onboard_time": 1726122141,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82522,
+        "num": 373330,
+        "word": "公司强制肝功能不全员工休病假",
+        "onboard_time": 1726134860,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358735,
+        "num": 358735,
+        "word": "金晨 止鼾器",
+        "onboard_time": 1726129460,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308783,
+        "num": 308783,
+        "word": "有的餐馆脏得外卖骑手都不愿意取餐",
+        "onboard_time": 1726123041,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300877,
+        "num": 300877,
+        "word": "0713出发陆虎婚礼",
+        "onboard_time": 1726120341,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291067,
+        "num": 291067,
+        "word": "HYBE拒绝NewJeans要求",
+        "onboard_time": 1726126099,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 43639,
+        "num": 285166,
+        "word": "男子为向女友炫耀网购迷药被判刑",
+        "onboard_time": 1726135100,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 897827,
+        "num": 285163,
+        "word": "女生眼角掉出黑色异物竟是74根眼睫毛",
+        "onboard_time": 1726128141,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437083,
+        "num": 284997,
+        "word": "人到中年有多少存款才有安全感",
+        "onboard_time": 1726129340,
+        "rank": 21,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 284245,
+        "num": 284245,
+        "word": "上海出现一只在逃吗喽",
+        "onboard_time": 1726135519,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257487,
+        "num": 257487,
+        "word": "王一博纪录片国内保险公司不敢接",
+        "onboard_time": 1726135220,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240553,
+        "num": 240553,
+        "word": "黄子韬把徐艺洋拍成恐怖片",
+        "onboard_time": 1726134440,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213791,
+        "num": 213791,
+        "word": "公司中秋节发的月饼",
+        "onboard_time": 1726134140,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201856,
+        "num": 201856,
+        "word": "殷世航回应暗恋韩安冉",
+        "onboard_time": 1726136179,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 200664,
+        "num": 200664,
+        "word": "林诗栋vs张本智和",
+        "onboard_time": 1726128859,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198394,
+        "num": 198394,
+        "word": "林高远止步澳门赛16强",
+        "onboard_time": 1726125379,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196586,
+        "num": 196586,
+        "word": "冰皮月饼",
+        "onboard_time": 1726135280,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 193286,
+        "num": 193286,
+        "word": "诗幂",
+        "onboard_time": 1726128859,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185288,
+        "num": 185288,
+        "word": "虞书欣 双轨",
+        "onboard_time": 1726115482,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180582,
+        "num": 180582,
+        "word": "公园回应男厕小便池半露天式",
+        "onboard_time": 1726122500,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176957,
+        "num": 176957,
+        "word": "金晨周雨彤邓恩熙分床这段",
+        "onboard_time": 1726131501,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153667,
+        "num": 153667,
+        "word": "宋茜只有五万还剩十万",
+        "onboard_time": 1726133900,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153291,
+        "num": 153291,
+        "word": "耳帝评谁是选秀第一vocal",
+        "onboard_time": 1726135639,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150659,
+        "num": 150659,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1726136239,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145930,
+        "num": 145930,
+        "word": "微信运动推送时间都不一样",
+        "onboard_time": 1726133059,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 139580,
+        "num": 139580,
+        "word": "小鱼 不是本科一批是笨的一批",
+        "onboard_time": 1726127059,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138887,
+        "num": 138887,
+        "word": "葛晓倩直播",
+        "onboard_time": 1726136359,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135669,
+        "num": 135669,
+        "word": "已确诊为饺子型人格",
+        "onboard_time": 1726130300,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131104,
+        "num": 131104,
+        "word": "丁禹兮还没记住杨超越上的节目",
+        "onboard_time": 1726136299,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125093,
+        "num": 125093,
+        "word": "碎花裙女生拼尽全力敲打行凶者",
+        "onboard_time": 1726112961,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122539,
+        "num": 122539,
+        "word": "黑神话悟空雪糕",
+        "onboard_time": 1726135940,
+        "rank": 43,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 122489,
+        "num": 122489,
+        "word": "林诗栋回应首胜张本智和",
+        "onboard_time": 1726136419,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122371,
+        "num": 122371,
+        "word": "上海警方调查女代驾凌晨遭男子殴打",
+        "onboard_time": 1726129640,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120703,
+        "num": 120703,
+        "word": "广西军训雨中跪滑",
+        "onboard_time": 1726131320,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 119384,
+        "num": 119384,
+        "word": "王鹤棣 分寸感",
+        "onboard_time": 1726119202,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114373,
+        "num": 114373,
+        "word": "为什么有些人胖也健康",
+        "onboard_time": 1726136539,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 113103,
+        "num": 113103,
+        "word": "南宁将迎最高洪峰",
+        "onboard_time": 1726133900,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在甘肃兰州考察调研#"
+    }
+  }
+}

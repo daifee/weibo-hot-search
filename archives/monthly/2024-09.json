@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726133785760,
+  "endTime": 1726136600318,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -361,6 +361,14 @@
       "onboard_time": 1725422347,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2342623,
+      "num": 1390628,
+      "word": "徐艺洋真的不会打死黄子韬吗",
+      "onboard_time": 1726134140,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2341155,
@@ -3115,6 +3123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 907997,
+      "num": 408323,
+      "word": "医保卡丢了3千元被刷光对方不认账",
+      "onboard_time": 1726133540,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 907819,
       "num": 394851,
       "word": "50箱五粮液侧翻倒地一瓶没碎",
@@ -5571,6 +5587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 603580,
+      "num": 603580,
+      "word": "杨幂蜜蜂耳环",
+      "onboard_time": 1726133779,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 603244,
       "num": 577291,
       "word": "工作捅娄子了 想想重庆气象局",
@@ -7889,6 +7913,14 @@
       "onboard_time": 1725696860,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 437083,
+      "num": 284997,
+      "word": "人到中年有多少存款才有安全感",
+      "onboard_time": 1726129340,
+      "rank": 44,
+      "category": "社会议题"
     },
     {
       "raw_hot": 436571,
@@ -11091,6 +11123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284245,
+      "num": 284245,
+      "word": "上海出现一只在逃吗喽",
+      "onboard_time": 1726135519,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284051,
       "num": 284051,
       "word": "我的裤子竟然被1000w人围观了",
@@ -11763,14 +11803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266321,
-      "num": 219118,
-      "word": "人到中年有多少存款才有安全感",
-      "onboard_time": 1726129340,
-      "rank": 44,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 266206,
       "num": 266206,
       "word": "台独骨干杨智渊被判9年",
@@ -12137,6 +12169,14 @@
       "onboard_time": 1725291741,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257487,
+      "num": 257487,
+      "word": "王一博纪录片国内保险公司不敢接",
+      "onboard_time": 1726135220,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 257364,
@@ -12985,6 +13025,14 @@
       "onboard_time": 1725252981,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 240553,
+      "num": 240553,
+      "word": "黄子韬把徐艺洋拍成恐怖片",
+      "onboard_time": 1726134440,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 240330,
@@ -14651,6 +14699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213791,
+      "num": 213791,
+      "word": "公司中秋节发的月饼",
+      "onboard_time": 1726134140,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 213690,
       "num": 213690,
       "word": "iPhone16发布带火二手15",
@@ -15883,6 +15939,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 201856,
+      "num": 201856,
+      "word": "殷世航回应暗恋韩安冉",
+      "onboard_time": 1726136179,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 201768,
       "num": 237728,
       "word": "梦中的那片海入围飞天奖",
@@ -16641,6 +16705,14 @@
       "onboard_time": 1725832992,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 196586,
+      "num": 196586,
+      "word": "冰皮月饼",
+      "onboard_time": 1726135280,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 196373,
@@ -19483,6 +19555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176957,
+      "num": 176957,
+      "word": "金晨周雨彤邓恩熙分床这段",
+      "onboard_time": 1726131501,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176820,
       "num": 176820,
       "word": "上海人精神状态已到nextlevel",
@@ -20265,14 +20345,6 @@
       "onboard_time": 1725952400,
       "rank": 39,
       "category": "数码"
-    },
-    {
-      "raw_hot": 171957,
-      "num": 171957,
-      "word": "金晨周雨彤邓恩熙分床这段",
-      "onboard_time": 1726131501,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 171930,
@@ -23043,6 +23115,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 153667,
+      "num": 153667,
+      "word": "宋茜只有五万还剩十万",
+      "onboard_time": 1726133900,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153653,
       "num": 153653,
       "word": "幸好央视没转",
@@ -23129,6 +23209,14 @@
       "onboard_time": 1726031362,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153291,
+      "num": 153291,
+      "word": "耳帝评谁是选秀第一vocal",
+      "onboard_time": 1726135639,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 153284,
@@ -23481,6 +23569,14 @@
       "onboard_time": 1725164120,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150659,
+      "num": 150659,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1726136239,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 150594,
@@ -24185,6 +24281,14 @@
       "onboard_time": 1725881958,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145930,
+      "num": 145930,
+      "word": "微信运动推送时间都不一样",
+      "onboard_time": 1726133059,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 145882,
@@ -25139,6 +25243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138887,
+      "num": 138887,
+      "word": "葛晓倩直播",
+      "onboard_time": 1726136359,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138679,
       "num": 531159,
       "word": "国足战沙特23人名单出炉",
@@ -25280,14 +25392,6 @@
       "word": "广西北海严阵以待战摩羯",
       "onboard_time": 1725675500,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137626,
-      "num": 137626,
-      "word": "医保卡丢了3千元被刷光对方不认账",
-      "onboard_time": 1726133540,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -26105,6 +26209,14 @@
       "onboard_time": 1725615259,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131104,
+      "num": 131104,
+      "word": "丁禹兮还没记住杨超越上的节目",
+      "onboard_time": 1726136299,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 131093,
@@ -27211,6 +27323,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 122539,
+      "num": 122539,
+      "word": "黑神话悟空雪糕",
+      "onboard_time": 1726135940,
+      "rank": 43,
+      "category": "游戏,美食"
+    },
+    {
+      "raw_hot": 122489,
+      "num": 122489,
+      "word": "林诗栋回应首胜张本智和",
+      "onboard_time": 1726136419,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122452,
       "num": 122452,
       "word": "逐玉",
@@ -27305,14 +27433,6 @@
       "onboard_time": 1725863239,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 121635,
-      "num": 121635,
-      "word": "微信运动推送时间都不一样",
-      "onboard_time": 1726133059,
-      "rank": 38,
-      "category": "互联网"
     },
     {
       "raw_hot": 121562,
@@ -27971,6 +28091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114373,
+      "num": 114373,
+      "word": "为什么有些人胖也健康",
+      "onboard_time": 1726136539,
+      "rank": 48,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 114347,
       "num": 114347,
       "word": "国足直播",
@@ -28081,6 +28209,14 @@
       "onboard_time": 1726119860,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 113103,
+      "num": 113103,
+      "word": "南宁将迎最高洪峰",
+      "onboard_time": 1726133900,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113073,
@@ -30051,6 +30187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82522,
+      "num": 373330,
+      "word": "公司强制肝功能不全员工休病假",
+      "onboard_time": 1726134860,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82183,
       "num": 414026,
       "word": "首批养老专业本科生为啥遭疯抢",
@@ -31131,6 +31275,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 61243,
+      "num": 417619,
+      "word": "英雄主义无关性别",
+      "onboard_time": 1726134019,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 61045,
       "num": 308472,
       "word": "哈哈曹 有回甘",
@@ -32203,6 +32355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46906,
+      "num": 455189,
+      "word": "起底0元领养猫咪套路",
+      "onboard_time": 1726135459,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46738,
       "num": 651669,
       "word": "各科老师硬核绝活大赏",
@@ -32520,6 +32680,14 @@
       "word": "为何说秋台风是狠角色",
       "onboard_time": 1725503359,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43639,
+      "num": 285166,
+      "word": "男子为向女友炫耀网购迷药被判刑",
+      "onboard_time": 1726135100,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
