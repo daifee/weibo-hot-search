@@ -1,6 +1,6 @@
 {
   "startTime": 1726158397527,
-  "endTime": 1726173411320,
+  "endTime": 1726176018523,
   "band_list": [
     {
       "raw_hot": 1526950,
@@ -347,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85173,
+      "num": 27027,
+      "word": "男子与女友分手趁她加班进门偷狗",
+      "onboard_time": 1726171511,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84366,
       "num": 88747,
       "word": "殷世航回应暗恋韩安冉",
@@ -547,6 +555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 23838,
+      "num": 23838,
+      "word": "外交部回应中越边境地区洪涝灾害",
+      "onboard_time": 1726173191,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23538,
       "num": 24949,
       "word": "猫 没找你收费就不错了",
@@ -563,11 +579,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22012,
-      "num": 22012,
-      "word": "男子与女友分手趁她加班进门偷狗",
-      "onboard_time": 1726171511,
-      "rank": 36,
+      "raw_hot": 19457,
+      "num": 19457,
+      "word": "碎花裙女生回应网友关心",
+      "onboard_time": 1726172531,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18535,
+      "num": 18535,
+      "word": "台风贝碧嘉中秋期间或将影响华东地区",
+      "onboard_time": 1726170732,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -579,36 +603,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 17166,
-      "num": 17166,
-      "word": "台风贝碧嘉中秋期间或将影响华东地区",
-      "onboard_time": 1726170732,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 15550,
       "num": 22425,
       "word": "周杰伦深圳演唱会",
       "onboard_time": 1726167073,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 14672,
-      "num": 16791,
-      "word": "碎花裙女生回应网友关心",
-      "onboard_time": 1726172531,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13668,
-      "num": 16543,
-      "word": "外交部回应中越边境地区洪涝灾害",
-      "onboard_time": 1726173191,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 10422,
