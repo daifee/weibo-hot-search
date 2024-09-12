@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726109188995,
+  "endTime": 1726109757702,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -995,6 +995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 924625,
+      "num": 258538,
+      "word": "丈夫因家暴坐牢出狱后仍威胁妻子",
+      "onboard_time": 1726105700,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 924224,
       "num": 924224,
       "word": "赛琳娜说自己永远没办法生孩子了",
@@ -1113,14 +1121,6 @@
       "onboard_time": 1725970882,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 873625,
-      "num": 258538,
-      "word": "丈夫因家暴坐牢出狱后仍威胁妻子",
-      "onboard_time": 1726105700,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 870071,
@@ -1291,6 +1291,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 784743,
+      "num": 784743,
+      "word": "杨幂新中式秀禾",
+      "onboard_time": 1726107680,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 781170,
       "num": 1124987,
       "word": "章若楠新粉丝名",
@@ -1393,14 +1401,6 @@
       "onboard_time": 1726036521,
       "rank": 19,
       "category": "国外时政,艺人"
-    },
-    {
-      "raw_hot": 744120,
-      "num": 744120,
-      "word": "杨幂新中式秀禾",
-      "onboard_time": 1726107680,
-      "rank": 1,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 742626,
@@ -1707,6 +1707,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 643765,
+      "num": 643765,
+      "word": "撒贝宁投喂王鸥是一种习惯",
+      "onboard_time": 1726103900,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 643198,
       "num": 643198,
       "word": "山西阴阳价刀削面店主再发声",
@@ -1835,14 +1843,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 608055,
-      "num": 608055,
-      "word": "撒贝宁投喂王鸥是一种习惯",
-      "onboard_time": 1726103900,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 606775,
       "num": 558393,
       "word": "苗苗女儿看到螃蟹被煮后哭了",
@@ -1864,6 +1864,14 @@
       "word": "大学生每个月生活费1500元够吗",
       "onboard_time": 1726053561,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 605458,
+      "num": 252912,
+      "word": "男子离职45元卖出室友7800元电脑",
+      "onboard_time": 1726107979,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1897,6 +1905,14 @@
       "onboard_time": 1725735432,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 586162,
+      "num": 365689,
+      "word": "棣欣引力",
+      "onboard_time": 1726108279,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 585978,
@@ -2105,6 +2121,14 @@
       "onboard_time": 1725769579,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 531679,
+      "num": 531679,
+      "word": "王鹤棣陈小纭曾合作大奉打更人",
+      "onboard_time": 1726107440,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 531631,
@@ -2611,14 +2635,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 426149,
-      "num": 252912,
-      "word": "男子离职45元卖出室友7800元电脑",
-      "onboard_time": 1726107979,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 424974,
       "num": 424974,
       "word": "iPhone16Pro预计维持999美元起价",
@@ -2803,6 +2819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 402961,
+      "num": 402961,
+      "word": "半熟男女定档",
+      "onboard_time": 1726107858,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 402235,
       "num": 402235,
       "word": "以军空袭击中小吃摊6死4伤",
@@ -2841,14 +2865,6 @@
       "onboard_time": 1726029803,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 399777,
-      "num": 399777,
-      "word": "王鹤棣陈小纭曾合作大奉打更人",
-      "onboard_time": 1726107440,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 399289,
@@ -3097,14 +3113,6 @@
       "onboard_time": 1725780499,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 365689,
-      "num": 365689,
-      "word": "棣欣引力",
-      "onboard_time": 1726108279,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 362749,
@@ -3523,14 +3531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 314803,
-      "num": 400707,
-      "word": "半熟男女定档",
-      "onboard_time": 1726107858,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 314556,
       "num": 314556,
       "word": "天津机场",
@@ -3569,6 +3569,14 @@
       "onboard_time": 1725722840,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 311239,
+      "num": 311239,
+      "word": "巴勒斯坦代表首次坐上联大会员国席位",
+      "onboard_time": 1726107680,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 311135,
@@ -3852,7 +3860,7 @@
     },
     {
       "raw_hot": 285919,
-      "num": 205074,
+      "num": 206197,
       "word": "男子温水泡螃蟹后邮寄骗保4.5万",
       "onboard_time": 1726097178,
       "rank": 30,
@@ -4075,6 +4083,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 268560,
+      "num": 268560,
+      "word": "去年我国25至29岁结婚人数最多",
+      "onboard_time": 1726106719,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268118,
       "num": 298612,
       "word": "下星期上班时间有变",
@@ -4129,14 +4145,6 @@
       "onboard_time": 1726071140,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 264824,
-      "num": 264824,
-      "word": "巴勒斯坦代表首次坐上联大会员国席位",
-      "onboard_time": 1726107680,
-      "rank": 17,
-      "category": "国外时政"
     },
     {
       "raw_hot": 263227,
@@ -4361,14 +4369,6 @@
       "onboard_time": 1725962960,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 249376,
-      "num": 249376,
-      "word": "去年我国25至29岁结婚人数最多",
-      "onboard_time": 1726106719,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248516,
@@ -4979,6 +4979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224042,
+      "num": 226576,
+      "word": "品牌为杨幂特别定制高跟鞋",
+      "onboard_time": 1726108520,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223873,
       "num": 223873,
       "word": "恋人首发概念海报",
@@ -5209,6 +5217,14 @@
       "onboard_time": 1725945320,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214558,
+      "num": 214558,
+      "word": "时尚先生",
+      "onboard_time": 1726108761,
+      "rank": 40,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 214388,
@@ -5745,14 +5761,6 @@
       "onboard_time": 1725905233,
       "rank": 13,
       "category": "数码"
-    },
-    {
-      "raw_hot": 200946,
-      "num": 226576,
-      "word": "品牌为杨幂特别定制高跟鞋",
-      "onboard_time": 1726108520,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 200919,
@@ -7531,6 +7539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 161608,
+      "num": 161608,
+      "word": "中秋节3天高速不免费",
+      "onboard_time": 1726109182,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161560,
       "num": 161560,
       "word": "田志希说孙颖莎很忙是因为老赢",
@@ -7841,14 +7857,6 @@
       "onboard_time": 1726069701,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155348,
-      "num": 155348,
-      "word": "时尚先生",
-      "onboard_time": 1726108761,
-      "rank": 40,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 155311,
@@ -8795,6 +8803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139345,
+      "num": 139345,
+      "word": "稀土公司人员泄露7项国家秘密获刑",
+      "onboard_time": 1726108160,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139321,
       "num": 139321,
       "word": "这种糖突然在小孩圈爆火",
@@ -8995,6 +9011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136001,
+      "num": 136001,
+      "word": "VMA红毯",
+      "onboard_time": 1726097597,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 135890,
       "num": 135890,
       "word": "断臂男孩无所畏惧挑战Uzi",
@@ -9009,14 +9033,6 @@
       "onboard_time": 1725848838,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 135279,
-      "num": 135279,
-      "word": "VMA红毯",
-      "onboard_time": 1726097597,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 135267,
@@ -9129,6 +9145,14 @@
       "onboard_time": 1725892162,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133696,
+      "num": 133696,
+      "word": "椰椰桃父亲称偶尔踹一脚不算家暴",
+      "onboard_time": 1726109542,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133576,
@@ -9280,14 +9304,6 @@
       "word": "中介因业绩差偷卖房东6台空调",
       "onboard_time": 1725875840,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131198,
-      "num": 131198,
-      "word": "稀土公司人员泄露7项国家秘密获刑",
-      "onboard_time": 1726108160,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -9579,6 +9595,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 126459,
+      "num": 126459,
+      "word": "江小白起诉东方甄选",
+      "onboard_time": 1726108400,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 126407,
       "num": 126407,
       "word": "终于有剧拍出了张桂梅为什么建女校",
@@ -9617,14 +9641,6 @@
       "onboard_time": 1725950839,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126086,
-      "num": 126086,
-      "word": "江小白起诉东方甄选",
-      "onboard_time": 1726108400,
-      "rank": 46,
-      "category": "互联网"
     },
     {
       "raw_hot": 125634,
@@ -11339,6 +11355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87385,
+      "num": 313010,
+      "word": "超雄综合症不等于性格暴戾",
+      "onboard_time": 1726108579,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86985,
       "num": 86985,
       "word": "孙颖莎说站在赛场上就全力以赴",
@@ -11481,6 +11505,14 @@
       "onboard_time": 1726072997,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80509,
+      "num": 399836,
+      "word": "无人机致天津机场大面积延误已恢复",
+      "onboard_time": 1726109122,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80410,
@@ -12019,26 +12051,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57490,
-      "num": 399836,
-      "word": "无人机致天津机场大面积延误已恢复",
-      "onboard_time": 1726109122,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 56862,
       "num": 327534,
       "word": "牛约堡成脏乱堡怪消费者过度夸张",
       "onboard_time": 1725849198,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56829,
-      "num": 297643,
-      "word": "超雄综合症不等于性格暴戾",
-      "onboard_time": 1726108579,
       "rank": 14,
       "category": "社会新闻"
     },
