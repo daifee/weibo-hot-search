@@ -1,10 +1,18 @@
 {
   "startTime": 1726072022754,
-  "endTime": 1726115210004,
+  "endTime": 1726116082471,
   "band_list": [
     {
+      "raw_hot": 1691197,
+      "num": 1691197,
+      "word": "碎花裙女生拼尽全力敲打行凶者",
+      "onboard_time": 1726112961,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1272269,
-      "num": 305348,
+      "num": 326781,
       "word": "女子净身出户每天把1岁儿子锁家里",
       "onboard_time": 1726095255,
       "rank": 20,
@@ -36,23 +44,15 @@
     },
     {
       "raw_hot": 1074234,
-      "num": 852942,
+      "num": 1064885,
       "word": "陆虎陈曌旭将在丽江举办婚礼",
       "onboard_time": 1726111700,
       "rank": 17,
       "category": "艺人"
     },
     {
-      "raw_hot": 929887,
-      "num": 929887,
-      "word": "碎花裙女生拼尽全力敲打行凶者",
-      "onboard_time": 1726112961,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 924625,
-      "num": 301158,
+      "num": 303713,
       "word": "丈夫因家暴坐牢出狱后仍威胁妻子",
       "onboard_time": 1726105700,
       "rank": 43,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 850909,
-      "num": 304706,
+      "num": 318874,
       "word": "男子离职45元卖出室友7800元电脑",
       "onboard_time": 1726107979,
       "rank": 24,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 509849,
-      "num": 302125,
+      "num": 305303,
       "word": "山东大学生兼职陪爬泰山瘦了30斤",
       "onboard_time": 1726110442,
       "rank": 24,
@@ -217,6 +217,14 @@
       "onboard_time": 1726112060,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 489843,
+      "num": 403443,
+      "word": "王蓉丈夫回应福袋虚假发货",
+      "onboard_time": 1726115001,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 482381,
@@ -259,6 +267,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 445745,
+      "num": 402339,
+      "word": "黑神话墙绘遭破坏",
+      "onboard_time": 1726113503,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 444077,
       "num": 444077,
       "word": "NewJeans新账号被封禁",
@@ -283,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 418860,
+      "num": 401605,
+      "word": "虞书欣 双轨",
+      "onboard_time": 1726115482,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 409241,
       "num": 291002,
       "word": "殷世航调侃韩安冉",
@@ -291,12 +315,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 405903,
+      "num": 405903,
+      "word": "天津机场无人机事件乘客发声",
+      "onboard_time": 1726114821,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402961,
       "num": 402961,
       "word": "半熟男女定档",
       "onboard_time": 1726107858,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 400422,
+      "num": 400422,
+      "word": "于正收到陆虎婚礼邀约",
+      "onboard_time": 1726113560,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 397590,
@@ -339,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 358716,
-      "num": 358716,
-      "word": "黑神话墙绘遭破坏",
-      "onboard_time": 1726113503,
-      "rank": 11,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 349716,
       "num": 290330,
       "word": "韩安冉宋浩然没领证",
@@ -372,19 +404,11 @@
     },
     {
       "raw_hot": 334858,
-      "num": 334858,
+      "num": 404571,
       "word": "椰椰桃父亲称偶尔踹一脚不算家暴",
       "onboard_time": 1726109542,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 333337,
-      "num": 333337,
-      "word": "于正收到陆虎婚礼邀约",
-      "onboard_time": 1726113560,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 327598,
@@ -401,6 +425,14 @@
       "onboard_time": 1726056381,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 296323,
+      "num": 296323,
+      "word": "网红王蓉疑直播抽奖福袋乱标价",
+      "onboard_time": 1726115241,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 293332,
@@ -459,6 +491,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274881,
+      "num": 274881,
+      "word": "NewJeans给HYBE14天期限",
+      "onboard_time": 1726115423,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 274814,
+      "num": 274814,
+      "word": "王鹤棣恋情风波后现身机场",
+      "onboard_time": 1726116022,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269402,
       "num": 269402,
       "word": "那尔那茜 手滑点赞",
@@ -497,14 +545,6 @@
       "onboard_time": 1726064602,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 252937,
-      "num": 252937,
-      "word": "王蓉丈夫回应福袋虚假发货",
-      "onboard_time": 1726115001,
-      "rank": 27,
-      "category": "网红"
     },
     {
       "raw_hot": 250131,
@@ -595,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217801,
+      "num": 217801,
+      "word": "女子煲汤放酒太多变炼丹现场",
+      "onboard_time": 1726112839,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217752,
       "num": 399836,
       "word": "无人机致天津机场大面积延误已恢复",
@@ -643,12 +691,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195178,
-      "num": 195178,
-      "word": "女子煲汤放酒太多变炼丹现场",
-      "onboard_time": 1726112839,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 194918,
+      "num": 194918,
+      "word": "易烊千玺 影版边水往事",
+      "onboard_time": 1726114942,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 192697,
+      "num": 183143,
+      "word": "易烊千玺五登芭莎",
+      "onboard_time": 1726115603,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 192524,
@@ -659,14 +715,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 191979,
-      "num": 191979,
-      "word": "易烊千玺 影版边水往事",
-      "onboard_time": 1726114942,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 190106,
       "num": 190106,
       "word": "国足出线概率0.3%",
@@ -675,12 +723,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189133,
-      "num": 189133,
-      "word": "天津机场无人机事件乘客发声",
-      "onboard_time": 1726114821,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 188355,
+      "num": 188355,
+      "word": "属于00后的月饼",
+      "onboard_time": 1726114640,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 185475,
@@ -747,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173565,
+      "num": 396429,
+      "word": "简约平价月饼成主流",
+      "onboard_time": 1726113800,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171392,
       "num": 285796,
       "word": "周扬青 今年已经36了",
@@ -787,12 +843,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 156845,
-      "num": 156845,
-      "word": "属于00后的月饼",
-      "onboard_time": 1726114640,
-      "rank": 49,
-      "category": "美食"
+      "raw_hot": 157451,
+      "num": 157451,
+      "word": "25岁女孩铁腚环游世界42城路费2万",
+      "onboard_time": 1726115903,
+      "rank": 48,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 157125,
+      "num": 395560,
+      "word": "修冰箱4.8元零件被收1610元",
+      "onboard_time": 1726114700,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155449,
@@ -857,6 +921,14 @@
       "onboard_time": 1726108160,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149108,
+      "num": 149108,
+      "word": "檀健次VOGUE预告",
+      "onboard_time": 1726116022,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 146733,
@@ -928,6 +1000,14 @@
       "word": "VMA红毯",
       "onboard_time": 1726097597,
       "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 134404,
+      "num": 335890,
+      "word": "霉霉五封VMA年度艺人",
+      "onboard_time": 1726114640,
+      "rank": 17,
       "category": "音乐"
     },
     {
@@ -1011,14 +1091,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 123367,
-      "num": 310014,
-      "word": "霉霉五封VMA年度艺人",
-      "onboard_time": 1726114640,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 114029,
       "num": 114029,
       "word": "英伟达市值一夜大增1.54万亿",
@@ -1043,12 +1115,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 99750,
-      "num": 322142,
-      "word": "修冰箱4.8元零件被收1610元",
-      "onboard_time": 1726114700,
-      "rank": 14,
+      "raw_hot": 110802,
+      "num": 353933,
+      "word": "两对情侣聚餐演变成挥刀故意伤害",
+      "onboard_time": 1726114764,
+      "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107612,
+      "num": 364745,
+      "word": "第一份工作工资到底有多重要",
+      "onboard_time": 1726115543,
+      "rank": 18,
+      "category": "社会议题"
     },
     {
       "raw_hot": 99270,
@@ -1099,28 +1179,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 93510,
-      "num": 396429,
-      "word": "简约平价月饼成主流",
-      "onboard_time": 1726113800,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87926,
-      "num": 307484,
-      "word": "两对情侣聚餐演变成挥刀故意伤害",
-      "onboard_time": 1726114764,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86027,
       "num": 86027,
       "word": "多方回应军训教官棍抽学生把棍打断",
       "onboard_time": 1726065203,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85882,
+      "num": 274844,
+      "word": "拜天地和拜把子的人都在眼前",
+      "onboard_time": 1726115603,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 84694,
@@ -1316,7 +1388,7 @@
     },
     {
       "raw_hot": 38204,
-      "num": 864642,
+      "num": 987842,
       "word": "淬火强军新征程",
       "onboard_time": 1726110502,
       "rank": 2,
@@ -1329,6 +1401,14 @@
       "onboard_time": 1726065322,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34287,
+      "num": 394085,
+      "word": "张若昀连手都这么好看",
+      "onboard_time": 1726113560,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 32803,
@@ -1369,14 +1449,6 @@
       "onboard_time": 1726111941,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27872,
-      "num": 311239,
-      "word": "张若昀连手都这么好看",
-      "onboard_time": 1726113560,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 26494,
