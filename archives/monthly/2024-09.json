@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726154561006,
+  "endTime": 1726155453610,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -1649,6 +1649,14 @@
       "onboard_time": 1725351442,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1321296,
+      "num": 1321296,
+      "word": "直播间卖香港月饼称99元3盒",
+      "onboard_time": 1726152740,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1318234,
@@ -7251,6 +7259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 487062,
+      "num": 390330,
+      "word": "小杨哥 月饼",
+      "onboard_time": 1726154540,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 486834,
       "num": 486834,
       "word": "魏哲鸣 怎么不等我手断了再说",
@@ -8801,6 +8817,14 @@
       "onboard_time": 1725952640,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 395632,
+      "num": 395632,
+      "word": "JENNIE美版芭莎十月刊封面",
+      "onboard_time": 1726153702,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 395606,
@@ -11569,14 +11593,6 @@
       "onboard_time": 1726147819,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 278963,
-      "num": 440973,
-      "word": "直播间卖香港月饼称99元3盒",
-      "onboard_time": 1726152740,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 278555,
@@ -15209,14 +15225,6 @@
       "onboard_time": 1725944481,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 211671,
-      "num": 211671,
-      "word": "JENNIE美版芭莎十月刊封面",
-      "onboard_time": 1726153702,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 211630,
@@ -19867,6 +19875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178127,
+      "num": 178127,
+      "word": "父亲实名羡慕女儿考上985",
+      "onboard_time": 1726153940,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178074,
       "num": 196435,
       "word": "苏醒被日本歌手说像孙悟空",
@@ -22115,6 +22131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162737,
+      "num": 162737,
+      "word": "伊藤美诚无缘战莎莎",
+      "onboard_time": 1726153160,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162729,
       "num": 162729,
       "word": "重庆人期待已久的雨终于来了",
@@ -23424,14 +23448,6 @@
       "word": "央视争取尽快获得国足参赛场次版权",
       "onboard_time": 1725534980,
       "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 154877,
-      "num": 154877,
-      "word": "伊藤美诚无缘战莎莎",
-      "onboard_time": 1726153160,
-      "rank": 34,
       "category": "体育"
     },
     {
@@ -25731,6 +25747,14 @@
       "category": "电影,作品衍生"
     },
     {
+      "raw_hot": 139969,
+      "num": 139969,
+      "word": "成毅赴山海战损破碎感",
+      "onboard_time": 1726154060,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139886,
       "num": 139886,
       "word": "特朗普哈里斯针锋相对辩论了90分钟",
@@ -26073,14 +26097,6 @@
       "onboard_time": 1726052781,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 137102,
-      "num": 137102,
-      "word": "成毅赴山海战损破碎感",
-      "onboard_time": 1726154060,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 137064,
@@ -27323,6 +27339,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 128030,
+      "num": 128030,
+      "word": "杨幂工作室定制浏阳烟花为杨幂庆生",
+      "onboard_time": 1726154060,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127983,
       "num": 309805,
       "word": "好好分手真的很难吗",
@@ -27803,14 +27827,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 124056,
-      "num": 124056,
-      "word": "父亲实名羡慕女儿考上985",
-      "onboard_time": 1726153940,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124025,
       "num": 124025,
       "word": "早田希娜因伤缺席中国大满贯",
@@ -27897,6 +27913,14 @@
       "onboard_time": 1725119479,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 123243,
+      "num": 123243,
+      "word": "崔然竣solo预告",
+      "onboard_time": 1726153940,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 123218,
@@ -28409,14 +28433,6 @@
       "onboard_time": 1725114501,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117631,
-      "num": 117631,
-      "word": "杨幂工作室定制浏阳烟花为杨幂庆生",
-      "onboard_time": 1726154060,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 117545,
@@ -28939,6 +28955,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 112735,
+      "num": 440935,
+      "word": "杨文吉回应终身禁足",
+      "onboard_time": 1726153761,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112676,
       "num": 112676,
       "word": "周深巡回演唱",
@@ -28993,14 +29017,6 @@
       "onboard_time": 1726065623,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 111906,
-      "num": 111906,
-      "word": "小杨哥 月饼",
-      "onboard_time": 1726154540,
-      "rank": 46,
-      "category": "网红"
     },
     {
       "raw_hot": 111823,
@@ -29145,6 +29161,14 @@
       "onboard_time": 1726148659,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 110242,
+      "num": 110242,
+      "word": "原来果冻是这样开的",
+      "onboard_time": 1726154900,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 110014,
@@ -29899,14 +29923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 99110,
-      "num": 99110,
-      "word": "崔然竣solo预告",
-      "onboard_time": 1726153940,
-      "rank": 49,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 99059,
       "num": 99059,
       "word": "当我凌晨两点想前男友了",
@@ -30225,14 +30241,6 @@
       "onboard_time": 1725764599,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94345,
-      "num": 440935,
-      "word": "杨文吉回应终身禁足",
-      "onboard_time": 1726153761,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 94300,
@@ -32328,6 +32336,14 @@
       "word": "取消来电显示费必须购买新套餐",
       "onboard_time": 1725941840,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56240,
+      "num": 361467,
+      "word": "因标价错误造成损失由谁担责",
+      "onboard_time": 1726153401,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -34803,14 +34819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31190,
-      "num": 361467,
-      "word": "因标价错误造成损失由谁担责",
-      "onboard_time": 1726153401,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 31079,
       "num": 238081,
       "word": "骑行男孩身亡案事发道路定性成关键",
@@ -36011,6 +36019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 21016,
+      "num": 140211,
+      "word": "鸿星尔克的大秀一直在讲中国心",
+      "onboard_time": 1726154960,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20976,
       "num": 372933,
       "word": "丰收的氛围拉满了",
@@ -36281,6 +36297,14 @@
       "onboard_time": 1725737113,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 18347,
+      "num": 112244,
+      "word": "文韬把冲锋衣穿出了山系男友风",
+      "onboard_time": 1726155319,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 18297,

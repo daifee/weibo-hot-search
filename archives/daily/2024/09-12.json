@@ -1,6 +1,6 @@
 {
   "startTime": 1726072022754,
-  "endTime": 1726154561006,
+  "endTime": 1726155453610,
   "band_list": [
     {
       "raw_hot": 2496876,
@@ -96,6 +96,14 @@
       "word": "丈夫致妻子死亡后服药自尽",
       "onboard_time": 1726130241,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1321296,
+      "num": 1321296,
+      "word": "直播间卖香港月饼称99元3盒",
+      "onboard_time": 1726152740,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -619,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 487062,
+      "num": 390330,
+      "word": "小杨哥 月饼",
+      "onboard_time": 1726154540,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 482381,
       "num": 401054,
       "word": "网约车走小路姑娘称被吓到跳车",
@@ -825,6 +841,14 @@
       "onboard_time": 1726097658,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 395632,
+      "num": 395632,
+      "word": "JENNIE美版芭莎十月刊封面",
+      "onboard_time": 1726153702,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 389668,
@@ -1056,14 +1080,6 @@
       "word": "辽宁大连3.7级地震",
       "onboard_time": 1726062202,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 278963,
-      "num": 440973,
-      "word": "直播间卖香港月饼称99元3盒",
-      "onboard_time": 1726152740,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1379,14 +1395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211671,
-      "num": 211671,
-      "word": "JENNIE美版芭莎十月刊封面",
-      "onboard_time": 1726153702,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 206419,
       "num": 206419,
       "word": "诗幂",
@@ -1683,6 +1691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 178127,
+      "num": 178127,
+      "word": "父亲实名羡慕女儿考上985",
+      "onboard_time": 1726153940,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177304,
       "num": 177304,
       "word": "宁德时代曾毓群称与李彦宏同名还同龄",
@@ -1875,6 +1891,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 162737,
+      "num": 162737,
+      "word": "伊藤美诚无缘战莎莎",
+      "onboard_time": 1726153160,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162596,
       "num": 162596,
       "word": "太湖湾音乐节",
@@ -1961,14 +1985,6 @@
       "onboard_time": 1726138399,
       "rank": 28,
       "category": "军事"
-    },
-    {
-      "raw_hot": 154877,
-      "num": 154877,
-      "word": "伊藤美诚无缘战莎莎",
-      "onboard_time": 1726153160,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 154359,
@@ -2227,6 +2243,14 @@
       "category": "电影,作品衍生"
     },
     {
+      "raw_hot": 139969,
+      "num": 139969,
+      "word": "成毅赴山海战损破碎感",
+      "onboard_time": 1726154060,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139359,
       "num": 139359,
       "word": "时尚芭莎十月刊封面",
@@ -2265,14 +2289,6 @@
       "onboard_time": 1726121001,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137102,
-      "num": 137102,
-      "word": "成毅赴山海战损破碎感",
-      "onboard_time": 1726154060,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 136370,
@@ -2387,6 +2403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 128030,
+      "num": 128030,
+      "word": "杨幂工作室定制浏阳烟花为杨幂庆生",
+      "onboard_time": 1726154060,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127644,
       "num": 127644,
       "word": "女生吃小火锅瞥见货架摆一排增香汁",
@@ -2451,14 +2475,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 124056,
-      "num": 124056,
-      "word": "父亲实名羡慕女儿考上985",
-      "onboard_time": 1726153940,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123794,
       "num": 123794,
       "word": "林诗栋回应首胜张本智和",
@@ -2473,6 +2489,14 @@
       "onboard_time": 1726122259,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123243,
+      "num": 123243,
+      "word": "崔然竣solo预告",
+      "onboard_time": 1726153940,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 123085,
@@ -2521,14 +2545,6 @@
       "onboard_time": 1726149800,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117631,
-      "num": 117631,
-      "word": "杨幂工作室定制浏阳烟花为杨幂庆生",
-      "onboard_time": 1726154060,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 117545,
@@ -2595,20 +2611,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112735,
+      "num": 440935,
+      "word": "杨文吉回应终身禁足",
+      "onboard_time": 1726153761,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112517,
       "num": 112517,
       "word": "朱志鑫耳洞",
       "onboard_time": 1726099459,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 111906,
-      "num": 111906,
-      "word": "小杨哥 月饼",
-      "onboard_time": 1726154540,
-      "rank": 46,
-      "category": "网红"
     },
     {
       "raw_hot": 111823,
@@ -2641,6 +2657,14 @@
       "onboard_time": 1726148659,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 110242,
+      "num": 110242,
+      "word": "原来果冻是这样开的",
+      "onboard_time": 1726154900,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 107925,
@@ -2723,14 +2747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99110,
-      "num": 99110,
-      "word": "崔然竣solo预告",
-      "onboard_time": 1726153940,
-      "rank": 49,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 99075,
       "num": 99075,
       "word": "张百乔小雪婚礼邀请函",
@@ -2793,14 +2809,6 @@
       "onboard_time": 1726117641,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 94345,
-      "num": 440935,
-      "word": "杨文吉回应终身禁足",
-      "onboard_time": 1726153761,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 94203,
@@ -3051,6 +3059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56240,
+      "num": 361467,
+      "word": "因标价错误造成损失由谁担责",
+      "onboard_time": 1726153401,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52222,
       "num": 340064,
       "word": "生出有缺陷的宝宝是运气不好吗",
@@ -3243,14 +3259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31190,
-      "num": 361467,
-      "word": "因标价错误造成损失由谁担责",
-      "onboard_time": 1726153401,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30753,
       "num": 216322,
       "word": "救人者回应持铁勺击退持刀男子",
@@ -3355,6 +3363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 21016,
+      "num": 140211,
+      "word": "鸿星尔克的大秀一直在讲中国心",
+      "onboard_time": 1726154960,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20900,
       "num": 46469,
       "word": "新加坡通过平台工人法案",
@@ -3385,6 +3401,14 @@
       "onboard_time": 1726128318,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18347,
+      "num": 112244,
+      "word": "文韬把冲锋衣穿出了山系男友风",
+      "onboard_time": 1726155319,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 18266,
