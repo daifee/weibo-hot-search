@@ -1,7 +1,15 @@
 {
   "startTime": 1726072022754,
-  "endTime": 1726123417089,
+  "endTime": 1726125625719,
   "band_list": [
+    {
+      "raw_hot": 2496876,
+      "num": 2496876,
+      "word": "24岁生下唐氏综合征患儿母亲发声",
+      "onboard_time": 1726122141,
+      "rank": 20,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2268144,
       "num": 2268144,
@@ -16,14 +24,6 @@
       "word": "碎花裙女生拼尽全力敲打行凶者",
       "onboard_time": 1726112961,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1358139,
-      "num": 1358139,
-      "word": "24岁生下唐氏综合征患儿母亲发声",
-      "onboard_time": 1726122141,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1122028,
-      "num": 401605,
+      "num": 434845,
       "word": "虞书欣 双轨",
       "onboard_time": 1726115482,
       "rank": 12,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 880889,
+      "num": 260863,
+      "word": "公园回应男厕小便池半露天式",
+      "onboard_time": 1726122500,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 875514,
       "num": 875514,
       "word": "17岁女生花十多万买笑气",
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 844008,
-      "num": 401114,
+      "num": 440950,
       "word": "王鹤棣 分寸感",
       "onboard_time": 1726119202,
       "rank": 13,
@@ -136,6 +144,14 @@
       "word": "超雄综合症不等于性格暴戾",
       "onboard_time": 1726108579,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 804408,
+      "num": 804408,
+      "word": "这三种照片千万不要随便晒",
+      "onboard_time": 1726122141,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -201,6 +217,14 @@
       "onboard_time": 1726087392,
       "rank": 17,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 675442,
+      "num": 675442,
+      "word": "林高远vs高承睿",
+      "onboard_time": 1726123880,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 667937,
@@ -284,7 +308,7 @@
     },
     {
       "raw_hot": 539140,
-      "num": 371819,
+      "num": 494304,
       "word": "徐艺洋晒照庆生",
       "onboard_time": 1726121360,
       "rank": 12,
@@ -483,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 372956,
-      "num": 372956,
-      "word": "这三种照片千万不要随便晒",
-      "onboard_time": 1726122141,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 371068,
       "num": 371068,
       "word": "于正发文为杨幂庆生",
@@ -571,14 +587,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 294513,
-      "num": 200518,
-      "word": "公园回应男厕小便池半露天式",
-      "onboard_time": 1726122500,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 293332,
       "num": 293332,
       "word": "外资离开中国到底过得怎么样",
@@ -635,12 +643,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273637,
+      "num": 224061,
+      "word": "韩安冉说流量不好时挺爱殷世航的",
+      "onboard_time": 1726124539,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 273476,
-      "num": 184586,
+      "num": 231610,
       "word": "大胖媳妇 忌口就是每样都吃几口",
       "onboard_time": 1726121300,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 272318,
+      "num": 272318,
+      "word": "林高远止步澳门赛16强",
+      "onboard_time": 1726125379,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 269402,
@@ -867,6 +891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193983,
+      "num": 442712,
+      "word": "有的餐馆脏得外卖骑手都不愿意取餐",
+      "onboard_time": 1726123041,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192697,
       "num": 188757,
       "word": "易烊千玺五登芭莎",
@@ -881,6 +913,14 @@
       "onboard_time": 1726113980,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 191939,
+      "num": 191939,
+      "word": "A股",
+      "onboard_time": 1726125142,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 190106,
@@ -1041,6 +1081,14 @@
       "onboard_time": 1726105340,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162928,
+      "num": 162928,
+      "word": "中秋又被老舅的rap整破防了",
+      "onboard_time": 1726118900,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 160708,
@@ -1219,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133316,
+      "num": 133316,
+      "word": "解说记得哭了",
+      "onboard_time": 1726121600,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132856,
       "num": 132856,
       "word": "库里张伟丽吃火锅",
@@ -1233,6 +1289,14 @@
       "onboard_time": 1726098258,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 132767,
+      "num": 132767,
+      "word": "2024年预防出生缺陷日",
+      "onboard_time": 1726124719,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131844,
@@ -1251,11 +1315,19 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 126947,
-      "num": 126947,
-      "word": "有的餐馆脏得外卖骑手都不愿意取餐",
-      "onboard_time": 1726123041,
-      "rank": 33,
+      "raw_hot": 129251,
+      "num": 293376,
+      "word": "老人不参与体检被扣老人金",
+      "onboard_time": 1726121001,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127988,
+      "num": 127988,
+      "word": "律师解读天津机场无人机事件",
+      "onboard_time": 1726124780,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1315,20 +1387,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123085,
+      "num": 123085,
+      "word": "燃烧的月亮",
+      "onboard_time": 1726124900,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122089,
       "num": 122089,
       "word": "35岁放弃大厂百万年薪做游戏",
       "onboard_time": 1726119321,
       "rank": 44,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 120987,
-      "num": 120987,
-      "word": "解说记得哭了",
-      "onboard_time": 1726121600,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 114029,
@@ -1369,14 +1441,6 @@
       "onboard_time": 1726122620,
       "rank": 43,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 111404,
-      "num": 293376,
-      "word": "老人不参与体检被扣老人金",
-      "onboard_time": 1726121001,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111319,
@@ -1435,6 +1499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96777,
+      "num": 96777,
+      "word": "国足24年换了15任主帅",
+      "onboard_time": 1726123941,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96691,
       "num": 96691,
       "word": "原来貘是淡系动物",
@@ -1473,6 +1545,22 @@
       "onboard_time": 1726067661,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90487,
+      "num": 90487,
+      "word": "张起灵大战夜妇",
+      "onboard_time": 1726125440,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 88752,
+      "num": 90205,
+      "word": "IBM再回应关闭中国研发部门",
+      "onboard_time": 1726124900,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 86027,
@@ -1611,6 +1699,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 68501,
+      "num": 281898,
+      "word": "杨幂生日贺图",
+      "onboard_time": 1726124539,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66360,
       "num": 66360,
       "word": "郑棋元签唱会",
@@ -1736,6 +1832,14 @@
       "word": "丰收的颜色惊艳了整个秋天",
       "onboard_time": 1726065322,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33766,
+      "num": 340064,
+      "word": "生出有缺陷的宝宝是运气不好吗",
+      "onboard_time": 1726124659,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1873,6 +1977,14 @@
       "onboard_time": 1726081631,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6025,
+      "num": 980380,
+      "word": "105公里边境线上的摩托车巡逻队",
+      "onboard_time": 1726125559,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
