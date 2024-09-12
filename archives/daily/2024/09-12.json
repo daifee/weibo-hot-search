@@ -1,6 +1,6 @@
 {
   "startTime": 1726072022754,
-  "endTime": 1726148315883,
+  "endTime": 1726150956104,
   "band_list": [
     {
       "raw_hot": 2496876,
@@ -43,6 +43,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1927464,
+      "num": 1927464,
+      "word": "山东一高校突发男生坠楼事件",
+      "onboard_time": 1726143379,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1784578,
+      "num": 1784578,
+      "word": "月销5000万元的香港月饼香港买不到",
+      "onboard_time": 1726147938,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1772632,
       "num": 383765,
       "word": "女生眼角掉出黑色异物竟是74根眼睫毛",
@@ -57,14 +73,6 @@
       "onboard_time": 1726144100,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1654949,
-      "num": 1654949,
-      "word": "山东一高校突发男生坠楼事件",
-      "onboard_time": 1726143379,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1621669,
@@ -169,6 +177,14 @@
       "onboard_time": 1726127961,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1101262,
+      "num": 1101262,
+      "word": "天津机场称未收到无人机飞行报备",
+      "onboard_time": 1726148781,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1083835,
@@ -803,6 +819,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 375273,
+      "num": 375273,
+      "word": "胡歌刘涛琅琊榜售后",
+      "onboard_time": 1726149502,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 371412,
+      "num": 371412,
+      "word": "剧本杀为什么没人玩了",
+      "onboard_time": 1726140560,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 371068,
       "num": 371068,
       "word": "于正发文为杨幂庆生",
@@ -817,6 +849,22 @@
       "onboard_time": 1726060282,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 360215,
+      "num": 360215,
+      "word": "天津机场旅客称黑飞无人机多次出现",
+      "onboard_time": 1726149379,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356398,
+      "num": 374595,
+      "word": "王俊凯 3句以上就侵权啦",
+      "onboard_time": 1726146560,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 349716,
@@ -940,7 +988,7 @@
     },
     {
       "raw_hot": 288428,
-      "num": 237295,
+      "num": 283969,
       "word": "黑神话悟空总收入近65亿",
       "onboard_time": 1726147219,
       "rank": 37,
@@ -979,6 +1027,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 279834,
+      "num": 373351,
+      "word": "张凌赫的腿长具象化了",
+      "onboard_time": 1726147819,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 279565,
       "num": 291529,
       "word": "辽宁大连3.7级地震",
@@ -992,14 +1048,6 @@
       "word": "镇政府回应丈夫失手杀妻后自尽",
       "onboard_time": 1726128500,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 271162,
-      "num": 271162,
-      "word": "剧本杀为什么没人玩了",
-      "onboard_time": 1726140560,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1017,6 +1065,14 @@
       "onboard_time": 1726105519,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 266468,
+      "num": 266468,
+      "word": "殷桃演技",
+      "onboard_time": 1726149560,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 265085,
@@ -1081,14 +1137,6 @@
       "onboard_time": 1726136779,
       "rank": 17,
       "category": "电影,作品衍生"
-    },
-    {
-      "raw_hot": 241646,
-      "num": 276788,
-      "word": "王俊凯 3句以上就侵权啦",
-      "onboard_time": 1726146560,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 240553,
@@ -1163,20 +1211,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 230819,
-      "num": 230819,
-      "word": "月销5000万元的香港月饼香港买不到",
-      "onboard_time": 1726147938,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 227694,
       "num": 227694,
       "word": "周雨彤苏晓彤又约饭了",
       "onboard_time": 1726102761,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 226478,
+      "num": 226478,
+      "word": "伊藤美诚心态",
+      "onboard_time": 1726147881,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 225766,
@@ -1219,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222373,
+      "num": 222373,
+      "word": "库里 离开西安",
+      "onboard_time": 1726147761,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220788,
       "num": 220788,
       "word": "Scout经纪公司喊话EDG",
@@ -1251,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217304,
+      "num": 217304,
+      "word": "律师解读天津机场无人机事件",
+      "onboard_time": 1726124780,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214558,
       "num": 214558,
       "word": "时尚先生",
@@ -1267,19 +1331,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 211729,
-      "num": 209591,
-      "word": "伊藤美诚心态",
-      "onboard_time": 1726147881,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 208656,
-      "num": 208656,
-      "word": "库里 离开西安",
-      "onboard_time": 1726147761,
-      "rank": 32,
+      "raw_hot": 212829,
+      "num": 212829,
+      "word": "王楚钦采访",
+      "onboard_time": 1726148720,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -1451,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189175,
+      "num": 189175,
+      "word": "刚开学非全研究生已经想退学了",
+      "onboard_time": 1726148720,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 188426,
       "num": 273247,
       "word": "TFING音乐厂牌",
@@ -1529,14 +1593,6 @@
       "onboard_time": 1726105758,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179195,
-      "num": 214426,
-      "word": "张凌赫的腿长具象化了",
-      "onboard_time": 1726147819,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 179065,
@@ -1619,6 +1675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174404,
+      "num": 560314,
+      "word": "打顺风车后连续7天被免密支付21笔",
+      "onboard_time": 1726146200,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173850,
       "num": 173850,
       "word": "令人心动的offer",
@@ -1657,6 +1721,14 @@
       "onboard_time": 1726129640,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172796,
+      "num": 172796,
+      "word": "梦回何以琛",
+      "onboard_time": 1726150581,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 171392,
@@ -1761,14 +1833,6 @@
       "onboard_time": 1726118900,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 162661,
-      "num": 560314,
-      "word": "打顺风车后连续7天被免密支付21笔",
-      "onboard_time": 1726146200,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162596,
@@ -1963,6 +2027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151052,
+      "num": 151052,
+      "word": "担心KT",
+      "onboard_time": 1726150701,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151016,
       "num": 151016,
       "word": "小伙下160米天坑为隐居母子送货",
@@ -2049,6 +2121,14 @@
       "onboard_time": 1726064663,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 144299,
+      "num": 144299,
+      "word": "aespa或将10月21日回归",
+      "onboard_time": 1726150460,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 143178,
@@ -2233,14 +2313,6 @@
       "onboard_time": 1726104199,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 127988,
-      "num": 127988,
-      "word": "律师解读天津机场无人机事件",
-      "onboard_time": 1726124780,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127644,
@@ -2787,6 +2859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 65739,
+      "num": 566472,
+      "word": "398元烫发套餐结账成2477元",
+      "onboard_time": 1726149800,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65401,
       "num": 65401,
       "word": "考古发现4亿年前人类四肢线索",
@@ -2840,6 +2920,14 @@
       "word": "职业打假人羁押千日获52万国家赔偿",
       "onboard_time": 1726146322,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54804,
+      "num": 375154,
+      "word": "小伙不带手机134天游遍半个中国",
+      "onboard_time": 1726149920,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2947,6 +3035,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 37990,
+      "num": 372540,
+      "word": "男子两段恋爱被骗近10万怀疑是一人",
+      "onboard_time": 1726150100,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36665,
       "num": 177649,
       "word": "3家酒店台风期间哄抬价格被调查",
@@ -2963,6 +3059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35978,
+      "num": 309046,
+      "word": "院人的新院服是冲锋衣",
+      "onboard_time": 1726148781,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34380,
       "num": 814700,
       "word": "丰收的颜色惊艳了整个秋天",
@@ -2976,6 +3080,14 @@
       "word": "资深机长称黑飞无人机当心担刑责",
       "onboard_time": 1726132039,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33576,
+      "num": 373281,
+      "word": "鸿星尔克让华夏英雄闯进了时尚界",
+      "onboard_time": 1726147280,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -3016,14 +3128,6 @@
       "word": "滞销书编辑决定放弃谈理想主义",
       "onboard_time": 1726111941,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29067,
-      "num": 250415,
-      "word": "鸿星尔克让华夏英雄闯进了时尚界",
-      "onboard_time": 1726147280,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -3073,6 +3177,14 @@
       "onboard_time": 1726131021,
       "rank": 20,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 23648,
+      "num": 175445,
+      "word": "鸿星尔克大秀请悟空开场",
+      "onboard_time": 1726150282,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 23601,
