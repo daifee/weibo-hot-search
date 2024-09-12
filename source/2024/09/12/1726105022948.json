@@ -1,0 +1,410 @@
+{
+  "runTime": 1726105022948,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1228185,
+        "num": 1228185,
+        "word": "孙颖莎倒地爆冲",
+        "onboard_time": 1726098619,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 582429,
+        "num": 582429,
+        "word": "2男孩把猫扔湖里被大学生厉声制止",
+        "onboard_time": 1726087392,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 33224,
+        "num": 566781,
+        "word": "丰收的颜色惊艳了整个秋天",
+        "onboard_time": 1726065322,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554843,
+        "num": 554843,
+        "word": "加沙的鞋成了奢侈品",
+        "onboard_time": 1726103480,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 449521,
+        "num": 449521,
+        "word": "柳岩 许仙最后打死了白娘子",
+        "onboard_time": 1726071140,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416253,
+        "num": 416253,
+        "word": "NewJeans新账号被封禁",
+        "onboard_time": 1726103000,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397590,
+        "num": 397590,
+        "word": "迪丽热巴连续十一年为杨幂庆生",
+        "onboard_time": 1726097658,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368051,
+        "num": 368051,
+        "word": "17岁女生花十多万买笑气",
+        "onboard_time": 1726061722,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305724,
+        "num": 305724,
+        "word": "女子被家暴失明母亲希望判男方无期",
+        "onboard_time": 1726056381,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114288,
+        "num": 302511,
+        "word": "江西多名执法人员殴打一男子",
+        "onboard_time": 1726095796,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423326,
+        "num": 299641,
+        "word": "网约车走小路姑娘称被吓到跳车",
+        "onboard_time": 1726097238,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576503,
+        "num": 294511,
+        "word": "李雪琴发文为杨幂庆生",
+        "onboard_time": 1726101981,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349348,
+        "num": 292041,
+        "word": "乌克兰局势",
+        "onboard_time": 1726098258,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 347739,
+        "num": 289428,
+        "word": "李子园卖不动了",
+        "onboard_time": 1726066402,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285660,
+        "num": 285660,
+        "word": "巨型猫尾惊现郑州街头",
+        "onboard_time": 1726100601,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 280376,
+        "num": 280376,
+        "word": "天津机场通报无人机导致航班延误",
+        "onboard_time": 1726067603,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327598,
+        "num": 276889,
+        "word": "杨幂黄明昊新合照",
+        "onboard_time": 1726101382,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263312,
+        "num": 263312,
+        "word": "撒贝宁投喂王鸥是一种习惯",
+        "onboard_time": 1726103900,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240639,
+        "num": 240639,
+        "word": "韩安冉 早知道就不这个时候生了",
+        "onboard_time": 1726048820,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 227694,
+        "num": 227694,
+        "word": "周雨彤苏晓彤又约饭了",
+        "onboard_time": 1726102761,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 768196,
+        "num": 227637,
+        "word": "月薪十万也不敢干的职业",
+        "onboard_time": 1726100180,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 683124,
+        "num": 224237,
+        "word": "女子净身出户每天把1岁儿子锁家里",
+        "onboard_time": 1726095255,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490309,
+        "num": 221528,
+        "word": "女童8楼掉落保安冲上前徒手接娃",
+        "onboard_time": 1726099821,
+        "rank": 22,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 384648,
+        "num": 218883,
+        "word": "看似休息其实伤身的5个习惯",
+        "onboard_time": 1726100541,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 272678,
+        "num": 214116,
+        "word": "日男子新加坡性侵女学生被鞭刑20",
+        "onboard_time": 1726060282,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214043,
+        "num": 214043,
+        "word": "辽宁大连3.7级地震",
+        "onboard_time": 1726062202,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205883,
+        "num": 205883,
+        "word": "月嫂凌晨2点给婴儿喂安眠药",
+        "onboard_time": 1726045580,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199567,
+        "num": 199567,
+        "word": "男子温水泡螃蟹后邮寄骗保4.5万",
+        "onboard_time": 1726097178,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192975,
+        "num": 192975,
+        "word": "天津机场",
+        "onboard_time": 1726102821,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149821,
+        "num": 186647,
+        "word": "蓝盈莹先见家长再谈恋爱",
+        "onboard_time": 1726062445,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233726,
+        "num": 184439,
+        "word": "网友偶遇黄仁勋在美国海底捞甩面",
+        "onboard_time": 1726103480,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 181744,
+        "num": 181744,
+        "word": "村民闻到异味在草丛中发现一具男尸",
+        "onboard_time": 1726063163,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177694,
+        "num": 177694,
+        "word": "400万人在线抢华为三折叠像买彩票",
+        "onboard_time": 1726103480,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 155449,
+        "num": 155449,
+        "word": "被笑气摧毁的青春",
+        "onboard_time": 1726069701,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145829,
+        "num": 145829,
+        "word": "继外公杀害外孙女案将开庭",
+        "onboard_time": 1726098860,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144295,
+        "num": 144295,
+        "word": "港式茶餐厅为什么失宠了",
+        "onboard_time": 1726099039,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144204,
+        "num": 144204,
+        "word": "国足出线概率0.3%",
+        "onboard_time": 1726104259,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142980,
+        "num": 142980,
+        "word": "SEVENTEEN吃上北京烤鸭了",
+        "onboard_time": 1726096998,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136035,
+        "num": 136035,
+        "word": "怀疑食堂师傅是00后",
+        "onboard_time": 1726094054,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135279,
+        "num": 135279,
+        "word": "VMA红毯",
+        "onboard_time": 1726097597,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132856,
+        "num": 132856,
+        "word": "库里张伟丽吃火锅",
+        "onboard_time": 1726100180,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132806,
+        "num": 132806,
+        "word": "眼睛进异物了可以这样做",
+        "onboard_time": 1726098258,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131844,
+        "num": 131844,
+        "word": "胡兵想收蔡国庆儿子当徒弟",
+        "onboard_time": 1726097178,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129671,
+        "num": 129671,
+        "word": "VMA直播",
+        "onboard_time": 1726104199,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231393,
+        "num": 125703,
+        "word": "Vivo手表称无聊可以自杀自残",
+        "onboard_time": 1726100960,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 116210,
+        "num": 116210,
+        "word": "新郎接亲时被众人持棍追着打",
+        "onboard_time": 1726103000,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115641,
+        "num": 115641,
+        "word": "女子撑伞骑车被卷入货车底不幸身亡",
+        "onboard_time": 1726067661,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113898,
+        "num": 113898,
+        "word": "大连地震",
+        "onboard_time": 1726061663,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112517,
+        "num": 112517,
+        "word": "朱志鑫耳洞",
+        "onboard_time": 1726099459,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109149,
+        "num": 109149,
+        "word": "外资离开中国到底过得怎么样",
+        "onboard_time": 1726067183,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在陕西宝鸡和甘肃天水考察调研#"
+    }
+  }
+}

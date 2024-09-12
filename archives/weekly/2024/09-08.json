@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726097716238,
+  "endTime": 1726105022948,
   "band_list": [
     {
       "raw_hot": 13597160,
@@ -588,7 +588,7 @@
     },
     {
       "raw_hot": 1272269,
-      "num": 144121,
+      "num": 224237,
       "word": "女子净身出户每天把1岁儿子锁家里",
       "onboard_time": 1726095255,
       "rank": 20,
@@ -657,6 +657,14 @@
       "onboard_time": 1725850219,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1228185,
+      "num": 1228185,
+      "word": "孙颖莎倒地爆冲",
+      "onboard_time": 1726098619,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1206006,
@@ -1315,6 +1323,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 768196,
+      "num": 227637,
+      "word": "月薪十万也不敢干的职业",
+      "onboard_time": 1726100180,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 764523,
       "num": 764523,
       "word": "孙颖莎vs金娜英",
@@ -1843,6 +1859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 582429,
+      "num": 582429,
+      "word": "2男孩把猫扔湖里被大学生厉声制止",
+      "onboard_time": 1726087392,
+      "rank": 17,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 581736,
       "num": 275890,
       "word": "沫沫",
@@ -1873,6 +1897,14 @@
       "onboard_time": 1725888859,
       "rank": 45,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 576503,
+      "num": 294511,
+      "word": "李雪琴发文为杨幂庆生",
+      "onboard_time": 1726101981,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 572342,
@@ -1937,6 +1969,14 @@
       "onboard_time": 1725772039,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 554843,
+      "num": 554843,
+      "word": "加沙的鞋成了奢侈品",
+      "onboard_time": 1726103480,
+      "rank": 3,
+      "category": "国外时政"
     },
     {
       "raw_hot": 552208,
@@ -2177,6 +2217,14 @@
       "onboard_time": 1725846259,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 490309,
+      "num": 221528,
+      "word": "女童8楼掉落保安冲上前徒手接娃",
+      "onboard_time": 1726099821,
+      "rank": 22,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 490226,
@@ -2539,6 +2587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 423326,
+      "num": 299641,
+      "word": "网约车走小路姑娘称被吓到跳车",
+      "onboard_time": 1726097238,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422073,
       "num": 422073,
       "word": "国台办回应黑神话悟空在台湾大热",
@@ -2577,6 +2633,14 @@
       "onboard_time": 1725788240,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 416253,
+      "num": 416253,
+      "word": "NewJeans新账号被封禁",
+      "onboard_time": 1726103000,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 414788,
@@ -2747,6 +2811,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 397590,
+      "num": 397590,
+      "word": "迪丽热巴连续十一年为杨幂庆生",
+      "onboard_time": 1726097658,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 396993,
       "num": 396993,
       "word": "华为三折叠颜色",
@@ -2857,6 +2929,14 @@
       "onboard_time": 1725713541,
       "rank": 1,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 384648,
+      "num": 218883,
+      "word": "看似休息其实伤身的5个习惯",
+      "onboard_time": 1726100541,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 383663,
@@ -3083,6 +3163,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 349348,
+      "num": 292041,
+      "word": "乌克兰局势",
+      "onboard_time": 1726098258,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 349222,
       "num": 349222,
       "word": "中级会计",
@@ -3227,6 +3315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 327598,
+      "num": 276889,
+      "word": "杨幂黄明昊新合照",
+      "onboard_time": 1726101382,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326894,
       "num": 326894,
       "word": "欧弟三胎女儿出生",
@@ -3289,14 +3385,6 @@
       "onboard_time": 1726036521,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 322694,
-      "num": 322694,
-      "word": "2男孩把猫扔湖里被大学生厉声制止",
-      "onboard_time": 1726087392,
-      "rank": 17,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 322384,
@@ -3691,6 +3779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285660,
+      "num": 285660,
+      "word": "巨型猫尾惊现郑州街头",
+      "onboard_time": 1726100601,
+      "rank": 14,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 285060,
       "num": 285060,
       "word": "十四届全国人大常委会第十一次会议",
@@ -3953,6 +4049,14 @@
       "onboard_time": 1726071140,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 263312,
+      "num": 263312,
+      "word": "撒贝宁投喂王鸥是一种习惯",
+      "onboard_time": 1726103900,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 263227,
@@ -4483,6 +4587,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 233726,
+      "num": 184439,
+      "word": "网友偶遇黄仁勋在美国海底捞甩面",
+      "onboard_time": 1726103480,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 233404,
       "num": 346061,
       "word": "张元英跳EMERGENCY",
@@ -4537,6 +4649,14 @@
       "onboard_time": 1725771080,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231393,
+      "num": 125703,
+      "word": "Vivo手表称无聊可以自杀自残",
+      "onboard_time": 1726100960,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 231323,
@@ -4681,6 +4801,14 @@
       "onboard_time": 1726025840,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227694,
+      "num": 227694,
+      "word": "周雨彤苏晓彤又约饭了",
+      "onboard_time": 1726102761,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 227668,
@@ -5569,6 +5697,14 @@
       "onboard_time": 1725773780,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 199567,
+      "num": 199567,
+      "word": "男子温水泡螃蟹后邮寄骗保4.5万",
+      "onboard_time": 1726097178,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199446,
@@ -6529,6 +6665,14 @@
       "onboard_time": 1725876200,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 177694,
+      "num": 177694,
+      "word": "400万人在线抢华为三折叠像买彩票",
+      "onboard_time": 1726103480,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 177653,
@@ -7547,6 +7691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155449,
+      "num": 169665,
+      "word": "被笑气摧毁的青春",
+      "onboard_time": 1726069701,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155311,
       "num": 652403,
       "word": "蒋圣龙造红牌",
@@ -7780,7 +7932,7 @@
     },
     {
       "raw_hot": 151392,
-      "num": 151392,
+      "num": 302511,
       "word": "江西多名执法人员殴打一男子",
       "onboard_time": 1726095796,
       "rank": 26,
@@ -8091,6 +8243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145829,
+      "num": 145829,
+      "word": "继外公杀害外孙女案将开庭",
+      "onboard_time": 1726098860,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145744,
       "num": 145744,
       "word": "沙特主教练称目标是进5到6球",
@@ -8211,6 +8371,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144295,
+      "num": 144295,
+      "word": "港式茶餐厅为什么失宠了",
+      "onboard_time": 1726099039,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144204,
+      "num": 144204,
+      "word": "国足出线概率0.3%",
+      "onboard_time": 1726104259,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143894,
       "num": 143894,
       "word": "苹果发布会介绍腾讯新游戏",
@@ -8273,6 +8449,14 @@
       "onboard_time": 1725786018,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142980,
+      "num": 142980,
+      "word": "SEVENTEEN吃上北京烤鸭了",
+      "onboard_time": 1726096998,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 142963,
@@ -8659,6 +8843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135279,
+      "num": 135279,
+      "word": "VMA红毯",
+      "onboard_time": 1726097597,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 135267,
       "num": 135267,
       "word": "小胖 语音",
@@ -8835,6 +9027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132856,
+      "num": 132856,
+      "word": "库里张伟丽吃火锅",
+      "onboard_time": 1726100180,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132843,
       "num": 132843,
       "word": "人类首次商业太空行走任务发射升空",
@@ -8857,6 +9057,14 @@
       "onboard_time": 1726058181,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 132806,
+      "num": 132806,
+      "word": "眼睛进异物了可以这样做",
+      "onboard_time": 1726098258,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 132707,
@@ -8889,6 +9097,14 @@
       "onboard_time": 1725776659,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131844,
+      "num": 131844,
+      "word": "胡兵想收蔡国庆儿子当徒弟",
+      "onboard_time": 1726097178,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 131763,
@@ -8985,6 +9201,14 @@
       "onboard_time": 1725768259,
       "rank": 34,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 129671,
+      "num": 129671,
+      "word": "VMA直播",
+      "onboard_time": 1726104199,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 129653,
@@ -9731,14 +9955,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 116955,
-      "num": 169665,
-      "word": "被笑气摧毁的青春",
-      "onboard_time": 1726069701,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 116935,
       "num": 116935,
       "word": "大连警方提示赛后严禁围堵教练员球员",
@@ -9761,6 +9977,14 @@
       "onboard_time": 1726061542,
       "rank": 45,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 116210,
+      "num": 116210,
+      "word": "新郎接亲时被众人持棍追着打",
+      "onboard_time": 1726103000,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116008,
@@ -9969,6 +10193,14 @@
       "onboard_time": 1726035621,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 112517,
+      "num": 112517,
+      "word": "朱志鑫耳洞",
+      "onboard_time": 1726099459,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 112469,
@@ -10427,14 +10659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102192,
-      "num": 102192,
-      "word": "男子温水泡螃蟹后邮寄骗保4.5万",
-      "onboard_time": 1726097178,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102097,
       "num": 102097,
       "word": "十个勤天外务越来越秀了",
@@ -10816,14 +11040,6 @@
       "word": "恩静棒",
       "onboard_time": 1725928640,
       "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 89521,
-      "num": 107427,
-      "word": "SEVENTEEN吃上北京烤鸭了",
-      "onboard_time": 1726096998,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -11243,14 +11459,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 70579,
-      "num": 70579,
-      "word": "网约车走小路姑娘称被吓到跳车",
-      "onboard_time": 1726097238,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 70553,
       "num": 77135,
       "word": "葡萄牙2比1苏格兰",
@@ -11275,14 +11483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 69662,
-      "num": 69662,
-      "word": "迪丽热巴连续十一年为杨幂庆生",
-      "onboard_time": 1726097658,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 69606,
       "num": 194811,
       "word": "雪迷宫超适合东北孩子的警匪片",
@@ -11297,14 +11497,6 @@
       "onboard_time": 1726010716,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 69106,
-      "num": 69106,
-      "word": "VMA红毯",
-      "onboard_time": 1726097597,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 67484,
@@ -11329,14 +11521,6 @@
       "onboard_time": 1725928699,
       "rank": 9,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 67234,
-      "num": 67234,
-      "word": "胡兵想收蔡国庆儿子当徒弟",
-      "onboard_time": 1726097178,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 66981,
@@ -12460,7 +12644,7 @@
     },
     {
       "raw_hot": 34380,
-      "num": 364991,
+      "num": 566781,
       "word": "丰收的颜色惊艳了整个秋天",
       "onboard_time": 1726065322,
       "rank": 20,
