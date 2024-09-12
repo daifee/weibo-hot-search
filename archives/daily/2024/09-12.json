@@ -1,6 +1,6 @@
 {
   "startTime": 1726072022754,
-  "endTime": 1726105022948,
+  "endTime": 1726106014050,
   "band_list": [
     {
       "raw_hot": 1272269,
@@ -17,6 +17,14 @@
       "onboard_time": 1726098619,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1129152,
+      "num": 1129152,
+      "word": "加沙的鞋成了奢侈品",
+      "onboard_time": 1726103480,
+      "rank": 3,
+      "category": "国外时政"
     },
     {
       "raw_hot": 911975,
@@ -59,20 +67,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 677953,
+      "num": 677953,
+      "word": "2男孩把猫扔湖里被大学生厉声制止",
+      "onboard_time": 1726087392,
+      "rank": 17,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 634739,
+      "num": 221528,
+      "word": "女童8楼掉落保安冲上前徒手接娃",
+      "onboard_time": 1726099821,
+      "rank": 22,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 626164,
       "num": 292001,
       "word": "韩安冉 早知道就不这个时候生了",
       "onboard_time": 1726048820,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 582429,
-      "num": 582429,
-      "word": "2男孩把猫扔湖里被大学生厉声制止",
-      "onboard_time": 1726087392,
-      "rank": 17,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 576503,
@@ -83,28 +99,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 554843,
-      "num": 554843,
-      "word": "加沙的鞋成了奢侈品",
-      "onboard_time": 1726103480,
-      "rank": 3,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 542973,
       "num": 291601,
       "word": "大马老人死4年才被儿子发现",
       "onboard_time": 1726059441,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 490309,
-      "num": 221528,
-      "word": "女童8楼掉落保安冲上前徒手接娃",
-      "onboard_time": 1726099821,
-      "rank": 22,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 473123,
@@ -123,6 +123,38 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 457214,
+      "num": 285660,
+      "word": "巨型猫尾惊现郑州街头",
+      "onboard_time": 1726100601,
+      "rank": 14,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 449938,
+      "num": 299641,
+      "word": "网约车走小路姑娘称被吓到跳车",
+      "onboard_time": 1726097238,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 444077,
+      "num": 444077,
+      "word": "NewJeans新账号被封禁",
+      "onboard_time": 1726103000,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 427072,
+      "num": 427072,
+      "word": "撒贝宁投喂王鸥是一种习惯",
+      "onboard_time": 1726103900,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 424329,
       "num": 424329,
       "word": "seventeen",
@@ -137,22 +169,6 @@
       "onboard_time": 1726067603,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 423326,
-      "num": 299641,
-      "word": "网约车走小路姑娘称被吓到跳车",
-      "onboard_time": 1726097238,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 416253,
-      "num": 416253,
-      "word": "NewJeans新账号被封禁",
-      "onboard_time": 1726103000,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 409241,
@@ -171,7 +187,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 384648,
+      "raw_hot": 389668,
       "num": 218883,
       "word": "看似休息其实伤身的5个习惯",
       "onboard_time": 1726100541,
@@ -243,12 +259,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 285660,
-      "num": 285660,
-      "word": "巨型猫尾惊现郑州街头",
-      "onboard_time": 1726100601,
-      "rank": 14,
-      "category": "旅游"
+      "raw_hot": 285919,
+      "num": 200451,
+      "word": "男子温水泡螃蟹后邮寄骗保4.5万",
+      "onboard_time": 1726097178,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285462,
@@ -283,14 +299,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 263312,
-      "num": 263312,
-      "word": "撒贝宁投喂王鸥是一种习惯",
-      "onboard_time": 1726103900,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 253568,
       "num": 292979,
       "word": "minji好帅",
@@ -300,11 +308,19 @@
     },
     {
       "raw_hot": 233726,
-      "num": 184439,
+      "num": 205923,
       "word": "网友偶遇黄仁勋在美国海底捞甩面",
       "onboard_time": 1726103480,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 232806,
+      "num": 211952,
+      "word": "那尔那茜 手滑点赞",
+      "onboard_time": 1726105519,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 231393,
@@ -331,11 +347,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199567,
-      "num": 199567,
-      "word": "男子温水泡螃蟹后邮寄骗保4.5万",
-      "onboard_time": 1726097178,
-      "rank": 30,
+      "raw_hot": 210019,
+      "num": 199313,
+      "word": "400万人在线抢华为三折叠像买彩票",
+      "onboard_time": 1726103480,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 200189,
+      "num": 192975,
+      "word": "天津机场",
+      "onboard_time": 1726102821,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -347,12 +371,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 192975,
-      "num": 192975,
-      "word": "天津机场",
-      "onboard_time": 1726102821,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 190106,
+      "num": 190106,
+      "word": "国足出线概率0.3%",
+      "onboard_time": 1726104259,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 181655,
@@ -363,20 +387,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179767,
+      "num": 216041,
+      "word": "台风中这一幕幕让遮风挡雨具象化了",
+      "onboard_time": 1726105758,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178228,
       "num": 178228,
       "word": "赵露思粉色抹胸",
       "onboard_time": 1726062202,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 177694,
-      "num": 177694,
-      "word": "400万人在线抢华为三折叠像买彩票",
-      "onboard_time": 1726103480,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 176624,
@@ -411,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165073,
+      "num": 165073,
+      "word": "上海市中心日租50元住什么房",
+      "onboard_time": 1726105340,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155449,
       "num": 169665,
       "word": "被笑气摧毁的青春",
@@ -425,6 +457,14 @@
       "onboard_time": 1726036161,
       "rank": 27,
       "category": "国内时政,艺人"
+    },
+    {
+      "raw_hot": 151927,
+      "num": 151927,
+      "word": "港式茶餐厅为什么失宠了",
+      "onboard_time": 1726099039,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151392,
@@ -451,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146733,
+      "num": 146733,
+      "word": "食物语",
+      "onboard_time": 1726105640,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145829,
       "num": 145829,
       "word": "继外公杀害外孙女案将开庭",
@@ -467,28 +515,36 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 144295,
-      "num": 144295,
-      "word": "港式茶餐厅为什么失宠了",
-      "onboard_time": 1726099039,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144204,
-      "num": 144204,
-      "word": "国足出线概率0.3%",
-      "onboard_time": 1726104259,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 142980,
       "num": 142980,
       "word": "SEVENTEEN吃上北京烤鸭了",
       "onboard_time": 1726096998,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142048,
+      "num": 142048,
+      "word": "新郎接亲时被众人持棍追着打",
+      "onboard_time": 1726103000,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138753,
+      "num": 138753,
+      "word": "这是解放军卫国戍边任务的真实影像",
+      "onboard_time": 1726100481,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 136234,
+      "num": 136234,
+      "word": "黄仁勋称必要时英伟达可弃用台积电",
+      "onboard_time": 1726105219,
+      "rank": 41,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 135279,
@@ -531,6 +587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 124964,
+      "num": 124964,
+      "word": "丈夫因家暴坐牢出狱后仍威胁妻子",
+      "onboard_time": 1726105700,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124604,
       "num": 124604,
       "word": "NewJeans直播",
@@ -555,14 +619,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 116210,
-      "num": 116210,
-      "word": "新郎接亲时被众人持棍追着打",
-      "onboard_time": 1726103000,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114029,
       "num": 114029,
       "word": "英伟达市值一夜大增1.54万亿",
@@ -577,6 +633,14 @@
       "onboard_time": 1726099459,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111261,
+      "num": 111261,
+      "word": "第五人格",
+      "onboard_time": 1726097778,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 99270,
@@ -731,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70229,
+      "num": 111435,
+      "word": "爸爸带娃每一步操作都在意料之外",
+      "onboard_time": 1726105758,
+      "rank": 48,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 66360,
       "num": 66360,
       "word": "郑棋元签唱会",
@@ -820,7 +892,7 @@
     },
     {
       "raw_hot": 34380,
-      "num": 566781,
+      "num": 814700,
       "word": "丰收的颜色惊艳了整个秋天",
       "onboard_time": 1726065322,
       "rank": 20,

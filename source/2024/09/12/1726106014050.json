@@ -1,0 +1,410 @@
+{
+  "runTime": 1726106014050,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1149220,
+        "num": 1183875,
+        "word": "孙颖莎倒地爆冲",
+        "onboard_time": 1726098619,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1129152,
+        "num": 1129152,
+        "word": "加沙的鞋成了奢侈品",
+        "onboard_time": 1726103480,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 19257,
+        "num": 814700,
+        "word": "丰收的颜色惊艳了整个秋天",
+        "onboard_time": 1726065322,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677953,
+        "num": 677953,
+        "word": "2男孩把猫扔湖里被大学生厉声制止",
+        "onboard_time": 1726087392,
+        "rank": 3,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 444077,
+        "num": 444077,
+        "word": "NewJeans新账号被封禁",
+        "onboard_time": 1726103000,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427072,
+        "num": 427072,
+        "word": "撒贝宁投喂王鸥是一种习惯",
+        "onboard_time": 1726103900,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368350,
+        "num": 368350,
+        "word": "柳岩 许仙最后打死了白娘子",
+        "onboard_time": 1726071140,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360954,
+        "num": 360954,
+        "word": "迪丽热巴连续十一年为杨幂庆生",
+        "onboard_time": 1726097658,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350474,
+        "num": 350474,
+        "word": "17岁女生花十多万买笑气",
+        "onboard_time": 1726061722,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221914,
+        "num": 221914,
+        "word": "女子被家暴失明母亲希望判男方无期",
+        "onboard_time": 1726056381,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457214,
+        "num": 221852,
+        "word": "巨型猫尾惊现郑州街头",
+        "onboard_time": 1726100601,
+        "rank": 10,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 449938,
+        "num": 221602,
+        "word": "网约车走小路姑娘称被吓到跳车",
+        "onboard_time": 1726097238,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391642,
+        "num": 221161,
+        "word": "李雪琴发文为杨幂庆生",
+        "onboard_time": 1726101981,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376112,
+        "num": 221061,
+        "word": "天津机场通报无人机导致航班延误",
+        "onboard_time": 1726067603,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220801,
+        "num": 220801,
+        "word": "辽宁大连3.7级地震",
+        "onboard_time": 1726062202,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292713,
+        "num": 220706,
+        "word": "李子园卖不动了",
+        "onboard_time": 1726066402,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252187,
+        "num": 218803,
+        "word": "乌克兰局势",
+        "onboard_time": 1726098258,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 179767,
+        "num": 216041,
+        "word": "台风中这一幕幕让遮风挡雨具象化了",
+        "onboard_time": 1726105758,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252717,
+        "num": 214867,
+        "word": "杨幂黄明昊新合照",
+        "onboard_time": 1726101382,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232806,
+        "num": 211952,
+        "word": "那尔那茜 手滑点赞",
+        "onboard_time": 1726105519,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 914019,
+        "num": 210308,
+        "word": "女子净身出户每天把1岁儿子锁家里",
+        "onboard_time": 1726095255,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634739,
+        "num": 208655,
+        "word": "女童8楼掉落保安冲上前徒手接娃",
+        "onboard_time": 1726099821,
+        "rank": 21,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 581358,
+        "num": 206417,
+        "word": "月薪十万也不敢干的职业",
+        "onboard_time": 1726100180,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205923,
+        "num": 205923,
+        "word": "网友偶遇黄仁勋在美国海底捞甩面",
+        "onboard_time": 1726103480,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 389668,
+        "num": 205002,
+        "word": "看似休息其实伤身的5个习惯",
+        "onboard_time": 1726100541,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 285919,
+        "num": 200451,
+        "word": "男子温水泡螃蟹后邮寄骗保4.5万",
+        "onboard_time": 1726097178,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210019,
+        "num": 199313,
+        "word": "400万人在线抢华为三折叠像买彩票",
+        "onboard_time": 1726103480,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 193548,
+        "num": 193548,
+        "word": "韩安冉 早知道就不这个时候生了",
+        "onboard_time": 1726048820,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 200189,
+        "num": 192004,
+        "word": "天津机场",
+        "onboard_time": 1726102821,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190106,
+        "num": 190106,
+        "word": "国足出线概率0.3%",
+        "onboard_time": 1726104259,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189554,
+        "num": 189554,
+        "word": "日男子新加坡性侵女学生被鞭刑20",
+        "onboard_time": 1726060282,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186081,
+        "num": 186081,
+        "word": "周雨彤苏晓彤又约饭了",
+        "onboard_time": 1726102761,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166537,
+        "num": 166537,
+        "word": "村民闻到异味在草丛中发现一具男尸",
+        "onboard_time": 1726063163,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165073,
+        "num": 165073,
+        "word": "上海市中心日租50元住什么房",
+        "onboard_time": 1726105340,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120328,
+        "num": 153827,
+        "word": "江西多名执法人员殴打一男子",
+        "onboard_time": 1726095796,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151927,
+        "num": 151927,
+        "word": "港式茶餐厅为什么失宠了",
+        "onboard_time": 1726099039,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146733,
+        "num": 146733,
+        "word": "食物语",
+        "onboard_time": 1726105640,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144934,
+        "num": 144934,
+        "word": "月嫂凌晨2点给婴儿喂安眠药",
+        "onboard_time": 1726045580,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144103,
+        "num": 144103,
+        "word": "被笑气摧毁的青春",
+        "onboard_time": 1726069701,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142048,
+        "num": 142048,
+        "word": "新郎接亲时被众人持棍追着打",
+        "onboard_time": 1726103000,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138753,
+        "num": 138753,
+        "word": "这是解放军卫国戍边任务的真实影像",
+        "onboard_time": 1726100481,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136234,
+        "num": 136234,
+        "word": "黄仁勋称必要时英伟达可弃用台积电",
+        "onboard_time": 1726105219,
+        "rank": 41,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 133747,
+        "num": 133747,
+        "word": "怀疑食堂师傅是00后",
+        "onboard_time": 1726094054,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124964,
+        "num": 124964,
+        "word": "丈夫因家暴坐牢出狱后仍威胁妻子",
+        "onboard_time": 1726105700,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123183,
+        "num": 123183,
+        "word": "大连地震",
+        "onboard_time": 1726061663,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122741,
+        "num": 122741,
+        "word": "VMA红毯",
+        "onboard_time": 1726097597,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115986,
+        "num": 115986,
+        "word": "SEVENTEEN吃上北京烤鸭了",
+        "onboard_time": 1726096998,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111939,
+        "num": 111939,
+        "word": "库里张伟丽吃火锅",
+        "onboard_time": 1726100180,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70229,
+        "num": 111435,
+        "word": "爸爸带娃每一步操作都在意料之外",
+        "onboard_time": 1726105758,
+        "rank": 48,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 111261,
+        "num": 111261,
+        "word": "第五人格",
+        "onboard_time": 1726097778,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#建成中国特色社会主义教育强国#"
+    }
+  }
+}
