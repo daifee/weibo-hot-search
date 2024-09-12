@@ -1,10 +1,10 @@
 {
   "startTime": 1726072022754,
-  "endTime": 1726112307451,
+  "endTime": 1726115210004,
   "band_list": [
     {
       "raw_hot": 1272269,
-      "num": 282067,
+      "num": 305348,
       "word": "女子净身出户每天把1岁儿子锁家里",
       "onboard_time": 1726095255,
       "rank": 20,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1194706,
-      "num": 729380,
+      "num": 1177903,
       "word": "王鹤棣工作室 别编故事",
       "onboard_time": 1726109962,
       "rank": 1,
@@ -35,8 +35,24 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1074234,
+      "num": 852942,
+      "word": "陆虎陈曌旭将在丽江举办婚礼",
+      "onboard_time": 1726111700,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 929887,
+      "num": 929887,
+      "word": "碎花裙女生拼尽全力敲打行凶者",
+      "onboard_time": 1726112961,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 924625,
-      "num": 286787,
+      "num": 301158,
       "word": "丈夫因家暴坐牢出狱后仍威胁妻子",
       "onboard_time": 1726105700,
       "rank": 43,
@@ -60,10 +76,18 @@
     },
     {
       "raw_hot": 850909,
-      "num": 286924,
+      "num": 304706,
       "word": "男子离职45元卖出室友7800元电脑",
       "onboard_time": 1726107979,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 810477,
+      "num": 810477,
+      "word": "超雄综合症不等于性格暴戾",
+      "onboard_time": 1726108579,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -179,7 +203,23 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 478619,
+      "raw_hot": 509849,
+      "num": 302125,
+      "word": "山东大学生兼职陪爬泰山瘦了30斤",
+      "onboard_time": 1726110442,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 498592,
+      "num": 498592,
+      "word": "马龙王楚钦等被记大功",
+      "onboard_time": 1726112060,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 482381,
       "num": 401054,
       "word": "网约车走小路姑娘称被吓到跳车",
       "onboard_time": 1726097238,
@@ -225,14 +265,6 @@
       "onboard_time": 1726103000,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 441998,
-      "num": 279899,
-      "word": "山东大学生兼职陪爬泰山瘦了30斤",
-      "onboard_time": 1726110442,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 424329,
@@ -307,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358716,
+      "num": 358716,
+      "word": "黑神话墙绘遭破坏",
+      "onboard_time": 1726113503,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 349716,
       "num": 290330,
       "word": "韩安冉宋浩然没领证",
@@ -339,12 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 331046,
-      "num": 331046,
-      "word": "超雄综合症不等于性格暴戾",
-      "onboard_time": 1726108579,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 333337,
+      "num": 333337,
+      "word": "于正收到陆虎婚礼邀约",
+      "onboard_time": 1726113560,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 327598,
@@ -352,14 +392,6 @@
       "word": "杨幂黄明昊新合照",
       "onboard_time": 1726101382,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 322413,
-      "num": 322413,
-      "word": "陆虎陈曌旭将在丽江举办婚礼",
-      "onboard_time": 1726111700,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -411,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282545,
+      "num": 282545,
+      "word": "iPhone16最高支持45W充电",
+      "onboard_time": 1726113380,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 279565,
       "num": 291529,
       "word": "辽宁大连3.7级地震",
@@ -457,6 +497,14 @@
       "onboard_time": 1726064602,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252937,
+      "num": 252937,
+      "word": "王蓉丈夫回应福袋虚假发货",
+      "onboard_time": 1726115001,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 250131,
@@ -523,6 +571,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225766,
+      "num": 225766,
+      "word": "殷桃和王骁拍吵架戏吵生气了",
+      "onboard_time": 1726111999,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 224914,
+      "num": 371621,
+      "word": "精神病患理发被推销充1万花3500",
+      "onboard_time": 1726111941,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224042,
       "num": 226576,
       "word": "品牌为杨幂特别定制高跟鞋",
@@ -579,6 +643,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195178,
+      "num": 195178,
+      "word": "女子煲汤放酒太多变炼丹现场",
+      "onboard_time": 1726112839,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192524,
+      "num": 192524,
+      "word": "杀生丸 绝美的神",
+      "onboard_time": 1726113980,
+      "rank": 36,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 191979,
+      "num": 191979,
+      "word": "易烊千玺 影版边水往事",
+      "onboard_time": 1726114942,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 190106,
       "num": 190106,
       "word": "国足出线概率0.3%",
@@ -587,12 +675,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188123,
-      "num": 188123,
-      "word": "马龙王楚钦等被记大功",
-      "onboard_time": 1726112060,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 189133,
+      "num": 189133,
+      "word": "天津机场无人机事件乘客发声",
+      "onboard_time": 1726114821,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185475,
@@ -617,6 +705,14 @@
       "onboard_time": 1726105758,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179003,
+      "num": 179003,
+      "word": "飞机上遇到可怕的乘客全员大逃亡",
+      "onboard_time": 1726114764,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 178280,
@@ -691,12 +787,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 158027,
-      "num": 158027,
-      "word": "殷桃和王骁拍吵架戏吵生气了",
-      "onboard_time": 1726111999,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 156845,
+      "num": 156845,
+      "word": "属于00后的月饼",
+      "onboard_time": 1726114640,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 155449,
@@ -828,7 +924,7 @@
     },
     {
       "raw_hot": 136001,
-      "num": 136001,
+      "num": 192618,
       "word": "VMA红毯",
       "onboard_time": 1726097597,
       "rank": 40,
@@ -915,6 +1011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 123367,
+      "num": 310014,
+      "word": "霉霉五封VMA年度艺人",
+      "onboard_time": 1726114640,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 114029,
       "num": 114029,
       "word": "英伟达市值一夜大增1.54万亿",
@@ -937,6 +1041,14 @@
       "onboard_time": 1726097778,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99750,
+      "num": 322142,
+      "word": "修冰箱4.8元零件被收1610元",
+      "onboard_time": 1726114700,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99270,
@@ -984,6 +1096,22 @@
       "word": "多方回应女子举报被丈夫多次家暴",
       "onboard_time": 1726067661,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93510,
+      "num": 396429,
+      "word": "简约平价月饼成主流",
+      "onboard_time": 1726113800,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87926,
+      "num": 307484,
+      "word": "两对情侣聚餐演变成挥刀故意伤害",
+      "onboard_time": 1726114764,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1139,14 +1267,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 58708,
-      "num": 371621,
-      "word": "精神病患理发被推销充1万花3500",
-      "onboard_time": 1726111941,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 57978,
       "num": 57978,
       "word": "李子园回应营收下滑",
@@ -1196,7 +1316,7 @@
     },
     {
       "raw_hot": 38204,
-      "num": 647351,
+      "num": 864642,
       "word": "淬火强军新征程",
       "onboard_time": 1726110502,
       "rank": 2,
@@ -1249,6 +1369,14 @@
       "onboard_time": 1726111941,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27872,
+      "num": 311239,
+      "word": "张若昀连手都这么好看",
+      "onboard_time": 1726113560,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 26494,
