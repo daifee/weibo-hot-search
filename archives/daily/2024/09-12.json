@@ -1,6 +1,6 @@
 {
   "startTime": 1726072022754,
-  "endTime": 1726139888315,
+  "endTime": 1726140918272,
   "band_list": [
     {
       "raw_hot": 2496876,
@@ -83,19 +83,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1224581,
+      "num": 386600,
+      "word": "葛晓倩说于适没有发声的原因",
+      "onboard_time": 1726137979,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1194706,
       "num": 1177903,
       "word": "王鹤棣工作室 别编故事",
       "onboard_time": 1726109962,
       "rank": 1,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1163537,
-      "num": 331748,
-      "word": "葛晓倩说于适没有发声的原因",
-      "onboard_time": 1726137979,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -121,6 +121,14 @@
       "onboard_time": 1726127961,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1083835,
+      "num": 1083835,
+      "word": "上海出现一只在逃吗喽",
+      "onboard_time": 1726135519,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1074234,
@@ -160,14 +168,6 @@
       "word": "丈夫因家暴坐牢出狱后仍威胁妻子",
       "onboard_time": 1726105700,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 914226,
-      "num": 914226,
-      "word": "上海出现一只在逃吗喽",
-      "onboard_time": 1726135519,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 580968,
-      "num": 326650,
+      "num": 333562,
       "word": "泰国买的香奈儿回国后发现破损",
       "onboard_time": 1726136900,
       "rank": 19,
@@ -579,8 +579,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 443305,
+      "num": 443305,
+      "word": "王一博纪录片国内保险公司不敢接",
+      "onboard_time": 1726135220,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 437083,
-      "num": 288260,
+      "num": 289376,
       "word": "人到中年有多少存款才有安全感",
       "onboard_time": 1726129340,
       "rank": 44,
@@ -619,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419699,
+      "num": 419699,
+      "word": "王楚钦vs徐瑛彬",
+      "onboard_time": 1726140079,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 419688,
       "num": 419688,
       "word": "两对情侣聚餐演变成挥刀故意伤害",
@@ -641,14 +657,6 @@
       "onboard_time": 1726123041,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 406597,
-      "num": 406597,
-      "word": "王一博纪录片国内保险公司不敢接",
-      "onboard_time": 1726135220,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 402961,
@@ -771,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 318119,
+      "num": 318119,
+      "word": "徐冬冬尹子维是怎么找到这个赛道的",
+      "onboard_time": 1726137378,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 305724,
       "num": 305724,
       "word": "女子被家暴失明母亲希望判男方无期",
@@ -825,6 +841,14 @@
       "onboard_time": 1726053561,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284631,
+      "num": 284631,
+      "word": "EDG 合同",
+      "onboard_time": 1726139899,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 282545,
@@ -979,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231129,
+      "num": 231129,
+      "word": "原来坚持打乒乓有这么多好处",
+      "onboard_time": 1726137080,
+      "rank": 38,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 227694,
       "num": 227694,
       "word": "周雨彤苏晓彤又约饭了",
@@ -1033,14 +1065,6 @@
       "onboard_time": 1726138340,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 219783,
-      "num": 232683,
-      "word": "徐冬冬尹子维是怎么找到这个赛道的",
-      "onboard_time": 1726137378,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 217801,
@@ -1227,14 +1251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186080,
-      "num": 186080,
-      "word": "原来坚持打乒乓有这么多好处",
-      "onboard_time": 1726137080,
-      "rank": 38,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 185475,
       "num": 185475,
       "word": "伊万是否下课很快有结果",
@@ -1249,6 +1265,14 @@
       "onboard_time": 1726062445,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181376,
+      "num": 373330,
+      "word": "公司强制肝功能不全员工休病假",
+      "onboard_time": 1726134860,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180966,
@@ -1344,6 +1368,14 @@
       "word": "闫妮的微醺后继有人",
       "onboard_time": 1726120519,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 173850,
+      "num": 173850,
+      "word": "令人心动的offer",
+      "onboard_time": 1726139719,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -1451,12 +1483,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 162290,
+      "num": 355244,
+      "word": "人类首次商业太空行走即将进行",
+      "onboard_time": 1726140498,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160708,
       "num": 160708,
       "word": "静息心率快的人死亡风险更高",
       "onboard_time": 1726111459,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 159472,
+      "num": 159472,
+      "word": "湖南中秋晚会官宣阵容",
+      "onboard_time": 1726140560,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 156773,
@@ -1475,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155764,
+      "num": 155764,
+      "word": "疑郑州一名校教职工吃鲜肉学生吃冻肉",
+      "onboard_time": 1726140619,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155449,
       "num": 169665,
       "word": "被笑气摧毁的青春",
@@ -1489,6 +1545,14 @@
       "onboard_time": 1726138399,
       "rank": 28,
       "category": "军事"
+    },
+    {
+      "raw_hot": 154359,
+      "num": 337921,
+      "word": "孙千李卿 嗑到了",
+      "onboard_time": 1726138340,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 154182,
@@ -1635,14 +1699,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 147159,
-      "num": 373330,
-      "word": "公司强制肝功能不全员工休病假",
-      "onboard_time": 1726134860,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146905,
       "num": 146905,
       "word": "INFP一定要有输出型爱好",
@@ -1699,12 +1755,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140127,
+      "num": 140127,
+      "word": "王俊凯清唱蒲公英的约定",
+      "onboard_time": 1726140740,
+      "rank": 40,
+      "category": "电影,作品衍生"
+    },
+    {
       "raw_hot": 139359,
       "num": 139359,
       "word": "时尚芭莎十月刊封面",
       "onboard_time": 1726130001,
       "rank": 38,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 139258,
+      "num": 139258,
+      "word": "剧本杀为什么没人玩了",
+      "onboard_time": 1726140560,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139247,
@@ -1971,6 +2043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116060,
+      "num": 116060,
+      "word": "WTT赛程",
+      "onboard_time": 1726139540,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114373,
       "num": 114373,
       "word": "为什么有些人胖也健康",
@@ -2075,14 +2155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106124,
-      "num": 106124,
-      "word": "令人心动的offer",
-      "onboard_time": 1726139719,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 105783,
       "num": 105783,
       "word": "年轻人被困在社会时钟里",
@@ -2091,12 +2163,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 103933,
-      "num": 103933,
-      "word": "WTT赛程",
-      "onboard_time": 1726139540,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 102930,
+      "num": 339132,
+      "word": "击退行凶者卤菜店长勺哥发声",
+      "onboard_time": 1726138818,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102368,
@@ -2331,14 +2403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 72676,
-      "num": 337921,
-      "word": "孙千李卿 嗑到了",
-      "onboard_time": 1726138340,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 71743,
       "num": 353733,
       "word": "无人机黑飞危害有多大",
@@ -2435,14 +2499,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 55986,
-      "num": 339132,
-      "word": "击退行凶者卤菜店长勺哥发声",
-      "onboard_time": 1726138818,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 52222,
       "num": 340064,
       "word": "生出有缺陷的宝宝是运气不好吗",
@@ -2483,6 +2539,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 44835,
+      "num": 303824,
+      "word": "出租房成水帘洞姑娘裹毯子过夜",
+      "onboard_time": 1726139298,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44207,
       "num": 60780,
       "word": "何与这个笑",
@@ -2507,6 +2571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 42015,
+      "num": 411934,
+      "word": "黄景瑜演技",
+      "onboard_time": 1726138761,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 39767,
       "num": 320676,
       "word": "如何看待网络小说可代替毕业论文",
@@ -2521,14 +2593,6 @@
       "onboard_time": 1726110502,
       "rank": 2,
       "category": "军事"
-    },
-    {
-      "raw_hot": 37371,
-      "num": 232309,
-      "word": "出租房成水帘洞姑娘裹毯子过夜",
-      "onboard_time": 1726139298,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36665,
@@ -2627,6 +2691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23774,
+      "num": 311940,
+      "word": "朱星杰户外纵横冲锋衣",
+      "onboard_time": 1726139599,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23690,
       "num": 232908,
       "word": "魏建军称造车品质是第一位",
@@ -2683,6 +2755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19903,
+      "num": 139920,
+      "word": "神秘东方力量在伦敦人传人",
+      "onboard_time": 1726139599,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 19143,
       "num": 252653,
       "word": "精英阶层的自我复制",
@@ -2699,12 +2779,12 @@
       "category": "国外时政,财经"
     },
     {
-      "raw_hot": 14084,
-      "num": 148136,
-      "word": "朱星杰户外纵横冲锋衣",
-      "onboard_time": 1726139599,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 15179,
+      "num": 980380,
+      "word": "105公里边境线上的摩托车巡逻队",
+      "onboard_time": 1726125559,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13451,
@@ -2731,14 +2811,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 10397,
-      "num": 139920,
-      "word": "神秘东方力量在伦敦人传人",
-      "onboard_time": 1726139599,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 10078,
       "num": 33551,
       "word": "爸爸花一周时间给女儿绣书皮",
@@ -2759,14 +2831,6 @@
       "num": 1219410,
       "word": "万千气象看内蒙古",
       "onboard_time": 1725887060,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6025,
-      "num": 980380,
-      "word": "105公里边境线上的摩托车巡逻队",
-      "onboard_time": 1726125559,
       "rank": 2,
       "category": "社会新闻"
     }
