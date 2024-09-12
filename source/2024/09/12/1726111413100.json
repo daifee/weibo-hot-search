@@ -1,0 +1,410 @@
+{
+  "runTime": 1726111413100,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 847760,
+        "num": 1135641,
+        "word": "加沙的鞋成了奢侈品",
+        "onboard_time": 1726103480,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 729380,
+        "num": 729380,
+        "word": "王鹤棣工作室 别编故事",
+        "onboard_time": 1726109962,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31442,
+        "num": 647351,
+        "word": "淬火强军新征程",
+        "onboard_time": 1726110502,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 640960,
+        "num": 640960,
+        "word": "杨幂新中式秀禾",
+        "onboard_time": 1726107680,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 541500,
+        "num": 541500,
+        "word": "中国空军用红外弹驱离外机画面",
+        "onboard_time": 1726106719,
+        "rank": 4,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 477736,
+        "num": 477736,
+        "word": "巴勒斯坦代表首次坐上联大会员国席位",
+        "onboard_time": 1726107680,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 466342,
+        "num": 466342,
+        "word": "孙颖莎倒地爆冲",
+        "onboard_time": 1726098619,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 460250,
+        "num": 460250,
+        "word": "撒贝宁投喂王鸥是一种习惯",
+        "onboard_time": 1726103900,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130372,
+        "num": 422365,
+        "word": "台风贝碧嘉16日登陆浙闽沿海",
+        "onboard_time": 1726107680,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242419,
+        "num": 411916,
+        "word": "去年我国25至29岁结婚人数最多",
+        "onboard_time": 1726106719,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562155,
+        "num": 409262,
+        "word": "棣欣引力",
+        "onboard_time": 1726108279,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404498,
+        "num": 404498,
+        "word": "天津机场通报无人机导致航班延误",
+        "onboard_time": 1726067603,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401054,
+        "num": 401054,
+        "word": "网约车走小路姑娘称被吓到跳车",
+        "onboard_time": 1726097238,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372448,
+        "num": 372448,
+        "word": "王鹤棣陈小纭曾合作大奉打更人",
+        "onboard_time": 1726107440,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349562,
+        "num": 349562,
+        "word": "于正发文为杨幂庆生",
+        "onboard_time": 1726110380,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330045,
+        "num": 330045,
+        "word": "半熟男女定档",
+        "onboard_time": 1726107858,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329572,
+        "num": 329572,
+        "word": "2男孩把猫扔湖里被大学生厉声制止",
+        "onboard_time": 1726087392,
+        "rank": 16,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 315646,
+        "num": 315646,
+        "word": "尹净汉入伍公告",
+        "onboard_time": 1726110742,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273339,
+        "num": 273339,
+        "word": "椰椰桃父亲称偶尔踹一脚不算家暴",
+        "onboard_time": 1726109542,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240171,
+        "num": 240171,
+        "word": "中秋节3天高速不免费",
+        "onboard_time": 1726109182,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 843982,
+        "num": 240006,
+        "word": "丈夫因家暴坐牢出狱后仍威胁妻子",
+        "onboard_time": 1726105700,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 776721,
+        "num": 239487,
+        "word": "男子离职45元卖出室友7800元电脑",
+        "onboard_time": 1726107979,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680459,
+        "num": 239357,
+        "word": "女子净身出户每天把1岁儿子锁家里",
+        "onboard_time": 1726095255,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238581,
+        "num": 238581,
+        "word": "NewJeans新账号被封禁",
+        "onboard_time": 1726103000,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344874,
+        "num": 233148,
+        "word": "山东大学生兼职陪爬泰山瘦了30斤",
+        "onboard_time": 1726110442,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320121,
+        "num": 232071,
+        "word": "女童8楼掉落保安冲上前徒手接娃",
+        "onboard_time": 1726099821,
+        "rank": 25,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 225161,
+        "num": 225161,
+        "word": "超雄综合症不等于性格暴戾",
+        "onboard_time": 1726108579,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212760,
+        "num": 212760,
+        "word": "无人机致天津机场大面积延误已恢复",
+        "onboard_time": 1726109122,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203764,
+        "num": 203764,
+        "word": "台风贝碧嘉",
+        "onboard_time": 1726110380,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201142,
+        "num": 201142,
+        "word": "陈小纭工作室回应",
+        "onboard_time": 1726110979,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199488,
+        "num": 199488,
+        "word": "女子哭诉被丈夫扇近7小时巴掌",
+        "onboard_time": 1726109782,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194054,
+        "num": 194054,
+        "word": "品牌为杨幂特别定制高跟鞋",
+        "onboard_time": 1726108520,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186308,
+        "num": 186308,
+        "word": "400万人在线抢华为三折叠像买彩票",
+        "onboard_time": 1726103480,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 185475,
+        "num": 185475,
+        "word": "伊万是否下课很快有结果",
+        "onboard_time": 1726111101,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180618,
+        "num": 180618,
+        "word": "天津机场",
+        "onboard_time": 1726102821,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177335,
+        "num": 177335,
+        "word": "男子温水泡螃蟹后邮寄骗保4.5万",
+        "onboard_time": 1726097178,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177132,
+        "num": 177132,
+        "word": "辽宁大连3.7级地震",
+        "onboard_time": 1726062202,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170912,
+        "num": 170912,
+        "word": "看似休息其实伤身的5个习惯",
+        "onboard_time": 1726100541,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154182,
+        "num": 154182,
+        "word": "侃爷到达北京",
+        "onboard_time": 1726110622,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150686,
+        "num": 150686,
+        "word": "咒术回战269",
+        "onboard_time": 1726111101,
+        "rank": 39,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 150304,
+        "num": 150304,
+        "word": "那尔那茜 手滑点赞",
+        "onboard_time": 1726105519,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143569,
+        "num": 143569,
+        "word": "17岁女生花十多万买笑气",
+        "onboard_time": 1726061722,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139957,
+        "num": 139957,
+        "word": "李子园卖不动了",
+        "onboard_time": 1726066402,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136370,
+        "num": 136370,
+        "word": "流水迢迢疯爱纠葛版预告",
+        "onboard_time": 1726111040,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134867,
+        "num": 134867,
+        "word": "稀土公司人员泄露7项国家秘密获刑",
+        "onboard_time": 1726108160,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30170,
+        "num": 132071,
+        "word": "2024年服贸会今日开幕",
+        "onboard_time": 1726110561,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131683,
+        "num": 131683,
+        "word": "唐鹤德晒照为张国荣庆生",
+        "onboard_time": 1726108100,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131344,
+        "num": 131344,
+        "word": "巨型猫尾惊现郑州街头",
+        "onboard_time": 1726100601,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 129237,
+        "num": 129237,
+        "word": "周雨彤苏晓彤又约饭了",
+        "onboard_time": 1726102761,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128887,
+        "num": 128887,
+        "word": "网友偶遇黄仁勋在美国海底捞甩面",
+        "onboard_time": 1726103480,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#把中华优秀传统文化一代一代传下去#"
+    }
+  }
+}
