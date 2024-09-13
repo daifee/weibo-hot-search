@@ -1,6 +1,6 @@
 {
   "startTime": 1726244748063,
-  "endTime": 1726248978085,
+  "endTime": 1726252123834,
   "band_list": [
     {
       "raw_hot": 1291321,
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148057,
+      "num": 66492,
+      "word": "第一次见这么多明星宣传的电影",
+      "onboard_time": 1726250172,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 137109,
       "num": 137109,
       "word": "陈楚生 证婚人",
@@ -329,6 +337,14 @@
       "onboard_time": 1726234882,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 97517,
+      "num": 128094,
+      "word": "极危动物追着濒危动物咬",
+      "onboard_time": 1726248014,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94961,
@@ -451,10 +467,34 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 37743,
-      "num": 128094,
-      "word": "极危动物追着濒危动物咬",
-      "onboard_time": 1726248014,
+      "raw_hot": 34345,
+      "num": 34345,
+      "word": "30斤水桶砸下蚊帐救了一家三口",
+      "onboard_time": 1726249873,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27707,
+      "num": 27707,
+      "word": "周杰伦演唱会被吐槽音响声音小",
+      "onboard_time": 1726251433,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 25997,
+      "num": 25997,
+      "word": "徐子未唱阿楚姑娘",
+      "onboard_time": 1726250894,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 14800,
+      "num": 67764,
+      "word": "母亲去世男孩放学回家哭着喊妈妈",
+      "onboard_time": 1726251732,
       "rank": 9,
       "category": "社会新闻"
     },
