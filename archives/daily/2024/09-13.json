@@ -1,6 +1,6 @@
 {
   "startTime": 1726158397527,
-  "endTime": 1726216842141,
+  "endTime": 1726219354045,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -139,8 +139,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1324759,
-      "num": 1324759,
+      "raw_hot": 1468276,
+      "num": 1468276,
       "word": "对普华永道开出顶格罚单",
       "onboard_time": 1726215864,
       "rank": 16,
@@ -187,10 +187,26 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1026593,
+      "num": 1026593,
+      "word": "普华永道",
+      "onboard_time": 1726216164,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1025440,
       "num": 1025440,
       "word": "男子用大方遮掩心虚被司机一眼识破",
       "onboard_time": 1726159157,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1011314,
+      "num": 1445741,
+      "word": "如何自愿选择弹性提前退休",
+      "onboard_time": 1726215385,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -211,7 +227,7 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 963179,
+      "raw_hot": 1002407,
       "num": 963179,
       "word": "普华永道被罚没3.25亿元",
       "onboard_time": 1726216405,
@@ -265,14 +281,6 @@
       "onboard_time": 1726188201,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 784386,
-      "num": 784386,
-      "word": "普华永道",
-      "onboard_time": 1726216164,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 759980,
@@ -331,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 650664,
+      "num": 650664,
+      "word": "普华永道暂停经营业务6个月",
+      "onboard_time": 1726217543,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 645975,
       "num": 620379,
       "word": "爸爸光顾着删消息忘删你了",
@@ -369,6 +385,14 @@
       "onboard_time": 1726191140,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 560218,
+      "num": 560218,
+      "word": "腾讯回应办公室亲昵事件",
+      "onboard_time": 1726216944,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 554439,
@@ -417,6 +441,14 @@
       "onboard_time": 1726191858,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 509507,
+      "num": 789519,
+      "word": "鹿晗一句话王俊凯记了这么多年",
+      "onboard_time": 1726216524,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 508932,
@@ -507,14 +539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 454780,
-      "num": 1445741,
-      "word": "如何自愿选择弹性提前退休",
-      "onboard_time": 1726215385,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 454269,
       "num": 410188,
       "word": "殷世航说韩安冉把孩子带好比什么都强",
@@ -539,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 450780,
+      "num": 777434,
+      "word": "张翰参加陆虎婚礼",
+      "onboard_time": 1726216885,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 448132,
       "num": 448132,
       "word": "刘学义 运气",
@@ -561,6 +593,14 @@
       "onboard_time": 1726188201,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 426629,
+      "num": 772002,
+      "word": "于正长文回应",
+      "onboard_time": 1726213764,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 418565,
@@ -739,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298325,
+      "num": 298325,
+      "word": "撤销普华永道广州分所",
+      "onboard_time": 1726217844,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298198,
       "num": 298198,
       "word": "披荆斩棘的哥哥",
@@ -835,14 +883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 249765,
-      "num": 306230,
-      "word": "于正长文回应",
-      "onboard_time": 1726213764,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 249258,
       "num": 249258,
       "word": "JENNIE美版芭莎十月刊封面",
@@ -873,14 +913,6 @@
       "onboard_time": 1726185077,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 242137,
-      "num": 242137,
-      "word": "鹿晗一句话王俊凯记了这么多年",
-      "onboard_time": 1726216524,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 239876,
@@ -1035,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212329,
+      "num": 359158,
+      "word": "荣梓杉 导游",
+      "onboard_time": 1726217361,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210987,
       "num": 210987,
       "word": "虞书欣 大唐富贵花",
@@ -1065,6 +1105,14 @@
       "onboard_time": 1726170732,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208097,
+      "num": 354111,
+      "word": "10部影片定档国庆档",
+      "onboard_time": 1726217604,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 206726,
@@ -1339,6 +1387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170335,
+      "num": 170335,
+      "word": "延迟退休政策极简版",
+      "onboard_time": 1726218143,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 170105,
       "num": 170105,
       "word": "济南43岁女子冻龄般颜值",
@@ -1371,12 +1427,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 162225,
+      "num": 162225,
+      "word": "腾讯启动对办公室亲昵事件调查",
+      "onboard_time": 1726218382,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 161040,
       "num": 249565,
       "word": "肖战直播生图",
       "onboard_time": 1726154000,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 160627,
+      "num": 160627,
+      "word": "延迟退休不是一步到位是小步调整",
+      "onboard_time": 1726218382,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159475,
@@ -1531,6 +1603,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141019,
+      "num": 141019,
+      "word": "研究生做实验是有些玄学在身上的",
+      "onboard_time": 1726217482,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 138547,
+      "num": 138547,
+      "word": "普华永道回应处罚",
+      "onboard_time": 1726219282,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136767,
       "num": 136767,
       "word": "文泰一被警方直接移交检察机关",
@@ -1577,6 +1665,14 @@
       "onboard_time": 1726161134,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130597,
+      "num": 130597,
+      "word": "莎头领衔国乒冲击WTT四强",
+      "onboard_time": 1726218743,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 129735,
@@ -2099,6 +2195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53653,
+      "num": 766265,
+      "word": "香港月饼直播间爆火网店销量个位数",
+      "onboard_time": 1726219102,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52135,
       "num": 376313,
       "word": "中年男人卖两套房给主播刷礼物",
@@ -2129,6 +2233,14 @@
       "onboard_time": 1726155319,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 48784,
+      "num": 852967,
+      "word": "凭杭温高铁票可以免费游浙江了",
+      "onboard_time": 1726215263,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 48729,
@@ -2169,14 +2281,6 @@
       "onboard_time": 1726148659,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 45688,
-      "num": 852967,
-      "word": "凭杭温高铁票可以免费游浙江了",
-      "onboard_time": 1726215263,
-      "rank": 34,
-      "category": "旅游"
     },
     {
       "raw_hot": 45349,
@@ -2225,6 +2329,14 @@
       "onboard_time": 1726207045,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42904,
+      "num": 161611,
+      "word": "归龙潮长命锁又疯又强",
+      "onboard_time": 1726218803,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 41681,
@@ -2379,12 +2491,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 26594,
+      "num": 335273,
+      "word": "林依轮背符龙飞做蹲起",
+      "onboard_time": 1726218022,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 24430,
       "num": 409985,
       "word": "哥哥超爱铮亮的壶",
       "onboard_time": 1726209262,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21686,
+      "num": 737062,
+      "word": "陶喆一口冰淇淋八百个表情",
+      "onboard_time": 1726217844,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 20556,
@@ -2498,6 +2626,9 @@
     },
     {
       "word": "#奋力谱写中国式现代化甘肃篇章#"
+    },
+    {
+      "word": "#齐心协力唱好新时代黄河大合唱#"
     }
   ]
 }
