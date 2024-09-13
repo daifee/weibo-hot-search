@@ -1,6 +1,6 @@
 {
   "startTime": 1726158397527,
-  "endTime": 1726232149827,
+  "endTime": 1726233955236,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -227,6 +227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1058016,
+      "num": 659980,
+      "word": "陆虎陈曌旭婚礼好多熟人",
+      "onboard_time": 1726232363,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1026593,
       "num": 1026593,
       "word": "普华永道",
@@ -273,6 +281,14 @@
       "onboard_time": 1726216405,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 980344,
+      "num": 980344,
+      "word": "王楚钦vs赵大成",
+      "onboard_time": 1726229180,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 977971,
@@ -395,14 +411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 692617,
-      "num": 692617,
-      "word": "王楚钦vs赵大成",
-      "onboard_time": 1726229180,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 683798,
       "num": 679975,
       "word": "金饰价格冲到761元每克",
@@ -417,6 +425,14 @@
       "onboard_time": 1726214125,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 657622,
+      "num": 657622,
+      "word": "杨幂压轴",
+      "onboard_time": 1726229004,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 650664,
@@ -441,14 +457,6 @@
       "onboard_time": 1726184656,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 629513,
-      "num": 629513,
-      "word": "杨幂压轴",
-      "onboard_time": 1726229004,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 607192,
@@ -707,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 426141,
+      "num": 426141,
+      "word": "孙颖莎3比1朱芊曦",
+      "onboard_time": 1726231821,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 418565,
       "num": 418565,
       "word": "凯言be了",
@@ -729,6 +745,14 @@
       "onboard_time": 1726187539,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 405086,
+      "num": 405086,
+      "word": "野孩子票房",
+      "onboard_time": 1726232721,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 401573,
@@ -875,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 340360,
+      "num": 340360,
+      "word": "iPhone16ProMax秒没",
+      "onboard_time": 1726232604,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 340244,
       "num": 340244,
       "word": "男子收60万儿子死亡赔偿款全转给弟弟",
@@ -929,14 +961,6 @@
       "onboard_time": 1726194680,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 317509,
-      "num": 317509,
-      "word": "孙颖莎3比1朱芊曦",
-      "onboard_time": 1726231821,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 314755,
@@ -1049,6 +1073,14 @@
       "onboard_time": 1726188681,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260394,
+      "num": 260394,
+      "word": "等待付款",
+      "onboard_time": 1726231642,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 259546,
@@ -1211,6 +1243,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 229481,
+      "num": 229481,
+      "word": "把1岁儿子锁家里单亲妈妈发声",
+      "onboard_time": 1726230862,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228493,
       "num": 228493,
       "word": "授予15人国家勋章国家荣誉称号",
@@ -1267,6 +1307,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 220241,
+      "num": 220241,
+      "word": "孙颖莎和韩国队打了个循环赛",
+      "onboard_time": 1726233440,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219697,
       "num": 219697,
       "word": "渤海潍坊港实弹射击",
@@ -1289,6 +1337,14 @@
       "onboard_time": 1726220181,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217538,
+      "num": 217538,
+      "word": "孙颖莎半决赛对阵张本美和",
+      "onboard_time": 1726232901,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 217209,
@@ -1379,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203983,
+      "num": 203983,
+      "word": "救回中国小伙的外国海王找到了",
+      "onboard_time": 1726228341,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203597,
       "num": 203597,
       "word": "王楚钦好猛",
@@ -1441,6 +1505,14 @@
       "onboard_time": 1726208243,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198107,
+      "num": 198107,
+      "word": "鞠婧祎侧边丸子头",
+      "onboard_time": 1726232540,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 197923,
@@ -1513,14 +1585,6 @@
       "onboard_time": 1726212206,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 191500,
-      "num": 191500,
-      "word": "把1岁儿子锁家里单亲妈妈发声",
-      "onboard_time": 1726230862,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190628,
@@ -1643,14 +1707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183801,
-      "num": 183801,
-      "word": "救回中国小伙的外国海王找到了",
-      "onboard_time": 1726228341,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183702,
       "num": 183702,
       "word": "林俊杰重庆抢票",
@@ -1665,6 +1721,14 @@
       "onboard_time": 1726189218,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181458,
+      "num": 181458,
+      "word": "00后为何愿意为医院月饼买单",
+      "onboard_time": 1726233683,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179182,
@@ -1779,6 +1843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166728,
+      "num": 166728,
+      "word": "严浩翔冷脸开车",
+      "onboard_time": 1726233862,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166603,
       "num": 166603,
       "word": "老师保护了学生却没保护好自己",
@@ -1801,6 +1873,14 @@
       "onboard_time": 1726195400,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 162399,
+      "num": 162399,
+      "word": "孙颖莎进四强",
+      "onboard_time": 1726232182,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 162225,
@@ -1857,14 +1937,6 @@
       "onboard_time": 1726197680,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 158242,
-      "num": 158242,
-      "word": "等待付款",
-      "onboard_time": 1726231642,
-      "rank": 43,
-      "category": "数码"
     },
     {
       "raw_hot": 157869,
@@ -2531,6 +2603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74767,
+      "num": 479641,
+      "word": "买iPhone16价保双11不当等等党",
+      "onboard_time": 1726229720,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 73983,
       "num": 89715,
       "word": "徐冬冬尹子维是怎么找到这个赛道的",
@@ -2553,6 +2633,14 @@
       "onboard_time": 1726214483,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 72927,
+      "num": 475213,
+      "word": "张淼怡生日直播",
+      "onboard_time": 1726233503,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 71566,
@@ -2819,14 +2907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43359,
-      "num": 469383,
-      "word": "买iPhone16价保双11不当等等党",
-      "onboard_time": 1726229720,
-      "rank": 17,
-      "category": "数码"
-    },
-    {
       "raw_hot": 43226,
       "num": 43226,
       "word": "哈啰回应乘客打车后被免密扣款21笔",
@@ -3027,6 +3107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32692,
+      "num": 678818,
+      "word": "盲盒岗位是创新还是噱头",
+      "onboard_time": 1726232540,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32153,
       "num": 737062,
       "word": "陶喆一口冰淇淋八百个表情",
@@ -3040,6 +3128,14 @@
       "word": "抢红包成电信诈骗新手法",
       "onboard_time": 1726229241,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30986,
+      "num": 458183,
+      "word": "丽江机场为工作人员辱骂旅客致歉",
+      "onboard_time": 1726232842,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -3065,6 +3161,14 @@
       "onboard_time": 1726162874,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 27663,
+      "num": 453813,
+      "word": "哪些职业不适合纹身",
+      "onboard_time": 1726232842,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27556,
@@ -3097,6 +3201,14 @@
       "onboard_time": 1726209262,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23962,
+      "num": 523949,
+      "word": "航司回应国泰航空乘客称飞机餐没熟",
+      "onboard_time": 1726232662,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23669,
@@ -3227,6 +3339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 7777,
+      "num": 676997,
+      "word": "迎风的青春 群像张力",
+      "onboard_time": 1726233202,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 7476,
       "num": 219744,
       "word": "文科考公会更有利吗",
@@ -3236,7 +3356,7 @@
     },
     {
       "raw_hot": 7082,
-      "num": 865366,
+      "num": 1534169,
       "word": "文化中国行赏青铜国宝之美",
       "onboard_time": 1726145660,
       "rank": 2,
