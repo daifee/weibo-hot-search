@@ -1,6 +1,6 @@
 {
   "startTime": 1726158397527,
-  "endTime": 1726195687619,
+  "endTime": 1726196222496,
   "band_list": [
     {
       "raw_hot": 1526950,
@@ -33,6 +33,14 @@
       "onboard_time": 1726186939,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1115575,
+      "num": 1115575,
+      "word": "金价又发疯",
+      "onboard_time": 1726193659,
+      "rank": 1,
+      "category": "财经"
     },
     {
       "raw_hot": 1025440,
@@ -75,14 +83,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 816448,
-      "num": 816448,
-      "word": "金价又发疯",
-      "onboard_time": 1726193659,
-      "rank": 1,
-      "category": "财经"
-    },
-    {
       "raw_hot": 798242,
       "num": 798242,
       "word": "付费让大码女孩吃大量食物",
@@ -115,20 +115,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 569655,
+      "num": 569655,
+      "word": "女教授为100元被骗走近100万",
+      "onboard_time": 1726191140,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 554439,
       "num": 554439,
       "word": "花少再多剪一秒就露馅了",
       "onboard_time": 1726184179,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 543857,
-      "num": 543857,
-      "word": "女教授为100元被骗走近100万",
-      "onboard_time": 1726191140,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 537863,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 510164,
+      "num": 510164,
+      "word": "张峻豪 暂停活动",
+      "onboard_time": 1726191858,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 503972,
       "num": 503972,
       "word": "台风贝碧嘉",
@@ -155,16 +163,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 490567,
-      "num": 490567,
-      "word": "张峻豪 暂停活动",
-      "onboard_time": 1726191858,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 472568,
-      "num": 472568,
+      "raw_hot": 475769,
+      "num": 475769,
       "word": "Newjeans若解约需支付5000亿韩元",
       "onboard_time": 1726193719,
       "rank": 10,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445906,
+      "num": 239550,
+      "word": "91年小伙想要女儿却连生6个儿子",
+      "onboard_time": 1726196178,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 434456,
       "num": 434456,
       "word": "日方公布对NHK中国籍播音员处理结果",
@@ -217,6 +225,14 @@
       "onboard_time": 1726134140,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 413219,
+      "num": 413219,
+      "word": "新型战机已在辽宁舰放飞",
+      "onboard_time": 1726192999,
+      "rank": 13,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 407406,
@@ -267,14 +283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 318190,
-      "num": 318190,
-      "word": "新型战机已在辽宁舰放飞",
-      "onboard_time": 1726192999,
-      "rank": 13,
-      "category": "国内时政,军事"
-    },
-    {
       "raw_hot": 300484,
       "num": 300484,
       "word": "杨幂生日发博",
@@ -297,6 +305,14 @@
       "onboard_time": 1726157777,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 287910,
+      "num": 302649,
+      "word": "山姆冰鲜带鱼捕捞日期撞上摩羯过境日",
+      "onboard_time": 1726192279,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268489,
@@ -337,6 +353,14 @@
       "onboard_time": 1726153702,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 247467,
+      "num": 247467,
+      "word": "曹璐音银上班路透",
+      "onboard_time": 1726195580,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 242354,
@@ -403,12 +427,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205614,
-      "num": 205614,
-      "word": "曹璐音银上班路透",
-      "onboard_time": 1726195580,
-      "rank": 28,
-      "category": "音乐"
+      "raw_hot": 206726,
+      "num": 206726,
+      "word": "金价",
+      "onboard_time": 1726195760,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 203597,
@@ -417,6 +441,14 @@
       "onboard_time": 1726144100,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202452,
+      "num": 202452,
+      "word": "白鹿粉色繁花抹胸裙",
+      "onboard_time": 1726196059,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 195552,
@@ -433,14 +465,6 @@
       "onboard_time": 1726143139,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 187431,
-      "num": 302649,
-      "word": "山姆冰鲜带鱼捕捞日期撞上摩羯过境日",
-      "onboard_time": 1726192279,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184420,
@@ -467,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176700,
+      "num": 176700,
+      "word": "台风贝碧嘉中秋期间或将影响华东地区",
+      "onboard_time": 1726170732,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176466,
       "num": 176466,
       "word": "小狗轻轻地咬了咬主人的手",
@@ -481,6 +513,14 @@
       "onboard_time": 1726158377,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163498,
+      "num": 163498,
+      "word": "iPhone16今晚8点预售",
+      "onboard_time": 1726195400,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 161040,
@@ -499,12 +539,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 151703,
-      "num": 151703,
+      "raw_hot": 155102,
+      "num": 155102,
       "word": "亚运村不少房东不想再降价撤牌不卖了",
       "onboard_time": 1726188800,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153451,
+      "num": 153451,
+      "word": "金饰价格冲到761元每克",
+      "onboard_time": 1726195819,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 150278,
@@ -523,12 +571,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 147855,
-      "num": 147855,
-      "word": "台风贝碧嘉中秋期间或将影响华东地区",
-      "onboard_time": 1726170732,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 148328,
+      "num": 148328,
+      "word": "金饰价格一夜涨15元每克",
+      "onboard_time": 1726195879,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 147611,
@@ -555,12 +603,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 140229,
-      "num": 140229,
-      "word": "iPhone16今晚8点预售",
-      "onboard_time": 1726195400,
-      "rank": 41,
-      "category": "数码"
+      "raw_hot": 141027,
+      "num": 152009,
+      "word": "官方通报398元烫发套餐结账成2477元",
+      "onboard_time": 1726193599,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134860,
+      "num": 134860,
+      "word": "NewJeans违约金",
+      "onboard_time": 1726195519,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 134311,
@@ -569,14 +625,6 @@
       "onboard_time": 1726149502,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133136,
-      "num": 133136,
-      "word": "NewJeans违约金",
-      "onboard_time": 1726195519,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 132057,
@@ -595,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127789,
+      "num": 127789,
+      "word": "山姆售卖带鱼台风天捕捞引质疑",
+      "onboard_time": 1726194680,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127584,
       "num": 480083,
       "word": "台风贝碧嘉或将成为最强中秋台风",
@@ -608,14 +664,6 @@
       "word": "瑞士选美小姐遭丈夫残忍肢解",
       "onboard_time": 1726144700,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 119242,
-      "num": 119242,
-      "word": "山姆售卖带鱼台风天捕捞引质疑",
-      "onboard_time": 1726194680,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -727,14 +775,6 @@
       "num": 99015,
       "word": "疑郑州一名校教职工吃鲜肉学生吃冻肉",
       "onboard_time": 1726140619,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97427,
-      "num": 152009,
-      "word": "官方通报398元烫发套餐结账成2477元",
-      "onboard_time": 1726193599,
       "rank": 36,
       "category": "社会新闻"
     },
