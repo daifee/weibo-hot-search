@@ -1,6 +1,6 @@
 {
   "startTime": 1726158397527,
-  "endTime": 1726231173895,
+  "endTime": 1726232149827,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -163,8 +163,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1257919,
-      "num": 1257919,
+      "raw_hot": 1383886,
+      "num": 1383886,
       "word": "陈楚生 证婚人",
       "onboard_time": 1726229241,
       "rank": 4,
@@ -177,6 +177,14 @@
       "onboard_time": 1726196840,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1221279,
+      "num": 1221279,
+      "word": "孙颖莎vs朱芊曦",
+      "onboard_time": 1726228401,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 1218791,
@@ -275,14 +283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 949488,
-      "num": 949488,
-      "word": "孙颖莎vs朱芊曦",
-      "onboard_time": 1726228401,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 921548,
       "num": 744285,
       "word": "陆虎陈曌旭丽江举办婚礼",
@@ -323,12 +323,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 816160,
+      "num": 816160,
+      "word": "女子在超市捞鱼被刺致八级伤残",
+      "onboard_time": 1726226961,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 798242,
       "num": 798242,
       "word": "付费让大码女孩吃大量食物",
       "onboard_time": 1726188201,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 769165,
+      "num": 769165,
+      "word": "高承睿3比2莫雷加德",
+      "onboard_time": 1726229841,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 759980,
@@ -379,12 +395,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 686888,
-      "num": 686888,
-      "word": "女子在超市捞鱼被刺致八级伤残",
-      "onboard_time": 1726226961,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 692617,
+      "num": 692617,
+      "word": "王楚钦vs赵大成",
+      "onboard_time": 1726229180,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 683798,
@@ -425,6 +441,14 @@
       "onboard_time": 1726184656,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 629513,
+      "num": 629513,
+      "word": "杨幂压轴",
+      "onboard_time": 1726229004,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 607192,
@@ -507,22 +531,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 515780,
-      "num": 515780,
-      "word": "杨幂压轴",
-      "onboard_time": 1726229004,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 512624,
-      "num": 512624,
-      "word": "高承睿3比2莫雷加德",
-      "onboard_time": 1726229841,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 510164,
       "num": 510164,
       "word": "张峻豪 暂停活动",
@@ -593,14 +601,6 @@
       "onboard_time": 1726153940,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 469858,
-      "num": 469858,
-      "word": "王楚钦vs赵大成",
-      "onboard_time": 1726229180,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 466608,
@@ -835,6 +835,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 349582,
+      "num": 349582,
+      "word": "iPhone16",
+      "onboard_time": 1726231282,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 349365,
       "num": 349365,
       "word": "陈幸同vs张本美和",
@@ -921,6 +929,14 @@
       "onboard_time": 1726194680,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317509,
+      "num": 317509,
+      "word": "孙颖莎3比1朱芊曦",
+      "onboard_time": 1726231821,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 314755,
@@ -1073,6 +1089,14 @@
       "onboard_time": 1726122141,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251796,
+      "num": 393530,
+      "word": "野孩子",
+      "onboard_time": 1726231221,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 249258,
@@ -1451,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195031,
+      "num": 195031,
+      "word": "iPhone 16 Pro",
+      "onboard_time": 1726231763,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 194752,
       "num": 703596,
       "word": "沈琳做月嫂看到父母瞬间泪崩",
@@ -1481,6 +1513,14 @@
       "onboard_time": 1726212206,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191500,
+      "num": 191500,
+      "word": "把1岁儿子锁家里单亲妈妈发声",
+      "onboard_time": 1726230862,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190628,
@@ -1603,6 +1643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183801,
+      "num": 183801,
+      "word": "救回中国小伙的外国海王找到了",
+      "onboard_time": 1726228341,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183702,
       "num": 183702,
       "word": "林俊杰重庆抢票",
@@ -1681,14 +1729,6 @@
       "onboard_time": 1726188440,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 175421,
-      "num": 175421,
-      "word": "救回中国小伙的外国海王找到了",
-      "onboard_time": 1726228341,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174685,
@@ -1819,6 +1859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 158242,
+      "num": 158242,
+      "word": "等待付款",
+      "onboard_time": 1726231642,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 157869,
       "num": 157869,
       "word": "野孩子上映",
@@ -1875,6 +1923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152386,
+      "num": 152386,
+      "word": "佟丽娅 今天是粉色大扑棱蛾子",
+      "onboard_time": 1726231582,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152044,
       "num": 1451898,
       "word": "打车去杭州萧山机场为啥多收20元",
@@ -1915,6 +1971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 148687,
+      "num": 148687,
+      "word": "张小斐造型",
+      "onboard_time": 1726231460,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 148328,
       "num": 148328,
       "word": "金饰价格一夜涨15元每克",
@@ -1929,6 +1993,22 @@
       "onboard_time": 1726211548,
       "rank": 39,
       "category": "网红"
+    },
+    {
+      "raw_hot": 144941,
+      "num": 144941,
+      "word": "天官赐福广播剧第二季完结",
+      "onboard_time": 1726230322,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 144194,
+      "num": 144194,
+      "word": "绝区零",
+      "onboard_time": 1726231403,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 143721,
@@ -1977,22 +2057,6 @@
       "onboard_time": 1726217482,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 138057,
-      "num": 138057,
-      "word": "天官赐福广播剧第二季完结",
-      "onboard_time": 1726230322,
-      "rank": 44,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 137974,
-      "num": 137974,
-      "word": "把1岁儿子锁家里单亲妈妈发声",
-      "onboard_time": 1726230862,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136767,
@@ -2379,6 +2443,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 82909,
+      "num": 575790,
+      "word": "天猫官旗iPhone16每天低至8块2",
+      "onboard_time": 1726228821,
+      "rank": 14,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 82666,
       "num": 88736,
       "word": "李晓悦那隽这对",
@@ -2553,14 +2625,6 @@
       "onboard_time": 1726196659,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 60209,
-      "num": 514156,
-      "word": "天猫官旗iPhone16每天低至8块2",
-      "onboard_time": 1726228821,
-      "rank": 14,
-      "category": "互联网,数码"
     },
     {
       "raw_hot": 59274,
@@ -2851,6 +2915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 39443,
+      "num": 1536567,
+      "word": "中秋假期出行天气指南",
+      "onboard_time": 1726215085,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39353,
       "num": 399651,
       "word": "大勺哥说要对得起退伍军人身份",
@@ -3051,12 +3123,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 20149,
-      "num": 1536567,
-      "word": "中秋假期出行天气指南",
-      "onboard_time": 1726215085,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 20133,
+      "num": 694254,
+      "word": "为什么说受过教育的女性能改变三代人",
+      "onboard_time": 1726230803,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 20078,
@@ -3155,14 +3227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 8738,
-      "num": 590204,
-      "word": "为什么说受过教育的女性能改变三代人",
-      "onboard_time": 1726230803,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 7476,
       "num": 219744,
       "word": "文科考公会更有利吗",
@@ -3175,6 +3239,14 @@
       "num": 865366,
       "word": "文化中国行赏青铜国宝之美",
       "onboard_time": 1726145660,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2340,
+      "num": 1748242,
+      "word": "淬火强军新征程",
+      "onboard_time": 1726110502,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -3205,6 +3277,9 @@
     },
     {
       "word": "#齐心协力唱好新时代黄河大合唱#"
+    },
+    {
+      "word": "#习近平签署国家主席令#"
     }
   ]
 }

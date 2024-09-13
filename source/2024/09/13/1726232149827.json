@@ -1,0 +1,410 @@
+{
+  "runTime": 1726232149827,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2758893,
+        "num": 2758893,
+        "word": "逐步延至男63女55或58周岁退休",
+        "onboard_time": 1726209742,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2167773,
+        "num": 2167773,
+        "word": "iPhone16 抢购",
+        "onboard_time": 1726229301,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 2340,
+        "num": 1748242,
+        "word": "淬火强军新征程",
+        "onboard_time": 1726110502,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1553907,
+        "num": 1553907,
+        "word": "延迟退休年龄对照表",
+        "onboard_time": 1726209923,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1383886,
+        "num": 1383886,
+        "word": "陈楚生 证婚人",
+        "onboard_time": 1726229241,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1221279,
+        "num": 1221279,
+        "word": "孙颖莎vs朱芊曦",
+        "onboard_time": 1726228401,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 968328,
+        "num": 968328,
+        "word": "李多海在上海定居",
+        "onboard_time": 1726228821,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 816160,
+        "num": 816160,
+        "word": "女子在超市捞鱼被刺致八级伤残",
+        "onboard_time": 1726226961,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769165,
+        "num": 769165,
+        "word": "高承睿3比2莫雷加德",
+        "onboard_time": 1726229841,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 700049,
+        "num": 700049,
+        "word": "渐进式延迟法定退休年龄明年起施行",
+        "onboard_time": 1726209742,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20133,
+        "num": 694254,
+        "word": "为什么说受过教育的女性能改变三代人",
+        "onboard_time": 1726230803,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1549244,
+        "num": 693773,
+        "word": "吴谨言 怀孕",
+        "onboard_time": 1726206446,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 692617,
+        "num": 692617,
+        "word": "王楚钦vs赵大成",
+        "onboard_time": 1726229180,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 629513,
+        "num": 629513,
+        "word": "杨幂压轴",
+        "onboard_time": 1726229004,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82909,
+        "num": 575790,
+        "word": "天猫官旗iPhone16每天低至8块2",
+        "onboard_time": 1726228821,
+        "rank": 14,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 525843,
+        "num": 525843,
+        "word": "陆虎婚礼上的白鹿",
+        "onboard_time": 1726221382,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42467,
+        "num": 423668,
+        "word": "买iPhone16价保双11不当等等党",
+        "onboard_time": 1726229720,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 395612,
+        "num": 395612,
+        "word": "苹果官网崩了",
+        "onboard_time": 1726229542,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 412230,
+        "num": 394747,
+        "word": "杨幂这套好美",
+        "onboard_time": 1726227860,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 251796,
+        "num": 393530,
+        "word": "野孩子",
+        "onboard_time": 1726231221,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 2078448,
+        "num": 392637,
+        "word": "陆虎发了婚礼照",
+        "onboard_time": 1726223361,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 996442,
+        "num": 391663,
+        "word": "吴谨言洪尧结婚",
+        "onboard_time": 1726199965,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391267,
+        "num": 391267,
+        "word": "延迟退休细则解读",
+        "onboard_time": 1726213226,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 349582,
+        "num": 349582,
+        "word": "iPhone16",
+        "onboard_time": 1726231282,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 330417,
+        "num": 330417,
+        "word": "男子收60万儿子死亡赔偿款全转给弟弟",
+        "onboard_time": 1726227020,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374056,
+        "num": 329334,
+        "word": "陆虎婚礼",
+        "onboard_time": 1726212985,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317509,
+        "num": 317509,
+        "word": "孙颖莎3比1朱芊曦",
+        "onboard_time": 1726231821,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248649,
+        "num": 295511,
+        "word": "鹿晗一句话王俊凯记了这么多年",
+        "onboard_time": 1726216524,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 217145,
+        "num": 291657,
+        "word": "一声老公魏大勋后槽牙都咬紧了",
+        "onboard_time": 1726224981,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211604,
+        "num": 291263,
+        "word": "陈楚生西装",
+        "onboard_time": 1726214005,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290955,
+        "num": 290955,
+        "word": "如何自愿选择弹性提前退休",
+        "onboard_time": 1726215385,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285246,
+        "num": 285246,
+        "word": "对普华永道开出顶格罚单",
+        "onboard_time": 1726215864,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39443,
+        "num": 280826,
+        "word": "中秋假期出行天气指南",
+        "onboard_time": 1726215085,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279305,
+        "num": 279305,
+        "word": "陈幸同1比3张本美和",
+        "onboard_time": 1726226781,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250877,
+        "num": 250877,
+        "word": "普华永道被罚没3.25亿元",
+        "onboard_time": 1726216405,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240896,
+        "num": 240896,
+        "word": "法定退休年龄计算器",
+        "onboard_time": 1726214367,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236572,
+        "num": 236572,
+        "word": "睡前5个习惯容易胖肚子",
+        "onboard_time": 1726220121,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 233116,
+        "num": 233116,
+        "word": "普华永道",
+        "onboard_time": 1726216164,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214742,
+        "num": 214742,
+        "word": "普华永道暂停经营业务6个月",
+        "onboard_time": 1726217543,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195031,
+        "num": 195031,
+        "word": "iPhone 16 Pro",
+        "onboard_time": 1726231763,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 191500,
+        "num": 191500,
+        "word": "把1岁儿子锁家里单亲妈妈发声",
+        "onboard_time": 1726230862,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183801,
+        "num": 183801,
+        "word": "救回中国小伙的外国海王找到了",
+        "onboard_time": 1726228341,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165246,
+        "num": 165246,
+        "word": "WTT",
+        "onboard_time": 1726211966,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158242,
+        "num": 158242,
+        "word": "等待付款",
+        "onboard_time": 1726231642,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 152386,
+        "num": 152386,
+        "word": "佟丽娅 今天是粉色大扑棱蛾子",
+        "onboard_time": 1726231582,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149943,
+        "num": 149943,
+        "word": "张若昀 贵气",
+        "onboard_time": 1726228761,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148687,
+        "num": 148687,
+        "word": "张小斐造型",
+        "onboard_time": 1726231460,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144941,
+        "num": 144941,
+        "word": "天官赐福广播剧第二季完结",
+        "onboard_time": 1726230322,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 144329,
+        "num": 144329,
+        "word": "林俊杰重庆抢票",
+        "onboard_time": 1726226961,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144194,
+        "num": 144194,
+        "word": "绝区零",
+        "onboard_time": 1726231403,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平签署国家主席令#"
+    }
+  }
+}
