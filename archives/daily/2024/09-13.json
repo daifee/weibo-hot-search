@@ -1,6 +1,6 @@
 {
   "startTime": 1726158397527,
-  "endTime": 1726209805846,
+  "endTime": 1726212102052,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -9,6 +9,22 @@
       "onboard_time": 1726199965,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20788176,
+      "num": 21869159,
+      "word": "逐步延至男63女55或58周岁退休",
+      "onboard_time": 1726209742,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 15886670,
+      "num": 17135391,
+      "word": "延迟退休年龄对照表",
+      "onboard_time": 1726209923,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 9603114,
@@ -20,7 +36,7 @@
     },
     {
       "raw_hot": 7836694,
-      "num": 342732,
+      "num": 413012,
       "word": "吴谨言 怀孕",
       "onboard_time": 1726206446,
       "rank": 10,
@@ -33,6 +49,14 @@
       "onboard_time": 1726200449,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4375212,
+      "num": 4375212,
+      "word": "渐进式延迟法定退休年龄明年起施行",
+      "onboard_time": 1726209742,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 3874433,
@@ -107,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1155558,
+      "num": 1155558,
+      "word": "自愿选择弹性提前退休",
+      "onboard_time": 1726211127,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1147858,
       "num": 1183657,
       "word": "卤味三巨头为什么失宠",
@@ -123,11 +155,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1054361,
-      "num": 1054361,
-      "word": "逐步延至男63女55或58周岁退休",
-      "onboard_time": 1726209742,
-      "rank": 1,
+      "raw_hot": 1114721,
+      "num": 297775,
+      "word": "实施渐进式延迟法定退休年龄表决通过",
+      "onboard_time": 1726209864,
+      "rank": 21,
       "category": "国内时政"
     },
     {
@@ -243,14 +275,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 674737,
-      "num": 674737,
-      "word": "渐进式延迟法定退休年龄明年起施行",
-      "onboard_time": 1726209742,
-      "rank": 3,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 637582,
       "num": 637582,
       "word": "男生体检举煎饼抽血一拔针秒开饭",
@@ -339,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 508095,
+      "num": 508095,
+      "word": "梁靖崑vs邱党",
+      "onboard_time": 1726210525,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 503972,
       "num": 503972,
       "word": "台风贝碧嘉",
@@ -396,7 +428,7 @@
     },
     {
       "raw_hot": 453798,
-      "num": 297082,
+      "num": 402362,
       "word": "经纪人 卢昱晓你得算我工伤",
       "onboard_time": 1726208843,
       "rank": 38,
@@ -523,6 +555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 327094,
+      "num": 327094,
+      "word": "白鹿出发陆虎婚礼",
+      "onboard_time": 1726209742,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 323611,
       "num": 323611,
       "word": "天津上空现巨大黑圈系公园表演产生",
@@ -593,6 +633,14 @@
       "onboard_time": 1726157777,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 279520,
+      "num": 279520,
+      "word": "749局",
+      "onboard_time": 1726210105,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 274861,
@@ -724,7 +772,7 @@
     },
     {
       "raw_hot": 235485,
-      "num": 235485,
+      "num": 316166,
       "word": "迪丽热巴豹纹look",
       "onboard_time": 1726205424,
       "rank": 34,
@@ -883,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198181,
+      "num": 198181,
+      "word": "虞书欣 大唐富贵花",
+      "onboard_time": 1726210766,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197923,
       "num": 197923,
       "word": "非自然死亡原班人马重聚",
@@ -913,6 +969,14 @@
       "onboard_time": 1726203994,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190628,
+      "num": 190628,
+      "word": "A股",
+      "onboard_time": 1726209806,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 190058,
@@ -1009,6 +1073,14 @@
       "onboard_time": 1726194799,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176651,
+      "num": 176651,
+      "word": "韩亿 傍富婆都傍不明白",
+      "onboard_time": 1726210164,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 176466,
@@ -1123,6 +1195,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 153937,
+      "num": 153937,
+      "word": "对这版张桂梅有点喜欢了",
+      "onboard_time": 1726211426,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 150535,
+      "num": 150535,
+      "word": "秋招",
+      "onboard_time": 1726210345,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 150278,
       "num": 150278,
       "word": "毕业打工租房现状",
@@ -1153,6 +1241,14 @@
       "onboard_time": 1726195879,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 147281,
+      "num": 147281,
+      "word": "韩亿 偷洗面奶",
+      "onboard_time": 1726211548,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 142787,
@@ -1187,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136767,
+      "num": 136767,
+      "word": "文泰一被警方直接移交检察机关",
+      "onboard_time": 1726209563,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136063,
       "num": 136063,
       "word": "LNG 租借",
@@ -1219,28 +1323,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 132511,
-      "num": 132511,
-      "word": "白鹿出发陆虎婚礼",
-      "onboard_time": 1726209742,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132057,
       "num": 146504,
       "word": "碎花裙女生和拿勺大厨都将被奖励",
       "onboard_time": 1726161134,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132052,
-      "num": 132052,
-      "word": "文泰一被警方直接移交检察机关",
-      "onboard_time": 1726209563,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 129735,
@@ -1265,6 +1353,14 @@
       "onboard_time": 1726208424,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124767,
+      "num": 124767,
+      "word": "WTT",
+      "onboard_time": 1726211966,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 123783,
@@ -1297,6 +1393,14 @@
       "onboard_time": 1726189160,
       "rank": 42,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 113039,
+      "num": 113039,
+      "word": "沙威玛 腱鞘炎",
+      "onboard_time": 1726211847,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 111420,
@@ -1491,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85168,
+      "num": 326063,
+      "word": "50岁闪婚霸总硬控多少退休阿姨",
+      "onboard_time": 1726207825,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84366,
       "num": 88747,
       "word": "殷世航回应暗恋韩安冉",
@@ -1603,14 +1715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 63692,
-      "num": 326063,
-      "word": "50岁闪婚霸总硬控多少退休阿姨",
-      "onboard_time": 1726207825,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 62022,
       "num": 699661,
       "word": "商场回应柜台高价巧克力有苍蝇乱爬",
@@ -1673,6 +1777,14 @@
       "onboard_time": 1726183936,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 55015,
+      "num": 416184,
+      "word": "老人买黄金洗钱以为在帮忙办案",
+      "onboard_time": 1726211189,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53958,
@@ -1795,12 +1907,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41681,
+      "num": 234963,
+      "word": "喜剧之王单口季",
+      "onboard_time": 1726211727,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40473,
       "num": 65116,
       "word": "航拍洪水中的南宁",
       "onboard_time": 1726164852,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40197,
+      "num": 312600,
+      "word": "韦礼安唱慢慢等",
+      "onboard_time": 1726211189,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 39966,
@@ -1859,6 +1987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33714,
+      "num": 404981,
+      "word": "男子称大桥噪音影响做题",
+      "onboard_time": 1726210406,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29799,
       "num": 699418,
       "word": "水之蔻身体美白届黑马",
@@ -1900,7 +2036,7 @@
     },
     {
       "raw_hot": 24430,
-      "num": 154702,
+      "num": 409985,
       "word": "哥哥超爱铮亮的壶",
       "onboard_time": 1726209262,
       "rank": 38,
@@ -1921,6 +2057,14 @@
       "onboard_time": 1726192339,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19548,
+      "num": 154118,
+      "word": "比亚迪员工总数突破90万",
+      "onboard_time": 1726209923,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 17352,
@@ -1948,7 +2092,7 @@
     },
     {
       "raw_hot": 10903,
-      "num": 1016531,
+      "num": 5415357,
       "word": "人民军队淬火向前",
       "onboard_time": 1726081931,
       "rank": 2,
