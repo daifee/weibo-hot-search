@@ -1,6 +1,6 @@
 {
   "startTime": 1726158397527,
-  "endTime": 1726212904804,
+  "endTime": 1726216003547,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 7836694,
-      "num": 413012,
+      "num": 1239287,
       "word": "吴谨言 怀孕",
       "onboard_time": 1726206446,
       "rank": 10,
@@ -107,6 +107,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1612098,
+      "num": 1612098,
+      "word": "陆虎婚礼",
+      "onboard_time": 1726212985,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1536879,
+      "num": 1536879,
+      "word": "延迟退休细则解读",
+      "onboard_time": 1726213226,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1526950,
       "num": 1526950,
       "word": "小杨哥 月饼",
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 1114721,
-      "num": 297775,
+      "num": 447459,
       "word": "实施渐进式延迟法定退休年龄表决通过",
       "onboard_time": 1726209864,
       "rank": 21,
@@ -168,6 +184,14 @@
       "word": "男子用大方遮掩心虚被司机一眼识破",
       "onboard_time": 1726159157,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1006237,
+      "num": 1006237,
+      "word": "法定退休年龄计算器",
+      "onboard_time": 1726214367,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -275,11 +299,35 @@
       "category": "财经"
     },
     {
+      "raw_hot": 673138,
+      "num": 673138,
+      "word": "苏醒主持陆虎婚礼",
+      "onboard_time": 1726214125,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 645975,
+      "num": 500944,
+      "word": "爸爸光顾着删消息忘删你了",
+      "onboard_time": 1726213646,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 637582,
       "num": 637582,
       "word": "男生体检举煎饼抽血一拔针秒开饭",
       "onboard_time": 1726184656,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 611260,
+      "num": 611260,
+      "word": "对普华永道开出顶格罚单",
+      "onboard_time": 1726215864,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -379,11 +427,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 502608,
+      "num": 502608,
+      "word": "四部门详解延迟退休办法",
+      "onboard_time": 1726213045,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 479963,
       "num": 479963,
       "word": "Newjeans若解约需支付5000亿韩元",
       "onboard_time": 1726193719,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 473663,
+      "num": 505649,
+      "word": "陈楚生西装",
+      "onboard_time": 1726214005,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -451,11 +515,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 438492,
+      "num": 438492,
+      "word": "怎么查自己的法定退休年龄",
+      "onboard_time": 1726212385,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 434456,
       "num": 434456,
       "word": "日方公布对NHK中国籍播音员处理结果",
       "onboard_time": 1726188201,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 425770,
+      "num": 425770,
+      "word": "基本养老金最低缴费年限",
+      "onboard_time": 1726214185,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -497,6 +577,14 @@
       "onboard_time": 1726141759,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398057,
+      "num": 398057,
+      "word": "孙莉晒黄多多留学生活vlog",
+      "onboard_time": 1726214724,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 395667,
@@ -563,6 +651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 347827,
+      "num": 347827,
+      "word": "梁靖崑止步澳门赛8强",
+      "onboard_time": 1726212864,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 332042,
       "num": 332042,
       "word": "749局",
@@ -601,6 +697,14 @@
       "onboard_time": 1726194680,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 314755,
+      "num": 314755,
+      "word": "女乒出了个孙颖莎",
+      "onboard_time": 1726212565,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 300484,
@@ -707,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256071,
+      "num": 1445741,
+      "word": "如何自愿选择弹性提前退休",
+      "onboard_time": 1726215385,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249258,
       "num": 249258,
       "word": "JENNIE美版芭莎十月刊封面",
@@ -803,6 +915,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 228493,
+      "num": 228493,
+      "word": "授予15人国家勋章国家荣誉称号",
+      "onboard_time": 1726214664,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228334,
       "num": 228334,
       "word": "电影志愿军",
@@ -817,6 +937,14 @@
       "onboard_time": 1726152140,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 224535,
+      "num": 273586,
+      "word": "749局官宣定档国庆",
+      "onboard_time": 1726214005,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 222400,
@@ -840,6 +968,14 @@
       "word": "渤海潍坊港实弹射击",
       "onboard_time": 1726189519,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219692,
+      "num": 219692,
+      "word": "5个线上渠道查询本人的法定退休年龄",
+      "onboard_time": 1726214066,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -897,14 +1033,6 @@
       "onboard_time": 1726207944,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204939,
-      "num": 204939,
-      "word": "怎么查自己的法定退休年龄",
-      "onboard_time": 1726212385,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 203597,
@@ -979,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195282,
+      "num": 195282,
+      "word": "樊振东 男大",
+      "onboard_time": 1726215385,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194752,
       "num": 703596,
       "word": "沈琳做月嫂看到父母瞬间泪崩",
@@ -993,6 +1129,14 @@
       "onboard_time": 1726212206,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 190894,
+      "num": 190894,
+      "word": "官方回应江西抚州天降火球",
+      "onboard_time": 1726213226,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190628,
@@ -1027,6 +1171,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 186820,
+      "num": 186820,
+      "word": "秋招",
+      "onboard_time": 1726210345,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 186646,
       "num": 186646,
       "word": "杨超越红温了",
@@ -1049,6 +1201,14 @@
       "onboard_time": 1726198459,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184434,
+      "num": 184434,
+      "word": "坠落春夜",
+      "onboard_time": 1726212445,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 184420,
@@ -1195,12 +1355,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 157869,
+      "num": 157869,
+      "word": "野孩子上映",
+      "onboard_time": 1726214185,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 157688,
+      "num": 157688,
+      "word": "于正长文回应",
+      "onboard_time": 1726213764,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156354,
       "num": 156354,
       "word": "俄罗斯总统普京会见王毅",
       "onboard_time": 1726192221,
       "rank": 42,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 156295,
+      "num": 156295,
+      "word": "张凌赫赵今麦 校园甜文有脸了",
+      "onboard_time": 1726213646,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 155102,
@@ -1225,14 +1409,6 @@
       "onboard_time": 1726211426,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153491,
-      "num": 153491,
-      "word": "秋招",
-      "onboard_time": 1726210345,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 150278,
@@ -1395,28 +1571,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121040,
-      "num": 121040,
-      "word": "女乒出了个孙颖莎",
-      "onboard_time": 1726212565,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118396,
       "num": 175580,
       "word": "王俊凯一口气认出六个奥特曼",
       "onboard_time": 1726185858,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 115478,
-      "num": 115478,
-      "word": "坠落春夜",
-      "onboard_time": 1726212445,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 113125,
@@ -1465,6 +1625,14 @@
       "onboard_time": 1726145720,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 105585,
+      "num": 1451898,
+      "word": "打车去杭州萧山机场为啥多收20元",
+      "onboard_time": 1726214783,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104588,
@@ -1529,14 +1697,6 @@
       "onboard_time": 1726186218,
       "rank": 48,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 99732,
-      "num": 99732,
-      "word": "梁靖崑止步澳门赛8强",
-      "onboard_time": 1726212864,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 99537,
@@ -1691,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80051,
+      "num": 511577,
+      "word": "李一桐 海边的紫色妲己",
+      "onboard_time": 1726213405,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 79853,
       "num": 79853,
       "word": "黄景瑜王子奇动图",
@@ -1723,6 +1891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76035,
+      "num": 399566,
+      "word": "首师大收空调租赁费引学生不满",
+      "onboard_time": 1726214185,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75151,
       "num": 454332,
       "word": "苏州伤人事件伤者病情稳定",
@@ -1737,6 +1913,14 @@
       "onboard_time": 1726137378,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 73085,
+      "num": 248689,
+      "word": "朱丹 付航颜粉",
+      "onboard_time": 1726214483,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 71566,
@@ -1843,6 +2027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 55991,
+      "num": 1074481,
+      "word": "谁来管管疯狂的弹窗广告",
+      "onboard_time": 1726214605,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55232,
       "num": 69113,
       "word": "几个养发tips",
@@ -1923,6 +2115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 45688,
+      "num": 220647,
+      "word": "凭杭温高铁票可以免费游浙江了",
+      "onboard_time": 1726215263,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 45349,
       "num": 69102,
       "word": "碎花裙女生回应网友关心",
@@ -1969,6 +2169,14 @@
       "onboard_time": 1726207045,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43087,
+      "num": 175744,
+      "word": "喝金乌扶摇后中彩票了",
+      "onboard_time": 1726214303,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 41681,
@@ -2059,6 +2267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31700,
+      "num": 1303445,
+      "word": "白鹿花妍大片",
+      "onboard_time": 1726213104,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 29799,
       "num": 699418,
       "word": "水之蔻身体美白届黑马",
@@ -2099,6 +2315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 27224,
+      "num": 1162759,
+      "word": "一块钱上清华",
+      "onboard_time": 1726215804,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 24430,
       "num": 409985,
       "word": "哥哥超爱铮亮的壶",
@@ -2137,6 +2361,14 @@
       "onboard_time": 1726169772,
       "rank": 40,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 17097,
+      "num": 5119084,
+      "word": "记嘱托识校训践青春",
+      "onboard_time": 1726215442,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15550,
@@ -2199,6 +2431,9 @@
     },
     {
       "word": "#全面推动黄河流域生态保护和高质量发展#"
+    },
+    {
+      "word": "#奋力谱写中国式现代化甘肃篇章#"
     }
   ]
 }
