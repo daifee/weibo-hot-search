@@ -1,6 +1,6 @@
 {
   "startTime": 1726158397527,
-  "endTime": 1726219354045,
+  "endTime": 1726220209991,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -379,20 +379,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 585127,
+      "num": 560218,
+      "word": "腾讯回应办公室亲昵事件",
+      "onboard_time": 1726216944,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 569655,
       "num": 569655,
       "word": "女教授为100元被骗走近100万",
       "onboard_time": 1726191140,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 560218,
-      "num": 560218,
-      "word": "腾讯回应办公室亲昵事件",
-      "onboard_time": 1726216944,
-      "rank": 23,
-      "category": "互联网"
     },
     {
       "raw_hot": 554439,
@@ -435,20 +435,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 524672,
+      "num": 789519,
+      "word": "鹿晗一句话王俊凯记了这么多年",
+      "onboard_time": 1726216524,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 510164,
       "num": 510164,
       "word": "张峻豪 暂停活动",
       "onboard_time": 1726191858,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 509507,
-      "num": 789519,
-      "word": "鹿晗一句话王俊凯记了这么多年",
-      "onboard_time": 1726216524,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 508932,
@@ -819,6 +819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 280091,
+      "num": 280091,
+      "word": "睡前5个习惯容易胖肚子",
+      "onboard_time": 1726220121,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 274861,
       "num": 274861,
       "word": "王楚钦孙颖莎今晚单打出战",
@@ -881,6 +889,14 @@
       "onboard_time": 1726122141,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254975,
+      "num": 538827,
+      "word": "种地吧",
+      "onboard_time": 1726219462,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 249258,
@@ -1051,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217984,
+      "num": 217984,
+      "word": "于正想让洪尧演坠落春夜男二",
+      "onboard_time": 1726220181,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217209,
       "num": 475225,
       "word": "杨玏 有的人自带白月光属性",
@@ -1067,7 +1091,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 212329,
+      "raw_hot": 213532,
+      "num": 354111,
+      "word": "10部影片定档国庆档",
+      "onboard_time": 1726217604,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 213005,
       "num": 359158,
       "word": "荣梓杉 导游",
       "onboard_time": 1726217361,
@@ -1105,14 +1137,6 @@
       "onboard_time": 1726170732,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208097,
-      "num": 354111,
-      "word": "10部影片定档国庆档",
-      "onboard_time": 1726217604,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 206726,
@@ -1203,6 +1227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 197540,
+      "num": 197540,
+      "word": "虞书欣姜妍好六cha了NAME新歌",
+      "onboard_time": 1726219760,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 195552,
       "num": 126251,
       "word": "男子与女友分手趁她加班进门偷狗",
@@ -1240,6 +1272,14 @@
       "word": "中秋快乐",
       "onboard_time": 1726201293,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189887,
+      "num": 189887,
+      "word": "普华永道回应处罚",
+      "onboard_time": 1726219282,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1331,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178797,
+      "num": 178797,
+      "word": "济南43岁女子冻龄般颜值",
+      "onboard_time": 1726216524,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178030,
       "num": 178030,
       "word": "孙千 成长型95花",
@@ -1393,14 +1441,6 @@
       "onboard_time": 1726218143,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 170105,
-      "num": 170105,
-      "word": "济南43岁女子冻龄般颜值",
-      "onboard_time": 1726216524,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166603,
@@ -1507,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154560,
+      "num": 154560,
+      "word": "妈妈看到走失17年女儿哭到颤抖",
+      "onboard_time": 1726219702,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153937,
       "num": 153937,
       "word": "朱一龙志愿军2官宣海报",
@@ -1609,14 +1657,6 @@
       "onboard_time": 1726217482,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 138547,
-      "num": 138547,
-      "word": "普华永道回应处罚",
-      "onboard_time": 1726219282,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136767,
@@ -1897,6 +1937,14 @@
       "onboard_time": 1726135220,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89016,
+      "num": 766265,
+      "word": "香港月饼直播间爆火网店销量个位数",
+      "onboard_time": 1726219102,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88940,
@@ -2195,14 +2243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53653,
-      "num": 766265,
-      "word": "香港月饼直播间爆火网店销量个位数",
-      "onboard_time": 1726219102,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 52135,
       "num": 376313,
       "word": "中年男人卖两套房给主播刷礼物",
@@ -2332,7 +2372,7 @@
     },
     {
       "raw_hot": 42904,
-      "num": 161611,
+      "num": 576973,
       "word": "归龙潮长命锁又疯又强",
       "onboard_time": 1726218803,
       "rank": 38,
@@ -2451,6 +2491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32153,
+      "num": 737062,
+      "word": "陶喆一口冰淇淋八百个表情",
+      "onboard_time": 1726217844,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29799,
       "num": 699418,
       "word": "水之蔻身体美白届黑马",
@@ -2507,14 +2555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21686,
-      "num": 737062,
-      "word": "陶喆一口冰淇淋八百个表情",
-      "onboard_time": 1726217844,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 20556,
       "num": 708573,
       "word": "陆仙人二刷伦敦时装周",
@@ -2528,6 +2568,14 @@
       "word": "民警街头激昂劝导卖艺小伙表赞同",
       "onboard_time": 1726192339,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19667,
+      "num": 5119084,
+      "word": "记嘱托识校训践青春",
+      "onboard_time": 1726215442,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2545,14 +2593,6 @@
       "onboard_time": 1726169772,
       "rank": 40,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 17097,
-      "num": 5119084,
-      "word": "记嘱托识校训践青春",
-      "onboard_time": 1726215442,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15550,
@@ -2593,6 +2633,14 @@
       "onboard_time": 1726216584,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 7476,
+      "num": 219744,
+      "word": "文科考公会更有利吗",
+      "onboard_time": 1726220121,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 7082,
