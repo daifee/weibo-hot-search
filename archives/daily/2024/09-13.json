@@ -1,6 +1,6 @@
 {
   "startTime": 1726158397527,
-  "endTime": 1726224021528,
+  "endTime": 1726226327637,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2869355,
+      "num": 2869355,
+      "word": "陆虎发了婚礼照",
+      "onboard_time": 1726223361,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2744326,
       "num": 833854,
       "word": "魏璎珞嫁给了弘昼",
@@ -115,14 +123,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1614762,
-      "num": 471701,
-      "word": "陆虎发了婚礼照",
-      "onboard_time": 1726223361,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1536879,
       "num": 1536879,
       "word": "延迟退休细则解读",
@@ -163,20 +163,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1218791,
+      "num": 1169199,
+      "word": "陆虎婚礼上的白鹿",
+      "onboard_time": 1726221382,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1204738,
       "num": 1204738,
       "word": "女孩生理期以为自己得了绝症",
       "onboard_time": 1726193058,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1169199,
-      "num": 1169199,
-      "word": "陆虎婚礼上的白鹿",
-      "onboard_time": 1726221382,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1147858,
@@ -684,7 +684,7 @@
     },
     {
       "raw_hot": 391517,
-      "num": 322972,
+      "num": 352203,
       "word": "睡前5个习惯容易胖肚子",
       "onboard_time": 1726220121,
       "rank": 26,
@@ -739,20 +739,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360126,
+      "num": 360126,
+      "word": "小米回应摄像头里惊现陌生男子说话",
+      "onboard_time": 1726220962,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 356200,
       "num": 356200,
       "word": "金在中女团",
       "onboard_time": 1726198280,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 354847,
-      "num": 354847,
-      "word": "小米回应摄像头里惊现陌生男子说话",
-      "onboard_time": 1726220962,
-      "rank": 23,
-      "category": "互联网"
     },
     {
       "raw_hot": 347827,
@@ -769,6 +769,14 @@
       "onboard_time": 1726220603,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 338401,
+      "num": 582777,
+      "word": "1320万只文昌鸡死于台风摩羯",
+      "onboard_time": 1726221920,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332042,
@@ -875,6 +883,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284846,
+      "num": 284846,
+      "word": "孙颖莎王楚钦 谁教你这么投屏的",
+      "onboard_time": 1726225820,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 284123,
+      "num": 284123,
+      "word": "陈幸同vs张本美和",
+      "onboard_time": 1726224021,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 274861,
       "num": 274861,
       "word": "王楚钦孙颖莎今晚单打出战",
@@ -905,6 +929,14 @@
       "onboard_time": 1726188681,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261304,
+      "num": 392042,
+      "word": "一声老公魏大勋后槽牙都咬紧了",
+      "onboard_time": 1726224981,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 259546,
@@ -969,6 +1001,14 @@
       "onboard_time": 1726196960,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 243285,
+      "num": 285331,
+      "word": "杨幂穿特别定制",
+      "onboard_time": 1726224501,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 242354,
@@ -1065,6 +1105,14 @@
       "onboard_time": 1726193840,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 226816,
+      "num": 226816,
+      "word": "边伯贤初一位",
+      "onboard_time": 1726225519,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 225273,
@@ -1379,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187756,
+      "num": 187756,
+      "word": "栩栩华生时尚文化大赏",
+      "onboard_time": 1726225519,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 186820,
       "num": 186820,
       "word": "秋招",
@@ -1595,14 +1651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160427,
-      "num": 582777,
-      "word": "1320万只文昌鸡死于台风摩羯",
-      "onboard_time": 1726221920,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160258,
       "num": 160258,
       "word": "花傲天重返赛场",
@@ -1713,6 +1761,14 @@
       "onboard_time": 1726200327,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148752,
+      "num": 148752,
+      "word": "KT状态",
+      "onboard_time": 1726225759,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 148328,
@@ -1849,6 +1905,14 @@
       "onboard_time": 1726218743,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130035,
+      "num": 130035,
+      "word": "Kanye试听会",
+      "onboard_time": 1726224920,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 129735,
@@ -2347,12 +2411,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 56583,
+      "num": 375699,
+      "word": "朱珠给粉丝的回信",
+      "onboard_time": 1726225880,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55991,
       "num": 1074481,
       "word": "谁来管管疯狂的弹窗广告",
       "onboard_time": 1726214605,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55921,
+      "num": 353886,
+      "word": "今晚买iPhone16可用花呗24期免息",
+      "onboard_time": 1726223541,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 55232,
@@ -2475,14 +2555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45233,
-      "num": 110729,
-      "word": "今晚买iPhone16可用花呗24期免息",
-      "onboard_time": 1726223541,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
       "raw_hot": 44968,
       "num": 69101,
       "word": "小时候的善意拉住了长大后的自己",
@@ -2529,6 +2601,14 @@
       "onboard_time": 1726218803,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 41961,
+      "num": 387172,
+      "word": "广州一幼儿园增设老年课程",
+      "onboard_time": 1726224981,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41681,
@@ -2635,6 +2715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 33977,
+      "num": 375387,
+      "word": "付航喊了16个月passion",
+      "onboard_time": 1726223361,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 33714,
       "num": 404981,
       "word": "男子称大桥噪音影响做题",
@@ -2659,6 +2747,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 29703,
+      "num": 399651,
+      "word": "大勺哥说要对得起退伍军人身份",
+      "onboard_time": 1726225700,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29697,
       "num": 296713,
       "word": "孙颖莎朱芊曦争4强",
@@ -2681,6 +2777,14 @@
       "onboard_time": 1726168393,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27521,
+      "num": 118562,
+      "word": "华为三折手机反折会怎样",
+      "onboard_time": 1726223781,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 27267,
@@ -2723,20 +2827,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 20109,
+      "num": 360853,
+      "word": "科技大厂广告用词绝对化涉嫌违法",
+      "onboard_time": 1726225880,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20078,
       "num": 195730,
       "word": "民警街头激昂劝导卖艺小伙表赞同",
       "onboard_time": 1726192339,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19848,
-      "num": 228261,
-      "word": "付航喊了16个月passion",
-      "onboard_time": 1726223361,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 19667,
@@ -2779,14 +2883,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 14615,
-      "num": 110917,
-      "word": "华为三折手机反折会怎样",
-      "onboard_time": 1726223781,
-      "rank": 47,
-      "category": "数码"
-    },
-    {
       "raw_hot": 10903,
       "num": 5415357,
       "word": "人民军队淬火向前",
@@ -2809,6 +2905,14 @@
       "onboard_time": 1726216584,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 8676,
+      "num": 383420,
+      "word": "陈震突袭新浪健身房battle",
+      "onboard_time": 1726226120,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 7476,
