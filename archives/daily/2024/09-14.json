@@ -1,6 +1,6 @@
 {
   "startTime": 1726244748063,
-  "endTime": 1726259824885,
+  "endTime": 1726262439588,
   "band_list": [
     {
       "raw_hot": 1291321,
@@ -129,6 +129,14 @@
       "onboard_time": 1726241660,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 274899,
+      "num": 274899,
+      "word": "云南宁洱3.4级地震",
+      "onboard_time": 1726262232,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263131,
@@ -523,6 +531,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 20579,
+      "num": 20579,
+      "word": "111名缅北电诈嫌犯被移交我方",
+      "onboard_time": 1726259350,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19228,
+      "num": 22373,
+      "word": "文昌鸡被台风吹走椰子鸡供不上了",
+      "onboard_time": 1726258212,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18322,
       "num": 38935,
       "word": "中秋将有超级月亮",
@@ -539,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17248,
-      "num": 22373,
-      "word": "文昌鸡被台风吹走椰子鸡供不上了",
-      "onboard_time": 1726258212,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 14800,
       "num": 67764,
       "word": "母亲去世男孩放学回家哭着喊妈妈",
@@ -555,11 +571,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14344,
+      "num": 18672,
+      "word": "96岁田华回忆往事落泪",
+      "onboard_time": 1726260670,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10836,
       "num": 39873,
       "word": "退休教师去世捐献角膜和遗体",
       "onboard_time": 1726258930,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5296,
+      "num": 45523,
+      "word": "男孩被拐16年民警从未放弃寻找",
+      "onboard_time": 1726260911,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
