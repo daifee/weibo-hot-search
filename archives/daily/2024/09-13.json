@@ -1,6 +1,6 @@
 {
   "startTime": 1726158397527,
-  "endTime": 1726241014790,
+  "endTime": 1726241957530,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -859,6 +859,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 388847,
+      "num": 388847,
+      "word": "seventeen",
+      "onboard_time": 1726156340,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 372510,
       "num": 372510,
       "word": "剧本杀为什么没人玩了",
@@ -1179,14 +1187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 268489,
-      "num": 268489,
-      "word": "seventeen",
-      "onboard_time": 1726156340,
-      "rank": 11,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 264842,
       "num": 480083,
       "word": "台风贝碧嘉或将成为最强中秋台风",
@@ -1395,6 +1395,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 228298,
+      "num": 252314,
+      "word": "警方回应农妇劳作时遭无故砍杀",
+      "onboard_time": 1726237522,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227888,
+      "num": 227888,
+      "word": "张若昀魏大勋坐一起",
+      "onboard_time": 1726240761,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 226816,
       "num": 226816,
       "word": "边伯贤初一位",
@@ -1489,14 +1505,6 @@
       "onboard_time": 1726234760,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 213898,
-      "num": 252314,
-      "word": "警方回应农妇劳作时遭无故砍杀",
-      "onboard_time": 1726237522,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213729,
@@ -2123,6 +2131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160451,
+      "num": 468971,
+      "word": "儿子务工身亡儿媳独占近百万赔偿金",
+      "onboard_time": 1726239742,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160258,
       "num": 160258,
       "word": "花傲天重返赛场",
@@ -2291,6 +2307,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 147261,
+      "num": 147261,
+      "word": "华图教育一页PPT惹众怒",
+      "onboard_time": 1726241241,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144941,
       "num": 144941,
       "word": "天官赐福广播剧第二季完结",
@@ -2353,14 +2377,6 @@
       "onboard_time": 1726217482,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 138281,
-      "num": 138281,
-      "word": "张若昀魏大勋坐一起",
-      "onboard_time": 1726240761,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 136767,
@@ -2475,6 +2491,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127950,
+      "num": 210771,
+      "word": "中学被指不订奶要提供过敏证明",
+      "onboard_time": 1726241481,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126015,
+      "num": 126015,
+      "word": "终于有剧把家长会这段拍出来了",
+      "onboard_time": 1726240941,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125178,
       "num": 475213,
       "word": "张淼怡生日直播",
@@ -2499,11 +2531,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121509,
-      "num": 121509,
-      "word": "终于有剧把家长会这段拍出来了",
-      "onboard_time": 1726240941,
-      "rank": 49,
+      "raw_hot": 120012,
+      "num": 664708,
+      "word": "被雪迷宫反转转晕了",
+      "onboard_time": 1726240222,
+      "rank": 10,
       "category": "剧集"
     },
     {
@@ -2697,14 +2729,6 @@
       "onboard_time": 1726135220,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 90975,
-      "num": 468971,
-      "word": "儿子务工身亡儿媳独占近百万赔偿金",
-      "onboard_time": 1726239742,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 88940,
@@ -2952,6 +2976,14 @@
       "word": "男子患尿毒症保险公司拒赔",
       "onboard_time": 1726207464,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60630,
+      "num": 566552,
+      "word": "游客给差评商家带人上门威胁",
+      "onboard_time": 1726240222,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -3299,19 +3331,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38134,
+      "num": 701018,
+      "word": "细数普华永道5大失责",
+      "onboard_time": 1726239981,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37861,
       "num": 813950,
       "word": "贵州茅台股价跌破1300元整数关口",
       "onboard_time": 1726216644,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37430,
-      "num": 566552,
-      "word": "游客给差评商家带人上门威胁",
-      "onboard_time": 1726240222,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -3491,12 +3523,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 25675,
-      "num": 664708,
-      "word": "被雪迷宫反转转晕了",
-      "onboard_time": 1726240222,
-      "rank": 10,
-      "category": "剧集"
+      "raw_hot": 24730,
+      "num": 242747,
+      "word": "男孩离世医院回应被指伪造诊疗记录",
+      "onboard_time": 1726240521,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24430,
@@ -3507,27 +3539,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 23759,
-      "num": 242747,
-      "word": "男孩离世医院回应被指伪造诊疗记录",
-      "onboard_time": 1726240521,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 23669,
       "num": 360853,
       "word": "科技大厂广告用词绝对化涉嫌违法",
       "onboard_time": 1726225880,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23083,
-      "num": 701018,
-      "word": "细数普华永道5大失责",
-      "onboard_time": 1726239981,
-      "rank": 9,
       "category": "社会新闻"
     },
     {

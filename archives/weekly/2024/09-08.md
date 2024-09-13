@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/08 00:25:23 ~ 2024/09/13 23:23:34
+本榜单时间：2024/09/08 00:25:23 ~ 2024/09/13 23:39:17
 </p>
 </blockquote>
 <p>
@@ -5229,6 +5229,12 @@ newjeans（热度：231323）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%86%9C%E5%A6%87%E5%8A%B3%E4%BD%9C%E6%97%B6%E9%81%AD%E6%97%A0%E6%95%85%E7%A0%8D%E6%9D%80%23" target="weibo">
+警方回应农妇劳作时遭无故砍杀（热度：228298）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8F%A3%E8%BA%B2%E5%8F%B0%E9%A3%8E%E8%85%BF%E8%A2%AB%E5%A4%B9%E4%B8%9A%E4%B8%BB%E4%B8%80%E5%AE%B6%E5%B9%B3%E5%AE%89%23" target="weibo">
 海口躲台风腿被夹业主一家平安（热度：228297）
 </a>
@@ -5243,6 +5249,12 @@ seventeen北京（热度：228001）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8B%E6%8B%89%E5%A6%82%E5%9D%90%E9%A3%9E%E6%9C%BA%20%E6%B2%A1%E4%BA%8B%E5%93%92%E6%B2%A1%E4%BA%8B%E5%93%92%23" target="weibo">
 下拉如坐飞机 没事哒没事哒（热度：227901）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%9D%90%E4%B8%80%E8%B5%B7%23" target="weibo">
+张若昀魏大勋坐一起（热度：227888）
 </a>
 </li>
 
@@ -5633,12 +5645,6 @@ TMA颁奖礼aespa红毯（热度：215994）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%80%90%E7%9C%8B%20%E6%8C%BA%E8%80%90%E6%AD%BB%23" target="weibo">
 不耐看 挺耐死（热度：213950）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%86%9C%E5%A6%87%E5%8A%B3%E4%BD%9C%E6%97%B6%E9%81%AD%E6%97%A0%E6%95%85%E7%A0%8D%E6%9D%80%23" target="weibo">
-警方回应农妇劳作时遭无故砍杀（热度：213898）
 </a>
 </li>
 
@@ -8139,6 +8145,12 @@ C罗绝杀（热度：160548）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E5%8A%A1%E5%B7%A5%E8%BA%AB%E4%BA%A1%E5%84%BF%E5%AA%B3%E7%8B%AC%E5%8D%A0%E8%BF%91%E7%99%BE%E4%B8%87%E8%B5%94%E5%81%BF%E9%87%91%23" target="weibo">
+儿子务工身亡儿媳独占近百万赔偿金（热度：160451）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%82%B2%E5%A4%A9%E9%87%8D%E8%BF%94%E8%B5%9B%E5%9C%BA%23" target="weibo">
 花傲天重返赛场（热度：160258）
 </a>
@@ -8961,6 +8973,12 @@ BE天花板级别的爱情故事（热度：147963）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%9B%BE%E6%95%99%E8%82%B2%E4%B8%80%E9%A1%B5PPT%E6%83%B9%E4%BC%97%E6%80%92%23" target="weibo">
+华图教育一页PPT惹众怒（热度：147261）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Kid%20%E8%BA%81%E9%83%81%E7%97%87%23" target="weibo">
 Kid 躁郁症（热度：147214）
 </a>
@@ -9431,12 +9449,6 @@ iPhone16被指充电峰值功率不超过39W（热度：142866）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%BA%BA%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%93%E9%AA%8C%E5%88%B0%E4%BA%86%E5%BD%93%E5%AD%A6%E9%9C%B8%E7%9A%84%E6%84%9F%E8%A7%89%23" target="weibo">
 广东人第一次体验到了当学霸的感觉（热度：138357）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%9D%90%E4%B8%80%E8%B5%B7%23" target="weibo">
-张若昀魏大勋坐一起（热度：138281）
 </a>
 </li>
 
@@ -10077,6 +10089,12 @@ ti13（热度：128510）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E8%A2%AB%E6%8C%87%E4%B8%8D%E8%AE%A2%E5%A5%B6%E8%A6%81%E6%8F%90%E4%BE%9B%E8%BF%87%E6%95%8F%E8%AF%81%E6%98%8E%23" target="weibo">
+中学被指不订奶要提供过敏证明（热度：127950）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%BC%80%E5%AD%A6%E5%85%B8%E7%A4%BC%E4%B8%AD%E8%8B%B1%E5%8F%8C%E8%AF%AD%E6%BC%94%E5%94%B1%E5%A3%B0%E5%A3%B0%E6%85%A2%23" target="weibo">
 北大开学典礼中英双语演唱声声慢（热度：127681）
 </a>
@@ -10163,6 +10181,12 @@ ti13（热度：128510）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E9%97%A8%E5%B0%86%E7%A7%B0%E4%B8%8D%E8%83%BD%E5%86%8D%E8%AE%A9%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%A4%B1%E6%9C%9B%23" target="weibo">
 国足门将称不能再让全国人民失望（热度：126224）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E5%89%A7%E6%8A%8A%E5%AE%B6%E9%95%BF%E4%BC%9A%E8%BF%99%E6%AE%B5%E6%8B%8D%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
+终于有剧把家长会这段拍出来了（热度：126015）
 </a>
 </li>
 
@@ -10425,12 +10449,6 @@ AirPods4有降噪（热度：124199）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E5%89%A7%E6%8A%8A%E5%AE%B6%E9%95%BF%E4%BC%9A%E8%BF%99%E6%AE%B5%E6%8B%8D%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
-终于有剧把家长会这段拍出来了（热度：121509）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%BB%BF%E8%89%B2%E9%BD%90%E8%83%B8%E8%A5%A6%E8%A3%99%23" target="weibo">
 赵露思绿色齐胸襦裙（热度：121346）
 </a>
@@ -10517,6 +10535,12 @@ AirPods4有降噪（热度：124199）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8E%A2%E7%B4%A2%E6%96%B0%E5%A2%83%23" target="weibo">
 探索新境（热度：120026）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%9B%AA%E8%BF%B7%E5%AE%AB%E5%8F%8D%E8%BD%AC%E8%BD%AC%E6%99%95%E4%BA%86%23" target="weibo">
+被雪迷宫反转转晕了（热度：120012）
 </a>
 </li>
 
@@ -11667,12 +11691,6 @@ RNB有自己的TFBOYS（热度：96699）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E5%8A%A1%E5%B7%A5%E8%BA%AB%E4%BA%A1%E5%84%BF%E5%AA%B3%E7%8B%AC%E5%8D%A0%E8%BF%91%E7%99%BE%E4%B8%87%E8%B5%94%E5%81%BF%E9%87%91%23" target="weibo">
-儿子务工身亡儿媳独占近百万赔偿金（热度：90975）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E8%A1%A3%E6%9E%B6%23" target="weibo">
 十个勤天衣架（热度：90877）
 </a>
@@ -12401,6 +12419,12 @@ AirPods Max新颜色（热度：62008）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%A4%9A%E5%AE%B6%E5%92%96%E5%95%A1%E9%A6%86%E7%A6%81%E6%AD%A2%E9%A1%BE%E5%AE%A2%E7%94%A8%E7%94%B5%E8%84%91%23" target="weibo">
 英国多家咖啡馆禁止顾客用电脑（热度：60989）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E7%BB%99%E5%B7%AE%E8%AF%84%E5%95%86%E5%AE%B6%E5%B8%A6%E4%BA%BA%E4%B8%8A%E9%97%A8%E5%A8%81%E8%83%81%23" target="weibo">
+游客给差评商家带人上门威胁（热度：60630）
 </a>
 </li>
 
@@ -13311,6 +13335,12 @@ AirPods4充电盒有扬声器（热度：40858）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%86%E6%95%B0%E6%99%AE%E5%8D%8E%E6%B0%B8%E9%81%935%E5%A4%A7%E5%A4%B1%E8%B4%A3%23" target="weibo">
+细数普华永道5大失责（热度：38134）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E8%8C%85%E5%8F%B0%E8%82%A1%E4%BB%B7%E8%B7%8C%E7%A0%B41300%E5%85%83%E6%95%B4%E6%95%B0%E5%85%B3%E5%8F%A3%23" target="weibo">
 贵州茅台股价跌破1300元整数关口（热度：37861）
 </a>
@@ -13343,12 +13373,6 @@ AirPods4充电盒有扬声器（热度：40858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E6%9C%89%E4%BA%BA%E4%BB%8E%E6%B9%98%E6%B1%9F%E9%92%93%E8%B5%B7%E4%B8%AD%E5%8D%8E%E9%B2%9F%23" target="weibo">
 当地回应有人从湘江钓起中华鲟（热度：37551）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E7%BB%99%E5%B7%AE%E8%AF%84%E5%95%86%E5%AE%B6%E5%B8%A6%E4%BA%BA%E4%B8%8A%E9%97%A8%E5%A8%81%E8%83%81%23" target="weibo">
-游客给差评商家带人上门威胁（热度：37430）
 </a>
 </li>
 
@@ -13857,12 +13881,6 @@ AirPods4充电盒有扬声器（热度：40858）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%9B%AA%E8%BF%B7%E5%AE%AB%E5%8F%8D%E8%BD%AC%E8%BD%AC%E6%99%95%E4%BA%86%23" target="weibo">
-被雪迷宫反转转晕了（热度：25675）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%9C%A8%E9%9B%AA%E5%B1%B1%E4%B9%9F%E5%9B%9B%E7%82%B9%E8%B5%B7%E5%BA%8A%23" target="weibo">
 王一博在雪山也四点起床（热度：25663）
 </a>
@@ -13889,6 +13907,12 @@ AirPods4充电盒有扬声器（热度：40858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2355%E5%B2%81%E7%9A%84%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81%E4%B9%9F%E6%9C%89%E9%9A%90%E8%97%8F%E6%AC%BE%23" target="weibo">
 55岁的北京地铁也有隐藏款（热度：24929）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%A6%BB%E4%B8%96%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E4%BC%AA%E9%80%A0%E8%AF%8A%E7%96%97%E8%AE%B0%E5%BD%95%23" target="weibo">
+男孩离世医院回应被指伪造诊疗记录（热度：24730）
 </a>
 </li>
 
@@ -13935,12 +13959,6 @@ AirPods4充电盒有扬声器（热度：40858）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%A6%BB%E4%B8%96%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E4%BC%AA%E9%80%A0%E8%AF%8A%E7%96%97%E8%AE%B0%E5%BD%95%23" target="weibo">
-男孩离世医院回应被指伪造诊疗记录（热度：23759）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8F%AD%E7%A7%98%E5%9B%9E%E6%B5%81%E8%8D%AF%E8%83%8C%E5%90%8E%E9%BB%91%E8%89%B2%E4%BA%A7%E4%B8%9A%E9%93%BE%23" target="weibo">
 揭秘回流药背后黑色产业链（热度：23733）
 </a>
@@ -13973,12 +13991,6 @@ AirPods4充电盒有扬声器（热度：40858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23200%E5%85%83%E4%B9%B0%E8%BF%AA%E5%A5%A5%E5%8F%A4%E9%A9%B0%E6%9C%88%E9%A5%BC%E4%B9%B0%E5%88%B0%E4%B8%89%E6%97%A0%E4%BA%A7%E5%93%81%23" target="weibo">
 200元买迪奥古驰月饼买到三无产品（热度：23114）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%86%E6%95%B0%E6%99%AE%E5%8D%8E%E6%B0%B8%E9%81%935%E5%A4%A7%E5%A4%B1%E8%B4%A3%23" target="weibo">
-细数普华永道5大失责（热度：23083）
 </a>
 </li>
 
