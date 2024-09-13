@@ -1,6 +1,6 @@
 {
   "startTime": 1726244748063,
-  "endTime": 1726245689324,
+  "endTime": 1726247957180,
   "band_list": [
     {
       "raw_hot": 1291321,
@@ -89,6 +89,14 @@
       "onboard_time": 1726232604,
       "rank": 6,
       "category": "数码"
+    },
+    {
+      "raw_hot": 405599,
+      "num": 405599,
+      "word": "台风或以巅峰强度登陆浙江",
+      "onboard_time": 1726244599,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389106,
@@ -219,14 +227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154233,
-      "num": 278985,
-      "word": "台风或以巅峰强度登陆浙江",
-      "onboard_time": 1726244599,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137109,
       "num": 137109,
       "word": "陈楚生 证婚人",
@@ -339,8 +339,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 91596,
-      "num": 91596,
+      "raw_hot": 94465,
+      "num": 94465,
       "word": "武艺谈恋爱了吗就上离婚综艺",
       "onboard_time": 1726245077,
       "rank": 37,
@@ -411,12 +411,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62372,
+      "num": 62372,
+      "word": "女生被扎218针为何未达校园霸凌标准",
+      "onboard_time": 1726246815,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62237,
       "num": 71418,
       "word": "K总 搞笑",
       "onboard_time": 1726245675,
       "rank": 49,
       "category": "网红"
+    },
+    {
+      "raw_hot": 57355,
+      "num": 158689,
+      "word": "小姐姐的伞厨师哥的勺正义的剑",
+      "onboard_time": 1726246155,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47491,
+      "num": 56480,
+      "word": "红到发紫的花牛苹果",
+      "onboard_time": 1726246815,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3425,
