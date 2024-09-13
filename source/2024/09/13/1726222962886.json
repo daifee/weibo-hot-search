@@ -1,0 +1,410 @@
+{
+  "runTime": 1726222962886,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8266005,
+        "num": 8266005,
+        "word": "逐步延至男63女55或58周岁退休",
+        "onboard_time": 1726209742,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 6946231,
+        "num": 6946231,
+        "word": "延迟退休年龄对照表",
+        "onboard_time": 1726209923,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11975,
+        "num": 2886569,
+        "word": "记嘱托识校训践青春",
+        "onboard_time": 1726215442,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1125583,
+        "num": 1125583,
+        "word": "陆虎婚礼上的白鹿",
+        "onboard_time": 1726221382,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 761536,
+        "num": 761536,
+        "word": "渐进式延迟法定退休年龄明年起施行",
+        "onboard_time": 1726209742,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 705681,
+        "num": 705681,
+        "word": "对普华永道开出顶格罚单",
+        "onboard_time": 1726215864,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675364,
+        "num": 675364,
+        "word": "普华永道被罚没3.25亿元",
+        "onboard_time": 1726216405,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528710,
+        "num": 672203,
+        "word": "鹿晗一句话王俊凯记了这么多年",
+        "onboard_time": 1726216524,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 569261,
+        "num": 661184,
+        "word": "普华永道暂停经营业务6个月",
+        "onboard_time": 1726217543,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22904,
+        "num": 655987,
+        "word": "毛坯户外人有自己的精装朋友圈",
+        "onboard_time": 1726221502,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1746231,
+        "num": 647118,
+        "word": "吴谨言 怀孕",
+        "onboard_time": 1726206446,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 696468,
+        "num": 638271,
+        "word": "陆虎婚礼祝词",
+        "onboard_time": 1726221742,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 634774,
+        "num": 634774,
+        "word": "普华永道",
+        "onboard_time": 1726216164,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620903,
+        "num": 620903,
+        "word": "如何自愿选择弹性提前退休",
+        "onboard_time": 1726215385,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88173,
+        "num": 582777,
+        "word": "1320万只文昌鸡死于台风摩羯",
+        "onboard_time": 1726221920,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569786,
+        "num": 569786,
+        "word": "延迟退休细则解读",
+        "onboard_time": 1726213226,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 347274,
+        "num": 569704,
+        "word": "令人自卑的offer",
+        "onboard_time": 1726220603,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288410,
+        "num": 519796,
+        "word": "种地吧",
+        "onboard_time": 1726219462,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28193,
+        "num": 517652,
+        "word": "归龙潮长命锁又疯又强",
+        "onboard_time": 1726218803,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 31677,
+        "num": 478246,
+        "word": "新房装修材料被隔壁工人拿走",
+        "onboard_time": 1726222342,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2118547,
+        "num": 453855,
+        "word": "陆虎婚礼",
+        "onboard_time": 1726212985,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1815751,
+        "num": 428033,
+        "word": "吴谨言洪尧结婚",
+        "onboard_time": 1726199965,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414197,
+        "num": 414197,
+        "word": "法定退休年龄计算器",
+        "onboard_time": 1726214367,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354847,
+        "num": 354847,
+        "word": "小米回应摄像头里惊现陌生男子说话",
+        "onboard_time": 1726220962,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 215441,
+        "num": 345105,
+        "word": "孙莉晒黄多多留学生活vlog",
+        "onboard_time": 1726214724,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208875,
+        "num": 340978,
+        "word": "陈楚生西装",
+        "onboard_time": 1726214005,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340485,
+        "num": 340485,
+        "word": "自愿选择弹性提前退休",
+        "onboard_time": 1726211127,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 321252,
+        "num": 321252,
+        "word": "睡前5个习惯容易胖肚子",
+        "onboard_time": 1726220121,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 253166,
+        "num": 253166,
+        "word": "香港月饼直播间爆火网店销量个位数",
+        "onboard_time": 1726219102,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183263,
+        "num": 212010,
+        "word": "虞书欣姜妍好六cha了NAME新歌",
+        "onboard_time": 1726219760,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207896,
+        "num": 207896,
+        "word": "基本养老金最低缴费年限",
+        "onboard_time": 1726214185,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205979,
+        "num": 205979,
+        "word": "Fly和女朋友恋爱十一年了",
+        "onboard_time": 1726222101,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 201824,
+        "num": 201824,
+        "word": "实施渐进式延迟法定退休年龄表决通过",
+        "onboard_time": 1726209864,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 192913,
+        "num": 192913,
+        "word": "妈妈看到走失17年女儿哭到颤抖",
+        "onboard_time": 1726219702,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176839,
+        "num": 176839,
+        "word": "FIESTAR合体舞台",
+        "onboard_time": 1726222641,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169139,
+        "num": 169139,
+        "word": "丁禹兮拍戏被箭射穿手指",
+        "onboard_time": 1726220842,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160496,
+        "num": 160496,
+        "word": "10部影片定档国庆档",
+        "onboard_time": 1726217604,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160478,
+        "num": 160478,
+        "word": "延迟退休改革16字原则",
+        "onboard_time": 1726221020,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160258,
+        "num": 160258,
+        "word": "花傲天重返赛场",
+        "onboard_time": 1726222221,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152564,
+        "num": 152564,
+        "word": "于正长文回应",
+        "onboard_time": 1726213764,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209248,
+        "num": 151931,
+        "word": "于正想让洪尧演坠落春夜男二",
+        "onboard_time": 1726220181,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146830,
+        "num": 146830,
+        "word": "延迟退休不是一步到位是小步调整",
+        "onboard_time": 1726218382,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142231,
+        "num": 142231,
+        "word": "普华永道回应处罚",
+        "onboard_time": 1726219282,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140859,
+        "num": 140859,
+        "word": "荣梓杉 导游",
+        "onboard_time": 1726217361,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140850,
+        "num": 140850,
+        "word": "撤销普华永道广州分所",
+        "onboard_time": 1726217844,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136484,
+        "num": 136484,
+        "word": "爸爸光顾着删消息忘删你了",
+        "onboard_time": 1726213646,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136328,
+        "num": 136328,
+        "word": "尹正被亲红温了",
+        "onboard_time": 1726221620,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132261,
+        "num": 132261,
+        "word": "四部门详解延迟退休办法",
+        "onboard_time": 1726213045,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130938,
+        "num": 130938,
+        "word": "那隽 卷是因为穷怕了",
+        "onboard_time": 1726221321,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124713,
+        "num": 124713,
+        "word": "李晟敏得子",
+        "onboard_time": 1726222943,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#齐心协力唱好新时代黄河大合唱#"
+    }
+  }
+}

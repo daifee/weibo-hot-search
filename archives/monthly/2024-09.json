@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726220209991,
+  "endTime": 1726222962886,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -539,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2118547,
+      "num": 1612098,
+      "word": "陆虎婚礼",
+      "onboard_time": 1726212985,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2106568,
       "num": 1375348,
       "word": "江苏师大回应男生将女生打倒在地",
@@ -1041,14 +1049,6 @@
       "onboard_time": 1726043481,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1612098,
-      "num": 1612098,
-      "word": "陆虎婚礼",
-      "onboard_time": 1726212985,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 1598548,
@@ -2417,6 +2417,14 @@
       "onboard_time": 1725713541,
       "rank": 4,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1125583,
+      "num": 1125583,
+      "word": "陆虎婚礼上的白鹿",
+      "onboard_time": 1726221382,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1124431,
@@ -5075,6 +5083,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 696468,
+      "num": 638271,
+      "word": "陆虎婚礼祝词",
+      "onboard_time": 1726221742,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 696185,
       "num": 684428,
       "word": "苹果 挤牙膏",
@@ -5540,7 +5556,7 @@
     },
     {
       "raw_hot": 650664,
-      "num": 650664,
+      "num": 661184,
       "word": "普华永道暂停经营业务6个月",
       "onboard_time": 1726217543,
       "rank": 22,
@@ -7035,6 +7051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 528710,
+      "num": 789519,
+      "word": "鹿晗一句话王俊凯记了这么多年",
+      "onboard_time": 1726216524,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 527702,
       "num": 527702,
       "word": "DK战胜T1",
@@ -7073,14 +7097,6 @@
       "onboard_time": 1725266660,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 524672,
-      "num": 789519,
-      "word": "鹿晗一句话王俊凯记了这么多年",
-      "onboard_time": 1726216524,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 523934,
@@ -10163,6 +10179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354847,
+      "num": 354847,
+      "word": "小米回应摄像头里惊现陌生男子说话",
+      "onboard_time": 1726220962,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 354765,
       "num": 354765,
       "word": "毕业两年存款33万女生想裸辞",
@@ -10385,6 +10409,14 @@
       "onboard_time": 1726018819,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347274,
+      "num": 569704,
+      "word": "令人自卑的offer",
+      "onboard_time": 1726220603,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 346897,
@@ -10969,6 +11001,14 @@
       "onboard_time": 1726204948,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 321252,
+      "num": 321252,
+      "word": "睡前5个习惯容易胖肚子",
+      "onboard_time": 1726220121,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 320300,
@@ -11955,6 +11995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 288410,
+      "num": 538827,
+      "word": "种地吧",
+      "onboard_time": 1726219462,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288404,
       "num": 288404,
       "word": "余宇涵账号被3个人同时登陆",
@@ -12289,14 +12337,6 @@
       "onboard_time": 1725264200,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 280091,
-      "num": 280091,
-      "word": "睡前5个习惯容易胖肚子",
-      "onboard_time": 1726220121,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 280088,
@@ -13363,14 +13403,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 254975,
-      "num": 538827,
-      "word": "种地吧",
-      "onboard_time": 1726219462,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 254967,
       "num": 201636,
       "word": "如果是儿子就该松手刹了",
@@ -13433,6 +13465,14 @@
       "onboard_time": 1725163520,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 253166,
+      "num": 766265,
+      "word": "香港月饼直播间爆火网店销量个位数",
+      "onboard_time": 1726219102,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252983,
@@ -16843,6 +16883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205979,
+      "num": 205979,
+      "word": "Fly和女朋友恋爱十一年了",
+      "onboard_time": 1726222101,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 205974,
       "num": 205974,
       "word": "俄初步确认失联直升机上22人全部遇难",
@@ -18004,7 +18052,7 @@
     },
     {
       "raw_hot": 197540,
-      "num": 197540,
+      "num": 212010,
       "word": "虞书欣姜妍好六cha了NAME新歌",
       "onboard_time": 1726219760,
       "rank": 33,
@@ -18737,6 +18785,14 @@
       "onboard_time": 1725426860,
       "rank": 43,
       "category": "网红,互联网"
+    },
+    {
+      "raw_hot": 192913,
+      "num": 192913,
+      "word": "妈妈看到走失17年女儿哭到颤抖",
+      "onboard_time": 1726219702,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192911,
@@ -21227,6 +21283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176839,
+      "num": 176839,
+      "word": "FIESTAR合体舞台",
+      "onboard_time": 1726222641,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176820,
       "num": 176820,
       "word": "上海人精神状态已到nextlevel",
@@ -22433,6 +22497,14 @@
       "onboard_time": 1725928880,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169139,
+      "num": 169139,
+      "word": "丁禹兮拍戏被箭射穿手指",
+      "onboard_time": 1726220842,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 169121,
@@ -23819,12 +23891,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160478,
+      "num": 160478,
+      "word": "延迟退休改革16字原则",
+      "onboard_time": 1726221020,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 160277,
       "num": 160277,
       "word": "李兰迪直播",
       "onboard_time": 1725290122,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160258,
+      "num": 160258,
+      "word": "花傲天重返赛场",
+      "onboard_time": 1726222221,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 160230,
@@ -24864,14 +24952,6 @@
       "word": "高校国旗护卫队女生太飒了",
       "onboard_time": 1725501738,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154560,
-      "num": 154560,
-      "word": "妈妈看到走失17年女儿哭到颤抖",
-      "onboard_time": 1726219702,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -27667,6 +27747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136328,
+      "num": 136328,
+      "word": "尹正被亲红温了",
+      "onboard_time": 1726221620,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136234,
       "num": 136234,
       "word": "黄仁勋称必要时英伟达可弃用台积电",
@@ -28393,6 +28481,14 @@
       "onboard_time": 1726043961,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130938,
+      "num": 130938,
+      "word": "那隽 卷是因为穷怕了",
+      "onboard_time": 1726221321,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 130843,
@@ -29233,6 +29329,14 @@
       "onboard_time": 1725113362,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124713,
+      "num": 124713,
+      "word": "李晟敏得子",
+      "onboard_time": 1726222943,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 124615,
@@ -32171,14 +32275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 89016,
-      "num": 766265,
-      "word": "香港月饼直播间爆火网店销量个位数",
-      "onboard_time": 1726219102,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 88940,
       "num": 88940,
       "word": "库里在成都吃火锅打麻将",
@@ -32249,6 +32345,14 @@
       "onboard_time": 1725610401,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88173,
+      "num": 582777,
+      "word": "1320万只文昌鸡死于台风摩羯",
+      "onboard_time": 1726221920,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88053,
@@ -36859,6 +36963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31677,
+      "num": 478246,
+      "word": "新房装修材料被隔壁工人拿走",
+      "onboard_time": 1726222342,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31660,
       "num": 1412848,
       "word": "第二届北京网络视听艺术大会",
@@ -38033,6 +38145,14 @@
       "onboard_time": 1726005973,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 22904,
+      "num": 655987,
+      "word": "毛坯户外人有自己的精装朋友圈",
+      "onboard_time": 1726221502,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22878,
