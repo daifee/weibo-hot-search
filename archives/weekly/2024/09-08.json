@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726205899555,
+  "endTime": 1726209023648,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -24,6 +24,14 @@
       "word": "洪尧 曹赢心",
       "onboard_time": 1726202917,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 7836694,
+      "num": 342732,
+      "word": "吴谨言 怀孕",
+      "onboard_time": 1726206446,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -3187,6 +3195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 470851,
+      "num": 470851,
+      "word": "火车票改签新规有啥变化",
+      "onboard_time": 1726205009,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 467939,
       "num": 467939,
       "word": "地下车库该不该禁止新能源车停放",
@@ -4523,6 +4539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323611,
+      "num": 323611,
+      "word": "天津上空现巨大黑圈系公园表演产生",
+      "onboard_time": 1726203577,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323552,
       "num": 232905,
       "word": "小学生俩月花15000元在文具店集卡",
@@ -4556,7 +4580,7 @@
     },
     {
       "raw_hot": 321545,
-      "num": 288483,
+      "num": 319267,
       "word": "张翰祝绪丹吻戏",
       "onboard_time": 1726204948,
       "rank": 15,
@@ -4809,14 +4833,6 @@
       "onboard_time": 1725858740,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 304863,
-      "num": 288230,
-      "word": "天津上空现巨大黑圈系公园表演产生",
-      "onboard_time": 1726203577,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 302656,
@@ -5433,6 +5449,14 @@
       "onboard_time": 1725966382,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 259546,
+      "num": 259546,
+      "word": "白鹿到达丽江",
+      "onboard_time": 1726207585,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 259365,
@@ -6203,6 +6227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229679,
+      "num": 229679,
+      "word": "菲常萧张彻底be了",
+      "onboard_time": 1726206206,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229182,
       "num": 229182,
       "word": "热依扎终于又演狠拽女角色了",
@@ -6707,6 +6739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214909,
+      "num": 214909,
+      "word": "于正说七年了再多考验也修成正果了",
+      "onboard_time": 1726204889,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214694,
       "num": 361521,
       "word": "宋佳张桂梅 两个东北人在云南相遇",
@@ -7091,6 +7131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205882,
+      "num": 205882,
+      "word": "林诗栋3比0林昀儒",
+      "onboard_time": 1726208124,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205851,
       "num": 205851,
       "word": "王曼昱奥运后首秀开门红",
@@ -7129,6 +7177,14 @@
       "onboard_time": 1725924017,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205473,
+      "num": 205473,
+      "word": "林诗栋vs林昀儒",
+      "onboard_time": 1726207944,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 205269,
@@ -7185,14 +7241,6 @@
       "onboard_time": 1725858322,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203801,
-      "num": 203801,
-      "word": "于正说七年了再多考验也修成正果了",
-      "onboard_time": 1726204889,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 203402,
@@ -7339,6 +7387,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 201606,
+      "num": 201606,
+      "word": "华图教育再因不雅广告翻车",
+      "onboard_time": 1726205067,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 201565,
       "num": 187660,
       "word": "学生钓鱼被警告校长转头安排了比赛",
@@ -7441,6 +7497,14 @@
       "onboard_time": 1725773780,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 199463,
+      "num": 199463,
+      "word": "延禧攻略",
+      "onboard_time": 1726208243,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 199446,
@@ -8187,6 +8251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186646,
+      "num": 186646,
+      "word": "杨超越红温了",
+      "onboard_time": 1726207225,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186641,
       "num": 186641,
       "word": "檀健次杂志",
@@ -8473,14 +8545,6 @@
       "onboard_time": 1726040840,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 181297,
-      "num": 181297,
-      "word": "华图教育再因不雅广告翻车",
-      "onboard_time": 1726205067,
-      "rank": 44,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 181249,
@@ -8939,6 +9003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173787,
+      "num": 173787,
+      "word": "王曼昱女单晋级",
+      "onboard_time": 1726206265,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173761,
       "num": 173761,
       "word": "粉笔模考",
@@ -9201,6 +9273,14 @@
       "onboard_time": 1725795679,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 168866,
+      "num": 168866,
+      "word": "于正的辟谣谁还信",
+      "onboard_time": 1726208905,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 168857,
@@ -9473,6 +9553,14 @@
       "onboard_time": 1726136900,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163866,
+      "num": 163866,
+      "word": "经纪人 卢昱晓你得算我工伤",
+      "onboard_time": 1726208843,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 163705,
@@ -11483,6 +11571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 136063,
+      "num": 136063,
+      "word": "LNG 租借",
+      "onboard_time": 1726203219,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136042,
       "num": 136042,
       "word": "爸妈吵个架 程苗苗连财产都分配好了",
@@ -11681,6 +11777,14 @@
       "onboard_time": 1726121600,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133262,
+      "num": 133262,
+      "word": "易烊千玺红色衬衫套装",
+      "onboard_time": 1726207884,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 133203,
@@ -11923,6 +12027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129735,
+      "num": 129735,
+      "word": "央美耗时3年绘制大同华严寺壁画",
+      "onboard_time": 1726207704,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129690,
       "num": 129690,
       "word": "新疆巴州我的下一个赛博家乡",
@@ -11961,6 +12073,14 @@
       "onboard_time": 1726041560,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129074,
+      "num": 129074,
+      "word": "贾跃亭获531万美元奖金奖励",
+      "onboard_time": 1726208963,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 129069,
@@ -12017,6 +12137,14 @@
       "onboard_time": 1725957920,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 128464,
+      "num": 128464,
+      "word": "做花粉见红底白衣 做生粉看蓝底白字",
+      "onboard_time": 1726208424,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 128388,
@@ -12513,6 +12641,14 @@
       "onboard_time": 1726119321,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 121829,
+      "num": 125580,
+      "word": "王曼昱满意自己的表现",
+      "onboard_time": 1726207585,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 121678,
@@ -13523,6 +13659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104727,
+      "num": 218334,
+      "word": "胡夏 好听",
+      "onboard_time": 1726208663,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104656,
       "num": 104656,
       "word": "原来用荷叶喝茶更好喝是真的",
@@ -13536,6 +13680,14 @@
       "word": "孙千 一款水灵灵的青春剧女主",
       "onboard_time": 1726019657,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 104588,
+      "num": 169187,
+      "word": "吴邪胖子炸开青铜门",
+      "onboard_time": 1726208064,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -15019,6 +15171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 61030,
+      "num": 262029,
+      "word": "男子患尿毒症保险公司拒赔",
+      "onboard_time": 1726207464,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60989,
       "num": 228251,
       "word": "英国多家咖啡馆禁止顾客用电脑",
@@ -15425,6 +15585,14 @@
       "onboard_time": 1725769279,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 51096,
+      "num": 305893,
+      "word": "50岁闪婚霸总硬控多少退休阿姨",
+      "onboard_time": 1726207825,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50991,
@@ -16088,6 +16256,14 @@
       "word": "摩羯致海南4地损失近800亿",
       "onboard_time": 1726040060,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37582,
+      "num": 345688,
+      "word": "对话苏州见义勇为勺子哥",
+      "onboard_time": 1726207045,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
