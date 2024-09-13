@@ -1,6 +1,6 @@
 {
   "startTime": 1726244748063,
-  "endTime": 1726258960553,
+  "endTime": 1726259824885,
   "band_list": [
     {
       "raw_hot": 1291321,
@@ -523,11 +523,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 18322,
+      "num": 38935,
+      "word": "中秋将有超级月亮",
+      "onboard_time": 1726231821,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17538,
       "num": 52711,
       "word": "明天周六也要上班",
       "onboard_time": 1726253592,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17248,
+      "num": 22373,
+      "word": "文昌鸡被台风吹走椰子鸡供不上了",
+      "onboard_time": 1726258212,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -539,27 +555,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14619,
-      "num": 22373,
-      "word": "文昌鸡被台风吹走椰子鸡供不上了",
-      "onboard_time": 1726258212,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 10836,
-      "num": 25399,
+      "num": 39873,
       "word": "退休教师去世捐献角膜和遗体",
       "onboard_time": 1726258930,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8883,
-      "num": 38935,
-      "word": "中秋将有超级月亮",
-      "onboard_time": 1726231821,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
