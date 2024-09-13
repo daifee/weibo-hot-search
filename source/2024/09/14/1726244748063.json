@@ -1,0 +1,410 @@
+{
+  "runTime": 1726244748063,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 978670,
+        "num": 978670,
+        "word": "乘务员手臂有纹身官方将追责",
+        "onboard_time": 1726234701,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 770844,
+        "num": 770844,
+        "word": "中学被指不订奶要提供过敏证明",
+        "onboard_time": 1726241481,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3425,
+        "num": 716510,
+        "word": "淬火强军新征程",
+        "onboard_time": 1726110502,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 689574,
+        "num": 689574,
+        "word": "陆虎陈曌旭婚礼好多熟人",
+        "onboard_time": 1726232363,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 502120,
+        "num": 502120,
+        "word": "杀妻欲藏尸冰柜案凶手至死没道歉",
+        "onboard_time": 1726237342,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421247,
+        "num": 421247,
+        "word": "00后为何愿意为医院月饼买单",
+        "onboard_time": 1726233683,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407234,
+        "num": 407234,
+        "word": "iPhone16ProMax秒没",
+        "onboard_time": 1726232604,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 389106,
+        "num": 389106,
+        "word": "张远收到了捧花",
+        "onboard_time": 1726237463,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359849,
+        "num": 359849,
+        "word": "陆虎婚礼上的白鹿",
+        "onboard_time": 1726221382,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359847,
+        "num": 359847,
+        "word": "张若昀魏大勋坐一起",
+        "onboard_time": 1726240761,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1291321,
+        "num": 348813,
+        "word": "延迟退休年龄对照表",
+        "onboard_time": 1726209923,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 713135,
+        "num": 341035,
+        "word": "吴谨言 怀孕",
+        "onboard_time": 1726206446,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 582509,
+        "num": 337148,
+        "word": "奎八",
+        "onboard_time": 1726235543,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311589,
+        "num": 311589,
+        "word": "网友三年前给洪尧的评论",
+        "onboard_time": 1726243160,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286372,
+        "num": 286372,
+        "word": "seventeen",
+        "onboard_time": 1726241660,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 263131,
+        "num": 263131,
+        "word": "李多海在上海定居",
+        "onboard_time": 1726228821,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257758,
+        "num": 257758,
+        "word": "王楚钦说对阵林诗栋自己处下风",
+        "onboard_time": 1726237342,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244786,
+        "num": 244786,
+        "word": "张百乔你真是出息了",
+        "onboard_time": 1726235902,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 231846,
+        "num": 231846,
+        "word": "多方回应学生不订牛奶须提供过敏证明",
+        "onboard_time": 1726236563,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209687,
+        "num": 209687,
+        "word": "儿子务工身亡儿媳独占近百万赔偿金",
+        "onboard_time": 1726239742,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455839,
+        "num": 209640,
+        "word": "吴谨言洪尧结婚",
+        "onboard_time": 1726199965,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64754,
+        "num": 209501,
+        "word": "台风或以巅峰强度登陆浙江",
+        "onboard_time": 1726244599,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62947,
+        "num": 209365,
+        "word": "普华永道暂停经营业务6个月",
+        "onboard_time": 1726217543,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243242,
+        "num": 209166,
+        "word": "人怎么能有种成金珉奎这样",
+        "onboard_time": 1726236563,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209054,
+        "num": 209054,
+        "word": "女子在超市捞鱼被刺致八级伤残",
+        "onboard_time": 1726226961,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201609,
+        "num": 201609,
+        "word": "野孩子票房",
+        "onboard_time": 1726232721,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194335,
+        "num": 194335,
+        "word": "华图教育一页PPT惹众怒",
+        "onboard_time": 1726241241,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172093,
+        "num": 172093,
+        "word": "杨幂压轴",
+        "onboard_time": 1726229004,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163833,
+        "num": 163833,
+        "word": "警方回应农妇劳作时遭无故砍杀",
+        "onboard_time": 1726237522,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160270,
+        "num": 160270,
+        "word": "陆虎发了婚礼照",
+        "onboard_time": 1726223361,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137109,
+        "num": 137109,
+        "word": "陈楚生 证婚人",
+        "onboard_time": 1726229241,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133234,
+        "num": 133234,
+        "word": "金珉奎背徐明浩",
+        "onboard_time": 1726239623,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124534,
+        "num": 124534,
+        "word": "游客给差评商家带人上门威胁",
+        "onboard_time": 1726240222,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114219,
+        "num": 114219,
+        "word": "奶奶忘拔车钥匙5岁孙女启动致伤亡",
+        "onboard_time": 1726235061,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114081,
+        "num": 114081,
+        "word": "男子收60万儿子死亡赔偿款全转给弟弟",
+        "onboard_time": 1726227020,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113816,
+        "num": 113816,
+        "word": "iPhone16 抢购",
+        "onboard_time": 1726229301,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 113556,
+        "num": 113556,
+        "word": "阿朵陈好相似度",
+        "onboard_time": 1726239143,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111520,
+        "num": 111520,
+        "word": "徐子未说魏哲鸣上学时很耀眼",
+        "onboard_time": 1726244418,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109274,
+        "num": 109274,
+        "word": "野孩子",
+        "onboard_time": 1726231221,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108465,
+        "num": 108465,
+        "word": "珉佑",
+        "onboard_time": 1726239623,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108197,
+        "num": 108197,
+        "word": "王俊凯 野孩子演技",
+        "onboard_time": 1726242860,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103114,
+        "num": 103114,
+        "word": "杨幂这套好美",
+        "onboard_time": 1726227860,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99408,
+        "num": 99408,
+        "word": "iPhone16Pro系列已排到10月",
+        "onboard_time": 1726234882,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 94961,
+        "num": 94961,
+        "word": "睡前5个习惯容易胖肚子",
+        "onboard_time": 1726220121,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 89376,
+        "num": 89376,
+        "word": "长乐曲",
+        "onboard_time": 1726243459,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84615,
+        "num": 84615,
+        "word": "把1岁儿子锁家里单亲妈妈发声",
+        "onboard_time": 1726230862,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83653,
+        "num": 83653,
+        "word": "鞠婧祎侧边丸子头",
+        "onboard_time": 1726232540,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82728,
+        "num": 82728,
+        "word": "丁程鑫在青岛早睡早起",
+        "onboard_time": 1726239383,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81083,
+        "num": 81083,
+        "word": "被雪迷宫反转转晕了",
+        "onboard_time": 1726240222,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80705,
+        "num": 80705,
+        "word": "王一博害怕的全被自己战胜了",
+        "onboard_time": 1726242079,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平签署国家主席令#"
+    }
+  }
+}

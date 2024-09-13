@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726241957530,
+  "endTime": 1726244748063,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -1993,6 +1993,14 @@
       "onboard_time": 1725883099,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 770844,
+      "num": 770844,
+      "word": "中学被指不订奶要提供过敏证明",
+      "onboard_time": 1726241481,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 769165,
@@ -4619,6 +4627,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 359847,
+      "num": 359847,
+      "word": "张若昀魏大勋坐一起",
+      "onboard_time": 1726240761,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 358577,
       "num": 240427,
       "word": "这些水果是典型的高糖刺客",
@@ -5225,6 +5241,14 @@
       "onboard_time": 1725722840,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 311589,
+      "num": 311589,
+      "word": "网友三年前给洪尧的评论",
+      "onboard_time": 1726243160,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 311135,
@@ -6987,14 +7011,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 227888,
-      "num": 227888,
-      "word": "张若昀魏大勋坐一起",
-      "onboard_time": 1726240761,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 227780,
       "num": 227780,
       "word": "后排乘客开门未观察承担次责",
@@ -7729,6 +7745,14 @@
       "onboard_time": 1725805341,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209687,
+      "num": 468971,
+      "word": "儿子务工身亡儿媳独占近百万赔偿金",
+      "onboard_time": 1726239742,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209440,
@@ -8664,6 +8688,14 @@
       "word": "摩羯在越南造成大面积断电断网",
       "onboard_time": 1725816554,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194335,
+      "num": 194335,
+      "word": "华图教育一页PPT惹众怒",
+      "onboard_time": 1726241241,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -10843,14 +10875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160451,
-      "num": 468971,
-      "word": "儿子务工身亡儿媳独占近百万赔偿金",
-      "onboard_time": 1726239742,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160258,
       "num": 160258,
       "word": "花傲天重返赛场",
@@ -11945,14 +11969,6 @@
       "onboard_time": 1726211548,
       "rank": 39,
       "category": "网红"
-    },
-    {
-      "raw_hot": 147261,
-      "num": 147261,
-      "word": "华图教育一页PPT惹众怒",
-      "onboard_time": 1726241241,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147214,
@@ -13435,14 +13451,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 127950,
-      "num": 210771,
-      "word": "中学被指不订奶要提供过敏证明",
-      "onboard_time": 1726241481,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127681,
       "num": 136323,
       "word": "北大开学典礼中英双语演唱声声慢",
@@ -13673,6 +13681,14 @@
       "onboard_time": 1725793879,
       "rank": 42,
       "category": "网红"
+    },
+    {
+      "raw_hot": 124534,
+      "num": 566552,
+      "word": "游客给差评商家带人上门威胁",
+      "onboard_time": 1726240222,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124486,
@@ -14563,6 +14579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 111520,
+      "num": 111520,
+      "word": "徐子未说魏哲鸣上学时很耀眼",
+      "onboard_time": 1726244418,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111420,
       "num": 405718,
       "word": "胡夏 好听",
@@ -14753,6 +14777,14 @@
       "onboard_time": 1725723380,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108197,
+      "num": 108197,
+      "word": "王俊凯 野孩子演技",
+      "onboard_time": 1726242860,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 107925,
@@ -15619,6 +15651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89376,
+      "num": 89376,
+      "word": "长乐曲",
+      "onboard_time": 1725822732,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89260,
       "num": 455189,
       "word": "起底0元领养猫咪套路",
@@ -15929,6 +15969,14 @@
       "onboard_time": 1725769760,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80705,
+      "num": 80705,
+      "word": "王一博害怕的全被自己战胜了",
+      "onboard_time": 1726242079,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 80689,
@@ -16403,6 +16451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64754,
+      "num": 209501,
+      "word": "台风或以巅峰强度登陆浙江",
+      "onboard_time": 1726244599,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64372,
       "num": 268899,
       "word": "央妈直击金龙鱼油生产过程",
@@ -16544,14 +16600,6 @@
       "word": "英国多家咖啡馆禁止顾客用电脑",
       "onboard_time": 1725938299,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60630,
-      "num": 566552,
-      "word": "游客给差评商家带人上门威胁",
-      "onboard_time": 1726240222,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -18713,14 +18761,6 @@
       "onboard_time": 1726065262,
       "rank": 20,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 21702,
-      "num": 23786,
-      "word": "长乐曲",
-      "onboard_time": 1725822732,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 21566,

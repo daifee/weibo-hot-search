@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/13 23:39:17
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/14 00:25:48
 </p>
 </blockquote>
 <p>
@@ -3459,6 +3459,12 @@ iPhone16仍有4款型号（热度：789396）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E8%A2%AB%E6%8C%87%E4%B8%8D%E8%AE%A2%E5%A5%B6%E8%A6%81%E6%8F%90%E4%BE%9B%E8%BF%87%E6%95%8F%E8%AF%81%E6%98%8E%23" target="weibo">
+中学被指不订奶要提供过敏证明（热度：770844）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%A0%94%E5%8F%91%E5%87%BA%E7%88%AC%E6%A5%BC%E8%BD%AE%E6%A4%85%23" target="weibo">
 韩国研发出爬楼轮椅（热度：769891）
 </a>
@@ -6005,12 +6011,6 @@ WPS崩了（热度：490620）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2390%E5%90%8E%E7%94%B7%E7%94%9F%E6%88%90%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%9A%84%E9%A2%86%E5%AF%BC%E4%BB%8D%E9%81%AD%E8%A1%80%E8%84%89%E5%8E%8B%E5%88%B6%23" target="weibo">
 90后男生成班主任的领导仍遭血脉压制（热度：480115）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Newjeans%E8%8B%A5%E8%A7%A3%E7%BA%A6%E9%9C%80%E6%94%AF%E4%BB%985000%E4%BA%BF%E9%9F%A9%E5%85%83%23" target="weibo">
-Newjeans若解约需支付5000亿韩元（热度：479963）
 </a>
 </li>
 
