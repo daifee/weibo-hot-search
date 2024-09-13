@@ -1,6 +1,6 @@
 {
   "startTime": 1726244748063,
-  "endTime": 1726256120832,
+  "endTime": 1726258960553,
   "band_list": [
     {
       "raw_hot": 1291321,
@@ -443,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62634,
+      "num": 62634,
+      "word": "英特尔高管让美反华议员破防",
+      "onboard_time": 1726252691,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 62237,
       "num": 71418,
       "word": "K总 搞笑",
@@ -475,20 +483,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30996,
-      "num": 30996,
-      "word": "英特尔高管让美反华议员破防",
-      "onboard_time": 1726252691,
-      "rank": 49,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 30188,
       "num": 30188,
       "word": "周杰伦演唱会被吐槽音响声音小",
       "onboard_time": 1726251433,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 27763,
+      "num": 31109,
+      "word": "陆虎跑着去牵陈曌旭的手",
+      "onboard_time": 1726257013,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 25997,
@@ -515,6 +523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 17538,
+      "num": 52711,
+      "word": "明天周六也要上班",
+      "onboard_time": 1726253592,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14800,
       "num": 67764,
       "word": "母亲去世男孩放学回家哭着喊妈妈",
@@ -523,11 +539,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 8460,
-      "num": 52711,
-      "word": "明天周六也要上班",
-      "onboard_time": 1726253592,
-      "rank": 9,
+      "raw_hot": 14619,
+      "num": 22373,
+      "word": "文昌鸡被台风吹走椰子鸡供不上了",
+      "onboard_time": 1726258212,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10836,
+      "num": 25399,
+      "word": "退休教师去世捐献角膜和遗体",
+      "onboard_time": 1726258930,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8883,
+      "num": 38935,
+      "word": "中秋将有超级月亮",
+      "onboard_time": 1726231821,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
