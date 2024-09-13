@@ -1,6 +1,6 @@
 {
   "startTime": 1726158397527,
-  "endTime": 1726184139661,
+  "endTime": 1726191458245,
   "band_list": [
     {
       "raw_hot": 1526950,
@@ -11,12 +11,36 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1147858,
+      "num": 1183657,
+      "word": "卤味三巨头为什么失宠",
+      "onboard_time": 1726185559,
+      "rank": 0,
+      "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 1132468,
+      "num": 1132468,
+      "word": "丈夫不在家孕8个月妻子背玉米回家",
+      "onboard_time": 1726186939,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1025440,
       "num": 1025440,
       "word": "男子用大方遮掩心虚被司机一眼识破",
       "onboard_time": 1726159157,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 990027,
+      "num": 267730,
+      "word": "体重从40公斤到140公斤都是什么样",
+      "onboard_time": 1726188318,
+      "rank": 20,
+      "category": "运动健身"
     },
     {
       "raw_hot": 827753,
@@ -27,19 +51,75 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 568058,
-      "num": 568058,
+      "raw_hot": 700908,
+      "num": 442786,
+      "word": "付费让大码女孩吃大量食物",
+      "onboard_time": 1726188201,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 645716,
+      "num": 645716,
       "word": "她是第一个挺身而出的人",
       "onboard_time": 1726126520,
       "rank": 3,
       "category": "社会正能量"
     },
     {
+      "raw_hot": 637582,
+      "num": 637582,
+      "word": "男生体检举煎饼抽血一拔针秒开饭",
+      "onboard_time": 1726184656,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 597947,
+      "num": 597947,
+      "word": "军人遭长矛戳嘴瞬间击毙暴徒",
+      "onboard_time": 1726184959,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 566951,
+      "num": 566951,
+      "word": "陆虎陈曌旭丽江举办婚礼",
+      "onboard_time": 1726158556,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 537863,
-      "num": 147490,
+      "num": 168620,
       "word": "女生眼角掉出黑色异物竟是74根眼睫毛",
       "onboard_time": 1726128141,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 535742,
+      "num": 261837,
+      "word": "女生嫌肉末太油拿水涮结果全流走",
+      "onboard_time": 1726185559,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 519878,
+      "num": 519878,
+      "word": "花少再多剪一秒就露馅了",
+      "onboard_time": 1726184179,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 503972,
+      "num": 503972,
+      "word": "台风贝碧嘉",
+      "onboard_time": 1726187420,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -52,7 +132,7 @@
     },
     {
       "raw_hot": 465519,
-      "num": 245378,
+      "num": 276917,
       "word": "宋茜虽然震惊但眼神挪不走一点",
       "onboard_time": 1726182196,
       "rank": 11,
@@ -60,7 +140,7 @@
     },
     {
       "raw_hot": 454269,
-      "num": 241282,
+      "num": 410188,
       "word": "殷世航说韩安冉把孩子带好比什么都强",
       "onboard_time": 1726163532,
       "rank": 23,
@@ -72,6 +152,14 @@
       "word": "月销5000万元的香港月饼香港买不到",
       "onboard_time": 1726147938,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 434456,
+      "num": 434456,
+      "word": "日方公布对NHK中国籍播音员处理结果",
+      "onboard_time": 1726188201,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -99,11 +187,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 371833,
+      "num": 371833,
+      "word": "以为是剪头结果是医美",
+      "onboard_time": 1726185018,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 363354,
       "num": 145247,
       "word": "山东一高校突发男生坠楼事件",
       "onboard_time": 1726143379,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331877,
+      "num": 331877,
+      "word": "女子偷走店家金蟾嘴里含的100块",
+      "onboard_time": 1726187539,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -139,6 +243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 258861,
+      "num": 258861,
+      "word": "英语四六级",
+      "onboard_time": 1726184718,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 256161,
       "num": 256161,
       "word": "24岁生下唐氏综合征患儿母亲发声",
@@ -153,6 +265,22 @@
       "onboard_time": 1726153702,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 242354,
+      "num": 294494,
+      "word": "偶遇王楚然回老家",
+      "onboard_time": 1726185077,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 238955,
+      "num": 238955,
+      "word": "碎花裙女生发声",
+      "onboard_time": 1726187361,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236267,
@@ -187,12 +315,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 219697,
+      "num": 219697,
+      "word": "渤海潍坊港实弹射击",
+      "onboard_time": 1726189519,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203597,
       "num": 203597,
       "word": "王楚钦好猛",
       "onboard_time": 1726144100,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197935,
+      "num": 197935,
+      "word": "东部战区",
+      "onboard_time": 1726188681,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195552,
@@ -209,6 +353,22 @@
       "onboard_time": 1726143139,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 182514,
+      "num": 285618,
+      "word": "HYBE回应NewJeans",
+      "onboard_time": 1726189218,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 176466,
+      "num": 176466,
+      "word": "小狗轻轻地咬了咬主人的手",
+      "onboard_time": 1726188440,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 166143,
@@ -233,6 +393,22 @@
       "onboard_time": 1726146560,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 149138,
+      "num": 149138,
+      "word": "亚运村不少房东不想再降价撤牌不卖了",
+      "onboard_time": 1726188800,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142787,
+      "num": 142787,
+      "word": "每多刷1小时手机视网膜年龄衰老32天",
+      "onboard_time": 1726185559,
+      "rank": 32,
+      "category": "数码,社会新闻"
     },
     {
       "raw_hot": 142702,
@@ -267,6 +443,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126359,
+      "num": 126359,
+      "word": "毕业打工租房现状",
+      "onboard_time": 1726190779,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 124639,
+      "num": 124639,
+      "word": "官方通报教职工吃鲜肉学生吃冻碎肉",
+      "onboard_time": 1726190299,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123783,
       "num": 121394,
       "word": "瑞士选美小姐遭丈夫残忍肢解",
@@ -275,11 +467,35 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114861,
-      "num": 114861,
-      "word": "陆虎陈曌旭丽江举办婚礼",
-      "onboard_time": 1726158556,
-      "rank": 35,
+      "raw_hot": 122074,
+      "num": 122074,
+      "word": "女教授为100元被骗走近100万",
+      "onboard_time": 1726191140,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118396,
+      "num": 154599,
+      "word": "王俊凯一口气认出六个奥特曼",
+      "onboard_time": 1726185858,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 117300,
+      "num": 117300,
+      "word": "台风贝碧嘉中秋期间或将影响华东地区",
+      "onboard_time": 1726170732,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113653,
+      "num": 117725,
+      "word": "偶遇杨幂室外放烟花过生日",
+      "onboard_time": 1726191320,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -291,12 +507,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 107695,
+      "num": 107695,
+      "word": "中国航母上弹射开会",
+      "onboard_time": 1726189160,
+      "rank": 42,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 103177,
       "num": 103177,
       "word": "库里 离开西安",
       "onboard_time": 1726147761,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103022,
+      "num": 103022,
+      "word": "花花玩泥巴变成了小花脸",
+      "onboard_time": 1726191439,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 102038,
+      "num": 102038,
+      "word": "OpenAI发布最强模型o1",
+      "onboard_time": 1726190299,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 101730,
@@ -307,12 +547,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101444,
+      "num": 101444,
+      "word": "男子持刀伤人女生率先上前用伞抵挡",
+      "onboard_time": 1726190659,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 100222,
+      "num": 100222,
+      "word": "首次公开福建舰内部画面",
+      "onboard_time": 1726186218,
+      "rank": 48,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 99015,
       "num": 99015,
       "word": "疑郑州一名校教职工吃鲜肉学生吃冻肉",
       "onboard_time": 1726140619,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97699,
+      "num": 97699,
+      "word": "月饼里的青红丝到底是什么做的",
+      "onboard_time": 1726190180,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 93877,
@@ -427,6 +691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 75877,
+      "num": 444755,
+      "word": "海口交警向救灾解放军敬礼致敬",
+      "onboard_time": 1726190479,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73983,
       "num": 89715,
       "word": "徐冬冬尹子维是怎么找到这个赛道的",
@@ -473,14 +745,6 @@
       "onboard_time": 1726183936,
       "rank": 39,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 54471,
-      "num": 69111,
-      "word": "台风贝碧嘉中秋期间或将影响华东地区",
-      "onboard_time": 1726170732,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50532,
@@ -676,7 +940,7 @@
     },
     {
       "raw_hot": 7082,
-      "num": 387112,
+      "num": 865366,
       "word": "文化中国行赏青铜国宝之美",
       "onboard_time": 1726145660,
       "rank": 2,
