@@ -1,10 +1,10 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726201509606,
+  "endTime": 1726202398685,
   "band_list": [
     {
-      "raw_hot": 23825010,
-      "num": 23825010,
+      "raw_hot": 25924428,
+      "num": 25924428,
       "word": "吴谨言洪尧结婚",
       "onboard_time": 1726199965,
       "rank": 0,
@@ -91,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 4385727,
+      "num": 513132,
+      "word": "洪尧是谁",
+      "onboard_time": 1726200449,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3922176,
       "num": 1760789,
       "word": "花洛莉亚 擦边",
@@ -121,6 +129,14 @@
       "onboard_time": 1726061663,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3874433,
+      "num": 509800,
+      "word": "于正恭喜吴谨言洪尧",
+      "onboard_time": 1726200510,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 3866685,
@@ -203,28 +219,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 3019982,
-      "num": 509800,
-      "word": "于正恭喜吴谨言洪尧",
-      "onboard_time": 1726200510,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 3016886,
       "num": 1528862,
       "word": "金鹰奖删除刘亦菲入围资格",
       "onboard_time": 1725960141,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 3010703,
-      "num": 493929,
-      "word": "洪尧是谁",
-      "onboard_time": 1726200449,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2969722,
@@ -257,6 +257,14 @@
       "onboard_time": 1725240020,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2744326,
+      "num": 506801,
+      "word": "魏璎珞嫁给了弘昼",
+      "onboard_time": 1726200810,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 2714048,
@@ -745,6 +753,14 @@
       "onboard_time": 1725169159,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1785477,
+      "num": 257356,
+      "word": "吴谨言 上升期结婚",
+      "onboard_time": 1726201654,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 1784531,
@@ -1587,14 +1603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1352419,
-      "num": 498637,
-      "word": "魏璎珞嫁给了弘昼",
-      "onboard_time": 1726200810,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1351681,
       "num": 1167629,
       "word": "翟潇闻道歉",
@@ -1936,6 +1944,14 @@
       "word": "莫奈巨作睡莲将在香港拍卖",
       "onboard_time": 1725850219,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1234799,
+      "num": 1234799,
+      "word": "当年选殡葬专业的同学现在怎样了",
+      "onboard_time": 1726196840,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2416,14 +2432,6 @@
       "word": "女子退穿过衣服遭拒怒点火烧掉",
       "onboard_time": 1725698960,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1106183,
-      "num": 1106183,
-      "word": "当年选殡葬专业的同学现在怎样了",
-      "onboard_time": 1726196840,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -3235,6 +3243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 921548,
+      "num": 744285,
+      "word": "陆虎陈曌旭丽江举办婚礼",
+      "onboard_time": 1726158556,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 916202,
       "num": 280298,
       "word": "小杨哥开播回应与辛巴的矛盾",
@@ -3795,6 +3811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 838236,
+      "num": 838236,
+      "word": "12306回应列车员有纹身",
+      "onboard_time": 1726199719,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 837121,
       "num": 837121,
       "word": "WBG战胜JDG",
@@ -4201,14 +4225,6 @@
       "onboard_time": 1725855921,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 787788,
-      "num": 744285,
-      "word": "陆虎陈曌旭丽江举办婚礼",
-      "onboard_time": 1726158556,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 784743,
@@ -5627,14 +5643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 625188,
-      "num": 625188,
-      "word": "12306回应列车员有纹身",
-      "onboard_time": 1726199719,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 624119,
       "num": 624119,
       "word": "国足低调回国",
@@ -5801,6 +5809,14 @@
       "onboard_time": 1725421582,
       "rank": 21,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 612781,
+      "num": 479381,
+      "word": "烈火军校沈听白",
+      "onboard_time": 1726201654,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 611734,
@@ -6979,6 +6995,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 519544,
+      "num": 519544,
+      "word": "空调安装工不系绳坠亡索赔房主百万",
+      "onboard_time": 1726199480,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 519363,
       "num": 519363,
       "word": "山东大学34岁博导突发心梗离世",
@@ -7995,6 +8019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 458941,
+      "num": 458941,
+      "word": "小S回复网友想来内地工作",
+      "onboard_time": 1726199782,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 457214,
       "num": 285660,
       "word": "巨型猫尾惊现郑州街头",
@@ -8201,14 +8233,6 @@
       "onboard_time": 1725526939,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 446554,
-      "num": 446554,
-      "word": "小S回复网友想来内地工作",
-      "onboard_time": 1726199782,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 445745,
@@ -8649,14 +8673,6 @@
       "onboard_time": 1725249680,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 421660,
-      "num": 421660,
-      "word": "空调安装工不系绳坠亡索赔房主百万",
-      "onboard_time": 1726199480,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 420907,
@@ -9169,6 +9185,14 @@
       "onboard_time": 1726036042,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 391447,
+      "num": 391447,
+      "word": "言星举止天塌了",
+      "onboard_time": 1726201896,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 391409,
@@ -9819,6 +9843,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 356200,
+      "num": 356200,
+      "word": "金在中女团",
+      "onboard_time": 1726198280,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 355717,
       "num": 355717,
       "word": "安徽一农商银行突发持刀伤人事件",
@@ -10291,6 +10323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 333839,
+      "num": 333839,
+      "word": "墨雨云间",
+      "onboard_time": 1726201896,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 333219,
       "num": 333219,
       "word": "NINEPERCENT QQ音乐",
@@ -10385,14 +10425,6 @@
       "onboard_time": 1725632362,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 329217,
-      "num": 329217,
-      "word": "金在中女团",
-      "onboard_time": 1726198280,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 329148,
@@ -12059,6 +12091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274861,
+      "num": 274861,
+      "word": "王楚钦孙颖莎今晚单打出战",
+      "onboard_time": 1726199300,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 274831,
       "num": 274831,
       "word": "当饮料的含糖量可视化展示",
@@ -12585,14 +12625,6 @@
       "onboard_time": 1725934639,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 262366,
-      "num": 262366,
-      "word": "王楚钦孙颖莎今晚单打出战",
-      "onboard_time": 1726199300,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 262068,
@@ -14915,6 +14947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222400,
+      "num": 222400,
+      "word": "易烊千玺深V背头",
+      "onboard_time": 1726198820,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 222373,
       "num": 222373,
       "word": "库里 离开西安",
@@ -15249,6 +15289,14 @@
       "onboard_time": 1725255799,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217209,
+      "num": 475225,
+      "word": "杨玏 有的人自带白月光属性",
+      "onboard_time": 1726200992,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 217201,
@@ -16787,6 +16835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201863,
+      "num": 502601,
+      "word": "台风贝碧嘉将在上海到福建沿海登陆",
+      "onboard_time": 1726199659,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201858,
       "num": 201858,
       "word": "iPhone16全系价格对比",
@@ -18211,14 +18267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192639,
-      "num": 192639,
-      "word": "易烊千玺深V背头",
-      "onboard_time": 1726198820,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 192524,
       "num": 192524,
       "word": "杀生丸 绝美的神",
@@ -19003,14 +19051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187433,
-      "num": 467277,
-      "word": "杨玏 有的人自带白月光属性",
-      "onboard_time": 1726200992,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 187408,
       "num": 275763,
       "word": "嫁没嫁对看婆婆态度就知道",
@@ -19225,6 +19265,14 @@
       "onboard_time": 1725808162,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186164,
+      "num": 186164,
+      "word": "春花厌",
+      "onboard_time": 1726202375,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 186160,
@@ -25083,6 +25131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148855,
+      "num": 497743,
+      "word": "小编没想到被全网心疼了",
+      "onboard_time": 1726200327,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148716,
       "num": 148716,
       "word": "雪迷宫 没有感情线",
@@ -30459,14 +30515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101746,
-      "num": 502601,
-      "word": "台风贝碧嘉将在上海到福建沿海登陆",
-      "onboard_time": 1726199659,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101730,
       "num": 101730,
       "word": "Offer6实习生",
@@ -30931,6 +30979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95438,
+      "num": 482105,
+      "word": "看余额宝工资调查害我笑了一下",
+      "onboard_time": 1726200027,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 95403,
       "num": 120279,
       "word": "赵露思英伦针织衫",
@@ -31000,14 +31056,6 @@
       "word": "2024年网络安全宣传周",
       "onboard_time": 1725764599,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94384,
-      "num": 497743,
-      "word": "小编没想到被全网心疼了",
-      "onboard_time": 1726200327,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -31891,14 +31939,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 77241,
-      "num": 478973,
-      "word": "看余额宝工资调查害我笑了一下",
-      "onboard_time": 1726200027,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 77138,
       "num": 77138,
       "word": "六公主报道张翰流光引",
@@ -31968,6 +32008,14 @@
       "word": "国内校服市场超九成都是小工厂",
       "onboard_time": 1725257482,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76439,
+      "num": 484461,
+      "word": "C牌城市的生活到底有多松弛",
+      "onboard_time": 1726200751,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -32185,14 +32233,6 @@
       "onboard_time": 1725748873,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 72308,
-      "num": 484461,
-      "word": "C牌城市的生活到底有多松弛",
-      "onboard_time": 1726200751,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72246,
@@ -32457,6 +32497,14 @@
       "onboard_time": 1725928699,
       "rank": 9,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 67252,
+      "num": 470417,
+      "word": "Gap过的年轻人被职场抛弃了吗",
+      "onboard_time": 1726201113,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67061,
@@ -33076,7 +33124,7 @@
     },
     {
       "raw_hot": 57895,
-      "num": 333508,
+      "num": 350705,
       "word": "韩总统尹锡悦支持率降至上任来最低",
       "onboard_time": 1726201473,
       "rank": 29,
@@ -33120,14 +33168,6 @@
       "word": "侵华日军标本室有胎儿还在子宫里",
       "onboard_time": 1725300433,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57112,
-      "num": 461919,
-      "word": "Gap过的年轻人被职场抛弃了吗",
-      "onboard_time": 1726201113,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -35052,7 +35092,7 @@
     },
     {
       "raw_hot": 37143,
-      "num": 452305,
+      "num": 464564,
       "word": "乐道L60能耗反向虚标",
       "onboard_time": 1726198459,
       "rank": 47,
@@ -35088,6 +35128,14 @@
       "word": "秋台风摩羯过境后被截断的生计",
       "onboard_time": 1725850940,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36956,
+      "num": 257856,
+      "word": "迎接你的中秋圆满时刻",
+      "onboard_time": 1726202075,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -36524,7 +36572,7 @@
     },
     {
       "raw_hot": 25683,
-      "num": 231097,
+      "num": 466811,
       "word": "水之蔻身体美白届黑马",
       "onboard_time": 1726200992,
       "rank": 38,
@@ -37628,7 +37676,7 @@
     },
     {
       "raw_hot": 15051,
-      "num": 224471,
+      "num": 257221,
       "word": "来抖音商城庆祝满月时刻",
       "onboard_time": 1726200027,
       "rank": 39,
@@ -37713,6 +37761,14 @@
       "onboard_time": 1725948320,
       "rank": 38,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 14052,
+      "num": 258074,
+      "word": "波司登真的很懂年轻人的自洽",
+      "onboard_time": 1726202075,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 13889,

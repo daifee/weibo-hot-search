@@ -1,0 +1,410 @@
+{
+  "runTime": 1726202398685,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 25924428,
+        "num": 25924428,
+        "word": "吴谨言洪尧结婚",
+        "onboard_time": 1726199965,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1234799,
+        "num": 1234799,
+        "word": "当年选殡葬专业的同学现在怎样了",
+        "onboard_time": 1726196840,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10903,
+        "num": 1016531,
+        "word": "人民军队淬火向前",
+        "onboard_time": 1726081931,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 838236,
+        "num": 838236,
+        "word": "12306回应列车员有纹身",
+        "onboard_time": 1726199719,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519544,
+        "num": 519544,
+        "word": "空调安装工不系绳坠亡索赔房主百万",
+        "onboard_time": 1726199480,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4385727,
+        "num": 513132,
+        "word": "洪尧是谁",
+        "onboard_time": 1726200449,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2744326,
+        "num": 506801,
+        "word": "魏璎珞嫁给了弘昼",
+        "onboard_time": 1726200810,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1316950,
+        "num": 504698,
+        "word": "陈赫在国外被盗2次",
+        "onboard_time": 1726198220,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 495233,
+        "num": 495233,
+        "word": "山姆冰鲜带鱼捕捞日期撞上摩羯过境日",
+        "onboard_time": 1726192279,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367385,
+        "num": 493789,
+        "word": "杀妻欲藏尸冰柜案凶手已被核准死刑",
+        "onboard_time": 1726191018,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3874433,
+        "num": 491495,
+        "word": "于正恭喜吴谨言洪尧",
+        "onboard_time": 1726200510,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 921548,
+        "num": 489012,
+        "word": "陆虎陈曌旭丽江举办婚礼",
+        "onboard_time": 1726158556,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 621246,
+        "num": 487054,
+        "word": "金价又发疯",
+        "onboard_time": 1726193659,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 76439,
+        "num": 484434,
+        "word": "C牌城市的生活到底有多松弛",
+        "onboard_time": 1726200751,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95438,
+        "num": 482105,
+        "word": "看余额宝工资调查害我笑了一下",
+        "onboard_time": 1726200027,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 612781,
+        "num": 479381,
+        "word": "烈火军校沈听白",
+        "onboard_time": 1726201654,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 544061,
+        "num": 476859,
+        "word": "金饰价格冲到761元每克",
+        "onboard_time": 1726195819,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 217209,
+        "num": 475225,
+        "word": "杨玏 有的人自带白月光属性",
+        "onboard_time": 1726200992,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355589,
+        "num": 472784,
+        "word": "付费让大码女孩吃大量食物",
+        "onboard_time": 1726188201,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67252,
+        "num": 470417,
+        "word": "Gap过的年轻人被职场抛弃了吗",
+        "onboard_time": 1726201113,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24168,
+        "num": 466811,
+        "word": "水之蔻身体美白届黑马",
+        "onboard_time": 1726200992,
+        "rank": 20,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 11644,
+        "num": 464564,
+        "word": "乐道L60能耗反向虚标",
+        "onboard_time": 1726198459,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 514994,
+        "num": 463131,
+        "word": "女孩生理期以为自己得了绝症",
+        "onboard_time": 1726193058,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 513684,
+        "num": 459654,
+        "word": "黄景瑜王一博 一点CP感都没有",
+        "onboard_time": 1726196480,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458941,
+        "num": 458941,
+        "word": "小S回复网友想来内地工作",
+        "onboard_time": 1726199782,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400375,
+        "num": 400375,
+        "word": "丈夫不在家孕8个月妻子背玉米回家",
+        "onboard_time": 1726186939,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391447,
+        "num": 391447,
+        "word": "言星举止天塌了",
+        "onboard_time": 1726201896,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367533,
+        "num": 367533,
+        "word": "张峻豪 暂停活动",
+        "onboard_time": 1726191858,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356200,
+        "num": 356200,
+        "word": "金在中女团",
+        "onboard_time": 1726198280,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 34308,
+        "num": 350705,
+        "word": "韩总统尹锡悦支持率降至上任来最低",
+        "onboard_time": 1726201473,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350105,
+        "num": 350105,
+        "word": "91年小伙想要女儿却连生6个儿子",
+        "onboard_time": 1726196178,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333839,
+        "num": 333839,
+        "word": "墨雨云间",
+        "onboard_time": 1726201896,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279335,
+        "num": 279335,
+        "word": "卤味三巨头为什么失宠",
+        "onboard_time": 1726185559,
+        "rank": 32,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 274861,
+        "num": 274861,
+        "word": "王楚钦孙颖莎今晚单打出战",
+        "onboard_time": 1726199300,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258198,
+        "num": 258198,
+        "word": "山姆售卖带鱼台风天捕捞引质疑",
+        "onboard_time": 1726194680,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14052,
+        "num": 258074,
+        "word": "波司登真的很懂年轻人的自洽",
+        "onboard_time": 1726202075,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36956,
+        "num": 257856,
+        "word": "迎接你的中秋圆满时刻",
+        "onboard_time": 1726202075,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148855,
+        "num": 257662,
+        "word": "小编没想到被全网心疼了",
+        "onboard_time": 1726200327,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1785477,
+        "num": 257356,
+        "word": "吴谨言 上升期结婚",
+        "onboard_time": 1726201654,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13924,
+        "num": 257221,
+        "word": "来抖音商城庆祝满月时刻",
+        "onboard_time": 1726200027,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 257046,
+        "num": 257046,
+        "word": "雨霖铃",
+        "onboard_time": 1726197859,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255488,
+        "num": 255488,
+        "word": "新型战机已在辽宁舰放飞",
+        "onboard_time": 1726192999,
+        "rank": 41,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 230817,
+        "num": 230817,
+        "word": "Newjeans若解约需支付5000亿韩元",
+        "onboard_time": 1726193719,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222400,
+        "num": 222400,
+        "word": "易烊千玺深V背头",
+        "onboard_time": 1726198820,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39304,
+        "num": 218413,
+        "word": "王俊凯掌管白色造型的神",
+        "onboard_time": 1726196659,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218373,
+        "num": 218373,
+        "word": "女生嫌肉末太油拿水涮结果全流走",
+        "onboard_time": 1726185559,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210443,
+        "num": 210443,
+        "word": "工作时间办业务4个窗口3人不在岗",
+        "onboard_time": 1726194978,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207243,
+        "num": 207243,
+        "word": "女子偷走店家金蟾嘴里含的100块",
+        "onboard_time": 1726187539,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201863,
+        "num": 201863,
+        "word": "台风贝碧嘉将在上海到福建沿海登陆",
+        "onboard_time": 1726199659,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186164,
+        "num": 186164,
+        "word": "春花厌",
+        "onboard_time": 1726202375,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向第十一届北京香山论坛致贺信#"
+    }
+  }
+}

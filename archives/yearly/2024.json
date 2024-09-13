@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1726201509606,
+  "endTime": 1726202398685,
   "band_list": [
     {
       "raw_hot": 37697626,
@@ -107,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25924428,
+      "num": 25924428,
+      "word": "吴谨言洪尧结婚",
+      "onboard_time": 1726199965,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25457152,
       "num": 25457152,
       "word": "王楚钦孙颖莎vs李正植金琴英",
@@ -121,14 +129,6 @@
       "onboard_time": 1717729999,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 23825010,
-      "num": 23825010,
-      "word": "吴谨言洪尧结婚",
-      "onboard_time": 1726199965,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 23477677,
