@@ -1,6 +1,6 @@
 {
   "startTime": 1726158397527,
-  "endTime": 1726192456479,
+  "endTime": 1726195687619,
   "band_list": [
     {
       "raw_hot": 1526950,
@@ -9,6 +9,14 @@
       "onboard_time": 1726154540,
       "rank": 0,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1204738,
+      "num": 1204738,
+      "word": "女孩生理期以为自己得了绝症",
+      "onboard_time": 1726193058,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1147858,
@@ -51,6 +59,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 837082,
+      "num": 798504,
+      "word": "杀妻欲藏尸冰柜案凶手已被核准死刑",
+      "onboard_time": 1726191018,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 827753,
       "num": 827753,
       "word": "直播间卖香港月饼称99元3盒",
@@ -59,8 +75,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 756008,
-      "num": 756008,
+      "raw_hot": 816448,
+      "num": 816448,
+      "word": "金价又发疯",
+      "onboard_time": 1726193659,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 798242,
+      "num": 798242,
       "word": "付费让大码女孩吃大量食物",
       "onboard_time": 1726188201,
       "rank": 10,
@@ -99,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 543857,
+      "num": 543857,
+      "word": "女教授为100元被骗走近100万",
+      "onboard_time": 1726191140,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 537863,
       "num": 168620,
       "word": "女生眼角掉出黑色异物竟是74根眼睫毛",
@@ -121,6 +153,22 @@
       "onboard_time": 1726187420,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 490567,
+      "num": 490567,
+      "word": "张峻豪 暂停活动",
+      "onboard_time": 1726191858,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 472568,
+      "num": 472568,
+      "word": "Newjeans若解约需支付5000亿韩元",
+      "onboard_time": 1726193719,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 471519,
@@ -203,12 +251,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 363698,
+      "num": 363698,
+      "word": "偶遇杨幂室外放烟花过生日",
+      "onboard_time": 1726191320,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 363354,
       "num": 145247,
       "word": "山东一高校突发男生坠楼事件",
       "onboard_time": 1726143379,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318190,
+      "num": 318190,
+      "word": "新型战机已在辽宁舰放飞",
+      "onboard_time": 1726192999,
+      "rank": 13,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 300484,
@@ -233,14 +297,6 @@
       "onboard_time": 1726157777,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 269214,
-      "num": 269214,
-      "word": "偶遇杨幂室外放烟花过生日",
-      "onboard_time": 1726191320,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 268489,
@@ -315,6 +371,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 228334,
+      "num": 228334,
+      "word": "电影志愿军",
+      "onboard_time": 1726193840,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 225273,
       "num": 225273,
       "word": "LNG回应Scout无法参加S14",
@@ -339,12 +403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218626,
-      "num": 266873,
-      "word": "张峻豪 暂停活动",
-      "onboard_time": 1726191858,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 205614,
+      "num": 205614,
+      "word": "曹璐音银上班路透",
+      "onboard_time": 1726195580,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 203597,
@@ -353,14 +417,6 @@
       "onboard_time": 1726144100,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 197615,
-      "num": 197615,
-      "word": "女教授为100元被骗走近100万",
-      "onboard_time": 1726191140,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195552,
@@ -379,6 +435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187431,
+      "num": 302649,
+      "word": "山姆冰鲜带鱼捕捞日期撞上摩羯过境日",
+      "onboard_time": 1726192279,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184420,
       "num": 175574,
       "word": "官方通报教职工吃鲜肉学生吃冻碎肉",
@@ -393,6 +457,14 @@
       "onboard_time": 1726189218,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176743,
+      "num": 176743,
+      "word": "国安部提醒警惕天降桃花运",
+      "onboard_time": 1726194799,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176466,
@@ -419,11 +491,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 156106,
-      "num": 156106,
-      "word": "杀妻欲藏尸冰柜案凶手已被核准死刑",
-      "onboard_time": 1726191018,
-      "rank": 34,
+      "raw_hot": 156354,
+      "num": 156354,
+      "word": "俄罗斯总统普京会见王毅",
+      "onboard_time": 1726192221,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 151703,
+      "num": 151703,
+      "word": "亚运村不少房东不想再降价撤牌不卖了",
+      "onboard_time": 1726188800,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -443,12 +523,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 149138,
-      "num": 149138,
-      "word": "亚运村不少房东不想再降价撤牌不卖了",
-      "onboard_time": 1726188800,
-      "rank": 31,
+      "raw_hot": 147855,
+      "num": 147855,
+      "word": "台风贝碧嘉中秋期间或将影响华东地区",
+      "onboard_time": 1726170732,
+      "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147611,
+      "num": 147611,
+      "word": "四六级报名",
+      "onboard_time": 1726194199,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 142787,
@@ -467,12 +555,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140229,
+      "num": 140229,
+      "word": "iPhone16今晚8点预售",
+      "onboard_time": 1726195400,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 134311,
       "num": 134311,
       "word": "胡歌刘涛琅琊榜售后",
       "onboard_time": 1726149502,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133136,
+      "num": 133136,
+      "word": "NewJeans违约金",
+      "onboard_time": 1726195519,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 132057,
@@ -491,11 +595,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127584,
+      "num": 480083,
+      "word": "台风贝碧嘉或将成为最强中秋台风",
+      "onboard_time": 1726192999,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123783,
       "num": 121394,
       "word": "瑞士选美小姐遭丈夫残忍肢解",
       "onboard_time": 1726144700,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119242,
+      "num": 119242,
+      "word": "山姆售卖带鱼台风天捕捞引质疑",
+      "onboard_time": 1726194680,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -507,14 +627,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 117300,
-      "num": 117300,
-      "word": "台风贝碧嘉中秋期间或将影响华东地区",
-      "onboard_time": 1726170732,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113125,
       "num": 113125,
       "word": "中国航母上弹射开会",
@@ -523,20 +635,28 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 113001,
+      "num": 251746,
+      "word": "工作时间办业务4个窗口3人不在岗",
+      "onboard_time": 1726194978,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110372,
+      "num": 110372,
+      "word": "程苗苗强小娃小学鸡吵架",
+      "onboard_time": 1726195638,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109866,
       "num": 109866,
       "word": "Scout经纪公司喊话EDG",
       "onboard_time": 1726145720,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 107026,
-      "num": 107026,
-      "word": "俄罗斯总统普京会见王毅",
-      "onboard_time": 1726192221,
-      "rank": 42,
-      "category": "国外时政"
     },
     {
       "raw_hot": 103564,
@@ -553,14 +673,6 @@
       "onboard_time": 1726147761,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 103072,
-      "num": 103072,
-      "word": "山姆冰鲜带鱼捕捞日期撞上摩羯过境日",
-      "onboard_time": 1726192279,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102318,
@@ -615,6 +727,14 @@
       "num": 99015,
       "word": "疑郑州一名校教职工吃鲜肉学生吃冻肉",
       "onboard_time": 1726140619,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97427,
+      "num": 152009,
+      "word": "官方通报398元烫发套餐结账成2477元",
+      "onboard_time": 1726193599,
       "rank": 36,
       "category": "社会新闻"
     },

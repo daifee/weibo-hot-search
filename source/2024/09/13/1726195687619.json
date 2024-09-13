@@ -1,0 +1,410 @@
+{
+  "runTime": 1726195687619,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1204738,
+        "num": 1204738,
+        "word": "女孩生理期以为自己得了绝症",
+        "onboard_time": 1726193058,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 816448,
+        "num": 816448,
+        "word": "金价又发疯",
+        "onboard_time": 1726193659,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 4393,
+        "num": 798566,
+        "word": "文化中国行赏青铜国宝之美",
+        "onboard_time": 1726145660,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837082,
+        "num": 798504,
+        "word": "杀妻欲藏尸冰柜案凶手已被核准死刑",
+        "onboard_time": 1726191018,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 798242,
+        "num": 798242,
+        "word": "付费让大码女孩吃大量食物",
+        "onboard_time": 1726188201,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 658831,
+        "num": 658831,
+        "word": "陆虎陈曌旭丽江举办婚礼",
+        "onboard_time": 1726158556,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543857,
+        "num": 543857,
+        "word": "女教授为100元被骗走近100万",
+        "onboard_time": 1726191140,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490567,
+        "num": 490567,
+        "word": "张峻豪 暂停活动",
+        "onboard_time": 1726191858,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127584,
+        "num": 480083,
+        "word": "台风贝碧嘉或将成为最强中秋台风",
+        "onboard_time": 1726192999,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452230,
+        "num": 472888,
+        "word": "她是第一个挺身而出的人",
+        "onboard_time": 1726126520,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 472568,
+        "num": 472568,
+        "word": "Newjeans若解约需支付5000亿韩元",
+        "onboard_time": 1726193719,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452288,
+        "num": 452288,
+        "word": "卤味三巨头为什么失宠",
+        "onboard_time": 1726185559,
+        "rank": 11,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 363698,
+        "num": 363698,
+        "word": "偶遇杨幂室外放烟花过生日",
+        "onboard_time": 1726191320,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318190,
+        "num": 318190,
+        "word": "新型战机已在辽宁舰放飞",
+        "onboard_time": 1726192999,
+        "rank": 13,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 187431,
+        "num": 302649,
+        "word": "山姆冰鲜带鱼捕捞日期撞上摩羯过境日",
+        "onboard_time": 1726192279,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294695,
+        "num": 294695,
+        "word": "军人遭长矛戳嘴瞬间击毙暴徒",
+        "onboard_time": 1726184959,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283470,
+        "num": 283470,
+        "word": "女子偷走店家金蟾嘴里含的100块",
+        "onboard_time": 1726187539,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276867,
+        "num": 276867,
+        "word": "花少再多剪一秒就露馅了",
+        "onboard_time": 1726184179,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260693,
+        "num": 260693,
+        "word": "男生体检举煎饼抽血一拔针秒开饭",
+        "onboard_time": 1726184656,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113001,
+        "num": 251746,
+        "word": "工作时间办业务4个窗口3人不在岗",
+        "onboard_time": 1726194978,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 850918,
+        "num": 250719,
+        "word": "丈夫不在家孕8个月妻子背玉米回家",
+        "onboard_time": 1726186939,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520729,
+        "num": 249236,
+        "word": "体重从40公斤到140公斤都是什么样",
+        "onboard_time": 1726188318,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 243573,
+        "num": 243573,
+        "word": "女生嫌肉末太油拿水涮结果全流走",
+        "onboard_time": 1726185559,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228334,
+        "num": 228334,
+        "word": "电影志愿军",
+        "onboard_time": 1726193840,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223794,
+        "num": 223794,
+        "word": "以为是剪头结果是医美",
+        "onboard_time": 1726185018,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223397,
+        "num": 223397,
+        "word": "台风贝碧嘉",
+        "onboard_time": 1726187420,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215988,
+        "num": 215988,
+        "word": "日方公布对NHK中国籍播音员处理结果",
+        "onboard_time": 1726188201,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208945,
+        "num": 208945,
+        "word": "渤海潍坊港实弹射击",
+        "onboard_time": 1726189519,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205614,
+        "num": 205614,
+        "word": "曹璐音银上班路透",
+        "onboard_time": 1726195580,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197442,
+        "num": 197442,
+        "word": "月销5000万元的香港月饼香港买不到",
+        "onboard_time": 1726147938,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176743,
+        "num": 176743,
+        "word": "国安部提醒警惕天降桃花运",
+        "onboard_time": 1726194799,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165292,
+        "num": 165292,
+        "word": "殷世航说韩安冉把孩子带好比什么都强",
+        "onboard_time": 1726163532,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 162261,
+        "num": 162261,
+        "word": "HYBE回应NewJeans",
+        "onboard_time": 1726189218,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157827,
+        "num": 157827,
+        "word": "官方通报教职工吃鲜肉学生吃冻碎肉",
+        "onboard_time": 1726190299,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156354,
+        "num": 156354,
+        "word": "俄罗斯总统普京会见王毅",
+        "onboard_time": 1726192221,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 154968,
+        "num": 154968,
+        "word": "男子用大方遮掩心虚被司机一眼识破",
+        "onboard_time": 1726159157,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97427,
+        "num": 152009,
+        "word": "官方通报398元烫发套餐结账成2477元",
+        "onboard_time": 1726193599,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151703,
+        "num": 151703,
+        "word": "亚运村不少房东不想再降价撤牌不卖了",
+        "onboard_time": 1726188800,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150541,
+        "num": 150541,
+        "word": "东部战区",
+        "onboard_time": 1726188681,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147855,
+        "num": 147855,
+        "word": "台风贝碧嘉中秋期间或将影响华东地区",
+        "onboard_time": 1726170732,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147611,
+        "num": 147611,
+        "word": "四六级报名",
+        "onboard_time": 1726194199,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 140229,
+        "num": 140229,
+        "word": "iPhone16今晚8点预售",
+        "onboard_time": 1726195400,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133136,
+        "num": 133136,
+        "word": "NewJeans违约金",
+        "onboard_time": 1726195519,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131039,
+        "num": 131039,
+        "word": "偶遇王楚然回老家",
+        "onboard_time": 1726185077,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125617,
+        "num": 125617,
+        "word": "小狗轻轻地咬了咬主人的手",
+        "onboard_time": 1726188440,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119678,
+        "num": 119678,
+        "word": "毕业打工租房现状",
+        "onboard_time": 1726190779,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119242,
+        "num": 119242,
+        "word": "山姆售卖带鱼台风天捕捞引质疑",
+        "onboard_time": 1726194680,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118187,
+        "num": 118187,
+        "word": "女生眼角掉出黑色异物竟是74根眼睫毛",
+        "onboard_time": 1726128141,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110372,
+        "num": 110372,
+        "word": "程苗苗强小娃小学鸡吵架",
+        "onboard_time": 1726195638,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109045,
+        "num": 109045,
+        "word": "宋茜虽然震惊但眼神挪不走一点",
+        "onboard_time": 1726182196,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在甘肃兰州考察调研#"
+    }
+  }
+}
