@@ -1,6 +1,6 @@
 {
   "startTime": 1726158397527,
-  "endTime": 1726226327637,
+  "endTime": 1726227343325,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -755,6 +755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 349365,
+      "num": 349365,
+      "word": "陈幸同vs张本美和",
+      "onboard_time": 1726224021,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 347827,
       "num": 347827,
       "word": "梁靖崑止步澳门赛8强",
@@ -792,6 +800,14 @@
       "word": "天津上空现巨大黑圈系公园表演产生",
       "onboard_time": 1726203577,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322105,
+      "num": 322105,
+      "word": "男子收60万儿子死亡赔偿款全转给弟弟",
+      "onboard_time": 1726227020,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -891,12 +907,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 284123,
-      "num": 284123,
-      "word": "陈幸同vs张本美和",
-      "onboard_time": 1726224021,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 280305,
+      "num": 392042,
+      "word": "一声老公魏大勋后槽牙都咬紧了",
+      "onboard_time": 1726224981,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 274861,
@@ -931,12 +947,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 261304,
-      "num": 392042,
-      "word": "一声老公魏大勋后槽牙都咬紧了",
-      "onboard_time": 1726224981,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 259893,
+      "num": 259893,
+      "word": "女子在超市捞鱼被刺致八级伤残",
+      "onboard_time": 1726226961,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259546,
@@ -1145,6 +1161,14 @@
       "onboard_time": 1726119920,
       "rank": 15,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 221699,
+      "num": 221699,
+      "word": "陈幸同1比3张本美和",
+      "onboard_time": 1726226781,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 219697,
@@ -1515,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178487,
+      "num": 178487,
+      "word": "流水迢迢定档",
+      "onboard_time": 1726227261,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178030,
       "num": 178030,
       "word": "孙千 成长型95花",
@@ -1625,6 +1657,14 @@
       "onboard_time": 1726195400,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 162730,
+      "num": 162730,
+      "word": "林俊杰重庆抢票",
+      "onboard_time": 1726226961,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 162225,
@@ -1865,6 +1905,14 @@
       "onboard_time": 1726195519,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134816,
+      "num": 134816,
+      "word": "阿姨喊话王俊凯成为河南女婿",
+      "onboard_time": 1726226842,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 134311,
@@ -2299,6 +2347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73627,
+      "num": 353886,
+      "word": "今晚买iPhone16可用花呗24期免息",
+      "onboard_time": 1726223541,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 73085,
       "num": 248689,
       "word": "朱丹 付航颜粉",
@@ -2425,14 +2481,6 @@
       "onboard_time": 1726214605,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55921,
-      "num": 353886,
-      "word": "今晚买iPhone16可用花呗24期免息",
-      "onboard_time": 1726223541,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 55232,
@@ -2571,6 +2619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43928,
+      "num": 332225,
+      "word": "妇联回应离异女子把1岁娃锁家里",
+      "onboard_time": 1726226900,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43226,
       "num": 43226,
       "word": "哈啰回应乘客打车后被免密扣款21笔",
@@ -2651,6 +2707,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 39353,
+      "num": 399651,
+      "word": "大勺哥说要对得起退伍军人身份",
+      "onboard_time": 1726225700,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38264,
+      "num": 375387,
+      "word": "付航喊了16个月passion",
+      "onboard_time": 1726223361,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 37861,
       "num": 813950,
       "word": "贵州茅台股价跌破1300元整数关口",
@@ -2707,19 +2779,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34310,
+      "num": 118562,
+      "word": "华为三折手机反折会怎样",
+      "onboard_time": 1726223781,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 34265,
       "num": 1201004,
       "word": "一块钱上清华",
       "onboard_time": 1726215804,
       "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 33977,
-      "num": 375387,
-      "word": "付航喊了16个月passion",
-      "onboard_time": 1726223361,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -2747,14 +2819,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 29703,
-      "num": 399651,
-      "word": "大勺哥说要对得起退伍军人身份",
-      "onboard_time": 1726225700,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 29697,
       "num": 296713,
       "word": "孙颖莎朱芊曦争4强",
@@ -2777,14 +2841,6 @@
       "onboard_time": 1726168393,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 27521,
-      "num": 118562,
-      "word": "华为三折手机反折会怎样",
-      "onboard_time": 1726223781,
-      "rank": 47,
-      "category": "数码"
     },
     {
       "raw_hot": 27267,
@@ -2811,6 +2867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23669,
+      "num": 360853,
+      "word": "科技大厂广告用词绝对化涉嫌违法",
+      "onboard_time": 1726225880,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22904,
       "num": 655987,
       "word": "毛坯户外人有自己的精装朋友圈",
@@ -2825,14 +2889,6 @@
       "onboard_time": 1726203636,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 20109,
-      "num": 360853,
-      "word": "科技大厂广告用词绝对化涉嫌违法",
-      "onboard_time": 1726225880,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20078,
@@ -2883,6 +2939,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 11704,
+      "num": 383420,
+      "word": "陈震突袭新浪健身房battle",
+      "onboard_time": 1726226120,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 10903,
       "num": 5415357,
       "word": "人民军队淬火向前",
@@ -2899,20 +2963,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 9962,
+      "num": 281370,
+      "word": "女孩走出大山的第一步",
+      "onboard_time": 1726227321,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 9564,
+      "num": 281252,
+      "word": "黄景瑜好会演这种大哥角色",
+      "onboard_time": 1726227203,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 8948,
       "num": 269743,
       "word": "卓沅海边可美可美了",
       "onboard_time": 1726216584,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 8676,
-      "num": 383420,
-      "word": "陈震突袭新浪健身房battle",
-      "onboard_time": 1726226120,
-      "rank": 14,
-      "category": "汽车"
     },
     {
       "raw_hot": 7476,
