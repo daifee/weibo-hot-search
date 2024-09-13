@@ -1,6 +1,6 @@
 {
   "startTime": 1726158397527,
-  "endTime": 1726212102052,
+  "endTime": 1726212904804,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -11,7 +11,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 20788176,
+      "raw_hot": 20859026,
       "num": 21869159,
       "word": "逐步延至男63女55或58周岁退休",
       "onboard_time": 1726209742,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1687434,
+      "num": 1687434,
+      "word": "自愿选择弹性提前退休",
+      "onboard_time": 1726211127,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1641458,
       "num": 1115575,
       "word": "金价又发疯",
@@ -129,14 +137,6 @@
       "onboard_time": 1726193058,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1155558,
-      "num": 1155558,
-      "word": "自愿选择弹性提前退休",
-      "onboard_time": 1726211127,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1147858,
@@ -523,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 371769,
+      "num": 371769,
+      "word": "白鹿出发陆虎婚礼",
+      "onboard_time": 1726209742,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 363698,
       "num": 363698,
       "word": "偶遇杨幂室外放烟花过生日",
@@ -555,12 +563,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 327094,
-      "num": 327094,
-      "word": "白鹿出发陆虎婚礼",
-      "onboard_time": 1726209742,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 332042,
+      "num": 332042,
+      "word": "749局",
+      "onboard_time": 1726210105,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 323611,
@@ -633,14 +641,6 @@
       "onboard_time": 1726157777,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 279520,
-      "num": 279520,
-      "word": "749局",
-      "onboard_time": 1726210105,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 274861,
@@ -852,11 +852,19 @@
     },
     {
       "raw_hot": 214909,
-      "num": 214909,
+      "num": 328887,
       "word": "于正说七年了再多考验也修成正果了",
       "onboard_time": 1726204889,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210987,
+      "num": 210987,
+      "word": "虞书欣 大唐富贵花",
+      "onboard_time": 1726210766,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 210590,
@@ -891,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204939,
+      "num": 204939,
+      "word": "怎么查自己的法定退休年龄",
+      "onboard_time": 1726212385,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 203597,
       "num": 203597,
       "word": "王楚钦好猛",
@@ -905,6 +921,14 @@
       "onboard_time": 1726196059,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 202264,
+      "num": 202264,
+      "word": "WTT",
+      "onboard_time": 1726211966,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 201863,
@@ -929,14 +953,6 @@
       "onboard_time": 1726208243,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198181,
-      "num": 198181,
-      "word": "虞书欣 大唐富贵花",
-      "onboard_time": 1726210766,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 197923,
@@ -969,6 +985,14 @@
       "onboard_time": 1726203994,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192745,
+      "num": 192745,
+      "word": "孙俪发博为陶昕然新片打call",
+      "onboard_time": 1726212206,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 190628,
@@ -1203,8 +1227,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150535,
-      "num": 150535,
+      "raw_hot": 153491,
+      "num": 153491,
       "word": "秋招",
       "onboard_time": 1726210345,
       "rank": 36,
@@ -1355,14 +1379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 124767,
-      "num": 124767,
-      "word": "WTT",
-      "onboard_time": 1726211966,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 123783,
       "num": 121394,
       "word": "瑞士选美小姐遭丈夫残忍肢解",
@@ -1379,12 +1395,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121040,
+      "num": 121040,
+      "word": "女乒出了个孙颖莎",
+      "onboard_time": 1726212565,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118396,
       "num": 175580,
       "word": "王俊凯一口气认出六个奥特曼",
       "onboard_time": 1726185858,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115478,
+      "num": 115478,
+      "word": "坠落春夜",
+      "onboard_time": 1726212445,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 113125,
@@ -1409,6 +1441,14 @@
       "onboard_time": 1726208663,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110731,
+      "num": 110731,
+      "word": "未定事件簿",
+      "onboard_time": 1726212625,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 110372,
@@ -1475,12 +1515,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 101281,
+      "num": 101281,
+      "word": "韩国推单人家庭中秋盒饭",
+      "onboard_time": 1726212445,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 100222,
       "num": 100222,
       "word": "首次公开福建舰内部画面",
       "onboard_time": 1726186218,
       "rank": 48,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 99732,
+      "num": 99732,
+      "word": "梁靖崑止步澳门赛8强",
+      "onboard_time": 1726212864,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 99537,
@@ -1683,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71566,
+      "num": 416184,
+      "word": "老人买黄金洗钱以为在帮忙办案",
+      "onboard_time": 1726211189,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69119,
       "num": 69119,
       "word": "殡葬专业新生表示不会害怕",
@@ -1771,20 +1835,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56684,
+      "num": 353929,
+      "word": "艺人身份赋能营销师",
+      "onboard_time": 1726212098,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 55232,
       "num": 69113,
       "word": "几个养发tips",
       "onboard_time": 1726183936,
       "rank": 39,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 55015,
-      "num": 416184,
-      "word": "老人买黄金洗钱以为在帮忙办案",
-      "onboard_time": 1726211189,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53958,

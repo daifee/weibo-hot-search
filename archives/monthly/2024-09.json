@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726212102052,
+  "endTime": 1726212904804,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -11,7 +11,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 20788176,
+      "raw_hot": 20859026,
       "num": 21869159,
       "word": "逐步延至男63女55或58周岁退休",
       "onboard_time": 1726209742,
@@ -961,6 +961,14 @@
       "onboard_time": 1725448879,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1687434,
+      "num": 1687434,
+      "word": "自愿选择弹性提前退休",
+      "onboard_time": 1726211127,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1681822,
@@ -2273,14 +2281,6 @@
       "onboard_time": 1725234016,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1155558,
-      "num": 1155558,
-      "word": "自愿选择弹性提前退休",
-      "onboard_time": 1726211127,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1154594,
@@ -9683,6 +9683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 371769,
+      "num": 371769,
+      "word": "白鹿出发陆虎婚礼",
+      "onboard_time": 1726209742,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 371473,
       "num": 371473,
       "word": "心动的信号女一 元气甜妹",
@@ -10491,6 +10499,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 332042,
+      "num": 332042,
+      "word": "749局",
+      "onboard_time": 1726210105,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 331868,
       "num": 253491,
       "word": "中保研首撞小米SU7",
@@ -10625,14 +10641,6 @@
       "onboard_time": 1725418158,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 327094,
-      "num": 327094,
-      "word": "白鹿出发陆虎婚礼",
-      "onboard_time": 1726209742,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 327037,
@@ -12137,14 +12145,6 @@
       "onboard_time": 1726147819,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 279520,
-      "num": 279520,
-      "word": "749局",
-      "onboard_time": 1726210105,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 278555,
@@ -15676,7 +15676,7 @@
     },
     {
       "raw_hot": 214909,
-      "num": 214909,
+      "num": 328887,
       "word": "于正说七年了再多考验也修成正果了",
       "onboard_time": 1726204889,
       "rank": 41,
@@ -15969,6 +15969,14 @@
       "onboard_time": 1725258979,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210987,
+      "num": 210987,
+      "word": "虞书欣 大唐富贵花",
+      "onboard_time": 1726210766,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 210837,
@@ -16753,6 +16761,14 @@
       "onboard_time": 1725498321,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204939,
+      "num": 204939,
+      "word": "怎么查自己的法定退休年龄",
+      "onboard_time": 1726212385,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 204752,
@@ -17635,14 +17651,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 198181,
-      "num": 198181,
-      "word": "虞书欣 大唐富贵花",
-      "onboard_time": 1726210766,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198174,
       "num": 198174,
       "word": "上海不少市民吐槽电费不正常",
@@ -18505,6 +18513,14 @@
       "onboard_time": 1725590000,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 192745,
+      "num": 192745,
+      "word": "孙俪发博为陶昕然新片打call",
+      "onboard_time": 1726212206,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 192719,
@@ -24803,6 +24819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 153491,
+      "num": 153491,
+      "word": "秋招",
+      "onboard_time": 1726210345,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 153484,
       "num": 153484,
       "word": "不会带团队只能一个人干到死",
@@ -25241,14 +25265,6 @@
       "onboard_time": 1726045161,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150535,
-      "num": 150535,
-      "word": "秋招",
-      "onboard_time": 1726210345,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 150513,
@@ -29299,6 +29315,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 121040,
+      "num": 121040,
+      "word": "女乒出了个孙颖莎",
+      "onboard_time": 1726212565,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121036,
       "num": 121036,
       "word": "五月天成都",
@@ -29817,6 +29841,14 @@
       "onboard_time": 1725846259,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 115478,
+      "num": 115478,
+      "word": "坠落春夜",
+      "onboard_time": 1726212445,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 115444,
@@ -30995,6 +31027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101281,
+      "num": 101281,
+      "word": "韩国推单人家庭中秋盒饭",
+      "onboard_time": 1726212445,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 101267,
       "num": 101267,
       "word": "在学校门口摆摊原来也挺治愈",
@@ -31121,6 +31161,14 @@
       "onboard_time": 1725178098,
       "rank": 15,
       "category": "美食"
+    },
+    {
+      "raw_hot": 99732,
+      "num": 99732,
+      "word": "梁靖崑止步澳门赛8强",
+      "onboard_time": 1726212864,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 99573,
@@ -32739,6 +32787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71566,
+      "num": 416184,
+      "word": "老人买黄金洗钱以为在帮忙办案",
+      "onboard_time": 1726211189,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71519,
       "num": 307551,
       "word": "女生体重卡100有多难",
@@ -33707,6 +33763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56684,
+      "num": 353929,
+      "word": "艺人身份赋能营销师",
+      "onboard_time": 1726212098,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 56669,
       "num": 229765,
       "word": "杨幂华为三折叠首发开箱",
@@ -33864,14 +33928,6 @@
       "word": "天价理发店不能惯着",
       "onboard_time": 1725872839,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55015,
-      "num": 416184,
-      "word": "老人买黄金洗钱以为在帮忙办案",
-      "onboard_time": 1726211189,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
