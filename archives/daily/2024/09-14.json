@@ -1,6 +1,6 @@
 {
   "startTime": 1726244748063,
-  "endTime": 1726269672562,
+  "endTime": 1726270617026,
   "band_list": [
     {
       "raw_hot": 1291321,
@@ -11,8 +11,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1156432,
-      "num": 1156432,
+      "raw_hot": 1218844,
+      "num": 1218844,
       "word": "网友三年前给洪尧的评论",
       "onboard_time": 1726243160,
       "rank": 13,
@@ -27,20 +27,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 847472,
+      "num": 847472,
+      "word": "学校回应唐尚珺舍友全部申请搬宿舍",
+      "onboard_time": 1726269617,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 799488,
+      "num": 799488,
+      "word": "第一次见这么多明星宣传的电影",
+      "onboard_time": 1726250172,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 770844,
       "num": 770844,
       "word": "中学被指不订奶要提供过敏证明",
       "onboard_time": 1726241481,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 747318,
-      "num": 747318,
-      "word": "第一次见这么多明星宣传的电影",
-      "onboard_time": 1726250172,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 713135,
@@ -67,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 517293,
+      "num": 517293,
+      "word": "合肥地震",
+      "onboard_time": 1726269498,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 502120,
       "num": 502120,
       "word": "杀妻欲藏尸冰柜案凶手至死没道歉",
@@ -83,16 +99,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 447431,
-      "num": 447431,
-      "word": "学校回应唐尚珺舍友全部申请搬宿舍",
-      "onboard_time": 1726269617,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 429801,
-      "num": 429801,
+      "raw_hot": 445600,
+      "num": 445600,
       "word": "台风或以巅峰强度登陆浙江",
       "onboard_time": 1726244599,
       "rank": 21,
@@ -107,12 +115,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407780,
+      "num": 312050,
+      "word": "白鹿和陆虎的友谊",
+      "onboard_time": 1726268717,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 407234,
       "num": 407234,
       "word": "iPhone16ProMax秒没",
       "onboard_time": 1726232604,
       "rank": 6,
       "category": "数码"
+    },
+    {
+      "raw_hot": 404408,
+      "num": 311474,
+      "word": "陈楚生和老婆牵手逛街",
+      "onboard_time": 1726269678,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 389106,
@@ -139,24 +163,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 319045,
-      "num": 319045,
-      "word": "合肥地震",
-      "onboard_time": 1726269498,
-      "rank": 7,
+      "raw_hot": 314221,
+      "num": 314221,
+      "word": "极危动物追着濒危动物咬",
+      "onboard_time": 1726248014,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 312258,
-      "num": 278402,
-      "word": "白鹿和陆虎的友谊",
-      "onboard_time": 1726268717,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 296355,
-      "num": 296355,
+      "raw_hot": 310930,
+      "num": 310930,
       "word": "警方回应农妇劳作时遭无故砍杀",
       "onboard_time": 1726237522,
       "rank": 28,
@@ -179,12 +195,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 273013,
-      "num": 273013,
-      "word": "极危动物追着濒危动物咬",
-      "onboard_time": 1726248014,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 268173,
+      "num": 268173,
+      "word": "小米回应摄像头里惊现陌生男子说话",
+      "onboard_time": 1726220962,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 263131,
@@ -267,12 +283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 174835,
-      "num": 174835,
-      "word": "小米回应摄像头里惊现陌生男子说话",
-      "onboard_time": 1726220962,
+      "raw_hot": 184271,
+      "num": 184271,
+      "word": "台风",
+      "onboard_time": 1726269557,
       "rank": 24,
-      "category": "互联网"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172093,
@@ -291,6 +307,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149090,
+      "num": 149090,
+      "word": "女生被扎218针为何未达校园霸凌标准",
+      "onboard_time": 1726246815,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147046,
+      "num": 144971,
+      "word": "周六上班上出了结婚的感觉",
+      "onboard_time": 1726269678,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137109,
       "num": 137109,
       "word": "陈楚生 证婚人",
@@ -299,28 +331,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135285,
-      "num": 135285,
-      "word": "女生被扎218针为何未达校园霸凌标准",
-      "onboard_time": 1726246815,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133234,
       "num": 133234,
       "word": "金珉奎背徐明浩",
       "onboard_time": 1726239623,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128375,
-      "num": 128375,
-      "word": "台风",
-      "onboard_time": 1726269557,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124534,
@@ -411,6 +427,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 97580,
+      "num": 97580,
+      "word": "EDG经理回应Scout经纪公司",
+      "onboard_time": 1726269498,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 94961,
       "num": 94961,
       "word": "睡前5个习惯容易胖肚子",
@@ -443,12 +467,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88350,
+      "num": 88350,
+      "word": "佘诗曼恭喜吴谨言洪尧",
+      "onboard_time": 1726270158,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85768,
       "num": 85768,
       "word": "鞠婧祎侧边丸子头",
       "onboard_time": 1726232540,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85244,
+      "num": 85244,
+      "word": "30斤水桶砸下蚊帐救了一家三口",
+      "onboard_time": 1726249873,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84615,
@@ -473,14 +513,6 @@
       "onboard_time": 1726240222,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 80726,
-      "num": 80726,
-      "word": "30斤水桶砸下蚊帐救了一家三口",
-      "onboard_time": 1726249873,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80705,
@@ -515,6 +547,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75843,
+      "num": 75843,
+      "word": "甘望星被村口大妈说成亿万富翁",
+      "onboard_time": 1726270037,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 73039,
+      "num": 73039,
+      "word": "周杰伦演唱会被吐槽音响声音小",
+      "onboard_time": 1726251433,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 72838,
+      "num": 72838,
+      "word": "高一女生腹痛几天后发现卵巢肿瘤",
+      "onboard_time": 1726269678,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67498,
       "num": 71432,
       "word": "王楚钦vs赵大成",
@@ -523,28 +579,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 64076,
-      "num": 64076,
-      "word": "EDG经理回应Scout经纪公司",
-      "onboard_time": 1726269498,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 62237,
       "num": 71418,
       "word": "K总 搞笑",
       "onboard_time": 1726245675,
       "rank": 49,
       "category": "网红"
-    },
-    {
-      "raw_hot": 52824,
-      "num": 52824,
-      "word": "周杰伦演唱会被吐槽音响声音小",
-      "onboard_time": 1726251433,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 50904,
@@ -571,8 +611,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 34016,
-      "num": 751660,
+      "raw_hot": 35042,
+      "num": 853831,
       "word": "中秋将有超级月亮",
       "onboard_time": 1726231821,
       "rank": 14,
@@ -624,6 +664,14 @@
       "word": "文昌鸡被台风吹走椰子鸡供不上了",
       "onboard_time": 1726258212,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18790,
+      "num": 314173,
+      "word": "贵州一高校新生军训拉练全程超燃",
+      "onboard_time": 1726269678,
+      "rank": 9,
       "category": "社会新闻"
     },
     {

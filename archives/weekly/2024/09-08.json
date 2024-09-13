@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726269672562,
+  "endTime": 1726270617026,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -1019,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1218844,
+      "num": 1218844,
+      "word": "网友三年前给洪尧的评论",
+      "onboard_time": 1726243160,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1218791,
       "num": 1169199,
       "word": "陆虎婚礼上的白鹿",
@@ -1097,14 +1105,6 @@
       "onboard_time": 1725795139,
       "rank": 22,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1156432,
-      "num": 1156432,
-      "word": "网友三年前给洪尧的评论",
-      "onboard_time": 1726243160,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 1154594,
@@ -1795,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 847472,
+      "num": 847472,
+      "word": "学校回应唐尚珺舍友全部申请搬宿舍",
+      "onboard_time": 1726269617,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 846403,
       "num": 846403,
       "word": "玄彬 孙艺珍仅是存在我就非常感谢了",
@@ -1921,6 +1929,14 @@
       "onboard_time": 1725705080,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 799488,
+      "num": 799488,
+      "word": "第一次见这么多明星宣传的电影",
+      "onboard_time": 1726250172,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 798242,
@@ -2081,14 +2097,6 @@
       "onboard_time": 1726058421,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 747318,
-      "num": 747318,
-      "word": "第一次见这么多明星宣传的电影",
-      "onboard_time": 1726250172,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 745894,
@@ -3195,6 +3203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 517293,
+      "num": 517293,
+      "word": "合肥地震",
+      "onboard_time": 1726269498,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 513762,
       "num": 277034,
       "word": "没有班味的工作有多香",
@@ -3779,20 +3795,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 447431,
-      "num": 447431,
-      "word": "学校回应唐尚珺舍友全部申请搬宿舍",
-      "onboard_time": 1726269617,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 445745,
       "num": 402339,
       "word": "黑神话墙绘遭破坏",
       "onboard_time": 1726113503,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 445600,
+      "num": 445600,
+      "word": "台风或以巅峰强度登陆浙江",
+      "onboard_time": 1726244599,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 444077,
@@ -3929,14 +3945,6 @@
       "onboard_time": 1725852499,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 429801,
-      "num": 429801,
-      "word": "台风或以巅峰强度登陆浙江",
-      "onboard_time": 1726244599,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 428183,
@@ -4171,6 +4179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 407780,
+      "num": 312050,
+      "word": "白鹿和陆虎的友谊",
+      "onboard_time": 1726268717,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 407406,
       "num": 407406,
       "word": "女子偷走店家金蟾嘴里含的100块",
@@ -4209,6 +4225,14 @@
       "onboard_time": 1725774678,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 404408,
+      "num": 311474,
+      "word": "陈楚生和老婆牵手逛街",
+      "onboard_time": 1726269678,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 404198,
@@ -5163,14 +5187,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 319045,
-      "num": 319045,
-      "word": "合肥地震",
-      "onboard_time": 1726269498,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 318982,
       "num": 318982,
       "word": "山姆售卖带鱼台风天捕捞引质疑",
@@ -5243,6 +5259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314221,
+      "num": 314221,
+      "word": "极危动物追着濒危动物咬",
+      "onboard_time": 1726248014,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314088,
       "num": 314088,
       "word": "王楚钦真的拿起板又不想输了",
@@ -5283,19 +5307,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 312258,
-      "num": 278402,
-      "word": "白鹿和陆虎的友谊",
-      "onboard_time": 1726268717,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 311135,
       "num": 311135,
       "word": "网恋4年的女友竟是已婚发小",
       "onboard_time": 1725935778,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310930,
+      "num": 310930,
+      "word": "警方回应农妇劳作时遭无故砍杀",
+      "onboard_time": 1726237522,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -5512,14 +5536,6 @@
       "word": "妇联回应女孩爆料母亲被家暴一生",
       "onboard_time": 1725865820,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 296355,
-      "num": 296355,
-      "word": "警方回应农妇劳作时遭无故砍杀",
-      "onboard_time": 1726237522,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -5913,14 +5929,6 @@
       "onboard_time": 1726009697,
       "rank": 40,
       "category": "数码"
-    },
-    {
-      "raw_hot": 273013,
-      "num": 273013,
-      "word": "极危动物追着濒危动物咬",
-      "onboard_time": 1726248014,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 272955,
@@ -9443,6 +9451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184271,
+      "num": 184271,
+      "word": "台风",
+      "onboard_time": 1725999791,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184055,
       "num": 184055,
       "word": "女子撑伞骑车被卷入货车底不幸身亡",
@@ -11851,6 +11867,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 149090,
+      "num": 149090,
+      "word": "女生被扎218针为何未达校园霸凌标准",
+      "onboard_time": 1726246815,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149088,
       "num": 267761,
       "word": "文俊辉喝豆汁",
@@ -12057,6 +12081,14 @@
       "onboard_time": 1725946819,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147046,
+      "num": 144971,
+      "word": "周六上班上出了结婚的感觉",
+      "onboard_time": 1726269678,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 146926,
@@ -12883,14 +12915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135285,
-      "num": 135285,
-      "word": "女生被扎218针为何未达校园霸凌标准",
-      "onboard_time": 1726246815,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135267,
       "num": 135267,
       "word": "小胖 语音",
@@ -13457,14 +13481,6 @@
       "onboard_time": 1726057161,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128375,
-      "num": 128375,
-      "word": "台风",
-      "onboard_time": 1725999791,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 128360,
@@ -15435,6 +15451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97580,
+      "num": 97580,
+      "word": "EDG经理回应Scout经纪公司",
+      "onboard_time": 1726269498,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 97541,
       "num": 419971,
       "word": "第一次懂了无差别的意义",
@@ -15803,6 +15827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88350,
+      "num": 88350,
+      "word": "佘诗曼恭喜吴谨言洪尧",
+      "onboard_time": 1726270158,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88027,
       "num": 187553,
       "word": "宋亚轩现在就出发新疆vlog",
@@ -15920,6 +15952,14 @@
       "word": "天津机场称会联合航司给予补偿",
       "onboard_time": 1726132401,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85244,
+      "num": 85244,
+      "word": "30斤水桶砸下蚊帐救了一家三口",
+      "onboard_time": 1726249873,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -16057,14 +16097,6 @@
       "onboard_time": 1725769760,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 80726,
-      "num": 80726,
-      "word": "30斤水桶砸下蚊帐救了一家三口",
-      "onboard_time": 1726249873,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80705,
@@ -16219,6 +16251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75843,
+      "num": 75843,
+      "word": "甘望星被村口大妈说成亿万富翁",
+      "onboard_time": 1726270037,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 75178,
       "num": 479641,
       "word": "买iPhone16价保双11不当等等党",
@@ -16283,6 +16323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73039,
+      "num": 73039,
+      "word": "周杰伦演唱会被吐槽音响声音小",
+      "onboard_time": 1726251433,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 72945,
       "num": 229728,
       "word": "来罗织 偏执的爱",
@@ -16297,6 +16345,14 @@
       "onboard_time": 1725751095,
       "rank": 29,
       "category": "作品衍生,作品衍生"
+    },
+    {
+      "raw_hot": 72838,
+      "num": 72838,
+      "word": "高一女生腹痛几天后发现卵巢肿瘤",
+      "onboard_time": 1726269678,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72638,
@@ -16593,14 +16649,6 @@
       "onboard_time": 1725900676,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 64076,
-      "num": 64076,
-      "word": "EDG经理回应Scout经纪公司",
-      "onboard_time": 1726269498,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 63895,
@@ -17081,14 +17129,6 @@
       "onboard_time": 1725729196,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 52824,
-      "num": 52824,
-      "word": "周杰伦演唱会被吐槽音响声音小",
-      "onboard_time": 1726251433,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 52513,
@@ -18179,6 +18219,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 35042,
+      "num": 853831,
+      "word": "中秋将有超级月亮",
+      "onboard_time": 1726231821,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34886,
       "num": 38425,
       "word": "华晨宇演唱会新歌彩排",
@@ -18256,14 +18304,6 @@
       "word": "资深机长称黑飞无人机当心担刑责",
       "onboard_time": 1726132039,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34016,
-      "num": 751660,
-      "word": "中秋将有超级月亮",
-      "onboard_time": 1726231821,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -19120,6 +19160,14 @@
       "word": "白露让秋天有了诗的味道",
       "onboard_time": 1725739631,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18790,
+      "num": 314173,
+      "word": "贵州一高校新生军训拉练全程超燃",
+      "onboard_time": 1726269678,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
