@@ -1,7 +1,15 @@
 {
   "startTime": 1726158397527,
-  "endTime": 1726196222496,
+  "endTime": 1726197839597,
   "band_list": [
+    {
+      "raw_hot": 1641458,
+      "num": 1115575,
+      "word": "金价又发疯",
+      "onboard_time": 1726193659,
+      "rank": 1,
+      "category": "财经"
+    },
     {
       "raw_hot": 1526950,
       "num": 1526950,
@@ -33,14 +41,6 @@
       "onboard_time": 1726186939,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1115575,
-      "num": 1115575,
-      "word": "金价又发疯",
-      "onboard_time": 1726193659,
-      "rank": 1,
-      "category": "财经"
     },
     {
       "raw_hot": 1025440,
@@ -91,12 +91,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 759980,
+      "num": 268097,
+      "word": "91年小伙想要女儿却连生6个儿子",
+      "onboard_time": 1726196178,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 744285,
       "num": 744285,
       "word": "陆虎陈曌旭丽江举办婚礼",
       "onboard_time": 1726158556,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 707813,
+      "num": 1113250,
+      "word": "山姆冰鲜带鱼捕捞日期撞上摩羯过境日",
+      "onboard_time": 1726192279,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 637582,
@@ -147,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 530712,
+      "num": 530712,
+      "word": "新型战机已在辽宁舰放飞",
+      "onboard_time": 1726192999,
+      "rank": 13,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 510164,
       "num": 510164,
       "word": "张峻豪 暂停活动",
@@ -163,8 +187,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 475769,
-      "num": 475769,
+      "raw_hot": 479963,
+      "num": 479963,
       "word": "Newjeans若解约需支付5000亿韩元",
       "onboard_time": 1726193719,
       "rank": 10,
@@ -203,14 +227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 445906,
-      "num": 239550,
-      "word": "91年小伙想要女儿却连生6个儿子",
-      "onboard_time": 1726196178,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 434456,
       "num": 434456,
       "word": "日方公布对NHK中国籍播音员处理结果",
@@ -219,20 +235,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422456,
+      "num": 422456,
+      "word": "黄景瑜王一博 一点CP感都没有",
+      "onboard_time": 1726196480,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 414191,
       "num": 147027,
       "word": "徐艺洋真的不会打死黄子韬吗",
       "onboard_time": 1726134140,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 413219,
-      "num": 413219,
-      "word": "新型战机已在辽宁舰放飞",
-      "onboard_time": 1726192999,
-      "rank": 13,
-      "category": "国内时政,军事"
     },
     {
       "raw_hot": 407406,
@@ -283,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362132,
+      "num": 362132,
+      "word": "金饰价格冲到761元每克",
+      "onboard_time": 1726195819,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 300484,
       "num": 300484,
       "word": "杨幂生日发博",
@@ -307,20 +331,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 287910,
-      "num": 302649,
-      "word": "山姆冰鲜带鱼捕捞日期撞上摩羯过境日",
-      "onboard_time": 1726192279,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 268489,
       "num": 268489,
       "word": "seventeen",
       "onboard_time": 1726156340,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 264842,
+      "num": 480083,
+      "word": "台风贝碧嘉或将成为最强中秋台风",
+      "onboard_time": 1726192999,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263381,
@@ -379,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237026,
+      "num": 251746,
+      "word": "工作时间办业务4个窗口3人不在岗",
+      "onboard_time": 1726194978,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236267,
       "num": 236267,
       "word": "原来果冻是这样开的",
@@ -427,6 +459,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210590,
+      "num": 210590,
+      "word": "服贸会",
+      "onboard_time": 1726196539,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208481,
+      "num": 208481,
+      "word": "台风贝碧嘉中秋期间或将影响华东地区",
+      "onboard_time": 1726170732,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207733,
+      "num": 211827,
+      "word": "赵丽颖7年前宣传过乔妍的心事原著",
+      "onboard_time": 1726196480,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 206726,
       "num": 206726,
       "word": "金价",
@@ -449,6 +505,14 @@
       "onboard_time": 1726196059,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 197923,
+      "num": 197923,
+      "word": "非自然死亡原班人马重聚",
+      "onboard_time": 1726196539,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 195552,
@@ -483,19 +547,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178030,
+      "num": 178030,
+      "word": "孙千 成长型95花",
+      "onboard_time": 1726196600,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176743,
       "num": 176743,
       "word": "国安部提醒警惕天降桃花运",
       "onboard_time": 1726194799,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176700,
-      "num": 176700,
-      "word": "台风贝碧嘉中秋期间或将影响华东地区",
-      "onboard_time": 1726170732,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -507,6 +571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166187,
+      "num": 166187,
+      "word": "志愿军第二部冰面行军是实景拍摄",
+      "onboard_time": 1726197561,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 166143,
       "num": 143530,
       "word": "不爱出远门的年轻人在家门口微度假",
@@ -515,8 +587,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163498,
-      "num": 163498,
+      "raw_hot": 164054,
+      "num": 164054,
+      "word": "京东将实现20薪",
+      "onboard_time": 1726196960,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 163602,
+      "num": 163602,
       "word": "iPhone16今晚8点预售",
       "onboard_time": 1726195400,
       "rank": 41,
@@ -529,6 +609,22 @@
       "onboard_time": 1726154000,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 158525,
+      "num": 158525,
+      "word": "四六级报名",
+      "onboard_time": 1726194199,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 158263,
+      "num": 158263,
+      "word": "崔然竣solo专辑",
+      "onboard_time": 1726197680,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 156354,
@@ -545,14 +641,6 @@
       "onboard_time": 1726188800,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153451,
-      "num": 153451,
-      "word": "金饰价格冲到761元每克",
-      "onboard_time": 1726195819,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 150278,
@@ -579,14 +667,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 147611,
-      "num": 147611,
-      "word": "四六级报名",
-      "onboard_time": 1726194199,
-      "rank": 40,
-      "category": "教育"
-    },
-    {
       "raw_hot": 142787,
       "num": 142787,
       "word": "每多刷1小时手机视网膜年龄衰老32天",
@@ -603,6 +683,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142113,
+      "num": 142113,
+      "word": "第十一届北京香山论坛",
+      "onboard_time": 1726196600,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 141466,
+      "num": 141466,
+      "word": "老师保护了学生却没保护好自己",
+      "onboard_time": 1726197800,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141027,
       "num": 152009,
       "word": "官方通报398元烫发套餐结账成2477元",
@@ -617,6 +713,14 @@
       "onboard_time": 1726195519,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134437,
+      "num": 364289,
+      "word": "当年选殡葬专业的同学现在怎样了",
+      "onboard_time": 1726196840,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134311,
@@ -651,14 +755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127584,
-      "num": 480083,
-      "word": "台风贝碧嘉或将成为最强中秋台风",
-      "onboard_time": 1726192999,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123783,
       "num": 121394,
       "word": "瑞士选美小姐遭丈夫残忍肢解",
@@ -681,14 +777,6 @@
       "onboard_time": 1726189160,
       "rank": 42,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 113001,
-      "num": 251746,
-      "word": "工作时间办业务4个窗口3人不在岗",
-      "onboard_time": 1726194978,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110372,
@@ -947,6 +1035,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 53936,
+      "num": 210653,
+      "word": "归龙潮全平台公测",
+      "onboard_time": 1726196659,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 50532,
       "num": 69111,
       "word": "持刀男子与受伤女子疑因拍照引发纠纷",
@@ -1047,6 +1143,30 @@
       "num": 65116,
       "word": "航拍洪水中的南宁",
       "onboard_time": 1726164852,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39966,
+      "num": 367065,
+      "word": "王俊凯掌管白色造型的神",
+      "onboard_time": 1726196659,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 39816,
+      "num": 269772,
+      "word": "中年男人卖两套房给主播刷礼物",
+      "onboard_time": 1726197139,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39072,
+      "num": 419113,
+      "word": "禁止新能源车进地库或涉嫌歧视",
+      "onboard_time": 1726197079,
       "rank": 9,
       "category": "社会新闻"
     },

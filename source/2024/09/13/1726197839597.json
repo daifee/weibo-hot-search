@@ -1,0 +1,410 @@
+{
+  "runTime": 1726197839597,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 707813,
+        "num": 1113250,
+        "word": "山姆冰鲜带鱼捕捞日期撞上摩羯过境日",
+        "onboard_time": 1726192279,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1039251,
+        "num": 1039251,
+        "word": "女孩生理期以为自己得了绝症",
+        "onboard_time": 1726193058,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 3574,
+        "num": 853871,
+        "word": "文化中国行赏青铜国宝之美",
+        "onboard_time": 1726145660,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 708707,
+        "num": 708707,
+        "word": "杀妻欲藏尸冰柜案凶手已被核准死刑",
+        "onboard_time": 1726191018,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649733,
+        "num": 649733,
+        "word": "陆虎陈曌旭丽江举办婚礼",
+        "onboard_time": 1726158556,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 685230,
+        "num": 644244,
+        "word": "付费让大码女孩吃大量食物",
+        "onboard_time": 1726188201,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 530712,
+        "num": 530712,
+        "word": "新型战机已在辽宁舰放飞",
+        "onboard_time": 1726192999,
+        "rank": 6,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 479963,
+        "num": 479963,
+        "word": "Newjeans若解约需支付5000亿韩元",
+        "onboard_time": 1726193719,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422456,
+        "num": 422456,
+        "word": "黄景瑜王一博 一点CP感都没有",
+        "onboard_time": 1726196480,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39072,
+        "num": 419113,
+        "word": "禁止新能源车进地库或涉嫌歧视",
+        "onboard_time": 1726197079,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1641458,
+        "num": 418269,
+        "word": "金价又发疯",
+        "onboard_time": 1726193659,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 416364,
+        "num": 416364,
+        "word": "女教授为100元被骗走近100万",
+        "onboard_time": 1726191140,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379117,
+        "num": 379117,
+        "word": "张峻豪 暂停活动",
+        "onboard_time": 1726191858,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39966,
+        "num": 367065,
+        "word": "王俊凯掌管白色造型的神",
+        "onboard_time": 1726196659,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134437,
+        "num": 364289,
+        "word": "当年选殡葬专业的同学现在怎样了",
+        "onboard_time": 1726196840,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362132,
+        "num": 362132,
+        "word": "金饰价格冲到761元每克",
+        "onboard_time": 1726195819,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 341388,
+        "num": 341388,
+        "word": "卤味三巨头为什么失宠",
+        "onboard_time": 1726185559,
+        "rank": 16,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 271220,
+        "num": 271220,
+        "word": "男生体检举煎饼抽血一拔针秒开饭",
+        "onboard_time": 1726184656,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262974,
+        "num": 270641,
+        "word": "偶遇杨幂室外放烟花过生日",
+        "onboard_time": 1726191320,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39816,
+        "num": 269772,
+        "word": "中年男人卖两套房给主播刷礼物",
+        "onboard_time": 1726197139,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759980,
+        "num": 268097,
+        "word": "91年小伙想要女儿却连生6个儿子",
+        "onboard_time": 1726196178,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514261,
+        "num": 266411,
+        "word": "丈夫不在家孕8个月妻子背玉米回家",
+        "onboard_time": 1726186939,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396680,
+        "num": 265205,
+        "word": "体重从40公斤到140公斤都是什么样",
+        "onboard_time": 1726188318,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 264842,
+        "num": 264842,
+        "word": "台风贝碧嘉或将成为最强中秋台风",
+        "onboard_time": 1726192999,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256845,
+        "num": 256845,
+        "word": "女子偷走店家金蟾嘴里含的100块",
+        "onboard_time": 1726187539,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252007,
+        "num": 252007,
+        "word": "花少再多剪一秒就露馅了",
+        "onboard_time": 1726184179,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237026,
+        "num": 237026,
+        "word": "工作时间办业务4个窗口3人不在岗",
+        "onboard_time": 1726194978,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214675,
+        "num": 214675,
+        "word": "军人遭长矛戳嘴瞬间击毙暴徒",
+        "onboard_time": 1726184959,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207733,
+        "num": 211827,
+        "word": "赵丽颖7年前宣传过乔妍的心事原著",
+        "onboard_time": 1726196480,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 53936,
+        "num": 210653,
+        "word": "归龙潮全平台公测",
+        "onboard_time": 1726196659,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210590,
+        "num": 210590,
+        "word": "服贸会",
+        "onboard_time": 1726196539,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208481,
+        "num": 208481,
+        "word": "台风贝碧嘉中秋期间或将影响华东地区",
+        "onboard_time": 1726170732,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207820,
+        "num": 207820,
+        "word": "女生嫌肉末太油拿水涮结果全流走",
+        "onboard_time": 1726185559,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197923,
+        "num": 197923,
+        "word": "非自然死亡原班人马重聚",
+        "onboard_time": 1726196539,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 178030,
+        "num": 178030,
+        "word": "孙千 成长型95花",
+        "onboard_time": 1726196600,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176793,
+        "num": 176793,
+        "word": "曹璐音银上班路透",
+        "onboard_time": 1726195580,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173844,
+        "num": 173844,
+        "word": "渤海潍坊港实弹射击",
+        "onboard_time": 1726189519,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170949,
+        "num": 170949,
+        "word": "白鹿粉色繁花抹胸裙",
+        "onboard_time": 1726196059,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167975,
+        "num": 167975,
+        "word": "国安部提醒警惕天降桃花运",
+        "onboard_time": 1726194799,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166187,
+        "num": 166187,
+        "word": "志愿军第二部冰面行军是实景拍摄",
+        "onboard_time": 1726197561,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164054,
+        "num": 164054,
+        "word": "京东将实现20薪",
+        "onboard_time": 1726196960,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 163602,
+        "num": 163602,
+        "word": "iPhone16今晚8点预售",
+        "onboard_time": 1726195400,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 162097,
+        "num": 162097,
+        "word": "金价",
+        "onboard_time": 1726195760,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 158525,
+        "num": 158525,
+        "word": "四六级报名",
+        "onboard_time": 1726194199,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 158263,
+        "num": 158263,
+        "word": "崔然竣solo专辑",
+        "onboard_time": 1726197680,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157494,
+        "num": 157494,
+        "word": "电影志愿军",
+        "onboard_time": 1726193840,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146504,
+        "num": 146504,
+        "word": "台风贝碧嘉",
+        "onboard_time": 1726187420,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145819,
+        "num": 145819,
+        "word": "她是第一个挺身而出的人",
+        "onboard_time": 1726126520,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 142113,
+        "num": 142113,
+        "word": "第十一届北京香山论坛",
+        "onboard_time": 1726196600,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141466,
+        "num": 141466,
+        "word": "老师保护了学生却没保护好自己",
+        "onboard_time": 1726197800,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在甘肃兰州考察调研#"
+    }
+  }
+}
