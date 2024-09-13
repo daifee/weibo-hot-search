@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726209023648,
+  "endTime": 1726209805846,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -1131,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1054361,
+      "num": 1054361,
+      "word": "逐步延至男63女55或58周岁退休",
+      "onboard_time": 1726209742,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1044953,
       "num": 909111,
       "word": "平野绫遭家暴",
@@ -2139,6 +2147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 674737,
+      "num": 674737,
+      "word": "渐进式延迟法定退休年龄明年起施行",
+      "onboard_time": 1726209742,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 674103,
       "num": 674103,
       "word": "B太为2元面馆捐一年酱油",
@@ -2441,6 +2457,14 @@
       "onboard_time": 1725839178,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 607192,
+      "num": 607192,
+      "word": "火车票改签新规有啥变化",
+      "onboard_time": 1726205009,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 606775,
@@ -3195,14 +3219,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 470851,
-      "num": 470851,
-      "word": "火车票改签新规有啥变化",
-      "onboard_time": 1726205009,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 467939,
       "num": 467939,
       "word": "地下车库该不该禁止新能源车停放",
@@ -3321,6 +3337,14 @@
       "onboard_time": 1726163532,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 453798,
+      "num": 297082,
+      "word": "经纪人 卢昱晓你得算我工伤",
+      "onboard_time": 1726208843,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 453584,
@@ -5931,6 +5955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239876,
+      "num": 239876,
+      "word": "林诗栋3比0林昀儒",
+      "onboard_time": 1726208124,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239218,
       "num": 239218,
       "word": "辛纳美网夺冠",
@@ -6001,6 +6033,14 @@
       "onboard_time": 1726103480,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 236331,
+      "num": 236331,
+      "word": "于正的辟谣谁还信",
+      "onboard_time": 1726208905,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 236267,
@@ -7131,14 +7171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205882,
-      "num": 205882,
-      "word": "林诗栋3比0林昀儒",
-      "onboard_time": 1726208124,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205851,
       "num": 205851,
       "word": "王曼昱奥运后首秀开门红",
@@ -8177,6 +8209,14 @@
       "onboard_time": 1725768859,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187882,
+      "num": 187882,
+      "word": "贾跃亭获531万美元奖金奖励",
+      "onboard_time": 1726208963,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 187746,
@@ -9275,14 +9315,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 168866,
-      "num": 168866,
-      "word": "于正的辟谣谁还信",
-      "onboard_time": 1726208905,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 168857,
       "num": 168857,
       "word": "台风摩羯过后最松弛照片当事人讲述",
@@ -9553,14 +9585,6 @@
       "onboard_time": 1726136900,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163866,
-      "num": 163866,
-      "word": "经纪人 卢昱晓你得算我工伤",
-      "onboard_time": 1726208843,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 163705,
@@ -10241,6 +10265,14 @@
       "onboard_time": 1725789259,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153937,
+      "num": 153937,
+      "word": "朱一龙志愿军2官宣海报",
+      "onboard_time": 1726209204,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 153887,
@@ -11883,6 +11915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132511,
+      "num": 132511,
+      "word": "白鹿出发陆虎婚礼",
+      "onboard_time": 1726209742,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132311,
       "num": 132311,
       "word": "檀健次贵气公子哥",
@@ -11905,6 +11945,14 @@
       "onboard_time": 1726161134,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132052,
+      "num": 132052,
+      "word": "文泰一被警方直接移交检察机关",
+      "onboard_time": 1726209563,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 132033,
@@ -12073,14 +12121,6 @@
       "onboard_time": 1726041560,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 129074,
-      "num": 129074,
-      "word": "贾跃亭获531万美元奖金奖励",
-      "onboard_time": 1726208963,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 129069,
@@ -13291,6 +13331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111420,
+      "num": 405718,
+      "word": "胡夏 好听",
+      "onboard_time": 1726208663,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111319,
       "num": 111319,
       "word": "张凌赫中秋晚会录制花絮",
@@ -13656,14 +13704,6 @@
       "word": "你算我二姐",
       "onboard_time": 1725978863,
       "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 104727,
-      "num": 218334,
-      "word": "胡夏 好听",
-      "onboard_time": 1726208663,
-      "rank": 24,
       "category": "综艺"
     },
     {
@@ -14153,6 +14193,14 @@
       "onboard_time": 1726117641,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95069,
+      "num": 167359,
+      "word": "朱丹说周一围要是不爱我早告我了",
+      "onboard_time": 1726209685,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 94478,
@@ -15075,6 +15123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63692,
+      "num": 326063,
+      "word": "50岁闪婚霸总硬控多少退休阿姨",
+      "onboard_time": 1726207825,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63684,
       "num": 63684,
       "word": "PS5Pro正式公布",
@@ -15587,14 +15643,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 51096,
-      "num": 305893,
-      "word": "50岁闪婚霸总硬控多少退休阿姨",
-      "onboard_time": 1726207825,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50991,
       "num": 1114599,
       "word": "雪域高原焕新貌",
@@ -15995,6 +16043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 43203,
+      "num": 408852,
+      "word": "对话苏州见义勇为勺子哥",
+      "onboard_time": 1726207045,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43164,
       "num": 46394,
       "word": "小狗的一生只要有爱就不苦",
@@ -16256,14 +16312,6 @@
       "word": "摩羯致海南4地损失近800亿",
       "onboard_time": 1726040060,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37582,
-      "num": 345688,
-      "word": "对话苏州见义勇为勺子哥",
-      "onboard_time": 1726207045,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -16905,6 +16953,14 @@
       "onboard_time": 1725716361,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24430,
+      "num": 154702,
+      "word": "哥哥超爱铮亮的壶",
+      "onboard_time": 1726209262,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 24173,

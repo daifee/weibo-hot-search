@@ -1,0 +1,410 @@
+{
+  "runTime": 1726209805846,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8460908,
+        "num": 8460908,
+        "word": "吴谨言洪尧结婚",
+        "onboard_time": 1726199965,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1054361,
+        "num": 1054361,
+        "word": "逐步延至男63女55或58周岁退休",
+        "onboard_time": 1726209742,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 9971,
+        "num": 743271,
+        "word": "人民军队淬火向前",
+        "onboard_time": 1726081931,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 674737,
+        "num": 674737,
+        "word": "渐进式延迟法定退休年龄明年起施行",
+        "onboard_time": 1726209742,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 629211,
+        "num": 629211,
+        "word": "当年选殡葬专业的同学现在怎样了",
+        "onboard_time": 1726196840,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607192,
+        "num": 607192,
+        "word": "火车票改签新规有啥变化",
+        "onboard_time": 1726205009,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606409,
+        "num": 606409,
+        "word": "魏璎珞嫁给了弘昼",
+        "onboard_time": 1726200810,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487369,
+        "num": 487369,
+        "word": "12306回应列车员有纹身",
+        "onboard_time": 1726199719,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426698,
+        "num": 426698,
+        "word": "空调安装工不系绳坠亡索赔房主百万",
+        "onboard_time": 1726199480,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43203,
+        "num": 408852,
+        "word": "对话苏州见义勇为勺子哥",
+        "onboard_time": 1726207045,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111420,
+        "num": 405718,
+        "word": "胡夏 好听",
+        "onboard_time": 1726208663,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405506,
+        "num": 405506,
+        "word": "陆虎陈曌旭丽江举办婚礼",
+        "onboard_time": 1726158556,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343762,
+        "num": 343762,
+        "word": "陈赫在国外被盗2次",
+        "onboard_time": 1726198220,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 6745388,
+        "num": 340543,
+        "word": "吴谨言 怀孕",
+        "onboard_time": 1726206446,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63692,
+        "num": 326063,
+        "word": "50岁闪婚霸总硬控多少退休阿姨",
+        "onboard_time": 1726207825,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2199464,
+        "num": 306016,
+        "word": "洪尧 曹赢心",
+        "onboard_time": 1726202917,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453798,
+        "num": 297082,
+        "word": "经纪人 卢昱晓你得算我工伤",
+        "onboard_time": 1726208843,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285689,
+        "num": 285689,
+        "word": "天津上空现巨大黑圈系公园表演产生",
+        "onboard_time": 1726203577,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270412,
+        "num": 270412,
+        "word": "于适",
+        "onboard_time": 1726204768,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287180,
+        "num": 268605,
+        "word": "烈火军校沈听白",
+        "onboard_time": 1726201654,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258495,
+        "num": 258495,
+        "word": "张翰祝绪丹吻戏",
+        "onboard_time": 1726204948,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239876,
+        "num": 239876,
+        "word": "林诗栋3比0林昀儒",
+        "onboard_time": 1726208124,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236331,
+        "num": 236331,
+        "word": "于正的辟谣谁还信",
+        "onboard_time": 1726208905,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233223,
+        "num": 233223,
+        "word": "山姆售卖带鱼台风天捕捞引质疑",
+        "onboard_time": 1726194680,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235147,
+        "num": 230699,
+        "word": "刘学义 运气",
+        "onboard_time": 1726203277,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200961,
+        "num": 200961,
+        "word": "白鹿到达丽江",
+        "onboard_time": 1726207585,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188125,
+        "num": 188125,
+        "word": "黄景瑜王一博 一点CP感都没有",
+        "onboard_time": 1726196480,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187882,
+        "num": 187882,
+        "word": "贾跃亭获531万美元奖金奖励",
+        "onboard_time": 1726208963,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 182310,
+        "num": 182310,
+        "word": "延禧攻略",
+        "onboard_time": 1726208243,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178851,
+        "num": 178851,
+        "word": "付费让大码女孩吃大量食物",
+        "onboard_time": 1726188201,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177586,
+        "num": 177586,
+        "word": "言星举止天塌了",
+        "onboard_time": 1726201896,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175923,
+        "num": 175923,
+        "word": "杨超越红温了",
+        "onboard_time": 1726207225,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173574,
+        "num": 173574,
+        "word": "菲常萧张彻底be了",
+        "onboard_time": 1726206206,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95069,
+        "num": 167359,
+        "word": "朱丹说周一围要是不爱我早告我了",
+        "onboard_time": 1726209685,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166705,
+        "num": 166705,
+        "word": "华图教育再因不雅广告翻车",
+        "onboard_time": 1726205067,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 166348,
+        "num": 166348,
+        "word": "于正说七年了再多考验也修成正果了",
+        "onboard_time": 1726204889,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165927,
+        "num": 165927,
+        "word": "小S回复网友想来内地工作",
+        "onboard_time": 1726199782,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156284,
+        "num": 156284,
+        "word": "林诗栋vs林昀儒",
+        "onboard_time": 1726207944,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24430,
+        "num": 154702,
+        "word": "哥哥超爱铮亮的壶",
+        "onboard_time": 1726209262,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153937,
+        "num": 153937,
+        "word": "朱一龙志愿军2官宣海报",
+        "onboard_time": 1726209204,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150765,
+        "num": 150765,
+        "word": "王曼昱女单晋级",
+        "onboard_time": 1726206265,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145132,
+        "num": 145132,
+        "word": "付航 假扮粉丝接机",
+        "onboard_time": 1726204531,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143778,
+        "num": 143778,
+        "word": "91年小伙想要女儿却连生6个儿子",
+        "onboard_time": 1726196178,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143478,
+        "num": 143478,
+        "word": "迪丽热巴豹纹look",
+        "onboard_time": 1726205424,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140318,
+        "num": 140318,
+        "word": "这食堂还不如火锅自助小料区",
+        "onboard_time": 1726204171,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135782,
+        "num": 135782,
+        "word": "金价又发疯",
+        "onboard_time": 1726193659,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132511,
+        "num": 132511,
+        "word": "白鹿出发陆虎婚礼",
+        "onboard_time": 1726209742,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132052,
+        "num": 132052,
+        "word": "文泰一被警方直接移交检察机关",
+        "onboard_time": 1726209563,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129470,
+        "num": 129470,
+        "word": "春花厌",
+        "onboard_time": 1726202375,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123437,
+        "num": 123437,
+        "word": "央美耗时3年绘制大同华严寺壁画",
+        "onboard_time": 1726207704,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面推动黄河流域生态保护和高质量发展#"
+    }
+  }
+}
