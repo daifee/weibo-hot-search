@@ -1,6 +1,6 @@
 {
   "startTime": 1726244748063,
-  "endTime": 1726252928772,
+  "endTime": 1726255072422,
   "band_list": [
     {
       "raw_hot": 1291321,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 181466,
-      "num": 66492,
+      "num": 169471,
       "word": "第一次见这么多明星宣传的电影",
       "onboard_time": 1726250172,
       "rank": 12,
@@ -483,6 +483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 29185,
+      "num": 29185,
+      "word": "英特尔高管让美反华议员破防",
+      "onboard_time": 1726252691,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 25997,
       "num": 25997,
       "word": "徐子未唱阿楚姑娘",
@@ -491,18 +499,26 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22366,
-      "num": 26463,
-      "word": "英特尔高管让美反华议员破防",
-      "onboard_time": 1726252691,
-      "rank": 49,
-      "category": "国外时政"
+      "raw_hot": 22813,
+      "num": 22813,
+      "word": "ti13",
+      "onboard_time": 1726254131,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 14800,
       "num": 67764,
       "word": "母亲去世男孩放学回家哭着喊妈妈",
       "onboard_time": 1726251732,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8460,
+      "num": 52711,
+      "word": "明天周六也要上班",
+      "onboard_time": 1726253592,
       "rank": 9,
       "category": "社会新闻"
     },
