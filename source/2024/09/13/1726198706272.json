@@ -1,0 +1,410 @@
+{
+  "runTime": 1726198706272,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 699597,
+        "num": 1111935,
+        "word": "山姆冰鲜带鱼捕捞日期撞上摩羯过境日",
+        "onboard_time": 1726192279,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679975,
+        "num": 679975,
+        "word": "金饰价格冲到761元每克",
+        "onboard_time": 1726195819,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 3673,
+        "num": 643655,
+        "word": "文化中国行赏青铜国宝之美",
+        "onboard_time": 1726145660,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620792,
+        "num": 620792,
+        "word": "陆虎陈曌旭丽江举办婚礼",
+        "onboard_time": 1726158556,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602368,
+        "num": 602368,
+        "word": "杀妻欲藏尸冰柜案凶手已被核准死刑",
+        "onboard_time": 1726191018,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551828,
+        "num": 551828,
+        "word": "新型战机已在辽宁舰放飞",
+        "onboard_time": 1726192999,
+        "rank": 5,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 545031,
+        "num": 545031,
+        "word": "黄景瑜王一博 一点CP感都没有",
+        "onboard_time": 1726196480,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89392,
+        "num": 541573,
+        "word": "服贸会",
+        "onboard_time": 1726196539,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49353,
+        "num": 519591,
+        "word": "全网都点赞的碎花裙女生是重庆人",
+        "onboard_time": 1726198459,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53958,
+        "num": 509905,
+        "word": "禁止新能源车进地库或涉嫌歧视",
+        "onboard_time": 1726197079,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1529127,
+        "num": 498565,
+        "word": "金价又发疯",
+        "onboard_time": 1726193659,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 975413,
+        "num": 490076,
+        "word": "女孩生理期以为自己得了绝症",
+        "onboard_time": 1726193058,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27636,
+        "num": 468454,
+        "word": "王俊凯掌管白色造型的神",
+        "onboard_time": 1726196659,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 75151,
+        "num": 454332,
+        "word": "苏州伤人事件伤者病情稳定",
+        "onboard_time": 1726198280,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 673698,
+        "num": 444505,
+        "word": "付费让大码女孩吃大量食物",
+        "onboard_time": 1726188201,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60299,
+        "num": 431022,
+        "word": "归龙潮全平台公测",
+        "onboard_time": 1726196659,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 427843,
+        "num": 427843,
+        "word": "Newjeans若解约需支付5000亿韩元",
+        "onboard_time": 1726193719,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377278,
+        "num": 377278,
+        "word": "女教授为100元被骗走近100万",
+        "onboard_time": 1726191140,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324277,
+        "num": 376744,
+        "word": "张峻豪 暂停活动",
+        "onboard_time": 1726191858,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52135,
+        "num": 376313,
+        "word": "中年男人卖两套房给主播刷礼物",
+        "onboard_time": 1726197139,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229475,
+        "num": 375633,
+        "word": "当年选殡葬专业的同学现在怎样了",
+        "onboard_time": 1726196840,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652893,
+        "num": 374718,
+        "word": "91年小伙想要女儿却连生6个儿子",
+        "onboard_time": 1726196178,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445963,
+        "num": 374188,
+        "word": "体重从40公斤到140公斤都是什么样",
+        "onboard_time": 1726188318,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 438254,
+        "num": 373419,
+        "word": "丈夫不在家孕8个月妻子背玉米回家",
+        "onboard_time": 1726186939,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230269,
+        "num": 373052,
+        "word": "赵丽颖7年前宣传过乔妍的心事原著",
+        "onboard_time": 1726196480,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 372770,
+        "num": 372770,
+        "word": "卤味三巨头为什么失宠",
+        "onboard_time": 1726185559,
+        "rank": 25,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 259054,
+        "num": 259054,
+        "word": "台风贝碧嘉或将成为最强中秋台风",
+        "onboard_time": 1726192999,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257160,
+        "num": 257160,
+        "word": "工作时间办业务4个窗口3人不在岗",
+        "onboard_time": 1726194978,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224418,
+        "num": 224418,
+        "word": "花少再多剪一秒就露馅了",
+        "onboard_time": 1726184179,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214506,
+        "num": 214506,
+        "word": "偶遇杨幂室外放烟花过生日",
+        "onboard_time": 1726191320,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435148,
+        "num": 214387,
+        "word": "陈赫在国外被盗2次",
+        "onboard_time": 1726198220,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245343,
+        "num": 214331,
+        "word": "女子偷走店家金蟾嘴里含的100块",
+        "onboard_time": 1726187539,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244035,
+        "num": 214276,
+        "word": "京东将实现20薪",
+        "onboard_time": 1726196960,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 213384,
+        "num": 213384,
+        "word": "雨霖铃",
+        "onboard_time": 1726197859,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200302,
+        "num": 200302,
+        "word": "男生体检举煎饼抽血一拔针秒开饭",
+        "onboard_time": 1726184656,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198550,
+        "num": 198550,
+        "word": "女生嫌肉末太油拿水涮结果全流走",
+        "onboard_time": 1726185559,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197818,
+        "num": 197818,
+        "word": "志愿军第二部冰面行军是实景拍摄",
+        "onboard_time": 1726197561,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195026,
+        "num": 195026,
+        "word": "金在中女团",
+        "onboard_time": 1726198280,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186641,
+        "num": 186641,
+        "word": "檀健次杂志",
+        "onboard_time": 1726198339,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181875,
+        "num": 181875,
+        "word": "台风贝碧嘉中秋期间或将影响华东地区",
+        "onboard_time": 1726170732,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177846,
+        "num": 177846,
+        "word": "国安部提醒警惕天降桃花运",
+        "onboard_time": 1726194799,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166603,
+        "num": 166603,
+        "word": "老师保护了学生却没保护好自己",
+        "onboard_time": 1726197800,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162799,
+        "num": 162799,
+        "word": "台风贝碧嘉",
+        "onboard_time": 1726187420,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162373,
+        "num": 162373,
+        "word": "孙千 成长型95花",
+        "onboard_time": 1726196600,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161351,
+        "num": 161351,
+        "word": "军人遭长矛戳嘴瞬间击毙暴徒",
+        "onboard_time": 1726184959,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159552,
+        "num": 159552,
+        "word": "渤海潍坊港实弹射击",
+        "onboard_time": 1726189519,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154308,
+        "num": 154308,
+        "word": "iPhone16今晚8点预售",
+        "onboard_time": 1726195400,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 37143,
+        "num": 150780,
+        "word": "乐道L60能耗反向虚标",
+        "onboard_time": 1726198459,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 149915,
+        "num": 149915,
+        "word": "非自然死亡原班人马重聚",
+        "onboard_time": 1726196539,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 148325,
+        "num": 148325,
+        "word": "曹璐音银上班路透",
+        "onboard_time": 1726195580,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在甘肃兰州考察调研#"
+    }
+  }
+}

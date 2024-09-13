@@ -1,6 +1,6 @@
 {
   "startTime": 1726158397527,
-  "endTime": 1726197839597,
+  "endTime": 1726198706272,
   "band_list": [
     {
       "raw_hot": 1641458,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1003469,
-      "num": 267730,
+      "num": 374188,
       "word": "体重从40公斤到140公斤都是什么样",
       "onboard_time": 1726188318,
       "rank": 20,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 759980,
-      "num": 268097,
+      "num": 374718,
       "word": "91年小伙想要女儿却连生6个儿子",
       "onboard_time": 1726196178,
       "rank": 23,
@@ -113,6 +113,14 @@
       "onboard_time": 1726192279,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 679975,
+      "num": 679975,
+      "word": "金饰价格冲到761元每克",
+      "onboard_time": 1726195819,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 637582,
@@ -147,6 +155,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 551828,
+      "num": 551828,
+      "word": "新型战机已在辽宁舰放飞",
+      "onboard_time": 1726192999,
+      "rank": 13,
+      "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 545031,
+      "num": 545031,
+      "word": "黄景瑜王一博 一点CP感都没有",
+      "onboard_time": 1726196480,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 537863,
       "num": 168620,
       "word": "女生眼角掉出黑色异物竟是74根眼睫毛",
@@ -161,14 +185,6 @@
       "onboard_time": 1726185559,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 530712,
-      "num": 530712,
-      "word": "新型战机已在辽宁舰放飞",
-      "onboard_time": 1726192999,
-      "rank": 13,
-      "category": "国内时政,军事"
     },
     {
       "raw_hot": 510164,
@@ -227,20 +243,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 435148,
+      "num": 214387,
+      "word": "陈赫在国外被盗2次",
+      "onboard_time": 1726198220,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 434456,
       "num": 434456,
       "word": "日方公布对NHK中国籍播音员处理结果",
       "onboard_time": 1726188201,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 422456,
-      "num": 422456,
-      "word": "黄景瑜王一博 一点CP感都没有",
-      "onboard_time": 1726196480,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 414191,
@@ -299,14 +315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 362132,
-      "num": 362132,
-      "word": "金饰价格冲到761元每克",
-      "onboard_time": 1726195819,
-      "rank": 36,
-      "category": "财经"
-    },
-    {
       "raw_hot": 300484,
       "num": 300484,
       "word": "杨幂生日发博",
@@ -363,6 +371,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 257160,
+      "num": 257160,
+      "word": "工作时间办业务4个窗口3人不在岗",
+      "onboard_time": 1726194978,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256161,
       "num": 256161,
       "word": "24岁生下唐氏综合征患儿母亲发声",
@@ -387,6 +403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 244035,
+      "num": 214276,
+      "word": "京东将实现20薪",
+      "onboard_time": 1726196960,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 242354,
       "num": 294494,
       "word": "偶遇王楚然回老家",
@@ -403,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237026,
-      "num": 251746,
-      "word": "工作时间办业务4个窗口3人不在岗",
-      "onboard_time": 1726194978,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 236267,
       "num": 236267,
       "word": "原来果冻是这样开的",
@@ -419,12 +435,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 230269,
+      "num": 373052,
+      "word": "赵丽颖7年前宣传过乔妍的心事原著",
+      "onboard_time": 1726196480,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 229609,
       "num": 229609,
       "word": "刚开学非全研究生已经想退学了",
       "onboard_time": 1726148720,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 229475,
+      "num": 375633,
+      "word": "当年选殡葬专业的同学现在怎样了",
+      "onboard_time": 1726196840,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228334,
@@ -459,8 +491,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213384,
+      "num": 213384,
+      "word": "雨霖铃",
+      "onboard_time": 1726197859,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210590,
-      "num": 210590,
+      "num": 541573,
       "word": "服贸会",
       "onboard_time": 1726196539,
       "rank": 30,
@@ -473,14 +513,6 @@
       "onboard_time": 1726170732,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207733,
-      "num": 211827,
-      "word": "赵丽颖7年前宣传过乔妍的心事原著",
-      "onboard_time": 1726196480,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 206726,
@@ -515,6 +547,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 197818,
+      "num": 197818,
+      "word": "志愿军第二部冰面行军是实景拍摄",
+      "onboard_time": 1726197561,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 195552,
       "num": 126251,
       "word": "男子与女友分手趁她加班进门偷狗",
@@ -523,12 +563,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195026,
+      "num": 195026,
+      "word": "金在中女团",
+      "onboard_time": 1726198280,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 189674,
       "num": 253243,
       "word": "傅首尔谈最痛苦的婚姻的样子",
       "onboard_time": 1726143139,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 186641,
+      "num": 186641,
+      "word": "檀健次杂志",
+      "onboard_time": 1726198339,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 184420,
@@ -555,8 +611,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 176743,
-      "num": 176743,
+      "raw_hot": 177846,
+      "num": 177846,
       "word": "国安部提醒警惕天降桃花运",
       "onboard_time": 1726194799,
       "rank": 30,
@@ -571,12 +627,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 166187,
-      "num": 166187,
-      "word": "志愿军第二部冰面行军是实景拍摄",
-      "onboard_time": 1726197561,
-      "rank": 39,
-      "category": "电影"
+      "raw_hot": 166603,
+      "num": 166603,
+      "word": "老师保护了学生却没保护好自己",
+      "onboard_time": 1726197800,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 166143,
@@ -585,14 +641,6 @@
       "onboard_time": 1726158377,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164054,
-      "num": 164054,
-      "word": "京东将实现20薪",
-      "onboard_time": 1726196960,
-      "rank": 40,
-      "category": "互联网"
     },
     {
       "raw_hot": 163602,
@@ -691,14 +739,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 141466,
-      "num": 141466,
-      "word": "老师保护了学生却没保护好自己",
-      "onboard_time": 1726197800,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 141027,
       "num": 152009,
       "word": "官方通报398元烫发套餐结账成2477元",
@@ -713,14 +753,6 @@
       "onboard_time": 1726195519,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 134437,
-      "num": 364289,
-      "word": "当年选殡葬专业的同学现在怎样了",
-      "onboard_time": 1726196840,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134311,
@@ -987,6 +1019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 75151,
+      "num": 454332,
+      "word": "苏州伤人事件伤者病情稳定",
+      "onboard_time": 1726198280,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73983,
       "num": 89715,
       "word": "徐冬冬尹子维是怎么找到这个赛道的",
@@ -1019,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60299,
+      "num": 431022,
+      "word": "归龙潮全平台公测",
+      "onboard_time": 1726196659,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 59274,
       "num": 69114,
       "word": "大张伟在黄宣面前都显得文静了",
@@ -1035,12 +1083,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 53936,
-      "num": 210653,
-      "word": "归龙潮全平台公测",
-      "onboard_time": 1726196659,
-      "rank": 29,
-      "category": "游戏"
+      "raw_hot": 53958,
+      "num": 509905,
+      "word": "禁止新能源车进地库或涉嫌歧视",
+      "onboard_time": 1726197079,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52135,
+      "num": 376313,
+      "word": "中年男人卖两套房给主播刷礼物",
+      "onboard_time": 1726197139,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50532,
@@ -1057,6 +1113,14 @@
       "onboard_time": 1726155319,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 49353,
+      "num": 519591,
+      "word": "全网都点赞的碎花裙女生是重庆人",
+      "onboard_time": 1726198459,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48729,
@@ -1148,27 +1212,19 @@
     },
     {
       "raw_hot": 39966,
-      "num": 367065,
+      "num": 468454,
       "word": "王俊凯掌管白色造型的神",
       "onboard_time": 1726196659,
       "rank": 13,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 39816,
-      "num": 269772,
-      "word": "中年男人卖两套房给主播刷礼物",
-      "onboard_time": 1726197139,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39072,
-      "num": 419113,
-      "word": "禁止新能源车进地库或涉嫌歧视",
-      "onboard_time": 1726197079,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 37143,
+      "num": 150780,
+      "word": "乐道L60能耗反向虚标",
+      "onboard_time": 1726198459,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 36730,
