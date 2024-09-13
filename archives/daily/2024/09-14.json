@@ -1,6 +1,6 @@
 {
   "startTime": 1726244748063,
-  "endTime": 1726255072422,
+  "endTime": 1726256120832,
   "band_list": [
     {
       "raw_hot": 1291321,
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30996,
+      "num": 30996,
+      "word": "英特尔高管让美反华议员破防",
+      "onboard_time": 1726252691,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 30188,
       "num": 30188,
       "word": "周杰伦演唱会被吐槽音响声音小",
@@ -483,20 +491,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 29185,
-      "num": 29185,
-      "word": "英特尔高管让美反华议员破防",
-      "onboard_time": 1726252691,
-      "rank": 49,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 25997,
       "num": 25997,
       "word": "徐子未唱阿楚姑娘",
       "onboard_time": 1726250894,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25165,
+      "num": 25165,
+      "word": "感觉是沈渡和颜幸本人在采访",
+      "onboard_time": 1726255750,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 22813,
