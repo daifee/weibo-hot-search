@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726237186177,
+  "endTime": 1726238305473,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -355,6 +355,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1819765,
+      "num": 1740057,
+      "word": "奎八",
+      "onboard_time": 1726052001,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1809806,
+      "num": 1809806,
+      "word": "乘务员手臂有纹身官方将追责",
+      "onboard_time": 1726234701,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1806790,
       "num": 861016,
       "word": "苹果配色好丑",
@@ -433,14 +449,6 @@
       "onboard_time": 1725952821,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1740057,
-      "num": 1740057,
-      "word": "奎八",
-      "onboard_time": 1726052001,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1725446,
@@ -1481,14 +1489,6 @@
       "onboard_time": 1726055422,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 970383,
-      "num": 970383,
-      "word": "乘务员手臂有纹身官方将追责",
-      "onboard_time": 1726234701,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 955139,
@@ -2779,6 +2779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 587402,
+      "num": 587402,
+      "word": "人怎么能有种成金珉奎这样",
+      "onboard_time": 1726236563,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 586162,
       "num": 409262,
       "word": "棣欣引力",
@@ -3899,14 +3907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 425807,
-      "num": 425807,
-      "word": "人怎么能有种成金珉奎这样",
-      "onboard_time": 1726236563,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 425615,
       "num": 425615,
       "word": "傅首尔谈最痛苦的婚姻的样子",
@@ -4377,6 +4377,14 @@
       "onboard_time": 1725798139,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 385735,
+      "num": 385735,
+      "word": "张远收到了捧花",
+      "onboard_time": 1726237463,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 385583,
@@ -5347,6 +5355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299086,
+      "num": 299086,
+      "word": "奶奶忘拔车钥匙5岁孙女启动致伤亡",
+      "onboard_time": 1726235061,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298956,
       "num": 282850,
       "word": "孟羽童谈自由职业一年",
@@ -5448,14 +5464,6 @@
       "word": "外资离开中国到底过得怎么样",
       "onboard_time": 1726067183,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 291241,
-      "num": 291241,
-      "word": "奶奶忘拔车钥匙5岁孙女启动致伤亡",
-      "onboard_time": 1726235061,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -5979,6 +5987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260452,
+      "num": 260452,
+      "word": "张百乔你真是出息了",
+      "onboard_time": 1726235902,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 259666,
       "num": 259666,
       "word": "不拔智齿的人会后悔的",
@@ -6169,6 +6185,14 @@
       "onboard_time": 1725717981,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252066,
+      "num": 252066,
+      "word": "王楚钦说对阵林诗栋自己处下风",
+      "onboard_time": 1726237342,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 251796,
@@ -6449,14 +6473,6 @@
       "onboard_time": 1725973462,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241437,
-      "num": 241437,
-      "word": "张百乔你真是出息了",
-      "onboard_time": 1726235902,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 241424,
@@ -7459,6 +7475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 213729,
+      "num": 213729,
+      "word": "王楚钦回应进四强",
+      "onboard_time": 1726237641,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213690,
       "num": 213690,
       "word": "iPhone16发布带火二手15",
@@ -7481,6 +7505,14 @@
       "onboard_time": 1725797660,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 213171,
+      "num": 213171,
+      "word": "中餐厅",
+      "onboard_time": 1726237223,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 213100,
@@ -7939,6 +7971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203848,
+      "num": 203848,
+      "word": "登陆少年直播提示",
+      "onboard_time": 1726237162,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203432,
       "num": 203432,
       "word": "苹果预售",
@@ -7977,14 +8017,6 @@
       "onboard_time": 1725846618,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203098,
-      "num": 203098,
-      "word": "登陆少年直播提示",
-      "onboard_time": 1726237162,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 203048,
@@ -8377,6 +8409,14 @@
       "onboard_time": 1726219760,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 197407,
+      "num": 197407,
+      "word": "孙颖莎说赛前觉得不好打",
+      "onboard_time": 1726237104,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 197172,
@@ -8857,6 +8897,14 @@
       "onboard_time": 1725801560,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189447,
+      "num": 189447,
+      "word": "少年张起灵吴邪首度同框",
+      "onboard_time": 1726237882,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 189444,
@@ -10691,14 +10739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161124,
-      "num": 161124,
-      "word": "孙颖莎说赛前觉得不好打",
-      "onboard_time": 1726237104,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 161059,
       "num": 161059,
       "word": "常州双彩虹",
@@ -11560,6 +11600,14 @@
       "word": "金晨开车一路全是小节目",
       "onboard_time": 1726034963,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 150096,
+      "num": 150096,
+      "word": "石凯rap词",
+      "onboard_time": 1726238240,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -14209,6 +14257,14 @@
       "onboard_time": 1726096578,
       "rank": 43,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 113962,
+      "num": 489502,
+      "word": "多方回应学生不订牛奶须提供过敏证明",
+      "onboard_time": 1726236563,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113707,
@@ -17291,14 +17347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43080,
-      "num": 489502,
-      "word": "多方回应学生不订牛奶须提供过敏证明",
-      "onboard_time": 1726236563,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42904,
       "num": 576973,
       "word": "归龙潮长命锁又疯又强",
@@ -17400,6 +17448,14 @@
       "word": "男子高速上徒手拖卡车真相是挡车牌",
       "onboard_time": 1725952040,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40883,
+      "num": 368321,
+      "word": "该用什么保障女性乘车安全感",
+      "onboard_time": 1726236622,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -17588,7 +17644,7 @@
     },
     {
       "raw_hot": 38204,
-      "num": 1748242,
+      "num": 1825987,
       "word": "淬火强军新征程",
       "onboard_time": 1726110502,
       "rank": 2,
@@ -17865,6 +17921,14 @@
       "onboard_time": 1725905954,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 34034,
+      "num": 252314,
+      "word": "警方回应农妇劳作时遭无故砍杀",
+      "onboard_time": 1726237522,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34024,
@@ -18220,7 +18284,7 @@
     },
     {
       "raw_hot": 27517,
-      "num": 345879,
+      "num": 366908,
       "word": "鲁豫真的拼了克服恐高攀岩12米",
       "onboard_time": 1726236143,
       "rank": 19,
@@ -18712,14 +18776,6 @@
       "word": "美英情报负责人史无前例一起露面",
       "onboard_time": 1725777018,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18612,
-      "num": 348827,
-      "word": "该用什么保障女性乘车安全感",
-      "onboard_time": 1726236622,
-      "rank": 18,
       "category": "社会新闻"
     },
     {

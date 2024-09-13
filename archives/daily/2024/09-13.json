@@ -1,6 +1,6 @@
 {
   "startTime": 1726158397527,
-  "endTime": 1726237186177,
+  "endTime": 1726238305473,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -99,19 +99,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1819765,
+      "num": 1740057,
+      "word": "奎八",
+      "onboard_time": 1726235543,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1809806,
+      "num": 1809806,
+      "word": "乘务员手臂有纹身官方将追责",
+      "onboard_time": 1726234701,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1785477,
       "num": 257356,
       "word": "吴谨言 上升期结婚",
       "onboard_time": 1726201654,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1740057,
-      "num": 1740057,
-      "word": "奎八",
-      "onboard_time": 1726235543,
-      "rank": 1,
       "category": "艺人"
     },
     {
@@ -323,14 +331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 970383,
-      "num": 970383,
-      "word": "乘务员手臂有纹身官方将追责",
-      "onboard_time": 1726234701,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 921548,
       "num": 744285,
       "word": "陆虎陈曌旭丽江举办婚礼",
@@ -505,6 +505,14 @@
       "onboard_time": 1726184959,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 587402,
+      "num": 587402,
+      "word": "人怎么能有种成金珉奎这样",
+      "onboard_time": 1726236563,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 585127,
@@ -763,14 +771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 425807,
-      "num": 425807,
-      "word": "人怎么能有种成金珉奎这样",
-      "onboard_time": 1726236563,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 418565,
       "num": 418565,
       "word": "凯言be了",
@@ -833,6 +833,14 @@
       "onboard_time": 1726220121,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 385735,
+      "num": 385735,
+      "word": "张远收到了捧花",
+      "onboard_time": 1726237463,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 372510,
@@ -1027,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299086,
+      "num": 299086,
+      "word": "奶奶忘拔车钥匙5岁孙女启动致伤亡",
+      "onboard_time": 1726235061,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298325,
       "num": 472424,
       "word": "撤销普华永道广州分所",
@@ -1049,14 +1065,6 @@
       "onboard_time": 1726137979,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 291241,
-      "num": 291241,
-      "word": "奶奶忘拔车钥匙5岁孙女启动致伤亡",
-      "onboard_time": 1726235061,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289244,
@@ -1155,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260452,
+      "num": 260452,
+      "word": "张百乔你真是出息了",
+      "onboard_time": 1726235902,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 259546,
       "num": 259546,
       "word": "白鹿到达丽江",
@@ -1193,6 +1209,14 @@
       "onboard_time": 1726122141,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252066,
+      "num": 252066,
+      "word": "王楚钦说对阵林诗栋自己处下风",
+      "onboard_time": 1726237342,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 251796,
@@ -1249,14 +1273,6 @@
       "onboard_time": 1726185077,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 241437,
-      "num": 241437,
-      "word": "张百乔你真是出息了",
-      "onboard_time": 1726235902,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 239876,
@@ -1435,12 +1451,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213729,
+      "num": 213729,
+      "word": "王楚钦回应进四强",
+      "onboard_time": 1726237641,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213532,
       "num": 354111,
       "word": "10部影片定档国庆档",
       "onboard_time": 1726217604,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 213171,
+      "num": 213171,
+      "word": "中餐厅",
+      "onboard_time": 1726237223,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 213005,
@@ -1515,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203848,
+      "num": 203848,
+      "word": "登陆少年直播提示",
+      "onboard_time": 1726237162,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203597,
       "num": 203597,
       "word": "王楚钦好猛",
@@ -1529,14 +1569,6 @@
       "onboard_time": 1726230563,
       "rank": 35,
       "category": "数码"
-    },
-    {
-      "raw_hot": 203098,
-      "num": 203098,
-      "word": "登陆少年直播提示",
-      "onboard_time": 1726237162,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 203048,
@@ -1625,6 +1657,14 @@
       "onboard_time": 1726219760,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 197407,
+      "num": 197407,
+      "word": "孙颖莎说赛前觉得不好打",
+      "onboard_time": 1726237104,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 195591,
@@ -1737,6 +1777,14 @@
       "onboard_time": 1726143139,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 189447,
+      "num": 189447,
+      "word": "少年张起灵吴邪首度同框",
+      "onboard_time": 1726237882,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 188084,
@@ -2003,14 +2051,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 161124,
-      "num": 161124,
-      "word": "孙颖莎说赛前觉得不好打",
-      "onboard_time": 1726237104,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 161040,
       "num": 249565,
       "word": "肖战直播生图",
@@ -2137,6 +2177,14 @@
       "onboard_time": 1726190779,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 150096,
+      "num": 150096,
+      "word": "石凯rap词",
+      "onboard_time": 1726238240,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 149713,
@@ -2393,6 +2441,14 @@
       "onboard_time": 1726185858,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 113962,
+      "num": 489502,
+      "word": "多方回应学生不订牛奶须提供过敏证明",
+      "onboard_time": 1726236563,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113125,
@@ -3059,14 +3115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43080,
-      "num": 489502,
-      "word": "多方回应学生不订牛奶须提供过敏证明",
-      "onboard_time": 1726236563,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42904,
       "num": 576973,
       "word": "归龙潮长命锁又疯又强",
@@ -3105,6 +3153,14 @@
       "onboard_time": 1726213104,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 40883,
+      "num": 368321,
+      "word": "该用什么保障女性乘车安全感",
+      "onboard_time": 1726236622,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40473,
@@ -3251,6 +3307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 34034,
+      "num": 252314,
+      "word": "警方回应农妇劳作时遭无故砍杀",
+      "onboard_time": 1726237522,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33714,
       "num": 404981,
       "word": "男子称大桥噪音影响做题",
@@ -3332,7 +3396,7 @@
     },
     {
       "raw_hot": 27517,
-      "num": 345879,
+      "num": 366908,
       "word": "鲁豫真的拼了克服恐高攀岩12米",
       "onboard_time": 1726236143,
       "rank": 19,
@@ -3417,14 +3481,6 @@
       "onboard_time": 1726209923,
       "rank": 33,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 18612,
-      "num": 348827,
-      "word": "该用什么保障女性乘车安全感",
-      "onboard_time": 1726236622,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17352,
@@ -3515,8 +3571,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2570,
-      "num": 1748242,
+      "raw_hot": 4477,
+      "num": 1825987,
       "word": "淬火强军新征程",
       "onboard_time": 1726110502,
       "rank": 2,
