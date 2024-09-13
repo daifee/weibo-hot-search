@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726233955236,
+  "endTime": 1726234660519,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -585,6 +585,14 @@
       "onboard_time": 1726027701,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1507038,
+      "num": 1507038,
+      "word": "王楚钦vs赵大成",
+      "onboard_time": 1726229180,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 1504439,
@@ -1187,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1090192,
+      "num": 1090192,
+      "word": "陆虎陈曌旭婚礼好多熟人",
+      "onboard_time": 1726232363,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1083835,
       "num": 1083835,
       "word": "上海出现一只在逃吗喽",
@@ -1225,14 +1241,6 @@
       "onboard_time": 1725845297,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1058016,
-      "num": 659980,
-      "word": "陆虎陈曌旭婚礼好多熟人",
-      "onboard_time": 1726232363,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1054602,
@@ -1401,14 +1409,6 @@
       "onboard_time": 1725756678,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 980344,
-      "num": 980344,
-      "word": "王楚钦vs赵大成",
-      "onboard_time": 1726229180,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 979819,
@@ -3683,6 +3683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 446734,
+      "num": 446734,
+      "word": "野孩子票房",
+      "onboard_time": 1726232721,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 445745,
       "num": 402339,
       "word": "黑神话墙绘遭破坏",
@@ -4091,14 +4099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 405086,
-      "num": 405086,
-      "word": "野孩子票房",
-      "onboard_time": 1726232721,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 404737,
       "num": 404737,
       "word": "明侦团综",
@@ -4233,6 +4233,14 @@
       "onboard_time": 1726153702,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 394440,
+      "num": 394440,
+      "word": "iPhone16ProMax秒没",
+      "onboard_time": 1726232604,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 393033,
@@ -4489,6 +4497,14 @@
       "onboard_time": 1725780499,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 366037,
+      "num": 326647,
+      "word": "孙颖莎和韩国队打了个循环赛",
+      "onboard_time": 1726233440,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 363698,
@@ -4793,14 +4809,6 @@
       "onboard_time": 1726110979,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 340360,
-      "num": 340360,
-      "word": "iPhone16ProMax秒没",
-      "onboard_time": 1726232604,
-      "rank": 27,
-      "category": "数码"
     },
     {
       "raw_hot": 340244,
@@ -5129,6 +5137,14 @@
       "onboard_time": 1726021278,
       "rank": 11,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 312574,
+      "num": 312574,
+      "word": "孙颖莎半决赛对阵张本美和",
+      "onboard_time": 1726232901,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 312483,
@@ -5483,6 +5499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285987,
+      "num": 285987,
+      "word": "把1岁儿子锁家里单亲妈妈发声",
+      "onboard_time": 1726230862,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285919,
       "num": 404136,
       "word": "丰巢靠滞留金三年半营收8个亿",
@@ -5497,6 +5521,14 @@
       "onboard_time": 1726097178,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285776,
+      "num": 285776,
+      "word": "等待付款",
+      "onboard_time": 1726231642,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 285060,
@@ -5899,14 +5931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 260394,
-      "num": 260394,
-      "word": "等待付款",
-      "onboard_time": 1726231642,
-      "rank": 43,
-      "category": "数码"
-    },
-    {
       "raw_hot": 259666,
       "num": 259666,
       "word": "不拔智齿的人会后悔的",
@@ -6168,6 +6192,14 @@
       "word": "非遗竹帘上的熊猫太逼真了",
       "onboard_time": 1725752777,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247983,
+      "num": 247983,
+      "word": "00后为何愿意为医院月饼买单",
+      "onboard_time": 1726233683,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -6755,14 +6787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 229481,
-      "num": 229481,
-      "word": "把1岁儿子锁家里单亲妈妈发声",
-      "onboard_time": 1726230862,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229182,
       "num": 229182,
       "word": "热依扎终于又演狠拽女角色了",
@@ -7171,14 +7195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 220241,
-      "num": 220241,
-      "word": "孙颖莎和韩国队打了个循环赛",
-      "onboard_time": 1726233440,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 219697,
       "num": 219697,
       "word": "渤海潍坊港实弹射击",
@@ -7257,14 +7273,6 @@
       "onboard_time": 1726109122,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217538,
-      "num": 217538,
-      "word": "孙颖莎半决赛对阵张本美和",
-      "onboard_time": 1726232901,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 217209,
@@ -8155,6 +8163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199256,
+      "num": 199256,
+      "word": "严浩翔冷脸开车",
+      "onboard_time": 1726233862,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199177,
       "num": 199177,
       "word": "AG超玩会 宝石流",
@@ -8219,6 +8235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198221,
+      "num": 198221,
+      "word": "鞠婧祎侧边丸子头",
+      "onboard_time": 1726232540,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198217,
       "num": 236413,
       "word": "王琳最欣赏的年轻演员是肖战",
@@ -8233,14 +8257,6 @@
       "onboard_time": 1725952880,
       "rank": 27,
       "category": "数码"
-    },
-    {
-      "raw_hot": 198107,
-      "num": 198107,
-      "word": "鞠婧祎侧边丸子头",
-      "onboard_time": 1726232540,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 198089,
@@ -8337,6 +8353,14 @@
       "onboard_time": 1725804501,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195591,
+      "num": 195591,
+      "word": "林俊杰重庆",
+      "onboard_time": 1726234281,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 195552,
@@ -9283,14 +9307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181458,
-      "num": 181458,
-      "word": "00后为何愿意为医院月饼买单",
-      "onboard_time": 1726233683,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181376,
       "num": 373330,
       "word": "公司强制肝功能不全员工休病假",
@@ -9401,6 +9417,14 @@
       "onboard_time": 1725718702,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 179804,
+      "num": 179804,
+      "word": "孙颖莎进四强",
+      "onboard_time": 1726232182,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 179767,
@@ -10203,14 +10227,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 166728,
-      "num": 166728,
-      "word": "严浩翔冷脸开车",
-      "onboard_time": 1726233862,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 166678,
       "num": 181117,
       "word": "流水迢迢角色人设",
@@ -10481,14 +10497,6 @@
       "onboard_time": 1726044503,
       "rank": 41,
       "category": "数码"
-    },
-    {
-      "raw_hot": 162399,
-      "num": 162399,
-      "word": "孙颖莎进四强",
-      "onboard_time": 1726232182,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 162342,
@@ -13355,6 +13363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125178,
+      "num": 475213,
+      "word": "张淼怡生日直播",
+      "onboard_time": 1726233503,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125168,
       "num": 203356,
       "word": "周深帮单依纯选歌",
@@ -15779,6 +15795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75178,
+      "num": 479641,
+      "word": "买iPhone16价保双11不当等等党",
+      "onboard_time": 1726229720,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 75151,
       "num": 454332,
       "word": "苏州伤人事件伤者病情稳定",
@@ -15793,14 +15817,6 @@
       "onboard_time": 1725907512,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 74767,
-      "num": 479641,
-      "word": "买iPhone16价保双11不当等等党",
-      "onboard_time": 1726229720,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 73716,
@@ -15849,14 +15865,6 @@
       "onboard_time": 1726119141,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 72927,
-      "num": 475213,
-      "word": "张淼怡生日直播",
-      "onboard_time": 1726233503,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 72842,
@@ -16795,6 +16803,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 49472,
+      "num": 678818,
+      "word": "盲盒岗位是创新还是噱头",
+      "onboard_time": 1726232540,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49385,
       "num": 369029,
       "word": "9年前国足曾战胜沙特",
@@ -17427,6 +17443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 38437,
+      "num": 453813,
+      "word": "哪些职业不适合纹身",
+      "onboard_time": 1726232842,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38382,
       "num": 259654,
       "word": "吴彦祖的第一台SUV改装作品",
@@ -17587,12 +17611,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36660,
+      "num": 458183,
+      "word": "丽江机场为工作人员辱骂旅客致歉",
+      "onboard_time": 1726232842,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36646,
       "num": 255778,
       "word": "养殖户为创业疯狂偷猪仔50头",
       "onboard_time": 1726117941,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36512,
+      "num": 293660,
+      "word": "假如人生可以开挂",
+      "onboard_time": 1726233981,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 36243,
@@ -17787,14 +17827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32692,
-      "num": 678818,
-      "word": "盲盒岗位是创新还是噱头",
-      "onboard_time": 1726232540,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32690,
       "num": 246306,
       "word": "广州部分传统饼店日销月饼过万斤",
@@ -17827,6 +17859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 32134,
+      "num": 523949,
+      "word": "航司回应国泰航空乘客称飞机餐没熟",
+      "onboard_time": 1726232662,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31946,
       "num": 55765,
       "word": "大学期间可以争取哪些合理收入",
@@ -17856,14 +17896,6 @@
       "word": "35岁唐尚珺迈出新人生",
       "onboard_time": 1725869060,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30986,
-      "num": 458183,
-      "word": "丽江机场为工作人员辱骂旅客致歉",
-      "onboard_time": 1726232842,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -17979,6 +18011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28896,
+      "num": 676997,
+      "word": "迎风的青春 群像张力",
+      "onboard_time": 1726233202,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 28819,
       "num": 310472,
       "word": "王一博探索新境快报",
@@ -18049,14 +18089,6 @@
       "onboard_time": 1725966680,
       "rank": 37,
       "category": "网红"
-    },
-    {
-      "raw_hot": 27663,
-      "num": 453813,
-      "word": "哪些职业不适合纹身",
-      "onboard_time": 1726232842,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27584,
@@ -18241,14 +18273,6 @@
       "onboard_time": 1725818171,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 23962,
-      "num": 523949,
-      "word": "航司回应国泰航空乘客称飞机餐没熟",
-      "onboard_time": 1726232662,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23921,
@@ -18865,14 +18889,6 @@
       "onboard_time": 1726081631,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 7777,
-      "num": 676997,
-      "word": "迎风的青春 群像张力",
-      "onboard_time": 1726233202,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 7476,
