@@ -1,6 +1,6 @@
 {
   "startTime": 1726244748063,
-  "endTime": 1726267113506,
+  "endTime": 1726269672562,
   "band_list": [
     {
       "raw_hot": 1291321,
@@ -9,6 +9,14 @@
       "onboard_time": 1726209923,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1156432,
+      "num": 1156432,
+      "word": "网友三年前给洪尧的评论",
+      "onboard_time": 1726243160,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 978670,
@@ -27,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 747318,
+      "num": 747318,
+      "word": "第一次见这么多明星宣传的电影",
+      "onboard_time": 1726250172,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 713135,
       "num": 341035,
       "word": "吴谨言 怀孕",
@@ -40,14 +56,6 @@
       "word": "陆虎陈曌旭婚礼好多熟人",
       "onboard_time": 1726232363,
       "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 665519,
-      "num": 665519,
-      "word": "网友三年前给洪尧的评论",
-      "onboard_time": 1726243160,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -67,20 +75,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 463257,
-      "num": 271874,
-      "word": "第一次见这么多明星宣传的电影",
-      "onboard_time": 1726250172,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
       "raw_hot": 455839,
       "num": 209640,
       "word": "吴谨言洪尧结婚",
       "onboard_time": 1726199965,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 447431,
+      "num": 447431,
+      "word": "学校回应唐尚珺舍友全部申请搬宿舍",
+      "onboard_time": 1726269617,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429801,
+      "num": 429801,
+      "word": "台风或以巅峰强度登陆浙江",
+      "onboard_time": 1726244599,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 421247,
@@ -97,14 +113,6 @@
       "onboard_time": 1726232604,
       "rank": 6,
       "category": "数码"
-    },
-    {
-      "raw_hot": 405599,
-      "num": 405599,
-      "word": "台风或以巅峰强度登陆浙江",
-      "onboard_time": 1726244599,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 389106,
@@ -131,6 +139,30 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 319045,
+      "num": 319045,
+      "word": "合肥地震",
+      "onboard_time": 1726269498,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312258,
+      "num": 278402,
+      "word": "白鹿和陆虎的友谊",
+      "onboard_time": 1726268717,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 296355,
+      "num": 296355,
+      "word": "警方回应农妇劳作时遭无故砍杀",
+      "onboard_time": 1726237522,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286372,
       "num": 286372,
       "word": "seventeen",
@@ -144,6 +176,14 @@
       "word": "云南宁洱3.4级地震",
       "onboard_time": 1726262232,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273013,
+      "num": 273013,
+      "word": "极危动物追着濒危动物咬",
+      "onboard_time": 1726248014,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -179,19 +219,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243072,
+      "num": 291366,
+      "word": "儿子务工身亡儿媳独占近百万赔偿金",
+      "onboard_time": 1726239742,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231846,
       "num": 231846,
       "word": "多方回应学生不订牛奶须提供过敏证明",
       "onboard_time": 1726236563,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209687,
-      "num": 209687,
-      "word": "儿子务工身亡儿媳独占近百万赔偿金",
-      "onboard_time": 1726239742,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -211,6 +251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 200311,
+      "num": 200311,
+      "word": "男子收60万儿子死亡赔偿款全转给弟弟",
+      "onboard_time": 1726227020,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194335,
       "num": 194335,
       "word": "华图教育一页PPT惹众怒",
@@ -219,20 +267,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174835,
+      "num": 174835,
+      "word": "小米回应摄像头里惊现陌生男子说话",
+      "onboard_time": 1726220962,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 172093,
       "num": 172093,
       "word": "杨幂压轴",
       "onboard_time": 1726229004,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 163833,
-      "num": 163833,
-      "word": "警方回应农妇劳作时遭无故砍杀",
-      "onboard_time": 1726237522,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160270,
@@ -251,12 +299,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135285,
+      "num": 135285,
+      "word": "女生被扎218针为何未达校园霸凌标准",
+      "onboard_time": 1726246815,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133234,
       "num": 133234,
       "word": "金珉奎背徐明浩",
       "onboard_time": 1726239623,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128375,
+      "num": 128375,
+      "word": "台风",
+      "onboard_time": 1726269557,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124534,
@@ -273,14 +337,6 @@
       "onboard_time": 1726244418,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114808,
-      "num": 114808,
-      "word": "男子收60万儿子死亡赔偿款全转给弟弟",
-      "onboard_time": 1726227020,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114219,
@@ -331,6 +387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 104239,
+      "num": 125553,
+      "word": "英特尔高管让美反华议员破防",
+      "onboard_time": 1726252691,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 103114,
       "num": 103114,
       "word": "杨幂这套好美",
@@ -345,14 +409,6 @@
       "onboard_time": 1726234882,
       "rank": 42,
       "category": "数码"
-    },
-    {
-      "raw_hot": 98468,
-      "num": 128094,
-      "word": "极危动物追着濒危动物咬",
-      "onboard_time": 1726248014,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94961,
@@ -387,28 +443,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 87734,
-      "num": 125553,
-      "word": "英特尔高管让美反华议员破防",
-      "onboard_time": 1726252691,
-      "rank": 49,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 85768,
       "num": 85768,
       "word": "鞠婧祎侧边丸子头",
       "onboard_time": 1726232540,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 84761,
-      "num": 84761,
-      "word": "女生被扎218针为何未达校园霸凌标准",
-      "onboard_time": 1726246815,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 84615,
@@ -435,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80726,
+      "num": 80726,
+      "word": "30斤水桶砸下蚊帐救了一家三口",
+      "onboard_time": 1726249873,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80705,
       "num": 80705,
       "word": "王一博害怕的全被自己战胜了",
@@ -451,12 +499,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 67530,
-      "num": 67530,
-      "word": "小米回应摄像头里惊现陌生男子说话",
-      "onboard_time": 1726220962,
-      "rank": 24,
-      "category": "互联网"
+      "raw_hot": 78822,
+      "num": 78822,
+      "word": "红到发紫的花牛苹果",
+      "onboard_time": 1726246815,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76607,
+      "num": 76607,
+      "word": "戚薇 亲密关系中不强求对方改变",
+      "onboard_time": 1726264031,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 67498,
@@ -467,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64076,
+      "num": 64076,
+      "word": "EDG经理回应Scout经纪公司",
+      "onboard_time": 1726269498,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 62237,
       "num": 71418,
       "word": "K总 搞笑",
@@ -475,20 +539,28 @@
       "category": "网红"
     },
     {
-      "raw_hot": 49525,
-      "num": 56480,
-      "word": "红到发紫的花牛苹果",
-      "onboard_time": 1726246815,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 52824,
+      "num": 52824,
+      "word": "周杰伦演唱会被吐槽音响声音小",
+      "onboard_time": 1726251433,
+      "rank": 45,
+      "category": "演出"
     },
     {
-      "raw_hot": 47854,
-      "num": 47854,
-      "word": "30斤水桶砸下蚊帐救了一家三口",
-      "onboard_time": 1726249873,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 50904,
+      "num": 50904,
+      "word": "金晨人鱼公主裙",
+      "onboard_time": 1726268416,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 48419,
+      "num": 50385,
+      "word": "人民看得懂的英语才是好英语",
+      "onboard_time": 1726269557,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 40941,
@@ -499,24 +571,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 38741,
-      "num": 42437,
-      "word": "戚薇 亲密关系中不强求对方改变",
-      "onboard_time": 1726264031,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 30188,
-      "num": 36457,
-      "word": "周杰伦演唱会被吐槽音响声音小",
-      "onboard_time": 1726251433,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 28112,
-      "num": 278896,
+      "raw_hot": 34016,
+      "num": 751660,
       "word": "中秋将有超级月亮",
       "onboard_time": 1726231821,
       "rank": 14,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1726269672562,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1156432,
+        "num": 1156432,
+        "word": "网友三年前给洪尧的评论",
+        "onboard_time": 1726243160,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 766031,
+        "num": 766031,
+        "word": "乘务员手臂有纹身官方将追责",
+        "onboard_time": 1726234701,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34016,
+        "num": 751660,
+        "word": "中秋将有超级月亮",
+        "onboard_time": 1726231821,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 747318,
+        "num": 747318,
+        "word": "第一次见这么多明星宣传的电影",
+        "onboard_time": 1726250172,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 447431,
+        "num": 447431,
+        "word": "学校回应唐尚珺舍友全部申请搬宿舍",
+        "onboard_time": 1726269617,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429801,
+        "num": 429801,
+        "word": "台风或以巅峰强度登陆浙江",
+        "onboard_time": 1726244599,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361903,
+        "num": 361903,
+        "word": "中学被指不订奶要提供过敏证明",
+        "onboard_time": 1726241481,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319045,
+        "num": 319045,
+        "word": "合肥地震",
+        "onboard_time": 1726269498,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296355,
+        "num": 296355,
+        "word": "警方回应农妇劳作时遭无故砍杀",
+        "onboard_time": 1726237522,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243072,
+        "num": 291366,
+        "word": "儿子务工身亡儿媳独占近百万赔偿金",
+        "onboard_time": 1726239742,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630778,
+        "num": 288023,
+        "word": "延迟退休年龄对照表",
+        "onboard_time": 1726209923,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 364619,
+        "num": 281660,
+        "word": "吴谨言 怀孕",
+        "onboard_time": 1726206446,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312258,
+        "num": 278402,
+        "word": "白鹿和陆虎的友谊",
+        "onboard_time": 1726268717,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273013,
+        "num": 273013,
+        "word": "极危动物追着濒危动物咬",
+        "onboard_time": 1726248014,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269296,
+        "num": 269296,
+        "word": "00后为何愿意为医院月饼买单",
+        "onboard_time": 1726233683,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200311,
+        "num": 200311,
+        "word": "男子收60万儿子死亡赔偿款全转给弟弟",
+        "onboard_time": 1726227020,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174835,
+        "num": 174835,
+        "word": "小米回应摄像头里惊现陌生男子说话",
+        "onboard_time": 1726220962,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 232582,
+        "num": 170094,
+        "word": "陆虎陈曌旭婚礼好多熟人",
+        "onboard_time": 1726232363,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145296,
+        "num": 161152,
+        "word": "李多海在上海定居",
+        "onboard_time": 1726228821,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141524,
+        "num": 160767,
+        "word": "张远收到了捧花",
+        "onboard_time": 1726237463,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160472,
+        "num": 160472,
+        "word": "iPhone16ProMax秒没",
+        "onboard_time": 1726232604,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 158714,
+        "num": 158714,
+        "word": "女子在超市捞鱼被刺致八级伤残",
+        "onboard_time": 1726226961,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156228,
+        "num": 156228,
+        "word": "杀妻欲藏尸冰柜案凶手至死没道歉",
+        "onboard_time": 1726237342,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135285,
+        "num": 135285,
+        "word": "女生被扎218针为何未达校园霸凌标准",
+        "onboard_time": 1726246815,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128375,
+        "num": 128375,
+        "word": "台风",
+        "onboard_time": 1726269557,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112778,
+        "num": 112778,
+        "word": "王楚钦说对阵林诗栋自己处下风",
+        "onboard_time": 1726237342,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112476,
+        "num": 112476,
+        "word": "陆虎发了婚礼照",
+        "onboard_time": 1726223361,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112174,
+        "num": 112174,
+        "word": "华图教育一页PPT惹众怒",
+        "onboard_time": 1726241241,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104239,
+        "num": 104239,
+        "word": "英特尔高管让美反华议员破防",
+        "onboard_time": 1726252691,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 99806,
+        "num": 99806,
+        "word": "奎八",
+        "onboard_time": 1726235543,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90108,
+        "num": 90108,
+        "word": "吴谨言洪尧结婚",
+        "onboard_time": 1726199965,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89143,
+        "num": 89143,
+        "word": "奶奶忘拔车钥匙5岁孙女启动致伤亡",
+        "onboard_time": 1726235061,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80790,
+        "num": 80790,
+        "word": "多方回应学生不订牛奶须提供过敏证明",
+        "onboard_time": 1726236563,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80726,
+        "num": 80726,
+        "word": "30斤水桶砸下蚊帐救了一家三口",
+        "onboard_time": 1726249873,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79567,
+        "num": 79567,
+        "word": "武艺谈恋爱了吗就上离婚综艺",
+        "onboard_time": 1726245077,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78822,
+        "num": 78822,
+        "word": "红到发紫的花牛苹果",
+        "onboard_time": 1726246815,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76607,
+        "num": 76607,
+        "word": "戚薇 亲密关系中不强求对方改变",
+        "onboard_time": 1726264031,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75159,
+        "num": 75159,
+        "word": "徐子未说魏哲鸣上学时很耀眼",
+        "onboard_time": 1726244418,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70217,
+        "num": 70217,
+        "word": "把1岁儿子锁家里单亲妈妈发声",
+        "onboard_time": 1726230862,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67643,
+        "num": 67643,
+        "word": "张百乔你真是出息了",
+        "onboard_time": 1726235902,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 64076,
+        "num": 64076,
+        "word": "EDG经理回应Scout经纪公司",
+        "onboard_time": 1726269498,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 56640,
+        "num": 56640,
+        "word": "王楚钦vs赵大成",
+        "onboard_time": 1726229180,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54767,
+        "num": 54767,
+        "word": "iPhone16Pro系列已排到10月",
+        "onboard_time": 1726234882,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 53338,
+        "num": 53338,
+        "word": "人怎么能有种成金珉奎这样",
+        "onboard_time": 1726236563,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52824,
+        "num": 52824,
+        "word": "周杰伦演唱会被吐槽音响声音小",
+        "onboard_time": 1726251433,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 50904,
+        "num": 50904,
+        "word": "金晨人鱼公主裙",
+        "onboard_time": 1726268416,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 50386,
+        "num": 50386,
+        "word": "野孩子票房",
+        "onboard_time": 1726232721,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 48419,
+        "num": 50385,
+        "word": "人民看得懂的英语才是好英语",
+        "onboard_time": 1726269557,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47353,
+        "num": 50383,
+        "word": "云南宁洱3.4级地震",
+        "onboard_time": 1726262232,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47227,
+        "num": 50380,
+        "word": "张若昀魏大勋坐一起",
+        "onboard_time": 1726240761,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平签署国家主席令#"
+    }
+  }
+}
