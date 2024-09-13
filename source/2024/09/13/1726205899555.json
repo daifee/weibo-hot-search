@@ -1,0 +1,410 @@
+{
+  "runTime": 1726205899555,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 17613237,
+        "num": 17613237,
+        "word": "吴谨言洪尧结婚",
+        "onboard_time": 1726199965,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 893327,
+        "num": 893327,
+        "word": "当年选殡葬专业的同学现在怎样了",
+        "onboard_time": 1726196840,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10184,
+        "num": 726772,
+        "word": "人民军队淬火向前",
+        "onboard_time": 1726081931,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 707128,
+        "num": 707128,
+        "word": "12306回应列车员有纹身",
+        "onboard_time": 1726199719,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638530,
+        "num": 638530,
+        "word": "空调安装工不系绳坠亡索赔房主百万",
+        "onboard_time": 1726199480,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1725446,
+        "num": 483744,
+        "word": "吴谨言洪尧谈了七年恋爱",
+        "onboard_time": 1726205548,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1458273,
+        "num": 462627,
+        "word": "魏璎珞嫁给了弘昼",
+        "onboard_time": 1726200810,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 691402,
+        "num": 460612,
+        "word": "陈赫在国外被盗2次",
+        "onboard_time": 1726198220,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289244,
+        "num": 289244,
+        "word": "王曼昱vs郑怡静",
+        "onboard_time": 1726203934,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78437,
+        "num": 289219,
+        "word": "碎花裙女生讲述事发时情况",
+        "onboard_time": 1726205367,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6893855,
+        "num": 289090,
+        "word": "洪尧 曹赢心",
+        "onboard_time": 1726202917,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30640,
+        "num": 288912,
+        "word": "迎接你的中秋圆满时刻",
+        "onboard_time": 1726202075,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645148,
+        "num": 288884,
+        "word": "陆虎陈曌旭丽江举办婚礼",
+        "onboard_time": 1726158556,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65001,
+        "num": 288732,
+        "word": "波司登真的很懂年轻人的自洽",
+        "onboard_time": 1726202075,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20556,
+        "num": 288629,
+        "word": "陆仙人二刷伦敦时装周",
+        "onboard_time": 1726203636,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 321545,
+        "num": 288483,
+        "word": "张翰祝绪丹吻戏",
+        "onboard_time": 1726204948,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307446,
+        "num": 288351,
+        "word": "付费让大码女孩吃大量食物",
+        "onboard_time": 1726188201,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 304863,
+        "num": 288230,
+        "word": "天津上空现巨大黑圈系公园表演产生",
+        "onboard_time": 1726203577,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288192,
+        "num": 288192,
+        "word": "山姆冰鲜带鱼捕捞日期撞上摩羯过境日",
+        "onboard_time": 1726192279,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59651,
+        "num": 283045,
+        "word": "商场回应柜台高价巧克力有苍蝇乱爬",
+        "onboard_time": 1726204240,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543204,
+        "num": 278619,
+        "word": "言星举止天塌了",
+        "onboard_time": 1726201896,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 538644,
+        "num": 274799,
+        "word": "烈火军校沈听白",
+        "onboard_time": 1726201654,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 508932,
+        "num": 265941,
+        "word": "于适",
+        "onboard_time": 1726204768,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395667,
+        "num": 264102,
+        "word": "付航 假扮粉丝接机",
+        "onboard_time": 1726204531,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258251,
+        "num": 258251,
+        "word": "金价又发疯",
+        "onboard_time": 1726193659,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 391064,
+        "num": 257012,
+        "word": "刘学义 运气",
+        "onboard_time": 1726203277,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57664,
+        "num": 255706,
+        "word": "直播间买蚕丝被填充物为100%聚酯纤维",
+        "onboard_time": 1726203934,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374061,
+        "num": 253078,
+        "word": "凯言be了",
+        "onboard_time": 1726203695,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351050,
+        "num": 252154,
+        "word": "于正 女大当嫁",
+        "onboard_time": 1726203636,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340323,
+        "num": 249509,
+        "word": "小S回复网友想来内地工作",
+        "onboard_time": 1726199782,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329247,
+        "num": 246677,
+        "word": "春花厌",
+        "onboard_time": 1726202375,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281697,
+        "num": 246508,
+        "word": "黄景瑜王一博 一点CP感都没有",
+        "onboard_time": 1726196480,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28735,
+        "num": 243262,
+        "word": "水之蔻身体美白届黑马",
+        "onboard_time": 1726200992,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 242762,
+        "num": 242762,
+        "word": "杀妻欲藏尸冰柜案凶手已被核准死刑",
+        "onboard_time": 1726191018,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235485,
+        "num": 235485,
+        "word": "迪丽热巴豹纹look",
+        "onboard_time": 1726205424,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224113,
+        "num": 224113,
+        "word": "披荆斩棘的哥哥",
+        "onboard_time": 1726202797,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223401,
+        "num": 223401,
+        "word": "91年小伙想要女儿却连生6个儿子",
+        "onboard_time": 1726196178,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221789,
+        "num": 221789,
+        "word": "丈夫不在家孕8个月妻子背玉米回家",
+        "onboard_time": 1726186939,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218783,
+        "num": 218783,
+        "word": "墨雨云间",
+        "onboard_time": 1726201896,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217783,
+        "num": 217783,
+        "word": "张峻豪 暂停活动",
+        "onboard_time": 1726191858,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214308,
+        "num": 214308,
+        "word": "女生嫌肉末太油拿水涮结果全流走",
+        "onboard_time": 1726185559,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203801,
+        "num": 203801,
+        "word": "于正说七年了再多考验也修成正果了",
+        "onboard_time": 1726204889,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198603,
+        "num": 198603,
+        "word": "女孩生理期以为自己得了绝症",
+        "onboard_time": 1726193058,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183997,
+        "num": 183997,
+        "word": "闵熙珍申请再次担任ADOR代表理事",
+        "onboard_time": 1726205666,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181297,
+        "num": 181297,
+        "word": "华图教育再因不雅广告翻车",
+        "onboard_time": 1726205067,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 177569,
+        "num": 177569,
+        "word": "山姆售卖带鱼台风天捕捞引质疑",
+        "onboard_time": 1726194680,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174685,
+        "num": 174685,
+        "word": "孩子10楼扔水气球砸坏车判赔7000",
+        "onboard_time": 1726203456,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170983,
+        "num": 170983,
+        "word": "工作时间办业务4个窗口3人不在岗",
+        "onboard_time": 1726194978,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169665,
+        "num": 169665,
+        "word": "金在中女团",
+        "onboard_time": 1726198280,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168037,
+        "num": 168037,
+        "word": "王楚钦孙颖莎今晚单打出战",
+        "onboard_time": 1726199300,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面推动黄河流域生态保护和高质量发展#"
+    }
+  }
+}
