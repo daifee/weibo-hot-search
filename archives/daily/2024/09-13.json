@@ -1,6 +1,6 @@
 {
   "startTime": 1726158397527,
-  "endTime": 1726227343325,
+  "endTime": 1726231173895,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2690667,
+      "num": 2690667,
+      "word": "iPhone16 抢购",
+      "onboard_time": 1726229301,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 2118547,
       "num": 1612098,
       "word": "陆虎婚礼",
@@ -153,6 +161,14 @@
       "onboard_time": 1726215864,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1257919,
+      "num": 1257919,
+      "word": "陈楚生 证婚人",
+      "onboard_time": 1726229241,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1234799,
@@ -251,6 +267,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 977971,
+      "num": 977971,
+      "word": "李多海在上海定居",
+      "onboard_time": 1726228821,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 949488,
+      "num": 949488,
+      "word": "孙颖莎vs朱芊曦",
+      "onboard_time": 1726228401,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 921548,
       "num": 744285,
       "word": "陆虎陈曌旭丽江举办婚礼",
@@ -345,6 +377,14 @@
       "onboard_time": 1726221742,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 686888,
+      "num": 686888,
+      "word": "女子在超市捞鱼被刺致八级伤残",
+      "onboard_time": 1726226961,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 683798,
@@ -467,6 +507,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 515780,
+      "num": 515780,
+      "word": "杨幂压轴",
+      "onboard_time": 1726229004,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 512624,
+      "num": 512624,
+      "word": "高承睿3比2莫雷加德",
+      "onboard_time": 1726229841,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 510164,
       "num": 510164,
       "word": "张峻豪 暂停活动",
@@ -507,6 +563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 494923,
+      "num": 469143,
+      "word": "杨幂这套好美",
+      "onboard_time": 1726227860,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 479963,
       "num": 479963,
       "word": "Newjeans若解约需支付5000亿韩元",
@@ -529,6 +593,22 @@
       "onboard_time": 1726153940,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 469858,
+      "num": 469858,
+      "word": "王楚钦vs赵大成",
+      "onboard_time": 1726229180,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 466608,
+      "num": 466608,
+      "word": "苹果官网崩了",
+      "onboard_time": 1726229542,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 465519,
@@ -779,6 +859,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 345125,
+      "num": 345125,
+      "word": "陈幸同1比3张本美和",
+      "onboard_time": 1726226781,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 340244,
+      "num": 340244,
+      "word": "男子收60万儿子死亡赔偿款全转给弟弟",
+      "onboard_time": 1726227020,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338401,
       "num": 582777,
       "word": "1320万只文昌鸡死于台风摩羯",
@@ -800,14 +896,6 @@
       "word": "天津上空现巨大黑圈系公园表演产生",
       "onboard_time": 1726203577,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 322105,
-      "num": 322105,
-      "word": "男子收60万儿子死亡赔偿款全转给弟弟",
-      "onboard_time": 1726227020,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -944,14 +1032,6 @@
       "word": "东部战区",
       "onboard_time": 1726188681,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259893,
-      "num": 259893,
-      "word": "女子在超市捞鱼被刺致八级伤残",
-      "onboard_time": 1726226961,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1163,14 +1243,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 221699,
-      "num": 221699,
-      "word": "陈幸同1比3张本美和",
-      "onboard_time": 1726226781,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 219697,
       "num": 219697,
       "word": "渤海潍坊港实弹射击",
@@ -1291,6 +1363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203432,
+      "num": 203432,
+      "word": "苹果预售",
+      "onboard_time": 1726230563,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 203048,
       "num": 203048,
       "word": "王俊凯三部电影接连上映",
@@ -1377,6 +1457,14 @@
       "onboard_time": 1726203994,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194538,
+      "num": 194538,
+      "word": "张若昀 贵气",
+      "onboard_time": 1726228761,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 192913,
@@ -1515,6 +1603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183702,
+      "num": 183702,
+      "word": "林俊杰重庆抢票",
+      "onboard_time": 1726226961,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 182989,
       "num": 285618,
       "word": "HYBE回应NewJeans",
@@ -1587,6 +1683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175421,
+      "num": 175421,
+      "word": "救回中国小伙的外国海王找到了",
+      "onboard_time": 1726228341,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174685,
       "num": 722110,
       "word": "孩子10楼扔水气球砸坏车判赔7000",
@@ -1657,14 +1761,6 @@
       "onboard_time": 1726195400,
       "rank": 41,
       "category": "数码"
-    },
-    {
-      "raw_hot": 162730,
-      "num": 162730,
-      "word": "林俊杰重庆抢票",
-      "onboard_time": 1726226961,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 162225,
@@ -1753,6 +1849,14 @@
       "onboard_time": 1726188800,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154564,
+      "num": 154564,
+      "word": "执业医师查成绩",
+      "onboard_time": 1726227680,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 153937,
@@ -1873,6 +1977,22 @@
       "onboard_time": 1726217482,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138057,
+      "num": 138057,
+      "word": "天官赐福广播剧第二季完结",
+      "onboard_time": 1726230322,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 137974,
+      "num": 137974,
+      "word": "把1岁儿子锁家里单亲妈妈发声",
+      "onboard_time": 1726230862,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136767,
@@ -2435,6 +2555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 60209,
+      "num": 514156,
+      "word": "天猫官旗iPhone16每天低至8块2",
+      "onboard_time": 1726228821,
+      "rank": 14,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 59274,
       "num": 69114,
       "word": "大张伟在黄宣面前都显得文静了",
@@ -2627,6 +2755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43359,
+      "num": 469383,
+      "word": "买iPhone16价保双11不当等等党",
+      "onboard_time": 1726229720,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 43226,
       "num": 43226,
       "word": "哈啰回应乘客打车后被免密扣款21笔",
@@ -2657,6 +2793,14 @@
       "onboard_time": 1726218803,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 42214,
+      "num": 281370,
+      "word": "女孩走出大山的第一步",
+      "onboard_time": 1726227321,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 41961,
@@ -2803,12 +2947,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33538,
+      "num": 131083,
+      "word": "海南橡胶23万亩种植园报废",
+      "onboard_time": 1726229004,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32153,
       "num": 737062,
       "word": "陶喆一口冰淇淋八百个表情",
       "onboard_time": 1726217844,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31550,
+      "num": 468027,
+      "word": "抢红包成电信诈骗新手法",
+      "onboard_time": 1726229241,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29799,
@@ -2891,6 +3051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 20149,
+      "num": 1536567,
+      "word": "中秋假期出行天气指南",
+      "onboard_time": 1726215085,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20078,
       "num": 195730,
       "word": "民警街头激昂劝导卖艺小伙表赞同",
@@ -2939,6 +3107,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 14531,
+      "num": 468423,
+      "word": "专家谈如何加固外卖员等群体保护伞",
+      "onboard_time": 1726229841,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11704,
       "num": 383420,
       "word": "陈震突袭新浪健身房battle",
@@ -2963,14 +3139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9962,
-      "num": 281370,
-      "word": "女孩走出大山的第一步",
-      "onboard_time": 1726227321,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 9564,
       "num": 281252,
       "word": "黄景瑜好会演这种大哥角色",
@@ -2985,6 +3153,14 @@
       "onboard_time": 1726216584,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 8738,
+      "num": 590204,
+      "word": "为什么说受过教育的女性能改变三代人",
+      "onboard_time": 1726230803,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 7476,
