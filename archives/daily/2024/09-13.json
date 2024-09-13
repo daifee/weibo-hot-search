@@ -1,6 +1,6 @@
 {
   "startTime": 1726158397527,
-  "endTime": 1726216003547,
+  "endTime": 1726216842141,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1324759,
+      "num": 1324759,
+      "word": "对普华永道开出顶格罚单",
+      "onboard_time": 1726215864,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1234799,
       "num": 1234799,
       "word": "当年选殡葬专业的同学现在怎样了",
@@ -203,6 +211,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 963179,
+      "num": 963179,
+      "word": "普华永道被罚没3.25亿元",
+      "onboard_time": 1726216405,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 921548,
       "num": 744285,
       "word": "陆虎陈曌旭丽江举办婚礼",
@@ -249,6 +265,14 @@
       "onboard_time": 1726188201,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 784386,
+      "num": 784386,
+      "word": "普华永道",
+      "onboard_time": 1726216164,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 759980,
@@ -300,7 +324,7 @@
     },
     {
       "raw_hot": 673138,
-      "num": 673138,
+      "num": 922392,
       "word": "苏醒主持陆虎婚礼",
       "onboard_time": 1726214125,
       "rank": 15,
@@ -308,7 +332,7 @@
     },
     {
       "raw_hot": 645975,
-      "num": 500944,
+      "num": 620379,
       "word": "爸爸光顾着删消息忘删你了",
       "onboard_time": 1726213646,
       "rank": 20,
@@ -320,14 +344,6 @@
       "word": "男生体检举煎饼抽血一拔针秒开饭",
       "onboard_time": 1726184656,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 611260,
-      "num": 611260,
-      "word": "对普华永道开出顶格罚单",
-      "onboard_time": 1726215864,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -444,7 +460,7 @@
     },
     {
       "raw_hot": 473663,
-      "num": 505649,
+      "num": 912628,
       "word": "陈楚生西装",
       "onboard_time": 1726214005,
       "rank": 18,
@@ -475,12 +491,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 461743,
+      "num": 461743,
+      "word": "基本养老金最低缴费年限",
+      "onboard_time": 1726214185,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 458941,
       "num": 458941,
       "word": "小S回复网友想来内地工作",
       "onboard_time": 1726199782,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 454780,
+      "num": 1445741,
+      "word": "如何自愿选择弹性提前退休",
+      "onboard_time": 1726215385,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 454269,
@@ -531,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 425770,
-      "num": 425770,
-      "word": "基本养老金最低缴费年限",
-      "onboard_time": 1726214185,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 418565,
       "num": 418565,
       "word": "凯言be了",
@@ -580,7 +604,7 @@
     },
     {
       "raw_hot": 398057,
-      "num": 398057,
+      "num": 821408,
       "word": "孙莉晒黄多多留学生活vlog",
       "onboard_time": 1726214724,
       "rank": 25,
@@ -811,12 +835,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256071,
-      "num": 1445741,
-      "word": "如何自愿选择弹性提前退休",
-      "onboard_time": 1726215385,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 249765,
+      "num": 306230,
+      "word": "于正长文回应",
+      "onboard_time": 1726213764,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 249258,
@@ -849,6 +873,14 @@
       "onboard_time": 1726185077,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242137,
+      "num": 242137,
+      "word": "鹿晗一句话王俊凯记了这么多年",
+      "onboard_time": 1726216524,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 239876,
@@ -897,6 +929,14 @@
       "onboard_time": 1726196480,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 230231,
+      "num": 230231,
+      "word": "樊振东 男大",
+      "onboard_time": 1726215385,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 229679,
@@ -1003,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210946,
+      "num": 210946,
+      "word": "官方回应江西抚州天降火球",
+      "onboard_time": 1726213226,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210590,
       "num": 541573,
       "word": "服贸会",
@@ -1041,6 +1089,14 @@
       "onboard_time": 1726144100,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203048,
+      "num": 203048,
+      "word": "王俊凯三部电影接连上映",
+      "onboard_time": 1726216405,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 202452,
@@ -1107,14 +1163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195282,
-      "num": 195282,
-      "word": "樊振东 男大",
-      "onboard_time": 1726215385,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 194752,
       "num": 703596,
       "word": "沈琳做月嫂看到父母瞬间泪崩",
@@ -1129,14 +1177,6 @@
       "onboard_time": 1726212206,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 190894,
-      "num": 190894,
-      "word": "官方回应江西抚州天降火球",
-      "onboard_time": 1726213226,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190628,
@@ -1299,6 +1339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170105,
+      "num": 170105,
+      "word": "济南43岁女子冻龄般颜值",
+      "onboard_time": 1726216524,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166603,
       "num": 166603,
       "word": "老师保护了学生却没保护好自己",
@@ -1363,14 +1411,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 157688,
-      "num": 157688,
-      "word": "于正长文回应",
-      "onboard_time": 1726213764,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 156354,
       "num": 156354,
       "word": "俄罗斯总统普京会见王毅",
@@ -1409,6 +1449,14 @@
       "onboard_time": 1726211426,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152044,
+      "num": 1451898,
+      "word": "打车去杭州萧山机场为啥多收20元",
+      "onboard_time": 1726214783,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150278,
@@ -1625,14 +1673,6 @@
       "onboard_time": 1726145720,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 105585,
-      "num": 1451898,
-      "word": "打车去杭州萧山机场为啥多收20元",
-      "onboard_time": 1726214783,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104588,
@@ -2043,6 +2083,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 55197,
+      "num": 476510,
+      "word": "今天领的",
+      "onboard_time": 1726212266,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53958,
       "num": 509905,
       "word": "禁止新能源车进地库或涉嫌歧视",
@@ -2057,6 +2105,14 @@
       "onboard_time": 1726197139,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51926,
+      "num": 175744,
+      "word": "喝金乌扶摇后中彩票了",
+      "onboard_time": 1726214303,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 50532,
@@ -2116,7 +2172,7 @@
     },
     {
       "raw_hot": 45688,
-      "num": 220647,
+      "num": 852967,
       "word": "凭杭温高铁票可以免费游浙江了",
       "onboard_time": 1726215263,
       "rank": 34,
@@ -2171,20 +2227,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43087,
-      "num": 175744,
-      "word": "喝金乌扶摇后中彩票了",
-      "onboard_time": 1726214303,
-      "rank": 42,
-      "category": "美食"
-    },
-    {
       "raw_hot": 41681,
       "num": 234963,
       "word": "喜剧之王单口季",
       "onboard_time": 1726211727,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 41435,
+      "num": 1303445,
+      "word": "白鹿花妍大片",
+      "onboard_time": 1726213104,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 40473,
@@ -2209,6 +2265,14 @@
       "onboard_time": 1726196659,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 37861,
+      "num": 813950,
+      "word": "贵州茅台股价跌破1300元整数关口",
+      "onboard_time": 1726216644,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37143,
@@ -2259,20 +2323,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34265,
+      "num": 1201004,
+      "word": "一块钱上清华",
+      "onboard_time": 1726215804,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 33714,
       "num": 404981,
       "word": "男子称大桥噪音影响做题",
       "onboard_time": 1726210406,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31700,
-      "num": 1303445,
-      "word": "白鹿花妍大片",
-      "onboard_time": 1726213104,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 29799,
@@ -2313,14 +2377,6 @@
       "onboard_time": 1726165331,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 27224,
-      "num": 1162759,
-      "word": "一块钱上清华",
-      "onboard_time": 1726215804,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 24430,
@@ -2401,6 +2457,14 @@
       "onboard_time": 1726169351,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8948,
+      "num": 269743,
+      "word": "卓沅海边可美可美了",
+      "onboard_time": 1726216584,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 7082,
