@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726244748063,
+  "endTime": 1726245689324,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -2441,6 +2441,14 @@
       "onboard_time": 1726136179,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 665519,
+      "num": 665519,
+      "word": "网友三年前给洪尧的评论",
+      "onboard_time": 1726243160,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 664985,
@@ -5241,14 +5249,6 @@
       "onboard_time": 1725722840,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 311589,
-      "num": 311589,
-      "word": "网友三年前给洪尧的评论",
-      "onboard_time": 1726243160,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 311135,
@@ -11299,6 +11299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154233,
+      "num": 278985,
+      "word": "台风或以巅峰强度登陆浙江",
+      "onboard_time": 1726244599,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154182,
       "num": 154182,
       "word": "侃爷到达北京",
@@ -13891,6 +13899,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 122189,
+      "num": 122189,
+      "word": "徐子未说魏哲鸣上学时很耀眼",
+      "onboard_time": 1726244418,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122100,
       "num": 260987,
       "word": "鞠婧祎新公式照",
@@ -14577,14 +14593,6 @@
       "onboard_time": 1726222522,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 111520,
-      "num": 111520,
-      "word": "徐子未说魏哲鸣上学时很耀眼",
-      "onboard_time": 1726244418,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 111420,
@@ -15595,6 +15603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91596,
+      "num": 91596,
+      "word": "武艺谈恋爱了吗就上离婚综艺",
+      "onboard_time": 1726245077,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 91200,
       "num": 101121,
       "word": "樊振东去迪士尼玩了",
@@ -16451,14 +16467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 64754,
-      "num": 209501,
-      "word": "台风或以巅峰强度登陆浙江",
-      "onboard_time": 1726244599,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 64372,
       "num": 268899,
       "word": "央妈直击金龙鱼油生产过程",
@@ -16537,6 +16545,14 @@
       "onboard_time": 1725987555,
       "rank": 37,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 62237,
+      "num": 71418,
+      "word": "K总 搞笑",
+      "onboard_time": 1726245675,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 62022,
