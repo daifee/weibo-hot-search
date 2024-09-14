@@ -1,7 +1,15 @@
 {
   "startTime": 1726244748063,
-  "endTime": 1726295343948,
+  "endTime": 1726296120612,
   "band_list": [
+    {
+      "raw_hot": 3031035,
+      "num": 3031035,
+      "word": "于正晒出和吴谨言聊天记录",
+      "onboard_time": 1726295119,
+      "rank": 11,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2474512,
       "num": 2474512,
@@ -33,14 +41,6 @@
       "onboard_time": 1726278201,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1785015,
-      "num": 422637,
-      "word": "于正晒出和吴谨言聊天记录",
-      "onboard_time": 1726295119,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1770707,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 574117,
-      "num": 271416,
+      "num": 273217,
       "word": "中秋糕点开始扎推讨好年轻人",
       "onboard_time": 1726291880,
       "rank": 39,
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 516926,
+      "num": 389319,
+      "word": "谢瑜又得金牌了",
+      "onboard_time": 1726294880,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 502120,
       "num": 502120,
       "word": "杀妻欲藏尸冰柜案凶手至死没道歉",
@@ -361,6 +369,14 @@
       "onboard_time": 1726280598,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 458872,
+      "num": 387280,
+      "word": "李纯 是公众人物更是女儿",
+      "onboard_time": 1726293440,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 455839,
@@ -427,20 +443,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 405466,
+      "num": 383051,
+      "word": "迪丽热巴红衣贺思慕",
+      "onboard_time": 1726293741,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 389106,
       "num": 389106,
       "word": "张远收到了捧花",
       "onboard_time": 1726237463,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 379208,
-      "num": 379208,
-      "word": "迪丽热巴红衣贺思慕",
-      "onboard_time": 1726293741,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 364962,
@@ -483,14 +499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 318683,
-      "num": 318683,
-      "word": "谢瑜又得金牌了",
-      "onboard_time": 1726294880,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 314221,
       "num": 314221,
       "word": "极危动物追着濒危动物咬",
@@ -507,20 +515,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 307554,
-      "num": 307554,
-      "word": "李纯 是公众人物更是女儿",
-      "onboard_time": 1726293440,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 306236,
       "num": 306236,
       "word": "刘亦菲和助理逛街吃火锅",
       "onboard_time": 1726283000,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 299484,
+      "num": 263141,
+      "word": "苏醒喂老婆喝水",
+      "onboard_time": 1726295541,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 286608,
@@ -635,6 +643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 246360,
+      "num": 246360,
+      "word": "朱开力挺Scout",
+      "onboard_time": 1726294940,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 244786,
       "num": 244786,
       "word": "张百乔你真是出息了",
@@ -721,14 +737,6 @@
       "onboard_time": 1726287982,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 224168,
-      "num": 224168,
-      "word": "朱开力挺Scout",
-      "onboard_time": 1726294940,
-      "rank": 29,
-      "category": "电竞"
     },
     {
       "raw_hot": 219662,
@@ -835,6 +843,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 203062,
+      "num": 203062,
+      "word": "Henry又过上了向往的生活",
+      "onboard_time": 1726292901,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201609,
       "num": 201609,
       "word": "野孩子票房",
@@ -865,14 +881,6 @@
       "onboard_time": 1726288401,
       "rank": 37,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 199951,
-      "num": 199951,
-      "word": "Henry又过上了向往的生活",
-      "onboard_time": 1726292901,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 195449,
@@ -980,7 +988,7 @@
     },
     {
       "raw_hot": 175150,
-      "num": 175150,
+      "num": 389892,
       "word": "擅长提供情绪价值情绪就没有价值",
       "onboard_time": 1726293020,
       "rank": 39,
@@ -1011,12 +1019,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 171976,
+      "num": 171976,
+      "word": "大熊猫有自己的平头小帅哥",
+      "onboard_time": 1726294700,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171420,
       "num": 171420,
       "word": "东风快递员是怎么押运导弹的",
       "onboard_time": 1726281019,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168785,
+      "num": 168785,
+      "word": "张新成重回现偶",
+      "onboard_time": 1726295780,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 166284,
@@ -1067,14 +1091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157806,
-      "num": 157806,
-      "word": "大熊猫有自己的平头小帅哥",
-      "onboard_time": 1726294700,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151335,
       "num": 151335,
       "word": "高一女生腹痛几天后发现卵巢肿瘤",
@@ -1123,6 +1139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145369,
+      "num": 145369,
+      "word": "王珞丹的裙子原来开衩这么高",
+      "onboard_time": 1726296019,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 145354,
       "num": 145354,
       "word": "四川宜宾市发生3.6级地震",
@@ -1147,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140362,
+      "num": 140362,
+      "word": "为什么苹果不做节假日闹钟",
+      "onboard_time": 1726295060,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 140329,
       "num": 140329,
       "word": "王一涵历史性夺冠",
@@ -1161,6 +1193,14 @@
       "onboard_time": 1726287442,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138635,
+      "num": 138635,
+      "word": "成为外卖之王是什么体验",
+      "onboard_time": 1726295839,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 137109,
@@ -1203,6 +1243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134071,
+      "num": 134071,
+      "word": "珠帘玉幕片场日常",
+      "onboard_time": 1726295719,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134070,
       "num": 134070,
       "word": "4个动作健康瘦肚子",
@@ -1227,12 +1275,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129336,
-      "num": 129336,
-      "word": "为什么苹果不做节假日闹钟",
-      "onboard_time": 1726295060,
-      "rank": 48,
-      "category": "数码"
+      "raw_hot": 129832,
+      "num": 129832,
+      "word": "官方回应学校保安持械击打家长",
+      "onboard_time": 1726296080,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129147,
@@ -1305,6 +1353,14 @@
       "onboard_time": 1726274061,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 119901,
+      "num": 386688,
+      "word": "iPhone16开售一小时天猫补货15次",
+      "onboard_time": 1726293620,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 118956,
@@ -1481,14 +1537,6 @@
       "onboard_time": 1726293321,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 90251,
-      "num": 368796,
-      "word": "iPhone16开售一小时天猫补货15次",
-      "onboard_time": 1726293620,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 89725,
@@ -1731,6 +1779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44179,
+      "num": 428666,
+      "word": "给相亲中介花一万八的脱单历险记",
+      "onboard_time": 1726294402,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41584,
       "num": 274977,
       "word": "雅 我只怕我再也没有吉他",
@@ -1745,14 +1801,6 @@
       "onboard_time": 1726248494,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 39157,
-      "num": 428666,
-      "word": "给相亲中介花一万八的脱单历险记",
-      "onboard_time": 1726294402,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38820,
@@ -1785,6 +1833,14 @@
       "onboard_time": 1726290271,
       "rank": 29,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 30287,
+      "num": 142269,
+      "word": "中秋聚会怎么穿",
+      "onboard_time": 1726295600,
+      "rank": 43,
+      "category": "时尚"
     },
     {
       "raw_hot": 27925,
@@ -1891,20 +1947,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 10849,
+      "num": 304615,
+      "word": "苔花如米小 也学牡丹开",
+      "onboard_time": 1726295180,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 10836,
       "num": 39873,
       "word": "退休教师去世捐献角膜和遗体",
       "onboard_time": 1726258930,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8682,
-      "num": 234339,
-      "word": "苔花如米小 也学牡丹开",
-      "onboard_time": 1726295180,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 8251,

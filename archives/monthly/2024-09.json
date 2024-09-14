@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726295343948,
+  "endTime": 1726296120612,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -257,6 +257,14 @@
       "onboard_time": 1725365420,
       "rank": 10,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 3031035,
+      "num": 3031035,
+      "word": "于正晒出和吴谨言聊天记录",
+      "onboard_time": 1726295119,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 3016886,
@@ -872,14 +880,6 @@
       "word": "吴谨言 上升期结婚",
       "onboard_time": 1726201654,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1785015,
-      "num": 422637,
-      "word": "于正晒出和吴谨言聊天记录",
-      "onboard_time": 1726295119,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -6868,7 +6868,7 @@
     },
     {
       "raw_hot": 574117,
-      "num": 271416,
+      "num": 273217,
       "word": "中秋糕点开始扎推讨好年轻人",
       "onboard_time": 1726291880,
       "rank": 39,
@@ -7665,6 +7665,14 @@
       "onboard_time": 1726269498,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 516926,
+      "num": 389319,
+      "word": "谢瑜又得金牌了",
+      "onboard_time": 1726294880,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 516088,
@@ -8747,6 +8755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 458872,
+      "num": 387280,
+      "word": "李纯 是公众人物更是女儿",
+      "onboard_time": 1726293440,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 457214,
       "num": 285660,
       "word": "巨型猫尾惊现郑州街头",
@@ -9779,6 +9795,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 405466,
+      "num": 383051,
+      "word": "迪丽热巴红衣贺思慕",
+      "onboard_time": 1726293741,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 404737,
       "num": 404737,
       "word": "明侦团综",
@@ -10273,14 +10297,6 @@
       "onboard_time": 1725976104,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 379208,
-      "num": 379208,
-      "word": "迪丽热巴红衣贺思慕",
-      "onboard_time": 1726293741,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 379134,
@@ -11683,14 +11699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 318683,
-      "num": 318683,
-      "word": "谢瑜又得金牌了",
-      "onboard_time": 1726294880,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 318119,
       "num": 318119,
       "word": "徐冬冬尹子维是怎么找到这个赛道的",
@@ -11995,14 +12003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 307554,
-      "num": 307554,
-      "word": "李纯 是公众人物更是女儿",
-      "onboard_time": 1726293440,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 307545,
       "num": 307545,
       "word": "我妈的17岁比我还癫",
@@ -12289,6 +12289,14 @@
       "onboard_time": 1725321379,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299484,
+      "num": 263141,
+      "word": "苏醒喂老婆喝水",
+      "onboard_time": 1726295541,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 299231,
@@ -14627,6 +14635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246360,
+      "num": 246360,
+      "word": "朱开力挺Scout",
+      "onboard_time": 1726294940,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 246311,
       "num": 246311,
       "word": "时尚芭莎十月刊",
@@ -16193,14 +16209,6 @@
       "onboard_time": 1725698301,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 224168,
-      "num": 224168,
-      "word": "朱开力挺Scout",
-      "onboard_time": 1726294940,
-      "rank": 29,
-      "category": "电竞"
     },
     {
       "raw_hot": 224140,
@@ -18315,6 +18323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203062,
+      "num": 203062,
+      "word": "Henry又过上了向往的生活",
+      "onboard_time": 1726292901,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203048,
       "num": 203048,
       "word": "王俊凯三部电影接连上映",
@@ -18745,14 +18761,6 @@
       "onboard_time": 1725664575,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199951,
-      "num": 199951,
-      "word": "Henry又过上了向往的生活",
-      "onboard_time": 1726292901,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 199910,
@@ -22908,7 +22916,7 @@
     },
     {
       "raw_hot": 175150,
-      "num": 175150,
+      "num": 389892,
       "word": "擅长提供情绪价值情绪就没有价值",
       "onboard_time": 1726293020,
       "rank": 39,
@@ -23459,6 +23467,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 171976,
+      "num": 171976,
+      "word": "大熊猫有自己的平头小帅哥",
+      "onboard_time": 1726294700,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171930,
       "num": 171930,
       "word": "一个受教育的女性可以改变三代人命运",
@@ -23865,6 +23881,14 @@
       "onboard_time": 1725784578,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168785,
+      "num": 168785,
+      "word": "张新成重回现偶",
+      "onboard_time": 1726295780,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 168759,
@@ -25743,14 +25767,6 @@
       "num": 157816,
       "word": "台风摩羯造成文昌经济损失327亿元",
       "onboard_time": 1725716301,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157806,
-      "num": 157806,
-      "word": "大熊猫有自己的平头小帅哥",
-      "onboard_time": 1726294700,
       "rank": 42,
       "category": "社会新闻"
     },
@@ -27971,6 +27987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 145369,
+      "num": 145369,
+      "word": "王珞丹的裙子原来开衩这么高",
+      "onboard_time": 1726296019,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 145354,
       "num": 145354,
       "word": "四川宜宾市发生3.6级地震",
@@ -28715,6 +28739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140362,
+      "num": 140362,
+      "word": "为什么苹果不做节假日闹钟",
+      "onboard_time": 1726295060,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 140350,
       "num": 140350,
       "word": "铁打的边水往事第四集",
@@ -28937,6 +28969,14 @@
       "onboard_time": 1725930020,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138635,
+      "num": 138635,
+      "word": "成为外卖之王是什么体验",
+      "onboard_time": 1726295839,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 138602,
@@ -29595,6 +29635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134071,
+      "num": 134071,
+      "word": "珠帘玉幕片场日常",
+      "onboard_time": 1726295719,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134070,
       "num": 134070,
       "word": "4个动作健康瘦肚子",
@@ -30187,6 +30235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129832,
+      "num": 129832,
+      "word": "官方回应学校保安持械击打家长",
+      "onboard_time": 1726296080,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129752,
       "num": 129752,
       "word": "国足日本赛前抢圈热身对比鲜明",
@@ -30297,14 +30353,6 @@
       "onboard_time": 1725332600,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129336,
-      "num": 129336,
-      "word": "为什么苹果不做节假日闹钟",
-      "onboard_time": 1726295060,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 129294,
@@ -31529,6 +31577,14 @@
       "onboard_time": 1725333141,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119901,
+      "num": 386688,
+      "word": "iPhone16开售一小时天猫补货15次",
+      "onboard_time": 1726293620,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 119893,
@@ -33953,14 +34009,6 @@
       "onboard_time": 1725123797,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 90251,
-      "num": 368796,
-      "word": "iPhone16开售一小时天猫补货15次",
-      "onboard_time": 1726293620,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 90189,
@@ -37451,6 +37499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44179,
+      "num": 428666,
+      "word": "给相亲中介花一万八的脱单历险记",
+      "onboard_time": 1726294402,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44158,
       "num": 407662,
       "word": "警犬技术专业学生抽签选警犬",
@@ -38057,14 +38113,6 @@
       "onboard_time": 1725253942,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 39157,
-      "num": 428666,
-      "word": "给相亲中介花一万八的脱单历险记",
-      "onboard_time": 1726294402,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39150,
@@ -39337,6 +39385,14 @@
       "onboard_time": 1725174319,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30287,
+      "num": 142269,
+      "word": "中秋聚会怎么穿",
+      "onboard_time": 1726295600,
+      "rank": 43,
+      "category": "时尚"
     },
     {
       "raw_hot": 30170,
@@ -41411,6 +41467,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 10849,
+      "num": 304615,
+      "word": "苔花如米小 也学牡丹开",
+      "onboard_time": 1726295180,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 10836,
       "num": 39873,
       "word": "退休教师去世捐献角膜和遗体",
@@ -41513,14 +41577,6 @@
       "onboard_time": 1726216584,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 8682,
-      "num": 234339,
-      "word": "苔花如米小 也学牡丹开",
-      "onboard_time": 1726295180,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 8309,

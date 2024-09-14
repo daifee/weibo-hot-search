@@ -1,0 +1,410 @@
+{
+  "runTime": 1726296120612,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3031035,
+        "num": 3031035,
+        "word": "于正晒出和吴谨言聊天记录",
+        "onboard_time": 1726295119,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 951398,
+        "num": 951398,
+        "word": "中国午睡第一省不想睡了",
+        "onboard_time": 1726287019,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7780,
+        "num": 789578,
+        "word": "人民军队淬火向前",
+        "onboard_time": 1726081931,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2119329,
+        "num": 774283,
+        "word": "街道办回应李纯怒斥小区物业",
+        "onboard_time": 1726290630,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 745574,
+        "num": 745574,
+        "word": "美国将砸16亿美元全球抹黑中国",
+        "onboard_time": 1726287380,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394475,
+        "num": 394475,
+        "word": "100块一个的月饼到底是谁在买",
+        "onboard_time": 1726286839,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1240386,
+        "num": 393718,
+        "word": "阿如那当爸爸了",
+        "onboard_time": 1726289361,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 838420,
+        "num": 393077,
+        "word": "王星越昨天才知道吴谨言结婚",
+        "onboard_time": 1726286301,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119751,
+        "num": 391841,
+        "word": "台风贝碧嘉已进入48小时警戒线",
+        "onboard_time": 1726293081,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44179,
+        "num": 391512,
+        "word": "给相亲中介花一万八的脱单历险记",
+        "onboard_time": 1726294402,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130902,
+        "num": 389892,
+        "word": "擅长提供情绪价值情绪就没有价值",
+        "onboard_time": 1726293020,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 516926,
+        "num": 389319,
+        "word": "谢瑜又得金牌了",
+        "onboard_time": 1726294880,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 474900,
+        "num": 387915,
+        "word": "王鹤棣说大奉打更人弄死所有人",
+        "onboard_time": 1726283299,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 458872,
+        "num": 387280,
+        "word": "李纯 是公众人物更是女儿",
+        "onboard_time": 1726293440,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119901,
+        "num": 386688,
+        "word": "iPhone16开售一小时天猫补货15次",
+        "onboard_time": 1726293620,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 385979,
+        "num": 385979,
+        "word": "贝碧嘉",
+        "onboard_time": 1726284859,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405466,
+        "num": 383051,
+        "word": "迪丽热巴红衣贺思慕",
+        "onboard_time": 1726293741,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10849,
+        "num": 304615,
+        "word": "苔花如米小 也学牡丹开",
+        "onboard_time": 1726295180,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 444556,
+        "num": 302823,
+        "word": "李纯再发声",
+        "onboard_time": 1726288582,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284113,
+        "num": 284113,
+        "word": "iPhone16不送苹果logo贴纸",
+        "onboard_time": 1726281019,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 887425,
+        "num": 282949,
+        "word": "家长在班级群连发不雅视频抓小三",
+        "onboard_time": 1726290032,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591161,
+        "num": 275105,
+        "word": "吴谨言结婚照衣服是三年前的联名款",
+        "onboard_time": 1726285459,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475928,
+        "num": 273217,
+        "word": "中秋糕点开始扎推讨好年轻人",
+        "onboard_time": 1726291880,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346913,
+        "num": 266830,
+        "word": "张兰自曝将参加花儿与少年",
+        "onboard_time": 1726287862,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299484,
+        "num": 263141,
+        "word": "苏醒喂老婆喝水",
+        "onboard_time": 1726295541,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259338,
+        "num": 259338,
+        "word": "田柾国应援NewJeans",
+        "onboard_time": 1726287019,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246360,
+        "num": 246360,
+        "word": "朱开力挺Scout",
+        "onboard_time": 1726294940,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 241373,
+        "num": 241373,
+        "word": "女子被要求每天给领导带饭但不给钱",
+        "onboard_time": 1726279700,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228025,
+        "num": 228025,
+        "word": "南派三叔在藏海花里填坑了",
+        "onboard_time": 1726292428,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222242,
+        "num": 222242,
+        "word": "徐正溪退圈后首部作品开播",
+        "onboard_time": 1726293020,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217096,
+        "num": 217096,
+        "word": "白鹿在陆虎婚礼上发言",
+        "onboard_time": 1726282399,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203062,
+        "num": 203062,
+        "word": "Henry又过上了向往的生活",
+        "onboard_time": 1726292901,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200806,
+        "num": 200806,
+        "word": "于正回应洪尧黑料",
+        "onboard_time": 1726281258,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193421,
+        "num": 193421,
+        "word": "男子专挑退休阿姨认干妈实施敲诈",
+        "onboard_time": 1726286119,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176419,
+        "num": 176419,
+        "word": "毛晓彤侧边盘发",
+        "onboard_time": 1726294459,
+        "rank": 34,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 175754,
+        "num": 175754,
+        "word": "王楚钦弧线",
+        "onboard_time": 1726292249,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171976,
+        "num": 171976,
+        "word": "大熊猫有自己的平头小帅哥",
+        "onboard_time": 1726294700,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168785,
+        "num": 168785,
+        "word": "张新成重回现偶",
+        "onboard_time": 1726295780,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165992,
+        "num": 165992,
+        "word": "血腥爱情故事",
+        "onboard_time": 1726293261,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163972,
+        "num": 163972,
+        "word": "香港美诚月饼究竟产自哪里",
+        "onboard_time": 1726285280,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157678,
+        "num": 157678,
+        "word": "赵丽颖李红樱簪花嫁衣造型",
+        "onboard_time": 1726292180,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153234,
+        "num": 153234,
+        "word": "公司发的月饼",
+        "onboard_time": 1726276399,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145369,
+        "num": 145369,
+        "word": "王珞丹的裙子原来开衩这么高",
+        "onboard_time": 1726296019,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 30287,
+        "num": 142269,
+        "word": "中秋聚会怎么穿",
+        "onboard_time": 1726295600,
+        "rank": 43,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 140362,
+        "num": 140362,
+        "word": "为什么苹果不做节假日闹钟",
+        "onboard_time": 1726295060,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 138635,
+        "num": 138635,
+        "word": "成为外卖之王是什么体验",
+        "onboard_time": 1726295839,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134311,
+        "num": 134311,
+        "word": "5岁女童小区内玩耍时被碾压致死",
+        "onboard_time": 1726273220,
+        "rank": 46,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 134071,
+        "num": 134071,
+        "word": "珠帘玉幕片场日常",
+        "onboard_time": 1726295719,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132975,
+        "num": 132975,
+        "word": "大奉打更人导演回应",
+        "onboard_time": 1726291470,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129832,
+        "num": 129832,
+        "word": "官方回应学校保安持械击打家长",
+        "onboard_time": 1726296080,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看九曲黄河展新颜#"
+    }
+  }
+}
