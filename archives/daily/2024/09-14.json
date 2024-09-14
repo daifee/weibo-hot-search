@@ -1,6 +1,6 @@
 {
   "startTime": 1726244748063,
-  "endTime": 1726292283680,
+  "endTime": 1726295343948,
   "band_list": [
     {
       "raw_hot": 2474512,
@@ -8,6 +8,14 @@
       "word": "王星越昨天才知道吴谨言结婚",
       "onboard_time": 1726286301,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2233178,
+      "num": 2233178,
+      "word": "街道办回应李纯怒斥小区物业",
+      "onboard_time": 1726290630,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -25,6 +33,14 @@
       "onboard_time": 1726278201,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1785015,
+      "num": 422637,
+      "word": "于正晒出和吴谨言聊天记录",
+      "onboard_time": 1726295119,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1770707,
@@ -291,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 574117,
+      "num": 271416,
+      "word": "中秋糕点开始扎推讨好年轻人",
+      "onboard_time": 1726291880,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 524895,
       "num": 478396,
       "word": "女生许愿不上班被浪撤回一个不",
@@ -355,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 427416,
+      "num": 501609,
+      "word": "100块一个的月饼到底是谁在买",
+      "onboard_time": 1726286839,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 425302,
       "num": 425302,
       "word": "调休",
@@ -403,12 +435,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 382439,
-      "num": 271511,
-      "word": "街道办回应李纯怒斥小区物业",
-      "onboard_time": 1726290630,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 379208,
+      "num": 379208,
+      "word": "迪丽热巴红衣贺思慕",
+      "onboard_time": 1726293741,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 364962,
@@ -451,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 318683,
+      "num": 318683,
+      "word": "谢瑜又得金牌了",
+      "onboard_time": 1726294880,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 314221,
       "num": 314221,
       "word": "极危动物追着濒危动物咬",
@@ -467,20 +507,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307554,
+      "num": 307554,
+      "word": "李纯 是公众人物更是女儿",
+      "onboard_time": 1726293440,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306236,
       "num": 306236,
       "word": "刘亦菲和助理逛街吃火锅",
       "onboard_time": 1726283000,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 300187,
-      "num": 501609,
-      "word": "100块一个的月饼到底是谁在买",
-      "onboard_time": 1726286839,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 286608,
@@ -515,6 +555,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 277969,
+      "num": 272142,
+      "word": "南派三叔在藏海花里填坑了",
+      "onboard_time": 1726292428,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 274899,
       "num": 274899,
       "word": "云南宁洱3.4级地震",
@@ -529,6 +577,14 @@
       "onboard_time": 1726290751,
       "rank": 35,
       "category": "游戏,动漫"
+    },
+    {
+      "raw_hot": 269782,
+      "num": 269782,
+      "word": "徐正溪退圈后首部作品开播",
+      "onboard_time": 1726293020,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 269693,
@@ -667,6 +723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 224168,
+      "num": 224168,
+      "word": "朱开力挺Scout",
+      "onboard_time": 1726294940,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 219662,
       "num": 219662,
       "word": "苹果芯片负责人国内首次对谈",
@@ -803,6 +867,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 199951,
+      "num": 199951,
+      "word": "Henry又过上了向往的生活",
+      "onboard_time": 1726292901,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195449,
       "num": 195449,
       "word": "陆虎张远王铮亮抱一起",
@@ -819,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192049,
+      "num": 192049,
+      "word": "毛晓彤侧边盘发",
+      "onboard_time": 1726294459,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 191072,
       "num": 191072,
       "word": "iPhone16系列更换电池费用",
@@ -833,6 +913,22 @@
       "onboard_time": 1726279579,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187432,
+      "num": 187432,
+      "word": "王楚钦弧线",
+      "onboard_time": 1726292249,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 184285,
+      "num": 184285,
+      "word": "血腥爱情故事",
+      "onboard_time": 1726293261,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 184271,
@@ -875,6 +971,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 175265,
+      "num": 175265,
+      "word": "赵丽颖李红樱簪花嫁衣造型",
+      "onboard_time": 1726292180,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 175150,
+      "num": 175150,
+      "word": "擅长提供情绪价值情绪就没有价值",
+      "onboard_time": 1726293020,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173310,
       "num": 173310,
       "word": "黑神话章节动画上线B站",
@@ -889,14 +1001,6 @@
       "onboard_time": 1726284259,
       "rank": 32,
       "category": "国内时政,财经"
-    },
-    {
-      "raw_hot": 172730,
-      "num": 172730,
-      "word": "中秋糕点开始扎推讨好年轻人",
-      "onboard_time": 1726291880,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172093,
@@ -963,12 +1067,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155131,
-      "num": 155131,
-      "word": "赵丽颖李红樱簪花嫁衣造型",
-      "onboard_time": 1726292180,
-      "rank": 45,
-      "category": "电影"
+      "raw_hot": 157806,
+      "num": 157806,
+      "word": "大熊猫有自己的平头小帅哥",
+      "onboard_time": 1726294700,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151335,
@@ -977,14 +1081,6 @@
       "onboard_time": 1726269678,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150763,
-      "num": 150763,
-      "word": "王楚钦弧线",
-      "onboard_time": 1726292249,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 150665,
@@ -1075,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135546,
+      "num": 135546,
+      "word": "田柾国发了五个心",
+      "onboard_time": 1726294819,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134768,
       "num": 134768,
       "word": "维金斯父亲去世",
@@ -1099,12 +1203,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134070,
+      "num": 134070,
+      "word": "4个动作健康瘦肚子",
+      "onboard_time": 1726295180,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 133234,
       "num": 133234,
       "word": "金珉奎背徐明浩",
       "onboard_time": 1726239623,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130481,
+      "num": 436915,
+      "word": "台风贝碧嘉已进入48小时警戒线",
+      "onboard_time": 1726293081,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129336,
+      "num": 129336,
+      "word": "为什么苹果不做节假日闹钟",
+      "onboard_time": 1726295060,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 129147,
+      "num": 129147,
+      "word": "美众院通过抹黑宣传中国法案",
+      "onboard_time": 1726294880,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 128698,
@@ -1339,6 +1475,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 92528,
+      "num": 184479,
+      "word": "男子遭女友辱骂凌晨划15辆车泄愤",
+      "onboard_time": 1726293321,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90251,
+      "num": 368796,
+      "word": "iPhone16开售一小时天猫补货15次",
+      "onboard_time": 1726293620,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 89725,
       "num": 209365,
       "word": "普华永道暂停经营业务6个月",
@@ -1459,6 +1611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 69737,
+      "num": 292296,
+      "word": "91岁游本昌的满月",
+      "onboard_time": 1726290570,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68971,
       "num": 507585,
       "word": "天籁真心12万了",
@@ -1571,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41584,
+      "num": 274977,
+      "word": "雅 我只怕我再也没有吉他",
+      "onboard_time": 1726285160,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40941,
       "num": 40941,
       "word": "易烊千玺色彩勾勒本真轮廓",
@@ -1579,12 +1747,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 40929,
-      "num": 292296,
-      "word": "91岁游本昌的满月",
-      "onboard_time": 1726290570,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 39157,
+      "num": 428666,
+      "word": "给相亲中介花一万八的脱单历险记",
+      "onboard_time": 1726294402,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38820,
@@ -1729,6 +1897,14 @@
       "onboard_time": 1726258930,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8682,
+      "num": 234339,
+      "word": "苔花如米小 也学牡丹开",
+      "onboard_time": 1726295180,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 8251,

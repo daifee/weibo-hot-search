@@ -1,0 +1,410 @@
+{
+  "runTime": 1726295343948,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2233178,
+        "num": 2233178,
+        "word": "街道办回应李纯怒斥小区物业",
+        "onboard_time": 1726290630,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1049768,
+        "num": 1049768,
+        "word": "中国午睡第一省不想睡了",
+        "onboard_time": 1726287019,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7105,
+        "num": 893746,
+        "word": "人民军队淬火向前",
+        "onboard_time": 1726081931,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1400642,
+        "num": 864700,
+        "word": "阿如那当爸爸了",
+        "onboard_time": 1726289361,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 830610,
+        "num": 830610,
+        "word": "美国将砸16亿美元全球抹黑中国",
+        "onboard_time": 1726287380,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450841,
+        "num": 450841,
+        "word": "贝碧嘉",
+        "onboard_time": 1726284859,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 952059,
+        "num": 448320,
+        "word": "王星越昨天才知道吴谨言结婚",
+        "onboard_time": 1726286301,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612846,
+        "num": 444770,
+        "word": "李纯再发声",
+        "onboard_time": 1726288582,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130481,
+        "num": 436915,
+        "word": "台风贝碧嘉已进入48小时警戒线",
+        "onboard_time": 1726293081,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39157,
+        "num": 428666,
+        "word": "给相亲中介花一万八的脱单历险记",
+        "onboard_time": 1726294402,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427416,
+        "num": 427416,
+        "word": "100块一个的月饼到底是谁在买",
+        "onboard_time": 1726286839,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1785015,
+        "num": 422637,
+        "word": "于正晒出和吴谨言聊天记录",
+        "onboard_time": 1726295119,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 504343,
+        "num": 405859,
+        "word": "王鹤棣说大奉打更人弄死所有人",
+        "onboard_time": 1726283299,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379208,
+        "num": 379208,
+        "word": "迪丽热巴红衣贺思慕",
+        "onboard_time": 1726293741,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90251,
+        "num": 368796,
+        "word": "iPhone16开售一小时天猫补货15次",
+        "onboard_time": 1726293620,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 366455,
+        "num": 366455,
+        "word": "张兰自曝将参加花儿与少年",
+        "onboard_time": 1726287862,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355034,
+        "num": 355034,
+        "word": "iPhone16不送苹果logo贴纸",
+        "onboard_time": 1726281019,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 318683,
+        "num": 318683,
+        "word": "谢瑜又得金牌了",
+        "onboard_time": 1726294880,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307554,
+        "num": 307554,
+        "word": "李纯 是公众人物更是女儿",
+        "onboard_time": 1726293440,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275094,
+        "num": 275094,
+        "word": "女子被要求每天给领导带饭但不给钱",
+        "onboard_time": 1726279700,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41584,
+        "num": 274977,
+        "word": "雅 我只怕我再也没有吉他",
+        "onboard_time": 1726285160,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1044487,
+        "num": 273641,
+        "word": "家长在班级群连发不雅视频抓小三",
+        "onboard_time": 1726290032,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 716725,
+        "num": 273001,
+        "word": "吴谨言结婚照衣服是三年前的联名款",
+        "onboard_time": 1726285459,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277969,
+        "num": 272142,
+        "word": "南派三叔在藏海花里填坑了",
+        "onboard_time": 1726292428,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 574117,
+        "num": 271416,
+        "word": "中秋糕点开始扎推讨好年轻人",
+        "onboard_time": 1726291880,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322199,
+        "num": 269990,
+        "word": "田柾国应援NewJeans",
+        "onboard_time": 1726287019,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269782,
+        "num": 269782,
+        "word": "徐正溪退圈后首部作品开播",
+        "onboard_time": 1726293020,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251453,
+        "num": 251453,
+        "word": "白鹿在陆虎婚礼上发言",
+        "onboard_time": 1726282399,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 8682,
+        "num": 234339,
+        "word": "苔花如米小 也学牡丹开",
+        "onboard_time": 1726295180,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 224168,
+        "num": 224168,
+        "word": "朱开力挺Scout",
+        "onboard_time": 1726294940,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 213858,
+        "num": 213858,
+        "word": "于正回应洪尧黑料",
+        "onboard_time": 1726281258,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199951,
+        "num": 199951,
+        "word": "Henry又过上了向往的生活",
+        "onboard_time": 1726292901,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199124,
+        "num": 199124,
+        "word": "男子专挑退休阿姨认干妈实施敲诈",
+        "onboard_time": 1726286119,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192049,
+        "num": 192049,
+        "word": "毛晓彤侧边盘发",
+        "onboard_time": 1726294459,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187432,
+        "num": 187432,
+        "word": "王楚钦弧线",
+        "onboard_time": 1726292249,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69737,
+        "num": 185834,
+        "word": "91岁游本昌的满月",
+        "onboard_time": 1726290570,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92528,
+        "num": 184479,
+        "word": "男子遭女友辱骂凌晨划15辆车泄愤",
+        "onboard_time": 1726293321,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184285,
+        "num": 184285,
+        "word": "血腥爱情故事",
+        "onboard_time": 1726293261,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175265,
+        "num": 175265,
+        "word": "赵丽颖李红樱簪花嫁衣造型",
+        "onboard_time": 1726292180,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175150,
+        "num": 175150,
+        "word": "擅长提供情绪价值情绪就没有价值",
+        "onboard_time": 1726293020,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166352,
+        "num": 166352,
+        "word": "大奉打更人导演回应",
+        "onboard_time": 1726291470,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164236,
+        "num": 164236,
+        "word": "5岁女童小区内玩耍时被碾压致死",
+        "onboard_time": 1726273220,
+        "rank": 41,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 157806,
+        "num": 157806,
+        "word": "大熊猫有自己的平头小帅哥",
+        "onboard_time": 1726294700,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153354,
+        "num": 153354,
+        "word": "香港美诚月饼究竟产自哪里",
+        "onboard_time": 1726285280,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138636,
+        "num": 138636,
+        "word": "黄奕黄晓明已经认识21年了",
+        "onboard_time": 1726289431,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137101,
+        "num": 137101,
+        "word": "公司发的月饼",
+        "onboard_time": 1726276399,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135546,
+        "num": 135546,
+        "word": "田柾国发了五个心",
+        "onboard_time": 1726294819,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134070,
+        "num": 134070,
+        "word": "4个动作健康瘦肚子",
+        "onboard_time": 1726295180,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 129336,
+        "num": 129336,
+        "word": "为什么苹果不做节假日闹钟",
+        "onboard_time": 1726295060,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 129147,
+        "num": 129147,
+        "word": "美众院通过抹黑宣传中国法案",
+        "onboard_time": 1726294880,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的中秋祝福#"
+    }
+  }
+}
