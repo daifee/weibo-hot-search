@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726278751168,
+  "endTime": 1726281846698,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -537,6 +537,14 @@
       "onboard_time": 1725866599,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2208398,
+      "num": 2208398,
+      "word": "背叛郑钦文的教练失业了",
+      "onboard_time": 1726278201,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 2147868,
@@ -1756,7 +1764,7 @@
     },
     {
       "raw_hot": 1356820,
-      "num": 752783,
+      "num": 995186,
       "word": "于正否认吴谨言三年前领证",
       "onboard_time": 1726275561,
       "rank": 3,
@@ -4411,6 +4419,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 800847,
+      "num": 800847,
+      "word": "公司发的月饼",
+      "onboard_time": 1726276399,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 800797,
       "num": 941987,
       "word": "野孩子 定档",
@@ -4585,6 +4601,14 @@
       "onboard_time": 1725717981,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 777343,
+      "num": 698048,
+      "word": "陆虎陈曌旭的婚礼不收礼金",
+      "onboard_time": 1726278020,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 777134,
@@ -9075,6 +9099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 429116,
+      "num": 394098,
+      "word": "金高银G社生图",
+      "onboard_time": 1726280598,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 429048,
       "num": 429048,
       "word": "唐尚珺大学报到称35岁耗不起了",
@@ -9137,6 +9169,14 @@
       "onboard_time": 1726143139,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 425302,
+      "num": 425302,
+      "word": "调休",
+      "onboard_time": 1726276700,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 424974,
@@ -9683,14 +9723,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 399898,
-      "num": 399898,
-      "word": "背叛郑钦文的教练失业了",
-      "onboard_time": 1726278201,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 399674,
       "num": 399674,
       "word": "父亲回应婴儿出租屋饿到营养不良",
@@ -9779,14 +9811,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 394098,
-      "num": 394098,
-      "word": "陆虎陈曌旭的婚礼不收礼金",
-      "onboard_time": 1726278020,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 393350,
       "num": 393350,
       "word": "黄磊祝贺彭昱畅",
@@ -9817,6 +9841,14 @@
       "onboard_time": 1725360019,
       "rank": 18,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 392144,
+      "num": 392144,
+      "word": "女子被要求每天给领导带饭但不给钱",
+      "onboard_time": 1726279700,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 391886,
@@ -10225,14 +10257,6 @@
       "onboard_time": 1725156198,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 370427,
-      "num": 370427,
-      "word": "公司发的月饼",
-      "onboard_time": 1726276399,
-      "rank": 22,
-      "category": "美食"
     },
     {
       "raw_hot": 370139,
@@ -11123,6 +11147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331502,
+      "num": 331502,
+      "word": "iPhone16不送苹果logo贴纸",
+      "onboard_time": 1726281019,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 331321,
       "num": 331321,
       "word": "赵露思黑色无袖伞裙",
@@ -11488,14 +11520,6 @@
       "word": "为什么共享充电宝越来越难还了",
       "onboard_time": 1725523461,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 317562,
-      "num": 317562,
-      "word": "调休",
-      "onboard_time": 1726276700,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -13803,6 +13827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257431,
+      "num": 257431,
+      "word": "于正回应洪尧黑料",
+      "onboard_time": 1726281258,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257364,
       "num": 257364,
       "word": "被人咬伤比被动物咬伤更严重",
@@ -14209,6 +14241,14 @@
       "onboard_time": 1725286523,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 248868,
+      "num": 248868,
+      "word": "妈妈一定在天上急得团团转",
+      "onboard_time": 1726279939,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248767,
@@ -14752,6 +14792,14 @@
       "word": "黄子韬把徐艺洋拍成恐怖片",
       "onboard_time": 1726134440,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 240520,
+      "num": 240520,
+      "word": "陆虎婚礼转圈合唱像你这样的朋友",
+      "onboard_time": 1726279160,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -15393,6 +15441,14 @@
       "onboard_time": 1726273220,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230337,
+      "num": 230337,
+      "word": "苗苗正是最纯饿的年纪顾不上早恋",
+      "onboard_time": 1726280120,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 230269,
@@ -16841,6 +16897,14 @@
       "onboard_time": 1725427100,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211310,
+      "num": 211310,
+      "word": "苹果芯片负责人国内首次对谈",
+      "onboard_time": 1726281019,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 211157,
@@ -19009,6 +19073,14 @@
       "onboard_time": 1725945800,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 195449,
+      "num": 195449,
+      "word": "陆虎张远王铮亮抱一起",
+      "onboard_time": 1726281378,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 195443,
@@ -27163,6 +27235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146410,
+      "num": 146410,
+      "word": "孙杨说只要愿意就是当打之年",
+      "onboard_time": 1726279579,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146336,
       "num": 146336,
       "word": "梦之队玩狼人杀比谁都认真",
@@ -29243,6 +29323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131779,
+      "num": 131779,
+      "word": "许嵩终于要开鸟巢演唱会了",
+      "onboard_time": 1726279219,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 131778,
       "num": 131778,
       "word": "王鹤棣秦霄贤你俩过于暧昧了",
@@ -29488,6 +29576,14 @@
       "word": "雪迷宫热度",
       "onboard_time": 1725592041,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 129905,
+      "num": 129905,
+      "word": "流水迢迢开播",
+      "onboard_time": 1726281620,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -30419,6 +30515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123365,
+      "num": 123365,
+      "word": "东风快递员是怎么押运导弹的",
+      "onboard_time": 1726281019,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123330,
       "num": 123330,
       "word": "阴阳师手游",
@@ -30883,6 +30987,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 118956,
+      "num": 118956,
+      "word": "EDG经理回应Scout经纪公司",
+      "onboard_time": 1726269498,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118755,
       "num": 118755,
       "word": "PNC韩国队夺冠",
@@ -31011,6 +31123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117373,
+      "num": 117373,
+      "word": "这个滑跪真的帅气又血性",
+      "onboard_time": 1726281079,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117358,
       "num": 122325,
       "word": "十个勤天 祝你种自己得自己",
@@ -31137,14 +31257,6 @@
       "onboard_time": 1725185958,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 116116,
-      "num": 116116,
-      "word": "EDG经理回应Scout经纪公司",
-      "onboard_time": 1726269498,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 116008,
@@ -31321,6 +31433,14 @@
       "onboard_time": 1725425240,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114516,
+      "num": 114516,
+      "word": "野孩子 催泪",
+      "onboard_time": 1726281680,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 114515,
@@ -35283,6 +35403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56985,
+      "num": 105572,
+      "word": "木耳泡发超8小时或有毒",
+      "onboard_time": 1726279759,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56898,
       "num": 178154,
       "word": "15座车塞了26人惊呆交警",
@@ -37059,6 +37187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40196,
+      "num": 397302,
+      "word": "有学校将拖堂纳入教学事故认定范畴",
+      "onboard_time": 1726280719,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40195,
       "num": 40195,
       "word": "校方回应学生宿舍用空调需交租赁费",
@@ -37740,7 +37876,7 @@
     },
     {
       "raw_hot": 35042,
-      "num": 853831,
+      "num": 965713,
       "word": "中秋将有超级月亮",
       "onboard_time": 1726231821,
       "rank": 14,
@@ -38273,6 +38409,14 @@
       "onboard_time": 1725448940,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31449,
+      "num": 298419,
+      "word": "苹果天猫官旗回应支持24期免息购机",
+      "onboard_time": 1726280359,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 31445,
