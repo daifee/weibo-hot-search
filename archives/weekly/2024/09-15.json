@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726356007095,
+  "endTime": 1726356919554,
   "band_list": [
     {
       "raw_hot": 1471152,
@@ -27,20 +27,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1028105,
+      "num": 1028105,
+      "word": "李纯小区不可能先救明星被指偷换概念",
+      "onboard_time": 1726350793,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 952092,
       "num": 952092,
       "word": "许昕说王楚钦能来打澳门赛不容易",
       "onboard_time": 1726327341,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 896177,
-      "num": 896177,
-      "word": "李纯小区不可能先救明星被指偷换概念",
-      "onboard_time": 1726350793,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 639214,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 395954,
+      "num": 395954,
+      "word": "疯狂小杨哥未如期开播",
+      "onboard_time": 1726323203,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 390833,
       "num": 390833,
       "word": "吴宣仪 我是王总舞粉",
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 364505,
+      "num": 289893,
+      "word": "汪苏泷演唱会苏州站取消",
+      "onboard_time": 1726355476,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 361435,
       "num": 361435,
       "word": "林诗栋4比1王楚钦",
@@ -153,14 +169,6 @@
       "onboard_time": 1726326382,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 336362,
-      "num": 336362,
-      "word": "疯狂小杨哥未如期开播",
-      "onboard_time": 1726323203,
-      "rank": 34,
-      "category": "网红"
     },
     {
       "raw_hot": 332255,
@@ -195,19 +203,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308131,
+      "num": 245525,
+      "word": "周杰伦回应深圳演唱会被吐槽声音小",
+      "onboard_time": 1726339993,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 298418,
       "num": 298418,
       "word": "王源汪苏泷首次合作",
       "onboard_time": 1726328122,
       "rank": 28,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 285100,
-      "num": 197465,
-      "word": "周杰伦回应深圳演唱会被吐槽声音小",
-      "onboard_time": 1726339993,
-      "rank": 23,
       "category": "演出"
     },
     {
@@ -235,6 +243,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 241336,
+      "num": 241336,
+      "word": "安陵容私下就是烟酒都来的",
+      "onboard_time": 1726317559,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 222482,
+      "num": 132894,
+      "word": "小脚趾的趾甲为啥是两瓣",
+      "onboard_time": 1726356196,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 218339,
       "num": 218339,
       "word": "银河左岸",
@@ -251,19 +275,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 195332,
-      "num": 195332,
-      "word": "安陵容私下就是烟酒都来的",
-      "onboard_time": 1726317559,
-      "rank": 11,
-      "category": "电影"
-    },
-    {
       "raw_hot": 189650,
       "num": 189650,
       "word": "老板买到15盒香港月饼哭诉不发了",
       "onboard_time": 1726307120,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186169,
+      "num": 282382,
+      "word": "3名美国公民参与他国政变被判死刑",
+      "onboard_time": 1726332436,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -275,28 +299,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 177623,
-      "num": 282382,
-      "word": "3名美国公民参与他国政变被判死刑",
-      "onboard_time": 1726332436,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177400,
       "num": 177400,
       "word": "王楚钦哎哟我去",
       "onboard_time": 1726327162,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176461,
-      "num": 176461,
-      "word": "汪苏泷演唱会苏州站取消",
-      "onboard_time": 1726355476,
-      "rank": 14,
-      "category": "演出"
     },
     {
       "raw_hot": 175275,
@@ -313,6 +321,14 @@
       "onboard_time": 1726324226,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171585,
+      "num": 131162,
+      "word": "有一种小肚子是骨盆前倾了",
+      "onboard_time": 1726353494,
+      "rank": 21,
+      "category": "运动健身,健康医疗"
     },
     {
       "raw_hot": 171568,
@@ -419,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138773,
-      "num": 109463,
-      "word": "有一种小肚子是骨盆前倾了",
-      "onboard_time": 1726353494,
-      "rank": 21,
-      "category": "运动健身,健康医疗"
-    },
-    {
       "raw_hot": 129868,
       "num": 129868,
       "word": "白宇 快成表演赛了都别太当真",
@@ -441,6 +449,14 @@
       "onboard_time": 1726332496,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 129190,
+      "num": 129190,
+      "word": "中秋假期第一天",
+      "onboard_time": 1726356017,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120086,
@@ -467,6 +483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 111853,
+      "num": 111853,
+      "word": "贝碧嘉暴雨或将在上海中秋前结束",
+      "onboard_time": 1726339452,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110019,
       "num": 110019,
       "word": "王楚钦加油",
@@ -476,7 +500,7 @@
     },
     {
       "raw_hot": 108136,
-      "num": 89139,
+      "num": 96765,
       "word": "王一博 告诉俺娘俺不是孬种",
       "onboard_time": 1726333996,
       "rank": 49,
@@ -491,6 +515,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105680,
+      "num": 105680,
+      "word": "06年小学老师的一天",
+      "onboard_time": 1726355595,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 105223,
+      "num": 105223,
+      "word": "教资",
+      "onboard_time": 1726319842,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 104738,
       "num": 104738,
       "word": "夜市偶遇李多海",
@@ -499,28 +539,60 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 90084,
-      "num": 90084,
-      "word": "贝碧嘉暴雨或将在上海中秋前结束",
-      "onboard_time": 1726339452,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 104294,
+      "num": 104294,
+      "word": "鹭卓方与巡演主办方合作提前终止",
+      "onboard_time": 1726356496,
+      "rank": 31,
+      "category": "演出"
     },
     {
-      "raw_hot": 82547,
-      "num": 82547,
-      "word": "教资",
-      "onboard_time": 1726319842,
-      "rank": 35,
-      "category": "教育"
+      "raw_hot": 102568,
+      "num": 102568,
+      "word": "王一博出道10年了",
+      "onboard_time": 1726356137,
+      "rank": 32,
+      "category": "艺人"
     },
     {
-      "raw_hot": 82363,
-      "num": 82363,
+      "raw_hot": 101783,
+      "num": 101783,
+      "word": "乌克兰父子火车站最后一面",
+      "onboard_time": 1726356736,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 101153,
+      "num": 101153,
       "word": "林允这下真成白月光了",
       "onboard_time": 1726318822,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 94688,
+      "num": 94688,
+      "word": "张远 闺蜜站位",
+      "onboard_time": 1726354995,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 92127,
+      "num": 92127,
+      "word": "张本美和反手",
+      "onboard_time": 1726355536,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 89146,
+      "num": 89146,
+      "word": "成都打雷",
+      "onboard_time": 1726356736,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78466,
@@ -536,14 +608,6 @@
       "word": "Capper 发条盆友圈",
       "onboard_time": 1726332377,
       "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 69769,
-      "num": 69769,
-      "word": "张远 闺蜜站位",
-      "onboard_time": 1726354995,
-      "rank": 39,
       "category": "艺人"
     },
     {
@@ -563,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59663,
-      "num": 59663,
-      "word": "06年小学老师的一天",
-      "onboard_time": 1726355595,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 57519,
       "num": 57519,
       "word": "这居然是尤长靖",
@@ -585,14 +641,6 @@
       "onboard_time": 1726344911,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50457,
-      "num": 50457,
-      "word": "张本美和反手",
-      "onboard_time": 1726355536,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 44473,
