@@ -1,10 +1,10 @@
 {
   "startTime": 1726244748063,
-  "endTime": 1726277756115,
+  "endTime": 1726278751168,
   "band_list": [
     {
-      "raw_hot": 1595103,
-      "num": 1595103,
+      "raw_hot": 1770707,
+      "num": 1770707,
       "word": "李纯怒斥小区物业",
       "onboard_time": 1726274959,
       "rank": 0,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 941708,
+      "num": 941708,
+      "word": "5岁女童小区内玩耍时被碾压致死",
+      "onboard_time": 1726273220,
+      "rank": 4,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 847472,
       "num": 847472,
       "word": "学校回应唐尚珺舍友全部申请搬宿舍",
@@ -75,14 +83,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 750724,
-      "num": 750724,
-      "word": "5岁女童小区内玩耍时被碾压致死",
-      "onboard_time": 1726273220,
-      "rank": 4,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 713135,
       "num": 341035,
       "word": "吴谨言 怀孕",
@@ -107,8 +107,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 652782,
-      "num": 652782,
+      "raw_hot": 665518,
+      "num": 665518,
       "word": "长沙舰与外舰紧张对峙47小时",
       "onboard_time": 1726273281,
       "rank": 6,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 523839,
+      "num": 523839,
+      "word": "赵露思陈伟霆cha了可怜",
+      "onboard_time": 1726276820,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 517293,
       "num": 517293,
       "word": "合肥地震",
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 492088,
-      "num": 249094,
+      "num": 315794,
       "word": "周六上班上出了结婚的感觉",
       "onboard_time": 1726269678,
       "rank": 26,
@@ -203,6 +211,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 399898,
+      "num": 399898,
+      "word": "背叛郑钦文的教练失业了",
+      "onboard_time": 1726278201,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 394098,
+      "num": 394098,
+      "word": "陆虎陈曌旭的婚礼不收礼金",
+      "onboard_time": 1726278020,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 389106,
       "num": 389106,
       "word": "张远收到了捧花",
@@ -211,12 +235,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 370062,
-      "num": 370062,
-      "word": "赵露思陈伟霆cha了可怜",
-      "onboard_time": 1726276820,
-      "rank": 13,
-      "category": "作品衍生"
+      "raw_hot": 370427,
+      "num": 370427,
+      "word": "公司发的月饼",
+      "onboard_time": 1726276399,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 359849,
@@ -233,6 +257,22 @@
       "onboard_time": 1726240761,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 321714,
+      "num": 321714,
+      "word": "父母是苗苗芽芽闯世界的底气",
+      "onboard_time": 1726275860,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 317562,
+      "num": 317562,
+      "word": "调休",
+      "onboard_time": 1726276700,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 314221,
@@ -257,6 +297,14 @@
       "onboard_time": 1726241660,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 282408,
+      "num": 282408,
+      "word": "新郎被绑路灯杆喷水只剩内裤",
+      "onboard_time": 1726275261,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274899,
@@ -299,14 +347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 256675,
-      "num": 256675,
-      "word": "父母是苗苗芽芽闯世界的底气",
-      "onboard_time": 1726275860,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 244786,
       "num": 244786,
       "word": "张百乔你真是出息了",
@@ -331,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233822,
-      "num": 233822,
-      "word": "公司发的月饼",
-      "onboard_time": 1726276399,
-      "rank": 22,
-      "category": "美食"
-    },
-    {
       "raw_hot": 231846,
       "num": 231846,
       "word": "多方回应学生不订牛奶须提供过敏证明",
@@ -355,14 +387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 227220,
-      "num": 227220,
-      "word": "新郎被绑路灯杆喷水只剩内裤",
-      "onboard_time": 1726275261,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209054,
       "num": 209054,
       "word": "女子在超市捞鱼被刺致八级伤残",
@@ -371,8 +395,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202323,
-      "num": 202323,
+      "raw_hot": 204691,
+      "num": 204691,
       "word": "周杰伦演唱会 声音小",
       "onboard_time": 1726274543,
       "rank": 25,
@@ -400,14 +424,6 @@
       "word": "华图教育一页PPT惹众怒",
       "onboard_time": 1726241241,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190423,
-      "num": 190423,
-      "word": "调休",
-      "onboard_time": 1726276700,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -443,6 +459,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151335,
+      "num": 151335,
+      "word": "高一女生腹痛几天后发现卵巢肿瘤",
+      "onboard_time": 1726269678,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150287,
+      "num": 150287,
+      "word": "女生被扎218针为何未达校园霸凌标准",
+      "onboard_time": 1726246815,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150256,
       "num": 150256,
       "word": "无意识写作",
@@ -451,12 +483,12 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 150001,
-      "num": 150001,
-      "word": "女生被扎218针为何未达校园霸凌标准",
-      "onboard_time": 1726246815,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 144283,
+      "num": 144283,
+      "word": "内娱也是有厕所直拍了",
+      "onboard_time": 1726278020,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 140853,
@@ -473,14 +505,6 @@
       "onboard_time": 1726271480,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139616,
-      "num": 139616,
-      "word": "高一女生腹痛几天后发现卵巢肿瘤",
-      "onboard_time": 1726269678,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137109,
@@ -523,12 +547,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119355,
-      "num": 119355,
+      "raw_hot": 120001,
+      "num": 120001,
       "word": "用火没人看上千斤玉米烤成爆米花",
       "onboard_time": 1726274061,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 116388,
+      "num": 116388,
+      "word": "研究称咖啡比茶更影响睡眠",
+      "onboard_time": 1726275741,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 116116,
@@ -563,20 +595,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112052,
+      "num": 112052,
+      "word": "ye Back",
+      "onboard_time": 1726278020,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109752,
       "num": 109752,
       "word": "库克最爱iPhone16ProMax",
       "onboard_time": 1726270879,
       "rank": 43,
       "category": "数码"
-    },
-    {
-      "raw_hot": 109361,
-      "num": 109361,
-      "word": "研究称咖啡比茶更影响睡眠",
-      "onboard_time": 1726275741,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 109274,
@@ -603,8 +635,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 105372,
-      "num": 105372,
+      "raw_hot": 105606,
+      "num": 105606,
       "word": "二手平台现大量转让iPhone16帖",
       "onboard_time": 1726275440,
       "rank": 45,

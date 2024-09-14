@@ -1,0 +1,410 @@
+{
+  "runTime": 1726278751168,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1770707,
+        "num": 1770707,
+        "word": "李纯怒斥小区物业",
+        "onboard_time": 1726274959,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 941708,
+        "num": 941708,
+        "word": "5岁女童小区内玩耍时被碾压致死",
+        "onboard_time": 1726273220,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 20381,
+        "num": 799676,
+        "word": "中秋将有超级月亮",
+        "onboard_time": 1726231821,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1349682,
+        "num": 740736,
+        "word": "于正否认吴谨言三年前领证",
+        "onboard_time": 1726275561,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 665518,
+        "num": 665518,
+        "word": "长沙舰与外舰紧张对峙47小时",
+        "onboard_time": 1726273281,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 652182,
+        "num": 652182,
+        "word": "唐尚珺称有室友介意被恶搞搬离宿舍",
+        "onboard_time": 1726275321,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523839,
+        "num": 523839,
+        "word": "赵露思陈伟霆cha了可怜",
+        "onboard_time": 1726276820,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 514742,
+        "num": 514742,
+        "word": "已灭绝4.36亿年的鱼化石被发现",
+        "onboard_time": 1726271901,
+        "rank": 7,
+        "category": "科学科普,社会新闻"
+      },
+      {
+        "raw_hot": 448944,
+        "num": 448944,
+        "word": "第一次见这么多明星宣传的电影",
+        "onboard_time": 1726250172,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 402812,
+        "num": 402812,
+        "word": "乘务员手臂有纹身官方将追责",
+        "onboard_time": 1726234701,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 960265,
+        "num": 402211,
+        "word": "延迟退休年龄对照表",
+        "onboard_time": 1726209923,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 483119,
+        "num": 401643,
+        "word": "女生许愿不上班被浪撤回一个不",
+        "onboard_time": 1726270879,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399898,
+        "num": 399898,
+        "word": "背叛郑钦文的教练失业了",
+        "onboard_time": 1726278201,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394098,
+        "num": 394098,
+        "word": "陆虎陈曌旭的婚礼不收礼金",
+        "onboard_time": 1726278020,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373945,
+        "num": 373945,
+        "word": "陈楚生和老婆牵手逛街",
+        "onboard_time": 1726269678,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370427,
+        "num": 370427,
+        "word": "公司发的月饼",
+        "onboard_time": 1726276399,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 337411,
+        "num": 337411,
+        "word": "中学被指不订奶要提供过敏证明",
+        "onboard_time": 1726241481,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321714,
+        "num": 321714,
+        "word": "父母是苗苗芽芽闯世界的底气",
+        "onboard_time": 1726275860,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317562,
+        "num": 317562,
+        "word": "调休",
+        "onboard_time": 1726276700,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317066,
+        "num": 317066,
+        "word": "00后为何愿意为医院月饼买单",
+        "onboard_time": 1726233683,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417120,
+        "num": 315794,
+        "word": "周六上班上出了结婚的感觉",
+        "onboard_time": 1726269678,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 314009,
+        "num": 314009,
+        "word": "网友三年前给洪尧的评论",
+        "onboard_time": 1726243160,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301262,
+        "num": 301262,
+        "word": "台风或以巅峰强度登陆浙江",
+        "onboard_time": 1726244599,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282408,
+        "num": 282408,
+        "word": "新郎被绑路灯杆喷水只剩内裤",
+        "onboard_time": 1726275261,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238577,
+        "num": 238577,
+        "word": "许魏洲首轮被淘汰",
+        "onboard_time": 1726272680,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204691,
+        "num": 204691,
+        "word": "周杰伦演唱会 声音小",
+        "onboard_time": 1726274543,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197916,
+        "num": 197916,
+        "word": "极危动物追着濒危动物咬",
+        "onboard_time": 1726248014,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192423,
+        "num": 192423,
+        "word": "合肥地震",
+        "onboard_time": 1726269498,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189003,
+        "num": 189003,
+        "word": "足协考虑为国足包机",
+        "onboard_time": 1726273220,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180765,
+        "num": 180765,
+        "word": "白鹿和陆虎的友谊",
+        "onboard_time": 1726268717,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160092,
+        "num": 160092,
+        "word": "iPhone16ProMax秒没",
+        "onboard_time": 1726232604,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 151335,
+        "num": 151335,
+        "word": "高一女生腹痛几天后发现卵巢肿瘤",
+        "onboard_time": 1726269678,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150287,
+        "num": 150287,
+        "word": "女生被扎218针为何未达校园霸凌标准",
+        "onboard_time": 1726246815,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144283,
+        "num": 144283,
+        "word": "内娱也是有厕所直拍了",
+        "onboard_time": 1726278020,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140537,
+        "num": 140537,
+        "word": "Scout EDG",
+        "onboard_time": 1726271539,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140487,
+        "num": 140487,
+        "word": "陆虎陈曌旭婚礼好多熟人",
+        "onboard_time": 1726232363,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136236,
+        "num": 136236,
+        "word": "奎八",
+        "onboard_time": 1726235543,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128574,
+        "num": 128574,
+        "word": "五级能耗空调为何扎堆出租屋",
+        "onboard_time": 1726274779,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120001,
+        "num": 120001,
+        "word": "用火没人看上千斤玉米烤成爆米花",
+        "onboard_time": 1726274061,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 116388,
+        "num": 116388,
+        "word": "研究称咖啡比茶更影响睡眠",
+        "onboard_time": 1726275741,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116237,
+        "num": 116237,
+        "word": "王一涵历史性夺冠",
+        "onboard_time": 1726271480,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112052,
+        "num": 112052,
+        "word": "ye Back",
+        "onboard_time": 1726278020,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110078,
+        "num": 110078,
+        "word": "儿子务工身亡儿媳独占近百万赔偿金",
+        "onboard_time": 1726239742,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109170,
+        "num": 109170,
+        "word": "杀妻欲藏尸冰柜案凶手至死没道歉",
+        "onboard_time": 1726237342,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106380,
+        "num": 106380,
+        "word": "EDG经理回应Scout经纪公司",
+        "onboard_time": 1726269498,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105606,
+        "num": 105606,
+        "word": "二手平台现大量转让iPhone16帖",
+        "onboard_time": 1726275440,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 98879,
+        "num": 98879,
+        "word": "张远收到了捧花",
+        "onboard_time": 1726237463,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97375,
+        "num": 97375,
+        "word": "无意识写作",
+        "onboard_time": 1726272440,
+        "rank": 47,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 94781,
+        "num": 94781,
+        "word": "武艺谈恋爱了吗就上离婚综艺",
+        "onboard_time": 1726245077,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94610,
+        "num": 94610,
+        "word": "库克最爱iPhone16ProMax",
+        "onboard_time": 1726270879,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平签署国家主席令#"
+    }
+  }
+}
