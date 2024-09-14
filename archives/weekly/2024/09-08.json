@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726320176600,
+  "endTime": 1726320892726,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -67,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 4526344,
+      "num": 4526344,
+      "word": "孙颖莎vs张本美和",
+      "onboard_time": 1726314321,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 4385727,
       "num": 513132,
       "word": "洪尧是谁",
@@ -81,14 +89,6 @@
       "onboard_time": 1726209742,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 4001955,
-      "num": 4001955,
-      "word": "孙颖莎vs张本美和",
-      "onboard_time": 1726314321,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 3894981,
@@ -273,6 +273,14 @@
       "onboard_time": 1726119920,
       "rank": 0,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2262427,
+      "num": 2262427,
+      "word": "专家建议取消频繁调休",
+      "onboard_time": 1726314740,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2254379,
@@ -1091,14 +1099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1257864,
-      "num": 1257864,
-      "word": "专家建议取消频繁调休",
-      "onboard_time": 1726314740,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1252141,
       "num": 522235,
       "word": "姜妍带男友参加宋丹丹生日聚会",
@@ -1467,6 +1467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1072927,
+      "num": 1072927,
+      "word": "孙颖莎追分的神",
+      "onboard_time": 1726319063,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1070822,
       "num": 813067,
       "word": "玄彬李栋旭 结了婚和没结婚的",
@@ -1787,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 945327,
+      "num": 945327,
+      "word": "女主被男主捅了",
+      "onboard_time": 1726317801,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 941708,
       "num": 941708,
       "word": "5岁女童小区内玩耍时被碾压致死",
@@ -1913,14 +1929,6 @@
       "onboard_time": 1725975683,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 889913,
-      "num": 889913,
-      "word": "女主被男主捅了",
-      "onboard_time": 1726317801,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 889630,
@@ -2451,6 +2459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 759464,
+      "num": 412940,
+      "word": "印度店主将尿液混入果汁售卖被暴打",
+      "onboard_time": 1726319183,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 758593,
       "num": 931374,
       "word": "赵露思ins更新怼脸照",
@@ -2577,6 +2593,14 @@
       "onboard_time": 1725762319,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 715303,
+      "num": 715303,
+      "word": "王楚钦vs林诗栋",
+      "onboard_time": 1726320264,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 713916,
@@ -3763,14 +3787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 514996,
-      "num": 514996,
-      "word": "孙颖莎追分的神",
-      "onboard_time": 1726319063,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 513762,
       "num": 277034,
       "word": "没有班味的工作有多香",
@@ -3785,6 +3801,14 @@
       "onboard_time": 1725968360,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 513466,
+      "num": 513466,
+      "word": "赵丽颖把伞撑给了陶昕然",
+      "onboard_time": 1726318883,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 513311,
@@ -4083,6 +4107,14 @@
       "category": "国外时政,艺人"
     },
     {
+      "raw_hot": 481301,
+      "num": 481301,
+      "word": "吴谨言领证后首现身",
+      "onboard_time": 1726319903,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 480115,
       "num": 438383,
       "word": "90后男生成班主任的领导仍遭血脉压制",
@@ -4097,14 +4129,6 @@
       "onboard_time": 1726193719,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 478615,
-      "num": 478615,
-      "word": "赵丽颖把伞撑给了陶昕然",
-      "onboard_time": 1726318883,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 477736,
@@ -4795,14 +4819,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 411405,
-      "num": 394485,
-      "word": "印度店主将尿液混入果汁售卖被暴打",
-      "onboard_time": 1726319183,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 409739,
       "num": 409739,
       "word": "工业摄像装备拍下摩羯登陆威力",
@@ -4905,6 +4921,14 @@
       "onboard_time": 1725774678,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 404616,
+      "num": 404616,
+      "word": "王源让敖子逸给粉丝转50",
+      "onboard_time": 1726320503,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 404198,
@@ -5201,6 +5225,14 @@
       "onboard_time": 1725897319,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376415,
+      "num": 376415,
+      "word": "孙颖莎进入决赛",
+      "onboard_time": 1726320864,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 375299,
@@ -6067,6 +6099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 310139,
+      "num": 310139,
+      "word": "莎莎的局点才是局点",
+      "onboard_time": 1726320743,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 310026,
       "num": 675115,
       "word": "孙颖莎王曼昱奥运后首秀来了",
@@ -6329,14 +6369,6 @@
       "onboard_time": 1726067183,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 291513,
-      "num": 291513,
-      "word": "吴谨言领证后首现身",
-      "onboard_time": 1726319903,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 291075,
@@ -6675,6 +6707,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 274245,
+      "num": 449750,
+      "word": "妈妈带2个孩子喝农药自杀被判刑",
+      "onboard_time": 1726316841,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274011,
       "num": 274011,
       "word": "整治足球职业联赛假赌黑",
@@ -6713,14 +6753,6 @@
       "onboard_time": 1726009697,
       "rank": 40,
       "category": "数码"
-    },
-    {
-      "raw_hot": 273056,
-      "num": 449750,
-      "word": "妈妈带2个孩子喝农药自杀被判刑",
-      "onboard_time": 1726316841,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 272955,
@@ -7089,6 +7121,14 @@
       "onboard_time": 1726286060,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 256399,
+      "num": 256399,
+      "word": "林允这下真成白月光了",
+      "onboard_time": 1726318822,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 256255,
@@ -7676,7 +7716,7 @@
     },
     {
       "raw_hot": 237534,
-      "num": 237534,
+      "num": 421181,
       "word": "76岁侵华日军后裔赤脚跪地谢罪",
       "onboard_time": 1726315759,
       "rank": 35,
@@ -7689,6 +7729,14 @@
       "onboard_time": 1726063284,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 236865,
+      "num": 236865,
+      "word": "安陵容私下就是烟酒都来的",
+      "onboard_time": 1726317559,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 236691,
@@ -7745,14 +7793,6 @@
       "onboard_time": 1726205424,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 235388,
-      "num": 235388,
-      "word": "安陵容私下就是烟酒都来的",
-      "onboard_time": 1726317559,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 235053,
@@ -8195,6 +8235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226260,
+      "num": 226260,
+      "word": "教资",
+      "onboard_time": 1726319842,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 225766,
       "num": 225766,
       "word": "殷桃和王骁拍吵架戏吵生气了",
@@ -8459,6 +8507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220309,
+      "num": 220309,
+      "word": "周也敖子逸去了王源演唱会",
+      "onboard_time": 1726319723,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 219697,
       "num": 219697,
       "word": "渤海潍坊港实弹射击",
@@ -8521,6 +8577,14 @@
       "onboard_time": 1725950658,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 218100,
+      "num": 211636,
+      "word": "许昕直播",
+      "onboard_time": 1726320022,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 217984,
@@ -8667,14 +8731,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 214410,
-      "num": 214410,
-      "word": "周也敖子逸去了王源演唱会",
-      "onboard_time": 1726319723,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 214388,
       "num": 214388,
       "word": "黄景瑜天生下海圣体",
@@ -8801,6 +8857,14 @@
       "onboard_time": 1726150581,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212416,
+      "num": 449744,
+      "word": "老人在山西4A级景区摔倒后去世",
+      "onboard_time": 1726315701,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212127,
@@ -9059,22 +9123,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 208096,
-      "num": 449744,
-      "word": "老人在山西4A级景区摔倒后去世",
-      "onboard_time": 1726315701,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208017,
-      "num": 208017,
-      "word": "教资",
-      "onboard_time": 1726319842,
-      "rank": 40,
-      "category": "教育"
-    },
-    {
       "raw_hot": 207876,
       "num": 207876,
       "word": "陈梦OK十月刊封面预告",
@@ -9225,14 +9273,6 @@
       "onboard_time": 1726207944,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 205289,
-      "num": 205289,
-      "word": "林允这下真成白月光了",
-      "onboard_time": 1726318822,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 205269,
@@ -10131,6 +10171,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 194155,
+      "num": 192792,
+      "word": "杨超越 公众人物是有社会责任的",
+      "onboard_time": 1726320864,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194074,
       "num": 194074,
       "word": "刘亦菲现身高铁站",
@@ -10241,14 +10289,6 @@
       "onboard_time": 1725902115,
       "rank": 12,
       "category": "数码"
-    },
-    {
-      "raw_hot": 192220,
-      "num": 192220,
-      "word": "许昕直播",
-      "onboard_time": 1726320022,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 192078,
@@ -10785,6 +10825,14 @@
       "onboard_time": 1726293020,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186120,
+      "num": 186120,
+      "word": "TFBOYS祝王源北京巡演一切顺利",
+      "onboard_time": 1726320805,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 185805,
@@ -18059,6 +18107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86741,
+      "num": 508596,
+      "word": "有公司大批采购1元月饼发福利",
+      "onboard_time": 1726319422,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86238,
       "num": 86238,
       "word": "AG决赛会师KSG",
@@ -18849,14 +18905,6 @@
       "onboard_time": 1725787939,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 63735,
-      "num": 504523,
-      "word": "有公司大批采购1元月饼发福利",
-      "onboard_time": 1726319422,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 63684,
@@ -20092,7 +20140,7 @@
     },
     {
       "raw_hot": 42182,
-      "num": 515118,
+      "num": 550150,
       "word": "周杰伦说青春不止范特西",
       "onboard_time": 1726317261,
       "rank": 44,
@@ -20811,6 +20859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33731,
+      "num": 627552,
+      "word": "流水迢迢水映心上人海报",
+      "onboard_time": 1726317862,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 33714,
       "num": 404981,
       "word": "男子称大桥噪音影响做题",
@@ -21145,14 +21201,6 @@
       "onboard_time": 1726257013,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 27606,
-      "num": 205712,
-      "word": "流水迢迢水映心上人海报",
-      "onboard_time": 1726317862,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 27584,
