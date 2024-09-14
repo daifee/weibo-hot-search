@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726306488464,
+  "endTime": 1726309244752,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -297,6 +297,14 @@
       "onboard_time": 1726278201,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2198256,
+      "num": 2198256,
+      "word": "专家称调休是对社会资源的扰乱",
+      "onboard_time": 1726305681,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2125811,
@@ -712,6 +720,14 @@
       "word": "大马老人死4年才被儿子发现",
       "onboard_time": 1726059441,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1493658,
+      "num": 589321,
+      "word": "老板买到15盒香港月饼哭诉不发了",
+      "onboard_time": 1726307120,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -2795,6 +2811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 658988,
+      "num": 658988,
+      "word": "台风",
+      "onboard_time": 1725999791,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 657622,
       "num": 657622,
       "word": "杨幂压轴",
@@ -3083,6 +3107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 606411,
+      "num": 606411,
+      "word": "人民网评香港月饼香港买不到",
+      "onboard_time": 1726302980,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 606389,
       "num": 606389,
       "word": "大学生每个月生活费1500元够吗",
@@ -3153,6 +3185,14 @@
       "onboard_time": 1725735432,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 588535,
+      "num": 588535,
+      "word": "嗑到内娱真青梅竹马了",
+      "onboard_time": 1726305798,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 587402,
@@ -3515,14 +3555,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 525531,
-      "num": 525531,
-      "word": "台风",
-      "onboard_time": 1725999791,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 524895,
       "num": 478396,
       "word": "女生许愿不上班被浪撤回一个不",
@@ -3569,6 +3601,14 @@
       "onboard_time": 1725806181,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 519167,
+      "num": 519167,
+      "word": "张远挽着陈曌旭",
+      "onboard_time": 1726306580,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 517293,
@@ -3737,14 +3777,6 @@
       "onboard_time": 1725954380,
       "rank": 13,
       "category": "数码"
-    },
-    {
-      "raw_hot": 496959,
-      "num": 496959,
-      "word": "人民网评香港月饼香港买不到",
-      "onboard_time": 1726302980,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 496847,
@@ -4171,6 +4203,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 448750,
+      "num": 448750,
+      "word": "嫌疑人死亡5天医院还在注射葡萄糖",
+      "onboard_time": 1726306700,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 448662,
       "num": 448662,
       "word": "韩安冉说流量不好时挺爱殷世航的",
@@ -4579,6 +4619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 411715,
+      "num": 411715,
+      "word": "T1对战KT",
+      "onboard_time": 1726296740,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 409739,
       "num": 409739,
       "word": "工业摄像装备拍下摩羯登陆威力",
@@ -4889,6 +4937,14 @@
       "onboard_time": 1726032383,
       "rank": 21,
       "category": "数码"
+    },
+    {
+      "raw_hot": 386858,
+      "num": 386858,
+      "word": "原来热暴力比冷暴力有用",
+      "onboard_time": 1726307541,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 386303,
@@ -6299,14 +6355,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 281145,
-      "num": 281145,
-      "word": "专家称调休是对社会资源的扰乱",
-      "onboard_time": 1726305681,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 280305,
       "num": 392042,
       "word": "一声老公魏大勋后槽牙都咬紧了",
@@ -6371,14 +6419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 277819,
-      "num": 277819,
-      "word": "T1对战KT",
-      "onboard_time": 1726296740,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 277013,
       "num": 277013,
       "word": "白夜追凶2预告",
@@ -6393,6 +6433,14 @@
       "onboard_time": 1726151359,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276151,
+      "num": 276151,
+      "word": "国防部回应解放军全面攻台能力",
+      "onboard_time": 1726308079,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 275835,
@@ -6787,6 +6835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257963,
+      "num": 257963,
+      "word": "二年级女生养蜗牛5个月生380只宝宝",
+      "onboard_time": 1726307000,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257929,
       "num": 257929,
       "word": "小英在上海走上了红毯",
@@ -6889,6 +6945,14 @@
       "onboard_time": 1726053921,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 254815,
+      "num": 254815,
+      "word": "家长群内连发不雅视频撕另一家长",
+      "onboard_time": 1726306340,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254635,
@@ -8315,6 +8379,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 214429,
+      "num": 210227,
+      "word": "车 你跑快点啊死鬼",
+      "onboard_time": 1726308499,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 214388,
       "num": 214388,
       "word": "黄景瑜天生下海圣体",
@@ -8483,6 +8555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211610,
+      "num": 211610,
+      "word": "LCK冒泡赛",
+      "onboard_time": 1726306040,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 210987,
       "num": 210987,
       "word": "虞书欣 大唐富贵花",
@@ -8595,14 +8675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208922,
-      "num": 208922,
-      "word": "嗑到内娱真青梅竹马了",
-      "onboard_time": 1726305798,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208898,
       "num": 208898,
       "word": "重庆高温",
@@ -8707,20 +8779,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 207552,
-      "num": 207552,
-      "word": "LCK冒泡赛",
-      "onboard_time": 1726306040,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 207153,
       "num": 207153,
       "word": "孙颖莎说很开心和年轻对手交手",
       "onboard_time": 1726062864,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206866,
+      "num": 206866,
+      "word": "晋江称机房网络运营商线路故障",
+      "onboard_time": 1726307420,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 206726,
@@ -8985,6 +9057,14 @@
       "onboard_time": 1725846618,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203225,
+      "num": 203225,
+      "word": "全国人大70周年",
+      "onboard_time": 1726307120,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 203062,
@@ -10739,14 +10819,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 178846,
-      "num": 178846,
-      "word": "家长群内连发不雅视频撕另一家长",
-      "onboard_time": 1726306340,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178826,
       "num": 400140,
       "word": "小孩哥写信打抱不平受邀入住北京饭店",
@@ -12075,6 +12147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160123,
+      "num": 160123,
+      "word": "花少官微称今年花儿与少年已录完",
+      "onboard_time": 1726306399,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160062,
       "num": 160062,
       "word": "Viper生涯首个LCK冠军",
@@ -12411,6 +12491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155629,
+      "num": 155629,
+      "word": "张新成烂梗受害者王玉雯",
+      "onboard_time": 1726308380,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155449,
       "num": 169665,
       "word": "被笑气摧毁的青春",
@@ -12729,14 +12817,6 @@
       "onboard_time": 1725889881,
       "rank": 34,
       "category": "数码"
-    },
-    {
-      "raw_hot": 152269,
-      "num": 152269,
-      "word": "花少官微称今年花儿与少年已录完",
-      "onboard_time": 1726306399,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 152232,
@@ -13507,6 +13587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143677,
+      "num": 143677,
+      "word": "正午阳光得闲谨制备案",
+      "onboard_time": 1726306760,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 143635,
       "num": 379931,
       "word": "导演怎么想到找曾黎演这个角色的",
@@ -13865,6 +13953,14 @@
       "onboard_time": 1726129759,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 139102,
+      "num": 139102,
+      "word": "丁达尔效应下的李一桐",
+      "onboard_time": 1726308920,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 138989,
@@ -14683,6 +14779,14 @@
       "category": "美妆,幽默"
     },
     {
+      "raw_hot": 130063,
+      "num": 130063,
+      "word": "乔杉马丽新片片尾曲",
+      "onboard_time": 1726308680,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 130062,
       "num": 130062,
       "word": "想对老师说",
@@ -15041,6 +15145,14 @@
       "onboard_time": 1726240941,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125838,
+      "num": 125838,
+      "word": "鞠婧祎给大家送中秋节祝福",
+      "onboard_time": 1726309220,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 125634,
@@ -20779,6 +20891,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 21884,
+      "num": 159884,
+      "word": "AI周鸿祎堪比端水大师",
+      "onboard_time": 1726307000,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 21728,
       "num": 355565,
       "word": "被子弟兵借宿后留下的黑板报暖到了",
@@ -20825,6 +20945,14 @@
       "onboard_time": 1726086372,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 20820,
+      "num": 207198,
+      "word": "胡兵时装周后台刮起国药风",
+      "onboard_time": 1726308620,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 20704,
@@ -21089,6 +21217,14 @@
       "onboard_time": 1726200027,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 14876,
+      "num": 478691,
+      "word": "头部主播怎能挂羊头卖狗肉",
+      "onboard_time": 1726309160,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14800,
