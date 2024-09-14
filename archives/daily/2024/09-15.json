@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726341389444,
+  "endTime": 1726342502289,
   "band_list": [
     {
       "raw_hot": 1471152,
@@ -467,8 +467,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 46339,
-      "num": 46339,
+      "raw_hot": 51672,
+      "num": 51672,
+      "word": "贝碧嘉暴雨或将在上海中秋前结束",
+      "onboard_time": 1726339452,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51147,
+      "num": 51147,
       "word": "周杰伦回应深圳演唱会被吐槽声音小",
       "onboard_time": 1726339993,
       "rank": 23,
@@ -539,16 +547,16 @@
       "category": "电影"
     },
     {
-      "raw_hot": 27213,
-      "num": 48065,
-      "word": "贝碧嘉暴雨或将在上海中秋前结束",
-      "onboard_time": 1726339452,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 23516,
+      "num": 24637,
+      "word": "新加坡五千块一顿的中餐",
+      "onboard_time": 1726341671,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 11329,
-      "num": 38174,
+      "num": 62033,
       "word": "古人的青铜器太全面了",
       "onboard_time": 1726341311,
       "rank": 25,
