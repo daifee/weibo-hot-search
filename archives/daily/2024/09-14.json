@@ -1,6 +1,6 @@
 {
   "startTime": 1726244748063,
-  "endTime": 1726305660651,
+  "endTime": 1726306488464,
   "band_list": [
     {
       "raw_hot": 3031035,
@@ -235,20 +235,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 839560,
+      "num": 839560,
+      "word": "夫人小我十岁 我不知她还有作业",
+      "onboard_time": 1726301960,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 830550,
       "num": 626206,
       "word": "田柾国应援NewJeans",
       "onboard_time": 1726287019,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 802710,
-      "num": 802710,
-      "word": "夫人小我十岁 我不知她还有作业",
-      "onboard_time": 1726301960,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 800847,
@@ -299,8 +299,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 765786,
-      "num": 765786,
+      "raw_hot": 768965,
+      "num": 768965,
       "word": "教育局回应家长群内发视频撕小三",
       "onboard_time": 1726302080,
       "rank": 27,
@@ -313,6 +313,14 @@
       "onboard_time": 1726297340,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 739445,
+      "num": 739445,
+      "word": "狂飙剧组集体二搭了",
+      "onboard_time": 1726302140,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 713135,
@@ -363,14 +371,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 653347,
-      "num": 653347,
-      "word": "狂飙剧组集体二搭了",
-      "onboard_time": 1726302140,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 626143,
       "num": 626143,
       "word": "父母生而不养该承担什么法律责任",
@@ -419,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 525531,
+      "num": 525531,
+      "word": "台风",
+      "onboard_time": 1726269557,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 524895,
       "num": 478396,
       "word": "女生许愿不上班被浪撤回一个不",
@@ -448,6 +456,14 @@
       "word": "杀妻欲藏尸冰柜案凶手至死没道歉",
       "onboard_time": 1726237342,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 496959,
+      "num": 496959,
+      "word": "人民网评香港月饼香港买不到",
+      "onboard_time": 1726302980,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -547,14 +563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 412240,
-      "num": 412240,
-      "word": "台风",
-      "onboard_time": 1726269557,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 407780,
       "num": 312050,
       "word": "白鹿和陆虎的友谊",
@@ -617,14 +625,6 @@
       "onboard_time": 1726298542,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 340240,
-      "num": 340240,
-      "word": "人民网评香港月饼香港买不到",
-      "onboard_time": 1726302980,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 326631,
@@ -699,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281145,
+      "num": 281145,
+      "word": "专家称调休是对社会资源的扰乱",
+      "onboard_time": 1726305681,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278949,
       "num": 278949,
       "word": "黄庄月饼",
@@ -713,6 +721,14 @@
       "onboard_time": 1726292428,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 277819,
+      "num": 277819,
+      "word": "T1对战KT",
+      "onboard_time": 1726296740,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 274899,
@@ -971,14 +987,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 214113,
-      "num": 214113,
-      "word": "T1对战KT",
-      "onboard_time": 1726296740,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 211898,
       "num": 287528,
       "word": "大奉打更人导演回应",
@@ -1011,12 +1019,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208922,
+      "num": 208922,
+      "word": "嗑到内娱真青梅竹马了",
+      "onboard_time": 1726305798,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208504,
       "num": 208504,
       "word": "完美世界剧场版开播",
       "onboard_time": 1726291109,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 207552,
+      "num": 207552,
+      "word": "LCK冒泡赛",
+      "onboard_time": 1726306040,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 205230,
@@ -1187,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185021,
+      "num": 185021,
+      "word": "谁能看出周翊然前一天4点下班",
+      "onboard_time": 1726305441,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184285,
       "num": 184285,
       "word": "血腥爱情故事",
@@ -1219,6 +1251,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 178846,
+      "num": 178846,
+      "word": "家长群内连发不雅视频撕另一家长",
+      "onboard_time": 1726306340,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178823,
       "num": 178823,
       "word": "秦彻 在你丈夫的葬礼上",
@@ -1241,6 +1281,14 @@
       "onboard_time": 1726292180,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 173877,
+      "num": 173877,
+      "word": "侃爷ins发文",
+      "onboard_time": 1726303520,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 173852,
@@ -1291,16 +1339,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 171022,
-      "num": 171022,
-      "word": "侃爷ins发文",
-      "onboard_time": 1726303520,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 169101,
-      "num": 169101,
+      "raw_hot": 169209,
+      "num": 169209,
       "word": "藏了6年的社恐熊被中国设备拍到了",
       "onboard_time": 1726302681,
       "rank": 38,
@@ -1379,11 +1419,27 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 158264,
+      "num": 158264,
+      "word": "解放军有可靠手段让天堑变通途",
+      "onboard_time": 1726304180,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156785,
       "num": 156785,
       "word": "刘学义说田嘉瑞他不火谁火",
       "onboard_time": 1726297040,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 152269,
+      "num": 152269,
+      "word": "花少官微称今年花儿与少年已录完",
+      "onboard_time": 1726306399,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -1433,14 +1489,6 @@
       "onboard_time": 1726279219,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 146173,
-      "num": 146173,
-      "word": "解放军有可靠手段让天堑变通途",
-      "onboard_time": 1726304180,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145354,
@@ -1515,20 +1563,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 138725,
-      "num": 138725,
-      "word": "谁能看出周翊然前一天4点下班",
-      "onboard_time": 1726305441,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138635,
       "num": 138635,
       "word": "成为外卖之王是什么体验",
       "onboard_time": 1726295839,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138556,
+      "num": 653997,
+      "word": "朱星杰比牲口还能干",
+      "onboard_time": 1726305019,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 137109,
@@ -1697,6 +1745,14 @@
       "onboard_time": 1726304661,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122716,
+      "num": 749691,
+      "word": "拼多多又把iPhone16价格打下来了",
+      "onboard_time": 1726303162,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 122697,
@@ -1899,14 +1955,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 95933,
-      "num": 569263,
-      "word": "拼多多又把iPhone16价格打下来了",
-      "onboard_time": 1726303162,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
       "raw_hot": 94961,
       "num": 94961,
       "word": "睡前5个习惯容易胖肚子",
@@ -2059,14 +2107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 69667,
-      "num": 653997,
-      "word": "朱星杰比牲口还能干",
-      "onboard_time": 1726305019,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 68971,
       "num": 507585,
       "word": "天籁真心12万了",
@@ -2171,6 +2211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 49394,
+      "num": 769931,
+      "word": "史妍是被付航附体了么",
+      "onboard_time": 1726306219,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 49126,
       "num": 483407,
       "word": "金九银十在这一刻具象化了",
@@ -2235,6 +2283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41698,
+      "num": 772820,
+      "word": "厨房管道漏水被收9000元维修费",
+      "onboard_time": 1726304960,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41584,
       "num": 274977,
       "word": "雅 我只怕我再也没有吉他",
@@ -2252,7 +2308,7 @@
     },
     {
       "raw_hot": 39440,
-      "num": 338964,
+      "num": 521419,
       "word": "范特西23周年",
       "onboard_time": 1726304661,
       "rank": 22,
@@ -2275,12 +2331,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36421,
+      "num": 779435,
+      "word": "律师解读香港月饼香港买不到",
+      "onboard_time": 1726305798,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35719,
+      "num": 551773,
+      "word": "官方通报教工吃新鲜肉学生吃碎肉",
+      "onboard_time": 1726306161,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35496,
       "num": 345533,
       "word": "官方回应女子出狱后继续坐车不给钱",
       "onboard_time": 1726302561,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35145,
+      "num": 365793,
+      "word": "吉利星愿预售价格",
+      "onboard_time": 1726304119,
+      "rank": 21,
+      "category": "汽车"
     },
     {
       "raw_hot": 35042,
@@ -2299,28 +2379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31789,
-      "num": 687035,
-      "word": "厨房管道漏水被收9000元维修费",
-      "onboard_time": 1726304960,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 31749,
       "num": 277260,
       "word": "穿越时空的巴黎文物之美",
       "onboard_time": 1726290271,
       "rank": 29,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 31307,
-      "num": 339132,
-      "word": "吉利星愿预售价格",
-      "onboard_time": 1726304119,
-      "rank": 21,
-      "category": "汽车"
     },
     {
       "raw_hot": 27925,
