@@ -1,7 +1,15 @@
 {
   "startTime": 1726244748063,
-  "endTime": 1726287912660,
+  "endTime": 1726288756244,
   "band_list": [
+    {
+      "raw_hot": 2474512,
+      "num": 2474512,
+      "word": "王星越昨天才知道吴谨言结婚",
+      "onboard_time": 1726286301,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2208398,
       "num": 2208398,
@@ -9,14 +17,6 @@
       "onboard_time": 1726278201,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2055448,
-      "num": 2055448,
-      "word": "王星越昨天才知道吴谨言结婚",
-      "onboard_time": 1726286301,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1770707,
@@ -107,7 +107,7 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 876314,
+      "raw_hot": 924311,
       "num": 549147,
       "word": "王鹤棣说大奉打更人弄死所有人",
       "onboard_time": 1726283299,
@@ -121,6 +121,14 @@
       "onboard_time": 1726269617,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 830550,
+      "num": 541133,
+      "word": "田柾国应援NewJeans",
+      "onboard_time": 1726287019,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 800847,
@@ -169,6 +177,14 @@
       "onboard_time": 1726206446,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 697301,
+      "num": 506353,
+      "word": "东部战区回应德舰过航台湾海峡",
+      "onboard_time": 1726285819,
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 689574,
@@ -227,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 544960,
+      "num": 544960,
+      "word": "中国午睡第一省不想睡了",
+      "onboard_time": 1726287019,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 524895,
       "num": 478396,
       "word": "女生许愿不上班被浪撤回一个不",
@@ -259,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 500644,
+      "num": 500644,
+      "word": "张兰自曝将参加花儿与少年",
+      "onboard_time": 1726287862,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 492088,
       "num": 315794,
       "word": "周六上班上出了结婚的感觉",
@@ -273,14 +305,6 @@
       "onboard_time": 1726280598,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 476367,
-      "num": 476367,
-      "word": "东部战区回应德舰过航台湾海峡",
-      "onboard_time": 1726285819,
-      "rank": 21,
-      "category": "国内时政"
     },
     {
       "raw_hot": 455839,
@@ -323,14 +347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 410390,
-      "num": 410390,
-      "word": "田柾国应援NewJeans",
-      "onboard_time": 1726287019,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 407780,
       "num": 312050,
       "word": "白鹿和陆虎的友谊",
@@ -355,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364962,
+      "num": 364962,
+      "word": "香港美诚月饼究竟产自哪里",
+      "onboard_time": 1726285280,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359849,
       "num": 359849,
       "word": "陆虎婚礼上的白鹿",
@@ -369,14 +393,6 @@
       "onboard_time": 1726240761,
       "rank": 9,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 326821,
-      "num": 326821,
-      "word": "中国午睡第一省不想睡了",
-      "onboard_time": 1726287019,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 326631,
@@ -419,14 +435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 305269,
-      "num": 305269,
-      "word": "香港美诚月饼究竟产自哪里",
-      "onboard_time": 1726285280,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 286372,
       "num": 286372,
       "word": "seventeen",
@@ -441,6 +449,14 @@
       "onboard_time": 1726275261,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278949,
+      "num": 278949,
+      "word": "黄庄月饼",
+      "onboard_time": 1726285760,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 274899,
@@ -465,6 +481,14 @@
       "onboard_time": 1726220962,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 265633,
+      "num": 265633,
+      "word": "男子专挑退休阿姨认干妈实施敲诈",
+      "onboard_time": 1726286119,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263131,
@@ -539,14 +563,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 236029,
-      "num": 236029,
-      "word": "男子专挑退休阿姨认干妈实施敲诈",
-      "onboard_time": 1726286119,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 231846,
       "num": 231846,
       "word": "多方回应学生不订牛奶须提供过敏证明",
@@ -571,12 +587,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 227129,
-      "num": 227129,
-      "word": "黄庄月饼",
-      "onboard_time": 1726285760,
-      "rank": 33,
-      "category": "美食"
+      "raw_hot": 229972,
+      "num": 229972,
+      "word": "恋与制作人",
+      "onboard_time": 1726287982,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 219662,
@@ -593,6 +609,14 @@
       "onboard_time": 1726282879,
       "rank": 32,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 214843,
+      "num": 214843,
+      "word": "以闪亮之名",
+      "onboard_time": 1726288282,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 209916,
@@ -635,8 +659,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 203536,
-      "num": 203536,
+      "raw_hot": 203634,
+      "num": 203634,
       "word": "obgg显示Scout被限制出境",
       "onboard_time": 1726284979,
       "rank": 40,
@@ -665,6 +689,14 @@
       "onboard_time": 1726227020,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200283,
+      "num": 200283,
+      "word": "战至巅峰",
+      "onboard_time": 1726288401,
+      "rank": 37,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 195449,
@@ -715,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182511,
+      "num": 182511,
+      "word": "普华永道已有53家公司解约",
+      "onboard_time": 1726285160,
+      "rank": 45,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 178823,
       "num": 178823,
       "word": "秦彻 在你丈夫的葬礼上",
@@ -729,6 +769,14 @@
       "onboard_time": 1726283900,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 175438,
+      "num": 501609,
+      "word": "100块一个的月饼到底是谁在买",
+      "onboard_time": 1726286839,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173310,
@@ -787,6 +835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 164602,
+      "num": 164602,
+      "word": "李纯再发声",
+      "onboard_time": 1726288582,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163409,
       "num": 163409,
       "word": "易烊千玺对所有的离开都不太敏感",
@@ -803,20 +859,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157560,
-      "num": 157560,
-      "word": "普华永道已有53家公司解约",
-      "onboard_time": 1726285160,
-      "rank": 45,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 151335,
       "num": 151335,
       "word": "高一女生腹痛几天后发现卵巢肿瘤",
       "onboard_time": 1726269678,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150665,
+      "num": 150665,
+      "word": "军训教官验收豆腐块收到瑞士卷",
+      "onboard_time": 1726287380,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 150287,
@@ -835,12 +891,12 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 148616,
-      "num": 148616,
-      "word": "张兰自曝将参加花儿与少年",
-      "onboard_time": 1726287862,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 148879,
+      "num": 148879,
+      "word": "偶遇林更新上课",
+      "onboard_time": 1726288642,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 147572,
@@ -929,6 +985,14 @@
       "onboard_time": 1726239623,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133058,
+      "num": 259715,
+      "word": "美国将砸16亿美元全球抹黑中国",
+      "onboard_time": 1726287380,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127842,
@@ -1107,20 +1171,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101030,
+      "num": 496717,
+      "word": "向佐郭碧婷合体宣传新电影",
+      "onboard_time": 1726285999,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 99408,
       "num": 99408,
       "word": "iPhone16Pro系列已排到10月",
       "onboard_time": 1726234882,
       "rank": 42,
       "category": "数码"
-    },
-    {
-      "raw_hot": 98049,
-      "num": 501609,
-      "word": "100块一个的月饼到底是谁在买",
-      "onboard_time": 1726286839,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94961,
@@ -1251,6 +1315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 68971,
+      "num": 507585,
+      "word": "天籁真心12万了",
+      "onboard_time": 1726284920,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 68226,
       "num": 460405,
       "word": "苹果天猫官旗回应支持24期免息购机",
@@ -1265,6 +1337,14 @@
       "onboard_time": 1726229180,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64784,
+      "num": 488900,
+      "word": "女子误信偏方腹腔长10斤肿瘤",
+      "onboard_time": 1726287140,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63498,
@@ -1283,14 +1363,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 61344,
-      "num": 259715,
-      "word": "美国将砸16亿美元全球抹黑中国",
-      "onboard_time": 1726287380,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 56985,
       "num": 105572,
       "word": "木耳泡发超8小时或有毒",
@@ -1305,14 +1377,6 @@
       "onboard_time": 1726280719,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51599,
-      "num": 504251,
-      "word": "天籁真心12万了",
-      "onboard_time": 1726284920,
-      "rank": 46,
-      "category": "汽车"
     },
     {
       "raw_hot": 50904,
@@ -1352,14 +1416,6 @@
       "word": "头部主播带货为何频频翻车",
       "onboard_time": 1726282879,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45156,
-      "num": 477113,
-      "word": "女子误信偏方腹腔长10斤肿瘤",
-      "onboard_time": 1726287140,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
