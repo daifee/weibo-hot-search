@@ -1,6 +1,6 @@
 {
   "startTime": 1726244748063,
-  "endTime": 1726288756244,
+  "endTime": 1726291261573,
   "band_list": [
     {
       "raw_hot": 2474512,
@@ -19,6 +19,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2165748,
+      "num": 2165748,
+      "word": "阿如那当爸爸了",
+      "onboard_time": 1726289361,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1770707,
       "num": 1770707,
       "word": "李纯怒斥小区物业",
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1674940,
-      "num": 622441,
+      "num": 627030,
       "word": "吴谨言结婚照衣服是三年前的联名款",
       "onboard_time": 1726285459,
       "rank": 5,
@@ -49,6 +57,14 @@
       "onboard_time": 1726209923,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1280686,
+      "num": 1280686,
+      "word": "中国午睡第一省不想睡了",
+      "onboard_time": 1726287019,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1218844,
@@ -83,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1055275,
+      "num": 1055275,
+      "word": "美国将砸16亿美元全球抹黑中国",
+      "onboard_time": 1726287380,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1014672,
       "num": 605349,
       "word": "王鹤棣KTV喊话",
@@ -108,7 +132,7 @@
     },
     {
       "raw_hot": 924311,
-      "num": 549147,
+      "num": 626501,
       "word": "王鹤棣说大奉打更人弄死所有人",
       "onboard_time": 1726283299,
       "rank": 15,
@@ -124,7 +148,7 @@
     },
     {
       "raw_hot": 830550,
-      "num": 541133,
+      "num": 626206,
       "word": "田柾国应援NewJeans",
       "onboard_time": 1726287019,
       "rank": 22,
@@ -161,6 +185,22 @@
       "onboard_time": 1726271901,
       "rank": 1,
       "category": "科学科普,社会新闻"
+    },
+    {
+      "raw_hot": 785331,
+      "num": 651794,
+      "word": "张兰自曝将参加花儿与少年",
+      "onboard_time": 1726287862,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 783605,
+      "num": 626331,
+      "word": "李纯再发声",
+      "onboard_time": 1726288582,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 770844,
@@ -203,12 +243,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 667172,
+      "num": 667172,
+      "word": "贝碧嘉",
+      "onboard_time": 1726284859,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 665518,
       "num": 665518,
       "word": "长沙舰与外舰紧张对峙47小时",
       "onboard_time": 1726273281,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 639426,
+      "num": 413529,
+      "word": "家长在班级群连发不雅视频抓小三",
+      "onboard_time": 1726290032,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 626143,
@@ -233,22 +289,6 @@
       "onboard_time": 1726235543,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 563396,
-      "num": 563396,
-      "word": "贝碧嘉",
-      "onboard_time": 1726284859,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 544960,
-      "num": 544960,
-      "word": "中国午睡第一省不想睡了",
-      "onboard_time": 1726287019,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 524895,
@@ -281,14 +321,6 @@
       "onboard_time": 1726237342,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 500644,
-      "num": 500644,
-      "word": "张兰自曝将参加花儿与少年",
-      "onboard_time": 1726287862,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 492088,
@@ -435,6 +467,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288767,
+      "num": 501609,
+      "word": "100块一个的月饼到底是谁在买",
+      "onboard_time": 1726286839,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286608,
+      "num": 286608,
+      "word": "男子专挑退休阿姨认干妈实施敲诈",
+      "onboard_time": 1726286119,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286372,
       "num": 286372,
       "word": "seventeen",
@@ -481,14 +529,6 @@
       "onboard_time": 1726220962,
       "rank": 24,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 265633,
-      "num": 265633,
-      "word": "男子专挑退休阿姨认干妈实施敲诈",
-      "onboard_time": 1726286119,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 263131,
@@ -563,6 +603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 234924,
+      "num": 234924,
+      "word": "黄奕黄晓明已经认识21年了",
+      "onboard_time": 1726289431,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231846,
       "num": 231846,
       "word": "多方回应学生不订牛奶须提供过敏证明",
@@ -603,6 +651,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 219369,
+      "num": 219369,
+      "word": "完美世界",
+      "onboard_time": 1726290751,
+      "rank": 35,
+      "category": "游戏,动漫"
+    },
+    {
+      "raw_hot": 217881,
+      "num": 217881,
+      "word": "年轻人不想在节日上多花一分钱了",
+      "onboard_time": 1726289971,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217298,
       "num": 217298,
       "word": "金高银头发好短",
@@ -627,12 +691,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209853,
+      "num": 209853,
+      "word": "光与夜之恋",
+      "onboard_time": 1726290032,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 209202,
+      "num": 209202,
+      "word": "街道办回应李纯怒斥小区物业",
+      "onboard_time": 1726290630,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209054,
       "num": 209054,
       "word": "女子在超市捞鱼被刺致八级伤残",
       "onboard_time": 1726226961,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208504,
+      "num": 208504,
+      "word": "完美世界剧场版开播",
+      "onboard_time": 1726291109,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 204691,
@@ -771,14 +859,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 175438,
-      "num": 501609,
-      "word": "100块一个的月饼到底是谁在买",
-      "onboard_time": 1726286839,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173310,
       "num": 173310,
       "word": "黑神话章节动画上线B站",
@@ -835,11 +915,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 164602,
-      "num": 164602,
-      "word": "李纯再发声",
-      "onboard_time": 1726288582,
-      "rank": 43,
+      "raw_hot": 164468,
+      "num": 164468,
+      "word": "偶遇林更新上课",
+      "onboard_time": 1726288642,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -889,14 +969,6 @@
       "onboard_time": 1726272440,
       "rank": 30,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 148879,
-      "num": 148879,
-      "word": "偶遇林更新上课",
-      "onboard_time": 1726288642,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 147572,
@@ -987,12 +1059,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133058,
-      "num": 259715,
-      "word": "美国将砸16亿美元全球抹黑中国",
-      "onboard_time": 1726287380,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 128698,
+      "num": 626800,
+      "word": "披荆斩棘的哥哥",
+      "onboard_time": 1726290390,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 127842,
@@ -1220,7 +1292,7 @@
     },
     {
       "raw_hot": 87621,
-      "num": 198644,
+      "num": 439086,
       "word": "宋佳 一双会疼人的眼睛",
       "onboard_time": 1726287739,
       "rank": 37,
@@ -1363,6 +1435,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 59457,
+      "num": 433329,
+      "word": "胡兵把蔡国庆爆改成了伍佰",
+      "onboard_time": 1726291049,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 56985,
       "num": 105572,
       "word": "木耳泡发超8小时或有毒",
@@ -1427,11 +1507,43 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 40669,
+      "num": 208713,
+      "word": "91岁游本昌的满月",
+      "onboard_time": 1726290570,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 38820,
+      "num": 610505,
+      "word": "闹剧迭起的直播带货何去何从",
+      "onboard_time": 1726289790,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35042,
       "num": 965713,
       "word": "中秋将有超级月亮",
       "onboard_time": 1726231821,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31749,
+      "num": 277260,
+      "word": "穿越时空的巴黎文物之美",
+      "onboard_time": 1726290271,
+      "rank": 29,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 29210,
+      "num": 422928,
+      "word": "家属质疑护工粗暴喂饭致老人噎亡",
+      "onboard_time": 1726290810,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1475,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24260,
+      "num": 235305,
+      "word": "电影门前宝地北京首映礼",
+      "onboard_time": 1726291170,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 22813,
       "num": 22813,
       "word": "ti13",
@@ -1503,6 +1623,14 @@
       "num": 52711,
       "word": "明天周六也要上班",
       "onboard_time": 1726253592,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16588,
+      "num": 626919,
+      "word": "市监总局要求重点把控网红月饼质量",
+      "onboard_time": 1726290209,
       "rank": 9,
       "category": "社会新闻"
     },
