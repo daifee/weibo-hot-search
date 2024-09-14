@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726309244752,
+  "endTime": 1726310286531,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -724,7 +724,7 @@
     },
     {
       "raw_hot": 1493658,
-      "num": 589321,
+      "num": 1286955,
       "word": "老板买到15盒香港月饼哭诉不发了",
       "onboard_time": 1726307120,
       "rank": 10,
@@ -2083,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 829470,
+      "num": 829470,
+      "word": "台风",
+      "onboard_time": 1725999791,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 827847,
       "num": 228411,
       "word": "小杨哥开播回应与辛巴的矛盾",
@@ -2145,6 +2153,14 @@
       "onboard_time": 1725770720,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 810809,
+      "num": 810809,
+      "word": "嗑到内娱真青梅竹马了",
+      "onboard_time": 1726305798,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 810477,
@@ -2683,6 +2699,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 683684,
+      "num": 683684,
+      "word": "嫌疑人死亡5天医院还在注射葡萄糖",
+      "onboard_time": 1726306700,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 678711,
       "num": 503572,
       "word": "华为 电子茅台",
@@ -2808,14 +2832,6 @@
       "word": "女子路边摊点30颗痣后眼球被烧伤3层",
       "onboard_time": 1725861318,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 658988,
-      "num": 658988,
-      "word": "台风",
-      "onboard_time": 1725999791,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -3185,14 +3201,6 @@
       "onboard_time": 1725735432,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 588535,
-      "num": 588535,
-      "word": "嗑到内娱真青梅竹马了",
-      "onboard_time": 1726305798,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 587402,
@@ -4203,14 +4211,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 448750,
-      "num": 448750,
-      "word": "嫌疑人死亡5天医院还在注射葡萄糖",
-      "onboard_time": 1726306700,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 448662,
       "num": 448662,
       "word": "韩安冉说流量不好时挺爱殷世航的",
@@ -5121,6 +5121,14 @@
       "onboard_time": 1725780499,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 366161,
+      "num": 210227,
+      "word": "车 你跑快点啊死鬼",
+      "onboard_time": 1726308499,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 366037,
@@ -6195,6 +6203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 287226,
+      "num": 287226,
+      "word": "国防部回应解放军全面攻台能力",
+      "onboard_time": 1726308079,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 287207,
       "num": 287207,
       "word": "藏海传 大男主",
@@ -6433,14 +6449,6 @@
       "onboard_time": 1726151359,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 276151,
-      "num": 276151,
-      "word": "国防部回应解放军全面攻台能力",
-      "onboard_time": 1726308079,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 275835,
@@ -6715,6 +6723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264795,
+      "num": 264795,
+      "word": "二年级女生养蜗牛5个月生380只宝宝",
+      "onboard_time": 1726307000,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263928,
       "num": 263928,
       "word": "周震南比双胞胎弟弟Fly大三个月",
@@ -6835,20 +6851,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 257963,
-      "num": 257963,
-      "word": "二年级女生养蜗牛5个月生380只宝宝",
-      "onboard_time": 1726307000,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 257929,
       "num": 257929,
       "word": "小英在上海走上了红毯",
       "onboard_time": 1725967760,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 257469,
+      "num": 257469,
+      "word": "家长群内连发不雅视频撕另一家长",
+      "onboard_time": 1726306340,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257267,
@@ -6945,14 +6961,6 @@
       "onboard_time": 1726053921,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 254815,
-      "num": 254815,
-      "word": "家长群内连发不雅视频撕另一家长",
-      "onboard_time": 1726306340,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 254635,
@@ -8379,14 +8387,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 214429,
-      "num": 210227,
-      "word": "车 你跑快点啊死鬼",
-      "onboard_time": 1726308499,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 214388,
       "num": 214388,
       "word": "黄景瑜天生下海圣体",
@@ -9369,6 +9369,14 @@
       "onboard_time": 1726025239,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198834,
+      "num": 198834,
+      "word": "王源北京站即将开唱",
+      "onboard_time": 1726309580,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 198802,
@@ -10384,6 +10392,14 @@
       "word": "JDE苏楠单场MVP",
       "onboard_time": 1726145361,
       "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 185538,
+      "num": 185538,
+      "word": "T1晋级S14总决赛",
+      "onboard_time": 1726309938,
+      "rank": 29,
       "category": "电竞"
     },
     {
@@ -12755,6 +12771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 153188,
+      "num": 153188,
+      "word": "鞠婧祎给大家送中秋节祝福",
+      "onboard_time": 1726309220,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153183,
       "num": 153183,
       "word": "现在就出发",
@@ -14219,6 +14243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136322,
+      "num": 136322,
+      "word": "十二星座金九银十事业好运",
+      "onboard_time": 1726308261,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 136234,
       "num": 136234,
       "word": "黄仁勋称必要时英伟达可弃用台积电",
@@ -14619,6 +14651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132607,
+      "num": 132607,
+      "word": "罗永浩对美诚月饼退一赔三",
+      "onboard_time": 1726310059,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 132589,
       "num": 337930,
       "word": "檀健次纽约度假",
@@ -14689,6 +14729,14 @@
       "onboard_time": 1725875840,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131266,
+      "num": 131266,
+      "word": "富士山平替",
+      "onboard_time": 1726309819,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 131104,
@@ -15145,14 +15193,6 @@
       "onboard_time": 1726240941,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125838,
-      "num": 125838,
-      "word": "鞠婧祎给大家送中秋节祝福",
-      "onboard_time": 1726309220,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 125634,
@@ -20539,6 +20579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27378,
+      "num": 478691,
+      "word": "头部主播怎能挂羊头卖狗肉",
+      "onboard_time": 1726309160,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27370,
       "num": 42284,
       "word": "111名缅北电诈嫌犯被移交我方",
@@ -20875,6 +20923,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22318,
+      "num": 159884,
+      "word": "AI周鸿祎堪比端水大师",
+      "onboard_time": 1726307000,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 22218,
+      "num": 256859,
+      "word": "胡兵时装周后台刮起国药风",
+      "onboard_time": 1726308620,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 22036,
       "num": 215238,
       "word": "苏新皓深情演绎",
@@ -20889,14 +20953,6 @@
       "onboard_time": 1725979643,
       "rank": 13,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 21884,
-      "num": 159884,
-      "word": "AI周鸿祎堪比端水大师",
-      "onboard_time": 1726307000,
-      "rank": 38,
-      "category": "互联网"
     },
     {
       "raw_hot": 21728,
@@ -20945,14 +21001,6 @@
       "onboard_time": 1726086372,
       "rank": 48,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 20820,
-      "num": 207198,
-      "word": "胡兵时装周后台刮起国药风",
-      "onboard_time": 1726308620,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 20704,
@@ -21217,14 +21265,6 @@
       "onboard_time": 1726200027,
       "rank": 39,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 14876,
-      "num": 478691,
-      "word": "头部主播怎能挂羊头卖狗肉",
-      "onboard_time": 1726309160,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14800,
