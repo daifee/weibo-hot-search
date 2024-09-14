@@ -1,6 +1,6 @@
 {
   "startTime": 1726244748063,
-  "endTime": 1726324585547,
+  "endTime": 1726327258893,
   "band_list": [
     {
       "raw_hot": 13264941,
@@ -331,6 +331,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 934749,
+      "num": 934749,
+      "word": "不敢相信这是陈卓璇",
+      "onboard_time": 1726323264,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 924311,
       "num": 626501,
       "word": "王鹤棣说大奉打更人弄死所有人",
@@ -643,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 547670,
+      "num": 547670,
+      "word": "四川江油失联姐弟均已遇难",
+      "onboard_time": 1726323142,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 544886,
       "num": 544886,
       "word": "王艺迪4比0战胜王曼昱",
@@ -665,6 +681,14 @@
       "onboard_time": 1726294880,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 535395,
+      "num": 412883,
+      "word": "离婚了也要争婆婆的抚养权",
+      "onboard_time": 1726322962,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 524895,
@@ -723,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 497010,
+      "num": 497010,
+      "word": "王楚钦无缘决赛",
+      "onboard_time": 1726324226,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 496847,
       "num": 496847,
       "word": "HYBE回应田柾国发文",
@@ -755,11 +787,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 465825,
-      "num": 465825,
-      "word": "王楚钦无缘决赛",
-      "onboard_time": 1726324226,
-      "rank": 14,
+      "raw_hot": 480252,
+      "num": 480252,
+      "word": "许昕说孙颖莎今天状态只有7分",
+      "onboard_time": 1726326382,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 461620,
+      "num": 461620,
+      "word": "林诗栋说没想到能赢下来",
+      "onboard_time": 1726324464,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -787,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 436554,
+      "num": 436554,
+      "word": "台风贝碧嘉",
+      "onboard_time": 1726320202,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 434415,
       "num": 434415,
       "word": "田柾国再次更新ins",
@@ -809,6 +857,14 @@
       "onboard_time": 1726276700,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 425214,
+      "num": 425214,
+      "word": "于正说洪尧片酬不买房够花",
+      "onboard_time": 1726321822,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 421247,
@@ -859,14 +915,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 409997,
-      "num": 409997,
-      "word": "台风贝碧嘉",
-      "onboard_time": 1726320202,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 407780,
       "num": 312050,
       "word": "白鹿和陆虎的友谊",
@@ -891,28 +939,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 393475,
-      "num": 393475,
-      "word": "不敢相信这是陈卓璇",
-      "onboard_time": 1726323264,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 389106,
       "num": 389106,
       "word": "张远收到了捧花",
       "onboard_time": 1726237463,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 380586,
-      "num": 380586,
-      "word": "离婚了也要争婆婆的抚养权",
-      "onboard_time": 1726322962,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 366161,
@@ -1019,22 +1051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 308889,
-      "num": 308889,
-      "word": "林诗栋说没想到能赢下来",
-      "onboard_time": 1726324464,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 307988,
-      "num": 409992,
-      "word": "四川江油失联姐弟均已遇难",
-      "onboard_time": 1726323142,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 306236,
       "num": 306236,
       "word": "刘亦菲和助理逛街吃火锅",
@@ -1057,6 +1073,14 @@
       "onboard_time": 1726302619,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 288669,
+      "num": 288669,
+      "word": "许昕说又没退役为啥是复出",
+      "onboard_time": 1726325363,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 286608,
@@ -1113,6 +1137,14 @@
       "onboard_time": 1726316841,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273019,
+      "num": 273019,
+      "word": "孙颖莎 好牛的一球",
+      "onboard_time": 1726326382,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 271244,
@@ -1201,6 +1233,14 @@
       "onboard_time": 1726228821,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 262485,
+      "num": 550593,
+      "word": "疯狂小杨哥未如期开播",
+      "onboard_time": 1726323203,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 257758,
@@ -1387,6 +1427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 233502,
+      "num": 233502,
+      "word": "白宇 快成表演赛了都别太当真",
+      "onboard_time": 1726325722,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231846,
       "num": 231846,
       "word": "多方回应学生不订牛奶须提供过敏证明",
@@ -1571,6 +1619,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 206983,
+      "num": 206983,
+      "word": "张家齐去看王源演唱会了",
+      "onboard_time": 1726326742,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 205780,
       "num": 205780,
       "word": "汪苏泷喊王源宝宝",
@@ -1601,6 +1657,14 @@
       "onboard_time": 1726274543,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 204400,
+      "num": 204400,
+      "word": "林诗栋决赛对阵邱党",
+      "onboard_time": 1726326922,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 204373,
@@ -1705,6 +1769,14 @@
       "onboard_time": 1726294700,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199620,
+      "num": 199620,
+      "word": "花傲天说我做到啦",
+      "onboard_time": 1726326443,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 198967,
@@ -1827,6 +1899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189058,
+      "num": 189058,
+      "word": "韩剧妈妈朋友的儿子",
+      "onboard_time": 1726324345,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187432,
       "num": 187432,
       "word": "王楚钦弧线",
@@ -1849,6 +1929,14 @@
       "onboard_time": 1726315041,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 186736,
+      "num": 186736,
+      "word": "孙颖莎说回去吃更饱",
+      "onboard_time": 1726326262,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 186213,
@@ -1955,12 +2043,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 181674,
+      "num": 181674,
+      "word": "张新成这次什么皮肤谈恋爱",
+      "onboard_time": 1726326203,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178823,
       "num": 178823,
       "word": "秦彻 在你丈夫的葬礼上",
       "onboard_time": 1726284859,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 178587,
+      "num": 178587,
+      "word": "王楚钦哎哟我去",
+      "onboard_time": 1726327162,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 178091,
@@ -1971,28 +2075,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 177868,
-      "num": 550593,
-      "word": "疯狂小杨哥未如期开播",
-      "onboard_time": 1726323203,
-      "rank": 13,
-      "category": "网红"
-    },
-    {
       "raw_hot": 177843,
       "num": 177843,
       "word": "鹭卓南京巡演",
       "onboard_time": 1726317742,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 176415,
-      "num": 176415,
-      "word": "韩剧妈妈朋友的儿子",
-      "onboard_time": 1726324345,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 176312,
@@ -2059,6 +2147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 171467,
+      "num": 171467,
+      "word": "吴宣仪 我是王总舞粉",
+      "onboard_time": 1726327220,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 171420,
       "num": 171420,
       "word": "东风快递员是怎么押运导弹的",
@@ -2089,14 +2185,6 @@
       "onboard_time": 1726299380,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167669,
-      "num": 167669,
-      "word": "于正说洪尧片酬不买房够花",
-      "onboard_time": 1726321822,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 166931,
@@ -2755,6 +2843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104330,
+      "num": 439231,
+      "word": "雪迷宫姜家不是人狠是低血糖",
+      "onboard_time": 1726326502,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104239,
       "num": 125553,
       "word": "英特尔高管让美反华议员破防",
@@ -2809,6 +2905,14 @@
       "onboard_time": 1726293321,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90091,
+      "num": 289179,
+      "word": "流水迢迢原著",
+      "onboard_time": 1726325122,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 89725,
@@ -2937,6 +3041,14 @@
       "onboard_time": 1726264031,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75925,
+      "num": 619207,
+      "word": "男子提供有偿代骂每单收费240元",
+      "onboard_time": 1726325842,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75843,
@@ -3251,6 +3363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39754,
+      "num": 440696,
+      "word": "男子开挖机在山火中挖出隔离带",
+      "onboard_time": 1726326443,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39440,
       "num": 521419,
       "word": "范特西23周年",
@@ -3355,8 +3475,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 32072,
-      "num": 189324,
+      "raw_hot": 32905,
+      "num": 1379637,
       "word": "高质量发展看广西",
       "onboard_time": 1726321942,
       "rank": 46,
