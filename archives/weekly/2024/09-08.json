@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726320892726,
+  "endTime": 1726323505710,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -56,6 +56,14 @@
       "word": "国足vs沙特",
       "onboard_time": 1725968840,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 5891746,
+      "num": 5891746,
+      "word": "王楚钦vs林诗栋",
+      "onboard_time": 1726320264,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -219,6 +227,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 2640010,
+      "num": 2262427,
+      "word": "专家建议取消频繁调休",
+      "onboard_time": 1726314740,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2520276,
       "num": 446708,
       "word": "家长群内连发不雅视频撕另一家长",
@@ -273,14 +289,6 @@
       "onboard_time": 1726119920,
       "rank": 0,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 2262427,
-      "num": 2262427,
-      "word": "专家建议取消频繁调休",
-      "onboard_time": 1726314740,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2254379,
@@ -1195,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1217767,
+      "num": 1217767,
+      "word": "女主被男主捅了",
+      "onboard_time": 1726317801,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1206006,
       "num": 1149521,
       "word": "888元一桌的婚宴鱼是生的菜是臭的",
@@ -1795,14 +1811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 945327,
-      "num": 945327,
-      "word": "女主被男主捅了",
-      "onboard_time": 1726317801,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 941708,
       "num": 941708,
       "word": "5岁女童小区内玩耍时被碾压致死",
@@ -2001,6 +2009,14 @@
       "onboard_time": 1725970882,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 873536,
+      "num": 873536,
+      "word": "吴谨言领证后首现身",
+      "onboard_time": 1726319903,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 872902,
@@ -2593,14 +2609,6 @@
       "onboard_time": 1725762319,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 715303,
-      "num": 715303,
-      "word": "王楚钦vs林诗栋",
-      "onboard_time": 1726320264,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 713916,
@@ -3331,6 +3339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 589792,
+      "num": 589792,
+      "word": "你好星期六下期院人来了",
+      "onboard_time": 1726321043,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 587402,
       "num": 587402,
       "word": "人怎么能有种成金珉奎这样",
@@ -3409,6 +3425,14 @@
       "onboard_time": 1725937939,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 577765,
+      "num": 577765,
+      "word": "王源让敖子逸给粉丝转50",
+      "onboard_time": 1726320503,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 577489,
@@ -4107,14 +4131,6 @@
       "category": "国外时政,艺人"
     },
     {
-      "raw_hot": 481301,
-      "num": 481301,
-      "word": "吴谨言领证后首现身",
-      "onboard_time": 1726319903,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 480115,
       "num": 438383,
       "word": "90后男生成班主任的领导仍遭血脉压制",
@@ -4787,6 +4803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 414433,
+      "num": 589251,
+      "word": "孙颖莎进入决赛",
+      "onboard_time": 1726320864,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 412959,
       "num": 412959,
       "word": "小草包 JackeyLove",
@@ -4921,14 +4945,6 @@
       "onboard_time": 1725774678,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 404616,
-      "num": 404616,
-      "word": "王源让敖子逸给粉丝转50",
-      "onboard_time": 1726320503,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 404198,
@@ -5225,14 +5241,6 @@
       "onboard_time": 1725897319,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 376415,
-      "num": 376415,
-      "word": "孙颖莎进入决赛",
-      "onboard_time": 1726320864,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 375299,
@@ -8243,12 +8251,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 225807,
+      "num": 225807,
+      "word": "苏新皓 玉桂狗贴纸",
+      "onboard_time": 1726321343,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 225766,
       "num": 225766,
       "word": "殷桃和王骁拍吵架戏吵生气了",
       "onboard_time": 1726111999,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225528,
+      "num": 225528,
+      "word": "陈梦OK十月刊封面预告",
+      "onboard_time": 1726320143,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 225357,
@@ -8451,6 +8475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221481,
+      "num": 221481,
+      "word": "许昕直播",
+      "onboard_time": 1726320022,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220949,
       "num": 220949,
       "word": "献鱼",
@@ -8577,14 +8609,6 @@
       "onboard_time": 1725950658,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 218100,
-      "num": 211636,
-      "word": "许昕直播",
-      "onboard_time": 1726320022,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 217984,
@@ -9121,14 +9145,6 @@
       "onboard_time": 1725951559,
       "rank": 40,
       "category": "数码"
-    },
-    {
-      "raw_hot": 207876,
-      "num": 207876,
-      "word": "陈梦OK十月刊封面预告",
-      "onboard_time": 1726320143,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 207741,
@@ -9707,6 +9723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199752,
+      "num": 199752,
+      "word": "幼儿园长4年关8所学校负债2000万",
+      "onboard_time": 1726323142,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199630,
       "num": 199630,
       "word": "大熊猫有自己的平头小帅哥",
@@ -9857,6 +9881,14 @@
       "onboard_time": 1726294880,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 198107,
+      "num": 198107,
+      "word": "不敢相信这是陈卓璇",
+      "onboard_time": 1726323264,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 198089,
@@ -10089,6 +10121,14 @@
       "onboard_time": 1725971481,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194988,
+      "num": 194988,
+      "word": "崩坏3联动星穹铁道",
+      "onboard_time": 1726321761,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 194918,
@@ -10521,6 +10561,14 @@
       "onboard_time": 1726024099,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188994,
+      "num": 188994,
+      "word": "离婚了也要争婆婆的抚养权",
+      "onboard_time": 1726322962,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 188977,
@@ -11139,6 +11187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181783,
+      "num": 181783,
+      "word": "花傲天又又又拿分了",
+      "onboard_time": 1726322242,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 181526,
       "num": 181526,
       "word": "华为MateXT非凡大师",
@@ -11241,6 +11297,14 @@
       "onboard_time": 1725800419,
       "rank": 44,
       "category": "网红"
+    },
+    {
+      "raw_hot": 180327,
+      "num": 409992,
+      "word": "四川江油失联姐弟均已遇难",
+      "onboard_time": 1726323142,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180253,
@@ -17243,6 +17307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105044,
+      "num": 547301,
+      "word": "3女生住酒店凌晨遭陌生男子闯入",
+      "onboard_time": 1726322301,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104656,
       "num": 104656,
       "word": "原来用荷叶喝茶更好喝是真的",
@@ -19083,6 +19155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 60175,
+      "num": 1468254,
+      "word": "文化中国行中秋赏灯会",
+      "onboard_time": 1726322121,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59551,
       "num": 898512,
       "word": "神十八航天员太空出差Vlog上新",
@@ -19651,6 +19731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49470,
+      "num": 586299,
+      "word": "头部主播4款争议商品命运迥异",
+      "onboard_time": 1726322842,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49394,
       "num": 769931,
       "word": "史妍是被付航附体了么",
@@ -20049,6 +20137,14 @@
       "onboard_time": 1726226900,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43796,
+      "num": 550593,
+      "word": "疯狂小杨哥未如期开播",
+      "onboard_time": 1726323203,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 43639,
@@ -20955,6 +21051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32072,
+      "num": 189324,
+      "word": "高质量发展看广西",
+      "onboard_time": 1726321942,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31946,
       "num": 55765,
       "word": "大学期间可以争取哪些合理收入",
@@ -20993,6 +21097,14 @@
       "onboard_time": 1725869060,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31050,
+      "num": 580896,
+      "word": "流水迢迢追剧日历",
+      "onboard_time": 1726322722,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 30979,
@@ -22286,6 +22398,9 @@
     },
     {
       "word": "#三次座谈会总书记情系母亲河#"
+    },
+    {
+      "word": "#把人民代表大会制度坚持好完善好运行好#"
     }
   ]
 }
