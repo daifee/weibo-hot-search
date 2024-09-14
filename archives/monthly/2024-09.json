@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726317476877,
+  "endTime": 1726318410283,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -259,6 +259,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 3062590,
+      "num": 3062590,
+      "word": "孙颖莎vs张本美和",
+      "onboard_time": 1726314321,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3031035,
       "num": 3031035,
       "word": "于正晒出和吴谨言聊天记录",
@@ -409,14 +417,6 @@
       "onboard_time": 1725283763,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2411062,
-      "num": 2411062,
-      "word": "孙颖莎vs张本美和",
-      "onboard_time": 1726314321,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 2394639,
@@ -1121,6 +1121,14 @@
       "onboard_time": 1726285459,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1670526,
+      "num": 446708,
+      "word": "家长群内连发不雅视频撕另一家长",
+      "onboard_time": 1726306340,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1656185,
@@ -4283,14 +4291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 844901,
-      "num": 436904,
-      "word": "家长群内连发不雅视频撕另一家长",
-      "onboard_time": 1726306340,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 844008,
       "num": 440950,
       "word": "王鹤棣 分寸感",
@@ -5611,6 +5611,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 695915,
+      "num": 695915,
+      "word": "鹭卓巡演疑似被叫停",
+      "onboard_time": 1726317261,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 695388,
       "num": 695388,
       "word": "卢昱晓 刁蛮俏公主",
@@ -5681,6 +5689,14 @@
       "onboard_time": 1725938479,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 685818,
+      "num": 685818,
+      "word": "光刻机",
+      "onboard_time": 1726315581,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 685781,
@@ -7923,14 +7939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 515493,
-      "num": 515493,
-      "word": "光刻机",
-      "onboard_time": 1726315581,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 514347,
       "num": 429812,
       "word": "中医建议我不吃晚饭不喝牛奶",
@@ -9363,6 +9371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440024,
+      "num": 440024,
+      "word": "武汉烟花",
+      "onboard_time": 1726313599,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 439497,
       "num": 439497,
       "word": "关晓彤来我们学校拍戏了",
@@ -9833,6 +9849,14 @@
       "onboard_time": 1726203695,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 417345,
+      "num": 460019,
+      "word": "谢美蓝终于离婚了",
+      "onboard_time": 1726316540,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 417077,
@@ -10505,6 +10529,14 @@
       "onboard_time": 1725855381,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 382776,
+      "num": 382776,
+      "word": "专家建议取消频繁调休",
+      "onboard_time": 1726314740,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 382512,
@@ -11715,14 +11747,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 329018,
-      "num": 329018,
-      "word": "武汉烟花",
-      "onboard_time": 1726313599,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 329008,
       "num": 329008,
       "word": "阿条姐 先天特工圣体",
@@ -12337,6 +12361,14 @@
       "onboard_time": 1725751695,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 307269,
+      "num": 282595,
+      "word": "银河左岸",
+      "onboard_time": 1726317502,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 307054,
@@ -13211,14 +13243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284331,
-      "num": 460019,
-      "word": "谢美蓝终于离婚了",
-      "onboard_time": 1726316540,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 284051,
       "num": 284051,
       "word": "我的裤子竟然被1000w人围观了",
@@ -13993,6 +14017,14 @@
       "onboard_time": 1725804620,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 266719,
+      "num": 500494,
+      "word": "女主被男主捅了",
+      "onboard_time": 1726317801,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 266636,
@@ -15955,6 +15987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233591,
+      "num": 233591,
+      "word": "朱苏",
+      "onboard_time": 1726317742,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 233511,
       "num": 233511,
       "word": "葛晓倩直播",
@@ -16569,6 +16609,14 @@
       "onboard_time": 1725603919,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 225178,
+      "num": 225178,
+      "word": "邱党晋级决赛",
+      "onboard_time": 1726317201,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 225062,
@@ -17635,6 +17683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 212368,
+      "num": 212368,
+      "word": "安陵容私下就是烟酒都来的",
+      "onboard_time": 1726317559,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212283,
       "num": 255969,
       "word": "台风摩羯将至广东多地停课",
@@ -17705,6 +17761,14 @@
       "onboard_time": 1725409941,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211128,
+      "num": 211128,
+      "word": "李纯曝光物业事故真的占用公共资源吗",
+      "onboard_time": 1726318342,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 211058,
@@ -19435,6 +19499,14 @@
       "category": "动漫,游戏"
     },
     {
+      "raw_hot": 198967,
+      "num": 198967,
+      "word": "花傲天再拿一分",
+      "onboard_time": 1726318222,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 198951,
       "num": 309160,
       "word": "恩利给伊能静化网红妆",
@@ -19833,6 +19905,14 @@
       "onboard_time": 1725414139,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 196785,
+      "num": 196785,
+      "word": "花傲天白发",
+      "onboard_time": 1726318222,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 196778,
@@ -21875,6 +21955,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 185024,
+      "num": 185024,
+      "word": "王源演唱会",
+      "onboard_time": 1726318282,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 185021,
       "num": 185021,
       "word": "谁能看出周翊然前一天4点下班",
@@ -22465,14 +22553,6 @@
       "onboard_time": 1726134860,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181347,
-      "num": 181347,
-      "word": "鹭卓巡演疑似被叫停",
-      "onboard_time": 1726317261,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 181345,
@@ -23083,6 +23163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177843,
+      "num": 177843,
+      "word": "鹭卓南京巡演",
+      "onboard_time": 1726317742,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 177750,
       "num": 236547,
       "word": "BOYNEXTDOOR主打曲MV",
@@ -23659,6 +23747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174524,
+      "num": 449744,
+      "word": "老人在山西4A级景区摔倒后去世",
+      "onboard_time": 1726315701,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174516,
       "num": 174516,
       "word": "时代少年团8月行程图",
@@ -23737,14 +23833,6 @@
       "onboard_time": 1725466998,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 174118,
-      "num": 174118,
-      "word": "邱党晋级决赛",
-      "onboard_time": 1726317201,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 174102,
@@ -25172,7 +25260,7 @@
     },
     {
       "raw_hot": 165384,
-      "num": 165384,
+      "num": 449750,
       "word": "妈妈带2个孩子喝农药自杀被判刑",
       "onboard_time": 1726316841,
       "rank": 48,
@@ -25233,14 +25321,6 @@
       "onboard_time": 1725200241,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 164703,
-      "num": 164703,
-      "word": "专家建议取消频繁调休",
-      "onboard_time": 1726314740,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164609,
@@ -27833,6 +27913,14 @@
       "onboard_time": 1725517460,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 150584,
+      "num": 565296,
+      "word": "网红主播1个月播6场销售额超1亿",
+      "onboard_time": 1726317982,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150583,
@@ -33419,6 +33507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110540,
+      "num": 547009,
+      "word": "市监局回应香港美诚月饼涉虚假宣传",
+      "onboard_time": 1726317020,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110469,
       "num": 110469,
       "word": "金智媛见面会被喊金秀贤",
@@ -34281,14 +34377,6 @@
       "onboard_time": 1725811820,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 99899,
-      "num": 449744,
-      "word": "老人在山西4A级景区摔倒后去世",
-      "onboard_time": 1726315701,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99887,
@@ -36683,14 +36771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 62386,
-      "num": 518338,
-      "word": "市监局回应香港美诚月饼涉虚假宣传",
-      "onboard_time": 1726317020,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 62369,
       "num": 143652,
       "word": "有羽毛球培训机构让学员自行带球",
@@ -36769,6 +36849,14 @@
       "onboard_time": 1726134019,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 61126,
+      "num": 494015,
+      "word": "教育局回应学生不订奶需交过敏证明",
+      "onboard_time": 1726317020,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61045,
@@ -38699,6 +38787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42182,
+      "num": 442010,
+      "word": "周杰伦说青春不止范特西",
+      "onboard_time": 1726317261,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 42161,
       "num": 1094246,
       "word": "我国载人登月工程有了新助力",
@@ -39099,6 +39195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39334,
+      "num": 182920,
+      "word": "当代年轻人的赛博许愿",
+      "onboard_time": 1726315401,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 39325,
       "num": 52121,
       "word": "成毅水蓝色造型路透",
@@ -39457,14 +39561,6 @@
       "onboard_time": 1725523580,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36801,
-      "num": 182920,
-      "word": "当代年轻人的赛博许愿",
-      "onboard_time": 1726315401,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 36796,
@@ -40419,14 +40515,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 30626,
-      "num": 472319,
-      "word": "教育局回应学生不订奶需交过敏证明",
-      "onboard_time": 1726317020,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30504,
       "num": 254964,
       "word": "户外新手的冲锋衣怎么选",
@@ -40811,6 +40899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27606,
+      "num": 205712,
+      "word": "流水迢迢水映心上人海报",
+      "onboard_time": 1726317862,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 27584,
       "num": 279888,
       "word": "武汉一小区附近挖排污井致楼房开裂",
@@ -40945,14 +41041,6 @@
       "onboard_time": 1726218022,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26584,
-      "num": 175138,
-      "word": "周杰伦说青春不止范特西",
-      "onboard_time": 1726317261,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 26494,
@@ -41304,6 +41392,14 @@
       "word": "产地和价格注水是蟹卡最常见套路",
       "onboard_time": 1725368300,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24186,
+      "num": 452122,
+      "word": "两年被家暴16次女子申请提级审理",
+      "onboard_time": 1726318103,
+      "rank": 18,
       "category": "社会新闻"
     },
     {

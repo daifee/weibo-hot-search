@@ -1,7 +1,15 @@
 {
   "startTime": 1726244748063,
-  "endTime": 1726317476877,
+  "endTime": 1726318410283,
   "band_list": [
+    {
+      "raw_hot": 3062590,
+      "num": 3062590,
+      "word": "孙颖莎vs张本美和",
+      "onboard_time": 1726314321,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 3031035,
       "num": 3031035,
@@ -17,14 +25,6 @@
       "onboard_time": 1726286301,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2411062,
-      "num": 2411062,
-      "word": "孙颖莎vs张本美和",
-      "onboard_time": 1726314321,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 2233178,
@@ -89,6 +89,14 @@
       "onboard_time": 1726285459,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1670526,
+      "num": 446708,
+      "word": "家长群内连发不雅视频撕另一家长",
+      "onboard_time": 1726306340,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1618856,
@@ -283,14 +291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 844901,
-      "num": 436904,
-      "word": "家长群内连发不雅视频撕另一家长",
-      "onboard_time": 1726306340,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 839560,
       "num": 839560,
       "word": "夫人小我十岁 我不知她还有作业",
@@ -427,12 +427,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 695915,
+      "num": 695915,
+      "word": "鹭卓巡演疑似被叫停",
+      "onboard_time": 1726317261,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 689574,
       "num": 689574,
       "word": "陆虎陈曌旭婚礼好多熟人",
       "onboard_time": 1726232363,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 685818,
+      "num": 685818,
+      "word": "光刻机",
+      "onboard_time": 1726315581,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 684244,
@@ -595,14 +611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 515493,
-      "num": 515493,
-      "word": "光刻机",
-      "onboard_time": 1726315581,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 502120,
       "num": 502120,
       "word": "杀妻欲藏尸冰柜案凶手至死没道歉",
@@ -651,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440024,
+      "num": 440024,
+      "word": "武汉烟花",
+      "onboard_time": 1726313599,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438953,
       "num": 383969,
       "word": "苏醒喂老婆喝水",
@@ -689,6 +705,14 @@
       "onboard_time": 1726233683,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 417345,
+      "num": 460019,
+      "word": "谢美蓝终于离婚了",
+      "onboard_time": 1726316540,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 416416,
@@ -747,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 382776,
+      "num": 382776,
+      "word": "专家建议取消频繁调休",
+      "onboard_time": 1726314740,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366161,
       "num": 296459,
       "word": "车 你跑快点啊死鬼",
@@ -795,14 +827,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 329018,
-      "num": 329018,
-      "word": "武汉烟花",
-      "onboard_time": 1726313599,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 326631,
       "num": 326631,
       "word": "妈妈一定在天上急得团团转",
@@ -833,6 +857,14 @@
       "onboard_time": 1726237522,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307269,
+      "num": 282595,
+      "word": "银河左岸",
+      "onboard_time": 1726317502,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 306236,
@@ -873,14 +905,6 @@
       "onboard_time": 1726241660,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 284331,
-      "num": 460019,
-      "word": "谢美蓝终于离婚了",
-      "onboard_time": 1726316540,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 282408,
@@ -961,6 +985,14 @@
       "onboard_time": 1726220962,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 266719,
+      "num": 500494,
+      "word": "女主被男主捅了",
+      "onboard_time": 1726317801,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 266359,
@@ -1155,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233591,
+      "num": 233591,
+      "word": "朱苏",
+      "onboard_time": 1726317742,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 231846,
       "num": 231846,
       "word": "多方回应学生不订牛奶须提供过敏证明",
@@ -1185,6 +1225,14 @@
       "onboard_time": 1726287982,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 225178,
+      "num": 225178,
+      "word": "邱党晋级决赛",
+      "onboard_time": 1726317201,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 221914,
@@ -1235,6 +1283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 212368,
+      "num": 212368,
+      "word": "安陵容私下就是烟酒都来的",
+      "onboard_time": 1726317559,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211898,
       "num": 287528,
       "word": "大奉打更人导演回应",
@@ -1249,6 +1305,14 @@
       "onboard_time": 1726306040,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 211128,
+      "num": 211128,
+      "word": "李纯曝光物业事故真的占用公共资源吗",
+      "onboard_time": 1726318342,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 209916,
@@ -1395,6 +1459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198967,
+      "num": 198967,
+      "word": "花傲天再拿一分",
+      "onboard_time": 1726318222,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 198834,
       "num": 198834,
       "word": "王源北京站即将开唱",
@@ -1417,6 +1489,14 @@
       "onboard_time": 1726311140,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196785,
+      "num": 196785,
+      "word": "花傲天白发",
+      "onboard_time": 1726318222,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 195984,
@@ -1515,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185024,
+      "num": 185024,
+      "word": "王源演唱会",
+      "onboard_time": 1726318282,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 185021,
       "num": 185021,
       "word": "谁能看出周翊然前一天4点下班",
@@ -1579,14 +1667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181347,
-      "num": 181347,
-      "word": "鹭卓巡演疑似被叫停",
-      "onboard_time": 1726317261,
-      "rank": 42,
-      "category": "演出"
-    },
-    {
       "raw_hot": 178823,
       "num": 178823,
       "word": "秦彻 在你丈夫的葬礼上",
@@ -1603,6 +1683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 177843,
+      "num": 177843,
+      "word": "鹭卓南京巡演",
+      "onboard_time": 1726317742,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 175265,
       "num": 175265,
       "word": "赵丽颖李红樱簪花嫁衣造型",
@@ -1611,12 +1699,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 174118,
-      "num": 174118,
-      "word": "邱党晋级决赛",
-      "onboard_time": 1726317201,
-      "rank": 45,
-      "category": "体育"
+      "raw_hot": 174524,
+      "num": 449744,
+      "word": "老人在山西4A级景区摔倒后去世",
+      "onboard_time": 1726315701,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173877,
@@ -1732,7 +1820,7 @@
     },
     {
       "raw_hot": 165384,
-      "num": 165384,
+      "num": 449750,
       "word": "妈妈带2个孩子喝农药自杀被判刑",
       "onboard_time": 1726316841,
       "rank": 48,
@@ -1745,14 +1833,6 @@
       "onboard_time": 1726297878,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 164703,
-      "num": 164703,
-      "word": "专家建议取消频繁调休",
-      "onboard_time": 1726314740,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164468,
@@ -1841,6 +1921,14 @@
       "onboard_time": 1726287380,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 150584,
+      "num": 565296,
+      "word": "网红主播1个月播6场销售额超1亿",
+      "onboard_time": 1726317982,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150287,
@@ -2291,6 +2379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110540,
+      "num": 547009,
+      "word": "市监局回应香港美诚月饼涉虚假宣传",
+      "onboard_time": 1726317020,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110442,
       "num": 433329,
       "word": "胡兵把蔡国庆爆改成了伍佰",
@@ -2377,14 +2473,6 @@
       "onboard_time": 1726285999,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 99899,
-      "num": 449744,
-      "word": "老人在山西4A级景区摔倒后去世",
-      "onboard_time": 1726315701,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99408,
@@ -2603,20 +2691,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 62386,
-      "num": 518338,
-      "word": "市监局回应香港美诚月饼涉虚假宣传",
-      "onboard_time": 1726317020,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 62237,
       "num": 71418,
       "word": "K总 搞笑",
       "onboard_time": 1726245675,
       "rank": 49,
       "category": "网红"
+    },
+    {
+      "raw_hot": 61126,
+      "num": 494015,
+      "word": "教育局回应学生不订奶需交过敏证明",
+      "onboard_time": 1726317020,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56985,
@@ -2763,6 +2851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42182,
+      "num": 442010,
+      "word": "周杰伦说青春不止范特西",
+      "onboard_time": 1726317261,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 41698,
       "num": 772820,
       "word": "厨房管道漏水被收9000元维修费",
@@ -2811,20 +2907,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 39334,
+      "num": 182920,
+      "word": "当代年轻人的赛博许愿",
+      "onboard_time": 1726315401,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 38820,
       "num": 610505,
       "word": "闹剧迭起的直播带货何去何从",
       "onboard_time": 1726289790,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36801,
-      "num": 182920,
-      "word": "当代年轻人的赛博许愿",
-      "onboard_time": 1726315401,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 36421,
@@ -2899,14 +2995,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 30626,
-      "num": 472319,
-      "word": "教育局回应学生不订奶需交过敏证明",
-      "onboard_time": 1726317020,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27925,
       "num": 511611,
       "word": "旅行的随地大小拍",
@@ -2923,6 +3011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27606,
+      "num": 205712,
+      "word": "流水迢迢水映心上人海报",
+      "onboard_time": 1726317862,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 27378,
       "num": 478691,
       "word": "头部主播怎能挂羊头卖狗肉",
@@ -2937,14 +3033,6 @@
       "onboard_time": 1726259350,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26584,
-      "num": 175138,
-      "word": "周杰伦说青春不止范特西",
-      "onboard_time": 1726317261,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 25997,
@@ -2977,6 +3065,14 @@
       "onboard_time": 1726291170,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 24186,
+      "num": 452122,
+      "word": "两年被家暴16次女子申请提级审理",
+      "onboard_time": 1726318103,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23197,
