@@ -1,6 +1,6 @@
 {
   "startTime": 1726244748063,
-  "endTime": 1726303220443,
+  "endTime": 1726305660651,
   "band_list": [
     {
       "raw_hot": 3031035,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2075801,
-      "num": 877616,
+      "num": 1033614,
       "word": "女子去世叔叔舅舅争数百万遗产",
       "onboard_time": 1726298060,
       "rank": 37,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1618856,
+      "num": 1618856,
+      "word": "王俊凯强制要求影院给粉丝退钱",
+      "onboard_time": 1726302019,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1535449,
       "num": 1535449,
       "word": "中国午睡第一省不想睡了",
@@ -97,6 +105,14 @@
       "onboard_time": 1726209923,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1222398,
+      "num": 1034106,
+      "word": "欧阳妮妮晒孕肚",
+      "onboard_time": 1726303401,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1218844,
@@ -163,12 +179,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1033012,
+      "num": 1033012,
+      "word": "中秋是仅次于春节的传统节日",
+      "onboard_time": 1726299321,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1014672,
       "num": 605349,
       "word": "王鹤棣KTV喊话",
       "onboard_time": 1726281979,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1002742,
+      "num": 1002742,
+      "word": "张继科跑路风波后现身",
+      "onboard_time": 1726301900,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 978670,
@@ -195,14 +227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 874867,
-      "num": 874867,
-      "word": "王俊凯强制要求影院给粉丝退钱",
-      "onboard_time": 1726302019,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 847472,
       "num": 847472,
       "word": "学校回应唐尚珺舍友全部申请搬宿舍",
@@ -217,6 +241,14 @@
       "onboard_time": 1726287019,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 802710,
+      "num": 802710,
+      "word": "夫人小我十岁 我不知她还有作业",
+      "onboard_time": 1726301960,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 800847,
@@ -264,6 +296,14 @@
       "word": "中学被指不订奶要提供过敏证明",
       "onboard_time": 1726241481,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 765786,
+      "num": 765786,
+      "word": "教育局回应家长群内发视频撕小三",
+      "onboard_time": 1726302080,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -323,12 +363,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 659177,
-      "num": 659177,
-      "word": "中秋是仅次于春节的传统节日",
-      "onboard_time": 1726299321,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 653347,
+      "num": 653347,
+      "word": "狂飙剧组集体二搭了",
+      "onboard_time": 1726302140,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 626143,
@@ -443,14 +483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 447882,
-      "num": 447882,
-      "word": "夫人小我十岁 我不知她还有作业",
-      "onboard_time": 1726301960,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 445600,
       "num": 445600,
       "word": "台风或以巅峰强度登陆浙江",
@@ -475,7 +507,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 427416,
+      "raw_hot": 428455,
       "num": 501609,
       "word": "100块一个的月饼到底是谁在买",
       "onboard_time": 1726286839,
@@ -515,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 412240,
+      "num": 412240,
+      "word": "台风",
+      "onboard_time": 1726269557,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 407780,
       "num": 312050,
       "word": "白鹿和陆虎的友谊",
@@ -545,14 +585,6 @@
       "onboard_time": 1726237463,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 376768,
-      "num": 376768,
-      "word": "张继科跑路风波后现身",
-      "onboard_time": 1726301900,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 364962,
@@ -587,11 +619,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 341843,
-      "num": 341843,
-      "word": "教育局回应家长群内发视频撕小三",
-      "onboard_time": 1726302080,
-      "rank": 27,
+      "raw_hot": 340240,
+      "num": 340240,
+      "word": "人民网评香港月饼香港买不到",
+      "onboard_time": 1726302980,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -609,14 +641,6 @@
       "onboard_time": 1726275860,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 316843,
-      "num": 316843,
-      "word": "台风",
-      "onboard_time": 1726269557,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 314221,
@@ -641,6 +665,14 @@
       "onboard_time": 1726283000,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 299912,
+      "num": 299912,
+      "word": "杨幂张小斐对视",
+      "onboard_time": 1726302619,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 286608,
@@ -691,14 +723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 272160,
-      "num": 272160,
-      "word": "杨幂张小斐对视",
-      "onboard_time": 1726302619,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 271244,
       "num": 271244,
       "word": "完美世界",
@@ -745,6 +769,14 @@
       "onboard_time": 1726297820,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 265521,
+      "num": 265521,
+      "word": "韩国明年中秋将迎来7天连假",
+      "onboard_time": 1726301539,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263928,
@@ -867,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233763,
+      "num": 233763,
+      "word": "娜扎生图",
+      "onboard_time": 1726303821,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231846,
       "num": 231846,
       "word": "多方回应学生不订牛奶须提供过敏证明",
@@ -899,14 +939,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 227456,
-      "num": 227456,
-      "word": "狂飙剧组集体二搭了",
-      "onboard_time": 1726302140,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 219662,
       "num": 219662,
       "word": "苹果芯片负责人国内首次对谈",
@@ -937,6 +969,14 @@
       "onboard_time": 1726288282,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 214113,
+      "num": 214113,
+      "word": "T1对战KT",
+      "onboard_time": 1726296740,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 211898,
@@ -977,6 +1017,14 @@
       "onboard_time": 1726291109,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 205230,
+      "num": 205230,
+      "word": "你会为了100万去照顾老人吗",
+      "onboard_time": 1726304062,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 204691,
@@ -1073,6 +1121,14 @@
       "onboard_time": 1726281378,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194619,
+      "num": 194619,
+      "word": "晋江文学城回应崩了",
+      "onboard_time": 1726304780,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 194335,
@@ -1187,6 +1243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 173852,
+      "num": 173852,
+      "word": "我刚睡醒时就杨超越这样",
+      "onboard_time": 1726305140,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173310,
       "num": 173310,
       "word": "黑神话章节动画上线B站",
@@ -1225,6 +1289,22 @@
       "onboard_time": 1726301660,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 171022,
+      "num": 171022,
+      "word": "侃爷ins发文",
+      "onboard_time": 1726303520,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 169101,
+      "num": 169101,
+      "word": "藏了6年的社恐熊被中国设备拍到了",
+      "onboard_time": 1726302681,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168217,
@@ -1275,14 +1355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163455,
-      "num": 163455,
-      "word": "T1对战KT",
-      "onboard_time": 1726296740,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 163409,
       "num": 163409,
       "word": "易烊千玺对所有的离开都不太敏感",
@@ -1313,14 +1385,6 @@
       "onboard_time": 1726297040,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152240,
-      "num": 152240,
-      "word": "藏了6年的社恐熊被中国设备拍到了",
-      "onboard_time": 1726302681,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151335,
@@ -1371,6 +1435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 146173,
+      "num": 146173,
+      "word": "解放军有可靠手段让天堑变通途",
+      "onboard_time": 1726304180,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145354,
       "num": 145354,
       "word": "四川宜宾市发生3.6级地震",
@@ -1387,14 +1459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 144489,
-      "num": 144489,
-      "word": "人民网评香港月饼香港买不到",
-      "onboard_time": 1726302980,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144283,
       "num": 144283,
       "word": "内娱也是有厕所直拍了",
@@ -1409,14 +1473,6 @@
       "onboard_time": 1726299439,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143108,
-      "num": 143108,
-      "word": "韩国明年中秋将迎来7天连假",
-      "onboard_time": 1726301539,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140853,
@@ -1457,6 +1513,14 @@
       "onboard_time": 1726287442,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138725,
+      "num": 138725,
+      "word": "谁能看出周翊然前一天4点下班",
+      "onboard_time": 1726305441,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 138635,
@@ -1531,12 +1595,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 133770,
+      "num": 133770,
+      "word": "近一半阳澄湖大闸蟹去了北上广",
+      "onboard_time": 1726305621,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133234,
       "num": 133234,
       "word": "金珉奎背徐明浩",
       "onboard_time": 1726239623,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133031,
+      "num": 652034,
+      "word": "台风贝碧嘉对杭州影响明显",
+      "onboard_time": 1726302381,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132589,
@@ -1609,6 +1689,14 @@
       "onboard_time": 1726283360,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123859,
+      "num": 405925,
+      "word": "于正 吴谨言结婚发言人",
+      "onboard_time": 1726304661,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 122697,
@@ -1811,6 +1899,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 95933,
+      "num": 569263,
+      "word": "拼多多又把iPhone16价格打下来了",
+      "onboard_time": 1726303162,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 94961,
       "num": 94961,
       "word": "睡前5个习惯容易胖肚子",
@@ -1963,6 +2059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69667,
+      "num": 653997,
+      "word": "朱星杰比牲口还能干",
+      "onboard_time": 1726305019,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 68971,
       "num": 507585,
       "word": "天籁真心12万了",
@@ -2027,16 +2131,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56737,
-      "num": 652034,
-      "word": "台风贝碧嘉对杭州影响明显",
-      "onboard_time": 1726302381,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 55224,
-      "num": 878349,
+      "num": 1034134,
       "word": "文化中国行中秋一起赏月",
       "onboard_time": 1726301239,
       "rank": 2,
@@ -2155,6 +2251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 39440,
+      "num": 338964,
+      "word": "范特西23周年",
+      "onboard_time": 1726304661,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 39363,
       "num": 332266,
       "word": "中秋聚会怎么穿",
@@ -2195,12 +2299,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31789,
+      "num": 687035,
+      "word": "厨房管道漏水被收9000元维修费",
+      "onboard_time": 1726304960,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31749,
       "num": 277260,
       "word": "穿越时空的巴黎文物之美",
       "onboard_time": 1726290271,
       "rank": 29,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 31307,
+      "num": 339132,
+      "word": "吉利星愿预售价格",
+      "onboard_time": 1726304119,
+      "rank": 21,
+      "category": "汽车"
     },
     {
       "raw_hot": 27925,
@@ -2345,14 +2465,6 @@
       "onboard_time": 1726258930,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9733,
-      "num": 126091,
-      "word": "拼多多又把iPhone16价格打下来了",
-      "onboard_time": 1726303162,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 8251,

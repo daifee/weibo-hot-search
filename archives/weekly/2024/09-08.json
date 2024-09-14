@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726303220443,
+  "endTime": 1726305660651,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 2075801,
-      "num": 877616,
+      "num": 1033614,
       "word": "女子去世叔叔舅舅争数百万遗产",
       "onboard_time": 1726298060,
       "rank": 37,
@@ -585,6 +585,14 @@
       "onboard_time": 1726043481,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1618856,
+      "num": 1618856,
+      "word": "王俊凯强制要求影院给粉丝退钱",
+      "onboard_time": 1726302019,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 1598548,
@@ -1099,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1222398,
+      "num": 1034106,
+      "word": "欧阳妮妮晒孕肚",
+      "onboard_time": 1726303401,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1221279,
       "num": 1221279,
       "word": "孙颖莎vs朱芊曦",
@@ -1483,6 +1499,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1033012,
+      "num": 1033012,
+      "word": "中秋是仅次于春节的传统节日",
+      "onboard_time": 1726299321,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1027363,
       "num": 927135,
       "word": "刘德华演唱会摔倒",
@@ -1585,6 +1609,14 @@
       "onboard_time": 1725800419,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1002742,
+      "num": 1002742,
+      "word": "张继科跑路风波后现身",
+      "onboard_time": 1726301900,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 1002407,
@@ -1883,14 +1915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 874867,
-      "num": 874867,
-      "word": "王俊凯强制要求影院给粉丝退钱",
-      "onboard_time": 1726302019,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 872902,
       "num": 872902,
       "word": "张远收到了捧花",
@@ -2107,6 +2131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 802710,
+      "num": 802710,
+      "word": "夫人小我十岁 我不知她还有作业",
+      "onboard_time": 1726301960,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 801329,
       "num": 227608,
       "word": "张杰 素人电话号",
@@ -2265,6 +2297,14 @@
       "onboard_time": 1726100180,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 765786,
+      "num": 765786,
+      "word": "教育局回应家长群内发视频撕小三",
+      "onboard_time": 1726302080,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 764523,
@@ -2747,14 +2787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 659177,
-      "num": 659177,
-      "word": "中秋是仅次于春节的传统节日",
-      "onboard_time": 1726299321,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 657622,
       "num": 657622,
       "word": "杨幂压轴",
@@ -2769,6 +2801,14 @@
       "onboard_time": 1725756379,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 653347,
+      "num": 653347,
+      "word": "狂飙剧组集体二搭了",
+      "onboard_time": 1726302140,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 651832,
@@ -4131,14 +4171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 447882,
-      "num": 447882,
-      "word": "夫人小我十岁 我不知她还有作业",
-      "onboard_time": 1726301960,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 447787,
       "num": 711728,
       "word": "张雨绮你什么时候关注他",
@@ -4315,20 +4347,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 428455,
+      "num": 501609,
+      "word": "100块一个的月饼到底是谁在买",
+      "onboard_time": 1726286839,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 428183,
       "num": 592525,
       "word": "胡歌刘涛琅琊榜售后",
       "onboard_time": 1726149502,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 427416,
-      "num": 501609,
-      "word": "100块一个的月饼到底是谁在买",
-      "onboard_time": 1726286839,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 426983,
@@ -4529,6 +4561,14 @@
       "onboard_time": 1726298542,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 412240,
+      "num": 412240,
+      "word": "台风",
+      "onboard_time": 1725999791,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 409739,
@@ -4929,14 +4969,6 @@
       "onboard_time": 1725897319,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 376768,
-      "num": 376768,
-      "word": "张继科跑路风波后现身",
-      "onboard_time": 1726301900,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 375299,
@@ -5363,14 +5395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 341843,
-      "num": 341843,
-      "word": "教育局回应家长群内发视频撕小三",
-      "onboard_time": 1726302080,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 341602,
       "num": 341602,
       "word": "徐海乔 美人不分性别",
@@ -5392,6 +5416,14 @@
       "word": "男子收60万儿子死亡赔偿款全转给弟弟",
       "onboard_time": 1726227020,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340240,
+      "num": 340240,
+      "word": "人民网评香港月饼香港买不到",
+      "onboard_time": 1726302980,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -5657,14 +5689,6 @@
       "onboard_time": 1725963922,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 316843,
-      "num": 316843,
-      "word": "台风",
-      "onboard_time": 1725999791,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 316752,
@@ -5937,6 +5961,14 @@
       "onboard_time": 1725955820,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299912,
+      "num": 299912,
+      "word": "杨幂张小斐对视",
+      "onboard_time": 1726302619,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 299086,
@@ -6435,14 +6467,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 272160,
-      "num": 272160,
-      "word": "杨幂张小斐对视",
-      "onboard_time": 1726302619,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 272143,
       "num": 306546,
       "word": "外卖小哥带娃抗癌被剐蹭车主反手转2千",
@@ -6601,6 +6625,14 @@
       "onboard_time": 1725938598,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 265521,
+      "num": 265521,
+      "word": "韩国明年中秋将迎来7天连假",
+      "onboard_time": 1726301539,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265085,
@@ -7443,6 +7475,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 233763,
+      "num": 233763,
+      "word": "娜扎生图",
+      "onboard_time": 1726303821,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233726,
       "num": 223701,
       "word": "网友偶遇黄仁勋在美国海底捞甩面",
@@ -7769,14 +7809,6 @@
       "onboard_time": 1726034542,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 227456,
-      "num": 227456,
-      "word": "狂飙剧组集体二搭了",
-      "onboard_time": 1726302140,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 227333,
@@ -8283,6 +8315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214113,
+      "num": 214113,
+      "word": "T1对战KT",
+      "onboard_time": 1726296740,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 213950,
       "num": 255439,
       "word": "不耐看 挺耐死",
@@ -8777,6 +8817,14 @@
       "onboard_time": 1725841762,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205230,
+      "num": 205230,
+      "word": "你会为了100万去照顾老人吗",
+      "onboard_time": 1726304062,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 205073,
@@ -9529,6 +9577,14 @@
       "onboard_time": 1726203994,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194619,
+      "num": 194619,
+      "word": "晋江文学城回应崩了",
+      "onboard_time": 1726304780,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 194538,
@@ -11011,6 +11067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 173852,
+      "num": 173852,
+      "word": "我刚睡醒时就杨超越这样",
+      "onboard_time": 1726305140,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173850,
       "num": 173850,
       "word": "令人心动的offer",
@@ -11211,6 +11275,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 171022,
+      "num": 171022,
+      "word": "侃爷ins发文",
+      "onboard_time": 1726303520,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 170992,
       "num": 170992,
       "word": "孙颖莎下场或战伊藤美诚",
@@ -11329,6 +11401,14 @@
       "onboard_time": 1725851958,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 169101,
+      "num": 169101,
+      "word": "藏了6年的社恐熊被中国设备拍到了",
+      "onboard_time": 1726302681,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168947,
@@ -11705,14 +11785,6 @@
       "onboard_time": 1725980604,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163455,
-      "num": 163455,
-      "word": "T1对战KT",
-      "onboard_time": 1726296740,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 163409,
@@ -12611,14 +12683,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 152240,
-      "num": 152240,
-      "word": "藏了6年的社恐熊被中国设备拍到了",
-      "onboard_time": 1726302681,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152232,
       "num": 152232,
       "word": "offer6一上来就开庭",
@@ -13171,6 +13235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 146173,
+      "num": 146173,
+      "word": "解放军有可靠手段让天堑变通途",
+      "onboard_time": 1726304180,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145936,
       "num": 145936,
       "word": "石凯方维权声明",
@@ -13323,14 +13395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144489,
-      "num": 144489,
-      "word": "人民网评香港月饼香港买不到",
-      "onboard_time": 1726302980,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144437,
       "num": 144437,
       "word": "刘雨昕这杯水让我倒",
@@ -13433,14 +13497,6 @@
       "onboard_time": 1726021340,
       "rank": 38,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 143108,
-      "num": 143108,
-      "word": "韩国明年中秋将迎来7天连假",
-      "onboard_time": 1726301539,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143060,
@@ -13785,6 +13841,14 @@
       "onboard_time": 1725947840,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138725,
+      "num": 138725,
+      "word": "谁能看出周翊然前一天4点下班",
+      "onboard_time": 1726305441,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 138679,
@@ -14267,6 +14331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133770,
+      "num": 133770,
+      "word": "近一半阳澄湖大闸蟹去了北上广",
+      "onboard_time": 1726305621,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133576,
       "num": 133576,
       "word": "心动的信号7第一次盲选约会",
@@ -14320,6 +14392,14 @@
       "word": "多方回应军训教官棍抽学生把棍打断",
       "onboard_time": 1726065203,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133031,
+      "num": 652034,
+      "word": "台风贝碧嘉对杭州影响明显",
+      "onboard_time": 1726302381,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -15113,6 +15193,14 @@
       "onboard_time": 1726283360,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123859,
+      "num": 405925,
+      "word": "于正 吴谨言结婚发言人",
+      "onboard_time": 1726304661,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 123794,
@@ -16899,6 +16987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95933,
+      "num": 569263,
+      "word": "拼多多又把iPhone16价格打下来了",
+      "onboard_time": 1726303162,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 95438,
       "num": 482105,
       "word": "看余额宝工资调查害我笑了一下",
@@ -17851,6 +17947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69667,
+      "num": 653997,
+      "word": "朱星杰比牲口还能干",
+      "onboard_time": 1726305019,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 69606,
       "num": 194811,
       "word": "雪迷宫超适合东北孩子的警匪片",
@@ -18363,14 +18467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 56737,
-      "num": 652034,
-      "word": "台风贝碧嘉对杭州影响明显",
-      "onboard_time": 1726302381,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 56684,
       "num": 353929,
       "word": "艺人身份赋能营销师",
@@ -18476,7 +18572,7 @@
     },
     {
       "raw_hot": 55224,
-      "num": 878349,
+      "num": 1034134,
       "word": "文化中国行中秋一起赏月",
       "onboard_time": 1726301239,
       "rank": 2,
@@ -19451,6 +19547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39440,
+      "num": 338964,
+      "word": "范特西23周年",
+      "onboard_time": 1726304661,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 39413,
       "num": 39413,
       "word": "气象台回应摩羯风眼过境致多人不适",
@@ -19987,6 +20091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31789,
+      "num": 687035,
+      "word": "厨房管道漏水被收9000元维修费",
+      "onboard_time": 1726304960,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31749,
       "num": 277260,
       "word": "穿越时空的巴黎文物之美",
@@ -20009,6 +20121,14 @@
       "onboard_time": 1725951680,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31307,
+      "num": 339132,
+      "word": "吉利星愿预售价格",
+      "onboard_time": 1726304119,
+      "rank": 21,
+      "category": "汽车"
     },
     {
       "raw_hot": 31288,
@@ -21105,14 +21225,6 @@
       "onboard_time": 1726082591,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9733,
-      "num": 126091,
-      "word": "拼多多又把iPhone16价格打下来了",
-      "onboard_time": 1726303162,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 9564,
