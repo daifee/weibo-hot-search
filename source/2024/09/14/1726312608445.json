@@ -1,0 +1,410 @@
+{
+  "runTime": 1726312608445,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1608927,
+        "num": 1608927,
+        "word": "余宇涵发小作文",
+        "onboard_time": 1726310419,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1219035,
+        "num": 1219035,
+        "word": "老板买到15盒香港月饼哭诉不发了",
+        "onboard_time": 1726307120,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16859,
+        "num": 921658,
+        "word": "文化中国行中秋一起赏月",
+        "onboard_time": 1726301239,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753570,
+        "num": 753570,
+        "word": "嫌疑人死亡5天医院还在注射葡萄糖",
+        "onboard_time": 1726306700,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681327,
+        "num": 681327,
+        "word": "晋江崩了",
+        "onboard_time": 1726300939,
+        "rank": 4,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 673197,
+        "num": 673197,
+        "word": "嗑到内娱真青梅竹马了",
+        "onboard_time": 1726305798,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 611209,
+        "num": 611209,
+        "word": "台风",
+        "onboard_time": 1726302200,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578904,
+        "num": 578904,
+        "word": "王俊凯强制要求影院给粉丝退钱",
+        "onboard_time": 1726302019,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 541830,
+        "num": 541830,
+        "word": "余宇涵说遗憾没见到库里",
+        "onboard_time": 1726311079,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24617,
+        "num": 533323,
+        "word": "养生月饼加人参约30元1块",
+        "onboard_time": 1726311800,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531914,
+        "num": 531914,
+        "word": "徐正溪回归娱乐圈的原因",
+        "onboard_time": 1726311741,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 524138,
+        "num": 524138,
+        "word": "王曼昱vs王艺迪",
+        "onboard_time": 1726310540,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 480358,
+        "num": 480358,
+        "word": "国防部回应解放军全面攻台能力",
+        "onboard_time": 1726308079,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26334,
+        "num": 457504,
+        "word": "东北农村老年食堂一顿只要两块钱",
+        "onboard_time": 1726312219,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36374,
+        "num": 448942,
+        "word": "拼多多又把iPhone16价格打下来了",
+        "onboard_time": 1726303162,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 448495,
+        "num": 448495,
+        "word": "中秋是仅次于春节的传统节日",
+        "onboard_time": 1726299321,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429325,
+        "num": 429325,
+        "word": "王星越昨天才知道吴谨言结婚",
+        "onboard_time": 1726286301,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403631,
+        "num": 403631,
+        "word": "狂飙剧组集体二搭了",
+        "onboard_time": 1726302140,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31993,
+        "num": 402529,
+        "word": "7旬老人出逃养老院只想回家过中秋",
+        "onboard_time": 1726309279,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63595,
+        "num": 400530,
+        "word": "库里被中国文化硬控",
+        "onboard_time": 1726311500,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 706991,
+        "num": 397511,
+        "word": "欧阳妮妮晒孕肚",
+        "onboard_time": 1726303401,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 863557,
+        "num": 391967,
+        "word": "于正晒出和吴谨言聊天记录",
+        "onboard_time": 1726295119,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 635659,
+        "num": 389832,
+        "word": "原来热暴力比冷暴力有用",
+        "onboard_time": 1726307541,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 388777,
+        "num": 388777,
+        "word": "夫人小我十岁 我不知她还有作业",
+        "onboard_time": 1726301960,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 611315,
+        "num": 385713,
+        "word": "教育局回应家长群内发视频撕小三",
+        "onboard_time": 1726302080,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344101,
+        "num": 344101,
+        "word": "Deft最后一舞落幕",
+        "onboard_time": 1726311140,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 23197,
+        "num": 332942,
+        "word": "胡兵时装周后台刮起国药风",
+        "onboard_time": 1726308620,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 332737,
+        "num": 332737,
+        "word": "人民网评香港月饼香港买不到",
+        "onboard_time": 1726302980,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303672,
+        "num": 303672,
+        "word": "张远挽着陈曌旭",
+        "onboard_time": 1726306580,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82814,
+        "num": 297313,
+        "word": "流浪汉爆改青春男高",
+        "onboard_time": 1726312520,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296575,
+        "num": 296575,
+        "word": "李纯 是公众人物更是女儿",
+        "onboard_time": 1726293440,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296459,
+        "num": 296459,
+        "word": "车 你跑快点啊死鬼",
+        "onboard_time": 1726308499,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242922,
+        "num": 242922,
+        "word": "女子去世叔叔舅舅争数百万遗产",
+        "onboard_time": 1726298060,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229305,
+        "num": 229305,
+        "word": "女童小区被碾身亡司机不服判全责",
+        "onboard_time": 1726310960,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225576,
+        "num": 225576,
+        "word": "晋江称机房网络运营商线路故障",
+        "onboard_time": 1726307420,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 229000,
+        "num": 225534,
+        "word": "街道办回应李纯怒斥小区物业",
+        "onboard_time": 1726290630,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1322105,
+        "num": 224872,
+        "word": "专家称调休是对社会资源的扰乱",
+        "onboard_time": 1726305681,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17866,
+        "num": 222792,
+        "word": "雪迷宫郑南就这么水灵灵地表白了",
+        "onboard_time": 1726312340,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221914,
+        "num": 221914,
+        "word": "T1晋级S14总决赛",
+        "onboard_time": 1726309938,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 217827,
+        "num": 217827,
+        "word": "家长群内连发不雅视频撕另一家长",
+        "onboard_time": 1726306340,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217494,
+        "num": 217494,
+        "word": "TOP登陆少年发布小会",
+        "onboard_time": 1726311620,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215309,
+        "num": 215309,
+        "word": "阿如那当爸爸了",
+        "onboard_time": 1726289361,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211802,
+        "num": 211802,
+        "word": "美诚月饼",
+        "onboard_time": 1726310480,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 197895,
+        "num": 197895,
+        "word": "二年级女生养蜗牛5个月生380只宝宝",
+        "onboard_time": 1726307000,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188796,
+        "num": 188796,
+        "word": "富士山平替",
+        "onboard_time": 1726309819,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 181875,
+        "num": 181875,
+        "word": "井胧把披荆斩棘录成了向往的生活",
+        "onboard_time": 1726312219,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172893,
+        "num": 172893,
+        "word": "罗永浩对美诚月饼退一赔三",
+        "onboard_time": 1726310059,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 165528,
+        "num": 165528,
+        "word": "陆虎陈曌旭各地亲吻vlog",
+        "onboard_time": 1726311140,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150439,
+        "num": 150439,
+        "word": "这居然是尤长靖",
+        "onboard_time": 1726312040,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146541,
+        "num": 146541,
+        "word": "嫌疑人疑死亡后仍送医院抢救9天真相",
+        "onboard_time": 1726311201,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持和完善人民代表大会制度总书记这样说#"
+    }
+  }
+}

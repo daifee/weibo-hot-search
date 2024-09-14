@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726310286531,
+  "endTime": 1726312608445,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -1169,6 +1169,14 @@
       "onboard_time": 1726302019,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1608927,
+      "num": 1608927,
+      "word": "余宇涵发小作文",
+      "onboard_time": 1726310419,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1598548,
@@ -5051,6 +5059,14 @@
       "category": "网红,互联网"
     },
     {
+      "raw_hot": 753570,
+      "num": 753570,
+      "word": "嫌疑人死亡5天医院还在注射葡萄糖",
+      "onboard_time": 1726306700,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 752750,
       "num": 752750,
       "word": "辛巴 三只羊",
@@ -5651,14 +5667,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 683684,
-      "num": 683684,
-      "word": "嫌疑人死亡5天医院还在注射葡萄糖",
-      "onboard_time": 1726306700,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 682126,
       "num": 682126,
       "word": "深圳台风",
@@ -6241,6 +6249,14 @@
       "onboard_time": 1725683840,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 635659,
+      "num": 389832,
+      "word": "原来热暴力比冷暴力有用",
+      "onboard_time": 1726307541,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 634739,
@@ -7371,6 +7387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 541830,
+      "num": 541830,
+      "word": "余宇涵说遗憾没见到库里",
+      "onboard_time": 1726311079,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 541528,
       "num": 381230,
       "word": "第一天上幼儿园就知道她强的可怕",
@@ -7579,6 +7603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 531914,
+      "num": 531914,
+      "word": "徐正溪回归娱乐圈的原因",
+      "onboard_time": 1726311741,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 531679,
       "num": 531679,
       "word": "王鹤棣陈小纭曾合作大奉打更人",
@@ -7665,6 +7697,14 @@
       "onboard_time": 1726270879,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 524138,
+      "num": 524138,
+      "word": "王曼昱vs王艺迪",
+      "onboard_time": 1726310540,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 523934,
@@ -8449,6 +8489,14 @@
       "onboard_time": 1726038921,
       "rank": 18,
       "category": "国外时政,艺人"
+    },
+    {
+      "raw_hot": 480358,
+      "num": 480358,
+      "word": "国防部回应解放军全面攻台能力",
+      "onboard_time": 1726308079,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 480135,
@@ -10339,14 +10387,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 386858,
-      "num": 386858,
-      "word": "原来热暴力比冷暴力有用",
-      "onboard_time": 1726307541,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 386747,
       "num": 386747,
       "word": "盛李豪 死腿协调点别搞我",
@@ -10724,7 +10764,7 @@
     },
     {
       "raw_hot": 366161,
-      "num": 210227,
+      "num": 296459,
       "word": "车 你跑快点啊死鬼",
       "onboard_time": 1726308499,
       "rank": 30,
@@ -11281,6 +11321,14 @@
       "onboard_time": 1725293899,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344101,
+      "num": 344101,
+      "word": "Deft最后一舞落幕",
+      "onboard_time": 1726311140,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 344082,
@@ -12920,14 +12968,6 @@
       "word": "中方对加拿大发起反歧视调查",
       "onboard_time": 1725336024,
       "rank": 35,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 287226,
-      "num": 287226,
-      "word": "国防部回应解放军全面攻台能力",
-      "onboard_time": 1726308079,
-      "rank": 24,
       "category": "国内时政"
     },
     {
@@ -16131,6 +16171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229305,
+      "num": 229305,
+      "word": "女童小区被碾身亡司机不服判全责",
+      "onboard_time": 1726310960,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229282,
       "num": 229282,
       "word": "被奶奶辈的修眉方式震惊到了",
@@ -16393,6 +16441,14 @@
       "onboard_time": 1726111999,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225576,
+      "num": 225576,
+      "word": "晋江称机房网络运营商线路故障",
+      "onboard_time": 1726307420,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 225357,
@@ -16665,6 +16721,14 @@
       "onboard_time": 1725683479,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221914,
+      "num": 221914,
+      "word": "T1晋级S14总决赛",
+      "onboard_time": 1726309938,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 221885,
@@ -17009,6 +17073,14 @@
       "onboard_time": 1725181400,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217494,
+      "num": 217494,
+      "word": "TOP登陆少年发布小会",
+      "onboard_time": 1726311620,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 217402,
@@ -17497,6 +17569,14 @@
       "onboard_time": 1725978383,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 211802,
+      "num": 211802,
+      "word": "美诚月饼",
+      "onboard_time": 1726310480,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 211766,
@@ -18041,14 +18121,6 @@
       "onboard_time": 1725260900,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 206866,
-      "num": 206866,
-      "word": "晋江称机房网络运营商线路故障",
-      "onboard_time": 1726307420,
-      "rank": 33,
-      "category": "互联网"
     },
     {
       "raw_hot": 206844,
@@ -20947,6 +21019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188796,
+      "num": 188796,
+      "word": "富士山平替",
+      "onboard_time": 1726309819,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 188727,
       "num": 188727,
       "word": "库里到达成都",
@@ -21563,14 +21643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 185538,
-      "num": 185538,
-      "word": "T1晋级S14总决赛",
-      "onboard_time": 1726309938,
-      "rank": 29,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 185536,
       "num": 185536,
       "word": "田志希称赞孙颖莎人格魅力强",
@@ -22153,6 +22225,14 @@
       "onboard_time": 1726030943,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181875,
+      "num": 181875,
+      "word": "井胧把披荆斩棘录成了向往的生活",
+      "onboard_time": 1726312219,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 181833,
@@ -23747,6 +23827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172893,
+      "num": 172893,
+      "word": "罗永浩对美诚月饼退一赔三",
+      "onboard_time": 1726310059,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 172858,
       "num": 172858,
       "word": "刘诗诗模仿i人玩手机",
@@ -24881,6 +24969,14 @@
       "onboard_time": 1725707181,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165528,
+      "num": 165528,
+      "word": "陆虎陈曌旭各地亲吻vlog",
+      "onboard_time": 1726311140,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 165424,
@@ -27587,6 +27683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150439,
+      "num": 150439,
+      "word": "这居然是尤长靖",
+      "onboard_time": 1726312040,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150337,
       "num": 150337,
       "word": "高伟光 豪门总裁",
@@ -28265,6 +28369,14 @@
       "onboard_time": 1725525859,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 146541,
+      "num": 146541,
+      "word": "嫌疑人疑死亡后仍送医院抢救9天真相",
+      "onboard_time": 1726311201,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146336,
@@ -30411,14 +30523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132607,
-      "num": 132607,
-      "word": "罗永浩对美诚月饼退一赔三",
-      "onboard_time": 1726310059,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 132589,
       "num": 337930,
       "word": "檀健次纽约度假",
@@ -30593,14 +30697,6 @@
       "onboard_time": 1725705320,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131266,
-      "num": 131266,
-      "word": "富士山平替",
-      "onboard_time": 1726309819,
-      "rank": 46,
-      "category": "旅游"
     },
     {
       "raw_hot": 131138,
@@ -35123,6 +35219,14 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 82814,
+      "num": 297313,
+      "word": "流浪汉爆改青春男高",
+      "onboard_time": 1726312520,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82796,
       "num": 82796,
       "word": "美国14岁男孩在学校枪击致4死9伤",
@@ -36281,6 +36385,14 @@
       "onboard_time": 1726011318,
       "rank": 44,
       "category": "游戏,数码"
+    },
+    {
+      "raw_hot": 63595,
+      "num": 400530,
+      "word": "库里被中国文化硬控",
+      "onboard_time": 1726311500,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 63587,
@@ -39819,6 +39931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31993,
+      "num": 402529,
+      "word": "7旬老人出逃养老院只想回家过中秋",
+      "onboard_time": 1726309279,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31946,
       "num": 55765,
       "word": "大学期间可以争取哪些合理收入",
@@ -40611,6 +40731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26334,
+      "num": 457504,
+      "word": "东北农村老年食堂一顿只要两块钱",
+      "onboard_time": 1726312219,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26323,
       "num": 270373,
       "word": "无序放生变杀生怎么解",
@@ -40841,6 +40969,14 @@
       "onboard_time": 1725125895,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24617,
+      "num": 533323,
+      "word": "养生月饼加人参约30元1块",
+      "onboard_time": 1726311800,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24595,
@@ -41131,6 +41267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23197,
+      "num": 332942,
+      "word": "胡兵时装周后台刮起国药风",
+      "onboard_time": 1726308620,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 23114,
       "num": 278027,
       "word": "200元买迪奥古驰月饼买到三无产品",
@@ -41241,14 +41385,6 @@
       "onboard_time": 1726307000,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 22218,
-      "num": 256859,
-      "word": "胡兵时装周后台刮起国药风",
-      "onboard_time": 1726308620,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 22036,
@@ -41729,6 +41865,14 @@
       "onboard_time": 1725614239,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 17866,
+      "num": 222792,
+      "word": "雪迷宫郑南就这么水灵灵地表白了",
+      "onboard_time": 1726312340,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 17823,
