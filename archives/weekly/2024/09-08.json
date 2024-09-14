@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726323505710,
+  "endTime": 1726324585547,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13264941,
+      "num": 13264941,
+      "word": "王楚钦vs林诗栋",
+      "onboard_time": 1726320264,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 9603114,
       "num": 715223,
       "word": "洪尧 曹赢心",
@@ -56,14 +64,6 @@
       "word": "国足vs沙特",
       "onboard_time": 1725968840,
       "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 5891746,
-      "num": 5891746,
-      "word": "王楚钦vs林诗栋",
-      "onboard_time": 1726320264,
-      "rank": 7,
       "category": "体育"
     },
     {
@@ -201,6 +201,14 @@
       "onboard_time": 1726223361,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2851870,
+      "num": 2851870,
+      "word": "林诗栋4比1王楚钦",
+      "onboard_time": 1726323626,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 2744326,
@@ -1049,6 +1057,14 @@
       "onboard_time": 1725846738,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1288774,
+      "num": 1288774,
+      "word": "王楚钦玩新发球",
+      "onboard_time": 1726323984,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1276769,
@@ -2315,6 +2331,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 791697,
+      "num": 791697,
+      "word": "林诗栋反手",
+      "onboard_time": 1726323505,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 791503,
       "num": 791503,
       "word": "邻居不配合维修女子家漏水17年",
@@ -3139,6 +3163,14 @@
       "category": "社会新闻,母婴育儿"
     },
     {
+      "raw_hot": 623550,
+      "num": 623550,
+      "word": "你好星期六下期院人来了",
+      "onboard_time": 1726321043,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 622597,
       "num": 622597,
       "word": "赵露思赵丽颖演同一小说",
@@ -3337,14 +3369,6 @@
       "onboard_time": 1725735432,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 589792,
-      "num": 589792,
-      "word": "你好星期六下期院人来了",
-      "onboard_time": 1726321043,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 587402,
@@ -4243,6 +4267,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 465825,
+      "num": 465825,
+      "word": "王楚钦无缘决赛",
+      "onboard_time": 1726324226,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 465519,
       "num": 276917,
       "word": "宋茜虽然震惊但眼神挪不走一点",
@@ -5075,6 +5107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 393475,
+      "num": 393475,
+      "word": "不敢相信这是陈卓璇",
+      "onboard_time": 1726323264,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 393033,
       "num": 393033,
       "word": "郑钦文等6人拟记大功",
@@ -5217,6 +5257,14 @@
       "onboard_time": 1725798619,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380586,
+      "num": 380586,
+      "word": "离婚了也要争婆婆的抚养权",
+      "onboard_time": 1726322962,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 380436,
@@ -5979,6 +6027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 315920,
+      "num": 315920,
+      "word": "许昕直播",
+      "onboard_time": 1726320022,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315268,
       "num": 315268,
       "word": "登陆少年全员改认证",
@@ -6016,6 +6072,14 @@
       "word": "天津机场",
       "onboard_time": 1726067603,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 314373,
+      "num": 314373,
+      "word": "幼儿园长4年关8所学校负债2000万",
+      "onboard_time": 1726323142,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -6139,6 +6203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 308889,
+      "num": 308889,
+      "word": "林诗栋说没想到能赢下来",
+      "onboard_time": 1726324464,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 308770,
       "num": 239822,
       "word": "这种肉别再吃成本或只有5毛钱",
@@ -6152,6 +6224,14 @@
       "word": "花花和叶同框出外场",
       "onboard_time": 1725775699,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307988,
+      "num": 409992,
+      "word": "四川江油失联姐弟均已遇难",
+      "onboard_time": 1726323142,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -8475,14 +8555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 221481,
-      "num": 221481,
-      "word": "许昕直播",
-      "onboard_time": 1726320022,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 220949,
       "num": 220949,
       "word": "献鱼",
@@ -9715,20 +9787,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199877,
+      "num": 199877,
+      "word": "朱志鑫直播截图",
+      "onboard_time": 1726323866,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199788,
       "num": 199788,
       "word": "老九门2能请赵丽颖吗",
       "onboard_time": 1725960980,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199752,
-      "num": 199752,
-      "word": "幼儿园长4年关8所学校负债2000万",
-      "onboard_time": 1726323142,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199630,
@@ -9881,14 +9953,6 @@
       "onboard_time": 1726294880,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 198107,
-      "num": 198107,
-      "word": "不敢相信这是陈卓璇",
-      "onboard_time": 1726323264,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 198089,
@@ -10561,14 +10625,6 @@
       "onboard_time": 1726024099,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 188994,
-      "num": 188994,
-      "word": "离婚了也要争婆婆的抚养权",
-      "onboard_time": 1726322962,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 188977,
@@ -11299,14 +11355,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 180327,
-      "num": 409992,
-      "word": "四川江油失联姐弟均已遇难",
-      "onboard_time": 1726323142,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180253,
       "num": 180253,
       "word": "怀疑那隽是乌拉那拉氏后人",
@@ -11491,6 +11539,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 177868,
+      "num": 550593,
+      "word": "疯狂小杨哥未如期开播",
+      "onboard_time": 1726323203,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 177846,
       "num": 177846,
       "word": "国安部提醒警惕天降桃花运",
@@ -11609,6 +11665,22 @@
       "onboard_time": 1726188440,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 176415,
+      "num": 176415,
+      "word": "韩剧妈妈朋友的儿子",
+      "onboard_time": 1726324345,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 176312,
+      "num": 176312,
+      "word": "古偶搞权谋",
+      "onboard_time": 1726324464,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 176074,
@@ -12201,6 +12273,14 @@
       "onboard_time": 1725778039,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167669,
+      "num": 167669,
+      "word": "于正说洪尧片酬不买房够花",
+      "onboard_time": 1726321822,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 167518,
@@ -15547,6 +15627,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 128571,
+      "num": 650626,
+      "word": "任嘉伦新剧职场高情商回复",
+      "onboard_time": 1726323527,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128510,
       "num": 128510,
       "word": "ti13",
@@ -18787,6 +18875,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 68876,
+      "num": 660381,
+      "word": "头部主播4款争议商品命运迥异",
+      "onboard_time": 1726322842,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68506,
       "num": 69117,
       "word": "澳门冠军赛8强对阵",
@@ -19156,7 +19252,7 @@
     },
     {
       "raw_hot": 60175,
-      "num": 1468254,
+      "num": 2297926,
       "word": "文化中国行中秋赏灯会",
       "onboard_time": 1726322121,
       "rank": 2,
@@ -19731,14 +19827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49470,
-      "num": 586299,
-      "word": "头部主播4款争议商品命运迥异",
-      "onboard_time": 1726322842,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 49394,
       "num": 769931,
       "word": "史妍是被付航附体了么",
@@ -20137,14 +20225,6 @@
       "onboard_time": 1726226900,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43796,
-      "num": 550593,
-      "word": "疯狂小杨哥未如期开播",
-      "onboard_time": 1726323203,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 43639,
