@@ -1,0 +1,410 @@
+{
+  "runTime": 1726302425427,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1956803,
+        "num": 1956803,
+        "word": "晋江崩了",
+        "onboard_time": 1726300939,
+        "rank": 0,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 940576,
+        "num": 940576,
+        "word": "李纯 是公众人物更是女儿",
+        "onboard_time": 1726293440,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55224,
+        "num": 832644,
+        "word": "文化中国行中秋一起赏月",
+        "onboard_time": 1726301239,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2075801,
+        "num": 802920,
+        "word": "女子去世叔叔舅舅争数百万遗产",
+        "onboard_time": 1726298060,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 762341,
+        "num": 762341,
+        "word": "深圳一学校保安持械殴打家长",
+        "onboard_time": 1726297340,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503197,
+        "num": 503197,
+        "word": "美国将砸16亿美元全球抹黑中国",
+        "onboard_time": 1726287380,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 866607,
+        "num": 502420,
+        "word": "街道办回应李纯怒斥小区物业",
+        "onboard_time": 1726290630,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 650864,
+        "num": 500832,
+        "word": "王星越昨天才知道吴谨言结婚",
+        "onboard_time": 1726286301,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56737,
+        "num": 500389,
+        "word": "台风贝碧嘉对杭州影响明显",
+        "onboard_time": 1726302381,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37545,
+        "num": 498194,
+        "word": "律师谈网红主播香港月饼风波",
+        "onboard_time": 1726301300,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603478,
+        "num": 497477,
+        "word": "阿如那当爸爸了",
+        "onboard_time": 1726289361,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496847,
+        "num": 496847,
+        "word": "HYBE回应田柾国发文",
+        "onboard_time": 1726299859,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413017,
+        "num": 413017,
+        "word": "中国午睡第一省不想睡了",
+        "onboard_time": 1726287019,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412399,
+        "num": 412399,
+        "word": "赵露思宝格丽妆造vlog",
+        "onboard_time": 1726298542,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410799,
+        "num": 410799,
+        "word": "中秋是仅次于春节的传统节日",
+        "onboard_time": 1726299321,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409497,
+        "num": 409497,
+        "word": "贝碧嘉",
+        "onboard_time": 1726284859,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403615,
+        "num": 403615,
+        "word": "台风贝碧嘉已进入48小时警戒线",
+        "onboard_time": 1726293081,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368260,
+        "num": 368260,
+        "word": "田柾国再次更新ins",
+        "onboard_time": 1726301300,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22383,
+        "num": 344599,
+        "word": "于正祝福陆虎陈曌旭白头到老",
+        "onboard_time": 1726301720,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335639,
+        "num": 335639,
+        "word": "100块一个的月饼到底是谁在买",
+        "onboard_time": 1726286839,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1905378,
+        "num": 332376,
+        "word": "于正晒出和吴谨言聊天记录",
+        "onboard_time": 1726295119,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554281,
+        "num": 318432,
+        "word": "家长在班级群连发不雅视频抓小三",
+        "onboard_time": 1726290032,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337975,
+        "num": 317305,
+        "word": "王鹤棣说大奉打更人弄死所有人",
+        "onboard_time": 1726283299,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53328,
+        "num": 308159,
+        "word": "幼童小区内被碾压事故重新调查",
+        "onboard_time": 1726300520,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299668,
+        "num": 299668,
+        "word": "王俊凯强制要求影院给粉丝退钱",
+        "onboard_time": 1726302019,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 253760,
+        "num": 253760,
+        "word": "苏醒喂老婆喝水",
+        "onboard_time": 1726295541,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247386,
+        "num": 247386,
+        "word": "贾老板认罪",
+        "onboard_time": 1726300939,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246867,
+        "num": 246867,
+        "word": "教育局回应家长群内发视频撕小三",
+        "onboard_time": 1726302080,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240474,
+        "num": 240474,
+        "word": "谢瑜又得金牌了",
+        "onboard_time": 1726294880,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202822,
+        "num": 202822,
+        "word": "Scout经纪公司发文",
+        "onboard_time": 1726297820,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 266093,
+        "num": 195906,
+        "word": "夫人小我十岁 我不知她还有作业",
+        "onboard_time": 1726301960,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183833,
+        "num": 183833,
+        "word": "小米摄像头风波当事人回应",
+        "onboard_time": 1726298781,
+        "rank": 31,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 179942,
+        "num": 179942,
+        "word": "台风",
+        "onboard_time": 1726302200,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177900,
+        "num": 177900,
+        "word": "为什么苹果不做节假日闹钟",
+        "onboard_time": 1726295060,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 168217,
+        "num": 168217,
+        "word": "黄奕姜妍汉服一个像皇上一个像皇后",
+        "onboard_time": 1726299380,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166494,
+        "num": 166494,
+        "word": "张继科跑路风波后现身",
+        "onboard_time": 1726301900,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163455,
+        "num": 163455,
+        "word": "T1对战KT",
+        "onboard_time": 1726296740,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160423,
+        "num": 160423,
+        "word": "迪丽热巴红衣贺思慕",
+        "onboard_time": 1726293741,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156932,
+        "num": 156932,
+        "word": "周震南比双胞胎弟弟Fly大三个月",
+        "onboard_time": 1726296619,
+        "rank": 38,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 147792,
+        "num": 147792,
+        "word": "田柾国应援NewJeans",
+        "onboard_time": 1726287019,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143970,
+        "num": 143970,
+        "word": "齐思钧建议石凯请披哥导演组吃饭",
+        "onboard_time": 1726299439,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143580,
+        "num": 143580,
+        "word": "狂飙剧组集体二搭了",
+        "onboard_time": 1726302140,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143445,
+        "num": 143445,
+        "word": "高品质衣服才有的细节",
+        "onboard_time": 1726301660,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143108,
+        "num": 143108,
+        "word": "韩国明年中秋将迎来7天连假",
+        "onboard_time": 1726301539,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139109,
+        "num": 139109,
+        "word": "中秋发什么",
+        "onboard_time": 1726302200,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139351,
+        "num": 138000,
+        "word": "教职工享用新鲜牛肉学生食用碎肉",
+        "onboard_time": 1726297460,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136356,
+        "num": 136356,
+        "word": "张兰自曝将参加花儿与少年",
+        "onboard_time": 1726287862,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131919,
+        "num": 131919,
+        "word": "但斌痛斥所谓的A股专家",
+        "onboard_time": 1726302080,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 129750,
+        "num": 129750,
+        "word": "朱开力挺Scout",
+        "onboard_time": 1726294940,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129447,
+        "num": 129447,
+        "word": "美国造车新势力拆解小米SU7",
+        "onboard_time": 1726302080,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持和完善人民代表大会制度总书记这样说#"
+    }
+  }
+}
