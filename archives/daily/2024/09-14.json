@@ -1,6 +1,6 @@
 {
   "startTime": 1726244748063,
-  "endTime": 1726281846698,
+  "endTime": 1726282570924,
   "band_list": [
     {
       "raw_hot": 2208398,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1356820,
-      "num": 995186,
+      "num": 1103801,
       "word": "于正否认吴谨言三年前领证",
       "onboard_time": 1726275561,
       "rank": 3,
@@ -75,6 +75,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 799776,
+      "num": 799776,
+      "word": "陆虎陈曌旭的婚礼不收礼金",
+      "onboard_time": 1726278020,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 799488,
       "num": 799488,
       "word": "第一次见这么多明星宣传的电影",
@@ -91,11 +99,11 @@
       "category": "科学科普,社会新闻"
     },
     {
-      "raw_hot": 777343,
-      "num": 698048,
-      "word": "陆虎陈曌旭的婚礼不收礼金",
-      "onboard_time": 1726278020,
-      "rank": 13,
+      "raw_hot": 787387,
+      "num": 669700,
+      "word": "于正回应洪尧黑料",
+      "onboard_time": 1726281258,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -113,6 +121,14 @@
       "onboard_time": 1726206446,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 707961,
+      "num": 707961,
+      "word": "女子被要求每天给领导带饭但不给钱",
+      "onboard_time": 1726279700,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 689574,
@@ -187,6 +203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 488568,
+      "num": 488568,
+      "word": "金高银G社生图",
+      "onboard_time": 1726280598,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 455839,
       "num": 209640,
       "word": "吴谨言洪尧结婚",
@@ -201,14 +225,6 @@
       "onboard_time": 1726244599,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 429116,
-      "num": 394098,
-      "word": "金高银G社生图",
-      "onboard_time": 1726280598,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 425302,
@@ -251,14 +267,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 392144,
-      "num": 392144,
-      "word": "女子被要求每天给领导带饭但不给钱",
-      "onboard_time": 1726279700,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 389106,
       "num": 389106,
       "word": "张远收到了捧花",
@@ -283,12 +291,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 331502,
-      "num": 331502,
+      "raw_hot": 357493,
+      "num": 357493,
       "word": "iPhone16不送苹果logo贴纸",
       "onboard_time": 1726281019,
       "rank": 15,
       "category": "数码"
+    },
+    {
+      "raw_hot": 344278,
+      "num": 344278,
+      "word": "白鹿在陆虎婚礼上发言",
+      "onboard_time": 1726282399,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 321714,
@@ -371,16 +387,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 257431,
-      "num": 257431,
-      "word": "于正回应洪尧黑料",
-      "onboard_time": 1726281258,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 248868,
-      "num": 248868,
+      "raw_hot": 252842,
+      "num": 252842,
       "word": "妈妈一定在天上急得团团转",
       "onboard_time": 1726279939,
       "rank": 21,
@@ -443,8 +451,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211310,
-      "num": 211310,
+      "raw_hot": 220138,
+      "num": 220138,
+      "word": "王鹤棣KTV喊话",
+      "onboard_time": 1726281979,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 219662,
+      "num": 219662,
       "word": "苹果芯片负责人国内首次对谈",
       "onboard_time": 1726281019,
       "rank": 25,
@@ -467,12 +483,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204365,
+      "num": 204365,
+      "word": "流水迢迢开播",
+      "onboard_time": 1726281620,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201609,
       "num": 201609,
       "word": "野孩子票房",
       "onboard_time": 1726232721,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 201046,
+      "num": 201046,
+      "word": "暗夜与黎明定档",
+      "onboard_time": 1726281919,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 200311,
@@ -499,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190571,
+      "num": 190571,
+      "word": "孙杨说只要愿意就是当打之年",
+      "onboard_time": 1726279579,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184271,
       "num": 184271,
       "word": "台风",
@@ -507,12 +547,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182597,
+      "num": 182597,
+      "word": "你好星期六秋季招聘会",
+      "onboard_time": 1726282100,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172093,
       "num": 172093,
       "word": "杨幂压轴",
       "onboard_time": 1726229004,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 171420,
+      "num": 171420,
+      "word": "东风快递员是怎么押运导弹的",
+      "onboard_time": 1726281019,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165926,
@@ -539,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150980,
+      "num": 150980,
+      "word": "新规发布后火车票如何改签",
+      "onboard_time": 1726282158,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150287,
       "num": 150287,
       "word": "女生被扎218针为何未达校园霸凌标准",
@@ -555,12 +619,28 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 146410,
-      "num": 146410,
-      "word": "孙杨说只要愿意就是当打之年",
-      "onboard_time": 1726279579,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 147145,
+      "num": 147145,
+      "word": "中秋火车票改签攻略",
+      "onboard_time": 1726282100,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146774,
+      "num": 146774,
+      "word": "许嵩终于要开鸟巢演唱会了",
+      "onboard_time": 1726279219,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 145974,
+      "num": 145974,
+      "word": "不背单词崩了",
+      "onboard_time": 1726281858,
+      "rank": 41,
+      "category": "教育,互联网"
     },
     {
       "raw_hot": 144283,
@@ -611,22 +691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 131779,
-      "num": 131779,
-      "word": "许嵩终于要开鸟巢演唱会了",
-      "onboard_time": 1726279219,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 129905,
-      "num": 129905,
-      "word": "流水迢迢开播",
-      "onboard_time": 1726281620,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 124534,
       "num": 124534,
       "word": "游客给差评商家带人上门威胁",
@@ -635,12 +699,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123365,
-      "num": 123365,
-      "word": "东风快递员是怎么押运导弹的",
-      "onboard_time": 1726281019,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 122697,
+      "num": 122697,
+      "word": "野孩子 催泪",
+      "onboard_time": 1726281680,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 122189,
@@ -681,14 +745,6 @@
       "onboard_time": 1726275741,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 114516,
-      "num": 114516,
-      "word": "野孩子 催泪",
-      "onboard_time": 1726281680,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 114219,
@@ -947,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52654,
+      "num": 397302,
+      "word": "有学校将拖堂纳入教学事故认定范畴",
+      "onboard_time": 1726280719,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50904,
       "num": 50904,
       "word": "金晨人鱼公主裙",
@@ -963,6 +1027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 44048,
+      "num": 357575,
+      "word": "苹果天猫官旗回应支持24期免息购机",
+      "onboard_time": 1726280359,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 40941,
       "num": 40941,
       "word": "易烊千玺色彩勾勒本真轮廓",
@@ -971,28 +1043,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 40196,
-      "num": 397302,
-      "word": "有学校将拖堂纳入教学事故认定范畴",
-      "onboard_time": 1726280719,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35042,
       "num": 965713,
       "word": "中秋将有超级月亮",
       "onboard_time": 1726231821,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31449,
-      "num": 298419,
-      "word": "苹果天猫官旗回应支持24期免息购机",
-      "onboard_time": 1726280359,
-      "rank": 16,
-      "category": "数码"
     },
     {
       "raw_hot": 27763,
