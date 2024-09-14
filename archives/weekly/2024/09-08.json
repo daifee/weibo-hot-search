@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726285074760,
+  "endTime": 1726287912660,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2055448,
+      "num": 2055448,
+      "word": "王星越昨天才知道吴谨言结婚",
+      "onboard_time": 1726286301,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2054286,
       "num": 2054286,
       "word": "沙特扳平",
@@ -481,6 +489,14 @@
       "onboard_time": 1726211127,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1674940,
+      "num": 622441,
+      "word": "吴谨言结婚照衣服是三年前的联名款",
+      "onboard_time": 1726285459,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1656185,
@@ -1779,6 +1795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 876314,
+      "num": 549147,
+      "word": "王鹤棣说大奉打更人弄死所有人",
+      "onboard_time": 1726283299,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 872902,
       "num": 872902,
       "word": "张远收到了捧花",
@@ -2177,14 +2201,6 @@
       "onboard_time": 1725707720,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 753672,
-      "num": 549147,
-      "word": "王鹤棣说大奉打更人弄死所有人",
-      "onboard_time": 1726283299,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 749285,
@@ -2771,6 +2787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 626143,
+      "num": 626143,
+      "word": "父母生而不养该承担什么法律责任",
+      "onboard_time": 1726282879,
+      "rank": 12,
+      "category": "社会新闻,母婴育儿"
+    },
+    {
       "raw_hot": 622597,
       "num": 622597,
       "word": "赵露思赵丽颖演同一小说",
@@ -2921,14 +2945,6 @@
       "onboard_time": 1726023438,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 594029,
-      "num": 594029,
-      "word": "父母生而不养该承担什么法律责任",
-      "onboard_time": 1726282879,
-      "rank": 12,
-      "category": "社会新闻,母婴育儿"
     },
     {
       "raw_hot": 593547,
@@ -3105,6 +3121,14 @@
       "onboard_time": 1725934459,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 563396,
+      "num": 563396,
+      "word": "贝碧嘉",
+      "onboard_time": 1726284859,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 558172,
@@ -3681,6 +3705,14 @@
       "onboard_time": 1725787640,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 476367,
+      "num": 476367,
+      "word": "东部战区回应德舰过航台湾海峡",
+      "onboard_time": 1726285819,
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 474635,
@@ -4305,6 +4337,14 @@
       "onboard_time": 1725841579,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 410390,
+      "num": 410390,
+      "word": "田柾国应援NewJeans",
+      "onboard_time": 1726287019,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 409739,
@@ -5235,6 +5275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 326821,
+      "num": 326821,
+      "word": "中国午睡第一省不想睡了",
+      "onboard_time": 1726287019,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326631,
       "num": 326631,
       "word": "妈妈一定在天上急得团团转",
@@ -5625,6 +5673,14 @@
       "onboard_time": 1725761658,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 305269,
+      "num": 305269,
+      "word": "香港美诚月饼究竟产自哪里",
+      "onboard_time": 1726285280,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 304981,
@@ -6427,6 +6483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256958,
+      "num": 256958,
+      "word": "东部战区组织海空兵力全程跟监警戒",
+      "onboard_time": 1726286060,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 256255,
       "num": 216710,
       "word": "年轻人改造租屋拒绝没苦硬吃",
@@ -6787,6 +6851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242961,
+      "num": 242961,
+      "word": "上海台风",
+      "onboard_time": 1726285940,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242380,
       "num": 242380,
       "word": "张凌赫 逐玉",
@@ -6987,6 +7059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 236029,
+      "num": 236029,
+      "word": "男子专挑退休阿姨认干妈实施敲诈",
+      "onboard_time": 1726286119,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235693,
       "num": 235693,
       "word": "AG晋级夏季赛决赛",
@@ -7180,7 +7260,7 @@
     },
     {
       "raw_hot": 230337,
-      "num": 230337,
+      "num": 493803,
       "word": "苗苗正是最纯饿的年纪顾不上早恋",
       "onboard_time": 1726280120,
       "rank": 23,
@@ -7369,6 +7449,14 @@
       "onboard_time": 1725953659,
       "rank": 26,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 227129,
+      "num": 227129,
+      "word": "黄庄月饼",
+      "onboard_time": 1726285760,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 227046,
@@ -7739,6 +7827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217298,
+      "num": 217298,
+      "word": "金高银头发好短",
+      "onboard_time": 1726282879,
+      "rank": 32,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 217209,
       "num": 475225,
       "word": "杨玏 有的人自带白月光属性",
@@ -8035,14 +8131,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 210560,
-      "num": 179649,
-      "word": "金高银头发好短",
-      "onboard_time": 1726282879,
-      "rank": 32,
-      "category": "作品衍生,艺人"
-    },
-    {
       "raw_hot": 210403,
       "num": 210403,
       "word": "影视飓风送全体员工iPhone16Pro",
@@ -8177,14 +8265,6 @@
       "onboard_time": 1725951559,
       "rank": 40,
       "category": "数码"
-    },
-    {
-      "raw_hot": 207777,
-      "num": 207777,
-      "word": "贝碧嘉",
-      "onboard_time": 1726284859,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207741,
@@ -8417,6 +8497,14 @@
       "onboard_time": 1726237162,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203536,
+      "num": 203536,
+      "word": "obgg显示Scout被限制出境",
+      "onboard_time": 1726284979,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 203432,
@@ -10123,6 +10211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178823,
+      "num": 178823,
+      "word": "秦彻 在你丈夫的葬礼上",
+      "onboard_time": 1726284859,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 178797,
       "num": 178797,
       "word": "济南43岁女子冻龄般颜值",
@@ -10507,6 +10603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 173310,
+      "num": 173310,
+      "word": "黑神话章节动画上线B站",
+      "onboard_time": 1726286599,
+      "rank": 42,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 173261,
       "num": 173261,
       "word": "T1状态",
@@ -10555,20 +10659,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172805,
+      "num": 172805,
+      "word": "美确定对中国产品加征关税",
+      "onboard_time": 1726284259,
+      "rank": 32,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 172784,
       "num": 172784,
       "word": "欲买桂花同载酒 终不似少年游",
       "onboard_time": 1725810620,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 172683,
-      "num": 169837,
-      "word": "美确定对中国产品加征关税",
-      "onboard_time": 1726284259,
-      "rank": 32,
-      "category": "国内时政,财经"
     },
     {
       "raw_hot": 172578,
@@ -11523,6 +11627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 157560,
+      "num": 157560,
+      "word": "普华永道已有53家公司解约",
+      "onboard_time": 1726285160,
+      "rank": 45,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 157549,
       "num": 157549,
       "word": "戚薇李承铉庆祝结婚十周年",
@@ -12339,6 +12451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 148616,
+      "num": 148616,
+      "word": "张兰自曝将参加花儿与少年",
+      "onboard_time": 1726287862,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148587,
       "num": 249849,
       "word": "凡人歌",
@@ -12361,14 +12481,6 @@
       "onboard_time": 1725939380,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 148438,
-      "num": 148438,
-      "word": "obgg显示Scout被限制出境",
-      "onboard_time": 1726284979,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 148328,
@@ -12632,14 +12744,6 @@
       "word": "天官赐福广播剧第二季完结",
       "onboard_time": 1726230322,
       "rank": 44,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 144926,
-      "num": 144926,
-      "word": "秦彻 在你丈夫的葬礼上",
-      "onboard_time": 1726284859,
-      "rank": 43,
       "category": "动漫"
     },
     {
@@ -13089,6 +13193,14 @@
       "onboard_time": 1726129759,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 138989,
+      "num": 138989,
+      "word": "光遇",
+      "onboard_time": 1726287442,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 138936,
@@ -16027,6 +16139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98049,
+      "num": 501609,
+      "word": "100块一个的月饼到底是谁在买",
+      "onboard_time": 1726286839,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97541,
       "num": 419971,
       "word": "第一次懂了无差别的意义",
@@ -16441,6 +16561,14 @@
       "onboard_time": 1725923898,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 87621,
+      "num": 198644,
+      "word": "宋佳 一双会疼人的眼睛",
+      "onboard_time": 1726287739,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 87620,
@@ -17323,6 +17451,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 61344,
+      "num": 259715,
+      "word": "美国将砸16亿美元全球抹黑中国",
+      "onboard_time": 1726287380,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61243,
       "num": 486257,
       "word": "英雄主义无关性别",
@@ -17795,6 +17931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51599,
+      "num": 504251,
+      "word": "天籁真心12万了",
+      "onboard_time": 1726284920,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 51207,
       "num": 204273,
       "word": "汪苏泷旷野音乐节",
@@ -17825,14 +17969,6 @@
       "onboard_time": 1725972321,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 50693,
-      "num": 138241,
-      "word": "天籁真心12万了",
-      "onboard_time": 1726284920,
-      "rank": 46,
-      "category": "汽车"
     },
     {
       "raw_hot": 50532,
@@ -17916,7 +18052,7 @@
     },
     {
       "raw_hot": 49126,
-      "num": 458041,
+      "num": 483407,
       "word": "金九银十在这一刻具象化了",
       "onboard_time": 1726283000,
       "rank": 17,
@@ -18144,6 +18280,14 @@
       "word": "碎花裙女生回应网友关心",
       "onboard_time": 1726172531,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45156,
+      "num": 477113,
+      "word": "女子误信偏方腹腔长10斤肿瘤",
+      "onboard_time": 1726287140,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -19241,6 +19385,14 @@
       "onboard_time": 1725816313,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27925,
+      "num": 511611,
+      "word": "旅行的随地大小拍",
+      "onboard_time": 1726286540,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 27859,
