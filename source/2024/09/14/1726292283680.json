@@ -1,0 +1,410 @@
+{
+  "runTime": 1726292283680,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2222901,
+        "num": 2222901,
+        "word": "阿如那当爸爸了",
+        "onboard_time": 1726289361,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1535449,
+        "num": 1535449,
+        "word": "中国午睡第一省不想睡了",
+        "onboard_time": 1726287019,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7655,
+        "num": 1218381,
+        "word": "人民军队淬火向前",
+        "onboard_time": 1726081931,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1598243,
+        "num": 1216638,
+        "word": "王星越昨天才知道吴谨言结婚",
+        "onboard_time": 1726286301,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1186135,
+        "num": 1186135,
+        "word": "美国将砸16亿美元全球抹黑中国",
+        "onboard_time": 1726287380,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540136,
+        "num": 540136,
+        "word": "女子被要求每天给领导带饭但不给钱",
+        "onboard_time": 1726279700,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1067271,
+        "num": 501202,
+        "word": "李纯再发声",
+        "onboard_time": 1726288582,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459768,
+        "num": 459768,
+        "word": "贝碧嘉",
+        "onboard_time": 1726284859,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126260,
+        "num": 457797,
+        "word": "袁成杰宁桓宇淘汰",
+        "onboard_time": 1726291580,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249198,
+        "num": 445976,
+        "word": "父母生而不养该承担什么法律责任",
+        "onboard_time": 1726282879,
+        "rank": 9,
+        "category": "社会新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 1066954,
+        "num": 430268,
+        "word": "吴谨言结婚照衣服是三年前的联名款",
+        "onboard_time": 1726285459,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 731859,
+        "num": 408903,
+        "word": "王鹤棣说大奉打更人弄死所有人",
+        "onboard_time": 1726283299,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 663658,
+        "num": 396448,
+        "word": "张兰自曝将参加花儿与少年",
+        "onboard_time": 1726287862,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 549256,
+        "num": 390011,
+        "word": "田柾国应援NewJeans",
+        "onboard_time": 1726287019,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382850,
+        "num": 382850,
+        "word": "iPhone16不送苹果logo贴纸",
+        "onboard_time": 1726281019,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 542882,
+        "num": 370530,
+        "word": "于正否认吴谨言三年前领证",
+        "onboard_time": 1726275561,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324173,
+        "num": 324173,
+        "word": "东部战区回应德舰过航台湾海峡",
+        "onboard_time": 1726285819,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 300187,
+        "num": 300187,
+        "word": "100块一个的月饼到底是谁在买",
+        "onboard_time": 1726286839,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46735,
+        "num": 297997,
+        "word": "家属质疑护工粗暴喂饭致老人噎亡",
+        "onboard_time": 1726290810,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40929,
+        "num": 292296,
+        "word": "91岁游本昌的满月",
+        "onboard_time": 1726290570,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211898,
+        "num": 287528,
+        "word": "大奉打更人导演回应",
+        "onboard_time": 1726291470,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1202120,
+        "num": 282955,
+        "word": "家长在班级群连发不雅视频抓小三",
+        "onboard_time": 1726290032,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463934,
+        "num": 279499,
+        "word": "白鹿在陆虎婚礼上发言",
+        "onboard_time": 1726282399,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382439,
+        "num": 271511,
+        "word": "街道办回应李纯怒斥小区物业",
+        "onboard_time": 1726290630,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271244,
+        "num": 271244,
+        "word": "完美世界",
+        "onboard_time": 1726290751,
+        "rank": 24,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 268837,
+        "num": 268837,
+        "word": "于正回应洪尧黑料",
+        "onboard_time": 1726281258,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257817,
+        "num": 257817,
+        "word": "5岁女童小区内玩耍时被碾压致死",
+        "onboard_time": 1726273220,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 246613,
+        "num": 246613,
+        "word": "绘旅人拍拍海螺肉",
+        "onboard_time": 1726292180,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187315,
+        "num": 232557,
+        "word": "长沙舰与外舰紧张对峙47小时",
+        "onboard_time": 1726273281,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26518,
+        "num": 230774,
+        "word": "穿越时空的巴黎文物之美",
+        "onboard_time": 1726290271,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 230556,
+        "num": 230556,
+        "word": "黄奕黄晓明已经认识21年了",
+        "onboard_time": 1726289431,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226234,
+        "num": 226234,
+        "word": "男子专挑退休阿姨认干妈实施敲诈",
+        "onboard_time": 1726286119,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215090,
+        "num": 215090,
+        "word": "香港美诚月饼究竟产自哪里",
+        "onboard_time": 1726285280,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22991,
+        "num": 214723,
+        "word": "电影门前宝地北京首映礼",
+        "onboard_time": 1726291170,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214669,
+        "num": 214669,
+        "word": "李纯怒斥小区物业",
+        "onboard_time": 1726274959,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203371,
+        "num": 203371,
+        "word": "陆虎陈曌旭的婚礼不收礼金",
+        "onboard_time": 1726278020,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34865,
+        "num": 193770,
+        "word": "市监总局要求重点把控网红月饼质量",
+        "onboard_time": 1726290209,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191395,
+        "num": 191395,
+        "word": "完美世界剧场版开播",
+        "onboard_time": 1726291109,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 182178,
+        "num": 182178,
+        "word": "公司发的月饼",
+        "onboard_time": 1726276399,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 172730,
+        "num": 172730,
+        "word": "中秋糕点开始扎推讨好年轻人",
+        "onboard_time": 1726291880,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157436,
+        "num": 157436,
+        "word": "上海台风",
+        "onboard_time": 1726285940,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157111,
+        "num": 157111,
+        "word": "周六上班上出了结婚的感觉",
+        "onboard_time": 1726269678,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115542,
+        "num": 155530,
+        "word": "李克勤尤长靖同盟排名第一",
+        "onboard_time": 1726292009,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110442,
+        "num": 155464,
+        "word": "胡兵把蔡国庆爆改成了伍佰",
+        "onboard_time": 1726291049,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155438,
+        "num": 155438,
+        "word": "光与夜之恋",
+        "onboard_time": 1726290032,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155131,
+        "num": 155131,
+        "word": "赵丽颖李红樱簪花嫁衣造型",
+        "onboard_time": 1726292180,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153293,
+        "num": 153293,
+        "word": "妈妈一定在天上急得团团转",
+        "onboard_time": 1726279939,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150763,
+        "num": 150763,
+        "word": "王楚钦弧线",
+        "onboard_time": 1726292249,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145354,
+        "num": 145354,
+        "word": "四川宜宾市发生3.6级地震",
+        "onboard_time": 1726291941,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143859,
+        "num": 143859,
+        "word": "obgg显示Scout被限制出境",
+        "onboard_time": 1726284979,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的中秋祝福#"
+    }
+  }
+}
