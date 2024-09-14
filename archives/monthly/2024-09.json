@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726339222741,
+  "endTime": 1726341389444,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -37395,6 +37395,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 61818,
+      "num": 150114,
+      "word": "酒店回应女生入住遭陌生男子闯入",
+      "onboard_time": 1726337593,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61815,
       "num": 76876,
       "word": "10岁轮椅女孩上学4年成全班35人团宠",
@@ -38897,6 +38905,14 @@
       "onboard_time": 1725623600,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 46339,
+      "num": 46339,
+      "word": "周杰伦回应深圳演唱会被吐槽声音小",
+      "onboard_time": 1726339993,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 46335,
@@ -41299,14 +41315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29359,
-      "num": 150114,
-      "word": "酒店回应女生入住遭陌生男子闯入",
-      "onboard_time": 1726337593,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 29314,
       "num": 204331,
       "word": "越来越多美国人开派对庆祝离婚",
@@ -41465,6 +41473,14 @@
       "onboard_time": 1725543262,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 28171,
+      "num": 27749,
+      "word": "王俊凯野孩子路演",
+      "onboard_time": 1726340232,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 28159,
@@ -41633,6 +41649,14 @@
       "onboard_time": 1726165331,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 27213,
+      "num": 48065,
+      "word": "贝碧嘉暴雨或将在上海中秋前结束",
+      "onboard_time": 1726339452,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27055,
@@ -43329,6 +43353,14 @@
       "onboard_time": 1725744551,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11329,
+      "num": 38174,
+      "word": "古人的青铜器太全面了",
+      "onboard_time": 1726341311,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11202,
