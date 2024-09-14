@@ -1,6 +1,6 @@
 {
   "startTime": 1726244748063,
-  "endTime": 1726312608445,
+  "endTime": 1726313786400,
   "band_list": [
     {
       "raw_hot": 3031035,
@@ -184,6 +184,14 @@
       "word": "于正回应洪尧黑料",
       "onboard_time": 1726281258,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1101651,
+      "num": 773552,
+      "word": "徐正溪回归娱乐圈的原因",
+      "onboard_time": 1726311741,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -403,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 680643,
+      "num": 680643,
+      "word": "国防部回应解放军全面攻台能力",
+      "onboard_time": 1726308079,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 667172,
       "num": 667172,
       "word": "贝碧嘉",
@@ -419,8 +435,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 635659,
-      "num": 389832,
+      "raw_hot": 650536,
+      "num": 393203,
       "word": "原来热暴力比冷暴力有用",
       "onboard_time": 1726307541,
       "rank": 20,
@@ -489,14 +505,6 @@
       "onboard_time": 1726294880,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 531914,
-      "num": 531914,
-      "word": "徐正溪回归娱乐圈的原因",
-      "onboard_time": 1726311741,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 524895,
@@ -569,14 +577,6 @@
       "onboard_time": 1726280598,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 480358,
-      "num": 480358,
-      "word": "国防部回应解放军全面攻台能力",
-      "onboard_time": 1726308079,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 455839,
@@ -691,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 381685,
+      "num": 381685,
+      "word": "李纯小区物业称不可能先救明星",
+      "onboard_time": 1726312820,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 366161,
       "num": 296459,
       "word": "车 你跑快点啊死鬼",
@@ -785,6 +793,14 @@
       "onboard_time": 1726302619,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 291188,
+      "num": 291188,
+      "word": "这居然是尤长靖",
+      "onboard_time": 1726312040,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 286608,
@@ -939,6 +955,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 252422,
+      "num": 252422,
+      "word": "富士山平替",
+      "onboard_time": 1726309819,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 249642,
+      "num": 249642,
+      "word": "武汉地铁",
+      "onboard_time": 1726312640,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247386,
       "num": 247386,
       "word": "贾老板认罪",
@@ -1019,12 +1051,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 236332,
+      "num": 422947,
+      "word": "王艺迪进女单决赛",
+      "onboard_time": 1726313061,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234924,
       "num": 234924,
       "word": "黄奕黄晓明已经认识21年了",
       "onboard_time": 1726289431,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234161,
+      "num": 234161,
+      "word": "美诚月饼",
+      "onboard_time": 1726310480,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 233763,
@@ -1075,8 +1123,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225576,
-      "num": 225576,
+      "raw_hot": 225687,
+      "num": 225687,
       "word": "晋江称机房网络运营商线路故障",
       "onboard_time": 1726307420,
       "rank": 33,
@@ -1137,14 +1185,6 @@
       "onboard_time": 1726291470,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 211802,
-      "num": 211802,
-      "word": "美诚月饼",
-      "onboard_time": 1726310480,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 211610,
@@ -1259,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200662,
+      "num": 200662,
+      "word": "王一博探洞",
+      "onboard_time": 1726312701,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 200311,
       "num": 200311,
       "word": "男子收60万儿子死亡赔偿款全转给弟弟",
@@ -1297,6 +1345,14 @@
       "onboard_time": 1726294880,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 197473,
+      "num": 197473,
+      "word": "陆虎陈曌旭各地亲吻vlog",
+      "onboard_time": 1726311140,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 195449,
@@ -1347,14 +1403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188796,
-      "num": 188796,
-      "word": "富士山平替",
-      "onboard_time": 1726309819,
-      "rank": 46,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 187432,
       "num": 187432,
       "word": "王楚钦弧线",
@@ -1379,12 +1427,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185306,
+      "num": 185306,
+      "word": "武汉烟花",
+      "onboard_time": 1726313599,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185021,
       "num": 185021,
       "word": "谁能看出周翊然前一天4点下班",
       "onboard_time": 1726305441,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184523,
+      "num": 428941,
+      "word": "流浪汉爆改青春男高",
+      "onboard_time": 1726312520,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 184285,
@@ -1401,6 +1465,14 @@
       "onboard_time": 1726298781,
       "rank": 41,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 182658,
+      "num": 182658,
+      "word": "罗永浩对美诚月饼退一赔三",
+      "onboard_time": 1726310059,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 182597,
@@ -1475,14 +1547,6 @@
       "category": "游戏,动漫"
     },
     {
-      "raw_hot": 172893,
-      "num": 172893,
-      "word": "罗永浩对美诚月饼退一赔三",
-      "onboard_time": 1726310059,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 172805,
       "num": 172805,
       "word": "美确定对中国产品加征关税",
@@ -1499,6 +1563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 171558,
+      "num": 171558,
+      "word": "花傲天秋季赛首个淘汰",
+      "onboard_time": 1726313540,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 171420,
       "num": 171420,
       "word": "东风快递员是怎么押运导弹的",
@@ -1513,6 +1585,14 @@
       "onboard_time": 1726301660,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 171119,
+      "num": 171119,
+      "word": "王艺迪4比0战胜王曼昱",
+      "onboard_time": 1726313599,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 169209,
@@ -1553,14 +1633,6 @@
       "onboard_time": 1726271539,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 165528,
-      "num": 165528,
-      "word": "陆虎陈曌旭各地亲吻vlog",
-      "onboard_time": 1726311140,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 165148,
@@ -1657,14 +1729,6 @@
       "onboard_time": 1726287380,
       "rank": 48,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 150439,
-      "num": 150439,
-      "word": "这居然是尤长靖",
-      "onboard_time": 1726312040,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 150287,
@@ -2275,14 +2339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82814,
-      "num": 297313,
-      "word": "流浪汉爆改青春男高",
-      "onboard_time": 1726312520,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 82728,
       "num": 82728,
       "word": "丁程鑫在青岛早睡早起",
@@ -2396,7 +2452,7 @@
     },
     {
       "raw_hot": 63595,
-      "num": 400530,
+      "num": 426270,
       "word": "库里被中国文化硬控",
       "onboard_time": 1726311500,
       "rank": 19,
@@ -2547,6 +2603,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42192,
+      "num": 402529,
+      "word": "7旬老人出逃养老院只想回家过中秋",
+      "onboard_time": 1726309279,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41823,
+      "num": 250087,
+      "word": "告诉高启强老默这次不当人了",
+      "onboard_time": 1726313662,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 41698,
       "num": 772820,
       "word": "厨房管道漏水被收9000元维修费",
@@ -2569,6 +2641,14 @@
       "onboard_time": 1726248494,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 40332,
+      "num": 533323,
+      "word": "养生月饼加人参约30元1块",
+      "onboard_time": 1726311800,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39440,
@@ -2643,11 +2723,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31993,
-      "num": 402529,
-      "word": "7旬老人出逃养老院只想回家过中秋",
-      "onboard_time": 1726309279,
-      "rank": 18,
+      "raw_hot": 34057,
+      "num": 457504,
+      "word": "东北农村老年食堂一顿只要两块钱",
+      "onboard_time": 1726312219,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -2691,14 +2771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26334,
-      "num": 457504,
-      "word": "东北农村老年食堂一顿只要两块钱",
-      "onboard_time": 1726312219,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25997,
       "num": 25997,
       "word": "徐子未唱阿楚姑娘",
@@ -2721,14 +2793,6 @@
       "onboard_time": 1726255750,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 24617,
-      "num": 533323,
-      "word": "养生月饼加人参约30元1块",
-      "onboard_time": 1726311800,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24260,
@@ -2809,6 +2873,14 @@
       "onboard_time": 1726253592,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15266,
+      "num": 407391,
+      "word": "姚晨穿西装骑单车",
+      "onboard_time": 1726313241,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 14800,
