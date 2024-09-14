@@ -1,6 +1,6 @@
 {
   "startTime": 1726244748063,
-  "endTime": 1726284195440,
+  "endTime": 1726285074760,
   "band_list": [
     {
       "raw_hot": 2208398,
@@ -43,16 +43,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1175528,
-      "num": 1175528,
+      "raw_hot": 1197261,
+      "num": 1197261,
       "word": "白鹿在陆虎婚礼上发言",
       "onboard_time": 1726282399,
       "rank": 17,
       "category": "艺人"
     },
     {
-      "raw_hot": 1112279,
-      "num": 1112279,
+      "raw_hot": 1152884,
+      "num": 1152884,
       "word": "女子被要求每天给领导带饭但不给钱",
       "onboard_time": 1726279700,
       "rank": 12,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1014672,
-      "num": 546039,
+      "num": 605349,
       "word": "王鹤棣KTV喊话",
       "onboard_time": 1726281979,
       "rank": 22,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 753672,
+      "num": 549147,
+      "word": "王鹤棣说大奉打更人弄死所有人",
+      "onboard_time": 1726283299,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 713135,
       "num": 341035,
       "word": "吴谨言 怀孕",
@@ -169,6 +177,22 @@
       "onboard_time": 1726273281,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 614865,
+      "num": 614865,
+      "word": "iPhone16不送苹果logo贴纸",
+      "onboard_time": 1726281019,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 594029,
+      "num": 594029,
+      "word": "父母生而不养该承担什么法律责任",
+      "onboard_time": 1726282879,
+      "rank": 12,
+      "category": "社会新闻,母婴育儿"
     },
     {
       "raw_hot": 582509,
@@ -203,14 +227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 515264,
-      "num": 515264,
-      "word": "父母生而不养该承担什么法律责任",
-      "onboard_time": 1726282879,
-      "rank": 12,
-      "category": "社会新闻,母婴育儿"
-    },
-    {
       "raw_hot": 502120,
       "num": 502120,
       "word": "杀妻欲藏尸冰柜案凶手至死没道歉",
@@ -233,14 +249,6 @@
       "onboard_time": 1726280598,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 464795,
-      "num": 464795,
-      "word": "王鹤棣说大奉打更人弄死所有人",
-      "onboard_time": 1726283299,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 455839,
@@ -273,14 +281,6 @@
       "onboard_time": 1726233683,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 420128,
-      "num": 420128,
-      "word": "iPhone16不送苹果logo贴纸",
-      "onboard_time": 1726281019,
-      "rank": 15,
-      "category": "数码"
     },
     {
       "raw_hot": 416416,
@@ -459,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240222,
+      "num": 285499,
+      "word": "电影孤注一掷上线",
+      "onboard_time": 1726284320,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 231846,
       "num": 231846,
       "word": "多方回应学生不订牛奶须提供过敏证明",
@@ -491,11 +499,35 @@
       "category": "数码"
     },
     {
+      "raw_hot": 210560,
+      "num": 179649,
+      "word": "金高银头发好短",
+      "onboard_time": 1726282879,
+      "rank": 32,
+      "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 209916,
+      "num": 209916,
+      "word": "章若楠首部武侠剧",
+      "onboard_time": 1726284679,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209054,
       "num": 209054,
       "word": "女子在超市捞鱼被刺致八级伤残",
       "onboard_time": 1726226961,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207777,
+      "num": 207777,
+      "word": "贝碧嘉",
+      "onboard_time": 1726284859,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -505,6 +537,14 @@
       "onboard_time": 1726274543,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 204373,
+      "num": 204373,
+      "word": "新规发布后火车票如何改签",
+      "onboard_time": 1726282158,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204365,
@@ -536,14 +576,6 @@
       "word": "男子收60万儿子死亡赔偿款全转给弟弟",
       "onboard_time": 1726227020,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 200284,
-      "num": 200284,
-      "word": "新规发布后火车票如何改签",
-      "onboard_time": 1726282158,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -595,12 +627,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179649,
-      "num": 179649,
-      "word": "金高银头发好短",
-      "onboard_time": 1726282879,
+      "raw_hot": 178091,
+      "num": 170307,
+      "word": "Kanye试听会 种小麦",
+      "onboard_time": 1726283900,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 172683,
+      "num": 169837,
+      "word": "美确定对中国产品加征关税",
+      "onboard_time": 1726284259,
       "rank": 32,
-      "category": "作品衍生,艺人"
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 172093,
@@ -619,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166284,
+      "num": 166284,
+      "word": "沈月美人鱼写真",
+      "onboard_time": 1726284800,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 166011,
       "num": 166011,
       "word": "中秋火车票改签攻略",
@@ -635,8 +683,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 161083,
-      "num": 161083,
+      "raw_hot": 163409,
+      "num": 163409,
       "word": "易烊千玺对所有的离开都不太敏感",
       "onboard_time": 1726283000,
       "rank": 38,
@@ -675,6 +723,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 148438,
+      "num": 148438,
+      "word": "obgg显示Scout被限制出境",
+      "onboard_time": 1726284979,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 147572,
       "num": 147572,
       "word": "不背单词崩了",
@@ -691,20 +747,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144926,
+      "num": 144926,
+      "word": "秦彻 在你丈夫的葬礼上",
+      "onboard_time": 1726284859,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 144283,
       "num": 144283,
       "word": "内娱也是有厕所直拍了",
       "onboard_time": 1726278020,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142854,
-      "num": 142854,
-      "word": "Kanye试听会 种小麦",
-      "onboard_time": 1726283900,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 140853,
@@ -731,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134768,
+      "num": 134768,
+      "word": "维金斯父亲去世",
+      "onboard_time": 1726284079,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134338,
       "num": 134338,
       "word": "五级能耗空调为何扎堆出租屋",
@@ -739,20 +803,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134157,
+      "num": 134157,
+      "word": "魏大勋 十秒钟八百个表情",
+      "onboard_time": 1726284379,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133234,
       "num": 133234,
       "word": "金珉奎背徐明浩",
       "onboard_time": 1726239623,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128214,
-      "num": 128214,
-      "word": "维金斯父亲去世",
-      "onboard_time": 1726284079,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 127842,
@@ -1059,6 +1123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 68226,
+      "num": 460405,
+      "word": "苹果天猫官旗回应支持24期免息购机",
+      "onboard_time": 1726280359,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 67498,
       "num": 71432,
       "word": "王楚钦vs赵大成",
@@ -1067,12 +1139,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 64221,
-      "num": 460405,
-      "word": "苹果天猫官旗回应支持24期免息购机",
-      "onboard_time": 1726280359,
-      "rank": 16,
-      "category": "数码"
+      "raw_hot": 63498,
+      "num": 469343,
+      "word": "阳澄湖大闸蟹大量热死精品价涨4成",
+      "onboard_time": 1726283240,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62237,
@@ -1107,6 +1179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 50693,
+      "num": 138241,
+      "word": "天籁真心12万了",
+      "onboard_time": 1726284920,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 49126,
       "num": 458041,
       "word": "金九银十在这一刻具象化了",
@@ -1123,19 +1203,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 47376,
-      "num": 469343,
-      "word": "阳澄湖大闸蟹大量热死精品价涨4成",
-      "onboard_time": 1726283240,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 47113,
       "num": 422054,
       "word": "二次元美瞳市场乱象频发",
       "onboard_time": 1726283958,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47073,
+      "num": 516911,
+      "word": "头部主播带货为何频频翻车",
+      "onboard_time": 1726282879,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1145,14 +1225,6 @@
       "onboard_time": 1726248494,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 35453,
-      "num": 516911,
-      "word": "头部主播带货为何频频翻车",
-      "onboard_time": 1726282879,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35042,
@@ -1243,19 +1315,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 11594,
+      "num": 1170971,
+      "word": "人民军队淬火向前",
+      "onboard_time": 1726081931,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10836,
       "num": 39873,
       "word": "退休教师去世捐献角膜和遗体",
       "onboard_time": 1726258930,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10678,
-      "num": 1142117,
-      "word": "人民军队淬火向前",
-      "onboard_time": 1726081931,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1289,6 +1361,9 @@
     },
     {
       "word": "#跟着总书记看九曲黄河展新颜#"
+    },
+    {
+      "word": "#习主席的中秋祝福#"
     }
   ]
 }
