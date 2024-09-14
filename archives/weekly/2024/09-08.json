@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726318410283,
+  "endTime": 1726320176600,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -83,6 +83,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 4001955,
+      "num": 4001955,
+      "word": "孙颖莎vs张本美和",
+      "onboard_time": 1726314321,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3894981,
       "num": 304582,
       "word": "小杨哥 出轨",
@@ -137,14 +145,6 @@
       "onboard_time": 1725946340,
       "rank": 5,
       "category": "数码"
-    },
-    {
-      "raw_hot": 3062590,
-      "num": 3062590,
-      "word": "孙颖莎vs张本美和",
-      "onboard_time": 1726314321,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 3031035,
@@ -217,6 +217,14 @@
       "onboard_time": 1726229301,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 2520276,
+      "num": 446708,
+      "word": "家长群内连发不雅视频撕另一家长",
+      "onboard_time": 1726306340,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2496876,
@@ -553,14 +561,6 @@
       "onboard_time": 1726285459,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1670526,
-      "num": 446708,
-      "word": "家长群内连发不雅视频撕另一家长",
-      "onboard_time": 1726306340,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1656185,
@@ -1089,6 +1089,14 @@
       "onboard_time": 1725943221,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1257864,
+      "num": 1257864,
+      "word": "专家建议取消频繁调休",
+      "onboard_time": 1726314740,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1252141,
@@ -1771,6 +1779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 948836,
+      "num": 948836,
+      "word": "光刻机",
+      "onboard_time": 1726315581,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 941708,
       "num": 941708,
       "word": "5岁女童小区内玩耍时被碾压致死",
@@ -1897,6 +1913,14 @@
       "onboard_time": 1725975683,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 889913,
+      "num": 889913,
+      "word": "女主被男主捅了",
+      "onboard_time": 1726317801,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 889630,
@@ -2033,6 +2057,14 @@
       "onboard_time": 1725781819,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 854963,
+      "num": 854963,
+      "word": "鹭卓巡演疑似被叫停",
+      "onboard_time": 1726317261,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 852202,
@@ -2683,14 +2715,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 695915,
-      "num": 695915,
-      "word": "鹭卓巡演疑似被叫停",
-      "onboard_time": 1726317261,
-      "rank": 42,
-      "category": "演出"
-    },
-    {
       "raw_hot": 695388,
       "num": 695388,
       "word": "卢昱晓 刁蛮俏公主",
@@ -2737,14 +2761,6 @@
       "onboard_time": 1725938479,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 685818,
-      "num": 685818,
-      "word": "光刻机",
-      "onboard_time": 1726315581,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 685781,
@@ -3145,6 +3161,14 @@
       "onboard_time": 1726048280,
       "rank": 15,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 616369,
+      "num": 616369,
+      "word": "银河左岸",
+      "onboard_time": 1726317502,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 615750,
@@ -3739,6 +3763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 514996,
+      "num": 514996,
+      "word": "孙颖莎追分的神",
+      "onboard_time": 1726319063,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 513762,
       "num": 277034,
       "word": "没有班味的工作有多香",
@@ -3915,6 +3947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 494612,
+      "num": 494612,
+      "word": "武汉烟花",
+      "onboard_time": 1726313599,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 494324,
       "num": 343051,
       "word": "北京一女子骑车闯红灯被撞飞",
@@ -4057,6 +4097,14 @@
       "onboard_time": 1726193719,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 478615,
+      "num": 478615,
+      "word": "赵丽颖把伞撑给了陶昕然",
+      "onboard_time": 1726318883,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 477736,
@@ -4411,14 +4459,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 440024,
-      "num": 440024,
-      "word": "武汉烟花",
-      "onboard_time": 1726313599,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 439497,
       "num": 439497,
       "word": "关晓彤来我们学校拍戏了",
@@ -4753,6 +4793,14 @@
       "onboard_time": 1726296740,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 411405,
+      "num": 394485,
+      "word": "印度店主将尿液混入果汁售卖被暴打",
+      "onboard_time": 1726319183,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 409739,
@@ -5113,14 +5161,6 @@
       "onboard_time": 1725855381,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 382776,
-      "num": 382776,
-      "word": "专家建议取消频繁调休",
-      "onboard_time": 1726314740,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 382512,
@@ -6083,14 +6123,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 307269,
-      "num": 282595,
-      "word": "银河左岸",
-      "onboard_time": 1726317502,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
       "raw_hot": 307054,
       "num": 307054,
       "word": "撒贝宁王鸥一个敢调一个敢喝",
@@ -6297,6 +6329,14 @@
       "onboard_time": 1726067183,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291513,
+      "num": 291513,
+      "word": "吴谨言领证后首现身",
+      "onboard_time": 1726319903,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 291075,
@@ -6675,6 +6715,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 273056,
+      "num": 449750,
+      "word": "妈妈带2个孩子喝农药自杀被判刑",
+      "onboard_time": 1726316841,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272955,
       "num": 272955,
       "word": "Cube回应",
@@ -6825,14 +6873,6 @@
       "onboard_time": 1725804620,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 266719,
-      "num": 500494,
-      "word": "女主被男主捅了",
-      "onboard_time": 1726317801,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 266636,
@@ -7339,6 +7379,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 245643,
+      "num": 547009,
+      "word": "市监局回应香港美诚月饼涉虚假宣传",
+      "onboard_time": 1726317020,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245486,
       "num": 208310,
       "word": "蟹太太回应辛巴三只羊纠纷",
@@ -7697,6 +7745,14 @@
       "onboard_time": 1726205424,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 235388,
+      "num": 235388,
+      "word": "安陵容私下就是烟酒都来的",
+      "onboard_time": 1726317559,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 235053,
@@ -8611,6 +8667,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 214410,
+      "num": 214410,
+      "word": "周也敖子逸去了王源演唱会",
+      "onboard_time": 1726319723,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 214388,
       "num": 214388,
       "word": "黄景瑜天生下海圣体",
@@ -8737,14 +8801,6 @@
       "onboard_time": 1726150581,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 212368,
-      "num": 212368,
-      "word": "安陵容私下就是烟酒都来的",
-      "onboard_time": 1726317559,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 212127,
@@ -9003,6 +9059,30 @@
       "category": "数码"
     },
     {
+      "raw_hot": 208096,
+      "num": 449744,
+      "word": "老人在山西4A级景区摔倒后去世",
+      "onboard_time": 1726315701,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208017,
+      "num": 208017,
+      "word": "教资",
+      "onboard_time": 1726319842,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 207876,
+      "num": 207876,
+      "word": "陈梦OK十月刊封面预告",
+      "onboard_time": 1726320143,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207741,
       "num": 207741,
       "word": "限3玩1限1玩3限2玩3限4玩2",
@@ -9099,6 +9179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205780,
+      "num": 205780,
+      "word": "汪苏泷喊王源宝宝",
+      "onboard_time": 1726319482,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 205708,
       "num": 205708,
       "word": "久坐的人臀部会失忆",
@@ -9137,6 +9225,14 @@
       "onboard_time": 1726207944,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205289,
+      "num": 205289,
+      "word": "林允这下真成白月光了",
+      "onboard_time": 1726318822,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 205269,
@@ -9377,6 +9473,14 @@
       "onboard_time": 1725800898,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202385,
+      "num": 202385,
+      "word": "朱志鑫苏新皓答非所问笑死了",
+      "onboard_time": 1726319482,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 202083,
@@ -10139,6 +10243,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 192220,
+      "num": 192220,
+      "word": "许昕直播",
+      "onboard_time": 1726320022,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192078,
       "num": 192078,
       "word": "加沙12岁女孩的课本被用来生火",
@@ -10729,6 +10841,14 @@
       "onboard_time": 1726305441,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184914,
+      "num": 188369,
+      "word": "易烊千玺见字如晤",
+      "onboard_time": 1726318943,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 184901,
@@ -11499,14 +11619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174524,
-      "num": 449744,
-      "word": "老人在山西4A级景区摔倒后去世",
-      "onboard_time": 1726315701,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174404,
       "num": 560314,
       "word": "打顺风车后连续7天被免密支付21笔",
@@ -12161,14 +12273,6 @@
       "onboard_time": 1726018518,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 165384,
-      "num": 449750,
-      "word": "妈妈带2个孩子喝农药自杀被判刑",
-      "onboard_time": 1726316841,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165148,
@@ -16739,14 +16843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110540,
-      "num": 547009,
-      "word": "市监局回应香港美诚月饼涉虚假宣传",
-      "onboard_time": 1726317020,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110469,
       "num": 110469,
       "word": "金智媛见面会被喊金秀贤",
@@ -18019,6 +18115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85021,
+      "num": 577628,
+      "word": "李兰迪新剧地狱开局",
+      "onboard_time": 1726319305,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 84694,
       "num": 102768,
       "word": "王一博探索新境探洞之旅",
@@ -18603,6 +18707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67024,
+      "num": 452122,
+      "word": "两年被家暴16次女子申请提级审理",
+      "onboard_time": 1726318103,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66981,
       "num": 99298,
       "word": "盛李豪又多了一个身份",
@@ -18737,6 +18849,14 @@
       "onboard_time": 1725787939,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 63735,
+      "num": 504523,
+      "word": "有公司大批采购1元月饼发福利",
+      "onboard_time": 1726319422,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63684,
@@ -19411,6 +19531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50583,
+      "num": 591559,
+      "word": "新华网评直播带货乱象",
+      "onboard_time": 1726318641,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50532,
       "num": 69111,
       "word": "持刀男子与受伤女子疑因拍照引发纠纷",
@@ -19964,7 +20092,7 @@
     },
     {
       "raw_hot": 42182,
-      "num": 442010,
+      "num": 515118,
       "word": "周杰伦说青春不止范特西",
       "onboard_time": 1726317261,
       "rank": 44,
@@ -21249,14 +21377,6 @@
       "onboard_time": 1726291170,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 24186,
-      "num": 452122,
-      "word": "两年被家暴16次女子申请提级审理",
-      "onboard_time": 1726318103,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24173,
