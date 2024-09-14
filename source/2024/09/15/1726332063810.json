@@ -1,0 +1,410 @@
+{
+  "runTime": 1726332063810,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 903224,
+        "num": 903224,
+        "word": "不敢相信这是陈卓璇",
+        "onboard_time": 1726323264,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 849142,
+        "num": 849142,
+        "word": "王楚钦vs林诗栋",
+        "onboard_time": 1726320264,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34044,
+        "num": 793995,
+        "word": "高质量发展看广西",
+        "onboard_time": 1726321942,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 767983,
+        "num": 767983,
+        "word": "许昕说王楚钦能来打澳门赛不容易",
+        "onboard_time": 1726327341,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 518816,
+        "num": 518816,
+        "word": "于正说洪尧片酬不买房够花",
+        "onboard_time": 1726321822,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491910,
+        "num": 491910,
+        "word": "孙颖莎vs张本美和",
+        "onboard_time": 1726314321,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 483385,
+        "num": 483385,
+        "word": "女主被男主捅了",
+        "onboard_time": 1726317801,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 409127,
+        "num": 409127,
+        "word": "吴谨言领证后首现身",
+        "onboard_time": 1726319903,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384011,
+        "num": 384011,
+        "word": "四川江油失联姐弟均已遇难",
+        "onboard_time": 1726323142,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331704,
+        "num": 363580,
+        "word": "男子提供有偿代骂每单收费240元",
+        "onboard_time": 1726325842,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358621,
+        "num": 358621,
+        "word": "李纯小区物业称不可能先救明星",
+        "onboard_time": 1726312820,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346488,
+        "num": 346488,
+        "word": "台风",
+        "onboard_time": 1726302200,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302054,
+        "num": 302054,
+        "word": "吴宣仪 我是王总舞粉",
+        "onboard_time": 1726327220,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 290216,
+        "num": 290216,
+        "word": "鹭卓巡演疑似被叫停",
+        "onboard_time": 1726317261,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 283361,
+        "num": 283361,
+        "word": "王楚钦赛后采访",
+        "onboard_time": 1726327462,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107683,
+        "num": 283225,
+        "word": "浙江迎战台风贝碧嘉",
+        "onboard_time": 1726330160,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283163,
+        "num": 283163,
+        "word": "台风贝碧嘉",
+        "onboard_time": 1726320202,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278495,
+        "num": 278495,
+        "word": "林诗栋4比1王楚钦",
+        "onboard_time": 1726323626,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261560,
+        "num": 261560,
+        "word": "许昕说孙颖莎今天状态只有7分",
+        "onboard_time": 1726326382,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258995,
+        "num": 258995,
+        "word": "幼儿园长4年关8所学校负债2000万",
+        "onboard_time": 1726323142,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1457755,
+        "num": 247679,
+        "word": "家长群内连发不雅视频撕另一家长",
+        "onboard_time": 1726306340,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369721,
+        "num": 247137,
+        "word": "南方人吃月饼竟然切成小块插着吃",
+        "onboard_time": 1726329138,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 366705,
+        "num": 237600,
+        "word": "于正晒出和吴谨言聊天记录",
+        "onboard_time": 1726295119,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219250,
+        "num": 219250,
+        "word": "王源汪苏泷首次合作",
+        "onboard_time": 1726328122,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 218339,
+        "num": 218339,
+        "word": "银河左岸",
+        "onboard_time": 1726317502,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180580,
+        "num": 180580,
+        "word": "王楚钦玩新发球",
+        "onboard_time": 1726323984,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178161,
+        "num": 178161,
+        "word": "徐正溪回归娱乐圈的原因",
+        "onboard_time": 1726311741,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157292,
+        "num": 157292,
+        "word": "左航说穿的越土越不会被认出来",
+        "onboard_time": 1726332019,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112526,
+        "num": 154577,
+        "word": "中秋是仅次于春节的传统节日",
+        "onboard_time": 1726299321,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64885,
+        "num": 154265,
+        "word": "79岁奶奶回应坚持健身19年",
+        "onboard_time": 1726332019,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202462,
+        "num": 154184,
+        "word": "王源让敖子逸给粉丝转50",
+        "onboard_time": 1726320503,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154096,
+        "num": 154096,
+        "word": "老板买到15盒香港月饼哭诉不发了",
+        "onboard_time": 1726307120,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152575,
+        "num": 152575,
+        "word": "王俊凯强制要求影院给粉丝退钱",
+        "onboard_time": 1726302019,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150636,
+        "num": 150636,
+        "word": "王楚钦哎哟我去",
+        "onboard_time": 1726327162,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147757,
+        "num": 147757,
+        "word": "疯狂小杨哥未如期开播",
+        "onboard_time": 1726323203,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 144362,
+        "num": 144362,
+        "word": "离婚了也要争婆婆的抚养权",
+        "onboard_time": 1726322962,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144187,
+        "num": 144187,
+        "word": "余宇涵发小作文",
+        "onboard_time": 1726310419,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144020,
+        "num": 144020,
+        "word": "赵丽颖把伞撑给了陶昕然",
+        "onboard_time": 1726318883,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143610,
+        "num": 143610,
+        "word": "晋江称机房网络运营商线路故障",
+        "onboard_time": 1726307420,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 142391,
+        "num": 142391,
+        "word": "李兰迪台词真好",
+        "onboard_time": 1726330819,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137903,
+        "num": 137903,
+        "word": "欧阳妮妮晒孕肚",
+        "onboard_time": 1726303401,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137529,
+        "num": 137529,
+        "word": "孙颖莎vs王艺迪",
+        "onboard_time": 1726328540,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132701,
+        "num": 132701,
+        "word": "你好星期六下期院人来了",
+        "onboard_time": 1726321043,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132027,
+        "num": 132027,
+        "word": "王楚钦无缘决赛",
+        "onboard_time": 1726324226,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121916,
+        "num": 121916,
+        "word": "张新成王玉雯认识16年终有吻戏",
+        "onboard_time": 1726328180,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117552,
+        "num": 117552,
+        "word": "韩剧妈妈朋友的儿子",
+        "onboard_time": 1726324345,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116949,
+        "num": 116949,
+        "word": "许昕说又没退役为啥是复出",
+        "onboard_time": 1726325363,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100445,
+        "num": 116939,
+        "word": "晋江崩了",
+        "onboard_time": 1726300939,
+        "rank": 47,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 98108,
+        "num": 116766,
+        "word": "白宇 快成表演赛了都别太当真",
+        "onboard_time": 1726325722,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96870,
+        "num": 116698,
+        "word": "张家齐去看王源演唱会了",
+        "onboard_time": 1726326742,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#把人民代表大会制度坚持好完善好运行好#"
+    }
+  }
+}
