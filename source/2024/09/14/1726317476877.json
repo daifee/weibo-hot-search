@@ -1,0 +1,410 @@
+{
+  "runTime": 1726317476877,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2411062,
+        "num": 2411062,
+        "word": "孙颖莎vs张本美和",
+        "onboard_time": 1726314321,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1485535,
+        "num": 1485535,
+        "word": "李纯小区物业称不可能先救明星",
+        "onboard_time": 1726312820,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 5630,
+        "num": 836559,
+        "word": "人民军队淬火向前",
+        "onboard_time": 1726081931,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769758,
+        "num": 769758,
+        "word": "老板买到15盒香港月饼哭诉不发了",
+        "onboard_time": 1726307120,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 713916,
+        "num": 713916,
+        "word": "这居然是尤长靖",
+        "onboard_time": 1726312040,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 579020,
+        "num": 579020,
+        "word": "武汉地铁",
+        "onboard_time": 1726312640,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544886,
+        "num": 544886,
+        "word": "王艺迪4比0战胜王曼昱",
+        "onboard_time": 1726313599,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131970,
+        "num": 518378,
+        "word": "卖香港月饼网红主播7天掉粉77万",
+        "onboard_time": 1726315818,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62386,
+        "num": 518338,
+        "word": "市监局回应香港美诚月饼涉虚假宣传",
+        "onboard_time": 1726317020,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518319,
+        "num": 518319,
+        "word": "中秋是仅次于春节的传统节日",
+        "onboard_time": 1726299321,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1173618,
+        "num": 517856,
+        "word": "徐正溪回归娱乐圈的原因",
+        "onboard_time": 1726311741,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 958844,
+        "num": 516748,
+        "word": "晋江崩了",
+        "onboard_time": 1726300939,
+        "rank": 11,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 515493,
+        "num": 515493,
+        "word": "光刻机",
+        "onboard_time": 1726315581,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478519,
+        "num": 478519,
+        "word": "王俊凯强制要求影院给粉丝退钱",
+        "onboard_time": 1726302019,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30626,
+        "num": 472319,
+        "word": "教育局回应学生不订奶需交过敏证明",
+        "onboard_time": 1726317020,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55186,
+        "num": 470296,
+        "word": "告诉高启强老默这次不当人了",
+        "onboard_time": 1726313662,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 469735,
+        "num": 469735,
+        "word": "台风",
+        "onboard_time": 1726302200,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306681,
+        "num": 462904,
+        "word": "狂飙剧组集体二搭了",
+        "onboard_time": 1726302140,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284331,
+        "num": 460019,
+        "word": "谢美蓝终于离婚了",
+        "onboard_time": 1726316540,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99899,
+        "num": 449744,
+        "word": "老人在山西4A级景区摔倒后去世",
+        "onboard_time": 1726315701,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 844901,
+        "num": 436904,
+        "word": "家长群内连发不雅视频撕另一家长",
+        "onboard_time": 1726306340,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606671,
+        "num": 425162,
+        "word": "余宇涵发小作文",
+        "onboard_time": 1726310419,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 530108,
+        "num": 417369,
+        "word": "于正晒出和吴谨言聊天记录",
+        "onboard_time": 1726295119,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33833,
+        "num": 404414,
+        "word": "电视剧迎风的青春",
+        "onboard_time": 1726316780,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 402236,
+        "num": 402236,
+        "word": "欧阳妮妮晒孕肚",
+        "onboard_time": 1726303401,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236691,
+        "num": 374765,
+        "word": "女童小区被碾身亡司机不服判全责",
+        "onboard_time": 1726310960,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354039,
+        "num": 354039,
+        "word": "原来热暴力比冷暴力有用",
+        "onboard_time": 1726307541,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 329018,
+        "num": 329018,
+        "word": "武汉烟花",
+        "onboard_time": 1726313599,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328924,
+        "num": 328924,
+        "word": "国防部回应解放军全面攻台能力",
+        "onboard_time": 1726308079,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 250128,
+        "num": 323315,
+        "word": "夫人小我十岁 我不知她还有作业",
+        "onboard_time": 1726301960,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52749,
+        "num": 321396,
+        "word": "起底直播带货乱象",
+        "onboard_time": 1726315461,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321095,
+        "num": 321095,
+        "word": "王星越昨天才知道吴谨言结婚",
+        "onboard_time": 1726286301,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303519,
+        "num": 303519,
+        "word": "王艺迪透露王曼昱有伤病",
+        "onboard_time": 1726317141,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271204,
+        "num": 271204,
+        "word": "晋江称机房网络运营商线路故障",
+        "onboard_time": 1726307420,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 254269,
+        "num": 254269,
+        "word": "教育局回应家长群内发视频撕小三",
+        "onboard_time": 1726302080,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237534,
+        "num": 237534,
+        "word": "76岁侵华日军后裔赤脚跪地谢罪",
+        "onboard_time": 1726315759,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 215381,
+        "num": 215381,
+        "word": "街道办回应李纯怒斥小区物业",
+        "onboard_time": 1726290630,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205197,
+        "num": 205197,
+        "word": "胡夏 现在过来抱老子",
+        "onboard_time": 1726313840,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195984,
+        "num": 195984,
+        "word": "流水迢迢 徐正溪",
+        "onboard_time": 1726315281,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195779,
+        "num": 195779,
+        "word": "王一博这次是真害怕了",
+        "onboard_time": 1726314321,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187220,
+        "num": 187220,
+        "word": "三只羊客服回应香港月饼事件",
+        "onboard_time": 1726315041,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 36801,
+        "num": 182920,
+        "word": "当代年轻人的赛博许愿",
+        "onboard_time": 1726315401,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181347,
+        "num": 181347,
+        "word": "鹭卓巡演疑似被叫停",
+        "onboard_time": 1726317261,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180327,
+        "num": 180327,
+        "word": "嫌疑人死亡5天医院还在注射葡萄糖",
+        "onboard_time": 1726306700,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26584,
+        "num": 175138,
+        "word": "周杰伦说青春不止范特西",
+        "onboard_time": 1726317261,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174118,
+        "num": 174118,
+        "word": "邱党晋级决赛",
+        "onboard_time": 1726317201,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172359,
+        "num": 172359,
+        "word": "Deft最后一舞落幕",
+        "onboard_time": 1726311140,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166931,
+        "num": 166931,
+        "word": "南安普敦vs曼联",
+        "onboard_time": 1726316480,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165384,
+        "num": 165384,
+        "word": "妈妈带2个孩子喝农药自杀被判刑",
+        "onboard_time": 1726316841,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164703,
+        "num": 164703,
+        "word": "专家建议取消频繁调休",
+        "onboard_time": 1726314740,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持和完善人民代表大会制度总书记这样说#"
+    }
+  }
+}
