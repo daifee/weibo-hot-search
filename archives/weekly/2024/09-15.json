@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726346200445,
+  "endTime": 1726348751785,
   "band_list": [
     {
       "raw_hot": 1471152,
@@ -427,8 +427,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99812,
+      "num": 121595,
+      "word": "今日可能出现小地磁暴",
+      "onboard_time": 1726343171,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78317,
-      "num": 51147,
+      "num": 55715,
       "word": "周杰伦回应深圳演唱会被吐槽声音小",
       "onboard_time": 1726339993,
       "rank": 23,
@@ -483,20 +491,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38809,
+      "num": 27187,
+      "word": "36斤钢化膜",
+      "onboard_time": 1726342753,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 38746,
       "num": 85268,
       "word": "孙颖莎进入决赛",
       "onboard_time": 1726320864,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 38095,
-      "num": 38095,
-      "word": "今日可能出现小地磁暴",
-      "onboard_time": 1726343171,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36630,
@@ -547,19 +555,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 29048,
-      "num": 26505,
-      "word": "36斤钢化膜",
-      "onboard_time": 1726342753,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 28792,
       "num": 32210,
       "word": "79岁奶奶健身19年不吃一粒药",
       "onboard_time": 1726339152,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28653,
+      "num": 28653,
+      "word": "四川一地面坍塌女子坠入十几米深坑",
+      "onboard_time": 1726344911,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -571,15 +579,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 26003,
-      "num": 26003,
-      "word": "四川一地面坍塌女子坠入十几米深坑",
-      "onboard_time": 1726344911,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13433,
+      "raw_hot": 23278,
       "num": 44072,
       "word": "90岁硬核老人1小时横渡长江",
       "onboard_time": 1726343471,
@@ -592,6 +592,14 @@
       "word": "古人的青铜器太全面了",
       "onboard_time": 1726341311,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4646,
+      "num": 56029,
+      "word": "男子被车撞头受伤多亏他们紧急救助",
+      "onboard_time": 1726346891,
+      "rank": 9,
       "category": "社会新闻"
     }
   ],
