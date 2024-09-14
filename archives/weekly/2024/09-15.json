@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726349746730,
+  "endTime": 1726352430532,
   "band_list": [
     {
       "raw_hot": 1471152,
@@ -259,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176504,
+      "num": 176504,
+      "word": "李纯小区不可能先救明星被指偷换概念",
+      "onboard_time": 1726350793,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175275,
       "num": 175275,
       "word": "晋江称机房网络运营商线路故障",
@@ -288,6 +296,14 @@
       "word": "中秋是仅次于春节的传统节日",
       "onboard_time": 1726299321,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170048,
+      "num": 176349,
+      "word": "今日可能出现小地磁暴",
+      "onboard_time": 1726343171,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -387,14 +403,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 122911,
-      "num": 176349,
-      "word": "今日可能出现小地磁暴",
-      "onboard_time": 1726343171,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120086,
       "num": 120086,
       "word": "晋江崩了",
@@ -419,6 +427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 112896,
+      "num": 112896,
+      "word": "周杰伦回应深圳演唱会被吐槽声音小",
+      "onboard_time": 1726339993,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 110019,
       "num": 110019,
       "word": "王楚钦加油",
@@ -433,14 +449,6 @@
       "onboard_time": 1726324464,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 78317,
-      "num": 58713,
-      "word": "周杰伦回应深圳演唱会被吐槽声音小",
-      "onboard_time": 1726339993,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 76422,
@@ -492,7 +500,7 @@
     },
     {
       "raw_hot": 38809,
-      "num": 27672,
+      "num": 28771,
       "word": "36斤钢化膜",
       "onboard_time": 1726342753,
       "rank": 32,
@@ -515,12 +523,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36050,
+      "num": 36050,
+      "word": "四川一地面坍塌女子坠入十几米深坑",
+      "onboard_time": 1726344911,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33780,
       "num": 35238,
       "word": "盲盒旅行局",
       "onboard_time": 1726337953,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 33656,
+      "num": 33656,
+      "word": "新加坡五千块一顿的中餐",
+      "onboard_time": 1726341671,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 33540,
@@ -539,12 +563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32225,
-      "num": 27609,
-      "word": "新加坡五千块一顿的中餐",
-      "onboard_time": 1726341671,
-      "rank": 40,
-      "category": "美食"
+      "raw_hot": 32671,
+      "num": 59035,
+      "word": "潜艇兵1分钟数十个动作突破海底狼嚎",
+      "onboard_time": 1726347551,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32222,
@@ -553,14 +577,6 @@
       "onboard_time": 1726338793,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 29185,
-      "num": 29185,
-      "word": "四川一地面坍塌女子坠入十几米深坑",
-      "onboard_time": 1726344911,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28792,
@@ -584,14 +600,6 @@
       "word": "90岁硬核老人1小时横渡长江",
       "onboard_time": 1726343471,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12724,
-      "num": 59035,
-      "word": "潜艇兵1分钟数十个动作突破海底狼嚎",
-      "onboard_time": 1726347551,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
