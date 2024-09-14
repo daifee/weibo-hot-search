@@ -1,6 +1,6 @@
 {
   "startTime": 1725726323762,
-  "endTime": 1726282570924,
+  "endTime": 1726284195440,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -1123,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1175528,
+      "num": 1175528,
+      "word": "白鹿在陆虎婚礼上发言",
+      "onboard_time": 1726282399,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1172324,
       "num": 244395,
       "word": "小杨哥妈妈改简介",
@@ -1211,6 +1219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1112279,
+      "num": 1112279,
+      "word": "女子被要求每天给领导带饭但不给钱",
+      "onboard_time": 1726279700,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1111476,
       "num": 345861,
       "word": "沫沫 小杨哥",
@@ -1233,6 +1249,14 @@
       "onboard_time": 1726127961,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1107575,
+      "num": 1107575,
+      "word": "于正回应洪尧黑料",
+      "onboard_time": 1726281258,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 1103808,
@@ -1393,6 +1417,14 @@
       "onboard_time": 1725867799,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1014672,
+      "num": 546039,
+      "word": "王鹤棣KTV喊话",
+      "onboard_time": 1726281979,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 1014315,
@@ -2027,14 +2059,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 787387,
-      "num": 669700,
-      "word": "于正回应洪尧黑料",
-      "onboard_time": 1726281258,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 784743,
       "num": 784743,
       "word": "杨幂新中式秀禾",
@@ -2289,14 +2313,6 @@
       "onboard_time": 1725906314,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 707961,
-      "num": 707961,
-      "word": "女子被要求每天给领导带饭但不给钱",
-      "onboard_time": 1726279700,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 707813,
@@ -3260,7 +3276,7 @@
     },
     {
       "raw_hot": 524895,
-      "num": 421944,
+      "num": 478396,
       "word": "女生许愿不上班被浪撤回一个不",
       "onboard_time": 1726270879,
       "rank": 11,
@@ -3313,6 +3329,14 @@
       "onboard_time": 1726269498,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 515264,
+      "num": 515264,
+      "word": "父母生而不养该承担什么法律责任",
+      "onboard_time": 1726282879,
+      "rank": 12,
+      "category": "社会新闻,母婴育儿"
     },
     {
       "raw_hot": 513762,
@@ -3755,6 +3779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 464795,
+      "num": 464795,
+      "word": "王鹤棣说大奉打更人弄死所有人",
+      "onboard_time": 1726283299,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 463439,
       "num": 463439,
       "word": "春花厌",
@@ -4177,6 +4209,14 @@
       "onboard_time": 1726028122,
       "rank": 25,
       "category": "国内时政,游戏"
+    },
+    {
+      "raw_hot": 420128,
+      "num": 420128,
+      "word": "iPhone16不送苹果logo贴纸",
+      "onboard_time": 1726281019,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 419852,
@@ -4835,14 +4875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 357493,
-      "num": 357493,
-      "word": "iPhone16不送苹果logo贴纸",
-      "onboard_time": 1726281019,
-      "rank": 15,
-      "category": "数码"
-    },
-    {
       "raw_hot": 356200,
       "num": 356200,
       "word": "金在中女团",
@@ -5051,14 +5083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 344278,
-      "num": 344278,
-      "word": "白鹿在陆虎婚礼上发言",
-      "onboard_time": 1726282399,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 344016,
       "num": 393802,
       "word": "蔡依林想烧掉大艺术家所有的帽子",
@@ -5209,6 +5233,14 @@
       "onboard_time": 1725772340,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 326631,
+      "num": 326631,
+      "word": "妈妈一定在天上急得团团转",
+      "onboard_time": 1726279939,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326518,
@@ -5561,6 +5593,14 @@
       "onboard_time": 1725806601,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 306236,
+      "num": 306236,
+      "word": "刘亦菲和助理逛街吃火锅",
+      "onboard_time": 1726283000,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 305915,
@@ -6473,14 +6513,6 @@
       "onboard_time": 1725931099,
       "rank": 23,
       "category": "数码"
-    },
-    {
-      "raw_hot": 252842,
-      "num": 252842,
-      "word": "妈妈一定在天上急得团团转",
-      "onboard_time": 1726279939,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 252511,
@@ -7611,14 +7643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 220138,
-      "num": 220138,
-      "word": "王鹤棣KTV喊话",
-      "onboard_time": 1726281979,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 219697,
       "num": 219697,
       "word": "渤海潍坊港实弹射击",
@@ -8587,6 +8611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200284,
+      "num": 200284,
+      "word": "新规发布后火车票如何改签",
+      "onboard_time": 1726282158,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200210,
       "num": 200210,
       "word": "wtt澳门冠军赛2024",
@@ -9169,6 +9201,14 @@
       "onboard_time": 1726235183,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191072,
+      "num": 191072,
+      "word": "iPhone16系列更换电池费用",
+      "onboard_time": 1726283419,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 190729,
@@ -10001,6 +10041,14 @@
       "onboard_time": 1726105758,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179649,
+      "num": 179649,
+      "word": "金高银头发好短",
+      "onboard_time": 1726282879,
+      "rank": 32,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 179636,
@@ -10899,6 +10947,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 166011,
+      "num": 166011,
+      "word": "中秋火车票改签攻略",
+      "onboard_time": 1726282100,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165926,
       "num": 165926,
       "word": "Scout EDG",
@@ -11185,6 +11241,14 @@
       "onboard_time": 1725774079,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161083,
+      "num": 161083,
+      "word": "易烊千玺对所有的离开都不太敏感",
+      "onboard_time": 1726283000,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 161059,
@@ -12019,14 +12083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150980,
-      "num": 150980,
-      "word": "新规发布后火车票如何改签",
-      "onboard_time": 1726282158,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150906,
       "num": 150906,
       "word": "一人一校38年他把126个学生送出山",
@@ -12323,6 +12379,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 147572,
+      "num": 147572,
+      "word": "不背单词崩了",
+      "onboard_time": 1726281858,
+      "rank": 41,
+      "category": "教育,互联网"
+    },
+    {
       "raw_hot": 147442,
       "num": 161960,
       "word": "田曦薇新剧 只是犯了男人会犯的错",
@@ -12369,14 +12433,6 @@
       "onboard_time": 1725971840,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 147145,
-      "num": 147145,
-      "word": "中秋火车票改签攻略",
-      "onboard_time": 1726282100,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147130,
@@ -12433,14 +12489,6 @@
       "onboard_time": 1725858680,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 145974,
-      "num": 145974,
-      "word": "不背单词崩了",
-      "onboard_time": 1726281858,
-      "rank": 41,
-      "category": "教育,互联网"
     },
     {
       "raw_hot": 145936,
@@ -12713,6 +12761,14 @@
       "onboard_time": 1726144159,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 142854,
+      "num": 142854,
+      "word": "Kanye试听会 种小麦",
+      "onboard_time": 1726283900,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 142787,
@@ -13867,6 +13923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128214,
+      "num": 128214,
+      "word": "维金斯父亲去世",
+      "onboard_time": 1726284079,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128155,
       "num": 128155,
       "word": "哈里斯主动跟特朗普握手",
@@ -13889,6 +13953,14 @@
       "onboard_time": 1726020918,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 127842,
+      "num": 127842,
+      "word": "雨霖铃入江湖概念宣传片",
+      "onboard_time": 1726282819,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 127681,
@@ -14209,6 +14281,14 @@
       "onboard_time": 1725871099,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 123903,
+      "num": 123903,
+      "word": "小林制药牙线等3款产品暂停销售",
+      "onboard_time": 1726283360,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123794,
@@ -17043,6 +17123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64221,
+      "num": 460405,
+      "word": "苹果天猫官旗回应支持24期免息购机",
+      "onboard_time": 1726280359,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 64165,
       "num": 104661,
       "word": "边伯贤演唱会后有戒断反应",
@@ -17747,6 +17835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49126,
+      "num": 458041,
+      "word": "金九银十在这一刻具象化了",
+      "onboard_time": 1726283000,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 48784,
       "num": 852967,
       "word": "凭杭温高铁票可以免费游浙江了",
@@ -17825,6 +17921,22 @@
       "onboard_time": 1726160894,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 47376,
+      "num": 469343,
+      "word": "阳澄湖大闸蟹大量热死精品价涨4成",
+      "onboard_time": 1726283240,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47113,
+      "num": 422054,
+      "word": "二次元美瞳市场乱象频发",
+      "onboard_time": 1726283958,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46738,
@@ -18041,14 +18153,6 @@
       "onboard_time": 1726160835,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 44048,
-      "num": 357575,
-      "word": "苹果天猫官旗回应支持24期免息购机",
-      "onboard_time": 1726280359,
-      "rank": 16,
-      "category": "数码"
     },
     {
       "raw_hot": 43989,
@@ -18640,6 +18744,14 @@
       "word": "原来中国风山水画写意又写实",
       "onboard_time": 1725812598,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35453,
+      "num": 516911,
+      "word": "头部主播带货为何频频翻车",
+      "onboard_time": 1726282879,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -20066,6 +20178,9 @@
     },
     {
       "word": "#习近平签署国家主席令#"
+    },
+    {
+      "word": "#跟着总书记看九曲黄河展新颜#"
     }
   ]
 }
