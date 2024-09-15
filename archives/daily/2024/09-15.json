@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726378682044,
+  "endTime": 1726381720371,
   "band_list": [
     {
       "raw_hot": 1885412,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1139433,
+      "num": 1182309,
+      "word": "国产恋综容不下二本学生吗",
+      "onboard_time": 1726375879,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1109823,
       "num": 1028105,
       "word": "李纯小区不可能先救明星被指偷换概念",
@@ -121,6 +129,14 @@
       "onboard_time": 1726327341,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 876991,
+      "num": 503482,
+      "word": "纪凌尘对沈月说要牵只能牵我的手",
+      "onboard_time": 1726377739,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 824124,
@@ -219,14 +235,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 573601,
-      "num": 573601,
-      "word": "国产恋综容不下二本学生吗",
-      "onboard_time": 1726375879,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 558774,
       "num": 213957,
       "word": "阿里云盘bug现陌生人私密照",
@@ -275,6 +283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 486473,
+      "num": 486473,
+      "word": "私企老板被指玩弄多名已婚女下属",
+      "onboard_time": 1726377079,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 473354,
       "num": 473354,
       "word": "四川江油失联姐弟均已遇难",
@@ -289,6 +305,14 @@
       "onboard_time": 1726320202,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456763,
+      "num": 456763,
+      "word": "多地黑神话墙绘被毁",
+      "onboard_time": 1726377019,
+      "rank": 41,
+      "category": "社会新闻,游戏"
     },
     {
       "raw_hot": 444226,
@@ -313,6 +337,14 @@
       "onboard_time": 1726362858,
       "rank": 5,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 414818,
+      "num": 414818,
+      "word": "空调安装师傅未系安全绳坠亡房主无责",
+      "onboard_time": 1726377379,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 413079,
@@ -475,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323788,
+      "num": 323788,
+      "word": "凡人歌 破房文学",
+      "onboard_time": 1726377678,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 323565,
       "num": 239014,
       "word": "难怪上班没遇到过哈工大的学生",
@@ -595,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263260,
+      "num": 263260,
+      "word": "邝玲玲的痣",
+      "onboard_time": 1726378099,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256492,
       "num": 256492,
       "word": "离婚了也要争婆婆的抚养权",
@@ -604,11 +652,27 @@
     },
     {
       "raw_hot": 254187,
-      "num": 208818,
+      "num": 208858,
       "word": "女子灭蟑螂不料中毒进ICU抢救",
       "onboard_time": 1726374738,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253983,
+      "num": 211109,
+      "word": "狗子啃黄景瑜啃掉一颗牙",
+      "onboard_time": 1726380678,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 247976,
+      "num": 247976,
+      "word": "李多海带妈妈参观上海新家",
+      "onboard_time": 1726379658,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 247481,
@@ -659,28 +723,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 215284,
-      "num": 215284,
-      "word": "纪凌尘对沈月说要牵只能牵我的手",
-      "onboard_time": 1726377739,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 213260,
       "num": 213260,
       "word": "有一种小肚子是骨盆前倾了",
       "onboard_time": 1726353494,
       "rank": 21,
       "category": "运动健身,健康医疗"
-    },
-    {
-      "raw_hot": 212485,
-      "num": 212485,
-      "word": "邝玲玲的痣",
-      "onboard_time": 1726378099,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 211270,
@@ -707,12 +755,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 204178,
-      "num": 204178,
-      "word": "凡人歌 破房文学",
-      "onboard_time": 1726377678,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 203317,
+      "num": 203317,
+      "word": "菲9701号船多次运补失败后撤离",
+      "onboard_time": 1726380857,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 203123,
@@ -723,20 +771,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 202196,
-      "num": 202196,
-      "word": "私企老板被指玩弄多名已婚女下属",
-      "onboard_time": 1726377079,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200568,
       "num": 200568,
       "word": "歼20夜间空中加油画面首次公开",
       "onboard_time": 1726362918,
       "rank": 36,
       "category": "军事"
+    },
+    {
+      "raw_hot": 196961,
+      "num": 193881,
+      "word": "雪迷宫一个伏笔埋了23集",
+      "onboard_time": 1726378519,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196960,
+      "num": 196960,
+      "word": "迪丽热巴妆造",
+      "onboard_time": 1726381459,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 196854,
@@ -756,7 +812,7 @@
     },
     {
       "raw_hot": 194415,
-      "num": 194415,
+      "num": 215122,
       "word": "当代应届生就像没开封的五仁月饼",
       "onboard_time": 1726377498,
       "rank": 47,
@@ -777,14 +833,6 @@
       "onboard_time": 1726374377,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 189825,
-      "num": 189825,
-      "word": "多地黑神话墙绘被毁",
-      "onboard_time": 1726377019,
-      "rank": 41,
-      "category": "社会新闻,游戏"
     },
     {
       "raw_hot": 189650,
@@ -897,6 +945,14 @@
       "onboard_time": 1726369878,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 167657,
+      "num": 167657,
+      "word": "海警回应菲9701号船撤离",
+      "onboard_time": 1726380857,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 165438,
@@ -1025,14 +1081,6 @@
       "onboard_time": 1726325363,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 155609,
-      "num": 155609,
-      "word": "雪迷宫一个伏笔埋了23集",
-      "onboard_time": 1726378519,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 155223,
@@ -1187,6 +1235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 136680,
+      "num": 136680,
+      "word": "雪迷宫",
+      "onboard_time": 1726380320,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136585,
       "num": 136585,
       "word": "成都暴雨",
@@ -1267,6 +1323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117485,
+      "num": 117485,
+      "word": "牛马月饼",
+      "onboard_time": 1726381518,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 117393,
       "num": 460155,
       "word": "高校课贩子抢到选修课名额后高价转卖",
@@ -1281,6 +1345,14 @@
       "onboard_time": 1726326742,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 112155,
+      "num": 112155,
+      "word": "赴山海预约人数",
+      "onboard_time": 1726381638,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 111853,
@@ -1363,20 +1435,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102266,
+      "num": 102266,
+      "word": "螃蟹就吃二两母",
+      "onboard_time": 1726381638,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 101783,
       "num": 101783,
       "word": "乌克兰父子火车站最后一面",
       "onboard_time": 1726356736,
       "rank": 33,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 92598,
-      "num": 212576,
-      "word": "空调安装师傅未系安全绳坠亡房主无责",
-      "onboard_time": 1726377379,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92127,
@@ -1499,6 +1571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41919,
+      "num": 198830,
+      "word": "中介用卡片开门闯入逼女租客离开",
+      "onboard_time": 1726380978,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40280,
       "num": 1358548,
       "word": "哪个瞬间勾起你的乡愁",
@@ -1529,6 +1609,14 @@
       "onboard_time": 1726321942,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36570,
+      "num": 199324,
+      "word": "沈渡 行也思幸坐也思幸",
+      "onboard_time": 1726381698,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 34407,
@@ -1611,6 +1699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 25015,
+      "num": 198685,
+      "word": "速度与激情具象化了",
+      "onboard_time": 1726378039,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 24975,
       "num": 248201,
       "word": "女到中年我重新爱上骑车",
@@ -1627,12 +1723,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19449,
-      "num": 162095,
-      "word": "速度与激情具象化了",
-      "onboard_time": 1726378039,
-      "rank": 37,
-      "category": "电影"
+      "raw_hot": 20198,
+      "num": 263458,
+      "word": "光大投行员工涉内幕交易亏损532万元",
+      "onboard_time": 1726380198,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 19915,
+      "num": 227354,
+      "word": "海南文昌166个村还未恢复供电",
+      "onboard_time": 1726380378,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19234,
@@ -1659,7 +1763,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9367,
+      "raw_hot": 9521,
       "num": 551289,
       "word": "人民军队淬火向前",
       "onboard_time": 1726081931,
