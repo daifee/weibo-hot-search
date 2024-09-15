@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726411007355,
+  "endTime": 1726413654435,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -49,6 +49,14 @@
       "onboard_time": 1726370599,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1734503,
+      "num": 1585884,
+      "word": "张凌赫边吻边十指紧扣",
+      "onboard_time": 1726409181,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 1733437,
@@ -179,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1268826,
+      "num": 1268826,
+      "word": "台风普拉桑生成",
+      "onboard_time": 1726411400,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1244800,
       "num": 1244800,
       "word": "五仁月饼为啥被那么多人嫌弃",
@@ -291,14 +307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 897396,
-      "num": 897396,
-      "word": "张凌赫边吻边十指紧扣",
-      "onboard_time": 1726409181,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 876991,
       "num": 706185,
       "word": "纪凌尘对沈月说要牵只能牵我的手",
@@ -313,6 +321,14 @@
       "onboard_time": 1726370238,
       "rank": 15,
       "category": "教育"
+    },
+    {
+      "raw_hot": 818492,
+      "num": 818492,
+      "word": "贝碧嘉或以强台风级登陆浙江上海一带",
+      "onboard_time": 1726403361,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 817009,
@@ -401,6 +417,14 @@
       "onboard_time": 1726370238,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 648996,
+      "num": 648996,
+      "word": "吴谨言竟然不吃猪肉",
+      "onboard_time": 1726408402,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 644081,
@@ -531,14 +555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 550582,
-      "num": 747789,
-      "word": "贝碧嘉或以强台风级登陆浙江上海一带",
-      "onboard_time": 1726403361,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 540023,
       "num": 540023,
       "word": "厂长在全红婵村里发数万只小乌龟",
@@ -584,6 +600,14 @@
       "word": "雨霖铃开机",
       "onboard_time": 1726365558,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 513575,
+      "num": 513575,
+      "word": "于正压王鹤棣大奉打更人大爆",
+      "onboard_time": 1726407562,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -651,20 +675,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 482976,
+      "num": 387127,
+      "word": "为什么鸭子不惧怕台风",
+      "onboard_time": 1726408042,
+      "rank": 23,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 473354,
       "num": 473354,
       "word": "四川江油失联姐弟均已遇难",
       "onboard_time": 1726323142,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 472449,
-      "num": 472449,
-      "word": "于正压王鹤棣大奉打更人大爆",
-      "onboard_time": 1726407562,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 471312,
@@ -697,6 +721,14 @@
       "onboard_time": 1726374259,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 429367,
+      "num": 283574,
+      "word": "女子轻断食一天吃11个玉米",
+      "onboard_time": 1726411581,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 426943,
@@ -795,14 +827,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 387127,
-      "num": 387127,
-      "word": "为什么鸭子不惧怕台风",
-      "onboard_time": 1726408042,
-      "rank": 23,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 382723,
       "num": 444668,
       "word": "上海浙江海域或有4米巨浪",
@@ -849,14 +873,6 @@
       "onboard_time": 1726357817,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 370973,
-      "num": 370973,
-      "word": "吴谨言竟然不吃猪肉",
-      "onboard_time": 1726408402,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 369721,
@@ -921,6 +937,14 @@
       "onboard_time": 1726317261,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 357479,
+      "num": 357479,
+      "word": "香港小姐",
+      "onboard_time": 1726406422,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 355565,
@@ -1091,14 +1115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302649,
-      "num": 302649,
-      "word": "香港小姐",
-      "onboard_time": 1726406422,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 301188,
       "num": 301188,
       "word": "WTT 福冈总决赛",
@@ -1137,6 +1153,14 @@
       "onboard_time": 1726381638,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 292607,
+      "num": 292607,
+      "word": "鹭卓直播",
+      "onboard_time": 1726411162,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 288092,
@@ -1339,6 +1363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 243381,
+      "num": 234608,
+      "word": "台风贝碧嘉还没走普拉桑又来了",
+      "onboard_time": 1726413321,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243292,
       "num": 243292,
       "word": "高铁停运",
@@ -1403,6 +1435,38 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234561,
+      "num": 234561,
+      "word": "赵小童直播",
+      "onboard_time": 1726410080,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 234452,
+      "num": 234452,
+      "word": "Cat直播",
+      "onboard_time": 1726411461,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 228265,
+      "num": 228265,
+      "word": "北伦敦德比",
+      "onboard_time": 1726413321,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 224731,
+      "num": 224731,
+      "word": "张雨绮脱口秀",
+      "onboard_time": 1726412781,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224095,
       "num": 613281,
       "word": "上海启动台风一级应急响应",
@@ -1417,6 +1481,14 @@
       "onboard_time": 1726356196,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 222352,
+      "num": 222352,
+      "word": "苏州应急转移近万名外来务工人员",
+      "onboard_time": 1726413441,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220385,
@@ -1459,14 +1531,6 @@
       "category": "运动健身,健康医疗"
     },
     {
-      "raw_hot": 213030,
-      "num": 213030,
-      "word": "赵小童直播",
-      "onboard_time": 1726410080,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 212696,
       "num": 212696,
       "word": "韩安冉说吴谨言高端",
@@ -1489,6 +1553,14 @@
       "onboard_time": 1726403482,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 208675,
+      "num": 208675,
+      "word": "你的善良里藏着你的福气",
+      "onboard_time": 1726409541,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 207999,
@@ -1579,12 +1651,20 @@
       "category": "军事"
     },
     {
-      "raw_hot": 197254,
-      "num": 197254,
-      "word": "你的善良里藏着你的福气",
-      "onboard_time": 1726409541,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 200293,
+      "num": 200293,
+      "word": "TT再获周冠军",
+      "onboard_time": 1726413321,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 198167,
+      "num": 198167,
+      "word": "侃爷海口试听会舞台",
+      "onboard_time": 1726409961,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 196570,
@@ -1667,6 +1747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189711,
+      "num": 189711,
+      "word": "张奕然 14岁要长到175",
+      "onboard_time": 1726412781,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189650,
       "num": 189650,
       "word": "老板买到15盒香港月饼哭诉不发了",
@@ -1681,6 +1769,22 @@
       "onboard_time": 1726377019,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 189027,
+      "num": 189027,
+      "word": "热刺0比1阿森纳",
+      "onboard_time": 1726413259,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 187468,
+      "num": 187468,
+      "word": "贝碧嘉或成75年来入沪最强台风",
+      "onboard_time": 1726409422,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186805,
@@ -1705,6 +1809,14 @@
       "onboard_time": 1726332436,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184727,
+      "num": 184727,
+      "word": "AG金色的雨",
+      "onboard_time": 1726413321,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 184142,
@@ -1851,6 +1963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173503,
+      "num": 173503,
+      "word": "王俊凯演技",
+      "onboard_time": 1726411341,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 171568,
       "num": 181865,
       "word": "中秋是仅次于春节的传统节日",
@@ -1945,6 +2065,14 @@
       "onboard_time": 1726368017,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162013,
+      "num": 162013,
+      "word": "天周决赛MVP",
+      "onboard_time": 1726413321,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 161921,
@@ -2539,6 +2667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116768,
+      "num": 293548,
+      "word": "何浩楠 卷发小帅收工",
+      "onboard_time": 1726413321,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116079,
       "num": 116079,
       "word": "今晚看WTT决赛",
@@ -2835,6 +2971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54346,
+      "num": 552813,
+      "word": "住建局回应女孩坠井父亲阻拦施救",
+      "onboard_time": 1726413019,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51945,
       "num": 471316,
       "word": "商场禁止新能源车停地库合法吗",
@@ -2995,6 +3139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 33456,
+      "num": 376628,
+      "word": "帮朋友送跑车保养撞车修车费30万",
+      "onboard_time": 1726413080,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33276,
       "num": 35234,
       "word": "你好星期六",
@@ -3040,6 +3192,14 @@
       "word": "海南文昌166个村还未恢复供电",
       "onboard_time": 1726380378,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30437,
+      "num": 185794,
+      "word": "上海台风",
+      "onboard_time": 1726285940,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
