@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726407311844,
+  "endTime": 1726409919433,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1506407,
+      "num": 1506407,
+      "word": "AG夏季赛夺冠",
+      "onboard_time": 1726407442,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1471152,
       "num": 305489,
       "word": "家长群内连发不雅视频撕另一家长",
@@ -185,6 +193,14 @@
       "onboard_time": 1726393040,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1163803,
+      "num": 392717,
+      "word": "妻子为徐少强办后事时心脏病发离世",
+      "onboard_time": 1726406842,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1155941,
@@ -379,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 644081,
+      "num": 644081,
+      "word": "AG对战KSG",
+      "onboard_time": 1726391120,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 641437,
       "num": 641437,
       "word": "断供房贷被冷处理",
@@ -425,14 +449,6 @@
       "onboard_time": 1726371319,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 606949,
-      "num": 606949,
-      "word": "AG对战KSG",
-      "onboard_time": 1726391120,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 606050,
@@ -563,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 514615,
+      "num": 514615,
+      "word": "张凌赫边吻边十指紧扣",
+      "onboard_time": 1726409181,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 509627,
       "num": 509627,
       "word": "私企老板被指玩弄多名已婚女下属",
@@ -611,12 +635,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 476560,
-      "num": 476560,
+      "raw_hot": 485963,
+      "num": 485963,
       "word": "周深身上好多针",
       "onboard_time": 1726404681,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 479213,
+      "num": 479213,
+      "word": "台风",
+      "onboard_time": 1726302200,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 473354,
@@ -633,6 +665,14 @@
       "onboard_time": 1726320202,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 460443,
+      "num": 460443,
+      "word": "于正压王鹤棣大奉打更人大爆",
+      "onboard_time": 1726407562,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 454238,
@@ -659,14 +699,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 430860,
-      "num": 430860,
-      "word": "台风",
-      "onboard_time": 1726302200,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 426943,
       "num": 382928,
       "word": "周雨说林诗栋的打法非常可怕",
@@ -691,14 +723,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 414404,
-      "num": 354374,
-      "word": "妻子为徐少强办后事时心脏病发离世",
-      "onboard_time": 1726406842,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 413079,
       "num": 491787,
       "word": "落ye归根",
@@ -715,12 +739,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 399761,
+      "num": 399761,
+      "word": "孙颖莎说回家过中秋喽",
+      "onboard_time": 1726406901,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 399272,
       "num": 399272,
       "word": "陈震",
       "onboard_time": 1726383198,
       "rank": 15,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 398482,
+      "num": 398482,
+      "word": "钟意荣获夏决FMVP",
+      "onboard_time": 1726408643,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 397075,
@@ -763,8 +803,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 382462,
-      "num": 382462,
+      "raw_hot": 382664,
+      "num": 382664,
       "word": "那隽李晓悦分手",
       "onboard_time": 1726405222,
       "rank": 17,
@@ -785,6 +825,14 @@
       "onboard_time": 1726392740,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 377338,
+      "num": 377338,
+      "word": "为什么鸭子不惧怕台风",
+      "onboard_time": 1726408042,
+      "rank": 23,
+      "category": "科学科普"
     },
     {
       "raw_hot": 374081,
@@ -915,6 +963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 342934,
+      "num": 342934,
+      "word": "吴谨言竟然不吃猪肉",
+      "onboard_time": 1726408402,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 334843,
       "num": 334843,
       "word": "陆虎晒婚礼vlog",
@@ -963,6 +1019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 317402,
+      "num": 317402,
+      "word": "一诺下一个五年还想留在赛场",
+      "onboard_time": 1726409422,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 314783,
       "num": 314783,
       "word": "79岁奶奶回应坚持健身19年",
@@ -996,7 +1060,7 @@
     },
     {
       "raw_hot": 306509,
-      "num": 306509,
+      "num": 539874,
       "word": "台风天非必要不外出",
       "onboard_time": 1726398082,
       "rank": 30,
@@ -1025,6 +1089,14 @@
       "onboard_time": 1726362858,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302649,
+      "num": 302649,
+      "word": "香港小姐",
+      "onboard_time": 1726406422,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 301188,
@@ -1171,6 +1243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259182,
+      "num": 259182,
+      "word": "终于有古装剧的公主抱不是转圈了",
+      "onboard_time": 1726408341,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257789,
       "num": 270801,
       "word": "王骁没有台词的四分钟",
@@ -1243,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247823,
+      "num": 247823,
+      "word": "林诗栋说自己不年轻了",
+      "onboard_time": 1726407261,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247481,
       "num": 247481,
       "word": "王源让敖子逸给粉丝转50",
@@ -1267,14 +1355,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 241523,
-      "num": 241523,
-      "word": "香港小姐",
-      "onboard_time": 1726406422,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 241218,
       "num": 241218,
       "word": "田启文透露徐少强夫人也于近日过世",
@@ -1289,6 +1369,14 @@
       "onboard_time": 1726403663,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239223,
+      "num": 239223,
+      "word": "张绍刚与十个勤天成员聚餐",
+      "onboard_time": 1726408760,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 238990,
@@ -1691,6 +1779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176361,
+      "num": 176361,
+      "word": "你的善良里藏着你的福气",
+      "onboard_time": 1726409541,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 176140,
       "num": 176140,
       "word": "教资作文 跑题",
@@ -1705,14 +1801,6 @@
       "onboard_time": 1726403361,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175632,
-      "num": 175632,
-      "word": "孙颖莎说回家过中秋喽",
-      "onboard_time": 1726406901,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 175275,
@@ -1753,6 +1841,14 @@
       "onboard_time": 1726384219,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 170902,
+      "num": 170902,
+      "word": "军训就该有点军人的样子",
+      "onboard_time": 1726406781,
+      "rank": 39,
+      "category": "军事"
     },
     {
       "raw_hot": 170754,
@@ -2003,6 +2099,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 152362,
+      "num": 152362,
+      "word": "KSG在干嘛",
+      "onboard_time": 1726403121,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151806,
       "num": 151806,
       "word": "大帅张良节奏发动机",
@@ -2195,12 +2299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136113,
-      "num": 136113,
-      "word": "林诗栋说自己不年轻了",
-      "onboard_time": 1726407261,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 136195,
+      "num": 136195,
+      "word": "王源清唱因为遇见你",
+      "onboard_time": 1726409901,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 135266,
@@ -2752,6 +2856,14 @@
       "word": "哪个瞬间勾起你的乡愁",
       "onboard_time": 1726368559,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40167,
+      "num": 464171,
+      "word": "商场禁止新能源车停地库合法吗",
+      "onboard_time": 1726409782,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
