@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726403908752,
+  "endTime": 1726404844461,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -57,6 +57,14 @@
       "onboard_time": 1726385120,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1727973,
+      "num": 1105733,
+      "word": "于适 张雨绮",
+      "onboard_time": 1726402521,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1607573,
@@ -203,14 +211,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1105733,
-      "num": 1105733,
-      "word": "于适 张雨绮",
-      "onboard_time": 1726402521,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1097764,
       "num": 1097764,
       "word": "教资科二",
@@ -248,6 +248,14 @@
       "word": "许昕说王楚钦能来打澳门赛不容易",
       "onboard_time": 1726327341,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 946690,
+      "num": 946690,
+      "word": "孙颖莎说回北京请王艺迪吃好的",
+      "onboard_time": 1726403361,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -369,6 +377,14 @@
       "onboard_time": 1726314321,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 638403,
+      "num": 568234,
+      "word": "kimi15岁了",
+      "onboard_time": 1726404081,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 633990,
@@ -643,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 402961,
+      "num": 402961,
+      "word": "贝碧嘉或以强台风级登陆浙江上海一带",
+      "onboard_time": 1726403361,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400597,
       "num": 400597,
       "word": "歼20视角看宝岛",
@@ -740,7 +764,7 @@
     },
     {
       "raw_hot": 366639,
-      "num": 366639,
+      "num": 577122,
       "word": "大学女生陪爬泰山只收20元",
       "onboard_time": 1726398142,
       "rank": 28,
@@ -827,14 +851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 342659,
-      "num": 342659,
-      "word": "孙颖莎说回北京请王艺迪吃好的",
-      "onboard_time": 1726403361,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 334843,
       "num": 334843,
       "word": "陆虎晒婚礼vlog",
@@ -883,14 +899,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 321841,
-      "num": 321841,
-      "word": "贝碧嘉或以强台风级登陆浙江上海一带",
-      "onboard_time": 1726403361,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 314783,
       "num": 314783,
       "word": "79岁奶奶回应坚持健身19年",
@@ -921,6 +929,14 @@
       "onboard_time": 1726339993,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 306509,
+      "num": 306509,
+      "word": "台风天非必要不外出",
+      "onboard_time": 1726398082,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305336,
@@ -971,14 +987,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 297892,
-      "num": 297892,
-      "word": "台风天非必要不外出",
-      "onboard_time": 1726398082,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 296166,
       "num": 296166,
       "word": "06年小学老师的一天",
@@ -1017,6 +1025,14 @@
       "onboard_time": 1726397724,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 280830,
+      "num": 280830,
+      "word": "刘耀文路透",
+      "onboard_time": 1726403422,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 280487,
@@ -1259,6 +1275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 217236,
+      "num": 217236,
+      "word": "终于有剧能一眼认出长大的亲人了",
+      "onboard_time": 1726403841,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213260,
       "num": 213260,
       "word": "有一种小肚子是骨盆前倾了",
@@ -1331,6 +1355,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204710,
+      "num": 204710,
+      "word": "王者荣耀",
+      "onboard_time": 1726404381,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 203124,
+      "num": 203124,
+      "word": "F1阿塞拜疆大奖赛",
+      "onboard_time": 1726404261,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203123,
       "num": 203123,
       "word": "赵一博个人首封",
@@ -1363,6 +1403,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 200538,
+      "num": 211772,
+      "word": "周深身上好多针",
+      "onboard_time": 1726404681,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195868,
       "num": 195868,
       "word": "龙傲天你这样谈我可不困了",
@@ -1387,12 +1435,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 195439,
-      "num": 195439,
-      "word": "刘耀文路透",
-      "onboard_time": 1726403422,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 194422,
+      "num": 207187,
+      "word": "王一博也逃不过3秒定律",
+      "onboard_time": 1726404621,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 194415,
@@ -1467,6 +1515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185398,
+      "num": 185398,
+      "word": "孙颖莎展示冠军奖杯",
+      "onboard_time": 1726404742,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183832,
       "num": 173078,
       "word": "赴山海预约人数",
@@ -1513,6 +1569,14 @@
       "onboard_time": 1726302019,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 179258,
+      "num": 179258,
+      "word": "AG稳住",
+      "onboard_time": 1726403900,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 178603,
@@ -1707,19 +1771,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160223,
+      "num": 160223,
+      "word": "易烊千玺熟了",
+      "onboard_time": 1726404800,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 159774,
+      "num": 159774,
+      "word": "牛姐演唱会",
+      "onboard_time": 1726404563,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 159088,
       "num": 159088,
       "word": "看凡人歌那隽离职爽到了",
       "onboard_time": 1726388959,
       "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 158783,
-      "num": 158783,
-      "word": "终于有剧能一眼认出长大的亲人了",
-      "onboard_time": 1726403841,
-      "rank": 48,
       "category": "剧集"
     },
     {
