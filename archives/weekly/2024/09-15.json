@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726404844461,
+  "endTime": 1726406604405,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -97,6 +97,22 @@
       "onboard_time": 1726359677,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1532096,
+      "num": 919576,
+      "word": "kimi15岁了",
+      "onboard_time": 1726404081,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1506570,
+      "num": 1506570,
+      "word": "林诗栋男单冠军",
+      "onboard_time": 1726405523,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1471152,
@@ -228,7 +244,7 @@
     },
     {
       "raw_hot": 1031259,
-      "num": 610483,
+      "num": 669316,
       "word": "周澄奥 已婚有娃",
       "onboard_time": 1726401441,
       "rank": 10,
@@ -379,14 +395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 638403,
-      "num": 568234,
-      "word": "kimi15岁了",
-      "onboard_time": 1726404081,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 633990,
       "num": 633990,
       "word": "女主被男主捅了",
@@ -507,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 538267,
+      "num": 538267,
+      "word": "孙颖莎展示冠军奖杯",
+      "onboard_time": 1726404742,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 534063,
       "num": 534063,
       "word": "广州美诚工作人员回应月饼争议",
@@ -553,6 +569,14 @@
       "onboard_time": 1726319903,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 497633,
+      "num": 747789,
+      "word": "贝碧嘉或以强台风级登陆浙江上海一带",
+      "onboard_time": 1726403361,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 493017,
@@ -635,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 426943,
+      "num": 200523,
+      "word": "周雨说林诗栋的打法非常可怕",
+      "onboard_time": 1726405461,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 418469,
       "num": 418469,
       "word": "李纯小区物业称不可能先救明星",
@@ -657,14 +689,6 @@
       "onboard_time": 1726370658,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 402961,
-      "num": 402961,
-      "word": "贝碧嘉或以强台风级登陆浙江上海一带",
-      "onboard_time": 1726403361,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 400597,
@@ -715,6 +739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 385560,
+      "num": 385560,
+      "word": "周深身上好多针",
+      "onboard_time": 1726404681,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 382723,
       "num": 444668,
       "word": "上海浙江海域或有4米巨浪",
@@ -729,6 +761,14 @@
       "onboard_time": 1726330160,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 378981,
+      "num": 378981,
+      "word": "那隽李晓悦分手",
+      "onboard_time": 1726405222,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 377796,
@@ -848,6 +888,22 @@
       "word": "许昕说孙颖莎今天状态只有7分",
       "onboard_time": 1726326382,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 337482,
+      "num": 337482,
+      "word": "易烊千玺熟了",
+      "onboard_time": 1726404800,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 336552,
+      "num": 336552,
+      "word": "孙颖莎展望北京大满贯",
+      "onboard_time": 1726405161,
+      "rank": 20,
       "category": "体育"
     },
     {
@@ -1083,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265522,
+      "num": 435304,
+      "word": "林诗栋vs邱党",
+      "onboard_time": 1726325962,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 264066,
       "num": 264066,
       "word": "网友曝申请退货美诚月饼遭拒",
@@ -1211,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238525,
+      "num": 238525,
+      "word": "终于有剧能一眼认出长大的亲人了",
+      "onboard_time": 1726403841,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 237833,
       "num": 361929,
       "word": "美诚月饼产自广东在港注册商标",
@@ -1273,14 +1345,6 @@
       "onboard_time": 1726317502,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 217236,
-      "num": 217236,
-      "word": "终于有剧能一眼认出长大的亲人了",
-      "onboard_time": 1726403841,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 213260,
@@ -1403,12 +1467,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 200538,
-      "num": 211772,
-      "word": "周深身上好多针",
-      "onboard_time": 1726404681,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 196570,
+      "num": 196570,
+      "word": "林诗栋4比0邱党",
+      "onboard_time": 1726406002,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 195868,
@@ -1515,12 +1579,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185398,
-      "num": 185398,
-      "word": "孙颖莎展示冠军奖杯",
-      "onboard_time": 1726404742,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 184142,
+      "num": 184142,
+      "word": "546米上海之巅看台风来临",
+      "onboard_time": 1726405341,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183832,
@@ -1771,14 +1835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160223,
-      "num": 160223,
-      "word": "易烊千玺熟了",
-      "onboard_time": 1726404800,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 159774,
       "num": 159774,
       "word": "牛姐演唱会",
@@ -1953,6 +2009,14 @@
       "onboard_time": 1726382359,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149078,
+      "num": 149078,
+      "word": "香港小姐",
+      "onboard_time": 1726406422,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 149004,
@@ -2347,14 +2411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112063,
-      "num": 435304,
-      "word": "林诗栋vs邱党",
-      "onboard_time": 1726325962,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 111853,
       "num": 111853,
       "word": "贝碧嘉暴雨或将在上海中秋前结束",
@@ -2617,6 +2673,14 @@
       "onboard_time": 1726374019,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 48139,
+      "num": 1516809,
+      "word": "中国铁路营业里程超16万公里",
+      "onboard_time": 1726405523,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48063,
@@ -2927,6 +2991,9 @@
     },
     {
       "word": "#总书记这样谈中华优秀传统文化#"
+    },
+    {
+      "word": "#三次座谈会总书记情系母亲河#"
     }
   ]
 }
