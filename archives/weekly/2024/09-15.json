@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726427807695,
+  "endTime": 1726428910304,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -2843,6 +2843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112274,
+      "num": 112274,
+      "word": "台风贝碧嘉直播",
+      "onboard_time": 1726425133,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112163,
       "num": 112163,
       "word": "背着明浩跑",
@@ -3073,14 +3081,6 @@
       "onboard_time": 1726376539,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 68595,
-      "num": 68595,
-      "word": "台风贝碧嘉直播",
-      "onboard_time": 1726425133,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67164,
@@ -3387,6 +3387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32508,
+      "num": 86124,
+      "word": "台风贝碧嘉中心预计将经过苏州",
+      "onboard_time": 1726427232,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32222,
       "num": 32222,
       "word": "FULLMOON颁奖盛典",
@@ -3467,14 +3475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26467,
-      "num": 26467,
-      "word": "台风贝碧嘉中心预计将经过苏州",
-      "onboard_time": 1726427232,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25021,
       "num": 25021,
       "word": "野孩子 事实孤儿",
@@ -3513,6 +3513,14 @@
       "onboard_time": 1726343471,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22680,
+      "num": 22680,
+      "word": "王源饭撒",
+      "onboard_time": 1726428612,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 20198,
