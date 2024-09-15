@@ -1,0 +1,410 @@
+{
+  "runTime": 1726414518235,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1635650,
+        "num": 1635650,
+        "word": "台风普拉桑生成",
+        "onboard_time": 1726411400,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1272110,
+        "num": 1272110,
+        "word": "于适工作室发声明",
+        "onboard_time": 1726395980,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34442,
+        "num": 932795,
+        "word": "中国铁路营业里程超16万公里",
+        "onboard_time": 1726405523,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 823810,
+        "num": 823810,
+        "word": "贝碧嘉或以强台风级登陆浙江上海一带",
+        "onboard_time": 1726403361,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 741266,
+        "num": 741266,
+        "word": "孙颖莎冠军",
+        "onboard_time": 1726401802,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 532715,
+        "num": 532715,
+        "word": "贝碧嘉",
+        "onboard_time": 1726393040,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 948671,
+        "num": 527819,
+        "word": "于适 张雨绮",
+        "onboard_time": 1726402521,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 583217,
+        "num": 508708,
+        "word": "吴谨言竟然不吃猪肉",
+        "onboard_time": 1726408402,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 469886,
+        "num": 469886,
+        "word": "于正压王鹤棣大奉打更人大爆",
+        "onboard_time": 1726407562,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83367,
+        "num": 447208,
+        "word": "住建局回应女孩坠井父亲阻拦施救",
+        "onboard_time": 1726413019,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567039,
+        "num": 444832,
+        "word": "男子用筋膜枪按摩眼睛视力仅余0.1",
+        "onboard_time": 1726396221,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440754,
+        "num": 440754,
+        "word": "台风贝碧嘉还没走普拉桑又来了",
+        "onboard_time": 1726413321,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401994,
+        "num": 401994,
+        "word": "台风",
+        "onboard_time": 1726302200,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375155,
+        "num": 375155,
+        "word": "林诗栋男单冠军",
+        "onboard_time": 1726405523,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49085,
+        "num": 317525,
+        "word": "帮朋友送跑车保养撞车修车费30万",
+        "onboard_time": 1726413080,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299114,
+        "num": 299114,
+        "word": "香港小姐",
+        "onboard_time": 1726406422,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293663,
+        "num": 293663,
+        "word": "AG夏季赛夺冠",
+        "onboard_time": 1726407442,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 231852,
+        "num": 291145,
+        "word": "何浩楠 卷发小帅收工",
+        "onboard_time": 1726413321,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290199,
+        "num": 290199,
+        "word": "百万粉丝网红小小努力生活被抓",
+        "onboard_time": 1726397362,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 288282,
+        "num": 288282,
+        "word": "那隽李晓悦分手",
+        "onboard_time": 1726405222,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 944471,
+        "num": 287128,
+        "word": "妻子为徐少强办后事时心脏病发离世",
+        "onboard_time": 1726406842,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 718294,
+        "num": 282241,
+        "word": "kimi15岁了",
+        "onboard_time": 1726404081,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520797,
+        "num": 280015,
+        "word": "女子轻断食一天吃11个玉米",
+        "onboard_time": 1726411581,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448584,
+        "num": 275214,
+        "word": "为什么鸭子不惧怕台风",
+        "onboard_time": 1726408042,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 272667,
+        "num": 272667,
+        "word": "徐少强去世",
+        "onboard_time": 1726390638,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262737,
+        "num": 262737,
+        "word": "周澄奥 已婚有娃",
+        "onboard_time": 1726401441,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257771,
+        "num": 257771,
+        "word": "台风天非必要不外出",
+        "onboard_time": 1726398082,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248422,
+        "num": 248422,
+        "word": "终于有古装剧的公主抱不是转圈了",
+        "onboard_time": 1726408341,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245034,
+        "num": 245034,
+        "word": "苏州应急转移近万名外来务工人员",
+        "onboard_time": 1726413441,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229345,
+        "num": 229345,
+        "word": "张雨绮脱口秀",
+        "onboard_time": 1726412781,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220424,
+        "num": 220424,
+        "word": "贝碧嘉或成75年来入沪最强台风",
+        "onboard_time": 1726409422,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215750,
+        "num": 215750,
+        "word": "樱桃琥珀",
+        "onboard_time": 1726413979,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209370,
+        "num": 209370,
+        "word": "断供房贷被冷处理",
+        "onboard_time": 1726398142,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204397,
+        "num": 204397,
+        "word": "AG全员晒冠军自拍",
+        "onboard_time": 1726413979,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 201500,
+        "num": 201500,
+        "word": "中央气象台台风红色预警发布",
+        "onboard_time": 1726397182,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40642,
+        "num": 199995,
+        "word": "上海台风",
+        "onboard_time": 1726285940,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37955,
+        "num": 198771,
+        "word": "AG淋的金色雨是海信下的",
+        "onboard_time": 1726414100,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198322,
+        "num": 198322,
+        "word": "周深身上好多针",
+        "onboard_time": 1726404681,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197488,
+        "num": 197488,
+        "word": "孙颖莎说回家过中秋喽",
+        "onboard_time": 1726406901,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193146,
+        "num": 193146,
+        "word": "Cat直播",
+        "onboard_time": 1726411461,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192934,
+        "num": 192934,
+        "word": "侃爷海口试听会舞台",
+        "onboard_time": 1726409961,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184653,
+        "num": 184653,
+        "word": "易烊千玺熟了",
+        "onboard_time": 1726404800,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184604,
+        "num": 184604,
+        "word": "赵小童直播",
+        "onboard_time": 1726410080,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158177,
+        "num": 158177,
+        "word": "热刺0比1阿森纳",
+        "onboard_time": 1726413259,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156681,
+        "num": 156681,
+        "word": "Fly每一次决赛都让人热血沸腾",
+        "onboard_time": 1726414341,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153262,
+        "num": 153262,
+        "word": "鹭卓直播",
+        "onboard_time": 1726411162,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153116,
+        "num": 153116,
+        "word": "王俊凯演技",
+        "onboard_time": 1726411341,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152799,
+        "num": 152799,
+        "word": "AG对战KSG",
+        "onboard_time": 1726393220,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151534,
+        "num": 151534,
+        "word": "江浙沪又来新台风",
+        "onboard_time": 1726414460,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149790,
+        "num": 149790,
+        "word": "王一博 男孩子矫情点怎么了",
+        "onboard_time": 1726414159,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#三次座谈会总书记情系母亲河#"
+    }
+  }
+}
