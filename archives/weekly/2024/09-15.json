@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726438836631,
+  "endTime": 1726439886135,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -547,6 +547,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 573921,
+      "num": 573921,
+      "word": "台风贝碧嘉中心预计将经过苏州",
+      "onboard_time": 1726427232,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 569173,
       "num": 242449,
       "word": "当近视600度的室友去挂毛巾",
@@ -753,14 +761,6 @@
       "onboard_time": 1726395260,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 448940,
-      "num": 448940,
-      "word": "台风贝碧嘉中心预计将经过苏州",
-      "onboard_time": 1726427232,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 444226,
@@ -2019,6 +2019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176595,
+      "num": 176595,
+      "word": "台风贝碧嘉直播",
+      "onboard_time": 1726425133,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176140,
       "num": 176140,
       "word": "教资作文 跑题",
@@ -2651,14 +2659,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 131319,
-      "num": 131319,
-      "word": "台风贝碧嘉直播",
-      "onboard_time": 1726425133,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131077,
       "num": 131077,
       "word": "收到礼物你会第一时间搜价格吗",
@@ -3011,6 +3011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96059,
+      "num": 135536,
+      "word": "菲海警船撤了另一艘旧军舰也该走了",
+      "onboard_time": 1726420815,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 92127,
       "num": 92127,
       "word": "张本美和反手",
@@ -3075,12 +3083,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 69852,
-      "num": 69852,
-      "word": "菲海警船撤了另一艘旧军舰也该走了",
-      "onboard_time": 1726420815,
-      "rank": 38,
-      "category": "国外时政"
+      "raw_hot": 70858,
+      "num": 199995,
+      "word": "上海台风",
+      "onboard_time": 1726285940,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69159,
@@ -3195,11 +3203,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 50359,
-      "num": 199995,
-      "word": "上海台风",
-      "onboard_time": 1726285940,
-      "rank": 45,
+      "raw_hot": 49691,
+      "num": 49691,
+      "word": "北京最大灯会亮灯",
+      "onboard_time": 1726436051,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -3219,6 +3227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48889,
+      "num": 48889,
+      "word": "陆家嘴三件套顶层最大风力可达15级",
+      "onboard_time": 1726431491,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48139,
       "num": 1697983,
       "word": "中国铁路营业里程超16万公里",
@@ -3235,6 +3251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47344,
+      "num": 47344,
+      "word": "一只鸡换来七个干儿子",
+      "onboard_time": 1726433111,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 46983,
       "num": 45847,
       "word": "那隽 吾辈楷模",
@@ -3243,20 +3267,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 46832,
-      "num": 46832,
-      "word": "北京最大灯会亮灯",
-      "onboard_time": 1726436051,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46566,
-      "num": 46566,
-      "word": "陆家嘴三件套顶层最大风力可达15级",
-      "onboard_time": 1726431491,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 46333,
+      "num": 49262,
+      "word": "金晨央视中秋晚会唱跳都有了",
+      "onboard_time": 1726438333,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 46147,
@@ -3281,14 +3297,6 @@
       "onboard_time": 1726320864,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 42283,
-      "num": 42283,
-      "word": "一只鸡换来七个干儿子",
-      "onboard_time": 1726433111,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 41919,
@@ -3352,6 +3360,14 @@
       "word": "被指消费女性公考机构岂能如此三观不正",
       "onboard_time": 1726410080,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37790,
+      "num": 61885,
+      "word": "浙江沿海岛屿巨浪翻涌",
+      "onboard_time": 1726429271,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -3427,14 +3443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32633,
-      "num": 61885,
-      "word": "浙江沿海岛屿巨浪翻涌",
-      "onboard_time": 1726429271,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32222,
       "num": 32222,
       "word": "FULLMOON颁奖盛典",
@@ -3467,6 +3475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30963,
+      "num": 30963,
+      "word": "我是代表来自人民",
+      "onboard_time": 1726434251,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30585,
       "num": 227354,
       "word": "海南文昌166个村还未恢复供电",
@@ -3476,7 +3492,7 @@
     },
     {
       "raw_hot": 29781,
-      "num": 29781,
+      "num": 29932,
       "word": "林诗栋这一球惊艳全场",
       "onboard_time": 1726435331,
       "rank": 40,
@@ -3497,14 +3513,6 @@
       "onboard_time": 1726432331,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29070,
-      "num": 29070,
-      "word": "我是代表来自人民",
-      "onboard_time": 1726434251,
-      "rank": 46,
-      "category": "国内时政"
     },
     {
       "raw_hot": 28792,
@@ -3537,14 +3545,6 @@
       "onboard_time": 1726389200,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26802,
-      "num": 26802,
-      "word": "金晨央视中秋晚会唱跳都有了",
-      "onboard_time": 1726438333,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 25021,
@@ -3635,6 +3635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13835,
+      "num": 119161,
+      "word": "大熊猫崽崽演假期第一天的我",
+      "onboard_time": 1726436351,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11973,
       "num": 198338,
       "word": "林青霞跟王珮瑜学京剧",
@@ -3656,14 +3664,6 @@
       "word": "人民军队淬火向前",
       "onboard_time": 1726081931,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8885,
-      "num": 119161,
-      "word": "大熊猫崽崽演假期第一天的我",
-      "onboard_time": 1726436351,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
