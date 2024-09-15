@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726377637034,
+  "endTime": 1726378682044,
   "band_list": [
     {
       "raw_hot": 1885412,
@@ -107,6 +107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 970799,
+      "num": 1155327,
+      "word": "监管局已介入小杨哥美诚月饼事件",
+      "onboard_time": 1726371080,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 952092,
       "num": 952092,
       "word": "许昕说王楚钦能来打澳门赛不容易",
@@ -211,12 +219,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 571314,
-      "num": 571314,
-      "word": "监管局已介入小杨哥美诚月饼事件",
-      "onboard_time": 1726371080,
-      "rank": 42,
+      "raw_hot": 573601,
+      "num": 573601,
+      "word": "国产恋综容不下二本学生吗",
+      "onboard_time": 1726375879,
+      "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 558774,
+      "num": 213957,
+      "word": "阿里云盘bug现陌生人私密照",
+      "onboard_time": 1726374019,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 554129,
@@ -225,14 +241,6 @@
       "onboard_time": 1726321822,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 521870,
-      "num": 213957,
-      "word": "阿里云盘bug现陌生人私密照",
-      "onboard_time": 1726374019,
-      "rank": 41,
-      "category": "互联网"
     },
     {
       "raw_hot": 515638,
@@ -401,6 +409,14 @@
       "onboard_time": 1726355476,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 364058,
+      "num": 364058,
+      "word": "赵露思刘宇宁射箭体型差",
+      "onboard_time": 1726377379,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 361435,
@@ -587,20 +603,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 254187,
+      "num": 208818,
+      "word": "女子灭蟑螂不料中毒进ICU抢救",
+      "onboard_time": 1726374738,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247481,
       "num": 247481,
       "word": "王源让敖子逸给粉丝转50",
       "onboard_time": 1726320503,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 244885,
-      "num": 203857,
-      "word": "女子灭蟑螂不料中毒进ICU抢救",
-      "onboard_time": 1726374738,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 243292,
@@ -643,6 +659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 215284,
+      "num": 215284,
+      "word": "纪凌尘对沈月说要牵只能牵我的手",
+      "onboard_time": 1726377739,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213260,
       "num": 213260,
       "word": "有一种小肚子是骨盆前倾了",
@@ -651,20 +675,20 @@
       "category": "运动健身,健康医疗"
     },
     {
+      "raw_hot": 212485,
+      "num": 212485,
+      "word": "邝玲玲的痣",
+      "onboard_time": 1726378099,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211270,
       "num": 211270,
       "word": "徐正溪回归娱乐圈的原因",
       "onboard_time": 1726311741,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 210009,
-      "num": 210009,
-      "word": "国产恋综容不下二本学生吗",
-      "onboard_time": 1726375879,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207319,
@@ -683,12 +707,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 202770,
-      "num": 202770,
-      "word": "赵露思刘宇宁射箭体型差",
-      "onboard_time": 1726377379,
-      "rank": 26,
+      "raw_hot": 204178,
+      "num": 204178,
+      "word": "凡人歌 破房文学",
+      "onboard_time": 1726377678,
+      "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203123,
+      "num": 203123,
+      "word": "赵一博个人首封",
+      "onboard_time": 1726377739,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 202196,
+      "num": 202196,
+      "word": "私企老板被指玩弄多名已婚女下属",
+      "onboard_time": 1726377079,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200568,
@@ -707,12 +747,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195762,
+      "num": 212738,
+      "word": "宋佳 妊娠纹不该只对妈妈可见",
+      "onboard_time": 1726377379,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 194415,
+      "num": 194415,
+      "word": "当代应届生就像没开封的五仁月饼",
+      "onboard_time": 1726377498,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192809,
+      "num": 192809,
+      "word": "马嘉祺假期下厨vlog",
+      "onboard_time": 1726377739,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 190583,
       "num": 249758,
       "word": "郭俊辰说王源很顶",
       "onboard_time": 1726374377,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189825,
+      "num": 189825,
+      "word": "多地黑神话墙绘被毁",
+      "onboard_time": 1726377019,
+      "rank": 41,
+      "category": "社会新闻,游戏"
     },
     {
       "raw_hot": 189650,
@@ -867,14 +939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161273,
-      "num": 161273,
-      "word": "私企老板被指玩弄多名已婚女下属",
-      "onboard_time": 1726377079,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161212,
       "num": 65365,
       "word": "汪苏泷",
@@ -963,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155609,
+      "num": 155609,
+      "word": "雪迷宫一个伏笔埋了23集",
+      "onboard_time": 1726378519,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155223,
       "num": 155223,
       "word": "赵丽颖把伞撑给了陶昕然",
@@ -987,6 +1059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150820,
+      "num": 150820,
+      "word": "张予曦也演雨霖铃了",
+      "onboard_time": 1726378278,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150331,
       "num": 149445,
       "word": "扶贫剧 正确性别教育",
@@ -1001,14 +1081,6 @@
       "onboard_time": 1726328540,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149598,
-      "num": 149598,
-      "word": "多地黑神话墙绘被毁",
-      "onboard_time": 1726377019,
-      "rank": 41,
-      "category": "社会新闻,游戏"
     },
     {
       "raw_hot": 149004,
@@ -1041,6 +1113,22 @@
       "onboard_time": 1726361357,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 145387,
+      "num": 145387,
+      "word": "巴黎奥运樊振东高燃庆祝时刻",
+      "onboard_time": 1726376839,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 143166,
+      "num": 143166,
+      "word": "久酷战损蝴蝶写真",
+      "onboard_time": 1726378579,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 142814,
@@ -1081,14 +1169,6 @@
       "onboard_time": 1726371978,
       "rank": 46,
       "category": "教育"
-    },
-    {
-      "raw_hot": 139698,
-      "num": 139698,
-      "word": "当代应届生就像没开封的五仁月饼",
-      "onboard_time": 1726377498,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 138600,
@@ -1187,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117393,
+      "num": 460155,
+      "word": "高校课贩子抢到选修课名额后高价转卖",
+      "onboard_time": 1726376539,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114918,
       "num": 116698,
       "word": "张家齐去看王源演唱会了",
@@ -1283,6 +1371,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 92598,
+      "num": 212576,
+      "word": "空调安装师傅未系安全绳坠亡房主无责",
+      "onboard_time": 1726377379,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92127,
       "num": 92127,
       "word": "张本美和反手",
@@ -1307,14 +1403,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 85315,
-      "num": 209994,
-      "word": "宋佳 妊娠纹不该只对妈妈可见",
-      "onboard_time": 1726377379,
-      "rank": 20,
-      "category": "电影"
-    },
-    {
       "raw_hot": 78466,
       "num": 78466,
       "word": "警方通报5岁女童小区内被碾压致死",
@@ -1331,14 +1419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 74982,
-      "num": 212576,
-      "word": "空调安装师傅未系安全绳坠亡房主无责",
-      "onboard_time": 1726377379,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 69159,
       "num": 151210,
       "word": "学生时代的友情能有多珍贵",
@@ -1351,14 +1431,6 @@
       "num": 573626,
       "word": "走私冻品被更换包装分销全国",
       "onboard_time": 1726370058,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63073,
-      "num": 460155,
-      "word": "高校课贩子抢到选修课名额后高价转卖",
-      "onboard_time": 1726376539,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -1555,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19449,
+      "num": 162095,
+      "word": "速度与激情具象化了",
+      "onboard_time": 1726378039,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 19234,
       "num": 617497,
       "word": "文化中国行中秋赏灯会",
@@ -1579,7 +1659,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7940,
+      "raw_hot": 9367,
       "num": 551289,
       "word": "人民军队淬火向前",
       "onboard_time": 1726081931,
