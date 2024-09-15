@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726414518235,
+  "endTime": 1726417574980,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -307,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 918799,
+      "num": 918799,
+      "word": "苏州应急转移近万名外来务工人员",
+      "onboard_time": 1726413441,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 876991,
       "num": 706185,
       "word": "纪凌尘对沈月说要牵只能牵我的手",
@@ -371,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 769507,
+      "num": 769507,
+      "word": "台风贝碧嘉还没走普拉桑又来了",
+      "onboard_time": 1726413321,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 732929,
       "num": 571955,
       "word": "大杨哥称三年卖美诚月饼近百万单",
@@ -401,6 +417,14 @@
       "onboard_time": 1726388899,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 675716,
+      "num": 585620,
+      "word": "宋雨琦 没有边界感的前辈",
+      "onboard_time": 1726415180,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 663838,
@@ -505,6 +529,14 @@
       "onboard_time": 1726383979,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 586092,
+      "num": 586092,
+      "word": "江浙沪又来新台风",
+      "onboard_time": 1726414460,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 576200,
@@ -652,7 +684,7 @@
     },
     {
       "raw_hot": 489368,
-      "num": 459443,
+      "num": 471542,
       "word": "百万粉丝网红小小努力生活被抓",
       "onboard_time": 1726397362,
       "rank": 12,
@@ -729,14 +761,6 @@
       "onboard_time": 1726374259,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 440754,
-      "num": 440754,
-      "word": "台风贝碧嘉还没走普拉桑又来了",
-      "onboard_time": 1726413321,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 426943,
@@ -857,6 +881,14 @@
       "onboard_time": 1726330160,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 378214,
+      "num": 378214,
+      "word": "HYBE职员说NewJeans自己火上浇油",
+      "onboard_time": 1726415599,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 377796,
@@ -1371,14 +1403,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 245034,
-      "num": 245034,
-      "word": "苏州应急转移近万名外来务工人员",
-      "onboard_time": 1726413441,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 243292,
       "num": 243292,
       "word": "高铁停运",
@@ -1473,6 +1497,14 @@
       "onboard_time": 1726412781,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228869,
+      "num": 228869,
+      "word": "侃爷说我爱海口",
+      "onboard_time": 1726417158,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 228265,
@@ -1627,6 +1659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205129,
+      "num": 205129,
+      "word": "张峻豪海口vlog",
+      "onboard_time": 1726415659,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204710,
       "num": 204710,
       "word": "王者荣耀",
@@ -1657,6 +1697,14 @@
       "onboard_time": 1726377739,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 202767,
+      "num": 202767,
+      "word": "陆虎忙完婚礼就奔向舞台",
+      "onboard_time": 1726416259,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 202453,
@@ -1841,6 +1889,14 @@
       "onboard_time": 1726413321,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 184702,
+      "num": 184702,
+      "word": "汪苏泷新歌流浪是合理的需求",
+      "onboard_time": 1726416440,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 184142,
@@ -2075,6 +2131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164889,
+      "num": 164889,
+      "word": "王源说唱太嗨露出八块腹肌了",
+      "onboard_time": 1726417097,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 164380,
       "num": 164380,
       "word": "你最喜欢的睡姿可能正伤害你的脊柱",
@@ -2160,6 +2224,14 @@
       "word": "十几万买的收藏品实际价值5千",
       "onboard_time": 1726374920,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158502,
+      "num": 158502,
+      "word": "街道办回应女孩掉井父亲先拍照",
+      "onboard_time": 1726415959,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -2307,14 +2379,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 151534,
-      "num": 151534,
-      "word": "江浙沪又来新台风",
-      "onboard_time": 1726414460,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150820,
       "num": 150820,
       "word": "张予曦也演雨霖铃了",
@@ -2385,6 +2449,14 @@
       "onboard_time": 1726376839,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143456,
+      "num": 143456,
+      "word": "解说瓶子送金色的雨",
+      "onboard_time": 1726414760,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 143391,
@@ -2497,6 +2569,14 @@
       "onboard_time": 1726373119,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 136927,
+      "num": 136927,
+      "word": "林诗栋说不会有什么庆祝",
+      "onboard_time": 1726415541,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 136861,
@@ -3043,6 +3123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48748,
+      "num": 378759,
+      "word": "AG淋的金色雨是海信下的",
+      "onboard_time": 1726414100,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 48139,
       "num": 1697983,
       "word": "中国铁路营业里程超16万公里",
@@ -3083,6 +3171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42073,
+      "num": 199995,
+      "word": "上海台风",
+      "onboard_time": 1726285940,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41919,
       "num": 198830,
       "word": "中介用卡片开门闯入逼女租客离开",
@@ -3096,14 +3192,6 @@
       "word": "淬火强军新征程",
       "onboard_time": 1726389019,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40642,
-      "num": 199995,
-      "word": "上海台风",
-      "onboard_time": 1726285940,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -3137,14 +3225,6 @@
       "onboard_time": 1726387760,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37955,
-      "num": 198771,
-      "word": "AG淋的金色雨是海信下的",
-      "onboard_time": 1726414100,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 37837,

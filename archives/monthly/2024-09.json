@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726414518235,
+  "endTime": 1726417574980,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -4083,6 +4083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 918799,
+      "num": 918799,
+      "word": "苏州应急转移近万名外来务工人员",
+      "onboard_time": 1726413441,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 916202,
       "num": 280298,
       "word": "小杨哥开播回应与辛巴的矛盾",
@@ -5387,6 +5395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 769507,
+      "num": 769507,
+      "word": "台风贝碧嘉还没走普拉桑又来了",
+      "onboard_time": 1726413321,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 769165,
       "num": 769165,
       "word": "高承睿3比2莫雷加德",
@@ -6273,6 +6289,14 @@
       "onboard_time": 1725533659,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 675716,
+      "num": 585620,
+      "word": "宋雨琦 没有边界感的前辈",
+      "onboard_time": 1726415180,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 675442,
@@ -7481,6 +7505,14 @@
       "onboard_time": 1726108279,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 586092,
+      "num": 586092,
+      "word": "江浙沪又来新台风",
+      "onboard_time": 1726414460,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 585978,
@@ -9172,7 +9204,7 @@
     },
     {
       "raw_hot": 489368,
-      "num": 459443,
+      "num": 471542,
       "word": "百万粉丝网红小小努力生活被抓",
       "onboard_time": 1726397362,
       "rank": 12,
@@ -10168,14 +10200,6 @@
       "word": "四胞胎系外地户口上不了公立学校",
       "onboard_time": 1725167479,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 440754,
-      "num": 440754,
-      "word": "台风贝碧嘉还没走普拉桑又来了",
-      "onboard_time": 1726413321,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -11537,6 +11561,14 @@
       "onboard_time": 1725329059,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 378214,
+      "num": 378214,
+      "word": "HYBE职员说NewJeans自己火上浇油",
+      "onboard_time": 1726415599,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 377796,
@@ -16563,14 +16595,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 245034,
-      "num": 245034,
-      "word": "苏州应急转移近万名外来务工人员",
-      "onboard_time": 1726413441,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244900,
       "num": 244900,
       "word": "孙颖莎采访",
@@ -17881,6 +17905,14 @@
       "onboard_time": 1725859040,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 228869,
+      "num": 228869,
+      "word": "侃爷说我爱海口",
+      "onboard_time": 1726417158,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 228857,
@@ -20267,6 +20299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205129,
+      "num": 205129,
+      "word": "张峻豪海口vlog",
+      "onboard_time": 1726415659,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205073,
       "num": 205073,
       "word": "陈都灵眼镜一戴智性恋的天菜",
@@ -20641,6 +20681,14 @@
       "onboard_time": 1725520160,
       "rank": 36,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 202767,
+      "num": 202767,
+      "word": "陆虎忙完婚礼就奔向舞台",
+      "onboard_time": 1726416259,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 202631,
@@ -24001,6 +24049,14 @@
       "onboard_time": 1725359660,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184702,
+      "num": 184702,
+      "word": "汪苏泷新歌流浪是合理的需求",
+      "onboard_time": 1726416440,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 184621,
@@ -27483,6 +27539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164889,
+      "num": 164889,
+      "word": "王源说唱太嗨露出八块腹肌了",
+      "onboard_time": 1726417097,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 164609,
       "num": 164609,
       "word": "我就知道汉语言文学专业出路多",
@@ -28649,6 +28713,14 @@
       "onboard_time": 1726031783,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158502,
+      "num": 158502,
+      "word": "街道办回应女孩掉井父亲先拍照",
+      "onboard_time": 1726415959,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158484,
@@ -30081,14 +30153,6 @@
       "onboard_time": 1725611719,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 151534,
-      "num": 151534,
-      "word": "江浙沪又来新台风",
-      "onboard_time": 1726414460,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151404,
@@ -31595,6 +31659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143456,
+      "num": 143456,
+      "word": "解说瓶子送金色的雨",
+      "onboard_time": 1726414760,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 143454,
       "num": 289173,
       "word": "凡人歌三位女主结局",
@@ -32609,6 +32681,14 @@
       "onboard_time": 1725705380,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 136927,
+      "num": 136927,
+      "word": "林诗栋说不会有什么庆祝",
+      "onboard_time": 1726415541,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 136925,
@@ -41059,6 +41139,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 48748,
+      "num": 378759,
+      "word": "AG淋的金色雨是海信下的",
+      "onboard_time": 1726414100,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 48729,
       "num": 69109,
       "word": "猫 没找你收费就不错了",
@@ -42489,14 +42577,6 @@
       "onboard_time": 1726239981,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37955,
-      "num": 198771,
-      "word": "AG淋的金色雨是海信下的",
-      "onboard_time": 1726414100,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 37876,
