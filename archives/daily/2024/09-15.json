@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726381720371,
+  "endTime": 1726382534435,
   "band_list": [
     {
       "raw_hot": 1885412,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 876991,
-      "num": 503482,
+      "num": 638101,
       "word": "纪凌尘对沈月说要牵只能牵我的手",
       "onboard_time": 1726377739,
       "rank": 15,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 694052,
+      "num": 694052,
+      "word": "空调安装师傅未系安全绳坠亡房主无责",
+      "onboard_time": 1726377379,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 650648,
       "num": 650648,
       "word": "杨洋章若楠开机同框",
@@ -201,6 +209,14 @@
       "onboard_time": 1726370538,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 622337,
+      "num": 622337,
+      "word": "多地黑神话墙绘被毁",
+      "onboard_time": 1726377019,
+      "rank": 41,
+      "category": "社会新闻,游戏"
     },
     {
       "raw_hot": 610287,
@@ -259,6 +275,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 509627,
+      "num": 509627,
+      "word": "私企老板被指玩弄多名已婚女下属",
+      "onboard_time": 1726377079,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 506931,
+      "num": 506931,
+      "word": "迪丽热巴妆造",
+      "onboard_time": 1726381459,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 500572,
       "num": 500572,
       "word": "吴谨言领证后首现身",
@@ -283,14 +315,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 486473,
-      "num": 486473,
-      "word": "私企老板被指玩弄多名已婚女下属",
-      "onboard_time": 1726377079,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 473354,
       "num": 473354,
       "word": "四川江油失联姐弟均已遇难",
@@ -305,14 +329,6 @@
       "onboard_time": 1726320202,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 456763,
-      "num": 456763,
-      "word": "多地黑神话墙绘被毁",
-      "onboard_time": 1726377019,
-      "rank": 41,
-      "category": "社会新闻,游戏"
     },
     {
       "raw_hot": 444226,
@@ -337,14 +353,6 @@
       "onboard_time": 1726362858,
       "rank": 5,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 414818,
-      "num": 414818,
-      "word": "空调安装师傅未系安全绳坠亡房主无责",
-      "onboard_time": 1726377379,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 413079,
@@ -385,6 +393,14 @@
       "onboard_time": 1726327220,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 387474,
+      "num": 387474,
+      "word": "菲9701号船多次运补失败后撤离",
+      "onboard_time": 1726380857,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 382723,
@@ -619,6 +635,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 271835,
+      "num": 271835,
+      "word": "李多海带妈妈参观上海新家",
+      "onboard_time": 1726379658,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268400,
       "num": 268400,
       "word": "王楚钦止步4强",
@@ -643,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257742,
+      "num": 257742,
+      "word": "海警回应菲9701号船撤离",
+      "onboard_time": 1726380857,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 256492,
       "num": 256492,
       "word": "离婚了也要争婆婆的抚养权",
@@ -665,14 +697,6 @@
       "onboard_time": 1726380678,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 247976,
-      "num": 247976,
-      "word": "李多海带妈妈参观上海新家",
-      "onboard_time": 1726379658,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 247481,
@@ -755,12 +779,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203317,
-      "num": 203317,
-      "word": "菲9701号船多次运补失败后撤离",
-      "onboard_time": 1726380857,
-      "rank": 26,
-      "category": "国内时政"
+      "raw_hot": 206521,
+      "num": 193881,
+      "word": "雪迷宫一个伏笔埋了23集",
+      "onboard_time": 1726378519,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 203123,
@@ -777,22 +801,6 @@
       "onboard_time": 1726362918,
       "rank": 36,
       "category": "军事"
-    },
-    {
-      "raw_hot": 196961,
-      "num": 193881,
-      "word": "雪迷宫一个伏笔埋了23集",
-      "onboard_time": 1726378519,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 196960,
-      "num": 196960,
-      "word": "迪丽热巴妆造",
-      "onboard_time": 1726381459,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 196854,
@@ -857,6 +865,14 @@
       "onboard_time": 1726332436,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183832,
+      "num": 173078,
+      "word": "赴山海预约人数",
+      "onboard_time": 1726381638,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 182665,
@@ -947,14 +963,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 167657,
-      "num": 167657,
-      "word": "海警回应菲9701号船撤离",
-      "onboard_time": 1726380857,
-      "rank": 35,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 165438,
       "num": 264669,
       "word": "于洋是看着范丞丞黄明昊长大的",
@@ -977,6 +985,14 @@
       "onboard_time": 1726360757,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 163978,
+      "num": 163978,
+      "word": "螃蟹就吃二两母",
+      "onboard_time": 1726381638,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 163293,
@@ -1105,6 +1121,14 @@
       "onboard_time": 1726367419,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 153279,
+      "num": 153279,
+      "word": "牛马月饼",
+      "onboard_time": 1726381518,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 150820,
@@ -1307,6 +1331,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 123567,
+      "num": 123567,
+      "word": "王源演唱会韩东君人没去照片去了",
+      "onboard_time": 1726382178,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 120086,
       "num": 120086,
       "word": "晋江崩了",
@@ -1323,14 +1355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117485,
-      "num": 117485,
-      "word": "牛马月饼",
-      "onboard_time": 1726381518,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 117393,
       "num": 460155,
       "word": "高校课贩子抢到选修课名额后高价转卖",
@@ -1345,14 +1369,6 @@
       "onboard_time": 1726326742,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 112155,
-      "num": 112155,
-      "word": "赴山海预约人数",
-      "onboard_time": 1726381638,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 111853,
@@ -1377,6 +1393,14 @@
       "onboard_time": 1726362618,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 109096,
+      "num": 109096,
+      "word": "近八成家长认为中小学礼服没必要",
+      "onboard_time": 1726382359,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108237,
@@ -1435,14 +1459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 102266,
-      "num": 102266,
-      "word": "螃蟹就吃二两母",
-      "onboard_time": 1726381638,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 101783,
       "num": 101783,
       "word": "乌克兰父子火车站最后一面",
@@ -1451,12 +1467,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 100750,
+      "num": 100750,
+      "word": "教资考试为什么这么火",
+      "onboard_time": 1726376539,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 92127,
       "num": 92127,
       "word": "张本美和反手",
       "onboard_time": 1726355536,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90741,
+      "num": 199324,
+      "word": "沈渡 行也思幸坐也思幸",
+      "onboard_time": 1726381698,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 89146,
@@ -1611,14 +1643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36570,
-      "num": 199324,
-      "word": "沈渡 行也思幸坐也思幸",
-      "onboard_time": 1726381698,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 34407,
       "num": 503942,
       "word": "中国铁路营业里程突破16万公里",
@@ -1683,6 +1707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30585,
+      "num": 227354,
+      "word": "海南文昌166个村还未恢复供电",
+      "onboard_time": 1726380378,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28792,
       "num": 32210,
       "word": "79岁奶奶健身19年不吃一粒药",
@@ -1731,14 +1763,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 19915,
-      "num": 227354,
-      "word": "海南文昌166个村还未恢复供电",
-      "onboard_time": 1726380378,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 19234,
       "num": 617497,
       "word": "文化中国行中秋赏灯会",
@@ -1764,7 +1788,7 @@
     },
     {
       "raw_hot": 9521,
-      "num": 551289,
+      "num": 638564,
       "word": "人民军队淬火向前",
       "onboard_time": 1726081931,
       "rank": 36,
