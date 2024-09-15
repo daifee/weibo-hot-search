@@ -1,0 +1,410 @@
+{
+  "runTime": 1726364767975,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1562752,
+        "num": 1562752,
+        "word": "专家说一个月调休五次匪夷所思",
+        "onboard_time": 1726359677,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 734777,
+        "num": 734777,
+        "word": "又一台风登陆或致风浪潮三碰头",
+        "onboard_time": 1726361838,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15017,
+        "num": 617497,
+        "word": "文化中国行中秋赏灯会",
+        "onboard_time": 1726322121,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604610,
+        "num": 604610,
+        "word": "安陵容私下就是烟酒都来的",
+        "onboard_time": 1726317559,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 428813,
+        "num": 428813,
+        "word": "台风贝碧嘉",
+        "onboard_time": 1726320202,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417835,
+        "num": 417835,
+        "word": "晋江致歉",
+        "onboard_time": 1726362858,
+        "rank": 5,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 379447,
+        "num": 379447,
+        "word": "浙江迎战台风贝碧嘉",
+        "onboard_time": 1726330160,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372825,
+        "num": 372825,
+        "word": "张凌赫赵今麦吻戏路透",
+        "onboard_time": 1726357817,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348681,
+        "num": 348681,
+        "word": "汪苏泷演唱会苏州站取消",
+        "onboard_time": 1726355476,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 303585,
+        "num": 303585,
+        "word": "中秋假期第1天或迎铁路客流高峰",
+        "onboard_time": 1726362858,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410223,
+        "num": 300821,
+        "word": "干巴大叔 遗嘱",
+        "onboard_time": 1726364178,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 304804,
+        "num": 299580,
+        "word": "抖音客服称将核实美诚月饼事件",
+        "onboard_time": 1726363220,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297490,
+        "num": 297490,
+        "word": "台风",
+        "onboard_time": 1726302200,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296166,
+        "num": 296166,
+        "word": "06年小学老师的一天",
+        "onboard_time": 1726355595,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 270009,
+        "num": 270009,
+        "word": "林允这下真成白月光了",
+        "onboard_time": 1726318822,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 268953,
+        "num": 268953,
+        "word": "于正说洪尧片酬不买房够花",
+        "onboard_time": 1726321822,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262668,
+        "num": 262668,
+        "word": "79岁奶奶回应坚持健身19年",
+        "onboard_time": 1726332019,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250032,
+        "num": 250032,
+        "word": "中秋假期第一天",
+        "onboard_time": 1726356017,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246978,
+        "num": 246978,
+        "word": "敖子逸真替王源V50",
+        "onboard_time": 1726362979,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 245877,
+        "num": 245877,
+        "word": "许昕说王楚钦能来打澳门赛不容易",
+        "onboard_time": 1726327341,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1109823,
+        "num": 242860,
+        "word": "李纯小区不可能先救明星被指偷换概念",
+        "onboard_time": 1726350793,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 738252,
+        "num": 242319,
+        "word": "家长群内连发不雅视频撕另一家长",
+        "onboard_time": 1726306340,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347395,
+        "num": 241669,
+        "word": "许昕回应王楚钦输球是假球言论",
+        "onboard_time": 1726357217,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237320,
+        "num": 237320,
+        "word": "难怪上班没遇到过哈工大的学生",
+        "onboard_time": 1726359737,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233928,
+        "num": 233928,
+        "word": "高铁停运",
+        "onboard_time": 1726358178,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210833,
+        "num": 210833,
+        "word": "小脚趾的趾甲为啥是两瓣",
+        "onboard_time": 1726356196,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 191093,
+        "num": 191093,
+        "word": "有一种小肚子是骨盆前倾了",
+        "onboard_time": 1726353494,
+        "rank": 26,
+        "category": "运动健身,健康医疗"
+      },
+      {
+        "raw_hot": 185151,
+        "num": 185151,
+        "word": "南方人吃月饼竟然切成小块插着吃",
+        "onboard_time": 1726329138,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 161830,
+        "num": 161830,
+        "word": "张远 闺蜜站位",
+        "onboard_time": 1726354995,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153872,
+        "num": 158432,
+        "word": "吴谨言领证后首现身",
+        "onboard_time": 1726319903,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166236,
+        "num": 158310,
+        "word": "女主被男主捅了",
+        "onboard_time": 1726317801,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157978,
+        "num": 157978,
+        "word": "林诗栋4比1王楚钦",
+        "onboard_time": 1726323626,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153499,
+        "num": 153499,
+        "word": "四川凉山预期找到海量稀土",
+        "onboard_time": 1726362018,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143712,
+        "num": 143712,
+        "word": "你最喜欢的睡姿可能正伤害你的脊柱",
+        "onboard_time": 1726360757,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142814,
+        "num": 142814,
+        "word": "鹭卓巡演主办方道歉",
+        "onboard_time": 1726357097,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136585,
+        "num": 136585,
+        "word": "成都暴雨",
+        "onboard_time": 1726361118,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134122,
+        "num": 134122,
+        "word": "歼20夜间空中加油画面首次公开",
+        "onboard_time": 1726362918,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 131753,
+        "num": 131753,
+        "word": "苏新皓 腹肌",
+        "onboard_time": 1726361357,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127972,
+        "num": 127972,
+        "word": "哔哩哔哩副总裁卢梵溪被曝已离职",
+        "onboard_time": 1726358477,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 122344,
+        "num": 122344,
+        "word": "贝碧嘉将在宁波到启东一带登陆",
+        "onboard_time": 1726362378,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121999,
+        "num": 121999,
+        "word": "王楚钦vs林诗栋",
+        "onboard_time": 1726320264,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117272,
+        "num": 117272,
+        "word": "金泰亨新合照",
+        "onboard_time": 1726364298,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116802,
+        "num": 116802,
+        "word": "3名美国公民参与他国政变被判死刑",
+        "onboard_time": 1726332436,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111811,
+        "num": 111811,
+        "word": "于正晒出和吴谨言聊天记录",
+        "onboard_time": 1726295119,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109138,
+        "num": 109138,
+        "word": "夏目友人帐 温柔如期而至",
+        "onboard_time": 1726362618,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 108237,
+        "num": 108237,
+        "word": "韩媒爆料Scout向经纪公司借钱",
+        "onboard_time": 1726358958,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105930,
+        "num": 105930,
+        "word": "李嘉琦面试自带前情提要",
+        "onboard_time": 1726364178,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105294,
+        "num": 105294,
+        "word": "鹭卓方与巡演主办方合作提前终止",
+        "onboard_time": 1726356496,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104943,
+        "num": 104943,
+        "word": "贝碧嘉已为台风级",
+        "onboard_time": 1726364719,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104420,
+        "num": 104420,
+        "word": "四川江油失联姐弟均已遇难",
+        "onboard_time": 1726323142,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#庆祝全国人民代表大会成立70周年大会#"
+    }
+  }
+}
