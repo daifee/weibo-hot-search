@@ -1,6 +1,6 @@
 {
   "startTime": 1726417574980,
-  "endTime": 1726442459801,
+  "endTime": 1726443315511,
   "band_list": [
     {
       "raw_hot": 1141670,
@@ -8,6 +8,14 @@
       "word": "台风普拉桑生成",
       "onboard_time": 1726411400,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1013316,
+      "num": 1013316,
+      "word": "台风贝碧嘉中心预计将经过苏州",
+      "onboard_time": 1726427232,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -24,14 +32,6 @@
       "word": "苏州应急转移近万名外来务工人员",
       "onboard_time": 1726413441,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 910853,
-      "num": 910853,
-      "word": "台风贝碧嘉中心预计将经过苏州",
-      "onboard_time": 1726427232,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -65,6 +65,14 @@
       "onboard_time": 1726406842,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 618721,
+      "num": 618721,
+      "word": "87元一晚酒店台风期间涨至600元",
+      "onboard_time": 1726441574,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 610764,
@@ -115,12 +123,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 410083,
-      "num": 410083,
-      "word": "87元一晚酒店台风期间涨至600元",
-      "onboard_time": 1726441574,
-      "rank": 1,
-      "category": "社会新闻"
+      "raw_hot": 432763,
+      "num": 253268,
+      "word": "陈好手机是全是宋茜丑照",
+      "onboard_time": 1726441634,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 403384,
@@ -147,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370372,
+      "num": 202090,
+      "word": "EDG拒绝和解",
+      "onboard_time": 1726441695,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 365969,
       "num": 365969,
       "word": "侃爷说我爱海口",
@@ -171,12 +187,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 336169,
-      "num": 253268,
-      "word": "陈好手机是全是宋茜丑照",
-      "onboard_time": 1726441634,
-      "rank": 11,
-      "category": "综艺"
+      "raw_hot": 317641,
+      "num": 317641,
+      "word": "台风贝碧嘉",
+      "onboard_time": 1726320202,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289268,
+      "num": 289268,
+      "word": "台风贝碧嘉直播",
+      "onboard_time": 1726425133,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262921,
@@ -185,22 +209,6 @@
       "onboard_time": 1726408402,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 259629,
-      "num": 259629,
-      "word": "台风贝碧嘉直播",
-      "onboard_time": 1726425133,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 252534,
-      "num": 252534,
-      "word": "台风贝碧嘉",
-      "onboard_time": 1726320202,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 251345,
@@ -227,20 +235,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 230438,
-      "num": 90252,
-      "word": "EDG拒绝和解",
-      "onboard_time": 1726441695,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 228197,
       "num": 228197,
       "word": "终于有古装剧的公主抱不是转圈了",
       "onboard_time": 1726408341,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212050,
+      "num": 197273,
+      "word": "泰坦尼克号沉船时的海水有多冷",
+      "onboard_time": 1726441574,
+      "rank": 16,
+      "category": "其它"
     },
     {
       "raw_hot": 212046,
@@ -259,14 +267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186056,
-      "num": 186056,
-      "word": "泰坦尼克号沉船时的海水有多冷",
-      "onboard_time": 1726441574,
-      "rank": 16,
-      "category": "其它"
-    },
-    {
       "raw_hot": 184702,
       "num": 184702,
       "word": "汪苏泷新歌流浪是合理的需求",
@@ -281,6 +281,14 @@
       "onboard_time": 1726407442,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 177815,
+      "num": 177815,
+      "word": "印度公务员考试丧生12人",
+      "onboard_time": 1726441935,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174510,
@@ -451,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117584,
+      "num": 117584,
+      "word": "从女方视角看结婚",
+      "onboard_time": 1726440553,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116527,
       "num": 116527,
       "word": "倪乐琳港姐冠军",
@@ -475,20 +491,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109434,
+      "num": 156194,
+      "word": "周也 侃爷演唱会",
+      "onboard_time": 1726442897,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 108604,
+      "num": 108604,
+      "word": "佛祖收到一笔外汇功德",
+      "onboard_time": 1726442054,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106708,
       "num": 106708,
       "word": "许嵩重庆演唱会",
       "onboard_time": 1726418417,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 104798,
-      "num": 104798,
-      "word": "印度公务员考试丧生12人",
-      "onboard_time": 1726441935,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97440,
@@ -499,6 +523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 96707,
+      "num": 118189,
+      "word": "Hybe员工吐槽田柾国",
+      "onboard_time": 1726441755,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96059,
       "num": 135536,
       "word": "菲海警船撤了另一艘旧军舰也该走了",
@@ -507,12 +539,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 90148,
-      "num": 90148,
-      "word": "从女方视角看结婚",
-      "onboard_time": 1726440553,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 92281,
+      "num": 92281,
+      "word": "以色列中部遭来自也门的导弹袭击",
+      "onboard_time": 1726441996,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 86534,
+      "num": 86534,
+      "word": "一只鸡换来七个干儿子",
+      "onboard_time": 1726433111,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 82915,
@@ -523,14 +563,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 81981,
-      "num": 81981,
-      "word": "佛祖收到一笔外汇功德",
-      "onboard_time": 1726442054,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 77692,
       "num": 77692,
       "word": "凡人歌",
@@ -539,12 +571,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 76004,
-      "num": 76004,
-      "word": "一只鸡换来七个干儿子",
-      "onboard_time": 1726433111,
-      "rank": 37,
-      "category": "幽默"
+      "raw_hot": 76074,
+      "num": 76074,
+      "word": "女子称在胖东来买到发霉月饼",
+      "onboard_time": 1726422014,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74674,
@@ -555,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68779,
+      "num": 68779,
+      "word": "陆家嘴三件套顶层最大风力可达15级",
+      "onboard_time": 1726431491,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67164,
       "num": 67164,
       "word": "王安宇秒认秦海璐",
@@ -563,36 +603,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 64154,
-      "num": 64154,
-      "word": "女子称在胖东来买到发霉月饼",
-      "onboard_time": 1726422014,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 64079,
-      "num": 64079,
-      "word": "Hybe员工吐槽田柾国",
-      "onboard_time": 1726441755,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 62789,
-      "num": 62789,
-      "word": "陆家嘴三件套顶层最大风力可达15级",
-      "onboard_time": 1726431491,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61514,
-      "num": 61514,
-      "word": "以色列中部遭来自也门的导弹袭击",
-      "onboard_time": 1726441996,
-      "rank": 44,
-      "category": "国外时政"
+      "raw_hot": 65394,
+      "num": 65394,
+      "word": "侃爷现场",
+      "onboard_time": 1726442535,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 55835,
@@ -659,6 +675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 39179,
+      "num": 227806,
+      "word": "2016年以后登陆我国最强中秋台风",
+      "onboard_time": 1726442716,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36446,
       "num": 60937,
       "word": "上海地铁运营时间调整",
@@ -708,7 +732,7 @@
     },
     {
       "raw_hot": 27058,
-      "num": 423145,
+      "num": 494904,
       "word": "大数据看中秋假期",
       "onboard_time": 1726405341,
       "rank": 2,
