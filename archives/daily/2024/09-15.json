@@ -1,10 +1,10 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726392952945,
+  "endTime": 1726395663648,
   "band_list": [
     {
-      "raw_hot": 2372108,
-      "num": 2372108,
+      "raw_hot": 2581535,
+      "num": 2581535,
       "word": "徐少强去世",
       "onboard_time": 1726390638,
       "rank": 0,
@@ -211,6 +211,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 809590,
+      "num": 395403,
+      "word": "被生父抢走藏匿329天女童遭虐待致死",
+      "onboard_time": 1726393220,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 798658,
       "num": 798658,
       "word": "空调安装师傅未系安全绳坠亡房主无责",
@@ -251,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 697231,
+      "num": 697231,
+      "word": "美心月饼主播笑称没有米其林工艺",
+      "onboard_time": 1726388899,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 663838,
       "num": 663838,
       "word": "网红餐饮收尸人最高月入几十万",
@@ -265,14 +281,6 @@
       "onboard_time": 1726370238,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 648267,
-      "num": 648267,
-      "word": "美心月饼主播笑称没有米其林工艺",
-      "onboard_time": 1726388899,
-      "rank": 41,
-      "category": "美食"
     },
     {
       "raw_hot": 639214,
@@ -379,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 540023,
+      "num": 540023,
+      "word": "厂长在全红婵村里发数万只小乌龟",
+      "onboard_time": 1726390939,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 534063,
       "num": 534063,
       "word": "广州美诚工作人员回应月饼争议",
@@ -393,6 +409,14 @@
       "onboard_time": 1726389438,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 520473,
+      "num": 520473,
+      "word": "前有刘星分饼 后有芽芽打包",
+      "onboard_time": 1726390999,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 515638,
@@ -547,12 +571,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380057,
+      "num": 380057,
+      "word": "WTT世界乒联致歉",
+      "onboard_time": 1726394841,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 379447,
       "num": 474935,
       "word": "浙江迎战台风贝碧嘉",
       "onboard_time": 1726330160,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377796,
+      "num": 377796,
+      "word": "雅真是被披哥节目组骗来的",
+      "onboard_time": 1726392740,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 374081,
@@ -643,12 +683,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 344942,
+      "num": 344942,
+      "word": "贝碧嘉",
+      "onboard_time": 1726393040,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334843,
       "num": 334843,
       "word": "陆虎晒婚礼vlog",
       "onboard_time": 1726383677,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 332628,
+      "num": 332628,
+      "word": "网红川味盐太婆离世",
+      "onboard_time": 1726392259,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332255,
@@ -739,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301188,
+      "num": 301188,
+      "word": "WTT 福冈总决赛",
+      "onboard_time": 1726392498,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 299700,
       "num": 299700,
       "word": "女孩掉井父亲不让施救先拍照",
@@ -771,20 +835,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 290866,
-      "num": 290866,
-      "word": "厂长在全红婵村里发数万只小乌龟",
-      "onboard_time": 1726390939,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 288092,
       "num": 384100,
       "word": "敖子逸真替王源V50",
       "onboard_time": 1726362979,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 283173,
+      "num": 543530,
+      "word": "贝碧嘉已进入24小时警戒线",
+      "onboard_time": 1726388778,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 280487,
@@ -875,22 +939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 253683,
-      "num": 253683,
-      "word": "网红川味盐太婆离世",
-      "onboard_time": 1726392259,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247754,
-      "num": 247754,
-      "word": "前有刘星分饼 后有芽芽打包",
-      "onboard_time": 1726390999,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 247481,
       "num": 247481,
       "word": "王源让敖子逸给粉丝转50",
@@ -931,20 +979,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236615,
+      "num": 236615,
+      "word": "教资科三",
+      "onboard_time": 1726395260,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 222482,
       "num": 210833,
       "word": "小脚趾的趾甲为啥是两瓣",
       "onboard_time": 1726356196,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 222115,
-      "num": 222115,
-      "word": "WTT 福冈总决赛",
-      "onboard_time": 1726392498,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 220174,
@@ -1043,6 +1091,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 200814,
+      "num": 229433,
+      "word": "王骁没有台词的四分钟",
+      "onboard_time": 1726395081,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200568,
       "num": 200568,
       "word": "歼20夜间空中加油画面首次公开",
@@ -1081,6 +1137,14 @@
       "onboard_time": 1726377498,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194020,
+      "num": 194020,
+      "word": "擎天柱威震天原来是竹马",
+      "onboard_time": 1726394479,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 192809,
@@ -1123,6 +1187,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 188317,
+      "num": 223624,
+      "word": "AG对战KSG",
+      "onboard_time": 1726391120,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 186805,
       "num": 463633,
       "word": "宋佳演的张桂梅",
@@ -1155,19 +1227,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180618,
+      "num": 180618,
+      "word": "李兰迪天选古人",
+      "onboard_time": 1726394598,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180217,
       "num": 180217,
       "word": "贝碧嘉将于江浙一带登陆",
       "onboard_time": 1726369399,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180138,
-      "num": 543530,
-      "word": "贝碧嘉已进入24小时警戒线",
-      "onboard_time": 1726388778,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1177,6 +1249,14 @@
       "onboard_time": 1726302019,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 178151,
+      "num": 178151,
+      "word": "PEL秋季赛第六周周决赛",
+      "onboard_time": 1726394841,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 177400,
@@ -1387,6 +1467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156875,
+      "num": 156875,
+      "word": "中秋档电影票房突破1亿",
+      "onboard_time": 1726392619,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156352,
       "num": 156352,
       "word": "欧阳妮妮晒孕肚",
@@ -1435,6 +1523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 152502,
+      "num": 152502,
+      "word": "美特勤局严重违规细节曝光",
+      "onboard_time": 1726392380,
+      "rank": 41,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 150820,
       "num": 150820,
       "word": "张予曦也演雨霖铃了",
@@ -1452,7 +1548,7 @@
     },
     {
       "raw_hot": 150197,
-      "num": 150197,
+      "num": 227562,
       "word": "孙颖莎vs王艺迪",
       "onboard_time": 1726328540,
       "rank": 42,
@@ -1473,14 +1569,6 @@
       "onboard_time": 1726377199,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148847,
-      "num": 148847,
-      "word": "雅真是被披哥节目组骗来的",
-      "onboard_time": 1726392740,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 145693,
@@ -1513,6 +1601,14 @@
       "onboard_time": 1726378579,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142986,
+      "num": 142986,
+      "word": "我恨皮亚杰",
+      "onboard_time": 1726391598,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 142814,
@@ -1603,6 +1699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135266,
+      "num": 135266,
+      "word": "海带如何区分公母",
+      "onboard_time": 1726394479,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 134690,
       "num": 134690,
       "word": "张朝阳说能拿成绩的运动员都非常聪明",
@@ -1625,14 +1729,6 @@
       "onboard_time": 1726383499,
       "rank": 41,
       "category": "军事"
-    },
-    {
-      "raw_hot": 133960,
-      "num": 133960,
-      "word": "中秋档电影票房突破1亿",
-      "onboard_time": 1726392619,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 132600,
@@ -1659,6 +1755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 130800,
+      "num": 130800,
+      "word": "守护解放西 气笑了",
+      "onboard_time": 1726395440,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129868,
       "num": 129868,
       "word": "白宇 快成表演赛了都别太当真",
@@ -1683,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128379,
+      "num": 128379,
+      "word": "黑瞎子 糖果总归是会蛀牙的",
+      "onboard_time": 1726393581,
+      "rank": 47,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 128307,
       "num": 128307,
       "word": "张凌赫撑伞神图缔造者",
@@ -1699,14 +1811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128018,
-      "num": 128018,
-      "word": "我恨皮亚杰",
-      "onboard_time": 1726391598,
-      "rank": 47,
-      "category": "教育"
-    },
-    {
       "raw_hot": 127972,
       "num": 127972,
       "word": "哔哩哔哩副总裁卢梵溪被曝已离职",
@@ -1721,14 +1825,6 @@
       "onboard_time": 1726386919,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125821,
-      "num": 223624,
-      "word": "AG对战KSG",
-      "onboard_time": 1726391120,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 125282,
@@ -2007,6 +2103,14 @@
       "num": 150114,
       "word": "酒店回应女生入住遭陌生男子闯入",
       "onboard_time": 1726337593,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61521,
+      "num": 398160,
+      "word": "大学生组团接单陪爬泰山月入过万",
+      "onboard_time": 1726394960,
       "rank": 9,
       "category": "社会新闻"
     },

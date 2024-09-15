@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726392952945,
+  "endTime": 1726395663648,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2581535,
+      "num": 2581535,
+      "word": "徐少强去世",
+      "onboard_time": 1726390638,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2551495,
       "num": 2551495,
       "word": "k总 退网",
@@ -473,14 +481,6 @@
       "onboard_time": 1725411199,
       "rank": 10,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 2372108,
-      "num": 2372108,
-      "word": "徐少强去世",
-      "onboard_time": 1726390638,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 2372054,
@@ -4859,6 +4859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 809590,
+      "num": 395403,
+      "word": "被生父抢走藏匿329天女童遭虐待致死",
+      "onboard_time": 1726393220,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 809468,
       "num": 724771,
       "word": "爸妈夸985哥哥成绩好弟弟反感厌学",
@@ -5907,6 +5915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 697231,
+      "num": 697231,
+      "word": "美心月饼主播笑称没有米其林工艺",
+      "onboard_time": 1726388899,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 696468,
       "num": 638271,
       "word": "陆虎婚礼祝词",
@@ -6465,14 +6481,6 @@
       "onboard_time": 1725841640,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 648267,
-      "num": 648267,
-      "word": "美心月饼主播笑称没有米其林工艺",
-      "onboard_time": 1726388899,
-      "rank": 41,
-      "category": "美食"
     },
     {
       "raw_hot": 647861,
@@ -7963,6 +7971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 540023,
+      "num": 540023,
+      "word": "厂长在全红婵村里发数万只小乌龟",
+      "onboard_time": 1726390939,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 539992,
       "num": 419804,
       "word": "殷世航调侃韩安冉",
@@ -8329,6 +8345,14 @@
       "onboard_time": 1726034781,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 520473,
+      "num": 520473,
+      "word": "前有刘星分饼 后有芽芽打包",
+      "onboard_time": 1726390999,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 520144,
@@ -11203,6 +11227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 380057,
+      "num": 380057,
+      "word": "WTT世界乒联致歉",
+      "onboard_time": 1726394841,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 379991,
       "num": 576966,
       "word": "赵丽颖乔妍好疯批",
@@ -11249,6 +11281,14 @@
       "onboard_time": 1725329059,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377796,
+      "num": 377796,
+      "word": "雅真是被披哥节目组骗来的",
+      "onboard_time": 1726392740,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 377267,
@@ -12323,6 +12363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 332628,
+      "num": 332628,
+      "word": "网红川味盐太婆离世",
+      "onboard_time": 1726392259,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332509,
       "num": 332509,
       "word": "林依晨自曝失恋经历",
@@ -13379,6 +13427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 301188,
+      "num": 301188,
+      "word": "WTT 福冈总决赛",
+      "onboard_time": 1726392498,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 301051,
       "num": 573597,
       "word": "辛芷蕾新片孕肚造型",
@@ -13747,14 +13803,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 290866,
-      "num": 290866,
-      "word": "厂长在全红婵村里发数万只小乌龟",
-      "onboard_time": 1726390939,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 290348,
       "num": 411916,
       "word": "去年我国25至29岁结婚人数最多",
@@ -14089,6 +14137,14 @@
       "onboard_time": 1725307271,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 283173,
+      "num": 543530,
+      "word": "贝碧嘉已进入24小时警戒线",
+      "onboard_time": 1726388778,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283064,
@@ -15619,14 +15675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 253683,
-      "num": 253683,
-      "word": "网红川味盐太婆离世",
-      "onboard_time": 1726392259,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 252983,
       "num": 252983,
       "word": "iPhone16Pro实拍四款颜色",
@@ -15881,14 +15929,6 @@
       "onboard_time": 1725988634,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247754,
-      "num": 247754,
-      "word": "前有刘星分饼 后有芽芽打包",
-      "onboard_time": 1726390999,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 247643,
@@ -16729,6 +16769,14 @@
       "onboard_time": 1726310960,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236615,
+      "num": 236615,
+      "word": "教资科三",
+      "onboard_time": 1726395260,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 236548,
@@ -17864,14 +17912,6 @@
       "word": "库里 离开西安",
       "onboard_time": 1726147761,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 222115,
-      "num": 222115,
-      "word": "WTT 福冈总决赛",
-      "onboard_time": 1726392498,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -20323,6 +20363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200814,
+      "num": 229433,
+      "word": "王骁没有台词的四分钟",
+      "onboard_time": 1726395081,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200783,
       "num": 219907,
       "word": "吴宣仪苞娜合照",
@@ -21643,6 +21691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194020,
+      "num": 194020,
+      "word": "擎天柱威震天原来是竹马",
+      "onboard_time": 1726394479,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 193971,
       "num": 193971,
       "word": "登陆少年给大家比星",
@@ -22577,6 +22633,14 @@
       "onboard_time": 1726114640,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 188317,
+      "num": 223624,
+      "word": "AG对战KSG",
+      "onboard_time": 1726391120,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 188253,
@@ -23995,6 +24059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 180618,
+      "num": 180618,
+      "word": "李兰迪天选古人",
+      "onboard_time": 1726394598,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180557,
       "num": 180557,
       "word": "代号鸢",
@@ -24064,14 +24136,6 @@
       "word": "贝碧嘉将于江浙一带登陆",
       "onboard_time": 1726369399,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180138,
-      "num": 543530,
-      "word": "贝碧嘉已进入24小时警戒线",
-      "onboard_time": 1726388778,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -24457,6 +24521,14 @@
       "onboard_time": 1725683300,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178151,
+      "num": 178151,
+      "word": "PEL秋季赛第六周周决赛",
+      "onboard_time": 1726394841,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 178091,
@@ -28171,6 +28243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156875,
+      "num": 156875,
+      "word": "中秋档电影票房突破1亿",
+      "onboard_time": 1726392619,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156868,
       "num": 383918,
       "word": "广东提醒高层住宅或会摇晃",
@@ -29067,6 +29147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152502,
+      "num": 152502,
+      "word": "美特勤局严重违规细节曝光",
+      "onboard_time": 1726392380,
+      "rank": 41,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 152468,
       "num": 152468,
       "word": "花洛莉亚曾因文案不尊重女性道歉",
@@ -29508,7 +29596,7 @@
     },
     {
       "raw_hot": 150197,
-      "num": 150197,
+      "num": 227562,
       "word": "孙颖莎vs王艺迪",
       "onboard_time": 1726328540,
       "rank": 42,
@@ -29729,14 +29817,6 @@
       "onboard_time": 1726200327,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148847,
-      "num": 148847,
-      "word": "雅真是被披哥节目组骗来的",
-      "onboard_time": 1726392740,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 148752,
@@ -30833,6 +30913,14 @@
       "onboard_time": 1725633742,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142986,
+      "num": 142986,
+      "word": "我恨皮亚杰",
+      "onboard_time": 1726391598,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 142980,
@@ -31979,6 +32067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135266,
+      "num": 135266,
+      "word": "海带如何区分公母",
+      "onboard_time": 1726394479,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 135244,
       "num": 135244,
       "word": "这老丈人家他真的非去不可吗",
@@ -32233,14 +32329,6 @@
       "onboard_time": 1725892162,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 133960,
-      "num": 133960,
-      "word": "中秋档电影票房突破1亿",
-      "onboard_time": 1726392619,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 133779,
@@ -32731,6 +32819,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 130800,
+      "num": 130800,
+      "word": "守护解放西 气笑了",
+      "onboard_time": 1726395440,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130784,
       "num": 130784,
       "word": "汪峰是姚晓棠的老师",
@@ -33155,6 +33251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128379,
+      "num": 128379,
+      "word": "黑瞎子 糖果总归是会蛀牙的",
+      "onboard_time": 1726393581,
+      "rank": 47,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 128360,
       "num": 128360,
       "word": "王艺迪3比0张默",
@@ -33249,14 +33353,6 @@
       "onboard_time": 1726154060,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128018,
-      "num": 128018,
-      "word": "我恨皮亚杰",
-      "onboard_time": 1726391598,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 127983,
@@ -33489,14 +33585,6 @@
       "onboard_time": 1726240941,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125821,
-      "num": 223624,
-      "word": "AG对战KSG",
-      "onboard_time": 1726391120,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 125804,
@@ -38864,6 +38952,14 @@
       "word": "一图了解中非合作论坛",
       "onboard_time": 1725264979,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61521,
+      "num": 398160,
+      "word": "大学生组团接单陪爬泰山月入过万",
+      "onboard_time": 1726394960,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
