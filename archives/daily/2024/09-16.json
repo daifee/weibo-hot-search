@@ -1,6 +1,6 @@
 {
   "startTime": 1726417574980,
-  "endTime": 1726435219028,
+  "endTime": 1726436144605,
   "band_list": [
     {
       "raw_hot": 1141670,
@@ -203,6 +203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 208561,
+      "num": 208561,
+      "word": "台风贝碧嘉中心预计将经过苏州",
+      "onboard_time": 1726427232,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205129,
       "num": 205129,
       "word": "张峻豪海口vlog",
@@ -225,14 +233,6 @@
       "onboard_time": 1726407442,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 177429,
-      "num": 177429,
-      "word": "台风贝碧嘉中心预计将经过苏州",
-      "onboard_time": 1726427232,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174510,
@@ -531,8 +531,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34562,
-      "num": 34562,
+      "raw_hot": 35950,
+      "num": 35950,
       "word": "陆家嘴三件套顶层最大风力可达15级",
       "onboard_time": 1726431491,
       "rank": 46,
@@ -563,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28018,
+      "num": 28018,
+      "word": "一只鸡换来七个干儿子",
+      "onboard_time": 1726433111,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 27058,
       "num": 423145,
       "word": "大数据看中秋假期",
@@ -571,8 +579,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25638,
-      "num": 25638,
+      "raw_hot": 26722,
+      "num": 26722,
       "word": "贝碧嘉强度还将有所加强",
       "onboard_time": 1726432331,
       "rank": 48,
@@ -587,14 +595,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 23962,
-      "num": 23962,
-      "word": "一只鸡换来七个干儿子",
-      "onboard_time": 1726433111,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 22680,
       "num": 22680,
       "word": "王源饭撒",
@@ -603,7 +603,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 17563,
+      "raw_hot": 20596,
       "num": 22084,
       "word": "我是代表来自人民",
       "onboard_time": 1726434251,
@@ -617,6 +617,14 @@
       "onboard_time": 1726433712,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 11011,
+      "num": 33412,
+      "word": "北京最大灯会亮灯",
+      "onboard_time": 1726436051,
+      "rank": 26,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
