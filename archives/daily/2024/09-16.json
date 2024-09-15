@@ -1,6 +1,6 @@
 {
   "startTime": 1726417574980,
-  "endTime": 1726436144605,
+  "endTime": 1726438836631,
   "band_list": [
     {
       "raw_hot": 1141670,
@@ -97,6 +97,14 @@
       "onboard_time": 1726401802,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 448940,
+      "num": 448940,
+      "word": "台风贝碧嘉中心预计将经过苏州",
+      "onboard_time": 1726427232,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 433021,
@@ -201,14 +209,6 @@
       "onboard_time": 1726416259,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 208561,
-      "num": 208561,
-      "word": "台风贝碧嘉中心预计将经过苏州",
-      "onboard_time": 1726427232,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205129,
@@ -363,6 +363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131319,
+      "num": 131319,
+      "word": "台风贝碧嘉直播",
+      "onboard_time": 1726425133,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124723,
       "num": 124723,
       "word": "何浩楠 卷发小帅收工",
@@ -401,14 +409,6 @@
       "onboard_time": 1726397541,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112274,
-      "num": 112274,
-      "word": "台风贝碧嘉直播",
-      "onboard_time": 1726425133,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111191,
@@ -499,6 +499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 50359,
+      "num": 160128,
+      "word": "上海台风",
+      "onboard_time": 1726285940,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46983,
       "num": 45847,
       "word": "那隽 吾辈楷模",
@@ -507,12 +515,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 46773,
-      "num": 160128,
-      "word": "上海台风",
-      "onboard_time": 1726285940,
-      "rank": 36,
+      "raw_hot": 46832,
+      "num": 46832,
+      "word": "北京最大灯会亮灯",
+      "onboard_time": 1726436051,
+      "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46566,
+      "num": 46566,
+      "word": "陆家嘴三件套顶层最大风力可达15级",
+      "onboard_time": 1726431491,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42283,
+      "num": 42283,
+      "word": "一只鸡换来七个干儿子",
+      "onboard_time": 1726433111,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 41736,
@@ -531,11 +555,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35950,
-      "num": 35950,
-      "word": "陆家嘴三件套顶层最大风力可达15级",
-      "onboard_time": 1726431491,
-      "rank": 46,
+      "raw_hot": 32633,
+      "num": 61885,
+      "word": "浙江沿海岛屿巨浪翻涌",
+      "onboard_time": 1726429271,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -547,12 +571,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 30597,
-      "num": 61885,
-      "word": "浙江沿海岛屿巨浪翻涌",
-      "onboard_time": 1726429271,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 29781,
+      "num": 29781,
+      "word": "林诗栋这一球惊艳全场",
+      "onboard_time": 1726435331,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 29596,
@@ -563,12 +587,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28018,
-      "num": 28018,
-      "word": "一只鸡换来七个干儿子",
-      "onboard_time": 1726433111,
-      "rank": 37,
-      "category": "幽默"
+      "raw_hot": 29275,
+      "num": 29275,
+      "word": "贝碧嘉强度还将有所加强",
+      "onboard_time": 1726432331,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29070,
+      "num": 29070,
+      "word": "我是代表来自人民",
+      "onboard_time": 1726434251,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 27058,
@@ -579,12 +611,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26722,
-      "num": 26722,
-      "word": "贝碧嘉强度还将有所加强",
-      "onboard_time": 1726432331,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 26802,
+      "num": 26802,
+      "word": "金晨央视中秋晚会唱跳都有了",
+      "onboard_time": 1726438333,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 25021,
@@ -603,14 +635,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 20596,
-      "num": 22084,
-      "word": "我是代表来自人民",
-      "onboard_time": 1726434251,
-      "rank": 46,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 17354,
       "num": 22082,
       "word": "涵艺说LNG可以起诉Scout",
@@ -619,11 +643,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 11011,
-      "num": 33412,
-      "word": "北京最大灯会亮灯",
-      "onboard_time": 1726436051,
-      "rank": 26,
+      "raw_hot": 8885,
+      "num": 119161,
+      "word": "大熊猫崽崽演假期第一天的我",
+      "onboard_time": 1726436351,
+      "rank": 9,
       "category": "社会新闻"
     }
   ],
