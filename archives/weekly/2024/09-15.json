@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726370857011,
+  "endTime": 1726371692448,
   "band_list": [
     {
       "raw_hot": 1885412,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1576987,
-      "num": 490566,
+      "num": 493256,
       "word": "干巴大叔 遗嘱",
       "onboard_time": 1726364178,
       "rank": 10,
@@ -67,6 +67,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1244800,
+      "num": 1244800,
+      "word": "五仁月饼为啥被那么多人嫌弃",
+      "onboard_time": 1726366039,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1156339,
+      "num": 357447,
+      "word": "罗志祥回应恺乐怀孕",
+      "onboard_time": 1726370599,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1109823,
       "num": 1028105,
       "word": "李纯小区不可能先救明星被指偷换概念",
@@ -83,14 +99,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1066308,
-      "num": 1066308,
-      "word": "五仁月饼为啥被那么多人嫌弃",
-      "onboard_time": 1726366039,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 952092,
       "num": 952092,
       "word": "许昕说王楚钦能来打澳门赛不容易",
@@ -99,12 +107,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 810920,
-      "num": 350432,
-      "word": "罗志祥回应恺乐怀孕",
-      "onboard_time": 1726370599,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 824124,
+      "num": 824124,
+      "word": "教资科一",
+      "onboard_time": 1726370238,
+      "rank": 15,
+      "category": "教育"
     },
     {
       "raw_hot": 795669,
@@ -115,8 +123,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 684867,
-      "num": 684867,
+      "raw_hot": 704309,
+      "num": 704309,
       "word": "侃爷带妻子翻越栏杆",
       "onboard_time": 1726368378,
       "rank": 18,
@@ -147,6 +155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 586559,
+      "num": 586559,
+      "word": "杨洋章若楠开机同框",
+      "onboard_time": 1726370238,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 554129,
       "num": 554129,
       "word": "于正说洪尧片酬不买房够花",
@@ -171,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 493017,
+      "num": 493017,
+      "word": "小伙拍照瞬间背包里红旗飘出",
+      "onboard_time": 1726366998,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 473354,
       "num": 473354,
       "word": "四川江油失联姐弟均已遇难",
@@ -187,20 +211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 450718,
-      "num": 450718,
-      "word": "小伙拍照瞬间背包里红旗飘出",
-      "onboard_time": 1726366998,
-      "rank": 11,
+      "raw_hot": 418732,
+      "num": 418732,
+      "word": "不活检就达不到重疾标准吗",
+      "onboard_time": 1726370538,
+      "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 425511,
-      "num": 425511,
-      "word": "教资科一",
-      "onboard_time": 1726370238,
-      "rank": 15,
-      "category": "教育"
     },
     {
       "raw_hot": 418469,
@@ -395,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299700,
+      "num": 299700,
+      "word": "女孩掉井父亲不让施救先拍照",
+      "onboard_time": 1726369157,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298418,
       "num": 298418,
       "word": "王源汪苏泷首次合作",
@@ -409,14 +433,6 @@
       "onboard_time": 1726355595,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 291750,
-      "num": 291750,
-      "word": "女孩掉井父亲不让施救先拍照",
-      "onboard_time": 1726369157,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 288092,
@@ -443,14 +459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 277081,
-      "num": 390898,
-      "word": "杨洋章若楠开机同框",
-      "onboard_time": 1726370238,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 272249,
       "num": 272249,
       "word": "干巴大叔",
@@ -473,6 +481,14 @@
       "onboard_time": 1726320503,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 245401,
+      "num": 365144,
+      "word": "侯鸿亮说杨洋是展昭的不二人选",
+      "onboard_time": 1726371258,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 243292,
@@ -499,6 +515,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 221704,
+      "num": 221704,
+      "word": "女子买6万黄金不挑款店员果断报警",
+      "onboard_time": 1726370479,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220174,
       "num": 220174,
       "word": "台风路径",
@@ -513,14 +537,6 @@
       "onboard_time": 1726317502,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 214395,
-      "num": 214395,
-      "word": "不活检就达不到重疾标准吗",
-      "onboard_time": 1726370538,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213260,
@@ -611,6 +627,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 174630,
+      "num": 660111,
+      "word": "三只羊橱窗下架美诚月饼",
+      "onboard_time": 1726369578,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174078,
       "num": 174078,
       "word": "王楚钦无缘决赛",
@@ -625,6 +649,14 @@
       "onboard_time": 1726299321,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170927,
+      "num": 170927,
+      "word": "落ye归根",
+      "onboard_time": 1726370658,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 170754,
@@ -691,6 +723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 160844,
+      "num": 160844,
+      "word": "许昕劝王楚钦粉丝不要慌",
+      "onboard_time": 1726371319,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160761,
       "num": 160761,
       "word": "余宇涵发小作文",
@@ -705,6 +745,14 @@
       "onboard_time": 1726321043,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158468,
+      "num": 158468,
+      "word": "想要甜 加点盐",
+      "onboard_time": 1726371258,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 158131,
@@ -771,20 +819,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 152339,
-      "num": 660111,
-      "word": "三只羊橱窗下架美诚月饼",
-      "onboard_time": 1726369578,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150197,
       "num": 150197,
       "word": "孙颖莎vs王艺迪",
       "onboard_time": 1726328540,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147121,
+      "num": 147121,
+      "word": "监管局已介入小杨哥美诚月饼事件",
+      "onboard_time": 1726371080,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145693,
@@ -801,6 +849,14 @@
       "onboard_time": 1726361357,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 144951,
+      "num": 144951,
+      "word": "徐锦江儿子没上过幼儿园",
+      "onboard_time": 1726371498,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 142814,
@@ -835,28 +891,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 138316,
-      "num": 138316,
-      "word": "女子买6万黄金不挑款店员果断报警",
-      "onboard_time": 1726370479,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136585,
       "num": 136585,
       "word": "成都暴雨",
       "onboard_time": 1726361118,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134456,
-      "num": 134456,
-      "word": "落ye归根",
-      "onboard_time": 1726370658,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 132600,
@@ -937,6 +977,14 @@
       "onboard_time": 1726326742,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 111939,
+      "num": 111939,
+      "word": "王楚钦止步4强",
+      "onboard_time": 1726371678,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 111853,
@@ -1059,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 63113,
+      "num": 573626,
+      "word": "走私冻品被更换包装分销全国",
+      "onboard_time": 1726370058,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62752,
       "num": 62752,
       "word": "中秋假期杭州将有大雨暴雨大暴雨",
@@ -1099,11 +1155,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51630,
-      "num": 573626,
-      "word": "走私冻品被更换包装分销全国",
+      "raw_hot": 48063,
+      "num": 432383,
+      "word": "媒体评学生不订奶需交过敏证明",
       "onboard_time": 1726370058,
-      "rank": 9,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1113,6 +1169,14 @@
       "onboard_time": 1726320864,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40280,
+      "num": 1358548,
+      "word": "哪个瞬间勾起你的乡愁",
+      "onboard_time": 1726368559,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40072,
@@ -1136,14 +1200,6 @@
       "word": "高质量发展看广西",
       "onboard_time": 1726321942,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34064,
-      "num": 432383,
-      "word": "媒体评学生不订奶需交过敏证明",
-      "onboard_time": 1726370058,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1185,14 +1241,6 @@
       "onboard_time": 1726338793,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 32047,
-      "num": 674019,
-      "word": "哪个瞬间勾起你的乡愁",
-      "onboard_time": 1726368559,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28792,
