@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726417574980,
+  "endTime": 1726418537617,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 753732,
+      "num": 753732,
+      "word": "宋雨琦 没有边界感的前辈",
+      "onboard_time": 1726415180,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 732929,
       "num": 571955,
       "word": "大杨哥称三年卖美诚月饼近百万单",
@@ -417,14 +425,6 @@
       "onboard_time": 1726388899,
       "rank": 41,
       "category": "美食"
-    },
-    {
-      "raw_hot": 675716,
-      "num": 585620,
-      "word": "宋雨琦 没有边界感的前辈",
-      "onboard_time": 1726415180,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 663838,
@@ -499,6 +499,14 @@
       "category": "社会新闻,游戏"
     },
     {
+      "raw_hot": 610764,
+      "num": 610764,
+      "word": "江浙沪又来新台风",
+      "onboard_time": 1726414460,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 610287,
       "num": 567270,
       "word": "许昕劝王楚钦粉丝不要慌",
@@ -529,14 +537,6 @@
       "onboard_time": 1726383979,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 586092,
-      "num": 586092,
-      "word": "江浙沪又来新台风",
-      "onboard_time": 1726414460,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 576200,
@@ -659,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 503566,
+      "num": 503566,
+      "word": "百万粉丝网红小小努力生活被抓",
+      "onboard_time": 1726397362,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 501587,
       "num": 501587,
       "word": "台风",
@@ -680,14 +688,6 @@
       "word": "小伙拍照瞬间背包里红旗飘出",
       "onboard_time": 1726366998,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 489368,
-      "num": 471542,
-      "word": "百万粉丝网红小小努力生活被抓",
-      "onboard_time": 1726397362,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -811,6 +811,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 399688,
+      "num": 399688,
+      "word": "HYBE职员说NewJeans自己火上浇油",
+      "onboard_time": 1726415599,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 399272,
       "num": 399272,
       "word": "陈震",
@@ -883,14 +891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 378214,
-      "num": 378214,
-      "word": "HYBE职员说NewJeans自己火上浇油",
-      "onboard_time": 1726415599,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 377796,
       "num": 377796,
       "word": "雅真是被披哥节目组骗来的",
@@ -929,6 +929,14 @@
       "onboard_time": 1726398142,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 365969,
+      "num": 365969,
+      "word": "侃爷说我爱海口",
+      "onboard_time": 1726417158,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 364890,
@@ -1499,14 +1507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 228869,
-      "num": 228869,
-      "word": "侃爷说我爱海口",
-      "onboard_time": 1726417158,
-      "rank": 19,
-      "category": "演出"
-    },
-    {
       "raw_hot": 228265,
       "num": 228265,
       "word": "北伦敦德比",
@@ -1611,6 +1611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 209805,
+      "num": 209805,
+      "word": "陆虎忙完婚礼就奔向舞台",
+      "onboard_time": 1726416259,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 208675,
       "num": 208675,
       "word": "你的善良里藏着你的福气",
@@ -1625,6 +1633,14 @@
       "onboard_time": 1726386259,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207434,
+      "num": 207434,
+      "word": "王源说唱太嗨露出八块腹肌了",
+      "onboard_time": 1726417097,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 207319,
@@ -1697,14 +1713,6 @@
       "onboard_time": 1726377739,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 202767,
-      "num": 202767,
-      "word": "陆虎忙完婚礼就奔向舞台",
-      "onboard_time": 1726416259,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 202453,
@@ -1900,7 +1908,7 @@
     },
     {
       "raw_hot": 184142,
-      "num": 184142,
+      "num": 205390,
       "word": "546米上海之巅看台风来临",
       "onboard_time": 1726405341,
       "rank": 35,
@@ -2129,14 +2137,6 @@
       "onboard_time": 1726365318,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164889,
-      "num": 164889,
-      "word": "王源说唱太嗨露出八块腹肌了",
-      "onboard_time": 1726417097,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 164380,
@@ -2795,6 +2795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116527,
+      "num": 116527,
+      "word": "倪乐琳港姐冠军",
+      "onboard_time": 1726417278,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116079,
       "num": 116079,
       "word": "今晚看WTT决赛",
@@ -2905,6 +2913,14 @@
       "onboard_time": 1726324464,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106708,
+      "num": 106708,
+      "word": "许嵩重庆演唱会",
+      "onboard_time": 1726418417,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 105930,
@@ -3107,6 +3123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51797,
+      "num": 429440,
+      "word": "AG淋的金色雨是海信下的",
+      "onboard_time": 1726414100,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 49147,
       "num": 354171,
       "word": "梁咏琪找易烊千玺合影",
@@ -3121,14 +3145,6 @@
       "onboard_time": 1726413080,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48748,
-      "num": 378759,
-      "word": "AG淋的金色雨是海信下的",
-      "onboard_time": 1726414100,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 48139,
