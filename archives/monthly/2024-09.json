@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726395663648,
+  "endTime": 1726396725994,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -153,6 +153,14 @@
       "onboard_time": 1726209742,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 4121829,
+      "num": 813550,
+      "word": "于适工作室发声明",
+      "onboard_time": 1726395980,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 3922176,
@@ -4555,6 +4563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 842774,
+      "num": 842774,
+      "word": "贝碧嘉",
+      "onboard_time": 1726284859,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 842250,
       "num": 929829,
       "word": "陪读爸爸考上大学因现实放弃入学",
@@ -4860,7 +4876,7 @@
     },
     {
       "raw_hot": 809590,
-      "num": 395403,
+      "num": 458192,
       "word": "被生父抢走藏匿329天女童遭虐待致死",
       "onboard_time": 1726393220,
       "rank": 10,
@@ -4873,6 +4889,14 @@
       "onboard_time": 1725589760,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 808824,
+      "num": 808824,
+      "word": "WTT世界乒联致歉",
+      "onboard_time": 1726394841,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 808713,
@@ -6249,14 +6273,6 @@
       "onboard_time": 1725531500,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 667172,
-      "num": 667172,
-      "word": "贝碧嘉",
-      "onboard_time": 1726284859,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 666737,
@@ -9755,6 +9771,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 449079,
+      "num": 449079,
+      "word": "教资科三",
+      "onboard_time": 1726395260,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 448881,
       "num": 448881,
       "word": "高铁上一对退役军人情侣火了",
@@ -11225,14 +11249,6 @@
       "onboard_time": 1726116022,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 380057,
-      "num": 380057,
-      "word": "WTT世界乒联致歉",
-      "onboard_time": 1726394841,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 379991,
@@ -15435,6 +15451,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 257789,
+      "num": 257789,
+      "word": "王骁没有台词的四分钟",
+      "onboard_time": 1726395081,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257742,
       "num": 257742,
       "word": "海警回应菲9701号船撤离",
@@ -16771,14 +16795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236615,
-      "num": 236615,
-      "word": "教资科三",
-      "onboard_time": 1726395260,
-      "rank": 24,
-      "category": "教育"
-    },
-    {
       "raw_hot": 236548,
       "num": 236548,
       "word": "400万人在线抢华为三折叠像买彩票",
@@ -17409,6 +17425,14 @@
       "onboard_time": 1725859040,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 228949,
+      "num": 228949,
+      "word": "AG对战KSG",
+      "onboard_time": 1726391120,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 228857,
@@ -20363,14 +20387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200814,
-      "num": 229433,
-      "word": "王骁没有台词的四分钟",
-      "onboard_time": 1726395081,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200783,
       "num": 219907,
       "word": "吴宣仪苞娜合照",
@@ -22635,14 +22651,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 188317,
-      "num": 223624,
-      "word": "AG对战KSG",
-      "onboard_time": 1726391120,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 188253,
       "num": 197577,
       "word": "男子高铁上抽半支烟被拘5天",
@@ -23579,6 +23587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183575,
+      "num": 183575,
+      "word": "守护解放西 气笑了",
+      "onboard_time": 1726395440,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183560,
       "num": 298188,
       "word": "男子11万多法拍奔驰竟是报废车",
@@ -24049,6 +24065,14 @@
       "onboard_time": 1725160038,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180642,
+      "num": 180642,
+      "word": "龙婆走了 尹仲也走了",
+      "onboard_time": 1726395860,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 180639,
@@ -25833,6 +25857,14 @@
       "onboard_time": 1725167119,
       "rank": 42,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 170530,
+      "num": 170530,
+      "word": "男子用筋膜枪按摩眼睛视力仅余0.1",
+      "onboard_time": 1726396221,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170481,
@@ -30283,6 +30315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146263,
+      "num": 146263,
+      "word": "我恨皮亚杰",
+      "onboard_time": 1726391598,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 146220,
       "num": 146220,
       "word": "郑钦文再战奥运决赛对手",
@@ -30913,14 +30953,6 @@
       "onboard_time": 1725633742,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 142986,
-      "num": 142986,
-      "word": "我恨皮亚杰",
-      "onboard_time": 1726391598,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 142980,
@@ -32347,6 +32379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133744,
+      "num": 133744,
+      "word": "上海地铁",
+      "onboard_time": 1726396340,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133617,
       "num": 133617,
       "word": "马嘉祺晒狗",
@@ -32817,14 +32857,6 @@
       "onboard_time": 1725879260,
       "rank": 44,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 130800,
-      "num": 130800,
-      "word": "守护解放西 气笑了",
-      "onboard_time": 1726395440,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 130784,
@@ -35123,6 +35155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113072,
+      "num": 460879,
+      "word": "大学生组团接单陪爬泰山月入过万",
+      "onboard_time": 1726394960,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113039,
       "num": 113039,
       "word": "沙威玛 腱鞘炎",
@@ -35256,6 +35296,14 @@
       "word": "追踪台风摩羯",
       "onboard_time": 1725380418,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112163,
+      "num": 112163,
+      "word": "上海启动台风一级应急响应",
+      "onboard_time": 1726396580,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -35425,6 +35473,14 @@
       "onboard_time": 1725835454,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 110446,
+      "num": 110446,
+      "word": "谢可寅美拉德初秋穿搭",
+      "onboard_time": 1726395680,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 110442,
@@ -35657,6 +35713,14 @@
       "onboard_time": 1726333996,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108067,
+      "num": 108067,
+      "word": "雨后七彩丹霞色彩好绝",
+      "onboard_time": 1726395860,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108050,
@@ -38952,14 +39016,6 @@
       "word": "一图了解中非合作论坛",
       "onboard_time": 1725264979,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61521,
-      "num": 398160,
-      "word": "大学生组团接单陪爬泰山月入过万",
-      "onboard_time": 1726394960,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
