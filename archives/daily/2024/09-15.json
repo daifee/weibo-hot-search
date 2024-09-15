@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726400180258,
+  "endTime": 1726403908752,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -9,6 +9,14 @@
       "onboard_time": 1726395980,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2892957,
+      "num": 2892957,
+      "word": "孙颖莎冠军",
+      "onboard_time": 1726401802,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 2581535,
@@ -195,6 +203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1105733,
+      "num": 1105733,
+      "word": "于适 张雨绮",
+      "onboard_time": 1726402521,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1097764,
       "num": 1097764,
       "word": "教资科二",
@@ -209,6 +225,14 @@
       "onboard_time": 1726323264,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1031259,
+      "num": 610483,
+      "word": "周澄奥 已婚有娃",
+      "onboard_time": 1726401441,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 970799,
@@ -331,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 641437,
+      "num": 641437,
+      "word": "断供房贷被冷处理",
+      "onboard_time": 1726398142,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 639214,
       "num": 639214,
       "word": "孙颖莎vs张本美和",
@@ -369,6 +401,14 @@
       "onboard_time": 1726371319,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 606949,
+      "num": 606949,
+      "word": "AG对战KSG",
+      "onboard_time": 1726391120,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 606050,
@@ -433,6 +473,14 @@
       "onboard_time": 1726321822,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 553910,
+      "num": 553910,
+      "word": "孙颖莎回应夺冠",
+      "onboard_time": 1726402762,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 540023,
@@ -545,14 +593,6 @@
       "onboard_time": 1726390399,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 450980,
-      "num": 450980,
-      "word": "AG对战KSG",
-      "onboard_time": 1726391120,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 449079,
@@ -699,6 +739,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 366639,
+      "num": 366639,
+      "word": "大学女生陪爬泰山只收20元",
+      "onboard_time": 1726398142,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 364890,
+      "num": 364890,
+      "word": "孙颖莎正手好帅",
+      "onboard_time": 1726401923,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 364505,
       "num": 348681,
       "word": "汪苏泷演唱会苏州站取消",
@@ -723,12 +779,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 360121,
+      "num": 360121,
+      "word": "孙颖莎神仙球梅开二度",
+      "onboard_time": 1726402341,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 359487,
       "num": 359487,
       "word": "鹭卓巡演疑似被叫停",
       "onboard_time": 1726317261,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 352351,
+      "num": 518565,
+      "word": "中央气象台台风红色预警发布",
+      "onboard_time": 1726397182,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 351892,
@@ -752,6 +824,14 @@
       "word": "许昕说孙颖莎今天状态只有7分",
       "onboard_time": 1726326382,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 342659,
+      "num": 342659,
+      "word": "孙颖莎说回北京请王艺迪吃好的",
+      "onboard_time": 1726403361,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -801,6 +881,14 @@
       "onboard_time": 1726359737,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 321841,
+      "num": 321841,
+      "word": "贝碧嘉或以强台风级登陆浙江上海一带",
+      "onboard_time": 1726403361,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 314783,
@@ -883,6 +971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 297892,
+      "num": 297892,
+      "word": "台风天非必要不外出",
+      "onboard_time": 1726398082,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296166,
       "num": 296166,
       "word": "06年小学老师的一天",
@@ -939,14 +1035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 276608,
-      "num": 276608,
-      "word": "大学女生陪爬泰山只收20元",
-      "onboard_time": 1726398142,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 272249,
       "num": 272249,
       "word": "干巴大叔",
@@ -971,11 +1059,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 267325,
-      "num": 267325,
-      "word": "台风天非必要不外出",
-      "onboard_time": 1726398082,
-      "rank": 30,
+      "raw_hot": 266750,
+      "num": 266750,
+      "word": "女子地铁被家暴称丈夫花5000养情人",
+      "onboard_time": 1726399641,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -996,7 +1084,7 @@
     },
     {
       "raw_hot": 257789,
-      "num": 257789,
+      "num": 270801,
       "word": "王骁没有台词的四分钟",
       "onboard_time": 1726395081,
       "rank": 27,
@@ -1033,6 +1121,14 @@
       "onboard_time": 1726380678,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 252901,
+      "num": 252901,
+      "word": "大角度变线",
+      "onboard_time": 1726402521,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 251908,
@@ -1083,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240941,
+      "num": 240941,
+      "word": "孙颖莎采访",
+      "onboard_time": 1726403663,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 238990,
       "num": 238990,
       "word": "上海杭州市民非必要不外出",
@@ -1099,8 +1203,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235853,
+      "num": 365961,
+      "word": "王安宇把整个内娱认了一遍",
+      "onboard_time": 1726399279,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224095,
-      "num": 224095,
+      "num": 613281,
       "word": "上海启动台风一级应急响应",
       "onboard_time": 1726396580,
       "rank": 47,
@@ -1115,6 +1227,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 220385,
+      "num": 220385,
+      "word": "AG剧透",
+      "onboard_time": 1726400480,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 220174,
       "num": 220174,
       "word": "台风路径",
@@ -1123,12 +1243,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219241,
-      "num": 229093,
-      "word": "断供房贷被冷处理",
-      "onboard_time": 1726398142,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 219453,
+      "num": 219453,
+      "word": "把洋娃娃改成买不起的样子",
+      "onboard_time": 1726399581,
+      "rank": 43,
+      "category": "休闲"
     },
     {
       "raw_hot": 218339,
@@ -1137,14 +1257,6 @@
       "onboard_time": 1726317502,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 216829,
-      "num": 220838,
-      "word": "王安宇把整个内娱认了一遍",
-      "onboard_time": 1726399279,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 213260,
@@ -1169,6 +1281,14 @@
       "onboard_time": 1726311741,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210754,
+      "num": 210754,
+      "word": "AG3比0抢赛点",
+      "onboard_time": 1726403482,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 207999,
@@ -1264,6 +1384,14 @@
       "word": "杨超越这六年每一步都算数",
       "onboard_time": 1726384637,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 195439,
+      "num": 195439,
+      "word": "刘耀文路透",
+      "onboard_time": 1726403422,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -1387,6 +1515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178603,
+      "num": 178603,
+      "word": "颖儿说参加严屹宽婚礼哭得稀里哗啦",
+      "onboard_time": 1726400901,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178151,
       "num": 178151,
       "word": "PEL秋季赛第六周周决赛",
@@ -1419,12 +1555,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 176109,
+      "num": 176109,
+      "word": "台风前上海天空变紫红色了",
+      "onboard_time": 1726403361,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175275,
       "num": 175275,
       "word": "晋江称机房网络运营商线路故障",
       "onboard_time": 1726307420,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 175210,
+      "num": 175210,
+      "word": "一诺心率飙升",
+      "onboard_time": 1726400180,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 174078,
@@ -1507,14 +1659,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 164084,
-      "num": 164084,
-      "word": "女子地铁被家暴称丈夫花5000养情人",
-      "onboard_time": 1726399641,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163293,
       "num": 163293,
       "word": "专家称调休使人难以归家违背传统",
@@ -1563,19 +1707,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160277,
-      "num": 518565,
-      "word": "中央气象台台风红色预警发布",
-      "onboard_time": 1726397182,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159088,
       "num": 159088,
       "word": "看凡人歌那隽离职爽到了",
       "onboard_time": 1726388959,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 158783,
+      "num": 158783,
+      "word": "终于有剧能一眼认出长大的亲人了",
+      "onboard_time": 1726403841,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -1609,6 +1753,14 @@
       "onboard_time": 1726368498,
       "rank": 39,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 157774,
+      "num": 157774,
+      "word": "孙颖莎4比2战胜王艺迪",
+      "onboard_time": 1726402643,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 157341,
@@ -2027,14 +2179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125433,
-      "num": 125433,
-      "word": "把洋娃娃改成买不起的样子",
-      "onboard_time": 1726399581,
-      "rank": 43,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 125282,
       "num": 125282,
       "word": "空壳月饼",
@@ -2129,6 +2273,14 @@
       "onboard_time": 1726400122,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112063,
+      "num": 435304,
+      "word": "林诗栋vs邱党",
+      "onboard_time": 1726325962,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 111853,
@@ -2428,7 +2580,7 @@
     },
     {
       "raw_hot": 41875,
-      "num": 156560,
+      "num": 1748427,
       "word": "淬火强军新征程",
       "onboard_time": 1726389019,
       "rank": 35,
@@ -2608,6 +2760,14 @@
       "word": "女到中年我重新爱上骑车",
       "onboard_time": 1726375098,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23362,
+      "num": 365358,
+      "word": "水泡村庄4个月种田人改当钓鱼佬",
+      "onboard_time": 1726402283,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
