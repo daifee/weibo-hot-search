@@ -1,0 +1,410 @@
+{
+  "runTime": 1726374331506,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1450197,
+        "num": 1450197,
+        "word": "罗志祥回应恺乐怀孕",
+        "onboard_time": 1726370599,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1071345,
+        "num": 1071345,
+        "word": "五仁月饼为啥被那么多人嫌弃",
+        "onboard_time": 1726366039,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 31687,
+        "num": 913290,
+        "word": "忠义天下",
+        "onboard_time": 1726371858,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 868291,
+        "num": 868291,
+        "word": "孩子未做肝脏活检保险公司拒赔",
+        "onboard_time": 1726367358,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659537,
+        "num": 659537,
+        "word": "教资",
+        "onboard_time": 1726369399,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 650648,
+        "num": 650648,
+        "word": "杨洋章若楠开机同框",
+        "onboard_time": 1726370238,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 627982,
+        "num": 627982,
+        "word": "不活检就达不到重疾标准吗",
+        "onboard_time": 1726370538,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576200,
+        "num": 576200,
+        "word": "教资答案",
+        "onboard_time": 1726372039,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 324032,
+        "num": 571955,
+        "word": "大杨哥称三年卖美诚月饼近百万单",
+        "onboard_time": 1726372579,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368679,
+        "num": 571796,
+        "word": "抖音客服称将核实美诚月饼事件",
+        "onboard_time": 1726363220,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 748363,
+        "num": 571770,
+        "word": "干巴大叔 遗嘱",
+        "onboard_time": 1726364178,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 571668,
+        "num": 571668,
+        "word": "小杨哥直播间3次带货美诚月饼",
+        "onboard_time": 1726371858,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567270,
+        "num": 567270,
+        "word": "许昕劝王楚钦粉丝不要慌",
+        "onboard_time": 1726371319,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 524947,
+        "num": 524947,
+        "word": "侃爷带妻子翻越栏杆",
+        "onboard_time": 1726368378,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23281,
+        "num": 503942,
+        "word": "中国铁路营业里程突破16万公里",
+        "onboard_time": 1726373298,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413079,
+        "num": 491787,
+        "word": "落ye归根",
+        "onboard_time": 1726370658,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 488274,
+        "num": 488274,
+        "word": "光遇",
+        "onboard_time": 1726373658,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186805,
+        "num": 463633,
+        "word": "宋佳演的张桂梅",
+        "onboard_time": 1726372638,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 463361,
+        "num": 463361,
+        "word": "教资作文",
+        "onboard_time": 1726369338,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 11692,
+        "num": 354171,
+        "word": "梁咏琪找易烊千玺合影",
+        "onboard_time": 1726374019,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 606050,
+        "num": 353322,
+        "word": "女子买6万黄金不挑款店员果断报警",
+        "onboard_time": 1726370479,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351230,
+        "num": 351230,
+        "word": "李纯小区不可能先救明星被指偷换概念",
+        "onboard_time": 1726350793,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313663,
+        "num": 313663,
+        "word": "侯鸿亮说杨洋是展昭的不二人选",
+        "onboard_time": 1726371258,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300375,
+        "num": 300375,
+        "word": "台风贝碧嘉",
+        "onboard_time": 1726320202,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297100,
+        "num": 297100,
+        "word": "女孩掉井父亲不让施救先拍照",
+        "onboard_time": 1726369157,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278447,
+        "num": 278447,
+        "word": "小伙拍照瞬间背包里红旗飘出",
+        "onboard_time": 1726366998,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275958,
+        "num": 275958,
+        "word": "又一台风登陆或致风浪潮三碰头",
+        "onboard_time": 1726361838,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268400,
+        "num": 268400,
+        "word": "王楚钦止步4强",
+        "onboard_time": 1726371678,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165931,
+        "num": 265776,
+        "word": "张凌赫赵今麦吻戏路透",
+        "onboard_time": 1726357817,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165438,
+        "num": 264669,
+        "word": "于洋是看着范丞丞黄明昊长大的",
+        "onboard_time": 1726373058,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264120,
+        "num": 264120,
+        "word": "教资科一",
+        "onboard_time": 1726370238,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 211295,
+        "num": 211295,
+        "word": "中秋假期第一天",
+        "onboard_time": 1726356017,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182665,
+        "num": 182665,
+        "word": "三只羊橱窗下架美诚月饼",
+        "onboard_time": 1726369578,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178593,
+        "num": 178593,
+        "word": "上海浙江海域或有4米巨浪",
+        "onboard_time": 1726366998,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176480,
+        "num": 176480,
+        "word": "监管局已介入小杨哥美诚月饼事件",
+        "onboard_time": 1726371080,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176140,
+        "num": 176140,
+        "word": "教资作文 跑题",
+        "onboard_time": 1726372278,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166671,
+        "num": 166671,
+        "word": "台风贝碧嘉登陆上海概率增大",
+        "onboard_time": 1726372818,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164517,
+        "num": 164517,
+        "word": "南方人吃月饼竟然切成小块插着吃",
+        "onboard_time": 1726329138,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164377,
+        "num": 164377,
+        "word": "网友曝申请退货美诚月饼遭拒",
+        "onboard_time": 1726372158,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158470,
+        "num": 158470,
+        "word": "徐锦江儿子没上过幼儿园",
+        "onboard_time": 1726371498,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157160,
+        "num": 157160,
+        "word": "中秋假期第1天或迎铁路客流高峰",
+        "onboard_time": 1726362858,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154783,
+        "num": 154783,
+        "word": "阿里云盘bug现陌生人私密照",
+        "onboard_time": 1726374019,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 151811,
+        "num": 151811,
+        "word": "42岁已婚有娃生活的一天",
+        "onboard_time": 1726374259,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149303,
+        "num": 149303,
+        "word": "贝碧嘉将于江浙一带登陆",
+        "onboard_time": 1726369399,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148148,
+        "num": 148148,
+        "word": "台风路径",
+        "onboard_time": 1726368438,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142551,
+        "num": 142551,
+        "word": "浙江迎战台风贝碧嘉",
+        "onboard_time": 1726330160,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141294,
+        "num": 141294,
+        "word": "教资选择",
+        "onboard_time": 1726371978,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 139089,
+        "num": 139089,
+        "word": "檀健次 媚眼抛给瞎子看",
+        "onboard_time": 1726369818,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138201,
+        "num": 138201,
+        "word": "敖子逸真替王源V50",
+        "onboard_time": 1726362979,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137406,
+        "num": 137406,
+        "word": "里斯本丸沉没 票房",
+        "onboard_time": 1726373119,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记涵养家国情怀#"
+    }
+  }
+}
