@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726375202858,
+  "endTime": 1726377637034,
   "band_list": [
     {
       "raw_hot": 1885412,
@@ -67,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1372714,
+      "num": 1175106,
+      "word": "小杨哥直播间3次带货美诚月饼",
+      "onboard_time": 1726371858,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1287088,
       "num": 1287088,
       "word": "抖音客服称将核实美诚月饼事件",
@@ -80,14 +88,6 @@
       "word": "五仁月饼为啥被那么多人嫌弃",
       "onboard_time": 1726366039,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1175106,
-      "num": 1175106,
-      "word": "小杨哥直播间3次带货美诚月饼",
-      "onboard_time": 1726371858,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -128,6 +128,14 @@
       "word": "又一台风登陆或致风浪潮三碰头",
       "onboard_time": 1726361838,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 732929,
+      "num": 571955,
+      "word": "大杨哥称三年卖美诚月饼近百万单",
+      "onboard_time": 1726372579,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -203,12 +211,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 571314,
+      "num": 571314,
+      "word": "监管局已介入小杨哥美诚月饼事件",
+      "onboard_time": 1726371080,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 554129,
       "num": 554129,
       "word": "于正说洪尧片酬不买房够花",
       "onboard_time": 1726321822,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 521870,
+      "num": 213957,
+      "word": "阿里云盘bug现陌生人私密照",
+      "onboard_time": 1726374019,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 515638,
@@ -257,6 +281,14 @@
       "onboard_time": 1726320202,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 444226,
+      "num": 247378,
+      "word": "42岁已婚有娃生活的一天",
+      "onboard_time": 1726374259,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 418469,
@@ -379,20 +411,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 360783,
-      "num": 571955,
-      "word": "大杨哥称三年卖美诚月饼近百万单",
-      "onboard_time": 1726372579,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 359487,
       "num": 359487,
       "word": "鹭卓巡演疑似被叫停",
       "onboard_time": 1726317261,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 351892,
+      "num": 351892,
+      "word": "央视中秋晚会第一波阵容",
+      "onboard_time": 1726374738,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 347395,
@@ -409,14 +441,6 @@
       "onboard_time": 1726326382,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 340865,
-      "num": 247378,
-      "word": "42岁已婚有娃生活的一天",
-      "onboard_time": 1726374259,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 332255,
@@ -571,6 +595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 244885,
+      "num": 203857,
+      "word": "女子灭蟑螂不料中毒进ICU抢救",
+      "onboard_time": 1726374738,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243292,
       "num": 243292,
       "word": "高铁停运",
@@ -611,14 +643,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 213957,
-      "num": 213957,
-      "word": "阿里云盘bug现陌生人私密照",
-      "onboard_time": 1726374019,
-      "rank": 41,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 213260,
       "num": 213260,
       "word": "有一种小肚子是骨盆前倾了",
@@ -633,6 +657,14 @@
       "onboard_time": 1726311741,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210009,
+      "num": 210009,
+      "word": "国产恋综容不下二本学生吗",
+      "onboard_time": 1726375879,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207319,
@@ -651,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202770,
+      "num": 202770,
+      "word": "赵露思刘宇宁射箭体型差",
+      "onboard_time": 1726377379,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200568,
       "num": 200568,
       "word": "歼20夜间空中加油画面首次公开",
@@ -659,20 +699,20 @@
       "category": "军事"
     },
     {
+      "raw_hot": 196854,
+      "num": 196854,
+      "word": "台风贝碧嘉登陆上海概率增大",
+      "onboard_time": 1726372818,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190583,
       "num": 249758,
       "word": "郭俊辰说王源很顶",
       "onboard_time": 1726374377,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 189907,
-      "num": 189907,
-      "word": "台风贝碧嘉登陆上海概率增大",
-      "onboard_time": 1726372818,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189650,
@@ -707,14 +747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181720,
-      "num": 248296,
-      "word": "央视中秋晚会第一波阵容",
-      "onboard_time": 1726374738,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 180217,
       "num": 180217,
       "word": "贝碧嘉将于江浙一带登陆",
@@ -737,14 +769,6 @@
       "onboard_time": 1726327162,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176480,
-      "num": 267217,
-      "word": "监管局已介入小杨哥美诚月饼事件",
-      "onboard_time": 1726371080,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176140,
@@ -819,14 +843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165042,
-      "num": 165042,
-      "word": "女子灭蟑螂不料中毒进ICU抢救",
-      "onboard_time": 1726374738,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164380,
       "num": 164380,
       "word": "你最喜欢的睡姿可能正伤害你的脊柱",
@@ -851,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161273,
+      "num": 161273,
+      "word": "私企老板被指玩弄多名已婚女下属",
+      "onboard_time": 1726377079,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161212,
       "num": 65365,
       "word": "汪苏泷",
@@ -873,6 +897,14 @@
       "onboard_time": 1726321043,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158741,
+      "num": 379218,
+      "word": "十几万买的收藏品实际价值5千",
+      "onboard_time": 1726374920,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158470,
@@ -955,12 +987,44 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150331,
+      "num": 149445,
+      "word": "扶贫剧 正确性别教育",
+      "onboard_time": 1726375699,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150197,
       "num": 150197,
       "word": "孙颖莎vs王艺迪",
       "onboard_time": 1726328540,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149598,
+      "num": 149598,
+      "word": "多地黑神话墙绘被毁",
+      "onboard_time": 1726377019,
+      "rank": 41,
+      "category": "社会新闻,游戏"
+    },
+    {
+      "raw_hot": 149004,
+      "num": 149004,
+      "word": "广州美诚曾尝试申请香港美诚商标",
+      "onboard_time": 1726377199,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147890,
+      "num": 147890,
+      "word": "中学教资",
+      "onboard_time": 1726377019,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 145693,
@@ -1017,6 +1081,14 @@
       "onboard_time": 1726371978,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 139698,
+      "num": 139698,
+      "word": "当代应届生就像没开封的五仁月饼",
+      "onboard_time": 1726377498,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 138600,
@@ -1227,6 +1299,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86571,
+      "num": 238212,
+      "word": "我要先做自己再做母亲女儿妻子",
+      "onboard_time": 1726375400,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 85315,
+      "num": 209994,
+      "word": "宋佳 妊娠纹不该只对妈妈可见",
+      "onboard_time": 1726377379,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 78466,
       "num": 78466,
       "word": "警方通报5岁女童小区内被碾压致死",
@@ -1243,10 +1331,34 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74982,
+      "num": 212576,
+      "word": "空调安装师傅未系安全绳坠亡房主无责",
+      "onboard_time": 1726377379,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69159,
+      "num": 151210,
+      "word": "学生时代的友情能有多珍贵",
+      "onboard_time": 1726376539,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63113,
       "num": 573626,
       "word": "走私冻品被更换包装分销全国",
       "onboard_time": 1726370058,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63073,
+      "num": 460155,
+      "word": "高校课贩子抢到选修课名额后高价转卖",
+      "onboard_time": 1726376539,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -1403,6 +1515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31601,
+      "num": 225593,
+      "word": "房东的猫在杭州找到了美好事物",
+      "onboard_time": 1726375579,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28792,
       "num": 32210,
       "word": "79岁奶奶健身19年不吃一粒药",
@@ -1417,6 +1537,14 @@
       "onboard_time": 1726340232,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 24975,
+      "num": 248201,
+      "word": "女到中年我重新爱上骑车",
+      "onboard_time": 1726375098,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23278,
@@ -1443,14 +1571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 12674,
-      "num": 379218,
-      "word": "十几万买的收藏品实际价值5千",
-      "onboard_time": 1726374920,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 11329,
       "num": 62033,
       "word": "古人的青铜器太全面了",
@@ -1460,18 +1580,10 @@
     },
     {
       "raw_hot": 7940,
-      "num": 148148,
+      "num": 551289,
       "word": "人民军队淬火向前",
       "onboard_time": 1726081931,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6205,
-      "num": 248201,
-      "word": "女到中年我重新爱上骑车",
-      "onboard_time": 1726375098,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
