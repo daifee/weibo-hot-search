@@ -1,10 +1,10 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726396725994,
+  "endTime": 1726399020308,
   "band_list": [
     {
-      "raw_hot": 4121829,
-      "num": 813550,
+      "raw_hot": 8467522,
+      "num": 8467522,
       "word": "于适工作室发声明",
       "onboard_time": 1726395980,
       "rank": 3,
@@ -131,6 +131,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1206455,
+      "num": 1206455,
+      "word": "贝碧嘉",
+      "onboard_time": 1726393040,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1194663,
+      "num": 1194663,
+      "word": "男子用筋膜枪按摩眼睛视力仅余0.1",
+      "onboard_time": 1726396221,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1155941,
       "num": 1155941,
       "word": "韩安冉回应和吴谨言同在一个关系图",
@@ -209,14 +225,6 @@
       "onboard_time": 1726377739,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 842774,
-      "num": 842774,
-      "word": "贝碧嘉",
-      "onboard_time": 1726393040,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 824124,
@@ -379,6 +387,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 574799,
+      "num": 574799,
+      "word": "孙颖莎vs王艺迪",
+      "onboard_time": 1726328540,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 569173,
       "num": 242449,
       "word": "当近视600度的室友去挂毛巾",
@@ -483,6 +499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 486076,
+      "num": 486076,
+      "word": "上海天空",
+      "onboard_time": 1726397001,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 473354,
       "num": 473354,
       "word": "四川江油失联姐弟均已遇难",
@@ -496,6 +520,14 @@
       "word": "台风贝碧嘉",
       "onboard_time": 1726320202,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 459443,
+      "num": 459443,
+      "word": "百万粉丝网红小小努力生活被抓",
+      "onboard_time": 1726397362,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -883,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275573,
+      "num": 275573,
+      "word": "张艺凡边走边卸妆",
+      "onboard_time": 1726397724,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272249,
       "num": 272249,
       "word": "干巴大叔",
@@ -987,6 +1027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 241218,
+      "num": 241218,
+      "word": "田启文透露徐少强夫人也于近日过世",
+      "onboard_time": 1726397301,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238990,
       "num": 238990,
       "word": "上海杭州市民非必要不外出",
@@ -1011,6 +1059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 228250,
+      "num": 228250,
+      "word": "江苏必要时将果断停课",
+      "onboard_time": 1726397541,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222482,
       "num": 210833,
       "word": "小脚趾的趾甲为啥是两瓣",
@@ -1033,6 +1089,14 @@
       "onboard_time": 1726317502,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 213280,
+      "num": 201843,
+      "word": "台风天非必要不外出",
+      "onboard_time": 1726398082,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213260,
@@ -1064,6 +1128,14 @@
       "word": "女子家2根甘蔗4年长了245节",
       "onboard_time": 1726386259,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207668,
+      "num": 207668,
+      "word": "大学女生陪爬泰山只收20元",
+      "onboard_time": 1726398142,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1115,12 +1187,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 202098,
+      "num": 202098,
+      "word": "王一博提议翻锅锅翻了",
+      "onboard_time": 1726398201,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 200568,
       "num": 200568,
       "word": "歼20夜间空中加油画面首次公开",
       "onboard_time": 1726362918,
       "rank": 36,
       "category": "军事"
+    },
+    {
+      "raw_hot": 198685,
+      "num": 198685,
+      "word": "守护解放西 气笑了",
+      "onboard_time": 1726395440,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 195868,
@@ -1145,6 +1233,14 @@
       "onboard_time": 1726384637,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194896,
+      "num": 194896,
+      "word": "上海启动台风一级应急响应",
+      "onboard_time": 1726396580,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194415,
@@ -1227,20 +1323,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183575,
-      "num": 183575,
-      "word": "守护解放西 气笑了",
-      "onboard_time": 1726395440,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 182665,
       "num": 660111,
       "word": "三只羊橱窗下架美诚月饼",
       "onboard_time": 1726369578,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181397,
+      "num": 181397,
+      "word": "于适告的是名誉权",
+      "onboard_time": 1726398801,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 180642,
@@ -1280,6 +1376,14 @@
       "word": "PEL秋季赛第六周周决赛",
       "onboard_time": 1726394841,
       "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 177614,
+      "num": 177614,
+      "word": "AG先拿一分",
+      "onboard_time": 1726398500,
+      "rank": 37,
       "category": "电竞"
     },
     {
@@ -1336,14 +1440,6 @@
       "word": "四川凉山预期找到海量稀土",
       "onboard_time": 1726362018,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170530,
-      "num": 170530,
-      "word": "男子用筋膜枪按摩眼睛视力仅余0.1",
-      "onboard_time": 1726396221,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1563,6 +1659,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 151806,
+      "num": 151806,
+      "word": "大帅张良节奏发动机",
+      "onboard_time": 1726398561,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 150820,
       "num": 150820,
       "word": "张予曦也演雨霖铃了",
@@ -1577,14 +1681,6 @@
       "onboard_time": 1726375699,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 150197,
-      "num": 227562,
-      "word": "孙颖莎vs王艺迪",
-      "onboard_time": 1726328540,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 149291,
@@ -1691,12 +1787,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 140990,
+      "num": 140990,
+      "word": "恋与深空",
+      "onboard_time": 1726396640,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 138600,
       "num": 138600,
       "word": "火箭炮试验时炮弹留膛细节太惊险",
       "onboard_time": 1726372940,
       "rank": 46,
       "category": "军事"
+    },
+    {
+      "raw_hot": 138262,
+      "num": 460879,
+      "word": "大学生组团接单陪爬泰山月入过万",
+      "onboard_time": 1726394960,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137406,
@@ -1795,6 +1907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 130495,
+      "num": 130495,
+      "word": "关晓彤烟花少年哭戏路透",
+      "onboard_time": 1726396760,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129868,
       "num": 129868,
       "word": "白宇 快成表演赛了都别太当真",
@@ -1891,14 +2011,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 120067,
-      "num": 120067,
-      "word": "恋与深空",
-      "onboard_time": 1726396640,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 119856,
       "num": 119856,
       "word": "韩剧妈妈朋友的儿子",
@@ -1947,22 +2059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113072,
-      "num": 460879,
-      "word": "大学生组团接单陪爬泰山月入过万",
-      "onboard_time": 1726394960,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112163,
-      "num": 112163,
-      "word": "上海启动台风一级应急响应",
-      "onboard_time": 1726396580,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111853,
       "num": 111853,
       "word": "贝碧嘉暴雨或将在上海中秋前结束",
@@ -1977,6 +2073,14 @@
       "onboard_time": 1726395680,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110291,
+      "num": 229093,
+      "word": "断供房贷被冷处理",
+      "onboard_time": 1726398142,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110086,
@@ -2033,6 +2137,14 @@
       "onboard_time": 1726324464,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106978,
+      "num": 518565,
+      "word": "中央气象台台风红色预警发布",
+      "onboard_time": 1726397182,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105930,
@@ -2420,7 +2532,7 @@
     },
     {
       "raw_hot": 26888,
-      "num": 1170916,
+      "num": 1196568,
       "word": "神十八乘组太空出差周记上新",
       "onboard_time": 1726389200,
       "rank": 2,
