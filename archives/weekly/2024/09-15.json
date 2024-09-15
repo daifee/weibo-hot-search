@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726409919433,
+  "endTime": 1726411007355,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -187,20 +187,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1240637,
+      "num": 392717,
+      "word": "妻子为徐少强办后事时心脏病发离世",
+      "onboard_time": 1726406842,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1206455,
       "num": 1206455,
       "word": "贝碧嘉",
       "onboard_time": 1726393040,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1163803,
-      "num": 392717,
-      "word": "妻子为徐少强办后事时心脏病发离世",
-      "onboard_time": 1726406842,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 1155941,
@@ -289,6 +289,14 @@
       "onboard_time": 1726403361,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 897396,
+      "num": 897396,
+      "word": "张凌赫边吻边十指紧扣",
+      "onboard_time": 1726409181,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 876991,
@@ -579,19 +587,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 514615,
-      "num": 514615,
-      "word": "张凌赫边吻边十指紧扣",
-      "onboard_time": 1726409181,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 509627,
       "num": 509627,
       "word": "私企老板被指玩弄多名已婚女下属",
       "onboard_time": 1726377079,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 501587,
+      "num": 501587,
+      "word": "台风",
+      "onboard_time": 1726302200,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -643,14 +651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 479213,
-      "num": 479213,
-      "word": "台风",
-      "onboard_time": 1726302200,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 473354,
       "num": 473354,
       "word": "四川江油失联姐弟均已遇难",
@@ -659,20 +659,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 472449,
+      "num": 472449,
+      "word": "于正压王鹤棣大奉打更人大爆",
+      "onboard_time": 1726407562,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 471312,
       "num": 471312,
       "word": "台风贝碧嘉",
       "onboard_time": 1726320202,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 460443,
-      "num": 460443,
-      "word": "于正压王鹤棣大奉打更人大爆",
-      "onboard_time": 1726407562,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 454238,
@@ -731,20 +731,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 410804,
+      "num": 410804,
+      "word": "孙颖莎说回家过中秋喽",
+      "onboard_time": 1726406901,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 400597,
       "num": 400597,
       "word": "歼20视角看宝岛",
       "onboard_time": 1726364958,
       "rank": 30,
       "category": "军事"
-    },
-    {
-      "raw_hot": 399761,
-      "num": 399761,
-      "word": "孙颖莎说回家过中秋喽",
-      "onboard_time": 1726406901,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 399272,
@@ -795,6 +795,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 387127,
+      "num": 387127,
+      "word": "为什么鸭子不惧怕台风",
+      "onboard_time": 1726408042,
+      "rank": 23,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 382723,
       "num": 444668,
       "word": "上海浙江海域或有4米巨浪",
@@ -827,14 +835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 377338,
-      "num": 377338,
-      "word": "为什么鸭子不惧怕台风",
-      "onboard_time": 1726408042,
-      "rank": 23,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 374081,
       "num": 374081,
       "word": "王楚钦赛后采访",
@@ -849,6 +849,14 @@
       "onboard_time": 1726357817,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 370973,
+      "num": 370973,
+      "word": "吴谨言竟然不吃猪肉",
+      "onboard_time": 1726408402,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 369721,
@@ -963,14 +971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 342934,
-      "num": 342934,
-      "word": "吴谨言竟然不吃猪肉",
-      "onboard_time": 1726408402,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 334843,
       "num": 334843,
       "word": "陆虎晒婚礼vlog",
@@ -1003,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331216,
+      "num": 331216,
+      "word": "一诺下一个五年还想留在赛场",
+      "onboard_time": 1726409422,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 323788,
       "num": 323788,
       "word": "凡人歌 破房文学",
@@ -1017,14 +1025,6 @@
       "onboard_time": 1726359737,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 317402,
-      "num": 317402,
-      "word": "一诺下一个五年还想留在赛场",
-      "onboard_time": 1726409422,
-      "rank": 27,
-      "category": "电竞"
     },
     {
       "raw_hot": 314783,
@@ -1060,7 +1060,7 @@
     },
     {
       "raw_hot": 306509,
-      "num": 539874,
+      "num": 728716,
       "word": "台风天非必要不外出",
       "onboard_time": 1726398082,
       "rank": 30,
@@ -1243,8 +1243,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 259182,
-      "num": 259182,
+      "raw_hot": 261871,
+      "num": 261871,
       "word": "终于有古装剧的公主抱不是转圈了",
       "onboard_time": 1726408341,
       "rank": 30,
@@ -1459,6 +1459,14 @@
       "category": "运动健身,健康医疗"
     },
     {
+      "raw_hot": 213030,
+      "num": 213030,
+      "word": "赵小童直播",
+      "onboard_time": 1726410080,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212696,
       "num": 212696,
       "word": "韩安冉说吴谨言高端",
@@ -1571,6 +1579,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 197254,
+      "num": 197254,
+      "word": "你的善良里藏着你的福气",
+      "onboard_time": 1726409541,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 196570,
       "num": 196570,
       "word": "林诗栋4比0邱党",
@@ -1675,6 +1691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186396,
+      "num": 186396,
+      "word": "王源清唱因为遇见你",
+      "onboard_time": 1726409901,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186169,
       "num": 282382,
       "word": "3名美国公民参与他国政变被判死刑",
@@ -1705,6 +1729,14 @@
       "onboard_time": 1726369578,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181570,
+      "num": 181570,
+      "word": "AG三冠王",
+      "onboard_time": 1726410801,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 180642,
@@ -1777,14 +1809,6 @@
       "onboard_time": 1726327162,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176361,
-      "num": 176361,
-      "word": "你的善良里藏着你的福气",
-      "onboard_time": 1726409541,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 176140,
@@ -1881,6 +1905,14 @@
       "onboard_time": 1726389379,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 166399,
+      "num": 166399,
+      "word": "小杨哥带货为何频频翻车",
+      "onboard_time": 1726407681,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165438,
@@ -2195,6 +2227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 142936,
+      "num": 142936,
+      "word": "李兰迪流水迢迢花絮",
+      "onboard_time": 1726410620,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142814,
       "num": 142814,
       "word": "鹭卓巡演主办方道歉",
@@ -2233,6 +2273,14 @@
       "onboard_time": 1726392799,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 141433,
+      "num": 141433,
+      "word": "钟意感谢女朋友和父母",
+      "onboard_time": 1726410261,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 141294,
@@ -2297,14 +2345,6 @@
       "onboard_time": 1726361118,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136195,
-      "num": 136195,
-      "word": "王源清唱因为遇见你",
-      "onboard_time": 1726409901,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 135266,
@@ -2795,6 +2835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51945,
+      "num": 471316,
+      "word": "商场禁止新能源车停地库合法吗",
+      "onboard_time": 1726409782,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49147,
       "num": 354171,
       "word": "梁咏琪找易烊千玺合影",
@@ -2825,6 +2873,14 @@
       "onboard_time": 1726389320,
       "rank": 46,
       "category": "互联网,艺人"
+    },
+    {
+      "raw_hot": 46035,
+      "num": 722000,
+      "word": "上海地铁多条线路16日全线停运",
+      "onboard_time": 1726410441,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44473,
@@ -2859,14 +2915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40167,
-      "num": 464171,
-      "word": "商场禁止新能源车停地库合法吗",
-      "onboard_time": 1726409782,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 40072,
       "num": 40072,
       "word": "新加坡五千块一顿的中餐",
@@ -2887,6 +2935,14 @@
       "num": 224210,
       "word": "两男子贪图口腹之欲捕食野生毛冠鹿",
       "onboard_time": 1726387760,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37837,
+      "num": 391900,
+      "word": "被指消费女性公考机构岂能如此三观不正",
+      "onboard_time": 1726410080,
       "rank": 19,
       "category": "社会新闻"
     },
