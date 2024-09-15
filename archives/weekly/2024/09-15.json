@@ -1,10 +1,10 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726368918693,
+  "endTime": 1726369453622,
   "band_list": [
     {
       "raw_hot": 1576987,
-      "num": 361325,
+      "num": 444314,
       "word": "干巴大叔 遗嘱",
       "onboard_time": 1726364178,
       "rank": 10,
@@ -35,19 +35,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1385870,
+      "num": 1385870,
+      "word": "孩子未做肝脏活检保险公司拒赔",
+      "onboard_time": 1726367358,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1287088,
       "num": 1287088,
       "word": "抖音客服称将核实美诚月饼事件",
       "onboard_time": 1726363220,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1170621,
-      "num": 1170621,
-      "word": "孩子未做肝脏活检保险公司拒赔",
-      "onboard_time": 1726367358,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 535377,
+      "num": 535377,
+      "word": "五仁月饼为啥被那么多人嫌弃",
+      "onboard_time": 1726366039,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 515638,
       "num": 515638,
       "word": "雨霖铃开机",
@@ -139,11 +147,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 428813,
-      "num": 428813,
+      "raw_hot": 471312,
+      "num": 471312,
       "word": "台风贝碧嘉",
       "onboard_time": 1726320202,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 450718,
+      "num": 450718,
+      "word": "小伙拍照瞬间背包里红旗飘出",
+      "onboard_time": 1726366998,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -185,6 +201,14 @@
       "onboard_time": 1726323203,
       "rank": 34,
       "category": "网红"
+    },
+    {
+      "raw_hot": 393593,
+      "num": 393593,
+      "word": "侃爷带妻子翻越栏杆",
+      "onboard_time": 1726368378,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 390833,
@@ -259,11 +283,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 359083,
-      "num": 359083,
-      "word": "小伙拍照瞬间背包里红旗飘出",
+      "raw_hot": 356696,
+      "num": 444668,
+      "word": "上海浙江海域或有4米巨浪",
       "onboard_time": 1726366998,
-      "rank": 11,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -299,28 +323,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 325260,
-      "num": 325260,
-      "word": "五仁月饼为啥被那么多人嫌弃",
-      "onboard_time": 1726366039,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 323565,
       "num": 239014,
       "word": "难怪上班没遇到过哈工大的学生",
       "onboard_time": 1726359737,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 316441,
-      "num": 368240,
-      "word": "上海浙江海域或有4米巨浪",
-      "onboard_time": 1726366998,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 314783,
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 303585,
-      "num": 303585,
+      "num": 444348,
       "word": "中秋假期第1天或迎铁路客流高峰",
       "onboard_time": 1726362858,
       "rank": 9,
@@ -403,6 +411,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 256723,
+      "num": 256723,
+      "word": "教资",
+      "onboard_time": 1726319842,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 256492,
       "num": 256492,
       "word": "离婚了也要争婆婆的抚养权",
@@ -425,14 +441,6 @@
       "onboard_time": 1726358178,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241770,
-      "num": 241770,
-      "word": "侃爷带妻子翻越栏杆",
-      "onboard_time": 1726368378,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 237833,
@@ -504,6 +512,14 @@
       "word": "3名美国公民参与他国政变被判死刑",
       "onboard_time": 1726332436,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180217,
+      "num": 180217,
+      "word": "贝碧嘉将于江浙一带登陆",
+      "onboard_time": 1726369399,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -611,6 +627,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158306,
+      "num": 159708,
+      "word": "台风路径",
+      "onboard_time": 1726368438,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158297,
+      "num": 158297,
+      "word": "苏州发出倡议为游客无条件免费退订",
+      "onboard_time": 1726365318,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157292,
       "num": 157292,
       "word": "左航说穿的越土越不会被认出来",
@@ -633,14 +665,6 @@
       "onboard_time": 1726325363,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 155419,
-      "num": 155419,
-      "word": "苏州发出倡议为游客无条件免费退订",
-      "onboard_time": 1726365318,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155223,
@@ -667,12 +691,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 151087,
+      "num": 151087,
+      "word": "凡人英雄挺身而出的高光时刻",
+      "onboard_time": 1726368498,
+      "rank": 39,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 150197,
       "num": 150197,
       "word": "孙颖莎vs王艺迪",
       "onboard_time": 1726328540,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145693,
+      "num": 159835,
+      "word": "杨洋新剧开机粉丝应援",
+      "onboard_time": 1726368919,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 145541,
@@ -691,6 +731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 142781,
+      "num": 142781,
+      "word": "贝碧嘉已为台风级",
+      "onboard_time": 1726364719,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142391,
       "num": 142391,
       "word": "李兰迪台词真好",
@@ -700,27 +748,11 @@
     },
     {
       "raw_hot": 142187,
-      "num": 142187,
+      "num": 151367,
       "word": "金泰亨新合照",
       "onboard_time": 1726364298,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140155,
-      "num": 140155,
-      "word": "凡人英雄挺身而出的高光时刻",
-      "onboard_time": 1726368498,
-      "rank": 39,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 137489,
-      "num": 137489,
-      "word": "台风路径",
-      "onboard_time": 1726368438,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136585,
@@ -729,6 +761,14 @@
       "onboard_time": 1726361118,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133749,
+      "num": 133749,
+      "word": "教资作文",
+      "onboard_time": 1726369338,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 132600,
@@ -744,14 +784,6 @@
       "word": "收到礼物你会第一时间搜价格吗",
       "onboard_time": 1726366998,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130771,
-      "num": 130771,
-      "word": "贝碧嘉已为台风级",
-      "onboard_time": 1726364719,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -793,6 +825,14 @@
       "onboard_time": 1726358477,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 127361,
+      "num": 127361,
+      "word": "女孩掉井父亲不让施救先拍照",
+      "onboard_time": 1726369157,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120086,
@@ -883,14 +923,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 105223,
-      "num": 105223,
-      "word": "教资",
-      "onboard_time": 1726319842,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
       "raw_hot": 104738,
       "num": 104738,
       "word": "夜市偶遇李多海",
@@ -960,6 +992,14 @@
       "word": "酒店回应女生入住遭陌生男子闯入",
       "onboard_time": 1726337593,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60603,
+      "num": 821558,
+      "word": "北京是中华文明有力见证",
+      "onboard_time": 1726369039,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1051,6 +1091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 32047,
+      "num": 674019,
+      "word": "哪个瞬间勾起你的乡愁",
+      "onboard_time": 1726368559,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28792,
       "num": 32210,
       "word": "79岁奶奶健身19年不吃一粒药",
@@ -1083,12 +1131,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14063,
-      "num": 674019,
-      "word": "哪个瞬间勾起你的乡愁",
-      "onboard_time": 1726368559,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 15649,
+      "num": 327850,
+      "word": "篮球之夜抢鲜看",
+      "onboard_time": 1726369218,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 11329,
