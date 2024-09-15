@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726418537617,
+  "endTime": 1726420682207,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -1411,6 +1411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 244839,
+      "num": 244839,
+      "word": "王源说唱太嗨露出八块腹肌了",
+      "onboard_time": 1726417097,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 243292,
       "num": 243292,
       "word": "高铁停运",
@@ -1595,6 +1603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212046,
+      "num": 212046,
+      "word": "陆虎忙完婚礼就奔向舞台",
+      "onboard_time": 1726416259,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 211270,
       "num": 211270,
       "word": "徐正溪回归娱乐圈的原因",
@@ -1611,14 +1627,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 209805,
-      "num": 209805,
-      "word": "陆虎忙完婚礼就奔向舞台",
-      "onboard_time": 1726416259,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 208675,
       "num": 208675,
       "word": "你的善良里藏着你的福气",
@@ -1633,14 +1641,6 @@
       "onboard_time": 1726386259,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207434,
-      "num": 207434,
-      "word": "王源说唱太嗨露出八块腹肌了",
-      "onboard_time": 1726417097,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 207319,
@@ -2763,6 +2763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 121716,
+      "num": 121716,
+      "word": "TI13总决赛",
+      "onboard_time": 1726419616,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 120086,
       "num": 120086,
       "word": "晋江崩了",
@@ -3035,6 +3043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77692,
+      "num": 77692,
+      "word": "凡人歌",
+      "onboard_time": 1726401681,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76422,
       "num": 76422,
       "word": "Capper 发条盆友圈",
@@ -3129,6 +3145,14 @@
       "onboard_time": 1726414100,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 50282,
+      "num": 128365,
+      "word": "音乐生军训领唱教官汗流浃背了",
+      "onboard_time": 1726420156,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49147,
@@ -3408,6 +3432,14 @@
       "word": "90岁硬核老人1小时横渡长江",
       "onboard_time": 1726343471,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21049,
+      "num": 423145,
+      "word": "大数据看中秋假期",
+      "onboard_time": 1726405341,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1726417574980,
-  "endTime": 1726418537617,
+  "endTime": 1726420682207,
   "band_list": [
     {
       "raw_hot": 1141670,
@@ -171,6 +171,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 244839,
+      "num": 244839,
+      "word": "王源说唱太嗨露出八块腹肌了",
+      "onboard_time": 1726417097,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 241220,
       "num": 241220,
       "word": "林诗栋男单冠军",
@@ -187,19 +195,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209805,
-      "num": 209805,
+      "raw_hot": 212046,
+      "num": 212046,
       "word": "陆虎忙完婚礼就奔向舞台",
       "onboard_time": 1726416259,
       "rank": 26,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 207434,
-      "num": 207434,
-      "word": "王源说唱太嗨露出八块腹肌了",
-      "onboard_time": 1726417097,
-      "rank": 31,
       "category": "演出"
     },
     {
@@ -363,6 +363,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121716,
+      "num": 121716,
+      "word": "TI13总决赛",
+      "onboard_time": 1726419616,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 120069,
+      "num": 205390,
+      "word": "546米上海之巅看台风来临",
+      "onboard_time": 1726405341,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116527,
       "num": 116527,
       "word": "倪乐琳港姐冠军",
@@ -411,12 +427,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 61906,
-      "num": 205390,
-      "word": "546米上海之巅看台风来临",
-      "onboard_time": 1726405341,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 77692,
+      "num": 77692,
+      "word": "凡人歌",
+      "onboard_time": 1726401681,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 74674,
+      "num": 74674,
+      "word": "韩安冉回应和吴谨言同在一个关系图",
+      "onboard_time": 1726387399,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 51797,
@@ -425,6 +449,14 @@
       "onboard_time": 1726414100,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 50282,
+      "num": 128365,
+      "word": "音乐生军训领唱教官汗流浃背了",
+      "onboard_time": 1726420156,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42073,
@@ -439,6 +471,14 @@
       "num": 922143,
       "word": "中国铁路营业里程超16万公里",
       "onboard_time": 1726405523,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21049,
+      "num": 423145,
+      "word": "大数据看中秋假期",
+      "onboard_time": 1726405341,
       "rank": 2,
       "category": "社会新闻"
     }
