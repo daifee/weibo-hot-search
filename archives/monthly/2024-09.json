@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726399020308,
+  "endTime": 1726400180258,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -897,6 +897,14 @@
       "onboard_time": 1725540983,
       "rank": 4,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1845747,
+      "num": 1845747,
+      "word": "男子用筋膜枪按摩眼睛视力仅余0.1",
+      "onboard_time": 1726396221,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1840204,
@@ -1803,6 +1811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1437036,
+      "num": 1437036,
+      "word": "孙颖莎vs王艺迪",
+      "onboard_time": 1726328540,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1434927,
       "num": 1434927,
       "word": "17岁女生花十多万买笑气",
@@ -2609,14 +2625,6 @@
       "onboard_time": 1726109962,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1194663,
-      "num": 1194663,
-      "word": "男子用筋膜枪按摩眼睛视力仅余0.1",
-      "onboard_time": 1726396221,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1194575,
@@ -4777,6 +4785,14 @@
       "onboard_time": 1725274882,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 817009,
+      "num": 817009,
+      "word": "于适告的是名誉权",
+      "onboard_time": 1726398801,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 817000,
@@ -7523,14 +7539,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 574799,
-      "num": 574799,
-      "word": "孙颖莎vs王艺迪",
-      "onboard_time": 1726328540,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 574117,
       "num": 273217,
       "word": "中秋糕点开始扎推讨好年轻人",
@@ -9019,6 +9027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 489368,
+      "num": 459443,
+      "word": "百万粉丝网红小小努力生活被抓",
+      "onboard_time": 1726397362,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 488665,
       "num": 488665,
       "word": "王楚钦说对阵林诗栋自己处下风",
@@ -9603,14 +9619,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 459443,
-      "num": 459443,
-      "word": "百万粉丝网红小小努力生活被抓",
-      "onboard_time": 1726397362,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 458948,
       "num": 458948,
       "word": "许昕恢复训练",
@@ -9745,6 +9753,14 @@
       "onboard_time": 1725958702,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 450980,
+      "num": 450980,
+      "word": "AG对战KSG",
+      "onboard_time": 1726391120,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 450898,
@@ -14243,6 +14259,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 282422,
+      "num": 282422,
+      "word": "张艺凡边走边卸妆",
+      "onboard_time": 1726397724,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282408,
       "num": 282408,
       "word": "新郎被绑路灯杆喷水只剩内裤",
@@ -14499,6 +14523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276608,
+      "num": 276608,
+      "word": "大学女生陪爬泰山只收20元",
+      "onboard_time": 1726398142,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276026,
       "num": 276026,
       "word": "这5类人喝咖啡格外受益",
@@ -14521,14 +14553,6 @@
       "onboard_time": 1725326480,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 275573,
-      "num": 275573,
-      "word": "张艺凡边走边卸妆",
-      "onboard_time": 1726397724,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 275263,
@@ -15009,6 +15033,14 @@
       "onboard_time": 1725804620,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 267325,
+      "num": 267325,
+      "word": "台风天非必要不外出",
+      "onboard_time": 1726398082,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266636,
@@ -15795,6 +15827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251908,
+      "num": 282688,
+      "word": "江苏必要时将果断停课",
+      "onboard_time": 1726397541,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251796,
       "num": 393530,
       "word": "野孩子",
@@ -15993,6 +16033,14 @@
       "onboard_time": 1725988634,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247890,
+      "num": 247890,
+      "word": "守护解放西 气笑了",
+      "onboard_time": 1726395440,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 247643,
@@ -17475,14 +17523,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 228949,
-      "num": 228949,
-      "word": "AG对战KSG",
-      "onboard_time": 1726391120,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 228857,
       "num": 228857,
       "word": "阿条姐当年是玩冷兵器的",
@@ -17544,14 +17584,6 @@
       "word": "海口躲台风腿被夹业主一家平安",
       "onboard_time": 1725802340,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228250,
-      "num": 228250,
-      "word": "江苏必要时将果断停课",
-      "onboard_time": 1726397541,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -17833,6 +17865,14 @@
       "onboard_time": 1725453559,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 224095,
+      "num": 224095,
+      "word": "上海启动台风一级应急响应",
+      "onboard_time": 1726396580,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224044,
@@ -18259,6 +18299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219241,
+      "num": 229093,
+      "word": "断供房贷被冷处理",
+      "onboard_time": 1726398142,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218988,
       "num": 443724,
       "word": "湖南一地大量蜉蝣婚飞如下雪",
@@ -18449,6 +18497,14 @@
       "onboard_time": 1725354682,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216829,
+      "num": 220838,
+      "word": "王安宇把整个内娱认了一遍",
+      "onboard_time": 1726399279,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 216587,
@@ -18745,14 +18801,6 @@
       "onboard_time": 1725797660,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 213280,
-      "num": 201843,
-      "word": "台风天非必要不外出",
-      "onboard_time": 1726398082,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213260,
@@ -19408,14 +19456,6 @@
       "word": "泰国醉酒男葬礼上闹事被乱枪打死",
       "onboard_time": 1725184339,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207668,
-      "num": 207668,
-      "word": "大学女生陪爬泰山只收20元",
-      "onboard_time": 1726398142,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -20875,14 +20915,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 198685,
-      "num": 198685,
-      "word": "守护解放西 气笑了",
-      "onboard_time": 1726395440,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198663,
       "num": 198663,
       "word": "金敬道被终身禁足",
@@ -21617,14 +21649,6 @@
       "onboard_time": 1725978744,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 194896,
-      "num": 194896,
-      "word": "上海启动台风一级应急响应",
-      "onboard_time": 1726396580,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194888,
@@ -24041,14 +24065,6 @@
       "onboard_time": 1725134592,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181397,
-      "num": 181397,
-      "word": "于适告的是名誉权",
-      "onboard_time": 1726398801,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 181376,
@@ -27011,6 +27027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164084,
+      "num": 164084,
+      "word": "女子地铁被家暴称丈夫花5000养情人",
+      "onboard_time": 1726399641,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164053,
       "num": 164053,
       "word": "陈昊宇回应心疼谢美蓝",
@@ -27697,6 +27721,14 @@
       "onboard_time": 1725290122,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160277,
+      "num": 518565,
+      "word": "中央气象台台风红色预警发布",
+      "onboard_time": 1726397182,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160258,
@@ -28553,6 +28585,14 @@
       "onboard_time": 1725279079,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155976,
+      "num": 155976,
+      "word": "南派三叔在藏海花玩上抽象了",
+      "onboard_time": 1726399762,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 155957,
@@ -30971,6 +31011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143391,
+      "num": 143391,
+      "word": "上海地铁",
+      "onboard_time": 1726396340,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143281,
       "num": 164940,
       "word": "广东也开始感受到摩羯威力了",
@@ -32483,14 +32531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 133744,
-      "num": 133744,
-      "word": "上海地铁",
-      "onboard_time": 1726396340,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133617,
       "num": 133617,
       "word": "马嘉祺晒狗",
@@ -32969,6 +33009,14 @@
       "onboard_time": 1725679759,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130705,
+      "num": 130705,
+      "word": "陈哲远这哪是战损是在刀心啊",
+      "onboard_time": 1726399342,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 130597,
@@ -33801,6 +33849,14 @@
       "onboard_time": 1725778818,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125433,
+      "num": 125433,
+      "word": "把洋娃娃改成买不起的样子",
+      "onboard_time": 1726399581,
+      "rank": 43,
+      "category": "休闲"
     },
     {
       "raw_hot": 125387,
@@ -34707,6 +34763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118063,
+      "num": 118063,
+      "word": "程芽芽高中毕业三年带娃经验",
+      "onboard_time": 1726400060,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117996,
       "num": 117996,
       "word": "开学 堵车",
@@ -35403,6 +35467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112163,
+      "num": 112163,
+      "word": "背着明浩跑",
+      "onboard_time": 1726400122,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112052,
       "num": 112052,
       "word": "ye Back",
@@ -35609,14 +35681,6 @@
       "onboard_time": 1726148659,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 110291,
-      "num": 229093,
-      "word": "断供房贷被冷处理",
-      "onboard_time": 1726398142,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110086,
@@ -35937,14 +36001,6 @@
       "onboard_time": 1725885259,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 106978,
-      "num": 518565,
-      "word": "中央气象台台风红色预警发布",
-      "onboard_time": 1726397182,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106873,
@@ -43548,7 +43604,7 @@
     },
     {
       "raw_hot": 26888,
-      "num": 1196568,
+      "num": 1712334,
       "word": "神十八乘组太空出差周记上新",
       "onboard_time": 1726389200,
       "rank": 2,

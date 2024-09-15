@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726399020308,
+  "endTime": 1726400180258,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -25,6 +25,14 @@
       "onboard_time": 1726319842,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1845747,
+      "num": 1845747,
+      "word": "男子用筋膜枪按摩眼睛视力仅余0.1",
+      "onboard_time": 1726396221,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1809189,
@@ -83,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1437036,
+      "num": 1437036,
+      "word": "孙颖莎vs王艺迪",
+      "onboard_time": 1726328540,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1407571,
       "num": 1407571,
       "word": "假杂志骗了几十个明星拍封面",
@@ -136,14 +152,6 @@
       "word": "贝碧嘉",
       "onboard_time": 1726393040,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1194663,
-      "num": 1194663,
-      "word": "男子用筋膜枪按摩眼睛视力仅余0.1",
-      "onboard_time": 1726396221,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -233,6 +241,14 @@
       "onboard_time": 1726370238,
       "rank": 15,
       "category": "教育"
+    },
+    {
+      "raw_hot": 817009,
+      "num": 817009,
+      "word": "于适告的是名誉权",
+      "onboard_time": 1726398801,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 809590,
@@ -387,14 +403,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 574799,
-      "num": 574799,
-      "word": "孙颖莎vs王艺迪",
-      "onboard_time": 1726328540,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 569173,
       "num": 242449,
       "word": "当近视600度的室友去挂毛巾",
@@ -491,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 489368,
+      "num": 459443,
+      "word": "百万粉丝网红小小努力生活被抓",
+      "onboard_time": 1726397362,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 488274,
       "num": 488274,
       "word": "光遇",
@@ -523,20 +539,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 459443,
-      "num": 459443,
-      "word": "百万粉丝网红小小努力生活被抓",
-      "onboard_time": 1726397362,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 454238,
       "num": 454238,
       "word": "吴倩也是饶雪漫的书模",
       "onboard_time": 1726390399,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 450980,
+      "num": 450980,
+      "word": "AG对战KSG",
+      "onboard_time": 1726391120,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 449079,
@@ -899,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282422,
+      "num": 282422,
+      "word": "张艺凡边走边卸妆",
+      "onboard_time": 1726397724,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280487,
       "num": 280487,
       "word": "王楚钦玩新发球",
@@ -915,12 +939,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 275573,
-      "num": 275573,
-      "word": "张艺凡边走边卸妆",
-      "onboard_time": 1726397724,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 276608,
+      "num": 276608,
+      "word": "大学女生陪爬泰山只收20元",
+      "onboard_time": 1726398142,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272249,
@@ -945,6 +969,14 @@
       "onboard_time": 1726371678,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 267325,
+      "num": 267325,
+      "word": "台风天非必要不外出",
+      "onboard_time": 1726398082,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264066,
@@ -1003,6 +1035,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251908,
+      "num": 282688,
+      "word": "江苏必要时将果断停课",
+      "onboard_time": 1726397541,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247890,
+      "num": 247890,
+      "word": "守护解放西 气笑了",
+      "onboard_time": 1726395440,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247481,
       "num": 247481,
       "word": "王源让敖子逸给粉丝转50",
@@ -1051,19 +1099,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228949,
-      "num": 228949,
-      "word": "AG对战KSG",
-      "onboard_time": 1726391120,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 228250,
-      "num": 228250,
-      "word": "江苏必要时将果断停课",
-      "onboard_time": 1726397541,
-      "rank": 23,
+      "raw_hot": 224095,
+      "num": 224095,
+      "word": "上海启动台风一级应急响应",
+      "onboard_time": 1726396580,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1083,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219241,
+      "num": 229093,
+      "word": "断供房贷被冷处理",
+      "onboard_time": 1726398142,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218339,
       "num": 218339,
       "word": "银河左岸",
@@ -1091,12 +1139,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 213280,
-      "num": 201843,
-      "word": "台风天非必要不外出",
-      "onboard_time": 1726398082,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 216829,
+      "num": 220838,
+      "word": "王安宇把整个内娱认了一遍",
+      "onboard_time": 1726399279,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 213260,
@@ -1128,14 +1176,6 @@
       "word": "女子家2根甘蔗4年长了245节",
       "onboard_time": 1726386259,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207668,
-      "num": 207668,
-      "word": "大学女生陪爬泰山只收20元",
-      "onboard_time": 1726398142,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1203,14 +1243,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 198685,
-      "num": 198685,
-      "word": "守护解放西 气笑了",
-      "onboard_time": 1726395440,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 195868,
       "num": 195868,
       "word": "龙傲天你这样谈我可不困了",
@@ -1233,14 +1265,6 @@
       "onboard_time": 1726384637,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 194896,
-      "num": 194896,
-      "word": "上海启动台风一级应急响应",
-      "onboard_time": 1726396580,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194415,
@@ -1329,14 +1353,6 @@
       "onboard_time": 1726369578,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181397,
-      "num": 181397,
-      "word": "于适告的是名誉权",
-      "onboard_time": 1726398801,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 180642,
@@ -1491,6 +1507,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 164084,
+      "num": 164084,
+      "word": "女子地铁被家暴称丈夫花5000养情人",
+      "onboard_time": 1726399641,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163293,
       "num": 163293,
       "word": "专家称调休使人难以归家违背传统",
@@ -1537,6 +1561,14 @@
       "onboard_time": 1726321043,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160277,
+      "num": 518565,
+      "word": "中央气象台台风红色预警发布",
+      "onboard_time": 1726397182,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159088,
@@ -1609,6 +1641,14 @@
       "onboard_time": 1726303401,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155976,
+      "num": 155976,
+      "word": "南派三叔在藏海花玩上抽象了",
+      "onboard_time": 1726399762,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 155732,
@@ -1729,6 +1769,14 @@
       "onboard_time": 1726376839,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143391,
+      "num": 143391,
+      "word": "上海地铁",
+      "onboard_time": 1726396340,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143166,
@@ -1875,14 +1923,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 133744,
-      "num": 133744,
-      "word": "上海地铁",
-      "onboard_time": 1726396340,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132600,
       "num": 132600,
       "word": "每年卖不完的月饼都去哪了",
@@ -1905,6 +1945,14 @@
       "onboard_time": 1726391421,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 130705,
+      "num": 130705,
+      "word": "陈哲远这哪是战损是在刀心啊",
+      "onboard_time": 1726399342,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 130495,
@@ -1979,6 +2027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125433,
+      "num": 125433,
+      "word": "把洋娃娃改成买不起的样子",
+      "onboard_time": 1726399581,
+      "rank": 43,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 125282,
       "num": 125282,
       "word": "空壳月饼",
@@ -2016,6 +2072,14 @@
       "word": "韩剧妈妈朋友的儿子",
       "onboard_time": 1726324345,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 118063,
+      "num": 118063,
+      "word": "程芽芽高中毕业三年带娃经验",
+      "onboard_time": 1726400060,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -2059,6 +2123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112163,
+      "num": 112163,
+      "word": "背着明浩跑",
+      "onboard_time": 1726400122,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111853,
       "num": 111853,
       "word": "贝碧嘉暴雨或将在上海中秋前结束",
@@ -2073,14 +2145,6 @@
       "onboard_time": 1726395680,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110291,
-      "num": 229093,
-      "word": "断供房贷被冷处理",
-      "onboard_time": 1726398142,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110086,
@@ -2137,14 +2201,6 @@
       "onboard_time": 1726324464,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106978,
-      "num": 518565,
-      "word": "中央气象台台风红色预警发布",
-      "onboard_time": 1726397182,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105930,
@@ -2532,7 +2588,7 @@
     },
     {
       "raw_hot": 26888,
-      "num": 1196568,
+      "num": 1712334,
       "word": "神十八乘组太空出差周记上新",
       "onboard_time": 1726389200,
       "rank": 2,
