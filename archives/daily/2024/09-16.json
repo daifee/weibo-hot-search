@@ -1,6 +1,6 @@
 {
   "startTime": 1726417574980,
-  "endTime": 1726420682207,
+  "endTime": 1726421744241,
   "band_list": [
     {
       "raw_hot": 1141670,
@@ -443,6 +443,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69852,
+      "num": 69852,
+      "word": "菲海警船撤了另一艘旧军舰也该走了",
+      "onboard_time": 1726420815,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 67164,
+      "num": 67164,
+      "word": "王安宇秒认秦海璐",
+      "onboard_time": 1726417579,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 55835,
+      "num": 128365,
+      "word": "音乐生军训领唱教官汗流浃背了",
+      "onboard_time": 1726420156,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51797,
       "num": 429440,
       "word": "AG淋的金色雨是海信下的",
@@ -451,15 +475,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 50282,
-      "num": 128365,
-      "word": "音乐生军训领唱教官汗流浃背了",
-      "onboard_time": 1726420156,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42073,
+      "raw_hot": 46773,
       "num": 160128,
       "word": "上海台风",
       "onboard_time": 1726285940,
@@ -475,7 +491,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21049,
+      "raw_hot": 27058,
       "num": 423145,
       "word": "大数据看中秋假期",
       "onboard_time": 1726405341,

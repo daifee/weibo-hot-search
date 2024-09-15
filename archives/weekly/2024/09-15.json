@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726420682207,
+  "endTime": 1726421744241,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -3059,12 +3059,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69852,
+      "num": 69852,
+      "word": "菲海警船撤了另一艘旧军舰也该走了",
+      "onboard_time": 1726420815,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 69159,
       "num": 151210,
       "word": "学生时代的友情能有多珍贵",
       "onboard_time": 1726376539,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 67164,
+      "num": 67164,
+      "word": "王安宇秒认秦海璐",
+      "onboard_time": 1726417579,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 63113,
@@ -3131,6 +3147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55835,
+      "num": 128365,
+      "word": "音乐生军训领唱教官汗流浃背了",
+      "onboard_time": 1726420156,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51945,
       "num": 471316,
       "word": "商场禁止新能源车停地库合法吗",
@@ -3145,14 +3169,6 @@
       "onboard_time": 1726414100,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 50282,
-      "num": 128365,
-      "word": "音乐生军训领唱教官汗流浃背了",
-      "onboard_time": 1726420156,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49147,
@@ -3187,6 +3203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46773,
+      "num": 199995,
+      "word": "上海台风",
+      "onboard_time": 1726285940,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46147,
       "num": 124040,
       "word": "真维斯董事长评价王一博",
@@ -3209,14 +3233,6 @@
       "onboard_time": 1726320864,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 42073,
-      "num": 199995,
-      "word": "上海台风",
-      "onboard_time": 1726285940,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41919,
@@ -3395,6 +3411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 27058,
+      "num": 423145,
+      "word": "大数据看中秋假期",
+      "onboard_time": 1726405341,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26888,
       "num": 1712334,
       "word": "神十八乘组太空出差周记上新",
@@ -3432,14 +3456,6 @@
       "word": "90岁硬核老人1小时横渡长江",
       "onboard_time": 1726343471,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21049,
-      "num": 423145,
-      "word": "大数据看中秋假期",
-      "onboard_time": 1726405341,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
