@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726382534435,
+  "endTime": 1726384752454,
   "band_list": [
     {
       "raw_hot": 1885412,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1109240,
+      "num": 1177478,
+      "word": "迪丽热巴妆造",
+      "onboard_time": 1726381459,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1075319,
       "num": 1075319,
       "word": "不敢相信这是陈卓璇",
@@ -131,8 +139,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 940330,
+      "num": 940330,
+      "word": "牛马月饼",
+      "onboard_time": 1726381518,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 876991,
-      "num": 638101,
+      "num": 706185,
       "word": "纪凌尘对沈月说要牵只能牵我的手",
       "onboard_time": 1726377739,
       "rank": 15,
@@ -147,12 +163,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 798658,
+      "num": 798658,
+      "word": "空调安装师傅未系安全绳坠亡房主无责",
+      "onboard_time": 1726377379,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 795669,
       "num": 795669,
       "word": "又一台风登陆或致风浪潮三碰头",
       "onboard_time": 1726361838,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 735930,
+      "num": 735930,
+      "word": "教资科二",
+      "onboard_time": 1726384518,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 732929,
@@ -169,14 +201,6 @@
       "onboard_time": 1726368378,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 694052,
-      "num": 694052,
-      "word": "空调安装师傅未系安全绳坠亡房主无责",
-      "onboard_time": 1726377379,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 650648,
@@ -283,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 506931,
-      "num": 506931,
-      "word": "迪丽热巴妆造",
-      "onboard_time": 1726381459,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 500572,
       "num": 500572,
       "word": "吴谨言领证后首现身",
@@ -305,6 +321,14 @@
       "onboard_time": 1726366998,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 489527,
+      "num": 489527,
+      "word": "陈瞾旭结婚后首现身",
+      "onboard_time": 1726383979,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 488274,
@@ -563,6 +587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 306801,
+      "num": 306801,
+      "word": "陈震",
+      "onboard_time": 1726383198,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 305336,
       "num": 305336,
       "word": "林允这下真成白月光了",
@@ -603,6 +635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 293093,
+      "num": 293093,
+      "word": "螃蟹就吃二两母",
+      "onboard_time": 1726381638,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 288092,
       "num": 384100,
       "word": "敖子逸真替王源V50",
@@ -636,7 +676,7 @@
     },
     {
       "raw_hot": 271835,
-      "num": 271835,
+      "num": 298083,
       "word": "李多海带妈妈参观上海新家",
       "onboard_time": 1726379658,
       "rank": 16,
@@ -692,7 +732,7 @@
     },
     {
       "raw_hot": 253983,
-      "num": 211109,
+      "num": 219117,
       "word": "狗子啃黄景瑜啃掉一颗牙",
       "onboard_time": 1726380678,
       "rank": 24,
@@ -721,6 +761,14 @@
       "onboard_time": 1726364958,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234583,
+      "num": 234583,
+      "word": "突然明白女生留在大城市的意义",
+      "onboard_time": 1726384037,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 222482,
@@ -795,6 +843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 200661,
+      "num": 288051,
+      "word": "陆虎晒婚礼vlog",
+      "onboard_time": 1726383677,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200568,
       "num": 200568,
       "word": "歼20夜间空中加油画面首次公开",
@@ -849,6 +905,14 @@
       "onboard_time": 1726307120,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189092,
+      "num": 189092,
+      "word": "中学教资",
+      "onboard_time": 1726377019,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 186805,
@@ -987,14 +1051,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 163978,
-      "num": 163978,
-      "word": "螃蟹就吃二两母",
-      "onboard_time": 1726381638,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 163293,
       "num": 163293,
       "word": "专家称调休使人难以归家违背传统",
@@ -1115,20 +1171,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153840,
+      "num": 153840,
+      "word": "张艺兴演唱会饭拍",
+      "onboard_time": 1726383859,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 153600,
       "num": 199506,
       "word": "野孩子",
       "onboard_time": 1726367419,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 153279,
-      "num": 153279,
-      "word": "牛马月饼",
-      "onboard_time": 1726381518,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 150820,
@@ -1155,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149098,
+      "num": 149098,
+      "word": "还以为是刘亦菲哪部剧的路透",
+      "onboard_time": 1726384398,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149004,
       "num": 149004,
       "word": "广州美诚曾尝试申请香港美诚商标",
@@ -1163,12 +1227,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147890,
-      "num": 147890,
-      "word": "中学教资",
-      "onboard_time": 1726377019,
-      "rank": 45,
-      "category": "教育"
+      "raw_hot": 148843,
+      "num": 148843,
+      "word": "近八成家长认为中小学礼服没必要",
+      "onboard_time": 1726382359,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146458,
+      "num": 146458,
+      "word": "TheShy再谈是否复出",
+      "onboard_time": 1726384219,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 145693,
@@ -1275,12 +1347,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134441,
+      "num": 134441,
+      "word": "第一视角看歼20打掉敌机全过程",
+      "onboard_time": 1726383499,
+      "rank": 41,
+      "category": "军事"
+    },
+    {
       "raw_hot": 132600,
       "num": 132600,
       "word": "每年卖不完的月饼都去哪了",
       "onboard_time": 1726364838,
       "rank": 41,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 132242,
+      "num": 132242,
+      "word": "假杂志骗了几十个明星拍封面",
+      "onboard_time": 1726384637,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 131077,
@@ -1339,6 +1427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 123150,
+      "num": 123150,
+      "word": "杨超越这六年每一步都算数",
+      "onboard_time": 1726384637,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120086,
       "num": 120086,
       "word": "晋江崩了",
@@ -1393,14 +1489,6 @@
       "onboard_time": 1726362618,
       "rank": 44,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 109096,
-      "num": 109096,
-      "word": "近八成家长认为中小学礼服没必要",
-      "onboard_time": 1726382359,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108237,
@@ -1763,6 +1851,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 19368,
+      "num": 290246,
+      "word": "女子自称怀孕挑衅骚扰民警",
+      "onboard_time": 1726384518,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19234,
       "num": 617497,
       "word": "文化中国行中秋赏灯会",
@@ -1788,7 +1884,7 @@
     },
     {
       "raw_hot": 9521,
-      "num": 638564,
+      "num": 843230,
       "word": "人民军队淬火向前",
       "onboard_time": 1726081931,
       "rank": 36,

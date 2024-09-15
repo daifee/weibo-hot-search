@@ -1,0 +1,410 @@
+{
+  "runTime": 1726384752454,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1109240,
+        "num": 1177478,
+        "word": "迪丽热巴妆造",
+        "onboard_time": 1726381459,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 940330,
+        "num": 940330,
+        "word": "牛马月饼",
+        "onboard_time": 1726381518,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 8395,
+        "num": 843230,
+        "word": "人民军队淬火向前",
+        "onboard_time": 1726081931,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 798658,
+        "num": 798658,
+        "word": "空调安装师傅未系安全绳坠亡房主无责",
+        "onboard_time": 1726377379,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735930,
+        "num": 735930,
+        "word": "教资科二",
+        "onboard_time": 1726384518,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 706185,
+        "num": 706185,
+        "word": "纪凌尘对沈月说要牵只能牵我的手",
+        "onboard_time": 1726377739,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 694279,
+        "num": 694279,
+        "word": "国产恋综容不下二本学生吗",
+        "onboard_time": 1726375879,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 547430,
+        "num": 547430,
+        "word": "教资",
+        "onboard_time": 1726369399,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 489527,
+        "num": 489527,
+        "word": "陈瞾旭结婚后首现身",
+        "onboard_time": 1726383979,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 406511,
+        "num": 425582,
+        "word": "监管局已介入小杨哥美诚月饼事件",
+        "onboard_time": 1726371080,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419257,
+        "num": 419257,
+        "word": "五仁月饼为啥被那么多人嫌弃",
+        "onboard_time": 1726366039,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 415505,
+        "num": 415505,
+        "word": "多地黑神话墙绘被毁",
+        "onboard_time": 1726377019,
+        "rank": 11,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 377607,
+        "num": 377607,
+        "word": "菲9701号船多次运补失败后撤离",
+        "onboard_time": 1726380857,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 329814,
+        "num": 329814,
+        "word": "私企老板被指玩弄多名已婚女下属",
+        "onboard_time": 1726377079,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311811,
+        "num": 311811,
+        "word": "孩子未做肝脏活检保险公司拒赔",
+        "onboard_time": 1726367358,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306801,
+        "num": 306801,
+        "word": "陈震",
+        "onboard_time": 1726383198,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 230781,
+        "num": 298083,
+        "word": "李多海带妈妈参观上海新家",
+        "onboard_time": 1726379658,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293093,
+        "num": 293093,
+        "word": "螃蟹就吃二两母",
+        "onboard_time": 1726381638,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 19368,
+        "num": 290246,
+        "word": "女子自称怀孕挑衅骚扰民警",
+        "onboard_time": 1726384518,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200661,
+        "num": 288051,
+        "word": "陆虎晒婚礼vlog",
+        "onboard_time": 1726383677,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1031545,
+        "num": 287984,
+        "word": "罗志祥回应恺乐怀孕",
+        "onboard_time": 1726370599,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287459,
+        "num": 287459,
+        "word": "女子买6万黄金不挑款店员果断报警",
+        "onboard_time": 1726370479,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234583,
+        "num": 234583,
+        "word": "突然明白女生留在大城市的意义",
+        "onboard_time": 1726384037,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219478,
+        "num": 219478,
+        "word": "干巴大叔 遗嘱",
+        "onboard_time": 1726364178,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 219117,
+        "num": 219117,
+        "word": "狗子啃黄景瑜啃掉一颗牙",
+        "onboard_time": 1726380678,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201421,
+        "num": 201421,
+        "word": "教资答案",
+        "onboard_time": 1726372039,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 135779,
+        "num": 192522,
+        "word": "台风贝碧嘉登陆上海概率增大",
+        "onboard_time": 1726372818,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189092,
+        "num": 189092,
+        "word": "中学教资",
+        "onboard_time": 1726377019,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 186850,
+        "num": 186850,
+        "word": "侃爷带妻子翻越栏杆",
+        "onboard_time": 1726368378,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180347,
+        "num": 185978,
+        "word": "凡人歌 破房文学",
+        "onboard_time": 1726377678,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185190,
+        "num": 185190,
+        "word": "台风贝碧嘉",
+        "onboard_time": 1726320202,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178085,
+        "num": 178085,
+        "word": "邝玲玲的痣",
+        "onboard_time": 1726378099,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166381,
+        "num": 166381,
+        "word": "女子灭蟑螂不料中毒进ICU抢救",
+        "onboard_time": 1726374738,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165133,
+        "num": 165133,
+        "word": "台风",
+        "onboard_time": 1726302200,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163769,
+        "num": 163769,
+        "word": "42岁已婚有娃生活的一天",
+        "onboard_time": 1726374259,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154824,
+        "num": 154824,
+        "word": "赵露思刘宇宁射箭体型差",
+        "onboard_time": 1726377379,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153840,
+        "num": 153840,
+        "word": "张艺兴演唱会饭拍",
+        "onboard_time": 1726383859,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149098,
+        "num": 149098,
+        "word": "还以为是刘亦菲哪部剧的路透",
+        "onboard_time": 1726384398,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148843,
+        "num": 148843,
+        "word": "近八成家长认为中小学礼服没必要",
+        "onboard_time": 1726382359,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146458,
+        "num": 146458,
+        "word": "TheShy再谈是否复出",
+        "onboard_time": 1726384219,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139545,
+        "num": 139545,
+        "word": "抖音客服称将核实美诚月饼事件",
+        "onboard_time": 1726363220,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134441,
+        "num": 134441,
+        "word": "第一视角看歼20打掉敌机全过程",
+        "onboard_time": 1726383499,
+        "rank": 41,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 132242,
+        "num": 132242,
+        "word": "假杂志骗了几十个明星拍封面",
+        "onboard_time": 1726384637,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131662,
+        "num": 131662,
+        "word": "又一台风登陆或致风浪潮三碰头",
+        "onboard_time": 1726361838,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126388,
+        "num": 126388,
+        "word": "杨洋章若楠开机同框",
+        "onboard_time": 1726370238,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125665,
+        "num": 125665,
+        "word": "海警回应菲9701号船撤离",
+        "onboard_time": 1726380857,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123150,
+        "num": 123150,
+        "word": "杨超越这六年每一步都算数",
+        "onboard_time": 1726384637,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120854,
+        "num": 120854,
+        "word": "许昕劝王楚钦粉丝不要慌",
+        "onboard_time": 1726371319,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118679,
+        "num": 118679,
+        "word": "雪迷宫一个伏笔埋了23集",
+        "onboard_time": 1726378519,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115120,
+        "num": 115120,
+        "word": "不活检就达不到重疾标准吗",
+        "onboard_time": 1726370538,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记涵养家国情怀#"
+    }
+  }
+}
