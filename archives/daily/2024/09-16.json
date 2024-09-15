@@ -1,6 +1,6 @@
 {
   "startTime": 1726417574980,
-  "endTime": 1726425677453,
+  "endTime": 1726427807695,
   "band_list": [
     {
       "raw_hot": 1141670,
@@ -451,6 +451,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 68595,
+      "num": 68595,
+      "word": "台风贝碧嘉直播",
+      "onboard_time": 1726425133,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67164,
       "num": 67164,
       "word": "王安宇秒认秦海璐",
@@ -507,14 +515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 32271,
-      "num": 39906,
-      "word": "台风贝碧嘉直播",
-      "onboard_time": 1726425133,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32050,
       "num": 39900,
       "word": "王源演唱会金发造型",
@@ -537,6 +537,22 @@
       "onboard_time": 1726405341,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26467,
+      "num": 26467,
+      "word": "台风贝碧嘉中心预计将经过苏州",
+      "onboard_time": 1726427232,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25021,
+      "num": 25021,
+      "word": "野孩子 事实孤儿",
+      "onboard_time": 1726426572,
+      "rank": 47,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
