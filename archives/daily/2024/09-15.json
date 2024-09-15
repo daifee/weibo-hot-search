@@ -1,10 +1,10 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726366087606,
+  "endTime": 1726368918693,
   "band_list": [
     {
       "raw_hot": 1576987,
-      "num": 300821,
+      "num": 361325,
       "word": "干巴大叔 遗嘱",
       "onboard_time": 1726364178,
       "rank": 10,
@@ -35,20 +35,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1287088,
+      "num": 1287088,
+      "word": "抖音客服称将核实美诚月饼事件",
+      "onboard_time": 1726363220,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1170621,
+      "num": 1170621,
+      "word": "孩子未做肝脏活检保险公司拒赔",
+      "onboard_time": 1726367358,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1109823,
       "num": 1028105,
       "word": "李纯小区不可能先救明星被指偷换概念",
       "onboard_time": 1726350793,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1105314,
-      "num": 1176850,
-      "word": "抖音客服称将核实美诚月饼事件",
-      "onboard_time": 1726363220,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1075319,
@@ -107,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 515638,
+      "num": 515638,
+      "word": "雨霖铃开机",
+      "onboard_time": 1726365558,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 500572,
       "num": 500572,
       "word": "吴谨言领证后首现身",
@@ -145,6 +161,14 @@
       "onboard_time": 1726362858,
       "rank": 5,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 400597,
+      "num": 400597,
+      "word": "歼20视角看宝岛",
+      "onboard_time": 1726364958,
+      "rank": 30,
+      "category": "军事"
     },
     {
       "raw_hot": 397075,
@@ -235,6 +259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 359083,
+      "num": 359083,
+      "word": "小伙拍照瞬间背包里红旗飘出",
+      "onboard_time": 1726366998,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347395,
       "num": 241669,
       "word": "许昕回应王楚钦输球是假球言论",
@@ -267,12 +299,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325260,
+      "num": 325260,
+      "word": "五仁月饼为啥被那么多人嫌弃",
+      "onboard_time": 1726366039,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323565,
       "num": 239014,
       "word": "难怪上班没遇到过哈工大的学生",
       "onboard_time": 1726359737,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 316441,
+      "num": 368240,
+      "word": "上海浙江海域或有4米巨浪",
+      "onboard_time": 1726366998,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 314783,
@@ -347,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272249,
+      "num": 272249,
+      "word": "干巴大叔",
+      "onboard_time": 1726367238,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 256492,
       "num": 256492,
       "word": "离婚了也要争婆婆的抚养权",
@@ -371,8 +427,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241770,
+      "num": 241770,
+      "word": "侃爷带妻子翻越栏杆",
+      "onboard_time": 1726368378,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237833,
-      "num": 237833,
+      "num": 361929,
       "word": "美诚月饼产自广东在港注册商标",
       "onboard_time": 1726364958,
       "rank": 25,
@@ -401,22 +465,6 @@
       "onboard_time": 1726353494,
       "rank": 21,
       "category": "运动健身,健康医疗"
-    },
-    {
-      "raw_hot": 212294,
-      "num": 212294,
-      "word": "歼20视角看宝岛",
-      "onboard_time": 1726364958,
-      "rank": 30,
-      "category": "军事"
-    },
-    {
-      "raw_hot": 211910,
-      "num": 212370,
-      "word": "雨霖铃开机",
-      "onboard_time": 1726365558,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 211270,
@@ -523,6 +571,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 163293,
+      "num": 163293,
+      "word": "专家称调休使人难以归家违背传统",
+      "onboard_time": 1726368017,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161830,
       "num": 161830,
       "word": "张远 闺蜜站位",
@@ -579,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155419,
+      "num": 155419,
+      "word": "苏州发出倡议为游客无条件免费退订",
+      "onboard_time": 1726365318,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155223,
       "num": 155223,
       "word": "赵丽颖把伞撑给了陶昕然",
@@ -593,6 +657,14 @@
       "onboard_time": 1726328180,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153600,
+      "num": 199506,
+      "word": "野孩子",
+      "onboard_time": 1726367419,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 150197,
@@ -635,6 +707,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140155,
+      "num": 140155,
+      "word": "凡人英雄挺身而出的高光时刻",
+      "onboard_time": 1726368498,
+      "rank": 39,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 137489,
+      "num": 137489,
+      "word": "台风路径",
+      "onboard_time": 1726368438,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136585,
       "num": 136585,
       "word": "成都暴雨",
@@ -649,6 +737,22 @@
       "onboard_time": 1726364838,
       "rank": 41,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 131077,
+      "num": 131077,
+      "word": "收到礼物你会第一时间搜价格吗",
+      "onboard_time": 1726366998,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130771,
+      "num": 130771,
+      "word": "贝碧嘉已为台风级",
+      "onboard_time": 1726364719,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129868,
@@ -667,6 +771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 129019,
+      "num": 276738,
+      "word": "幼童小区内被碾压肇事司机家属发声",
+      "onboard_time": 1726365978,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128254,
       "num": 128254,
       "word": "贝碧嘉将在宁波到启东一带登陆",
@@ -681,14 +793,6 @@
       "onboard_time": 1726358477,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 124830,
-      "num": 124830,
-      "word": "贝碧嘉已为台风级",
-      "onboard_time": 1726364719,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120086,
@@ -795,14 +899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104011,
-      "num": 104011,
-      "word": "苏州发出倡议为游客无条件免费退订",
-      "onboard_time": 1726365318,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102568,
       "num": 102568,
       "word": "王一博出道10年了",
@@ -883,28 +979,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45441,
-      "num": 242132,
-      "word": "五仁月饼为啥被那么多人嫌弃",
-      "onboard_time": 1726366039,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44473,
       "num": 89321,
       "word": "孙颖莎进入决赛",
       "onboard_time": 1726320864,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 41030,
-      "num": 276738,
-      "word": "幼童小区内被碾压肇事司机家属发声",
-      "onboard_time": 1726365978,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40072,
@@ -1003,11 +1083,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14063,
+      "num": 674019,
+      "word": "哪个瞬间勾起你的乡愁",
+      "onboard_time": 1726368559,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11329,
       "num": 62033,
       "word": "古人的青铜器太全面了",
       "onboard_time": 1726341311,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7940,
+      "num": 148148,
+      "word": "人民军队淬火向前",
+      "onboard_time": 1726081931,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1025,6 +1121,9 @@
     },
     {
       "word": "#把人民代表大会制度坚持好完善好运行好#"
+    },
+    {
+      "word": "#跟着总书记涵养家国情怀#"
     }
   ]
 }
