@@ -1,0 +1,410 @@
+{
+  "runTime": 1726392114434,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1948808,
+        "num": 1948808,
+        "word": "徐少强去世",
+        "onboard_time": 1726390638,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1271191,
+        "num": 1271191,
+        "word": "网友称美诚月饼原价59元三盒",
+        "onboard_time": 1726386558,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26888,
+        "num": 1170916,
+        "word": "神十八乘组太空出差周记上新",
+        "onboard_time": 1726389200,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1155941,
+        "num": 1155941,
+        "word": "韩安冉回应和吴谨言同在一个关系图",
+        "onboard_time": 1726387399,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1123012,
+        "num": 1123012,
+        "word": "特朗普遭未遂刺杀细节都是松弛感",
+        "onboard_time": 1726385120,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 663838,
+        "num": 663838,
+        "word": "网红餐饮收尸人最高月入几十万",
+        "onboard_time": 1726386199,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837561,
+        "num": 657527,
+        "word": "假杂志骗了几十个明星拍封面",
+        "onboard_time": 1726384637,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 613972,
+        "num": 613972,
+        "word": "美心月饼主播笑称没有米其林工艺",
+        "onboard_time": 1726388899,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 530413,
+        "num": 530413,
+        "word": "买车险要求即时生效3小时后发生车祸",
+        "onboard_time": 1726389438,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55975,
+        "num": 400697,
+        "word": "香港美诚月饼商标注册不满一年",
+        "onboard_time": 1726392079,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 633374,
+        "num": 398361,
+        "word": "印度女护士险遭三名同事性侵",
+        "onboard_time": 1726389558,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392267,
+        "num": 392267,
+        "word": "吴倩也是饶雪漫的书模",
+        "onboard_time": 1726390399,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 380779,
+        "num": 380779,
+        "word": "张翰在陆虎婚礼上唱拾忆",
+        "onboard_time": 1726385538,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271730,
+        "num": 271730,
+        "word": "女子自称怀孕挑衅骚扰民警",
+        "onboard_time": 1726384518,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269111,
+        "num": 269111,
+        "word": "陈瞾旭结婚后首现身",
+        "onboard_time": 1726383979,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 225709,
+        "num": 256700,
+        "word": "广州美诚工作人员回应月饼争议",
+        "onboard_time": 1726389079,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253724,
+        "num": 253724,
+        "word": "台风",
+        "onboard_time": 1726302200,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229355,
+        "num": 229355,
+        "word": "五仁月饼为啥被那么多人嫌弃",
+        "onboard_time": 1726366039,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 225243,
+        "num": 225243,
+        "word": "国产恋综容不下二本学生吗",
+        "onboard_time": 1726375879,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125821,
+        "num": 223624,
+        "word": "AG对战KSG",
+        "onboard_time": 1726391120,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 601870,
+        "num": 219562,
+        "word": "迪丽热巴妆造",
+        "onboard_time": 1726381459,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 599462,
+        "num": 215655,
+        "word": "罗志祥回应恺乐怀孕",
+        "onboard_time": 1726370599,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 569173,
+        "num": 211941,
+        "word": "当近视600度的室友去挂毛巾",
+        "onboard_time": 1726388778,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210035,
+        "num": 210035,
+        "word": "上海杭州市民非必要不外出",
+        "onboard_time": 1726390519,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198530,
+        "num": 198530,
+        "word": "前有刘星分饼 后有芽芽打包",
+        "onboard_time": 1726390999,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195888,
+        "num": 195888,
+        "word": "教资科二",
+        "onboard_time": 1726384518,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 195868,
+        "num": 195868,
+        "word": "龙傲天你这样谈我可不困了",
+        "onboard_time": 1726390880,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180138,
+        "num": 180138,
+        "word": "贝碧嘉已进入24小时警戒线",
+        "onboard_time": 1726388778,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179257,
+        "num": 179257,
+        "word": "厂长在全红婵村里发数万只小乌龟",
+        "onboard_time": 1726390939,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177272,
+        "num": 177272,
+        "word": "女子家2根甘蔗4年长了245节",
+        "onboard_time": 1726386259,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175244,
+        "num": 175244,
+        "word": "突然明白女生留在大城市的意义",
+        "onboard_time": 1726384037,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174567,
+        "num": 174567,
+        "word": "还以为是刘亦菲哪部剧的路透",
+        "onboard_time": 1726384398,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170566,
+        "num": 170566,
+        "word": "教资笔试通过率不足五成",
+        "onboard_time": 1726387578,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165995,
+        "num": 165995,
+        "word": "台风贝碧嘉登陆上海概率增大",
+        "onboard_time": 1726372818,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161921,
+        "num": 161921,
+        "word": "鞠婧祎学姐造型vlog",
+        "onboard_time": 1726390760,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159730,
+        "num": 159730,
+        "word": "监管局已介入小杨哥美诚月饼事件",
+        "onboard_time": 1726371080,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159285,
+        "num": 159285,
+        "word": "纪凌尘对沈月说要牵只能牵我的手",
+        "onboard_time": 1726377739,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158008,
+        "num": 158008,
+        "word": "香港美心月饼7天销售额超1000万",
+        "onboard_time": 1726386919,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147302,
+        "num": 147302,
+        "word": "女子买6万黄金不挑款店员果断报警",
+        "onboard_time": 1726370479,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13252,
+        "num": 147060,
+        "word": "张朝阳中秋横渡威海海湾",
+        "onboard_time": 1726390818,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146982,
+        "num": 146982,
+        "word": "菲9701号船多次运补失败后撤离",
+        "onboard_time": 1726380857,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144878,
+        "num": 144878,
+        "word": "看凡人歌那隽离职爽到了",
+        "onboard_time": 1726388959,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136987,
+        "num": 136987,
+        "word": "狗子啃黄景瑜啃掉一颗牙",
+        "onboard_time": 1726380678,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130881,
+        "num": 130881,
+        "word": "野孩子 活在成人世界的盲区",
+        "onboard_time": 1726391421,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124907,
+        "num": 124907,
+        "word": "菲律宾海警船撤离中国仙宾礁",
+        "onboard_time": 1726390037,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118106,
+        "num": 118106,
+        "word": "南派三叔 吴邪给张起灵补课",
+        "onboard_time": 1726391779,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116079,
+        "num": 116079,
+        "word": "今晚看WTT决赛",
+        "onboard_time": 1726391898,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108517,
+        "num": 108517,
+        "word": "我恨皮亚杰",
+        "onboard_time": 1726391598,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 108265,
+        "num": 108265,
+        "word": "韩安冉说吴谨言高端",
+        "onboard_time": 1726388058,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18231,
+        "num": 104848,
+        "word": "真维斯董事长评价王一博",
+        "onboard_time": 1726389320,
+        "rank": 49,
+        "category": "互联网,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这样谈中华优秀传统文化#"
+    }
+  }
+}
