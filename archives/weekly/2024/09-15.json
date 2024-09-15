@@ -1,7 +1,15 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726364767975,
+  "endTime": 1726366087606,
   "band_list": [
+    {
+      "raw_hot": 1576987,
+      "num": 300821,
+      "word": "干巴大叔 遗嘱",
+      "onboard_time": 1726364178,
+      "rank": 10,
+      "category": "网红"
+    },
     {
       "raw_hot": 1562752,
       "num": 1562752,
@@ -35,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1105314,
+      "num": 1176850,
+      "word": "抖音客服称将核实美诚月饼事件",
+      "onboard_time": 1726363220,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1075319,
       "num": 1075319,
       "word": "不敢相信这是陈卓璇",
@@ -51,8 +67,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 734777,
-      "num": 734777,
+      "raw_hot": 795669,
+      "num": 795669,
       "word": "又一台风登陆或致风浪潮三碰头",
       "onboard_time": 1726361838,
       "rank": 1,
@@ -129,14 +145,6 @@
       "onboard_time": 1726362858,
       "rank": 5,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 410223,
-      "num": 300821,
-      "word": "干巴大叔 遗嘱",
-      "onboard_time": 1726364178,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 397075,
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323565,
+      "num": 239014,
+      "word": "难怪上班没遇到过哈工大的学生",
+      "onboard_time": 1726359737,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 314783,
       "num": 314783,
       "word": "79岁奶奶回应坚持健身19年",
@@ -275,12 +291,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 304804,
-      "num": 299580,
-      "word": "抖音客服称将核实美诚月饼事件",
-      "onboard_time": 1726363220,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 305336,
+      "num": 305336,
+      "word": "林允这下真成白月光了",
+      "onboard_time": 1726318822,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 303585,
@@ -307,6 +323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 288092,
+      "num": 288092,
+      "word": "敖子逸真替王源V50",
+      "onboard_time": 1726362979,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 280487,
       "num": 280487,
       "word": "王楚钦玩新发球",
@@ -315,12 +339,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 270009,
-      "num": 270009,
-      "word": "林允这下真成白月光了",
-      "onboard_time": 1726318822,
-      "rank": 36,
-      "category": "电影"
+      "raw_hot": 279647,
+      "num": 279647,
+      "word": "中秋假期第一天",
+      "onboard_time": 1726356017,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256492,
@@ -331,14 +355,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 250032,
-      "num": 250032,
-      "word": "中秋假期第一天",
-      "onboard_time": 1726356017,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247481,
       "num": 247481,
       "word": "王源让敖子逸给粉丝转50",
@@ -347,27 +363,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 246978,
-      "num": 246978,
-      "word": "敖子逸真替王源V50",
-      "onboard_time": 1726362979,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 237320,
-      "num": 237320,
-      "word": "难怪上班没遇到过哈工大的学生",
-      "onboard_time": 1726359737,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 233928,
-      "num": 233928,
+      "raw_hot": 243292,
+      "num": 243292,
       "word": "高铁停运",
       "onboard_time": 1726358178,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237833,
+      "num": 237833,
+      "word": "美诚月饼产自广东在港注册商标",
+      "onboard_time": 1726364958,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -387,6 +395,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 213260,
+      "num": 213260,
+      "word": "有一种小肚子是骨盆前倾了",
+      "onboard_time": 1726353494,
+      "rank": 21,
+      "category": "运动健身,健康医疗"
+    },
+    {
+      "raw_hot": 212294,
+      "num": 212294,
+      "word": "歼20视角看宝岛",
+      "onboard_time": 1726364958,
+      "rank": 30,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 211910,
+      "num": 212370,
+      "word": "雨霖铃开机",
+      "onboard_time": 1726365558,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211270,
       "num": 211270,
       "word": "徐正溪回归娱乐圈的原因",
@@ -395,12 +427,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191093,
-      "num": 191093,
-      "word": "有一种小肚子是骨盆前倾了",
-      "onboard_time": 1726353494,
-      "rank": 21,
-      "category": "运动健身,健康医疗"
+      "raw_hot": 207319,
+      "num": 212327,
+      "word": "杨洋开机路透",
+      "onboard_time": 1726365558,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 200568,
+      "num": 200568,
+      "word": "歼20夜间空中加油画面首次公开",
+      "onboard_time": 1726362918,
+      "rank": 36,
+      "category": "军事"
     },
     {
       "raw_hot": 189650,
@@ -459,12 +499,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170754,
+      "num": 170754,
+      "word": "四川凉山预期找到海量稀土",
+      "onboard_time": 1726362018,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170048,
       "num": 176349,
       "word": "今日可能出现小地磁暴",
       "onboard_time": 1726343171,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164380,
+      "num": 164380,
+      "word": "你最喜欢的睡姿可能正伤害你的脊柱",
+      "onboard_time": 1726360757,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 161830,
@@ -539,14 +595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153499,
-      "num": 153499,
-      "word": "四川凉山预期找到海量稀土",
-      "onboard_time": 1726362018,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150197,
       "num": 150197,
       "word": "孙颖莎vs王艺迪",
@@ -555,12 +603,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143712,
-      "num": 143712,
-      "word": "你最喜欢的睡姿可能正伤害你的脊柱",
-      "onboard_time": 1726360757,
-      "rank": 33,
-      "category": "健康医疗"
+      "raw_hot": 145541,
+      "num": 145541,
+      "word": "苏新皓 腹肌",
+      "onboard_time": 1726361357,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 142814,
@@ -579,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142187,
+      "num": 142187,
+      "word": "金泰亨新合照",
+      "onboard_time": 1726364298,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136585,
       "num": 136585,
       "word": "成都暴雨",
@@ -587,20 +643,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134122,
-      "num": 134122,
-      "word": "歼20夜间空中加油画面首次公开",
-      "onboard_time": 1726362918,
-      "rank": 36,
-      "category": "军事"
-    },
-    {
-      "raw_hot": 131753,
-      "num": 131753,
-      "word": "苏新皓 腹肌",
-      "onboard_time": 1726361357,
-      "rank": 37,
-      "category": "作品衍生"
+      "raw_hot": 132600,
+      "num": 132600,
+      "word": "每年卖不完的月饼都去哪了",
+      "onboard_time": 1726364838,
+      "rank": 41,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 129868,
@@ -619,6 +667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 128254,
+      "num": 128254,
+      "word": "贝碧嘉将在宁波到启东一带登陆",
+      "onboard_time": 1726362378,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127972,
       "num": 127972,
       "word": "哔哩哔哩副总裁卢梵溪被曝已离职",
@@ -627,11 +683,11 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 122344,
-      "num": 122344,
-      "word": "贝碧嘉将在宁波到启东一带登陆",
-      "onboard_time": 1726362378,
-      "rank": 39,
+      "raw_hot": 124830,
+      "num": 124830,
+      "word": "贝碧嘉已为台风级",
+      "onboard_time": 1726364719,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -649,14 +705,6 @@
       "onboard_time": 1726324345,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117272,
-      "num": 117272,
-      "word": "金泰亨新合照",
-      "onboard_time": 1726364298,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 114918,
@@ -739,20 +787,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 104943,
-      "num": 104943,
-      "word": "贝碧嘉已为台风级",
-      "onboard_time": 1726364719,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104738,
       "num": 104738,
       "word": "夜市偶遇李多海",
       "onboard_time": 1726352652,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104011,
+      "num": 104011,
+      "word": "苏州发出倡议为游客无条件免费退订",
+      "onboard_time": 1726365318,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102568,
@@ -835,12 +883,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45441,
+      "num": 242132,
+      "word": "五仁月饼为啥被那么多人嫌弃",
+      "onboard_time": 1726366039,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44473,
       "num": 89321,
       "word": "孙颖莎进入决赛",
       "onboard_time": 1726320864,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41030,
+      "num": 276738,
+      "word": "幼童小区内被碾压肇事司机家属发声",
+      "onboard_time": 1726365978,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40072,
@@ -931,7 +995,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15017,
+      "raw_hot": 19234,
       "num": 617497,
       "word": "文化中国行中秋赏灯会",
       "onboard_time": 1726322121,
