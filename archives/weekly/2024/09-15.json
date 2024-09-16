@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726526068510,
+  "endTime": 1726528773593,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -507,6 +507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1047504,
+      "num": 1047504,
+      "word": "鹿晗连续八年为关晓彤庆生",
+      "onboard_time": 1726527854,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1043401,
       "num": 1043401,
       "word": "吴艳妮全锦赛夺冠",
@@ -716,7 +724,7 @@
     },
     {
       "raw_hot": 775576,
-      "num": 283505,
+      "num": 292185,
       "word": "秋瓷炫回应儿子中文差",
       "onboard_time": 1726502119,
       "rank": 12,
@@ -1531,6 +1539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 404060,
+      "num": 404060,
+      "word": "中秋节",
+      "onboard_time": 1726527854,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401344,
       "num": 401344,
       "word": "台风普拉桑",
@@ -2057,6 +2073,14 @@
       "onboard_time": 1726328122,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 298245,
+      "num": 106067,
+      "word": "中秋节快乐",
+      "onboard_time": 1726527913,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296166,
@@ -2771,6 +2795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217088,
+      "num": 172310,
+      "word": "彭小苒在太子妃赛道一骑绝尘",
+      "onboard_time": 1726527734,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216607,
       "num": 216607,
       "word": "徐卓一110米栏夺冠",
@@ -2785,6 +2817,14 @@
       "onboard_time": 1726413979,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215124,
+      "num": 499594,
+      "word": "高压电线因台风坠落致两快递员被电",
+      "onboard_time": 1726495940,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214212,
@@ -3331,14 +3371,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 187179,
-      "num": 499594,
-      "word": "高压电线因台风坠落致两快递员被电",
-      "onboard_time": 1726495940,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187057,
       "num": 187057,
       "word": "iPhone16系列首周末预购或达3700万台",
@@ -3489,6 +3521,14 @@
       "onboard_time": 1726394598,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180251,
+      "num": 180251,
+      "word": "鹿晗",
+      "onboard_time": 1726527854,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 180217,
@@ -4891,6 +4931,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 128319,
+      "num": 128319,
+      "word": "iOS18正式版",
+      "onboard_time": 1726528334,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 128307,
       "num": 128307,
       "word": "张凌赫撑伞神图缔造者",
@@ -5169,6 +5217,14 @@
       "onboard_time": 1726471098,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 115271,
+      "num": 115271,
+      "word": "邓超 录综艺是为了给别人带来快乐",
+      "onboard_time": 1726519452,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 114918,
@@ -5523,6 +5579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91130,
+      "num": 91130,
+      "word": "中秋收到了公司发的陶瓷月饼",
+      "onboard_time": 1726528575,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90741,
       "num": 199324,
       "word": "沈渡 行也思幸坐也思幸",
@@ -5545,14 +5609,6 @@
       "onboard_time": 1726356736,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 88175,
-      "num": 88175,
-      "word": "邓超 录综艺是为了给别人带来快乐",
-      "onboard_time": 1726519452,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 87708,
@@ -5585,6 +5641,14 @@
       "onboard_time": 1726433111,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 85548,
+      "num": 85548,
+      "word": "中秋晚会观众席的王楚然",
+      "onboard_time": 1726527794,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 83367,
@@ -5651,6 +5715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75313,
+      "num": 75313,
+      "word": "研究表明爷爷锻炼可增强孙子智力",
+      "onboard_time": 1726522872,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 75240,
       "num": 159067,
       "word": "民乐版水调歌头太上头了",
@@ -5707,6 +5779,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 65648,
+      "num": 65648,
+      "word": "美国将砸16亿美元全球抹黑中国",
+      "onboard_time": 1726528394,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 63233,
       "num": 580566,
       "word": "是时候抄底了",
@@ -5747,6 +5827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61000,
+      "num": 61000,
+      "word": "生日收到大鹅花束是什么感觉",
+      "onboard_time": 1726510933,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 60603,
       "num": 1588208,
       "word": "北京是中华文明有力见证",
@@ -5771,12 +5859,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59601,
+      "num": 59601,
+      "word": "男子3岁失踪34年后与母亲团圆",
+      "onboard_time": 1726528695,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57519,
       "num": 57519,
       "word": "这居然是尤长靖",
       "onboard_time": 1726312040,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 56845,
+      "num": 56845,
+      "word": "任嘉伦徐正溪 两张权臣脸",
+      "onboard_time": 1726527734,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 56601,
@@ -5809,6 +5913,14 @@
       "onboard_time": 1726458199,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52266,
+      "num": 52266,
+      "word": "黄景瑜这幕让我有点犯困",
+      "onboard_time": 1726526713,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 51945,
@@ -5899,14 +6011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48017,
-      "num": 48017,
-      "word": "研究表明爷爷锻炼可增强孙子智力",
-      "onboard_time": 1726522872,
-      "rank": 43,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 46983,
       "num": 45847,
       "word": "那隽 吾辈楷模",
@@ -5929,6 +6033,14 @@
       "onboard_time": 1726389320,
       "rank": 46,
       "category": "互联网,艺人"
+    },
+    {
+      "raw_hot": 46059,
+      "num": 46059,
+      "word": "旅客携带96只白蚁蚁后入境被查",
+      "onboard_time": 1726516391,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46035,
@@ -6027,14 +6139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37659,
-      "num": 37659,
-      "word": "生日收到大鹅花束是什么感觉",
-      "onboard_time": 1726510933,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 36630,
       "num": 961050,
       "word": "高质量发展看广西",
@@ -6105,14 +6209,6 @@
       "onboard_time": 1726338193,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 33165,
-      "num": 33165,
-      "word": "旅客携带96只白蚁蚁后入境被查",
-      "onboard_time": 1726516391,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32671,
@@ -6468,7 +6564,7 @@
     },
     {
       "raw_hot": 13379,
-      "num": 156126,
+      "num": 323442,
       "word": "这就是黄河",
       "onboard_time": 1726495279,
       "rank": 2,

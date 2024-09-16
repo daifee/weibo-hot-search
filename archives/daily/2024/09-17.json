@@ -1,6 +1,6 @@
 {
   "startTime": 1726504063678,
-  "endTime": 1726526068510,
+  "endTime": 1726528773593,
   "band_list": [
     {
       "raw_hot": 1392288,
@@ -8,6 +8,14 @@
       "word": "罗志祥在哪做的医美",
       "onboard_time": 1726497202,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1047504,
+      "num": 1047504,
+      "word": "鹿晗连续八年为关晓彤庆生",
+      "onboard_time": 1726527854,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 775576,
-      "num": 283505,
+      "num": 292185,
       "word": "秋瓷炫回应儿子中文差",
       "onboard_time": 1726502119,
       "rank": 12,
@@ -39,6 +47,14 @@
       "num": 647392,
       "word": "金价猛涨有人套现40多万",
       "onboard_time": 1726494021,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 404060,
+      "num": 404060,
+      "word": "中秋节",
+      "onboard_time": 1726527854,
       "rank": 1,
       "category": "社会新闻"
     },
@@ -89,6 +105,14 @@
       "onboard_time": 1726488559,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 298245,
+      "num": 106067,
+      "word": "中秋节快乐",
+      "onboard_time": 1726527913,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285456,
@@ -171,6 +195,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217088,
+      "num": 172310,
+      "word": "彭小苒在太子妃赛道一骑绝尘",
+      "onboard_time": 1726527734,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 215124,
+      "num": 215124,
+      "word": "高压电线因台风坠落致两快递员被电",
+      "onboard_time": 1726495940,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204467,
       "num": 204467,
       "word": "心动的信号7雄竞5分钟",
@@ -185,6 +225,14 @@
       "onboard_time": 1726496180,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180251,
+      "num": 180251,
+      "word": "鹿晗",
+      "onboard_time": 1726527854,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 163846,
@@ -243,12 +291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140422,
-      "num": 140422,
-      "word": "高压电线因台风坠落致两快递员被电",
-      "onboard_time": 1726495940,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 128319,
+      "num": 128319,
+      "word": "iOS18正式版",
+      "onboard_time": 1726528334,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 125890,
@@ -283,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115271,
+      "num": 115271,
+      "word": "邓超 录综艺是为了给别人带来快乐",
+      "onboard_time": 1726519452,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112644,
       "num": 112644,
       "word": "河南卫视创新能力",
@@ -313,6 +369,14 @@
       "onboard_time": 1726498581,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105043,
+      "num": 105043,
+      "word": "台风",
+      "onboard_time": 1726528334,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104729,
@@ -347,6 +411,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 91130,
+      "num": 91130,
+      "word": "中秋收到了公司发的陶瓷月饼",
+      "onboard_time": 1726528575,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90073,
       "num": 90073,
       "word": "大闸蟹养殖户谈台风直穿阳澄湖",
@@ -355,20 +427,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88175,
-      "num": 88175,
-      "word": "邓超 录综艺是为了给别人带来快乐",
-      "onboard_time": 1726519452,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 87518,
       "num": 87518,
       "word": "学校回应学生没填信息表被宿管驱赶",
       "onboard_time": 1726498581,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85548,
+      "num": 85548,
+      "word": "中秋晚会观众席的王楚然",
+      "onboard_time": 1726527794,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 84964,
@@ -411,12 +483,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75313,
+      "num": 75313,
+      "word": "研究表明爷爷锻炼可增强孙子智力",
+      "onboard_time": 1726522872,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 70710,
       "num": 70710,
       "word": "祝你幸福",
       "onboard_time": 1726505835,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 65648,
+      "num": 65648,
+      "word": "美国将砸16亿美元全球抹黑中国",
+      "onboard_time": 1726528394,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 62893,
@@ -427,12 +515,52 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61000,
+      "num": 61000,
+      "word": "生日收到大鹅花束是什么感觉",
+      "onboard_time": 1726510933,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 59601,
+      "num": 59601,
+      "word": "男子3岁失踪34年后与母亲团圆",
+      "onboard_time": 1726528695,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56845,
+      "num": 56845,
+      "word": "任嘉伦徐正溪 两张权臣脸",
+      "onboard_time": 1726527734,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 52266,
+      "num": 52266,
+      "word": "黄景瑜这幕让我有点犯困",
+      "onboard_time": 1726526713,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51726,
       "num": 51726,
       "word": "中秋晚会节目单",
       "onboard_time": 1726483880,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 51557,
+      "num": 51557,
+      "word": "直击贝碧嘉过境江苏",
+      "onboard_time": 1726497802,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48347,
@@ -443,14 +571,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 48017,
-      "num": 48017,
-      "word": "研究表明爷爷锻炼可增强孙子智力",
-      "onboard_time": 1726522872,
-      "rank": 43,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 46754,
       "num": 50385,
       "word": "蒲熠星 人鱼王子",
@@ -459,11 +579,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 45896,
-      "num": 50371,
-      "word": "直击贝碧嘉过境江苏",
-      "onboard_time": 1726497802,
-      "rank": 48,
+      "raw_hot": 46059,
+      "num": 46059,
+      "word": "旅客携带96只白蚁蚁后入境被查",
+      "onboard_time": 1726516391,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -472,22 +592,6 @@
       "word": "浙江高温将反扑局部38度以上",
       "onboard_time": 1726507934,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37659,
-      "num": 37659,
-      "word": "生日收到大鹅花束是什么感觉",
-      "onboard_time": 1726510933,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 33165,
-      "num": 33165,
-      "word": "旅客携带96只白蚁蚁后入境被查",
-      "onboard_time": 1726516391,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -604,7 +708,7 @@
     },
     {
       "raw_hot": 13379,
-      "num": 156126,
+      "num": 323442,
       "word": "这就是黄河",
       "onboard_time": 1726495279,
       "rank": 2,
