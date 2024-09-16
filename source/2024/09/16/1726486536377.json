@@ -1,0 +1,410 @@
+{
+  "runTime": 1726486536377,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1046136,
+        "num": 1167381,
+        "word": "贝碧嘉几乎是以巅峰强度登陆",
+        "onboard_time": 1726468698,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 807895,
+        "num": 807895,
+        "word": "中秋晚会节目单",
+        "onboard_time": 1726483880,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3364,
+        "num": 788021,
+        "word": "服贸会探馆直播",
+        "onboard_time": 1726471878,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 770147,
+        "num": 770147,
+        "word": "社区回应男子疑被台风吹走身亡",
+        "onboard_time": 1726483219,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 795887,
+        "num": 664686,
+        "word": "曾志伟拒回应美诚月饼事件",
+        "onboard_time": 1726477758,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509399,
+        "num": 509399,
+        "word": "台风中心将在南京停留2到3小时",
+        "onboard_time": 1726478658,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641480,
+        "num": 497919,
+        "word": "章若楠给杨洋指代拍",
+        "onboard_time": 1726484659,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 525684,
+        "num": 488348,
+        "word": "张元英对自己的定位是center",
+        "onboard_time": 1726482017,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476807,
+        "num": 476807,
+        "word": "贝碧嘉移入江苏",
+        "onboard_time": 1726463058,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123666,
+        "num": 467774,
+        "word": "重庆今年已热热热68天",
+        "onboard_time": 1726478719,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1590077,
+        "num": 457636,
+        "word": "女子吃了冰箱一盘熟牛肉引发败血症",
+        "onboard_time": 1726483699,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1117092,
+        "num": 432765,
+        "word": "美心月饼直播间晒报关单",
+        "onboard_time": 1726480940,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520779,
+        "num": 405474,
+        "word": "女子下班回家发现大量陌生脚印",
+        "onboard_time": 1726479858,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504938,
+        "num": 397156,
+        "word": "高雅cp",
+        "onboard_time": 1726482919,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385381,
+        "num": 385381,
+        "word": "没人能不爱秦岚 总裁也不行",
+        "onboard_time": 1726480638,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 348462,
+        "num": 348462,
+        "word": "张凌赫赵今麦 做对了饭",
+        "onboard_time": 1726479198,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328224,
+        "num": 328224,
+        "word": "台风贝碧嘉",
+        "onboard_time": 1726320202,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300818,
+        "num": 300818,
+        "word": "邱贻可晒与孙颖莎合影",
+        "onboard_time": 1726476078,
+        "rank": 17,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 268941,
+        "num": 268941,
+        "word": "中秋假期第2天你在做什么",
+        "onboard_time": 1726479079,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86659,
+        "num": 256800,
+        "word": "喜满中秋夜",
+        "onboard_time": 1726485499,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256603,
+        "num": 256603,
+        "word": "南派三叔说被骂十年很委屈",
+        "onboard_time": 1726478119,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247463,
+        "num": 247463,
+        "word": "苏州台风",
+        "onboard_time": 1726456458,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239579,
+        "num": 239579,
+        "word": "特朗普公然宣称憎恨霉霉",
+        "onboard_time": 1726471579,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 184161,
+        "num": 184161,
+        "word": "台风",
+        "onboard_time": 1726302200,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170730,
+        "num": 170730,
+        "word": "王源一不小心接了口彩带",
+        "onboard_time": 1726482618,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 80963,
+        "num": 166842,
+        "word": "中秋奇妙游",
+        "onboard_time": 1726485019,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166481,
+        "num": 166481,
+        "word": "袁娅维说上浪姐和歌手很消耗自己",
+        "onboard_time": 1726484360,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158979,
+        "num": 158979,
+        "word": "边伯贤室内吸烟",
+        "onboard_time": 1726486279,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155647,
+        "num": 155647,
+        "word": "上海外卖快递配送已恢复",
+        "onboard_time": 1726483459,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138147,
+        "num": 138147,
+        "word": "台风中心已移入无锡",
+        "onboard_time": 1726471219,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132090,
+        "num": 132090,
+        "word": "鞠婧祎头戴簪花",
+        "onboard_time": 1726477038,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131389,
+        "num": 131389,
+        "word": "无期迷途",
+        "onboard_time": 1726486399,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131204,
+        "num": 131204,
+        "word": "慕胥辞官微掉粉",
+        "onboard_time": 1726475178,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130268,
+        "num": 130268,
+        "word": "什么是真正有效休息",
+        "onboard_time": 1726477038,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123678,
+        "num": 123678,
+        "word": "金价猛涨有金店却扛不住了",
+        "onboard_time": 1726455800,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122158,
+        "num": 122158,
+        "word": "心动的信号7中秋直播",
+        "onboard_time": 1726481120,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119474,
+        "num": 119474,
+        "word": "任嘉伦白衣舞剑花絮",
+        "onboard_time": 1726485320,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119023,
+        "num": 119023,
+        "word": "贝碧嘉预计晚上影响镇江南京",
+        "onboard_time": 1726481719,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118076,
+        "num": 118076,
+        "word": "兰州大学在校研究生总量首超本科生",
+        "onboard_time": 1726478839,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 116557,
+        "num": 116557,
+        "word": "贝碧嘉成75年来登陆上海最强台风",
+        "onboard_time": 1726481658,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112735,
+        "num": 112735,
+        "word": "贝碧嘉登陆",
+        "onboard_time": 1726444158,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112714,
+        "num": 112714,
+        "word": "小熊猫独自过马路被家长接走了",
+        "onboard_time": 1726482737,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111997,
+        "num": 111997,
+        "word": "王鹤棣用脚挑刀",
+        "onboard_time": 1726481479,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108374,
+        "num": 108374,
+        "word": "曾黎47岁最后一次爬山",
+        "onboard_time": 1726468279,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106312,
+        "num": 106312,
+        "word": "苏州的结界",
+        "onboard_time": 1726470018,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101094,
+        "num": 101094,
+        "word": "孙颖莎林诗栋 圆脸姐弟",
+        "onboard_time": 1726476798,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100910,
+        "num": 100910,
+        "word": "ive成员对自己的定位",
+        "onboard_time": 1726485859,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98959,
+        "num": 98959,
+        "word": "常州台风",
+        "onboard_time": 1726477218,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98503,
+        "num": 98503,
+        "word": "以为花少主题曲开头在喊侯明昊",
+        "onboard_time": 1726483518,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97049,
+        "num": 97049,
+        "word": "独居女子下班回家看到陌生脚印",
+        "onboard_time": 1726479499,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记的中秋节日祝福#"
+    }
+  }
+}

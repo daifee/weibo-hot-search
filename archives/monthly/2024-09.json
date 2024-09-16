@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726485570251,
+  "endTime": 1726486536377,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -1379,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1590077,
+      "num": 532266,
+      "word": "女子吃了冰箱一盘熟牛肉引发败血症",
+      "onboard_time": 1726483699,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1583814,
       "num": 1583814,
       "word": "美国人借口拍照偷偷带走我国文物",
@@ -1617,14 +1625,6 @@
       "onboard_time": 1725954921,
       "rank": 20,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1511549,
-      "num": 532266,
-      "word": "女子吃了冰箱一盘熟牛肉引发败血症",
-      "onboard_time": 1726483699,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1510516,
@@ -5243,6 +5243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 807895,
+      "num": 807895,
+      "word": "中秋晚会节目单",
+      "onboard_time": 1726483880,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 807236,
       "num": 807236,
       "word": "郑钦文 走过的每一步都算数",
@@ -5608,6 +5616,14 @@
       "word": "中学被指不订奶要提供过敏证明",
       "onboard_time": 1726241481,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 770147,
+      "num": 770147,
+      "word": "社区回应男子疑被台风吹走身亡",
+      "onboard_time": 1726483219,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -6707,14 +6723,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 665226,
-      "num": 665226,
-      "word": "中秋晚会节目单",
-      "onboard_time": 1726483880,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 664985,
       "num": 664985,
       "word": "剧本杀为什么没人玩了",
@@ -7049,6 +7057,14 @@
       "onboard_time": 1726129460,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 641480,
+      "num": 497919,
+      "word": "章若楠给杨洋指代拍",
+      "onboard_time": 1726484659,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 641457,
@@ -9216,14 +9232,6 @@
       "word": "私企老板被指玩弄多名已婚女下属",
       "onboard_time": 1726377079,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 509283,
-      "num": 509283,
-      "word": "社区回应男子疑被台风吹走身亡",
-      "onboard_time": 1726483219,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -11889,14 +11897,6 @@
       "onboard_time": 1725973342,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 389428,
-      "num": 389428,
-      "word": "章若楠给杨洋指代拍",
-      "onboard_time": 1726484659,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 389416,
@@ -28411,8 +28411,8 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 166449,
-      "num": 166449,
+      "raw_hot": 166481,
+      "num": 166481,
       "word": "袁娅维说上浪姐和歌手很消耗自己",
       "onboard_time": 1726484360,
       "rank": 27,
@@ -29873,6 +29873,14 @@
       "onboard_time": 1725860119,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158979,
+      "num": 158979,
+      "word": "边伯贤室内吸烟",
+      "onboard_time": 1726486279,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 158961,
@@ -36851,6 +36859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119474,
+      "num": 119474,
+      "word": "任嘉伦白衣舞剑花絮",
+      "onboard_time": 1726485320,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119458,
       "num": 119458,
       "word": "WTT澳门冠军赛球员MBTI",
@@ -38195,14 +38211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108258,
-      "num": 108258,
-      "word": "任嘉伦白衣舞剑花絮",
-      "onboard_time": 1726485320,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 108237,
       "num": 108237,
       "word": "韩媒爆料Scout向经纪公司借钱",
@@ -38915,6 +38923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 100910,
+      "num": 100910,
+      "word": "ive成员对自己的定位",
+      "onboard_time": 1726485859,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100817,
       "num": 375154,
       "word": "小伙不带手机134天游遍半个中国",
@@ -39147,6 +39163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98503,
+      "num": 98503,
+      "word": "以为花少主题曲开头在喊侯明昊",
+      "onboard_time": 1726483518,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98317,
       "num": 97528,
       "word": "薛之谦租购完整的故事",
@@ -39273,14 +39297,6 @@
       "onboard_time": 1726068923,
       "rank": 46,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 96613,
-      "num": 96613,
-      "word": "以为花少主题曲开头在喊侯明昊",
-      "onboard_time": 1726483518,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 96493,
@@ -40017,6 +40033,14 @@
       "onboard_time": 1726319422,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86659,
+      "num": 256800,
+      "word": "喜满中秋夜",
+      "onboard_time": 1726485499,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 86571,
@@ -42065,14 +42089,6 @@
       "onboard_time": 1725300433,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57231,
-      "num": 164948,
-      "word": "喜满中秋夜",
-      "onboard_time": 1726485499,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 56985,

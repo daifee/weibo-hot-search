@@ -1,6 +1,6 @@
 {
   "startTime": 1726417574980,
-  "endTime": 1726485570251,
+  "endTime": 1726486536377,
   "band_list": [
     {
       "raw_hot": 3008475,
@@ -51,7 +51,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1511549,
+      "raw_hot": 1590077,
       "num": 532266,
       "word": "女子吃了冰箱一盘熟牛肉引发败血症",
       "onboard_time": 1726483699,
@@ -243,12 +243,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 807895,
+      "num": 807895,
+      "word": "中秋晚会节目单",
+      "onboard_time": 1726483880,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 802622,
       "num": 802622,
       "word": "谁教黄景瑜这么关车门的",
       "onboard_time": 1726461980,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 770147,
+      "num": 770147,
+      "word": "社区回应男子疑被台风吹走身亡",
+      "onboard_time": 1726483219,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 769507,
@@ -339,14 +355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 665226,
-      "num": 665226,
-      "word": "中秋晚会节目单",
-      "onboard_time": 1726483880,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 664685,
       "num": 737359,
       "word": "周也 侃爷演唱会",
@@ -361,6 +369,14 @@
       "onboard_time": 1726478658,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 641480,
+      "num": 497919,
+      "word": "章若楠给杨洋指代拍",
+      "onboard_time": 1726484659,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 641457,
@@ -515,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 509283,
-      "num": 509283,
-      "word": "社区回应男子疑被台风吹走身亡",
-      "onboard_time": 1726483219,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 509278,
       "num": 509278,
       "word": "无锡台风",
@@ -673,14 +681,6 @@
       "onboard_time": 1726415599,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 389428,
-      "num": 389428,
-      "word": "章若楠给杨洋指代拍",
-      "onboard_time": 1726484659,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 379916,
@@ -1427,8 +1427,8 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 166449,
-      "num": 166449,
+      "raw_hot": 166481,
+      "num": 166481,
       "word": "袁娅维说上浪姐和歌手很消耗自己",
       "onboard_time": 1726484360,
       "rank": 27,
@@ -1545,6 +1545,14 @@
       "onboard_time": 1726460119,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158979,
+      "num": 158979,
+      "word": "边伯贤室内吸烟",
+      "onboard_time": 1726486279,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 158502,
@@ -1875,6 +1883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131389,
+      "num": 131389,
+      "word": "无期迷途",
+      "onboard_time": 1726486399,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 125996,
       "num": 231763,
       "word": "上海台风",
@@ -1969,6 +1985,14 @@
       "onboard_time": 1726473199,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119474,
+      "num": 119474,
+      "word": "任嘉伦白衣舞剑花絮",
+      "onboard_time": 1726485320,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 119413,
@@ -2107,14 +2131,6 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 108258,
-      "num": 108258,
-      "word": "任嘉伦白衣舞剑花絮",
-      "onboard_time": 1726485320,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 106708,
       "num": 106708,
       "word": "许嵩重庆演唱会",
@@ -2163,6 +2179,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 100910,
+      "num": 100910,
+      "word": "ive成员对自己的定位",
+      "onboard_time": 1726485859,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 98503,
+      "num": 98503,
+      "word": "以为花少主题曲开头在喊侯明昊",
+      "onboard_time": 1726483518,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97440,
       "num": 97440,
       "word": "AG对战KSG",
@@ -2177,14 +2209,6 @@
       "onboard_time": 1726450760,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 96613,
-      "num": 96613,
-      "word": "以为花少主题曲开头在喊侯明昊",
-      "onboard_time": 1726483518,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 96059,
@@ -2224,6 +2248,14 @@
       "word": "中秋奇妙游",
       "onboard_time": 1726485019,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 86659,
+      "num": 256800,
+      "word": "喜满中秋夜",
+      "onboard_time": 1726485499,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -2329,14 +2361,6 @@
       "onboard_time": 1726459820,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 57231,
-      "num": 164948,
-      "word": "喜满中秋夜",
-      "onboard_time": 1726485499,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 55835,
