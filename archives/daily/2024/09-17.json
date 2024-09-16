@@ -1,0 +1,411 @@
+{
+  "startTime": 1726504063678,
+  "endTime": 1726504063678,
+  "band_list": [
+    {
+      "raw_hot": 1392288,
+      "num": 283742,
+      "word": "罗志祥在哪做的医美",
+      "onboard_time": 1726497202,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 966057,
+      "num": 966057,
+      "word": "吴谨言官宣后首发博",
+      "onboard_time": 1726497802,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 962916,
+      "num": 283597,
+      "word": "韩安冉妈妈拉黑宋浩然",
+      "onboard_time": 1726501459,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 739725,
+      "num": 283505,
+      "word": "秋瓷炫回应儿子中文差",
+      "onboard_time": 1726502119,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 647392,
+      "num": 647392,
+      "word": "金价猛涨有人套现40多万",
+      "onboard_time": 1726494021,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 394685,
+      "num": 394685,
+      "word": "台风普拉桑",
+      "onboard_time": 1726498101,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363895,
+      "num": 363895,
+      "word": "肖战请客得闲谨制剧组喝奶茶",
+      "onboard_time": 1726501040,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 329794,
+      "num": 329794,
+      "word": "三只羊所售茅台已有72瓶不符合正品特征",
+      "onboard_time": 1726486699,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319838,
+      "num": 319838,
+      "word": "赵露思的最新自拍",
+      "onboard_time": 1726499720,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 305666,
+      "num": 305666,
+      "word": "妈妈在50多岁才摘掉节育环",
+      "onboard_time": 1726488559,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 285456,
+      "num": 285456,
+      "word": "学生没填不回家信息表被宿管深夜驱赶",
+      "onboard_time": 1726493539,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283804,
+      "num": 283804,
+      "word": "贝碧嘉几乎是以巅峰强度登陆",
+      "onboard_time": 1726468698,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283414,
+      "num": 283414,
+      "word": "边伯贤室内吸烟",
+      "onboard_time": 1726486279,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 273703,
+      "num": 215691,
+      "word": "月经变少是卵巢早衰吗",
+      "onboard_time": 1726497740,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 265409,
+      "num": 265409,
+      "word": "女子吃了冰箱一盘熟牛肉引发败血症",
+      "onboard_time": 1726483699,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262314,
+      "num": 262314,
+      "word": "贝碧嘉移入江苏",
+      "onboard_time": 1726463058,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260229,
+      "num": 260229,
+      "word": "南京台风",
+      "onboard_time": 1726498341,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250568,
+      "num": 250568,
+      "word": "于适 节目单",
+      "onboard_time": 1726486639,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 217493,
+      "num": 217493,
+      "word": "鞠婧祎 嫦娥",
+      "onboard_time": 1726486699,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 214967,
+      "num": 214967,
+      "word": "王俊凯回重庆过中秋了",
+      "onboard_time": 1726503317,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 204467,
+      "num": 204467,
+      "word": "心动的信号7雄竞5分钟",
+      "onboard_time": 1726501159,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 189040,
+      "num": 216216,
+      "word": "上海官方辟谣台风相关谣言",
+      "onboard_time": 1726496180,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163846,
+      "num": 163846,
+      "word": "台风贝碧嘉",
+      "onboard_time": 1726320202,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151188,
+      "num": 151188,
+      "word": "翁青雅彭高约会",
+      "onboard_time": 1726499480,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 148844,
+      "num": 148844,
+      "word": "章若楠代言评论区",
+      "onboard_time": 1726487239,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 147669,
+      "num": 147669,
+      "word": "这主持圈算是让宋轶闯进去了",
+      "onboard_time": 1726493599,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 144655,
+      "num": 144655,
+      "word": "月亮",
+      "onboard_time": 1726487960,
+      "rank": 27,
+      "category": "自然"
+    },
+    {
+      "raw_hot": 140818,
+      "num": 140818,
+      "word": "吴艳妮全锦赛夺冠",
+      "onboard_time": 1726493480,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 125890,
+      "num": 125890,
+      "word": "为什么带了手套还是满手油",
+      "onboard_time": 1726492998,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 125119,
+      "num": 125119,
+      "word": "樊振东说还会做姆巴佩庆祝动作",
+      "onboard_time": 1726500199,
+      "rank": 30,
+      "category": "体育,网红"
+    },
+    {
+      "raw_hot": 123186,
+      "num": 123186,
+      "word": "高压电线因台风坠落致两快递员被电",
+      "onboard_time": 1726495940,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117078,
+      "num": 117078,
+      "word": "张泽禹 耳洞",
+      "onboard_time": 1726498522,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 112644,
+      "num": 112644,
+      "word": "河南卫视创新能力",
+      "onboard_time": 1726499840,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 111671,
+      "num": 111671,
+      "word": "iPhone16系列首周末预购或达3700万台",
+      "onboard_time": 1726498942,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 109984,
+      "num": 109984,
+      "word": "中秋节文案",
+      "onboard_time": 1726499541,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 108464,
+      "num": 108464,
+      "word": "徐卓一110米栏夺冠",
+      "onboard_time": 1726498581,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 104729,
+      "num": 104729,
+      "word": "广东阿叔每天喝骨头汤险致瘫痪",
+      "onboard_time": 1726487479,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99902,
+      "num": 99902,
+      "word": "没有目的性的恋爱",
+      "onboard_time": 1726493120,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 96497,
+      "num": 96497,
+      "word": "薛之谦 Joker",
+      "onboard_time": 1726497079,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 95383,
+      "num": 95383,
+      "word": "月饼",
+      "onboard_time": 1726488259,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 93524,
+      "num": 93524,
+      "word": "卢昱晓 小企鹅",
+      "onboard_time": 1726503737,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 90073,
+      "num": 90073,
+      "word": "大闸蟹养殖户谈台风直穿阳澄湖",
+      "onboard_time": 1726499840,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87518,
+      "num": 87518,
+      "word": "学校回应学生没填信息表被宿管驱赶",
+      "onboard_time": 1726498581,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84964,
+      "num": 84964,
+      "word": "章若楠给杨洋指代拍",
+      "onboard_time": 1726484659,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 83941,
+      "num": 83941,
+      "word": "边伯贤为在澳门室内吸烟道歉",
+      "onboard_time": 1726493720,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 83905,
+      "num": 83905,
+      "word": "青岛方特偶遇丁程鑫",
+      "onboard_time": 1726497802,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 83664,
+      "num": 83664,
+      "word": "小米回应南京南站附近SU7着火",
+      "onboard_time": 1726493662,
+      "rank": 47,
+      "category": "社会新闻,汽车"
+    },
+    {
+      "raw_hot": 78483,
+      "num": 78483,
+      "word": "武汉大学瓦片在二手平台被炒至数百元",
+      "onboard_time": 1726502958,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78286,
+      "num": 78286,
+      "word": "台风贝碧嘉即将抵达南京",
+      "onboard_time": 1726497559,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14519,
+      "num": 426197,
+      "word": "致敬台风中的守护者",
+      "onboard_time": 1726495641,
+      "rank": 2,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#中秋佳节习近平总书记这样寄语#"
+    }
+  ]
+}
