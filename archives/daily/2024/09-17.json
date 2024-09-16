@@ -1,6 +1,6 @@
 {
   "startTime": 1726504063678,
-  "endTime": 1726524107160,
+  "endTime": 1726525164949,
   "band_list": [
     {
       "raw_hot": 1392288,
@@ -395,6 +395,14 @@
       "category": "社会新闻,汽车"
     },
     {
+      "raw_hot": 80165,
+      "num": 80165,
+      "word": "邓超 录综艺是为了给别人带来快乐",
+      "onboard_time": 1726519452,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 78286,
       "num": 78286,
       "word": "台风贝碧嘉即将抵达南京",
@@ -417,14 +425,6 @@
       "onboard_time": 1726494501,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 54667,
-      "num": 54667,
-      "word": "邓超 录综艺是为了给别人带来快乐",
-      "onboard_time": 1726519452,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 51726,
@@ -467,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35214,
+      "num": 35214,
+      "word": "研究表明爷爷锻炼可增强孙子智力",
+      "onboard_time": 1726522872,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 31485,
       "num": 31485,
       "word": "明潮千帆音乐节今日开启",
@@ -483,6 +491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 29445,
+      "num": 29445,
+      "word": "生日收到大鹅花束是什么感觉",
+      "onboard_time": 1726510933,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 28559,
       "num": 28559,
       "word": "快递小哥台风中紧紧拽着快递",
@@ -491,20 +507,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26532,
-      "num": 26532,
+      "raw_hot": 27517,
+      "num": 27517,
       "word": "旅客携带96只白蚁蚁后入境被查",
       "onboard_time": 1726516391,
       "rank": 35,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25056,
-      "num": 25056,
-      "word": "生日收到大鹅花束是什么感觉",
-      "onboard_time": 1726510933,
-      "rank": 42,
-      "category": "情感"
+      "raw_hot": 25059,
+      "num": 25059,
+      "word": "巴音布鲁克草原再现云海奇观",
+      "onboard_time": 1726512672,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 24898,
@@ -516,19 +532,11 @@
     },
     {
       "raw_hot": 23902,
-      "num": 23902,
+      "num": 24024,
       "word": "侃爷 告诉过你",
       "onboard_time": 1726515251,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 23840,
-      "num": 24672,
-      "word": "巴音布鲁克草原再现云海奇观",
-      "onboard_time": 1726512672,
-      "rank": 45,
-      "category": "旅游"
     },
     {
       "raw_hot": 21999,
@@ -539,12 +547,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 20416,
-      "num": 20416,
-      "word": "研究表明爷爷锻炼可增强孙子智力",
-      "onboard_time": 1726522872,
-      "rank": 43,
-      "category": "科学科普"
+      "raw_hot": 20262,
+      "num": 24019,
+      "word": "路上的普拉桑将对浙江造成持续影响",
+      "onboard_time": 1726522993,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18948,
+      "num": 24011,
+      "word": "浙江结束防台风应急响应",
+      "onboard_time": 1726521371,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18530,
@@ -555,27 +571,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17440,
-      "num": 20388,
-      "word": "路上的普拉桑将对浙江造成持续影响",
-      "onboard_time": 1726522993,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 16544,
       "num": 56116,
       "word": "航拍月亮伴云海氛围感拉满",
       "onboard_time": 1726498040,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16017,
-      "num": 20381,
-      "word": "浙江结束防台风应急响应",
-      "onboard_time": 1726521371,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
