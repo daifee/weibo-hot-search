@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726486536377,
+  "endTime": 1726490545102,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -1225,6 +1225,14 @@
       "onboard_time": 1725448879,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1691202,
+      "num": 1691202,
+      "word": "鞠婧祎 嫦娥",
+      "onboard_time": 1726486699,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1687434,
@@ -2561,6 +2569,14 @@
       "onboard_time": 1726406842,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1238886,
+      "num": 789882,
+      "word": "于适 节目单",
+      "onboard_time": 1726486639,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1238615,
@@ -3931,6 +3947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 974764,
+      "num": 410009,
+      "word": "边伯贤室内吸烟",
+      "onboard_time": 1726486279,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 971085,
       "num": 971085,
       "word": "WTT",
@@ -3976,6 +4000,22 @@
       "word": "88VIP称正分批邀商家开通微信支付",
       "onboard_time": 1725441441,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 964080,
+      "num": 382061,
+      "word": "妈妈在50多岁才摘掉节育环",
+      "onboard_time": 1726488559,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 964037,
+      "num": 964037,
+      "word": "三只羊所售茅台已有72瓶不符合正品特征",
+      "onboard_time": 1726486699,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -6475,6 +6515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 684888,
+      "num": 347782,
+      "word": "章若楠代言评论区",
+      "onboard_time": 1726487239,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 684244,
       "num": 684244,
       "word": "唐尚珺称有室友介意被恶搞搬离宿舍",
@@ -7841,6 +7889,14 @@
       "onboard_time": 1725735432,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 590156,
+      "num": 341005,
+      "word": "广东阿叔每天喝骨头汤险致瘫痪",
+      "onboard_time": 1726487479,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 589972,
@@ -14867,6 +14923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290150,
+      "num": 290150,
+      "word": "月饼",
+      "onboard_time": 1726488259,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 290078,
       "num": 402216,
       "word": "王安宇选张艺凡不选田曦薇",
@@ -16611,6 +16675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257578,
+      "num": 257578,
+      "word": "严浩翔 成都",
+      "onboard_time": 1726487839,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 257364,
       "num": 257364,
       "word": "被人咬伤比被动物咬伤更严重",
@@ -17481,6 +17553,14 @@
       "onboard_time": 1726058061,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 243326,
+      "num": 243326,
+      "word": "张凌赫 边走边脱",
+      "onboard_time": 1726487239,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 243292,
@@ -18651,6 +18731,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 229841,
+      "num": 337504,
+      "word": "陈丽君一人分饰两角",
+      "onboard_time": 1726489100,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229828,
       "num": 130164,
       "word": "装x的信号",
@@ -18953,6 +19041,14 @@
       "onboard_time": 1725192257,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 226012,
+      "num": 226012,
+      "word": "虞书欣又又又贴脸开大黄晓明",
+      "onboard_time": 1726489039,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 225807,
@@ -21009,6 +21105,14 @@
       "onboard_time": 1725611841,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206007,
+      "num": 206007,
+      "word": "喻言黑发红裙",
+      "onboard_time": 1726489459,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 205974,
@@ -23681,6 +23785,14 @@
       "onboard_time": 1725621020,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191672,
+      "num": 249060,
+      "word": "鞠婧祎一字肩蓝色长裙",
+      "onboard_time": 1726489879,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 191547,
@@ -27075,6 +27187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 174038,
+      "num": 353287,
+      "word": "医院招篮球特长生被指萝卜坑招聘",
+      "onboard_time": 1726487479,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174027,
       "num": 419451,
       "word": "秦俊杰演活了中年人的无奈",
@@ -28827,6 +28947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164111,
+      "num": 164111,
+      "word": "敖瑞鹏张予曦妈生漫改脸",
+      "onboard_time": 1726490241,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164053,
       "num": 164053,
       "word": "陈昊宇回应心疼谢美蓝",
@@ -29009,6 +29137,14 @@
       "onboard_time": 1725939139,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 163170,
+      "num": 163170,
+      "word": "佟丽娅宋代造型",
+      "onboard_time": 1726488499,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 163097,
@@ -29875,14 +30011,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158979,
-      "num": 158979,
-      "word": "边伯贤室内吸烟",
-      "onboard_time": 1726486279,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 158961,
       "num": 158961,
       "word": "如果一个人的火把太小",
@@ -30643,6 +30771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155186,
+      "num": 155186,
+      "word": "阿尼亚 死亡笔记手办",
+      "onboard_time": 1726487479,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 155102,
       "num": 155102,
       "word": "亚运村不少房东不想再降价撤牌不卖了",
@@ -30985,6 +31121,14 @@
       "onboard_time": 1725517581,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153795,
+      "num": 153795,
+      "word": "月亮",
+      "onboard_time": 1726487960,
+      "rank": 36,
+      "category": "自然"
     },
     {
       "raw_hot": 153788,
@@ -31537,6 +31681,14 @@
       "onboard_time": 1725504738,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 150909,
+      "num": 150909,
+      "word": "高雅cp互关",
+      "onboard_time": 1726488740,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 150906,
@@ -33715,6 +33867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 139192,
+      "num": 139192,
+      "word": "祁煜pyq太可爱了",
+      "onboard_time": 1726488321,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 139102,
       "num": 139102,
       "word": "丁达尔效应下的李一桐",
@@ -34931,6 +35091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132133,
+      "num": 132133,
+      "word": "王心凌为了出片有多拼",
+      "onboard_time": 1726490180,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132057,
       "num": 146504,
       "word": "碎花裙女生和拿勺大厨都将被奖励",
@@ -35073,6 +35241,14 @@
       "onboard_time": 1725705320,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131264,
+      "num": 131264,
+      "word": "奎八 二哈的报恩",
+      "onboard_time": 1726489520,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 131138,
@@ -36851,6 +37027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119614,
+      "num": 119614,
+      "word": "AG打卡冠军奖杯",
+      "onboard_time": 1726487420,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 119475,
       "num": 119475,
       "word": "女儿第1天上幼儿园中午请假哄爸爸",
@@ -37483,6 +37667,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 114371,
+      "num": 114371,
+      "word": "中秋漫游夜",
+      "onboard_time": 1726486880,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114352,
       "num": 114352,
       "word": "时间在袁一琦身上具象化了",
@@ -37593,6 +37785,14 @@
       "onboard_time": 1725852318,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113253,
+      "num": 331527,
+      "word": "台风直扑阳澄湖网友纷纷关心大闸蟹",
+      "onboard_time": 1726488800,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113212,
@@ -44483,6 +44683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38395,
+      "num": 341440,
+      "word": "工作人员回应宠物乐园现熊猫犬",
+      "onboard_time": 1726488981,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38382,
       "num": 259654,
       "word": "吴彦祖的第一台SUV改装作品",
@@ -45368,6 +45576,14 @@
       "word": "男子深陷刷单返利陷阱",
       "onboard_time": 1725977125,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33017,
+      "num": 343578,
+      "word": "阳澄湖大闸蟹缺席中秋宴",
+      "onboard_time": 1726489939,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
