@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726460789164,
+  "endTime": 1726461677647,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -259,19 +259,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1238615,
+      "num": 557732,
+      "word": "上海停电",
+      "onboard_time": 1726457899,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1206455,
       "num": 1206455,
       "word": "贝碧嘉",
       "onboard_time": 1726393040,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1156054,
-      "num": 557732,
-      "word": "上海停电",
-      "onboard_time": 1726457899,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -312,6 +312,14 @@
       "word": "香港美诚月饼生产商回应",
       "onboard_time": 1726446259,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1132824,
+      "num": 1132824,
+      "word": "金店店员3年用铅块偷换45.8kg黄金",
+      "onboard_time": 1726459639,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -499,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 753643,
+      "num": 753643,
+      "word": "2024央视中秋晚会阵容",
+      "onboard_time": 1726458859,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 751519,
       "num": 751519,
       "word": "上海浦东滴水湖12级以上强风",
@@ -545,14 +561,6 @@
       "onboard_time": 1726453759,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 686144,
-      "num": 686144,
-      "word": "2024央视中秋晚会阵容",
-      "onboard_time": 1726458859,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 664685,
@@ -683,6 +691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 597383,
+      "num": 597383,
+      "word": "别让妈妈知道因为她会心疼",
+      "onboard_time": 1726455980,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 595447,
       "num": 595447,
       "word": "陈瞾旭结婚后首现身",
@@ -713,14 +729,6 @@
       "onboard_time": 1726320202,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 567920,
-      "num": 567920,
-      "word": "别让妈妈知道因为她会心疼",
-      "onboard_time": 1726455980,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 561523,
@@ -961,14 +969,6 @@
       "onboard_time": 1726374259,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 441088,
-      "num": 441088,
-      "word": "金店店员3年用铅块偷换45.8kg黄金",
-      "onboard_time": 1726459639,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 433612,
@@ -1347,6 +1347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 324421,
+      "num": 324421,
+      "word": "杭州西湖游人风中凌乱",
+      "onboard_time": 1726460539,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323788,
       "num": 323788,
       "word": "凡人歌 破房文学",
@@ -1515,6 +1523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 292605,
+      "num": 330085,
+      "word": "金晨说从来不怕变胖",
+      "onboard_time": 1726458387,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289268,
       "num": 289268,
       "word": "台风贝碧嘉直播",
@@ -1627,6 +1643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 268055,
+      "num": 268055,
+      "word": "光与夜之恋",
+      "onboard_time": 1726459940,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 266750,
       "num": 266750,
       "word": "女子地铁被家暴称丈夫花5000养情人",
@@ -1683,12 +1707,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 256798,
-      "num": 256798,
-      "word": "光与夜之恋",
-      "onboard_time": 1726459940,
-      "rank": 32,
-      "category": "游戏"
+      "raw_hot": 256961,
+      "num": 256961,
+      "word": "吴彦姝感谢马龙",
+      "onboard_time": 1726460238,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 256492,
@@ -1728,6 +1752,14 @@
       "word": "江苏必要时将果断停课",
       "onboard_time": 1726397541,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250929,
+      "num": 250929,
+      "word": "苏州即将进入风雨最强时段",
+      "onboard_time": 1726458199,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1819,14 +1851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238649,
-      "num": 275307,
-      "word": "金晨说从来不怕变胖",
-      "onboard_time": 1726458387,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 237833,
       "num": 361929,
       "word": "美诚月饼产自广东在港注册商标",
@@ -1867,12 +1891,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 229861,
-      "num": 229861,
-      "word": "苏州即将进入风雨最强时段",
-      "onboard_time": 1726458199,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 231635,
+      "num": 294353,
+      "word": "章若楠雨霖铃出妆",
+      "onboard_time": 1726456759,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 229841,
@@ -1907,12 +1931,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 226072,
-      "num": 226072,
-      "word": "杭州西湖游人风中凌乱",
-      "onboard_time": 1726460539,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 226416,
+      "num": 239607,
+      "word": "蓝盈莹看到陶昕然的脐环大改观",
+      "onboard_time": 1726460659,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 224095,
@@ -2025,14 +2049,6 @@
       "onboard_time": 1726403482,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 209150,
-      "num": 294353,
-      "word": "章若楠雨霖铃出妆",
-      "onboard_time": 1726456759,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 208675,
@@ -2459,14 +2475,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 177720,
-      "num": 177720,
-      "word": "蓝盈莹看到陶昕然的脐环大改观",
-      "onboard_time": 1726460659,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 177614,
       "num": 177614,
       "word": "AG先拿一分",
@@ -2667,12 +2675,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 163858,
-      "num": 163858,
-      "word": "吴彦姝感谢马龙",
-      "onboard_time": 1726460238,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 164242,
+      "num": 164242,
+      "word": "国庆前或将一周一个台风",
+      "onboard_time": 1726461320,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163293,
@@ -3131,6 +3139,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 138273,
+      "num": 138273,
+      "word": "剧版镇魂街2定档",
+      "onboard_time": 1726458199,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138262,
       "num": 460879,
       "word": "大学生组团接单陪爬泰山月入过万",
@@ -3233,14 +3249,6 @@
       "onboard_time": 1726364838,
       "rank": 41,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 132452,
-      "num": 132452,
-      "word": "剧版镇魂街2定档",
-      "onboard_time": 1726458199,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 131077,
@@ -3379,6 +3387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120999,
+      "num": 429832,
+      "word": "王俊凯 沉浸角色重塑自己",
+      "onboard_time": 1726460539,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 120086,
       "num": 120086,
       "word": "晋江崩了",
@@ -3457,6 +3473,14 @@
       "onboard_time": 1726388598,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113210,
+      "num": 257861,
+      "word": "迎风的青春片尾曲",
+      "onboard_time": 1726460960,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 112163,
@@ -3715,6 +3739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82485,
+      "num": 561603,
+      "word": "四川汶川突发泥石流",
+      "onboard_time": 1726460659,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78466,
       "num": 78466,
       "word": "警方通报5岁女童小区内被碾压致死",
@@ -3825,14 +3857,6 @@
       "onboard_time": 1726385419,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59072,
-      "num": 429832,
-      "word": "王俊凯 沉浸角色重塑自己",
-      "onboard_time": 1726460539,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 57519,
@@ -4352,14 +4376,6 @@
       "word": "古人的青铜器太全面了",
       "onboard_time": 1726341311,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10011,
-      "num": 561603,
-      "word": "四川汶川突发泥石流",
-      "onboard_time": 1726460659,
-      "rank": 9,
       "category": "社会新闻"
     },
     {

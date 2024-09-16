@@ -1,0 +1,410 @@
+{
+  "runTime": 1726461677647,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1627769,
+        "num": 1627769,
+        "word": "直击14级台风贝碧嘉破坏力",
+        "onboard_time": 1726452017,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1132824,
+        "num": 1132824,
+        "word": "金店店员3年用铅块偷换45.8kg黄金",
+        "onboard_time": 1726459639,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7675,
+        "num": 1108818,
+        "word": "中国铁路营业里程超16万公里",
+        "onboard_time": 1726405523,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1100723,
+        "num": 1100723,
+        "word": "上海中心千吨阻尼器摆幅肉眼可见",
+        "onboard_time": 1726452379,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1032916,
+        "num": 1032916,
+        "word": "贝碧嘉登陆",
+        "onboard_time": 1726444158,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 977939,
+        "num": 977939,
+        "word": "内地女网红在香港骑行遇车祸身亡",
+        "onboard_time": 1726454359,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753643,
+        "num": 753643,
+        "word": "2024央视中秋晚会阵容",
+        "onboard_time": 1726458859,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 597383,
+        "num": 597383,
+        "word": "别让妈妈知道因为她会心疼",
+        "onboard_time": 1726455980,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 396982,
+        "num": 396982,
+        "word": "男子被砍后反杀凶手一审被判10年",
+        "onboard_time": 1726444158,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82485,
+        "num": 394150,
+        "word": "四川汶川突发泥石流",
+        "onboard_time": 1726460659,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 949584,
+        "num": 391108,
+        "word": "苏州台风",
+        "onboard_time": 1726456458,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1402307,
+        "num": 386075,
+        "word": "金价猛涨有金店却扛不住了",
+        "onboard_time": 1726455800,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1238615,
+        "num": 384267,
+        "word": "上海停电",
+        "onboard_time": 1726457899,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502803,
+        "num": 379481,
+        "word": "王源慌了",
+        "onboard_time": 1726450098,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 736971,
+        "num": 377181,
+        "word": "贝碧嘉正横穿上海",
+        "onboard_time": 1726455740,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511511,
+        "num": 372728,
+        "word": "台风贝碧嘉",
+        "onboard_time": 1726320202,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371273,
+        "num": 371273,
+        "word": "枪手距特朗普不到457米",
+        "onboard_time": 1726449559,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 336102,
+        "num": 336102,
+        "word": "周也 侃爷演唱会",
+        "onboard_time": 1726442897,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 292605,
+        "num": 330085,
+        "word": "金晨说从来不怕变胖",
+        "onboard_time": 1726458387,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275191,
+        "num": 324655,
+        "word": "范丞丞去了侃爷试听会",
+        "onboard_time": 1726457720,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 418275,
+        "num": 324559,
+        "word": "我愿意为了这样的房子爬七楼",
+        "onboard_time": 1726455679,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 324421,
+        "num": 324421,
+        "word": "杭州西湖游人风中凌乱",
+        "onboard_time": 1726460539,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315704,
+        "num": 315704,
+        "word": "香港美诚月饼生产商回应",
+        "onboard_time": 1726446259,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311991,
+        "num": 311991,
+        "word": "台风",
+        "onboard_time": 1726302200,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296127,
+        "num": 296127,
+        "word": "孙颖莎一句yeah震惊许昕",
+        "onboard_time": 1726458019,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120999,
+        "num": 281805,
+        "word": "王俊凯 沉浸角色重塑自己",
+        "onboard_time": 1726460539,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 269483,
+        "num": 269483,
+        "word": "使用筋膜枪避开4个部位",
+        "onboard_time": 1726456340,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 268055,
+        "num": 268055,
+        "word": "光与夜之恋",
+        "onboard_time": 1726459940,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 249895,
+        "num": 264309,
+        "word": "侃爷试听会偶遇严浩翔",
+        "onboard_time": 1726444158,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 231635,
+        "num": 262407,
+        "word": "章若楠雨霖铃出妆",
+        "onboard_time": 1726456759,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262124,
+        "num": 262124,
+        "word": "上海浦东滴水湖12级以上强风",
+        "onboard_time": 1726453519,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113210,
+        "num": 257861,
+        "word": "迎风的青春片尾曲",
+        "onboard_time": 1726460960,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256961,
+        "num": 256961,
+        "word": "吴彦姝感谢马龙",
+        "onboard_time": 1726460238,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250929,
+        "num": 250929,
+        "word": "苏州即将进入风雨最强时段",
+        "onboard_time": 1726458199,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226416,
+        "num": 239607,
+        "word": "蓝盈莹看到陶昕然的脐环大改观",
+        "onboard_time": 1726460659,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239277,
+        "num": 239277,
+        "word": "孙颖莎林诗栋拍冠军城市宣传照",
+        "onboard_time": 1726453759,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236793,
+        "num": 236793,
+        "word": "特朗普打高尔夫一枪手藏在灌木丛",
+        "onboard_time": 1726449259,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 221787,
+        "num": 221787,
+        "word": "好利来回应员工私自驾驶摩托或被开除",
+        "onboard_time": 1726458740,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202042,
+        "num": 202042,
+        "word": "台风贝碧嘉还没走普拉桑又来了",
+        "onboard_time": 1726413321,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34613,
+        "num": 179557,
+        "word": "上海台风",
+        "onboard_time": 1726285940,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177717,
+        "num": 177717,
+        "word": "EDG拒绝和解",
+        "onboard_time": 1726441695,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 173343,
+        "num": 173343,
+        "word": "凡人歌 大结局",
+        "onboard_time": 1726446438,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167868,
+        "num": 167868,
+        "word": "城管与大学生店员冲突被停职",
+        "onboard_time": 1726452319,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166527,
+        "num": 166527,
+        "word": "谢广坤儿子百日宴",
+        "onboard_time": 1726459340,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164242,
+        "num": 164242,
+        "word": "国庆前或将一周一个台风",
+        "onboard_time": 1726461320,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155597,
+        "num": 155597,
+        "word": "慕胥辞",
+        "onboard_time": 1726447279,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147935,
+        "num": 147935,
+        "word": "于适 张雨绮",
+        "onboard_time": 1726402521,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145101,
+        "num": 145101,
+        "word": "靳东在中戏读博",
+        "onboard_time": 1726456279,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144058,
+        "num": 144058,
+        "word": "我恋6有自己的公主小妹",
+        "onboard_time": 1726458620,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138273,
+        "num": 138273,
+        "word": "剧版镇魂街2定档",
+        "onboard_time": 1726458199,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#三次座谈会总书记情系母亲河#"
+    }
+  }
+}
