@@ -1,6 +1,6 @@
 {
   "startTime": 1726417574980,
-  "endTime": 1726471258193,
+  "endTime": 1726472118861,
   "band_list": [
     {
       "raw_hot": 3008475,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1124600,
+      "num": 1124600,
+      "word": "甜馨11岁近照",
+      "onboard_time": 1726468878,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1120579,
       "num": 1120579,
       "word": "苏州台风",
@@ -131,12 +139,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1091017,
-      "num": 1091017,
-      "word": "甜馨11岁近照",
-      "onboard_time": 1726468878,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 1082635,
+      "num": 1082635,
+      "word": "苏州的结界",
+      "onboard_time": 1726470018,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1013316,
@@ -171,19 +179,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 920966,
+      "num": 920966,
+      "word": "贝碧嘉几乎是以巅峰强度登陆",
+      "onboard_time": 1726468698,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 918799,
       "num": 918799,
       "word": "苏州应急转移近万名外来务工人员",
       "onboard_time": 1726413441,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 842588,
-      "num": 842588,
-      "word": "贝碧嘉几乎是以巅峰强度登陆",
-      "onboard_time": 1726468698,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -320,14 +328,6 @@
       "word": "贝碧嘉或以强台风级登陆浙江上海一带",
       "onboard_time": 1726403361,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 577834,
-      "num": 577834,
-      "word": "苏州的结界",
-      "onboard_time": 1726470018,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -571,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 348568,
+      "num": 356892,
+      "word": "李荣浩杨丞琳挽手逛家具店",
+      "onboard_time": 1726470320,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 344773,
       "num": 344773,
       "word": "于正压王鹤棣大奉打更人大爆",
@@ -579,16 +587,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 327536,
-      "num": 356892,
-      "word": "李荣浩杨丞琳挽手逛家具店",
-      "onboard_time": 1726470320,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 327021,
-      "num": 327021,
+      "raw_hot": 337548,
+      "num": 489966,
       "word": "张杰谢娜游艇约会",
       "onboard_time": 1726469300,
       "rank": 21,
@@ -601,6 +601,14 @@
       "onboard_time": 1726454478,
       "rank": 27,
       "category": "科学科普,自然"
+    },
+    {
+      "raw_hot": 312961,
+      "num": 312961,
+      "word": "中国人用针在纸上绣画",
+      "onboard_time": 1726470079,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 312941,
@@ -625,14 +633,6 @@
       "onboard_time": 1726446858,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 293947,
-      "num": 293947,
-      "word": "中国人用针在纸上绣画",
-      "onboard_time": 1726470079,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292605,
@@ -731,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245908,
+      "num": 245908,
+      "word": "在图书馆被塞小纸条了",
+      "onboard_time": 1726470079,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 245576,
       "num": 366416,
       "word": "终于有古装剧的公主抱不是转圈了",
@@ -827,11 +835,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209724,
+      "num": 209724,
+      "word": "特朗普公然宣称憎恨霉霉",
+      "onboard_time": 1726471579,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 207196,
       "num": 606432,
       "word": "美诚月饼生产厂家多次被罚",
       "onboard_time": 1726467019,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205566,
+      "num": 205566,
+      "word": "台风中心已移入无锡",
+      "onboard_time": 1726471219,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -923,12 +947,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187621,
-      "num": 187621,
-      "word": "在图书馆被塞小纸条了",
-      "onboard_time": 1726470079,
+      "raw_hot": 188624,
+      "num": 188624,
+      "word": "无畏继续在赛场上发光发热",
+      "onboard_time": 1726471640,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 188521,
+      "num": 188521,
+      "word": "完美世界剧场版千层反转设定",
+      "onboard_time": 1726471459,
       "rank": 34,
-      "category": "情感"
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 185010,
@@ -969,6 +1001,14 @@
       "onboard_time": 1726445657,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175995,
+      "num": 175995,
+      "word": "林诗栋19岁也不年轻了逗笑全场",
+      "onboard_time": 1726470380,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 175850,
@@ -1027,6 +1067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 170299,
+      "num": 170299,
+      "word": "十个勤天首张专辑上线",
+      "onboard_time": 1726471819,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 168623,
       "num": 168623,
       "word": "贝碧嘉来临前苏州天空变粉色了",
@@ -1073,6 +1121,14 @@
       "onboard_time": 1726412781,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163233,
+      "num": 163233,
+      "word": "台风来前杭州天空出现丁达尔现象",
+      "onboard_time": 1726471279,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162976,
@@ -1179,14 +1235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145675,
-      "num": 145675,
-      "word": "林诗栋19岁也不年轻了逗笑全场",
-      "onboard_time": 1726470380,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 144817,
       "num": 144817,
       "word": "高达",
@@ -1217,6 +1265,14 @@
       "onboard_time": 1726414760,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142797,
+      "num": 142797,
+      "word": "这是教官最想回部队的一次",
+      "onboard_time": 1726470859,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 142353,
@@ -1339,14 +1395,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 129996,
-      "num": 129996,
-      "word": "台风中心已移入无锡",
-      "onboard_time": 1726471219,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125996,
       "num": 231763,
       "word": "上海台风",
@@ -1361,14 +1409,6 @@
       "onboard_time": 1726413321,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 123938,
-      "num": 123938,
-      "word": "这是教官最想回部队的一次",
-      "onboard_time": 1726470859,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 122166,
@@ -1523,6 +1563,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 95524,
+      "num": 470798,
+      "word": "吴磊在吃什么饼",
+      "onboard_time": 1726467918,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92281,
       "num": 92281,
       "word": "以色列中部遭来自也门的导弹袭击",
@@ -1548,19 +1596,11 @@
     },
     {
       "raw_hot": 82335,
-      "num": 358695,
+      "num": 488411,
       "word": "菲海警船撤离中国仙宾礁现场",
       "onboard_time": 1726470799,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 80099,
-      "num": 357057,
-      "word": "吴磊在吃什么饼",
-      "onboard_time": 1726467918,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 78101,
@@ -1843,6 +1883,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 11588,
+      "num": 1095326,
+      "word": "服贸会探馆直播",
+      "onboard_time": 1726471878,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5622,
+      "num": 318433,
+      "word": "人民军队淬火向前",
+      "onboard_time": 1726081931,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1807,
       "num": 1164071,
       "word": "人民军队淬火成钢",
@@ -1857,6 +1913,9 @@
     },
     {
       "word": "#习近平总书记的中秋节日祝福#"
+    },
+    {
+      "word": "#中秋佳节习近平总书记这样寄语#"
     }
   ]
 }
