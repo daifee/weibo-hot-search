@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726468267700,
+  "endTime": 1726469073198,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -235,6 +235,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1367403,
+      "num": 1367403,
+      "word": "特朗普公然宣称憎恨泰勒斯威夫特",
+      "onboard_time": 1726466000,
+      "rank": 1,
+      "category": "国外时政,作品衍生"
+    },
+    {
+      "raw_hot": 1364112,
+      "num": 550713,
+      "word": "上海外卖",
+      "onboard_time": 1726465519,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1296851,
       "num": 543079,
       "word": "国庆前或将一周一个台风",
@@ -297,14 +313,6 @@
       "onboard_time": 1726393040,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1188674,
-      "num": 1188674,
-      "word": "特朗普公然宣称憎恨泰勒斯威夫特",
-      "onboard_time": 1726466000,
-      "rank": 1,
-      "category": "国外时政,作品衍生"
     },
     {
       "raw_hot": 1155941,
@@ -393,14 +401,6 @@
       "onboard_time": 1726401441,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1016129,
-      "num": 550713,
-      "word": "上海外卖",
-      "onboard_time": 1726465519,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1013316,
@@ -907,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 519194,
+      "num": 519194,
+      "word": "刘能媳妇吻上谢广坤",
+      "onboard_time": 1726466000,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 515638,
       "num": 599857,
       "word": "雨霖铃开机",
@@ -928,6 +936,14 @@
       "word": "私企老板被指玩弄多名已婚女下属",
       "onboard_time": 1726377079,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 509278,
+      "num": 509278,
+      "word": "无锡台风",
+      "onboard_time": 1726467379,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1017,14 +1033,6 @@
       "onboard_time": 1726323142,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 472820,
-      "num": 472820,
-      "word": "刘能媳妇吻上谢广坤",
-      "onboard_time": 1726466000,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 465932,
@@ -1475,14 +1483,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 322104,
-      "num": 322104,
-      "word": "无锡台风",
-      "onboard_time": 1726467379,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 316878,
       "num": 316878,
       "word": "大耀斑爆发",
@@ -1665,6 +1665,14 @@
       "onboard_time": 1726456340,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 284410,
+      "num": 194290,
+      "word": "甜馨11岁近照",
+      "onboard_time": 1726468878,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 283173,
@@ -2411,6 +2419,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 193720,
+      "num": 416658,
+      "word": "凡人歌带火凡人歌",
+      "onboard_time": 1726466720,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192809,
       "num": 192809,
       "word": "马嘉祺假期下厨vlog",
@@ -2627,6 +2643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177342,
+      "num": 177342,
+      "word": "王者S37赛季即将开启",
+      "onboard_time": 1726468939,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 176579,
       "num": 176579,
       "word": "孙颖莎夺冠后找奖杯",
@@ -2811,6 +2835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165463,
+      "num": 165463,
+      "word": "上海电力回应",
+      "onboard_time": 1726467678,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165438,
       "num": 264669,
       "word": "于洋是看着范丞丞黄明昊长大的",
@@ -2920,6 +2952,14 @@
       "word": "贝碧嘉路径",
       "onboard_time": 1726448299,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160089,
+      "num": 160089,
+      "word": "贝碧嘉几乎是以巅峰强度登陆",
+      "onboard_time": 1726468698,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -3139,6 +3179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149883,
+      "num": 149883,
+      "word": "默杀网播",
+      "onboard_time": 1726466960,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 149790,
       "num": 149790,
       "word": "王一博 男孩子矫情点怎么了",
@@ -3177,22 +3225,6 @@
       "onboard_time": 1726391598,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 146199,
-      "num": 146199,
-      "word": "默杀网播",
-      "onboard_time": 1726466960,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 146078,
-      "num": 146078,
-      "word": "上海电力回应",
-      "onboard_time": 1726467678,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145693,
@@ -3241,6 +3273,14 @@
       "onboard_time": 1726396340,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143334,
+      "num": 380551,
+      "word": "曾黎47岁最后一次爬山",
+      "onboard_time": 1726468279,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 143166,
@@ -3331,12 +3371,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140008,
+      "num": 140008,
+      "word": "高达",
+      "onboard_time": 1726468878,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 140001,
       "num": 140001,
       "word": "马来西亚新闻报道尤长靖披哥3冠王",
       "onboard_time": 1726464680,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139085,
+      "num": 139085,
+      "word": "易烊千玺唯美小回眸",
+      "onboard_time": 1726468519,
+      "rank": 44,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 138967,
@@ -3537,14 +3593,6 @@
       "onboard_time": 1726393581,
       "rank": 47,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 128357,
-      "num": 416658,
-      "word": "凡人歌带火凡人歌",
-      "onboard_time": 1726466720,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 128307,
@@ -4243,6 +4291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47753,
+      "num": 302370,
+      "word": "吴磊在吃什么饼",
+      "onboard_time": 1726467918,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46983,
       "num": 45847,
       "word": "那隽 吾辈楷模",
@@ -4433,14 +4489,6 @@
       "onboard_time": 1726424474,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 31767,
-      "num": 146121,
-      "word": "吴磊在吃什么饼",
-      "onboard_time": 1726467918,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 31687,
