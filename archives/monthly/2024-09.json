@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726497597581,
+  "endTime": 1726500270365,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -369,6 +369,14 @@
       "onboard_time": 1726323626,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2750722,
+      "num": 667515,
+      "word": "罗志祥在哪做的医美",
+      "onboard_time": 1726497202,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2744326,
@@ -2755,6 +2763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1212338,
+      "num": 1212338,
+      "word": "吴谨言官宣后首发博",
+      "onboard_time": 1726497802,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1211675,
       "num": 1211675,
       "word": "第一批打司美格鲁肽的人已经后悔了",
@@ -3985,14 +4001,6 @@
       "onboard_time": 1725363620,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 975088,
-      "num": 667515,
-      "word": "罗志祥在哪做的医美",
-      "onboard_time": 1726497202,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 974764,
@@ -10475,6 +10483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 455625,
+      "num": 455625,
+      "word": "上海官方辟谣台风相关谣言",
+      "onboard_time": 1726496180,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 455618,
       "num": 455618,
       "word": "李维刚回应承包鱼塘事件",
@@ -11065,6 +11081,14 @@
       "onboard_time": 1726286839,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428214,
+      "num": 428214,
+      "word": "月经变少是卵巢早衰吗",
+      "onboard_time": 1726497740,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 428183,
@@ -11729,6 +11753,14 @@
       "onboard_time": 1725776360,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 401344,
+      "num": 401344,
+      "word": "台风普拉桑",
+      "onboard_time": 1726498101,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400798,
@@ -14179,14 +14211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 310637,
-      "num": 310637,
-      "word": "上海官方辟谣台风相关谣言",
-      "onboard_time": 1726496180,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 310598,
       "num": 310598,
       "word": "国足这都能输",
@@ -14233,6 +14257,14 @@
       "onboard_time": 1726320743,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 310080,
+      "num": 310080,
+      "word": "赵露思的最新自拍",
+      "onboard_time": 1726499720,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 310026,
@@ -16377,6 +16409,14 @@
       "onboard_time": 1725599182,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 264176,
+      "num": 264176,
+      "word": "翁青雅彭高约会",
+      "onboard_time": 1726499480,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 264073,
@@ -20011,6 +20051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216607,
+      "num": 216607,
+      "word": "徐卓一110米栏夺冠",
+      "onboard_time": 1726498581,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216587,
       "num": 216587,
       "word": "赵丽娜试衣服试到崩溃大哭",
@@ -20129,6 +20177,14 @@
       "onboard_time": 1725276380,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215146,
+      "num": 215146,
+      "word": "南京台风",
+      "onboard_time": 1726444878,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214909,
@@ -20995,6 +21051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207999,
+      "num": 207999,
+      "word": "野孩子 第十七条",
+      "onboard_time": 1726499661,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 207880,
       "num": 207880,
       "word": "巩俐郑钦文 永不妥协的嘴角",
@@ -21145,6 +21209,14 @@
       "onboard_time": 1725630803,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206832,
+      "num": 206832,
+      "word": "张泽禹 耳洞",
+      "onboard_time": 1726498522,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 206761,
@@ -24923,6 +24995,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 187179,
+      "num": 499594,
+      "word": "高压电线因台风坠落致两快递员被电",
+      "onboard_time": 1726495940,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187177,
       "num": 225570,
       "word": "刘雨昕阿信跳舞",
@@ -24945,6 +25025,14 @@
       "onboard_time": 1725854721,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 187057,
+      "num": 187057,
+      "word": "iPhone16系列首周末预购或达3700万台",
+      "onboard_time": 1726498942,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 187024,
@@ -29115,6 +29203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164812,
+      "num": 164812,
+      "word": "台风贝碧嘉即将抵达南京",
+      "onboard_time": 1726497559,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164609,
       "num": 164609,
       "word": "我就知道汉语言文学专业出路多",
@@ -29433,6 +29529,14 @@
       "onboard_time": 1725967760,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163018,
+      "num": 163018,
+      "word": "左奇函 分享之前约定的十五张照片",
+      "onboard_time": 1726498942,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 162994,
@@ -30529,6 +30633,14 @@
       "onboard_time": 1725716301,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157805,
+      "num": 157805,
+      "word": "青岛方特偶遇丁程鑫",
+      "onboard_time": 1726497802,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 157774,
@@ -31763,14 +31875,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 151815,
-      "num": 151815,
-      "word": "南京台风",
-      "onboard_time": 1726444878,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151806,
       "num": 151806,
       "word": "大帅张良节奏发动机",
@@ -32067,6 +32171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150409,
+      "num": 150409,
+      "word": "直击贝碧嘉过境江苏",
+      "onboard_time": 1726497802,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150337,
       "num": 150337,
       "word": "高伟光 豪门总裁",
@@ -32153,14 +32265,6 @@
       "onboard_time": 1726414159,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 149752,
-      "num": 149752,
-      "word": "台风贝碧嘉即将抵达南京",
-      "onboard_time": 1726497559,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149713,
@@ -32576,6 +32680,14 @@
       "word": "张玉宁回应中日足球差距",
       "onboard_time": 1725543324,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 147859,
+      "num": 441632,
+      "word": "河南卫视奥运冠军梦幻联动",
+      "onboard_time": 1726498942,
+      "rank": 10,
       "category": "体育"
     },
     {
@@ -33779,6 +33891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141533,
+      "num": 141533,
+      "word": "中秋节文案",
+      "onboard_time": 1726499541,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141526,
       "num": 141526,
       "word": "石昊火灵儿首次正面对战",
@@ -34113,6 +34233,14 @@
       "onboard_time": 1725205400,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139477,
+      "num": 139477,
+      "word": "樊振东说还会做姆巴佩庆祝动作",
+      "onboard_time": 1726500199,
+      "rank": 48,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 139470,
@@ -38947,14 +39075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 105924,
-      "num": 499594,
-      "word": "高压电线因台风坠落致两快递员被电",
-      "onboard_time": 1726495940,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 105916,
       "num": 105916,
       "word": "AG连续四次晋级决赛",
@@ -42507,6 +42627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58287,
+      "num": 443285,
+      "word": "学校回应学生没填信息表被宿管驱赶",
+      "onboard_time": 1726498581,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58075,
       "num": 67070,
       "word": "龙傲天你真是出息了",
@@ -42952,6 +43080,14 @@
       "word": "文物里的国潮",
       "onboard_time": 1725175639,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54200,
+      "num": 435986,
+      "word": "预计贝碧嘉17日将移入安徽河南境内",
+      "onboard_time": 1726499122,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -43944,6 +44080,14 @@
       "word": "上海地铁多条线路16日全线停运",
       "onboard_time": 1726410441,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45948,
+      "num": 428517,
+      "word": "大闸蟹养殖户谈台风直穿阳澄湖",
+      "onboard_time": 1726499840,
+      "rank": 19,
       "category": "社会新闻"
     },
     {

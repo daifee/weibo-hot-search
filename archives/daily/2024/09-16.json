@@ -1,6 +1,6 @@
 {
   "startTime": 1726417574980,
-  "endTime": 1726497597581,
+  "endTime": 1726500270365,
   "band_list": [
     {
       "raw_hot": 3008475,
@@ -17,6 +17,14 @@
       "onboard_time": 1726452017,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2750722,
+      "num": 667515,
+      "word": "罗志祥在哪做的医美",
+      "onboard_time": 1726497202,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2268859,
@@ -179,6 +187,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 1212338,
+      "num": 1212338,
+      "word": "吴谨言官宣后首发博",
+      "onboard_time": 1726497802,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1177383,
       "num": 1177383,
       "word": "苏州的结界",
@@ -265,14 +281,6 @@
       "onboard_time": 1726402521,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 975088,
-      "num": 667515,
-      "word": "罗志祥在哪做的医美",
-      "onboard_time": 1726497202,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 974764,
@@ -715,6 +723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 455625,
+      "num": 455625,
+      "word": "上海官方辟谣台风相关谣言",
+      "onboard_time": 1726496180,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 435566,
       "num": 435566,
       "word": "孙颖莎一句yeah震惊许昕",
@@ -753,6 +769,14 @@
       "onboard_time": 1726480638,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 428214,
+      "num": 428214,
+      "word": "月经变少是卵巢早衰吗",
+      "onboard_time": 1726497740,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 426830,
@@ -800,6 +824,14 @@
       "word": "女子轻断食一天吃11个玉米",
       "onboard_time": 1726411581,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401344,
+      "num": 401344,
+      "word": "台风普拉桑",
+      "onboard_time": 1726498101,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -939,20 +971,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 310637,
-      "num": 310637,
-      "word": "上海官方辟谣台风相关谣言",
-      "onboard_time": 1726496180,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 310164,
       "num": 310164,
       "word": "害怕打针把自己埋进医生怀里的小金毛",
       "onboard_time": 1726446500,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 310080,
+      "num": 310080,
+      "word": "赵露思的最新自拍",
+      "onboard_time": 1726499720,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 299331,
@@ -1081,6 +1113,14 @@
       "onboard_time": 1726470079,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 264176,
+      "num": 264176,
+      "word": "翁青雅彭高约会",
+      "onboard_time": 1726499480,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 262921,
@@ -1307,6 +1347,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216607,
+      "num": 216607,
+      "word": "徐卓一110米栏夺冠",
+      "onboard_time": 1726498581,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 215146,
+      "num": 215146,
+      "word": "南京台风",
+      "onboard_time": 1726444878,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214212,
       "num": 214212,
       "word": "孙颖莎林诗栋 圆脸姐弟",
@@ -1363,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207999,
+      "num": 207999,
+      "word": "野孩子 第十七条",
+      "onboard_time": 1726499661,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 207486,
       "num": 207486,
       "word": "孙乐言奥斯卡约会",
@@ -1377,6 +1441,14 @@
       "onboard_time": 1726467019,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206832,
+      "num": 206832,
+      "word": "张泽禹 耳洞",
+      "onboard_time": 1726498522,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 205129,
@@ -1561,6 +1633,22 @@
       "onboard_time": 1726471459,
       "rank": 34,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 187179,
+      "num": 499594,
+      "word": "高压电线因台风坠落致两快递员被电",
+      "onboard_time": 1726495940,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187057,
+      "num": 187057,
+      "word": "iPhone16系列首周末预购或达3700万台",
+      "onboard_time": 1726498942,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 186477,
@@ -1851,6 +1939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 164812,
+      "num": 164812,
+      "word": "台风贝碧嘉即将抵达南京",
+      "onboard_time": 1726497559,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164768,
       "num": 164768,
       "word": "张雨绮脱口秀",
@@ -1881,6 +1977,14 @@
       "onboard_time": 1726488499,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163018,
+      "num": 163018,
+      "word": "左奇函 分享之前约定的十五张照片",
+      "onboard_time": 1726498942,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 162976,
@@ -1963,6 +2067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157805,
+      "num": 157805,
+      "word": "青岛方特偶遇丁程鑫",
+      "onboard_time": 1726497802,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156736,
       "num": 156736,
       "word": "别把孩子纯洁的友情当早恋",
@@ -2019,20 +2131,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151815,
-      "num": 151815,
-      "word": "南京台风",
-      "onboard_time": 1726444878,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150890,
       "num": 150890,
       "word": "徐少强去世",
       "onboard_time": 1726390638,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150409,
+      "num": 150409,
+      "word": "直击贝碧嘉过境江苏",
+      "onboard_time": 1726497802,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150359,
@@ -2049,14 +2161,6 @@
       "onboard_time": 1726466960,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 149752,
-      "num": 149752,
-      "word": "台风贝碧嘉即将抵达南京",
-      "onboard_time": 1726497559,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149604,
@@ -2081,6 +2185,14 @@
       "onboard_time": 1726477818,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147859,
+      "num": 441632,
+      "word": "河南卫视奥运冠军梦幻联动",
+      "onboard_time": 1726498942,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 145025,
@@ -2171,6 +2283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 141533,
+      "num": 141533,
+      "word": "中秋节文案",
+      "onboard_time": 1726499541,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140338,
       "num": 140338,
       "word": "诗情画奕",
@@ -2201,6 +2321,14 @@
       "onboard_time": 1726473560,
       "rank": 40,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 139477,
+      "num": 139477,
+      "word": "樊振东说还会做姆巴佩庆祝动作",
+      "onboard_time": 1726500199,
+      "rank": 48,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 139192,
@@ -2643,14 +2771,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 105924,
-      "num": 499594,
-      "word": "高压电线因台风坠落致两快递员被电",
-      "onboard_time": 1726495940,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 105477,
       "num": 105477,
       "word": "小鬼说碎了我就给你拼起来",
@@ -2883,6 +3003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58287,
+      "num": 443285,
+      "word": "学校回应学生没填信息表被宿管驱赶",
+      "onboard_time": 1726498581,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55835,
       "num": 128365,
       "word": "音乐生军训领唱教官汗流浃背了",
@@ -2897,6 +3025,14 @@
       "onboard_time": 1726403841,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 54200,
+      "num": 435986,
+      "word": "预计贝碧嘉17日将移入安徽河南境内",
+      "onboard_time": 1726499122,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53178,
@@ -2953,6 +3089,14 @@
       "onboard_time": 1726422253,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 45948,
+      "num": 428517,
+      "word": "大闸蟹养殖户谈台风直穿阳澄湖",
+      "onboard_time": 1726499840,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41736,
