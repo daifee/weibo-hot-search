@@ -1,6 +1,6 @@
 {
   "startTime": 1726504063678,
-  "endTime": 1726511381423,
+  "endTime": 1726512189167,
   "band_list": [
     {
       "raw_hot": 1392288,
@@ -451,7 +451,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 39540,
+      "raw_hot": 43660,
       "num": 53276,
       "word": "浙江高温将反扑局部38度以上",
       "onboard_time": 1726507934,
@@ -467,7 +467,15 @@
       "category": "演出"
     },
     {
-      "raw_hot": 15869,
+      "raw_hot": 24898,
+      "num": 30937,
+      "word": "敖瑞鹏张予曦妈生漫改脸",
+      "onboard_time": 1726490241,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 16544,
       "num": 48816,
       "word": "航拍月亮伴云海氛围感拉满",
       "onboard_time": 1726498040,
@@ -483,19 +491,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12222,
-      "num": 53609,
-      "word": "古人的中秋打卡照氛围感满满",
-      "onboard_time": 1726511293,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11196,
+      "raw_hot": 13379,
       "num": 156126,
       "word": "这就是黄河",
       "onboard_time": 1726495279,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13223,
+      "num": 53609,
+      "word": "古人的中秋打卡照氛围感满满",
+      "onboard_time": 1726511293,
+      "rank": 25,
       "category": "社会新闻"
     }
   ],
