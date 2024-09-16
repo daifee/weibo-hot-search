@@ -1,0 +1,410 @@
+{
+  "runTime": 1726457366316,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2865775,
+        "num": 2865775,
+        "word": "直击14级台风贝碧嘉破坏力",
+        "onboard_time": 1726452017,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1960290,
+        "num": 1960290,
+        "word": "上海中心千吨阻尼器摆幅肉眼可见",
+        "onboard_time": 1726452379,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7826,
+        "num": 1166297,
+        "word": "中国铁路营业里程超16万公里",
+        "onboard_time": 1726405523,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 994288,
+        "num": 994288,
+        "word": "枪手距特朗普不到457米",
+        "onboard_time": 1726449559,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 876477,
+        "num": 876477,
+        "word": "贝碧嘉登陆",
+        "onboard_time": 1726444158,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773791,
+        "num": 773791,
+        "word": "贝碧嘉正横穿上海",
+        "onboard_time": 1726455740,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 751519,
+        "num": 751519,
+        "word": "上海浦东滴水湖12级以上强风",
+        "onboard_time": 1726453519,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584997,
+        "num": 737359,
+        "word": "周也 侃爷演唱会",
+        "onboard_time": 1726442897,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 470952,
+        "num": 736329,
+        "word": "王源慌了",
+        "onboard_time": 1726450098,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 735813,
+        "num": 735813,
+        "word": "男子被砍后反杀凶手一审被判10年",
+        "onboard_time": 1726444158,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44868,
+        "num": 569642,
+        "word": "是时候抄底了",
+        "onboard_time": 1726454000,
+        "rank": 10,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 569624,
+        "num": 569624,
+        "word": "孙颖莎林诗栋拍冠军城市宣传照",
+        "onboard_time": 1726453759,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 564445,
+        "num": 564445,
+        "word": "香港美诚月饼生产商回应",
+        "onboard_time": 1726446259,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517483,
+        "num": 517483,
+        "word": "台风贝碧嘉",
+        "onboard_time": 1726320202,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149923,
+        "num": 515718,
+        "word": "金价猛涨有金店却扛不住了",
+        "onboard_time": 1726455800,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394781,
+        "num": 495433,
+        "word": "凡人歌 大结局",
+        "onboard_time": 1726446438,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371948,
+        "num": 477278,
+        "word": "侃爷试听会偶遇严浩翔",
+        "onboard_time": 1726444158,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 298672,
+        "num": 465388,
+        "word": "侃爷演唱会",
+        "onboard_time": 1726446858,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 454728,
+        "num": 454728,
+        "word": "特朗普打高尔夫一枪手藏在灌木丛",
+        "onboard_time": 1726449259,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 44427,
+        "num": 417500,
+        "word": "靳东在中戏读博",
+        "onboard_time": 1726456279,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460085,
+        "num": 407891,
+        "word": "内地女网红在香港骑行遇车祸身亡",
+        "onboard_time": 1726454359,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396255,
+        "num": 396255,
+        "word": "苏州台风",
+        "onboard_time": 1726456458,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395132,
+        "num": 395132,
+        "word": "于适 张雨绮",
+        "onboard_time": 1726402521,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 384611,
+        "num": 384611,
+        "word": "城管与大学生店员冲突被停职",
+        "onboard_time": 1726452319,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379916,
+        "num": 379916,
+        "word": "台风",
+        "onboard_time": 1726302200,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339275,
+        "num": 339275,
+        "word": "台风贝碧嘉还没走普拉桑又来了",
+        "onboard_time": 1726413321,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288429,
+        "num": 288429,
+        "word": "田曦薇没钱愣要",
+        "onboard_time": 1726453339,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283634,
+        "num": 283634,
+        "word": "大耀斑爆发",
+        "onboard_time": 1726454478,
+        "rank": 27,
+        "category": "科学科普,自然"
+      },
+      {
+        "raw_hot": 254828,
+        "num": 283294,
+        "word": "别让妈妈知道因为她会心疼",
+        "onboard_time": 1726455980,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249082,
+        "num": 283120,
+        "word": "慕胥辞",
+        "onboard_time": 1726447279,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353248,
+        "num": 283061,
+        "word": "我愿意为了这样的房子爬七楼",
+        "onboard_time": 1726455679,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 283002,
+        "num": 283002,
+        "word": "台风现场白茫茫一片记者睁不开眼",
+        "onboard_time": 1726454840,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262182,
+        "num": 262182,
+        "word": "台风普拉桑生成",
+        "onboard_time": 1726411400,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214845,
+        "num": 214845,
+        "word": "EDG拒绝和解",
+        "onboard_time": 1726441695,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198068,
+        "num": 198068,
+        "word": "1400年前的月饼还能看到花纹",
+        "onboard_time": 1726444938,
+        "rank": 34,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 196161,
+        "num": 196161,
+        "word": "章若楠雨霖铃出妆",
+        "onboard_time": 1726456759,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192085,
+        "num": 192085,
+        "word": "大一女生竞选班长秀出保安证",
+        "onboard_time": 1726447638,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190805,
+        "num": 190805,
+        "word": "记者直击上海浦东临港新城",
+        "onboard_time": 1726456640,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186930,
+        "num": 186930,
+        "word": "女子轻断食一天吃11个玉米",
+        "onboard_time": 1726411581,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41363,
+        "num": 185620,
+        "word": "上海台风",
+        "onboard_time": 1726285940,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185121,
+        "num": 185121,
+        "word": "成毅代言亨氏",
+        "onboard_time": 1726453037,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185010,
+        "num": 185010,
+        "word": "孙颖莎奥运后没有特别系统地训练",
+        "onboard_time": 1726455740,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176579,
+        "num": 176579,
+        "word": "孙颖莎夺冠后找奖杯",
+        "onboard_time": 1726455141,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170790,
+        "num": 170790,
+        "word": "陈好手机是全是宋茜丑照",
+        "onboard_time": 1726441634,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144721,
+        "num": 144721,
+        "word": "心理学看多了根本吵不起来架",
+        "onboard_time": 1726444457,
+        "rank": 44,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 139555,
+        "num": 139555,
+        "word": "上海临港进入台风贝碧嘉十级风圈",
+        "onboard_time": 1726443616,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132404,
+        "num": 132404,
+        "word": "为什么鸭子不惧怕台风",
+        "onboard_time": 1726408042,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 129971,
+        "num": 129971,
+        "word": "使用筋膜枪避开4个部位",
+        "onboard_time": 1726456340,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 127444,
+        "num": 127444,
+        "word": "张碧晨 演唱会届的阿拉丁神灯",
+        "onboard_time": 1726456939,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125479,
+        "num": 125479,
+        "word": "87元一晚酒店台风期间涨至600元",
+        "onboard_time": 1726441574,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#三次座谈会总书记情系母亲河#"
+    }
+  }
+}
