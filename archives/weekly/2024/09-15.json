@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726525164949,
+  "endTime": 1726526068510,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -5547,6 +5547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88175,
+      "num": 88175,
+      "word": "邓超 录综艺是为了给别人带来快乐",
+      "onboard_time": 1726519452,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87708,
       "num": 436594,
       "word": "中秋奇妙游",
@@ -5601,14 +5609,6 @@
       "onboard_time": 1726495220,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80165,
-      "num": 80165,
-      "word": "邓超 录综艺是为了给别人带来快乐",
-      "onboard_time": 1726519452,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 78466,
@@ -5899,6 +5899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48017,
+      "num": 48017,
+      "word": "研究表明爷爷锻炼可增强孙子智力",
+      "onboard_time": 1726522872,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 46983,
       "num": 45847,
       "word": "那隽 吾辈楷模",
@@ -6019,6 +6027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37659,
+      "num": 37659,
+      "word": "生日收到大鹅花束是什么感觉",
+      "onboard_time": 1726510933,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 36630,
       "num": 961050,
       "word": "高质量发展看广西",
@@ -6033,14 +6049,6 @@
       "onboard_time": 1726430531,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35214,
-      "num": 35214,
-      "word": "研究表明爷爷锻炼可增强孙子智力",
-      "onboard_time": 1726522872,
-      "rank": 43,
-      "category": "科学科普"
     },
     {
       "raw_hot": 34674,
@@ -6097,6 +6105,14 @@
       "onboard_time": 1726338193,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 33165,
+      "num": 33165,
+      "word": "旅客携带96只白蚁蚁后入境被查",
+      "onboard_time": 1726516391,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32671,
@@ -6195,14 +6211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29445,
-      "num": 29445,
-      "word": "生日收到大鹅花束是什么感觉",
-      "onboard_time": 1726510933,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 29444,
       "num": 224238,
       "word": "四川乐山一车辆撞向沿街商铺",
@@ -6251,12 +6259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27517,
-      "num": 27517,
-      "word": "旅客携带96只白蚁蚁后入境被查",
-      "onboard_time": 1726516391,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 27107,
+      "num": 27107,
+      "word": "巴音布鲁克草原再现云海奇观",
+      "onboard_time": 1726512672,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 27058,
@@ -6281,14 +6289,6 @@
       "onboard_time": 1726448418,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25059,
-      "num": 25059,
-      "word": "巴音布鲁克草原再现云海奇观",
-      "onboard_time": 1726512672,
-      "rank": 45,
-      "category": "旅游"
     },
     {
       "raw_hot": 25021,
@@ -6316,7 +6316,7 @@
     },
     {
       "raw_hot": 23902,
-      "num": 24024,
+      "num": 26347,
       "word": "侃爷 告诉过你",
       "onboard_time": 1726515251,
       "rank": 49,
@@ -6355,19 +6355,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21783,
+      "num": 26336,
+      "word": "路上的普拉桑将对浙江造成持续影响",
+      "onboard_time": 1726522993,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20942,
+      "num": 26324,
+      "word": "浙江结束防台风应急响应",
+      "onboard_time": 1726521371,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20925,
       "num": 1095326,
       "word": "服贸会探馆直播",
       "onboard_time": 1726471878,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20262,
-      "num": 24019,
-      "word": "路上的普拉桑将对浙江造成持续影响",
-      "onboard_time": 1726522993,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -6387,20 +6395,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18948,
-      "num": 24011,
-      "word": "浙江结束防台风应急响应",
-      "onboard_time": 1726521371,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 18530,
       "num": 45398,
       "word": "中秋彩灯还是太全面了",
       "onboard_time": 1726514532,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18339,
+      "num": 26305,
+      "word": "西藏的这处人间盛景终于被发现了",
+      "onboard_time": 1726525693,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 17354,
