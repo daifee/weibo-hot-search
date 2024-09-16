@@ -1,0 +1,410 @@
+{
+  "runTime": 1726476136141,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1724646,
+        "num": 1724646,
+        "word": "贝碧嘉几乎是以巅峰强度登陆",
+        "onboard_time": 1726468698,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1119737,
+        "num": 1119737,
+        "word": "苏州的结界",
+        "onboard_time": 1726470018,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20925,
+        "num": 951834,
+        "word": "服贸会探馆直播",
+        "onboard_time": 1726471878,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 899571,
+        "num": 899571,
+        "word": "贝碧嘉移入江苏",
+        "onboard_time": 1726463058,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617851,
+        "num": 617851,
+        "word": "曾黎47岁最后一次爬山",
+        "onboard_time": 1726468279,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467525,
+        "num": 467525,
+        "word": "金店店员3年用铅块偷换45.8kg黄金",
+        "onboard_time": 1726459639,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452320,
+        "num": 452320,
+        "word": "李荣浩杨丞琳挽手逛家具店",
+        "onboard_time": 1726470320,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329782,
+        "num": 329782,
+        "word": "半熟男女是装腔启示录姊妹篇",
+        "onboard_time": 1726472657,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299331,
+        "num": 299331,
+        "word": "程芽芽 暗爽哥",
+        "onboard_time": 1726473319,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194677,
+        "num": 194677,
+        "word": "非洲小哥搬出铁扇公主卖扇子",
+        "onboard_time": 1726474998,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1238071,
+        "num": 194355,
+        "word": "邱贻可晒与孙颖莎合影",
+        "onboard_time": 1726476078,
+        "rank": 10,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 1029356,
+        "num": 192712,
+        "word": "甜馨11岁近照",
+        "onboard_time": 1726468878,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 694870,
+        "num": 189985,
+        "word": "台风中心已移入无锡",
+        "onboard_time": 1726471219,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556903,
+        "num": 189138,
+        "word": "特朗普公然宣称憎恨霉霉",
+        "onboard_time": 1726471579,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 6199,
+        "num": 186939,
+        "word": "花十多万投资的大明瓷器产于现代",
+        "onboard_time": 1726476019,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149165,
+        "num": 186390,
+        "word": "明天可买10月1日火车票",
+        "onboard_time": 1726472420,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92667,
+        "num": 183314,
+        "word": "交个朋友回应美诚月饼赔付问题",
+        "onboard_time": 1726474880,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 476063,
+        "num": 182649,
+        "word": "金价猛涨有金店却扛不住了",
+        "onboard_time": 1726455800,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290605,
+        "num": 180703,
+        "word": "谁教黄景瑜这么关车门的",
+        "onboard_time": 1726461980,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232446,
+        "num": 179964,
+        "word": "张杰谢娜游艇约会",
+        "onboard_time": 1726469300,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414312,
+        "num": 177591,
+        "word": "苏州台风",
+        "onboard_time": 1726456458,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374399,
+        "num": 175942,
+        "word": "台风贝碧嘉",
+        "onboard_time": 1726320202,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325892,
+        "num": 173597,
+        "word": "贝碧嘉登陆",
+        "onboard_time": 1726444158,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245469,
+        "num": 172175,
+        "word": "无糖月饼千万不要多吃",
+        "onboard_time": 1726472960,
+        "rank": 23,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 234123,
+        "num": 171382,
+        "word": "台风",
+        "onboard_time": 1726302200,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227182,
+        "num": 169133,
+        "word": "上海外卖",
+        "onboard_time": 1726465519,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195197,
+        "num": 167570,
+        "word": "伯远 你直接报王耀庆身份证号得了",
+        "onboard_time": 1726475060,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166903,
+        "num": 166903,
+        "word": "付航是不是被中间商赚差价了",
+        "onboard_time": 1726475480,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161286,
+        "num": 161286,
+        "word": "凡希亚也去了侃爷海口演唱会",
+        "onboard_time": 1726474640,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 75240,
+        "num": 159067,
+        "word": "民乐版水调歌头太上头了",
+        "onboard_time": 1726473680,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203040,
+        "num": 159039,
+        "word": "在图书馆被塞小纸条了",
+        "onboard_time": 1726470079,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206281,
+        "num": 158983,
+        "word": "国庆前或将一周一个台风",
+        "onboard_time": 1726461320,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158891,
+        "num": 158891,
+        "word": "中国人用针在纸上绣画",
+        "onboard_time": 1726470079,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158354,
+        "num": 158354,
+        "word": "上海中心千吨阻尼器摆幅肉眼可见",
+        "onboard_time": 1726452379,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145465,
+        "num": 145465,
+        "word": "林诗栋19岁也不年轻了逗笑全场",
+        "onboard_time": 1726470380,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144840,
+        "num": 144840,
+        "word": "许凯 老头衫和老公衫还是分的清的",
+        "onboard_time": 1726462099,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144042,
+        "num": 144042,
+        "word": "多名摄像头买家在网店分享偷拍画面",
+        "onboard_time": 1726472657,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139757,
+        "num": 139757,
+        "word": "2024香港小姐三强出炉",
+        "onboard_time": 1726473560,
+        "rank": 37,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 133742,
+        "num": 133742,
+        "word": "当兵就要练练练",
+        "onboard_time": 1726475719,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 131214,
+        "num": 131214,
+        "word": "台风普拉桑或再奔江浙沪",
+        "onboard_time": 1726473439,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127011,
+        "num": 127011,
+        "word": "长期睡眠不足影响脑健康",
+        "onboard_time": 1726469119,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125042,
+        "num": 125042,
+        "word": "要爱到像这样才能结婚",
+        "onboard_time": 1726475060,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120058,
+        "num": 120058,
+        "word": "无畏无障碍沟通",
+        "onboard_time": 1726473199,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117707,
+        "num": 117707,
+        "word": "田曦薇王安宇一大早就拌嘴",
+        "onboard_time": 1726475958,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117469,
+        "num": 117469,
+        "word": "蓝盈莹看到陶昕然的脐环大改观",
+        "onboard_time": 1726460659,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117416,
+        "num": 117416,
+        "word": "袁娅维认证张杰内娱演唱会劳模",
+        "onboard_time": 1726476078,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116653,
+        "num": 116653,
+        "word": "赵继伟硬核绝活大赏",
+        "onboard_time": 1726476078,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115533,
+        "num": 115533,
+        "word": "南派三叔 吴邪寿命梗",
+        "onboard_time": 1726476019,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112527,
+        "num": 112527,
+        "word": "这是教官最想回部队的一次",
+        "onboard_time": 1726470859,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113390,
+        "num": 112171,
+        "word": "天赋高到这种程度真的要抓起来了吧",
+        "onboard_time": 1726473018,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中秋佳节习近平总书记这样寄语#"
+    }
+  }
+}

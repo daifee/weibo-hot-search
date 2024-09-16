@@ -1,6 +1,6 @@
 {
   "startTime": 1726417574980,
-  "endTime": 1726475321751,
+  "endTime": 1726476136141,
   "band_list": [
     {
       "raw_hot": 3008475,
@@ -105,6 +105,14 @@
       "onboard_time": 1726457899,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1238071,
+      "num": 194355,
+      "word": "邱贻可晒与孙颖莎合影",
+      "onboard_time": 1726476078,
+      "rank": 10,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 1177383,
@@ -259,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 694870,
+      "num": 485082,
+      "word": "台风中心已移入无锡",
+      "onboard_time": 1726471219,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 692340,
       "num": 692340,
       "word": "孙颖莎林诗栋拍冠军城市宣传照",
@@ -289,14 +305,6 @@
       "onboard_time": 1726442897,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 634679,
-      "num": 485082,
-      "word": "台风中心已移入无锡",
-      "onboard_time": 1726471219,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 618721,
@@ -361,6 +369,14 @@
       "onboard_time": 1726443616,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 556903,
+      "num": 386039,
+      "word": "特朗普公然宣称憎恨霉霉",
+      "onboard_time": 1726471579,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 548758,
@@ -539,14 +555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 386039,
-      "num": 386039,
-      "word": "特朗普公然宣称憎恨霉霉",
-      "onboard_time": 1726471579,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 379916,
       "num": 379916,
       "word": "台风",
@@ -611,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329782,
+      "num": 329782,
+      "word": "半熟男女是装腔启示录姊妹篇",
+      "onboard_time": 1726472657,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 316878,
       "num": 316878,
       "word": "大耀斑爆发",
@@ -643,11 +659,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 303239,
-      "num": 303239,
-      "word": "半熟男女是装腔启示录姊妹篇",
-      "onboard_time": 1726472657,
-      "rank": 17,
+      "raw_hot": 299331,
+      "num": 299331,
+      "word": "程芽芽 暗爽哥",
+      "onboard_time": 1726473319,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -747,14 +763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 255499,
-      "num": 265429,
-      "word": "程芽芽 暗爽哥",
-      "onboard_time": 1726473319,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 251345,
       "num": 228348,
       "word": "为什么鸭子不惧怕台风",
@@ -777,6 +785,14 @@
       "onboard_time": 1726408341,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245469,
+      "num": 224816,
+      "word": "无糖月饼千万不要多吃",
+      "onboard_time": 1726472960,
+      "rank": 23,
+      "category": "美食,健康医疗"
     },
     {
       "raw_hot": 244839,
@@ -825,14 +841,6 @@
       "onboard_time": 1726465938,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 224816,
-      "num": 224816,
-      "word": "无糖月饼千万不要多吃",
-      "onboard_time": 1726472960,
-      "rank": 23,
-      "category": "美食,健康医疗"
     },
     {
       "raw_hot": 220461,
@@ -960,6 +968,22 @@
       "word": "印度公务员考试丧生12人",
       "onboard_time": 1726441935,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195197,
+      "num": 167570,
+      "word": "伯远 你直接报王耀庆身份证号得了",
+      "onboard_time": 1726475060,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 194677,
+      "num": 194677,
+      "word": "非洲小哥搬出铁扇公主卖扇子",
+      "onboard_time": 1726474998,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1123,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166903,
+      "num": 166903,
+      "word": "付航是不是被中间商赚差价了",
+      "onboard_time": 1726475480,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166834,
       "num": 166834,
       "word": "资历越高薪资待遇反不如前",
@@ -1211,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161286,
+      "num": 161286,
+      "word": "凡希亚也去了侃爷海口演唱会",
+      "onboard_time": 1726474640,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 160291,
       "num": 160291,
       "word": "贝碧嘉路径",
@@ -1232,14 +1272,6 @@
       "word": "街道办回应女孩掉井父亲先拍照",
       "onboard_time": 1726415959,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156907,
-      "num": 156907,
-      "word": "非洲小哥搬出铁扇公主卖扇子",
-      "onboard_time": 1726474998,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1291,14 +1323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147441,
-      "num": 147441,
-      "word": "凡希亚也去了侃爷海口演唱会",
-      "onboard_time": 1726474640,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 144817,
       "num": 144817,
       "word": "高达",
@@ -1311,6 +1335,14 @@
       "num": 144367,
       "word": "贝碧嘉对上海影响有多大",
       "onboard_time": 1726465159,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144042,
+      "num": 144042,
+      "word": "多名摄像头买家在网店分享偷拍画面",
+      "onboard_time": 1726472657,
       "rank": 48,
       "category": "社会新闻"
     },
@@ -1377,6 +1409,14 @@
       "onboard_time": 1726464680,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139757,
+      "num": 139757,
+      "word": "2024香港小姐三强出炉",
+      "onboard_time": 1726473560,
+      "rank": 40,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 139085,
@@ -1451,6 +1491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133742,
+      "num": 133742,
+      "word": "当兵就要练练练",
+      "onboard_time": 1726475719,
+      "rank": 38,
+      "category": "军事"
+    },
+    {
       "raw_hot": 132660,
       "num": 186038,
       "word": "金晨央视中秋晚会唱跳都有了",
@@ -1475,28 +1523,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 128671,
-      "num": 128671,
-      "word": "伯远 你直接报王耀庆身份证号得了",
-      "onboard_time": 1726475060,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 128099,
-      "num": 128099,
-      "word": "2024香港小姐三强出炉",
-      "onboard_time": 1726473560,
-      "rank": 40,
-      "category": "作品衍生,艺人"
-    },
-    {
       "raw_hot": 125996,
       "num": 231763,
       "word": "上海台风",
       "onboard_time": 1726285940,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125042,
+      "num": 125042,
+      "word": "要爱到像这样才能结婚",
+      "onboard_time": 1726475060,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 124723,
@@ -1555,12 +1595,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120058,
+      "num": 120058,
+      "word": "无畏无障碍沟通",
+      "onboard_time": 1726473199,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 119413,
       "num": 119413,
       "word": "打火机也nextlevel了",
       "onboard_time": 1726473259,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117707,
+      "num": 117707,
+      "word": "田曦薇王安宇一大早就拌嘴",
+      "onboard_time": 1726475958,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 117584,
@@ -1571,12 +1627,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 117253,
-      "num": 117253,
-      "word": "要爱到像这样才能结婚",
-      "onboard_time": 1726475060,
+      "raw_hot": 117416,
+      "num": 117416,
+      "word": "袁娅维认证张杰内娱演唱会劳模",
+      "onboard_time": 1726476078,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 116653,
+      "num": 116653,
+      "word": "赵继伟硬核绝活大赏",
+      "onboard_time": 1726476078,
       "rank": 46,
-      "category": "情感"
+      "category": "体育"
     },
     {
       "raw_hot": 116527,
@@ -1585,6 +1649,14 @@
       "onboard_time": 1726417278,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115533,
+      "num": 115533,
+      "word": "南派三叔 吴邪寿命梗",
+      "onboard_time": 1726476019,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 115459,
@@ -1625,14 +1697,6 @@
       "onboard_time": 1726451299,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110391,
-      "num": 110391,
-      "word": "多名摄像头买家在网店分享偷拍画面",
-      "onboard_time": 1726472657,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108604,
@@ -1699,6 +1763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92667,
+      "num": 489000,
+      "word": "交个朋友回应美诚月饼赔付问题",
+      "onboard_time": 1726474880,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 92281,
       "num": 92281,
       "word": "以色列中部遭来自也门的导弹袭击",
@@ -1755,20 +1827,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75240,
+      "num": 159067,
+      "word": "民乐版水调歌头太上头了",
+      "onboard_time": 1726473680,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74674,
       "num": 74674,
       "word": "韩安冉回应和吴谨言同在一个关系图",
       "onboard_time": 1726387399,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 68855,
-      "num": 489000,
-      "word": "交个朋友回应美诚月饼赔付问题",
-      "onboard_time": 1726474880,
-      "rank": 9,
-      "category": "互联网"
     },
     {
       "raw_hot": 68779,
@@ -1995,7 +2067,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 19183,
+      "raw_hot": 20925,
       "num": 1095326,
       "word": "服贸会探馆直播",
       "onboard_time": 1726471878,
@@ -2024,6 +2096,14 @@
       "word": "大熊猫崽崽演假期第一天的我",
       "onboard_time": 1726436351,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6199,
+      "num": 186939,
+      "word": "花十多万投资的大明瓷器产于现代",
+      "onboard_time": 1726476019,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

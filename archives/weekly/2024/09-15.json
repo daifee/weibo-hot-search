@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726475321751,
+  "endTime": 1726476136141,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -313,6 +313,14 @@
       "onboard_time": 1726457899,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1238071,
+      "num": 194355,
+      "word": "邱贻可晒与孙颖莎合影",
+      "onboard_time": 1726476078,
+      "rank": 10,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 1206455,
@@ -643,6 +651,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 694870,
+      "num": 485082,
+      "word": "台风中心已移入无锡",
+      "onboard_time": 1726471219,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 692340,
       "num": 692340,
       "word": "孙颖莎林诗栋拍冠军城市宣传照",
@@ -705,14 +721,6 @@
       "onboard_time": 1726314321,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 634679,
-      "num": 485082,
-      "word": "台风中心已移入无锡",
-      "onboard_time": 1726471219,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 633990,
@@ -841,6 +849,14 @@
       "onboard_time": 1726374019,
       "rank": 41,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 556903,
+      "num": 386039,
+      "word": "特朗普公然宣称憎恨霉霉",
+      "onboard_time": 1726471579,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 556253,
@@ -1275,14 +1291,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 386039,
-      "num": 386039,
-      "word": "特朗普公然宣称憎恨霉霉",
-      "onboard_time": 1726471579,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 382723,
       "num": 444668,
       "word": "上海浙江海域或有4米巨浪",
@@ -1531,6 +1539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 329782,
+      "num": 329782,
+      "word": "半熟男女是装腔启示录姊妹篇",
+      "onboard_time": 1726472657,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 323788,
       "num": 323788,
       "word": "凡人歌 破房文学",
@@ -1643,14 +1659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303239,
-      "num": 303239,
-      "word": "半熟男女是装腔启示录姊妹篇",
-      "onboard_time": 1726472657,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 301188,
       "num": 301188,
       "word": "WTT 福冈总决赛",
@@ -1665,6 +1673,14 @@
       "onboard_time": 1726369157,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299331,
+      "num": 299331,
+      "word": "程芽芽 暗爽哥",
+      "onboard_time": 1726473319,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 298672,
@@ -1923,14 +1939,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 255499,
-      "num": 265429,
-      "word": "程芽芽 暗爽哥",
-      "onboard_time": 1726473319,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 254187,
       "num": 208858,
       "word": "女子灭蟑螂不料中毒进ICU抢救",
@@ -2001,6 +2009,14 @@
       "onboard_time": 1726459340,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245469,
+      "num": 224816,
+      "word": "无糖月饼千万不要多吃",
+      "onboard_time": 1726472960,
+      "rank": 23,
+      "category": "美食,健康医疗"
     },
     {
       "raw_hot": 244839,
@@ -2145,14 +2161,6 @@
       "onboard_time": 1726465938,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 224816,
-      "num": 224816,
-      "word": "无糖月饼千万不要多吃",
-      "onboard_time": 1726472960,
-      "rank": 23,
-      "category": "美食,健康医疗"
     },
     {
       "raw_hot": 224095,
@@ -2529,6 +2537,22 @@
       "onboard_time": 1726384637,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195197,
+      "num": 167570,
+      "word": "伯远 你直接报王耀庆身份证号得了",
+      "onboard_time": 1726475060,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 194677,
+      "num": 194677,
+      "word": "非洲小哥搬出铁扇公主卖扇子",
+      "onboard_time": 1726474998,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194422,
@@ -2987,6 +3011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166903,
+      "num": 166903,
+      "word": "付航是不是被中间商赚差价了",
+      "onboard_time": 1726475480,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166834,
       "num": 166834,
       "word": "资历越高薪资待遇反不如前",
@@ -3115,6 +3147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161286,
+      "num": 161286,
+      "word": "凡希亚也去了侃爷海口演唱会",
+      "onboard_time": 1726474640,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 161212,
       "num": 65365,
       "word": "汪苏泷",
@@ -3233,14 +3273,6 @@
       "onboard_time": 1726332019,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156907,
-      "num": 156907,
-      "word": "非洲小哥搬出铁扇公主卖扇子",
-      "onboard_time": 1726474998,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156875,
@@ -3411,14 +3443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147441,
-      "num": 147441,
-      "word": "凡希亚也去了侃爷海口演唱会",
-      "onboard_time": 1726474640,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 146263,
       "num": 146263,
       "word": "我恨皮亚杰",
@@ -3463,6 +3487,14 @@
       "num": 144367,
       "word": "贝碧嘉对上海影响有多大",
       "onboard_time": 1726465159,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144042,
+      "num": 144042,
+      "word": "多名摄像头买家在网店分享偷拍画面",
+      "onboard_time": 1726472657,
       "rank": 48,
       "category": "社会新闻"
     },
@@ -3593,6 +3625,14 @@
       "onboard_time": 1726464680,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139757,
+      "num": 139757,
+      "word": "2024香港小姐三强出炉",
+      "onboard_time": 1726473560,
+      "rank": 40,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 139085,
@@ -3739,6 +3779,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 133742,
+      "num": 133742,
+      "word": "当兵就要练练练",
+      "onboard_time": 1726475719,
+      "rank": 38,
+      "category": "军事"
+    },
+    {
       "raw_hot": 132660,
       "num": 186038,
       "word": "金晨央视中秋晚会唱跳都有了",
@@ -3811,14 +3859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128671,
-      "num": 128671,
-      "word": "伯远 你直接报王耀庆身份证号得了",
-      "onboard_time": 1726475060,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128379,
       "num": 128379,
       "word": "黑瞎子 糖果总归是会蛀牙的",
@@ -3841,14 +3881,6 @@
       "onboard_time": 1726362378,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128099,
-      "num": 128099,
-      "word": "2024香港小姐三强出炉",
-      "onboard_time": 1726473560,
-      "rank": 40,
-      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 127972,
@@ -3881,6 +3913,14 @@
       "onboard_time": 1726386019,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 125042,
+      "num": 125042,
+      "word": "要爱到像这样才能结婚",
+      "onboard_time": 1726475060,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 124907,
@@ -3947,6 +3987,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 120058,
+      "num": 120058,
+      "word": "无畏无障碍沟通",
+      "onboard_time": 1726473199,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 119856,
       "num": 119856,
       "word": "韩剧妈妈朋友的儿子",
@@ -3971,12 +4019,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117707,
+      "num": 117707,
+      "word": "田曦薇王安宇一大早就拌嘴",
+      "onboard_time": 1726475958,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117584,
       "num": 117584,
       "word": "从女方视角看结婚",
       "onboard_time": 1726440553,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 117416,
+      "num": 117416,
+      "word": "袁娅维认证张杰内娱演唱会劳模",
+      "onboard_time": 1726476078,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 117393,
@@ -3987,12 +4051,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117253,
-      "num": 117253,
-      "word": "要爱到像这样才能结婚",
-      "onboard_time": 1726475060,
+      "raw_hot": 116653,
+      "num": 116653,
+      "word": "赵继伟硬核绝活大赏",
+      "onboard_time": 1726476078,
       "rank": 46,
-      "category": "情感"
+      "category": "体育"
     },
     {
       "raw_hot": 116527,
@@ -4009,6 +4073,14 @@
       "onboard_time": 1726391898,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115533,
+      "num": 115533,
+      "word": "南派三叔 吴邪寿命梗",
+      "onboard_time": 1726476019,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 115459,
@@ -4081,14 +4153,6 @@
       "onboard_time": 1726395680,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110391,
-      "num": 110391,
-      "word": "多名摄像头买家在网店分享偷拍画面",
-      "onboard_time": 1726472657,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110086,
@@ -4267,6 +4331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92667,
+      "num": 489000,
+      "word": "交个朋友回应美诚月饼赔付问题",
+      "onboard_time": 1726474880,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 92281,
       "num": 92281,
       "word": "以色列中部遭来自也门的导弹袭击",
@@ -4371,20 +4443,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75240,
+      "num": 159067,
+      "word": "民乐版水调歌头太上头了",
+      "onboard_time": 1726473680,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69159,
       "num": 151210,
       "word": "学生时代的友情能有多珍贵",
       "onboard_time": 1726376539,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 68855,
-      "num": 489000,
-      "word": "交个朋友回应美诚月饼赔付问题",
-      "onboard_time": 1726474880,
-      "rank": 9,
-      "category": "互联网"
     },
     {
       "raw_hot": 68779,
@@ -4939,6 +5011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 20925,
+      "num": 1095326,
+      "word": "服贸会探馆直播",
+      "onboard_time": 1726471878,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20198,
       "num": 263458,
       "word": "光大投行员工涉内幕交易亏损532万元",
@@ -4951,14 +5031,6 @@
       "num": 617497,
       "word": "文化中国行中秋赏灯会",
       "onboard_time": 1726322121,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19183,
-      "num": 1095326,
-      "word": "服贸会探馆直播",
-      "onboard_time": 1726471878,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -5024,6 +5096,14 @@
       "word": "人民军队淬火向前",
       "onboard_time": 1726081931,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6199,
+      "num": 186939,
+      "word": "花十多万投资的大明瓷器产于现代",
+      "onboard_time": 1726476019,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
