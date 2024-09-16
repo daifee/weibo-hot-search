@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726472118861,
+  "endTime": 1726475321751,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -912,6 +912,14 @@
       "word": "儿童骑行被碾压案司机亲属发声",
       "onboard_time": 1725361732,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1863948,
+      "num": 1863948,
+      "word": "贝碧嘉几乎是以巅峰强度登陆",
+      "onboard_time": 1726468698,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -2843,6 +2851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1177383,
+      "num": 1177383,
+      "word": "苏州的结界",
+      "onboard_time": 1726470018,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1173618,
       "num": 773552,
       "word": "徐正溪回归娱乐圈的原因",
@@ -3272,14 +3288,6 @@
       "word": "上海出现一只在逃吗喽",
       "onboard_time": 1726135519,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1082635,
-      "num": 1082635,
-      "word": "苏州的结界",
-      "onboard_time": 1726470018,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -4241,14 +4249,6 @@
       "onboard_time": 1726158556,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 920966,
-      "num": 920966,
-      "word": "贝碧嘉几乎是以巅峰强度登陆",
-      "onboard_time": 1726468698,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 918799,
@@ -7067,6 +7067,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 634679,
+      "num": 485082,
+      "word": "台风中心已移入无锡",
+      "onboard_time": 1726471219,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 634067,
       "num": 634067,
       "word": "张天爱拍短剧",
@@ -9435,6 +9443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 493042,
+      "num": 493042,
+      "word": "李荣浩杨丞琳挽手逛家具店",
+      "onboard_time": 1726470320,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 493017,
       "num": 493017,
       "word": "小伙拍照瞬间背包里红旗飘出",
@@ -11795,6 +11811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 386039,
+      "num": 386039,
+      "word": "特朗普公然宣称憎恨霉霉",
+      "onboard_time": 1726471579,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 386023,
       "num": 386023,
       "word": "经济法 现场立法",
@@ -12713,14 +12737,6 @@
       "onboard_time": 1726464080,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 348568,
-      "num": 356892,
-      "word": "李荣浩杨丞琳挽手逛家具店",
-      "onboard_time": 1726470320,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 348559,
@@ -14193,6 +14209,14 @@
       "onboard_time": 1726317141,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 303239,
+      "num": 303239,
+      "word": "半熟男女是装腔启示录姊妹篇",
+      "onboard_time": 1726472657,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 303207,
@@ -15947,6 +15971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265334,
+      "num": 265334,
+      "word": "在图书馆被塞小纸条了",
+      "onboard_time": 1726470079,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 265085,
       "num": 287424,
       "word": "胡兵说想和瞿颖每天都在一起工作",
@@ -16505,6 +16537,14 @@
       "onboard_time": 1725749174,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 255499,
+      "num": 265429,
+      "word": "程芽芽 暗爽哥",
+      "onboard_time": 1726473319,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 255474,
@@ -17073,14 +17113,6 @@
       "onboard_time": 1725189260,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 245908,
-      "num": 245908,
-      "word": "在图书馆被塞小纸条了",
-      "onboard_time": 1726470079,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 245879,
@@ -18779,6 +18811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224816,
+      "num": 224816,
+      "word": "无糖月饼千万不要多吃",
+      "onboard_time": 1726472960,
+      "rank": 23,
+      "category": "美食,健康医疗"
+    },
+    {
       "raw_hot": 224675,
       "num": 408475,
       "word": "女生吃小火锅瞥见货架摆一排増香汁",
@@ -20219,14 +20259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209724,
-      "num": 209724,
-      "word": "特朗普公然宣称憎恨霉霉",
-      "onboard_time": 1726471579,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 209656,
       "num": 209656,
       "word": "登陆少年高会涨价",
@@ -20289,6 +20321,14 @@
       "onboard_time": 1726024820,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209087,
+      "num": 209087,
+      "word": "胥慕辞官微掉粉",
+      "onboard_time": 1726475178,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 209048,
@@ -20873,14 +20913,6 @@
       "onboard_time": 1725194779,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 205566,
-      "num": 205566,
-      "word": "台风中心已移入无锡",
-      "onboard_time": 1726471219,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205559,
@@ -27467,6 +27499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169931,
+      "num": 169931,
+      "word": "糟糕跟程苗苗嗑到一块去了",
+      "onboard_time": 1726474219,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169886,
       "num": 169886,
       "word": "AG挽风四连枪王",
@@ -28257,6 +28297,14 @@
       "onboard_time": 1725243558,
       "rank": 34,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 165590,
+      "num": 490974,
+      "word": "明天可买10月1日火车票",
+      "onboard_time": 1726472420,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165583,
@@ -29905,6 +29953,14 @@
       "onboard_time": 1725524900,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156907,
+      "num": 156907,
+      "word": "非洲小哥搬出铁扇公主卖扇子",
+      "onboard_time": 1726474998,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156900,
@@ -31835,6 +31891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147441,
+      "num": 147441,
+      "word": "凡希亚也去了侃爷海口演唱会",
+      "onboard_time": 1726474640,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 147427,
       "num": 147427,
       "word": "许嵩上海演唱会嘉宾是薛之谦",
@@ -32601,6 +32665,14 @@
       "onboard_time": 1725681678,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143416,
+      "num": 143416,
+      "word": "马亮 我用什么把你留住",
+      "onboard_time": 1726474399,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 143391,
@@ -33891,6 +33963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135517,
+      "num": 135517,
+      "word": "台风普拉桑或再奔江浙沪",
+      "onboard_time": 1726473439,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135493,
       "num": 135493,
       "word": "iPhoneSE4或将配OLED屏幕",
@@ -35067,6 +35147,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 128671,
+      "num": 128671,
+      "word": "伯远 你直接报王耀庆身份证号得了",
+      "onboard_time": 1726475060,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128650,
       "num": 128650,
       "word": "袁娅维又cue宋亚轩了",
@@ -35209,6 +35297,14 @@
       "onboard_time": 1725245418,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128099,
+      "num": 128099,
+      "word": "2024香港小姐三强出炉",
+      "onboard_time": 1726473560,
+      "rank": 40,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 128092,
@@ -36227,6 +36323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120447,
+      "num": 120447,
+      "word": "天赋高到这种程度真的要抓起来了吧",
+      "onboard_time": 1726473018,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120384,
       "num": 120384,
       "word": "檀健次翻唱陶喆蝴蝶",
@@ -36369,6 +36473,14 @@
       "onboard_time": 1725575113,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119413,
+      "num": 119413,
+      "word": "打火机也nextlevel了",
+      "onboard_time": 1726473259,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 119283,
@@ -36577,6 +36689,14 @@
       "onboard_time": 1725871639,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117253,
+      "num": 117253,
+      "word": "要爱到像这样才能结婚",
+      "onboard_time": 1726475060,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 117090,
@@ -37417,6 +37537,14 @@
       "onboard_time": 1726291049,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110391,
+      "num": 110391,
+      "word": "多名摄像头买家在网店分享偷拍画面",
+      "onboard_time": 1726472657,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110372,
@@ -40489,6 +40617,14 @@
       "onboard_time": 1726322842,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68855,
+      "num": 489000,
+      "word": "交个朋友回应美诚月饼赔付问题",
+      "onboard_time": 1726474880,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 68779,
@@ -46835,6 +46971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19183,
+      "num": 1095326,
+      "word": "服贸会探馆直播",
+      "onboard_time": 1726471878,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19143,
       "num": 252653,
       "word": "精英阶层的自我复制",
@@ -47464,14 +47608,6 @@
       "word": "超强台风天的10个应急锦囊",
       "onboard_time": 1725648313,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11588,
-      "num": 1095326,
-      "word": "服贸会探馆直播",
-      "onboard_time": 1726471878,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

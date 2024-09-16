@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726472118861,
+  "endTime": 1726475321751,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -65,6 +65,14 @@
       "onboard_time": 1726319842,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1863948,
+      "num": 1863948,
+      "word": "贝碧嘉几乎是以巅峰强度登陆",
+      "onboard_time": 1726468698,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1845747,
@@ -315,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1177383,
+      "num": 1177383,
+      "word": "苏州的结界",
+      "onboard_time": 1726470018,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1155941,
       "num": 1155941,
       "word": "韩安冉回应和吴谨言同在一个关系图",
@@ -395,14 +411,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1082635,
-      "num": 1082635,
-      "word": "苏州的结界",
-      "onboard_time": 1726470018,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1075319,
       "num": 1075319,
       "word": "不敢相信这是陈卓璇",
@@ -465,14 +473,6 @@
       "onboard_time": 1726403361,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 920966,
-      "num": 920966,
-      "word": "贝碧嘉几乎是以巅峰强度登陆",
-      "onboard_time": 1726468698,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 918799,
@@ -705,6 +705,14 @@
       "onboard_time": 1726314321,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 634679,
+      "num": 485082,
+      "word": "台风中心已移入无锡",
+      "onboard_time": 1726471219,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 633990,
@@ -1003,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 493042,
+      "num": 493042,
+      "word": "李荣浩杨丞琳挽手逛家具店",
+      "onboard_time": 1726470320,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 493017,
       "num": 493017,
       "word": "小伙拍照瞬间背包里红旗飘出",
@@ -1259,6 +1275,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 386039,
+      "num": 386039,
+      "word": "特朗普公然宣称憎恨霉霉",
+      "onboard_time": 1726471579,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 382723,
       "num": 444668,
       "word": "上海浙江海域或有4米巨浪",
@@ -1443,14 +1467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 348568,
-      "num": 356892,
-      "word": "李荣浩杨丞琳挽手逛家具店",
-      "onboard_time": 1726470320,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 347395,
       "num": 241669,
       "word": "许昕回应王楚钦输球是假球言论",
@@ -1625,6 +1641,14 @@
       "onboard_time": 1726362858,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303239,
+      "num": 303239,
+      "word": "半熟男女是装腔启示录姊妹篇",
+      "onboard_time": 1726472657,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 301188,
@@ -1827,6 +1851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 265334,
+      "num": 265334,
+      "word": "在图书馆被塞小纸条了",
+      "onboard_time": 1726470079,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 264066,
       "num": 264066,
       "word": "网友曝申请退货美诚月饼遭拒",
@@ -1889,6 +1921,14 @@
       "onboard_time": 1726322962,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 255499,
+      "num": 265429,
+      "word": "程芽芽 暗爽哥",
+      "onboard_time": 1726473319,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 254187,
@@ -1961,14 +2001,6 @@
       "onboard_time": 1726459340,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 245908,
-      "num": 245908,
-      "word": "在图书馆被塞小纸条了",
-      "onboard_time": 1726470079,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 244839,
@@ -2115,6 +2147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224816,
+      "num": 224816,
+      "word": "无糖月饼千万不要多吃",
+      "onboard_time": 1726472960,
+      "rank": 23,
+      "category": "美食,健康医疗"
+    },
+    {
       "raw_hot": 224095,
       "num": 613281,
       "word": "上海启动台风一级应急响应",
@@ -2251,12 +2291,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209724,
-      "num": 209724,
-      "word": "特朗普公然宣称憎恨霉霉",
-      "onboard_time": 1726471579,
-      "rank": 30,
-      "category": "国外时政"
+      "raw_hot": 209087,
+      "num": 209087,
+      "word": "胥慕辞官微掉粉",
+      "onboard_time": 1726475178,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 208675,
@@ -2312,14 +2352,6 @@
       "word": "台风贝碧嘉登陆上海概率增大",
       "onboard_time": 1726372818,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 205566,
-      "num": 205566,
-      "word": "台风中心已移入无锡",
-      "onboard_time": 1726471219,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -2923,6 +2955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169931,
+      "num": 169931,
+      "word": "糟糕跟程苗苗嗑到一块去了",
+      "onboard_time": 1726474219,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169634,
       "num": 169634,
       "word": "电影野孩子社会特辑",
@@ -2968,6 +3008,14 @@
       "word": "上海外卖生鲜配送服务已因台风暂停",
       "onboard_time": 1726452739,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165590,
+      "num": 490974,
+      "word": "明天可买10月1日火车票",
+      "onboard_time": 1726472420,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -3187,6 +3235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156907,
+      "num": 156907,
+      "word": "非洲小哥搬出铁扇公主卖扇子",
+      "onboard_time": 1726474998,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156875,
       "num": 156875,
       "word": "中秋档电影票房突破1亿",
@@ -3355,6 +3411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147441,
+      "num": 147441,
+      "word": "凡希亚也去了侃爷海口演唱会",
+      "onboard_time": 1726474640,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 146263,
       "num": 146263,
       "word": "我恨皮亚杰",
@@ -3409,6 +3473,14 @@
       "onboard_time": 1726414760,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 143416,
+      "num": 143416,
+      "word": "马亮 我用什么把你留住",
+      "onboard_time": 1726474399,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 143391,
@@ -3611,6 +3683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135517,
+      "num": 135517,
+      "word": "台风普拉桑或再奔江浙沪",
+      "onboard_time": 1726473439,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135266,
       "num": 135266,
       "word": "海带如何区分公母",
@@ -3731,6 +3811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128671,
+      "num": 128671,
+      "word": "伯远 你直接报王耀庆身份证号得了",
+      "onboard_time": 1726475060,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128379,
       "num": 128379,
       "word": "黑瞎子 糖果总归是会蛀牙的",
@@ -3753,6 +3841,14 @@
       "onboard_time": 1726362378,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128099,
+      "num": 128099,
+      "word": "2024香港小姐三强出炉",
+      "onboard_time": 1726473560,
+      "rank": 40,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 127972,
@@ -3835,6 +3931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120447,
+      "num": 120447,
+      "word": "天赋高到这种程度真的要抓起来了吧",
+      "onboard_time": 1726473018,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120086,
       "num": 120086,
       "word": "晋江崩了",
@@ -3849,6 +3953,14 @@
       "onboard_time": 1726324345,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119413,
+      "num": 119413,
+      "word": "打火机也nextlevel了",
+      "onboard_time": 1726473259,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 118063,
@@ -3873,6 +3985,14 @@
       "onboard_time": 1726376539,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117253,
+      "num": 117253,
+      "word": "要爱到像这样才能结婚",
+      "onboard_time": 1726475060,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 116527,
@@ -3961,6 +4081,14 @@
       "onboard_time": 1726395680,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110391,
+      "num": 110391,
+      "word": "多名摄像头买家在网店分享偷拍画面",
+      "onboard_time": 1726472657,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110086,
@@ -4249,6 +4377,14 @@
       "onboard_time": 1726376539,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68855,
+      "num": 489000,
+      "word": "交个朋友回应美诚月饼赔付问题",
+      "onboard_time": 1726474880,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 68779,
@@ -4819,6 +4955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19183,
+      "num": 1095326,
+      "word": "服贸会探馆直播",
+      "onboard_time": 1726471878,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17354,
       "num": 22082,
       "word": "涵艺说LNG可以起诉Scout",
@@ -4865,14 +5009,6 @@
       "onboard_time": 1726389320,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11588,
-      "num": 1095326,
-      "word": "服贸会探馆直播",
-      "onboard_time": 1726471878,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11329,
