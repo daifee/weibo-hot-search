@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/15 00:25:22 ~ 2024/09/17 01:19:45
+本榜单时间：2024/09/15 00:25:22 ~ 2024/09/17 01:40:15
 </p>
 </blockquote>
 <p>
@@ -1893,6 +1893,12 @@ WTT 福冈总决赛（热度：301188）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E7%93%A6%E7%89%87%E5%9C%A8%E4%BA%8C%E6%89%8B%E5%B9%B3%E5%8F%B0%E8%A2%AB%E7%82%92%E8%87%B3%E6%95%B0%E7%99%BE%E5%85%83%23" target="weibo">
+武汉大学瓦片在二手平台被炒至数百元（热度：242270）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E5%90%AF%E6%96%87%E9%80%8F%E9%9C%B2%E5%BE%90%E5%B0%91%E5%BC%BA%E5%A4%AB%E4%BA%BA%E4%B9%9F%E4%BA%8E%E8%BF%91%E6%97%A5%E8%BF%87%E4%B8%96%23" target="weibo">
 田启文透露徐少强夫人也于近日过世（热度：241218）
 </a>
@@ -3387,12 +3393,6 @@ KSG在干嘛（热度：152362）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E7%93%A6%E7%89%87%E5%9C%A8%E4%BA%8C%E6%89%8B%E5%B9%B3%E5%8F%B0%E8%A2%AB%E7%82%92%E8%87%B3%E6%95%B0%E7%99%BE%E5%85%83%23" target="weibo">
-武汉大学瓦片在二手平台被炒至数百元（热度：142507）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%B0%E8%BF%AA%E5%8F%B0%E8%AF%8D%E7%9C%9F%E5%A5%BD%23" target="weibo">
 李兰迪台词真好（热度：142391）
 </a>
@@ -4697,6 +4697,12 @@ FULLMOON颁奖盛典（热度：32222）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2390%E5%B2%81%E7%A1%AC%E6%A0%B8%E8%80%81%E4%BA%BA1%E5%B0%8F%E6%97%B6%E6%A8%AA%E6%B8%A1%E9%95%BF%E6%B1%9F%23" target="weibo">
 90岁硬核老人1小时横渡长江（热度：23278）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E9%AB%98%E6%B8%A9%E5%B0%86%E5%8F%8D%E6%89%91%E5%B1%80%E9%83%A838%E5%BA%A6%E4%BB%A5%E4%B8%8A%23" target="weibo">
+浙江高温将反扑局部38度以上（热度：22934）
 </a>
 </li>
 
