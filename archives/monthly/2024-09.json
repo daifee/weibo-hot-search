@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726443315511,
+  "endTime": 1726450981643,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -297,6 +297,14 @@
       "onboard_time": 1725960141,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 3008475,
+      "num": 3008475,
+      "word": "贝碧嘉登陆",
+      "onboard_time": 1726444158,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2969722,
@@ -1915,6 +1923,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1425084,
+      "num": 1425084,
+      "word": "男子被砍后反杀凶手一审被判10年",
+      "onboard_time": 1726444158,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1423616,
       "num": 395494,
       "word": "大学生因一顿烧烤进ICU换了5次血",
@@ -2435,6 +2451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1241897,
+      "num": 1241897,
+      "word": "特朗普打高尔夫一枪手藏在灌木丛",
+      "onboard_time": 1726449259,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1240637,
       "num": 392717,
       "word": "妻子为徐少强办后事时心脏病发离世",
@@ -2953,6 +2977,14 @@
       "onboard_time": 1726103480,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1127727,
+      "num": 1127727,
+      "word": "香港美诚月饼生产商回应",
+      "onboard_time": 1726446259,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1126206,
@@ -7139,6 +7171,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 612251,
+      "num": 612251,
+      "word": "凡人歌 大结局",
+      "onboard_time": 1726446438,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 611734,
       "num": 611734,
       "word": "游泳队合唱孤勇者",
@@ -7779,6 +7819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 567620,
+      "num": 567620,
+      "word": "周也 侃爷演唱会",
+      "onboard_time": 1726442897,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 567455,
       "num": 567455,
       "word": "点奶茶不请同事尴尬吗",
@@ -7849,6 +7897,14 @@
       "onboard_time": 1725322880,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 561523,
+      "num": 561523,
+      "word": "上海临港进入台风贝碧嘉十级风圈",
+      "onboard_time": 1726443616,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 559914,
@@ -9211,6 +9267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 490409,
+      "num": 490409,
+      "word": "1400年前的月饼还能看到花纹",
+      "onboard_time": 1726444938,
+      "rank": 8,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 490226,
       "num": 490226,
       "word": "刘跃进严重违纪违法被开除党籍",
@@ -10348,7 +10412,7 @@
     },
     {
       "raw_hot": 432763,
-      "num": 253268,
+      "num": 372441,
       "word": "陈好手机是全是宋茜丑照",
       "onboard_time": 1726441634,
       "rank": 11,
@@ -10793,6 +10857,14 @@
       "onboard_time": 1725871400,
       "rank": 11,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 412912,
+      "num": 412912,
+      "word": "贝碧嘉加强为强台风级",
+      "onboard_time": 1726446137,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 412647,
@@ -11475,6 +11547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 382780,
+      "num": 382780,
+      "word": "侃爷试听会偶遇严浩翔",
+      "onboard_time": 1726444158,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 382723,
       "num": 444668,
       "word": "上海浙江海域或有4米巨浪",
@@ -11748,7 +11828,7 @@
     },
     {
       "raw_hot": 370372,
-      "num": 202090,
+      "num": 220560,
       "word": "EDG拒绝和解",
       "onboard_time": 1726441695,
       "rank": 30,
@@ -12529,6 +12609,14 @@
       "onboard_time": 1726056442,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 343828,
+      "num": 343828,
+      "word": "大一女生竞选班长秀出保安证",
+      "onboard_time": 1726447638,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 343470,
@@ -13361,6 +13449,14 @@
       "onboard_time": 1725979402,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 313727,
+      "num": 479130,
+      "word": "枪手距特朗普不到457米",
+      "onboard_time": 1726449559,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 313688,
@@ -15475,6 +15571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265203,
+      "num": 265203,
+      "word": "害怕打针把自己埋进医生怀里的小金毛",
+      "onboard_time": 1726446500,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 265085,
       "num": 287424,
       "word": "胡兵说想和瞿颖每天都在一起工作",
@@ -15660,7 +15764,7 @@
     },
     {
       "raw_hot": 261871,
-      "num": 261871,
+      "num": 366416,
       "word": "终于有古装剧的公主抱不是转圈了",
       "onboard_time": 1726408341,
       "rank": 30,
@@ -17755,6 +17859,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 231100,
+      "num": 231100,
+      "word": "王源慌了",
+      "onboard_time": 1726450098,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 231071,
       "num": 322725,
       "word": "棍铲 沙坪坝",
@@ -17969,6 +18081,14 @@
       "onboard_time": 1725352280,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 228820,
+      "num": 228820,
+      "word": "临港",
+      "onboard_time": 1726449318,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228730,
@@ -18441,6 +18561,14 @@
       "onboard_time": 1725203963,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 222563,
+      "num": 222563,
+      "word": "心理学看多了根本吵不起来架",
+      "onboard_time": 1726444457,
+      "rank": 30,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 222482,
@@ -21307,6 +21435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 199283,
+      "num": 199283,
+      "word": "鸭嘴指甲",
+      "onboard_time": 1726444278,
+      "rank": 32,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 199256,
       "num": 199256,
       "word": "严浩翔冷脸开车",
@@ -21905,6 +22041,14 @@
       "onboard_time": 1725708200,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 195896,
+      "num": 195896,
+      "word": "印度公务员考试丧生12人",
+      "onboard_time": 1726441935,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195868,
@@ -25347,14 +25491,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 177815,
-      "num": 177815,
-      "word": "印度公务员考试丧生12人",
-      "onboard_time": 1726441935,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177750,
       "num": 236547,
       "word": "BOYNEXTDOOR主打曲MV",
@@ -25651,6 +25787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 175998,
+      "num": 175998,
+      "word": "台风杭州",
+      "onboard_time": 1726445657,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175933,
       "num": 175933,
       "word": "第一次见门票上这样的注意事项",
@@ -25673,6 +25817,14 @@
       "onboard_time": 1725757576,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175850,
+      "num": 222755,
+      "word": "Hybe员工吐槽田柾国",
+      "onboard_time": 1726441755,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 175842,
@@ -27227,6 +27379,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 166834,
+      "num": 166834,
+      "word": "资历越高薪资待遇反不如前",
+      "onboard_time": 1726450098,
+      "rank": 37,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 166790,
       "num": 166790,
       "word": "教资准考证",
@@ -28385,6 +28545,14 @@
       "onboard_time": 1725526520,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160291,
+      "num": 160291,
+      "word": "贝碧嘉路径",
+      "onboard_time": 1726448299,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160277,
@@ -30129,6 +30297,14 @@
       "onboard_time": 1725924257,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 151815,
+      "num": 151815,
+      "word": "南京台风",
+      "onboard_time": 1726444878,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151806,
@@ -34779,6 +34955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 124377,
+      "num": 124377,
+      "word": "侃爷现场",
+      "onboard_time": 1726442535,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 124333,
       "num": 124333,
       "word": "十个勤天行李牌",
@@ -36531,14 +36715,6 @@
       "category": "国外时政,自然"
     },
     {
-      "raw_hot": 109434,
-      "num": 156194,
-      "word": "周也 侃爷演唱会",
-      "onboard_time": 1726442897,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 109354,
       "num": 145244,
       "word": "存量房贷利率不能简单一降了之",
@@ -37387,6 +37563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100165,
+      "num": 100165,
+      "word": "涵艺说scout百分百去不了世界赛",
+      "onboard_time": 1726445357,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 100106,
       "num": 100106,
       "word": "姆巴佩梅开二度",
@@ -37635,19 +37819,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 97078,
+      "num": 97078,
+      "word": "中秋假期热门目的地出炉",
+      "onboard_time": 1726450760,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 96974,
       "num": 96974,
       "word": "张远马雪阳互动",
       "onboard_time": 1725844398,
       "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 96707,
-      "num": 118189,
-      "word": "Hybe员工吐槽田柾国",
-      "onboard_time": 1726441755,
-      "rank": 42,
       "category": "艺人"
     },
     {
@@ -39721,14 +39905,6 @@
       "onboard_time": 1726097178,
       "rank": 45,
       "category": "社会新闻,科学科普"
-    },
-    {
-      "raw_hot": 65394,
-      "num": 65394,
-      "word": "侃爷现场",
-      "onboard_time": 1726442535,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 65350,
@@ -44761,6 +44937,14 @@
       "onboard_time": 1725817274,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 25916,
+      "num": 391552,
+      "word": "赵继伟篮球之夜见",
+      "onboard_time": 1726448418,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 25910,

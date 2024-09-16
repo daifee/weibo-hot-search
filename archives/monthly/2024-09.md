@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/16 07:35:15
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/16 09:43:01
 </p>
 </blockquote>
 <p>
@@ -233,6 +233,12 @@ iPhone16起售价5999元（热度：3172135）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B9%B0%E5%A5%96%E5%88%A0%E9%99%A4%E5%88%98%E4%BA%A6%E8%8F%B2%E5%85%A5%E5%9B%B4%E8%B5%84%E6%A0%BC%23" target="weibo">
 金鹰奖删除刘亦菲入围资格（热度：3016886）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%9D%E7%A2%A7%E5%98%89%E7%99%BB%E9%99%86%23" target="weibo">
+贝碧嘉登陆（热度：3008475）
 </a>
 </li>
 
@@ -1449,6 +1455,12 @@ AG夏季赛夺冠（热度：1506407）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E7%A0%8D%E5%90%8E%E5%8F%8D%E6%9D%80%E5%87%B6%E6%89%8B%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A410%E5%B9%B4%23" target="weibo">
+男子被砍后反杀凶手一审被判10年（热度：1425084）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%A0%E4%B8%80%E9%A1%BF%E7%83%A7%E7%83%A4%E8%BF%9BICU%E6%8D%A2%E4%BA%865%E6%AC%A1%E8%A1%80%23" target="weibo">
 大学生因一顿烧烤进ICU换了5次血（热度：1423616）
 </a>
@@ -1839,6 +1851,12 @@ iPhone16配色（热度：1336689）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%93%E9%AB%98%E5%B0%94%E5%A4%AB%E4%B8%80%E6%9E%AA%E6%89%8B%E8%97%8F%E5%9C%A8%E7%81%8C%E6%9C%A8%E4%B8%9B%23" target="weibo">
+特朗普打高尔夫一枪手藏在灌木丛（热度：1241897）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E4%B8%BA%E5%BE%90%E5%B0%91%E5%BC%BA%E5%8A%9E%E5%90%8E%E4%BA%8B%E6%97%B6%E5%BF%83%E8%84%8F%E7%97%85%E5%8F%91%E7%A6%BB%E4%B8%96%23" target="weibo">
 妻子为徐少强办后事时心脏病发离世（热度：1240637）
 </a>
@@ -2225,6 +2243,12 @@ NewJeans被HYBE其他艺人团队排挤（热度：1130540）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E7%9A%84%E9%9E%8B%E6%88%90%E4%BA%86%E5%A5%A2%E4%BE%88%E5%93%81%23" target="weibo">
 加沙的鞋成了奢侈品（热度：1129152）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%BE%8E%E8%AF%9A%E6%9C%88%E9%A5%BC%E7%94%9F%E4%BA%A7%E5%95%86%E5%9B%9E%E5%BA%94%23" target="weibo">
+香港美诚月饼生产商回应（热度：1127727）
 </a>
 </li>
 
@@ -5367,6 +5391,12 @@ iPhone16不送苹果logo贴纸（热度：614865）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%A1%E4%BA%BA%E6%AD%8C%20%E5%A4%A7%E7%BB%93%E5%B1%80%23" target="weibo">
+凡人歌 大结局（热度：612251）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%B3%B3%E9%98%9F%E5%90%88%E5%94%B1%E5%AD%A4%E5%8B%87%E8%80%85%23" target="weibo">
 游泳队合唱孤勇者（热度：611734）
 </a>
@@ -5847,6 +5877,12 @@ KSG对战AG（热度：589342）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%20%E4%BE%83%E7%88%B7%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+周也 侃爷演唱会（热度：567620）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%82%B9%E5%A5%B6%E8%8C%B6%E4%B8%8D%E8%AF%B7%E5%90%8C%E4%BA%8B%E5%B0%B4%E5%B0%AC%E5%90%97%23" target="weibo">
 点奶茶不请同事尴尬吗（热度：567455）
 </a>
@@ -5897,6 +5933,12 @@ AI换脸三小时骗走我妈一年工资（热度：565768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%AE%AB%E8%BF%85%E9%9F%B3%20%20%E9%98%B2%E5%BC%B9%E5%B0%91%E5%B9%B4%E5%9B%A2%23" target="weibo">
 云宫迅音  防弹少年团（热度：562453）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%B4%E6%B8%AF%E8%BF%9B%E5%85%A5%E5%8F%B0%E9%A3%8E%E8%B4%9D%E7%A2%A7%E5%98%89%E5%8D%81%E7%BA%A7%E9%A3%8E%E5%9C%88%23" target="weibo">
+上海临港进入台风贝碧嘉十级风圈（热度：561523）
 </a>
 </li>
 
@@ -5969,48 +6011,6 @@ AI换脸三小时骗走我妈一年工资（热度：565768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9B%9E%E5%BA%94%E5%A4%BA%E5%86%A0%23" target="weibo">
 孙颖莎回应夺冠（热度：553910）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%940%E6%88%98%E8%83%9C%E5%BE%90%E7%91%9B%E5%BD%AC%23" target="weibo">
-王楚钦3比0战胜徐瑛彬（热度：553546）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%91%A9%E7%BE%AF%E5%B0%86%E5%9C%A8%E5%B9%BF%E8%A5%BF%E9%98%B2%E5%9F%8E%E6%B8%AF%E5%86%8D%E6%AC%A1%E7%99%BB%E9%99%86%23" target="weibo">
-摩羯将在广西防城港再次登陆（热度：553243）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E7%BE%8A%E4%B8%83%E8%80%81%E6%9D%BF%E8%BE%9F%E8%B0%A3%23" target="weibo">
-三只羊七老板辟谣（热度：553052）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E7%AB%A5%E6%89%8B%E8%A1%A8AI%E5%90%A6%E8%AE%A4%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E5%AD%98%E5%9C%A8%23" target="weibo">
-儿童手表AI否认南京大屠杀存在（热度：552873）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A7%B0%E4%B8%A4%E5%8D%83%E4%B8%83%E7%9A%84%E5%AE%B6%E5%BA%AD%E8%B7%9F%E5%9B%A2%E6%B8%B8%E4%BD%93%E9%AA%8C%E5%A4%AA%E5%B7%AE%23" target="weibo">
-男子称两千七的家庭跟团游体验太差（热度：552208）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%9E%8B%E6%88%98%E6%9C%BA%E5%B7%B2%E5%9C%A8%E8%BE%BD%E5%AE%81%E8%88%B0%E6%94%BE%E9%A3%9E%23" target="weibo">
-新型战机已在辽宁舰放飞（热度：551828）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%98%95%E8%AF%B4%E5%AD%99%E9%A2%96%E8%8E%8E%E4%BB%8A%E5%A4%A9%E7%8A%B6%E6%80%81%E5%8F%AA%E6%9C%897%E5%88%86%23" target="weibo">
-许昕说孙颖莎今天状态只有7分（热度：550533）
 </a>
 </li>
 
