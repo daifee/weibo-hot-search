@@ -1,6 +1,6 @@
 {
   "startTime": 1726417574980,
-  "endTime": 1726490545102,
+  "endTime": 1726491531668,
   "band_list": [
     {
       "raw_hot": 3008475,
@@ -155,6 +155,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 1198990,
+      "num": 668366,
+      "word": "妈妈在50多岁才摘掉节育环",
+      "onboard_time": 1726488559,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1177383,
       "num": 1177383,
       "word": "苏州的结界",
@@ -235,14 +243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 964080,
-      "num": 382061,
-      "word": "妈妈在50多岁才摘掉节育环",
-      "onboard_time": 1726488559,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 964037,
       "num": 964037,
       "word": "三只羊所售茅台已有72瓶不符合正品特征",
@@ -265,6 +265,14 @@
       "onboard_time": 1726413441,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 867590,
+      "num": 347782,
+      "word": "章若楠代言评论区",
+      "onboard_time": 1726487239,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 836616,
@@ -379,14 +387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 684888,
-      "num": 347782,
-      "word": "章若楠代言评论区",
-      "onboard_time": 1726487239,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 683785,
       "num": 585709,
       "word": "于适工作室发声明",
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 603471,
+      "num": 341005,
+      "word": "广东阿叔每天喝骨头汤险致瘫痪",
+      "onboard_time": 1726487479,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 598912,
       "num": 598912,
       "word": "张元英对自己的定位是center",
@@ -497,14 +505,6 @@
       "onboard_time": 1726455980,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 590156,
-      "num": 341005,
-      "word": "广东阿叔每天喝骨头汤险致瘫痪",
-      "onboard_time": 1726487479,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 584934,
@@ -739,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 397820,
+      "num": 311803,
+      "word": "敖瑞鹏张予曦妈生漫改脸",
+      "onboard_time": 1726490241,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 379916,
       "num": 379916,
       "word": "台风",
@@ -905,6 +913,14 @@
       "onboard_time": 1726453037,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 287496,
+      "num": 353287,
+      "word": "医院招篮球特长生被指萝卜坑招聘",
+      "onboard_time": 1726487479,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287436,
@@ -1075,6 +1091,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239582,
+      "num": 239582,
+      "word": "喻言黑发红裙",
+      "onboard_time": 1726489459,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 236622,
+      "num": 320359,
+      "word": "鞠婧祎一字肩蓝色长裙",
+      "onboard_time": 1726489879,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234739,
       "num": 490974,
       "word": "明天可买10月1日火车票",
@@ -1187,20 +1219,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207410,
+      "num": 184687,
+      "word": "陈丽君和陈丽君好配啊",
+      "onboard_time": 1726490840,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207196,
       "num": 606432,
       "word": "美诚月饼生产厂家多次被罚",
       "onboard_time": 1726467019,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206007,
-      "num": 206007,
-      "word": "喻言黑发红裙",
-      "onboard_time": 1726489459,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 205129,
@@ -1323,14 +1355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191672,
-      "num": 249060,
-      "word": "鞠婧祎一字肩蓝色长裙",
-      "onboard_time": 1726489879,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 190805,
       "num": 190805,
       "word": "记者直击上海浦东临港新城",
@@ -1403,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177268,
+      "num": 177268,
+      "word": "蒋敦豪disco版金风玉露",
+      "onboard_time": 1726490960,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176579,
       "num": 176579,
       "word": "孙颖莎夺冠后找奖杯",
@@ -1449,14 +1481,6 @@
       "onboard_time": 1726476979,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 174038,
-      "num": 353287,
-      "word": "医院招篮球特长生被指萝卜坑招聘",
-      "onboard_time": 1726487479,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173544,
@@ -1563,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166154,
+      "num": 166154,
+      "word": "月亮",
+      "onboard_time": 1726487960,
+      "rank": 36,
+      "category": "自然"
+    },
+    {
       "raw_hot": 166077,
       "num": 166077,
       "word": "上海外卖生鲜配送服务已因台风暂停",
@@ -1593,14 +1625,6 @@
       "onboard_time": 1726412781,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 164111,
-      "num": 164111,
-      "word": "敖瑞鹏张予曦妈生漫改脸",
-      "onboard_time": 1726490241,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 163233,
@@ -1723,14 +1747,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 153795,
-      "num": 153795,
-      "word": "月亮",
-      "onboard_time": 1726487960,
-      "rank": 36,
-      "category": "自然"
-    },
-    {
       "raw_hot": 151815,
       "num": 151815,
       "word": "南京台风",
@@ -1739,8 +1755,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150909,
-      "num": 150909,
+      "raw_hot": 151050,
+      "num": 151050,
       "word": "高雅cp互关",
       "onboard_time": 1726488740,
       "rank": 38,
@@ -1787,6 +1803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148335,
+      "num": 148335,
+      "word": "胡彦斌又唱月光了",
+      "onboard_time": 1726491200,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148312,
       "num": 148312,
       "word": "儿童追逐窜出马路遭车辆碾压",
@@ -1817,6 +1841,14 @@
       "onboard_time": 1726465159,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144253,
+      "num": 144253,
+      "word": "王心凌为了出片有多拼",
+      "onboard_time": 1726490180,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 144042,
@@ -2011,14 +2043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132133,
-      "num": 132133,
-      "word": "王心凌为了出片有多拼",
-      "onboard_time": 1726490180,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 131939,
       "num": 131939,
       "word": "小熊猫独自过马路被家长接走了",
@@ -2067,12 +2091,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 130709,
+      "num": 331527,
+      "word": "台风直扑阳澄湖网友纷纷关心大闸蟹",
+      "onboard_time": 1726488800,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125996,
       "num": 231763,
       "word": "上海台风",
       "onboard_time": 1726285940,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125298,
+      "num": 125298,
+      "word": "南派三叔三日静寂封神",
+      "onboard_time": 1726491320,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 125042,
@@ -2129,6 +2169,14 @@
       "onboard_time": 1726460539,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 120761,
+      "num": 341440,
+      "word": "工作人员回应宠物乐园现熊猫犬",
+      "onboard_time": 1726488981,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120500,
@@ -2273,14 +2321,6 @@
       "onboard_time": 1726397541,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113253,
-      "num": 331527,
-      "word": "台风直扑阳澄湖网友纷纷关心大闸蟹",
-      "onboard_time": 1726488800,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113210,
@@ -2499,6 +2539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77650,
+      "num": 189567,
+      "word": "宣传科民警一招锁喉摔拿下小偷",
+      "onboard_time": 1726491499,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76074,
       "num": 76074,
       "word": "女子称在胖东来买到发霉月饼",
@@ -2587,6 +2635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52680,
+      "num": 343578,
+      "word": "阳澄湖大闸蟹缺席中秋宴",
+      "onboard_time": 1726489939,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51797,
       "num": 429440,
       "word": "AG淋的金色雨是海信下的",
@@ -2651,27 +2707,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38395,
-      "num": 341440,
-      "word": "工作人员回应宠物乐园现熊猫犬",
-      "onboard_time": 1726488981,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36446,
       "num": 60937,
       "word": "上海地铁运营时间调整",
       "onboard_time": 1726430531,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33017,
-      "num": 343578,
-      "word": "阳澄湖大闸蟹缺席中秋宴",
-      "onboard_time": 1726489939,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
