@@ -1,0 +1,410 @@
+{
+  "runTime": 1726493363164,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1422018,
+        "num": 1422018,
+        "word": "妈妈在50多岁才摘掉节育环",
+        "onboard_time": 1726488559,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 919724,
+        "num": 919724,
+        "word": "三只羊所售茅台已有72瓶不符合正品特征",
+        "onboard_time": 1726486699,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3663,
+        "num": 871494,
+        "word": "服贸会探馆直播",
+        "onboard_time": 1726471878,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 843655,
+        "num": 843655,
+        "word": "于适 节目单",
+        "onboard_time": 1726486639,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 699656,
+        "num": 699656,
+        "word": "贝碧嘉几乎是以巅峰强度登陆",
+        "onboard_time": 1726468698,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514019,
+        "num": 514019,
+        "word": "贝碧嘉移入江苏",
+        "onboard_time": 1726463058,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 778088,
+        "num": 508052,
+        "word": "边伯贤室内吸烟",
+        "onboard_time": 1726486279,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 741471,
+        "num": 500949,
+        "word": "鞠婧祎 嫦娥",
+        "onboard_time": 1726486699,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490668,
+        "num": 490668,
+        "word": "医院招篮球特长生被指萝卜坑招聘",
+        "onboard_time": 1726487479,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39635,
+        "num": 489935,
+        "word": "央视曝光房屋托管骗局",
+        "onboard_time": 1726493061,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102008,
+        "num": 484233,
+        "word": "佟丽娅宋代造型",
+        "onboard_time": 1726488499,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 995321,
+        "num": 477107,
+        "word": "章若楠代言评论区",
+        "onboard_time": 1726487239,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 889086,
+        "num": 470111,
+        "word": "女子吃了冰箱一盘熟牛肉引发败血症",
+        "onboard_time": 1726483699,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554391,
+        "num": 467479,
+        "word": "敖瑞鹏张予曦妈生漫改脸",
+        "onboard_time": 1726490241,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 464029,
+        "num": 464029,
+        "word": "广东阿叔每天喝骨头汤险致瘫痪",
+        "onboard_time": 1726487479,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455911,
+        "num": 455911,
+        "word": "陈丽君和陈丽君好配啊",
+        "onboard_time": 1726490840,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403074,
+        "num": 403074,
+        "word": "曾之乔孕肚照",
+        "onboard_time": 1726492340,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368092,
+        "num": 368092,
+        "word": "中秋晚会节目单",
+        "onboard_time": 1726483880,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335537,
+        "num": 335537,
+        "word": "台风中心将在南京停留2到3小时",
+        "onboard_time": 1726478658,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326589,
+        "num": 326589,
+        "word": "台风贝碧嘉",
+        "onboard_time": 1726320202,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282434,
+        "num": 282434,
+        "word": "章若楠给杨洋指代拍",
+        "onboard_time": 1726484659,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232348,
+        "num": 232348,
+        "word": "女子下班回家发现大量陌生脚印",
+        "onboard_time": 1726479858,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231782,
+        "num": 231782,
+        "word": "喻言黑发红裙",
+        "onboard_time": 1726489459,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 217962,
+        "num": 217962,
+        "word": "虞书欣又又又贴脸开大黄晓明",
+        "onboard_time": 1726489039,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215935,
+        "num": 215935,
+        "word": "严浩翔 成都",
+        "onboard_time": 1726487839,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208322,
+        "num": 208322,
+        "word": "台风直扑阳澄湖网友纷纷关心大闸蟹",
+        "onboard_time": 1726488800,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197880,
+        "num": 197880,
+        "word": "美心月饼直播间晒报关单",
+        "onboard_time": 1726480940,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188673,
+        "num": 188673,
+        "word": "张凌赫 边走边脱",
+        "onboard_time": 1726487239,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184535,
+        "num": 184535,
+        "word": "鞠婧祎一字肩蓝色长裙",
+        "onboard_time": 1726489879,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179938,
+        "num": 179938,
+        "word": "出生3天的婴儿在消防员怀里熟睡",
+        "onboard_time": 1726490899,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175017,
+        "num": 175017,
+        "word": "张元英对自己的定位是center",
+        "onboard_time": 1726482017,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168741,
+        "num": 168741,
+        "word": "阳澄湖大闸蟹缺席中秋宴",
+        "onboard_time": 1726489939,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165198,
+        "num": 165198,
+        "word": "月亮",
+        "onboard_time": 1726487960,
+        "rank": 32,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 164504,
+        "num": 164504,
+        "word": "台风",
+        "onboard_time": 1726302200,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163906,
+        "num": 163906,
+        "word": "南派三叔三日静寂封神",
+        "onboard_time": 1726491320,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124865,
+        "num": 162618,
+        "word": "宣传科民警一招锁喉摔拿下小偷",
+        "onboard_time": 1726491499,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162587,
+        "num": 162587,
+        "word": "月饼",
+        "onboard_time": 1726488259,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 158010,
+        "num": 158010,
+        "word": "李兰迪新剧说任嘉伦长得好看",
+        "onboard_time": 1726492221,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160474,
+        "num": 157940,
+        "word": "周深 小电驴登月",
+        "onboard_time": 1726492940,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157806,
+        "num": 157806,
+        "word": "高雅cp互关",
+        "onboard_time": 1726488740,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156264,
+        "num": 156264,
+        "word": "曾志伟拒回应美诚月饼事件",
+        "onboard_time": 1726477758,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155546,
+        "num": 155546,
+        "word": "邱贻可晒与孙颖莎合影",
+        "onboard_time": 1726476078,
+        "rank": 41,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 155121,
+        "num": 155121,
+        "word": "南派三叔说被骂十年很委屈",
+        "onboard_time": 1726478119,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153232,
+        "num": 153232,
+        "word": "胡彦斌又唱月光了",
+        "onboard_time": 1726491200,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135478,
+        "num": 135478,
+        "word": "高雅cp",
+        "onboard_time": 1726482919,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133797,
+        "num": 133797,
+        "word": "王心凌为了出片有多拼",
+        "onboard_time": 1726490180,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128886,
+        "num": 128886,
+        "word": "为什么带了手套还是满手油",
+        "onboard_time": 1726492998,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 125688,
+        "num": 125688,
+        "word": "没有目的性的恋爱",
+        "onboard_time": 1726493120,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118084,
+        "num": 118084,
+        "word": "男子吐槽排骨带鸡皮被店家反怼",
+        "onboard_time": 1726492821,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117339,
+        "num": 117339,
+        "word": "工作人员回应宠物乐园现熊猫犬",
+        "onboard_time": 1726488981,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记的中秋节日祝福#"
+    }
+  }
+}

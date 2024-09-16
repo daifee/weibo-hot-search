@@ -1,6 +1,6 @@
 {
   "startTime": 1726417574980,
-  "endTime": 1726491531668,
+  "endTime": 1726493363164,
   "band_list": [
     {
       "raw_hot": 3008475,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1422018,
+      "num": 1422018,
+      "word": "妈妈在50多岁才摘掉节育环",
+      "onboard_time": 1726488559,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1372281,
       "num": 1367403,
       "word": "特朗普公然宣称憎恨泰勒斯威夫特",
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 1238886,
-      "num": 789882,
+      "num": 843655,
       "word": "于适 节目单",
       "onboard_time": 1726486639,
       "rank": 3,
@@ -153,14 +161,6 @@
       "onboard_time": 1726476078,
       "rank": 10,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 1198990,
-      "num": 668366,
-      "word": "妈妈在50多岁才摘掉节育环",
-      "onboard_time": 1726488559,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 1177383,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 995321,
+      "num": 477107,
+      "word": "章若楠代言评论区",
+      "onboard_time": 1726487239,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 994852,
       "num": 994852,
       "word": "于适 张雨绮",
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 974764,
-      "num": 410009,
+      "num": 508052,
       "word": "边伯贤室内吸烟",
       "onboard_time": 1726486279,
       "rank": 27,
@@ -265,14 +273,6 @@
       "onboard_time": 1726413441,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 867590,
-      "num": 347782,
-      "word": "章若楠代言评论区",
-      "onboard_time": 1726487239,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 836616,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 603471,
-      "num": 341005,
+      "num": 464029,
       "word": "广东阿叔每天喝骨头汤险致瘫痪",
       "onboard_time": 1726487479,
       "rank": 15,
@@ -545,6 +545,14 @@
       "onboard_time": 1726477038,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 554391,
+      "num": 467479,
+      "word": "敖瑞鹏张予曦妈生漫改脸",
+      "onboard_time": 1726490241,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 548758,
@@ -611,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 490668,
+      "num": 490668,
+      "word": "医院招篮球特长生被指萝卜坑招聘",
+      "onboard_time": 1726487479,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 490409,
       "num": 490409,
       "word": "1400年前的月饼还能看到花纹",
@@ -641,6 +657,14 @@
       "onboard_time": 1726457720,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 455911,
+      "num": 455911,
+      "word": "陈丽君和陈丽君好配啊",
+      "onboard_time": 1726490840,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 435566,
@@ -731,20 +755,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 403074,
+      "num": 403074,
+      "word": "曾之乔孕肚照",
+      "onboard_time": 1726492340,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 399688,
       "num": 399688,
       "word": "HYBE职员说NewJeans自己火上浇油",
       "onboard_time": 1726415599,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 397820,
-      "num": 311803,
-      "word": "敖瑞鹏张予曦妈生漫改脸",
-      "onboard_time": 1726490241,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 379916,
@@ -913,14 +937,6 @@
       "onboard_time": 1726453037,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 287496,
-      "num": 353287,
-      "word": "医院招篮球特长生被指萝卜坑招聘",
-      "onboard_time": 1726487479,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 287436,
@@ -1219,12 +1235,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207410,
-      "num": 184687,
-      "word": "陈丽君和陈丽君好配啊",
-      "onboard_time": 1726490840,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 208322,
+      "num": 331527,
+      "word": "台风直扑阳澄湖网友纷纷关心大闸蟹",
+      "onboard_time": 1726488800,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207196,
@@ -1427,6 +1443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179938,
+      "num": 179938,
+      "word": "出生3天的婴儿在消防员怀里熟睡",
+      "onboard_time": 1726490899,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177268,
       "num": 177268,
       "word": "蒋敦豪disco版金风玉露",
@@ -1539,6 +1563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168741,
+      "num": 343578,
+      "word": "阳澄湖大闸蟹缺席中秋宴",
+      "onboard_time": 1726489939,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168623,
       "num": 168623,
       "word": "贝碧嘉来临前苏州天空变粉色了",
@@ -1627,6 +1659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163906,
+      "num": 163906,
+      "word": "南派三叔三日静寂封神",
+      "onboard_time": 1726491320,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163233,
       "num": 163233,
       "word": "台风来前杭州天空出现丁达尔现象",
@@ -1636,7 +1676,7 @@
     },
     {
       "raw_hot": 163170,
-      "num": 163170,
+      "num": 484233,
       "word": "佟丽娅宋代造型",
       "onboard_time": 1726488499,
       "rank": 34,
@@ -1691,6 +1731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 160474,
+      "num": 157940,
+      "word": "周深 小电驴登月",
+      "onboard_time": 1726492940,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160291,
       "num": 160291,
       "word": "贝碧嘉路径",
@@ -1713,6 +1761,22 @@
       "onboard_time": 1726415959,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158010,
+      "num": 158010,
+      "word": "李兰迪新剧说任嘉伦长得好看",
+      "onboard_time": 1726492221,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 157806,
+      "num": 157806,
+      "word": "高雅cp互关",
+      "onboard_time": 1726488740,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 156736,
@@ -1747,20 +1811,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 153232,
+      "num": 153232,
+      "word": "胡彦斌又唱月光了",
+      "onboard_time": 1726491200,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151815,
       "num": 151815,
       "word": "南京台风",
       "onboard_time": 1726444878,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151050,
-      "num": 151050,
-      "word": "高雅cp互关",
-      "onboard_time": 1726488740,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 150890,
@@ -1801,14 +1865,6 @@
       "onboard_time": 1726456279,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 148335,
-      "num": 148335,
-      "word": "胡彦斌又唱月光了",
-      "onboard_time": 1726491200,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 148312,
@@ -2091,12 +2147,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 130709,
-      "num": 331527,
-      "word": "台风直扑阳澄湖网友纷纷关心大闸蟹",
-      "onboard_time": 1726488800,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 128886,
+      "num": 128886,
+      "word": "为什么带了手套还是满手油",
+      "onboard_time": 1726492998,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 125996,
@@ -2107,12 +2163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 125298,
-      "num": 125298,
-      "word": "南派三叔三日静寂封神",
-      "onboard_time": 1726491320,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 125688,
+      "num": 125688,
+      "word": "没有目的性的恋爱",
+      "onboard_time": 1726493120,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 125042,
@@ -2121,6 +2177,14 @@
       "onboard_time": 1726475060,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124865,
+      "num": 189567,
+      "word": "宣传科民警一招锁喉摔拿下小偷",
+      "onboard_time": 1726491499,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124723,
@@ -2241,6 +2305,14 @@
       "onboard_time": 1726481419,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118084,
+      "num": 118084,
+      "word": "男子吐槽排骨带鸡皮被店家反怼",
+      "onboard_time": 1726492821,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117707,
@@ -2539,14 +2611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 77650,
-      "num": 189567,
-      "word": "宣传科民警一招锁喉摔拿下小偷",
-      "onboard_time": 1726491499,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 76074,
       "num": 76074,
       "word": "女子称在胖东来买到发霉月饼",
@@ -2635,14 +2699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52680,
-      "num": 343578,
-      "word": "阳澄湖大闸蟹缺席中秋宴",
-      "onboard_time": 1726489939,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51797,
       "num": 429440,
       "word": "AG淋的金色雨是海信下的",
@@ -2697,6 +2753,14 @@
       "onboard_time": 1726423694,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 39635,
+      "num": 489935,
+      "word": "央视曝光房屋托管骗局",
+      "onboard_time": 1726493061,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39179,
