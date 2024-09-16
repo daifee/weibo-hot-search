@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726457366316,
+  "endTime": 1726458238453,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 962898,
+      "num": 962898,
+      "word": "贝碧嘉正横穿上海",
+      "onboard_time": 1726455740,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 952092,
       "num": 952092,
       "word": "许昕说王楚钦能来打澳门赛不容易",
@@ -385,6 +393,14 @@
       "onboard_time": 1726377739,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 846343,
+      "num": 561351,
+      "word": "苏州台风",
+      "onboard_time": 1726456458,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 824124,
@@ -440,14 +456,6 @@
       "word": "又一台风登陆或致风浪潮三碰头",
       "onboard_time": 1726361838,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 773791,
-      "num": 773791,
-      "word": "贝碧嘉正横穿上海",
-      "onboard_time": 1726455740,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -716,7 +724,7 @@
     },
     {
       "raw_hot": 549087,
-      "num": 407891,
+      "num": 461548,
       "word": "内地女网红在香港骑行遇车祸身亡",
       "onboard_time": 1726454359,
       "rank": 20,
@@ -755,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522884,
+      "num": 522884,
+      "word": "城管与大学生店员冲突被停职",
+      "onboard_time": 1726452319,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 520797,
       "num": 283574,
       "word": "女子轻断食一天吃11个玉米",
@@ -777,6 +793,14 @@
       "onboard_time": 1726365558,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 514450,
+      "num": 736329,
+      "word": "王源慌了",
+      "onboard_time": 1726450098,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 513575,
@@ -807,6 +831,14 @@
       "num": 501587,
       "word": "台风",
       "onboard_time": 1726302200,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 501309,
+      "num": 515718,
+      "word": "金价猛涨有金店却扛不住了",
+      "onboard_time": 1726455800,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -875,11 +907,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 470952,
-      "num": 736329,
-      "word": "王源慌了",
-      "onboard_time": 1726450098,
-      "rank": 26,
+      "raw_hot": 465932,
+      "num": 531742,
+      "word": "范丞丞去了侃爷试听会",
+      "onboard_time": 1726457720,
+      "rank": 16,
       "category": "演出"
     },
     {
@@ -980,7 +1012,7 @@
     },
     {
       "raw_hot": 405872,
-      "num": 477278,
+      "num": 525714,
       "word": "侃爷试听会偶遇严浩翔",
       "onboard_time": 1726444158,
       "rank": 17,
@@ -1027,14 +1059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 396255,
-      "num": 396255,
-      "word": "苏州台风",
-      "onboard_time": 1726456458,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 395954,
       "num": 395954,
       "word": "疯狂小杨哥未如期开播",
@@ -1059,14 +1083,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 384611,
-      "num": 384611,
-      "word": "城管与大学生店员冲突被停职",
-      "onboard_time": 1726452319,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 382723,
       "num": 444668,
       "word": "上海浙江海域或有4米巨浪",
@@ -1081,6 +1097,14 @@
       "onboard_time": 1726405222,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 380409,
+      "num": 380409,
+      "word": "我愿意为了这样的房子爬七楼",
+      "onboard_time": 1726455679,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 379447,
@@ -1211,14 +1235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 353248,
-      "num": 283061,
-      "word": "我愿意为了这样的房子爬七楼",
-      "onboard_time": 1726455679,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 352901,
       "num": 352901,
       "word": "易烊千玺熟了",
@@ -1299,6 +1315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 330155,
+      "num": 529804,
+      "word": "别让妈妈知道因为她会心疼",
+      "onboard_time": 1726455980,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 323788,
       "num": 323788,
       "word": "凡人歌 破房文学",
@@ -1337,6 +1361,14 @@
       "onboard_time": 1726371258,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 312941,
+      "num": 344154,
+      "word": "田曦薇没钱愣要",
+      "onboard_time": 1726453339,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 310999,
@@ -1465,14 +1497,6 @@
       "onboard_time": 1726453037,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 288429,
-      "num": 344154,
-      "word": "田曦薇没钱愣要",
-      "onboard_time": 1726453339,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 288092,
@@ -1619,14 +1643,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 254828,
-      "num": 283294,
-      "word": "别让妈妈知道因为她会心疼",
-      "onboard_time": 1726455980,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 254187,
       "num": 208858,
       "word": "女子灭蟑螂不料中毒进ICU抢救",
@@ -1697,6 +1713,14 @@
       "onboard_time": 1726417097,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 244483,
+      "num": 244483,
+      "word": "孙颖莎一句yeah震惊许昕",
+      "onboard_time": 1726458019,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 243292,
@@ -1931,6 +1955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 209150,
+      "num": 294353,
+      "word": "章若楠雨霖铃出妆",
+      "onboard_time": 1726456759,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208675,
       "num": 208675,
       "word": "你的善良里藏着你的福气",
@@ -2083,14 +2115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196161,
-      "num": 196161,
-      "word": "章若楠雨霖铃出妆",
-      "onboard_time": 1726456759,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195896,
       "num": 195896,
       "word": "印度公务员考试丧生12人",
@@ -2177,6 +2201,14 @@
       "onboard_time": 1726374377,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189883,
+      "num": 189883,
+      "word": "苏州即将进入风雨最强时段",
+      "onboard_time": 1726458199,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189711,
@@ -2305,6 +2337,14 @@
       "onboard_time": 1726394598,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180243,
+      "num": 180243,
+      "word": "使用筋膜枪避开4个部位",
+      "onboard_time": 1726456340,
+      "rank": 47,
+      "category": "运动健身"
     },
     {
       "raw_hot": 180217,
@@ -2619,6 +2659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159797,
+      "num": 159797,
+      "word": "上海停电",
+      "onboard_time": 1726457899,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159774,
       "num": 159774,
       "word": "牛姐演唱会",
@@ -2819,14 +2867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149923,
-      "num": 515718,
-      "word": "金价猛涨有金店却扛不住了",
-      "onboard_time": 1726455800,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149790,
       "num": 149790,
       "word": "王一博 男孩子矫情点怎么了",
@@ -2979,6 +3019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138967,
+      "num": 138967,
+      "word": "张碧晨 演唱会届的阿拉丁神灯",
+      "onboard_time": 1726456939,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 138600,
       "num": 138600,
       "word": "火箭炮试验时炮弹留膛细节太惊险",
@@ -3091,6 +3139,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 132452,
+      "num": 132452,
+      "word": "剧版镇魂街2定档",
+      "onboard_time": 1726458199,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131077,
       "num": 131077,
       "word": "收到礼物你会第一时间搜价格吗",
@@ -3121,14 +3177,6 @@
       "onboard_time": 1726396760,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 129971,
-      "num": 129971,
-      "word": "使用筋膜枪避开4个部位",
-      "onboard_time": 1726456340,
-      "rank": 47,
-      "category": "运动健身"
     },
     {
       "raw_hot": 129868,
@@ -3185,14 +3233,6 @@
       "onboard_time": 1726358477,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 127444,
-      "num": 127444,
-      "word": "张碧晨 演唱会届的阿拉丁神灯",
-      "onboard_time": 1726456939,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 126645,
@@ -3643,6 +3683,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 63233,
+      "num": 580566,
+      "word": "是时候抄底了",
+      "onboard_time": 1726454000,
+      "rank": 12,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 63113,
       "num": 573626,
       "word": "走私冻品被更换包装分销全国",
@@ -3712,6 +3760,14 @@
       "word": "音乐生军训领唱教官汗流浃背了",
       "onboard_time": 1726420156,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53178,
+      "num": 534163,
+      "word": "台风贝碧嘉带来哪些影响",
+      "onboard_time": 1726458199,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -3809,14 +3865,6 @@
       "onboard_time": 1726410441,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45757,
-      "num": 580566,
-      "word": "是时候抄底了",
-      "onboard_time": 1726454000,
-      "rank": 12,
-      "category": "汽车"
     },
     {
       "raw_hot": 44473,
@@ -4161,6 +4209,14 @@
       "onboard_time": 1726433712,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 17175,
+      "num": 561974,
+      "word": "部分电商也在售卖美诚月饼",
+      "onboard_time": 1726457959,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15649,
