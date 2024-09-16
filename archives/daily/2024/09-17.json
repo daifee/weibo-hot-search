@@ -1,6 +1,6 @@
 {
   "startTime": 1726504063678,
-  "endTime": 1726504063678,
+  "endTime": 1726505094584,
   "band_list": [
     {
       "raw_hot": 1392288,
@@ -27,7 +27,7 @@
       "category": "网红"
     },
     {
-      "raw_hot": 739725,
+      "raw_hot": 775576,
       "num": 283505,
       "word": "秋瓷炫回应儿子中文差",
       "onboard_time": 1726502119,
@@ -57,6 +57,14 @@
       "onboard_time": 1726501040,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 344315,
+      "num": 344315,
+      "word": "王俊凯回重庆过中秋了",
+      "onboard_time": 1726503317,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 329794,
@@ -155,14 +163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 214967,
-      "num": 214967,
-      "word": "王俊凯回重庆过中秋了",
-      "onboard_time": 1726503317,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204467,
       "num": 204467,
       "word": "心动的信号7雄竞5分钟",
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 163846,
-      "num": 163846,
+      "num": 183713,
       "word": "台风贝碧嘉",
       "onboard_time": 1726320202,
       "rank": 23,
@@ -227,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140429,
+      "num": 110382,
+      "word": "Makiyo自曝曾瘦到36公斤",
+      "onboard_time": 1726504758,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125890,
       "num": 125890,
       "word": "为什么带了手套还是满手油",
@@ -249,6 +257,14 @@
       "onboard_time": 1726495940,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118406,
+      "num": 118406,
+      "word": "卢昱晓 小企鹅",
+      "onboard_time": 1726503737,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 117078,
@@ -299,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103683,
+      "num": 103683,
+      "word": "武汉大学瓦片在二手平台被炒至数百元",
+      "onboard_time": 1726502958,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99902,
       "num": 99902,
       "word": "没有目的性的恋爱",
@@ -321,14 +345,6 @@
       "onboard_time": 1726488259,
       "rank": 40,
       "category": "美食"
-    },
-    {
-      "raw_hot": 93524,
-      "num": 93524,
-      "word": "卢昱晓 小企鹅",
-      "onboard_time": 1726503737,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 90073,
@@ -379,20 +395,20 @@
       "category": "社会新闻,汽车"
     },
     {
-      "raw_hot": 78483,
-      "num": 78483,
-      "word": "武汉大学瓦片在二手平台被炒至数百元",
-      "onboard_time": 1726502958,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 78286,
       "num": 78286,
       "word": "台风贝碧嘉即将抵达南京",
       "onboard_time": 1726497559,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62893,
+      "num": 62893,
+      "word": "在青岛追星真的不亚于首尔",
+      "onboard_time": 1726494501,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 14519,

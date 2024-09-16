@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726504063678,
+  "endTime": 1726505094584,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -715,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 775576,
+      "num": 283505,
+      "word": "秋瓷炫回应儿子中文差",
+      "onboard_time": 1726502119,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 770147,
       "num": 770147,
       "word": "社区回应男子疑被台风吹走身亡",
@@ -753,14 +761,6 @@
       "onboard_time": 1726453519,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 739725,
-      "num": 283505,
-      "word": "秋瓷炫回应儿子中文差",
-      "onboard_time": 1726502119,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 738544,
@@ -1819,6 +1819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 344315,
+      "num": 344315,
+      "word": "王俊凯回重庆过中秋了",
+      "onboard_time": 1726503317,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337548,
       "num": 489966,
       "word": "张杰谢娜游艇约会",
@@ -2769,14 +2777,6 @@
       "onboard_time": 1726413979,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 214967,
-      "num": 214967,
-      "word": "王俊凯回重庆过中秋了",
-      "onboard_time": 1726503317,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 214212,
@@ -4555,6 +4555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140429,
+      "num": 110382,
+      "word": "Makiyo自曝曾瘦到36公斤",
+      "onboard_time": 1726504758,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140338,
       "num": 140338,
       "word": "诗情画奕",
@@ -5075,6 +5083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118406,
+      "num": 118406,
+      "word": "卢昱晓 小企鹅",
+      "onboard_time": 1726503737,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118063,
       "num": 118063,
       "word": "程芽芽高中毕业三年带娃经验",
@@ -5387,6 +5403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103683,
+      "num": 103683,
+      "word": "武汉大学瓦片在二手平台被炒至数百元",
+      "onboard_time": 1726502958,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102568,
       "num": 102568,
       "word": "王一博出道10年了",
@@ -5472,14 +5496,6 @@
       "word": "吴磊在吃什么饼",
       "onboard_time": 1726467918,
       "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 93524,
-      "num": 93524,
-      "word": "卢昱晓 小企鹅",
-      "onboard_time": 1726503737,
-      "rank": 41,
       "category": "艺人"
     },
     {
@@ -5584,14 +5600,6 @@
       "word": "官方辟谣上海台风天男子关窗坠楼",
       "onboard_time": 1726495220,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78483,
-      "num": 78483,
-      "word": "武汉大学瓦片在二手平台被炒至数百元",
-      "onboard_time": 1726502958,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
