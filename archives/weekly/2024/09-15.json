@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726450981643,
+  "endTime": 1726452015767,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -155,20 +155,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1461131,
+      "num": 1461131,
+      "word": "男子被砍后反杀凶手一审被判10年",
+      "onboard_time": 1726444158,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1437036,
       "num": 1437036,
       "word": "孙颖莎vs王艺迪",
       "onboard_time": 1726328540,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1425084,
-      "num": 1425084,
-      "word": "男子被砍后反杀凶手一审被判10年",
-      "onboard_time": 1726444158,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1407571,
@@ -267,8 +267,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1127727,
-      "num": 1127727,
+      "raw_hot": 1134335,
+      "num": 1134335,
       "word": "香港美诚月饼生产商回应",
       "onboard_time": 1726446259,
       "rank": 4,
@@ -595,6 +595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 581701,
+      "num": 581701,
+      "word": "周也 侃爷演唱会",
+      "onboard_time": 1726442897,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 576200,
       "num": 576200,
       "word": "教资答案",
@@ -609,14 +617,6 @@
       "onboard_time": 1726388778,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 567620,
-      "num": 567620,
-      "word": "周也 侃爷演唱会",
-      "onboard_time": 1726442897,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 561523,
@@ -803,6 +803,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 481463,
+      "num": 481463,
+      "word": "枪手距特朗普不到457米",
+      "onboard_time": 1726449559,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 473354,
       "num": 473354,
       "word": "四川江油失联姐弟均已遇难",
@@ -844,7 +852,7 @@
     },
     {
       "raw_hot": 432763,
-      "num": 372441,
+      "num": 398612,
       "word": "陈好手机是全是宋茜丑照",
       "onboard_time": 1726441634,
       "rank": 11,
@@ -857,6 +865,22 @@
       "onboard_time": 1726405461,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 426830,
+      "num": 343828,
+      "word": "大一女生竞选班长秀出保安证",
+      "onboard_time": 1726447638,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 420019,
+      "num": 420019,
+      "word": "慕胥辞",
+      "onboard_time": 1726447279,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 418469,
@@ -897,6 +921,14 @@
       "onboard_time": 1726406901,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 405872,
+      "num": 405872,
+      "word": "侃爷试听会偶遇严浩翔",
+      "onboard_time": 1726444158,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 400597,
@@ -955,28 +987,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 390170,
-      "num": 390170,
-      "word": "慕胥辞",
-      "onboard_time": 1726447279,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 387474,
       "num": 438506,
       "word": "菲9701号船多次运补失败后撤离",
       "onboard_time": 1726380857,
       "rank": 26,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 382780,
-      "num": 382780,
-      "word": "侃爷试听会偶遇严浩翔",
-      "onboard_time": 1726444158,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 382723,
@@ -1028,7 +1044,7 @@
     },
     {
       "raw_hot": 370372,
-      "num": 220560,
+      "num": 235383,
       "word": "EDG拒绝和解",
       "onboard_time": 1726441695,
       "rank": 30,
@@ -1163,14 +1179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 343828,
-      "num": 343828,
-      "word": "大一女生竞选班长秀出保安证",
-      "onboard_time": 1726447638,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 334843,
       "num": 334843,
       "word": "陆虎晒婚礼vlog",
@@ -1235,14 +1243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 313727,
-      "num": 479130,
-      "word": "枪手距特朗普不到457米",
-      "onboard_time": 1726449559,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 313663,
       "num": 365144,
       "word": "侯鸿亮说杨洋是展昭的不二人选",
@@ -1257,6 +1257,14 @@
       "onboard_time": 1726384398,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 310164,
+      "num": 310164,
+      "word": "害怕打针把自己埋进医生怀里的小金毛",
+      "onboard_time": 1726446500,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 308131,
@@ -1313,6 +1321,14 @@
       "onboard_time": 1726369157,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298982,
+      "num": 333381,
+      "word": "王源慌了",
+      "onboard_time": 1726450098,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 298418,
@@ -1441,14 +1457,6 @@
       "onboard_time": 1726325962,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 265203,
-      "num": 265203,
-      "word": "害怕打针把自己埋进医生怀里的小金毛",
-      "onboard_time": 1726446500,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 264066,
@@ -1659,12 +1667,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231100,
-      "num": 231100,
-      "word": "王源慌了",
-      "onboard_time": 1726450098,
-      "rank": 26,
-      "category": "演出"
+      "raw_hot": 229841,
+      "num": 222563,
+      "word": "心理学看多了根本吵不起来架",
+      "onboard_time": 1726444457,
+      "rank": 30,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 229345,
@@ -1697,14 +1705,6 @@
       "onboard_time": 1726396580,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 222563,
-      "num": 222563,
-      "word": "心理学看多了根本吵不起来架",
-      "onboard_time": 1726444457,
-      "rank": 30,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 222482,
@@ -2851,6 +2851,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 135196,
+      "num": 135196,
+      "word": "侃爷现场",
+      "onboard_time": 1726442535,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 134690,
       "num": 134690,
       "word": "张朝阳说能拿成绩的运动员都非常聪明",
@@ -3011,14 +3019,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 124377,
-      "num": 124377,
-      "word": "侃爷现场",
-      "onboard_time": 1726442535,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
       "raw_hot": 123567,
       "num": 123567,
       "word": "王源演唱会韩东君人没去照片去了",
@@ -3129,6 +3129,14 @@
       "onboard_time": 1726339452,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110518,
+      "num": 110518,
+      "word": "WTT中国大满贯倒计时10天",
+      "onboard_time": 1726451299,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 110446,
@@ -3251,6 +3259,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102352,
+      "num": 102352,
+      "word": "怎么咬人家尾巴还哈哈大笑",
+      "onboard_time": 1726451959,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 102254,
+      "num": 102254,
+      "word": "涵艺说scout百分百去不了世界赛",
+      "onboard_time": 1726445357,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 101783,
       "num": 101783,
       "word": "乌克兰父子火车站最后一面",
@@ -3265,14 +3289,6 @@
       "onboard_time": 1726376539,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 100165,
-      "num": 100165,
-      "word": "涵艺说scout百分百去不了世界赛",
-      "onboard_time": 1726445357,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 99462,
@@ -3409,6 +3425,14 @@
       "onboard_time": 1726417579,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 65874,
+      "num": 313917,
+      "word": "无侦7高空飞行画面首次公开",
+      "onboard_time": 1726446798,
+      "rank": 23,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 63113,
@@ -3836,7 +3860,7 @@
     },
     {
       "raw_hot": 25916,
-      "num": 391552,
+      "num": 398862,
       "word": "赵继伟篮球之夜见",
       "onboard_time": 1726448418,
       "rank": 14,

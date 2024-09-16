@@ -1,0 +1,410 @@
+{
+  "runTime": 1726452015767,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2919691,
+        "num": 2919691,
+        "word": "贝碧嘉登陆",
+        "onboard_time": 1726444158,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1461131,
+        "num": 1461131,
+        "word": "男子被砍后反杀凶手一审被判10年",
+        "onboard_time": 1726444158,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10941,
+        "num": 1319887,
+        "word": "中国铁路营业里程超16万公里",
+        "onboard_time": 1726405523,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1222369,
+        "num": 1222369,
+        "word": "特朗普打高尔夫一枪手藏在灌木丛",
+        "onboard_time": 1726449259,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1134335,
+        "num": 1134335,
+        "word": "香港美诚月饼生产商回应",
+        "onboard_time": 1726446259,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581701,
+        "num": 581701,
+        "word": "周也 侃爷演唱会",
+        "onboard_time": 1726442897,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 578756,
+        "num": 578756,
+        "word": "凡人歌 大结局",
+        "onboard_time": 1726446438,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 506226,
+        "num": 506226,
+        "word": "上海临港进入台风贝碧嘉十级风圈",
+        "onboard_time": 1726443616,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481463,
+        "num": 481463,
+        "word": "枪手距特朗普不到457米",
+        "onboard_time": 1726449559,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 434317,
+        "num": 434317,
+        "word": "1400年前的月饼还能看到花纹",
+        "onboard_time": 1726444938,
+        "rank": 9,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 421800,
+        "num": 421800,
+        "word": "台风贝碧嘉",
+        "onboard_time": 1726320202,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420019,
+        "num": 420019,
+        "word": "慕胥辞",
+        "onboard_time": 1726447279,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 407492,
+        "num": 407492,
+        "word": "贝碧嘉加强为强台风级",
+        "onboard_time": 1726446137,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405872,
+        "num": 405872,
+        "word": "侃爷试听会偶遇严浩翔",
+        "onboard_time": 1726444158,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21894,
+        "num": 398862,
+        "word": "赵继伟篮球之夜见",
+        "onboard_time": 1726448418,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 398612,
+        "num": 398612,
+        "word": "陈好手机是全是宋茜丑照",
+        "onboard_time": 1726441634,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393476,
+        "num": 393476,
+        "word": "台风贝碧嘉还没走普拉桑又来了",
+        "onboard_time": 1726413321,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347004,
+        "num": 347004,
+        "word": "台风贝碧嘉中心预计将经过苏州",
+        "onboard_time": 1726427232,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341714,
+        "num": 341714,
+        "word": "台风",
+        "onboard_time": 1726302200,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298982,
+        "num": 333381,
+        "word": "王源慌了",
+        "onboard_time": 1726450098,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 426830,
+        "num": 331556,
+        "word": "大一女生竞选班长秀出保安证",
+        "onboard_time": 1726447638,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411998,
+        "num": 329794,
+        "word": "于适 张雨绮",
+        "onboard_time": 1726402521,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 327531,
+        "num": 327531,
+        "word": "87元一晚酒店台风期间涨至600元",
+        "onboard_time": 1726441574,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65874,
+        "num": 313917,
+        "word": "无侦7高空飞行画面首次公开",
+        "onboard_time": 1726446798,
+        "rank": 23,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 310164,
+        "num": 310164,
+        "word": "害怕打针把自己埋进医生怀里的小金毛",
+        "onboard_time": 1726446500,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 287791,
+        "num": 287791,
+        "word": "台风普拉桑生成",
+        "onboard_time": 1726411400,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266510,
+        "num": 266510,
+        "word": "女子轻断食一天吃11个玉米",
+        "onboard_time": 1726411581,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235383,
+        "num": 235383,
+        "word": "EDG拒绝和解",
+        "onboard_time": 1726441695,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 221160,
+        "num": 221160,
+        "word": "终于有古装剧的公主抱不是转圈了",
+        "onboard_time": 1726408341,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172001,
+        "num": 208730,
+        "word": "宋雨琦 没有边界感的前辈",
+        "onboard_time": 1726415180,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229841,
+        "num": 207811,
+        "word": "心理学看多了根本吵不起来架",
+        "onboard_time": 1726444457,
+        "rank": 30,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 206328,
+        "num": 206328,
+        "word": "临港",
+        "onboard_time": 1726449318,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204198,
+        "num": 204198,
+        "word": "妻子为徐少强办后事时心脏病发离世",
+        "onboard_time": 1726406842,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185739,
+        "num": 185739,
+        "word": "鸭嘴指甲",
+        "onboard_time": 1726444278,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 184921,
+        "num": 184921,
+        "word": "为什么鸭子不惧怕台风",
+        "onboard_time": 1726408042,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 38178,
+        "num": 182284,
+        "word": "上海台风",
+        "onboard_time": 1726285940,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163757,
+        "num": 163757,
+        "word": "台风杭州",
+        "onboard_time": 1726445657,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161435,
+        "num": 161435,
+        "word": "Hybe员工吐槽田柾国",
+        "onboard_time": 1726441755,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161115,
+        "num": 161115,
+        "word": "印度公务员考试丧生12人",
+        "onboard_time": 1726441935,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145750,
+        "num": 145750,
+        "word": "孙颖莎冠军",
+        "onboard_time": 1726401802,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136416,
+        "num": 136416,
+        "word": "贝碧嘉",
+        "onboard_time": 1726393040,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135196,
+        "num": 135196,
+        "word": "侃爷现场",
+        "onboard_time": 1726442535,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130277,
+        "num": 130277,
+        "word": "于适工作室发声明",
+        "onboard_time": 1726395980,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129444,
+        "num": 129444,
+        "word": "贝碧嘉路径",
+        "onboard_time": 1726448299,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120529,
+        "num": 120529,
+        "word": "资历越高薪资待遇反不如前",
+        "onboard_time": 1726450098,
+        "rank": 44,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 113825,
+        "num": 113825,
+        "word": "南京台风",
+        "onboard_time": 1726444878,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113228,
+        "num": 113228,
+        "word": "吴谨言竟然不吃猪肉",
+        "onboard_time": 1726408402,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110518,
+        "num": 110518,
+        "word": "WTT中国大满贯倒计时10天",
+        "onboard_time": 1726451299,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102352,
+        "num": 102352,
+        "word": "怎么咬人家尾巴还哈哈大笑",
+        "onboard_time": 1726451959,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102254,
+        "num": 102254,
+        "word": "涵艺说scout百分百去不了世界赛",
+        "onboard_time": 1726445357,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#三次座谈会总书记情系母亲河#"
+    }
+  }
+}
