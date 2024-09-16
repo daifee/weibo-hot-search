@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726483300556,
+  "endTime": 1726485570251,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -1619,6 +1619,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1511549,
+      "num": 532266,
+      "word": "女子吃了冰箱一盘熟牛肉引发败血症",
+      "onboard_time": 1726483699,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1510516,
       "num": 1510516,
       "word": "樊振东贴脸开大盛李豪",
@@ -2513,6 +2521,14 @@
       "onboard_time": 1725963019,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1245181,
+      "num": 1245181,
+      "word": "美心月饼直播间晒报关单",
+      "onboard_time": 1726480940,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1244800,
@@ -4908,7 +4924,7 @@
     },
     {
       "raw_hot": 836616,
-      "num": 510565,
+      "num": 523360,
       "word": "女子下班回家发现大量陌生脚印",
       "onboard_time": 1726479858,
       "rank": 10,
@@ -6419,14 +6435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 686547,
-      "num": 686547,
-      "word": "美心月饼直播间晒报关单",
-      "onboard_time": 1726480940,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 686139,
       "num": 243697,
       "word": "J人和P人做PPT的区别",
@@ -6697,6 +6705,14 @@
       "onboard_time": 1726273281,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 665226,
+      "num": 665226,
+      "word": "中秋晚会节目单",
+      "onboard_time": 1726483880,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 664985,
@@ -7065,6 +7081,14 @@
       "onboard_time": 1725517039,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 640095,
+      "num": 640095,
+      "word": "高雅cp",
+      "onboard_time": 1725367700,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 637939,
@@ -7635,6 +7659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 598912,
+      "num": 598912,
+      "word": "张元英对自己的定位是center",
+      "onboard_time": 1726482017,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 598386,
       "num": 598386,
       "word": "王一博戴小骨头项链",
@@ -7721,14 +7753,6 @@
       "onboard_time": 1726023438,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 594484,
-      "num": 594484,
-      "word": "张元英对自己的定位是center",
-      "onboard_time": 1726482017,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 593853,
@@ -9192,6 +9216,14 @@
       "word": "私企老板被指玩弄多名已婚女下属",
       "onboard_time": 1726377079,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 509283,
+      "num": 509283,
+      "word": "社区回应男子疑被台风吹走身亡",
+      "onboard_time": 1726483219,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -10843,6 +10875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 429939,
+      "num": 429939,
+      "word": "没人能不爱秦岚 总裁也不行",
+      "onboard_time": 1726480638,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 429898,
       "num": 429898,
       "word": "郑秀晶霉霉同框",
@@ -11849,6 +11889,14 @@
       "onboard_time": 1725973342,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 389428,
+      "num": 389428,
+      "word": "章若楠给杨洋指代拍",
+      "onboard_time": 1726484659,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 389416,
@@ -13601,6 +13649,14 @@
       "onboard_time": 1725678859,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 322957,
+      "num": 510697,
+      "word": "中秋假期第2天你在做什么",
+      "onboard_time": 1726479079,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322384,
@@ -16595,14 +16651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 257000,
-      "num": 510697,
-      "word": "中秋假期第2天你在做什么",
-      "onboard_time": 1726479079,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 256961,
       "num": 256961,
       "word": "吴彦姝感谢马龙",
@@ -18675,14 +18723,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 228903,
-      "num": 228903,
-      "word": "高雅cp",
-      "onboard_time": 1725367700,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 228857,
       "num": 228857,
       "word": "阿条姐当年是玩冷兵器的",
@@ -20361,14 +20401,6 @@
       "onboard_time": 1725601939,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 210042,
-      "num": 210042,
-      "word": "没人能不爱秦岚 总裁也不行",
-      "onboard_time": 1726480638,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 209973,
@@ -22617,6 +22649,14 @@
       "onboard_time": 1726147761,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196931,
+      "num": 196931,
+      "word": "上海外卖快递配送已恢复",
+      "onboard_time": 1726483459,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196856,
@@ -25177,6 +25217,14 @@
       "onboard_time": 1726381638,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183828,
+      "num": 183828,
+      "word": "王源一不小心接了口彩带",
+      "onboard_time": 1726482618,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 183794,
@@ -28075,14 +28123,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 167927,
-      "num": 167927,
-      "word": "王源一不小心接了口彩带",
-      "onboard_time": 1726482618,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 167834,
       "num": 167834,
       "word": "和AI过日子是什么体验",
@@ -28369,6 +28409,14 @@
       "onboard_time": 1725793340,
       "rank": 38,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 166449,
+      "num": 166449,
+      "word": "袁娅维说上浪姐和歌手很消耗自己",
+      "onboard_time": 1726484360,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 166399,
@@ -34796,7 +34844,7 @@
     },
     {
       "raw_hot": 132679,
-      "num": 132679,
+      "num": 544992,
       "word": "重庆今年已热热热68天",
       "onboard_time": 1726478719,
       "rank": 49,
@@ -34904,6 +34952,14 @@
       "word": "卖香港月饼网红主播7天掉粉77万",
       "onboard_time": 1726315818,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131939,
+      "num": 131939,
+      "word": "小熊猫独自过马路被家长接走了",
+      "onboard_time": 1726482737,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -35376,14 +35432,6 @@
       "word": "女子和丈夫吵架高空扔下锅碗瓢盆",
       "onboard_time": 1725184998,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129256,
-      "num": 129256,
-      "word": "小熊猫独自过马路被家长接走了",
-      "onboard_time": 1726482737,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -38147,6 +38195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108258,
+      "num": 108258,
+      "word": "任嘉伦白衣舞剑花絮",
+      "onboard_time": 1726485320,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108237,
       "num": 108237,
       "word": "韩媒爆料Scout向经纪公司借钱",
@@ -38577,6 +38633,14 @@
       "onboard_time": 1726012759,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 103979,
+      "num": 103979,
+      "word": "郑北姜小海第一张合影是顾一燃拍的",
+      "onboard_time": 1726485440,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 103924,
@@ -39209,6 +39273,14 @@
       "onboard_time": 1726068923,
       "rank": 46,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 96613,
+      "num": 96613,
+      "word": "以为花少主题曲开头在喊侯明昊",
+      "onboard_time": 1726483518,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 96493,
@@ -39849,6 +39921,14 @@
       "onboard_time": 1725923898,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 87708,
+      "num": 436594,
+      "word": "中秋奇妙游",
+      "onboard_time": 1726485019,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 87623,
@@ -41985,6 +42065,14 @@
       "onboard_time": 1725300433,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57231,
+      "num": 164948,
+      "word": "喜满中秋夜",
+      "onboard_time": 1726485499,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 56985,
@@ -48145,14 +48233,6 @@
       "onboard_time": 1725782660,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 10162,
-      "num": 367120,
-      "word": "社区回应男子疑被台风吹走身亡",
-      "onboard_time": 1726483219,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10124,
