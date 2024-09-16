@@ -1,6 +1,6 @@
 {
   "startTime": 1726417574980,
-  "endTime": 1726461677647,
+  "endTime": 1726464192804,
   "band_list": [
     {
       "raw_hot": 3008475,
@@ -24,6 +24,22 @@
       "word": "上海中心千吨阻尼器摆幅肉眼可见",
       "onboard_time": 1726452379,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1796295,
+      "num": 1796295,
+      "word": "贝碧嘉移入江苏",
+      "onboard_time": 1726463058,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1660176,
+      "num": 1660176,
+      "word": "金店店员3年用铅块偷换45.8kg黄金",
+      "onboard_time": 1726459639,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -83,19 +99,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1132824,
-      "num": 1132824,
-      "word": "金店店员3年用铅块偷换45.8kg黄金",
-      "onboard_time": 1726459639,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1120579,
       "num": 1120579,
       "word": "苏州台风",
       "onboard_time": 1726456458,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1115548,
+      "num": 482422,
+      "word": "国庆前或将一周一个台风",
+      "onboard_time": 1726461320,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -259,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 565803,
+      "num": 565803,
+      "word": "许凯 老头衫和老公衫还是分的清的",
+      "onboard_time": 1726462099,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 561523,
       "num": 561523,
       "word": "上海临港进入台风贝碧嘉十级风圈",
@@ -275,11 +299,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 529133,
+      "num": 529133,
+      "word": "杭州西湖游人风中凌乱",
+      "onboard_time": 1726460539,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 522884,
       "num": 522884,
       "word": "城管与大学生店员冲突被停职",
       "onboard_time": 1726452319,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 520478,
+      "num": 471432,
+      "word": "台风登陆时一流浪狗直接被吹跑",
+      "onboard_time": 1726461739,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -313,6 +353,14 @@
       "onboard_time": 1726457720,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 435566,
+      "num": 435566,
+      "word": "孙颖莎一句yeah震惊许昕",
+      "onboard_time": 1726458019,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 433612,
@@ -355,11 +403,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 419048,
+      "num": 419048,
+      "word": "苏州即将进入风雨最强时段",
+      "onboard_time": 1726458199,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412912,
       "num": 412912,
       "word": "贝碧嘉加强为强台风级",
       "onboard_time": 1726446137,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411607,
+      "num": 479506,
+      "word": "好利来回应员工私自驾驶摩托或被开除",
+      "onboard_time": 1726458740,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -419,6 +483,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 348678,
+      "num": 348678,
+      "word": "林诗栋晒和孙颖莎合照",
+      "onboard_time": 1726464080,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 348249,
+      "num": 451756,
+      "word": "蓝盈莹看到陶昕然的脐环大改观",
+      "onboard_time": 1726460659,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 344773,
       "num": 344773,
       "word": "于正压王鹤棣大奉打更人大爆",
@@ -427,20 +507,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 324421,
-      "num": 324421,
-      "word": "杭州西湖游人风中凌乱",
-      "onboard_time": 1726460539,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 316878,
       "num": 316878,
       "word": "大耀斑爆发",
       "onboard_time": 1726454478,
       "rank": 27,
       "category": "科学科普,自然"
+    },
+    {
+      "raw_hot": 314656,
+      "num": 314656,
+      "word": "谁教黄景瑜这么关车门的",
+      "onboard_time": 1726461980,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 312941,
@@ -457,14 +537,6 @@
       "onboard_time": 1726446500,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 303741,
-      "num": 303741,
-      "word": "孙颖莎一句yeah震惊许昕",
-      "onboard_time": 1726458019,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 298672,
@@ -515,20 +587,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 275225,
-      "num": 275225,
-      "word": "好利来回应员工私自驾驶摩托或被开除",
-      "onboard_time": 1726458740,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 268055,
       "num": 268055,
       "word": "光与夜之恋",
       "onboard_time": 1726459940,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 266116,
+      "num": 327515,
+      "word": "章若楠雨霖铃出妆",
+      "onboard_time": 1726456759,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 262921,
@@ -555,14 +627,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 250929,
-      "num": 250929,
-      "word": "苏州即将进入风雨最强时段",
-      "onboard_time": 1726458199,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 245576,
       "num": 366416,
       "word": "终于有古装剧的公主抱不是转圈了",
@@ -587,14 +651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 231635,
-      "num": 294353,
-      "word": "章若楠雨霖铃出妆",
-      "onboard_time": 1726456759,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 229841,
       "num": 222563,
       "word": "心理学看多了根本吵不起来架",
@@ -611,12 +667,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226416,
-      "num": 239607,
-      "word": "蓝盈莹看到陶昕然的脐环大改观",
-      "onboard_time": 1726460659,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 225637,
+      "num": 225637,
+      "word": "谢广坤儿子百日宴",
+      "onboard_time": 1726459340,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 212050,
@@ -635,6 +691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 209744,
+      "num": 209744,
+      "word": "孙颖莎回应离大满贯就差一步",
+      "onboard_time": 1726463120,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205129,
       "num": 205129,
       "word": "张峻豪海口vlog",
@@ -649,6 +713,14 @@
       "onboard_time": 1726458620,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202213,
+      "num": 561603,
+      "word": "四川汶川突发泥石流",
+      "onboard_time": 1726460659,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200052,
@@ -673,14 +745,6 @@
       "onboard_time": 1726441935,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192521,
-      "num": 192521,
-      "word": "谢广坤儿子百日宴",
-      "onboard_time": 1726459340,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 190805,
@@ -747,12 +811,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173444,
+      "num": 173444,
+      "word": "心动的信号",
+      "onboard_time": 1726461980,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171381,
       "num": 171381,
       "word": "侃爷海口试听会舞台",
       "onboard_time": 1726409961,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 168623,
+      "num": 168623,
+      "word": "贝碧嘉来临前苏州天空变粉色了",
+      "onboard_time": 1726462818,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166834,
@@ -785,14 +865,6 @@
       "onboard_time": 1726412781,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 164242,
-      "num": 164242,
-      "word": "国庆前或将一周一个台风",
-      "onboard_time": 1726461320,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162812,
@@ -849,6 +921,14 @@
       "onboard_time": 1726444878,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151225,
+      "num": 151225,
+      "word": "狗子的嘴都快嚼成快板了",
+      "onboard_time": 1726462099,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 150890,
@@ -923,6 +1003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 138523,
+      "num": 138523,
+      "word": "180斤记者在沪浙交界处被吹得凌乱了",
+      "onboard_time": 1726463839,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138273,
       "num": 138273,
       "word": "剧版镇魂街2定档",
@@ -945,6 +1033,14 @@
       "onboard_time": 1726442535,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134428,
+      "num": 134428,
+      "word": "广州美诚申请香港美诚商标被驳回复审",
+      "onboard_time": 1726461739,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132660,
@@ -1139,12 +1235,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 82485,
-      "num": 561603,
-      "word": "四川汶川突发泥石流",
-      "onboard_time": 1726460659,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 78101,
+      "num": 377484,
+      "word": "流水迢迢中秋菊蟹宴",
+      "onboard_time": 1726462940,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 77692,
@@ -1331,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28202,
+      "num": 306376,
+      "word": "里斯本丸沉没 中国渔民",
+      "onboard_time": 1726459820,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 27058,
       "num": 494904,
       "word": "大数据看中秋假期",
@@ -1385,11 +1489,22 @@
       "onboard_time": 1726436351,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1807,
+      "num": 1164071,
+      "word": "人民军队淬火成钢",
+      "onboard_time": 1726380919,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#三次座谈会总书记情系母亲河#"
+    },
+    {
+      "word": "#习近平总书记的中秋节日祝福#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1726464192804,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1796295,
+        "num": 1796295,
+        "word": "贝碧嘉移入江苏",
+        "onboard_time": 1726463058,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1660176,
+        "num": 1660176,
+        "word": "金店店员3年用铅块偷换45.8kg黄金",
+        "onboard_time": 1726459639,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1807,
+        "num": 1164071,
+        "word": "人民军队淬火成钢",
+        "onboard_time": 1726380919,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 975493,
+        "num": 975493,
+        "word": "苏州台风",
+        "onboard_time": 1726456458,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 892431,
+        "num": 892431,
+        "word": "贝碧嘉登陆",
+        "onboard_time": 1726444158,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582475,
+        "num": 582475,
+        "word": "2024央视中秋晚会阵容",
+        "onboard_time": 1726458859,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 565803,
+        "num": 565803,
+        "word": "许凯 老头衫和老公衫还是分的清的",
+        "onboard_time": 1726462099,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529133,
+        "num": 529133,
+        "word": "杭州西湖游人风中凌乱",
+        "onboard_time": 1726460539,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489041,
+        "num": 489041,
+        "word": "别让妈妈知道因为她会心疼",
+        "onboard_time": 1726455980,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 882007,
+        "num": 488224,
+        "word": "直击14级台风贝碧嘉破坏力",
+        "onboard_time": 1726452017,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1231071,
+        "num": 485154,
+        "word": "金价猛涨有金店却扛不住了",
+        "onboard_time": 1726455800,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1115548,
+        "num": 482422,
+        "word": "国庆前或将一周一个台风",
+        "onboard_time": 1726461320,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6541,
+        "num": 481852,
+        "word": "中国铁路营业里程超16万公里",
+        "onboard_time": 1726405523,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411607,
+        "num": 479506,
+        "word": "好利来回应员工私自驾驶摩托或被开除",
+        "onboard_time": 1726458740,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 918420,
+        "num": 476386,
+        "word": "上海停电",
+        "onboard_time": 1726457899,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730454,
+        "num": 473456,
+        "word": "上海中心千吨阻尼器摆幅肉眼可见",
+        "onboard_time": 1726452379,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520478,
+        "num": 471432,
+        "word": "台风登陆时一流浪狗直接被吹跑",
+        "onboard_time": 1726461739,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471198,
+        "num": 471198,
+        "word": "台风贝碧嘉",
+        "onboard_time": 1726320202,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348249,
+        "num": 451756,
+        "word": "蓝盈莹看到陶昕然的脐环大改观",
+        "onboard_time": 1726460659,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323850,
+        "num": 439184,
+        "word": "王源慌了",
+        "onboard_time": 1726450098,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 435566,
+        "num": 435566,
+        "word": "孙颖莎一句yeah震惊许昕",
+        "onboard_time": 1726458019,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 419048,
+        "num": 419048,
+        "word": "苏州即将进入风雨最强时段",
+        "onboard_time": 1726458199,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78101,
+        "num": 377484,
+        "word": "流水迢迢中秋菊蟹宴",
+        "onboard_time": 1726462940,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348678,
+        "num": 348678,
+        "word": "林诗栋晒和孙颖莎合照",
+        "onboard_time": 1726464080,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266116,
+        "num": 327515,
+        "word": "章若楠雨霖铃出妆",
+        "onboard_time": 1726456759,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317473,
+        "num": 317473,
+        "word": "台风",
+        "onboard_time": 1726302200,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314656,
+        "num": 314656,
+        "word": "谁教黄景瑜这么关车门的",
+        "onboard_time": 1726461980,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314486,
+        "num": 314486,
+        "word": "贝碧嘉正横穿上海",
+        "onboard_time": 1726455740,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229699,
+        "num": 309423,
+        "word": "金晨说从来不怕变胖",
+        "onboard_time": 1726458387,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28202,
+        "num": 306376,
+        "word": "里斯本丸沉没 中国渔民",
+        "onboard_time": 1726459820,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 305671,
+        "num": 305671,
+        "word": "我愿意为了这样的房子爬七楼",
+        "onboard_time": 1726455679,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262637,
+        "num": 262637,
+        "word": "男子被砍后反杀凶手一审被判10年",
+        "onboard_time": 1726444158,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225637,
+        "num": 225637,
+        "word": "谢广坤儿子百日宴",
+        "onboard_time": 1726459340,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221072,
+        "num": 221072,
+        "word": "范丞丞去了侃爷试听会",
+        "onboard_time": 1726457720,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 216369,
+        "num": 216369,
+        "word": "使用筋膜枪避开4个部位",
+        "onboard_time": 1726456340,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 211220,
+        "num": 211220,
+        "word": "吴彦姝感谢马龙",
+        "onboard_time": 1726460238,
+        "rank": 35,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 209744,
+        "num": 209744,
+        "word": "孙颖莎回应离大满贯就差一步",
+        "onboard_time": 1726463120,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226598,
+        "num": 208342,
+        "word": "特朗普打高尔夫一枪手藏在灌木丛",
+        "onboard_time": 1726449259,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 203041,
+        "num": 203041,
+        "word": "枪手距特朗普不到457米",
+        "onboard_time": 1726449559,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 202213,
+        "num": 202213,
+        "word": "四川汶川突发泥石流",
+        "onboard_time": 1726460659,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198566,
+        "num": 198566,
+        "word": "周也 侃爷演唱会",
+        "onboard_time": 1726442897,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173444,
+        "num": 173444,
+        "word": "心动的信号",
+        "onboard_time": 1726461980,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168623,
+        "num": 168623,
+        "word": "贝碧嘉来临前苏州天空变粉色了",
+        "onboard_time": 1726462818,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163523,
+        "num": 163523,
+        "word": "香港美诚月饼生产商回应",
+        "onboard_time": 1726446259,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151225,
+        "num": 151225,
+        "word": "狗子的嘴都快嚼成快板了",
+        "onboard_time": 1726462099,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196817,
+        "num": 150593,
+        "word": "侃爷演唱会",
+        "onboard_time": 1726446858,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141286,
+        "num": 141286,
+        "word": "台风贝碧嘉还没走普拉桑又来了",
+        "onboard_time": 1726413321,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138523,
+        "num": 138523,
+        "word": "180斤记者在沪浙交界处被吹得凌乱了",
+        "onboard_time": 1726463839,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134428,
+        "num": 134428,
+        "word": "广州美诚申请香港美诚商标被驳回复审",
+        "onboard_time": 1726461739,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131467,
+        "num": 131467,
+        "word": "EDG拒绝和解",
+        "onboard_time": 1726441695,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记的中秋节日祝福#"
+    }
+  }
+}
