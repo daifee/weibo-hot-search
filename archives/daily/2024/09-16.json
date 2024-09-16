@@ -1,6 +1,6 @@
 {
   "startTime": 1726417574980,
-  "endTime": 1726465237512,
+  "endTime": 1726468267700,
   "band_list": [
     {
       "raw_hot": 3008475,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1296851,
-      "num": 482422,
+      "num": 543079,
       "word": "国庆前或将一周一个台风",
       "onboard_time": 1726461320,
       "rank": 44,
@@ -81,6 +81,14 @@
       "onboard_time": 1726457899,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1188674,
+      "num": 1188674,
+      "word": "特朗普公然宣称憎恨泰勒斯威夫特",
+      "onboard_time": 1726466000,
+      "rank": 1,
+      "category": "国外时政,作品衍生"
     },
     {
       "raw_hot": 1147352,
@@ -112,6 +120,14 @@
       "word": "苏州台风",
       "onboard_time": 1726456458,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1016129,
+      "num": 550713,
+      "word": "上海外卖",
+      "onboard_time": 1726465519,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -153,6 +169,14 @@
       "onboard_time": 1726413441,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 802622,
+      "num": 802622,
+      "word": "谁教黄景瑜这么关车门的",
+      "onboard_time": 1726461980,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 769507,
@@ -347,8 +371,8 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 486640,
-      "num": 419048,
+      "raw_hot": 487790,
+      "num": 487790,
       "word": "苏州即将进入风雨最强时段",
       "onboard_time": 1726458199,
       "rank": 37,
@@ -361,6 +385,14 @@
       "onboard_time": 1726401802,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 472820,
+      "num": 472820,
+      "word": "刘能媳妇吻上谢广坤",
+      "onboard_time": 1726466000,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 465932,
@@ -507,12 +539,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 340566,
-      "num": 340566,
-      "word": "谁教黄景瑜这么关车门的",
-      "onboard_time": 1726461980,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 322104,
+      "num": 322104,
+      "word": "无锡台风",
+      "onboard_time": 1726467379,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316878,
@@ -659,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230285,
+      "num": 230285,
+      "word": "解放军开直升机挑战极限画面曝光",
+      "onboard_time": 1726464499,
+      "rank": 46,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 229841,
       "num": 222563,
       "word": "心理学看多了根本吵不起来架",
@@ -673,6 +713,14 @@
       "onboard_time": 1726449318,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226239,
+      "num": 238067,
+      "word": "易烊千玺给工作室送的7岁生日祝福",
+      "onboard_time": 1726465938,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 220461,
@@ -731,12 +779,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201587,
+      "num": 201587,
+      "word": "180斤记者在沪浙交界处被吹得凌乱了",
+      "onboard_time": 1726463839,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200052,
       "num": 200052,
       "word": "电影焚城定档",
       "onboard_time": 1726455619,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199682,
+      "num": 199682,
+      "word": "苏州200米高空看台风来临",
+      "onboard_time": 1726465819,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199283,
@@ -777,14 +841,6 @@
       "onboard_time": 1726416440,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 184583,
-      "num": 184583,
-      "word": "180斤记者在沪浙交界处被吹得凌乱了",
-      "onboard_time": 1726463839,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183426,
@@ -833,6 +889,22 @@
       "onboard_time": 1726461980,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172686,
+      "num": 172686,
+      "word": "万吨大驱单挑外军舰队细节首次披露",
+      "onboard_time": 1726466598,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 171894,
+      "num": 171894,
+      "word": "贝碧嘉今夜进入安徽",
+      "onboard_time": 1726466358,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171381,
@@ -979,6 +1051,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146199,
+      "num": 146199,
+      "word": "默杀网播",
+      "onboard_time": 1726466960,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 146078,
+      "num": 146078,
+      "word": "上海电力回应",
+      "onboard_time": 1726467678,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144367,
+      "num": 144367,
+      "word": "贝碧嘉对上海影响有多大",
+      "onboard_time": 1726465159,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143876,
       "num": 143876,
       "word": "断供房贷被冷处理",
@@ -1067,12 +1163,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 135040,
-      "num": 135040,
-      "word": "解放军开直升机挑战极限画面曝光",
-      "onboard_time": 1726464499,
-      "rank": 46,
-      "category": "国内时政,军事"
+      "raw_hot": 134662,
+      "num": 134662,
+      "word": "梁王组合公开赛训练",
+      "onboard_time": 1726467858,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 132660,
@@ -1099,12 +1195,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 128465,
-      "num": 128465,
-      "word": "贝碧嘉对上海影响有多大",
-      "onboard_time": 1726465159,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 128357,
+      "num": 416658,
+      "word": "凡人歌带火凡人歌",
+      "onboard_time": 1726466720,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 125996,
@@ -1145,6 +1241,14 @@
       "onboard_time": 1726460539,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 120500,
+      "num": 120500,
+      "word": "直击台风救援现场",
+      "onboard_time": 1726468159,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120069,
@@ -1217,6 +1321,14 @@
       "onboard_time": 1726418417,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 104250,
+      "num": 606432,
+      "word": "美诚月饼生产厂家多次被罚",
+      "onboard_time": 1726467019,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102352,
@@ -1403,6 +1515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 51484,
+      "num": 477085,
+      "word": "骑友忆香港遇车祸身亡的广东女骑手",
+      "onboard_time": 1726466538,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49691,
       "num": 49691,
       "word": "北京最大灯会亮灯",
@@ -1451,6 +1571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 31767,
+      "num": 146121,
+      "word": "吴磊在吃什么饼",
+      "onboard_time": 1726467918,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30963,
       "num": 30963,
       "word": "我是代表来自人民",
@@ -1492,7 +1620,7 @@
     },
     {
       "raw_hot": 27735,
-      "num": 845147,
+      "num": 906415,
       "word": "文化中国行看文物里的中秋",
       "onboard_time": 1726464259,
       "rank": 2,
