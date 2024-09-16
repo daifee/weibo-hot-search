@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726469073198,
+  "endTime": 1726471258193,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -235,7 +235,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1367403,
+      "raw_hot": 1372281,
       "num": 1367403,
       "word": "特朗普公然宣称憎恨泰勒斯威夫特",
       "onboard_time": 1726466000,
@@ -387,6 +387,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1091017,
+      "num": 1091017,
+      "word": "甜馨11岁近照",
+      "onboard_time": 1726468878,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1075319,
       "num": 1075319,
       "word": "不敢相信这是陈卓璇",
@@ -465,6 +473,14 @@
       "onboard_time": 1726377739,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 842588,
+      "num": 842588,
+      "word": "贝碧嘉几乎是以巅峰强度登陆",
+      "onboard_time": 1726468698,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 824124,
@@ -585,6 +601,14 @@
       "onboard_time": 1726389558,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 706619,
+      "num": 706619,
+      "word": "曾黎47岁最后一次爬山",
+      "onboard_time": 1726468279,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 704309,
@@ -761,6 +785,14 @@
       "onboard_time": 1726383979,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 577834,
+      "num": 577834,
+      "word": "苏州的结界",
+      "onboard_time": 1726470018,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 576200,
@@ -1467,6 +1499,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 327536,
+      "num": 356892,
+      "word": "李荣浩杨丞琳挽手逛家具店",
+      "onboard_time": 1726470320,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 327021,
+      "num": 327021,
+      "word": "张杰谢娜游艇约会",
+      "onboard_time": 1726469300,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 323788,
       "num": 323788,
       "word": "凡人歌 破房文学",
@@ -1611,6 +1659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 293947,
+      "num": 293947,
+      "word": "中国人用针在纸上绣画",
+      "onboard_time": 1726470079,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293093,
       "num": 293093,
       "word": "螃蟹就吃二两母",
@@ -1665,14 +1721,6 @@
       "onboard_time": 1726456340,
       "rank": 47,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 284410,
-      "num": 194290,
-      "word": "甜馨11岁近照",
-      "onboard_time": 1726468878,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 283173,
@@ -1801,6 +1849,14 @@
       "onboard_time": 1726408341,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 259714,
+      "num": 259714,
+      "word": "这个中秋圈圈圆圆圈圈",
+      "onboard_time": 1726470258,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257789,
@@ -2155,6 +2211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 211490,
+      "num": 211490,
+      "word": "张泽禹张极朱志鑫被袁娅维认可了",
+      "onboard_time": 1726469479,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211270,
       "num": 211270,
       "word": "徐正溪回归娱乐圈的原因",
@@ -2201,6 +2265,14 @@
       "onboard_time": 1726365558,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207196,
+      "num": 606432,
+      "word": "美诚月饼生产厂家多次被罚",
+      "onboard_time": 1726467019,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207080,
@@ -2305,6 +2377,14 @@
       "onboard_time": 1726463839,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200866,
+      "num": 200866,
+      "word": "王者S37赛季即将开启",
+      "onboard_time": 1726468939,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 200568,
@@ -2491,6 +2571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187621,
+      "num": 187621,
+      "word": "在图书馆被塞小纸条了",
+      "onboard_time": 1726470079,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186805,
       "num": 463633,
       "word": "宋佳演的张桂梅",
@@ -2643,14 +2731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177342,
-      "num": 177342,
-      "word": "王者S37赛季即将开启",
-      "onboard_time": 1726468939,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 176579,
       "num": 176579,
       "word": "孙颖莎夺冠后找奖杯",
@@ -2715,6 +2795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173544,
+      "num": 173544,
+      "word": "长期睡眠不足影响脑健康",
+      "onboard_time": 1726469119,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 173503,
       "num": 173503,
       "word": "王俊凯演技",
@@ -2740,7 +2828,7 @@
     },
     {
       "raw_hot": 171894,
-      "num": 171894,
+      "num": 357716,
       "word": "贝碧嘉今夜进入安徽",
       "onboard_time": 1726466358,
       "rank": 35,
@@ -2952,14 +3040,6 @@
       "word": "贝碧嘉路径",
       "onboard_time": 1726448299,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160089,
-      "num": 160089,
-      "word": "贝碧嘉几乎是以巅峰强度登陆",
-      "onboard_time": 1726468698,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -3235,6 +3315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145675,
+      "num": 145675,
+      "word": "林诗栋19岁也不年轻了逗笑全场",
+      "onboard_time": 1726470380,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145541,
       "num": 145541,
       "word": "苏新皓 腹肌",
@@ -3249,6 +3337,14 @@
       "onboard_time": 1726376839,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144817,
+      "num": 144817,
+      "word": "高达",
+      "onboard_time": 1726468878,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 144367,
@@ -3273,14 +3369,6 @@
       "onboard_time": 1726396340,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143334,
-      "num": 380551,
-      "word": "曾黎47岁最后一次爬山",
-      "onboard_time": 1726468279,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 143166,
@@ -3371,14 +3459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140008,
-      "num": 140008,
-      "word": "高达",
-      "onboard_time": 1726468878,
-      "rank": 43,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 140001,
       "num": 140001,
       "word": "马来西亚新闻报道尤长靖披哥3冠王",
@@ -3433,6 +3513,14 @@
       "onboard_time": 1726373119,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 137393,
+      "num": 137393,
+      "word": "王一博用电钻的一把好手",
+      "onboard_time": 1726470140,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 136927,
@@ -3563,6 +3651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129996,
+      "num": 129996,
+      "word": "台风中心已移入无锡",
+      "onboard_time": 1726471219,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129868,
       "num": 129868,
       "word": "白宇 快成表演赛了都别太当真",
@@ -3649,6 +3745,14 @@
       "onboard_time": 1726390037,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 123938,
+      "num": 123938,
+      "word": "这是教官最想回部队的一次",
+      "onboard_time": 1726470859,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 123567,
@@ -3745,6 +3849,14 @@
       "onboard_time": 1726391898,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115459,
+      "num": 115459,
+      "word": "2024KPL夏决勇闯巅峰冠军之夜",
+      "onboard_time": 1726471098,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 114918,
@@ -3915,14 +4027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104250,
-      "num": 606432,
-      "word": "美诚月饼生产厂家多次被罚",
-      "onboard_time": 1726467019,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102568,
       "num": 102568,
       "word": "王一博出道10年了",
@@ -4041,6 +4145,22 @@
       "onboard_time": 1726413019,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82335,
+      "num": 358695,
+      "word": "菲海警船撤离中国仙宾礁现场",
+      "onboard_time": 1726470799,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 80099,
+      "num": 357057,
+      "word": "吴磊在吃什么饼",
+      "onboard_time": 1726467918,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 78466,
@@ -4289,14 +4409,6 @@
       "onboard_time": 1726370058,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47753,
-      "num": 302370,
-      "word": "吴磊在吃什么饼",
-      "onboard_time": 1726467918,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 46983,
@@ -4572,7 +4684,7 @@
     },
     {
       "raw_hot": 27735,
-      "num": 906415,
+      "num": 954638,
       "word": "文化中国行看文物里的中秋",
       "onboard_time": 1726464259,
       "rank": 2,
