@@ -1,0 +1,410 @@
+{
+  "runTime": 1726479643932,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1537767,
+        "num": 1537767,
+        "word": "贝碧嘉几乎是以巅峰强度登陆",
+        "onboard_time": 1726468698,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1026247,
+        "num": 1026247,
+        "word": "邱贻可晒与孙颖莎合影",
+        "onboard_time": 1726476078,
+        "rank": 1,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 20808,
+        "num": 773581,
+        "word": "服贸会探馆直播",
+        "onboard_time": 1726471878,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 661914,
+        "num": 661914,
+        "word": "贝碧嘉移入江苏",
+        "onboard_time": 1726463058,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 635077,
+        "num": 635077,
+        "word": "非洲小哥搬出铁扇公主卖扇子",
+        "onboard_time": 1726474998,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541253,
+        "num": 541253,
+        "word": "曾黎47岁最后一次爬山",
+        "onboard_time": 1726468279,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468075,
+        "num": 468075,
+        "word": "苏州的结界",
+        "onboard_time": 1726470018,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445021,
+        "num": 445021,
+        "word": "鞠婧祎头戴簪花",
+        "onboard_time": 1726477038,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388005,
+        "num": 444338,
+        "word": "南派三叔说被骂十年很委屈",
+        "onboard_time": 1726478119,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13506,
+        "num": 441278,
+        "word": "独居女子下班回家看到陌生脚印",
+        "onboard_time": 1726479499,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 815342,
+        "num": 440322,
+        "word": "特朗普公然宣称憎恨霉霉",
+        "onboard_time": 1726471579,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 710570,
+        "num": 437503,
+        "word": "甜馨11岁近照",
+        "onboard_time": 1726468878,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436661,
+        "num": 436661,
+        "word": "苏州台风",
+        "onboard_time": 1726456458,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424519,
+        "num": 424519,
+        "word": "金价猛涨有金店却扛不住了",
+        "onboard_time": 1726455800,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366884,
+        "num": 366884,
+        "word": "金店店员3年用铅块偷换45.8kg黄金",
+        "onboard_time": 1726459639,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413335,
+        "num": 366469,
+        "word": "常州台风",
+        "onboard_time": 1726477218,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363920,
+        "num": 363920,
+        "word": "台风贝碧嘉",
+        "onboard_time": 1726320202,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230547,
+        "num": 332973,
+        "word": "半熟男女是装腔启示录姊妹篇",
+        "onboard_time": 1726472657,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220847,
+        "num": 326244,
+        "word": "程芽芽 暗爽哥",
+        "onboard_time": 1726473319,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213244,
+        "num": 324530,
+        "word": "慕胥辞官微掉粉",
+        "onboard_time": 1726475178,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323635,
+        "num": 323635,
+        "word": "曾志伟拒回应美诚月饼事件",
+        "onboard_time": 1726477758,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 305764,
+        "num": 305764,
+        "word": "台风中心已移入无锡",
+        "onboard_time": 1726471219,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223843,
+        "num": 223843,
+        "word": "无糖月饼千万不要多吃",
+        "onboard_time": 1726472960,
+        "rank": 22,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 214212,
+        "num": 214212,
+        "word": "孙颖莎林诗栋 圆脸姐弟",
+        "onboard_time": 1726476798,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210685,
+        "num": 210685,
+        "word": "谁教黄景瑜这么关车门的",
+        "onboard_time": 1726461980,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204789,
+        "num": 204789,
+        "word": "贝碧嘉登陆",
+        "onboard_time": 1726444158,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194013,
+        "num": 194013,
+        "word": "明天可买10月1日火车票",
+        "onboard_time": 1726472420,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190990,
+        "num": 190990,
+        "word": "台风",
+        "onboard_time": 1726302200,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187459,
+        "num": 187459,
+        "word": "张凌赫赵今麦 做对了饭",
+        "onboard_time": 1726479198,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167487,
+        "num": 185529,
+        "word": "李荣浩杨丞琳挽手逛家具店",
+        "onboard_time": 1726470320,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189545,
+        "num": 185405,
+        "word": "什么是真正有效休息",
+        "onboard_time": 1726477038,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 185129,
+        "num": 185129,
+        "word": "台风中心将在南京停留2到3小时",
+        "onboard_time": 1726478658,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182676,
+        "num": 182676,
+        "word": "兰州大学在校研究生总量首超本科生",
+        "onboard_time": 1726478839,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 174360,
+        "num": 174360,
+        "word": "1元月饼好吃吗",
+        "onboard_time": 1726476979,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 149604,
+        "num": 149604,
+        "word": "井柏然晒粉发",
+        "onboard_time": 1726478900,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148312,
+        "num": 148312,
+        "word": "儿童追逐窜出马路遭车辆碾压",
+        "onboard_time": 1726477818,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137059,
+        "num": 137059,
+        "word": "消费者苦直播带货虚假宣传久矣",
+        "onboard_time": 1726476619,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131618,
+        "num": 131618,
+        "word": "台风普拉桑或再奔江浙沪",
+        "onboard_time": 1726473439,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129843,
+        "num": 129843,
+        "word": "野孩子",
+        "onboard_time": 1726476859,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129572,
+        "num": 129572,
+        "word": "伯远 你直接报王耀庆身份证号得了",
+        "onboard_time": 1726475060,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126205,
+        "num": 126205,
+        "word": "周深比嫦娥的出镜率还高",
+        "onboard_time": 1726477940,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125915,
+        "num": 125915,
+        "word": "诗情画奕",
+        "onboard_time": 1726479499,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125093,
+        "num": 125093,
+        "word": "张杰谢娜游艇约会",
+        "onboard_time": 1726469300,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123811,
+        "num": 123811,
+        "word": "国庆前或将一周一个台风",
+        "onboard_time": 1726461320,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121020,
+        "num": 121020,
+        "word": "令人心动的offer6的女性群像",
+        "onboard_time": 1726479138,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30351,
+        "num": 118148,
+        "word": "超龄劳动者遭遇工伤公司应担责",
+        "onboard_time": 1726477578,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115865,
+        "num": 115865,
+        "word": "中秋假期第2天你在做什么",
+        "onboard_time": 1726479079,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108593,
+        "num": 108593,
+        "word": "中秋超级月亮最佳观赏时间",
+        "onboard_time": 1726478359,
+        "rank": 47,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 107547,
+        "num": 107547,
+        "word": "重庆今年已热热热68天",
+        "onboard_time": 1726478719,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105551,
+        "num": 105551,
+        "word": "南派三叔 吴邪寿命梗",
+        "onboard_time": 1726476019,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记的中秋节日祝福#"
+    }
+  }
+}
