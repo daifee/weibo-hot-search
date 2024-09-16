@@ -1,6 +1,6 @@
 {
   "startTime": 1726504063678,
-  "endTime": 1726514257897,
+  "endTime": 1726515317060,
   "band_list": [
     {
       "raw_hot": 1392288,
@@ -467,8 +467,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 29589,
-      "num": 29589,
+      "raw_hot": 31159,
+      "num": 31159,
       "word": "五月天 成都二开",
       "onboard_time": 1726513633,
       "rank": 32,
@@ -491,7 +491,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22751,
+      "raw_hot": 23840,
       "num": 24672,
       "word": "巴音布鲁克草原再现云海奇观",
       "onboard_time": 1726512672,
@@ -505,6 +505,14 @@
       "onboard_time": 1726508833,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19602,
+      "num": 22203,
+      "word": "侃爷 告诉过你",
+      "onboard_time": 1726515251,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 16544,
@@ -536,6 +544,14 @@
       "word": "古人的中秋打卡照氛围感满满",
       "onboard_time": 1726511293,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11362,
+      "num": 45398,
+      "word": "中秋彩灯还是太全面了",
+      "onboard_time": 1726514532,
+      "rank": 9,
       "category": "社会新闻"
     }
   ],

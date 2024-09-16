@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726514257897,
+  "endTime": 1726515317060,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -6131,6 +6131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 31159,
+      "num": 31159,
+      "word": "五月天 成都二开",
+      "onboard_time": 1726513633,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 30963,
       "num": 30963,
       "word": "我是代表来自人民",
@@ -6169,14 +6177,6 @@
       "onboard_time": 1726435331,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29589,
-      "num": 29589,
-      "word": "五月天 成都二开",
-      "onboard_time": 1726513633,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 29444,
@@ -6275,6 +6275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23840,
+      "num": 24672,
+      "word": "巴音布鲁克草原再现云海奇观",
+      "onboard_time": 1726512672,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 23362,
       "num": 365358,
       "word": "水泡村庄4个月种田人改当钓鱼佬",
@@ -6289,14 +6297,6 @@
       "onboard_time": 1726343471,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22751,
-      "num": 24672,
-      "word": "巴音布鲁克草原再现云海奇观",
-      "onboard_time": 1726512672,
-      "rank": 45,
-      "category": "旅游"
     },
     {
       "raw_hot": 22680,
@@ -6329,6 +6329,14 @@
       "onboard_time": 1726380198,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 19602,
+      "num": 22203,
+      "word": "侃爷 告诉过你",
+      "onboard_time": 1726515251,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 19234,
@@ -6409,6 +6417,14 @@
       "onboard_time": 1726389320,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11362,
+      "num": 45398,
+      "word": "中秋彩灯还是太全面了",
+      "onboard_time": 1726514532,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11329,
