@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726528773593,
+  "endTime": 1726529760122,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -217,6 +217,14 @@
       "onboard_time": 1726407442,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1490682,
+      "num": 1490682,
+      "word": "鹿晗连续八年为关晓彤庆生",
+      "onboard_time": 1726527854,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1471152,
@@ -505,14 +513,6 @@
       "onboard_time": 1726323264,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1047504,
-      "num": 1047504,
-      "word": "鹿晗连续八年为关晓彤庆生",
-      "onboard_time": 1726527854,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1043401,
@@ -1491,6 +1491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 417908,
+      "num": 417908,
+      "word": "中秋节",
+      "onboard_time": 1726527854,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417835,
       "num": 417835,
       "word": "晋江致歉",
@@ -1537,14 +1545,6 @@
       "onboard_time": 1726444158,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 404060,
-      "num": 404060,
-      "word": "中秋节",
-      "onboard_time": 1726527854,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 401344,
@@ -1923,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321508,
+      "num": 111162,
+      "word": "中秋节快乐",
+      "onboard_time": 1726527913,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316878,
       "num": 316878,
       "word": "大耀斑爆发",
@@ -2075,14 +2083,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 298245,
-      "num": 106067,
-      "word": "中秋节快乐",
-      "onboard_time": 1726527913,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 296166,
       "num": 296166,
       "word": "06年小学老师的一天",
@@ -2169,6 +2169,14 @@
       "onboard_time": 1726456340,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 285187,
+      "num": 202169,
+      "word": "彭小苒在太子妃赛道一骑绝尘",
+      "onboard_time": 1726527734,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 283173,
@@ -2345,6 +2353,14 @@
       "onboard_time": 1726444878,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259746,
+      "num": 259746,
+      "word": "iOS18正式版",
+      "onboard_time": 1726528334,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 259714,
@@ -2739,6 +2755,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 220854,
+      "num": 499594,
+      "word": "高压电线因台风坠落致两快递员被电",
+      "onboard_time": 1726495940,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220461,
       "num": 220461,
       "word": "广州美诚申请香港美诚商标被驳回复审",
@@ -2795,14 +2819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 217088,
-      "num": 172310,
-      "word": "彭小苒在太子妃赛道一骑绝尘",
-      "onboard_time": 1726527734,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 216607,
       "num": 216607,
       "word": "徐卓一110米栏夺冠",
@@ -2817,14 +2833,6 @@
       "onboard_time": 1726413979,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 215124,
-      "num": 499594,
-      "word": "高压电线因台风坠落致两快递员被电",
-      "onboard_time": 1726495940,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 214212,
@@ -4459,6 +4467,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 144715,
+      "num": 144715,
+      "word": "中秋收到了公司发的陶瓷月饼",
+      "onboard_time": 1726528575,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144367,
       "num": 144367,
       "word": "贝碧嘉对上海影响有多大",
@@ -4609,6 +4625,14 @@
       "onboard_time": 1726504758,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140384,
+      "num": 140384,
+      "word": "邓超 录综艺是为了给别人带来快乐",
+      "onboard_time": 1726519452,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 140338,
@@ -4931,14 +4955,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 128319,
-      "num": 128319,
-      "word": "iOS18正式版",
-      "onboard_time": 1726528334,
-      "rank": 17,
-      "category": "数码"
-    },
-    {
       "raw_hot": 128307,
       "num": 128307,
       "word": "张凌赫撑伞神图缔造者",
@@ -5219,14 +5235,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 115271,
-      "num": 115271,
-      "word": "邓超 录综艺是为了给别人带来快乐",
-      "onboard_time": 1726519452,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 114918,
       "num": 116698,
       "word": "张家齐去看王源演唱会了",
@@ -5403,12 +5411,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107289,
+      "num": 107289,
+      "word": "美国将砸16亿美元全球抹黑中国",
+      "onboard_time": 1726528394,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 106708,
       "num": 106708,
       "word": "许嵩重庆演唱会",
       "onboard_time": 1726418417,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106282,
+      "num": 106282,
+      "word": "中秋晚会观众席的王楚然",
+      "onboard_time": 1726527794,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 105968,
@@ -5523,6 +5547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99456,
+      "num": 99456,
+      "word": "任嘉伦徐正溪 两张权臣脸",
+      "onboard_time": 1726527734,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98503,
       "num": 98503,
       "word": "以为花少主题曲开头在喊侯明昊",
@@ -5577,14 +5609,6 @@
       "onboard_time": 1726355536,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91130,
-      "num": 91130,
-      "word": "中秋收到了公司发的陶瓷月饼",
-      "onboard_time": 1726528575,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90741,
@@ -5643,14 +5667,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 85548,
-      "num": 85548,
-      "word": "中秋晚会观众席的王楚然",
-      "onboard_time": 1726527794,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 83367,
       "num": 552813,
       "word": "住建局回应女孩坠井父亲阻拦施救",
@@ -5691,6 +5707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77911,
+      "num": 77911,
+      "word": "男子3岁失踪34年后与母亲团圆",
+      "onboard_time": 1726528695,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77692,
       "num": 77692,
       "word": "凡人歌",
@@ -5705,6 +5729,14 @@
       "onboard_time": 1726332377,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76114,
+      "num": 76114,
+      "word": "生日收到大鹅花束是什么感觉",
+      "onboard_time": 1726510933,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 76074,
@@ -5779,12 +5811,12 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 65648,
-      "num": 65648,
-      "word": "美国将砸16亿美元全球抹黑中国",
-      "onboard_time": 1726528394,
-      "rank": 33,
-      "category": "国外时政"
+      "raw_hot": 65408,
+      "num": 65408,
+      "word": "黄景瑜这幕让我有点犯困",
+      "onboard_time": 1726526713,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 63233,
@@ -5827,14 +5859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 61000,
-      "num": 61000,
-      "word": "生日收到大鹅花束是什么感觉",
-      "onboard_time": 1726510933,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 60603,
       "num": 1588208,
       "word": "北京是中华文明有力见证",
@@ -5859,28 +5883,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59601,
-      "num": 59601,
-      "word": "男子3岁失踪34年后与母亲团圆",
-      "onboard_time": 1726528695,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 57519,
       "num": 57519,
       "word": "这居然是尤长靖",
       "onboard_time": 1726312040,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 56845,
-      "num": 56845,
-      "word": "任嘉伦徐正溪 两张权臣脸",
-      "onboard_time": 1726527734,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 56601,
@@ -5913,14 +5921,6 @@
       "onboard_time": 1726458199,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52266,
-      "num": 52266,
-      "word": "黄景瑜这幕让我有点犯困",
-      "onboard_time": 1726526713,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 51945,
@@ -5968,6 +5968,14 @@
       "word": "北京最大灯会亮灯",
       "onboard_time": 1726436051,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49597,
+      "num": 49597,
+      "word": "律师称小杨哥或涉嫌虚假宣传",
+      "onboard_time": 1726529356,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -6564,7 +6572,7 @@
     },
     {
       "raw_hot": 13379,
-      "num": 323442,
+      "num": 327582,
       "word": "这就是黄河",
       "onboard_time": 1726495279,
       "rank": 2,
