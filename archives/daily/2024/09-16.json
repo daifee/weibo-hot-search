@@ -1,6 +1,6 @@
 {
   "startTime": 1726417574980,
-  "endTime": 1726452015767,
+  "endTime": 1726455394306,
   "band_list": [
     {
       "raw_hot": 3008475,
@@ -8,6 +8,22 @@
       "word": "贝碧嘉登陆",
       "onboard_time": 1726444158,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2809075,
+      "num": 2809075,
+      "word": "直击14级台风贝碧嘉破坏力",
+      "onboard_time": 1726452017,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1824617,
+      "num": 1824617,
+      "word": "上海中心千吨阻尼器摆幅肉眼可见",
+      "onboard_time": 1726452379,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -24,6 +40,14 @@
       "word": "特朗普打高尔夫一枪手藏在灌木丛",
       "onboard_time": 1726449259,
       "rank": 3,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1147352,
+      "num": 1147352,
+      "word": "枪手距特朗普不到457米",
+      "onboard_time": 1726449559,
+      "rank": 9,
       "category": "国外时政"
     },
     {
@@ -99,6 +123,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 667178,
+      "num": 667178,
+      "word": "孙颖莎林诗栋拍冠军城市宣传照",
+      "onboard_time": 1726453759,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 664685,
+      "num": 686269,
+      "word": "周也 侃爷演唱会",
+      "onboard_time": 1726442897,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 618721,
       "num": 618721,
       "word": "87元一晚酒店台风期间涨至600元",
@@ -108,7 +148,7 @@
     },
     {
       "raw_hot": 612251,
-      "num": 612251,
+      "num": 670858,
       "word": "凡人歌 大结局",
       "onboard_time": 1726446438,
       "rank": 5,
@@ -131,19 +171,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 581701,
-      "num": 581701,
-      "word": "周也 侃爷演唱会",
-      "onboard_time": 1726442897,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 565944,
       "num": 565944,
       "word": "贝碧嘉",
       "onboard_time": 1726393040,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 562173,
+      "num": 562173,
+      "word": "台风贝碧嘉",
+      "onboard_time": 1726320202,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -179,19 +219,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 481463,
-      "num": 481463,
-      "word": "枪手距特朗普不到457米",
-      "onboard_time": 1726449559,
+      "raw_hot": 475722,
+      "num": 667339,
+      "word": "上海浦东滴水湖12级以上强风",
+      "onboard_time": 1726453519,
       "rank": 9,
-      "category": "国外时政"
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 470221,
-      "num": 470221,
-      "word": "台风贝碧嘉",
-      "onboard_time": 1726320202,
-      "rank": 12,
+      "raw_hot": 438790,
+      "num": 327138,
+      "word": "内地女网红在香港骑行遇车祸身亡",
+      "onboard_time": 1726454359,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -225,6 +265,14 @@
       "onboard_time": 1726447279,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 413275,
+      "num": 413275,
+      "word": "王源慌了",
+      "onboard_time": 1726450098,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 412912,
@@ -268,7 +316,7 @@
     },
     {
       "raw_hot": 370372,
-      "num": 235383,
+      "num": 248972,
       "word": "EDG拒绝和解",
       "onboard_time": 1726441695,
       "rank": 30,
@@ -307,12 +355,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 298982,
-      "num": 333381,
-      "word": "王源慌了",
-      "onboard_time": 1726450098,
-      "rank": 26,
-      "category": "演出"
+      "raw_hot": 303832,
+      "num": 303832,
+      "word": "城管与大学生店员冲突被停职",
+      "onboard_time": 1726452319,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 289268,
@@ -323,12 +371,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288432,
+      "num": 331123,
+      "word": "成毅代言亨氏",
+      "onboard_time": 1726453037,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262921,
       "num": 262921,
       "word": "吴谨言竟然不吃猪肉",
       "onboard_time": 1726408402,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258744,
+      "num": 258744,
+      "word": "大耀斑爆发",
+      "onboard_time": 1726454478,
+      "rank": 27,
+      "category": "科学科普,自然"
     },
     {
       "raw_hot": 251345,
@@ -363,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 234048,
+      "num": 250957,
+      "word": "侃爷演唱会",
+      "onboard_time": 1726446858,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 229841,
       "num": 222563,
       "word": "心理学看多了根本吵不起来架",
@@ -395,6 +467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 206703,
+      "num": 249165,
+      "word": "田曦薇没钱愣要",
+      "onboard_time": 1726453339,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205129,
       "num": 205129,
       "word": "张峻豪海口vlog",
@@ -416,6 +496,14 @@
       "word": "印度公务员考试丧生12人",
       "onboard_time": 1726441935,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193672,
+      "num": 193672,
+      "word": "台风现场白茫茫一片记者睁不开眼",
+      "onboard_time": 1726454840,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -475,12 +563,36 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 166077,
+      "num": 166077,
+      "word": "上海外卖生鲜配送服务已因台风暂停",
+      "onboard_time": 1726452739,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165262,
+      "num": 165262,
+      "word": "真实电竞发文",
+      "onboard_time": 1726452017,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 164768,
       "num": 164768,
       "word": "张雨绮脱口秀",
       "onboard_time": 1726412781,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162812,
+      "num": 162812,
+      "word": "南京地铁",
+      "onboard_time": 1726453218,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162419,
@@ -584,6 +696,14 @@
       "word": "林诗栋说不会有什么庆祝",
       "onboard_time": 1726415541,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 136046,
+      "num": 136046,
+      "word": "孙颖莎夺冠后找奖杯",
+      "onboard_time": 1726455141,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -875,6 +995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45757,
+      "num": 580566,
+      "word": "是时候抄底了",
+      "onboard_time": 1726454000,
+      "rank": 12,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 41736,
       "num": 41736,
       "word": "流水迢迢偷感官配",
@@ -924,7 +1052,7 @@
     },
     {
       "raw_hot": 29596,
-      "num": 1319887,
+      "num": 1580585,
       "word": "中国铁路营业里程超16万公里",
       "onboard_time": 1726405523,
       "rank": 2,

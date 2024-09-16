@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726452015767,
+  "endTime": 1726455394306,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -27,6 +27,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2809075,
+      "num": 2809075,
+      "word": "直击14级台风贝碧嘉破坏力",
+      "onboard_time": 1726452017,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2581535,
       "num": 2581535,
       "word": "徐少强去世",
@@ -48,6 +56,14 @@
       "word": "男子用筋膜枪按摩眼睛视力仅余0.1",
       "onboard_time": 1726396221,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1824617,
+      "num": 1824617,
+      "word": "上海中心千吨阻尼器摆幅肉眼可见",
+      "onboard_time": 1726452379,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -249,6 +265,14 @@
       "onboard_time": 1726387399,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1147352,
+      "num": 1147352,
+      "word": "枪手距特朗普不到457米",
+      "onboard_time": 1726449559,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1143468,
@@ -467,6 +491,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 667178,
+      "num": 667178,
+      "word": "孙颖莎林诗栋拍冠军城市宣传照",
+      "onboard_time": 1726453759,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 664685,
+      "num": 686269,
+      "word": "周也 侃爷演唱会",
+      "onboard_time": 1726442897,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 663838,
       "num": 663838,
       "word": "网红餐饮收尸人最高月入几十万",
@@ -548,7 +588,7 @@
     },
     {
       "raw_hot": 612251,
-      "num": 612251,
+      "num": 670858,
       "word": "凡人歌 大结局",
       "onboard_time": 1726446438,
       "rank": 5,
@@ -595,14 +635,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 581701,
-      "num": 581701,
-      "word": "周也 侃爷演唱会",
-      "onboard_time": 1726442897,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 576200,
       "num": 576200,
       "word": "教资答案",
@@ -617,6 +649,14 @@
       "onboard_time": 1726388778,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 562173,
+      "num": 562173,
+      "word": "台风贝碧嘉",
+      "onboard_time": 1726320202,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 561523,
@@ -803,12 +843,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 481463,
-      "num": 481463,
-      "word": "枪手距特朗普不到457米",
-      "onboard_time": 1726449559,
+      "raw_hot": 475722,
+      "num": 667339,
+      "word": "上海浦东滴水湖12级以上强风",
+      "onboard_time": 1726453519,
       "rank": 9,
-      "category": "国外时政"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 473354,
@@ -816,14 +856,6 @@
       "word": "四川江油失联姐弟均已遇难",
       "onboard_time": 1726323142,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 471312,
-      "num": 471312,
-      "word": "台风贝碧嘉",
-      "onboard_time": 1726320202,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -849,6 +881,14 @@
       "onboard_time": 1726374259,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 438790,
+      "num": 327138,
+      "word": "内地女网红在香港骑行遇车祸身亡",
+      "onboard_time": 1726454359,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 432763,
@@ -897,6 +937,14 @@
       "onboard_time": 1726362858,
       "rank": 5,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 413275,
+      "num": 413275,
+      "word": "王源慌了",
+      "onboard_time": 1726450098,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 413079,
@@ -1044,7 +1092,7 @@
     },
     {
       "raw_hot": 370372,
-      "num": 235383,
+      "num": 248972,
       "word": "EDG拒绝和解",
       "onboard_time": 1726441695,
       "rank": 30,
@@ -1299,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303832,
+      "num": 303832,
+      "word": "城管与大学生店员冲突被停职",
+      "onboard_time": 1726452319,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303585,
       "num": 444348,
       "word": "中秋假期第1天或迎铁路客流高峰",
@@ -1321,14 +1377,6 @@
       "onboard_time": 1726369157,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 298982,
-      "num": 333381,
-      "word": "王源慌了",
-      "onboard_time": 1726450098,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 298418,
@@ -1369,6 +1417,14 @@
       "onboard_time": 1726425133,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288432,
+      "num": 331123,
+      "word": "成毅代言亨氏",
+      "onboard_time": 1726453037,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 288092,
@@ -1481,6 +1537,14 @@
       "onboard_time": 1726408341,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 258744,
+      "num": 258744,
+      "word": "大耀斑爆发",
+      "onboard_time": 1726454478,
+      "rank": 27,
+      "category": "科学科普,自然"
     },
     {
       "raw_hot": 257789,
@@ -1657,6 +1721,14 @@
       "onboard_time": 1726411461,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 234048,
+      "num": 250957,
+      "word": "侃爷演唱会",
+      "onboard_time": 1726446858,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 231852,
@@ -1843,6 +1915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206703,
+      "num": 249165,
+      "word": "田曦薇没钱愣要",
+      "onboard_time": 1726453339,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206521,
       "num": 193881,
       "word": "雪迷宫一个伏笔埋了23集",
@@ -2009,6 +2089,14 @@
       "onboard_time": 1726394479,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 193672,
+      "num": 193672,
+      "word": "台风现场白茫茫一片记者睁不开眼",
+      "onboard_time": 1726454840,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192809,
@@ -2347,12 +2435,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166077,
+      "num": 166077,
+      "word": "上海外卖生鲜配送服务已因台风暂停",
+      "onboard_time": 1726452739,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165438,
       "num": 264669,
       "word": "于洋是看着范丞丞黄明昊长大的",
       "onboard_time": 1726373058,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165262,
+      "num": 165262,
+      "word": "真实电竞发文",
+      "onboard_time": 1726452017,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 165129,
@@ -2376,6 +2480,14 @@
       "word": "专家称调休使人难以归家违背传统",
       "onboard_time": 1726368017,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162812,
+      "num": 162812,
+      "word": "南京地铁",
+      "onboard_time": 1726453218,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -2841,6 +2953,14 @@
       "onboard_time": 1726361118,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136046,
+      "num": 136046,
+      "word": "孙颖莎夺冠后找奖杯",
+      "onboard_time": 1726455141,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 135266,
@@ -3601,6 +3721,14 @@
       "onboard_time": 1726410441,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45757,
+      "num": 580566,
+      "word": "是时候抄底了",
+      "onboard_time": 1726454000,
+      "rank": 12,
+      "category": "汽车"
     },
     {
       "raw_hot": 44473,
