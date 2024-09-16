@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726493363164,
+  "endTime": 1726494038857,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1452797,
+      "num": 1452797,
+      "word": "妈妈在50多岁才摘掉节育环",
+      "onboard_time": 1726488559,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1438391,
       "num": 1438391,
       "word": "金价猛涨有金店却扛不住了",
@@ -233,14 +241,6 @@
       "onboard_time": 1726328540,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1422018,
-      "num": 1422018,
-      "word": "妈妈在50多岁才摘掉节育环",
-      "onboard_time": 1726488559,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 1407571,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 974764,
-      "num": 508052,
+      "num": 807500,
       "word": "边伯贤室内吸烟",
       "onboard_time": 1726486279,
       "rank": 27,
@@ -1107,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 527489,
+      "num": 455911,
+      "word": "陈丽君和陈丽君好配啊",
+      "onboard_time": 1726490840,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 522884,
       "num": 522884,
       "word": "城管与大学生店员冲突被停职",
@@ -1203,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 498572,
+      "num": 415689,
+      "word": "曾之乔孕肚照",
+      "onboard_time": 1726492340,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 493042,
       "num": 493042,
       "word": "李荣浩杨丞琳挽手逛家具店",
@@ -1289,14 +1305,6 @@
       "onboard_time": 1726457720,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 455911,
-      "num": 455911,
-      "word": "陈丽君和陈丽君好配啊",
-      "onboard_time": 1726490840,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 454238,
@@ -1433,14 +1441,6 @@
       "onboard_time": 1726444158,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 403074,
-      "num": 403074,
-      "word": "曾之乔孕肚照",
-      "onboard_time": 1726492340,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 400597,
@@ -1881,6 +1881,14 @@
       "onboard_time": 1726362858,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301377,
+      "num": 301377,
+      "word": "吴艳妮全锦赛夺冠",
+      "onboard_time": 1726493480,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 301188,
@@ -2387,6 +2395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237271,
+      "num": 237271,
+      "word": "边伯贤为在澳门室内吸烟道歉",
+      "onboard_time": 1726493720,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236622,
       "num": 320359,
       "word": "鞠婧祎一字肩蓝色长裙",
@@ -2561,6 +2577,14 @@
       "onboard_time": 1726317502,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 217589,
+      "num": 217589,
+      "word": "毓言cp",
+      "onboard_time": 1726493360,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 215750,
@@ -2835,6 +2859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199805,
+      "num": 199805,
+      "word": "周深 小电驴登月",
+      "onboard_time": 1726492940,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199682,
       "num": 199682,
       "word": "苏州200米高空看台风来临",
@@ -2963,6 +2995,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193520,
+      "num": 193520,
+      "word": "周深创意演唱少管我",
+      "onboard_time": 1726493539,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192934,
+      "num": 409776,
+      "word": "这主持圈算是让宋轶闯进去了",
+      "onboard_time": 1726493599,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192809,
       "num": 192809,
       "word": "马嘉祺假期下厨vlog",
@@ -3065,6 +3113,14 @@
       "onboard_time": 1726409901,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 186313,
+      "num": 186313,
+      "word": "出生3天的婴儿在消防员怀里熟睡",
+      "onboard_time": 1726490899,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186169,
@@ -3177,14 +3233,6 @@
       "onboard_time": 1726302019,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 179938,
-      "num": 179938,
-      "word": "出生3天的婴儿在消防员怀里熟睡",
-      "onboard_time": 1726490899,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179258,
@@ -3315,6 +3363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173898,
+      "num": 173898,
+      "word": "学生没填不回家信息表被宿管深夜驱赶",
+      "onboard_time": 1726493539,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173544,
       "num": 173544,
       "word": "长期睡眠不足影响脑健康",
@@ -3345,6 +3401,22 @@
       "onboard_time": 1726466598,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 172676,
+      "num": 172676,
+      "word": "高雅cp互关",
+      "onboard_time": 1726488740,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 172083,
+      "num": 172083,
+      "word": "月亮",
+      "onboard_time": 1726487960,
+      "rank": 36,
+      "category": "自然"
     },
     {
       "raw_hot": 171894,
@@ -3489,14 +3561,6 @@
       "onboard_time": 1726473439,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166154,
-      "num": 166154,
-      "word": "月亮",
-      "onboard_time": 1726487960,
-      "rank": 36,
-      "category": "自然"
     },
     {
       "raw_hot": 166077,
@@ -3659,14 +3723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160474,
-      "num": 157940,
-      "word": "周深 小电驴登月",
-      "onboard_time": 1726492940,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 160291,
       "num": 160291,
       "word": "贝碧嘉路径",
@@ -3745,14 +3801,6 @@
       "onboard_time": 1726492221,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 157806,
-      "num": 157806,
-      "word": "高雅cp互关",
-      "onboard_time": 1726488740,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 157774,
@@ -3899,6 +3947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151819,
+      "num": 151819,
+      "word": "为什么带了手套还是满手油",
+      "onboard_time": 1726492998,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 151815,
       "num": 151815,
       "word": "南京台风",
@@ -3913,6 +3969,14 @@
       "onboard_time": 1726398561,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 151474,
+      "num": 151474,
+      "word": "男子吐槽排骨带鸡皮被店家反怼",
+      "onboard_time": 1726492821,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150820,
@@ -4009,6 +4073,14 @@
       "onboard_time": 1726361357,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 145518,
+      "num": 145518,
+      "word": "小米回应南京南站附近SU7着火",
+      "onboard_time": 1726493662,
+      "rank": 48,
+      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 145387,
@@ -4475,14 +4547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128886,
-      "num": 128886,
-      "word": "为什么带了手套还是满手油",
-      "onboard_time": 1726492998,
-      "rank": 46,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 128379,
       "num": 128379,
       "word": "黑瞎子 糖果总归是会蛀牙的",
@@ -4697,14 +4761,6 @@
       "onboard_time": 1726481419,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 118084,
-      "num": 118084,
-      "word": "男子吐槽排骨带鸡皮被店家反怼",
-      "onboard_time": 1726492821,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118063,
@@ -5339,6 +5395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56254,
+      "num": 489935,
+      "word": "央视曝光房屋托管骗局",
+      "onboard_time": 1726493061,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55975,
       "num": 536502,
       "word": "香港美诚月饼商标注册不满一年",
@@ -5513,14 +5577,6 @@
       "onboard_time": 1726341671,
       "rank": 40,
       "category": "美食"
-    },
-    {
-      "raw_hot": 39635,
-      "num": 489935,
-      "word": "央视曝光房屋托管骗局",
-      "onboard_time": 1726493061,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39179,
@@ -5896,6 +5952,14 @@
       "word": "人民军队淬火向前",
       "onboard_time": 1726081931,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9437,
+      "num": 323299,
+      "word": "金价猛涨有人套现40多万",
+      "onboard_time": 1726494021,
+      "rank": 19,
       "category": "社会新闻"
     },
     {

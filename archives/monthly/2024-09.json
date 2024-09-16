@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726493363164,
+  "endTime": 1726494038857,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -1883,6 +1883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1452797,
+      "num": 1452797,
+      "word": "妈妈在50多岁才摘掉节育环",
+      "onboard_time": 1726488559,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1448626,
       "num": 546748,
       "word": "寺庙网红猫咪被香客一拳打飞",
@@ -2001,14 +2009,6 @@
       "onboard_time": 1725794781,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1422018,
-      "num": 1422018,
-      "word": "妈妈在50多岁才摘掉节育环",
-      "onboard_time": 1726488559,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 1417432,
@@ -3964,7 +3964,7 @@
     },
     {
       "raw_hot": 974764,
-      "num": 508052,
+      "num": 807500,
       "word": "边伯贤室内吸烟",
       "onboard_time": 1726486279,
       "rank": 27,
@@ -8915,6 +8915,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 527489,
+      "num": 455911,
+      "word": "陈丽君和陈丽君好配啊",
+      "onboard_time": 1726490840,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 527425,
       "num": 431011,
       "word": "一岁幼童学走路摔了一跤中风了",
@@ -9505,6 +9513,14 @@
       "onboard_time": 1726112060,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 498572,
+      "num": 415689,
+      "word": "曾之乔孕肚照",
+      "onboard_time": 1726492340,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 498534,
@@ -10409,14 +10425,6 @@
       "onboard_time": 1725713119,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 455911,
-      "num": 455911,
-      "word": "陈丽君和陈丽君好配啊",
-      "onboard_time": 1726490840,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 455700,
@@ -11633,14 +11641,6 @@
       "onboard_time": 1725503297,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 403074,
-      "num": 403074,
-      "word": "曾之乔孕肚照",
-      "onboard_time": 1726492340,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 402961,
@@ -14505,6 +14505,14 @@
       "onboard_time": 1725694939,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 301377,
+      "num": 301377,
+      "word": "吴艳妮全锦赛夺冠",
+      "onboard_time": 1726493480,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 301188,
@@ -18115,6 +18123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237271,
+      "num": 237271,
+      "word": "边伯贤为在澳门室内吸烟道歉",
+      "onboard_time": 1726493720,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236975,
       "num": 236975,
       "word": "第五人格",
@@ -19809,6 +19825,14 @@
       "onboard_time": 1725372322,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217589,
+      "num": 217589,
+      "word": "毓言cp",
+      "onboard_time": 1726493360,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 217528,
@@ -22227,6 +22251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199805,
+      "num": 199805,
+      "word": "周深 小电驴登月",
+      "onboard_time": 1726492940,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199788,
       "num": 199788,
       "word": "老九门2能请赵丽颖吗",
@@ -23531,6 +23563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 193520,
+      "num": 193520,
+      "word": "周深创意演唱少管我",
+      "onboard_time": 1726493539,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193498,
       "num": 279480,
       "word": "朱志鑫最终战的礼物是有光",
@@ -23609,6 +23649,14 @@
       "onboard_time": 1725426860,
       "rank": 43,
       "category": "网红,互联网"
+    },
+    {
+      "raw_hot": 192934,
+      "num": 409776,
+      "word": "这主持圈算是让宋轶闯进去了",
+      "onboard_time": 1726493599,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 192913,
@@ -24891,6 +24939,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 186313,
+      "num": 186313,
+      "word": "出生3天的婴儿在消防员怀里熟睡",
+      "onboard_time": 1726490899,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186280,
       "num": 186280,
       "word": "女子月子里通宵带娃还被家暴",
@@ -26025,14 +26081,6 @@
       "onboard_time": 1725804680,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 179938,
-      "num": 179938,
-      "word": "出生3天的婴儿在消防员怀里熟睡",
-      "onboard_time": 1726490899,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179926,
@@ -27251,6 +27299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173898,
+      "num": 173898,
+      "word": "学生没填不回家信息表被宿管深夜驱赶",
+      "onboard_time": 1726493539,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173879,
       "num": 213985,
       "word": "胡歌唐嫣拍了繁花番外",
@@ -27539,6 +27595,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 172676,
+      "num": 172676,
+      "word": "高雅cp互关",
+      "onboard_time": 1726488740,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172638,
       "num": 172638,
       "word": "梁伟铿 有在好好恢复训练",
@@ -27617,6 +27681,14 @@
       "onboard_time": 1725952400,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 172083,
+      "num": 172083,
+      "word": "月亮",
+      "onboard_time": 1726487960,
+      "rank": 36,
+      "category": "自然"
     },
     {
       "raw_hot": 171930,
@@ -28657,14 +28729,6 @@
       "onboard_time": 1725425961,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 166154,
-      "num": 166154,
-      "word": "月亮",
-      "onboard_time": 1726487960,
-      "rank": 36,
-      "category": "自然"
     },
     {
       "raw_hot": 166143,
@@ -29755,14 +29819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160474,
-      "num": 157940,
-      "word": "周深 小电驴登月",
-      "onboard_time": 1726492940,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 160291,
       "num": 160291,
       "word": "贝碧嘉路径",
@@ -30337,14 +30393,6 @@
       "onboard_time": 1725716301,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157806,
-      "num": 157806,
-      "word": "高雅cp互关",
-      "onboard_time": 1726488740,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 157774,
@@ -31555,6 +31603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151819,
+      "num": 151819,
+      "word": "为什么带了手套还是满手油",
+      "onboard_time": 1726492998,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 151817,
       "num": 151817,
       "word": "苹果中国官网显示为Apple智能预备好",
@@ -31649,6 +31705,14 @@
       "onboard_time": 1725611719,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 151474,
+      "num": 151474,
+      "word": "男子吐槽排骨带鸡皮被店家反怼",
+      "onboard_time": 1726492821,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151404,
@@ -32809,6 +32873,14 @@
       "onboard_time": 1725210075,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145518,
+      "num": 145518,
+      "word": "小米回应南京南站附近SU7着火",
+      "onboard_time": 1726493662,
+      "rank": 48,
+      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 145395,
@@ -35771,14 +35843,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 128886,
-      "num": 128886,
-      "word": "为什么带了手套还是满手油",
-      "onboard_time": 1726492998,
-      "rank": 46,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 128869,
       "num": 128869,
       "word": "汪苏泷晒演唱会大合照",
@@ -37304,14 +37368,6 @@
       "word": "398元烫发套餐结账成2477元",
       "onboard_time": 1726149800,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118084,
-      "num": 118084,
-      "word": "男子吐槽排骨带鸡皮被店家反怼",
-      "onboard_time": 1726492821,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -42531,6 +42587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56254,
+      "num": 489935,
+      "word": "央视曝光房屋托管骗局",
+      "onboard_time": 1726493061,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56240,
       "num": 361467,
       "word": "因标价错误造成损失由谁担责",
@@ -44577,14 +44641,6 @@
       "onboard_time": 1725987856,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 39635,
-      "num": 489935,
-      "word": "央视曝光房屋托管骗局",
-      "onboard_time": 1726493061,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39557,
@@ -48601,6 +48657,14 @@
       "onboard_time": 1726227203,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 9437,
+      "num": 323299,
+      "word": "金价猛涨有人套现40多万",
+      "onboard_time": 1726494021,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8948,
