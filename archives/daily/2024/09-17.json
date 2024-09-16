@@ -1,6 +1,6 @@
 {
   "startTime": 1726504063678,
-  "endTime": 1726515317060,
+  "endTime": 1726518134154,
   "band_list": [
     {
       "raw_hot": 1392288,
@@ -491,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23902,
+      "num": 23902,
+      "word": "侃爷 告诉过你",
+      "onboard_time": 1726515251,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 23840,
       "num": 24672,
       "word": "巴音布鲁克草原再现云海奇观",
@@ -507,12 +515,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19602,
-      "num": 22203,
-      "word": "侃爷 告诉过你",
-      "onboard_time": 1726515251,
-      "rank": 49,
-      "category": "演出"
+      "raw_hot": 21001,
+      "num": 21001,
+      "word": "旅客携带96只白蚁蚁后入境被查",
+      "onboard_time": 1726516391,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18530,
+      "num": 45398,
+      "word": "中秋彩灯还是太全面了",
+      "onboard_time": 1726514532,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16544,
@@ -547,10 +563,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11362,
-      "num": 45398,
-      "word": "中秋彩灯还是太全面了",
-      "onboard_time": 1726514532,
+      "raw_hot": 8659,
+      "num": 40477,
+      "word": "这份时隔24年的特殊团聚让人泪目",
+      "onboard_time": 1726517351,
       "rank": 9,
       "category": "社会新闻"
     }

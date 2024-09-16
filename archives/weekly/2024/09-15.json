@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726515317060,
+  "endTime": 1726518134154,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -6275,6 +6275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23902,
+      "num": 23902,
+      "word": "侃爷 告诉过你",
+      "onboard_time": 1726515251,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 23840,
       "num": 24672,
       "word": "巴音布鲁克草原再现云海奇观",
@@ -6315,6 +6323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21001,
+      "num": 21001,
+      "word": "旅客携带96只白蚁蚁后入境被查",
+      "onboard_time": 1726516391,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20925,
       "num": 1095326,
       "word": "服贸会探馆直播",
@@ -6331,19 +6347,19 @@
       "category": "财经"
     },
     {
-      "raw_hot": 19602,
-      "num": 22203,
-      "word": "侃爷 告诉过你",
-      "onboard_time": 1726515251,
-      "rank": 49,
-      "category": "演出"
-    },
-    {
       "raw_hot": 19234,
       "num": 617497,
       "word": "文化中国行中秋赏灯会",
       "onboard_time": 1726322121,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18530,
+      "num": 45398,
+      "word": "中秋彩灯还是太全面了",
+      "onboard_time": 1726514532,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -6419,14 +6435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 11362,
-      "num": 45398,
-      "word": "中秋彩灯还是太全面了",
-      "onboard_time": 1726514532,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 11329,
       "num": 62033,
       "word": "古人的青铜器太全面了",
@@ -6440,6 +6448,14 @@
       "word": "人民军队淬火向前",
       "onboard_time": 1726081931,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8659,
+      "num": 40477,
+      "word": "这份时隔24年的特殊团聚让人泪目",
+      "onboard_time": 1726517351,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
