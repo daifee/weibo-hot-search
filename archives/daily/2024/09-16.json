@@ -1,6 +1,6 @@
 {
   "startTime": 1726417574980,
-  "endTime": 1726455394306,
+  "endTime": 1726455936413,
   "band_list": [
     {
       "raw_hot": 3008475,
@@ -11,16 +11,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2809075,
-      "num": 2809075,
+      "raw_hot": 2956890,
+      "num": 2956890,
       "word": "直击14级台风贝碧嘉破坏力",
       "onboard_time": 1726452017,
       "rank": 0,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1824617,
-      "num": 1824617,
+      "raw_hot": 1945224,
+      "num": 1945224,
       "word": "上海中心千吨阻尼器摆幅肉眼可见",
       "onboard_time": 1726452379,
       "rank": 1,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 692340,
+      "num": 692340,
+      "word": "孙颖莎林诗栋拍冠军城市宣传照",
+      "onboard_time": 1726453759,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 683785,
       "num": 585709,
       "word": "于适工作室发声明",
@@ -123,20 +131,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 667178,
-      "num": 667178,
-      "word": "孙颖莎林诗栋拍冠军城市宣传照",
-      "onboard_time": 1726453759,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 664685,
-      "num": 686269,
+      "num": 691386,
       "word": "周也 侃爷演唱会",
       "onboard_time": 1726442897,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 658903,
+      "num": 691249,
+      "word": "上海浦东滴水湖12级以上强风",
+      "onboard_time": 1726453519,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 618721,
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 568320,
+      "num": 568320,
+      "word": "台风贝碧嘉",
+      "onboard_time": 1726320202,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 565944,
       "num": 565944,
       "word": "贝碧嘉",
@@ -179,19 +195,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 562173,
-      "num": 562173,
-      "word": "台风贝碧嘉",
-      "onboard_time": 1726320202,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 561523,
       "num": 561523,
       "word": "上海临港进入台风贝碧嘉十级风圈",
       "onboard_time": 1726443616,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 549087,
+      "num": 338441,
+      "word": "内地女网红在香港骑行遇车祸身亡",
+      "onboard_time": 1726454359,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -217,22 +233,6 @@
       "onboard_time": 1726401802,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 475722,
-      "num": 667339,
-      "word": "上海浦东滴水湖12级以上强风",
-      "onboard_time": 1726453519,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 438790,
-      "num": 327138,
-      "word": "内地女网红在香港骑行遇车祸身亡",
-      "onboard_time": 1726454359,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 433021,
@@ -267,8 +267,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 413275,
-      "num": 413275,
+      "raw_hot": 415809,
+      "num": 691287,
       "word": "王源慌了",
       "onboard_time": 1726450098,
       "rank": 26,
@@ -331,7 +331,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 363078,
+      "raw_hot": 364854,
       "num": 363078,
       "word": "台风",
       "onboard_time": 1726302200,
@@ -347,20 +347,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 330373,
+      "num": 330373,
+      "word": "城管与大学生店员冲突被停职",
+      "onboard_time": 1726452319,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316878,
+      "num": 316878,
+      "word": "大耀斑爆发",
+      "onboard_time": 1726454478,
+      "rank": 27,
+      "category": "科学科普,自然"
+    },
+    {
       "raw_hot": 310164,
       "num": 310164,
       "word": "害怕打针把自己埋进医生怀里的小金毛",
       "onboard_time": 1726446500,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 303832,
-      "num": 303832,
-      "word": "城管与大学生店员冲突被停职",
-      "onboard_time": 1726452319,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289268,
@@ -387,12 +395,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 258744,
-      "num": 258744,
-      "word": "大耀斑爆发",
-      "onboard_time": 1726454478,
-      "rank": 27,
-      "category": "科学科普,自然"
+      "raw_hot": 259386,
+      "num": 259386,
+      "word": "台风现场白茫茫一片记者睁不开眼",
+      "onboard_time": 1726454840,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259003,
+      "num": 344154,
+      "word": "田曦薇没钱愣要",
+      "onboard_time": 1726453339,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 251345,
@@ -427,7 +443,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 234048,
+      "raw_hot": 237301,
       "num": 250957,
       "word": "侃爷演唱会",
       "onboard_time": 1726446858,
@@ -467,20 +483,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 206703,
-      "num": 249165,
-      "word": "田曦薇没钱愣要",
-      "onboard_time": 1726453339,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 205129,
       "num": 205129,
       "word": "张峻豪海口vlog",
       "onboard_time": 1726415659,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200052,
+      "num": 200052,
+      "word": "电影焚城定档",
+      "onboard_time": 1726455619,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 199283,
@@ -499,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193672,
-      "num": 193672,
-      "word": "台风现场白茫茫一片记者睁不开眼",
-      "onboard_time": 1726454840,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184702,
       "num": 184702,
       "word": "汪苏泷新歌流浪是合理的需求",
@@ -521,6 +529,14 @@
       "onboard_time": 1726407442,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 176624,
+      "num": 176624,
+      "word": "贝碧嘉正横穿上海",
+      "onboard_time": 1726455740,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175998,
@@ -545,6 +561,14 @@
       "onboard_time": 1726405222,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172641,
+      "num": 172641,
+      "word": "我愿意为了这样的房子爬七楼",
+      "onboard_time": 1726455679,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 171381,
@@ -651,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145767,
+      "num": 145767,
+      "word": "孙颖莎夺冠后找奖杯",
+      "onboard_time": 1726455141,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143876,
       "num": 143876,
       "word": "断供房贷被冷处理",
@@ -665,6 +697,14 @@
       "onboard_time": 1726414760,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142937,
+      "num": 142937,
+      "word": "孙颖莎奥运后没有特别系统地训练",
+      "onboard_time": 1726455740,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 142353,
@@ -696,14 +736,6 @@
       "word": "林诗栋说不会有什么庆祝",
       "onboard_time": 1726415541,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 136046,
-      "num": 136046,
-      "word": "孙颖莎夺冠后找奖杯",
-      "onboard_time": 1726455141,
-      "rank": 46,
       "category": "体育"
     },
     {
@@ -1112,6 +1144,14 @@
       "word": "大熊猫崽崽演假期第一天的我",
       "onboard_time": 1726436351,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13731,
+      "num": 424713,
+      "word": "金价猛涨有金店却扛不住了",
+      "onboard_time": 1726455800,
+      "rank": 14,
       "category": "社会新闻"
     }
   ],
