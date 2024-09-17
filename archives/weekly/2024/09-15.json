@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726547784828,
+  "endTime": 1726550468872,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -83,20 +83,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1917926,
+      "num": 1917926,
+      "word": "三只羊被立案调查",
+      "onboard_time": 1726546459,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1885412,
       "num": 1885412,
       "word": "教资",
       "onboard_time": 1726319842,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1875801,
-      "num": 1875801,
-      "word": "三只羊被立案调查",
-      "onboard_time": 1726546459,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1863948,
@@ -433,6 +433,14 @@
       "onboard_time": 1726497802,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1208681,
+      "num": 383418,
+      "word": "只生孩子不领证会有什么风险",
+      "onboard_time": 1726547182,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 1206455,
@@ -899,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 702751,
+      "num": 702751,
+      "word": "美诚月饼广州公司被指跑路改招牌",
+      "onboard_time": 1726544900,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 697231,
       "num": 697231,
       "word": "美心月饼主播笑称没有米其林工艺",
@@ -944,14 +960,6 @@
       "word": "台风中心将在南京停留2到3小时",
       "onboard_time": 1726478658,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 655140,
-      "num": 655140,
-      "word": "美诚月饼广州公司被指跑路改招牌",
-      "onboard_time": 1726544900,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1092,7 +1100,7 @@
     },
     {
       "raw_hot": 617826,
-      "num": 271210,
+      "num": 281517,
       "word": "爸爸突然开始特意标注生活费",
       "onboard_time": 1726539498,
       "rank": 37,
@@ -1187,6 +1195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 584117,
+      "num": 584117,
+      "word": "总台秋晚节目单发布",
+      "onboard_time": 1726548741,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 576200,
       "num": 576200,
       "word": "教资答案",
@@ -1275,12 +1291,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 552325,
+      "num": 552325,
+      "word": "台风普拉桑将登陆浙江沿海",
+      "onboard_time": 1726546819,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 548758,
       "num": 736329,
       "word": "王源慌了",
       "onboard_time": 1726450098,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 548090,
+      "num": 564742,
+      "word": "这个舞蹈动作近几年致多名儿童瘫痪",
+      "onboard_time": 1726546879,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 540023,
@@ -1513,6 +1545,14 @@
       "onboard_time": 1726408042,
       "rank": 23,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 473881,
+      "num": 473881,
+      "word": "官方通报三只羊涉嫌误导消费者",
+      "onboard_time": 1726548981,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 473354,
@@ -1755,6 +1795,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 394962,
+      "num": 394962,
+      "word": "万茜长发",
+      "onboard_time": 1726547900,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 390833,
       "num": 390833,
       "word": "吴宣仪 我是王总舞粉",
@@ -1769,14 +1817,6 @@
       "onboard_time": 1726380857,
       "rank": 26,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 383418,
-      "num": 383418,
-      "word": "只生孩子不领证会有什么风险",
-      "onboard_time": 1726547182,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 382723,
@@ -1859,6 +1899,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 367879,
+      "num": 367879,
+      "word": "月饼券被黄牛半价回收后流向哪",
+      "onboard_time": 1726545020,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366639,
       "num": 577122,
       "word": "大学女生陪爬泰山只收20元",
@@ -1913,14 +1961,6 @@
       "onboard_time": 1726323626,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 360911,
-      "num": 564742,
-      "word": "这个舞蹈动作近几年致多名儿童瘫痪",
-      "onboard_time": 1726546879,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 360720,
@@ -2089,6 +2129,14 @@
       "onboard_time": 1726472657,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 326779,
+      "num": 197081,
+      "word": "张馨予在藏区跳篝火舞后又晕又吐",
+      "onboard_time": 1726548680,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 323788,
@@ -2603,6 +2651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262685,
+      "num": 196803,
+      "word": "方灿姚琛 什刹海",
+      "onboard_time": 1726549640,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261871,
       "num": 366416,
       "word": "终于有古装剧的公主抱不是转圈了",
@@ -2625,6 +2681,14 @@
       "onboard_time": 1726470258,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258575,
+      "num": 258575,
+      "word": "永夜星河",
+      "onboard_time": 1726549280,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 257789,
@@ -2987,6 +3051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224882,
+      "num": 224882,
+      "word": "大学生买不到车票报旅行团回家",
+      "onboard_time": 1726548319,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224095,
       "num": 613281,
       "word": "上海启动台风一级应急响应",
@@ -3009,6 +3081,14 @@
       "onboard_time": 1726356196,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 221866,
+      "num": 221866,
+      "word": "为什么很多女生自带疏离感",
+      "onboard_time": 1726547182,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 220854,
@@ -3459,6 +3539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198257,
+      "num": 198257,
+      "word": "三只羊",
+      "onboard_time": 1726549640,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198167,
       "num": 198167,
       "word": "侃爷海口试听会舞台",
@@ -3555,6 +3643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195220,
+      "num": 195220,
+      "word": "第五人格",
+      "onboard_time": 1726389379,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 195207,
       "num": 195207,
       "word": "兰州大学在校研究生总量首超本科生",
@@ -3617,6 +3713,14 @@
       "onboard_time": 1726493539,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193431,
+      "num": 193431,
+      "word": "南派三叔客串了藏海花",
+      "onboard_time": 1726549400,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 192809,
@@ -3811,6 +3915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 184614,
+      "num": 184614,
+      "word": "徐志胜 你为什么坐在了副陪的位置",
+      "onboard_time": 1726547960,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184284,
       "num": 184284,
       "word": "为什么中秋节没人提前订酒店了",
@@ -3979,6 +4091,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176985,
+      "num": 183628,
+      "word": "梁伟铿王昶男双世界第一",
+      "onboard_time": 1726547419,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 176973,
+      "num": 176973,
+      "word": "Kid 替父还债",
+      "onboard_time": 1726548079,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176579,
       "num": 176579,
       "word": "孙颖莎夺冠后找奖杯",
@@ -3992,14 +4120,6 @@
       "word": "10月1日火车票今天开售",
       "onboard_time": 1726532417,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176256,
-      "num": 211781,
-      "word": "月饼券被黄牛半价回收后流向哪",
-      "onboard_time": 1726545020,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -4123,11 +4243,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172185,
-      "num": 172185,
-      "word": "台风普拉桑将登陆浙江沿海",
-      "onboard_time": 1726546819,
-      "rank": 38,
+      "raw_hot": 172136,
+      "num": 172136,
+      "word": "合肥高新发布",
+      "onboard_time": 1726549160,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -4209,14 +4329,6 @@
       "onboard_time": 1726369878,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 169004,
-      "num": 169004,
-      "word": "第五人格",
-      "onboard_time": 1726389379,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 168741,
@@ -4456,6 +4568,14 @@
       "word": "张远 闺蜜站位",
       "onboard_time": 1726354995,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 161573,
+      "num": 161573,
+      "word": "杨紫中秋带piu出来玩耍",
+      "onboard_time": 1726548439,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -4803,14 +4923,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 151435,
-      "num": 151435,
-      "word": "为什么很多女生自带疏离感",
-      "onboard_time": 1726547182,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 150820,
       "num": 150820,
       "word": "张予曦也演雨霖铃了",
@@ -4833,6 +4945,14 @@
       "onboard_time": 1726375699,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150012,
+      "num": 150012,
+      "word": "黑神话DLC或明年春节发布",
+      "onboard_time": 1726549580,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 149883,
@@ -5355,6 +5475,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 134409,
+      "num": 134409,
+      "word": "樊振东希望大家多关注比赛",
+      "onboard_time": 1726548798,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134090,
       "num": 363922,
       "word": "小区183家住户藏53家小旅馆",
@@ -5625,6 +5753,14 @@
       "onboard_time": 1726386019,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 125245,
+      "num": 286701,
+      "word": "永夜星河月影成双中秋视频",
+      "onboard_time": 1726549280,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 125042,
@@ -6523,14 +6659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 66827,
-      "num": 183628,
-      "word": "梁伟铿王昶男双世界第一",
-      "onboard_time": 1726547419,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 66072,
       "num": 435986,
       "word": "预计贝碧嘉17日将移入安徽河南境内",
@@ -6731,6 +6859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 48342,
+      "num": 457045,
+      "word": "专家谈好利来发文禁止员工驾乘摩托车",
+      "onboard_time": 1726549580,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48139,
       "num": 1697983,
       "word": "中国铁路营业里程超16万公里",
@@ -6867,6 +7003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38274,
+      "num": 373931,
+      "word": "婚姻里沉默的妻子牺牲了什么",
+      "onboard_time": 1726550059,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37837,
       "num": 391900,
       "word": "被指消费女性公考机构岂能如此三观不正",
@@ -6937,6 +7081,14 @@
       "onboard_time": 1726385000,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33574,
+      "num": 285220,
+      "word": "奥迪停车不付钱还打伤收费员",
+      "onboard_time": 1726550298,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33540,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1726550468872,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1917926,
+        "num": 1917926,
+        "word": "三只羊被立案调查",
+        "onboard_time": 1726546459,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702751,
+        "num": 702751,
+        "word": "美诚月饼广州公司被指跑路改招牌",
+        "onboard_time": 1726544900,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4183,
+        "num": 630252,
+        "word": "人民军队淬火向前",
+        "onboard_time": 1726081931,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605109,
+        "num": 605109,
+        "word": "金巧巧离婚风波后晒全家福",
+        "onboard_time": 1726544719,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 584117,
+        "num": 584117,
+        "word": "总台秋晚节目单发布",
+        "onboard_time": 1726548741,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 552325,
+        "num": 552325,
+        "word": "台风普拉桑将登陆浙江沿海",
+        "onboard_time": 1726546819,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548090,
+        "num": 548090,
+        "word": "这个舞蹈动作近几年致多名儿童瘫痪",
+        "onboard_time": 1726546879,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481706,
+        "num": 481706,
+        "word": "赵露思台词",
+        "onboard_time": 1726544839,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 473881,
+        "num": 473881,
+        "word": "官方通报三只羊涉嫌误导消费者",
+        "onboard_time": 1726548981,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48342,
+        "num": 457045,
+        "word": "专家谈好利来发文禁止员工驾乘摩托车",
+        "onboard_time": 1726549580,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2081221,
+        "num": 454489,
+        "word": "李栋旭 韩国不吃月饼",
+        "onboard_time": 1726546279,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451521,
+        "num": 451521,
+        "word": "中秋节",
+        "onboard_time": 1726527854,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426494,
+        "num": 426494,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1726537518,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 394962,
+        "num": 394962,
+        "word": "万茜长发",
+        "onboard_time": 1726547900,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38274,
+        "num": 373931,
+        "word": "婚姻里沉默的妻子牺牲了什么",
+        "onboard_time": 1726550059,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367879,
+        "num": 367879,
+        "word": "月饼券被黄牛半价回收后流向哪",
+        "onboard_time": 1726545020,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336801,
+        "num": 336801,
+        "word": "悟空月饼",
+        "onboard_time": 1726541299,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 287327,
+        "num": 287327,
+        "word": "虞书欣中秋素颜照",
+        "onboard_time": 1726541838,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125245,
+        "num": 286701,
+        "word": "永夜星河月影成双中秋视频",
+        "onboard_time": 1726549280,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33574,
+        "num": 285220,
+        "word": "奥迪停车不付钱还打伤收费员",
+        "onboard_time": 1726550298,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1208681,
+        "num": 284464,
+        "word": "只生孩子不领证会有什么风险",
+        "onboard_time": 1726547182,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1178908,
+        "num": 282938,
+        "word": "关晓彤零点零七分回复鹿晗",
+        "onboard_time": 1726532656,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317065,
+        "num": 281517,
+        "word": "爸爸突然开始特意标注生活费",
+        "onboard_time": 1726539498,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 281307,
+        "num": 281307,
+        "word": "中秋节快乐",
+        "onboard_time": 1726527913,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258575,
+        "num": 258575,
+        "word": "永夜星河",
+        "onboard_time": 1726549280,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247948,
+        "num": 247948,
+        "word": "罗志祥在哪做的医美",
+        "onboard_time": 1726497202,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551979,
+        "num": 237498,
+        "word": "鹿晗连续八年为关晓彤庆生",
+        "onboard_time": 1726527854,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224882,
+        "num": 224882,
+        "word": "大学生买不到车票报旅行团回家",
+        "onboard_time": 1726548319,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221866,
+        "num": 221866,
+        "word": "为什么很多女生自带疏离感",
+        "onboard_time": 1726547182,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198257,
+        "num": 198257,
+        "word": "三只羊",
+        "onboard_time": 1726549640,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326779,
+        "num": 197081,
+        "word": "张馨予在藏区跳篝火舞后又晕又吐",
+        "onboard_time": 1726548680,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262685,
+        "num": 196803,
+        "word": "方灿姚琛 什刹海",
+        "onboard_time": 1726549640,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212710,
+        "num": 196483,
+        "word": "关晓彤穿了特别定制礼服",
+        "onboard_time": 1726543638,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195220,
+        "num": 195220,
+        "word": "第五人格",
+        "onboard_time": 1726549040,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193431,
+        "num": 193431,
+        "word": "南派三叔客串了藏海花",
+        "onboard_time": 1726549400,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193139,
+        "num": 193139,
+        "word": "女方多次与不同对象闪婚闪离应提醒",
+        "onboard_time": 1726541538,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184614,
+        "num": 184614,
+        "word": "徐志胜 你为什么坐在了副陪的位置",
+        "onboard_time": 1726547960,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176985,
+        "num": 176985,
+        "word": "梁伟铿王昶男双世界第一",
+        "onboard_time": 1726547419,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176973,
+        "num": 176973,
+        "word": "Kid 替父还债",
+        "onboard_time": 1726548079,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172822,
+        "num": 172822,
+        "word": "好久没看到这么健康的恋爱了",
+        "onboard_time": 1726545678,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172136,
+        "num": 172136,
+        "word": "合肥高新发布",
+        "onboard_time": 1726549160,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171738,
+        "num": 171738,
+        "word": "光遇",
+        "onboard_time": 1726547900,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162905,
+        "num": 162905,
+        "word": "教育在此刻闭环了",
+        "onboard_time": 1726546158,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161573,
+        "num": 161573,
+        "word": "杨紫中秋带piu出来玩耍",
+        "onboard_time": 1726548439,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158032,
+        "num": 158032,
+        "word": "枭起青壤",
+        "onboard_time": 1726539079,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153150,
+        "num": 153150,
+        "word": "孙颖莎9400分世排第一",
+        "onboard_time": 1726537518,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150012,
+        "num": 150012,
+        "word": "黑神话DLC或明年春节发布",
+        "onboard_time": 1726549580,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148680,
+        "num": 148680,
+        "word": "70多年前的他们背后是万家团圆",
+        "onboard_time": 1726539259,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134409,
+        "num": 134409,
+        "word": "樊振东希望大家多关注比赛",
+        "onboard_time": 1726548798,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133213,
+        "num": 133213,
+        "word": "贝碧嘉移入江苏",
+        "onboard_time": 1726463058,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中秋佳节习近平总书记这样寄语#"
+    }
+  }
+}
