@@ -1,6 +1,6 @@
 {
   "startTime": 1726590451835,
-  "endTime": 1726611605333,
+  "endTime": 1726612676356,
   "band_list": [
     {
       "raw_hot": 1110468,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 546291,
+      "num": 546291,
+      "word": "记者实探三只羊集团",
+      "onboard_time": 1726578802,
+      "rank": 17,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 485707,
       "num": 485707,
       "word": "大闸蟹今年为啥卖不动了",
@@ -75,12 +83,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 376454,
-      "num": 395666,
-      "word": "记者实探三只羊集团",
-      "onboard_time": 1726578802,
-      "rank": 17,
-      "category": "社会新闻,网红"
+      "raw_hot": 381270,
+      "num": 381270,
+      "word": "王菲送李嫣英国留学",
+      "onboard_time": 1726588279,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 357481,
@@ -89,14 +97,6 @@
       "onboard_time": 1726587919,
       "rank": 8,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 355984,
-      "num": 355984,
-      "word": "王菲送李嫣英国留学",
-      "onboard_time": 1726588279,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 341202,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163701,
+      "num": 163701,
+      "word": "泰山陪爬火了包登顶一单能挣100元",
+      "onboard_time": 1726598652,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158390,
       "num": 158390,
       "word": "月亮",
@@ -233,6 +241,14 @@
       "onboard_time": 1726581622,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 153757,
+      "num": 153757,
+      "word": "韩国第一夫人重启公开活动引不满",
+      "onboard_time": 1726588399,
+      "rank": 38,
+      "category": "国外时政"
     },
     {
       "raw_hot": 147028,
@@ -259,14 +275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144575,
-      "num": 123704,
-      "word": "韩国第一夫人重启公开活动引不满",
-      "onboard_time": 1726588399,
-      "rank": 38,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 142921,
       "num": 142921,
       "word": "徐嘉余喊话王楚钦吃月饼",
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 133625,
-      "num": 76433,
+      "num": 94438,
       "word": "周也工作室P掉了蟑螂",
       "onboard_time": 1726597571,
       "rank": 40,
@@ -443,12 +451,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66109,
-      "num": 66109,
-      "word": "泰山陪爬火了包登顶一单能挣100元",
-      "onboard_time": 1726598652,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 68010,
+      "num": 68010,
+      "word": "原来友情中也存在假性亲密",
+      "onboard_time": 1726594692,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 64402,
@@ -459,12 +467,12 @@
       "category": "剧集,综艺"
     },
     {
-      "raw_hot": 61241,
-      "num": 61241,
-      "word": "原来友情中也存在假性亲密",
-      "onboard_time": 1726594692,
-      "rank": 22,
-      "category": "情感"
+      "raw_hot": 59892,
+      "num": 59892,
+      "word": "60秒了解三只羊美诚月饼事件",
+      "onboard_time": 1726601110,
+      "rank": 46,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 59882,
@@ -475,20 +483,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 56283,
+      "num": 74186,
+      "word": "也门胡塞武装公布新型高超音速导弹画面",
+      "onboard_time": 1726607290,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 55778,
       "num": 55778,
       "word": "iOS18 还我妈生相册",
       "onboard_time": 1726560322,
       "rank": 48,
       "category": "数码"
-    },
-    {
-      "raw_hot": 55611,
-      "num": 74186,
-      "word": "也门胡塞武装公布新型高超音速导弹画面",
-      "onboard_time": 1726607290,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 54474,
@@ -499,12 +507,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 47187,
-      "num": 44685,
-      "word": "60秒了解三只羊美诚月饼事件",
-      "onboard_time": 1726601110,
-      "rank": 46,
-      "category": "社会新闻,网红"
+      "raw_hot": 46882,
+      "num": 46882,
+      "word": "东北民谣在东北地界上桌了",
+      "onboard_time": 1726609213,
+      "rank": 36,
+      "category": "幽默,音乐"
     },
     {
       "raw_hot": 45732,
@@ -523,6 +531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 36446,
+      "num": 36446,
+      "word": "疑似意图暗杀特朗普的嫌疑人出庭",
+      "onboard_time": 1726601110,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 32944,
       "num": 32944,
       "word": "汪苏泷2024十万伏特巡回演唱会",
@@ -531,12 +547,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 32351,
-      "num": 32351,
-      "word": "东北民谣在东北地界上桌了",
-      "onboard_time": 1726609213,
-      "rank": 36,
-      "category": "幽默,音乐"
+      "raw_hot": 32325,
+      "num": 32325,
+      "word": "王阳央视中秋晚会造型",
+      "onboard_time": 1726611072,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 30885,
+      "num": 31233,
+      "word": "雪迷宫这集有点过粪了",
+      "onboard_time": 1726612514,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 30008,
@@ -545,14 +569,6 @@
       "onboard_time": 1726594993,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29002,
-      "num": 29002,
-      "word": "疑似意图暗杀特朗普的嫌疑人出庭",
-      "onboard_time": 1726601110,
-      "rank": 48,
-      "category": "国外时政"
     },
     {
       "raw_hot": 26018,
@@ -579,8 +595,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 13343,
-      "num": 189918,
+      "raw_hot": 14417,
+      "num": 305490,
       "word": "圆圆的大国重器送团圆的祝福",
       "onboard_time": 1726584024,
       "rank": 2,

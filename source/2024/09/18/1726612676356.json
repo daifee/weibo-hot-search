@@ -1,0 +1,410 @@
+{
+  "runTime": 1726612676356,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 546291,
+        "num": 546291,
+        "word": "记者实探三只羊集团",
+        "onboard_time": 1726578802,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 381270,
+        "num": 381270,
+        "word": "王菲送李嫣英国留学",
+        "onboard_time": 1726588279,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14417,
+        "num": 305490,
+        "word": "圆圆的大国重器送团圆的祝福",
+        "onboard_time": 1726584024,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276926,
+        "num": 276926,
+        "word": "大闸蟹今年为啥卖不动了",
+        "onboard_time": 1726581683,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246661,
+        "num": 246661,
+        "word": "苹果变安卓",
+        "onboard_time": 1726584742,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 298278,
+        "num": 245198,
+        "word": "三只羊或被罚营业额5倍吊销营业执照",
+        "onboard_time": 1726571420,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 226132,
+        "num": 226132,
+        "word": "勿忘九一八",
+        "onboard_time": 1726590258,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 186771,
+        "num": 186771,
+        "word": "三只羊日销售额骤降九成以上",
+        "onboard_time": 1726587680,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141156,
+        "num": 172866,
+        "word": "918",
+        "onboard_time": 1726591996,
+        "rank": 8,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 109853,
+        "num": 164255,
+        "word": "今日中国再不是1931年的中国",
+        "onboard_time": 1726589839,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 163701,
+        "num": 163701,
+        "word": "泰山陪爬火了包登顶一单能挣100元",
+        "onboard_time": 1726598652,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162066,
+        "num": 162066,
+        "word": "孕妇泰国坠崖案当事人官宣生子",
+        "onboard_time": 1726578622,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154655,
+        "num": 154655,
+        "word": "山东男孩小区门口殴打母亲被民警带走",
+        "onboard_time": 1726576881,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153757,
+        "num": 153757,
+        "word": "韩国第一夫人重启公开活动引不满",
+        "onboard_time": 1726588399,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 125704,
+        "num": 125704,
+        "word": "杨紫代言MK",
+        "onboard_time": 1726587919,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 121881,
+        "num": 121881,
+        "word": "小杨哥已近一个月未更新视频",
+        "onboard_time": 1726580120,
+        "rank": 15,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 100795,
+        "num": 100795,
+        "word": "研究生数量超本科生高校招生引争议",
+        "onboard_time": 1726581141,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94438,
+        "num": 94438,
+        "word": "周也工作室P掉了蟑螂",
+        "onboard_time": 1726597571,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87799,
+        "num": 87799,
+        "word": "央视boys穿西装没告诉撒贝宁",
+        "onboard_time": 1726586061,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71789,
+        "num": 71789,
+        "word": "潘展乐周杰伦合照",
+        "onboard_time": 1726584322,
+        "rank": 19,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 116885,
+        "num": 71318,
+        "word": "小杨哥评论区被立案调查刷屏",
+        "onboard_time": 1726573400,
+        "rank": 20,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 79808,
+        "num": 70196,
+        "word": "吃饱就睡其实和长胖没太大关系",
+        "onboard_time": 1726591756,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 68726,
+        "num": 68726,
+        "word": "70万买侄女一套房她反悔了怎么办",
+        "onboard_time": 1726577061,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68010,
+        "num": 68010,
+        "word": "原来友情中也存在假性亲密",
+        "onboard_time": 1726594692,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59892,
+        "num": 59892,
+        "word": "60秒了解三只羊美诚月饼事件",
+        "onboard_time": 1726601110,
+        "rank": 24,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 56283,
+        "num": 56283,
+        "word": "也门胡塞武装公布新型高超音速导弹画面",
+        "onboard_time": 1726607290,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 58952,
+        "num": 56084,
+        "word": "三只羊停播",
+        "onboard_time": 1726579163,
+        "rank": 26,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 55434,
+        "num": 55434,
+        "word": "唐嫣宋慧乔秀场同框",
+        "onboard_time": 1726585163,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 53068,
+        "num": 55167,
+        "word": "央视镜头下的金晨",
+        "onboard_time": 1726583363,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50807,
+        "num": 54938,
+        "word": "折腰",
+        "onboard_time": 1726575681,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54931,
+        "num": 54931,
+        "word": "三只羊给员工发美诚月饼",
+        "onboard_time": 1726559720,
+        "rank": 30,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 54155,
+        "num": 54155,
+        "word": "借了70万给好同事结果被骗了",
+        "onboard_time": 1726573579,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48695,
+        "num": 48695,
+        "word": "iOS18 丑",
+        "onboard_time": 1726561342,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 46882,
+        "num": 46882,
+        "word": "东北民谣在东北地界上桌了",
+        "onboard_time": 1726609213,
+        "rank": 33,
+        "category": "幽默,音乐"
+      },
+      {
+        "raw_hot": 42771,
+        "num": 42771,
+        "word": "外网爆Yagao审批通过",
+        "onboard_time": 1726585582,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 40277,
+        "num": 40277,
+        "word": "没见过顿感这么绝的小猫",
+        "onboard_time": 1726594513,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 40152,
+        "num": 40152,
+        "word": "王楚然硬美",
+        "onboard_time": 1726588880,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39086,
+        "num": 39086,
+        "word": "陈乔恩托乔任梁父母给乔任梁送花",
+        "onboard_time": 1726562121,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37608,
+        "num": 37608,
+        "word": "iOS18 手电筒",
+        "onboard_time": 1726582882,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 36446,
+        "num": 36446,
+        "word": "疑似意图暗杀特朗普的嫌疑人出庭",
+        "onboard_time": 1726601110,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 36204,
+        "num": 36204,
+        "word": "周也肩膀 蟑螂",
+        "onboard_time": 1726555580,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33702,
+        "num": 33702,
+        "word": "19310918不能忘不敢忘",
+        "onboard_time": 1726593434,
+        "rank": 41,
+        "category": "剧集,综艺"
+      },
+      {
+        "raw_hot": 33330,
+        "num": 33330,
+        "word": "陈瑶嫦娥妆造",
+        "onboard_time": 1726591277,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33128,
+        "num": 33128,
+        "word": "王祖贤回台湾过中秋",
+        "onboard_time": 1726586782,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32325,
+        "num": 32325,
+        "word": "王阳央视中秋晚会造型",
+        "onboard_time": 1726611072,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32230,
+        "num": 32230,
+        "word": "iPad终于有计算器了",
+        "onboard_time": 1726581980,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 31233,
+        "num": 31233,
+        "word": "月亮",
+        "onboard_time": 1726570099,
+        "rank": 46,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 30885,
+        "num": 31233,
+        "word": "雪迷宫这集有点过粪了",
+        "onboard_time": 1726612514,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30013,
+        "num": 31231,
+        "word": "欧冠联赛",
+        "onboard_time": 1726596553,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29910,
+        "num": 31231,
+        "word": "湖南到贵州菜篮专线票价仅7元",
+        "onboard_time": 1726594993,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#在中秋月圆夜唱响中国调#"
+    }
+  }
+}
