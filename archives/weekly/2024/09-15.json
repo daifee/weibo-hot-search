@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726593580988,
+  "endTime": 1726594616469,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -8411,6 +8411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64402,
+      "num": 64402,
+      "word": "19310918不能忘不敢忘",
+      "onboard_time": 1726593434,
+      "rank": 47,
+      "category": "剧集,综艺"
+    },
+    {
       "raw_hot": 63233,
       "num": 580566,
       "word": "是时候抄底了",
@@ -8481,14 +8489,6 @@
       "onboard_time": 1726495641,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57748,
-      "num": 57748,
-      "word": "19310918不能忘不敢忘",
-      "onboard_time": 1726593434,
-      "rank": 47,
-      "category": "剧集,综艺"
     },
     {
       "raw_hot": 57519,
@@ -8697,6 +8697,14 @@
       "onboard_time": 1726550059,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45231,
+      "num": 45231,
+      "word": "没见过顿感这么绝的小猫",
+      "onboard_time": 1726594513,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 44473,
