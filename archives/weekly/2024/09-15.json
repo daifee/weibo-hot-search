@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726557581184,
+  "endTime": 1726558531501,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2492487,
+      "num": 481969,
+      "word": "央视中秋晚会删掉于适节目",
+      "onboard_time": 1726555700,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2268859,
       "num": 2268859,
       "word": "贝碧嘉移入江苏",
@@ -97,14 +105,6 @@
       "onboard_time": 1726546459,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1894060,
-      "num": 481969,
-      "word": "央视中秋晚会删掉于适节目",
-      "onboard_time": 1726555700,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1885412,
@@ -979,6 +979,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 695648,
+      "num": 695648,
+      "word": "梁王",
+      "onboard_time": 1726556539,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 694870,
       "num": 485082,
       "word": "台风中心已移入无锡",
@@ -1379,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 535292,
+      "num": 535292,
+      "word": "王源 教资面试导入",
+      "onboard_time": 1726555518,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 534063,
       "num": 534063,
       "word": "广州美诚工作人员回应月饼争议",
@@ -1547,6 +1563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 497728,
+      "num": 305276,
+      "word": "中秋节误扇导师几十个巴掌",
+      "onboard_time": 1726555877,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 493042,
       "num": 493042,
       "word": "李荣浩杨丞琳挽手逛家具店",
@@ -1619,22 +1643,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 482460,
-      "num": 305276,
-      "word": "中秋节误扇导师几十个巴掌",
-      "onboard_time": 1726555877,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 481379,
-      "num": 481379,
-      "word": "王源 教资面试导入",
-      "onboard_time": 1726555518,
-      "rank": 13,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 473354,
       "num": 473354,
       "word": "四川江油失联姐弟均已遇难",
@@ -1643,12 +1651,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 473174,
+      "num": 473174,
+      "word": "买到15盒美诚月饼老板称给亲戚了",
+      "onboard_time": 1726557620,
+      "rank": 5,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 465932,
       "num": 531742,
       "word": "范丞丞去了侃爷试听会",
       "onboard_time": 1726457720,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 462294,
+      "num": 462294,
+      "word": "迪丽热巴中秋营业照",
+      "onboard_time": 1726556721,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 455625,
@@ -1979,14 +2003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 370446,
-      "num": 370446,
-      "word": "梁王",
-      "onboard_time": 1726556539,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 370372,
       "num": 248972,
       "word": "EDG拒绝和解",
@@ -2243,6 +2259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 323080,
+      "num": 323080,
+      "word": "小杨哥已掉粉超200万",
+      "onboard_time": 1726557800,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 322957,
       "num": 510697,
       "word": "中秋假期第2天你在做什么",
@@ -2281,6 +2305,14 @@
       "onboard_time": 1726332019,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313808,
+      "num": 313808,
+      "word": "刘冲和朱志鑫张极互关",
+      "onboard_time": 1726556539,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 313663,
@@ -2441,14 +2473,6 @@
       "onboard_time": 1726355595,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 293952,
-      "num": 310790,
-      "word": "刘冲和朱志鑫张极互关",
-      "onboard_time": 1726556539,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 293093,
@@ -2713,14 +2737,6 @@
       "onboard_time": 1726539138,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 265675,
-      "num": 265675,
-      "word": "迪丽热巴中秋营业照",
-      "onboard_time": 1726556721,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 265522,
@@ -3169,6 +3185,14 @@
       "onboard_time": 1726413321,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227407,
+      "num": 227407,
+      "word": "王玉雯说秦霄贤恋爱不行",
+      "onboard_time": 1726557380,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 226239,
@@ -3915,14 +3939,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 192116,
-      "num": 192116,
-      "word": "王玉雯说秦霄贤恋爱不行",
-      "onboard_time": 1726557380,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 190805,
       "num": 190805,
       "word": "记者直击上海浦东临港新城",
@@ -4345,6 +4361,14 @@
       "onboard_time": 1726550659,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175469,
+      "num": 175469,
+      "word": "谁家恋综不谈恋爱演小品啊",
+      "onboard_time": 1726557800,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 175275,
@@ -4777,6 +4801,14 @@
       "onboard_time": 1726354995,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161828,
+      "num": 161828,
+      "word": "吉克隽逸怎么把擦锅球穿身上了",
+      "onboard_time": 1726558040,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 161286,
@@ -5251,6 +5283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147535,
+      "num": 147535,
+      "word": "以防你没见过蛤蜊的小jiojio",
+      "onboard_time": 1726557199,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 146263,
       "num": 146263,
       "word": "我恨皮亚杰",
@@ -5531,6 +5571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140223,
+      "num": 140223,
+      "word": "JDG中秋游戏团建",
+      "onboard_time": 1726558221,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 140045,
       "num": 140045,
       "word": "德牧把安全的位置换给了耶耶",
@@ -5632,6 +5680,14 @@
       "word": "大学生组团接单陪爬泰山月入过万",
       "onboard_time": 1726394960,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137558,
+      "num": 137558,
+      "word": "90岁老人哭着接过去世父亲的骨灰",
+      "onboard_time": 1726558221,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -5779,6 +5835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133071,
+      "num": 308726,
+      "word": "罗志祥发自拍回应医美争议",
+      "onboard_time": 1726556899,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132679,
       "num": 544992,
       "word": "重庆今年已热热热68天",
@@ -5809,14 +5873,6 @@
       "onboard_time": 1726535359,
       "rank": 49,
       "category": "数码"
-    },
-    {
-      "raw_hot": 132459,
-      "num": 132459,
-      "word": "以防你没见过蛤蜊的小jiojio",
-      "onboard_time": 1726557199,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 132175,
@@ -5961,6 +6017,14 @@
       "onboard_time": 1726546338,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 129035,
+      "num": 129035,
+      "word": "周依然 节目",
+      "onboard_time": 1726558460,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 129019,
@@ -6731,7 +6795,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 93504,
+      "raw_hot": 93739,
       "num": 481809,
       "word": "京东服饰疑似上错优惠券",
       "onboard_time": 1726553358,
@@ -6857,6 +6921,14 @@
       "onboard_time": 1726495220,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78484,
+      "num": 299640,
+      "word": "中国赛梁王组合进16强",
+      "onboard_time": 1726558161,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 78466,
@@ -7281,14 +7353,6 @@
       "onboard_time": 1726507934,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43544,
-      "num": 308726,
-      "word": "罗志祥发自拍回应医美争议",
-      "onboard_time": 1726556899,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 41919,
@@ -7745,6 +7809,14 @@
       "onboard_time": 1726525693,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 18058,
+      "num": 430404,
+      "word": "网传美诚月饼生产厂跑路不实",
+      "onboard_time": 1726558460,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17354,
