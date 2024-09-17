@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726555293385,
+  "endTime": 1726557581184,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -345,6 +345,14 @@
       "onboard_time": 1725906913,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 2907810,
+      "num": 554782,
+      "word": "周也肩膀 蟑螂",
+      "onboard_time": 1726555580,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 2899571,
@@ -921,6 +929,14 @@
       "onboard_time": 1726546459,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1894060,
+      "num": 481969,
+      "word": "央视中秋晚会删掉于适节目",
+      "onboard_time": 1726555700,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1890748,
@@ -9675,6 +9691,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 505029,
+      "num": 505029,
+      "word": "陈少熙 花西子",
+      "onboard_time": 1726552698,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 504202,
       "num": 504202,
       "word": "郑钦文维基奇决胜盘",
@@ -10195,6 +10219,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 482460,
+      "num": 305276,
+      "word": "中秋节误扇导师几十个巴掌",
+      "onboard_time": 1726555877,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 482381,
       "num": 401054,
       "word": "网约车走小路姑娘称被吓到跳车",
@@ -10225,6 +10257,14 @@
       "onboard_time": 1726038921,
       "rank": 18,
       "category": "国外时政,艺人"
+    },
+    {
+      "raw_hot": 481379,
+      "num": 481379,
+      "word": "王源 教资面试导入",
+      "onboard_time": 1726555518,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 480135,
@@ -12363,6 +12403,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 386806,
+      "num": 298025,
+      "word": "女厕所为什么不能多几个坑位",
+      "onboard_time": 1726553300,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 386747,
       "num": 386747,
       "word": "盛李豪 死腿协调点别搞我",
@@ -12424,14 +12472,6 @@
       "word": "方灿姚琛 什刹海",
       "onboard_time": 1726549640,
       "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 383851,
-      "num": 383851,
-      "word": "陈少熙 花西子",
-      "onboard_time": 1726552698,
-      "rank": 19,
       "category": "艺人"
     },
     {
@@ -12729,6 +12769,14 @@
       "onboard_time": 1725156198,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 370446,
+      "num": 370446,
+      "word": "梁王",
+      "onboard_time": 1726556539,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 370372,
@@ -15283,6 +15331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293952,
+      "num": 310790,
+      "word": "刘冲和朱志鑫张极互关",
+      "onboard_time": 1726556539,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 293337,
       "num": 247954,
       "word": "山姆杨枝甘露被指开盖后炸了",
@@ -16699,14 +16755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266597,
-      "num": 266597,
-      "word": "女厕所为什么不能多几个坑位",
-      "onboard_time": 1726553300,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 266586,
       "num": 266586,
       "word": "广东海南暴雨具有一定极端性",
@@ -16761,6 +16809,14 @@
       "onboard_time": 1725505458,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 265675,
+      "num": 265675,
+      "word": "迪丽热巴中秋营业照",
+      "onboard_time": 1726556721,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 265572,
@@ -18705,6 +18761,14 @@
       "onboard_time": 1725265099,
       "rank": 32,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 237653,
+      "num": 237653,
+      "word": "留子在韩国大学的中秋晚会表演上春山",
+      "onboard_time": 1726556181,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 237534,
@@ -21731,6 +21795,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 206677,
+      "num": 206677,
+      "word": "TOP登陆少年中秋",
+      "onboard_time": 1726556960,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206614,
       "num": 224305,
       "word": "低智商犯罪杀青官宣",
@@ -22227,6 +22299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203899,
+      "num": 203899,
+      "word": "唐嫣FENDI",
+      "onboard_time": 1726550539,
+      "rank": 29,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 203873,
       "num": 203873,
       "word": "张雪峰公司反向调休",
@@ -22673,14 +22753,6 @@
       "onboard_time": 1725707479,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 201427,
-      "num": 201427,
-      "word": "唐嫣FENDI",
-      "onboard_time": 1726550539,
-      "rank": 29,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 201382,
@@ -24227,6 +24299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194159,
+      "num": 194159,
+      "word": "赵露思中秋新中式",
+      "onboard_time": 1726556419,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194155,
       "num": 192792,
       "word": "杨超越 公众人物是有社会责任的",
@@ -24593,6 +24673,14 @@
       "onboard_time": 1725445099,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192116,
+      "num": 192116,
+      "word": "王玉雯说秦霄贤恋爱不行",
+      "onboard_time": 1726557380,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 192078,
@@ -34155,6 +34243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144673,
+      "num": 144673,
+      "word": "去广西玩还是去西班牙玩",
+      "onboard_time": 1726555940,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144666,
       "num": 144666,
       "word": "谢瑜约稿与樊振东合照",
@@ -36417,6 +36513,14 @@
       "onboard_time": 1725404056,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132459,
+      "num": 132459,
+      "word": "以防你没见过蛤蜊的小jiojio",
+      "onboard_time": 1726557199,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 132385,
@@ -41283,6 +41387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93504,
+      "num": 481809,
+      "word": "京东服饰疑似上错优惠券",
+      "onboard_time": 1726553358,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 93322,
       "num": 93322,
       "word": "俄军导弹袭击乌波尔塔瓦州",
@@ -43563,14 +43675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 62362,
-      "num": 390848,
-      "word": "京东服饰疑似上错优惠券",
-      "onboard_time": 1726553358,
-      "rank": 22,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 62333,
       "num": 82801,
       "word": "老友记穿搭还是太超前了",
@@ -44320,6 +44424,14 @@
       "word": "文物里的国潮",
       "onboard_time": 1725175639,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54169,
+      "num": 295671,
+      "word": "拖车司机因顾客签字非正楷被扣钱",
+      "onboard_time": 1726555700,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -45689,6 +45801,14 @@
       "onboard_time": 1726135100,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43544,
+      "num": 308726,
+      "word": "罗志祥发自拍回应医美争议",
+      "onboard_time": 1726556899,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 43472,

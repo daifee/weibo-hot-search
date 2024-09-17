@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726555293385,
+  "endTime": 1726557581184,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -33,6 +33,14 @@
       "onboard_time": 1726452017,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2907810,
+      "num": 554782,
+      "word": "周也肩膀 蟑螂",
+      "onboard_time": 1726555580,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 2892957,
@@ -89,6 +97,14 @@
       "onboard_time": 1726546459,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1894060,
+      "num": 481969,
+      "word": "央视中秋晚会删掉于适节目",
+      "onboard_time": 1726555700,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1885412,
@@ -1483,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 505029,
+      "num": 505029,
+      "word": "陈少熙 花西子",
+      "onboard_time": 1726552698,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 503566,
       "num": 503566,
       "word": "百万粉丝网红小小努力生活被抓",
@@ -1593,6 +1617,22 @@
       "onboard_time": 1726408042,
       "rank": 23,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 482460,
+      "num": 305276,
+      "word": "中秋节误扇导师几十个巴掌",
+      "onboard_time": 1726555877,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 481379,
+      "num": 481379,
+      "word": "王源 教资面试导入",
+      "onboard_time": 1726555518,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 473354,
@@ -1859,19 +1899,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 386806,
+      "num": 298025,
+      "word": "女厕所为什么不能多几个坑位",
+      "onboard_time": 1726553300,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 384758,
       "num": 384758,
       "word": "方灿姚琛 什刹海",
       "onboard_time": 1726549640,
       "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 383851,
-      "num": 383851,
-      "word": "陈少熙 花西子",
-      "onboard_time": 1726552698,
-      "rank": 19,
       "category": "艺人"
     },
     {
@@ -1937,6 +1977,14 @@
       "onboard_time": 1726357817,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 370446,
+      "num": 370446,
+      "word": "梁王",
+      "onboard_time": 1726556539,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 370372,
@@ -2395,6 +2443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 293952,
+      "num": 310790,
+      "word": "刘冲和朱志鑫张极互关",
+      "onboard_time": 1726556539,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 293093,
       "num": 293093,
       "word": "螃蟹就吃二两母",
@@ -2643,14 +2699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266597,
-      "num": 266597,
-      "word": "女厕所为什么不能多几个坑位",
-      "onboard_time": 1726553300,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 266116,
       "num": 327515,
       "word": "章若楠雨霖铃出妆",
@@ -2665,6 +2713,14 @@
       "onboard_time": 1726539138,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265675,
+      "num": 265675,
+      "word": "迪丽热巴中秋营业照",
+      "onboard_time": 1726556721,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 265522,
@@ -3001,6 +3057,14 @@
       "onboard_time": 1726364958,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237653,
+      "num": 237653,
+      "word": "留子在韩国大学的中秋晚会表演上春山",
+      "onboard_time": 1726556181,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 236622,
@@ -3403,6 +3467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206677,
+      "num": 206677,
+      "word": "TOP登陆少年中秋",
+      "onboard_time": 1726556960,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206521,
       "num": 193881,
       "word": "雪迷宫一个伏笔埋了23集",
@@ -3465,6 +3537,14 @@
       "onboard_time": 1726413979,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 203899,
+      "num": 203899,
+      "word": "唐嫣FENDI",
+      "onboard_time": 1726550539,
+      "rank": 29,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 203124,
@@ -3537,14 +3617,6 @@
       "onboard_time": 1726463839,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 201427,
-      "num": 201427,
-      "word": "唐嫣FENDI",
-      "onboard_time": 1726550539,
-      "rank": 29,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 200866,
@@ -3787,6 +3859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194159,
+      "num": 194159,
+      "word": "赵露思中秋新中式",
+      "onboard_time": 1726556419,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194020,
       "num": 194020,
       "word": "擎天柱威震天原来是竹马",
@@ -3833,6 +3913,14 @@
       "onboard_time": 1726377739,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192116,
+      "num": 192116,
+      "word": "王玉雯说秦霄贤恋爱不行",
+      "onboard_time": 1726557380,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 190805,
@@ -5227,6 +5315,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 144673,
+      "num": 144673,
+      "word": "去广西玩还是去西班牙玩",
+      "onboard_time": 1726555940,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144367,
       "num": 144367,
       "word": "贝碧嘉对上海影响有多大",
@@ -5713,6 +5809,14 @@
       "onboard_time": 1726535359,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 132459,
+      "num": 132459,
+      "word": "以防你没见过蛤蜊的小jiojio",
+      "onboard_time": 1726557199,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 132175,
@@ -6627,6 +6731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 93504,
+      "num": 481809,
+      "word": "京东服饰疑似上错优惠券",
+      "onboard_time": 1726553358,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 92892,
       "num": 92892,
       "word": "满月前为什么容易失眠",
@@ -6923,14 +7035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 62362,
-      "num": 390848,
-      "word": "京东服饰疑似上错优惠券",
-      "onboard_time": 1726553358,
-      "rank": 22,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 61818,
       "num": 150114,
       "word": "酒店回应女生入住遭陌生男子闯入",
@@ -6992,6 +7096,14 @@
       "word": "音乐生军训领唱教官汗流浃背了",
       "onboard_time": 1726420156,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54169,
+      "num": 295671,
+      "word": "拖车司机因顾客签字非正楷被扣钱",
+      "onboard_time": 1726555700,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -7169,6 +7281,14 @@
       "onboard_time": 1726507934,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43544,
+      "num": 308726,
+      "word": "罗志祥发自拍回应医美争议",
+      "onboard_time": 1726556899,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 41919,
