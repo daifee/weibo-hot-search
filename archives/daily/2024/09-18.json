@@ -1,6 +1,6 @@
 {
   "startTime": 1726590451835,
-  "endTime": 1726590451835,
+  "endTime": 1726591389239,
   "band_list": [
     {
       "raw_hot": 1110468,
@@ -51,12 +51,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462486,
+      "num": 462486,
+      "word": "王楚然硬美",
+      "onboard_time": 1726588880,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 408063,
       "num": 408063,
       "word": "唐嫣宋慧乔秀场同框",
       "onboard_time": 1726585163,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 400886,
+      "num": 400886,
+      "word": "今日中国再不是1931年的中国",
+      "onboard_time": 1726589839,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 357481,
@@ -67,20 +83,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 347773,
-      "num": 347773,
-      "word": "王楚然硬美",
-      "onboard_time": 1726588880,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 341202,
       "num": 341202,
       "word": "三只羊停播",
       "onboard_time": 1726579163,
       "rank": 10,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 339200,
+      "num": 339200,
+      "word": "勿忘九一八",
+      "onboard_time": 1726590258,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 324483,
@@ -139,12 +155,12 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 254040,
-      "num": 254040,
-      "word": "今日中国再不是1931年的中国",
-      "onboard_time": 1726589839,
-      "rank": 16,
-      "category": "国内时政"
+      "raw_hot": 254434,
+      "num": 254434,
+      "word": "王菲送李嫣英国留学",
+      "onboard_time": 1726588279,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 253407,
@@ -155,8 +171,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 235246,
-      "num": 235246,
+      "raw_hot": 241836,
+      "num": 241836,
       "word": "三只羊日销售额骤降九成以上",
       "onboard_time": 1726587680,
       "rank": 21,
@@ -184,22 +200,6 @@
       "word": "王祖贤回台湾过中秋",
       "onboard_time": 1726586782,
       "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 168705,
-      "num": 253438,
-      "word": "勿忘九一八",
-      "onboard_time": 1726590258,
-      "rank": 18,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 164965,
-      "num": 164965,
-      "word": "王菲送李嫣英国留学",
-      "onboard_time": 1726588279,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -251,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144575,
+      "num": 123704,
+      "word": "韩国第一夫人重启公开活动引不满",
+      "onboard_time": 1726588399,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 142921,
       "num": 142921,
       "word": "徐嘉余喊话王楚钦吃月饼",
@@ -297,14 +305,6 @@
       "onboard_time": 1726580302,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 123704,
-      "num": 123704,
-      "word": "韩国第一夫人重启公开活动引不满",
-      "onboard_time": 1726588399,
-      "rank": 38,
-      "category": "国外时政"
     },
     {
       "raw_hot": 117818,
@@ -371,6 +371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 105013,
+      "num": 105013,
+      "word": "男子退休第2天离家出走拒绝回家",
+      "onboard_time": 1726589238,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103157,
       "num": 103157,
       "word": "阿信 中秋之所以珍贵",
@@ -393,6 +401,14 @@
       "onboard_time": 1726583603,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 83015,
+      "num": 83015,
+      "word": "陈瑶嫦娥妆造",
+      "onboard_time": 1726591277,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 26018,

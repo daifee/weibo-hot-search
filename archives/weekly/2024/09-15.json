@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726590451835,
+  "endTime": 1726591389239,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -2043,6 +2043,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 462486,
+      "num": 462486,
+      "word": "王楚然硬美",
+      "onboard_time": 1726588880,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 462294,
       "num": 462294,
       "word": "迪丽热巴中秋营业照",
@@ -2265,6 +2273,14 @@
       "onboard_time": 1726498101,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400886,
+      "num": 400886,
+      "word": "今日中国再不是1931年的中国",
+      "onboard_time": 1726589839,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 400597,
@@ -2603,14 +2619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 347773,
-      "num": 347773,
-      "word": "王楚然硬美",
-      "onboard_time": 1726588880,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 347395,
       "num": 241669,
       "word": "许昕回应王楚钦输球是假球言论",
@@ -2657,6 +2665,14 @@
       "onboard_time": 1726531337,
       "rank": 26,
       "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 339200,
+      "num": 339200,
+      "word": "勿忘九一八",
+      "onboard_time": 1726590258,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 337548,
@@ -3475,20 +3491,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 254434,
+      "num": 254434,
+      "word": "王菲送李嫣英国留学",
+      "onboard_time": 1726588279,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254187,
       "num": 208858,
       "word": "女子灭蟑螂不料中毒进ICU抢救",
       "onboard_time": 1726374738,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 254040,
-      "num": 254040,
-      "word": "今日中国再不是1931年的中国",
-      "onboard_time": 1726589839,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 253983,
@@ -3651,6 +3667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241836,
+      "num": 241836,
+      "word": "三只羊日销售额骤降九成以上",
+      "onboard_time": 1726587680,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241218,
       "num": 241218,
       "word": "田启文透露徐少强夫人也于近日过世",
@@ -3745,14 +3769,6 @@
       "onboard_time": 1726399279,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235246,
-      "num": 235246,
-      "word": "三只羊日销售额骤降九成以上",
-      "onboard_time": 1726587680,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235015,
@@ -5595,14 +5611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168705,
-      "num": 253438,
-      "word": "勿忘九一八",
-      "onboard_time": 1726590258,
-      "rank": 18,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 168654,
       "num": 168654,
       "word": "杨紫中秋带piu出来玩耍",
@@ -5745,14 +5753,6 @@
       "onboard_time": 1726533557,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164965,
-      "num": 164965,
-      "word": "王菲送李嫣英国留学",
-      "onboard_time": 1726588279,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 164812,
@@ -6521,6 +6521,14 @@
       "onboard_time": 1726555940,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144575,
+      "num": 123704,
+      "word": "韩国第一夫人重启公开活动引不满",
+      "onboard_time": 1726588399,
+      "rank": 38,
+      "category": "国外时政"
     },
     {
       "raw_hot": 144367,
@@ -7331,14 +7339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123704,
-      "num": 123704,
-      "word": "韩国第一夫人重启公开活动引不满",
-      "onboard_time": 1726588399,
-      "rank": 38,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 123567,
       "num": 123567,
       "word": "王源演唱会韩东君人没去照片去了",
@@ -7907,6 +7907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 105013,
+      "num": 105013,
+      "word": "男子退休第2天离家出走拒绝回家",
+      "onboard_time": 1726589238,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104738,
       "num": 104738,
       "word": "夜市偶遇李多海",
@@ -8177,6 +8185,14 @@
       "onboard_time": 1726564758,
       "rank": 19,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 83015,
+      "num": 83015,
+      "word": "陈瑶嫦娥妆造",
+      "onboard_time": 1726591277,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 82335,
