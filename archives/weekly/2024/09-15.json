@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726577856951,
+  "endTime": 1726579656372,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -97,6 +97,14 @@
       "onboard_time": 1726546279,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2147549,
+      "num": 2147549,
+      "word": "月亮",
+      "onboard_time": 1726487960,
+      "rank": 36,
+      "category": "自然"
     },
     {
       "raw_hot": 1960290,
@@ -443,6 +451,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1337801,
+      "num": 1337801,
+      "word": "折腰",
+      "onboard_time": 1726575681,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1318532,
       "num": 1318532,
       "word": "陈乔恩托乔任梁父母给乔任梁送花",
@@ -539,6 +555,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 1228968,
+      "num": 1228968,
+      "word": "孕妇泰国坠崖案当事人官宣生子",
+      "onboard_time": 1726578622,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1212338,
       "num": 1212338,
       "word": "吴谨言官宣后首发博",
@@ -627,14 +651,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1140009,
-      "num": 1140009,
-      "word": "折腰",
-      "onboard_time": 1726575681,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1139433,
       "num": 1182309,
       "word": "国产恋综容不下二本学生吗",
@@ -721,14 +737,6 @@
       "onboard_time": 1726323264,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1075306,
-      "num": 1075306,
-      "word": "月亮",
-      "onboard_time": 1726487960,
-      "rank": 36,
-      "category": "自然"
     },
     {
       "raw_hot": 1067935,
@@ -873,6 +881,14 @@
       "onboard_time": 1726413441,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 890775,
+      "num": 890775,
+      "word": "唐嫣李现 养眼",
+      "onboard_time": 1726577001,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 876991,
@@ -1515,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 561226,
+      "num": 561226,
+      "word": "林高远 兼三项",
+      "onboard_time": 1726576641,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 560960,
       "num": 549165,
       "word": "关晓彤穿了特别定制礼服",
@@ -1529,6 +1553,14 @@
       "onboard_time": 1726374019,
       "rank": 41,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 557926,
+      "num": 557926,
+      "word": "山东男孩小区门口殴打母亲被民警带走",
+      "onboard_time": 1726576881,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 557731,
@@ -1579,20 +1611,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 552498,
+      "num": 552498,
+      "word": "徐志胜 是公司没有流水给你渴成这样吗",
+      "onboard_time": 1726573340,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 548758,
       "num": 736329,
       "word": "王源慌了",
       "onboard_time": 1726450098,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 544163,
-      "num": 544163,
-      "word": "徐志胜 是公司没有流水给你渴成这样吗",
-      "onboard_time": 1726573340,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 540023,
@@ -1731,6 +1763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 511623,
+      "num": 537140,
+      "word": "李现唐嫣若月亮没来",
+      "onboard_time": 1726577001,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 509627,
       "num": 509627,
       "word": "私企老板被指玩弄多名已婚女下属",
@@ -1859,14 +1899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 487162,
-      "num": 487162,
-      "word": "唐嫣李现 养眼",
-      "onboard_time": 1726577001,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 486076,
       "num": 486076,
       "word": "上海天空",
@@ -1929,14 +1961,6 @@
       "onboard_time": 1726496180,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 454715,
-      "num": 454715,
-      "word": "林高远 兼三项",
-      "onboard_time": 1726576641,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 454238,
@@ -2169,6 +2193,14 @@
       "onboard_time": 1726295119,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 396974,
+      "num": 396974,
+      "word": "孙颖莎搭档王艺迪出战女双",
+      "onboard_time": 1726577902,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 395954,
@@ -2499,6 +2531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334244,
+      "num": 334244,
+      "word": "记者实探三只羊集团",
+      "onboard_time": 1726578802,
+      "rank": 24,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 332628,
       "num": 332628,
       "word": "网红川味盐太婆离世",
@@ -2643,6 +2683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311769,
+      "num": 311769,
+      "word": "三只羊停播",
+      "onboard_time": 1726579163,
+      "rank": 26,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 310999,
       "num": 310999,
       "word": "还以为是刘亦菲哪部剧的路透",
@@ -2745,14 +2793,6 @@
       "onboard_time": 1726563200,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 300480,
-      "num": 537140,
-      "word": "李现唐嫣若月亮没来",
-      "onboard_time": 1726577001,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 299700,
@@ -3011,14 +3051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 270855,
-      "num": 270855,
-      "word": "山东男孩小区门口殴打母亲被民警带走",
-      "onboard_time": 1726576881,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 270347,
       "num": 270347,
       "word": "狐妖王权篇烛光月辉剧照",
@@ -3132,7 +3164,7 @@
     },
     {
       "raw_hot": 264324,
-      "num": 264324,
+      "num": 312651,
       "word": "第三方鉴定出三只羊所售茅台非正品",
       "onboard_time": 1726574841,
       "rank": 30,
@@ -3299,6 +3331,14 @@
       "category": "社会新闻,汽车"
     },
     {
+      "raw_hot": 249004,
+      "num": 249004,
+      "word": "陈昊宇张远合唱晚风",
+      "onboard_time": 1726578562,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247959,
       "num": 247959,
       "word": "贝碧嘉成75年来登陆上海最强台风",
@@ -3329,6 +3369,14 @@
       "onboard_time": 1726320503,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 246720,
+      "num": 536565,
+      "word": "70万买侄女一套房她反悔了怎么办",
+      "onboard_time": 1726577061,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246301,
@@ -3603,12 +3651,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 226763,
-      "num": 515292,
-      "word": "70万买侄女一套房她反悔了怎么办",
-      "onboard_time": 1726577061,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 226578,
+      "num": 562605,
+      "word": "毛不易单依纯东北民谣",
+      "onboard_time": 1726578443,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 226239,
@@ -3665,6 +3713,14 @@
       "onboard_time": 1726356196,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 221459,
+      "num": 488365,
+      "word": "魏哲鸣直播精神状态",
+      "onboard_time": 1726577662,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 220854,
@@ -5011,6 +5067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173045,
+      "num": 173045,
+      "word": "里斯本丸沉没梁素琴找到了",
+      "onboard_time": 1726579523,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 172686,
       "num": 172686,
       "word": "万吨大驱单挑外军舰队细节首次披露",
@@ -5024,6 +5088,14 @@
       "word": "高雅cp互关",
       "onboard_time": 1726488740,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 172374,
+      "num": 172374,
+      "word": "张凌赫rap",
+      "onboard_time": 1726578982,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -5201,6 +5273,14 @@
       "onboard_time": 1726407681,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166339,
+      "num": 166339,
+      "word": "RED广寒宫唱跳",
+      "onboard_time": 1726579582,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 166269,
@@ -6843,14 +6923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123715,
-      "num": 488365,
-      "word": "魏哲鸣直播精神状态",
-      "onboard_time": 1726577662,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 123567,
       "num": 123567,
       "word": "王源演唱会韩东君人没去照片去了",
@@ -7457,6 +7529,14 @@
       "onboard_time": 1726356736,
       "rank": 33,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 101614,
+      "num": 542524,
+      "word": "中国的传统节日为什么都和吃相关",
+      "onboard_time": 1726577600,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100910,
@@ -8236,7 +8316,7 @@
     },
     {
       "raw_hot": 38522,
-      "num": 1130108,
+      "num": 1253211,
       "word": "文化中国行看中秋之美",
       "onboard_time": 1726574000,
       "rank": 2,
@@ -8337,14 +8417,6 @@
       "onboard_time": 1726337953,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 33650,
-      "num": 542524,
-      "word": "中国的传统节日为什么都和吃相关",
-      "onboard_time": 1726577600,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33599,

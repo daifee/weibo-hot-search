@@ -1,6 +1,6 @@
 {
   "startTime": 1726504063678,
-  "endTime": 1726577856951,
+  "endTime": 1726579656372,
   "band_list": [
     {
       "raw_hot": 3116864,
@@ -41,6 +41,14 @@
       "onboard_time": 1726546279,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2147549,
+      "num": 2147549,
+      "word": "月亮",
+      "onboard_time": 1726487960,
+      "rank": 27,
+      "category": "自然"
     },
     {
       "raw_hot": 1917926,
@@ -139,6 +147,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1337801,
+      "num": 1337801,
+      "word": "折腰",
+      "onboard_time": 1726575681,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1318532,
       "num": 1318532,
       "word": "陈乔恩托乔任梁父母给乔任梁送花",
@@ -153,6 +169,14 @@
       "onboard_time": 1726561342,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1228968,
+      "num": 1228968,
+      "word": "孕妇泰国坠崖案当事人官宣生子",
+      "onboard_time": 1726578622,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1208681,
@@ -195,14 +219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1140009,
-      "num": 1140009,
-      "word": "折腰",
-      "onboard_time": 1726575681,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1113818,
       "num": 1178210,
       "word": "猎罪图鉴2",
@@ -225,14 +241,6 @@
       "onboard_time": 1726544719,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1075306,
-      "num": 1075306,
-      "word": "月亮",
-      "onboard_time": 1726487960,
-      "rank": 27,
-      "category": "自然"
     },
     {
       "raw_hot": 1067935,
@@ -289,6 +297,14 @@
       "onboard_time": 1726541299,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 890775,
+      "num": 890775,
+      "word": "唐嫣李现 养眼",
+      "onboard_time": 1726577001,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 875423,
@@ -483,12 +499,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 561226,
+      "num": 561226,
+      "word": "林高远 兼三项",
+      "onboard_time": 1726576641,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 560960,
       "num": 549165,
       "word": "关晓彤穿了特别定制礼服",
       "onboard_time": 1726543638,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 557926,
+      "num": 557926,
+      "word": "山东男孩小区门口殴打母亲被民警带走",
+      "onboard_time": 1726576881,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 557731,
@@ -499,8 +531,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 544163,
-      "num": 544163,
+      "raw_hot": 552498,
+      "num": 552498,
       "word": "徐志胜 是公司没有流水给你渴成这样吗",
       "onboard_time": 1726573340,
       "rank": 22,
@@ -539,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 511623,
+      "num": 537140,
+      "word": "李现唐嫣若月亮没来",
+      "onboard_time": 1726577001,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 505029,
       "num": 505029,
       "word": "陈少熙 花西子",
@@ -571,14 +611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 487162,
-      "num": 487162,
-      "word": "唐嫣李现 养眼",
-      "onboard_time": 1726577001,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 462294,
       "num": 462294,
       "word": "迪丽热巴中秋营业照",
@@ -593,14 +625,6 @@
       "onboard_time": 1726553300,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 454715,
-      "num": 454715,
-      "word": "林高远 兼三项",
-      "onboard_time": 1726576641,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 430107,
@@ -633,6 +657,14 @@
       "onboard_time": 1726545020,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396974,
+      "num": 396974,
+      "word": "孙颖莎搭档王艺迪出战女双",
+      "onboard_time": 1726577902,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 394685,
@@ -723,6 +755,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 334244,
+      "num": 334244,
+      "word": "记者实探三只羊集团",
+      "onboard_time": 1726578802,
+      "rank": 24,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 329794,
       "num": 329794,
       "word": "三只羊所售茅台已有72瓶不符合正品特征",
@@ -771,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311769,
+      "num": 311769,
+      "word": "三只羊停播",
+      "onboard_time": 1726579163,
+      "rank": 26,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 310714,
       "num": 310714,
       "word": "iOS18正式版",
@@ -817,14 +865,6 @@
       "onboard_time": 1726563200,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 300480,
-      "num": 537140,
-      "word": "李现唐嫣若月亮没来",
-      "onboard_time": 1726577001,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 298365,
@@ -923,14 +963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 270855,
-      "num": 270855,
-      "word": "山东男孩小区门口殴打母亲被民警带走",
-      "onboard_time": 1726576881,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 270347,
       "num": 270347,
       "word": "狐妖王权篇烛光月辉剧照",
@@ -980,7 +1012,7 @@
     },
     {
       "raw_hot": 264324,
-      "num": 264324,
+      "num": 312651,
       "word": "第三方鉴定出三只羊所售茅台非正品",
       "onboard_time": 1726574841,
       "rank": 30,
@@ -1033,6 +1065,22 @@
       "onboard_time": 1726486639,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 249004,
+      "num": 249004,
+      "word": "陈昊宇张远合唱晚风",
+      "onboard_time": 1726578562,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 246720,
+      "num": 536565,
+      "word": "70万买侄女一套房她反悔了怎么办",
+      "onboard_time": 1726577061,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246166,
@@ -1099,12 +1147,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 226763,
-      "num": 515292,
-      "word": "70万买侄女一套房她反悔了怎么办",
-      "onboard_time": 1726577061,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 226578,
+      "num": 562605,
+      "word": "毛不易单依纯东北民谣",
+      "onboard_time": 1726578443,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 224621,
@@ -1113,6 +1161,14 @@
       "onboard_time": 1726572860,
       "rank": 28,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 221459,
+      "num": 488365,
+      "word": "魏哲鸣直播精神状态",
+      "onboard_time": 1726577662,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 220854,
@@ -1547,6 +1603,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173045,
+      "num": 173045,
+      "word": "里斯本丸沉没梁素琴找到了",
+      "onboard_time": 1726579523,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 172374,
+      "num": 172374,
+      "word": "张凌赫rap",
+      "onboard_time": 1726578982,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172136,
       "num": 172136,
       "word": "合肥高新发布",
@@ -1601,6 +1673,14 @@
       "onboard_time": 1726559481,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 166339,
+      "num": 166339,
+      "word": "RED广寒宫唱跳",
+      "onboard_time": 1726579582,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 166259,
@@ -2179,14 +2259,6 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 123715,
-      "num": 488365,
-      "word": "魏哲鸣直播精神状态",
-      "onboard_time": 1726577662,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 123175,
       "num": 123175,
       "word": "小孩哥用冰箱贴在家搭了座博物馆",
@@ -2377,6 +2449,14 @@
       "onboard_time": 1726531938,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101614,
+      "num": 542524,
+      "word": "中国的传统节日为什么都和吃相关",
+      "onboard_time": 1726577600,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99902,
@@ -2740,7 +2820,7 @@
     },
     {
       "raw_hot": 38522,
-      "num": 1130108,
+      "num": 1253211,
       "word": "文化中国行看中秋之美",
       "onboard_time": 1726574000,
       "rank": 2,
@@ -2775,14 +2855,6 @@
       "num": 533302,
       "word": "100元月饼券50元回收利益链",
       "onboard_time": 1726572620,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33650,
-      "num": 542524,
-      "word": "中国的传统节日为什么都和吃相关",
-      "onboard_time": 1726577600,
       "rank": 9,
       "category": "社会新闻"
     },
