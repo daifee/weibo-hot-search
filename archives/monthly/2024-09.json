@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726565835815,
+  "endTime": 1726568579325,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -6531,6 +6531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 707302,
+      "num": 707302,
+      "word": "小学三年级英语新教材家长都懵了",
+      "onboard_time": 1726566319,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 707279,
       "num": 707279,
       "word": "Scout可能无法参加S14",
@@ -9408,6 +9416,14 @@
       "word": "城管与大学生店员冲突被停职",
       "onboard_time": 1726452319,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 522719,
+      "num": 522719,
+      "word": "小狗被毒死她自学刑法死磕投毒者",
+      "onboard_time": 1726561101,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -12579,6 +12595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 384144,
+      "num": 384144,
+      "word": "中秋节目单",
+      "onboard_time": 1726567640,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 383663,
       "num": 402656,
       "word": "檀健次居然还有个妹妹",
@@ -12667,6 +12691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 379967,
+      "num": 405434,
+      "word": "许家印香港30平房屋将被拍卖还债",
+      "onboard_time": 1726565300,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 379730,
       "num": 379730,
       "word": "海南发布接受台风救灾捐赠公告",
@@ -12753,6 +12785,14 @@
       "onboard_time": 1725888199,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375027,
+      "num": 381526,
+      "word": "赵露思中秋晒曾黎美照",
+      "onboard_time": 1726560980,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 374081,
@@ -12849,6 +12889,14 @@
       "onboard_time": 1725269300,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 371377,
+      "num": 371377,
+      "word": "宋亚轩 月饼公式",
+      "onboard_time": 1726563621,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 371355,
@@ -13089,6 +13137,14 @@
       "onboard_time": 1725422539,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 364267,
+      "num": 364267,
+      "word": "严浩翔直播",
+      "onboard_time": 1726568539,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 364144,
@@ -13689,14 +13745,6 @@
       "onboard_time": 1726311140,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 344098,
-      "num": 344098,
-      "word": "赵露思中秋晒曾黎美照",
-      "onboard_time": 1726560980,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 344082,
@@ -15153,6 +15201,14 @@
       "onboard_time": 1725196581,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 300937,
+      "num": 275465,
+      "word": "肖战给剧组送中秋礼物",
+      "onboard_time": 1726563200,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 300666,
@@ -17347,14 +17403,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 258925,
-      "num": 208811,
-      "word": "小狗被毒死她自学刑法死磕投毒者",
-      "onboard_time": 1726561101,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 258873,
       "num": 258873,
       "word": "陈昊宇演技",
@@ -18017,6 +18065,14 @@
       "onboard_time": 1726407261,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247702,
+      "num": 247702,
+      "word": "女演员空中表演嫦娥奔月撞到吊车大臂",
+      "onboard_time": 1726566798,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247643,
@@ -19681,14 +19737,6 @@
       "onboard_time": 1725859040,
       "rank": 49,
       "category": "数码"
-    },
-    {
-      "raw_hot": 228990,
-      "num": 228990,
-      "word": "肖战给剧组送中秋礼物",
-      "onboard_time": 1726563200,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 228857,
@@ -23091,6 +23139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200258,
+      "num": 200258,
+      "word": "超级月亮",
+      "onboard_time": 1726567401,
+      "rank": 30,
+      "category": "自然"
+    },
+    {
       "raw_hot": 200237,
       "num": 344982,
       "word": "吴昕学姜妍做醉虾",
@@ -25569,6 +25625,14 @@
       "onboard_time": 1725606440,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188233,
+      "num": 188233,
+      "word": "白鹿中秋美照",
+      "onboard_time": 1726568420,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 188197,
@@ -29171,14 +29235,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 170171,
-      "num": 170171,
-      "word": "宋亚轩 月饼公式",
-      "onboard_time": 1726563621,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 170063,
       "num": 170063,
       "word": "电影狂野时代首发剧照",
@@ -30955,6 +31011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161360,
+      "num": 161360,
+      "word": "马化腾重夺中国首富头衔",
+      "onboard_time": 1726565600,
+      "rank": 48,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 161286,
       "num": 161286,
       "word": "凡希亚也去了侃爷海口演唱会",
@@ -32449,6 +32513,14 @@
       "onboard_time": 1726110622,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154180,
+      "num": 154180,
+      "word": "密室大逃脱大神版",
+      "onboard_time": 1726566319,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 154162,
@@ -35249,6 +35321,14 @@
       "onboard_time": 1725807382,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 140601,
+      "num": 383331,
+      "word": "去县城旅游的中产后悔了",
+      "onboard_time": 1726566017,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140536,
@@ -38131,6 +38211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124961,
+      "num": 124961,
+      "word": "时代少年团 高会语音",
+      "onboard_time": 1726568359,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124908,
       "num": 124908,
       "word": "中级经济法答案",
@@ -39299,6 +39387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116622,
+      "num": 116622,
+      "word": "王栎鑫一个人上桌了",
+      "onboard_time": 1726567220,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116546,
       "num": 116546,
       "word": "妈妈比死神先到一步",
@@ -39883,14 +39979,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 112666,
-      "num": 112666,
-      "word": "马化腾重夺中国首富头衔",
-      "onboard_time": 1726565600,
-      "rank": 48,
-      "category": "互联网,财经"
-    },
-    {
       "raw_hot": 112644,
       "num": 376491,
       "word": "河南卫视创新能力",
@@ -40001,6 +40089,14 @@
       "onboard_time": 1726057161,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111691,
+      "num": 111691,
+      "word": "成毅 中秋明信片",
+      "onboard_time": 1726567040,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 111673,
@@ -42827,6 +42923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77342,
+      "num": 99099,
+      "word": "梁王称一个月没打球需要适应",
+      "onboard_time": 1726567998,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77138,
       "num": 77138,
       "word": "六公主报道张翰流光引",
@@ -43361,14 +43465,6 @@
       "onboard_time": 1726105758,
       "rank": 48,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 70025,
-      "num": 405434,
-      "word": "许家印香港30平房屋将被拍卖还债",
-      "onboard_time": 1726565300,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 69892,
@@ -46699,6 +46795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 39503,
+      "num": 1068805,
+      "word": "藏在古画里的诗意中秋",
+      "onboard_time": 1726560200,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39482,
       "num": 907521,
       "word": "2024年国家网络安全宣传周",
@@ -47435,14 +47539,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 35301,
-      "num": 1068805,
-      "word": "藏在古画里的诗意中秋",
-      "onboard_time": 1726560200,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35145,
       "num": 365793,
       "word": "吉利星愿预售价格",
@@ -47848,6 +47944,14 @@
       "word": "抗美援朝战地记者张崇岫逝世",
       "onboard_time": 1725682879,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32781,
+      "num": 382619,
+      "word": "直播带货亟需信任重塑",
+      "onboard_time": 1726567998,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -50465,6 +50569,14 @@
       "onboard_time": 1725713002,
       "rank": 36,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 14819,
+      "num": 372073,
+      "word": "篮球之夜嘉宾阵容官宣",
+      "onboard_time": 1726567220,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 14800,

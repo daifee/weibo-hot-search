@@ -1,6 +1,6 @@
 {
   "startTime": 1726504063678,
-  "endTime": 1726565835815,
+  "endTime": 1726568579325,
   "band_list": [
     {
       "raw_hot": 3116864,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 707302,
+      "num": 707302,
+      "word": "小学三年级英语新教材家长都懵了",
+      "onboard_time": 1726566319,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 706655,
       "num": 706655,
       "word": "总台秋晚节目单发布",
@@ -379,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 522719,
+      "num": 522719,
+      "word": "小狗被毒死她自学刑法死磕投毒者",
+      "onboard_time": 1726561101,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 516800,
       "num": 516800,
       "word": "赵露思台词",
@@ -467,11 +483,43 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 384144,
+      "num": 384144,
+      "word": "中秋节目单",
+      "onboard_time": 1726567640,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 379967,
+      "num": 405434,
+      "word": "许家印香港30平房屋将被拍卖还债",
+      "onboard_time": 1726565300,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 379618,
       "num": 379618,
       "word": "赵丽颖中秋节营业图",
       "onboard_time": 1726542018,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 375027,
+      "num": 381526,
+      "word": "赵露思中秋晒曾黎美照",
+      "onboard_time": 1726560980,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 371377,
+      "num": 371377,
+      "word": "宋亚轩 月饼公式",
+      "onboard_time": 1726563621,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -481,6 +529,14 @@
       "onboard_time": 1726557380,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 364267,
+      "num": 364267,
+      "word": "严浩翔直播",
+      "onboard_time": 1726568539,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 363895,
@@ -504,14 +560,6 @@
       "word": "王俊凯回重庆过中秋了",
       "onboard_time": 1726503317,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 344098,
-      "num": 344098,
-      "word": "赵露思中秋晒曾黎美照",
-      "onboard_time": 1726560980,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -593,6 +641,14 @@
       "onboard_time": 1726527734,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 300937,
+      "num": 275465,
+      "word": "肖战给剧组送中秋礼物",
+      "onboard_time": 1726563200,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 298365,
@@ -739,14 +795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 258925,
-      "num": 208811,
-      "word": "小狗被毒死她自学刑法死磕投毒者",
-      "onboard_time": 1726561101,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 258575,
       "num": 258575,
       "word": "永夜星河",
@@ -761,6 +809,14 @@
       "onboard_time": 1726486639,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247702,
+      "num": 247702,
+      "word": "女演员空中表演嫦娥奔月撞到吊车大臂",
+      "onboard_time": 1726566798,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246166,
@@ -809,14 +865,6 @@
       "onboard_time": 1726547182,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 228990,
-      "num": 228990,
-      "word": "肖战给剧组送中秋礼物",
-      "onboard_time": 1726563200,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 220854,
@@ -897,6 +945,14 @@
       "onboard_time": 1726544839,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200258,
+      "num": 200258,
+      "word": "超级月亮",
+      "onboard_time": 1726567401,
+      "rank": 30,
+      "category": "自然"
     },
     {
       "raw_hot": 199663,
@@ -1051,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188233,
+      "num": 188233,
+      "word": "白鹿中秋美照",
+      "onboard_time": 1726568420,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186421,
       "num": 186421,
       "word": "新郎接亲路上恳求新娘放人钓鱼",
@@ -1155,14 +1219,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 170171,
-      "num": 170171,
-      "word": "宋亚轩 月饼公式",
-      "onboard_time": 1726563621,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 168955,
       "num": 168955,
       "word": "24到27岁的感情观变化",
@@ -1243,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161360,
+      "num": 161360,
+      "word": "马化腾重夺中国首富头衔",
+      "onboard_time": 1726565600,
+      "rank": 48,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 160207,
       "num": 160207,
       "word": "美诚月饼",
@@ -1289,6 +1353,14 @@
       "onboard_time": 1726530676,
       "rank": 25,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 154180,
+      "num": 154180,
+      "word": "密室大逃脱大神版",
+      "onboard_time": 1726566319,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 153166,
@@ -1465,6 +1537,14 @@
       "onboard_time": 1726493480,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140601,
+      "num": 383331,
+      "word": "去县城旅游的中产后悔了",
+      "onboard_time": 1726566017,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140429,
@@ -1715,6 +1795,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 124961,
+      "num": 124961,
+      "word": "时代少年团 高会语音",
+      "onboard_time": 1726568359,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123175,
       "num": 123175,
       "word": "小孩哥用冰箱贴在家搭了座博物馆",
@@ -1763,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116622,
+      "num": 116622,
+      "word": "王栎鑫一个人上桌了",
+      "onboard_time": 1726567220,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116363,
       "num": 116363,
       "word": "亚马逊CEO恢复一周5天办公室上班",
@@ -1803,20 +1899,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112666,
-      "num": 112666,
-      "word": "马化腾重夺中国首富头衔",
-      "onboard_time": 1726565600,
-      "rank": 48,
-      "category": "互联网,财经"
-    },
-    {
       "raw_hot": 112644,
       "num": 112644,
       "word": "河南卫视创新能力",
       "onboard_time": 1726499840,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111691,
+      "num": 111691,
+      "word": "成毅 中秋明信片",
+      "onboard_time": 1726567040,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 111671,
@@ -2043,6 +2139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77342,
+      "num": 99099,
+      "word": "梁王称一个月没打球需要适应",
+      "onboard_time": 1726567998,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76114,
       "num": 76114,
       "word": "生日收到大鹅花束是什么感觉",
@@ -2081,14 +2185,6 @@
       "onboard_time": 1726562420,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 70025,
-      "num": 405434,
-      "word": "许家印香港30平房屋将被拍卖还债",
-      "onboard_time": 1726565300,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 69189,
@@ -2211,6 +2307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39503,
+      "num": 1068805,
+      "word": "藏在古画里的诗意中秋",
+      "onboard_time": 1726560200,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37392,
       "num": 276062,
       "word": "俄武装力量编制人数增至近239万人",
@@ -2227,11 +2331,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35301,
-      "num": 1068805,
-      "word": "藏在古画里的诗意中秋",
-      "onboard_time": 1726560200,
-      "rank": 2,
+      "raw_hot": 32781,
+      "num": 382619,
+      "word": "直播带货亟需信任重塑",
+      "onboard_time": 1726567998,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2369,6 +2473,14 @@
       "onboard_time": 1726516032,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14819,
+      "num": 372073,
+      "word": "篮球之夜嘉宾阵容官宣",
+      "onboard_time": 1726567220,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 14519,

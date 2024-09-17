@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/17 17:37:15
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/17 18:22:59
 </p>
 </blockquote>
 <p>
@@ -4911,6 +4911,12 @@ iPhone16Pro（热度：708709）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%8B%B1%E8%AF%AD%E6%96%B0%E6%95%99%E6%9D%90%E5%AE%B6%E9%95%BF%E9%83%BD%E6%87%B5%E4%BA%86%23" target="weibo">
+小学三年级英语新教材家长都懵了（热度：707302）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Scout%E5%8F%AF%E8%83%BD%E6%97%A0%E6%B3%95%E5%8F%82%E5%8A%A0S14%23" target="weibo">
 Scout可能无法参加S14（热度：707279）
 </a>
@@ -6005,12 +6011,6 @@ iPhone16不送苹果logo贴纸（热度：614865）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E9%A6%99%E6%B8%AF%E6%9C%88%E9%A5%BC%E9%A6%99%E6%B8%AF%E4%B9%B0%E4%B8%8D%E5%88%B0%23" target="weibo">
 人民网评香港月饼香港买不到（热度：606411）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%AF%8F%E4%B8%AA%E6%9C%88%E7%94%9F%E6%B4%BB%E8%B4%B91500%E5%85%83%E5%A4%9F%E5%90%97%23" target="weibo">
-大学生每个月生活费1500元够吗（热度：606389）
 </a>
 </li>
 
