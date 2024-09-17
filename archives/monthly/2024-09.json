@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726587460611,
+  "endTime": 1726590451835,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -3481,6 +3481,14 @@
       "onboard_time": 1725877939,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1110468,
+      "num": 1110468,
+      "word": "苹果变安卓",
+      "onboard_time": 1726584742,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 1110060,
@@ -13595,6 +13603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357481,
+      "num": 357481,
+      "word": "杨紫代言MK",
+      "onboard_time": 1726587919,
+      "rank": 8,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 357479,
       "num": 357479,
       "word": "香港小姐",
@@ -13889,6 +13905,14 @@
       "onboard_time": 1726212864,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 347773,
+      "num": 347773,
+      "word": "王楚然硬美",
+      "onboard_time": 1726588880,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 347570,
@@ -14595,6 +14619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 324483,
+      "num": 546567,
+      "word": "央视boys穿西装没告诉撒贝宁",
+      "onboard_time": 1726586061,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 324090,
       "num": 324090,
       "word": "金秀贤听到粉丝喊金智媛的反应",
@@ -15155,14 +15187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 309763,
-      "num": 546567,
-      "word": "央视boys穿西装没告诉撒贝宁",
-      "onboard_time": 1726586061,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 309106,
       "num": 283443,
       "word": "颜人中演唱会官宣",
@@ -15473,14 +15497,6 @@
       "onboard_time": 1725324680,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 302419,
-      "num": 302419,
-      "word": "苹果变安卓",
-      "onboard_time": 1726584742,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 302396,
@@ -18155,6 +18171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254040,
+      "num": 254040,
+      "word": "今日中国再不是1931年的中国",
+      "onboard_time": 1726589839,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 253983,
       "num": 223946,
       "word": "狗子啃黄景瑜啃掉一颗牙",
@@ -19585,6 +19609,14 @@
       "onboard_time": 1725199640,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 235246,
+      "num": 235246,
+      "word": "三只羊日销售额骤降九成以上",
+      "onboard_time": 1726587680,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235053,
@@ -30227,6 +30259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168705,
+      "num": 253438,
+      "word": "勿忘九一八",
+      "onboard_time": 1726590258,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 168657,
       "num": 168657,
       "word": "全红婵给国乒男团拍合照",
@@ -31017,6 +31057,14 @@
       "onboard_time": 1725200241,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164965,
+      "num": 164965,
+      "word": "王菲送李嫣英国留学",
+      "onboard_time": 1726588279,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 164812,
@@ -39203,6 +39251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123704,
+      "num": 123704,
+      "word": "韩国第一夫人重启公开活动引不满",
+      "onboard_time": 1726588399,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 123611,
       "num": 123611,
       "word": "奥运群像",
@@ -40625,6 +40681,14 @@
       "onboard_time": 1726460960,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113201,
+      "num": 113201,
+      "word": "杨紫中秋自拍",
+      "onboard_time": 1726587680,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 113178,

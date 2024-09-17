@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/17 23:37:40
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/18 00:27:31
 </p>
 </blockquote>
 <p>
@@ -2621,6 +2621,12 @@ NewJeans被HYBE其他艺人团队排挤（热度：1130540）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E8%80%81%E5%88%98%20%E7%A6%BB%E5%A9%9A%E4%B8%8D%E8%80%BD%E8%AF%AF%E6%9C%8B%E5%8F%8B%E5%8F%91%E5%B1%95%23" target="weibo">
 傅首尔老刘 离婚不耽误朋友发展（热度：1111093）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%98%E5%AE%89%E5%8D%93%23" target="weibo">
+苹果变安卓（热度：1110468）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone16新配色（热度：634006）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9D%B4%E8%9D%B6%E5%A7%90%E5%A7%90%E6%80%80%E5%AD%95%23" target="weibo">
 蝴蝶姐姐怀孕（热度：617575）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%99%AE%E6%8B%89%E6%A1%91%E5%B0%86%E7%99%BB%E9%99%86%E6%B5%99%E6%B1%9F%E6%B2%BF%E6%B5%B7%23" target="weibo">
-台风普拉桑将登陆浙江沿海（热度：617236）
 </a>
 </li>
 
