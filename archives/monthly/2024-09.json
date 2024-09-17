@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726580349339,
+  "endTime": 1726582790818,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -331,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2946071,
+      "num": 2946071,
+      "word": "孕妇泰国坠崖案当事人官宣生子",
+      "onboard_time": 1726578622,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2936434,
       "num": 2936434,
       "word": "张杰工作室道歉",
@@ -425,14 +433,6 @@
       "onboard_time": 1726229301,
       "rank": 1,
       "category": "数码"
-    },
-    {
-      "raw_hot": 2674065,
-      "num": 2674065,
-      "word": "孕妇泰国坠崖案当事人官宣生子",
-      "onboard_time": 1726578622,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2657671,
@@ -3995,6 +3995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1020798,
+      "num": 1020798,
+      "word": "三只羊停播",
+      "onboard_time": 1726579163,
+      "rank": 26,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1019771,
       "num": 1019771,
       "word": "奥运冠军李倩杨家玉获赠住房",
@@ -4465,6 +4473,14 @@
       "onboard_time": 1726403361,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 945767,
+      "num": 682448,
+      "word": "假唱",
+      "onboard_time": 1726581862,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 944709,
@@ -6483,6 +6499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 724782,
+      "num": 724782,
+      "word": "蔡徐坤发月亮照片",
+      "onboard_time": 1726580661,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 723481,
       "num": 291627,
       "word": "何炅 自卑的人该怎样治愈自己",
@@ -6993,6 +7017,14 @@
       "onboard_time": 1725173058,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 681793,
+      "num": 681793,
+      "word": "70万买侄女一套房她反悔了怎么办",
+      "onboard_time": 1726577061,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 681552,
@@ -8361,14 +8393,6 @@
       "onboard_time": 1725193939,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 592987,
-      "num": 592987,
-      "word": "三只羊停播",
-      "onboard_time": 1726579163,
-      "rank": 26,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 592908,
@@ -9985,6 +10009,14 @@
       "onboard_time": 1725408620,
       "rank": 26,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 506191,
+      "num": 433173,
+      "word": "记者实探三只羊集团",
+      "onboard_time": 1726578802,
+      "rank": 24,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 505029,
@@ -12011,14 +12043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 415517,
-      "num": 536565,
-      "word": "70万买侄女一套房她反悔了怎么办",
-      "onboard_time": 1726577061,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 414788,
       "num": 414788,
       "word": "女童骑车飞冲撞人被判主责妈妈不服",
@@ -12491,14 +12515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 398727,
-      "num": 398727,
-      "word": "记者实探三只羊集团",
-      "onboard_time": 1726578802,
-      "rank": 24,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 398668,
       "num": 398668,
       "word": "华为新机提前拆封罚款50万起",
@@ -12779,6 +12795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 386033,
+      "num": 386033,
+      "word": "徐嘉余喊话王楚钦吃月饼",
+      "onboard_time": 1726581683,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 386023,
       "num": 386023,
       "word": "经济法 现场立法",
@@ -13051,6 +13075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 373068,
+      "num": 373068,
+      "word": "大闸蟹今年为啥卖不动了",
+      "onboard_time": 1726581683,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372825,
       "num": 372825,
       "word": "张凌赫赵今麦吻戏路透",
@@ -13121,6 +13153,14 @@
       "onboard_time": 1726110380,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 370718,
+      "num": 520269,
+      "word": "研究生数量超本科生高校招生引争议",
+      "onboard_time": 1726581141,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 370673,
@@ -13369,6 +13409,14 @@
       "onboard_time": 1726501040,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 363702,
+      "num": 363702,
+      "word": "小杨哥已近一个月未更新视频",
+      "onboard_time": 1726580120,
+      "rank": 34,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 363698,
@@ -14721,6 +14769,14 @@
       "onboard_time": 1725925818,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 316625,
+      "num": 466216,
+      "word": "张真源 怎么没人通知我戴帽子",
+      "onboard_time": 1726576581,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 316563,
@@ -16459,14 +16515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 280267,
-      "num": 466216,
-      "word": "张真源 怎么没人通知我戴帽子",
-      "onboard_time": 1726576581,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 280122,
       "num": 280122,
       "word": "第二部国产3A大作已在开发",
@@ -17553,6 +17601,14 @@
       "onboard_time": 1725882379,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 261042,
+      "num": 261042,
+      "word": "iPad终于有计算器了",
+      "onboard_time": 1726581980,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 260984,
@@ -18643,14 +18699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 244332,
-      "num": 244332,
-      "word": "小杨哥已近一个月未更新视频",
-      "onboard_time": 1726580120,
-      "rank": 34,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 244035,
       "num": 214276,
       "word": "京东将实现20薪",
@@ -19225,6 +19273,14 @@
       "onboard_time": 1725368840,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238171,
+      "num": 274019,
+      "word": "鹿晗 微博音乐盛典",
+      "onboard_time": 1726581622,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 238022,
@@ -20195,6 +20251,14 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 227328,
+      "num": 227328,
+      "word": "周深唱嗨致敬中国航天",
+      "onboard_time": 1726581323,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227319,
       "num": 227319,
       "word": "别人杀青捧了花你俩白了发",
@@ -20825,6 +20889,14 @@
       "onboard_time": 1726319723,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 220219,
+      "num": 501846,
+      "word": "李宇春唱了一首给妈妈的歌",
+      "onboard_time": 1726580302,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 220218,
@@ -23257,6 +23329,14 @@
       "onboard_time": 1725868339,
       "rank": 17,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 201626,
+      "num": 201626,
+      "word": "两个秦昊都来了",
+      "onboard_time": 1726582522,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 201606,
@@ -26027,6 +26107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188251,
+      "num": 188251,
+      "word": "力丸锁骨吻痕",
+      "onboard_time": 1726582643,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 188240,
       "num": 188240,
       "word": "崔然竣9月SOLO出道",
@@ -26699,6 +26787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 185215,
+      "num": 185215,
+      "word": "张杰中秋vlog",
+      "onboard_time": 1726582222,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185177,
       "num": 185177,
       "word": "喜马拉雅崩了",
@@ -26784,6 +26880,14 @@
       "word": "王源给每个人都送了种子",
       "onboard_time": 1725686958,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 184962,
+      "num": 184962,
+      "word": "万茜陈楚生合唱风吹麦浪",
+      "onboard_time": 1726582702,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -27817,6 +27921,14 @@
       "onboard_time": 1725285382,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 179437,
+      "num": 179437,
+      "word": "沈月 我真不是个东西",
+      "onboard_time": 1726581024,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 179418,
@@ -28859,6 +28971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174561,
+      "num": 432041,
+      "word": "谢娜女儿做的月饼",
+      "onboard_time": 1726581683,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174516,
       "num": 174516,
       "word": "时代少年团8月行程图",
@@ -28993,6 +29113,14 @@
       "onboard_time": 1726305140,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173852,
+      "num": 173852,
+      "word": "胡明轩担任中国男篮队长",
+      "onboard_time": 1726580242,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 173850,
@@ -30073,14 +30201,6 @@
       "onboard_time": 1725343942,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 167988,
-      "num": 167988,
-      "word": "胡明轩担任中国男篮队长",
-      "onboard_time": 1726580242,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 167901,
@@ -31841,14 +31961,6 @@
       "onboard_time": 1725192797,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159397,
-      "num": 159397,
-      "word": "李宇春唱了一首给妈妈的歌",
-      "onboard_time": 1726580302,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 159323,
@@ -44695,6 +44807,14 @@
       "num": 380157,
       "word": "啄木鸟平台修空调水管1147元",
       "onboard_time": 1726042281,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61489,
+      "num": 682587,
+      "word": "10人拼单赌石8个人都是托儿",
+      "onboard_time": 1726582043,
       "rank": 9,
       "category": "社会新闻"
     },

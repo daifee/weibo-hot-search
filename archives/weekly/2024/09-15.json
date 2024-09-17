@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726580349339,
+  "endTime": 1726582790818,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2946071,
+      "num": 2946071,
+      "word": "孕妇泰国坠崖案当事人官宣生子",
+      "onboard_time": 1726578622,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2907810,
       "num": 554782,
       "word": "周也肩膀 蟑螂",
@@ -57,14 +65,6 @@
       "onboard_time": 1726497202,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2674065,
-      "num": 2674065,
-      "word": "孕妇泰国坠崖案当事人官宣生子",
-      "onboard_time": 1726578622,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2581535,
@@ -771,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1020798,
+      "num": 1020798,
+      "word": "三只羊停播",
+      "onboard_time": 1726579163,
+      "rank": 26,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1013316,
       "num": 1013316,
       "word": "台风贝碧嘉中心预计将经过苏州",
@@ -865,6 +873,14 @@
       "onboard_time": 1726403361,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 945767,
+      "num": 682448,
+      "word": "假唱",
+      "onboard_time": 1726581862,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 932853,
@@ -1131,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 724782,
+      "num": 724782,
+      "word": "蔡徐坤发月亮照片",
+      "onboard_time": 1726580661,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 721148,
       "num": 426947,
       "word": "女子称地铁上遭男子猥亵对方裤子湿了",
@@ -1209,6 +1233,14 @@
       "onboard_time": 1726453759,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 681793,
+      "num": 681793,
+      "word": "70万买侄女一套房她反悔了怎么办",
+      "onboard_time": 1726577061,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 664685,
@@ -1497,14 +1529,6 @@
       "onboard_time": 1726383979,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 592987,
-      "num": 592987,
-      "word": "三只羊停播",
-      "onboard_time": 1726579163,
-      "rank": 26,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 585281,
@@ -1801,6 +1825,14 @@
       "onboard_time": 1726467379,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 506191,
+      "num": 433173,
+      "word": "记者实探三只羊集团",
+      "onboard_time": 1726578802,
+      "rank": 24,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 505029,
@@ -2107,14 +2139,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 415517,
-      "num": 536565,
-      "word": "70万买侄女一套房她反悔了怎么办",
-      "onboard_time": 1726577061,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 413335,
       "num": 366469,
       "word": "常州台风",
@@ -2203,14 +2227,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 398727,
-      "num": 398727,
-      "word": "记者实探三只羊集团",
-      "onboard_time": 1726578802,
-      "rank": 24,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 398482,
       "num": 398482,
       "word": "钟意荣获夏决FMVP",
@@ -2257,6 +2273,14 @@
       "onboard_time": 1726380857,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 386033,
+      "num": 386033,
+      "word": "徐嘉余喊话王楚钦吃月饼",
+      "onboard_time": 1726581683,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 384758,
@@ -2331,6 +2355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 373068,
+      "num": 373068,
+      "word": "大闸蟹今年为啥卖不动了",
+      "onboard_time": 1726581683,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372825,
       "num": 372825,
       "word": "张凌赫赵今麦吻戏路透",
@@ -2345,6 +2377,14 @@
       "onboard_time": 1726563621,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 370718,
+      "num": 520269,
+      "word": "研究生数量超本科生高校招生引争议",
+      "onboard_time": 1726581141,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 370500,
@@ -2417,6 +2457,14 @@
       "onboard_time": 1726501040,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 363702,
+      "num": 363702,
+      "word": "小杨哥已近一个月未更新视频",
+      "onboard_time": 1726580120,
+      "rank": 34,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 361435,
@@ -2641,6 +2689,14 @@
       "onboard_time": 1726454478,
       "rank": 27,
       "category": "科学科普,自然"
+    },
+    {
+      "raw_hot": 316625,
+      "num": 466216,
+      "word": "张真源 怎么没人通知我戴帽子",
+      "onboard_time": 1726576581,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 316563,
@@ -3035,14 +3091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 280267,
-      "num": 466216,
-      "word": "张真源 怎么没人通知我戴帽子",
-      "onboard_time": 1726576581,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 279647,
       "num": 279647,
       "word": "中秋假期第一天",
@@ -3241,6 +3289,14 @@
       "onboard_time": 1726408341,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261042,
+      "num": 261042,
+      "word": "iPad终于有计算器了",
+      "onboard_time": 1726581980,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 260421,
@@ -3443,14 +3499,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 244332,
-      "num": 244332,
-      "word": "小杨哥已近一个月未更新视频",
-      "onboard_time": 1726580120,
-      "rank": 34,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 243326,
       "num": 243326,
       "word": "张凌赫 边走边脱",
@@ -3545,6 +3593,14 @@
       "onboard_time": 1726390519,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238171,
+      "num": 274019,
+      "word": "鹿晗 微博音乐盛典",
+      "onboard_time": 1726581622,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 237833,
@@ -3683,6 +3739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227328,
+      "num": 227328,
+      "word": "周深唱嗨致敬中国航天",
+      "onboard_time": 1726581323,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226239,
       "num": 238067,
       "word": "易烊千玺给工作室送的7岁生日祝福",
@@ -3777,6 +3841,14 @@
       "onboard_time": 1726400480,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 220219,
+      "num": 501846,
+      "word": "李宇春唱了一首给妈妈的歌",
+      "onboard_time": 1726580302,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 220174,
@@ -4176,6 +4248,14 @@
       "word": "金晨新中式造型",
       "onboard_time": 1726544839,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201626,
+      "num": 201626,
+      "word": "两个秦昊都来了",
+      "onboard_time": 1726582522,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -4667,6 +4747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188251,
+      "num": 188251,
+      "word": "力丸锁骨吻痕",
+      "onboard_time": 1726582643,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 187628,
       "num": 187628,
       "word": "RED广寒宫唱跳",
@@ -4747,6 +4835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185215,
+      "num": 185215,
+      "word": "张杰中秋vlog",
+      "onboard_time": 1726582222,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185012,
       "num": 185012,
       "word": "普拉桑",
@@ -4761,6 +4857,14 @@
       "onboard_time": 1726455740,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184962,
+      "num": 184962,
+      "word": "万茜陈楚生合唱风吹麦浪",
+      "onboard_time": 1726582702,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 184727,
@@ -4905,6 +5009,14 @@
       "onboard_time": 1726302019,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 179437,
+      "num": 179437,
+      "word": "沈月 我真不是个东西",
+      "onboard_time": 1726581024,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 179258,
@@ -5067,6 +5179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 174561,
+      "num": 432041,
+      "word": "谢娜女儿做的月饼",
+      "onboard_time": 1726581683,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174360,
       "num": 174360,
       "word": "1元月饼好吃吗",
@@ -5080,6 +5200,14 @@
       "word": "王楚钦无缘决赛",
       "onboard_time": 1726324226,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 173852,
+      "num": 173852,
+      "word": "胡明轩担任中国男篮队长",
+      "onboard_time": 1726580242,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -5265,14 +5393,6 @@
       "onboard_time": 1726481479,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 167988,
-      "num": 167988,
-      "word": "胡明轩担任中国男篮队长",
-      "onboard_time": 1726580242,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 167901,
@@ -5625,14 +5745,6 @@
       "onboard_time": 1726571300,
       "rank": 47,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 159397,
-      "num": 159397,
-      "word": "李宇春唱了一首给妈妈的歌",
-      "onboard_time": 1726580302,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 159231,
@@ -8031,6 +8143,14 @@
       "num": 150114,
       "word": "酒店回应女生入住遭陌生男子闯入",
       "onboard_time": 1726337593,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61489,
+      "num": 682587,
+      "word": "10人拼单赌石8个人都是托儿",
+      "onboard_time": 1726582043,
       "rank": 9,
       "category": "社会新闻"
     },
