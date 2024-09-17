@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726586604380,
+  "endTime": 1726587460611,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -3587,8 +3587,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1087951,
-      "num": 1087951,
+      "raw_hot": 1091590,
+      "num": 1091590,
       "word": "研究生数量超本科生高校招生引争议",
       "onboard_time": 1726581141,
       "rank": 14,
@@ -4571,6 +4571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 931707,
+      "num": 931707,
+      "word": "央视镜头下的金晨",
+      "onboard_time": 1726583363,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 929855,
       "num": 795070,
       "word": "中学食堂15元配菜只有米饭和丸子",
@@ -4809,14 +4817,6 @@
       "onboard_time": 1725118821,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 902745,
-      "num": 902745,
-      "word": "央视镜头下的金晨",
-      "onboard_time": 1726583363,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 902369,
@@ -8059,6 +8059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 615087,
+      "num": 615087,
+      "word": "唐嫣宋慧乔秀场同框",
+      "onboard_time": 1726585163,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 614865,
       "num": 614865,
       "word": "iPhone16不送苹果logo贴纸",
@@ -10635,14 +10643,6 @@
       "category": "国外时政,艺人"
     },
     {
-      "raw_hot": 481451,
-      "num": 481451,
-      "word": "唐嫣宋慧乔秀场同框",
-      "onboard_time": 1726585163,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 480135,
       "num": 400506,
       "word": "好久不见的长发秦岚",
@@ -12249,6 +12249,14 @@
       "onboard_time": 1725861140,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409387,
+      "num": 409387,
+      "word": "道枝骏佑 镖人",
+      "onboard_time": 1726585523,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 409291,
@@ -14011,14 +14019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 344267,
-      "num": 344267,
-      "word": "道枝骏佑 镖人",
-      "onboard_time": 1726585523,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 344101,
       "num": 344101,
       "word": "Deft最后一舞落幕",
@@ -14065,6 +14065,14 @@
       "onboard_time": 1726236563,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 342216,
+      "num": 342216,
+      "word": "外网爆Yagao审批通过",
+      "onboard_time": 1726585582,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 341602,
@@ -15145,6 +15153,14 @@
       "onboard_time": 1725849258,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 309763,
+      "num": 546567,
+      "word": "央视boys穿西装没告诉撒贝宁",
+      "onboard_time": 1726586061,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 309106,
@@ -16731,14 +16747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 276798,
-      "num": 276798,
-      "word": "外网爆Yagao审批通过",
-      "onboard_time": 1726585582,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 276026,
       "num": 276026,
       "word": "这5类人喝咖啡格外受益",
@@ -17523,6 +17531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 263617,
+      "num": 429609,
+      "word": "关晓彤新中式镂空旗袍",
+      "onboard_time": 1726583662,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263502,
       "num": 263502,
       "word": "枸杞 硫磺",
@@ -18299,14 +18315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 250232,
-      "num": 285216,
-      "word": "央视boys穿西装没告诉撒贝宁",
-      "onboard_time": 1726586061,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 250133,
       "num": 391091,
       "word": "刘亦菲天津一日游",
@@ -18625,14 +18633,6 @@
       "onboard_time": 1726459340,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 246290,
-      "num": 429609,
-      "word": "关晓彤新中式镂空旗袍",
-      "onboard_time": 1726583662,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 246288,
@@ -22051,6 +22051,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 209796,
+      "num": 209796,
+      "word": "阿信 中秋之所以珍贵",
+      "onboard_time": 1726586901,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209780,
       "num": 209780,
       "word": "赵丽颖刘烨你过来呀",
@@ -23800,6 +23808,14 @@
       "word": "朱志鑫直播截图",
       "onboard_time": 1726323866,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 199866,
+      "num": 199866,
+      "word": "王祖贤回台湾过中秋",
+      "onboard_time": 1726586782,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -27491,6 +27507,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 182645,
+      "num": 182645,
+      "word": "何浩楠 头发它卷起来了",
+      "onboard_time": 1726587022,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182599,
       "num": 205465,
       "word": "张凌赫赵今麦 真校园恋爱视角",
@@ -29593,6 +29617,14 @@
       "onboard_time": 1725533659,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172575,
+      "num": 172575,
+      "word": "田曦薇黑色短裤搭皮靴",
+      "onboard_time": 1726586720,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 172548,
@@ -48187,6 +48219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36561,
+      "num": 497344,
+      "word": "汪苏泷演唱会万人乐在一起",
+      "onboard_time": 1726584024,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 36542,
       "num": 575530,
       "word": "摩羯来袭多地停工停课停运",
@@ -48993,14 +49033,6 @@
       "onboard_time": 1725194840,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31753,
-      "num": 443037,
-      "word": "汪苏泷演唱会万人乐在一起",
-      "onboard_time": 1726584024,
-      "rank": 12,
-      "category": "演出"
     },
     {
       "raw_hot": 31749,
