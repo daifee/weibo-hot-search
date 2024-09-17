@@ -1,6 +1,6 @@
 {
   "startTime": 1726504063678,
-  "endTime": 1726583873660,
+  "endTime": 1726586604380,
   "band_list": [
     {
       "raw_hot": 3116864,
@@ -243,6 +243,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1087951,
+      "num": 1087951,
+      "word": "研究生数量超本科生高校招生引争议",
+      "onboard_time": 1726581141,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1086243,
       "num": 1173798,
       "word": "金巧巧离婚风波后晒全家福",
@@ -315,6 +323,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 902745,
+      "num": 902745,
+      "word": "央视镜头下的金晨",
+      "onboard_time": 1726583363,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 890775,
       "num": 890775,
       "word": "唐嫣李现 养眼",
@@ -353,6 +369,14 @@
       "onboard_time": 1726541838,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 832226,
+      "num": 832226,
+      "word": "大闸蟹今年为啥卖不动了",
+      "onboard_time": 1726581683,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 821118,
@@ -489,6 +513,14 @@
       "onboard_time": 1726534759,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 622736,
+      "num": 622736,
+      "word": "潘展乐周杰伦合照",
+      "onboard_time": 1726584322,
+      "rank": 8,
+      "category": "演出,体育"
     },
     {
       "raw_hot": 617826,
@@ -667,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 481451,
+      "num": 481451,
+      "word": "唐嫣宋慧乔秀场同框",
+      "onboard_time": 1726585163,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 462294,
       "num": 462294,
       "word": "迪丽热巴中秋营业照",
@@ -731,14 +771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 385930,
-      "num": 548695,
-      "word": "研究生数量超本科生高校招生引争议",
-      "onboard_time": 1726581141,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 384758,
       "num": 384758,
       "word": "方灿姚琛 什刹海",
@@ -761,14 +793,6 @@
       "onboard_time": 1726560980,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 373068,
-      "num": 373068,
-      "word": "大闸蟹今年为啥卖不动了",
-      "onboard_time": 1726581683,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 371377,
@@ -817,6 +841,14 @@
       "onboard_time": 1726503317,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 344267,
+      "num": 344267,
+      "word": "道枝骏佑 镖人",
+      "onboard_time": 1726585523,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 340781,
@@ -931,6 +963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 302419,
+      "num": 302419,
+      "word": "苹果变安卓",
+      "onboard_time": 1726584742,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 302033,
       "num": 302033,
       "word": "周依然 节目",
@@ -955,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300146,
+      "num": 300146,
+      "word": "力丸锁骨吻痕",
+      "onboard_time": 1726582643,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 299392,
       "num": 299392,
       "word": "iPad终于有计算器了",
@@ -977,6 +1025,14 @@
       "onboard_time": 1726575380,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 285092,
+      "num": 553038,
+      "word": "鹿晗 微博音乐盛典",
+      "onboard_time": 1726581622,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 283804,
@@ -1033,6 +1089,14 @@
       "onboard_time": 1726574841,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276798,
+      "num": 276798,
+      "word": "外网爆Yagao审批通过",
+      "onboard_time": 1726585582,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 275643,
@@ -1163,11 +1227,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250232,
+      "num": 285216,
+      "word": "央视boys穿西装没告诉撒贝宁",
+      "onboard_time": 1726586061,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249004,
       "num": 737864,
       "word": "陈昊宇张远合唱晚风",
       "onboard_time": 1726578562,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 246290,
+      "num": 429609,
+      "word": "关晓彤新中式镂空旗袍",
+      "onboard_time": 1726583662,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -1209,14 +1289,6 @@
       "onboard_time": 1726565000,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 238171,
-      "num": 553038,
-      "word": "鹿晗 微博音乐盛典",
-      "onboard_time": 1726581622,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 237653,
@@ -1283,14 +1355,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 223994,
-      "num": 223994,
-      "word": "央视镜头下的金晨",
-      "onboard_time": 1726583363,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 221459,
       "num": 488365,
       "word": "魏哲鸣直播精神状态",
@@ -1339,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213280,
+      "num": 213280,
+      "word": "射手座永远向前看",
+      "onboard_time": 1726585523,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 212416,
       "num": 212416,
       "word": "港媒用车大炮报道小杨哥月饼事件",
@@ -1363,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207485,
+      "num": 207485,
+      "word": "张踩铃谈无法和解的女性伤害",
+      "onboard_time": 1726583603,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 206677,
       "num": 206677,
       "word": "TOP登陆少年中秋",
@@ -1385,6 +1465,14 @@
       "onboard_time": 1726552460,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204640,
+      "num": 204640,
+      "word": "翁青雅终于为彭高转身了",
+      "onboard_time": 1726585163,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 204467,
@@ -1675,14 +1763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188251,
-      "num": 188251,
-      "word": "力丸锁骨吻痕",
-      "onboard_time": 1726582643,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 187628,
       "num": 187628,
       "word": "RED广寒宫唱跳",
@@ -1705,6 +1785,22 @@
       "onboard_time": 1726572440,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186006,
+      "num": 186006,
+      "word": "长发万茜也太美了",
+      "onboard_time": 1726584263,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 185748,
+      "num": 185748,
+      "word": "延时摄影看山城中秋月亮爬上来",
+      "onboard_time": 1726586123,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 185215,
@@ -1865,14 +1961,6 @@
       "onboard_time": 1726547900,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 171388,
-      "num": 171388,
-      "word": "关晓彤新中式镂空旗袍",
-      "onboard_time": 1726583662,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 170159,
@@ -2579,6 +2667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114430,
+      "num": 682587,
+      "word": "10人拼单赌石8个人都是托儿",
+      "onboard_time": 1726582043,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113615,
       "num": 113615,
       "word": "2024国际乒联第38周排名",
@@ -2835,14 +2931,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 81273,
-      "num": 682587,
-      "word": "10人拼单赌石8个人都是托儿",
-      "onboard_time": 1726582043,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 81033,
       "num": 1074301,
       "word": "大数据看中秋文旅消费新亮点",
@@ -3075,6 +3163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40521,
+      "num": 286744,
+      "word": "孙怡中秋和粉丝话家常",
+      "onboard_time": 1726585282,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38522,
       "num": 1439167,
       "word": "文化中国行看中秋之美",
@@ -3113,6 +3209,14 @@
       "onboard_time": 1726572620,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31753,
+      "num": 443037,
+      "word": "汪苏泷演唱会万人乐在一起",
+      "onboard_time": 1726584024,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 31485,
@@ -3179,6 +3283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23068,
+      "num": 1012309,
+      "word": "中国人九天揽月的梦想正照进现实",
+      "onboard_time": 1726563621,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22984,
       "num": 299221,
       "word": "业内称时尚杂志非法出版很普遍",
@@ -3216,14 +3328,6 @@
       "word": "浙江结束防台风应急响应",
       "onboard_time": 1726521371,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20701,
-      "num": 1012309,
-      "word": "中国人九天揽月的梦想正照进现实",
-      "onboard_time": 1726563621,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
