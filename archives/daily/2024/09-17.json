@@ -1,6 +1,6 @@
 {
   "startTime": 1726504063678,
-  "endTime": 1726562499143,
+  "endTime": 1726564967429,
   "band_list": [
     {
       "raw_hot": 3116864,
@@ -83,12 +83,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1287007,
+      "raw_hot": 1357849,
       "num": 1287007,
       "word": "iOS18 还我妈生相册",
       "onboard_time": 1726560322,
       "rank": 5,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1263998,
+      "num": 1263998,
+      "word": "陈乔恩托乔任梁父母给乔任梁送花",
+      "onboard_time": 1726562121,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 1208681,
@@ -123,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1102445,
+      "num": 1102445,
+      "word": "通报秒删多次约谈三只羊内容",
+      "onboard_time": 1726559540,
+      "rank": 3,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1086243,
       "num": 1173798,
       "word": "金巧巧离婚风波后晒全家福",
@@ -139,12 +155,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1051539,
-      "num": 989563,
-      "word": "通报秒删多次约谈三只羊内容",
-      "onboard_time": 1726559540,
+      "raw_hot": 1028919,
+      "num": 1028919,
+      "word": "乌鲁木齐4.6级地震",
+      "onboard_time": 1726563441,
       "rank": 3,
-      "category": "社会新闻,网红"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 974404,
@@ -169,6 +185,14 @@
       "onboard_time": 1726501459,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 953343,
+      "num": 953343,
+      "word": "iOS18 丑",
+      "onboard_time": 1726561342,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 932853,
@@ -217,6 +241,14 @@
       "onboard_time": 1726537518,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 721148,
+      "num": 276887,
+      "word": "女子称地铁上遭男子猥亵对方裤子湿了",
+      "onboard_time": 1726562480,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 718710,
@@ -379,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 496806,
+      "num": 496806,
+      "word": "中秋",
+      "onboard_time": 1726563979,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 462294,
       "num": 462294,
       "word": "迪丽热巴中秋营业照",
@@ -393,14 +433,6 @@
       "onboard_time": 1726553300,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 445920,
-      "num": 197107,
-      "word": "陈乔恩托乔任梁父母给乔任梁送花",
-      "onboard_time": 1726562121,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 418470,
@@ -465,14 +497,6 @@
       "onboard_time": 1726530496,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 350916,
-      "num": 350916,
-      "word": "iOS18 丑",
-      "onboard_time": 1726561342,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 344315,
@@ -651,6 +675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267128,
+      "num": 283880,
+      "word": "赵露思中秋晒曾黎美照",
+      "onboard_time": 1726560980,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266918,
       "num": 208042,
       "word": "教育在此刻闭环了",
@@ -732,7 +764,7 @@
     },
     {
       "raw_hot": 246166,
-      "num": 246166,
+      "num": 266500,
       "word": "致敬中秋团圆日的每一份坚守",
       "onboard_time": 1726553599,
       "rank": 32,
@@ -769,6 +801,14 @@
       "onboard_time": 1726547182,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 228990,
+      "num": 228990,
+      "word": "肖战给剧组送中秋礼物",
+      "onboard_time": 1726563200,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 220854,
@@ -987,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190901,
+      "num": 190901,
+      "word": "王鹤棣再演个民国戏吧",
+      "onboard_time": 1726564280,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189040,
       "num": 216216,
       "word": "上海官方辟谣台风相关谣言",
@@ -1091,6 +1139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 170171,
+      "num": 170171,
+      "word": "宋亚轩 月饼公式",
+      "onboard_time": 1726563621,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168955,
       "num": 168955,
       "word": "24到27岁的感情观变化",
@@ -1163,6 +1219,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161371,
+      "num": 161371,
+      "word": "道枝骏佑 月饼初体验",
+      "onboard_time": 1726562241,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 160207,
+      "num": 160207,
+      "word": "美诚月饼",
+      "onboard_time": 1726562782,
+      "rank": 37,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 159231,
       "num": 159231,
       "word": "你的中秋记忆",
@@ -1203,6 +1275,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 153134,
+      "num": 142746,
+      "word": "王海称美诚月饼应退一赔十",
+      "onboard_time": 1726564640,
+      "rank": 39,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 152550,
       "num": 186551,
       "word": "珠帘玉幕",
@@ -1241,14 +1321,6 @@
       "onboard_time": 1726542439,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149133,
-      "num": 149133,
-      "word": "道枝骏佑 月饼初体验",
-      "onboard_time": 1726562241,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 148894,
@@ -1347,6 +1419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141327,
+      "num": 141327,
+      "word": "明日方舟",
+      "onboard_time": 1726563621,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 140853,
       "num": 140853,
       "word": "关晓彤金色抹胸",
@@ -1443,6 +1523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 136164,
+      "num": 136164,
+      "word": "郝蕾的脸和新中式太适配了",
+      "onboard_time": 1726563921,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134409,
       "num": 134409,
       "word": "樊振东希望大家多关注比赛",
@@ -1459,19 +1547,35 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 134356,
-      "num": 134356,
-      "word": "女子称地铁上遭男子猥亵对方裤子湿了",
-      "onboard_time": 1726562480,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 134090,
       "num": 363922,
       "word": "小区183家住户藏53家小旅馆",
       "onboard_time": 1726542558,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133609,
+      "num": 133609,
+      "word": "美特勤局称已注意到马斯克帖文",
+      "onboard_time": 1726564399,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 133299,
+      "num": 133299,
+      "word": "新郎接亲路上恳求新娘放人钓鱼",
+      "onboard_time": 1726564399,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133217,
+      "num": 133217,
+      "word": "实探美诚月饼广州生产厂",
+      "onboard_time": 1726564159,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1635,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116922,
+      "num": 460970,
+      "word": "如何拯救卖不动的月饼",
+      "onboard_time": 1726560800,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116363,
       "num": 116363,
       "word": "亚马逊CEO恢复一周5天办公室上班",
@@ -1745,22 +1857,6 @@
       "onboard_time": 1726531938,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102043,
-      "num": 283880,
-      "word": "赵露思中秋晒曾黎美照",
-      "onboard_time": 1726560980,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 101466,
-      "num": 460970,
-      "word": "如何拯救卖不动的月饼",
-      "onboard_time": 1726560800,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99902,
@@ -1915,6 +2011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78067,
+      "num": 266194,
+      "word": "三只羊系当地年度企业",
+      "onboard_time": 1726564758,
+      "rank": 19,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 76114,
       "num": 76114,
       "word": "生日收到大鹅花束是什么感觉",
@@ -2067,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41246,
+      "num": 272771,
+      "word": "希望带货主播真的把消费者当家人",
+      "onboard_time": 1726564101,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37392,
       "num": 276062,
       "word": "俄武装力量编制人数增至近239万人",
@@ -2083,8 +2195,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32599,
-      "num": 995256,
+      "raw_hot": 35301,
+      "num": 1033574,
       "word": "藏在古画里的诗意中秋",
       "onboard_time": 1726560200,
       "rank": 2,

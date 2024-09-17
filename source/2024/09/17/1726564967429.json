@@ -1,0 +1,410 @@
+{
+  "runTime": 1726564967429,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1263998,
+        "num": 1263998,
+        "word": "陈乔恩托乔任梁父母给乔任梁送花",
+        "onboard_time": 1726562121,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1102445,
+        "num": 1102445,
+        "word": "通报秒删多次约谈三只羊内容",
+        "onboard_time": 1726559540,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 35301,
+        "num": 1033574,
+        "word": "藏在古画里的诗意中秋",
+        "onboard_time": 1726560200,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1028919,
+        "num": 1028919,
+        "word": "乌鲁木齐4.6级地震",
+        "onboard_time": 1726563441,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 953343,
+        "num": 953343,
+        "word": "iOS18 丑",
+        "onboard_time": 1726561342,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 496806,
+        "num": 496806,
+        "word": "中秋",
+        "onboard_time": 1726563979,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385622,
+        "num": 385622,
+        "word": "大学生买不到车票报旅行团回家",
+        "onboard_time": 1726548319,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374962,
+        "num": 374962,
+        "word": "总台秋晚节目单发布",
+        "onboard_time": 1726548741,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372687,
+        "num": 372687,
+        "word": "官方通报三只羊涉嫌误导消费者",
+        "onboard_time": 1726548981,
+        "rank": 8,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 281144,
+        "num": 281144,
+        "word": "王源 教资面试导入",
+        "onboard_time": 1726555518,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2152318,
+        "num": 279950,
+        "word": "央视中秋晚会删掉于适节目",
+        "onboard_time": 1726555700,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1357849,
+        "num": 278644,
+        "word": "iOS18 还我妈生相册",
+        "onboard_time": 1726560322,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 721148,
+        "num": 276887,
+        "word": "女子称地铁上遭男子猥亵对方裤子湿了",
+        "onboard_time": 1726562480,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445267,
+        "num": 273875,
+        "word": "李栋旭 韩国不吃月饼",
+        "onboard_time": 1726546279,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41246,
+        "num": 272771,
+        "word": "希望带货主播真的把消费者当家人",
+        "onboard_time": 1726564101,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289872,
+        "num": 271112,
+        "word": "小杨哥已掉粉超200万",
+        "onboard_time": 1726557800,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 324696,
+        "num": 267554,
+        "word": "女厕所为什么不能多几个坑位",
+        "onboard_time": 1726553300,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267128,
+        "num": 267128,
+        "word": "赵露思中秋晒曾黎美照",
+        "onboard_time": 1726560980,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125858,
+        "num": 266500,
+        "word": "致敬中秋团圆日的每一份坚守",
+        "onboard_time": 1726553599,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78067,
+        "num": 266194,
+        "word": "三只羊系当地年度企业",
+        "onboard_time": 1726564758,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1209249,
+        "num": 265118,
+        "word": "周也肩膀 蟑螂",
+        "onboard_time": 1726555580,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1443632,
+        "num": 264881,
+        "word": "三只羊给员工发美诚月饼",
+        "onboard_time": 1726559720,
+        "rank": 21,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 264366,
+        "num": 264366,
+        "word": "周依然 节目",
+        "onboard_time": 1726558460,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 661015,
+        "num": 261827,
+        "word": "买到15盒美诚月饼老板称给亲戚了",
+        "onboard_time": 1726557620,
+        "rank": 23,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 588103,
+        "num": 256285,
+        "word": "罗志祥发自拍回应医美争议",
+        "onboard_time": 1726556899,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346715,
+        "num": 252975,
+        "word": "关晓彤零点零七分回复鹿晗",
+        "onboard_time": 1726532656,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249601,
+        "num": 249601,
+        "word": "中秋节误扇导师几十个巴掌",
+        "onboard_time": 1726555877,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229038,
+        "num": 229038,
+        "word": "陈乔恩连续八年晒粉色天空悼念乔任梁",
+        "onboard_time": 1726552759,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228990,
+        "num": 228990,
+        "word": "肖战给剧组送中秋礼物",
+        "onboard_time": 1726563200,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199974,
+        "num": 199974,
+        "word": "迪丽热巴中秋营业照",
+        "onboard_time": 1726556721,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230071,
+        "num": 195459,
+        "word": "小狗被毒死她自学刑法死磕投毒者",
+        "onboard_time": 1726561101,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215392,
+        "num": 195140,
+        "word": "只生孩子不领证会有什么风险",
+        "onboard_time": 1726547182,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190901,
+        "num": 190901,
+        "word": "王鹤棣再演个民国戏吧",
+        "onboard_time": 1726564280,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176301,
+        "num": 176301,
+        "word": "三只羊被立案调查",
+        "onboard_time": 1726546459,
+        "rank": 33,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 170171,
+        "num": 170171,
+        "word": "宋亚轩 月饼公式",
+        "onboard_time": 1726563621,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161921,
+        "num": 161921,
+        "word": "王玉雯说秦霄贤恋爱不行",
+        "onboard_time": 1726557380,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161371,
+        "num": 161371,
+        "word": "道枝骏佑 月饼初体验",
+        "onboard_time": 1726562241,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160207,
+        "num": 160207,
+        "word": "美诚月饼",
+        "onboard_time": 1726562782,
+        "rank": 37,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 143203,
+        "num": 143203,
+        "word": "张凌赫 小狗进食",
+        "onboard_time": 1726560980,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153134,
+        "num": 142746,
+        "word": "王海称美诚月饼应退一赔十",
+        "onboard_time": 1726564640,
+        "rank": 39,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 141327,
+        "num": 141327,
+        "word": "明日方舟",
+        "onboard_time": 1726563621,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136164,
+        "num": 136164,
+        "word": "郝蕾的脸和新中式太适配了",
+        "onboard_time": 1726563921,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133609,
+        "num": 133609,
+        "word": "美特勤局称已注意到马斯克帖文",
+        "onboard_time": 1726564399,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 133299,
+        "num": 133299,
+        "word": "新郎接亲路上恳求新娘放人钓鱼",
+        "onboard_time": 1726564399,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116922,
+        "num": 133218,
+        "word": "如何拯救卖不动的月饼",
+        "onboard_time": 1726560800,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133217,
+        "num": 133217,
+        "word": "实探美诚月饼广州生产厂",
+        "onboard_time": 1726564159,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132847,
+        "num": 132847,
+        "word": "中秋节",
+        "onboard_time": 1726527854,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130434,
+        "num": 130434,
+        "word": "消费者称美诚月饼送不出去也不敢吃",
+        "onboard_time": 1726551381,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120443,
+        "num": 120443,
+        "word": "留子在韩国大学的中秋晚会表演上春山",
+        "onboard_time": 1726556181,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111174,
+        "num": 118638,
+        "word": "iOS18字体",
+        "onboard_time": 1726561699,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
