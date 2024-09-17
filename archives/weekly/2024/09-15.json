@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726536934430,
+  "endTime": 1726539985078,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -523,6 +523,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1094850,
+      "num": 1175176,
+      "word": "猎罪图鉴2",
+      "onboard_time": 1726537518,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1075319,
       "num": 1075319,
       "word": "不敢相信这是陈卓璇",
@@ -683,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 816680,
+      "num": 816680,
+      "word": "中秋节快乐",
+      "onboard_time": 1726527913,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 815342,
       "num": 440322,
       "word": "特朗普公然宣称憎恨霉霉",
@@ -696,14 +712,6 @@
       "word": "被生父抢走藏匿329天女童遭虐待致死",
       "onboard_time": 1726393220,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 809263,
-      "num": 809263,
-      "word": "中秋节快乐",
-      "onboard_time": 1726527913,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -817,6 +825,14 @@
       "onboard_time": 1726389558,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 715798,
+      "num": 715798,
+      "word": "孙颖莎9400分世排第一",
+      "onboard_time": 1726537518,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 706619,
@@ -987,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 625085,
+      "num": 230334,
+      "word": "和研一男友同居他说让我A一下",
+      "onboard_time": 1726534759,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 622337,
       "num": 622337,
       "word": "多地黑神话墙绘被毁",
@@ -1107,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 562966,
+      "num": 562966,
+      "word": "安理会为何不能阻止最大人间惨剧",
+      "onboard_time": 1726536319,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 561523,
       "num": 561523,
       "word": "上海临港进入台风贝碧嘉十级风圈",
@@ -1137,14 +1169,6 @@
       "onboard_time": 1726385538,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 555817,
-      "num": 178202,
-      "word": "和研一男友同居他说让我A一下",
-      "onboard_time": 1726534759,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 554391,
@@ -1523,6 +1547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 418470,
+      "num": 418470,
+      "word": "美国将砸16亿美元全球抹黑中国",
+      "onboard_time": 1726528394,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 418469,
       "num": 418469,
       "word": "李纯小区物业称不可能先救明星",
@@ -1689,14 +1721,6 @@
       "onboard_time": 1726493720,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 376110,
-      "num": 376110,
-      "word": "美国将砸16亿美元全球抹黑中国",
-      "onboard_time": 1726528394,
-      "rank": 33,
-      "category": "国外时政"
     },
     {
       "raw_hot": 374081,
@@ -1945,6 +1969,14 @@
       "onboard_time": 1726472657,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 326247,
+      "num": 326247,
+      "word": "詹青云真正的爱应该是什么样",
+      "onboard_time": 1726531337,
+      "rank": 26,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 323788,
@@ -2283,6 +2315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272412,
+      "num": 272412,
+      "word": "枭起青壤",
+      "onboard_time": 1726539079,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 272249,
       "num": 272249,
       "word": "干巴大叔",
@@ -2361,6 +2401,14 @@
       "onboard_time": 1726456759,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 266023,
+      "num": 266023,
+      "word": "我拍了拍月亮",
+      "onboard_time": 1726539138,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265522,
@@ -2449,6 +2497,14 @@
       "onboard_time": 1726487839,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 257047,
+      "num": 327907,
+      "word": "70多年前的他们背后是万家团圆",
+      "onboard_time": 1726539259,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256961,
@@ -2761,6 +2817,14 @@
       "onboard_time": 1726413321,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227838,
+      "num": 227838,
+      "word": "中秋送你圆圆圆圆圆圆圆圆圆",
+      "onboard_time": 1726539197,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226239,
@@ -3243,6 +3307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195940,
+      "num": 234516,
+      "word": "赵露思陈伟霆额头吻路透",
+      "onboard_time": 1726535779,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195896,
       "num": 195896,
       "word": "印度公务员考试丧生12人",
@@ -3539,6 +3611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183854,
+      "num": 183854,
+      "word": "山西一景区女游客攀爬佛像大喊大叫",
+      "onboard_time": 1726534099,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183832,
       "num": 173078,
       "word": "赴山海预约人数",
@@ -3579,12 +3659,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 180803,
-      "num": 180803,
-      "word": "詹青云真正的爱应该是什么样",
-      "onboard_time": 1726531337,
+      "raw_hot": 180713,
+      "num": 180713,
+      "word": "为什么中秋节没人提前订酒店了",
+      "onboard_time": 1726537998,
       "rank": 26,
-      "category": "情感,艺人"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180642,
@@ -3635,14 +3715,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 179217,
-      "num": 179217,
-      "word": "赵露思陈伟霆额头吻路透",
-      "onboard_time": 1726535779,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 178603,
       "num": 178603,
       "word": "颖儿说参加严屹宽婚礼哭得稀里哗啦",
@@ -3673,14 +3745,6 @@
       "onboard_time": 1726327162,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177345,
-      "num": 177345,
-      "word": "山西一景区女游客攀爬佛像大喊大叫",
-      "onboard_time": 1726534099,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177268,
@@ -3931,6 +3995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167901,
+      "num": 167901,
+      "word": "20元能买这么多水果",
+      "onboard_time": 1726533738,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 166903,
       "num": 166903,
       "word": "付航是不是被中间商赚差价了",
@@ -4179,6 +4251,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 159231,
+      "num": 159231,
+      "word": "你的中秋记忆",
+      "onboard_time": 1726539259,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 159102,
+      "num": 159102,
+      "word": "苹果照片应用大改版",
+      "onboard_time": 1726538538,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 159088,
       "num": 159088,
       "word": "看凡人歌那隽离职爽到了",
@@ -4233,6 +4321,14 @@
       "onboard_time": 1726368498,
       "rank": 39,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 158028,
+      "num": 158028,
+      "word": "10月1日火车票今天开售",
+      "onboard_time": 1726532417,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158010,
@@ -4419,6 +4515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152550,
+      "num": 169642,
+      "word": "珠帘玉幕",
+      "onboard_time": 1726538417,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152502,
       "num": 152502,
       "word": "美特勤局严重违规细节曝光",
@@ -4441,6 +4545,22 @@
       "onboard_time": 1726398561,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 151029,
+      "num": 151029,
+      "word": "爸爸突然开始特意标注生活费",
+      "onboard_time": 1726539498,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 150925,
+      "num": 159124,
+      "word": "赴山海",
+      "onboard_time": 1726539798,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 150820,
@@ -4601,6 +4721,14 @@
       "onboard_time": 1726472657,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143597,
+      "num": 143597,
+      "word": "obgg显示yagao正在审批",
+      "onboard_time": 1726538598,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 143456,
@@ -4979,6 +5107,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 132596,
+      "num": 132596,
+      "word": "iOS18超多新功能汇总",
+      "onboard_time": 1726535359,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 131939,
       "num": 131939,
       "word": "小熊猫独自过马路被家长接走了",
@@ -5083,14 +5219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 129536,
-      "num": 129536,
-      "word": "安理会为何不能阻止最大人间惨剧",
-      "onboard_time": 1726536319,
-      "rank": 29,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 129019,
       "num": 276738,
       "word": "幼童小区内被碾压肇事司机家属发声",
@@ -5139,12 +5267,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 127489,
-      "num": 127489,
-      "word": "iOS18超多新功能汇总",
-      "onboard_time": 1726535359,
-      "rank": 49,
-      "category": "数码"
+      "raw_hot": 127568,
+      "num": 127568,
+      "word": "吴艳妮称首次年度大满贯很自豪",
+      "onboard_time": 1726538060,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 126645,
@@ -5235,6 +5363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121228,
+      "num": 121228,
+      "word": "iOS18可以给APP上锁了",
+      "onboard_time": 1726539739,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 121020,
       "num": 121020,
       "word": "令人心动的offer6的女性群像",
@@ -5249,14 +5385,6 @@
       "onboard_time": 1726460539,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 120792,
-      "num": 120792,
-      "word": "20元能买这么多水果",
-      "onboard_time": 1726533738,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 120761,
@@ -5595,14 +5723,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 108172,
-      "num": 108172,
-      "word": "10月1日火车票今天开售",
-      "onboard_time": 1726532417,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 108136,
       "num": 96765,
       "word": "王一博 告诉俺娘俺不是孬种",
@@ -5633,6 +5753,14 @@
       "onboard_time": 1726418417,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106491,
+      "num": 106491,
+      "word": "终于轮到王俊凯叫别人小凯了",
+      "onboard_time": 1726539918,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 106282,
@@ -5811,6 +5939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95268,
+      "num": 113158,
+      "word": "任嘉伦的眼睛真的会说话",
+      "onboard_time": 1726538357,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93789,
       "num": 93789,
       "word": "中秋图片",
@@ -5905,6 +6041,14 @@
       "onboard_time": 1726433111,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86006,
+      "num": 167965,
+      "word": "吴艳妮夺冠后祝大家中秋快乐",
+      "onboard_time": 1726539319,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 83367,
@@ -6888,6 +7032,9 @@
     },
     {
       "word": "#中秋佳节习近平总书记这样寄语#"
+    },
+    {
+      "word": "#文脉华章#"
     }
   ]
 }

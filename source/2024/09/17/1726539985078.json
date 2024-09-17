@@ -1,0 +1,410 @@
+{
+  "runTime": 1726539985078,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1094850,
+        "num": 1175176,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1726537518,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 979108,
+        "num": 979108,
+        "word": "中秋节",
+        "onboard_time": 1726527854,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7881,
+        "num": 837826,
+        "word": "这就是黄河",
+        "onboard_time": 1726495279,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816680,
+        "num": 816680,
+        "word": "中秋节快乐",
+        "onboard_time": 1726527913,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715798,
+        "num": 715798,
+        "word": "孙颖莎9400分世排第一",
+        "onboard_time": 1726537518,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 562966,
+        "num": 562966,
+        "word": "安理会为何不能阻止最大人间惨剧",
+        "onboard_time": 1726536319,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 418470,
+        "num": 418470,
+        "word": "美国将砸16亿美元全球抹黑中国",
+        "onboard_time": 1726528394,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 333383,
+        "num": 333383,
+        "word": "中秋收到了公司发的陶瓷月饼",
+        "onboard_time": 1726528575,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329975,
+        "num": 329975,
+        "word": "吴谨言官宣后首发博",
+        "onboard_time": 1726497802,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257047,
+        "num": 327907,
+        "word": "70多年前的他们背后是万家团圆",
+        "onboard_time": 1726539259,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2808973,
+        "num": 327896,
+        "word": "关晓彤零点零七分回复鹿晗",
+        "onboard_time": 1726532656,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326247,
+        "num": 326247,
+        "word": "詹青云真正的爱应该是什么样",
+        "onboard_time": 1726531337,
+        "rank": 11,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 318777,
+        "num": 318777,
+        "word": "金价猛涨有人套现40多万",
+        "onboard_time": 1726494021,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283844,
+        "num": 283844,
+        "word": "iOS18正式版",
+        "onboard_time": 1726528334,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 272412,
+        "num": 272412,
+        "word": "枭起青壤",
+        "onboard_time": 1726539079,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1388983,
+        "num": 271933,
+        "word": "鹿晗连续八年为关晓彤庆生",
+        "onboard_time": 1726527854,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266023,
+        "num": 266023,
+        "word": "我拍了拍月亮",
+        "onboard_time": 1726539138,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236938,
+        "num": 236938,
+        "word": "秋瓷炫回应儿子中文差",
+        "onboard_time": 1726502119,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196048,
+        "num": 235947,
+        "word": "彭小苒在太子妃赛道一骑绝尘",
+        "onboard_time": 1726527734,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195940,
+        "num": 234516,
+        "word": "赵露思陈伟霆额头吻路透",
+        "onboard_time": 1726535779,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 655323,
+        "num": 233149,
+        "word": "罗志祥在哪做的医美",
+        "onboard_time": 1726497202,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 625085,
+        "num": 230334,
+        "word": "和研一男友同居他说让我A一下",
+        "onboard_time": 1726534759,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238068,
+        "num": 228361,
+        "word": "学生没填不回家信息表被宿管深夜驱赶",
+        "onboard_time": 1726493539,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227838,
+        "num": 227838,
+        "word": "中秋送你圆圆圆圆圆圆圆圆圆",
+        "onboard_time": 1726539197,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194659,
+        "num": 194659,
+        "word": "台风贝碧嘉",
+        "onboard_time": 1726320202,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183854,
+        "num": 183854,
+        "word": "山西一景区女游客攀爬佛像大喊大叫",
+        "onboard_time": 1726534099,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180713,
+        "num": 180713,
+        "word": "为什么中秋节没人提前订酒店了",
+        "onboard_time": 1726537998,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157160,
+        "num": 171717,
+        "word": "任嘉伦徐正溪 两张权臣脸",
+        "onboard_time": 1726527734,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152550,
+        "num": 169642,
+        "word": "珠帘玉幕",
+        "onboard_time": 1726538417,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86006,
+        "num": 167965,
+        "word": "吴艳妮夺冠后祝大家中秋快乐",
+        "onboard_time": 1726539319,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167901,
+        "num": 167901,
+        "word": "20元能买这么多水果",
+        "onboard_time": 1726533738,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 167603,
+        "num": 167603,
+        "word": "贝碧嘉移入江苏",
+        "onboard_time": 1726463058,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159921,
+        "num": 159921,
+        "word": "广州石牌村是外卖员的噩梦",
+        "onboard_time": 1726530496,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159231,
+        "num": 159231,
+        "word": "你的中秋记忆",
+        "onboard_time": 1726539259,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150925,
+        "num": 159124,
+        "word": "赴山海",
+        "onboard_time": 1726539798,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159102,
+        "num": 159102,
+        "word": "苹果照片应用大改版",
+        "onboard_time": 1726538538,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 158028,
+        "num": 158028,
+        "word": "10月1日火车票今天开售",
+        "onboard_time": 1726532417,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151029,
+        "num": 151029,
+        "word": "爸爸突然开始特意标注生活费",
+        "onboard_time": 1726539498,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147068,
+        "num": 147068,
+        "word": "江苏2名触电人员经抢救无效后死亡",
+        "onboard_time": 1726533557,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143597,
+        "num": 143597,
+        "word": "obgg显示yagao正在审批",
+        "onboard_time": 1726538598,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132596,
+        "num": 132596,
+        "word": "iOS18超多新功能汇总",
+        "onboard_time": 1726535359,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 127568,
+        "num": 127568,
+        "word": "吴艳妮称首次年度大满贯很自豪",
+        "onboard_time": 1726538060,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121228,
+        "num": 121228,
+        "word": "iOS18可以给APP上锁了",
+        "onboard_time": 1726539739,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 119367,
+        "num": 119367,
+        "word": "人怎么可以过的这么舒服",
+        "onboard_time": 1726532417,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118741,
+        "num": 118741,
+        "word": "台风普拉桑",
+        "onboard_time": 1726498101,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114713,
+        "num": 114713,
+        "word": "肖战请客得闲谨制剧组喝奶茶",
+        "onboard_time": 1726501040,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95268,
+        "num": 113158,
+        "word": "任嘉伦的眼睛真的会说话",
+        "onboard_time": 1726538357,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112856,
+        "num": 112856,
+        "word": "中秋祝福",
+        "onboard_time": 1726530676,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107149,
+        "num": 107149,
+        "word": "一鹿彤行",
+        "onboard_time": 1726531156,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106491,
+        "num": 106491,
+        "word": "终于轮到王俊凯叫别人小凯了",
+        "onboard_time": 1726539918,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
