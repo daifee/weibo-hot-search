@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726591389239,
+  "endTime": 1726593580988,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -2579,6 +2579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 355984,
+      "num": 355984,
+      "word": "王菲送李嫣英国留学",
+      "onboard_time": 1726588279,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 355565,
       "num": 355565,
       "word": "孙颖莎展望北京大满贯",
@@ -3067,6 +3075,14 @@
       "category": "美食,健康医疗"
     },
     {
+      "raw_hot": 291132,
+      "num": 291132,
+      "word": "三只羊日销售额骤降九成以上",
+      "onboard_time": 1726587680,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290150,
       "num": 290150,
       "word": "月饼",
@@ -3491,14 +3507,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 254434,
-      "num": 254434,
-      "word": "王菲送李嫣英国留学",
-      "onboard_time": 1726588279,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 254187,
       "num": 208858,
       "word": "女子灭蟑螂不料中毒进ICU抢救",
@@ -3664,14 +3672,6 @@
       "word": "武汉大学瓦片在二手平台被炒至数百元",
       "onboard_time": 1726502958,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241836,
-      "num": 241836,
-      "word": "三只羊日销售额骤降九成以上",
-      "onboard_time": 1726587680,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -4961,6 +4961,14 @@
       "onboard_time": 1726568420,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188167,
+      "num": 188167,
+      "word": "918",
+      "onboard_time": 1726591996,
+      "rank": 12,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 187628,
@@ -7787,6 +7795,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 108626,
+      "num": 108626,
+      "word": "男子退休第2天离家出走拒绝回家",
+      "onboard_time": 1726589238,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108604,
       "num": 108604,
       "word": "佛祖收到一笔外汇功德",
@@ -7905,14 +7921,6 @@
       "onboard_time": 1726356496,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 105013,
-      "num": 105013,
-      "word": "男子退休第2天离家出走拒绝回家",
-      "onboard_time": 1726589238,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104738,
@@ -8139,6 +8147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87331,
+      "num": 87331,
+      "word": "吃饱就睡其实和长胖没太大关系",
+      "onboard_time": 1726591756,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 86703,
       "num": 296392,
       "word": "仙台有树欢度中秋",
@@ -8201,6 +8217,14 @@
       "onboard_time": 1726470799,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 82220,
+      "num": 82220,
+      "word": "离了刘耀文谁还把我当小孩",
+      "onboard_time": 1726592715,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 81471,
@@ -8443,12 +8467,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59882,
+      "num": 59882,
+      "word": "出走的决心",
+      "onboard_time": 1726593195,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 59709,
       "num": 1085143,
       "word": "致敬台风中的守护者",
       "onboard_time": 1726495641,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57748,
+      "num": 57748,
+      "word": "19310918不能忘不敢忘",
+      "onboard_time": 1726593434,
+      "rank": 47,
+      "category": "剧集,综艺"
     },
     {
       "raw_hot": 57519,

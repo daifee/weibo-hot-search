@@ -1,0 +1,410 @@
+{
+  "runTime": 1726593580988,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 659665,
+        "num": 659665,
+        "word": "苹果变安卓",
+        "onboard_time": 1726584742,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 408320,
+        "num": 408320,
+        "word": "王楚然硬美",
+        "onboard_time": 1726588880,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15669,
+        "num": 366300,
+        "word": "文化中国行看中秋之美",
+        "onboard_time": 1726574000,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355984,
+        "num": 355984,
+        "word": "王菲送李嫣英国留学",
+        "onboard_time": 1726588279,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304325,
+        "num": 304325,
+        "word": "研究生数量超本科生高校招生引争议",
+        "onboard_time": 1726581141,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654561,
+        "num": 302408,
+        "word": "三只羊或被罚营业额5倍吊销营业执照",
+        "onboard_time": 1726571420,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 300472,
+        "num": 300472,
+        "word": "勿忘九一八",
+        "onboard_time": 1726590258,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 291132,
+        "num": 291132,
+        "word": "三只羊日销售额骤降九成以上",
+        "onboard_time": 1726587680,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285512,
+        "num": 285512,
+        "word": "央视镜头下的金晨",
+        "onboard_time": 1726583363,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284243,
+        "num": 284243,
+        "word": "孕妇泰国坠崖案当事人官宣生子",
+        "onboard_time": 1726578622,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251405,
+        "num": 265154,
+        "word": "今日中国再不是1931年的中国",
+        "onboard_time": 1726589839,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 258375,
+        "num": 258375,
+        "word": "大闸蟹今年为啥卖不动了",
+        "onboard_time": 1726581683,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188167,
+        "num": 188167,
+        "word": "918",
+        "onboard_time": 1726591996,
+        "rank": 12,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 177194,
+        "num": 177194,
+        "word": "三只羊停播",
+        "onboard_time": 1726579163,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 174228,
+        "num": 174228,
+        "word": "央视boys穿西装没告诉撒贝宁",
+        "onboard_time": 1726586061,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173784,
+        "num": 173784,
+        "word": "杨紫代言MK",
+        "onboard_time": 1726587919,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158000,
+        "num": 158000,
+        "word": "记者实探三只羊集团",
+        "onboard_time": 1726578802,
+        "rank": 16,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 157691,
+        "num": 157691,
+        "word": "iOS18 丑",
+        "onboard_time": 1726561342,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 149881,
+        "num": 149881,
+        "word": "潘展乐周杰伦合照",
+        "onboard_time": 1726584322,
+        "rank": 18,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 149263,
+        "num": 149263,
+        "word": "小杨哥评论区被立案调查刷屏",
+        "onboard_time": 1726573400,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 234695,
+        "num": 147044,
+        "word": "周也肩膀 蟑螂",
+        "onboard_time": 1726555580,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141738,
+        "num": 141738,
+        "word": "唐嫣宋慧乔秀场同框",
+        "onboard_time": 1726585163,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114478,
+        "num": 114478,
+        "word": "折腰",
+        "onboard_time": 1726575681,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108813,
+        "num": 108813,
+        "word": "韩国第一夫人重启公开活动引不满",
+        "onboard_time": 1726588399,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 108626,
+        "num": 108626,
+        "word": "男子退休第2天离家出走拒绝回家",
+        "onboard_time": 1726589238,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107105,
+        "num": 107105,
+        "word": "山东男孩小区门口殴打母亲被民警带走",
+        "onboard_time": 1726576881,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98894,
+        "num": 98894,
+        "word": "道枝骏佑 镖人",
+        "onboard_time": 1726585523,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96458,
+        "num": 96458,
+        "word": "外网爆Yagao审批通过",
+        "onboard_time": 1726585582,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87331,
+        "num": 87331,
+        "word": "吃饱就睡其实和长胖没太大关系",
+        "onboard_time": 1726591756,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86566,
+        "num": 86566,
+        "word": "王祖贤回台湾过中秋",
+        "onboard_time": 1726586782,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82220,
+        "num": 82220,
+        "word": "离了刘耀文谁还把我当小孩",
+        "onboard_time": 1726592715,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80202,
+        "num": 80202,
+        "word": "蔡徐坤发月亮照片",
+        "onboard_time": 1726580661,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79057,
+        "num": 79057,
+        "word": "陈乔恩托乔任梁父母给乔任梁送花",
+        "onboard_time": 1726562121,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77744,
+        "num": 77744,
+        "word": "iOS18 手电筒",
+        "onboard_time": 1726582882,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 72821,
+        "num": 72821,
+        "word": "陈瑶嫦娥妆造",
+        "onboard_time": 1726591277,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69762,
+        "num": 69762,
+        "word": "iPad终于有计算器了",
+        "onboard_time": 1726581980,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 68371,
+        "num": 68371,
+        "word": "借了70万给好同事结果被骗了",
+        "onboard_time": 1726573579,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67799,
+        "num": 67799,
+        "word": "小杨哥已近一个月未更新视频",
+        "onboard_time": 1726580120,
+        "rank": 37,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 67630,
+        "num": 67630,
+        "word": "时代少年团直播",
+        "onboard_time": 1726569740,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67355,
+        "num": 67355,
+        "word": "中秋",
+        "onboard_time": 1726563979,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66954,
+        "num": 66954,
+        "word": "三只羊给员工发美诚月饼",
+        "onboard_time": 1726559720,
+        "rank": 40,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 66497,
+        "num": 66497,
+        "word": "射手座永远向前看",
+        "onboard_time": 1726585523,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64825,
+        "num": 64825,
+        "word": "翁青雅终于为彭高转身了",
+        "onboard_time": 1726585163,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64051,
+        "num": 64051,
+        "word": "唐嫣李现 养眼",
+        "onboard_time": 1726577001,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62188,
+        "num": 62188,
+        "word": "徐嘉余喊话王楚钦吃月饼",
+        "onboard_time": 1726581683,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59882,
+        "num": 59882,
+        "word": "出走的决心",
+        "onboard_time": 1726593195,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 58064,
+        "num": 58064,
+        "word": "月亮",
+        "onboard_time": 1726570099,
+        "rank": 46,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 57748,
+        "num": 57748,
+        "word": "19310918不能忘不敢忘",
+        "onboard_time": 1726593434,
+        "rank": 47,
+        "category": "剧集,综艺"
+      },
+      {
+        "raw_hot": 55778,
+        "num": 55778,
+        "word": "iOS18 还我妈生相册",
+        "onboard_time": 1726560322,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 54474,
+        "num": 54474,
+        "word": "汪苏泷直播",
+        "onboard_time": 1726579762,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}

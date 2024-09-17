@@ -1,6 +1,6 @@
 {
   "startTime": 1726590451835,
-  "endTime": 1726591389239,
+  "endTime": 1726593580988,
   "band_list": [
     {
       "raw_hot": 1110468,
@@ -83,6 +83,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 355984,
+      "num": 355984,
+      "word": "王菲送李嫣英国留学",
+      "onboard_time": 1726588279,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 341202,
       "num": 341202,
       "word": "三只羊停播",
@@ -139,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291132,
+      "num": 291132,
+      "word": "三只羊日销售额骤降九成以上",
+      "onboard_time": 1726587680,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287487,
       "num": 287487,
       "word": "小杨哥评论区被立案调查刷屏",
@@ -155,14 +171,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 254434,
-      "num": 254434,
-      "word": "王菲送李嫣英国留学",
-      "onboard_time": 1726588279,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 253407,
       "num": 253407,
       "word": "折腰",
@@ -171,20 +179,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 241836,
-      "num": 241836,
-      "word": "三只羊日销售额骤降九成以上",
-      "onboard_time": 1726587680,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211712,
       "num": 211712,
       "word": "外网爆Yagao审批通过",
       "onboard_time": 1726585582,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 188167,
+      "num": 188167,
+      "word": "918",
+      "onboard_time": 1726591996,
+      "rank": 12,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 180197,
@@ -371,8 +379,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 105013,
-      "num": 105013,
+      "raw_hot": 108626,
+      "num": 108626,
       "word": "男子退休第2天离家出走拒绝回家",
       "onboard_time": 1726589238,
       "rank": 36,
@@ -403,12 +411,60 @@
       "category": "电影"
     },
     {
+      "raw_hot": 87331,
+      "num": 87331,
+      "word": "吃饱就睡其实和长胖没太大关系",
+      "onboard_time": 1726591756,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 83015,
       "num": 83015,
       "word": "陈瑶嫦娥妆造",
       "onboard_time": 1726591277,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82220,
+      "num": 82220,
+      "word": "离了刘耀文谁还把我当小孩",
+      "onboard_time": 1726592715,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 59882,
+      "num": 59882,
+      "word": "出走的决心",
+      "onboard_time": 1726593195,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 57748,
+      "num": 57748,
+      "word": "19310918不能忘不敢忘",
+      "onboard_time": 1726593434,
+      "rank": 47,
+      "category": "剧集,综艺"
+    },
+    {
+      "raw_hot": 55778,
+      "num": 55778,
+      "word": "iOS18 还我妈生相册",
+      "onboard_time": 1726560322,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 54474,
+      "num": 54474,
+      "word": "汪苏泷直播",
+      "onboard_time": 1726579762,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 26018,
