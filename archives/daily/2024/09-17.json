@@ -1,6 +1,6 @@
 {
   "startTime": 1726504063678,
-  "endTime": 1726544264947,
+  "endTime": 1726547008399,
   "band_list": [
     {
       "raw_hot": 3116864,
@@ -43,6 +43,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1086243,
+      "num": 1173798,
+      "word": "金巧巧离婚风波后晒全家福",
+      "onboard_time": 1726544719,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 971270,
+      "num": 971270,
+      "word": "三只羊被立案调查",
+      "onboard_time": 1726546459,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 966057,
       "num": 966057,
       "word": "吴谨言官宣后首发博",
@@ -59,8 +75,16 @@
       "category": "网红"
     },
     {
+      "raw_hot": 932853,
+      "num": 932853,
+      "word": "悟空月饼",
+      "onboard_time": 1726541299,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 835193,
-      "num": 704540,
+      "num": 795266,
       "word": "虞书欣中秋素颜照",
       "onboard_time": 1726541838,
       "rank": 3,
@@ -83,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 769448,
+      "num": 628588,
+      "word": "李栋旭 韩国不吃月饼",
+      "onboard_time": 1726546279,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 752852,
       "num": 752852,
       "word": "孙颖莎9400分世排第一",
@@ -96,6 +128,14 @@
       "word": "金价猛涨有人套现40多万",
       "onboard_time": 1726494021,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 645391,
+      "num": 645391,
+      "word": "女方多次与不同对象闪婚闪离应提醒",
+      "onboard_time": 1726541538,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -136,6 +176,30 @@
       "word": "枭起青壤",
       "onboard_time": 1726539079,
       "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 560960,
+      "num": 549165,
+      "word": "关晓彤穿了特别定制礼服",
+      "onboard_time": 1726543638,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 557569,
+      "num": 557569,
+      "word": "美诚月饼广州公司被指跑路改招牌",
+      "onboard_time": 1726544900,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 516800,
+      "num": 516800,
+      "word": "赵露思台词",
+      "onboard_time": 1726544839,
+      "rank": 11,
       "category": "剧集"
     },
     {
@@ -339,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262697,
+      "num": 262697,
+      "word": "这个舞蹈动作近几年致多名儿童瘫痪",
+      "onboard_time": 1726546879,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262314,
       "num": 262314,
       "word": "贝碧嘉移入江苏",
@@ -371,30 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235870,
-      "num": 235870,
-      "word": "女方多次与不同对象闪婚闪离应提醒",
-      "onboard_time": 1726541538,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232824,
-      "num": 232824,
-      "word": "悟空月饼",
-      "onboard_time": 1726541299,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 222157,
-      "num": 201716,
-      "word": "关晓彤穿了特别定制礼服",
-      "onboard_time": 1726543638,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 220854,
       "num": 220854,
       "word": "高压电线因台风坠落致两快递员被电",
@@ -419,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214128,
+      "num": 214128,
+      "word": "衡门有狐",
+      "onboard_time": 1726545139,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204467,
       "num": 204467,
       "word": "心动的信号7雄竞5分钟",
@@ -433,6 +489,14 @@
       "onboard_time": 1726543098,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 201855,
+      "num": 201855,
+      "word": "金晨新中式造型",
+      "onboard_time": 1726544839,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 199663,
@@ -459,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197426,
+      "num": 197426,
+      "word": "iOS18可以给APP上锁了",
+      "onboard_time": 1726539739,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 196441,
       "num": 278287,
       "word": "王一珩直播",
@@ -475,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195930,
+      "num": 195930,
+      "word": "童瑶1米5长辫",
+      "onboard_time": 1726544958,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 195331,
       "num": 195331,
       "word": "慕胥辞千里同月版海报",
@@ -489,14 +569,6 @@
       "onboard_time": 1726496180,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 188290,
-      "num": 188290,
-      "word": "iOS18可以给APP上锁了",
-      "onboard_time": 1726539739,
-      "rank": 42,
-      "category": "数码"
     },
     {
       "raw_hot": 184284,
@@ -523,12 +595,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179296,
+      "num": 179296,
+      "word": "好久没看到这么健康的恋爱了",
+      "onboard_time": 1726545678,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 176468,
       "num": 176468,
       "word": "10月1日火车票今天开售",
       "onboard_time": 1726532417,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169321,
+      "num": 169321,
+      "word": "教育在此刻闭环了",
+      "onboard_time": 1726546158,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 167901,
@@ -556,7 +644,7 @@
     },
     {
       "raw_hot": 163266,
-      "num": 163266,
+      "num": 231840,
       "word": "五福临门",
       "onboard_time": 1726543878,
       "rank": 42,
@@ -619,12 +707,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149532,
+      "num": 149532,
+      "word": "普拉桑",
+      "onboard_time": 1726546459,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148844,
       "num": 148844,
       "word": "章若楠代言评论区",
       "onboard_time": 1726487239,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148434,
+      "num": 148434,
+      "word": "中秋月亮超级月亮双倍圆满",
+      "onboard_time": 1726545557,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147669,
@@ -707,6 +811,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135162,
+      "num": 135162,
+      "word": "德牧把安全的位置换给了耶耶",
+      "onboard_time": 1726546519,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 134090,
+      "num": 363922,
+      "word": "小区183家住户藏53家小旅馆",
+      "onboard_time": 1726542558,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133210,
       "num": 128670,
       "word": "Makiyo恭喜欧弟再当爸",
@@ -753,6 +873,14 @@
       "onboard_time": 1726530377,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129427,
+      "num": 129427,
+      "word": "越来越多的博物馆出现一票难求",
+      "onboard_time": 1726546338,
+      "rank": 44,
+      "category": "旅游"
     },
     {
       "raw_hot": 128725,
@@ -819,12 +947,28 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 118135,
+      "num": 118135,
+      "word": "不要在狗狗干饭时抓腿",
+      "onboard_time": 1726546879,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117078,
       "num": 117078,
       "word": "张泽禹 耳洞",
       "onboard_time": 1726498522,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116363,
+      "num": 116363,
+      "word": "亚马逊CEO恢复一周5天办公室上班",
+      "onboard_time": 1726545557,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 116188,
@@ -840,6 +984,14 @@
       "word": "2024国际乒联第38周排名",
       "onboard_time": 1726537518,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 113085,
+      "num": 113085,
+      "word": "同济大学恭喜徐卓一夺冠",
+      "onboard_time": 1726546999,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -896,6 +1048,14 @@
       "word": "台风",
       "onboard_time": 1726528334,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104807,
+      "num": 211781,
+      "word": "月饼券被黄牛半价回收后流向哪",
+      "onboard_time": 1726545020,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -984,14 +1144,6 @@
       "word": "大闸蟹养殖户谈台风直穿阳澄湖",
       "onboard_time": 1726499840,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89270,
-      "num": 363922,
-      "word": "小区183家住户藏53家小旅馆",
-      "onboard_time": 1726542558,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1168,6 +1320,14 @@
       "word": "快递小哥台风中紧紧拽着快递",
       "onboard_time": 1726518191,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28399,
+      "num": 938751,
+      "word": "淬火强军新征程",
+      "onboard_time": 1726545920,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
