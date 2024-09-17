@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726543500170,
+  "endTime": 1726544264947,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -1723,6 +1723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 379618,
+      "num": 379618,
+      "word": "赵丽颖中秋节营业图",
+      "onboard_time": 1726542018,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 379447,
       "num": 474935,
       "word": "浙江迎战台风贝碧嘉",
@@ -1913,14 +1921,6 @@
       "onboard_time": 1726464080,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 348492,
-      "num": 348492,
-      "word": "赵丽颖中秋节营业图",
-      "onboard_time": 1726542018,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 347395,
@@ -2211,6 +2211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 298365,
+      "num": 298365,
+      "word": "终于轮到王俊凯叫别人小凯了",
+      "onboard_time": 1726539918,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 296166,
       "num": 296166,
       "word": "06年小学老师的一天",
@@ -2297,6 +2305,14 @@
       "onboard_time": 1726456340,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 283219,
+      "num": 283219,
+      "word": "孙颖莎王楚钦王曼昱送中秋祝福",
+      "onboard_time": 1726542618,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 283173,
@@ -2387,6 +2403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270347,
+      "num": 270347,
+      "word": "狐妖王权篇烛光月辉剧照",
+      "onboard_time": 1726542138,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269401,
       "num": 400464,
       "word": "中秋赏月记",
@@ -2433,14 +2457,6 @@
       "onboard_time": 1726399641,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 266656,
-      "num": 266656,
-      "word": "狐妖王权篇烛光月辉剧照",
-      "onboard_time": 1726542138,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 266116,
@@ -2739,14 +2755,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 239404,
-      "num": 239404,
-      "word": "孙颖莎王楚钦王曼昱送中秋祝福",
-      "onboard_time": 1726542618,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 239223,
       "num": 239223,
       "word": "张绍刚与十个勤天成员聚餐",
@@ -2779,6 +2787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235870,
+      "num": 235870,
+      "word": "女方多次与不同对象闪婚闪离应提醒",
+      "onboard_time": 1726541538,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235853,
       "num": 365961,
       "word": "王安宇把整个内娱认了一遍",
@@ -2809,6 +2825,14 @@
       "onboard_time": 1726411461,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 232824,
+      "num": 232824,
+      "word": "悟空月饼",
+      "onboard_time": 1726541299,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 231852,
@@ -2883,14 +2907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 225977,
-      "num": 225977,
-      "word": "终于轮到王俊凯叫别人小凯了",
-      "onboard_time": 1726539918,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 225619,
       "num": 225619,
       "word": "藏海花的大结局是雨村养老",
@@ -2915,20 +2931,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 222751,
-      "num": 222751,
-      "word": "女方多次与不同对象闪婚闪离应提醒",
-      "onboard_time": 1726541538,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 222482,
       "num": 210833,
       "word": "小脚趾的趾甲为啥是两瓣",
       "onboard_time": 1726356196,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 222157,
+      "num": 201716,
+      "word": "关晓彤穿了特别定制礼服",
+      "onboard_time": 1726543638,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 220854,
@@ -3243,6 +3259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 203018,
+      "num": 203018,
+      "word": "iPhone16首周末销量下降12.7%",
+      "onboard_time": 1726543098,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 202572,
       "num": 202572,
       "word": "美诚月饼",
@@ -3331,12 +3355,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199604,
-      "num": 199604,
-      "word": "悟空月饼",
-      "onboard_time": 1726541299,
-      "rank": 32,
-      "category": "美食"
+      "raw_hot": 199483,
+      "num": 199483,
+      "word": "千香",
+      "onboard_time": 1726543399,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 199283,
@@ -3859,6 +3883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176468,
+      "num": 176468,
+      "word": "10月1日火车票今天开售",
+      "onboard_time": 1726532417,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176140,
       "num": 176140,
       "word": "教资作文 跑题",
@@ -3993,14 +4025,6 @@
       "onboard_time": 1726466358,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171712,
-      "num": 171712,
-      "word": "iPhone16首周末销量下降12.7%",
-      "onboard_time": 1726543098,
-      "rank": 39,
-      "category": "数码"
     },
     {
       "raw_hot": 171568,
@@ -4203,12 +4227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164565,
-      "num": 164565,
-      "word": "10月1日火车票今天开售",
-      "onboard_time": 1726532417,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 164782,
+      "num": 164782,
+      "word": "入青云",
+      "onboard_time": 1726543399,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 164380,
@@ -4233,6 +4257,14 @@
       "onboard_time": 1726368017,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163266,
+      "num": 163266,
+      "word": "五福临门",
+      "onboard_time": 1726543878,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 163233,
@@ -5115,14 +5147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136672,
-      "num": 136672,
-      "word": "千香",
-      "onboard_time": 1726543399,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 136585,
       "num": 136585,
       "word": "成都暴雨",
@@ -5145,14 +5169,6 @@
       "onboard_time": 1726442535,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 134867,
-      "num": 134867,
-      "word": "入青云",
-      "onboard_time": 1726543399,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 134690,
@@ -5235,6 +5251,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 132126,
+      "num": 132126,
+      "word": "iOS18新增防晕车功能",
+      "onboard_time": 1726540760,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 131986,
+      "num": 131986,
+      "word": "中秋祝福",
+      "onboard_time": 1726530676,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131939,
       "num": 131939,
       "word": "小熊猫独自过马路被家长接走了",
@@ -5305,14 +5337,6 @@
       "onboard_time": 1726396760,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130274,
-      "num": 130274,
-      "word": "中秋祝福",
-      "onboard_time": 1726530676,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 130206,
@@ -5667,6 +5691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116188,
+      "num": 362169,
+      "word": "吴艳妮夺冠后祝大家中秋快乐",
+      "onboard_time": 1726539319,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116079,
       "num": 116079,
       "word": "今晚看WTT决赛",
@@ -5947,14 +5979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 103405,
-      "num": 362169,
-      "word": "吴艳妮夺冠后祝大家中秋快乐",
-      "onboard_time": 1726539319,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 103141,
       "num": 103141,
       "word": "王曼昱第一次做饭",
@@ -6025,6 +6049,14 @@
       "onboard_time": 1726529356,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98932,
+      "num": 360293,
+      "word": "樊振东vlog",
+      "onboard_time": 1726540340,
+      "rank": 39,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 98503,
@@ -6107,14 +6139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90811,
-      "num": 344371,
-      "word": "樊振东vlog",
-      "onboard_time": 1726540340,
-      "rank": 39,
-      "category": "体育,网红"
-    },
-    {
       "raw_hot": 90741,
       "num": 199324,
       "word": "沈渡 行也思幸坐也思幸",
@@ -6128,6 +6152,14 @@
       "word": "大闸蟹养殖户谈台风直穿阳澄湖",
       "onboard_time": 1726499840,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89270,
+      "num": 363922,
+      "word": "小区183家住户藏53家小旅馆",
+      "onboard_time": 1726542558,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -6256,14 +6288,6 @@
       "word": "民乐版水调歌头太上头了",
       "onboard_time": 1726473680,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 70837,
-      "num": 350659,
-      "word": "小区183家住户藏53家小旅馆",
-      "onboard_time": 1726542558,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
