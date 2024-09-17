@@ -1,6 +1,6 @@
 {
   "startTime": 1726504063678,
-  "endTime": 1726558531501,
+  "endTime": 1726561685626,
   "band_list": [
     {
       "raw_hot": 3116864,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1507222,
+      "num": 1507222,
+      "word": "买到15盒美诚月饼老板称给亲戚了",
+      "onboard_time": 1726557620,
+      "rank": 5,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1490682,
       "num": 1490682,
       "word": "鹿晗连续八年为关晓彤庆生",
@@ -73,6 +81,14 @@
       "onboard_time": 1726547182,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1197288,
+      "num": 1197288,
+      "word": "三只羊给员工发美诚月饼",
+      "onboard_time": 1726559720,
+      "rank": 1,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1159594,
@@ -113,6 +129,22 @@
       "onboard_time": 1726551381,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 989563,
+      "num": 989563,
+      "word": "通报秒删多次约谈三只羊内容",
+      "onboard_time": 1726559540,
+      "rank": 3,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 974404,
+      "num": 974404,
+      "word": "罗志祥发自拍回应医美争议",
+      "onboard_time": 1726556899,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 966057,
@@ -161,6 +193,14 @@
       "onboard_time": 1726527913,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 786809,
+      "num": 786809,
+      "word": "iOS18 还我妈生相册",
+      "onboard_time": 1726560322,
+      "rank": 5,
+      "category": "数码"
     },
     {
       "raw_hot": 775576,
@@ -225,6 +265,14 @@
       "onboard_time": 1726546879,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 636061,
+      "num": 636061,
+      "word": "小杨哥已掉粉超200万",
+      "onboard_time": 1726557800,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 627399,
@@ -324,19 +372,11 @@
     },
     {
       "raw_hot": 497728,
-      "num": 305276,
+      "num": 349581,
       "word": "中秋节误扇导师几十个巴掌",
       "onboard_time": 1726555877,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 473174,
-      "num": 473174,
-      "word": "买到15盒美诚月饼老板称给亲戚了",
-      "onboard_time": 1726557620,
-      "rank": 5,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 462294,
@@ -345,6 +385,14 @@
       "onboard_time": 1726556721,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 459829,
+      "num": 459829,
+      "word": "女厕所为什么不能多几个坑位",
+      "onboard_time": 1726553300,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 418470,
@@ -371,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 386806,
-      "num": 298025,
-      "word": "女厕所为什么不能多几个坑位",
-      "onboard_time": 1726553300,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 384758,
       "num": 384758,
       "word": "方灿姚琛 什刹海",
@@ -393,6 +433,14 @@
       "onboard_time": 1726542018,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 370500,
+      "num": 370500,
+      "word": "王玉雯说秦霄贤恋爱不行",
+      "onboard_time": 1726557380,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 363895,
@@ -433,14 +481,6 @@
       "onboard_time": 1726486699,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 323080,
-      "num": 323080,
-      "word": "小杨哥已掉粉超200万",
-      "onboard_time": 1726557800,
-      "rank": 16,
-      "category": "网红"
     },
     {
       "raw_hot": 319838,
@@ -491,6 +531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 302033,
+      "num": 302033,
+      "word": "周依然 节目",
+      "onboard_time": 1726558460,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301202,
       "num": 301202,
       "word": "彭小苒在太子妃赛道一骑绝尘",
@@ -537,6 +585,14 @@
       "onboard_time": 1726539197,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282047,
+      "num": 282047,
+      "word": "iOS18相册",
+      "onboard_time": 1726560080,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 281624,
@@ -668,11 +724,19 @@
     },
     {
       "raw_hot": 237653,
-      "num": 237653,
+      "num": 285986,
       "word": "留子在韩国大学的中秋晚会表演上春山",
       "onboard_time": 1726556181,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 231449,
+      "num": 231449,
+      "word": "抖音客服回应三只羊被立案调查",
+      "onboard_time": 1726559359,
+      "rank": 32,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 229876,
@@ -681,14 +745,6 @@
       "onboard_time": 1726547182,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 227407,
-      "num": 227407,
-      "word": "王玉雯说秦霄贤恋爱不行",
-      "onboard_time": 1726557380,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 220854,
@@ -771,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201583,
+      "num": 201583,
+      "word": "小狗被毒死她自学刑法死磕投毒者",
+      "onboard_time": 1726561101,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199663,
       "num": 199663,
       "word": "台风贝碧嘉",
@@ -801,6 +865,14 @@
       "onboard_time": 1726549640,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198010,
+      "num": 198010,
+      "word": "这就是二搭cp的默契感吗",
+      "onboard_time": 1726560740,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 197426,
@@ -889,6 +961,22 @@
       "onboard_time": 1726549400,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190594,
+      "num": 190594,
+      "word": "张凌赫 小狗进食",
+      "onboard_time": 1726560980,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189217,
+      "num": 189217,
+      "word": "iOS18 丑",
+      "onboard_time": 1726561342,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 189040,
@@ -1009,6 +1097,14 @@
       "onboard_time": 1726533738,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 167631,
+      "num": 167631,
+      "word": "解放军对美军机过航行动跟监警戒",
+      "onboard_time": 1726559481,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 166259,
@@ -1347,14 +1443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133071,
-      "num": 308726,
-      "word": "罗志祥发自拍回应医美争议",
-      "onboard_time": 1726556899,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132596,
       "num": 132596,
       "word": "iOS18超多新功能汇总",
@@ -1417,14 +1505,6 @@
       "onboard_time": 1726546338,
       "rank": 44,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 129035,
-      "num": 129035,
-      "word": "周依然 节目",
-      "onboard_time": 1726558460,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 128725,
@@ -1619,6 +1699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102043,
+      "num": 283880,
+      "word": "赵露思中秋晒曾黎美照",
+      "onboard_time": 1726560980,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99902,
       "num": 99902,
       "word": "没有目的性的恋爱",
@@ -1755,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78306,
+      "num": 460970,
+      "word": "如何拯救卖不动的月饼",
+      "onboard_time": 1726560800,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78286,
       "num": 78286,
       "word": "台风贝碧嘉即将抵达南京",
@@ -1825,6 +1921,22 @@
       "onboard_time": 1726494501,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62590,
+      "num": 1074301,
+      "word": "大数据看中秋文旅消费新亮点",
+      "onboard_time": 1726560680,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59829,
+      "num": 362386,
+      "word": "美诚月饼算不算香港月饼",
+      "onboard_time": 1726559841,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56183,
@@ -1913,6 +2025,14 @@
       "onboard_time": 1726542978,
       "rank": 19,
       "category": "社会新闻,国外时政"
+    },
+    {
+      "raw_hot": 32830,
+      "num": 419585,
+      "word": "世界骑行日",
+      "onboard_time": 1726560020,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31485,
@@ -2048,6 +2168,14 @@
       "word": "致敬台风中的守护者",
       "onboard_time": 1726495641,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14226,
+      "num": 346450,
+      "word": "也感受一把人在天津心在旷野",
+      "onboard_time": 1726558761,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
