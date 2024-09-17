@@ -1,6 +1,6 @@
 {
   "startTime": 1726504063678,
-  "endTime": 1726572963598,
+  "endTime": 1726576865386,
   "band_list": [
     {
       "raw_hot": 3116864,
@@ -33,6 +33,14 @@
       "onboard_time": 1726546279,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1958423,
+      "num": 1958423,
+      "word": "三只羊或被罚营业额5倍吊销营业执照",
+      "onboard_time": 1726571420,
+      "rank": 17,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1917926,
@@ -91,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1416561,
+      "num": 1128939,
+      "word": "Angelababy中秋回眸笑",
+      "onboard_time": 1726572320,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1392288,
       "num": 283742,
       "word": "罗志祥在哪做的医美",
@@ -115,11 +131,11 @@
       "category": "数码"
     },
     {
-      "raw_hot": 1351530,
-      "num": 528257,
-      "word": "三只羊或被罚营业额5倍吊销营业执照",
-      "onboard_time": 1726571420,
-      "rank": 17,
+      "raw_hot": 1349845,
+      "num": 1126545,
+      "word": "小杨哥评论区被立案调查刷屏",
+      "onboard_time": 1726573400,
+      "rank": 4,
       "category": "社会新闻,网红"
     },
     {
@@ -171,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1153324,
+      "num": 1153324,
+      "word": "央视中秋晚会",
+      "onboard_time": 1726573519,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1113818,
       "num": 1178210,
       "word": "猎罪图鉴2",
@@ -193,6 +217,14 @@
       "onboard_time": 1726544719,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1075306,
+      "num": 1075306,
+      "word": "月亮",
+      "onboard_time": 1726487960,
+      "rank": 27,
+      "category": "自然"
     },
     {
       "raw_hot": 1067935,
@@ -233,6 +265,14 @@
       "onboard_time": 1726501459,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 932953,
+      "num": 932953,
+      "word": "借了70万给好同事结果被骗了",
+      "onboard_time": 1726573579,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 932853,
@@ -283,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 770135,
+      "num": 770135,
+      "word": "湖南卫视中秋之夜",
+      "onboard_time": 1726573099,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 752852,
       "num": 752852,
       "word": "孙颖莎9400分世排第一",
@@ -323,12 +371,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 662168,
-      "num": 662168,
-      "word": "月亮",
-      "onboard_time": 1726487960,
-      "rank": 27,
-      "category": "自然"
+      "raw_hot": 676530,
+      "num": 676530,
+      "word": "折腰",
+      "onboard_time": 1726575681,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 647392,
@@ -427,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 569671,
+      "num": 569671,
+      "word": "谁看了吴磊的月饼都得愣一下",
+      "onboard_time": 1726571840,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 560960,
       "num": 549165,
       "word": "关晓彤穿了特别定制礼服",
@@ -435,8 +491,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 547295,
-      "num": 547295,
+      "raw_hot": 557731,
+      "num": 557731,
       "word": "中秋节目单",
       "onboard_time": 1726567640,
       "rank": 7,
@@ -523,20 +579,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 457514,
-      "num": 457514,
-      "word": "谁看了吴磊的月饼都得愣一下",
-      "onboard_time": 1726571840,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 430407,
-      "num": 430407,
-      "word": "Angelababy中秋回眸笑",
-      "onboard_time": 1726572320,
-      "rank": 17,
-      "category": "作品衍生"
+      "raw_hot": 430655,
+      "num": 430655,
+      "word": "徐志胜 是公司没有流水给你渴成这样吗",
+      "onboard_time": 1726573340,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 418470,
@@ -625,6 +673,14 @@
       "onboard_time": 1726503317,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 340781,
+      "num": 340781,
+      "word": "镖人",
+      "onboard_time": 1726574480,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 340461,
@@ -739,6 +795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 286121,
+      "num": 286121,
+      "word": "丁程鑫宋亚轩刘耀文 要点形象",
+      "onboard_time": 1726575380,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283804,
       "num": 283804,
       "word": "贝碧嘉几乎是以巅峰强度登陆",
@@ -843,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265372,
+      "num": 265372,
+      "word": "两个佟丽娅抢月亮",
+      "onboard_time": 1726575981,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264528,
       "num": 264528,
       "word": "王楚然敦煌神女",
@@ -931,6 +1003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 231755,
+      "num": 231755,
+      "word": "北京月亮",
+      "onboard_time": 1726573460,
+      "rank": 28,
+      "category": "自然"
+    },
+    {
       "raw_hot": 231449,
       "num": 231449,
       "word": "抖音客服回应三只羊被立案调查",
@@ -945,6 +1025,14 @@
       "onboard_time": 1726547182,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 227999,
+      "num": 227999,
+      "word": "李现rap了",
+      "onboard_time": 1726576341,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 224621,
@@ -987,12 +1075,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214013,
+      "num": 214013,
+      "word": "张真源 怎么没人通知我戴帽子",
+      "onboard_time": 1726576581,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212416,
       "num": 212416,
       "word": "港媒用车大炮报道小杨哥月饼事件",
       "onboard_time": 1726570040,
       "rank": 33,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 210259,
+      "num": 210259,
+      "word": "中秋文案",
+      "onboard_time": 1726530017,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 206677,
@@ -1027,6 +1131,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 203328,
+      "num": 203328,
+      "word": "陈楚生版我愿意",
+      "onboard_time": 1726575861,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203018,
       "num": 203018,
       "word": "iPhone16首周末销量下降12.7%",
@@ -1047,6 +1159,14 @@
       "num": 201237,
       "word": "原神 基尼奇",
       "onboard_time": 1726570879,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 200764,
+      "num": 200764,
+      "word": "WTT中国大满贯外卡名单公布",
+      "onboard_time": 1726576221,
       "rank": 36,
       "category": "体育"
     },
@@ -1171,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194711,
+      "num": 194711,
+      "word": "赏月",
+      "onboard_time": 1726576402,
+      "rank": 37,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 194159,
       "num": 194159,
       "word": "赵露思中秋新中式",
@@ -1203,12 +1331,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192529,
+      "num": 192529,
+      "word": "Xiaohu手势舞",
+      "onboard_time": 1726575740,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 190901,
       "num": 190901,
       "word": "王鹤棣再演个民国戏吧",
       "onboard_time": 1726564280,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189265,
+      "num": 189265,
+      "word": "中秋快乐",
+      "onboard_time": 1726576581,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189040,
@@ -1339,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172037,
+      "num": 705645,
+      "word": "蒲熠星曹恩齐rap开场",
+      "onboard_time": 1726575561,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171738,
       "num": 171738,
       "word": "光遇",
@@ -1395,14 +1547,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 165759,
-      "num": 165759,
-      "word": "中秋文案",
-      "onboard_time": 1726530017,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 165117,
       "num": 165117,
       "word": "江苏2名触电人员经抢救无效后死亡",
@@ -1435,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162492,
+      "num": 162492,
+      "word": "下一战歌手有伯远唱MAMA",
+      "onboard_time": 1726575501,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161828,
       "num": 161828,
       "word": "吉克隽逸怎么把擦锅球穿身上了",
@@ -1457,6 +1609,22 @@
       "onboard_time": 1726565600,
       "rank": 48,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 161231,
+      "num": 161231,
+      "word": "谁家小猫偷感这么重",
+      "onboard_time": 1726575141,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 161052,
+      "num": 161052,
+      "word": "林高远 兼三项",
+      "onboard_time": 1726576641,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 160207,
@@ -1537,6 +1705,14 @@
       "onboard_time": 1726538417,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151560,
+      "num": 228156,
+      "word": "第三方鉴定出三只羊所售茅台非正品",
+      "onboard_time": 1726574841,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151188,
@@ -2379,6 +2555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57117,
+      "num": 563645,
+      "word": "消费者买15盒美诚月饼退单被拒",
+      "onboard_time": 1726575201,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56183,
       "num": 56183,
       "word": "直击贝碧嘉过境江苏",
@@ -2480,6 +2664,22 @@
       "word": "直播带货亟需信任重塑",
       "onboard_time": 1726567998,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39827,
+      "num": 236303,
+      "word": "猫人现在也是出息了",
+      "onboard_time": 1726573641,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 38430,
+      "num": 1130108,
+      "word": "文化中国行看中秋之美",
+      "onboard_time": 1726574000,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
