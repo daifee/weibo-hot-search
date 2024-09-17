@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726582790818,
+  "endTime": 1726583873660,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -79,6 +79,14 @@
       "num": 481969,
       "word": "央视中秋晚会删掉于适节目",
       "onboard_time": 1726555700,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2324594,
+      "num": 682448,
+      "word": "假唱",
+      "onboard_time": 1726581862,
       "rank": 10,
       "category": "综艺"
     },
@@ -875,14 +883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 945767,
-      "num": 682448,
-      "word": "假唱",
-      "onboard_time": 1726581862,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 932853,
       "num": 932853,
       "word": "悟空月饼",
@@ -976,6 +976,14 @@
       "word": "贝碧嘉或以强台风级登陆浙江上海一带",
       "onboard_time": 1726403361,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 821118,
+      "num": 821118,
+      "word": "70万买侄女一套房她反悔了怎么办",
+      "onboard_time": 1726577061,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1233,14 +1241,6 @@
       "onboard_time": 1726453759,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 681793,
-      "num": 681793,
-      "word": "70万买侄女一套房她反悔了怎么办",
-      "onboard_time": 1726577061,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 664685,
@@ -1547,6 +1547,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 571287,
+      "num": 571287,
+      "word": "记者实探三只羊集团",
+      "onboard_time": 1726578802,
+      "rank": 24,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 569671,
       "num": 569671,
       "word": "谁看了吴磊的月饼都得愣一下",
@@ -1648,6 +1656,14 @@
       "word": "孙颖莎回应夺冠",
       "onboard_time": 1726402762,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 552789,
+      "num": 552789,
+      "word": "徐嘉余喊话王楚钦吃月饼",
+      "onboard_time": 1726581683,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -1825,14 +1841,6 @@
       "onboard_time": 1726467379,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 506191,
-      "num": 433173,
-      "word": "记者实探三只羊集团",
-      "onboard_time": 1726578802,
-      "rank": 24,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 505029,
@@ -2275,12 +2283,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 386033,
-      "num": 386033,
-      "word": "徐嘉余喊话王楚钦吃月饼",
-      "onboard_time": 1726581683,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 385930,
+      "num": 548695,
+      "word": "研究生数量超本科生高校招生引争议",
+      "onboard_time": 1726581141,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 384758,
@@ -2377,14 +2385,6 @@
       "onboard_time": 1726563621,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 370718,
-      "num": 520269,
-      "word": "研究生数量超本科生高校招生引争议",
-      "onboard_time": 1726581141,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 370500,
@@ -2643,6 +2643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 330959,
+      "num": 501846,
+      "word": "李宇春唱了一首给妈妈的歌",
+      "onboard_time": 1726580302,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 329782,
       "num": 332973,
       "word": "半熟男女是装腔启示录姊妹篇",
@@ -2881,6 +2889,14 @@
       "onboard_time": 1726369157,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299392,
+      "num": 299392,
+      "word": "iPad终于有计算器了",
+      "onboard_time": 1726581980,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 299331,
@@ -3291,14 +3307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 261042,
-      "num": 261042,
-      "word": "iPad终于有计算器了",
-      "onboard_time": 1726581980,
-      "rank": 32,
-      "category": "数码"
-    },
-    {
       "raw_hot": 260421,
       "num": 383331,
       "word": "去县城旅游的中产后悔了",
@@ -3515,6 +3523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243147,
+      "num": 243147,
+      "word": "iOS18 手电筒",
+      "onboard_time": 1726582882,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 242480,
       "num": 239574,
       "word": "突然明白女生留在大城市的意义",
@@ -3596,7 +3612,7 @@
     },
     {
       "raw_hot": 238171,
-      "num": 274019,
+      "num": 553038,
       "word": "鹿晗 微博音乐盛典",
       "onboard_time": 1726581622,
       "rank": 29,
@@ -3635,12 +3651,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235015,
+      "num": 432041,
+      "word": "谢娜女儿做的月饼",
+      "onboard_time": 1726581683,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234739,
       "num": 490974,
       "word": "明天可买10月1日火车票",
       "onboard_time": 1726472420,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234630,
+      "num": 234630,
+      "word": "两个秦昊都来了",
+      "onboard_time": 1726582522,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 234561,
@@ -3787,6 +3819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223994,
+      "num": 223994,
+      "word": "央视镜头下的金晨",
+      "onboard_time": 1726583363,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222952,
       "num": 222952,
       "word": "女子吸笑气被抓时请求民警让她吸完",
@@ -3843,14 +3883,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 220219,
-      "num": 501846,
-      "word": "李宇春唱了一首给妈妈的歌",
-      "onboard_time": 1726580302,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 220174,
       "num": 220174,
       "word": "台风路径",
@@ -3881,6 +3913,14 @@
       "onboard_time": 1726493360,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217556,
+      "num": 217556,
+      "word": "贾跃亭晒与三个孩子团聚视频",
+      "onboard_time": 1726583183,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 216607,
@@ -4001,6 +4041,14 @@
       "onboard_time": 1726463120,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209287,
+      "num": 209287,
+      "word": "万茜陈楚生合唱风吹麦浪",
+      "onboard_time": 1726582702,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 209087,
@@ -4251,14 +4299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201626,
-      "num": 201626,
-      "word": "两个秦昊都来了",
-      "onboard_time": 1726582522,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 201587,
       "num": 201587,
       "word": "180斤记者在沪浙交界处被吹得凌乱了",
@@ -4483,6 +4523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195578,
+      "num": 195578,
+      "word": "刘涛好美",
+      "onboard_time": 1726583003,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195342,
       "num": 195342,
       "word": "陈丽君戴荃 君是山",
@@ -4683,6 +4731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189810,
+      "num": 189810,
+      "word": "张踩玲谈无法和解的女性伤害",
+      "onboard_time": 1726583603,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189711,
       "num": 189711,
       "word": "张奕然 14岁要长到175",
@@ -4697,6 +4753,14 @@
       "onboard_time": 1726307120,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189602,
+      "num": 189602,
+      "word": "高天意进球",
+      "onboard_time": 1726583243,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 189153,
@@ -4857,14 +4921,6 @@
       "onboard_time": 1726455740,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 184962,
-      "num": 184962,
-      "word": "万茜陈楚生合唱风吹麦浪",
-      "onboard_time": 1726582702,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 184727,
@@ -5179,14 +5235,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 174561,
-      "num": 432041,
-      "word": "谢娜女儿做的月饼",
-      "onboard_time": 1726581683,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 174360,
       "num": 174360,
       "word": "1元月饼好吃吗",
@@ -5209,6 +5257,14 @@
       "onboard_time": 1726580242,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173558,
+      "num": 173558,
+      "word": "周深和理查德克莱德曼合作梁祝",
+      "onboard_time": 1726583782,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 173544,
@@ -5241,6 +5297,14 @@
       "onboard_time": 1726461980,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173326,
+      "num": 173326,
+      "word": "初恋在中年人眼里是十级飓风",
+      "onboard_time": 1726583423,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 172686,
@@ -5289,6 +5353,14 @@
       "onboard_time": 1726299321,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171388,
+      "num": 171388,
+      "word": "关晓彤新中式镂空旗袍",
+      "onboard_time": 1726583662,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 170968,
@@ -7931,6 +8003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81273,
+      "num": 682587,
+      "word": "10人拼单赌石8个人都是托儿",
+      "onboard_time": 1726582043,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81033,
       "num": 1074301,
       "word": "大数据看中秋文旅消费新亮点",
@@ -8143,14 +8223,6 @@
       "num": 150114,
       "word": "酒店回应女生入住遭陌生男子闯入",
       "onboard_time": 1726337593,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61489,
-      "num": 682587,
-      "word": "10人拼单赌石8个人都是托儿",
-      "onboard_time": 1726582043,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -8911,6 +8983,14 @@
       "num": 1095326,
       "word": "服贸会探馆直播",
       "onboard_time": 1726471878,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20701,
+      "num": 1012309,
+      "word": "中国人九天揽月的梦想正照进现实",
+      "onboard_time": 1726563621,
       "rank": 2,
       "category": "社会新闻"
     },
