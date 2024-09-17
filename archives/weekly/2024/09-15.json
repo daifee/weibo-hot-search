@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726569621241,
+  "endTime": 1726571911709,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1857036,
+      "num": 1857036,
+      "word": "时代少年团直播",
+      "onboard_time": 1726569740,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1845747,
       "num": 1845747,
       "word": "男子用筋膜枪按摩眼睛视力仅余0.1",
@@ -192,6 +200,14 @@
       "word": "台风普拉桑生成",
       "onboard_time": 1726411400,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1620093,
+      "num": 1620093,
+      "word": "女演员空中表演嫦娥奔月撞到吊车大臂",
+      "onboard_time": 1726566798,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -369,6 +385,14 @@
       "onboard_time": 1726466000,
       "rank": 1,
       "category": "国外时政,作品衍生"
+    },
+    {
+      "raw_hot": 1371417,
+      "num": 1371417,
+      "word": "超级月亮",
+      "onboard_time": 1726567401,
+      "rank": 30,
+      "category": "自然"
     },
     {
       "raw_hot": 1364112,
@@ -1107,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 662168,
+      "num": 662168,
+      "word": "月亮",
+      "onboard_time": 1726487960,
+      "rank": 36,
+      "category": "自然"
+    },
+    {
       "raw_hot": 650648,
       "num": 650648,
       "word": "杨洋章若楠开机同框",
@@ -1137,6 +1169,14 @@
       "onboard_time": 1726391120,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 641767,
+      "num": 641767,
+      "word": "中秋",
+      "onboard_time": 1726563979,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 641480,
@@ -1651,22 +1691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 502918,
-      "num": 502918,
-      "word": "女演员空中表演嫦娥奔月撞到吊车大臂",
-      "onboard_time": 1726566798,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 502291,
-      "num": 502291,
-      "word": "中秋",
-      "onboard_time": 1726563979,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 501587,
       "num": 501587,
       "word": "台风",
@@ -1737,6 +1761,14 @@
       "onboard_time": 1726444938,
       "rank": 8,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 488564,
+      "num": 488564,
+      "word": "时代少年团 高会语音",
+      "onboard_time": 1726568359,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 488274,
@@ -2171,6 +2203,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 368981,
+      "num": 368981,
+      "word": "三只羊或被罚营业额5倍吊销营业执照",
+      "onboard_time": 1726571420,
+      "rank": 17,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 366639,
       "num": 577122,
       "word": "大学女生陪爬泰山只收20元",
@@ -2331,14 +2371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 342361,
-      "num": 342361,
-      "word": "超级月亮",
-      "onboard_time": 1726567401,
-      "rank": 30,
-      "category": "自然"
-    },
-    {
       "raw_hot": 340461,
       "num": 340461,
       "word": "詹青云真正的爱应该是什么样",
@@ -2401,14 +2433,6 @@
       "onboard_time": 1726472657,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 328739,
-      "num": 328739,
-      "word": "时代少年团 高会语音",
-      "onboard_time": 1726568359,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 323788,
@@ -3563,6 +3587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212416,
+      "num": 212416,
+      "word": "港媒用车大炮报道小杨哥月饼事件",
+      "onboard_time": 1726570040,
+      "rank": 33,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 212050,
       "num": 197273,
       "word": "泰坦尼克号沉船时的海水有多冷",
@@ -3969,6 +4001,14 @@
       "onboard_time": 1726483459,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196904,
+      "num": 196904,
+      "word": "原神 基尼奇",
+      "onboard_time": 1726570879,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 196570,
@@ -4523,6 +4563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177884,
+      "num": 591644,
+      "word": "合肥回应调查三只羊通报版本不同",
+      "onboard_time": 1726571239,
+      "rank": 9,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 177614,
       "num": 177614,
       "word": "AG先拿一分",
@@ -4553,6 +4601,14 @@
       "onboard_time": 1726548079,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176652,
+      "num": 176652,
+      "word": "女生遛狗暴走12公里累瘫狗狗",
+      "onboard_time": 1726570221,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176579,
@@ -4713,14 +4769,6 @@
       "onboard_time": 1726549160,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172083,
-      "num": 172083,
-      "word": "月亮",
-      "onboard_time": 1726487960,
-      "rank": 36,
-      "category": "自然"
     },
     {
       "raw_hot": 171894,
@@ -4907,6 +4955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166039,
+      "num": 166039,
+      "word": "东皇太一新皮肤爆料",
+      "onboard_time": 1726570760,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 165463,
       "num": 165463,
       "word": "上海电力回应",
@@ -4977,6 +5033,14 @@
       "onboard_time": 1726491320,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163745,
+      "num": 163745,
+      "word": "曾志伟是三只羊香港分公司负责人",
+      "onboard_time": 1726569440,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 163293,
@@ -5179,6 +5243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158619,
+      "num": 158619,
+      "word": "谁看了吴磊的月饼都得愣一下",
+      "onboard_time": 1726571840,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158502,
       "num": 158502,
       "word": "街道办回应女孩掉井父亲先拍照",
@@ -5289,6 +5361,14 @@
       "onboard_time": 1726414341,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 156654,
+      "num": 156654,
+      "word": "中秋文案",
+      "onboard_time": 1726530017,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 156352,
@@ -5603,6 +5683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146539,
+      "num": 146539,
+      "word": "丞磊中秋发了待播角色",
+      "onboard_time": 1726571899,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146263,
       "num": 146263,
       "word": "我恨皮亚杰",
@@ -5683,6 +5771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144304,
+      "num": 144304,
+      "word": "印度警方拘留超百名三星工厂罢工工人",
+      "onboard_time": 1726571300,
+      "rank": 47,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 144253,
       "num": 144253,
       "word": "王心凌为了出片有多拼",
@@ -5721,14 +5817,6 @@
       "onboard_time": 1726414760,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 143437,
-      "num": 143437,
-      "word": "中秋文案",
-      "onboard_time": 1726530017,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 143416,
@@ -5841,6 +5929,14 @@
       "onboard_time": 1726371978,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 141026,
+      "num": 141026,
+      "word": "梁伟铿 开局顺利祝大家中秋快乐",
+      "onboard_time": 1726570700,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 140990,
@@ -6323,6 +6419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 130170,
+      "num": 253543,
+      "word": "雪迷宫戏里戏外一起过中秋",
+      "onboard_time": 1726571000,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129920,
       "num": 362386,
       "word": "美诚月饼算不算香港月饼",
@@ -6657,6 +6761,14 @@
       "onboard_time": 1726440553,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 117496,
+      "num": 260095,
+      "word": "流水迢迢",
+      "onboard_time": 1726570879,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 117416,
@@ -7017,14 +7129,6 @@
       "onboard_time": 1726356496,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 105133,
-      "num": 105133,
-      "word": "曾志伟是三只羊香港分公司负责人",
-      "onboard_time": 1726569440,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 104738,
@@ -7763,6 +7867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43256,
+      "num": 271584,
+      "word": "月饼市场上演最后的疯狂",
+      "onboard_time": 1726571359,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41919,
       "num": 198830,
       "word": "中介用卡片开门闯入逼女租客离开",
@@ -7812,7 +7924,7 @@
     },
     {
       "raw_hot": 39503,
-      "num": 1068805,
+      "num": 1385532,
       "word": "藏在古画里的诗意中秋",
       "onboard_time": 1726560200,
       "rank": 2,
@@ -7840,6 +7952,14 @@
       "word": "两男子贪图口腹之欲捕食野生毛冠鹿",
       "onboard_time": 1726387760,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38074,
+      "num": 489852,
+      "word": "监管不能对头部主播绕道而行",
+      "onboard_time": 1726571779,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -8083,6 +8203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27248,
+      "num": 230274,
+      "word": "林一的出片法则",
+      "onboard_time": 1726570401,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 27107,
       "num": 27107,
       "word": "巴音布鲁克草原再现云海奇观",
@@ -8232,6 +8360,14 @@
       "word": "文化中国行中秋赏灯会",
       "onboard_time": 1726322121,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18995,
+      "num": 489002,
+      "word": "台风过后阳澄湖大闸蟹会涨价吗",
+      "onboard_time": 1726570579,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

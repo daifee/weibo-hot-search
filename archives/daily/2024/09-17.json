@@ -1,6 +1,6 @@
 {
   "startTime": 1726504063678,
-  "endTime": 1726569621241,
+  "endTime": 1726571911709,
   "band_list": [
     {
       "raw_hot": 3116864,
@@ -43,6 +43,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1857036,
+      "num": 1857036,
+      "word": "时代少年团直播",
+      "onboard_time": 1726569740,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1620093,
+      "num": 1620093,
+      "word": "女演员空中表演嫦娥奔月撞到吊车大臂",
+      "onboard_time": 1726566798,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1585516,
       "num": 1585516,
       "word": "三只羊给员工发美诚月饼",
@@ -81,6 +97,14 @@
       "onboard_time": 1726548319,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1371417,
+      "num": 1371417,
+      "word": "超级月亮",
+      "onboard_time": 1726567401,
+      "rank": 30,
+      "category": "自然"
     },
     {
       "raw_hot": 1357849,
@@ -283,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 662168,
+      "num": 662168,
+      "word": "月亮",
+      "onboard_time": 1726487960,
+      "rank": 27,
+      "category": "自然"
+    },
+    {
       "raw_hot": 647392,
       "num": 647392,
       "word": "金价猛涨有人套现40多万",
@@ -296,6 +328,14 @@
       "word": "女方多次与不同对象闪婚闪离应提醒",
       "onboard_time": 1726541538,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 641767,
+      "num": 641767,
+      "word": "中秋",
+      "onboard_time": 1726563979,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -435,22 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 502918,
-      "num": 502918,
-      "word": "女演员空中表演嫦娥奔月撞到吊车大臂",
-      "onboard_time": 1726566798,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 502291,
-      "num": 502291,
-      "word": "中秋",
-      "onboard_time": 1726563979,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 498640,
       "num": 414091,
       "word": "张馨予在藏区跳篝火舞后又晕又吐",
@@ -465,6 +489,14 @@
       "onboard_time": 1726555877,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 488564,
+      "num": 488564,
+      "word": "时代少年团 高会语音",
+      "onboard_time": 1726568359,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 462294,
@@ -547,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 368981,
+      "num": 368981,
+      "word": "三只羊或被罚营业额5倍吊销营业执照",
+      "onboard_time": 1726571420,
+      "rank": 17,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 363895,
       "num": 363895,
       "word": "肖战请客得闲谨制剧组喝奶茶",
@@ -571,14 +611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 342361,
-      "num": 342361,
-      "word": "超级月亮",
-      "onboard_time": 1726567401,
-      "rank": 30,
-      "category": "自然"
-    },
-    {
       "raw_hot": 340461,
       "num": 340461,
       "word": "詹青云真正的爱应该是什么样",
@@ -593,14 +625,6 @@
       "onboard_time": 1726486699,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 328739,
-      "num": 328739,
-      "word": "时代少年团 高会语音",
-      "onboard_time": 1726568359,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 319838,
@@ -923,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212416,
+      "num": 212416,
+      "word": "港媒用车大炮报道小杨哥月饼事件",
+      "onboard_time": 1726570040,
+      "rank": 33,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 206677,
       "num": 206677,
       "word": "TOP登陆少年中秋",
@@ -1033,6 +1065,14 @@
       "onboard_time": 1726539739,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 196904,
+      "num": 196904,
+      "word": "原神 基尼奇",
+      "onboard_time": 1726570879,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 196441,
@@ -1195,12 +1235,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177884,
+      "num": 591644,
+      "word": "合肥回应调查三只羊通报版本不同",
+      "onboard_time": 1726571239,
+      "rank": 9,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 176973,
       "num": 176973,
       "word": "Kid 替父还债",
       "onboard_time": 1726548079,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176652,
+      "num": 176652,
+      "word": "女生遛狗暴走12公里累瘫狗狗",
+      "onboard_time": 1726570221,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176468,
@@ -1283,6 +1339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 166039,
+      "num": 166039,
+      "word": "东皇太一新皮肤爆料",
+      "onboard_time": 1726570760,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 165117,
       "num": 165117,
       "word": "江苏2名触电人员经抢救无效后死亡",
@@ -1297,6 +1361,14 @@
       "onboard_time": 1726543399,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163745,
+      "num": 163745,
+      "word": "曾志伟是三只羊香港分公司负责人",
+      "onboard_time": 1726569440,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 163266,
@@ -1355,6 +1427,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 158619,
+      "num": 158619,
+      "word": "谁看了吴磊的月饼都得愣一下",
+      "onboard_time": 1726571840,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158229,
       "num": 158229,
       "word": "人怎么可以过的这么舒服",
@@ -1369,6 +1449,14 @@
       "onboard_time": 1726564640,
       "rank": 39,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 156654,
+      "num": 156654,
+      "word": "中秋文案",
+      "onboard_time": 1726530017,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 155123,
@@ -1483,6 +1571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146539,
+      "num": 146539,
+      "word": "丞磊中秋发了待播角色",
+      "onboard_time": 1726571899,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145254,
       "num": 145254,
       "word": "头部主播带货频翻车的根源何在",
@@ -1507,12 +1603,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 144655,
-      "num": 144655,
-      "word": "月亮",
-      "onboard_time": 1726487960,
-      "rank": 27,
-      "category": "自然"
+      "raw_hot": 144304,
+      "num": 144304,
+      "word": "印度警方拘留超百名三星工厂罢工工人",
+      "onboard_time": 1726571300,
+      "rank": 47,
+      "category": "国外时政"
     },
     {
       "raw_hot": 143778,
@@ -1531,20 +1627,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 143437,
-      "num": 143437,
-      "word": "中秋文案",
-      "onboard_time": 1726530017,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 141327,
       "num": 141327,
       "word": "明日方舟",
       "onboard_time": 1726563621,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 141026,
+      "num": 141026,
+      "word": "梁伟铿 开局顺利祝大家中秋快乐",
+      "onboard_time": 1726570700,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 140853,
@@ -1747,6 +1843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130170,
+      "num": 253543,
+      "word": "雪迷宫戏里戏外一起过中秋",
+      "onboard_time": 1726571000,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129920,
       "num": 362386,
       "word": "美诚月饼算不算香港月饼",
@@ -1841,6 +1945,14 @@
       "onboard_time": 1726533078,
       "rank": 40,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 117496,
+      "num": 260095,
+      "word": "流水迢迢",
+      "onboard_time": 1726570879,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 117078,
@@ -1968,14 +2080,6 @@
       "word": "于正老粉 我永远不脱粉",
       "onboard_time": 1726529776,
       "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 105133,
-      "num": 105133,
-      "word": "曾志伟是三只羊香港分公司负责人",
-      "onboard_time": 1726569440,
-      "rank": 47,
       "category": "艺人"
     },
     {
@@ -2323,6 +2427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43256,
+      "num": 271584,
+      "word": "月饼市场上演最后的疯狂",
+      "onboard_time": 1726571359,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41061,
       "num": 502518,
       "word": "直播带货亟需信任重塑",
@@ -2332,10 +2444,18 @@
     },
     {
       "raw_hot": 39503,
-      "num": 1068805,
+      "num": 1385532,
       "word": "藏在古画里的诗意中秋",
       "onboard_time": 1726560200,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38074,
+      "num": 489852,
+      "word": "监管不能对头部主播绕道而行",
+      "onboard_time": 1726571779,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -2385,6 +2505,14 @@
       "onboard_time": 1726545920,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27248,
+      "num": 230274,
+      "word": "林一的出片法则",
+      "onboard_time": 1726570401,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 27107,
@@ -2448,6 +2576,14 @@
       "word": "浙江结束防台风应急响应",
       "onboard_time": 1726521371,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18995,
+      "num": 489002,
+      "word": "台风过后阳澄湖大闸蟹会涨价吗",
+      "onboard_time": 1726570579,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
