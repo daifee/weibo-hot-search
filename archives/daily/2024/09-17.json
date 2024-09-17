@@ -1,6 +1,6 @@
 {
   "startTime": 1726504063678,
-  "endTime": 1726576865386,
+  "endTime": 1726577856951,
   "band_list": [
     {
       "raw_hot": 3116864,
@@ -27,20 +27,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2279565,
+      "num": 2279565,
+      "word": "三只羊或被罚营业额5倍吊销营业执照",
+      "onboard_time": 1726571420,
+      "rank": 17,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 2236107,
       "num": 757408,
       "word": "李栋旭 韩国不吃月饼",
       "onboard_time": 1726546279,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1958423,
-      "num": 1958423,
-      "word": "三只羊或被罚营业额5倍吊销营业执照",
-      "onboard_time": 1726571420,
-      "rank": 17,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1917926,
@@ -195,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1140009,
+      "num": 1140009,
+      "word": "折腰",
+      "onboard_time": 1726575681,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1113818,
       "num": 1178210,
       "word": "猎罪图鉴2",
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 975161,
+      "num": 975161,
+      "word": "借了70万给好同事结果被骗了",
+      "onboard_time": 1726573579,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 974404,
       "num": 974404,
       "word": "罗志祥发自拍回应医美争议",
@@ -265,14 +281,6 @@
       "onboard_time": 1726501459,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 932953,
-      "num": 932953,
-      "word": "借了70万给好同事结果被骗了",
-      "onboard_time": 1726573579,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 932853,
@@ -369,14 +377,6 @@
       "onboard_time": 1726556539,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 676530,
-      "num": 676530,
-      "word": "折腰",
-      "onboard_time": 1726575681,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 647392,
@@ -499,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 544163,
+      "num": 544163,
+      "word": "徐志胜 是公司没有流水给你渴成这样吗",
+      "onboard_time": 1726573340,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 535292,
       "num": 535292,
       "word": "王源 教资面试导入",
@@ -563,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 487162,
+      "num": 487162,
+      "word": "唐嫣李现 养眼",
+      "onboard_time": 1726577001,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 462294,
       "num": 462294,
       "word": "迪丽热巴中秋营业照",
@@ -579,12 +595,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 430655,
-      "num": 430655,
-      "word": "徐志胜 是公司没有流水给你渴成这样吗",
-      "onboard_time": 1726573340,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 454715,
+      "num": 454715,
+      "word": "林高远 兼三项",
+      "onboard_time": 1726576641,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 430107,
+      "num": 430107,
+      "word": "WTT中国大满贯外卡名单公布",
+      "onboard_time": 1726576221,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 418470,
@@ -593,6 +617,14 @@
       "onboard_time": 1726528394,
       "rank": 33,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 408407,
+      "num": 408407,
+      "word": "李现rap了",
+      "onboard_time": 1726576341,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 406875,
@@ -787,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300480,
+      "num": 537140,
+      "word": "李现唐嫣若月亮没来",
+      "onboard_time": 1726577001,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 298365,
       "num": 298365,
       "word": "终于轮到王俊凯叫别人小凯了",
@@ -851,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 280267,
+      "num": 280267,
+      "word": "张真源 怎么没人通知我戴帽子",
+      "onboard_time": 1726576581,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275643,
       "num": 275643,
       "word": "一鹿彤行",
@@ -873,6 +921,14 @@
       "onboard_time": 1726527734,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 270855,
+      "num": 270855,
+      "word": "山东男孩小区门口殴打母亲被民警带走",
+      "onboard_time": 1726576881,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270347,
@@ -921,6 +977,14 @@
       "onboard_time": 1726552819,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264324,
+      "num": 264324,
+      "word": "第三方鉴定出三只羊所售茅台非正品",
+      "onboard_time": 1726574841,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262314,
@@ -987,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240189,
+      "num": 240189,
+      "word": "中秋快乐",
+      "onboard_time": 1726576581,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239328,
       "num": 239328,
       "word": "吃黑木耳一个半月血管通了",
@@ -1027,12 +1099,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 227999,
-      "num": 227999,
-      "word": "李现rap了",
-      "onboard_time": 1726576341,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 226763,
+      "num": 515292,
+      "word": "70万买侄女一套房她反悔了怎么办",
+      "onboard_time": 1726577061,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224621,
@@ -1073,14 +1145,6 @@
       "onboard_time": 1726545139,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 214013,
-      "num": 214013,
-      "word": "张真源 怎么没人通知我戴帽子",
-      "onboard_time": 1726576581,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 212416,
@@ -1147,6 +1211,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 202543,
+      "num": 202543,
+      "word": "魏大勋唱歌机器狗伴舞",
+      "onboard_time": 1726577421,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201855,
       "num": 201855,
       "word": "金晨新中式造型",
@@ -1163,20 +1235,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200764,
-      "num": 200764,
-      "word": "WTT中国大满贯外卡名单公布",
-      "onboard_time": 1726576221,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 199663,
       "num": 199663,
       "word": "台风贝碧嘉",
       "onboard_time": 1726320202,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199566,
+      "num": 705645,
+      "word": "蒲熠星曹恩齐rap开场",
+      "onboard_time": 1726575561,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 199483,
@@ -1267,6 +1339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 195342,
+      "num": 195342,
+      "word": "陈丽君戴荃 君是山",
+      "onboard_time": 1726577722,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195331,
       "num": 195331,
       "word": "慕胥辞千里同月版海报",
@@ -1345,14 +1425,6 @@
       "onboard_time": 1726564280,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189265,
-      "num": 189265,
-      "word": "中秋快乐",
-      "onboard_time": 1726576581,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189040,
@@ -1483,20 +1555,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172037,
-      "num": 705645,
-      "word": "蒲熠星曹恩齐rap开场",
-      "onboard_time": 1726575561,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 171738,
       "num": 171738,
       "word": "光遇",
       "onboard_time": 1726547900,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 170159,
+      "num": 170159,
+      "word": "心动的信号7中秋特别加更",
+      "onboard_time": 1726577122,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 168955,
@@ -1619,14 +1691,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 161052,
-      "num": 161052,
-      "word": "林高远 兼三项",
-      "onboard_time": 1726576641,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 160207,
       "num": 160207,
       "word": "美诚月饼",
@@ -1705,14 +1769,6 @@
       "onboard_time": 1726538417,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151560,
-      "num": 228156,
-      "word": "第三方鉴定出三只羊所售茅台非正品",
-      "onboard_time": 1726574841,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151188,
@@ -2121,6 +2177,14 @@
       "onboard_time": 1726500199,
       "rank": 30,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 123715,
+      "num": 488365,
+      "word": "魏哲鸣直播精神状态",
+      "onboard_time": 1726577662,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 123175,
@@ -2651,6 +2715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43325,
+      "num": 305708,
+      "word": "猫人现在也是出息了",
+      "onboard_time": 1726573641,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 41756,
       "num": 1385532,
       "word": "藏在古画里的诗意中秋",
@@ -2667,15 +2739,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 39827,
-      "num": 236303,
-      "word": "猫人现在也是出息了",
-      "onboard_time": 1726573641,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 38430,
+      "raw_hot": 38522,
       "num": 1130108,
       "word": "文化中国行看中秋之美",
       "onboard_time": 1726574000,
@@ -2711,6 +2775,14 @@
       "num": 533302,
       "word": "100元月饼券50元回收利益链",
       "onboard_time": 1726572620,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33650,
+      "num": 542524,
+      "word": "中国的传统节日为什么都和吃相关",
+      "onboard_time": 1726577600,
       "rank": 9,
       "category": "社会新闻"
     },

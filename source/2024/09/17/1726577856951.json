@@ -1,0 +1,410 @@
+{
+  "runTime": 1726577856951,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2279565,
+        "num": 2279565,
+        "word": "三只羊或被罚营业额5倍吊销营业执照",
+        "onboard_time": 1726571420,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1140009,
+        "num": 1140009,
+        "word": "折腰",
+        "onboard_time": 1726575681,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38522,
+        "num": 1117642,
+        "word": "文化中国行看中秋之美",
+        "onboard_time": 1726574000,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1164804,
+        "num": 1117625,
+        "word": "小杨哥评论区被立案调查刷屏",
+        "onboard_time": 1726573400,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1116406,
+        "num": 1116406,
+        "word": "中秋",
+        "onboard_time": 1726563979,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1064318,
+        "num": 1064318,
+        "word": "月亮",
+        "onboard_time": 1726570099,
+        "rank": 5,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 975161,
+        "num": 975161,
+        "word": "借了70万给好同事结果被骗了",
+        "onboard_time": 1726573579,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 866792,
+        "num": 866792,
+        "word": "央视中秋晚会",
+        "onboard_time": 1726573519,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 544163,
+        "num": 544163,
+        "word": "徐志胜 是公司没有流水给你渴成这样吗",
+        "onboard_time": 1726573340,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33650,
+        "num": 542524,
+        "word": "中国的传统节日为什么都和吃相关",
+        "onboard_time": 1726577600,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300480,
+        "num": 537140,
+        "word": "李现唐嫣若月亮没来",
+        "onboard_time": 1726577001,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1009751,
+        "num": 525841,
+        "word": "女演员空中表演嫦娥奔月撞到吊车大臂",
+        "onboard_time": 1726566798,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594528,
+        "num": 520889,
+        "word": "iOS18 丑",
+        "onboard_time": 1726561342,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 226763,
+        "num": 515292,
+        "word": "70万买侄女一套房她反悔了怎么办",
+        "onboard_time": 1726577061,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511213,
+        "num": 511213,
+        "word": "谁看了吴磊的月饼都得愣一下",
+        "onboard_time": 1726571840,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1209182,
+        "num": 509154,
+        "word": "Angelababy中秋回眸笑",
+        "onboard_time": 1726572320,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 506585,
+        "num": 506585,
+        "word": "中秋节目单",
+        "onboard_time": 1726567640,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123715,
+        "num": 488365,
+        "word": "魏哲鸣直播精神状态",
+        "onboard_time": 1726577662,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487162,
+        "num": 487162,
+        "word": "唐嫣李现 养眼",
+        "onboard_time": 1726577001,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 463511,
+        "num": 463511,
+        "word": "湖南卫视中秋之夜",
+        "onboard_time": 1726573099,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 556227,
+        "num": 462087,
+        "word": "周也肩膀 蟑螂",
+        "onboard_time": 1726555580,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454715,
+        "num": 454715,
+        "word": "林高远 兼三项",
+        "onboard_time": 1726576641,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430843,
+        "num": 430843,
+        "word": "陈乔恩托乔任梁父母给乔任梁送花",
+        "onboard_time": 1726562121,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430107,
+        "num": 430107,
+        "word": "WTT中国大满贯外卡名单公布",
+        "onboard_time": 1726576221,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 408407,
+        "num": 408407,
+        "word": "李现rap了",
+        "onboard_time": 1726576341,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405036,
+        "num": 405036,
+        "word": "时代少年团直播",
+        "onboard_time": 1726569740,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403137,
+        "num": 403137,
+        "word": "超级月亮",
+        "onboard_time": 1726567401,
+        "rank": 26,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 307292,
+        "num": 307292,
+        "word": "三只羊给员工发美诚月饼",
+        "onboard_time": 1726559720,
+        "rank": 27,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 43325,
+        "num": 305708,
+        "word": "猫人现在也是出息了",
+        "onboard_time": 1726573641,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 305244,
+        "num": 305244,
+        "word": "iOS18 还我妈生相册",
+        "onboard_time": 1726560322,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 280267,
+        "num": 280267,
+        "word": "张真源 怎么没人通知我戴帽子",
+        "onboard_time": 1726576581,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270855,
+        "num": 270855,
+        "word": "山东男孩小区门口殴打母亲被民警带走",
+        "onboard_time": 1726576881,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267836,
+        "num": 267836,
+        "word": "镖人",
+        "onboard_time": 1726574480,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 264324,
+        "num": 264324,
+        "word": "第三方鉴定出三只羊所售茅台非正品",
+        "onboard_time": 1726574841,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256694,
+        "num": 256694,
+        "word": "丁程鑫宋亚轩刘耀文 要点形象",
+        "onboard_time": 1726575380,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242819,
+        "num": 242819,
+        "word": "两个佟丽娅抢月亮",
+        "onboard_time": 1726575981,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190730,
+        "num": 240900,
+        "word": "通报秒删多次约谈三只羊内容",
+        "onboard_time": 1726559540,
+        "rank": 36,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 240189,
+        "num": 240189,
+        "word": "中秋快乐",
+        "onboard_time": 1726576581,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202543,
+        "num": 202543,
+        "word": "魏大勋唱歌机器狗伴舞",
+        "onboard_time": 1726577421,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201803,
+        "num": 201803,
+        "word": "中秋文案",
+        "onboard_time": 1726569979,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199566,
+        "num": 199566,
+        "word": "蒲熠星曹恩齐rap开场",
+        "onboard_time": 1726575561,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195342,
+        "num": 195342,
+        "word": "陈丽君戴荃 君是山",
+        "onboard_time": 1726577722,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192916,
+        "num": 192916,
+        "word": "合肥回应调查三只羊通报版本不同",
+        "onboard_time": 1726571239,
+        "rank": 42,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 187512,
+        "num": 187512,
+        "word": "中秋节",
+        "onboard_time": 1726527854,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187254,
+        "num": 187254,
+        "word": "北京月亮",
+        "onboard_time": 1726573460,
+        "rank": 44,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 179695,
+        "num": 179695,
+        "word": "Xiaohu手势舞",
+        "onboard_time": 1726575740,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 178863,
+        "num": 178863,
+        "word": "罗志祥发自拍回应医美争议",
+        "onboard_time": 1726556899,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170159,
+        "num": 170159,
+        "word": "心动的信号7中秋特别加更",
+        "onboard_time": 1726577122,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169422,
+        "num": 169422,
+        "word": "中秋节快乐",
+        "onboard_time": 1726527913,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142713,
+        "num": 168495,
+        "word": "赏月",
+        "onboard_time": 1726576402,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
