@@ -1,10 +1,10 @@
 {
   "startTime": 1726504063678,
-  "endTime": 1726535771467,
+  "endTime": 1726536934430,
   "band_list": [
     {
-      "raw_hot": 2293791,
-      "num": 2293791,
+      "raw_hot": 3116864,
+      "num": 3116864,
       "word": "关晓彤零点零七分回复鹿晗",
       "onboard_time": 1726532656,
       "rank": 0,
@@ -51,20 +51,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 809263,
+      "num": 809263,
+      "word": "中秋节快乐",
+      "onboard_time": 1726527913,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 775576,
       "num": 292185,
       "word": "秋瓷炫回应儿子中文差",
       "onboard_time": 1726502119,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 698503,
-      "num": 698503,
-      "word": "中秋节快乐",
-      "onboard_time": 1726527913,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 647392,
@@ -81,6 +81,14 @@
       "onboard_time": 1726528575,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 555817,
+      "num": 178202,
+      "word": "和研一男友同居他说让我A一下",
+      "onboard_time": 1726534759,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 394685,
@@ -139,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 316396,
+      "num": 316396,
+      "word": "学生没填不回家信息表被宿管深夜驱赶",
+      "onboard_time": 1726493539,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310714,
       "num": 310714,
       "word": "iOS18正式版",
@@ -161,22 +177,6 @@
       "onboard_time": 1726527734,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 289774,
-      "num": 289774,
-      "word": "学生没填不回家信息表被宿管深夜驱赶",
-      "onboard_time": 1726493539,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 287672,
-      "num": 177166,
-      "word": "和研一男友同居他说让我A一下",
-      "onboard_time": 1726534759,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 283804,
@@ -291,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190414,
+      "num": 190414,
+      "word": "台风贝碧嘉",
+      "onboard_time": 1726320202,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189040,
       "num": 216216,
       "word": "上海官方辟谣台风相关谣言",
@@ -299,12 +307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181205,
-      "num": 183713,
-      "word": "台风贝碧嘉",
-      "onboard_time": 1726320202,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 180803,
+      "num": 180803,
+      "word": "詹青云真正的爱应该是什么样",
+      "onboard_time": 1726531337,
+      "rank": 26,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 180251,
@@ -315,16 +323,24 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167902,
-      "num": 167902,
+      "raw_hot": 179217,
+      "num": 179217,
+      "word": "赵露思陈伟霆额头吻路透",
+      "onboard_time": 1726535779,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 177345,
+      "num": 177345,
       "word": "山西一景区女游客攀爬佛像大喊大叫",
       "onboard_time": 1726534099,
       "rank": 22,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161618,
-      "num": 161618,
+      "raw_hot": 165117,
+      "num": 165117,
       "word": "江苏2名触电人员经抢救无效后死亡",
       "onboard_time": 1726533557,
       "rank": 23,
@@ -345,14 +361,6 @@
       "onboard_time": 1726530676,
       "rank": 25,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 153361,
-      "num": 153361,
-      "word": "詹青云真正的爱应该是什么样",
-      "onboard_time": 1726531337,
-      "rank": 26,
-      "category": "情感,艺人"
     },
     {
       "raw_hot": 151188,
@@ -427,6 +435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133210,
+      "num": 128670,
+      "word": "Makiyo恭喜欧弟再当爸",
+      "onboard_time": 1726533678,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131859,
       "num": 131859,
       "word": "教学设备已经next level了",
@@ -443,12 +459,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129536,
+      "num": 129536,
+      "word": "安理会为何不能阻止最大人间惨剧",
+      "onboard_time": 1726536319,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 128258,
       "num": 128258,
       "word": "这么小的狗怎么可以这么有种",
       "onboard_time": 1726530796,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127489,
+      "num": 127489,
+      "word": "iOS18超多新功能汇总",
+      "onboard_time": 1726535359,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 125890,
@@ -473,6 +505,14 @@
       "onboard_time": 1726532358,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120792,
+      "num": 120792,
+      "word": "20元能买这么多水果",
+      "onboard_time": 1726533738,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 120630,
@@ -515,28 +555,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 117043,
-      "num": 117043,
-      "word": "Makiyo恭喜欧弟再当爸",
-      "onboard_time": 1726533678,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 112644,
       "num": 112644,
       "word": "河南卫视创新能力",
       "onboard_time": 1726499840,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 112617,
-      "num": 112617,
-      "word": "20元能买这么多水果",
-      "onboard_time": 1726533738,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 111671,
@@ -643,12 +667,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 93454,
-      "num": 93454,
+      "raw_hot": 93789,
+      "num": 93789,
       "word": "中秋图片",
       "onboard_time": 1726534159,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 92892,
+      "num": 92892,
+      "word": "满月前为什么容易失眠",
+      "onboard_time": 1726536258,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 90073,
@@ -657,14 +689,6 @@
       "onboard_time": 1726499840,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89782,
-      "num": 89782,
-      "word": "iOS18超多新功能汇总",
-      "onboard_time": 1726535359,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 87518,
@@ -916,7 +940,7 @@
     },
     {
       "raw_hot": 13379,
-      "num": 771149,
+      "num": 914414,
       "word": "这就是黄河",
       "onboard_time": 1726495279,
       "rank": 2,

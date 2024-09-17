@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726535771467,
+  "endTime": 1726536934430,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -8,6 +8,14 @@
       "word": "于适工作室发声明",
       "onboard_time": 1726395980,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3116864,
+      "num": 3116864,
+      "word": "关晓彤零点零七分回复鹿晗",
+      "onboard_time": 1726532656,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -47,14 +55,6 @@
       "num": 2581535,
       "word": "徐少强去世",
       "onboard_time": 1726390638,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2293791,
-      "num": 2293791,
-      "word": "关晓彤零点零七分回复鹿晗",
-      "onboard_time": 1726532656,
       "rank": 0,
       "category": "艺人"
     },
@@ -699,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 809263,
+      "num": 809263,
+      "word": "中秋节快乐",
+      "onboard_time": 1726527913,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 808824,
       "num": 808824,
       "word": "WTT世界乒联致歉",
@@ -833,14 +841,6 @@
       "onboard_time": 1726462099,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 698503,
-      "num": 698503,
-      "word": "中秋节快乐",
-      "onboard_time": 1726527913,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 697231,
@@ -1137,6 +1137,14 @@
       "onboard_time": 1726385538,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 555817,
+      "num": 178202,
+      "word": "和研一男友同居他说让我A一下",
+      "onboard_time": 1726534759,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 554391,
@@ -2201,14 +2209,6 @@
       "onboard_time": 1726362979,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 287672,
-      "num": 177166,
-      "word": "和研一男友同居他说让我A一下",
-      "onboard_time": 1726534759,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 287436,
@@ -3579,6 +3579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 180803,
+      "num": 180803,
+      "word": "詹青云真正的爱应该是什么样",
+      "onboard_time": 1726531337,
+      "rank": 26,
+      "category": "情感,艺人"
+    },
+    {
       "raw_hot": 180642,
       "num": 180642,
       "word": "龙婆走了 尹仲也走了",
@@ -3627,6 +3635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 179217,
+      "num": 179217,
+      "word": "赵露思陈伟霆额头吻路透",
+      "onboard_time": 1726535779,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178603,
       "num": 178603,
       "word": "颖儿说参加严屹宽婚礼哭得稀里哗啦",
@@ -3657,6 +3673,14 @@
       "onboard_time": 1726327162,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177345,
+      "num": 177345,
+      "word": "山西一景区女游客攀爬佛像大喊大叫",
+      "onboard_time": 1726534099,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177268,
@@ -3907,14 +3931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167902,
-      "num": 167902,
-      "word": "山西一景区女游客攀爬佛像大喊大叫",
-      "onboard_time": 1726534099,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166903,
       "num": 166903,
       "word": "付航是不是被中间商赚差价了",
@@ -3992,6 +4008,14 @@
       "word": "苏州发出倡议为游客无条件免费退订",
       "onboard_time": 1726365318,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165117,
+      "num": 165117,
+      "word": "江苏2名触电人员经抢救无效后死亡",
+      "onboard_time": 1726533557,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -4097,14 +4121,6 @@
       "onboard_time": 1726354995,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 161618,
-      "num": 161618,
-      "word": "江苏2名触电人员经抢救无效后死亡",
-      "onboard_time": 1726533557,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161286,
@@ -4393,14 +4409,6 @@
       "onboard_time": 1726383859,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 153361,
-      "num": 153361,
-      "word": "詹青云真正的爱应该是什么样",
-      "onboard_time": 1726531337,
-      "rank": 26,
-      "category": "情感,艺人"
     },
     {
       "raw_hot": 153232,
@@ -4939,6 +4947,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 133210,
+      "num": 128670,
+      "word": "Makiyo恭喜欧弟再当爸",
+      "onboard_time": 1726533678,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132679,
       "num": 544992,
       "word": "重庆今年已热热热68天",
@@ -5067,6 +5083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129536,
+      "num": 129536,
+      "word": "安理会为何不能阻止最大人间惨剧",
+      "onboard_time": 1726536319,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 129019,
       "num": 276738,
       "word": "幼童小区内被碾压肇事司机家属发声",
@@ -5113,6 +5137,14 @@
       "onboard_time": 1726358477,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 127489,
+      "num": 127489,
+      "word": "iOS18超多新功能汇总",
+      "onboard_time": 1726535359,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 126645,
@@ -5217,6 +5249,14 @@
       "onboard_time": 1726460539,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 120792,
+      "num": 120792,
+      "word": "20元能买这么多水果",
+      "onboard_time": 1726533738,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 120761,
@@ -5371,14 +5411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117043,
-      "num": 117043,
-      "word": "Makiyo恭喜欧弟再当爸",
-      "onboard_time": 1726533678,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116653,
       "num": 116653,
       "word": "赵继伟硬核绝活大赏",
@@ -5481,14 +5513,6 @@
       "onboard_time": 1726499840,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 112617,
-      "num": 112617,
-      "word": "20元能买这么多水果",
-      "onboard_time": 1726533738,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 112163,
@@ -5787,12 +5811,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 93454,
-      "num": 93454,
+      "raw_hot": 93789,
+      "num": 93789,
       "word": "中秋图片",
       "onboard_time": 1726534159,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 92892,
+      "num": 92892,
+      "word": "满月前为什么容易失眠",
+      "onboard_time": 1726536258,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 92667,
@@ -5833,14 +5865,6 @@
       "onboard_time": 1726499840,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89782,
-      "num": 89782,
-      "word": "iOS18超多新功能汇总",
-      "onboard_time": 1726535359,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 89146,
@@ -6772,7 +6796,7 @@
     },
     {
       "raw_hot": 13379,
-      "num": 771149,
+      "num": 914414,
       "word": "这就是黄河",
       "onboard_time": 1726495279,
       "rank": 2,
