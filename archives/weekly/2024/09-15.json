@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726551442225,
+  "endTime": 1726554447622,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -315,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1378813,
+      "num": 1378813,
+      "word": "大学生买不到车票报旅行团回家",
+      "onboard_time": 1726548319,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1372714,
       "num": 1175106,
       "word": "小杨哥直播间3次带货美诚月饼",
@@ -592,6 +600,14 @@
       "word": "台风贝碧嘉中心预计将经过苏州",
       "onboard_time": 1726427232,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1011541,
+      "num": 1011541,
+      "word": "消费者称美诚月饼送不出去也不敢吃",
+      "onboard_time": 1726551381,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -899,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 706655,
+      "num": 706655,
+      "word": "总台秋晚节目单发布",
+      "onboard_time": 1726548741,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 706619,
       "num": 706619,
       "word": "曾黎47岁最后一次爬山",
@@ -1073,14 +1097,6 @@
       "onboard_time": 1726479198,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 631988,
-      "num": 631988,
-      "word": "总台秋晚节目单发布",
-      "onboard_time": 1726548741,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 627982,
@@ -1337,6 +1353,14 @@
       "onboard_time": 1726404742,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 537011,
+      "num": 409831,
+      "word": "陈乔恩连续八年晒粉色天空悼念乔任梁",
+      "onboard_time": 1726552759,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 534063,
@@ -1755,6 +1779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 401724,
+      "num": 401724,
+      "word": "月饼券被黄牛半价回收后流向哪",
+      "onboard_time": 1726545020,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401344,
       "num": 401344,
       "word": "台风普拉桑",
@@ -1809,14 +1841,6 @@
       "onboard_time": 1726323203,
       "rank": 34,
       "category": "网红"
-    },
-    {
-      "raw_hot": 394958,
-      "num": 394958,
-      "word": "月饼券被黄牛半价回收后流向哪",
-      "onboard_time": 1726545020,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 390833,
@@ -2171,14 +2195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 318715,
-      "num": 318715,
-      "word": "大学生买不到车票报旅行团回家",
-      "onboard_time": 1726548319,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 316878,
       "num": 316878,
       "word": "大耀斑爆发",
@@ -2403,6 +2419,14 @@
       "category": "美食,健康医疗"
     },
     {
+      "raw_hot": 290382,
+      "num": 290382,
+      "word": "陈少熙 花西子",
+      "onboard_time": 1726552698,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290150,
       "num": 290150,
       "word": "月饼",
@@ -2488,6 +2512,14 @@
       "word": "张艺凡边走边卸妆",
       "onboard_time": 1726397724,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 281624,
+      "num": 281624,
+      "word": "邓恩熙挂脖粉裙",
+      "onboard_time": 1726551859,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -2713,6 +2745,14 @@
       "onboard_time": 1726380857,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 257660,
+      "num": 257660,
+      "word": "王楚然敦煌神女",
+      "onboard_time": 1726552819,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 257578,
@@ -3043,6 +3083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227365,
+      "num": 227365,
+      "word": "王嘉尔娇嫩 林峯你如今几岁了",
+      "onboard_time": 1726553658,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 226239,
       "num": 238067,
       "word": "易烊千玺给工作室送的7岁生日祝福",
@@ -3345,6 +3393,14 @@
       "onboard_time": 1726378519,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206200,
+      "num": 206200,
+      "word": "致敬中秋团圆日的每一份坚守",
+      "onboard_time": 1726553599,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205948,
@@ -3723,6 +3779,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 193739,
+      "num": 193739,
+      "word": "十个勤天用不断开始阻止结束",
+      "onboard_time": 1726553540,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193720,
       "num": 416658,
       "word": "凡人歌带火凡人歌",
@@ -4017,6 +4081,14 @@
       "onboard_time": 1726410801,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 181409,
+      "num": 181409,
+      "word": "杨洋方逸伦牵手路透",
+      "onboard_time": 1726552460,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 180642,
@@ -4947,6 +5019,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151332,
+      "num": 151332,
+      "word": "女厕所为什么不能多几个坑位",
+      "onboard_time": 1726553300,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 150835,
+      "num": 150835,
+      "word": "刘忻唱了13年前的歌",
+      "onboard_time": 1726554258,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 150820,
       "num": 150820,
       "word": "张予曦也演雨霖铃了",
@@ -5091,12 +5179,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145254,
+      "num": 145254,
+      "word": "头部主播带货频翻车的根源何在",
+      "onboard_time": 1726553358,
+      "rank": 43,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 145025,
       "num": 270288,
       "word": "吴宣仪直播",
       "onboard_time": 1726480877,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144953,
+      "num": 144953,
+      "word": "与TTG共度中秋",
+      "onboard_time": 1726554319,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 144817,
@@ -5273,6 +5377,14 @@
       "onboard_time": 1726396640,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 140853,
+      "num": 140853,
+      "word": "关晓彤金色抹胸",
+      "onboard_time": 1726552819,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 140429,
@@ -5481,14 +5593,6 @@
       "onboard_time": 1726442535,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 134731,
-      "num": 134731,
-      "word": "消费者称美诚月饼送不出去也不敢吃",
-      "onboard_time": 1726551381,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134690,
@@ -6523,6 +6627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91456,
+      "num": 337845,
+      "word": "周深在央视秋晚后台有多社牛",
+      "onboard_time": 1726551019,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 90741,
       "num": 199324,
       "word": "沈渡 行也思幸坐也思幸",
@@ -6761,14 +6873,6 @@
       "onboard_time": 1726370058,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62963,
-      "num": 337845,
-      "word": "周深在央视秋晚后台有多社牛",
-      "onboard_time": 1726551019,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 62752,
@@ -7011,6 +7115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43626,
+      "num": 416376,
+      "word": "茅台打假办鉴定结果仅口头告知",
+      "onboard_time": 1726553418,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41919,
       "num": 198830,
       "word": "中介用卡片开门闯入逼女租客离开",
@@ -7041,6 +7153,14 @@
       "onboard_time": 1726368559,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40129,
+      "num": 284803,
+      "word": "京东服饰疑似上错优惠券",
+      "onboard_time": 1726553358,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 40072,
@@ -7128,6 +7248,14 @@
       "word": "专家解读阻尼器的作用与性能",
       "onboard_time": 1726496120,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33980,
+      "num": 360186,
+      "word": "官方调查多名穿制服人员殴打村民",
+      "onboard_time": 1726553899,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -7564,7 +7692,7 @@
     },
     {
       "raw_hot": 9521,
-      "num": 891642,
+      "num": 1040474,
       "word": "人民军队淬火向前",
       "onboard_time": 1726081931,
       "rank": 36,
