@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726529760122,
+  "endTime": 1726535771467,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -593,6 +593,14 @@
       "onboard_time": 1725323061,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2293791,
+      "num": 2293791,
+      "word": "关晓彤零点零七分回复鹿晗",
+      "onboard_time": 1726532656,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2268859,
@@ -3033,6 +3041,14 @@
       "onboard_time": 1726387399,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1155621,
+      "num": 1155621,
+      "word": "中秋节",
+      "onboard_time": 1726527854,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1154594,
@@ -6443,6 +6459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 698503,
+      "num": 698503,
+      "word": "中秋节快乐",
+      "onboard_time": 1726527913,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 698298,
       "num": 698298,
       "word": "K总 我们生长在红旗下",
@@ -7648,6 +7672,14 @@
       "word": "大爷拿走价值3千兔子问你能把我怎样",
       "onboard_time": 1725202282,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 608816,
+      "num": 608816,
+      "word": "中秋收到了公司发的陶瓷月饼",
+      "onboard_time": 1726528575,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -11387,14 +11419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 417908,
-      "num": 417908,
-      "word": "中秋节",
-      "onboard_time": 1726527854,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 417835,
       "num": 417835,
       "word": "晋江致歉",
@@ -12779,6 +12803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360720,
+      "num": 360720,
+      "word": "广州石牌村是外卖员的噩梦",
+      "onboard_time": 1726530496,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 360492,
       "num": 360492,
       "word": "金靖与老公医院做产检",
@@ -13923,14 +13955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 321508,
-      "num": 111162,
-      "word": "中秋节快乐",
-      "onboard_time": 1726527913,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 320300,
       "num": 320300,
       "word": "雨霖铃",
@@ -14273,6 +14297,14 @@
       "onboard_time": 1726237522,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310714,
+      "num": 310714,
+      "word": "iOS18正式版",
+      "onboard_time": 1726528334,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 310598,
@@ -14665,6 +14697,14 @@
       "onboard_time": 1725694939,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 301202,
+      "num": 301202,
+      "word": "彭小苒在太子妃赛道一骑绝尘",
+      "onboard_time": 1726527734,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 301188,
@@ -15243,6 +15283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 287672,
+      "num": 177166,
+      "word": "和研一男友同居他说让我A一下",
+      "onboard_time": 1726534759,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 287462,
       "num": 287462,
       "word": "2女子为拍照撕掉店家门口海报",
@@ -15385,14 +15433,6 @@
       "onboard_time": 1725112281,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 285187,
-      "num": 202169,
-      "word": "彭小苒在太子妃赛道一骑绝尘",
-      "onboard_time": 1726527734,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 285060,
@@ -15819,6 +15859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275643,
+      "num": 275643,
+      "word": "一鹿彤行",
+      "onboard_time": 1726531156,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275639,
       "num": 275639,
       "word": "海莉 小人得志具象化",
@@ -16033,6 +16081,14 @@
       "onboard_time": 1725433581,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 272209,
+      "num": 272209,
+      "word": "任嘉伦徐正溪 两张权臣脸",
+      "onboard_time": 1726527734,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 272143,
@@ -16737,14 +16793,6 @@
       "onboard_time": 1725160218,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 259746,
-      "num": 259746,
-      "word": "iOS18正式版",
-      "onboard_time": 1726528334,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 259714,
@@ -20353,6 +20401,14 @@
       "onboard_time": 1725879080,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214363,
+      "num": 214363,
+      "word": "今晚的月亮60年一遇",
+      "onboard_time": 1726535297,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214212,
@@ -28691,6 +28747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 167902,
+      "num": 167902,
+      "word": "山西一景区女游客攀爬佛像大喊大叫",
+      "onboard_time": 1726534099,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167834,
       "num": 167834,
       "word": "和AI过日子是什么体验",
@@ -29979,6 +30043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161618,
+      "num": 161618,
+      "word": "江苏2名触电人员经抢救无效后死亡",
+      "onboard_time": 1726533557,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161615,
       "num": 323569,
       "word": "赵露思日常生活plog",
@@ -30617,6 +30689,14 @@
       "onboard_time": 1726197680,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 158229,
+      "num": 158229,
+      "word": "人怎么可以过的这么舒服",
+      "onboard_time": 1726532417,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 158168,
@@ -31283,6 +31363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 155123,
+      "num": 155123,
+      "word": "宁波一年只卖2个月的月饼大受欢迎",
+      "onboard_time": 1726530676,
+      "rank": 25,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 155102,
       "num": 155102,
       "word": "亚运村不少房东不想再降价撤牌不卖了",
@@ -31761,6 +31849,14 @@
       "onboard_time": 1726135940,
       "rank": 43,
       "category": "游戏,美食"
+    },
+    {
+      "raw_hot": 153361,
+      "num": 153361,
+      "word": "詹青云真正的爱应该是什么样",
+      "onboard_time": 1726531337,
+      "rank": 26,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 153291,
@@ -33427,14 +33523,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 144715,
-      "num": 144715,
-      "word": "中秋收到了公司发的陶瓷月饼",
-      "onboard_time": 1726528575,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144700,
       "num": 314826,
       "word": "打工人准时下班并没有错",
@@ -33681,6 +33769,14 @@
       "onboard_time": 1725681678,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143437,
+      "num": 143437,
+      "word": "中秋文案",
+      "onboard_time": 1726530017,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 143416,
@@ -34417,6 +34513,14 @@
       "onboard_time": 1726129759,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 139210,
+      "num": 133905,
+      "word": "去搞说唱学历又有点高了",
+      "onboard_time": 1726530855,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 139192,
@@ -35691,6 +35795,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 131859,
+      "num": 131859,
+      "word": "教学设备已经next level了",
+      "onboard_time": 1726530676,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 131844,
       "num": 131844,
       "word": "胡兵想收蔡国庆儿子当徒弟",
@@ -36115,6 +36227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129569,
+      "num": 129569,
+      "word": "周震南直播被粉丝套话",
+      "onboard_time": 1726530377,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129539,
       "num": 550287,
       "word": "过期药能留着应急用吗",
@@ -36369,6 +36489,14 @@
       "onboard_time": 1726046301,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128258,
+      "num": 128258,
+      "word": "这么小的狗怎么可以这么有种",
+      "onboard_time": 1726530796,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 128254,
@@ -37115,6 +37243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123175,
+      "num": 123175,
+      "word": "小孩哥用冰箱贴在家搭了座博物馆",
+      "onboard_time": 1726532358,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123085,
       "num": 123085,
       "word": "燃烧的月亮",
@@ -37435,6 +37571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120630,
+      "num": 120630,
+      "word": "男子3岁失踪34年后与母亲团圆",
+      "onboard_time": 1726528695,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120556,
       "num": 120556,
       "word": "恋综 strong",
@@ -37521,6 +37665,14 @@
       "onboard_time": 1726473199,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 120053,
+      "num": 120053,
+      "word": "中秋祝福",
+      "onboard_time": 1726530676,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 120049,
@@ -37723,6 +37875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 118357,
+      "num": 118357,
+      "word": "刘昊然说河南话也这样吗",
+      "onboard_time": 1726533078,
+      "rank": 40,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 118347,
       "num": 118347,
       "word": "华为三折叠更多配置曝光",
@@ -37889,6 +38049,14 @@
       "onboard_time": 1725859939,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 117043,
+      "num": 117043,
+      "word": "Makiyo恭喜欧弟再当爸",
+      "onboard_time": 1726533678,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 117014,
@@ -38531,6 +38699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112617,
+      "num": 112617,
+      "word": "20元能买这么多水果",
+      "onboard_time": 1726533738,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 112517,
       "num": 112517,
       "word": "朱志鑫耳洞",
@@ -39003,6 +39179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 108172,
+      "num": 108172,
+      "word": "10月1日火车票今天开售",
+      "onboard_time": 1726532417,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108136,
       "num": 96765,
       "word": "王一博 告诉俺娘俺不是孬种",
@@ -39299,6 +39483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 105367,
+      "num": 105367,
+      "word": "于正老粉 我永远不脱粉",
+      "onboard_time": 1726529776,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105294,
       "num": 105294,
       "word": "鹭卓方与巡演主办方合作提前终止",
@@ -39473,6 +39665,14 @@
       "onboard_time": 1725902653,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 103141,
+      "num": 103141,
+      "word": "王曼昱第一次做饭",
+      "onboard_time": 1726531938,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 103103,
@@ -39843,12 +40043,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 99456,
-      "num": 99456,
-      "word": "任嘉伦徐正溪 两张权臣脸",
-      "onboard_time": 1726527734,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 99375,
+      "num": 358949,
+      "word": "律师称小杨哥或涉嫌虚假宣传",
+      "onboard_time": 1726529356,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99270,
@@ -40299,6 +40499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93454,
+      "num": 93454,
+      "word": "中秋图片",
+      "onboard_time": 1726534159,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 93322,
       "num": 93322,
       "word": "俄军导弹袭击乌波尔塔瓦州",
@@ -40513,6 +40721,14 @@
       "onboard_time": 1725302353,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89782,
+      "num": 89782,
+      "word": "iOS18超多新功能汇总",
+      "onboard_time": 1726535359,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 89712,
@@ -41369,14 +41585,6 @@
       "onboard_time": 1726462940,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 77911,
-      "num": 77911,
-      "word": "男子3岁失踪34年后与母亲团圆",
-      "onboard_time": 1726528695,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77138,
@@ -43832,14 +44040,6 @@
       "word": "北京最大灯会亮灯",
       "onboard_time": 1726436051,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49597,
-      "num": 49597,
-      "word": "律师称小杨哥或涉嫌虚假宣传",
-      "onboard_time": 1726529356,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -49020,7 +49220,7 @@
     },
     {
       "raw_hot": 13379,
-      "num": 327582,
+      "num": 771149,
       "word": "这就是黄河",
       "onboard_time": 1726495279,
       "rank": 2,

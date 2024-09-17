@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726529760122,
+  "endTime": 1726535771467,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -47,6 +47,14 @@
       "num": 2581535,
       "word": "徐少强去世",
       "onboard_time": 1726390638,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2293791,
+      "num": 2293791,
+      "word": "关晓彤零点零七分回复鹿晗",
+      "onboard_time": 1726532656,
       "rank": 0,
       "category": "艺人"
     },
@@ -435,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1155621,
+      "num": 1155621,
+      "word": "中秋节",
+      "onboard_time": 1726527854,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1147352,
       "num": 1147352,
       "word": "枪手距特朗普不到457米",
@@ -819,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 698503,
+      "num": 698503,
+      "word": "中秋节快乐",
+      "onboard_time": 1726527913,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 697231,
       "num": 697231,
       "word": "美心月饼主播笑称没有米其林工艺",
@@ -1001,6 +1025,14 @@
       "onboard_time": 1726371319,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 608816,
+      "num": 608816,
+      "word": "中秋收到了公司发的陶瓷月饼",
+      "onboard_time": 1726528575,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 606050,
@@ -1491,14 +1523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 417908,
-      "num": 417908,
-      "word": "中秋节",
-      "onboard_time": 1726527854,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 417835,
       "num": 417835,
       "word": "晋江致歉",
@@ -1659,6 +1683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 376110,
+      "num": 376110,
+      "word": "美国将砸16亿美元全球抹黑中国",
+      "onboard_time": 1726528394,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 374081,
       "num": 374081,
       "word": "王楚钦赛后采访",
@@ -1745,6 +1777,14 @@
       "onboard_time": 1726323626,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 360720,
+      "num": 360720,
+      "word": "广州石牌村是外卖员的噩梦",
+      "onboard_time": 1726530496,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 360121,
@@ -1923,14 +1963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 321508,
-      "num": 111162,
-      "word": "中秋节快乐",
-      "onboard_time": 1726527913,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 316878,
       "num": 316878,
       "word": "大耀斑爆发",
@@ -1995,6 +2027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 310714,
+      "num": 310714,
+      "word": "iOS18正式版",
+      "onboard_time": 1726528334,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 310164,
       "num": 310164,
       "word": "害怕打针把自己埋进医生怀里的小金毛",
@@ -2041,6 +2081,14 @@
       "onboard_time": 1726362858,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301202,
+      "num": 301202,
+      "word": "彭小苒在太子妃赛道一骑绝尘",
+      "onboard_time": 1726527734,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 301188,
@@ -2155,6 +2203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 287672,
+      "num": 177166,
+      "word": "和研一男友同居他说让我A一下",
+      "onboard_time": 1726534759,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 287436,
       "num": 324530,
       "word": "慕胥辞官微掉粉",
@@ -2169,14 +2225,6 @@
       "onboard_time": 1726456340,
       "rank": 47,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 285187,
-      "num": 202169,
-      "word": "彭小苒在太子妃赛道一骑绝尘",
-      "onboard_time": 1726527734,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 283173,
@@ -2227,12 +2275,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275643,
+      "num": 275643,
+      "word": "一鹿彤行",
+      "onboard_time": 1726531156,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 272249,
       "num": 272249,
       "word": "干巴大叔",
       "onboard_time": 1726367238,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 272209,
+      "num": 272209,
+      "word": "任嘉伦徐正溪 两张权臣脸",
+      "onboard_time": 1726527734,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 271835,
@@ -2353,14 +2417,6 @@
       "onboard_time": 1726444878,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259746,
-      "num": 259746,
-      "word": "iOS18正式版",
-      "onboard_time": 1726528334,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 259714,
@@ -2833,6 +2889,14 @@
       "onboard_time": 1726413979,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214363,
+      "num": 214363,
+      "word": "今晚的月亮60年一遇",
+      "onboard_time": 1726535297,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214212,
@@ -3843,6 +3907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167902,
+      "num": 167902,
+      "word": "山西一景区女游客攀爬佛像大喊大叫",
+      "onboard_time": 1726534099,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166903,
       "num": 166903,
       "word": "付航是不是被中间商赚差价了",
@@ -4027,6 +4099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161618,
+      "num": 161618,
+      "word": "江苏2名触电人员经抢救无效后死亡",
+      "onboard_time": 1726533557,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161286,
       "num": 161286,
       "word": "凡希亚也去了侃爷海口演唱会",
@@ -4121,6 +4201,14 @@
       "onboard_time": 1726371258,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 158229,
+      "num": 158229,
+      "word": "人怎么可以过的这么舒服",
+      "onboard_time": 1726532417,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 158131,
@@ -4275,6 +4363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 155123,
+      "num": 155123,
+      "word": "宁波一年只卖2个月的月饼大受欢迎",
+      "onboard_time": 1726530676,
+      "rank": 25,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 155009,
       "num": 155009,
       "word": "张新成王玉雯认识16年终有吻戏",
@@ -4297,6 +4393,14 @@
       "onboard_time": 1726383859,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 153361,
+      "num": 153361,
+      "word": "詹青云真正的爱应该是什么样",
+      "onboard_time": 1726531337,
+      "rank": 26,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 153232,
@@ -4467,14 +4571,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 144715,
-      "num": 144715,
-      "word": "中秋收到了公司发的陶瓷月饼",
-      "onboard_time": 1726528575,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144367,
       "num": 144367,
       "word": "贝碧嘉对上海影响有多大",
@@ -4505,6 +4601,14 @@
       "onboard_time": 1726414760,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 143437,
+      "num": 143437,
+      "word": "中秋文案",
+      "onboard_time": 1726530017,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 143416,
@@ -4665,6 +4769,14 @@
       "onboard_time": 1726473560,
       "rank": 40,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 139210,
+      "num": 133905,
+      "word": "去搞说唱学历又有点高了",
+      "onboard_time": 1726530855,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 139192,
@@ -4859,6 +4971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131859,
+      "num": 131859,
+      "word": "教学设备已经next level了",
+      "onboard_time": 1726530676,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 131418,
       "num": 131418,
       "word": "南派三叔 吴邪寿命梗",
@@ -4939,6 +5059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 129569,
+      "num": 129569,
+      "word": "周震南直播被粉丝套话",
+      "onboard_time": 1726530377,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129019,
       "num": 276738,
       "word": "幼童小区内被碾压肇事司机家属发声",
@@ -4961,6 +5089,14 @@
       "onboard_time": 1726385239,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128258,
+      "num": 128258,
+      "word": "这么小的狗怎么可以这么有种",
+      "onboard_time": 1726530796,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 128254,
@@ -5035,6 +5171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 123175,
+      "num": 123175,
+      "word": "小孩哥用冰箱贴在家搭了座博物馆",
+      "onboard_time": 1726532358,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122166,
       "num": 122166,
       "word": "张远官宣心动的信号7",
@@ -5083,6 +5227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120630,
+      "num": 120630,
+      "word": "男子3岁失踪34年后与母亲团圆",
+      "onboard_time": 1726528695,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120500,
       "num": 120500,
       "word": "直击台风救援现场",
@@ -5113,6 +5265,14 @@
       "onboard_time": 1726473199,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 120053,
+      "num": 120053,
+      "word": "中秋祝福",
+      "onboard_time": 1726530676,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 119856,
@@ -5163,6 +5323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118357,
+      "num": 118357,
+      "word": "刘昊然说河南话也这样吗",
+      "onboard_time": 1726533078,
+      "rank": 40,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 118063,
       "num": 118063,
       "word": "程芽芽高中毕业三年带娃经验",
@@ -5201,6 +5369,14 @@
       "onboard_time": 1726376539,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117043,
+      "num": 117043,
+      "word": "Makiyo恭喜欧弟再当爸",
+      "onboard_time": 1726533678,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 116653,
@@ -5307,6 +5483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112617,
+      "num": 112617,
+      "word": "20元能买这么多水果",
+      "onboard_time": 1726533738,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 112163,
       "num": 112163,
       "word": "背着明浩跑",
@@ -5387,6 +5571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 108172,
+      "num": 108172,
+      "word": "10月1日火车票今天开售",
+      "onboard_time": 1726532417,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108136,
       "num": 96765,
       "word": "王一博 告诉俺娘俺不是孬种",
@@ -5409,14 +5601,6 @@
       "onboard_time": 1726324464,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107289,
-      "num": 107289,
-      "word": "美国将砸16亿美元全球抹黑中国",
-      "onboard_time": 1726528394,
-      "rank": 33,
-      "category": "国外时政"
     },
     {
       "raw_hot": 106708,
@@ -5467,6 +5651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 105367,
+      "num": 105367,
+      "word": "于正老粉 我永远不脱粉",
+      "onboard_time": 1726529776,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105294,
       "num": 105294,
       "word": "鹭卓方与巡演主办方合作提前终止",
@@ -5489,6 +5681,14 @@
       "onboard_time": 1726485440,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103141,
+      "num": 103141,
+      "word": "王曼昱第一次做饭",
+      "onboard_time": 1726531938,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 102568,
@@ -5547,12 +5747,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 99456,
-      "num": 99456,
-      "word": "任嘉伦徐正溪 两张权臣脸",
-      "onboard_time": 1726527734,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 99375,
+      "num": 358949,
+      "word": "律师称小杨哥或涉嫌虚假宣传",
+      "onboard_time": 1726529356,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98503,
@@ -5585,6 +5785,14 @@
       "onboard_time": 1726467918,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93454,
+      "num": 93454,
+      "word": "中秋图片",
+      "onboard_time": 1726534159,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 92667,
@@ -5625,6 +5833,14 @@
       "onboard_time": 1726499840,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89782,
+      "num": 89782,
+      "word": "iOS18超多新功能汇总",
+      "onboard_time": 1726535359,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 89146,
@@ -5705,14 +5921,6 @@
       "onboard_time": 1726462940,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 77911,
-      "num": 77911,
-      "word": "男子3岁失踪34年后与母亲团圆",
-      "onboard_time": 1726528695,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77692,
@@ -5968,14 +6176,6 @@
       "word": "北京最大灯会亮灯",
       "onboard_time": 1726436051,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49597,
-      "num": 49597,
-      "word": "律师称小杨哥或涉嫌虚假宣传",
-      "onboard_time": 1726529356,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -6572,7 +6772,7 @@
     },
     {
       "raw_hot": 13379,
-      "num": 327582,
+      "num": 771149,
       "word": "这就是黄河",
       "onboard_time": 1726495279,
       "rank": 2,
