@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726561685626,
+  "endTime": 1726562499143,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1585516,
+      "num": 1585516,
+      "word": "三只羊给员工发美诚月饼",
+      "onboard_time": 1726559720,
+      "rank": 1,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1576987,
       "num": 571770,
       "word": "干巴大叔 遗嘱",
@@ -395,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1287007,
+      "num": 1287007,
+      "word": "iOS18 还我妈生相册",
+      "onboard_time": 1726560322,
+      "rank": 5,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1271191,
       "num": 1271191,
       "word": "网友称美诚月饼原价59元三盒",
@@ -481,14 +497,6 @@
       "onboard_time": 1726393040,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1197288,
-      "num": 1197288,
-      "word": "三只羊给员工发美诚月饼",
-      "onboard_time": 1726559720,
-      "rank": 1,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1177383,
@@ -627,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1051539,
+      "num": 989563,
+      "word": "通报秒删多次约谈三只羊内容",
+      "onboard_time": 1726559540,
+      "rank": 3,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1043401,
       "num": 1043401,
       "word": "吴艳妮全锦赛夺冠",
@@ -665,14 +681,6 @@
       "onboard_time": 1726487239,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 989563,
-      "num": 989563,
-      "word": "通报秒删多次约谈三只羊内容",
-      "onboard_time": 1726559540,
-      "rank": 3,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 974764,
@@ -881,14 +889,6 @@
       "onboard_time": 1726361838,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 786809,
-      "num": 786809,
-      "word": "iOS18 还我妈生相册",
-      "onboard_time": 1726560322,
-      "rank": 5,
-      "category": "数码"
     },
     {
       "raw_hot": 775576,
@@ -1747,6 +1747,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 445920,
+      "num": 197107,
+      "word": "陈乔恩托乔任梁父母给乔任梁送花",
+      "onboard_time": 1726562121,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 444226,
       "num": 247378,
       "word": "42岁已婚有娃生活的一天",
@@ -2193,6 +2201,14 @@
       "onboard_time": 1726374738,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 350916,
+      "num": 350916,
+      "word": "iOS18 丑",
+      "onboard_time": 1726561342,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 348678,
@@ -2872,6 +2888,14 @@
       "word": "这个中秋圈圈圆圆圈圈",
       "onboard_time": 1726470258,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258925,
+      "num": 201583,
+      "word": "小狗被毒死她自学刑法死磕投毒者",
+      "onboard_time": 1726561101,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -3699,14 +3723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201583,
-      "num": 201583,
-      "word": "小狗被毒死她自学刑法死磕投毒者",
-      "onboard_time": 1726561101,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200866,
       "num": 200866,
       "word": "王者S37赛季即将开启",
@@ -3800,6 +3816,14 @@
       "word": "这就是二搭cp的默契感吗",
       "onboard_time": 1726560740,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 197490,
+      "num": 197490,
+      "word": "张凌赫 小狗进食",
+      "onboard_time": 1726560980,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -4035,14 +4059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190594,
-      "num": 190594,
-      "word": "张凌赫 小狗进食",
-      "onboard_time": 1726560980,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 190583,
       "num": 249758,
       "word": "郭俊辰说王源很顶",
@@ -4073,14 +4089,6 @@
       "onboard_time": 1726307120,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189217,
-      "num": 189217,
-      "word": "iOS18 丑",
-      "onboard_time": 1726561342,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 189153,
@@ -4345,6 +4353,14 @@
       "onboard_time": 1726400901,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178403,
+      "num": 178403,
+      "word": "王昶教科书般的偷后场",
+      "onboard_time": 1726561699,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 178151,
@@ -5219,6 +5235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153166,
+      "num": 153166,
+      "word": "iOS18字体",
+      "onboard_time": 1726561699,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 152550,
       "num": 186551,
       "word": "珠帘玉幕",
@@ -5329,6 +5353,14 @@
       "onboard_time": 1726382359,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149133,
+      "num": 149133,
+      "word": "道枝骏佑 月饼初体验",
+      "onboard_time": 1726562241,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 149087,
@@ -5907,6 +5939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134356,
+      "num": 134356,
+      "word": "女子称地铁上遭男子猥亵对方裤子湿了",
+      "onboard_time": 1726562480,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134090,
       "num": 363922,
       "word": "小区183家住户藏53家小旅馆",
@@ -6073,6 +6113,14 @@
       "onboard_time": 1726500860,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 129920,
+      "num": 362386,
+      "word": "美诚月饼算不算香港月饼",
+      "onboard_time": 1726559841,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129868,
@@ -6795,6 +6843,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 101466,
+      "num": 460970,
+      "word": "如何拯救卖不动的月饼",
+      "onboard_time": 1726560800,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100910,
       "num": 100910,
       "word": "ive成员对自己的定位",
@@ -7011,6 +7067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81033,
+      "num": 1074301,
+      "word": "大数据看中秋文旅消费新亮点",
+      "onboard_time": 1726560680,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78484,
       "num": 299640,
       "word": "中国赛梁王组合进16强",
@@ -7024,14 +7088,6 @@
       "word": "警方通报5岁女童小区内被碾压致死",
       "onboard_time": 1726350552,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78306,
-      "num": 460970,
-      "word": "如何拯救卖不动的月饼",
-      "onboard_time": 1726560800,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -7105,6 +7161,14 @@
       "onboard_time": 1726505835,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 70472,
+      "num": 458443,
+      "word": "梁王组合奥运会后首秀",
+      "onboard_time": 1726562420,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 69189,
@@ -7203,14 +7267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 62590,
-      "num": 1074301,
-      "word": "大数据看中秋文旅消费新亮点",
-      "onboard_time": 1726560680,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 61818,
       "num": 150114,
       "word": "酒店回应女生入住遭陌生男子闯入",
@@ -7232,14 +7288,6 @@
       "word": "公安公布10起涉网违法犯罪案例",
       "onboard_time": 1726385419,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59829,
-      "num": 362386,
-      "word": "美诚月饼算不算香港月饼",
-      "onboard_time": 1726559841,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -7563,6 +7611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36293,
+      "num": 419585,
+      "word": "世界骑行日",
+      "onboard_time": 1726560020,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34674,
       "num": 401029,
       "word": "直播挂羊头卖狗肉终究无法长久",
@@ -7619,19 +7675,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32830,
-      "num": 419585,
-      "word": "世界骑行日",
-      "onboard_time": 1726560020,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32671,
       "num": 59035,
       "word": "潜艇兵1分钟数十个动作突破海底狼嚎",
       "onboard_time": 1726347551,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32599,
+      "num": 995256,
+      "word": "藏在古画里的诗意中秋",
+      "onboard_time": 1726560200,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -7963,6 +8019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16150,
+      "num": 346450,
+      "word": "也感受一把人在天津心在旷野",
+      "onboard_time": 1726558761,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15649,
       "num": 426814,
       "word": "篮球之夜抢鲜看",
@@ -7984,14 +8048,6 @@
       "word": "台风贝碧嘉过境他们逆风而上",
       "onboard_time": 1726516032,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14226,
-      "num": 346450,
-      "word": "也感受一把人在天津心在旷野",
-      "onboard_time": 1726558761,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
