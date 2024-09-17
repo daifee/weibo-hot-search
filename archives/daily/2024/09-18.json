@@ -1,6 +1,6 @@
 {
   "startTime": 1726590451835,
-  "endTime": 1726601744038,
+  "endTime": 1726604603503,
   "band_list": [
     {
       "raw_hot": 1110468,
@@ -523,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26358,
+      "num": 26358,
+      "word": "疑似意图暗杀特朗普的嫌疑人出庭",
+      "onboard_time": 1726601110,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 26018,
       "num": 678230,
       "word": "文化中国行看中秋之美",
@@ -531,27 +539,35 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21544,
-      "num": 21544,
+      "raw_hot": 25578,
+      "num": 25578,
       "word": "60秒了解三只羊美诚月饼事件",
       "onboard_time": 1726601110,
       "rank": 46,
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 20749,
-      "num": 20749,
-      "word": "疑似意图暗杀特朗普的嫌疑人出庭",
-      "onboard_time": 1726601110,
-      "rank": 48,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 11953,
+      "raw_hot": 21660,
       "num": 32431,
       "word": "造谣有人被台风吹落高坠8人被罚",
       "onboard_time": 1726601650,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11526,
+      "num": 26293,
+      "word": "90岁老人生日仪式感看呆90后",
+      "onboard_time": 1726604230,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10822,
+      "num": 130618,
+      "word": "圆圆的大国重器送团圆的祝福",
+      "onboard_time": 1726584024,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -571,11 +587,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10392,
-      "num": 130618,
-      "word": "圆圆的大国重器送团圆的祝福",
-      "onboard_time": 1726584024,
-      "rank": 2,
+      "raw_hot": 9735,
+      "num": 26312,
+      "word": "教科书式劝残障人士的民警找到了",
+      "onboard_time": 1726603571,
+      "rank": 25,
       "category": "社会新闻"
     }
   ],
