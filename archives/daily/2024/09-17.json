@@ -1,6 +1,6 @@
 {
   "startTime": 1726504063678,
-  "endTime": 1726568579325,
+  "endTime": 1726569621241,
   "band_list": [
     {
       "raw_hot": 3116864,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 850677,
+      "num": 850677,
+      "word": "小学三年级英语新教材家长都懵了",
+      "onboard_time": 1726566319,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 835193,
       "num": 795266,
       "word": "虞书欣中秋素颜照",
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 721148,
-      "num": 397732,
+      "num": 426947,
       "word": "女子称地铁上遭男子猥亵对方裤子湿了",
       "onboard_time": 1726562480,
       "rank": 45,
@@ -257,14 +265,6 @@
       "onboard_time": 1726544900,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 707302,
-      "num": 707302,
-      "word": "小学三年级英语新教材家长都懵了",
-      "onboard_time": 1726566319,
-      "rank": 3,
-      "category": "教育"
     },
     {
       "raw_hot": 706655,
@@ -347,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 615090,
+      "num": 615090,
+      "word": "许家印香港30平房屋将被拍卖还债",
+      "onboard_time": 1726565300,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 608816,
       "num": 608816,
       "word": "中秋收到了公司发的陶瓷月饼",
@@ -363,12 +371,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 585281,
+      "num": 364267,
+      "word": "严浩翔直播",
+      "onboard_time": 1726568539,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 560960,
       "num": 549165,
       "word": "关晓彤穿了特别定制礼服",
       "onboard_time": 1726543638,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 547295,
+      "num": 547295,
+      "word": "中秋节目单",
+      "onboard_time": 1726567640,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 535292,
@@ -411,6 +435,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 502918,
+      "num": 502918,
+      "word": "女演员空中表演嫦娥奔月撞到吊车大臂",
+      "onboard_time": 1726566798,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 502291,
+      "num": 502291,
+      "word": "中秋",
+      "onboard_time": 1726563979,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 498640,
       "num": 414091,
       "word": "张馨予在藏区跳篝火舞后又晕又吐",
@@ -425,14 +465,6 @@
       "onboard_time": 1726555877,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 496806,
-      "num": 496806,
-      "word": "中秋",
-      "onboard_time": 1726563979,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 462294,
@@ -483,22 +515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 384144,
-      "num": 384144,
-      "word": "中秋节目单",
-      "onboard_time": 1726567640,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 379967,
-      "num": 405434,
-      "word": "许家印香港30平房屋将被拍卖还债",
-      "onboard_time": 1726565300,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 379618,
       "num": 379618,
       "word": "赵丽颖中秋节营业图",
@@ -531,14 +547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 364267,
-      "num": 364267,
-      "word": "严浩翔直播",
-      "onboard_time": 1726568539,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 363895,
       "num": 363895,
       "word": "肖战请客得闲谨制剧组喝奶茶",
@@ -563,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 342361,
+      "num": 342361,
+      "word": "超级月亮",
+      "onboard_time": 1726567401,
+      "rank": 30,
+      "category": "自然"
+    },
+    {
       "raw_hot": 340461,
       "num": 340461,
       "word": "詹青云真正的爱应该是什么样",
@@ -577,6 +593,14 @@
       "onboard_time": 1726486699,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328739,
+      "num": 328739,
+      "word": "时代少年团 高会语音",
+      "onboard_time": 1726568359,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 319838,
@@ -787,6 +811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 260421,
+      "num": 383331,
+      "word": "去县城旅游的中产后悔了",
+      "onboard_time": 1726566017,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260229,
       "num": 260229,
       "word": "南京台风",
@@ -809,14 +841,6 @@
       "onboard_time": 1726486639,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 247702,
-      "num": 247702,
-      "word": "女演员空中表演嫦娥奔月撞到吊车大臂",
-      "onboard_time": 1726566798,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 246166,
@@ -947,14 +971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200258,
-      "num": 200258,
-      "word": "超级月亮",
-      "onboard_time": 1726567401,
-      "rank": 30,
-      "category": "自然"
-    },
-    {
       "raw_hot": 199663,
       "num": 199663,
       "word": "台风贝碧嘉",
@@ -985,6 +1001,14 @@
       "onboard_time": 1726549640,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198170,
+      "num": 198170,
+      "word": "张真源假期自拍",
+      "onboard_time": 1726569200,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 198010,
@@ -1107,8 +1131,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188233,
-      "num": 188233,
+      "raw_hot": 188384,
+      "num": 188384,
       "word": "白鹿中秋美照",
       "onboard_time": 1726568420,
       "rank": 31,
@@ -1355,8 +1379,8 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 154180,
-      "num": 154180,
+      "raw_hot": 154590,
+      "num": 154590,
       "word": "密室大逃脱大神版",
       "onboard_time": 1726566319,
       "rank": 40,
@@ -1537,14 +1561,6 @@
       "onboard_time": 1726493480,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140601,
-      "num": 383331,
-      "word": "去县城旅游的中产后悔了",
-      "onboard_time": 1726566017,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140429,
@@ -1795,14 +1811,6 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 124961,
-      "num": 124961,
-      "word": "时代少年团 高会语音",
-      "onboard_time": 1726568359,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 123175,
       "num": 123175,
       "word": "小孩哥用冰箱贴在家搭了座博物馆",
@@ -1939,6 +1947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106316,
+      "num": 106316,
+      "word": "梁王称一个月没打球需要适应",
+      "onboard_time": 1726567998,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106282,
       "num": 106282,
       "word": "中秋晚会观众席的王楚然",
@@ -1952,6 +1968,14 @@
       "word": "于正老粉 我永远不脱粉",
       "onboard_time": 1726529776,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 105133,
+      "num": 105133,
+      "word": "曾志伟是三只羊香港分公司负责人",
+      "onboard_time": 1726569440,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -2139,14 +2163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77342,
-      "num": 99099,
-      "word": "梁王称一个月没打球需要适应",
-      "onboard_time": 1726567998,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 76114,
       "num": 76114,
       "word": "生日收到大鹅花束是什么感觉",
@@ -2307,6 +2323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41061,
+      "num": 502518,
+      "word": "直播带货亟需信任重塑",
+      "onboard_time": 1726567998,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39503,
       "num": 1068805,
       "word": "藏在古画里的诗意中秋",
@@ -2328,14 +2352,6 @@
       "word": "世界骑行日",
       "onboard_time": 1726560020,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32781,
-      "num": 382619,
-      "word": "直播带货亟需信任重塑",
-      "onboard_time": 1726567998,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2401,6 +2417,14 @@
       "onboard_time": 1726542799,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22184,
+      "num": 372073,
+      "word": "篮球之夜嘉宾阵容官宣",
+      "onboard_time": 1726567220,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 21999,
@@ -2473,14 +2497,6 @@
       "onboard_time": 1726516032,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14819,
-      "num": 372073,
-      "word": "篮球之夜嘉宾阵容官宣",
-      "onboard_time": 1726567220,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 14519,
