@@ -1,6 +1,6 @@
 {
   "startTime": 1726504063678,
-  "endTime": 1726554447622,
+  "endTime": 1726555293385,
   "band_list": [
     {
       "raw_hot": 3116864,
@@ -59,6 +59,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1159594,
+      "num": 1159594,
+      "word": "陈乔恩连续八年晒粉色天空悼念乔任梁",
+      "onboard_time": 1726552759,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1155621,
       "num": 1155621,
       "word": "中秋节",
@@ -83,8 +91,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1011541,
-      "num": 1011541,
+      "raw_hot": 1067935,
+      "num": 1067935,
       "word": "消费者称美诚月饼送不出去也不敢吃",
       "onboard_time": 1726551381,
       "rank": 47,
@@ -251,14 +259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 537011,
-      "num": 409831,
-      "word": "陈乔恩连续八年晒粉色天空悼念乔任梁",
-      "onboard_time": 1726552759,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 524363,
       "num": 524363,
       "word": "万茜长发",
@@ -291,8 +291,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 401724,
-      "num": 401724,
+      "raw_hot": 406875,
+      "num": 406875,
       "word": "月饼券被黄牛半价回收后流向哪",
       "onboard_time": 1726545020,
       "rank": 26,
@@ -312,6 +312,14 @@
       "word": "方灿姚琛 什刹海",
       "onboard_time": 1726549640,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 383851,
+      "num": 383851,
+      "word": "陈少熙 花西子",
+      "onboard_time": 1726552698,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -419,14 +427,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 290382,
-      "num": 290382,
-      "word": "陈少熙 花西子",
-      "onboard_time": 1726552698,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 283804,
       "num": 283804,
       "word": "贝碧嘉几乎是以巅峰强度登陆",
@@ -507,6 +507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 266597,
+      "num": 266597,
+      "word": "女厕所为什么不能多几个坑位",
+      "onboard_time": 1726553300,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 266023,
       "num": 266023,
       "word": "我拍了拍月亮",
@@ -523,12 +531,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264528,
+      "num": 264528,
+      "word": "王楚然敦煌神女",
+      "onboard_time": 1726552819,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262314,
       "num": 262314,
       "word": "贝碧嘉移入江苏",
       "onboard_time": 1726463058,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261986,
+      "num": 261986,
+      "word": "王嘉尔娇嫩 林峯你如今几岁了",
+      "onboard_time": 1726553658,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 260229,
@@ -547,20 +571,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 257660,
-      "num": 257660,
-      "word": "王楚然敦煌神女",
-      "onboard_time": 1726552819,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 250568,
       "num": 250568,
       "word": "于适 节目单",
       "onboard_time": 1726486639,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246166,
+      "num": 246166,
+      "word": "致敬中秋团圆日的每一份坚守",
+      "onboard_time": 1726553599,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242270,
@@ -577,14 +601,6 @@
       "onboard_time": 1726547182,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 227365,
-      "num": 227365,
-      "word": "王嘉尔娇嫩 林峯你如今几岁了",
-      "onboard_time": 1726553658,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 220854,
@@ -619,12 +635,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206200,
-      "num": 206200,
-      "word": "致敬中秋团圆日的每一份坚守",
-      "onboard_time": 1726553599,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 205098,
+      "num": 205098,
+      "word": "杨洋方逸伦牵手路透",
+      "onboard_time": 1726552460,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 204467,
@@ -811,14 +827,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 181409,
-      "num": 181409,
-      "word": "杨洋方逸伦牵手路透",
-      "onboard_time": 1726552460,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 180251,
       "num": 180251,
       "word": "鹿晗",
@@ -865,6 +873,14 @@
       "onboard_time": 1726547900,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 168955,
+      "num": 168955,
+      "word": "24到27岁的感情观变化",
+      "onboard_time": 1726553300,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 168654,
@@ -955,14 +971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151332,
-      "num": 151332,
-      "word": "女厕所为什么不能多几个坑位",
-      "onboard_time": 1726553300,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 151188,
       "num": 151188,
       "word": "翁青雅彭高约会",
@@ -993,6 +1001,14 @@
       "onboard_time": 1726542439,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148894,
+      "num": 337845,
+      "word": "周深在央视秋晚后台有多社牛",
+      "onboard_time": 1726551019,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 148844,
@@ -1155,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134377,
+      "num": 134377,
+      "word": "Cat登场KPL八周年",
+      "onboard_time": 1726554739,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134090,
       "num": 363922,
       "word": "小区183家住户藏53家小旅馆",
@@ -1177,6 +1201,14 @@
       "onboard_time": 1726535359,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 132175,
+      "num": 132175,
+      "word": "李梓嘉比分",
+      "onboard_time": 1726554619,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 132126,
@@ -1483,14 +1515,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 91456,
-      "num": 337845,
-      "word": "周深在央视秋晚后台有多社牛",
-      "onboard_time": 1726551019,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 90073,
       "num": 90073,
       "word": "大闸蟹养殖户谈台风直穿阳澄湖",
@@ -1505,6 +1529,14 @@
       "onboard_time": 1726498581,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86703,
+      "num": 296392,
+      "word": "仙台有树欢度中秋",
+      "onboard_time": 1726554799,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 84964,
@@ -1563,6 +1595,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 74612,
+      "num": 416376,
+      "word": "茅台打假办鉴定结果仅口头告知",
+      "onboard_time": 1726553418,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70710,
       "num": 70710,
       "word": "祝你幸福",
@@ -1601,6 +1641,14 @@
       "onboard_time": 1726494501,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62362,
+      "num": 390848,
+      "word": "京东服饰疑似上错优惠券",
+      "onboard_time": 1726553358,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 56183,
@@ -1659,6 +1707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43728,
+      "num": 360186,
+      "word": "官方调查多名穿制服人员殴打村民",
+      "onboard_time": 1726553899,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43660,
       "num": 53276,
       "word": "浙江高温将反扑局部38度以上",
@@ -1667,36 +1723,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43626,
-      "num": 416376,
-      "word": "茅台打假办鉴定结果仅口头告知",
-      "onboard_time": 1726553418,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40129,
-      "num": 284803,
-      "word": "京东服饰疑似上错优惠券",
-      "onboard_time": 1726553358,
-      "rank": 22,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 37392,
       "num": 276062,
       "word": "俄武装力量编制人数增至近239万人",
       "onboard_time": 1726542978,
       "rank": 19,
       "category": "社会新闻,国外时政"
-    },
-    {
-      "raw_hot": 33980,
-      "num": 360186,
-      "word": "官方调查多名穿制服人员殴打村民",
-      "onboard_time": 1726553899,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31485,
@@ -1851,8 +1883,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 4541,
-      "num": 1040474,
+      "raw_hot": 5365,
+      "num": 1190269,
       "word": "人民军队淬火向前",
       "onboard_time": 1726081931,
       "rank": 2,

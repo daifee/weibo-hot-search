@@ -1,0 +1,410 @@
+{
+  "runTime": 1726555293385,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1564263,
+        "num": 1564263,
+        "word": "三只羊被立案调查",
+        "onboard_time": 1726546459,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1232171,
+        "num": 1232171,
+        "word": "大学生买不到车票报旅行团回家",
+        "onboard_time": 1726548319,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5365,
+        "num": 1190269,
+        "word": "人民军队淬火向前",
+        "onboard_time": 1726081931,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1159594,
+        "num": 1159594,
+        "word": "陈乔恩连续八年晒粉色天空悼念乔任梁",
+        "onboard_time": 1726552759,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1067935,
+        "num": 1067935,
+        "word": "消费者称美诚月饼送不出去也不敢吃",
+        "onboard_time": 1726551381,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664313,
+        "num": 664313,
+        "word": "官方通报三只羊涉嫌误导消费者",
+        "onboard_time": 1726548981,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 653071,
+        "num": 653071,
+        "word": "总台秋晚节目单发布",
+        "onboard_time": 1726548741,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478933,
+        "num": 478933,
+        "word": "这个舞蹈动作近几年致多名儿童瘫痪",
+        "onboard_time": 1726546879,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417148,
+        "num": 417148,
+        "word": "美诚月饼广州公司被指跑路改招牌",
+        "onboard_time": 1726544900,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406875,
+        "num": 406875,
+        "word": "月饼券被黄牛半价回收后流向哪",
+        "onboard_time": 1726545020,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1428995,
+        "num": 398102,
+        "word": "李栋旭 韩国不吃月饼",
+        "onboard_time": 1726546279,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62362,
+        "num": 390848,
+        "word": "京东服饰疑似上错优惠券",
+        "onboard_time": 1726553358,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 383851,
+        "num": 383851,
+        "word": "陈少熙 花西子",
+        "onboard_time": 1726552698,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365682,
+        "num": 365682,
+        "word": "赵露思台词",
+        "onboard_time": 1726544839,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43728,
+        "num": 355081,
+        "word": "官方调查多名穿制服人员殴打村民",
+        "onboard_time": 1726553899,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352844,
+        "num": 352844,
+        "word": "台风普拉桑将登陆浙江沿海",
+        "onboard_time": 1726546819,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316765,
+        "num": 316765,
+        "word": "张馨予在藏区跳篝火舞后又晕又吐",
+        "onboard_time": 1726548680,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296445,
+        "num": 296445,
+        "word": "方灿姚琛 什刹海",
+        "onboard_time": 1726549640,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86703,
+        "num": 296392,
+        "word": "仙台有树欢度中秋",
+        "onboard_time": 1726554799,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74612,
+        "num": 296336,
+        "word": "茅台打假办鉴定结果仅口头告知",
+        "onboard_time": 1726553418,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 879605,
+        "num": 296279,
+        "word": "关晓彤零点零七分回复鹿晗",
+        "onboard_time": 1726532656,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542784,
+        "num": 296252,
+        "word": "只生孩子不领证会有什么风险",
+        "onboard_time": 1726547182,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 296203,
+        "num": 296203,
+        "word": "金巧巧离婚风波后晒全家福",
+        "onboard_time": 1726544719,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266597,
+        "num": 266597,
+        "word": "女厕所为什么不能多几个坑位",
+        "onboard_time": 1726553300,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264528,
+        "num": 264528,
+        "word": "王楚然敦煌神女",
+        "onboard_time": 1726552819,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370285,
+        "num": 264451,
+        "word": "鹿晗连续八年为关晓彤庆生",
+        "onboard_time": 1726527854,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261986,
+        "num": 261986,
+        "word": "王嘉尔娇嫩 林峯你如今几岁了",
+        "onboard_time": 1726553658,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 247449,
+        "num": 247449,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1726537518,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246166,
+        "num": 246166,
+        "word": "致敬中秋团圆日的每一份坚守",
+        "onboard_time": 1726553599,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239593,
+        "num": 239593,
+        "word": "爸爸突然开始特意标注生活费",
+        "onboard_time": 1726539498,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237053,
+        "num": 237053,
+        "word": "中秋节",
+        "onboard_time": 1726527854,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221529,
+        "num": 221529,
+        "word": "邓恩熙挂脖粉裙",
+        "onboard_time": 1726551859,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205509,
+        "num": 205509,
+        "word": "万茜长发",
+        "onboard_time": 1726547900,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205098,
+        "num": 205098,
+        "word": "杨洋方逸伦牵手路透",
+        "onboard_time": 1726552460,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192844,
+        "num": 192844,
+        "word": "罗志祥在哪做的医美",
+        "onboard_time": 1726497202,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180666,
+        "num": 180666,
+        "word": "中秋节快乐",
+        "onboard_time": 1726527913,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168955,
+        "num": 168955,
+        "word": "24到27岁的感情观变化",
+        "onboard_time": 1726553300,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162280,
+        "num": 162280,
+        "word": "为什么很多女生自带疏离感",
+        "onboard_time": 1726547182,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161581,
+        "num": 161581,
+        "word": "十个勤天用不断开始阻止结束",
+        "onboard_time": 1726553540,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154467,
+        "num": 154467,
+        "word": "虞书欣中秋素颜照",
+        "onboard_time": 1726541838,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152520,
+        "num": 152520,
+        "word": "永夜星河",
+        "onboard_time": 1726549280,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149928,
+        "num": 149928,
+        "word": "南派三叔客串了藏海花",
+        "onboard_time": 1726549400,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148894,
+        "num": 148894,
+        "word": "周深在央视秋晚后台有多社牛",
+        "onboard_time": 1726551019,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146974,
+        "num": 146974,
+        "word": "唐嫣FENDI",
+        "onboard_time": 1726550539,
+        "rank": 43,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 141076,
+        "num": 141076,
+        "word": "教育在此刻闭环了",
+        "onboard_time": 1726546158,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140118,
+        "num": 140118,
+        "word": "与TTG共度中秋",
+        "onboard_time": 1726554319,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136819,
+        "num": 136819,
+        "word": "梁伟铿王昶男双世界第一",
+        "onboard_time": 1726547419,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134377,
+        "num": 134377,
+        "word": "Cat登场KPL八周年",
+        "onboard_time": 1726554739,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132175,
+        "num": 132175,
+        "word": "李梓嘉比分",
+        "onboard_time": 1726554619,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130693,
+        "num": 130693,
+        "word": "贝碧嘉移入江苏",
+        "onboard_time": 1726463058,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中秋佳节习近平总书记这样寄语#"
+    }
+  }
+}
