@@ -1,6 +1,6 @@
 {
   "startTime": 1726504063678,
-  "endTime": 1726539985078,
+  "endTime": 1726540651376,
   "band_list": [
     {
       "raw_hot": 3116864,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1094850,
-      "num": 1175176,
+      "raw_hot": 1113818,
+      "num": 1178210,
       "word": "猎罪图鉴2",
       "onboard_time": 1726537518,
       "rank": 0,
@@ -75,8 +75,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 715798,
-      "num": 715798,
+      "raw_hot": 752852,
+      "num": 752852,
       "word": "孙颖莎9400分世排第一",
       "onboard_time": 1726537518,
       "rank": 4,
@@ -99,6 +99,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 618293,
+      "num": 618293,
+      "word": "安理会为何不能阻止最大人间惨剧",
+      "onboard_time": 1726536319,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 608816,
       "num": 608816,
       "word": "中秋收到了公司发的陶瓷月饼",
@@ -107,12 +115,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 562966,
-      "num": 562966,
-      "word": "安理会为何不能阻止最大人间惨剧",
-      "onboard_time": 1726536319,
-      "rank": 29,
-      "category": "国外时政"
+      "raw_hot": 608239,
+      "num": 608239,
+      "word": "枭起青壤",
+      "onboard_time": 1726539079,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 418470,
@@ -155,20 +163,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 340461,
+      "num": 340461,
+      "word": "詹青云真正的爱应该是什么样",
+      "onboard_time": 1726531337,
+      "rank": 26,
+      "category": "情感,艺人"
+    },
+    {
       "raw_hot": 329794,
       "num": 329794,
       "word": "三只羊所售茅台已有72瓶不符合正品特征",
       "onboard_time": 1726486699,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 326247,
-      "num": 326247,
-      "word": "詹青云真正的爱应该是什么样",
-      "onboard_time": 1726531337,
-      "rank": 26,
-      "category": "情感,艺人"
     },
     {
       "raw_hot": 319838,
@@ -211,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 296709,
+      "num": 191978,
+      "word": "爸爸突然开始特意标注生活费",
+      "onboard_time": 1726539498,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 283804,
       "num": 283804,
       "word": "贝碧嘉几乎是以巅峰强度登陆",
@@ -241,14 +257,6 @@
       "onboard_time": 1726497740,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 272412,
-      "num": 272412,
-      "word": "枭起青壤",
-      "onboard_time": 1726539079,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 272209,
@@ -299,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255382,
+      "num": 255382,
+      "word": "中秋送你圆圆圆圆圆圆圆圆圆",
+      "onboard_time": 1726539197,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250568,
       "num": 250568,
       "word": "于适 节目单",
@@ -312,14 +328,6 @@
       "word": "武汉大学瓦片在二手平台被炒至数百元",
       "onboard_time": 1726502958,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227838,
-      "num": 227838,
-      "word": "中秋送你圆圆圆圆圆圆圆圆圆",
-      "onboard_time": 1726539197,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -355,7 +363,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195940,
+      "raw_hot": 198741,
+      "num": 198741,
+      "word": "赴山海",
+      "onboard_time": 1726539798,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196224,
       "num": 234516,
       "word": "赵露思陈伟霆额头吻路透",
       "onboard_time": 1726535779,
@@ -379,19 +395,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184284,
+      "num": 184284,
+      "word": "为什么中秋节没人提前订酒店了",
+      "onboard_time": 1726537998,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183854,
       "num": 183854,
       "word": "山西一景区女游客攀爬佛像大喊大叫",
       "onboard_time": 1726534099,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180713,
-      "num": 180713,
-      "word": "为什么中秋节没人提前订酒店了",
-      "onboard_time": 1726537998,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -419,6 +435,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164840,
+      "num": 164840,
+      "word": "iOS18可以给APP上锁了",
+      "onboard_time": 1726539739,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 164565,
+      "num": 164565,
+      "word": "10月1日火车票今天开售",
+      "onboard_time": 1726532417,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159231,
       "num": 159231,
       "word": "你的中秋记忆",
@@ -443,14 +475,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 158028,
-      "num": 158028,
-      "word": "10月1日火车票今天开售",
-      "onboard_time": 1726532417,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155123,
       "num": 155123,
       "word": "宁波一年只卖2个月的月饼大受欢迎",
@@ -460,7 +484,7 @@
     },
     {
       "raw_hot": 152550,
-      "num": 169642,
+      "num": 186551,
       "word": "珠帘玉幕",
       "onboard_time": 1726538417,
       "rank": 28,
@@ -473,22 +497,6 @@
       "onboard_time": 1726499480,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151029,
-      "num": 151029,
-      "word": "爸爸突然开始特意标注生活费",
-      "onboard_time": 1726539498,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 150925,
-      "num": 159124,
-      "word": "赴山海",
-      "onboard_time": 1726539798,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 148844,
@@ -529,6 +537,14 @@
       "onboard_time": 1726530017,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 142929,
+      "num": 186912,
+      "word": "终于轮到王俊凯叫别人小凯了",
+      "onboard_time": 1726539918,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 140818,
@@ -587,6 +603,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 130274,
+      "num": 130274,
+      "word": "中秋祝福",
+      "onboard_time": 1726530676,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129569,
       "num": 129569,
       "word": "周震南直播被粉丝套话",
@@ -595,20 +619,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129179,
+      "num": 129179,
+      "word": "吴艳妮称首次年度大满贯很自豪",
+      "onboard_time": 1726538060,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 128725,
+      "num": 128725,
+      "word": "苹果称10月起iOS18引入苹果AI",
+      "onboard_time": 1726540397,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 128258,
       "num": 128258,
       "word": "这么小的狗怎么可以这么有种",
       "onboard_time": 1726530796,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 127568,
-      "num": 127568,
-      "word": "吴艳妮称首次年度大满贯很自豪",
-      "onboard_time": 1726538060,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 125890,
@@ -635,28 +667,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121228,
-      "num": 121228,
-      "word": "iOS18可以给APP上锁了",
-      "onboard_time": 1726539739,
-      "rank": 42,
-      "category": "数码"
-    },
-    {
       "raw_hot": 120630,
       "num": 120630,
       "word": "男子3岁失踪34年后与母亲团圆",
       "onboard_time": 1726528695,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120053,
-      "num": 120053,
-      "word": "中秋祝福",
-      "onboard_time": 1726530676,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 118406,
@@ -681,6 +697,14 @@
       "onboard_time": 1726498522,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113615,
+      "num": 113615,
+      "word": "2024国际乒联第38周排名",
+      "onboard_time": 1726537518,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 112644,
@@ -713,14 +737,6 @@
       "onboard_time": 1726498581,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106491,
-      "num": 106491,
-      "word": "终于轮到王俊凯叫别人小凯了",
-      "onboard_time": 1726539918,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 106282,
@@ -779,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99288,
+      "num": 184504,
+      "word": "吴艳妮夺冠后祝大家中秋快乐",
+      "onboard_time": 1726539319,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96497,
       "num": 96497,
       "word": "薛之谦 Joker",
@@ -835,14 +859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 86006,
-      "num": 167965,
-      "word": "吴艳妮夺冠后祝大家中秋快乐",
-      "onboard_time": 1726539319,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 84964,
       "num": 84964,
       "word": "章若楠给杨洋指代拍",
@@ -891,6 +907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 75620,
+      "num": 130788,
+      "word": "樊振东vlog",
+      "onboard_time": 1726540340,
+      "rank": 39,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 75313,
       "num": 75313,
       "word": "研究表明爷爷锻炼可增强孙子智力",
@@ -905,6 +929,14 @@
       "onboard_time": 1726505835,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 68368,
+      "num": 315326,
+      "word": "文化中国行月满人团圆",
+      "onboard_time": 1726540219,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65408,
@@ -1104,6 +1136,14 @@
       "word": "这份时隔24年的特殊团聚让人泪目",
       "onboard_time": 1726517351,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3202,
+      "num": 759769,
+      "word": "人民军队淬火向前",
+      "onboard_time": 1726081931,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],

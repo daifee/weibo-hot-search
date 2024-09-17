@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726539985078,
+  "endTime": 1726540651376,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1113818,
+      "num": 1178210,
+      "word": "猎罪图鉴2",
+      "onboard_time": 1726537518,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1109823,
       "num": 1028105,
       "word": "李纯小区不可能先救明星被指偷换概念",
@@ -521,14 +529,6 @@
       "onboard_time": 1726384518,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1094850,
-      "num": 1175176,
-      "word": "猎罪图鉴2",
-      "onboard_time": 1726537518,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 1075319,
@@ -795,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 752852,
+      "num": 752852,
+      "word": "孙颖莎9400分世排第一",
+      "onboard_time": 1726537518,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 751519,
       "num": 751519,
       "word": "上海浦东滴水湖12级以上强风",
@@ -825,14 +833,6 @@
       "onboard_time": 1726389558,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 715798,
-      "num": 715798,
-      "word": "孙颖莎9400分世排第一",
-      "onboard_time": 1726537518,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 706619,
@@ -1027,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 618293,
+      "num": 618293,
+      "word": "安理会为何不能阻止最大人间惨剧",
+      "onboard_time": 1726536319,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 612251,
       "num": 670858,
       "word": "凡人歌 大结局",
@@ -1057,6 +1065,14 @@
       "onboard_time": 1726528575,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 608239,
+      "num": 608239,
+      "word": "枭起青壤",
+      "onboard_time": 1726539079,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 606050,
@@ -1129,14 +1145,6 @@
       "onboard_time": 1726320202,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 562966,
-      "num": 562966,
-      "word": "安理会为何不能阻止最大人间惨剧",
-      "onboard_time": 1726536319,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 561523,
@@ -1915,6 +1923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 340461,
+      "num": 340461,
+      "word": "詹青云真正的爱应该是什么样",
+      "onboard_time": 1726531337,
+      "rank": 26,
+      "category": "情感,艺人"
+    },
+    {
       "raw_hot": 337548,
       "num": 489966,
       "word": "张杰谢娜游艇约会",
@@ -1969,14 +1985,6 @@
       "onboard_time": 1726472657,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 326247,
-      "num": 326247,
-      "word": "詹青云真正的爱应该是什么样",
-      "onboard_time": 1726531337,
-      "rank": 26,
-      "category": "情感,艺人"
     },
     {
       "raw_hot": 323788,
@@ -2171,6 +2179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 296709,
+      "num": 191978,
+      "word": "爸爸突然开始特意标注生活费",
+      "onboard_time": 1726539498,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 296166,
       "num": 296166,
       "word": "06年小学老师的一天",
@@ -2313,14 +2329,6 @@
       "onboard_time": 1726531156,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 272412,
-      "num": 272412,
-      "word": "枭起青壤",
-      "onboard_time": 1726539079,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 272249,
@@ -2521,6 +2529,14 @@
       "onboard_time": 1726322962,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 255382,
+      "num": 255382,
+      "word": "中秋送你圆圆圆圆圆圆圆圆圆",
+      "onboard_time": 1726539197,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254187,
@@ -2817,14 +2833,6 @@
       "onboard_time": 1726413321,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 227838,
-      "num": 227838,
-      "word": "中秋送你圆圆圆圆圆圆圆圆圆",
-      "onboard_time": 1726539197,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 226239,
@@ -3283,6 +3291,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 198741,
+      "num": 198741,
+      "word": "赴山海",
+      "onboard_time": 1726539798,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198167,
       "num": 198167,
       "word": "侃爷海口试听会舞台",
@@ -3307,7 +3323,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195940,
+      "raw_hot": 196224,
       "num": 234516,
       "word": "赵露思陈伟霆额头吻路透",
       "onboard_time": 1726535779,
@@ -3595,6 +3611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 184284,
+      "num": 184284,
+      "word": "为什么中秋节没人提前订酒店了",
+      "onboard_time": 1726537998,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184142,
       "num": 205390,
       "word": "546米上海之巅看台风来临",
@@ -3657,14 +3681,6 @@
       "onboard_time": 1726410801,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 180713,
-      "num": 180713,
-      "word": "为什么中秋节没人提前订酒店了",
-      "onboard_time": 1726537998,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180642,
@@ -4091,11 +4107,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164840,
+      "num": 164840,
+      "word": "iOS18可以给APP上锁了",
+      "onboard_time": 1726539739,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 164812,
       "num": 164812,
       "word": "台风贝碧嘉即将抵达南京",
       "onboard_time": 1726497559,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164565,
+      "num": 164565,
+      "word": "10月1日火车票今天开售",
+      "onboard_time": 1726532417,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -4323,14 +4355,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 158028,
-      "num": 158028,
-      "word": "10月1日火车票今天开售",
-      "onboard_time": 1726532417,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158010,
       "num": 158010,
       "word": "李兰迪新剧说任嘉伦长得好看",
@@ -4516,7 +4540,7 @@
     },
     {
       "raw_hot": 152550,
-      "num": 169642,
+      "num": 186551,
       "word": "珠帘玉幕",
       "onboard_time": 1726538417,
       "rank": 28,
@@ -4545,22 +4569,6 @@
       "onboard_time": 1726398561,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 151029,
-      "num": 151029,
-      "word": "爸爸突然开始特意标注生活费",
-      "onboard_time": 1726539498,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 150925,
-      "num": 159124,
-      "word": "赴山海",
-      "onboard_time": 1726539798,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 150820,
@@ -4777,6 +4785,14 @@
       "onboard_time": 1726410620,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142929,
+      "num": 186912,
+      "word": "终于轮到王俊凯叫别人小凯了",
+      "onboard_time": 1726539918,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 142814,
@@ -5187,6 +5203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130274,
+      "num": 130274,
+      "word": "中秋祝福",
+      "onboard_time": 1726530676,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130206,
       "num": 130206,
       "word": "当女性决定拥有自己的孩子",
@@ -5219,12 +5243,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129179,
+      "num": 129179,
+      "word": "吴艳妮称首次年度大满贯很自豪",
+      "onboard_time": 1726538060,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129019,
       "num": 276738,
       "word": "幼童小区内被碾压肇事司机家属发声",
       "onboard_time": 1726365978,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128725,
+      "num": 128725,
+      "word": "苹果称10月起iOS18引入苹果AI",
+      "onboard_time": 1726540397,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 128379,
@@ -5265,14 +5305,6 @@
       "onboard_time": 1726358477,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 127568,
-      "num": 127568,
-      "word": "吴艳妮称首次年度大满贯很自豪",
-      "onboard_time": 1726538060,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 126645,
@@ -5363,14 +5395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121228,
-      "num": 121228,
-      "word": "iOS18可以给APP上锁了",
-      "onboard_time": 1726539739,
-      "rank": 42,
-      "category": "数码"
-    },
-    {
       "raw_hot": 121020,
       "num": 121020,
       "word": "令人心动的offer6的女性群像",
@@ -5433,14 +5457,6 @@
       "onboard_time": 1726473199,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 120053,
-      "num": 120053,
-      "word": "中秋祝福",
-      "onboard_time": 1726530676,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 119856,
@@ -5611,6 +5627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113615,
+      "num": 113615,
+      "word": "2024国际乒联第38周排名",
+      "onboard_time": 1726537518,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113212,
       "num": 113212,
       "word": "尤长靖 隔行如隔山",
@@ -5753,14 +5777,6 @@
       "onboard_time": 1726418417,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 106491,
-      "num": 106491,
-      "word": "终于轮到王俊凯叫别人小凯了",
-      "onboard_time": 1726539918,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 106282,
@@ -5907,6 +5923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99288,
+      "num": 184504,
+      "word": "吴艳妮夺冠后祝大家中秋快乐",
+      "onboard_time": 1726539319,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98503,
       "num": 98503,
       "word": "以为花少主题曲开头在喊侯明昊",
@@ -6043,14 +6067,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 86006,
-      "num": 167965,
-      "word": "吴艳妮夺冠后祝大家中秋快乐",
-      "onboard_time": 1726539319,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 83367,
       "num": 552813,
       "word": "住建局回应女孩坠井父亲阻拦施救",
@@ -6123,6 +6139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75620,
+      "num": 130788,
+      "word": "樊振东vlog",
+      "onboard_time": 1726540340,
+      "rank": 39,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 75313,
       "num": 75313,
       "word": "研究表明爷爷锻炼可增强孙子智力",
@@ -6160,6 +6184,14 @@
       "word": "陆家嘴三件套顶层最大风力可达15级",
       "onboard_time": 1726431491,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68368,
+      "num": 315326,
+      "word": "文化中国行月满人团圆",
+      "onboard_time": 1726540219,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
