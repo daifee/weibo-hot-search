@@ -1,6 +1,6 @@
 {
   "startTime": 1726504063678,
-  "endTime": 1726547008399,
+  "endTime": 1726547784828,
   "band_list": [
     {
       "raw_hot": 3116864,
@@ -9,6 +9,22 @@
       "onboard_time": 1726532656,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2236107,
+      "num": 757408,
+      "word": "李栋旭 韩国不吃月饼",
+      "onboard_time": 1726546279,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1875801,
+      "num": 1875801,
+      "word": "三只羊被立案调查",
+      "onboard_time": 1726546459,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1490682,
@@ -49,14 +65,6 @@
       "onboard_time": 1726544719,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 971270,
-      "num": 971270,
-      "word": "三只羊被立案调查",
-      "onboard_time": 1726546459,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 966057,
@@ -107,20 +115,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 769448,
-      "num": 628588,
-      "word": "李栋旭 韩国不吃月饼",
-      "onboard_time": 1726546279,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 752852,
       "num": 752852,
       "word": "孙颖莎9400分世排第一",
       "onboard_time": 1726537518,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 655140,
+      "num": 655140,
+      "word": "美诚月饼广州公司被指跑路改招牌",
+      "onboard_time": 1726544900,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 647392,
@@ -187,14 +195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 557569,
-      "num": 557569,
-      "word": "美诚月饼广州公司被指跑路改招牌",
-      "onboard_time": 1726544900,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 516800,
       "num": 516800,
       "word": "赵露思台词",
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383418,
+      "num": 383418,
+      "word": "只生孩子不领证会有什么风险",
+      "onboard_time": 1726547182,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 379618,
       "num": 379618,
       "word": "赵丽颖中秋节营业图",
@@ -233,6 +241,14 @@
       "onboard_time": 1726501040,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 360911,
+      "num": 564742,
+      "word": "这个舞蹈动作近几年致多名儿童瘫痪",
+      "onboard_time": 1726546879,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 360720,
@@ -387,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 266918,
+      "num": 208042,
+      "word": "教育在此刻闭环了",
+      "onboard_time": 1726546158,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 266023,
       "num": 266023,
       "word": "我拍了拍月亮",
@@ -399,14 +423,6 @@
       "num": 265409,
       "word": "女子吃了冰箱一盘熟牛肉引发败血症",
       "onboard_time": 1726483699,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262697,
-      "num": 262697,
-      "word": "这个舞蹈动作近几年致多名儿童瘫痪",
-      "onboard_time": 1726546879,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -571,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185012,
+      "num": 185012,
+      "word": "普拉桑",
+      "onboard_time": 1726546459,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184284,
       "num": 184284,
       "word": "为什么中秋节没人提前订酒店了",
@@ -587,20 +611,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182130,
+      "num": 182130,
+      "word": "好久没看到这么健康的恋爱了",
+      "onboard_time": 1726545678,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180251,
       "num": 180251,
       "word": "鹿晗",
       "onboard_time": 1726527854,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 179296,
-      "num": 179296,
-      "word": "好久没看到这么健康的恋爱了",
-      "onboard_time": 1726545678,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 176468,
@@ -611,12 +635,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169321,
-      "num": 169321,
-      "word": "教育在此刻闭环了",
-      "onboard_time": 1726546158,
-      "rank": 36,
-      "category": "情感"
+      "raw_hot": 176256,
+      "num": 211781,
+      "word": "月饼券被黄牛半价回收后流向哪",
+      "onboard_time": 1726545020,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172185,
+      "num": 172185,
+      "word": "台风普拉桑将登陆浙江沿海",
+      "onboard_time": 1726546819,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167901,
@@ -691,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151435,
+      "num": 151435,
+      "word": "为什么很多女生自带疏离感",
+      "onboard_time": 1726547182,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151188,
       "num": 151188,
       "word": "翁青雅彭高约会",
@@ -705,14 +745,6 @@
       "onboard_time": 1726542439,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149532,
-      "num": 149532,
-      "word": "普拉桑",
-      "onboard_time": 1726546459,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148844,
@@ -787,12 +819,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140045,
+      "num": 140045,
+      "word": "德牧把安全的位置换给了耶耶",
+      "onboard_time": 1726546519,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139210,
       "num": 133905,
       "word": "去搞说唱学历又有点高了",
       "onboard_time": 1726530855,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138929,
+      "num": 138929,
+      "word": "光遇复刻",
+      "onboard_time": 1726547118,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 138892,
@@ -809,14 +857,6 @@
       "onboard_time": 1726541057,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 135162,
-      "num": 135162,
-      "word": "德牧把安全的位置换给了耶耶",
-      "onboard_time": 1726546519,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 134090,
@@ -865,6 +905,14 @@
       "onboard_time": 1726530676,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 130304,
+      "num": 130304,
+      "word": "不要在狗狗干饭时抓腿",
+      "onboard_time": 1726546879,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 129569,
@@ -947,14 +995,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 118135,
-      "num": 118135,
-      "word": "不要在狗狗干饭时抓腿",
-      "onboard_time": 1726546879,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 117078,
       "num": 117078,
       "word": "张泽禹 耳洞",
@@ -985,6 +1025,14 @@
       "onboard_time": 1726537518,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113230,
+      "num": 223007,
+      "word": "心动的信号7",
+      "onboard_time": 1726547182,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 113085,
@@ -1048,14 +1096,6 @@
       "word": "台风",
       "onboard_time": 1726528334,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104807,
-      "num": 211781,
-      "word": "月饼券被黄牛半价回收后流向哪",
-      "onboard_time": 1726545020,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1225,6 +1265,14 @@
       "onboard_time": 1726540219,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66827,
+      "num": 183628,
+      "word": "梁伟铿王昶男双世界第一",
+      "onboard_time": 1726547419,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 65408,
@@ -1452,7 +1500,7 @@
     },
     {
       "raw_hot": 3202,
-      "num": 759769,
+      "num": 891642,
       "word": "人民军队淬火向前",
       "onboard_time": 1726081931,
       "rank": 2,

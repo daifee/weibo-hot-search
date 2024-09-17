@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726547008399,
+  "endTime": 1726547784828,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2236107,
+      "num": 757408,
+      "word": "李栋旭 韩国不吃月饼",
+      "onboard_time": 1726546279,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1960290,
       "num": 1960290,
       "word": "上海中心千吨阻尼器摆幅肉眼可见",
@@ -81,6 +89,14 @@
       "onboard_time": 1726319842,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1875801,
+      "num": 1875801,
+      "word": "三只羊被立案调查",
+      "onboard_time": 1726546459,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1863948,
@@ -595,14 +611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 971270,
-      "num": 971270,
-      "word": "三只羊被立案调查",
-      "onboard_time": 1726546459,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 970799,
       "num": 1155327,
       "word": "监管局已介入小杨哥美诚月饼事件",
@@ -811,14 +819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 769448,
-      "num": 628588,
-      "word": "李栋旭 韩国不吃月饼",
-      "onboard_time": 1726546279,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 753732,
       "num": 753732,
       "word": "宋雨琦 没有边界感的前辈",
@@ -944,6 +944,14 @@
       "word": "台风中心将在南京停留2到3小时",
       "onboard_time": 1726478658,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 655140,
+      "num": 655140,
+      "word": "美诚月饼广州公司被指跑路改招牌",
+      "onboard_time": 1726544900,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1225,14 +1233,6 @@
       "onboard_time": 1726374019,
       "rank": 41,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 557569,
-      "num": 557569,
-      "word": "美诚月饼广州公司被指跑路改招牌",
-      "onboard_time": 1726544900,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 556745,
@@ -1771,6 +1771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 383418,
+      "num": 383418,
+      "word": "只生孩子不领证会有什么风险",
+      "onboard_time": 1726547182,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 382723,
       "num": 444668,
       "word": "上海浙江海域或有4米巨浪",
@@ -1905,6 +1913,14 @@
       "onboard_time": 1726323626,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 360911,
+      "num": 564742,
+      "word": "这个舞蹈动作近几年致多名儿童瘫痪",
+      "onboard_time": 1726546879,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 360720,
@@ -2515,6 +2531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266918,
+      "num": 208042,
+      "word": "教育在此刻闭环了",
+      "onboard_time": 1726546158,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 266750,
       "num": 266750,
       "word": "女子地铁被家暴称丈夫花5000养情人",
@@ -2577,14 +2601,6 @@
       "onboard_time": 1726378099,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 262697,
-      "num": 262697,
-      "word": "这个舞蹈动作近几年致多名儿童瘫痪",
-      "onboard_time": 1726546879,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261871,
@@ -3763,6 +3779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185012,
+      "num": 185012,
+      "word": "普拉桑",
+      "onboard_time": 1726546459,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185010,
       "num": 185010,
       "word": "孙颖莎奥运后没有特别系统地训练",
@@ -3843,6 +3867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182130,
+      "num": 182130,
+      "word": "好久没看到这么健康的恋爱了",
+      "onboard_time": 1726545678,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 182018,
       "num": 182018,
       "word": "心动的信号7中秋直播",
@@ -3897,14 +3929,6 @@
       "onboard_time": 1726302019,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 179296,
-      "num": 179296,
-      "word": "好久没看到这么健康的恋爱了",
-      "onboard_time": 1726545678,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 179258,
@@ -3968,6 +3992,14 @@
       "word": "10月1日火车票今天开售",
       "onboard_time": 1726532417,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176256,
+      "num": 211781,
+      "word": "月饼券被黄牛半价回收后流向哪",
+      "onboard_time": 1726545020,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -4091,6 +4123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172185,
+      "num": 172185,
+      "word": "台风普拉桑将登陆浙江沿海",
+      "onboard_time": 1726546819,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172083,
       "num": 172083,
       "word": "月亮",
@@ -4169,14 +4209,6 @@
       "onboard_time": 1726369878,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 169321,
-      "num": 169321,
-      "word": "教育在此刻闭环了",
-      "onboard_time": 1726546158,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 169004,
@@ -4771,6 +4803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151435,
+      "num": 151435,
+      "word": "为什么很多女生自带疏离感",
+      "onboard_time": 1726547182,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150820,
       "num": 150820,
       "word": "张予曦也演雨霖铃了",
@@ -4825,14 +4865,6 @@
       "onboard_time": 1726478900,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 149532,
-      "num": 149532,
-      "word": "普拉桑",
-      "onboard_time": 1726546459,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149291,
@@ -5123,6 +5155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140045,
+      "num": 140045,
+      "word": "德牧把安全的位置换给了耶耶",
+      "onboard_time": 1726546519,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140001,
       "num": 140001,
       "word": "马来西亚新闻报道尤长靖披哥3冠王",
@@ -5169,6 +5209,14 @@
       "onboard_time": 1726456939,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 138929,
+      "num": 138929,
+      "word": "光遇复刻",
+      "onboard_time": 1726547118,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 138892,
@@ -5273,14 +5321,6 @@
       "onboard_time": 1726442535,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 135162,
-      "num": 135162,
-      "word": "德牧把安全的位置换给了耶耶",
-      "onboard_time": 1726546519,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 134690,
@@ -5457,6 +5497,14 @@
       "onboard_time": 1726396760,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130304,
+      "num": 130304,
+      "word": "不要在狗狗干饭时抓腿",
+      "onboard_time": 1726546879,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 130206,
@@ -5763,14 +5811,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 118135,
-      "num": 118135,
-      "word": "不要在狗狗干饭时抓腿",
-      "onboard_time": 1726546879,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 118063,
       "num": 118063,
       "word": "程芽芽高中毕业三年带娃经验",
@@ -5905,6 +5945,14 @@
       "onboard_time": 1726537518,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113230,
+      "num": 223007,
+      "word": "心动的信号7",
+      "onboard_time": 1726547182,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 113212,
@@ -6113,14 +6161,6 @@
       "onboard_time": 1726356496,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 104807,
-      "num": 211781,
-      "word": "月饼券被黄牛半价回收后流向哪",
-      "onboard_time": 1726545020,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104738,
@@ -6481,6 +6521,14 @@
       "onboard_time": 1726417579,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 66827,
+      "num": 183628,
+      "word": "梁伟铿王昶男双世界第一",
+      "onboard_time": 1726547419,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 66072,
@@ -7308,7 +7356,7 @@
     },
     {
       "raw_hot": 9521,
-      "num": 843230,
+      "num": 891642,
       "word": "人民军队淬火向前",
       "onboard_time": 1726081931,
       "rank": 36,

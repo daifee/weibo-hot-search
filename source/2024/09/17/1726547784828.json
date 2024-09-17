@@ -1,0 +1,410 @@
+{
+  "runTime": 1726547784828,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1875801,
+        "num": 1875801,
+        "word": "三只羊被立案调查",
+        "onboard_time": 1726546459,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 983188,
+        "num": 983188,
+        "word": "金巧巧离婚风波后晒全家福",
+        "onboard_time": 1726544719,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2310,
+        "num": 891642,
+        "word": "人民军队淬火向前",
+        "onboard_time": 1726081931,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 815755,
+        "num": 815755,
+        "word": "悟空月饼",
+        "onboard_time": 1726541299,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 2236107,
+        "num": 757408,
+        "word": "李栋旭 韩国不吃月饼",
+        "onboard_time": 1726546279,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 655140,
+        "num": 655140,
+        "word": "美诚月饼广州公司被指跑路改招牌",
+        "onboard_time": 1726544900,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614850,
+        "num": 614850,
+        "word": "虞书欣中秋素颜照",
+        "onboard_time": 1726541838,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 586913,
+        "num": 586913,
+        "word": "女方多次与不同对象闪婚闪离应提醒",
+        "onboard_time": 1726541538,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578129,
+        "num": 578129,
+        "word": "中秋节",
+        "onboard_time": 1726527854,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360911,
+        "num": 564742,
+        "word": "这个舞蹈动作近几年致多名儿童瘫痪",
+        "onboard_time": 1726546879,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558450,
+        "num": 558450,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1726537518,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 468566,
+        "num": 468566,
+        "word": "赵露思台词",
+        "onboard_time": 1726544839,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 466843,
+        "num": 466843,
+        "word": "关晓彤穿了特别定制礼服",
+        "onboard_time": 1726543638,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407794,
+        "num": 407794,
+        "word": "中秋节快乐",
+        "onboard_time": 1726527913,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383418,
+        "num": 383418,
+        "word": "只生孩子不领证会有什么风险",
+        "onboard_time": 1726547182,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 279332,
+        "num": 279332,
+        "word": "枭起青壤",
+        "onboard_time": 1726539079,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226807,
+        "num": 226807,
+        "word": "孙颖莎9400分世排第一",
+        "onboard_time": 1726537518,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113230,
+        "num": 223007,
+        "word": "心动的信号7",
+        "onboard_time": 1726547182,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219954,
+        "num": 219954,
+        "word": "孙颖莎王楚钦王曼昱送中秋祝福",
+        "onboard_time": 1726542618,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208762,
+        "num": 208762,
+        "word": "衡门有狐",
+        "onboard_time": 1726545139,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1540241,
+        "num": 208656,
+        "word": "关晓彤零点零七分回复鹿晗",
+        "onboard_time": 1726532656,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413458,
+        "num": 208384,
+        "word": "爸爸突然开始特意标注生活费",
+        "onboard_time": 1726539498,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 372236,
+        "num": 208229,
+        "word": "罗志祥在哪做的医美",
+        "onboard_time": 1726497202,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266918,
+        "num": 208042,
+        "word": "教育在此刻闭环了",
+        "onboard_time": 1726546158,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207831,
+        "num": 207831,
+        "word": "终于轮到王俊凯叫别人小凯了",
+        "onboard_time": 1726539918,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 884517,
+        "num": 207180,
+        "word": "鹿晗连续八年为关晓彤庆生",
+        "onboard_time": 1726527854,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198573,
+        "num": 198573,
+        "word": "安理会为何不能阻止最大人间惨剧",
+        "onboard_time": 1726536319,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 187501,
+        "num": 187501,
+        "word": "美国将砸16亿美元全球抹黑中国",
+        "onboard_time": 1726528394,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 185012,
+        "num": 185012,
+        "word": "普拉桑",
+        "onboard_time": 1726546459,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66827,
+        "num": 183628,
+        "word": "梁伟铿王昶男双世界第一",
+        "onboard_time": 1726547419,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28364,
+        "num": 183435,
+        "word": "淬火强军新征程",
+        "onboard_time": 1726545920,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183374,
+        "num": 183374,
+        "word": "台风贝碧嘉",
+        "onboard_time": 1726320202,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182519,
+        "num": 182519,
+        "word": "赵丽颖中秋节营业图",
+        "onboard_time": 1726542018,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182130,
+        "num": 182130,
+        "word": "好久没看到这么健康的恋爱了",
+        "onboard_time": 1726545678,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177770,
+        "num": 177770,
+        "word": "iPhone16首周末销量下降12.7%",
+        "onboard_time": 1726543098,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 176866,
+        "num": 176866,
+        "word": "贝碧嘉移入江苏",
+        "onboard_time": 1726463058,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176256,
+        "num": 176256,
+        "word": "月饼券被黄牛半价回收后流向哪",
+        "onboard_time": 1726545020,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173449,
+        "num": 173449,
+        "word": "iOS18可以给APP上锁了",
+        "onboard_time": 1726539739,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 172185,
+        "num": 172185,
+        "word": "台风普拉桑将登陆浙江沿海",
+        "onboard_time": 1726546819,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167040,
+        "num": 167040,
+        "word": "狐妖王权篇烛光月辉剧照",
+        "onboard_time": 1726542138,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152288,
+        "num": 152288,
+        "word": "70多年前的他们背后是万家团圆",
+        "onboard_time": 1726539259,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151435,
+        "num": 151435,
+        "word": "为什么很多女生自带疏离感",
+        "onboard_time": 1726547182,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146087,
+        "num": 146087,
+        "word": "中秋月亮超级月亮双倍圆满",
+        "onboard_time": 1726545557,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141654,
+        "num": 141654,
+        "word": "童瑶1米5长辫",
+        "onboard_time": 1726544958,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140045,
+        "num": 140045,
+        "word": "德牧把安全的位置换给了耶耶",
+        "onboard_time": 1726546519,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138929,
+        "num": 138929,
+        "word": "光遇复刻",
+        "onboard_time": 1726547118,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133780,
+        "num": 133780,
+        "word": "金晨新中式造型",
+        "onboard_time": 1726544839,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130304,
+        "num": 130304,
+        "word": "不要在狗狗干饭时抓腿",
+        "onboard_time": 1726546879,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126733,
+        "num": 126733,
+        "word": "和研一男友同居他说让我A一下",
+        "onboard_time": 1726534759,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124763,
+        "num": 124763,
+        "word": "慕胥辞千里同月版海报",
+        "onboard_time": 1726541538,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中秋佳节习近平总书记这样寄语#"
+    }
+  }
+}
