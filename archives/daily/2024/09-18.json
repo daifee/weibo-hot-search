@@ -1,6 +1,6 @@
 {
   "startTime": 1726590451835,
-  "endTime": 1726608934569,
+  "endTime": 1726611605333,
   "band_list": [
     {
       "raw_hot": 1110468,
@@ -73,6 +73,14 @@
       "onboard_time": 1726589839,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 376454,
+      "num": 395666,
+      "word": "记者实探三只羊集团",
+      "onboard_time": 1726578802,
+      "rank": 17,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 357481,
@@ -160,14 +168,6 @@
       "word": "小杨哥评论区被立案调查刷屏",
       "onboard_time": 1726573400,
       "rank": 15,
-      "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 272994,
-      "num": 253977,
-      "word": "记者实探三只羊集团",
-      "onboard_time": 1726578802,
-      "rank": 17,
       "category": "社会新闻,网红"
     },
     {
@@ -443,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66109,
+      "num": 66109,
+      "word": "泰山陪爬火了包登顶一单能挣100元",
+      "onboard_time": 1726598652,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64402,
       "num": 64402,
       "word": "19310918不能忘不敢忘",
@@ -475,12 +483,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 55611,
+      "num": 74186,
+      "word": "也门胡塞武装公布新型高超音速导弹画面",
+      "onboard_time": 1726607290,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 54474,
       "num": 54474,
       "word": "汪苏泷直播",
       "onboard_time": 1726579762,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 47187,
+      "num": 44685,
+      "word": "60秒了解三只羊美诚月饼事件",
+      "onboard_time": 1726601110,
+      "rank": 46,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 45732,
@@ -507,12 +531,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 32588,
-      "num": 32588,
-      "word": "泰山陪爬火了包登顶一单能挣100元",
-      "onboard_time": 1726598652,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 32351,
+      "num": 32351,
+      "word": "东北民谣在东北地界上桌了",
+      "onboard_time": 1726609213,
+      "rank": 36,
+      "category": "幽默,音乐"
     },
     {
       "raw_hot": 30008,
@@ -523,16 +547,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29594,
-      "num": 29594,
-      "word": "60秒了解三只羊美诚月饼事件",
-      "onboard_time": 1726601110,
-      "rank": 46,
-      "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 28689,
-      "num": 28689,
+      "raw_hot": 29002,
+      "num": 29002,
       "word": "疑似意图暗杀特朗普的嫌疑人出庭",
       "onboard_time": 1726601110,
       "rank": 48,
@@ -563,12 +579,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 16642,
-      "num": 74186,
-      "word": "也门胡塞武装公布新型高超音速导弹画面",
-      "onboard_time": 1726607290,
-      "rank": 9,
-      "category": "国外时政"
+      "raw_hot": 13343,
+      "num": 189918,
+      "word": "圆圆的大国重器送团圆的祝福",
+      "onboard_time": 1726584024,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11674,
@@ -576,14 +592,6 @@
       "word": "90岁老人生日仪式感看呆90后",
       "onboard_time": 1726604230,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11337,
-      "num": 130618,
-      "word": "圆圆的大国重器送团圆的祝福",
-      "onboard_time": 1726584024,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
