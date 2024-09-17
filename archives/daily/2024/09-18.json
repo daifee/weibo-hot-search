@@ -1,7 +1,15 @@
 {
   "startTime": 1726590451835,
-  "endTime": 1726612676356,
+  "endTime": 1726615447223,
   "band_list": [
+    {
+      "raw_hot": 1150248,
+      "num": 1150248,
+      "word": "记者实探三只羊集团",
+      "onboard_time": 1726578802,
+      "rank": 17,
+      "category": "社会新闻,网红"
+    },
     {
       "raw_hot": 1110468,
       "num": 1110468,
@@ -35,20 +43,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 602565,
+      "num": 602565,
+      "word": "王菲送李嫣英国留学",
+      "onboard_time": 1726588279,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 556112,
+      "num": 556112,
+      "word": "九一八事变93周年",
+      "onboard_time": 1726614736,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 552879,
       "num": 552879,
       "word": "研究生数量超本科生高校招生引争议",
       "onboard_time": 1726581141,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 546291,
-      "num": 546291,
-      "word": "记者实探三只羊集团",
-      "onboard_time": 1726578802,
-      "rank": 17,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 485707,
@@ -83,12 +99,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 381270,
-      "num": 381270,
-      "word": "王菲送李嫣英国留学",
-      "onboard_time": 1726588279,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 382459,
+      "num": 382459,
+      "word": "勿忘九一八",
+      "onboard_time": 1726590258,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 374181,
+      "num": 374181,
+      "word": "泰山陪爬火了包登顶一单能挣100元",
+      "onboard_time": 1726598652,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357481,
@@ -107,16 +131,8 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 339200,
-      "num": 339200,
-      "word": "勿忘九一八",
-      "onboard_time": 1726590258,
-      "rank": 18,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 324483,
-      "num": 324483,
+      "num": 371855,
       "word": "央视boys穿西装没告诉撒贝宁",
       "onboard_time": 1726586061,
       "rank": 11,
@@ -147,6 +163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 301134,
+      "num": 301134,
+      "word": "韩国第一夫人重启公开活动引不满",
+      "onboard_time": 1726588399,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 294909,
       "num": 248592,
       "word": "周也肩膀 蟑螂",
@@ -171,12 +195,36 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 271024,
+      "num": 271024,
+      "word": "918",
+      "onboard_time": 1726591996,
+      "rank": 12,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 253407,
       "num": 253407,
       "word": "折腰",
       "onboard_time": 1726575681,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 232566,
+      "num": 232566,
+      "word": "山东男孩小区门口殴打母亲被民警带走",
+      "onboard_time": 1726576881,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220736,
+      "num": 220736,
+      "word": "小杨哥已近一个月未更新视频",
+      "onboard_time": 1726580120,
+      "rank": 30,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 211712,
@@ -187,20 +235,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 188167,
-      "num": 188167,
-      "word": "918",
-      "onboard_time": 1726591996,
-      "rank": 12,
-      "category": "艺人,社会新闻"
+      "raw_hot": 204700,
+      "num": 204700,
+      "word": "黎巴嫩寻呼机爆炸案致大量人员受伤",
+      "onboard_time": 1726613534,
+      "rank": 23,
+      "category": "国外时政"
     },
     {
-      "raw_hot": 180197,
-      "num": 180197,
-      "word": "山东男孩小区门口殴打母亲被民警带走",
-      "onboard_time": 1726576881,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 182554,
+      "num": 242835,
+      "word": "周也工作室P掉了蟑螂",
+      "onboard_time": 1726597571,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 171517,
@@ -209,14 +257,6 @@
       "onboard_time": 1726586782,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163701,
-      "num": 163701,
-      "word": "泰山陪爬火了包登顶一单能挣100元",
-      "onboard_time": 1726598652,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158390,
@@ -243,14 +283,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 153757,
-      "num": 153757,
-      "word": "韩国第一夫人重启公开活动引不满",
-      "onboard_time": 1726588399,
-      "rank": 38,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 147028,
       "num": 147028,
       "word": "谁看了吴磊的月饼都得愣一下",
@@ -259,20 +291,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145849,
-      "num": 145849,
-      "word": "小杨哥已近一个月未更新视频",
-      "onboard_time": 1726580120,
-      "rank": 30,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 145204,
       "num": 145204,
       "word": "时代少年团直播",
       "onboard_time": 1726569740,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144932,
+      "num": 144932,
+      "word": "吃饱就睡其实和长胖没太大关系",
+      "onboard_time": 1726591756,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 142921,
@@ -291,12 +323,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 133625,
-      "num": 94438,
-      "word": "周也工作室P掉了蟑螂",
-      "onboard_time": 1726597571,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 132455,
+      "num": 132455,
+      "word": "原来友情中也存在假性亲密",
+      "onboard_time": 1726594692,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 131254,
@@ -371,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110473,
+      "num": 97754,
+      "word": "60秒了解三只羊美诚月饼事件",
+      "onboard_time": 1726601110,
+      "rank": 46,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 110317,
       "num": 110317,
       "word": "田曦薇黑色短裤搭皮靴",
@@ -385,6 +425,14 @@
       "onboard_time": 1726559720,
       "rank": 45,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 109324,
+      "num": 109324,
+      "word": "张踩铃谈无法和解的女性伤害",
+      "onboard_time": 1726583603,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 109093,
@@ -419,20 +467,44 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 95636,
-      "num": 95636,
-      "word": "张踩铃谈无法和解的女性伤害",
-      "onboard_time": 1726583603,
-      "rank": 49,
-      "category": "电影"
+      "raw_hot": 97594,
+      "num": 97594,
+      "word": "浙江一官员3天穿同一件衣服出镜",
+      "onboard_time": 1726615096,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 87331,
-      "num": 87331,
-      "word": "吃饱就睡其实和长胖没太大关系",
-      "onboard_time": 1726591756,
-      "rank": 28,
-      "category": "健康医疗"
+      "raw_hot": 95979,
+      "num": 95979,
+      "word": "918勿忘国耻",
+      "onboard_time": 1726614736,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 90478,
+      "num": 90478,
+      "word": "雪迷宫这集有点过粪了",
+      "onboard_time": 1726612514,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 88205,
+      "num": 88205,
+      "word": "合肥回应调查三只羊通报版本不同",
+      "onboard_time": 1726571239,
+      "rank": 37,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 86668,
+      "num": 86668,
+      "word": "市监局通报男子吃出鸡皮排骨",
+      "onboard_time": 1726614016,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83015,
@@ -451,12 +523,44 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 68010,
-      "num": 68010,
-      "word": "原来友情中也存在假性亲密",
-      "onboard_time": 1726594692,
-      "rank": 22,
-      "category": "情感"
+      "raw_hot": 74978,
+      "num": 74978,
+      "word": "918事变",
+      "onboard_time": 1726615096,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 69783,
+      "num": 273070,
+      "word": "黎巴嫩多地无线电通信设备爆炸",
+      "onboard_time": 1726614856,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 68886,
+      "num": 68886,
+      "word": "东北民谣在东北地界上桌了",
+      "onboard_time": 1726609213,
+      "rank": 36,
+      "category": "幽默,音乐"
+    },
+    {
+      "raw_hot": 68691,
+      "num": 68691,
+      "word": "拜仁9比2萨格勒布迪纳摩",
+      "onboard_time": 1726615396,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 67996,
+      "num": 67996,
+      "word": "初恋在中年人眼里是十级飓风",
+      "onboard_time": 1726583423,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 64402,
@@ -467,12 +571,12 @@
       "category": "剧集,综艺"
     },
     {
-      "raw_hot": 59892,
-      "num": 59892,
-      "word": "60秒了解三只羊美诚月饼事件",
-      "onboard_time": 1726601110,
-      "rank": 46,
-      "category": "社会新闻,网红"
+      "raw_hot": 63031,
+      "num": 63031,
+      "word": "石昊火灵儿中秋团圆了",
+      "onboard_time": 1726615217,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 59882,
@@ -505,14 +609,6 @@
       "onboard_time": 1726579762,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 46882,
-      "num": 46882,
-      "word": "东北民谣在东北地界上桌了",
-      "onboard_time": 1726609213,
-      "rank": 36,
-      "category": "幽默,音乐"
     },
     {
       "raw_hot": 45732,
@@ -555,19 +651,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 30885,
-      "num": 31233,
-      "word": "雪迷宫这集有点过粪了",
-      "onboard_time": 1726612514,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 30008,
       "num": 113887,
       "word": "湖南到贵州菜篮专线票价仅7元",
       "onboard_time": 1726594993,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28185,
+      "num": 581247,
+      "word": "圆圆的大国重器送团圆的祝福",
+      "onboard_time": 1726584024,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -593,14 +689,6 @@
       "onboard_time": 1726607232,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 14417,
-      "num": 305490,
-      "word": "圆圆的大国重器送团圆的祝福",
-      "onboard_time": 1726584024,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11674,

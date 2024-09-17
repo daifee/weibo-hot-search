@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726612676356,
+  "endTime": 1726615447223,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -641,6 +641,14 @@
       "onboard_time": 1726573519,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1150248,
+      "num": 1150248,
+      "word": "记者实探三只羊集团",
+      "onboard_time": 1726578802,
+      "rank": 24,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1147352,
@@ -1555,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 602565,
+      "num": 602565,
+      "word": "王菲送李嫣英国留学",
+      "onboard_time": 1726588279,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 598912,
       "num": 598912,
       "word": "张元英对自己的定位是center",
@@ -1593,14 +1609,6 @@
       "onboard_time": 1726372039,
       "rank": 7,
       "category": "教育"
-    },
-    {
-      "raw_hot": 571287,
-      "num": 571287,
-      "word": "记者实探三只羊集团",
-      "onboard_time": 1726578802,
-      "rank": 24,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 569671,
@@ -1681,6 +1689,14 @@
       "onboard_time": 1726385538,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 556112,
+      "num": 556112,
+      "word": "九一八事变93周年",
+      "onboard_time": 1726614736,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 554391,
@@ -2379,12 +2395,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 381270,
-      "num": 381270,
-      "word": "王菲送李嫣英国留学",
-      "onboard_time": 1726588279,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 382459,
+      "num": 382459,
+      "word": "勿忘九一八",
+      "onboard_time": 1726590258,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 379618,
@@ -2425,6 +2441,14 @@
       "onboard_time": 1726560980,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 374181,
+      "num": 374181,
+      "word": "泰山陪爬火了包登顶一单能挣100元",
+      "onboard_time": 1726598652,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 374081,
@@ -2673,14 +2697,6 @@
       "onboard_time": 1726531337,
       "rank": 26,
       "category": "情感,艺人"
-    },
-    {
-      "raw_hot": 339200,
-      "num": 339200,
-      "word": "勿忘九一八",
-      "onboard_time": 1726590258,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 337548,
@@ -2969,6 +2985,14 @@
       "onboard_time": 1726392498,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 301134,
+      "num": 301134,
+      "word": "韩国第一夫人重启公开活动引不满",
+      "onboard_time": 1726588399,
+      "rank": 38,
+      "category": "国外时政"
     },
     {
       "raw_hot": 300937,
@@ -3273,6 +3297,14 @@
       "onboard_time": 1726580002,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271024,
+      "num": 271024,
+      "word": "918",
+      "onboard_time": 1726591996,
+      "rank": 12,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 270347,
@@ -4323,6 +4355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204700,
+      "num": 204700,
+      "word": "黎巴嫩寻呼机爆炸案致大量人员受伤",
+      "onboard_time": 1726613534,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 204640,
       "num": 204640,
       "word": "翁青雅终于为彭高转身了",
@@ -4963,14 +5003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188167,
-      "num": 188167,
-      "word": "918",
-      "onboard_time": 1726591996,
-      "rank": 12,
-      "category": "艺人,社会新闻"
-    },
-    {
       "raw_hot": 187628,
       "num": 187628,
       "word": "RED广寒宫唱跳",
@@ -5175,6 +5207,14 @@
       "num": 182645,
       "word": "何浩楠 头发它卷起来了",
       "onboard_time": 1726587022,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 182554,
+      "num": 242835,
+      "word": "周也工作室P掉了蟑螂",
+      "onboard_time": 1726597571,
       "rank": 40,
       "category": "艺人"
     },
@@ -5803,14 +5843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163701,
-      "num": 163701,
-      "word": "泰山陪爬火了包登顶一单能挣100元",
-      "onboard_time": 1726598652,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163293,
       "num": 163293,
       "word": "专家称调休使人难以归家违背传统",
@@ -6275,14 +6307,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 153757,
-      "num": 153757,
-      "word": "韩国第一夫人重启公开活动引不满",
-      "onboard_time": 1726588399,
-      "rank": 38,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 153232,
       "num": 153232,
       "word": "胡彦斌又唱月光了",
@@ -6529,6 +6553,14 @@
       "onboard_time": 1726554319,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 144932,
+      "num": 144932,
+      "word": "吃饱就睡其实和长胖没太大关系",
+      "onboard_time": 1726591756,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 144817,
@@ -7035,14 +7067,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 133625,
-      "num": 94438,
-      "word": "周也工作室P掉了蟑螂",
-      "onboard_time": 1726597571,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 133609,
       "num": 133609,
       "word": "美特勤局称已注意到马斯克帖文",
@@ -7089,6 +7113,14 @@
       "onboard_time": 1726535359,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 132455,
+      "num": 132455,
+      "word": "原来友情中也存在假性亲密",
+      "onboard_time": 1726594692,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 132175,
@@ -7779,6 +7811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110473,
+      "num": 97754,
+      "word": "60秒了解三只羊美诚月饼事件",
+      "onboard_time": 1726601110,
+      "rank": 46,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 110446,
       "num": 110446,
       "word": "谢可寅美拉德初秋穿搭",
@@ -8051,6 +8091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97594,
+      "num": 97594,
+      "word": "浙江一官员3天穿同一件衣服出镜",
+      "onboard_time": 1726615096,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97078,
       "num": 97078,
       "word": "中秋假期热门目的地出炉",
@@ -8065,6 +8113,14 @@
       "onboard_time": 1726420815,
       "rank": 38,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 95979,
+      "num": 95979,
+      "word": "918勿忘国耻",
+      "onboard_time": 1726614736,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 95524,
@@ -8139,6 +8195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90478,
+      "num": 90478,
+      "word": "雪迷宫这集有点过粪了",
+      "onboard_time": 1726612514,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90073,
       "num": 428517,
       "word": "大闸蟹养殖户谈台风直穿阳澄湖",
@@ -8163,20 +8227,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87331,
-      "num": 87331,
-      "word": "吃饱就睡其实和长胖没太大关系",
-      "onboard_time": 1726591756,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 86703,
       "num": 296392,
       "word": "仙台有树欢度中秋",
       "onboard_time": 1726554799,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86668,
+      "num": 86668,
+      "word": "市监局通报男子吃出鸡皮排骨",
+      "onboard_time": 1726614016,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86659,
@@ -8331,6 +8395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74978,
+      "num": 74978,
+      "word": "918事变",
+      "onboard_time": 1726615096,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 74612,
       "num": 416376,
       "word": "茅台打假办鉴定结果仅口头告知",
@@ -8355,6 +8427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69783,
+      "num": 273070,
+      "word": "黎巴嫩多地无线电通信设备爆炸",
+      "onboard_time": 1726614856,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 69189,
       "num": 457045,
       "word": "专家谈好利来发文禁止员工驾乘摩托车",
@@ -8371,6 +8451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68886,
+      "num": 68886,
+      "word": "东北民谣在东北地界上桌了",
+      "onboard_time": 1726609213,
+      "rank": 36,
+      "category": "幽默,音乐"
+    },
+    {
       "raw_hot": 68779,
       "num": 68779,
       "word": "陆家嘴三件套顶层最大风力可达15级",
@@ -8379,20 +8467,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68691,
+      "num": 68691,
+      "word": "拜仁9比2萨格勒布迪纳摩",
+      "onboard_time": 1726615396,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68368,
       "num": 708151,
       "word": "文化中国行月满人团圆",
       "onboard_time": 1726540219,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 68010,
-      "num": 68010,
-      "word": "原来友情中也存在假性亲密",
-      "onboard_time": 1726594692,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 67164,
@@ -8467,6 +8555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63031,
+      "num": 63031,
+      "word": "石昊火灵儿中秋团圆了",
+      "onboard_time": 1726615217,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 62752,
       "num": 62752,
       "word": "中秋假期杭州将有大雨暴雨大暴雨",
@@ -8489,14 +8585,6 @@
       "onboard_time": 1726369039,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59892,
-      "num": 59892,
-      "word": "60秒了解三只羊美诚月饼事件",
-      "onboard_time": 1726601110,
-      "rank": 46,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 59888,
@@ -8697,14 +8785,6 @@
       "onboard_time": 1726422253,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 46882,
-      "num": 46882,
-      "word": "东北民谣在东北地界上桌了",
-      "onboard_time": 1726609213,
-      "rank": 36,
-      "category": "幽默,音乐"
     },
     {
       "raw_hot": 46754,
@@ -9107,14 +9187,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 30885,
-      "num": 31233,
-      "word": "雪迷宫这集有点过粪了",
-      "onboard_time": 1726612514,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 30585,
       "num": 227354,
       "word": "海南文昌166个村还未恢复供电",
@@ -9184,6 +9256,14 @@
       "word": "快递小哥台风中紧紧拽着快递",
       "onboard_time": 1726518191,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28185,
+      "num": 581247,
+      "word": "圆圆的大国重器送团圆的祝福",
+      "onboard_time": 1726584024,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -9472,14 +9552,6 @@
       "word": "台风贝碧嘉过境他们逆风而上",
       "onboard_time": 1726516032,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14417,
-      "num": 305490,
-      "word": "圆圆的大国重器送团圆的祝福",
-      "onboard_time": 1726584024,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
