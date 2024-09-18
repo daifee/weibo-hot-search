@@ -1,0 +1,410 @@
+{
+  "runTime": 1726645017522,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1795553,
+        "num": 1795553,
+        "word": "古茗玩梗翻车致歉",
+        "onboard_time": 1726642458,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1692693,
+        "num": 1692693,
+        "word": "12306回应上百人有票没座",
+        "onboard_time": 1726638800,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128658,
+        "num": 1665383,
+        "word": "中国在月球上留下了月饼",
+        "onboard_time": 1726631119,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1657768,
+        "num": 1657768,
+        "word": "曾志伟看小杨哥带货美诚月饼表情",
+        "onboard_time": 1726630640,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1412980,
+        "num": 1412980,
+        "word": "用人民币感受冰岛的物价",
+        "onboard_time": 1726640420,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 765509,
+        "num": 765509,
+        "word": "王暖暖回应官宣生子",
+        "onboard_time": 1726641620,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586799,
+        "num": 586799,
+        "word": "韩安冉回应网红收入",
+        "onboard_time": 1726638501,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 488735,
+        "num": 488735,
+        "word": "美媒称爆炸寻呼机产自台湾",
+        "onboard_time": 1726625780,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 29043,
+        "num": 479991,
+        "word": "以媒披露摩萨德远程引爆寻呼机细节",
+        "onboard_time": 1726644859,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 348229,
+        "num": 479555,
+        "word": "美诚月饼晒车间回应小作坊质疑",
+        "onboard_time": 1726637960,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 942596,
+        "num": 479435,
+        "word": "伊能静儿子恩利再穿女装",
+        "onboard_time": 1726638979,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479244,
+        "num": 479244,
+        "word": "台风普拉桑",
+        "onboard_time": 1726627580,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462725,
+        "num": 462725,
+        "word": "丁海寅点赞女网红",
+        "onboard_time": 1726639641,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462034,
+        "num": 462034,
+        "word": "美方否认参与黎巴嫩BP机爆炸",
+        "onboard_time": 1726629620,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 27013,
+        "num": 437567,
+        "word": "不唱歌不蹦迪年轻人沉迷在酒吧听课",
+        "onboard_time": 1726643959,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429959,
+        "num": 429959,
+        "word": "亚当剃胡子了",
+        "onboard_time": 1726641979,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304949,
+        "num": 426877,
+        "word": "Jennie打乒乓球",
+        "onboard_time": 1726638259,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294773,
+        "num": 425134,
+        "word": "杨紫 MK",
+        "onboard_time": 1726643778,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285622,
+        "num": 420493,
+        "word": "于正回应莲花楼剧粉",
+        "onboard_time": 1726637960,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117775,
+        "num": 417724,
+        "word": "生育困难和预约人流病人成计生科室主力",
+        "onboard_time": 1726642219,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445695,
+        "num": 414099,
+        "word": "校长说学生讨厌获学生全体鼓掌",
+        "onboard_time": 1726642879,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414004,
+        "num": 414004,
+        "word": "黎巴嫩",
+        "onboard_time": 1726617920,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 403873,
+        "num": 403873,
+        "word": "三只羊授权直播间主播被骂沉默",
+        "onboard_time": 1726630640,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390561,
+        "num": 390561,
+        "word": "古茗",
+        "onboard_time": 1726637361,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 370013,
+        "num": 370013,
+        "word": "小猫被绑四肢从高楼丢下当场死亡",
+        "onboard_time": 1726644200,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340391,
+        "num": 340391,
+        "word": "女租客5年没扔垃圾房东崩溃",
+        "onboard_time": 1726634482,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312240,
+        "num": 312240,
+        "word": "杭州13岁女生每天一杯奶茶牙被腐蚀",
+        "onboard_time": 1726641919,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239233,
+        "num": 291273,
+        "word": "田嘉瑞一个人搬了21件行李",
+        "onboard_time": 1726642999,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170553,
+        "num": 288201,
+        "word": "赵晓卉吐槽PPT还是太全面了",
+        "onboard_time": 1726641680,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211505,
+        "num": 287516,
+        "word": "雷兰曦爆冷奥运冠军",
+        "onboard_time": 1726643299,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287168,
+        "num": 287168,
+        "word": "网友向女子转账98万让帮买黄金",
+        "onboard_time": 1726639399,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275157,
+        "num": 275157,
+        "word": "台风普拉桑速度堪比飞毛腿",
+        "onboard_time": 1726641139,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257528,
+        "num": 257528,
+        "word": "王俊凯弟弟",
+        "onboard_time": 1726616779,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249788,
+        "num": 249788,
+        "word": "918鸣笛",
+        "onboard_time": 1726623440,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 238772,
+        "num": 238772,
+        "word": "王楚钦孙颖莎男女单世界第一",
+        "onboard_time": 1726643659,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213422,
+        "num": 213422,
+        "word": "3年赚102万外卖小哥疑车祸住院",
+        "onboard_time": 1726638381,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61597,
+        "num": 204042,
+        "word": "遗忘在妈妈身体里的节育环",
+        "onboard_time": 1726643058,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203473,
+        "num": 203473,
+        "word": "电影731官宣定档",
+        "onboard_time": 1726632561,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185369,
+        "num": 185369,
+        "word": "今天他们宣誓誓死保卫祖国",
+        "onboard_time": 1726644739,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 185157,
+        "num": 185157,
+        "word": "A股盘中失守2700点",
+        "onboard_time": 1726639941,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 183983,
+        "num": 183983,
+        "word": "中方对涉对台军售美国企业采取反制",
+        "onboard_time": 1726644739,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171267,
+        "num": 171267,
+        "word": "官方回应眉山一妇产医院违法代孕",
+        "onboard_time": 1726640719,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168923,
+        "num": 168923,
+        "word": "月薪从10万降到7万投行女高管讨薪",
+        "onboard_time": 1726626800,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156502,
+        "num": 156502,
+        "word": "广州通报美诚月饼事件",
+        "onboard_time": 1726633041,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148344,
+        "num": 148344,
+        "word": "黄景瑜演技",
+        "onboard_time": 1726644678,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152432,
+        "num": 146548,
+        "word": "小杨哥所售茅台曾被茅台官方打假",
+        "onboard_time": 1726644498,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143729,
+        "num": 143729,
+        "word": "老人大半辈子积蓄埋土里被虫咬成碎片",
+        "onboard_time": 1726630220,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140501,
+        "num": 140501,
+        "word": "iOS18",
+        "onboard_time": 1726641797,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 139276,
+        "num": 139276,
+        "word": "断眉官宣结婚",
+        "onboard_time": 1726624818,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136501,
+        "num": 136501,
+        "word": "侯明昊以前是SM练习生",
+        "onboard_time": 1726636042,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队淬火向前#"
+    }
+  }
+}
