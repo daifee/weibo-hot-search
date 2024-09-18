@@ -1,6 +1,6 @@
 {
   "startTime": 1726590451835,
-  "endTime": 1726648799987,
+  "endTime": 1726651472832,
   "band_list": [
     {
       "raw_hot": 8853103,
@@ -9,6 +9,14 @@
       "onboard_time": 1726630640,
       "rank": 22,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2980963,
+      "num": 474332,
+      "word": "老人捡蜗牛吃身亡2守灵者吃后也死",
+      "onboard_time": 1726648641,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2616285,
@@ -91,6 +99,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1663518,
+      "num": 1026655,
+      "word": "王暖暖不打算公布孩子父亲",
+      "onboard_time": 1726646358,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1550798,
       "num": 1550798,
       "word": "黎巴嫩BP机爆炸9死2800伤",
@@ -155,6 +171,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1136617,
+      "num": 1136617,
+      "word": "小英 孩子",
+      "onboard_time": 1726650740,
+      "rank": 1,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1110468,
       "num": 1110468,
       "word": "苹果变安卓",
@@ -195,19 +219,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1018995,
+      "num": 1018995,
+      "word": "杜海涛李佳琦淘汰",
+      "onboard_time": 1726647081,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 976675,
       "num": 877026,
       "word": "三只羊授权直播间主播被骂沉默",
       "onboard_time": 1726630640,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 974492,
-      "num": 571263,
-      "word": "王暖暖不打算公布孩子父亲",
-      "onboard_time": 1726646358,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -259,12 +283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 850220,
-      "num": 575551,
-      "word": "杜海涛李佳琦淘汰",
-      "onboard_time": 1726647081,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 823542,
+      "num": 823542,
+      "word": "外交部回应辽宁舰进入日本冲绳地区",
+      "onboard_time": 1726648340,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 820151,
@@ -379,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 597754,
+      "num": 597754,
+      "word": "小米三折叠手机专利曝光",
+      "onboard_time": 1726647319,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 593288,
       "num": 593646,
       "word": "电影731官宣定档",
@@ -401,6 +433,14 @@
       "onboard_time": 1726581141,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 547761,
+      "num": 547761,
+      "word": "黄晓明和小海绵一起过中秋",
+      "onboard_time": 1726643479,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 523545,
@@ -515,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 450694,
+      "num": 450694,
+      "word": "14岁时的孙颖莎",
+      "onboard_time": 1726647500,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 445695,
       "num": 434389,
       "word": "校长说学生讨厌获学生全体鼓掌",
@@ -579,14 +627,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 397819,
-      "num": 397819,
-      "word": "14岁时的孙颖莎",
-      "onboard_time": 1726647500,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 394695,
       "num": 394695,
       "word": "玉兔二号又皮了一下",
@@ -611,6 +651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 362302,
+      "num": 456098,
+      "word": "肖战 端水大师",
+      "onboard_time": 1726650619,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 357481,
       "num": 357481,
       "word": "杨紫代言MK",
@@ -633,14 +681,6 @@
       "onboard_time": 1726644739,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 346737,
-      "num": 346737,
-      "word": "小米三折叠手机专利曝光",
-      "onboard_time": 1726647319,
-      "rank": 42,
-      "category": "数码"
     },
     {
       "raw_hot": 346709,
@@ -708,7 +748,7 @@
     },
     {
       "raw_hot": 313518,
-      "num": 313518,
+      "num": 462727,
       "word": "湖南博物院称辛追夫人棺椁未被手机砸中",
       "onboard_time": 1726646479,
       "rank": 31,
@@ -753,6 +793,22 @@
       "onboard_time": 1726588399,
       "rank": 38,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 297382,
+      "num": 455288,
+      "word": "娜扎 黑T牛仔裤的硬美",
+      "onboard_time": 1726650140,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 294983,
+      "num": 294983,
+      "word": "存多少钱才能靠利息生活",
+      "onboard_time": 1726650499,
+      "rank": 25,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 294909,
@@ -832,6 +888,22 @@
       "word": "张雪峰回应研究生数量超本科生",
       "onboard_time": 1726629200,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264502,
+      "num": 264502,
+      "word": "真的不建议随便设微信铃声",
+      "onboard_time": 1726646539,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 262737,
+      "num": 262737,
+      "word": "三只羊",
+      "onboard_time": 1726617920,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -915,14 +987,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 247126,
-      "num": 247126,
-      "word": "真的不建议随便设微信铃声",
-      "onboard_time": 1726646539,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 245743,
       "num": 245743,
       "word": "小杨哥已近一个月未更新视频",
@@ -971,14 +1035,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 235020,
-      "num": 235020,
-      "word": "三只羊",
-      "onboard_time": 1726617920,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 233928,
       "num": 474489,
       "word": "2种方式可能让黎巴嫩BP机大量爆炸",
@@ -1011,20 +1067,28 @@
       "category": "财经"
     },
     {
-      "raw_hot": 228900,
-      "num": 228900,
-      "word": "老人捡蜗牛吃身亡2守灵者吃后也死",
-      "onboard_time": 1726648641,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 227871,
       "num": 227871,
       "word": "张雪峰力挺兰州大学",
       "onboard_time": 1726629260,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227265,
+      "num": 227265,
+      "word": "人均消费过百烧鸟为何成地摊刺客",
+      "onboard_time": 1726648101,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220712,
+      "num": 193814,
+      "word": "三只羊直播间观看人数破万",
+      "onboard_time": 1726650200,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 220123,
@@ -1123,14 +1187,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 199074,
-      "num": 199074,
-      "word": "外交部回应辽宁舰进入日本冲绳地区",
-      "onboard_time": 1726648340,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 198865,
       "num": 198865,
       "word": "918防空警报",
@@ -1195,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181539,
+      "num": 181539,
+      "word": "中秋假期国内1.07亿人次出游",
+      "onboard_time": 1726641860,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 179299,
       "num": 179299,
       "word": "三只羊茅台供应商回应",
@@ -1243,20 +1307,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 168298,
+      "num": 168298,
+      "word": "华为Mate70或11月底发布",
+      "onboard_time": 1726651280,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 167483,
       "num": 169966,
       "word": "iOS通话录音功能支持老款iPhone",
       "onboard_time": 1726633461,
       "rank": 49,
       "category": "数码"
-    },
-    {
-      "raw_hot": 165796,
-      "num": 165796,
-      "word": "人均消费过百烧鸟为何成地摊刺客",
-      "onboard_time": 1726648101,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165201,
@@ -1323,6 +1387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 156968,
+      "num": 156968,
+      "word": "徐冬冬再念不对尹子维就要撕票了",
+      "onboard_time": 1726651459,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156365,
       "num": 156365,
       "word": "EDG拒绝和解",
@@ -1379,12 +1451,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152687,
-      "num": 152687,
-      "word": "中秋假期国内1.07亿人次出游",
-      "onboard_time": 1726641860,
-      "rank": 48,
-      "category": "旅游"
+      "raw_hot": 153776,
+      "num": 1030018,
+      "word": "大数据看中秋假期出游",
+      "onboard_time": 1726649478,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152513,
@@ -1657,6 +1729,14 @@
       "onboard_time": 1726589238,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108451,
+      "num": 267574,
+      "word": "吴谨言洪尧婚戒设计图",
+      "onboard_time": 1726650260,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 107901,
@@ -1979,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39956,
+      "num": 264922,
+      "word": "雷兰曦说赢在每一分都去拼",
+      "onboard_time": 1726650858,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36446,
       "num": 36446,
       "word": "疑似意图暗杀特朗普的嫌疑人出庭",
@@ -1993,6 +2081,14 @@
       "onboard_time": 1726647921,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34945,
+      "num": 474386,
+      "word": "律师称三只羊或面临4方面追责",
+      "onboard_time": 1726650981,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34780,
@@ -2072,6 +2168,14 @@
       "word": "培训机构预付费资金托管形同虚设",
       "onboard_time": 1726629980,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25325,
+      "num": 452289,
+      "word": "药房老板违规卖复方曲马多片被控贩毒",
+      "onboard_time": 1726651040,
+      "rank": 19,
       "category": "社会新闻"
     },
     {

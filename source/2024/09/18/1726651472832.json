@@ -1,0 +1,410 @@
+{
+  "runTime": 1726651472832,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1771961,
+        "num": 1771961,
+        "word": "2万买的金镯子清洗时被告知是假货",
+        "onboard_time": 1726646298,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1136617,
+        "num": 1136617,
+        "word": "小英 孩子",
+        "onboard_time": 1726650740,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 153776,
+        "num": 1030018,
+        "word": "大数据看中秋假期出游",
+        "onboard_time": 1726649478,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1663518,
+        "num": 1026655,
+        "word": "王暖暖不打算公布孩子父亲",
+        "onboard_time": 1726646358,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1018995,
+        "num": 1018995,
+        "word": "杜海涛李佳琦淘汰",
+        "onboard_time": 1726647081,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 823542,
+        "num": 823542,
+        "word": "外交部回应辽宁舰进入日本冲绳地区",
+        "onboard_time": 1726648340,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 597754,
+        "num": 597754,
+        "word": "小米三折叠手机专利曝光",
+        "onboard_time": 1726647319,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 547761,
+        "num": 547761,
+        "word": "黄晓明和小海绵一起过中秋",
+        "onboard_time": 1726643479,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395137,
+        "num": 475437,
+        "word": "美媒称爆炸寻呼机产自台湾",
+        "onboard_time": 1726625780,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 34945,
+        "num": 474386,
+        "word": "律师称三只羊或面临4方面追责",
+        "onboard_time": 1726650981,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2980963,
+        "num": 474332,
+        "word": "老人捡蜗牛吃身亡2守灵者吃后也死",
+        "onboard_time": 1726648641,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474246,
+        "num": 474246,
+        "word": "用人民币感受冰岛的物价",
+        "onboard_time": 1726640420,
+        "rank": 11,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 927288,
+        "num": 473110,
+        "word": "9岁女童在病房被猥亵",
+        "onboard_time": 1726645519,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468444,
+        "num": 468444,
+        "word": "伊能静儿子恩利再穿女装",
+        "onboard_time": 1726638979,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203809,
+        "num": 462727,
+        "word": "湖南博物院称辛追夫人棺椁未被手机砸中",
+        "onboard_time": 1726646479,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457226,
+        "num": 457226,
+        "word": "美方否认参与黎巴嫩BP机爆炸",
+        "onboard_time": 1726629620,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 362302,
+        "num": 456098,
+        "word": "肖战 端水大师",
+        "onboard_time": 1726650619,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297382,
+        "num": 455288,
+        "word": "娜扎 黑T牛仔裤的硬美",
+        "onboard_time": 1726650140,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238414,
+        "num": 452502,
+        "word": "杨紫 MK",
+        "onboard_time": 1726643778,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25325,
+        "num": 452289,
+        "word": "药房老板违规卖复方曲马多片被控贩毒",
+        "onboard_time": 1726651040,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450694,
+        "num": 450694,
+        "word": "14岁时的孙颖莎",
+        "onboard_time": 1726647500,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 953753,
+        "num": 441377,
+        "word": "曾志伟看小杨哥带货美诚月饼表情",
+        "onboard_time": 1726630640,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409836,
+        "num": 409836,
+        "word": "台风普拉桑",
+        "onboard_time": 1726627580,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314420,
+        "num": 314420,
+        "word": "校长说学生讨厌获学生全体鼓掌",
+        "onboard_time": 1726642879,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309544,
+        "num": 309544,
+        "word": "小猫被绑四肢从高楼丢下当场死亡",
+        "onboard_time": 1726644200,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294983,
+        "num": 294983,
+        "word": "存多少钱才能靠利息生活",
+        "onboard_time": 1726650499,
+        "rank": 25,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 284130,
+        "num": 284130,
+        "word": "12306回应上百人有票没座",
+        "onboard_time": 1726638800,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108451,
+        "num": 267574,
+        "word": "吴谨言洪尧婚戒设计图",
+        "onboard_time": 1726650260,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211210,
+        "num": 265807,
+        "word": "韩安冉回应网红收入",
+        "onboard_time": 1726638501,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 39956,
+        "num": 264922,
+        "word": "雷兰曦说赢在每一分都去拼",
+        "onboard_time": 1726650858,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264502,
+        "num": 264502,
+        "word": "真的不建议随便设微信铃声",
+        "onboard_time": 1726646539,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262737,
+        "num": 262737,
+        "word": "三只羊",
+        "onboard_time": 1726648699,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 227265,
+        "num": 227265,
+        "word": "人均消费过百烧鸟为何成地摊刺客",
+        "onboard_time": 1726648101,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242660,
+        "num": 218370,
+        "word": "美诚月饼晒车间回应小作坊质疑",
+        "onboard_time": 1726637960,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201381,
+        "num": 201381,
+        "word": "台风普拉桑速度堪比飞毛腿",
+        "onboard_time": 1726641139,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231022,
+        "num": 198990,
+        "word": "三只羊授权直播间主播被骂沉默",
+        "onboard_time": 1726630640,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194682,
+        "num": 194682,
+        "word": "杭州13岁女生每天一杯奶茶牙被腐蚀",
+        "onboard_time": 1726641919,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220712,
+        "num": 193814,
+        "word": "三只羊直播间观看人数破万",
+        "onboard_time": 1726650200,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 192784,
+        "num": 192784,
+        "word": "丁海寅点赞女网红",
+        "onboard_time": 1726639641,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181539,
+        "num": 181539,
+        "word": "中秋假期国内1.07亿人次出游",
+        "onboard_time": 1726641860,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173602,
+        "num": 173602,
+        "word": "亚当剃胡子了",
+        "onboard_time": 1726641979,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173488,
+        "num": 173488,
+        "word": "古茗玩梗翻车致歉",
+        "onboard_time": 1726642458,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 168298,
+        "num": 168298,
+        "word": "华为Mate70或11月底发布",
+        "onboard_time": 1726651280,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 167199,
+        "num": 167199,
+        "word": "网友向女子转账98万让帮买黄金",
+        "onboard_time": 1726639399,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166413,
+        "num": 166413,
+        "word": "黎巴嫩",
+        "onboard_time": 1726617920,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 162549,
+        "num": 162549,
+        "word": "女租客5年没扔垃圾房东崩溃",
+        "onboard_time": 1726634482,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156968,
+        "num": 156968,
+        "word": "徐冬冬再念不对尹子维就要撕票了",
+        "onboard_time": 1726651459,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156144,
+        "num": 156144,
+        "word": "918鸣笛",
+        "onboard_time": 1726623440,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156024,
+        "num": 156024,
+        "word": "古茗送1000张免单券致歉",
+        "onboard_time": 1726646059,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 140420,
+        "num": 155931,
+        "word": "Jennie打乒乓球",
+        "onboard_time": 1726638259,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队淬火向前#"
+    }
+  }
+}
