@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/18 16:26:13
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/18 16:39:59
 </p>
 </blockquote>
 <p>
@@ -471,6 +471,12 @@ WTT 卖不出票（热度：2354423）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232%E4%B8%87%E4%B9%B0%E7%9A%84%E9%87%91%E9%95%AF%E5%AD%90%E6%B8%85%E6%B4%97%E6%97%B6%E8%A2%AB%E5%91%8A%E7%9F%A5%E6%98%AF%E5%81%87%E8%B4%A7%23" target="weibo">
+2万买的金镯子清洗时被告知是假货（热度：2344176）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%85%E5%AE%A2%E6%89%A7%E6%84%8F%E5%B0%86%E9%95%BF%E6%BB%A1%E7%96%99%E7%98%A9%E7%9A%84%E8%84%9A%E6%94%BE%E5%B0%8F%E6%A1%8C%E6%9D%BF%E4%B8%8A%23" target="weibo">
 旅客执意将长满疙瘩的脚放小桌板上（热度：2342643）
 </a>
@@ -713,12 +719,6 @@ Apple发布会（热度：2017612）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E9%A2%86%E5%85%88%23" target="weibo">
 国足领先（热度：1988461）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232%E4%B8%87%E4%B9%B0%E7%9A%84%E9%87%91%E9%95%AF%E5%AD%90%E6%B8%85%E6%B4%97%E6%97%B6%E8%A2%AB%E5%91%8A%E7%9F%A5%E6%98%AF%E5%81%87%E8%B4%A7%23" target="weibo">
-2万买的金镯子清洗时被告知是假货（热度：1976872）
 </a>
 </li>
 
@@ -2289,6 +2289,12 @@ iOS18 丑（热度：1239435）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%239%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%9C%A8%E7%97%85%E6%88%BF%E8%A2%AB%E7%8C%A5%E4%BA%B5%23" target="weibo">
+9岁女童在病房被猥亵（热度：1217858）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B8%BB%E8%A2%AB%E7%94%B7%E4%B8%BB%E6%8D%85%E4%BA%86%23" target="weibo">
 女主被男主捅了（热度：1217767）
 </a>
@@ -3291,12 +3297,6 @@ iPhone16定价（热度：1011795）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%239%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%9C%A8%E7%97%85%E6%88%BF%E8%A2%AB%E7%8C%A5%E4%BA%B5%23" target="weibo">
-9岁女童在病房被猥亵（热度：984110）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E6%A0%BC%E6%96%97%E5%A5%B3%E8%BF%90%E5%8A%A8%E5%91%98%E9%81%AD%E7%8C%A5%E4%BA%B5%23" target="weibo">
 警方回应格斗女运动员遭猥亵（热度：982333）
 </a>
@@ -3365,6 +3365,12 @@ iPhone16定价（热度：1011795）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%B9%E4%BC%AF%E8%B4%A4%E5%AE%A4%E5%86%85%E5%90%B8%E7%83%9F%23" target="weibo">
 边伯贤室内吸烟（热度：974764）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9A%96%E6%9A%96%E4%B8%8D%E6%89%93%E7%AE%97%E5%85%AC%E5%B8%83%E5%AD%A9%E5%AD%90%E7%88%B6%E4%BA%B2%23" target="weibo">
+王暖暖不打算公布孩子父亲（热度：974492）
 </a>
 </li>
 
@@ -4139,6 +4145,12 @@ Angelababy鞠躬感谢粉丝（热度：852648）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%8B%B1%E8%AF%AD%E6%96%B0%E6%95%99%E6%9D%90%E5%AE%B6%E9%95%BF%E9%83%BD%E6%87%B5%E4%BA%86%23" target="weibo">
 小学三年级英语新教材家长都懵了（热度：850677）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%E6%9D%8E%E4%BD%B3%E7%90%A6%E6%B7%98%E6%B1%B0%23" target="weibo">
+杜海涛李佳琦淘汰（热度：850220）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ iPhone16或成苹果最具争议手机（热度：644034）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E4%BD%93%E6%A3%80%E4%B8%BE%E7%85%8E%E9%A5%BC%E6%8A%BD%E8%A1%80%E4%B8%80%E6%8B%94%E9%92%88%E7%A7%92%E5%BC%80%E9%A5%AD%23" target="weibo">
 男生体检举煎饼抽血一拔针秒开饭（热度：637582）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%82%A8%E7%9A%84%E6%81%B6%E4%BA%86%E4%B9%88%E8%AE%A2%E5%8D%95%E5%8D%B3%E5%B0%86%E9%80%81%E8%BE%BE%23" target="weibo">
-您的恶了么订单即将送达（热度：636789）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%92%E7%BE%BD%E6%B7%B7%E5%8F%8C%E5%A4%A7%E9%AD%94%E7%8E%8B%20%E5%90%91%E4%BD%A0%E5%BC%80%E7%82%AE%23" target="weibo">
-乒羽混双大魔王 向你开炮（热度：636669）
 </a>
 </li>
 
