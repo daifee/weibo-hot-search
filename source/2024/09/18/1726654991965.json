@@ -1,0 +1,410 @@
+{
+  "runTime": 1726654991965,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2588422,
+        "num": 2588422,
+        "word": "小英 孩子",
+        "onboard_time": 1726650740,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1022369,
+        "num": 1022369,
+        "word": "2万买的金镯子清洗时被告知是假货",
+        "onboard_time": 1726646298,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150806,
+        "num": 805186,
+        "word": "大数据看中秋假期出游",
+        "onboard_time": 1726649478,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1205977,
+        "num": 763391,
+        "word": "吴谨言洪尧婚戒设计图",
+        "onboard_time": 1726650260,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 713453,
+        "num": 713453,
+        "word": "王暖暖不打算公布孩子父亲",
+        "onboard_time": 1726646358,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637611,
+        "num": 637611,
+        "word": "外交部回应辽宁舰进入日本冲绳地区",
+        "onboard_time": 1726648340,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 520408,
+        "num": 520408,
+        "word": "杜海涛李佳琦淘汰",
+        "onboard_time": 1726647081,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275703,
+        "num": 516624,
+        "word": "美媒称爆炸寻呼机产自台湾",
+        "onboard_time": 1726625780,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 188763,
+        "num": 509688,
+        "word": "台风普拉桑速度堪比飞毛腿",
+        "onboard_time": 1726641139,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44926,
+        "num": 500801,
+        "word": "武装人员使用寻呼机为避免位置追踪",
+        "onboard_time": 1726653919,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1649804,
+        "num": 495177,
+        "word": "老人捡蜗牛吃身亡2守灵者吃后也死",
+        "onboard_time": 1726648641,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 930735,
+        "num": 488110,
+        "word": "宝妈不认识金条开口就要买11万的",
+        "onboard_time": 1726651759,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485294,
+        "num": 485294,
+        "word": "9岁女童在病房被猥亵",
+        "onboard_time": 1726645519,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399226,
+        "num": 399226,
+        "word": "小米三折叠手机专利曝光",
+        "onboard_time": 1726647319,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 26982,
+        "num": 393844,
+        "word": "美诚月饼在多平台下架",
+        "onboard_time": 1726653740,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389849,
+        "num": 389849,
+        "word": "肖战 端水大师",
+        "onboard_time": 1726650619,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382090,
+        "num": 382090,
+        "word": "美方否认参与黎巴嫩BP机爆炸",
+        "onboard_time": 1726629620,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 377404,
+        "num": 377404,
+        "word": "龙飞律师",
+        "onboard_time": 1726654220,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 356630,
+        "num": 356630,
+        "word": "黄晓明和小海绵一起过中秋",
+        "onboard_time": 1726643479,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38073,
+        "num": 334736,
+        "word": "美诚月饼背后公司暂无违法行为",
+        "onboard_time": 1726654339,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924508,
+        "num": 332554,
+        "word": "存多少钱才能靠利息生活",
+        "onboard_time": 1726650499,
+        "rank": 20,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 606195,
+        "num": 330708,
+        "word": "曾志伟看小杨哥带货美诚月饼表情",
+        "onboard_time": 1726630640,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326365,
+        "num": 326365,
+        "word": "保龄球场偶遇黄冠亨黄旭熙",
+        "onboard_time": 1726653259,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324290,
+        "num": 324290,
+        "word": "用人民币感受冰岛的物价",
+        "onboard_time": 1726640420,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 322120,
+        "num": 322120,
+        "word": "在世最长寿猫去世",
+        "onboard_time": 1726652429,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283114,
+        "num": 283114,
+        "word": "特百惠申请已破产保护",
+        "onboard_time": 1726653080,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 269505,
+        "num": 269505,
+        "word": "校方回应学生晚11点后如厕被定违纪",
+        "onboard_time": 1726651820,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261538,
+        "num": 261538,
+        "word": "青岛地铁站吃瓜瓜瓜炸裂",
+        "onboard_time": 1726653859,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234687,
+        "num": 234687,
+        "word": "娜扎 黑T牛仔裤的硬美",
+        "onboard_time": 1726650140,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197510,
+        "num": 225382,
+        "word": "徐冬冬再念不对尹子维就要撕票了",
+        "onboard_time": 1726651459,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252426,
+        "num": 225268,
+        "word": "伊能静儿子恩利再穿女装",
+        "onboard_time": 1726638979,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224361,
+        "num": 224361,
+        "word": "台风普拉桑",
+        "onboard_time": 1726627580,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191154,
+        "num": 221485,
+        "word": "下一战歌手第四期新声阵容",
+        "onboard_time": 1726653680,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221363,
+        "num": 221363,
+        "word": "14岁时的孙颖莎",
+        "onboard_time": 1726647500,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206291,
+        "num": 216692,
+        "word": "汪顺灰色西装造型",
+        "onboard_time": 1726654579,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216591,
+        "num": 216591,
+        "word": "小猫被绑四肢从高楼丢下当场死亡",
+        "onboard_time": 1726644200,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208748,
+        "num": 208748,
+        "word": "校长说学生讨厌获学生全体鼓掌",
+        "onboard_time": 1726642879,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206691,
+        "num": 206691,
+        "word": "真的不建议随便设微信铃声",
+        "onboard_time": 1726646539,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163591,
+        "num": 163591,
+        "word": "于正辟谣和霍思燕绝交",
+        "onboard_time": 1726651698,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156691,
+        "num": 156691,
+        "word": "三只羊直播间观看人数破万",
+        "onboard_time": 1726650200,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 150445,
+        "num": 150445,
+        "word": "杭州13岁女生每天一杯奶茶牙被腐蚀",
+        "onboard_time": 1726641919,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155676,
+        "num": 146291,
+        "word": "三只羊授权直播间主播被骂沉默",
+        "onboard_time": 1726630640,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141326,
+        "num": 141326,
+        "word": "丁海寅点赞女网红",
+        "onboard_time": 1726639641,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136782,
+        "num": 136782,
+        "word": "风是风 狗是狗",
+        "onboard_time": 1726654579,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135575,
+        "num": 135575,
+        "word": "侯明昊肉眼可见的局促了",
+        "onboard_time": 1726653320,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135558,
+        "num": 135558,
+        "word": "美诚月饼晒车间回应小作坊质疑",
+        "onboard_time": 1726637960,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134257,
+        "num": 134257,
+        "word": "12306回应上百人有票没座",
+        "onboard_time": 1726638800,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132084,
+        "num": 132084,
+        "word": "人均消费过百烧鸟为何成地摊刺客",
+        "onboard_time": 1726648101,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131976,
+        "num": 131976,
+        "word": "律师称三只羊或面临4方面追责",
+        "onboard_time": 1726650981,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131492,
+        "num": 131492,
+        "word": "湖南博物院称辛追夫人棺椁未被手机砸中",
+        "onboard_time": 1726646479,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队淬火向前#"
+    }
+  }
+}
