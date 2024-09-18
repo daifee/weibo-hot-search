@@ -1,6 +1,6 @@
 {
   "startTime": 1726590451835,
-  "endTime": 1726627672009,
+  "endTime": 1726628236400,
   "band_list": [
     {
       "raw_hot": 2616285,
@@ -43,7 +43,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1434678,
+      "raw_hot": 1458046,
       "num": 846874,
       "word": "王俊凯弟弟",
       "onboard_time": 1726616779,
@@ -123,6 +123,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 841602,
+      "num": 469692,
+      "word": "月薪从10万降到7万投行女高管讨薪",
+      "onboard_time": 1726626800,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 826528,
+      "num": 514860,
+      "word": "医生谈张馨予高原跳舞后又晕又吐",
+      "onboard_time": 1726626918,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 820151,
       "num": 820151,
       "word": "勿忘九一八",
@@ -179,12 +195,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 560807,
-      "num": 469692,
-      "word": "月薪从10万降到7万投行女高管讨薪",
-      "onboard_time": 1726626800,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 558994,
+      "num": 558994,
+      "word": "沈阳举行撞钟鸣警仪式",
+      "onboard_time": 1726624579,
+      "rank": 11,
+      "category": "国内时政"
     },
     {
       "raw_hot": 552879,
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 523545,
-      "num": 534284,
+      "num": 536816,
       "word": "九一八历史博物馆鸣警撞钟仪式",
       "onboard_time": 1726623199,
       "rank": 36,
@@ -209,14 +225,6 @@
       "onboard_time": 1726591996,
       "rank": 12,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 504581,
-      "num": 530753,
-      "word": "沈阳举行撞钟鸣警仪式",
-      "onboard_time": 1726624579,
-      "rank": 11,
-      "category": "国内时政"
     },
     {
       "raw_hot": 494399,
@@ -233,14 +241,6 @@
       "onboard_time": 1726581683,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 481084,
-      "num": 481084,
-      "word": "医生谈张馨予高原跳舞后又晕又吐",
-      "onboard_time": 1726626918,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 466995,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 417729,
+      "num": 417729,
+      "word": "台风普拉桑",
+      "onboard_time": 1726627580,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 408063,
       "num": 564583,
       "word": "唐嫣宋慧乔秀场同框",
@@ -305,6 +313,14 @@
       "onboard_time": 1726623199,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 360570,
+      "num": 360570,
+      "word": "专家建议所有的城镇房屋都应该交税",
+      "onboard_time": 1726627220,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357481,
@@ -475,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247221,
+      "num": 247221,
+      "word": "苹果客服回应iOS18相册被吐槽",
+      "onboard_time": 1726627399,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 245743,
       "num": 245743,
       "word": "小杨哥已近一个月未更新视频",
@@ -483,12 +507,12 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 240094,
-      "num": 240094,
-      "word": "台风普拉桑",
-      "onboard_time": 1726627580,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 233928,
+      "num": 474489,
+      "word": "2种方式可能让黎巴嫩BP机大量爆炸",
+      "onboard_time": 1726625302,
+      "rank": 20,
+      "category": "国外时政"
     },
     {
       "raw_hot": 232566,
@@ -496,14 +520,6 @@
       "word": "山东男孩小区门口殴打母亲被民警带走",
       "onboard_time": 1726576881,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 226888,
-      "num": 226888,
-      "word": "专家建议所有的城镇房屋都应该交税",
-      "onboard_time": 1726627220,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -531,28 +547,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 192127,
-      "num": 192127,
-      "word": "沈阳全城拉响防空警报",
-      "onboard_time": 1726624040,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190728,
-      "num": 190728,
+      "raw_hot": 208595,
+      "num": 208595,
       "word": "开封中小学幼儿园台风停课",
       "onboard_time": 1726624579,
       "rank": 43,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190117,
-      "num": 189480,
-      "word": "苹果客服回应iOS18相册被吐槽",
-      "onboard_time": 1726627399,
-      "rank": 45,
-      "category": "数码"
+      "raw_hot": 192127,
+      "num": 192127,
+      "word": "沈阳全城拉响防空警报",
+      "onboard_time": 1726624040,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189509,
@@ -563,12 +571,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 186478,
+      "num": 186478,
+      "word": "女子80元预约通马桶结账超1000",
+      "onboard_time": 1726627159,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186139,
+      "num": 186139,
+      "word": "有一种放假叫做虚假假期",
+      "onboard_time": 1726627940,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185347,
       "num": 185347,
       "word": "未拆封月饼少了半块五仁变五一",
       "onboard_time": 1726615517,
       "rank": 33,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 185212,
+      "num": 185212,
+      "word": "三只羊客服回应停播",
+      "onboard_time": 1726626681,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181219,
@@ -667,6 +699,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 151757,
+      "num": 378194,
+      "word": "三只羊复播",
+      "onboard_time": 1726627820,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 151716,
       "num": 151716,
       "word": "玉兔二号带来特殊中秋礼物",
@@ -697,14 +737,6 @@
       "onboard_time": 1726571840,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 145594,
-      "num": 474489,
-      "word": "2种方式可能让黎巴嫩BP机大量爆炸",
-      "onboard_time": 1726625302,
-      "rank": 20,
-      "category": "国外时政"
     },
     {
       "raw_hot": 145204,
