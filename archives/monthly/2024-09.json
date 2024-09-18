@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726679961754,
+  "endTime": 1726681033143,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -43371,6 +43371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108686,
+      "num": 98415,
+      "word": "刘美含 我不是明星",
+      "onboard_time": 1726677136,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108626,
       "num": 108626,
       "word": "男子退休第2天离家出走拒绝回家",
@@ -44521,14 +44529,6 @@
       "onboard_time": 1725605901,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98147,
-      "num": 98147,
-      "word": "刘美含 我不是明星",
-      "onboard_time": 1726677136,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 98099,
@@ -47387,6 +47387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62770,
+      "num": 62770,
+      "word": "曹杨上歌手是周杰伦推荐的吧",
+      "onboard_time": 1726678336,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 62752,
       "num": 62752,
       "word": "中秋假期杭州将有大雨暴雨大暴雨",
@@ -47553,14 +47561,6 @@
       "onboard_time": 1725389892,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 60623,
-      "num": 60623,
-      "word": "曹杨上歌手是周杰伦推荐的吧",
-      "onboard_time": 1726678336,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 60608,
@@ -48417,6 +48417,14 @@
       "onboard_time": 1726326443,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52180,
+      "num": 52180,
+      "word": "卢昱晓素颜上班",
+      "onboard_time": 1726680015,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 52135,
@@ -49528,6 +49536,14 @@
       "word": "李白发博祝广大学子新学期日有所进",
       "onboard_time": 1725273021,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44510,
+      "num": 44510,
+      "word": "父女看打铁花表演被烫伤",
+      "onboard_time": 1726680614,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
