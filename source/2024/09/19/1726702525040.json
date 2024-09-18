@@ -1,0 +1,410 @@
+{
+  "runTime": 1726702525040,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2103305,
+        "num": 2103305,
+        "word": "降息",
+        "onboard_time": 1726669823,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1980624,
+        "num": 1980624,
+        "word": "女子58页PPT举报管培生男友嫖娼",
+        "onboard_time": 1726686911,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63642,
+        "num": 1014516,
+        "word": "中秋假期数据盘点",
+        "onboard_time": 1726675639,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687643,
+        "num": 687643,
+        "word": "张雨绮疑似被换角",
+        "onboard_time": 1726701436,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 631184,
+        "num": 631184,
+        "word": "黎巴嫩又发生对讲机爆炸",
+        "onboard_time": 1726675279,
+        "rank": 4,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 478010,
+        "num": 478010,
+        "word": "合肥地震",
+        "onboard_time": 1726661786,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463463,
+        "num": 463463,
+        "word": "小英名下关联4家企业",
+        "onboard_time": 1726681093,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 439028,
+        "num": 439028,
+        "word": "挣102万外卖员出车祸朋友发声",
+        "onboard_time": 1726670421,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361617,
+        "num": 361617,
+        "word": "校方已退还如厕被定违纪学生打印费",
+        "onboard_time": 1726687631,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357792,
+        "num": 357792,
+        "word": "张翰朴敏英9年前的剧播了",
+        "onboard_time": 1726667001,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 388234,
+        "num": 342157,
+        "word": "老人捡蜗牛吃身亡2守灵者吃后也死",
+        "onboard_time": 1726648641,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294169,
+        "num": 294169,
+        "word": "父女看打铁花表演被烫伤",
+        "onboard_time": 1726680614,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269210,
+        "num": 269210,
+        "word": "室友电瓶爆燃大三男生全身90%烧伤",
+        "onboard_time": 1726662090,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255322,
+        "num": 255322,
+        "word": "杭州震感明显",
+        "onboard_time": 1726662628,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236052,
+        "num": 236052,
+        "word": "叶珂 钻戒",
+        "onboard_time": 1726668203,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226082,
+        "num": 226082,
+        "word": "人均3000元餐厅主厨代言美诚月饼",
+        "onboard_time": 1726658480,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225323,
+        "num": 225323,
+        "word": "关晓彤黄景瑜吻戏路透",
+        "onboard_time": 1726701436,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218481,
+        "num": 218481,
+        "word": "石班瑜因心脏骤停去世",
+        "onboard_time": 1726667421,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198296,
+        "num": 198296,
+        "word": "美联储",
+        "onboard_time": 1726669042,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 183399,
+        "num": 183399,
+        "word": "凡人歌为了这句话铺垫36集",
+        "onboard_time": 1726668203,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210412,
+        "num": 181177,
+        "word": "离婚后妻子要求分割婆婆买的房子",
+        "onboard_time": 1726701498,
+        "rank": 20,
+        "category": "社会新闻,剧集"
+      },
+      {
+        "raw_hot": 172304,
+        "num": 172304,
+        "word": "三只羊别再玩文字游戏了",
+        "onboard_time": 1726670362,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 158813,
+        "num": 158813,
+        "word": "合肥4.7级地震",
+        "onboard_time": 1726662451,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158233,
+        "num": 158233,
+        "word": "黎巴嫩多地对讲机爆炸20死450伤",
+        "onboard_time": 1726702039,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 155158,
+        "num": 155158,
+        "word": "普拉桑",
+        "onboard_time": 1726702278,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154906,
+        "num": 154906,
+        "word": "小英 孩子",
+        "onboard_time": 1726650740,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 149909,
+        "num": 149909,
+        "word": "侃爷名创优品购物小票遭泄露",
+        "onboard_time": 1726660580,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147840,
+        "num": 147840,
+        "word": "Jennie官网倒计时",
+        "onboard_time": 1726664244,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143108,
+        "num": 143108,
+        "word": "美联储降息有什么影响",
+        "onboard_time": 1726686911,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 87113,
+        "num": 143100,
+        "word": "肥东再发5级以上地震可能性不大",
+        "onboard_time": 1726675699,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40464,
+        "num": 143095,
+        "word": "重庆这个地铁口市民裹毯子乘凉",
+        "onboard_time": 1726701677,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200728,
+        "num": 143095,
+        "word": "小杨哥曾晒单买20盒美心月饼",
+        "onboard_time": 1726659440,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 143095,
+        "num": 143094,
+        "word": "受地震影响合肥多处房屋开裂",
+        "onboard_time": 1726700055,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132624,
+        "num": 132624,
+        "word": "港姐冠军回应合照被亚军压住",
+        "onboard_time": 1726699754,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138502,
+        "num": 132219,
+        "word": "南京震感",
+        "onboard_time": 1726661786,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126753,
+        "num": 126753,
+        "word": "王菲和陈粒一起唱K",
+        "onboard_time": 1726701436,
+        "rank": 35,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 124054,
+        "num": 124054,
+        "word": "张雨绮风波后首现身",
+        "onboard_time": 1726660460,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120093,
+        "num": 120093,
+        "word": "男孩生病离世兄弟们赶来见最后一面",
+        "onboard_time": 1726672280,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109038,
+        "num": 109038,
+        "word": "合肥地震超12万人收到地震预警",
+        "onboard_time": 1726670242,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109027,
+        "num": 109027,
+        "word": "普拉桑将正面影响台州",
+        "onboard_time": 1726694771,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106095,
+        "num": 106095,
+        "word": "停止对部分台湾农产品0关税",
+        "onboard_time": 1726666702,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105567,
+        "num": 105567,
+        "word": "2万买的金镯子清洗时被告知是假货",
+        "onboard_time": 1726646298,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102362,
+        "num": 102362,
+        "word": "曼城0比0国际米兰",
+        "onboard_time": 1726702098,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101164,
+        "num": 101164,
+        "word": "台风普拉桑马上到",
+        "onboard_time": 1726663884,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99106,
+        "num": 99106,
+        "word": "村长李锐没认出森碟亮仔",
+        "onboard_time": 1726662090,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96410,
+        "num": 96410,
+        "word": "台风普拉桑即将进入24小时警戒线",
+        "onboard_time": 1726700416,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96196,
+        "num": 96196,
+        "word": "教育局通报学生晚上如厕被罚事件",
+        "onboard_time": 1726670063,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95950,
+        "num": 95950,
+        "word": "当奶奶不小心闯入了镜头",
+        "onboard_time": 1726702278,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95323,
+        "num": 95323,
+        "word": "美联储利率决议",
+        "onboard_time": 1726701978,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 94403,
+        "num": 94403,
+        "word": "苹果已开放iPhone16员工购买通道",
+        "onboard_time": 1726702278,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队淬火向前#"
+    }
+  }
+}
