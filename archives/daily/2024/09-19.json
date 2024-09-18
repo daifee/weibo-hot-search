@@ -1,6 +1,6 @@
 {
   "startTime": 1726676797598,
-  "endTime": 1726694412228,
+  "endTime": 1726695285982,
   "band_list": [
     {
       "raw_hot": 1053361,
@@ -515,19 +515,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 35242,
+      "num": 35242,
+      "word": "香港美诚注册商标授权广州美诚生产",
+      "onboard_time": 1726692312,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33973,
       "num": 33973,
       "word": "台风普拉桑移动速度是摩羯4倍",
       "onboard_time": 1726685232,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33401,
-      "num": 29737,
-      "word": "香港美诚注册商标授权广州美诚生产",
-      "onboard_time": 1726692312,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -539,12 +539,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 21395,
-      "num": 21395,
+      "raw_hot": 24525,
+      "num": 24525,
       "word": "第一所被日军炸毁的大学鸣响校钟",
       "onboard_time": 1726693751,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13952,
+      "num": 61373,
+      "word": "普拉桑将正面影响台州",
+      "onboard_time": 1726694771,
+      "rank": 9,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
