@@ -1,6 +1,6 @@
 {
   "startTime": 1726590451835,
-  "endTime": 1726654991965,
+  "endTime": 1726656049780,
   "band_list": [
     {
       "raw_hot": 8853103,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 1205977,
-      "num": 763391,
+      "num": 1183728,
       "word": "吴谨言洪尧婚戒设计图",
       "onboard_time": 1726650260,
       "rank": 27,
@@ -235,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 979350,
+      "num": 488110,
+      "word": "宝妈不认识金条开口就要买11万的",
+      "onboard_time": 1726651759,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 976675,
       "num": 877026,
       "word": "三只羊授权直播间主播被骂沉默",
@@ -248,14 +256,6 @@
       "word": "贝碧嘉致河南大暴雨",
       "onboard_time": 1726620080,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 930735,
-      "num": 488110,
-      "word": "宝妈不认识金条开口就要买11万的",
-      "onboard_time": 1726651759,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -273,6 +273,14 @@
       "onboard_time": 1726648340,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 891036,
+      "num": 377404,
+      "word": "龙飞律师",
+      "onboard_time": 1726654220,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 883443,
@@ -683,12 +691,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 377404,
-      "num": 377404,
-      "word": "龙飞律师",
-      "onboard_time": 1726654220,
-      "rank": 17,
-      "category": "网红"
+      "raw_hot": 362505,
+      "num": 341935,
+      "word": "青岛地铁站吃瓜瓜瓜炸裂",
+      "onboard_time": 1726653859,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357481,
@@ -731,6 +739,22 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 340517,
+      "num": 509688,
+      "word": "台风普拉桑速度堪比飞毛腿",
+      "onboard_time": 1726641139,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340506,
+      "num": 326783,
+      "word": "在世最长寿猫去世",
+      "onboard_time": 1726652429,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 337214,
       "num": 337214,
       "word": "九一八辽宁14城鸣响警报",
@@ -745,6 +769,14 @@
       "onboard_time": 1726641919,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334143,
+      "num": 334143,
+      "word": "特百惠已经申请破产保护",
+      "onboard_time": 1726653080,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 326365,
@@ -777,14 +809,6 @@
       "onboard_time": 1726584322,
       "rank": 12,
       "category": "演出,体育"
-    },
-    {
-      "raw_hot": 322120,
-      "num": 322120,
-      "word": "在世最长寿猫去世",
-      "onboard_time": 1726652429,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 319966,
@@ -915,14 +939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 275157,
-      "num": 509688,
-      "word": "台风普拉桑速度堪比飞毛腿",
-      "onboard_time": 1726641139,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 269505,
       "num": 579709,
       "word": "校方回应学生晚11点后如厕被定违纪",
@@ -968,14 +984,6 @@
       "word": "距离国庆放假还有13天",
       "onboard_time": 1726622479,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 261538,
-      "num": 261538,
-      "word": "青岛地铁站吃瓜瓜瓜炸裂",
-      "onboard_time": 1726653859,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -1171,6 +1179,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 218085,
+      "num": 254209,
+      "word": "徐冬冬再念不对尹子维就要撕票了",
+      "onboard_time": 1726651459,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 216976,
+      "num": 206180,
+      "word": "侃爷一家在中国逛街喝奶茶",
+      "onboard_time": 1726655420,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215804,
       "num": 288201,
       "word": "赵晓卉吐槽PPT还是太全面了",
@@ -1243,6 +1267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 206121,
+      "num": 206121,
+      "word": "风是风 狗是狗",
+      "onboard_time": 1726654579,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203728,
       "num": 203728,
       "word": "李宇春森碟森碗同框",
@@ -1265,14 +1297,6 @@
       "onboard_time": 1726628780,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 197510,
-      "num": 254209,
-      "word": "徐冬冬再念不对尹子维就要撕票了",
-      "onboard_time": 1726651459,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 192160,
@@ -1635,14 +1659,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 136782,
-      "num": 136782,
-      "word": "风是风 狗是狗",
-      "onboard_time": 1726654579,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 136749,
       "num": 273070,
       "word": "黎巴嫩多地无线电通信设备爆炸",
@@ -1665,6 +1681,14 @@
       "onboard_time": 1726653320,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134951,
+      "num": 134951,
+      "word": "新椅子就是留得住客人啊",
+      "onboard_time": 1726656018,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 134503,
@@ -1697,6 +1721,14 @@
       "onboard_time": 1726585523,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131078,
+      "num": 131078,
+      "word": "美联储或宣布4年来首次降息",
+      "onboard_time": 1726655899,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 130298,
@@ -1737,6 +1769,22 @@
       "onboard_time": 1726646600,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124986,
+      "num": 124986,
+      "word": "蒋奇明 大人中",
+      "onboard_time": 1726655899,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 123421,
+      "num": 123421,
+      "word": "张凌赫撇嘴这一下",
+      "onboard_time": 1726655658,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 120558,
@@ -2091,6 +2139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 53852,
+      "num": 500801,
+      "word": "武装人员使用寻呼机为避免位置追踪",
+      "onboard_time": 1726653919,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 52497,
       "num": 437567,
       "word": "不唱歌不蹦迪年轻人沉迷在酒吧听课",
@@ -2153,14 +2209,6 @@
       "onboard_time": 1726594513,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 44926,
-      "num": 500801,
-      "word": "武装人员使用寻呼机为避免位置追踪",
-      "onboard_time": 1726653919,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 41238,

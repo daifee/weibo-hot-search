@@ -1,0 +1,410 @@
+{
+  "runTime": 1726656049780,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1148302,
+        "num": 1183728,
+        "word": "吴谨言洪尧婚戒设计图",
+        "onboard_time": 1726650260,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1020647,
+        "num": 1020647,
+        "word": "2万买的金镯子清洗时被告知是假货",
+        "onboard_time": 1726646298,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112599,
+        "num": 760001,
+        "word": "大数据看中秋假期出游",
+        "onboard_time": 1726649478,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2294224,
+        "num": 721889,
+        "word": "小英 孩子",
+        "onboard_time": 1726650740,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 619299,
+        "num": 619299,
+        "word": "王暖暖不打算公布孩子父亲",
+        "onboard_time": 1726646358,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540215,
+        "num": 540215,
+        "word": "外交部回应辽宁舰进入日本冲绳地区",
+        "onboard_time": 1726648340,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 470846,
+        "num": 470846,
+        "word": "杜海涛李佳琦淘汰",
+        "onboard_time": 1726647081,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347963,
+        "num": 347963,
+        "word": "肖战 端水大师",
+        "onboard_time": 1726650619,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277797,
+        "num": 347878,
+        "word": "美媒称爆炸寻呼机产自台湾",
+        "onboard_time": 1726625780,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 121351,
+        "num": 346847,
+        "word": "三只羊授权直播间主播被骂沉默",
+        "onboard_time": 1726630640,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1540648,
+        "num": 346256,
+        "word": "老人捡蜗牛吃身亡2守灵者吃后也死",
+        "onboard_time": 1726648641,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 979350,
+        "num": 345188,
+        "word": "宝妈不认识金条开口就要买11万的",
+        "onboard_time": 1726651759,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 891036,
+        "num": 344933,
+        "word": "龙飞律师",
+        "onboard_time": 1726654220,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 344494,
+        "num": 344494,
+        "word": "美方否认参与黎巴嫩BP机爆炸",
+        "onboard_time": 1726629620,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 519031,
+        "num": 343042,
+        "word": "9岁女童在病房被猥亵",
+        "onboard_time": 1726645519,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362505,
+        "num": 341935,
+        "word": "青岛地铁站吃瓜瓜瓜炸裂",
+        "onboard_time": 1726653859,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340517,
+        "num": 340517,
+        "word": "台风普拉桑速度堪比飞毛腿",
+        "onboard_time": 1726641139,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338024,
+        "num": 338024,
+        "word": "黄晓明和小海绵一起过中秋",
+        "onboard_time": 1726643479,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335375,
+        "num": 335375,
+        "word": "小米三折叠手机专利曝光",
+        "onboard_time": 1726647319,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 334143,
+        "num": 334143,
+        "word": "特百惠已经申请破产保护",
+        "onboard_time": 1726653080,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 551330,
+        "num": 332313,
+        "word": "存多少钱才能靠利息生活",
+        "onboard_time": 1726650499,
+        "rank": 20,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 541810,
+        "num": 329103,
+        "word": "曾志伟看小杨哥带货美诚月饼表情",
+        "onboard_time": 1726630640,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340506,
+        "num": 326783,
+        "word": "在世最长寿猫去世",
+        "onboard_time": 1726652429,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322304,
+        "num": 322304,
+        "word": "用人民币感受冰岛的物价",
+        "onboard_time": 1726640420,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 254930,
+        "num": 254930,
+        "word": "保龄球场偶遇黄冠亨黄旭熙",
+        "onboard_time": 1726653259,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245256,
+        "num": 245256,
+        "word": "伊能静儿子恩利再穿女装",
+        "onboard_time": 1726638979,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220759,
+        "num": 220759,
+        "word": "娜扎 黑T牛仔裤的硬美",
+        "onboard_time": 1726650140,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218085,
+        "num": 218085,
+        "word": "徐冬冬再念不对尹子维就要撕票了",
+        "onboard_time": 1726651459,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206675,
+        "num": 206675,
+        "word": "校方回应学生晚11点后如厕被定违纪",
+        "onboard_time": 1726651820,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173755,
+        "num": 206221,
+        "word": "汪顺灰色西装造型",
+        "onboard_time": 1726654579,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216976,
+        "num": 206180,
+        "word": "侃爷一家在中国逛街喝奶茶",
+        "onboard_time": 1726655420,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206121,
+        "num": 206121,
+        "word": "风是风 狗是狗",
+        "onboard_time": 1726654579,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202591,
+        "num": 202591,
+        "word": "校长说学生讨厌获学生全体鼓掌",
+        "onboard_time": 1726642879,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199570,
+        "num": 199570,
+        "word": "台风普拉桑",
+        "onboard_time": 1726627580,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198022,
+        "num": 198022,
+        "word": "小猫被绑四肢从高楼丢下当场死亡",
+        "onboard_time": 1726644200,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171643,
+        "num": 171643,
+        "word": "三只羊直播间观看人数破万",
+        "onboard_time": 1726650200,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 170278,
+        "num": 170278,
+        "word": "真的不建议随便设微信铃声",
+        "onboard_time": 1726646539,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163462,
+        "num": 163462,
+        "word": "14岁时的孙颖莎",
+        "onboard_time": 1726647500,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53852,
+        "num": 149301,
+        "word": "武装人员使用寻呼机为避免位置追踪",
+        "onboard_time": 1726653919,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 147133,
+        "num": 147133,
+        "word": "下一战歌手第四期新声阵容",
+        "onboard_time": 1726653680,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136480,
+        "num": 136480,
+        "word": "杭州13岁女生每天一杯奶茶牙被腐蚀",
+        "onboard_time": 1726641919,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134951,
+        "num": 134951,
+        "word": "新椅子就是留得住客人啊",
+        "onboard_time": 1726656018,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131078,
+        "num": 131078,
+        "word": "美联储或宣布4年来首次降息",
+        "onboard_time": 1726655899,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128066,
+        "num": 128066,
+        "word": "丁海寅点赞女网红",
+        "onboard_time": 1726639641,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127252,
+        "num": 127252,
+        "word": "于正辟谣和霍思燕绝交",
+        "onboard_time": 1726651698,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124986,
+        "num": 124986,
+        "word": "蒋奇明 大人中",
+        "onboard_time": 1726655899,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124286,
+        "num": 124286,
+        "word": "人均消费过百烧鸟为何成地摊刺客",
+        "onboard_time": 1726648101,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123481,
+        "num": 123481,
+        "word": "美诚月饼晒车间回应小作坊质疑",
+        "onboard_time": 1726637960,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123421,
+        "num": 123421,
+        "word": "张凌赫撇嘴这一下",
+        "onboard_time": 1726655658,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120286,
+        "num": 120286,
+        "word": "12306回应上百人有票没座",
+        "onboard_time": 1726638800,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队淬火向前#"
+    }
+  }
+}
