@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726673023351,
+  "endTime": 1726673869021,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 2109158,
-      "num": 601281,
+      "num": 632515,
       "word": "叶珂 钻戒",
       "onboard_time": 1726668203,
       "rank": 12,
@@ -731,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1248057,
+      "num": 1248057,
+      "word": "挣102万外卖员出车祸朋友发声",
+      "onboard_time": 1726670421,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1245181,
       "num": 1245181,
       "word": "美心月饼直播间晒报关单",
@@ -979,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1119008,
+      "num": 1119008,
+      "word": "降息",
+      "onboard_time": 1726669823,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1113818,
       "num": 1178210,
       "word": "猎罪图鉴2",
@@ -1081,14 +1097,6 @@
       "onboard_time": 1726551381,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1060876,
-      "num": 1060876,
-      "word": "降息",
-      "onboard_time": 1726669823,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 1053654,
@@ -2331,14 +2339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 551453,
-      "num": 551453,
-      "word": "挣102万外卖员出车祸朋友发声",
-      "onboard_time": 1726670421,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 548758,
       "num": 736329,
       "word": "王源慌了",
@@ -2865,6 +2865,14 @@
       "onboard_time": 1726655420,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 444972,
+      "num": 444972,
+      "word": "教育局通报学生晚上如厕被罚事件",
+      "onboard_time": 1726670063,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 444226,
@@ -3435,14 +3443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 356059,
-      "num": 356059,
-      "word": "教育局通报学生晚上如厕被罚事件",
-      "onboard_time": 1726670063,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 355565,
       "num": 355565,
       "word": "孙颖莎展望北京大满贯",
@@ -3553,6 +3553,14 @@
       "onboard_time": 1726503317,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 343852,
+      "num": 343852,
+      "word": "合肥地震超12万人收到地震预警",
+      "onboard_time": 1726670242,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 342216,
@@ -3961,14 +3969,6 @@
       "onboard_time": 1726666643,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 302438,
-      "num": 302438,
-      "word": "合肥地震超12万人收到地震预警",
-      "onboard_time": 1726670242,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 302033,
@@ -4915,6 +4915,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 242593,
+      "num": 242593,
+      "word": "蔡徐坤出发米兰时装周路透",
+      "onboard_time": 1726672701,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 242480,
       "num": 239574,
       "word": "突然明白女生留在大城市的意义",
@@ -5153,6 +5161,14 @@
       "onboard_time": 1726573460,
       "rank": 28,
       "category": "自然"
+    },
+    {
+      "raw_hot": 231458,
+      "num": 231458,
+      "word": "三只羊别再玩文字游戏了",
+      "onboard_time": 1726670362,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 231449,
@@ -5665,14 +5681,6 @@
       "onboard_time": 1726499661,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 207839,
-      "num": 225661,
-      "word": "三只羊别再玩文字游戏了",
-      "onboard_time": 1726670362,
-      "rank": 29,
-      "category": "互联网"
     },
     {
       "raw_hot": 207486,
@@ -6403,6 +6411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190661,
+      "num": 190661,
+      "word": "iPhone16ProMax充电日常27W",
+      "onboard_time": 1726670485,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 190622,
       "num": 190622,
       "word": "香港美心月饼7天销售额超1000万",
@@ -6667,14 +6683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184811,
-      "num": 189287,
-      "word": "蔡徐坤出发米兰时装周路透",
-      "onboard_time": 1726672701,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 184727,
       "num": 184727,
       "word": "AG金色的雨",
@@ -6915,14 +6923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178241,
-      "num": 178241,
-      "word": "iPhone16ProMax充电日常27W",
-      "onboard_time": 1726670485,
-      "rank": 41,
-      "category": "数码"
-    },
-    {
       "raw_hot": 178151,
       "num": 178151,
       "word": "PEL秋季赛第六周周决赛",
@@ -7089,6 +7089,14 @@
       "onboard_time": 1726324226,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174062,
+      "num": 179165,
+      "word": "锦衣夜行",
+      "onboard_time": 1726673002,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 173852,
@@ -7281,6 +7289,14 @@
       "onboard_time": 1726369878,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 168986,
+      "num": 168986,
+      "word": "原来可以从这么多细节看衣服质量",
+      "onboard_time": 1726671802,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 168955,
@@ -7579,12 +7595,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 162852,
-      "num": 162852,
-      "word": "原来可以从这么多细节看衣服质量",
-      "onboard_time": 1726671802,
-      "rank": 45,
-      "category": "科学科普"
+      "raw_hot": 162822,
+      "num": 636414,
+      "word": "江慈这是什么爽女人设",
+      "onboard_time": 1726673181,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 162812,
@@ -7633,6 +7649,14 @@
       "onboard_time": 1726390760,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161914,
+      "num": 161914,
+      "word": "侯明昊 这是啥文啊姐",
+      "onboard_time": 1726670962,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 161830,
@@ -7947,6 +7971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156229,
+      "num": 156229,
+      "word": "男子酒店洗澡后发现沐浴露瓶内发霉",
+      "onboard_time": 1726673300,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156176,
       "num": 156176,
       "word": "花儿与少年",
@@ -8113,14 +8145,6 @@
       "onboard_time": 1726561699,
       "rank": 40,
       "category": "数码"
-    },
-    {
-      "raw_hot": 152555,
-      "num": 152555,
-      "word": "侯明昊 这是啥文啊姐",
-      "onboard_time": 1726670962,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 152550,
@@ -8467,6 +8491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143800,
+      "num": 143800,
+      "word": "小伙5分钟吃4个月饼胆囊发炎被切除",
+      "onboard_time": 1726673420,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143778,
       "num": 143778,
       "word": "成毅萧秋水中秋vlog",
@@ -8547,6 +8579,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142724,
+      "num": 309177,
+      "word": "合肥震中梁园暂无人员伤亡报告",
+      "onboard_time": 1726671023,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142410,
+      "num": 142410,
+      "word": "寝室四人都是同年同月同日生的",
+      "onboard_time": 1726672822,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142391,
       "num": 142391,
       "word": "李兰迪台词真好",
@@ -8569,14 +8617,6 @@
       "onboard_time": 1726364298,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 142056,
-      "num": 142056,
-      "word": "锦衣夜行",
-      "onboard_time": 1726673002,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 141533,
@@ -10635,19 +10675,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 68616,
-      "num": 309177,
-      "word": "合肥震中梁园暂无人员伤亡报告",
-      "onboard_time": 1726671023,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 68368,
       "num": 708151,
       "word": "文化中国行月满人团圆",
       "onboard_time": 1726540219,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67872,
+      "num": 524122,
+      "word": "徐州一男子疑积水中触电身亡",
+      "onboard_time": 1726671983,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -10736,14 +10776,6 @@
       "word": "中秋假期杭州将有大雨暴雨大暴雨",
       "onboard_time": 1726335733,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62463,
-      "num": 524122,
-      "word": "徐州一男子疑积水中触电身亡",
-      "onboard_time": 1726671983,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -11819,6 +11851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22163,
+      "num": 1506454,
+      "word": "发现最美铁路探寻共和国印记",
+      "onboard_time": 1726667001,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21999,
       "num": 24658,
       "word": "迎风的青春",
@@ -11840,14 +11880,6 @@
       "word": "造谣有人被台风吹落高坠8人被罚",
       "onboard_time": 1726601650,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21572,
-      "num": 1506454,
-      "word": "发现最美铁路探寻共和国印记",
-      "onboard_time": 1726667001,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
