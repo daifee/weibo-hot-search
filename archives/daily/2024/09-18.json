@@ -1,6 +1,6 @@
 {
   "startTime": 1726590451835,
-  "endTime": 1726641797345,
+  "endTime": 1726644037823,
   "band_list": [
     {
       "raw_hot": 8853103,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1807487,
+      "num": 1807487,
+      "word": "12306回应上百人有票没座",
+      "onboard_time": 1726638800,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1769185,
       "num": 1769185,
       "word": "九一八事变93周年",
@@ -83,6 +91,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1404769,
+      "num": 1404769,
+      "word": "用人民币感受冰岛的物价",
+      "onboard_time": 1726640420,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 1283689,
+      "num": 1283689,
+      "word": "古茗玩梗翻车致歉",
+      "onboard_time": 1726642458,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1275745,
       "num": 1275745,
       "word": "记者实探三只羊集团",
@@ -100,7 +124,7 @@
     },
     {
       "raw_hot": 1216095,
-      "num": 437266,
+      "num": 476511,
       "word": "伊能静儿子恩利再穿女装",
       "onboard_time": 1726638979,
       "rank": 10,
@@ -171,14 +195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 964207,
-      "num": 964207,
-      "word": "12306回应上百人有票没座",
-      "onboard_time": 1726638800,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 883443,
       "num": 883443,
       "word": "专家建议所有的城镇房屋都应该交税",
@@ -232,6 +248,14 @@
       "word": "美诚月饼回应有主播承诺假一赔三",
       "onboard_time": 1726625841,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 736592,
+      "num": 736592,
+      "word": "王暖暖回应官宣生子",
+      "onboard_time": 1726641620,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -292,7 +316,7 @@
     },
     {
       "raw_hot": 617189,
-      "num": 580893,
+      "num": 608018,
       "word": "韩安冉回应网红收入",
       "onboard_time": 1726638501,
       "rank": 11,
@@ -345,14 +369,6 @@
       "onboard_time": 1726639399,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 518584,
-      "num": 432067,
-      "word": "用人民币感受冰岛的物价",
-      "onboard_time": 1726640420,
-      "rank": 30,
-      "category": "旅游"
     },
     {
       "raw_hot": 514165,
@@ -419,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 459997,
+      "num": 459997,
+      "word": "丁海寅点赞女网红",
+      "onboard_time": 1726639641,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 458970,
       "num": 458970,
       "word": "美诚月饼晒车间回应小作坊质疑",
@@ -449,14 +473,6 @@
       "onboard_time": 1726598652,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 414048,
-      "num": 414048,
-      "word": "丁海寅点赞女网红",
-      "onboard_time": 1726639641,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 410558,
@@ -524,11 +540,19 @@
     },
     {
       "raw_hot": 349077,
-      "num": 384312,
+      "num": 398342,
       "word": "于正回应莲花楼剧粉",
       "onboard_time": 1726637960,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 348604,
+      "num": 348604,
+      "word": "亚当剃胡子了",
+      "onboard_time": 1726641979,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 346709,
@@ -659,8 +683,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 284079,
-      "num": 284079,
+      "raw_hot": 285909,
+      "num": 285909,
       "word": "3年赚102万外卖小哥疑车祸住院",
       "onboard_time": 1726638381,
       "rank": 28,
@@ -672,6 +696,22 @@
       "word": "中国在月球上留下了月饼",
       "onboard_time": 1726631119,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272286,
+      "num": 272286,
+      "word": "杭州13岁女生每天一杯奶茶牙被腐蚀",
+      "onboard_time": 1726641919,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272124,
+      "num": 272124,
+      "word": "台风普拉桑速度堪比飞毛腿",
+      "onboard_time": 1726641139,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -688,6 +728,14 @@
       "word": "张雪峰回应研究生数量超本科生",
       "onboard_time": 1726629200,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263939,
+      "num": 435809,
+      "word": "网友向女子转账98万让帮买黄金",
+      "onboard_time": 1726639399,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -713,6 +761,14 @@
       "onboard_time": 1726593434,
       "rank": 47,
       "category": "剧集,综艺"
+    },
+    {
+      "raw_hot": 259230,
+      "num": 272199,
+      "word": "田嘉瑞一个人搬了21件行李",
+      "onboard_time": 1726642999,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 256579,
@@ -779,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239434,
+      "num": 443805,
+      "word": "官方回应眉山一妇产医院违法代孕",
+      "onboard_time": 1726640719,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239011,
       "num": 239011,
       "word": "有一种放假叫做虚假假期",
@@ -811,6 +875,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 229055,
+      "num": 229055,
+      "word": "A股盘中失守2700点",
+      "onboard_time": 1726639941,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 227871,
       "num": 227871,
       "word": "张雪峰力挺兰州大学",
@@ -841,6 +913,14 @@
       "onboard_time": 1726617920,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215804,
+      "num": 272136,
+      "word": "赵晓卉吐槽PPT还是太全面了",
+      "onboard_time": 1726641680,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 215593,
@@ -891,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204227,
+      "num": 204227,
+      "word": "校长说学生讨厌获学生全体鼓掌",
+      "onboard_time": 1726642879,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203728,
       "num": 203728,
       "word": "李宇春森碟森碗同框",
@@ -915,12 +1003,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 193838,
-      "num": 193838,
-      "word": "A股盘中失守2700点",
-      "onboard_time": 1726639941,
-      "rank": 37,
-      "category": "财经"
+      "raw_hot": 196053,
+      "num": 196053,
+      "word": "雷兰曦爆冷奥运冠军",
+      "onboard_time": 1726643299,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 192160,
@@ -939,20 +1027,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191287,
-      "num": 191287,
-      "word": "台风普拉桑速度堪比飞毛腿",
-      "onboard_time": 1726641139,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189509,
       "num": 189509,
       "word": "14声警世钟提醒我们不能忘",
       "onboard_time": 1726625959,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 186417,
+      "num": 186417,
+      "word": "杨紫 MK",
+      "onboard_time": 1726643778,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 185347,
@@ -995,20 +1083,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 175246,
+      "num": 175246,
+      "word": "王楚钦孙颖莎男女单世界第一",
+      "onboard_time": 1726643659,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171517,
       "num": 171517,
       "word": "王祖贤回台湾过中秋",
       "onboard_time": 1726586782,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169026,
-      "num": 435809,
-      "word": "网友向女子转账98万让帮买黄金",
-      "onboard_time": 1726639399,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168508,
@@ -1025,6 +1113,14 @@
       "onboard_time": 1726633461,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 165201,
+      "num": 385847,
+      "word": "生育困难和预约人流病人成计生科室主力",
+      "onboard_time": 1726642219,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164337,
@@ -1049,6 +1145,14 @@
       "onboard_time": 1726621099,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 159194,
+      "num": 159194,
+      "word": "2024中秋人均出游花费500元",
+      "onboard_time": 1726643599,
+      "rank": 43,
+      "category": "旅游"
     },
     {
       "raw_hot": 158390,
@@ -1107,12 +1211,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 154830,
+      "num": 154830,
+      "word": "雷兰曦2比1安赛龙",
+      "onboard_time": 1726643778,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154732,
       "num": 154732,
       "word": "苹果iOS系统还有竞争力吗",
       "onboard_time": 1726632741,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 154228,
+      "num": 152690,
+      "word": "雷兰曦vs安赛龙",
+      "onboard_time": 1726642640,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 152687,
+      "num": 152687,
+      "word": "中秋假期国内1.07亿人次出游",
+      "onboard_time": 1726641860,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 152513,
@@ -1177,22 +1305,6 @@
       "onboard_time": 1726581683,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141141,
-      "num": 141141,
-      "word": "王暖暖回应官宣生子",
-      "onboard_time": 1726641620,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140043,
-      "num": 140043,
-      "word": "赵晓卉吐槽PPT还是太全面了",
-      "onboard_time": 1726641680,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 136749,
@@ -1265,14 +1377,6 @@
       "onboard_time": 1726580302,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125124,
-      "num": 443805,
-      "word": "官方回应眉山一妇产医院违法代孕",
-      "onboard_time": 1726640719,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117818,
@@ -1595,6 +1699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 52497,
+      "num": 409445,
+      "word": "不唱歌不蹦迪年轻人沉迷在酒吧听课",
+      "onboard_time": 1726643959,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49549,
       "num": 536635,
       "word": "里斯本丸沉没事件",
@@ -1633,6 +1745,14 @@
       "onboard_time": 1726596553,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45236,
+      "num": 477601,
+      "word": "遗忘在妈妈身体里的节育环",
+      "onboard_time": 1726643058,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45231,
@@ -1689,6 +1809,14 @@
       "onboard_time": 1726594993,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29672,
+      "num": 389051,
+      "word": "黄晓明带小海绵回家过中秋",
+      "onboard_time": 1726643479,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 29643,

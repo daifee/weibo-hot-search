@@ -1,0 +1,410 @@
+{
+  "runTime": 1726644037823,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2084482,
+        "num": 2084482,
+        "word": "曾志伟看小杨哥带货美诚月饼表情",
+        "onboard_time": 1726630640,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1807487,
+        "num": 1807487,
+        "word": "12306回应上百人有票没座",
+        "onboard_time": 1726638800,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146112,
+        "num": 1584656,
+        "word": "中国在月球上留下了月饼",
+        "onboard_time": 1726631119,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1404769,
+        "num": 1404769,
+        "word": "用人民币感受冰岛的物价",
+        "onboard_time": 1726640420,
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1283689,
+        "num": 1283689,
+        "word": "古茗玩梗翻车致歉",
+        "onboard_time": 1726642458,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 736592,
+        "num": 736592,
+        "word": "王暖暖回应官宣生子",
+        "onboard_time": 1726641620,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652761,
+        "num": 652761,
+        "word": "古茗",
+        "onboard_time": 1726637361,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 608018,
+        "num": 608018,
+        "word": "韩安冉回应网红收入",
+        "onboard_time": 1726638501,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 563970,
+        "num": 563970,
+        "word": "美方否认参与黎巴嫩BP机爆炸",
+        "onboard_time": 1726629620,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 45236,
+        "num": 477601,
+        "word": "遗忘在妈妈身体里的节育环",
+        "onboard_time": 1726643058,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1041930,
+        "num": 476511,
+        "word": "伊能静儿子恩利再穿女装",
+        "onboard_time": 1726638979,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474926,
+        "num": 474926,
+        "word": "台风普拉桑",
+        "onboard_time": 1726627580,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470267,
+        "num": 470267,
+        "word": "美媒称爆炸寻呼机产自台湾",
+        "onboard_time": 1726625780,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 459997,
+        "num": 459997,
+        "word": "丁海寅点赞女网红",
+        "onboard_time": 1726639641,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52497,
+        "num": 409445,
+        "word": "不唱歌不蹦迪年轻人沉迷在酒吧听课",
+        "onboard_time": 1726643959,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382056,
+        "num": 401167,
+        "word": "Jennie打乒乓球",
+        "onboard_time": 1726638259,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301371,
+        "num": 398342,
+        "word": "于正回应莲花楼剧粉",
+        "onboard_time": 1726637960,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 395562,
+        "num": 395562,
+        "word": "黎巴嫩",
+        "onboard_time": 1726617920,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 29672,
+        "num": 389051,
+        "word": "黄晓明带小海绵回家过中秋",
+        "onboard_time": 1726643479,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165201,
+        "num": 385847,
+        "word": "生育困难和预约人流病人成计生科室主力",
+        "onboard_time": 1726642219,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383313,
+        "num": 383313,
+        "word": "美诚月饼晒车间回应小作坊质疑",
+        "onboard_time": 1726637960,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348604,
+        "num": 348604,
+        "word": "亚当剃胡子了",
+        "onboard_time": 1726641979,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367534,
+        "num": 340336,
+        "word": "三只羊授权直播间主播被骂沉默",
+        "onboard_time": 1726630640,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320091,
+        "num": 320091,
+        "word": "女租客5年没扔垃圾房东崩溃",
+        "onboard_time": 1726634482,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328312,
+        "num": 314017,
+        "word": "美诚月饼第一批受害者出现了",
+        "onboard_time": 1726624579,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294579,
+        "num": 294579,
+        "word": "918鸣笛",
+        "onboard_time": 1726623440,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 285909,
+        "num": 285909,
+        "word": "3年赚102万外卖小哥疑车祸住院",
+        "onboard_time": 1726638381,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272286,
+        "num": 272286,
+        "word": "杭州13岁女生每天一杯奶茶牙被腐蚀",
+        "onboard_time": 1726641919,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259230,
+        "num": 272199,
+        "word": "田嘉瑞一个人搬了21件行李",
+        "onboard_time": 1726642999,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215804,
+        "num": 272136,
+        "word": "赵晓卉吐槽PPT还是太全面了",
+        "onboard_time": 1726641680,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272124,
+        "num": 272124,
+        "word": "台风普拉桑速度堪比飞毛腿",
+        "onboard_time": 1726641139,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271780,
+        "num": 271780,
+        "word": "王俊凯弟弟",
+        "onboard_time": 1726616779,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263939,
+        "num": 263939,
+        "word": "网友向女子转账98万让帮买黄金",
+        "onboard_time": 1726639399,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239434,
+        "num": 239434,
+        "word": "官方回应眉山一妇产医院违法代孕",
+        "onboard_time": 1726640719,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229055,
+        "num": 229055,
+        "word": "A股盘中失守2700点",
+        "onboard_time": 1726639941,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 204227,
+        "num": 204227,
+        "word": "校长说学生讨厌获学生全体鼓掌",
+        "onboard_time": 1726642879,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201055,
+        "num": 201055,
+        "word": "电影731官宣定档",
+        "onboard_time": 1726632561,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200205,
+        "num": 200205,
+        "word": "月薪从10万降到7万投行女高管讨薪",
+        "onboard_time": 1726626800,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199578,
+        "num": 199578,
+        "word": "广州通报美诚月饼事件",
+        "onboard_time": 1726633041,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196053,
+        "num": 196053,
+        "word": "雷兰曦爆冷奥运冠军",
+        "onboard_time": 1726643299,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186417,
+        "num": 186417,
+        "word": "杨紫 MK",
+        "onboard_time": 1726643778,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175246,
+        "num": 175246,
+        "word": "王楚钦孙颖莎男女单世界第一",
+        "onboard_time": 1726643659,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162515,
+        "num": 162515,
+        "word": "老人大半辈子积蓄埋土里被虫咬成碎片",
+        "onboard_time": 1726630220,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159194,
+        "num": 159194,
+        "word": "2024中秋人均出游花费500元",
+        "onboard_time": 1726643599,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 154830,
+        "num": 154830,
+        "word": "雷兰曦2比1安赛龙",
+        "onboard_time": 1726643778,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154689,
+        "num": 154689,
+        "word": "侯明昊以前是SM练习生",
+        "onboard_time": 1726636042,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152692,
+        "num": 152692,
+        "word": "上官正义举报四川一医院违法代孕",
+        "onboard_time": 1726638979,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154228,
+        "num": 152690,
+        "word": "雷兰曦vs安赛龙",
+        "onboard_time": 1726642640,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152687,
+        "num": 152687,
+        "word": "中秋假期国内1.07亿人次出游",
+        "onboard_time": 1726641860,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 148369,
+        "num": 148369,
+        "word": "玉兔二号又皮了一下",
+        "onboard_time": 1726623199,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队淬火向前#"
+    }
+  }
+}
