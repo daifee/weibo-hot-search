@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/15 00:25:22 ~ 2024/09/19 04:37:08
+本榜单时间：2024/09/15 00:25:22 ~ 2024/09/19 05:20:12
 </p>
 </blockquote>
 <p>
@@ -8163,6 +8163,12 @@ Capper 发条盆友圈（热度：76422）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E5%B7%B2%E9%80%80%E8%BF%98%E5%A6%82%E5%8E%95%E8%A2%AB%E5%AE%9A%E8%BF%9D%E7%BA%AA%E5%AD%A6%E7%94%9F%E6%89%93%E5%8D%B0%E8%B4%B9%23" target="weibo">
+校方已退还如厕被定违纪学生打印费（热度：62942）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%B9%E6%9D%A8%E4%B8%8A%E6%AD%8C%E6%89%8B%E6%98%AF%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%8E%A8%E8%8D%90%E7%9A%84%E5%90%A7%23" target="weibo">
 曹杨上歌手是周杰伦推荐的吧（热度：62770）
 </a>
@@ -8261,12 +8267,6 @@ Capper 发条盆友圈（热度：76422）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%B3%E4%B9%90%E7%94%9F%E5%86%9B%E8%AE%AD%E9%A2%86%E5%94%B1%E6%95%99%E5%AE%98%E6%B1%97%E6%B5%81%E6%B5%83%E8%83%8C%E4%BA%86%23" target="weibo">
 音乐生军训领唱教官汗流浃背了（热度：55835）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E5%B7%B2%E9%80%80%E8%BF%98%E5%A6%82%E5%8E%95%E8%A2%AB%E5%AE%9A%E8%BF%9D%E7%BA%AA%E5%AD%A6%E7%94%9F%E6%89%93%E5%8D%B0%E8%B4%B9%23" target="weibo">
-校方已退还如厕被定违纪学生打印费（热度：55628）
 </a>
 </li>
 
@@ -8739,6 +8739,12 @@ AG淋的金色雨是海信下的（热度：51797）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%BE%8E%E8%AF%9A%E6%B3%A8%E5%86%8C%E5%95%86%E6%A0%87%E6%8E%88%E6%9D%83%E5%B9%BF%E5%B7%9E%E7%BE%8E%E8%AF%9A%E7%94%9F%E4%BA%A7%23" target="weibo">
+香港美诚注册商标授权广州美诚生产（热度：33401）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%23" target="weibo">
 你好星期六（热度：33276）
 </a>
@@ -9047,6 +9053,12 @@ FULLMOON颁奖盛典（热度：32222）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%85%8B%E8%8E%B1%E5%BE%B7%E6%9B%BC%E5%90%88%E4%BD%9C%E4%B8%AD%E5%9B%BD%E7%BB%8F%E5%85%B8%E6%A2%81%E7%A5%9D%23" target="weibo">
 周深克莱德曼合作中国经典梁祝（热度：21417）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%80%E8%A2%AB%E6%97%A5%E5%86%9B%E7%82%B8%E6%AF%81%E7%9A%84%E5%A4%A7%E5%AD%A6%E9%B8%A3%E5%93%8D%E6%A0%A1%E9%92%9F%23" target="weibo">
+第一所被日军炸毁的大学鸣响校钟（热度：21395）
 </a>
 </li>
 
