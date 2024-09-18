@@ -1,6 +1,6 @@
 {
   "startTime": 1726676797598,
-  "endTime": 1726681033143,
+  "endTime": 1726684133516,
   "band_list": [
     {
       "raw_hot": 1053361,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 846493,
+      "num": 846493,
+      "word": "降息",
+      "onboard_time": 1726669823,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 784070,
       "num": 389418,
       "word": "叶珂 钻戒",
@@ -33,14 +41,6 @@
       "onboard_time": 1726667001,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 630586,
-      "num": 630586,
-      "word": "降息",
-      "onboard_time": 1726669823,
-      "rank": 4,
-      "category": "财经"
     },
     {
       "raw_hot": 601951,
@@ -105,6 +105,14 @@
       "onboard_time": 1726667421,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 397941,
+      "num": 397941,
+      "word": "美联储",
+      "onboard_time": 1726669042,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 384658,
@@ -411,11 +419,11 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 73933,
-      "num": 73933,
-      "word": "美联储",
-      "onboard_time": 1726669042,
-      "rank": 34,
+      "raw_hot": 69656,
+      "num": 61849,
+      "word": "美联储2020年以来首次降息",
+      "onboard_time": 1726683612,
+      "rank": 21,
       "category": "财经"
     },
     {
@@ -435,6 +443,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 62533,
+      "num": 44510,
+      "word": "父女看打铁花表演被烫伤",
+      "onboard_time": 1726680614,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54828,
+      "num": 54828,
+      "word": "小英名下关联4家企业",
+      "onboard_time": 1726681093,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 53638,
       "num": 739886,
       "word": "中秋假期数据盘点",
@@ -451,20 +475,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 44510,
-      "num": 44510,
-      "word": "父女看打铁花表演被烫伤",
-      "onboard_time": 1726680614,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 41992,
       "num": 41992,
       "word": "合肥地震带",
       "onboard_time": 1726663463,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33411,
+      "num": 33411,
+      "word": "美国用饭圈散播南海属于菲律宾",
+      "onboard_time": 1726657221,
+      "rank": 38,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
