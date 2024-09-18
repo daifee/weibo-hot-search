@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/18 15:36:57
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/18 16:26:13
 </p>
 </blockquote>
 <p>
@@ -717,6 +717,12 @@ Apple发布会（热度：2017612）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232%E4%B8%87%E4%B9%B0%E7%9A%84%E9%87%91%E9%95%AF%E5%AD%90%E6%B8%85%E6%B4%97%E6%97%B6%E8%A2%AB%E5%91%8A%E7%9F%A5%E6%98%AF%E5%81%87%E8%B4%A7%23" target="weibo">
+2万买的金镯子清洗时被告知是假货（热度：1976872）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90%E8%A7%86%E9%A2%91%E9%80%A0%E5%81%87%E5%A1%8C%E6%88%BF%23" target="weibo">
 网传东北雨姐视频造假塌房（热度：1962202）
 </a>
@@ -725,6 +731,12 @@ Apple发布会（热度：2017612）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%AD%E5%BF%83%E5%8D%83%E5%90%A8%E9%98%BB%E5%B0%BC%E5%99%A8%E6%91%86%E5%B9%85%E8%82%89%E7%9C%BC%E5%8F%AF%E8%A7%81%23" target="weibo">
 上海中心千吨阻尼器摆幅肉眼可见（热度：1960290）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E8%8C%97%E7%8E%A9%E6%A2%97%E7%BF%BB%E8%BD%A6%E8%87%B4%E6%AD%89%23" target="weibo">
+古茗玩梗翻车致歉（热度：1959059）
 </a>
 </li>
 
@@ -893,12 +905,6 @@ Apple发布会（热度：2017612）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%81%E9%9A%86%E5%B9%B3%E5%AD%99%E5%A5%B3%E4%BB%8A%E5%B9%B4%E5%85%A5%E8%AF%BB%E4%B8%AD%E5%9B%BD%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6%23" target="weibo">
 袁隆平孙女今年入读中国农业大学（热度：1798685）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E8%8C%97%E7%8E%A9%E6%A2%97%E7%BF%BB%E8%BD%A6%E8%87%B4%E6%AD%89%23" target="weibo">
-古茗玩梗翻车致歉（热度：1795553）
 </a>
 </li>
 
@@ -3285,6 +3291,12 @@ iPhone16定价（热度：1011795）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%239%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%9C%A8%E7%97%85%E6%88%BF%E8%A2%AB%E7%8C%A5%E4%BA%B5%23" target="weibo">
+9岁女童在病房被猥亵（热度：984110）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E6%A0%BC%E6%96%97%E5%A5%B3%E8%BF%90%E5%8A%A8%E5%91%98%E9%81%AD%E7%8C%A5%E4%BA%B5%23" target="weibo">
 警方回应格斗女运动员遭猥亵（热度：982333）
 </a>
@@ -3959,6 +3971,12 @@ WTT（热度：971085）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%89%E5%8F%AA%E7%BE%8A%E6%B6%89%E5%AB%8C%E8%AF%AF%E5%AF%BC%E6%B6%88%E8%B4%B9%E8%80%85%23" target="weibo">
 官方通报三只羊涉嫌误导消费者（热度：875423）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%B8%A6%E5%B0%8F%E6%B5%B7%E7%BB%B5%E5%9B%9E%E5%AE%B6%E8%BF%87%E4%B8%AD%E7%A7%8B%23" target="weibo">
+黄晓明带小海绵回家过中秋（热度：874738）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ iPhone16或成苹果最具争议手机（热度：644034）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%92%E7%BE%BD%E6%B7%B7%E5%8F%8C%E5%A4%A7%E9%AD%94%E7%8E%8B%20%E5%90%91%E4%BD%A0%E5%BC%80%E7%82%AE%23" target="weibo">
 乒羽混双大魔王 向你开炮（热度：636669）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E8%88%9E%E8%B9%88%E5%8A%A8%E4%BD%9C%E8%BF%91%E5%87%A0%E5%B9%B4%E8%87%B4%E5%A4%9A%E5%90%8D%E5%84%BF%E7%AB%A5%E7%98%AB%E7%97%AA%23" target="weibo">
-这个舞蹈动作近几年致多名儿童瘫痪（热度：636428）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%A3%9E%20%E6%9D%8E%E9%9C%8F%23" target="weibo">
-李飞 李霏（热度：636069）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%B7%B2%E6%8E%89%E7%B2%89%E8%B6%85200%E4%B8%87%23" target="weibo">
-小杨哥已掉粉超200万（热度：636061）
 </a>
 </li>
 
