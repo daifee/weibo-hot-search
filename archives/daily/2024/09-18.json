@@ -1,6 +1,6 @@
 {
   "startTime": 1726590451835,
-  "endTime": 1726637917971,
+  "endTime": 1726641055763,
   "band_list": [
     {
       "raw_hot": 8853103,
@@ -115,6 +115,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1076024,
+      "num": 1076024,
+      "word": "古茗",
+      "onboard_time": 1726637361,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1074652,
       "num": 1074652,
       "word": "周也工作室P掉了蟑螂",
@@ -153,6 +161,14 @@
       "onboard_time": 1726620080,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 933630,
+      "num": 437266,
+      "word": "伊能静儿子恩利再穿女装",
+      "onboard_time": 1726638979,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 883443,
@@ -211,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 786940,
+      "num": 786940,
+      "word": "12306回应上百人有票没座",
+      "onboard_time": 1726638800,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 717907,
       "num": 717907,
       "word": "孕妇泰国坠崖案当事人官宣生子",
@@ -265,6 +289,14 @@
       "onboard_time": 1726631841,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 617189,
+      "num": 437031,
+      "word": "韩安冉回应网红收入",
+      "onboard_time": 1726638501,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 602565,
@@ -339,6 +371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 493055,
+      "num": 493055,
+      "word": "Jennie打乒乓球",
+      "onboard_time": 1726638259,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 485707,
       "num": 485707,
       "word": "大闸蟹今年为啥卖不动了",
@@ -403,6 +443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 402974,
+      "num": 402974,
+      "word": "丁海寅点赞女网红",
+      "onboard_time": 1726639641,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 400886,
       "num": 400886,
       "word": "今日中国再不是1931年的中国",
@@ -451,6 +499,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 355746,
+      "num": 355746,
+      "word": "美诚月饼晒车间回应小作坊质疑",
+      "onboard_time": 1726637960,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346709,
       "num": 346709,
       "word": "黎巴嫩寻呼机爆炸案致大量人员受伤",
@@ -459,12 +515,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 345134,
+      "num": 345134,
+      "word": "警方通报深圳一男子持刀伤害路人",
+      "onboard_time": 1726639399,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 341202,
       "num": 341202,
       "word": "三只羊停播",
       "onboard_time": 1726579163,
       "rank": 10,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 337405,
+      "num": 337405,
+      "word": "于正回应莲花楼剧粉",
+      "onboard_time": 1726637960,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 337214,
@@ -587,12 +659,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269966,
-      "num": 269966,
-      "word": "古茗",
-      "onboard_time": 1726637361,
-      "rank": 25,
-      "category": "美食"
+      "raw_hot": 275041,
+      "num": 255443,
+      "word": "用人民币感受冰岛的物价",
+      "onboard_time": 1726640420,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 267232,
@@ -619,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261515,
+      "num": 261515,
+      "word": "3年赚102万外卖小哥疑车祸住院",
+      "onboard_time": 1726638381,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261297,
       "num": 261297,
       "word": "AG奶茶维权",
@@ -641,6 +721,14 @@
       "onboard_time": 1726583603,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 254675,
+      "num": 254675,
+      "word": "上官正义举报四川一医院违法代孕",
+      "onboard_time": 1726638979,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253407,
@@ -771,6 +859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 209701,
+      "num": 256166,
+      "word": "田嘉瑞反向砍价",
+      "onboard_time": 1726640058,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208781,
       "num": 208781,
       "word": "A股",
@@ -843,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182708,
+      "num": 182708,
+      "word": "A股盘中失守2700点",
+      "onboard_time": 1726639941,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 179299,
       "num": 179299,
       "word": "三只羊茅台供应商回应",
@@ -883,12 +987,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 168348,
+      "num": 168348,
+      "word": "魔兽世界开服",
+      "onboard_time": 1726641019,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 167483,
       "num": 169966,
       "word": "iOS通话录音功能支持老款iPhone",
       "onboard_time": 1726633461,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 164337,
+      "num": 164337,
+      "word": "一份731部队新罪证档案披露",
+      "onboard_time": 1726640659,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 161656,
@@ -1059,6 +1179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132031,
+      "num": 132031,
+      "word": "四六级报名",
+      "onboard_time": 1726640899,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 131254,
       "num": 131254,
       "word": "射手座永远向前看",
@@ -1097,6 +1225,14 @@
       "onboard_time": 1726580302,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121210,
+      "num": 437932,
+      "word": "官方回应眉山一妇产医院违法代孕",
+      "onboard_time": 1726640719,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117818,
@@ -1169,6 +1305,14 @@
       "onboard_time": 1726559720,
       "rank": 45,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 109669,
+      "num": 199432,
+      "word": "宋茜公路随拍",
+      "onboard_time": 1726638079,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 109093,
@@ -1257,6 +1401,14 @@
       "onboard_time": 1726612514,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88344,
+      "num": 435809,
+      "word": "网友向女子转账98万让帮买黄金",
+      "onboard_time": 1726639399,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88205,
@@ -1435,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 48126,
+      "num": 437666,
+      "word": "地方监管调查三只羊别护犊子",
+      "onboard_time": 1726639761,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45732,
       "num": 45732,
       "word": "欧冠联赛",
@@ -1449,6 +1609,14 @@
       "onboard_time": 1726594513,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 41238,
+      "num": 436147,
+      "word": "安徽萧县暴雨路上多车被淹至车顶",
+      "onboard_time": 1726641019,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36446,
