@@ -1,0 +1,410 @@
+{
+  "runTime": 1726633592115,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4498263,
+        "num": 4498263,
+        "word": "曾志伟看小杨哥带货美诚月饼表情",
+        "onboard_time": 1726630640,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1247505,
+        "num": 1247505,
+        "word": "黎巴嫩BP机爆炸9死2800伤",
+        "onboard_time": 1726621580,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 264858,
+        "num": 1068318,
+        "word": "中国在月球上留下了月饼",
+        "onboard_time": 1726631119,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1828641,
+        "num": 1067025,
+        "word": "美诚月饼第一批受害者出现了",
+        "onboard_time": 1726624579,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1058413,
+        "num": 1058413,
+        "word": "美方否认参与黎巴嫩BP机爆炸",
+        "onboard_time": 1726629620,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 911259,
+        "num": 911259,
+        "word": "三只羊复播",
+        "onboard_time": 1726627820,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 541397,
+        "num": 898826,
+        "word": "医生谈张馨予高原跳舞后又晕又吐",
+        "onboard_time": 1726626918,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 588306,
+        "num": 881623,
+        "word": "918鸣笛",
+        "onboard_time": 1726623440,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 165226,
+        "num": 856436,
+        "word": "广州通报美诚月饼事件",
+        "onboard_time": 1726633041,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84668,
+        "num": 832771,
+        "word": "知名打假人称美诚月饼涉嫌3大问题",
+        "onboard_time": 1726632500,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1005109,
+        "num": 821992,
+        "word": "王俊凯弟弟",
+        "onboard_time": 1726616779,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 810367,
+        "num": 810367,
+        "word": "三只羊授权直播间主播被骂沉默",
+        "onboard_time": 1726630640,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805756,
+        "num": 805756,
+        "word": "美媒称爆炸寻呼机产自台湾",
+        "onboard_time": 1726625780,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 688797,
+        "num": 688797,
+        "word": "台风普拉桑",
+        "onboard_time": 1726627580,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 671124,
+        "num": 671124,
+        "word": "专家建议所有的城镇房屋都应该交税",
+        "onboard_time": 1726627220,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457509,
+        "num": 652391,
+        "word": "中秋档票房",
+        "onboard_time": 1726630820,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 358900,
+        "num": 652196,
+        "word": "暮光之城作者也出演了电影",
+        "onboard_time": 1726627641,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29643,
+        "num": 652174,
+        "word": "王子奇 土松塑",
+        "onboard_time": 1726633340,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 652173,
+        "num": 652173,
+        "word": "浙江一官员3天穿同一件衣服出镜",
+        "onboard_time": 1726615096,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37653,
+        "num": 604019,
+        "word": "空调安装免上门费却收超千元",
+        "onboard_time": 1726633041,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 849521,
+        "num": 599991,
+        "word": "断眉官宣结婚",
+        "onboard_time": 1726624818,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 671909,
+        "num": 597891,
+        "word": "月薪从10万降到7万投行女高管讨薪",
+        "onboard_time": 1726626800,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591225,
+        "num": 591225,
+        "word": "黎巴嫩",
+        "onboard_time": 1726617920,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 508905,
+        "num": 508905,
+        "word": "美诚月饼回应有主播承诺假一赔三",
+        "onboard_time": 1726625841,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504643,
+        "num": 504643,
+        "word": "老人大半辈子积蓄埋土里被虫咬成碎片",
+        "onboard_time": 1726630220,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410979,
+        "num": 410979,
+        "word": "勿忘九一八",
+        "onboard_time": 1726590258,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 391804,
+        "num": 391804,
+        "word": "九一八事变93周年",
+        "onboard_time": 1726614736,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 361628,
+        "num": 361628,
+        "word": "周也工作室P掉了蟑螂",
+        "onboard_time": 1726597571,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350672,
+        "num": 350672,
+        "word": "电影731官宣定档",
+        "onboard_time": 1726632561,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218624,
+        "num": 325411,
+        "word": "言承旭自曝心动女生",
+        "onboard_time": 1726615457,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324452,
+        "num": 324452,
+        "word": "黎巴嫩呼吁民众立即扔掉BP机",
+        "onboard_time": 1726632381,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 286958,
+        "num": 286958,
+        "word": "美诚被曝曾为东方甄选代工月饼",
+        "onboard_time": 1726631841,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281874,
+        "num": 281874,
+        "word": "小鬼回应上厕所被航拍",
+        "onboard_time": 1726628299,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274139,
+        "num": 274139,
+        "word": "日本细菌战100人名单被发现",
+        "onboard_time": 1726629020,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 254497,
+        "num": 254497,
+        "word": "张雪峰回应研究生数量超本科生",
+        "onboard_time": 1726629200,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236943,
+        "num": 236943,
+        "word": "九一八历史博物馆鸣警撞钟仪式",
+        "onboard_time": 1726623199,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 227873,
+        "num": 227873,
+        "word": "教育部原副部长杜玉波被查",
+        "onboard_time": 1726623319,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212584,
+        "num": 212584,
+        "word": "学生晚11点后上厕所被定重大违纪",
+        "onboard_time": 1726624399,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211616,
+        "num": 211616,
+        "word": "有一种放假叫做虚假假期",
+        "onboard_time": 1726627940,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199984,
+        "num": 199984,
+        "word": "吾辈当自强",
+        "onboard_time": 1726618221,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 197669,
+        "num": 197669,
+        "word": "玉兔二号又皮了一下",
+        "onboard_time": 1726623199,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 196809,
+        "num": 196809,
+        "word": "贝碧嘉致河南大暴雨",
+        "onboard_time": 1726620080,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191139,
+        "num": 191139,
+        "word": "918",
+        "onboard_time": 1726591996,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181460,
+        "num": 181460,
+        "word": "2种方式可能让黎巴嫩BP机大量爆炸",
+        "onboard_time": 1726625302,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 105078,
+        "num": 180020,
+        "word": "周深中秋晚会的劳模",
+        "onboard_time": 1726632141,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179880,
+        "num": 179880,
+        "word": "沈阳举行撞钟鸣警仪式",
+        "onboard_time": 1726624579,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 178218,
+        "num": 178218,
+        "word": "苹果变安卓",
+        "onboard_time": 1726584742,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 170509,
+        "num": 170509,
+        "word": "曝hybe高层同行女爱豆吸毒过量死亡",
+        "onboard_time": 1726615457,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157478,
+        "num": 169969,
+        "word": "血管斑块最偏爱6类人",
+        "onboard_time": 1726630279,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151447,
+        "num": 169966,
+        "word": "iOS通话录音功能支持老款iPhone",
+        "onboard_time": 1726633461,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队淬火向前#"
+    }
+  }
+}

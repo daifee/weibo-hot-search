@@ -1,7 +1,15 @@
 {
   "startTime": 1726590451835,
-  "endTime": 1726630728174,
+  "endTime": 1726633592115,
   "band_list": [
+    {
+      "raw_hot": 4498263,
+      "num": 4498263,
+      "word": "曾志伟看小杨哥带货美诚月饼表情",
+      "onboard_time": 1726630640,
+      "rank": 22,
+      "category": "社会新闻,艺人"
+    },
     {
       "raw_hot": 2616285,
       "num": 1611260,
@@ -36,11 +44,19 @@
     },
     {
       "raw_hot": 1831000,
-      "num": 532940,
+      "num": 599991,
       "word": "断眉官宣结婚",
       "onboard_time": 1726624818,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1828641,
+      "num": 1189431,
+      "word": "美诚月饼第一批受害者出现了",
+      "onboard_time": 1726624579,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1769185,
@@ -83,14 +99,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1189431,
-      "num": 1189431,
-      "word": "美诚月饼第一批受害者出现了",
-      "onboard_time": 1726624579,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1110468,
       "num": 1110468,
       "word": "苹果变安卓",
@@ -105,6 +113,14 @@
       "onboard_time": 1726597571,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1058413,
+      "num": 1058413,
+      "word": "美方否认参与黎巴嫩BP机爆炸",
+      "onboard_time": 1726629620,
+      "rank": 37,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1025932,
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 881278,
-      "num": 531603,
+      "num": 597891,
       "word": "月薪从10万降到7万投行女高管讨薪",
       "onboard_time": 1726626800,
       "rank": 23,
@@ -169,6 +185,22 @@
       "onboard_time": 1726590258,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 810367,
+      "num": 810367,
+      "word": "三只羊授权直播间主播被骂沉默",
+      "onboard_time": 1726630640,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 805756,
+      "num": 805756,
+      "word": "美媒称爆炸寻呼机产自台湾",
+      "onboard_time": 1726625780,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 805089,
@@ -203,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 688797,
+      "num": 688797,
+      "word": "台风普拉桑",
+      "onboard_time": 1726627580,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 665558,
       "num": 665558,
       "word": "央视镜头下的金晨",
@@ -211,28 +251,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 643011,
-      "num": 643011,
-      "word": "台风普拉桑",
-      "onboard_time": 1726627580,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 602565,
       "num": 602565,
       "word": "王菲送李嫣英国留学",
       "onboard_time": 1726588279,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 564021,
-      "num": 608320,
-      "word": "美媒称爆炸寻呼机产自台湾",
-      "onboard_time": 1726625780,
-      "rank": 32,
-      "category": "国外时政"
     },
     {
       "raw_hot": 558994,
@@ -251,14 +275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 548641,
-      "num": 497980,
-      "word": "曾志伟看小杨哥带货美诚月饼表情",
-      "onboard_time": 1726630640,
-      "rank": 22,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 523545,
       "num": 536816,
       "word": "九一八历史博物馆鸣警撞钟仪式",
@@ -273,6 +289,14 @@
       "onboard_time": 1726591996,
       "rank": 12,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 504643,
+      "num": 504643,
+      "word": "老人大半辈子积蓄埋土里被虫咬成碎片",
+      "onboard_time": 1726630220,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 494399,
@@ -307,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 457509,
+      "num": 652391,
+      "word": "中秋档票房",
+      "onboard_time": 1726630820,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 455951,
       "num": 455951,
       "word": "小鬼回应上厕所被航拍",
@@ -321,14 +353,6 @@
       "onboard_time": 1726617379,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 452826,
-      "num": 728157,
-      "word": "美方否认参与黎巴嫩BP机爆炸",
-      "onboard_time": 1726629620,
-      "rank": 37,
-      "category": "国外时政"
     },
     {
       "raw_hot": 425005,
@@ -364,7 +388,7 @@
     },
     {
       "raw_hot": 382990,
-      "num": 548525,
+      "num": 652196,
       "word": "暮光之城作者也出演了电影",
       "onboard_time": 1726627641,
       "rank": 48,
@@ -377,6 +401,14 @@
       "onboard_time": 1726587919,
       "rank": 8,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 350672,
+      "num": 350672,
+      "word": "电影731官宣定档",
+      "onboard_time": 1726632561,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 346709,
@@ -409,6 +441,14 @@
       "onboard_time": 1726586061,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 324452,
+      "num": 324452,
+      "word": "黎巴嫩呼吁民众立即扔掉BP机",
+      "onboard_time": 1726632381,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 322860,
@@ -483,6 +523,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 286958,
+      "num": 286958,
+      "word": "美诚被曝曾为东方甄选代工月饼",
+      "onboard_time": 1726631841,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267232,
       "num": 584125,
       "word": "伊朗大使在黎巴嫩寻呼机爆炸案中受伤",
@@ -496,6 +544,14 @@
       "word": "张雪峰回应研究生数量超本科生",
       "onboard_time": 1726629200,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264858,
+      "num": 1068318,
+      "word": "中国在月球上留下了月饼",
+      "onboard_time": 1726631119,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -545,14 +601,6 @@
       "onboard_time": 1726617620,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 247622,
-      "num": 247622,
-      "word": "老人大半辈子积蓄埋土里被虫咬成碎片",
-      "onboard_time": 1726630220,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 247221,
@@ -659,28 +707,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198865,
-      "num": 198865,
-      "word": "918防空警报",
-      "onboard_time": 1726628780,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 194715,
-      "num": 194715,
+      "raw_hot": 199984,
+      "num": 199984,
       "word": "吾辈当自强",
       "onboard_time": 1726618221,
       "rank": 39,
       "category": "国内时政"
     },
     {
-      "raw_hot": 194039,
-      "num": 194039,
-      "word": "三只羊授权直播间主播被骂沉默",
-      "onboard_time": 1726630640,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 198865,
+      "num": 198865,
+      "word": "918防空警报",
+      "onboard_time": 1726628780,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 192127,
@@ -747,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165226,
+      "num": 856436,
+      "word": "广州通报美诚月饼事件",
+      "onboard_time": 1726633041,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160432,
       "num": 160432,
       "word": "iPhone15Pro也能拍空间照片了",
@@ -769,6 +817,14 @@
       "onboard_time": 1726623199,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 157478,
+      "num": 169969,
+      "word": "血管斑块最偏爱6类人",
+      "onboard_time": 1726630279,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 156365,
@@ -801,6 +857,14 @@
       "onboard_time": 1726623199,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 151447,
+      "num": 169966,
+      "word": "iOS通话录音功能支持老款iPhone",
+      "onboard_time": 1726633461,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 149944,
@@ -1003,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105078,
+      "num": 180020,
+      "word": "周深中秋晚会的劳模",
+      "onboard_time": 1726632141,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103157,
       "num": 103157,
       "word": "阿信 中秋之所以珍贵",
@@ -1057,6 +1129,14 @@
       "onboard_time": 1726571239,
       "rank": 37,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 84668,
+      "num": 832771,
+      "word": "知名打假人称美诚月饼涉嫌3大问题",
+      "onboard_time": 1726632500,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83015,
@@ -1211,6 +1291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 37653,
+      "num": 604019,
+      "word": "空调安装免上门费却收超千元",
+      "onboard_time": 1726633041,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36446,
       "num": 36446,
       "word": "疑似意图暗杀特朗普的嫌疑人出庭",
@@ -1241,6 +1329,14 @@
       "onboard_time": 1726594993,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29643,
+      "num": 652174,
+      "word": "王子奇 土松塑",
+      "onboard_time": 1726633340,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 26018,
@@ -1313,6 +1409,9 @@
     },
     {
       "word": "#在中秋月圆夜唱响中国调#"
+    },
+    {
+      "word": "#人民军队淬火向前#"
     }
   ]
 }
