@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/18 21:28:00
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/18 21:39:31
 </p>
 </blockquote>
 <p>
@@ -3639,6 +3639,12 @@ WTT（热度：971085）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8C%A4%E7%A0%B4%E8%BA%AB%E4%B8%8A%E7%97%98%E7%97%98%E4%BD%8F%E8%BF%9BICU%23" target="weibo">
+男子挤破身上痘痘住进ICU（热度：940706）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%97%BD%E8%BD%A9%E6%B2%A1%E7%A9%BF%E5%86%9B%E8%AE%AD%E6%9C%8D%23" target="weibo">
 李闽轩没穿军训服（热度：938284）
 </a>
@@ -4677,12 +4683,6 @@ WTT世界乒联致歉（热度：808824）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8C%A4%E7%A0%B4%E8%BA%AB%E4%B8%8A%E7%97%98%E7%97%98%E4%BD%8F%E8%BF%9BICU%23" target="weibo">
-男子挤破身上痘痘住进ICU（热度：800875）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E5%8F%91%E7%9A%84%E6%9C%88%E9%A5%BC%23" target="weibo">
 公司发的月饼（热度：800847）
 </a>
@@ -5097,6 +5097,12 @@ iPhone和微信你更离不开谁（热度：750022）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%A4%E5%8F%8B%E7%94%B5%E7%93%B6%E7%88%86%E7%87%83%E5%A4%A7%E4%B8%89%E7%94%B7%E7%94%9F%E5%85%A8%E8%BA%AB90%25%E7%83%A7%E4%BC%A4%23" target="weibo">
+室友电瓶爆燃大三男生全身90%烧伤（热度：747477）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BB%99%E6%B0%91%E8%AD%A6%E9%80%81%E9%94%A6%E6%97%97%E6%B0%91%E8%AD%A6%E5%8F%8D%E9%80%81%E4%B8%80%E5%89%AF%E6%89%8B%E9%93%90%23" target="weibo">
 女子给民警送锦旗民警反送一副手铐（热度：747445）
 </a>
@@ -5141,12 +5147,6 @@ iPhone和微信你更离不开谁（热度：750022）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%20%E5%B0%8F%E7%BA%A2%E5%B8%BD%23" target="weibo">
 蔡徐坤 小红帽（热度：740949）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%A4%E5%8F%8B%E7%94%B5%E7%93%B6%E7%88%86%E7%87%83%E5%A4%A7%E4%B8%89%E7%94%B7%E7%94%9F%E5%85%A8%E8%BA%AB90%25%E7%83%A7%E4%BC%A4%23" target="weibo">
-室友电瓶爆燃大三男生全身90%烧伤（热度：740356）
 </a>
 </li>
 
