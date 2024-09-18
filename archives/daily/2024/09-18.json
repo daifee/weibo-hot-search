@@ -1,6 +1,6 @@
 {
   "startTime": 1726590451835,
-  "endTime": 1726663245454,
+  "endTime": 1726664211016,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2980963,
-      "num": 730814,
+      "num": 738817,
       "word": "老人捡蜗牛吃身亡2守灵者吃后也死",
       "onboard_time": 1726648641,
       "rank": 35,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 927649,
+      "num": 927649,
+      "word": "浙江震感",
+      "onboard_time": 1726662389,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 924508,
       "num": 495395,
       "word": "存多少钱才能靠利息生活",
@@ -371,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 871686,
-      "num": 871686,
-      "word": "浙江震感",
-      "onboard_time": 1726662389,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 857855,
       "num": 857855,
       "word": "茅台回应三只羊所售兔茅真假争议",
@@ -419,12 +419,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 794929,
+      "num": 794929,
+      "word": "合肥地震带",
+      "onboard_time": 1726663463,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 765509,
       "num": 765509,
       "word": "王暖暖回应官宣生子",
       "onboard_time": 1726641620,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 747613,
+      "num": 747613,
+      "word": "男子挤破身上痘痘住进ICU",
+      "onboard_time": 1726660700,
+      "rank": 15,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 717907,
@@ -460,7 +476,7 @@
     },
     {
       "raw_hot": 702250,
-      "num": 888918,
+      "num": 928012,
       "word": "美国用饭圈散播南海属于菲律宾",
       "onboard_time": 1726657221,
       "rank": 33,
@@ -579,12 +595,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 545592,
-      "num": 545592,
-      "word": "男子挤破身上痘痘住进ICU",
-      "onboard_time": 1726660700,
-      "rank": 15,
-      "category": "健康医疗"
+      "raw_hot": 534648,
+      "num": 534648,
+      "word": "iPhone16评测",
+      "onboard_time": 1726663166,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 523545,
@@ -651,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 468485,
-      "num": 468485,
-      "word": "iPhone16评测",
-      "onboard_time": 1726663166,
-      "rank": 16,
-      "category": "数码"
-    },
-    {
       "raw_hot": 466995,
       "num": 466995,
       "word": "学生晚11点后上厕所被定重大违纪",
@@ -705,6 +713,14 @@
       "onboard_time": 1726617379,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 450984,
+      "num": 450984,
+      "word": "室友电瓶爆燃大三男生全身90%烧伤",
+      "onboard_time": 1726662090,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 450694,
@@ -779,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 412434,
+      "num": 412434,
+      "word": "村长李锐没认出森碟亮仔",
+      "onboard_time": 1726662090,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 410558,
       "num": 393773,
       "word": "女租客5年没扔垃圾房东崩溃",
@@ -801,6 +825,14 @@
       "onboard_time": 1726585163,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 405132,
+      "num": 405132,
+      "word": "台风",
+      "onboard_time": 1726662270,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400886,
@@ -835,8 +867,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 361002,
-      "num": 361002,
+      "raw_hot": 369746,
+      "num": 369746,
       "word": "侃爷名创优品购物小票遭泄露",
       "onboard_time": 1726660580,
       "rank": 24,
@@ -905,14 +937,6 @@
       "onboard_time": 1726652429,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 338162,
-      "num": 313778,
-      "word": "村长李锐没认出森碟亮仔",
-      "onboard_time": 1726662090,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 337214,
@@ -1001,14 +1025,6 @@
       "onboard_time": 1726621580,
       "rank": 27,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 307177,
-      "num": 307177,
-      "word": "室友电瓶爆燃大三男生全身90%烧伤",
-      "onboard_time": 1726662090,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 304387,
@@ -1120,14 +1136,6 @@
       "word": "校方回应学生晚11点后如厕被定违纪",
       "onboard_time": 1726651820,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268608,
-      "num": 268608,
-      "word": "台风",
-      "onboard_time": 1726662270,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -1347,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224119,
+      "num": 224119,
+      "word": "731部队用人体实验研制疫苗",
+      "onboard_time": 1726661121,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 220712,
       "num": 193814,
       "word": "三只羊直播间观看人数破万",
@@ -1491,6 +1507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 195266,
+      "num": 207079,
+      "word": "GOING SEVENTEEN",
+      "onboard_time": 1726663884,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192160,
       "num": 192160,
       "word": "美诚月饼曾宣称与米其林厨师合作",
@@ -1529,6 +1553,14 @@
       "onboard_time": 1726625959,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 187990,
+      "num": 187990,
+      "word": "六块钱的牛肉吃出了一头牛的感觉",
+      "onboard_time": 1726663463,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 185369,
@@ -1571,6 +1603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179189,
+      "num": 179189,
+      "word": "风象星座一般都不会作",
+      "onboard_time": 1726662210,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 178624,
       "num": 178624,
       "word": "iOS18相册恢复iOS17的办法",
@@ -1579,11 +1619,27 @@
       "category": "数码"
     },
     {
+      "raw_hot": 178579,
+      "num": 178579,
+      "word": "WTT首席赛事官辞职",
+      "onboard_time": 1726663463,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177728,
       "num": 177728,
       "word": "小杨哥所售茅台曾被茅台官方打假",
       "onboard_time": 1726644498,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177121,
+      "num": 177121,
+      "word": "台风普拉桑马上到",
+      "onboard_time": 1726663884,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1601,6 +1657,14 @@
       "onboard_time": 1726586782,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170910,
+      "num": 170910,
+      "word": "台风贝碧嘉致10余亩大棚受损",
+      "onboard_time": 1726664062,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170376,
@@ -1667,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161973,
+      "num": 161973,
+      "word": "今年十五的月亮十六超级圆",
+      "onboard_time": 1726661060,
+      "rank": 49,
+      "category": "自然"
+    },
+    {
       "raw_hot": 161656,
       "num": 161656,
       "word": "钟文泽测评",
@@ -1684,7 +1756,7 @@
     },
     {
       "raw_hot": 160371,
-      "num": 4979327,
+      "num": 5012344,
       "word": "大数据看中秋假期出游",
       "onboard_time": 1726649478,
       "rank": 2,
@@ -1883,14 +1955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142164,
-      "num": 142164,
-      "word": "今年十五的月亮十六超级圆",
-      "onboard_time": 1726661060,
-      "rank": 49,
-      "category": "自然"
-    },
-    {
       "raw_hot": 140682,
       "num": 445697,
       "word": "流水迢迢更新",
@@ -2049,6 +2113,14 @@
       "onboard_time": 1726630880,
       "rank": 2,
       "category": "电影"
+    },
+    {
+      "raw_hot": 120539,
+      "num": 927664,
+      "word": "山花烂漫时张桂梅霸气回怼",
+      "onboard_time": 1726662866,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 117818,
@@ -2235,14 +2307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 88841,
-      "num": 300284,
-      "word": "山花烂漫时张桂梅霸气回怼",
-      "onboard_time": 1726662866,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 88205,
       "num": 88205,
       "word": "合肥回应调查三只羊通报版本不同",
@@ -2380,7 +2444,7 @@
     },
     {
       "raw_hot": 66960,
-      "num": 872469,
+      "num": 927756,
       "word": "业内称手机不太会被遥控爆炸",
       "onboard_time": 1726663105,
       "rank": 9,
