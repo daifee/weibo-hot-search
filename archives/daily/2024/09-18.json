@@ -1,7 +1,39 @@
 {
   "startTime": 1726590451835,
-  "endTime": 1726616216668,
+  "endTime": 1726623446898,
   "band_list": [
+    {
+      "raw_hot": 2515086,
+      "num": 546646,
+      "word": "浙江一官员3天穿同一件衣服出镜",
+      "onboard_time": 1726615096,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1769185,
+      "num": 1769185,
+      "word": "九一八事变93周年",
+      "onboard_time": 1726614736,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1611260,
+      "num": 1611260,
+      "word": "调休",
+      "onboard_time": 1726621820,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1300228,
+      "num": 541695,
+      "word": "王俊凯弟弟",
+      "onboard_time": 1726616779,
+      "rank": 11,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1275745,
       "num": 1275745,
@@ -9,6 +41,14 @@
       "onboard_time": 1726578802,
       "rank": 17,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1208230,
+      "num": 1208230,
+      "word": "黎巴嫩",
+      "onboard_time": 1726617920,
+      "rank": 3,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1110468,
@@ -19,6 +59,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1074652,
+      "num": 1074652,
+      "word": "周也工作室P掉了蟑螂",
+      "onboard_time": 1726597571,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1025932,
       "num": 616279,
       "word": "三只羊或被罚营业额5倍吊销营业执照",
@@ -27,11 +75,27 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 751371,
-      "num": 751371,
-      "word": "九一八事变93周年",
-      "onboard_time": 1726614736,
-      "rank": 4,
+      "raw_hot": 974094,
+      "num": 974094,
+      "word": "贝碧嘉致河南大暴雨",
+      "onboard_time": 1726620080,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 857855,
+      "num": 857855,
+      "word": "茅台回应三只羊所售兔茅真假争议",
+      "onboard_time": 1726615816,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 820151,
+      "num": 820151,
+      "word": "勿忘九一八",
+      "onboard_time": 1726590258,
+      "rank": 18,
       "category": "国内时政"
     },
     {
@@ -41,6 +105,14 @@
       "onboard_time": 1726578622,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 708904,
+      "num": 708904,
+      "word": "言承旭自曝心动女生",
+      "onboard_time": 1726615457,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 703560,
@@ -75,12 +147,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 549145,
-      "num": 549145,
-      "word": "言承旭自曝心动女生",
-      "onboard_time": 1726615457,
-      "rank": 7,
-      "category": "综艺"
+      "raw_hot": 494399,
+      "num": 374451,
+      "word": "为什么放假越休息越累",
+      "onboard_time": 1726619181,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 485707,
@@ -91,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 471257,
+      "num": 471257,
+      "word": "918",
+      "onboard_time": 1726591996,
+      "rank": 12,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 462486,
       "num": 462486,
       "word": "王楚然硬美",
@@ -99,12 +179,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 456261,
-      "num": 456261,
-      "word": "浙江一官员3天穿同一件衣服出镜",
-      "onboard_time": 1726615096,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 454895,
+      "num": 454895,
+      "word": "刘浩存MiuMiu宣传照",
+      "onboard_time": 1726617379,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 425005,
@@ -131,12 +211,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 382459,
-      "num": 440519,
-      "word": "勿忘九一八",
-      "onboard_time": 1726590258,
-      "rank": 18,
-      "category": "国内时政"
+      "raw_hot": 379687,
+      "num": 379687,
+      "word": "黎巴嫩BP机爆炸9死2800伤",
+      "onboard_time": 1726621580,
+      "rank": 16,
+      "category": "国外时政"
     },
     {
       "raw_hot": 357481,
@@ -177,6 +257,14 @@
       "onboard_time": 1726584322,
       "rank": 12,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 317505,
+      "num": 317505,
+      "word": "玉兔二号又皮了一下",
+      "onboard_time": 1726623199,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 309978,
@@ -227,12 +315,44 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 271024,
-      "num": 271024,
-      "word": "918",
-      "onboard_time": 1726591996,
-      "rank": 12,
-      "category": "艺人,社会新闻"
+      "raw_hot": 276920,
+      "num": 276920,
+      "word": "93年前的今天不敢忘也不能忘",
+      "onboard_time": 1726619841,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 267232,
+      "num": 460917,
+      "word": "伊朗大使在黎巴嫩寻呼机爆炸案中受伤",
+      "onboard_time": 1726613534,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 261297,
+      "num": 261297,
+      "word": "AG奶茶维权",
+      "onboard_time": 1726617320,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 259447,
+      "num": 259447,
+      "word": "19310918不能忘不敢忘",
+      "onboard_time": 1726593434,
+      "rank": 47,
+      "category": "剧集,综艺"
+    },
+    {
+      "raw_hot": 256561,
+      "num": 377758,
+      "word": "张踩铃谈无法和解的女性伤害",
+      "onboard_time": 1726583603,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 253407,
@@ -241,6 +361,14 @@
       "onboard_time": 1726575681,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 253070,
+      "num": 375618,
+      "word": "鞠婧祎 LV",
+      "onboard_time": 1726617620,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 245743,
@@ -259,12 +387,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213964,
-      "num": 245785,
-      "word": "周也工作室P掉了蟑螂",
-      "onboard_time": 1726597571,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 231607,
+      "num": 231607,
+      "word": "距离国庆放假还有13天",
+      "onboard_time": 1726622479,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216207,
+      "num": 216207,
+      "word": "三只羊",
+      "onboard_time": 1726617920,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211712,
@@ -275,6 +411,46 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185347,
+      "num": 185347,
+      "word": "未拆封月饼少了半块五仁变五一",
+      "onboard_time": 1726615517,
+      "rank": 33,
+      "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 183237,
+      "num": 183237,
+      "word": "九一八历史博物馆鸣警撞钟仪式",
+      "onboard_time": 1726623199,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 178624,
+      "num": 178624,
+      "word": "iOS18相册恢复iOS17的办法",
+      "onboard_time": 1726615517,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 175372,
+      "num": 175372,
+      "word": "吃饱就睡其实和长胖没太大关系",
+      "onboard_time": 1726591756,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 174803,
+      "num": 174803,
+      "word": "吾辈当自强",
+      "onboard_time": 1726618221,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 171517,
       "num": 171517,
       "word": "王祖贤回台湾过中秋",
@@ -283,12 +459,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160432,
+      "num": 160432,
+      "word": "iPhone15Pro也能拍空间照片了",
+      "onboard_time": 1726621099,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 158390,
       "num": 158390,
       "word": "月亮",
       "onboard_time": 1726570099,
       "rank": 26,
       "category": "自然"
+    },
+    {
+      "raw_hot": 158144,
+      "num": 158144,
+      "word": "教育部原副部长杜玉波被查",
+      "onboard_time": 1726623319,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157486,
+      "num": 157486,
+      "word": "侵华日军满洲农业移民入植图首次展出",
+      "onboard_time": 1726623199,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 156365,
+      "num": 156365,
+      "word": "EDG拒绝和解",
+      "onboard_time": 1726621701,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 156311,
@@ -307,12 +515,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 154367,
-      "num": 154367,
-      "word": "吃饱就睡其实和长胖没太大关系",
-      "onboard_time": 1726591756,
-      "rank": 28,
-      "category": "健康医疗"
+      "raw_hot": 151716,
+      "num": 151716,
+      "word": "玉兔二号带来特殊中秋礼物",
+      "onboard_time": 1726623199,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 149944,
+      "num": 149944,
+      "word": "每个中国人都不能忘记九一八",
+      "onboard_time": 1726619901,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 147509,
@@ -323,20 +539,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147188,
+      "num": 147188,
+      "word": "新能源汽车省油不省钱",
+      "onboard_time": 1726623199,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 147028,
       "num": 147028,
       "word": "谁看了吴磊的月饼都得愣一下",
       "onboard_time": 1726571840,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 146608,
-      "num": 139720,
-      "word": "茅台回应三只羊所售兔茅真假争议",
-      "onboard_time": 1726615816,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145204,
@@ -355,14 +571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139797,
-      "num": 139797,
-      "word": "张踩铃谈无法和解的女性伤害",
-      "onboard_time": 1726583603,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 136749,
       "num": 273070,
       "word": "黎巴嫩多地无线电通信设备爆炸",
@@ -371,20 +579,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 135745,
-      "num": 135745,
-      "word": "iOS18相册恢复iOS17的办法",
-      "onboard_time": 1726615517,
-      "rank": 32,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 135511,
-      "num": 135511,
-      "word": "未拆封月饼少了半块五仁变五一",
-      "onboard_time": 1726615517,
-      "rank": 33,
-      "category": "美食,社会新闻"
+      "raw_hot": 136272,
+      "num": 136272,
+      "word": "这样除黑头真的很有效",
+      "onboard_time": 1726618701,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 134503,
@@ -433,6 +633,14 @@
       "onboard_time": 1726580302,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123678,
+      "num": 135614,
+      "word": "疑似镖人剧组停工",
+      "onboard_time": 1726616358,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 117818,
@@ -627,14 +835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 64402,
-      "num": 64402,
-      "word": "19310918不能忘不敢忘",
-      "onboard_time": 1726593434,
-      "rank": 47,
-      "category": "剧集,综艺"
-    },
-    {
       "raw_hot": 59882,
       "num": 59882,
       "word": "出走的决心",
@@ -665,6 +865,14 @@
       "onboard_time": 1726579762,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 48899,
+      "num": 1396236,
+      "word": "圆圆的大国重器送团圆的祝福",
+      "onboard_time": 1726584024,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45732,
@@ -712,14 +920,6 @@
       "word": "湖南到贵州菜篮专线票价仅7元",
       "onboard_time": 1726594993,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28185,
-      "num": 705080,
-      "word": "圆圆的大国重器送团圆的祝福",
-      "onboard_time": 1726584024,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

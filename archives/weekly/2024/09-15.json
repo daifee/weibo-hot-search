@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726616216668,
+  "endTime": 1726623446898,
   "band_list": [
     {
       "raw_hot": 8467522,
@@ -73,6 +73,14 @@
       "onboard_time": 1726390638,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2515086,
+      "num": 546646,
+      "word": "浙江一官员3天穿同一件衣服出镜",
+      "onboard_time": 1726615096,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2492487,
@@ -179,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1769185,
+      "num": 1769185,
+      "word": "九一八事变93周年",
+      "onboard_time": 1726614736,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1734503,
       "num": 1585884,
       "word": "张凌赫边吻边十指紧扣",
@@ -240,6 +256,14 @@
       "word": "女演员空中表演嫦娥奔月撞到吊车大臂",
       "onboard_time": 1726566798,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1611260,
+      "num": 1611260,
+      "word": "调休",
+      "onboard_time": 1726621820,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -483,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1300228,
+      "num": 541695,
+      "word": "王俊凯弟弟",
+      "onboard_time": 1726616779,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1296851,
       "num": 543079,
       "word": "国庆前或将一周一个台风",
@@ -593,6 +625,14 @@
       "onboard_time": 1726547182,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1208230,
+      "num": 1208230,
+      "word": "黎巴嫩",
+      "onboard_time": 1726617920,
+      "rank": 3,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1206455,
@@ -771,6 +811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1074652,
+      "num": 1074652,
+      "word": "周也工作室P掉了蟑螂",
+      "onboard_time": 1726597571,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1067935,
       "num": 1067935,
       "word": "消费者称美诚月饼送不出去也不敢吃",
@@ -857,6 +905,14 @@
       "onboard_time": 1726556899,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 974094,
+      "num": 974094,
+      "word": "贝碧嘉致河南大暴雨",
+      "onboard_time": 1726620080,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 970799,
@@ -963,6 +1019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 857855,
+      "num": 857855,
+      "word": "茅台回应三只羊所售兔茅真假争议",
+      "onboard_time": 1726615816,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 850677,
       "num": 850677,
       "word": "小学三年级英语新教材家长都懵了",
@@ -1025,6 +1089,14 @@
       "onboard_time": 1726577061,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 820151,
+      "num": 820151,
+      "word": "勿忘九一八",
+      "onboard_time": 1726590258,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 817009,
@@ -1163,14 +1235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 751371,
-      "num": 751371,
-      "word": "九一八事变93周年",
-      "onboard_time": 1726614736,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 738544,
       "num": 738544,
       "word": "好利来回应员工私自驾驶摩托或被开除",
@@ -1225,6 +1289,14 @@
       "onboard_time": 1726544900,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 708904,
+      "num": 708904,
+      "word": "言承旭自曝心动女生",
+      "onboard_time": 1726615457,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 706655,
@@ -1747,14 +1819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 549145,
-      "num": 549145,
-      "word": "言承旭自曝心动女生",
-      "onboard_time": 1726615457,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 548758,
       "num": 736329,
       "word": "王源慌了",
@@ -1979,6 +2043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 494399,
+      "num": 374451,
+      "word": "为什么放假越休息越累",
+      "onboard_time": 1726619181,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 493042,
       "num": 493042,
       "word": "李荣浩杨丞琳挽手逛家具店",
@@ -2067,6 +2139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 471257,
+      "num": 471257,
+      "word": "918",
+      "onboard_time": 1726591996,
+      "rank": 12,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 465932,
       "num": 531742,
       "word": "范丞丞去了侃爷试听会",
@@ -2099,20 +2179,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 456261,
-      "num": 456261,
-      "word": "浙江一官员3天穿同一件衣服出镜",
-      "onboard_time": 1726615096,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 455625,
       "num": 455625,
       "word": "上海官方辟谣台风相关谣言",
       "onboard_time": 1726496180,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 454895,
+      "num": 454895,
+      "word": "刘浩存MiuMiu宣传照",
+      "onboard_time": 1726617379,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 454238,
@@ -2427,12 +2507,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 382459,
-      "num": 440519,
-      "word": "勿忘九一八",
-      "onboard_time": 1726590258,
-      "rank": 18,
-      "category": "国内时政"
+      "raw_hot": 379687,
+      "num": 379687,
+      "word": "黎巴嫩BP机爆炸9死2800伤",
+      "onboard_time": 1726621580,
+      "rank": 16,
+      "category": "国外时政"
     },
     {
       "raw_hot": 379618,
@@ -2833,6 +2913,14 @@
       "onboard_time": 1726479079,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317505,
+      "num": 317505,
+      "word": "玉兔二号又皮了一下",
+      "onboard_time": 1726623199,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 316878,
@@ -3291,6 +3379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276920,
+      "num": 276920,
+      "word": "93年前的今天不敢忘也不能忘",
+      "onboard_time": 1726619841,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 275643,
       "num": 275643,
       "word": "一鹿彤行",
@@ -3329,14 +3425,6 @@
       "onboard_time": 1726580002,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 271024,
-      "num": 271024,
-      "word": "918",
-      "onboard_time": 1726591996,
-      "rank": 12,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 270347,
@@ -3385,6 +3473,14 @@
       "onboard_time": 1726493061,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267232,
+      "num": 460917,
+      "word": "伊朗大使在黎巴嫩寻呼机爆炸案中受伤",
+      "onboard_time": 1726613534,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 266918,
@@ -3499,6 +3595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 261297,
+      "num": 261297,
+      "word": "AG奶茶维权",
+      "onboard_time": 1726617320,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 260421,
       "num": 383331,
       "word": "去县城旅游的中产后悔了",
@@ -3521,6 +3625,14 @@
       "onboard_time": 1726470258,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259447,
+      "num": 259447,
+      "word": "19310918不能忘不敢忘",
+      "onboard_time": 1726593434,
+      "rank": 47,
+      "category": "剧集,综艺"
     },
     {
       "raw_hot": 258575,
@@ -3563,6 +3675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256561,
+      "num": 377758,
+      "word": "张踩铃谈无法和解的女性伤害",
+      "onboard_time": 1726583603,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 256492,
       "num": 256492,
       "word": "离婚了也要争婆婆的抚养权",
@@ -3585,6 +3705,14 @@
       "onboard_time": 1726380678,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 253070,
+      "num": 375618,
+      "word": "鞠婧祎 LV",
+      "onboard_time": 1726617620,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 252901,
@@ -3891,6 +4019,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 231607,
+      "num": 231607,
+      "word": "距离国庆放假还有13天",
+      "onboard_time": 1726622479,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231449,
       "num": 231449,
       "word": "抖音客服回应三只羊被立案调查",
@@ -4107,6 +4243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216207,
+      "num": 216207,
+      "word": "三只羊",
+      "onboard_time": 1726549640,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215750,
       "num": 215750,
       "word": "樱桃琥珀",
@@ -4137,14 +4281,6 @@
       "onboard_time": 1726545139,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 213964,
-      "num": 245785,
-      "word": "周也工作室P掉了蟑螂",
-      "onboard_time": 1726597571,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 213280,
@@ -4297,14 +4433,6 @@
       "onboard_time": 1726496720,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207485,
-      "num": 207485,
-      "word": "张踩铃谈无法和解的女性伤害",
-      "onboard_time": 1726583603,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 207319,
@@ -4617,14 +4745,6 @@
       "onboard_time": 1726539798,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198257,
-      "num": 198257,
-      "word": "三只羊",
-      "onboard_time": 1726549640,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198170,
@@ -5131,6 +5251,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 185347,
+      "num": 185347,
+      "word": "未拆封月饼少了半块五仁变五一",
+      "onboard_time": 1726615517,
+      "rank": 33,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 185215,
       "num": 185215,
       "word": "张杰中秋vlog",
@@ -5227,6 +5355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 183237,
+      "num": 183237,
+      "word": "九一八历史博物馆鸣警撞钟仪式",
+      "onboard_time": 1726623199,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 182665,
       "num": 660111,
       "word": "三只羊橱窗下架美诚月饼",
@@ -5321,6 +5457,14 @@
       "onboard_time": 1726403900,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 178624,
+      "num": 178624,
+      "word": "iOS18相册恢复iOS17的办法",
+      "onboard_time": 1726615517,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 178603,
@@ -5459,6 +5603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175372,
+      "num": 175372,
+      "word": "吃饱就睡其实和长胖没太大关系",
+      "onboard_time": 1726591756,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 175275,
       "num": 175275,
       "word": "晋江称机房网络运营商线路故障",
@@ -5473,6 +5625,14 @@
       "onboard_time": 1726400180,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 174803,
+      "num": 174803,
+      "word": "吾辈当自强",
+      "onboard_time": 1726618221,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 174360,
@@ -6027,6 +6187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160432,
+      "num": 160432,
+      "word": "iPhone15Pro也能拍空间照片了",
+      "onboard_time": 1726621099,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 160291,
       "num": 160291,
       "word": "贝碧嘉路径",
@@ -6131,6 +6299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158144,
+      "num": 158144,
+      "word": "教育部原副部长杜玉波被查",
+      "onboard_time": 1726623319,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158131,
       "num": 158131,
       "word": "凡人英雄挺身而出的高光时刻",
@@ -6161,6 +6337,14 @@
       "onboard_time": 1726402643,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157486,
+      "num": 157486,
+      "word": "侵华日军满洲农业移民入植图首次展出",
+      "onboard_time": 1726623199,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 157429,
@@ -6323,14 +6507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154367,
-      "num": 154367,
-      "word": "吃饱就睡其实和长胖没太大关系",
-      "onboard_time": 1726591756,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 153840,
       "num": 153840,
       "word": "张艺兴演唱会饭拍",
@@ -6387,6 +6563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151716,
+      "num": 151716,
+      "word": "玉兔二号带来特殊中秋礼物",
+      "onboard_time": 1726623199,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 151151,
       "num": 151151,
       "word": "月亮也有自己的拍照搭子",
@@ -6433,6 +6617,14 @@
       "onboard_time": 1726549580,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 149944,
+      "num": 149944,
+      "word": "每个中国人都不能忘记九一八",
+      "onboard_time": 1726619901,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 149883,
@@ -6539,12 +6731,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146608,
-      "num": 139720,
-      "word": "茅台回应三只羊所售兔茅真假争议",
-      "onboard_time": 1726615816,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 147188,
+      "num": 147188,
+      "word": "新能源汽车省油不省钱",
+      "onboard_time": 1726623199,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 146263,
@@ -7027,28 +7219,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136272,
+      "num": 136272,
+      "word": "这样除黑头真的很有效",
+      "onboard_time": 1726618701,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 136164,
       "num": 136164,
       "word": "郝蕾的脸和新中式太适配了",
       "onboard_time": 1726563921,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135745,
-      "num": 135745,
-      "word": "iOS18相册恢复iOS17的办法",
-      "onboard_time": 1726615517,
-      "rank": 32,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 135511,
-      "num": 135511,
-      "word": "未拆封月饼少了半块五仁变五一",
-      "onboard_time": 1726615517,
-      "rank": 33,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 135266,
@@ -7457,6 +7641,14 @@
       "onboard_time": 1726491499,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123678,
+      "num": 135614,
+      "word": "疑似镖人剧组停工",
+      "onboard_time": 1726616358,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 123567,
@@ -8587,14 +8779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 64402,
-      "num": 64402,
-      "word": "19310918不能忘不敢忘",
-      "onboard_time": 1726593434,
-      "rank": 47,
-      "category": "剧集,综艺"
-    },
-    {
       "raw_hot": 63233,
       "num": 580566,
       "word": "是时候抄底了",
@@ -8808,6 +8992,14 @@
       "word": "帮朋友送跑车保养撞车修车费30万",
       "onboard_time": 1726413080,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48899,
+      "num": 1396236,
+      "word": "圆圆的大国重器送团圆的祝福",
+      "onboard_time": 1726584024,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -9312,14 +9504,6 @@
       "word": "快递小哥台风中紧紧拽着快递",
       "onboard_time": 1726518191,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28185,
-      "num": 705080,
-      "word": "圆圆的大国重器送团圆的祝福",
-      "onboard_time": 1726584024,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
