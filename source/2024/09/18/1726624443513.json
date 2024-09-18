@@ -1,0 +1,410 @@
+{
+  "runTime": 1726624443513,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2365467,
+        "num": 2365467,
+        "word": "918鸣笛",
+        "onboard_time": 1726623440,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1410714,
+        "num": 1410714,
+        "word": "九一八事变93周年",
+        "onboard_time": 1726614736,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 39759,
+        "num": 1090698,
+        "word": "圆圆的大国重器送团圆的祝福",
+        "onboard_time": 1726584024,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1000034,
+        "num": 1000034,
+        "word": "黎巴嫩",
+        "onboard_time": 1726617920,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 985828,
+        "num": 985828,
+        "word": "黎巴嫩BP机爆炸9死2800伤",
+        "onboard_time": 1726621580,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1002792,
+        "num": 981189,
+        "word": "周也工作室P掉了蟑螂",
+        "onboard_time": 1726597571,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2616285,
+        "num": 961528,
+        "word": "调休",
+        "onboard_time": 1726621820,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655034,
+        "num": 943932,
+        "word": "言承旭自曝心动女生",
+        "onboard_time": 1726615457,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406187,
+        "num": 938779,
+        "word": "刘浩存MiuMiu宣传照",
+        "onboard_time": 1726617379,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 926055,
+        "num": 926055,
+        "word": "贝碧嘉致河南大暴雨",
+        "onboard_time": 1726620080,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2131894,
+        "num": 881661,
+        "word": "浙江一官员3天穿同一件衣服出镜",
+        "onboard_time": 1726615096,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1184867,
+        "num": 846874,
+        "word": "王俊凯弟弟",
+        "onboard_time": 1726616779,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 688528,
+        "num": 771711,
+        "word": "勿忘九一八",
+        "onboard_time": 1726590258,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 708068,
+        "num": 708068,
+        "word": "茅台回应三只羊所售兔茅真假争议",
+        "onboard_time": 1726615816,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168288,
+        "num": 584125,
+        "word": "伊朗大使在黎巴嫩寻呼机爆炸案中受伤",
+        "onboard_time": 1726613534,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 565469,
+        "num": 565469,
+        "word": "苹果变安卓",
+        "onboard_time": 1726584742,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 373940,
+        "num": 565344,
+        "word": "曝hybe高层同行女爱豆吸毒过量死亡",
+        "onboard_time": 1726615457,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256579,
+        "num": 565051,
+        "word": "张踩铃谈无法和解的女性伤害",
+        "onboard_time": 1726583603,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213187,
+        "num": 564918,
+        "word": "鞠婧祎 LV",
+        "onboard_time": 1726617620,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186659,
+        "num": 564583,
+        "word": "唐嫣宋慧乔秀场同框",
+        "onboard_time": 1726585163,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 564554,
+        "num": 564554,
+        "word": "教育部原副部长杜玉波被查",
+        "onboard_time": 1726623319,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474017,
+        "num": 474017,
+        "word": "三只羊或被罚营业额5倍吊销营业执照",
+        "onboard_time": 1726571420,
+        "rank": 21,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 468031,
+        "num": 468031,
+        "word": "为什么放假越休息越累",
+        "onboard_time": 1726619181,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 394695,
+        "num": 394695,
+        "word": "玉兔二号又皮了一下",
+        "onboard_time": 1726623199,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 382629,
+        "num": 382629,
+        "word": "泰山陪爬火了包登顶一单能挣100元",
+        "onboard_time": 1726598652,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368447,
+        "num": 368447,
+        "word": "918",
+        "onboard_time": 1726591996,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338362,
+        "num": 338362,
+        "word": "九一八历史博物馆鸣警撞钟仪式",
+        "onboard_time": 1726623199,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 303316,
+        "num": 303316,
+        "word": "93年前的今天不敢忘也不能忘",
+        "onboard_time": 1726619841,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 182594,
+        "num": 280493,
+        "word": "王菲送李嫣英国留学",
+        "onboard_time": 1726588279,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143471,
+        "num": 280352,
+        "word": "杨紫代言MK",
+        "onboard_time": 1726587919,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 280330,
+        "num": 280330,
+        "word": "孕妇泰国坠崖案当事人官宣生子",
+        "onboard_time": 1726578622,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262364,
+        "num": 262364,
+        "word": "距离国庆放假还有13天",
+        "onboard_time": 1726622479,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257474,
+        "num": 257474,
+        "word": "研究生数量超本科生高校招生引争议",
+        "onboard_time": 1726581141,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242755,
+        "num": 242755,
+        "word": "记者实探三只羊集团",
+        "onboard_time": 1726578802,
+        "rank": 33,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 129982,
+        "num": 236003,
+        "word": "疑似镖人剧组停工",
+        "onboard_time": 1726616358,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 234126,
+        "num": 234126,
+        "word": "AG奶茶维权",
+        "onboard_time": 1726617320,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 220123,
+        "num": 220123,
+        "word": "新能源汽车省油不省钱",
+        "onboard_time": 1726623199,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 205458,
+        "num": 205458,
+        "word": "19310918不能忘不敢忘",
+        "onboard_time": 1726593434,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192127,
+        "num": 192127,
+        "word": "沈阳全城拉响防空警报",
+        "onboard_time": 1726624040,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179299,
+        "num": 179299,
+        "word": "三只羊茅台供应商回应",
+        "onboard_time": 1726623619,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177806,
+        "num": 177806,
+        "word": "今日中国再不是1931年的中国",
+        "onboard_time": 1726589839,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 176913,
+        "num": 176913,
+        "word": "吾辈当自强",
+        "onboard_time": 1726618221,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 173289,
+        "num": 173289,
+        "word": "三只羊",
+        "onboard_time": 1726617920,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159939,
+        "num": 159939,
+        "word": "吃饱就睡其实和长胖没太大关系",
+        "onboard_time": 1726591756,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150279,
+        "num": 150279,
+        "word": "EDG拒绝和解",
+        "onboard_time": 1726621701,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149903,
+        "num": 149903,
+        "word": "玉兔二号带来特殊中秋礼物",
+        "onboard_time": 1726623199,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149880,
+        "num": 149880,
+        "word": "iPhone15Pro也能拍空间照片了",
+        "onboard_time": 1726621099,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 148741,
+        "num": 148741,
+        "word": "学生晚11点后上厕所被定重大违纪",
+        "onboard_time": 1726624399,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147038,
+        "num": 147038,
+        "word": "侵华日军满洲农业移民入植图首次展出",
+        "onboard_time": 1726623199,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124417,
+        "num": 144040,
+        "word": "央视boys穿西装没告诉撒贝宁",
+        "onboard_time": 1726586061,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
