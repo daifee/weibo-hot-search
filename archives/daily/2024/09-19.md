@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/19 00:26:37 ~ 2024/09/19 04:23:15
+本榜单时间：2024/09/19 00:26:37 ~ 2024/09/19 04:37:08
 </p>
 </blockquote>
 <p>
@@ -363,6 +363,12 @@ iPhone16ProMax充电日常27W（热度：113424）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E5%B7%B2%E9%80%80%E8%BF%98%E5%A6%82%E5%8E%95%E8%A2%AB%E5%AE%9A%E8%BF%9D%E7%BA%AA%E5%AD%A6%E7%94%9F%E6%89%93%E5%8D%B0%E8%B4%B9%23" target="weibo">
+校方已退还如厕被定违纪学生打印费（热度：55628）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%8B%E5%81%87%E6%9C%9F%E6%95%B0%E6%8D%AE%E7%9B%98%E7%82%B9%23" target="weibo">
 中秋假期数据盘点（热度：53638）
 </a>
@@ -401,12 +407,6 @@ iPhone16ProMax充电日常27W（热度：113424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%AA%E9%97%AE%E8%87%AA%E7%AD%94%E4%B8%BA%E5%95%A5%E8%A2%AB%E5%88%BA%E6%9D%80%E7%9A%84%E6%80%BB%E6%98%AF%E6%88%91%23" target="weibo">
 特朗普自问自答为啥被刺杀的总是我（热度：28064）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E5%B7%B2%E9%80%80%E8%BF%98%E5%A6%82%E5%8E%95%E8%A2%AB%E5%AE%9A%E8%BF%9D%E7%BA%AA%E5%AD%A6%E7%94%9F%E6%89%93%E5%8D%B0%E8%B4%B9%23" target="weibo">
-校方已退还如厕被定违纪学生打印费（热度：26665）
 </a>
 </li>
 

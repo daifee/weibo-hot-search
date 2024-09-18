@@ -1,6 +1,6 @@
 {
   "startTime": 1726676797598,
-  "endTime": 1726690995051,
+  "endTime": 1726691828922,
   "band_list": [
     {
       "raw_hot": 1053361,
@@ -467,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55628,
+      "num": 55628,
+      "word": "校方已退还如厕被定违纪学生打印费",
+      "onboard_time": 1726687631,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53638,
       "num": 739886,
       "word": "中秋假期数据盘点",
@@ -521,14 +529,6 @@
       "onboard_time": 1726686131,
       "rank": 38,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 26665,
-      "num": 51028,
-      "word": "校方已退还如厕被定违纪学生打印费",
-      "onboard_time": 1726687631,
-      "rank": 49,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

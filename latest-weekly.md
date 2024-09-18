@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/15 00:25:22 ~ 2024/09/19 04:23:15
+本榜单时间：2024/09/15 00:25:22 ~ 2024/09/19 04:37:08
 </p>
 </blockquote>
 <p>
@@ -8265,6 +8265,12 @@ Capper 发条盆友圈（热度：76422）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E5%B7%B2%E9%80%80%E8%BF%98%E5%A6%82%E5%8E%95%E8%A2%AB%E5%AE%9A%E8%BF%9D%E7%BA%AA%E5%AD%A6%E7%94%9F%E6%89%93%E5%8D%B0%E8%B4%B9%23" target="weibo">
+校方已退还如厕被定违纪学生打印费（热度：55628）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%96%E8%BD%A6%E5%8F%B8%E6%9C%BA%E5%9B%A0%E9%A1%BE%E5%AE%A2%E7%AD%BE%E5%AD%97%E9%9D%9E%E6%AD%A3%E6%A5%B7%E8%A2%AB%E6%89%A3%E9%92%B1%23" target="weibo">
 拖车司机因顾客签字非正楷被扣钱（热度：54169）
 </a>
@@ -8939,12 +8945,6 @@ FULLMOON颁奖盛典（热度：32222）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E5%85%AB%E4%B9%98%E7%BB%84%E5%A4%AA%E7%A9%BA%E5%87%BA%E5%B7%AE%E5%91%A8%E8%AE%B0%E4%B8%8A%E6%96%B0%23" target="weibo">
 神十八乘组太空出差周记上新（热度：26888）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E5%B7%B2%E9%80%80%E8%BF%98%E5%A6%82%E5%8E%95%E8%A2%AB%E5%AE%9A%E8%BF%9D%E7%BA%AA%E5%AD%A6%E7%94%9F%E6%89%93%E5%8D%B0%E8%B4%B9%23" target="weibo">
-校方已退还如厕被定违纪学生打印费（热度：26665）
 </a>
 </li>
 
