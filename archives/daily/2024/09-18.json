@@ -1,6 +1,6 @@
 {
   "startTime": 1726590451835,
-  "endTime": 1726669253098,
+  "endTime": 1726670363987,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1790772,
+      "num": 1790772,
+      "word": "张翰朴敏英9年前的剧播了",
+      "onboard_time": 1726667001,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1769185,
       "num": 1769185,
       "word": "九一八事变93周年",
@@ -161,14 +169,6 @@
       "onboard_time": 1726646358,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1656301,
-      "num": 1656301,
-      "word": "张翰朴敏英9年前的剧播了",
-      "onboard_time": 1726667001,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 1550798,
@@ -272,6 +272,14 @@
       "word": "吴谨言洪尧婚戒设计图",
       "onboard_time": 1726650260,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1142528,
+      "num": 1142528,
+      "word": "石班瑜因心脏骤停去世",
+      "onboard_time": 1726667421,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -443,20 +451,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 834161,
+      "num": 834161,
+      "word": "室友电瓶爆燃大三男生全身90%烧伤",
+      "onboard_time": 1726662090,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 820151,
       "num": 820151,
       "word": "勿忘九一八",
       "onboard_time": 1726590258,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 816711,
-      "num": 816711,
-      "word": "室友电瓶爆燃大三男生全身90%烧伤",
-      "onboard_time": 1726662090,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 805756,
@@ -481,14 +489,6 @@
       "onboard_time": 1726659440,
       "rank": 14,
       "category": "网红"
-    },
-    {
-      "raw_hot": 785229,
-      "num": 785229,
-      "word": "石班瑜因心脏骤停去世",
-      "onboard_time": 1726667421,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 765509,
@@ -659,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 543557,
+      "num": 823136,
+      "word": "村长李锐没认出森碟亮仔",
+      "onboard_time": 1726662090,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 534648,
       "num": 534648,
       "word": "iPhone16评测",
@@ -729,14 +737,6 @@
       "onboard_time": 1726581683,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 473737,
-      "num": 823136,
-      "word": "村长李锐没认出森碟亮仔",
-      "onboard_time": 1726662090,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 466995,
@@ -856,6 +856,14 @@
       "word": "泰山陪爬火了包登顶一单能挣100元",
       "onboard_time": 1726598652,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424625,
+      "num": 424625,
+      "word": "安徽启动一级地震应急服务响应",
+      "onboard_time": 1726668861,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1011,6 +1019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 336530,
+      "num": 336530,
+      "word": "合肥地震最新情况",
+      "onboard_time": 1726668083,
+      "rank": 26,
+      "category": "社会新闻,国内时政"
+    },
+    {
       "raw_hot": 336004,
       "num": 336004,
       "word": "杭州13岁女生每天一杯奶茶牙被腐蚀",
@@ -1099,6 +1115,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 308853,
+      "num": 380549,
+      "word": "凡人歌为了这句话铺垫36集",
+      "onboard_time": 1726668203,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 308491,
       "num": 308491,
       "word": "黎巴嫩BP机爆炸已致11死4000伤",
@@ -1123,11 +1147,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 302903,
+      "num": 554988,
+      "word": "王一博自己就能把经取了",
+      "onboard_time": 1726666643,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 301134,
       "num": 301134,
       "word": "韩国第一夫人重启公开活动引不满",
       "onboard_time": 1726588399,
       "rank": 38,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 298878,
+      "num": 298878,
+      "word": "以色列在5000台寻呼机内安装炸药",
+      "onboard_time": 1726665444,
+      "rank": 46,
       "category": "国外时政"
     },
     {
@@ -1145,22 +1185,6 @@
       "onboard_time": 1726555580,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 294812,
-      "num": 294812,
-      "word": "合肥地震最新情况",
-      "onboard_time": 1726668083,
-      "rank": 26,
-      "category": "社会新闻,国内时政"
-    },
-    {
-      "raw_hot": 291778,
-      "num": 554988,
-      "word": "王一博自己就能把经取了",
-      "onboard_time": 1726666643,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 291132,
@@ -1243,14 +1267,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 265553,
-      "num": 265553,
-      "word": "以色列在5000台寻呼机内安装炸药",
-      "onboard_time": 1726665444,
-      "rank": 46,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 265397,
       "num": 265397,
       "word": "张雪峰回应研究生数量超本科生",
@@ -1264,6 +1280,22 @@
       "word": "真的不建议随便设微信铃声",
       "onboard_time": 1726646539,
       "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 263213,
+      "num": 617071,
+      "word": "直击合肥地震震中",
+      "onboard_time": 1726667782,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262846,
+      "num": 262846,
+      "word": "猫 没人我可就不装了",
+      "onboard_time": 1726666521,
+      "rank": 45,
       "category": "幽默"
     },
     {
@@ -1292,7 +1324,7 @@
     },
     {
       "raw_hot": 260461,
-      "num": 260461,
+      "num": 620526,
       "word": "台风普拉桑马上到",
       "onboard_time": 1726663884,
       "rank": 44,
@@ -1363,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249000,
+      "num": 249000,
+      "word": "降息",
+      "onboard_time": 1726669823,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 248951,
       "num": 568911,
       "word": "魏大勋真内娱米莱狄",
@@ -1400,6 +1440,14 @@
       "word": "美诚月饼",
       "onboard_time": 1726635381,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241755,
+      "num": 241755,
+      "word": "合肥今年已发生4次地震",
+      "onboard_time": 1726668683,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -1441,14 +1489,6 @@
       "onboard_time": 1726646059,
       "rank": 34,
       "category": "美食"
-    },
-    {
-      "raw_hot": 235697,
-      "num": 270972,
-      "word": "凡人歌为了这句话铺垫36集",
-      "onboard_time": 1726668203,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 233928,
@@ -1547,19 +1587,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 214899,
+      "num": 214899,
+      "word": "美联储",
+      "onboard_time": 1726669042,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 214302,
       "num": 214302,
       "word": "女子80元预约通马桶结账超1000",
       "onboard_time": 1726627159,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212233,
-      "num": 212233,
-      "word": "合肥今年已发生4次地震",
-      "onboard_time": 1726668683,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -1585,14 +1625,6 @@
       "onboard_time": 1726640058,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209359,
-      "num": 209359,
-      "word": "猫 没人我可就不装了",
-      "onboard_time": 1726666521,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 208781,
@@ -1651,6 +1683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201221,
+      "num": 263017,
+      "word": "杨洋雨霖铃新造型",
+      "onboard_time": 1726669042,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200107,
       "num": 230401,
       "word": "蒋奇明 大人中",
@@ -1675,28 +1715,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 198750,
-      "num": 198750,
-      "word": "安徽启动一级地震应急服务响应",
-      "onboard_time": 1726668861,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195266,
       "num": 207079,
       "word": "GOING SEVENTEEN",
       "onboard_time": 1726663884,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194226,
-      "num": 198394,
-      "word": "美联储",
-      "onboard_time": 1726669042,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 192160,
@@ -1737,14 +1761,6 @@
       "onboard_time": 1726653680,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189916,
-      "num": 204176,
-      "word": "杨洋雨霖铃新造型",
-      "onboard_time": 1726669042,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 189509,
@@ -1843,6 +1859,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 172995,
+      "num": 172995,
+      "word": "教育局通报学生晚上如厕被罚事件",
+      "onboard_time": 1726670063,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171517,
       "num": 171517,
       "word": "王祖贤回台湾过中秋",
@@ -1905,6 +1929,14 @@
       "onboard_time": 1726640659,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 163695,
+      "num": 163695,
+      "word": "合肥地震超12万人收到地震预警",
+      "onboard_time": 1726670242,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163591,
@@ -2081,14 +2113,6 @@
       "onboard_time": 1726644859,
       "rank": 8,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 149538,
-      "num": 617071,
-      "word": "直击合肥地震震中",
-      "onboard_time": 1726667782,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148344,
@@ -2811,6 +2835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46858,
+      "num": 583658,
+      "word": "雪迷宫",
+      "onboard_time": 1726669823,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 45732,
       "num": 45732,
       "word": "欧冠联赛",
@@ -2889,6 +2921,14 @@
       "onboard_time": 1726647921,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35120,
+      "num": 586978,
+      "word": "云南一煤矿事故迟报谎报伪造现场",
+      "onboard_time": 1726668203,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34780,
@@ -3024,14 +3064,6 @@
       "word": "发现最美铁路探寻共和国印记",
       "onboard_time": 1726667001,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18908,
-      "num": 586978,
-      "word": "云南一煤矿事故迟报谎报伪造现场",
-      "onboard_time": 1726668203,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
