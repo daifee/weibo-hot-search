@@ -1,7 +1,23 @@
 {
   "startTime": 1726676797598,
-  "endTime": 1726699115017,
+  "endTime": 1726701665462,
   "band_list": [
+    {
+      "raw_hot": 1965467,
+      "num": 1965467,
+      "word": "女子58页PPT举报管培生男友嫖娼",
+      "onboard_time": 1726686911,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1764713,
+      "num": 1764713,
+      "word": "降息",
+      "onboard_time": 1726669823,
+      "rank": 4,
+      "category": "财经"
+    },
     {
       "raw_hot": 1053361,
       "num": 1053361,
@@ -11,28 +27,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 960247,
-      "num": 960247,
-      "word": "女子58页PPT举报管培生男友嫖娼",
-      "onboard_time": 1726686911,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 872254,
       "num": 872254,
       "word": "合肥地震",
       "onboard_time": 1726661786,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 846493,
-      "num": 846493,
-      "word": "降息",
-      "onboard_time": 1726669823,
-      "rank": 4,
-      "category": "财经"
     },
     {
       "raw_hot": 784070,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 551573,
+      "num": 551573,
+      "word": "黎巴嫩又发生对讲机爆炸",
+      "onboard_time": 1726675279,
+      "rank": 7,
+      "category": "国外时政,军事"
+    },
+    {
       "raw_hot": 532774,
       "num": 532774,
       "word": "安徽启动一级地震应急服务响应",
@@ -83,14 +91,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 510833,
-      "num": 510833,
-      "word": "黎巴嫩又发生对讲机爆炸",
-      "onboard_time": 1726675279,
-      "rank": 7,
-      "category": "国外时政,军事"
-    },
-    {
       "raw_hot": 460534,
       "num": 460534,
       "word": "张桂梅原话 大大方方拍出来",
@@ -105,6 +105,14 @@
       "onboard_time": 1726662628,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 432395,
+      "num": 432395,
+      "word": "小英名下关联4家企业",
+      "onboard_time": 1726681093,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 423857,
@@ -129,6 +137,22 @@
       "onboard_time": 1726650740,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 357876,
+      "num": 357876,
+      "word": "张雨绮疑似被换角",
+      "onboard_time": 1726701436,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 335306,
+      "num": 335306,
+      "word": "父女看打铁花表演被烫伤",
+      "onboard_time": 1726680614,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 325828,
@@ -179,6 +203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 241546,
+      "num": 340933,
+      "word": "校方已退还如厕被定违纪学生打印费",
+      "onboard_time": 1726687631,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229950,
       "num": 302740,
       "word": "侃爷名创优品购物小票遭泄露",
@@ -192,6 +224,14 @@
       "word": "男子酒店洗澡后发现沐浴露瓶内发霉",
       "onboard_time": 1726673300,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215407,
+      "num": 215407,
+      "word": "人均3000元餐厅主厨代言美诚月饼",
+      "onboard_time": 1726658480,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -219,11 +259,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189068,
-      "num": 189068,
-      "word": "小英名下关联4家企业",
-      "onboard_time": 1726681093,
-      "rank": 24,
+      "raw_hot": 184328,
+      "num": 165159,
+      "word": "小杨哥曾晒单买20盒美心月饼",
+      "onboard_time": 1726659440,
+      "rank": 31,
       "category": "网红"
     },
     {
@@ -251,28 +291,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 165159,
-      "num": 165159,
-      "word": "小杨哥曾晒单买20盒美心月饼",
-      "onboard_time": 1726659440,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 163198,
-      "num": 153452,
+      "num": 161175,
       "word": "三只羊别再玩文字游戏了",
       "onboard_time": 1726670362,
       "rank": 33,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 156078,
-      "num": 129025,
-      "word": "父女看打铁花表演被烫伤",
-      "onboard_time": 1726680614,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154909,
@@ -299,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139077,
+      "num": 139077,
+      "word": "普拉桑将正面影响台州",
+      "onboard_time": 1726694771,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138107,
       "num": 138107,
       "word": "江慈这是什么爽女人设",
@@ -315,12 +347,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130331,
+      "num": 130331,
+      "word": "张雨绮风波后首现身",
+      "onboard_time": 1726660460,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 128294,
+      "num": 128294,
+      "word": "离婚后妻子要求分割婆婆买的房子",
+      "onboard_time": 1726701498,
+      "rank": 26,
+      "category": "社会新闻,剧集"
+    },
+    {
       "raw_hot": 125409,
       "num": 125409,
       "word": "2万买的金镯子清洗时被告知是假货",
       "onboard_time": 1726646298,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116740,
+      "num": 116740,
+      "word": "港姐冠军回应合照被亚军压住",
+      "onboard_time": 1726699754,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 115972,
@@ -339,6 +395,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 113260,
+      "num": 113260,
+      "word": "一起迎接新中国成立75周年",
+      "onboard_time": 1726696631,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 112025,
       "num": 112025,
       "word": "小伙5分钟吃4个月饼胆囊发炎被切除",
@@ -347,20 +411,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110868,
+      "num": 110868,
+      "word": "受地震影响合肥多处房屋开裂",
+      "onboard_time": 1726700055,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109538,
+      "num": 109538,
+      "word": "美联储降息有什么影响",
+      "onboard_time": 1726686911,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 108686,
       "num": 98415,
       "word": "刘美含 我不是明星",
       "onboard_time": 1726677136,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108408,
-      "num": 129360,
-      "word": "普拉桑将正面影响台州",
-      "onboard_time": 1726694771,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108316,
@@ -395,27 +467,19 @@
       "category": "网红"
     },
     {
+      "raw_hot": 96552,
+      "num": 96552,
+      "word": "合肥地震居民从睡梦中被摇醒",
+      "onboard_time": 1726678275,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96131,
       "num": 96131,
       "word": "直击合肥地震震中",
       "onboard_time": 1726667782,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96016,
-      "num": 96016,
-      "word": "校方已退还如厕被定违纪学生打印费",
-      "onboard_time": 1726687631,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94453,
-      "num": 94452,
-      "word": "人均3000元餐厅主厨代言美诚月饼",
-      "onboard_time": 1726658480,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -435,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86232,
+      "num": 96783,
+      "word": "关晓彤黄景瑜吻戏路透",
+      "onboard_time": 1726701436,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 84720,
       "num": 84720,
       "word": "王暖暖不打算公布孩子父亲",
@@ -451,12 +523,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74767,
-      "num": 99772,
-      "word": "一起迎接新中国成立75周年",
-      "onboard_time": 1726696631,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 81900,
+      "num": 81900,
+      "word": "王菲和陈粒一起唱K",
+      "onboard_time": 1726701436,
+      "rank": 45,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 81096,
+      "num": 81096,
+      "word": "台风普拉桑即将进入24小时警戒线",
+      "onboard_time": 1726700416,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74633,
@@ -467,20 +547,20 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 73157,
+      "num": 73157,
+      "word": "台风普拉桑移动速度是摩羯4倍",
+      "onboard_time": 1726685232,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69656,
       "num": 61849,
       "word": "美联储2020年以来首次降息",
       "onboard_time": 1726683612,
       "rank": 21,
       "category": "财经"
-    },
-    {
-      "raw_hot": 66837,
-      "num": 66837,
-      "word": "合肥地震居民从睡梦中被摇醒",
-      "onboard_time": 1726678275,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62770,
@@ -491,12 +571,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 57918,
-      "num": 57918,
-      "word": "美联储降息有什么影响",
-      "onboard_time": 1726686911,
-      "rank": 25,
-      "category": "财经"
+      "raw_hot": 60985,
+      "num": 906912,
+      "word": "中秋假期数据盘点",
+      "onboard_time": 1726675639,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56952,
@@ -507,28 +587,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53638,
-      "num": 739886,
-      "word": "中秋假期数据盘点",
-      "onboard_time": 1726675639,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 52180,
       "num": 52180,
       "word": "卢昱晓素颜上班",
       "onboard_time": 1726680015,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 46433,
-      "num": 46433,
-      "word": "台风普拉桑移动速度是摩羯4倍",
-      "onboard_time": 1726685232,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41992,
