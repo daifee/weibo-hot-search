@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/18 18:40:49
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/18 19:18:38
 </p>
 </blockquote>
 <p>
@@ -3717,6 +3717,12 @@ WTT（热度：971085）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E7%99%BE%E6%83%A0%E5%B7%B2%E7%BB%8F%E7%94%B3%E8%AF%B7%E7%A0%B4%E4%BA%A7%E4%BF%9D%E6%8A%A4%23" target="weibo">
+特百惠已经申请破产保护（热度：916328）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%BC%80%E6%92%AD%E5%9B%9E%E5%BA%94%E4%B8%8E%E8%BE%9B%E5%B7%B4%E7%9A%84%E7%9F%9B%E7%9B%BE%23" target="weibo">
 小杨哥开播回应与辛巴的矛盾（热度：916202）
 </a>
@@ -5991,6 +5997,12 @@ iPhone16或成苹果最具争议手机（热度：644034）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E5%9C%B0%E9%93%81%E7%AB%99%E5%90%83%E7%93%9C%E7%93%9C%E7%93%9C%E7%82%B8%E8%A3%82%23" target="weibo">
+青岛地铁站吃瓜瓜瓜炸裂（热度：641792）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%20%E6%AD%A2%E9%BC%BE%E5%99%A8%23" target="weibo">
 金晨 止鼾器（热度：641527）
 </a>
@@ -5999,18 +6011,6 @@ iPhone16或成苹果最具争议手机（热度：644034）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E7%BB%99%E6%9D%A8%E6%B4%8B%E6%8C%87%E4%BB%A3%E6%8B%8D%23" target="weibo">
 章若楠给杨洋指代拍（热度：641480）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%B4%BE%E4%B8%89%E5%8F%94%E8%AF%B4%E8%A2%AB%E9%AA%82%E5%8D%81%E5%B9%B4%E5%BE%88%E5%A7%94%E5%B1%88%23" target="weibo">
-南派三叔说被骂十年很委屈（热度：641457）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%AD%E4%BE%9B%E6%88%BF%E8%B4%B7%E8%A2%AB%E5%86%B7%E5%A4%84%E7%90%86%23" target="weibo">
-断供房贷被冷处理（热度：641437）
 </a>
 </li>
 
