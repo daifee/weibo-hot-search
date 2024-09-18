@@ -1,6 +1,6 @@
 {
   "startTime": 1726590451835,
-  "endTime": 1726658318980,
+  "endTime": 1726659353205,
   "band_list": [
     {
       "raw_hot": 8853103,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1053654,
+      "num": 1168584,
+      "word": "特百惠已经申请破产保护",
+      "onboard_time": 1726653080,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1025932,
       "num": 616279,
       "word": "三只羊或被罚营业额5倍吊销营业执照",
@@ -267,14 +275,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 916328,
-      "num": 1146612,
-      "word": "特百惠已经申请破产保护",
-      "onboard_time": 1726653080,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 892756,
       "num": 892756,
       "word": "外交部回应辽宁舰进入日本冲绳地区",
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 891036,
-      "num": 377404,
+      "num": 447651,
       "word": "龙飞律师",
       "onboard_time": 1726654220,
       "rank": 17,
@@ -395,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 694252,
+      "num": 694252,
+      "word": "青岛地铁站吃瓜瓜瓜炸裂",
+      "onboard_time": 1726653859,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 688797,
       "num": 807318,
       "word": "台风普拉桑",
@@ -409,14 +417,6 @@
       "onboard_time": 1726583363,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 641792,
-      "num": 641792,
-      "word": "青岛地铁站吃瓜瓜瓜炸裂",
-      "onboard_time": 1726653859,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 628495,
@@ -505,6 +505,14 @@
       "onboard_time": 1726639399,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 519785,
+      "num": 519785,
+      "word": "美国用饭圈散播南海属于菲律宾",
+      "onboard_time": 1726657221,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 514165,
@@ -619,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445138,
+      "num": 445138,
+      "word": "侃爷一家在中国逛街喝奶茶",
+      "onboard_time": 1726655420,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 438908,
       "num": 456098,
       "word": "肖战 端水大师",
@@ -649,14 +665,6 @@
       "onboard_time": 1726598652,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 414644,
-      "num": 356028,
-      "word": "侃爷一家在中国逛街喝奶茶",
-      "onboard_time": 1726655420,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 410558,
@@ -1171,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222729,
+      "num": 222729,
+      "word": "人均3000元餐厅主厨代言美诚月饼",
+      "onboard_time": 1726658480,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220712,
       "num": 193814,
       "word": "三只羊直播间观看人数破万",
@@ -1275,12 +1291,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 204263,
+      "num": 204263,
+      "word": "喜茶合伙人内部信",
+      "onboard_time": 1726656260,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 203728,
       "num": 203728,
       "word": "李宇春森碟森碗同框",
       "onboard_time": 1726634182,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200107,
+      "num": 230401,
+      "word": "蒋奇明 大人中",
+      "onboard_time": 1726655899,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 199984,
@@ -1339,14 +1371,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 188900,
-      "num": 188900,
-      "word": "美国用饭圈散播南海属于菲律宾",
-      "onboard_time": 1726657221,
-      "rank": 33,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 185369,
       "num": 185369,
       "word": "今天他们宣誓誓死保卫祖国",
@@ -1369,14 +1393,6 @@
       "onboard_time": 1726626681,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183791,
-      "num": 183791,
-      "word": "喜茶合伙人内部信",
-      "onboard_time": 1726656260,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 181539,
@@ -1425,6 +1441,14 @@
       "onboard_time": 1726586782,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170376,
+      "num": 184868,
+      "word": "诈骗团伙用花束洗钱细节曝光",
+      "onboard_time": 1726657520,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168508,
@@ -1507,14 +1531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160034,
-      "num": 160034,
-      "word": "诈骗团伙用花束洗钱细节曝光",
-      "onboard_time": 1726657520,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159194,
       "num": 159194,
       "word": "2024中秋人均出游花费500元",
@@ -1529,14 +1545,6 @@
       "onboard_time": 1726570099,
       "rank": 26,
       "category": "自然"
-    },
-    {
-      "raw_hot": 157844,
-      "num": 230401,
-      "word": "蒋奇明 大人中",
-      "onboard_time": 1726655899,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 157486,
@@ -1699,6 +1707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140682,
+      "num": 445697,
+      "word": "流水迢迢更新",
+      "onboard_time": 1726658300,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140501,
       "num": 140501,
       "word": "iOS18",
@@ -1713,6 +1729,14 @@
       "onboard_time": 1726614856,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 136484,
+      "num": 136484,
+      "word": "爸爸砌猪圈给21岁女儿养猪解压",
+      "onboard_time": 1726658181,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136272,
@@ -1753,6 +1777,14 @@
       "onboard_time": 1726594692,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132243,
+      "num": 132243,
+      "word": "张彬彬汪顺米兰同框看秀",
+      "onboard_time": 1726659019,
+      "rank": 46,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 131976,
@@ -1819,8 +1851,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123814,
-      "num": 123814,
+      "raw_hot": 124326,
+      "num": 446481,
       "word": "教育局介入调查学生晚上如厕算违纪",
       "onboard_time": 1726657820,
       "rank": 46,
@@ -1841,14 +1873,6 @@
       "onboard_time": 1726630880,
       "rank": 2,
       "category": "电影"
-    },
-    {
-      "raw_hot": 119867,
-      "num": 119867,
-      "word": "爸爸砌猪圈给21岁女儿养猪解压",
-      "onboard_time": 1726658181,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117818,
@@ -1987,6 +2011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100200,
+      "num": 371052,
+      "word": "专家称黎巴嫩BP机爆炸意味着新形态战争",
+      "onboard_time": 1726657280,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 95979,
       "num": 95979,
       "word": "918勿忘国耻",
@@ -2099,6 +2131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 76545,
+      "num": 205817,
+      "word": "流水迢迢能不能加更",
+      "onboard_time": 1726659319,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76444,
       "num": 604019,
       "word": "空调安装免上门费却收超千元",
@@ -2107,12 +2147,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 75887,
-      "num": 229850,
-      "word": "流水迢迢更新",
-      "onboard_time": 1726658300,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 75413,
+      "num": 449128,
+      "word": "台风13141516最新消息",
+      "onboard_time": 1726659259,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75276,
@@ -2249,14 +2289,6 @@
       "onboard_time": 1726647139,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48648,
-      "num": 371052,
-      "word": "专家称黎巴嫩BP机爆炸意味着新形态战争",
-      "onboard_time": 1726657280,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 48431,
