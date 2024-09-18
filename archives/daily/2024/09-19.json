@@ -1,6 +1,6 @@
 {
   "startTime": 1726676797598,
-  "endTime": 1726695285982,
+  "endTime": 1726698047149,
   "band_list": [
     {
       "raw_hot": 1053361,
@@ -41,6 +41,14 @@
       "onboard_time": 1726667001,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 624871,
+      "num": 624871,
+      "word": "女子58页PPT举报管培生男友嫖娼",
+      "onboard_time": 1726686911,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 601951,
@@ -129,14 +137,6 @@
       "onboard_time": 1726660700,
       "rank": 14,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 310273,
-      "num": 310273,
-      "word": "女子58页PPT举报管培生男友嫖娼",
-      "onboard_time": 1726686911,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 304219,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119460,
+      "num": 119460,
+      "word": "小英名下关联4家企业",
+      "onboard_time": 1726681093,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 115972,
       "num": 115972,
       "word": "美媒称爆炸寻呼机产自台湾",
@@ -395,14 +403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 86793,
-      "num": 86793,
-      "word": "小英名下关联4家企业",
-      "onboard_time": 1726681093,
-      "rank": 24,
-      "category": "网红"
-    },
-    {
       "raw_hot": 86392,
       "num": 299679,
       "word": "安徽肥东处于郯庐断裂带",
@@ -427,12 +427,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82590,
+      "num": 82590,
+      "word": "校方已退还如厕被定违纪学生打印费",
+      "onboard_time": 1726687631,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74633,
       "num": 74633,
       "word": "安徽肥东4.7级地震",
       "onboard_time": 1726678934,
       "rank": 32,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 74008,
+      "num": 74008,
+      "word": "父女看打铁花表演被烫伤",
+      "onboard_time": 1726680614,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69821,
+      "num": 69821,
+      "word": "普拉桑将正面影响台州",
+      "onboard_time": 1726694771,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69656,
@@ -451,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 62942,
-      "num": 62942,
-      "word": "校方已退还如厕被定违纪学生打印费",
-      "onboard_time": 1726687631,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 62770,
       "num": 62770,
       "word": "曹杨上歌手是周杰伦推荐的吧",
@@ -467,11 +483,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 62533,
-      "num": 44510,
-      "word": "父女看打铁花表演被烫伤",
-      "onboard_time": 1726680614,
-      "rank": 44,
+      "raw_hot": 54459,
+      "num": 54459,
+      "word": "香港美诚注册商标授权广州美诚生产",
+      "onboard_time": 1726692312,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -491,20 +507,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46403,
+      "num": 46403,
+      "word": "美联储降息有什么影响",
+      "onboard_time": 1726686911,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 41992,
       "num": 58561,
       "word": "合肥地震带",
       "onboard_time": 1726663463,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40771,
-      "num": 40771,
-      "word": "美联储降息有什么影响",
-      "onboard_time": 1726686911,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 37009,
@@ -515,20 +531,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 35242,
-      "num": 35242,
-      "word": "香港美诚注册商标授权广州美诚生产",
-      "onboard_time": 1726692312,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 33973,
       "num": 33973,
       "word": "台风普拉桑移动速度是摩羯4倍",
       "onboard_time": 1726685232,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30134,
+      "num": 30134,
+      "word": "王俊凯白T侧分露额头",
+      "onboard_time": 1726697833,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 29615,
+      "num": 29615,
+      "word": "第一所被日军炸毁的大学鸣响校钟",
+      "onboard_time": 1726693751,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 28064,
@@ -539,20 +563,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 24525,
-      "num": 24525,
-      "word": "第一所被日军炸毁的大学鸣响校钟",
-      "onboard_time": 1726693751,
-      "rank": 46,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 13952,
-      "num": 61373,
-      "word": "普拉桑将正面影响台州",
-      "onboard_time": 1726694771,
+      "raw_hot": 26015,
+      "num": 99772,
+      "word": "一起迎接新中国成立75周年",
+      "onboard_time": 1726696631,
       "rank": 9,
-      "category": "社会新闻"
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
