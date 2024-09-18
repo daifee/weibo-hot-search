@@ -1,6 +1,6 @@
 {
   "startTime": 1726676797598,
-  "endTime": 1726687149870,
+  "endTime": 1726688150461,
   "band_list": [
     {
       "raw_hot": 1053361,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259946,
+      "num": 259946,
+      "word": "女子58页PPT举报管培生男友嫖娼",
+      "onboard_time": 1726686911,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255692,
       "num": 255692,
       "word": "停止对部分台湾农产品0关税",
@@ -193,14 +201,6 @@
       "onboard_time": 1726672701,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 212483,
-      "num": 212483,
-      "word": "女子58页PPT举报管培生男友嫖娼",
-      "onboard_time": 1726686911,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206248,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 41992,
-      "num": 41992,
+      "num": 58561,
       "word": "合肥地震带",
       "onboard_time": 1726663463,
       "rank": 47,
@@ -521,6 +521,14 @@
       "onboard_time": 1726686131,
       "rank": 38,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 19609,
+      "num": 19609,
+      "word": "校方已退还如厕被定违纪学生打印费",
+      "onboard_time": 1726687631,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

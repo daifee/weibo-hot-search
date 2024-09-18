@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726687149870,
+  "endTime": 1726688150461,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -4659,6 +4659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259946,
+      "num": 259946,
+      "word": "女子58页PPT举报管培生男友嫖娼",
+      "onboard_time": 1726686911,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259714,
       "num": 259714,
       "word": "这个中秋圈圈圆圆圈圈",
@@ -5553,14 +5561,6 @@
       "onboard_time": 1726388058,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 212483,
-      "num": 212483,
-      "word": "女子58页PPT举报管培生男友嫖娼",
-      "onboard_time": 1726686911,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 212416,
@@ -12065,6 +12065,14 @@
       "onboard_time": 1726380198,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 19609,
+      "num": 19609,
+      "word": "校方已退还如厕被定违纪学生打印费",
+      "onboard_time": 1726687631,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19234,
