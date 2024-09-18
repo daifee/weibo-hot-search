@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/15 00:25:22 ~ 2024/09/19 03:35:50
+本榜单时间：2024/09/15 00:25:22 ~ 2024/09/19 04:23:15
 </p>
 </blockquote>
 <p>
@@ -2949,6 +2949,12 @@ iOS18正式版（热度：310714）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%9058%E9%A1%B5PPT%E4%B8%BE%E6%8A%A5%E7%AE%A1%E5%9F%B9%E7%94%9F%E7%94%B7%E5%8F%8B%E5%AB%96%E5%A8%BC%23" target="weibo">
+女子58页PPT举报管培生男友嫖娼（热度：310273）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%B3%E6%80%95%E6%89%93%E9%92%88%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%9F%8B%E8%BF%9B%E5%8C%BB%E7%94%9F%E6%80%80%E9%87%8C%E7%9A%84%E5%B0%8F%E9%87%91%E6%AF%9B%23" target="weibo">
 害怕打针把自己埋进医生怀里的小金毛（热度：310164）
 </a>
@@ -3503,12 +3509,6 @@ AG奶茶维权（热度：261297）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%8F%B0%E9%A3%8E%23" target="weibo">
 南京台风（热度：260229）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%9058%E9%A1%B5PPT%E4%B8%BE%E6%8A%A5%E7%AE%A1%E5%9F%B9%E7%94%9F%E7%94%B7%E5%8F%8B%E5%AB%96%E5%A8%BC%23" target="weibo">
-女子58页PPT举报管培生男友嫖娼（热度：259946）
 </a>
 </li>
 
@@ -8943,6 +8943,12 @@ FULLMOON颁奖盛典（热度：32222）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E5%B7%B2%E9%80%80%E8%BF%98%E5%A6%82%E5%8E%95%E8%A2%AB%E5%AE%9A%E8%BF%9D%E7%BA%AA%E5%AD%A6%E7%94%9F%E6%89%93%E5%8D%B0%E8%B4%B9%23" target="weibo">
+校方已退还如厕被定违纪学生打印费（热度：26665）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E9%A2%84%E4%BB%98%E8%B4%B9%E8%B5%84%E9%87%91%E6%89%98%E7%AE%A1%E5%BD%A2%E5%90%8C%E8%99%9A%E8%AE%BE%23" target="weibo">
 培训机构预付费资金托管形同虚设（热度：25925）
 </a>
@@ -9059,12 +9065,6 @@ FULLMOON颁奖盛典（热度：32222）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E5%A4%A7%E6%8A%95%E8%A1%8C%E5%91%98%E5%B7%A5%E6%B6%89%E5%86%85%E5%B9%95%E4%BA%A4%E6%98%93%E4%BA%8F%E6%8D%9F532%E4%B8%87%E5%85%83%23" target="weibo">
 光大投行员工涉内幕交易亏损532万元（热度：20198）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E5%B7%B2%E9%80%80%E8%BF%98%E5%A6%82%E5%8E%95%E8%A2%AB%E5%AE%9A%E8%BF%9D%E7%BA%AA%E5%AD%A6%E7%94%9F%E6%89%93%E5%8D%B0%E8%B4%B9%23" target="weibo">
-校方已退还如厕被定违纪学生打印费（热度：19609）
 </a>
 </li>
 
