@@ -1,0 +1,410 @@
+{
+  "runTime": 1726629848192,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1686805,
+        "num": 1686805,
+        "word": "三只羊复播",
+        "onboard_time": 1726627820,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1550798,
+        "num": 1550798,
+        "word": "黎巴嫩BP机爆炸9死2800伤",
+        "onboard_time": 1726621580,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 25960,
+        "num": 1046376,
+        "word": "圆圆的大国重器送团圆的祝福",
+        "onboard_time": 1726584024,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1019377,
+        "num": 1019377,
+        "word": "医生谈张馨予高原跳舞后又晕又吐",
+        "onboard_time": 1726626918,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1000848,
+        "num": 1000848,
+        "word": "918鸣笛",
+        "onboard_time": 1726623440,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 805089,
+        "num": 805089,
+        "word": "美诚月饼回应有主播承诺假一赔三",
+        "onboard_time": 1726625841,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699562,
+        "num": 699562,
+        "word": "专家建议所有的城镇房屋都应该交税",
+        "onboard_time": 1726627220,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 693182,
+        "num": 693182,
+        "word": "美诚月饼第一批受害者出现了",
+        "onboard_time": 1726624579,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643011,
+        "num": 643011,
+        "word": "台风普拉桑",
+        "onboard_time": 1726627580,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298764,
+        "num": 608320,
+        "word": "美媒称爆炸寻呼机产自台湾",
+        "onboard_time": 1726625780,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1140555,
+        "num": 607127,
+        "word": "王俊凯弟弟",
+        "onboard_time": 1726616779,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1115371,
+        "num": 606068,
+        "word": "浙江一官员3天穿同一件衣服出镜",
+        "onboard_time": 1726615096,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597960,
+        "num": 597960,
+        "word": "九一八事变93周年",
+        "onboard_time": 1726614736,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 582819,
+        "num": 582819,
+        "word": "教育部原副部长杜玉波被查",
+        "onboard_time": 1726623319,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567782,
+        "num": 567782,
+        "word": "勿忘九一八",
+        "onboard_time": 1726590258,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 554539,
+        "num": 554539,
+        "word": "周也工作室P掉了蟑螂",
+        "onboard_time": 1726597571,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318853,
+        "num": 554421,
+        "word": "言承旭自曝心动女生",
+        "onboard_time": 1726615457,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274294,
+        "num": 551399,
+        "word": "曝hybe高层同行女爱豆吸毒过量死亡",
+        "onboard_time": 1726615457,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264649,
+        "num": 548525,
+        "word": "暮光之城作者也出演了电影",
+        "onboard_time": 1726627641,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 51214,
+        "num": 546984,
+        "word": "美联储或降息50个基点",
+        "onboard_time": 1726629139,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 546090,
+        "num": 546090,
+        "word": "黎巴嫩",
+        "onboard_time": 1726617920,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1340979,
+        "num": 532940,
+        "word": "断眉官宣结婚",
+        "onboard_time": 1726624818,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 881278,
+        "num": 531603,
+        "word": "月薪从10万降到7万投行女高管讨薪",
+        "onboard_time": 1726626800,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509760,
+        "num": 509760,
+        "word": "沈阳举行撞钟鸣警仪式",
+        "onboard_time": 1726624579,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 411836,
+        "num": 411836,
+        "word": "贝碧嘉致河南大暴雨",
+        "onboard_time": 1726620080,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342924,
+        "num": 342924,
+        "word": "九一八历史博物馆鸣警撞钟仪式",
+        "onboard_time": 1726623199,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 339104,
+        "num": 339104,
+        "word": "茅台回应三只羊所售兔茅真假争议",
+        "onboard_time": 1726615816,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203935,
+        "num": 329587,
+        "word": "刘浩存MiuMiu宣传照",
+        "onboard_time": 1726617379,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135621,
+        "num": 328380,
+        "word": "央视boys穿西装没告诉撒贝宁",
+        "onboard_time": 1726586061,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128002,
+        "num": 328328,
+        "word": "张踩铃谈无法和解的女性伤害",
+        "onboard_time": 1726583603,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 328314,
+        "num": 328314,
+        "word": "学生晚11点后上厕所被定重大违纪",
+        "onboard_time": 1726624399,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297247,
+        "num": 297247,
+        "word": "苹果变安卓",
+        "onboard_time": 1726584742,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 282738,
+        "num": 282738,
+        "word": "918",
+        "onboard_time": 1726591996,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263071,
+        "num": 263071,
+        "word": "小鬼回应上厕所被航拍",
+        "onboard_time": 1726628299,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245747,
+        "num": 245747,
+        "word": "张雪峰回应研究生数量超本科生",
+        "onboard_time": 1726629200,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242658,
+        "num": 242658,
+        "word": "九一八辽宁14城鸣响警报",
+        "onboard_time": 1726625959,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 239011,
+        "num": 239011,
+        "word": "有一种放假叫做虚假假期",
+        "onboard_time": 1726627940,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232978,
+        "num": 232978,
+        "word": "美方否认参与黎巴嫩BP机爆炸",
+        "onboard_time": 1726629620,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 227871,
+        "num": 227871,
+        "word": "张雪峰力挺兰州大学",
+        "onboard_time": 1726629260,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214302,
+        "num": 214302,
+        "word": "女子80元预约通马桶结账超1000",
+        "onboard_time": 1726627159,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207644,
+        "num": 207644,
+        "word": "苹果客服回应iOS18相册被吐槽",
+        "onboard_time": 1726627399,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 198865,
+        "num": 198865,
+        "word": "918防空警报",
+        "onboard_time": 1726628780,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 194715,
+        "num": 194715,
+        "word": "吾辈当自强",
+        "onboard_time": 1726618221,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 194024,
+        "num": 194024,
+        "word": "台湾制造商回应黎巴嫩BP机爆炸",
+        "onboard_time": 1726629679,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189210,
+        "num": 189210,
+        "word": "19310918不能忘不敢忘",
+        "onboard_time": 1726593434,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182788,
+        "num": 182788,
+        "word": "2种方式可能让黎巴嫩BP机大量爆炸",
+        "onboard_time": 1726625302,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 173961,
+        "num": 173961,
+        "word": "玉兔二号又皮了一下",
+        "onboard_time": 1726623199,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170426,
+        "num": 170426,
+        "word": "今日中国再不是1931年的中国",
+        "onboard_time": 1726589839,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127812,
+        "num": 167395,
+        "word": "王菲送李嫣英国留学",
+        "onboard_time": 1726588279,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118859,
+        "num": 165725,
+        "word": "央视镜头下的金晨",
+        "onboard_time": 1726583363,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#在中秋月圆夜唱响中国调#"
+    }
+  }
+}

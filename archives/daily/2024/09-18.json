@@ -1,6 +1,6 @@
 {
   "startTime": 1726590451835,
-  "endTime": 1726628236400,
+  "endTime": 1726629848192,
   "band_list": [
     {
       "raw_hot": 2616285,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1831000,
-      "num": 472565,
+      "num": 532940,
       "word": "断眉官宣结婚",
       "onboard_time": 1726624818,
       "rank": 21,
@@ -43,20 +43,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1686805,
+      "num": 1686805,
+      "word": "三只羊复播",
+      "onboard_time": 1726627820,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 1550798,
+      "num": 1550798,
+      "word": "黎巴嫩BP机爆炸9死2800伤",
+      "onboard_time": 1726621580,
+      "rank": 16,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1458046,
       "num": 846874,
       "word": "王俊凯弟弟",
       "onboard_time": 1726616779,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1336309,
-      "num": 1336309,
-      "word": "黎巴嫩BP机爆炸9死2800伤",
-      "onboard_time": 1726621580,
-      "rank": 16,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1275745,
@@ -99,11 +107,27 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1019377,
+      "num": 1019377,
+      "word": "医生谈张馨予高原跳舞后又晕又吐",
+      "onboard_time": 1726626918,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 974094,
       "num": 974094,
       "word": "贝碧嘉致河南大暴雨",
       "onboard_time": 1726620080,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 881278,
+      "num": 531603,
+      "word": "月薪从10万降到7万投行女高管讨薪",
+      "onboard_time": 1726626800,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -123,22 +147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 841602,
-      "num": 469692,
-      "word": "月薪从10万降到7万投行女高管讨薪",
-      "onboard_time": 1726626800,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 826528,
-      "num": 514860,
-      "word": "医生谈张馨予高原跳舞后又晕又吐",
-      "onboard_time": 1726626918,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 820151,
       "num": 820151,
       "word": "勿忘九一八",
@@ -147,8 +155,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 805089,
+      "num": 805089,
+      "word": "美诚月饼回应有主播承诺假一赔三",
+      "onboard_time": 1726625841,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 758855,
-      "num": 470988,
+      "num": 693182,
       "word": "美诚月饼第一批受害者出现了",
       "onboard_time": 1726624579,
       "rank": 22,
@@ -179,12 +195,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 699562,
+      "num": 699562,
+      "word": "专家建议所有的城镇房屋都应该交税",
+      "onboard_time": 1726627220,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 665558,
       "num": 665558,
       "word": "央视镜头下的金晨",
       "onboard_time": 1726583363,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 643011,
+      "num": 643011,
+      "word": "台风普拉桑",
+      "onboard_time": 1726627580,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 602565,
@@ -251,14 +283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 462947,
-      "num": 462947,
-      "word": "美诚月饼回应有主播承诺假一赔三",
-      "onboard_time": 1726625841,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 462486,
       "num": 462486,
       "word": "王楚然硬美",
@@ -280,14 +304,6 @@
       "word": "泰山陪爬火了包登顶一单能挣100元",
       "onboard_time": 1726598652,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 417729,
-      "num": 417729,
-      "word": "台风普拉桑",
-      "onboard_time": 1726627580,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -313,14 +329,6 @@
       "onboard_time": 1726623199,
       "rank": 24,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 360570,
-      "num": 360570,
-      "word": "专家建议所有的城镇房屋都应该交税",
-      "onboard_time": 1726627220,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 357481,
@@ -388,7 +396,7 @@
     },
     {
       "raw_hot": 303883,
-      "num": 303883,
+      "num": 608320,
       "word": "美媒称爆炸寻呼机产自台湾",
       "onboard_time": 1726625780,
       "rank": 32,
@@ -441,6 +449,22 @@
       "onboard_time": 1726613534,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 264649,
+      "num": 548525,
+      "word": "暮光之城作者也出演了电影",
+      "onboard_time": 1726627641,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 263071,
+      "num": 263071,
+      "word": "小鬼回应上厕所被航拍",
+      "onboard_time": 1726628299,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 262364,
@@ -499,12 +523,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 245747,
+      "num": 245747,
+      "word": "张雪峰回应研究生数量超本科生",
+      "onboard_time": 1726629200,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245743,
       "num": 245743,
       "word": "小杨哥已近一个月未更新视频",
       "onboard_time": 1726580120,
       "rank": 30,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 239011,
+      "num": 239011,
+      "word": "有一种放假叫做虚假假期",
+      "onboard_time": 1726627940,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233928,
@@ -515,11 +555,27 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 232978,
+      "num": 232978,
+      "word": "美方否认参与黎巴嫩BP机爆炸",
+      "onboard_time": 1726629620,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 232566,
       "num": 232566,
       "word": "山东男孩小区门口殴打母亲被民警带走",
       "onboard_time": 1726576881,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227871,
+      "num": 227871,
+      "word": "张雪峰力挺兰州大学",
+      "onboard_time": 1726629260,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -539,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214302,
+      "num": 214302,
+      "word": "女子80元预约通马桶结账超1000",
+      "onboard_time": 1726627159,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211712,
       "num": 211712,
       "word": "外网爆Yagao审批通过",
@@ -553,6 +617,30 @@
       "onboard_time": 1726624579,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198865,
+      "num": 198865,
+      "word": "918防空警报",
+      "onboard_time": 1726628780,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 194715,
+      "num": 194715,
+      "word": "吾辈当自强",
+      "onboard_time": 1726618221,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 194024,
+      "num": 194024,
+      "word": "台湾制造商回应黎巴嫩BP机爆炸",
+      "onboard_time": 1726629679,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 192127,
@@ -571,22 +659,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 186478,
-      "num": 186478,
-      "word": "女子80元预约通马桶结账超1000",
-      "onboard_time": 1726627159,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186139,
-      "num": 186139,
-      "word": "有一种放假叫做虚假假期",
-      "onboard_time": 1726627940,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185347,
       "num": 185347,
       "word": "未拆封月饼少了半块五仁变五一",
@@ -603,14 +675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181219,
-      "num": 181219,
-      "word": "暮光之城作者也出演了电影",
-      "onboard_time": 1726627641,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 179299,
       "num": 179299,
       "word": "三只羊茅台供应商回应",
@@ -625,14 +689,6 @@
       "onboard_time": 1726615517,
       "rank": 32,
       "category": "数码"
-    },
-    {
-      "raw_hot": 176913,
-      "num": 176913,
-      "word": "吾辈当自强",
-      "onboard_time": 1726618221,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 175372,
@@ -697,14 +753,6 @@
       "onboard_time": 1726581622,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 151757,
-      "num": 378194,
-      "word": "三只羊复播",
-      "onboard_time": 1726627820,
-      "rank": 29,
-      "category": "网红"
     },
     {
       "raw_hot": 151716,
@@ -1057,6 +1105,14 @@
       "onboard_time": 1726579762,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 51214,
+      "num": 546984,
+      "word": "美联储或降息50个基点",
+      "onboard_time": 1726629139,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 48899,
