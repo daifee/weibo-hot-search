@@ -1,6 +1,6 @@
 {
   "startTime": 1726590451835,
-  "endTime": 1726629848192,
+  "endTime": 1726630728174,
   "band_list": [
     {
       "raw_hot": 2616285,
@@ -27,6 +27,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1864902,
+      "num": 1864902,
+      "word": "三只羊复播",
+      "onboard_time": 1726627820,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1831000,
       "num": 532940,
       "word": "断眉官宣结婚",
@@ -41,14 +49,6 @@
       "onboard_time": 1726614736,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1686805,
-      "num": 1686805,
-      "word": "三只羊复播",
-      "onboard_time": 1726627820,
-      "rank": 29,
-      "category": "网红"
     },
     {
       "raw_hot": 1550798,
@@ -81,6 +81,14 @@
       "onboard_time": 1726617920,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1189431,
+      "num": 1189431,
+      "word": "美诚月饼第一批受害者出现了",
+      "onboard_time": 1726624579,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1110468,
@@ -120,6 +128,14 @@
       "word": "贝碧嘉致河南大暴雨",
       "onboard_time": 1726620080,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 883443,
+      "num": 883443,
+      "word": "专家建议所有的城镇房屋都应该交税",
+      "onboard_time": 1726627220,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -163,14 +179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 758855,
-      "num": 693182,
-      "word": "美诚月饼第一批受害者出现了",
-      "onboard_time": 1726624579,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 717907,
       "num": 717907,
       "word": "孕妇泰国坠崖案当事人官宣生子",
@@ -193,14 +201,6 @@
       "onboard_time": 1726615457,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 699562,
-      "num": 699562,
-      "word": "专家建议所有的城镇房屋都应该交税",
-      "onboard_time": 1726627220,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 665558,
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 564021,
+      "num": 608320,
+      "word": "美媒称爆炸寻呼机产自台湾",
+      "onboard_time": 1726625780,
+      "rank": 32,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 558994,
       "num": 558994,
       "word": "沈阳举行撞钟鸣警仪式",
@@ -241,6 +249,14 @@
       "onboard_time": 1726581141,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 548641,
+      "num": 497980,
+      "word": "曾志伟看小杨哥带货美诚月饼表情",
+      "onboard_time": 1726630640,
+      "rank": 22,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 523545,
@@ -291,12 +307,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 455951,
+      "num": 455951,
+      "word": "小鬼回应上厕所被航拍",
+      "onboard_time": 1726628299,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 454895,
       "num": 938779,
       "word": "刘浩存MiuMiu宣传照",
       "onboard_time": 1726617379,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 452826,
+      "num": 728157,
+      "word": "美方否认参与黎巴嫩BP机爆炸",
+      "onboard_time": 1726629620,
+      "rank": 37,
+      "category": "国外时政"
     },
     {
       "raw_hot": 425005,
@@ -329,6 +361,14 @@
       "onboard_time": 1726623199,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 382990,
+      "num": 548525,
+      "word": "暮光之城作者也出演了电影",
+      "onboard_time": 1726627641,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 357481,
@@ -395,14 +435,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 303883,
-      "num": 608320,
-      "word": "美媒称爆炸寻呼机产自台湾",
-      "onboard_time": 1726625780,
-      "rank": 32,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 303316,
       "num": 303316,
       "word": "93年前的今天不敢忘也不能忘",
@@ -425,6 +457,14 @@
       "onboard_time": 1726555580,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291570,
+      "num": 291570,
+      "word": "日本细菌战100人名单被发现",
+      "onboard_time": 1726629020,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 291132,
@@ -451,20 +491,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 264649,
-      "num": 548525,
-      "word": "暮光之城作者也出演了电影",
-      "onboard_time": 1726627641,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 263071,
-      "num": 263071,
-      "word": "小鬼回应上厕所被航拍",
-      "onboard_time": 1726628299,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 265397,
+      "num": 265397,
+      "word": "张雪峰回应研究生数量超本科生",
+      "onboard_time": 1726629200,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262364,
@@ -515,20 +547,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247622,
+      "num": 247622,
+      "word": "老人大半辈子积蓄埋土里被虫咬成碎片",
+      "onboard_time": 1726630220,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247221,
       "num": 247221,
       "word": "苹果客服回应iOS18相册被吐槽",
       "onboard_time": 1726627399,
       "rank": 45,
       "category": "数码"
-    },
-    {
-      "raw_hot": 245747,
-      "num": 245747,
-      "word": "张雪峰回应研究生数量超本科生",
-      "onboard_time": 1726629200,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 245743,
@@ -555,20 +587,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 232978,
-      "num": 232978,
-      "word": "美方否认参与黎巴嫩BP机爆炸",
-      "onboard_time": 1726629620,
-      "rank": 37,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 232566,
       "num": 232566,
       "word": "山东男孩小区门口殴打母亲被民警带走",
       "onboard_time": 1726576881,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231918,
+      "num": 231918,
+      "word": "黎巴嫩多地BP机爆炸",
+      "onboard_time": 1726630099,
+      "rank": 41,
+      "category": "国外时政"
     },
     {
       "raw_hot": 227871,
@@ -593,6 +625,14 @@
       "onboard_time": 1726617920,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215593,
+      "num": 215593,
+      "word": "台湾制造商回应黎巴嫩BP机爆炸",
+      "onboard_time": 1726629679,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 214302,
@@ -635,12 +675,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 194024,
-      "num": 194024,
-      "word": "台湾制造商回应黎巴嫩BP机爆炸",
-      "onboard_time": 1726629679,
-      "rank": 43,
-      "category": "国内时政"
+      "raw_hot": 194039,
+      "num": 194039,
+      "word": "三只羊授权直播间主播被骂沉默",
+      "onboard_time": 1726630640,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192127,
@@ -955,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107391,
+      "num": 552714,
+      "word": "陈坤孔孝真合照",
+      "onboard_time": 1726629919,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103157,
       "num": 103157,
       "word": "阿信 中秋之所以珍贵",
@@ -1043,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81789,
+      "num": 546132,
+      "word": "曾志伟看三只羊带货美诚月饼表情",
+      "onboard_time": 1726630399,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80505,
       "num": 80505,
       "word": "石昊火灵儿中秋团圆了",
@@ -1073,6 +1129,22 @@
       "onboard_time": 1726583423,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 64726,
+      "num": 720514,
+      "word": "广州市监部门回应美诚月饼涉虚假宣传",
+      "onboard_time": 1726630399,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60505,
+      "num": 546984,
+      "word": "美联储或降息50个基点",
+      "onboard_time": 1726629139,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 59882,
@@ -1107,20 +1179,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 51214,
-      "num": 546984,
-      "word": "美联储或降息50个基点",
-      "onboard_time": 1726629139,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 48899,
       "num": 1396236,
       "word": "圆圆的大国重器送团圆的祝福",
       "onboard_time": 1726584024,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48431,
+      "num": 544525,
+      "word": "三只羊关评",
+      "onboard_time": 1726630399,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 45732,
@@ -1176,6 +1248,14 @@
       "word": "文化中国行看中秋之美",
       "onboard_time": 1726574000,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25925,
+      "num": 436677,
+      "word": "培训机构预付费资金托管形同虚设",
+      "onboard_time": 1726629980,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
