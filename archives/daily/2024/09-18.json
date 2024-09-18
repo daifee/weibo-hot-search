@@ -1,7 +1,23 @@
 {
   "startTime": 1726590451835,
-  "endTime": 1726659353205,
+  "endTime": 1726663245454,
   "band_list": [
+    {
+      "raw_hot": 28035334,
+      "num": 28035334,
+      "word": "合肥地震",
+      "onboard_time": 1726661786,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20479993,
+      "num": 20479993,
+      "word": "合肥4.7级地震",
+      "onboard_time": 1726662451,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 8853103,
       "num": 8853103,
@@ -11,8 +27,24 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 7240177,
+      "num": 7240177,
+      "word": "南京震感",
+      "onboard_time": 1726661786,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4187919,
+      "num": 4187919,
+      "word": "杭州震感明显",
+      "onboard_time": 1726662628,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2980963,
-      "num": 548042,
+      "num": 730814,
       "word": "老人捡蜗牛吃身亡2守灵者吃后也死",
       "onboard_time": 1726648641,
       "rank": 35,
@@ -57,6 +89,14 @@
       "onboard_time": 1726646298,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2084278,
+      "num": 2084278,
+      "word": "周星驰御用配音石班瑜去世",
+      "onboard_time": 1726660400,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 2023511,
@@ -131,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1443847,
+      "num": 1443847,
+      "word": "周星驰 永远怀念石班瑜先生",
+      "onboard_time": 1726661664,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1412980,
       "num": 1412980,
       "word": "用人民币感受冰岛的物价",
@@ -145,6 +193,14 @@
       "onboard_time": 1726578802,
       "rank": 17,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1243743,
+      "num": 1243743,
+      "word": "芜湖震感",
+      "onboard_time": 1726662389,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1224633,
@@ -315,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 871686,
+      "num": 871686,
+      "word": "浙江震感",
+      "onboard_time": 1726662389,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 857855,
       "num": 857855,
       "word": "茅台回应三只羊所售兔茅真假争议",
@@ -395,6 +459,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 702250,
+      "num": 888918,
+      "word": "美国用饭圈散播南海属于菲律宾",
+      "onboard_time": 1726657221,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 694634,
+      "num": 694634,
+      "word": "偶遇黄多多纽约吃火锅",
+      "onboard_time": 1726660460,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 694252,
       "num": 694252,
       "word": "青岛地铁站吃瓜瓜瓜炸裂",
@@ -417,6 +497,14 @@
       "onboard_time": 1726583363,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 662915,
+      "num": 662915,
+      "word": "小杨哥曾晒单买20盒美心月饼",
+      "onboard_time": 1726659440,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 628495,
@@ -491,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 545592,
+      "num": 545592,
+      "word": "男子挤破身上痘痘住进ICU",
+      "onboard_time": 1726660700,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 523545,
       "num": 536816,
       "word": "九一八历史博物馆鸣警撞钟仪式",
@@ -505,14 +601,6 @@
       "onboard_time": 1726639399,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 519785,
-      "num": 519785,
-      "word": "美国用饭圈散播南海属于菲律宾",
-      "onboard_time": 1726657221,
-      "rank": 33,
-      "category": "国内时政"
     },
     {
       "raw_hot": 514165,
@@ -561,6 +649,14 @@
       "onboard_time": 1726581683,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 468485,
+      "num": 468485,
+      "word": "iPhone16评测",
+      "onboard_time": 1726663166,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 466995,
@@ -619,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 448585,
+      "num": 448585,
+      "word": "教育局介入调查学生晚上如厕算违纪",
+      "onboard_time": 1726657820,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 445695,
       "num": 434389,
       "word": "校长说学生讨厌获学生全体鼓掌",
@@ -633,6 +737,14 @@
       "onboard_time": 1726655420,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 439150,
+      "num": 439150,
+      "word": "人均3000元餐厅主厨代言美诚月饼",
+      "onboard_time": 1726658480,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 438908,
@@ -723,6 +835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 361002,
+      "num": 361002,
+      "word": "侃爷名创优品购物小票遭泄露",
+      "onboard_time": 1726660580,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357481,
       "num": 357481,
       "word": "杨紫代言MK",
@@ -745,6 +865,14 @@
       "onboard_time": 1726637960,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 348788,
+      "num": 348788,
+      "word": "扬州震感",
+      "onboard_time": 1726662687,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 346771,
@@ -777,6 +905,14 @@
       "onboard_time": 1726652429,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 338162,
+      "num": 313778,
+      "word": "村长李锐没认出森碟亮仔",
+      "onboard_time": 1726662090,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 337214,
@@ -819,6 +955,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 324194,
+      "num": 449128,
+      "word": "台风13141516最新消息",
+      "onboard_time": 1726659259,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322860,
       "num": 322860,
       "word": "潘展乐周杰伦合照",
@@ -859,6 +1003,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 307177,
+      "num": 307177,
+      "word": "室友电瓶爆燃大三男生全身90%烧伤",
+      "onboard_time": 1726662090,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304387,
       "num": 304387,
       "word": "道枝骏佑 镖人",
@@ -881,6 +1033,14 @@
       "onboard_time": 1726588399,
       "rank": 38,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 298906,
+      "num": 420354,
+      "word": "智者不入爱河 愚者互相选择",
+      "onboard_time": 1726659919,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 297382,
@@ -960,6 +1120,14 @@
       "word": "校方回应学生晚11点后如厕被定违纪",
       "onboard_time": 1726651820,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268608,
+      "num": 268608,
+      "word": "台风",
+      "onboard_time": 1726662270,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -1176,14 +1344,6 @@
       "word": "张雪峰力挺兰州大学",
       "onboard_time": 1726629260,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 222729,
-      "num": 222729,
-      "word": "人均3000元餐厅主厨代言美诚月饼",
-      "onboard_time": 1726658480,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -1524,7 +1684,7 @@
     },
     {
       "raw_hot": 160371,
-      "num": 1319666,
+      "num": 4979327,
       "word": "大数据看中秋假期出游",
       "onboard_time": 1726649478,
       "rank": 2,
@@ -1619,6 +1779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154107,
+      "num": 154107,
+      "word": "77岁老人决定为自己活一个月",
+      "onboard_time": 1726660880,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152513,
       "num": 152513,
       "word": "柳智敏米兰时装周",
@@ -1699,12 +1867,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144986,
+      "num": 144986,
+      "word": "张彬彬汪顺米兰同框看秀",
+      "onboard_time": 1726659019,
+      "rank": 46,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 142921,
       "num": 142921,
       "word": "徐嘉余喊话王楚钦吃月饼",
       "onboard_time": 1726581683,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142164,
+      "num": 142164,
+      "word": "今年十五的月亮十六超级圆",
+      "onboard_time": 1726661060,
+      "rank": 49,
+      "category": "自然"
     },
     {
       "raw_hot": 140682,
@@ -1779,14 +1963,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 132243,
-      "num": 132243,
-      "word": "张彬彬汪顺米兰同框看秀",
-      "onboard_time": 1726659019,
-      "rank": 46,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 131976,
       "num": 567817,
       "word": "律师称三只羊或面临4方面追责",
@@ -1851,20 +2027,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124326,
-      "num": 446481,
-      "word": "教育局介入调查学生晚上如厕算违纪",
-      "onboard_time": 1726657820,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123421,
       "num": 123421,
       "word": "张凌赫撇嘴这一下",
       "onboard_time": 1726655658,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121871,
+      "num": 296943,
+      "word": "官方回应鸡皮排骨实为冷冻猪毛排",
+      "onboard_time": 1726661181,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120558,
@@ -1897,6 +2073,14 @@
       "onboard_time": 1726577061,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113996,
+      "num": 871703,
+      "word": "C牛马O",
+      "onboard_time": 1726661786,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 113929,
@@ -2051,6 +2235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88841,
+      "num": 300284,
+      "word": "山花烂漫时张桂梅霸气回怼",
+      "onboard_time": 1726662866,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88205,
       "num": 88205,
       "word": "合肥回应调查三只羊通报版本不同",
@@ -2147,14 +2339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 75413,
-      "num": 449128,
-      "word": "台风13141516最新消息",
-      "onboard_time": 1726659259,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75276,
       "num": 437666,
       "word": "地方监管调查三只羊别护犊子",
@@ -2193,6 +2377,14 @@
       "onboard_time": 1726583423,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 66960,
+      "num": 872469,
+      "word": "业内称手机不太会被遥控爆炸",
+      "onboard_time": 1726663105,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64726,
@@ -2323,6 +2515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 44238,
+      "num": 314655,
+      "word": "律师称好利来无权干涉员工骑摩托",
+      "onboard_time": 1726661301,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41238,
       "num": 436147,
       "word": "安徽萧县暴雨路上多车被淹至车顶",
@@ -2425,6 +2625,14 @@
       "onboard_time": 1726636222,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 28295,
+      "num": 170230,
+      "word": "马斯克称SpaceX将起诉美航管局",
+      "onboard_time": 1726661301,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27454,

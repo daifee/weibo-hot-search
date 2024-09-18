@@ -1,0 +1,410 @@
+{
+  "runTime": 1726663245454,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 28035334,
+        "num": 28035334,
+        "word": "合肥地震",
+        "onboard_time": 1726661786,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20479993,
+        "num": 20479993,
+        "word": "合肥4.7级地震",
+        "onboard_time": 1726662451,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25243,
+        "num": 4979327,
+        "word": "大数据看中秋假期出游",
+        "onboard_time": 1726649478,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7240177,
+        "num": 7240177,
+        "word": "南京震感",
+        "onboard_time": 1726661786,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4187919,
+        "num": 4187919,
+        "word": "杭州震感明显",
+        "onboard_time": 1726662628,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2084278,
+        "num": 2084278,
+        "word": "周星驰御用配音石班瑜去世",
+        "onboard_time": 1726660400,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1443847,
+        "num": 1443847,
+        "word": "周星驰 永远怀念石班瑜先生",
+        "onboard_time": 1726661664,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1243743,
+        "num": 1243743,
+        "word": "芜湖震感",
+        "onboard_time": 1726662389,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702250,
+        "num": 888918,
+        "word": "美国用饭圈散播南海属于菲律宾",
+        "onboard_time": 1726657221,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 66960,
+        "num": 872469,
+        "word": "业内称手机不太会被遥控爆炸",
+        "onboard_time": 1726663105,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113996,
+        "num": 871703,
+        "word": "C牛马O",
+        "onboard_time": 1726661786,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 871686,
+        "num": 871686,
+        "word": "浙江震感",
+        "onboard_time": 1726662389,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730814,
+        "num": 730814,
+        "word": "老人捡蜗牛吃身亡2守灵者吃后也死",
+        "onboard_time": 1726648641,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694634,
+        "num": 694634,
+        "word": "偶遇黄多多纽约吃火锅",
+        "onboard_time": 1726660460,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 662915,
+        "num": 662915,
+        "word": "小杨哥曾晒单买20盒美心月饼",
+        "onboard_time": 1726659440,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 545592,
+        "num": 545592,
+        "word": "男子挤破身上痘痘住进ICU",
+        "onboard_time": 1726660700,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 468485,
+        "num": 468485,
+        "word": "iPhone16评测",
+        "onboard_time": 1726663166,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 448585,
+        "num": 448585,
+        "word": "教育局介入调查学生晚上如厕算违纪",
+        "onboard_time": 1726657820,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439150,
+        "num": 439150,
+        "word": "人均3000元餐厅主厨代言美诚月饼",
+        "onboard_time": 1726658480,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298906,
+        "num": 420354,
+        "word": "智者不入爱河 愚者互相选择",
+        "onboard_time": 1726659919,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 991483,
+        "num": 419724,
+        "word": "小英 孩子",
+        "onboard_time": 1726650740,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 418249,
+        "num": 418249,
+        "word": "吴谨言洪尧婚戒设计图",
+        "onboard_time": 1726650260,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389917,
+        "num": 389917,
+        "word": "2万买的金镯子清洗时被告知是假货",
+        "onboard_time": 1726646298,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376689,
+        "num": 376689,
+        "word": "王暖暖不打算公布孩子父亲",
+        "onboard_time": 1726646358,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361002,
+        "num": 361002,
+        "word": "侃爷名创优品购物小票遭泄露",
+        "onboard_time": 1726660580,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348788,
+        "num": 348788,
+        "word": "扬州震感",
+        "onboard_time": 1726662687,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324194,
+        "num": 324194,
+        "word": "台风13141516最新消息",
+        "onboard_time": 1726659259,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318324,
+        "num": 318324,
+        "word": "特百惠已经申请破产保护",
+        "onboard_time": 1726653080,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 258648,
+        "num": 317059,
+        "word": "侃爷一家在中国逛街喝奶茶",
+        "onboard_time": 1726655420,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202796,
+        "num": 316079,
+        "word": "黄晓明和小海绵一起过中秋",
+        "onboard_time": 1726643479,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44238,
+        "num": 314655,
+        "word": "律师称好利来无权干涉员工骑摩托",
+        "onboard_time": 1726661301,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338162,
+        "num": 313778,
+        "word": "村长李锐没认出森碟亮仔",
+        "onboard_time": 1726662090,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313017,
+        "num": 313017,
+        "word": "青岛地铁站吃瓜瓜瓜炸裂",
+        "onboard_time": 1726653859,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307177,
+        "num": 307177,
+        "word": "室友电瓶爆燃大三男生全身90%烧伤",
+        "onboard_time": 1726662090,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88841,
+        "num": 300284,
+        "word": "山花烂漫时张桂梅霸气回怼",
+        "onboard_time": 1726662866,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121871,
+        "num": 296943,
+        "word": "官方回应鸡皮排骨实为冷冻猪毛排",
+        "onboard_time": 1726661181,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296230,
+        "num": 296230,
+        "word": "9岁女童在病房被猥亵",
+        "onboard_time": 1726645519,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288691,
+        "num": 288691,
+        "word": "龙飞律师",
+        "onboard_time": 1726654220,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 287714,
+        "num": 287714,
+        "word": "曾志伟看小杨哥带货美诚月饼表情",
+        "onboard_time": 1726630640,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196352,
+        "num": 270270,
+        "word": "肖战 端水大师",
+        "onboard_time": 1726650619,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268608,
+        "num": 268608,
+        "word": "台风",
+        "onboard_time": 1726662270,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259560,
+        "num": 259560,
+        "word": "宝妈不认识金条开口就要买11万的",
+        "onboard_time": 1726651759,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219895,
+        "num": 219895,
+        "word": "存多少钱才能靠利息生活",
+        "onboard_time": 1726650499,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 187000,
+        "num": 187000,
+        "word": "杜海涛李佳琦淘汰",
+        "onboard_time": 1726647081,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28295,
+        "num": 170230,
+        "word": "马斯克称SpaceX将起诉美航管局",
+        "onboard_time": 1726661301,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161217,
+        "num": 161217,
+        "word": "外交部回应辽宁舰进入日本冲绳地区",
+        "onboard_time": 1726648340,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155873,
+        "num": 155873,
+        "word": "伊能静儿子恩利再穿女装",
+        "onboard_time": 1726638979,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154107,
+        "num": 154107,
+        "word": "77岁老人决定为自己活一个月",
+        "onboard_time": 1726660880,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144986,
+        "num": 144986,
+        "word": "张彬彬汪顺米兰同框看秀",
+        "onboard_time": 1726659019,
+        "rank": 48,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 142164,
+        "num": 142164,
+        "word": "今年十五的月亮十六超级圆",
+        "onboard_time": 1726661060,
+        "rank": 49,
+        "category": "自然"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队淬火向前#"
+    }
+  }
+}
