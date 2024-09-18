@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726634457500,
+  "endTime": 1726636869214,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -91,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 8853103,
+      "num": 8853103,
+      "word": "曾志伟看小杨哥带货美诚月饼表情",
+      "onboard_time": 1726630640,
+      "rank": 22,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 8467522,
       "num": 8467522,
       "word": "于适工作室发声明",
@@ -113,14 +121,6 @@
       "onboard_time": 1725968840,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 5965629,
-      "num": 5965629,
-      "word": "曾志伟看小杨哥带货美诚月饼表情",
-      "onboard_time": 1726630640,
-      "rank": 22,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 5839152,
@@ -4387,6 +4387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 976675,
+      "num": 877026,
+      "word": "三只羊授权直播间主播被骂沉默",
+      "onboard_time": 1726630640,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 976185,
       "num": 960914,
       "word": "碾压骑行孩童司机以过失致死罪被捕",
@@ -5192,14 +5200,6 @@
       "word": "花四万隆的鼻子姑娘不满太自然",
       "onboard_time": 1725336624,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 877026,
-      "num": 877026,
-      "word": "三只羊授权直播间主播被骂沉默",
-      "onboard_time": 1726630640,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -6857,6 +6857,14 @@
       "onboard_time": 1725275300,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 710971,
+      "num": 856436,
+      "word": "广州通报美诚月饼事件",
+      "onboard_time": 1726633041,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 710893,
@@ -9043,6 +9051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 567721,
+      "num": 593646,
+      "word": "电影731官宣定档",
+      "onboard_time": 1726632561,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 567455,
       "num": 567455,
       "word": "点奶茶不请同事尴尬吗",
@@ -10225,14 +10241,6 @@
       "onboard_time": 1726191858,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 510042,
-      "num": 593646,
-      "word": "电影731官宣定档",
-      "onboard_time": 1726632561,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 509849,
@@ -12227,6 +12235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 423389,
+      "num": 533497,
+      "word": "美诚被曝曾为东方甄选代工月饼",
+      "onboard_time": 1726631841,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423073,
       "num": 423073,
       "word": "黄薇 妆造",
@@ -12545,6 +12561,14 @@
       "onboard_time": 1725679640,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 409987,
+      "num": 258556,
+      "word": "法国第一夫人真人客串网飞热门剧集",
+      "onboard_time": 1726635982,
+      "rank": 30,
+      "category": "国外时政,剧集"
     },
     {
       "raw_hot": 409739,
@@ -12977,6 +13001,14 @@
       "onboard_time": 1726623199,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 393773,
+      "num": 393773,
+      "word": "女租客5年没扔垃圾房东崩溃",
+      "onboard_time": 1726634482,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 393350,
@@ -13793,14 +13825,6 @@
       "onboard_time": 1726201896,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 363652,
-      "num": 856436,
-      "word": "广州通报美诚月饼事件",
-      "onboard_time": 1726633041,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 363575,
@@ -15099,14 +15123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 320163,
-      "num": 320163,
-      "word": "美诚被曝曾为东方甄选代工月饼",
-      "onboard_time": 1726631841,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 319966,
       "num": 319966,
       "word": "日本细菌战100人名单被发现",
@@ -15329,6 +15345,14 @@
       "onboard_time": 1725255082,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 314255,
+      "num": 543869,
+      "word": "侯明昊以前是SM练习生",
+      "onboard_time": 1726636042,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 314221,
@@ -15577,6 +15601,14 @@
       "onboard_time": 1726022599,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 308491,
+      "num": 308491,
+      "word": "黎巴嫩BP机爆炸已致11死4000伤",
+      "onboard_time": 1726621580,
+      "rank": 27,
+      "category": "国外时政"
     },
     {
       "raw_hot": 308327,
@@ -16633,6 +16665,14 @@
       "onboard_time": 1725365239,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 286224,
+      "num": 575703,
+      "word": "贾冰演累了吧让我演两集",
+      "onboard_time": 1726633642,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 286121,
@@ -18203,14 +18243,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 260150,
-      "num": 575703,
-      "word": "贾冰演累了吧让我演两集",
-      "onboard_time": 1726633642,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 259971,
       "num": 329047,
       "word": "陈昊宇新剧",
@@ -19451,6 +19483,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 242291,
+      "num": 242291,
+      "word": "美诚月饼",
+      "onboard_time": 1726310480,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 242270,
       "num": 242270,
       "word": "武汉大学瓦片在二手平台被炒至数百元",
@@ -20193,14 +20233,6 @@
       "onboard_time": 1725271280,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 234161,
-      "num": 234161,
-      "word": "美诚月饼",
-      "onboard_time": 1726310480,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 233928,
@@ -23635,6 +23667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203728,
+      "num": 203728,
+      "word": "李宇春森碟森碗同框",
+      "onboard_time": 1726634182,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203693,
       "num": 203693,
       "word": "赵丽颖辛芷蕾乔妍的心事背对背海报",
@@ -24324,7 +24364,7 @@
     },
     {
       "raw_hot": 199984,
-      "num": 199984,
+      "num": 560516,
       "word": "吾辈当自强",
       "onboard_time": 1726618221,
       "rank": 39,
@@ -32339,6 +32379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161656,
+      "num": 161656,
+      "word": "钟文泽测评",
+      "onboard_time": 1726634302,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 161618,
       "num": 161618,
       "word": "郑钦文今年美网ACE有多强",
@@ -33491,14 +33539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156282,
-      "num": 156282,
-      "word": "钟文泽测评",
-      "onboard_time": 1726634302,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
       "raw_hot": 156254,
       "num": 156254,
       "word": "张新成王玉雯cp感",
@@ -33929,6 +33969,14 @@
       "onboard_time": 1726227680,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 154521,
+      "num": 169966,
+      "word": "iOS通话录音功能支持老款iPhone",
+      "onboard_time": 1726633461,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 154518,
@@ -34371,6 +34419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152513,
+      "num": 152513,
+      "word": "柳智敏米兰时装周",
+      "onboard_time": 1726634844,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 152502,
       "num": 152502,
       "word": "美特勤局严重违规细节曝光",
@@ -34577,14 +34633,6 @@
       "onboard_time": 1725611719,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 151447,
-      "num": 169966,
-      "word": "iOS通话录音功能支持老款iPhone",
-      "onboard_time": 1726633461,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 151404,
@@ -34953,6 +35001,14 @@
       "onboard_time": 1726542439,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149671,
+      "num": 149671,
+      "word": "魏大勋真内娱米莱狄",
+      "onboard_time": 1726636820,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 149629,
@@ -35593,14 +35649,6 @@
       "onboard_time": 1726120041,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 146825,
-      "num": 146825,
-      "word": "李宇春森碟森碗同框",
-      "onboard_time": 1726634182,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 146774,
@@ -43947,6 +43995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86941,
+      "num": 556272,
+      "word": "涉事台企称黎巴嫩爆炸BP机是挂牌",
+      "onboard_time": 1726635982,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 86936,
       "num": 279795,
       "word": "出走的决心",
@@ -44689,6 +44745,14 @@
       "onboard_time": 1726332377,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76337,
+      "num": 548154,
+      "word": "叮咚买菜的土豆被指发芽客服说是根",
+      "onboard_time": 1726635860,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76114,
@@ -47163,6 +47227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 49549,
+      "num": 536635,
+      "word": "里斯本丸沉没事件",
+      "onboard_time": 1726634003,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 49472,
       "num": 678818,
       "word": "盲盒岗位是创新还是噱头",
@@ -49395,6 +49467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 34780,
+      "num": 260163,
+      "word": "黎巴嫩寻呼机爆炸事件凶手是谁",
+      "onboard_time": 1726636582,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 34736,
       "num": 65764,
       "word": "台风摩羯成为登陆我国最强秋台风",
@@ -50489,6 +50569,14 @@
       "onboard_time": 1725995414,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28723,
+      "num": 531213,
+      "word": "有券商要求员工在工作时间上交手机",
+      "onboard_time": 1726636222,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 28701,

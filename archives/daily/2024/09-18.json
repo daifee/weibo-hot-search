@@ -1,10 +1,10 @@
 {
   "startTime": 1726590451835,
-  "endTime": 1726634457500,
+  "endTime": 1726636869214,
   "band_list": [
     {
-      "raw_hot": 5965629,
-      "num": 5965629,
+      "raw_hot": 8853103,
+      "num": 8853103,
       "word": "曾志伟看小杨哥带货美诚月饼表情",
       "onboard_time": 1726630640,
       "rank": 22,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 976675,
+      "num": 877026,
+      "word": "三只羊授权直播间主播被骂沉默",
+      "onboard_time": 1726630640,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 974094,
       "num": 974094,
       "word": "贝碧嘉致河南大暴雨",
@@ -160,14 +168,6 @@
       "word": "月薪从10万降到7万投行女高管讨薪",
       "onboard_time": 1726626800,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 877026,
-      "num": 877026,
-      "word": "三只羊授权直播间主播被骂沉默",
-      "onboard_time": 1726630640,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 710971,
+      "num": 856436,
+      "word": "广州通报美诚月饼事件",
+      "onboard_time": 1726633041,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 708904,
       "num": 943932,
       "word": "言承旭自曝心动女生",
@@ -259,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 567721,
+      "num": 593646,
+      "word": "电影731官宣定档",
+      "onboard_time": 1726632561,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 558994,
       "num": 558994,
       "word": "沈阳举行撞钟鸣警仪式",
@@ -296,14 +312,6 @@
       "word": "中秋档票房",
       "onboard_time": 1726630820,
       "rank": 15,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 510042,
-      "num": 593646,
-      "word": "电影731官宣定档",
-      "onboard_time": 1726632561,
-      "rank": 28,
       "category": "电影"
     },
     {
@@ -371,6 +379,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 423389,
+      "num": 533497,
+      "word": "美诚被曝曾为东方甄选代工月饼",
+      "onboard_time": 1726631841,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409987,
+      "num": 258556,
+      "word": "法国第一夫人真人客串网飞热门剧集",
+      "onboard_time": 1726635982,
+      "rank": 30,
+      "category": "国外时政,剧集"
+    },
+    {
       "raw_hot": 408063,
       "num": 564583,
       "word": "唐嫣宋慧乔秀场同框",
@@ -395,20 +419,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 393773,
+      "num": 393773,
+      "word": "女租客5年没扔垃圾房东崩溃",
+      "onboard_time": 1726634482,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 382990,
       "num": 652196,
       "word": "暮光之城作者也出演了电影",
       "onboard_time": 1726627641,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 363652,
-      "num": 856436,
-      "word": "广州通报美诚月饼事件",
-      "onboard_time": 1726633041,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 357481,
@@ -467,14 +491,6 @@
       "category": "演出,体育"
     },
     {
-      "raw_hot": 320163,
-      "num": 320163,
-      "word": "美诚被曝曾为东方甄选代工月饼",
-      "onboard_time": 1726631841,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 319966,
       "num": 319966,
       "word": "日本细菌战100人名单被发现",
@@ -483,12 +499,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 314255,
+      "num": 543869,
+      "word": "侯明昊以前是SM练习生",
+      "onboard_time": 1726636042,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 309978,
       "num": 309978,
       "word": "iOS18 丑",
       "onboard_time": 1726561342,
       "rank": 13,
       "category": "数码"
+    },
+    {
+      "raw_hot": 308491,
+      "num": 308491,
+      "word": "黎巴嫩BP机爆炸已致11死4000伤",
+      "onboard_time": 1726621580,
+      "rank": 27,
+      "category": "国外时政"
     },
     {
       "raw_hot": 304387,
@@ -539,6 +571,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 286224,
+      "num": 575703,
+      "word": "贾冰演累了吧让我演两集",
+      "onboard_time": 1726633642,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 275239,
       "num": 1235007,
       "word": "中国在月球上留下了月饼",
@@ -577,14 +617,6 @@
       "onboard_time": 1726617320,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 260150,
-      "num": 575703,
-      "word": "贾冰演累了吧让我演两集",
-      "onboard_time": 1726633642,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 259447,
@@ -633,6 +665,14 @@
       "onboard_time": 1726580120,
       "rank": 30,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 242291,
+      "num": 242291,
+      "word": "美诚月饼",
+      "onboard_time": 1726635381,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239011,
@@ -723,8 +763,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203728,
+      "num": 203728,
+      "word": "李宇春森碟森碗同框",
+      "onboard_time": 1726634182,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199984,
-      "num": 199984,
+      "num": 560516,
       "word": "吾辈当自强",
       "onboard_time": 1726618221,
       "rank": 39,
@@ -803,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161656,
+      "num": 161656,
+      "word": "钟文泽测评",
+      "onboard_time": 1726634302,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 160432,
       "num": 160432,
       "word": "iPhone15Pro也能拍空间照片了",
@@ -851,12 +907,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156282,
-      "num": 156282,
-      "word": "钟文泽测评",
-      "onboard_time": 1726634302,
-      "rank": 45,
-      "category": "数码"
+      "raw_hot": 156176,
+      "num": 156176,
+      "word": "花儿与少年",
+      "onboard_time": 1726635321,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 154850,
@@ -875,6 +931,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 154521,
+      "num": 169966,
+      "word": "iOS通话录音功能支持老款iPhone",
+      "onboard_time": 1726633461,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 152513,
+      "num": 152513,
+      "word": "柳智敏米兰时装周",
+      "onboard_time": 1726634844,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 151716,
       "num": 151716,
       "word": "玉兔二号带来特殊中秋礼物",
@@ -883,20 +955,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 151447,
-      "num": 169966,
-      "word": "iOS通话录音功能支持老款iPhone",
-      "onboard_time": 1726633461,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
       "raw_hot": 149944,
       "num": 149944,
       "word": "每个中国人都不能忘记九一八",
       "onboard_time": 1726619901,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 149671,
+      "num": 149671,
+      "word": "魏大勋真内娱米莱狄",
+      "onboard_time": 1726636820,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 147509,
@@ -912,14 +984,6 @@
       "word": "谁看了吴磊的月饼都得愣一下",
       "onboard_time": 1726571840,
       "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 146825,
-      "num": 146825,
-      "word": "李宇春森碟森碗同框",
-      "onboard_time": 1726634182,
-      "rank": 48,
       "category": "艺人"
     },
     {
@@ -1171,6 +1235,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 86941,
+      "num": 556272,
+      "word": "涉事台企称黎巴嫩爆炸BP机是挂牌",
+      "onboard_time": 1726635982,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 83015,
       "num": 83015,
       "word": "陈瑶嫦娥妆造",
@@ -1224,6 +1296,14 @@
       "word": "空调安装免上门费却收超千元",
       "onboard_time": 1726633041,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76337,
+      "num": 548154,
+      "word": "叮咚买菜的土豆被指发芽客服说是根",
+      "onboard_time": 1726635860,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1299,6 +1379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 49549,
+      "num": 536635,
+      "word": "里斯本丸沉没事件",
+      "onboard_time": 1726634003,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 48899,
       "num": 1396236,
       "word": "圆圆的大国重器送团圆的祝福",
@@ -1339,6 +1427,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 34780,
+      "num": 260163,
+      "word": "黎巴嫩寻呼机爆炸事件凶手是谁",
+      "onboard_time": 1726636582,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 32944,
       "num": 32944,
       "word": "汪苏泷2024十万伏特巡回演唱会",
@@ -1369,6 +1465,14 @@
       "onboard_time": 1726633340,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 28723,
+      "num": 531213,
+      "word": "有券商要求员工在工作时间上交手机",
+      "onboard_time": 1726636222,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 26018,
