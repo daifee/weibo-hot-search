@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726636869214,
+  "endTime": 1726637917971,
   "band_list": [
     {
       "raw_hot": 25924428,
@@ -900,7 +900,7 @@
     },
     {
       "raw_hot": 2023511,
-      "num": 1231035,
+      "num": 1788382,
       "word": "美诚月饼第一批受害者出现了",
       "onboard_time": 1726624579,
       "rank": 22,
@@ -2932,7 +2932,7 @@
     },
     {
       "raw_hot": 1224633,
-      "num": 1224633,
+      "num": 2128133,
       "word": "美方否认参与黎巴嫩BP机爆炸",
       "onboard_time": 1726629620,
       "rank": 37,
@@ -8035,6 +8035,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 628495,
+      "num": 628495,
+      "word": "美诚被曝曾为东方甄选代工月饼",
+      "onboard_time": 1726631841,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 628310,
       "num": 628310,
       "word": "孙颖莎杂志",
@@ -8675,6 +8683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 593288,
+      "num": 593646,
+      "word": "电影731官宣定档",
+      "onboard_time": 1726632561,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 592908,
       "num": 269737,
       "word": "日媒称不是我们太强而是中国队太弱",
@@ -9049,14 +9065,6 @@
       "onboard_time": 1725689779,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 567721,
-      "num": 593646,
-      "word": "电影731官宣定档",
-      "onboard_time": 1726632561,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 567455,
@@ -12235,14 +12243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 423389,
-      "num": 533497,
-      "word": "美诚被曝曾为东方甄选代工月饼",
-      "onboard_time": 1726631841,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 423073,
       "num": 423073,
       "word": "黄薇 妆造",
@@ -13017,6 +13017,14 @@
       "onboard_time": 1725237500,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 393239,
+      "num": 1253273,
+      "word": "侯明昊以前是SM练习生",
+      "onboard_time": 1726636042,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 393033,
@@ -15347,14 +15355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 314255,
-      "num": 543869,
-      "word": "侯明昊以前是SM练习生",
-      "onboard_time": 1726636042,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 314221,
       "num": 314221,
       "word": "极危动物追着濒危动物咬",
@@ -17228,7 +17228,7 @@
     },
     {
       "raw_hot": 275239,
-      "num": 1235007,
+      "num": 1892493,
       "word": "中国在月球上留下了月饼",
       "onboard_time": 1726631119,
       "rank": 2,
@@ -17585,6 +17585,14 @@
       "onboard_time": 1725757458,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269966,
+      "num": 269966,
+      "word": "古茗",
+      "onboard_time": 1726637361,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 269782,
@@ -18937,6 +18945,14 @@
       "onboard_time": 1725286523,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 248951,
+      "num": 568911,
+      "word": "魏大勋真内娱米莱狄",
+      "onboard_time": 1726636820,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 248767,
@@ -30915,6 +30931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168508,
+      "num": 168508,
+      "word": "钟文泽否认造假",
+      "onboard_time": 1726637300,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 168486,
       "num": 208963,
       "word": "谢可寅练得很好但他是黄景瑜",
@@ -31121,6 +31145,14 @@
       "onboard_time": 1725263600,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167483,
+      "num": 169966,
+      "word": "iOS通话录音功能支持老款iPhone",
+      "onboard_time": 1726633461,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 167475,
@@ -33971,14 +34003,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 154521,
-      "num": 169966,
-      "word": "iOS通话录音功能支持老款iPhone",
-      "onboard_time": 1726633461,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
       "raw_hot": 154518,
       "num": 146938,
       "word": "马嘉祺 郑州",
@@ -35001,14 +35025,6 @@
       "onboard_time": 1726542439,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149671,
-      "num": 149671,
-      "word": "魏大勋真内娱米莱狄",
-      "onboard_time": 1726636820,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 149629,
@@ -41627,6 +41643,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 111869,
+      "num": 556272,
+      "word": "涉事台企称黎巴嫩爆炸BP机是挂牌",
+      "onboard_time": 1726635982,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 111853,
       "num": 111853,
       "word": "贝碧嘉暴雨或将在上海中秋前结束",
@@ -43955,6 +43979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87379,
+      "num": 548154,
+      "word": "叮咚买菜的土豆被指发芽客服说是根",
+      "onboard_time": 1726635860,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87312,
       "num": 87312,
       "word": "范志毅0比4骂早了",
@@ -43993,14 +44025,6 @@
       "onboard_time": 1725896178,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86941,
-      "num": 556272,
-      "word": "涉事台企称黎巴嫩爆炸BP机是挂牌",
-      "onboard_time": 1726635982,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 86936,
@@ -44745,14 +44769,6 @@
       "onboard_time": 1726332377,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 76337,
-      "num": 548154,
-      "word": "叮咚买菜的土豆被指发芽客服说是根",
-      "onboard_time": 1726635860,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76114,
@@ -47425,6 +47441,14 @@
       "onboard_time": 1725297613,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48212,
+      "num": 478904,
+      "word": "卫昭舞剑",
+      "onboard_time": 1726636402,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 48205,
@@ -50537,6 +50561,14 @@
       "onboard_time": 1726233202,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 28876,
+      "num": 725652,
+      "word": "00后分享一周养生食谱竟都是处方药",
+      "onboard_time": 1726637780,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28819,

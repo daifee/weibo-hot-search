@@ -1,6 +1,6 @@
 {
   "startTime": 1726590451835,
-  "endTime": 1726636869214,
+  "endTime": 1726637917971,
   "band_list": [
     {
       "raw_hot": 8853103,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2023511,
-      "num": 1231035,
+      "num": 1788382,
       "word": "美诚月饼第一批受害者出现了",
       "onboard_time": 1726624579,
       "rank": 22,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1224633,
-      "num": 1224633,
+      "num": 2128133,
       "word": "美方否认参与黎巴嫩BP机爆炸",
       "onboard_time": 1726629620,
       "rank": 37,
@@ -259,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 628495,
+      "num": 628495,
+      "word": "美诚被曝曾为东方甄选代工月饼",
+      "onboard_time": 1726631841,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 602565,
       "num": 602565,
       "word": "王菲送李嫣英国留学",
@@ -267,7 +275,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 567721,
+      "raw_hot": 593288,
       "num": 593646,
       "word": "电影731官宣定档",
       "onboard_time": 1726632561,
@@ -379,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 423389,
-      "num": 533497,
-      "word": "美诚被曝曾为东方甄选代工月饼",
-      "onboard_time": 1726631841,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 409987,
       "num": 258556,
       "word": "法国第一夫人真人客串网飞热门剧集",
@@ -425,6 +425,14 @@
       "onboard_time": 1726634482,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393239,
+      "num": 1253273,
+      "word": "侯明昊以前是SM练习生",
+      "onboard_time": 1726636042,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 382990,
@@ -497,14 +505,6 @@
       "onboard_time": 1726629020,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 314255,
-      "num": 543869,
-      "word": "侯明昊以前是SM练习生",
-      "onboard_time": 1726636042,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 309978,
@@ -580,11 +580,19 @@
     },
     {
       "raw_hot": 275239,
-      "num": 1235007,
+      "num": 1892493,
       "word": "中国在月球上留下了月饼",
       "onboard_time": 1726631119,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269966,
+      "num": 269966,
+      "word": "古茗",
+      "onboard_time": 1726637361,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 267232,
@@ -649,6 +657,14 @@
       "onboard_time": 1726617620,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248951,
+      "num": 568911,
+      "word": "魏大勋真内娱米莱狄",
+      "onboard_time": 1726636820,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 247221,
@@ -755,6 +771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 208781,
+      "num": 208781,
+      "word": "A股",
+      "onboard_time": 1726624458,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 208595,
       "num": 208595,
       "word": "开封中小学幼儿园台风停课",
@@ -851,6 +875,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168508,
+      "num": 168508,
+      "word": "钟文泽否认造假",
+      "onboard_time": 1726637300,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 167483,
+      "num": 169966,
+      "word": "iOS通话录音功能支持老款iPhone",
+      "onboard_time": 1726633461,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 161656,
       "num": 161656,
       "word": "钟文泽测评",
@@ -931,14 +971,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 154521,
-      "num": 169966,
-      "word": "iOS通话录音功能支持老款iPhone",
-      "onboard_time": 1726633461,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
       "raw_hot": 152513,
       "num": 152513,
       "word": "柳智敏米兰时装周",
@@ -961,14 +993,6 @@
       "onboard_time": 1726619901,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 149671,
-      "num": 149671,
-      "word": "魏大勋真内娱米莱狄",
-      "onboard_time": 1726636820,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 147509,
@@ -1115,6 +1139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111869,
+      "num": 556272,
+      "word": "涉事台企称黎巴嫩爆炸BP机是挂牌",
+      "onboard_time": 1726635982,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 111724,
       "num": 97754,
       "word": "60秒了解三只羊美诚月饼事件",
@@ -1235,12 +1267,12 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 86941,
-      "num": 556272,
-      "word": "涉事台企称黎巴嫩爆炸BP机是挂牌",
-      "onboard_time": 1726635982,
-      "rank": 9,
-      "category": "国外时政"
+      "raw_hot": 87379,
+      "num": 548154,
+      "word": "叮咚买菜的土豆被指发芽客服说是根",
+      "onboard_time": 1726635860,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83015,
@@ -1296,14 +1328,6 @@
       "word": "空调安装免上门费却收超千元",
       "onboard_time": 1726633041,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76337,
-      "num": 548154,
-      "word": "叮咚买菜的土豆被指发芽客服说是根",
-      "onboard_time": 1726635860,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1403,6 +1427,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 48212,
+      "num": 478904,
+      "word": "卫昭舞剑",
+      "onboard_time": 1726636402,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 45732,
       "num": 45732,
       "word": "欧冠联赛",
@@ -1465,6 +1497,14 @@
       "onboard_time": 1726633340,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 28876,
+      "num": 725652,
+      "word": "00后分享一周养生食谱竟都是处方药",
+      "onboard_time": 1726637780,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28723,

@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726636869214,
+  "endTime": 1726637917971,
   "band_list": [
     {
       "raw_hot": 8853103,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 2023511,
-      "num": 1231035,
+      "num": 1788382,
       "word": "美诚月饼第一批受害者出现了",
       "onboard_time": 1726624579,
       "rank": 22,
@@ -660,7 +660,7 @@
     },
     {
       "raw_hot": 1224633,
-      "num": 1224633,
+      "num": 2128133,
       "word": "美方否认参与黎巴嫩BP机爆炸",
       "onboard_time": 1726629620,
       "rank": 37,
@@ -1635,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 628495,
+      "num": 628495,
+      "word": "美诚被曝曾为东方甄选代工月饼",
+      "onboard_time": 1726631841,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 627982,
       "num": 627982,
       "word": "不活检就达不到重疾标准吗",
@@ -1811,6 +1819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 593288,
+      "num": 593646,
+      "word": "电影731官宣定档",
+      "onboard_time": 1726632561,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 585281,
       "num": 364267,
       "word": "严浩翔直播",
@@ -1849,14 +1865,6 @@
       "onboard_time": 1726320202,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 567721,
-      "num": 593646,
-      "word": "电影731官宣定档",
-      "onboard_time": 1726632561,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 561523,
@@ -2483,14 +2491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 423389,
-      "num": 533497,
-      "word": "美诚被曝曾为东方甄选代工月饼",
-      "onboard_time": 1726631841,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 420019,
       "num": 420019,
       "word": "慕胥辞",
@@ -2673,6 +2673,14 @@
       "onboard_time": 1726634482,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393239,
+      "num": 1253273,
+      "word": "侯明昊以前是SM练习生",
+      "onboard_time": 1726636042,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 390833,
@@ -3195,14 +3203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 314255,
-      "num": 543869,
-      "word": "侯明昊以前是SM练习生",
-      "onboard_time": 1726636042,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 313808,
       "num": 313808,
       "word": "刘冲和朱志鑫张极互关",
@@ -3644,7 +3644,7 @@
     },
     {
       "raw_hot": 275239,
-      "num": 1235007,
+      "num": 1892493,
       "word": "中国在月球上留下了月饼",
       "onboard_time": 1726631119,
       "rank": 2,
@@ -3689,6 +3689,14 @@
       "onboard_time": 1726542138,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 269966,
+      "num": 269966,
+      "word": "古茗",
+      "onboard_time": 1726637361,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 269401,
@@ -4024,6 +4032,14 @@
       "word": "陈昊宇张远合唱晚风",
       "onboard_time": 1726578562,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 248951,
+      "num": 568911,
+      "word": "魏大勋真内娱米莱狄",
+      "onboard_time": 1726636820,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -4729,6 +4745,14 @@
       "onboard_time": 1726475178,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208781,
+      "num": 208781,
+      "word": "A股",
+      "onboard_time": 1726624458,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 208675,
@@ -6235,6 +6259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168508,
+      "num": 168508,
+      "word": "钟文泽否认造假",
+      "onboard_time": 1726637300,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 168221,
       "num": 168221,
       "word": "王鹤棣用脚挑刀",
@@ -6257,6 +6289,14 @@
       "onboard_time": 1726559481,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 167483,
+      "num": 169966,
+      "word": "iOS通话录音功能支持老款iPhone",
+      "onboard_time": 1726633461,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 166903,
@@ -6907,14 +6947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154521,
-      "num": 169966,
-      "word": "iOS通话录音功能支持老款iPhone",
-      "onboard_time": 1726633461,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
       "raw_hot": 153840,
       "num": 153840,
       "word": "张艺兴演唱会饭拍",
@@ -7065,14 +7097,6 @@
       "onboard_time": 1726542439,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149671,
-      "num": 149671,
-      "word": "魏大勋真内娱米莱狄",
-      "onboard_time": 1726636820,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 149604,
@@ -8459,6 +8483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111869,
+      "num": 556272,
+      "word": "涉事台企称黎巴嫩爆炸BP机是挂牌",
+      "onboard_time": 1726635982,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 111853,
       "num": 111853,
       "word": "贝碧嘉暴雨或将在上海中秋前结束",
@@ -8931,12 +8963,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 86941,
-      "num": 556272,
-      "word": "涉事台企称黎巴嫩爆炸BP机是挂牌",
-      "onboard_time": 1726635982,
-      "rank": 9,
-      "category": "国外时政"
+      "raw_hot": 87379,
+      "num": 548154,
+      "word": "叮咚买菜的土豆被指发芽客服说是根",
+      "onboard_time": 1726635860,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86703,
@@ -9105,14 +9137,6 @@
       "onboard_time": 1726332377,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 76337,
-      "num": 548154,
-      "word": "叮咚买菜的土豆被指发芽客服说是根",
-      "onboard_time": 1726635860,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76114,
@@ -9521,6 +9545,14 @@
       "onboard_time": 1726509015,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 48212,
+      "num": 478904,
+      "word": "卫昭舞剑",
+      "onboard_time": 1726636402,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 48139,
@@ -10016,6 +10048,14 @@
       "word": "贝碧嘉强度还将有所加强",
       "onboard_time": 1726432331,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28876,
+      "num": 725652,
+      "word": "00后分享一周养生食谱竟都是处方药",
+      "onboard_time": 1726637780,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
