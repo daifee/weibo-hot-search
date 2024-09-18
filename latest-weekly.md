@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/15 00:25:22 ~ 2024/09/18 23:37:49
+本榜单时间：2024/09/15 00:25:22 ~ 2024/09/19 00:26:37
 </p>
 </blockquote>
 <p>
@@ -1923,6 +1923,12 @@ iPhone16评测（热度：534648）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E6%99%9A%E4%B8%8A%E5%A6%82%E5%8E%95%E8%A2%AB%E7%BD%9A%E4%BA%8B%E4%BB%B6%23" target="weibo">
+教育局通报学生晚上如厕被罚事件（热度：512868）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E5%94%90%E5%AB%A3%E8%8B%A5%E6%9C%88%E4%BA%AE%E6%B2%A1%E6%9D%A5%23" target="weibo">
 李现唐嫣若月亮没来（热度：511623）
 </a>
@@ -2163,12 +2169,6 @@ Jennie打乒乓球（热度：493055）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E6%99%9A%E4%B8%8A%E5%A6%82%E5%8E%95%E8%A2%AB%E7%BD%9A%E4%BA%8B%E4%BB%B6%23" target="weibo">
-教育局通报学生晚上如厕被罚事件（热度：444972）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%2342%E5%B2%81%E5%B7%B2%E5%A9%9A%E6%9C%89%E5%A8%83%E7%94%9F%E6%B4%BB%E7%9A%84%E4%B8%80%E5%A4%A9%23" target="weibo">
 42岁已婚有娃生活的一天（热度：444226）
 </a>
@@ -2189,6 +2189,12 @@ Jennie打乒乓球（热度：493055）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%20%E7%AB%AF%E6%B0%B4%E5%A4%A7%E5%B8%88%23" target="weibo">
 肖战 端水大师（热度：438908）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%8E%E5%B7%B4%E5%AB%A9%E5%8F%88%E5%8F%91%E7%94%9F%E5%AF%B9%E8%AE%B2%E6%9C%BA%E7%88%86%E7%82%B8%23" target="weibo">
+黎巴嫩又发生对讲机爆炸（热度：438656）
 </a>
 </li>
 
@@ -3255,6 +3261,12 @@ iOS18相册（热度：282047）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E5%8E%9F%E8%AF%9D%20%E5%A4%A7%E5%A4%A7%E6%96%B9%E6%96%B9%E6%8B%8D%E5%87%BA%E6%9D%A5%23" target="weibo">
+张桂梅原话 大大方方拍出来（热度：276919）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%B9%BF%E5%BD%A4%E8%A1%8C%23" target="weibo">
 一鹿彤行（热度：275643）
 </a>
@@ -3917,6 +3929,12 @@ Cat直播（热度：234452）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B8%BD%E5%90%9B%E4%B8%80%E4%BA%BA%E5%88%86%E9%A5%B0%E4%B8%A4%E8%A7%92%23" target="weibo">
 陈丽君一人分饰两角（热度：229841）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%85%92%E5%BA%97%E6%B4%97%E6%BE%A1%E5%90%8E%E5%8F%91%E7%8E%B0%E6%B2%90%E6%B5%B4%E9%9C%B2%E7%93%B6%E5%86%85%E5%8F%91%E9%9C%89%23" target="weibo">
+男子酒店洗澡后发现沐浴露瓶内发霉（热度：229575）
 </a>
 </li>
 
@@ -5991,12 +6009,6 @@ Fly每一次决赛都让人热血沸腾（热度：156681）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%85%92%E5%BA%97%E6%B4%97%E6%BE%A1%E5%90%8E%E5%8F%91%E7%8E%B0%E6%B2%90%E6%B5%B4%E9%9C%B2%E7%93%B6%E5%86%85%E5%8F%91%E9%9C%89%23" target="weibo">
-男子酒店洗澡后发现沐浴露瓶内发霉（热度：156229）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B4%23" target="weibo">
 花儿与少年（热度：156176）
 </a>
@@ -6065,6 +6077,12 @@ Fly每一次决赛都让人热血沸腾（热度：156681）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%B0%E6%88%90%E7%8E%8B%E7%8E%89%E9%9B%AF%E8%AE%A4%E8%AF%8616%E5%B9%B4%E7%BB%88%E6%9C%89%E5%90%BB%E6%88%8F%23" target="weibo">
 张新成王玉雯认识16年终有吻戏（热度：155009）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%9D%E5%AE%A4%E5%9B%9B%E4%BA%BA%E9%83%BD%E6%98%AF%E5%90%8C%E5%B9%B4%E5%90%8C%E6%9C%88%E5%90%8C%E6%97%A5%E7%94%9F%E7%9A%84%23" target="weibo">
+寝室四人都是同年同月同日生的（热度：154909）
 </a>
 </li>
 
@@ -6393,6 +6411,12 @@ aespa光影感舞台照（热度：145375）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%94%9F%E7%97%85%E7%A6%BB%E4%B8%96%E5%85%84%E5%BC%9F%E4%BB%AC%E8%B5%B6%E6%9D%A5%E8%A7%81%E6%9C%80%E5%90%8E%E4%B8%80%E9%9D%A2%23" target="weibo">
+男孩生病离世兄弟们赶来见最后一面（热度：143684）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23obgg%E6%98%BE%E7%A4%BAyagao%E6%AD%A3%E5%9C%A8%E5%AE%A1%E6%89%B9%23" target="weibo">
 obgg显示yagao正在审批（热度：143597）
 </a>
@@ -6449,12 +6473,6 @@ obgg显示yagao正在审批（热度：143597）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%88%E8%82%A5%E9%9C%87%E4%B8%AD%E6%A2%81%E5%9B%AD%E6%9A%82%E6%97%A0%E4%BA%BA%E5%91%98%E4%BC%A4%E4%BA%A1%E6%8A%A5%E5%91%8A%23" target="weibo">
 合肥震中梁园暂无人员伤亡报告（热度：142724）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AF%9D%E5%AE%A4%E5%9B%9B%E4%BA%BA%E9%83%BD%E6%98%AF%E5%90%8C%E5%B9%B4%E5%90%8C%E6%9C%88%E5%90%8C%E6%97%A5%E7%94%9F%E7%9A%84%23" target="weibo">
-寝室四人都是同年同月同日生的（热度：142410）
 </a>
 </li>
 
@@ -6701,6 +6719,12 @@ JDG中秋游戏团建（热度：140223）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E6%9A%B4%E9%9B%A8%23" target="weibo">
 成都暴雨（热度：136585）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E5%B0%8F%E6%B5%B7%E4%BA%BA%E8%AE%BE%23" target="weibo">
+姜小海人设（热度：136533）
 </a>
 </li>
 
@@ -7581,6 +7605,12 @@ WTT中国大满贯倒计时10天（热度：110518）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%B7%9E%E4%B8%80%E7%94%B7%E5%AD%90%E7%96%91%E7%A7%AF%E6%B0%B4%E4%B8%AD%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1%23" target="weibo">
+徐州一男子疑积水中触电身亡（热度：103028）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%87%BA%E9%81%9310%E5%B9%B4%E4%BA%86%23" target="weibo">
 王一博出道10年了（热度：102568）
 </a>
@@ -8025,12 +8055,6 @@ Capper 发条盆友圈（热度：76422）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%B7%9E%E4%B8%80%E7%94%B7%E5%AD%90%E7%96%91%E7%A7%AF%E6%B0%B4%E4%B8%AD%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1%23" target="weibo">
-徐州一男子疑积水中触电身亡（热度：67872）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E7%A7%92%E8%AE%A4%E7%A7%A6%E6%B5%B7%E7%92%90%23" target="weibo">
 王安宇秒认秦海璐（热度：67164）
 </a>
@@ -8289,6 +8313,12 @@ AG淋的金色雨是海信下的（热度：51797）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E8%82%A5%E4%B8%9C%E5%A4%84%E4%BA%8E%E9%83%AF%E5%BA%90%E6%96%AD%E8%A3%82%E5%B8%A6%23" target="weibo">
+安徽肥东处于郯庐断裂带（热度：48457）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E7%BE%8A%E5%85%B3%E8%AF%84%23" target="weibo">
 三只羊关评（热度：48431）
 </a>
@@ -8499,6 +8529,12 @@ AG淋的金色雨是海信下的（热度：51797）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%8B%E5%81%87%E6%9C%9F%E6%95%B0%E6%8D%AE%E7%9B%98%E7%82%B9%23" target="weibo">
+中秋假期数据盘点（热度：38223）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%91%E7%AE%A1%E4%B8%8D%E8%83%BD%E5%AF%B9%E5%A4%B4%E9%83%A8%E4%B8%BB%E6%92%AD%E7%BB%95%E9%81%93%E8%80%8C%E8%A1%8C%23" target="weibo">
 监管不能对头部主播绕道而行（热度：38074）
 </a>
@@ -8531,6 +8567,12 @@ AG淋的金色雨是海信下的（热度：51797）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%87%E4%BA%BA%E4%B9%90%E5%9C%A8%E4%B8%80%E8%B5%B7%23" target="weibo">
 汪苏泷演唱会万人乐在一起（热度：36561）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%A5%E4%B8%9C%E5%86%8D%E5%8F%915%E7%BA%A7%E4%BB%A5%E4%B8%8A%E5%9C%B0%E9%9C%87%E5%8F%AF%E8%83%BD%E6%80%A7%E4%B8%8D%E5%A4%A7%23" target="weibo">
+肥东再发5级以上地震可能性不大（热度：36465）
 </a>
 </li>
 
