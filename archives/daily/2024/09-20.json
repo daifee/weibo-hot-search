@@ -1,6 +1,6 @@
 {
   "startTime": 1726763246339,
-  "endTime": 1726785495360,
+  "endTime": 1726788113331,
   "band_list": [
     {
       "raw_hot": 2161007,
@@ -19,20 +19,20 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1208271,
+      "num": 1208271,
+      "word": "短剧男主都帅成这样了",
+      "onboard_time": 1726764976,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 705989,
       "num": 705989,
       "word": "吴谨言肚子",
       "onboard_time": 1726748302,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 627413,
-      "num": 627413,
-      "word": "短剧男主都帅成这样了",
-      "onboard_time": 1726764976,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 601276,
@@ -51,12 +51,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 538733,
+      "num": 538733,
+      "word": "专家再次研判合肥地震震后趋势",
+      "onboard_time": 1726773372,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389752,
+      "num": 389752,
+      "word": "成龙 七旬老汉飞檐走壁",
+      "onboard_time": 1726763237,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 356833,
       "num": 307372,
       "word": "家暴男子在离婚法庭上扛起妻子就跑",
       "onboard_time": 1726750822,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353433,
+      "num": 353433,
+      "word": "大山女孩以为400分能报考清华",
+      "onboard_time": 1726753582,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 334581,
@@ -73,14 +97,6 @@
       "onboard_time": 1726759162,
       "rank": 20,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 327157,
-      "num": 327157,
-      "word": "大山女孩以为400分能报考清华",
-      "onboard_time": 1726753582,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 325920,
@@ -107,11 +123,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 304041,
-      "num": 304041,
-      "word": "专家再次研判合肥地震震后趋势",
-      "onboard_time": 1726773372,
-      "rank": 49,
+      "raw_hot": 293921,
+      "num": 293921,
+      "word": "医院回应家属自带折叠床被没收",
+      "onboard_time": 1726773311,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -123,11 +139,43 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 239253,
+      "num": 219122,
+      "word": "肖战深情演唱月亮代表我的心",
+      "onboard_time": 1726786875,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 232133,
+      "num": 147735,
+      "word": "年入过亿女老板谈休息耻辱",
+      "onboard_time": 1726763057,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230797,
       "num": 230797,
       "word": "3岁幼童遭狗撕咬拖走数米父亲发声",
       "onboard_time": 1726755023,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221233,
+      "num": 221233,
+      "word": "普拉桑",
+      "onboard_time": 1726745720,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217237,
+      "num": 217237,
+      "word": "女子车后10米远摔倒车主被判次责",
+      "onboard_time": 1726782192,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -139,12 +187,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211019,
-      "num": 211019,
-      "word": "成龙 七旬老汉飞檐走壁",
-      "onboard_time": 1726763237,
-      "rank": 28,
-      "category": "电影"
+      "raw_hot": 206128,
+      "num": 307505,
+      "word": "台风普拉桑登陆浙江",
+      "onboard_time": 1726745062,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205074,
@@ -179,27 +227,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167437,
-      "num": 167437,
-      "word": "普拉桑",
-      "onboard_time": 1726745720,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162551,
       "num": 162551,
       "word": "央视起底网络乱象",
       "onboard_time": 1726748661,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162252,
-      "num": 162252,
-      "word": "医院回应家属自带折叠床被没收",
-      "onboard_time": 1726773311,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -211,12 +243,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154764,
+      "num": 154764,
+      "word": "黎真主党领导人称以色列越过所有红线",
+      "onboard_time": 1726762818,
+      "rank": 41,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 151729,
       "num": 151729,
       "word": "贾玲李现同框看秀",
       "onboard_time": 1726752802,
       "rank": 19,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 149203,
+      "num": 149203,
+      "word": "蔡徐坤到了米兰就出门了",
+      "onboard_time": 1726750762,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 146750,
@@ -235,11 +283,11 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 144952,
-      "num": 120911,
-      "word": "年入过亿女老板谈休息耻辱",
-      "onboard_time": 1726763057,
-      "rank": 46,
+      "raw_hot": 135760,
+      "num": 135760,
+      "word": "女生称取快递被男生多次贴身猥亵",
+      "onboard_time": 1726763777,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -259,35 +307,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122105,
-      "num": 307505,
-      "word": "台风普拉桑登陆浙江",
-      "onboard_time": 1726745062,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117158,
-      "num": 126277,
-      "word": "黎真主党领导人称以色列越过所有红线",
-      "onboard_time": 1726762818,
-      "rank": 41,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 113643,
-      "num": 79240,
-      "word": "女生称取快递被男生多次贴身猥亵",
-      "onboard_time": 1726763777,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112551,
-      "num": 112551,
+      "raw_hot": 118409,
+      "num": 118409,
       "word": "台风普拉桑将在浙江上海一带再次登陆",
       "onboard_time": 1726744726,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109207,
+      "num": 109207,
+      "word": "房管局回应三只羊上海公司现状",
+      "onboard_time": 1726786997,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -355,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90817,
+      "num": 90817,
+      "word": "上海台风",
+      "onboard_time": 1726742602,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90589,
       "num": 90589,
       "word": "一诺赵嘉敏游环球影城",
@@ -363,20 +403,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 90558,
+      "num": 90558,
+      "word": "上海中心千吨阻尼器所在楼层关闭",
+      "onboard_time": 1726767134,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89746,
+      "num": 89746,
+      "word": "台风",
+      "onboard_time": 1726752981,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89613,
       "num": 89613,
       "word": "张凌赫客串过胡夏的那些年",
       "onboard_time": 1726755323,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 87581,
-      "num": 87581,
-      "word": "蔡徐坤到了米兰就出门了",
-      "onboard_time": 1726750762,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 86405,
@@ -403,12 +451,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84610,
+      "num": 84610,
+      "word": "小学生课堂说话被老师胶布封嘴",
+      "onboard_time": 1726775412,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84385,
       "num": 84385,
       "word": "云南一高校后勤回应3硕士被聘为宿管",
       "onboard_time": 1726755144,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77792,
+      "num": 77792,
+      "word": "黎巴嫩BP机爆炸时收到以方信息",
+      "onboard_time": 1726769593,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 74047,
@@ -427,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71829,
+      "num": 71829,
+      "word": "宋佳说表演时内衣也帮了很多",
+      "onboard_time": 1726770792,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 71594,
       "num": 71594,
       "word": "恶意举报34万余次非法获利数百万",
@@ -435,19 +507,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 68495,
-      "num": 68495,
-      "word": "黎巴嫩BP机爆炸时收到以方信息",
-      "onboard_time": 1726769593,
-      "rank": 9,
-      "category": "国外时政"
+      "raw_hot": 65186,
+      "num": 65186,
+      "word": "梁伟铿从不回头看出界",
+      "onboard_time": 1726787117,
+      "rank": 42,
+      "category": "体育"
     },
     {
-      "raw_hot": 64144,
-      "num": 64144,
-      "word": "女子车后10米远摔倒车主被判次责",
-      "onboard_time": 1726782192,
-      "rank": 26,
+      "raw_hot": 62708,
+      "num": 62708,
+      "word": "花花的可爱真是太全面了",
+      "onboard_time": 1726785914,
+      "rank": 43,
+      "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 60816,
+      "num": 60816,
+      "word": "当钱塘江大潮遇到台风普拉桑",
+      "onboard_time": 1726774211,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -467,19 +547,19 @@
       "category": "数码"
     },
     {
+      "raw_hot": 54849,
+      "num": 54849,
+      "word": "大疆Action5Pro",
+      "onboard_time": 1726787958,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 53675,
       "num": 78025,
       "word": "南方多地高温天气有望结束",
       "onboard_time": 1726765935,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52119,
-      "num": 50017,
-      "word": "上海中心千吨阻尼器所在楼层关闭",
-      "onboard_time": 1726767134,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -489,14 +569,6 @@
       "onboard_time": 1726745960,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 49968,
-      "num": 49968,
-      "word": "小学生课堂说话被老师胶布封嘴",
-      "onboard_time": 1726775412,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 45739,
@@ -515,14 +587,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 40830,
-      "num": 40830,
-      "word": "宋佳说表演时内衣也帮了很多",
-      "onboard_time": 1726770792,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 40039,
       "num": 40039,
       "word": "华晨宇微博音乐盛典四项荣誉",
@@ -537,22 +601,6 @@
       "onboard_time": 1726769892,
       "rank": 23,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 39072,
-      "num": 39072,
-      "word": "当钱塘江大潮遇到台风普拉桑",
-      "onboard_time": 1726774211,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36767,
-      "num": 36767,
-      "word": "台风",
-      "onboard_time": 1726752981,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35662,
@@ -588,7 +636,7 @@
     },
     {
       "raw_hot": 28599,
-      "num": 97218,
+      "num": 109302,
       "word": "把不熬夜和愉快的感觉联系起来",
       "onboard_time": 1726782671,
       "rank": 9,
@@ -675,8 +723,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1957,
-      "num": 428480,
+      "raw_hot": 2939,
+      "num": 709782,
       "word": "一代代军人淬火成钢的誓言",
       "onboard_time": 1726706600,
       "rank": 2,
