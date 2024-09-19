@@ -1,0 +1,402 @@
+{
+  "runTime": 1726735313760,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10538762,
+        "num": 10538762,
+        "word": "黄晓明官宣恋情",
+        "onboard_time": 1726728865,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1035077,
+        "num": 1035077,
+        "word": "台湾唯一慰安妇铜像918当天被移除",
+        "onboard_time": 1726733487,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 689385,
+        "num": 689385,
+        "word": "梁王组合无缘8强",
+        "onboard_time": 1726730967,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 433592,
+        "num": 433592,
+        "word": "2024年国庆放假安排来了",
+        "onboard_time": 1726730967,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1644308,
+        "num": 433243,
+        "word": "你别做我来做",
+        "onboard_time": 1726729586,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1608916,
+        "num": 432945,
+        "word": "娟子被抓",
+        "onboard_time": 1726734087,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 562036,
+        "num": 432564,
+        "word": "央广网评装聋作哑的三只羊",
+        "onboard_time": 1726713858,
+        "rank": 7,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 396319,
+        "num": 432313,
+        "word": "黎巴嫩一医院附近发现爆炸装置",
+        "onboard_time": 1726721492,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 30224,
+        "num": 431887,
+        "word": "三只羊若构成虚假宣传或被行政处罚",
+        "onboard_time": 1726734866,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6665083,
+        "num": 431512,
+        "word": "叶珂晒聊天记录",
+        "onboard_time": 1726729765,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 563797,
+        "num": 431210,
+        "word": "黄景瑜单手抱关晓彤",
+        "onboard_time": 1726730427,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1543046,
+        "num": 430789,
+        "word": "黄晓明 没结婚",
+        "onboard_time": 1726725380,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430601,
+        "num": 430601,
+        "word": "黎巴嫩",
+        "onboard_time": 1726720651,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 336187,
+        "num": 336187,
+        "word": "狗狗以为捡了树枝奶奶就要它了",
+        "onboard_time": 1726732827,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 404568,
+        "num": 328632,
+        "word": "叶珂 钻戒",
+        "onboard_time": 1726668203,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320136,
+        "num": 320136,
+        "word": "台风排班表",
+        "onboard_time": 1726727359,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307212,
+        "num": 307212,
+        "word": "欧阳妮妮患多囊性卵巢",
+        "onboard_time": 1726708281,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293569,
+        "num": 293569,
+        "word": "苹果承认更新iPadOS18后会黑屏",
+        "onboard_time": 1726733426,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 255024,
+        "num": 255024,
+        "word": "与辉同行卖的澳门月饼在澳无门店",
+        "onboard_time": 1726731208,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 891439,
+        "num": 254163,
+        "word": "叶珂15年微博",
+        "onboard_time": 1726734626,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448692,
+        "num": 242520,
+        "word": "女子PPT曝男友嫖娼或构成侵权",
+        "onboard_time": 1726724788,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419352,
+        "num": 237543,
+        "word": "丈夫打麻将被扔靠枕后殴打怀孕妻子",
+        "onboard_time": 1726731148,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263550,
+        "num": 229821,
+        "word": "妈妈双子宫龙凤胎宝宝住上双拼别墅",
+        "onboard_time": 1726726941,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228283,
+        "num": 228283,
+        "word": "印度女子两年凑不齐嫁妆被丈夫打死",
+        "onboard_time": 1726727420,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200692,
+        "num": 200692,
+        "word": "肖战机场",
+        "onboard_time": 1726720951,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192342,
+        "num": 199313,
+        "word": "蔡徐坤米兰人气",
+        "onboard_time": 1726733968,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 198683,
+        "num": 198683,
+        "word": "合肥地震",
+        "onboard_time": 1726661786,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7941,
+        "num": 197138,
+        "word": "与众不同的王子异",
+        "onboard_time": 1726732588,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62662,
+        "num": 196842,
+        "word": "中国赛雷兰曦进8强",
+        "onboard_time": 1726734626,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334454,
+        "num": 196842,
+        "word": "三只羊全面复播",
+        "onboard_time": 1726712479,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 196821,
+        "num": 196821,
+        "word": "台风普拉桑是急性子",
+        "onboard_time": 1726715540,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194804,
+        "num": 194804,
+        "word": "你卖掉的旧手机可能会出卖你",
+        "onboard_time": 1726715119,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189507,
+        "num": 189507,
+        "word": "董宇辉接棒小杨哥陷月饼风波",
+        "onboard_time": 1726728741,
+        "rank": 33,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 188433,
+        "num": 188433,
+        "word": "网传大熊猫丁丁扑倒饲养员",
+        "onboard_time": 1726734387,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182792,
+        "num": 182792,
+        "word": "陈伟霆赵露思吻戏好欲",
+        "onboard_time": 1726718481,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182777,
+        "num": 182777,
+        "word": "多囊卵巢综合征影响的不只是生育",
+        "onboard_time": 1726728806,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 175244,
+        "num": 175244,
+        "word": "黎巴嫩多地寻呼机爆炸",
+        "onboard_time": 1726724668,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 41910,
+        "num": 173361,
+        "word": "秋天是时候换个男朋友了",
+        "onboard_time": 1726732286,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 172711,
+        "num": 172711,
+        "word": "网红直播调侃九一八被永久封号",
+        "onboard_time": 1726716322,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171816,
+        "num": 171816,
+        "word": "知情人回应张雨绮遭换角",
+        "onboard_time": 1726724429,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142420,
+        "num": 142420,
+        "word": "国庆连休7天",
+        "onboard_time": 1726733307,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140247,
+        "num": 140247,
+        "word": "小英丈夫曾说和小宝在视频里演坏人",
+        "onboard_time": 1726727900,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 37761,
+        "num": 138885,
+        "word": "7岁女孩被困车内机智自救",
+        "onboard_time": 1726734926,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25854,
+        "num": 138831,
+        "word": "极氪7X全方位守护你和家人",
+        "onboard_time": 1726730186,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 138822,
+        "num": 138822,
+        "word": "侯明昊就这么跟宋茜牵上了",
+        "onboard_time": 1726730607,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133880,
+        "num": 133880,
+        "word": "胡夏 披荆斩棘老子走了",
+        "onboard_time": 1726719142,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131402,
+        "num": 131402,
+        "word": "美联储降息跟外资撤离中国有什么关系",
+        "onboard_time": 1726733908,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 129079,
+        "num": 129079,
+        "word": "国庆节假期7天高速免费",
+        "onboard_time": 1726735286,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123360,
+        "num": 123360,
+        "word": "赵丽颖 浴火之路",
+        "onboard_time": 1726733728,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队淬火向前#"
+    }
+  }
+}
