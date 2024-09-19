@@ -1,6 +1,6 @@
 {
   "startTime": 1726763246339,
-  "endTime": 1726781763965,
+  "endTime": 1726784420084,
   "band_list": [
     {
       "raw_hot": 2161007,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211923,
+      "num": 211923,
+      "word": "专家再次研判合肥地震震后趋势",
+      "onboard_time": 1726773372,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211845,
       "num": 149443,
       "word": "南派三叔回应终极笔记2",
@@ -236,11 +244,19 @@
     },
     {
       "raw_hot": 120753,
-      "num": 107198,
+      "num": 111145,
       "word": "成龙 七旬老汉飞檐走壁",
       "onboard_time": 1726763237,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 118940,
+      "num": 118940,
+      "word": "普拉桑",
+      "onboard_time": 1726745720,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117158,
@@ -249,6 +265,14 @@
       "onboard_time": 1726762818,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 115870,
+      "num": 115870,
+      "word": "医院回应家属自带折叠床被没收",
+      "onboard_time": 1726773311,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113643,
@@ -299,14 +323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 97088,
-      "num": 97088,
-      "word": "专家再次研判合肥地震震后趋势",
-      "onboard_time": 1726773372,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97025,
       "num": 97025,
       "word": "叶珂 钻戒",
@@ -353,14 +369,6 @@
       "onboard_time": 1726755323,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 88315,
-      "num": 88315,
-      "word": "普拉桑",
-      "onboard_time": 1726745720,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87581,
@@ -435,14 +443,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 66407,
-      "num": 66407,
-      "word": "医院回应家属自带折叠床被没收",
-      "onboard_time": 1726773311,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 58761,
       "num": 58761,
       "word": "乐道L60价格",
@@ -499,6 +499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 42031,
+      "num": 42031,
+      "word": "女子车后10米远摔倒车主被判次责",
+      "onboard_time": 1726782192,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40039,
       "num": 40039,
       "word": "华晨宇微博音乐盛典四项荣誉",
@@ -513,6 +521,14 @@
       "onboard_time": 1726769892,
       "rank": 23,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 37809,
+      "num": 37809,
+      "word": "小学生课堂说话被老师胶布封嘴",
+      "onboard_time": 1726775412,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35662,
@@ -531,6 +547,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 30337,
+      "num": 30337,
+      "word": "当钱塘江大潮遇到台风普拉桑",
+      "onboard_time": 1726774211,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29477,
+      "num": 29477,
+      "word": "宋佳说表演时内衣也帮了很多",
+      "onboard_time": 1726770792,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 28524,
       "num": 32534,
       "word": "半熟男女",
@@ -547,12 +579,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 27750,
-      "num": 29145,
-      "word": "宋佳说表演时内衣也帮了很多",
-      "onboard_time": 1726770792,
-      "rank": 48,
-      "category": "电影"
+      "raw_hot": 27829,
+      "num": 27829,
+      "word": "网红调侃九一八相关部门介入调查",
+      "onboard_time": 1726775471,
+      "rank": 25,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 27743,
+      "num": 27743,
+      "word": "派出所回应3岁幼童遭狗撕咬拖数米",
+      "onboard_time": 1726776731,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26664,
@@ -563,15 +603,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25402,
-      "num": 25402,
-      "word": "网红调侃九一八相关部门介入调查",
-      "onboard_time": 1726775471,
-      "rank": 25,
-      "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 24708,
+      "raw_hot": 26485,
       "num": 32554,
       "word": "台风",
       "onboard_time": 1726752981,
@@ -579,28 +611,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24622,
-      "num": 29291,
-      "word": "小学生课堂说话被老师胶布封嘴",
-      "onboard_time": 1726775412,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22533,
-      "num": 22533,
-      "word": "派出所回应3岁幼童遭狗撕咬拖数米",
-      "onboard_time": 1726776731,
+      "raw_hot": 23027,
+      "num": 27483,
+      "word": "邓为启程巴黎时装周",
+      "onboard_time": 1726783994,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19929,
-      "num": 19929,
-      "word": "当钱塘江大潮遇到台风普拉桑",
-      "onboard_time": 1726774211,
-      "rank": 46,
-      "category": "社会新闻"
+      "category": "作品衍生"
     },
     {
       "raw_hot": 19639,
@@ -627,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 12357,
+      "num": 97218,
+      "word": "把不熬夜和愉快的感觉联系起来",
+      "onboard_time": 1726782671,
+      "rank": 9,
+      "category": "健康医疗,运动健身"
+    },
+    {
       "raw_hot": 11592,
       "num": 51974,
       "word": "古代屏风里微缩版公园好治愈",
@@ -651,7 +675,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1578,
+      "raw_hot": 1755,
       "num": 428480,
       "word": "一代代军人淬火成钢的誓言",
       "onboard_time": 1726706600,
