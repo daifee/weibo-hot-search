@@ -1,6 +1,6 @@
 {
   "startTime": 1726676797598,
-  "endTime": 1726714742809,
+  "endTime": 1726716291189,
   "band_list": [
     {
       "raw_hot": 2838889,
@@ -19,6 +19,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 2136280,
+      "num": 2136280,
+      "word": "三只羊全面复播",
+      "onboard_time": 1726712479,
+      "rank": 5,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1980624,
       "num": 1980624,
       "word": "女子58页PPT举报管培生男友嫖娼",
@@ -35,20 +43,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1527595,
+      "num": 1085660,
+      "word": "招行回应管培生被女友举报嫖娼",
+      "onboard_time": 1726712120,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1354400,
       "num": 1354400,
       "word": "几乎每轮降息都带来美国经济衰退",
       "onboard_time": 1726706241,
       "rank": 1,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1294237,
-      "num": 1294237,
-      "word": "三只羊全面复播",
-      "onboard_time": 1726712479,
-      "rank": 5,
-      "category": "网红"
     },
     {
       "raw_hot": 1141948,
@@ -59,12 +67,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1085660,
-      "num": 1085660,
-      "word": "招行回应管培生被女友举报嫖娼",
-      "onboard_time": 1726712120,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 1139307,
+      "num": 807957,
+      "word": "央广网评装聋作哑的三只羊",
+      "onboard_time": 1726713858,
+      "rank": 39,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1101871,
+      "num": 795561,
+      "word": "张雨绮发表情包回应",
+      "onboard_time": 1726712899,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1053361,
@@ -107,14 +123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 795561,
-      "num": 795561,
-      "word": "张雨绮发表情包回应",
-      "onboard_time": 1726712899,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 784070,
       "num": 389418,
       "word": "叶珂 钻戒",
@@ -129,6 +137,14 @@
       "onboard_time": 1726701498,
       "rank": 26,
       "category": "社会新闻,剧集"
+    },
+    {
+      "raw_hot": 724348,
+      "num": 724348,
+      "word": "成都一海洋馆鲸鲨被曝死亡",
+      "onboard_time": 1726713978,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 700162,
@@ -163,6 +179,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 648198,
+      "num": 648198,
+      "word": "赵丽颖 鄂尔多斯1980",
+      "onboard_time": 1726713738,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 613102,
       "num": 613102,
       "word": "黄金",
@@ -177,6 +201,14 @@
       "onboard_time": 1726662090,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 582969,
+      "num": 582969,
+      "word": "恋与深空",
+      "onboard_time": 1726715600,
+      "rank": 10,
+      "category": "游戏"
     },
     {
       "raw_hot": 582478,
@@ -219,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 495414,
+      "num": 495414,
+      "word": "电视剧四喜开机",
+      "onboard_time": 1726714040,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 492946,
       "num": 492946,
       "word": "赵露思白T配白裤",
@@ -259,12 +299,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 414216,
+      "num": 414216,
+      "word": "有棵树 成毅",
+      "onboard_time": 1726713379,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 400474,
+      "num": 400474,
+      "word": "合肥地震后余震42次",
+      "onboard_time": 1726710740,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 397941,
       "num": 397941,
       "word": "美联储",
       "onboard_time": 1726669042,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 390719,
+      "num": 390719,
+      "word": "心脏骤停前一个月身体就有迹象",
+      "onboard_time": 1726713559,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 384658,
@@ -291,36 +355,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 355891,
-      "num": 355891,
-      "word": "合肥地震后余震42次",
-      "onboard_time": 1726710740,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 351604,
-      "num": 351604,
-      "word": "赵丽颖 鄂尔多斯1980",
-      "onboard_time": 1726713738,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 338190,
-      "num": 295587,
-      "word": "有棵树 成毅",
-      "onboard_time": 1726713379,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 335306,
       "num": 335306,
       "word": "父女看打铁花表演被烫伤",
       "onboard_time": 1726680614,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327110,
+      "num": 331621,
+      "word": "刘丹说小糯米很喜欢吃月饼",
+      "onboard_time": 1726713618,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 325961,
+      "num": 325961,
+      "word": "云襄传2官宣",
+      "onboard_time": 1726715719,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 325828,
@@ -363,6 +419,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 295863,
+      "num": 295863,
+      "word": "台风普拉桑是急性子",
+      "onboard_time": 1726715540,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295756,
       "num": 295756,
       "word": "合肥4.7级地震",
@@ -377,14 +441,6 @@
       "onboard_time": 1726710740,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 288636,
-      "num": 288636,
-      "word": "电视剧四喜开机",
-      "onboard_time": 1726714040,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 288322,
@@ -443,12 +499,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233623,
-      "num": 233623,
-      "word": "央广网评装聋作哑的三只羊",
-      "onboard_time": 1726713858,
-      "rank": 39,
-      "category": "社会新闻,网红"
+      "raw_hot": 244795,
+      "num": 613725,
+      "word": "美联储降息对中国有何影响",
+      "onboard_time": 1726713020,
+      "rank": 9,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 232653,
+      "num": 232653,
+      "word": "王天一王跃飞被终身禁赛",
+      "onboard_time": 1726714516,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 229950,
@@ -491,6 +555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 208738,
+      "num": 208738,
+      "word": "尤长靖留在中国的原因",
+      "onboard_time": 1726716019,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206745,
       "num": 206745,
       "word": "东京食尸鬼 帅的很超过",
@@ -507,20 +579,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206146,
-      "num": 206146,
-      "word": "成都一海洋馆鲸鲨被曝死亡",
-      "onboard_time": 1726713978,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203558,
       "num": 203558,
       "word": "凡人歌为了这句话铺垫36集",
       "onboard_time": 1726668203,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201277,
+      "num": 201277,
+      "word": "你卖掉的旧手机可能会出卖你",
+      "onboard_time": 1726715119,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200728,
@@ -537,6 +609,14 @@
       "onboard_time": 1726704200,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 197402,
+      "num": 197402,
+      "word": "消费者发现向小杨哥三只羊索赔艰难",
+      "onboard_time": 1726716019,
+      "rank": 40,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 197111,
@@ -563,14 +643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193745,
-      "num": 193745,
-      "word": "王天一王跃飞被终身禁赛",
-      "onboard_time": 1726714516,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 192641,
       "num": 192641,
       "word": "许我耀眼官宣杀青",
@@ -587,20 +659,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 187924,
+      "num": 187924,
+      "word": "邓为 他的墨镜我的名字",
+      "onboard_time": 1726715960,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187208,
       "num": 187208,
       "word": "我国将发射2颗北斗导航卫星",
       "onboard_time": 1726709059,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 187172,
-      "num": 187172,
-      "word": "心脏骤停前一个月身体就有迹象",
-      "onboard_time": 1726713559,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 184944,
@@ -616,6 +688,22 @@
       "word": "新警一条朋友圈收获400多个点赞",
       "onboard_time": 1726706960,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178890,
+      "num": 178890,
+      "word": "黎巴嫩多地电力系统也发生爆炸",
+      "onboard_time": 1726712120,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 178737,
+      "num": 178737,
+      "word": "追授杨士莪时代楷模称号",
+      "onboard_time": 1726715360,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -729,14 +817,6 @@
       "onboard_time": 1726702278,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 156390,
-      "num": 613725,
-      "word": "美联储降息对中国有何影响",
-      "onboard_time": 1726713020,
-      "rank": 9,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 155158,
@@ -1067,14 +1147,6 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 73785,
-      "num": 331621,
-      "word": "刘丹说小糯米很喜欢吃月饼",
-      "onboard_time": 1726713618,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 73157,
       "num": 73157,
       "word": "台风普拉桑移动速度是摩羯4倍",
@@ -1091,12 +1163,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 66325,
+      "num": 491938,
+      "word": "车勋今天退伍",
+      "onboard_time": 1726715421,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62770,
       "num": 62770,
       "word": "曹杨上歌手是周杰伦推荐的吧",
       "onboard_time": 1726678336,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 62450,
+      "num": 513048,
+      "word": "美联储降息或增加全球资产泡沫风险",
+      "onboard_time": 1726715119,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 56952,
@@ -1108,7 +1196,7 @@
     },
     {
       "raw_hot": 52584,
-      "num": 353486,
+      "num": 509927,
       "word": "吴彦祖回应三角洲里都是彦祖",
       "onboard_time": 1726713559,
       "rank": 33,
@@ -1129,6 +1217,14 @@
       "onboard_time": 1726663463,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40686,
+      "num": 587471,
+      "word": "黎巴嫩连续爆炸后以色列总理首发声",
+      "onboard_time": 1726710439,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 40464,
@@ -1155,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32735,
+      "num": 481899,
+      "word": "适老化药品说明书仍超3000字",
+      "onboard_time": 1726714882,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30134,
       "num": 30134,
       "word": "王俊凯白T侧分露额头",
@@ -1177,6 +1281,14 @@
       "onboard_time": 1726686131,
       "rank": 38,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 8049,
+      "num": 819188,
+      "word": "2024北京文化论坛",
+      "onboard_time": 1726715000,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
