@@ -1,6 +1,6 @@
 {
   "startTime": 1726763246339,
-  "endTime": 1726774515626,
+  "endTime": 1726777373759,
   "band_list": [
     {
       "raw_hot": 2161007,
@@ -427,6 +427,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 66407,
+      "num": 66407,
+      "word": "医院回应家属自带折叠床被没收",
+      "onboard_time": 1726773311,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58761,
       "num": 58761,
       "word": "乐道L60价格",
@@ -441,6 +449,14 @@
       "onboard_time": 1726751722,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 54908,
+      "num": 54908,
+      "word": "专家再次研判合肥地震震后趋势",
+      "onboard_time": 1726773372,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53675,
@@ -475,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44470,
+      "num": 33917,
+      "word": "内心强大的人往往有这几个特质",
+      "onboard_time": 1726770253,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 40039,
       "num": 40039,
       "word": "华晨宇微博音乐盛典四项荣誉",
@@ -507,14 +531,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 29687,
-      "num": 32567,
-      "word": "内心强大的人往往有这几个特质",
-      "onboard_time": 1726770253,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 28524,
       "num": 32534,
       "word": "半熟男女",
@@ -529,14 +545,6 @@
       "onboard_time": 1726770312,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 28126,
-      "num": 28126,
-      "word": "专家再次研判合肥地震震后趋势",
-      "onboard_time": 1726773372,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27750,
@@ -563,12 +571,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21447,
-      "num": 40986,
-      "word": "医院回应家属自带折叠床被没收",
-      "onboard_time": 1726773311,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 24445,
+      "num": 24445,
+      "word": "网红调侃九一八相关部门介入调查",
+      "onboard_time": 1726775471,
+      "rank": 25,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 19639,
@@ -577,6 +585,30 @@
       "onboard_time": 1726767433,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 17697,
+      "num": 17697,
+      "word": "当钱塘江大潮遇到台风普拉桑",
+      "onboard_time": 1726774211,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13790,
+      "num": 29291,
+      "word": "小学生课堂说话被老师胶布封嘴",
+      "onboard_time": 1726775412,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12297,
+      "num": 24421,
+      "word": "被动物强势围观是什么体验",
+      "onboard_time": 1726777271,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3340,
