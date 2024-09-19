@@ -1,6 +1,6 @@
 {
   "startTime": 1726676797598,
-  "endTime": 1726717174822,
+  "endTime": 1726719978591,
   "band_list": [
     {
       "raw_hot": 2838889,
@@ -9,6 +9,14 @@
       "onboard_time": 1726708520,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2355727,
+      "num": 2355727,
+      "word": "央广网评装聋作哑的三只羊",
+      "onboard_time": 1726713858,
+      "rank": 39,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2334116,
@@ -25,14 +33,6 @@
       "onboard_time": 1726669823,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 2054312,
-      "num": 2054312,
-      "word": "央广网评装聋作哑的三只羊",
-      "onboard_time": 1726713858,
-      "rank": 39,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1980624,
@@ -67,6 +67,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1203104,
+      "num": 1203104,
+      "word": "网红直播调侃九一八被永久封号",
+      "onboard_time": 1726716322,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1188160,
+      "num": 1188160,
+      "word": "台风普拉桑是急性子",
+      "onboard_time": 1726715540,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1159109,
       "num": 1159109,
       "word": "张雨绮发表情包回应",
@@ -91,12 +107,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 997407,
+      "num": 997407,
+      "word": "刘丹说小糯米很喜欢吃月饼",
+      "onboard_time": 1726713618,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 955289,
+      "num": 955289,
+      "word": "御赐小仵作2原班人马开机",
+      "onboard_time": 1726716322,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 934569,
       "num": 934569,
       "word": "张雨绮疑似被换角",
       "onboard_time": 1726701436,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 922133,
+      "num": 922133,
+      "word": "Scout暂时无缘S14",
+      "onboard_time": 1726717820,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 872254,
@@ -195,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 625510,
+      "num": 625510,
+      "word": "尤长靖留在中国的原因",
+      "onboard_time": 1726716019,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 613102,
       "num": 613102,
       "word": "黄金",
@@ -211,14 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 584890,
-      "num": 584890,
-      "word": "御赐小仵作2原班人马开机",
-      "onboard_time": 1726716322,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 582478,
       "num": 367058,
       "word": "老人捡蜗牛吃身亡2守灵者吃后也死",
@@ -227,12 +267,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 581549,
-      "num": 581549,
-      "word": "刘丹说小糯米很喜欢吃月饼",
-      "onboard_time": 1726713618,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 558339,
+      "num": 558339,
+      "word": "董宇辉带货月饼疑有质量问题",
+      "onboard_time": 1726718121,
+      "rank": 22,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 545902,
@@ -267,12 +307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 522150,
-      "num": 522150,
-      "word": "尤长靖留在中国的原因",
-      "onboard_time": 1726716019,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 514270,
+      "num": 514270,
+      "word": "拳头官宣Yagao通过审核",
+      "onboard_time": 1726717520,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 512868,
@@ -291,12 +331,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 489295,
+      "num": 489295,
+      "word": "胡夏 披荆斩棘老子走了",
+      "onboard_time": 1726719142,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 484982,
-      "num": 427954,
+      "num": 457188,
       "word": "心脏骤停前一个月身体就有迹象",
       "onboard_time": 1726713559,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 479893,
+      "num": 479893,
+      "word": "陈伟霆赵露思吻戏好欲",
+      "onboard_time": 1726718481,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 463463,
@@ -323,12 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 438685,
-      "num": 438685,
-      "word": "台风普拉桑是急性子",
-      "onboard_time": 1726715540,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 433671,
+      "num": 433671,
+      "word": "俄企高层内斗爆发枪战致2死7伤",
+      "onboard_time": 1726718060,
+      "rank": 28,
+      "category": "国外时政"
     },
     {
       "raw_hot": 423857,
@@ -337,6 +393,14 @@
       "onboard_time": 1726667421,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 422302,
+      "num": 422302,
+      "word": "你卖掉的旧手机可能会出卖你",
+      "onboard_time": 1726715119,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 414216,
@@ -379,12 +443,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364091,
+      "num": 364091,
+      "word": "招商银行",
+      "onboard_time": 1726718962,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361617,
       "num": 361617,
       "word": "校方已退还如厕被定违纪学生打印费",
       "onboard_time": 1726687631,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346892,
+      "num": 346892,
+      "word": "LNG全华班",
+      "onboard_time": 1726718661,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 345406,
@@ -401,6 +481,14 @@
       "onboard_time": 1726680614,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335200,
+      "num": 335200,
+      "word": "消费者发现向小杨哥三只羊索赔艰难",
+      "onboard_time": 1726716019,
+      "rank": 40,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 325828,
@@ -459,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290143,
+      "num": 290143,
+      "word": "易烊千玺杂志",
+      "onboard_time": 1726719208,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 288322,
       "num": 288322,
       "word": "心脏骤停发作前身体会多次提醒你",
@@ -473,6 +569,14 @@
       "onboard_time": 1726707920,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 287027,
+      "num": 287027,
+      "word": "秦彻日卡呢",
+      "onboard_time": 1726717581,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 279419,
@@ -491,14 +595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 264066,
-      "num": 264066,
-      "word": "网红直播调侃九一八被永久封号",
-      "onboard_time": 1726716322,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 260248,
       "num": 260248,
       "word": "南京震感",
@@ -515,14 +611,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 254264,
-      "num": 254264,
-      "word": "消费者发现向小杨哥三只羊索赔艰难",
-      "onboard_time": 1726716019,
-      "rank": 40,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 252553,
       "num": 252553,
       "word": "海清最近状态",
@@ -537,6 +625,14 @@
       "onboard_time": 1726714516,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 245826,
+      "num": 245826,
+      "word": "心跳慢的人更容易长寿",
+      "onboard_time": 1726718840,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 244795,
@@ -579,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229264,
+      "num": 229264,
+      "word": "理想L6 5个月交付破10万辆",
+      "onboard_time": 1726719625,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 226082,
       "num": 226082,
       "word": "人均3000元餐厅主厨代言美诚月饼",
@@ -587,12 +691,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 224213,
-      "num": 224213,
-      "word": "你卖掉的旧手机可能会出卖你",
-      "onboard_time": 1726715119,
-      "rank": 38,
+      "raw_hot": 225509,
+      "num": 225509,
+      "word": "宗馥莉回应将取消干股分红",
+      "onboard_time": 1726719750,
+      "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218623,
+      "num": 218623,
+      "word": "台风",
+      "onboard_time": 1726718840,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217284,
+      "num": 217284,
+      "word": "黎深新主线",
+      "onboard_time": 1726718720,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 214818,
@@ -601,6 +721,22 @@
       "onboard_time": 1726672701,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 211457,
+      "num": 211457,
+      "word": "MK预告",
+      "onboard_time": 1726717040,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 209964,
+      "num": 655363,
+      "word": "半熟男女",
+      "onboard_time": 1726718301,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 206745,
@@ -681,14 +817,6 @@
       "onboard_time": 1726713501,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 191873,
-      "num": 191873,
-      "word": "MK预告",
-      "onboard_time": 1726717040,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 188088,
@@ -995,6 +1123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127392,
+      "num": 659103,
+      "word": "学生外流3千多人村属小学招不到生",
+      "onboard_time": 1726718600,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127072,
       "num": 127072,
       "word": "一代代军人淬火成钢的誓言",
@@ -1108,7 +1244,7 @@
     },
     {
       "raw_hot": 101088,
-      "num": 252825,
+      "num": 657997,
       "word": "豪华车价格整顿打响第一枪",
       "onboard_time": 1726716740,
       "rank": 31,
@@ -1252,7 +1388,7 @@
     },
     {
       "raw_hot": 61645,
-      "num": 167921,
+      "num": 661836,
       "word": "一起云游阿勒泰",
       "onboard_time": 1726717101,
       "rank": 48,
@@ -1275,12 +1411,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56138,
+      "num": 629017,
+      "word": "女子骑电动车打伞被卷入车底身亡",
+      "onboard_time": 1726719329,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52180,
       "num": 52180,
       "word": "卢昱晓素颜上班",
       "onboard_time": 1726680015,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 46413,
+      "num": 635584,
+      "word": "90年代偶像剧男神盘点",
+      "onboard_time": 1726719329,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 45497,
+      "num": 758295,
+      "word": "联大要求以色列12个月内结束占领",
+      "onboard_time": 1726707680,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 41992,
@@ -1348,7 +1508,7 @@
     },
     {
       "raw_hot": 8049,
-      "num": 1085983,
+      "num": 1193889,
       "word": "2024北京文化论坛",
       "onboard_time": 1726715000,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1726719978591,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2355727,
+        "num": 2355727,
+        "word": "央广网评装聋作哑的三只羊",
+        "onboard_time": 1726713858,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1203104,
+        "num": 1203104,
+        "word": "网红直播调侃九一八被永久封号",
+        "onboard_time": 1726716322,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15,
+        "num": 1193889,
+        "word": "2024北京文化论坛",
+        "onboard_time": 1726715000,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1188160,
+        "num": 1188160,
+        "word": "台风普拉桑是急性子",
+        "onboard_time": 1726715540,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 997407,
+        "num": 997407,
+        "word": "刘丹说小糯米很喜欢吃月饼",
+        "onboard_time": 1726713618,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 981142,
+        "num": 981142,
+        "word": "降息",
+        "onboard_time": 1726669823,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 955289,
+        "num": 955289,
+        "word": "御赐小仵作2原班人马开机",
+        "onboard_time": 1726716322,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 922133,
+        "num": 922133,
+        "word": "Scout暂时无缘S14",
+        "onboard_time": 1726717820,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 882410,
+        "num": 882410,
+        "word": "欧阳妮妮患多囊性卵巢",
+        "onboard_time": 1726708281,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45497,
+        "num": 758295,
+        "word": "联大要求以色列12个月内结束占领",
+        "onboard_time": 1726707680,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 2188416,
+        "num": 755904,
+        "word": "三只羊全面复播",
+        "onboard_time": 1726712479,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 743914,
+        "num": 743914,
+        "word": "张雨绮发表情包回应",
+        "onboard_time": 1726712899,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 662940,
+        "num": 662940,
+        "word": "成都一海洋馆鲸鲨被曝死亡",
+        "onboard_time": 1726713978,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60473,
+        "num": 661836,
+        "word": "一起云游阿勒泰",
+        "onboard_time": 1726717101,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 127392,
+        "num": 659103,
+        "word": "学生外流3千多人村属小学招不到生",
+        "onboard_time": 1726718600,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96887,
+        "num": 657997,
+        "word": "豪华车价格整顿打响第一枪",
+        "onboard_time": 1726716740,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 209964,
+        "num": 655363,
+        "word": "半熟男女",
+        "onboard_time": 1726718301,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 653837,
+        "num": 653837,
+        "word": "合肥地震",
+        "onboard_time": 1726661786,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46413,
+        "num": 635584,
+        "word": "90年代偶像剧男神盘点",
+        "onboard_time": 1726719329,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56138,
+        "num": 629017,
+        "word": "女子骑电动车打伞被卷入车底身亡",
+        "onboard_time": 1726719329,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1035662,
+        "num": 628393,
+        "word": "招行回应管培生被女友举报嫖娼",
+        "onboard_time": 1726712120,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625510,
+        "num": 625510,
+        "word": "尤长靖留在中国的原因",
+        "onboard_time": 1726716019,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 558339,
+        "num": 558339,
+        "word": "董宇辉带货月饼疑有质量问题",
+        "onboard_time": 1726718121,
+        "rank": 22,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 523365,
+        "num": 523365,
+        "word": "黎巴嫩新一轮爆炸的对讲机产自日本",
+        "onboard_time": 1726709839,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 514270,
+        "num": 514270,
+        "word": "拳头官宣Yagao通过审核",
+        "onboard_time": 1726717520,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 489295,
+        "num": 489295,
+        "word": "胡夏 披荆斩棘老子走了",
+        "onboard_time": 1726719142,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 479893,
+        "num": 479893,
+        "word": "陈伟霆赵露思吻戏好欲",
+        "onboard_time": 1726718481,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 457188,
+        "num": 457188,
+        "word": "心脏骤停前一个月身体就有迹象",
+        "onboard_time": 1726713559,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 433671,
+        "num": 433671,
+        "word": "俄企高层内斗爆发枪战致2死7伤",
+        "onboard_time": 1726718060,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 422302,
+        "num": 422302,
+        "word": "你卖掉的旧手机可能会出卖你",
+        "onboard_time": 1726715119,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1915377,
+        "num": 421647,
+        "word": "58页PPT",
+        "onboard_time": 1726708520,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403232,
+        "num": 403232,
+        "word": "黎巴嫩又发生对讲机爆炸",
+        "onboard_time": 1726675279,
+        "rank": 31,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 402164,
+        "num": 402164,
+        "word": "南柱赫退伍",
+        "onboard_time": 1726709059,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364091,
+        "num": 364091,
+        "word": "招商银行",
+        "onboard_time": 1726718962,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346892,
+        "num": 346892,
+        "word": "LNG全华班",
+        "onboard_time": 1726718661,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 335200,
+        "num": 335200,
+        "word": "消费者发现向小杨哥三只羊索赔艰难",
+        "onboard_time": 1726716019,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328766,
+        "num": 328766,
+        "word": "恋与深空",
+        "onboard_time": 1726715600,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 317033,
+        "num": 317033,
+        "word": "云襄传2官宣",
+        "onboard_time": 1726715719,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 384898,
+        "num": 309355,
+        "word": "有棵树 成毅",
+        "onboard_time": 1726713379,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290143,
+        "num": 290143,
+        "word": "易烊千玺杂志",
+        "onboard_time": 1726719208,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 287027,
+        "num": 287027,
+        "word": "秦彻日卡呢",
+        "onboard_time": 1726717581,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 266755,
+        "num": 266755,
+        "word": "女子58页PPT举报管培生男友嫖娼",
+        "onboard_time": 1726686911,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245826,
+        "num": 245826,
+        "word": "心跳慢的人更容易长寿",
+        "onboard_time": 1726718840,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 229264,
+        "num": 229264,
+        "word": "理想L6 5个月交付破10万辆",
+        "onboard_time": 1726719625,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 225509,
+        "num": 225509,
+        "word": "宗馥莉回应将取消干股分红",
+        "onboard_time": 1726719750,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220358,
+        "num": 220358,
+        "word": "电视剧四喜开机",
+        "onboard_time": 1726714040,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218623,
+        "num": 218623,
+        "word": "台风",
+        "onboard_time": 1726718840,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217284,
+        "num": 217284,
+        "word": "黎深新主线",
+        "onboard_time": 1726718720,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215702,
+        "num": 215702,
+        "word": "小英称有什么事都会坦然面对",
+        "onboard_time": 1726706901,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 211457,
+        "num": 211457,
+        "word": "MK预告",
+        "onboard_time": 1726717040,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队淬火向前#"
+    }
+  }
+}
