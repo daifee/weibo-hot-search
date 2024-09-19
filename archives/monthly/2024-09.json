@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726760286896,
+  "endTime": 1726763246339,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -10475,6 +10475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 539410,
+      "num": 539410,
+      "word": "合肥4.7级地震余震58次",
+      "onboard_time": 1726757483,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 539304,
       "num": 306037,
       "word": "公司发了会骂人的月饼",
@@ -10937,14 +10945,6 @@
       "onboard_time": 1726034781,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 521300,
-      "num": 521300,
-      "word": "合肥4.7级地震余震58次",
-      "onboard_time": 1726757483,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 520797,
@@ -16131,6 +16131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334581,
+      "num": 334581,
+      "word": "安徽省地震局加密观测肥东震区",
+      "onboard_time": 1726757541,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334267,
       "num": 334267,
       "word": "王楚钦孙颖莎水灵灵地一起走了",
@@ -16305,6 +16313,14 @@
       "onboard_time": 1725352580,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 328958,
+      "num": 166250,
+      "word": "朋友圈第一批发live的人",
+      "onboard_time": 1726759162,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 328780,
@@ -24531,6 +24547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 211845,
+      "num": 149443,
+      "word": "南派三叔回应终极笔记2",
+      "onboard_time": 1726760541,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211766,
       "num": 211766,
       "word": "田志希回应0比3输孙颖莎",
@@ -31707,14 +31731,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 178133,
-      "num": 244094,
-      "word": "安徽省地震局加密观测肥东震区",
-      "onboard_time": 1726757541,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178091,
       "num": 170307,
       "word": "Kanye试听会 种小麦",
@@ -32771,6 +32787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 173491,
+      "num": 148298,
+      "word": "大张伟 这是林一不是许凯",
+      "onboard_time": 1726762219,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173446,
       "num": 173446,
       "word": "李现拍的赛里木湖",
@@ -32953,6 +32977,14 @@
       "onboard_time": 1725355280,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172728,
+      "num": 172728,
+      "word": "雪迷宫热度破万",
+      "onboard_time": 1726761559,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 172686,
@@ -34233,14 +34265,6 @@
       "onboard_time": 1726144700,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166250,
-      "num": 166250,
-      "word": "朋友圈第一批发live的人",
-      "onboard_time": 1726759162,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 166249,
@@ -39017,6 +39041,14 @@
       "onboard_time": 1725182239,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 145580,
+      "num": 145580,
+      "word": "微信朋友圈live图不能单独关闭声音",
+      "onboard_time": 1726759941,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 145552,
@@ -45523,14 +45555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109213,
-      "num": 109213,
-      "word": "微信朋友圈live图不能单独关闭声音",
-      "onboard_time": 1726759941,
-      "rank": 44,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 109192,
       "num": 308201,
       "word": "易烊千玺威尼斯海边写真",
@@ -45776,6 +45800,14 @@
       "word": "林诗栋蒯曼3比0日本组合",
       "onboard_time": 1725665115,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 107398,
+      "num": 107398,
+      "word": "WTT蒙彼利埃冠军赛首批入围名单",
+      "onboard_time": 1726760660,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -47307,6 +47339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91617,
+      "num": 91617,
+      "word": "王鹤棣棣一次全明星获奖了",
+      "onboard_time": 1726762100,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 91137,
       "num": 334699,
       "word": "没钱小少爷变身大漠驸马爷",
@@ -47755,12 +47795,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 86537,
+      "num": 86537,
+      "word": "黎真主党领导人称以色列越过所有红线",
+      "onboard_time": 1726762818,
+      "rank": 41,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 86534,
       "num": 86534,
       "word": "一只鸡换来七个干儿子",
       "onboard_time": 1726433111,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86405,
+      "num": 444877,
+      "word": "00后小伙打破外国金牌垄断",
+      "onboard_time": 1726758443,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86392,
@@ -48731,18 +48787,18 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74607,
+      "num": 74607,
+      "word": "年入过亿女老板谈休息耻辱",
+      "onboard_time": 1726763057,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74446,
       "num": 390788,
       "word": "河南中牟通报教官体罚14岁女生",
       "onboard_time": 1725405256,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74085,
-      "num": 444877,
-      "word": "00后小伙打破外国金牌垄断",
-      "onboard_time": 1726758443,
       "rank": 9,
       "category": "社会新闻"
     },

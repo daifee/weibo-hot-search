@@ -1,0 +1,411 @@
+{
+  "startTime": 1726763246339,
+  "endTime": 1726763246339,
+  "band_list": [
+    {
+      "raw_hot": 2161007,
+      "num": 2161007,
+      "word": "微信实况",
+      "onboard_time": 1726753402,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 1271784,
+      "num": 1271784,
+      "word": "民政局回应小英送养孩子传闻",
+      "onboard_time": 1726757064,
+      "rank": 1,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 705989,
+      "num": 705989,
+      "word": "吴谨言肚子",
+      "onboard_time": 1726748302,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 601276,
+      "num": 307404,
+      "word": "娟子被抓",
+      "onboard_time": 1726734087,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 539410,
+      "num": 539410,
+      "word": "合肥4.7级地震余震58次",
+      "onboard_time": 1726757483,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356833,
+      "num": 307372,
+      "word": "家暴男子在离婚法庭上扛起妻子就跑",
+      "onboard_time": 1726750822,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334581,
+      "num": 334581,
+      "word": "安徽省地震局加密观测肥东震区",
+      "onboard_time": 1726757541,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328958,
+      "num": 149713,
+      "word": "朋友圈第一批发live的人",
+      "onboard_time": 1726759162,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 327157,
+      "num": 327157,
+      "word": "大山女孩以为400分能报考清华",
+      "onboard_time": 1726753582,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 325920,
+      "num": 325920,
+      "word": "WTT名单",
+      "onboard_time": 1726757603,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 320045,
+      "num": 320045,
+      "word": "田曦薇演普女 说服力",
+      "onboard_time": 1726753104,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 306591,
+      "num": 306591,
+      "word": "刘烨儿子在家叫妈出门叫姐",
+      "onboard_time": 1726756462,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 279635,
+      "num": 279635,
+      "word": "微信回应安卓何时能发live图",
+      "onboard_time": 1726745242,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 230797,
+      "num": 230797,
+      "word": "3岁幼童遭狗撕咬拖走数米父亲发声",
+      "onboard_time": 1726755023,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211845,
+      "num": 149443,
+      "word": "南派三叔回应终极笔记2",
+      "onboard_time": 1726760541,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205074,
+      "num": 205074,
+      "word": "黄晓明叶珂恋情时间线",
+      "onboard_time": 1726751961,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 173491,
+      "num": 148298,
+      "word": "大张伟 这是林一不是许凯",
+      "onboard_time": 1726762219,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 172728,
+      "num": 172728,
+      "word": "雪迷宫热度破万",
+      "onboard_time": 1726761559,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162551,
+      "num": 162551,
+      "word": "央视起底网络乱象",
+      "onboard_time": 1726748661,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158102,
+      "num": 158102,
+      "word": "4岁男孩患上皮肤饥饿症",
+      "onboard_time": 1726737506,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151729,
+      "num": 151729,
+      "word": "贾玲李现同框看秀",
+      "onboard_time": 1726752802,
+      "rank": 19,
+      "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 146750,
+      "num": 146750,
+      "word": "饿到什么程度才会开始燃烧脂肪",
+      "onboard_time": 1726743262,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 145580,
+      "num": 145580,
+      "word": "微信朋友圈live图不能单独关闭声音",
+      "onboard_time": 1726759941,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 130104,
+      "num": 130104,
+      "word": "Jennie解释室内吸烟道歉的原因",
+      "onboard_time": 1726746561,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127064,
+      "num": 127064,
+      "word": "20余省份将受冷空气影响",
+      "onboard_time": 1726759221,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126791,
+      "num": 126791,
+      "word": "180斤7XL女孩当汉服模特月入过万",
+      "onboard_time": 1726751903,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112551,
+      "num": 112551,
+      "word": "台风普拉桑将在浙江上海一带再次登陆",
+      "onboard_time": 1726744726,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110980,
+      "num": 307505,
+      "word": "台风普拉桑登陆浙江",
+      "onboard_time": 1726745062,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108501,
+      "num": 108501,
+      "word": "男子被同学驾车多次撞击碾压致死",
+      "onboard_time": 1726746200,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107398,
+      "num": 107398,
+      "word": "WTT蒙彼利埃冠军赛首批入围名单",
+      "onboard_time": 1726760660,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 106630,
+      "num": 106630,
+      "word": "袁巴元承认改分手协议日期",
+      "onboard_time": 1726749201,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 97669,
+      "num": 97669,
+      "word": "金晨预告生气了",
+      "onboard_time": 1726760122,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 97025,
+      "num": 97025,
+      "word": "叶珂 钻戒",
+      "onboard_time": 1726668203,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 93998,
+      "num": 93998,
+      "word": "熊猫险被冲走两脚兽急得直喊大哥",
+      "onboard_time": 1726757304,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93336,
+      "num": 93336,
+      "word": "柳智敏生图",
+      "onboard_time": 1726753163,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 91617,
+      "num": 91617,
+      "word": "王鹤棣棣一次全明星获奖了",
+      "onboard_time": 1726762100,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 90589,
+      "num": 90589,
+      "word": "一诺赵嘉敏游环球影城",
+      "onboard_time": 1726751423,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 89613,
+      "num": 89613,
+      "word": "张凌赫客串过胡夏的那些年",
+      "onboard_time": 1726755323,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 88315,
+      "num": 88315,
+      "word": "普拉桑",
+      "onboard_time": 1726745720,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87581,
+      "num": 87581,
+      "word": "蔡徐坤到了米兰就出门了",
+      "onboard_time": 1726750762,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 86537,
+      "num": 86537,
+      "word": "黎真主党领导人称以色列越过所有红线",
+      "onboard_time": 1726762818,
+      "rank": 41,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 86405,
+      "num": 86405,
+      "word": "00后小伙打破外国金牌垄断",
+      "onboard_time": 1726758443,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85696,
+      "num": 85696,
+      "word": "王子奇刚当上人妻 王星越就出手了",
+      "onboard_time": 1726752022,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 85309,
+      "num": 85309,
+      "word": "于正再回应吴谨言结婚",
+      "onboard_time": 1726753762,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 84385,
+      "num": 84385,
+      "word": "云南一高校后勤回应3硕士被聘为宿管",
+      "onboard_time": 1726755144,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74607,
+      "num": 74607,
+      "word": "年入过亿女老板谈休息耻辱",
+      "onboard_time": 1726763057,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74047,
+      "num": 74047,
+      "word": "邓为 人在巴黎但像在北京郊区",
+      "onboard_time": 1726745780,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 72031,
+      "num": 72031,
+      "word": "苏新皓在练习室唱少一点天份",
+      "onboard_time": 1726758863,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 71594,
+      "num": 71594,
+      "word": "恶意举报34万余次非法获利数百万",
+      "onboard_time": 1726743743,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3340,
+      "num": 936634,
+      "word": "把青春华章写在祖国大地上",
+      "onboard_time": 1726752081,
+      "rank": 2,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#中华民族共同体意识是民族团结之本#"
+    }
+  ]
+}
