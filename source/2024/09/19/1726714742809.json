@@ -1,0 +1,410 @@
+{
+  "runTime": 1726714742809,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1313843,
+        "num": 1313843,
+        "word": "降息",
+        "onboard_time": 1726669823,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1294237,
+        "num": 1294237,
+        "word": "三只羊全面复播",
+        "onboard_time": 1726712479,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 59612,
+        "num": 1262472,
+        "word": "中秋假期数据盘点",
+        "onboard_time": 1726675639,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1258750,
+        "num": 1258750,
+        "word": "欧阳妮妮患多囊性卵巢",
+        "onboard_time": 1726708281,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1107003,
+        "num": 1107003,
+        "word": "犯了众怒的三只羊要付出代价",
+        "onboard_time": 1726710080,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1085660,
+        "num": 1085660,
+        "word": "招行回应管培生被女友举报嫖娼",
+        "onboard_time": 1726712120,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 806221,
+        "num": 806221,
+        "word": "小英称有什么事都会坦然面对",
+        "onboard_time": 1726706901,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 795561,
+        "num": 795561,
+        "word": "张雨绮发表情包回应",
+        "onboard_time": 1726712899,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 657760,
+        "num": 657760,
+        "word": "合肥地震",
+        "onboard_time": 1726661786,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156390,
+        "num": 611783,
+        "word": "美联储降息对中国有何影响",
+        "onboard_time": 1726713020,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 767151,
+        "num": 611283,
+        "word": "南柱赫退伍",
+        "onboard_time": 1726709059,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 597401,
+        "num": 597401,
+        "word": "黎巴嫩新一轮爆炸的对讲机产自日本",
+        "onboard_time": 1726709839,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 468810,
+        "num": 468810,
+        "word": "黎巴嫩又发生对讲机爆炸",
+        "onboard_time": 1726675279,
+        "rank": 12,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 434681,
+        "num": 434681,
+        "word": "张雨绮疑似被换角",
+        "onboard_time": 1726701436,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355891,
+        "num": 355891,
+        "word": "合肥地震后余震42次",
+        "onboard_time": 1726710740,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355459,
+        "num": 355459,
+        "word": "几乎每轮降息都带来美国经济衰退",
+        "onboard_time": 1726706241,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 52584,
+        "num": 353486,
+        "word": "吴彦祖回应三角洲里都是彦祖",
+        "onboard_time": 1726713559,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351604,
+        "num": 351604,
+        "word": "赵丽颖 鄂尔多斯1980",
+        "onboard_time": 1726713738,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336623,
+        "num": 336623,
+        "word": "已有13人荣获共和国勋章",
+        "onboard_time": 1726707861,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 73785,
+        "num": 331621,
+        "word": "刘丹说小糯米很喜欢吃月饼",
+        "onboard_time": 1726713618,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2597933,
+        "num": 320923,
+        "word": "58页PPT",
+        "onboard_time": 1726708520,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578023,
+        "num": 312115,
+        "word": "女子58页PPT举报管培生男友嫖娼",
+        "onboard_time": 1726686911,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338190,
+        "num": 295587,
+        "word": "有棵树 成毅",
+        "onboard_time": 1726713379,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294696,
+        "num": 294696,
+        "word": "离婚后妻子要求分割婆婆买的房子",
+        "onboard_time": 1726701498,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288636,
+        "num": 288636,
+        "word": "电视剧四喜开机",
+        "onboard_time": 1726714040,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278962,
+        "num": 278962,
+        "word": "刘亚仁涉嫌性侵被判无罪",
+        "onboard_time": 1726713139,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275817,
+        "num": 275817,
+        "word": "华为终端 吴磊",
+        "onboard_time": 1726710740,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261336,
+        "num": 261336,
+        "word": "赵露思白T配白裤",
+        "onboard_time": 1726704681,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238612,
+        "num": 238612,
+        "word": "不吃早饭和不吃晚饭哪个危害大",
+        "onboard_time": 1726707920,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 233623,
+        "num": 233623,
+        "word": "央广网评装聋作哑的三只羊",
+        "onboard_time": 1726713858,
+        "rank": 29,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 227749,
+        "num": 227749,
+        "word": "海清最近状态",
+        "onboard_time": 1726710978,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209025,
+        "num": 209025,
+        "word": "关晓彤黄景瑜吻戏路透",
+        "onboard_time": 1726701436,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206146,
+        "num": 206146,
+        "word": "成都一海洋馆鲸鲨被曝死亡",
+        "onboard_time": 1726713978,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196979,
+        "num": 196979,
+        "word": "华为发布会悬念开局",
+        "onboard_time": 1726714399,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 194816,
+        "num": 194816,
+        "word": "为什么越开肩反而越内扣",
+        "onboard_time": 1726708340,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 193745,
+        "num": 193745,
+        "word": "王天一王跃飞被终身禁赛",
+        "onboard_time": 1726714516,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192641,
+        "num": 192641,
+        "word": "许我耀眼官宣杀青",
+        "onboard_time": 1726713501,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188088,
+        "num": 192000,
+        "word": "龙皓晨真有神印王座要继承",
+        "onboard_time": 1726714280,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 191882,
+        "num": 191882,
+        "word": "黄金",
+        "onboard_time": 1726703117,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 187172,
+        "num": 187172,
+        "word": "心脏骤停前一个月身体就有迹象",
+        "onboard_time": 1726713559,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 184944,
+        "num": 184944,
+        "word": "Note14",
+        "onboard_time": 1726713680,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 178600,
+        "num": 178600,
+        "word": "象棋协会通报王天一王跃飞处罚情况",
+        "onboard_time": 1726714159,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175698,
+        "num": 175698,
+        "word": "新警一条朋友圈收获400多个点赞",
+        "onboard_time": 1726706960,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166307,
+        "num": 166307,
+        "word": "我国将发射2颗北斗导航卫星",
+        "onboard_time": 1726709059,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164319,
+        "num": 164319,
+        "word": "5岁小孩cos黑神话八戒成漫展焦点",
+        "onboard_time": 1726713978,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164061,
+        "num": 164061,
+        "word": "重返未来1999",
+        "onboard_time": 1726714700,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162665,
+        "num": 162665,
+        "word": "叶珂 钻戒",
+        "onboard_time": 1726668203,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159488,
+        "num": 159488,
+        "word": "美联储每次降息后上证指数走势",
+        "onboard_time": 1726714580,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 158188,
+        "num": 158188,
+        "word": "00后中秋回村成了最大显眼包",
+        "onboard_time": 1726714341,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158172,
+        "num": 158172,
+        "word": "心脏骤停发作前身体会多次提醒你",
+        "onboard_time": 1726703058,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队淬火向前#"
+    }
+  }
+}

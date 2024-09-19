@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726714199047,
+  "endTime": 1726714742809,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -2795,6 +2795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1294237,
+      "num": 1294237,
+      "word": "三只羊全面复播",
+      "onboard_time": 1726712479,
+      "rank": 5,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1293593,
       "num": 1293593,
       "word": "台风摩羯 眼壁置换",
@@ -3963,19 +3971,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1085660,
+      "num": 1085660,
+      "word": "招行回应管培生被女友举报嫖娼",
+      "onboard_time": 1726712120,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1083835,
       "num": 1083835,
       "word": "上海出现一只在逃吗喽",
       "onboard_time": 1726135519,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1082162,
-      "num": 1082162,
-      "word": "招行回应管培生被女友举报嫖娼",
-      "onboard_time": 1726712120,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -4473,14 +4481,6 @@
       "onboard_time": 1725366980,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1013798,
-      "num": 1013798,
-      "word": "三只羊全面复播",
-      "onboard_time": 1726712479,
-      "rank": 5,
-      "category": "网红"
     },
     {
       "raw_hot": 1013316,
@@ -6441,6 +6441,14 @@
       "onboard_time": 1726361838,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 795561,
+      "num": 795561,
+      "word": "张雨绮发表情包回应",
+      "onboard_time": 1726712899,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 794343,
@@ -13131,14 +13139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 413014,
-      "num": 307237,
-      "word": "张雨绮发表情包回应",
-      "onboard_time": 1726712899,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 412959,
       "num": 412959,
       "word": "小草包 JackeyLove",
@@ -14707,6 +14707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 355891,
+      "num": 355891,
+      "word": "合肥地震后余震42次",
+      "onboard_time": 1726710740,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355717,
       "num": 355717,
       "word": "安徽一农商银行突发持刀伤人事件",
@@ -14809,6 +14817,14 @@
       "onboard_time": 1726374738,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 351604,
+      "num": 351604,
+      "word": "赵丽颖 鄂尔多斯1980",
+      "onboard_time": 1726713738,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 351232,
@@ -15337,6 +15353,14 @@
       "onboard_time": 1726221920,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 338190,
+      "num": 295587,
+      "word": "有棵树 成毅",
+      "onboard_time": 1726713379,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 337751,
@@ -16451,14 +16475,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 308083,
-      "num": 308083,
-      "word": "合肥地震后余震42次",
-      "onboard_time": 1726710740,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 307615,
       "num": 591644,
       "word": "合肥回应调查三只羊通报版本不同",
@@ -17385,6 +17401,14 @@
       "onboard_time": 1726325363,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 288636,
+      "num": 288636,
+      "word": "电视剧四喜开机",
+      "onboard_time": 1726714040,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 288432,
@@ -21163,14 +21187,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 235536,
-      "num": 235536,
-      "word": "赵丽颖 鄂尔多斯1980",
-      "onboard_time": 1726713738,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 235485,
       "num": 316166,
       "word": "迪丽热巴豹纹look",
@@ -21353,6 +21369,14 @@
       "onboard_time": 1725352401,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 233623,
+      "num": 233623,
+      "word": "央广网评装聋作哑的三只羊",
+      "onboard_time": 1726713858,
+      "rank": 39,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 233591,
@@ -23323,14 +23347,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 213626,
-      "num": 213626,
-      "word": "有棵树 成毅",
-      "onboard_time": 1726713379,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 213532,
       "num": 354111,
       "word": "10部影片定档国庆档",
@@ -23849,14 +23865,6 @@
       "onboard_time": 1725783799,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209329,
-      "num": 209329,
-      "word": "电视剧四喜开机",
-      "onboard_time": 1726714040,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 209287,
@@ -24425,6 +24433,14 @@
       "onboard_time": 1725454759,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206146,
+      "num": 206146,
+      "word": "成都一海洋馆鲸鲨被曝死亡",
+      "onboard_time": 1726713978,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206138,
@@ -26307,6 +26323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196979,
+      "num": 196979,
+      "word": "华为发布会悬念开局",
+      "onboard_time": 1726714399,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 196958,
       "num": 196958,
       "word": "王楚钦晋级8强",
@@ -27091,6 +27115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193745,
+      "num": 193745,
+      "word": "王天一王跃飞被终身禁赛",
+      "onboard_time": 1726714516,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193739,
       "num": 193739,
       "word": "十个勤天用不断开始阻止结束",
@@ -27344,6 +27376,14 @@
       "word": "刘宇宁杀青开成了演唱会",
       "onboard_time": 1725974483,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 192641,
+      "num": 192641,
+      "word": "许我耀眼官宣杀青",
+      "onboard_time": 1726713501,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -28235,6 +28275,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 188088,
+      "num": 192000,
+      "word": "龙皓晨真有神印王座要继承",
+      "onboard_time": 1726714280,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 188084,
       "num": 188084,
       "word": "王鹤棣生图",
@@ -28403,14 +28451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187443,
-      "num": 187443,
-      "word": "许我耀眼官宣杀青",
-      "onboard_time": 1726713501,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 187432,
       "num": 187432,
       "word": "王楚钦弧线",
@@ -28529,6 +28569,14 @@
       "onboard_time": 1726067840,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 187172,
+      "num": 187172,
+      "word": "心脏骤停前一个月身体就有迹象",
+      "onboard_time": 1726713559,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 187108,
@@ -29019,6 +29067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184944,
+      "num": 184944,
+      "word": "Note14",
+      "onboard_time": 1726713680,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 184914,
       "num": 188369,
       "word": "易烊千玺见字如晤",
@@ -29377,14 +29433,6 @@
       "onboard_time": 1725980541,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 183190,
-      "num": 183190,
-      "word": "Note14",
-      "onboard_time": 1726713680,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 183150,
@@ -30313,6 +30361,14 @@
       "onboard_time": 1726400901,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178600,
+      "num": 178600,
+      "word": "象棋协会通报王天一王跃飞处罚情况",
+      "onboard_time": 1726714159,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 178579,
@@ -31649,14 +31705,6 @@
       "onboard_time": 1726488740,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 172668,
-      "num": 172668,
-      "word": "央广网评装聋作哑的三只羊",
-      "onboard_time": 1726713858,
-      "rank": 39,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 172638,
@@ -33243,6 +33291,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 164319,
+      "num": 164319,
+      "word": "5岁小孩cos黑神话八戒成漫展焦点",
+      "onboard_time": 1726713978,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 164289,
       "num": 164289,
       "word": "徐明浩 我爱你但你是自由的",
@@ -34339,6 +34395,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 159488,
+      "num": 159488,
+      "word": "美联储每次降息后上证指数走势",
+      "onboard_time": 1726714580,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 159475,
       "num": 297533,
       "word": "没有炸裂瓶颈期的综艺",
@@ -34555,14 +34619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158687,
-      "num": 158687,
-      "word": "成都一海洋馆鲸鲨被曝死亡",
-      "onboard_time": 1726713978,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158630,
       "num": 374932,
       "word": "华为三折叠外观",
@@ -34673,6 +34729,14 @@
       "onboard_time": 1726532417,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 158188,
+      "num": 158188,
+      "word": "00后中秋回村成了最大显眼包",
+      "onboard_time": 1726714341,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158168,
@@ -35089,6 +35153,14 @@
       "onboard_time": 1725416718,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 156390,
+      "num": 613725,
+      "word": "美联储降息对中国有何影响",
+      "onboard_time": 1726713020,
+      "rank": 9,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 156354,
@@ -36971,14 +37043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148179,
-      "num": 148179,
-      "word": "象棋协会通报王天一王跃飞处罚情况",
-      "onboard_time": 1726714159,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 148166,
       "num": 148166,
       "word": "台风摩羯或将正面登陆雷州半岛",
@@ -37137,14 +37201,6 @@
       "onboard_time": 1725612382,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 147478,
-      "num": 147478,
-      "word": "5岁小孩cos黑神话八戒成漫展焦点",
-      "onboard_time": 1726713978,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 147449,
@@ -40457,14 +40513,6 @@
       "onboard_time": 1726489520,
       "rank": 45,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 131183,
-      "num": 613725,
-      "word": "美联储降息对中国有何影响",
-      "onboard_time": 1726713020,
-      "rank": 9,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 131138,
@@ -46979,6 +47027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73785,
+      "num": 331621,
+      "word": "刘丹说小糯米很喜欢吃月饼",
+      "onboard_time": 1726713618,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73716,
       "num": 73716,
       "word": "给老同学当监护人法院判给30万遗产",
@@ -48931,6 +48987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52584,
+      "num": 353486,
+      "word": "吴彦祖回应三角洲里都是彦祖",
+      "onboard_time": 1726713559,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52513,
       "num": 76625,
       "word": "安徽霍邱农田中发现钱币窑藏",
@@ -49851,14 +49915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46158,
-      "num": 196059,
-      "word": "吴彦祖回应三角洲里都是彦祖",
-      "onboard_time": 1726713559,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 46147,
       "num": 124040,
       "word": "真维斯董事长评价王一博",
@@ -50449,14 +50505,6 @@
       "onboard_time": 1726042701,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42158,
-      "num": 300405,
-      "word": "刘丹说小糯米很喜欢吃月饼",
-      "onboard_time": 1726713618,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 42043,
