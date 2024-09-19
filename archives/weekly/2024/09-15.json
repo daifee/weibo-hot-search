@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726735313760,
+  "endTime": 1726737806975,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -193,6 +193,14 @@
       "onboard_time": 1726615096,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2510334,
+      "num": 432945,
+      "word": "娟子被抓",
+      "onboard_time": 1726734087,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 2492487,
@@ -521,14 +529,6 @@
       "onboard_time": 1726566798,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1608916,
-      "num": 432945,
-      "word": "娟子被抓",
-      "onboard_time": 1726734087,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 1607573,
@@ -873,6 +873,14 @@
       "onboard_time": 1726386558,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1266770,
+      "num": 1266770,
+      "word": "台湾唯一慰安妇铜像918当天被移除",
+      "onboard_time": 1726733487,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1248057,
@@ -1273,14 +1281,6 @@
       "onboard_time": 1726493480,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1035077,
-      "num": 1035077,
-      "word": "台湾唯一慰安妇铜像918当天被移除",
-      "onboard_time": 1726733487,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1031259,
@@ -3372,7 +3372,7 @@
     },
     {
       "raw_hot": 436297,
-      "num": 298305,
+      "num": 352659,
       "word": "丈夫打麻将被扔靠枕后殴打怀孕妻子",
       "onboard_time": 1726731148,
       "rank": 21,
@@ -4211,6 +4211,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 340271,
+      "num": 340271,
+      "word": "国庆连休7天",
+      "onboard_time": 1726733307,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 337548,
       "num": 489966,
       "word": "张杰谢娜游艇约会",
@@ -4931,6 +4939,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 283491,
+      "num": 283491,
+      "word": "网传大熊猫丁丁扑倒饲养员",
+      "onboard_time": 1726734387,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283219,
       "num": 283219,
       "word": "孙颖莎王楚钦王曼昱送中秋祝福",
@@ -5385,6 +5401,14 @@
       "onboard_time": 1726444878,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259798,
+      "num": 382096,
+      "word": "吴倩谈当妈之后的感受",
+      "onboard_time": 1726735706,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 259714,
@@ -6435,14 +6459,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 211769,
-      "num": 211769,
-      "word": "国庆连休7天",
-      "onboard_time": 1726733307,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211725,
       "num": 211725,
       "word": "接牙膏事业运",
@@ -6601,6 +6617,14 @@
       "onboard_time": 1726499661,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 207538,
+      "num": 266428,
+      "word": "Jennie方否认与BamBam恋情",
+      "onboard_time": 1726737384,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 207486,
@@ -7603,14 +7627,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 188433,
-      "num": 188433,
-      "word": "网传大熊猫丁丁扑倒饲养员",
-      "onboard_time": 1726734387,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188384,
       "num": 188384,
       "word": "白鹿中秋美照",
@@ -7657,6 +7673,14 @@
       "onboard_time": 1726372638,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186703,
+      "num": 186703,
+      "word": "崔然竣solo",
+      "onboard_time": 1726737203,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 186477,
@@ -8691,6 +8715,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165108,
+      "num": 165108,
+      "word": "地震瞬间孙子一把抱起残疾奶奶冲出",
+      "onboard_time": 1726734567,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165034,
+      "num": 165034,
+      "word": "梁王赛后采访",
+      "onboard_time": 1726735346,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164812,
       "num": 164812,
       "word": "台风贝碧嘉即将抵达南京",
@@ -9067,6 +9107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159007,
+      "num": 159007,
+      "word": "肖战北京文化论坛文艺晚会",
+      "onboard_time": 1726737624,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158741,
       "num": 379218,
       "word": "十几万买的收藏品实际价值5千",
@@ -9395,12 +9443,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 153787,
+      "num": 153787,
+      "word": "黎巴嫩爆炸已致32死数千人受伤",
+      "onboard_time": 1726737264,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 153550,
       "num": 153550,
       "word": "4个动作缓解腰背僵硬",
       "onboard_time": 1726728620,
       "rank": 44,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 153539,
+      "num": 153539,
+      "word": "4岁男孩患上皮肤饥饿症",
+      "onboard_time": 1726737506,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153232,
@@ -9915,6 +9979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142641,
+      "num": 142641,
+      "word": "女子买五花肉肥肉全被扎带隐藏",
+      "onboard_time": 1726737624,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142391,
       "num": 142391,
       "word": "李兰迪台词真好",
@@ -9937,6 +10009,14 @@
       "onboard_time": 1726364298,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141931,
+      "num": 141931,
+      "word": "陈好人间清醒",
+      "onboard_time": 1726737384,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 141533,
@@ -12875,6 +12955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42353,
+      "num": 382317,
+      "word": "媒体评河南叶县强拆大学生创业果园",
+      "onboard_time": 1726736904,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41998,
       "num": 410770,
       "word": "唐嫣同款包包",
@@ -12928,6 +13016,14 @@
       "word": "安徽萧县暴雨路上多车被淹至车顶",
       "onboard_time": 1726641019,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41137,
+      "num": 204688,
+      "word": "7岁女孩被困车内机智自救",
+      "onboard_time": 1726734926,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -13059,14 +13155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37761,
-      "num": 138885,
-      "word": "7岁女孩被困车内机智自救",
-      "onboard_time": 1726734926,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 37392,
       "num": 276062,
       "word": "俄武装力量编制人数增至近239万人",
@@ -13137,6 +13225,14 @@
       "onboard_time": 1726728139,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35240,
+      "num": 372258,
+      "word": "被焦恩俊打戏硬控",
+      "onboard_time": 1726736904,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 35120,
@@ -13531,6 +13627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27009,
+      "num": 377348,
+      "word": "贵州一老师挪用19万元花6万买彩票",
+      "onboard_time": 1726737203,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26982,
       "num": 393844,
       "word": "美诚月饼在多平台下架",
@@ -13595,6 +13699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24064,
+      "num": 382178,
+      "word": "厦门篮球氛围拉满了",
+      "onboard_time": 1726736424,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23902,
       "num": 26347,
       "word": "侃爷 告诉过你",
@@ -13649,6 +13761,14 @@
       "onboard_time": 1726428612,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 22651,
+      "num": 382399,
+      "word": "人工智能可能创造新一代施虐者",
+      "onboard_time": 1726737144,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22184,
@@ -13721,6 +13841,14 @@
       "onboard_time": 1726380198,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 19295,
+      "num": 373543,
+      "word": "东方茶港已进入nextlevel",
+      "onboard_time": 1726735525,
+      "rank": 18,
+      "category": "时尚"
     },
     {
       "raw_hot": 19234,
@@ -13835,10 +13963,26 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14775,
+      "num": 382737,
+      "word": "1元抢购的两提卷纸半个巴掌大",
+      "onboard_time": 1726737506,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13835,
       "num": 119161,
       "word": "大熊猫崽崽演假期第一天的我",
       "onboard_time": 1726436351,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13628,
+      "num": 382643,
+      "word": "专家称美元降息后部分资金将回流国内",
+      "onboard_time": 1726737744,
       "rank": 9,
       "category": "社会新闻"
     },
