@@ -1,0 +1,410 @@
+{
+  "runTime": 1726764229902,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1826510,
+        "num": 1826510,
+        "word": "微信实况",
+        "onboard_time": 1726753402,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1030103,
+        "num": 1030103,
+        "word": "民政局回应小英送养孩子传闻",
+        "onboard_time": 1726757064,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1962,
+        "num": 763925,
+        "word": "把青春华章写在祖国大地上",
+        "onboard_time": 1726752081,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592630,
+        "num": 592630,
+        "word": "吴谨言肚子",
+        "onboard_time": 1726748302,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432776,
+        "num": 432776,
+        "word": "合肥4.7级地震余震58次",
+        "onboard_time": 1726757483,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271159,
+        "num": 271159,
+        "word": "大山女孩以为400分能报考清华",
+        "onboard_time": 1726753582,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260617,
+        "num": 260617,
+        "word": "田曦薇演普女 说服力",
+        "onboard_time": 1726753104,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233561,
+        "num": 233561,
+        "word": "WTT名单",
+        "onboard_time": 1726757603,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229171,
+        "num": 229171,
+        "word": "微信回应安卓何时能发live图",
+        "onboard_time": 1726745242,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 102029,
+        "num": 222956,
+        "word": "20余省份将受冷空气影响",
+        "onboard_time": 1726759221,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519563,
+        "num": 222813,
+        "word": "娟子被抓",
+        "onboard_time": 1726734087,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 260375,
+        "num": 222422,
+        "word": "家暴男子在离婚法庭上扛起妻子就跑",
+        "onboard_time": 1726750822,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221779,
+        "num": 221779,
+        "word": "安徽省地震局加密观测肥东震区",
+        "onboard_time": 1726757541,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212350,
+        "num": 212350,
+        "word": "刘烨儿子在家叫妈出门叫姐",
+        "onboard_time": 1726756462,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188079,
+        "num": 188079,
+        "word": "3岁幼童遭狗撕咬拖走数米父亲发声",
+        "onboard_time": 1726755023,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172148,
+        "num": 172148,
+        "word": "黄晓明叶珂恋情时间线",
+        "onboard_time": 1726751961,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146906,
+        "num": 146906,
+        "word": "雪迷宫热度破万",
+        "onboard_time": 1726761559,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143313,
+        "num": 143313,
+        "word": "央视起底网络乱象",
+        "onboard_time": 1726748661,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131873,
+        "num": 131873,
+        "word": "4岁男孩患上皮肤饥饿症",
+        "onboard_time": 1726737506,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122105,
+        "num": 122105,
+        "word": "台风普拉桑登陆浙江",
+        "onboard_time": 1726745062,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256810,
+        "num": 121533,
+        "word": "朋友圈第一批发live的人",
+        "onboard_time": 1726759162,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 196702,
+        "num": 121113,
+        "word": "南派三叔回应终极笔记2",
+        "onboard_time": 1726760541,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123204,
+        "num": 120911,
+        "word": "年入过亿女老板谈休息耻辱",
+        "onboard_time": 1726763057,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118029,
+        "num": 118029,
+        "word": "饿到什么程度才会开始燃烧脂肪",
+        "onboard_time": 1726743262,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 116214,
+        "num": 116214,
+        "word": "贾玲李现同框看秀",
+        "onboard_time": 1726752802,
+        "rank": 24,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 113283,
+        "num": 113283,
+        "word": "黎真主党领导人称以色列越过所有红线",
+        "onboard_time": 1726762818,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 113231,
+        "num": 113231,
+        "word": "Jennie解释室内吸烟道歉的原因",
+        "onboard_time": 1726746561,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111127,
+        "num": 111127,
+        "word": "大张伟 这是林一不是许凯",
+        "onboard_time": 1726762219,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107198,
+        "num": 107198,
+        "word": "成龙 七旬老汉飞檐走壁",
+        "onboard_time": 1726763237,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103897,
+        "num": 103897,
+        "word": "微信朋友圈live图不能单独关闭声音",
+        "onboard_time": 1726759941,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 101701,
+        "num": 101701,
+        "word": "180斤7XL女孩当汉服模特月入过万",
+        "onboard_time": 1726751903,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97262,
+        "num": 97262,
+        "word": "台风普拉桑将在浙江上海一带再次登陆",
+        "onboard_time": 1726744726,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94438,
+        "num": 94438,
+        "word": "男子被同学驾车多次撞击碾压致死",
+        "onboard_time": 1726746200,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92319,
+        "num": 92319,
+        "word": "WTT蒙彼利埃冠军赛首批入围名单",
+        "onboard_time": 1726760660,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85893,
+        "num": 85893,
+        "word": "袁巴元承认改分手协议日期",
+        "onboard_time": 1726749201,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82468,
+        "num": 82468,
+        "word": "柳智敏生图",
+        "onboard_time": 1726753163,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 78828,
+        "num": 78828,
+        "word": "一诺赵嘉敏游环球影城",
+        "onboard_time": 1726751423,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79556,
+        "num": 77216,
+        "word": "蔡徐坤到了米兰就出门了",
+        "onboard_time": 1726750762,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 74964,
+        "num": 74964,
+        "word": "普拉桑",
+        "onboard_time": 1726745720,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74322,
+        "num": 74322,
+        "word": "女生称取快递被男生多次贴身猥亵",
+        "onboard_time": 1726763777,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72785,
+        "num": 72785,
+        "word": "金晨预告生气了",
+        "onboard_time": 1726760122,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72330,
+        "num": 72330,
+        "word": "熊猫险被冲走两脚兽急得直喊大哥",
+        "onboard_time": 1726757304,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71602,
+        "num": 71602,
+        "word": "王子奇刚当上人妻 王星越就出手了",
+        "onboard_time": 1726752022,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70185,
+        "num": 70185,
+        "word": "00后小伙打破外国金牌垄断",
+        "onboard_time": 1726758443,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68392,
+        "num": 68392,
+        "word": "于正再回应吴谨言结婚",
+        "onboard_time": 1726753762,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67087,
+        "num": 67087,
+        "word": "叶珂 钻戒",
+        "onboard_time": 1726668203,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64328,
+        "num": 64328,
+        "word": "云南一高校后勤回应3硕士被聘为宿管",
+        "onboard_time": 1726755144,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61329,
+        "num": 61329,
+        "word": "恶意举报34万余次非法获利数百万",
+        "onboard_time": 1726743743,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59829,
+        "num": 59829,
+        "word": "张凌赫客串过胡夏的那些年",
+        "onboard_time": 1726755323,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 58761,
+        "num": 58761,
+        "word": "乐道L60价格",
+        "onboard_time": 1726755384,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族共同体意识是民族团结之本#"
+    }
+  }
+}
