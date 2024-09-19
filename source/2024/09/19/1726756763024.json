@@ -1,0 +1,410 @@
+{
+  "runTime": 1726756763024,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4842871,
+        "num": 4842871,
+        "word": "微信实况",
+        "onboard_time": 1726753402,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 965571,
+        "num": 965571,
+        "word": "大山女孩以为400分能报考清华",
+        "onboard_time": 1726753582,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23173,
+        "num": 775710,
+        "word": "把青春华章写在祖国大地上",
+        "onboard_time": 1726752081,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1595890,
+        "num": 771442,
+        "word": "吴谨言肚子",
+        "onboard_time": 1726748302,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 765155,
+        "num": 765155,
+        "word": "微信朋友圈支持live图",
+        "onboard_time": 1726743022,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 673369,
+        "num": 673369,
+        "word": "台风普拉桑登陆浙江",
+        "onboard_time": 1726745062,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 668047,
+        "num": 668047,
+        "word": "田曦薇演普女 说服力",
+        "onboard_time": 1726753104,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 502861,
+        "num": 502861,
+        "word": "微信回应安卓何时能发live图",
+        "onboard_time": 1726745242,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 445802,
+        "num": 445802,
+        "word": "贾玲李现同框看秀",
+        "onboard_time": 1726752802,
+        "rank": 8,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 278413,
+        "num": 437342,
+        "word": "台风普拉桑将在浙江上海一带再次登陆",
+        "onboard_time": 1726744726,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1009313,
+        "num": 436130,
+        "word": "娟子被抓",
+        "onboard_time": 1726734087,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 445883,
+        "num": 435420,
+        "word": "袁巴元承认改分手协议日期",
+        "onboard_time": 1726749201,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434467,
+        "num": 434467,
+        "word": "4岁男孩患上皮肤饥饿症",
+        "onboard_time": 1726737506,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91402,
+        "num": 423878,
+        "word": "云南一高校后勤回应3硕士被聘为宿管",
+        "onboard_time": 1726755144,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42798,
+        "num": 420616,
+        "word": "篮球之夜荣誉时刻",
+        "onboard_time": 1726754421,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11543,
+        "num": 420339,
+        "word": "江慈的随地大小演",
+        "onboard_time": 1726755503,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 420305,
+        "num": 420305,
+        "word": "王子奇刚当上人妻 王星越就出手了",
+        "onboard_time": 1726752022,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 381159,
+        "num": 381159,
+        "word": "3岁幼童遭狗撕咬拖走数米父亲发声",
+        "onboard_time": 1726755023,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303614,
+        "num": 303614,
+        "word": "Jennie解释室内吸烟道歉的原因",
+        "onboard_time": 1726746561,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229780,
+        "num": 294312,
+        "word": "央视起底网络乱象",
+        "onboard_time": 1726748661,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395948,
+        "num": 280623,
+        "word": "家暴男子在离婚法庭上扛起妻子就跑",
+        "onboard_time": 1726750822,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315886,
+        "num": 278812,
+        "word": "180斤7XL女孩当汉服模特月入过万",
+        "onboard_time": 1726751903,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47386,
+        "num": 260322,
+        "word": "2024品质内衣白皮书",
+        "onboard_time": 1726751722,
+        "rank": 22,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 256990,
+        "num": 256990,
+        "word": "男子被同学驾车多次撞击碾压致死",
+        "onboard_time": 1726746200,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244747,
+        "num": 244747,
+        "word": "于正再回应吴谨言结婚",
+        "onboard_time": 1726753762,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244198,
+        "num": 244198,
+        "word": "黄晓明叶珂恋情时间线",
+        "onboard_time": 1726751961,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239363,
+        "num": 239363,
+        "word": "张凌赫客串过胡夏的那些年",
+        "onboard_time": 1726755323,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 237470,
+        "num": 237470,
+        "word": "饿到什么程度才会开始燃烧脂肪",
+        "onboard_time": 1726743262,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 37735,
+        "num": 230068,
+        "word": "阿里云新模型稳居全球开源第一",
+        "onboard_time": 1726755982,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 94314,
+        "num": 227271,
+        "word": "台风影响无锡幼儿园小学初中停课",
+        "onboard_time": 1726751423,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226286,
+        "num": 226286,
+        "word": "台风",
+        "onboard_time": 1726752981,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218355,
+        "num": 218355,
+        "word": "台湾唯一慰安妇铜像918当天被移除",
+        "onboard_time": 1726733487,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 217849,
+        "num": 217849,
+        "word": "蔡徐坤到了米兰就出门了",
+        "onboard_time": 1726750762,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125292,
+        "num": 215281,
+        "word": "恶意举报34万余次非法获利数百万",
+        "onboard_time": 1726743743,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33021,
+        "num": 214385,
+        "word": "戚薇说没被鲁豫访谈过是不完整的",
+        "onboard_time": 1726755623,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46782,
+        "num": 213985,
+        "word": "邻居楼顶加盖房致男子家漏水3年",
+        "onboard_time": 1726754783,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213817,
+        "num": 213817,
+        "word": "柳智敏生图",
+        "onboard_time": 1726753163,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 202277,
+        "num": 202277,
+        "word": "何同学iPhone16评测",
+        "onboard_time": 1726751722,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 185360,
+        "num": 185360,
+        "word": "一诺赵嘉敏游环球影城",
+        "onboard_time": 1726751423,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184735,
+        "num": 184735,
+        "word": "半熟男女 三观",
+        "onboard_time": 1726752261,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175491,
+        "num": 175491,
+        "word": "乐道L60价格",
+        "onboard_time": 1726755384,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 170415,
+        "num": 170415,
+        "word": "刘烨儿子在家叫妈出门叫姐",
+        "onboard_time": 1726756462,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163116,
+        "num": 163116,
+        "word": "张翰终于把头套摘了",
+        "onboard_time": 1726740201,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 771464,
+        "num": 159152,
+        "word": "合肥成立联合调查组核查三只羊问题",
+        "onboard_time": 1726748602,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145152,
+        "num": 145152,
+        "word": "邓为 人在巴黎但像在北京郊区",
+        "onboard_time": 1726745780,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34142,
+        "num": 141975,
+        "word": "乐道L60售价20.69万租电14.99万",
+        "onboard_time": 1726756643,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 140066,
+        "num": 140066,
+        "word": "普拉桑",
+        "onboard_time": 1726745720,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137211,
+        "num": 137211,
+        "word": "供人贩吃住却被他偷走孩子",
+        "onboard_time": 1726747039,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130427,
+        "num": 130427,
+        "word": "张大奕关店",
+        "onboard_time": 1726745960,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126056,
+        "num": 126056,
+        "word": "马龙活动",
+        "onboard_time": 1726749022,
+        "rank": 49,
+        "category": "体育,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族共同体意识是民族团结之本#"
+    }
+  }
+}
