@@ -1,7 +1,39 @@
 {
   "startTime": 1726676797598,
-  "endTime": 1726728225709,
+  "endTime": 1726730427614,
   "band_list": [
+    {
+      "raw_hot": 13826634,
+      "num": 13826634,
+      "word": "黄晓明官宣恋情",
+      "onboard_time": 1726728865,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 6342524,
+      "num": 2622217,
+      "word": "黄晓明 没结婚",
+      "onboard_time": 1726725380,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 6051381,
+      "num": 403835,
+      "word": "叶珂晒聊天记录",
+      "onboard_time": 1726729765,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5005937,
+      "num": 403101,
+      "word": "黄晓明 你别做我来做",
+      "onboard_time": 1726729586,
+      "rank": 11,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2838889,
       "num": 1365452,
@@ -9,14 +41,6 @@
       "onboard_time": 1726708520,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2622217,
-      "num": 2622217,
-      "word": "黄晓明 没结婚",
-      "onboard_time": 1726725380,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 2355727,
@@ -195,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 809470,
+      "num": 389418,
+      "word": "叶珂 钻戒",
+      "onboard_time": 1726668203,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 800409,
       "num": 800409,
       "word": "知情人回应张雨绮遭换角",
@@ -209,14 +241,6 @@
       "onboard_time": 1726713978,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 784070,
-      "num": 389418,
-      "word": "叶珂 钻戒",
-      "onboard_time": 1726668203,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 731325,
@@ -435,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 469052,
+      "num": 469052,
+      "word": "梁王组合vs印尼组合",
+      "onboard_time": 1726728380,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 463463,
       "num": 463463,
       "word": "小英名下关联4家企业",
@@ -507,6 +539,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 395384,
+      "num": 302352,
+      "word": "印度女子两年凑不齐嫁妆被丈夫打死",
+      "onboard_time": 1726727420,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392614,
       "num": 392614,
       "word": "一碗螺蛳粉4年情侣感情破裂",
@@ -544,6 +584,22 @@
       "word": "校方已退还如厕被定违纪学生打印费",
       "onboard_time": 1726687631,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361225,
+      "num": 361225,
+      "word": "小英丈夫曾说和小宝在视频里演坏人",
+      "onboard_time": 1726727900,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 359722,
+      "num": 359722,
+      "word": "台风排班表",
+      "onboard_time": 1726727359,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -641,14 +697,6 @@
       "onboard_time": 1726662090,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 302352,
-      "num": 302352,
-      "word": "印度女子两年凑不齐嫁妆被丈夫打死",
-      "onboard_time": 1726727420,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 300625,
@@ -795,22 +843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 249524,
-      "num": 249524,
-      "word": "台风排班表",
-      "onboard_time": 1726727359,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247953,
-      "num": 245061,
-      "word": "小英丈夫曾说和小宝在视频里演坏人",
-      "onboard_time": 1726727900,
-      "rank": 34,
-      "category": "网红"
-    },
-    {
       "raw_hot": 245826,
       "num": 245826,
       "word": "心跳慢的人更容易长寿",
@@ -841,6 +873,14 @@
       "onboard_time": 1726712120,
       "rank": 46,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 230777,
+      "num": 230777,
+      "word": "多囊卵巢综合征影响的不只是生育",
+      "onboard_time": 1726728806,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 229950,
@@ -889,6 +929,14 @@
       "onboard_time": 1726722569,
       "rank": 48,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 222308,
+      "num": 222308,
+      "word": "董宇辉接棒小杨哥陷月饼风波",
+      "onboard_time": 1726728741,
+      "rank": 31,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 218623,
@@ -1019,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203524,
+      "num": 436386,
+      "word": "男子60元买螃蟹绑蟹绳占20元",
+      "onboard_time": 1726725860,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200728,
       "num": 165159,
       "word": "小杨哥曾晒单买20盒美心月饼",
@@ -1051,6 +1107,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 198650,
+      "num": 198650,
+      "word": "二本恋综没等到时尚恋综走来了",
+      "onboard_time": 1726728200,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198598,
       "num": 198598,
       "word": "汪苏泷杭州售罄",
@@ -1065,14 +1129,6 @@
       "onboard_time": 1726727180,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 197167,
-      "num": 436386,
-      "word": "男子60元买螃蟹绑蟹绳占20元",
-      "onboard_time": 1726725860,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197111,
@@ -1129,14 +1185,6 @@
       "onboard_time": 1726713501,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 188419,
-      "num": 188419,
-      "word": "二本恋综没等到时尚恋综走来了",
-      "onboard_time": 1726728200,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 188088,
@@ -1233,6 +1281,14 @@
       "onboard_time": 1726670362,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 171307,
+      "num": 171307,
+      "word": "易烊千玺AnotherMan",
+      "onboard_time": 1726729826,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 167805,
@@ -1339,6 +1395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 153550,
+      "num": 153550,
+      "word": "4个动作缓解腰背僵硬",
+      "onboard_time": 1726728620,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 147840,
       "num": 147840,
       "word": "Jennie官网倒计时",
@@ -1433,6 +1497,14 @@
       "onboard_time": 1726674918,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134801,
+      "num": 134801,
+      "word": "沙溢 五十多还没到请勿虚报",
+      "onboard_time": 1726730367,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 132624,
@@ -1875,6 +1947,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 38844,
+      "num": 150555,
+      "word": "极氪7X全方位守护你和家人",
+      "onboard_time": 1726730186,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 38258,
       "num": 550037,
       "word": "网贷平台协议暗藏条款获取用户信息",
@@ -1887,6 +1967,22 @@
       "num": 37401,
       "word": "教育局介入调查学生晚上如厕算违纪",
       "onboard_time": 1726657820,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36910,
+      "num": 209892,
+      "word": "戚薇鲁豫聊女性社会时钟",
+      "onboard_time": 1726729224,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 35859,
+      "num": 203605,
+      "word": "内行人才知道的家电省钱信息差",
+      "onboard_time": 1726728139,
       "rank": 46,
       "category": "社会新闻"
     },
@@ -1952,14 +2048,6 @@
       "word": "健桥医院贩卖出生证明案移交审查起诉",
       "onboard_time": 1726725920,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9798,
-      "num": 194781,
-      "word": "内行人才知道的家电省钱信息差",
-      "onboard_time": 1726728139,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
