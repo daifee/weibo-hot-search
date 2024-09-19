@@ -1,6 +1,6 @@
 {
   "startTime": 1726763246339,
-  "endTime": 1726784420084,
+  "endTime": 1726785495360,
   "band_list": [
     {
       "raw_hot": 2161007,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 627413,
+      "num": 627413,
+      "word": "短剧男主都帅成这样了",
+      "onboard_time": 1726764976,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 601276,
       "num": 307404,
       "word": "娟子被抓",
@@ -41,14 +49,6 @@
       "onboard_time": 1726757483,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 426547,
-      "num": 426547,
-      "word": "短剧男主都帅成这样了",
-      "onboard_time": 1726764976,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 356833,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304041,
+      "num": 304041,
+      "word": "专家再次研判合肥地震震后趋势",
+      "onboard_time": 1726773372,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279635,
       "num": 279635,
       "word": "微信回应安卓何时能发live图",
@@ -123,20 +131,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211923,
-      "num": 211923,
-      "word": "专家再次研判合肥地震震后趋势",
-      "onboard_time": 1726773372,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211845,
       "num": 149443,
       "word": "南派三叔回应终极笔记2",
       "onboard_time": 1726760541,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211019,
+      "num": 211019,
+      "word": "成龙 七旬老汉飞檐走壁",
+      "onboard_time": 1726763237,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 205074,
@@ -171,11 +179,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167437,
+      "num": 167437,
+      "word": "普拉桑",
+      "onboard_time": 1726745720,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162551,
       "num": 162551,
       "word": "央视起底网络乱象",
       "onboard_time": 1726748661,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162252,
+      "num": 162252,
+      "word": "医院回应家属自带折叠床被没收",
+      "onboard_time": 1726773311,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -243,36 +267,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 120753,
-      "num": 111145,
-      "word": "成龙 七旬老汉飞檐走壁",
-      "onboard_time": 1726763237,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 118940,
-      "num": 118940,
-      "word": "普拉桑",
-      "onboard_time": 1726745720,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117158,
-      "num": 117158,
+      "num": 126277,
       "word": "黎真主党领导人称以色列越过所有红线",
       "onboard_time": 1726762818,
       "rank": 41,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 115870,
-      "num": 115870,
-      "word": "医院回应家属自带折叠床被没收",
-      "onboard_time": 1726773311,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113643,
@@ -443,6 +443,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 64144,
+      "num": 64144,
+      "word": "女子车后10米远摔倒车主被判次责",
+      "onboard_time": 1726782192,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58761,
       "num": 58761,
       "word": "乐道L60价格",
@@ -467,12 +475,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52119,
+      "num": 50017,
+      "word": "上海中心千吨阻尼器所在楼层关闭",
+      "onboard_time": 1726767134,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50412,
       "num": 50412,
       "word": "张大奕关店",
       "onboard_time": 1726745960,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 49968,
+      "num": 49968,
+      "word": "小学生课堂说话被老师胶布封嘴",
+      "onboard_time": 1726775412,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45739,
@@ -483,28 +507,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 44682,
-      "num": 40009,
-      "word": "上海中心千吨阻尼器所在楼层关闭",
-      "onboard_time": 1726767134,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44470,
-      "num": 37792,
+      "num": 40152,
       "word": "内心强大的人往往有这几个特质",
       "onboard_time": 1726770253,
       "rank": 43,
       "category": "情感"
     },
     {
-      "raw_hot": 42031,
-      "num": 42031,
-      "word": "女子车后10米远摔倒车主被判次责",
-      "onboard_time": 1726782192,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 40830,
+      "num": 40830,
+      "word": "宋佳说表演时内衣也帮了很多",
+      "onboard_time": 1726770792,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 40039,
@@ -523,11 +539,19 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 37809,
-      "num": 37809,
-      "word": "小学生课堂说话被老师胶布封嘴",
-      "onboard_time": 1726775412,
-      "rank": 20,
+      "raw_hot": 39072,
+      "num": 39072,
+      "word": "当钱塘江大潮遇到台风普拉桑",
+      "onboard_time": 1726774211,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36767,
+      "num": 36767,
+      "word": "台风",
+      "onboard_time": 1726752981,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -547,20 +571,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 30337,
-      "num": 30337,
-      "word": "当钱塘江大潮遇到台风普拉桑",
-      "onboard_time": 1726774211,
-      "rank": 46,
+      "raw_hot": 31291,
+      "num": 36398,
+      "word": "派出所回应3岁幼童遭狗撕咬拖数米",
+      "onboard_time": 1726776731,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29477,
-      "num": 29477,
-      "word": "宋佳说表演时内衣也帮了很多",
-      "onboard_time": 1726770792,
-      "rank": 48,
-      "category": "电影"
+      "raw_hot": 29056,
+      "num": 36382,
+      "word": "网红调侃九一八相关部门介入调查",
+      "onboard_time": 1726775471,
+      "rank": 25,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 28599,
+      "num": 97218,
+      "word": "把不熬夜和愉快的感觉联系起来",
+      "onboard_time": 1726782671,
+      "rank": 9,
+      "category": "健康医疗,运动健身"
     },
     {
       "raw_hot": 28524,
@@ -579,36 +611,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 27829,
-      "num": 27829,
-      "word": "网红调侃九一八相关部门介入调查",
-      "onboard_time": 1726775471,
-      "rank": 25,
-      "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 27743,
-      "num": 27743,
-      "word": "派出所回应3岁幼童遭狗撕咬拖数米",
-      "onboard_time": 1726776731,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 26664,
       "num": 32591,
       "word": "SM开辟周边新赛道",
       "onboard_time": 1726769712,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 26485,
-      "num": 32554,
-      "word": "台风",
-      "onboard_time": 1726752981,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23027,
@@ -643,14 +651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12357,
-      "num": 97218,
-      "word": "把不熬夜和愉快的感觉联系起来",
-      "onboard_time": 1726782671,
-      "rank": 9,
-      "category": "健康医疗,运动健身"
-    },
-    {
       "raw_hot": 11592,
       "num": 51974,
       "word": "古代屏风里微缩版公园好治愈",
@@ -675,7 +675,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1755,
+      "raw_hot": 1957,
       "num": 428480,
       "word": "一代代军人淬火成钢的誓言",
       "onboard_time": 1726706600,
