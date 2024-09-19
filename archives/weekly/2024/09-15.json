@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726727422566,
+  "endTime": 1726728225709,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -251,6 +251,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 2111476,
+      "num": 418761,
+      "word": "女子PPT曝男友嫖娼或构成侵权",
+      "onboard_time": 1726724788,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2109158,
       "num": 632515,
       "word": "叶珂 钻戒",
@@ -321,14 +329,6 @@
       "onboard_time": 1726319842,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1872055,
-      "num": 418761,
-      "word": "女子PPT曝男友嫖娼或构成侵权",
-      "onboard_time": 1726724788,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1864902,
@@ -1739,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 800409,
+      "num": 800409,
+      "word": "知情人回应张雨绮遭换角",
+      "onboard_time": 1726724429,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 800007,
       "num": 800007,
       "word": "成都一海洋馆鲸鲨被曝死亡",
@@ -2195,14 +2203,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 635329,
-      "num": 635329,
-      "word": "知情人回应张雨绮遭换角",
-      "onboard_time": 1726724429,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 635077,
       "num": 635077,
       "word": "非洲小哥搬出铁扇公主卖扇子",
@@ -2515,6 +2515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 564290,
+      "num": 564290,
+      "word": "黎巴嫩多地寻呼机爆炸",
+      "onboard_time": 1726724668,
+      "rank": 10,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 561523,
       "num": 561523,
       "word": "上海临港进入台风贝碧嘉十级风圈",
@@ -2769,6 +2777,14 @@
       "onboard_time": 1726561101,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 522560,
+      "num": 522560,
+      "word": "黎巴嫩一医院附近发现爆炸装置",
+      "onboard_time": 1726721492,
+      "rank": 42,
+      "category": "国外时政"
     },
     {
       "raw_hot": 522260,
@@ -3059,6 +3075,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 483903,
+      "num": 325390,
+      "word": "妈妈双子宫龙凤胎宝宝住上双拼别墅",
+      "onboard_time": 1726726941,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 482976,
       "num": 387127,
       "word": "为什么鸭子不惧怕台风",
@@ -3089,14 +3113,6 @@
       "onboard_time": 1726457720,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 465026,
-      "num": 465026,
-      "word": "黎巴嫩一医院附近发现爆炸装置",
-      "onboard_time": 1726721492,
-      "rank": 42,
-      "category": "国外时政"
     },
     {
       "raw_hot": 463463,
@@ -3225,14 +3241,6 @@
       "onboard_time": 1726655420,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 444595,
-      "num": 444595,
-      "word": "黎巴嫩多地寻呼机爆炸",
-      "onboard_time": 1726724668,
-      "rank": 10,
-      "category": "国外时政"
     },
     {
       "raw_hot": 444226,
@@ -4483,6 +4491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 302352,
+      "num": 302352,
+      "word": "印度女子两年凑不齐嫁妆被丈夫打死",
+      "onboard_time": 1726727420,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302033,
       "num": 302033,
       "word": "周依然 节目",
@@ -5299,6 +5315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 256561,
+      "num": 447271,
+      "word": "台风普拉桑登陆点更靠近上海",
+      "onboard_time": 1726723170,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256492,
       "num": 256492,
       "word": "离婚了也要争婆婆的抚养权",
@@ -5321,6 +5345,14 @@
       "onboard_time": 1726374738,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254149,
+      "num": 254149,
+      "word": "银河左岸 下架",
+      "onboard_time": 1726726700,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 253983,
@@ -5379,6 +5411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 249524,
+      "num": 249524,
+      "word": "台风排班表",
+      "onboard_time": 1726727359,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249506,
       "num": 249506,
       "word": "人均消费过百烧鸟为何成地摊刺客",
@@ -5411,20 +5451,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 248815,
-      "num": 248815,
-      "word": "银河左岸 下架",
-      "onboard_time": 1726726700,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 247959,
       "num": 247959,
       "word": "贝碧嘉成75年来登陆上海最强台风",
       "onboard_time": 1726481658,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247953,
+      "num": 245061,
+      "word": "小英丈夫曾说和小宝在视频里演坏人",
+      "onboard_time": 1726727900,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 247890,
@@ -5523,6 +5563,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 244742,
+      "num": 244742,
+      "word": "唐嫣fendi",
+      "onboard_time": 1726727060,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243326,
       "num": 243326,
       "word": "张凌赫 边走边脱",
@@ -5601,14 +5649,6 @@
       "onboard_time": 1726493120,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 240962,
-      "num": 447271,
-      "word": "台风普拉桑登陆点更靠近上海",
-      "onboard_time": 1726723170,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 240941,
@@ -5833,14 +5873,6 @@
       "onboard_time": 1726464499,
       "rank": 46,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 229946,
-      "num": 229946,
-      "word": "妈妈双子宫龙凤胎宝宝住上双拼别墅",
-      "onboard_time": 1726726941,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 229876,
@@ -6515,14 +6547,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 205134,
-      "num": 205134,
-      "word": "台风排班表",
-      "onboard_time": 1726727359,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205129,
       "num": 205129,
       "word": "张峻豪海口vlog",
@@ -6536,6 +6560,14 @@
       "word": "杨洋方逸伦牵手路透",
       "onboard_time": 1726552460,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205090,
+      "num": 205090,
+      "word": "半熟男女 三缺型女主",
+      "onboard_time": 1726727060,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -6795,14 +6827,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 199931,
-      "num": 199931,
-      "word": "唐嫣fendi",
-      "onboard_time": 1726727060,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199866,
       "num": 199866,
       "word": "王祖贤回台湾过中秋",
@@ -6921,6 +6945,14 @@
       "onboard_time": 1726539739,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 197167,
+      "num": 436386,
+      "word": "男子60元买螃蟹绑蟹绳占20元",
+      "onboard_time": 1726725860,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197111,
@@ -7187,6 +7219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193282,
+      "num": 193282,
+      "word": "黄冠亨回应聚会",
+      "onboard_time": 1726727301,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192909,
       "num": 198611,
       "word": "Coldplay巡演官宣",
@@ -7355,14 +7395,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 189249,
-      "num": 189249,
-      "word": "黄冠亨回应聚会",
-      "onboard_time": 1726727301,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189153,
       "num": 189153,
       "word": "周深长城脚下唱浮光",
@@ -7401,6 +7433,14 @@
       "onboard_time": 1726471459,
       "rank": 34,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 188419,
+      "num": 188419,
+      "word": "二本恋综没等到时尚恋综走来了",
+      "onboard_time": 1726728200,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 188384,
@@ -7761,14 +7801,6 @@
       "onboard_time": 1726369399,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180204,
-      "num": 180204,
-      "word": "半熟男女 三缺型女主",
-      "onboard_time": 1726727060,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 179976,
@@ -10555,6 +10587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122783,
+      "num": 412823,
+      "word": "微博音乐盛典年度推荐MV",
+      "onboard_time": 1726726878,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 122166,
       "num": 122166,
       "word": "张远官宣心动的信号7",
@@ -10777,14 +10817,6 @@
       "onboard_time": 1726376539,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117227,
-      "num": 412823,
-      "word": "微博音乐盛典年度推荐MV",
-      "onboard_time": 1726726878,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 116922,
@@ -11539,14 +11571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 89227,
-      "num": 436386,
-      "word": "男子60元买螃蟹绑蟹绳占20元",
-      "onboard_time": 1726725860,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 89146,
       "num": 89146,
       "word": "成都打雷",
@@ -11977,6 +12001,14 @@
       "onboard_time": 1726376539,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68993,
+      "num": 332451,
+      "word": "石宇奇无缘8强",
+      "onboard_time": 1726728019,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 68886,
@@ -12451,6 +12483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47210,
+      "num": 435913,
+      "word": "张馨予回应高原跳舞后又晕又吐",
+      "onboard_time": 1726726819,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46983,
       "num": 45847,
       "word": "那隽 吾辈楷模",
@@ -12569,6 +12609,14 @@
       "onboard_time": 1726507934,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43582,
+      "num": 209028,
+      "word": "舍不得星星 纯爱设定",
+      "onboard_time": 1726726759,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 43325,
@@ -12907,6 +12955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 33028,
+      "num": 421052,
+      "word": "官方辟谣合肥一住宅楼地震后开裂",
+      "onboard_time": 1726726578,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32944,
       "num": 32944,
       "word": "汪苏泷2024十万伏特巡回演唱会",
@@ -12977,14 +13033,6 @@
       "onboard_time": 1726510273,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 31378,
-      "num": 435913,
-      "word": "张馨予回应高原跳舞后又晕又吐",
-      "onboard_time": 1726726819,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 31159,
@@ -13225,14 +13273,6 @@
       "onboard_time": 1726448418,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25327,
-      "num": 421052,
-      "word": "官方辟谣合肥一住宅楼地震后开裂",
-      "onboard_time": 1726726578,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25021,
@@ -13584,6 +13624,14 @@
       "word": "教科书式劝残障人士的民警找到了",
       "onboard_time": 1726603571,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9798,
+      "num": 194781,
+      "word": "内行人才知道的家电省钱信息差",
+      "onboard_time": 1726728139,
+      "rank": 46,
       "category": "社会新闻"
     },
     {

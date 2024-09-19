@@ -1,0 +1,402 @@
+{
+  "runTime": 1726728225709,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2432920,
+        "num": 2432920,
+        "word": "黄晓明 没结婚",
+        "onboard_time": 1726725380,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 827796,
+        "num": 827796,
+        "word": "降息",
+        "onboard_time": 1726669823,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 800409,
+        "num": 800409,
+        "word": "知情人回应张雨绮遭换角",
+        "onboard_time": 1726724429,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564290,
+        "num": 564290,
+        "word": "黎巴嫩多地寻呼机爆炸",
+        "onboard_time": 1726724668,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1127594,
+        "num": 559442,
+        "word": "央广网评装聋作哑的三只羊",
+        "onboard_time": 1726713858,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 549668,
+        "num": 549668,
+        "word": "董宇辉带货月饼疑有质量问题",
+        "onboard_time": 1726718121,
+        "rank": 6,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 522560,
+        "num": 522560,
+        "word": "黎巴嫩一医院附近发现爆炸装置",
+        "onboard_time": 1726721492,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 485135,
+        "num": 485135,
+        "word": "黎巴嫩",
+        "onboard_time": 1726720651,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 502611,
+        "num": 481562,
+        "word": "欧阳妮妮患多囊性卵巢",
+        "onboard_time": 1726708281,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 703534,
+        "num": 477083,
+        "word": "网红直播调侃九一八被永久封号",
+        "onboard_time": 1726716322,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464547,
+        "num": 464547,
+        "word": "成都一海洋馆鲸鲨被曝死亡",
+        "onboard_time": 1726713978,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416114,
+        "num": 416114,
+        "word": "台风普拉桑是急性子",
+        "onboard_time": 1726715540,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23604,
+        "num": 389274,
+        "word": "家电30年没涨过价",
+        "onboard_time": 1726724548,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368734,
+        "num": 368734,
+        "word": "陈伟霆赵露思吻戏好欲",
+        "onboard_time": 1726718481,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347894,
+        "num": 347894,
+        "word": "御赐小仵作2原班人马开机",
+        "onboard_time": 1726716322,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335767,
+        "num": 335767,
+        "word": "合肥地震",
+        "onboard_time": 1726661786,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122783,
+        "num": 334690,
+        "word": "微博音乐盛典年度推荐MV",
+        "onboard_time": 1726726878,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 68993,
+        "num": 332451,
+        "word": "石宇奇无缘8强",
+        "onboard_time": 1726728019,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33028,
+        "num": 330975,
+        "word": "官方辟谣合肥一住宅楼地震后开裂",
+        "onboard_time": 1726726578,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2111476,
+        "num": 329296,
+        "word": "女子PPT曝男友嫖娼或构成侵权",
+        "onboard_time": 1726724788,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582718,
+        "num": 326492,
+        "word": "招商银行",
+        "onboard_time": 1726718962,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483903,
+        "num": 325390,
+        "word": "妈妈双子宫龙凤胎宝宝住上双拼别墅",
+        "onboard_time": 1726726941,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433483,
+        "num": 322541,
+        "word": "招行回应管培生被女友举报嫖娼",
+        "onboard_time": 1726712120,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322386,
+        "num": 322386,
+        "word": "胡夏 披荆斩棘老子走了",
+        "onboard_time": 1726719142,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311154,
+        "num": 311154,
+        "word": "你卖掉的旧手机可能会出卖你",
+        "onboard_time": 1726715119,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303648,
+        "num": 303648,
+        "word": "肖战机场",
+        "onboard_time": 1726720951,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302352,
+        "num": 302352,
+        "word": "印度女子两年凑不齐嫁妆被丈夫打死",
+        "onboard_time": 1726727420,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256561,
+        "num": 256561,
+        "word": "台风普拉桑登陆点更靠近上海",
+        "onboard_time": 1726723170,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254149,
+        "num": 254149,
+        "word": "银河左岸 下架",
+        "onboard_time": 1726726700,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 896746,
+        "num": 251849,
+        "word": "三只羊全面复播",
+        "onboard_time": 1726712479,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 249524,
+        "num": 249524,
+        "word": "台风排班表",
+        "onboard_time": 1726727359,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248755,
+        "num": 248755,
+        "word": "你好种地少年",
+        "onboard_time": 1726725620,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245320,
+        "num": 245320,
+        "word": "女子骑电动车打伞被卷入车底身亡",
+        "onboard_time": 1726719329,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247953,
+        "num": 245061,
+        "word": "小英丈夫曾说和小宝在视频里演坏人",
+        "onboard_time": 1726727900,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 244742,
+        "num": 244742,
+        "word": "唐嫣fendi",
+        "onboard_time": 1726727060,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47210,
+        "num": 241949,
+        "word": "张馨予回应高原跳舞后又晕又吐",
+        "onboard_time": 1726726819,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239887,
+        "num": 239887,
+        "word": "硕博父子花14年养出报恩大闸蟹",
+        "onboard_time": 1726723529,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233548,
+        "num": 233548,
+        "word": "刘丹说小糯米很喜欢吃月饼",
+        "onboard_time": 1726713618,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213397,
+        "num": 213397,
+        "word": "黎巴嫩新一轮爆炸的对讲机产自日本",
+        "onboard_time": 1726709839,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 43582,
+        "num": 209028,
+        "word": "舍不得星星 纯爱设定",
+        "onboard_time": 1726726759,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208655,
+        "num": 208655,
+        "word": "心脏骤停前一个月身体就有迹象",
+        "onboard_time": 1726713559,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 207580,
+        "num": 207580,
+        "word": "杨洋实在忍不住就笑出来吧",
+        "onboard_time": 1726721669,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205090,
+        "num": 205090,
+        "word": "半熟男女 三缺型女主",
+        "onboard_time": 1726727060,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201620,
+        "num": 201620,
+        "word": "宋茜腰伤",
+        "onboard_time": 1726721430,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197167,
+        "num": 197167,
+        "word": "男子60元买螃蟹绑蟹绳占20元",
+        "onboard_time": 1726725860,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9798,
+        "num": 194781,
+        "word": "内行人才知道的家电省钱信息差",
+        "onboard_time": 1726728139,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194612,
+        "num": 194612,
+        "word": "石宇奇vs金廷",
+        "onboard_time": 1726727180,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193282,
+        "num": 193282,
+        "word": "黄冠亨回应聚会",
+        "onboard_time": 1726727301,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188419,
+        "num": 188419,
+        "word": "二本恋综没等到时尚恋综走来了",
+        "onboard_time": 1726728200,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队淬火向前#"
+    }
+  }
+}
