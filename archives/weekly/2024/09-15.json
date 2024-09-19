@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726745740419,
+  "endTime": 1726749689326,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -187,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2543520,
+      "num": 837434,
+      "word": "吴谨言肚子",
+      "onboard_time": 1726748302,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2515086,
       "num": 881661,
       "word": "浙江一官员3天穿同一件衣服出镜",
@@ -241,6 +249,14 @@
       "onboard_time": 1726712479,
       "rank": 5,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2325296,
+      "num": 2325296,
+      "word": "微信朋友圈支持live图",
+      "onboard_time": 1726743022,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 2324594,
@@ -745,14 +761,6 @@
       "onboard_time": 1726494021,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1402682,
-      "num": 1402682,
-      "word": "微信朋友圈支持live图",
-      "onboard_time": 1726743022,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 1386208,
@@ -1524,7 +1532,7 @@
     },
     {
       "raw_hot": 924996,
-      "num": 350436,
+      "num": 765007,
       "word": "黄晓明的头像",
       "onboard_time": 1726740861,
       "rank": 14,
@@ -1600,6 +1608,14 @@
       "word": "月薪从10万降到7万投行女高管讨薪",
       "onboard_time": 1726626800,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 881085,
+      "num": 881085,
+      "word": "合肥成立联合调查组核查三只羊问题",
+      "onboard_time": 1726748602,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -2435,6 +2451,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 615849,
+      "num": 297406,
+      "word": "23岁弟弟离世姐姐崩溃大哭",
+      "onboard_time": 1726746200,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 615090,
       "num": 615090,
       "word": "许家印香港30平房屋将被拍卖还债",
@@ -2928,6 +2952,14 @@
       "word": "前有刘星分饼 后有芽芽打包",
       "onboard_time": 1726390999,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 519854,
+      "num": 655363,
+      "word": "半熟男女",
+      "onboard_time": 1726718301,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -3651,6 +3683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 403924,
+      "num": 301388,
+      "word": "葛晓倩晒与袁巴元聊天记录",
+      "onboard_time": 1726743801,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 400886,
       "num": 400886,
       "word": "今日中国再不是1931年的中国",
@@ -4291,6 +4331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339603,
+      "num": 299963,
+      "word": "张大奕关店",
+      "onboard_time": 1726745960,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337548,
       "num": 489966,
       "word": "张杰谢娜游艇约会",
@@ -4907,6 +4955,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 289607,
+      "num": 289607,
+      "word": "微信回应安卓何时能发live图",
+      "onboard_time": 1726745242,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 289268,
       "num": 289268,
       "word": "台风贝碧嘉直播",
@@ -5161,6 +5217,14 @@
       "onboard_time": 1726701436,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 273533,
+      "num": 273533,
+      "word": "男子被同学驾车多次撞击碾压致死",
+      "onboard_time": 1726746200,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272249,
@@ -5827,6 +5891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244308,
+      "num": 244308,
+      "word": "Jennie解释室内吸烟道歉的原因",
+      "onboard_time": 1726746561,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243960,
       "num": 243960,
       "word": "scout疑似恋爱",
@@ -5921,6 +5993,14 @@
       "onboard_time": 1726403663,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 240421,
+      "num": 240421,
+      "word": "Prada大秀",
+      "onboard_time": 1726747703,
+      "rank": 27,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 240189,
@@ -6627,20 +6707,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211120,
+      "num": 211120,
+      "word": "邓为 人在巴黎但像在北京郊区",
+      "onboard_time": 1726745780,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210754,
       "num": 210754,
       "word": "AG3比0抢赛点",
       "onboard_time": 1726403482,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 210496,
-      "num": 655363,
-      "word": "半熟男女",
-      "onboard_time": 1726718301,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 210259,
@@ -6937,6 +7017,14 @@
       "onboard_time": 1726413979,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 204392,
+      "num": 324565,
+      "word": "恶意举报34万余次非法获利数百万",
+      "onboard_time": 1726743743,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204263,
@@ -7699,6 +7787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190173,
+      "num": 190173,
+      "word": "咒术回战",
+      "onboard_time": 1726748602,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 190131,
       "num": 190131,
       "word": "薛之谦 Joker",
@@ -8105,6 +8201,14 @@
       "onboard_time": 1726641860,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 181027,
+      "num": 181027,
+      "word": "供人贩吃住却被他偷走孩子",
+      "onboard_time": 1726747039,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180913,
@@ -8595,6 +8699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171362,
+      "num": 171362,
+      "word": "马龙活动",
+      "onboard_time": 1726749022,
+      "rank": 34,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 171307,
       "num": 171307,
       "word": "易烊千玺AnotherMan",
@@ -8635,12 +8747,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170572,
-      "num": 170572,
-      "word": "微信回应安卓何时能发live图",
-      "onboard_time": 1726745242,
-      "rank": 32,
-      "category": "互联网"
+      "raw_hot": 170703,
+      "num": 207040,
+      "word": "井胧 壮壮妈",
+      "onboard_time": 1726746381,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 170376,
@@ -9179,6 +9291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 161143,
+      "num": 161143,
+      "word": "黎巴嫩爆炸已致37人死亡",
+      "onboard_time": 1726748120,
+      "rank": 35,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 160798,
       "num": 160798,
       "word": "台风普拉桑今日登陆浙江沿海",
@@ -9587,6 +9707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155009,
+      "num": 155009,
+      "word": "赵丽颖将出席飞天奖",
+      "onboard_time": 1726748541,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154909,
       "num": 154909,
       "word": "寝室四人都是同年同月同日生的",
@@ -9713,14 +9841,6 @@
       "onboard_time": 1726403121,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 152356,
-      "num": 279990,
-      "word": "葛晓倩晒与袁巴元聊天记录",
-      "onboard_time": 1726743801,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 151806,
@@ -10067,6 +10187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144637,
+      "num": 144637,
+      "word": "黎巴嫩真主党为什么还在用传呼机",
+      "onboard_time": 1726748120,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 144367,
       "num": 144367,
       "word": "贝碧嘉对上海影响有多大",
@@ -10227,6 +10355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142362,
+      "num": 299658,
+      "word": "袁巴元承认改分手协议日期",
+      "onboard_time": 1726749201,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142320,
       "num": 1129641,
       "word": "合肥4.7级地震多地市民离家躲避",
@@ -10329,6 +10465,14 @@
       "onboard_time": 1726658300,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140588,
+      "num": 140588,
+      "word": "吴莫愁遗憾当年没选杨坤战队",
+      "onboard_time": 1726749262,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 140501,
@@ -11195,6 +11339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 122542,
+      "num": 122542,
+      "word": "无意义的节假日值班是形式主义",
+      "onboard_time": 1726747342,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122166,
       "num": 122166,
       "word": "张远官宣心动的信号7",
@@ -11259,6 +11411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120568,
+      "num": 120568,
+      "word": "央视起底网络乱象",
+      "onboard_time": 1726748661,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120558,
       "num": 1212740,
       "word": "今年中秋档电影票房为3.89亿元",
@@ -11305,6 +11465,14 @@
       "onboard_time": 1726473199,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119896,
+      "num": 119896,
+      "word": "十五的月亮十六圆",
+      "onboard_time": 1726749622,
+      "rank": 45,
+      "category": "自然"
     },
     {
       "raw_hot": 119856,
@@ -11363,6 +11531,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 118246,
+      "num": 118246,
+      "word": "蔡徐坤米兰时装周",
+      "onboard_time": 1726748242,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 118063,
       "num": 118063,
       "word": "程芽芽高中毕业三年带娃经验",
@@ -11396,7 +11572,7 @@
     },
     {
       "raw_hot": 117496,
-      "num": 260095,
+      "num": 305921,
       "word": "流水迢迢",
       "onboard_time": 1726570879,
       "rank": 24,
@@ -12001,14 +12177,6 @@
       "onboard_time": 1726387399,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 99378,
-      "num": 324565,
-      "word": "恶意举报34万余次非法获利数百万",
-      "onboard_time": 1726743743,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99375,
@@ -13251,6 +13419,14 @@
       "category": "互联网,艺人"
     },
     {
+      "raw_hot": 46135,
+      "num": 306711,
+      "word": "警方又找回一名梅姨案被拐儿童",
+      "onboard_time": 1726749381,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46059,
       "num": 46059,
       "word": "旅客携带96只白蚁蚁后入境被查",
@@ -13521,6 +13697,14 @@
       "onboard_time": 1726387760,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38388,
+      "num": 302610,
+      "word": "篮球之夜好多人呀",
+      "onboard_time": 1726747220,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 38258,
@@ -13833,6 +14017,14 @@
       "onboard_time": 1726513633,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 31115,
+      "num": 120574,
+      "word": "任嘉伦李兰迪回应偷感夫妇",
+      "onboard_time": 1726744341,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 30963,
@@ -14553,6 +14745,9 @@
     },
     {
       "word": "#人民军队淬火向前#"
+    },
+    {
+      "word": "#中华民族共同体意识是民族团结之本#"
     }
   ]
 }
