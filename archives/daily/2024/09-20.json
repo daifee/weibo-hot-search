@@ -1,6 +1,6 @@
 {
   "startTime": 1726763246339,
-  "endTime": 1726788113331,
+  "endTime": 1726788967364,
   "band_list": [
     {
       "raw_hot": 2161007,
@@ -59,8 +59,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 389752,
-      "num": 389752,
+      "raw_hot": 466178,
+      "num": 466178,
+      "word": "大山女孩以为400分能报考清华",
+      "onboard_time": 1726753582,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 395724,
+      "num": 395724,
       "word": "成龙 七旬老汉飞檐走壁",
       "onboard_time": 1726763237,
       "rank": 28,
@@ -68,19 +76,19 @@
     },
     {
       "raw_hot": 356833,
-      "num": 307372,
+      "num": 331475,
       "word": "家暴男子在离婚法庭上扛起妻子就跑",
       "onboard_time": 1726750822,
       "rank": 11,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 353433,
-      "num": 353433,
-      "word": "大山女孩以为400分能报考清华",
-      "onboard_time": 1726753582,
-      "rank": 6,
-      "category": "剧集"
+      "raw_hot": 337028,
+      "num": 337028,
+      "word": "医院回应家属自带折叠床被没收",
+      "onboard_time": 1726773311,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 334581,
@@ -123,11 +131,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 293921,
-      "num": 293921,
-      "word": "医院回应家属自带折叠床被没收",
-      "onboard_time": 1726773311,
-      "rank": 21,
+      "raw_hot": 294370,
+      "num": 294370,
+      "word": "女子车后10米远摔倒车主被判次责",
+      "onboard_time": 1726782192,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -139,15 +147,23 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 239253,
-      "num": 219122,
+      "raw_hot": 246322,
+      "num": 246322,
       "word": "肖战深情演唱月亮代表我的心",
       "onboard_time": 1726786875,
       "rank": 12,
       "category": "综艺"
     },
     {
-      "raw_hot": 232133,
+      "raw_hot": 238918,
+      "num": 341791,
+      "word": "台风普拉桑登陆浙江",
+      "onboard_time": 1726745062,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235594,
       "num": 147735,
       "word": "年入过亿女老板谈休息耻辱",
       "onboard_time": 1726763057,
@@ -171,28 +187,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 217237,
-      "num": 217237,
-      "word": "女子车后10米远摔倒车主被判次责",
-      "onboard_time": 1726782192,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211845,
       "num": 149443,
       "word": "南派三叔回应终极笔记2",
       "onboard_time": 1726760541,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 206128,
-      "num": 307505,
-      "word": "台风普拉桑登陆浙江",
-      "onboard_time": 1726745062,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205074,
@@ -243,6 +243,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155316,
+      "num": 146750,
+      "word": "饿到什么程度才会开始燃烧脂肪",
+      "onboard_time": 1726743262,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 155089,
+      "num": 135760,
+      "word": "女生称取快递被男生多次贴身猥亵",
+      "onboard_time": 1726763777,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154764,
       "num": 154764,
       "word": "黎真主党领导人称以色列越过所有红线",
@@ -267,14 +283,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 146750,
-      "num": 146750,
-      "word": "饿到什么程度才会开始燃烧脂肪",
-      "onboard_time": 1726743262,
-      "rank": 23,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 145580,
       "num": 145580,
       "word": "微信朋友圈live图不能单独关闭声音",
@@ -283,11 +291,11 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 135760,
-      "num": 135760,
-      "word": "女生称取快递被男生多次贴身猥亵",
-      "onboard_time": 1726763777,
-      "rank": 39,
+      "raw_hot": 138265,
+      "num": 138265,
+      "word": "房管局回应三只羊上海公司现状",
+      "onboard_time": 1726786997,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -307,24 +315,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 118409,
-      "num": 118409,
+      "raw_hot": 119827,
+      "num": 119827,
       "word": "台风普拉桑将在浙江上海一带再次登陆",
       "onboard_time": 1726744726,
       "rank": 28,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109207,
-      "num": 109207,
-      "word": "房管局回应三只羊上海公司现状",
-      "onboard_time": 1726786997,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108501,
-      "num": 108501,
+      "raw_hot": 110465,
+      "num": 110465,
       "word": "男子被同学驾车多次撞击碾压致死",
       "onboard_time": 1726746200,
       "rank": 29,
@@ -345,6 +345,30 @@
       "onboard_time": 1726749201,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106367,
+      "num": 106367,
+      "word": "北京暴雨",
+      "onboard_time": 1726788557,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99981,
+      "num": 99981,
+      "word": "上海中心千吨阻尼器所在楼层关闭",
+      "onboard_time": 1726767134,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98039,
+      "num": 98039,
+      "word": "黎巴嫩BP机爆炸时收到以方信息",
+      "onboard_time": 1726769593,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 97669,
@@ -379,6 +403,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 91854,
+      "num": 91854,
+      "word": "上海台风",
+      "onboard_time": 1726742602,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91617,
       "num": 91617,
       "word": "王鹤棣棣一次全明星获奖了",
@@ -387,28 +419,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 90817,
-      "num": 90817,
-      "word": "上海台风",
-      "onboard_time": 1726742602,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 90589,
       "num": 90589,
       "word": "一诺赵嘉敏游环球影城",
       "onboard_time": 1726751423,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 90558,
-      "num": 90558,
-      "word": "上海中心千吨阻尼器所在楼层关闭",
-      "onboard_time": 1726767134,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 89746,
@@ -467,12 +483,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77792,
-      "num": 77792,
-      "word": "黎巴嫩BP机爆炸时收到以方信息",
-      "onboard_time": 1726769593,
-      "rank": 9,
-      "category": "国外时政"
+      "raw_hot": 81170,
+      "num": 81170,
+      "word": "宋佳说表演时内衣也帮了很多",
+      "onboard_time": 1726770792,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 77247,
+      "num": 77247,
+      "word": "梁伟铿从不回头看出界",
+      "onboard_time": 1726787117,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 76373,
+      "num": 76373,
+      "word": "花花的可爱真是太全面了",
+      "onboard_time": 1726785914,
+      "rank": 43,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 74047,
@@ -491,14 +523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 71829,
-      "num": 71829,
-      "word": "宋佳说表演时内衣也帮了很多",
-      "onboard_time": 1726770792,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 71594,
       "num": 71594,
       "word": "恶意举报34万余次非法获利数百万",
@@ -507,24 +531,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 65186,
-      "num": 65186,
-      "word": "梁伟铿从不回头看出界",
-      "onboard_time": 1726787117,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 69697,
+      "num": 69697,
+      "word": "大疆Action5Pro",
+      "onboard_time": 1726787958,
+      "rank": 48,
+      "category": "数码"
     },
     {
-      "raw_hot": 62708,
-      "num": 62708,
-      "word": "花花的可爱真是太全面了",
-      "onboard_time": 1726785914,
-      "rank": 43,
-      "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 60816,
-      "num": 60816,
+      "raw_hot": 65923,
+      "num": 65923,
       "word": "当钱塘江大潮遇到台风普拉桑",
       "onboard_time": 1726774211,
       "rank": 46,
@@ -544,14 +560,6 @@
       "word": "何同学iPhone16评测",
       "onboard_time": 1726751722,
       "rank": 37,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 54849,
-      "num": 54849,
-      "word": "大疆Action5Pro",
-      "onboard_time": 1726787958,
-      "rank": 48,
       "category": "数码"
     },
     {
@@ -712,6 +720,14 @@
       "word": "人民军队淬火向前",
       "onboard_time": 1726775171,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3973,
+      "num": 529006,
+      "word": "2024北京文化论坛",
+      "onboard_time": 1726715000,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

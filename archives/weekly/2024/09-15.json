@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726788113331,
+  "endTime": 1726788967364,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -3899,6 +3899,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 395724,
+      "num": 395724,
+      "word": "成龙 七旬老汉飞檐走壁",
+      "onboard_time": 1726763237,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 395384,
       "num": 302352,
       "word": "印度女子两年凑不齐嫁妆被丈夫打死",
@@ -3937,14 +3945,6 @@
       "onboard_time": 1726327220,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 389752,
-      "num": 389752,
-      "word": "成龙 七旬老汉飞檐走壁",
-      "onboard_time": 1726763237,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 387474,
@@ -4505,6 +4505,14 @@
       "onboard_time": 1726625959,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 337028,
+      "num": 337028,
+      "word": "医院回应家属自带折叠床被没收",
+      "onboard_time": 1726773311,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336530,
@@ -5075,11 +5083,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 293921,
-      "num": 293921,
-      "word": "医院回应家属自带折叠床被没收",
-      "onboard_time": 1726773311,
-      "rank": 21,
+      "raw_hot": 294370,
+      "num": 294370,
+      "word": "女子车后10米远摔倒车主被判次责",
+      "onboard_time": 1726782192,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -6035,6 +6043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246322,
+      "num": 246322,
+      "word": "肖战深情演唱月亮代表我的心",
+      "onboard_time": 1726786875,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246301,
       "num": 246301,
       "word": "谢广坤儿子百日宴",
@@ -6259,14 +6275,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 239253,
-      "num": 219122,
-      "word": "肖战深情演唱月亮代表我的心",
-      "onboard_time": 1726786875,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 239223,
       "num": 239223,
       "word": "张绍刚与十个勤天成员聚餐",
@@ -6339,6 +6347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235594,
+      "num": 147735,
+      "word": "年入过亿女老板谈休息耻辱",
+      "onboard_time": 1726763057,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235146,
       "num": 235146,
       "word": "蔡徐坤到了米兰就出门了",
@@ -6401,14 +6417,6 @@
       "onboard_time": 1726625302,
       "rank": 20,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 232133,
-      "num": 147735,
-      "word": "年入过亿女老板谈休息耻辱",
-      "onboard_time": 1726763057,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232070,
@@ -6769,14 +6777,6 @@
       "onboard_time": 1726718720,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 217237,
-      "num": 217237,
-      "word": "女子车后10米远摔倒车主被判次责",
-      "onboard_time": 1726782192,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216633,
@@ -10043,6 +10043,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 155089,
+      "num": 135760,
+      "word": "女生称取快递被男生多次贴身猥亵",
+      "onboard_time": 1726763777,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155009,
       "num": 155009,
       "word": "张新成王玉雯认识16年终有吻戏",
@@ -11003,6 +11011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138265,
+      "num": 138265,
+      "word": "房管局回应三只羊上海公司现状",
+      "onboard_time": 1726786997,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138262,
       "num": 460879,
       "word": "大学生组团接单陪爬泰山月入过万",
@@ -11129,14 +11145,6 @@
       "onboard_time": 1726563921,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135760,
-      "num": 135760,
-      "word": "女生称取快递被男生多次贴身猥亵",
-      "onboard_time": 1726763777,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135575,
@@ -12283,14 +12291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109207,
-      "num": 109207,
-      "word": "房管局回应三只羊上海公司现状",
-      "onboard_time": 1726786997,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109138,
       "num": 109138,
       "word": "夏目友人帐 温柔如期而至",
@@ -12393,6 +12393,14 @@
       "onboard_time": 1726418417,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106367,
+      "num": 106367,
+      "word": "北京暴雨",
+      "onboard_time": 1726788557,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106316,
@@ -12595,6 +12603,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 99981,
+      "num": 99981,
+      "word": "上海中心千吨阻尼器所在楼层关闭",
+      "onboard_time": 1726767134,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99907,
       "num": 465986,
       "word": "路边摊为何越来越吃不起了",
@@ -12633,6 +12649,14 @@
       "onboard_time": 1726483518,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98039,
+      "num": 98039,
+      "word": "黎巴嫩BP机爆炸时收到以方信息",
+      "onboard_time": 1726769593,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 97078,
@@ -12793,14 +12817,6 @@
       "onboard_time": 1726381698,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 90558,
-      "num": 90558,
-      "word": "上海中心千吨阻尼器所在楼层关闭",
-      "onboard_time": 1726767134,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90478,
@@ -12995,6 +13011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81170,
+      "num": 81170,
+      "word": "宋佳说表演时内衣也帮了很多",
+      "onboard_time": 1726770792,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 81033,
       "num": 1074301,
       "word": "大数据看中秋文旅消费新亮点",
@@ -13067,14 +13091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 77792,
-      "num": 77792,
-      "word": "黎巴嫩BP机爆炸时收到以方信息",
-      "onboard_time": 1726769593,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 77692,
       "num": 77692,
       "word": "凡人歌",
@@ -13097,6 +13113,14 @@
       "onboard_time": 1726667903,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77247,
+      "num": 77247,
+      "word": "梁伟铿从不回头看出界",
+      "onboard_time": 1726787117,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 76986,
@@ -13129,6 +13153,14 @@
       "onboard_time": 1726332377,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76373,
+      "num": 76373,
+      "word": "花花的可爱真是太全面了",
+      "onboard_time": 1726785914,
+      "rank": 43,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 76114,
@@ -13243,14 +13275,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 71829,
-      "num": 71829,
-      "word": "宋佳说表演时内衣也帮了很多",
-      "onboard_time": 1726770792,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 70834,
       "num": 598789,
       "word": "奶茶店员工回应被绑手挂谢罪牌",
@@ -13289,6 +13313,14 @@
       "onboard_time": 1726723349,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 69697,
+      "num": 69697,
+      "word": "大疆Action5Pro",
+      "onboard_time": 1726787958,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 69656,
@@ -13395,6 +13427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65923,
+      "num": 65923,
+      "word": "当钱塘江大潮遇到台风普拉桑",
+      "onboard_time": 1726774211,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65874,
       "num": 313917,
       "word": "无侦7高空飞行画面首次公开",
@@ -13409,14 +13449,6 @@
       "onboard_time": 1726526713,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 65186,
-      "num": 65186,
-      "word": "梁伟铿从不回头看出界",
-      "onboard_time": 1726787117,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 64726,
@@ -13465,14 +13497,6 @@
       "onboard_time": 1726335733,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62708,
-      "num": 62708,
-      "word": "花花的可爱真是太全面了",
-      "onboard_time": 1726785914,
-      "rank": 43,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 62662,
@@ -13528,14 +13552,6 @@
       "word": "1元抢购的两提卷纸半个巴掌大",
       "onboard_time": 1726737506,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60816,
-      "num": 60816,
-      "word": "当钱塘江大潮遇到台风普拉桑",
-      "onboard_time": 1726774211,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -13649,14 +13665,6 @@
       "onboard_time": 1726420156,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54849,
-      "num": 54849,
-      "word": "大疆Action5Pro",
-      "onboard_time": 1726787958,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 54169,

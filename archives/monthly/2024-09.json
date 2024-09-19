@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726788113331,
+  "endTime": 1726788967364,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -14195,6 +14195,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 395724,
+      "num": 395724,
+      "word": "成龙 七旬老汉飞檐走壁",
+      "onboard_time": 1726763237,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 395667,
       "num": 264102,
       "word": "付航 假扮粉丝接机",
@@ -14369,14 +14377,6 @@
       "onboard_time": 1725622100,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 389752,
-      "num": 389752,
-      "word": "成龙 七旬老汉飞檐走壁",
-      "onboard_time": 1726763237,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 389668,
@@ -16089,6 +16089,14 @@
       "onboard_time": 1726625959,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 337028,
+      "num": 337028,
+      "word": "医院回应家属自带折叠床被没收",
+      "onboard_time": 1726773311,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336530,
@@ -17915,20 +17923,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294370,
+      "num": 294370,
+      "word": "女子车后10米远摔倒车主被判次责",
+      "onboard_time": 1726782192,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293961,
       "num": 293961,
       "word": "杨紫听了都得懵一秒",
       "onboard_time": 1725513741,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 293921,
-      "num": 293921,
-      "word": "医院回应家属自带折叠床被没收",
-      "onboard_time": 1726773311,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 293569,
@@ -21059,6 +21067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 246322,
+      "num": 246322,
+      "word": "肖战深情演唱月亮代表我的心",
+      "onboard_time": 1726786875,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246311,
       "num": 246311,
       "word": "时尚芭莎十月刊",
@@ -21771,14 +21787,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 239253,
-      "num": 219122,
-      "word": "肖战深情演唱月亮代表我的心",
-      "onboard_time": 1726786875,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 239223,
       "num": 239223,
       "word": "张绍刚与十个勤天成员聚餐",
@@ -22115,6 +22123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 235594,
+      "num": 147735,
+      "word": "年入过亿女老板谈休息耻辱",
+      "onboard_time": 1726763057,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235542,
       "num": 235542,
       "word": "因为开学包书皮被老师点名批评",
@@ -22449,14 +22465,6 @@
       "onboard_time": 1725513799,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 232133,
-      "num": 147735,
-      "word": "年入过亿女老板谈休息耻辱",
-      "onboard_time": 1726763057,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232070,
@@ -23969,14 +23977,6 @@
       "onboard_time": 1726718720,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 217237,
-      "num": 217237,
-      "word": "女子车后10米远摔倒车主被判次责",
-      "onboard_time": 1726782192,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217209,
@@ -36939,6 +36939,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 155089,
+      "num": 135760,
+      "word": "女生称取快递被男生多次贴身猥亵",
+      "onboard_time": 1726763777,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155048,
       "num": 155048,
       "word": "赛后国足更衣室一片死寂",
@@ -40723,6 +40731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138265,
+      "num": 138265,
+      "word": "房管局回应三只羊上海公司现状",
+      "onboard_time": 1726786997,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138262,
       "num": 460879,
       "word": "大学生组团接单陪爬泰山月入过万",
@@ -41209,14 +41225,6 @@
       "onboard_time": 1725440480,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 135760,
-      "num": 135760,
-      "word": "女生称取快递被男生多次贴身猥亵",
-      "onboard_time": 1726763777,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135742,
@@ -45627,14 +45635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109207,
-      "num": 109207,
-      "word": "房管局回应三只羊上海公司现状",
-      "onboard_time": 1726786997,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109192,
       "num": 308201,
       "word": "易烊千玺威尼斯海边写真",
@@ -45961,6 +45961,14 @@
       "onboard_time": 1725153258,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106367,
+      "num": 106367,
+      "word": "北京暴雨",
+      "onboard_time": 1726788557,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106354,
@@ -46683,6 +46691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99981,
+      "num": 99981,
+      "word": "上海中心千吨阻尼器所在楼层关闭",
+      "onboard_time": 1726767134,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99907,
       "num": 465986,
       "word": "路边摊为何越来越吃不起了",
@@ -46889,6 +46905,14 @@
       "onboard_time": 1725841579,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98039,
+      "num": 98039,
+      "word": "黎巴嫩BP机爆炸时收到以方信息",
+      "onboard_time": 1726769593,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 97816,
@@ -47465,14 +47489,6 @@
       "onboard_time": 1726381698,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 90558,
-      "num": 90558,
-      "word": "上海中心千吨阻尼器所在楼层关闭",
-      "onboard_time": 1726767134,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90478,
@@ -48283,6 +48299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 81170,
+      "num": 81170,
+      "word": "宋佳说表演时内衣也帮了很多",
+      "onboard_time": 1726770792,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 81121,
       "num": 81121,
       "word": "王楚钦澳门vlog",
@@ -48555,14 +48579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 77792,
-      "num": 77792,
-      "word": "黎巴嫩BP机爆炸时收到以方信息",
-      "onboard_time": 1726769593,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 77601,
       "num": 1090313,
       "word": "山花烂漫时 再一次被拉起的大山女孩",
@@ -48577,6 +48593,14 @@
       "onboard_time": 1726667903,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77247,
+      "num": 77247,
+      "word": "梁伟铿从不回头看出界",
+      "onboard_time": 1726787117,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 77138,
@@ -48697,6 +48721,14 @@
       "onboard_time": 1726332377,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76373,
+      "num": 76373,
+      "word": "花花的可爱真是太全面了",
+      "onboard_time": 1726785914,
+      "rank": 43,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 76114,
@@ -49099,14 +49131,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 71829,
-      "num": 71829,
-      "word": "宋佳说表演时内衣也帮了很多",
-      "onboard_time": 1726770792,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 71743,
       "num": 353733,
       "word": "无人机黑飞危害有多大",
@@ -49273,6 +49297,14 @@
       "onboard_time": 1726290570,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69697,
+      "num": 69697,
+      "word": "大疆Action5Pro",
+      "onboard_time": 1726787958,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 69656,
@@ -49651,6 +49683,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 65923,
+      "num": 65923,
+      "word": "当钱塘江大潮遇到台风普拉桑",
+      "onboard_time": 1726774211,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65874,
       "num": 313917,
       "word": "无侦7高空飞行画面首次公开",
@@ -49697,14 +49737,6 @@
       "onboard_time": 1725362721,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65186,
-      "num": 65186,
-      "word": "梁伟铿从不回头看出界",
-      "onboard_time": 1726787117,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 65122,
@@ -49963,14 +49995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 62708,
-      "num": 62708,
-      "word": "花花的可爱真是太全面了",
-      "onboard_time": 1726785914,
-      "rank": 43,
-      "category": "幽默,社会新闻"
-    },
-    {
       "raw_hot": 62662,
       "num": 196842,
       "word": "中国赛雷兰曦进8强",
@@ -50152,14 +50176,6 @@
       "word": "1元抢购的两提卷纸半个巴掌大",
       "onboard_time": 1726737506,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60816,
-      "num": 60816,
-      "word": "当钱塘江大潮遇到台风普拉桑",
-      "onboard_time": 1726774211,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -50809,14 +50825,6 @@
       "onboard_time": 1725787039,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 54849,
-      "num": 54849,
-      "word": "大疆Action5Pro",
-      "onboard_time": 1726787958,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 54774,
