@@ -1,6 +1,6 @@
 {
   "startTime": 1726763246339,
-  "endTime": 1726766367295,
+  "endTime": 1726767430415,
   "band_list": [
     {
       "raw_hot": 2161007,
@@ -41,6 +41,14 @@
       "onboard_time": 1726757483,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 426547,
+      "num": 426547,
+      "word": "短剧男主都帅成这样了",
+      "onboard_time": 1726764976,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 356833,
@@ -97,14 +105,6 @@
       "onboard_time": 1726756462,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 284562,
-      "num": 117837,
-      "word": "短剧男主都帅成这样了",
-      "onboard_time": 1726764976,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 279635,
@@ -203,7 +203,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 144863,
+      "raw_hot": 144952,
       "num": 120911,
       "word": "年入过亿女老板谈休息耻辱",
       "onboard_time": 1726763057,
@@ -451,6 +451,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 40039,
+      "num": 40039,
+      "word": "华晨宇微博音乐盛典四项荣誉",
+      "onboard_time": 1726767013,
+      "rank": 41,
+      "category": "音乐,综艺"
+    },
+    {
+      "raw_hot": 40009,
+      "num": 40009,
+      "word": "上海中心千吨阻尼器所在楼层关闭",
+      "onboard_time": 1726767134,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35662,
+      "num": 39990,
+      "word": "周深演唱会behind",
+      "onboard_time": 1726766953,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 34978,
       "num": 78025,
       "word": "南方多地高温天气有望结束",
@@ -459,10 +483,26 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34118,
+      "num": 39983,
+      "word": "易烊千玺废土风大片",
+      "onboard_time": 1726766953,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 3340,
       "num": 936634,
       "word": "把青春华章写在祖国大地上",
       "onboard_time": 1726752081,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1573,
+      "num": 428480,
+      "word": "一代代军人淬火成钢的誓言",
+      "onboard_time": 1726706600,
       "rank": 2,
       "category": "社会新闻"
     }
