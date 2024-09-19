@@ -1,0 +1,410 @@
+{
+  "runTime": 1726717174822,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2054312,
+        "num": 2054312,
+        "word": "央广网评装聋作哑的三只羊",
+        "onboard_time": 1726713858,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1159109,
+        "num": 1159109,
+        "word": "张雨绮发表情包回应",
+        "onboard_time": 1726712899,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1935,
+        "num": 1085983,
+        "word": "2024北京文化论坛",
+        "onboard_time": 1726715000,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1028523,
+        "num": 1028523,
+        "word": "欧阳妮妮患多囊性卵巢",
+        "onboard_time": 1726708281,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1021278,
+        "num": 1021278,
+        "word": "降息",
+        "onboard_time": 1726669823,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 800007,
+        "num": 800007,
+        "word": "成都一海洋馆鲸鲨被曝死亡",
+        "onboard_time": 1726713978,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723843,
+        "num": 723843,
+        "word": "恋与深空",
+        "onboard_time": 1726715600,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 584890,
+        "num": 584890,
+        "word": "御赐小仵作2原班人马开机",
+        "onboard_time": 1726716322,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 581549,
+        "num": 581549,
+        "word": "刘丹说小糯米很喜欢吃月饼",
+        "onboard_time": 1726713618,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61955,
+        "num": 560686,
+        "word": "黎巴嫩连续爆炸后以色列总理首发声",
+        "onboard_time": 1726710439,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 2334116,
+        "num": 553415,
+        "word": "三只羊全面复播",
+        "onboard_time": 1726712479,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 545902,
+        "num": 545902,
+        "word": "电视剧四喜开机",
+        "onboard_time": 1726714040,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 532385,
+        "num": 532385,
+        "word": "合肥地震",
+        "onboard_time": 1726661786,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61364,
+        "num": 522719,
+        "word": "吴彦祖回应三角洲里都是彦祖",
+        "onboard_time": 1726713559,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522150,
+        "num": 522150,
+        "word": "尤长靖留在中国的原因",
+        "onboard_time": 1726716019,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 521807,
+        "num": 521807,
+        "word": "赵丽颖 鄂尔多斯1980",
+        "onboard_time": 1726713738,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 490664,
+        "num": 490664,
+        "word": "南柱赫退伍",
+        "onboard_time": 1726709059,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476707,
+        "num": 476707,
+        "word": "黎巴嫩新一轮爆炸的对讲机产自日本",
+        "onboard_time": 1726709839,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 438685,
+        "num": 438685,
+        "word": "台风普拉桑是急性子",
+        "onboard_time": 1726715540,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428943,
+        "num": 428943,
+        "word": "小英称有什么事都会坦然面对",
+        "onboard_time": 1726706901,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 2592666,
+        "num": 428708,
+        "word": "58页PPT",
+        "onboard_time": 1726708520,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1363402,
+        "num": 428244,
+        "word": "招行回应管培生被女友举报嫖娼",
+        "onboard_time": 1726712120,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484982,
+        "num": 427954,
+        "word": "心脏骤停前一个月身体就有迹象",
+        "onboard_time": 1726713559,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 427646,
+        "num": 427646,
+        "word": "黎巴嫩又发生对讲机爆炸",
+        "onboard_time": 1726675279,
+        "rank": 23,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 403376,
+        "num": 403376,
+        "word": "有棵树 成毅",
+        "onboard_time": 1726713379,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345406,
+        "num": 345406,
+        "word": "云襄传2官宣",
+        "onboard_time": 1726715719,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313347,
+        "num": 313347,
+        "word": "合肥地震后余震42次",
+        "onboard_time": 1726710740,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298312,
+        "num": 298312,
+        "word": "女子58页PPT举报管培生男友嫖娼",
+        "onboard_time": 1726686911,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273515,
+        "num": 273515,
+        "word": "犯了众怒的三只羊要付出代价",
+        "onboard_time": 1726710080,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264066,
+        "num": 264066,
+        "word": "网红直播调侃九一八被永久封号",
+        "onboard_time": 1726716322,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254264,
+        "num": 254264,
+        "word": "消费者发现向小杨哥三只羊索赔艰难",
+        "onboard_time": 1726716019,
+        "rank": 30,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 101088,
+        "num": 252825,
+        "word": "豪华车价格整顿打响第一枪",
+        "onboard_time": 1726716740,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 251539,
+        "num": 251539,
+        "word": "王天一王跃飞被终身禁赛",
+        "onboard_time": 1726714516,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241534,
+        "num": 241534,
+        "word": "美联储降息对中国有何影响",
+        "onboard_time": 1726713020,
+        "rank": 33,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 235078,
+        "num": 235078,
+        "word": "黎巴嫩多地电力系统也发生爆炸",
+        "onboard_time": 1726712120,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 224213,
+        "num": 224213,
+        "word": "你卖掉的旧手机可能会出卖你",
+        "onboard_time": 1726715119,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221285,
+        "num": 221285,
+        "word": "不吃早饭和不吃晚饭哪个危害大",
+        "onboard_time": 1726707920,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 203348,
+        "num": 203348,
+        "word": "已有13人荣获共和国勋章",
+        "onboard_time": 1726707861,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 71948,
+        "num": 202154,
+        "word": "美联储降息或增加全球资产泡沫风险",
+        "onboard_time": 1726715119,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 201967,
+        "num": 201967,
+        "word": "邓为 他的墨镜我的名字",
+        "onboard_time": 1726715960,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191873,
+        "num": 191873,
+        "word": "MK预告",
+        "onboard_time": 1726717040,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185480,
+        "num": 185480,
+        "word": "华为终端 吴磊",
+        "onboard_time": 1726710740,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179341,
+        "num": 179341,
+        "word": "几乎每轮降息都带来美国经济衰退",
+        "onboard_time": 1726706241,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 178029,
+        "num": 178029,
+        "word": "C919首次飞抵拉萨",
+        "onboard_time": 1726716920,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177359,
+        "num": 177359,
+        "word": "偶遇黄圣依录再见爱人4",
+        "onboard_time": 1726716620,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173065,
+        "num": 173065,
+        "word": "刘亚仁涉嫌性侵被判无罪",
+        "onboard_time": 1726713139,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168383,
+        "num": 168383,
+        "word": "张雨绮疑似被换角",
+        "onboard_time": 1726701436,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168097,
+        "num": 168097,
+        "word": "离婚后妻子要求分割婆婆买的房子",
+        "onboard_time": 1726701498,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61645,
+        "num": 167921,
+        "word": "一起云游阿勒泰",
+        "onboard_time": 1726717101,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 167805,
+        "num": 167805,
+        "word": "华为秋季新品发布会定档9月24日",
+        "onboard_time": 1726717040,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队淬火向前#"
+    }
+  }
+}

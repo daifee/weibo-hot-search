@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726716291189,
+  "endTime": 1726717174822,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2334116,
+      "num": 2136280,
+      "word": "三只羊全面复播",
+      "onboard_time": 1726712479,
+      "rank": 5,
+      "category": "网红"
+    },
+    {
       "raw_hot": 2324594,
       "num": 682448,
       "word": "假唱",
@@ -227,14 +235,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 2136280,
-      "num": 2136280,
-      "word": "三只羊全面复播",
-      "onboard_time": 1726712479,
-      "rank": 5,
-      "category": "网红"
-    },
-    {
       "raw_hot": 2109158,
       "num": 632515,
       "word": "叶珂 钻戒",
@@ -249,6 +249,14 @@
       "onboard_time": 1726660400,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2054312,
+      "num": 2054312,
+      "word": "央广网评装聋作哑的三只羊",
+      "onboard_time": 1726713858,
+      "rank": 39,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2023511,
@@ -955,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1159109,
+      "num": 1159109,
+      "word": "张雨绮发表情包回应",
+      "onboard_time": 1726712899,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1155941,
       "num": 1155941,
       "word": "韩安冉回应和吴谨言同在一个关系图",
@@ -1017,14 +1033,6 @@
       "onboard_time": 1726375879,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1139307,
-      "num": 807957,
-      "word": "央广网评装聋作哑的三只羊",
-      "onboard_time": 1726713858,
-      "rank": 39,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1134335,
@@ -1097,14 +1105,6 @@
       "onboard_time": 1726559540,
       "rank": 3,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1101871,
-      "num": 795561,
-      "word": "张雨绮发表情包回应",
-      "onboard_time": 1726712899,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 1097764,
@@ -1667,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 800007,
+      "num": 800007,
+      "word": "成都一海洋馆鲸鲨被曝死亡",
+      "onboard_time": 1726713978,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 798658,
       "num": 798658,
       "word": "空调安装师傅未系安全绳坠亡房主无责",
@@ -1803,12 +1811,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 724348,
-      "num": 724348,
-      "word": "成都一海洋馆鲸鲨被曝死亡",
-      "onboard_time": 1726713978,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 723843,
+      "num": 723843,
+      "word": "恋与深空",
+      "onboard_time": 1726396640,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 721148,
@@ -2355,12 +2363,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 582969,
-      "num": 582969,
-      "word": "恋与深空",
-      "onboard_time": 1726396640,
-      "rank": 44,
-      "category": "游戏"
+      "raw_hot": 584890,
+      "num": 584890,
+      "word": "御赐小仵作2原班人马开机",
+      "onboard_time": 1726716322,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 581549,
+      "num": 581549,
+      "word": "刘丹说小糯米很喜欢吃月饼",
+      "onboard_time": 1726713618,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 576200,
@@ -2523,6 +2539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 545902,
+      "num": 545902,
+      "word": "电视剧四喜开机",
+      "onboard_time": 1726714040,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 543557,
       "num": 823136,
       "word": "村长李锐没认出森碟亮仔",
@@ -2649,6 +2673,14 @@
       "onboard_time": 1726639399,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 522150,
+      "num": 522150,
+      "word": "尤长靖留在中国的原因",
+      "onboard_time": 1726716019,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 520797,
@@ -2819,14 +2851,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 495414,
-      "num": 495414,
-      "word": "电视剧四喜开机",
-      "onboard_time": 1726714040,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 494399,
       "num": 468031,
       "word": "为什么放假越休息越累",
@@ -2921,6 +2945,14 @@
       "onboard_time": 1726404681,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 484982,
+      "num": 427954,
+      "word": "心脏骤停前一个月身体就有迹象",
+      "onboard_time": 1726713559,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 482976,
@@ -3113,6 +3145,14 @@
       "onboard_time": 1726650619,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 438685,
+      "num": 438685,
+      "word": "台风普拉桑是急性子",
+      "onboard_time": 1726715540,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 435566,
@@ -3425,14 +3465,6 @@
       "onboard_time": 1726327220,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 390719,
-      "num": 390719,
-      "word": "心脏骤停前一个月身体就有迹象",
-      "onboard_time": 1726713559,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 387474,
@@ -3803,6 +3835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 345406,
+      "num": 345406,
+      "word": "云襄传2官宣",
+      "onboard_time": 1726715719,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 344315,
       "num": 344315,
       "word": "王俊凯回重庆过中秋了",
@@ -3955,14 +3995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 327110,
-      "num": 331621,
-      "word": "刘丹说小糯米很喜欢吃月饼",
-      "onboard_time": 1726713618,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 326381,
       "num": 818862,
       "word": "智者不入爱河 愚者互相选择",
@@ -3977,14 +4009,6 @@
       "onboard_time": 1726653259,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 325961,
-      "num": 325961,
-      "word": "云襄传2官宣",
-      "onboard_time": 1726715719,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 324483,
@@ -4385,14 +4409,6 @@
       "onboard_time": 1726355595,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 295863,
-      "num": 295863,
-      "word": "台风普拉桑是急性子",
-      "onboard_time": 1726715540,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 293093,
@@ -4875,6 +4891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264066,
+      "num": 264066,
+      "word": "网红直播调侃九一八被永久封号",
+      "onboard_time": 1726716322,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263617,
       "num": 429609,
       "word": "关晓彤新中式镂空旗袍",
@@ -5067,6 +5091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254264,
+      "num": 254264,
+      "word": "消费者发现向小杨哥三只羊索赔艰难",
+      "onboard_time": 1726716019,
+      "rank": 40,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 254187,
       "num": 208858,
       "word": "女子灭蟑螂不料中毒进ICU抢救",
@@ -5113,6 +5145,14 @@
       "onboard_time": 1726397541,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251539,
+      "num": 251539,
+      "word": "王天一王跃飞被终身禁赛",
+      "onboard_time": 1726714516,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 250032,
@@ -5451,6 +5491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235078,
+      "num": 235078,
+      "word": "黎巴嫩多地电力系统也发生爆炸",
+      "onboard_time": 1726712120,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 235015,
       "num": 432041,
       "word": "谢娜女儿做的月饼",
@@ -5497,14 +5545,6 @@
       "onboard_time": 1726625302,
       "rank": 20,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 232653,
-      "num": 232653,
-      "word": "王天一王跃飞被终身禁赛",
-      "onboard_time": 1726714516,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 231918,
@@ -5673,6 +5713,14 @@
       "onboard_time": 1726572860,
       "rank": 28,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 224213,
+      "num": 224213,
+      "word": "你卖掉的旧手机可能会出卖你",
+      "onboard_time": 1726715119,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224119,
@@ -6011,14 +6059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208738,
-      "num": 208738,
-      "word": "尤长靖留在中国的原因",
-      "onboard_time": 1726716019,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 208675,
       "num": 208675,
       "word": "你的善良里藏着你的福气",
@@ -6307,6 +6347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 201967,
+      "num": 201967,
+      "word": "邓为 他的墨镜我的名字",
+      "onboard_time": 1726715960,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201855,
       "num": 201855,
       "word": "金晨新中式造型",
@@ -6320,14 +6368,6 @@
       "word": "180斤记者在沪浙交界处被吹得凌乱了",
       "onboard_time": 1726463839,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 201277,
-      "num": 201277,
-      "word": "你卖掉的旧手机可能会出卖你",
-      "onboard_time": 1726715119,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -6505,14 +6545,6 @@
       "onboard_time": 1726539739,
       "rank": 42,
       "category": "数码"
-    },
-    {
-      "raw_hot": 197402,
-      "num": 197402,
-      "word": "消费者发现向小杨哥三只羊索赔艰难",
-      "onboard_time": 1726716019,
-      "rank": 40,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 197111,
@@ -6811,6 +6843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191873,
+      "num": 191873,
+      "word": "MK预告",
+      "onboard_time": 1726717040,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 191349,
       "num": 212681,
       "word": "流水迢迢女主是如何爱上男主的",
@@ -6985,14 +7025,6 @@
       "onboard_time": 1726714280,
       "rank": 37,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 187924,
-      "num": 187924,
-      "word": "邓为 他的墨镜我的名字",
-      "onboard_time": 1726715960,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 187628,
@@ -7371,14 +7403,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 178890,
-      "num": 178890,
-      "word": "黎巴嫩多地电力系统也发生爆炸",
-      "onboard_time": 1726712120,
-      "rank": 46,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 178737,
       "num": 178737,
       "word": "追授杨士莪时代楷模称号",
@@ -7435,6 +7459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 178029,
+      "num": 178029,
+      "word": "C919首次飞抵拉萨",
+      "onboard_time": 1726716920,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177728,
       "num": 177728,
       "word": "小杨哥所售茅台曾被茅台官方打假",
@@ -7457,6 +7489,14 @@
       "onboard_time": 1726327162,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177359,
+      "num": 177359,
+      "word": "偶遇黄圣依录再见爱人4",
+      "onboard_time": 1726716620,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 177268,
@@ -7873,6 +7913,14 @@
       "onboard_time": 1726533738,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 167805,
+      "num": 167805,
+      "word": "华为秋季新品发布会定档9月24日",
+      "onboard_time": 1726717040,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 167631,
@@ -10843,6 +10891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101088,
+      "num": 252825,
+      "word": "豪华车价格整顿打响第一枪",
+      "onboard_time": 1726716740,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 100910,
       "num": 100910,
       "word": "ive成员对自己的定位",
@@ -11395,6 +11451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71948,
+      "num": 513048,
+      "word": "美联储降息或增加全球资产泡沫风险",
+      "onboard_time": 1726715119,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 70834,
       "num": 598789,
       "word": "奶茶店员工回应被绑手挂谢罪牌",
@@ -11571,20 +11635,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 62450,
-      "num": 513048,
-      "word": "美联储降息或增加全球资产泡沫风险",
-      "onboard_time": 1726715119,
-      "rank": 14,
-      "category": "财经"
-    },
-    {
       "raw_hot": 62304,
       "num": 260539,
       "word": "学生永远是张桂梅最想保护的人",
       "onboard_time": 1726664543,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 61955,
+      "num": 587471,
+      "word": "黎巴嫩连续爆炸后以色列总理首发声",
+      "onboard_time": 1726710439,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 61818,
@@ -11595,12 +11659,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61645,
+      "num": 167921,
+      "word": "一起云游阿勒泰",
+      "onboard_time": 1726717101,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 61597,
       "num": 477601,
       "word": "遗忘在妈妈身体里的节育环",
       "onboard_time": 1726643058,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61364,
+      "num": 522719,
+      "word": "吴彦祖回应三角洲里都是彦祖",
+      "onboard_time": 1726713559,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 60603,
@@ -11721,14 +11801,6 @@
       "onboard_time": 1726458199,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52584,
-      "num": 509927,
-      "word": "吴彦祖回应三角洲里都是彦祖",
-      "onboard_time": 1726713559,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 52497,
@@ -12065,14 +12137,6 @@
       "onboard_time": 1726567998,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40686,
-      "num": 587471,
-      "word": "黎巴嫩连续爆炸后以色列总理首发声",
-      "onboard_time": 1726710439,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 40521,
@@ -12980,7 +13044,7 @@
     },
     {
       "raw_hot": 8049,
-      "num": 819188,
+      "num": 1085983,
       "word": "2024北京文化论坛",
       "onboard_time": 1726715000,
       "rank": 2,
