@@ -1,6 +1,6 @@
 {
   "startTime": 1726676797598,
-  "endTime": 1726731342335,
+  "endTime": 1726734510632,
   "band_list": [
     {
       "raw_hot": 13826634,
@@ -8,6 +8,14 @@
       "word": "黄晓明官宣恋情",
       "onboard_time": 1726728865,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 7841142,
+      "num": 479235,
+      "word": "叶珂晒聊天记录",
+      "onboard_time": 1726729765,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -19,20 +27,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 6051381,
-      "num": 403835,
-      "word": "叶珂晒聊天记录",
-      "onboard_time": 1726729765,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 5005937,
       "num": 403101,
       "word": "黄晓明 你别做我来做",
       "onboard_time": 1726729586,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3500906,
+      "num": 484877,
+      "word": "湖南省财政厅厅长刘文杰意外去世",
+      "onboard_time": 1726733127,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2838889,
@@ -73,6 +81,14 @@
       "onboard_time": 1726724788,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2048993,
+      "num": 478687,
+      "word": "你别做我来做",
+      "onboard_time": 1726729586,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1980624,
@@ -195,6 +211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 880317,
+      "num": 880317,
+      "word": "梁王组合无缘8强",
+      "onboard_time": 1726730967,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 872254,
       "num": 872254,
       "word": "合肥地震",
@@ -257,6 +281,14 @@
       "onboard_time": 1726715600,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 706494,
+      "num": 490867,
+      "word": "黄景瑜单手抱关晓彤",
+      "onboard_time": 1726730427,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 700162,
@@ -329,6 +361,14 @@
       "onboard_time": 1726716019,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 625026,
+      "num": 625026,
+      "word": "台湾唯一慰安妇铜像918当天被移除",
+      "onboard_time": 1726733487,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 613102,
@@ -435,8 +475,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 485135,
-      "num": 485135,
+      "raw_hot": 492732,
+      "num": 492732,
       "word": "黎巴嫩",
       "onboard_time": 1726720651,
       "rank": 43,
@@ -483,11 +523,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 455914,
+      "num": 455914,
+      "word": "台风排班表",
+      "onboard_time": 1726727359,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 449222,
       "num": 449222,
       "word": "杭州震感明显",
       "onboard_time": 1726662628,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 436297,
+      "num": 298305,
+      "word": "丈夫打麻将被扔靠枕后殴打怀孕妻子",
+      "onboard_time": 1726731148,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -497,6 +553,14 @@
       "onboard_time": 1726718060,
       "rank": 28,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 429884,
+      "num": 429884,
+      "word": "2024年国庆放假安排来了",
+      "onboard_time": 1726730967,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 423857,
@@ -595,14 +659,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 359722,
-      "num": 359722,
-      "word": "台风排班表",
-      "onboard_time": 1726727359,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 355971,
       "num": 355971,
       "word": "易烊千玺杂志",
@@ -617,6 +673,14 @@
       "onboard_time": 1726719329,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348548,
+      "num": 348548,
+      "word": "狗狗以为捡了树枝奶奶就要它了",
+      "onboard_time": 1726732827,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 346892,
@@ -699,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304167,
+      "num": 304167,
+      "word": "与辉同行卖的澳门月饼在澳无门店",
+      "onboard_time": 1726731208,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300625,
       "num": 300625,
       "word": "刘亚仁涉嫌性侵被判无罪",
@@ -755,12 +827,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 279629,
+      "num": 279629,
+      "word": "苹果承认更新iPadOS18后会黑屏",
+      "onboard_time": 1726733426,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 279419,
       "num": 279419,
       "word": "黎巴嫩多地对讲机爆炸20死450伤",
       "onboard_time": 1726702039,
       "rank": 23,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 274293,
+      "num": 274293,
+      "word": "娟子被抓",
+      "onboard_time": 1726734087,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 273969,
@@ -801,6 +889,14 @@
       "onboard_time": 1726661786,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257524,
+      "num": 257524,
+      "word": "多囊卵巢综合征影响的不只是生育",
+      "onboard_time": 1726728806,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 256561,
@@ -873,14 +969,6 @@
       "onboard_time": 1726712120,
       "rank": 46,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 230777,
-      "num": 230777,
-      "word": "多囊卵巢综合征影响的不只是生育",
-      "onboard_time": 1726728806,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 229950,
@@ -979,6 +1067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 211769,
+      "num": 211769,
+      "word": "国庆连休7天",
+      "onboard_time": 1726733307,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211725,
       "num": 211725,
       "word": "接牙膏事业运",
@@ -1001,6 +1097,14 @@
       "onboard_time": 1726718301,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210160,
+      "num": 210160,
+      "word": "蔡徐坤米兰人气",
+      "onboard_time": 1726733968,
+      "rank": 36,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 208998,
@@ -1283,12 +1387,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 171821,
+      "num": 171821,
+      "word": "黄晓明艾特叶珂",
+      "onboard_time": 1726731269,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171307,
       "num": 171307,
       "word": "易烊千玺AnotherMan",
       "onboard_time": 1726729826,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 168239,
+      "num": 168239,
+      "word": "赵丽颖 浴火之路",
+      "onboard_time": 1726733728,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 167805,
@@ -1377,6 +1497,14 @@
       "onboard_time": 1726702278,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 156391,
+      "num": 156391,
+      "word": "侯明昊就这么跟宋茜牵上了",
+      "onboard_time": 1726730607,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 155158,
@@ -1475,6 +1603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141036,
+      "num": 141036,
+      "word": "美联储降息跟外资撤离中国有什么关系",
+      "onboard_time": 1726733908,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 139077,
       "num": 139077,
       "word": "普拉桑将正面影响台州",
@@ -1489,6 +1625,14 @@
       "onboard_time": 1726673181,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136693,
+      "num": 136693,
+      "word": "网传大熊猫丁丁扑倒饲养员",
+      "onboard_time": 1726734387,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136533,
@@ -1948,7 +2092,7 @@
     },
     {
       "raw_hot": 38844,
-      "num": 150555,
+      "num": 350804,
       "word": "极氪7X全方位守护你和家人",
       "onboard_time": 1726730186,
       "rank": 45,
@@ -1985,6 +2129,14 @@
       "onboard_time": 1726728139,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33418,
+      "num": 195470,
+      "word": "秋天是时候换个男朋友了",
+      "onboard_time": 1726732286,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 33028,
@@ -2049,6 +2201,14 @@
       "onboard_time": 1726725920,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15860,
+      "num": 244268,
+      "word": "与众不同的王子异",
+      "onboard_time": 1726732588,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 8049,
