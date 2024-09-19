@@ -1,6 +1,6 @@
 {
   "startTime": 1726676797598,
-  "endTime": 1726723269882,
+  "endTime": 1726724313426,
   "band_list": [
     {
       "raw_hot": 2838889,
@@ -51,7 +51,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1577499,
+      "raw_hot": 1657203,
       "num": 1577499,
       "word": "网红直播调侃九一八被永久封号",
       "onboard_time": 1726716322,
@@ -219,6 +219,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 668764,
+      "num": 668764,
+      "word": "陈伟霆赵露思吻戏好欲",
+      "onboard_time": 1726718481,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 666581,
+      "num": 666581,
+      "word": "肖战机场",
+      "onboard_time": 1726720951,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 666038,
       "num": 666038,
       "word": "胡夏 披荆斩棘老子走了",
@@ -257,22 +273,6 @@
       "onboard_time": 1726713738,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 641971,
-      "num": 641971,
-      "word": "肖战机场",
-      "onboard_time": 1726720951,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 638363,
-      "num": 638363,
-      "word": "陈伟霆赵露思吻戏好欲",
-      "onboard_time": 1726718481,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 625510,
@@ -675,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258565,
+      "num": 258565,
+      "word": "硕博父子花14年养出报恩大闸蟹",
+      "onboard_time": 1726723529,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255692,
       "num": 255692,
       "word": "停止对部分台湾农产品0关税",
@@ -713,6 +721,14 @@
       "onboard_time": 1726713020,
       "rank": 9,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 240962,
+      "num": 240962,
+      "word": "台风普拉桑登陆点更靠近上海",
+      "onboard_time": 1726723170,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235078,
@@ -763,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225340,
+      "num": 225340,
+      "word": "王俊凯美高校草",
+      "onboard_time": 1726722569,
+      "rank": 48,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 220594,
       "num": 220594,
       "word": "黎巴嫩一医院附近发现爆炸装置",
@@ -787,6 +811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 216208,
+      "num": 216208,
+      "word": "台风苏力生成",
+      "onboard_time": 1726722869,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214818,
       "num": 300035,
       "word": "蔡徐坤出发米兰时装周路透",
@@ -801,6 +833,14 @@
       "onboard_time": 1726720651,
       "rank": 43,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 212740,
+      "num": 212740,
+      "word": "KPL年度总决赛赛程赛制公布",
+      "onboard_time": 1726723111,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 211725,
@@ -867,36 +907,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204316,
-      "num": 204316,
-      "word": "KPL年度总决赛赛程赛制公布",
-      "onboard_time": 1726723111,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 203733,
-      "num": 203733,
-      "word": "台风普拉桑登陆点更靠近上海",
-      "onboard_time": 1726723170,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203558,
       "num": 203558,
       "word": "凡人歌为了这句话铺垫36集",
       "onboard_time": 1726668203,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 201235,
-      "num": 201235,
-      "word": "王俊凯美高校草",
-      "onboard_time": 1726722569,
-      "rank": 48,
-      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 200728,
@@ -907,6 +923,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 200692,
+      "num": 200692,
+      "word": "易烊千玺水手造型",
+      "onboard_time": 1726723111,
+      "rank": 46,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 200598,
       "num": 200598,
       "word": "姚琛方灿天坛合照",
@@ -915,20 +939,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200162,
-      "num": 200162,
-      "word": "台风苏力生成",
-      "onboard_time": 1726722869,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200084,
       "num": 200084,
       "word": "iPhone16销量低于预期新证据",
       "onboard_time": 1726704200,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 198598,
+      "num": 198598,
+      "word": "汪苏泷杭州售罄",
+      "onboard_time": 1726724249,
+      "rank": 49,
+      "category": "演出,艺人"
     },
     {
       "raw_hot": 197111,
@@ -960,6 +984,14 @@
       "word": "时代少年团获年度推荐演唱会",
       "onboard_time": 1726720226,
       "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 192909,
+      "num": 198611,
+      "word": "Coldplay巡演官宣",
+      "onboard_time": 1726724009,
+      "rank": 47,
       "category": "演出"
     },
     {
@@ -1395,6 +1427,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 99907,
+      "num": 465986,
+      "word": "路边摊为何越来越吃不起了",
+      "onboard_time": 1726722208,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96552,
       "num": 96552,
       "word": "合肥地震居民从睡梦中被摇醒",
@@ -1531,6 +1571,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 69744,
+      "num": 414829,
+      "word": "田曦薇齐刘海九宫格",
+      "onboard_time": 1726723349,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 69656,
       "num": 61849,
       "word": "美联储2020年以来首次降息",
@@ -1579,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53726,
+      "num": 585362,
+      "word": "业内人士称电动车被收超时占位费合法",
+      "onboard_time": 1726722208,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52180,
       "num": 52180,
       "word": "卢昱晓素颜上班",
@@ -1587,12 +1643,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 51140,
-      "num": 465986,
-      "word": "路边摊为何越来越吃不起了",
-      "onboard_time": 1726722208,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 49011,
+      "num": 246845,
+      "word": "咪咕汇超绝solo舞台",
+      "onboard_time": 1726723529,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 46413,
@@ -1635,6 +1691,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 38258,
+      "num": 550037,
+      "word": "网贷平台协议暗藏条款获取用户信息",
+      "onboard_time": 1726722150,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37401,
       "num": 37401,
       "word": "教育局介入调查学生晚上如厕算违纪",
@@ -1667,6 +1731,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29205,
+      "num": 410770,
+      "word": "唐嫣同款包包",
+      "onboard_time": 1726722208,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28064,
       "num": 28064,
       "word": "特朗普自问自答为啥被刺杀的总是我",
@@ -1675,36 +1747,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 25014,
-      "num": 396572,
-      "word": "唐嫣同款包包",
-      "onboard_time": 1726722208,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 24270,
-      "num": 585362,
-      "word": "业内人士称电动车被收超时占位费合法",
-      "onboard_time": 1726722208,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 23455,
       "num": 336056,
       "word": "山花烂漫时第11集镜头隐喻",
       "onboard_time": 1726719391,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19802,
-      "num": 550037,
-      "word": "网贷平台协议暗藏条款获取用户信息",
-      "onboard_time": 1726722150,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8049,
