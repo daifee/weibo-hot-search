@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/19 17:36:57
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/19 18:23:20
 </p>
 </blockquote>
 <p>
@@ -4905,6 +4905,12 @@ WTT世界乒联致歉（热度：808824）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E7%9A%84%E5%A4%B4%E5%83%8F%23" target="weibo">
+黄晓明的头像（热度：803983）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%95%99%E9%BB%84%E6%99%AF%E7%91%9C%E8%BF%99%E4%B9%88%E5%85%B3%E8%BD%A6%E9%97%A8%E7%9A%84%23" target="weibo">
 谁教黄景瑜这么关车门的（热度：802622）
 </a>
@@ -6005,12 +6011,6 @@ NewJeans直播（热度：685781）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9Cvs%E9%AB%98%E6%89%BF%E7%9D%BF%23" target="weibo">
 林高远vs高承睿（热度：675442）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%236%E4%B8%AA%E6%9C%88%E7%BD%91%E8%B4%AD106%E9%83%A8%E6%89%8B%E6%9C%BA%E5%9D%87%E7%94%B3%E8%AF%B7%E9%80%80%E8%B4%A7%23" target="weibo">
-6个月网购106部手机均申请退货（热度：674560）
 </a>
 </li>
 
