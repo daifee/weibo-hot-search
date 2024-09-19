@@ -1,6 +1,6 @@
 {
   "startTime": 1726676797598,
-  "endTime": 1726744734053,
+  "endTime": 1726745740419,
   "band_list": [
     {
       "raw_hot": 13826634,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1402682,
+      "num": 1402682,
+      "word": "微信朋友圈支持live图",
+      "onboard_time": 1726743022,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1354400,
       "num": 1354400,
       "word": "几乎每轮降息都带来美国经济衰退",
@@ -176,6 +184,14 @@
       "word": "犯了众怒的三只羊要付出代价",
       "onboard_time": 1726710080,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1054320,
+      "num": 1054320,
+      "word": "台风普拉桑登陆浙江",
+      "onboard_time": 1726745062,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -241,14 +257,6 @@
       "onboard_time": 1726734626,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 886620,
-      "num": 886620,
-      "word": "微信朋友圈支持live图",
-      "onboard_time": 1726743022,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 880317,
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 641134,
-      "num": 325274,
+      "num": 332166,
       "word": "4岁男孩患上皮肤饥饿症",
       "onboard_time": 1726737506,
       "rank": 46,
@@ -540,7 +548,7 @@
     },
     {
       "raw_hot": 477396,
-      "num": 348107,
+      "num": 428213,
       "word": "张翰终于把头套摘了",
       "onboard_time": 1726740201,
       "rank": 24,
@@ -681,6 +689,14 @@
       "onboard_time": 1726721669,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 373400,
+      "num": 373400,
+      "word": "台风普拉桑将在浙江上海一带再次登陆",
+      "onboard_time": 1726744726,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 368590,
@@ -916,7 +932,7 @@
     },
     {
       "raw_hot": 286903,
-      "num": 286903,
+      "num": 308007,
       "word": "李兰迪生图",
       "onboard_time": 1726739361,
       "rank": 25,
@@ -1043,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250101,
+      "num": 250101,
+      "word": "上海台风",
+      "onboard_time": 1726742602,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245826,
       "num": 245826,
       "word": "心跳慢的人更容易长寿",
@@ -1075,20 +1099,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 235921,
-      "num": 235921,
-      "word": "上海台风",
-      "onboard_time": 1726742602,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235078,
       "num": 235078,
       "word": "黎巴嫩多地电力系统也发生爆炸",
       "onboard_time": 1726712120,
       "rank": 46,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 233264,
+      "num": 222734,
+      "word": "饿到什么程度才会开始燃烧脂肪",
+      "onboard_time": 1726743262,
+      "rank": 33,
+      "category": "运动健身"
     },
     {
       "raw_hot": 229950,
@@ -1168,6 +1192,14 @@
       "word": "台风苏力生成",
       "onboard_time": 1726722869,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215469,
+      "num": 215469,
+      "word": "梅姨案9个被拐孩子还有1个没找到",
+      "onboard_time": 1726744702,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1467,14 +1499,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 185519,
-      "num": 185519,
-      "word": "饿到什么程度才会开始燃烧脂肪",
-      "onboard_time": 1726743262,
-      "rank": 33,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 184944,
       "num": 184944,
       "word": "Note14",
@@ -1563,6 +1587,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 173211,
+      "num": 173211,
+      "word": "乐道发布会",
+      "onboard_time": 1726744161,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 172623,
       "num": 172623,
       "word": "合肥地震超12万人收到地震预警",
@@ -1601,6 +1633,14 @@
       "onboard_time": 1726729826,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 170572,
+      "num": 170572,
+      "word": "微信回应安卓何时能发live图",
+      "onboard_time": 1726745242,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 168239,
@@ -1707,14 +1747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158596,
-      "num": 158596,
-      "word": "乐道发布会",
-      "onboard_time": 1726744161,
-      "rank": 38,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 158188,
       "num": 158188,
       "word": "00后中秋回村成了最大显眼包",
@@ -1779,12 +1811,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 152356,
+      "num": 279990,
+      "word": "葛晓倩晒与袁巴元聊天记录",
+      "onboard_time": 1726743801,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147840,
       "num": 147840,
       "word": "Jennie官网倒计时",
       "onboard_time": 1726664244,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147811,
+      "num": 200061,
+      "word": "半熟男女捞男锁定富二代",
+      "onboard_time": 1726745303,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 147727,
@@ -1899,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138639,
+      "num": 138639,
+      "word": "国足排名世界第91",
+      "onboard_time": 1726745662,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138107,
       "num": 138107,
       "word": "江慈这是什么爽女人设",
@@ -1987,19 +2043,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129194,
+      "num": 129194,
+      "word": "拿出奖章才发现网约车司机是真劳模",
+      "onboard_time": 1726745242,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129079,
       "num": 129079,
       "word": "国庆节假期7天高速免费",
       "onboard_time": 1726735286,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127973,
-      "num": 127973,
-      "word": "梅姨案9个被拐孩子还有1个没找到",
-      "onboard_time": 1726744702,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -2057,6 +2113,14 @@
       "onboard_time": 1726625780,
       "rank": 38,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 115393,
+      "num": 122323,
+      "word": "直角肩是种异常体态",
+      "onboard_time": 1726745662,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 113424,
@@ -2144,6 +2208,14 @@
       "word": "路边摊为何越来越吃不起了",
       "onboard_time": 1726722208,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99378,
+      "num": 324565,
+      "word": "恶意举报34万余次非法获利数百万",
+      "onboard_time": 1726743743,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2235,8 +2307,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77684,
-      "num": 314207,
+      "raw_hot": 80699,
+      "num": 316293,
       "word": "杨幂地广路过都得念两句",
       "onboard_time": 1726740742,
       "rank": 31,
@@ -2265,6 +2337,14 @@
       "onboard_time": 1726678934,
       "rank": 32,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 74003,
+      "num": 298047,
+      "word": "暑假代画手抄报月入5000元",
+      "onboard_time": 1726743801,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73849,
@@ -2379,14 +2459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58876,
-      "num": 324565,
-      "word": "恶意举报34万余次非法获利数百万",
-      "onboard_time": 1726743743,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 58012,
       "num": 277205,
       "word": "00后小伙打瘦脸针中毒入院",
@@ -2435,12 +2507,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51828,
-      "num": 279990,
-      "word": "葛晓倩晒与袁巴元聊天记录",
-      "onboard_time": 1726743801,
-      "rank": 18,
+      "raw_hot": 50622,
+      "num": 234780,
+      "word": "黄晓明爱情观",
+      "onboard_time": 1726745062,
+      "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 50341,
+      "num": 273316,
+      "word": "男子应聘司机却背上十几万贷款",
+      "onboard_time": 1726743743,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49979,
@@ -2475,14 +2555,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 46562,
-      "num": 298047,
-      "word": "暑假代画手抄报月入5000元",
-      "onboard_time": 1726743801,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 46413,
       "num": 635584,
       "word": "90年代偶像剧男神盘点",
@@ -2497,14 +2569,6 @@
       "onboard_time": 1726721430,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 44149,
-      "num": 273316,
-      "word": "男子应聘司机却背上十几万贷款",
-      "onboard_time": 1726743743,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43582,
@@ -2731,6 +2795,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 18465,
+      "num": 205792,
+      "word": "美联储降息支撑中国出口延续韧性",
+      "onboard_time": 1726743921,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18139,
       "num": 426349,
       "word": "健桥医院贩卖出生证明案移交审查起诉",
@@ -2745,14 +2817,6 @@
       "onboard_time": 1726732588,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 14982,
-      "num": 205792,
-      "word": "美联储降息支撑中国出口延续韧性",
-      "onboard_time": 1726743921,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8049,

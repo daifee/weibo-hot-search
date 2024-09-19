@@ -1,0 +1,402 @@
+{
+  "runTime": 1726745740419,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5354669,
+        "num": 5354669,
+        "word": "黄晓明官宣恋情",
+        "onboard_time": 1726728865,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1402682,
+        "num": 1402682,
+        "word": "微信朋友圈支持live图",
+        "onboard_time": 1726743022,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1054320,
+        "num": 1054320,
+        "word": "台风普拉桑登陆浙江",
+        "onboard_time": 1726745062,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759239,
+        "num": 759239,
+        "word": "台湾唯一慰安妇铜像918当天被移除",
+        "onboard_time": 1726733487,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1021473,
+        "num": 670282,
+        "word": "你别做我来做",
+        "onboard_time": 1726729586,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428213,
+        "num": 428213,
+        "word": "张翰终于把头套摘了",
+        "onboard_time": 1726740201,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 377348,
+        "num": 377348,
+        "word": "黎巴嫩一医院附近发现爆炸装置",
+        "onboard_time": 1726721492,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 373400,
+        "num": 373400,
+        "word": "台风普拉桑将在浙江上海一带再次登陆",
+        "onboard_time": 1726744726,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356669,
+        "num": 356669,
+        "word": "黎巴嫩",
+        "onboard_time": 1726720651,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1943441,
+        "num": 347113,
+        "word": "叶珂晒聊天记录",
+        "onboard_time": 1726729765,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1333129,
+        "num": 336691,
+        "word": "娟子被抓",
+        "onboard_time": 1726734087,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 418802,
+        "num": 332166,
+        "word": "4岁男孩患上皮肤饥饿症",
+        "onboard_time": 1726737506,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80699,
+        "num": 316293,
+        "word": "杨幂地广路过都得念两句",
+        "onboard_time": 1726740742,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142407,
+        "num": 308007,
+        "word": "李兰迪生图",
+        "onboard_time": 1726739361,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299826,
+        "num": 299826,
+        "word": "俄女首富称丈夫闯进公司开枪突袭",
+        "onboard_time": 1726743262,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250101,
+        "num": 250101,
+        "word": "上海台风",
+        "onboard_time": 1726742602,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50622,
+        "num": 234780,
+        "word": "黄晓明爱情观",
+        "onboard_time": 1726745062,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195850,
+        "num": 233699,
+        "word": "2024年国庆放假安排来了",
+        "onboard_time": 1726730967,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233138,
+        "num": 233138,
+        "word": "顺丰快递员当街殴打怀孕妻子被行拘",
+        "onboard_time": 1726739782,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339093,
+        "num": 229747,
+        "word": "女子PPT曝男友嫖娼或构成侵权",
+        "onboard_time": 1726724788,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233264,
+        "num": 222734,
+        "word": "饿到什么程度才会开始燃烧脂肪",
+        "onboard_time": 1726743262,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 215469,
+        "num": 215469,
+        "word": "梅姨案9个被拐孩子还有1个没找到",
+        "onboard_time": 1726744702,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147811,
+        "num": 200061,
+        "word": "半熟男女捞男锁定富二代",
+        "onboard_time": 1726745303,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167229,
+        "num": 197705,
+        "word": "黄景瑜单手抱关晓彤",
+        "onboard_time": 1726730427,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197569,
+        "num": 197569,
+        "word": "scout疑似恋爱",
+        "onboard_time": 1726739903,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 40930,
+        "num": 191417,
+        "word": "明天抢iPhone16现货能价保到双11",
+        "onboard_time": 1726743921,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 189787,
+        "num": 189787,
+        "word": "黎巴嫩多地寻呼机爆炸",
+        "onboard_time": 1726724668,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 74003,
+        "num": 177700,
+        "word": "暑假代画手抄报月入5000元",
+        "onboard_time": 1726743801,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158559,
+        "num": 174374,
+        "word": "Jennie方否认与BamBam恋情",
+        "onboard_time": 1726737384,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99378,
+        "num": 173587,
+        "word": "恶意举报34万余次非法获利数百万",
+        "onboard_time": 1726743743,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173211,
+        "num": 173211,
+        "word": "乐道发布会",
+        "onboard_time": 1726744161,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 170572,
+        "num": 170572,
+        "word": "微信回应安卓何时能发live图",
+        "onboard_time": 1726745242,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 18465,
+        "num": 169286,
+        "word": "美联储降息支撑中国出口延续韧性",
+        "onboard_time": 1726743921,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168039,
+        "num": 168039,
+        "word": "普拉桑将给南京带来9级大风和暴雨",
+        "onboard_time": 1726740261,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152356,
+        "num": 152356,
+        "word": "葛晓倩晒与袁巴元聊天记录",
+        "onboard_time": 1726743801,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133923,
+        "num": 152256,
+        "word": "陈伟霆晒与赵露思合照",
+        "onboard_time": 1726739543,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152170,
+        "num": 152170,
+        "word": "女子买五花肉肥肉全被扎带隐藏",
+        "onboard_time": 1726737624,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148579,
+        "num": 148579,
+        "word": "普拉桑",
+        "onboard_time": 1726745720,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148288,
+        "num": 148288,
+        "word": "普拉桑还没来苏力已在生成",
+        "onboard_time": 1726742542,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144304,
+        "num": 144304,
+        "word": "合肥地震",
+        "onboard_time": 1726661786,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138639,
+        "num": 138639,
+        "word": "国足排名世界第91",
+        "onboard_time": 1726745662,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131002,
+        "num": 131002,
+        "word": "做美诚月饼的米其林大厨到底是谁",
+        "onboard_time": 1726742001,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 129194,
+        "num": 129194,
+        "word": "拿出奖章才发现网约车司机是真劳模",
+        "onboard_time": 1726745242,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50341,
+        "num": 128169,
+        "word": "男子应聘司机却背上十几万贷款",
+        "onboard_time": 1726743743,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127553,
+        "num": 127553,
+        "word": "狗狗以为捡了树枝奶奶就要它了",
+        "onboard_time": 1726732827,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127041,
+        "num": 127041,
+        "word": "丈夫打麻将被扔靠枕后殴打怀孕妻子",
+        "onboard_time": 1726731148,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210386,
+        "num": 124570,
+        "word": "央广网评装聋作哑的三只羊",
+        "onboard_time": 1726713858,
+        "rank": 47,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 115393,
+        "num": 122323,
+        "word": "直角肩是种异常体态",
+        "onboard_time": 1726745662,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 121233,
+        "num": 121233,
+        "word": "梁王组合无缘8强",
+        "onboard_time": 1726730967,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队淬火向前#"
+    }
+  }
+}
