@@ -1,6 +1,6 @@
 {
   "startTime": 1726676797598,
-  "endTime": 1726752479890,
+  "endTime": 1726753167015,
   "band_list": [
     {
       "raw_hot": 13826634,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 677219,
+      "num": 422402,
+      "word": "袁巴元承认改分手协议日期",
+      "onboard_time": 1726749201,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 668764,
       "num": 668764,
       "word": "陈伟霆赵露思吻戏好欲",
@@ -393,6 +401,14 @@
       "onboard_time": 1726675279,
       "rank": 7,
       "category": "国外时政,军事"
+    },
+    {
+      "raw_hot": 656918,
+      "num": 656918,
+      "word": "微信回应安卓何时能发live图",
+      "onboard_time": 1726745242,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 654256,
@@ -451,14 +467,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 606357,
-      "num": 422402,
-      "word": "袁巴元承认改分手协议日期",
-      "onboard_time": 1726749201,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 601951,
       "num": 377827,
       "word": "室友电瓶爆燃大三男生全身90%烧伤",
@@ -497,14 +505,6 @@
       "onboard_time": 1726724668,
       "rank": 10,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 558929,
-      "num": 558929,
-      "word": "微信回应安卓何时能发live图",
-      "onboard_time": 1726745242,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 545902,
@@ -891,6 +891,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 329995,
+      "num": 244822,
+      "word": "家暴男子在离婚法庭上扛起妻子就跑",
+      "onboard_time": 1726750822,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325828,
       "num": 325828,
       "word": "男子挤破身上痘痘住进ICU",
@@ -923,6 +931,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 309240,
+      "num": 277180,
+      "word": "男子被同学驾车多次撞击碾压致死",
+      "onboard_time": 1726746200,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304219,
       "num": 304219,
       "word": "村长李锐没认出森碟亮仔",
@@ -947,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299140,
+      "num": 245420,
+      "word": "半熟男女 向所有纯爱战士致歉",
+      "onboard_time": 1726750942,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 296862,
       "num": 296862,
       "word": "以色列在5000台寻呼机内安装炸药",
@@ -959,14 +983,6 @@
       "num": 295756,
       "word": "合肥4.7级地震",
       "onboard_time": 1726662451,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 294883,
-      "num": 225800,
-      "word": "家暴男子在离婚法庭上扛起妻子就跑",
-      "onboard_time": 1726750822,
       "rank": 22,
       "category": "社会新闻"
     },
@@ -1033,14 +1049,6 @@
       "onboard_time": 1726702039,
       "rank": 23,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 277180,
-      "num": 277180,
-      "word": "男子被同学驾车多次撞击碾压致死",
-      "onboard_time": 1726746200,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 273969,
@@ -1195,14 +1203,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 241780,
-      "num": 241780,
-      "word": "半熟男女 向所有纯爱战士致歉",
-      "onboard_time": 1726750942,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 240421,
       "num": 240421,
       "word": "Prada大秀",
@@ -1225,6 +1225,14 @@
       "onboard_time": 1726743262,
       "rank": 33,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 232070,
+      "num": 232070,
+      "word": "乐道发布会",
+      "onboard_time": 1726744161,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 229950,
@@ -1267,19 +1275,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227433,
+      "num": 227433,
+      "word": "180斤7XL女孩当汉服模特月入过万",
+      "onboard_time": 1726751903,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226082,
       "num": 226082,
       "word": "人均3000元餐厅主厨代言美诚月饼",
       "onboard_time": 1726658480,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 225515,
-      "num": 225515,
-      "word": "180斤7XL女孩当汉服模特月入过万",
-      "onboard_time": 1726751903,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -1299,12 +1307,12 @@
       "category": "互联网,网红"
     },
     {
-      "raw_hot": 222075,
-      "num": 222075,
-      "word": "乐道发布会",
-      "onboard_time": 1726744161,
-      "rank": 38,
-      "category": "汽车"
+      "raw_hot": 220934,
+      "num": 245007,
+      "word": "王子奇刚当上人妻 王星越就出手了",
+      "onboard_time": 1726752022,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 218623,
@@ -1563,6 +1571,14 @@
       "category": "演出,艺人"
     },
     {
+      "raw_hot": 198546,
+      "num": 198546,
+      "word": "央视起底网络乱象",
+      "onboard_time": 1726748661,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198247,
       "num": 198247,
       "word": "offer6普信3分钟",
@@ -1659,6 +1675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 185311,
+      "num": 202363,
+      "word": "贾玲李现同框看秀",
+      "onboard_time": 1726752802,
+      "rank": 28,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 184944,
       "num": 184944,
       "word": "Note14",
@@ -1681,6 +1705,14 @@
       "onboard_time": 1726725148,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 181782,
+      "num": 181782,
+      "word": "一诺赵嘉敏游环球影城",
+      "onboard_time": 1726751423,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 180913,
@@ -1739,20 +1771,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 175663,
-      "num": 175663,
-      "word": "央视起底网络乱象",
-      "onboard_time": 1726748661,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174260,
       "num": 174260,
       "word": "做美诚月饼的米其林大厨到底是谁",
       "onboard_time": 1726742001,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 173040,
+      "num": 173040,
+      "word": "WBG8淘汰吃鸡",
+      "onboard_time": 1726752742,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 172623,
@@ -1907,14 +1939,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 159034,
-      "num": 159034,
-      "word": "王子奇刚当上人妻 王星越就出手了",
-      "onboard_time": 1726752022,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158979,
       "num": 286150,
       "word": "网购19万大牌包用假货申请退款",
@@ -1995,6 +2019,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 153704,
+      "num": 153704,
+      "word": "黄晓明叶珂恋情时间线",
+      "onboard_time": 1726751961,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153550,
       "num": 153550,
       "word": "4个动作缓解腰背僵硬",
@@ -2017,14 +2049,6 @@
       "onboard_time": 1726749381,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150852,
-      "num": 150852,
-      "word": "一诺赵嘉敏游环球影城",
-      "onboard_time": 1726751423,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 147840,
@@ -2299,12 +2323,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128946,
+      "num": 128946,
+      "word": "何同学iPhone16评测",
+      "onboard_time": 1726751722,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 128475,
       "num": 128475,
       "word": "外卖员送餐途中晕倒不认定为工伤",
       "onboard_time": 1726737084,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127442,
+      "num": 127442,
+      "word": "田曦薇演普女 说服力",
+      "onboard_time": 1726753104,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 127072,
@@ -2323,28 +2363,20 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 126686,
-      "num": 126686,
-      "word": "何同学iPhone16评测",
-      "onboard_time": 1726751722,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 126367,
-      "num": 126367,
-      "word": "黄晓明叶珂恋情时间线",
-      "onboard_time": 1726751961,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 125409,
       "num": 125409,
       "word": "2万买的金镯子清洗时被告知是假货",
       "onboard_time": 1726646298,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123941,
+      "num": 123941,
+      "word": "赵露思带了狗狗去米兰",
+      "onboard_time": 1726753042,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 122783,
@@ -2691,6 +2723,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 69163,
+      "num": 246173,
+      "word": "半熟男女 三观",
+      "onboard_time": 1726752261,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 68993,
       "num": 332451,
       "word": "石宇奇无缘8强",
@@ -2819,6 +2859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49995,
+      "num": 499664,
+      "word": "揭秘黎巴嫩寻呼机爆炸疑云",
+      "onboard_time": 1726751001,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49979,
       "num": 382317,
       "word": "媒体评河南叶县强拆大学生创业果园",
@@ -2860,7 +2908,7 @@
     },
     {
       "raw_hot": 45822,
-      "num": 160269,
+      "num": 206212,
       "word": "2024品质内衣白皮书",
       "onboard_time": 1726751722,
       "rank": 36,
@@ -2979,14 +3027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35851,
-      "num": 226303,
-      "word": "半熟男女 三观",
-      "onboard_time": 1726752261,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 35240,
       "num": 372258,
       "word": "被焦恩俊打戏硬控",
@@ -3083,14 +3123,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 27808,
-      "num": 499664,
-      "word": "揭秘黎巴嫩寻呼机爆炸疑云",
-      "onboard_time": 1726751001,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27069,
       "num": 226220,
       "word": "律师解读送养孩子是否违法",
@@ -3100,7 +3132,7 @@
     },
     {
       "raw_hot": 26141,
-      "num": 594217,
+      "num": 683373,
       "word": "把青春华章写在祖国大地上",
       "onboard_time": 1726752081,
       "rank": 2,
