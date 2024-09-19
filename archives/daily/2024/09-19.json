@@ -1,6 +1,6 @@
 {
   "startTime": 1726676797598,
-  "endTime": 1726749689326,
+  "endTime": 1726750671561,
   "band_list": [
     {
       "raw_hot": 13826634,
@@ -51,7 +51,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2543520,
+      "raw_hot": 2775458,
       "num": 837434,
       "word": "吴谨言肚子",
       "onboard_time": 1726748302,
@@ -467,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 584965,
+      "num": 655363,
+      "word": "半熟男女",
+      "onboard_time": 1726718301,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 582478,
       "num": 367058,
       "word": "老人捡蜗牛吃身亡2守灵者吃后也死",
@@ -521,14 +529,6 @@
       "onboard_time": 1726721492,
       "rank": 42,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 519854,
-      "num": 655363,
-      "word": "半熟男女",
-      "onboard_time": 1726718301,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 514270,
@@ -676,7 +676,7 @@
     },
     {
       "raw_hot": 403924,
-      "num": 301388,
+      "num": 324595,
       "word": "葛晓倩晒与袁巴元聊天记录",
       "onboard_time": 1726743801,
       "rank": 18,
@@ -745,6 +745,14 @@
       "onboard_time": 1726707321,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 365530,
+      "num": 365530,
+      "word": "微信回应安卓何时能发live图",
+      "onboard_time": 1726745242,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 362502,
@@ -844,7 +852,7 @@
     },
     {
       "raw_hot": 339603,
-      "num": 299963,
+      "num": 311944,
       "word": "张大奕关店",
       "onboard_time": 1726745960,
       "rank": 17,
@@ -897,6 +905,14 @@
       "onboard_time": 1726702817,
       "rank": 19,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 308062,
+      "num": 308062,
+      "word": "Jennie解释室内吸烟道歉的原因",
+      "onboard_time": 1726746561,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 304219,
@@ -953,14 +969,6 @@
       "onboard_time": 1726710740,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 289607,
-      "num": 289607,
-      "word": "微信回应安卓何时能发live图",
-      "onboard_time": 1726745242,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 288322,
@@ -1147,19 +1155,19 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 244758,
+      "num": 244758,
+      "word": "马龙活动",
+      "onboard_time": 1726749022,
+      "rank": 34,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 244742,
       "num": 244742,
       "word": "唐嫣fendi",
       "onboard_time": 1726727060,
       "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 244308,
-      "num": 244308,
-      "word": "Jennie解释室内吸烟道歉的原因",
-      "onboard_time": 1726746561,
-      "rank": 26,
       "category": "艺人"
     },
     {
@@ -1185,6 +1193,14 @@
       "onboard_time": 1726712120,
       "rank": 46,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 234902,
+      "num": 299658,
+      "word": "袁巴元承认改分手协议日期",
+      "onboard_time": 1726749201,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 233264,
@@ -1225,6 +1241,14 @@
       "onboard_time": 1726719625,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 228229,
+      "num": 228229,
+      "word": "邓为 人在巴黎但像在北京郊区",
+      "onboard_time": 1726745780,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 226082,
@@ -1321,14 +1345,6 @@
       "onboard_time": 1726717040,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 211120,
-      "num": 211120,
-      "word": "邓为 人在巴黎但像在北京郊区",
-      "onboard_time": 1726745780,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 210160,
@@ -1449,6 +1465,14 @@
       "onboard_time": 1726723111,
       "rank": 46,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 200680,
+      "num": 200680,
+      "word": "供人贩吃住却被他偷走孩子",
+      "onboard_time": 1726747039,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200598,
@@ -1619,14 +1643,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 181027,
-      "num": 181027,
-      "word": "供人贩吃住却被他偷走孩子",
-      "onboard_time": 1726747039,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180913,
       "num": 180913,
       "word": "幻兽帕鲁开发商回应",
@@ -1731,14 +1747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171362,
-      "num": 171362,
-      "word": "马龙活动",
-      "onboard_time": 1726749022,
-      "rank": 34,
-      "category": "体育,网红"
-    },
-    {
       "raw_hot": 171307,
       "num": 171307,
       "word": "易烊千玺AnotherMan",
@@ -1748,11 +1756,19 @@
     },
     {
       "raw_hot": 170703,
-      "num": 207040,
+      "num": 216979,
       "word": "井胧 壮壮妈",
       "onboard_time": 1726746381,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169421,
+      "num": 169421,
+      "word": "央视起底网络乱象",
+      "onboard_time": 1726748661,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168239,
@@ -1908,7 +1924,7 @@
     },
     {
       "raw_hot": 155009,
-      "num": 155009,
+      "num": 178230,
       "word": "赵丽颖将出席飞天奖",
       "onboard_time": 1726748541,
       "rank": 36,
@@ -2043,14 +2059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 142362,
-      "num": 299658,
-      "word": "袁巴元承认改分手协议日期",
-      "onboard_time": 1726749201,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 141931,
       "num": 141931,
       "word": "陈好人间清醒",
@@ -2076,7 +2084,7 @@
     },
     {
       "raw_hot": 140588,
-      "num": 140588,
+      "num": 217430,
       "word": "吴莫愁遗憾当年没选杨坤战队",
       "onboard_time": 1726749262,
       "rank": 38,
@@ -2129,6 +2137,14 @@
       "onboard_time": 1726737264,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 134872,
+      "num": 134872,
+      "word": "无意义的节假日值班是形式主义",
+      "onboard_time": 1726747342,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134801,
@@ -2203,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128475,
+      "num": 128475,
+      "word": "外卖员送餐途中晕倒不认定为工伤",
+      "onboard_time": 1726737084,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127072,
       "num": 127072,
       "word": "一代代军人淬火成钢的誓言",
@@ -2227,28 +2251,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124812,
+      "num": 124812,
+      "word": "rapper左一燐曝唐老师家暴",
+      "onboard_time": 1726750222,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122783,
       "num": 412823,
       "word": "微博音乐盛典年度推荐MV",
       "onboard_time": 1726726878,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 122542,
-      "num": 122542,
-      "word": "无意义的节假日值班是形式主义",
-      "onboard_time": 1726747342,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120568,
-      "num": 120568,
-      "word": "央视起底网络乱象",
-      "onboard_time": 1726748661,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119896,
@@ -2371,6 +2387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101172,
+      "num": 305921,
+      "word": "流水迢迢",
+      "onboard_time": 1726748721,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101088,
       "num": 685808,
       "word": "豪华车价格整顿打响第一枪",
@@ -2425,14 +2449,6 @@
       "onboard_time": 1726702278,
       "rank": 49,
       "category": "数码"
-    },
-    {
-      "raw_hot": 92849,
-      "num": 305921,
-      "word": "流水迢迢",
-      "onboard_time": 1726748721,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 89069,
@@ -2496,6 +2512,14 @@
       "word": "第一视角直击台风普拉桑",
       "onboard_time": 1726722390,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75569,
+      "num": 363434,
+      "word": "警方又找回一名梅姨案被拐儿童",
+      "onboard_time": 1726749381,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2739,14 +2763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 46135,
-      "num": 306711,
-      "word": "警方又找回一名梅姨案被拐儿童",
-      "onboard_time": 1726749381,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 45474,
       "num": 422234,
       "word": "暗夜与黎明观后感",
@@ -2820,7 +2836,7 @@
     },
     {
       "raw_hot": 38388,
-      "num": 302610,
+      "num": 335184,
       "word": "篮球之夜好多人呀",
       "onboard_time": 1726747220,
       "rank": 14,
@@ -2883,6 +2899,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 33713,
+      "num": 336748,
+      "word": "1200元能买到国宝级艺术家证书",
+      "onboard_time": 1726750521,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33028,
       "num": 421052,
       "word": "官方辟谣合肥一住宅楼地震后开裂",
@@ -2900,7 +2924,7 @@
     },
     {
       "raw_hot": 31115,
-      "num": 120574,
+      "num": 353973,
       "word": "任嘉伦李兰迪回应偷感夫妇",
       "onboard_time": 1726744341,
       "rank": 43,

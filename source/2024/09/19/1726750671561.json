@@ -1,0 +1,402 @@
+{
+  "runTime": 1726750671561,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2239417,
+        "num": 2239417,
+        "word": "微信朋友圈支持live图",
+        "onboard_time": 1726743022,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 819341,
+        "num": 819341,
+        "word": "合肥成立联合调查组核查三只羊问题",
+        "onboard_time": 1726748602,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2775458,
+        "num": 717807,
+        "word": "吴谨言肚子",
+        "onboard_time": 1726748302,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 709235,
+        "num": 709235,
+        "word": "台风普拉桑登陆浙江",
+        "onboard_time": 1726745062,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584965,
+        "num": 584965,
+        "word": "半熟男女",
+        "onboard_time": 1726746141,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 619447,
+        "num": 581955,
+        "word": "黄晓明的头像",
+        "onboard_time": 1726740861,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 562614,
+        "num": 562614,
+        "word": "台湾唯一慰安妇铜像918当天被移除",
+        "onboard_time": 1726733487,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 365530,
+        "num": 365530,
+        "word": "微信回应安卓何时能发live图",
+        "onboard_time": 1726745242,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 75569,
+        "num": 363434,
+        "word": "警方又找回一名梅姨案被拐儿童",
+        "onboard_time": 1726749381,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31012,
+        "num": 353973,
+        "word": "任嘉伦李兰迪回应偷感夫妇",
+        "onboard_time": 1726744341,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1341672,
+        "num": 353366,
+        "word": "娟子被抓",
+        "onboard_time": 1726734087,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 721814,
+        "num": 343535,
+        "word": "你别做我来做",
+        "onboard_time": 1726729586,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33713,
+        "num": 336748,
+        "word": "1200元能买到国宝级艺术家证书",
+        "onboard_time": 1726750521,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34049,
+        "num": 335184,
+        "word": "篮球之夜好多人呀",
+        "onboard_time": 1726747220,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 427231,
+        "num": 328741,
+        "word": "4岁男孩患上皮肤饥饿症",
+        "onboard_time": 1726737506,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324595,
+        "num": 324595,
+        "word": "葛晓倩晒与袁巴元聊天记录",
+        "onboard_time": 1726743801,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311944,
+        "num": 311944,
+        "word": "张大奕关店",
+        "onboard_time": 1726745960,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308062,
+        "num": 308062,
+        "word": "Jennie解释室内吸烟道歉的原因",
+        "onboard_time": 1726746561,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290051,
+        "num": 290051,
+        "word": "张翰终于把头套摘了",
+        "onboard_time": 1726740201,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 608345,
+        "num": 283657,
+        "word": "23岁弟弟离世姐姐崩溃大哭",
+        "onboard_time": 1726746200,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261263,
+        "num": 261263,
+        "word": "男子被同学驾车多次撞击碾压致死",
+        "onboard_time": 1726746200,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256678,
+        "num": 256678,
+        "word": "台风普拉桑将在浙江上海一带再次登陆",
+        "onboard_time": 1726744726,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244758,
+        "num": 244758,
+        "word": "马龙活动",
+        "onboard_time": 1726749022,
+        "rank": 23,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 234902,
+        "num": 234902,
+        "word": "袁巴元承认改分手协议日期",
+        "onboard_time": 1726749201,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228675,
+        "num": 228675,
+        "word": "女子PPT曝男友嫖娼或构成侵权",
+        "onboard_time": 1726724788,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228229,
+        "num": 228229,
+        "word": "邓为 人在巴黎但像在北京郊区",
+        "onboard_time": 1726745780,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220857,
+        "num": 220857,
+        "word": "黎巴嫩",
+        "onboard_time": 1726720651,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 140395,
+        "num": 217430,
+        "word": "吴莫愁遗憾当年没选杨坤战队",
+        "onboard_time": 1726749262,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136128,
+        "num": 216979,
+        "word": "井胧 壮壮妈",
+        "onboard_time": 1726746381,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216653,
+        "num": 216653,
+        "word": "黎巴嫩一医院附近发现爆炸装置",
+        "onboard_time": 1726721492,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 207333,
+        "num": 207333,
+        "word": "饿到什么程度才会开始燃烧脂肪",
+        "onboard_time": 1726743262,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 200680,
+        "num": 200680,
+        "word": "供人贩吃住却被他偷走孩子",
+        "onboard_time": 1726747039,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193548,
+        "num": 193548,
+        "word": "Prada大秀",
+        "onboard_time": 1726747703,
+        "rank": 33,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 126614,
+        "num": 178230,
+        "word": "赵丽颖将出席飞天奖",
+        "onboard_time": 1726748541,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169421,
+        "num": 169421,
+        "word": "央视起底网络乱象",
+        "onboard_time": 1726748661,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154845,
+        "num": 154845,
+        "word": "黎巴嫩爆炸已致37人死亡",
+        "onboard_time": 1726748120,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 146271,
+        "num": 146271,
+        "word": "恶意举报34万余次非法获利数百万",
+        "onboard_time": 1726743743,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134872,
+        "num": 134872,
+        "word": "无意义的节假日值班是形式主义",
+        "onboard_time": 1726747342,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128475,
+        "num": 128475,
+        "word": "外卖员送餐途中晕倒不认定为工伤",
+        "onboard_time": 1726737084,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126720,
+        "num": 126720,
+        "word": "咒术回战",
+        "onboard_time": 1726748602,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 124812,
+        "num": 124812,
+        "word": "rapper左一燐曝唐老师家暴",
+        "onboard_time": 1726750222,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114783,
+        "num": 114783,
+        "word": "乐道发布会",
+        "onboard_time": 1726744161,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 108972,
+        "num": 108972,
+        "word": "黎巴嫩真主党为什么还在用传呼机",
+        "onboard_time": 1726748120,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 107277,
+        "num": 107277,
+        "word": "叶珂 钻戒",
+        "onboard_time": 1726668203,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106806,
+        "num": 106806,
+        "word": "上海台风",
+        "onboard_time": 1726742602,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102997,
+        "num": 102997,
+        "word": "俄女首富称丈夫闯进公司开枪突袭",
+        "onboard_time": 1726743262,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101875,
+        "num": 101875,
+        "word": "合肥地震",
+        "onboard_time": 1726661786,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101172,
+        "num": 101172,
+        "word": "流水迢迢",
+        "onboard_time": 1726748721,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99417,
+        "num": 99417,
+        "word": "黎巴嫩多地寻呼机爆炸",
+        "onboard_time": 1726724668,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族共同体意识是民族团结之本#"
+    }
+  }
+}
