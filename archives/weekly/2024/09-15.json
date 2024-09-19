@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726759418344,
+  "endTime": 1726760286896,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -2307,6 +2307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 645851,
+      "num": 645851,
+      "word": "WTT名单",
+      "onboard_time": 1726757603,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 645391,
       "num": 645391,
       "word": "女方多次与不同对象闪婚闪离应提醒",
@@ -2385,14 +2393,6 @@
       "onboard_time": 1726557800,
       "rank": 16,
       "category": "网红"
-    },
-    {
-      "raw_hot": 635222,
-      "num": 635222,
-      "word": "WTT名单",
-      "onboard_time": 1726757603,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 635077,
@@ -3019,6 +3019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 521300,
+      "num": 521300,
+      "word": "合肥4.7级地震余震58次",
+      "onboard_time": 1726757483,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 520797,
       "num": 283574,
       "word": "女子轻断食一天吃11个玉米",
@@ -3491,14 +3499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 444978,
-      "num": 444978,
-      "word": "合肥4.7级地震余震58次",
-      "onboard_time": 1726757483,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 444226,
       "num": 247378,
       "word": "42岁已婚有娃生活的一天",
@@ -3747,6 +3747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 410403,
+      "num": 389160,
+      "word": "刘烨儿子在家叫妈出门叫姐",
+      "onboard_time": 1726756462,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 409987,
       "num": 258556,
       "word": "法国第一夫人真人客串网飞热门剧集",
@@ -3913,14 +3921,6 @@
       "onboard_time": 1726327220,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 389160,
-      "num": 389160,
-      "word": "刘烨儿子在家叫妈出门叫姐",
-      "onboard_time": 1726756462,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 387474,
@@ -8596,7 +8596,7 @@
     },
     {
       "raw_hot": 178133,
-      "num": 178133,
+      "num": 244094,
       "word": "安徽省地震局加密观测肥东震区",
       "onboard_time": 1726757541,
       "rank": 31,
@@ -9193,6 +9193,14 @@
       "onboard_time": 1726550960,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 166250,
+      "num": 166250,
+      "word": "朋友圈第一批发live的人",
+      "onboard_time": 1726759162,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 166077,
@@ -10091,6 +10099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151967,
+      "num": 525233,
+      "word": "云南一高校后勤回应3硕士被聘为宿管",
+      "onboard_time": 1726755144,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151806,
       "num": 151806,
       "word": "大帅张良节奏发动机",
@@ -10835,14 +10851,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 138948,
-      "num": 525233,
-      "word": "云南一高校后勤回应3硕士被聘为宿管",
-      "onboard_time": 1726755144,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138929,
       "num": 138929,
       "word": "光遇复刻",
@@ -11017,6 +11025,14 @@
       "onboard_time": 1726563921,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136139,
+      "num": 136139,
+      "word": "20余省份将受冷空气影响",
+      "onboard_time": 1726759221,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135575,
@@ -11249,14 +11265,6 @@
       "onboard_time": 1726540760,
       "rank": 48,
       "category": "数码"
-    },
-    {
-      "raw_hot": 132113,
-      "num": 132113,
-      "word": "20余省份将受冷空气影响",
-      "onboard_time": 1726759221,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131986,
@@ -11659,14 +11667,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 121329,
-      "num": 121329,
-      "word": "朋友圈第一批发live的人",
-      "onboard_time": 1726759162,
-      "rank": 47,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 121298,
       "num": 121298,
       "word": "台风天高层住户给玻璃贴个米字",
@@ -11833,6 +11833,14 @@
       "onboard_time": 1726400060,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117991,
+      "num": 117991,
+      "word": "卓沅成都站",
+      "onboard_time": 1726760061,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 117707,
@@ -12171,6 +12179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109213,
+      "num": 109213,
+      "word": "微信朋友圈live图不能单独关闭声音",
+      "onboard_time": 1726759941,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 109138,
       "num": 109138,
       "word": "夏目友人帐 温柔如期而至",
@@ -12353,6 +12369,14 @@
       "onboard_time": 1726485440,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103245,
+      "num": 103245,
+      "word": "金晨预告生气了",
+      "onboard_time": 1726760122,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 103141,
@@ -13027,6 +13051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74085,
+      "num": 444877,
+      "word": "00后小伙打破外国金牌垄断",
+      "onboard_time": 1726758443,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74003,
       "num": 298047,
       "word": "暑假代画手抄报月入5000元",
@@ -13113,6 +13145,14 @@
       "onboard_time": 1726683612,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 69381,
+      "num": 444226,
+      "word": "乐道L60售价20.69万租电14.99万",
+      "onboard_time": 1726756643,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 69189,
@@ -13361,14 +13401,6 @@
       "onboard_time": 1726495641,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 58622,
-      "num": 444226,
-      "word": "乐道L60售价20.69万租电14.99万",
-      "onboard_time": 1726756643,
-      "rank": 45,
-      "category": "汽车"
     },
     {
       "raw_hot": 58012,
@@ -13785,14 +13817,6 @@
       "onboard_time": 1726596553,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 45725,
-      "num": 444877,
-      "word": "00后小伙打破外国金牌垄断",
-      "onboard_time": 1726758443,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 45536,
