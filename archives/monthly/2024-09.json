@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726702525040,
+  "endTime": 1726709957456,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -827,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2178191,
+      "num": 2178191,
+      "word": "降息",
+      "onboard_time": 1726669823,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 2147868,
       "num": 1878921,
       "word": "东平佛山中学",
@@ -881,14 +889,6 @@
       "onboard_time": 1725194061,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2103305,
-      "num": 2103305,
-      "word": "降息",
-      "onboard_time": 1726669823,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 2097681,
@@ -1105,6 +1105,14 @@
       "onboard_time": 1726546459,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1903026,
+      "num": 541068,
+      "word": "欧阳妮妮患多囊性卵巢",
+      "onboard_time": 1726708281,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1890748,
@@ -2577,6 +2585,14 @@
       "onboard_time": 1726275561,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1354400,
+      "num": 1354400,
+      "word": "几乎每轮降息都带来美国经济衰退",
+      "onboard_time": 1726706241,
+      "rank": 1,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1351681,
@@ -4947,6 +4963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 934569,
+      "num": 934569,
+      "word": "张雨绮疑似被换角",
+      "onboard_time": 1726701436,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 932853,
       "num": 932853,
       "word": "悟空月饼",
@@ -6291,6 +6315,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 802906,
+      "num": 802906,
+      "word": "小英称有什么事都会坦然面对",
+      "onboard_time": 1726706901,
+      "rank": 4,
+      "category": "网红"
+    },
+    {
       "raw_hot": 802622,
       "num": 802622,
       "word": "谁教黄景瑜这么关车门的",
@@ -6995,6 +7027,14 @@
       "category": "国外时政,军事"
     },
     {
+      "raw_hot": 731325,
+      "num": 731325,
+      "word": "离婚后妻子要求分割婆婆买的房子",
+      "onboard_time": 1726701498,
+      "rank": 26,
+      "category": "社会新闻,剧集"
+    },
+    {
       "raw_hot": 731003,
       "num": 731003,
       "word": "空调安装工不系绳坠亡索赔房主百万",
@@ -7537,14 +7577,6 @@
       "onboard_time": 1726498101,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 687643,
-      "num": 687643,
-      "word": "张雨绮疑似被换角",
-      "onboard_time": 1726701436,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 687585,
@@ -8705,6 +8737,14 @@
       "onboard_time": 1725200661,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 613102,
+      "num": 613102,
+      "word": "黄金",
+      "onboard_time": 1726703117,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 613098,
@@ -9923,6 +9963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 541782,
+      "num": 541782,
+      "word": "已有13人荣获共和国勋章",
+      "onboard_time": 1726707861,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 541528,
       "num": 381230,
       "word": "第一天上幼儿园就知道她强的可怕",
@@ -11113,6 +11161,14 @@
       "onboard_time": 1726366998,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 492946,
+      "num": 492946,
+      "word": "赵露思白T配白裤",
+      "onboard_time": 1726704681,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 492291,
@@ -12955,6 +13011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 414946,
+      "num": 414946,
+      "word": "南柱赫退伍",
+      "onboard_time": 1726709059,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 414788,
       "num": 414788,
       "word": "女童骑车飞冲撞人被判主责妈妈不服",
@@ -14195,6 +14259,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 368590,
+      "num": 368590,
+      "word": "Jennie粉丝名RUBIES",
+      "onboard_time": 1726707321,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 367676,
       "num": 367676,
       "word": "王一博被自己无语到了",
@@ -14792,6 +14864,14 @@
       "word": "扬州震感",
       "onboard_time": 1726662687,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348758,
+      "num": 348758,
+      "word": "网红直播调侃918反怼网友管得多",
+      "onboard_time": 1726706541,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -15601,6 +15681,14 @@
       "onboard_time": 1726653259,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 325614,
+      "num": 325614,
+      "word": "58页PPT",
+      "onboard_time": 1726708520,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 325608,
@@ -17267,6 +17355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288322,
+      "num": 288322,
+      "word": "心脏骤停发作前身体会多次提醒你",
+      "onboard_time": 1726703058,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 288092,
       "num": 384100,
       "word": "敖子逸真替王源V50",
@@ -17827,12 +17923,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279419,
+      "num": 279419,
+      "word": "黎巴嫩多地对讲机爆炸20死450伤",
+      "onboard_time": 1726702039,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 278949,
       "num": 278949,
       "word": "黄庄月饼",
       "onboard_time": 1726285760,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 278766,
+      "num": 278766,
+      "word": "不吃早饭和不吃晚饭哪个危害大",
+      "onboard_time": 1726707920,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 278555,
@@ -18073,6 +18185,14 @@
       "onboard_time": 1725937699,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 273969,
+      "num": 273969,
+      "word": "关晓彤黄景瑜吻戏路透",
+      "onboard_time": 1726701436,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 273946,
@@ -21579,6 +21699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229617,
+      "num": 220507,
+      "word": "为什么越开肩反而越内扣",
+      "onboard_time": 1726708340,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 229575,
       "num": 229575,
       "word": "男子酒店洗澡后发现沐浴露瓶内发霉",
@@ -21937,14 +22065,6 @@
       "onboard_time": 1726018880,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 225323,
-      "num": 225323,
-      "word": "关晓彤黄景瑜吻戏路透",
-      "onboard_time": 1726701436,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 225217,
@@ -23491,14 +23611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 210412,
-      "num": 181177,
-      "word": "离婚后妻子要求分割婆婆买的房子",
-      "onboard_time": 1726701498,
-      "rank": 26,
-      "category": "社会新闻,剧集"
-    },
-    {
       "raw_hot": 210403,
       "num": 210403,
       "word": "影视飓风送全体员工iPhone16Pro",
@@ -24073,6 +24185,14 @@
       "onboard_time": 1725156738,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206745,
+      "num": 206745,
+      "word": "东京食尸鬼 帅的很超过",
+      "onboard_time": 1726705521,
+      "rank": 31,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 206726,
@@ -25355,6 +25475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 200084,
+      "num": 200084,
+      "word": "iPhone16销量低于预期新证据",
+      "onboard_time": 1726704200,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 200062,
       "num": 200062,
       "word": "武汉一男子疑开车撞倒多名小学生",
@@ -26353,6 +26481,14 @@
       "onboard_time": 1725420919,
       "rank": 31,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 195465,
+      "num": 195465,
+      "word": "河南叶县强拆大学生创业果园",
+      "onboard_time": 1726705819,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195455,
@@ -30531,6 +30667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176095,
+      "num": 176095,
+      "word": "一个是故意的一个是装的",
+      "onboard_time": 1726708700,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 176074,
       "num": 176074,
       "word": "王安宇叫田曦薇伴侣吓到杨迪",
@@ -30673,6 +30817,14 @@
       "onboard_time": 1725340702,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175563,
+      "num": 175563,
+      "word": "新警一条朋友圈收获400多个点赞",
+      "onboard_time": 1726706960,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175533,
@@ -30833,6 +30985,14 @@
       "onboard_time": 1726030702,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 174864,
+      "num": 174864,
+      "word": "浙江全力以赴防御台风普拉桑",
+      "onboard_time": 1726706661,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174846,
@@ -34347,14 +34507,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 158233,
-      "num": 158233,
-      "word": "黎巴嫩多地对讲机爆炸20死450伤",
-      "onboard_time": 1726702039,
-      "rank": 23,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 158229,
       "num": 158229,
       "word": "人怎么可以过的这么舒服",
@@ -34491,6 +34643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157674,
+      "num": 157674,
+      "word": "当奶奶不小心闯入了镜头",
+      "onboard_time": 1726702278,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157666,
       "num": 157666,
       "word": "姚琛刘宇是直播大漏勺吧",
@@ -34593,6 +34753,14 @@
       "onboard_time": 1726332019,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157232,
+      "num": 157232,
+      "word": "我国将发射2颗北斗导航卫星",
+      "onboard_time": 1726709059,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 157125,
@@ -37147,6 +37315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145613,
+      "num": 145613,
+      "word": "Rekkles作为T1替补参加S14",
+      "onboard_time": 1726705760,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145581,
       "num": 145581,
       "word": "口吃亲历者评价王俊凯演的周正",
@@ -39643,6 +39819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 133273,
+      "num": 133273,
+      "word": "飞天奖星光奖出席阵容出炉",
+      "onboard_time": 1726707981,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133262,
       "num": 133262,
       "word": "易烊千玺红色衬衫套装",
@@ -40859,6 +41043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127734,
+      "num": 127734,
+      "word": "黎巴嫩新一轮爆炸的对讲机产自日本",
+      "onboard_time": 1726709839,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 127681,
       "num": 136323,
       "word": "北大开学典礼中英双语演唱声声慢",
@@ -40913,6 +41105,14 @@
       "onboard_time": 1725860957,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 127072,
+      "num": 127072,
+      "word": "一代代军人淬火成钢的誓言",
+      "onboard_time": 1726706600,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126855,
@@ -42297,6 +42497,14 @@
       "onboard_time": 1726440553,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 117549,
+      "num": 117549,
+      "word": "任天堂起诉幻兽帕鲁开发商",
+      "onboard_time": 1726705460,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 117545,
@@ -44843,14 +45051,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 95950,
-      "num": 95950,
-      "word": "当奶奶不小心闯入了镜头",
-      "onboard_time": 1726702278,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 95907,
       "num": 566945,
       "word": "硫磺熏制八角二氧化硫超标16倍",
@@ -45705,6 +45905,14 @@
       "onboard_time": 1725295397,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85753,
+      "num": 1014516,
+      "word": "中秋假期数据盘点",
+      "onboard_time": 1726675639,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85682,
@@ -47441,14 +47649,6 @@
       "onboard_time": 1726011318,
       "rank": 44,
       "category": "游戏,数码"
-    },
-    {
-      "raw_hot": 63642,
-      "num": 1014516,
-      "word": "中秋假期数据盘点",
-      "onboard_time": 1726675639,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 63595,
