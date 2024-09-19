@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726724313426,
+  "endTime": 1726727422566,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -505,6 +505,14 @@
       "onboard_time": 1726314740,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2622217,
+      "num": 2622217,
+      "word": "黄晓明 没结婚",
+      "onboard_time": 1726725380,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2616285,
@@ -1160,6 +1168,14 @@
       "word": "儿童骑行被碾压案司机亲属发声",
       "onboard_time": 1725361732,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1872055,
+      "num": 418761,
+      "word": "女子PPT曝男友嫖娼或构成侵权",
+      "onboard_time": 1726724788,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -8523,6 +8539,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 635329,
+      "num": 635329,
+      "word": "知情人回应张雨绮遭换角",
+      "onboard_time": 1726724429,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 635077,
       "num": 635077,
       "word": "非洲小哥搬出铁扇公主卖扇子",
@@ -12019,6 +12043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 465026,
+      "num": 465026,
+      "word": "黎巴嫩一医院附近发现爆炸装置",
+      "onboard_time": 1726721492,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 464971,
       "num": 464971,
       "word": "NewJeans给HYBE14天期限",
@@ -12537,6 +12569,14 @@
       "onboard_time": 1726655420,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 444595,
+      "num": 444595,
+      "word": "黎巴嫩多地寻呼机爆炸",
+      "onboard_time": 1726724668,
+      "rank": 10,
+      "category": "国外时政"
     },
     {
       "raw_hot": 444226,
@@ -14995,6 +15035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353065,
+      "num": 629017,
+      "word": "女子骑电动车打伞被卷入车底身亡",
+      "onboard_time": 1726719329,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352901,
       "num": 352901,
       "word": "易烊千玺熟了",
@@ -16179,20 +16227,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 320150,
+      "num": 320150,
+      "word": "硕博父子花14年养出报恩大闸蟹",
+      "onboard_time": 1726723529,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319966,
       "num": 319966,
       "word": "日本细菌战100人名单被发现",
       "onboard_time": 1726629020,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 319889,
-      "num": 629017,
-      "word": "女子骑电动车打伞被卷入车底身亡",
-      "onboard_time": 1726719329,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 319631,
@@ -18907,6 +18955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 267950,
+      "num": 267950,
+      "word": "你好种地少年",
+      "onboard_time": 1726725620,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267917,
       "num": 489935,
       "word": "央视曝光房屋托管骗局",
@@ -19603,14 +19659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 258565,
-      "num": 258565,
-      "word": "硕博父子花14年养出报恩大闸蟹",
-      "onboard_time": 1726723529,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 258547,
       "num": 204268,
       "word": "华为Mate70啥时候出",
@@ -20233,6 +20281,14 @@
       "onboard_time": 1726636820,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248815,
+      "num": 248815,
+      "word": "银河左岸 下架",
+      "onboard_time": 1726726700,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 248767,
@@ -20948,7 +21004,7 @@
     },
     {
       "raw_hot": 240962,
-      "num": 240962,
+      "num": 447271,
       "word": "台风普拉桑登陆点更靠近上海",
       "onboard_time": 1726723170,
       "rank": 47,
@@ -22011,6 +22067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 229946,
+      "num": 229946,
+      "word": "妈妈双子宫龙凤胎宝宝住上双拼别墅",
+      "onboard_time": 1726726941,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229921,
       "num": 229921,
       "word": "全红婵崔宸曦叫王楚钦王亲亲",
@@ -22921,14 +22985,6 @@
       "onboard_time": 1726650200,
       "rank": 37,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 220594,
-      "num": 220594,
-      "word": "黎巴嫩一医院附近发现爆炸装置",
-      "onboard_time": 1726721492,
-      "rank": 42,
-      "category": "国外时政"
     },
     {
       "raw_hot": 220485,
@@ -25011,6 +25067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205134,
+      "num": 205134,
+      "word": "台风排班表",
+      "onboard_time": 1726727359,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205129,
       "num": 205129,
       "word": "张峻豪海口vlog",
@@ -25281,6 +25345,14 @@
       "onboard_time": 1725505940,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 203676,
+      "num": 203676,
+      "word": "半熟男女 暧昧对象是上司老公",
+      "onboard_time": 1726726819,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 203634,
@@ -26027,6 +26099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199931,
+      "num": 199931,
+      "word": "唐嫣fendi",
+      "onboard_time": 1726727060,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199910,
       "num": 199910,
       "word": "FOG电竞广播剧破亿",
@@ -26489,6 +26569,14 @@
       "onboard_time": 1726560740,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197962,
+      "num": 197962,
+      "word": "石宇奇vs金廷",
+      "onboard_time": 1726727180,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 197923,
@@ -28409,6 +28497,14 @@
       "onboard_time": 1725754517,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189249,
+      "num": 189249,
+      "word": "黄冠亨回应聚会",
+      "onboard_time": 1726727301,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 189231,
@@ -30409,6 +30505,14 @@
       "onboard_time": 1726369399,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180204,
+      "num": 180204,
+      "word": "半熟男女 三缺型女主",
+      "onboard_time": 1726727060,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 179951,
@@ -43187,6 +43291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117227,
+      "num": 412823,
+      "word": "微博音乐盛典年度推荐MV",
+      "onboard_time": 1726726878,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 117090,
       "num": 478038,
       "word": "汪苏泷苏州站点歌",
@@ -46200,6 +46312,14 @@
       "word": "起底0元领养猫咪套路",
       "onboard_time": 1726135459,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89227,
+      "num": 436386,
+      "word": "男子60元买螃蟹绑蟹绳占20元",
+      "onboard_time": 1726725860,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -51019,6 +51139,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 41998,
+      "num": 410770,
+      "word": "唐嫣同款包包",
+      "onboard_time": 1726722208,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41961,
       "num": 387172,
       "word": "广州一幼儿园增设老年课程",
@@ -52979,6 +53107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31378,
+      "num": 435913,
+      "word": "张馨予回应高原跳舞后又晕又吐",
+      "onboard_time": 1726726819,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31349,
       "num": 473605,
       "word": "黑心化学枸杞的生意经应深究",
@@ -53377,14 +53513,6 @@
       "onboard_time": 1725436942,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29205,
-      "num": 410770,
-      "word": "唐嫣同款包包",
-      "onboard_time": 1726722208,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 29134,
@@ -54019,6 +54147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25327,
+      "num": 421052,
+      "word": "官方辟谣合肥一住宅楼地震后开裂",
+      "onboard_time": 1726726578,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25224,
       "num": 145770,
       "word": "问界M9五座版六座版怎么选",
@@ -54081,6 +54217,14 @@
       "onboard_time": 1725943282,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 24940,
+      "num": 436591,
+      "word": "家电30年没涨过价",
+      "onboard_time": 1726724548,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24929,
@@ -55168,6 +55312,14 @@
       "word": "别人卡bug他是卡爸爸",
       "onboard_time": 1725393072,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18139,
+      "num": 426349,
+      "word": "健桥医院贩卖出生证明案移交审查起诉",
+      "onboard_time": 1726725920,
+      "rank": 18,
       "category": "社会新闻"
     },
     {

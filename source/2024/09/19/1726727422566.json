@@ -1,0 +1,402 @@
+{
+  "runTime": 1726727422566,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2622217,
+        "num": 2622217,
+        "word": "黄晓明 没结婚",
+        "onboard_time": 1726725380,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 758513,
+        "num": 758513,
+        "word": "降息",
+        "onboard_time": 1726669823,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 635329,
+        "num": 635329,
+        "word": "知情人回应张雨绮遭换角",
+        "onboard_time": 1726724429,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478657,
+        "num": 478657,
+        "word": "黎巴嫩",
+        "onboard_time": 1726720651,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1229253,
+        "num": 478644,
+        "word": "央广网评装聋作哑的三只羊",
+        "onboard_time": 1726713858,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 564037,
+        "num": 472728,
+        "word": "欧阳妮妮患多囊性卵巢",
+        "onboard_time": 1726708281,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510326,
+        "num": 469659,
+        "word": "董宇辉带货月饼疑有质量问题",
+        "onboard_time": 1726718121,
+        "rank": 7,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 465026,
+        "num": 465026,
+        "word": "黎巴嫩一医院附近发现爆炸装置",
+        "onboard_time": 1726721492,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 152724,
+        "num": 447271,
+        "word": "台风普拉桑登陆点更靠近上海",
+        "onboard_time": 1726723170,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444595,
+        "num": 444595,
+        "word": "黎巴嫩多地寻呼机爆炸",
+        "onboard_time": 1726724668,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 971711,
+        "num": 443686,
+        "word": "网红直播调侃九一八被永久封号",
+        "onboard_time": 1726716322,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439008,
+        "num": 439008,
+        "word": "陈伟霆赵露思吻戏好欲",
+        "onboard_time": 1726718481,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24940,
+        "num": 436591,
+        "word": "家电30年没涨过价",
+        "onboard_time": 1726724548,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89227,
+        "num": 436386,
+        "word": "男子60元买螃蟹绑蟹绳占20元",
+        "onboard_time": 1726725860,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348681,
+        "num": 436196,
+        "word": "肖战机场",
+        "onboard_time": 1726720951,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436186,
+        "num": 436186,
+        "word": "成都一海洋馆鲸鲨被曝死亡",
+        "onboard_time": 1726713978,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31378,
+        "num": 435913,
+        "word": "张馨予回应高原跳舞后又晕又吐",
+        "onboard_time": 1726726819,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18139,
+        "num": 426349,
+        "word": "健桥医院贩卖出生证明案移交审查起诉",
+        "onboard_time": 1726725920,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25327,
+        "num": 421052,
+        "word": "官方辟谣合肥一住宅楼地震后开裂",
+        "onboard_time": 1726726578,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1872055,
+        "num": 418761,
+        "word": "女子PPT曝男友嫖娼或构成侵权",
+        "onboard_time": 1726724788,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117227,
+        "num": 412823,
+        "word": "微博音乐盛典年度推荐MV",
+        "onboard_time": 1726726878,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 718551,
+        "num": 407089,
+        "word": "招商银行",
+        "onboard_time": 1726718962,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543711,
+        "num": 398852,
+        "word": "招行回应管培生被女友举报嫖娼",
+        "onboard_time": 1726712120,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398426,
+        "num": 398426,
+        "word": "台风普拉桑是急性子",
+        "onboard_time": 1726715540,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362931,
+        "num": 362931,
+        "word": "合肥地震",
+        "onboard_time": 1726661786,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353065,
+        "num": 353065,
+        "word": "女子骑电动车打伞被卷入车底身亡",
+        "onboard_time": 1726719329,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347012,
+        "num": 347012,
+        "word": "御赐小仵作2原班人马开机",
+        "onboard_time": 1726716322,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320150,
+        "num": 320150,
+        "word": "硕博父子花14年养出报恩大闸蟹",
+        "onboard_time": 1726723529,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308823,
+        "num": 308823,
+        "word": "胡夏 披荆斩棘老子走了",
+        "onboard_time": 1726719142,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 976292,
+        "num": 308143,
+        "word": "三只羊全面复播",
+        "onboard_time": 1726712479,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 303669,
+        "num": 303669,
+        "word": "你卖掉的旧手机可能会出卖你",
+        "onboard_time": 1726715119,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290384,
+        "num": 290384,
+        "word": "刘丹说小糯米很喜欢吃月饼",
+        "onboard_time": 1726713618,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280149,
+        "num": 280149,
+        "word": "杨洋实在忍不住就笑出来吧",
+        "onboard_time": 1726721669,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267950,
+        "num": 267950,
+        "word": "你好种地少年",
+        "onboard_time": 1726725620,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264297,
+        "num": 264297,
+        "word": "心脏骤停前一个月身体就有迹象",
+        "onboard_time": 1726713559,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 261629,
+        "num": 261629,
+        "word": "宋茜腰伤",
+        "onboard_time": 1726721430,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248815,
+        "num": 248815,
+        "word": "银河左岸 下架",
+        "onboard_time": 1726726700,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 247061,
+        "num": 247061,
+        "word": "黎巴嫩新一轮爆炸的对讲机产自日本",
+        "onboard_time": 1726709839,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 229946,
+        "num": 229946,
+        "word": "妈妈双子宫龙凤胎宝宝住上双拼别墅",
+        "onboard_time": 1726726941,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41998,
+        "num": 205503,
+        "word": "唐嫣同款包包",
+        "onboard_time": 1726722208,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205134,
+        "num": 205134,
+        "word": "台风排班表",
+        "onboard_time": 1726727359,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204391,
+        "num": 204391,
+        "word": "台风苏力生成",
+        "onboard_time": 1726722869,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203676,
+        "num": 203676,
+        "word": "半熟男女 暧昧对象是上司老公",
+        "onboard_time": 1726726819,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199931,
+        "num": 199931,
+        "word": "唐嫣fendi",
+        "onboard_time": 1726727060,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197962,
+        "num": 197962,
+        "word": "石宇奇vs金廷",
+        "onboard_time": 1726727180,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193566,
+        "num": 193566,
+        "word": "南柱赫退伍",
+        "onboard_time": 1726709059,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189249,
+        "num": 189249,
+        "word": "黄冠亨回应聚会",
+        "onboard_time": 1726727301,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182533,
+        "num": 182533,
+        "word": "剑网3",
+        "onboard_time": 1726725148,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180204,
+        "num": 180204,
+        "word": "半熟男女 三缺型女主",
+        "onboard_time": 1726727060,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队淬火向前#"
+    }
+  }
+}
