@@ -1,6 +1,6 @@
 {
   "startTime": 1726763246339,
-  "endTime": 1726770533170,
+  "endTime": 1726771349542,
   "band_list": [
     {
       "raw_hot": 2161007,
@@ -467,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43334,
+      "num": 65958,
+      "word": "黎巴嫩BP机爆炸时收到以方信息",
+      "onboard_time": 1726769593,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 40039,
       "num": 40039,
       "word": "华晨宇微博音乐盛典四项荣誉",
@@ -491,12 +499,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 29010,
-      "num": 65958,
-      "word": "黎巴嫩BP机爆炸时收到以方信息",
-      "onboard_time": 1726769593,
-      "rank": 9,
-      "category": "国外时政"
+      "raw_hot": 28524,
+      "num": 32534,
+      "word": "半熟男女",
+      "onboard_time": 1726746141,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 28465,
+      "num": 32548,
+      "word": "尤长靖生日vlog",
+      "onboard_time": 1726770312,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 26706,
+      "num": 32567,
+      "word": "内心强大的人往往有这几个特质",
+      "onboard_time": 1726770253,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 26664,
@@ -507,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25403,
-      "num": 32567,
-      "word": "内心强大的人往往有这几个特质",
-      "onboard_time": 1726770253,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 24708,
       "num": 32554,
       "word": "台风",
@@ -523,20 +539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24615,
-      "num": 32548,
-      "word": "尤长靖生日vlog",
-      "onboard_time": 1726770312,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 24439,
-      "num": 32534,
-      "word": "半熟男女",
-      "onboard_time": 1726746141,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 22780,
+      "num": 25191,
+      "word": "宋佳说表演时内衣也帮了很多",
+      "onboard_time": 1726770792,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 3340,
