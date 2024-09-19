@@ -1,6 +1,6 @@
 {
   "startTime": 1726763246339,
-  "endTime": 1726773480139,
+  "endTime": 1726774515626,
   "band_list": [
     {
       "raw_hot": 2161007,
@@ -483,6 +483,14 @@
       "category": "音乐,综艺"
     },
     {
+      "raw_hot": 39347,
+      "num": 39347,
+      "word": "美以媒体披露黎巴嫩通信设备爆炸细节",
+      "onboard_time": 1726769892,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 35662,
       "num": 39990,
       "word": "周深演唱会behind",
@@ -499,7 +507,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 29144,
+      "raw_hot": 29687,
       "num": 32567,
       "word": "内心强大的人往往有这几个特质",
       "onboard_time": 1726770253,
@@ -523,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28126,
+      "num": 28126,
+      "word": "专家再次研判合肥地震震后趋势",
+      "onboard_time": 1726773372,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27750,
       "num": 29145,
       "word": "宋佳说表演时内衣也帮了很多",
@@ -539,14 +555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25073,
-      "num": 31630,
-      "word": "美以媒体披露黎巴嫩通信设备爆炸细节",
-      "onboard_time": 1726769892,
-      "rank": 23,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 24708,
       "num": 32554,
       "word": "台风",
@@ -555,28 +563,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19639,
-      "num": 20357,
-      "word": "RTK",
-      "onboard_time": 1726767433,
-      "rank": 48,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 18056,
-      "num": 20354,
-      "word": "专家再次研判合肥地震震后趋势",
-      "onboard_time": 1726773372,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17035,
-      "num": 32482,
+      "raw_hot": 21447,
+      "num": 40986,
       "word": "医院回应家属自带折叠床被没收",
       "onboard_time": 1726773311,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19639,
+      "num": 20429,
+      "word": "RTK",
+      "onboard_time": 1726767433,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 3340,
