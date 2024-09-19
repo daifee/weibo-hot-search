@@ -1,6 +1,6 @@
 {
   "startTime": 1726676797598,
-  "endTime": 1726741400961,
+  "endTime": 1726742444080,
   "band_list": [
     {
       "raw_hot": 13826634,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 2048993,
-      "num": 478687,
+      "num": 943520,
       "word": "你别做我来做",
       "onboard_time": 1726729586,
       "rank": 11,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 924996,
+      "num": 287469,
+      "word": "黄晓明的头像",
+      "onboard_time": 1726740861,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 922133,
       "num": 922133,
       "word": "Scout暂时无缘S14",
@@ -272,14 +280,6 @@
       "word": "叶珂 钻戒",
       "onboard_time": 1726668203,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 803983,
-      "num": 285699,
-      "word": "黄晓明的头像",
-      "onboard_time": 1726740861,
-      "rank": 14,
       "category": "艺人"
     },
     {
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 641134,
+      "num": 325274,
+      "word": "4岁男孩患上皮肤饥饿症",
+      "onboard_time": 1726737506,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 625510,
       "num": 625510,
       "word": "尤长靖留在中国的原因",
@@ -401,14 +409,6 @@
       "onboard_time": 1726703117,
       "rank": 8,
       "category": "财经"
-    },
-    {
-      "raw_hot": 612837,
-      "num": 325274,
-      "word": "4岁男孩患上皮肤饥饿症",
-      "onboard_time": 1726737506,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 601951,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 492732,
-      "num": 492732,
+      "num": 943703,
       "word": "黎巴嫩",
       "onboard_time": 1726720651,
       "rank": 43,
@@ -588,7 +588,7 @@
     },
     {
       "raw_hot": 433592,
-      "num": 433592,
+      "num": 943923,
       "word": "2024年国庆放假安排来了",
       "onboard_time": 1726730967,
       "rank": 13,
@@ -675,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 362502,
+      "num": 286984,
+      "word": "顺丰快递员当街殴打怀孕妻子被行拘",
+      "onboard_time": 1726739782,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361617,
       "num": 361617,
       "word": "校方已退还如厕被定违纪学生打印费",
@@ -705,14 +713,6 @@
       "onboard_time": 1726719208,
       "rank": 39,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 354889,
-      "num": 272733,
-      "word": "顺丰快递员当街殴打怀孕妻子被行拘",
-      "onboard_time": 1726739782,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 353065,
@@ -835,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298545,
+      "num": 298545,
+      "word": "张翰终于把头套摘了",
+      "onboard_time": 1726740201,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 296862,
       "num": 296862,
       "word": "以色列在5000台寻呼机内安装炸药",
@@ -891,6 +899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 286903,
+      "num": 286903,
+      "word": "李兰迪生图",
+      "onboard_time": 1726739361,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 283491,
       "num": 283491,
       "word": "网传大熊猫丁丁扑倒饲养员",
@@ -937,14 +953,6 @@
       "onboard_time": 1726725620,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 266752,
-      "num": 266752,
-      "word": "张翰终于把头套摘了",
-      "onboard_time": 1726740201,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 262042,
@@ -1017,14 +1025,6 @@
       "onboard_time": 1726714516,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 251167,
-      "num": 251167,
-      "word": "李兰迪生图",
-      "onboard_time": 1726739361,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 245826,
@@ -1347,6 +1347,14 @@
       "category": "演出,艺人"
     },
     {
+      "raw_hot": 198247,
+      "num": 198247,
+      "word": "offer6普信3分钟",
+      "onboard_time": 1726740383,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197962,
       "num": 197962,
       "word": "石宇奇vs金廷",
@@ -1369,14 +1377,6 @@
       "onboard_time": 1726714399,
       "rank": 33,
       "category": "数码"
-    },
-    {
-      "raw_hot": 196396,
-      "num": 196396,
-      "word": "offer6普信3分钟",
-      "onboard_time": 1726740383,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 195492,
@@ -1459,6 +1459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181268,
+      "num": 181268,
+      "word": "普拉桑将给南京带来9级大风和暴雨",
+      "onboard_time": 1726740261,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180913,
       "num": 180913,
       "word": "幻兽帕鲁开发商回应",
@@ -1513,6 +1521,14 @@
       "onboard_time": 1726708700,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 174260,
+      "num": 174260,
+      "word": "做美诚月饼的米其林大厨到底是谁",
+      "onboard_time": 1726742001,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 172623,
@@ -1619,14 +1635,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 161070,
-      "num": 161070,
-      "word": "普拉桑将给南京带来9级大风和暴雨",
-      "onboard_time": 1726740261,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160798,
       "num": 160798,
       "word": "台风普拉桑今日登陆浙江沿海",
@@ -1699,6 +1707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154053,
+      "num": 286150,
+      "word": "网购19万大牌包用假货申请退款",
+      "onboard_time": 1726740081,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153882,
       "num": 153882,
       "word": "黎巴嫩爆炸已致32死数千人受伤",
@@ -1731,12 +1747,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 147439,
+      "num": 147439,
+      "word": "三只羊分公司人去楼空",
+      "onboard_time": 1726741582,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147186,
       "num": 147186,
       "word": "OBGG显示Scout申请出境",
       "onboard_time": 1726710080,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 147143,
+      "num": 147143,
+      "word": "花花演绎什么叫可爱得很全面",
+      "onboard_time": 1726741761,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 146409,
+      "num": 146409,
+      "word": "终于有剧把势利前台小妹拍成小弟了",
+      "onboard_time": 1726741823,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 145613,
@@ -1851,6 +1891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134722,
+      "num": 134722,
+      "word": "离岸人民币兑美元逼近7.07关口",
+      "onboard_time": 1726738823,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134008,
       "num": 134008,
       "word": "王昶我们只关注自己",
@@ -1865,6 +1913,14 @@
       "onboard_time": 1726699754,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131906,
+      "num": 131906,
+      "word": "重庆动物园就丁丁扑倒饲养员报平安",
+      "onboard_time": 1726741881,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130331,
@@ -2099,11 +2155,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 79789,
-      "num": 286150,
-      "word": "网购19万大牌包用假货申请退款",
-      "onboard_time": 1726740081,
-      "rank": 13,
+      "raw_hot": 80752,
+      "num": 295831,
+      "word": "三只羊玩文字游戏也是消费欺诈",
+      "onboard_time": 1726740323,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -2129,14 +2185,6 @@
       "onboard_time": 1726678934,
       "rank": 32,
       "category": "自然,社会新闻"
-    },
-    {
-      "raw_hot": 73648,
-      "num": 295831,
-      "word": "三只羊玩文字游戏也是消费欺诈",
-      "onboard_time": 1726740323,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73157,
@@ -2364,7 +2412,7 @@
     },
     {
       "raw_hot": 41553,
-      "num": 187385,
+      "num": 287543,
       "word": "杨幂地广路过都得念两句",
       "onboard_time": 1726740742,
       "rank": 31,
@@ -2475,6 +2523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30404,
+      "num": 287147,
+      "word": "蔚来李斌60公里远迎乐道庆华",
+      "onboard_time": 1726738642,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 30224,
       "num": 431887,
       "word": "三只羊若构成虚假宣传或被行政处罚",
@@ -2521,14 +2577,6 @@
       "onboard_time": 1726686131,
       "rank": 38,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 27144,
-      "num": 283169,
-      "word": "蔚来李斌60公里远迎乐道庆华",
-      "onboard_time": 1726738642,
-      "rank": 15,
-      "category": "汽车"
     },
     {
       "raw_hot": 24940,
