@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726709957456,
+  "endTime": 1726710975232,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -1108,7 +1108,7 @@
     },
     {
       "raw_hot": 1903026,
-      "num": 541068,
+      "num": 1771866,
       "word": "欧阳妮妮患多囊性卵巢",
       "onboard_time": 1726708281,
       "rank": 10,
@@ -2545,6 +2545,14 @@
       "onboard_time": 1725589879,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1365452,
+      "num": 1365452,
+      "word": "58页PPT",
+      "onboard_time": 1726708520,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1364112,
@@ -5763,6 +5771,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 849357,
+      "num": 849357,
+      "word": "小英称有什么事都会坦然面对",
+      "onboard_time": 1726706901,
+      "rank": 4,
+      "category": "网红"
+    },
+    {
       "raw_hot": 847472,
       "num": 847472,
       "word": "学校回应唐尚珺舍友全部申请搬宿舍",
@@ -6315,14 +6331,6 @@
       "category": "社会新闻,健康医疗"
     },
     {
-      "raw_hot": 802906,
-      "num": 802906,
-      "word": "小英称有什么事都会坦然面对",
-      "onboard_time": 1726706901,
-      "rank": 4,
-      "category": "网红"
-    },
-    {
       "raw_hot": 802622,
       "num": 802622,
       "word": "谁教黄景瑜这么关车门的",
@@ -6377,6 +6385,14 @@
       "onboard_time": 1726377379,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 798245,
+      "num": 798245,
+      "word": "南柱赫退伍",
+      "onboard_time": 1726709059,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 798242,
@@ -7435,6 +7451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 700162,
+      "num": 700162,
+      "word": "网红直播调侃918反怼网友管得多",
+      "onboard_time": 1726706541,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 699225,
       "num": 699225,
       "word": "于适待播作品",
@@ -7873,6 +7897,14 @@
       "onboard_time": 1726273281,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 665155,
+      "num": 665155,
+      "word": "黎巴嫩又发生对讲机爆炸",
+      "onboard_time": 1726675279,
+      "rank": 7,
+      "category": "国外时政,军事"
     },
     {
       "raw_hot": 664985,
@@ -8401,14 +8433,6 @@
       "onboard_time": 1726038261,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 631184,
-      "num": 631184,
-      "word": "黎巴嫩又发生对讲机爆炸",
-      "onboard_time": 1726675279,
-      "rank": 7,
-      "category": "国外时政,军事"
     },
     {
       "raw_hot": 630684,
@@ -10153,6 +10177,14 @@
       "onboard_time": 1726555518,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 535040,
+      "num": 535040,
+      "word": "A股",
+      "onboard_time": 1725243438,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 534855,
@@ -13011,14 +13043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 414946,
-      "num": 414946,
-      "word": "南柱赫退伍",
-      "onboard_time": 1726709059,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 414788,
       "num": 414788,
       "word": "女童骑车飞冲撞人被判主责妈妈不服",
@@ -14867,14 +14891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 348758,
-      "num": 348758,
-      "word": "网红直播调侃918反怼网友管得多",
-      "onboard_time": 1726706541,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 348678,
       "num": 348678,
       "word": "林诗栋晒和孙颖莎合照",
@@ -14993,6 +15009,14 @@
       "onboard_time": 1725680419,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 346784,
+      "num": 731437,
+      "word": "犯了众怒的三只羊要付出代价",
+      "onboard_time": 1726710080,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 346771,
@@ -15681,14 +15705,6 @@
       "onboard_time": 1726653259,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 325614,
-      "num": 325614,
-      "word": "58页PPT",
-      "onboard_time": 1726708520,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 325608,
@@ -17379,6 +17395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 287930,
+      "num": 287930,
+      "word": "不吃早饭和不吃晚饭哪个危害大",
+      "onboard_time": 1726707920,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 287462,
       "num": 287462,
       "word": "2女子为拍照撕掉店家门口海报",
@@ -17811,14 +17835,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 281154,
-      "num": 281154,
-      "word": "A股",
-      "onboard_time": 1725243438,
-      "rank": 43,
-      "category": "财经"
-    },
-    {
       "raw_hot": 280963,
       "num": 280963,
       "word": "易烊千玺的面部折叠度",
@@ -17937,14 +17953,6 @@
       "onboard_time": 1726285760,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 278766,
-      "num": 278766,
-      "word": "不吃早饭和不吃晚饭哪个危害大",
-      "onboard_time": 1726707920,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 278555,
@@ -19049,6 +19057,14 @@
       "onboard_time": 1725345621,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261298,
+      "num": 731708,
+      "word": "黎巴嫩新一轮爆炸的对讲机产自日本",
+      "onboard_time": 1726709839,
+      "rank": 45,
+      "category": "国外时政"
     },
     {
       "raw_hot": 261297,
@@ -26163,6 +26179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197111,
+      "num": 197111,
+      "word": "浙江全力以赴防御台风普拉桑",
+      "onboard_time": 1726706661,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197109,
       "num": 197109,
       "word": "陈飞宇慕胥辞妆造",
@@ -26475,20 +26499,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195492,
+      "num": 195492,
+      "word": "河南叶县强拆大学生创业果园",
+      "onboard_time": 1726705819,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195485,
       "num": 195485,
       "word": "开学的风还是吹到了斩神",
       "onboard_time": 1725420919,
       "rank": 31,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 195465,
-      "num": 195465,
-      "word": "河南叶县强拆大学生创业果园",
-      "onboard_time": 1726705819,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195455,
@@ -28401,6 +28425,14 @@
       "onboard_time": 1726315041,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 187208,
+      "num": 187208,
+      "word": "我国将发射2颗北斗导航卫星",
+      "onboard_time": 1726709059,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 187177,
@@ -30811,20 +30843,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175647,
+      "num": 175647,
+      "word": "新警一条朋友圈收获400多个点赞",
+      "onboard_time": 1726706960,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175623,
       "num": 175623,
       "word": "Jennie将出演金泰浩新综艺",
       "onboard_time": 1725340702,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175563,
-      "num": 175563,
-      "word": "新警一条朋友圈收获400多个点赞",
-      "onboard_time": 1726706960,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175533,
@@ -30985,14 +31017,6 @@
       "onboard_time": 1726030702,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 174864,
-      "num": 174864,
-      "word": "浙江全力以赴防御台风普拉桑",
-      "onboard_time": 1726706661,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174846,
@@ -33923,6 +33947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160798,
+      "num": 160798,
+      "word": "台风普拉桑今日登陆浙江沿海",
+      "onboard_time": 1726710681,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160755,
       "num": 160755,
       "word": "黑神话联机模式",
@@ -34057,6 +34089,14 @@
       "onboard_time": 1725439221,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160166,
+      "num": 160166,
+      "word": "飞天奖星光奖出席阵容出炉",
+      "onboard_time": 1726707981,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 160123,
@@ -34753,14 +34793,6 @@
       "onboard_time": 1726332019,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 157232,
-      "num": 157232,
-      "word": "我国将发射2颗北斗导航卫星",
-      "onboard_time": 1726709059,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 157125,
@@ -35793,6 +35825,14 @@
       "onboard_time": 1726561699,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 153141,
+      "num": 153141,
+      "word": "华为终端 吴磊",
+      "onboard_time": 1726710740,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 153106,
@@ -37035,6 +37075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147186,
+      "num": 147186,
+      "word": "OBGG显示Scout申请出境",
+      "onboard_time": 1726710080,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 147182,
       "num": 147182,
       "word": "爱奇艺 9块钱",
@@ -37329,6 +37377,14 @@
       "onboard_time": 1725182239,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 145553,
+      "num": 145553,
+      "word": "合肥再发生2.6级地震",
+      "onboard_time": 1726710559,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145552,
@@ -38441,6 +38497,14 @@
       "onboard_time": 1726504758,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140424,
+      "num": 140424,
+      "word": "合肥地震后余震42次",
+      "onboard_time": 1726710740,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140384,
@@ -39819,14 +39883,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 133273,
-      "num": 133273,
-      "word": "飞天奖星光奖出席阵容出炉",
-      "onboard_time": 1726707981,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 133262,
       "num": 133262,
       "word": "易烊千玺红色衬衫套装",
@@ -41041,14 +41097,6 @@
       "onboard_time": 1726282819,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127734,
-      "num": 127734,
-      "word": "黎巴嫩新一轮爆炸的对讲机产自日本",
-      "onboard_time": 1726709839,
-      "rank": 45,
-      "category": "国外时政"
     },
     {
       "raw_hot": 127681,
@@ -45908,7 +45956,7 @@
     },
     {
       "raw_hot": 85753,
-      "num": 1014516,
+      "num": 1418056,
       "word": "中秋假期数据盘点",
       "onboard_time": 1726675639,
       "rank": 2,

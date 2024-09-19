@@ -1,0 +1,410 @@
+{
+  "runTime": 1726710975232,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2072950,
+        "num": 2072950,
+        "word": "降息",
+        "onboard_time": 1726669823,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1771866,
+        "num": 1771866,
+        "word": "欧阳妮妮患多囊性卵巢",
+        "onboard_time": 1726708281,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79194,
+        "num": 1418056,
+        "word": "中秋假期数据盘点",
+        "onboard_time": 1726675639,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1365452,
+        "num": 1365452,
+        "word": "58页PPT",
+        "onboard_time": 1726708520,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1213974,
+        "num": 1213974,
+        "word": "几乎每轮降息都带来美国经济衰退",
+        "onboard_time": 1726706241,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 849357,
+        "num": 849357,
+        "word": "小英称有什么事都会坦然面对",
+        "onboard_time": 1726706901,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 823682,
+        "num": 823682,
+        "word": "张雨绮疑似被换角",
+        "onboard_time": 1726701436,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 798245,
+        "num": 798245,
+        "word": "南柱赫退伍",
+        "onboard_time": 1726709059,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261298,
+        "num": 731708,
+        "word": "黎巴嫩新一轮爆炸的对讲机产自日本",
+        "onboard_time": 1726709839,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 346784,
+        "num": 731437,
+        "word": "犯了众怒的三只羊要付出代价",
+        "onboard_time": 1726710080,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731352,
+        "num": 731352,
+        "word": "合肥地震",
+        "onboard_time": 1726661786,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 700162,
+        "num": 700162,
+        "word": "网红直播调侃918反怼网友管得多",
+        "onboard_time": 1726706541,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665155,
+        "num": 665155,
+        "word": "黎巴嫩又发生对讲机爆炸",
+        "onboard_time": 1726675279,
+        "rank": 12,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 624664,
+        "num": 624664,
+        "word": "离婚后妻子要求分割婆婆买的房子",
+        "onboard_time": 1726701498,
+        "rank": 13,
+        "category": "社会新闻,剧集"
+      },
+      {
+        "raw_hot": 535040,
+        "num": 535040,
+        "word": "A股",
+        "onboard_time": 1726709839,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 458450,
+        "num": 458450,
+        "word": "黄金",
+        "onboard_time": 1726703117,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 429580,
+        "num": 429580,
+        "word": "已有13人荣获共和国勋章",
+        "onboard_time": 1726707861,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 374680,
+        "num": 374680,
+        "word": "赵露思白T配白裤",
+        "onboard_time": 1726704681,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 313716,
+        "num": 313716,
+        "word": "老人捡蜗牛吃身亡2守灵者吃后也死",
+        "onboard_time": 1726648641,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300831,
+        "num": 300831,
+        "word": "Jennie粉丝名RUBIES",
+        "onboard_time": 1726707321,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1212115,
+        "num": 297939,
+        "word": "女子58页PPT举报管培生男友嫖娼",
+        "onboard_time": 1726686911,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301106,
+        "num": 295440,
+        "word": "室友电瓶爆燃大三男生全身90%烧伤",
+        "onboard_time": 1726662090,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287930,
+        "num": 287930,
+        "word": "不吃早饭和不吃晚饭哪个危害大",
+        "onboard_time": 1726707920,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 267832,
+        "num": 267832,
+        "word": "挣102万外卖员出车祸朋友发声",
+        "onboard_time": 1726670421,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254686,
+        "num": 254686,
+        "word": "黎巴嫩多地对讲机爆炸20死450伤",
+        "onboard_time": 1726702039,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 252039,
+        "num": 252039,
+        "word": "关晓彤黄景瑜吻戏路透",
+        "onboard_time": 1726701436,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235407,
+        "num": 235407,
+        "word": "叶珂 钻戒",
+        "onboard_time": 1726668203,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230638,
+        "num": 230638,
+        "word": "心脏骤停发作前身体会多次提醒你",
+        "onboard_time": 1726703058,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 209729,
+        "num": 209729,
+        "word": "合肥4.7级地震",
+        "onboard_time": 1726662451,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192738,
+        "num": 198503,
+        "word": "小英名下关联4家企业",
+        "onboard_time": 1726681093,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 197111,
+        "num": 197111,
+        "word": "浙江全力以赴防御台风普拉桑",
+        "onboard_time": 1726706661,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195492,
+        "num": 195492,
+        "word": "河南叶县强拆大学生创业果园",
+        "onboard_time": 1726705819,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195063,
+        "num": 195063,
+        "word": "小杨哥",
+        "onboard_time": 1726702817,
+        "rank": 32,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 193161,
+        "num": 193161,
+        "word": "为什么越开肩反而越内扣",
+        "onboard_time": 1726708340,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 187208,
+        "num": 187208,
+        "word": "我国将发射2颗北斗导航卫星",
+        "onboard_time": 1726709059,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 180269,
+        "num": 180269,
+        "word": "校方已退还如厕被定违纪学生打印费",
+        "onboard_time": 1726687631,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175647,
+        "num": 175647,
+        "word": "新警一条朋友圈收获400多个点赞",
+        "onboard_time": 1726706960,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173940,
+        "num": 173940,
+        "word": "东京食尸鬼 帅的很超过",
+        "onboard_time": 1726705521,
+        "rank": 37,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 173816,
+        "num": 173816,
+        "word": "杭州震感明显",
+        "onboard_time": 1726662628,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160798,
+        "num": 160798,
+        "word": "台风普拉桑今日登陆浙江沿海",
+        "onboard_time": 1726710681,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160166,
+        "num": 160166,
+        "word": "飞天奖星光奖出席阵容出炉",
+        "onboard_time": 1726707981,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155125,
+        "num": 155125,
+        "word": "张翰朴敏英9年前的剧播了",
+        "onboard_time": 1726667001,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153141,
+        "num": 153141,
+        "word": "华为终端 吴磊",
+        "onboard_time": 1726710740,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147214,
+        "num": 147214,
+        "word": "父女看打铁花表演被烫伤",
+        "onboard_time": 1726680614,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147186,
+        "num": 147186,
+        "word": "OBGG显示Scout申请出境",
+        "onboard_time": 1726710080,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145553,
+        "num": 145553,
+        "word": "合肥再发生2.6级地震",
+        "onboard_time": 1726710559,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144343,
+        "num": 144343,
+        "word": "iPhone16销量低于预期新证据",
+        "onboard_time": 1726704200,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 143923,
+        "num": 143923,
+        "word": "华为终端",
+        "onboard_time": 1726710859,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 140424,
+        "num": 140424,
+        "word": "合肥地震后余震42次",
+        "onboard_time": 1726710740,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135606,
+        "num": 135606,
+        "word": "一个是故意的一个是装的",
+        "onboard_time": 1726708700,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队淬火向前#"
+    }
+  }
+}
