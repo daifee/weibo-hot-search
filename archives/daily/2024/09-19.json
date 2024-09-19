@@ -1,6 +1,6 @@
 {
   "startTime": 1726676797598,
-  "endTime": 1726719978591,
+  "endTime": 1726720870597,
   "band_list": [
     {
       "raw_hot": 2838889,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1577499,
+      "num": 1577499,
+      "word": "网红直播调侃九一八被永久封号",
+      "onboard_time": 1726716322,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1527595,
       "num": 1085660,
       "word": "招行回应管培生被女友举报嫖娼",
@@ -65,14 +73,6 @@
       "onboard_time": 1726706241,
       "rank": 1,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1203104,
-      "num": 1203104,
-      "word": "网红直播调侃九一八被永久封号",
-      "onboard_time": 1726716322,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1188160,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 854633,
+      "num": 854633,
+      "word": "董宇辉带货月饼疑有质量问题",
+      "onboard_time": 1726718121,
+      "rank": 22,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 849357,
       "num": 849357,
       "word": "小英称有什么事都会坦然面对",
@@ -203,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 666038,
+      "num": 666038,
+      "word": "胡夏 披荆斩棘老子走了",
+      "onboard_time": 1726719142,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 665155,
       "num": 665155,
       "word": "黎巴嫩又发生对讲机爆炸",
@@ -233,6 +249,14 @@
       "onboard_time": 1726713738,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 641276,
+      "num": 463785,
+      "word": "招商银行",
+      "onboard_time": 1726718962,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 625510,
@@ -267,12 +291,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 558339,
-      "num": 558339,
-      "word": "董宇辉带货月饼疑有质量问题",
-      "onboard_time": 1726718121,
-      "rank": 22,
-      "category": "互联网,网红"
+      "raw_hot": 570507,
+      "num": 570507,
+      "word": "陈伟霆赵露思吻戏好欲",
+      "onboard_time": 1726718481,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 545902,
@@ -331,28 +355,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 489295,
-      "num": 489295,
-      "word": "胡夏 披荆斩棘老子走了",
-      "onboard_time": 1726719142,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 484982,
       "num": 457188,
       "word": "心脏骤停前一个月身体就有迹象",
       "onboard_time": 1726713559,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 479893,
-      "num": 479893,
-      "word": "陈伟霆赵露思吻戏好欲",
-      "onboard_time": 1726718481,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 463463,
@@ -443,20 +451,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 364091,
-      "num": 364091,
-      "word": "招商银行",
-      "onboard_time": 1726718962,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 361617,
       "num": 361617,
       "word": "校方已退还如厕被定违纪学生打印费",
       "onboard_time": 1726687631,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355971,
+      "num": 355971,
+      "word": "易烊千玺杂志",
+      "onboard_time": 1726719208,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 346892,
@@ -497,6 +505,14 @@
       "onboard_time": 1726660700,
       "rank": 14,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 312571,
+      "num": 312571,
+      "word": "一碗螺狮粉4年情侣感情破裂",
+      "onboard_time": 1726720050,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 310655,
@@ -547,14 +563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 290143,
-      "num": 290143,
-      "word": "易烊千玺杂志",
-      "onboard_time": 1726719208,
-      "rank": 39,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 288322,
       "num": 288322,
       "word": "心脏骤停发作前身体会多次提醒你",
@@ -593,6 +601,22 @@
       "onboard_time": 1726701436,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 268947,
+      "num": 268947,
+      "word": "宗馥莉回应将取消干股分红",
+      "onboard_time": 1726719750,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262042,
+      "num": 262042,
+      "word": "伊能静说要退出恋综",
+      "onboard_time": 1726720288,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 260248,
@@ -683,19 +707,19 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 227396,
+      "num": 659103,
+      "word": "学生外流3千多人村属小学招不到生",
+      "onboard_time": 1726718600,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226082,
       "num": 226082,
       "word": "人均3000元餐厅主厨代言美诚月饼",
       "onboard_time": 1726658480,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 225509,
-      "num": 225509,
-      "word": "宗馥莉回应将取消干股分红",
-      "onboard_time": 1726719750,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -723,6 +747,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 214152,
+      "num": 214152,
+      "word": "黎巴嫩",
+      "onboard_time": 1726720651,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 211725,
+      "num": 211725,
+      "word": "接牙膏事业运",
+      "onboard_time": 1726720226,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 211457,
       "num": 211457,
       "word": "MK预告",
@@ -731,12 +771,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 209964,
+      "raw_hot": 210496,
       "num": 655363,
       "word": "半熟男女",
       "onboard_time": 1726718301,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208998,
+      "num": 208998,
+      "word": "邓为 他的墨镜我的名字",
+      "onboard_time": 1726715960,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 206745,
@@ -755,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204817,
+      "num": 204817,
+      "word": "云襄传2官宣陈晓毛晓彤",
+      "onboard_time": 1726720531,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203558,
       "num": 203558,
       "word": "凡人歌为了这句话铺垫36集",
@@ -763,20 +819,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 201967,
-      "num": 201967,
-      "word": "邓为 他的墨镜我的名字",
-      "onboard_time": 1726715960,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 200728,
       "num": 165159,
       "word": "小杨哥曾晒单买20盒美心月饼",
       "onboard_time": 1726659440,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 200598,
+      "num": 200598,
+      "word": "姚琛方灿天坛合照",
+      "onboard_time": 1726720353,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 200084,
@@ -809,6 +865,14 @@
       "onboard_time": 1726705819,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193709,
+      "num": 193709,
+      "word": "时代少年团获年度推荐演唱会",
+      "onboard_time": 1726720226,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 192641,
@@ -1011,6 +1075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148033,
+      "num": 629017,
+      "word": "女子骑电动车打伞被卷入车底身亡",
+      "onboard_time": 1726719329,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147840,
       "num": 147840,
       "word": "Jennie官网倒计时",
@@ -1121,14 +1193,6 @@
       "onboard_time": 1726660460,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 127392,
-      "num": 659103,
-      "word": "学生外流3千多人村属小学招不到生",
-      "onboard_time": 1726718600,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127072,
@@ -1244,7 +1308,7 @@
     },
     {
       "raw_hot": 101088,
-      "num": 657997,
+      "num": 685808,
       "word": "豪华车价格整顿打响第一枪",
       "onboard_time": 1726716740,
       "rank": 31,
@@ -1331,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75561,
+      "num": 688239,
+      "word": "一起云游阿勒泰",
+      "onboard_time": 1726717101,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 74633,
       "num": 74633,
       "word": "安徽肥东4.7级地震",
@@ -1353,6 +1425,22 @@
       "onboard_time": 1726715119,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 71861,
+      "num": 423939,
+      "word": "微博音乐盛典年度推荐演唱会",
+      "onboard_time": 1726720771,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 70116,
+      "num": 758295,
+      "word": "联大要求以色列12个月内结束占领",
+      "onboard_time": 1726707680,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 69656,
@@ -1387,14 +1475,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 61645,
-      "num": 661836,
-      "word": "一起云游阿勒泰",
-      "onboard_time": 1726717101,
-      "rank": 48,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 61364,
       "num": 522719,
       "word": "吴彦祖回应三角洲里都是彦祖",
@@ -1408,14 +1488,6 @@
       "word": "香港美诚注册商标授权广州美诚生产",
       "onboard_time": 1726692312,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56138,
-      "num": 629017,
-      "word": "女子骑电动车打伞被卷入车底身亡",
-      "onboard_time": 1726719329,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1433,14 +1505,6 @@
       "onboard_time": 1726719329,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 45497,
-      "num": 758295,
-      "word": "联大要求以色列12个月内结束占领",
-      "onboard_time": 1726707680,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 41992,
