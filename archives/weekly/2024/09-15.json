@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726710975232,
+  "endTime": 1726714199047,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -105,6 +105,14 @@
       "onboard_time": 1726401802,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2838889,
+      "num": 1365452,
+      "word": "58页PPT",
+      "onboard_time": 1726708520,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2750722,
@@ -667,14 +675,6 @@
       "category": "国外时政,作品衍生"
     },
     {
-      "raw_hot": 1365452,
-      "num": 1365452,
-      "word": "58页PPT",
-      "onboard_time": 1726708520,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1364112,
       "num": 550713,
       "word": "上海外卖",
@@ -987,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1141948,
+      "num": 1141948,
+      "word": "犯了众怒的三只羊要付出代价",
+      "onboard_time": 1726710080,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1139433,
       "num": 1182309,
       "word": "国产恋综容不下二本学生吗",
@@ -1091,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1082162,
+      "num": 1082162,
+      "word": "招行回应管培生被女友举报嫖娼",
+      "onboard_time": 1726712120,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1076774,
       "num": 1076774,
       "word": "英雄联盟崩了",
@@ -1185,6 +1201,14 @@
       "onboard_time": 1726647081,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1013798,
+      "num": 1013798,
+      "word": "三只羊全面复播",
+      "onboard_time": 1726712479,
+      "rank": 5,
+      "category": "网红"
     },
     {
       "raw_hot": 1013316,
@@ -1555,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 815375,
+      "num": 815375,
+      "word": "南柱赫退伍",
+      "onboard_time": 1726709059,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 815342,
       "num": 440322,
       "word": "特朗普公然宣称憎恨霉霉",
@@ -1625,14 +1657,6 @@
       "onboard_time": 1726377379,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 798245,
-      "num": 798245,
-      "word": "南柱赫退伍",
-      "onboard_time": 1726709059,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 795669,
@@ -1945,6 +1969,14 @@
       "onboard_time": 1726370238,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 650092,
+      "num": 731708,
+      "word": "黎巴嫩新一轮爆炸的对讲机产自日本",
+      "onboard_time": 1726709839,
+      "rank": 45,
+      "category": "国外时政"
     },
     {
       "raw_hot": 648996,
@@ -3171,6 +3203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 413014,
+      "num": 307237,
+      "word": "张雨绮发表情包回应",
+      "onboard_time": 1726712899,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 412912,
       "num": 412912,
       "word": "贝碧嘉加强为强台风级",
@@ -3675,14 +3715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 346784,
-      "num": 731437,
-      "word": "犯了众怒的三只羊要付出代价",
-      "onboard_time": 1726710080,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 346771,
       "num": 346771,
       "word": "中方对涉对台军售美国企业采取反制",
@@ -4091,6 +4123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 308083,
+      "num": 308083,
+      "word": "合肥地震后余震42次",
+      "onboard_time": 1726710740,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307615,
       "num": 591644,
       "word": "合肥回应调查三只羊通报版本不同",
@@ -4184,6 +4224,14 @@
       "word": "肖战给剧组送中秋礼物",
       "onboard_time": 1726563200,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 300625,
+      "num": 300625,
+      "word": "刘亚仁涉嫌性侵被判无罪",
+      "onboard_time": 1726713139,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -4289,6 +4337,14 @@
       "onboard_time": 1726458387,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 292275,
+      "num": 292275,
+      "word": "华为终端 吴磊",
+      "onboard_time": 1726710740,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 291908,
@@ -4803,14 +4859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 261298,
-      "num": 731708,
-      "word": "黎巴嫩新一轮爆炸的对讲机产自日本",
-      "onboard_time": 1726709839,
-      "rank": 45,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 261297,
       "num": 261297,
       "word": "AG奶茶维权",
@@ -4969,6 +5017,14 @@
       "onboard_time": 1726402521,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 252553,
+      "num": 252553,
+      "word": "海清最近状态",
+      "onboard_time": 1726710978,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 251908,
@@ -5305,6 +5361,14 @@
       "onboard_time": 1726399279,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235536,
+      "num": 235536,
+      "word": "赵丽颖 鄂尔多斯1980",
+      "onboard_time": 1726713738,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 235015,
@@ -5731,6 +5795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213626,
+      "num": 213626,
+      "word": "有棵树 成毅",
+      "onboard_time": 1726713379,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213280,
       "num": 213280,
       "word": "射手座永远向前看",
@@ -5841,6 +5913,14 @@
       "onboard_time": 1726640058,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209329,
+      "num": 209329,
+      "word": "电视剧四喜开机",
+      "onboard_time": 1726714040,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 209287,
@@ -6795,6 +6875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187443,
+      "num": 187443,
+      "word": "许我耀眼官宣杀青",
+      "onboard_time": 1726713501,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187208,
       "num": 187208,
       "word": "我国将发射2颗北斗导航卫星",
@@ -7017,6 +7105,22 @@
       "onboard_time": 1726482618,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 183527,
+      "num": 183527,
+      "word": "新警一条朋友圈收获400多个点赞",
+      "onboard_time": 1726706960,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183190,
+      "num": 183190,
+      "word": "Note14",
+      "onboard_time": 1726713680,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 182665,
@@ -7307,14 +7411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 175647,
-      "num": 175647,
-      "word": "新警一条朋友圈收获400多个点赞",
-      "onboard_time": 1726706960,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175469,
       "num": 175469,
       "word": "谁家恋综不谈恋爱演小品啊",
@@ -7441,6 +7537,14 @@
       "onboard_time": 1726488740,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172668,
+      "num": 172668,
+      "word": "央广网评装聋作哑的三只羊",
+      "onboard_time": 1726713858,
+      "rank": 39,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 172575,
@@ -7649,6 +7753,14 @@
       "onboard_time": 1726633461,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 167141,
+      "num": 167141,
+      "word": "合肥再发生2.6级地震",
+      "onboard_time": 1726710559,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166903,
@@ -8123,6 +8235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158687,
+      "num": 158687,
+      "word": "成都一海洋馆鲸鲨被曝死亡",
+      "onboard_time": 1726713978,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158502,
       "num": 158502,
       "word": "街道办回应女孩掉井父亲先拍照",
@@ -8443,14 +8563,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 153141,
-      "num": 153141,
-      "word": "华为终端 吴磊",
-      "onboard_time": 1726710740,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 152550,
       "num": 186551,
       "word": "珠帘玉幕",
@@ -8659,12 +8771,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148179,
+      "num": 148179,
+      "word": "象棋协会通报王天一王跃飞处罚情况",
+      "onboard_time": 1726714159,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147859,
       "num": 441632,
       "word": "河南卫视奥运冠军梦幻联动",
       "onboard_time": 1726498942,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147727,
+      "num": 147727,
+      "word": "那些植发的人后来都怎么样了",
+      "onboard_time": 1726713139,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 147535,
@@ -8681,6 +8809,14 @@
       "onboard_time": 1726615758,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147478,
+      "num": 147478,
+      "word": "5岁小孩cos黑神话八戒成漫展焦点",
+      "onboard_time": 1726713978,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 147186,
@@ -8713,14 +8849,6 @@
       "onboard_time": 1726705760,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 145553,
-      "num": 145553,
-      "word": "合肥再发生2.6级地震",
-      "onboard_time": 1726710559,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145541,
@@ -9065,14 +9193,6 @@
       "onboard_time": 1726504758,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140424,
-      "num": 140424,
-      "word": "合肥地震后余震42次",
-      "onboard_time": 1726710740,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140384,
@@ -9561,6 +9681,14 @@
       "onboard_time": 1726489520,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 131183,
+      "num": 613725,
+      "word": "美联储降息对中国有何影响",
+      "onboard_time": 1726713020,
+      "rank": 9,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 131078,
@@ -11635,6 +11763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 46158,
+      "num": 196059,
+      "word": "吴彦祖回应三角洲里都是彦祖",
+      "onboard_time": 1726713559,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46147,
       "num": 124040,
       "word": "真维斯董事长评价王一博",
@@ -11737,6 +11873,14 @@
       "onboard_time": 1726664303,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42158,
+      "num": 300405,
+      "word": "刘丹说小糯米很喜欢吃月饼",
+      "onboard_time": 1726713618,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 41919,
