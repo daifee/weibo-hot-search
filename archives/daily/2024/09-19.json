@@ -1,6 +1,6 @@
 {
   "startTime": 1726676797598,
-  "endTime": 1726737806975,
+  "endTime": 1726738617840,
   "band_list": [
     {
       "raw_hot": 13826634,
@@ -555,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 446005,
+      "num": 325274,
+      "word": "4岁男孩患上皮肤饥饿症",
+      "onboard_time": 1726737506,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 436297,
       "num": 352659,
       "word": "丈夫打麻将被扔靠枕后殴打怀孕妻子",
@@ -673,6 +681,14 @@
       "onboard_time": 1726727900,
       "rank": 34,
       "category": "网红"
+    },
+    {
+      "raw_hot": 358694,
+      "num": 345500,
+      "word": "Jennie方否认与BamBam恋情",
+      "onboard_time": 1726737384,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 355971,
@@ -883,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 269892,
+      "num": 382096,
+      "word": "吴倩谈当妈之后的感受",
+      "onboard_time": 1726735706,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 267950,
       "num": 267950,
       "word": "你好种地少年",
@@ -913,14 +937,6 @@
       "onboard_time": 1726661786,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259798,
-      "num": 382096,
-      "word": "吴倩谈当妈之后的感受",
-      "onboard_time": 1726735706,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 257524,
@@ -1059,6 +1075,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 218767,
+      "num": 218767,
+      "word": "女子买五花肉肥肉全被扎带隐藏",
+      "onboard_time": 1726737624,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218623,
       "num": 218623,
       "word": "台风",
@@ -1081,6 +1105,14 @@
       "onboard_time": 1726722869,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215290,
+      "num": 244647,
+      "word": "崔然竣solo",
+      "onboard_time": 1726737203,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 214818,
@@ -1136,14 +1168,6 @@
       "word": "邓为 他的墨镜我的名字",
       "onboard_time": 1726715960,
       "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 207538,
-      "num": 266428,
-      "word": "Jennie方否认与BamBam恋情",
-      "onboard_time": 1726737384,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -1243,6 +1267,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 199267,
+      "num": 244371,
+      "word": "肖战北京文化论坛文艺晚会",
+      "onboard_time": 1726737624,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198650,
       "num": 198650,
       "word": "二本恋综没等到时尚恋综走来了",
@@ -1339,14 +1371,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 186703,
-      "num": 186703,
-      "word": "崔然竣solo",
-      "onboard_time": 1726737203,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 184944,
       "num": 184944,
       "word": "Note14",
@@ -1435,6 +1459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171713,
+      "num": 171713,
+      "word": "地震瞬间孙子一把抱起残疾奶奶冲出",
+      "onboard_time": 1726734567,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171307,
       "num": 171307,
       "word": "易烊千玺AnotherMan",
@@ -1481,14 +1513,6 @@
       "onboard_time": 1726671802,
       "rank": 30,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 165108,
-      "num": 165108,
-      "word": "地震瞬间孙子一把抱起残疾奶奶冲出",
-      "onboard_time": 1726734567,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165034,
@@ -1539,14 +1563,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 159007,
-      "num": 159007,
-      "word": "肖战北京文化论坛文艺晚会",
-      "onboard_time": 1726737624,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 158188,
       "num": 158188,
       "word": "00后中秋回村成了最大显眼包",
@@ -1587,8 +1603,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 153787,
-      "num": 153787,
+      "raw_hot": 153882,
+      "num": 153882,
       "word": "黎巴嫩爆炸已致32死数千人受伤",
       "onboard_time": 1726737264,
       "rank": 45,
@@ -1601,14 +1617,6 @@
       "onboard_time": 1726728620,
       "rank": 44,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 153539,
-      "num": 153539,
-      "word": "4岁男孩患上皮肤饥饿症",
-      "onboard_time": 1726737506,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147840,
@@ -1672,14 +1680,6 @@
       "word": "受地震影响合肥多处房屋开裂",
       "onboard_time": 1726700055,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142641,
-      "num": 142641,
-      "word": "女子买五花肉肥肉全被扎带隐藏",
-      "onboard_time": 1726737624,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1753,6 +1753,14 @@
       "onboard_time": 1726660460,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129125,
+      "num": 129125,
+      "word": "68一碗的汉堡肉盖浇饭是智商税吗",
+      "onboard_time": 1726737264,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 129079,
@@ -2099,6 +2107,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60888,
+      "num": 382737,
+      "word": "1元抢购的两提卷纸半个巴掌大",
+      "onboard_time": 1726737506,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57964,
+      "num": 377348,
+      "word": "贵州一老师挪用19万元花6万买彩票",
+      "onboard_time": 1726737203,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56952,
       "num": 56952,
       "word": "香港美诚注册商标授权广州美诚生产",
@@ -2121,6 +2145,22 @@
       "onboard_time": 1726680015,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 52092,
+      "num": 236001,
+      "word": "7岁女孩被困车内机智自救",
+      "onboard_time": 1726734926,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49979,
+      "num": 382317,
+      "word": "媒体评河南叶县强拆大学生创业果园",
+      "onboard_time": 1726736904,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49011,
@@ -2163,14 +2203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 42353,
-      "num": 382317,
-      "word": "媒体评河南叶县强拆大学生创业果园",
-      "onboard_time": 1726736904,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 41998,
       "num": 410770,
       "word": "唐嫣同款包包",
@@ -2195,19 +2227,19 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 41137,
-      "num": 204688,
-      "word": "7岁女孩被困车内机智自救",
-      "onboard_time": 1726734926,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 40464,
       "num": 143095,
       "word": "重庆这个地铁口市民裹毯子乘凉",
       "onboard_time": 1726701677,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40293,
+      "num": 382399,
+      "word": "人工智能可能创造新一代施虐者",
+      "onboard_time": 1726737144,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -2267,6 +2299,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35218,
+      "num": 382178,
+      "word": "厦门篮球氛围拉满了",
+      "onboard_time": 1726736424,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 35037,
+      "num": 154714,
+      "word": "通义视频生成模型全量免费开放",
+      "onboard_time": 1726738342,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 33028,
       "num": 421052,
       "word": "官方辟谣合肥一住宅楼地震后开裂",
@@ -2315,28 +2363,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 27009,
-      "num": 377348,
-      "word": "贵州一老师挪用19万元花6万买彩票",
-      "onboard_time": 1726737203,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24940,
       "num": 436591,
       "word": "家电30年没涨过价",
       "onboard_time": 1726724548,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24064,
-      "num": 382178,
-      "word": "厦门篮球氛围拉满了",
-      "onboard_time": 1726736424,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 23455,
@@ -2347,11 +2379,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22651,
-      "num": 382399,
-      "word": "人工智能可能创造新一代施虐者",
-      "onboard_time": 1726737144,
-      "rank": 12,
+      "raw_hot": 22220,
+      "num": 382643,
+      "word": "专家称美元降息后部分资金将回流国内",
+      "onboard_time": 1726737744,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2377,22 +2409,6 @@
       "onboard_time": 1726732588,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 14775,
-      "num": 382737,
-      "word": "1元抢购的两提卷纸半个巴掌大",
-      "onboard_time": 1726737506,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13628,
-      "num": 382643,
-      "word": "专家称美元降息后部分资金将回流国内",
-      "onboard_time": 1726737744,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8049,
