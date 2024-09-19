@@ -1,0 +1,402 @@
+{
+  "runTime": 1726744734053,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5165291,
+        "num": 5165291,
+        "word": "黄晓明官宣恋情",
+        "onboard_time": 1726728865,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 886620,
+        "num": 886620,
+        "word": "微信朋友圈支持live图",
+        "onboard_time": 1726743022,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 830840,
+        "num": 830840,
+        "word": "台湾唯一慰安妇铜像918当天被移除",
+        "onboard_time": 1726733487,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 352671,
+        "num": 352671,
+        "word": "俄女首富称丈夫闯进公司开枪突袭",
+        "onboard_time": 1726743262,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 872571,
+        "num": 350436,
+        "word": "黄晓明的头像",
+        "onboard_time": 1726740861,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477396,
+        "num": 348107,
+        "word": "张翰终于把头套摘了",
+        "onboard_time": 1726740201,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345614,
+        "num": 345614,
+        "word": "黎巴嫩",
+        "onboard_time": 1726720651,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 328359,
+        "num": 328359,
+        "word": "黎巴嫩一医院附近发现爆炸装置",
+        "onboard_time": 1726721492,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 58876,
+        "num": 324565,
+        "word": "恶意举报34万余次非法获利数百万",
+        "onboard_time": 1726743743,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2787955,
+        "num": 320015,
+        "word": "叶珂晒聊天记录",
+        "onboard_time": 1726729765,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77684,
+        "num": 314207,
+        "word": "杨幂地广路过都得念两句",
+        "onboard_time": 1726740742,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1257865,
+        "num": 307701,
+        "word": "娟子被抓",
+        "onboard_time": 1726734087,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 789155,
+        "num": 304499,
+        "word": "你别做我来做",
+        "onboard_time": 1726729586,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46562,
+        "num": 298047,
+        "word": "暑假代画手抄报月入5000元",
+        "onboard_time": 1726743801,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475227,
+        "num": 290944,
+        "word": "4岁男孩患上皮肤饥饿症",
+        "onboard_time": 1726737506,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290270,
+        "num": 290270,
+        "word": "顺丰快递员当街殴打怀孕妻子被行拘",
+        "onboard_time": 1726739782,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73849,
+        "num": 285696,
+        "word": "邓为一下飞机就直播",
+        "onboard_time": 1726743982,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51828,
+        "num": 279990,
+        "word": "葛晓倩晒与袁巴元聊天记录",
+        "onboard_time": 1726743801,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44149,
+        "num": 273316,
+        "word": "男子应聘司机却背上十几万贷款",
+        "onboard_time": 1726743743,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309532,
+        "num": 260995,
+        "word": "女子PPT曝男友嫖娼或构成侵权",
+        "onboard_time": 1726724788,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185920,
+        "num": 253743,
+        "word": "李兰迪生图",
+        "onboard_time": 1726739361,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252127,
+        "num": 252127,
+        "word": "2024年国庆放假安排来了",
+        "onboard_time": 1726730967,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249886,
+        "num": 249886,
+        "word": "央广网评装聋作哑的三只羊",
+        "onboard_time": 1726713858,
+        "rank": 23,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 204169,
+        "num": 237919,
+        "word": "黄景瑜单手抱关晓彤",
+        "onboard_time": 1726730427,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235921,
+        "num": 235921,
+        "word": "上海台风",
+        "onboard_time": 1726742602,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116577,
+        "num": 231947,
+        "word": "偷摸姐和暗爽哥",
+        "onboard_time": 1726743801,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46856,
+        "num": 229964,
+        "word": "明天抢iPhone16现货能价保到双11",
+        "onboard_time": 1726743921,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 228098,
+        "num": 228098,
+        "word": "scout疑似恋爱",
+        "onboard_time": 1726739903,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14982,
+        "num": 205792,
+        "word": "美联储降息支撑中国出口延续韧性",
+        "onboard_time": 1726743921,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200504,
+        "num": 200504,
+        "word": "普拉桑将给南京带来9级大风和暴雨",
+        "onboard_time": 1726740261,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189598,
+        "num": 189598,
+        "word": "女子买五花肉肥肉全被扎带隐藏",
+        "onboard_time": 1726737624,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178644,
+        "num": 187387,
+        "word": "Jennie方否认与BamBam恋情",
+        "onboard_time": 1726737384,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185519,
+        "num": 185519,
+        "word": "饿到什么程度才会开始燃烧脂肪",
+        "onboard_time": 1726743262,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 179778,
+        "num": 179778,
+        "word": "黎巴嫩多地寻呼机爆炸",
+        "onboard_time": 1726724668,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 179237,
+        "num": 179237,
+        "word": "丈夫打麻将被扔靠枕后殴打怀孕妻子",
+        "onboard_time": 1726731148,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161367,
+        "num": 161367,
+        "word": "普拉桑还没来苏力已在生成",
+        "onboard_time": 1726742542,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158979,
+        "num": 158979,
+        "word": "网购19万大牌包用假货申请退款",
+        "onboard_time": 1726740081,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158596,
+        "num": 158596,
+        "word": "乐道发布会",
+        "onboard_time": 1726744161,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 156394,
+        "num": 156394,
+        "word": "陈伟霆晒与赵露思合照",
+        "onboard_time": 1726739543,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149712,
+        "num": 149712,
+        "word": "合肥地震",
+        "onboard_time": 1726661786,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148572,
+        "num": 148572,
+        "word": "offer6普信3分钟",
+        "onboard_time": 1726740383,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147110,
+        "num": 147110,
+        "word": "狗狗以为捡了树枝奶奶就要它了",
+        "onboard_time": 1726732827,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145783,
+        "num": 145783,
+        "word": "网传大熊猫丁丁扑倒饲养员",
+        "onboard_time": 1726734387,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145348,
+        "num": 145348,
+        "word": "梁王组合无缘8强",
+        "onboard_time": 1726730967,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134285,
+        "num": 134285,
+        "word": "林一把冰淇淋喂沈月眼睛上了",
+        "onboard_time": 1726742902,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127973,
+        "num": 127973,
+        "word": "梅姨案9个被拐孩子还有1个没找到",
+        "onboard_time": 1726744702,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123940,
+        "num": 123940,
+        "word": "做美诚月饼的米其林大厨到底是谁",
+        "onboard_time": 1726742001,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 121784,
+        "num": 121784,
+        "word": "米兰时装周",
+        "onboard_time": 1726741042,
+        "rank": 48,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 120847,
+        "num": 120847,
+        "word": "叶珂 钻戒",
+        "onboard_time": 1726668203,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队淬火向前#"
+    }
+  }
+}
