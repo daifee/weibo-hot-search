@@ -1,0 +1,410 @@
+{
+  "runTime": 1726752479890,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2024841,
+        "num": 2024841,
+        "word": "微信朋友圈支持live图",
+        "onboard_time": 1726743022,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 636666,
+        "num": 636666,
+        "word": "合肥成立联合调查组核查三只羊问题",
+        "onboard_time": 1726748602,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26141,
+        "num": 594217,
+        "word": "把青春华章写在祖国大地上",
+        "onboard_time": 1726752081,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2343776,
+        "num": 589728,
+        "word": "吴谨言肚子",
+        "onboard_time": 1726748302,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 577880,
+        "num": 577880,
+        "word": "台风普拉桑登陆浙江",
+        "onboard_time": 1726745062,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558929,
+        "num": 558929,
+        "word": "微信回应安卓何时能发live图",
+        "onboard_time": 1726745242,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 531039,
+        "num": 531039,
+        "word": "Jennie解释室内吸烟道歉的原因",
+        "onboard_time": 1726746561,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520269,
+        "num": 520269,
+        "word": "半熟男女",
+        "onboard_time": 1726746141,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27808,
+        "num": 499664,
+        "word": "揭秘黎巴嫩寻呼机爆炸疑云",
+        "onboard_time": 1726751001,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241353,
+        "num": 485231,
+        "word": "台湾唯一慰安妇铜像918当天被移除",
+        "onboard_time": 1726733487,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1104410,
+        "num": 472609,
+        "word": "娟子被抓",
+        "onboard_time": 1726734087,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 865864,
+        "num": 447800,
+        "word": "黄晓明的头像",
+        "onboard_time": 1726740861,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 606357,
+        "num": 422402,
+        "word": "袁巴元承认改分手协议日期",
+        "onboard_time": 1726749201,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406684,
+        "num": 406684,
+        "word": "4岁男孩患上皮肤饥饿症",
+        "onboard_time": 1726737506,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277180,
+        "num": 277180,
+        "word": "男子被同学驾车多次撞击碾压致死",
+        "onboard_time": 1726746200,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241780,
+        "num": 241780,
+        "word": "半熟男女 向所有纯爱战士致歉",
+        "onboard_time": 1726750942,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226477,
+        "num": 226477,
+        "word": "张大奕关店",
+        "onboard_time": 1726745960,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 677319,
+        "num": 226459,
+        "word": "你别做我来做",
+        "onboard_time": 1726729586,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35851,
+        "num": 226303,
+        "word": "半熟男女 三观",
+        "onboard_time": 1726752261,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27069,
+        "num": 226220,
+        "word": "律师解读送养孩子是否违法",
+        "onboard_time": 1726751001,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518220,
+        "num": 226070,
+        "word": "23岁弟弟离世姐姐崩溃大哭",
+        "onboard_time": 1726746200,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252287,
+        "num": 225984,
+        "word": "台风普拉桑将在浙江上海一带再次登陆",
+        "onboard_time": 1726744726,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294883,
+        "num": 225800,
+        "word": "家暴男子在离婚法庭上扛起妻子就跑",
+        "onboard_time": 1726750822,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249240,
+        "num": 225752,
+        "word": "马龙活动",
+        "onboard_time": 1726749022,
+        "rank": 23,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 198759,
+        "num": 225541,
+        "word": "白色橄榄树首发OST",
+        "onboard_time": 1726751423,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225515,
+        "num": 225515,
+        "word": "180斤7XL女孩当汉服模特月入过万",
+        "onboard_time": 1726751903,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222075,
+        "num": 222075,
+        "word": "乐道发布会",
+        "onboard_time": 1726744161,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 201468,
+        "num": 201468,
+        "word": "饿到什么程度才会开始燃烧脂肪",
+        "onboard_time": 1726743262,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 195776,
+        "num": 195776,
+        "word": "张翰终于把头套摘了",
+        "onboard_time": 1726740201,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175621,
+        "num": 185446,
+        "word": "邓为 人在巴黎但像在北京郊区",
+        "onboard_time": 1726745780,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183008,
+        "num": 183008,
+        "word": "Prada大秀",
+        "onboard_time": 1726747703,
+        "rank": 30,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 52363,
+        "num": 178572,
+        "word": "1200元能买到国宝级艺术家证书",
+        "onboard_time": 1726750521,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175663,
+        "num": 175663,
+        "word": "央视起底网络乱象",
+        "onboard_time": 1726748661,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174751,
+        "num": 174751,
+        "word": "供人贩吃住却被他偷走孩子",
+        "onboard_time": 1726747039,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162657,
+        "num": 162657,
+        "word": "黎巴嫩一医院附近发现爆炸装置",
+        "onboard_time": 1726721492,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 161719,
+        "num": 161719,
+        "word": "女子PPT曝男友嫖娼或构成侵权",
+        "onboard_time": 1726724788,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45822,
+        "num": 160269,
+        "word": "2024品质内衣白皮书",
+        "onboard_time": 1726751722,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 159034,
+        "num": 159034,
+        "word": "王子奇刚当上人妻 王星越就出手了",
+        "onboard_time": 1726752022,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156495,
+        "num": 156495,
+        "word": "黎巴嫩",
+        "onboard_time": 1726720651,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 155247,
+        "num": 155247,
+        "word": "rapper左一燐曝唐老师家暴",
+        "onboard_time": 1726750222,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151234,
+        "num": 151234,
+        "word": "蔡徐坤到了米兰就出门了",
+        "onboard_time": 1726750762,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 4163,
+        "num": 151090,
+        "word": "一代代军人淬火成钢的誓言",
+        "onboard_time": 1726706600,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150984,
+        "num": 150984,
+        "word": "警方又找回一名梅姨案被拐儿童",
+        "onboard_time": 1726749381,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150852,
+        "num": 150852,
+        "word": "一诺赵嘉敏游环球影城",
+        "onboard_time": 1726751423,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145139,
+        "num": 145139,
+        "word": "恶意举报34万余次非法获利数百万",
+        "onboard_time": 1726743743,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132601,
+        "num": 132601,
+        "word": "网友等红灯偶遇李现",
+        "onboard_time": 1726751362,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 101384,
+        "num": 131578,
+        "word": "任嘉伦李兰迪回应偷感夫妇",
+        "onboard_time": 1726744341,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131322,
+        "num": 131322,
+        "word": "葛晓倩晒与袁巴元聊天记录",
+        "onboard_time": 1726743801,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126686,
+        "num": 126686,
+        "word": "何同学iPhone16评测",
+        "onboard_time": 1726751722,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 126367,
+        "num": 126367,
+        "word": "黄晓明叶珂恋情时间线",
+        "onboard_time": 1726751961,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族共同体意识是民族团结之本#"
+    }
+  }
+}
