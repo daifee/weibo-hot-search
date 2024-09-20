@@ -1,0 +1,410 @@
+{
+  "runTime": 1726802695912,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2013599,
+        "num": 2013599,
+        "word": "3天穿同一件衣服出镜官员回应道歉",
+        "onboard_time": 1726800079,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1411193,
+        "num": 1411193,
+        "word": "原来黄晓明是给叶珂买猫",
+        "onboard_time": 1726794502,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23083,
+        "num": 1384069,
+        "word": "2024北京文化论坛",
+        "onboard_time": 1726715000,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1359884,
+        "num": 1359884,
+        "word": "何超盈瘦脱相",
+        "onboard_time": 1726798580,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1015253,
+        "num": 1015253,
+        "word": "恋与深空",
+        "onboard_time": 1726802000,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 689914,
+        "num": 689914,
+        "word": "上海暴雨",
+        "onboard_time": 1726792221,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756511,
+        "num": 679960,
+        "word": "杨紫美式辣妹",
+        "onboard_time": 1726801100,
+        "rank": 6,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 617857,
+        "num": 617857,
+        "word": "大连思科被曝裁员赔偿N+7",
+        "onboard_time": 1726800258,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42451,
+        "num": 585160,
+        "word": "上海启动防汛防台二级响应",
+        "onboard_time": 1726801340,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181296,
+        "num": 578077,
+        "word": "iPhone16和华为三折人气谁更旺",
+        "onboard_time": 1726801700,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 573291,
+        "num": 573291,
+        "word": "19名硕士博士助力泡菜卖了220亿",
+        "onboard_time": 1726799059,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 58321,
+        "num": 565856,
+        "word": "余承东交付首批华为三折叠",
+        "onboard_time": 1726799961,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 562964,
+        "num": 562964,
+        "word": "iPhone16ProMax最高加价1200元",
+        "onboard_time": 1726797379,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 526911,
+        "num": 526911,
+        "word": "男生猥亵女生被发现后悔求饶",
+        "onboard_time": 1726792821,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484776,
+        "num": 484776,
+        "word": "微信实况",
+        "onboard_time": 1726753402,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 457635,
+        "num": 457635,
+        "word": "男子送妹妹上学突发疾病致车祸2死",
+        "onboard_time": 1726800619,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433662,
+        "num": 433662,
+        "word": "宋茜王鹤棣番位",
+        "onboard_time": 1726801579,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94727,
+        "num": 400844,
+        "word": "网红小英曾开有百货商店",
+        "onboard_time": 1726802242,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 34270,
+        "num": 400782,
+        "word": "西凤酒请司马南参加活动引争议",
+        "onboard_time": 1726800320,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 400723,
+        "num": 400723,
+        "word": "上减肥课发现教练是世界冠军",
+        "onboard_time": 1726796960,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 845802,
+        "num": 397040,
+        "word": "招行已开除涉58页PPT举报事件员工",
+        "onboard_time": 1726795221,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544495,
+        "num": 395126,
+        "word": "西班牙网红夫妇吐槽中国厕所",
+        "onboard_time": 1726792821,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393128,
+        "num": 393128,
+        "word": "王鹤棣宋茜合作星河入梦",
+        "onboard_time": 1726800140,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 352940,
+        "num": 352940,
+        "word": "喜茶 樊振东",
+        "onboard_time": 1726802420,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 342535,
+        "num": 342535,
+        "word": "短剧男主都帅成这样了",
+        "onboard_time": 1726764976,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314017,
+        "num": 314017,
+        "word": "黎巴嫩初步调查通信设备爆炸事件",
+        "onboard_time": 1726795880,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 310717,
+        "num": 310717,
+        "word": "王俊凯 我现在强得可怕",
+        "onboard_time": 1726797379,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 309983,
+        "num": 309983,
+        "word": "小英两天掉粉近10万",
+        "onboard_time": 1726801159,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 292700,
+        "num": 292700,
+        "word": "大连思科近300员工一夜失业",
+        "onboard_time": 1726801700,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277053,
+        "num": 277053,
+        "word": "周深鸟巢准备了13万份伴手礼",
+        "onboard_time": 1726790660,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 220244,
+        "num": 275475,
+        "word": "北京暴雨",
+        "onboard_time": 1726788557,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274753,
+        "num": 274753,
+        "word": "网红小英是卖惨还是真惨",
+        "onboard_time": 1726793482,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 251933,
+        "num": 251933,
+        "word": "上海游泳馆站",
+        "onboard_time": 1726799479,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251931,
+        "num": 251931,
+        "word": "奶奶为防老鼠房间放满南瓜结果没防住",
+        "onboard_time": 1726797620,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232516,
+        "num": 232516,
+        "word": "三里屯苹果店暴雨中大排长龙",
+        "onboard_time": 1726800501,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 230717,
+        "num": 230717,
+        "word": "研究发现少一颗牙大脑衰老近一岁",
+        "onboard_time": 1726795581,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 220196,
+        "num": 220196,
+        "word": "魔道祖师",
+        "onboard_time": 1726802180,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 214361,
+        "num": 214361,
+        "word": "华为三折叠",
+        "onboard_time": 1726799420,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 208575,
+        "num": 208575,
+        "word": "大量掉头发是多囊卵巢的症状之一",
+        "onboard_time": 1726790179,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 200950,
+        "num": 200950,
+        "word": "北方降温幅度可达12摄氏度",
+        "onboard_time": 1726800079,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195938,
+        "num": 195938,
+        "word": "双城之战动画第二季",
+        "onboard_time": 1726801819,
+        "rank": 40,
+        "category": "动漫,游戏"
+      },
+      {
+        "raw_hot": 189098,
+        "num": 189098,
+        "word": "姜妍 虞书欣当了天我的知世",
+        "onboard_time": 1726790841,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181856,
+        "num": 181856,
+        "word": "郑雅娴和粉丝用中文暗度陈仓",
+        "onboard_time": 1726799899,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174396,
+        "num": 174396,
+        "word": "黑神话悟空总收入超67亿",
+        "onboard_time": 1726793181,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160520,
+        "num": 160520,
+        "word": "AI画出了中国风的硕果累累",
+        "onboard_time": 1726800199,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158450,
+        "num": 158450,
+        "word": "年轻人为了不弯腰扫地有多拼",
+        "onboard_time": 1726802361,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155680,
+        "num": 155680,
+        "word": "黎巴嫩民众不敢用手机和电池",
+        "onboard_time": 1726802361,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 148432,
+        "num": 148432,
+        "word": "iPhone16",
+        "onboard_time": 1726793661,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 146577,
+        "num": 146577,
+        "word": "民政局回应小英送养孩子传闻",
+        "onboard_time": 1726757064,
+        "rank": 48,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 142898,
+        "num": 142898,
+        "word": "58页PPT被举报管培生被开除党籍",
+        "onboard_time": 1726797079,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族共同体意识是民族团结之本#"
+    }
+  }
+}
