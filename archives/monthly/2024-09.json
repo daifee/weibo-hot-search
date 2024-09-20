@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726816912053,
+  "endTime": 1726817725864,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -2048,6 +2048,14 @@
       "word": "三只羊女主播沫沫已有9个月未更新",
       "onboard_time": 1725400093,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1528897,
+      "num": 1528897,
+      "word": "网传高校教官和女生发生不雅行为",
+      "onboard_time": 1726815201,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -5459,6 +5467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 924212,
+      "num": 924212,
+      "word": "男子养2条活体mini鳄鱼当茶宠",
+      "onboard_time": 1726815260,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 922133,
       "num": 922133,
       "word": "Scout暂时无缘S14",
@@ -6369,14 +6385,6 @@
       "onboard_time": 1725276380,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 829769,
-      "num": 829769,
-      "word": "网传高校教官和女生发生不雅行为",
-      "onboard_time": 1726815201,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 829470,
@@ -9043,6 +9051,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 630539,
+      "num": 630539,
+      "word": "中日就福岛核污染水排海达成4点共识",
+      "onboard_time": 1726816818,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 628495,
       "num": 628495,
       "word": "美诚被曝曾为东方甄选代工月饼",
@@ -11065,14 +11081,6 @@
       "onboard_time": 1725104900,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 526977,
-      "num": 526977,
-      "word": "男子养2条活体mini鳄鱼当茶宠",
-      "onboard_time": 1726815260,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 526380,
@@ -25067,6 +25075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 213777,
+      "num": 213777,
+      "word": "网红小英丈夫曾称是扮演坏人",
+      "onboard_time": 1726813581,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 213729,
       "num": 213729,
       "word": "王楚钦回应进四强",
@@ -27385,14 +27401,6 @@
       "onboard_time": 1725905233,
       "rank": 13,
       "category": "数码"
-    },
-    {
-      "raw_hot": 200933,
-      "num": 200933,
-      "word": "网红小英丈夫曾称是扮演坏人",
-      "onboard_time": 1726813581,
-      "rank": 39,
-      "category": "网红"
     },
     {
       "raw_hot": 200919,
@@ -30203,8 +30211,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188979,
-      "num": 188979,
+      "raw_hot": 189005,
+      "num": 189005,
       "word": "胡歌偷心一响 宝总登场",
       "onboard_time": 1726816459,
       "rank": 31,
@@ -31217,6 +31225,14 @@
       "onboard_time": 1725686958,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184961,
+      "num": 234908,
+      "word": "惠英红认证后宫最庞大",
+      "onboard_time": 1726815800,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 184944,
@@ -32361,14 +32377,6 @@
       "onboard_time": 1725248419,
       "rank": 43,
       "category": "数码"
-    },
-    {
-      "raw_hot": 179338,
-      "num": 179338,
-      "word": "中日就福岛核污染水排海达成4点共识",
-      "onboard_time": 1726816818,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 179299,
@@ -33716,7 +33724,7 @@
     },
     {
       "raw_hot": 173814,
-      "num": 173814,
+      "num": 219832,
       "word": "19岁高中生患上阿尔茨海默病",
       "onboard_time": 1726814361,
       "rank": 48,
@@ -35441,6 +35449,14 @@
       "onboard_time": 1725420559,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165666,
+      "num": 165666,
+      "word": "赵露思请粉丝吃冰淇淋喝果汁",
+      "onboard_time": 1726816940,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 165619,
@@ -37443,6 +37459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156999,
+      "num": 156999,
+      "word": "医生谈穿lululemon做核磁或被灼伤",
+      "onboard_time": 1726816818,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156987,
       "num": 156987,
       "word": "北京蓝金配色天空",
@@ -38696,6 +38720,14 @@
       "word": "受台风摩羯影响香港出现狂风暴雨",
       "onboard_time": 1725588979,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152187,
+      "num": 152187,
+      "word": "贴身猥亵女生涉事男生放弃入学资格",
+      "onboard_time": 1726817121,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -41475,6 +41507,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 139659,
+      "num": 139659,
+      "word": "过度节食减肥易导致胆囊疾病",
+      "onboard_time": 1726817602,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 139617,
       "num": 139617,
       "word": "iPhone16不涨价或给苹果盈利压力",
@@ -41659,14 +41699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138671,
-      "num": 138671,
-      "word": "医生谈穿lululemon做核磁或被灼伤",
-      "onboard_time": 1726816818,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138639,
       "num": 138639,
       "word": "国足排名世界第91",
@@ -41817,6 +41849,14 @@
       "onboard_time": 1725269120,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 138106,
+      "num": 138106,
+      "word": "苹果用户被软件7分钟扣款23次",
+      "onboard_time": 1726817299,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 138080,
@@ -42377,6 +42417,14 @@
       "onboard_time": 1726045941,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 134952,
+      "num": 462949,
+      "word": "阿如那石凯井胧铁三角解散",
+      "onboard_time": 1726816580,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 134951,
@@ -48851,14 +48899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 88320,
-      "num": 234908,
-      "word": "惠英红认证后宫最庞大",
-      "onboard_time": 1726815800,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 88192,
       "num": 367593,
       "word": "徐正溪跟粉丝道歉",
@@ -49713,14 +49753,6 @@
       "onboard_time": 1726205367,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78347,
-      "num": 462949,
-      "word": "阿如那石凯井胧铁三角解散",
-      "onboard_time": 1726816580,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 78168,
@@ -51731,6 +51763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57271,
+      "num": 273456,
+      "word": "直击华为三折叠首销现场",
+      "onboard_time": 1726814061,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 57117,
       "num": 563645,
       "word": "消费者买15盒美诚月饼退单被拒",
@@ -53209,14 +53249,6 @@
       "onboard_time": 1726422253,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 46950,
-      "num": 273456,
-      "word": "直击华为三折叠首销现场",
-      "onboard_time": 1726814061,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 46856,
@@ -56211,6 +56243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31258,
+      "num": 420545,
+      "word": "如何破解美元潮汐",
+      "onboard_time": 1726815800,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31247,
       "num": 261745,
       "word": "终于和妈妈成了能谈论月经的关系",
@@ -56792,14 +56832,6 @@
       "word": "古人的极繁风大金链子颠覆认知了",
       "onboard_time": 1725654071,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28194,
-      "num": 420545,
-      "word": "如何破解美元潮汐",
-      "onboard_time": 1726815800,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -59369,6 +59401,14 @@
       "onboard_time": 1725255082,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9998,
+      "num": 135341,
+      "word": "华为新手表美到了nextlevel",
+      "onboard_time": 1726817659,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 9564,

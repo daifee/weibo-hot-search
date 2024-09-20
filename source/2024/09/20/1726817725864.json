@@ -1,0 +1,410 @@
+{
+  "runTime": 1726817725864,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1565749,
+        "num": 1565749,
+        "word": "黄晓明官宣最大的受害者出现了",
+        "onboard_time": 1726804702,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1528897,
+        "num": 1528897,
+        "word": "网传高校教官和女生发生不雅行为",
+        "onboard_time": 1726815201,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4608,
+        "num": 1121371,
+        "word": "新技术催生文化新潮流",
+        "onboard_time": 1726804940,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924212,
+        "num": 924212,
+        "word": "男子养2条活体mini鳄鱼当茶宠",
+        "onboard_time": 1726815260,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663372,
+        "num": 663372,
+        "word": "强拆果园副县长被曝15岁参加工作",
+        "onboard_time": 1726811120,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630539,
+        "num": 630539,
+        "word": "中日就福岛核污染水排海达成4点共识",
+        "onboard_time": 1726816818,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573999,
+        "num": 573999,
+        "word": "培训班老师发朋友圈家长觉得被阴阳",
+        "onboard_time": 1726812080,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537596,
+        "num": 537596,
+        "word": "向孩子举起屠刀的人十恶不赦",
+        "onboard_time": 1726805782,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427236,
+        "num": 427236,
+        "word": "男子自学后在葡萄园研制冰毒",
+        "onboard_time": 1726812201,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134952,
+        "num": 416900,
+        "word": "阿如那石凯井胧铁三角解散",
+        "onboard_time": 1726816580,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 701332,
+        "num": 413945,
+        "word": "陆虎嘘嘘五年内不考虑生小孩",
+        "onboard_time": 1726812080,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407037,
+        "num": 407037,
+        "word": "黄晓明自曝不喜欢比自己强的女生",
+        "onboard_time": 1726807343,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394020,
+        "num": 394020,
+        "word": "莎头捍卫国乒荣耀",
+        "onboard_time": 1726812201,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 338941,
+        "num": 338941,
+        "word": "朱志鑫和易烊千玺立牌合照",
+        "onboard_time": 1726812141,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336278,
+        "num": 336278,
+        "word": "马雪阳谭咏雯官宣结婚",
+        "onboard_time": 1726812020,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292581,
+        "num": 292581,
+        "word": "精神医院排满了失眠中老年女性",
+        "onboard_time": 1726806622,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287480,
+        "num": 287480,
+        "word": "何超盈瘦脱相",
+        "onboard_time": 1726798580,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233713,
+        "num": 233713,
+        "word": "100秒了解网红小英被曝塌房事件",
+        "onboard_time": 1726807522,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220763,
+        "num": 220763,
+        "word": "男生猥亵女生被发现后悔求饶",
+        "onboard_time": 1726792821,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126164,
+        "num": 219832,
+        "word": "19岁高中生患上阿尔茨海默病",
+        "onboard_time": 1726814361,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57271,
+        "num": 218103,
+        "word": "直击华为三折叠首销现场",
+        "onboard_time": 1726814061,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 787430,
+        "num": 217375,
+        "word": "大爷电梯大便被曝光后自杀",
+        "onboard_time": 1726813520,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180808,
+        "num": 215759,
+        "word": "我国成功发射一箭六星",
+        "onboard_time": 1726810743,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 215012,
+        "num": 215012,
+        "word": "王子奇出道七年可着三个人薅",
+        "onboard_time": 1726810281,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213777,
+        "num": 213777,
+        "word": "网红小英丈夫曾称是扮演坏人",
+        "onboard_time": 1726813581,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 212879,
+        "num": 212879,
+        "word": "唐山打人案被判刑民警申诉听证会",
+        "onboard_time": 1726813880,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212586,
+        "num": 212586,
+        "word": "逐步恢复符合规准的日本水产品进口",
+        "onboard_time": 1726815382,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31258,
+        "num": 208342,
+        "word": "如何破解美元潮汐",
+        "onboard_time": 1726815800,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207219,
+        "num": 207219,
+        "word": "JDG无畏租借至狼队",
+        "onboard_time": 1726812800,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 205630,
+        "num": 205630,
+        "word": "深圳学生被刺事件嫌疑人身份曝光",
+        "onboard_time": 1726813221,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190910,
+        "num": 190910,
+        "word": "腾讯提醒勿为实况图重装微信",
+        "onboard_time": 1726813160,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 189005,
+        "num": 189005,
+        "word": "胡歌偷心一响 宝总登场",
+        "onboard_time": 1726816459,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184961,
+        "num": 184961,
+        "word": "惠英红认证后宫最庞大",
+        "onboard_time": 1726815800,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179550,
+        "num": 179550,
+        "word": "上海暴雨",
+        "onboard_time": 1726792221,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168910,
+        "num": 168910,
+        "word": "官方回应强拆果园的副县长15岁工作",
+        "onboard_time": 1726813400,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165666,
+        "num": 165666,
+        "word": "赵露思请粉丝吃冰淇淋喝果汁",
+        "onboard_time": 1726816940,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159000,
+        "num": 159000,
+        "word": "这个喷不了全是真老戏骨",
+        "onboard_time": 1726814000,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156999,
+        "num": 156999,
+        "word": "医生谈穿lululemon做核磁或被灼伤",
+        "onboard_time": 1726816818,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154968,
+        "num": 154968,
+        "word": "男孩鼻子恶臭两年取出颗生锈螺丝",
+        "onboard_time": 1726803203,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152984,
+        "num": 152984,
+        "word": "北方降温幅度可达12摄氏度",
+        "onboard_time": 1726800079,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152187,
+        "num": 152187,
+        "word": "贴身猥亵女生涉事男生放弃入学资格",
+        "onboard_time": 1726817121,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31528,
+        "num": 152175,
+        "word": "京东发起穿搭大赛",
+        "onboard_time": 1726813041,
+        "rank": 41,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 152173,
+        "num": 152173,
+        "word": "朋友圈实况图出现bug",
+        "onboard_time": 1726808961,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 149219,
+        "num": 149219,
+        "word": "哈利波特全八部内地重映",
+        "onboard_time": 1726805060,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146378,
+        "num": 146378,
+        "word": "未定事件簿主线剧场版",
+        "onboard_time": 1726816219,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139659,
+        "num": 139659,
+        "word": "过度节食减肥易导致胆囊疾病",
+        "onboard_time": 1726817602,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139606,
+        "num": 139606,
+        "word": "鑫仔鞍山小S",
+        "onboard_time": 1726813460,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138106,
+        "num": 138106,
+        "word": "苹果用户被软件7分钟扣款23次",
+        "onboard_time": 1726817299,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 136330,
+        "num": 136330,
+        "word": "恋与深空",
+        "onboard_time": 1726802000,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 9998,
+        "num": 135341,
+        "word": "华为新手表美到了nextlevel",
+        "onboard_time": 1726817659,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队淬火向前#"
+    }
+  }
+}
