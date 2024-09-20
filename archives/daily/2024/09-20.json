@@ -1,6 +1,6 @@
 {
   "startTime": 1726763246339,
-  "endTime": 1726809674135,
+  "endTime": 1726810725163,
   "band_list": [
     {
       "raw_hot": 2835519,
@@ -59,12 +59,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1432625,
-      "num": 699015,
+      "raw_hot": 1445788,
+      "num": 764607,
       "word": "黄晓明自曝不喜欢比自己强的女生",
       "onboard_time": 1726807343,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1396244,
+      "num": 1396244,
+      "word": "向孩子举起屠刀的人十恶不赦",
+      "onboard_time": 1726805782,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1307808,
@@ -89,14 +97,6 @@
       "onboard_time": 1726764976,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1174248,
-      "num": 1174248,
-      "word": "向孩子举起屠刀的人十恶不赦",
-      "onboard_time": 1726805782,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1108069,
@@ -161,6 +161,14 @@
       "onboard_time": 1726801159,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 766672,
+      "num": 766672,
+      "word": "中国籍女子在日本被抛尸荒野成白骨",
+      "onboard_time": 1726809680,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 710846,
@@ -379,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336277,
+      "num": 400297,
+      "word": "精神医院排满了失眠中老年女性",
+      "onboard_time": 1726806622,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335903,
       "num": 335903,
       "word": "两男子反向骗取电诈分子1800元被行拘",
@@ -392,14 +408,6 @@
       "word": "安徽省地震局加密观测肥东震区",
       "onboard_time": 1726757541,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 331487,
-      "num": 400297,
-      "word": "精神医院排满了失眠中老年女性",
-      "onboard_time": 1726806622,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -465,6 +473,14 @@
       "onboard_time": 1726807222,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 308885,
+      "num": 308885,
+      "word": "100秒了解网红小英被曝塌房事件",
+      "onboard_time": 1726807522,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 306591,
@@ -603,14 +619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251961,
-      "num": 251961,
-      "word": "100秒了解网红小英被曝塌房事件",
-      "onboard_time": 1726807522,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251112,
       "num": 234621,
       "word": "这可能是瘦肚子最高效的运动",
@@ -691,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229689,
+      "num": 229689,
+      "word": "上海网友称今天在暴雨中坐船上班",
+      "onboard_time": 1726809382,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228334,
       "num": 228334,
       "word": "合肥震后村民拍下井水翻滚如煮开",
@@ -755,6 +771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217959,
+      "num": 217959,
+      "word": "王子奇出道七年可着三个人薅",
+      "onboard_time": 1726810281,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211851,
       "num": 515307,
       "word": "苏大强变成女儿奴了",
@@ -787,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207310,
+      "num": 207310,
+      "word": "郑晓龙透露肖战藏海传新进展",
+      "onboard_time": 1726810582,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205074,
       "num": 205074,
       "word": "黄晓明叶珂恋情时间线",
@@ -801,6 +833,14 @@
       "onboard_time": 1726808842,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 203472,
+      "num": 203472,
+      "word": "雪迷宫",
+      "onboard_time": 1726809921,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 202795,
@@ -843,14 +883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191121,
-      "num": 191121,
-      "word": "上海网友称今天在暴雨中坐船上班",
-      "onboard_time": 1726809382,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188577,
       "num": 680048,
       "word": "iPhone16和华为三折人气谁更旺",
@@ -884,7 +916,7 @@
     },
     {
       "raw_hot": 180235,
-      "num": 180235,
+      "num": 464825,
       "word": "披荆斩棘",
       "onboard_time": 1726803441,
       "rank": 48,
@@ -953,6 +985,14 @@
       "onboard_time": 1726794382,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 167013,
+      "num": 403458,
+      "word": "喜剧之王单口季",
+      "onboard_time": 1726808902,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 162551,
@@ -1131,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129931,
+      "num": 470921,
+      "word": "官方通报叶县强拆果园事件",
+      "onboard_time": 1726810461,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129677,
       "num": 129677,
       "word": "iPhone16系列电池容量",
@@ -1235,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99572,
+      "num": 402525,
+      "word": "为啥有些医生需要边看病边算账",
+      "onboard_time": 1726808604,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98039,
       "num": 98039,
       "word": "黎巴嫩BP机爆炸时收到以方信息",
@@ -1297,14 +1353,6 @@
       "onboard_time": 1726751423,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 89862,
-      "num": 403458,
-      "word": "喜剧之王单口季",
-      "onboard_time": 1726808902,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 89746,
@@ -1377,14 +1425,6 @@
       "onboard_time": 1726770792,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 78555,
-      "num": 402525,
-      "word": "为啥有些医生需要边看病边算账",
-      "onboard_time": 1726808604,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77247,
@@ -1475,6 +1515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62205,
+      "num": 402717,
+      "word": "济南一干部群里辱骂群众被警方处罚",
+      "onboard_time": 1726808663,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58761,
       "num": 58761,
       "word": "乐道L60价格",
@@ -1499,6 +1547,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 54327,
+      "num": 295398,
+      "word": "欣花园日记",
+      "onboard_time": 1726810643,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 53737,
       "num": 172674,
       "word": "黎真主党领导人称以色列将受到惩罚",
@@ -1513,6 +1569,14 @@
       "onboard_time": 1726765935,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52732,
+      "num": 400775,
+      "word": "余承东谈华为三折叠五大心动理由",
+      "onboard_time": 1726806923,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 52099,
@@ -1531,20 +1595,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 51772,
-      "num": 402717,
-      "word": "济南一干部群里辱骂群众被警方处罚",
-      "onboard_time": 1726808663,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50412,
       "num": 50412,
       "word": "张大奕关店",
       "onboard_time": 1726745960,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 45927,
+      "num": 216993,
+      "word": "微博音乐盛典第一波阵容",
+      "onboard_time": 1726809261,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 45739,
@@ -1627,8 +1691,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37458,
+      "num": 196573,
+      "word": "余承东称用户的包容激励华为进步",
+      "onboard_time": 1726810582,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 37143,
-      "num": 402285,
+      "num": 452792,
       "word": "胡歌可隆品牌代言人",
       "onboard_time": 1726808604,
       "rank": 13,
@@ -1649,14 +1721,6 @@
       "onboard_time": 1726804940,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36071,
-      "num": 400775,
-      "word": "余承东谈华为三折叠五大心动理由",
-      "onboard_time": 1726806923,
-      "rank": 41,
-      "category": "数码"
     },
     {
       "raw_hot": 35662,

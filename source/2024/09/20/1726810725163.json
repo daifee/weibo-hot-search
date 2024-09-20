@@ -1,0 +1,410 @@
+{
+  "runTime": 1726810725163,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2324925,
+        "num": 2324925,
+        "word": "黄晓明官宣最大的受害者出现了",
+        "onboard_time": 1726804702,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1396244,
+        "num": 1396244,
+        "word": "向孩子举起屠刀的人十恶不赦",
+        "onboard_time": 1726805782,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33822,
+        "num": 963783,
+        "word": "新技术催生文化新潮流",
+        "onboard_time": 1726804940,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 784254,
+        "num": 784254,
+        "word": "3天穿同一件衣服出镜官员回应道歉",
+        "onboard_time": 1726800079,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 766672,
+        "num": 766672,
+        "word": "中国籍女子在日本被抛尸荒野成白骨",
+        "onboard_time": 1726809680,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1445788,
+        "num": 764607,
+        "word": "黄晓明自曝不喜欢比自己强的女生",
+        "onboard_time": 1726807343,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 703576,
+        "num": 703576,
+        "word": "黄牛拒收iPhone16Pro",
+        "onboard_time": 1726802960,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 575494,
+        "num": 575494,
+        "word": "何超盈瘦脱相",
+        "onboard_time": 1726798580,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478306,
+        "num": 478306,
+        "word": "哈利波特全八部内地重映",
+        "onboard_time": 1726805060,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129931,
+        "num": 470921,
+        "word": "官方通报叶县强拆果园事件",
+        "onboard_time": 1726810461,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40135,
+        "num": 464825,
+        "word": "披荆斩棘",
+        "onboard_time": 1726803441,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19845,
+        "num": 452792,
+        "word": "胡歌可隆品牌代言人",
+        "onboard_time": 1726808604,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501680,
+        "num": 431959,
+        "word": "原来黄晓明是给叶珂买猫",
+        "onboard_time": 1726794502,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431364,
+        "num": 431364,
+        "word": "男孩鼻子恶臭两年取出颗生锈螺丝",
+        "onboard_time": 1726803203,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389374,
+        "num": 389374,
+        "word": "男生猥亵女生被发现后悔求饶",
+        "onboard_time": 1726792821,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52732,
+        "num": 385994,
+        "word": "余承东谈华为三折叠五大心动理由",
+        "onboard_time": 1726806923,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 383058,
+        "num": 383058,
+        "word": "杨紫美式辣妹",
+        "onboard_time": 1726801100,
+        "rank": 16,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 336277,
+        "num": 336277,
+        "word": "精神医院排满了失眠中老年女性",
+        "onboard_time": 1726806622,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314102,
+        "num": 314102,
+        "word": "小英两天掉粉近10万",
+        "onboard_time": 1726801159,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 308885,
+        "num": 308885,
+        "word": "100秒了解网红小英被曝塌房事件",
+        "onboard_time": 1726807522,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449647,
+        "num": 308691,
+        "word": "招行已开除涉58页PPT举报事件员工",
+        "onboard_time": 1726795221,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308322,
+        "num": 308322,
+        "word": "贾玲官摄图",
+        "onboard_time": 1726803799,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 301615,
+        "num": 301615,
+        "word": "报纸上的赵露思",
+        "onboard_time": 1726807222,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299910,
+        "num": 299910,
+        "word": "恋与深空",
+        "onboard_time": 1726802000,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 54327,
+        "num": 295398,
+        "word": "欣花园日记",
+        "onboard_time": 1726810643,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291703,
+        "num": 291703,
+        "word": "西班牙网红夫妇吐槽中国厕所",
+        "onboard_time": 1726792821,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246339,
+        "num": 246339,
+        "word": "北方降温幅度可达12摄氏度",
+        "onboard_time": 1726800079,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244612,
+        "num": 244612,
+        "word": "上海暴雨",
+        "onboard_time": 1726792221,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238215,
+        "num": 238215,
+        "word": "时代少年团 景德镇",
+        "onboard_time": 1726806442,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232718,
+        "num": 232718,
+        "word": "周雨彤新剧全款买鞋这段",
+        "onboard_time": 1726806202,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16850,
+        "num": 230049,
+        "word": "李斌称乐道L60订单爆了",
+        "onboard_time": 1726807882,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 32913,
+        "num": 229783,
+        "word": "华为三折叠深度评测",
+        "onboard_time": 1726809082,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 229689,
+        "num": 229689,
+        "word": "上海网友称今天在暴雨中坐船上班",
+        "onboard_time": 1726809382,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221836,
+        "num": 221836,
+        "word": "大连思科被曝裁员赔偿N+7",
+        "onboard_time": 1726800258,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217959,
+        "num": 217959,
+        "word": "王子奇出道七年可着三个人薅",
+        "onboard_time": 1726810281,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217905,
+        "num": 217905,
+        "word": "朋友圈实况图出现bug",
+        "onboard_time": 1726808961,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 62205,
+        "num": 217112,
+        "word": "济南一干部群里辱骂群众被警方处罚",
+        "onboard_time": 1726808663,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45927,
+        "num": 216993,
+        "word": "微博音乐盛典第一波阵容",
+        "onboard_time": 1726809261,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 216886,
+        "num": 216886,
+        "word": "凭什么法考是天下第一考",
+        "onboard_time": 1726808542,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 207310,
+        "num": 207310,
+        "word": "郑晓龙透露肖战藏海传新进展",
+        "onboard_time": 1726810582,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109755,
+        "num": 205139,
+        "word": "谁家男女主谈恋爱从结拜开始啊",
+        "onboard_time": 1726807823,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99572,
+        "num": 204369,
+        "word": "为啥有些医生需要边看病边算账",
+        "onboard_time": 1726808604,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59566,
+        "num": 204305,
+        "word": "苏大强变成女儿奴了",
+        "onboard_time": 1726805361,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204273,
+        "num": 204273,
+        "word": "男子送妹妹上学突发疾病致车祸2死",
+        "onboard_time": 1726800619,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203472,
+        "num": 203472,
+        "word": "雪迷宫",
+        "onboard_time": 1726809921,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37458,
+        "num": 196573,
+        "word": "余承东称用户的包容激励华为进步",
+        "onboard_time": 1726810582,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 196530,
+        "num": 196530,
+        "word": "两男子反向骗取电诈分子1800元被行拘",
+        "onboard_time": 1726804160,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41061,
+        "num": 196127,
+        "word": "李现与知识分子风的适配度",
+        "onboard_time": 1726805242,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167013,
+        "num": 196025,
+        "word": "喜剧之王单口季",
+        "onboard_time": 1726808902,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195974,
+        "num": 195974,
+        "word": "LPL出征照",
+        "onboard_time": 1726808182,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队淬火向前#"
+    }
+  }
+}
