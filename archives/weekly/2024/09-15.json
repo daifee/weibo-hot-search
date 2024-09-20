@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726843094941,
+  "endTime": 1726845794741,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -472,6 +472,14 @@
       "word": "男子用筋膜枪按摩眼睛视力仅余0.1",
       "onboard_time": 1726396221,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1841029,
+      "num": 1841029,
+      "word": "女子离婚后中500万被诉前夫获200万",
+      "onboard_time": 1726841600,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1107,6 +1115,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1252603,
+      "num": 480820,
+      "word": "美14岁少女弑母后设圈套枪击继父",
+      "onboard_time": 1726841840,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1248057,
       "num": 1248057,
       "word": "挣102万外卖员出车祸朋友发声",
@@ -1441,6 +1457,14 @@
       "onboard_time": 1726559540,
       "rank": 3,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1100931,
+      "num": 1100931,
+      "word": "男主写死了",
+      "onboard_time": 1726834220,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 1097764,
@@ -1848,14 +1872,6 @@
       "word": "苏州应急转移近万名外来务工人员",
       "onboard_time": 1726413441,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 918496,
-      "num": 918496,
-      "word": "女子离婚后中500万被诉前夫获200万",
-      "onboard_time": 1726841600,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -2433,14 +2449,6 @@
       "onboard_time": 1726838539,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 714555,
-      "num": 698722,
-      "word": "男主写死了",
-      "onboard_time": 1726834220,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 710971,
@@ -4347,6 +4355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 423887,
+      "num": 423887,
+      "word": "全红婵归队",
+      "onboard_time": 1726843342,
+      "rank": 13,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 423850,
       "num": 901353,
       "word": "叶县县委书记回应网传强拆果园",
@@ -4513,14 +4529,6 @@
       "onboard_time": 1726743801,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 402019,
-      "num": 402019,
-      "word": "美14岁少女弑母后设圈套枪击继父",
-      "onboard_time": 1726841840,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 400886,
@@ -4731,6 +4739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 382352,
+      "num": 382352,
+      "word": "安陵容当时吃了最少30粒苦杏仁",
+      "onboard_time": 1726838361,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 379618,
       "num": 379618,
       "word": "赵丽颖中秋节营业图",
@@ -4777,6 +4793,14 @@
       "onboard_time": 1726790179,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 375457,
+      "num": 375457,
+      "word": "Scout发文回应",
+      "onboard_time": 1726844720,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 375027,
@@ -5339,6 +5363,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 335192,
+      "num": 335192,
+      "word": "中日共识与日本男童遇袭无关",
+      "onboard_time": 1726832539,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334843,
       "num": 334843,
       "word": "陆虎晒婚礼vlog",
@@ -5385,6 +5417,14 @@
       "onboard_time": 1726837821,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 331233,
+      "num": 331233,
+      "word": "银行工作人员也开始街头发传单了",
+      "onboard_time": 1726842562,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 331225,
@@ -5931,14 +5971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 299195,
-      "num": 299195,
-      "word": "中日共识与日本男童遇袭无关",
-      "onboard_time": 1726832539,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 299140,
       "num": 245420,
       "word": "半熟男女 向所有纯爱战士致歉",
@@ -6057,6 +6089,14 @@
       "onboard_time": 1726458387,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 292461,
+      "num": 292461,
+      "word": "郑州8级以上雷暴大风",
+      "onboard_time": 1726842621,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292275,
@@ -6339,14 +6379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 281033,
-      "num": 281033,
-      "word": "安陵容当时吃了最少30粒苦杏仁",
-      "onboard_time": 1726838361,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 280830,
       "num": 280830,
       "word": "刘耀文路透",
@@ -6427,6 +6459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 275697,
+      "num": 275697,
+      "word": "安徽亳州石像掉落11岁孩子被砸身亡",
+      "onboard_time": 1726844061,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275643,
       "num": 275643,
       "word": "一鹿彤行",
@@ -6489,6 +6529,14 @@
       "onboard_time": 1726580002,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271092,
+      "num": 271092,
+      "word": "金秋天好辣",
+      "onboard_time": 1726844840,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 270347,
@@ -7923,14 +7971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221368,
-      "num": 221368,
-      "word": "银行工作人员也开始街头发传单了",
-      "onboard_time": 1726842562,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221233,
       "num": 221233,
       "word": "普拉桑",
@@ -7945,6 +7985,14 @@
       "onboard_time": 1726838660,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221085,
+      "num": 221085,
+      "word": "广东最低气温将降至23度",
+      "onboard_time": 1726842859,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220854,
@@ -9579,6 +9627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192004,
+      "num": 192004,
+      "word": "白鹿玫瑰烟熏妆",
+      "onboard_time": 1726843221,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191942,
       "num": 191942,
       "word": "乐道L60",
@@ -9849,6 +9905,14 @@
       "onboard_time": 1726498942,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 186940,
+      "num": 186940,
+      "word": "梅姨",
+      "onboard_time": 1726844963,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186805,
@@ -10779,14 +10843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172205,
-      "num": 172205,
-      "word": "郑州8级以上雷暴大风",
-      "onboard_time": 1726842621,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172136,
       "num": 172136,
       "word": "合肥高新发布",
@@ -11161,6 +11217,14 @@
       "onboard_time": 1726452017,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165257,
+      "num": 165257,
+      "word": "我赴黎维和部队营区周边发生航弹爆炸",
+      "onboard_time": 1726843581,
+      "rank": 43,
+      "category": "社会新闻,国外时政"
     },
     {
       "raw_hot": 165201,
@@ -15227,6 +15291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81234,
+      "num": 523496,
+      "word": "日本首相称中国将派员到福岛检测核污水",
+      "onboard_time": 1726845081,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81170,
       "num": 81170,
       "word": "宋佳说表演时内衣也帮了很多",
@@ -16019,6 +16091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55089,
+      "num": 221505,
+      "word": "2000兆帕是什么概念",
+      "onboard_time": 1726841122,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 54662,
       "num": 769265,
       "word": "黎巴嫩要求航班上禁携传呼机对讲机",
@@ -16200,6 +16280,14 @@
       "word": "骑友忆香港遇车祸身亡的广东女骑手",
       "onboard_time": 1726466538,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51278,
+      "num": 485637,
+      "word": "上海确认出现短时龙卷风",
+      "onboard_time": 1726844899,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -16545,6 +16633,14 @@
       "onboard_time": 1726770253,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 44350,
+      "num": 222143,
+      "word": "何猷君送给自己的GT",
+      "onboard_time": 1726842021,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 44238,
@@ -16969,14 +17065,6 @@
       "onboard_time": 1726584024,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 36536,
-      "num": 221505,
-      "word": "2000兆帕是什么概念",
-      "onboard_time": 1726841122,
-      "rank": 41,
-      "category": "汽车"
     },
     {
       "raw_hot": 36446,
@@ -17419,6 +17507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30541,
+      "num": 480823,
+      "word": "山青传",
+      "onboard_time": 1726844781,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 30404,
       "num": 287147,
       "word": "蔚来李斌60公里远迎乐道庆华",
@@ -17467,14 +17563,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 29885,
-      "num": 222143,
-      "word": "何猷君送给自己的GT",
-      "onboard_time": 1726842021,
-      "rank": 49,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 29781,
       "num": 29932,
       "word": "林诗栋这一球惊艳全场",
@@ -17497,6 +17585,14 @@
       "onboard_time": 1726693751,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 29566,
+      "num": 393517,
+      "word": "胶布封嘴已经突破惩戒学生的边界",
+      "onboard_time": 1726844541,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29465,
@@ -17577,6 +17673,14 @@
       "onboard_time": 1726782671,
       "rank": 9,
       "category": "健康医疗,运动健身"
+    },
+    {
+      "raw_hot": 28577,
+      "num": 444406,
+      "word": "极氪7X无图NZP提前公测",
+      "onboard_time": 1726841300,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 28559,
@@ -17793,14 +17897,6 @@
       "onboard_time": 1726515251,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 23852,
-      "num": 444406,
-      "word": "极氪7X无图NZP提前公测",
-      "onboard_time": 1726841300,
-      "rank": 31,
-      "category": "汽车"
     },
     {
       "raw_hot": 23588,
