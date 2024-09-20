@@ -1,0 +1,410 @@
+{
+  "runTime": 1726842062080,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1745071,
+        "num": 1745071,
+        "word": "陈乔恩Alan婚礼嘉宾名单",
+        "onboard_time": 1726836682,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1452942,
+        "num": 1452942,
+        "word": "梅姨案最后1个孩子家长重新采血",
+        "onboard_time": 1726837401,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48011,
+        "num": 1320997,
+        "word": "北京文化论坛文艺晚会",
+        "onboard_time": 1726821740,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1204497,
+        "num": 1204497,
+        "word": "微信好友添加时间",
+        "onboard_time": 1726826359,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 716999,
+        "num": 716999,
+        "word": "泰州地震",
+        "onboard_time": 1726838539,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642240,
+        "num": 642240,
+        "word": "胡明轩绝杀",
+        "onboard_time": 1726840880,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 701696,
+        "num": 639050,
+        "word": "喻言被伯远淘汰",
+        "onboard_time": 1726838962,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 634055,
+        "num": 634055,
+        "word": "男主写死了",
+        "onboard_time": 1726834220,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300234,
+        "num": 626749,
+        "word": "黎巴嫩人害怕爆炸不敢用手机",
+        "onboard_time": 1726839861,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 43476,
+        "num": 623166,
+        "word": "号贩子手机1秒点击近百次挂号页",
+        "onboard_time": 1726841001,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100741,
+        "num": 623119,
+        "word": "迎风的青春",
+        "onboard_time": 1726829659,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 623090,
+        "num": 623090,
+        "word": "田曦薇时装周造型",
+        "onboard_time": 1726839681,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 85724,
+        "num": 559221,
+        "word": "D级车在北京胡同横着走",
+        "onboard_time": 1726839442,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 557157,
+        "num": 557157,
+        "word": "肖战出发澳门",
+        "onboard_time": 1726839381,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 27199,
+        "num": 529537,
+        "word": "官方辟谣上海黄浦江有江水倒灌",
+        "onboard_time": 1726841061,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523353,
+        "num": 523353,
+        "word": "甜馨走秀",
+        "onboard_time": 1726835179,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413033,
+        "num": 413033,
+        "word": "因室友烧伤男生父母5次割皮为其植皮",
+        "onboard_time": 1726829360,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409671,
+        "num": 409671,
+        "word": "范思哲大秀",
+        "onboard_time": 1726836620,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 17027,
+        "num": 398102,
+        "word": "胡歌生日忙着给别人送祝福",
+        "onboard_time": 1726841780,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42038,
+        "num": 385140,
+        "word": "锂电池可能被远程引爆吗",
+        "onboard_time": 1726841421,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518931,
+        "num": 363236,
+        "word": "黄晓明黄子韬 青岛特产黄氏霸总",
+        "onboard_time": 1726834820,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485270,
+        "num": 350693,
+        "word": "吴倩回应眼里没光了",
+        "onboard_time": 1726823361,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 411024,
+        "num": 343566,
+        "word": "肖战 好听",
+        "onboard_time": 1726836020,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 331456,
+        "num": 331456,
+        "word": "还我李肆",
+        "onboard_time": 1726830258,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331065,
+        "num": 331065,
+        "word": "天秤座生日快乐",
+        "onboard_time": 1726839080,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 452006,
+        "num": 323509,
+        "word": "黄晓明官宣最大的受害者出现了",
+        "onboard_time": 1726804702,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27362,
+        "num": 312645,
+        "word": "腾势Z9GT科技重塑豪华",
+        "onboard_time": 1726837521,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 304357,
+        "num": 304357,
+        "word": "北京晚霞",
+        "onboard_time": 1726828701,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281517,
+        "num": 281517,
+        "word": "女子离婚后中500万被诉前夫获200万",
+        "onboard_time": 1726841600,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280205,
+        "num": 280205,
+        "word": "宝马因销量重返价格战",
+        "onboard_time": 1726840042,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 255145,
+        "num": 255145,
+        "word": "考研预报名推迟",
+        "onboard_time": 1726837821,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 23852,
+        "num": 252240,
+        "word": "极氪7X无图NZP提前公测",
+        "onboard_time": 1726841300,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 252224,
+        "num": 252224,
+        "word": "赵丽颖 飞天奖",
+        "onboard_time": 1726828279,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248198,
+        "num": 248198,
+        "word": "安陵容当时吃了最少30粒苦杏仁",
+        "onboard_time": 1726838361,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214699,
+        "num": 231083,
+        "word": "以军空袭黎巴嫩首都",
+        "onboard_time": 1726839262,
+        "rank": 34,
+        "category": "社会新闻,国外时政"
+      },
+      {
+        "raw_hot": 228472,
+        "num": 228472,
+        "word": "Gucci大秀",
+        "onboard_time": 1726841542,
+        "rank": 35,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 221142,
+        "num": 221142,
+        "word": "迎风的青春 癫剧",
+        "onboard_time": 1726838660,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211720,
+        "num": 211720,
+        "word": "小英老公曾称干活都是他去做",
+        "onboard_time": 1726832000,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 196798,
+        "num": 211528,
+        "word": "2025考研初试时间公布",
+        "onboard_time": 1726836800,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 211525,
+        "num": 211525,
+        "word": "白鹿直播",
+        "onboard_time": 1726837460,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203956,
+        "num": 203956,
+        "word": "美14岁少女弑母后设圈套枪击继父",
+        "onboard_time": 1726841840,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35697,
+        "num": 201073,
+        "word": "2000兆帕是什么概念",
+        "onboard_time": 1726841122,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 200118,
+        "num": 200118,
+        "word": "中日共识与日本男童遇袭无关",
+        "onboard_time": 1726832539,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198930,
+        "num": 198930,
+        "word": "泰州姜堰发生2.2级地震",
+        "onboard_time": 1726841363,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199567,
+        "num": 195717,
+        "word": "车臣领导人声称车被马斯克远程锁住",
+        "onboard_time": 1726828760,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 189981,
+        "num": 189981,
+        "word": "翔霖",
+        "onboard_time": 1726830200,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188512,
+        "num": 188512,
+        "word": "杨玉环新皮肤",
+        "onboard_time": 1726837521,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182483,
+        "num": 182483,
+        "word": "中国男篮vs尤文图特",
+        "onboard_time": 1726841181,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180821,
+        "num": 180821,
+        "word": "女子被猫抓伤男友将猫乱棍打死",
+        "onboard_time": 1726834820,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10876,
+        "num": 180359,
+        "word": "何猷君送给自己的GT",
+        "onboard_time": 1726842021,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#庆祝人民政协成立75周年大会#"
+    }
+  }
+}

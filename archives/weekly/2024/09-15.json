@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726839520735,
+  "endTime": 1726842062080,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -833,6 +833,14 @@
       "onboard_time": 1726816818,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1452942,
+      "num": 1452942,
+      "word": "梅姨案最后1个孩子家长重新采血",
+      "onboard_time": 1726837401,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1452797,
@@ -2403,6 +2411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 716999,
+      "num": 716999,
+      "word": "泰州地震",
+      "onboard_time": 1726838539,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 714555,
       "num": 698722,
       "word": "男主写死了",
@@ -2497,6 +2513,14 @@
       "onboard_time": 1726657221,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 701696,
+      "num": 639050,
+      "word": "喻言被伯远淘汰",
+      "onboard_time": 1726838962,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 700162,
@@ -2747,6 +2771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 642240,
+      "num": 642240,
+      "word": "胡明轩绝杀",
+      "onboard_time": 1726840880,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 641480,
       "num": 497919,
       "word": "章若楠给杨洋指代拍",
@@ -2889,6 +2921,14 @@
       "onboard_time": 1726644200,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 623090,
+      "num": 623090,
+      "word": "田曦薇时装周造型",
+      "onboard_time": 1726839681,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 622736,
@@ -3257,6 +3297,14 @@
       "onboard_time": 1726567640,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 557157,
+      "num": 557157,
+      "word": "肖战出发澳门",
+      "onboard_time": 1726839381,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 556745,
@@ -5043,14 +5091,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 347838,
-      "num": 471583,
-      "word": "梅姨案最后1个孩子家长重新采血",
-      "onboard_time": 1726837401,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 347777,
       "num": 347777,
       "word": "合肥地震小区居民纷纷跑下楼",
@@ -5251,14 +5291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 335584,
-      "num": 298151,
-      "word": "喻言被伯远淘汰",
-      "onboard_time": 1726838962,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 335306,
       "num": 335306,
       "word": "父女看打铁花表演被烫伤",
@@ -5329,6 +5361,14 @@
       "onboard_time": 1726409422,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 331065,
+      "num": 331065,
+      "word": "天秤座生日快乐",
+      "onboard_time": 1726839080,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 330959,
@@ -5635,14 +5675,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 310488,
-      "num": 310488,
-      "word": "泰州地震",
-      "onboard_time": 1726838539,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 310164,
       "num": 310164,
       "word": "害怕打针把自己埋进医生怀里的小金毛",
@@ -5817,6 +5849,14 @@
       "onboard_time": 1726713139,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300234,
+      "num": 626749,
+      "word": "黎巴嫩人害怕爆炸不敢用手机",
+      "onboard_time": 1726839861,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 300146,
@@ -6275,6 +6315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 281517,
+      "num": 281517,
+      "word": "女子离婚后中500万被诉前夫获200万",
+      "onboard_time": 1726841600,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281033,
       "num": 281033,
       "word": "安陵容当时吃了最少30粒苦杏仁",
@@ -6313,6 +6361,14 @@
       "onboard_time": 1726323984,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 280205,
+      "num": 280205,
+      "word": "宝马因销量重返价格战",
+      "onboard_time": 1726840042,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 280124,
@@ -7683,6 +7739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228472,
+      "num": 228472,
+      "word": "Gucci大秀",
+      "onboard_time": 1726841542,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 228334,
       "num": 228334,
       "word": "合肥震后村民拍下井水翻滚如煮开",
@@ -7859,12 +7923,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 221126,
-      "num": 221126,
-      "word": "肖战出发澳门",
-      "onboard_time": 1726839381,
-      "rank": 34,
-      "category": "音乐"
+      "raw_hot": 221142,
+      "num": 681289,
+      "word": "迎风的青春 癫剧",
+      "onboard_time": 1726838660,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 220854,
@@ -8067,6 +8131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 214699,
+      "num": 675989,
+      "word": "以军空袭黎巴嫩首都",
+      "onboard_time": 1726839262,
+      "rank": 8,
+      "category": "社会新闻,国外时政"
+    },
+    {
       "raw_hot": 214406,
       "num": 214406,
       "word": "王一博米兰时装周",
@@ -8193,6 +8265,14 @@
       "onboard_time": 1726720226,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 211525,
+      "num": 211525,
+      "word": "白鹿直播",
+      "onboard_time": 1726837460,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 211505,
@@ -8619,6 +8699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203956,
+      "num": 203956,
+      "word": "美14岁少女弑母后设圈套枪击继父",
+      "onboard_time": 1726841840,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203899,
       "num": 203899,
       "word": "唐嫣FENDI",
@@ -8953,6 +9041,14 @@
       "onboard_time": 1726737624,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198930,
+      "num": 198930,
+      "word": "泰州姜堰发生2.2级地震",
+      "onboard_time": 1726841363,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198865,
@@ -9787,28 +9883,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186233,
-      "num": 186233,
-      "word": "白鹿直播",
-      "onboard_time": 1726837460,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186218,
       "num": 186218,
       "word": "中方不会立即全面恢复日水产品进口",
       "onboard_time": 1726823361,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 186177,
-      "num": 681289,
-      "word": "迎风的青春 癫剧",
-      "onboard_time": 1726838660,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 186169,
@@ -10049,6 +10129,14 @@
       "onboard_time": 1726725148,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 182483,
+      "num": 182483,
+      "word": "中国男篮vs尤文图特",
+      "onboard_time": 1726841181,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 182130,
@@ -14659,6 +14747,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 100741,
+      "num": 623119,
+      "word": "迎风的青春",
+      "onboard_time": 1726508833,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100200,
       "num": 371052,
       "word": "专家称黎巴嫩BP机爆炸意味着新形态战争",
@@ -14985,6 +15081,14 @@
       "onboard_time": 1726675639,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85724,
+      "num": 559221,
+      "word": "D级车在北京胡同横着走",
+      "onboard_time": 1726839442,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 84730,
@@ -16203,6 +16307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48011,
+      "num": 1452305,
+      "word": "北京文化论坛文艺晚会",
+      "onboard_time": 1726821740,
+      "rank": 2,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 47386,
       "num": 539189,
       "word": "2024品质内衣白皮书",
@@ -16264,14 +16376,6 @@
       "word": "华为轮值董事长首谈引望战略",
       "onboard_time": 1726826780,
       "rank": 33,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 46273,
-      "num": 144692,
-      "word": "D级车在北京胡同横着走",
-      "onboard_time": 1726839442,
-      "rank": 47,
       "category": "汽车"
     },
     {
@@ -16443,6 +16547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43476,
+      "num": 623166,
+      "word": "号贩子手机1秒点击近百次挂号页",
+      "onboard_time": 1726841001,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43325,
       "num": 305708,
       "word": "猫人现在也是出息了",
@@ -16472,6 +16584,14 @@
       "word": "上海启动防汛防台二级响应",
       "onboard_time": 1726801340,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42038,
+      "num": 385140,
+      "word": "锂电池可能被远程引爆吗",
+      "onboard_time": 1726841421,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -16620,7 +16740,7 @@
     },
     {
       "raw_hot": 39319,
-      "num": 298238,
+      "num": 312645,
       "word": "腾势Z9GT科技重塑豪华",
       "onboard_time": 1726837521,
       "rank": 27,
@@ -16713,14 +16833,6 @@
       "onboard_time": 1726722150,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38169,
-      "num": 1452305,
-      "word": "北京文化论坛文艺晚会",
-      "onboard_time": 1726821740,
-      "rank": 2,
-      "category": "综艺"
     },
     {
       "raw_hot": 38074,
@@ -16865,6 +16977,14 @@
       "onboard_time": 1726728139,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35697,
+      "num": 201073,
+      "word": "2000兆帕是什么概念",
+      "onboard_time": 1726841122,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 35664,
@@ -17467,6 +17587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 27199,
+      "num": 529537,
+      "word": "官方辟谣上海黄浦江有江水倒灌",
+      "onboard_time": 1726841061,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27107,
       "num": 27107,
       "word": "巴音布鲁克草原再现云海奇观",
@@ -17603,6 +17731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23852,
+      "num": 252240,
+      "word": "极氪7X无图NZP提前公测",
+      "onboard_time": 1726841300,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 23588,
       "num": 496735,
       "word": "尼格买提的新工作",
@@ -17633,14 +17769,6 @@
       "onboard_time": 1726758203,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 23299,
-      "num": 675989,
-      "word": "以军空袭黎巴嫩首都",
-      "onboard_time": 1726839262,
-      "rank": 8,
-      "category": "社会新闻,国外时政"
     },
     {
       "raw_hot": 23278,
@@ -17713,14 +17841,6 @@
       "onboard_time": 1726667001,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21999,
-      "num": 24658,
-      "word": "迎风的青春",
-      "onboard_time": 1726508833,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 21783,
@@ -17899,6 +18019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17027,
+      "num": 398102,
+      "word": "胡歌生日忙着给别人送祝福",
+      "onboard_time": 1726841780,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 16544,
       "num": 56116,
       "word": "航拍月亮伴云海氛围感拉满",
@@ -18025,6 +18153,14 @@
       "onboard_time": 1726517351,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10876,
+      "num": 180359,
+      "word": "何猷君送给自己的GT",
+      "onboard_time": 1726842021,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 10785,
