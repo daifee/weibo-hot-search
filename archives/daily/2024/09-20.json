@@ -1,6 +1,6 @@
 {
   "startTime": 1726763246339,
-  "endTime": 1726836065111,
+  "endTime": 1726837030289,
   "band_list": [
     {
       "raw_hot": 2835519,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1312840,
+      "num": 1312840,
+      "word": "还我李肆",
+      "onboard_time": 1726830258,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1307808,
       "num": 1307808,
       "word": "恋与深空",
@@ -203,12 +211,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1097884,
-      "num": 1097884,
-      "word": "还我李肆",
-      "onboard_time": 1726830258,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 1086553,
+      "num": 1086553,
+      "word": "肖战 好听",
+      "onboard_time": 1726836020,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1020181,
@@ -227,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 986611,
+      "num": 918523,
+      "word": "小英老公曾称干活都是他去做",
+      "onboard_time": 1726832000,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 967982,
       "num": 754673,
       "word": "他是她成年后的第一个男主角",
@@ -241,14 +257,6 @@
       "onboard_time": 1726815260,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 918523,
-      "num": 918523,
-      "word": "小英老公曾称干活都是他去做",
-      "onboard_time": 1726832000,
-      "rank": 3,
-      "category": "网红"
     },
     {
       "raw_hot": 915766,
@@ -291,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 855003,
+      "num": 855003,
+      "word": "外祖孙俩遭邻居行凶女童已去世",
+      "onboard_time": 1726833680,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 849832,
       "num": 849832,
       "word": "大连思科被曝裁员赔偿N+7",
@@ -323,6 +339,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 755197,
+      "num": 284747,
+      "word": "甜馨走秀",
+      "onboard_time": 1726835179,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 745269,
       "num": 596111,
       "word": "期待黄晓明第二个世纪婚礼",
@@ -337,6 +361,14 @@
       "onboard_time": 1726812080,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 714555,
+      "num": 282502,
+      "word": "男主写死了",
+      "onboard_time": 1726834220,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 710846,
@@ -547,14 +579,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 495532,
-      "num": 282162,
-      "word": "男主写死了",
-      "onboard_time": 1726834220,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 493897,
       "num": 493897,
       "word": "马雪阳谭咏雯官宣结婚",
@@ -587,14 +611,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 472532,
-      "num": 281124,
-      "word": "外祖孙俩遭邻居行凶女童已去世",
-      "onboard_time": 1726833680,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 466178,
       "num": 466178,
       "word": "大山女孩以为400分能报考清华",
@@ -619,19 +635,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 436739,
-      "num": 275603,
-      "word": "肖战 好听",
-      "onboard_time": 1726836020,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 434617,
-      "num": 272087,
-      "word": "甜馨走秀",
-      "onboard_time": 1726835179,
-      "rank": 17,
+      "raw_hot": 447586,
+      "num": 269367,
+      "word": "肖战工作室出图",
+      "onboard_time": 1726835542,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -705,14 +713,6 @@
       "onboard_time": 1726799420,
       "rank": 24,
       "category": "数码"
-    },
-    {
-      "raw_hot": 383862,
-      "num": 268728,
-      "word": "肖战工作室出图",
-      "onboard_time": 1726835542,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 376042,
@@ -979,6 +979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 281949,
+      "num": 287839,
+      "word": "雪迷宫第28集封神",
+      "onboard_time": 1726835120,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 281772,
       "num": 281772,
       "word": "年入过亿女老板谈休息耻辱",
@@ -1027,6 +1035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 268910,
+      "num": 268910,
+      "word": "中日共识与日本男童遇袭无关",
+      "onboard_time": 1726832539,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267225,
       "num": 267225,
       "word": "小义租借至TTG",
@@ -1049,6 +1065,14 @@
       "onboard_time": 1726810760,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259648,
+      "num": 259648,
+      "word": "张凌赫指导赵今麦掐脖吻",
+      "onboard_time": 1726834702,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 259397,
@@ -1137,14 +1161,6 @@
       "onboard_time": 1726808961,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 240325,
-      "num": 240325,
-      "word": "中日共识与日本男童遇袭无关",
-      "onboard_time": 1726832539,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239874,
@@ -1307,6 +1323,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 218192,
+      "num": 269669,
+      "word": "陈乔恩Alan婚礼嘉宾名单",
+      "onboard_time": 1726836682,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214406,
       "num": 214406,
       "word": "王一博米兰时装周",
@@ -1427,12 +1451,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203064,
+      "num": 203064,
+      "word": "女子被猫抓伤男友将猫乱棍打死",
+      "onboard_time": 1726834820,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202795,
       "num": 202795,
       "word": "被黄小蕾的演技冲击到了",
       "onboard_time": 1726792701,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 202328,
+      "num": 202328,
+      "word": "王俊凯新歌",
+      "onboard_time": 1726835659,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 200846,
@@ -1443,20 +1483,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198478,
+      "num": 198478,
+      "word": "范思哲大秀",
+      "onboard_time": 1726836620,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 196931,
       "num": 196931,
       "word": "赵丽颖咖色羊绒风衣",
       "onboard_time": 1726802720,
       "rank": 43,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 196530,
-      "num": 196530,
-      "word": "王俊凯新歌",
-      "onboard_time": 1726835659,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 196067,
@@ -1523,20 +1563,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 191762,
-      "num": 191762,
-      "word": "张凌赫指导赵今麦掐脖吻",
-      "onboard_time": 1726834702,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191617,
       "num": 191617,
       "word": "景区将流浪猫放在人造孤岛供游客打卡",
       "onboard_time": 1726827078,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190920,
+      "num": 190920,
+      "word": "伯远唱跳好稳",
+      "onboard_time": 1726835901,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 190811,
@@ -1643,12 +1683,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182308,
+      "num": 182308,
+      "word": "2025考研初试时间公布",
+      "onboard_time": 1726836800,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 180235,
       "num": 464825,
       "word": "披荆斩棘",
       "onboard_time": 1726803441,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179064,
+      "num": 286371,
+      "word": "迎风的青春 烂尾",
+      "onboard_time": 1726836320,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 178651,
@@ -1715,6 +1771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173881,
+      "num": 173881,
+      "word": "男子三架飞机被贝碧嘉吹走",
+      "onboard_time": 1726833860,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173814,
       "num": 219832,
       "word": "19岁高中生患上阿尔茨海默病",
@@ -1763,14 +1827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169609,
-      "num": 169609,
-      "word": "伯远唱跳好稳",
-      "onboard_time": 1726835901,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 168518,
       "num": 168518,
       "word": "法考",
@@ -1811,6 +1867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160978,
+      "num": 160978,
+      "word": "沙威玛",
+      "onboard_time": 1726835840,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160158,
       "num": 160158,
       "word": "雪迷宫筹备三年等黄景瑜四年",
@@ -1825,6 +1889,14 @@
       "onboard_time": 1726796420,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 158841,
+      "num": 158841,
+      "word": "舒淇回应改年龄",
+      "onboard_time": 1726831881,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 158102,
@@ -1891,14 +1963,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 154020,
-      "num": 287839,
-      "word": "雪迷宫第28集封神",
-      "onboard_time": 1726835120,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 153763,
       "num": 153763,
       "word": "湖北奥运冠军获赠超百万奖金及住房",
@@ -1937,14 +2001,6 @@
       "onboard_time": 1726823960,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 152726,
-      "num": 152726,
-      "word": "沙威玛",
-      "onboard_time": 1726835840,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 151729,
@@ -2033,14 +2089,6 @@
       "onboard_time": 1726824680,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 138776,
-      "num": 138776,
-      "word": "舒淇回应改年龄",
-      "onboard_time": 1726831881,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 138584,
@@ -2435,6 +2483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 77391,
+      "num": 215185,
+      "word": "外祖孙俩遭邻居行凶亲属最新发声",
+      "onboard_time": 1726836980,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77247,
       "num": 77247,
       "word": "梁伟铿从不回头看出界",
@@ -2505,6 +2561,14 @@
       "onboard_time": 1726743743,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70984,
+      "num": 289819,
+      "word": "苦难不应该继续成为小英的流量密码",
+      "onboard_time": 1726835120,
+      "rank": 9,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 70012,
@@ -2691,6 +2755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 48391,
+      "num": 279548,
+      "word": "留意牙齿的7个求救信号",
+      "onboard_time": 1726835542,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47573,
       "num": 154461,
       "word": "黄晓明黄子韬 青岛特产黄氏霸总",
@@ -2819,14 +2891,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 38462,
-      "num": 289819,
-      "word": "苦难不应该继续成为小英的流量密码",
-      "onboard_time": 1726835120,
-      "rank": 9,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 38169,
       "num": 1370865,
       "word": "北京文化论坛文艺晚会",
@@ -2891,20 +2955,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 34824,
+      "num": 270652,
+      "word": "极氪7X全球首创四大安全技术",
+      "onboard_time": 1726834580,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 34701,
       "num": 323969,
       "word": "闫妮的妩媚是骨子里的",
       "onboard_time": 1726820780,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 34641,
-      "num": 270652,
-      "word": "极氪7X全球首创四大安全技术",
-      "onboard_time": 1726834580,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 34118,
@@ -3065,14 +3129,6 @@
       "onboard_time": 1726807882,
       "rank": 31,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 26385,
-      "num": 279548,
-      "word": "留意牙齿的7个求救信号",
-      "onboard_time": 1726835542,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23588,

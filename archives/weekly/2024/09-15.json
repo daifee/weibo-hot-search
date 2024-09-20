@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726836065111,
+  "endTime": 1726837030289,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -1019,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1312840,
+      "num": 1312840,
+      "word": "还我李肆",
+      "onboard_time": 1726830258,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1307808,
       "num": 1307808,
       "word": "恋与深空",
@@ -1419,14 +1427,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 1097884,
-      "num": 1097884,
-      "word": "还我李肆",
-      "onboard_time": 1726830258,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1097764,
       "num": 1097764,
       "word": "教资科二",
@@ -1441,6 +1441,14 @@
       "onboard_time": 1726581141,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1086553,
+      "num": 1086553,
+      "word": "肖战 好听",
+      "onboard_time": 1726836020,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1086243,
@@ -1601,6 +1609,14 @@
       "onboard_time": 1726487239,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 986611,
+      "num": 918523,
+      "word": "小英老公曾称干活都是他去做",
+      "onboard_time": 1726832000,
+      "rank": 3,
+      "category": "网红"
     },
     {
       "raw_hot": 979350,
@@ -1811,14 +1827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 918523,
-      "num": 918523,
-      "word": "小英老公曾称干活都是他去做",
-      "onboard_time": 1726832000,
-      "rank": 3,
-      "category": "网红"
-    },
-    {
       "raw_hot": 915766,
       "num": 915766,
       "word": "因室友烧伤男生父母5次割皮为其植皮",
@@ -1960,6 +1968,14 @@
       "word": "茅台回应三只羊所售兔茅真假争议",
       "onboard_time": 1726615816,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 855003,
+      "num": 855003,
+      "word": "外祖孙俩遭邻居行凶女童已去世",
+      "onboard_time": 1726833680,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -2251,6 +2267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 755197,
+      "num": 284747,
+      "word": "甜馨走秀",
+      "onboard_time": 1726835179,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 753732,
       "num": 753732,
       "word": "宋雨琦 没有边界感的前辈",
@@ -2369,6 +2393,14 @@
       "onboard_time": 1726544900,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 714555,
+      "num": 282502,
+      "word": "男主写死了",
+      "onboard_time": 1726834220,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 710971,
@@ -3699,14 +3731,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 495532,
-      "num": 282162,
-      "word": "男主写死了",
-      "onboard_time": 1726834220,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 494399,
       "num": 468031,
       "word": "为什么放假越休息越累",
@@ -3875,14 +3899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 472532,
-      "num": 281124,
-      "word": "外祖孙俩遭邻居行凶女童已去世",
-      "onboard_time": 1726833680,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 469052,
       "num": 469052,
       "word": "梁王组合vs印尼组合",
@@ -4043,6 +4059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 447586,
+      "num": 269367,
+      "word": "肖战工作室出图",
+      "onboard_time": 1726835542,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 445695,
       "num": 434389,
       "word": "校长说学生讨厌获学生全体鼓掌",
@@ -4099,14 +4123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 436739,
-      "num": 275603,
-      "word": "肖战 好听",
-      "onboard_time": 1726836020,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 436297,
       "num": 352659,
       "word": "丈夫打麻将被扔靠枕后殴打怀孕妻子",
@@ -4121,14 +4137,6 @@
       "onboard_time": 1726458019,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 434617,
-      "num": 272087,
-      "word": "甜馨走秀",
-      "onboard_time": 1726835179,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 433671,
@@ -4584,14 +4592,6 @@
       "word": "方灿姚琛 什刹海",
       "onboard_time": 1726549640,
       "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 383862,
-      "num": 268728,
-      "word": "肖战工作室出图",
-      "onboard_time": 1726835542,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -6163,6 +6163,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 281949,
+      "num": 287839,
+      "word": "雪迷宫第28集封神",
+      "onboard_time": 1726835120,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 281772,
       "num": 281772,
       "word": "年入过亿女老板谈休息耻辱",
@@ -6361,6 +6369,14 @@
       "onboard_time": 1726479679,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268910,
+      "num": 268910,
+      "word": "中日共识与日本男童遇袭无关",
+      "onboard_time": 1726832539,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268400,
@@ -6649,6 +6665,14 @@
       "onboard_time": 1726470258,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259648,
+      "num": 259648,
+      "word": "张凌赫指导赵今麦掐脖吻",
+      "onboard_time": 1726834702,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 259447,
@@ -7193,14 +7217,6 @@
       "onboard_time": 1726747703,
       "rank": 27,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 240325,
-      "num": 240325,
-      "word": "中日共识与日本男童遇袭无关",
-      "onboard_time": 1726832539,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 240189,
@@ -7857,6 +7873,14 @@
       "onboard_time": 1726317502,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 218192,
+      "num": 269669,
+      "word": "陈乔恩Alan婚礼嘉宾名单",
+      "onboard_time": 1726836682,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 217589,
@@ -8579,6 +8603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 203064,
+      "num": 203064,
+      "word": "女子被猫抓伤男友将猫乱棍打死",
+      "onboard_time": 1726834820,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203018,
       "num": 203018,
       "word": "iPhone16首周末销量下降12.7%",
@@ -8617,6 +8649,14 @@
       "onboard_time": 1726387578,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 202328,
+      "num": 202328,
+      "word": "王俊凯新歌",
+      "onboard_time": 1726835659,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 202277,
@@ -8867,6 +8907,14 @@
       "category": "演出,艺人"
     },
     {
+      "raw_hot": 198478,
+      "num": 198478,
+      "word": "范思哲大秀",
+      "onboard_time": 1726836620,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 198247,
       "num": 198247,
       "word": "offer6普信3分钟",
@@ -8961,14 +9009,6 @@
       "onboard_time": 1726406002,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 196530,
-      "num": 196530,
-      "word": "王俊凯新歌",
-      "onboard_time": 1726835659,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 196441,
@@ -9347,14 +9387,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 191762,
-      "num": 191762,
-      "word": "张凌赫指导赵今麦掐脖吻",
-      "onboard_time": 1726834702,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191617,
       "num": 191617,
       "word": "景区将流浪猫放在人造孤岛供游客打卡",
@@ -9384,6 +9416,14 @@
       "word": "下一战歌手第四期新声阵容",
       "onboard_time": 1726653680,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 190920,
+      "num": 190920,
+      "word": "伯远唱跳好稳",
+      "onboard_time": 1726835901,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -9915,6 +9955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 182308,
+      "num": 182308,
+      "word": "2025考研初试时间公布",
+      "onboard_time": 1726836800,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 182130,
       "num": 182130,
       "word": "好久没看到这么健康的恋爱了",
@@ -10041,6 +10089,14 @@
       "onboard_time": 1726403900,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 179064,
+      "num": 286371,
+      "word": "迎风的青春 烂尾",
+      "onboard_time": 1726836320,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 178737,
@@ -10371,6 +10427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173881,
+      "num": 173881,
+      "word": "男子三架飞机被贝碧嘉吹走",
+      "onboard_time": 1726833860,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173852,
       "num": 173852,
       "word": "胡明轩担任中国男篮队长",
@@ -10649,14 +10713,6 @@
       "onboard_time": 1726369878,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 169609,
-      "num": 169609,
-      "word": "伯远唱跳好稳",
-      "onboard_time": 1726835901,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 168986,
@@ -11187,6 +11243,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 160978,
+      "num": 160978,
+      "word": "沙威玛",
+      "onboard_time": 1726835840,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160798,
       "num": 160798,
       "word": "台风普拉桑今日登陆浙江沿海",
@@ -11337,6 +11401,14 @@
       "onboard_time": 1726740081,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158841,
+      "num": 158841,
+      "word": "舒淇回应改年龄",
+      "onboard_time": 1726831881,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 158741,
@@ -11739,14 +11811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154020,
-      "num": 287839,
-      "word": "雪迷宫第28集封神",
-      "onboard_time": 1726835120,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 153882,
       "num": 153882,
       "word": "黎巴嫩爆炸已致32死数千人受伤",
@@ -11825,14 +11889,6 @@
       "onboard_time": 1726823960,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 152726,
-      "num": 152726,
-      "word": "沙威玛",
-      "onboard_time": 1726835840,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 152550,
@@ -12704,14 +12760,6 @@
       "word": "张真源和呼安放假了",
       "onboard_time": 1726551320,
       "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 138776,
-      "num": 138776,
-      "word": "舒淇回应改年龄",
-      "onboard_time": 1726831881,
-      "rank": 49,
       "category": "艺人"
     },
     {
@@ -15019,6 +15067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77391,
+      "num": 215185,
+      "word": "外祖孙俩遭邻居行凶亲属最新发声",
+      "onboard_time": 1726836980,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77247,
       "num": 77247,
       "word": "梁伟铿从不回头看出界",
@@ -15209,6 +15265,14 @@
       "onboard_time": 1726824800,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70984,
+      "num": 289819,
+      "word": "苦难不应该继续成为小英的流量密码",
+      "onboard_time": 1726835120,
+      "rank": 9,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 70834,
@@ -15971,6 +16035,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 48391,
+      "num": 279548,
+      "word": "留意牙齿的7个求救信号",
+      "onboard_time": 1726835542,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48347,
       "num": 48347,
       "word": "第一次用鬼迷日眼形容陶器",
@@ -16459,14 +16531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38462,
-      "num": 289819,
-      "word": "苦难不应该继续成为小英的流量密码",
-      "onboard_time": 1726835120,
-      "rank": 9,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 38419,
       "num": 601567,
       "word": "山山脱口秀",
@@ -16699,6 +16763,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 34824,
+      "num": 270652,
+      "word": "极氪7X全球首创四大安全技术",
+      "onboard_time": 1726834580,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 34780,
       "num": 260163,
       "word": "黎巴嫩寻呼机爆炸事件凶手是谁",
@@ -16721,14 +16793,6 @@
       "onboard_time": 1726388058,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34641,
-      "num": 270652,
-      "word": "极氪7X全球首创四大安全技术",
-      "onboard_time": 1726834580,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 34407,
@@ -17313,14 +17377,6 @@
       "onboard_time": 1726807882,
       "rank": 31,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 26385,
-      "num": 279548,
-      "word": "留意牙齿的7个求救信号",
-      "onboard_time": 1726835542,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26141,

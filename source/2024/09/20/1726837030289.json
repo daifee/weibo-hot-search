@@ -1,0 +1,410 @@
+{
+  "runTime": 1726837030289,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1787265,
+        "num": 1787265,
+        "word": "微信好友添加时间",
+        "onboard_time": 1726826359,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1312840,
+        "num": 1312840,
+        "word": "还我李肆",
+        "onboard_time": 1726830258,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21369,
+        "num": 1197956,
+        "word": "青春华章",
+        "onboard_time": 1726819520,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1086553,
+        "num": 1086553,
+        "word": "肖战 好听",
+        "onboard_time": 1726836020,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 855003,
+        "num": 855003,
+        "word": "外祖孙俩遭邻居行凶女童已去世",
+        "onboard_time": 1726833680,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564773,
+        "num": 564773,
+        "word": "因室友烧伤男生父母5次割皮为其植皮",
+        "onboard_time": 1726829360,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 986611,
+        "num": 440257,
+        "word": "小英老公曾称干活都是他去做",
+        "onboard_time": 1726832000,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 299945,
+        "num": 299945,
+        "word": "北京晚霞",
+        "onboard_time": 1726828701,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288111,
+        "num": 288111,
+        "word": "王楚钦人机感",
+        "onboard_time": 1726831580,
+        "rank": 8,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 179064,
+        "num": 286371,
+        "word": "迎风的青春 烂尾",
+        "onboard_time": 1726836320,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 755197,
+        "num": 284747,
+        "word": "甜馨走秀",
+        "onboard_time": 1726835179,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 714555,
+        "num": 282502,
+        "word": "男主写死了",
+        "onboard_time": 1726834220,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 656962,
+        "num": 277873,
+        "word": "吴倩回应眼里没光了",
+        "onboard_time": 1726823361,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 558922,
+        "num": 276238,
+        "word": "黄晓明官宣最大的受害者出现了",
+        "onboard_time": 1726804702,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48391,
+        "num": 273923,
+        "word": "留意牙齿的7个求救信号",
+        "onboard_time": 1726835542,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450167,
+        "num": 271609,
+        "word": "车臣领导人声称车被马斯克远程锁住",
+        "onboard_time": 1726828760,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 269849,
+        "num": 269849,
+        "word": "中日就福岛核污染水排海达成4点共识",
+        "onboard_time": 1726816818,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34824,
+        "num": 269750,
+        "word": "极氪7X全球首创四大安全技术",
+        "onboard_time": 1726834580,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 218192,
+        "num": 269669,
+        "word": "陈乔恩Alan婚礼嘉宾名单",
+        "onboard_time": 1726836682,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70984,
+        "num": 269496,
+        "word": "苦难不应该继续成为小英的流量密码",
+        "onboard_time": 1726835120,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 447586,
+        "num": 269367,
+        "word": "肖战工作室出图",
+        "onboard_time": 1726835542,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 433990,
+        "num": 269289,
+        "word": "赵丽颖 飞天奖",
+        "onboard_time": 1726828279,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396355,
+        "num": 269115,
+        "word": "喻言 下一战歌手",
+        "onboard_time": 1726833319,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302784,
+        "num": 269017,
+        "word": "于正排四大花旦四小花旦",
+        "onboard_time": 1726819700,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 268910,
+        "num": 268910,
+        "word": "中日共识与日本男童遇袭无关",
+        "onboard_time": 1726832539,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281949,
+        "num": 264741,
+        "word": "雪迷宫第28集封神",
+        "onboard_time": 1726835120,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259648,
+        "num": 259648,
+        "word": "张凌赫指导赵今麦掐脖吻",
+        "onboard_time": 1726834702,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221877,
+        "num": 221877,
+        "word": "iPhone16第一批bug",
+        "onboard_time": 1726819341,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 215845,
+        "num": 215845,
+        "word": "上海龙卷风",
+        "onboard_time": 1726822940,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77391,
+        "num": 215185,
+        "word": "外祖孙俩遭邻居行凶亲属最新发声",
+        "onboard_time": 1726836980,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248169,
+        "num": 212564,
+        "word": "翔霖",
+        "onboard_time": 1726830200,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233852,
+        "num": 208015,
+        "word": "雪迷宫结局",
+        "onboard_time": 1726831818,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223197,
+        "num": 203603,
+        "word": "张艺凡疑似被换角",
+        "onboard_time": 1726826180,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203064,
+        "num": 203064,
+        "word": "女子被猫抓伤男友将猫乱棍打死",
+        "onboard_time": 1726834820,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202328,
+        "num": 202328,
+        "word": "王俊凯新歌",
+        "onboard_time": 1726835659,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198478,
+        "num": 198478,
+        "word": "范思哲大秀",
+        "onboard_time": 1726836620,
+        "rank": 35,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 198350,
+        "num": 198350,
+        "word": "3名硕士应聘宿舍管理员",
+        "onboard_time": 1726820001,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193103,
+        "num": 193103,
+        "word": "王一博米兰时装周",
+        "onboard_time": 1726823178,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 190920,
+        "num": 190920,
+        "word": "伯远唱跳好稳",
+        "onboard_time": 1726835901,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189229,
+        "num": 189229,
+        "word": "深圳学生被刺事件嫌疑人身份曝光",
+        "onboard_time": 1726813221,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185885,
+        "num": 185885,
+        "word": "宝妈带8岁儿子旅游在高速醉驾逆行",
+        "onboard_time": 1726830200,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182308,
+        "num": 182308,
+        "word": "2025考研初试时间公布",
+        "onboard_time": 1726836800,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 181715,
+        "num": 181715,
+        "word": "北京卫视直播",
+        "onboard_time": 1726832000,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173982,
+        "num": 173982,
+        "word": "赵露思王安宇坐一起",
+        "onboard_time": 1726830140,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173881,
+        "num": 173881,
+        "word": "男子三架飞机被贝碧嘉吹走",
+        "onboard_time": 1726833860,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171999,
+        "num": 171999,
+        "word": "长得像宽面的人体寄生虫",
+        "onboard_time": 1726821440,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 161711,
+        "num": 161711,
+        "word": "韩剧同款香蕉牛奶或成文化遗产",
+        "onboard_time": 1726834280,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160978,
+        "num": 160978,
+        "word": "沙威玛",
+        "onboard_time": 1726835840,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158841,
+        "num": 158841,
+        "word": "舒淇回应改年龄",
+        "onboard_time": 1726831881,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147752,
+        "num": 147752,
+        "word": "陆虎嘘嘘五年内不考虑生小孩",
+        "onboard_time": 1726812080,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队淬火向前#"
+    }
+  }
+}
