@@ -1,6 +1,6 @@
 {
   "startTime": 1726763246339,
-  "endTime": 1726813823560,
+  "endTime": 1726814631117,
   "band_list": [
     {
       "raw_hot": 2835519,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1007448,
+      "num": 1007448,
+      "word": "强拆果园副县长被曝15岁参加工作",
+      "onboard_time": 1726811120,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 967982,
       "num": 754673,
       "word": "他是她成年后的第一个男主角",
@@ -152,6 +160,14 @@
       "word": "上海暴雨",
       "onboard_time": 1726792221,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 874754,
+      "num": 278157,
+      "word": "大爷电梯大便被曝光后自杀",
+      "onboard_time": 1726813520,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -177,14 +193,6 @@
       "onboard_time": 1726801159,
       "rank": 27,
       "category": "网红"
-    },
-    {
-      "raw_hot": 785232,
-      "num": 785232,
-      "word": "强拆果园副县长被曝15岁参加工作",
-      "onboard_time": 1726811120,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 710846,
@@ -216,6 +224,14 @@
       "word": "男子送妹妹上学突发疾病致车祸2死",
       "onboard_time": 1726800619,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 653045,
+      "num": 653045,
+      "word": "培训班老师发朋友圈家长觉得被阴阳",
+      "onboard_time": 1726812080,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -307,19 +323,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 493897,
+      "num": 493897,
+      "word": "马雪阳谭咏雯官宣结婚",
+      "onboard_time": 1726812020,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 480813,
       "num": 480813,
       "word": "朱志鑫和易烊千玺立牌合照",
       "onboard_time": 1726812141,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 480769,
-      "num": 480769,
-      "word": "马雪阳谭咏雯官宣结婚",
-      "onboard_time": 1726812020,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -353,6 +369,14 @@
       "onboard_time": 1726807522,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 431052,
+      "num": 431052,
+      "word": "莎头捍卫国乒荣耀",
+      "onboard_time": 1726812201,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 404642,
@@ -419,27 +443,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 364192,
-      "num": 364192,
-      "word": "培训班老师发朋友圈家长觉得被阴阳",
-      "onboard_time": 1726812080,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 356833,
       "num": 331475,
       "word": "家暴男子在离婚法庭上扛起妻子就跑",
       "onboard_time": 1726750822,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 349899,
-      "num": 278157,
-      "word": "大爷电梯大便被曝光后自杀",
-      "onboard_time": 1726813520,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -499,14 +507,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 327348,
-      "num": 327348,
-      "word": "莎头捍卫国乒荣耀",
-      "onboard_time": 1726812201,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 325920,
       "num": 325920,
       "word": "WTT名单",
@@ -521,6 +521,14 @@
       "onboard_time": 1726791020,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 320462,
+      "num": 495313,
+      "word": "男子自学后在葡萄园研制冰毒",
+      "onboard_time": 1726812201,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 320045,
@@ -585,6 +593,14 @@
       "onboard_time": 1726802180,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 295061,
+      "num": 295061,
+      "word": "唐山打人案被判刑民警申诉听证会",
+      "onboard_time": 1726813880,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294370,
@@ -723,11 +739,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 246093,
-      "num": 495313,
-      "word": "男子自学后在葡萄园研制冰毒",
-      "onboard_time": 1726812201,
-      "rank": 14,
+      "raw_hot": 245200,
+      "num": 611054,
+      "word": "深圳学生被刺事件嫌疑人身份曝光",
+      "onboard_time": 1726813221,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -777,6 +793,14 @@
       "onboard_time": 1726745062,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238370,
+      "num": 238370,
+      "word": "王子奇出道七年可着三个人薅",
+      "onboard_time": 1726810281,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 232516,
@@ -867,14 +891,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 217959,
-      "num": 217959,
-      "word": "王子奇出道七年可着三个人薅",
-      "onboard_time": 1726810281,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 211851,
       "num": 515307,
       "word": "苏大强变成女儿奴了",
@@ -888,6 +904,14 @@
       "word": "南派三叔回应终极笔记2",
       "onboard_time": 1726760541,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 210444,
+      "num": 210444,
+      "word": "这个喷不了全是真老戏骨",
+      "onboard_time": 1726814000,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -915,6 +939,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204869,
+      "num": 612385,
+      "word": "官方回应强拆果园的副县长15岁工作",
+      "onboard_time": 1726813400,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203872,
+      "num": 203872,
+      "word": "我国成功发射一箭六星",
+      "onboard_time": 1726810743,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 203480,
       "num": 203480,
       "word": "黎深枕月眠",
@@ -939,28 +979,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 200846,
-      "num": 200846,
-      "word": "年轻人为了不弯腰扫地有多拼",
-      "onboard_time": 1726802361,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 200072,
-      "num": 200072,
+      "raw_hot": 200933,
+      "num": 200933,
       "word": "网红小英丈夫曾称是扮演坏人",
       "onboard_time": 1726813581,
       "rank": 39,
       "category": "网红"
     },
     {
-      "raw_hot": 199120,
-      "num": 199120,
-      "word": "我国成功发射一箭六星",
-      "onboard_time": 1726810743,
-      "rank": 40,
-      "category": "国内时政"
+      "raw_hot": 200846,
+      "num": 200846,
+      "word": "年轻人为了不弯腰扫地有多拼",
+      "onboard_time": 1726802361,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196931,
@@ -1003,12 +1035,36 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 190811,
+      "num": 190811,
+      "word": "2024KPL年总大名单公布",
+      "onboard_time": 1726813736,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188577,
       "num": 680048,
       "word": "iPhone16和华为三折人气谁更旺",
       "onboard_time": 1726801700,
       "rank": 9,
       "category": "数码"
+    },
+    {
+      "raw_hot": 187911,
+      "num": 187911,
+      "word": "近七成年轻人求职不再迷恋大厂",
+      "onboard_time": 1726813821,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185715,
+      "num": 185715,
+      "word": "腾讯提醒勿为实况图重装微信",
+      "onboard_time": 1726813160,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 184704,
@@ -1027,12 +1083,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 184072,
-      "num": 184072,
-      "word": "2024KPL年总大名单公布",
-      "onboard_time": 1726813736,
-      "rank": 45,
-      "category": "电竞"
+      "raw_hot": 184069,
+      "num": 184069,
+      "word": "中方仍对日方排海表示强烈不满",
+      "onboard_time": 1726814301,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 183918,
@@ -1083,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173814,
+      "num": 173814,
+      "word": "19岁高中生患上阿尔茨海默病",
+      "onboard_time": 1726814361,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173491,
       "num": 148298,
       "word": "大张伟 这是林一不是许凯",
@@ -1107,14 +1171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170303,
-      "num": 170303,
-      "word": "腾讯提醒勿为实况图重装微信",
-      "onboard_time": 1726813160,
-      "rank": 48,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 169754,
       "num": 169754,
       "word": "李宁大秀",
@@ -1137,14 +1193,6 @@
       "onboard_time": 1726808902,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165176,
-      "num": 611054,
-      "word": "深圳学生被刺事件嫌疑人身份曝光",
-      "onboard_time": 1726813221,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162551,
@@ -1283,14 +1331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136981,
-      "num": 612385,
-      "word": "官方回应强拆果园的副县长15岁工作",
-      "onboard_time": 1726813400,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 134906,
       "num": 134906,
       "word": "女子称吃饭被店员私翻手机刷好评",
@@ -1409,6 +1449,14 @@
       "onboard_time": 1726799420,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 111675,
+      "num": 461047,
+      "word": "袁文康闯进叔圈赛道了",
+      "onboard_time": 1726813520,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 110465,
@@ -1627,6 +1675,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 72552,
+      "num": 188312,
+      "word": "这一拉比所有肢体接触都暧昧",
+      "onboard_time": 1726814481,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 72031,
       "num": 72031,
       "word": "苏新皓在练习室唱少一点天份",
@@ -1641,14 +1697,6 @@
       "onboard_time": 1726743743,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 70063,
-      "num": 461047,
-      "word": "袁文康闯进叔圈赛道了",
-      "onboard_time": 1726813520,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 70012,
@@ -1843,6 +1891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40945,
+      "num": 519624,
+      "word": "新生军训头顶水瓶动作整齐惊艳全场",
+      "onboard_time": 1726813520,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40039,
       "num": 40039,
       "word": "华晨宇微博音乐盛典四项荣誉",
@@ -1915,20 +1971,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 35418,
-      "num": 519624,
-      "word": "新生军训头顶水瓶动作整齐惊艳全场",
-      "onboard_time": 1726813520,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 34118,
       "num": 39983,
       "word": "易烊千玺废土风大片",
       "onboard_time": 1726766953,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 31762,
+      "num": 411057,
+      "word": "工作人员辟谣上海游泳馆地铁站被淹",
+      "onboard_time": 1726812981,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31291,
@@ -1945,14 +2001,6 @@
       "onboard_time": 1726804281,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 30480,
-      "num": 411057,
-      "word": "工作人员辟谣上海游泳馆地铁站被淹",
-      "onboard_time": 1726812981,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29056,
@@ -2043,12 +2091,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 18540,
+      "num": 364924,
+      "word": "徐志胜自曝曾遭校园暴力",
+      "onboard_time": 1726814600,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18096,
       "num": 37820,
       "word": "被动物强势围观是什么体验",
       "onboard_time": 1726777271,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14064,
+      "num": 263618,
+      "word": "直击华为三折叠首销现场",
+      "onboard_time": 1726814061,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 11592,
