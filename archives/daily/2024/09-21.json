@@ -1,6 +1,6 @@
 {
   "startTime": 1726849656112,
-  "endTime": 1726868109858,
+  "endTime": 1726870933887,
   "band_list": [
     {
       "raw_hot": 4174876,
@@ -131,6 +131,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 278813,
+      "num": 278813,
+      "word": "网红娟子不是无知是无敬畏无底线",
+      "onboard_time": 1726857313,
+      "rank": 15,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 278345,
       "num": 278345,
       "word": "田曦薇时装周造型",
@@ -153,14 +161,6 @@
       "onboard_time": 1726844840,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 245572,
-      "num": 245572,
-      "word": "网红娟子不是无知是无敬畏无底线",
-      "onboard_time": 1726857313,
-      "rank": 15,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 216296,
@@ -427,11 +427,19 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 76292,
-      "num": 76292,
+      "raw_hot": 81334,
+      "num": 81334,
       "word": "黎巴嫩眼科医生发声",
       "onboard_time": 1726863732,
       "rank": 49,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 58435,
+      "num": 58435,
+      "word": "视频显示以军从楼顶扔巴勒斯坦人尸体",
+      "onboard_time": 1726859351,
+      "rank": 47,
       "category": "国外时政"
     },
     {
@@ -467,12 +475,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 35965,
-      "num": 35965,
-      "word": "视频显示以军从楼顶扔巴勒斯坦人尸体",
-      "onboard_time": 1726859351,
-      "rank": 47,
-      "category": "国外时政"
+      "raw_hot": 38379,
+      "num": 38379,
+      "word": "陆虎教科书式拒绝起哄求婚",
+      "onboard_time": 1726869911,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 37595,
+      "num": 37595,
+      "word": "东北人近期精神状态",
+      "onboard_time": 1726868231,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 35887,
@@ -491,8 +507,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 31381,
-      "num": 31381,
+      "raw_hot": 31385,
+      "num": 31385,
       "word": "当爸爸妈妈开始养我的狗",
       "onboard_time": 1726860193,
       "rank": 43,
@@ -505,6 +521,22 @@
       "onboard_time": 1726862592,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 29348,
+      "num": 55658,
+      "word": "如何让电动自行车跑得更稳",
+      "onboard_time": 1726866551,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28640,
+      "num": 28640,
+      "word": "余华说喜欢人类幼崽但从来不催婚",
+      "onboard_time": 1726865351,
+      "rank": 34,
+      "category": "读书作家"
     },
     {
       "raw_hot": 28173,
@@ -531,12 +563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22529,
-      "num": 22529,
-      "word": "余华说喜欢人类幼崽但从来不催婚",
-      "onboard_time": 1726865351,
-      "rank": 34,
-      "category": "读书作家"
+      "raw_hot": 23025,
+      "num": 25461,
+      "word": "流水迢迢",
+      "onboard_time": 1726832720,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 21700,
@@ -547,18 +579,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21085,
-      "num": 24552,
-      "word": "流水迢迢",
-      "onboard_time": 1726832720,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 11658,
-      "num": 55658,
-      "word": "如何让电动自行车跑得更稳",
-      "onboard_time": 1726866551,
+      "raw_hot": 7671,
+      "num": 78573,
+      "word": "齐肩积水中民警摸索着救出老人",
+      "onboard_time": 1726869553,
       "rank": 9,
       "category": "社会新闻"
     }
