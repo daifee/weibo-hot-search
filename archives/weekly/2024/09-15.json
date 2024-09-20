@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726842062080,
+  "endTime": 1726843094941,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -1851,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 918496,
+      "num": 918496,
+      "word": "女子离婚后中500万被诉前夫获200万",
+      "onboard_time": 1726841600,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 915766,
       "num": 915766,
       "word": "因室友烧伤男生父母5次割皮为其植皮",
@@ -2041,6 +2049,14 @@
       "onboard_time": 1726479858,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 835416,
+      "num": 835416,
+      "word": "黎巴嫩人害怕爆炸不敢用手机",
+      "onboard_time": 1726839861,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 835193,
@@ -4115,6 +4131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 452717,
+      "num": 228472,
+      "word": "Gucci大秀",
+      "onboard_time": 1726841542,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 450694,
       "num": 450694,
       "word": "14岁时的孙颖莎",
@@ -4489,6 +4513,14 @@
       "onboard_time": 1726743801,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 402019,
+      "num": 402019,
+      "word": "美14岁少女弑母后设圈套枪击继父",
+      "onboard_time": 1726841840,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400886,
@@ -5347,6 +5379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331568,
+      "num": 331568,
+      "word": "考研预报名推迟",
+      "onboard_time": 1726837821,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 331225,
       "num": 311143,
       "word": "研究发现少一颗牙大脑衰老近一岁",
@@ -5851,14 +5891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 300234,
-      "num": 626749,
-      "word": "黎巴嫩人害怕爆炸不敢用手机",
-      "onboard_time": 1726839861,
-      "rank": 8,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 300146,
       "num": 300146,
       "word": "力丸锁骨吻痕",
@@ -5945,14 +5977,6 @@
       "onboard_time": 1726539918,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 297796,
-      "num": 297796,
-      "word": "考研预报名推迟",
-      "onboard_time": 1726837821,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 297382,
@@ -6313,14 +6337,6 @@
       "onboard_time": 1726551859,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 281517,
-      "num": 281517,
-      "word": "女子离婚后中500万被诉前夫获200万",
-      "onboard_time": 1726841600,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 281033,
@@ -7739,14 +7755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228472,
-      "num": 228472,
-      "word": "Gucci大秀",
-      "onboard_time": 1726841542,
-      "rank": 35,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 228334,
       "num": 228334,
       "word": "合肥震后村民拍下井水翻滚如煮开",
@@ -7913,6 +7921,14 @@
       "onboard_time": 1726577662,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221368,
+      "num": 221368,
+      "word": "银行工作人员也开始街头发传单了",
+      "onboard_time": 1726842562,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221233,
@@ -8129,6 +8145,14 @@
       "onboard_time": 1726737203,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 214776,
+      "num": 214776,
+      "word": "王一博温润公子哥",
+      "onboard_time": 1726842741,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 214699,
@@ -8697,14 +8721,6 @@
       "onboard_time": 1726752261,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203956,
-      "num": 203956,
-      "word": "美14岁少女弑母后设圈套枪击继父",
-      "onboard_time": 1726841840,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203899,
@@ -9369,6 +9385,14 @@
       "onboard_time": 1726477038,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 194763,
+      "num": 194763,
+      "word": "张译主持首秀",
+      "onboard_time": 1726842082,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 194711,
@@ -10753,6 +10777,14 @@
       "onboard_time": 1726578982,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172205,
+      "num": 172205,
+      "word": "郑州8级以上雷暴大风",
+      "onboard_time": 1726842621,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172136,
@@ -14100,7 +14132,7 @@
     },
     {
       "raw_hot": 117496,
-      "num": 305921,
+      "num": 472146,
       "word": "流水迢迢",
       "onboard_time": 1726570879,
       "rank": 24,
@@ -14545,6 +14577,14 @@
       "onboard_time": 1726418417,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106422,
+      "num": 559221,
+      "word": "D级车在北京胡同横着走",
+      "onboard_time": 1726839442,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 106316,
@@ -15083,14 +15123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 85724,
-      "num": 559221,
-      "word": "D级车在北京胡同横着走",
-      "onboard_time": 1726839442,
-      "rank": 47,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 84730,
       "num": 530767,
       "word": "华为三折叠开售",
@@ -15465,6 +15497,14 @@
       "onboard_time": 1726814481,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 72119,
+      "num": 623166,
+      "word": "号贩子手机1秒点击近百次挂号页",
+      "onboard_time": 1726841001,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71948,
@@ -15849,6 +15889,14 @@
       "onboard_time": 1726629139,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 59912,
+      "num": 415955,
+      "word": "锂电池可能被远程引爆吗",
+      "onboard_time": 1726841421,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59888,
@@ -16547,14 +16595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 43476,
-      "num": 623166,
-      "word": "号贩子手机1秒点击近百次挂号页",
-      "onboard_time": 1726841001,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43325,
       "num": 305708,
       "word": "猫人现在也是出息了",
@@ -16587,14 +16627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42038,
-      "num": 385140,
-      "word": "锂电池可能被远程引爆吗",
-      "onboard_time": 1726841421,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 41998,
       "num": 410770,
       "word": "唐嫣同款包包",
@@ -16608,6 +16640,14 @@
       "word": "中介用卡片开门闯入逼女租客离开",
       "onboard_time": 1726380978,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41919,
+      "num": 472430,
+      "word": "2元秒杀6卷纸到货没有巴掌大",
+      "onboard_time": 1726842923,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -16891,6 +16931,14 @@
       "category": "社会新闻,国外时政"
     },
     {
+      "raw_hot": 37354,
+      "num": 529537,
+      "word": "官方辟谣上海黄浦江有江水倒灌",
+      "onboard_time": 1726841061,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37143,
       "num": 452792,
       "word": "胡歌可隆品牌代言人",
@@ -16921,6 +16969,14 @@
       "onboard_time": 1726584024,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 36536,
+      "num": 221505,
+      "word": "2000兆帕是什么概念",
+      "onboard_time": 1726841122,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 36446,
@@ -16977,14 +17033,6 @@
       "onboard_time": 1726728139,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35697,
-      "num": 201073,
-      "word": "2000兆帕是什么概念",
-      "onboard_time": 1726841122,
-      "rank": 41,
-      "category": "汽车"
     },
     {
       "raw_hot": 35664,
@@ -17049,6 +17097,14 @@
       "onboard_time": 1726636582,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 34742,
+      "num": 398102,
+      "word": "胡歌生日忙着给别人送祝福",
+      "onboard_time": 1726841780,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 34701,
@@ -17411,6 +17467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 29885,
+      "num": 222143,
+      "word": "何猷君送给自己的GT",
+      "onboard_time": 1726842021,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 29781,
       "num": 29932,
       "word": "林诗栋这一球惊艳全场",
@@ -17531,6 +17595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28385,
+      "num": 237533,
+      "word": "郑北向姜小海开枪",
+      "onboard_time": 1726843041,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 28295,
       "num": 170230,
       "word": "马斯克称SpaceX将起诉美航管局",
@@ -17585,14 +17657,6 @@
       "onboard_time": 1726570401,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 27199,
-      "num": 529537,
-      "word": "官方辟谣上海黄浦江有江水倒灌",
-      "onboard_time": 1726841061,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27107,
@@ -17732,7 +17796,7 @@
     },
     {
       "raw_hot": 23852,
-      "num": 252240,
+      "num": 444406,
       "word": "极氪7X无图NZP提前公测",
       "onboard_time": 1726841300,
       "rank": 31,
@@ -18019,14 +18083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17027,
-      "num": 398102,
-      "word": "胡歌生日忙着给别人送祝福",
-      "onboard_time": 1726841780,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 16544,
       "num": 56116,
       "word": "航拍月亮伴云海氛围感拉满",
@@ -18153,14 +18209,6 @@
       "onboard_time": 1726517351,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10876,
-      "num": 180359,
-      "word": "何猷君送给自己的GT",
-      "onboard_time": 1726842021,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 10785,
