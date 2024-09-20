@@ -1,0 +1,410 @@
+{
+  "runTime": 1726831143112,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2503911,
+        "num": 2503911,
+        "word": "微信好友添加时间",
+        "onboard_time": 1726826359,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 921440,
+        "num": 921440,
+        "word": "吴倩回应眼里没光了",
+        "onboard_time": 1726823361,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25700,
+        "num": 917807,
+        "word": "青春华章",
+        "onboard_time": 1726819520,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 915766,
+        "num": 915766,
+        "word": "因室友烧伤男生父母5次割皮为其植皮",
+        "onboard_time": 1726829360,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 864198,
+        "num": 864198,
+        "word": "北京晚霞",
+        "onboard_time": 1726828701,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 809790,
+        "num": 809790,
+        "word": "赵丽颖 飞天奖",
+        "onboard_time": 1726828279,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 703327,
+        "num": 703327,
+        "word": "黄晓明官宣最大的受害者出现了",
+        "onboard_time": 1726804702,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 610592,
+        "num": 610592,
+        "word": "车臣领导人声称车被马斯克远程锁住",
+        "onboard_time": 1726828760,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 32065,
+        "num": 608914,
+        "word": "中国社会始终与善良正义站在一起",
+        "onboard_time": 1726829599,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608610,
+        "num": 608610,
+        "word": "于正排四大花旦四小花旦",
+        "onboard_time": 1726819700,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 523899,
+        "num": 523899,
+        "word": "上海龙卷风",
+        "onboard_time": 1726822940,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508619,
+        "num": 508619,
+        "word": "贵州黄平发生一起重大刑案",
+        "onboard_time": 1726821379,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33291,
+        "num": 471931,
+        "word": "白鹿上海活动",
+        "onboard_time": 1726828819,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149048,
+        "num": 449021,
+        "word": "宝妈带8岁儿子旅游在高速醉驾逆行",
+        "onboard_time": 1726830200,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58654,
+        "num": 445556,
+        "word": "被农学学霸的带货馋疯了",
+        "onboard_time": 1726821202,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445465,
+        "num": 445465,
+        "word": "张艺凡疑似被换角",
+        "onboard_time": 1726826180,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365840,
+        "num": 365840,
+        "word": "3名硕士应聘宿舍管理员",
+        "onboard_time": 1726820001,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349221,
+        "num": 349221,
+        "word": "易烊千玺注册做过几天外卖骑手",
+        "onboard_time": 1726825399,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 333229,
+        "num": 333229,
+        "word": "中日就福岛核污染水排海达成4点共识",
+        "onboard_time": 1726816818,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32821,
+        "num": 321027,
+        "word": "6个习惯就能毁掉一颗牙",
+        "onboard_time": 1726830379,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311570,
+        "num": 311570,
+        "word": "iPhone16第一批bug",
+        "onboard_time": 1726819341,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 307813,
+        "num": 307813,
+        "word": "赵露思王安宇坐一起",
+        "onboard_time": 1726830140,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 291277,
+        "num": 291277,
+        "word": "还我李肆",
+        "onboard_time": 1726830258,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281382,
+        "num": 281382,
+        "word": "翔霖",
+        "onboard_time": 1726830200,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244595,
+        "num": 244595,
+        "word": "陆虎嘘嘘五年内不考虑生小孩",
+        "onboard_time": 1726812080,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240269,
+        "num": 240269,
+        "word": "男子杀害女友和母亲带嫂嫂潜逃32年",
+        "onboard_time": 1726821921,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223254,
+        "num": 223254,
+        "word": "男子养2条活体mini鳄鱼当茶宠",
+        "onboard_time": 1726815260,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200613,
+        "num": 200613,
+        "word": "长得像宽面的人体寄生虫",
+        "onboard_time": 1726821440,
+        "rank": 27,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 196067,
+        "num": 196067,
+        "word": "哈利波特",
+        "onboard_time": 1726826118,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195177,
+        "num": 195177,
+        "word": "白鹿活动生图",
+        "onboard_time": 1726822340,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194150,
+        "num": 194150,
+        "word": "逆水寒马面裙",
+        "onboard_time": 1726827619,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191617,
+        "num": 191617,
+        "word": "景区将流浪猫放在人造孤岛供游客打卡",
+        "onboard_time": 1726827078,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189139,
+        "num": 189139,
+        "word": "看完理解张桂梅因女孩重回大山嫁人生气",
+        "onboard_time": 1726826180,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182697,
+        "num": 182697,
+        "word": "女童走失跟着送上外卖了",
+        "onboard_time": 1726828401,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178651,
+        "num": 178651,
+        "word": "油价",
+        "onboard_time": 1726828100,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 175460,
+        "num": 175460,
+        "word": "胡歌 铁打的顶流",
+        "onboard_time": 1726827679,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174620,
+        "num": 174620,
+        "word": "官方正调查小英被曝曾送养两个女孩",
+        "onboard_time": 1726818080,
+        "rank": 36,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 27480,
+        "num": 170115,
+        "word": "华为轮值董事长首谈引望战略",
+        "onboard_time": 1726826780,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 168325,
+        "num": 168325,
+        "word": "叶县县委书记回应网传强拆果园",
+        "onboard_time": 1726819879,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167533,
+        "num": 167533,
+        "word": "黄晓明自曝不喜欢比自己强的女生",
+        "onboard_time": 1726807343,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159289,
+        "num": 159289,
+        "word": "向孩子举起屠刀的人十恶不赦",
+        "onboard_time": 1726805782,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139428,
+        "num": 139428,
+        "word": "逐步恢复符合规准的日本水产品进口",
+        "onboard_time": 1726815382,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34373,
+        "num": 138814,
+        "word": "漱口水是智商税吗",
+        "onboard_time": 1726830919,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 138658,
+        "num": 138658,
+        "word": "胡歌唐嫣飞天奖坐一起",
+        "onboard_time": 1726826419,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 735433,
+        "num": 138525,
+        "word": "唐山打人案被判刑民警明确申诉诉求",
+        "onboard_time": 1726826061,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138294,
+        "num": 138294,
+        "word": "王鹤棣田曦薇新剧招商",
+        "onboard_time": 1726829120,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135138,
+        "num": 135138,
+        "word": "贴身猥亵女生涉事男生放弃入学资格",
+        "onboard_time": 1726817121,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132603,
+        "num": 132603,
+        "word": "国内油价已抹去今年全部涨幅",
+        "onboard_time": 1726829840,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 129261,
+        "num": 129261,
+        "word": "惠英红认证后宫最庞大",
+        "onboard_time": 1726815800,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125180,
+        "num": 125180,
+        "word": "孙杨谈复出首秀夺冠感谢自己一直坚持",
+        "onboard_time": 1726828701,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队淬火向前#"
+    }
+  }
+}

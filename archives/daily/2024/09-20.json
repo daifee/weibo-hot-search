@@ -1,6 +1,6 @@
 {
   "startTime": 1726763246339,
-  "endTime": 1726828836199,
+  "endTime": 1726831143112,
   "band_list": [
     {
       "raw_hot": 2835519,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 915766,
+      "num": 915766,
+      "word": "因室友烧伤男生父母5次割皮为其植皮",
+      "onboard_time": 1726829360,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 915326,
       "num": 915326,
       "word": "黄牛拒收iPhone16Pro",
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 864198,
+      "num": 864198,
+      "word": "北京晚霞",
+      "onboard_time": 1726828701,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 849832,
       "num": 849832,
       "word": "大连思科被曝裁员赔偿N+7",
@@ -273,6 +289,14 @@
       "onboard_time": 1726801100,
       "rank": 40,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 809790,
+      "num": 809790,
+      "word": "赵丽颖 飞天奖",
+      "onboard_time": 1726828279,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 809018,
@@ -377,6 +401,14 @@
       "onboard_time": 1726806622,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 610592,
+      "num": 610592,
+      "word": "车臣领导人声称车被马斯克远程锁住",
+      "onboard_time": 1726828760,
+      "rank": 27,
+      "category": "国外时政"
     },
     {
       "raw_hot": 601276,
@@ -627,14 +659,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 373887,
-      "num": 373887,
-      "word": "赵丽颖 飞天奖",
-      "onboard_time": 1726828279,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 369213,
       "num": 369213,
       "word": "LPR",
@@ -763,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307813,
+      "num": 307813,
+      "word": "赵露思王安宇坐一起",
+      "onboard_time": 1726830140,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 306591,
       "num": 306591,
       "word": "刘烨儿子在家叫妈出门叫姐",
@@ -819,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291277,
+      "num": 291277,
+      "word": "还我李肆",
+      "onboard_time": 1726830258,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 290648,
       "num": 290648,
       "word": "北京一网友在威海捡到疑似龙涎香",
@@ -857,6 +897,14 @@
       "onboard_time": 1726763057,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281382,
+      "num": 281382,
+      "word": "翔霖",
+      "onboard_time": 1726830200,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 280672,
@@ -1171,14 +1219,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 213106,
-      "num": 213106,
-      "word": "车臣领导人声称车被马斯克远程锁住",
-      "onboard_time": 1726828760,
-      "rank": 27,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 211851,
       "num": 515307,
       "word": "苏大强变成女儿奴了",
@@ -1307,6 +1347,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 196067,
+      "num": 196067,
+      "word": "哈利波特",
+      "onboard_time": 1726826118,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 195938,
       "num": 195938,
       "word": "双城之战动画第二季",
@@ -1369,6 +1417,14 @@
       "onboard_time": 1726827800,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 191617,
+      "num": 191617,
+      "word": "景区将流浪猫放在人造孤岛供游客打卡",
+      "onboard_time": 1726827078,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190811,
@@ -1467,11 +1523,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 183186,
-      "num": 183186,
-      "word": "景区将流浪猫放在人造孤岛供游客打卡",
-      "onboard_time": 1726827078,
-      "rank": 46,
+      "raw_hot": 182697,
+      "num": 182697,
+      "word": "女童走失跟着送上外卖了",
+      "onboard_time": 1726828401,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1481,6 +1537,14 @@
       "onboard_time": 1726803441,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178651,
+      "num": 178651,
+      "word": "油价",
+      "onboard_time": 1726828100,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 176959,
@@ -1513,6 +1577,14 @@
       "onboard_time": 1726803560,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175460,
+      "num": 410706,
+      "word": "胡歌 铁打的顶流",
+      "onboard_time": 1726827679,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 173814,
@@ -1587,22 +1659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166447,
-      "num": 166447,
-      "word": "北京晚霞",
-      "onboard_time": 1726828701,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164474,
-      "num": 164474,
-      "word": "哈利波特",
-      "onboard_time": 1726826118,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 163358,
       "num": 163358,
       "word": "苹果用户被软件7分钟扣款23次",
@@ -1633,14 +1689,6 @@
       "onboard_time": 1726796420,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 159344,
-      "num": 159344,
-      "word": "油价",
-      "onboard_time": 1726828100,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 158102,
@@ -1763,6 +1811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 149048,
+      "num": 449021,
+      "word": "宝妈带8岁儿子旅游在高速醉驾逆行",
+      "onboard_time": 1726830200,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148432,
       "num": 148432,
       "word": "iPhone16",
@@ -1793,14 +1849,6 @@
       "onboard_time": 1726759941,
       "rank": 24,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 143295,
-      "num": 143295,
-      "word": "女童走失跟着送上外卖了",
-      "onboard_time": 1726828401,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143283,
@@ -1839,6 +1887,14 @@
       "num": 138584,
       "word": "飞天奖路透",
       "onboard_time": 1726823659,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 138294,
+      "num": 138294,
+      "word": "王鹤棣田曦薇新剧招商",
+      "onboard_time": 1726829120,
       "rank": 45,
       "category": "剧集"
     },
@@ -1911,6 +1967,14 @@
       "num": 132656,
       "word": "A股",
       "onboard_time": 1726798279,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 132603,
+      "num": 132603,
+      "word": "国内油价已抹去今年全部涨幅",
+      "onboard_time": 1726829840,
       "rank": 47,
       "category": "财经"
     },
@@ -2291,14 +2355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 69805,
-      "num": 410706,
-      "word": "胡歌 铁打的顶流",
-      "onboard_time": 1726827679,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 69697,
       "num": 69697,
       "word": "大疆Action5Pro",
@@ -2361,6 +2417,14 @@
       "onboard_time": 1726755384,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 58654,
+      "num": 593721,
+      "word": "被农学学霸的带货馋疯了",
+      "onboard_time": 1726821202,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58638,
@@ -2497,14 +2561,6 @@
       "onboard_time": 1726803021,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 44822,
-      "num": 593721,
-      "word": "被农学学霸的带货馋疯了",
-      "onboard_time": 1726821202,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44742,
@@ -2667,6 +2723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34373,
+      "num": 138814,
+      "word": "漱口水是智商税吗",
+      "onboard_time": 1726830919,
+      "rank": 42,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 34118,
       "num": 39983,
       "word": "易烊千玺废土风大片",
@@ -2691,11 +2755,35 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 33291,
+      "num": 471931,
+      "word": "白鹿上海活动",
+      "onboard_time": 1726828819,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32890,
       "num": 410676,
       "word": "花钱找人陪爬山值吗",
       "onboard_time": 1726826540,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32821,
+      "num": 321027,
+      "word": "6个习惯就能毁掉一颗牙",
+      "onboard_time": 1726830379,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32065,
+      "num": 608914,
+      "word": "中国社会始终与善良正义站在一起",
+      "onboard_time": 1726829599,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -2809,14 +2897,6 @@
       "onboard_time": 1726803982,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 23090,
-      "num": 129275,
-      "word": "白鹿上海活动",
-      "onboard_time": 1726828819,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 23027,
