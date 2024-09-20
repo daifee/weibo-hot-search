@@ -1,6 +1,6 @@
 {
   "startTime": 1726849656112,
-  "endTime": 1726852740174,
+  "endTime": 1726853814918,
   "band_list": [
     {
       "raw_hot": 4174876,
@@ -155,6 +155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 216296,
+      "num": 216296,
+      "word": "2岁女童遭邻居持刀伤害后去世",
+      "onboard_time": 1726851377,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215691,
       "num": 215691,
       "word": "Hanni露背装",
@@ -241,14 +249,6 @@
       "onboard_time": 1726836020,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 143931,
-      "num": 143931,
-      "word": "2岁女童遭邻居持刀伤害后去世",
-      "onboard_time": 1726851377,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142086,
@@ -427,12 +427,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55794,
+      "num": 55794,
+      "word": "好多明星在厦门啊",
+      "onboard_time": 1726853054,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51882,
       "num": 54927,
       "word": "泰州姜堰发生2.2级地震",
       "onboard_time": 1726841363,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50767,
+      "num": 50767,
+      "word": "逆水寒手游",
+      "onboard_time": 1726853414,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 25972,
