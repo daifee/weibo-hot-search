@@ -1,10 +1,10 @@
 {
   "startTime": 1726849656112,
-  "endTime": 1726849656112,
+  "endTime": 1726850605190,
   "band_list": [
     {
-      "raw_hot": 2977362,
-      "num": 2977362,
+      "raw_hot": 4174876,
+      "num": 4174876,
       "word": "湖南警方通报刘某杰遇害案",
       "onboard_time": 1726848801,
       "rank": 0,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1019856,
-      "num": 1019856,
+      "raw_hot": 1107969,
+      "num": 1107969,
       "word": "梅姨",
       "onboard_time": 1726844963,
       "rank": 1,
@@ -59,8 +59,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 454078,
-      "num": 454078,
+      "raw_hot": 483528,
+      "num": 483528,
       "word": "孙千演技",
       "onboard_time": 1726846761,
       "rank": 9,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 327376,
+      "num": 327376,
+      "word": "摄影大师央美演讲因多人看手机离席",
+      "onboard_time": 1726847719,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321332,
       "num": 321332,
       "word": "Scout发文回应",
@@ -121,14 +129,6 @@
       "onboard_time": 1726839861,
       "rank": 15,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 284326,
-      "num": 284326,
-      "word": "摄影大师央美演讲因多人看手机离席",
-      "onboard_time": 1726847719,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 278345,
@@ -188,10 +188,18 @@
     },
     {
       "raw_hot": 170498,
-      "num": 170498,
+      "num": 195702,
       "word": "广东最低气温将降至23度",
       "onboard_time": 1726842859,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169281,
+      "num": 169281,
+      "word": "上海确认出现短时龙卷风",
+      "onboard_time": 1726844899,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -219,14 +227,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 153067,
-      "num": 153067,
-      "word": "上海确认出现短时龙卷风",
-      "onboard_time": 1726844899,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151538,
       "num": 151538,
       "word": "我赴黎维和部队营区周边发生航弹爆炸",
@@ -251,6 +251,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 141412,
+      "num": 141412,
+      "word": "考研预报名推迟",
+      "onboard_time": 1726837821,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 140735,
       "num": 140735,
       "word": "银行工作人员也开始街头发传单了",
@@ -259,12 +267,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139178,
-      "num": 139178,
-      "word": "考研预报名推迟",
-      "onboard_time": 1726837821,
-      "rank": 33,
-      "category": "教育"
+      "raw_hot": 139201,
+      "num": 139201,
+      "word": "涵艺爆料Scout钱凑齐了",
+      "onboard_time": 1726846340,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 133614,
@@ -323,16 +331,8 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 124944,
-      "num": 124944,
-      "word": "涵艺爆料Scout钱凑齐了",
-      "onboard_time": 1726846340,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 111943,
-      "num": 111943,
+      "raw_hot": 122827,
+      "num": 122827,
       "word": "野孩子",
       "onboard_time": 1726849100,
       "rank": 42,
@@ -344,6 +344,14 @@
       "word": "50岁退休女儿全职照顾81岁痴呆母亲",
       "onboard_time": 1726844181,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111493,
+      "num": 111493,
+      "word": "女子被猫抓伤男友将猫乱棍打死",
+      "onboard_time": 1726834820,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -371,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104125,
+      "num": 104125,
+      "word": "黄晓明官宣最大的受害者出现了",
+      "onboard_time": 1726804702,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103299,
       "num": 103299,
       "word": "泰州地震",
@@ -387,12 +403,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102611,
-      "num": 102611,
-      "word": "黄晓明官宣最大的受害者出现了",
-      "onboard_time": 1726804702,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 94086,
+      "num": 94086,
+      "word": "肖战出发澳门",
+      "onboard_time": 1726839381,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 25972,
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#庆祝人民政协成立75周年大会#"
+    },
+    {
+      "word": "#习近平同马来西亚最高元首会谈#"
     }
   ]
 }
