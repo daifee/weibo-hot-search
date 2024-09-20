@@ -1,6 +1,6 @@
 {
   "startTime": 1726849656112,
-  "endTime": 1726867222815,
+  "endTime": 1726868109858,
   "band_list": [
     {
       "raw_hot": 4174876,
@@ -427,8 +427,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 72042,
-      "num": 72042,
+      "raw_hot": 76292,
+      "num": 76292,
       "word": "黎巴嫩眼科医生发声",
       "onboard_time": 1726863732,
       "rank": 49,
@@ -499,8 +499,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 28343,
-      "num": 28343,
+      "raw_hot": 31138,
+      "num": 31138,
       "word": "黎巴嫩多起通讯设备爆炸大规模伤亡",
       "onboard_time": 1726862592,
       "rank": 48,
@@ -531,12 +531,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22477,
-      "num": 22477,
+      "raw_hot": 22529,
+      "num": 22529,
       "word": "余华说喜欢人类幼崽但从来不催婚",
       "onboard_time": 1726865351,
       "rank": 34,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 21700,
+      "num": 48042,
+      "word": "台风给江苏带来了绝美晚霞",
+      "onboard_time": 1726862831,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21085,
@@ -545,14 +553,6 @@
       "onboard_time": 1726832720,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 20102,
-      "num": 48042,
-      "word": "台风给江苏带来了绝美晚霞",
-      "onboard_time": 1726862831,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11658,
