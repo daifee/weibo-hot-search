@@ -1,6 +1,6 @@
 {
   "startTime": 1726763246339,
-  "endTime": 1726837030289,
+  "endTime": 1726838836186,
   "band_list": [
     {
       "raw_hot": 2835519,
@@ -49,6 +49,14 @@
       "onboard_time": 1726823361,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1755576,
+      "num": 1755576,
+      "word": "陈乔恩Alan婚礼嘉宾名单",
+      "onboard_time": 1726836682,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 1676594,
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 755197,
-      "num": 284747,
+      "num": 470530,
       "word": "甜馨走秀",
       "onboard_time": 1726835179,
       "rank": 17,
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 714555,
-      "num": 282502,
+      "num": 473913,
       "word": "男主写死了",
       "onboard_time": 1726834220,
       "rank": 12,
@@ -611,6 +619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 476206,
+      "num": 476206,
+      "word": "2025考研初试时间公布",
+      "onboard_time": 1726836800,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 466178,
       "num": 466178,
       "word": "大山女孩以为400分能报考清华",
@@ -643,8 +659,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 445944,
+      "num": 352616,
+      "word": "黄晓明黄子韬 青岛特产黄氏霸总",
+      "onboard_time": 1726834820,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 427674,
-      "num": 269312,
+      "num": 313574,
       "word": "喻言 下一战歌手",
       "onboard_time": 1726833319,
       "rank": 20,
@@ -657,6 +681,14 @@
       "onboard_time": 1726819879,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409328,
+      "num": 409328,
+      "word": "范思哲大秀",
+      "onboard_time": 1726836620,
+      "rank": 35,
+      "category": "时尚"
     },
     {
       "raw_hot": 404642,
@@ -843,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314595,
+      "num": 314595,
+      "word": "杨玉环新皮肤",
+      "onboard_time": 1726837521,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 314454,
       "num": 314454,
       "word": "报纸上的赵露思",
@@ -897,6 +937,14 @@
       "onboard_time": 1726802180,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 299195,
+      "num": 299195,
+      "word": "中日共识与日本男童遇袭无关",
+      "onboard_time": 1726832539,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295061,
@@ -1011,6 +1059,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 277403,
+      "num": 277403,
+      "word": "女子被猫抓伤男友将猫乱棍打死",
+      "onboard_time": 1726834820,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277197,
       "num": 277197,
       "word": "沈星回聆花意",
@@ -1035,12 +1091,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 268910,
-      "num": 268910,
-      "word": "中日共识与日本男童遇袭无关",
-      "onboard_time": 1726832539,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 268023,
+      "num": 268023,
+      "word": "考研预报名推迟",
+      "onboard_time": 1726837821,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 267225,
@@ -1323,14 +1379,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 218192,
-      "num": 269669,
-      "word": "陈乔恩Alan婚礼嘉宾名单",
-      "onboard_time": 1726836682,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 214406,
       "num": 214406,
       "word": "王一博米兰时装周",
@@ -1403,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205752,
+      "num": 205752,
+      "word": "安陵容当时吃了最少30粒苦杏仁",
+      "onboard_time": 1726838361,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205579,
       "num": 205579,
       "word": "尹净汉见面会",
@@ -1451,14 +1507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 203064,
-      "num": 203064,
-      "word": "女子被猫抓伤男友将猫乱棍打死",
-      "onboard_time": 1726834820,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202795,
       "num": 202795,
       "word": "被黄小蕾的演技冲击到了",
@@ -1475,20 +1523,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201292,
+      "num": 201292,
+      "word": "泰州地震",
+      "onboard_time": 1726838539,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200846,
       "num": 200846,
       "word": "年轻人为了不弯腰扫地有多拼",
       "onboard_time": 1726802361,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198478,
-      "num": 198478,
-      "word": "范思哲大秀",
-      "onboard_time": 1726836620,
-      "rank": 35,
-      "category": "时尚"
     },
     {
       "raw_hot": 196931,
@@ -1683,12 +1731,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182308,
-      "num": 182308,
-      "word": "2025考研初试时间公布",
-      "onboard_time": 1726836800,
-      "rank": 41,
-      "category": "教育"
+      "raw_hot": 180899,
+      "num": 180899,
+      "word": "喻言好享受舞台",
+      "onboard_time": 1726837880,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 180235,
@@ -1747,6 +1795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 175973,
+      "num": 471583,
+      "word": "梅姨案最后1个孩子家长重新采血",
+      "onboard_time": 1726837401,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175900,
       "num": 175900,
       "word": "韩剧同款香蕉牛奶或成文化遗产",
@@ -1769,6 +1825,22 @@
       "onboard_time": 1726827679,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174962,
+      "num": 174962,
+      "word": "白鹿直播",
+      "onboard_time": 1726837460,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 174341,
+      "num": 174341,
+      "word": "水哥是真没知识瓶颈期啊",
+      "onboard_time": 1726838121,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 173881,
@@ -1835,6 +1907,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 167960,
+      "num": 413890,
+      "word": "成年人提分手就像小鸡破壳",
+      "onboard_time": 1726837642,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167028,
       "num": 167028,
       "word": "折叠iPhone设计理念",
@@ -1897,6 +1977,14 @@
       "onboard_time": 1726831881,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158343,
+      "num": 158343,
+      "word": "腾势Z9GT",
+      "onboard_time": 1726837583,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 158102,
@@ -2065,6 +2153,14 @@
       "onboard_time": 1726822640,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 141045,
+      "num": 250737,
+      "word": "迎风的青春 癫剧",
+      "onboard_time": 1726838660,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 139659,
@@ -2483,8 +2579,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 77391,
-      "num": 215185,
+      "raw_hot": 79639,
+      "num": 473578,
       "word": "外祖孙俩遭邻居行凶亲属最新发声",
       "onboard_time": 1726836980,
       "rank": 29,
@@ -2763,14 +2859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47573,
-      "num": 154461,
-      "word": "黄晓明黄子韬 青岛特产黄氏霸总",
-      "onboard_time": 1726834820,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 46387,
       "num": 205315,
       "word": "华为轮值董事长首谈引望战略",
@@ -2801,6 +2889,14 @@
       "onboard_time": 1726803021,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 44809,
+      "num": 468637,
+      "word": "深蓝联合华为乾崑双拳出击",
+      "onboard_time": 1726837521,
+      "rank": 12,
+      "category": "汽车"
     },
     {
       "raw_hot": 44742,
@@ -2859,6 +2955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40264,
+      "num": 356000,
+      "word": "刘冲镜头下的章泽天",
+      "onboard_time": 1726838482,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 40039,
       "num": 40039,
       "word": "华晨宇微博音乐盛典四项荣誉",
@@ -2875,12 +2979,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 39319,
+      "num": 287769,
+      "word": "腾势Z9GT科技重塑豪华",
+      "onboard_time": 1726837521,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 39048,
       "num": 257865,
       "word": "年轻人出家指南",
       "onboard_time": 1726818740,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 38872,
+      "num": 434500,
+      "word": "极氪7X可城可野真SUV",
+      "onboard_time": 1726837460,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 38619,
@@ -3099,6 +3219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28271,
+      "num": 984592,
+      "word": "青春当燃是这样",
+      "onboard_time": 1726739722,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26955,
       "num": 402637,
       "word": "村民半价私带游客上鼎湖山引热议",
@@ -3233,6 +3361,9 @@
     },
     {
       "word": "#人民军队淬火向前#"
+    },
+    {
+      "word": "#庆祝人民政协成立75周年大会#"
     }
   ]
 }
