@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726820863250,
+  "endTime": 1726821673770,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -1755,6 +1755,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1646654,
+      "num": 1646654,
+      "word": "官方正调查小英被曝曾送养两个女孩",
+      "onboard_time": 1726818080,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1644420,
       "num": 473133,
       "word": "避谶",
@@ -2675,14 +2683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1399720,
-      "num": 1399720,
-      "word": "官方正调查小英被曝曾送养两个女孩",
-      "onboard_time": 1726818080,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1397728,
       "num": 1397728,
       "word": "孙颖莎光速进16强",
@@ -3137,6 +3137,14 @@
       "onboard_time": 1725320177,
       "rank": 1,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1269254,
+      "num": 1269254,
+      "word": "于正排四大花旦四小花旦",
+      "onboard_time": 1726819700,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1267735,
@@ -6955,14 +6963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 789895,
-      "num": 789895,
-      "word": "于正排四大花旦四小花旦",
-      "onboard_time": 1726819700,
-      "rank": 4,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 789479,
       "num": 789479,
       "word": "已灭绝4.36亿年的鱼化石被发现",
@@ -8336,6 +8336,14 @@
       "word": "B太为2元面馆捐一年酱油",
       "onboard_time": 1725847099,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 673831,
+      "num": 381346,
+      "word": "贴身猥亵女生涉事男生放弃入学资格",
+      "onboard_time": 1726817121,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -15323,14 +15331,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 369152,
-      "num": 369152,
-      "word": "贴身猥亵女生涉事男生放弃入学资格",
-      "onboard_time": 1726817121,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 369064,
       "num": 230387,
       "word": "男子卧推100公斤被压甩鞋求救",
@@ -16129,6 +16129,14 @@
       "onboard_time": 1726357217,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 347288,
+      "num": 347288,
+      "word": "3名硕士应聘宿舍管理员",
+      "onboard_time": 1726820001,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 347274,
@@ -19131,6 +19139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282787,
+      "num": 282787,
+      "word": "叶县县委书记回应网传强拆果园",
+      "onboard_time": 1726819879,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282633,
       "num": 282633,
       "word": "已有多家公司硬刚苹果税",
@@ -19793,14 +19809,6 @@
       "onboard_time": 1725285321,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 271912,
-      "num": 271912,
-      "word": "叶县县委书记回应网传强拆果园",
-      "onboard_time": 1726819879,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 271835,
@@ -20499,6 +20507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 262439,
+      "num": 262439,
+      "word": "iPhone16第一批bug",
+      "onboard_time": 1726819341,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 262364,
       "num": 262364,
       "word": "距离国庆放假还有13天",
@@ -20905,6 +20921,14 @@
       "onboard_time": 1726487839,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 257572,
+      "num": 257572,
+      "word": "当地回应网红小英被指弃养孩子",
+      "onboard_time": 1726819038,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 257524,
@@ -21875,6 +21899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245052,
+      "num": 245052,
+      "word": "iPhone16破发二手15翻红",
+      "onboard_time": 1726817838,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 244900,
       "num": 244900,
       "word": "孙颖莎采访",
@@ -22803,14 +22835,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 236071,
-      "num": 236071,
-      "word": "iPhone16第一批bug",
-      "onboard_time": 1726819341,
-      "rank": 27,
-      "category": "数码"
-    },
-    {
       "raw_hot": 235853,
       "num": 365961,
       "word": "王安宇把整个内娱认了一遍",
@@ -22985,14 +23009,6 @@
       "onboard_time": 1725172458,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 234455,
-      "num": 234455,
-      "word": "iPhone16破发二手15翻红",
-      "onboard_time": 1726817838,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 234452,
@@ -26467,14 +26483,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 205777,
-      "num": 205777,
-      "word": "当地回应网红小英被指弃养孩子",
-      "onboard_time": 1726819038,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 205774,
       "num": 411155,
       "word": "李沁陈哲远都营业了",
@@ -28651,14 +28659,6 @@
       "category": "国内时政,科学科普"
     },
     {
-      "raw_hot": 195991,
-      "num": 195991,
-      "word": "3名硕士应聘宿舍管理员",
-      "onboard_time": 1726820001,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195984,
       "num": 195984,
       "word": "流水迢迢 徐正溪",
@@ -28865,6 +28865,14 @@
       "onboard_time": 1725890060,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 195405,
+      "num": 195405,
+      "word": "伴侣不上进要不要分手",
+      "onboard_time": 1726821020,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 195382,
@@ -29580,7 +29588,7 @@
     },
     {
       "raw_hot": 192738,
-      "num": 192738,
+      "num": 1341723,
       "word": "青春华章",
       "onboard_time": 1726819520,
       "rank": 34,
@@ -34859,6 +34867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168717,
+      "num": 168717,
+      "word": "长得像宽面的人体寄生虫",
+      "onboard_time": 1726821440,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 168657,
       "num": 168657,
       "word": "全红婵给国乒男团拍合照",
@@ -37633,6 +37649,14 @@
       "onboard_time": 1725504559,
       "rank": 37,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 156804,
+      "num": 156804,
+      "word": "贵州黄平发生一起重大刑案",
+      "onboard_time": 1726821379,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156785,
@@ -46235,6 +46259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114232,
+      "num": 599629,
+      "word": "中国将独立取样监测日方排海",
+      "onboard_time": 1726819700,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114123,
       "num": 114123,
       "word": "Gawon好美",
@@ -46793,6 +46825,14 @@
       "onboard_time": 1726451299,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110483,
+      "num": 257640,
+      "word": "华为新手表美到了nextlevel",
+      "onboard_time": 1726817659,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 110469,
@@ -48161,14 +48201,6 @@
       "onboard_time": 1726131261,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98542,
-      "num": 245644,
-      "word": "华为新手表美到了nextlevel",
-      "onboard_time": 1726817659,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 98503,
@@ -49891,14 +49923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 77847,
-      "num": 599629,
-      "word": "中国将独立取样监测日方排海",
-      "onboard_time": 1726819700,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77601,
       "num": 1090313,
       "word": "山花烂漫时 再一次被拉起的大山女孩",
@@ -50832,6 +50856,14 @@
       "word": "买齐一套书皮要花三四十元",
       "onboard_time": 1725449660,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67939,
+      "num": 529871,
+      "word": "老人关机骑行一个月去看梦中大桥",
+      "onboard_time": 1726819580,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -53739,6 +53771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44822,
+      "num": 168835,
+      "word": "被农学学霸的带货馋疯了",
+      "onboard_time": 1726821202,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44800,
       "num": 402550,
       "word": "90后大学生回村开办养老院",
@@ -53801,14 +53841,6 @@
       "onboard_time": 1725607760,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 44375,
-      "num": 529871,
-      "word": "老人关机骑行一个月去看梦中大桥",
-      "onboard_time": 1726819580,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44238,
@@ -54249,6 +54281,14 @@
       "onboard_time": 1726304960,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41659,
+      "num": 168767,
+      "word": "离社交媒体越近 离正常人类就越远",
+      "onboard_time": 1726821500,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 41584,
@@ -54769,6 +54809,14 @@
       "onboard_time": 1725319276,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39048,
+      "num": 257865,
+      "word": "年轻人出家指南",
+      "onboard_time": 1726818740,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 39044,
@@ -55475,6 +55523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35664,
+      "num": 557836,
+      "word": "黎爆炸通信设备产地销售路径成谜",
+      "onboard_time": 1726821139,
+      "rank": 7,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 35662,
       "num": 39990,
       "word": "周深演唱会behind",
@@ -55609,6 +55665,14 @@
       "onboard_time": 1725821892,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34701,
+      "num": 323969,
+      "word": "闫妮的妩媚是骨子里的",
+      "onboard_time": 1726820780,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 34674,
@@ -55921,6 +55985,14 @@
       "onboard_time": 1726229004,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33410,
+      "num": 352151,
+      "word": "三国志战略版五周年火爆",
+      "onboard_time": 1726819520,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 33359,
@@ -57521,14 +57593,6 @@
       "onboard_time": 1726255750,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25116,
-      "num": 338973,
-      "word": "三国志战略版五周年火爆",
-      "onboard_time": 1726819520,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 25021,
@@ -59665,14 +59729,6 @@
       "onboard_time": 1725130152,
       "rank": 9,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 5547,
-      "num": 323969,
-      "word": "闫妮的妩媚是骨子里的",
-      "onboard_time": 1726820780,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 5296,
