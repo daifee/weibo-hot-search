@@ -1,6 +1,6 @@
 {
   "startTime": 1726849656112,
-  "endTime": 1726853814918,
+  "endTime": 1726856941317,
   "band_list": [
     {
       "raw_hot": 4174876,
@@ -171,6 +171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 198617,
+      "num": 198617,
+      "word": "范思哲大秀",
+      "onboard_time": 1726836620,
+      "rank": 40,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 194230,
       "num": 194230,
       "word": "全红婵归队",
@@ -339,14 +347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126264,
-      "num": 126264,
-      "word": "范思哲大秀",
-      "onboard_time": 1726836620,
-      "rank": 40,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 122827,
       "num": 122827,
       "word": "野孩子",
@@ -449,6 +449,22 @@
       "onboard_time": 1726853414,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 35887,
+      "num": 35887,
+      "word": "檀健次有粉丝话是真听",
+      "onboard_time": 1726850837,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 28173,
+      "num": 28173,
+      "word": "蔡徐坤米兰打卡粉丝应援大屏",
+      "onboard_time": 1726856473,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 25972,
