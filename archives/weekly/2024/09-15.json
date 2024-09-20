@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726802695912,
+  "endTime": 1726803597630,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -235,6 +235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 2356230,
+      "num": 2356230,
+      "word": "3天穿同一件衣服出镜官员回应道歉",
+      "onboard_time": 1726800079,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2355727,
       "num": 2355727,
       "word": "央广网评装聋作哑的三只羊",
@@ -352,14 +360,6 @@
       "word": "美诚月饼第一批受害者出现了",
       "onboard_time": 1726624579,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2013599,
-      "num": 2013599,
-      "word": "3天穿同一件衣服出镜官员回应道歉",
-      "onboard_time": 1726800079,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -532,7 +532,7 @@
     },
     {
       "raw_hot": 1676594,
-      "num": 395126,
+      "num": 452951,
       "word": "西班牙网红夫妇吐槽中国厕所",
       "onboard_time": 1726792821,
       "rank": 17,
@@ -588,7 +588,7 @@
     },
     {
       "raw_hot": 1620323,
-      "num": 397040,
+      "num": 466860,
       "word": "招行已开除涉58页PPT举报事件员工",
       "onboard_time": 1726795221,
       "rank": 20,
@@ -913,6 +913,14 @@
       "onboard_time": 1726663463,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1307808,
+      "num": 1307808,
+      "word": "恋与深空",
+      "onboard_time": 1726396640,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 1296851,
@@ -1275,6 +1283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1108069,
+      "num": 352940,
+      "word": "喜茶 樊振东",
+      "onboard_time": 1726802420,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1102445,
       "num": 1102445,
       "word": "通报秒删多次约谈三只羊内容",
@@ -1417,14 +1433,6 @@
       "onboard_time": 1726647081,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1015253,
-      "num": 1015253,
-      "word": "恋与深空",
-      "onboard_time": 1726396640,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 1013316,
@@ -1779,12 +1787,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 849832,
+      "num": 849832,
+      "word": "大连思科被曝裁员赔偿N+7",
+      "onboard_time": 1726800258,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 849357,
       "num": 849357,
       "word": "小英称有什么事都会坦然面对",
       "onboard_time": 1726706901,
       "rank": 4,
       "category": "网红"
+    },
+    {
+      "raw_hot": 844450,
+      "num": 844450,
+      "word": "杨紫美式辣妹",
+      "onboard_time": 1726801100,
+      "rank": 40,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 836616,
@@ -2017,14 +2041,6 @@
       "onboard_time": 1726641620,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 756511,
-      "num": 679960,
-      "word": "杨紫美式辣妹",
-      "onboard_time": 1726801100,
-      "rank": 40,
-      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 753732,
@@ -2281,6 +2297,14 @@
       "onboard_time": 1726749201,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 669477,
+      "num": 669477,
+      "word": "男子送妹妹上学突发疾病致车祸2死",
+      "onboard_time": 1726800619,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 668764,
@@ -2568,14 +2592,6 @@
       "word": "87元一晚酒店台风期间涨至600元",
       "onboard_time": 1726441574,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 617857,
-      "num": 617857,
-      "word": "大连思科被曝裁员赔偿N+7",
-      "onboard_time": 1726800258,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -3467,6 +3483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 477152,
+      "num": 477152,
+      "word": "宋茜王鹤棣番位",
+      "onboard_time": 1726801579,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 473354,
       "num": 473354,
       "word": "四川江油失联姐弟均已遇难",
@@ -3560,14 +3584,6 @@
       "word": "美诚月饼晒车间回应小作坊质疑",
       "onboard_time": 1726637960,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 457635,
-      "num": 457635,
-      "word": "男子送妹妹上学突发疾病致车祸2死",
-      "onboard_time": 1726800619,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -3715,14 +3731,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 433662,
-      "num": 433662,
-      "word": "宋茜王鹤棣番位",
-      "onboard_time": 1726801579,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 433612,
       "num": 426465,
       "word": "我愿意为了这样的房子爬七楼",
@@ -3809,6 +3817,14 @@
       "onboard_time": 1726598652,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 423793,
+      "num": 423793,
+      "word": "小英两天掉粉近10万",
+      "onboard_time": 1726801159,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 422302,
@@ -4068,7 +4084,7 @@
     },
     {
       "raw_hot": 395238,
-      "num": 497592,
+      "num": 752980,
       "word": "黎巴嫩初步调查通信设备爆炸事件",
       "onboard_time": 1726795880,
       "rank": 15,
@@ -4473,14 +4489,6 @@
       "onboard_time": 1726719329,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 352940,
-      "num": 352940,
-      "word": "喜茶 樊振东",
-      "onboard_time": 1726802420,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 352901,
@@ -4931,6 +4939,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 319340,
+      "num": 319340,
+      "word": "大连思科近300员工一夜失业",
+      "onboard_time": 1726801700,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316878,
       "num": 316878,
       "word": "大耀斑爆发",
@@ -5081,14 +5097,6 @@
       "onboard_time": 1726446500,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 309983,
-      "num": 309983,
-      "word": "小英两天掉粉近10万",
-      "onboard_time": 1726801159,
-      "rank": 27,
-      "category": "网红"
     },
     {
       "raw_hot": 309240,
@@ -5251,6 +5259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 300031,
+      "num": 300031,
+      "word": "魔道祖师",
+      "onboard_time": 1726802180,
+      "rank": 36,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 299700,
       "num": 299700,
       "word": "女孩掉井父亲不让施救先拍照",
@@ -5353,14 +5369,6 @@
       "onboard_time": 1726381638,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 292700,
-      "num": 292700,
-      "word": "大连思科近300员工一夜失业",
-      "onboard_time": 1726801700,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292607,
@@ -5636,7 +5644,7 @@
     },
     {
       "raw_hot": 280672,
-      "num": 280672,
+      "num": 291439,
       "word": "北方降温幅度可达12摄氏度",
       "onboard_time": 1726800079,
       "rank": 23,
@@ -6731,6 +6739,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 232727,
+      "num": 232727,
+      "word": "男孩鼻子恶臭两年取出颗生锈螺丝",
+      "onboard_time": 1726803203,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232516,
       "num": 232516,
       "word": "三里屯苹果店暴雨中大排长龙",
@@ -7051,14 +7067,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 220196,
-      "num": 220196,
-      "word": "魔道祖师",
-      "onboard_time": 1726802180,
-      "rank": 36,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 220174,
       "num": 220174,
       "word": "台风路径",
@@ -7329,6 +7337,14 @@
       "onboard_time": 1726403482,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 210399,
+      "num": 210399,
+      "word": "黄牛拒收iPhone16Pro",
+      "onboard_time": 1726802960,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 210259,
@@ -7827,6 +7843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 200846,
+      "num": 200846,
+      "word": "年轻人为了不弯腰扫地有多拼",
+      "onboard_time": 1726802361,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200692,
       "num": 200692,
       "word": "易烊千玺水手造型",
@@ -8081,6 +8105,14 @@
       "onboard_time": 1726483459,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196931,
+      "num": 196931,
+      "word": "赵丽颖咖色羊绒风衣",
+      "onboard_time": 1726802720,
+      "rank": 43,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 196570,
@@ -8579,6 +8611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 188577,
+      "num": 680048,
+      "word": "iPhone16和华为三折人气谁更旺",
+      "onboard_time": 1726801700,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 188521,
       "num": 188521,
       "word": "完美世界剧场版千层反转设定",
@@ -8779,6 +8819,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 184466,
+      "num": 184466,
+      "word": "华为三折叠再现抢购热潮",
+      "onboard_time": 1726802900,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 184284,
       "num": 184284,
       "word": "为什么中秋节没人提前订酒店了",
@@ -8801,6 +8849,14 @@
       "onboard_time": 1726669162,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183918,
+      "num": 183918,
+      "word": "恋与深空欲揽旖旎色",
+      "onboard_time": 1726803502,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 183882,
@@ -8907,14 +8963,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 181296,
-      "num": 578077,
-      "word": "iPhone16和华为三折人气谁更旺",
-      "onboard_time": 1726801700,
-      "rank": 9,
-      "category": "数码"
-    },
-    {
       "raw_hot": 180913,
       "num": 180913,
       "word": "幻兽帕鲁开发商回应",
@@ -8953,6 +9001,14 @@
       "onboard_time": 1726527854,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180235,
+      "num": 180235,
+      "word": "披荆斩棘",
+      "onboard_time": 1726803441,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 180217,
@@ -9209,6 +9265,14 @@
       "onboard_time": 1726441755,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175845,
+      "num": 175845,
+      "word": "宴遇永安阵容官宣",
+      "onboard_time": 1726803560,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 175800,
@@ -10217,14 +10281,6 @@
       "onboard_time": 1726371258,
       "rank": 39,
       "category": "教育"
-    },
-    {
-      "raw_hot": 158450,
-      "num": 158450,
-      "word": "年轻人为了不弯腰扫地有多拼",
-      "onboard_time": 1726802361,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158229,
@@ -12179,6 +12235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125532,
+      "num": 477469,
+      "word": "网红小英曾开有百货商店",
+      "onboard_time": 1726802242,
+      "rank": 17,
+      "category": "网红"
+    },
+    {
       "raw_hot": 125374,
       "num": 579502,
       "word": "坚持跑步十二年之后会怎样",
@@ -13243,14 +13307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 94727,
-      "num": 400844,
-      "word": "网红小英曾开有百货商店",
-      "onboard_time": 1726802242,
-      "rank": 17,
-      "category": "网红"
-    },
-    {
       "raw_hot": 94403,
       "num": 94403,
       "word": "苹果已开放iPhone16员工购买通道",
@@ -13787,6 +13843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72718,
+      "num": 565856,
+      "word": "余承东交付首批华为三折叠",
+      "onboard_time": 1726799961,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 71948,
       "num": 513048,
       "word": "美联储降息或增加全球资产泡沫风险",
@@ -14123,14 +14187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58321,
-      "num": 565856,
-      "word": "余承东交付首批华为三折叠",
-      "onboard_time": 1726799961,
-      "rank": 28,
-      "category": "数码"
-    },
-    {
       "raw_hot": 58012,
       "num": 277205,
       "word": "00后小伙打瘦脸针中毒入院",
@@ -14275,12 +14331,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52099,
+      "num": 477261,
+      "word": "黄晓明送的钻戒",
+      "onboard_time": 1726802720,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52092,
       "num": 236001,
       "word": "7岁女孩被困车内机智自救",
       "onboard_time": 1726734926,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52072,
+      "num": 476643,
+      "word": "西凤酒请司马南参加活动引争议",
+      "onboard_time": 1726800320,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 51945,
@@ -14931,6 +15003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36696,
+      "num": 205487,
+      "word": "华为三折叠开售",
+      "onboard_time": 1726803259,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 36630,
       "num": 961050,
       "word": "高质量发展看广西",
@@ -14961,6 +15041,14 @@
       "onboard_time": 1726601110,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 36375,
+      "num": 1384069,
+      "word": "2024北京文化论坛",
+      "onboard_time": 1726715000,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36293,
@@ -15019,6 +15107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35045,
+      "num": 232831,
+      "word": "肖战柔软与坚韧并存",
+      "onboard_time": 1726803021,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35037,
       "num": 185032,
       "word": "通义视频生成模型全量免费开放",
@@ -15049,14 +15145,6 @@
       "onboard_time": 1726373298,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34270,
-      "num": 400782,
-      "word": "西凤酒请司马南参加活动引争议",
-      "onboard_time": 1726800320,
-      "rank": 29,
-      "category": "网红"
     },
     {
       "raw_hot": 34136,
@@ -15201,14 +15289,6 @@
       "onboard_time": 1726424474,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 31847,
-      "num": 1384069,
-      "word": "2024北京文化论坛",
-      "onboard_time": 1726715000,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31687,
