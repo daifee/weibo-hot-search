@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726807230547,
+  "endTime": 1726809674135,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -795,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1432625,
+      "num": 699015,
+      "word": "黄晓明自曝不喜欢比自己强的女生",
+      "onboard_time": 1726807343,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1416561,
       "num": 1128939,
       "word": "Angelababy中秋回眸笑",
@@ -1144,6 +1152,14 @@
       "word": "苏州的结界",
       "onboard_time": 1726470018,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1174248,
+      "num": 1174248,
+      "word": "向孩子举起屠刀的人十恶不赦",
+      "onboard_time": 1726805782,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -3243,6 +3259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 519245,
+      "num": 519245,
+      "word": "男孩鼻子恶臭两年取出颗生锈螺丝",
+      "onboard_time": 1726803203,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 519194,
       "num": 519194,
       "word": "刘能媳妇吻上谢广坤",
@@ -3313,14 +3337,6 @@
       "onboard_time": 1726577001,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 510328,
-      "num": 510328,
-      "word": "男孩鼻子恶臭两年取出颗生锈螺丝",
-      "onboard_time": 1726803203,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 509627,
@@ -4859,6 +4875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331487,
+      "num": 400297,
+      "word": "精神医院排满了失眠中老年女性",
+      "onboard_time": 1726806622,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331225,
       "num": 311143,
       "word": "研究发现少一颗牙大脑衰老近一岁",
@@ -5067,6 +5091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314454,
+      "num": 314454,
+      "word": "报纸上的赵露思",
+      "onboard_time": 1726807222,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 313808,
       "num": 313808,
       "word": "刘冲和朱志鑫张极互关",
@@ -5249,6 +5281,14 @@
       "onboard_time": 1726362858,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303319,
+      "num": 303319,
+      "word": "周雨彤新剧全款买鞋这段",
+      "onboard_time": 1726806202,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 303316,
@@ -5513,6 +5553,14 @@
       "onboard_time": 1726703058,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 288147,
+      "num": 288147,
+      "word": "肖战好长",
+      "onboard_time": 1726809201,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 288092,
@@ -5833,6 +5881,14 @@
       "onboard_time": 1726737624,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270082,
+      "num": 270082,
+      "word": "时代少年团 景德镇",
+      "onboard_time": 1726806442,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 269892,
@@ -6291,14 +6347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252982,
-      "num": 252982,
-      "word": "精神医院排满了失眠中老年女性",
-      "onboard_time": 1726806622,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 252901,
       "num": 252901,
       "word": "大角度变线",
@@ -6313,6 +6361,14 @@
       "onboard_time": 1726710978,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251961,
+      "num": 251961,
+      "word": "100秒了解网红小英被曝塌房事件",
+      "onboard_time": 1726807522,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251908,
@@ -6555,6 +6611,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 242610,
+      "num": 242610,
+      "word": "LPL出征照",
+      "onboard_time": 1726808182,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 242593,
       "num": 300035,
       "word": "蔡徐坤出发米兰时装周路透",
@@ -6569,14 +6633,6 @@
       "onboard_time": 1726384037,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 242408,
-      "num": 242408,
-      "word": "时代少年团 景德镇",
-      "onboard_time": 1726806442,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 242291,
@@ -6665,6 +6721,14 @@
       "onboard_time": 1726794860,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 239763,
+      "num": 239763,
+      "word": "凭什么法考是天下第一考",
+      "onboard_time": 1726808542,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 239582,
@@ -7059,6 +7123,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 225086,
+      "num": 303528,
+      "word": "半熟男女好敢拍",
+      "onboard_time": 1726807942,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224621,
       "num": 224621,
       "word": "今日中秋愿月光所至万事胜意",
@@ -7147,6 +7219,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 220710,
+      "num": 220710,
+      "word": "朋友圈实况图出现bug",
+      "onboard_time": 1726808961,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 220461,
       "num": 220461,
       "word": "广州美诚申请香港美诚商标被驳回复审",
@@ -7201,6 +7281,14 @@
       "onboard_time": 1726641019,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 219678,
+      "num": 219678,
+      "word": "嗑cp的时间梗居然成真了",
+      "onboard_time": 1726808122,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 219453,
@@ -7353,22 +7441,6 @@
       "onboard_time": 1726353494,
       "rank": 21,
       "category": "运动健身,健康医疗"
-    },
-    {
-      "raw_hot": 212934,
-      "num": 757319,
-      "word": "向孩子举起屠刀的人十恶不赦",
-      "onboard_time": 1726805782,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212798,
-      "num": 212798,
-      "word": "周雨彤新剧全款买鞋这段",
-      "onboard_time": 1726806202,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 212740,
@@ -7849,6 +7921,14 @@
       "onboard_time": 1726725860,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203480,
+      "num": 203480,
+      "word": "黎深枕月眠",
+      "onboard_time": 1726808842,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 203328,
@@ -8609,6 +8689,14 @@
       "onboard_time": 1726653680,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191121,
+      "num": 191121,
+      "word": "上海网友称今天在暴雨中坐船上班",
+      "onboard_time": 1726809382,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190901,
@@ -9729,6 +9817,14 @@
       "onboard_time": 1726474219,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169754,
+      "num": 169754,
+      "word": "李宁大秀",
+      "onboard_time": 1726809022,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 169634,
@@ -12587,6 +12683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120176,
+      "num": 304161,
+      "word": "谁家男女主谈恋爱从结拜开始啊",
+      "onboard_time": 1726807823,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120086,
       "num": 120086,
       "word": "晋江崩了",
@@ -13571,6 +13675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89862,
+      "num": 403458,
+      "word": "喜剧之王单口季",
+      "onboard_time": 1726808902,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89146,
       "num": 89146,
       "word": "成都打雷",
@@ -13801,6 +13913,14 @@
       "onboard_time": 1726615217,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 78555,
+      "num": 402525,
+      "word": "为啥有些医生需要边看病边算账",
+      "onboard_time": 1726808604,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78484,
@@ -14387,6 +14507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57630,
+      "num": 497846,
+      "word": "毛戈平说华为三折叠瑞红很高级",
+      "onboard_time": 1726805421,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 57519,
       "num": 57519,
       "word": "这居然是尤长靖",
@@ -14441,14 +14569,6 @@
       "onboard_time": 1726420156,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54671,
-      "num": 497846,
-      "word": "毛戈平说华为三折叠瑞红很高级",
-      "onboard_time": 1726805421,
-      "rank": 27,
-      "category": "数码"
     },
     {
       "raw_hot": 54169,
@@ -14576,6 +14696,14 @@
       "word": "浙江沿海岛屿巨浪翻涌",
       "onboard_time": 1726429271,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51772,
+      "num": 402717,
+      "word": "济南一干部群里辱骂群众被警方处罚",
+      "onboard_time": 1726808663,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -14947,6 +15075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42799,
+      "num": 521998,
+      "word": "李现与知识分子风的适配度",
+      "onboard_time": 1726805242,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 42451,
       "num": 585160,
       "word": "上海启动防汛防台二级响应",
@@ -15171,6 +15307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38056,
+      "num": 299022,
+      "word": "华为三折叠深度评测",
+      "onboard_time": 1726809082,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 37837,
       "num": 391900,
       "word": "被指消费女性公考机构岂能如此三观不正",
@@ -15201,6 +15345,14 @@
       "onboard_time": 1726542978,
       "rank": 19,
       "category": "社会新闻,国外时政"
+    },
+    {
+      "raw_hot": 37143,
+      "num": 402285,
+      "word": "胡歌可隆品牌代言人",
+      "onboard_time": 1726808604,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 36910,
@@ -15251,12 +15403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36315,
+      "num": 1127419,
+      "word": "新技术催生文化新潮流",
+      "onboard_time": 1726804940,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36293,
       "num": 419585,
       "word": "世界骑行日",
       "onboard_time": 1726560020,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36071,
+      "num": 400775,
+      "word": "余承东谈华为三折叠五大心动理由",
+      "onboard_time": 1726806923,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 35947,
@@ -15411,14 +15579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 33241,
-      "num": 521998,
-      "word": "李现与知识分子风的适配度",
-      "onboard_time": 1726805242,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 33028,
       "num": 421052,
       "word": "官方辟谣合肥一住宅楼地震后开裂",
@@ -15560,14 +15720,6 @@
       "word": "海南文昌166个村还未恢复供电",
       "onboard_time": 1726380378,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30501,
-      "num": 1127419,
-      "word": "新技术催生文化新潮流",
-      "onboard_time": 1726804940,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -15739,14 +15891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 28323,
-      "num": 256668,
-      "word": "余承东谈华为三折叠五大心动理由",
-      "onboard_time": 1726806923,
-      "rank": 41,
-      "category": "数码"
-    },
-    {
       "raw_hot": 28295,
       "num": 170230,
       "word": "马斯克称SpaceX将起诉美航管局",
@@ -15841,6 +15985,14 @@
       "onboard_time": 1726769712,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26418,
+      "num": 303400,
+      "word": "李斌称乐道L60订单爆了",
+      "onboard_time": 1726807882,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 26141,
