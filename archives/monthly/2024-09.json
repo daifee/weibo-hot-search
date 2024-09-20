@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726803597630,
+  "endTime": 1726806353052,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -1019,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2086763,
+      "num": 2086763,
+      "word": "黄晓明官宣最大的受害者出现了",
+      "onboard_time": 1726804702,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2084278,
       "num": 2084278,
       "word": "周星驰御用配音石班瑜去世",
@@ -1668,7 +1676,7 @@
     },
     {
       "raw_hot": 1676594,
-      "num": 452951,
+      "num": 497980,
       "word": "西班牙网红夫妇吐槽中国厕所",
       "onboard_time": 1726792821,
       "rank": 17,
@@ -1788,7 +1796,7 @@
     },
     {
       "raw_hot": 1620323,
-      "num": 466860,
+      "num": 505191,
       "word": "招行已开除涉58页PPT举报事件员工",
       "onboard_time": 1726795221,
       "rank": 20,
@@ -5835,6 +5843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 879911,
+      "num": 754673,
+      "word": "他是她成年后的第一个男主角",
+      "onboard_time": 1726803982,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 879032,
       "num": 439121,
       "word": "沙特反超",
@@ -6017,6 +6033,14 @@
       "onboard_time": 1726028905,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 858698,
+      "num": 858698,
+      "word": "黄牛拒收iPhone16Pro",
+      "onboard_time": 1726802960,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 857855,
@@ -6569,6 +6593,14 @@
       "onboard_time": 1725589760,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 809018,
+      "num": 730465,
+      "word": "小英两天掉粉近10万",
+      "onboard_time": 1726801159,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 808824,
@@ -8252,7 +8284,7 @@
     },
     {
       "raw_hot": 669477,
-      "num": 669477,
+      "num": 733811,
       "word": "男子送妹妹上学突发疾病致车祸2死",
       "onboard_time": 1726800619,
       "rank": 31,
@@ -11355,6 +11387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 510328,
+      "num": 510328,
+      "word": "男孩鼻子恶臭两年取出颗生锈螺丝",
+      "onboard_time": 1726803203,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 510164,
       "num": 510164,
       "word": "张峻豪 暂停活动",
@@ -11505,6 +11545,14 @@
       "onboard_time": 1725341361,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 503195,
+      "num": 503195,
+      "word": "哈利波特全八部内地重映",
+      "onboard_time": 1726805060,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 502791,
@@ -11705,6 +11753,14 @@
       "onboard_time": 1726299859,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 496667,
+      "num": 496667,
+      "word": "贾玲官摄图",
+      "onboard_time": 1726803799,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 496269,
@@ -13545,14 +13601,6 @@
       "onboard_time": 1726126099,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 423793,
-      "num": 423793,
-      "word": "小英两天掉粉近10万",
-      "onboard_time": 1726801159,
-      "rank": 27,
-      "category": "网红"
     },
     {
       "raw_hot": 423618,
@@ -15924,7 +15972,7 @@
     },
     {
       "raw_hot": 346716,
-      "num": 346716,
+      "num": 504013,
       "word": "王俊凯 我现在强得可怕",
       "onboard_time": 1726797379,
       "rank": 19,
@@ -16339,6 +16387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 335903,
+      "num": 335903,
+      "word": "两男子反向骗取电诈分子1800元被行拘",
+      "onboard_time": 1726804160,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335306,
       "num": 335306,
       "word": "父女看打铁花表演被烫伤",
@@ -16505,6 +16561,14 @@
       "onboard_time": 1725160759,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 330879,
+      "num": 330879,
+      "word": "秦彻 国风",
+      "onboard_time": 1726804761,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 330335,
@@ -19012,7 +19076,7 @@
     },
     {
       "raw_hot": 280672,
-      "num": 291439,
+      "num": 508564,
       "word": "北方降温幅度可达12摄氏度",
       "onboard_time": 1726800079,
       "rank": 23,
@@ -19817,6 +19881,14 @@
       "onboard_time": 1726613534,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 267225,
+      "num": 267225,
+      "word": "小义租借至TTG",
+      "onboard_time": 1726806322,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 266918,
@@ -22723,14 +22795,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 232727,
-      "num": 232727,
-      "word": "男孩鼻子恶臭两年取出颗生锈螺丝",
-      "onboard_time": 1726803203,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 232562,
       "num": 232562,
       "word": "娜扎恩利合照",
@@ -22801,6 +22865,14 @@
       "onboard_time": 1725372923,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231936,
+      "num": 231936,
+      "word": "祁煜画琳琅",
+      "onboard_time": 1726806322,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 231918,
@@ -22921,6 +22993,14 @@
       "onboard_time": 1725867199,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230933,
+      "num": 230933,
+      "word": "沈星回聆花意",
+      "onboard_time": 1726806322,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 230918,
@@ -24947,6 +25027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 211851,
+      "num": 497288,
+      "word": "苏大强变成女儿奴了",
+      "onboard_time": 1726805361,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211845,
       "num": 149443,
       "word": "南派三叔回应终极笔记2",
@@ -25131,12 +25219,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 210399,
-      "num": 210399,
-      "word": "黄牛拒收iPhone16Pro",
-      "onboard_time": 1726802960,
-      "rank": 39,
-      "category": "数码"
+      "raw_hot": 210283,
+      "num": 210283,
+      "word": "披荆斩棘滚烫学长官宣",
+      "onboard_time": 1726806081,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 210259,
@@ -25241,6 +25329,14 @@
       "onboard_time": 1725349640,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209753,
+      "num": 209753,
+      "word": "合肥震后村民拍下井水翻滚如煮开",
+      "onboard_time": 1726805722,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209744,
@@ -28993,6 +29089,14 @@
       "onboard_time": 1726327281,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 192777,
+      "num": 208618,
+      "word": "周雨彤新剧全款买鞋这段",
+      "onboard_time": 1726806202,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 192756,
@@ -43723,6 +43827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125873,
+      "num": 748459,
+      "word": "商户有权在自家门店贴招聘信息吗",
+      "onboard_time": 1726804940,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125804,
       "num": 125804,
       "word": "何广智 长了一张广播体操脸",
@@ -47635,6 +47747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95969,
+      "num": 757319,
+      "word": "向孩子举起屠刀的人十恶不赦",
+      "onboard_time": 1726805782,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95952,
       "num": 95952,
       "word": "为什么女性比男性更容易失眠",
@@ -48137,6 +48257,14 @@
       "onboard_time": 1725870379,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89453,
+      "num": 510193,
+      "word": "台风后马斯克要求团队尽力帮助上海",
+      "onboard_time": 1726805481,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89376,
@@ -49459,6 +49587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74662,
+      "num": 728048,
+      "word": "这样冲泡腾片喝了等于白喝",
+      "onboard_time": 1726805003,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74633,
       "num": 74633,
       "word": "安徽肥东4.7级地震",
@@ -49745,6 +49881,14 @@
       "onboard_time": 1725665174,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71387,
+      "num": 506907,
+      "word": "华为三折叠开售",
+      "onboard_time": 1726803259,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 70834,
@@ -50272,6 +50416,14 @@
       "word": "多数外卖骑手不愿意交社保",
       "onboard_time": 1725692899,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65714,
+      "num": 507687,
+      "word": "美高官称中国对美威胁已经超越冷战",
+      "onboard_time": 1726805122,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -51417,6 +51569,14 @@
       "onboard_time": 1725434060,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54671,
+      "num": 497846,
+      "word": "毛戈平说华为三折叠瑞红很高级",
+      "onboard_time": 1726805421,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 54657,
@@ -53931,6 +54091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38619,
+      "num": 499326,
+      "word": "iPhone开售首日冠军送来新机",
+      "onboard_time": 1726805060,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 38522,
       "num": 1439167,
       "word": "文化中国行看中秋之美",
@@ -54147,6 +54315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37335,
+      "num": 738498,
+      "word": "肖战柔软与坚韧并存",
+      "onboard_time": 1726803021,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 37199,
       "num": 225426,
       "word": "警方辟谣冷藏车里发现15名被拐儿童",
@@ -54313,14 +54489,6 @@
       "onboard_time": 1725249500,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36696,
-      "num": 205487,
-      "word": "华为三折叠开售",
-      "onboard_time": 1726803259,
-      "rank": 40,
-      "category": "数码"
     },
     {
       "raw_hot": 36686,
@@ -54633,14 +54801,6 @@
       "onboard_time": 1726668203,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35045,
-      "num": 232831,
-      "word": "肖战柔软与坚韧并存",
-      "onboard_time": 1726803021,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 35042,
@@ -55563,6 +55723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 30648,
+      "num": 270545,
+      "word": "全家都夸的智能马桶长啥样",
+      "onboard_time": 1726804281,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 30600,
       "num": 551961,
       "word": "当地回应男子持刀与执法人员对峙",
@@ -55585,6 +55753,14 @@
       "onboard_time": 1725516319,
       "rank": 27,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 30501,
+      "num": 943544,
+      "word": "新技术催生文化新潮流",
+      "onboard_time": 1726804940,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30484,
@@ -57059,6 +57235,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 23034,
+      "num": 505813,
+      "word": "李现与知识分子风的适配度",
+      "onboard_time": 1726805242,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 23027,
       "num": 27483,
       "word": "邓为启程巴黎时装周",
@@ -57545,6 +57729,14 @@
       "onboard_time": 1725210255,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19772,
+      "num": 496735,
+      "word": "尼格买提的新工作",
+      "onboard_time": 1726803982,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 19667,
