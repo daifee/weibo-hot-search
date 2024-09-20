@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726871990365,
+  "endTime": 1726874457858,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -1491,6 +1491,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1100122,
+      "num": 69901,
+      "word": "8岁女童私密处流脓3年取出贴画",
+      "onboard_time": 1726873755,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1097764,
       "num": 1097764,
       "word": "教资科二",
@@ -2593,6 +2601,14 @@
       "onboard_time": 1726388899,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 696105,
+      "num": 696105,
+      "word": "网红娟子不是无知是无敬畏无底线",
+      "onboard_time": 1726857313,
+      "rank": 15,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 695648,
@@ -4707,6 +4723,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 394399,
+      "num": 394399,
+      "word": "摄影大师央美演讲因多人看手机离席",
+      "onboard_time": 1726847719,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393239,
       "num": 1253273,
       "word": "侯明昊以前是SM练习生",
@@ -4825,14 +4849,6 @@
       "onboard_time": 1726493720,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 376898,
-      "num": 376898,
-      "word": "网红娟子不是无知是无敬畏无底线",
-      "onboard_time": 1726857313,
-      "rank": 15,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 376596,
@@ -5545,14 +5561,6 @@
       "onboard_time": 1726759162,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 327376,
-      "num": 327376,
-      "word": "摄影大师央美演讲因多人看手机离席",
-      "onboard_time": 1726847719,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 326381,
@@ -6425,6 +6433,14 @@
       "onboard_time": 1726560080,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 281956,
+      "num": 281956,
+      "word": "吴彦祖后悔没申请名字版权",
+      "onboard_time": 1726873514,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 281949,
@@ -7331,6 +7347,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 245224,
+      "num": 205626,
+      "word": "陆虎教科书式拒绝起哄求婚",
+      "onboard_time": 1726869911,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245200,
       "num": 611054,
       "word": "深圳学生被刺事件嫌疑人身份曝光",
@@ -7729,6 +7753,14 @@
       "onboard_time": 1726625302,
       "rank": 20,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 232701,
+      "num": 232701,
+      "word": "2岁女童遭邻居持刀伤害后去世",
+      "onboard_time": 1726851377,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232516,
@@ -8217,14 +8249,6 @@
       "onboard_time": 1726498581,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 216296,
-      "num": 216296,
-      "word": "2岁女童遭邻居持刀伤害后去世",
-      "onboard_time": 1726851377,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216208,
@@ -9001,6 +9025,14 @@
       "onboard_time": 1726398201,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 202000,
+      "num": 202000,
+      "word": "王源发文为王俊凯庆生",
+      "onboard_time": 1726874054,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 201855,
@@ -11027,6 +11059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 170252,
+      "num": 118196,
+      "word": "过度疲劳的人身体会散发臭味",
+      "onboard_time": 1726874054,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 170159,
       "num": 170159,
       "word": "心动的信号7中秋特别加更",
@@ -11433,6 +11473,14 @@
       "onboard_time": 1726471279,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163224,
+      "num": 163224,
+      "word": "视频显示以军从楼顶扔巴勒斯坦人尸体",
+      "onboard_time": 1726859351,
+      "rank": 47,
+      "category": "国外时政"
     },
     {
       "raw_hot": 163170,
@@ -12433,6 +12481,14 @@
       "onboard_time": 1726414159,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149730,
+      "num": 117333,
+      "word": "月经推迟或是这5种原因",
+      "onboard_time": 1726870932,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 149679,
@@ -15203,6 +15259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91483,
+      "num": 91483,
+      "word": "黎巴嫩眼科医生发声",
+      "onboard_time": 1726863732,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 90741,
       "num": 199324,
       "word": "沈渡 行也思幸坐也思幸",
@@ -15224,6 +15288,14 @@
       "word": "大闸蟹养殖户谈台风直穿阳澄湖",
       "onboard_time": 1726499840,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89403,
+      "num": 89403,
+      "word": "网红小英塌房风波背后",
+      "onboard_time": 1726873455,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -15299,28 +15371,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 86008,
-      "num": 86008,
-      "word": "黎巴嫩眼科医生发声",
-      "onboard_time": 1726863732,
-      "rank": 49,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 85753,
       "num": 1418056,
       "word": "中秋假期数据盘点",
       "onboard_time": 1726675639,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85530,
-      "num": 85530,
-      "word": "陆虎教科书式拒绝起哄求婚",
-      "onboard_time": 1726869911,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 84730,
@@ -15473,14 +15529,6 @@
       "onboard_time": 1726615217,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 80221,
-      "num": 80221,
-      "word": "视频显示以军从楼顶扔巴勒斯坦人尸体",
-      "onboard_time": 1726859351,
-      "rank": 47,
-      "category": "国外时政"
     },
     {
       "raw_hot": 78484,
@@ -15835,6 +15883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69020,
+      "num": 69020,
+      "word": "东北人近期精神状态",
+      "onboard_time": 1726868231,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 68993,
       "num": 332451,
       "word": "石宇奇无缘8强",
@@ -15881,6 +15937,22 @@
       "onboard_time": 1726819580,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67676,
+      "num": 67676,
+      "word": "李纯马頔一起走机场",
+      "onboard_time": 1726873215,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 67585,
+      "num": 67585,
+      "word": "半个娱乐圈的人来厦门了",
+      "onboard_time": 1726874355,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 67164,
@@ -16371,14 +16443,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 51987,
-      "num": 51987,
-      "word": "东北人近期精神状态",
-      "onboard_time": 1726868231,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 51984,
       "num": 597861,
       "word": "让我看看谁还不知道金标大众",
@@ -16593,6 +16657,14 @@
       "onboard_time": 1726405523,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48068,
+      "num": 48068,
+      "word": "当爸爸妈妈开始养我的狗",
+      "onboard_time": 1726860193,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 48063,
@@ -16843,6 +16915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43614,
+      "num": 48036,
+      "word": "美官员曝以色列是黎巴嫩爆炸幕后主使",
+      "onboard_time": 1726868413,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 43582,
       "num": 209028,
       "word": "舍不得星星 纯爱设定",
@@ -16881,14 +16961,6 @@
       "onboard_time": 1726801340,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42305,
-      "num": 42305,
-      "word": "月经推迟或是这5种原因",
-      "onboard_time": 1726870932,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 41998,
@@ -17539,14 +17611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32747,
-      "num": 33977,
-      "word": "当爸爸妈妈开始养我的狗",
-      "onboard_time": 1726860193,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 32735,
       "num": 481899,
       "word": "适老化药品说明书仍超3000字",
@@ -18112,6 +18176,14 @@
       "word": "家电30年没涨过价",
       "onboard_time": 1726724548,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24707,
+      "num": 51848,
+      "word": "外卖小哥收到民警订单好评",
+      "onboard_time": 1726872193,
+      "rank": 41,
       "category": "社会新闻"
     },
     {

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/21 06:39:50
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/21 07:20:57
 </p>
 </blockquote>
 <p>
@@ -3261,6 +3261,12 @@ NewJeans被HYBE其他艺人团队排挤（热度：1130540）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%238%E5%B2%81%E5%A5%B3%E7%AB%A5%E7%A7%81%E5%AF%86%E5%A4%84%E6%B5%81%E8%84%933%E5%B9%B4%E5%8F%96%E5%87%BA%E8%B4%B4%E7%94%BB%23" target="weibo">
+8岁女童私密处流脓3年取出贴画（热度：1100122）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%E7%A7%91%E4%BA%8C%23" target="weibo">
 教资科二（热度：1097764）
 </a>
@@ -6005,12 +6011,6 @@ iPhone16Pro（热度：708709）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E5%86%B0%E9%B2%9C%E5%B8%A6%E9%B1%BC%E6%8D%95%E6%8D%9E%E6%97%A5%E6%9C%9F%E6%92%9E%E4%B8%8A%E6%91%A9%E7%BE%AF%E8%BF%87%E5%A2%83%E6%97%A5%23" target="weibo">
 山姆冰鲜带鱼捕捞日期撞上摩羯过境日（热度：707813）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%A3%E6%89%93%E5%93%A5%20%E8%BE%9B%E5%B7%B4%E8%AF%B4%E7%9A%84%E6%98%AF%E7%9C%9F%E7%9A%84%23" target="weibo">
-散打哥 辛巴说的是真的（热度：707474）
 </a>
 </li>
 
