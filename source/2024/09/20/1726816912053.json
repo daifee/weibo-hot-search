@@ -1,0 +1,410 @@
+{
+  "runTime": 1726816912053,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1610240,
+        "num": 1610240,
+        "word": "黄晓明官宣最大的受害者出现了",
+        "onboard_time": 1726804702,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 961725,
+        "num": 961725,
+        "word": "强拆果园副县长被曝15岁参加工作",
+        "onboard_time": 1726811120,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5759,
+        "num": 830703,
+        "word": "新技术催生文化新潮流",
+        "onboard_time": 1726804940,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 829769,
+        "num": 829769,
+        "word": "网传高校教官和女生发生不雅行为",
+        "onboard_time": 1726815201,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 722270,
+        "num": 722270,
+        "word": "培训班老师发朋友圈家长觉得被阴阳",
+        "onboard_time": 1726812080,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526977,
+        "num": 526977,
+        "word": "男子养2条活体mini鳄鱼当茶宠",
+        "onboard_time": 1726815260,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523893,
+        "num": 524522,
+        "word": "向孩子举起屠刀的人十恶不赦",
+        "onboard_time": 1726805782,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524470,
+        "num": 524470,
+        "word": "男子自学后在葡萄园研制冰毒",
+        "onboard_time": 1726812201,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78347,
+        "num": 462949,
+        "word": "阿如那石凯井胧铁三角解散",
+        "onboard_time": 1726816580,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271848,
+        "num": 460102,
+        "word": "逐步恢复符合规准的日本水产品进口",
+        "onboard_time": 1726815382,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148354,
+        "num": 459295,
+        "word": "我国成功发射一箭六星",
+        "onboard_time": 1726810743,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 458864,
+        "num": 458864,
+        "word": "黄晓明自曝不喜欢比自己强的女生",
+        "onboard_time": 1726807343,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 910346,
+        "num": 441480,
+        "word": "陆虎嘘嘘五年内不考虑生小孩",
+        "onboard_time": 1726812080,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 477266,
+        "num": 436503,
+        "word": "莎头捍卫国乒荣耀",
+        "onboard_time": 1726812201,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28194,
+        "num": 420545,
+        "word": "如何破解美元潮汐",
+        "onboard_time": 1726815800,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417680,
+        "num": 417680,
+        "word": "朱志鑫和易烊千玺立牌合照",
+        "onboard_time": 1726812141,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391487,
+        "num": 391487,
+        "word": "马雪阳谭咏雯官宣结婚",
+        "onboard_time": 1726812020,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 703589,
+        "num": 391302,
+        "word": "中日将就核污染水排海发表共识",
+        "onboard_time": 1726815620,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 361818,
+        "num": 361818,
+        "word": "精神医院排满了失眠中老年女性",
+        "onboard_time": 1726806622,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287186,
+        "num": 287186,
+        "word": "何超盈瘦脱相",
+        "onboard_time": 1726798580,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46950,
+        "num": 273456,
+        "word": "直击华为三折叠首销现场",
+        "onboard_time": 1726814061,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 746298,
+        "num": 271818,
+        "word": "大爷电梯大便被曝光后自杀",
+        "onboard_time": 1726813520,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267906,
+        "num": 267906,
+        "word": "唐山打人案被判刑民警申诉听证会",
+        "onboard_time": 1726813880,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255826,
+        "num": 255826,
+        "word": "100秒了解网红小英被曝塌房事件",
+        "onboard_time": 1726807522,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31081,
+        "num": 253737,
+        "word": "京东发起穿搭大赛",
+        "onboard_time": 1726813041,
+        "rank": 24,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 253115,
+        "num": 253115,
+        "word": "男生猥亵女生被发现后悔求饶",
+        "onboard_time": 1726792821,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236593,
+        "num": 236593,
+        "word": "深圳学生被刺事件嫌疑人身份曝光",
+        "onboard_time": 1726813221,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88320,
+        "num": 234908,
+        "word": "惠英红认证后宫最庞大",
+        "onboard_time": 1726815800,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234536,
+        "num": 234536,
+        "word": "王子奇出道七年可着三个人薅",
+        "onboard_time": 1726810281,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206501,
+        "num": 220539,
+        "word": "鑫仔鞍山小S",
+        "onboard_time": 1726813460,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208856,
+        "num": 208856,
+        "word": "腾讯提醒勿为实况图重装微信",
+        "onboard_time": 1726813160,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 188979,
+        "num": 188979,
+        "word": "胡歌偷心一响 宝总登场",
+        "onboard_time": 1726816459,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187758,
+        "num": 187758,
+        "word": "JDG无畏租借至狼队",
+        "onboard_time": 1726812800,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187526,
+        "num": 187526,
+        "word": "网红小英丈夫曾称是扮演坏人",
+        "onboard_time": 1726813581,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 181214,
+        "num": 181214,
+        "word": "男孩鼻子恶臭两年取出颗生锈螺丝",
+        "onboard_time": 1726803203,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179498,
+        "num": 179498,
+        "word": "官方回应强拆果园的副县长15岁工作",
+        "onboard_time": 1726813400,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179338,
+        "num": 179338,
+        "word": "中日就福岛核污染水排海达成4点共识",
+        "onboard_time": 1726816818,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 172954,
+        "num": 172954,
+        "word": "郑晓龙透露肖战藏海传新进展",
+        "onboard_time": 1726810582,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163911,
+        "num": 172441,
+        "word": "北方降温幅度可达12摄氏度",
+        "onboard_time": 1726800079,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172299,
+        "num": 172299,
+        "word": "朋友圈实况图出现bug",
+        "onboard_time": 1726808961,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 158056,
+        "num": 158056,
+        "word": "这个喷不了全是真老戏骨",
+        "onboard_time": 1726814000,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157027,
+        "num": 157027,
+        "word": "哈利波特全八部内地重映",
+        "onboard_time": 1726805060,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155375,
+        "num": 155375,
+        "word": "上海暴雨",
+        "onboard_time": 1726792221,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153379,
+        "num": 153379,
+        "word": "未定事件簿主线剧场版",
+        "onboard_time": 1726816219,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155368,
+        "num": 151735,
+        "word": "蔡康永 小S的长语音一条都不听",
+        "onboard_time": 1726810760,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146773,
+        "num": 146773,
+        "word": "恋与深空",
+        "onboard_time": 1726802000,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139169,
+        "num": 139169,
+        "word": "杨紫美式辣妹",
+        "onboard_time": 1726801100,
+        "rank": 46,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 138671,
+        "num": 138671,
+        "word": "医生谈穿lululemon做核磁或被灼伤",
+        "onboard_time": 1726816818,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134770,
+        "num": 134770,
+        "word": "招行已开除涉58页PPT举报事件员工",
+        "onboard_time": 1726795221,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133595,
+        "num": 133595,
+        "word": "老舅的月亮来了",
+        "onboard_time": 1726814841,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队淬火向前#"
+    }
+  }
+}

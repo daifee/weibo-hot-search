@@ -1,6 +1,6 @@
 {
   "startTime": 1726763246339,
-  "endTime": 1726814631117,
+  "endTime": 1726816912053,
   "band_list": [
     {
       "raw_hot": 2835519,
@@ -187,12 +187,28 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 829769,
+      "num": 829769,
+      "word": "网传高校教官和女生发生不雅行为",
+      "onboard_time": 1726815201,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 809018,
       "num": 730465,
       "word": "小英两天掉粉近10万",
       "onboard_time": 1726801159,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 722270,
+      "num": 722270,
+      "word": "培训班老师发朋友圈家长觉得被阴阳",
+      "onboard_time": 1726812080,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 710846,
@@ -211,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 703589,
+      "num": 391302,
+      "word": "中日将就核污染水排海发表共识",
+      "onboard_time": 1726815620,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 699186,
       "num": 673666,
       "word": "哈利波特全八部内地重映",
@@ -224,14 +248,6 @@
       "word": "男子送妹妹上学突发疾病致车祸2死",
       "onboard_time": 1726800619,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 653045,
-      "num": 653045,
-      "word": "培训班老师发朋友圈家长觉得被阴阳",
-      "onboard_time": 1726812080,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -307,6 +323,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 526977,
+      "num": 526977,
+      "word": "男子养2条活体mini鳄鱼当茶宠",
+      "onboard_time": 1726815260,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 524470,
+      "num": 524470,
+      "word": "男子自学后在葡萄园研制冰毒",
+      "onboard_time": 1726812201,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 519245,
       "num": 519245,
       "word": "男孩鼻子恶臭两年取出颗生锈螺丝",
@@ -339,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 477266,
+      "num": 436503,
+      "word": "莎头捍卫国乒荣耀",
+      "onboard_time": 1726812201,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 477152,
       "num": 477152,
       "word": "宋茜王鹤棣番位",
@@ -369,14 +409,6 @@
       "onboard_time": 1726807522,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 431052,
-      "num": 431052,
-      "word": "莎头捍卫国乒荣耀",
-      "onboard_time": 1726812201,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 404642,
@@ -523,14 +555,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 320462,
-      "num": 495313,
-      "word": "男子自学后在葡萄园研制冰毒",
-      "onboard_time": 1726812201,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 320045,
       "num": 320045,
       "word": "田曦薇演普女 说服力",
@@ -673,6 +697,14 @@
       "onboard_time": 1726806022,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 271848,
+      "num": 460102,
+      "word": "逐步恢复符合规准的日本水产品进口",
+      "onboard_time": 1726815382,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270082,
@@ -923,12 +955,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208856,
+      "num": 208856,
+      "word": "腾讯提醒勿为实况图重装微信",
+      "onboard_time": 1726813160,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 208063,
       "num": 208063,
       "word": "AI画出了中国风的硕果累累",
       "onboard_time": 1726800199,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206501,
+      "num": 220539,
+      "word": "鑫仔鞍山小S",
+      "onboard_time": 1726813460,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 205074,
@@ -948,7 +996,7 @@
     },
     {
       "raw_hot": 203872,
-      "num": 203872,
+      "num": 459295,
       "word": "我国成功发射一箭六星",
       "onboard_time": 1726810743,
       "rank": 40,
@@ -1043,6 +1091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 188979,
+      "num": 188979,
+      "word": "胡歌偷心一响 宝总登场",
+      "onboard_time": 1726816459,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188577,
       "num": 680048,
       "word": "iPhone16和华为三折人气谁更旺",
@@ -1057,14 +1113,6 @@
       "onboard_time": 1726813821,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 185715,
-      "num": 185715,
-      "word": "腾讯提醒勿为实况图重装微信",
-      "onboard_time": 1726813160,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 184704,
@@ -1105,6 +1153,14 @@
       "onboard_time": 1726803441,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179338,
+      "num": 179338,
+      "word": "中日就福岛核污染水排海达成4点共识",
+      "onboard_time": 1726816818,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 176959,
@@ -1267,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153379,
+      "num": 153379,
+      "word": "未定事件簿主线剧场版",
+      "onboard_time": 1726816219,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 151729,
       "num": 151729,
       "word": "贾玲李现同框看秀",
@@ -1323,6 +1387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138671,
+      "num": 138671,
+      "word": "医生谈穿lululemon做核磁或被灼伤",
+      "onboard_time": 1726816818,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138265,
       "num": 138265,
       "word": "房管局回应三只羊上海公司现状",
@@ -1337,6 +1409,14 @@
       "onboard_time": 1726796841,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133595,
+      "num": 133595,
+      "word": "老舅的月亮来了",
+      "onboard_time": 1726814841,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 133541,
@@ -1579,6 +1659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 88320,
+      "num": 234908,
+      "word": "惠英红认证后宫最庞大",
+      "onboard_time": 1726815800,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86405,
       "num": 86405,
       "word": "00后小伙打破外国金牌垄断",
@@ -1633,6 +1721,14 @@
       "onboard_time": 1726770792,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 78347,
+      "num": 462949,
+      "word": "阿如那石凯井胧铁三角解散",
+      "onboard_time": 1726816580,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 77247,
@@ -1835,6 +1931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46950,
+      "num": 273456,
+      "word": "直击华为三折叠首销现场",
+      "onboard_time": 1726814061,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 46120,
       "num": 313810,
       "word": "京东发起穿搭大赛",
@@ -2035,6 +2139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28194,
+      "num": 420545,
+      "word": "如何破解美元潮汐",
+      "onboard_time": 1726815800,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26664,
       "num": 32591,
       "word": "SM开辟周边新赛道",
@@ -2105,14 +2217,6 @@
       "onboard_time": 1726777271,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14064,
-      "num": 263618,
-      "word": "直击华为三折叠首销现场",
-      "onboard_time": 1726814061,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 11592,

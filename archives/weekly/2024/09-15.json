@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726814631117,
+  "endTime": 1726816912053,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -1923,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 829769,
+      "num": 829769,
+      "word": "网传高校教官和女生发生不雅行为",
+      "onboard_time": 1726815201,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 824124,
       "num": 824124,
       "word": "教资科一",
@@ -2211,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 722270,
+      "num": 722270,
+      "word": "培训班老师发朋友圈家长觉得被阴阳",
+      "onboard_time": 1726812080,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 721148,
       "num": 426947,
       "word": "女子称地铁上遭男子猥亵对方裤子湿了",
@@ -2289,6 +2305,14 @@
       "onboard_time": 1726462099,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 703589,
+      "num": 391302,
+      "word": "中日将就核污染水排海发表共识",
+      "onboard_time": 1726815620,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 703560,
@@ -2465,14 +2489,6 @@
       "onboard_time": 1726745242,
       "rank": 32,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 653045,
-      "num": 653045,
-      "word": "培训班老师发朋友圈家长觉得被阴阳",
-      "onboard_time": 1726812080,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 650648,
@@ -3235,6 +3251,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 526977,
+      "num": 526977,
+      "word": "男子养2条活体mini鳄鱼当茶宠",
+      "onboard_time": 1726815260,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 524470,
+      "num": 524470,
+      "word": "男子自学后在葡萄园研制冰毒",
+      "onboard_time": 1726812201,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 524363,
       "num": 524363,
       "word": "万茜长发",
@@ -3619,6 +3651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 477266,
+      "num": 436503,
+      "word": "莎头捍卫国乒荣耀",
+      "onboard_time": 1726812201,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 477152,
       "num": 477152,
       "word": "宋茜王鹤棣番位",
@@ -3897,14 +3937,6 @@
       "onboard_time": 1726441634,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 431052,
-      "num": 431052,
-      "word": "莎头捍卫国乒荣耀",
-      "onboard_time": 1726812201,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 430107,
@@ -5091,14 +5123,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 320462,
-      "num": 495313,
-      "word": "男子自学后在葡萄园研制冰毒",
-      "onboard_time": 1726812201,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 320150,
       "num": 320150,
       "word": "硕博父子花14年养出报恩大闸蟹",
@@ -5945,6 +5969,14 @@
       "onboard_time": 1726527734,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271848,
+      "num": 460102,
+      "word": "逐步恢复符合规准的日本水产品进口",
+      "onboard_time": 1726815382,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271835,
@@ -7763,6 +7795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208856,
+      "num": 208856,
+      "word": "腾讯提醒勿为实况图重装微信",
+      "onboard_time": 1726813160,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 208675,
       "num": 208675,
       "word": "你的善良里藏着你的福气",
@@ -7889,6 +7929,14 @@
       "onboard_time": 1726378519,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206501,
+      "num": 220539,
+      "word": "鑫仔鞍山小S",
+      "onboard_time": 1726813460,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 206291,
@@ -8052,7 +8100,7 @@
     },
     {
       "raw_hot": 203872,
-      "num": 203872,
+      "num": 459295,
       "word": "我国成功发射一箭六星",
       "onboard_time": 1726810743,
       "rank": 40,
@@ -9019,6 +9067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188979,
+      "num": 188979,
+      "word": "胡歌偷心一响 宝总登场",
+      "onboard_time": 1726816459,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188624,
       "num": 188624,
       "word": "无畏继续在赛场上发光发热",
@@ -9169,14 +9225,6 @@
       "onboard_time": 1726586123,
       "rank": 47,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 185715,
-      "num": 185715,
-      "word": "腾讯提醒勿为实况图重装微信",
-      "onboard_time": 1726813160,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 185369,
@@ -9473,6 +9521,14 @@
       "onboard_time": 1726581024,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179338,
+      "num": 179338,
+      "word": "中日就福岛核污染水排海达成4点共识",
+      "onboard_time": 1726816818,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 179299,
@@ -11139,6 +11195,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 153379,
+      "num": 153379,
+      "word": "未定事件簿主线剧场版",
+      "onboard_time": 1726816219,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153232,
       "num": 153232,
       "word": "胡彦斌又唱月光了",
@@ -11995,6 +12059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138671,
+      "num": 138671,
+      "word": "医生谈穿lululemon做核磁或被灼伤",
+      "onboard_time": 1726816818,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138639,
       "num": 138639,
       "word": "国足排名世界第91",
@@ -12305,6 +12377,14 @@
       "onboard_time": 1726564399,
       "rank": 42,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 133595,
+      "num": 133595,
+      "word": "老舅的月亮来了",
+      "onboard_time": 1726814841,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 133541,
@@ -13939,6 +14019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88320,
+      "num": 234908,
+      "word": "惠英红认证后宫最庞大",
+      "onboard_time": 1726815800,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87708,
       "num": 436594,
       "word": "中秋奇妙游",
@@ -14177,6 +14265,14 @@
       "onboard_time": 1726350552,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78347,
+      "num": 462949,
+      "word": "阿如那石凯井胧铁三角解散",
+      "onboard_time": 1726816580,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 78168,
@@ -15169,6 +15265,14 @@
       "onboard_time": 1726422253,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46950,
+      "num": 273456,
+      "word": "直击华为三折叠首销现场",
+      "onboard_time": 1726814061,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 46856,
@@ -16203,6 +16307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28194,
+      "num": 420545,
+      "word": "如何破解美元潮汐",
+      "onboard_time": 1726815800,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28171,
       "num": 27749,
       "word": "王俊凯野孩子路演",
@@ -16689,14 +16801,6 @@
       "onboard_time": 1726516032,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14064,
-      "num": 263618,
-      "word": "直击华为三折叠首销现场",
-      "onboard_time": 1726814061,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 13835,
