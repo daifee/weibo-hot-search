@@ -1,0 +1,410 @@
+{
+  "runTime": 1726807230547,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2835519,
+        "num": 2835519,
+        "word": "黄晓明官宣最大的受害者出现了",
+        "onboard_time": 1726804702,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1614330,
+        "num": 1614330,
+        "word": "3天穿同一件衣服出镜官员回应道歉",
+        "onboard_time": 1726800079,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29211,
+        "num": 1127419,
+        "word": "新技术催生文化新潮流",
+        "onboard_time": 1726804940,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 915326,
+        "num": 915326,
+        "word": "黄牛拒收iPhone16Pro",
+        "onboard_time": 1726802960,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 682158,
+        "num": 682158,
+        "word": "恋与深空",
+        "onboard_time": 1726802000,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1045876,
+        "num": 681694,
+        "word": "原来黄晓明是给叶珂买猫",
+        "onboard_time": 1726794502,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212934,
+        "num": 680089,
+        "word": "向孩子举起屠刀的人十恶不赦",
+        "onboard_time": 1726805782,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127583,
+        "num": 679174,
+        "word": "台风后马斯克要求团队尽力帮助上海",
+        "onboard_time": 1726805481,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248725,
+        "num": 678880,
+        "word": "北方降温幅度可达12摄氏度",
+        "onboard_time": 1726800079,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 967982,
+        "num": 677538,
+        "word": "他是她成年后的第一个男主角",
+        "onboard_time": 1726803982,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 734951,
+        "num": 676388,
+        "word": "何超盈瘦脱相",
+        "onboard_time": 1726798580,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45331,
+        "num": 674691,
+        "word": "肖战柔软与坚韧并存",
+        "onboard_time": 1726803021,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 699186,
+        "num": 673666,
+        "word": "哈利波特全八部内地重映",
+        "onboard_time": 1726805060,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 673546,
+        "num": 673546,
+        "word": "小英两天掉粉近10万",
+        "onboard_time": 1726801159,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 66009,
+        "num": 646157,
+        "word": "对话防台风3天不换衣干部",
+        "onboard_time": 1726806982,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137682,
+        "num": 638957,
+        "word": "披荆斩棘滚烫学长官宣",
+        "onboard_time": 1726806081,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 638746,
+        "num": 638746,
+        "word": "贾玲官摄图",
+        "onboard_time": 1726803799,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27689,
+        "num": 608619,
+        "word": "iPhone开售首日冠军送来新机",
+        "onboard_time": 1726805060,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 593758,
+        "num": 593758,
+        "word": "大连思科被曝裁员赔偿N+7",
+        "onboard_time": 1726800258,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537190,
+        "num": 537190,
+        "word": "男子送妹妹上学突发疾病致车祸2死",
+        "onboard_time": 1726800619,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84730,
+        "num": 530767,
+        "word": "华为三折叠开售",
+        "onboard_time": 1726803259,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 774671,
+        "num": 529096,
+        "word": "招行已开除涉58页PPT举报事件员工",
+        "onboard_time": 1726795221,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33241,
+        "num": 521998,
+        "word": "李现与知识分子风的适配度",
+        "onboard_time": 1726805242,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155255,
+        "num": 515307,
+        "word": "苏大强变成女儿奴了",
+        "onboard_time": 1726805361,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 616386,
+        "num": 507799,
+        "word": "杨紫美式辣妹",
+        "onboard_time": 1726801100,
+        "rank": 24,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 501775,
+        "num": 501775,
+        "word": "男孩鼻子恶臭两年取出颗生锈螺丝",
+        "onboard_time": 1726803203,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44920,
+        "num": 468236,
+        "word": "毛戈平说华为三折叠瑞红很高级",
+        "onboard_time": 1726805421,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 460891,
+        "num": 460891,
+        "word": "西班牙网红夫妇吐槽中国厕所",
+        "onboard_time": 1726792821,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382403,
+        "num": 382403,
+        "word": "男生猥亵女生被发现后悔求饶",
+        "onboard_time": 1726792821,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132140,
+        "num": 375029,
+        "word": "朱星杰 我们30而已",
+        "onboard_time": 1726804101,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23588,
+        "num": 372293,
+        "word": "尼格买提的新工作",
+        "onboard_time": 1726803982,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 371384,
+        "num": 371384,
+        "word": "上海暴雨",
+        "onboard_time": 1726792221,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324714,
+        "num": 324714,
+        "word": "两男子反向骗取电诈分子1800元被行拘",
+        "onboard_time": 1726804160,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284614,
+        "num": 284614,
+        "word": "秦彻 国风",
+        "onboard_time": 1726804761,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 279862,
+        "num": 279862,
+        "word": "大连思科近300员工一夜失业",
+        "onboard_time": 1726801700,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277197,
+        "num": 277197,
+        "word": "沈星回聆花意",
+        "onboard_time": 1726806322,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 28608,
+        "num": 275296,
+        "word": "全家都夸的智能马桶长啥样",
+        "onboard_time": 1726804281,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 275168,
+        "num": 275168,
+        "word": "黎巴嫩",
+        "onboard_time": 1726806022,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 270969,
+        "num": 270969,
+        "word": "王俊凯 我现在强得可怕",
+        "onboard_time": 1726797379,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 263885,
+        "num": 263885,
+        "word": "19名硕士博士助力泡菜卖了220亿",
+        "onboard_time": 1726799059,
+        "rank": 39,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 263237,
+        "num": 263237,
+        "word": "魔道祖师",
+        "onboard_time": 1726802180,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 28323,
+        "num": 256668,
+        "word": "余承东谈华为三折叠五大心动理由",
+        "onboard_time": 1726806923,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 252982,
+        "num": 252982,
+        "word": "精神医院排满了失眠中老年女性",
+        "onboard_time": 1726806622,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246021,
+        "num": 246021,
+        "word": "微信实况",
+        "onboard_time": 1726753402,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 242408,
+        "num": 242408,
+        "word": "时代少年团 景德镇",
+        "onboard_time": 1726806442,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 228635,
+        "num": 228635,
+        "word": "祁煜画琳琅",
+        "onboard_time": 1726806322,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 228334,
+        "num": 228334,
+        "word": "合肥震后村民拍下井水翻滚如煮开",
+        "onboard_time": 1726805722,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223399,
+        "num": 223399,
+        "word": "小义租借至TTG",
+        "onboard_time": 1726806322,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 220020,
+        "num": 220020,
+        "word": "商户有权在自家门店贴招聘信息吗",
+        "onboard_time": 1726804940,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212798,
+        "num": 212798,
+        "word": "周雨彤新剧全款买鞋这段",
+        "onboard_time": 1726806202,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族共同体意识是民族团结之本#"
+    }
+  }
+}

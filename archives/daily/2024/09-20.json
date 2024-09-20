@@ -1,7 +1,15 @@
 {
   "startTime": 1726763246339,
-  "endTime": 1726806353052,
+  "endTime": 1726807230547,
   "band_list": [
+    {
+      "raw_hot": 2835519,
+      "num": 2835519,
+      "word": "黄晓明官宣最大的受害者出现了",
+      "onboard_time": 1726804702,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2356230,
       "num": 2356230,
@@ -17,14 +25,6 @@
       "onboard_time": 1726753402,
       "rank": 0,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 2086763,
-      "num": 2086763,
-      "word": "黄晓明官宣最大的受害者出现了",
-      "onboard_time": 1726804702,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1870956,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1620323,
-      "num": 505191,
+      "num": 529096,
       "word": "招行已开除涉58页PPT举报事件员工",
       "onboard_time": 1726795221,
       "rank": 20,
@@ -99,15 +99,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 886680,
-      "num": 886680,
-      "word": "上海暴雨",
-      "onboard_time": 1726792221,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 879911,
+      "raw_hot": 967982,
       "num": 754673,
       "word": "他是她成年后的第一个男主角",
       "onboard_time": 1726803982,
@@ -115,12 +107,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 858698,
-      "num": 858698,
+      "raw_hot": 915326,
+      "num": 915326,
       "word": "黄牛拒收iPhone16Pro",
       "onboard_time": 1726802960,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 886680,
+      "num": 886680,
+      "word": "上海暴雨",
+      "onboard_time": 1726792221,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 849832,
@@ -163,12 +163,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 699186,
+      "num": 673666,
+      "word": "哈利波特全八部内地重映",
+      "onboard_time": 1726805060,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 669477,
       "num": 733811,
       "word": "男子送妹妹上学突发疾病致车祸2死",
       "onboard_time": 1726800619,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 638746,
+      "num": 638746,
+      "word": "贾玲官摄图",
+      "onboard_time": 1726803799,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 601276,
@@ -241,22 +257,6 @@
       "onboard_time": 1726793181,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 503195,
-      "num": 503195,
-      "word": "哈利波特全八部内地重映",
-      "onboard_time": 1726805060,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 496667,
-      "num": 496667,
-      "word": "贾玲官摄图",
-      "onboard_time": 1726803799,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 477152,
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 280672,
-      "num": 508564,
+      "num": 678880,
       "word": "北方降温幅度可达12摄氏度",
       "onboard_time": 1726800079,
       "rank": 23,
@@ -513,6 +513,22 @@
       "onboard_time": 1726745242,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 277197,
+      "num": 277197,
+      "word": "沈星回聆花意",
+      "onboard_time": 1726806322,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 275168,
+      "num": 275168,
+      "word": "黎巴嫩",
+      "onboard_time": 1726806022,
+      "rank": 44,
+      "category": "国外时政"
     },
     {
       "raw_hot": 267225,
@@ -531,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252982,
+      "num": 252982,
+      "word": "精神医院排满了失眠中老年女性",
+      "onboard_time": 1726806622,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251112,
       "num": 234621,
       "word": "这可能是瘦肚子最高效的运动",
@@ -545,6 +569,14 @@
       "onboard_time": 1726786875,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242408,
+      "num": 242408,
+      "word": "时代少年团 景德镇",
+      "onboard_time": 1726806442,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 241582,
@@ -587,19 +619,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 230933,
-      "num": 230933,
-      "word": "沈星回聆花意",
-      "onboard_time": 1726806322,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 230797,
       "num": 230797,
       "word": "3岁幼童遭狗撕咬拖走数米父亲发声",
       "onboard_time": 1726755023,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228334,
+      "num": 228334,
+      "word": "合肥震后村民拍下井水翻滚如煮开",
+      "onboard_time": 1726805722,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -627,16 +659,32 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215064,
-      "num": 215064,
-      "word": "黎巴嫩",
-      "onboard_time": 1726806022,
-      "rank": 44,
-      "category": "国外时政"
+      "raw_hot": 220020,
+      "num": 748459,
+      "word": "商户有权在自家门店贴招聘信息吗",
+      "onboard_time": 1726804940,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212934,
+      "num": 757319,
+      "word": "向孩子举起屠刀的人十恶不赦",
+      "onboard_time": 1726805782,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212798,
+      "num": 212798,
+      "word": "周雨彤新剧全款买鞋这段",
+      "onboard_time": 1726806202,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 211851,
-      "num": 497288,
+      "num": 515307,
       "word": "苏大强变成女儿奴了",
       "onboard_time": 1726805361,
       "rank": 29,
@@ -652,19 +700,11 @@
     },
     {
       "raw_hot": 210283,
-      "num": 210283,
+      "num": 638957,
       "word": "披荆斩棘滚烫学长官宣",
       "onboard_time": 1726806081,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209753,
-      "num": 209753,
-      "word": "合肥震后村民拍下井水翻滚如煮开",
-      "onboard_time": 1726805722,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208063,
@@ -721,14 +761,6 @@
       "onboard_time": 1726791683,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192777,
-      "num": 208618,
-      "word": "周雨彤新剧全款买鞋这段",
-      "onboard_time": 1726806202,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 188577,
@@ -987,6 +1019,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 132140,
+      "num": 375029,
+      "word": "朱星杰 我们30而已",
+      "onboard_time": 1726804101,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130104,
       "num": 130104,
       "word": "Jennie解释室内吸烟道歉的原因",
@@ -1011,19 +1051,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127583,
+      "num": 679174,
+      "word": "台风后马斯克要求团队尽力帮助上海",
+      "onboard_time": 1726805481,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126791,
       "num": 126791,
       "word": "180斤7XL女孩当汉服模特月入过万",
       "onboard_time": 1726751903,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125873,
-      "num": 748459,
-      "word": "商户有权在自家门店贴招聘信息吗",
-      "onboard_time": 1726804940,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1115,14 +1155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 95969,
-      "num": 757319,
-      "word": "向孩子举起屠刀的人十恶不赦",
-      "onboard_time": 1726805782,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 93998,
       "num": 93998,
       "word": "熊猫险被冲走两脚兽急得直喊大哥",
@@ -1179,14 +1211,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 89453,
-      "num": 510193,
-      "word": "台风后马斯克要求团队尽力帮助上海",
-      "onboard_time": 1726805481,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86405,
       "num": 86405,
       "word": "00后小伙打破外国金牌垄断",
@@ -1209,6 +1233,14 @@
       "onboard_time": 1726753762,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84730,
+      "num": 530767,
+      "word": "华为三折叠开售",
+      "onboard_time": 1726803259,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 84610,
@@ -1291,20 +1323,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 71387,
-      "num": 506907,
-      "word": "华为三折叠开售",
-      "onboard_time": 1726803259,
-      "rank": 40,
-      "category": "数码"
-    },
-    {
       "raw_hot": 69697,
       "num": 69697,
       "word": "大疆Action5Pro",
       "onboard_time": 1726787958,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 66009,
+      "num": 646157,
+      "word": "对话防台风3天不换衣干部",
+      "onboard_time": 1726806982,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65923,
@@ -1395,6 +1427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 45331,
+      "num": 738498,
+      "word": "肖战柔软与坚韧并存",
+      "onboard_time": 1726803021,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44470,
       "num": 40152,
       "word": "内心强大的人往往有这几个特质",
@@ -1428,7 +1468,7 @@
     },
     {
       "raw_hot": 38619,
-      "num": 499326,
+      "num": 608619,
       "word": "iPhone开售首日冠军送来新机",
       "onboard_time": 1726805060,
       "rank": 25,
@@ -1441,14 +1481,6 @@
       "onboard_time": 1726798820,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37335,
-      "num": 738498,
-      "word": "肖战柔软与坚韧并存",
-      "onboard_time": 1726803021,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 36375,
@@ -1475,6 +1507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 33241,
+      "num": 521998,
+      "word": "李现与知识分子风的适配度",
+      "onboard_time": 1726805242,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 31291,
       "num": 36398,
       "word": "派出所回应3岁幼童遭狗撕咬拖数米",
@@ -1484,7 +1524,7 @@
     },
     {
       "raw_hot": 30648,
-      "num": 270545,
+      "num": 275296,
       "word": "全家都夸的智能马桶长啥样",
       "onboard_time": 1726804281,
       "rank": 38,
@@ -1492,7 +1532,7 @@
     },
     {
       "raw_hot": 30501,
-      "num": 943544,
+      "num": 1127419,
       "word": "新技术催生文化新潮流",
       "onboard_time": 1726804940,
       "rank": 2,
@@ -1531,6 +1571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28323,
+      "num": 256668,
+      "word": "余承东谈华为三折叠五大心动理由",
+      "onboard_time": 1726806923,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 26664,
       "num": 32591,
       "word": "SM开辟周边新赛道",
@@ -1539,11 +1587,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23034,
-      "num": 505813,
-      "word": "李现与知识分子风的适配度",
-      "onboard_time": 1726805242,
-      "rank": 21,
+      "raw_hot": 23588,
+      "num": 496735,
+      "word": "尼格买提的新工作",
+      "onboard_time": 1726803982,
+      "rank": 30,
       "category": "作品衍生"
     },
     {
@@ -1552,14 +1600,6 @@
       "word": "邓为启程巴黎时装周",
       "onboard_time": 1726783994,
       "rank": 49,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 19772,
-      "num": 496735,
-      "word": "尼格买提的新工作",
-      "onboard_time": 1726803982,
-      "rank": 30,
       "category": "作品衍生"
     },
     {
