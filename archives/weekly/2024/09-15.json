@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726874457858,
+  "endTime": 1726875329413,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -2155,6 +2155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 822282,
+      "num": 822282,
+      "word": "网红娟子不是无知是无敬畏无底线",
+      "onboard_time": 1726857313,
+      "rank": 15,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 821118,
       "num": 821118,
       "word": "70万买侄女一套房她反悔了怎么办",
@@ -2603,14 +2611,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 696105,
-      "num": 696105,
-      "word": "网红娟子不是无知是无敬畏无底线",
-      "onboard_time": 1726857313,
-      "rank": 15,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 695648,
       "num": 695648,
       "word": "梁王",
@@ -2689,6 +2689,14 @@
       "onboard_time": 1726817121,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 672628,
+      "num": 672628,
+      "word": "王源发文为王俊凯庆生",
+      "onboard_time": 1726874054,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 669477,
@@ -3601,6 +3609,14 @@
       "onboard_time": 1726490840,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 526602,
+      "num": 526602,
+      "word": "辛巴售卖香港月饼广东生产",
+      "onboard_time": 1726874476,
+      "rank": 5,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 524470,
@@ -4881,6 +4897,14 @@
       "onboard_time": 1726665323,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 374314,
+      "num": 374314,
+      "word": "吴彦祖后悔没申请名字版权",
+      "onboard_time": 1726873514,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 374081,
@@ -6435,14 +6459,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 281956,
-      "num": 281956,
-      "word": "吴彦祖后悔没申请名字版权",
-      "onboard_time": 1726873514,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 281949,
       "num": 287839,
       "word": "雪迷宫第28集封神",
@@ -6513,6 +6529,14 @@
       "onboard_time": 1726834820,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279709,
+      "num": 145983,
+      "word": "过度疲劳的人身体会散发臭味",
+      "onboard_time": 1726874054,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 279647,
@@ -6747,6 +6771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265583,
+      "num": 265583,
+      "word": "陆虎教科书式拒绝起哄求婚",
+      "onboard_time": 1726869911,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265522,
       "num": 435304,
       "word": "林诗栋vs邱党",
@@ -6817,6 +6849,14 @@
       "onboard_time": 1726583662,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 263578,
+      "num": 263578,
+      "word": "赵露思米兰时装周妆造",
+      "onboard_time": 1726874716,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 263260,
@@ -7243,6 +7283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248480,
+      "num": 248480,
+      "word": "2岁女童遭邻居持刀伤害后去世",
+      "onboard_time": 1726851377,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247959,
       "num": 247959,
       "word": "贝碧嘉成75年来登陆上海最强台风",
@@ -7345,14 +7393,6 @@
       "onboard_time": 1726718840,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 245224,
-      "num": 205626,
-      "word": "陆虎教科书式拒绝起哄求婚",
-      "onboard_time": 1726869911,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 245200,
@@ -7753,14 +7793,6 @@
       "onboard_time": 1726625302,
       "rank": 20,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 232701,
-      "num": 232701,
-      "word": "2岁女童遭邻居持刀伤害后去世",
-      "onboard_time": 1726851377,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232516,
@@ -8683,6 +8715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206767,
+      "num": 147969,
+      "word": "王源",
+      "onboard_time": 1726874956,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206745,
       "num": 206745,
       "word": "东京食尸鬼 帅的很超过",
@@ -9025,14 +9065,6 @@
       "onboard_time": 1726398201,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 202000,
-      "num": 202000,
-      "word": "王源发文为王俊凯庆生",
-      "onboard_time": 1726874054,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 201855,
@@ -10987,6 +11019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171347,
+      "num": 145707,
+      "word": "月经推迟或是这5种原因",
+      "onboard_time": 1726870932,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 171307,
       "num": 171307,
       "word": "易烊千玺AnotherMan",
@@ -11057,14 +11097,6 @@
       "onboard_time": 1726471819,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 170252,
-      "num": 118196,
-      "word": "过度疲劳的人身体会散发臭味",
-      "onboard_time": 1726874054,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 170159,
@@ -12483,14 +12515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149730,
-      "num": 117333,
-      "word": "月经推迟或是这5种原因",
-      "onboard_time": 1726870932,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 149679,
       "num": 149679,
       "word": "任嘉伦出道10年7部be剧",
@@ -12593,6 +12617,14 @@
       "onboard_time": 1726713139,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 147552,
+      "num": 145512,
+      "word": "网红小英塌房风波背后",
+      "onboard_time": 1726873455,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147535,
@@ -13512,6 +13544,14 @@
       "word": "雨霖铃",
       "onboard_time": 1726389200,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 134495,
+      "num": 134495,
+      "word": "半个娱乐圈的人来厦门了",
+      "onboard_time": 1726874355,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -15291,14 +15331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 89403,
-      "num": 89403,
-      "word": "网红小英塌房风波背后",
-      "onboard_time": 1726873455,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 89146,
       "num": 89146,
       "word": "成都打雷",
@@ -15313,6 +15345,14 @@
       "onboard_time": 1726485019,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87494,
+      "num": 87494,
+      "word": "心疼李肆",
+      "onboard_time": 1726875197,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 87379,
@@ -15947,14 +15987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 67585,
-      "num": 67585,
-      "word": "半个娱乐圈的人来厦门了",
-      "onboard_time": 1726874355,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 67164,
       "num": 67164,
       "word": "王安宇秒认秦海璐",
@@ -16169,6 +16201,14 @@
       "onboard_time": 1726629139,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 60494,
+      "num": 60494,
+      "word": "当爸爸妈妈开始养我的狗",
+      "onboard_time": 1726860193,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 59912,
@@ -16657,14 +16697,6 @@
       "onboard_time": 1726405523,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48068,
-      "num": 48068,
-      "word": "当爸爸妈妈开始养我的狗",
-      "onboard_time": 1726860193,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 48063,
@@ -18144,6 +18176,14 @@
       "word": "赵继伟篮球之夜见",
       "onboard_time": 1726448418,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 25800,
+      "num": 101864,
+      "word": "崔永熙穿科比T恤签约篮网",
+      "onboard_time": 1726874776,
+      "rank": 29,
       "category": "体育"
     },
     {
