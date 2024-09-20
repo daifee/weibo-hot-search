@@ -1,0 +1,410 @@
+{
+  "runTime": 1726801158332,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1520487,
+        "num": 1520487,
+        "word": "原来黄晓明是给叶珂买猫",
+        "onboard_time": 1726794502,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 776137,
+        "num": 776137,
+        "word": "上海暴雨",
+        "onboard_time": 1726792221,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22514,
+        "num": 731653,
+        "word": "2024北京文化论坛",
+        "onboard_time": 1726715000,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1417469,
+        "num": 723413,
+        "word": "何超盈瘦脱相",
+        "onboard_time": 1726798580,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 710846,
+        "num": 710846,
+        "word": "iPhone16ProMax最高加价1200元",
+        "onboard_time": 1726797379,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 570860,
+        "num": 570860,
+        "word": "微信实况",
+        "onboard_time": 1726753402,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 395238,
+        "num": 497592,
+        "word": "黎巴嫩初步调查通信设备爆炸事件",
+        "onboard_time": 1726795880,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 460423,
+        "num": 460423,
+        "word": "3天穿同一件衣服出镜官员回应道歉",
+        "onboard_time": 1726800079,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110902,
+        "num": 453565,
+        "word": "1年期和5年期LPR均保持不变",
+        "onboard_time": 1726799420,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 366441,
+        "num": 440053,
+        "word": "北京暴雨",
+        "onboard_time": 1726788557,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 794231,
+        "num": 434719,
+        "word": "男生猥亵女生被发现后悔求饶",
+        "onboard_time": 1726792821,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537946,
+        "num": 422041,
+        "word": "上减肥课发现教练是世界冠军",
+        "onboard_time": 1726796960,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412764,
+        "num": 412764,
+        "word": "短剧男主都帅成这样了",
+        "onboard_time": 1726764976,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57091,
+        "num": 405403,
+        "word": "余承东交付首批华为三折叠",
+        "onboard_time": 1726799961,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 381465,
+        "num": 401723,
+        "word": "19名硕士博士助力泡菜卖了220亿",
+        "onboard_time": 1726799059,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 401179,
+        "num": 401179,
+        "word": "网红小英是卖惨还是真惨",
+        "onboard_time": 1726793482,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 387732,
+        "num": 387732,
+        "word": "华为三折叠",
+        "onboard_time": 1726799420,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 346716,
+        "num": 346716,
+        "word": "王俊凯 我现在强得可怕",
+        "onboard_time": 1726797379,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 335029,
+        "num": 335029,
+        "word": "黑神话悟空总收入超67亿",
+        "onboard_time": 1726793181,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 332422,
+        "num": 332422,
+        "word": "王鹤棣宋茜合作星河入梦",
+        "onboard_time": 1726800140,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1005678,
+        "num": 330149,
+        "word": "招行已开除涉58页PPT举报事件员工",
+        "onboard_time": 1726795221,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657375,
+        "num": 326903,
+        "word": "西班牙网红夫妇吐槽中国厕所",
+        "onboard_time": 1726792821,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311143,
+        "num": 311143,
+        "word": "研究发现少一颗牙大脑衰老近一岁",
+        "onboard_time": 1726795581,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 289790,
+        "num": 289790,
+        "word": "周深鸟巢准备了13万份伴手礼",
+        "onboard_time": 1726790660,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 286596,
+        "num": 286596,
+        "word": "上海游泳馆站",
+        "onboard_time": 1726799479,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280672,
+        "num": 280672,
+        "word": "北方降温幅度可达12摄氏度",
+        "onboard_time": 1726800079,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267768,
+        "num": 267768,
+        "word": "北京一网友在威海捡到疑似龙涎香",
+        "onboard_time": 1726791560,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241582,
+        "num": 259963,
+        "word": "郑雅娴和粉丝用中文暗度陈仓",
+        "onboard_time": 1726799899,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255659,
+        "num": 255659,
+        "word": "奶奶为防老鼠房间放满南瓜结果没防住",
+        "onboard_time": 1726797620,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28368,
+        "num": 242712,
+        "word": "西凤酒请司马南参加活动引争议",
+        "onboard_time": 1726800320,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 242375,
+        "num": 242375,
+        "word": "大连思科被曝裁员赔偿N+7",
+        "onboard_time": 1726800258,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235315,
+        "num": 235315,
+        "word": "男子送妹妹上学突发疾病致车祸2死",
+        "onboard_time": 1726800619,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235293,
+        "num": 235293,
+        "word": "姜妍 虞书欣当了天我的知世",
+        "onboard_time": 1726790841,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233716,
+        "num": 233716,
+        "word": "民政局回应小英送养孩子传闻",
+        "onboard_time": 1726757064,
+        "rank": 33,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 216840,
+        "num": 216840,
+        "word": "大量掉头发是多囊卵巢的症状之一",
+        "onboard_time": 1726790179,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 208063,
+        "num": 208063,
+        "word": "AI画出了中国风的硕果累累",
+        "onboard_time": 1726800199,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176316,
+        "num": 176316,
+        "word": "58页PPT被举报管培生被开除党籍",
+        "onboard_time": 1726797079,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167520,
+        "num": 167520,
+        "word": "百万粉丝博主吐槽iPhone16不稳",
+        "onboard_time": 1726796241,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 153763,
+        "num": 153763,
+        "word": "湖北奥运冠军获赠超百万奖金及住房",
+        "onboard_time": 1726801042,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146168,
+        "num": 146168,
+        "word": "iPhone16",
+        "onboard_time": 1726793661,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 144137,
+        "num": 144137,
+        "word": "杨紫美式辣妹",
+        "onboard_time": 1726801100,
+        "rank": 40,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 143223,
+        "num": 143223,
+        "word": "年入过亿女老板谈休息耻辱",
+        "onboard_time": 1726763057,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142739,
+        "num": 142739,
+        "word": "肖战定制西服搭高珠",
+        "onboard_time": 1726791980,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141338,
+        "num": 141338,
+        "word": "小英称自己顺其自然",
+        "onboard_time": 1726796420,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 141154,
+        "num": 141154,
+        "word": "大山女孩以为400分能报考清华",
+        "onboard_time": 1726753582,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137309,
+        "num": 137309,
+        "word": "美官员称中国已成为美国史上最大挑战",
+        "onboard_time": 1726791079,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 133249,
+        "num": 133249,
+        "word": "丫丫炫苹果炫出清脆一声",
+        "onboard_time": 1726798098,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132656,
+        "num": 132656,
+        "word": "A股",
+        "onboard_time": 1726798279,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131880,
+        "num": 131880,
+        "word": "合肥4.7级地震余震58次",
+        "onboard_time": 1726757483,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18730,
+        "num": 129318,
+        "word": "带着三折叠手机上天",
+        "onboard_time": 1726797860,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族共同体意识是民族团结之本#"
+    }
+  }
+}

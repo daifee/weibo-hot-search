@@ -1,6 +1,6 @@
 {
   "startTime": 1726763246339,
-  "endTime": 1726800620568,
+  "endTime": 1726801158332,
   "band_list": [
     {
       "raw_hot": 2161007,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1676594,
-      "num": 278081,
+      "num": 326903,
       "word": "西班牙网红夫妇吐槽中国厕所",
       "onboard_time": 1726792821,
       "rank": 17,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1620323,
-      "num": 276949,
+      "num": 330149,
       "word": "招行已开除涉58页PPT举报事件员工",
       "onboard_time": 1726795221,
       "rank": 20,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1489821,
-      "num": 628109,
+      "num": 723413,
       "word": "何超盈瘦脱相",
       "onboard_time": 1726798580,
       "rank": 3,
@@ -75,20 +75,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 710846,
+      "num": 710846,
+      "word": "iPhone16ProMax最高加价1200元",
+      "onboard_time": 1726797379,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 705989,
       "num": 705989,
       "word": "吴谨言肚子",
       "onboard_time": 1726748302,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 619859,
-      "num": 619859,
-      "word": "iPhone16ProMax最高加价1200元",
-      "onboard_time": 1726797379,
-      "rank": 4,
-      "category": "数码"
     },
     {
       "raw_hot": 601276,
@@ -131,8 +131,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 514977,
-      "num": 421488,
+      "raw_hot": 537946,
+      "num": 422041,
       "word": "上减肥课发现教练是世界冠军",
       "onboard_time": 1726796960,
       "rank": 33,
@@ -163,8 +163,16 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 460423,
+      "num": 460423,
+      "word": "3天穿同一件衣服出镜官员回应道歉",
+      "onboard_time": 1726800079,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 404642,
-      "num": 404642,
+      "num": 440053,
       "word": "北京暴雨",
       "onboard_time": 1726788557,
       "rank": 31,
@@ -177,6 +185,30 @@
       "onboard_time": 1726763237,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 395238,
+      "num": 497592,
+      "word": "黎巴嫩初步调查通信设备爆炸事件",
+      "onboard_time": 1726795880,
+      "rank": 15,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 387732,
+      "num": 387732,
+      "word": "华为三折叠",
+      "onboard_time": 1726799420,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 381465,
+      "num": 401723,
+      "word": "19名硕士博士助力泡菜卖了220亿",
+      "onboard_time": 1726799059,
+      "rank": 16,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 376042,
@@ -203,12 +235,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 351626,
-      "num": 439840,
-      "word": "黎巴嫩初步调查通信设备爆炸事件",
-      "onboard_time": 1726795880,
-      "rank": 15,
-      "category": "国外时政"
+      "raw_hot": 346716,
+      "num": 346716,
+      "word": "王俊凯 我现在强得可怕",
+      "onboard_time": 1726797379,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 337028,
@@ -227,8 +259,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332422,
+      "num": 332422,
+      "word": "王鹤棣宋茜合作星河入梦",
+      "onboard_time": 1726800140,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 331225,
-      "num": 271579,
+      "num": 311143,
       "word": "研究发现少一颗牙大脑衰老近一岁",
       "onboard_time": 1726795581,
       "rank": 32,
@@ -291,14 +331,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 302959,
-      "num": 302959,
-      "word": "19名硕士博士助力泡菜卖了220亿",
-      "onboard_time": 1726799059,
-      "rank": 16,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 294370,
       "num": 294370,
       "word": "女子车后10米远摔倒车主被判次责",
@@ -315,11 +347,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286596,
+      "num": 286596,
+      "word": "上海游泳馆站",
+      "onboard_time": 1726799479,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281772,
       "num": 281772,
       "word": "年入过亿女老板谈休息耻辱",
       "onboard_time": 1726763057,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280672,
+      "num": 280672,
+      "word": "北方降温幅度可达12摄氏度",
+      "onboard_time": 1726800079,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -331,35 +379,11 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 277792,
-      "num": 277792,
-      "word": "王俊凯 我现在强得可怕",
-      "onboard_time": 1726797379,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 268864,
-      "num": 268864,
-      "word": "华为三折叠",
-      "onboard_time": 1726799420,
-      "rank": 24,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 253985,
-      "num": 253985,
-      "word": "上海游泳馆站",
-      "onboard_time": 1726799479,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 252533,
-      "num": 252533,
-      "word": "3天穿同一件衣服出镜官员回应道歉",
-      "onboard_time": 1726800079,
-      "rank": 27,
+      "raw_hot": 255659,
+      "num": 255659,
+      "word": "奶奶为防老鼠房间放满南瓜结果没防住",
+      "onboard_time": 1726797620,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -371,20 +395,28 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 247358,
-      "num": 247358,
-      "word": "奶奶为防老鼠房间放满南瓜结果没防住",
-      "onboard_time": 1726797620,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 246322,
       "num": 246322,
       "word": "肖战深情演唱月亮代表我的心",
       "onboard_time": 1726786875,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242375,
+      "num": 242375,
+      "word": "大连思科被曝裁员赔偿N+7",
+      "onboard_time": 1726800258,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241582,
+      "num": 259963,
+      "word": "郑雅娴和粉丝用中文暗度陈仓",
+      "onboard_time": 1726799899,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 239874,
@@ -403,12 +435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238445,
-      "num": 253200,
-      "word": "王鹤棣宋茜合作星河入梦",
-      "onboard_time": 1726800140,
-      "rank": 26,
-      "category": "电影"
+      "raw_hot": 235315,
+      "num": 235315,
+      "word": "男子送妹妹上学突发疾病致车祸2死",
+      "onboard_time": 1726800619,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230797,
@@ -443,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213052,
-      "num": 213052,
-      "word": "郑雅娴和粉丝用中文暗度陈仓",
-      "onboard_time": 1726799899,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 211845,
       "num": 149443,
       "word": "南派三叔回应终极笔记2",
@@ -459,11 +483,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205615,
-      "num": 269463,
-      "word": "北方降温幅度可达12摄氏度",
-      "onboard_time": 1726800079,
-      "rank": 23,
+      "raw_hot": 208063,
+      "num": 208063,
+      "word": "AI画出了中国风的硕果累累",
+      "onboard_time": 1726800199,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -507,6 +531,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 176316,
+      "num": 176316,
+      "word": "58页PPT被举报管培生被开除党籍",
+      "onboard_time": 1726797079,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173491,
       "num": 148298,
       "word": "大张伟 这是林一不是许凯",
@@ -531,36 +563,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172614,
-      "num": 172614,
-      "word": "AI画出了中国风的硕果累累",
-      "onboard_time": 1726800199,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172537,
-      "num": 172537,
-      "word": "大连思科被曝裁员赔偿N+7",
-      "onboard_time": 1726800258,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167028,
       "num": 167028,
       "word": "折叠iPhone设计理念",
       "onboard_time": 1726794382,
       "rank": 34,
       "category": "数码"
-    },
-    {
-      "raw_hot": 163048,
-      "num": 163048,
-      "word": "58页PPT被举报管培生被开除党籍",
-      "onboard_time": 1726797079,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162551,
@@ -619,6 +627,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 153763,
+      "num": 153763,
+      "word": "湖北奥运冠军获赠超百万奖金及住房",
+      "onboard_time": 1726801042,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151729,
       "num": 151729,
       "word": "贾玲李现同框看秀",
@@ -651,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146168,
+      "num": 146168,
+      "word": "iPhone16",
+      "onboard_time": 1726793661,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 145580,
       "num": 145580,
       "word": "微信朋友圈live图不能单独关闭声音",
@@ -659,12 +683,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 142072,
-      "num": 142072,
-      "word": "iPhone16",
-      "onboard_time": 1726793661,
-      "rank": 45,
-      "category": "数码"
+      "raw_hot": 144137,
+      "num": 144137,
+      "word": "杨紫美式辣妹",
+      "onboard_time": 1726801100,
+      "rank": 40,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 139415,
@@ -705,6 +729,14 @@
       "onboard_time": 1726792403,
       "rank": 44,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 132656,
+      "num": 132656,
+      "word": "A股",
+      "onboard_time": 1726798279,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 130104,
@@ -756,7 +788,7 @@
     },
     {
       "raw_hot": 111723,
-      "num": 434459,
+      "num": 453565,
       "word": "1年期和5年期LPR均保持不变",
       "onboard_time": 1726799420,
       "rank": 8,
@@ -995,6 +1027,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 57091,
+      "num": 405403,
+      "word": "余承东交付首批华为三折叠",
+      "onboard_time": 1726799961,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 53737,
       "num": 172674,
       "word": "黎真主党领导人称以色列将受到惩罚",
@@ -1017,14 +1057,6 @@
       "onboard_time": 1726745960,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 46687,
-      "num": 247538,
-      "word": "余承东交付首批华为三折叠",
-      "onboard_time": 1726799961,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 45739,
@@ -1131,20 +1163,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28368,
+      "num": 247399,
+      "word": "西凤酒请司马南参加活动引争议",
+      "onboard_time": 1726800320,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 26664,
       "num": 32591,
       "word": "SM开辟周边新赛道",
       "onboard_time": 1726769712,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 25271,
-      "num": 247399,
-      "word": "西凤酒请司马南参加活动引争议",
-      "onboard_time": 1726800320,
-      "rank": 29,
-      "category": "网红"
     },
     {
       "raw_hot": 23027,
@@ -1171,20 +1203,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18730,
+      "num": 139335,
+      "word": "带着三折叠手机上天",
+      "onboard_time": 1726797860,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 18096,
       "num": 37820,
       "word": "被动物强势围观是什么体验",
       "onboard_time": 1726777271,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18042,
-      "num": 139335,
-      "word": "带着三折叠手机上天",
-      "onboard_time": 1726797860,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 11592,
