@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726832175447,
+  "endTime": 1726836065111,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -1419,6 +1419,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1097884,
+      "num": 1097884,
+      "word": "还我李肆",
+      "onboard_time": 1726830258,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1097764,
       "num": 1097764,
       "word": "教资科二",
@@ -1801,6 +1809,14 @@
       "onboard_time": 1726413441,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 918523,
+      "num": 918523,
+      "word": "小英老公曾称干活都是他去做",
+      "onboard_time": 1726832000,
+      "rank": 3,
+      "category": "网红"
     },
     {
       "raw_hot": 915766,
@@ -3683,6 +3699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 495532,
+      "num": 282162,
+      "word": "男主写死了",
+      "onboard_time": 1726834220,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 494399,
       "num": 468031,
       "word": "为什么放假越休息越累",
@@ -3848,6 +3872,14 @@
       "word": "四川江油失联姐弟均已遇难",
       "onboard_time": 1726323142,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 472532,
+      "num": 281124,
+      "word": "外祖孙俩遭邻居行凶女童已去世",
+      "onboard_time": 1726833680,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -4067,6 +4099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 436739,
+      "num": 275603,
+      "word": "肖战 好听",
+      "onboard_time": 1726836020,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 436297,
       "num": 352659,
       "word": "丈夫打麻将被扔靠枕后殴打怀孕妻子",
@@ -4081,6 +4121,14 @@
       "onboard_time": 1726458019,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 434617,
+      "num": 272087,
+      "word": "甜馨走秀",
+      "onboard_time": 1726835179,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 433671,
@@ -4145,6 +4193,14 @@
       "onboard_time": 1726497740,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 427674,
+      "num": 269312,
+      "word": "喻言 下一战歌手",
+      "onboard_time": 1726833319,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 426943,
@@ -4528,6 +4584,14 @@
       "word": "方灿姚琛 什刹海",
       "onboard_time": 1726549640,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 383862,
+      "num": 268728,
+      "word": "肖战工作室出图",
+      "onboard_time": 1726835542,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -5795,6 +5859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294007,
+      "num": 695514,
+      "word": "王楚钦人机感",
+      "onboard_time": 1726831580,
+      "rank": 5,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 293569,
       "num": 293569,
       "word": "苹果承认更新iPadOS18后会黑屏",
@@ -5809,6 +5881,14 @@
       "onboard_time": 1726381638,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 292789,
+      "num": 281382,
+      "word": "翔霖",
+      "onboard_time": 1726830200,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 292607,
@@ -5843,14 +5923,6 @@
       "category": "美食,健康医疗"
     },
     {
-      "raw_hot": 291277,
-      "num": 291277,
-      "word": "还我李肆",
-      "onboard_time": 1726830258,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 291132,
       "num": 291132,
       "word": "三只羊日销售额骤降九成以上",
@@ -5873,6 +5945,22 @@
       "onboard_time": 1726488259,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 290038,
+      "num": 266599,
+      "word": "北京卫视直播",
+      "onboard_time": 1726832000,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 289969,
+      "num": 265409,
+      "word": "雪迷宫结局",
+      "onboard_time": 1726831818,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 289268,
@@ -6089,14 +6177,6 @@
       "onboard_time": 1726551859,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 281382,
-      "num": 281382,
-      "word": "翔霖",
-      "onboard_time": 1726830200,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 280830,
@@ -7115,6 +7195,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 240325,
+      "num": 240325,
+      "word": "中日共识与日本男童遇袭无关",
+      "onboard_time": 1726832539,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240189,
       "num": 240189,
       "word": "中秋快乐",
@@ -7523,6 +7611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227532,
+      "num": 449021,
+      "word": "宝妈带8岁儿子旅游在高速醉驾逆行",
+      "onboard_time": 1726830200,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227328,
       "num": 227328,
       "word": "周深唱嗨致敬中国航天",
@@ -7849,6 +7945,14 @@
       "onboard_time": 1726737203,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 214406,
+      "num": 214406,
+      "word": "王一博米兰时装周",
+      "onboard_time": 1726823178,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 214363,
@@ -8859,6 +8963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196530,
+      "num": 196530,
+      "word": "王俊凯新歌",
+      "onboard_time": 1726835659,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 196441,
       "num": 278287,
       "word": "王一珩直播",
@@ -9179,14 +9291,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 192780,
-      "num": 192780,
-      "word": "王一博米兰时装周",
-      "onboard_time": 1726823178,
-      "rank": 29,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 192738,
       "num": 1341723,
       "word": "青春华章",
@@ -9241,6 +9345,14 @@
       "onboard_time": 1726753522,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 191762,
+      "num": 191762,
+      "word": "张凌赫指导赵今麦掐脖吻",
+      "onboard_time": 1726834702,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 191617,
@@ -10067,6 +10179,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 176842,
+      "num": 176842,
+      "word": "陶喆合肥抢票",
+      "onboard_time": 1726835059,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 176652,
       "num": 176652,
       "word": "女生遛狗暴走12公里累瘫狗狗",
@@ -10145,6 +10265,14 @@
       "onboard_time": 1726470380,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175900,
+      "num": 175900,
+      "word": "韩剧同款香蕉牛奶或成文化遗产",
+      "onboard_time": 1726834280,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175850,
@@ -10521,6 +10649,14 @@
       "onboard_time": 1726369878,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 169609,
+      "num": 169609,
+      "word": "伯远唱跳好稳",
+      "onboard_time": 1726835901,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 168986,
@@ -11603,6 +11739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154020,
+      "num": 287839,
+      "word": "雪迷宫第28集封神",
+      "onboard_time": 1726835120,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153882,
       "num": 153882,
       "word": "黎巴嫩爆炸已致32死数千人受伤",
@@ -11643,6 +11787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 153324,
+      "num": 153324,
+      "word": "国内油价已抹去今年全部涨幅",
+      "onboard_time": 1726829840,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 153232,
       "num": 153232,
       "word": "胡彦斌又唱月光了",
@@ -11673,6 +11825,14 @@
       "onboard_time": 1726823960,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152726,
+      "num": 152726,
+      "word": "沙威玛",
+      "onboard_time": 1726835840,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 152550,
@@ -11865,14 +12025,6 @@
       "onboard_time": 1726456279,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 149048,
-      "num": 449021,
-      "word": "宝妈带8岁儿子旅游在高速醉驾逆行",
-      "onboard_time": 1726830200,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149004,
@@ -12555,6 +12707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138776,
+      "num": 138776,
+      "word": "舒淇回应改年龄",
+      "onboard_time": 1726831881,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138639,
       "num": 138639,
       "word": "国足排名世界第91",
@@ -12961,14 +13121,6 @@
       "onboard_time": 1726699754,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132603,
-      "num": 132603,
-      "word": "国内油价已抹去今年全部涨幅",
-      "onboard_time": 1726829840,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 132601,
@@ -14145,6 +14297,14 @@
       "onboard_time": 1726527794,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106058,
+      "num": 257273,
+      "word": "漱口水是智商税吗",
+      "onboard_time": 1726830919,
+      "rank": 42,
+      "category": "科学科普"
     },
     {
       "raw_hot": 105968,
@@ -15843,6 +16003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47573,
+      "num": 154461,
+      "word": "黄晓明黄子韬 青岛特产黄氏霸总",
+      "onboard_time": 1726834820,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47386,
       "num": 539189,
       "word": "2024品质内衣白皮书",
@@ -16291,6 +16459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38462,
+      "num": 289819,
+      "word": "苦难不应该继续成为小英的流量密码",
+      "onboard_time": 1726835120,
+      "rank": 9,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 38419,
       "num": 601567,
       "word": "山山脱口秀",
@@ -16547,20 +16723,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34641,
+      "num": 270652,
+      "word": "极氪7X全球首创四大安全技术",
+      "onboard_time": 1726834580,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 34407,
       "num": 503942,
       "word": "中国铁路营业里程突破16万公里",
       "onboard_time": 1726373298,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34373,
-      "num": 138814,
-      "word": "漱口水是智商税吗",
-      "onboard_time": 1726830919,
-      "rank": 42,
-      "category": "科学科普"
     },
     {
       "raw_hot": 34136,
@@ -17137,6 +17313,14 @@
       "onboard_time": 1726807882,
       "rank": 31,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 26385,
+      "num": 279548,
+      "word": "留意牙齿的7个求救信号",
+      "onboard_time": 1726835542,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26141,
