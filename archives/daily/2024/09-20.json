@@ -1,6 +1,6 @@
 {
   "startTime": 1726763246339,
-  "endTime": 1726825197331,
+  "endTime": 1726827805171,
   "band_list": [
     {
       "raw_hot": 2835519,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1343406,
+      "num": 1343406,
+      "word": "唐山打人案被判刑民警明确申诉诉求",
+      "onboard_time": 1726826061,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1307808,
       "num": 1307808,
       "word": "恋与深空",
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1278113,
+      "num": 1278113,
+      "word": "上海龙卷风",
+      "onboard_time": 1726822940,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1271784,
       "num": 1271784,
       "word": "民政局回应小英送养孩子传闻",
@@ -163,20 +179,20 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 1247791,
-      "num": 1247791,
-      "word": "上海龙卷风",
-      "onboard_time": 1726822940,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1208271,
       "num": 1208271,
       "word": "短剧男主都帅成这样了",
       "onboard_time": 1726764976,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1139390,
+      "num": 1139390,
+      "word": "微信好友添加时间",
+      "onboard_time": 1726826359,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 1108069,
@@ -483,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 479172,
+      "num": 479172,
+      "word": "张艺凡疑似被换角",
+      "onboard_time": 1726826180,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 477266,
       "num": 436503,
       "word": "莎头捍卫国乒荣耀",
@@ -524,7 +548,7 @@
     },
     {
       "raw_hot": 423850,
-      "num": 423850,
+      "num": 901353,
       "word": "叶县县委书记回应网传强拆果园",
       "onboard_time": 1726819879,
       "rank": 23,
@@ -835,6 +859,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 271535,
+      "num": 271535,
+      "word": "王楚钦直播",
+      "onboard_time": 1726827200,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270082,
       "num": 270082,
       "word": "时代少年团 景德镇",
@@ -889,6 +921,22 @@
       "onboard_time": 1726797620,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255573,
+      "num": 255573,
+      "word": "易烊千玺注册做过几天外卖骑手",
+      "onboard_time": 1726825399,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 251191,
+      "num": 251191,
+      "word": "看完理解张桂梅因女孩重回大山嫁人生气",
+      "onboard_time": 1726826180,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 251112,
@@ -1091,6 +1139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 219471,
+      "num": 219471,
+      "word": "核污水排海",
+      "onboard_time": 1726821801,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 213777,
       "num": 213777,
       "word": "网红小英丈夫曾称是扮演坏人",
@@ -1153,6 +1209,14 @@
       "onboard_time": 1726813460,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205579,
+      "num": 205579,
+      "word": "尹净汉见面会",
+      "onboard_time": 1726826661,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 205074,
@@ -1331,6 +1395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 184920,
+      "num": 184920,
+      "word": "胡歌唐嫣飞天奖坐一起",
+      "onboard_time": 1726826419,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184704,
       "num": 222956,
       "word": "20余省份将受冷空气影响",
@@ -1491,12 +1563,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160158,
+      "num": 160158,
+      "word": "雪迷宫筹备三年等黄景瑜四年",
+      "onboard_time": 1726827258,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159467,
       "num": 159467,
       "word": "小英称自己顺其自然",
       "onboard_time": 1726796420,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 158302,
+      "num": 158302,
+      "word": "逆水寒马面裙",
+      "onboard_time": 1726827619,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 158102,
@@ -1579,6 +1667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 153040,
+      "num": 153040,
+      "word": "尤长靖主动为陈楚生让宿舍",
+      "onboard_time": 1726822819,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152875,
       "num": 152875,
       "word": "这是迎风流泪的青春吧",
@@ -1651,6 +1747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143235,
+      "num": 143235,
+      "word": "哈利波特",
+      "onboard_time": 1726826118,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139659,
       "num": 139659,
       "word": "过度节食减肥易导致胆囊疾病",
@@ -1667,6 +1771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 139177,
+      "num": 139177,
+      "word": "郑钦文将奥运决赛网球拍赠送给华科大",
+      "onboard_time": 1726824680,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138584,
       "num": 138584,
       "word": "飞天奖路透",
@@ -1680,6 +1792,14 @@
       "word": "房管局回应三只羊上海公司现状",
       "onboard_time": 1726786997,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136533,
+      "num": 136533,
+      "word": "景区将流浪猫放在人造孤岛供游客打卡",
+      "onboard_time": 1726827078,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1723,28 +1843,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 132980,
-      "num": 132980,
-      "word": "郑钦文将奥运决赛网球拍赠送给华科大",
-      "onboard_time": 1726824680,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 132656,
       "num": 132656,
       "word": "A股",
       "onboard_time": 1726798279,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 132182,
-      "num": 132182,
-      "word": "核污水排海",
-      "onboard_time": 1726821801,
-      "rank": 45,
-      "category": "国外时政"
     },
     {
       "raw_hot": 132140,
@@ -1833,14 +1937,6 @@
       "onboard_time": 1726744726,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116183,
-      "num": 116183,
-      "word": "尤长靖主动为陈楚生让宿舍",
-      "onboard_time": 1726822819,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 111723,
@@ -2267,6 +2363,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 51984,
+      "num": 597861,
+      "word": "让我看看谁还不知道金标大众",
+      "onboard_time": 1726823900,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 51044,
       "num": 603678,
       "word": "聚焦地中海贫血患者的求职困境",
@@ -2281,6 +2385,14 @@
       "onboard_time": 1726745960,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 46387,
+      "num": 205315,
+      "word": "华为轮值董事长首谈引望战略",
+      "onboard_time": 1726826780,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 46120,
@@ -2312,6 +2424,14 @@
       "word": "被农学学霸的带货馋疯了",
       "onboard_time": 1726821202,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44742,
+      "num": 902894,
+      "word": "不能让问题外卖脏了嘴巴辣了眼睛",
+      "onboard_time": 1726826598,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -2475,6 +2595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 34010,
+      "num": 385530,
+      "word": "贾玲看秀look",
+      "onboard_time": 1726822759,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 33410,
       "num": 352151,
       "word": "三国志战略版五周年火爆",
@@ -2483,12 +2611,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 33244,
-      "num": 597861,
-      "word": "让我看看谁还不知道金标大众",
-      "onboard_time": 1726823900,
-      "rank": 34,
-      "category": "汽车"
+      "raw_hot": 32890,
+      "num": 410676,
+      "word": "花钱找人陪爬山值吗",
+      "onboard_time": 1726826540,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31762,
@@ -2511,6 +2639,14 @@
       "num": 420545,
       "word": "如何破解美元潮汐",
       "onboard_time": 1726815800,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30657,
+      "num": 441020,
+      "word": "老司机碰瓷加塞车骗保61万余元",
+      "onboard_time": 1726826479,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -2563,6 +2699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26765,
+      "num": 160242,
+      "word": "钛餐厨具是不是智商税",
+      "onboard_time": 1726825820,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 26664,
       "num": 32591,
       "word": "SM开辟周边新赛道",
@@ -2577,14 +2721,6 @@
       "onboard_time": 1726807882,
       "rank": 31,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 25757,
-      "num": 385530,
-      "word": "贾玲看秀look",
-      "onboard_time": 1726822759,
-      "rank": 22,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 23588,
@@ -2657,6 +2793,14 @@
       "onboard_time": 1726780753,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9071,
+      "num": 410706,
+      "word": "胡歌 铁打的顶流",
+      "onboard_time": 1726827679,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 8165,
