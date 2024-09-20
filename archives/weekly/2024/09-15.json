@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726788967364,
+  "endTime": 1726796348135,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -483,6 +483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1745580,
+      "num": 1745580,
+      "word": "原来黄晓明是给叶珂买猫",
+      "onboard_time": 1726794502,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1734503,
       "num": 1585884,
       "word": "张凌赫边吻边十指紧扣",
@@ -513,6 +521,14 @@
       "onboard_time": 1726486699,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1676594,
+      "num": 278081,
+      "word": "西班牙网红夫妇吐槽中国厕所",
+      "onboard_time": 1726792821,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1665549,
@@ -625,6 +641,14 @@
       "onboard_time": 1726621580,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1550246,
+      "num": 238352,
+      "word": "招行已开除涉58页PPT举报事件员工",
+      "onboard_time": 1726795221,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1535283,
@@ -1827,6 +1851,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 813783,
+      "num": 813783,
+      "word": "上海暴雨",
+      "onboard_time": 1726792221,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 809590,
       "num": 458192,
       "word": "被生父抢走藏匿329天女童遭虐待致死",
@@ -2184,6 +2216,14 @@
       "word": "青岛地铁站吃瓜瓜瓜炸裂",
       "onboard_time": 1726653859,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 693174,
+      "num": 693174,
+      "word": "男生猥亵女生被发现后悔求饶",
+      "onboard_time": 1726792821,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -2699,6 +2739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 581370,
+      "num": 581370,
+      "word": "姜妍 虞书欣当了天我的知世",
+      "onboard_time": 1726790841,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 576200,
       "num": 576200,
       "word": "教资答案",
@@ -2841,6 +2889,14 @@
       "onboard_time": 1726573340,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 551085,
+      "num": 551085,
+      "word": "网红小英是卖惨还是真惨",
+      "onboard_time": 1726793482,
+      "rank": 7,
+      "category": "网红"
     },
     {
       "raw_hot": 548758,
@@ -3259,6 +3315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 491593,
+      "num": 491593,
+      "word": "黑神话悟空总收入超67亿",
+      "onboard_time": 1726793181,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 490668,
       "num": 490668,
       "word": "医院招篮球特长生被指萝卜坑招聘",
@@ -3377,6 +3441,14 @@
       "onboard_time": 1726457720,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 465665,
+      "num": 465665,
+      "word": "美官员称中国已成为美国史上最大挑战",
+      "onboard_time": 1726791079,
+      "rank": 10,
+      "category": "国外时政"
     },
     {
       "raw_hot": 463463,
@@ -4027,6 +4099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 376042,
+      "num": 237960,
+      "word": "大量掉头发是多囊卵巢的症状之一",
+      "onboard_time": 1726790179,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 375027,
       "num": 381526,
       "word": "赵露思中秋晒曾黎美照",
@@ -4097,6 +4177,14 @@
       "onboard_time": 1726329138,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 369213,
+      "num": 369213,
+      "word": "LPR",
+      "onboard_time": 1726794202,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 368590,
@@ -4923,6 +5011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303658,
+      "num": 235342,
+      "word": "被辞退时四不签三不说",
+      "onboard_time": 1726791020,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 303585,
       "num": 444348,
       "word": "中秋假期第1天或迎铁路客流高峰",
@@ -5001,6 +5097,14 @@
       "onboard_time": 1726582643,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 299910,
+      "num": 299910,
+      "word": "周深鸟巢准备了13万份伴手礼",
+      "onboard_time": 1726790660,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 299700,
@@ -5145,6 +5249,14 @@
       "onboard_time": 1726587680,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290615,
+      "num": 290615,
+      "word": "黎巴嫩初步调查通信设备爆炸事件",
+      "onboard_time": 1726795880,
+      "rank": 15,
+      "category": "国外时政"
     },
     {
       "raw_hot": 290150,
@@ -5331,6 +5443,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 281772,
+      "num": 281772,
+      "word": "年入过亿女老板谈休息耻辱",
+      "onboard_time": 1726763057,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281624,
       "num": 281624,
       "word": "邓恩熙挂脖粉裙",
@@ -5417,6 +5537,14 @@
       "onboard_time": 1726701436,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 273592,
+      "num": 273592,
+      "word": "北京暴雨",
+      "onboard_time": 1726788557,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272249,
@@ -5939,6 +6067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251112,
+      "num": 234621,
+      "word": "这可能是瘦肚子最高效的运动",
+      "onboard_time": 1726791020,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 250101,
       "num": 250101,
       "word": "上海台风",
@@ -6243,6 +6379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 239874,
+      "num": 239874,
+      "word": "阴阳师",
+      "onboard_time": 1726794860,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 239582,
       "num": 239582,
       "word": "喻言黑发红裙",
@@ -6347,14 +6491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235594,
-      "num": 147735,
-      "word": "年入过亿女老板谈休息耻辱",
-      "onboard_time": 1726763057,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235146,
       "num": 235146,
       "word": "蔡徐坤到了米兰就出门了",
@@ -6451,6 +6587,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 231563,
+      "num": 477573,
+      "word": "黎爆炸通信设备或被提前植入炸药",
+      "onboard_time": 1726791020,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 231458,
       "num": 231458,
       "word": "三只羊别再玩文字游戏了",
@@ -6465,6 +6609,14 @@
       "onboard_time": 1726559359,
       "rank": 32,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 231322,
+      "num": 231322,
+      "word": "北京一网友在威海捡到疑似龙涎香",
+      "onboard_time": 1726791560,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230285,
@@ -7035,6 +7187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209185,
+      "num": 209185,
+      "word": "肖战定制西服搭高珠",
+      "onboard_time": 1726791980,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 209087,
       "num": 209087,
       "word": "胥慕辞官微掉粉",
@@ -7379,6 +7539,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 202795,
+      "num": 202795,
+      "word": "被黄小蕾的演技冲击到了",
+      "onboard_time": 1726792701,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 202657,
       "num": 909479,
       "word": "晚11点上厕所要告知老师符合常理吗",
@@ -7401,6 +7569,14 @@
       "onboard_time": 1726387578,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 202411,
+      "num": 202411,
+      "word": "谁发明的婚礼开场用亮剑",
+      "onboard_time": 1726791560,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 202277,
@@ -7913,6 +8089,14 @@
       "onboard_time": 1726377498,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194186,
+      "num": 194186,
+      "word": "专家称学历贬值存在但仍是敲门砖",
+      "onboard_time": 1726791683,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194159,
@@ -8611,6 +8795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179259,
+      "num": 179259,
+      "word": "研究发现少一颗牙大脑衰老近一岁",
+      "onboard_time": 1726795581,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 179258,
       "num": 179258,
       "word": "AG稳住",
@@ -9115,6 +9307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169968,
+      "num": 169968,
+      "word": "蔡徐坤本人和蜡像各忙各的",
+      "onboard_time": 1726792882,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 169931,
       "num": 169931,
       "word": "糟糕跟程苗苗嗑到一块去了",
@@ -9241,6 +9441,14 @@
       "onboard_time": 1726710559,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167028,
+      "num": 167028,
+      "word": "折叠iPhone设计理念",
+      "onboard_time": 1726794382,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 166903,
@@ -9947,6 +10155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156170,
+      "num": 156170,
+      "word": "LPR不变",
+      "onboard_time": 1726796120,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 156028,
       "num": 153659,
       "word": "樊振东说还会做姆巴佩庆祝动作",
@@ -10441,6 +10657,14 @@
       "onboard_time": 1726741582,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147331,
+      "num": 147331,
+      "word": "iPhone16正式发售",
+      "onboard_time": 1726792701,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 147186,
@@ -11299,6 +11523,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 133541,
+      "num": 133541,
+      "word": "05后高中生已经开上飞机了",
+      "onboard_time": 1726792403,
+      "rank": 44,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 133210,
       "num": 128670,
       "word": "Makiyo恭喜欧弟再当爸",
@@ -11467,6 +11699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 130713,
+      "num": 130713,
+      "word": "iPhone16",
+      "onboard_time": 1726793661,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 130705,
       "num": 130705,
       "word": "陈哲远这哪是战损是在刀心啊",
@@ -11547,6 +11787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 129677,
+      "num": 129677,
+      "word": "iPhone16系列电池容量",
+      "onboard_time": 1726792821,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 129569,
       "num": 129569,
       "word": "周震南直播被粉丝套话",
@@ -11568,6 +11816,14 @@
       "word": "拿出奖章才发现网约车司机是真劳模",
       "onboard_time": 1726745242,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129155,
+      "num": 129155,
+      "word": "北京多区暴雨蓝色预警",
+      "onboard_time": 1726791560,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -11713,6 +11969,14 @@
       "onboard_time": 1726491499,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124489,
+      "num": 124489,
+      "word": "黑神话悟空销量已超2000万份",
+      "onboard_time": 1726793962,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 123941,
@@ -12393,14 +12657,6 @@
       "onboard_time": 1726418417,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 106367,
-      "num": 106367,
-      "word": "北京暴雨",
-      "onboard_time": 1726788557,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106316,
@@ -15219,6 +15475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18577,
+      "num": 1193889,
+      "word": "2024北京文化论坛",
+      "onboard_time": 1726715000,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18530,
       "num": 45398,
       "word": "中秋彩灯还是太全面了",
@@ -15440,14 +15704,6 @@
       "word": "人民军队淬火向前",
       "onboard_time": 1726081931,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8049,
-      "num": 1193889,
-      "word": "2024北京文化论坛",
-      "onboard_time": 1726715000,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
