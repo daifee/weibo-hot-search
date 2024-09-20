@@ -1,6 +1,6 @@
 {
   "startTime": 1726763246339,
-  "endTime": 1726821673770,
+  "endTime": 1726824397651,
   "band_list": [
     {
       "raw_hot": 2835519,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1553060,
+      "num": 1553060,
+      "word": "于正排四大花旦四小花旦",
+      "onboard_time": 1726819700,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1528897,
       "num": 1528897,
       "word": "网传高校教官和女生发生不雅行为",
@@ -107,12 +115,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1395703,
+      "num": 1395703,
+      "word": "3名硕士应聘宿舍管理员",
+      "onboard_time": 1726820001,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1363686,
+      "num": 1363686,
+      "word": "贵州黄平发生一起重大刑案",
+      "onboard_time": 1726821379,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1307808,
       "num": 1307808,
       "word": "恋与深空",
       "onboard_time": 1726802000,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1300649,
+      "num": 738761,
+      "word": "吴倩回应眼里没光了",
+      "onboard_time": 1726823361,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1287016,
@@ -129,14 +161,6 @@
       "onboard_time": 1726757064,
       "rank": 1,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1269254,
-      "num": 1269254,
-      "word": "于正排四大花旦四小花旦",
-      "onboard_time": 1726819700,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1208271,
@@ -235,6 +259,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 799558,
+      "num": 799558,
+      "word": "上海龙卷风",
+      "onboard_time": 1726822940,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 745269,
       "num": 596111,
       "word": "期待黄晓明第二个世纪婚礼",
@@ -284,7 +316,7 @@
     },
     {
       "raw_hot": 673831,
-      "num": 381346,
+      "num": 543840,
       "word": "贴身猥亵女生涉事男生放弃入学资格",
       "onboard_time": 1726817121,
       "rank": 40,
@@ -297,6 +329,14 @@
       "onboard_time": 1726800619,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 644640,
+      "num": 644640,
+      "word": "iPhone16第一批bug",
+      "onboard_time": 1726819341,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 638746,
@@ -321,6 +361,14 @@
       "onboard_time": 1726734087,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 598018,
+      "num": 598018,
+      "word": "白鹿活动生图",
+      "onboard_time": 1726822340,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 589840,
@@ -467,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 450057,
+      "num": 450057,
+      "word": "男子杀害女友和母亲带嫂嫂潜逃32年",
+      "onboard_time": 1726821921,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 404642,
       "num": 440053,
       "word": "北京暴雨",
@@ -523,6 +579,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 372040,
+      "num": 327688,
+      "word": "长得像宽面的人体寄生虫",
+      "onboard_time": 1726821440,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 369213,
       "num": 369213,
       "word": "LPR",
@@ -536,14 +600,6 @@
       "word": "家暴男子在离婚法庭上扛起妻子就跑",
       "onboard_time": 1726750822,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 347288,
-      "num": 347288,
-      "word": "3名硕士应聘宿舍管理员",
-      "onboard_time": 1726820001,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -683,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 300675,
+      "num": 300675,
+      "word": "叶县县委书记回应网传强拆果园",
+      "onboard_time": 1726819879,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300031,
       "num": 300031,
       "word": "魔道祖师",
@@ -728,14 +792,6 @@
       "word": "上海游泳馆站",
       "onboard_time": 1726799479,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 282787,
-      "num": 282787,
-      "word": "叶县县委书记回应网传强拆果园",
-      "onboard_time": 1726819879,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -801,14 +857,6 @@
       "onboard_time": 1726812800,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 262439,
-      "num": 262439,
-      "word": "iPhone16第一批bug",
-      "onboard_time": 1726819341,
-      "rank": 27,
-      "category": "数码"
     },
     {
       "raw_hot": 261382,
@@ -976,6 +1024,14 @@
       "word": "合肥震后村民拍下井水翻滚如煮开",
       "onboard_time": 1726805722,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228010,
+      "num": 228010,
+      "word": "老板疑用吸管吸酱骨头后继续卖",
+      "onboard_time": 1726822759,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1203,6 +1259,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 192780,
+      "num": 192780,
+      "word": "王一博米兰时装周",
+      "onboard_time": 1726823178,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 192738,
       "num": 1341723,
       "word": "青春华章",
@@ -1371,14 +1435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168717,
-      "num": 168717,
-      "word": "长得像宽面的人体寄生虫",
-      "onboard_time": 1726821440,
-      "rank": 39,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 167028,
       "num": 167028,
       "word": "折叠iPhone设计理念",
@@ -1419,19 +1475,19 @@
       "category": "网红"
     },
     {
+      "raw_hot": 158913,
+      "num": 158913,
+      "word": "法考",
+      "onboard_time": 1726822940,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 158102,
       "num": 158102,
       "word": "4岁男孩患上皮肤饥饿症",
       "onboard_time": 1726737506,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156804,
-      "num": 156804,
-      "word": "贵州黄平发生一起重大刑案",
-      "onboard_time": 1726821379,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1491,6 +1547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 153058,
+      "num": 153058,
+      "word": "中方不会立即全面恢复日水产品进口",
+      "onboard_time": 1726823361,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 151729,
       "num": 151729,
       "word": "贾玲李现同框看秀",
@@ -1499,12 +1563,44 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 151535,
+      "num": 599629,
+      "word": "中国将独立取样监测日方排海",
+      "onboard_time": 1726819700,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150757,
+      "num": 150757,
+      "word": "猫妈不愿主人将自己的娃送人",
+      "onboard_time": 1726823300,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 150114,
+      "num": 193597,
+      "word": "聊天里出现对了说明前面都错了",
+      "onboard_time": 1726823059,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149203,
       "num": 149203,
       "word": "蔡徐坤到了米兰就出门了",
       "onboard_time": 1726750762,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 148462,
+      "num": 148462,
+      "word": "178元美甲翻车变鬼画符丑甲",
+      "onboard_time": 1726822579,
+      "rank": 42,
+      "category": "美妆"
     },
     {
       "raw_hot": 148432,
@@ -1539,6 +1635,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 143283,
+      "num": 143283,
+      "word": "拔完智齿被狗子学了一整天",
+      "onboard_time": 1726822640,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139659,
       "num": 139659,
       "word": "过度节食减肥易导致胆囊疾病",
@@ -1553,6 +1657,14 @@
       "onboard_time": 1726796661,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138584,
+      "num": 138584,
+      "word": "飞天奖路透",
+      "onboard_time": 1726823659,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 138265,
@@ -1659,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126921,
+      "num": 126921,
+      "word": "这是迎风流泪的青春吧",
+      "onboard_time": 1726823960,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126791,
       "num": 126791,
       "word": "180斤7XL女孩当汉服模特月入过万",
@@ -1699,12 +1819,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114232,
-      "num": 599629,
-      "word": "中国将独立取样监测日方排海",
-      "onboard_time": 1726819700,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 116183,
+      "num": 116183,
+      "word": "尤长靖主动为陈楚生让宿舍",
+      "onboard_time": 1726822819,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 111723,
@@ -2059,6 +2179,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 54662,
+      "num": 739631,
+      "word": "黎巴嫩要求航班上禁携传呼机对讲机",
+      "onboard_time": 1726824319,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 54327,
       "num": 295398,
       "word": "欣花园日记",
@@ -2123,6 +2251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49275,
+      "num": 749478,
+      "word": "当地社区正调查小英婚姻和子女情况",
+      "onboard_time": 1726823419,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46120,
       "num": 313810,
       "word": "京东发起穿搭大赛",
@@ -2148,7 +2284,7 @@
     },
     {
       "raw_hot": 44822,
-      "num": 168835,
+      "num": 428699,
       "word": "被农学学霸的带货馋疯了",
       "onboard_time": 1726821202,
       "rank": 37,
@@ -2235,6 +2371,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 38169,
+      "num": 1370865,
+      "word": "北京文化论坛文艺晚会",
+      "onboard_time": 1726821740,
+      "rank": 2,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 37506,
       "num": 310428,
       "word": "北京适时取消普通非普通住宅标准",
@@ -2313,6 +2457,14 @@
       "onboard_time": 1726819520,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 33244,
+      "num": 161025,
+      "word": "让我看看谁还不知道金标大众",
+      "onboard_time": 1726823900,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 31762,
@@ -2457,6 +2609,14 @@
       "onboard_time": 1726777271,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17951,
+      "num": 298271,
+      "word": "贾玲看秀look",
+      "onboard_time": 1726822759,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 11592,
