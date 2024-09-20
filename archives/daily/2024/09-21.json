@@ -1,6 +1,6 @@
 {
   "startTime": 1726849656112,
-  "endTime": 1726860934523,
+  "endTime": 1726863848325,
   "band_list": [
     {
       "raw_hot": 4174876,
@@ -475,12 +475,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 28290,
-      "num": 28290,
+      "raw_hot": 32255,
+      "num": 32255,
       "word": "视频显示以军从楼顶扔巴勒斯坦人尸体",
       "onboard_time": 1726859351,
       "rank": 47,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 31381,
+      "num": 31381,
+      "word": "当爸爸妈妈开始养我的狗",
+      "onboard_time": 1726860193,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 28173,
@@ -507,20 +515,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21466,
-      "num": 23278,
-      "word": "当爸爸妈妈开始养我的狗",
-      "onboard_time": 1726860193,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 21085,
       "num": 24552,
       "word": "流水迢迢",
       "onboard_time": 1726832720,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17323,
+      "num": 19324,
+      "word": "黎巴嫩多起通讯设备爆炸大规模伤亡",
+      "onboard_time": 1726862592,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 17217,
+      "num": 19323,
+      "word": "黎巴嫩眼科医生发声",
+      "onboard_time": 1726863732,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 8809,
+      "num": 48042,
+      "word": "台风给江苏带来了绝美晚霞",
+      "onboard_time": 1726862831,
+      "rank": 9,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
