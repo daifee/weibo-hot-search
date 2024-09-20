@@ -1,0 +1,410 @@
+{
+  "runTime": 1726813823560,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1929155,
+        "num": 1929155,
+        "word": "黄晓明官宣最大的受害者出现了",
+        "onboard_time": 1726804702,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 785232,
+        "num": 785232,
+        "word": "强拆果园副县长被曝15岁参加工作",
+        "onboard_time": 1726811120,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12433,
+        "num": 765472,
+        "word": "新技术催生文化新潮流",
+        "onboard_time": 1726804940,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1583370,
+        "num": 763429,
+        "word": "陆虎嘘嘘五年内不考虑生小孩",
+        "onboard_time": 1726812080,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 755861,
+        "num": 755861,
+        "word": "向孩子举起屠刀的人十恶不赦",
+        "onboard_time": 1726805782,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617007,
+        "num": 617007,
+        "word": "精神医院排满了失眠中老年女性",
+        "onboard_time": 1726806622,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136981,
+        "num": 612385,
+        "word": "官方回应强拆果园的副县长15岁工作",
+        "onboard_time": 1726813400,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165176,
+        "num": 611054,
+        "word": "深圳学生被刺事件嫌疑人身份曝光",
+        "onboard_time": 1726813221,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51044,
+        "num": 603678,
+        "word": "聚焦地中海贫血患者的求职困境",
+        "onboard_time": 1726812141,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70012,
+        "num": 599069,
+        "word": "牙齿健康和寿命长短有关吗",
+        "onboard_time": 1726812262,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261382,
+        "num": 594476,
+        "word": "蔡康永 小S的长语音一条都不听",
+        "onboard_time": 1726810760,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 743690,
+        "num": 587470,
+        "word": "黄晓明自曝不喜欢比自己强的女生",
+        "onboard_time": 1726807343,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 587420,
+        "num": 587420,
+        "word": "黄牛拒收iPhone16Pro",
+        "onboard_time": 1726802960,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 35418,
+        "num": 519624,
+        "word": "新生军训头顶水瓶动作整齐惊艳全场",
+        "onboard_time": 1726813520,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246093,
+        "num": 495313,
+        "word": "男子自学后在葡萄园研制冰毒",
+        "onboard_time": 1726812201,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480813,
+        "num": 480813,
+        "word": "朱志鑫和易烊千玺立牌合照",
+        "onboard_time": 1726812141,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480769,
+        "num": 480769,
+        "word": "马雪阳谭咏雯官宣结婚",
+        "onboard_time": 1726812020,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70063,
+        "num": 461047,
+        "word": "袁文康闯进叔圈赛道了",
+        "onboard_time": 1726813520,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 456303,
+        "num": 456303,
+        "word": "100秒了解网红小英被曝塌房事件",
+        "onboard_time": 1726807522,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30480,
+        "num": 411057,
+        "word": "工作人员辟谣上海游泳馆地铁站被淹",
+        "onboard_time": 1726812981,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392558,
+        "num": 392558,
+        "word": "郑晓龙透露肖战藏海传新进展",
+        "onboard_time": 1726810582,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364192,
+        "num": 364192,
+        "word": "培训班老师发朋友圈家长觉得被阴阳",
+        "onboard_time": 1726812080,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352557,
+        "num": 352557,
+        "word": "何超盈瘦脱相",
+        "onboard_time": 1726798580,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341237,
+        "num": 341237,
+        "word": "男生猥亵女生被发现后悔求饶",
+        "onboard_time": 1726792821,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327348,
+        "num": 327348,
+        "word": "莎头捍卫国乒荣耀",
+        "onboard_time": 1726812201,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24747,
+        "num": 320011,
+        "word": "余承东称用户的包容激励华为进步",
+        "onboard_time": 1726810582,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 11330,
+        "num": 316633,
+        "word": "胡歌可隆品牌代言人",
+        "onboard_time": 1726808604,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46120,
+        "num": 313810,
+        "word": "京东发起穿搭大赛",
+        "onboard_time": 1726813041,
+        "rank": 27,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 313539,
+        "num": 313539,
+        "word": "原来黄晓明是给叶珂买猫",
+        "onboard_time": 1726794502,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293265,
+        "num": 293265,
+        "word": "男孩鼻子恶臭两年取出颗生锈螺丝",
+        "onboard_time": 1726803203,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349899,
+        "num": 278157,
+        "word": "大爷电梯大便被曝光后自杀",
+        "onboard_time": 1726813520,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262897,
+        "num": 262897,
+        "word": "JDG无畏租借至狼队",
+        "onboard_time": 1726812800,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 259397,
+        "num": 259397,
+        "word": "官方通报叶县强拆果园事件",
+        "onboard_time": 1726810461,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1287016,
+        "num": 256555,
+        "word": "中国籍女子在日本被抛尸荒野成白骨",
+        "onboard_time": 1726809680,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240831,
+        "num": 240831,
+        "word": "朋友圈实况图出现bug",
+        "onboard_time": 1726808961,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 232189,
+        "num": 232189,
+        "word": "哈利波特全八部内地重映",
+        "onboard_time": 1726805060,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 227134,
+        "num": 227134,
+        "word": "招行已开除涉58页PPT举报事件员工",
+        "onboard_time": 1726795221,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214509,
+        "num": 214509,
+        "word": "杨紫美式辣妹",
+        "onboard_time": 1726801100,
+        "rank": 37,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 213293,
+        "num": 213293,
+        "word": "王子奇出道七年可着三个人薅",
+        "onboard_time": 1726810281,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200072,
+        "num": 200072,
+        "word": "网红小英丈夫曾称是扮演坏人",
+        "onboard_time": 1726813581,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 199120,
+        "num": 199120,
+        "word": "我国成功发射一箭六星",
+        "onboard_time": 1726810743,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 195536,
+        "num": 195536,
+        "word": "王一博夜潜遇珊瑚",
+        "onboard_time": 1726812921,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194183,
+        "num": 194183,
+        "word": "蔡徐坤时尚先生封面",
+        "onboard_time": 1726812981,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 195518,
+        "num": 191747,
+        "word": "北方降温幅度可达12摄氏度",
+        "onboard_time": 1726800079,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44117,
+        "num": 185256,
+        "word": "华为三折叠深度评测",
+        "onboard_time": 1726809082,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 184072,
+        "num": 184072,
+        "word": "2024KPL年总大名单公布",
+        "onboard_time": 1726813736,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 178552,
+        "num": 178552,
+        "word": "报纸上的赵露思",
+        "onboard_time": 1726807222,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176249,
+        "num": 176249,
+        "word": "成年人见一面有多难",
+        "onboard_time": 1726810040,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170303,
+        "num": 170303,
+        "word": "腾讯提醒勿为实况图重装微信",
+        "onboard_time": 1726813160,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131579,
+        "num": 169889,
+        "word": "微博音乐盛典第一波阵容",
+        "onboard_time": 1726809261,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队淬火向前#"
+    }
+  }
+}

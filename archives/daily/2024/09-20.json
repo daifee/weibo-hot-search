@@ -1,6 +1,6 @@
 {
   "startTime": 1726763246339,
-  "endTime": 1726810725163,
+  "endTime": 1726813823560,
   "band_list": [
     {
       "raw_hot": 2835519,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1583370,
+      "num": 763429,
+      "word": "陆虎嘘嘘五年内不考虑生小孩",
+      "onboard_time": 1726812080,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1489821,
       "num": 1359884,
       "word": "何超盈瘦脱相",
@@ -81,6 +89,14 @@
       "onboard_time": 1726802000,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1287016,
+      "num": 766672,
+      "word": "中国籍女子在日本被抛尸荒野成白骨",
+      "onboard_time": 1726809680,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1271784,
@@ -163,11 +179,11 @@
       "category": "网红"
     },
     {
-      "raw_hot": 766672,
-      "num": 766672,
-      "word": "中国籍女子在日本被抛尸荒野成白骨",
-      "onboard_time": 1726809680,
-      "rank": 4,
+      "raw_hot": 785232,
+      "num": 785232,
+      "word": "强拆果园副县长被曝15岁参加工作",
+      "onboard_time": 1726811120,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -209,6 +225,14 @@
       "onboard_time": 1726803799,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 617007,
+      "num": 617007,
+      "word": "精神医院排满了失眠中老年女性",
+      "onboard_time": 1726806622,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 601276,
@@ -283,6 +307,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 480813,
+      "num": 480813,
+      "word": "朱志鑫和易烊千玺立牌合照",
+      "onboard_time": 1726812141,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 480769,
+      "num": 480769,
+      "word": "马雪阳谭咏雯官宣结婚",
+      "onboard_time": 1726812020,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 477152,
       "num": 477152,
       "word": "宋茜王鹤棣番位",
@@ -305,6 +345,14 @@
       "onboard_time": 1726791079,
       "rank": 10,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 456303,
+      "num": 456303,
+      "word": "100秒了解网红小英被曝塌房事件",
+      "onboard_time": 1726807522,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 404642,
@@ -339,6 +387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 392558,
+      "num": 392558,
+      "word": "郑晓龙透露肖战藏海传新进展",
+      "onboard_time": 1726810582,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 387732,
       "num": 387732,
       "word": "华为三折叠",
@@ -363,11 +419,27 @@
       "category": "财经"
     },
     {
+      "raw_hot": 364192,
+      "num": 364192,
+      "word": "培训班老师发朋友圈家长觉得被阴阳",
+      "onboard_time": 1726812080,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356833,
       "num": 331475,
       "word": "家暴男子在离婚法庭上扛起妻子就跑",
       "onboard_time": 1726750822,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 349899,
+      "num": 278157,
+      "word": "大爷电梯大便被曝光后自杀",
+      "onboard_time": 1726813520,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -384,14 +456,6 @@
       "word": "医院回应家属自带折叠床被没收",
       "onboard_time": 1726773311,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 336277,
-      "num": 400297,
-      "word": "精神医院排满了失眠中老年女性",
-      "onboard_time": 1726806622,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -435,6 +499,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 327348,
+      "num": 327348,
+      "word": "莎头捍卫国乒荣耀",
+      "onboard_time": 1726812201,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 325920,
       "num": 325920,
       "word": "WTT名单",
@@ -473,14 +545,6 @@
       "onboard_time": 1726807222,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 308885,
-      "num": 308885,
-      "word": "100秒了解网红小英被曝塌房事件",
-      "onboard_time": 1726807522,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 306591,
@@ -611,6 +675,30 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 262897,
+      "num": 262897,
+      "word": "JDG无畏租借至狼队",
+      "onboard_time": 1726812800,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 261382,
+      "num": 594476,
+      "word": "蔡康永 小S的长语音一条都不听",
+      "onboard_time": 1726810760,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 259397,
+      "num": 470921,
+      "word": "官方通报叶县强拆果园事件",
+      "onboard_time": 1726810461,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255659,
       "num": 255659,
       "word": "奶奶为防老鼠房间放满南瓜结果没防住",
@@ -635,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246093,
+      "num": 495313,
+      "word": "男子自学后在葡萄园研制冰毒",
+      "onboard_time": 1726812201,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242610,
       "num": 242610,
       "word": "LPL出征照",
@@ -649,6 +745,14 @@
       "onboard_time": 1726799899,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 240831,
+      "num": 240831,
+      "word": "朋友圈实况图出现bug",
+      "onboard_time": 1726808961,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 239874,
@@ -747,14 +851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 220710,
-      "num": 220710,
-      "word": "朋友圈实况图出现bug",
-      "onboard_time": 1726808961,
-      "rank": 42,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 220020,
       "num": 748459,
       "word": "商户有权在自家门店贴招聘信息吗",
@@ -811,14 +907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207310,
-      "num": 207310,
-      "word": "郑晓龙透露肖战藏海传新进展",
-      "onboard_time": 1726810582,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 205074,
       "num": 205074,
       "word": "黄晓明叶珂恋情时间线",
@@ -859,6 +947,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200072,
+      "num": 200072,
+      "word": "网红小英丈夫曾称是扮演坏人",
+      "onboard_time": 1726813581,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 199120,
+      "num": 199120,
+      "word": "我国成功发射一箭六星",
+      "onboard_time": 1726810743,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 196931,
       "num": 196931,
       "word": "赵丽颖咖色羊绒风衣",
@@ -875,12 +979,28 @@
       "category": "动漫,游戏"
     },
     {
+      "raw_hot": 195536,
+      "num": 195536,
+      "word": "王一博夜潜遇珊瑚",
+      "onboard_time": 1726812921,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 194186,
       "num": 194186,
       "word": "专家称学历贬值存在但仍是敲门砖",
       "onboard_time": 1726791683,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194183,
+      "num": 194183,
+      "word": "蔡徐坤时尚先生封面",
+      "onboard_time": 1726812981,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 188577,
@@ -905,6 +1025,14 @@
       "onboard_time": 1726802900,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 184072,
+      "num": 184072,
+      "word": "2024KPL年总大名单公布",
+      "onboard_time": 1726813736,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 183918,
@@ -939,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176249,
+      "num": 176249,
+      "word": "成年人见一面有多难",
+      "onboard_time": 1726810040,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175845,
       "num": 175845,
       "word": "宴遇永安阵容官宣",
@@ -971,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170303,
+      "num": 170303,
+      "word": "腾讯提醒勿为实况图重装微信",
+      "onboard_time": 1726813160,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 169754,
       "num": 169754,
       "word": "李宁大秀",
@@ -993,6 +1137,14 @@
       "onboard_time": 1726808902,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165176,
+      "num": 611054,
+      "word": "深圳学生被刺事件嫌疑人身份曝光",
+      "onboard_time": 1726813221,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162551,
@@ -1131,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136981,
+      "num": 612385,
+      "word": "官方回应强拆果园的副县长15岁工作",
+      "onboard_time": 1726813400,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134906,
       "num": 134906,
       "word": "女子称吃饭被店员私翻手机刷好评",
@@ -1163,20 +1323,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131579,
+      "num": 216993,
+      "word": "微博音乐盛典第一波阵容",
+      "onboard_time": 1726809261,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 130104,
       "num": 130104,
       "word": "Jennie解释室内吸烟道歉的原因",
       "onboard_time": 1726746561,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 129931,
-      "num": 470921,
-      "word": "官方通报叶县强拆果园事件",
-      "onboard_time": 1726810461,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129677,
@@ -1483,6 +1643,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70063,
+      "num": 461047,
+      "word": "袁文康闯进叔圈赛道了",
+      "onboard_time": 1726813520,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 70012,
+      "num": 599069,
+      "word": "牙齿健康和寿命长短有关吗",
+      "onboard_time": 1726812262,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69697,
       "num": 69697,
       "word": "大疆Action5Pro",
@@ -1595,6 +1771,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 51044,
+      "num": 603678,
+      "word": "聚焦地中海贫血患者的求职困境",
+      "onboard_time": 1726812141,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50412,
       "num": 50412,
       "word": "张大奕关店",
@@ -1603,12 +1787,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 45927,
-      "num": 216993,
-      "word": "微博音乐盛典第一波阵容",
-      "onboard_time": 1726809261,
-      "rank": 37,
-      "category": "音乐"
+      "raw_hot": 46120,
+      "num": 313810,
+      "word": "京东发起穿搭大赛",
+      "onboard_time": 1726813041,
+      "rank": 27,
+      "category": "时尚"
     },
     {
       "raw_hot": 45739,
@@ -1633,6 +1817,14 @@
       "onboard_time": 1726770253,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 44117,
+      "num": 299022,
+      "word": "华为三折叠深度评测",
+      "onboard_time": 1726809082,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 42799,
@@ -1675,14 +1867,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 38056,
-      "num": 299022,
-      "word": "华为三折叠深度评测",
-      "onboard_time": 1726809082,
-      "rank": 33,
-      "category": "数码"
-    },
-    {
       "raw_hot": 37506,
       "num": 310428,
       "word": "北京适时取消普通非普通住宅标准",
@@ -1692,7 +1876,7 @@
     },
     {
       "raw_hot": 37458,
-      "num": 196573,
+      "num": 320011,
       "word": "余承东称用户的包容激励华为进步",
       "onboard_time": 1726810582,
       "rank": 45,
@@ -1731,6 +1915,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 35418,
+      "num": 519624,
+      "word": "新生军训头顶水瓶动作整齐惊艳全场",
+      "onboard_time": 1726813520,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34118,
       "num": 39983,
       "word": "易烊千玺废土风大片",
@@ -1753,6 +1945,14 @@
       "onboard_time": 1726804281,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 30480,
+      "num": 411057,
+      "word": "工作人员辟谣上海游泳馆地铁站被淹",
+      "onboard_time": 1726812981,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29056,
