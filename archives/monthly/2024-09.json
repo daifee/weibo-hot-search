@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726850605190,
+  "endTime": 1726852740174,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -41601,6 +41601,14 @@
       "onboard_time": 1726299439,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143931,
+      "num": 143931,
+      "word": "2岁女童遭邻居持刀伤害后去世",
+      "onboard_time": 1726851377,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143894,
