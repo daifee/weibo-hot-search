@@ -1,0 +1,410 @@
+{
+  "runTime": 1726839520735,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1806181,
+        "num": 1806181,
+        "word": "陈乔恩Alan婚礼嘉宾名单",
+        "onboard_time": 1726836682,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417333,
+        "num": 1526080,
+        "word": "2025考研初试时间公布",
+        "onboard_time": 1726836800,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 33288,
+        "num": 1452305,
+        "word": "北京文化论坛文艺晚会",
+        "onboard_time": 1726821740,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1422400,
+        "num": 1422400,
+        "word": "微信好友添加时间",
+        "onboard_time": 1726826359,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 752247,
+        "num": 752247,
+        "word": "肖战 好听",
+        "onboard_time": 1726836020,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 360859,
+        "num": 712175,
+        "word": "因室友烧伤男生父母5次割皮为其植皮",
+        "onboard_time": 1726829360,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 698722,
+        "num": 698722,
+        "word": "男主写死了",
+        "onboard_time": 1726834220,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186177,
+        "num": 681289,
+        "word": "迎风的青春 癫剧",
+        "onboard_time": 1726838660,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23299,
+        "num": 675989,
+        "word": "以军空袭黎巴嫩首都",
+        "onboard_time": 1726839262,
+        "rank": 8,
+        "category": "社会新闻,国外时政"
+      },
+      {
+        "raw_hot": 108346,
+        "num": 675668,
+        "word": "外祖孙俩遭邻居行凶亲属最新发声",
+        "onboard_time": 1726836980,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675477,
+        "num": 675477,
+        "word": "黄晓明黄子韬 青岛特产黄氏霸总",
+        "onboard_time": 1726834820,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 666210,
+        "num": 666210,
+        "word": "还我李肆",
+        "onboard_time": 1726830258,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28349,
+        "num": 618633,
+        "word": "深蓝联合华为乾崑双拳出击",
+        "onboard_time": 1726837521,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 458689,
+        "num": 592483,
+        "word": "范思哲大秀",
+        "onboard_time": 1726836620,
+        "rank": 13,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 583124,
+        "num": 583124,
+        "word": "甜馨走秀",
+        "onboard_time": 1726835179,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484184,
+        "num": 484184,
+        "word": "吴倩回应眼里没光了",
+        "onboard_time": 1726823361,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27152,
+        "num": 398999,
+        "word": "极氪7X可城可野真SUV",
+        "onboard_time": 1726837460,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 374442,
+        "num": 374442,
+        "word": "车臣领导人声称车被马斯克远程锁住",
+        "onboard_time": 1726828760,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 347838,
+        "num": 347838,
+        "word": "梅姨案最后1个孩子家长重新采血",
+        "onboard_time": 1726837401,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67973,
+        "num": 345228,
+        "word": "刘冲镜头下的章泽天",
+        "onboard_time": 1726838482,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 463759,
+        "num": 330353,
+        "word": "黄晓明官宣最大的受害者出现了",
+        "onboard_time": 1726804702,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395267,
+        "num": 323578,
+        "word": "小英老公曾称干活都是他去做",
+        "onboard_time": 1726832000,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 361821,
+        "num": 318356,
+        "word": "赵丽颖 飞天奖",
+        "onboard_time": 1726828279,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310488,
+        "num": 310488,
+        "word": "泰州地震",
+        "onboard_time": 1726838539,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298541,
+        "num": 298541,
+        "word": "北京晚霞",
+        "onboard_time": 1726828701,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346240,
+        "num": 298488,
+        "word": "成年人提分手就像小鸡破壳",
+        "onboard_time": 1726837642,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23180,
+        "num": 298238,
+        "word": "腾势Z9GT科技重塑豪华",
+        "onboard_time": 1726837521,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 335584,
+        "num": 298151,
+        "word": "喻言被伯远淘汰",
+        "onboard_time": 1726838962,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294644,
+        "num": 297802,
+        "word": "杨玉环新皮肤",
+        "onboard_time": 1726837521,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 297796,
+        "num": 297796,
+        "word": "考研预报名推迟",
+        "onboard_time": 1726837821,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 281033,
+        "num": 281033,
+        "word": "安陵容当时吃了最少30粒苦杏仁",
+        "onboard_time": 1726838361,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280124,
+        "num": 280124,
+        "word": "女子被猫抓伤男友将猫乱棍打死",
+        "onboard_time": 1726834820,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265300,
+        "num": 265300,
+        "word": "中日共识与日本男童遇袭无关",
+        "onboard_time": 1726832539,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257490,
+        "num": 257490,
+        "word": "喻言 下一战歌手",
+        "onboard_time": 1726833319,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221126,
+        "num": 221126,
+        "word": "肖战出发澳门",
+        "onboard_time": 1726839381,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200546,
+        "num": 200546,
+        "word": "张艺凡疑似被换角",
+        "onboard_time": 1726826180,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195182,
+        "num": 195182,
+        "word": "张凌赫指导赵今麦掐脖吻",
+        "onboard_time": 1726834702,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186233,
+        "num": 186233,
+        "word": "白鹿直播",
+        "onboard_time": 1726837460,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180111,
+        "num": 180111,
+        "word": "宝妈带8岁儿子旅游在高速醉驾逆行",
+        "onboard_time": 1726830200,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160642,
+        "num": 160642,
+        "word": "iPhone16第一批bug",
+        "onboard_time": 1726819341,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 184652,
+        "num": 160606,
+        "word": "于正排四大花旦四小花旦",
+        "onboard_time": 1726819700,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184030,
+        "num": 160284,
+        "word": "翔霖",
+        "onboard_time": 1726830200,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171813,
+        "num": 160219,
+        "word": "水哥是真没知识瓶颈期啊",
+        "onboard_time": 1726838121,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159840,
+        "num": 159840,
+        "word": "长得像宽面的人体寄生虫",
+        "onboard_time": 1726821440,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 149429,
+        "num": 149429,
+        "word": "王楚钦人机感",
+        "onboard_time": 1726831580,
+        "rank": 44,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 146578,
+        "num": 146578,
+        "word": "中日就福岛核污染水排海达成4点共识",
+        "onboard_time": 1726816818,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 921455,
+        "num": 145504,
+        "word": "外祖孙俩遭邻居行凶女童已去世",
+        "onboard_time": 1726833680,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46273,
+        "num": 144692,
+        "word": "D级车在北京胡同横着走",
+        "onboard_time": 1726839442,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 24188,
+        "num": 144240,
+        "word": "青春当燃是这样",
+        "onboard_time": 1726739722,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144231,
+        "num": 144231,
+        "word": "曹杨翻唱多远都要在一起",
+        "onboard_time": 1726839442,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#庆祝人民政协成立75周年大会#"
+    }
+  }
+}
