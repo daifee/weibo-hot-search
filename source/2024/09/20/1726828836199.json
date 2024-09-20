@@ -1,0 +1,410 @@
+{
+  "runTime": 1726828836199,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2573223,
+        "num": 2573223,
+        "word": "微信好友添加时间",
+        "onboard_time": 1726826359,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1174778,
+        "num": 1174778,
+        "word": "吴倩回应眼里没光了",
+        "onboard_time": 1726823361,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27092,
+        "num": 1140029,
+        "word": "青春华章",
+        "onboard_time": 1726819520,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1106688,
+        "num": 1106688,
+        "word": "唐山打人案被判刑民警明确申诉诉求",
+        "onboard_time": 1726826061,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 927191,
+        "num": 927191,
+        "word": "上海龙卷风",
+        "onboard_time": 1726822940,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 905005,
+        "num": 905005,
+        "word": "于正排四大花旦四小花旦",
+        "onboard_time": 1726819700,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 820315,
+        "num": 820315,
+        "word": "贵州黄平发生一起重大刑案",
+        "onboard_time": 1726821379,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805491,
+        "num": 805491,
+        "word": "黄晓明官宣最大的受害者出现了",
+        "onboard_time": 1726804702,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 668744,
+        "num": 668744,
+        "word": "3名硕士应聘宿舍管理员",
+        "onboard_time": 1726820001,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393853,
+        "num": 613997,
+        "word": "中日就福岛核污染水排海达成4点共识",
+        "onboard_time": 1726816818,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589921,
+        "num": 589921,
+        "word": "王楚钦直播",
+        "onboard_time": 1726827200,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 553157,
+        "num": 553157,
+        "word": "张艺凡疑似被换角",
+        "onboard_time": 1726826180,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 405815,
+        "num": 405815,
+        "word": "iPhone16第一批bug",
+        "onboard_time": 1726819341,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 373887,
+        "num": 373887,
+        "word": "赵丽颖 飞天奖",
+        "onboard_time": 1726828279,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 361001,
+        "num": 361001,
+        "word": "易烊千玺注册做过几天外卖骑手",
+        "onboard_time": 1726825399,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 303694,
+        "num": 303694,
+        "word": "官方正调查小英被曝曾送养两个女孩",
+        "onboard_time": 1726818080,
+        "rank": 15,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 283489,
+        "num": 283489,
+        "word": "逆水寒马面裙",
+        "onboard_time": 1726827619,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 277263,
+        "num": 277263,
+        "word": "白鹿活动生图",
+        "onboard_time": 1726822340,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69805,
+        "num": 266471,
+        "word": "胡歌 铁打的顶流",
+        "onboard_time": 1726827679,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265277,
+        "num": 265277,
+        "word": "向孩子举起屠刀的人十恶不赦",
+        "onboard_time": 1726805782,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340672,
+        "num": 265099,
+        "word": "男子杀害女友和母亲带嫂嫂潜逃32年",
+        "onboard_time": 1726821921,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266274,
+        "num": 261246,
+        "word": "长得像宽面的人体寄生虫",
+        "onboard_time": 1726821440,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 47228,
+        "num": 257044,
+        "word": "让我看看谁还不知道金标大众",
+        "onboard_time": 1726823900,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 265308,
+        "num": 253414,
+        "word": "陆虎嘘嘘五年内不考虑生小孩",
+        "onboard_time": 1726812080,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251573,
+        "num": 251573,
+        "word": "男子养2条活体mini鳄鱼当茶宠",
+        "onboard_time": 1726815260,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222361,
+        "num": 222361,
+        "word": "黄晓明自曝不喜欢比自己强的女生",
+        "onboard_time": 1726807343,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214066,
+        "num": 214066,
+        "word": "看完理解张桂梅因女孩重回大山嫁人生气",
+        "onboard_time": 1726826180,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213106,
+        "num": 213106,
+        "word": "车臣领导人声称车被马斯克远程锁住",
+        "onboard_time": 1726828760,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 210065,
+        "num": 210065,
+        "word": "贴身猥亵女生涉事男生放弃入学资格",
+        "onboard_time": 1726817121,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192508,
+        "num": 192508,
+        "word": "蔡徐坤很难百分百地理解自己",
+        "onboard_time": 1726827800,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189329,
+        "num": 189329,
+        "word": "老板疑用吸管吸酱骨头后继续卖",
+        "onboard_time": 1726822759,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183186,
+        "num": 183186,
+        "word": "景区将流浪猫放在人造孤岛供游客打卡",
+        "onboard_time": 1726827078,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180364,
+        "num": 180364,
+        "word": "叶县县委书记回应网传强拆果园",
+        "onboard_time": 1726819879,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23258,
+        "num": 178380,
+        "word": "华为轮值董事长首谈引望战略",
+        "onboard_time": 1726826780,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 178179,
+        "num": 178179,
+        "word": "中方不会立即全面恢复日水产品进口",
+        "onboard_time": 1726823361,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166447,
+        "num": 166447,
+        "word": "北京晚霞",
+        "onboard_time": 1726828701,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23361,
+        "num": 164898,
+        "word": "钛餐厨具是不是智商税",
+        "onboard_time": 1726825820,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 164474,
+        "num": 164474,
+        "word": "哈利波特",
+        "onboard_time": 1726826118,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162563,
+        "num": 162563,
+        "word": "逐步恢复符合规准的日本水产品进口",
+        "onboard_time": 1726815382,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159592,
+        "num": 159592,
+        "word": "胡歌唐嫣飞天奖坐一起",
+        "onboard_time": 1726826419,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159344,
+        "num": 159344,
+        "word": "油价",
+        "onboard_time": 1726828100,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 145463,
+        "num": 145463,
+        "word": "医生谈穿lululemon做核磁或被灼伤",
+        "onboard_time": 1726816818,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144958,
+        "num": 144958,
+        "word": "178元美甲翻车变鬼画符丑甲",
+        "onboard_time": 1726822579,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 143577,
+        "num": 143577,
+        "word": "尹净汉见面会",
+        "onboard_time": 1726826661,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143295,
+        "num": 143295,
+        "word": "女童走失跟着送上外卖了",
+        "onboard_time": 1726828401,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135011,
+        "num": 135011,
+        "word": "孙杨谈复出首秀夺冠感谢自己一直坚持",
+        "onboard_time": 1726828701,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134576,
+        "num": 134576,
+        "word": "斯瓦泰克退出中网",
+        "onboard_time": 1726828701,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134117,
+        "num": 134117,
+        "word": "培训班老师发朋友圈家长觉得被阴阳",
+        "onboard_time": 1726812080,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132101,
+        "num": 132101,
+        "word": "云南一高校后勤招宿管6名硕士应聘",
+        "onboard_time": 1726828760,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23090,
+        "num": 129275,
+        "word": "白鹿上海活动",
+        "onboard_time": 1726828819,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队淬火向前#"
+    }
+  }
+}

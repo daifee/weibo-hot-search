@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726827805171,
+  "endTime": 1726828836199,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -209,6 +209,14 @@
       "onboard_time": 1726390638,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2573223,
+      "num": 2573223,
+      "word": "微信好友添加时间",
+      "onboard_time": 1726826359,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 2515086,
@@ -1329,14 +1337,6 @@
       "onboard_time": 1726375879,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1139390,
-      "num": 1139390,
-      "word": "微信好友添加时间",
-      "onboard_time": 1726826359,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 1134335,
@@ -3019,6 +3019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 589921,
+      "num": 589921,
+      "word": "王楚钦直播",
+      "onboard_time": 1726827200,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 589840,
       "num": 589840,
       "word": "逐步恢复符合规准的日本水产品进口",
@@ -3193,6 +3201,14 @@
       "onboard_time": 1726402762,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 553157,
+      "num": 553157,
+      "word": "张艺凡疑似被换角",
+      "onboard_time": 1726826180,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 552789,
@@ -3769,14 +3785,6 @@
       "onboard_time": 1726812141,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 479172,
-      "num": 479172,
-      "word": "张艺凡疑似被换角",
-      "onboard_time": 1726826180,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 477396,
@@ -4587,6 +4595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 373887,
+      "num": 373887,
+      "word": "赵丽颖 飞天奖",
+      "onboard_time": 1726828279,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 373400,
       "num": 437342,
       "word": "台风普拉桑将在浙江上海一带再次登陆",
@@ -4737,6 +4753,14 @@
       "onboard_time": 1726727900,
       "rank": 34,
       "category": "网红"
+    },
+    {
+      "raw_hot": 361001,
+      "num": 361001,
+      "word": "易烊千玺注册做过几天外卖骑手",
+      "onboard_time": 1726825399,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 360720,
@@ -5947,6 +5971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283489,
+      "num": 283489,
+      "word": "逆水寒马面裙",
+      "onboard_time": 1726827619,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 283219,
       "num": 283219,
       "word": "孙颖莎王楚钦王曼昱送中秋祝福",
@@ -6137,14 +6169,6 @@
       "onboard_time": 1726379658,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 271535,
-      "num": 271535,
-      "word": "王楚钦直播",
-      "onboard_time": 1726827200,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 271281,
@@ -6609,14 +6633,6 @@
       "onboard_time": 1726797620,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 255573,
-      "num": 255573,
-      "word": "易烊千玺注册做过几天外卖骑手",
-      "onboard_time": 1726825399,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 254675,
@@ -7841,6 +7857,14 @@
       "onboard_time": 1726353494,
       "rank": 21,
       "category": "运动健身,健康医疗"
+    },
+    {
+      "raw_hot": 213106,
+      "num": 213106,
+      "word": "车臣领导人声称车被马斯克远程锁住",
+      "onboard_time": 1726828760,
+      "rank": 27,
+      "category": "国外时政"
     },
     {
       "raw_hot": 212740,
@@ -9139,6 +9163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 192508,
+      "num": 192508,
+      "word": "蔡徐坤很难百分百地理解自己",
+      "onboard_time": 1726827800,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 192160,
       "num": 192160,
       "word": "美诚月饼曾宣称与米其林厨师合作",
@@ -9680,6 +9712,14 @@
       "word": "新警一条朋友圈收获400多个点赞",
       "onboard_time": 1726706960,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183186,
+      "num": 183186,
+      "word": "景区将流浪猫放在人造孤岛供游客打卡",
+      "onboard_time": 1726827078,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -10571,6 +10611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166447,
+      "num": 166447,
+      "word": "北京晚霞",
+      "onboard_time": 1726828701,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166399,
       "num": 166399,
       "word": "小杨哥带货为何频频翻车",
@@ -10681,6 +10729,14 @@
       "onboard_time": 1726543399,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164474,
+      "num": 164474,
+      "word": "哈利波特",
+      "onboard_time": 1726826118,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 164380,
@@ -11043,6 +11099,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 159344,
+      "num": 159344,
+      "word": "油价",
+      "onboard_time": 1726828100,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 159231,
       "num": 159231,
       "word": "你的中秋记忆",
@@ -11121,14 +11185,6 @@
       "onboard_time": 1726371258,
       "rank": 39,
       "category": "教育"
-    },
-    {
-      "raw_hot": 158302,
-      "num": 158302,
-      "word": "逆水寒马面裙",
-      "onboard_time": 1726827619,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 158229,
@@ -12099,20 +12155,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143295,
+      "num": 143295,
+      "word": "女童走失跟着送上外卖了",
+      "onboard_time": 1726828401,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143283,
       "num": 143283,
       "word": "拔完智齿被狗子学了一整天",
       "onboard_time": 1726822640,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 143235,
-      "num": 143235,
-      "word": "哈利波特",
-      "onboard_time": 1726826118,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 143166,
@@ -12587,14 +12643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136533,
-      "num": 136533,
-      "word": "景区将流浪猫放在人造孤岛供游客打卡",
-      "onboard_time": 1726827078,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136484,
       "num": 136484,
       "word": "爸爸砌猪圈给21岁女儿养猪解压",
@@ -12641,6 +12689,14 @@
       "onboard_time": 1726442535,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 135011,
+      "num": 135011,
+      "word": "孙杨谈复出首秀夺冠感谢自己一直坚持",
+      "onboard_time": 1726828701,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 134996,
@@ -12712,6 +12768,14 @@
       "word": "梁王组合公开赛训练",
       "onboard_time": 1726467858,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 134576,
+      "num": 134576,
+      "word": "斯瓦泰克退出中网",
+      "onboard_time": 1726828701,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -12897,6 +12961,14 @@
       "onboard_time": 1726540760,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 132101,
+      "num": 132101,
+      "word": "云南一高校后勤招宿管6名硕士应聘",
+      "onboard_time": 1726828760,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131986,
@@ -14955,6 +15027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69805,
+      "num": 410706,
+      "word": "胡歌 铁打的顶流",
+      "onboard_time": 1726827679,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69744,
       "num": 414829,
       "word": "田曦薇齐刘海九宫格",
@@ -16948,7 +17028,7 @@
     },
     {
       "raw_hot": 26765,
-      "num": 160242,
+      "num": 164898,
       "word": "钛餐厨具是不是智商税",
       "onboard_time": 1726825820,
       "rank": 38,
@@ -17073,6 +17153,14 @@
       "onboard_time": 1726343471,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23090,
+      "num": 129275,
+      "word": "白鹿上海活动",
+      "onboard_time": 1726828819,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 23068,
@@ -17481,14 +17569,6 @@
       "onboard_time": 1726081931,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9071,
-      "num": 410706,
-      "word": "胡歌 铁打的顶流",
-      "onboard_time": 1726827679,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 5972,
