@@ -1,0 +1,410 @@
+{
+  "runTime": 1726846660851,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1728627,
+        "num": 1728627,
+        "word": "女子离婚后中500万被诉前夫获200万",
+        "onboard_time": 1726841600,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1280133,
+        "num": 1280133,
+        "word": "男主写死了",
+        "onboard_time": 1726834220,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39049,
+        "num": 1097572,
+        "word": "北京文化论坛文艺晚会",
+        "onboard_time": 1726821740,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 982894,
+        "num": 982894,
+        "word": "微信好友添加时间",
+        "onboard_time": 1726826359,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 552731,
+        "num": 552731,
+        "word": "黎巴嫩人害怕爆炸不敢用手机",
+        "onboard_time": 1726839861,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 489225,
+        "num": 489225,
+        "word": "梅姨案最后1个孩子家长重新采血",
+        "onboard_time": 1726837401,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 919815,
+        "num": 487488,
+        "word": "陈乔恩Alan婚礼嘉宾名单",
+        "onboard_time": 1726836682,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100492,
+        "num": 478911,
+        "word": "日本首相称中国将派员到福岛检测核污水",
+        "onboard_time": 1726845081,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475489,
+        "num": 475489,
+        "word": "Scout发文回应",
+        "onboard_time": 1726844720,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 459932,
+        "num": 459932,
+        "word": "田曦薇时装周造型",
+        "onboard_time": 1726839681,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 22873,
+        "num": 439379,
+        "word": "郑北向姜小海开枪",
+        "onboard_time": 1726843041,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1075878,
+        "num": 437571,
+        "word": "美14岁少女弑母后设圈套枪击继父",
+        "onboard_time": 1726841840,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428540,
+        "num": 428540,
+        "word": "安陵容当时吃了最少30粒苦杏仁",
+        "onboard_time": 1726838361,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56345,
+        "num": 426927,
+        "word": "为何药店亏损不停但还在扩张",
+        "onboard_time": 1726846040,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66192,
+        "num": 426368,
+        "word": "上海确认出现短时龙卷风",
+        "onboard_time": 1726844899,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426302,
+        "num": 426302,
+        "word": "吴倩回应眼里没光了",
+        "onboard_time": 1726823361,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 400138,
+        "num": 400138,
+        "word": "全红婵归队",
+        "onboard_time": 1726843342,
+        "rank": 16,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 373901,
+        "num": 373901,
+        "word": "金秋天好辣",
+        "onboard_time": 1726844840,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 312382,
+        "num": 312382,
+        "word": "中日共识与日本男童遇袭无关",
+        "onboard_time": 1726832539,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175533,
+        "num": 302603,
+        "word": "高空抛大便砸中1楼警方测全楼DNA",
+        "onboard_time": 1726845861,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269207,
+        "num": 302545,
+        "word": "泰州地震",
+        "onboard_time": 1726838539,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302532,
+        "num": 302532,
+        "word": "安徽亳州石像掉落11岁孩子被砸身亡",
+        "onboard_time": 1726844061,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290157,
+        "num": 290157,
+        "word": "银行工作人员也开始街头发传单了",
+        "onboard_time": 1726842562,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276675,
+        "num": 276675,
+        "word": "甜馨走秀",
+        "onboard_time": 1726835179,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275192,
+        "num": 275192,
+        "word": "喻言被伯远淘汰",
+        "onboard_time": 1726838962,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258738,
+        "num": 258738,
+        "word": "我赴黎维和部队营区周边发生航弹爆炸",
+        "onboard_time": 1726843581,
+        "rank": 25,
+        "category": "社会新闻,国外时政"
+      },
+      {
+        "raw_hot": 247210,
+        "num": 247210,
+        "word": "广东最低气温将降至23度",
+        "onboard_time": 1726842859,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236296,
+        "num": 236296,
+        "word": "Hanni露背装",
+        "onboard_time": 1726846040,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235045,
+        "num": 235045,
+        "word": "肖战出发澳门",
+        "onboard_time": 1726839381,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210829,
+        "num": 210829,
+        "word": "郑州8级以上雷暴大风",
+        "onboard_time": 1726842621,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206551,
+        "num": 206551,
+        "word": "小英老公曾称干活都是他去做",
+        "onboard_time": 1726832000,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 203895,
+        "num": 203895,
+        "word": "因室友烧伤男生父母5次割皮为其植皮",
+        "onboard_time": 1726829360,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201822,
+        "num": 201822,
+        "word": "天秤座生日快乐",
+        "onboard_time": 1726839080,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210806,
+        "num": 201664,
+        "word": "肖战 好听",
+        "onboard_time": 1726836020,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194291,
+        "num": 194291,
+        "word": "胡明轩绝杀",
+        "onboard_time": 1726840880,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186744,
+        "num": 186744,
+        "word": "白鹿玫瑰烟熏妆",
+        "onboard_time": 1726843221,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181750,
+        "num": 181750,
+        "word": "黄晓明官宣最大的受害者出现了",
+        "onboard_time": 1726804702,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172775,
+        "num": 172775,
+        "word": "宝马因销量重返价格战",
+        "onboard_time": 1726840042,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 171732,
+        "num": 171732,
+        "word": "梅姨",
+        "onboard_time": 1726844963,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169357,
+        "num": 169357,
+        "word": "北京晚霞",
+        "onboard_time": 1726828701,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152910,
+        "num": 152910,
+        "word": "赵丽颖 飞天奖",
+        "onboard_time": 1726828279,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150559,
+        "num": 150559,
+        "word": "范思哲大秀",
+        "onboard_time": 1726836620,
+        "rank": 41,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 150071,
+        "num": 150071,
+        "word": "考研预报名推迟",
+        "onboard_time": 1726837821,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 149074,
+        "num": 149074,
+        "word": "黄晓明黄子韬 青岛特产黄氏霸总",
+        "onboard_time": 1726834820,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148100,
+        "num": 148100,
+        "word": "还我李肆",
+        "onboard_time": 1726830258,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52359,
+        "num": 142381,
+        "word": "胶布封嘴已经突破惩戒学生的边界",
+        "onboard_time": 1726844541,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139029,
+        "num": 139029,
+        "word": "涵艺爆料Scout钱凑齐了",
+        "onboard_time": 1726846340,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138422,
+        "num": 138422,
+        "word": "50岁退休女儿全职照顾81岁痴呆母亲",
+        "onboard_time": 1726844181,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25324,
+        "num": 134559,
+        "word": "极氪7X无图NZP提前公测",
+        "onboard_time": 1726841300,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 133362,
+        "num": 133362,
+        "word": "张艺凡疑似被换角",
+        "onboard_time": 1726826180,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#庆祝人民政协成立75周年大会#"
+    }
+  }
+}
