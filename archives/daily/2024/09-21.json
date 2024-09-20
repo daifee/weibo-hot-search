@@ -1,6 +1,6 @@
 {
   "startTime": 1726849656112,
-  "endTime": 1726864634497,
+  "endTime": 1726867222815,
   "band_list": [
     {
       "raw_hot": 4174876,
@@ -427,6 +427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 72042,
+      "num": 72042,
+      "word": "黎巴嫩眼科医生发声",
+      "onboard_time": 1726863732,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 56233,
       "num": 56233,
       "word": "翔霖",
@@ -491,6 +499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 28343,
+      "num": 28343,
+      "word": "黎巴嫩多起通讯设备爆炸大规模伤亡",
+      "onboard_time": 1726862592,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 28173,
       "num": 28173,
       "word": "蔡徐坤米兰打卡粉丝应援大屏",
@@ -515,12 +531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22444,
-      "num": 53251,
-      "word": "黎巴嫩眼科医生发声",
-      "onboard_time": 1726863732,
-      "rank": 49,
-      "category": "国外时政"
+      "raw_hot": 22477,
+      "num": 22477,
+      "word": "余华说喜欢人类幼崽但从来不催婚",
+      "onboard_time": 1726865351,
+      "rank": 34,
+      "category": "读书作家"
     },
     {
       "raw_hot": 21085,
@@ -531,18 +547,18 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19722,
-      "num": 19722,
-      "word": "黎巴嫩多起通讯设备爆炸大规模伤亡",
-      "onboard_time": 1726862592,
-      "rank": 48,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 11364,
+      "raw_hot": 20102,
       "num": 48042,
       "word": "台风给江苏带来了绝美晚霞",
       "onboard_time": 1726862831,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11658,
+      "num": 55658,
+      "word": "如何让电动自行车跑得更稳",
+      "onboard_time": 1726866551,
       "rank": 9,
       "category": "社会新闻"
     }
