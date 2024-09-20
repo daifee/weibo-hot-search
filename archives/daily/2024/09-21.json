@@ -1,6 +1,6 @@
 {
   "startTime": 1726849656112,
-  "endTime": 1726859911634,
+  "endTime": 1726860934523,
   "band_list": [
     {
       "raw_hot": 4174876,
@@ -467,12 +467,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 29666,
-      "num": 29666,
+      "raw_hot": 35151,
+      "num": 35151,
       "word": "刘冲和赵露思合照",
       "onboard_time": 1726857733,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 28290,
+      "num": 28290,
+      "word": "视频显示以军从楼顶扔巴勒斯坦人尸体",
+      "onboard_time": 1726859351,
+      "rank": 47,
+      "category": "国外时政"
     },
     {
       "raw_hot": 28173,
@@ -499,12 +507,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22081,
-      "num": 24556,
-      "word": "视频显示以军从楼顶扔巴勒斯坦人尸体",
-      "onboard_time": 1726859351,
-      "rank": 47,
-      "category": "国外时政"
+      "raw_hot": 21466,
+      "num": 23278,
+      "word": "当爸爸妈妈开始养我的狗",
+      "onboard_time": 1726860193,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 21085,
