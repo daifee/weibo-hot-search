@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726797362019,
+  "endTime": 1726800620568,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -580,7 +580,7 @@
     },
     {
       "raw_hot": 1620323,
-      "num": 238352,
+      "num": 276949,
       "word": "招行已开除涉58页PPT举报事件员工",
       "onboard_time": 1726795221,
       "rank": 20,
@@ -704,6 +704,14 @@
       "word": "鹿晗连续八年为关晓彤庆生",
       "onboard_time": 1726527854,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1489821,
+      "num": 628109,
+      "word": "何超盈瘦脱相",
+      "onboard_time": 1726798580,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -2531,6 +2539,14 @@
       "category": "社会新闻,游戏"
     },
     {
+      "raw_hot": 619859,
+      "num": 619859,
+      "word": "iPhone16ProMax最高加价1200元",
+      "onboard_time": 1726797379,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 618721,
       "num": 618721,
       "word": "87元一晚酒店台风期间涨至600元",
@@ -3145,6 +3161,14 @@
       "onboard_time": 1726365558,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 514977,
+      "num": 421488,
+      "word": "上减肥课发现教练是世界冠军",
+      "onboard_time": 1726796960,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 514270,
@@ -3883,6 +3907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 404642,
+      "num": 404642,
+      "word": "北京暴雨",
+      "onboard_time": 1726788557,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 403924,
       "num": 324595,
       "word": "葛晓倩晒与袁巴元聊天记录",
@@ -4412,7 +4444,7 @@
     },
     {
       "raw_hot": 351626,
-      "num": 351626,
+      "num": 439840,
       "word": "黎巴嫩初步调查通信设备爆炸事件",
       "onboard_time": 1726795880,
       "rank": 15,
@@ -4681,6 +4713,14 @@
       "onboard_time": 1726325842,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331225,
+      "num": 271579,
+      "word": "研究发现少一颗牙大脑衰老近一岁",
+      "onboard_time": 1726795581,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 331216,
@@ -5027,6 +5067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 304041,
+      "num": 304041,
+      "word": "周深鸟巢准备了13万份伴手礼",
+      "onboard_time": 1726790660,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 303658,
       "num": 235342,
       "word": "被辞退时四不签三不说",
@@ -5049,6 +5097,14 @@
       "onboard_time": 1726619841,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 302959,
+      "num": 302959,
+      "word": "19名硕士博士助力泡菜卖了220亿",
+      "onboard_time": 1726799059,
+      "rank": 16,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 302903,
@@ -5113,14 +5169,6 @@
       "onboard_time": 1726582643,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 299910,
-      "num": 299910,
-      "word": "周深鸟巢准备了13万份伴手礼",
-      "onboard_time": 1726790660,
-      "rank": 14,
-      "category": "演出"
     },
     {
       "raw_hot": 299700,
@@ -5523,6 +5571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 277792,
+      "num": 277792,
+      "word": "王俊凯 我现在强得可怕",
+      "onboard_time": 1726797379,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 275643,
       "num": 275643,
       "word": "一鹿彤行",
@@ -5553,14 +5609,6 @@
       "onboard_time": 1726701436,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 273592,
-      "num": 273592,
-      "word": "北京暴雨",
-      "onboard_time": 1726788557,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 272249,
@@ -5641,6 +5689,14 @@
       "onboard_time": 1726479679,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268864,
+      "num": 268864,
+      "word": "华为三折叠",
+      "onboard_time": 1726799420,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 268400,
@@ -6035,6 +6091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253985,
+      "num": 253985,
+      "word": "上海游泳馆站",
+      "onboard_time": 1726799479,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253983,
       "num": 223946,
       "word": "狗子啃黄景瑜啃掉一颗牙",
@@ -6065,6 +6129,14 @@
       "onboard_time": 1726710978,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252533,
+      "num": 252533,
+      "word": "3天穿同一件衣服出镜官员回应道歉",
+      "onboard_time": 1726800079,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251908,
@@ -6179,6 +6251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 247358,
+      "num": 247358,
+      "word": "奶奶为防老鼠房间放满南瓜结果没防住",
+      "onboard_time": 1726797620,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247221,
       "num": 247221,
       "word": "苹果客服回应iOS18相册被吐槽",
@@ -6193,14 +6273,6 @@
       "onboard_time": 1726753762,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 246418,
-      "num": 197941,
-      "word": "研究发现少一颗牙大脑衰老近一岁",
-      "onboard_time": 1726795581,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 246322,
@@ -6481,6 +6553,14 @@
       "onboard_time": 1726646059,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 238445,
+      "num": 253200,
+      "word": "王鹤棣宋茜合作星河入梦",
+      "onboard_time": 1726800140,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 237833,
@@ -7067,6 +7147,14 @@
       "category": "运动健身,健康医疗"
     },
     {
+      "raw_hot": 213052,
+      "num": 213052,
+      "word": "郑雅娴和粉丝用中文暗度陈仓",
+      "onboard_time": 1726799899,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212740,
       "num": 212740,
       "word": "KPL年度总决赛赛程赛制公布",
@@ -7377,6 +7465,14 @@
       "onboard_time": 1726722749,
       "rank": 45,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 205615,
+      "num": 269463,
+      "word": "北方降温幅度可达12摄氏度",
+      "onboard_time": 1726800079,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205292,
@@ -9147,6 +9243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173249,
+      "num": 173249,
+      "word": "百万粉丝博主吐槽iPhone16不稳",
+      "onboard_time": 1726796241,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 173040,
       "num": 173040,
       "word": "WBG8淘汰吃鸡",
@@ -9179,12 +9283,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172614,
+      "num": 172614,
+      "word": "AI画出了中国风的硕果累累",
+      "onboard_time": 1726800199,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172575,
       "num": 172575,
       "word": "田曦薇黑色短裤搭皮靴",
       "onboard_time": 1726586720,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 172537,
+      "num": 172537,
+      "word": "大连思科被曝裁员赔偿N+7",
+      "onboard_time": 1726800258,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172374,
@@ -9675,6 +9795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163048,
+      "num": 163048,
+      "word": "58页PPT被举报管培生被开除党籍",
+      "onboard_time": 1726797079,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163018,
       "num": 163018,
       "word": "左奇函 分享之前约定的十五张照片",
@@ -9921,6 +10049,14 @@
       "onboard_time": 1726714580,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 159467,
+      "num": 159467,
+      "word": "小英称自己顺其自然",
+      "onboard_time": 1726796420,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 159231,
@@ -10315,14 +10451,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 154616,
-      "num": 154616,
-      "word": "小英称自己顺其自然",
-      "onboard_time": 1726796420,
-      "rank": 30,
-      "category": "网红"
-    },
-    {
       "raw_hot": 154590,
       "num": 154590,
       "word": "密室大逃脱大神版",
@@ -10595,22 +10723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 148526,
-      "num": 148526,
-      "word": "上减肥课发现教练是世界冠军",
-      "onboard_time": 1726796960,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148513,
-      "num": 148513,
-      "word": "百万粉丝博主吐槽iPhone16不稳",
-      "onboard_time": 1726796241,
-      "rank": 34,
-      "category": "数码"
-    },
-    {
       "raw_hot": 148434,
       "num": 148434,
       "word": "中秋月亮超级月亮双倍圆满",
@@ -10721,6 +10833,14 @@
       "onboard_time": 1726391598,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 146242,
+      "num": 146242,
+      "word": "丫丫炫苹果炫出清脆一声",
+      "onboard_time": 1726798098,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145693,
@@ -11003,6 +11123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142072,
+      "num": 142072,
+      "word": "iPhone16",
+      "onboard_time": 1726793661,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 141931,
       "num": 141931,
       "word": "陈好人间清醒",
@@ -11169,6 +11297,14 @@
       "onboard_time": 1726473560,
       "rank": 40,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 139415,
+      "num": 139415,
+      "word": "三里屯苹果店暴雨中大排长龙",
+      "onboard_time": 1726800501,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 139210,
@@ -11731,14 +11867,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 130713,
-      "num": 130713,
-      "word": "iPhone16",
-      "onboard_time": 1726793661,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
       "raw_hot": 130705,
       "num": 130705,
       "word": "陈哲远这哪是战损是在刀心啊",
@@ -11993,14 +12121,6 @@
       "onboard_time": 1726390037,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 124874,
-      "num": 124874,
-      "word": "58页PPT被举报管培生被开除党籍",
-      "onboard_time": 1726797079,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124865,
@@ -12545,6 +12665,14 @@
       "onboard_time": 1726601110,
       "rank": 46,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 111723,
+      "num": 434459,
+      "word": "1年期和5年期LPR均保持不变",
+      "onboard_time": 1726799420,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 111691,
@@ -13979,6 +14107,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 53737,
+      "num": 172674,
+      "word": "黎真主党领导人称以色列将受到惩罚",
+      "onboard_time": 1726798459,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 53726,
       "num": 585362,
       "word": "业内人士称电动车被收超时占位费合法",
@@ -14273,6 +14409,14 @@
       "onboard_time": 1726498280,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 46687,
+      "num": 247538,
+      "word": "余承东交付首批华为三折叠",
+      "onboard_time": 1726799961,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 46413,
@@ -14651,6 +14795,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 37506,
+      "num": 310428,
+      "word": "北京适时取消普通非普通住宅标准",
+      "onboard_time": 1726798820,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37392,
       "num": 276062,
       "word": "俄武装力量编制人数增至近239万人",
@@ -14929,6 +15081,14 @@
       "onboard_time": 1726424474,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 31847,
+      "num": 1193889,
+      "word": "2024北京文化论坛",
+      "onboard_time": 1726715000,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31687,
@@ -15283,6 +15443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25271,
+      "num": 247399,
+      "word": "西凤酒请司马南参加活动引争议",
+      "onboard_time": 1726800320,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 25021,
       "num": 25021,
       "word": "野孩子 事实孤儿",
@@ -15499,14 +15667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19048,
-      "num": 1193889,
-      "word": "2024北京文化论坛",
-      "onboard_time": 1726715000,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 18995,
       "num": 489002,
       "word": "台风过后阳澄湖大闸蟹会涨价吗",
@@ -15569,6 +15729,14 @@
       "onboard_time": 1726558460,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18042,
+      "num": 139335,
+      "word": "带着三折叠手机上天",
+      "onboard_time": 1726797860,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 17354,
