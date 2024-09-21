@@ -1,0 +1,410 @@
+{
+  "runTime": 1726887422514,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4481301,
+        "num": 4481301,
+        "word": "黄轩女朋友",
+        "onboard_time": 1726880539,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 688614,
+        "num": 688614,
+        "word": "女子买4万黄金不挑款式店员果断报警",
+        "onboard_time": 1726876637,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22613,
+        "num": 688476,
+        "word": "北京文化论坛文艺晚会",
+        "onboard_time": 1726821740,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 688354,
+        "num": 688354,
+        "word": "稻城亚丁景区被指禁止游客吃泡面",
+        "onboard_time": 1726881740,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581562,
+        "num": 581562,
+        "word": "防空警报",
+        "onboard_time": 1726885100,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363149,
+        "num": 363149,
+        "word": "中方用令人发指一词谈寻呼机爆炸",
+        "onboard_time": 1726878979,
+        "rank": 5,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 1425012,
+        "num": 345911,
+        "word": "蔡徐坤抱了赵露思的狗",
+        "onboard_time": 1726885579,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 602048,
+        "num": 343695,
+        "word": "文章马伊琍女儿16岁生日照",
+        "onboard_time": 1726877719,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305972,
+        "num": 305972,
+        "word": "梅姨",
+        "onboard_time": 1726844963,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52624,
+        "num": 305653,
+        "word": "村干部称小英家曾是建档贫困户",
+        "onboard_time": 1726887020,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559032,
+        "num": 305628,
+        "word": "王源发文为王俊凯庆生",
+        "onboard_time": 1726874054,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341933,
+        "num": 305507,
+        "word": "半个娱乐圈的人来厦门了",
+        "onboard_time": 1726874355,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305375,
+        "num": 305375,
+        "word": "湖南警方通报刘某杰遇害案",
+        "onboard_time": 1726848801,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36824,
+        "num": 279268,
+        "word": "你的车里会放破窗锤吗",
+        "onboard_time": 1726885460,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110647,
+        "num": 279138,
+        "word": "小英1年直播200多场带货总额超千万",
+        "onboard_time": 1726886539,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279097,
+        "num": 279097,
+        "word": "女子离婚后中500万被诉前夫获200万",
+        "onboard_time": 1726841600,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258596,
+        "num": 258596,
+        "word": "两个团唯一没有结婚的张远",
+        "onboard_time": 1726878137,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236286,
+        "num": 236286,
+        "word": "这就是中国军人带来的安全感",
+        "onboard_time": 1726887321,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65552,
+        "num": 235751,
+        "word": "袁巴元否认张雨绮是小三",
+        "onboard_time": 1726887379,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38839,
+        "num": 234838,
+        "word": "多家银行信用卡收缩权益",
+        "onboard_time": 1726886780,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 353910,
+        "num": 233244,
+        "word": "小英掉粉揭示了大众对虚假人设的反感",
+        "onboard_time": 1726883242,
+        "rank": 20,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 251862,
+        "num": 232137,
+        "word": "戚薇米兰生图",
+        "onboard_time": 1726885460,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 231850,
+        "num": 231850,
+        "word": "你终于发现上大学的真正主线了",
+        "onboard_time": 1726886060,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 221166,
+        "num": 221166,
+        "word": "台风普拉桑原地掉头",
+        "onboard_time": 1726875497,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218223,
+        "num": 218223,
+        "word": "GALA疑似借钱给Scout",
+        "onboard_time": 1726884080,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 215917,
+        "num": 215917,
+        "word": "婚姻自由包括离婚自由",
+        "onboard_time": 1726885938,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211526,
+        "num": 211526,
+        "word": "王源送王俊凯的生日图上有马亮的包",
+        "onboard_time": 1726879997,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208844,
+        "num": 208844,
+        "word": "曾黎从小美到大",
+        "onboard_time": 1726884140,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204580,
+        "num": 204580,
+        "word": "半熟男女",
+        "onboard_time": 1726886360,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193272,
+        "num": 193272,
+        "word": "过度疲劳的人身体会散发臭味",
+        "onboard_time": 1726874054,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 189723,
+        "num": 189723,
+        "word": "袁山青编剧",
+        "onboard_time": 1726878379,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188027,
+        "num": 188027,
+        "word": "清澈的爱只为中国",
+        "onboard_time": 1726882042,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 180644,
+        "num": 180644,
+        "word": "黎巴嫩爆炸事件许多伤者失去眼睛",
+        "onboard_time": 1726882822,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 173868,
+        "num": 173868,
+        "word": "以军将巴勒斯坦人遗体踢下楼",
+        "onboard_time": 1726884140,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 169072,
+        "num": 169072,
+        "word": "我国第24个全民国防教育日",
+        "onboard_time": 1726881861,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 167462,
+        "num": 167462,
+        "word": "赵露思米兰时装周妆造",
+        "onboard_time": 1726874716,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 166690,
+        "num": 166690,
+        "word": "摄影大师央美演讲因多人看手机离席",
+        "onboard_time": 1726847719,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161741,
+        "num": 161741,
+        "word": "NBA再迎中国球员",
+        "onboard_time": 1726886599,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158458,
+        "num": 158458,
+        "word": "10个月宝宝打翻100度开水全身烫伤",
+        "onboard_time": 1726875737,
+        "rank": 38,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 154629,
+        "num": 154629,
+        "word": "黄牛加价2万收不到华为三折叠",
+        "onboard_time": 1726875558,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 141248,
+        "num": 141248,
+        "word": "黄景瑜关晓彤吻戏路透",
+        "onboard_time": 1726881861,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135958,
+        "num": 135958,
+        "word": "孙颖莎见老朋友说veryhappy",
+        "onboard_time": 1726884321,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128140,
+        "num": 128140,
+        "word": "广东省鞋无法踏足的地方",
+        "onboard_time": 1726875497,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124883,
+        "num": 124883,
+        "word": "网红娟子不是无知是无敬畏无底线",
+        "onboard_time": 1726857313,
+        "rank": 43,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 123864,
+        "num": 123864,
+        "word": "黎巴嫩真主党高级指挥官丧生",
+        "onboard_time": 1726881619,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 121171,
+        "num": 121171,
+        "word": "当你的工作配不上你的审美",
+        "onboard_time": 1726880838,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119943,
+        "num": 119943,
+        "word": "计算机二级",
+        "onboard_time": 1726880780,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 118929,
+        "num": 118929,
+        "word": "吴彦祖后悔没申请名字版权",
+        "onboard_time": 1726873514,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117326,
+        "num": 117326,
+        "word": "赵丽颖白裙花絮",
+        "onboard_time": 1726886660,
+        "rank": 48,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 113817,
+        "num": 113817,
+        "word": "肚子容易长肉是基因决定的",
+        "onboard_time": 1726877959,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#庆祝人民政协成立75周年大会#"
+    }
+  }
+}

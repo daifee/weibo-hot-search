@@ -1,6 +1,6 @@
 {
   "startTime": 1726849656112,
-  "endTime": 1726886789658,
+  "endTime": 1726887422514,
   "band_list": [
     {
       "raw_hot": 6135283,
@@ -35,7 +35,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1407191,
+      "raw_hot": 1425012,
       "num": 361543,
       "word": "蔡徐坤抱了赵露思的狗",
       "onboard_time": 1726885579,
@@ -115,16 +115,16 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 602881,
-      "num": 602881,
+      "raw_hot": 688354,
+      "num": 688354,
       "word": "稻城亚丁景区被指禁止游客吃泡面",
       "onboard_time": 1726881740,
       "rank": 22,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 544289,
-      "num": 544289,
+      "raw_hot": 581562,
+      "num": 581562,
       "word": "防空警报",
       "onboard_time": 1726885100,
       "rank": 4,
@@ -227,8 +227,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 340768,
-      "num": 227104,
+      "raw_hot": 353910,
+      "num": 233244,
       "word": "小英掉粉揭示了大众对虚假人设的反感",
       "onboard_time": 1726883242,
       "rank": 29,
@@ -379,6 +379,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 236286,
+      "num": 236286,
+      "word": "这就是中国军人带来的安全感",
+      "onboard_time": 1726887321,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231850,
+      "num": 231850,
+      "word": "你终于发现上大学的真正主线了",
+      "onboard_time": 1726886060,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 229827,
       "num": 229827,
       "word": "我赴黎维和部队营区周边发生航弹爆炸",
@@ -395,12 +411,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 215917,
+      "num": 215917,
+      "word": "婚姻自由包括离婚自由",
+      "onboard_time": 1726885938,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215691,
       "num": 215691,
       "word": "Hanni露背装",
       "onboard_time": 1726846040,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 208844,
+      "num": 208844,
+      "word": "曾黎从小美到大",
+      "onboard_time": 1726884140,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 207637,
@@ -427,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204580,
+      "num": 204580,
+      "word": "半熟男女",
+      "onboard_time": 1726886360,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199738,
       "num": 199738,
       "word": "王者荣耀",
@@ -451,14 +491,6 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 193405,
-      "num": 193405,
-      "word": "曾黎从小美到大",
-      "onboard_time": 1726884140,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191208,
       "num": 191208,
       "word": "黄牛加价2万收不到华为三折叠",
@@ -467,20 +499,28 @@
       "category": "数码"
     },
     {
-      "raw_hot": 190752,
-      "num": 155760,
-      "word": "你终于发现上大学的真正主线了",
-      "onboard_time": 1726886060,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 188346,
       "num": 188346,
       "word": "中日共识与日本男童遇袭无关",
       "onboard_time": 1726832539,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180644,
+      "num": 422772,
+      "word": "黎巴嫩爆炸事件许多伤者失去眼睛",
+      "onboard_time": 1726882822,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 173868,
+      "num": 173868,
+      "word": "以军将巴勒斯坦人遗体踢下楼",
+      "onboard_time": 1726884140,
+      "rank": 44,
+      "category": "国外时政"
     },
     {
       "raw_hot": 172642,
@@ -555,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161741,
+      "num": 161741,
+      "word": "NBA再迎中国球员",
+      "onboard_time": 1726886599,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160874,
       "num": 160874,
       "word": "黄景瑜关晓彤吻戏路透",
@@ -595,14 +643,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 149664,
-      "num": 149664,
-      "word": "婚姻自由包括离婚自由",
-      "onboard_time": 1726885938,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148378,
       "num": 148378,
       "word": "伯远回应最高分仍被淘汰",
@@ -617,22 +657,6 @@
       "onboard_time": 1726873455,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146773,
-      "num": 422772,
-      "word": "黎巴嫩爆炸事件许多伤者失去眼睛",
-      "onboard_time": 1726882822,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 146665,
-      "num": 146665,
-      "word": "半熟男女",
-      "onboard_time": 1726886360,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 145703,
@@ -697,6 +721,14 @@
       "onboard_time": 1726863732,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 135958,
+      "num": 135958,
+      "word": "孙颖莎见老朋友说veryhappy",
+      "onboard_time": 1726884321,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 135709,
@@ -771,14 +803,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 126084,
-      "num": 126084,
-      "word": "NBA再迎中国球员",
-      "onboard_time": 1726886599,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 122827,
       "num": 122827,
       "word": "野孩子",
@@ -787,24 +811,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 121951,
-      "num": 121951,
-      "word": "以军将巴勒斯坦人遗体踢下楼",
-      "onboard_time": 1726884140,
-      "rank": 44,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 119360,
-      "num": 119360,
-      "word": "孙颖莎见老朋友说veryhappy",
-      "onboard_time": 1726884321,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 114179,
-      "num": 114179,
+      "raw_hot": 117326,
+      "num": 117326,
       "word": "赵丽颖白裙花絮",
       "onboard_time": 1726886660,
       "rank": 48,
@@ -832,6 +840,14 @@
       "word": "50岁退休女儿全职照顾81岁痴呆母亲",
       "onboard_time": 1726844181,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110647,
+      "num": 279138,
+      "word": "小英1年直播200多场带货总额超千万",
+      "onboard_time": 1726886539,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -915,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65552,
+      "num": 235751,
+      "word": "袁巴元否认张雨绮是小三",
+      "onboard_time": 1726887379,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60494,
       "num": 60494,
       "word": "当爸爸妈妈开始养我的狗",
@@ -940,10 +964,18 @@
     },
     {
       "raw_hot": 52868,
-      "num": 269494,
+      "num": 279268,
       "word": "你的车里会放破窗锤吗",
       "onboard_time": 1726885460,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52624,
+      "num": 305653,
+      "word": "村干部称小英家曾是建档贫困户",
+      "onboard_time": 1726887020,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -979,12 +1011,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 39583,
-      "num": 272452,
-      "word": "小英1年直播200多场带货总额超千万",
-      "onboard_time": 1726886539,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 38839,
+      "num": 234838,
+      "word": "多家银行信用卡收缩权益",
+      "onboard_time": 1726886780,
+      "rank": 19,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 35151,

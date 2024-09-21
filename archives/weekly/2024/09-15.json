@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726886789658,
+  "endTime": 1726887422514,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -923,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1425012,
+      "num": 361543,
+      "word": "蔡徐坤抱了赵露思的狗",
+      "onboard_time": 1726885579,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1416561,
       "num": 1128939,
       "word": "Angelababy中秋回眸笑",
@@ -945,14 +953,6 @@
       "onboard_time": 1726384637,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1407191,
-      "num": 361543,
-      "word": "蔡徐坤抱了赵露思的狗",
-      "onboard_time": 1726885579,
-      "rank": 6,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1405309,
@@ -2707,6 +2707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 688354,
+      "num": 688354,
+      "word": "稻城亚丁景区被指禁止游客吃泡面",
+      "onboard_time": 1726881740,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 688254,
       "num": 688254,
       "word": "男子杀害女友和母亲带嫂嫂潜逃32年",
@@ -3203,14 +3211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 602881,
-      "num": 602881,
-      "word": "稻城亚丁景区被指禁止游客吃泡面",
-      "onboard_time": 1726881740,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 602565,
       "num": 602565,
       "word": "王菲送李嫣英国留学",
@@ -3313,6 +3313,14 @@
       "onboard_time": 1726718301,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 581562,
+      "num": 581562,
+      "word": "防空警报",
+      "onboard_time": 1726885100,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 581370,
@@ -3529,14 +3537,6 @@
       "onboard_time": 1726714040,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 544289,
-      "num": 544289,
-      "word": "防空警报",
-      "onboard_time": 1726885100,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 543557,
@@ -5259,6 +5259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353910,
+      "num": 233244,
+      "word": "小英掉粉揭示了大众对虚假人设的反感",
+      "onboard_time": 1726883242,
+      "rank": 29,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 353065,
       "num": 629017,
       "word": "女子骑电动车打伞被卷入车底身亡",
@@ -5449,14 +5457,6 @@
       "onboard_time": 1726574480,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 340768,
-      "num": 227104,
-      "word": "小英掉粉揭示了大众对虚假人设的反感",
-      "onboard_time": 1726883242,
-      "rank": 29,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 340506,
@@ -7875,6 +7875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 236286,
+      "num": 236286,
+      "word": "这就是中国军人带来的安全感",
+      "onboard_time": 1726887321,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235853,
       "num": 365961,
       "word": "王安宇把整个内娱认了一遍",
@@ -7985,6 +7993,14 @@
       "onboard_time": 1726413321,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 231850,
+      "num": 231850,
+      "word": "你终于发现上大学的真正主线了",
+      "onboard_time": 1726886060,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 231755,
@@ -8451,6 +8467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215917,
+      "num": 215917,
+      "word": "婚姻自由包括离婚自由",
+      "onboard_time": 1726885938,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215804,
       "num": 288201,
       "word": "赵晓卉吐槽PPT还是太全面了",
@@ -8769,6 +8793,14 @@
       "onboard_time": 1726813160,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 208844,
+      "num": 208844,
+      "word": "曾黎从小美到大",
+      "onboard_time": 1726884140,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 208675,
@@ -9875,14 +9907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193405,
-      "num": 193405,
-      "word": "曾黎从小美到大",
-      "onboard_time": 1726884140,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 193282,
       "num": 193282,
       "word": "黄冠亨回应聚会",
@@ -10041,14 +10065,6 @@
       "onboard_time": 1726456640,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190752,
-      "num": 155760,
-      "word": "你终于发现上大学的真正主线了",
-      "onboard_time": 1726886060,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 190661,
@@ -10611,6 +10627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180644,
+      "num": 422772,
+      "word": "黎巴嫩爆炸事件许多伤者失去眼睛",
+      "onboard_time": 1726882822,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 180642,
       "num": 180642,
       "word": "龙婆走了 尹仲也走了",
@@ -11049,6 +11073,14 @@
       "onboard_time": 1726833860,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173868,
+      "num": 173868,
+      "word": "以军将巴勒斯坦人遗体踢下楼",
+      "onboard_time": 1726884140,
+      "rank": 44,
+      "category": "国外时政"
     },
     {
       "raw_hot": 173852,
@@ -11849,6 +11881,14 @@
       "onboard_time": 1726558040,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161741,
+      "num": 161741,
+      "word": "NBA再迎中国球员",
+      "onboard_time": 1726886599,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 161656,
@@ -12763,14 +12803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149664,
-      "num": 149664,
-      "word": "婚姻自由包括离婚自由",
-      "onboard_time": 1726885938,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149604,
       "num": 149604,
       "word": "井柏然晒粉发",
@@ -12929,14 +12961,6 @@
       "onboard_time": 1726741761,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 146773,
-      "num": 422772,
-      "word": "黎巴嫩爆炸事件许多伤者失去眼睛",
-      "onboard_time": 1726882822,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 146409,
@@ -13723,6 +13747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135958,
+      "num": 135958,
+      "word": "孙颖莎见老朋友说veryhappy",
+      "onboard_time": 1726884321,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135575,
       "num": 135575,
       "word": "侯明昊肉眼可见的局促了",
@@ -14371,14 +14403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126084,
-      "num": 126084,
-      "word": "NBA再迎中国球员",
-      "onboard_time": 1726886599,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 125532,
       "num": 477469,
       "word": "网红小英曾开有百货商店",
@@ -14489,14 +14513,6 @@
       "onboard_time": 1726465039,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121951,
-      "num": 121951,
-      "word": "以军将巴勒斯坦人遗体踢下楼",
-      "onboard_time": 1726884140,
-      "rank": 44,
-      "category": "国外时政"
     },
     {
       "raw_hot": 121871,
@@ -14651,14 +14667,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 119360,
-      "num": 119360,
-      "word": "孙颖莎见老朋友说veryhappy",
-      "onboard_time": 1726884321,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118421,
       "num": 118421,
       "word": "河南卫视秋晚",
@@ -14753,6 +14761,14 @@
       "onboard_time": 1726376539,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117326,
+      "num": 117326,
+      "word": "赵丽颖白裙花絮",
+      "onboard_time": 1726886660,
+      "rank": 48,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 116922,
@@ -14873,14 +14889,6 @@
       "onboard_time": 1726482859,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 114179,
-      "num": 114179,
-      "word": "赵丽颖白裙花絮",
-      "onboard_time": 1726886660,
-      "rank": 48,
-      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 113996,
@@ -15041,6 +15049,14 @@
       "onboard_time": 1726813520,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110647,
+      "num": 279138,
+      "word": "小英1年直播200多场带货总额超千万",
+      "onboard_time": 1726886539,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110518,
@@ -16403,6 +16419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65552,
+      "num": 235751,
+      "word": "袁巴元否认张雨绮是小三",
+      "onboard_time": 1726887379,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 65476,
       "num": 846451,
       "word": "当地社区正调查小英婚姻和子女情况",
@@ -16764,7 +16788,7 @@
     },
     {
       "raw_hot": 52868,
-      "num": 269494,
+      "num": 279268,
       "word": "你的车里会放破窗锤吗",
       "onboard_time": 1726885460,
       "rank": 16,
@@ -16777,6 +16801,14 @@
       "onboard_time": 1726806923,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 52624,
+      "num": 305653,
+      "word": "村干部称小英家曾是建档贫困户",
+      "onboard_time": 1726887020,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52497,
@@ -17499,14 +17531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39583,
-      "num": 272452,
-      "word": "小英1年直播200多场带货总额超千万",
-      "onboard_time": 1726886539,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 39347,
       "num": 39347,
       "word": "美以媒体披露黎巴嫩通信设备爆炸细节",
@@ -17553,6 +17577,14 @@
       "onboard_time": 1726730186,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 38839,
+      "num": 234838,
+      "word": "多家银行信用卡收缩权益",
+      "onboard_time": 1726886780,
+      "rank": 19,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 38809,
