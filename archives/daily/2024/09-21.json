@@ -1,6 +1,6 @@
 {
   "startTime": 1726849656112,
-  "endTime": 1726910458967,
+  "endTime": 1726911302555,
   "band_list": [
     {
       "raw_hot": 6135283,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1170519,
+      "num": 551654,
+      "word": "黄轩说女友4年前就出镜过",
+      "onboard_time": 1726910900,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1139415,
       "num": 777265,
       "word": "武艺爆料张碧晨喜欢在厕所吃饭",
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 743046,
+      "num": 743046,
+      "word": "黄轩 大大方方",
+      "onboard_time": 1726909219,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 735656,
       "num": 672628,
       "word": "王源发文为王俊凯庆生",
@@ -225,14 +241,6 @@
       "onboard_time": 1726826359,
       "rank": 6,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 716056,
-      "num": 554165,
-      "word": "黄轩 大大方方",
-      "onboard_time": 1726909219,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 703796,
@@ -283,16 +291,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 553021,
-      "num": 553021,
+      "raw_hot": 558916,
+      "num": 558916,
       "word": "当地村民称小英生了不止两个孩子",
       "onboard_time": 1726908440,
       "rank": 8,
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 548578,
-      "num": 548578,
+      "raw_hot": 549091,
+      "num": 549091,
       "word": "刘诗诗 北京",
       "onboard_time": 1726908499,
       "rank": 13,
@@ -379,6 +387,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 485153,
+      "num": 552373,
+      "word": "女子美甲后指甲变绿全甲被拔除",
+      "onboard_time": 1726909759,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484740,
       "num": 376186,
       "word": "朴秀荣或将离开SM",
@@ -401,6 +417,14 @@
       "onboard_time": 1726846761,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 456516,
+      "num": 456516,
+      "word": "易烊千玺出发澳门",
+      "onboard_time": 1726909879,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 455687,
@@ -436,7 +460,7 @@
     },
     {
       "raw_hot": 416811,
-      "num": 278683,
+      "num": 284560,
       "word": "胎儿查出超雄基因真的不能留吗",
       "onboard_time": 1726905679,
       "rank": 24,
@@ -699,6 +723,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 281339,
+      "num": 281339,
+      "word": "飞天奖彩排路透",
+      "onboard_time": 1726907960,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 279709,
       "num": 240113,
       "word": "过度疲劳的人身体会散发臭味",
@@ -819,16 +851,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 245548,
-      "num": 245548,
-      "word": "飞天奖彩排路透",
-      "onboard_time": 1726907960,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 244610,
-      "num": 244610,
+      "raw_hot": 244743,
+      "num": 244743,
       "word": "肖战团队无任何变动",
       "onboard_time": 1726909939,
       "rank": 26,
@@ -923,14 +947,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 223510,
-      "num": 223510,
-      "word": "易烊千玺出发澳门",
-      "onboard_time": 1726909879,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 220606,
       "num": 220606,
       "word": "尹锡悦发文感谢韩国夫妻生下5胞胎",
@@ -979,11 +995,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213059,
-      "num": 213059,
-      "word": "女子美甲后指甲变绿全甲被拔除",
-      "onboard_time": 1726909759,
-      "rank": 32,
+      "raw_hot": 214251,
+      "num": 554689,
+      "word": "新余39死特别重大火灾事故调查报告",
+      "onboard_time": 1726910660,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1089,6 +1105,14 @@
       "onboard_time": 1726843342,
       "rank": 21,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 191251,
+      "num": 191251,
+      "word": "杨丞琳likeastar世界巡回演唱会",
+      "onboard_time": 1726911140,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 191208,
@@ -1227,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169215,
+      "num": 169215,
+      "word": "李荣浩 杭州大莲花我回来啦",
+      "onboard_time": 1726910539,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 168874,
       "num": 317260,
       "word": "竹马追爱终于不用碰上天降",
@@ -1257,6 +1289,14 @@
       "onboard_time": 1726886599,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168041,
+      "num": 168041,
+      "word": "密逃NPC 莞莞类卿",
+      "onboard_time": 1726909820,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 167588,
@@ -1315,20 +1355,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 159880,
-      "num": 159880,
-      "word": "密逃NPC 莞莞类卿",
-      "onboard_time": 1726909820,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 158490,
       "num": 158490,
       "word": "戚薇怀念出道导师赵英俊",
       "onboard_time": 1726897101,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157855,
+      "num": 157855,
+      "word": "胡歌飞天奖上班",
+      "onboard_time": 1726910599,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 155634,
@@ -1939,6 +1979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 59900,
+      "num": 551447,
+      "word": "李宁景德镇大秀",
+      "onboard_time": 1726906580,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 56705,
       "num": 316666,
       "word": "你的车里会放破窗锤吗",
@@ -1987,14 +2035,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 50734,
-      "num": 551447,
-      "word": "李宁景德镇大秀",
-      "onboard_time": 1726906580,
-      "rank": 35,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 45460,
       "num": 315282,
       "word": "61岁儿子陪伴86岁阿尔兹海默症妈妈",
@@ -2017,6 +2057,14 @@
       "onboard_time": 1726868413,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 42484,
+      "num": 552779,
+      "word": "90后小伙退伍后在社区做护旗手",
+      "onboard_time": 1726909460,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40767,
@@ -2099,6 +2147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 33764,
+      "num": 1756806,
+      "word": "青春华章",
+      "onboard_time": 1726819520,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33218,
       "num": 415827,
       "word": "王俊凯25岁生日新歌",
@@ -2112,14 +2168,6 @@
       "word": "smart的大五座权益超级加倍",
       "onboard_time": 1726895179,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32041,
-      "num": 552779,
-      "word": "90后小伙退伍后在社区做护旗手",
-      "onboard_time": 1726909460,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2144,14 +2192,6 @@
       "word": "如何让电动自行车跑得更稳",
       "onboard_time": 1726866551,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30037,
-      "num": 1756806,
-      "word": "青春华章",
-      "onboard_time": 1726819520,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2227,6 +2267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23803,
+      "num": 530631,
+      "word": "抢购虚拟玉石牵出特大网络传销案",
+      "onboard_time": 1726909400,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23637,
       "num": 200745,
       "word": "葛晓倩称早已知情袁巴元公关文",
@@ -2267,12 +2315,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16623,
-      "num": 530631,
-      "word": "抢购虚拟玉石牵出特大网络传销案",
-      "onboard_time": 1726909400,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 19032,
+      "num": 212507,
+      "word": "李宁大秀选址地图",
+      "onboard_time": 1726910480,
+      "rank": 28,
+      "category": "时尚"
     },
     {
       "raw_hot": 13994,
