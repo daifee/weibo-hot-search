@@ -1,0 +1,410 @@
+{
+  "runTime": 1726933009706,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6998231,
+        "num": 6998231,
+        "word": "赵丽颖飞天奖视后",
+        "onboard_time": 1726925783,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 5581280,
+        "num": 5581280,
+        "word": "85花格局大变",
+        "onboard_time": 1726927947,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37212,
+        "num": 2129803,
+        "word": "南开两任校长跨越105年的相遇",
+        "onboard_time": 1726923742,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1170339,
+        "num": 1170339,
+        "word": "刘琳好可惜",
+        "onboard_time": 1726926867,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 449199,
+        "num": 449199,
+        "word": "90后出任兰溪市副市长",
+        "onboard_time": 1726930346,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1116315,
+        "num": 433116,
+        "word": "赵丽颖哭了",
+        "onboard_time": 1726927647,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379765,
+        "num": 379765,
+        "word": "25岁72岁62岁三人CT片几乎一样",
+        "onboard_time": 1726916540,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262901,
+        "num": 262901,
+        "word": "24岁物理学硕士拟获录用中学勤杂工",
+        "onboard_time": 1726920623,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222746,
+        "num": 262874,
+        "word": "恋与深空",
+        "onboard_time": 1726932264,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 50799,
+        "num": 262589,
+        "word": "男孩放学路遇康辉武大靖整激动了",
+        "onboard_time": 1726931066,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 981406,
+        "num": 262356,
+        "word": "视后视帝都没准备获奖感言",
+        "onboard_time": 1726929326,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 924163,
+        "num": 262300,
+        "word": "李庚希提名视后",
+        "onboard_time": 1726927827,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 843626,
+        "num": 262059,
+        "word": "雷佳音飞天奖视帝",
+        "onboard_time": 1726926626,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 690274,
+        "num": 261880,
+        "word": "王俊凯晒长寿面",
+        "onboard_time": 1726929147,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191381,
+        "num": 261681,
+        "word": "驻日美军违规驾驶撞死1名日本人",
+        "onboard_time": 1726926324,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 169810,
+        "num": 261388,
+        "word": "管培生因未参加公司跑步活动被辞退",
+        "onboard_time": 1726918881,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162559,
+        "num": 261310,
+        "word": "女子美甲后指甲变绿全甲被拔除",
+        "onboard_time": 1726909759,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157981,
+        "num": 261136,
+        "word": "男子买星巴克月饼券无法提货",
+        "onboard_time": 1726924162,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149529,
+        "num": 260901,
+        "word": "王楚钦给自己画肖像",
+        "onboard_time": 1726929326,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33720,
+        "num": 260638,
+        "word": "雷佳音萨日娜殷桃飞天奖拥抱",
+        "onboard_time": 1726932383,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 673080,
+        "num": 260532,
+        "word": "殷桃 没提名",
+        "onboard_time": 1726927107,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 661279,
+        "num": 260194,
+        "word": "宋祖儿去了周雨彤生日会",
+        "onboard_time": 1726929807,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 592104,
+        "num": 260017,
+        "word": "张碧晨回应演唱会嘉宾争议",
+        "onboard_time": 1726930166,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 546267,
+        "num": 259953,
+        "word": "1岁男童腹中竟有个小宝宝",
+        "onboard_time": 1726905140,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462616,
+        "num": 259684,
+        "word": "飞天奖完整获奖名单",
+        "onboard_time": 1726931664,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 410096,
+        "num": 259422,
+        "word": "胡歌陪跑",
+        "onboard_time": 1726927467,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351864,
+        "num": 259269,
+        "word": "撤回一个刘浩存",
+        "onboard_time": 1726928845,
+        "rank": 26,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 16415,
+        "num": 259141,
+        "word": "以为在火星实际在长城",
+        "onboard_time": 1726931305,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182685,
+        "num": 258900,
+        "word": "网红杯鼻祖宣布破产了",
+        "onboard_time": 1726924882,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127065,
+        "num": 258783,
+        "word": "为什么秋天的蚊子咬人更狠",
+        "onboard_time": 1726928487,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308880,
+        "num": 258493,
+        "word": "叶珂晒聊天记录",
+        "onboard_time": 1726931305,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270124,
+        "num": 258334,
+        "word": "易烊千玺在评论区为王俊凯庆生",
+        "onboard_time": 1726916301,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116366,
+        "num": 258099,
+        "word": "3岁幼儿园小朋友能有多自律",
+        "onboard_time": 1726925122,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111642,
+        "num": 257887,
+        "word": "姑娘奶茶只喝三分甜牙齿严重酸蚀",
+        "onboard_time": 1726923742,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106213,
+        "num": 257793,
+        "word": "利物浦vs伯恩茅斯",
+        "onboard_time": 1726932684,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274380,
+        "num": 257515,
+        "word": "黄晓明 叶珂",
+        "onboard_time": 1726896440,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268271,
+        "num": 257339,
+        "word": "韩安冉回应亲生妈妈当小三",
+        "onboard_time": 1726924400,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 13901,
+        "num": 257155,
+        "word": "猫人你时髦的让我陌生",
+        "onboard_time": 1726931725,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 257021,
+        "num": 257021,
+        "word": "陈晓云襄传2造型",
+        "onboard_time": 1726931305,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96922,
+        "num": 248248,
+        "word": "不莱梅vs拜仁",
+        "onboard_time": 1726931425,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246105,
+        "num": 246105,
+        "word": "郎平惠若琪现身周深鸟巢演唱会",
+        "onboard_time": 1726932264,
+        "rank": 40,
+        "category": "演出,电竞"
+      },
+      {
+        "raw_hot": 239505,
+        "num": 239505,
+        "word": "张凌赫内场狼尾",
+        "onboard_time": 1726931964,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210967,
+        "num": 210967,
+        "word": "风吹半夏",
+        "onboard_time": 1726929267,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185116,
+        "num": 210945,
+        "word": "崔然竣崔秀彬cha了GGUM",
+        "onboard_time": 1726932324,
+        "rank": 43,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 101985,
+        "num": 210383,
+        "word": "潘展乐谈中国第一位奥运选手",
+        "onboard_time": 1726932503,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98067,
+        "num": 210164,
+        "word": "老人离世老伴拿出6份遗嘱均被判无效",
+        "onboard_time": 1726914980,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94214,
+        "num": 209917,
+        "word": "时空中的绘旅人 第五人格",
+        "onboard_time": 1726919540,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 88649,
+        "num": 209472,
+        "word": "韩国的自助泡面店",
+        "onboard_time": 1726931425,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 88033,
+        "num": 209107,
+        "word": "警方回应四川河南球迷互殴",
+        "onboard_time": 1726930106,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85724,
+        "num": 208864,
+        "word": "男童疑被托管机构老师拖拽受伤",
+        "onboard_time": 1726924101,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动农业增效益农民增收入农村增活力#"
+    }
+  }
+}

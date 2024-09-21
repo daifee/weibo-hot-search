@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726932163838,
+  "endTime": 1726933009706,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -5339,6 +5339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 981406,
+      "num": 379591,
+      "word": "视后视帝都没准备获奖感言",
+      "onboard_time": 1726929326,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 980213,
       "num": 327466,
       "word": "男子脸上反复长囊肿性痤疮10年未好",
@@ -7025,14 +7033,6 @@
       "onboard_time": 1726590258,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 819181,
-      "num": 379591,
-      "word": "视后视帝都没准备获奖感言",
-      "onboard_time": 1726929326,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 819142,
@@ -13755,6 +13755,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 462616,
+      "num": 279909,
+      "word": "飞天奖完整获奖名单",
+      "onboard_time": 1726931664,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 462486,
       "num": 462486,
       "word": "王楚然硬美",
@@ -14128,6 +14136,14 @@
       "word": "婚姻自由包括离婚自由",
       "onboard_time": 1726885938,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 449199,
+      "num": 449199,
+      "word": "90后出任兰溪市副市长",
+      "onboard_time": 1726930346,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -15387,14 +15403,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 407228,
-      "num": 407228,
-      "word": "90后出任兰溪市副市长",
-      "onboard_time": 1726930346,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 406875,
       "num": 406875,
       "word": "月饼券被黄牛半价回收后流向哪",
@@ -15705,14 +15713,6 @@
       "onboard_time": 1726577902,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 396967,
-      "num": 279909,
-      "word": "飞天奖完整获奖名单",
-      "onboard_time": 1726931664,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 395954,
@@ -23507,6 +23507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246105,
+      "num": 246105,
+      "word": "郎平惠若琪现身周深鸟巢演唱会",
+      "onboard_time": 1726932264,
+      "rank": 40,
+      "category": "演出,电竞"
+    },
+    {
       "raw_hot": 245973,
       "num": 245973,
       "word": "郑钦文美网赛程",
@@ -24217,6 +24225,14 @@
       "onboard_time": 1726489459,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 239505,
+      "num": 239505,
+      "word": "张凌赫内场狼尾",
+      "onboard_time": 1726931964,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 239434,
@@ -27577,14 +27593,6 @@
       "onboard_time": 1725938059,
       "rank": 35,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 210315,
-      "num": 210315,
-      "word": "张凌赫内场狼尾",
-      "onboard_time": 1726931964,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 210283,
@@ -33537,6 +33545,14 @@
       "onboard_time": 1725280941,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 185116,
+      "num": 210945,
+      "word": "崔然竣崔秀彬cha了GGUM",
+      "onboard_time": 1726932324,
+      "rank": 43,
+      "category": "音乐,艺人"
     },
     {
       "raw_hot": 185100,
@@ -50659,6 +50675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106213,
+      "num": 257793,
+      "word": "利物浦vs伯恩茅斯",
+      "onboard_time": 1726932684,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106058,
       "num": 257273,
       "word": "漱口水是智商税吗",
@@ -51036,7 +51060,7 @@
     },
     {
       "raw_hot": 102723,
-      "num": 198514,
+      "num": 209472,
       "word": "韩国的自助泡面店",
       "onboard_time": 1726931425,
       "rank": 48,
@@ -51121,6 +51145,14 @@
       "onboard_time": 1725962721,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101985,
+      "num": 210383,
+      "word": "潘展乐谈中国第一位奥运选手",
+      "onboard_time": 1726932503,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 101909,
@@ -52451,6 +52483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88033,
+      "num": 209107,
+      "word": "警方回应四川河南球迷互殴",
+      "onboard_time": 1726930106,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88027,
       "num": 187553,
       "word": "宋亚轩现在就出发新疆vlog",
@@ -52712,6 +52752,14 @@
       "word": "中秋假期数据盘点",
       "onboard_time": 1726675639,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85724,
+      "num": 568178,
+      "word": "男童疑被托管机构老师拖拽受伤",
+      "onboard_time": 1726924101,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -56049,14 +56097,6 @@
       "onboard_time": 1725729196,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 53250,
-      "num": 568178,
-      "word": "男童疑被托管机构老师拖拽受伤",
-      "onboard_time": 1726924101,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53178,
@@ -59851,6 +59891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33720,
+      "num": 260638,
+      "word": "雷佳音萨日娜殷桃飞天奖拥抱",
+      "onboard_time": 1726932383,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 33714,
       "num": 404981,
       "word": "男子称大桥噪音影响做题",
@@ -63507,6 +63555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13901,
+      "num": 257155,
+      "word": "猫人你时髦的让我陌生",
+      "onboard_time": 1726931725,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 13889,
       "num": 307074,
       "word": "大学是谈恋爱最佳时期吗",
@@ -63881,14 +63937,6 @@
       "onboard_time": 1725255082,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9972,
-      "num": 223202,
-      "word": "猫人你时髦的让我陌生",
-      "onboard_time": 1726931725,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 9564,

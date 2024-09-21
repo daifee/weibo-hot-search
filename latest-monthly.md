@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/21 23:22:43
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/21 23:36:49
 </p>
 </blockquote>
 <p>
@@ -4017,6 +4017,12 @@ iPhone16定价（热度：1011795）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A7%86%E5%90%8E%E8%A7%86%E5%B8%9D%E9%83%BD%E6%B2%A1%E5%87%86%E5%A4%87%E8%8E%B7%E5%A5%96%E6%84%9F%E8%A8%80%23" target="weibo">
+视后视帝都没准备获奖感言（热度：981406）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%84%B8%E4%B8%8A%E5%8F%8D%E5%A4%8D%E9%95%BF%E5%9B%8A%E8%82%BF%E6%80%A7%E7%97%A4%E7%96%AE10%E5%B9%B4%E6%9C%AA%E5%A5%BD%23" target="weibo">
 男子脸上反复长囊肿性痤疮10年未好（热度：980213）
 </a>
@@ -5279,12 +5285,6 @@ WBG战胜JDG（热度：837121）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8B%BF%E5%BF%98%E4%B9%9D%E4%B8%80%E5%85%AB%23" target="weibo">
 勿忘九一八（热度：820151）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A7%86%E5%90%8E%E8%A7%86%E5%B8%9D%E9%83%BD%E6%B2%A1%E5%87%86%E5%A4%87%E8%8E%B7%E5%A5%96%E6%84%9F%E8%A8%80%23" target="weibo">
-视后视帝都没准备获奖感言（热度：819181）
 </a>
 </li>
 

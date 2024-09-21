@@ -1,6 +1,6 @@
 {
   "startTime": 1726849656112,
-  "endTime": 1726932163838,
+  "endTime": 1726933009706,
   "band_list": [
     {
       "raw_hot": 13010415,
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 981406,
+      "num": 379591,
+      "word": "视后视帝都没准备获奖感言",
+      "onboard_time": 1726929326,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 978576,
       "num": 978576,
       "word": "女子美甲后指甲变绿全甲被拔除",
@@ -377,14 +385,6 @@
       "onboard_time": 1726857313,
       "rank": 15,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 819181,
-      "num": 379591,
-      "word": "视后视帝都没准备获奖感言",
-      "onboard_time": 1726929326,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 804550,
@@ -739,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 462616,
+      "num": 279909,
+      "word": "飞天奖完整获奖名单",
+      "onboard_time": 1726931664,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 456516,
       "num": 456516,
       "word": "易烊千玺出发澳门",
@@ -768,6 +776,14 @@
       "word": "婚姻自由包括离婚自由",
       "onboard_time": 1726885938,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 449199,
+      "num": 449199,
+      "word": "90后出任兰溪市副市长",
+      "onboard_time": 1726930346,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -811,28 +827,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 407228,
-      "num": 407228,
-      "word": "90后出任兰溪市副市长",
-      "onboard_time": 1726930346,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 405126,
       "num": 405126,
       "word": "TOP登陆少年首次外务",
       "onboard_time": 1726896920,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 396967,
-      "num": 279909,
-      "word": "飞天奖完整获奖名单",
-      "onboard_time": 1726931664,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 394399,
@@ -1091,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 308880,
+      "num": 258493,
+      "word": "叶珂晒聊天记录",
+      "onboard_time": 1726931305,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306508,
       "num": 281575,
       "word": "iPhone17标准版或配120Hz高刷",
@@ -1339,12 +1347,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 245422,
-      "num": 245422,
-      "word": "叶珂晒聊天记录",
-      "onboard_time": 1726931305,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 246105,
+      "num": 246105,
+      "word": "郎平惠若琪现身周深鸟巢演唱会",
+      "onboard_time": 1726932264,
+      "rank": 40,
+      "category": "演出,电竞"
     },
     {
       "raw_hot": 244743,
@@ -1369,6 +1377,14 @@
       "onboard_time": 1726881861,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 239505,
+      "num": 239505,
+      "word": "张凌赫内场狼尾",
+      "onboard_time": 1726931964,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 237874,
@@ -1451,6 +1467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 222746,
+      "num": 262874,
+      "word": "恋与深空",
+      "onboard_time": 1726932264,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 220606,
       "num": 220606,
       "word": "尹锡悦发文感谢韩国夫妻生下5胞胎",
@@ -1521,14 +1545,6 @@
       "onboard_time": 1726888160,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 210315,
-      "num": 210315,
-      "word": "张凌赫内场狼尾",
-      "onboard_time": 1726931964,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 209146,
@@ -1793,6 +1809,14 @@
       "onboard_time": 1726924101,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185116,
+      "num": 210945,
+      "word": "崔然竣崔秀彬cha了GGUM",
+      "onboard_time": 1726932324,
+      "rank": 43,
+      "category": "音乐,艺人"
     },
     {
       "raw_hot": 183909,
@@ -2827,6 +2851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106213,
+      "num": 257793,
+      "word": "利物浦vs伯恩茅斯",
+      "onboard_time": 1726932684,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104631,
       "num": 104631,
       "word": "以色列被指暗中筹备BP机爆炸15年了",
@@ -2860,11 +2892,19 @@
     },
     {
       "raw_hot": 102723,
-      "num": 198514,
+      "num": 209472,
       "word": "韩国的自助泡面店",
       "onboard_time": 1726931425,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 101985,
+      "num": 210383,
+      "word": "潘展乐谈中国第一位奥运选手",
+      "onboard_time": 1726932503,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 101892,
@@ -2907,6 +2947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88033,
+      "num": 209107,
+      "word": "警方回应四川河南球迷互殴",
+      "onboard_time": 1726930106,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87931,
       "num": 285369,
       "word": "男孩放学路遇康辉武大靖整激动了",
@@ -2921,6 +2969,14 @@
       "onboard_time": 1726875197,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85724,
+      "num": 568178,
+      "word": "男童疑被托管机构老师拖拽受伤",
+      "onboard_time": 1726924101,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81361,
@@ -3065,14 +3121,6 @@
       "onboard_time": 1726889010,
       "rank": 29,
       "category": "国外时政,军事"
-    },
-    {
-      "raw_hot": 53250,
-      "num": 568178,
-      "word": "男童疑被托管机构老师拖拽受伤",
-      "onboard_time": 1726924101,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51882,
@@ -3281,6 +3329,14 @@
       "onboard_time": 1726819520,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33720,
+      "num": 260638,
+      "word": "雷佳音萨日娜殷桃飞天奖拥抱",
+      "onboard_time": 1726932383,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 33218,
@@ -3563,20 +3619,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13901,
+      "num": 257155,
+      "word": "猫人你时髦的让我陌生",
+      "onboard_time": 1726931725,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 11666,
       "num": 148346,
       "word": "赵晓光没死",
       "onboard_time": 1726900460,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 9972,
-      "num": 223202,
-      "word": "猫人你时髦的让我陌生",
-      "onboard_time": 1726931725,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 7671,
