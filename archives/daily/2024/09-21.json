@@ -1,6 +1,6 @@
 {
   "startTime": 1726849656112,
-  "endTime": 1726914052188,
+  "endTime": 1726915098819,
   "band_list": [
     {
       "raw_hot": 6135283,
@@ -43,8 +43,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1916850,
-      "num": 1916850,
+      "raw_hot": 2016944,
+      "num": 2016944,
       "word": "新余39死特别重大火灾事故调查报告",
       "onboard_time": 1726910660,
       "rank": 8,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1005551,
+      "num": 698983,
+      "word": "黄晓明曾为叶珂包场庆生",
+      "onboard_time": 1726911800,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 978576,
       "num": 978576,
       "word": "女子美甲后指甲变绿全甲被拔除",
@@ -235,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 777957,
+      "num": 736085,
+      "word": "飞天奖红毯",
+      "onboard_time": 1726912099,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 761395,
       "num": 761395,
       "word": "女子离婚后中500万被诉前夫获200万",
@@ -249,14 +265,6 @@
       "onboard_time": 1726909219,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 736085,
-      "num": 736085,
-      "word": "飞天奖红毯",
-      "onboard_time": 1726912099,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 735656,
@@ -280,14 +288,6 @@
       "word": "王俊凯25岁第一天从清理库存开始",
       "onboard_time": 1726905080,
       "rank": 7,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 698983,
-      "num": 698983,
-      "word": "黄晓明曾为叶珂包场庆生",
-      "onboard_time": 1726911800,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -443,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 484020,
+      "num": 484020,
+      "word": "kpop人才懂这组合的门道有多深",
+      "onboard_time": 1726912099,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 483795,
       "num": 483795,
       "word": "法考卷一难不难",
@@ -547,14 +555,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 383399,
-      "num": 383399,
-      "word": "kpop人才懂这组合的门道有多深",
-      "onboard_time": 1726912099,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 382293,
       "num": 382293,
       "word": "美14岁少女弑母后设圈套枪击继父",
@@ -585,6 +585,14 @@
       "onboard_time": 1726873514,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 371830,
+      "num": 371830,
+      "word": "迪丽热巴时装周启程图",
+      "onboard_time": 1726912639,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 359598,
@@ -729,14 +737,6 @@
       "onboard_time": 1726888581,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 300928,
-      "num": 300928,
-      "word": "迪丽热巴时装周启程图",
-      "onboard_time": 1726912639,
-      "rank": 27,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 296493,
@@ -1123,6 +1123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201846,
+      "num": 201846,
+      "word": "lingorm",
+      "onboard_time": 1726914259,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199738,
       "num": 199738,
       "word": "王者荣耀",
@@ -1225,6 +1233,14 @@
       "onboard_time": 1726882822,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 180150,
+      "num": 180150,
+      "word": "华晨宇陪弟弟花傲天打工",
+      "onboard_time": 1726914859,
+      "rank": 33,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 180103,
@@ -1380,7 +1396,7 @@
     },
     {
       "raw_hot": 165826,
-      "num": 165826,
+      "num": 531668,
       "word": "飞天奖直播",
       "onboard_time": 1726913360,
       "rank": 38,
@@ -1587,6 +1603,14 @@
       "category": "国外时政,军事"
     },
     {
+      "raw_hot": 142464,
+      "num": 142464,
+      "word": "李沁飞天奖造型",
+      "onboard_time": 1726915039,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142185,
       "num": 142185,
       "word": "一秒入秋的正确打开方式",
@@ -1601,6 +1625,14 @@
       "onboard_time": 1726832000,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 141749,
+      "num": 141749,
+      "word": "TWS北京签售",
+      "onboard_time": 1726914080,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 141412,
@@ -1731,6 +1763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131607,
+      "num": 131607,
+      "word": "老人离世老伴拿出6份遗嘱均被判无效",
+      "onboard_time": 1726914980,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130931,
       "num": 130931,
       "word": "赵丽颖白裙花絮",
@@ -1777,6 +1817,14 @@
       "onboard_time": 1726903339,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128065,
+      "num": 128065,
+      "word": "国泰航空",
+      "onboard_time": 1726914980,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127617,
@@ -2035,6 +2083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75644,
+      "num": 539133,
+      "word": "关晓彤 把晓晓世界当朋友圈发",
+      "onboard_time": 1726914019,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74216,
       "num": 256958,
       "word": "张艺兴为大场面挺身而出",
@@ -2139,6 +2195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 48127,
+      "num": 524469,
+      "word": "吃水果干会增加老年痴呆风险",
+      "onboard_time": 1726913659,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45460,
       "num": 315282,
       "word": "61岁儿子陪伴86岁阿尔兹海默症妈妈",
@@ -2161,14 +2225,6 @@
       "onboard_time": 1726868413,
       "rank": 48,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 42667,
-      "num": 524469,
-      "word": "吃水果干会增加老年痴呆风险",
-      "onboard_time": 1726913659,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42484,
@@ -2307,6 +2363,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 30886,
+      "num": 581285,
+      "word": "我们为什么会被姥姥的外孙深深打动",
+      "onboard_time": 1726912940,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30300,
       "num": 55658,
       "word": "如何让电动自行车跑得更稳",
@@ -2321,6 +2385,14 @@
       "onboard_time": 1726888160,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 28859,
+      "num": 526021,
+      "word": "湖北84岁奶奶体验3000米高空跳伞",
+      "onboard_time": 1726914800,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28640,
@@ -2427,6 +2499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19549,
+      "num": 306516,
+      "word": "李宁大秀选址地图",
+      "onboard_time": 1726910480,
+      "rank": 28,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 19447,
       "num": 249090,
       "word": "120秒致敬中国青年",
@@ -2435,18 +2515,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19032,
-      "num": 306516,
-      "word": "李宁大秀选址地图",
-      "onboard_time": 1726910480,
-      "rank": 28,
-      "category": "时尚"
-    },
-    {
-      "raw_hot": 16014,
-      "num": 581285,
-      "word": "我们为什么会被姥姥的外孙深深打动",
-      "onboard_time": 1726912940,
+      "raw_hot": 17501,
+      "num": 516300,
+      "word": "中国青年永远充满希望",
+      "onboard_time": 1726914980,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -2473,14 +2545,6 @@
       "onboard_time": 1726869553,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6905,
-      "num": 539133,
-      "word": "关晓彤 把晓晓世界当朋友圈发",
-      "onboard_time": 1726914019,
-      "rank": 17,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
