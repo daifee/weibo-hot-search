@@ -1,6 +1,6 @@
 {
   "startTime": 1726849656112,
-  "endTime": 1726915098819,
+  "endTime": 1726917426272,
   "band_list": [
     {
       "raw_hot": 6135283,
@@ -89,6 +89,14 @@
       "onboard_time": 1726885579,
       "rank": 6,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1381424,
+      "num": 1381424,
+      "word": "靳东赵丽颖赵今麦飞天奖封面",
+      "onboard_time": 1726916660,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1269911,
@@ -203,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 846358,
+      "num": 736085,
+      "word": "飞天奖红毯",
+      "onboard_time": 1726912099,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 840334,
       "num": 840334,
       "word": "医院被曝一张CT片子套多个病历",
@@ -217,6 +233,14 @@
       "onboard_time": 1726857313,
       "rank": 15,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 804550,
+      "num": 805649,
+      "word": "55名公职人员因新余火灾被追责问责",
+      "onboard_time": 1726913360,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 799785,
@@ -240,14 +264,6 @@
       "word": "赵丽颖海边大片",
       "onboard_time": 1726912522,
       "rank": 9,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 777957,
-      "num": 736085,
-      "word": "飞天奖红毯",
-      "onboard_time": 1726912099,
-      "rank": 10,
       "category": "剧集"
     },
     {
@@ -337,6 +353,22 @@
       "onboard_time": 1726885100,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 565233,
+      "num": 357403,
+      "word": "易烊千玺在评论区为王俊凯庆生",
+      "onboard_time": 1726916301,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 559738,
+      "num": 304714,
+      "word": "闵塔鲨",
+      "onboard_time": 1726916660,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 549091,
@@ -467,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 481311,
+      "num": 481311,
+      "word": "老人离世老伴拿出6份遗嘱均被判无效",
+      "onboard_time": 1726914980,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456516,
       "num": 456516,
       "word": "易烊千玺出发澳门",
@@ -547,12 +587,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 389103,
+      "num": 287639,
+      "word": "朴灿烈去了爸爸开的店",
+      "onboard_time": 1726915999,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 384424,
       "num": 384424,
       "word": "赵露思登世趋",
       "onboard_time": 1726892478,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 384368,
+      "num": 279776,
+      "word": "李沁飞天奖造型",
+      "onboard_time": 1726915039,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 382293,
@@ -617,6 +673,14 @@
       "onboard_time": 1726883242,
       "rank": 29,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 348768,
+      "num": 275340,
+      "word": "唐嫣暗夜银河造型",
+      "onboard_time": 1726916480,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 340933,
@@ -851,6 +915,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 262446,
+      "num": 225743,
+      "word": "王嘉尔被拒绝当女婿的原因",
+      "onboard_time": 1726916180,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261532,
       "num": 261532,
       "word": "金秋天好辣",
@@ -913,6 +985,14 @@
       "onboard_time": 1726909939,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243727,
+      "num": 243727,
+      "word": "国泰航空",
+      "onboard_time": 1726914980,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242866,
@@ -1131,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201382,
+      "num": 201382,
+      "word": "25岁72岁62岁三人CT片几乎一样",
+      "onboard_time": 1726916540,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199738,
       "num": 199738,
       "word": "王者荣耀",
@@ -1145,6 +1233,14 @@
       "onboard_time": 1726836620,
       "rank": 40,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 196145,
+      "num": 196145,
+      "word": "女子腿绑4瓶茅台入境被查",
+      "onboard_time": 1726915220,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195944,
@@ -1200,6 +1296,14 @@
       "word": "9旬院士说无人机黑飞不是法外之地",
       "onboard_time": 1726909279,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185560,
+      "num": 524469,
+      "word": "吃水果干会增加老年痴呆风险",
+      "onboard_time": 1726913659,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1276,7 +1380,7 @@
     },
     {
       "raw_hot": 172642,
-      "num": 172642,
+      "num": 480607,
       "word": "飞天奖",
       "onboard_time": 1726880601,
       "rank": 33,
@@ -1467,6 +1571,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157745,
+      "num": 157745,
+      "word": "陈雨菲 只会代表中国参赛",
+      "onboard_time": 1726916121,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 155892,
+      "num": 526021,
+      "word": "湖北84岁奶奶体验3000米高空跳伞",
+      "onboard_time": 1726914800,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155891,
       "num": 155891,
       "word": "王一博米兰晚宴",
@@ -1520,6 +1640,14 @@
       "word": "你期待哪部作品获飞天奖",
       "onboard_time": 1726893320,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 150639,
+      "num": 150639,
+      "word": "飞天奖红毯 簪花",
+      "onboard_time": 1726917260,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -1603,14 +1731,6 @@
       "category": "国外时政,军事"
     },
     {
-      "raw_hot": 142464,
-      "num": 142464,
-      "word": "李沁飞天奖造型",
-      "onboard_time": 1726915039,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142185,
       "num": 142185,
       "word": "一秒入秋的正确打开方式",
@@ -1673,6 +1793,14 @@
       "onboard_time": 1726846340,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138269,
+      "num": 138269,
+      "word": "刘诗诗活动出图",
+      "onboard_time": 1726916720,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 137179,
@@ -1763,14 +1891,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 131607,
-      "num": 131607,
-      "word": "老人离世老伴拿出6份遗嘱均被判无效",
-      "onboard_time": 1726914980,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130931,
       "num": 130931,
       "word": "赵丽颖白裙花絮",
@@ -1811,20 +1931,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 128566,
+      "num": 449808,
+      "word": "卫昭吃醋",
+      "onboard_time": 1726916720,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128205,
       "num": 128205,
       "word": "王俊凯工作室",
       "onboard_time": 1726903339,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128065,
-      "num": 128065,
-      "word": "国泰航空",
-      "onboard_time": 1726914980,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127617,
@@ -1867,14 +1987,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 124909,
-      "num": 805649,
-      "word": "55名公职人员因新余火灾被追责问责",
-      "onboard_time": 1726913360,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122827,
       "num": 122827,
       "word": "野孩子",
@@ -1897,6 +2009,14 @@
       "onboard_time": 1726901479,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119672,
+      "num": 119672,
+      "word": "樱兰高校公关部 最帅女主",
+      "onboard_time": 1726916601,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 117447,
@@ -2099,6 +2219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 70087,
+      "num": 461297,
+      "word": "多位村民称网红小英生活与视频一致",
+      "onboard_time": 1726917081,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69020,
       "num": 69020,
       "word": "东北人近期精神状态",
@@ -2193,14 +2321,6 @@
       "onboard_time": 1726853414,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 48127,
-      "num": 524469,
-      "word": "吃水果干会增加老年痴呆风险",
-      "onboard_time": 1726913659,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 45460,
@@ -2387,14 +2507,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 28859,
-      "num": 526021,
-      "word": "湖北84岁奶奶体验3000米高空跳伞",
-      "onboard_time": 1726914800,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28640,
       "num": 33951,
       "word": "余华说喜欢人类幼崽但从来不催婚",
@@ -2496,6 +2608,14 @@
       "word": "台风给江苏带来了绝美晚霞",
       "onboard_time": 1726862831,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20912,
+      "num": 403790,
+      "word": "35秒带你了解人造血管",
+      "onboard_time": 1726917020,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

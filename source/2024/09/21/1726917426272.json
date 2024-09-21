@@ -1,0 +1,410 @@
+{
+  "runTime": 1726917426272,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1474578,
+        "num": 1474578,
+        "word": "新余39死特别重大火灾事故调查报告",
+        "onboard_time": 1726910660,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1381424,
+        "num": 1381424,
+        "word": "靳东赵丽颖赵今麦飞天奖封面",
+        "onboard_time": 1726916660,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23648,
+        "num": 1329581,
+        "word": "青春华章",
+        "onboard_time": 1726819520,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1313146,
+        "num": 1313146,
+        "word": "黄晓明 叶珂",
+        "onboard_time": 1726896440,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 804550,
+        "num": 804550,
+        "word": "55名公职人员因新余火灾被追责问责",
+        "onboard_time": 1726913360,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543613,
+        "num": 543613,
+        "word": "网红小英回应塌房风波",
+        "onboard_time": 1726903579,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 506702,
+        "num": 506702,
+        "word": "当地村民称小英生了不止两个孩子",
+        "onboard_time": 1726908440,
+        "rank": 6,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 481311,
+        "num": 481311,
+        "word": "老人离世老伴拿出6份遗嘱均被判无效",
+        "onboard_time": 1726914980,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118656,
+        "num": 480607,
+        "word": "飞天奖",
+        "onboard_time": 1726880601,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70087,
+        "num": 461297,
+        "word": "多位村民称网红小英生活与视频一致",
+        "onboard_time": 1726917081,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128566,
+        "num": 449808,
+        "word": "卫昭吃醋",
+        "onboard_time": 1726916720,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 996045,
+        "num": 445689,
+        "word": "黄晓明曾为叶珂包场庆生",
+        "onboard_time": 1726911800,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 846358,
+        "num": 429139,
+        "word": "飞天奖红毯",
+        "onboard_time": 1726912099,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 734927,
+        "num": 416697,
+        "word": "黄轩说女友4年前就出镜过",
+        "onboard_time": 1726910900,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20912,
+        "num": 403790,
+        "word": "35秒带你了解人造血管",
+        "onboard_time": 1726917020,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8019,
+        "num": 394952,
+        "word": "金标大众灵感空间抵达深圳",
+        "onboard_time": 1726912999,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 637303,
+        "num": 384112,
+        "word": "王俊凯25岁第一天从清理库存开始",
+        "onboard_time": 1726905080,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380799,
+        "num": 380799,
+        "word": "法考卷二",
+        "onboard_time": 1726911800,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 565233,
+        "num": 357403,
+        "word": "易烊千玺在评论区为王俊凯庆生",
+        "onboard_time": 1726916301,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313263,
+        "num": 313263,
+        "word": "女子美甲后指甲变绿全甲被拔除",
+        "onboard_time": 1726909759,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 740250,
+        "num": 312233,
+        "word": "1岁男童腹中竟有个小宝宝",
+        "onboard_time": 1726905140,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559738,
+        "num": 304714,
+        "word": "闵塔鲨",
+        "onboard_time": 1726916660,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501837,
+        "num": 296858,
+        "word": "赵丽颖海边大片",
+        "onboard_time": 1726912522,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390201,
+        "num": 292124,
+        "word": "kpop人才懂这组合的门道有多深",
+        "onboard_time": 1726912099,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389103,
+        "num": 287639,
+        "word": "朴灿烈去了爸爸开的店",
+        "onboard_time": 1726915999,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384368,
+        "num": 279776,
+        "word": "李沁飞天奖造型",
+        "onboard_time": 1726915039,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348768,
+        "num": 275340,
+        "word": "唐嫣暗夜银河造型",
+        "onboard_time": 1726916480,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274064,
+        "num": 274064,
+        "word": "迪丽热巴时装周启程图",
+        "onboard_time": 1726912639,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 250547,
+        "num": 250547,
+        "word": "男子凌晨4点散步失足坠海",
+        "onboard_time": 1726900998,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243727,
+        "num": 243727,
+        "word": "国泰航空",
+        "onboard_time": 1726914980,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265243,
+        "num": 237129,
+        "word": "杨紫 生命树",
+        "onboard_time": 1726902440,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262446,
+        "num": 225743,
+        "word": "王嘉尔被拒绝当女婿的原因",
+        "onboard_time": 1726916180,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201382,
+        "num": 201382,
+        "word": "25岁72岁62岁三人CT片几乎一样",
+        "onboard_time": 1726916540,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199421,
+        "num": 199421,
+        "word": "胎儿查出超雄基因真的不能留吗",
+        "onboard_time": 1726905679,
+        "rank": 33,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 196145,
+        "num": 196145,
+        "word": "女子腿绑4瓶茅台入境被查",
+        "onboard_time": 1726915220,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185560,
+        "num": 185560,
+        "word": "吃水果干会增加老年痴呆风险",
+        "onboard_time": 1726913659,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180264,
+        "num": 180264,
+        "word": "黄轩女朋友",
+        "onboard_time": 1726880539,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162476,
+        "num": 162476,
+        "word": "易烊千玺出发澳门",
+        "onboard_time": 1726909879,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158071,
+        "num": 158071,
+        "word": "为了live图把微信卸载聊天记录没了",
+        "onboard_time": 1726902440,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157745,
+        "num": 157745,
+        "word": "陈雨菲 只会代表中国参赛",
+        "onboard_time": 1726916121,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155892,
+        "num": 155892,
+        "word": "湖北84岁奶奶体验3000米高空跳伞",
+        "onboard_time": 1726914800,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153246,
+        "num": 153246,
+        "word": "临近婚期伴娘没有消息了",
+        "onboard_time": 1726906340,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150639,
+        "num": 150639,
+        "word": "飞天奖红毯 簪花",
+        "onboard_time": 1726917260,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143090,
+        "num": 143090,
+        "word": "湾区升明月",
+        "onboard_time": 1726911680,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138269,
+        "num": 138269,
+        "word": "刘诗诗活动出图",
+        "onboard_time": 1726916720,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137496,
+        "num": 137496,
+        "word": "lingorm",
+        "onboard_time": 1726914259,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130777,
+        "num": 130777,
+        "word": "法考",
+        "onboard_time": 1726888401,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 119672,
+        "num": 119672,
+        "word": "樱兰高校公关部 最帅女主",
+        "onboard_time": 1726916601,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 109195,
+        "num": 109195,
+        "word": "女生买模型被教官查房一眼发现",
+        "onboard_time": 1726902800,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108346,
+        "num": 108346,
+        "word": "王楚钦备战中国大满贯",
+        "onboard_time": 1726907840,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力把新疆班办得更有质量更有成效#"
+    }
+  }
+}
