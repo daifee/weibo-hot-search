@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1726950093446,
+  "endTime": 1726950917158,
   "band_list": [
     {
       "raw_hot": 4059841,
@@ -507,7 +507,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 37801,
+      "raw_hot": 38857,
       "num": 22973,
       "word": "飞天奖视后获奖感言",
       "onboard_time": 1726949951,
@@ -539,19 +539,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 21877,
+      "num": 21877,
+      "word": "00后种地搞了个田间情报站",
+      "onboard_time": 1726948812,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20674,
       "num": 208688,
       "word": "以为在火星实际在长城",
       "onboard_time": 1726931305,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20269,
-      "num": 21501,
-      "word": "00后种地搞了个田间情报站",
-      "onboard_time": 1726948812,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -563,19 +563,27 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 14752,
+      "num": 21677,
+      "word": "台州人这回真海鲜自由了",
+      "onboard_time": 1726950192,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14124,
+      "num": 39873,
+      "word": "机组挥舞国旗为胖妞竖起小耳朵",
+      "onboard_time": 1726949531,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12796,
       "num": 2443233,
       "word": "南开两任校长跨越105年的相遇",
       "onboard_time": 1726923742,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11744,
-      "num": 39873,
-      "word": "机组挥舞国旗为胖妞竖起小耳朵",
-      "onboard_time": 1726949531,
-      "rank": 9,
       "category": "社会新闻"
     }
   ],
