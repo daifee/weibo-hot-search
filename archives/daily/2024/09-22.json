@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1726944043447,
+  "endTime": 1726946248079,
   "band_list": [
     {
       "raw_hot": 4059841,
@@ -411,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76365,
+      "num": 76365,
+      "word": "加沙死者名单前14页都是婴儿",
+      "onboard_time": 1726942154,
+      "rank": 47,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 74784,
       "num": 202881,
       "word": "3岁幼儿园小朋友能有多自律",
@@ -483,14 +491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 39273,
-      "num": 56605,
-      "word": "加沙死者名单前14页都是婴儿",
-      "onboard_time": 1726942154,
-      "rank": 47,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 35905,
       "num": 56607,
       "word": "葫芦果音乐节",
@@ -505,6 +505,14 @@
       "onboard_time": 1726932383,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22652,
+      "num": 28176,
+      "word": "朱志鑫比耶",
+      "onboard_time": 1726933102,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 20674,
