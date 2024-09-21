@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1726943240821,
+  "endTime": 1726944043447,
   "band_list": [
     {
       "raw_hot": 4059841,
@@ -419,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 72793,
+      "num": 72793,
+      "word": "上海地铁9座车站更名",
+      "onboard_time": 1726941734,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71246,
       "num": 202870,
       "word": "时空中的绘旅人 第五人格",
@@ -459,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54210,
-      "num": 61117,
-      "word": "上海地铁9座车站更名",
-      "onboard_time": 1726941734,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50585,
       "num": 112262,
       "word": "第五人格",
@@ -475,20 +475,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 35569,
-      "num": 56607,
-      "word": "葫芦果音乐节",
-      "onboard_time": 1726943114,
-      "rank": 44,
-      "category": "演出"
+      "raw_hot": 46501,
+      "num": 46501,
+      "word": "王子文掉提",
+      "onboard_time": 1726937598,
+      "rank": 36,
+      "category": "剧集"
     },
     {
-      "raw_hot": 31443,
+      "raw_hot": 39273,
       "num": 56605,
       "word": "加沙死者名单前14页都是婴儿",
       "onboard_time": 1726942154,
       "rank": 47,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 35905,
+      "num": 56607,
+      "word": "葫芦果音乐节",
+      "onboard_time": 1726943114,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 25936,
