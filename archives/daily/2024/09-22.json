@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1726947318937,
+  "endTime": 1726950093446,
   "band_list": [
     {
       "raw_hot": 4059841,
@@ -315,6 +315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 130151,
+      "num": 130151,
+      "word": "被砍后反杀凶手男子家属发声",
+      "onboard_time": 1726945692,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129759,
       "num": 202961,
       "word": "韩火火分享周雨彤庆生照",
@@ -499,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37801,
+      "num": 22973,
+      "word": "飞天奖视后获奖感言",
+      "onboard_time": 1726949951,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 35905,
       "num": 56607,
       "word": "葫芦果音乐节",
@@ -523,19 +539,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 20861,
-      "num": 56021,
-      "word": "被砍后反杀凶手男子家属发声",
-      "onboard_time": 1726945692,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 20674,
       "num": 208688,
       "word": "以为在火星实际在长城",
       "onboard_time": 1726931305,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20269,
+      "num": 21501,
+      "word": "00后种地搞了个田间情报站",
+      "onboard_time": 1726948812,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -552,6 +568,14 @@
       "word": "南开两任校长跨越105年的相遇",
       "onboard_time": 1726923742,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11744,
+      "num": 39873,
+      "word": "机组挥舞国旗为胖妞竖起小耳朵",
+      "onboard_time": 1726949531,
+      "rank": 9,
       "category": "社会新闻"
     }
   ],
