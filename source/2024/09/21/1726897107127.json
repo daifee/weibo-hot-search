@@ -1,0 +1,410 @@
+{
+  "runTime": 1726897107127,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2086645,
+        "num": 2086645,
+        "word": "黄轩女朋友",
+        "onboard_time": 1726880539,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 840334,
+        "num": 840334,
+        "word": "医院被曝一张CT片子套多个病历",
+        "onboard_time": 1726892181,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28745,
+        "num": 831759,
+        "word": "青春华章",
+        "onboard_time": 1726819520,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1590544,
+        "num": 820061,
+        "word": "90后独生女独自面对父母离世",
+        "onboard_time": 1726891101,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1245589,
+        "num": 794320,
+        "word": "老伴去世女子被继女要求搬离",
+        "onboard_time": 1726893980,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1024238,
+        "num": 777265,
+        "word": "武艺爆料张碧晨喜欢在厕所吃饭",
+        "onboard_time": 1726894700,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 888950,
+        "num": 750208,
+        "word": "蔡徐坤抱了赵露思的狗",
+        "onboard_time": 1726885579,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 742507,
+        "num": 742507,
+        "word": "黄晓明 叶珂",
+        "onboard_time": 1726896440,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 600503,
+        "num": 600503,
+        "word": "常说这4句话的人痴呆风险高",
+        "onboard_time": 1726893560,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305147,
+        "num": 509874,
+        "word": "女子买4万黄金不挑款式店员果断报警",
+        "onboard_time": 1726876637,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437345,
+        "num": 437345,
+        "word": "王源发文为王俊凯庆生",
+        "onboard_time": 1726874054,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404666,
+        "num": 404666,
+        "word": "老叔拿离婚证骗小姑娘恋爱",
+        "onboard_time": 1726894939,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 384424,
+        "num": 384424,
+        "word": "赵露思登世趋",
+        "onboard_time": 1726892478,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 325269,
+        "num": 325269,
+        "word": "孙千 程苗苗17岁的青春永不落幕",
+        "onboard_time": 1726890680,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311639,
+        "num": 311639,
+        "word": "法考卷一难不难",
+        "onboard_time": 1726893020,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 270970,
+        "num": 270970,
+        "word": "法考",
+        "onboard_time": 1726888401,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 26599,
+        "num": 237584,
+        "word": "smart的大五座权益超级加倍",
+        "onboard_time": 1726895179,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225223,
+        "num": 225223,
+        "word": "柏浪涛 刑法的神",
+        "onboard_time": 1726894999,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 23637,
+        "num": 200745,
+        "word": "葛晓倩称早已知情袁巴元公关文",
+        "onboard_time": 1726896860,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193752,
+        "num": 193752,
+        "word": "学生测试学校自来水洗脸巾秒变黑",
+        "onboard_time": 1726888581,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148204,
+        "num": 193397,
+        "word": "什么是女本位创作",
+        "onboard_time": 1726896081,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306508,
+        "num": 190074,
+        "word": "iPhone17标准版或配120Hz高刷",
+        "onboard_time": 1726891220,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 303205,
+        "num": 188412,
+        "word": "朴秀荣或将离开SM",
+        "onboard_time": 1726892240,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284100,
+        "num": 184804,
+        "word": "文章马伊琍女儿16岁生日照",
+        "onboard_time": 1726877719,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264767,
+        "num": 183907,
+        "word": "湾区升明月阵容",
+        "onboard_time": 1726888700,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 251205,
+        "num": 181340,
+        "word": "肖战湾区升明月有三首歌",
+        "onboard_time": 1726895960,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 250364,
+        "num": 179922,
+        "word": "陈幸同公布新身份",
+        "onboard_time": 1726895538,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214824,
+        "num": 177881,
+        "word": "吴谨言妆造",
+        "onboard_time": 1726890442,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211618,
+        "num": 173669,
+        "word": "TOP登陆少年首次外务",
+        "onboard_time": 1726896920,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173554,
+        "num": 173554,
+        "word": "中方用令人发指一词谈寻呼机爆炸",
+        "onboard_time": 1726878979,
+        "rank": 29,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 36670,
+        "num": 173416,
+        "word": "肖战让暖不止于暖",
+        "onboard_time": 1726891760,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 68654,
+        "num": 171635,
+        "word": "微博音乐盛典第二波阵容官宣",
+        "onboard_time": 1726896560,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188118,
+        "num": 170398,
+        "word": "葛晓倩回应袁巴元",
+        "onboard_time": 1726890378,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66893,
+        "num": 169048,
+        "word": "存量房贷利率调降呼声再起",
+        "onboard_time": 1726895059,
+        "rank": 33,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 187462,
+        "num": 167937,
+        "word": "袁巴元维护张雨绮",
+        "onboard_time": 1726887379,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167600,
+        "num": 167600,
+        "word": "这就是中国军人带来的安全感",
+        "onboard_time": 1726887321,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167588,
+        "num": 167588,
+        "word": "蔡徐坤米兰时装周奢牌待遇",
+        "onboard_time": 1726896740,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 154901,
+        "num": 154901,
+        "word": "半个娱乐圈的人来厦门了",
+        "onboard_time": 1726874355,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152375,
+        "num": 152375,
+        "word": "小英掉粉揭示了大众对虚假人设的反感",
+        "onboard_time": 1726883242,
+        "rank": 38,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 143975,
+        "num": 152034,
+        "word": "美媒称以筹备通信设备爆炸至少15年",
+        "onboard_time": 1726894939,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 151830,
+        "num": 151830,
+        "word": "稻城亚丁景区被指禁止游客吃泡面",
+        "onboard_time": 1726881740,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150382,
+        "num": 150382,
+        "word": "杨志刚一开口像讲解员",
+        "onboard_time": 1726895600,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150082,
+        "num": 150082,
+        "word": "闪耀暖暖",
+        "onboard_time": 1726894760,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144524,
+        "num": 144524,
+        "word": "战至巅峰3战队淘汰重组",
+        "onboard_time": 1726895719,
+        "rank": 43,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 142185,
+        "num": 142185,
+        "word": "一秒入秋的正确打开方式",
+        "onboard_time": 1726896620,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 134173,
+        "num": 134173,
+        "word": "村干部称小英家曾是建档贫困户",
+        "onboard_time": 1726887020,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133931,
+        "num": 133931,
+        "word": "无期迷途",
+        "onboard_time": 1726894760,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132656,
+        "num": 132656,
+        "word": "以军将巴勒斯坦人遗体踢下楼",
+        "onboard_time": 1726884140,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 129172,
+        "num": 129172,
+        "word": "第一次用长的抽象形容一只狗",
+        "onboard_time": 1726896799,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126318,
+        "num": 126318,
+        "word": "黎巴嫩真主党曾为了安全才使用BP机",
+        "onboard_time": 1726896680,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#把人民政协的显著政治优势更加充分发挥出来#"
+    }
+  }
+}

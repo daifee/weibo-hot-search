@@ -1,6 +1,6 @@
 {
   "startTime": 1726849656112,
-  "endTime": 1726896075676,
+  "endTime": 1726897107127,
   "band_list": [
     {
       "raw_hot": 6135283,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1245589,
+      "num": 2136906,
+      "word": "老伴去世女子被继女要求搬离",
+      "onboard_time": 1726893980,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1107969,
       "num": 1107969,
       "word": "梅姨",
@@ -83,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1024238,
+      "num": 777265,
+      "word": "武艺爆料张碧晨喜欢在厕所吃饭",
+      "onboard_time": 1726894700,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 963509,
       "num": 963509,
       "word": "男主写死了",
@@ -104,6 +120,14 @@
       "word": "女子买4万黄金不挑款式店员果断报警",
       "onboard_time": 1726876637,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 840334,
+      "num": 840334,
+      "word": "医院被曝一张CT片子套多个病历",
+      "onboard_time": 1726892181,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -131,12 +155,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 749812,
-      "num": 2136906,
-      "word": "老伴去世女子被继女要求搬离",
-      "onboard_time": 1726893980,
-      "rank": 1,
-      "category": "社会新闻"
+      "raw_hot": 742507,
+      "num": 742507,
+      "word": "黄晓明 叶珂",
+      "onboard_time": 1726896440,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 735656,
@@ -163,11 +187,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 651927,
-      "num": 651927,
-      "word": "医院被曝一张CT片子套多个病历",
-      "onboard_time": 1726892181,
-      "rank": 9,
+      "raw_hot": 600503,
+      "num": 600503,
+      "word": "常说这4句话的人痴呆风险高",
+      "onboard_time": 1726893560,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -227,14 +251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 484073,
-      "num": 484073,
-      "word": "常说这4句话的人痴呆风险高",
-      "onboard_time": 1726893560,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 483795,
       "num": 483795,
       "word": "法考卷一难不难",
@@ -283,12 +299,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 404666,
+      "num": 404666,
+      "word": "老叔拿离婚证骗小姑娘恋爱",
+      "onboard_time": 1726894939,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 394399,
       "num": 394399,
       "word": "摄影大师央美演讲因多人看手机离席",
       "onboard_time": 1726847719,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384424,
+      "num": 384424,
+      "word": "赵露思登世趋",
+      "onboard_time": 1726892478,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 382293,
@@ -315,28 +347,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 373555,
-      "num": 373555,
-      "word": "武艺爆料张碧晨喜欢在厕所吃饭",
-      "onboard_time": 1726894700,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 359598,
       "num": 359598,
       "word": "孙千 程苗苗17岁的青春永不落幕",
       "onboard_time": 1726890680,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 356027,
-      "num": 356027,
-      "word": "赵露思登世趋",
-      "onboard_time": 1726892478,
-      "rank": 34,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 353910,
@@ -419,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306508,
+      "num": 281575,
+      "word": "iPhone17标准版或配120Hz高刷",
+      "onboard_time": 1726891220,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 302820,
       "num": 319063,
       "word": "学生测试学校自来水洗脸巾秒变黑",
@@ -449,14 +473,6 @@
       "onboard_time": 1726878379,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 288290,
-      "num": 281575,
-      "word": "iPhone17标准版或配120Hz高刷",
-      "onboard_time": 1726891220,
-      "rank": 27,
-      "category": "数码"
     },
     {
       "raw_hot": 284995,
@@ -529,6 +545,22 @@
       "onboard_time": 1726844840,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 251205,
+      "num": 181340,
+      "word": "肖战湾区升明月有三首歌",
+      "onboard_time": 1726895960,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 250364,
+      "num": 188616,
+      "word": "陈幸同公布新身份",
+      "onboard_time": 1726895538,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 248480,
@@ -611,12 +643,12 @@
       "category": "社会新闻,国外时政"
     },
     {
-      "raw_hot": 223086,
-      "num": 223086,
-      "word": "老叔拿离婚证骗小姑娘恋爱",
-      "onboard_time": 1726894939,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 225223,
+      "num": 225223,
+      "word": "柏浪涛 刑法的神",
+      "onboard_time": 1726894999,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 220054,
@@ -625,14 +657,6 @@
       "onboard_time": 1726894760,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 219488,
-      "num": 219488,
-      "word": "柏浪涛 刑法的神",
-      "onboard_time": 1726894999,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 219485,
@@ -665,6 +689,14 @@
       "onboard_time": 1726888160,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 211618,
+      "num": 173669,
+      "word": "TOP登陆少年首次外务",
+      "onboard_time": 1726896920,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 208844,
@@ -745,14 +777,6 @@
       "onboard_time": 1726875558,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 188616,
-      "num": 188616,
-      "word": "陈幸同公布新身份",
-      "onboard_time": 1726895538,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 188346,
@@ -883,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167588,
+      "num": 167588,
+      "word": "蔡徐坤米兰时装周奢牌待遇",
+      "onboard_time": 1726896740,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 166056,
       "num": 166056,
       "word": "狗在生气和窝囊之间选择了生窝囊气",
@@ -947,14 +979,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 152944,
-      "num": 152944,
-      "word": "肖战湾区升明月有三首歌",
-      "onboard_time": 1726895960,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 150734,
       "num": 150734,
       "word": "你期待哪部作品获飞天奖",
@@ -987,6 +1011,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 148204,
+      "num": 193397,
+      "word": "什么是女本位创作",
+      "onboard_time": 1726896081,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147552,
       "num": 145512,
       "word": "网红小英塌房风波背后",
@@ -1011,6 +1043,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 143975,
+      "num": 369566,
+      "word": "美媒称以筹备通信设备爆炸至少15年",
+      "onboard_time": 1726894939,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 143870,
       "num": 143870,
       "word": "计算机二级",
@@ -1025,6 +1065,14 @@
       "onboard_time": 1726881619,
       "rank": 24,
       "category": "国外时政,军事"
+    },
+    {
+      "raw_hot": 142185,
+      "num": 142185,
+      "word": "一秒入秋的正确打开方式",
+      "onboard_time": 1726896620,
+      "rank": 44,
+      "category": "美妆"
     },
     {
       "raw_hot": 142086,
@@ -1155,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129172,
+      "num": 129172,
+      "word": "第一次用长的抽象形容一只狗",
+      "onboard_time": 1726896799,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127617,
       "num": 127617,
       "word": "宝马因销量重返价格战",
@@ -1185,6 +1241,14 @@
       "onboard_time": 1726882640,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126318,
+      "num": 126318,
+      "word": "黎巴嫩真主党曾为了安全才使用BP机",
+      "onboard_time": 1726896680,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 122827,
@@ -1299,14 +1363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 78436,
-      "num": 369566,
-      "word": "美媒称以筹备通信设备爆炸至少15年",
-      "onboard_time": 1726894939,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 69020,
       "num": 69020,
       "word": "东北人近期精神状态",
@@ -1315,12 +1371,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 68654,
+      "num": 171635,
+      "word": "微博音乐盛典第二波阵容官宣",
+      "onboard_time": 1726896560,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 67676,
       "num": 67676,
       "word": "李纯马頔一起走机场",
       "onboard_time": 1726873215,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66893,
+      "num": 332655,
+      "word": "存量房贷利率调降呼声再起",
+      "onboard_time": 1726895059,
+      "rank": 14,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 60494,
@@ -1403,14 +1475,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 40750,
-      "num": 332655,
-      "word": "存量房贷利率调降呼声再起",
-      "onboard_time": 1726895059,
-      "rank": 14,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 38839,
       "num": 234838,
       "word": "多家银行信用卡收缩权益",
@@ -1483,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28745,
+      "num": 1756806,
+      "word": "青春华章",
+      "onboard_time": 1726819520,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28640,
       "num": 33951,
       "word": "余华说喜欢人类幼崽但从来不催婚",
@@ -1531,12 +1603,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 24077,
-      "num": 1756806,
-      "word": "青春华章",
-      "onboard_time": 1726819520,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 23637,
+      "num": 200745,
+      "word": "葛晓倩称早已知情袁巴元公关文",
+      "onboard_time": 1726896860,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 22427,

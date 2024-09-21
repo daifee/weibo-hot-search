@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726896075676,
+  "endTime": 1726897107127,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -1195,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1245589,
+      "num": 2136906,
+      "word": "老伴去世女子被继女要求搬离",
+      "onboard_time": 1726893980,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1245181,
       "num": 1245181,
       "word": "美心月饼直播间晒报关单",
@@ -1657,6 +1665,14 @@
       "onboard_time": 1726563441,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1024238,
+      "num": 777265,
+      "word": "武艺爆料张碧晨喜欢在厕所吃饭",
+      "onboard_time": 1726894700,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 1020798,
@@ -2155,6 +2171,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 840334,
+      "num": 840334,
+      "word": "医院被曝一张CT片子套多个病历",
+      "onboard_time": 1726892181,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 836616,
       "num": 523360,
       "word": "女子下班回家发现大量陌生脚印",
@@ -2467,18 +2491,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 749812,
-      "num": 2136906,
-      "word": "老伴去世女子被继女要求搬离",
-      "onboard_time": 1726893980,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 745269,
       "num": 596111,
       "word": "期待黄晓明第二个世纪婚礼",
       "onboard_time": 1726815201,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 742507,
+      "num": 742507,
+      "word": "黄晓明 叶珂",
+      "onboard_time": 1726896440,
       "rank": 7,
       "category": "艺人"
     },
@@ -2875,14 +2899,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 651927,
-      "num": 651927,
-      "word": "医院被曝一张CT片子套多个病历",
-      "onboard_time": 1726892181,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 650648,
       "num": 650648,
       "word": "杨洋章若楠开机同框",
@@ -3265,6 +3281,14 @@
       "onboard_time": 1726588279,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 600503,
+      "num": 600503,
+      "word": "常说这4句话的人痴呆风险高",
+      "onboard_time": 1726893560,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 600388,
@@ -4123,14 +4147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 484073,
-      "num": 484073,
-      "word": "常说这4句话的人痴呆风险高",
-      "onboard_time": 1726893560,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 483903,
       "num": 325390,
       "word": "妈妈双子宫龙凤胎宝宝住上双拼别墅",
@@ -4779,6 +4795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 404666,
+      "num": 404666,
+      "word": "老叔拿离婚证骗小姑娘恋爱",
+      "onboard_time": 1726894939,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 404642,
       "num": 440053,
       "word": "北京暴雨",
@@ -4987,6 +5011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 384424,
+      "num": 384424,
+      "word": "赵露思登世趋",
+      "onboard_time": 1726892478,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 382990,
       "num": 652196,
       "word": "暮光之城作者也出演了电影",
@@ -5105,14 +5137,6 @@
       "onboard_time": 1726844840,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 373555,
-      "num": 373555,
-      "word": "武艺爆料张碧晨喜欢在厕所吃饭",
-      "onboard_time": 1726894700,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 373400,
@@ -5337,14 +5361,6 @@
       "onboard_time": 1726460659,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 356027,
-      "num": 356027,
-      "word": "赵露思登世趋",
-      "onboard_time": 1726892478,
-      "rank": 34,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 355971,
@@ -6171,6 +6187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306508,
+      "num": 281575,
+      "word": "iPhone17标准版或配120Hz高刷",
+      "onboard_time": 1726891220,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 305336,
       "num": 305336,
       "word": "林允这下真成白月光了",
@@ -6569,14 +6593,6 @@
       "onboard_time": 1726703058,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 288290,
-      "num": 281575,
-      "word": "iPhone17标准版或配120Hz高刷",
-      "onboard_time": 1726891220,
-      "rank": 27,
-      "category": "数码"
     },
     {
       "raw_hot": 288147,
@@ -7523,6 +7539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251205,
+      "num": 181340,
+      "word": "肖战湾区升明月有三首歌",
+      "onboard_time": 1726895960,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 251191,
       "num": 251191,
       "word": "看完理解张桂梅因女孩重回大山嫁人生气",
@@ -7537,6 +7561,14 @@
       "onboard_time": 1726791020,
       "rank": 23,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 250364,
+      "num": 188616,
+      "word": "陈幸同公布新身份",
+      "onboard_time": 1726895538,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 250101,
@@ -8419,6 +8451,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 225223,
+      "num": 225223,
+      "word": "柏浪涛 刑法的神",
+      "onboard_time": 1726894999,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 225086,
       "num": 303528,
       "word": "半熟男女好敢拍",
@@ -8449,14 +8489,6 @@
       "onboard_time": 1726396580,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223086,
-      "num": 223086,
-      "word": "老叔拿离婚证骗小姑娘恋爱",
-      "onboard_time": 1726894939,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 222952,
@@ -8609,14 +8641,6 @@
       "onboard_time": 1726808122,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 219488,
-      "num": 219488,
-      "word": "柏浪涛 刑法的神",
-      "onboard_time": 1726894999,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 219485,
@@ -8897,6 +8921,14 @@
       "onboard_time": 1726720226,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 211618,
+      "num": 173669,
+      "word": "TOP登陆少年首次外务",
+      "onboard_time": 1726896920,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 211525,
@@ -10451,14 +10483,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 188616,
-      "num": 188616,
-      "word": "陈幸同公布新身份",
-      "onboard_time": 1726895538,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 188577,
       "num": 680048,
       "word": "iPhone16和华为三折人气谁更旺",
@@ -11803,6 +11827,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 167588,
+      "num": 167588,
+      "word": "蔡徐坤米兰时装周奢牌待遇",
+      "onboard_time": 1726896740,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 167483,
       "num": 169966,
       "word": "iOS通话录音功能支持老款iPhone",
@@ -12915,14 +12947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152944,
-      "num": 152944,
-      "word": "肖战湾区升明月有三首歌",
-      "onboard_time": 1726895960,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 152875,
       "num": 152875,
       "word": "这是迎风流泪的青春吧",
@@ -13195,6 +13219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148204,
+      "num": 193397,
+      "word": "什么是女本位创作",
+      "onboard_time": 1726896081,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147859,
       "num": 441632,
       "word": "河南卫视奥运冠军梦幻联动",
@@ -13451,6 +13483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143975,
+      "num": 369566,
+      "word": "美媒称以筹备通信设备爆炸至少15年",
+      "onboard_time": 1726894939,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 143923,
       "num": 143923,
       "word": "华为终端",
@@ -13625,6 +13665,14 @@
       "onboard_time": 1726364298,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142185,
+      "num": 142185,
+      "word": "一秒入秋的正确打开方式",
+      "onboard_time": 1726896620,
+      "rank": 44,
+      "category": "美妆"
     },
     {
       "raw_hot": 141931,
@@ -14627,6 +14675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129172,
+      "num": 129172,
+      "word": "第一次用长的抽象形容一只狗",
+      "onboard_time": 1726896799,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129155,
       "num": 129155,
       "word": "北京多区暴雨蓝色预警",
@@ -14753,6 +14809,14 @@
       "onboard_time": 1726386919,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126318,
+      "num": 126318,
+      "word": "黎巴嫩真主党曾为了安全才使用BP机",
+      "onboard_time": 1726896680,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 125532,
@@ -16299,14 +16363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78436,
-      "num": 369566,
-      "word": "美媒称以筹备通信设备爆炸至少15年",
-      "onboard_time": 1726894939,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 78168,
       "num": 867547,
       "word": "不要为了营销矮化员工的自我尊严",
@@ -16675,6 +16731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68654,
+      "num": 171635,
+      "word": "微博音乐盛典第二波阵容官宣",
+      "onboard_time": 1726896560,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 68368,
       "num": 708151,
       "word": "文化中国行月满人团圆",
@@ -16729,6 +16793,14 @@
       "onboard_time": 1726663105,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66893,
+      "num": 332655,
+      "word": "存量房贷利率调降呼声再起",
+      "onboard_time": 1726895059,
+      "rank": 14,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 66325,
@@ -17833,14 +17905,6 @@
       "onboard_time": 1726850837,
       "rank": 34,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 40750,
-      "num": 332655,
-      "word": "存量房贷利率调降呼声再起",
-      "onboard_time": 1726895059,
-      "rank": 14,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 40521,
@@ -19017,6 +19081,14 @@
       "onboard_time": 1726515251,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23637,
+      "num": 200745,
+      "word": "葛晓倩称早已知情袁巴元公关文",
+      "onboard_time": 1726896860,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 23588,
