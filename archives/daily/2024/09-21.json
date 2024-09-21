@@ -1,6 +1,6 @@
 {
   "startTime": 1726849656112,
-  "endTime": 1726900912819,
+  "endTime": 1726903178449,
   "band_list": [
     {
       "raw_hot": 6135283,
@@ -72,6 +72,14 @@
       "word": "老伴去世女子被继女要求搬离",
       "onboard_time": 1726893980,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1220513,
+      "num": 1220513,
+      "word": "老人痛诉全身只有20元赌什么博",
+      "onboard_time": 1726898059,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -163,6 +171,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 784300,
+      "num": 399242,
+      "word": "赵丽颖在张碧晨家厕所睡过觉",
+      "onboard_time": 1726902860,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 761395,
       "num": 761395,
       "word": "女子离婚后中500万被诉前夫获200万",
@@ -192,14 +208,6 @@
       "word": "稻城亚丁景区被指禁止游客吃泡面",
       "onboard_time": 1726881740,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 656228,
-      "num": 656228,
-      "word": "老人痛诉全身只有20元赌什么博",
-      "onboard_time": 1726898059,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -265,6 +273,14 @@
       "onboard_time": 1726894939,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 494573,
+      "num": 406560,
+      "word": "半熟男女 假离婚真劈腿",
+      "onboard_time": 1726899860,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 492078,
@@ -353,6 +369,14 @@
       "onboard_time": 1726847719,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392657,
+      "num": 392657,
+      "word": "杨超越娱乐圈最好的朋友是黄明昊",
+      "onboard_time": 1726901600,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 390315,
@@ -699,12 +723,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230390,
+      "num": 462109,
+      "word": "以色列曾给手机装炸药成功暗杀",
+      "onboard_time": 1726899619,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 229827,
       "num": 229827,
       "word": "我赴黎维和部队营区周边发生航弹爆炸",
       "onboard_time": 1726843581,
       "rank": 29,
       "category": "社会新闻,国外时政"
+    },
+    {
+      "raw_hot": 229740,
+      "num": 229740,
+      "word": "结婚后多少人敢空着手回娘家",
+      "onboard_time": 1726900698,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 226491,
+      "num": 226491,
+      "word": "杨紫 生命树",
+      "onboard_time": 1726902440,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 225223,
@@ -736,6 +784,14 @@
       "word": "Hanni露背装",
       "onboard_time": 1726846040,
       "rank": 20,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 214810,
+      "num": 214810,
+      "word": "时代少年团李宁大秀",
+      "onboard_time": 1726902620,
+      "rank": 29,
       "category": "作品衍生"
     },
     {
@@ -803,6 +859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204140,
+      "num": 204140,
+      "word": "计算机二级 PPT",
+      "onboard_time": 1726902379,
+      "rank": 30,
+      "category": "教育,互联网"
+    },
+    {
       "raw_hot": 199738,
       "num": 199738,
       "word": "王者荣耀",
@@ -819,12 +883,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 196282,
+      "num": 196282,
+      "word": "男子凌晨4点散步失足坠海",
+      "onboard_time": 1726900998,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194230,
       "num": 194230,
       "word": "全红婵归队",
       "onboard_time": 1726843342,
       "rank": 21,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 192627,
+      "num": 192627,
+      "word": "尹锡悦发文感谢韩国夫妻生下5胞胎",
+      "onboard_time": 1726900998,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 191208,
@@ -841,14 +921,6 @@
       "onboard_time": 1726832539,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186490,
-      "num": 186490,
-      "word": "结婚后多少人敢空着手回娘家",
-      "onboard_time": 1726900698,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 183909,
@@ -889,6 +961,14 @@
       "onboard_time": 1726895719,
       "rank": 36,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 179673,
+      "num": 179673,
+      "word": "韩国诞生首例自然受孕5胞胎",
+      "onboard_time": 1726901299,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174630,
@@ -995,6 +1075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165135,
+      "num": 165135,
+      "word": "新疆葡萄干不是晒出来而是晾出来的",
+      "onboard_time": 1726898961,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 163224,
       "num": 163224,
       "word": "视频显示以军从楼顶扔巴勒斯坦人尸体",
@@ -1075,14 +1163,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 153648,
-      "num": 153648,
-      "word": "半熟男女 假离婚真劈腿",
-      "onboard_time": 1726899860,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 150734,
       "num": 158622,
       "word": "你期待哪部作品获飞天奖",
@@ -1131,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146196,
+      "num": 146196,
+      "word": "为了live图把微信卸载聊天记录没了",
+      "onboard_time": 1726902440,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145703,
       "num": 145703,
       "word": "当你的工作配不上你的审美",
@@ -1153,6 +1241,14 @@
       "onboard_time": 1726880780,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 143010,
+      "num": 143010,
+      "word": "诺一霓娜最新采访",
+      "onboard_time": 1726900878,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 142611,
@@ -1251,14 +1347,6 @@
       "category": "国外时政,军事"
     },
     {
-      "raw_hot": 134546,
-      "num": 134546,
-      "word": "新疆葡萄干不是晒出来而是晾出来的",
-      "onboard_time": 1726898961,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 133614,
       "num": 133614,
       "word": "北京晚霞",
@@ -1280,6 +1368,22 @@
       "word": "郑州8级以上雷暴大风",
       "onboard_time": 1726842621,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131770,
+      "num": 232443,
+      "word": "黄轩首次晒与女友视频",
+      "onboard_time": 1726901959,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 131120,
+      "num": 131120,
+      "word": "女生买模型被教官查房一眼发现",
+      "onboard_time": 1726902800,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1371,6 +1475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 120726,
+      "num": 120726,
+      "word": "杨超越二搭丁禹兮演前任",
+      "onboard_time": 1726901479,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115543,
       "num": 115543,
       "word": "伍六七第五季定档",
@@ -1393,14 +1505,6 @@
       "onboard_time": 1726888940,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 113205,
-      "num": 113205,
-      "word": "诺一霓娜最新采访",
-      "onboard_time": 1726900878,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 113156,
@@ -1433,6 +1537,14 @@
       "onboard_time": 1726844181,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111140,
+      "num": 111140,
+      "word": "全红婵归队爷爷在车旁再三叮嘱",
+      "onboard_time": 1726902980,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 109884,
@@ -1539,6 +1651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62334,
+      "num": 336413,
+      "word": "小区车位间距1.47米窄挪车需20分钟",
+      "onboard_time": 1726902620,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60494,
       "num": 60494,
       "word": "当爸爸妈妈开始养我的狗",
@@ -1552,6 +1672,14 @@
       "word": "你的车里会放破窗锤吗",
       "onboard_time": 1726885460,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56620,
+      "num": 411979,
+      "word": "罚抄式处罚成为奶茶店管理惯例",
+      "onboard_time": 1726902379,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1595,19 +1723,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 49237,
-      "num": 462109,
-      "word": "以色列曾给手机装炸药成功暗杀",
-      "onboard_time": 1726899619,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 45460,
       "num": 315282,
       "word": "61岁儿子陪伴86岁阿尔兹海默症妈妈",
       "onboard_time": 1726891519,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44909,
+      "num": 192673,
+      "word": "青春还是太全面了",
+      "onboard_time": 1726901239,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1665,6 +1793,14 @@
       "onboard_time": 1726891760,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 37047,
+      "num": 107012,
+      "word": "行车安全只体现在瞬间吗",
+      "onboard_time": 1726903039,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 35302,

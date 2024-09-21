@@ -1,0 +1,410 @@
+{
+  "runTime": 1726903178449,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1751144,
+        "num": 1751144,
+        "word": "黄晓明 叶珂",
+        "onboard_time": 1726896440,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1220513,
+        "num": 1220513,
+        "word": "老人痛诉全身只有20元赌什么博",
+        "onboard_time": 1726898059,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19061,
+        "num": 808808,
+        "word": "青春华章",
+        "onboard_time": 1726819520,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 808314,
+        "num": 808314,
+        "word": "黄轩女朋友",
+        "onboard_time": 1726880539,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 775612,
+        "num": 775612,
+        "word": "女生吃火锅遇可升降锅",
+        "onboard_time": 1726897340,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 479698,
+        "num": 479698,
+        "word": "90后独生女独自面对父母离世",
+        "onboard_time": 1726891101,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 797163,
+        "num": 460038,
+        "word": "武艺爆料张碧晨喜欢在厕所吃饭",
+        "onboard_time": 1726894700,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 423233,
+        "num": 423233,
+        "word": "医院被曝一张CT片子套多个病历",
+        "onboard_time": 1726892181,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368155,
+        "num": 418523,
+        "word": "常说这4句话的人痴呆风险高",
+        "onboard_time": 1726893560,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56620,
+        "num": 411979,
+        "word": "罚抄式处罚成为奶茶店管理惯例",
+        "onboard_time": 1726902379,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494573,
+        "num": 406560,
+        "word": "半熟男女 假离婚真劈腿",
+        "onboard_time": 1726899860,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 784300,
+        "num": 399242,
+        "word": "赵丽颖在张碧晨家厕所睡过觉",
+        "onboard_time": 1726902860,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392657,
+        "num": 392657,
+        "word": "杨超越娱乐圈最好的朋友是黄明昊",
+        "onboard_time": 1726901600,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389462,
+        "num": 389462,
+        "word": "生命树",
+        "onboard_time": 1726898179,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62334,
+        "num": 336413,
+        "word": "小区车位间距1.47米窄挪车需20分钟",
+        "onboard_time": 1726902620,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310939,
+        "num": 310939,
+        "word": "老伴去世女子被继女要求搬离",
+        "onboard_time": 1726893980,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274016,
+        "num": 274016,
+        "word": "存量房贷利率调降呼声再起",
+        "onboard_time": 1726895059,
+        "rank": 16,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 237653,
+        "num": 237653,
+        "word": "美媒称以筹备通信设备爆炸至少15年",
+        "onboard_time": 1726894939,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 232488,
+        "num": 232488,
+        "word": "iPhone17标准版或配120Hz高刷",
+        "onboard_time": 1726891220,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 131770,
+        "num": 232443,
+        "word": "黄轩首次晒与女友视频",
+        "onboard_time": 1726901959,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441817,
+        "num": 232058,
+        "word": "蔡徐坤抱了赵露思的狗",
+        "onboard_time": 1726885579,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 399419,
+        "num": 231680,
+        "word": "网红良田正颌手术很成功",
+        "onboard_time": 1726898719,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 302448,
+        "num": 231299,
+        "word": "老叔拿离婚证骗小姑娘恋爱",
+        "onboard_time": 1726894939,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255004,
+        "num": 231209,
+        "word": "TOP登陆少年首次外务",
+        "onboard_time": 1726896920,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 249568,
+        "num": 230946,
+        "word": "台风普拉桑复活了",
+        "onboard_time": 1726898300,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241459,
+        "num": 230400,
+        "word": "王源发文为王俊凯庆生",
+        "onboard_time": 1726874054,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230390,
+        "num": 230390,
+        "word": "以色列曾给手机装炸药成功暗杀",
+        "onboard_time": 1726899619,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 229740,
+        "num": 229740,
+        "word": "结婚后多少人敢空着手回娘家",
+        "onboard_time": 1726900698,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226491,
+        "num": 226491,
+        "word": "杨紫 生命树",
+        "onboard_time": 1726902440,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214810,
+        "num": 214810,
+        "word": "时代少年团李宁大秀",
+        "onboard_time": 1726902620,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204140,
+        "num": 204140,
+        "word": "计算机二级 PPT",
+        "onboard_time": 1726902379,
+        "rank": 30,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 196282,
+        "num": 196282,
+        "word": "男子凌晨4点散步失足坠海",
+        "onboard_time": 1726900998,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44909,
+        "num": 192673,
+        "word": "青春还是太全面了",
+        "onboard_time": 1726901239,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192627,
+        "num": 192627,
+        "word": "尹锡悦发文感谢韩国夫妻生下5胞胎",
+        "onboard_time": 1726900998,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 179673,
+        "num": 179673,
+        "word": "韩国诞生首例自然受孕5胞胎",
+        "onboard_time": 1726901299,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165135,
+        "num": 165135,
+        "word": "新疆葡萄干不是晒出来而是晾出来的",
+        "onboard_time": 1726898961,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146196,
+        "num": 146196,
+        "word": "为了live图把微信卸载聊天记录没了",
+        "onboard_time": 1726902440,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143010,
+        "num": 143010,
+        "word": "诺一霓娜最新采访",
+        "onboard_time": 1726900878,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138179,
+        "num": 138179,
+        "word": "湾区升明月阵容",
+        "onboard_time": 1726888700,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135901,
+        "num": 135901,
+        "word": "袁巴元维护张雨绮",
+        "onboard_time": 1726887379,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131140,
+        "num": 131140,
+        "word": "孙千 程苗苗17岁的青春永不落幕",
+        "onboard_time": 1726890680,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131120,
+        "num": 131120,
+        "word": "女生买模型被教官查房一眼发现",
+        "onboard_time": 1726902800,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120726,
+        "num": 120726,
+        "word": "杨超越二搭丁禹兮演前任",
+        "onboard_time": 1726901479,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120352,
+        "num": 120352,
+        "word": "文章马伊琍女儿16岁生日照",
+        "onboard_time": 1726877719,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119272,
+        "num": 119272,
+        "word": "肖战湾区升明月有三首歌",
+        "onboard_time": 1726895960,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 117373,
+        "num": 117373,
+        "word": "赵露思登世趋",
+        "onboard_time": 1726892478,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 113834,
+        "num": 113834,
+        "word": "小狗狗嘬手手",
+        "onboard_time": 1726899141,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111140,
+        "num": 111140,
+        "word": "全红婵归队爷爷在车旁再三叮嘱",
+        "onboard_time": 1726902980,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107306,
+        "num": 107306,
+        "word": "这就是中国军人带来的安全感",
+        "onboard_time": 1726887321,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37047,
+        "num": 107012,
+        "word": "行车安全只体现在瞬间吗",
+        "onboard_time": 1726903039,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#把人民政协的显著政治优势更加充分发挥出来#"
+    }
+  }
+}
