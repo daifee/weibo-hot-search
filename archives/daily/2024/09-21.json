@@ -1,6 +1,6 @@
 {
   "startTime": 1726849656112,
-  "endTime": 1726923220602,
+  "endTime": 1726925010828,
   "band_list": [
     {
       "raw_hot": 6135283,
@@ -120,6 +120,22 @@
       "word": "靳东赵丽颖赵今麦飞天奖封面",
       "onboard_time": 1726916660,
       "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1364361,
+      "num": 1364361,
+      "word": "飞天奖主持人好尬",
+      "onboard_time": 1726921699,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1288769,
+      "num": 564336,
+      "word": "刘威 幸福就是赵丽颖",
+      "onboard_time": 1726924222,
+      "rank": 6,
       "category": "剧集"
     },
     {
@@ -363,14 +379,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 708583,
-      "num": 465473,
-      "word": "飞天奖主持人好尬",
-      "onboard_time": 1726921699,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 703796,
       "num": 693690,
       "word": "王俊凯25岁第一天从清理库存开始",
@@ -385,6 +393,14 @@
       "onboard_time": 1726881740,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 647568,
+      "num": 365172,
+      "word": "陈乔恩坐Alan腿上拍照",
+      "onboard_time": 1726922541,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 640120,
@@ -440,6 +456,22 @@
       "word": "防空警报",
       "onboard_time": 1726885100,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 576104,
+      "num": 334072,
+      "word": "朴春瘦了好多",
+      "onboard_time": 1726922301,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 569347,
+      "num": 569347,
+      "word": "24岁物理学硕士拟获录用中学勤杂工",
+      "onboard_time": 1726920623,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -571,14 +603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 468689,
-      "num": 334072,
-      "word": "朴春瘦了好多",
-      "onboard_time": 1726922301,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 467804,
       "num": 303602,
       "word": "朴灿烈去了爸爸开的店",
@@ -683,6 +707,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 383265,
+      "num": 268513,
+      "word": "韩安冉回应亲生妈妈当小三",
+      "onboard_time": 1726924400,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 382293,
       "num": 382293,
       "word": "美14岁少女弑母后设圈套枪击继父",
@@ -729,6 +761,14 @@
       "onboard_time": 1726912639,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 368294,
+      "num": 391405,
+      "word": "女子腿绑4瓶茅台入境被查",
+      "onboard_time": 1726915220,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 359598,
@@ -793,6 +833,14 @@
       "onboard_time": 1726845081,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336431,
+      "num": 480607,
+      "word": "飞天奖",
+      "onboard_time": 1726880601,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 333778,
@@ -875,14 +923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 316227,
-      "num": 296296,
-      "word": "陈乔恩坐Alan腿上拍照",
-      "onboard_time": 1726922541,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 306508,
       "num": 281575,
       "word": "iPhone17标准版或配120Hz高刷",
@@ -928,14 +968,6 @@
       "word": "台风普拉桑复活了",
       "onboard_time": 1726898300,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 286630,
-      "num": 391405,
-      "word": "女子腿绑4瓶茅台入境被查",
-      "onboard_time": 1726915220,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -995,14 +1027,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 270951,
-      "num": 480607,
-      "word": "飞天奖",
-      "onboard_time": 1726880601,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 269980,
       "num": 269980,
       "word": "结婚后多少人敢空着手回娘家",
@@ -1049,6 +1073,14 @@
       "onboard_time": 1726844840,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 254163,
+      "num": 254163,
+      "word": "陈乔恩Alan婚纱图",
+      "onboard_time": 1726922960,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 253533,
@@ -1227,14 +1259,6 @@
       "category": "教育,互联网"
     },
     {
-      "raw_hot": 215735,
-      "num": 288384,
-      "word": "24岁物理学硕士拟获录用中学勤杂工",
-      "onboard_time": 1726920623,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215691,
       "num": 215691,
       "word": "Hanni露背装",
@@ -1257,6 +1281,14 @@
       "onboard_time": 1726888160,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 210991,
+      "num": 210991,
+      "word": "WTT中国大满贯参赛全阵容",
+      "onboard_time": 1726923021,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 208844,
@@ -1331,14 +1363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204351,
-      "num": 167632,
-      "word": "陈乔恩Alan婚纱图",
-      "onboard_time": 1726922960,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204086,
       "num": 204086,
       "word": "肖战提醒大家警惕骗局",
@@ -1347,12 +1371,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203893,
+      "num": 203893,
+      "word": "赵今麦薄荷曼波长尾裙",
+      "onboard_time": 1726924581,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201846,
       "num": 201846,
       "word": "lingorm",
       "onboard_time": 1726914259,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200804,
+      "num": 200804,
+      "word": "周深演唱会",
+      "onboard_time": 1726923861,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 200636,
@@ -1459,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185472,
+      "num": 185472,
+      "word": "王一博海胆一个都不放过",
+      "onboard_time": 1726924101,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183909,
       "num": 183909,
       "word": "你好种地少年2看遍大好河山",
@@ -1513,6 +1561,14 @@
       "onboard_time": 1726895719,
       "rank": 36,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 179773,
+      "num": 179773,
+      "word": "网红杯鼻祖宣布破产了",
+      "onboard_time": 1726924882,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179284,
@@ -1595,12 +1651,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170523,
+      "num": 366772,
+      "word": "江浙沪独生女反诈指南",
+      "onboard_time": 1726923081,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170498,
       "num": 214148,
       "word": "广东最低气温将降至23度",
       "onboard_time": 1726842859,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169283,
+      "num": 169283,
+      "word": "唐嫣复刻八年前游客照",
+      "onboard_time": 1726923921,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 169281,
@@ -1712,14 +1784,6 @@
       "word": "黄景瑜关晓彤吻戏路透",
       "onboard_time": 1726881861,
       "rank": 37,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 160352,
-      "num": 160352,
-      "word": "江浙沪独生女反诈指南",
-      "onboard_time": 1726923081,
-      "rank": 41,
       "category": "剧集"
     },
     {
@@ -2059,6 +2123,14 @@
       "category": "国外时政,军事"
     },
     {
+      "raw_hot": 133874,
+      "num": 133874,
+      "word": "李兰迪原声台词",
+      "onboard_time": 1726924762,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133614,
       "num": 133614,
       "word": "北京晚霞",
@@ -2163,6 +2235,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 127350,
+      "num": 127350,
+      "word": "姑娘奶茶只喝三分甜牙齿严重酸蚀",
+      "onboard_time": 1726923742,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127147,
       "num": 127147,
       "word": "苏有朋又主持湾区升明月了",
@@ -2193,6 +2273,14 @@
       "onboard_time": 1726896680,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 124165,
+      "num": 124165,
+      "word": "律师称解除劳动合同公司应依法依规",
+      "onboard_time": 1726924342,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122827,
@@ -2236,18 +2324,10 @@
     },
     {
       "raw_hot": 119709,
-      "num": 119709,
+      "num": 124155,
       "word": "伊万确认留任国足主帅",
       "onboard_time": 1726922601,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 118957,
-      "num": 118957,
-      "word": "WTT中国大满贯参赛全阵容",
-      "onboard_time": 1726923021,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -2475,6 +2555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 72074,
+      "num": 362379,
+      "word": "第28届星光奖获奖名单",
+      "onboard_time": 1726924222,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 69020,
       "num": 69020,
       "word": "东北人近期精神状态",
@@ -2505,6 +2593,14 @@
       "onboard_time": 1726873215,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 65334,
+      "num": 1374734,
+      "word": "南开两任校长跨越105年的相遇",
+      "onboard_time": 1726923742,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61100,
@@ -2603,6 +2699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48483,
+      "num": 367306,
+      "word": "台风会把阳澄湖大闸蟹吹跑吗",
+      "onboard_time": 1726923921,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48084,
       "num": 324195,
       "word": "专家称黎巴嫩爆炸事件是新型恐怖主义",
@@ -2643,6 +2747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40794,
+      "num": 270261,
+      "word": "男子买星巴克月饼券无法提货",
+      "onboard_time": 1726924162,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40767,
       "num": 40767,
       "word": "檀健次有粉丝话是真听",
@@ -2665,6 +2777,22 @@
       "onboard_time": 1726922780,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 38986,
+      "num": 361082,
+      "word": "男童疑被托管机构老师拖拽受伤",
+      "onboard_time": 1726924101,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38860,
+      "num": 357385,
+      "word": "猫人把秀场搬到了长城上",
+      "onboard_time": 1726923861,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 38839,
@@ -2971,6 +3099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19084,
+      "num": 193819,
+      "word": "猫人热八度4.0暖衣",
+      "onboard_time": 1726921879,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 17501,
       "num": 516300,
       "word": "中国青年永远充满希望",
@@ -2979,11 +3115,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17121,
-      "num": 180729,
-      "word": "猫人热八度4.0暖衣",
-      "onboard_time": 1726921879,
-      "rank": 38,
+      "raw_hot": 15481,
+      "num": 267682,
+      "word": "李宁秀款设计灵感来自瓷器",
+      "onboard_time": 1726923801,
+      "rank": 27,
       "category": "时尚"
     },
     {
