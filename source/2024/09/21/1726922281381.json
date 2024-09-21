@@ -1,0 +1,410 @@
+{
+  "runTime": 1726922281381,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2259087,
+        "num": 2259087,
+        "word": "赵丽颖短发",
+        "onboard_time": 1726919841,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2127754,
+        "num": 2127754,
+        "word": "25岁72岁62岁三人CT片几乎一样",
+        "onboard_time": 1726916540,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9116,
+        "num": 1643084,
+        "word": "把青春华章写在祖国大地上",
+        "onboard_time": 1726888160,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1374100,
+        "num": 1374100,
+        "word": "闵塔鲨",
+        "onboard_time": 1726916660,
+        "rank": 3,
+        "category": "剧集,时尚"
+      },
+      {
+        "raw_hot": 1282967,
+        "num": 1282967,
+        "word": "管培生因未参加公司跑步活动被辞退",
+        "onboard_time": 1726918881,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601638,
+        "num": 601638,
+        "word": "新余39死特别重大火灾事故调查报告",
+        "onboard_time": 1726910660,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 977364,
+        "num": 509201,
+        "word": "易烊千玺在评论区为王俊凯庆生",
+        "onboard_time": 1726916301,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 824129,
+        "num": 506817,
+        "word": "叶珂打假叶倪",
+        "onboard_time": 1726919180,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409033,
+        "num": 409033,
+        "word": "老人离世老伴拿出6份遗嘱均被判无效",
+        "onboard_time": 1726914980,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379276,
+        "num": 379276,
+        "word": "时空中的绘旅人 第五人格",
+        "onboard_time": 1726919540,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 735398,
+        "num": 374952,
+        "word": "飞天奖提名",
+        "onboard_time": 1726919841,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 471932,
+        "num": 355887,
+        "word": "靳东赵丽颖赵今麦飞天奖封面",
+        "onboard_time": 1726916660,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 593879,
+        "num": 341414,
+        "word": "黄晓明 叶珂",
+        "onboard_time": 1726896440,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136138,
+        "num": 337695,
+        "word": "女子腿绑4瓶茅台入境被查",
+        "onboard_time": 1726915220,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327828,
+        "num": 327828,
+        "word": "樊振东官宣2024湾区升明月",
+        "onboard_time": 1726920442,
+        "rank": 14,
+        "category": "体育,音乐"
+      },
+      {
+        "raw_hot": 32811,
+        "num": 327675,
+        "word": "如鸢全员狠角色",
+        "onboard_time": 1726919240,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 44078,
+        "num": 326709,
+        "word": "蓝天救援队特训王腾",
+        "onboard_time": 1726918400,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39658,
+        "num": 326081,
+        "word": "卫昭江慈手影传情",
+        "onboard_time": 1726921879,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 470142,
+        "num": 325619,
+        "word": "闵塔鲨回应飞天奖礼服",
+        "onboard_time": 1726918941,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61100,
+        "num": 324445,
+        "word": "李现的签名最高",
+        "onboard_time": 1726921281,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48084,
+        "num": 324195,
+        "word": "专家称黎巴嫩爆炸事件是新型恐怖主义",
+        "onboard_time": 1726920380,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 758512,
+        "num": 323626,
+        "word": "1岁男童腹中竟有个小宝宝",
+        "onboard_time": 1726905140,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323022,
+        "num": 323022,
+        "word": "黄轩说女友4年前就出镜过",
+        "onboard_time": 1726910900,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312045,
+        "num": 312045,
+        "word": "王俊凯25岁第一天从清理库存开始",
+        "onboard_time": 1726905080,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306280,
+        "num": 306280,
+        "word": "飞天奖红毯",
+        "onboard_time": 1726912099,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283996,
+        "num": 283996,
+        "word": "朴灿烈去了爸爸开的店",
+        "onboard_time": 1726915999,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21878,
+        "num": 270175,
+        "word": "李宁把秀场搬到了丙丁柴窑",
+        "onboard_time": 1726919060,
+        "rank": 26,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 263460,
+        "num": 263460,
+        "word": "飞天奖",
+        "onboard_time": 1726880601,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253478,
+        "num": 253478,
+        "word": "女子美甲后指甲变绿全甲被拔除",
+        "onboard_time": 1726909759,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154543,
+        "num": 251883,
+        "word": "你的罪行毁不了她的清白",
+        "onboard_time": 1726919721,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251592,
+        "num": 251592,
+        "word": "飞天奖主持人好尬",
+        "onboard_time": 1726921699,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226629,
+        "num": 226629,
+        "word": "当地村民称小英生了不止两个孩子",
+        "onboard_time": 1726908440,
+        "rank": 31,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 219590,
+        "num": 219590,
+        "word": "李沁飞天奖造型",
+        "onboard_time": 1726915039,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214483,
+        "num": 214483,
+        "word": "24岁物理学硕士拟获录用中学勤杂工",
+        "onboard_time": 1726920623,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197268,
+        "num": 197268,
+        "word": "赵露思启程回国",
+        "onboard_time": 1726921642,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33800,
+        "num": 193572,
+        "word": "家居服的面料居然有这么多种",
+        "onboard_time": 1726920560,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193254,
+        "num": 193254,
+        "word": "多位村民称网红小英生活与视频一致",
+        "onboard_time": 1726917081,
+        "rank": 36,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 189130,
+        "num": 189130,
+        "word": "55名公职人员因新余火灾被追责问责",
+        "onboard_time": 1726913360,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12141,
+        "num": 180729,
+        "word": "猫人热八度4.0暖衣",
+        "onboard_time": 1726921879,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 179284,
+        "num": 179284,
+        "word": "刘浩存亮相丝绸之路国际电影节",
+        "onboard_time": 1726920442,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171752,
+        "num": 171752,
+        "word": "网红小英回应塌房风波",
+        "onboard_time": 1726903579,
+        "rank": 40,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 151947,
+        "num": 151947,
+        "word": "法考卷二",
+        "onboard_time": 1726911800,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 150698,
+        "num": 150698,
+        "word": "胎儿查出超雄基因真的不能留吗",
+        "onboard_time": 1726905679,
+        "rank": 42,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 149726,
+        "num": 149726,
+        "word": "王嘉尔被拒绝当女婿的原因",
+        "onboard_time": 1726916180,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148284,
+        "num": 148284,
+        "word": "流水迢迢第17集",
+        "onboard_time": 1726920380,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144953,
+        "num": 144953,
+        "word": "时空中的绘旅人",
+        "onboard_time": 1726919001,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143468,
+        "num": 143468,
+        "word": "国泰航空",
+        "onboard_time": 1726914980,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138319,
+        "num": 138319,
+        "word": "周雨彤生日vlog",
+        "onboard_time": 1726921162,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136357,
+        "num": 136357,
+        "word": "繁花剧组红毯",
+        "onboard_time": 1726922241,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111042,
+        "num": 111042,
+        "word": "斗破苍穹",
+        "onboard_time": 1726918821,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动农业增效益农民增收入农村增活力#"
+    }
+  }
+}
