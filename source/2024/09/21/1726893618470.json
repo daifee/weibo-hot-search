@@ -1,0 +1,410 @@
+{
+  "runTime": 1726893618470,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3456729,
+        "num": 3456729,
+        "word": "黄轩女朋友",
+        "onboard_time": 1726880539,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 652171,
+        "num": 652171,
+        "word": "法考",
+        "onboard_time": 1726888401,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 12856,
+        "num": 600726,
+        "word": "青春华章",
+        "onboard_time": 1726819520,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1037723,
+        "num": 583207,
+        "word": "蔡徐坤抱了赵露思的狗",
+        "onboard_time": 1726885579,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 559178,
+        "num": 559178,
+        "word": "90后独生女独自面对父母离世",
+        "onboard_time": 1726891101,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483795,
+        "num": 483795,
+        "word": "法考卷一难不难",
+        "onboard_time": 1726893020,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 556610,
+        "num": 481403,
+        "word": "袁巴元维护张雨绮",
+        "onboard_time": 1726887379,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535089,
+        "num": 464822,
+        "word": "王源发文为王俊凯庆生",
+        "onboard_time": 1726874054,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434473,
+        "num": 434473,
+        "word": "女子买4万黄金不挑款式店员果断报警",
+        "onboard_time": 1726876637,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107641,
+        "num": 423987,
+        "word": "医院被曝一张CT片子套多个病历",
+        "onboard_time": 1726892181,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24295,
+        "num": 415827,
+        "word": "王俊凯25岁生日新歌",
+        "onboard_time": 1726891459,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 24174,
+        "num": 395290,
+        "word": "肖战让暖不止于暖",
+        "onboard_time": 1726891760,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 484740,
+        "num": 376186,
+        "word": "朴秀荣或将离开SM",
+        "onboard_time": 1726892240,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363990,
+        "num": 363990,
+        "word": "村干部称小英家曾是建档贫困户",
+        "onboard_time": 1726887020,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30173,
+        "num": 359893,
+        "word": "第31个世界阿尔茨海默病日",
+        "onboard_time": 1726892420,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356027,
+        "num": 356027,
+        "word": "赵露思登世趋",
+        "onboard_time": 1726892478,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 328818,
+        "num": 328818,
+        "word": "孙千 程苗苗17岁的青春永不落幕",
+        "onboard_time": 1726890680,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326796,
+        "num": 326796,
+        "word": "防空警报",
+        "onboard_time": 1726885100,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301605,
+        "num": 301605,
+        "word": "学生测试学校自来水洗脸巾秒变黑",
+        "onboard_time": 1726888581,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287162,
+        "num": 287162,
+        "word": "稻城亚丁景区被指禁止游客吃泡面",
+        "onboard_time": 1726881740,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328354,
+        "num": 287026,
+        "word": "文章马伊琍女儿16岁生日照",
+        "onboard_time": 1726877719,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327154,
+        "num": 286970,
+        "word": "虞书欣 潘婷",
+        "onboard_time": 1726892001,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286741,
+        "num": 286741,
+        "word": "湾区升明月阵容",
+        "onboard_time": 1726888700,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 269173,
+        "num": 282853,
+        "word": "婚姻自由包括离婚自由",
+        "onboard_time": 1726885938,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22340,
+        "num": 281815,
+        "word": "丁禹兮沈渡角色热度第一",
+        "onboard_time": 1726891340,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281575,
+        "num": 281575,
+        "word": "iPhone17标准版或配120Hz高刷",
+        "onboard_time": 1726891220,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 277193,
+        "num": 277193,
+        "word": "葛晓倩回应袁巴元",
+        "onboard_time": 1726890378,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257851,
+        "num": 257851,
+        "word": "中方用令人发指一词谈寻呼机爆炸",
+        "onboard_time": 1726878979,
+        "rank": 27,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 174630,
+        "num": 240245,
+        "word": "喻言管他什么淘不淘汰",
+        "onboard_time": 1726892001,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237874,
+        "num": 237874,
+        "word": "重返未来1999",
+        "onboard_time": 1726893020,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236958,
+        "num": 236958,
+        "word": "吴谨言妆造",
+        "onboard_time": 1726890442,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212643,
+        "num": 212643,
+        "word": "我国小学生要具备一定的国防意识",
+        "onboard_time": 1726887679,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 201797,
+        "num": 201797,
+        "word": "半个娱乐圈的人来厦门了",
+        "onboard_time": 1726874355,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179951,
+        "num": 179951,
+        "word": "虞书欣叫黄奕沪上小阿姨",
+        "onboard_time": 1726888761,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173960,
+        "num": 173960,
+        "word": "赵晓卉考完摩托车证发现禁摩",
+        "onboard_time": 1726890500,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171370,
+        "num": 171370,
+        "word": "小英掉粉揭示了大众对虚假人设的反感",
+        "onboard_time": 1726883242,
+        "rank": 35,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 168770,
+        "num": 168770,
+        "word": "你好星期六",
+        "onboard_time": 1726890981,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167771,
+        "num": 167771,
+        "word": "这就是中国军人带来的安全感",
+        "onboard_time": 1726887321,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164424,
+        "num": 164424,
+        "word": "湖南警方通报刘某杰遇害案",
+        "onboard_time": 1726848801,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161693,
+        "num": 161693,
+        "word": "梅姨",
+        "onboard_time": 1726844963,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151284,
+        "num": 151284,
+        "word": "你终于发现上大学的真正主线了",
+        "onboard_time": 1726886060,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 150734,
+        "num": 150734,
+        "word": "你期待哪部作品获飞天奖",
+        "onboard_time": 1726893320,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131722,
+        "num": 131722,
+        "word": "库克希望中国顾客喜爱iPhone16",
+        "onboard_time": 1726889240,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 131128,
+        "num": 131128,
+        "word": "清澈的爱只为中国",
+        "onboard_time": 1726882042,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128664,
+        "num": 128664,
+        "word": "我国第24个全民国防教育日",
+        "onboard_time": 1726881861,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 126082,
+        "num": 126082,
+        "word": "计算机二级wps",
+        "onboard_time": 1726887742,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125559,
+        "num": 125559,
+        "word": "常说这4句话的人痴呆风险高",
+        "onboard_time": 1726893560,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45460,
+        "num": 125205,
+        "word": "61岁儿子陪伴86岁阿尔兹海默症妈妈",
+        "onboard_time": 1726891519,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125102,
+        "num": 125102,
+        "word": "以军将巴勒斯坦人遗体踢下楼",
+        "onboard_time": 1726884140,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 122827,
+        "num": 122827,
+        "word": "竹马追爱终于不用碰上天降",
+        "onboard_time": 1726891160,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#把人民政协的显著政治优势更加充分发挥出来#"
+    }
+  }
+}

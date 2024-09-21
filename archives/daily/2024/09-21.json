@@ -1,6 +1,6 @@
 {
   "startTime": 1726849656112,
-  "endTime": 1726892750699,
+  "endTime": 1726893618470,
   "band_list": [
     {
       "raw_hot": 6135283,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 559178,
+      "num": 559178,
+      "word": "90后独生女独自面对父母离世",
+      "onboard_time": 1726891101,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 542480,
       "num": 414328,
       "word": "蔡徐坤赵露思同框看秀",
@@ -193,6 +201,22 @@
       "onboard_time": 1726887020,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 484740,
+      "num": 376186,
+      "word": "朴秀荣或将离开SM",
+      "onboard_time": 1726892240,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 483795,
+      "num": 483795,
+      "word": "法考卷一难不难",
+      "onboard_time": 1726893020,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 483528,
@@ -267,12 +291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 354478,
-      "num": 354478,
-      "word": "朴秀荣或将离开SM",
-      "onboard_time": 1726892240,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 356027,
+      "num": 356027,
+      "word": "赵露思登世趋",
+      "onboard_time": 1726892478,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 353910,
@@ -307,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 336983,
-      "num": 336983,
-      "word": "90后独生女独自面对父母离世",
-      "onboard_time": 1726891101,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 333778,
       "num": 333778,
       "word": "梅姨案最后1个孩子家长重新采血",
@@ -328,6 +344,14 @@
       "word": "葛晓倩回应袁巴元",
       "onboard_time": 1726890378,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 327154,
+      "num": 286970,
+      "word": "虞书欣 潘婷",
+      "onboard_time": 1726892001,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -401,6 +425,14 @@
       "onboard_time": 1726839861,
       "rank": 15,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 281575,
+      "num": 281575,
+      "word": "iPhone17标准版或配120Hz高刷",
+      "onboard_time": 1726891220,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 279709,
@@ -499,12 +531,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 238987,
-      "num": 238987,
-      "word": "iPhone17标准版或配120Hz高刷",
-      "onboard_time": 1726891220,
-      "rank": 27,
-      "category": "数码"
+      "raw_hot": 237874,
+      "num": 237874,
+      "word": "重返未来1999",
+      "onboard_time": 1726893020,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 237753,
@@ -513,14 +545,6 @@
       "onboard_time": 1726886060,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 235664,
-      "num": 235664,
-      "word": "虞书欣 潘婷",
-      "onboard_time": 1726892001,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 235155,
@@ -643,14 +667,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 196267,
-      "num": 196267,
-      "word": "赵露思登世趋",
-      "onboard_time": 1726892478,
-      "rank": 34,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 194230,
       "num": 194230,
       "word": "全红婵归队",
@@ -699,6 +715,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 174630,
+      "num": 240245,
+      "word": "喻言管他什么淘不淘汰",
+      "onboard_time": 1726892001,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172642,
       "num": 172642,
       "word": "飞天奖",
@@ -745,6 +769,14 @@
       "onboard_time": 1726891160,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168770,
+      "num": 168770,
+      "word": "你好星期六",
+      "onboard_time": 1726890981,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 168152,
@@ -811,20 +843,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 155302,
-      "num": 155302,
-      "word": "你好星期六",
-      "onboard_time": 1726890981,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 154739,
       "num": 154739,
       "word": "台风",
       "onboard_time": 1726888101,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150734,
+      "num": 150734,
+      "word": "你期待哪部作品获飞天奖",
+      "onboard_time": 1726893320,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 150234,
@@ -1035,6 +1067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125559,
+      "num": 125559,
+      "word": "常说这4句话的人痴呆风险高",
+      "onboard_time": 1726893560,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122827,
       "num": 122827,
       "word": "野孩子",
@@ -1091,20 +1131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107641,
+      "num": 423987,
+      "word": "医院被曝一张CT片子套多个病历",
+      "onboard_time": 1726892181,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106739,
       "num": 106739,
       "word": "还我李肆",
       "onboard_time": 1726830258,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 104481,
-      "num": 207391,
-      "word": "喻言管他什么淘不淘汰",
-      "onboard_time": 1726892001,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 104125,
@@ -1171,14 +1211,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 59646,
-      "num": 397578,
-      "word": "医院被曝一张CT片子套多个病历",
-      "onboard_time": 1726892181,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 56705,
       "num": 316666,
       "word": "你的车里会放破窗锤吗",
@@ -1227,6 +1259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 45460,
+      "num": 315282,
+      "word": "61岁儿子陪伴86岁阿尔兹海默症妈妈",
+      "onboard_time": 1726891519,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43614,
       "num": 48036,
       "word": "美官员曝以色列是黎巴嫩爆炸幕后主使",
@@ -1252,7 +1292,7 @@
     },
     {
       "raw_hot": 38459,
-      "num": 343516,
+      "num": 359893,
       "word": "第31个世界阿尔茨海默病日",
       "onboard_time": 1726892420,
       "rank": 14,
@@ -1260,7 +1300,7 @@
     },
     {
       "raw_hot": 35286,
-      "num": 314174,
+      "num": 395290,
       "word": "肖战让暖不止于暖",
       "onboard_time": 1726891760,
       "rank": 19,
@@ -1276,19 +1316,11 @@
     },
     {
       "raw_hot": 33218,
-      "num": 217647,
+      "num": 415827,
       "word": "王俊凯25岁生日新歌",
       "onboard_time": 1726891459,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 32646,
-      "num": 315282,
-      "word": "61岁儿子陪伴86岁阿尔兹海默症妈妈",
-      "onboard_time": 1726891519,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31716,
@@ -1369,6 +1401,14 @@
       "onboard_time": 1726881922,
       "rank": 34,
       "category": "国外时政,军事"
+    },
+    {
+      "raw_hot": 22340,
+      "num": 281815,
+      "word": "丁禹兮沈渡角色热度第一",
+      "onboard_time": 1726891340,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 21700,
