@@ -1,0 +1,410 @@
+{
+  "runTime": 1726958245442,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 440097,
+        "num": 498349,
+        "word": "视后视帝都没准备获奖感言",
+        "onboard_time": 1726929326,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 361641,
+        "num": 361641,
+        "word": "赵丽颖发文回应飞天奖视后",
+        "onboard_time": 1726936160,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 4312,
+        "num": 277635,
+        "word": "南开两任校长跨越105年的相遇",
+        "onboard_time": 1726923742,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237315,
+        "num": 237315,
+        "word": "85花格局大变",
+        "onboard_time": 1726927947,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148449,
+        "num": 148449,
+        "word": "被砍后反杀凶手男子家属发声",
+        "onboard_time": 1726945692,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120963,
+        "num": 120963,
+        "word": "25岁72岁62岁三人CT片几乎一样",
+        "onboard_time": 1726916540,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192548,
+        "num": 120633,
+        "word": "赵丽颖双料视后",
+        "onboard_time": 1726946532,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118783,
+        "num": 118783,
+        "word": "90后出任兰溪市副市长",
+        "onboard_time": 1726930346,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93778,
+        "num": 93778,
+        "word": "管培生因未参加公司跑步活动被辞退",
+        "onboard_time": 1726918881,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86379,
+        "num": 86379,
+        "word": "医生实名举报CT乱象约半年仍无结果",
+        "onboard_time": 1726935021,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373205,
+        "num": 85046,
+        "word": "男子杀害女子沉尸4年后再杀继母",
+        "onboard_time": 1726933102,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184045,
+        "num": 80129,
+        "word": "张颂文飞天奖直播捡手机",
+        "onboard_time": 1726933882,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144441,
+        "num": 78831,
+        "word": "刘琳好可惜",
+        "onboard_time": 1726926867,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112564,
+        "num": 75632,
+        "word": "韩安冉回应亲生妈妈当小三",
+        "onboard_time": 1726924400,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 95154,
+        "num": 72807,
+        "word": "叶珂晒聊天记录",
+        "onboard_time": 1726931305,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11325,
+        "num": 67405,
+        "word": "浙江厨神外婆每天给外孙做花式早点",
+        "onboard_time": 1726956913,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67370,
+        "num": 67370,
+        "word": "秋分也是丰收节",
+        "onboard_time": 1726933462,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65349,
+        "num": 65349,
+        "word": "驻日美军违规驾驶撞死1名日本人",
+        "onboard_time": 1726926324,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 58977,
+        "num": 58977,
+        "word": "台州人这回真海鲜自由了",
+        "onboard_time": 1726950192,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55911,
+        "num": 55911,
+        "word": "24岁物理学硕士拟获录用中学勤杂工",
+        "onboard_time": 1726920623,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115790,
+        "num": 55327,
+        "word": "1岁男童腹中竟有个小宝宝",
+        "onboard_time": 1726905140,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79072,
+        "num": 55055,
+        "word": "殷桃 没提名",
+        "onboard_time": 1726927107,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78814,
+        "num": 54353,
+        "word": "漫长的季节",
+        "onboard_time": 1726935562,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60860,
+        "num": 53672,
+        "word": "张碧晨回应演唱会嘉宾争议",
+        "onboard_time": 1726930166,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 60271,
+        "num": 52986,
+        "word": "胡歌陪跑",
+        "onboard_time": 1726927467,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52790,
+        "num": 52790,
+        "word": "老人离世老伴拿出6份遗嘱均被判无效",
+        "onboard_time": 1726914980,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52511,
+        "num": 52511,
+        "word": "盲人女孩在鸣笛声中手足无措",
+        "onboard_time": 1726938317,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51204,
+        "num": 51204,
+        "word": "男子买星巴克月饼券无法提货",
+        "onboard_time": 1726924162,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49792,
+        "num": 49792,
+        "word": "网红杯鼻祖宣布破产了",
+        "onboard_time": 1726924882,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18093,
+        "num": 47530,
+        "word": "读懂丰收的三重含义",
+        "onboard_time": 1726957152,
+        "rank": 29,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 45587,
+        "num": 45587,
+        "word": "林更新工作室更新",
+        "onboard_time": 1726934360,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40792,
+        "num": 40792,
+        "word": "女子接完电话崩溃大哭陌生人递纸巾",
+        "onboard_time": 1726938856,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39791,
+        "num": 39791,
+        "word": "潘展乐谈中国第一位奥运选手",
+        "onboard_time": 1726932503,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36387,
+        "num": 36387,
+        "word": "加沙死者名单前14页都是婴儿",
+        "onboard_time": 1726942154,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 36058,
+        "num": 36058,
+        "word": "张馨予拍比山更高的地方是纯素颜",
+        "onboard_time": 1726952892,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35481,
+        "num": 35481,
+        "word": "黄晓明 叶珂",
+        "onboard_time": 1726896440,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34188,
+        "num": 34188,
+        "word": "陈梦用光碟颠球输给学生",
+        "onboard_time": 1726934061,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33933,
+        "num": 33933,
+        "word": "宋祖儿去了周雨彤生日会",
+        "onboard_time": 1726929807,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33043,
+        "num": 33043,
+        "word": "陈晓云襄传2造型",
+        "onboard_time": 1726931305,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31118,
+        "num": 31118,
+        "word": "恋与深空",
+        "onboard_time": 1726932264,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30849,
+        "num": 30849,
+        "word": "姑娘奶茶只喝三分甜牙齿严重酸蚀",
+        "onboard_time": 1726923742,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30416,
+        "num": 30416,
+        "word": "上海地铁9座车站更名",
+        "onboard_time": 1726941734,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30370,
+        "num": 30370,
+        "word": "风吹半夏",
+        "onboard_time": 1726929267,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30206,
+        "num": 30206,
+        "word": "王俊凯晒长寿面",
+        "onboard_time": 1726929147,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40659,
+        "num": 30146,
+        "word": "飞天奖完整获奖名单",
+        "onboard_time": 1726931664,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28920,
+        "num": 28920,
+        "word": "王一博拍的落日",
+        "onboard_time": 1726957392,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27309,
+        "num": 27309,
+        "word": "北京地铁偶遇王星越",
+        "onboard_time": 1726934662,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27166,
+        "num": 27166,
+        "word": "00后种地搞了个田间情报站",
+        "onboard_time": 1726948812,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26860,
+        "num": 26860,
+        "word": "第五人格",
+        "onboard_time": 1726927286,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 25855,
+        "num": 25855,
+        "word": "女子美甲后指甲变绿全甲被拔除",
+        "onboard_time": 1726909759,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动农业增效益农民增收入农村增活力#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1726957182209,
+  "endTime": 1726958245442,
   "band_list": [
     {
       "raw_hot": 4059841,
@@ -227,20 +227,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192548,
+      "num": 120633,
+      "word": "赵丽颖双料视后",
+      "onboard_time": 1726946532,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185617,
       "num": 214828,
       "word": "韩安冉回应亲生妈妈当小三",
       "onboard_time": 1726924400,
       "rank": 35,
       "category": "网红"
-    },
-    {
-      "raw_hot": 182535,
-      "num": 101600,
-      "word": "赵丽颖双料视后",
-      "onboard_time": 1726946532,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 175566,
@@ -291,6 +291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148449,
+      "num": 148449,
+      "word": "被砍后反杀凶手男子家属发声",
+      "onboard_time": 1726945692,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147835,
       "num": 227337,
       "word": "网红杯鼻祖宣布破产了",
@@ -305,14 +313,6 @@
       "onboard_time": 1726922301,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 142307,
-      "num": 142307,
-      "word": "被砍后反杀凶手男子家属发声",
-      "onboard_time": 1726945692,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133819,
@@ -483,19 +483,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 58977,
+      "num": 58977,
+      "word": "台州人这回真海鲜自由了",
+      "onboard_time": 1726950192,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54428,
       "num": 135679,
       "word": "男童疑被托管机构老师拖拽受伤",
       "onboard_time": 1726924101,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52090,
-      "num": 52090,
-      "word": "台州人这回真海鲜自由了",
-      "onboard_time": 1726950192,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -523,12 +523,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 36058,
+      "num": 36058,
+      "word": "张馨予拍比山更高的地方是纯素颜",
+      "onboard_time": 1726952892,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35905,
       "num": 56607,
       "word": "葫芦果音乐节",
       "onboard_time": 1726943114,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 28920,
+      "num": 28920,
+      "word": "王一博拍的落日",
+      "onboard_time": 1726957392,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 27887,
@@ -539,12 +555,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 27441,
-      "num": 27441,
-      "word": "张馨予拍比山更高的地方是纯素颜",
-      "onboard_time": 1726952892,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 27166,
+      "num": 27166,
+      "word": "00后种地搞了个田间情报站",
+      "onboard_time": 1726948812,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25936,
@@ -553,14 +569,6 @@
       "onboard_time": 1726932383,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24890,
-      "num": 24890,
-      "word": "00后种地搞了个田间情报站",
-      "onboard_time": 1726948812,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22652,
@@ -577,6 +585,14 @@
       "onboard_time": 1726931305,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18093,
+      "num": 47530,
+      "word": "读懂丰收的三重含义",
+      "onboard_time": 1726957152,
+      "rank": 29,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 17628,
@@ -612,19 +628,11 @@
     },
     {
       "raw_hot": 11698,
-      "num": 35989,
+      "num": 67405,
       "word": "浙江厨神外婆每天给外孙做花式早点",
       "onboard_time": 1726956913,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11584,
-      "num": 32408,
-      "word": "读懂丰收的三重含义",
-      "onboard_time": 1726957152,
-      "rank": 29,
-      "category": "社会新闻,情感"
     }
   ],
   "hotgov_list": [
