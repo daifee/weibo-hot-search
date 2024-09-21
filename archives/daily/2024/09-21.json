@@ -1,6 +1,6 @@
 {
   "startTime": 1726849656112,
-  "endTime": 1726911302555,
+  "endTime": 1726914052188,
   "band_list": [
     {
       "raw_hot": 6135283,
@@ -41,6 +41,14 @@
       "onboard_time": 1726896440,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1916850,
+      "num": 1916850,
+      "word": "新余39死特别重大火灾事故调查报告",
+      "onboard_time": 1726910660,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1796640,
@@ -91,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1256920,
+      "num": 1256920,
+      "word": "黄轩说女友4年前就出镜过",
+      "onboard_time": 1726910900,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1245589,
       "num": 2136906,
       "word": "老伴去世女子被继女要求搬离",
@@ -105,14 +121,6 @@
       "onboard_time": 1726898059,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1170519,
-      "num": 551654,
-      "word": "黄轩说女友4年前就出镜过",
-      "onboard_time": 1726910900,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1139415,
@@ -145,6 +153,14 @@
       "onboard_time": 1726887379,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 978576,
+      "num": 978576,
+      "word": "女子美甲后指甲变绿全甲被拔除",
+      "onboard_time": 1726909759,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 963509,
@@ -211,6 +227,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 787959,
+      "num": 787959,
+      "word": "赵丽颖海边大片",
+      "onboard_time": 1726912522,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 761395,
       "num": 761395,
       "word": "女子离婚后中500万被诉前夫获200万",
@@ -225,6 +249,14 @@
       "onboard_time": 1726909219,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 736085,
+      "num": 736085,
+      "word": "飞天奖红毯",
+      "onboard_time": 1726912099,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 735656,
@@ -244,10 +276,18 @@
     },
     {
       "raw_hot": 703796,
-      "num": 646043,
+      "num": 693690,
       "word": "王俊凯25岁第一天从清理库存开始",
       "onboard_time": 1726905080,
       "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 698983,
+      "num": 698983,
+      "word": "黄晓明曾为叶珂包场庆生",
+      "onboard_time": 1726911800,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -265,6 +305,14 @@
       "onboard_time": 1726904118,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 628653,
+      "num": 628653,
+      "word": "当地村民称小英生了不止两个孩子",
+      "onboard_time": 1726908440,
+      "rank": 8,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 623597,
@@ -289,14 +337,6 @@
       "onboard_time": 1726885100,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 558916,
-      "num": 558916,
-      "word": "当地村民称小英生了不止两个孩子",
-      "onboard_time": 1726908440,
-      "rank": 8,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 549091,
@@ -347,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 521463,
+      "num": 521463,
+      "word": "法考卷二",
+      "onboard_time": 1726911800,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 497937,
       "num": 497937,
       "word": "中方用令人发指一词谈寻呼机爆炸",
@@ -385,14 +433,6 @@
       "onboard_time": 1726898719,
       "rank": 21,
       "category": "网红"
-    },
-    {
-      "raw_hot": 485153,
-      "num": 552373,
-      "word": "女子美甲后指甲变绿全甲被拔除",
-      "onboard_time": 1726909759,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 484740,
@@ -505,6 +545,14 @@
       "onboard_time": 1726892478,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 383399,
+      "num": 383399,
+      "word": "kpop人才懂这组合的门道有多深",
+      "onboard_time": 1726912099,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 382293,
@@ -681,6 +729,14 @@
       "onboard_time": 1726888581,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300928,
+      "num": 300928,
+      "word": "迪丽热巴时装周启程图",
+      "onboard_time": 1726912639,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 296493,
@@ -995,14 +1051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 214251,
-      "num": 554689,
-      "word": "新余39死特别重大火灾事故调查报告",
-      "onboard_time": 1726910660,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212851,
       "num": 212851,
       "word": "王一博pizza大片",
@@ -1107,6 +1155,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 193035,
+      "num": 193035,
+      "word": "刘耀文看秀视频",
+      "onboard_time": 1726913239,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191251,
       "num": 191251,
       "word": "杨丞琳likeastar世界巡回演唱会",
@@ -1132,7 +1188,7 @@
     },
     {
       "raw_hot": 186515,
-      "num": 221559,
+      "num": 575326,
       "word": "9旬院士说无人机黑飞不是法外之地",
       "onboard_time": 1726909279,
       "rank": 29,
@@ -1235,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170908,
+      "num": 170908,
+      "word": "时代少年团内场看秀",
+      "onboard_time": 1726912699,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170498,
       "num": 214148,
       "word": "广东最低气温将降至23度",
@@ -1315,6 +1379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165826,
+      "num": 165826,
+      "word": "飞天奖直播",
+      "onboard_time": 1726913360,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163224,
       "num": 163224,
       "word": "视频显示以军从楼顶扔巴勒斯坦人尸体",
@@ -1355,6 +1427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159030,
+      "num": 159030,
+      "word": "湾区升明月",
+      "onboard_time": 1726911680,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 158490,
       "num": 158490,
       "word": "戚薇怀念出道导师赵英俊",
@@ -1369,6 +1449,14 @@
       "onboard_time": 1726910599,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155891,
+      "num": 155891,
+      "word": "王一博米兰晚宴",
+      "onboard_time": 1726911500,
+      "rank": 41,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 155634,
@@ -1731,6 +1819,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 124909,
+      "num": 805649,
+      "word": "55名公职人员因新余火灾被追责问责",
+      "onboard_time": 1726913360,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122827,
       "num": 122827,
       "word": "野孩子",
@@ -1963,6 +2059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 68342,
+      "num": 790434,
+      "word": "新余火灾10人涉嫌重大责任事故罪被批捕",
+      "onboard_time": 1726913299,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67676,
       "num": 67676,
       "word": "李纯马頔一起走机场",
@@ -2057,6 +2161,14 @@
       "onboard_time": 1726868413,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 42667,
+      "num": 524469,
+      "word": "吃水果干会增加老年痴呆风险",
+      "onboard_time": 1726913659,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42484,
@@ -2169,6 +2281,14 @@
       "onboard_time": 1726895179,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32114,
+      "num": 529074,
+      "word": "金标大众灵感空间抵达深圳",
+      "onboard_time": 1726912999,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 31716,
@@ -2316,11 +2436,19 @@
     },
     {
       "raw_hot": 19032,
-      "num": 212507,
+      "num": 306516,
       "word": "李宁大秀选址地图",
       "onboard_time": 1726910480,
       "rank": 28,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 16014,
+      "num": 581285,
+      "word": "我们为什么会被姥姥的外孙深深打动",
+      "onboard_time": 1726912940,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13994,
@@ -2345,6 +2473,14 @@
       "onboard_time": 1726869553,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6905,
+      "num": 539133,
+      "word": "关晓彤 把晓晓世界当朋友圈发",
+      "onboard_time": 1726914019,
+      "rank": 17,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
