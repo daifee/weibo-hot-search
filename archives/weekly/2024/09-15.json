@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726929391778,
+  "endTime": 1726932163838,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 6231598,
+      "num": 6231598,
+      "word": "85花格局大变",
+      "onboard_time": 1726927947,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 6135283,
       "num": 6135283,
       "word": "黄轩官宣",
@@ -105,14 +113,6 @@
       "onboard_time": 1726753402,
       "rank": 0,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 4469715,
-      "num": 4469715,
-      "word": "85花格局大变",
-      "onboard_time": 1726927947,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 4187919,
@@ -1747,6 +1747,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1094964,
+      "num": 284629,
+      "word": "李庚希提名视后",
+      "onboard_time": 1726927827,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1091590,
       "num": 1091590,
       "word": "研究生数量超本科生高校招生引争议",
@@ -2451,14 +2459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 826866,
-      "num": 282573,
-      "word": "李庚希提名视后",
-      "onboard_time": 1726927827,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 824129,
       "num": 506817,
       "word": "叶珂打假叶倪",
@@ -2505,6 +2505,14 @@
       "onboard_time": 1726590258,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 819181,
+      "num": 379591,
+      "word": "视后视帝都没准备获奖感言",
+      "onboard_time": 1726929326,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 817009,
@@ -2683,6 +2691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 772165,
+      "num": 281562,
+      "word": "宋祖儿去了周雨彤生日会",
+      "onboard_time": 1726929807,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 770147,
       "num": 770147,
       "word": "社区回应男子疑被台风吹走身亡",
@@ -2825,6 +2841,14 @@
       "onboard_time": 1726701498,
       "rank": 26,
       "category": "社会新闻,剧集"
+    },
+    {
+      "raw_hot": 727450,
+      "num": 281156,
+      "word": "王俊凯晒长寿面",
+      "onboard_time": 1726929147,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 727002,
@@ -3195,14 +3219,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 657507,
-      "num": 271720,
-      "word": "王俊凯晒长寿面",
-      "onboard_time": 1726929147,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 656918,
       "num": 656918,
       "word": "微信回应安卓何时能发live图",
@@ -3425,6 +3441,14 @@
       "onboard_time": 1726534759,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 623610,
+      "num": 281038,
+      "word": "张碧晨回应演唱会嘉宾争议",
+      "onboard_time": 1726930166,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 623597,
@@ -5132,7 +5156,7 @@
     },
     {
       "raw_hot": 421349,
-      "num": 266882,
+      "num": 278953,
       "word": "撤回一个刘浩存",
       "onboard_time": 1726928845,
       "rank": 27,
@@ -5267,6 +5291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 407228,
+      "num": 407228,
+      "word": "90后出任兰溪市副市长",
+      "onboard_time": 1726930346,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406875,
       "num": 406875,
       "word": "月饼券被黄牛半价回收后流向哪",
@@ -5385,6 +5417,14 @@
       "onboard_time": 1726577902,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 396967,
+      "num": 279909,
+      "word": "飞天奖完整获奖名单",
+      "onboard_time": 1726931664,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 395954,
@@ -8091,6 +8131,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 257176,
+      "num": 257176,
+      "word": "陈晓云襄传2造型",
+      "onboard_time": 1726931305,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256961,
       "num": 256961,
       "word": "吴彦姝感谢马龙",
@@ -8193,6 +8241,14 @@
       "onboard_time": 1726902620,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 253307,
+      "num": 262783,
+      "word": "风吹半夏",
+      "onboard_time": 1726929267,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 253070,
@@ -9745,6 +9801,14 @@
       "onboard_time": 1726814000,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210315,
+      "num": 210315,
+      "word": "张凌赫内场狼尾",
+      "onboard_time": 1726931964,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 210283,
@@ -11420,7 +11484,7 @@
     },
     {
       "raw_hot": 187670,
-      "num": 263181,
+      "num": 282235,
       "word": "王楚钦给自己画肖像",
       "onboard_time": 1726929326,
       "rank": 37,
@@ -11851,14 +11915,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 180992,
-      "num": 262783,
-      "word": "风吹半夏",
-      "onboard_time": 1726929267,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 180913,
       "num": 180913,
       "word": "幻兽帕鲁开发商回应",
@@ -12209,6 +12265,14 @@
       "onboard_time": 1726372278,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 176124,
+      "num": 299323,
+      "word": "男子买星巴克月饼券无法提货",
+      "onboard_time": 1726924162,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176109,
@@ -12995,12 +13059,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165792,
-      "num": 299323,
-      "word": "男子买星巴克月饼券无法提货",
-      "onboard_time": 1726924162,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 165601,
+      "num": 282534,
+      "word": "不莱梅vs拜仁",
+      "onboard_time": 1726931425,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 165463,
@@ -14035,6 +14099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153727,
+      "num": 201910,
+      "word": "韩火火分享周雨彤庆生照",
+      "onboard_time": 1726931843,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153550,
       "num": 153550,
       "word": "4个动作缓解腰背僵硬",
@@ -14457,6 +14529,14 @@
       "onboard_time": 1726741761,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146411,
+      "num": 200847,
+      "word": "许嵩呼吸之野演唱会",
+      "onboard_time": 1726931605,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 146409,
@@ -15321,6 +15401,14 @@
       "onboard_time": 1726618701,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 136220,
+      "num": 310975,
+      "word": "为什么秋天的蚊子咬人更狠",
+      "onboard_time": 1726928487,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136164,
@@ -16201,6 +16289,14 @@
       "onboard_time": 1726661181,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121863,
+      "num": 203753,
+      "word": "WBG15淘汰吃鸡",
+      "onboard_time": 1726930826,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 121716,
@@ -17163,6 +17259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102723,
+      "num": 198514,
+      "word": "韩国的自助泡面店",
+      "onboard_time": 1726931425,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 102568,
       "num": 102568,
       "word": "王一博出道10年了",
@@ -17539,6 +17643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87931,
+      "num": 285369,
+      "word": "男孩放学路遇康辉武大靖整激动了",
+      "onboard_time": 1726931066,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87708,
       "num": 436594,
       "word": "中秋奇妙游",
@@ -17721,6 +17833,14 @@
       "onboard_time": 1726495220,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81361,
+      "num": 324169,
+      "word": "任嘉伦对徐正溪说你在我心里很重要",
+      "onboard_time": 1726928006,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 81170,
@@ -18057,14 +18177,6 @@
       "onboard_time": 1726824800,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71651,
-      "num": 379591,
-      "word": "视后视帝都没准备获奖感言",
-      "onboard_time": 1726929326,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 70984,
@@ -19561,14 +19673,6 @@
       "onboard_time": 1726818740,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 38883,
-      "num": 310975,
-      "word": "为什么秋天的蚊子咬人更狠",
-      "onboard_time": 1726928487,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38872,
@@ -21083,6 +21187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18762,
+      "num": 279564,
+      "word": "以为在火星实际在长城",
+      "onboard_time": 1726931305,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18730,
       "num": 139335,
       "word": "带着三折叠手机上天",
@@ -21251,14 +21363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13029,
-      "num": 324169,
-      "word": "任嘉伦对徐正溪说你在我心里很重要",
-      "onboard_time": 1726928006,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 12348,
       "num": 386381,
       "word": "流水迢迢 偷感夫妇",
@@ -21345,6 +21449,14 @@
       "onboard_time": 1726603571,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9972,
+      "num": 223202,
+      "word": "猫人你时髦的让我陌生",
+      "onboard_time": 1726931725,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 9521,
