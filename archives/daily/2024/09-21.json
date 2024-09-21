@@ -1,6 +1,6 @@
 {
   "startTime": 1726849656112,
-  "endTime": 1726917426272,
+  "endTime": 1726918516485,
   "band_list": [
     {
       "raw_hot": 6135283,
@@ -33,6 +33,14 @@
       "onboard_time": 1726845861,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2140690,
+      "num": 2140690,
+      "word": "闵塔鲨",
+      "onboard_time": 1726916660,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 2066545,
@@ -203,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 899631,
+      "num": 736085,
+      "word": "飞天奖红毯",
+      "onboard_time": 1726912099,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 893844,
       "num": 893844,
       "word": "女生买模型被教官查房一眼发现",
@@ -211,12 +227,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 846358,
-      "num": 736085,
-      "word": "飞天奖红毯",
-      "onboard_time": 1726912099,
-      "rank": 10,
-      "category": "剧集"
+      "raw_hot": 890650,
+      "num": 890650,
+      "word": "老人离世老伴拿出6份遗嘱均被判无效",
+      "onboard_time": 1726914980,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 852985,
+      "num": 418855,
+      "word": "易烊千玺在评论区为王俊凯庆生",
+      "onboard_time": 1726916301,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 840334,
@@ -355,22 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 565233,
-      "num": 357403,
-      "word": "易烊千玺在评论区为王俊凯庆生",
-      "onboard_time": 1726916301,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 559738,
-      "num": 304714,
-      "word": "闵塔鲨",
-      "onboard_time": 1726916660,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 549091,
       "num": 549091,
       "word": "刘诗诗 北京",
@@ -499,12 +507,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 481311,
-      "num": 481311,
-      "word": "老人离世老伴拿出6份遗嘱均被判无效",
-      "onboard_time": 1726914980,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 467804,
+      "num": 303602,
+      "word": "朴灿烈去了爸爸开的店",
+      "onboard_time": 1726915999,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 456516,
@@ -513,6 +521,14 @@
       "onboard_time": 1726909879,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 456091,
+      "num": 301548,
+      "word": "李沁飞天奖造型",
+      "onboard_time": 1726915039,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 455687,
@@ -587,28 +603,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 389103,
-      "num": 287639,
-      "word": "朴灿烈去了爸爸开的店",
-      "onboard_time": 1726915999,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 384424,
       "num": 384424,
       "word": "赵露思登世趋",
       "onboard_time": 1726892478,
       "rank": 34,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 384368,
-      "num": 279776,
-      "word": "李沁飞天奖造型",
-      "onboard_time": 1726915039,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 382293,
@@ -675,8 +675,8 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 348768,
-      "num": 275340,
+      "raw_hot": 351359,
+      "num": 299248,
       "word": "唐嫣暗夜银河造型",
       "onboard_time": 1726916480,
       "rank": 26,
@@ -835,12 +835,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286630,
+      "num": 286630,
+      "word": "女子腿绑4瓶茅台入境被查",
+      "onboard_time": 1726915220,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284995,
       "num": 284995,
       "word": "黎巴嫩人害怕爆炸不敢用手机",
       "onboard_time": 1726839861,
       "rank": 15,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 282345,
+      "num": 282345,
+      "word": "国泰航空",
+      "onboard_time": 1726914980,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281339,
@@ -963,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248455,
+      "num": 248455,
+      "word": "25岁72岁62岁三人CT片几乎一样",
+      "onboard_time": 1726916540,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247454,
       "num": 241619,
       "word": "玄奘的脸放到现在也是爱豆级别",
@@ -985,14 +1009,6 @@
       "onboard_time": 1726909939,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 243727,
-      "num": 243727,
-      "word": "国泰航空",
-      "onboard_time": 1726914980,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242866,
@@ -1081,6 +1097,14 @@
       "onboard_time": 1726894999,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 223193,
+      "num": 480607,
+      "word": "飞天奖",
+      "onboard_time": 1726880601,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 220606,
@@ -1187,6 +1211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205364,
+      "num": 205364,
+      "word": "IU上岩演唱会",
+      "onboard_time": 1726917440,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204580,
       "num": 204580,
       "word": "半熟男女",
@@ -1211,14 +1243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201382,
-      "num": 201382,
-      "word": "25岁72岁62岁三人CT片几乎一样",
-      "onboard_time": 1726916540,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 199738,
       "num": 199738,
       "word": "王者荣耀",
@@ -1233,14 +1257,6 @@
       "onboard_time": 1726836620,
       "rank": 40,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 196145,
-      "num": 196145,
-      "word": "女子腿绑4瓶茅台入境被查",
-      "onboard_time": 1726915220,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195944,
@@ -1323,6 +1339,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 182415,
+      "num": 182415,
+      "word": "陈雨菲 只会代表中国参赛",
+      "onboard_time": 1726916121,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181661,
       "num": 279138,
       "word": "小英1年直播200多场带货总额超千万",
@@ -1376,14 +1400,6 @@
       "word": "杨志刚一开口像讲解员",
       "onboard_time": 1726895600,
       "rank": 37,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 172642,
-      "num": 480607,
-      "word": "飞天奖",
-      "onboard_time": 1726880601,
-      "rank": 33,
       "category": "剧集"
     },
     {
@@ -1569,14 +1585,6 @@
       "onboard_time": 1726910599,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 157745,
-      "num": 157745,
-      "word": "陈雨菲 只会代表中国参赛",
-      "onboard_time": 1726916121,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 155892,
@@ -1995,6 +2003,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 121407,
+      "num": 121407,
+      "word": "柏浪涛 考前聚焦",
+      "onboard_time": 1726917860,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 121115,
       "num": 121115,
       "word": "周末跟莎莎去河北",
@@ -2011,8 +2027,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119672,
-      "num": 119672,
+      "raw_hot": 120180,
+      "num": 120763,
       "word": "樱兰高校公关部 最帅女主",
       "onboard_time": 1726916601,
       "rank": 47,
@@ -2147,6 +2163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103805,
+      "num": 461297,
+      "word": "多位村民称网红小英生活与视频一致",
+      "onboard_time": 1726917081,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103299,
       "num": 103299,
       "word": "泰州地震",
@@ -2219,14 +2243,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 70087,
-      "num": 461297,
-      "word": "多位村民称网红小英生活与视频一致",
-      "onboard_time": 1726917081,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 69020,
       "num": 69020,
       "word": "东北人近期精神状态",
@@ -2275,6 +2291,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 57623,
+      "num": 283962,
+      "word": "李兰迪 裙摆并非枷锁",
+      "onboard_time": 1726918461,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 56705,
       "num": 316666,
       "word": "你的车里会放破窗锤吗",
@@ -2321,6 +2345,14 @@
       "onboard_time": 1726853414,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 49146,
+      "num": 142831,
+      "word": "蓝天救援队特训王腾",
+      "onboard_time": 1726918400,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45460,
@@ -2395,6 +2427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37865,
+      "num": 403267,
+      "word": "辛云来转型相亲博主",
+      "onboard_time": 1726916540,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37720,
       "num": 305934,
       "word": "俩小孩卷罐车车底家属质疑工地失职",
@@ -2451,6 +2491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 32751,
+      "num": 410748,
+      "word": "成年人该如何开口说分手",
+      "onboard_time": 1726918400,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32455,
       "num": 242017,
       "word": "smart的大五座权益超级加倍",
@@ -2499,8 +2547,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29944,
+      "num": 405510,
+      "word": "35秒带你了解人造血管",
+      "onboard_time": 1726917020,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29534,
-      "num": 614325,
+      "num": 946630,
       "word": "把青春华章写在祖国大地上",
       "onboard_time": 1726888160,
       "rank": 6,
@@ -2608,14 +2664,6 @@
       "word": "台风给江苏带来了绝美晚霞",
       "onboard_time": 1726862831,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20912,
-      "num": 403790,
-      "word": "35秒带你了解人造血管",
-      "onboard_time": 1726917020,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726917426272,
+  "endTime": 1726918516485,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -1001,6 +1001,14 @@
       "onboard_time": 1726487960,
       "rank": 36,
       "category": "自然"
+    },
+    {
+      "raw_hot": 2140690,
+      "num": 2140690,
+      "word": "闵塔鲨",
+      "onboard_time": 1726916660,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 2125811,
@@ -6011,6 +6019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 899631,
+      "num": 736085,
+      "word": "飞天奖红毯",
+      "onboard_time": 1726912099,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 899265,
       "num": 585342,
       "word": "黄磊黄多多纽约街头骑车",
@@ -6113,6 +6129,14 @@
       "onboard_time": 1725154399,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 890650,
+      "num": 890650,
+      "word": "老人离世老伴拿出6份遗嘱均被判无效",
+      "onboard_time": 1726914980,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 890324,
@@ -6515,6 +6539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 852985,
+      "num": 418855,
+      "word": "易烊千玺在评论区为王俊凯庆生",
+      "onboard_time": 1726916301,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 852648,
       "num": 852648,
       "word": "Angelababy鞠躬感谢粉丝",
@@ -6577,14 +6609,6 @@
       "onboard_time": 1725871941,
       "rank": 1,
       "category": "电影"
-    },
-    {
-      "raw_hot": 846358,
-      "num": 736085,
-      "word": "飞天奖红毯",
-      "onboard_time": 1726912099,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 845482,
@@ -10827,14 +10851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 565233,
-      "num": 357403,
-      "word": "易烊千玺在评论区为王俊凯庆生",
-      "onboard_time": 1726916301,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 565133,
       "num": 565133,
       "word": "德国三大经济支柱一根塌两根裂",
@@ -10913,14 +10929,6 @@
       "onboard_time": 1726323142,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 559738,
-      "num": 304714,
-      "word": "闵塔鲨",
-      "onboard_time": 1726916660,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 558994,
@@ -13019,14 +13027,6 @@
       "category": "国外时政,艺人"
     },
     {
-      "raw_hot": 481311,
-      "num": 481311,
-      "word": "老人离世老伴拿出6份遗嘱均被判无效",
-      "onboard_time": 1726914980,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 480813,
       "num": 480813,
       "word": "朱志鑫和易烊千玺立牌合照",
@@ -13355,6 +13355,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 467804,
+      "num": 303602,
+      "word": "朴灿烈去了爸爸开的店",
+      "onboard_time": 1726915999,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 467580,
       "num": 467580,
       "word": "张晚意王楚然从名字开始般配",
@@ -13673,6 +13681,14 @@
       "onboard_time": 1726807522,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456091,
+      "num": 301548,
+      "word": "李沁飞天奖造型",
+      "onboard_time": 1726915039,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 456055,
@@ -15715,14 +15731,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 389103,
-      "num": 287639,
-      "word": "朴灿烈去了爸爸开的店",
-      "onboard_time": 1726915999,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 388668,
       "num": 388668,
       "word": "刘亦菲赵露思给对方鼓掌",
@@ -15817,14 +15825,6 @@
       "onboard_time": 1726892478,
       "rank": 34,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 384368,
-      "num": 279776,
-      "word": "李沁飞天奖造型",
-      "onboard_time": 1726915039,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 383663,
@@ -16875,6 +16875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351359,
+      "num": 299248,
+      "word": "唐嫣暗夜银河造型",
+      "onboard_time": 1726916480,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 351232,
       "num": 351232,
       "word": "金珉奎背徐明浩",
@@ -16993,14 +17001,6 @@
       "onboard_time": 1726662687,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 348768,
-      "num": 275340,
-      "word": "唐嫣暗夜银河造型",
-      "onboard_time": 1726916480,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 348678,
@@ -20091,6 +20091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 286630,
+      "num": 286630,
+      "word": "女子腿绑4瓶茅台入境被查",
+      "onboard_time": 1726915220,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286608,
       "num": 286608,
       "word": "男子专挑退休阿姨认干妈实施敲诈",
@@ -20400,6 +20408,14 @@
       "word": "新郎被绑路灯杆喷水只剩内裤",
       "onboard_time": 1726275261,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282345,
+      "num": 282345,
+      "word": "国泰航空",
+      "onboard_time": 1726914980,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -22907,6 +22923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248455,
+      "num": 248455,
+      "word": "25岁72岁62岁三人CT片几乎一样",
+      "onboard_time": 1726916540,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248332,
       "num": 238258,
       "word": "黄奕黄晓明已不是当初的萧剑小燕子了",
@@ -23369,14 +23393,6 @@
       "onboard_time": 1725545244,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 243727,
-      "num": 243727,
-      "word": "国泰航空",
-      "onboard_time": 1726914980,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 243651,
@@ -25625,6 +25641,14 @@
       "onboard_time": 1725545123,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 223193,
+      "num": 480607,
+      "word": "飞天奖",
+      "onboard_time": 1726880601,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 223094,
@@ -28203,6 +28227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205364,
+      "num": 205364,
+      "word": "IU上岩演唱会",
+      "onboard_time": 1726917440,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 205292,
       "num": 205292,
       "word": "里斯本丸沉没梁素琴找到了",
@@ -29080,14 +29112,6 @@
       "word": "江苏师大辟谣打人事件女生获保研资格",
       "onboard_time": 1725457342,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 201382,
-      "num": 201382,
-      "word": "25岁72岁62岁三人CT片几乎一样",
-      "onboard_time": 1726916540,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -30289,14 +30313,6 @@
       "onboard_time": 1726535779,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196145,
-      "num": 196145,
-      "word": "女子腿绑4瓶茅台入境被查",
-      "onboard_time": 1726915220,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196081,
@@ -33755,6 +33771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182415,
+      "num": 182415,
+      "word": "陈雨菲 只会代表中国参赛",
+      "onboard_time": 1726916121,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182336,
       "num": 182336,
       "word": "Peanut哭了",
@@ -36081,14 +36105,6 @@
       "onboard_time": 1726488740,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 172642,
-      "num": 480607,
-      "word": "飞天奖",
-      "onboard_time": 1726880601,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 172638,
@@ -39560,14 +39576,6 @@
       "word": "孙颖莎4比2战胜王艺迪",
       "onboard_time": 1726402643,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 157745,
-      "num": 157745,
-      "word": "陈雨菲 只会代表中国参赛",
-      "onboard_time": 1726916121,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -47747,6 +47755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121407,
+      "num": 121407,
+      "word": "柏浪涛 考前聚焦",
+      "onboard_time": 1726917860,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 121384,
       "num": 121384,
       "word": "许昕 双开门",
@@ -47955,6 +47971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 120180,
+      "num": 120763,
+      "word": "樱兰高校公关部 最帅女主",
+      "onboard_time": 1726916601,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 120176,
       "num": 304161,
       "word": "谁家男女主谈恋爱从结拜开始啊",
@@ -48057,14 +48081,6 @@
       "onboard_time": 1725702500,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 119672,
-      "num": 119672,
-      "word": "樱兰高校公关部 最帅女主",
-      "onboard_time": 1726916601,
-      "rank": 47,
-      "category": "动漫"
     },
     {
       "raw_hot": 119619,
@@ -50273,6 +50289,14 @@
       "onboard_time": 1725208636,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103805,
+      "num": 461297,
+      "word": "多位村民称网红小英生活与视频一致",
+      "onboard_time": 1726917081,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103564,
@@ -53387,14 +53411,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 70087,
-      "num": 461297,
-      "word": "多位村民称网红小英生活与视频一致",
-      "onboard_time": 1726917081,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 70012,
       "num": 599069,
       "word": "牙齿健康和寿命长短有关吗",
@@ -54747,6 +54763,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 57623,
+      "num": 283962,
+      "word": "李兰迪 裙摆并非枷锁",
+      "onboard_time": 1726918461,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 57596,
       "num": 475085,
       "word": "演唱会景点博物馆门票为何越来越难买",
@@ -55969,6 +55993,14 @@
       "onboard_time": 1726374019,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 49146,
+      "num": 142831,
+      "word": "蓝天救援队特训王腾",
+      "onboard_time": 1726918400,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49126,
@@ -58035,6 +58067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 37865,
+      "num": 403267,
+      "word": "辛云来转型相亲博主",
+      "onboard_time": 1726916540,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37861,
       "num": 813950,
       "word": "贵州茅台股价跌破1300元整数关口",
@@ -59243,6 +59283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32751,
+      "num": 410748,
+      "word": "成年人该如何开口说分手",
+      "onboard_time": 1726918400,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32735,
       "num": 481899,
       "word": "适老化药品说明书仍超3000字",
@@ -59913,6 +59961,14 @@
       "onboard_time": 1725130993,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 29944,
+      "num": 405510,
+      "word": "35秒带你了解人造血管",
+      "onboard_time": 1726917020,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29897,
@@ -61729,14 +61785,6 @@
       "onboard_time": 1725711800,
       "rank": 37,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 20912,
-      "num": 403790,
-      "word": "35秒带你了解人造血管",
-      "onboard_time": 1726917020,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20903,
