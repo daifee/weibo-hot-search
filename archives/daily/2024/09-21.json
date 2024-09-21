@@ -1,6 +1,6 @@
 {
   "startTime": 1726849656112,
-  "endTime": 1726907125692,
+  "endTime": 1726907936420,
   "band_list": [
     {
       "raw_hot": 6135283,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1796640,
-      "num": 784009,
+      "num": 1008448,
       "word": "1岁男童腹中竟有个小宝宝",
       "onboard_time": 1726905140,
       "rank": 3,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1526226,
-      "num": 736056,
+      "num": 996984,
       "word": "赵丽颖在张碧晨家厕所睡过觉",
       "onboard_time": 1726902860,
       "rank": 11,
@@ -73,6 +73,14 @@
       "onboard_time": 1726885579,
       "rank": 6,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1343654,
+      "num": 1343654,
+      "word": "网红小英回应塌房风波",
+      "onboard_time": 1726903579,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1269911,
@@ -129,14 +137,6 @@
       "onboard_time": 1726887379,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1018937,
-      "num": 1018937,
-      "word": "网红小英回应塌房风波",
-      "onboard_time": 1726903579,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 963509,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 703796,
-      "num": 604803,
+      "num": 646043,
       "word": "王俊凯25岁第一天从清理库存开始",
       "onboard_time": 1726905080,
       "rank": 7,
@@ -491,6 +491,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 340933,
+      "num": 340933,
+      "word": "为了live图把微信卸载聊天记录没了",
+      "onboard_time": 1726902440,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 340601,
       "num": 340601,
       "word": "安陵容当时吃了最少30粒苦杏仁",
@@ -523,19 +531,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330181,
+      "num": 330181,
+      "word": "黄轩首次晒与女友视频",
+      "onboard_time": 1726901959,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 327154,
       "num": 286970,
       "word": "虞书欣 潘婷",
       "onboard_time": 1726892001,
       "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 325856,
-      "num": 325856,
-      "word": "黄轩首次晒与女友视频",
-      "onboard_time": 1726901959,
-      "rank": 19,
       "category": "艺人"
     },
     {
@@ -571,12 +579,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 315939,
-      "num": 315939,
-      "word": "为了live图把微信卸载聊天记录没了",
-      "onboard_time": 1726902440,
-      "rank": 36,
-      "category": "幽默"
+      "raw_hot": 312748,
+      "num": 266090,
+      "word": "胎儿查出超雄基因真的不能留吗",
+      "onboard_time": 1726905679,
+      "rank": 24,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 306508,
@@ -609,6 +617,14 @@
       "onboard_time": 1726887679,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 293162,
+      "num": 544254,
+      "word": "汪峰 我怎么就这么被人嫌弃",
+      "onboard_time": 1726904118,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 291781,
@@ -681,14 +697,6 @@
       "onboard_time": 1726885460,
       "rank": 17,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 266090,
-      "num": 266090,
-      "word": "胎儿查出超雄基因真的不能留吗",
-      "onboard_time": 1726905679,
-      "rank": 24,
-      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 265583,
@@ -867,14 +875,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 218777,
-      "num": 544254,
-      "word": "汪峰 我怎么就这么被人嫌弃",
-      "onboard_time": 1726904118,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 217261,
       "num": 217261,
       "word": "计算机二级 PPT",
@@ -905,6 +905,14 @@
       "onboard_time": 1726888160,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 210078,
+      "num": 210078,
+      "word": "全红婵归队爷爷在车旁再三叮嘱",
+      "onboard_time": 1726902980,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 208844,
@@ -955,20 +963,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204820,
-      "num": 204820,
-      "word": "全红婵归队爷爷在车旁再三叮嘱",
-      "onboard_time": 1726902980,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 204580,
       "num": 204580,
       "word": "半熟男女",
       "onboard_time": 1726886360,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204086,
+      "num": 204086,
+      "word": "肖战提醒大家警惕骗局",
+      "onboard_time": 1726907179,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 199738,
@@ -985,6 +993,14 @@
       "onboard_time": 1726836620,
       "rank": 40,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 197655,
+      "num": 197655,
+      "word": "嫂子开门我是我哥真拍成剧了",
+      "onboard_time": 1726907179,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 195944,
@@ -1025,6 +1041,14 @@
       "onboard_time": 1726899979,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183837,
+      "num": 183837,
+      "word": "临近婚期伴娘没有消息了",
+      "onboard_time": 1726906340,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 182756,
@@ -1371,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140276,
+      "num": 140276,
+      "word": "王楚钦备战中国大满贯",
+      "onboard_time": 1726907840,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139689,
       "num": 139689,
       "word": "孙颖莎散装英语又上线了",
@@ -1563,20 +1595,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120434,
+      "num": 120434,
+      "word": "猫把主人的外卖打翻了主人反手掀回去",
+      "onboard_time": 1726906761,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117447,
       "num": 117447,
       "word": "战至巅峰",
       "onboard_time": 1726906220,
       "rank": 44,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 115842,
-      "num": 115842,
-      "word": "临近婚期伴娘没有消息了",
-      "onboard_time": 1726906340,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 115543,
@@ -1643,14 +1675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111404,
-      "num": 111404,
-      "word": "猫把主人的外卖打翻了主人反手掀回去",
-      "onboard_time": 1726906761,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 110266,
       "num": 110266,
       "word": "山花烂漫时 不雌竞的女性关系",
@@ -1672,6 +1696,14 @@
       "word": "因室友烧伤男生父母5次割皮为其植皮",
       "onboard_time": 1726829360,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108462,
+      "num": 108462,
+      "word": "女子飞机上遭后排夫妻踹座椅辱骂",
+      "onboard_time": 1726907900,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1771,6 +1803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 71029,
+      "num": 567550,
+      "word": "寻呼机爆炸事件或宣告新技术战争来临",
+      "onboard_time": 1726905980,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 69020,
       "num": 69020,
       "word": "东北人近期精神状态",
@@ -1852,7 +1892,7 @@
     },
     {
       "raw_hot": 50734,
-      "num": 160187,
+      "num": 358473,
       "word": "李宁景德镇大秀",
       "onboard_time": 1726906580,
       "rank": 35,
@@ -1873,14 +1913,6 @@
       "onboard_time": 1726901239,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44186,
-      "num": 567550,
-      "word": "寻呼机爆炸事件或宣告新技术战争来临",
-      "onboard_time": 1726905980,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 43614,
@@ -2051,6 +2083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 26563,
+      "num": 316498,
+      "word": "老年痴呆爷爷看几十年前情书泪目",
+      "onboard_time": 1726906518,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25800,
       "num": 101864,
       "word": "崔永熙穿科比T恤签约篮网",
@@ -2120,14 +2160,6 @@
       "word": "120秒致敬中国青年",
       "onboard_time": 1726900399,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18690,
-      "num": 316498,
-      "word": "老年痴呆爷爷看几十年前情书泪目",
-      "onboard_time": 1726906518,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
