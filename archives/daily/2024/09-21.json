@@ -1,6 +1,6 @@
 {
   "startTime": 1726849656112,
-  "endTime": 1726907936420,
+  "endTime": 1726910458967,
   "band_list": [
     {
       "raw_hot": 6135283,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1796640,
-      "num": 1008448,
+      "num": 1305174,
       "word": "1岁男童腹中竟有个小宝宝",
       "onboard_time": 1726905140,
       "rank": 3,
@@ -56,6 +56,14 @@
       "word": "90后独生女独自面对父母离世",
       "onboard_time": 1726891101,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1615899,
+      "num": 1615899,
+      "word": "网红小英回应塌房风波",
+      "onboard_time": 1726903579,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -73,14 +81,6 @@
       "onboard_time": 1726885579,
       "rank": 6,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1343654,
-      "num": 1343654,
-      "word": "网红小英回应塌房风波",
-      "onboard_time": 1726903579,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1269911,
@@ -227,6 +227,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 716056,
+      "num": 554165,
+      "word": "黄轩 大大方方",
+      "onboard_time": 1726909219,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 703796,
       "num": 646043,
       "word": "王俊凯25岁第一天从清理库存开始",
@@ -241,6 +249,14 @@
       "onboard_time": 1726881740,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 640120,
+      "num": 553883,
+      "word": "汪峰 我怎么就这么被人嫌弃",
+      "onboard_time": 1726904118,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 623597,
@@ -265,6 +281,22 @@
       "onboard_time": 1726885100,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 553021,
+      "num": 553021,
+      "word": "当地村民称小英生了不止两个孩子",
+      "onboard_time": 1726908440,
+      "rank": 8,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 548578,
+      "num": 548578,
+      "word": "刘诗诗 北京",
+      "onboard_time": 1726908499,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 543440,
@@ -403,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 416811,
+      "num": 278683,
+      "word": "胎儿查出超雄基因真的不能留吗",
+      "onboard_time": 1726905679,
+      "rank": 24,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 411921,
       "num": 411921,
       "word": "安徽亳州石像掉落11岁孩子被砸身亡",
@@ -449,6 +489,14 @@
       "onboard_time": 1726841840,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374792,
+      "num": 549492,
+      "word": "王楚钦备战中国大满贯",
+      "onboard_time": 1726907840,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 374652,
@@ -505,6 +553,14 @@
       "onboard_time": 1726838361,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 339831,
+      "num": 339831,
+      "word": "全红婵归队爷爷在车旁再三叮嘱",
+      "onboard_time": 1726902980,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 338228,
@@ -579,12 +635,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 312748,
-      "num": 266090,
-      "word": "胎儿查出超雄基因真的不能留吗",
-      "onboard_time": 1726905679,
-      "rank": 24,
-      "category": "社会新闻,健康医疗"
+      "raw_hot": 318473,
+      "num": 274797,
+      "word": "嫂子开门我是我哥真拍成剧了",
+      "onboard_time": 1726907179,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 306508,
@@ -617,14 +673,6 @@
       "onboard_time": 1726887679,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 293162,
-      "num": 544254,
-      "word": "汪峰 我怎么就这么被人嫌弃",
-      "onboard_time": 1726904118,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 291781,
@@ -763,6 +811,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247046,
+      "num": 247046,
+      "word": "临近婚期伴娘没有消息了",
+      "onboard_time": 1726906340,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 245548,
+      "num": 245548,
+      "word": "飞天奖彩排路透",
+      "onboard_time": 1726907960,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 244610,
+      "num": 244610,
+      "word": "肖战团队无任何变动",
+      "onboard_time": 1726909939,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242866,
       "num": 242866,
       "word": "清澈的爱只为中国",
@@ -851,6 +923,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 223510,
+      "num": 223510,
+      "word": "易烊千玺出发澳门",
+      "onboard_time": 1726909879,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220606,
       "num": 220606,
       "word": "尹锡悦发文感谢韩国夫妻生下5胞胎",
@@ -899,20 +979,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213059,
+      "num": 213059,
+      "word": "女子美甲后指甲变绿全甲被拔除",
+      "onboard_time": 1726909759,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212851,
       "num": 212851,
       "word": "王一博pizza大片",
       "onboard_time": 1726888160,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 210078,
-      "num": 210078,
-      "word": "全红婵归队爷爷在车旁再三叮嘱",
-      "onboard_time": 1726902980,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 208844,
@@ -995,14 +1075,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 197655,
-      "num": 197655,
-      "word": "嫂子开门我是我哥真拍成剧了",
-      "onboard_time": 1726907179,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195944,
       "num": 195944,
       "word": "新疆葡萄干不是晒出来而是晾出来的",
@@ -1035,20 +1107,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186515,
+      "num": 221559,
+      "word": "9旬院士说无人机黑飞不是法外之地",
+      "onboard_time": 1726909279,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183909,
       "num": 183909,
       "word": "你好种地少年2看遍大好河山",
       "onboard_time": 1726899979,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 183837,
-      "num": 183837,
-      "word": "临近婚期伴娘没有消息了",
-      "onboard_time": 1726906340,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 182756,
@@ -1113,6 +1185,14 @@
       "onboard_time": 1726880601,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172293,
+      "num": 172293,
+      "word": "女子飞机上遭后排夫妻踹座椅辱骂",
+      "onboard_time": 1726907900,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171347,
@@ -1211,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161152,
+      "num": 161152,
+      "word": "猫把主人的外卖打翻了主人反手掀回去",
+      "onboard_time": 1726906761,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160874,
       "num": 160874,
       "word": "黄景瑜关晓彤吻戏路透",
@@ -1225,6 +1313,14 @@
       "onboard_time": 1726839080,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 159880,
+      "num": 159880,
+      "word": "密逃NPC 莞莞类卿",
+      "onboard_time": 1726909820,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 158490,
@@ -1395,14 +1491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140276,
-      "num": 140276,
-      "word": "王楚钦备战中国大满贯",
-      "onboard_time": 1726907840,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 139689,
       "num": 139689,
       "word": "孙颖莎散装英语又上线了",
@@ -1433,6 +1521,14 @@
       "onboard_time": 1726863732,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 137111,
+      "num": 178063,
+      "word": "嫦娥六号月背土画面首次公开",
+      "onboard_time": 1726909279,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 135958,
@@ -1475,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132580,
+      "num": 567550,
+      "word": "寻呼机爆炸事件或宣告新技术战争来临",
+      "onboard_time": 1726905980,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 132404,
       "num": 132404,
       "word": "双子星公主 绝美公主",
@@ -1489,6 +1593,14 @@
       "onboard_time": 1726842621,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132065,
+      "num": 132065,
+      "word": "白鹿首唱会练舞",
+      "onboard_time": 1726908260,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 130931,
@@ -1587,20 +1699,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 121115,
+      "num": 121115,
+      "word": "周末跟莎莎去河北",
+      "onboard_time": 1726909039,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120726,
       "num": 120726,
       "word": "杨超越二搭丁禹兮演前任",
       "onboard_time": 1726901479,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 120434,
-      "num": 120434,
-      "word": "猫把主人的外卖打翻了主人反手掀回去",
-      "onboard_time": 1726906761,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 117447,
@@ -1696,14 +1808,6 @@
       "word": "因室友烧伤男生父母5次割皮为其植皮",
       "onboard_time": 1726829360,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108462,
-      "num": 108462,
-      "word": "女子飞机上遭后排夫妻踹座椅辱骂",
-      "onboard_time": 1726907900,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1803,14 +1907,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 71029,
-      "num": 567550,
-      "word": "寻呼机爆炸事件或宣告新技术战争来临",
-      "onboard_time": 1726905980,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 69020,
       "num": 69020,
       "word": "东北人近期精神状态",
@@ -1892,7 +1988,7 @@
     },
     {
       "raw_hot": 50734,
-      "num": 358473,
+      "num": 551447,
       "word": "李宁景德镇大秀",
       "onboard_time": 1726906580,
       "rank": 35,
@@ -2019,6 +2115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32041,
+      "num": 552779,
+      "word": "90后小伙退伍后在社区做护旗手",
+      "onboard_time": 1726909460,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31716,
       "num": 974668,
       "word": "北京文化论坛文艺晚会",
@@ -2043,20 +2147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30037,
+      "num": 1756806,
+      "word": "青春华章",
+      "onboard_time": 1726819520,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29534,
       "num": 614325,
       "word": "把青春华章写在祖国大地上",
       "onboard_time": 1726888160,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 28745,
-      "num": 1756806,
-      "word": "青春华章",
-      "onboard_time": 1726819520,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28640,
@@ -2160,6 +2264,14 @@
       "word": "120秒致敬中国青年",
       "onboard_time": 1726900399,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16623,
+      "num": 530631,
+      "word": "抢购虚拟玉石牵出特大网络传销案",
+      "onboard_time": 1726909400,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
