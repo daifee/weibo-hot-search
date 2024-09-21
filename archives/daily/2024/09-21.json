@@ -1,6 +1,6 @@
 {
   "startTime": 1726849656112,
-  "endTime": 1726888988586,
+  "endTime": 1726889874819,
   "band_list": [
     {
       "raw_hot": 6135283,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1425012,
-      "num": 542553,
+      "num": 578264,
       "word": "蔡徐坤抱了赵露思的狗",
       "onboard_time": 1726885579,
       "rank": 6,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1269911,
-      "num": 432735,
+      "num": 441015,
       "word": "文章马伊琍女儿16岁生日照",
       "onboard_time": 1726877719,
       "rank": 6,
@@ -65,6 +65,14 @@
       "onboard_time": 1726873755,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1029460,
+      "num": 464490,
+      "word": "袁巴元否认张雨绮是小三",
+      "onboard_time": 1726887379,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 963509,
@@ -89,14 +97,6 @@
       "onboard_time": 1726857313,
       "rank": 15,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 774760,
-      "num": 398484,
-      "word": "袁巴元否认张雨绮是小三",
-      "onboard_time": 1726887379,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 761395,
@@ -137,6 +137,14 @@
       "onboard_time": 1726885100,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 568576,
+      "num": 568576,
+      "word": "法考",
+      "onboard_time": 1726888401,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 542480,
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 449407,
+      "num": 449407,
+      "word": "婚姻自由包括离婚自由",
+      "onboard_time": 1726885938,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 426889,
       "num": 404562,
       "word": "半个娱乐圈的人来厦门了",
@@ -219,14 +235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 375430,
-      "num": 375430,
-      "word": "婚姻自由包括离婚自由",
-      "onboard_time": 1726885938,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 374652,
       "num": 374652,
       "word": "两个团唯一没有结婚的张远",
@@ -243,16 +251,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 361484,
-      "num": 361484,
-      "word": "法考",
-      "onboard_time": 1726888401,
-      "rank": 12,
-      "category": "教育"
-    },
-    {
       "raw_hot": 353910,
-      "num": 241967,
+      "num": 244619,
       "word": "小英掉粉揭示了大众对虚假人设的反感",
       "onboard_time": 1726883242,
       "rank": 29,
@@ -265,6 +265,14 @@
       "onboard_time": 1726838361,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 339087,
+      "num": 339087,
+      "word": "村干部称小英家曾是建档贫困户",
+      "onboard_time": 1726887020,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338228,
@@ -305,6 +313,14 @@
       "onboard_time": 1726887321,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307565,
+      "num": 307565,
+      "word": "湾区升明月阵容",
+      "onboard_time": 1726888700,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 296493,
@@ -419,6 +435,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 237753,
+      "num": 237753,
+      "word": "你终于发现上大学的真正主线了",
+      "onboard_time": 1726886060,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 235155,
       "num": 235155,
       "word": "计算机二级wps",
@@ -435,12 +459,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 231850,
-      "num": 231850,
-      "word": "你终于发现上大学的真正主线了",
-      "onboard_time": 1726886060,
-      "rank": 30,
-      "category": "教育"
+      "raw_hot": 231752,
+      "num": 231752,
+      "word": "虞书欣叫黄奕沪上小阿姨",
+      "onboard_time": 1726888761,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 229827,
@@ -523,6 +547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199256,
+      "num": 199256,
+      "word": "我国小学生要具备一定的国防意识",
+      "onboard_time": 1726887679,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 198617,
       "num": 198617,
       "word": "范思哲大秀",
@@ -531,28 +563,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 195891,
-      "num": 195891,
-      "word": "湾区升明月阵容",
-      "onboard_time": 1726888700,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194230,
       "num": 194230,
       "word": "全红婵归队",
       "onboard_time": 1726843342,
       "rank": 21,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 191337,
-      "num": 191337,
-      "word": "我国小学生要具备一定的国防意识",
-      "onboard_time": 1726887679,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 191208,
@@ -571,20 +587,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181661,
+      "num": 279138,
+      "word": "小英1年直播200多场带货总额超千万",
+      "onboard_time": 1726886539,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180644,
       "num": 422772,
       "word": "黎巴嫩爆炸事件许多伤者失去眼睛",
       "onboard_time": 1726882822,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 177957,
-      "num": 177957,
-      "word": "虞书欣叫黄奕沪上小阿姨",
-      "onboard_time": 1726888761,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 172642,
@@ -651,14 +667,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 164702,
-      "num": 305653,
-      "word": "村干部称小英家曾是建档贫困户",
-      "onboard_time": 1726887020,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163224,
       "num": 163224,
       "word": "视频显示以军从楼顶扔巴勒斯坦人尸体",
@@ -699,20 +707,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 154877,
-      "num": 279138,
-      "word": "小英1年直播200多场带货总额超千万",
-      "onboard_time": 1726886539,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154739,
       "num": 154739,
       "word": "台风",
       "onboard_time": 1726888101,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151362,
+      "num": 151362,
+      "word": "库克希望中国顾客喜爱iPhone16",
+      "onboard_time": 1726889240,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 150234,
@@ -995,6 +1003,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 91193,
+      "num": 319063,
+      "word": "学生测试学校自来水洗脸巾秒变黑",
+      "onboard_time": 1726888581,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87494,
       "num": 87494,
       "word": "心疼李肆",
@@ -1019,20 +1035,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 63140,
-      "num": 319063,
-      "word": "学生测试学校自来水洗脸巾秒变黑",
-      "onboard_time": 1726888581,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 60494,
       "num": 60494,
       "word": "当爸爸妈妈开始养我的狗",
       "onboard_time": 1726860193,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 56705,
+      "num": 316666,
+      "word": "你的车里会放破窗锤吗",
+      "onboard_time": 1726885460,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56233,
@@ -1051,12 +1067,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 52868,
-      "num": 316666,
-      "word": "你的车里会放破窗锤吗",
-      "onboard_time": 1726885460,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 53439,
+      "num": 196587,
+      "word": "以军空袭黎巴嫩首都已致14死",
+      "onboard_time": 1726889010,
+      "rank": 29,
+      "category": "国外时政,军事"
     },
     {
       "raw_hot": 51882,
@@ -1195,8 +1211,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7783,
-      "num": 557010,
+      "raw_hot": 13994,
+      "num": 443152,
+      "word": "泥人张第6代传人谈传统行业",
+      "onboard_time": 1726889120,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12174,
+      "num": 579623,
       "word": "青春华章",
       "onboard_time": 1726819520,
       "rank": 2,
