@@ -1,11 +1,19 @@
 {
   "startTime": 1726849656112,
-  "endTime": 1726883009184,
+  "endTime": 1726883632005,
   "band_list": [
     {
       "raw_hot": 6135283,
       "num": 6135283,
       "word": "黄轩官宣",
+      "onboard_time": 1726880539,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5405057,
+      "num": 5405057,
+      "word": "黄轩女朋友",
       "onboard_time": 1726880539,
       "rank": 0,
       "category": "艺人"
@@ -83,7 +91,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 729926,
+      "raw_hot": 735656,
       "num": 672628,
       "word": "王源发文为王俊凯庆生",
       "onboard_time": 1726874054,
@@ -123,8 +131,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 489108,
-      "num": 489108,
+      "raw_hot": 497937,
+      "num": 497937,
       "word": "中方用令人发指一词谈寻呼机爆炸",
       "onboard_time": 1726878979,
       "rank": 3,
@@ -147,20 +155,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 426889,
+      "num": 404562,
+      "word": "半个娱乐圈的人来厦门了",
+      "onboard_time": 1726874355,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 411921,
       "num": 411921,
       "word": "安徽亳州石像掉落11岁孩子被砸身亡",
       "onboard_time": 1726844061,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 404562,
-      "num": 404562,
-      "word": "半个娱乐圈的人来厦门了",
-      "onboard_time": 1726874355,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 394399,
@@ -235,12 +243,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 296493,
+      "num": 296493,
+      "word": "王源送王俊凯的生日图上有马亮的包",
+      "onboard_time": 1726879997,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 291781,
+      "num": 241359,
+      "word": "袁山青编剧",
+      "onboard_time": 1726878379,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 284995,
       "num": 284995,
       "word": "黎巴嫩人害怕爆炸不敢用手机",
       "onboard_time": 1726839861,
       "rank": 15,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 282511,
+      "num": 282511,
+      "word": "稻城亚丁景区被指禁止游客吃泡面",
+      "onboard_time": 1726881740,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279709,
@@ -257,14 +289,6 @@
       "onboard_time": 1726839681,
       "rank": 17,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 275619,
-      "num": 275619,
-      "word": "王源送王俊凯的生日图上有马亮的包",
-      "onboard_time": 1726879997,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 274576,
@@ -299,14 +323,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 249971,
-      "num": 241359,
-      "word": "袁山青编剧",
-      "onboard_time": 1726878379,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 248480,
       "num": 248480,
       "word": "2岁女童遭邻居持刀伤害后去世",
@@ -331,14 +347,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 234772,
-      "num": 234772,
-      "word": "稻城亚丁景区被指禁止游客吃泡面",
-      "onboard_time": 1726881740,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229827,
       "num": 229827,
       "word": "我赴黎维和部队营区周边发生航弹爆炸",
@@ -353,6 +361,14 @@
       "onboard_time": 1726846040,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207637,
+      "num": 207637,
+      "word": "肚子容易长肉是基因决定的",
+      "onboard_time": 1726877959,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 206768,
@@ -371,12 +387,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200569,
-      "num": 200569,
-      "word": "肚子容易长肉是基因决定的",
-      "onboard_time": 1726877959,
-      "rank": 28,
-      "category": "健康医疗"
+      "raw_hot": 199738,
+      "num": 199738,
+      "word": "王者荣耀",
+      "onboard_time": 1726883362,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 198617,
@@ -411,6 +427,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180874,
+      "num": 180874,
+      "word": "小英掉粉揭示了大众对虚假人设的反感",
+      "onboard_time": 1726883242,
+      "rank": 29,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 172642,
+      "num": 172642,
+      "word": "飞天奖",
+      "onboard_time": 1726880601,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171347,
       "num": 145707,
       "word": "月经推迟或是这5种原因",
@@ -433,14 +465,6 @@
       "onboard_time": 1726842859,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170341,
-      "num": 170341,
-      "word": "飞天奖",
-      "onboard_time": 1726880601,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 169281,
@@ -523,12 +547,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 148378,
+      "num": 148378,
+      "word": "伯远回应最高分仍被淘汰",
+      "onboard_time": 1726881141,
+      "rank": 40,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 147552,
       "num": 145512,
       "word": "网红小英塌房风波背后",
       "onboard_time": 1726873455,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142611,
+      "num": 220395,
+      "word": "黎巴嫩真主党高级指挥官丧生",
+      "onboard_time": 1726881619,
+      "rank": 24,
+      "category": "国外时政,军事"
     },
     {
       "raw_hot": 142086,
@@ -555,12 +595,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140564,
-      "num": 140564,
-      "word": "伯远回应最高分仍被淘汰",
-      "onboard_time": 1726881141,
-      "rank": 40,
-      "category": "综艺,体育"
+      "raw_hot": 140475,
+      "num": 140475,
+      "word": "计算机二级",
+      "onboard_time": 1726880780,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 139201,
@@ -571,8 +611,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 136365,
-      "num": 136365,
+      "raw_hot": 137179,
+      "num": 137179,
       "word": "黎巴嫩眼科医生发声",
       "onboard_time": 1726863732,
       "rank": 49,
@@ -585,6 +625,14 @@
       "onboard_time": 1726834820,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134763,
+      "num": 134763,
+      "word": "中国在联合国为无辜生命呼吁三个停止",
+      "onboard_time": 1726880119,
+      "rank": 49,
+      "category": "国外时政,军事"
     },
     {
       "raw_hot": 133614,
@@ -627,14 +675,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 127180,
-      "num": 127180,
-      "word": "计算机二级",
-      "onboard_time": 1726880780,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 127147,
       "num": 127147,
       "word": "苏有朋又主持湾区升明月了",
@@ -649,6 +689,14 @@
       "onboard_time": 1726843221,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126706,
+      "num": 126706,
+      "word": "10年前送出去的猫收到了返图",
+      "onboard_time": 1726882640,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 122827,
@@ -683,14 +731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108908,
-      "num": 108908,
-      "word": "10年前送出去的猫收到了返图",
-      "onboard_time": 1726882640,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 108843,
       "num": 108843,
       "word": "因室友烧伤男生父母5次割皮为其植皮",
@@ -715,14 +755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104025,
-      "num": 104025,
-      "word": "中国在联合国为无辜生命呼吁三个停止",
-      "onboard_time": 1726880119,
-      "rank": 49,
-      "category": "国外时政,军事"
-    },
-    {
       "raw_hot": 103299,
       "num": 103299,
       "word": "泰州地震",
@@ -739,12 +771,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 94192,
-      "num": 220395,
-      "word": "黎巴嫩真主党高级指挥官丧生",
-      "onboard_time": 1726881619,
-      "rank": 24,
-      "category": "国外时政,军事"
+      "raw_hot": 97335,
+      "num": 422772,
+      "word": "黎巴嫩爆炸事件许多伤者失去眼睛",
+      "onboard_time": 1726882822,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 94086,
@@ -859,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29844,
+      "num": 974668,
+      "word": "北京文化论坛文艺晚会",
+      "onboard_time": 1726821740,
+      "rank": 2,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 28640,
       "num": 33951,
       "word": "余华说喜欢人类幼崽但从来不催婚",
@@ -883,14 +923,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 25972,
-      "num": 974668,
-      "word": "北京文化论坛文艺晚会",
-      "onboard_time": 1726821740,
-      "rank": 2,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 25800,
       "num": 101864,
       "word": "崔永熙穿科比T恤签约篮网",
@@ -913,14 +945,6 @@
       "onboard_time": 1726832720,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 23891,
-      "num": 422772,
-      "word": "黎巴嫩爆炸事件许多伤者失去眼睛",
-      "onboard_time": 1726882822,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 22427,
