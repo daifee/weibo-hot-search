@@ -1,0 +1,410 @@
+{
+  "runTime": 1726900106527,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1976429,
+        "num": 1976429,
+        "word": "黄晓明 叶珂",
+        "onboard_time": 1726896440,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 647777,
+        "num": 647777,
+        "word": "医院被曝一张CT片子套多个病历",
+        "onboard_time": 1726892181,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20354,
+        "num": 641271,
+        "word": "青春华章",
+        "onboard_time": 1726819520,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1139415,
+        "num": 622974,
+        "word": "武艺爆料张碧晨喜欢在厕所吃饭",
+        "onboard_time": 1726894700,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 863106,
+        "num": 588941,
+        "word": "90后独生女独自面对父母离世",
+        "onboard_time": 1726891101,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657425,
+        "num": 582635,
+        "word": "老伴去世女子被继女要求搬离",
+        "onboard_time": 1726893980,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 964287,
+        "num": 543900,
+        "word": "黄轩女朋友",
+        "onboard_time": 1726880539,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543440,
+        "num": 543440,
+        "word": "老叔拿离婚证骗小姑娘恋爱",
+        "onboard_time": 1726894939,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 495026,
+        "num": 495026,
+        "word": "美媒称以筹备通信设备爆炸至少15年",
+        "onboard_time": 1726894939,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 35614,
+        "num": 441959,
+        "word": "以色列曾给手机装炸药成功暗杀",
+        "onboard_time": 1726899619,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 437921,
+        "num": 437921,
+        "word": "常说这4句话的人痴呆风险高",
+        "onboard_time": 1726893560,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405126,
+        "num": 405126,
+        "word": "TOP登陆少年首次外务",
+        "onboard_time": 1726896920,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 390315,
+        "num": 390315,
+        "word": "生命树",
+        "onboard_time": 1726898179,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340666,
+        "num": 340666,
+        "word": "女生吃火锅遇可升降锅",
+        "onboard_time": 1726897340,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 38157,
+        "num": 333368,
+        "word": "在动画行业打一年工倒欠八千块",
+        "onboard_time": 1726898779,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331911,
+        "num": 331911,
+        "word": "老人痛诉全身只有20元赌什么博",
+        "onboard_time": 1726898059,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328444,
+        "num": 328444,
+        "word": "存量房贷利率调降呼声再起",
+        "onboard_time": 1726895059,
+        "rank": 16,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 326456,
+        "num": 326456,
+        "word": "王源发文为王俊凯庆生",
+        "onboard_time": 1726874054,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52960,
+        "num": 323672,
+        "word": "微博音乐盛典第二波阵容官宣",
+        "onboard_time": 1726896560,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 29691,
+        "num": 305934,
+        "word": "俩小孩卷罐车车底家属质疑工地失职",
+        "onboard_time": 1726899141,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607313,
+        "num": 281191,
+        "word": "蔡徐坤抱了赵露思的狗",
+        "onboard_time": 1726885579,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 472001,
+        "num": 280097,
+        "word": "网红良田正颌手术很成功",
+        "onboard_time": 1726898719,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 266056,
+        "num": 266056,
+        "word": "台风普拉桑复活了",
+        "onboard_time": 1726898300,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217572,
+        "num": 217572,
+        "word": "柏浪涛 刑法的神",
+        "onboard_time": 1726894999,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 214209,
+        "num": 214209,
+        "word": "女子买4万黄金不挑款式店员果断报警",
+        "onboard_time": 1726876637,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228935,
+        "num": 202060,
+        "word": "赵露思登世趋",
+        "onboard_time": 1726892478,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 188147,
+        "num": 188147,
+        "word": "iPhone17标准版或配120Hz高刷",
+        "onboard_time": 1726891220,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 187417,
+        "num": 187417,
+        "word": "法考卷一难不难",
+        "onboard_time": 1726893020,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 185050,
+        "num": 185050,
+        "word": "这就是中国军人带来的安全感",
+        "onboard_time": 1726887321,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35302,
+        "num": 184334,
+        "word": "2024特别版小白杨MV",
+        "onboard_time": 1726898300,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183909,
+        "num": 183909,
+        "word": "你好种地少年2看遍大好河山",
+        "onboard_time": 1726899979,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176999,
+        "num": 176999,
+        "word": "肖战湾区升明月有三首歌",
+        "onboard_time": 1726895960,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173987,
+        "num": 173987,
+        "word": "湾区升明月阵容",
+        "onboard_time": 1726888700,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173976,
+        "num": 173976,
+        "word": "文章马伊琍女儿16岁生日照",
+        "onboard_time": 1726877719,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170420,
+        "num": 170420,
+        "word": "孙千 程苗苗17岁的青春永不落幕",
+        "onboard_time": 1726890680,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169924,
+        "num": 169924,
+        "word": "法考",
+        "onboard_time": 1726888401,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 24190,
+        "num": 158809,
+        "word": "smart的大五座权益超级加倍",
+        "onboard_time": 1726895179,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73218,
+        "num": 158622,
+        "word": "你期待哪部作品获飞天奖",
+        "onboard_time": 1726893320,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158490,
+        "num": 158490,
+        "word": "戚薇怀念出道导师赵英俊",
+        "onboard_time": 1726897101,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155634,
+        "num": 155634,
+        "word": "绘旅人四周年庆",
+        "onboard_time": 1726899078,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154515,
+        "num": 154515,
+        "word": "朴秀荣或将离开SM",
+        "onboard_time": 1726892240,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153853,
+        "num": 153853,
+        "word": "张子枫李晓家人在家就在",
+        "onboard_time": 1726899498,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145887,
+        "num": 145887,
+        "word": "袁巴元维护张雨绮",
+        "onboard_time": 1726887379,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143026,
+        "num": 143026,
+        "word": "陈幸同公布新身份",
+        "onboard_time": 1726895538,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125843,
+        "num": 125843,
+        "word": "新疆葡萄干不是晒出来而是晾出来的",
+        "onboard_time": 1726898961,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 125812,
+        "num": 125812,
+        "word": "半熟男女 假离婚真劈腿",
+        "onboard_time": 1726899860,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125789,
+        "num": 125789,
+        "word": "黎巴嫩真主党曾为了安全才使用BP机",
+        "onboard_time": 1726896680,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 121412,
+        "num": 121412,
+        "word": "我国第24个全民国防教育日",
+        "onboard_time": 1726881861,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116173,
+        "num": 116173,
+        "word": "葛晓倩回应袁巴元",
+        "onboard_time": 1726890378,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115543,
+        "num": 115543,
+        "word": "伍六七第五季定档",
+        "onboard_time": 1726897939,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#把人民政协的显著政治优势更加充分发挥出来#"
+    }
+  }
+}

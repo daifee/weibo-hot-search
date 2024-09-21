@@ -1,6 +1,6 @@
 {
   "startTime": 1726849656112,
-  "endTime": 1726897107127,
+  "endTime": 1726900106527,
   "band_list": [
     {
       "raw_hot": 6135283,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1976429,
+      "num": 1976429,
+      "word": "黄晓明 叶珂",
+      "onboard_time": 1726896440,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1658131,
       "num": 1658131,
       "word": "90后独生女独自面对父母离世",
@@ -67,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1139415,
+      "num": 777265,
+      "word": "武艺爆料张碧晨喜欢在厕所吃饭",
+      "onboard_time": 1726894700,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1107969,
       "num": 1107969,
       "word": "梅姨",
@@ -89,14 +105,6 @@
       "onboard_time": 1726887379,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1024238,
-      "num": 777265,
-      "word": "武艺爆料张碧晨喜欢在厕所吃饭",
-      "onboard_time": 1726894700,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 963509,
@@ -155,14 +163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 742507,
-      "num": 742507,
-      "word": "黄晓明 叶珂",
-      "onboard_time": 1726896440,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 735656,
       "num": 672628,
       "word": "王源发文为王俊凯庆生",
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 543440,
+      "num": 543440,
+      "word": "老叔拿离婚证骗小姑娘恋爱",
+      "onboard_time": 1726894939,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 542480,
       "num": 414328,
       "word": "蔡徐坤赵露思同框看秀",
@@ -233,6 +241,14 @@
       "onboard_time": 1726878979,
       "rank": 3,
       "category": "国外时政,军事"
+    },
+    {
+      "raw_hot": 495026,
+      "num": 495026,
+      "word": "美媒称以筹备通信设备爆炸至少15年",
+      "onboard_time": 1726894939,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 492078,
@@ -267,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 472001,
+      "num": 280097,
+      "word": "网红良田正颌手术很成功",
+      "onboard_time": 1726898719,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 455687,
       "num": 455687,
       "word": "台风普拉桑原地掉头",
@@ -299,12 +323,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 404666,
-      "num": 404666,
-      "word": "老叔拿离婚证骗小姑娘恋爱",
-      "onboard_time": 1726894939,
+      "raw_hot": 405126,
+      "num": 405126,
+      "word": "TOP登陆少年首次外务",
+      "onboard_time": 1726896920,
       "rank": 28,
-      "category": "剧集"
+      "category": "音乐"
     },
     {
       "raw_hot": 394399,
@@ -313,6 +337,14 @@
       "onboard_time": 1726847719,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390315,
+      "num": 390315,
+      "word": "生命树",
+      "onboard_time": 1726898179,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 384424,
@@ -363,6 +395,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 340666,
+      "num": 340666,
+      "word": "女生吃火锅遇可升降锅",
+      "onboard_time": 1726897340,
+      "rank": 13,
+      "category": "美食"
+    },
+    {
       "raw_hot": 340601,
       "num": 340601,
       "word": "安陵容当时吃了最少30粒苦杏仁",
@@ -387,12 +427,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331911,
+      "num": 331911,
+      "word": "老人痛诉全身只有20元赌什么博",
+      "onboard_time": 1726898059,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331671,
       "num": 311927,
       "word": "葛晓倩回应袁巴元",
       "onboard_time": 1726890378,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 328444,
+      "num": 332655,
+      "word": "存量房贷利率调降呼声再起",
+      "onboard_time": 1726895059,
+      "rank": 14,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 327154,
@@ -521,6 +577,14 @@
       "onboard_time": 1726885460,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 266056,
+      "num": 266056,
+      "word": "台风普拉桑复活了",
+      "onboard_time": 1726898300,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265583,
@@ -691,14 +755,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 211618,
-      "num": 173669,
-      "word": "TOP登陆少年首次外务",
-      "onboard_time": 1726896920,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 208844,
       "num": 208844,
       "word": "曾黎从小美到大",
@@ -785,6 +841,14 @@
       "onboard_time": 1726832539,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183909,
+      "num": 183909,
+      "word": "你好种地少年2看遍大好河山",
+      "onboard_time": 1726899979,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 182756,
@@ -955,6 +1019,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158490,
+      "num": 158490,
+      "word": "戚薇怀念出道导师赵英俊",
+      "onboard_time": 1726897101,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 155634,
+      "num": 155634,
+      "word": "绘旅人四周年庆",
+      "onboard_time": 1726899078,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155417,
       "num": 155417,
       "word": "新华社发了肖战舞台",
@@ -979,8 +1059,16 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 153853,
+      "num": 153853,
+      "word": "张子枫李晓家人在家就在",
+      "onboard_time": 1726899498,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 150734,
-      "num": 150734,
+      "num": 158622,
       "word": "你期待哪部作品获飞天奖",
       "onboard_time": 1726893320,
       "rank": 41,
@@ -1041,14 +1129,6 @@
       "onboard_time": 1726890141,
       "rank": 47,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 143975,
-      "num": 369566,
-      "word": "美媒称以筹备通信设备爆炸至少15年",
-      "onboard_time": 1726894939,
-      "rank": 9,
-      "category": "国外时政"
     },
     {
       "raw_hot": 143870,
@@ -1251,12 +1331,36 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 125843,
+      "num": 125843,
+      "word": "新疆葡萄干不是晒出来而是晾出来的",
+      "onboard_time": 1726898961,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 125812,
+      "num": 125812,
+      "word": "半熟男女 假离婚真劈腿",
+      "onboard_time": 1726899860,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122827,
       "num": 122827,
       "word": "野孩子",
       "onboard_time": 1726849100,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115543,
+      "num": 115543,
+      "word": "伍六七第五季定档",
+      "onboard_time": 1726897939,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 114859,
@@ -1372,7 +1476,7 @@
     },
     {
       "raw_hot": 68654,
-      "num": 171635,
+      "num": 323672,
       "word": "微博音乐盛典第二波阵容官宣",
       "onboard_time": 1726896560,
       "rank": 31,
@@ -1385,14 +1489,6 @@
       "onboard_time": 1726873215,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 66893,
-      "num": 332655,
-      "word": "存量房贷利率调降呼声再起",
-      "onboard_time": 1726895059,
-      "rank": 14,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 60494,
@@ -1491,12 +1587,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38157,
+      "num": 333368,
+      "word": "在动画行业打一年工倒欠八千块",
+      "onboard_time": 1726898779,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37311,
       "num": 395290,
       "word": "肖战让暖不止于暖",
       "onboard_time": 1726891760,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 35614,
+      "num": 441959,
+      "word": "以色列曾给手机装炸药成功暗杀",
+      "onboard_time": 1726899619,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 35302,
+      "num": 184334,
+      "word": "2024特别版小白杨MV",
+      "onboard_time": 1726898300,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35151,
@@ -1544,6 +1664,14 @@
       "word": "如何让电动自行车跑得更稳",
       "onboard_time": 1726866551,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29691,
+      "num": 305934,
+      "word": "俩小孩卷罐车车底家属质疑工地失职",
+      "onboard_time": 1726899141,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
