@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726893618470,
+  "endTime": 1726896075676,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -635,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1658131,
+      "num": 1658131,
+      "word": "90后独生女独自面对父母离世",
+      "onboard_time": 1726891101,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1657203,
       "num": 1577499,
       "word": "网红直播调侃九一八被永久封号",
@@ -924,7 +932,7 @@
     },
     {
       "raw_hot": 1425012,
-      "num": 596305,
+      "num": 924677,
       "word": "蔡徐坤抱了赵露思的狗",
       "onboard_time": 1726885579,
       "rank": 6,
@@ -2459,6 +2467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 749812,
+      "num": 2136906,
+      "word": "老伴去世女子被继女要求搬离",
+      "onboard_time": 1726893980,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 745269,
       "num": 596111,
       "word": "期待黄晓明第二个世纪婚礼",
@@ -2857,6 +2873,14 @@
       "onboard_time": 1726745242,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 651927,
+      "num": 651927,
+      "word": "医院被曝一张CT片子套多个病历",
+      "onboard_time": 1726892181,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 650648,
@@ -3425,14 +3449,6 @@
       "onboard_time": 1726543638,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 559178,
-      "num": 559178,
-      "word": "90后独生女独自面对父母离世",
-      "onboard_time": 1726891101,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 558994,
@@ -4105,6 +4121,14 @@
       "onboard_time": 1726892240,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 484073,
+      "num": 484073,
+      "word": "常说这4句话的人痴呆风险高",
+      "onboard_time": 1726893560,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 483903,
@@ -5083,6 +5107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 373555,
+      "num": 373555,
+      "word": "武艺爆料张碧晨喜欢在厕所吃饭",
+      "onboard_time": 1726894700,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 373400,
       "num": 437342,
       "word": "台风普拉桑将在浙江上海一带再次登陆",
@@ -5259,6 +5291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 359598,
+      "num": 359598,
+      "word": "孙千 程苗苗17岁的青春永不落幕",
+      "onboard_time": 1726890680,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 359487,
       "num": 359487,
       "word": "鹭卓巡演疑似被叫停",
@@ -5385,14 +5425,6 @@
       "onboard_time": 1726374738,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 349140,
-      "num": 349140,
-      "word": "孙千 程苗苗17岁的青春永不落幕",
-      "onboard_time": 1726890680,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 349077,
@@ -5803,6 +5835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 325391,
+      "num": 313944,
+      "word": "湾区升明月阵容",
+      "onboard_time": 1726888700,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 324587,
       "num": 428291,
       "word": "广东省鞋无法踏足的地方",
@@ -5985,14 +6025,6 @@
       "onboard_time": 1726807222,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 313944,
-      "num": 313944,
-      "word": "湾区升明月阵容",
-      "onboard_time": 1726888700,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 313808,
@@ -6539,6 +6571,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 288290,
+      "num": 281575,
+      "word": "iPhone17标准版或配120Hz高刷",
+      "onboard_time": 1726891220,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 288147,
       "num": 288147,
       "word": "肖战好长",
@@ -6737,14 +6777,6 @@
       "onboard_time": 1726551859,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 281575,
-      "num": 281575,
-      "word": "iPhone17标准版或配120Hz高刷",
-      "onboard_time": 1726891220,
-      "rank": 27,
-      "category": "数码"
     },
     {
       "raw_hot": 280830,
@@ -8419,6 +8451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223086,
+      "num": 223086,
+      "word": "老叔拿离婚证骗小姑娘恋爱",
+      "onboard_time": 1726894939,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222952,
       "num": 222952,
       "word": "女子吸笑气被抓时请求民警让她吸完",
@@ -8539,6 +8579,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 220054,
+      "num": 229644,
+      "word": "无期迷途",
+      "onboard_time": 1726486399,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 220020,
       "num": 748459,
       "word": "商户有权在自家门店贴招聘信息吗",
@@ -8561,6 +8609,14 @@
       "onboard_time": 1726808122,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 219488,
+      "num": 219488,
+      "word": "柏浪涛 刑法的神",
+      "onboard_time": 1726894999,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 219485,
@@ -9049,6 +9105,14 @@
       "onboard_time": 1726877959,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 207626,
+      "num": 207626,
+      "word": "闪耀暖暖",
+      "onboard_time": 1726894760,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 207594,
@@ -10116,7 +10180,7 @@
     },
     {
       "raw_hot": 192738,
-      "num": 1341723,
+      "num": 1756806,
       "word": "青春华章",
       "onboard_time": 1726819520,
       "rank": 34,
@@ -10385,6 +10449,14 @@
       "onboard_time": 1726471640,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 188616,
+      "num": 188616,
+      "word": "陈幸同公布新身份",
+      "onboard_time": 1726895538,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 188577,
@@ -10883,6 +10955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180103,
+      "num": 180103,
+      "word": "战至巅峰3战队淘汰重组",
+      "onboard_time": 1726895719,
+      "rank": 36,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 179976,
       "num": 179976,
       "word": "王俊凯强制要求影院给粉丝退钱",
@@ -11361,6 +11441,14 @@
       "onboard_time": 1726796241,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 173247,
+      "num": 173247,
+      "word": "杨志刚一开口像讲解员",
+      "onboard_time": 1726895600,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 173040,
@@ -12715,6 +12803,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 154598,
+      "num": 154598,
+      "word": "张泽禹将三登央视",
+      "onboard_time": 1726894278,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 154590,
       "num": 154590,
       "word": "密室大逃脱大神版",
@@ -12817,6 +12913,14 @@
       "onboard_time": 1726822819,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152944,
+      "num": 152944,
+      "word": "肖战湾区升明月有三首歌",
+      "onboard_time": 1726895960,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 152875,
@@ -13691,12 +13795,28 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 139689,
+      "num": 139689,
+      "word": "孙颖莎散装英语又上线了",
+      "onboard_time": 1726894639,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139659,
       "num": 139659,
       "word": "过度节食减肥易导致胆囊疾病",
       "onboard_time": 1726817602,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 139268,
+      "num": 139268,
+      "word": "杨幂上海机场出发路透",
+      "onboard_time": 1726893739,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 139210,
@@ -14347,14 +14467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131389,
-      "num": 131389,
-      "word": "无期迷途",
-      "onboard_time": 1726486399,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 131264,
       "num": 131264,
       "word": "奎八 二哈的报恩",
@@ -14641,14 +14753,6 @@
       "onboard_time": 1726386919,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125559,
-      "num": 125559,
-      "word": "常说这4句话的人痴呆风险高",
-      "onboard_time": 1726893560,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125532,
@@ -15443,14 +15547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107641,
-      "num": 423987,
-      "word": "医院被曝一张CT片子套多个病历",
-      "onboard_time": 1726892181,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107398,
       "num": 107398,
       "word": "WTT蒙彼利埃冠军赛首批入围名单",
@@ -15745,6 +15841,14 @@
       "onboard_time": 1726540340,
       "rank": 39,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 98866,
+      "num": 245669,
+      "word": "暗夜与黎明节奏",
+      "onboard_time": 1726894579,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 98503,
@@ -16193,6 +16297,14 @@
       "onboard_time": 1726350552,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78436,
+      "num": 369566,
+      "word": "美媒称以筹备通信设备爆炸至少15年",
+      "onboard_time": 1726894939,
+      "rank": 9,
+      "category": "国外时政"
     },
     {
       "raw_hot": 78168,
@@ -17723,6 +17835,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 40750,
+      "num": 332655,
+      "word": "存量房贷利率调降呼声再起",
+      "onboard_time": 1726895059,
+      "rank": 14,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 40521,
       "num": 286744,
       "word": "孙怡中秋和粉丝话家常",
@@ -17963,6 +18083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37311,
+      "num": 395290,
+      "word": "肖战让暖不止于暖",
+      "onboard_time": 1726891760,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 37143,
       "num": 452792,
       "word": "胡歌可隆品牌代言人",
@@ -18065,14 +18193,6 @@
       "onboard_time": 1726766953,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 35286,
-      "num": 395290,
-      "word": "肖战让暖不止于暖",
-      "onboard_time": 1726891760,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 35240,
@@ -18321,6 +18441,14 @@
       "onboard_time": 1726753462,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32455,
+      "num": 242017,
+      "word": "smart的大五座权益超级加倍",
+      "onboard_time": 1726895179,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32325,

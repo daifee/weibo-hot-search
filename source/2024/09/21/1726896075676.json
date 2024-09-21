@@ -1,0 +1,410 @@
+{
+  "runTime": 1726896075676,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2838725,
+        "num": 2838725,
+        "word": "黄轩女朋友",
+        "onboard_time": 1726880539,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 749812,
+        "num": 2136906,
+        "word": "老伴去世女子被继女要求搬离",
+        "onboard_time": 1726893980,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24077,
+        "num": 1756806,
+        "word": "青春华章",
+        "onboard_time": 1726819520,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1658131,
+        "num": 1658131,
+        "word": "90后独生女独自面对父母离世",
+        "onboard_time": 1726891101,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924677,
+        "num": 924677,
+        "word": "蔡徐坤抱了赵露思的狗",
+        "onboard_time": 1726885579,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 651927,
+        "num": 651927,
+        "word": "医院被曝一张CT片子套多个病历",
+        "onboard_time": 1726892181,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489597,
+        "num": 489597,
+        "word": "王源发文为王俊凯庆生",
+        "onboard_time": 1726874054,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484073,
+        "num": 484073,
+        "word": "常说这4句话的人痴呆风险高",
+        "onboard_time": 1726893560,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373555,
+        "num": 373555,
+        "word": "武艺爆料张碧晨喜欢在厕所吃饭",
+        "onboard_time": 1726894700,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78436,
+        "num": 369566,
+        "word": "美媒称以筹备通信设备爆炸至少15年",
+        "onboard_time": 1726894939,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 365998,
+        "num": 365998,
+        "word": "法考",
+        "onboard_time": 1726888401,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 37311,
+        "num": 362676,
+        "word": "肖战让暖不止于暖",
+        "onboard_time": 1726891760,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 359598,
+        "num": 359598,
+        "word": "孙千 程苗苗17岁的青春永不落幕",
+        "onboard_time": 1726890680,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351242,
+        "num": 351242,
+        "word": "赵露思登世趋",
+        "onboard_time": 1726892478,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 40750,
+        "num": 332655,
+        "word": "存量房贷利率调降呼声再起",
+        "onboard_time": 1726895059,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 331169,
+        "num": 331169,
+        "word": "法考卷一难不难",
+        "onboard_time": 1726893020,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 284162,
+        "num": 284162,
+        "word": "女子买4万黄金不挑款式店员果断报警",
+        "onboard_time": 1726876637,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98866,
+        "num": 245669,
+        "word": "暗夜与黎明节奏",
+        "onboard_time": 1726894579,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32455,
+        "num": 242017,
+        "word": "smart的大五座权益超级加倍",
+        "onboard_time": 1726895179,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241466,
+        "num": 241466,
+        "word": "学生测试学校自来水洗脸巾秒变黑",
+        "onboard_time": 1726888581,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325606,
+        "num": 239689,
+        "word": "朴秀荣或将离开SM",
+        "onboard_time": 1726892240,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325391,
+        "num": 237920,
+        "word": "湾区升明月阵容",
+        "onboard_time": 1726888700,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 306717,
+        "num": 234834,
+        "word": "文章马伊琍女儿16岁生日照",
+        "onboard_time": 1726877719,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288290,
+        "num": 232218,
+        "word": "iPhone17标准版或配120Hz高刷",
+        "onboard_time": 1726891220,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 220054,
+        "num": 229644,
+        "word": "无期迷途",
+        "onboard_time": 1726894760,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 255048,
+        "num": 227263,
+        "word": "袁巴元维护张雨绮",
+        "onboard_time": 1726887379,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246514,
+        "num": 224023,
+        "word": "吴谨言妆造",
+        "onboard_time": 1726890442,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 223925,
+        "num": 223925,
+        "word": "葛晓倩回应袁巴元",
+        "onboard_time": 1726890378,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223086,
+        "num": 223086,
+        "word": "老叔拿离婚证骗小姑娘恋爱",
+        "onboard_time": 1726894939,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219488,
+        "num": 219488,
+        "word": "柏浪涛 刑法的神",
+        "onboard_time": 1726894999,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 207626,
+        "num": 207626,
+        "word": "闪耀暖暖",
+        "onboard_time": 1726894760,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201050,
+        "num": 201050,
+        "word": "稻城亚丁景区被指禁止游客吃泡面",
+        "onboard_time": 1726881740,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191631,
+        "num": 191631,
+        "word": "中方用令人发指一词谈寻呼机爆炸",
+        "onboard_time": 1726878979,
+        "rank": 32,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 190825,
+        "num": 190825,
+        "word": "村干部称小英家曾是建档贫困户",
+        "onboard_time": 1726887020,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188616,
+        "num": 188616,
+        "word": "陈幸同公布新身份",
+        "onboard_time": 1726895538,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183818,
+        "num": 183818,
+        "word": "半个娱乐圈的人来厦门了",
+        "onboard_time": 1726874355,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180103,
+        "num": 180103,
+        "word": "战至巅峰3战队淘汰重组",
+        "onboard_time": 1726895719,
+        "rank": 36,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 173247,
+        "num": 173247,
+        "word": "杨志刚一开口像讲解员",
+        "onboard_time": 1726895600,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171455,
+        "num": 171455,
+        "word": "这就是中国军人带来的安全感",
+        "onboard_time": 1726887321,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169225,
+        "num": 169225,
+        "word": "小英掉粉揭示了大众对虚假人设的反感",
+        "onboard_time": 1726883242,
+        "rank": 39,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 157185,
+        "num": 157185,
+        "word": "虞书欣叫黄奕沪上小阿姨",
+        "onboard_time": 1726888761,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154598,
+        "num": 154598,
+        "word": "张泽禹将三登央视",
+        "onboard_time": 1726894278,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152944,
+        "num": 152944,
+        "word": "肖战湾区升明月有三首歌",
+        "onboard_time": 1726895960,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139689,
+        "num": 139689,
+        "word": "孙颖莎散装英语又上线了",
+        "onboard_time": 1726894639,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139268,
+        "num": 139268,
+        "word": "杨幂上海机场出发路透",
+        "onboard_time": 1726893739,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138799,
+        "num": 138799,
+        "word": "婚姻自由包括离婚自由",
+        "onboard_time": 1726885938,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135875,
+        "num": 135875,
+        "word": "我国小学生要具备一定的国防意识",
+        "onboard_time": 1726887679,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134095,
+        "num": 134095,
+        "word": "你好星期六",
+        "onboard_time": 1726890981,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129894,
+        "num": 129894,
+        "word": "湖南警方通报刘某杰遇害案",
+        "onboard_time": 1726848801,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127615,
+        "num": 127615,
+        "word": "以军将巴勒斯坦人遗体踢下楼",
+        "onboard_time": 1726884140,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#把人民政协的显著政治优势更加充分发挥出来#"
+    }
+  }
+}
