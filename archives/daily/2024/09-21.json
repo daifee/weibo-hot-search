@@ -1,6 +1,6 @@
 {
   "startTime": 1726849656112,
-  "endTime": 1726887422514,
+  "endTime": 1726888988586,
   "band_list": [
     {
       "raw_hot": 6135283,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1425012,
-      "num": 361543,
+      "num": 542553,
       "word": "蔡徐坤抱了赵露思的狗",
       "onboard_time": 1726885579,
       "rank": 6,
@@ -89,6 +89,14 @@
       "onboard_time": 1726857313,
       "rank": 15,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 774760,
+      "num": 398484,
+      "word": "袁巴元否认张雨绮是小三",
+      "onboard_time": 1726887379,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 761395,
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375430,
+      "num": 375430,
+      "word": "婚姻自由包括离婚自由",
+      "onboard_time": 1726885938,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 374652,
       "num": 374652,
       "word": "两个团唯一没有结婚的张远",
@@ -227,8 +243,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361484,
+      "num": 361484,
+      "word": "法考",
+      "onboard_time": 1726888401,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
       "raw_hot": 353910,
-      "num": 233244,
+      "num": 241967,
       "word": "小英掉粉揭示了大众对虚假人设的反感",
       "onboard_time": 1726883242,
       "rank": 29,
@@ -273,6 +297,14 @@
       "onboard_time": 1726844720,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 319896,
+      "num": 372802,
+      "word": "这就是中国军人带来的安全感",
+      "onboard_time": 1726887321,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296493,
@@ -363,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247454,
+      "num": 241619,
+      "word": "玄奘的脸放到现在也是爱豆级别",
+      "onboard_time": 1726887500,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242866,
       "num": 242866,
       "word": "清澈的爱只为中国",
@@ -379,12 +419,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 236286,
-      "num": 236286,
-      "word": "这就是中国军人带来的安全感",
-      "onboard_time": 1726887321,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 235155,
+      "num": 235155,
+      "word": "计算机二级wps",
+      "onboard_time": 1726887742,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 234233,
+      "num": 234233,
+      "word": "以军将巴勒斯坦人遗体踢下楼",
+      "onboard_time": 1726884140,
+      "rank": 44,
+      "category": "国外时政"
     },
     {
       "raw_hot": 231850,
@@ -411,20 +459,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 215917,
-      "num": 215917,
-      "word": "婚姻自由包括离婚自由",
-      "onboard_time": 1726885938,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215691,
       "num": 215691,
       "word": "Hanni露背装",
       "onboard_time": 1726846040,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 212851,
+      "num": 212851,
+      "word": "王一博pizza大片",
+      "onboard_time": 1726888160,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 208844,
@@ -483,12 +531,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 195891,
+      "num": 195891,
+      "word": "湾区升明月阵容",
+      "onboard_time": 1726888700,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194230,
       "num": 194230,
       "word": "全红婵归队",
       "onboard_time": 1726843342,
       "rank": 21,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 191337,
+      "num": 191337,
+      "word": "我国小学生要具备一定的国防意识",
+      "onboard_time": 1726887679,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 191208,
@@ -515,12 +579,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 173868,
-      "num": 173868,
-      "word": "以军将巴勒斯坦人遗体踢下楼",
-      "onboard_time": 1726884140,
-      "rank": 44,
-      "category": "国外时政"
+      "raw_hot": 177957,
+      "num": 177957,
+      "word": "虞书欣叫黄奕沪上小阿姨",
+      "onboard_time": 1726888761,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 172642,
@@ -571,12 +635,28 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 168124,
+      "num": 168124,
+      "word": "NBA再迎中国球员",
+      "onboard_time": 1726886599,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166056,
       "num": 166056,
       "word": "狗在生气和窝囊之间选择了生窝囊气",
       "onboard_time": 1726876397,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 164702,
+      "num": 305653,
+      "word": "村干部称小英家曾是建档贫困户",
+      "onboard_time": 1726887020,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163224,
@@ -593,14 +673,6 @@
       "onboard_time": 1726846040,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161741,
-      "num": 161741,
-      "word": "NBA再迎中国球员",
-      "onboard_time": 1726886599,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 160874,
@@ -625,6 +697,22 @@
       "onboard_time": 1726848682,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 154877,
+      "num": 279138,
+      "word": "小英1年直播200多场带货总额超千万",
+      "onboard_time": 1726886539,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154739,
+      "num": 154739,
+      "word": "台风",
+      "onboard_time": 1726888101,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150234,
@@ -763,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130931,
+      "num": 130931,
+      "word": "赵丽颖白裙花絮",
+      "onboard_time": 1726886660,
+      "rank": 48,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 130904,
       "num": 130904,
       "word": "喻言被伯远淘汰",
@@ -811,12 +907,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 117326,
-      "num": 117326,
-      "word": "赵丽颖白裙花絮",
-      "onboard_time": 1726886660,
-      "rank": 48,
-      "category": "作品衍生,艺人"
+      "raw_hot": 114859,
+      "num": 114859,
+      "word": "吃米饭和吃面条哪个更容易长胖",
+      "onboard_time": 1726888940,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 113156,
@@ -840,14 +936,6 @@
       "word": "50岁退休女儿全职照顾81岁痴呆母亲",
       "onboard_time": 1726844181,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110647,
-      "num": 279138,
-      "word": "小英1年直播200多场带货总额超千万",
-      "onboard_time": 1726886539,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -931,12 +1019,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 65552,
-      "num": 235751,
-      "word": "袁巴元否认张雨绮是小三",
-      "onboard_time": 1726887379,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 63140,
+      "num": 319063,
+      "word": "学生测试学校自来水洗脸巾秒变黑",
+      "onboard_time": 1726888581,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60494,
@@ -964,18 +1052,10 @@
     },
     {
       "raw_hot": 52868,
-      "num": 279268,
+      "num": 316666,
       "word": "你的车里会放破窗锤吗",
       "onboard_time": 1726885460,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52624,
-      "num": 305653,
-      "word": "村干部称小英家曾是建档贫困户",
-      "onboard_time": 1726887020,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1115,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 7783,
+      "num": 557010,
+      "word": "青春华章",
+      "onboard_time": 1726819520,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 7671,
       "num": 78573,
       "word": "齐肩积水中民警摸索着救出老人",
@@ -1129,6 +1217,9 @@
     },
     {
       "word": "#习近平同马来西亚最高元首会谈#"
+    },
+    {
+      "word": "#把人民政协的显著政治优势更加充分发挥出来#"
     }
   ]
 }
