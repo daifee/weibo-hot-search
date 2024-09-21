@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1726953553320,
+  "endTime": 1726954593467,
   "band_list": [
     {
       "raw_hot": 4059841,
@@ -523,6 +523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 32440,
+      "num": 37999,
+      "word": "台州人这回真海鲜自由了",
+      "onboard_time": 1726950192,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27887,
       "num": 23347,
       "word": "飞天奖优秀电视剧",
@@ -539,20 +547,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23374,
+      "num": 23374,
+      "word": "00后种地搞了个田间情报站",
+      "onboard_time": 1726948812,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22652,
       "num": 28176,
       "word": "朱志鑫比耶",
       "onboard_time": 1726933102,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 21877,
-      "num": 21877,
-      "word": "00后种地搞了个田间情报站",
-      "onboard_time": 1726948812,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20674,
@@ -571,16 +579,8 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 14752,
-      "num": 37999,
-      "word": "台州人这回真海鲜自由了",
-      "onboard_time": 1726950192,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 14124,
-      "num": 39873,
+      "num": 46653,
       "word": "机组挥舞国旗为胖妞竖起小耳朵",
       "onboard_time": 1726949531,
       "rank": 9,
