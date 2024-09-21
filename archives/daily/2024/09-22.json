@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1726946248079,
+  "endTime": 1726947318937,
   "band_list": [
     {
       "raw_hot": 4059841,
@@ -235,6 +235,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 182535,
+      "num": 81454,
+      "word": "赵丽颖双料视后",
+      "onboard_time": 1726946532,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175566,
       "num": 274304,
       "word": "秋分也是丰收节",
@@ -395,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82769,
+      "num": 82769,
+      "word": "加沙死者名单前14页都是婴儿",
+      "onboard_time": 1726942154,
+      "rank": 47,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 80316,
       "num": 202934,
       "word": "为什么秋天的蚊子咬人更狠",
@@ -409,14 +425,6 @@
       "onboard_time": 1726933223,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 76365,
-      "num": 76365,
-      "word": "加沙死者名单前14页都是婴儿",
-      "onboard_time": 1726942154,
-      "rank": 47,
-      "category": "国外时政"
     },
     {
       "raw_hot": 74784,
@@ -513,6 +521,14 @@
       "onboard_time": 1726933102,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20861,
+      "num": 56021,
+      "word": "被砍后反杀凶手男子家属发声",
+      "onboard_time": 1726945692,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20674,
