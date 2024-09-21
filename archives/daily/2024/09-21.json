@@ -1,6 +1,6 @@
 {
   "startTime": 1726849656112,
-  "endTime": 1726922281381,
+  "endTime": 1726923220602,
   "band_list": [
     {
       "raw_hot": 6135283,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2259087,
-      "num": 2259087,
+      "raw_hot": 2299665,
+      "num": 2299665,
       "word": "赵丽颖短发",
       "onboard_time": 1726919841,
       "rank": 0,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1108818,
+      "num": 1108818,
+      "word": "易烊千玺在评论区为王俊凯庆生",
+      "onboard_time": 1726916301,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1107969,
       "num": 1107969,
       "word": "梅姨",
@@ -209,14 +217,6 @@
       "onboard_time": 1726909759,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 977364,
-      "num": 509201,
-      "word": "易烊千玺在评论区为王俊凯庆生",
-      "onboard_time": 1726916301,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 963509,
@@ -363,6 +363,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 708583,
+      "num": 465473,
+      "word": "飞天奖主持人好尬",
+      "onboard_time": 1726921699,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 703796,
       "num": 693690,
       "word": "王俊凯25岁第一天从清理库存开始",
@@ -403,12 +411,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 611659,
+      "num": 349202,
+      "word": "赵丽颖辛芷蕾坐一起",
+      "onboard_time": 1726923201,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 600503,
       "num": 600503,
       "word": "常说这4句话的人痴呆风险高",
       "onboard_time": 1726893560,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 588517,
+      "num": 325619,
+      "word": "闵塔鲨回应飞天奖礼服",
+      "onboard_time": 1726918941,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 581562,
@@ -547,12 +571,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 470142,
-      "num": 325619,
-      "word": "闵塔鲨回应飞天奖礼服",
-      "onboard_time": 1726918941,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 468689,
+      "num": 334072,
+      "word": "朴春瘦了好多",
+      "onboard_time": 1726922301,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 467804,
@@ -851,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 316227,
+      "num": 296296,
+      "word": "陈乔恩坐Alan腿上拍照",
+      "onboard_time": 1726922541,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306508,
       "num": 281575,
       "word": "iPhone17标准版或配120Hz高刷",
@@ -900,7 +932,7 @@
     },
     {
       "raw_hot": 286630,
-      "num": 337695,
+      "num": 391405,
       "word": "女子腿绑4瓶茅台入境被查",
       "onboard_time": 1726915220,
       "rank": 34,
@@ -963,6 +995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 270951,
+      "num": 480607,
+      "word": "飞天奖",
+      "onboard_time": 1726880601,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269980,
       "num": 269980,
       "word": "结婚后多少人敢空着手回娘家",
@@ -995,14 +1035,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 263460,
-      "num": 480607,
-      "word": "飞天奖",
-      "onboard_time": 1726880601,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 262446,
       "num": 225743,
       "word": "王嘉尔被拒绝当女婿的原因",
@@ -1025,14 +1057,6 @@
       "onboard_time": 1726902620,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 251592,
-      "num": 251592,
-      "word": "飞天奖主持人好尬",
-      "onboard_time": 1726921699,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 251205,
@@ -1203,6 +1227,14 @@
       "category": "教育,互联网"
     },
     {
+      "raw_hot": 215735,
+      "num": 288384,
+      "word": "24岁物理学硕士拟获录用中学勤杂工",
+      "onboard_time": 1726920623,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215691,
       "num": 215691,
       "word": "Hanni露背装",
@@ -1217,14 +1249,6 @@
       "onboard_time": 1726890500,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 214483,
-      "num": 214483,
-      "word": "24岁物理学硕士拟获录用中学勤杂工",
-      "onboard_time": 1726920623,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 212851,
@@ -1291,12 +1315,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204807,
+      "num": 204807,
+      "word": "繁花飞天奖提名三位女主",
+      "onboard_time": 1726921821,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204580,
       "num": 204580,
       "word": "半熟男女",
       "onboard_time": 1726886360,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204351,
+      "num": 167632,
+      "word": "陈乔恩Alan婚纱图",
+      "onboard_time": 1726922960,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 204086,
@@ -1312,6 +1352,14 @@
       "word": "lingorm",
       "onboard_time": 1726914259,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 200636,
+      "num": 165932,
+      "word": "张凌赫肖邦晚宴路透",
+      "onboard_time": 1726922660,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -1473,6 +1521,22 @@
       "onboard_time": 1726920442,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 178066,
+      "num": 163151,
+      "word": "周深大鱼终于飞来了鸟巢",
+      "onboard_time": 1726923142,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 176829,
+      "num": 161342,
+      "word": "繁花剧组红毯",
+      "onboard_time": 1726922241,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 175197,
@@ -1648,6 +1712,14 @@
       "word": "黄景瑜关晓彤吻戏路透",
       "onboard_time": 1726881861,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 160352,
+      "num": 160352,
+      "word": "江浙沪独生女反诈指南",
+      "onboard_time": 1726923081,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -1955,14 +2027,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 136357,
-      "num": 136357,
-      "word": "繁花剧组红毯",
-      "onboard_time": 1726922241,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 135958,
       "num": 135958,
       "word": "孙颖莎见老朋友说veryhappy",
@@ -2171,6 +2235,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 119709,
+      "num": 119709,
+      "word": "伊万确认留任国足主帅",
+      "onboard_time": 1726922601,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 118957,
+      "num": 118957,
+      "word": "WTT中国大满贯参赛全阵容",
+      "onboard_time": 1726923021,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117447,
       "num": 117447,
       "word": "战至巅峰",
@@ -2323,6 +2403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101892,
+      "num": 118481,
+      "word": "三岁萌娃一声舅舅轰动候车厅",
+      "onboard_time": 1726922842,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98866,
       "num": 245669,
       "word": "暗夜与黎明节奏",
@@ -2361,6 +2449,14 @@
       "onboard_time": 1726875197,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 75667,
+      "num": 312978,
+      "word": "周震南红发直播",
+      "onboard_time": 1726922420,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 75644,
@@ -2491,6 +2587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 49477,
+      "num": 378591,
+      "word": "卫昭江慈手影传情",
+      "onboard_time": 1726921879,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 49146,
       "num": 326709,
       "word": "蓝天救援队特训王腾",
@@ -2555,11 +2659,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 39658,
-      "num": 326081,
-      "word": "卫昭江慈手影传情",
-      "onboard_time": 1726921879,
-      "rank": 17,
+      "raw_hot": 39066,
+      "num": 303030,
+      "word": "靳东发言 胡歌招手",
+      "onboard_time": 1726922780,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -2595,6 +2699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37725,
+      "num": 193572,
+      "word": "家居服的面料居然有这么多种",
+      "onboard_time": 1726920560,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37720,
       "num": 305934,
       "word": "俩小孩卷罐车车底家属质疑工地失职",
@@ -2619,6 +2731,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 36135,
+      "num": 327675,
+      "word": "如鸢全员狠角色",
+      "onboard_time": 1726919240,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 35302,
       "num": 184334,
       "word": "2024特别版小白杨MV",
@@ -2635,14 +2755,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 33800,
-      "num": 193572,
-      "word": "家居服的面料居然有这么多种",
-      "onboard_time": 1726920560,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 33764,
       "num": 1756806,
       "word": "青春华章",
@@ -2657,14 +2769,6 @@
       "onboard_time": 1726891459,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 32811,
-      "num": 327675,
-      "word": "如鸢全员狠角色",
-      "onboard_time": 1726919240,
-      "rank": 15,
-      "category": "游戏"
     },
     {
       "raw_hot": 32751,
@@ -2819,6 +2923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22840,
+      "num": 278640,
+      "word": "李宁把秀场搬到了丙丁柴窑",
+      "onboard_time": 1726919060,
+      "rank": 26,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 22427,
       "num": 166270,
       "word": "以军向黎首都发射导弹致8死",
@@ -2833,14 +2945,6 @@
       "onboard_time": 1726891340,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 21878,
-      "num": 270175,
-      "word": "李宁把秀场搬到了丙丁柴窑",
-      "onboard_time": 1726919060,
-      "rank": 26,
-      "category": "时尚"
     },
     {
       "raw_hot": 21700,
@@ -2875,20 +2979,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17121,
+      "num": 180729,
+      "word": "猫人热八度4.0暖衣",
+      "onboard_time": 1726921879,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 13994,
       "num": 443152,
       "word": "泥人张第6代传人谈传统行业",
       "onboard_time": 1726889120,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12141,
-      "num": 180729,
-      "word": "猫人热八度4.0暖衣",
-      "onboard_time": 1726921879,
-      "rank": 38,
-      "category": "时尚"
     },
     {
       "raw_hot": 11666,

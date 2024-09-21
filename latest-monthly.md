@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/09/01 00:25:38 ~ 2024/09/21 20:38:01
+本榜单时间：2024/09/01 00:25:38 ~ 2024/09/21 20:53:40
 </p>
 </blockquote>
 <p>
@@ -663,6 +663,12 @@ WTT 卖不出票（热度：2354423）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9F%AD%E5%8F%91%23" target="weibo">
+赵丽颖短发（热度：2299665）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E5%85%94%20%E6%93%A6%E8%BE%B9%23" target="weibo">
 黑兔 擦边（热度：2296649）
 </a>
@@ -689,12 +695,6 @@ HPV疫苗卖不动了（热度：2268144）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%20%E5%A5%B3%E5%8F%8B%23" target="weibo">
 汪苏泷 女友（热度：2261184）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9F%AD%E5%8F%91%23" target="weibo">
-赵丽颖短发（热度：2259087）
 </a>
 </li>
 
@@ -3333,6 +3333,12 @@ NewJeans被HYBE其他艺人团队排挤（热度：1130540）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%9C%A8%E8%AF%84%E8%AE%BA%E5%8C%BA%E4%B8%BA%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%BA%86%E7%94%9F%23" target="weibo">
+易烊千玺在评论区为王俊凯庆生（热度：1108818）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%96%9C%E8%8C%B6%20%E6%A8%8A%E6%8C%AF%E4%B8%9C%23" target="weibo">
 喜茶 樊振东（热度：1108069）
 </a>
@@ -3995,12 +4001,6 @@ iPhone16定价（热度：1011795）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BE%E9%B8%9F%E6%9C%9D%E5%87%A4%E4%B8%8B%E8%B7%AA%E5%AF%BC%E6%BC%94%20%E9%87%8C%E6%96%AF%E6%9C%AC%E4%B8%B8%E6%B2%89%E6%B2%A1%23" target="weibo">
 百鸟朝凤下跪导演 里斯本丸沉没（热度：977598）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%9C%A8%E8%AF%84%E8%AE%BA%E5%8C%BA%E4%B8%BA%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%BA%86%E7%94%9F%23" target="weibo">
-易烊千玺在评论区为王俊凯庆生（热度：977364）
 </a>
 </li>
 

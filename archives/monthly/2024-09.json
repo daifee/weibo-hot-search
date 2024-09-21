@@ -1,6 +1,6 @@
 {
   "startTime": 1725121538833,
-  "endTime": 1726922281381,
+  "endTime": 1726923220602,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -867,6 +867,14 @@
       "category": "国外时政,艺人"
     },
     {
+      "raw_hot": 2299665,
+      "num": 2299665,
+      "word": "赵丽颖短发",
+      "onboard_time": 1726919841,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2296649,
       "num": 1697173,
       "word": "黑兔 擦边",
@@ -905,14 +913,6 @@
       "onboard_time": 1725540502,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2259087,
-      "num": 2259087,
-      "word": "赵丽颖短发",
-      "onboard_time": 1726919841,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 2257721,
@@ -4427,6 +4427,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1108818,
+      "num": 1108818,
+      "word": "易烊千玺在评论区为王俊凯庆生",
+      "onboard_time": 1726916301,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1108069,
       "num": 352940,
       "word": "喜茶 樊振东",
@@ -5313,14 +5321,6 @@
       "onboard_time": 1726131320,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 977364,
-      "num": 509201,
-      "word": "易烊千玺在评论区为王俊凯庆生",
-      "onboard_time": 1726916301,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 976675,
@@ -8291,6 +8291,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 708583,
+      "num": 465473,
+      "word": "飞天奖主持人好尬",
+      "onboard_time": 1726921699,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 708530,
       "num": 670638,
       "word": "嗯哼牙齿矫正",
@@ -10051,6 +10059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 611659,
+      "num": 349202,
+      "word": "赵丽颖辛芷蕾坐一起",
+      "onboard_time": 1726923201,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 610764,
       "num": 610764,
       "word": "江浙沪又来新台风",
@@ -10512,6 +10528,14 @@
       "word": "月薪一万那叫卷十万就叫拼搏",
       "onboard_time": 1725198920,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 588517,
+      "num": 325619,
+      "word": "闵塔鲨回应飞天奖礼服",
+      "onboard_time": 1726918941,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -13347,14 +13371,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 470142,
-      "num": 325619,
-      "word": "闵塔鲨回应飞天奖礼服",
-      "onboard_time": 1726918941,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 469915,
       "num": 469915,
       "word": "樊振东盛李豪 石狮子和气球人",
@@ -13385,6 +13401,14 @@
       "onboard_time": 1726728380,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 468689,
+      "num": 334072,
+      "word": "朴春瘦了好多",
+      "onboard_time": 1726922301,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 467939,
@@ -18467,6 +18491,14 @@
       "category": "社会新闻,国外时政"
     },
     {
+      "raw_hot": 316227,
+      "num": 296296,
+      "word": "陈乔恩坐Alan腿上拍照",
+      "onboard_time": 1726922541,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 316180,
       "num": 316180,
       "word": "在青岛追星真的不亚于首尔",
@@ -20156,7 +20188,7 @@
     },
     {
       "raw_hot": 286630,
-      "num": 337695,
+      "num": 391405,
       "word": "女子腿绑4瓶茅台入境被查",
       "onboard_time": 1726915220,
       "rank": 34,
@@ -21203,6 +21235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 270951,
+      "num": 480607,
+      "word": "飞天奖",
+      "onboard_time": 1726880601,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 270793,
       "num": 270793,
       "word": "市监局回应厦航疑刊登代孕广告",
@@ -21769,14 +21809,6 @@
       "onboard_time": 1725258920,
       "rank": 40,
       "category": "美食"
-    },
-    {
-      "raw_hot": 263460,
-      "num": 480607,
-      "word": "飞天奖",
-      "onboard_time": 1726880601,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 263381,
@@ -22713,14 +22745,6 @@
       "onboard_time": 1725853158,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 251592,
-      "num": 251592,
-      "word": "飞天奖主持人好尬",
-      "onboard_time": 1726921699,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 251576,
@@ -26579,6 +26603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215735,
+      "num": 288384,
+      "word": "24岁物理学硕士拟获录用中学勤杂工",
+      "onboard_time": 1726920623,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215593,
       "num": 215593,
       "word": "台湾制造商回应黎巴嫩BP机爆炸",
@@ -26721,14 +26753,6 @@
       "onboard_time": 1725347661,
       "rank": 40,
       "category": "游戏,时尚"
-    },
-    {
-      "raw_hot": 214483,
-      "num": 214483,
-      "word": "24岁物理学硕士拟获录用中学勤杂工",
-      "onboard_time": 1726920623,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 214480,
@@ -28435,6 +28459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204807,
+      "num": 204807,
+      "word": "繁花飞天奖提名三位女主",
+      "onboard_time": 1726921821,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204752,
       "num": 204752,
       "word": "宋亚轩旅行小青蛙",
@@ -28545,6 +28577,14 @@
       "onboard_time": 1726281620,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204351,
+      "num": 167632,
+      "word": "陈乔恩Alan婚纱图",
+      "onboard_time": 1726922960,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 204263,
@@ -29345,6 +29385,14 @@
       "onboard_time": 1726312701,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 200636,
+      "num": 165932,
+      "word": "张凌赫肖邦晚宴路透",
+      "onboard_time": 1726922660,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 200635,
@@ -34843,6 +34891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178066,
+      "num": 163151,
+      "word": "周深大鱼终于飞来了鸟巢",
+      "onboard_time": 1726923142,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 178030,
       "num": 178030,
       "word": "孙千 成长型95花",
@@ -35065,6 +35121,14 @@
       "onboard_time": 1726222641,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176829,
+      "num": 161342,
+      "word": "繁花剧组红毯",
+      "onboard_time": 1726922241,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 176820,
@@ -38945,6 +39009,14 @@
       "onboard_time": 1726649478,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160352,
+      "num": 160352,
+      "word": "江浙沪独生女反诈指南",
+      "onboard_time": 1726923081,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 160291,
@@ -44819,14 +44891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136357,
-      "num": 136357,
-      "word": "繁花剧组红毯",
-      "onboard_time": 1726922241,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 136350,
       "num": 363051,
       "word": "2024年预防出生缺陷日",
@@ -48211,6 +48275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 119709,
+      "num": 119709,
+      "word": "伊万确认留任国足主帅",
+      "onboard_time": 1726922601,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119619,
       "num": 119619,
       "word": "风吹稻田我又想念您了",
@@ -48297,6 +48369,14 @@
       "onboard_time": 1726060943,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 118957,
+      "num": 118957,
+      "word": "WTT中国大满贯参赛全阵容",
+      "onboard_time": 1726923021,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 118956,
@@ -50608,6 +50688,14 @@
       "word": "瑞典环保少女格蕾塔在丹麦被捕",
       "onboard_time": 1725492436,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101892,
+      "num": 118481,
+      "word": "三岁萌娃一声舅舅轰动候车厅",
+      "onboard_time": 1726922842,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -53017,6 +53105,14 @@
       "onboard_time": 1725372441,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75667,
+      "num": 312978,
+      "word": "周震南红发直播",
+      "onboard_time": 1726922420,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 75654,
@@ -56075,6 +56171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 49477,
+      "num": 378591,
+      "word": "卫昭江慈手影传情",
+      "onboard_time": 1726921879,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 49472,
       "num": 678818,
       "word": "盲盒岗位是创新还是噱头",
@@ -57827,14 +57931,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 39658,
-      "num": 326081,
-      "word": "卫昭江慈手影传情",
-      "onboard_time": 1726921879,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 39557,
       "num": 219179,
       "word": "张凌赫和张婧仪说了什么",
@@ -58001,6 +58097,14 @@
       "onboard_time": 1725319276,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39066,
+      "num": 303030,
+      "word": "靳东发言 胡歌招手",
+      "onboard_time": 1726922780,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 39048,
@@ -58281,6 +58385,14 @@
       "onboard_time": 1726755982,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 37725,
+      "num": 193572,
+      "word": "家居服的面料居然有这么多种",
+      "onboard_time": 1726920560,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37720,
@@ -58697,6 +58809,14 @@
       "onboard_time": 1725548062,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36135,
+      "num": 327675,
+      "word": "如鸢全员狠角色",
+      "onboard_time": 1726919240,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 36082,
@@ -59211,14 +59331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 33800,
-      "num": 193572,
-      "word": "家居服的面料居然有这么多种",
-      "onboard_time": 1726920560,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 33780,
       "num": 35238,
       "word": "盲盒旅行局",
@@ -59433,14 +59545,6 @@
       "onboard_time": 1726830379,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32811,
-      "num": 327675,
-      "word": "如鸢全员狠角色",
-      "onboard_time": 1726919240,
-      "rank": 15,
-      "category": "游戏"
     },
     {
       "raw_hot": 32782,
@@ -61667,6 +61771,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 22840,
+      "num": 278640,
+      "word": "李宁把秀场搬到了丙丁柴窑",
+      "onboard_time": 1726919060,
+      "rank": 26,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 22833,
       "num": 407806,
       "word": "酸甜之夜要来了",
@@ -61809,14 +61921,6 @@
       "onboard_time": 1725311891,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21878,
-      "num": 270175,
-      "word": "李宁把秀场搬到了丙丁柴窑",
-      "onboard_time": 1726919060,
-      "rank": 26,
-      "category": "时尚"
     },
     {
       "raw_hot": 21865,
@@ -62539,6 +62643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17121,
+      "num": 180729,
+      "word": "猫人热八度4.0暖衣",
+      "onboard_time": 1726921879,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 17095,
       "num": 524092,
       "word": "当地回应央视曝光硫超标枸杞事件",
@@ -62969,14 +63081,6 @@
       "onboard_time": 1726641559,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 12141,
-      "num": 180729,
-      "word": "猫人热八度4.0暖衣",
-      "onboard_time": 1726921879,
-      "rank": 38,
-      "category": "时尚"
     },
     {
       "raw_hot": 11996,
