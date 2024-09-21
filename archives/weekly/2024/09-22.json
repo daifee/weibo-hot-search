@@ -1,6 +1,6 @@
 {
   "startTime": 1726936020707,
-  "endTime": 1726939209177,
+  "endTime": 1726940276193,
   "band_list": [
     {
       "raw_hot": 4059841,
@@ -291,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137181,
+      "num": 178350,
+      "word": "盲人女孩在鸣笛声中手足无措",
+      "onboard_time": 1726938317,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133819,
       "num": 282418,
       "word": "恋与深空",
@@ -419,12 +427,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 63818,
-      "num": 178350,
-      "word": "盲人女孩在鸣笛声中手足无措",
+      "raw_hot": 66226,
+      "num": 91200,
+      "word": "赵露思掌管学院风穿搭的神",
       "onboard_time": 1726938317,
-      "rank": 14,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 64978,
+      "num": 91491,
+      "word": "女子接完电话崩溃大哭陌生人递纸巾",
+      "onboard_time": 1726938856,
+      "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62042,
+      "num": 90882,
+      "word": "风吹半夏",
+      "onboard_time": 1726929267,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 54428,
