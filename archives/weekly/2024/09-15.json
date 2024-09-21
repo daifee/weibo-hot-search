@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726883632005,
+  "endTime": 1726886789658,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -945,6 +945,14 @@
       "onboard_time": 1726384637,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1407191,
+      "num": 361543,
+      "word": "蔡徐坤抱了赵露思的狗",
+      "onboard_time": 1726885579,
+      "rank": 6,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1405309,
@@ -3195,6 +3203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 602881,
+      "num": 602881,
+      "word": "稻城亚丁景区被指禁止游客吃泡面",
+      "onboard_time": 1726881740,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 602565,
       "num": 602565,
       "word": "王菲送李嫣英国留学",
@@ -3513,6 +3529,14 @@
       "onboard_time": 1726714040,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 544289,
+      "num": 544289,
+      "word": "防空警报",
+      "onboard_time": 1726885100,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 543557,
@@ -5427,6 +5451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 340768,
+      "num": 227104,
+      "word": "小英掉粉揭示了大众对虚假人设的反感",
+      "onboard_time": 1726883242,
+      "rank": 29,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 340506,
       "num": 326783,
       "word": "在世最长寿猫去世",
@@ -6539,14 +6571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 282511,
-      "num": 282511,
-      "word": "稻城亚丁景区被指禁止游客吃泡面",
-      "onboard_time": 1726881740,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 282422,
       "num": 282422,
       "word": "张艺凡边走边卸妆",
@@ -6793,6 +6817,14 @@
       "onboard_time": 1726479679,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268647,
+      "num": 268647,
+      "word": "戚薇米兰生图",
+      "onboard_time": 1726885460,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 268400,
@@ -7636,7 +7668,7 @@
     },
     {
       "raw_hot": 241693,
-      "num": 241693,
+      "num": 300387,
       "word": "我国第24个全民国防教育日",
       "onboard_time": 1726881861,
       "rank": 19,
@@ -8337,6 +8369,14 @@
       "onboard_time": 1726808122,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 219485,
+      "num": 219485,
+      "word": "GALA疑似借钱给Scout",
+      "onboard_time": 1726884080,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 219471,
@@ -9835,6 +9875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193405,
+      "num": 193405,
+      "word": "曾黎从小美到大",
+      "onboard_time": 1726884140,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193282,
       "num": 193282,
       "word": "黄冠亨回应聚会",
@@ -9993,6 +10041,14 @@
       "onboard_time": 1726456640,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190752,
+      "num": 155760,
+      "word": "你终于发现上大学的真正主线了",
+      "onboard_time": 1726886060,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 190661,
@@ -10553,14 +10609,6 @@
       "onboard_time": 1726837880,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 180874,
-      "num": 180874,
-      "word": "小英掉粉揭示了大众对虚假人设的反感",
-      "onboard_time": 1726883242,
-      "rank": 29,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 180642,
@@ -11387,6 +11435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168152,
+      "num": 168152,
+      "word": "10个月宝宝打翻100度开水全身烫伤",
+      "onboard_time": 1726875737,
+      "rank": 36,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 167901,
       "num": 167901,
       "word": "20元能买这么多水果",
@@ -11729,14 +11785,6 @@
       "onboard_time": 1726453218,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162719,
-      "num": 162719,
-      "word": "10个月宝宝打翻100度开水全身烫伤",
-      "onboard_time": 1726875737,
-      "rank": 36,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 162641,
@@ -12715,6 +12763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149664,
+      "num": 149664,
+      "word": "婚姻自由包括离婚自由",
+      "onboard_time": 1726885938,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149604,
       "num": 149604,
       "word": "井柏然晒粉发",
@@ -12875,6 +12931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146773,
+      "num": 422772,
+      "word": "黎巴嫩爆炸事件许多伤者失去眼睛",
+      "onboard_time": 1726882822,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 146409,
       "num": 146409,
       "word": "终于有剧把势利前台小妹拍成小弟了",
@@ -12897,6 +12961,14 @@
       "onboard_time": 1726798098,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145703,
+      "num": 145703,
+      "word": "当你的工作配不上你的审美",
+      "onboard_time": 1726880838,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 145693,
@@ -13041,6 +13113,14 @@
       "onboard_time": 1726710859,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 143870,
+      "num": 143870,
+      "word": "计算机二级",
+      "onboard_time": 1726880780,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 143800,
@@ -13305,14 +13385,6 @@
       "onboard_time": 1726641797,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 140475,
-      "num": 140475,
-      "word": "计算机二级",
-      "onboard_time": 1726880780,
-      "rank": 45,
-      "category": "教育"
     },
     {
       "raw_hot": 140429,
@@ -13955,14 +14027,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 132104,
-      "num": 132104,
-      "word": "当你的工作配不上你的审美",
-      "onboard_time": 1726880838,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 132101,
       "num": 132101,
       "word": "云南一高校后勤招宿管6名硕士应聘",
@@ -14307,6 +14371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126084,
+      "num": 126084,
+      "word": "NBA再迎中国球员",
+      "onboard_time": 1726886599,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125532,
       "num": 477469,
       "word": "网红小英曾开有百货商店",
@@ -14417,6 +14489,14 @@
       "onboard_time": 1726465039,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121951,
+      "num": 121951,
+      "word": "以军将巴勒斯坦人遗体踢下楼",
+      "onboard_time": 1726884140,
+      "rank": 44,
+      "category": "国外时政"
     },
     {
       "raw_hot": 121871,
@@ -14569,6 +14649,14 @@
       "onboard_time": 1726473259,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119360,
+      "num": 119360,
+      "word": "孙颖莎见老朋友说veryhappy",
+      "onboard_time": 1726884321,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 118421,
@@ -14787,6 +14875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 114179,
+      "num": 114179,
+      "word": "赵丽颖白裙花絮",
+      "onboard_time": 1726886660,
+      "rank": 48,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 113996,
       "num": 871703,
       "word": "C牛马O",
@@ -14849,6 +14945,14 @@
       "onboard_time": 1726587680,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113156,
+      "num": 113156,
+      "word": "小黑课堂直播",
+      "onboard_time": 1726884740,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 113085,
@@ -15391,14 +15495,6 @@
       "num": 98039,
       "word": "黎巴嫩BP机爆炸时收到以方信息",
       "onboard_time": 1726769593,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 97335,
-      "num": 422772,
-      "word": "黎巴嫩爆炸事件许多伤者失去眼睛",
-      "onboard_time": 1726882822,
       "rank": 9,
       "category": "国外时政"
     },
@@ -16667,6 +16763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52868,
+      "num": 269494,
+      "word": "你的车里会放破窗锤吗",
+      "onboard_time": 1726885460,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52732,
       "num": 400775,
       "word": "余承东谈华为三折叠五大心动理由",
@@ -17393,6 +17497,14 @@
       "onboard_time": 1726650858,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39583,
+      "num": 272452,
+      "word": "小英1年直播200多场带货总额超千万",
+      "onboard_time": 1726886539,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39347,

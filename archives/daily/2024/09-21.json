@@ -1,6 +1,6 @@
 {
   "startTime": 1726849656112,
-  "endTime": 1726883632005,
+  "endTime": 1726886789658,
   "band_list": [
     {
       "raw_hot": 6135283,
@@ -33,6 +33,14 @@
       "onboard_time": 1726845861,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1407191,
+      "num": 361543,
+      "word": "蔡徐坤抱了赵露思的狗",
+      "onboard_time": 1726885579,
+      "rank": 6,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1269911,
@@ -105,6 +113,22 @@
       "onboard_time": 1726826359,
       "rank": 6,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 602881,
+      "num": 602881,
+      "word": "稻城亚丁景区被指禁止游客吃泡面",
+      "onboard_time": 1726881740,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 544289,
+      "num": 544289,
+      "word": "防空警报",
+      "onboard_time": 1726885100,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 542480,
@@ -203,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 340768,
+      "num": 227104,
+      "word": "小英掉粉揭示了大众对虚假人设的反感",
+      "onboard_time": 1726883242,
+      "rank": 29,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 340601,
       "num": 340601,
       "word": "安陵容当时吃了最少30粒苦杏仁",
@@ -267,14 +299,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 282511,
-      "num": 282511,
-      "word": "稻城亚丁景区被指禁止游客吃泡面",
-      "onboard_time": 1726881740,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 279709,
       "num": 240113,
       "word": "过度疲劳的人身体会散发臭味",
@@ -297,6 +321,14 @@
       "onboard_time": 1726823361,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 268647,
+      "num": 268647,
+      "word": "戚薇米兰生图",
+      "onboard_time": 1726885460,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 265583,
@@ -340,7 +372,7 @@
     },
     {
       "raw_hot": 241693,
-      "num": 241693,
+      "num": 300387,
       "word": "我国第24个全民国防教育日",
       "onboard_time": 1726881861,
       "rank": 19,
@@ -353,6 +385,14 @@
       "onboard_time": 1726843581,
       "rank": 29,
       "category": "社会新闻,国外时政"
+    },
+    {
+      "raw_hot": 219485,
+      "num": 219485,
+      "word": "GALA疑似借钱给Scout",
+      "onboard_time": 1726884080,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 215691,
@@ -411,6 +451,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 193405,
+      "num": 193405,
+      "word": "曾黎从小美到大",
+      "onboard_time": 1726884140,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191208,
       "num": 191208,
       "word": "黄牛加价2万收不到华为三折叠",
@@ -419,20 +467,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 190752,
+      "num": 155760,
+      "word": "你终于发现上大学的真正主线了",
+      "onboard_time": 1726886060,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 188346,
       "num": 188346,
       "word": "中日共识与日本男童遇袭无关",
       "onboard_time": 1726832539,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180874,
-      "num": 180874,
-      "word": "小英掉粉揭示了大众对虚假人设的反感",
-      "onboard_time": 1726883242,
-      "rank": 29,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 172642,
@@ -475,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168152,
+      "num": 168152,
+      "word": "10个月宝宝打翻100度开水全身烫伤",
+      "onboard_time": 1726875737,
+      "rank": 36,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 166056,
       "num": 166056,
       "word": "狗在生气和窝囊之间选择了生窝囊气",
@@ -497,14 +553,6 @@
       "onboard_time": 1726846040,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162719,
-      "num": 162719,
-      "word": "10个月宝宝打翻100度开水全身烫伤",
-      "onboard_time": 1726875737,
-      "rank": 36,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 160874,
@@ -547,6 +595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 149664,
+      "num": 149664,
+      "word": "婚姻自由包括离婚自由",
+      "onboard_time": 1726885938,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148378,
       "num": 148378,
       "word": "伯远回应最高分仍被淘汰",
@@ -561,6 +617,38 @@
       "onboard_time": 1726873455,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146773,
+      "num": 422772,
+      "word": "黎巴嫩爆炸事件许多伤者失去眼睛",
+      "onboard_time": 1726882822,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 146665,
+      "num": 146665,
+      "word": "半熟男女",
+      "onboard_time": 1726886360,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145703,
+      "num": 145703,
+      "word": "当你的工作配不上你的审美",
+      "onboard_time": 1726880838,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 143870,
+      "num": 143870,
+      "word": "计算机二级",
+      "onboard_time": 1726880780,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 142611,
@@ -593,14 +681,6 @@
       "onboard_time": 1726842562,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140475,
-      "num": 140475,
-      "word": "计算机二级",
-      "onboard_time": 1726880780,
-      "rank": 45,
-      "category": "教育"
     },
     {
       "raw_hot": 139201,
@@ -651,14 +731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132104,
-      "num": 132104,
-      "word": "当你的工作配不上你的审美",
-      "onboard_time": 1726880838,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 130904,
       "num": 130904,
       "word": "喻言被伯远淘汰",
@@ -699,12 +771,52 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126084,
+      "num": 126084,
+      "word": "NBA再迎中国球员",
+      "onboard_time": 1726886599,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122827,
       "num": 122827,
       "word": "野孩子",
       "onboard_time": 1726849100,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 121951,
+      "num": 121951,
+      "word": "以军将巴勒斯坦人遗体踢下楼",
+      "onboard_time": 1726884140,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 119360,
+      "num": 119360,
+      "word": "孙颖莎见老朋友说veryhappy",
+      "onboard_time": 1726884321,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114179,
+      "num": 114179,
+      "word": "赵丽颖白裙花絮",
+      "onboard_time": 1726886660,
+      "rank": 48,
+      "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 113156,
+      "num": 113156,
+      "word": "小黑课堂直播",
+      "onboard_time": 1726884740,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 112314,
@@ -771,14 +883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97335,
-      "num": 422772,
-      "word": "黎巴嫩爆炸事件许多伤者失去眼睛",
-      "onboard_time": 1726882822,
-      "rank": 9,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 94086,
       "num": 94086,
       "word": "肖战出发澳门",
@@ -835,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52868,
+      "num": 269494,
+      "word": "你的车里会放破窗锤吗",
+      "onboard_time": 1726885460,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51882,
       "num": 84230,
       "word": "泰州姜堰发生2.2级地震",
@@ -867,12 +979,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 39583,
+      "num": 272452,
+      "word": "小英1年直播200多场带货总额超千万",
+      "onboard_time": 1726886539,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35151,
       "num": 35151,
       "word": "刘冲和赵露思合照",
       "onboard_time": 1726857733,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 31716,
+      "num": 974668,
+      "word": "北京文化论坛文艺晚会",
+      "onboard_time": 1726821740,
+      "rank": 2,
+      "category": "综艺"
     },
     {
       "raw_hot": 31138,
@@ -889,14 +1017,6 @@
       "onboard_time": 1726866551,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29844,
-      "num": 974668,
-      "word": "北京文化论坛文艺晚会",
-      "onboard_time": 1726821740,
-      "rank": 2,
-      "category": "综艺"
     },
     {
       "raw_hot": 28640,
