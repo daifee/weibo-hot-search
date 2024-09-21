@@ -1,6 +1,6 @@
 {
   "startTime": 1726849656112,
-  "endTime": 1726889874819,
+  "endTime": 1726892750699,
   "band_list": [
     {
       "raw_hot": 6135283,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1425012,
-      "num": 578264,
+      "num": 596305,
       "word": "蔡徐坤抱了赵露思的狗",
       "onboard_time": 1726885579,
       "rank": 6,
@@ -83,6 +83,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 938782,
+      "num": 505419,
+      "word": "袁巴元维护张雨绮",
+      "onboard_time": 1726887379,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 903928,
       "num": 903928,
       "word": "女子买4万黄金不挑款式店员果断报警",
@@ -97,6 +105,14 @@
       "onboard_time": 1726857313,
       "rank": 15,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 798415,
+      "num": 798415,
+      "word": "法考",
+      "onboard_time": 1726888401,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 761395,
@@ -139,14 +155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 568576,
-      "num": 568576,
-      "word": "法考",
-      "onboard_time": 1726888401,
-      "rank": 12,
-      "category": "教育"
-    },
-    {
       "raw_hot": 542480,
       "num": 414328,
       "word": "蔡徐坤赵露思同框看秀",
@@ -177,6 +185,14 @@
       "onboard_time": 1726878979,
       "rank": 3,
       "category": "国外时政,军事"
+    },
+    {
+      "raw_hot": 492078,
+      "num": 492078,
+      "word": "村干部称小英家曾是建档贫困户",
+      "onboard_time": 1726887020,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 483528,
@@ -251,12 +267,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354478,
+      "num": 354478,
+      "word": "朴秀荣或将离开SM",
+      "onboard_time": 1726892240,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353910,
       "num": 244619,
       "word": "小英掉粉揭示了大众对虚假人设的反感",
       "onboard_time": 1726883242,
       "rank": 29,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 349140,
+      "num": 349140,
+      "word": "孙千 程苗苗17岁的青春永不落幕",
+      "onboard_time": 1726890680,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 340601,
@@ -267,19 +299,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 339087,
-      "num": 339087,
-      "word": "村干部称小英家曾是建档贫困户",
-      "onboard_time": 1726887020,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 338228,
       "num": 485467,
       "word": "日本首相称中国将派员到福岛检测核污水",
       "onboard_time": 1726845081,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336983,
+      "num": 336983,
+      "word": "90后独生女独自面对父母离世",
+      "onboard_time": 1726891101,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -289,6 +321,14 @@
       "onboard_time": 1726837401,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331671,
+      "num": 311927,
+      "word": "葛晓倩回应袁巴元",
+      "onboard_time": 1726890378,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 324587,
@@ -315,12 +355,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 307565,
-      "num": 307565,
+      "raw_hot": 313944,
+      "num": 313944,
       "word": "湾区升明月阵容",
       "onboard_time": 1726888700,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 302820,
+      "num": 319063,
+      "word": "学生测试学校自来水洗脸巾秒变黑",
+      "onboard_time": 1726888581,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296493,
@@ -329,6 +377,14 @@
       "onboard_time": 1726879997,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293729,
+      "num": 305348,
+      "word": "我国小学生要具备一定的国防意识",
+      "onboard_time": 1726887679,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 291781,
@@ -368,6 +424,14 @@
       "word": "吴倩回应眼里没光了",
       "onboard_time": 1726823361,
       "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 271148,
+      "num": 271148,
+      "word": "吴谨言妆造",
+      "onboard_time": 1726890442,
+      "rank": 24,
       "category": "作品衍生"
     },
     {
@@ -435,12 +499,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 238987,
+      "num": 238987,
+      "word": "iPhone17标准版或配120Hz高刷",
+      "onboard_time": 1726891220,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 237753,
       "num": 237753,
       "word": "你终于发现上大学的真正主线了",
       "onboard_time": 1726886060,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 235664,
+      "num": 235664,
+      "word": "虞书欣 潘婷",
+      "onboard_time": 1726892001,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 235155,
@@ -489,6 +569,14 @@
       "onboard_time": 1726846040,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 214617,
+      "num": 214617,
+      "word": "赵晓卉考完摩托车证发现禁摩",
+      "onboard_time": 1726890500,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 212851,
@@ -547,20 +635,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 199256,
-      "num": 199256,
-      "word": "我国小学生要具备一定的国防意识",
-      "onboard_time": 1726887679,
-      "rank": 28,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 198617,
       "num": 198617,
       "word": "范思哲大秀",
       "onboard_time": 1726836620,
       "rank": 40,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 196267,
+      "num": 196267,
+      "word": "赵露思登世趋",
+      "onboard_time": 1726892478,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 194230,
@@ -585,6 +673,14 @@
       "onboard_time": 1726832539,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182756,
+      "num": 182756,
+      "word": "库克希望中国顾客喜爱iPhone16",
+      "onboard_time": 1726889240,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 181661,
@@ -641,6 +737,14 @@
       "onboard_time": 1726844899,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168874,
+      "num": 317260,
+      "word": "竹马追爱终于不用碰上天降",
+      "onboard_time": 1726891160,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 168152,
@@ -707,20 +811,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155302,
+      "num": 155302,
+      "word": "你好星期六",
+      "onboard_time": 1726890981,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154739,
       "num": 154739,
       "word": "台风",
       "onboard_time": 1726888101,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151362,
-      "num": 151362,
-      "word": "库克希望中国顾客喜爱iPhone16",
-      "onboard_time": 1726889240,
-      "rank": 38,
-      "category": "数码"
     },
     {
       "raw_hot": 150234,
@@ -761,6 +865,14 @@
       "onboard_time": 1726880838,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144109,
+      "num": 144109,
+      "word": "田曦薇米兰生图",
+      "onboard_time": 1726890141,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 143870,
@@ -851,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132404,
+      "num": 132404,
+      "word": "双子星公主 绝美公主",
+      "onboard_time": 1726892300,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 132250,
       "num": 132250,
       "word": "郑州8级以上雷暴大风",
@@ -872,6 +992,14 @@
       "word": "喻言被伯远淘汰",
       "onboard_time": 1726838962,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 129870,
+      "num": 129870,
+      "word": "许凯 真正的心寒不是大吵大闹",
+      "onboard_time": 1726890799,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -971,6 +1099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104481,
+      "num": 207391,
+      "word": "喻言管他什么淘不淘汰",
+      "onboard_time": 1726892001,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104125,
       "num": 104125,
       "word": "黄晓明官宣最大的受害者出现了",
@@ -1003,14 +1139,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 91193,
-      "num": 319063,
-      "word": "学生测试学校自来水洗脸巾秒变黑",
-      "onboard_time": 1726888581,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87494,
       "num": 87494,
       "word": "心疼李肆",
@@ -1041,6 +1169,14 @@
       "onboard_time": 1726860193,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 59646,
+      "num": 397578,
+      "word": "医院被曝一张CT片子套多个病历",
+      "onboard_time": 1726892181,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56705,
@@ -1115,12 +1251,44 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 38459,
+      "num": 343516,
+      "word": "第31个世界阿尔茨海默病日",
+      "onboard_time": 1726892420,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35286,
+      "num": 314174,
+      "word": "肖战让暖不止于暖",
+      "onboard_time": 1726891760,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 35151,
       "num": 35151,
       "word": "刘冲和赵露思合照",
       "onboard_time": 1726857733,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 33218,
+      "num": 217647,
+      "word": "王俊凯25岁生日新歌",
+      "onboard_time": 1726891459,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 32646,
+      "num": 315282,
+      "word": "61岁儿子陪伴86岁阿尔兹海默症妈妈",
+      "onboard_time": 1726891519,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31716,
@@ -1211,19 +1379,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14097,
+      "num": 603735,
+      "word": "青春华章",
+      "onboard_time": 1726819520,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13994,
       "num": 443152,
       "word": "泥人张第6代传人谈传统行业",
       "onboard_time": 1726889120,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12174,
-      "num": 579623,
-      "word": "青春华章",
-      "onboard_time": 1726819520,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

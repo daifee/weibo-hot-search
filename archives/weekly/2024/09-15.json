@@ -1,6 +1,6 @@
 {
   "startTime": 1726331122375,
-  "endTime": 1726889874819,
+  "endTime": 1726892750699,
   "band_list": [
     {
       "raw_hot": 28035334,
@@ -924,7 +924,7 @@
     },
     {
       "raw_hot": 1425012,
-      "num": 578264,
+      "num": 596305,
       "word": "蔡徐坤抱了赵露思的狗",
       "onboard_time": 1726885579,
       "rank": 6,
@@ -1867,6 +1867,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 938782,
+      "num": 505419,
+      "word": "袁巴元维护张雨绮",
+      "onboard_time": 1726887379,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 934569,
       "num": 934569,
       "word": "张雨绮疑似被换角",
@@ -2353,6 +2361,14 @@
       "onboard_time": 1726377379,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 798415,
+      "num": 798415,
+      "word": "法考",
+      "onboard_time": 1726822940,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 795669,
@@ -3371,14 +3387,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 568576,
-      "num": 568576,
-      "word": "法考",
-      "onboard_time": 1726822940,
-      "rank": 37,
-      "category": "教育"
-    },
-    {
       "raw_hot": 568320,
       "num": 568320,
       "word": "台风贝碧嘉",
@@ -4009,6 +4017,14 @@
       "onboard_time": 1726704681,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 492078,
+      "num": 492078,
+      "word": "村干部称小英家曾是建档贫困户",
+      "onboard_time": 1726887020,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 490668,
@@ -5275,6 +5291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 354478,
+      "num": 354478,
+      "word": "朴秀荣或将离开SM",
+      "onboard_time": 1726892240,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 354180,
       "num": 509688,
       "word": "台风普拉桑速度堪比飞毛腿",
@@ -5337,6 +5361,14 @@
       "onboard_time": 1726374738,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 349140,
+      "num": 349140,
+      "word": "孙千 程苗苗17岁的青春永不落幕",
+      "onboard_time": 1726890680,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 349077,
@@ -5515,14 +5547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 339087,
-      "num": 339087,
-      "word": "村干部称小英家曾是建档贫困户",
-      "onboard_time": 1726887020,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 338228,
       "num": 523496,
       "word": "日本首相称中国将派员到福岛检测核污水",
@@ -5560,6 +5584,14 @@
       "word": "医院回应家属自带折叠床被没收",
       "onboard_time": 1726773311,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336983,
+      "num": 336983,
+      "word": "90后独生女独自面对父母离世",
+      "onboard_time": 1726891101,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -5649,6 +5681,14 @@
       "onboard_time": 1726325842,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331671,
+      "num": 311927,
+      "word": "葛晓倩回应袁巴元",
+      "onboard_time": 1726890378,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 331568,
@@ -5923,6 +5963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313944,
+      "num": 313944,
+      "word": "湾区升明月阵容",
+      "onboard_time": 1726888700,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 313808,
       "num": 313808,
       "word": "刘冲和朱志鑫张极互关",
@@ -6059,14 +6107,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 307565,
-      "num": 307565,
-      "word": "湾区升明月阵容",
-      "onboard_time": 1726888700,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 306509,
       "num": 728716,
       "word": "台风天非必要不外出",
@@ -6145,6 +6185,14 @@
       "onboard_time": 1726666643,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 302820,
+      "num": 319063,
+      "word": "学生测试学校自来水洗脸巾秒变黑",
+      "onboard_time": 1726888581,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302033,
@@ -6321,6 +6369,14 @@
       "onboard_time": 1726831580,
       "rank": 5,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 293729,
+      "num": 305348,
+      "word": "我国小学生要具备一定的国防意识",
+      "onboard_time": 1726887679,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 293569,
@@ -6809,6 +6865,14 @@
       "onboard_time": 1726580002,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271148,
+      "num": 271148,
+      "word": "吴谨言妆造",
+      "onboard_time": 1726890442,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 270347,
@@ -7867,6 +7931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238987,
+      "num": 238987,
+      "word": "iPhone17标准版或配120Hz高刷",
+      "onboard_time": 1726891220,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 238772,
       "num": 238772,
       "word": "王楚钦孙颖莎男女单世界第一",
@@ -7945,6 +8017,14 @@
       "onboard_time": 1726399279,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235664,
+      "num": 235664,
+      "word": "虞书欣 潘婷",
+      "onboard_time": 1726892001,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 235155,
@@ -8593,6 +8673,14 @@
       "onboard_time": 1726839262,
       "rank": 8,
       "category": "社会新闻,国外时政"
+    },
+    {
+      "raw_hot": 214617,
+      "num": 214617,
+      "word": "赵晓卉考完摩托车证发现禁摩",
+      "onboard_time": 1726890500,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 214406,
@@ -9531,14 +9619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199256,
-      "num": 199256,
-      "word": "我国小学生要具备一定的国防意识",
-      "onboard_time": 1726887679,
-      "rank": 28,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 198930,
       "num": 198930,
       "word": "泰州姜堰发生2.2级地震",
@@ -9697,6 +9777,14 @@
       "onboard_time": 1726547960,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196267,
+      "num": 196267,
+      "word": "赵露思登世趋",
+      "onboard_time": 1726892478,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 196224,
@@ -10619,6 +10707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182756,
+      "num": 182756,
+      "word": "库克希望中国顾客喜爱iPhone16",
+      "onboard_time": 1726889240,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 182697,
       "num": 182697,
       "word": "女童走失跟着送上外卖了",
@@ -11481,6 +11577,14 @@
       "onboard_time": 1726553300,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168874,
+      "num": 317260,
+      "word": "竹马追爱终于不用碰上天降",
+      "onboard_time": 1726891160,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 168741,
@@ -12483,6 +12587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 155302,
+      "num": 155302,
+      "word": "你好星期六",
+      "onboard_time": 1726338193,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155247,
       "num": 155247,
       "word": "rapper左一燐曝唐老师家暴",
@@ -12761,14 +12873,6 @@
       "onboard_time": 1726819700,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151362,
-      "num": 151362,
-      "word": "库克希望中国顾客喜爱iPhone16",
-      "onboard_time": 1726889240,
-      "rank": 38,
-      "category": "数码"
     },
     {
       "raw_hot": 151322,
@@ -13201,6 +13305,14 @@
       "onboard_time": 1726839442,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144109,
+      "num": 144109,
+      "word": "田曦薇米兰生图",
+      "onboard_time": 1726890141,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 144042,
@@ -14115,6 +14227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132404,
+      "num": 132404,
+      "word": "双子星公主 绝美公主",
+      "onboard_time": 1726892300,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 132175,
       "num": 132175,
       "word": "李梓嘉比分",
@@ -14313,6 +14433,14 @@
       "onboard_time": 1726559841,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129870,
+      "num": 129870,
+      "word": "许凯 真正的心寒不是大吵大闹",
+      "onboard_time": 1726890799,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 129868,
@@ -15403,6 +15531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104481,
+      "num": 207391,
+      "word": "喻言管他什么淘不淘汰",
+      "onboard_time": 1726892001,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103979,
       "num": 103979,
       "word": "郑北姜小海第一张合影是顾一燃拍的",
@@ -15745,14 +15881,6 @@
       "onboard_time": 1726762100,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 91193,
-      "num": 319063,
-      "word": "学生测试学校自来水洗脸巾秒变黑",
-      "onboard_time": 1726888581,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90741,
@@ -16688,6 +16816,14 @@
       "word": "致敬台风中的守护者",
       "onboard_time": 1726495641,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59646,
+      "num": 397578,
+      "word": "医院被曝一张CT片子套多个病历",
+      "onboard_time": 1726892181,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -17691,6 +17827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38459,
+      "num": 343516,
+      "word": "第31个世界阿尔茨海默病日",
+      "onboard_time": 1726892420,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38419,
       "num": 601567,
       "word": "山山脱口秀",
@@ -17891,6 +18035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 35286,
+      "num": 314174,
+      "word": "肖战让暖不止于暖",
+      "onboard_time": 1726891760,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 35240,
       "num": 372258,
       "word": "被焦恩俊打戏硬控",
@@ -18067,12 +18219,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 33276,
-      "num": 35234,
-      "word": "你好星期六",
-      "onboard_time": 1726338193,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 33218,
+      "num": 217647,
+      "word": "王俊凯25岁生日新歌",
+      "onboard_time": 1726891459,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 33028,
@@ -18128,6 +18280,14 @@
       "word": "潜艇兵1分钟数十个动作突破海底狼嚎",
       "onboard_time": 1726347551,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32646,
+      "num": 315282,
+      "word": "61岁儿子陪伴86岁阿尔兹海默症妈妈",
+      "onboard_time": 1726891519,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
